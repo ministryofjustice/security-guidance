@@ -1,0 +1,20 @@
+title: MOJ security guidance
+
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: "standards"
+    values:
+      standard: true
+  -
+    scope:
+      path: "guides"
+    values:
+      guide: true
+  -
+    scope:
+      path: "principles"
+    values:
+      principle: true
