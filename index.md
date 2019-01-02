@@ -55,7 +55,7 @@ which covers technical decisions in the MOJ more widely.
 ## Suppliers to MOJ
 
 {% assign suppliers = site.pages
-  | where: "suppliers", true
+  | where: "supplier", true
   | group_by: "category" %}
 
 {% for supplier_group in suppliers %}
@@ -72,11 +72,11 @@ which covers technical decisions in the MOJ more widely.
 
 ## Mythbusting
 
-{% assign mythbusting = site.pages
+{% assign mythbustings = site.pages
   | where: "mythbusting", true 
   | group_by: "category" %}
 
-{% for myth_group in mythbusting %}
+{% for myth_group in mythbustings %}
 {% if myth_group.name != "" %}
 ### {{ myth_group.name }}
 {% else %}
