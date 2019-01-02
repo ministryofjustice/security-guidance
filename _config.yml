@@ -18,3 +18,13 @@ defaults:
       path: "principles"
     values:
       principle: true
+  -
+    scope:
+      path: "suppliers"
+    values:
+      principle: true
+  -
+    scope:
+      path: "mythbusting"
+    values:
+      principle: true
