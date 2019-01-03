@@ -62,7 +62,7 @@ which covers technical decisions in the MOJ more widely.
 {% if supplier_group.name != "" %}
 ### {{ supplier_group.name }}
 {% else %}
-### Suppliers to MOJ
+### General notes to suppliers
 {% endif %}
 
 {% for supplier in supplier_group.items %}
@@ -79,8 +79,6 @@ which covers technical decisions in the MOJ more widely.
 {% for myth_group in mythbustings %}
 {% if myth_group.name != "" %}
 ### {{ myth_group.name }}
-{% else %}
-### Mythbusting
 {% endif %}
 
 {% for myth in myth_group.items %}

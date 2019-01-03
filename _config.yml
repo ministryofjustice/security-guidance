@@ -22,9 +22,9 @@ defaults:
     scope:
       path: "suppliers"
     values:
-      principle: true
+      supplier: true
   -
     scope:
       path: "mythbusting"
     values:
-      principle: true
+      mythbusting: true
