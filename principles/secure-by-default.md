@@ -3,7 +3,7 @@ category: Secure by Default
 expires: 2019-07-01
 ---
 
-# Security by Default
+# Secure by Default
 
 We believe that technology should be Secure by Default: embedding security from inception so it is native and as transparent as possible.
 
@@ -15,7 +15,7 @@ Secure by Default is taking a holistic approach to solving security problems as 
 
 Embedding security within a design is directly comparable to good modern technical designs and fundementally ensuring the 'thing' actually works.
 
-### Security by Default
+### Secure by Default
 
 The [National Cyber Security Centre (NCSC)](https://www.ncsc.gov.uk) prescribe the Secure by Default principles as: 
 
