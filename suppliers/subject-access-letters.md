@@ -1,12 +1,13 @@
 ---
-category: Suppliers to MOJ
 expires: 2019-03-15
 ---
-# The MOJ Security Aspects Letter
+# Security Aspects Letters
 
 ## Purpose
 
-The MOJ will issue a Security Aspect Letter (SAL) where appropriate. This is generally not required at OFFICIAL, but may be required to supersede existing SALs from the previous classification scheme.
+The MOJ will issue a Security Aspect Letter (SAL) where appropriate.
+
+SALs are generally not required at OFFICIAL but MOJ may issue a SAL where it is optimal to do so or to supersede existing SALs from the previous classification scheme.
 
 This page was last updated on 2018-12-21
 
