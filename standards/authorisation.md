@@ -16,7 +16,13 @@ This helps reduce the "attack surface" of the computer by eliminating unnecessar
 
 Day to day examples include: not ordinarily using an 'administrator' login on an end-user device (such as a laptop) or logging into a server as 'root'.
 
-## `assume-role`
+### Administrator definition
+
+An administrator is much broader than a technical system administrator to a server, network or service (such as 'domain admin' in Microsoft Active Directory) but someone has who has higher levels of access or control than a required for day to day operation.
+
+Examples include those with high privileges on a MOJ github.com repository and credentials to the MOJ communications accounts (such as social media).
+
+## AWS assume-role
 
 Amazon Web Services (AWS) Identity and Access Management (IAM) has a `Role` function, which effectively allows explicitly permitted and explicitly denied activity (within the AWS ecosystem) to be defined on a per role-based.
 
