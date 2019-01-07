@@ -2,25 +2,22 @@
 
 ## Overview
 
-This repository contains best-practice guidance and - where appropriate - policy for Ministry of Justice (MOJ) IT Security.
-The information ranges from formal content such as 'you must' -style documents, through to more informal help and suggestions, such as checklists.
-The content is used to help build an operate products at the MOJ.
+This repository contains best-practice guidance and - where appropriate - policy for Ministry of Justice (MOJ) technology security.
+
+The information ranges from formal content such as 'you must'-style documents, through to more informal help and suggestions, such as checklists.
+
+The content is used to help build and operate products at the MOJ.
 
 The work is performed in the open by intent and for compliance with principle.
-There is no specific aim or expectation of sharing or using the materials outside the MOJ - but people are welcome to do so if they wish.
+There is no specific aim or expectation of re-use of these materials outside of MOJ purposes - but people are welcome to do so if they wish in accordance with the published license.
 
 Note: As a vibrant, dynamic, work-in progress, this the material should not necessarily be treated as formal, finished, definitive, accurate, etc.
 
 ## Repository details
 
-This repo
-is inspired by, and borrows from, [GDS's technical guidance][gds-way]
-site and [MOJ's technical guidance][technical-guidance].
+This repo is inspired by, and borrows from, [GDS's technical guidance][gds-way] site and [MOJ's technical guidance][technical-guidance].
 
-Content in the `master` branch is built using [Jekyll][], and hosted using [GitHub Pages][]. It
-incorporates HTML, SCSS, JavaScript, and images from [GDS's Tech Docs Template][tech-docs-template],
-and reworks them to work with Jekyll
-instead of [Middleman][].
+Content in the `master` branch is built using [Jekyll][], and hosted using [GitHub Pages][]. It incorporates HTML, SCSS, JavaScript, and images from [GDS's Tech Docs Template][tech-docs-template], and reworks them to work with Jekyll instead of [Middleman][].
 
 [gds-way]: https://github.com/alphagov/gds-way
 [technical-guidance]: https://ministryofjustice.github.io/technical-guidance/
