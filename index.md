@@ -89,15 +89,17 @@ which covers technical decisions in the MOJ more widely.
 ## Getting in touch
 
 {% assign contacts = site.pages
-  | where: "contact", true 
+  | where: "contact", true
   | group_by: "category" %}
 
-{% for contact_group in contacts %}
+{% for contact in contacts %}
 {% if contact_group.name != "" %}
 ### {{ contact_group.name }}
+{% else %}
+### General information
 {% endif %}
 
 {% for contact in contact_group.items %}
-- [{{ myth.title }}]({{ myth.url | relative_url }})
+- [{{ contact.title }}]({{ contact.url | relative_url }})
 {% endfor %}
 {% endfor %}
