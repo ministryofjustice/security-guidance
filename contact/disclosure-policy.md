@@ -1,0 +1,109 @@
+---
+category: Vulnerability Disclosure
+expires: 2019-03-15
+---
+# Security Disclosure Policy
+
+_We recommend reading this disclosure policy document fully before you report any vulnerabilities. This helps ensure that you understand the policy, and act in compliance with it._
+
+We actively endorse and support working with the research and security practitioner community to improve our online security.
+
+The Ministry of Justice (MOJ) welcomes investigative work into security vulnerabilities, carried out by well-intentioned and ethical security researchers. We are committed to:
+
+- investigating and resolving security issues in our platform and services thoroughly
+- working in collaboration with the security community
+- responding promptly and actively
+
+This document explains how the MOJ works with the security research community to improve our online security.
+
+Please note that this document does not provide any form of indemnity for any actions if they are either in breach of the law or of this policy. It does not provide an indemnity from the MOJ or any third party.
+
+This page was last updated 2018-01-10.
+
+## Scope
+
+This disclosure policy applies *_only_* to vulnerabilities in MOJ products and services under the following conditions:
+
+* 'in scope' vulnerabilities must be original, previously unreported, and not already discovered by internal procedures
+* volumetric vulnerabilities are not in scope - meaning that simply overwhelming a service with a high volume of requests is not in scope
+* reports of non-exploitable vulnerabilities, or reports indicating that our services do not fully align with "best practice", for example missing security headers, are not in scope
+* TLS configuration weaknesses, for example "weak" cipher suite support or the presence of TLS1.0 support, are not in scope
+
+The policy applies to everyone, including for example MOJ staff, third party suppliers and general users of MOJ public services.
+
+## Bug Bounty
+
+Unfortunately, due to the MOJ’s funding structure, it is not currently possible for us to offer a paid bug bounty programme. We will, however, make efforts to show our appreciation to security researchers who take the time and effort to investigate and report security vulnerabilities to us according to this policy wherever we can.
+
+## Reporting a vulnerability
+
+If you have discovered something you believe to be an in-scope security vulnerability, first you should check the above details for more information about scope, then email:
+[mailto:security@digital.justice.gov.uk]()
+
+In your email, include details of:
+
+* the website or page where the vulnerability can be observed
+* a brief description of the type of vulnerability, for example an "XSS vulnerability".
+
+When sending information or examples, use our disclosure encryption key, available here:
+[https://www.justice.gov.uk/security/public.key]()
+Using the key helps protect sensitive information, such as details of how to reproduce the vulnerability.
+
+Your report should provide a benign, non-destructive, proof of exploitation wherever possible. This helps to ensure that the report can be triaged quickly and accurately. It also reduces the likelihood of duplicate reports, or malicious exploitation of some vulnerabilities, such as sub-domain takeovers. 
+
+## Domain/IP ownership
+
+If you are not sure whether the MOJ is responsible for a service or an IP address where you've discovered something, just ask by contacting us at:
+security@digital.justice.gov.uk
+
+Alternatively, report issues to the National Cyber Security Centre (NCSC). More information about how to do this is available on their [vulnerability-reporting page](https://www.ncsc.gov.uk/vulnerability-reporting).
+
+## What to expect
+
+After you contact security@digital.justice.gov.uk, you will receive an acknowledgement reply from the MOJ Security & Privacy team. This is usually within 24 working hours of your report being received.
+
+The team will triage the reported vulnerability, and respond as soon as possible to let you know whether further information is required, whether the vulnerability is in or out of scope, or is a duplicate report. If remediation work is necessary, it is assigned to the appropriate MOJ teams or supplier(s), supported by the Security & Privacy team.
+
+Priority for bug fixes or mitigations is assessed by looking at the impact severity and exploit  complexity. Vulnerability reports might take some time to triage or address. You are welcome to enquire on the status of the process, but should avoid doing so more than once every 14 days. The reason is allow our teams to focus on the reports as much as possible.
+
+When the reported vulnerability is resolved, or remediation work is scheduled, the Security & Privacy team will notify you, and invite you to confirm that the solution covers the vulnerability adequately.
+
+You are particularly invited to give us feedback on the disclosure handling process, the clarity and quality of the communication relationship, and of course the effectiveness of the vulnerability resolution. This feedback will be used in strict confidence to help us improve our processes for handling reports, developing services, and resolving vulnerabilities.
+
+Where a report qualifies, we will offer to include you in our thanks and acknowledgment information, held on a public page at [https://www.justice.gov.uk/security/thanks.html](). We will ask you to confirm the details you want included before they are published.
+
+## Guidance
+
+Security researchers *must not*:
+
+* access unnecessary amounts of data. For example, 2 or 3 records is enough to demonstrate most vulnerabilities, such as an enumeration or direct object reference vulnerability
+* use high-intensity invasive or destructive technical security scanning tools to find vulnerabilities
+* violate the privacy of MOJ users, staff, contractors, services or systems. For example by sharing, redistributing and/or not properly securing data retrieved from our systems or services;
+* communicate any vulnerabilities or associated details using methods not described in this policy, or with anyone other than their assigned MOJ security contact
+* modify data in MOJ systems or services which does not belong to the researcher
+* disrupt MOJ services or systems
+* social engineer, ‘phish’ or physically attack MOJ staff or infrastructure
+* disclose any vulnerabilities in MOJ systems or services to 3rd parties or the public, prior to the MOJ confirming that those vulnerabilities have been mitigated or rectified
+* require financial compensation in order to disclose any vulnerabilities outside of a declared bug bounty reward structure (such as holding an organisation to ransom)
+
+The last point, about not notifying vulnerabilities to 3rd parties (a party other than yourself and the MOJ) is not intended to stop you notifying a vulnerability to 3rd parties for whom the vulnerability is directly relevant. An example would be where the vulnerability being reported is in a software library or framework. The point is that details of the specific vulnerability as it applies to the MOJ must not be referenced in such reports. For clarification about whether or when you can notify 3rd parties, contact security@digital.justice.gov.uk.
+
+We ask you to delete securely any and all data retrieved during your research as soon as it is no longer required or within 1 month of the vulnerability being resolved, whichever occurs first.
+
+If at any time you are unsure if your intended or actual actions are acceptable, contact the MOJ security team for guidance, using our encryption key to protect any sensitive details. The team can be contacted at: security@digital.justice.gov.uk.
+
+## Legalities
+
+This policy is designed to be compatible with common good practice among well-intentioned security researchers. It does not give you permission to act in any manner that is inconsistent with the law, or which might cause the MOJ to be in breach of any of its legal obligations, including but not limited to (as updated from time to time):
+* The Computer Misuse Act (1990)
+* The General Data Protection Regulation 2016/679 (GDPR) and the Data Protection Act 2018
+* The Copyright, Designs and Patents Act (1988)
+* The Official Secrets Act (1989)
+
+The MOJ affirms that it will not seek prosecution of any security researcher who reports any security vulnerability on an MOJ service or system, where the researcher has acted in good faith and in accordance with this disclosure policy.
+
+## Feedback
+
+If you wish to provide feedback or suggestions on this policy, contact our security team: security@digital.justice.gov.uk. The policy will naturally evolve over time; your input is welcome and will be valued to ensure that the policy remains clear, complete, and relevant.
+
+h/t to [https://www.bbc.com/backstage/security-disclosure-policy/]()

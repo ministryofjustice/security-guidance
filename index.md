@@ -86,8 +86,20 @@ which covers technical decisions in the MOJ more widely.
 {% endfor %}
 {% endfor %}
 
-## Reporting an incident
+## Getting in touch
 
-MOJ colleagues should visit https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/ on the MOJ Intranet.
+{% assign contacts = site.pages
+  | where: "contact", true
+  | group_by: "category" %}
 
-Suppliers to the MOJ should refer to provided methods/documentation and contact your usual MOJ points of contact.
+{% for contact in contacts %}
+{% if contact_group.name != "" %}
+### {{ contact_group.name }}
+{% else %}
+### General information
+{% endif %}
+
+{% for contact in contact_group.items %}
+- [{{ contact.title }}]({{ contact.url | relative_url }})
+{% endfor %}
+{% endfor %}

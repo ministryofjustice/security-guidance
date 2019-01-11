@@ -13,23 +13,23 @@ This page was last updated on 2018-12-21
 
 ## Template
 
-Dear <NAME OR ROLE OF SECURITY DIRECTOR>,
+Dear `<NAME OR ROLE OF SECURITY DIRECTOR>`,
 
 **Subject: Security Aspects Letter**
 
-This Security Aspects Letter (‘SAL’) establishes the security principles which <ORGANISATION LONG LEGAL NAME, should be highest entity position such as the Group Plc> and/or its affiliates (together “<ORGANISATION SHORTNAME>”) shall comply with in producing, handling or storing materials, information or data pertaining to the Ministry of Justice (‘Authority’).
+This Security Aspects Letter (‘SAL’) establishes the security principles which `<ORGANISATION LONG LEGAL NAME, should be highest entity position such as the Group Plc>` and/or its affiliates (together “`<ORGANISATION SHORTNAME>`”) shall comply with in producing, handling or storing materials, information or data pertaining to the Ministry of Justice (‘Authority’).
 
-This letter applies to <ORGANISATION SHORTNAME> and any relevant subcontractor within <ORGANISATION SHORTNAME>’s supply chain as required.
+This letter applies to `<ORGANISATION SHORTNAME>` and any relevant subcontractor within `<ORGANISATION SHORTNAME>’s supply chain as required.
 
 The following sections have been identified as the main areas where guidance is required. If there are any queries, please ask for clarification.
 
 **<u>Purpose</u>**
 
-This SAL issued by the Authority intends to convey the security principles required of <ORGANISATION SHORTNAME> to appropriately and proportionately ensure adequate confidentiality, integrity and availability of Authority data.
+This SAL issued by the Authority intends to convey the security principles required of `<ORGANISATION SHORTNAME>` to appropriately and proportionately ensure adequate confidentiality, integrity and availability of Authority data.
 
 The SAL is not a complete and exhaustive list of requirements and conveys the spirit of information security and risk management requirements.
 
-<ORGANISATION SHORTNAME> is required to ensure a comprehensive approach to information risk management through procedural, policy, personnel, physical and technical controls while in possession of Authority information.
+`<ORGANISATION SHORTNAME>` is required to ensure a comprehensive approach to information risk management through procedural, policy, personnel, physical and technical controls while in possession of Authority information.
 
 **<u>Markings</u>**
 
@@ -39,9 +39,9 @@ All information must be considered OFFICIAL whether it bears a marking or not.
 
 **<u>Handling Instructions</u>**
 
-It should be noted that assigning an appropriate classification to information remains the responsibility of the creator or owner of the asset. Information marked with the SENSITIVE handling caveat may state, or otherwise be accompanied by, additional handling requirements (for example to limit distribution or define additional access controls) which all recipients including the <ORGANISATION SHORTNAME> must comply with.
+It should be noted that assigning an appropriate classification to information remains the responsibility of the creator or owner of the asset. Information marked with the SENSITIVE handling caveat may state, or otherwise be accompanied by, additional handling requirements (for example to limit distribution or define additional access controls) which all recipients including the `<ORGANISATION SHORTNAME>` must comply with.
 
-In general, the Authority expects <ORGANISATION SHORTNAME> to apply the need-to-know principle to information related to Authority systems, and restrict access to such material to those within <ORGANISATION SHORTNAME> (and its supply chain) who genuinely need it to perform their duties. General system information such as system names, IP addresses, high-level designs, etc does not require special handling protections.
+In general, the Authority expects `<ORGANISATION SHORTNAME>` to apply the need-to-know principle to information related to Authority systems, and restrict access to such material to those within `<ORGANISATION SHORTNAME>` (and its supply chain) who genuinely need it to perform their duties. General system information such as system names, IP addresses, high-level designs, etc does not require special handling protections.
 
 **<u>Legacy Material</u>**
 
@@ -51,13 +51,13 @@ Information marked under previous classification schemes should be reviewed as t
 
 **<u>Data Aggregation</u>**
 
-In aggregation, the impact of a breach of any of these Security Aspects may be higher than the individual records or documents. <ORGANISATION SHORTNAME> should ensure that aggregated or accumulated collections of information assets are protected appropriately.
+In aggregation, the impact of a breach of any of these Security Aspects may be higher than the individual records or documents. `<ORGANISATION SHORTNAME>` should ensure that aggregated or accumulated collections of information assets are protected appropriately.
 
 **<u>Data Offshoring</u>**
 
-<ORGANISATION SHORTNAME> is permitted to Process Authority data (including Personal Data) outside of the United Kingdom subject to the maintenance of adequate information controls and governance, including (not not limited to), the continuation of the protection of rights and freedoms of Data Subjects in relation to their Personal Data, adequate contractual controls and adequate consideration under the <ORGANISATION SHORTNAME> Information Security Management System (ISMS).
+`<ORGANISATION SHORTNAME>` is permitted to Process Authority data (including Personal Data) outside of the United Kingdom subject to the maintenance of adequate information controls and governance, including (not not limited to), the continuation of the protection of rights and freedoms of Data Subjects in relation to their Personal Data, adequate contractual controls and adequate consideration under the `<ORGANISATION SHORTNAME>` Information Security Management System (ISMS).
 
-<ORGANISATION SHORTNAME> must not routinely transfer or otherwise Process Authority data within an incompatible legal framework to the United Kingdom - more information on this is available on suitable request from the Authority.
+`<ORGANISATION SHORTNAME>` must not routinely transfer or otherwise Process Authority data within an incompatible legal framework to the United Kingdom - more information on this is available on suitable request from the Authority.
 
 *Definitions are as per the Data Protection Act (2018)*
 
@@ -79,7 +79,7 @@ Physical locations (such as offices and data-centres) must have appropriate phys
 
 All personnel with direct or indirect access to, or influence over, information assets must achieve security clearance to at least the [HMG Baseline Personnel Security Standard (BPSS)](https://www.gov.uk/government/publications/government-baseline-personnel-security-standard).
 
-Some roles and sites may require additional levels of clearance. These will be advised by the Authority to <ORGANISATION SHORTNAME> on a case-by-case basis. 
+Some roles and sites may require additional levels of clearance. These will be advised by the Authority to `<ORGANISATION SHORTNAME>` on a case-by-case basis. 
 
 All required security clearances must be achieved, and warranted to the Authority, prior to commencement of work by the individual unless otherwise agreed in writing by the Authority.
 
@@ -89,15 +89,15 @@ Full details of Security Clearance requirements are available with the Authority
 
 **Systems**
 
-IT systems must be assessed under <ORGANISATION SHORTNAME> ISMS to ensure an appropriate level of informational risk understanding and where applicable corresponding controls or risk mitigation strategies.
+IT systems must be assessed under `<ORGANISATION SHORTNAME>` ISMS to ensure an appropriate level of informational risk understanding and where applicable corresponding controls or risk mitigation strategies.
 
 IT technical controls should make all efforts to align to current recognised good practices and be periodically reviewed (no less than 12 month intervals) to understand and re-align controls where appropriate. Best practices include, but are not limited to, encryption methods, multi-factor authentication and software life cycles.
 
-<ORGANISATION SHORTNAME> must ensure system suitability as per the output of the <ORGANISATION SHORTNAME> ISMS prior to the introduction of non-test data.
+`<ORGANISATION SHORTNAME>` must ensure system suitability as per the output of the `<ORGANISATION SHORTNAME>` ISMS prior to the introduction of non-test data.
 
-<ORGANISATION SHORTNAME> must provide information risk management information to the Authority on request so that the Authority may determine whether the assessment made and controls in place are sufficient and robust.
+`<ORGANISATION SHORTNAME>` must provide information risk management information to the Authority on request so that the Authority may determine whether the assessment made and controls in place are sufficient and robust.
 
-Any remedial activity that may be required by the Authority will be considered under contractual and commercial arrangements however <ORGANISATION SHORTNAME> must acknowledge that systems must be fundamentally fit for purpose and capable of protecting information assets in proportion to their content and value as defined by <ORGANISATION SHORTNAME> and/or the Authority.
+Any remedial activity that may be required by the Authority will be considered under contractual and commercial arrangements however `<ORGANISATION SHORTNAME>` must acknowledge that systems must be fundamentally fit for purpose and capable of protecting information assets in proportion to their content and value as defined by `<ORGANISATION SHORTNAME>` and/or the Authority.
 
 **Data transfer protections (data-in-transit)**
 
@@ -113,7 +113,7 @@ Some examples of satisfactory approaches include, but are not limited to:
 - NCSC-approved products or services for data transfer
 - Authority-approved products or services for data transfer
 
-<ORGANISATION SHORTNAME> should discuss with the Authority where deviations from NCSC recommendations may be required due to technological limitations.
+`<ORGANISATION SHORTNAME>` should discuss with the Authority where deviations from NCSC recommendations may be required due to technological limitations.
 
 **<u>SAL revisions</u>**
 
@@ -132,15 +132,15 @@ Yours sincerely,
 
 ## Declaration
 
-<ORGANISATION SHORTNAME> will be required to return a declaration.
+`<ORGANISATION SHORTNAME>` will be required to return a declaration.
 
 *Please sign the declaration below and return this letter to the Authority, keeping a copy for your own records. Should you have any queries, please contact the Authority via your point of contact and/or the contact details located within the SAL.*
 
 **<u>Supplier Declaration</u>**
 
-The <ORGANISATION SHORTNAME> hereby confirms that the associated with the requirements described in this Security Aspects Letter have been brought to the attention of the individuals and organisations directly responsible for the provision of the various services. Additionally, that they are fully understood, and that the required security controls can and will be taken to safeguard the material and assets concerned.
+The `<ORGANISATION SHORTNAME>` hereby confirms that the associated with the requirements described in this Security Aspects Letter have been brought to the attention of the individuals and organisations directly responsible for the provision of the various services. Additionally, that they are fully understood, and that the required security controls can and will be taken to safeguard the material and assets concerned.
 
-For and on behalf of <ORGANISATION SHORTNAME>
+For and on behalf of `<ORGANISATION SHORTNAME>`
 
 ………………………………………….. (name)
 
@@ -166,4 +166,4 @@ External:
 
 Action:
 
-- <ORGANISATION SHORTNAME>
+- `<ORGANISATION SHORTNAME>`

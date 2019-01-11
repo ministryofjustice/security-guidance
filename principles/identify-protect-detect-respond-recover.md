@@ -1,11 +1,11 @@
 ---
-category: PROTECT, DETECT, RESPOND, RECOVER
+category: IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER
 expires: 2019-07-01
 ---
 
-# PROTECT, DETECT, RESPOND, RECOVER
+# IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER
 
-The MOJ is required to adheed (but prefers to exceed) to the [Minimum Cyber Security Standard (MCSS)](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard).
+The MOJ is required to adhere (but prefers to exceed) to the [Minimum Cyber Security Standard (MCSS)](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard).
 
 ## The Standard
 
@@ -15,7 +15,7 @@ More information is available from [https://www.gov.uk/government/publications/t
 
 ### IDENTIFY
 
-IDENTIFY is a precursor standard that requires:
+IDENTIFY is a prerequisite standard that requires:
 
 * appropriate information security governance processes;
 * identification and cataloging of information held/processed; and
