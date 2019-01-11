@@ -3,9 +3,10 @@ expires: 2019-03-15
 ---
 # Cryptography
 
-## The base principle
+## The base principles
 
-All data **must** employ adequate and proportionate cryptography to preserve confidentiality and integrity whether data is at-rest or in-transit.
+* All data **must** employ adequate and proportionate cryptography to preserve confidentiality and integrity whether data is at-rest or in-transit.
+* Existing cryptographic algorithms (and implementations thereof) should be used - at the highest possible abstraction level.
 
 ## In-transit
 
@@ -19,9 +20,11 @@ In general, subject to document exceptions (such as end-user needs and required 
 
 ### Testing
 
-Tools such as [Qualys SSL Server Test](https://www.ssllabs.com/ssltest/) and Check TLS services from [checktls.com](http://www.checktls.com/index.html) **should** be used where applicable to help identify most common issues and configuration problems.
+Tools such as [Qualys SSL Server Test](https://www.ssllabs.com/ssltest/) and Check TLS services from [checktls.com](http://www.checktls.com/index.html) **must** be used where applicable to help identify most common issues and configuration problems.
 
 While these tools are not a replacement for skilled testing, the outputs of these tools can help you identify inefficient or insecure configurations which should be considered for remediation.
+
+Configurations should be periodically re-validated.
 
 ### Internet protocol security (IPsec)
 
@@ -41,10 +44,11 @@ Portable storage such as CDs, DVDs and USB sticks can be safely used to move dat
 
 While the following certifications are preferred, they may not be required based on the data and data methods being stored or transported.
 
-* EN 60529 IP 56
 * [FIPS 140-2 Level 3](https://en.wikipedia.org/wiki/FIPS_140-2)
 * [NCSC CPA](https://www.ncsc.gov.uk/scheme/commercial-product-assurance-cpa)
 * [NATO Restricted Level Certified](https://www.ia.nato.int/NIAPC/)
+
+The MOJ prefers the use of network-based transfers compared to the use of portable storage (even if the portable storage is encrypted).
 
 ### Portable end-user devices
 
@@ -55,7 +59,5 @@ The [NCSC End-user Device Security Collection](https://www.ncsc.gov.uk/guidance/
 Summarily, native at-rest encryption must be enabled with a suitable and proportional decryption code (typically, a password) and hardware-backed cryptography is preferred.
 
 ### Hashing
-
-Data that should be kept confidential or is worthwhile to otherwise obfuscate should be hashed. This **must** apply where authentication credentials are stored, such as a password.
 
 The published [MOJ Password Standard](https://github.com/ministryofjustice/itpolicycontent/blob/master/content/security/framework/password-standard.md) has a [section on hashing as part of password storage](https://github.com/ministryofjustice/itpolicycontent/blob/master/content/security/framework/password-standard.md#password-storage).
