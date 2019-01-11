@@ -28,3 +28,8 @@ defaults:
       path: "mythbusting"
     values:
       mythbusting: true
+  -
+    scope:
+      path: "contact"
+    values:
+      contact: true
