@@ -17,7 +17,7 @@ The [National Cyber Security Centre (NCSC)](https://www.ncsc.gov.uk/) have publi
 
 In general, subject to document exceptions (such as end-user needs and required legacy backwards compatiability)
 
-#### Testing
+### Testing
 
 Tools such as [Qualys SSL Server Test](https://www.ssllabs.com/ssltest/) and Check TLS services from [checktls.com](http://www.checktls.com/index.html) **should** be used where applicable to help identify most common issues and configuration problems.
 
@@ -30,6 +30,10 @@ NCSC have published information on good IPsec configurations [https://www.ncsc.g
 ## At-rest
 
 At-rest encryption techniques can protect data while being stored and even during some processing. At-rest techniques usually protect against physical theft or attack methods.
+
+### 3rd Party Storage
+
+When using 3rd party services/storage from cloud providers such as Amazon Web Services (AWS) or Microsoft Azure for example, you must always enable encryption-at-rest by default. Ensuring unauthorised access to the encryption key is vital, therefore depending on the risks, the key management can either be managed by yourself or by the cloud provider. 
 
 ### Portable storage
 
