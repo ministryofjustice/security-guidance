@@ -8,6 +8,7 @@ This is a copy of the central and unified MOJ security.txt file that is redirect
 
 ## /.well_known/security.txt
 
+```
 # UK Ministry of Justice (MOJ)
 # Reporting security vulnerabilities to the MOJ
 
@@ -33,3 +34,4 @@ Hiring: https://jobs.jobvite.com/justicedigitalandtechnology/jobs
 # <3 MOJ Digital & Technology Security & Privacy team
 # Read more about the MOJ https://www.gov.uk/government/organisations/ministry-of-justice
 # Read more about MOJ Digital & Technology https://mojdigital.blog.gov.uk/
+```
