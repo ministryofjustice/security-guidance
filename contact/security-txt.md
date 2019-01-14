@@ -28,7 +28,7 @@ Acknowledgements: https://www.justice.gov.uk/security/thanks.html
 # If you’re interested in working at the MOJ (including in our cybersecurity and privacy teams):
 Hiring: https://jobs.jobvite.com/justicedigitalandtechnology/jobs
 
-# Please see [https://securitytxt.org/]() for details of the specification of this file
+# Please see https://securitytxt.org/ for details of the specification of this file
 # h/t to https://www.bbc.com/backstage/security-disclosure-policy/
 
 # <3 MOJ Digital & Technology Security & Privacy team

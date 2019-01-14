@@ -92,7 +92,7 @@ which covers technical decisions in the MOJ more widely.
   | where: "contact", true
   | group_by: "category" %}
 
-{% for contact in contacts %}
+{% for contact_group in contacts %}
 {% if contact_group.name != "" %}
 ### {{ contact_group.name }}
 {% else %}
