@@ -57,7 +57,7 @@ The MOJ has an order of preference for MFA.
 
 ### MFA for Administrators
 
-Administrative accounts **must** always have MFA, and have techniques in-place to ensure it is always enabled and active for each account.
+Administrative accounts **must** always have MFA (unless impractical to do so, types 1 to 4 from the list above are strongly preferred) and have techniques in-place to ensure it is always enabled and active for each account.
 
 ### MFA for important or privileged actions
 
