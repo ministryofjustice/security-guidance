@@ -9,7 +9,7 @@ expires: 2019-03-15
 
 ## The base principle
 
-All secrets **must** be adequately protected from a loss of confidentiality or integrity. Secrets, much like other confidential data, must only be accessible or otherwise open to influence from intended authorised parties.
+All secrets **must** be adequately protected from a loss of confidentiality or integrity. Secrets, much like other confidential data, must be controlled so they can only be viewed or influenced by authorised parties.
 
 ## Application & infrastructure secrets
 
@@ -20,6 +20,8 @@ Where possible, use infrastructure-based secrets management services such as [AW
 It should be rare and exceptional to store secrets within code repositories, such as in Github.com, and where conducted must use [git-crypt](https://github.com/AGWA/git-crypt) to encrypt those secrets and control who has the ability to view (decrypt) those secrets.
 
 Secrets must never be stored in plain-text, particularly in code repositories.
+
+Secrets for managing infrastructure must be issued as user authentication secrets, not a single shared secret.
 
 ## User authentication secrets
 

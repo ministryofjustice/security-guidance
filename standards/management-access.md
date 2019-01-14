@@ -7,6 +7,18 @@ expires: 2019-03-15
 
 Management or administrative access **must** be limited to authorised authenticated users and utilise multi-factor authentication wherever possible.
 
+## Application program interface (**API**)
+
+APIs are preferred over Secure Shell (SSH) as by comparison they generally offer greater technical security limitations without the need for parsing commands.
+
+## Automated diagnositic data collection
+
+It should be exceptional to directly administer a server/node when adequate diagnositic data collection sends underlying technical data to a place where it can be correlated and analysed.
+
+## Pre-defined, pre-audited
+
+Tools such as [Systems Manager](https://aws.amazon.com/systems-manager/) and comparable techniques over preferred over manual intervention (such as human interaction over SSH) as the intervention path can be carefully designed to avoid human error and effectively instruct pre-audited actions to be taken on an administrator's behalf.
+
 ## Secure Shell (SSH)
 
 Use of bastion or 'jump' boxes for access into systems is a useful technical security design that also helps 'choke' and control such sessions.
@@ -24,15 +36,3 @@ SSH shells must be limited to users who need shell (by comparison to users who w
 Joiners/Movers/Leavers processes must be strictly enforced (optimally, automated) on SSH servers as they are a critical and priviledged access method.
 
 SSH should not be password-based, and should use individually created and purposed SSH keypairs. <u>Private keys must not be shared or re-used</u>.
-
-## Application program interface (**API**)
-
-APIs are preferred over SSH as by comparison they generally offer greater technical security limitations without the need for parsing commands.
-
-## Automated diagnositic data collection
-
-It should be exceptional to directly administer a server/node when adequate diagnositic data collection sends underlying technical data to a place where it can be correlated and analysed.
-
-## Pre-defined, pre-audited
-
-Tools such as [Systems Manager](https://aws.amazon.com/systems-manager/) and comparable techniques over preferred over manual intervention (such as human interaction over SSH) as the intervention path can be carefully designed to avoid human error and effectively instruct pre-audited actions to be taken on an administrator's behalf.
