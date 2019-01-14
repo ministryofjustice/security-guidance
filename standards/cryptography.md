@@ -34,9 +34,27 @@ NCSC have published information on good IPsec configurations [https://www.ncsc.g
 
 At-rest encryption techniques can protect data while being stored and even during some processing. At-rest techniques usually protect against physical theft or attack methods.
 
-### 3rd Party Storage
+### Server-based
 
-When using 3rd party services/storage from cloud providers such as Amazon Web Services (AWS) or Microsoft Azure for example, you must always enable encryption-at-rest by default. Ensuring unauthorised access to the encryption key is vital, therefore depending on the risks, the key management can either be managed by yourself or by the cloud provider. 
+Local storage (such as operating system locations) and filestores (such as storage area networks) should be considered for at-rest encryption to help mitigate again physical interception (such as theft) threats.
+
+Given the autonomous nature of server provisioning and management, it may not always be technically practical to implement such encryption (particularly when a physical server restart would require human intervention with a decryption passphrase).
+
+In general, at-rest encryption **must** always be proportionally considered, even if documented as not reasonable to implement.
+
+#### Cloud-based
+
+Vendor managed at-rest encryption **must** be enabled by default unless there is a good reason not to (for example, licensing restrictions or severe performance issues).
+
+Vendor managed at-rest encryption (the vendor will typically managed encryption keys, on-the-fly encryption and decryption) is preferred, shifting management to the vendor under the shared responsibility model.
+
+In some circumstances, it _may_ be reasonable to self-managed encryption keys but should be relatively rare.
+
+### End-User Device based
+
+Native at-rest encryption such as [Apple macOS FileVault](https://en.wikipedia.org/wiki/FileVault), [Apple APFS](https://en.wikipedia.org/wiki/Apple_File_System) or [Microsoft Windows BitLocker](https://en.wikipedia.org/wiki/BitLocker) **must** be used, preferably controlled by central enterprise device management and key management systems.
+
+The NCSC have published [end-user device guidance](https://www.ncsc.gov.uk/index/guidance?f%5B0%5D=field_topics%253Aname%3AEnd%20user%20technology) that discusses such technologies.
 
 ### Portable storage
 
@@ -59,5 +77,7 @@ The [NCSC End-user Device Security Collection](https://www.ncsc.gov.uk/guidance/
 Summarily, native at-rest encryption must be enabled with a suitable and proportional decryption code (typically, a password) and hardware-backed cryptography is preferred.
 
 ### Hashing
+
+Data that should be kept confidential or is worthwhile to otherwise obfuscate should be hashed. This **must** apply where authentication credentials are stored, such as a password.
 
 The published [MOJ Password Standard](https://github.com/ministryofjustice/itpolicycontent/blob/master/content/security/framework/password-standard.md) has a [section on hashing as part of password storage](https://github.com/ministryofjustice/itpolicycontent/blob/master/content/security/framework/password-standard.md#password-storage).
