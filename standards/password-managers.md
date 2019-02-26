@@ -29,9 +29,9 @@ The following table shows when you might use a password manager or vault:
 
 Scenario | Tool | Notes
 ---|---|---
-Single user, personal accounts | Password manager | If you have accounts that only you use, or have access to, then you would probably store the details in a password manager. An example would be storing the username and password for your work email account; only you should have access.
+Single user, personal accounts | Password manager | For accounts that only you use, or have access to, then you would probably store the details in a password manager. An example would be storing the username and password for your work email account; only you should have access.
 Multiple users, shared accounts | Password manager or password vault | Some accounts might be shared between a group of users. For example, a team might need to know the password for an encrypted document. If the access required is for a sensitive or operational system, then a more heavily protected tool such as a password vault might be appropriate.
-System access, no human use | Password vault | Some MOJ systems need to 'talk' directly to other systems. No humans are involved in the conversation. The passwords protection these communications can - and should - be extremely complex. A strongly secured password vault would be ideal for this purpose.
+System access, no human use | Password vault | Some MOJ systems need to 'talk' directly to other systems. No humans are involved in the conversation. The passwords protecting these communications can - and should - be extremely complex. A strongly secured password vault would be ideal for this purpose.
 
 ## Best practices
 
