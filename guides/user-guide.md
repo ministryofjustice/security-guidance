@@ -13,7 +13,7 @@ To ask for help from a cyber security consultant, send an email to:<br/>
 
 ## About the team
 
-The Cyber Security Consulting Team is part of Ministry of Justice Security & Privacy. The consultants are led by the MoJ Chief Information Security Officer, Jon Lawrence.
+The Cyber Security Consulting Team is part of Ministry of Justice Security & Privacy. The consultants are led by the MoJ Chief Information Security Officer.
 
 The team provides help and guidance around cyber security matters, such as:
 
@@ -27,14 +27,16 @@ The team provides help and guidance around cyber security matters, such as:
 If you need help dealing with a cyber security task or problem, send an email to:<br/>
 [cyberconsultancy@digital.justice.gov.uk](mailto:cyberconsultancy@digital.justice.gov.uk)
 
-Some requests are better handled by other teams. For example, to get help about a security incident, or for urgent matters, you should contact [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk). Similarly, for help with data protection or GDPR questions, contact [dataprivacy@digital.justice.gov.uk](mailto:dataprivacy@digital.justice.gov.uk).
+Some requests are better handled by other teams. For example, to get help about physical or personnel security (or for urgent matters, such as incidents) you should contact [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk). 
+
+Similarly, for help with data protection, contact [data.compliance@justice.gov.uk](mailto:data.compliance@justice.gov.uk).
 
 The consultant team keep an eye open for email requests. Normally, you will get an acknowledgement or more detailed reply within two working days.
 
 To help us help you, please answer these questions in your email request, as best you can:
 
 1.  Who is the work for?
-2.  Why is it important (ie business case)?
+2.  Why is it important?
 3.  What happens if the work is not done (or not done on time)?
 4.  What is the requirement (old-style accreditation on an existing contract, guidance or advice, review of proposed approach,...)?
 5.  What skills or experience do you believe is required to do the work (known skills/experience, or predicted skills/experience)?
@@ -64,4 +66,6 @@ If your request is appropriate for the consulting team, you'll be contacted dire
 
 ## If things go wrong...
 
-If you disagree with a decision that your request is not appropriate for the consulting team, or there is some other problem, please contact the team again through the [cyberconsultancy@digital.justice.gov.uk](mailto:cyberconsultancy@digital.justice.gov.uk) email address. If you would prefer a different escalation route, please contact <img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2019/02/7d4181b72d6583785cd81bc9726d50c9.gif" alt="Alternative contact"> directly.
+If you disagree with a decision that your request is not appropriate for the consulting team, or there is some other problem, please contact the team again through the [cyberconsultancy@digital.justice.gov.uk](mailto:cyberconsultancy@digital.justice.gov.uk) email address.
+
+If you would prefer a different escalation route, please contact <img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2019/02/7d4181b72d6583785cd81bc9726d50c9.gif" alt="Alternative contact"> directly.
