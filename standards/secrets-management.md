@@ -3,7 +3,7 @@ expires: 2019-03-15
 ---
 # Secrets management
 
-'Secrets' is defined here as a sensitive bit of information that should be kept private but with a technical system or user focus, such as, a password, OAuth token or SSH private key.
+'Secrets' is defined here as a sensitive bit of information that should be kept private but with a technical system or user focus, such as, a password, OAuth token or 'private key' (SSH, certificate etc).
 
 'Secrets' here is **not** referring to the `SECRET` classification.
 
@@ -19,7 +19,7 @@ Where possible, use infrastructure-based secrets management services such as [AW
 
 It should be rare and exceptional to store secrets within code repositories, such as in Github.com, and where conducted must use [git-crypt](https://github.com/AGWA/git-crypt) to encrypt those secrets and control who has the ability to view (decrypt) those secrets.
 
-Secrets must never be stored in plain-text, particularly in code repositories.
+Secrets must never be stored in plain-text, particularly in code repositories (even when the repository is set to a private mode).
 
 Secrets for managing infrastructure must be issued as user authentication secrets, not a single shared secret.
 
