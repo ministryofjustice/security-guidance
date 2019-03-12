@@ -20,10 +20,10 @@ Encryption: https://www.justice.gov.uk/security/public.key
 
 # Our disclosure policy
 # By submitting a potential security incident to us, you are implicitly accepting these terms - please read this before submitting:
-Policy: https://www.justice.gov.uk/security/disclosure-policy/
+Policy: https://mojdigital.blog.gov.uk/vulnerability-disclosure-policy/
 
 # Our acknowledgements & thanks
-Acknowledgements: https://www.justice.gov.uk/security/thanks.html
+Acknowledgements: https://mojdigital.blog.gov.uk/vulnerability-disclosure-policy/thank-you-to-the-security-research-community/
 
 # If you’re interested in working at the MOJ (including in our cybersecurity and privacy teams):
 Hiring: https://jobs.jobvite.com/justicedigitalandtechnology/jobs
