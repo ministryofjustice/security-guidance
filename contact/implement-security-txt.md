@@ -6,7 +6,7 @@ expires: 2019-12-31
 
 Domains where the MOJ is primarily responsible for cyber security **must** redirect the `/.well_known/security.txt` location to the central `security.txt` file.
 
-This redirection should be accessible from the public Internet whether or not the underlying applications/systems are. For example, https://test.not-production.justice.gov.uk may be a web-application requiring authentication however https://test.not-production.justice.gov.uk/.well_known/security.txt must still be accessible without authentication.
+This redirection should be accessible from the public Internet whether or not the underlying applications/systems are. For example, https://test.not-production.justice.gov.uk may be a web-application requiring authentication however https://test.not-production.justice.gov.uk/.well_known/security.txt should still be accessible without authentication.
 
 ## security.txt
 
