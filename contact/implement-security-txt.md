@@ -27,6 +27,4 @@ Internal-facing domains resolvable from the public Internet (for example, intran
 
 ## Non-production domains
 
-'Non-production domains' means non-production environments of live/production services (or intended to be live soon) as well as prototypes, small internal tools and rapidly delivered micro sites/apps.
-
-Non-production domains resolvable from the public Internet (for example, a demo deployment of a MOJ digital service) should also implement security.txt as described above.
+Non-production domains resolvable from the public Internet (for example, a demo deployment of a MOJ digital service or prototype) should also implement security.txt as described above.
