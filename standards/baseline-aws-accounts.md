@@ -17,9 +17,9 @@ This baseline discusses outcomes not _how_ the baseline will be achieved/impleme
 
 The MOJ Cyber Security team strongly encourage the use of the highest abstraction level of services available from AWS to achieve these goals, and minimising the amount of custom code and configuration which needs to be developed (and thereafter, maintained) to satisfy each baseline.
 
-## Baselines
+## Baseline
 
-### <a id="guardduty"></a>[GuardDuty](https://aws.amazon.com/guardduty/)
+### [GuardDuty](https://aws.amazon.com/guardduty/)
 
 Leverage AWS’ commodity IDS solution to detect/protect from malicious or unauthorised behavior.
 
@@ -27,7 +27,7 @@ What must be in place | Monitoring | Resolution/Escalation if baseline is broken
 ---|---|---|
 * GuardDuty is enabled on all accounts, in all regions, all of the time | * Alerts fire when GuardDuty is not enabled in a MOJ AWS account<br>* Alerts fire for at least HIGH and above (or some version of) GuardDuty matches | * GuardDuty is automatically re-enabled
 
-### <a id="cloudtrail"></a>[CloudTrail](https://aws.amazon.com/cloudtrail/)
+### [CloudTrail](https://aws.amazon.com/cloudtrail/)
 
 Leverage AWS’ native activity audit platform (with adequate non-repudiation) to capture what AWS user (IAM etc) activity and changes are made within our AWS accounts
 
@@ -35,7 +35,7 @@ What must be in place | Monitoring | Resolution/Escalation if baseline is broken
 ---|---|---|
 * CloudTrail is enabled within all accounts, all of the time<br>* CloudTrail logs are carbon copied to an AWS account controlled by Cyber Security | * Alerts fire when CloudTrail is not enabled in an MOJ AWS account | * CloudTrail is automatically re-enabled
 
-### <a id="config"></a>[Config](https://aws.amazon.com/config/)
+### [Config](https://aws.amazon.com/config/)
 
 Leverage AWS’ native AWS configuration activity audit platform to capture what changes are being made to AWS configurations.
 
@@ -43,7 +43,7 @@ What must be in place | Monitoring | Resolution/Escalation if baseline is broken
 ---|---|---|
 * Config is enabled within all accounts, all of the time<br>* Config logs are carbon copied to an AWS account controlled by CyberSecurity via CloudTrail | * Alerts fire when Config is not enabled in an MOJ AWS account | * Config is automatically re-enabled
 
-### <a id="tagging"></a>[Tagging](https://aws.amazon.com/answers/account-management/aws-tagging-strategies/)
+### [Tagging](https://aws.amazon.com/answers/account-management/aws-tagging-strategies/)
 
 Tag all of our AWS objects, so we know they have a purpose and are intentional with defined ownership.
 
@@ -53,7 +53,7 @@ What must be in place | Monitoring | Resolution/Escalation if baseline is broken
 ---|---|---|
 * All relevant AWS objects are tagged as per MOJ requirements | * Creating AWS user is notified automatically in increasing urgency when object is untagged<br>* AWS account owner (and increasing escalation) is automatically notified when objects remained untagged | * Untagged objects are forcefully and automatically shutdown/disabled or isolated after 7 consecutive days of not being tagged
 
-### <a id="regions"></a>[Regions](https://docs.aws.amazon.com/general/latest/gr/rande.html)
+### [Regions](https://docs.aws.amazon.com/general/latest/gr/rande.html)
 
 Do not use non-EU AWS regions for strategic compliance and performance reasons.
 
@@ -61,7 +61,7 @@ What must be in place | Monitoring | Resolution/Escalation if baseline is broken
 ---|---|---|
 * No AWS account can create resources outside of AWS EU regions | * Alerts fire when non-EU resources are created to both the infrastructure teams and resource creator | * Non-EU resources are automatically and forcefully shut down after 12 hours
 
-### <a id="idam"></a>[Identity & Access Management](https://aws.amazon.com/iam/)
+### [Identity & Access Management](https://aws.amazon.com/iam/)
 
 Enforce Joiners, Movers and Leavers (JML) within AWS. We also need to ensure accounts that legitimately exist are well protected.
 
@@ -69,7 +69,7 @@ What must be in place | Monitoring | Resolution/Escalation if baseline is broken
 ---|---|---|
 * AWS user accounts have a defined and peer reviewed method for request/creation<br>* Viable, authoritative and ‘single source of truth’ documentation exists to describe each AWS account and who should and should not have access (in terms of roles)<br>* Idle AWS user accounts are suspended<br>* MFA is required, always, enforced by policy<br>* Root user account usage is considered abnormal<br>* Passphrase and/or MFA seed cycled on every AWS root account use | * AWS group account owners are alerted when new AWS accounts are created<br>* Idle (30 or more consecutive days of non-activity) AWS user accounts issue suspension notices to AWS group account owners and target user<br>* Where an account does not have MFA, the user and AWS group account owners are notified after 7 consecutive days<br>* Any login or use of an AWS root account issues login alerts to the AWS group account owners | * Idle AWS user accounts are automatically suspended past threshold<br>* Non-MFA AWS user accounts are automatically suspended past threshold<br>* Alerts fire when an AWS root user account is used but the credentials are not updated within 7 days of utilisation
 
-### <a id="encryption"></a>Encryption
+### Encryption
 
 Leverage native AWS configuration options to make reasonable efforts to protect data.
 
@@ -77,7 +77,7 @@ What must be in place | Monitoring | Resolution/Escalation if baseline is broken
 ---|---|---|
 * All AWS objects supporting encryption must have it enabled | * S3 buckets without suitable SSE-* encryption enabled are alerted to resource creator and account owner | * After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MOJ Cyber Security
 
-### <a id="world-access"></a>‘World’ Access (the leaky bucket problem)
+### ‘World’ Access (the leaky bucket problem)
 
 Ensure that public access to AWS data storage is intentional, to avoid the ‘leaky bucket’ problem which plagues the world.
 
