@@ -4,8 +4,7 @@ This site documents some of the security decisions that the
 [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
 has made for the products we operate and our relationships with suppliers.
 
-It complements the [technical guidance](https://ministryofjustice.github.io/technical-guidance/),
-which covers technical decisions in the MOJ more widely.
+[Technical guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MOJ more widely.
 
 ## Principles
 
@@ -85,6 +84,10 @@ which covers technical decisions in the MOJ more widely.
 - [{{ myth.title }}]({{ myth.url | relative_url }})
 {% endfor %}
 {% endfor %}
+
+## Technical Guidance
+
+The [technical guidance](https://ministryofjustice.github.io/technical-guidance/) should be read together with this security-focused guidance.
 
 ## Getting in touch
 
