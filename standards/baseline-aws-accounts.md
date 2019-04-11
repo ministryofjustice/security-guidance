@@ -94,3 +94,7 @@ Over time we will be able to leverage this more, but in the immediate future thi
 What must be in place | Monitoring | Resolution/Escalation if baseline is broken/violated
 ---|---|---|
 * SecurityHub  is enabled on all accounts, in all regions, all of the time | * Alerts fire when SecurityHub is not enabled in a MOJ AWS account | * SecurityHub is automatically re-enabled
+
+## Implementation
+
+Various [AWS account baseline templates](https://github.com/ministryofjustice/cloud-platform-infrastructure/tree/master/cloudformation/aws-account-baseline-templates) have been developed and published for use.
