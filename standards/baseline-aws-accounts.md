@@ -79,11 +79,12 @@ What must be in place | Monitoring | Resolution/Escalation if baseline is broken
 
 ### ‘World’ Access (the leaky bucket problem)
 
-Ensure that public access to AWS data storage is intentional, to avoid the ‘leaky bucket’ problem which plagues the world.
+Ensure that public access to AWS data storage and compute is intentional, to avoid the ‘leaky bucket’ problem which plagues the world, and to aid attack surface minimisation.
 
 What must be in place | Monitoring | Resolution/Escalation if baseline is broken/violated
 ---|---|---|
 * All AWS S3 objects should be not world (public) readable unless specifically intended to do so. | * S3 objects are programmatically reviewed (including ‘open’ ones) against the source infrastructure-as-code, if there is a mismatch the resource creator and AWS account owner notified | * After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MOJ Cyber Security<br>* After 7 days, the S3 object permissions are forcefully and automatically changed to remove ‘world’ access
+* No EC2 instances should be publicly accessible, but should be behind an ELB or CloudFront.| * EC2 instances are programmatically reviewed to ensure they are not internet-accessible. IF there is a mismatch the resource creator and AWS account owner notified | * After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MOJ Cyber Security<br>* After 7 days, the relevant security groups are forcefully and automatically changed to remove ‘world’ access
 
 ### SecurityHub
 
@@ -94,6 +95,9 @@ Over time we will be able to leverage this more, but in the immediate future thi
 What must be in place | Monitoring | Resolution/Escalation if baseline is broken/violated
 ---|---|---|
 * SecurityHub  is enabled on all accounts, in all regions, all of the time | * Alerts fire when SecurityHub is not enabled in a MOJ AWS account | * SecurityHub is automatically re-enabled
+
+
+
 
 ## Implementation
 
