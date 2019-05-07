@@ -77,14 +77,14 @@ What must be in place | Monitoring | Resolution/Escalation if baseline is broken
 ---|---|---|
 * All AWS objects supporting encryption must have it enabled | * S3 buckets without suitable SSE-* encryption enabled are alerted to resource creator and account owner | * After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MOJ Cyber Security
 
-### ‘World’ Access (the leaky bucket problem)
+### ‘World’ Access
 
-Ensure that public access to AWS data storage and compute is intentional, to avoid the ‘leaky bucket’ problem which plagues the world, and to aid attack surface minimisation.
+Ensure that public access to AWS data storage and compute is intentional, to avoid the ‘leaky bucket’ problem, and to aid attack surface minimisation.
 
 What must be in place | Monitoring | Resolution/Escalation if baseline is broken/violated
 ---|---|---|
 * All AWS S3 objects should be not world (public) readable unless specifically intended to do so. | * S3 objects are programmatically reviewed (including ‘open’ ones) against the source infrastructure-as-code, if there is a mismatch the resource creator and AWS account owner notified | * After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MOJ Cyber Security<br>* After 7 days, the S3 object permissions are forcefully and automatically changed to remove ‘world’ access
-* No EC2 instances should be publicly accessible, but should be behind an ELB or CloudFront.| * EC2 instances are programmatically reviewed to ensure they are not internet-accessible. IF there is a mismatch the resource creator and AWS account owner notified | * After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MOJ Cyber Security<br>* After 7 days, the relevant security groups are forcefully and automatically changed to remove ‘world’ access
+* Compute (for example, EC2 or ECS) instances should not be directly accessible from public networks unless through specific intentional design and should be behind CloudFront and/or applicable load balancing (preferring AWS LB technology).<br>It must be truly exceptional for common service ports (for example, TCP80 or TCP443) to be served directly from compute resources.| * Compute instances are programmatically reviewed to ensure they are not internet-accessible unless explicitly designed and documented to be so. If there is a mismatch the resource creator and AWS account owner notified | * After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MOJ Cyber Security<br>* After 7 days, the relevant security groups are forcefully and automatically changed to remove ‘world’ access
 
 ### SecurityHub
 
