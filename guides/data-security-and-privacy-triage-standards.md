@@ -1,77 +1,25 @@
 ---
-category: Privacy and Security
 expires: 2020-01-01
 ---
+# Data Security & Privacy Triage Standards
 
-# Data Security and Privacy in Digital Projects
+Below are a series of common area guides from MOJ Digital & Technology Triage Standards.
 
-## What is this?
+## Purposeful Capture of Data
 
-Our digital projects contain important information. Serious data breaches might result if we fail to:
+Only collect or store data if it is relevant, and needed for a specific purpose or task.
 
--	protect information
--	handle it correctly at all times
--	dispose of it safely when it is no longer required
-
-Breaches might cause:
-
--	harm to individuals
--	financial loss to the ministry
--	a loss of confidence in us as an organisation
-
-For personal data, the new General Data Protection Regulation (GDPR) apply. The regulations make the consequences of data breaches very clear.
-
-To follow the regulations, we must ensure that:
-
--	we protect data to the best of our organisation’s capabilities
--	we collect data only for described purposes
--	we use data only for the described purposes
-
-### Why are security and privacy important? 
-
-Breaches can have an adverse effect the relationship between citizen and government.
-
-Not only do we have a duty to protect citizens data, but the penalties for violations are also severe. Under the GDPR, serious infringements can result in fines of up to €20M.
-
-We must apply appropriate security and privacy protection to all the information we hold and process, at all times.
-
-We should treat all data as sensitive unless proven otherwise.
-
-All our projects must follow this ethos.
-
-### How will it be enforced? 
-
-Within the MOJ, all projects in development should follow a Data Security and Privacy  checklist (here).
-
-Run tests at project milestones (stage gates), and during project triage. These tests ensure that the project follows the checklist consistently and continuously. A overview of what to do as the project progresses is (here).
-
-### Does my project need to follow this?
-
-Almost certainly.
-
-GDPR applies only to personal information. But all MOJ projects must have excellent data security and privacy properties. If they handle personal data, they must do so correctly. Projects must follow MOJ guidelines unless exceptional and approved circumstances apply. 
-
-You can design your product to handle personal information correctly. There are a small number of extra steps you will have to take. Remember that personal data includes anything which might identify an individual. Even online identifiers, such as cookies, might be personal data.
-
-A full description of what the ICO considers to be personal information is here.
-
-Even though the GDPR replaces the Data Protection Act, a Data Protection Impact Assessment is still required for all projects. There are some exceptions, as described here.
-
-## Triage Standards Common Areas Guide
-
-### Purposeful Capture of Data
-
-Only collect or store data if it is relevant, and needed for a specific purpose or task. Ensure that:
+Ensure that:
 
 -	Everyone on the team understands why specific data is collected and stored. They should be able to justify this, backed with legal reasoning, as required.
 -	Each product has a clear privacy notice, describing how any personal data is handled. The notice contains a clear description of what we will do with their information, why, and how. Write it in terminology the general public can understand.
 -	Using an individual’s information is only for the specific purposes or processes for which it was captured. There should be no superfluous information stored.
 -	The privacy notice describes any use of information for management or reporting purposes. Anonymise any personal information used for these purposes. In other words, before use, remove any fields or data that could identify the individual.
--	You justify any special categories of needed information. Find a list of these categories, as outlined by the ICO, here.
+-	You justify any special categories of needed information. The [Information Commissioner's Office (ICO)](https://ico.org.uk) - the UK's independent regulatory office for data protection - has outlined [a list of special categories](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/special-category-data/#ib3).
 
-### Amending/Deleting Data 
+## Amending/Deleting Data 
 
-GDPR requires that individuals agree to the handling and processing of their personal information. Many systems will need processes, to change, prevent, or stop handling personal information. The process might be have to be manual. Quite apart from GDPR, these capabilities are generally useful for all MOJ systems.
+EU GDPR & the UK Data Protection Act (2018) requires that individuals agree to the handling and processing of their personal information. Many systems will need processes, to change, prevent, or stop handling personal information. The process might be have to be manual. Quite apart from GDPR/DPA18, these capabilities are generally useful for all MOJ systems.
 
 Ensure that:
 
@@ -81,17 +29,16 @@ Ensure that:
 -	Ensure that information can be amended or re-examined manually, if necessary.
 -	If deletion is not possible, the system must be able to strip all identifying information from the records. This should make it impossible to identify an individual. Anonymising data should make it fall outside of the GDPR remit. The privacy notice should also mention this.
 
+## Security / Architecture Considerations
 
-### Security / Architecture Considerations
+Much of the MOJ estate architecture is ready for GDPR/DPA18, or transformation is already in progress. Current projects must also incorporate data security and privacy mechanisms for GDPR/DPA18 compliance. Guidance from technical architects is essential to help projects. Ensure that:
 
-Much of the MoJ estate architecture is ready for GDPR, or transformation is already in progress. Current projects must also incorporate data security and privacy mechanisms for GDPR compliance. Guidance from technical architects is essential to help projects. Ensure that:
-
--	You know where data for the system is stored. Ask which countries and jurisdictions hold the data. Check that the storage complies with GDPR requirements.
+-	You know where data for the system is stored. Ask which countries and jurisdictions hold the data. Check that the storage complies with GDPR/DPA18 requirements.
 -	The procedures to follow in response to a data breach are clear. Developed them with the help of the live service and cyber security teams.
 -	There is 100% confidence that data is backed up and protected against loss or other threat scenarios. Test and challenge this confidence frequently. Always test within the timescales defined in the retention schedule.
 -	The IA register lists the system. For potentially sensitive or risky data sets, check that the risk register also lists the system.
 
-### Sharing Information
+## Sharing Information
 
 Many systems depend on data from more than one source. For example, data might come from cross-estate and cross-government levels. This makes accountability for the data vital: who owns it, and who is responsible for it.
 
@@ -101,19 +48,19 @@ Acceptable information sharing involves two distinct perspectives:
 
 2.	Sharing with other organisations. There must always be an auditable record of the agreement between the organisations. This could be part of a contract, a data sharing agreement, or other general memorandum of understanding. Review the record at regular intervals so that it still meets the user or business needs, and continues to be relevant.
 
-### Subject Access Requests
+## Subject Access Requests
 
 At any time, a person about whom we hold personal data can request a copy of all the information we hold about them. This is not a new requirement, and was part of original data protection legislation.
 
 However, the £10 fee charged before is now waived. This makes it likely that there will be more Subject Access Requests in the future. Design your product to make it as simple as possible to perform Subject Access Requests quickly and easily. Authorised individuals from across all data storage locations should be able to respond.
 
-### Law Enforcement Directive (L.E.D.)
+## Law Enforcement Directive (L.E.D.)
 
 Some systems hold information about criminals or criminal offences. This is sensitive data. An additional regulation applies to them: the Law Enforcement Directive.
 
 Affected systems must record whenever an individual record is viewed or amended. Keep this log for audit purposes. 
 
-## Project Lifecycle Data Security and Privacy Expectations 
+## Project Lifecycle Data Security and Privacy Expectations
 
 When developing a system, there are some measures you can take that will simplify and ensure timely GDPR compliance.
 
@@ -165,5 +112,3 @@ In particular:
 -	The final automated tasks are ready. The project cannot close until these are done.
 -	Data security and privacy compliance checks move to an ongoing status. Reporting takes place as required to internal stakeholders or the ICO.
 -	Schedule and run regular data mapping exercises. These ensure full and current understanding of data flows to and from any organisations or systems that depend on the information.
-
-
