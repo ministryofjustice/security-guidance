@@ -10,7 +10,7 @@ The current draft of the MOJ commodity long format data destruction appendix. Th
 
 ## Appendix
 
-While all applicable and proportional steps must be defined by the context of the dataset(s) and/or system(s), the following standards or guidelines establish the *minimum* requirements that **must** be followed and applied accordingly:
+The following standards and guidelines are the *minimum* basis for data decommissioning or destruction. Follow and apply them as appropriate. There might also be extra steps specific to a data set or system.
 
 - National Cyber Security Centre (NCSC) guidance on end-user device reset procedures: <https://www.ncsc.gov.uk/guidance/end-user-device-guidance-factory-reset-and-reprovisioning>
 - NCSC guidance on secure sanitisation of storage media: <https://www.ncsc.gov.uk/guidance/secure-sanitisation-storage-media>
@@ -29,3 +29,5 @@ Data Destruction for printed materials **must** include, unless otherwise supers
 4 standard with a maximum cross cut particle surface area 160 (one
 hundred and sixty) millimeters squared with a maximum strip width of
 6 (six) millimeters
+
+The required outcome is to ensure that `Authority` data is inaccessible by any reasonable commercial and resourced means (such as commercially available data recovery services).
