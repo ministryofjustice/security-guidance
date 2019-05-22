@@ -7,7 +7,7 @@ expires: 2019-07-01
 
 We believe that technology should be Secure by Default: embedding security from inception so it is native and as transparent as possible.
 
-h/t https://www.ncsc.gov.uk/articles/secure-default
+h/t <https://www.ncsc.gov.uk/articles/secure-default>
 
 ### Good technical design is security design
 
