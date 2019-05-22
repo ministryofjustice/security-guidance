@@ -1,10 +1,10 @@
 ---
 category: Data Destruction
-expires: 2019-03-15
+expires: 2019-12-31
 ---
-# Longform clause
+# Long format clause
 
-The current draft of the MOJ commodity longform data destruction clause.
+The current draft of the MOJ commodity long format data destruction clause.
 
 `Highlighted` words indicate potential requirement for contextual change, requirement of definition and so on.
 
