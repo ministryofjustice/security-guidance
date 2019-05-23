@@ -11,50 +11,52 @@ For transparency and open-working purposes, a [redacted copy of the Standards As
 
 ## SAT Template
 
-The SAT itself is written to be self-explanitory to a cyber security professional that is already aware of the MCSS/CSP and has a familiarity with information risk management concepts.
+The SAT itself is written to be self-explanatory to a cyber security professional who is already aware of the MCSS/CSP and has a familiarity with information risk management concepts.
 
 - Black labelled sheets describe the SAT and how it should be used
-- Blue labelled sheets are the sheets to be completed
-- Yellow labelled sheets are automatically calculated reporting based on the blue labelled sheet data
+- Blue labelled sheets are the ones to complete
+- Yellow labelled sheets are automatically calculated, providing reports based on the blue labelled sheet data
 - Green labelled sheets offer help/guidance on SAT components
 
 ## Key SAT concepts
 
-The SATs have concepts of "Objectives", "Evidence", "Confidence", an overall "Delta" (which is the most pertinent output) and "Further Evidence Required", with supporting commentary.
+The SATs have measures including "Objectives", "Evidence", "Confidence", an overall "Delta" (which is the most pertinent SAT output) and "Further Evidence Required", with supporting commentary.
 
-The primary SAT purpose is to assess the system against the MCSS/CSP, determining how compliant (or non-compliant) the system is, based on a collation and review of evidence. Evidence is analysed to determine confidence that the evidence demonstrates the system meets (or does not meet) the standard, and the 'gap' (delta) between system posture according to said evidence and the standards.
+The primary SAT purpose is to help assess a system against the MCSS/CSP. It is used to determine confidence whether or not the evidence demonstrates the system is compliant (or not).
+
+Evidence is analysed to determine confidence that the evidence demonstrates the system meets (or does not meet) the standards. It also indicates the 'gap' (delta) between the system's posture according to said evidence and the standards.
 
 ### Objectives
 
-The MCSS/CSPs have been distilled into 39 Objectives which the assessor (typically a cyber security professional) completing the SAT is measuring against.
+The MCSS/CSPs have been distilled into 39 objectives. The Assessor (normally a cyber security professional) completes the SAT by evaluating the target system against the objectives.
 
 The [categories used within the MCSS](https://ministryofjustice.github.io/security-guidance/principles/identify-protect-detect-respond-recover/#identify-protect-detect-respond-recover) have been discussed seperately.
 
-Objectives are templated, so can be added to but not modified in-place.
+Objectives are templated. This means they can be added to but existing objectives must not be deleted or edit in-place.
 
 ### Evidence
 
-To avoid assessments that are ultimately anecdotal, the SAT considers written evidence.
+To avoid assessments that are ultimately anecdotal, the assessor will only rely upon written evidence.
 
-Evidence can come in the form of transcribed conversations, diagrams, documentation or an otherwise written conveyable information about a system. 
+Evidence can come in the form of transcribed conversations, diagrams, documentation or other auditable information about a system. 
 
-Evidence may not be related to the system itself but form a part, for example, where there is a wider document that is not system orientated that describes who relevant role holders currently are.
+Evidence might not be directly related to the system itself but form a part, for example, where there is a wider document that is not system orientated but which describes who is relevant role holders currently are.
 
-Evidence is 'Held', 'Partial', 'Not Held' or 'N/A' (where the Objective is not applicable to the system being assessed).
+Evidence is described as being 'Held', 'Partial', 'Not Held' or 'N/A' (where the Objective is not applicable to the system being assessed).
 
 ### Confidence
 
 The assessor reviews the evidence and uses their professional opinion to indicate a Confidence Score.
 
-The Confidence Score is based on a scale of 0 (no confidence at all) to 14 (high level of confidence), or 'N/A' (where the Objective is not applicable to the system being assessed).
+The Confidence Score uses a scale from 0 (no confidence at all) to 14 (high level of confidence), or 'N/A' (where the Objective is not applicable to the system being assessed).
 
 ### Delta
 
 The Delta Rating is the resulting 'distance' between the assessed system posture against an Objective and the confidence of the same.
 
-Mathematically, the results are N/A (where the Objective is not applicable to the system being assessed) or 0 to 14 (inc).
+Mathematically, the final Delta Rating is N/A (where the Objective is not applicable to the system being assessed) or 0 to 14 (inc).
 
-A wide delta (higher numerical value) conveys the Objective is not met. A narrow delta (lower numerical value) conveys the Objective is closer to being met.
+A wide delta (higher numerical value) indicates that the Objective is not met. A narrow delta (lower numerical value) indicates that the Objective is closer to being met.
 
 The Delta Rating is automatically calculated as '14 minus Confidence Score'.
 
@@ -64,13 +66,13 @@ The assessor indicates what further evidence _types_ in their view are required 
 
 The [Further Evidence Required (Help) sheet](https://docs.google.com/spreadsheets/d/1oO9RAZQ6ETsN2iHZb5zcFM0HROliw18MBv89oF-BPeg/edit#gid=679100590) has a calculator which the assessor will use.
 
-This data point was designed as unique numericals as this allows programmatic analysis in the future. This data point and how it is formed is currently under active review.
+The data point is currently a unique number to assist with future automated analysis. The format and range of values for the data point is currently under active review and so subject to change without notice.
 
 ## Understanding the Objectives, gathering evidence for the assessor
 
 Teams/individuals responsible for the design, creation, implementation, support and maintenance of systems should have viable written evidence (regardless of format) that should be made available to various teams on request, for example, security or to internal audit.
 
-Using the [categories used within the MCSS](https://ministryofjustice.github.io/security-guidance/principles/identify-protect-detect-respond-recover/#identify-protect-detect-respond-recover) as sections some helpful thought questions and documentation expectations are discussed below.
+Using the [categories used within the MCSS](https://ministryofjustice.github.io/security-guidance/principles/identify-protect-detect-respond-recover/#identify-protect-detect-respond-recover) as a basis, some indicative questions and documentation expectations are discussed below.
 
 ### IDENTIFY
 
@@ -85,11 +87,13 @@ Using the [categories used within the MCSS](https://ministryofjustice.github.io/
 
 - Who is responsible and/or accountable for the the system whether from an operational or budgetary perspective?
 - Who is responsible and/or accountable for the information held inside the system?
-- What security-focused work has been conducted on any suppliers and supplier systems to ensure they are safe for use/integration?
+- What security-focused work has been conducted recently (within the last year) on any suppliers and supplier systems to ensure they are safe for use/integration?
 - Where is the system technically hosted?
-- Where are the places where the system stores data?
+- In what services or geographical locations does the system *store* data?
+- In what services, geographical, or legal locations does the system *process* data?
 - What are the consequences if the system is unavailable to users or data has been lost/corrupted?
-- What happens for business continuity / disaster recovery if the system is unavailable or data has been lost/corrupted?
+- How do the consequences of unavailability change over time? (For example, after one hour, one day, one week, one month... permanent.)
+- What changes - if anything - regarding business continuity / disaster recovery processes or plans if the system is unavailable or data has been lost/corrupted?
 
 ### PROTECT
 
@@ -108,11 +112,11 @@ Using the [categories used within the MCSS](https://ministryofjustice.github.io/
 - How are system users managed for joiners, movers and leavers?
 - How is the system's underlying software kept up to date for security software patching?
 - How does the system protect itself appropriately and proportionately from attackers?
-- How do ensure the system can protect itself from attackers over time, so it is secure now but also will remain secure in the future?
+- What assurance is there that the system can protect itself from attackers over time, so it is secure now but also will remain secure in the future?
 - How often has technical security testing been conducted? Where within the system?
 - How does the system stay up to date using modern encryption to keep data safe?
 - Does the system use multi-factor authentication (MFA, also known as 2FA)?
-- For people who have access to the system, do they have all the right clearances in place?
+- For people who have access to the system, do they have all the right clearances in place? How is this assured?
 
 ### DETECT
 
@@ -126,7 +130,8 @@ Using the [categories used within the MCSS](https://ministryofjustice.github.io/
 #### Thought questions
 
 - How does the system, and accompanying operational support teams, know/detect when the system is under attack?
-- How is access to the system (both legitimate and illegitimate) logged so retrospective investigations can take place to determine 'who did what when'?
+- How is access to the system (both authorsed and unauthorised) logged so retrospective investigations can take place to determine 'who did what when'?
+- How is the required level of detail in logs determined? How long are log files retained?
 
 ### RESPOND
 
