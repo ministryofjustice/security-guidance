@@ -1,6 +1,6 @@
 ---
 category: Authentication, Authorisation & Accounting
-expires: 2019-03-15
+expires: 2019-09-01
 ---
 # Authorisation
 
@@ -14,7 +14,7 @@ The principle of least privilege (PoLP; also known as the principle of least aut
 
 This helps reduce the "attack surface" of the computer by eliminating unnecessary privileges.
 
-Day to day examples include: not ordinarily using an 'administrator' login on an end-user device (such as a laptop) or logging into a server as 'root'.
+Day to day examples include: not ordinarily using an 'administrator' login on an end-user device (such as a laptop), logging into a server as 'root' or a user being able to access all records within a database when they only need to access a subset for their work.
 
 ### Administrator definition
 
