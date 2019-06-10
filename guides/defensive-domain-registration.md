@@ -5,7 +5,9 @@ expires: 2021-06-01
 
 The MOJ and associated organisations (Executive agencies, non-departmental public bodies and so on) maintain varying levels of 'online presence' using domain registrations. This are a fundamental part of the organisation's identity on the public internet. An example is the justice.gov.uk email domain used for contacting other government organisations, partners and members of the public.
 
-Each MOJ organisation **must** identify a core set of internet domains it considers critical to its internet identity. Each MOJ organisation must then defensively register a small number of obvious variations (for example, `justice.gov.uk` may justify `justicegov.uk`, `justice.co.uk` and `justice.uk`). These registrations will help protect the organisation, as well as its partners and members of the public, from illegitimate parties pretending to be the organisation when they are not. Failing to register these domains can cause problems, such as phishing emails using what seem to be plausible domains.
+Each MOJ organisation **must** identify a core set of internet domains it considers critical to its internet identity. Each MOJ organisation must then defensively register a small number of obvious variations (for example, `justice.gov.uk` may justify `justicegov.uk`, `justice.co.uk` and `justice.uk` where already not used for legitimate purposes).
+
+These registrations will help protect the organisation, as well as its partners and members of the public, from illegitimate parties pretending to be the organisation when they are not. Failing to register these domains can cause problems, such as phishing emails using what seem to be plausible domains.
 
 ## Limiting the permutations to register
 
@@ -38,13 +40,21 @@ There must be a [DMARC record](https://en.wikipedia.org/wiki/DMARC) configured i
 
 There must be a [DNS CAA](https://en.wikipedia.org/wiki/DNS_Certification_Authority_Authorization) record(s) to indicate restrictions so that certificate authorities that certificates should not be issued for these domains.
 
+### Automated renewals
+
+Defensively registered domains should be configured to automatically renew by default.
+
 ### Web services/redirects
 
 Web services/redirects must **not** be functional or available for defensively registered domains.
 
-### Automated renewals
+The `www.` should *not* be created. The apex `@` record, if created, should not respond to TCP/80 (HTTP) or TCP/443 (HTTPS).
 
-Defensively registered domains should be configured to automatically renew by default.
+### Mail services/redirects
+
+Mail services/redirects must **not** be functional or available for defensively registered domains.
+
+`MX` records should *not* be created.
 
 ## Registering and maintaining a defensive domain
 
