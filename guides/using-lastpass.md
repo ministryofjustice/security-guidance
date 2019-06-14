@@ -82,7 +82,9 @@ If you don’t have an MOJ-issued work smartphone you may use a personal device 
 
 ### Sharing passwords
 
-To share a password [create a 'shared folder' in the LastPass Vault](https://support.logmeininc.com/lastpass/help/manage-lastpass-teams-shared-folders-users-lp010061)
+To share a password [create a 'shared folder' in the LastPass Vault](https://support.logmeininc.com/lastpass/help/manage-lastpass-teams-shared-folders-users-lp010061).
+
+You should make sure the credentials you're sharing are only available to the people who need to access them for MOJ work. It is your responsibility to remove items or people from shared folders when access to the credential(s) is no longer required.
 
 (You must not share your LastPass master password with anyone, even your line manager or MOJ security.)
 
