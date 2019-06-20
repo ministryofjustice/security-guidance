@@ -5,7 +5,7 @@ expires: 2019-03-15
 
 ## OFFICIAL-SENSITIVE? Not by default
 
-The MOJ does **not** consider it's IP address, DNS or architectural information to be `SENSITIVE` (a handling caveat within the `OFFICIAL` information classification) *by default*.
+The MOJ does **not** consider its IP address, DNS or architectural information to be `SENSITIVE` (a handling caveat within the `OFFICIAL` information classification) *by default*.
 
 In some contexts, this information may be considered sensitive (usually when combined with other information), for example, "Server X on IP address x.x.x.x has not been security patched for 5 years and there are known vulnerabilities which are unmitigated and thus could actively be exploited in this moment."
 
