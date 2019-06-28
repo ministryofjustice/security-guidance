@@ -65,13 +65,11 @@ Defensively registered domains should be configured to automatically renew by de
 
 Web services/redirects must **not** be functional or available for defensively registered domains.
 
-The `www.` should *not* be created. The apex `@` record, if created, should not respond to TCP/80 (HTTP) or TCP/443 (HTTPS).
+The `www.` should *not* be created. The apex `@` record, if required and created, should not respond to TCP/80 (HTTP) or TCP/443 (HTTPS).
 
 ### Mail services/redirects
 
 Mail services/redirects must **not** be functional or available for defensively registered domains.
-
-`MX` records should *not* be created.
 
 ## Registering and maintaining a defensive domain
 
