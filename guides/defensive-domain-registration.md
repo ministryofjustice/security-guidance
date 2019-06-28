@@ -27,7 +27,7 @@ The defensively registered domain must have a functional nameserver configuratio
 
 There must be an [SPF record](https://en.wikipedia.org/wiki/Sender_Policy_Framework) which uses *strict* configurations to indicate whether the domain is expected by the owner to send emails, or not.
 
-Example:
+Example 'no permitted sender' record:
 `v=spf1 -all`
 
 Additional [SPF implementation guidance](https://www.gov.uk/government/publications/email-security-standards/sender-policy-framework-spf) is available on GOV.UK.
@@ -35,6 +35,23 @@ Additional [SPF implementation guidance](https://www.gov.uk/government/publicati
 ### Domain-based Message Authentication, Reporting and Conformance (DMARC)
 
 There must be a [DMARC record](https://en.wikipedia.org/wiki/DMARC) configured in line with [published DMARC guidance](https://www.gov.uk/government/publications/email-security-standards/domain-based-message-authentication-reporting-and-conformance-dmarc) on GOV.UK.
+
+Example 'reject' policy record:
+`v=DMARC1;p=reject;rua=mailto:dmarc-rua@dmarc.service.gov.uk;`
+
+### Mail Exchanger (MX)
+
+There must be a nullified [MX record](https://en.wikipedia.org/wiki/MX_record) in order to ensure any attempt to send emails to the defensive domain to instantly failed.
+
+Example nullified record:
+MX priority `0` with host name `.`
+
+### DomainKeys Identified Mail (DKIM)
+
+There must be a nullified [DKIM record](https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail) in explicitly highlight that  any outbound email attempts are likely invalid.
+
+Example nullified record:
+`v=DKIM1; p=`
 
 ### DNS Certification Authority Authorization (CAA)
 
@@ -48,13 +65,11 @@ Defensively registered domains should be configured to automatically renew by de
 
 Web services/redirects must **not** be functional or available for defensively registered domains.
 
-The `www.` should *not* be created. The apex `@` record, if created, should not respond to TCP/80 (HTTP) or TCP/443 (HTTPS).
+The `www.` should *not* be created. The apex `@` record, if required and created, should not respond to TCP/80 (HTTP) or TCP/443 (HTTPS).
 
 ### Mail services/redirects
 
 Mail services/redirects must **not** be functional or available for defensively registered domains.
-
-`MX` records should *not* be created.
 
 ## Registering and maintaining a defensive domain
 
