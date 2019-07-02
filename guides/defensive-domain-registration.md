@@ -57,6 +57,12 @@ Example nullified record:
 
 There must be a [DNS CAA](https://en.wikipedia.org/wiki/DNS_Certification_Authority_Authorization) record(s) to indicate restrictions so that certificate authorities that certificates should not be issued for these domains.
 
+Example nullified record:
+`issue ";"`
+
+Example iodef notification record:
+`iodef "mailto:certificates@digital.justice.gov.uk"`
+
 ### Automated renewals
 
 Defensively registered domains should be configured to automatically renew by default.
@@ -72,8 +78,6 @@ The `www.` should *not* be created. The apex `@` record, if required and created
 Mail services/redirects must **not** be functional or available for defensively registered domains.
 
 ## Registering and maintaining a defensive domain
-
-What to do next:
 
 MOJ organisations should contact [domains@digital.justice.gov.uk](mailto://domains@digital.justice.gov.uk) for assistance with defensive doman registrations and operations.
 
