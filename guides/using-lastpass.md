@@ -6,7 +6,7 @@ expires: 2019-09-01
 
 ## What is LastPass?
 
-LastPass is an online password management tool that we make available to you to help you create, store and share passwords. Using it means you no longer need to remember dozens of passwords, just a single master password. It keeps all your website logins protected, helps with creating new ‘strong’ passwords and passwording sharing when required.
+LastPass is an online password management tool that we make available to you to help you create, store and share passwords. Using it means you no longer need to remember dozens of passwords, just a single master password. It keeps all your website logins protected, helps with creating new ‘strong’ passwords and password sharing when required.
 
 LastPass is available as a browser extension for popular browsers and as well as a full software suite (for use outside of browsers) for Microsoft Windows and Apple macOS.
 
