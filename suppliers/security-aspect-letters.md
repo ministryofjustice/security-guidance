@@ -19,7 +19,7 @@ Dear `<NAME OR ROLE OF SECURITY DIRECTOR>`,
 
 This Security Aspects Letter (‘SAL’) establishes the security principles which `<ORGANISATION LONG LEGAL NAME, should be highest entity position such as the Group Plc>` and/or its affiliates (together “`<ORGANISATION SHORTNAME>`”) shall comply with in producing, handling or storing materials, information or data pertaining to the Ministry of Justice (‘Authority’).
 
-This letter applies to `<ORGANISATION SHORTNAME>` and any relevant subcontractor within `<ORGANISATION SHORTNAME>’s supply chain as required.
+This letter applies to `<ORGANISATION SHORTNAME>` and any relevant subcontractor within `<ORGANISATION SHORTNAME>`'s supply chain as required.
 
 The following sections have been identified as the main areas where guidance is required. If there are any queries, please ask for clarification.
 
