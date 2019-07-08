@@ -1,5 +1,5 @@
 ---
-category: Product Guide
+category: Product specific guides
 expires: 2019-09-01
 ---
 # Using LastPass Enterprise
