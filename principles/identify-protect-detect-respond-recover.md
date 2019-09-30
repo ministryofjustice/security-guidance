@@ -23,11 +23,11 @@ IDENTIFY is a prerequisite standard that requires:
 
 ### PROTECT
 
-PROTECT is the core standard to provide fundementally defences to information and requires:
+PROTECT is the core standard to provide fundamentally defences to information and requires:
 
 * access to systems and information to be limited to identified, authenticated and authorised systems/users;
 * systems to be proportionally protected against exploitation of known vulnerabilities; and
-* highly priviledged accounts (such as administrative level) to be protected from common attacks.
+* highly privileged accounts (such as administrative level) to be protected from common attacks.
 
 ### DETECT
 
@@ -42,11 +42,11 @@ DETECT is the core standard to detect when attacks are taking, or have taken, pl
 
 RESPOND is the core standard to define the minimum of how organisations should respond to attacks and requires:
 
-* development and maintainence of an incident response & management plan (including reporting, roles and responsibilities);
-* development and maintennce of communication plans, particularly to relevant supervisory bodies, law enforcement and responsible organisations such as the NCSC;
-* regular testing of the incidement response & management plan;
+* development and maintenance of an incident response & management plan (including reporting, roles and responsibilities);
+* development and maintenance of communication plans, particularly to relevant supervisory bodies, law enforcement and responsible organisations such as the NCSC;
+* regular testing of the incident response & management plan;
 * assessment and implementation of mitigating measures on discovery of an incident (successful attack); and
-* post-incident reviews to ensure feedback into the iteration of the incidement response & management plan.
+* post-incident reviews to ensure feedback into the iteration of the incident response & management plan.
 
 ### RECOVER
 
