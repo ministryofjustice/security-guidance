@@ -15,7 +15,7 @@ The platform can receive, store, index, filter, search, alert and re-forward log
 
 ## Additive technology supply chain
 
-The security log collection principles are designe to be met through technology supply chain as opposed to each system individually.
+The security log collection principles are designed to be met through technology supply chain as opposed to each system individually.
 
 For example, where the principles require the logging of DNS traffic, this could be achieved within a corporate device ecosystem by logging at the end user device itself, or by configuring the end user device to use a corporate DNS server that logs instead.  You may decide to do both, because some DNS queries can go out without the DNS server (for example in the case of a corporate VPN that is not always on).
 
