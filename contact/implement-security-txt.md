@@ -4,22 +4,22 @@ expires: 2019-12-31
 ---
 # Implementing security.txt
 
-Domains where the MOJ is primarily responsible for cyber security **must** redirect the `/.well_known/security.txt` location to the central `security.txt` file.
+Domains where the MOJ is primarily responsible for cyber security **must** redirect the `/.well-known/security.txt` location to the central `security.txt` file.
 
-This redirection should be accessible from the public Internet whether or not the underlying applications/systems are. For example, https://test.not-production.justice.gov.uk may be a web-application requiring authentication however https://test.not-production.justice.gov.uk/.well_known/security.txt should still be accessible without authentication.
+This redirection should be accessible from the public Internet whether or not the underlying applications/systems are. For example, https://test.not-production.justice.gov.uk may be a web-application requiring authentication however https://test.not-production.justice.gov.uk/.well-known/security.txt should still be accessible without authentication.
 
 ## security.txt
 
-`/.well_known/security.txt` must HTTP 301 (permanent redirect) to `https://raw.githubusercontent.com/ministryofjustice/security-guidance/master/contact/vulnerability-disclosure-security.txt`
+`/.well-known/security.txt` must HTTP 301 (permanent redirect) to `https://raw.githubusercontent.com/ministryofjustice/security-guidance/master/contact/vulnerability-disclosure-security.txt`
 
 For example,
-`https://www.prisonvisits.service.gov.uk/.well_known/security.txt`
+`https://www.prisonvisits.service.gov.uk/.well-known/security.txt`
 must HTTP 301 to
 `https://raw.githubusercontent.com/ministryofjustice/security-guidance/master/contact/vulnerability-disclosure-security.txt`
 
-### /.well_known/
+### /.well-known/
 
-We use `/.well_known/` to house `security.txt` as [RFC5785](https://tools.ietf.org/html/rfc5785) defines it as a path prefix for "well-known locations" in selected Uniform Resource Identifier (URI) schemes.
+We use `/.well-known/` to house `security.txt` as [RFC5785](https://tools.ietf.org/html/rfc5785) defines it as a path prefix for "well-known locations" in selected Uniform Resource Identifier (URI) schemes.
 
 ## Internal-facing domains
 
