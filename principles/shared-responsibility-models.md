@@ -7,13 +7,13 @@ expires: 2019-07-01
 
 The MOJ by default will leverage shared responsibility models, particularly in commodity environments, in order to achieve efficiencies such as time, risk and cost.
 
-The MOJ believe that it should focus on elements which are unique to its requirements rather than attempting to solve commodity requirements in a unique way.
+The MOJ believes that it should focus on elements which are unique to its requirements rather than attempting to solve commodity requirements in a unique way.
 
 h/t [https://aws.amazon.com/compliance/shared-responsibility-model/](https://aws.amazon.com/compliance/shared-responsibility-model/)
 
 ## Assessments
 
-The MOJ conduct assessments (including risk assessments) where appropriate to ensure it understands the shared responsibility model, it's obligations under the same and measure how third-parties are meeting their obligations.
+The MOJ conducts assessments (including risk assessments) where appropriate to ensure it understands the shared responsibility model, its obligations under the same and measure how third-parties are meeting their obligations.
 
 ### Inherited
 
@@ -29,6 +29,6 @@ MOJ has shared controls which is jointly responsible for with the third-party, f
 
 ### MOJ specific
 
-The MOJ is responsible for appropriate use within it's partnership or 'tenancy' of a third-party supplier or product.
+The MOJ is responsible for appropriate use within its partnership or 'tenancy' of a third-party supplier or product.
 
-For example, in AWS, MOJ must correctly leverage natively AWS functionality (such as Security Groups) to protect systems/data, and only the MOJ can implement these.
+For example, in AWS, MOJ must correctly leverage native AWS functionality (such as Security Groups) to protect systems/data, and only the MOJ can implement these.
