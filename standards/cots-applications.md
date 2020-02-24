@@ -37,10 +37,10 @@ These event types must be logged and forward:
 * h. group creation
 * i. privilege modification for users (for example, role delegation through AWS IAM)
 * k. multi-factor authentication state, such as:
-⋅⋅1. enabled
-⋅⋅2. disabled
-⋅⋅3. reset/rotation
-⋅⋅4. recovery method used
+    * 1: enabled
+    * 2: disabled
+    * 3: reset/rotation
+    * 4: recovery method used
 
 ### 2. Authenticated user activity events
 Log Collection Principle(s): 6
@@ -70,10 +70,10 @@ Log Collection Principle(s): 6
 
 Where unauthenticated users interact with applications (for example, a MOJ G-Suite document available on the general Internet through relaxed access controls), associated audit information must be created.
 
-* a. end-client identifier(s) 
+* a. end-client identifier(s)
 * b. query metadata
-⋅⋅1. destination identifier (such as target hostname, TCP/UDP port and/or full URI)
-⋅⋅2. query type (for example, HTTP GET or HTTP POST)
-⋅⋅3. query size
+    * 1: destination identifier (such as target hostname, TCP/UDP port and/or full URI)
+    * 2: query type (for example, HTTP GET or HTTP POST)
+    * 3: query size
 * c. response size
 * d. response time

@@ -10,13 +10,13 @@ Any security log data collected must comply with these metadata standards to ens
 ## Time/date
 
 * a. all log events must be time stamped in the common log timestamping format as defined by [ISO8601](https://en.wikipedia.org/wiki/ISO_8601) `[dd/MM/yyyy:hh:mm:ss +-hhmm]` where the fields are defined as follows:
-⋅⋅1. dd is the day of the month
-⋅⋅2. MMM is the month
-⋅⋅3. yyyy is the year
-⋅⋅4. :hh is the hour
-⋅⋅5. :mm is the minute
-⋅⋅6. :ss is the seconds
-⋅⋅7. +-hhmm is the time zone
+    * 1: dd is the day of the month
+    * 2: MMM is the month
+    * 3: yyyy is the year
+    * 4: :hh is the hour
+    * 5: :mm is the minute
+    * 6: :ss is the seconds
+    * 7: +-hhmm is the time zone
 * b. systems must use an automated time syncing protocol (such as NTP) with an external time source to ensure it is not subject to ‘time drift’ that may impact the accuracy of time stamping.
 
 ## Formats

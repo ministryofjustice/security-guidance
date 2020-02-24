@@ -36,10 +36,10 @@ These event types must be logged and forward:
 * h. group creation
 * i. privilege modification for users (for example, role delegation through AWS IAM)
 * k. multi-factor authentication state, such as:
-⋅⋅1. enabled
-⋅⋅2. disabled
-⋅⋅3. reset/rotation
-⋅⋅4. recovery method used
+    * 1: enabled
+    * 2: disabled
+    * 3: reset/rotation
+    * 4: recovery method used
 
 ### 2. Bastion/Jump/Action-proxy services
 Log Collection Principle(s): 1, 2, 6
@@ -47,11 +47,11 @@ Log Collection Principle(s): 1, 2, 6
 Bastion/jump boxes that act as a management consolidation route and should be highly auditable therefore must create and forward security-related event data.
 
 * a. SSH keypair generation/revocation, including:
-⋅⋅1. public key
-⋅⋅2. keypair ‘friendly name’ / identifier
+    * 1: public key
+    * 2: keypair ‘friendly name’ / identifier
 * b. account login attempts
-⋅⋅1. public key
-⋅⋅2. username
+    * 1: public key
+    * 2: username
 
 ### 3. Domain name service query logs
 Log Collection Principle(s): 4
@@ -61,8 +61,8 @@ DNS query logs must be created and forwarded.
 * a. client IP address
 * b. query
 * c. query response content including
-⋅⋅1. returned record(s) or NXDOMAIN
-⋅⋅2. authoritative nameserver
+    * 1: returned record(s) or NXDOMAIN
+    * 2: authoritative nameserver
 * d. query response code
 * e. zone and/or view identifier (if local zone response and/or multiview)
 
@@ -75,8 +75,8 @@ Where web traffic proxies exist, access logs should be created and forward and m
 
 * a. authenticated user name (if applicable)
 * b. client identifiers:
-⋅⋅1. IP address
-⋅⋅2. reverse lookup client name (if applicable)
+    * 1: IP address
+    * 2: reverse lookup client name (if applicable)
 * c. HTTP method (for example, CONNECT GET)
 * d. Where available, full destination/target URL or SNI value
 * e. connection return status code (for example, 200 or 403)
@@ -88,19 +88,19 @@ Log Collection Principle(s): 3, 6
 Hypervisors manage virtualised compute resources and are entrusted to segregate the same. All instructions to hypervisors should be highly auditable.
 
 * a. virtual machine creation (including templates)
-⋅⋅1. identifier(s)
-⋅⋅2. operating system image information
+    * 1: identifier(s)
+    * 2: operating system image information
 * b. virtual machine ‘power’ events
-⋅⋅1. identifier(s)
-⋅⋅2. ‘power’ on
-⋅⋅3. ‘power’ off (including restart flag)
+    * 1: identifier(s)
+    * 2: ‘power’ on
+    * 3: ‘power’ off (including restart flag)
 * c. virtual machine deletion
-⋅⋅1. identifier(s)
+    * 1: identifier(s)
 * d. virtual machine resource modification events:
-⋅⋅1. CPU addition/removal
-⋅⋅2. RAM addition/removal
-⋅⋅3. Networking additional/removal
-⋅⋅4. Storage mount/dismount/resize
+    * 1: CPU addition/removal
+    * 2: RAM addition/removal
+    * 3: Networking additional/removal
+    * 4: Storage mount/dismount/resize
 
 ### 6. Orchestrator events
 Log Collection Principle(s): 3, 6
@@ -108,17 +108,17 @@ Log Collection Principle(s): 3, 6
 Orchestrators such as Cloud Foundry and Kubernetes create and manage a variety of technology resources to facilitate an application environment.
 
 * a. resource creation (including templates)
-⋅⋅1. identifier(s)
-⋅⋅2. resource type
-⋅⋅3. operating system image information (if applicable)
+    * 1: identifier(s)
+    * 2: resource type
+    * 3: operating system image information (if applicable)
 * b. container ‘power’ events
-⋅⋅1. identifier(s)
-⋅⋅2. ‘power’ on
-⋅⋅3. ‘power’ off (including restart flag)
+    * 1: identifier(s)
+    * 2: ‘power’ on
+    * 3: ‘power’ off (including restart flag)
 * c. resource deletion
-⋅⋅1. identifier(s)
+    * 1: identifier(s)
 * e. resource modification events:
-⋅⋅1. identifier(s)
+    * 1: identifier(s)
 
 ### 7. Allocation of IP address leases from DHCP services
 Log Collection Principle(s): 3, 5
@@ -126,14 +126,14 @@ Log Collection Principle(s): 3, 5
 DHCP services must be configured to create and forward the following:
 
 * a. successful client DHCP requests, including:
-⋅⋅1. Requesting client MAC address
-⋅⋅2. DHCP scope identifier
-⋅⋅3. IP address leased
-⋅⋅4. IP address lease duration
+    * 1: Requesting client MAC address
+    * 2: DHCP scope identifier
+    * 3: IP address leased
+    * 4: IP address lease duration
 
 * b. unsuccessful client DHCP requests, including:
-⋅⋅1. Requesting client MAC address
-⋅⋅2. DHCP scope identifier (if applicable for unsuccessful request)
+    * 1: Requesting client MAC address
+    * 2: DHCP scope identifier (if applicable for unsuccessful request)
 
 ## Enhanced Maturity Tier
 
@@ -146,10 +146,10 @@ All firewall ‘DENY’ log data must be forwarded.
 * b. firewall/router identifier
 * c. request response code
 * d. request content, including:
-⋅⋅1. IP protocol (for example, ICMP)
-⋅⋅2. destination/target port
-⋅⋅3. destination/target IP address
-⋅⋅4. destination/target hostname address (if reverse lookup performed)
+    * 1: IP protocol (for example, ICMP)
+    * 2: destination/target port
+    * 3: destination/target IP address
+    * 4: destination/target hostname address (if reverse lookup performed)
 
 ### 2. Internal DNS namespace zone content
 Log Collection Principle(s): 4
@@ -196,8 +196,8 @@ Log Collection Principle(s): 1, 2, 3, 6
 Continuous integration and continuous deployment pipelines obey instructions to manage hosting environments and are a privileged position to oversee all tenant resources, they must be highly auditable to clarify activity and attribute the same.
 
 * a. source identifier(s)
-⋅⋅1. user(s)
-⋅⋅2. repository
+    * 1: user(s)
+    * 2: repository
 * b. activity events
-⋅⋅1. resource creation
-⋅⋅2. resource destruction
+    * 1: resource creation
+    * 2: resource destruction

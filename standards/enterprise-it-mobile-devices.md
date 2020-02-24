@@ -35,10 +35,10 @@ These event types must be logged and forward:
 * i. privilege modification for users (changes to ACL’s, granting of new roles in RBAC models)
 * j. privilege escalation events (use of sudo, UAC)
 * k. multi-factor authentication state, such as:
-⋅⋅1. enabled
-⋅⋅2. disabled
-⋅⋅3. reset/rotation
-⋅⋅4. recovery method used
+    * 1: enabled
+    * 2: disabled
+    * 3: reset/rotation
+    * 4: recovery method used
 
 ### 3. Domain name service query logs
 Log Collection Principle(s): 4
@@ -49,8 +49,8 @@ DNS query logs must be created and forwarded, even where they are captively rout
 * b. VLAN tag for associated network interface (if known)
 * d. query
 * e. query response content including
-⋅⋅1. returned record(s) or NXDOMAIN
-⋅⋅2. authoritative nameserver
+    * 1: returned record(s) or NXDOMAIN
+    * 2: authoritative nameserver
 * e. query response code
 
 ### 4. Security-related operating system event data
@@ -66,8 +66,8 @@ Log Collection Principle(s): 6
 Security-related logs from any local endpoint protection software (for example, anti-virus) should be forwarded.
 
 * a. detection information
-⋅⋅1. process/binaries
-⋅⋅2. detection criteria (for example, malware type)
+    * 1: process/binaries
+    * 2: detection criteria (for example, malware type)
 * b. reaction information (for example, quarantine)
 * c. ‘last scan’ information
 * d. signature information
@@ -83,8 +83,8 @@ Devices must create and forward sufficient data to record the network posture ar
 * d. IP address lease duration
 * e. Network interface identifier
 * f. DHCP response instructions, for example:
-⋅⋅1. DNS servers
-⋅⋅2. Proxy servers
+    * 1: DNS servers
+    * 2: Proxy servers
 
 ### 7. VPN dial-up activity
 Log Collection Principle(s): 5
@@ -107,10 +107,10 @@ All firewall ‘DENY’ log data must be forwarded.
 * b. network interface identifier(s)
 * c. request response code
 * d. request content, including:
-⋅⋅1. IP protocol (for example, ICMP)
-⋅⋅2. destination/target port
-⋅⋅3. destination/target IP address
-⋅⋅4. destination/target hostname address (if reverse lookup performed)
+    * 1: IP protocol (for example, ICMP)
+    * 2: destination/target port
+    * 3: destination/target IP address
+    * 4: destination/target hostname address (if reverse lookup performed)
 
 ### 2. Command/executable runtime information
 Log Collection Principle(s): 6

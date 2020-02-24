@@ -30,10 +30,10 @@ These event types must be logged and forward:
 * i. privilege modification for users (changes to ACL’s, granting of new roles in RBAC models)
 * j. privilege escalation events (use of sudo, UAC)
 * k. multi-factor authentication state, such as:
-⋅⋅1. enabled
-⋅⋅2. disabled
-⋅⋅3. reset/rotation
-⋅⋅4. recovery method used
+    * 1: enabled
+    * 2: disabled
+    * 3: reset/rotation
+    * 4: recovery method used
 
 ### 2. Productivity Suite security logs
 Log Collection Principle(s): 1, 2, 3, 6
@@ -50,8 +50,8 @@ DNS query logs must be created and forwarded.
 * a. client IP address
 * b. query
 * c. query response content including
-⋅⋅1. returned record(s) or NXDOMAIN
-⋅⋅2. authoritative nameserver
+    * 1: returned record(s) or NXDOMAIN
+    * 2: authoritative nameserver
 * d. query response code
 * e. zone and/or view identifier (if local zone response and/or multiview)
 
@@ -91,14 +91,14 @@ Log Collection Principle(s): 3, 5
 DHCP services must be configured to create and forward the following:
 
 * a. successful client DHCP requests, including:
-⋅⋅1. Requesting client MAC address
-⋅⋅2. DHCP scope identifier
-⋅⋅3. IP address leased
-⋅⋅4. IP address lease duration
+    * 1: Requesting client MAC address
+    * 2: DHCP scope identifier
+    * 3: IP address leased
+    * 4: IP address lease duration
 
 * b. unsuccessful client DHCP requests, including:
-⋅⋅1. Requesting client MAC address
-⋅⋅2. DHCP scope identifier (if applicable for unsuccessful request)
+    * 1: Requesting client MAC address
+    * 2: DHCP scope identifier (if applicable for unsuccessful request)
 
 ### 8. VPN concentrator activity data
 Log Collection Principle(s): 3, 5
@@ -121,10 +121,10 @@ All firewall ‘DENY’ log data must be forwarded.
 * b. firewall/router identifier
 * c. request response code
 * d. request content, including:
-⋅⋅1. IP protocol (for example, ICMP)
-⋅⋅2. destination/target port
-⋅⋅3. destination/target IP address
-⋅⋅4. destination/target hostname address (if reverse lookup performed)
+    * 1: IP protocol (for example, ICMP)
+    * 2: destination/target port
+    * 3: destination/target IP address
+    * 4: destination/target hostname address (if reverse lookup performed)
 
 ### 2. Internal DNS namespace zone content
 Log Collection Principle(s): 4

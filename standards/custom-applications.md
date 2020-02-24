@@ -37,10 +37,10 @@ These event types must be logged and forward:
 * h. group creation
 * i. privilege modification for users (for example, role delegation through AWS IAM)
 * k. multi-factor authentication state, such as:
-⋅⋅1. enabled
-⋅⋅2. disabled
-⋅⋅3. reset/rotation
-⋅⋅4. recovery method used
+    * 1: enabled
+    * 2: disabled
+    * 3: reset/rotation
+    * 4: recovery method used
 
 ### 2. Authenticated user activity events
 Log Collection Principle(s): 6
@@ -59,9 +59,9 @@ Where unauthenticated users interact with applications (for example, a digital s
 
 * a. end-client identifier(s) 
 * b. query metadata
-⋅⋅1. destination identifier (such as target hostname, TCP/UDP port and/or full URI)
-⋅⋅2. query type (for example, HTTP GET or HTTP POST)
-⋅⋅3. query size
+    * 1: destination identifier (such as target hostname, TCP/UDP port and/or full URI)
+    * 2: query type (for example, HTTP GET or HTTP POST)
+    * 3: query size
 * c. response size
 * d. response time
 
@@ -73,12 +73,12 @@ Log Collection Principle(s): 1, 2, 3, 6
 Continuous integration and continuous deployment pipelines obey instructions to manage applications and are a privileged position to oversee all associated resources, they must be highly auditable to clarify activity and attribute the same.
 
 * a. source identifier(s)
-⋅⋅1. user(s)
-⋅⋅2. repository
+    * 1: user(s)
+    * 2: repository
 * b. activity events
-⋅⋅1. resource creation
-⋅⋅2. resource destruction
-⋅⋅3. target environment
+    * 1: resource creation
+    * 2: resource destruction
+    * 3: target environment
 
 ### 2. Data store events
 Log Collection Principle(s): 6
