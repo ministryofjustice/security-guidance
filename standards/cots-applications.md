@@ -3,9 +3,9 @@ category: Security Log Collection
 expires: 2020-03-01
 ---
 
-# Custom Applications
+# Commercial off-the-shelf applications
 
-We have developed a series of logging requirements for Common of The Shelf (COTS) applications, such as Software-as-a-Service solutions or where applications are not customised that they can reasonably be considered bespoke/custom for the MOJ.
+We have developed a series of logging requirements for Commercial off-the-shelf (COTS) applications, such as Software-as-a-Service (SaaS) solutions or where applications are not customised that they can reasonably be considered bespoke/custom for the MOJ.
 
 ## Baseline Maturity Tier
 
