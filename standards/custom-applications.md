@@ -27,16 +27,16 @@ User directories within application environments can be rich and diverse, such t
 * Local user stores within operating systems leveraged by tenant applications
 
 These event types must be logged and forward:
-* a. account creation
-* b. account lockout
-* c. account reinstatement
-* d. account authentication failures
-* e. account authentication successes after 1 or more failures
-* f. account password changes
-* g. group membership addition / deletion (in particular, any group that gives admin access)
-* h. group creation
-* i. privilege modification for users (for example, role delegation through AWS IAM)
-* k. multi-factor authentication state, such as:
+* a: account creation
+* b: account lockout
+* c: account reinstatement
+* d: account authentication failures
+* e: account authentication successes after 1 or more failures
+* f: account password changes
+* g: group membership addition / deletion (in particular, any group that gives admin access)
+* h: group creation
+* i: privilege modification for users (for example, role delegation through AWS IAM)
+* k: multi-factor authentication state, such as:
     * 1: enabled
     * 2: disabled
     * 3: reset/rotation
@@ -47,23 +47,23 @@ Log Collection Principle(s): 6
 
 Applications should create viable user activity audit information for authenticated users so it is reasonably possible to understand retrospectively which actions the user took or attempted.
 
-* a. user/group identifier(s)
-* b. action/query
-* c. response size
-* d. response time
+* a: user/group identifier(s)
+* b: action/query
+* c: response size
+* d: response time
 
 ### 3. Unauthenticated user activity events
 Log Collection Principle(s): 6
 
 Where unauthenticated users interact with applications (for example, a digital service published and available on the general Internet), associated audit information must be created.
 
-* a. end-client identifier(s) 
-* b. query metadata
+* a: end-client identifier(s) 
+* b: query metadata
     * 1: destination identifier (such as target hostname, TCP/UDP port and/or full URI)
     * 2: query type (for example, HTTP GET or HTTP POST)
     * 3: query size
-* c. response size
-* d. response time
+* c: response size
+* d: response time
 
 ## Enhanced Maturity Tier
 
@@ -72,10 +72,10 @@ Log Collection Principle(s): 1, 2, 3, 6
 
 Continuous integration and continuous deployment pipelines obey instructions to manage applications and are a privileged position to oversee all associated resources, they must be highly auditable to clarify activity and attribute the same.
 
-* a. source identifier(s)
+* a: source identifier(s)
     * 1: user(s)
     * 2: repository
-* b. activity events
+* b: activity events
     * 1: resource creation
     * 2: resource destruction
     * 3: target environment
@@ -85,8 +85,8 @@ Log Collection Principle(s): 6
 
 Temporary data stores (such as intermediate queues) and permanent data store (such as databases) are key data locations and all interactions should be highly auditable.
 
-* a. data store identifier(s)
-* b. credential identifier(s)
-* c. query
-* d. query response size
-* e. query response time
+* a: data store identifier(s)
+* b: credential identifier(s)
+* c: query
+* d: query response size
+* e: query response time

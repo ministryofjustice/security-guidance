@@ -26,16 +26,16 @@ User directories within hosting environments can be rich and diverse, such techn
 * Local user stores within operating systems
 
 These event types must be logged and forward:
-* a. account creation
-* b. account lockout
-* c. account reinstatement
-* d. account authentication failures
-* e. account authentication successes after 1 or more failures
-* f. account password changes
-* g. group membership addition / deletion (in particular, any group that gives admin access)
-* h. group creation
-* i. privilege modification for users (for example, role delegation through AWS IAM)
-* k. multi-factor authentication state, such as:
+* a: account creation
+* b: account lockout
+* c: account reinstatement
+* d: account authentication failures
+* e: account authentication successes after 1 or more failures
+* f: account password changes
+* g: group membership addition / deletion (in particular, any group that gives admin access)
+* h: group creation
+* i: privilege modification for users (for example, role delegation through AWS IAM)
+* k: multi-factor authentication state, such as:
     * 1: enabled
     * 2: disabled
     * 3: reset/rotation
@@ -46,10 +46,10 @@ Log Collection Principle(s): 1, 2, 6
 
 Bastion/jump boxes that act as a management consolidation route and should be highly auditable therefore must create and forward security-related event data.
 
-* a. SSH keypair generation/revocation, including:
+* a: SSH keypair generation/revocation, including:
     * 1: public key
     * 2: keypair ‘friendly name’ / identifier
-* b. account login attempts
+* b: account login attempts
     * 1: public key
     * 2: username
 
@@ -58,13 +58,13 @@ Log Collection Principle(s): 4
 
 DNS query logs must be created and forwarded.
 
-* a. client IP address
-* b. query
-* c. query response content including
+* a: client IP address
+* b: query
+* c: query response content including
     * 1: returned record(s) or NXDOMAIN
     * 2: authoritative nameserver
-* d. query response code
-* e. zone and/or view identifier (if local zone response and/or multiview)
+* d: query response code
+* e: zone and/or view identifier (if local zone response and/or multiview)
 
 This remains true for where nodes (for example, servers) may bypass internal DNS services.
 
@@ -73,30 +73,30 @@ Log Collection Principle(s): 5
 
 Where web traffic proxies exist, access logs should be created and forward and must, include the following variables.
 
-* a. authenticated user name (if applicable)
-* b. client identifiers:
+* a: authenticated user name (if applicable)
+* b: client identifiers:
     * 1: IP address
     * 2: reverse lookup client name (if applicable)
-* c. HTTP method (for example, CONNECT GET)
-* d. Where available, full destination/target URL or SNI value
-* e. connection return status code (for example, 200 or 403)
-* f. size of response
+* c: HTTP method (for example, CONNECT GET)
+* d: Where available, full destination/target URL or SNI value
+* e: connection return status code (for example, 200 or 403)
+* f: size of response
 
 ### 5. Hypervisor events
 Log Collection Principle(s): 3, 6
 
 Hypervisors manage virtualised compute resources and are entrusted to segregate the same. All instructions to hypervisors should be highly auditable.
 
-* a. virtual machine creation (including templates)
+* a: virtual machine creation (including templates)
     * 1: identifier(s)
     * 2: operating system image information
-* b. virtual machine ‘power’ events
+* b: virtual machine ‘power’ events
     * 1: identifier(s)
     * 2: ‘power’ on
     * 3: ‘power’ off (including restart flag)
-* c. virtual machine deletion
+* c: virtual machine deletion
     * 1: identifier(s)
-* d. virtual machine resource modification events:
+* d: virtual machine resource modification events:
     * 1: CPU addition/removal
     * 2: RAM addition/removal
     * 3: Networking additional/removal
@@ -107,17 +107,17 @@ Log Collection Principle(s): 3, 6
 
 Orchestrators such as Cloud Foundry and Kubernetes create and manage a variety of technology resources to facilitate an application environment.
 
-* a. resource creation (including templates)
+* a: resource creation (including templates)
     * 1: identifier(s)
     * 2: resource type
     * 3: operating system image information (if applicable)
-* b. container ‘power’ events
+* b: container ‘power’ events
     * 1: identifier(s)
     * 2: ‘power’ on
     * 3: ‘power’ off (including restart flag)
-* c. resource deletion
+* c: resource deletion
     * 1: identifier(s)
-* e. resource modification events:
+* e: resource modification events:
     * 1: identifier(s)
 
 ### 7. Allocation of IP address leases from DHCP services
@@ -125,13 +125,13 @@ Log Collection Principle(s): 3, 5
 
 DHCP services must be configured to create and forward the following:
 
-* a. successful client DHCP requests, including:
+* a: successful client DHCP requests, including:
     * 1: Requesting client MAC address
     * 2: DHCP scope identifier
     * 3: IP address leased
     * 4: IP address lease duration
 
-* b. unsuccessful client DHCP requests, including:
+* b: unsuccessful client DHCP requests, including:
     * 1: Requesting client MAC address
     * 2: DHCP scope identifier (if applicable for unsuccessful request)
 
@@ -142,10 +142,10 @@ Log Collection Principle(s): 5
 
 All firewall ‘DENY’ log data must be forwarded.
 
-* a. client IP address
-* b. firewall/router identifier
-* c. request response code
-* d. request content, including:
+* a: client IP address
+* b: firewall/router identifier
+* c: request response code
+* d: request content, including:
     * 1: IP protocol (for example, ICMP)
     * 2: destination/target port
     * 3: destination/target IP address
@@ -176,28 +176,28 @@ Log Collection Principle(s): 1, 2, 3, 6
 
 Where a mobile device management solution is used and end-user devices register/enrol and de-register/de-enrol with it, enrollment data should be created in and forwarded.
 
-* a. enrolment or un-enrolment event type
-* b. end-user device identifier(s), such as client IP address and/or MAC address and/or assigned DHCP name
-* c. end-user account name (if applicable)
+* a: enrolment or un-enrolment event type
+* b: end-user device identifier(s), such as client IP address and/or MAC address and/or assigned DHCP name
+* c: end-user account name (if applicable)
 
 ### 7. VPN concentrator activity data
 Log Collection Principle(s): 3, 5
 
 Where VPN services are in use, connection-related log data must be created and forwarded.
 
-* a. success or unsuccess status
-* b. user/certificate identifier
-* c. client IP address
-* d. concentrator identifier
+* a: success or unsuccess status
+* b: user/certificate identifier
+* c: client IP address
+* d: concentrator identifier
 
 ### 8. Pipeline events
 Log Collection Principle(s): 1, 2, 3, 6
 
 Continuous integration and continuous deployment pipelines obey instructions to manage hosting environments and are a privileged position to oversee all tenant resources, they must be highly auditable to clarify activity and attribute the same.
 
-* a. source identifier(s)
+* a: source identifier(s)
     * 1: user(s)
     * 2: repository
-* b. activity events
+* b: activity events
     * 1: resource creation
     * 2: resource destruction

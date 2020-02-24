@@ -32,40 +32,40 @@ To enable ease of referencing, but not to imply priority order, each item is ass
 
 ### 1. Authentication events
 
-* a. login successes and failures
-* b. multi-factor authentication success and failures
-* c. logouts
-* d. session creation
-* e. session timeout/expiry
-* f. session close
+* a: login successes and failures
+* b: multi-factor authentication success and failures
+* c: logouts
+* d: session creation
+* e: session timeout/expiry
+* f: session close
 
 ### 2. Authorisation events
 
-* a. group/role creation, modification or deletion
-* b. group/role membership changes (addition or subtraction)
-* c. group/role elevation (for example, if a user is able to temporarily assume a higher privilege to conduct a finite amount of work)
+* a: group/role creation, modification or deletion
+* b: group/role membership changes (addition or subtraction)
+* c: group/role elevation (for example, if a user is able to temporarily assume a higher privilege to conduct a finite amount of work)
 
 ### 3. Infrastructure events
 
 Infrastructure is defined as underlying resources, whether a logical switch, server or through to a containerised compute resource in the cloud, upon which end-user or application logic is overlaid.
 
-* a. power/service on / off
-* b. creation/registration and deletion/de-registration, including suspension/hibernation if applicable
-* c. software update events/status
-* e. IP address allocation/deallocation
-* f. Firewall/routing rule creation, modification or deletion
-* g. Network change events (for example addition or removal of virtual networks or interfaces)
+* a: power/service on / off
+* b: creation/registration and deletion/de-registration, including suspension/hibernation if applicable
+* c: software update events/status
+* e: IP address allocation/deallocation
+* f: Firewall/routing rule creation, modification or deletion
+* g: Network change events (for example addition or removal of virtual networks or interfaces)
 
 ### 4. Domain name service queries
 
-* a. successful and unsuccessful queries
-* b. recursive lookup status
-* c. infrastructure node / end-user device registration / de-registration (if applicable)
+* a: successful and unsuccessful queries
+* b: recursive lookup status
+* c: infrastructure node / end-user device registration / de-registration (if applicable)
 
 ### 5. Network traffic events
 
-* a. successful and unsuccessful inbound service daemon connections
-* b. unsuccessful outbound connections where the network traffic is *not* associated to an inbound request
+* a: successful and unsuccessful inbound service daemon connections
+* b: unsuccessful outbound connections where the network traffic is *not* associated to an inbound request
 
 ### 6. Contextual security related events
 
@@ -75,6 +75,6 @@ For example, operating system patch state information from end-point protection 
 
 ### 7. Log transmission to the MOJ Cyber Security Logging Platform
 
-* a. All log data must be sent to the MOJ Cyber Security owned log platform unless all principles have already been met through the deployment of a holistic locally deployed and monitored Security Information and Event Management (SIEM) solution.
+* a: All log data must be sent to the MOJ Cyber Security owned log platform unless all principles have already been met through the deployment of a holistic locally deployed and monitored Security Information and Event Management (SIEM) solution.
 
 Where 7(a) above is true, the MOJ Cyber Security team will advise in context what information must be sent from the in-place SIEM to the MOJ Cyber Security Logging Platform.
