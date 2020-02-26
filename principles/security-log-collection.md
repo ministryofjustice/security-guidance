@@ -77,4 +77,4 @@ For example, operating system patch state information from end-point protection 
 
 * a. All log data must be sent to the MOJ Cyber Security owned log platform unless all principles have already been met through the deployment of a holistic locally deployed and monitored Security Information and Event Management (SIEM) solution.
 
-Where 8(a) above is true, the MOJ Cyber Security team will advise in context what information must be sent from the in-place SIEM to the MOJ Cyber Security Logging Platform.
+Where 7(a) above is true, the MOJ Cyber Security team will advise in context what information must be sent from the in-place SIEM to the MOJ Cyber Security Logging Platform.
