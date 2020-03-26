@@ -33,3 +33,9 @@ defaults:
       path: "contact"
     values:
       contact: true
+  -
+    scope:
+      path: "policies"
+    values:
+      policy: true
+

@@ -2,7 +2,7 @@
 
 This site documents some of the security decisions that the
 [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice)
-has made for the products we operate and our relationships with suppliers.
+has made for the products we operate, and our relationships with suppliers.
 
 [Technical guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MOJ more widely.
 
@@ -13,6 +13,24 @@ has made for the products we operate and our relationships with suppliers.
 
 {% for principle in principle_groups %}
 - [{{ principle.title }}]({{ principle.url | relative_url }})
+{% endfor %}
+
+## Policies
+
+{% assign policies = site.pages
+  | where: "policy", true
+  | group_by: "category" %}
+
+{% for policy_group in policies %}
+{% if policy_group.name != "" %}
+### {{ policy_group.name }}
+{% else %}
+### General policies
+{% endif %}
+
+{% for policy in policy_group.items %}
+- [{{ policy.title }}]({{ policy.url | relative_url }})
+{% endfor %}
 {% endfor %}
 
 ## Standards
