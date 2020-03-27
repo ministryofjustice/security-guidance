@@ -110,6 +110,8 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 ### Incidents
 
+*Note: If you work for an agency or ALB, refer to your local incident reporting guidance.*
+
 **Operational Security Team**
 - Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
 - Slack: `#security`
@@ -150,3 +152,6 @@ To access the following link, you'll need to be connected to the HMPPS Intranet.
 
 [HMPPS Advice](https://intranet.noms.gsi.gov.uk/support/information-policy-and-assurance/information-assurance)
 
+---
+
+Last updated: March 27th, 2020.
