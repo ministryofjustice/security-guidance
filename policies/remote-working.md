@@ -127,11 +127,26 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 - Email: [security@digital.justice.gov.uk](security@digital.justice.gov.uk)
 - Slack: `#security`
 
+### Historic paper files urgently required by ministers, courts, or Public Inquiries
+
+**MoJ HQ staff**
+- Email: [Records_Retention_@justice.gov.uk](Records_Retention_@justice.gov.uk)
+
+**HMCTS and HMPPS staff**
+- Email: [BranstonRegistryRequests2@justice.gov.uk](BranstonRegistryRequests2@justice.gov.uk)
+
+### JustStore
+
+- Email: [KIM@justice.gov.uk](KIM@justice.gov.uk)
+
 **If unsure, contact your Line Manager.**
 
 ## Related information
 
 [NCSC Home working: preparing your organisation and staff](https://www.ncsc.gov.uk/guidance/home-working)<br/>
-[CPNI Home Working Advice](https://www.cpni.gov.uk/advice-home-working-0)<br/>
+[CPNI Home Working Advice](https://www.cpni.gov.uk/advice-home-working-0)
+
+To access the following link, you'll need to be connected to the HMPPS Intranet.
+
 [HMPPS Advice](https://intranet.noms.gsi.gov.uk/support/information-policy-and-assurance/information-assurance)
 
