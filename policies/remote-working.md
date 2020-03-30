@@ -44,7 +44,7 @@ Remote working is when you work from any non-MOJ location, for example, working 
 - Leave equipment unattended.
 - Work on sensitive information in public spaces, or where your equipment can be overlooked by others.
 - Advertise the fact that you work with MOJ materials.
-- Take part in conference or video calls when you are in public or shared spaces such as cafes, waiting rooms or homes, and think about whether any smart devices such as Alexa, Siri, or Google might be listening in.
+- Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.
 - Send work material to your personal email address.
 
 ## Working securely ###
@@ -154,4 +154,4 @@ To access the following link, you'll need to be connected to the HMPPS Intranet.
 
 ---
 
-Last updated: March 27th, 2020.
+Last updated: March 30th, 2020.
