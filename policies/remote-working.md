@@ -44,7 +44,8 @@ Remote working is when you work from any non-MOJ location, for example, working 
 - Leave equipment unattended.
 - Work on sensitive information in public spaces, or where your equipment can be overlooked by others.
 - Advertise the fact that you work with MOJ materials.
-- Take part in conference or video calls when you are in public spaces such as cafes or waiting rooms.
+- Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.
+- Send work material to your personal email address.
 
 ## Working securely ###
 
