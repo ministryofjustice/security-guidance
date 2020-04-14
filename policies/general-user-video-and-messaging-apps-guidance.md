@@ -75,7 +75,7 @@ The bottom line is: *"if there is doubt, there is no doubt - ask for help!".*
 
 Some tools, such as Facebook, Instagram and LinkedIn, are approved for specific corporate accounts to use, for corporate communications messages. General use of these tools for work purposes is not permitted.
 
-If you wish to use a tool that is not listed above, please consult our [Guidance for using Open Internet Tools (to access this guide you'll need to be connected to the MOJ Intranet)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/guidance-for-using-open-internet-tools/) and [speak to us for help](mailto:informationmgmtsecurity@justice.gov.uk).
+If you wish to use a tool that is not listed above, please consult our [Guidance for using Open Internet Tools (to access this guide you'll need to be connected to the MOJ Intranet)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/guidance-for-using-open-internet-tools/) and [speak to us for help](mailto:security@justice.gov.uk).
 
 ## Government policy and guidance
 
@@ -84,6 +84,7 @@ If you wish to use a tool that is not listed above, please consult our [Guidance
 ## NCSC
 
 [Secure communications principles](https://www.ncsc.gov.uk/guidance/secure-communication-principles-alpha-release)
+
 [Using third-party applications](https://www.ncsc.gov.uk/collection/mobile-device-guidance/using-third-party-applications)
 
 ## Requesting that a tool be approved for use
