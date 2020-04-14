@@ -69,7 +69,7 @@ The bottom line is: *"if there is doubt, there is no doubt - ask for help!".*
 | WhatsApp | Text messaging, Voice/Video calls | Avoid personal or sensitive data | Dedicated app on device, also web browser. | Internal/External |
 | Yammer | Text messaging | Avoid personal or sensitive data | Dedicated app on device | Internal |
 | YouTube | Video sharing tool: Video, streaming and chat | Avoid personal or sensitive data | Web/browser based use | Internal/External |
-| Zoom | Communication tool: Video and/or voice and chat | Avoid personal or sensitive data | Digital Service Desk controlled Mac - Self service (free version) | Internal/External |
+| [Zoom](https://drive.google.com/file/d/1qSVRvTuO2CYvAhqmjZ-ubeSLYn5f0nTm/view?usp=sharing) | Communication tool: Video and/or voice and chat | Avoid personal or sensitive data | Digital Service Desk controlled Mac - Self service (free version) | Internal/External |
 
 ## Other tools
 
