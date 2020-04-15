@@ -121,7 +121,7 @@ An OIT can only store or process information [classified](https://www.gov.uk/gov
 Think about the MOJ information you work with.  What would happen if you lost it, or it's stolen, or published in the media? Suppose the information was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is 'No', then it's probably OK to use OITs to store or send that information.
 
 Think also about information moving across the Internet. The data might be safe within the MOJ and in an approved OIT. But what about the connection between the two? Sending information might involve insecure networks. Be aware of the security implications. Check that enough suitable security measures are in place to protect the information. For example, check for encryption of network connections using [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security). A simple way to do this is to look for the secure connection indicator in your web browser:<br/>
-![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/02/guidance-for-using-open-internet-tools-01.png)
+![](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/guidance-for-using-open-internet-tools-01.png)
 
 <p>&nbsp;</p>
 
