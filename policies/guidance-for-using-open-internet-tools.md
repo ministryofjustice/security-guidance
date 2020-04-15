@@ -120,7 +120,8 @@ An OIT can only store or process information [classified](https://www.gov.uk/gov
 
 Think about the MOJ information you work with.  What would happen if you lost it, or it's stolen, or published in the media? Suppose the information was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is 'No', then it's probably OK to use OITs to store or send that information.
 
-Think also about information moving across the Internet. The data might be safe within the MOJ and in an approved OIT. But what about the connection between the two? Sending information might involve insecure networks. Be aware of the security implications. Check that enough suitable security measures are in place to protect the information. For example, check for encryption of network connections using [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security). A simple way to do this is to look for the secure connection indicator in your web browser:<br/>
+Think also about information moving across the Internet. The data might be safe within the MOJ and in an approved OIT. But what about the connection between the two? Sending information might involve insecure networks. Be aware of the security implications. Check that enough suitable security measures are in place to protect the information. For example, check for encryption of network connections using [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security). A simple way to do this is to look for the secure connection indicator in your web browser:
+<br/>
 ![](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/guidance-for-using-open-internet-tools-01.png)
 
 <p>&nbsp;</p>
@@ -180,9 +181,9 @@ For further help about aspects of using OITs within the MOJ, contact:
 Subject | Contact
 ---|---
 Classification and Security | [MOJ Cyber Security team](mailto:security@justice.gov.uk)
-Storage and Data Retention | Departmental Library & Records Management Services (DLRMS):(mailto:kim@justice.gov.uk)
+Storage and Data Retention | [Departmental Library & Records Management Services (DLRMS)](mailto:kim@justice.gov.uk)
 Information Assurance | [Compliance and Information Assurance Branch](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/)
-Personal Data | Disclosure Team:(mailto:data.access@justice.gov.uk)
+Personal Data | [Disclosure Team](mailto:data.access@justice.gov.uk)
 
 ---
 
