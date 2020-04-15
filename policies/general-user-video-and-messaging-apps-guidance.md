@@ -69,7 +69,7 @@ The bottom line is: *"if there is doubt, there is no doubt - ask for help!".*
 | WhatsApp | Text messaging, Voice/Video calls | Avoid personal or sensitive data | Dedicated app on device, also web browser. | Internal/External |
 | Yammer | Text messaging | Avoid personal or sensitive data | Dedicated app on device | Internal |
 | YouTube | Video sharing tool: Video, streaming and chat | Avoid personal or sensitive data | Web/browser based use | Internal/External |
-| [Zoom](https://drive.google.com/file/d/1qSVRvTuO2CYvAhqmjZ-ubeSLYn5f0nTm/view?usp=sharing) | Communication tool: Video and/or voice and chat | Avoid personal or sensitive data | Digital Service Desk controlled Mac - Self service (free version) | Internal/External |
+| [Zoom](https://drive.google.com/file/d/1qSVRvTuO2CYvAhqmjZ-ubeSLYn5f0nTm/view?usp=sharing) | Communication tool: Video, voice and chat | Avoid personal or sensitive data. Do not use with Secret or Top Secret information. More detailed guidance is available [here](https://drive.google.com/file/d/1qSVRvTuO2CYvAhqmjZ-ubeSLYn5f0nTm/view?usp=sharing). | Never use a personal account to attend a Zoom meeting. Anyone can join a Zoom meeting using a work account, but you should only host a meeting if you have a corporate-issued licence | Cross-government and external meetings |
 
 ## Other tools
 
@@ -93,4 +93,4 @@ Refer to the [Guidance for using Open Internet Tools (to access this guide you'l
 
 ---
 
-Last updated: April 14th, 2020.
+Last updated: April 15th, 2020.
