@@ -15,8 +15,6 @@ This guidance gives you:
 
 > **Note:** To access some of the links in this guide you'll need to be connected to the MOJ Intranet
 
-<a id="overview"></a>
-
 ## Overview
 
 Open Internet Tools (OITs) are applications or services from suppliers outside the MOJ. They often have the following characteristics:
@@ -25,8 +23,6 @@ Open Internet Tools (OITs) are applications or services from suppliers outside t
 - they are accessed using the Internet, usually through a web browser. This means that if you have Internet access, you are able to connect to the tools
 - they have a basic 'free-to-use' version. This means that you are able to use some or all the capabilities, but with some constraints. For example, an online word-processor might limit you to 5 documents in your account
 - they have one or more 'paid for' versions. By paying for the tool, you unlock some or all the constraints
-
-<a id="quick-checklist"></a>
 
 ### Quick checklist
 
@@ -50,8 +46,6 @@ If the answer to _any_ of these questions is 'Yes', you might not be able to use
 
 When you have all the answers, request formal approval to use the OIT from your [Line Manager](https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/). Do this _before_ using the OIT.
 
-<a id="why-oits-are-an-opportunity"></a>
-
 ### Why OITs are an opportunity
 
 OITs offer some significant advantages for you and the MOJ, including:
@@ -66,8 +60,6 @@ OITs offer some significant advantages for you and the MOJ, including:
 - a large pool of help and support
 - easy access, whenever you have a network connection
 - increasing availability of some or all capabilities when disconnected from the network
-
-<a id="why-oits-are-a-risk"></a>
 
 ### Why OITs are a risk
 
@@ -84,21 +76,12 @@ But as long you consider the threats or risks, and address them, OITs provide ma
 
 With careful use, OITs help you to work more effectively and efficiently. Think about them as serious and preferable options for performing tasks.
 
-<a id="using-oits"></a>
-
 ## Using OITs
 
 This guidance helps you:
 
 - understand the conditions or constraints that apply to a tool, or a task performed using a tool
 - identify and address threats or risks posed by a new tool
-
-<!--
-- understand what tools are available for you to use
-- identify and champion new tools that might benefit the MOJ
--->
-
-<a id="privacy-and-personal-information"></a>
 
 ### Privacy and personal information
 
@@ -112,7 +95,7 @@ Be sure you can fulfil your data protection responsibilities when using an OIT. 
 
 Complying with personal information requirements can be complex. Don't hesitate to ask for advice:
 
-(mailto:data.compliance@justice.gov.uk)
+[data.compliance@justice.gov.uk](mailto:data.compliance@justice.gov.uk)
 
 ### Classification and security
 
@@ -121,10 +104,8 @@ An OIT can only store or process information [classified](https://www.gov.uk/gov
 Think about the MOJ information you work with.  What would happen if you lost it, or it's stolen, or published in the media? Suppose the information was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is 'No', then it's probably OK to use OITs to store or send that information.
 
 Think also about information moving across the Internet. The data might be safe within the MOJ and in an approved OIT. But what about the connection between the two? Sending information might involve insecure networks. Be aware of the security implications. Check that enough suitable security measures are in place to protect the information. For example, check for encryption of network connections using [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security). A simple way to do this is to look for the secure connection indicator in your web browser:
-<br/>
-![](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/guidance-for-using-open-internet-tools-01.png)
 
-<p>&nbsp;</p>
+![](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/guidance-for-using-open-internet-tools-01.png)
 
 You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is [Principle 2](https://www.gov.uk/government/publications/government-security-classifications) of the Government Security Classifications. The MOJ trusts you to work with `OFFICIAL` information. In the same way, you're trusted to make a reasoned judgement about whether it's safe to use an OIT.
 
