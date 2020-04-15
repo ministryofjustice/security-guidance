@@ -75,7 +75,7 @@ The bottom line is: *"if there is doubt, there is no doubt - ask for help!".*
 
 Some tools, such as Facebook, Instagram and LinkedIn, are approved for specific corporate accounts to use, for corporate communications messages. General use of these tools for work purposes is not permitted.
 
-If you wish to use a tool that is not listed above, please consult our [Guidance for using Open Internet Tools (to access this guide you'll need to be connected to the MOJ Intranet)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/guidance-for-using-open-internet-tools/) and [speak to us for help](mailto:security@justice.gov.uk).
+If you wish to use a tool that is not listed above, please consult our [Guidance for using Open Internet Tools (to access this guide you'll need to be connected to the MOJ Intranet)](https://ministryofjustice.github.io/security-guidance/policies/guidance-for-using-open-internet-tools /#guidance-for-using-open-internet-tools) and [speak to us for help](mailto:security@justice.gov.uk).
 
 ## Government policy and guidance
 
@@ -89,8 +89,8 @@ If you wish to use a tool that is not listed above, please consult our [Guidance
 
 ## Requesting that a tool be approved for use
 
-Refer to the [Guidance for using Open Internet Tools (to access this guide you'll need to be connected to the MOJ Intranet)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/guidance-for-using-open-internet-tools/) for the process to follow when wanting to add a new tool to the list.
+Refer to the [Guidance for using Open Internet Tools (to access this guide you'll need to be connected to the MOJ Intranet)](https://ministryofjustice.github.io/security-guidance/policies/guidance-for-using-open-internet-tools /#guidance-for-using-open-internet-tools) for the process to follow when wanting to add a new tool to the list.
 
 ---
 
-Last updated: April 14th, 2020.
+Last updated: April 16th, 2020.
