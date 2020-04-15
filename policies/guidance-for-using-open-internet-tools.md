@@ -2,7 +2,7 @@
 title: guidance-for-using-open-internet-tools
 ---
 
-<b>This information applies to all staff and contractors who work for the MOJ.</b>
+**This information applies to all staff and contractors who work for the MOJ.**
 
 
 This guidance gives you:
@@ -13,7 +13,7 @@ This guidance gives you:
 - things you [must think about](#using-oits) when using an OIT, such as [data protection](#privacy-and-personal-information)
 - information on [who to contact](#getting-help) if you would like help or advice
 
-> **Note:** To access some of the links in this guide you'll need to be connected to the MOJ Intranet
+> **Note: To access some of the links in this guide you'll need to be connected to the MOJ Intranet**
 
 ## Overview
 
