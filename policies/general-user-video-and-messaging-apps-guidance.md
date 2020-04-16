@@ -93,4 +93,4 @@ Refer to the [Guidance for using Open Internet Tools (to access this guide you'l
 
 ---
 
-Last updated: April 16th, 2020.
+Last updated: April 16th, 2020
