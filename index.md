@@ -15,6 +15,8 @@ has made for the products we operate, and our relationships with suppliers.
 - [{{ principle.title }}]({{ principle.url | relative_url }})
 {% endfor %}
 
+&nbsp;
+
 ## Policies
 
 {% assign policies = site.pages
@@ -22,6 +24,7 @@ has made for the products we operate, and our relationships with suppliers.
   | group_by: "category" %}
 
 {% for policy_group in policies %}
+
 {% if policy_group.name != "" %}
 ### {{ policy_group.name }}
 {% else %}
@@ -31,6 +34,9 @@ has made for the products we operate, and our relationships with suppliers.
 {% for policy in policy_group.items %}
 - [{{ policy.title }}]({{ policy.url | relative_url }})
 {% endfor %}
+
+&nbsp;
+
 {% endfor %}
 
 ## Standards
@@ -40,6 +46,7 @@ has made for the products we operate, and our relationships with suppliers.
   | group_by: "category" %}
 
 {% for standard_group in standards %}
+
 {% if standard_group.name != "" %}
 ### {{ standard_group.name }}
 {% else %}
@@ -49,6 +56,9 @@ has made for the products we operate, and our relationships with suppliers.
 {% for standard in standard_group.items %}
 - [{{ standard.title }}]({{ standard.url | relative_url }})
 {% endfor %}
+
+&nbsp;
+
 {% endfor %}
 
 ## Guides
@@ -58,6 +68,7 @@ has made for the products we operate, and our relationships with suppliers.
   | group_by: "category" %}
 
 {% for guide_group in guides %}
+
 {% if guide_group.name != "" %}
 ### {{ guide_group.name }}
 {% else %}
@@ -67,6 +78,9 @@ has made for the products we operate, and our relationships with suppliers.
 {% for guide in guide_group.items %}
 - [{{ guide.title }}]({{ guide.url | relative_url }})
 {% endfor %}
+
+&nbsp;
+
 {% endfor %}
 
 ## Suppliers to MOJ
@@ -76,6 +90,7 @@ has made for the products we operate, and our relationships with suppliers.
   | group_by: "category" %}
 
 {% for supplier_group in suppliers %}
+
 {% if supplier_group.name != "" %}
 ### {{ supplier_group.name }}
 {% else %}
@@ -85,15 +100,19 @@ has made for the products we operate, and our relationships with suppliers.
 {% for supplier in supplier_group.items %}
 - [{{ supplier.title }}]({{ supplier.url | relative_url }})
 {% endfor %}
+
+&nbsp;
+
 {% endfor %}
 
 ## Mythbusting
 
 {% assign mythbustings = site.pages
-  | where: "mythbusting", true 
+  | where: "mythbusting", true
   | group_by: "category" %}
 
 {% for myth_group in mythbustings %}
+
 {% if myth_group.name != "" %}
 ### {{ myth_group.name }}
 {% endif %}
@@ -101,6 +120,9 @@ has made for the products we operate, and our relationships with suppliers.
 {% for myth in myth_group.items %}
 - [{{ myth.title }}]({{ myth.url | relative_url }})
 {% endfor %}
+
+&nbsp;
+
 {% endfor %}
 
 ## Technical Guidance
@@ -114,6 +136,7 @@ The [technical guidance](https://ministryofjustice.github.io/technical-guidance/
   | group_by: "category" %}
 
 {% for contact_group in contacts %}
+
 {% if contact_group.name != "" %}
 ### {{ contact_group.name }}
 {% else %}
@@ -123,4 +146,7 @@ The [technical guidance](https://ministryofjustice.github.io/technical-guidance/
 {% for contact in contact_group.items %}
 - [{{ contact.title }}]({{ contact.url | relative_url }})
 {% endfor %}
+
+&nbsp;
+
 {% endfor %}
