@@ -1,7 +1,7 @@
 ---
 expires: 2020-12-31
 ---
-# Remote Working 
+# Remote Working
 
 ## Key points
 
@@ -15,7 +15,7 @@ expires: 2020-12-31
 
 ## Overview
 
-The Remote Working Guide gives you advice and guidance on the main security issues that are likely to affect you as a remote worker or a user of mobile computing facilities, (e.g. desktop/laptop computer, smart phones, etc), within the Ministry of Justice (MOJ), including its Agencies and Associated Offices. It also sets out your individual responsibilities for IT security when working remotely. 
+The Remote Working Guide gives you advice and guidance on the main security issues that are likely to affect you as a remote worker or a user of mobile computing facilities, (e.g. desktop/laptop computer, smart phones, etc), within the Ministry of Justice (MOJ), including its Agencies and Associated Offices. It also sets out your individual responsibilities for IT security when working remotely.
 
 ## Audience
 
@@ -23,7 +23,7 @@ This guide applies to all staff in the MOJ, its Agencies, Associated Offices and
 
 ## What is remote working?
 
-Remote working means you are working away from the office. This could be from home, at another MOJ or government office, whilst travelling, at a conference, or in a hotel. 
+Remote working means you are working away from the office. This could be from home, at another MOJ or government office, whilst travelling, at a conference, or in a hotel.
 
 ## Protecting your workspace and equipment
 
@@ -47,7 +47,7 @@ Remote working is when you work from any non-MOJ location, for example, working 
 - Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.
 - Send work material to your personal email address.
 
-## Working securely ###
+## Working securely
 
 It’s important to consider the security of how you work remotely.
 - **Work locations** - as with home working above, you need to be equally, if not more, vigilant when working in public spaces.
@@ -56,7 +56,9 @@ It’s important to consider the security of how you work remotely.
 
 Even when working remotely, you must still follow the security policies and operating procedures for MOJ systems you access and work with.
 
-## Using your own equipment ####
+## Using your own equipment
+
+The main guidance is available [here](https://ministryofjustice.github.io/security-guidance/policies/personal-devices/).
 
 Wherever possible, you should always use official MOJ equipment for business purposes. Never send work material to your personal email accounts.
 
@@ -91,15 +93,17 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 ### General enquiries, including theft and loss
 
 **Dom1 - Technology Service Desk**
-- Email: [itservicedesk@justice.gov.uk](mailto:itservicedesk@justice.gov.uk)
+<!-- - Email: [MOJ.Servicedesk.uk@CGI.com](mailto:MOJ.Servicedesk.uk@CGI.com) -->
 - Tel: 0800 917 5148
+
+_Note: The previous `itservicedesk@justice.gov.uk`email address is no longer being monitored._
 
 **Digital & Technology - Digital Service Desk**
 - Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
 - Slack: `#digitalservicedesk`
 
 **HMPPS Information & security:**
-- Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk) 
+- Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
 - Tel: 0203 334 0324
 
 <!--
@@ -154,4 +158,4 @@ To access the following link, you'll need to be connected to the HMPPS Intranet.
 
 ---
 
-Last updated: March 30th, 2020.
+Last updated: April 24th, 2020.
