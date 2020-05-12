@@ -42,7 +42,7 @@ MFA re-prompt when attempting to delete or modify data. |
 access to prevent privileged user credentials from being revealed to an intruder. |
 
 | DON’T |
-
+| --- |
 | ✖ Allow privileged users to use their privileged accounts for high-risk functions. These include
 reading emails, web browsing, using an ‘administrator’ login on an end-user device (such as a
 mobile device), or logging into a server as ‘root’. |

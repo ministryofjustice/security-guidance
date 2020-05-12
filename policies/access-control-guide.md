@@ -40,9 +40,9 @@ Effective access control should be implemented by following these four principle
 
 2. **Authentication:** To access MoJ systems, users must authenticate themselves. They can do so using:
 
--- something they know (such as a password - the primary authentication method used at the MoJ),
--- something they have (such as a smart card), and/or
--- something they are (biometric authentication such as a fingerprint, voice recognition, iris scan and others).
+- something they know (such as a password - the primary authentication method used at the MoJ),
+- something they have (such as a smart card), and/or
+- something they are (biometric authentication such as a fingerprint, voice recognition, iris scan and others).
 
 Systems holding sensitive information or systems that are mission critical to the MoJ must use Multi-Factor Authentication (MFA) to prove user identity. See the Multi-Factor Authentication Guide and Password Management Guide for further information. If you wish to use a federated identity, you should review the National Cyber Security Center’s (NCSC) guidance and contact the Cyber Assistance Team. For information on authentication methods including OAuth, refer to the Managing User Access guide.
 
@@ -70,11 +70,11 @@ This can be implemented by conducting the following activities:
 - implement manual or automated Role Based Access Control (RBAC) to enforce user authorisation rights.
 - regularly review audit logs to check for suspicious activity, and
 - ensure strict control of software and data changes require that each user can perform only one of the following roles:
--- identification of a requirement or change management request (Business function)
--- authorisation and approval of a change request (Governance function)
--- design and development (Architect or Developer function)
--- review, inspection, and approval (another Architect or Developer function), and
--- implementation in production (System Administrator function)
+- identification of a requirement or change management request (Business function)
+- authorisation and approval of a change request (Governance function)
+- design and development (Architect or Developer function)
+- review, inspection, and approval (another Architect or Developer function), and
+- implementation in production (System Administrator function)
 
 ## Contact details
 

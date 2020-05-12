@@ -13,7 +13,7 @@ user access to systems and information in the MoJ. This is a sub-page to the Acc
 The following methods can be used to manage access to the MoJ’s systems. They are in order of
 preference for their use, with 1 providing more secure management features than 4.
 
-| # | Method | Comment |
+| | Method | Comment |
 | --- |
 | 1 | Application Program Interface (API) | Where possible, APIs should be used instead of Secure Shell (SSH) as APIs offer greater technical control over security systems without the need for parsing commands required by SSH. For AWS instances, it is recommended that you use AWS Session Manager. |
 | 2 | Automated diagnostic data collection | It should be considered the exception for administrators to directly administer a server/node when there is automated diagnostic data collection. Diagnostic data collection allows the underlying technical data to be easily correlated and analysed. |
