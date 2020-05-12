@@ -5,16 +5,14 @@ expires: 2020-12-31
 
 ## Introduction
 
-This guide provides information on the authentication methods which should be used to manage
-user access to systems and information in the MoJ. This is a sub-page to the Access Control Guide.
+This guide provides information on the authentication methods which should be used to manage user access to systems and information in the MoJ. This is a sub-page to the Access Control Guide.
 
 ## Managing access to MoJ systems
 
-The following methods can be used to manage access to the MoJ’s systems. They are in order of
-preference for their use, with 1 providing more secure management features than 4.
+The following methods can be used to manage access to the MoJ’s systems. They are in order of preference for their use, with 1 providing more secure management features than 4.
 
 | | Method | Comment |
-| --- |
+| --- | --- | --- |
 | 1 | Application Program Interface (API) | Where possible, APIs should be used instead of Secure Shell (SSH) as APIs offer greater technical control over security systems without the need for parsing commands required by SSH. For AWS instances, it is recommended that you use AWS Session Manager. |
 | 2 | Automated diagnostic data collection | It should be considered the exception for administrators to directly administer a server/node when there is automated diagnostic data collection. Diagnostic data collection allows the underlying technical data to be easily correlated and analysed. |
 | 3 | Pre-defined, pre-audited | Authentication tools such as Amazon Identity Access Management (IAM) should be used to manage access when technically possible. The use of pre-defined tools for authentication can be designed to avoid human error and instruct pre-audited actions to be taken on an administrator’s behalf, thus reducing manual human interaction. |
