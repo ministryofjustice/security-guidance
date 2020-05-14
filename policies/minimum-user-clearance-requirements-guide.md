@@ -23,8 +23,7 @@ broken down into three user account types.
 | User account type | Description | Minimum Clearance Required |
 | --- | --- | --- |
 | General User | Includes all users with entry-level access; includes read/write and read-only users. | BPSS |
-| Application Administrator/Privileged User | Typically an application system manager, i.e. those with the rights to create/remove user accounts and provide internal support. |
-BPSS but may require SC |
+| Application Administrator/Privileged User | Typically an application system manager, i.e. those with the rights to create/remove user accounts and provide internal support. | BPSS but may require SC |
 | System Administrator | A system administrator does not necessarily have a ‘need-to-know’ about the business information held on the systems they support. However, they do have administrative privileges which allows them to view data held on those systems and change their configuration. | BPSS but may require SC |
 
 The clearance level indicated in the table above is separate to the clearance level required for a particular job role and sets the minimum requirement for access to a MoJ IT system and account. All roles in the MoJ require staff to attain BPSS as a minimum. Some roles require staff to have higher clearance such as SC or DV.
