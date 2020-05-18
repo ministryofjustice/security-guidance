@@ -59,8 +59,7 @@ The following Patching Schedule SLA defines the indicative severity ratings and 
 * Patches and updates for security related devices must be treated as High Risk and implemented in accordance with this rating.
 * This is considered a baseline and some systems may require different patching schedules which will be identified in the system’s Information Risk Assessment Report (IRAR).
 
-| Patching SLA |
-| --- |
+### Patching SLA
 
 | Rating (Severity) | Infrastructure Devices; Server Applications; Digital Services | End User Client Devices | Web Check Reporting |
 | --- | --- | --- | --- |
@@ -69,3 +68,38 @@ The following Patching Schedule SLA defines the indicative severity ratings and 
 | Medium (2) | 28 days after vulnerability alert released | 28 days after vulnerability alert released | Informational: Configurations that you could optimise, or information that you may find useful. |
 | Low (1) | Next scheduled system upgrade (not to exceed 90 days) | Next scheduled system upgrade (not to exceed 90 days) | N/A |
 | Positive (0) | N/A | N/A | Positive: Site configurations that conform to best practices. |
+
+## Patch management processes
+
+There are two patching and change management approaches in the MoJ:
+
+1. Infrastructure and services provided by a Managed Service Provider (MSP)
+
+Where services and infrastructure are provided by MSPs, the vendor is normally responsible for developing and implementing patches to identified vulnerabilities. Patches or a workaround must be provided by vendors to ensure the MoJ is able to meet the SLAs for implementing patches. If this is not possible, vendors must provide an indication that the patch/workaround cannot be made available within the timescale mandated for addressing the vulnerability. This must be escalated to the Risk Advisor team for acceptance, transfer, mitigation or avoidance.
+
+Any patches to be deployed must go through the approval process, outlined in the diagram below, and the changes recorded in the Service Management Tool.
+
+GRAPHIC
+
+2. Services and applications developed by MoJ in-house project teams
+
+Where services and applications are developed by the MoJ in-house project teams, patching and change management is managed on a project by project basis. Changes are identified through research and scanning which identifies operating and security issues. A ticket will be created detailing the change required and the project manager will determine how and when to implement the change based on the security risk rating. The patch review and approval is undertaken within the project team.
+
+If changes are urgent because a major security risk has been identified, the product, system, or service owner will ask a developer to investigate and if possible create and implement a patch quickly. If the issue is more complex, Technical Architects, Security Architects and the Cyber Assistance Team may need to assist in the development of appropriate remediation plans.
+
+Patches must be implemented according to the SLAs in this guide. If this is not possible, the project team must provide an indication that the patch/workaround cannot be implemented within the timescale mandated for addressing the vulnerability. This must be escalated to the Risk Advisor Team for acceptance, transfer, mitigation or avoidance.
+
+## Removal of equipment
+
+The removal of any IT equipment or software, must be managed as part of the MoJ’s change process outlined above in the Patch Management Process section. Before the removal of any IT equipment, a Business Impact Assessment must be conducted and the business process owner consulted. The removal of IT equipment may fall under the emergency and major change process.
+
+## Patching exemptions
+
+In exceptional cases where patching of systems is not possible, other mitigations (such as logical separation) must be identified and evaluated for efficacy prior to enablement. The circumstances
+must be discussed with the affected Information Asset Owners (IAO) and System Owners. If the IAOs agree with the deviation, System Owners must request formal approval by the Senior Information Risk Owner (SIRO) for the exemption. Approval must be sought and obtained within a comparable timescale to applying a patch. If a critical patch cannot be applied, the approval to be exempt must be obtained within the same number of days allowed for applying a critical patch.
+
+## Contact details
+
+Contact the Cyber the Assistance Team for advice on scanning and patching – [CyberConsultancy@digital.justice.gov.uk](CyberConsultancy@digital.justice.gov.uk)
+
+Contact the Operational Security Team to be added to the MoJ Web Check account – [Operationalsecurityteam@justice.gov.uk](Operationalsecurityteam@justice.gov.uk)
