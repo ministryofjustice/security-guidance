@@ -61,6 +61,7 @@ The following Patching Schedule SLA defines the indicative severity ratings and 
 
 | Patching SLA |
 | --- |
+
 | Rating (Severity) | Infrastructure Devices; Server Applications; Digital Services | End User Client Devices | Web Check Reporting |
 | --- | --- | --- | --- |
 |Critical (4) | 3-7 days after vulnerability alert released | 14 days after vulnerability alert released | Urgent: Serious configuration problems that you should fix without delay and no later than 28 days after the vulnerability alert is released. |
