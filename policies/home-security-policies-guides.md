@@ -11,3 +11,21 @@ Section 6.13 Technical security of the Government Functional Standard - GovS 007
 > - security management processes that facilitate staff to conduct sensitive conversations and meetings in an appropriate environment.
 > - processes to maintain the technical integrity of the government estate.
 > - security managed estate improvement plans to mitigate the compromise of the building structure from close access or standoff attack.
+
+
+| Theme | Supporting Documents |
+| --- | --- |
+| Access Control | Access Control Guide |
+| | Privileged Account Management Guide |
+| | Managing User Access Guide |
+| | JML Process |
+| | Minimum User Clearance Levels Guide |
+| | Multi-Factor Authentication |
+| | |
+| Data and Information Handling | Information Security Policy |
+| | Information Classification Handling and Security Guide |
+| | |
+| Malware Protection | Malware Protection Guide (Overview) |
+| | Malware Protection Guide: Defensive Layer 1 |
+| | Malware Protection Guide: Defensive Layer 2 |
+| | Malware Protection Guide: Defensive Layer 3 |
