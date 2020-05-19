@@ -2,17 +2,14 @@
 
 ## Background
 
+Sections 6.12 Cyber security and 6.13 Technical security of the Government Functional Standard - GovS 007: Security state:
 
-Section 6.13 Technical security of the Government Functional Standard - GovS 007: Security states:
+> - The security of information and data is essential to good government and public confidence. To operate effectively, HMG needs to maintain the confidentiality, integrity and availability of its information, systems and infrastructure, and the services it provides. Any organisation that handles government information shall meet the standards expected of HM Government.
+> - Technical security relates to the protection of security systems from compromise and/or external interference that may have occurred as a result of an attack.
 
-> Technical security relates to the protection of security systems from compromise and/or external interference that may have occurred as a result of an attack. Government organisations should have:
-> - policies and processes to control the use of mobile devices in sensitive areas
-> - staff awareness of the risks of using personal devices in government buildings
-> - security management processes that facilitate staff to conduct sensitive conversations and meetings in an appropriate environment.
-> - processes to maintain the technical integrity of the government estate.
-> - security managed estate improvement plans to mitigate the compromise of the building structure from close access or standoff attack.
+Guidelines how this can be achieved are detailed in the standard, which can be found here.
 
-Documents have been developed to support the main themes of IT and cyber security. Themes are listed below together with links to their supporting documents. Also, examples of target audiences are given.
+Documents have been developed to support the main themes of cyber and technical security, and are listed below together with examples of their target audiences.
 
 | Theme | Supporting Documents | Target Audience |
 | --- | --- | --- |
