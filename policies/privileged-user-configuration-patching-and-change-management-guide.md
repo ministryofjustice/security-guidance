@@ -8,7 +8,7 @@ Expires: 2020-12-31
 
 This guide outlines the security procedures and controls privileged users should look to implement in order to ensure that systems are configured securely, change is managed correctly and systems are regularly patched. This guide is a sub-page to the Privileged User Guide.
 
-Secure configuration and change management
+## Secure configuration and change management
 
 Privileged users must ensure that secure configuration and change management processes are followed so that any changes to system operating procedures are understood and support the MoJ’s risk management and mitigation activities. Privileged users should follow these controls. 
  
