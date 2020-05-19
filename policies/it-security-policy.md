@@ -220,8 +220,9 @@ For the purpose of this Information Security Policy, the following roles are des
 | | | Regularly reviewing the application of policy and guidance to ensure it remains appropriate to their business objectives and risk environment |
 | | | Authorising any exceptions and deviations from the IT Security Policy. |
 
-## Risk management 
-**Technical risk assessment and information assurance **
+## Risk management
+
+**Technical risk assessment and information assurance**
 
 The MoJ aligns with the HMG Information Assurance Standards, which state that all IT systems that manage or are connected to government information must be assessed to identify technical risks. 
 
