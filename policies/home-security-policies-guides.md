@@ -1,4 +1,4 @@
-# IT and Cyber Security
+# Cyber and Technical Security
 
 ## Background
 
