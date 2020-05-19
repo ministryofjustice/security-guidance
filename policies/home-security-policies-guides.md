@@ -2,7 +2,7 @@
 
 ## Background
 
-Sections 6.12 Cyber security and 6.13 Technical security of the Government Functional Standard - GovS 007: Security state:
+Sections 6.12 Cyber security and 6.13 Technical security of the *Government Functional Standard - GovS 007: Security* state:
 
 > - The security of information and data is essential to good government and public confidence. To operate effectively, HMG needs to maintain the confidentiality, integrity and availability of its information, systems and infrastructure, and the services it provides. Any organisation that handles government information shall meet the standards expected of HM Government.
 > - Technical security relates to the protection of security systems from compromise and/or external interference that may have occurred as a result of an attack.
