@@ -13,8 +13,8 @@ Documents have been developed to support the main themes of cyber and technical 
 
 | Theme | Supporting Documents | Target Audience |
 | --- | --- | --- |
-| Access Control | Access Control Guide | |
-| | Privileged Account Management Guide | |
+| Access Control | Access Control Guide | Technical Architect, DevOps, IT Service Manager, Software Developer |
+| | Privileged Account Management Guide | Sys Admin |
 | | Managing User Access Guide | |
 | | JML Process | |
 | | Minimum User Clearance Levels Guide | |
@@ -23,7 +23,7 @@ Documents have been developed to support the main themes of cyber and technical 
 | Data and Information Handling | Information Security Policy | |
 | | Information Classification Handling and Security Guide | |
 | | | |
-| Malware Protection | Malware Protection Guide (Overview) | |
+| Malware Protection | Malware Protection Guide (Overview) | Software Developer, DevOps, Technial Architect, IT Service Manager |
 | | Malware Protection Guide: Defensive Layer 1 | |
 | | Malware Protection Guide: Defensive Layer 2 | |
 | | Malware Protection Guide: Defensive Layer 3 | |
