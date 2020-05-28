@@ -9,7 +9,9 @@ Sections 6.12 Cyber security and 6.13 Technical security of the *Government Func
 
 Guidelines how this can be achieved are detailed in the standard, which can be found here.
 
-Documents have been developed to support the main themes of cyber and technical security, and are listed below together with examples of their target audiences.
+## Taxonomy
+
+Documents have been developed to support the taxonomy of cyber and technical security, and are listed below together with examples of their target audiences.
 
 | Level 1 | Level 2 | Documents | Target Audience |
 | --- | --- | --- | --- |
@@ -51,6 +53,5 @@ Documents have been developed to support the main themes of cyber and technical 
 | | | IT Security Policy | |
 | Technical | Data and Information | Information Security Policy | |
 | | | Information Classification Handling and Security Guide | |
-| | | 
 | | Incident Management |
 | | Software Development |
