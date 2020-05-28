@@ -16,7 +16,7 @@ Privileged users are responsible for maintaining system logs (syslogs) for the s
 
  - Ensuring that systems are synchronised to the centralised MoJ timing source to enable effective malware detection.
 
- - Working closely with the Operational Security Team (OST) to define requirements and ensure that when possible, automated log analysis and alerting is integrated with the MoJ�s SOC which provides the MoJ's central monitoring function.
+ - Working closely with the Operational Security Team (OST) to define requirements and ensure that when possible, automated log analysis and alerting is integrated with the MoJ's SOC which provides the MoJ's central monitoring function.
 
  - Establishing the baseline activities for systems they are responsible for. This is essential to ensure that monitoring systems are able to detect when there is unusual activity.
 
