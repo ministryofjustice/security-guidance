@@ -45,7 +45,7 @@ The MoJ maintains an Information Security Policy, which aligns with the HM Gover
 
 The MoJ Access Control Guide ensures that information and IT assets can be accessed by only authorised personnel and that each individual is accountable for their actions.
 
-The guide outlines the controls and processes designed to limit access based on a �need to know� basis and according to defined roles and responsibilities.
+The guide outlines the controls and processes designed to limit access based on a 'need to know' basis and according to defined roles and responsibilities.
 
 The MoJ Access Control Guide addresses the following areas:
 
