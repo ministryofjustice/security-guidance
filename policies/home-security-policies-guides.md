@@ -72,7 +72,13 @@ Documents have been developed and defined within this taxonomy, and are listed i
 
 ## Other Guidance
 
+### Intranet
+
 There are other cyber and technical security guidance documents available to reference. A large number of these documents are available in the [IT and Computer Security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/) repository on the MoJ Intranet, but these documents are currently being reviewed and progressively are being incorporated into the main [Security Guidance](https://ministryofjustice.github.io/security-guidance/#moj-security--guidance) repository as detailed above.
+
+### GitHub Library
+
+This library documents the security decisions that the MoJ has made for the products it operates, and its relationships with suppliers.
 
 ## References
 
