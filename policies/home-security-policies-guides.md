@@ -9,12 +9,6 @@ Sections 6.12 Cyber security and 6.13 Technical security of the standard state:
 > - The security of information and data is essential to good government and public confidence. To operate effectively, HMG needs to maintain the confidentiality, integrity and availability of its information, systems and infrastructure, and the services it provides. Any organisation that handles government information shall meet the standards expected of HM Government.
 > - Technical security relates to the protection of security systems from compromise and/or external interference that may have occurred as a result of an attack.
 
-Guidelines how this can be achieved are detailed in the standard, which can be found here.
-
-## Standard
-
-![](https://github.com/ministryofjustice/security-guidance/blob/Local/images/GovS_007_Thumbnail.png) Government Functional Standard - GovS 007: Security
-
 ## Taxonomy
 
 Documents have been developed to support the taxonomy of cyber and technical security, and are listed below together with examples of their target audiences.
@@ -61,3 +55,7 @@ Documents have been developed to support the taxonomy of cyber and technical sec
 | | | Information Classification Handling and Security Guide | |
 | | Incident Management |
 | | Software Development |
+
+## References
+
+![](https://github.com/ministryofjustice/security-guidance/blob/Local/images/GovS_007_Thumbnail.png) Government Functional Standard - GovS 007: Security
