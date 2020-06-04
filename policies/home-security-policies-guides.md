@@ -2,12 +2,18 @@
 
 ## Background
 
-Sections 6.12 Cyber security and 6.13 Technical security of the *Government Functional Standard - GovS 007: Security* state:
+*Government Functional Standard - GovS 007: Security* replaces the HMG Security Policy Framework (SPF) last published in May 2018. It also incorporates the *Minimum Cyber Security Standard (MCSS)* which defines the minimum security measures that Departments shall implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategyobligations.
+
+Sections 6.12 Cyber security and 6.13 Technical security of the standard state:
 
 > - The security of information and data is essential to good government and public confidence. To operate effectively, HMG needs to maintain the confidentiality, integrity and availability of its information, systems and infrastructure, and the services it provides. Any organisation that handles government information shall meet the standards expected of HM Government.
 > - Technical security relates to the protection of security systems from compromise and/or external interference that may have occurred as a result of an attack.
 
 Guidelines how this can be achieved are detailed in the standard, which can be found here.
+
+## Standard
+
+[](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/GovS 007 Thumbnail.png) Government Functional Standard - GovS 007: Security
 
 ## Taxonomy
 
