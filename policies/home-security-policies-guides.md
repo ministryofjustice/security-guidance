@@ -13,7 +13,7 @@ Guidelines how this can be achieved are detailed in the standard, which can be f
 
 ## Standard
 
-[](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/GovS 007 Thumbnail.png) Government Functional Standard - GovS 007: Security
+![](https://github.com/ministryofjustice/security-guidance/blob/Local/images/GovS_007_Thumbnail.png) Government Functional Standard - GovS 007: Security
 
 ## Taxonomy
 
