@@ -11,7 +11,7 @@ Sections 6.12 Cyber security and 6.13 Technical security of the standard state:
 
 ## Taxonomy
 
-MoJ's has developed their cyber and technical security taxonomy as follows:
+MoJ has developed their cyber and technical security taxonomy as follows:
 
 | Level 1 | Level 2 | Documents |
 | --- | --- | --- |
