@@ -11,7 +11,21 @@ Sections 6.12 Cyber security and 6.13 Technical security of the standard state:
 
 ## Taxonomy
 
-Documents have been developed to support the MoJ's taxonomy of cyber and technical security, and are listed below together with their suggested target audiences.
+MoJ's has developed their cyber and technical security taxonomy as follows:
+
+| Level 1 | Level 2 | Documents |
+| --- | --- | --- | --- |
+| Cyber | Access Control | ... |
+| | Asset Management | ... |
+| | Cryptography | ... |
+| | Operational Security | ... |
+| Technical | Data and Information | ... |
+| | Incident Management | ... |
+| | Software Development | ... |
+
+Documents have been developed and defined within this taxonomy, and are listed in the next section together with their suggested target audiences.
+
+## Document List
 
 | Level 1 | Level 2 | Documents | Target Audience |
 | --- | --- | --- | --- |
@@ -55,6 +69,10 @@ Documents have been developed to support the MoJ's taxonomy of cyber and technic
 | | | Information Classification Handling and Security Guide | |
 | | Incident Management |
 | | Software Development |
+
+## Other Guidance
+
+There are other cyber and technical security guidance documents available to reference. A large number of these documents are available in the [IT and Computer Security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/) repository on the MoJ Intranet, but these documents are currently being reviewed and progressively are being incorporated into the main [Security Guidance](https://ministryofjustice.github.io/security-guidance/#moj-security--guidance) repository as detailed above.
 
 ## References
 
