@@ -14,7 +14,7 @@ Sections 6.12 Cyber security and 6.13 Technical security of the standard state:
 MoJ's has developed their cyber and technical security taxonomy as follows:
 
 | Level 1 | Level 2 | Documents |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | Cyber | Access Control | ... |
 | | Asset Management | ... |
 | | Cryptography | ... |
