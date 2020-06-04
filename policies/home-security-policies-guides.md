@@ -2,7 +2,7 @@
 
 ## Background
 
-*Government Functional Standard - GovS 007: Security* replaces the HMG Security Policy Framework (SPF) last published in May 2018. It also incorporates the *Minimum Cyber Security Standard (MCSS)* which defines the minimum security measures that Departments shall implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategyobligations.
+*Government Functional Standard - GovS 007: Security* replaces the HMG Security Policy Framework (SPF) last published in May 2018. It also incorporates the *Minimum Cyber Security Standard (MCSS)* which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.
 
 Sections 6.12 Cyber security and 6.13 Technical security of the standard state:
 
