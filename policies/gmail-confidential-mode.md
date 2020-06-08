@@ -4,6 +4,8 @@ Owner: CISO
 Target audience:
 ---
 
+[Home > Cyber and Technical Security](home-security-policies-guides.md)
+
 # Using GMail's Confidential Mode
 
 ## What is Confidential Mode?
