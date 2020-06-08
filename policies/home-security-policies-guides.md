@@ -82,4 +82,4 @@ This library documents the security decisions that the MoJ has made for the prod
 
 ## References
 
-![](images/GovS_007_Thumbnail.png)[Government Functional Standard - GovS 007: Security]
+![Government Functional Standard - GovS 007: Security](images/GovS_007_Thumbnail.png)
