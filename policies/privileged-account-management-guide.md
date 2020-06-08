@@ -1,7 +1,8 @@
 ---
 Review: 2020-12-31
 Owner: CISO
-Target audience:
+Target audience: DevOps, Technical Architects, Incident Managers, IT Service Managers, Software
+Developers
 ---
 
 [Home > Cyber and Technical Security](home-security-policies-guides.md)
@@ -11,7 +12,7 @@ Target audience:
 ## Introduction
 
 This guide explains how to manage privileged accounts in order to minimise the security risks
-associated with their use. This is a sub-page to the Access Control Guide.
+associated with their use. This is a sub-page to the [Access Control Guide](access-control-guide.md).
 
 ## How to manage privileged accounts
 
@@ -34,15 +35,15 @@ number of administrators that there is not a single point of failure due to abse
 administrators leaving the MoJ. This should be enforced through the principle of least privilege. |
 | ✔ Ensure that Multi Factor Authentication (MFA) is used where possible, such as where
 administrative consoles provide access to manage cloud based infrastructure, platforms or services.
-MFA should also be used to access enterprise level social media accounts. See the Multi-Factor
-Authentication Guide for details of preferred MFA types. Where MFA cannot be used on a system,
+MFA should also be used to access enterprise level social media accounts. See the [Multi-Factor
+Authentication Guide](multi-Factor-authentication-mfa-guide.md) for details of preferred MFA types. Where MFA cannot be used on a system,
 this is considered an exception and should be logged in the risk register. |
 | ✔ Ensure that MFA is mandated for a privileged user to conduct important or privileged actions
 such as changing fundamental configurations including changing registered email addresses or
 adding another administrator. |
 | ✔ Ensure that MFA is used as a validation step, to confirm actions requested by users, such as a
 MFA re-prompt when attempting to delete or modify data. |
-| ✔ Ensure that default passwords are managed as described in the Password Management Guide. |
+| ✔ Ensure that default passwords are managed as described in the [Password Management Guide](password-management-guide.md). |
 | ✔ Ensure that when you access a system you suspect is compromised, use Powershell or similar
 access to prevent privileged user credentials from being revealed to an intruder. |
 
@@ -59,7 +60,7 @@ Senior Civil Servant (SCS). Further advice must be sought from the MoJ Cyber Ass
 guide is for DevOps, Technical Architects, Incident Managers, IT Service Managers and Software
 Developers. |
 
-Further details of privileged user responsibilities can be found in the Privileged User Guide.
+Further details of privileged user responsibilities can be found in the [Privileged User Guide](privileged-user-guide.md).
 
 ## Contact details
 
