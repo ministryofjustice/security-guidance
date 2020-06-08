@@ -4,13 +4,13 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..))
 
 # Privileged User Logging and Protective Monitoring Guide
 
 ## Introduction
 
-This guide outlines the security procedures and advice that privileged users must consider when undertaking logging activities. Maintaining and monitoring system logs will help to ensure that suspicious activity on the MoJ's systems is detected early. This guide is a sub-page to the Privileged User Guide.
+This guide outlines the security procedures and advice that privileged users must consider when undertaking logging activities. Maintaining and monitoring system logs will help to ensure that suspicious activity on the MoJ's systems is detected early. This guide is a sub-page to the [Privileged User Guide](../privileged-user-guide/).
 
 ## Maintenance of system logs and protective monitoring
 
@@ -42,7 +42,7 @@ Privileged users are responsible for maintaining system logs (syslogs) for the s
 
  - Managing long-term storage of system log data, monitoring log rotation, and the archival and deletion of log data.
 
- - Any suspicious activity must be reported to the Technology Service Desk (contact details below) who may escalate it to the OST.  
+ - Any suspicious activity must be reported to the Technology Service Desk (contact details below) who may escalate it to the OST.
 
 ## Protection of log data
 
