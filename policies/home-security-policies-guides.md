@@ -82,4 +82,4 @@ This library documents the security decisions that the MoJ has made for the prod
 
 ## References
 
-![](https://github.com/ministryofjustice/security-guidance/blob/Local/images/GovS_007_Thumbnail.png) Government Functional Standard - GovS 007: Security
+(GovS_007_Thumbnail.png)[Government Functional Standard - GovS 007: Security]
