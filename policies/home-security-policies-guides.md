@@ -29,7 +29,7 @@ Documents have been developed and defined within this taxonomy, and are listed i
 
 | Level 1 | Level 2 | Documents | Target Audience |
 | --- | --- | --- | --- |
-| Cyber | Access Control | [Access Control Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/access-control-guide.md) | Technical Architect, DevOps, IT Service Manager, Software Developer |
+| Cyber | Access Control | [Access Control Guide](/access-control-guide.md) | Technical Architect, DevOps, IT Service Manager, Software Developer |
 | | | JML process | |
 | | | [Managing User Access Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/managing-user-access-guide.md) |  |
 | | | [Minimum User Clearance Levels Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/minimum-user-clearance-requirements-guide.md) | |
