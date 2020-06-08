@@ -4,14 +4,15 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..)
 
 # Patch Management Guide
 
 ## Introduction
-This guide explains the patching requirements for the MoJ’s systems once a vulnerability has been identified. This guide is a sub-page to the Vulnerability Scanning and Patch Management Guide.
 
-Patching of MoJ systems and equipment
+This guide explains the patching requirements for the MoJ's systems once a vulnerability has been identified. This guide is a sub-page to the [Vulnerability Scanning and Patch Management Guide](../vulnerability-scanning-and-patch-management-guide/).
+
+### Patching of MoJ systems and equipment
 
 The patching guide must be followed for all asset types including, but not limited to:
 
@@ -24,7 +25,7 @@ The patching guide must be followed for all asset types including, but not limit
 ## Internet facing websites
 
 If you are developing or running any websites or services that are publically accessible through the open internet, you must patch any vulnerabilities and common configuration errors identified
-either through the MoJ’s Web Check Account (see the Vulnerability Scanning Guide for details) or by any other means. You need to ensure that any vulnerabilities identified are remediated according to Service Level Agreements (SLAs) in this guide below.
+either through the MoJ's Web Check Account (see the [Vulnerability Scanning Guide](../vulnerability-scanning-guide/) for details) or by any other means. You need to ensure that any vulnerabilities identified are remediated according to Service Level Agreements (SLAs) in this guide below.
 
 ## End user clients
 
@@ -45,14 +46,14 @@ If you are developing a new digital service, you are responsible for ensuring th
 * Sufficient logs must be provided by the new or updated service so that security problems can be tracked from identification through to rectification.
 * The patching process must also describe how to triage and action any problems. Please see the Software Development Lifecycle Guide for further details.
 
-Applications
+### Applications
 
 If you develop or run applications hosted on MoJ servers, external servers or cloud platforms, you must ensure they are scanned and patched according to the SLAs in this guide. Applications include both traditional applications (tools) and services.
 
-* Applications that are no longer licensed or whose vendors do not provide ongoing support should be reviewed and possibly removed. Please see the Patching Exemptions section below for further information.
+* Applications that are no longer licensed or whose vendors do not provide ongoing support should be reviewed and possibly removed. Please see the [Patching Exemptions](#patching-exemptions) section below for further information.
 
 Applications should be access-controlled to help prevent exploitation of any vulnerabilities. The level of access control must be matched to the level of risk to the service provided. For example, a
-finance server might have stronger access control than an email server. See the Access Control Guide for further information.
+finance server might have stronger access control than an email server. See the [Access Control Guide](../access-control-guide/) for further information.
 
 ## Patching schedule Service Level Agreement
 
@@ -62,7 +63,7 @@ The following Patching Schedule SLA defines the indicative severity ratings and 
 * Where the rating is Medium (2) or lower, the patch can be deferred to the next scheduled maintenance/patching activity.
 * For ratings of High Risk (3) or Critical (4), the Risk Advisor Team must evaluate the probability and impact, and use this to guide a 'tolerance' period, at the end of which a patch must be applied.
 * Patches and updates for security related devices must be treated as High Risk and implemented in accordance with this rating.
-* This is considered a baseline and some systems may require different patching schedules which will be identified in the system’s Information Risk Assessment Report (IRAR).
+* This is considered a baseline and some systems may require different patching schedules which will be identified in the system's Information Risk Assessment Report (IRAR).
 
 ### Patching SLA
 
@@ -78,7 +79,7 @@ The following Patching Schedule SLA defines the indicative severity ratings and 
 
 There are two patching and change management approaches in the MoJ:
 
-1. Infrastructure and services provided by a Managed Service Provider (MSP)
+### 1. Infrastructure and services provided by a Managed Service Provider (MSP)
 
 Where services and infrastructure are provided by MSPs, the vendor is normally responsible for developing and implementing patches to identified vulnerabilities. Patches or a workaround must be provided by vendors to ensure the MoJ is able to meet the SLAs for implementing patches. If this is not possible, vendors must provide an indication that the patch/workaround cannot be made available within the timescale mandated for addressing the vulnerability. This must be escalated to the Risk Advisor team for acceptance, transfer, mitigation or avoidance.
 
@@ -86,7 +87,7 @@ Any patches to be deployed must go through the approval process, outlined in the
 
 GRAPHIC
 
-2. Services and applications developed by MoJ in-house project teams
+### 2. Services and applications developed by MoJ in-house project teams
 
 Where services and applications are developed by the MoJ in-house project teams, patching and change management is managed on a project by project basis. Changes are identified through research and scanning which identifies operating and security issues. A ticket will be created detailing the change required and the project manager will determine how and when to implement the change based on the security risk rating. The patch review and approval is undertaken within the project team.
 
@@ -96,7 +97,7 @@ Patches must be implemented according to the SLAs in this guide. If this is not 
 
 ## Removal of equipment
 
-The removal of any IT equipment or software, must be managed as part of the MoJ’s change process outlined above in the Patch Management Process section. Before the removal of any IT equipment, a Business Impact Assessment must be conducted and the business process owner consulted. The removal of IT equipment may fall under the emergency and major change process.
+The removal of any IT equipment or software, must be managed as part of the MoJ's change process outlined above in the Patch Management Process section. Before the removal of any IT equipment, a Business Impact Assessment must be conducted and the business process owner consulted. The removal of IT equipment may fall under the emergency and major change process.
 
 ## Patching exemptions
 

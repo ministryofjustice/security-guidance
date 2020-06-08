@@ -4,7 +4,7 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..)
 
 # General User Video and Messaging Apps Guidance
 
@@ -16,11 +16,11 @@ This guidance applies to all staff and contractors who work for the MOJ.
 
 Some ALBs, Agencies, or other large groups within the MOJ might have their own, specific guidance regarding how to use certain Video and Messaging apps for different purposes.
 
-### OFFICIAL and OFFICIAL-SENSITIVE Information
+### `OFFICIAL` and `OFFICIAL-SENSITIVE` Information
 
-‘OFFICIAL’ information is the majority of information that is created or processed by the public sector. This includes routine business operations and services, some of which could have damaging consequences if lost, stolen or published in the media, but are not subject to a heightened threat profile.
+`OFFICIAL` information is the majority of information that is created or processed by the public sector. This includes routine business operations and services, some of which could have damaging consequences if lost, stolen or published in the media, but are not subject to a heightened threat profile.
 
-‘OFFICIAL-SENSITIVE’ is not a classification. ‘Sensitive’ is a handling caveat for a small subset of information marked OFFICIAL that requires special handling by staff. You should apply the handling caveat where you wish to control access to that information, whether in a document, email etc.
+`OFFICIAL-SENSITIVE` is not a classification. 'SENSITIVE' is a handling caveat for a small subset of information marked `OFFICIAL` that requires special handling by staff. You should apply the handling caveat where you wish to advise how to look after access to that information, whether in a document, email etc.
 
 ### Access to tools
 
@@ -80,7 +80,7 @@ The bottom line is: *"if there is doubt, there is no doubt - ask for help!".*
 
 Some tools, such as Facebook, Instagram and LinkedIn, are approved for specific corporate accounts to use, for corporate communications messages. General use of these tools for work purposes is not permitted.
 
-If you wish to use a tool that is not listed above, please consult our [Guidance for using Open Internet Tools (to access this guide you'll need to be connected to the MOJ Intranet)](https://ministryofjustice.github.io/security-guidance/policies/guidance-for-using-open-internet-tools /#guidance-for-using-open-internet-tools) and [speak to us for help](mailto:security@justice.gov.uk).
+If you wish to use a tool that is not listed above, please consult our [Guidance for using Open Internet Tools](../guidance-for-using-open-internet-tools/) and [speak to us for help](mailto:security@justice.gov.uk).
 
 ## Government policy and guidance
 
@@ -94,7 +94,7 @@ If you wish to use a tool that is not listed above, please consult our [Guidance
 
 ## Requesting that a tool be approved for use
 
-Refer to the [Guidance for using Open Internet Tools (to access this guide you'll need to be connected to the MOJ Intranet)](https://ministryofjustice.github.io/security-guidance/policies/guidance-for-using-open-internet-tools /#guidance-for-using-open-internet-tools) for the process to follow when wanting to add a new tool to the list.
+Refer to the [Guidance for using Open Internet Tools](../guidance-for-using-open-internet-tools/) for the process to follow when wanting to add a new tool to the list.
 
 ---
 
