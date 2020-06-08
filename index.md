@@ -38,28 +38,29 @@ Documents have been developed and defined within this taxonomy, and are listed i
 
 | Level 1 | Level 2 | Documents | Target Audience |
 | --- | --- | --- | --- |
-| Cyber | Access Control | [Access Control Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/access-control-guide.md) | Technical Architect, DevOps, IT Service Manager, Software Developer |
+| Cyber | Access Control | [Access Control Guide](./policies/access-control-guide/) | Technical Architect, DevOps, IT Service Manager, Software Developer |
 | | | JML process | |
-| | | [Managing User Access Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/managing-user-access-guide.md) |  |
-| | | [Minimum User Clearance Levels Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/minimum-user-clearance-requirements-guide.md) | |
-| | | [Multi-Factor Authentication](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/multi-Factor-authentication-mfa-guide.md) | |
-| | | [Multi-user Accounts and Public-Facing Service Accounts Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/multi-user-accounts-and-public-facing-service-accounts-guide.md) | |
-| | | [Password Changes, Account Locks and Disabling Accounts Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/password-changes-account-locks-and-disabling-accounts-guide.md) | |
-| | | [Password Creation and Authentication Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/password-creation-and-authentication-guide.md) | |
-| | | [Password Management Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/password-management-guide.md) | |
-| | | [Password Storage and Management Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/password-storage-and-management-guide.md) | |
-| | | [Privileged Account Management Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/privileged-account-management-guide.md) | |
-| | | [Privileged User Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/privileged-user-guide.md) | |
-| | | [Privileged User Guide - Backups Removable Media and Incident Management Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/privileged-user-backups-removable-media-and-incident-management-guide.md) | |
-| | | [Privileged User Guide - Configuration Patching and Change](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/privileged-user-configuration-patching-and-change-management-guide.md) | |
-| | | [Privileged User Guide - Logging Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/privileged-user-logging-and-protective-monitoring-guide.md) |
+| | | [Managing User Access Guide](./policies/managing-user-access-guide/) |  |
+| | | [Minimum User Clearance Levels Guide](./policies/minimum-user-clearance-requirements-guide/) | |
+| | | [Multi-Factor Authentication](./policies/multi-Factor-authentication-mfa-guide/) | |
+| | | [Multi-user Accounts and Public-Facing Service Accounts Guide](./policies/multi-user-accounts-and-public-facing-service-accounts-guide/) | |
+| | | [Password Changes, Account Locks and Disabling Accounts Guide](./policies/password-changes-account-locks-and-disabling-accounts-guide/) | |
+| | | [Password Creation and Authentication Guide](./policies/password-creation-and-authentication-guide/) | |
+| | | [Password Management Guide](./policies/password-management-guide/) | |
+| | | [Password Storage and Management Guide](./policies/password-storage-and-management-guide/) | |
+| | | [Privileged Account Management Guide](./policies/privileged-account-management-guide/) | |
+| | | [Privileged User Guide](./policies/privileged-user-guide/) | |
+| | | [Privileged User Guide - Backups Removable Media and Incident Management Guide](./policies/privileged-user-backups-removable-media-and-incident-management-guide/) | |
+| | | [Privileged User Guide - Configuration, Patching and Change Management](./policies/privileged-user-configuration-patching-and-change-management-guide/) | |
+| | | [Privileged User Guide - Logging and Protective Monitoring Guide](./policies/privileged-user-logging-and-protective-monitoring-guide/) |
 | | Asset Management | Accessing MoJ Systems from Abroad | |
-| | | General User Video and Messaging Apps Guidance | |
-| | | Patch Management Guide | |
-| | | Remote Working | |
+| | | [General User Video and Messaging Apps Guidance](./policies/general-user-video-and-messaging-apps-guidance/) | |
+| | | [Video and Voice Conferencing Best Practice](./policies/video-and-voice-conferencing-best-practice/) | |
+| | | [Patch Management Guide](./policies/patch-management-guide/) | |
+| | | [Remote Working](./policies/remote-working/) | |
 | | | Taking IT Equipment Abroad | |
-| | | Vulnerability Scanning and Patch Management Guide | |
-| | | Vulnerability Scanning Guide | |
+| | | [Vulnerability Scanning and Patch Management Guide](./policies/vulnerability-scanning-and-patch-management-guide/) | |
+| | | [Vulnerability Scanning Guide](./policies/vulnerability-scanning-guide/) | |
 | | Cryptography |
 | | Operational Security | [Email Authentication Guide](./policies/email-authentication-guide/) | |
 | | | [Email Security Policy](./policies/email-security-policy/) | MoJ Digital and Technology staff implementing controls throughout technical design, development, system integration and operation. Incident Managers. Any other party designing, developing or supplying services for the MoJ |
@@ -68,24 +69,27 @@ Documents have been developed and defined within this taxonomy, and are listed i
 | | | [Malware Protection Guide: Defensive Layer 1](./policies/malware-protection-guidance-defensive-layer-1) | |
 | | | [Malware Protection Guide: Defensive Layer 2](./policies/malware-protection-guidance-defensive-layer-2) | |
 | | | [Malware Protection Guide: Defensive Layer 3](./policies/malware-protection-guidance-defensive-layer-3) | |
-| | | Secure Email Transfer Guide | |
-| | | Spam and Phishing Guide | |
-| | | Technical Controls Guide Introductory Page | |
-| | | Technical Controls Guide - Layer 1 | |
-| | | Technical Controls Guide - Layer 2 | |
-| | | Technical Controls Guide - Layer 3 | |
+| | | [Secure Email Transfer Guide](./policies/secure-email.transfer-guide/) | |
+| | | [Spam and Phishing Guide](./policies/spam-and-phishing-guide/) | |
+| | | [Technical Controls Guide (Overview)](./policies/technical-security-controls-guide/) | |
+| | | [Technical Controls Guide - Layer 1](./policies/technical-security-controls-guide-defensive-layer-1/) | |
+| | | [Technical Controls Guide - Layer 2](./policies/technical-security-controls-guide-defensive-layer-2/) | |
+| | | [Technical Controls Guide - Layer 3](./policies/technical-security-controls-guide-defensive-layer-3/) | |
 | Technical | Principles | [Data Security & Privacy](./security_decisions/principles/data-security-and-privacy/) | |
 | | | [IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](./security_decisions/principles/identify-protect-detect-respond-recover/) | |
 | | | [Maintained by Default](./security_decisions/principles/maintained-by-default/) | |
 | | | [Secure by Default](./security_decisions/principles/secure-by-default/) | |
 | | | [Security Log Collection](./security_decisions/principles/security-log-collection/) | |
 | | | [Shared Responsibility Models](./security_decisions/principles/shared-responsibility-models/) | |
-| | Data and Information | Information Security Policy | |
-| | | Information Classification Handling and Security Guide | |
+| | Data and Information | [Information and Data Security Policy](./policies/information-and-data-security-policy/) | |
+| | | [Information Classification Handling and Security Guide](./policies/information-classification-handling-and-security-guide/) | |
 | | Incident Management |
 | | Software Development |
 
 ## Other Guidance
+
+- [Guidance for using Open Internet Tools](./policies/guidance-for-using-open-internet-tools/)
+- [Using GMail’s Confidential Mode](./policies/gmail-confidential-mode/)
 
 ### Intranet
 
@@ -101,60 +105,6 @@ This library documents the security decisions that the MoJ has made for the prod
 
 ====
 
-
-## Policies
-
-{% assign policies = site.pages
-  | where: "policy", true
-  | group_by: "category" %}
-
-{% for policy_group in policies %}
-{% if policy_group.name != "" %}
-### {{ policy_group.name }}
-{% else %}
-### General policies
-{% endif %}
-
-{% for policy in policy_group.items %}
-- [{{ policy.title }}]({{ policy.url | relative_url }})
-{% endfor %}
-{% endfor %}
-
-## Standards
-
-{% assign standards = site.pages
-  | where: "standard", true
-  | group_by: "category" %}
-
-{% for standard_group in standards %}
-{% if standard_group.name != "" %}
-### {{ standard_group.name }}
-{% else %}
-### General standards
-{% endif %}
-
-{% for standard in standard_group.items %}
-- [{{ standard.title }}]({{ standard.url | relative_url }})
-{% endfor %}
-{% endfor %}
-
-## Guides
-
-{% assign guides = site.pages
-  | where: "guide", true
-  | group_by: "category" %}
-
-{% for guide_group in guides %}
-{% if guide_group.name != "" %}
-### {{ guide_group.name }}
-{% else %}
-### General guides
-{% endif %}
-
-{% for guide in guide_group.items %}
-- [{{ guide.title }}]({{ guide.url | relative_url }})
-{% endfor %}
-{% endfor %}
 
 ## Suppliers to MOJ
 
