@@ -4,7 +4,7 @@ Owner: CISO
 Target audience: Technical Architects, DevOps, Service Owners, Software Developers
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..)
 
 # Access Control guide
 
@@ -51,7 +51,7 @@ Effective access control should be implemented by following these four principle
 
 Systems holding sensitive information or systems that are mission critical to the MoJ must use Multi-Factor Authentication (MFA) to prove user identity. See the Multi-Factor Authentication Guide and Password Management Guide for further information. If you wish to use a federated identity, you should review the National Cyber Security Center’s (NCSC) guidance and contact the Cyber Assistance Team. For information on authentication methods including OAuth, refer to the Managing User Access guide.
 
-3. **Authorisation:** Authorisation is the function of specifying access rights/privileges and resources to users, which should be granted in line with the principle of least privilege. Reducing access privileges reduces the “attack surface” of IT systems. This helps to prevent malware and hackers from moving laterally across the network if they compromise a user account.
+3. **Authorisation:** Authorisation is the function of specifying access rights/privileges and resources to users, which should be granted in line with the principle of least privilege. Reducing access privileges reduces the "attack surface" of IT systems. This helps to prevent malware and hackers from moving laterally across the network if they compromise a user account.
 
 4. **Accounting:** Successful and unsuccessful attempts to access systems, and user activities conducted while using systems must be recorded in logs. Please see the Security Log Collection Guide for more information. This will help to attribute security events or suspicious activities to users who can be supported to improve their behaviours or held accountable for their actions.
 
@@ -61,10 +61,10 @@ Consider the following when creating activity logs:
 - Logs should be backed up so that they are not lost if there is a system unavailability.
 - Logs can include sensitive data (such as personal information) and should be managed accordingly. Contact the Data Privacy Team for advice on protecting sensitive personal information - [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk).
 - Log files should be stored for a minimum of 6 months.
-- Log data should not be retained for longer than 2 years unless otherwise stipulated. Retention rules may vary on a case by case basis so should be checked with the Data Privacy Team, the Cyber Assistance team, and the MoJ Data Protection Officer if it involves personal information. See the Accounting Guide for further information.
+- Log data should not be retained for longer than 2 years unless otherwise stipulated. Retention rules may vary on a case by case basis so should be checked with the Data Privacy Team, the Cyber Assistance team, and the MoJ Data Protection Officer if it involves personal information. See the [Accounting Guide](../../security_decisions/standards/accounting/) for further information.
 - Log files should not be tampered with, for example through modification or removal, under any circumstance.
 
-See the Security Log Collection guide for more information.
+See the [Security Log Collection Guide](../../security_decisions/principles/security-log-collection/) for more information.
 
 ## Segregation of duties
 

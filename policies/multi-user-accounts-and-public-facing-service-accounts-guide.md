@@ -4,7 +4,7 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..)
 
 # Multi-user accounts and Public-Facing Service Accounts Guide
 
@@ -37,7 +37,7 @@ Technical users should ensure that front-end users who access the MoJ’s public
 
  - not be changed as a result of regular password expiry
 
- - use Two Factor Authentication (Password Creation and Authentication Guide provides further advice)
+ - use Two Factor Authentication (the [Password Creation and Authentication Guide](../password-creation-and-authentication-guide/) provides further advice)
 
  - be changed when required - e.g. after a system compromise is identified or if the limit of unsuccessful password attempts is reached and the account is locked
 

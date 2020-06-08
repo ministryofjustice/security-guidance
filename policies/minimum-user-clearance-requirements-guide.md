@@ -4,7 +4,7 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..)
 
 # Minimum User Clearance Requirements Guide
 

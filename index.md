@@ -86,6 +86,28 @@ Documents have been developed and defined within this taxonomy, and are listed i
 | | Incident Management |
 | | Software Development |
 
+## Suppliers to MOJ
+
+- [Assessing Suppliers](./security_decisions/suppliers/assessing-suppliers/)
+- [Contracts](./security_decisions/suppliers/contracts/)
+- Data Destruction
+  - [Data Destruction Instruction and Confirmation Letter](./security_decisions/suppliers/data-destruction-instruction-and-confirmation-letter/)
+  - [Data Destruction Contract Clauses - Definitions](./security_decisions/suppliers/data-destruction-contract-clauses-definitions/)
+  - [Data Destruction Contract Clauses - Short Format](./security_decisions/suppliers/data-destruction-contract-clauses-short-format/)
+  - [Data Destruction Contract Clauses - Long Format](./security_decisions/suppliers/data-destruction-contract-clauses-long-format/)
+  - [Data Destruction Contract Clauses - Long Format (Appendix)](./security_decisions/suppliers/data-destruction-contract-clauses-long-format-appendix/)
+- [Security Aspect Letters](./security_decisions/suppliers/security-aspect-letters/)
+- [Supplier Corporate IT](./security_decisions/suppliers/supplier-corporate-it/)
+
+## Mythbusting
+
+- [CJSM](./security_decisions/mythbusting/cjsm/)
+- [Data Sovereignty](./security_decisions/mythbusting/data-sovereignty/)
+- [Internet v. PSN](./security_decisions/mythbusting/internet-v-psn/)
+- [IP DNS Diagram Handling](./security_decisions/mythbusting/ip-dns-diagram-handling/)
+- [Multiple Back-to-back Consecutive Firewalls](./security_decisions/mythbusting/multiple-consecutive-back-to-back-firewalls/)
+- [`OFFICIAL` and `OFFICIAL-SENSITIVE`](./security_decisions/mythbusting/official-official-sensitive/)
+
 ## Other Guidance
 
 - [Guidance for using Open Internet Tools](./policies/guidance-for-using-open-internet-tools/)
@@ -103,61 +125,18 @@ This library documents the security decisions that the MoJ has made for the prod
 
 ![](https://github.com/ministryofjustice/security-guidance/blob/Local/images/GovS_007_Thumbnail.png) Government Functional Standard - GovS 007: Security
 
-====
-
-
-## Suppliers to MOJ
-
-{% assign suppliers = site.pages
-  | where: "supplier", true
-  | group_by: "category" %}
-
-{% for supplier_group in suppliers %}
-{% if supplier_group.name != "" %}
-### {{ supplier_group.name }}
-{% else %}
-### General notes to suppliers
-{% endif %}
-
-{% for supplier in supplier_group.items %}
-- [{{ supplier.title }}]({{ supplier.url | relative_url }})
-{% endfor %}
-{% endfor %}
-
-## Mythbusting
-
-{% assign mythbustings = site.pages
-  | where: "mythbusting", true
-  | group_by: "category" %}
-
-{% for myth_group in mythbustings %}
-{% if myth_group.name != "" %}
-### {{ myth_group.name }}
-{% endif %}
-
-{% for myth in myth_group.items %}
-- [{{ myth.title }}]({{ myth.url | relative_url }})
-{% endfor %}
-{% endfor %}
-
 ## Technical Guidance
 
 The [technical guidance](https://ministryofjustice.github.io/technical-guidance/) should be read together with this security-focused guidance.
 
 ## Getting in touch
 
-{% assign contacts = site.pages
-  | where: "contact", true
-  | group_by: "category" %}
+### Contact information
 
-{% for contact_group in contacts %}
-{% if contact_group.name != "" %}
-### {{ contact_group.name }}
-{% else %}
-### General information
-{% endif %}
+- [Email](./contact/email/)
+- [Reporting an incident](./contact/reporting-an-incident/)
 
-{% for contact in contact_group.items %}
-- [{{ contact.title }}]({{ contact.url | relative_url }})
-{% endfor %}
-{% endfor %}
+### Vulnerability Disclosure
+
+- [Vulnerability Disclosure Policy](./contact/vulnerability-disclosure-policy)
+- [Implementing `security.txt`](./contact/implement-security-txt)

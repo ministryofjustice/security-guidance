@@ -1,8 +1,7 @@
 ---
 Review: 2020-12-31
 Owner: CISO
-Target audience: DevOps, Technical Architects, Incident Managers, IT Service Managers, Software
-Developers
+Target audience: DevOps, Technical Architects, Incident Managers, IT Service Managers, Software Developers
 ---
 
 [Home > Cyber and Technical Security](home-security-policies-guides.md)
