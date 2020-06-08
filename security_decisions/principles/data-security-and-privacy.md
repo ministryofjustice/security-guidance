@@ -43,7 +43,7 @@ All our work must follow this ethos.
 
 This principle applies to **all** technology projects.
 
-While GDPR applies only to personal information, all MOJ projects must have excellent data security and privacy properties. If they handle personal data, they must do so correctly. Projects must follow MOJ guidelines unless exceptional and approved circumstances apply. 
+While GDPR applies only to personal information, all MOJ projects must have excellent data security and privacy properties. If they handle personal data, they must do so correctly. Projects must follow MOJ guidelines unless exceptional and approved circumstances apply.
 
 You can design your product to handle personal information correctly. There are a small number of extra steps you will have to take. Remember that personal data includes anything which might identify an individual. Even online identifiers, such as cookies, are personal data.
 
