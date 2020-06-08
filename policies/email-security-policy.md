@@ -1,7 +1,8 @@
 ---
-Expires: 2020-12-31
+Review: 2020-12-31
+Owner: CISO
+Target audience:
 ---
-
 
 # Email Security Guide
 
@@ -21,7 +22,7 @@ Further guidance on email security at the MoJ can be found in the guides below.
 
 **Secure Email Transfer Guide** - provides guidance on the security tools you can use to securely transfer information via email.
 
-**Email Authentication Guide** - provides guidance on the authentication mechanisms that should be used at the domain layer to maintain security. 
+**Email Authentication Guide** - provides guidance on the authentication mechanisms that should be used at the domain layer to maintain security.
 
 ## Roles and responsibilities  
 All **technical users** are responsible for maintaining and using the MoJ's email communications securely in line with the requirements set out in this guide.

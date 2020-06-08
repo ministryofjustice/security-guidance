@@ -1,5 +1,7 @@
 ---
-Expires: 2020-12-31
+Review: 2020-12-31
+Owner: CISO
+Target audience:
 ---
 
 # Privileged User Configuration, Patching and Change Management Guide

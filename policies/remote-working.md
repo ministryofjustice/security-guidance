@@ -1,7 +1,10 @@
 ---
-expires: 2020-12-31
+Review: 2020-12-31
+Owner: CISO
+Target audience: All Staff
 ---
-# Remote Working 
+
+# Remote Working
 
 ## Key points
 
@@ -15,7 +18,7 @@ expires: 2020-12-31
 
 ## Overview
 
-The Remote Working Guide gives you advice and guidance on the main security issues that are likely to affect you as a remote worker or a user of mobile computing facilities, (e.g. desktop/laptop computer, smart phones, etc), within the Ministry of Justice (MOJ), including its Agencies and Associated Offices. It also sets out your individual responsibilities for IT security when working remotely. 
+The Remote Working Guide gives you advice and guidance on the main security issues that are likely to affect you as a remote worker or a user of mobile computing facilities, (e.g. desktop/laptop computer, smart phones, etc), within the Ministry of Justice (MOJ), including its Agencies and Associated Offices. It also sets out your individual responsibilities for IT security when working remotely.
 
 ## Audience
 
@@ -23,7 +26,7 @@ This guide applies to all staff in the MOJ, its Agencies, Associated Offices and
 
 ## What is remote working?
 
-Remote working means you are working away from the office. This could be from home, at another MOJ or government office, whilst travelling, at a conference, or in a hotel. 
+Remote working means you are working away from the office. This could be from home, at another MOJ or government office, whilst travelling, at a conference, or in a hotel.
 
 ## Protecting your workspace and equipment
 
@@ -99,7 +102,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 - Slack: `#digitalservicedesk`
 
 **HMPPS Information & security:**
-- Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk) 
+- Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
 - Tel: 0203 334 0324
 
 <!--

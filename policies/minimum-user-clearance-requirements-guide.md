@@ -1,6 +1,9 @@
 ---
-expires: 2020-12-31
+Review: 2020-12-31
+Owner: CISO
+Target audience:
 ---
+
 # Minimum User Clearance Requirements Guide
 
 ## Introduction

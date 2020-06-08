@@ -4,7 +4,7 @@ Owner: CISO
 Target audience: Technical Architect, DevOps, IT Service Manager, Software Developer
 ---
 
-[Home > Cyber and Technical Security](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/home-security-policies-guides.md)
+[Home > Cyber and Technical Security](home-security-policies-guides.md)
 
 # Access Control guide
 
@@ -23,11 +23,11 @@ This guide is aimed at two audiences:
 
 Further guidance on how to manage user access can be found in the guides below.
 
-- Privileged Accounts.
-- Management Access.
+- [Privileged Accounts](privileged-account-management-guide.md).
+- [Management Access](managing-user-access-guide.md).
 - Joiners, Movers, Leavers Process.
-- Minimum User Clearance Requirements.
-- Multi-Factor Authentication (MFA).
+- [Minimum User Clearance Requirements](minimum-user-clearance-requirements-guide.md).
+- [Multi-Factor Authentication (MFA)](multi-Factor-authentication-mfa-guide.md).
 
 ## Information security principles for access control
 

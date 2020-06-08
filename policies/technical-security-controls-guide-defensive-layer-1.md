@@ -1,5 +1,7 @@
 ---
-Expires: 2020-12-31
+Review: 2020-12-31
+Owner: CISO
+Target audience:
 ---
 
 # Technical Security Controls Guide: Defensive Layer 1
