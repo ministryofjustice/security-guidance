@@ -37,7 +37,7 @@ Technical users should ensure that front-end users who access the MoJ’s public
 
  - not be changed as a result of regular password expiry
 
- - use Two Factor Authentication (the [Password Creation and Authentication Guide](../password-creation-and-authentication-guide/) provides further advice)
+ - use Two Factor Authentication (the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) provides further advice)
 
  - be changed when required - e.g. after a system compromise is identified or if the limit of unsuccessful password attempts is reached and the account is locked
 

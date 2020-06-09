@@ -10,7 +10,7 @@ Target audience:
 
 ## Introduction
 
-This guide outlines the security procedures and advice that privileged users must consider when undertaking logging activities. Maintaining and monitoring system logs will help to ensure that suspicious activity on the MoJ's systems is detected early. This guide is a sub-page to the [Privileged User Guide](../privileged-user-guide/).
+This guide outlines the security procedures and advice that privileged users must consider when undertaking logging activities. Maintaining and monitoring system logs will help to ensure that suspicious activity on the MoJ's systems is detected early. This guide is a sub-page to the [Privileged User Guide](privileged-user-guide.md).
 
 ## Maintenance of system logs and protective monitoring
 

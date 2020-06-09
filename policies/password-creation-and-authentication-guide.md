@@ -10,7 +10,7 @@ Target audience:
 
 ## Introduction
 
-This guide sets out considerations for creating passwords and authenticating users for access to MoJ systems. This includes ensuring that there are appropriate authentication methods for information, accounts and systems. This guide is a sub-page to the [Password Management Guide](../password-management-guide/).
+This guide sets out considerations for creating passwords and authenticating users for access to MoJ systems. This includes ensuring that there are appropriate authentication methods for information, accounts and systems. This guide is a sub-page to the [Password Management Guide](password-management-guide.md).
 
 ## Default passwords
 
@@ -36,7 +36,7 @@ The MoJ should implement password history management, to prevent an old password
 
 ## Multi-factor authentication and single-sign on
 
-MFA provides an additional layer of security for login and access controls. Two-Factor Authentication (2FA); Time-based One-Time Password Algorithm (TOTP); hardware and software tokens and biometric authentication are all forms of MFA approved for use within MoJ. The [Access Control Guidance](../access-control-guide/) provides further information.
+MFA provides an additional layer of security for login and access controls. Two-Factor Authentication (2FA); Time-based One-Time Password Algorithm (TOTP); hardware and software tokens and biometric authentication are all forms of MFA approved for use within MoJ. The [Access Control Guidance](access-control-guide.md) provides further information.
 
 If a service provides MFA it should be used by default. MFA must be used for all `OFFICIAL` systems when:
 

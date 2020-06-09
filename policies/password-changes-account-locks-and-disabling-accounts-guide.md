@@ -10,7 +10,7 @@ Target audience:
 
 ## Introduction
 
-This guide sets out when passwords should be changed and when user accounts will be locked. This guide is a sub-page to the [Password Management Guide](../password-management-guide/).
+This guide sets out when passwords should be changed and when user accounts will be locked. This guide is a sub-page to the [Password Management Guide](password-management-guide.md).
 
 ## Password changes and account lockouts
 
