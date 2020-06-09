@@ -47,8 +47,8 @@ Documents have been developed and defined within this taxonomy, and are listed i
 | | Asset Management | Accessing MoJ Systems from Abroad | |
 | | | [General User Video and Messaging Apps Guidance](general-user-video-and-messaging-apps-guidance.md) | |
 | | | [Patch Management Guide](patch-management-guide.md) | |
-| | | [Remote Working](remote-working.md) | |
-| | | Taking IT Equipment Abroad | |
+| | | [Remote Working](remote-working.md) | All Staff |
+| | | Taking IT Equipment Abroad | All Staff |
 | | | [Vulnerability Scanning and Patch Management Guide](vulnerability-scanning-and-patch-management-guide.md) | |
 | | | [Vulnerability Scanning Guide](vulnerability-scanning-guide.md) | |
 | | Cryptography |
