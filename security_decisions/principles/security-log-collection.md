@@ -1,6 +1,6 @@
 ---
-category: Security Monitoring
-expires: 2020-03-01
+Category: Security Monitoring
+Review: 2020-09-01
 ---
 
 # Security Log Collection

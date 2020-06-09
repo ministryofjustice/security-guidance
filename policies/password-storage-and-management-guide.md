@@ -4,13 +4,13 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](../..)
+[Home > Cyber and Technical Security](home-security-policies-guides.md)
 
 # Password Storage and Management Guide
 
 ## Introduction
 
-This guide sets out how passwords must be stored securely to prevent unauthorised access or compromise. The MoJ encourages the use of password managers to reduce the burden on users for maintaining password security. This guide is a sub-page to the [Password Management Guide](../password-management-guide/).
+This guide sets out how passwords must be stored securely to prevent unauthorised access or compromise. The MoJ encourages the use of password managers to reduce the burden on users for maintaining password security. This guide is a sub-page to the [Password Management Guide](password-management-guide.md).
 
 ## Password storage
 

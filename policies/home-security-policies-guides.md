@@ -37,36 +37,36 @@ Documents have been developed and defined within this taxonomy, and are listed i
 | | | [Multi-user Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md) | |
 | | | [Password Changes, Account Locks and Disabling Accounts Guide](password-changes-account-locks-and-disabling-accounts-guide.md) | |
 | | | [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) | |
-| | | [Password Management Guide](password-management-guide.md) | |
+| | | [Password Management Guide](password-management-guide.md) | DevOps, Software Developers, Technical Architects, Service Owners |
 | | | [Password Storage and Management Guide](password-storage-and-management-guide.md) | |
-| | | [Privileged Account Management Guide](privileged-account-management-guide.md) | |
+| | | [Privileged Account Management Guide](privileged-account-management-guide.md) | DevOps, Technical Architects, Incident Managers, IT Service Managers, Software Developers |
 | | | [Privileged User Guide](privileged-user-guide.md) | |
 | | | [Privileged User Guide - Backups Removable Media and Incident Management Guide](privileged-user-backups-removable-media-and-incident-management-guide.md) | |
 | | | [Privileged User Guide - Configuration Patching and Change](privileged-user-configuration-patching-and-change-management-guide.md) | |
-| | | [Privileged User Guide - Logging Guide](privileged-user-logging-and-protective-monitoring-guide.md) |
+| | | [Privileged User Guide - Logging Guide](privileged-user-logging-and-protective-monitoring-guide.md) | |
 | | Asset Management | Accessing MoJ Systems from Abroad | |
-| | | General User Video and Messaging Apps Guidance | |
-| | | Patch Management Guide | |
-| | | Remote Working | |
-| | | Taking IT Equipment Abroad | |
-| | | Vulnerability Scanning and Patch Management Guide | |
-| | | Vulnerability Scanning Guide | |
+| | | [General User Video and Messaging Apps Guidance](general-user-video-and-messaging-apps-guidance.md) | |
+| | | [Patch Management Guide](patch-management-guide.md) | |
+| | | [Remote Working](remote-working.md) | All Staff |
+| | | Taking IT Equipment Abroad | All Staff |
+| | | [Vulnerability Scanning and Patch Management Guide](vulnerability-scanning-and-patch-management-guide.md) | |
+| | | [Vulnerability Scanning Guide](vulnerability-scanning-guide.md) | |
 | | Cryptography |
-| | Operational Security | Email Authentication Guide | |
-| | | Email Security Policy | |
-| | | IT Security Policy | |
-| | | Malware Protection Guide (Overview) | |
-| | | Malware Protection Guide: Defensive Layer 1 | |
-| | | Malware Protection Guide: Defensive Layer 2 | |
-| | | Malware Protection Guide: Defensive Layer 3 | |
-| | | Secure Email Transfer Guide | |
-| | | Spam and Phishing Guide | |
-| | | Technical Controls Guide Introductory Page | |
-| | | Technical Controls Guide - Layer 1 | |
-| | | Technical Controls Guide - Layer 2 | |
-| | | Technical Controls Guide - Layer 3 | |
+| | Operational Security | [Email Authentication Guide](email-authentication-guide.md) | |
+| | | [Email Security Policy](email-security-policy.md) | |
+| | | [IT Security Policy](it-security-policy.md) | |
+| | | [Malware Protection Guide (Overview)](malware-protection-guide-introduction.md) | |
+| | | [Malware Protection Guide: Defensive Layer 1](malware-protection-guidance-defensive-layer-1.md) | |
+| | | [Malware Protection Guide: Defensive Layer 2](malware-protection-guidance-defensive-layer-2.md) | |
+| | | [Malware Protection Guide: Defensive Layer 3](malware-protection-guidance-defensive-layer-3.md) | |
+| | | [Secure Email Transfer Guide](secure-email-transfer-guide.md) | |
+| | | [Spam and Phishing Guide](spam-and-phishing-guide.md) | |
+| | | [Technical Controls Guide Introductory Page](technical-security-controls-guide.md) | |
+| | | [Technical Controls Guide - Layer 1](technical-security-controls-guide-defensive-layer-1.md) | |
+| | | [Technical Controls Guide - Layer 2](technical-security-controls-guide-defensive-layer-2.md) | |
+| | | [Technical Controls Guide - Layer 3](technical-security-controls-guide-defensive-layer-3.md) | |
 | Technical | Data and Information | Information Security Policy | |
-| | | Information Classification Handling and Security Guide | |
+| | | [Information Classification Handling and Security Guide](information-classification-handling-and-security-guide.md) | |
 | | Incident Management |
 | | Software Development |
 
@@ -82,4 +82,4 @@ This library documents the security decisions that the MoJ has made for the prod
 
 ## References
 
-![]Government Functional Standard - GovS 007: Security
+Government Functional Standard - GovS 007: Security

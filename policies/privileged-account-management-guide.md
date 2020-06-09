@@ -4,14 +4,14 @@ Owner: CISO
 Target audience: DevOps, Technical Architects, Incident Managers, IT Service Managers, Software Developers
 ---
 
-[Home > Cyber and Technical Security](../..)
+[Home > Cyber and Technical Security](home-security-policies-guides.md)
 
 # Privileged Account Management Guide
 
 ## Introduction
 
 This guide explains how to manage privileged accounts in order to minimise the security risks
-associated with their use. This is a sub-page to the [Access Control Guide](../access-control-guide/).
+associated with their use. This is a sub-page to the [Access Control Guide](access-control-guide.md).
 
 ## How to manage privileged accounts
 
@@ -39,7 +39,7 @@ Privileged accounts should be protected with the following controls.
 | ✖ Leave default/factory set passwords for any accounts but particularly for privileged system accounts, social media accounts and infrastructure. |
 | ✖ Allow non-IT service provider users to hold system administrative privileges. Exceptions may be granted where there is a legitimate business justification endorsed by a MoJ Senior Manager or Senior Civil Servant (SCS). Further advice must be sought from the MoJ Cyber Assistance team. This guide is for DevOps, Technical Architects, Incident Managers, IT Service Managers and Software Developers. |
 
-Further details of privileged user responsibilities can be found in the [Privileged User Guide](../privileged-user-guide/).
+Further details of privileged user responsibilities can be found in the [Privileged User Guide](privileged-user-guide.md).
 
 ## Contact details
 

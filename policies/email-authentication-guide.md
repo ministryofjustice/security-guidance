@@ -10,7 +10,7 @@ Target audience:
 
 ## Introduction
 
-This guide explains the security controls that must be implemented at the domain layer to verify sender’s domains and prevent spoofing attacks. This guide is a sub-page to the [Email Security Guide](../email-security-policy/).
+This guide explains the security controls that must be implemented at the domain layer to verify sender’s domains and prevent spoofing attacks. This guide is a sub-page to the [Email Security Guide](../email-security-guide/).
 
 ## Mail Check
 

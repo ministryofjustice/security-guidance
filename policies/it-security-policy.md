@@ -109,7 +109,7 @@ The guide includes patching schedules for the different MoJ systems and equipmen
 
 ## Technical controls
 
-The MoJ [Technical Controls Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/) ensures protection from unauthorised access or misuse of the MoJ IT systems, applications and data stored within them.
+The MoJ [Technical Controls Guide](../technical-security-controls-guide/) ensures protection from unauthorised access or misuse of the MoJ IT systems, applications and data stored within them.
 
 The guide outlines the control design requirements that are needed to secure the MoJ network and IT assets in accordance with the three layers of defence. The guide addresses following areas:
 
@@ -190,7 +190,7 @@ Further information is available from [MoJ Group Security](mailto:mojgroupsecuri
 
 ## Privileged users
 
-The MoJ's Privileged User Guide sets out the key responsibilities for administrator roles within the MoJ in order to protect systems, assets and applications from unauthorised access, use, modification or damage.
+The MoJ's [Privileged User Guide](../privileged-user-guide/) sets out the key responsibilities for administrator roles within the MoJ in order to protect systems, assets and applications from unauthorised access, use, modification or damage.
 
 The guide sets out the security controls and processes required for the secure handling of MoJ assets and data stored and processed within them, including:
 
@@ -242,6 +242,6 @@ A security audit is a systematic evaluation of the MoJ's IT security management 
 ## Contact details
 
 - Contact the Cyber Assistance Team for further advice - [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
-- Contact the Technology Service Desk to report a suspected IT incident - [MOJ.Servicedesk.uk@CGI.com](mailto:MOJ.Servicedesk.uk@CGI.com). Telephone: 0800 917 5148.
+- Contact the Technology Service Desk to report a suspected IT incident:<br/>Telephone: 0800 917 5148.
 - Contact the MoJ Security Team to report other security incidents: [Security@justice.gov.uk](mailto:Security@justice.gov.uk)
 - Contact the Operational Security Team for further advice: [Operationalsecurityteam@justice.gov.uk](mailto:operationalsecurityteam@justice.gov.uk)

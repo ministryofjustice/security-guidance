@@ -4,13 +4,13 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](../..)
+[Home > Cyber and Technical Security](home-security-policies-guides.md)
 
 # Password Changes, Account Locks and Disabling Accounts Guide
 
 ## Introduction
 
-This guide sets out when passwords should be changed and when user accounts will be locked. This guide is a sub-page to the [Password Management Guide](../password-management-guide/).
+This guide sets out when passwords should be changed and when user accounts will be locked. This guide is a sub-page to the [Password Management Guide](password-management-guide.md).
 
 ## Password changes and account lockouts
 
