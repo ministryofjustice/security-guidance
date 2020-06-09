@@ -4,7 +4,7 @@ Owner: CISO
 Target audience: DevOps, Software Developers, Technical Architects, Service Owners
 ---
 
-[Home > Cyber and Technical Security](../..)
+[Home > Cyber and Technical Security](home-security-policies-guides.md)
 
 # Password Management Guide
 

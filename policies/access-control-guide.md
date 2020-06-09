@@ -4,7 +4,7 @@ Owner: CISO
 Target audience: Technical Architects, DevOps, Service Owners, Software Developers
 ---
 
-[Home > Cyber and Technical Security](../..)
+[Home > Cyber and Technical Security](home-security-policies-guides.md)
 
 # Access Control guide
 

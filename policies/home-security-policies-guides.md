@@ -37,9 +37,9 @@ Documents have been developed and defined within this taxonomy, and are listed i
 | | | [Multi-user Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md) | |
 | | | [Password Changes, Account Locks and Disabling Accounts Guide](password-changes-account-locks-and-disabling-accounts-guide.md) | |
 | | | [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) | |
-| | | [Password Management Guide](password-management-guide.md) | |
+| | | [Password Management Guide](password-management-guide.md) | DevOps, Software Developers, Technical Architects, Service Owners |
 | | | [Password Storage and Management Guide](password-storage-and-management-guide.md) | |
-| | | [Privileged Account Management Guide](privileged-account-management-guide.md) | |
+| | | [Privileged Account Management Guide](privileged-account-management-guide.md) | DevOps, Technical Architects, Incident Managers, IT Service Managers, Software Developers |
 | | | [Privileged User Guide](privileged-user-guide.md) | |
 | | | [Privileged User Guide - Backups Removable Media and Incident Management Guide](privileged-user-backups-removable-media-and-incident-management-guide.md) | |
 | | | [Privileged User Guide - Configuration Patching and Change](privileged-user-configuration-patching-and-change-management-guide.md) | |
