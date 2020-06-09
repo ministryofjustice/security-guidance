@@ -53,12 +53,13 @@ Documents have been developed and defined within this taxonomy, and are listed i
 | | | [Privileged User Guide - Backups Removable Media and Incident Management Guide](./policies/privileged-user-backups-removable-media-and-incident-management-guide/) | |
 | | | [Privileged User Guide - Configuration, Patching and Change Management](./policies/privileged-user-configuration-patching-and-change-management-guide/) | |
 | | | [Privileged User Guide - Logging and Protective Monitoring Guide](./policies/privileged-user-logging-and-protective-monitoring-guide/) |
-| | Asset Management | Accessing MoJ Systems from Abroad | |
+| | Asset Management | [Acceptable Use](./policies/acceptable-use-policy/) | |
+| | | [Accessing MoJ Systems from Abroad](./policies/taking-it-equipment-abroad-business-or-personal/) | |
 | | | [General User Video and Messaging Apps Guidance](./policies/general-user-video-and-messaging-apps-guidance/) | |
 | | | [Video and Voice Conferencing Best Practice](./policies/video-and-voice-conferencing-best-practice/) | |
 | | | [Patch Management Guide](./policies/patch-management-guide/) | |
 | | | [Remote Working](./policies/remote-working/) | |
-| | | Taking IT Equipment Abroad | |
+| | | [Taking IT Equipment Abroad](./policies/taking-it-equipment-abroad-guidance/) | |
 | | | [Vulnerability Scanning and Patch Management Guide](./policies/vulnerability-scanning-and-patch-management-guide/) | |
 | | | [Vulnerability Scanning Guide](./policies/vulnerability-scanning-guide/) | |
 | | Cryptography |

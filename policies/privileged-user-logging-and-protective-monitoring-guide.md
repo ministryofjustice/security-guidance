@@ -4,7 +4,7 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](../..))
+[Home > Cyber and Technical Security](../..)
 
 # Privileged User Logging and Protective Monitoring Guide
 
