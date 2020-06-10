@@ -4,13 +4,13 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..)
 
 # Password Changes, Account Locks and Disabling Accounts Guide
 
 ## Introduction
 
-This guide sets out when passwords should be changed and when user accounts will be locked. This guide is a sub-page to the [Password Management Guide](password-management-guide.md).
+This guide sets out when passwords should be changed and when user accounts will be locked. This guide is a sub-page to the [Password Management Guide](../password-management-guide/).
 
 ## Password changes and account lockouts
 
@@ -46,7 +46,7 @@ Account lockouts within the MoJ can happen for the following reasons:
 
 ## Disabling accounts
 
-All MoJ user accounts are access controlled according to the user's 'need to know' requirements and their employment status. Accounts should be disabled at contract termination and during long-term absences, such as maternity or long-term sickness leave. The MoJ disables user accounts in alignment with the Access Control Guide.
+All MoJ user accounts are access controlled according to the user's 'need to know' requirements and their employment status. Accounts should be disabled at contract termination and during long-term absences, such as maternity or long-term sickness leave. The MoJ disables user accounts in alignment with the [Access Control Guide](../access-control-guide/).
 
 ## Contact details
 

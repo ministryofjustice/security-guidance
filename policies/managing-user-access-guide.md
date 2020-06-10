@@ -4,13 +4,13 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..)
 
 # Managing User Access Guide
 
 ## Introduction
 
-This guide provides information on the authentication methods which should be used to manage user access to systems and information in the MoJ. This is a sub-page to the [Access Control Guide](access-control-guide.md).
+This guide provides information on the authentication methods which should be used to manage user access to systems and information in the MoJ. This is a sub-page to the [Access Control Guide](../access-control-guide/).
 
 ## Managing access to MoJ systems
 

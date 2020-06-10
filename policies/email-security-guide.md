@@ -24,7 +24,7 @@ This guide is aimed at two audiences:
 Further guidance on email security at the MoJ can be found in the guides below.
 
 * [Spam and Phishing Guide](../spam-and-phishing-guide/) - provides guidance on how you can protect against and report email security threats like phishing and spamming.
-* [Secure Email Transfer Guide](../secure-email.transfer-guide/) - provides guidance on the security tools you can use to securely transfer information via email.
+* [Secure Email Transfer Guide](../secure-email-transfer-guide/) - provides guidance on the security tools you can use to securely transfer information via email.
 * [Email Authentication Guide](../email-authentication-guide/) - provides guidance on the authentication mechanisms that should be used at the domain layer to maintain security.
 
 ## Roles and responsibilities
@@ -39,7 +39,7 @@ All **technical users** are responsible for maintaining and using the MoJ's emai
 * Keep your operating systems up to date to prevent susceptibility to viruses.
 * Scan email attachments to detect viruses and other malware.
 * Ensure email services are appropriately authenticated (Refer to the [Email Authentication Guide](../email-authentication-guide/) for more information)
-* Ensure secure email messaging services and where necessary encryption tools are used to transfer information and system secrets (refer to the [Secure Email Transfer Guide](../secure-email.transfer-guide/) for further guidance).
+* Ensure secure email messaging services and where necessary encryption tools are used to transfer information and system secrets (refer to the [Secure Email Transfer Guide](../secure-email-transfer-guide/) for further guidance).
 * Ensure that email configuration is secure and all necessary technical controls, including those set out in the [Malware Protection Guide](../malware-protection-guide-introduction/) are implemented and kept up to date.
 
 **Suppliers** may use their own email services if agreed by the MoJ but, as a minimum, they must meet the security requirements in this guide and its related guides.

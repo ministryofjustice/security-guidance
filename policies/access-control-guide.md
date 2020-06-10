@@ -4,7 +4,7 @@ Owner: CISO
 Target audience: Technical Architects, DevOps, Service Owners, Software Developers
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..)
 
 # Access Control guide
 
@@ -23,11 +23,11 @@ This guide is aimed at two audiences:
 
 Further guidance on how to manage user access can be found in the guides below.
 
-- [Privileged Accounts](privileged-account-management-guide.md).
-- [Management Access](managing-user-access-guide.md).
+- [Privileged Accounts](../privileged-account-management-guide/).
+- [Management Access](../managing-user-access-guide/).
 - Joiners, Movers, Leavers Process.
-- [Minimum User Clearance Requirements](minimum-user-clearance-requirements-guide.md).
-- [Multi-Factor Authentication (MFA)](multi-Factor-authentication-mfa-guide.md).
+- [Minimum User Clearance Requirements](../minimum-user-clearance-requirements-guide/).
+- [Multi-Factor Authentication (MFA)](../multi-Factor-authentication-mfa-guide/).
 
 ## Information security principles for access control
 
@@ -61,10 +61,10 @@ Consider the following when creating activity logs:
 - Logs should be backed up so that they are not lost if there is a system unavailability.
 - Logs can include sensitive data (such as personal information) and should be managed accordingly. Contact the Data Privacy Team for advice on protecting sensitive personal information - [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk).
 - Log files should be stored for a minimum of 6 months.
-- Log data should not be retained for longer than 2 years unless otherwise stipulated. Retention rules may vary on a case by case basis so should be checked with the Data Privacy Team, the Cyber Assistance team, and the MoJ Data Protection Officer if it involves personal information. See the [Accounting Guide](../security_decisions/standards/accounting.md) for further information.
+- Log data should not be retained for longer than 2 years unless otherwise stipulated. Retention rules may vary on a case by case basis so should be checked with the Data Privacy Team, the Cyber Assistance team, and the MoJ Data Protection Officer if it involves personal information. See the [Accounting Guide](../../security_decisions/standards/accounting/) for further information.
 - Log files should not be tampered with, for example through modification or removal, under any circumstance.
 
-See the [Security Log Collection Guide](../security_decisions/standards/security-log-collection-maturity-tiers.md) for more information.
+See the [Security Log Collection Guide](../../security_decisions/standards/security-log-collection-maturity-tiers/) for more information.
 
 ## Segregation of duties
 

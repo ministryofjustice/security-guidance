@@ -4,13 +4,13 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..))
 
 # Multi-factor Authentication (MFA) Guide
 
 ## Introduction
 
-This Multi-Factor Authentication (MFA) guide explains how MFA can be used to ensure that users are only granted access to MoJ information once their identity is confirmed. This is a sub-page to the [Access Control Guide](access-control-guide.md).
+This Multi-Factor Authentication (MFA) guide explains how MFA can be used to ensure that users are only granted access to MoJ information once their identity is confirmed. This is a sub-page to the [Access Control Guide](../access-control-guide/).
 
 ## MFA
 
@@ -38,7 +38,7 @@ Note:
 | 7. | SMS-based (a one-time code sent via SMS) |
 | 8. | Phone-call based (a phone call providing a one-time code or password)
 
-The MoJ Password Guide provides more information on the use of MFA. See the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) for further information.
+The MoJ Password Guide provides more information on the use of MFA. See the [Password Creation and Authentication Guide](../password-creation-and-authentication-guide/) for further information.
 
 ## Contact details
 

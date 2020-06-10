@@ -4,13 +4,13 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..)
 
 # Password Creation and Authentication Guide
 
 ## Introduction
 
-This guide sets out considerations for creating passwords and authenticating users for access to MoJ systems. This includes ensuring that there are appropriate authentication methods for information, accounts and systems. This guide is a sub-page to the [Password Management Guide](password-management-guide.md).
+This guide sets out considerations for creating passwords and authenticating users for access to MoJ systems. This includes ensuring that there are appropriate authentication methods for information, accounts and systems. This guide is a sub-page to the [Password Management Guide](../password-management-guide/).
 
 ## Default passwords
 
@@ -36,7 +36,7 @@ The MoJ should implement password history management, to prevent an old password
 
 ## Multi-factor authentication and single-sign on
 
-MFA provides an additional layer of security for login and access controls. Two-Factor Authentication (2FA); Time-based One-Time Password Algorithm (TOTP); hardware and software tokens and biometric authentication are all forms of MFA approved for use within MoJ. The [Access Control Guidance](access-control-guide.md) provides further information.
+MFA provides an additional layer of security for login and access controls. Two-Factor Authentication (2FA); Time-based One-Time Password Algorithm (TOTP); hardware and software tokens and biometric authentication are all forms of MFA approved for use within MoJ. The [Access Control Guidance](../access-control-guide/) provides further information.
 
 If a service provides MFA it should be used by default. MFA must be used for all `OFFICIAL` systems when:
 
@@ -47,7 +47,7 @@ If a service provides MFA it should be used by default. MFA must be used for all
 
 All systems classified as `SECRET` or `TOP SECRET` require MFA.
 
-Further guidance around the use of Multi-Factor Authentication can be found on [GitHub](https://ministryofjustice.github.io/security-guidance/standards/authentication/#multi-factor-authentication).
+Further guidance around the use of Multi-Factor Authentication can be found on [here](../../security_decisions/standards/authentication/).
 
 MoJ's SSO solutions include Office 365 and Digital and Technology G-Suite. SSO solutions must be integrated within the MoJ's Identity Provider to improve user experience by authenticating to systems using existing MoJ credentials. SSO must:
 

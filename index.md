@@ -53,7 +53,7 @@ Documents have been developed and defined within this taxonomy, and are listed i
 | | | [Privileged User Guide - Backups Removable Media and Incident Management Guide](./policies/privileged-user-backups-removable-media-and-incident-management-guide/) | |
 | | | [Privileged User Guide - Configuration, Patching and Change Management](./policies/privileged-user-configuration-patching-and-change-management-guide/) | |
 | | | [Privileged User Guide - Logging and Protective Monitoring Guide](./policies/privileged-user-logging-and-protective-monitoring-guide/) |
-| | Asset Management | [Acceptable Use](./policies/acceptable-use-policy/) | |
+| | Asset Management | [Acceptable Use Policy](./policies/acceptable-use-policy/) | |
 | | | [Accessing MoJ Systems from Abroad](./policies/taking-it-equipment-abroad-business-or-personal/) | |
 | | | [General User Video and Messaging Apps Guidance](./policies/general-user-video-and-messaging-apps-guidance/) | |
 | | | [Video and Voice Conferencing Best Practice](./policies/video-and-voice-conferencing-best-practice/) | |

@@ -4,13 +4,13 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..))
 
 # Privileged User Backups, Removable Media and Incident Management Guide
 
 ## Introduction
 
-This guide outlines the security procedures and advice for privileged users to reduce the impact of security incidents and improve the response to them. This guide is a sub-page to the [Privileged User Guide](privileged-user-guide.md).
+This guide outlines the security procedures and advice for privileged users to reduce the impact of security incidents and improve the response to them. This guide is a sub-page to the [Privileged User Guide](../privileged-user-guide/).
 
 ## Removable media
 
@@ -18,7 +18,7 @@ Removable media increases the risk of malware being introduced to systems and co
 
 - Any data transferred from removable media to the MoJ systems should be scanned for malware before being uploaded to MoJ systems. One option is to adopt a sheep dip, a segregated terminal with anti-virus, which can be used to conduct these scans before data is introduced to the MoJ systems. This reduces the risk that removable media is used as a threat vector for malware.
 - The origin of any removable media must be established to understand the risk it poses.
-- If removable media is required for standard system operations, privileged users must ensure data is encrypted at rest and has suitable physical security controls in place. These include locking rooms where data is stored or using safes for storing removable media. See the [Information and Data Security Policy](information-and-data-security-policy.md) for further information.
+- If removable media is required for standard system operations, privileged users must ensure data is encrypted at rest and has suitable physical security controls in place. These include locking rooms where data is stored or using safes for storing removable media. See the [Information and Data Security Policy](../information-and-data-security-policy/) for further information.
 - Removable media must not be used for a system operation unless it is approved by the Senior Information Risk Officer (SIRO); advice should be sought from the Risk Advisor Team.
 
 ## System backups

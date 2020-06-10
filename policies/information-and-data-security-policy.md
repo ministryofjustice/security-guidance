@@ -4,7 +4,7 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..)
 
 # Information and Data Security Policy
 
@@ -26,7 +26,7 @@ This policy establishes responsibilities and minimum information security measur
 
 This policy will support the MoJ to:
 
- - achieve and maintain alignment with the information security principles of confidentiality, integrity, and availability   
+ - achieve and maintain alignment with the information security principles of confidentiality, integrity, and availability
 
  - comply with the UK Data Protection Act (2018) when processing personal information
 
@@ -67,7 +67,7 @@ The following information security principles need to be considered during each 
 | Sharing | Sending the user feedback analysis to a contractor to help fix issues... **through secure email**. |
 | Storing | Keeping the user feedback analysis... **on a secured cloud storage service or JustStore on Dom1**. |
 | Archiving | Moving the user feedback analysis to an archive... **such as the Dom1 JustStore** or [LAA Crime Archive](https://github.com/ministryofjustice/laa-crime-apps-archive). |
-| Destroying | Deleting the user feedback analysis permanently... **through the MoJ's approved** [file deletion tools](https://ministryofjustice.github.io/security-guidance/#data-destruction). |
+| Destroying | Deleting the user feedback analysis permanently... **through the MoJ's approved** [file deletion tools](../../security_decisions/standards/data-destruction/). |
 
 Further examples can be found in the Information Classification, Handling and Security Guide.
 

@@ -4,7 +4,7 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..)
 
 # Technical Security Controls Guide
 
@@ -14,13 +14,13 @@ This guide explains the technical security controls that should be implemented o
 
 ## Related guides
 
-[_Defensive Layer 1: Creating a baseline security environment - general and creating a baseline security - software development and system configuration_](technical-security-controls-guide-defensive-layer-1.md)
+[Defensive Layer 1: Creating a baseline security environment - general and creating a baseline security - software development and system configuration](../technical-security-controls-guide-defensive-layer-1/)
 Layer 1 sets out the technical controls required to build strong network foundations, including secure configuration and software development.
 
-[_Defensive Layer 2: Implementing monitoring capabilities_](technical-security-controls-guide-defensive-layer-2.md)
+[Defensive Layer 2: Implementing monitoring capabilities](../technical-security-controls-guide-defensive-layer-2/)
 Layer 2 builds a monitoring capability for the network and extends existing security controls to mobile devices.
 
-[_Defensive Layer 3: Implementing monitoring and maintenance tools_](technical-security-controls-guide-defensive-layer-3.md)
+[Defensive Layer 3: Implementing monitoring and maintenance tools](../technical-security-controls-guide-defensive-layer-3/)
 Layer 3 technical controls must be implemented after the completion of Layer 1 and Layer 2. Layer 3 controls help to mature network security controls for a defence-in-depth security approach.
 
 ## Who is this guide for?

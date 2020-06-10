@@ -4,7 +4,7 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..)
 
 # Using GMail's Confidential Mode
 
@@ -62,10 +62,10 @@ For example, you should include **OFFICIAL - SENSITIVE** at the start of the Sub
 
 1. In Gmail, click Compose to open a new email window.
 
-2. Click ![](https://ministryofjustice.github.io/security-guidance/images/Confid_Clock) at the foot of the window. The Confidential mode dialogue displays. **Note**: Confidential Mode is turned off by default unless you are replying to an email that was sent
-to you as confidential in which case it is automatically set to 'on'. To turn it off, click ![](https://ministryofjustice.github.io/security-guidance/images/Confid_Clock).
+2. Click ![](../../images/gmail-confidential-mode-clock.png) at the foot of the window. The Confidential mode dialogue displays. **Note**: Confidential Mode is turned off by default unless you are replying to an email that was sent
+to you as confidential in which case it is automatically set to 'on'. To turn it off, click ![](../../images/gmail-confidential-mode-clock.png).
 
- ![](https://ministryofjustice.github.io/security-guidance/images/Confid_Dialog.png)
+![](../../images/gmail-confidential-mode-dialog.png)
 
 3. Set an expiry date and, if required, a passcode. The default is for the message to expire in one week and for no SMS passcode. These settings apply to both the message text and any attachments. The shortest expiry period is one day. The longest is five years.
 

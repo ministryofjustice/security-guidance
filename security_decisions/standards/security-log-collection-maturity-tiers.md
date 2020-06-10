@@ -13,7 +13,7 @@ These three tiers represent different levels of risk profile, and concern about 
 
 Each tier is additive to the ones below it, so a system that operates at the Enhanced tier should also meet the requirements at the Baseline tier.
 
-[triangle Illustration here]
+![](../../../images/Tiers.png)
 
 ## Baseline
 

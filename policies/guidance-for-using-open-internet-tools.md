@@ -4,7 +4,7 @@ Owner: CISO
 Target audience: All Staff
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..)
 
 # Guidance for Using Open Internet Tools
 

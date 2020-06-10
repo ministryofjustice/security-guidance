@@ -65,7 +65,7 @@ You can protect against email security threats by implementing the additional co
 
 ✔ Ensure there is no unnecessary detail on the MoJ website or webmail by considering what visitors need to know with the aim of reducing the threat of spear phishing.
 
-✔ Restrict auto-forwarding. Please refer to the [Secure Email Transfer Guide](../secure-email.transfer-guide/) for more information.
+✔ Restrict auto-forwarding. Please refer to the [Secure Email Transfer Guide](../secure-email-transfer-guide/) for more information.
 
 ✔ Restrict delegate access. Please refer to the [Email Security Guide](../email-security-policy/) for more information.
 

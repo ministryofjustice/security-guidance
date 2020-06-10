@@ -4,7 +4,7 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..)
 
 # Information Classification, Handling and Security Guide
 
@@ -53,7 +53,7 @@ The table below sets out the definitions for each security classification as wel
 | **SECRET** | Very sensitive information that requires protection against highly sophisticated, well-resourced and determined threat actors e.g. serious and organised crime. | Must be marked |
 | **TOP SECRET** | Exceptionally sensitive information that directly supports (or threatens) the national security of the UK or its allies and requires extremely high assurance of protection from all threats. | Must be marked |
 
-Additional information on how to manage information is described in the Information Asset Management Policy.  
+Additional information on how to manage information is described in the Information Asset Management Policy.
 
 Information security classification may change throughout the information lifecycle, it is important to apply appropriate security classifications and continually evaluate them.
 
@@ -61,7 +61,7 @@ The consequences of not classifying information correctly are outlined below.
 
  - Applying too high a marking can inhibit business operations, such as collaboration, and lead to unnecessary and expensive protective controls being applied.
  - Applying too low a marking may result in inappropriate controls and may put sensitive assets at greater risk of compromise.
- - Incorrect disposal can lead to unauthorised access to information. Disposal of information should be done using approved processes, equipment or service providers. Refer to the [MoJ Data Destruction guide](https://ministryofjustice.github.io/security-guidance/#data-destruction) to understand when the disposal should be witnessed/recorded.  
+ - Incorrect disposal can lead to unauthorised access to information. Disposal of information should be done using approved processes, equipment or service providers. Refer to the [MoJ Data Destruction guide](../../security_decisions/standards/data-destruction/) to understand when the disposal should be witnessed/recorded.
 
 ### OFFICIAL AND OFFICIAL-SENSITIVE
 
@@ -154,7 +154,7 @@ The following sections set out the minimum measures you need to consider when ha
 | **PHYSICAL** |  Handling and storing TOP SECRET information requires exceptional planning, monitoring and record-keeping. | Imagine you are moving locations for a server used to host TOP SECRET information. The encrypted server is secured in a locked and continuously monitored room in 102 Petty France. You have now decided to move it to 10 South Colonnade. This should only be done after you, your manager, and senior managers have reviewed and accepted the risks associated with this transfer. The transfer should then be handled by two DV-cleared individuals, for example, employees of a specialised commercial courier company. When it happens, local police may need to be informed and involved in providing an additional layer of security. |
 | | Working remotely with TOP SECRET is not permitted due to the extreme sensitivity of the information. | |
 | | Transferring TOP SECRET information from one location to another requires even greater planning and preparation than for SECRET information, including the completion of a risk assessment by senior management and the use of DV-cleared personnel. More information on this is available in the [Government Security Classifications guidance](https://www.gov.uk/government/publications/government-security-classifications) and from your manager. | |
-| **TECHNICAL** | When physical security measures cannot be used, TOP SECRET information at rest should be protected with High Grade encryption. The [CAPS Team](mailto:caps@ncsc.gov.uk) at the NCSC should be contacted in these circumstances. | In the development of a new cloud-hosted solution for TOP SECRET information, you should contact the [CATS Team](mailto:CyberConsultancy@digital.justice.gov.uk). Information stored at rest on the cloud is encrypted with Enhanced Grade encryption; information in transit between the end user and the cloud service is encrypted with Enhanced Grade encryption and the cloud service used is accredited  by the [CAPS Team](mailto:caps@ncsc.gov.uk) against the SECRET threat model with guidance from the [CATS Team](mailto:CyberConsultancy@digital.justice.gov.uk).  |  
+| **TECHNICAL** | When physical security measures cannot be used, TOP SECRET information at rest should be protected with High Grade encryption. The [CAPS Team](mailto:caps@ncsc.gov.uk) at the NCSC should be contacted in these circumstances. | In the development of a new cloud-hosted solution for TOP SECRET information, you should contact the [CATS Team](mailto:CyberConsultancy@digital.justice.gov.uk). Information stored at rest on the cloud is encrypted with Enhanced Grade encryption; information in transit between the end user and the cloud service is encrypted with Enhanced Grade encryption and the cloud service used is accredited  by the [CAPS Team](mailto:caps@ncsc.gov.uk) against the SECRET threat model with guidance from the [CATS Team](mailto:CyberConsultancy@digital.justice.gov.uk).  |
 | | Care should be taken to ensure that TOP SECRET information in transit is only shared with defined recipient users through accredited shared infrastructure or using High Grade encryption. | |
 | | TOP SECRET information should be processed on IT systems which have been accredited against the TOP SECRET threat model. Advice on what commercial IT systems meet this requirement is available from the Security Team. | | |
 
