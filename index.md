@@ -64,7 +64,7 @@ Documents have been developed and defined within this taxonomy, and are listed i
 | | | [Vulnerability Scanning Guide](./policies/vulnerability-scanning-guide/) | |
 | | Cryptography |
 | | Operational Security | [Email Authentication Guide](./policies/email-authentication-guide/) | |
-| | | [Email Security Policy](./policies/email-security-policy/) | MoJ Digital and Technology staff implementing controls throughout technical design, development, system integration and operation. Incident Managers. Any other party designing, developing or supplying services for the MoJ |
+| | | [Email Security Guide](./policies/email-security-guide/) | MoJ Digital and Technology staff implementing controls throughout technical design, development, system integration and operation. Incident Managers. Any other party designing, developing or supplying services for the MoJ |
 | | | [IT Security Policy](./policies/it-security-policy/) | As above |
 | | | [Malware Protection Guide (Overview)](./policies/malware-protection-guide-introduction/) | As above |
 | | | [Malware Protection Guide: Defensive Layer 1](./policies/malware-protection-guidance-defensive-layer-1) | |

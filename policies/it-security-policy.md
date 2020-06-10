@@ -68,7 +68,7 @@ MoJ's [Password Management Guide](../password-management-guide/) addresses the f
 
 ## Email security
 
-The MoJ [Email Security Guide](../email-security-policy/) specifies the controls and processes required to protect the MoJ's email systems from unauthorised access or misuse, that may compromise the confidentiality, integrity and/or availability of the information stored and shared within them.
+The MoJ [Email Security Guide](../email-security-guide/) specifies the controls and processes required to protect the MoJ's email systems from unauthorised access or misuse, that may compromise the confidentiality, integrity and/or availability of the information stored and shared within them.
 
 The guide outlines the various security levels required to transfer information from the MoJ's email servers to organisations outside the MoJ and other government departments. The policy addresses the following areas:
 

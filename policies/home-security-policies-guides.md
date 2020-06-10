@@ -53,7 +53,7 @@ Documents have been developed and defined within this taxonomy, and are listed i
 | | | [Vulnerability Scanning Guide](vulnerability-scanning-guide.md) | |
 | | Cryptography |
 | | Operational Security | [Email Authentication Guide](email-authentication-guide.md) | |
-| | | [Email Security Policy](email-security-policy.md) | |
+| | | [Email Security Guide](email-security-guide.md) | |
 | | | [IT Security Policy](it-security-policy.md) | |
 | | | [Malware Protection Guide (Overview)](malware-protection-guide-introduction.md) | |
 | | | [Malware Protection Guide: Defensive Layer 1](malware-protection-guidance-defensive-layer-1.md) | |

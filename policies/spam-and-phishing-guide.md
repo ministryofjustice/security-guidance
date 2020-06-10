@@ -67,7 +67,7 @@ You can protect against email security threats by implementing the additional co
 
 ✔ Restrict auto-forwarding. Please refer to the [Secure Email Transfer Guide](../secure-email-transfer-guide/) for more information.
 
-✔ Restrict delegate access. Please refer to the [Email Security Guide](../email-security-policy/) for more information.
+✔ Restrict delegate access. Please refer to the [Email Security Guide](../email-security-guide/) for more information.
 
 The [Email Authentication Guide][eag] provides further detail on the technical controls mentioned in this guide.
 
