@@ -64,7 +64,7 @@ Consider the following when creating activity logs:
 - Log data should not be retained for longer than 2 years unless otherwise stipulated. Retention rules may vary on a case by case basis so should be checked with the Data Privacy Team, the Cyber Assistance team, and the MoJ Data Protection Officer if it involves personal information. See the [Accounting Guide](../security_decisions/standards/accounting.md) for further information.
 - Log files should not be tampered with, for example through modification or removal, under any circumstance.
 
-See the Security Log Collection Guide for more information.
+See the [Security Log Collection Guide](../security_decisions/standards/security-log-collection-maturity-tiers.md) for more information.
 
 ## Segregation of duties
 
