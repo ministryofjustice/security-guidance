@@ -4,7 +4,7 @@ Owner: CISO
 Target audience: DevOps, Technical Architects, Incident Managers, IT Service Managers, Software Developers
 ---
 
-[Home > Cyber and Technical Security](../..)
+[Home > Cyber and Technical Security](home-security-policies-guides.md)
 
 # Privileged Account Management Guide
 
