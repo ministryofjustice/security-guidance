@@ -4,7 +4,7 @@ Owner: CISO
 Target audience: Technical Architects, DevOps, Service Owners, Software Developers
 ---
 
-[Home > Cyber and Technical Security](../..)
+[Home > Cyber and Technical Security](home-security-policies-guides.md)
 
 # Access Control guide
 
@@ -23,7 +23,7 @@ This guide is aimed at two audiences:
 
 Further guidance on how to manage user access can be found in the guides below.
 
-- [Privileged Accounts](../privileged-account-management-guide/).
+- [Privileged Accounts](privileged-account-management-guide).
 - [Management Access](../managing-user-access-guide/).
 - Joiners, Movers, Leavers Process.
 - [Minimum User Clearance Requirements](../minimum-user-clearance-requirements-guide/).
