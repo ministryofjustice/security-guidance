@@ -4,7 +4,7 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](../..)
+[Home > Cyber and Technical Security](home-security-policies-guides.md)
 
 # Privileged User Guide
 
@@ -25,9 +25,9 @@ This guide is aimed at two audiences:
 
 For further details about privileged user responsibilities, see the guides below.
 
-- [Logging Guide](../privileged-user-logging-and-protective-monitoring-guide/): provides information about security procedures privileged users should implement to conduct logging activities.
-- [Backups, Removable Media and Incident Management Guide](../privileged-user-backups-removable-media-and-incident-management-guide/): provides information that privileged users should follow to reduce the impact of and respond to a security incident.
-- [Configuration, Patching and Change Management Guide](../privileged-user-configuration-patching-and-change-management-guide/): provides privileged users with guidance to ensure that systems are configured securely, change is managed correctly and systems are patched regularly.
+- [Logging Guide](privileged-user-logging-and-protective-monitoring-guide.md): provides information about security procedures privileged users should implement to conduct logging activities.
+- [Backups, Removable Media and Incident Management Guide](privileged-user-backups-removable-media-and-incident-management-guide.md): provides information that privileged users should follow to reduce the impact of and respond to a security incident.
+- [Configuration, Patching and Change Management Guide](privileged-user-configuration-patching-and-change-management-guide.md): provides privileged users with guidance to ensure that systems are configured securely, change is managed correctly and systems are patched regularly.
 
 ## Management of privileged user accounts
 
@@ -35,14 +35,14 @@ Privileged user accounts have a high degree of risk associated with them due to 
 
 - Privileged user accounts should only be created for users with a genuine business need and only for the duration that the business need exists.
 - They should be strictly controlled and their number kept to the absolute minimum per system or app.
-- Privileged user passwords must be created in line with the MoJ's [Password Guide](../password-creation-and-authentication-guide/).
+- Privileged user passwords must be created in line with the MoJ's [Password Guide](password-creation-and-authentication-guide.md).
 - The password for a privileged user account must not be re-used for another privileged user account or a normal user account.
 - Privileged access must be limited and granted on a 'need to know' basis for a specified period.
-- Multi Factor Authentication (MFA) must be used as an additional layer of authentication  for privileged user accounts. See the [Password Guide](../password-creation-and-authentication-guide/) for further details.
+- Multi Factor Authentication (MFA) must be used as an additional layer of authentication  for privileged user accounts. See the [Password Guide](password-creation-and-authentication-guide.md) for further details.
 - Privileged user passwords must be deleted along with the account when a privileged user leaves the MoJ or changes role.
 - Privileged user accounts must only be used when carrying out administrative tasks such as creating new user accounts or implementing software updates. At all other times a normal user account must be used, e.g. for tasks such as searching the internet and reading emails.
 
-For further information on managing privileged user accounts see the [Configuration, Patching and Change Management Guide](../privileged-user-configuration-patching-and-change-management-guide/).
+For further information on managing privileged user accounts see the [Configuration, Patching and Change Management Guide](privileged-user-configuration-patching-and-change-management-guide.md).
 
 ## Resource monitoring
 
@@ -64,7 +64,7 @@ Privileged users are responsible for managing user access to systems to enable e
 
 - Only create user accounts once authorisation has been received from that user's line manager.
 - Only grant permissions that are in line with the user's business role within the MoJ.
-- Review user account usage every 90 days. If an account is dormant, the privileged user must investigate its status and suspend the account if appropriate. See the [Access Control Guide](../access-control-guide/) for details.
+- Review user account usage every 90 days. If an account is dormant, the privileged user must investigate its status and suspend the account if appropriate. See the [Access Control Guide](access-control-guide.md) for details.
 - Disable all user and privileged user accounts when staff members leave the MoJ or where the account is not required due to a change of role. Privileged users will be automatically notified by HR when access changes or revocations are required.
 - Retain a record of all authorised users, approvals and changes of access rights and privileges for any network, system or application for which privileged users are responsible.
 
@@ -76,7 +76,7 @@ When working remotely, it is important that privileged users operate securely by
 - ensuring that they are not overlooked when working on administrative tasks
 - ensuring that they use the MoJ's Virtual private Network (VPN) to connect with MoJ systems when using Privileged user login details.
 
-Access to the VPN requires 2 Factor Authentication (2FA). The [IT Security Policy](../it-security-policy/) and [Remote Working](../remote-working/) guidance documents contain further information about Remote Working.
+Access to the VPN requires 2 Factor Authentication (2FA). The [IT Security Policy](it-security-policy.md) and [Remote Working](remote-working.md) guidance documents contain further information about Remote Working.
 
 ## Contact details
 
