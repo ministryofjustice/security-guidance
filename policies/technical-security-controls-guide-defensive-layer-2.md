@@ -8,7 +8,7 @@ Target audience:
 
 # Technical Controls Guide: Defensive Layer 2
 
-This guide is a sub-page to the [Technical Controls Guide](technical-security-controls-guide).
+This guide is a sub-page to the [Technical Controls Guide](technical-security-controls-guide.md).
 
 ## Defensive layer 2: implementing monitoring capabilities
 
