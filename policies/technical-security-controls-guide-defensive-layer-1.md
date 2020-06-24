@@ -4,11 +4,11 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](../..)
+[Home > Cyber and Technical Security](home-security-policies-guides.md)
 
 # Technical Security Controls Guide: Defensive Layer 1
 
-This guide is a sub-page to the [Technical Controls Guide](../technical-security-controls-guide/).
+This guide is a sub-page to the [Technical Controls Guide](technical-security-controls-guide).
 
 ## Defensive layer 1: creating a baseline security environment - general
 
