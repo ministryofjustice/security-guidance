@@ -105,7 +105,7 @@ System Administrators must ensure that all outgoing emails are automatically app
 
 ## Auto-forward
 
-System Administrators should ensure auto-forwarding is used responsibly and in line with the MoJ's [Information Classification Handling and Security Guide](../information-classification-handling-and-security-guide/). As part of this responsibility they must:
+System Administrators should ensure auto-forwarding is used responsibly and in line with the MoJ's [Information Classification Handling and Security Guide](information-classification-handling-and-security-guide.md). As part of this responsibility they must:
 
 * disable auto-forward to external domains, where this is required it should be controlled by creating custom RBAC roles
 * advise users to only forward emails from an MoJ email address to an email address that provides the same or higher security standards
