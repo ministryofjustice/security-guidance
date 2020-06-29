@@ -69,7 +69,7 @@ You can protect against email security threats by implementing the additional co
 
 ✔ Restrict delegate access. Please refer to the [Email Security Guide](email-security-guide.md) for more information.
 
-The [Email Authentication Guide][eag] provides further detail on the technical controls mentioned in this guide.
+The [Email Authentication Guide](email-authentication-guide.md) provides further detail on the technical controls mentioned in this guide.
 
 ## Reporting spam or malicious emails
 
