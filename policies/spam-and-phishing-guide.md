@@ -61,7 +61,7 @@ You can protect against email security threats by implementing the additional co
 
 ✔ Use SMTP alert policies to track malware activity and data loss incidents.
 
-✔ Use email filtering services and implement email sandboxing. Refer to the [Email Authentication Guide][eag] for further detail.
+✔ Use email filtering services and implement email sandboxing. Refer to the [Email Authentication Guide](email-authentication-guide.md) for further detail.
 
 ✔ Ensure there is no unnecessary detail on the MoJ website or webmail by considering what visitors need to know with the aim of reducing the threat of spear phishing.
 
