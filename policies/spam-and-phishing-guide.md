@@ -28,7 +28,7 @@ Spoofing attacks are designed to mislead the recipient into trusting that a mali
 
 You can prevent spoofing attacks by:
 
-* implementing SPF, DKIM and DMARC e.g. sender information `from`, `reply-to`, `return-path` and even `x-origin` can be spoofed (please refer to the [Email Authentication Guide][eag] for further guidance)
+* implementing SPF, DKIM and DMARC e.g. sender information `from`, `reply-to`, `return-path` and even `x-origin` can be spoofed (please refer to the [Email Authentication Guide](email-authentication-guide.md) for further guidance)
 * using secure email gateways
 * implementing access controls, such as multi factor authentication (MFA) , to avoid an attacker gaining access to credentials for an email account where they could legitimately spoof the sender's email address.
 
