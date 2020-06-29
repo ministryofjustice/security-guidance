@@ -4,7 +4,7 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](../..)
+[Home > Cyber and Technical Security](home-security-policies-guides.md)
 
 # Secure Email Transfer Guide
 
@@ -26,15 +26,15 @@ TLS is an encryption protocol used to protect data in transit between systems. S
 
 * The MoJ should always use the latest version of TLS.
 * TLS is required for sending to `gov.uk`.
-* Any MoJ domains that do not support TLS must be documented in an exceptions list and an exception rule authorised by the DNS provider. Please refer to the [Email Authentication Guide](../email-authentication-guide/) for DNS provider contact details.
+* Any MoJ domains that do not support TLS must be documented in an exceptions list and an exception rule authorised by the DNS provider. Please refer to the [Email Authentication Guide](email-authentication-guide.md) for DNS provider contact details.
 * Where mandatory TLS encryption is not suitable:
   * use certificates from Certificate Authorities, making sure they are always valid and use strong encryption, algorithms and key lengths, and
   * use Secure Multipurpose Internet Mail Extension (S/MIME) as it signs and encrypts email data before it is transmitted.
 * If you operate an internet-facing email service, you must buy and manage appropriate TLS certificates from the [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/).
 
-The [Information Classification Handling and Security Guide](../information-classification-handling-and-security-guide/) offers further advice on encrypting email communications. This includes protecting data at rest and data in transit.
+The [Information Classification Handling and Security Guide](information-classification-handling-and-security-guide.md) offers further advice on encrypting email communications. This includes protecting data at rest and data in transit.
 
-For further guidance on TLS, please see the [Cryptography Standard](../../security_decisions/standards/cryptography/).
+For further guidance on TLS, please see the [Cryptography Standard](https://ministryofjustice.github.io/security-guidance/standards/cryptography/#cryptography).
 
 ## End-to-end encryption
 

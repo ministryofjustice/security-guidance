@@ -4,7 +4,7 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](../..)
+[Home > Cyber and Technical Security](home-security-policies-guides.md)
 
 # Email Security Guide
 
@@ -23,24 +23,24 @@ This guide is aimed at two audiences:
 
 Further guidance on email security at the MoJ can be found in the guides below.
 
-* [Spam and Phishing Guide](../spam-and-phishing-guide/) - provides guidance on how you can protect against and report email security threats like phishing and spamming.
-* [Secure Email Transfer Guide](../secure-email-transfer-guide/) - provides guidance on the security tools you can use to securely transfer information via email.
-* [Email Authentication Guide](../email-authentication-guide/) - provides guidance on the authentication mechanisms that should be used at the domain layer to maintain security.
+* [Spam and Phishing Guide](spam-and-phishing-guide.md) - provides guidance on how you can protect against and report email security threats like phishing and spamming.
+* [Secure Email Transfer Guide](secure-email-transfer-guide.md) - provides guidance on the security tools you can use to securely transfer information via email.
+* [Email Authentication Guide](email-authentication-guide.md) - provides guidance on the authentication mechanisms that should be used at the domain layer to maintain security.
 
 ## Roles and responsibilities
 
 All **technical users** are responsible for maintaining and using the MoJ's email communications securely in line with the requirements set out in this guide.
 
 * Where possible automate checks of the sender's authenticity.
-* Ensure all email communications are protected according to the classification of the information held within them (see the [Information Classification Handling and Security Guide](../information-classification-handling-and-security-guide/) for further information).
+* Ensure all email communications are protected according to the classification of the information held within them (see the [Information Classification Handling and Security Guide](information-classification-handling-and-security-guide.md) for further information).
 * Ensure all users of the email service are aware of the Acceptable Use Policy and operate it in accordance with it.
 * Encourage online working by default to limit the downloading of data to mobile devices.
 * Ensure suspected or actual phishing emails are easily reported to the Technology Service Desk as email attachments.
 * Keep your operating systems up to date to prevent susceptibility to viruses.
 * Scan email attachments to detect viruses and other malware.
-* Ensure email services are appropriately authenticated (Refer to the [Email Authentication Guide](../email-authentication-guide/) for more information)
-* Ensure secure email messaging services and where necessary encryption tools are used to transfer information and system secrets (refer to the [Secure Email Transfer Guide](../secure-email-transfer-guide/) for further guidance).
-* Ensure that email configuration is secure and all necessary technical controls, including those set out in the [Malware Protection Guide](../malware-protection-guide-introduction/) are implemented and kept up to date.
+* Ensure email services are appropriately authenticated (Refer to the [Email Authentication Guide](email-authentication-guide.md) for more information)
+* Ensure secure email messaging services and where necessary encryption tools are used to transfer information and system secrets (refer to the [Secure Email Transfer Guide](secure-email-transfer-guide.md) for further guidance).
+* Ensure that email configuration is secure and all necessary technical controls, including those set out in the [Malware Protection Guide](malware-protection-guide-introduction.md) are implemented and kept up to date.
 
 **Suppliers** may use their own email services if agreed by the MoJ but, as a minimum, they must meet the security requirements in this guide and its related guides.
 
@@ -52,7 +52,7 @@ You must not access the email accounts of any other user unless you are authoris
 * during an employee investigation relating to misconduct or a security incident, for example IT misuse
 * upon the death or unexpected exit of an employee, for example for the retrieval of key information and closing down an account.
 
-Anyone required to undertake this task should read this guide in conjunction with the [Privileged User Guide](../privileged-user-guide/).
+Anyone required to undertake this task should read this guide in conjunction with the [Privileged User Guide](privileged-user-guide.md).
 However, the MoJ does monitor Email services for security purposes.
 
 ## Delegate access
@@ -72,7 +72,7 @@ To ensure secure delegation, system administrators must:
 
 For personal accounts the helpdesk can configure delegate access; administrators of group inboxes can also configure delegate access to those inboxes.
 
-For further details see the [Privileged User Guide](../privileged-user-guide/).
+For further details see the [Privileged User Guide](privileged-user-guide.md).
 
 ## Contact details
 

@@ -4,13 +4,13 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](../..)
+[Home > Cyber and Technical Security](home-security-policies-guides.md)
 
 # Email Authentication Guide
 
 ## Introduction
 
-This guide explains the security controls that must be implemented at the domain layer to verify sender’s domains and prevent spoofing attacks. This guide is a sub-page to the [Email Security Guide](../email-security-guide/).
+This guide explains the security controls that must be implemented at the domain layer to verify sender’s domains and prevent spoofing attacks. This guide is a sub-page to the [Email Security Guide](email-security-guide.md).
 
 ## Mail Check
 

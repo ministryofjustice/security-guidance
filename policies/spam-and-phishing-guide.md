@@ -4,7 +4,7 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](../..)
+[Home > Cyber and Technical Security](home-security-policies-guides.md)
 
 [eag]: ../email-authentication-guide/
 
@@ -51,9 +51,9 @@ You can prevent MITM attacks by:
 
 You can protect against email security threats by implementing the additional controls outlined below.
 
-✔ Install the minimal mail server services required and eliminate known vulnerabilities through patches, configurations and upgrades. Refer to the [Vulnerability Scanning and Patch Management Guide](../vulnerability-scanning-and-patch-management-guide/) for more information.
+✔ Install the minimal mail server services required and eliminate known vulnerabilities through patches, configurations and upgrades. Refer to the [Vulnerability Scanning and Patch Management Guide](vulnerability-scanning-and-patch-management-guide.md) for more information.
 
-✔ Implement anti-malware software where not already implemented. Refer to the [Malware Protection Guidance](../malware-protection-guide-introduction/) for more information.
+✔ Implement anti-malware software where not already implemented. Refer to the [Malware Protection Guidance](malware-protection-guide-introduction.md) for more information.
 
 ✔ Implement URL Link Rewriting e.g. to check bit/ly links - adding the `+` symbol at the end of bit/ly links will direct you to the location without opening the link.
 
@@ -65,9 +65,9 @@ You can protect against email security threats by implementing the additional co
 
 ✔ Ensure there is no unnecessary detail on the MoJ website or webmail by considering what visitors need to know with the aim of reducing the threat of spear phishing.
 
-✔ Restrict auto-forwarding. Please refer to the [Secure Email Transfer Guide](../secure-email-transfer-guide/) for more information.
+✔ Restrict auto-forwarding. Please refer to the [Secure Email Transfer Guide](secure-email-transfer-guide.md) for more information.
 
-✔ Restrict delegate access. Please refer to the [Email Security Guide](../email-security-guide/) for more information.
+✔ Restrict delegate access. Please refer to the [Email Security Guide](email-security-guide.md) for more information.
 
 The [Email Authentication Guide][eag] provides further detail on the technical controls mentioned in this guide.
 
