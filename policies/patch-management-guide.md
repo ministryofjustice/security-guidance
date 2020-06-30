@@ -4,13 +4,13 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](../..)
+[Home > Cyber and Technical Security](home-security-policies-guides.md)
 
 # Patch Management Guide
 
 ## Introduction
 
-This guide explains the patching requirements for the MoJ's systems once a vulnerability has been identified. This guide is a sub-page to the [Vulnerability Scanning and Patch Management Guide](../vulnerability-scanning-and-patch-management-guide/).
+This guide explains the patching requirements for the MoJ's systems once a vulnerability has been identified. This guide is a sub-page to the [Vulnerability Scanning and Patch Management Guide](vulnerability-scanning-and-patch-management-guide.md).
 
 ### Patching of MoJ systems and equipment
 
@@ -24,8 +24,8 @@ The patching guide must be followed for all asset types including, but not limit
 
 ## Internet facing websites
 
-If you are developing or running any websites or services that are publically accessible through the open internet, you must patch any vulnerabilities and common configuration errors identified
-either through the MoJ's Web Check Account (see the [Vulnerability Scanning Guide](../vulnerability-scanning-guide/) for details) or by any other means. You need to ensure that any vulnerabilities identified are remediated according to Service Level Agreements (SLAs) in this guide below.
+If you are developing or running any websites or services that are publicly accessible through the open internet, you must patch any vulnerabilities and common configuration errors identified
+either through the MoJ's Web Check Account (see the [Vulnerability Scanning Guide](vulnerability-scanning-guide.md) for details) or by any other means. You need to ensure that any vulnerabilities identified are remediated according to Service Level Agreements (SLAs) in this guide below.
 
 ## End user clients
 
@@ -53,7 +53,7 @@ If you develop or run applications hosted on MoJ servers, external servers or cl
 * Applications that are no longer licensed or whose vendors do not provide ongoing support should be reviewed and possibly removed. Please see the [Patching Exemptions](#patching-exemptions) section below for further information.
 
 Applications should be access-controlled to help prevent exploitation of any vulnerabilities. The level of access control must be matched to the level of risk to the service provided. For example, a
-finance server might have stronger access control than an email server. See the [Access Control Guide](../access-control-guide/) for further information.
+finance server might have stronger access control than an email server. See the [Access Control Guide](access-control-guide.md) for further information.
 
 ## Patching schedule Service Level Agreement
 
