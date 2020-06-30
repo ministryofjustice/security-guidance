@@ -54,7 +54,7 @@ All MoJ Digital and Technology users must ensure that password creation, distrib
 
 All application and software development within or on behalf of the MoJ must ensure the following password security requirements are adhered to.
 
-✔ Multi-user accounts should be avoided, but if required please refer to the [Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guid.md/) for further guidance.
+✔ Multi-user accounts should be avoided, but if required please refer to the [Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md/) for further guidance.
 
 ✔ Technical controls must be implemented to support requirements in the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md).
 
