@@ -4,13 +4,13 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](../..)
+[Home > Cyber and Technical Security]home-security-policies-guides.md)
 
 # Multi-user accounts and Public-Facing Service Accounts Guide
 
 ## Introduction
 
-This guide sets out when multi-user accounts should be used, although this is discouraged and should be avoided if possible. The guide also explains how public-facing service accounts should be authenticated. This guide is a sub-page to the [Password Management Guide](../password-management-guide/).
+This guide sets out when multi-user accounts should be used, although this is discouraged and should be avoided if possible. The guide also explains how public-facing service accounts should be authenticated. This guide is a sub-page to the [Password Management Guide](password-management-guide.md).
 
 ## Multi-user accounts
 
@@ -34,11 +34,11 @@ Technical users should ensure that front-end users who access the MoJ’s public
 - be different for each service used by the individual
 - be easy to use, for example, pasting passwords into web forms should be enabled
 - not be changed as a result of regular password expiry
-- use Two Factor Authentication (the [Password Creation and Authentication Guide](../password-creation-and-authentication-guide/) provides further advice)
+- use Two Factor Authentication (the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) provides further advice)
 - be changed when required - e.g. after a system compromise is identified or if the limit of unsuccessful password attempts is reached and the account is locked
 - be reset using a one-time password.
 
-Service accounts must be used for system and application authentication. Service accounts must use certificates for authentication, however if these cannot be used, then passwords are an acceptable alternative. The [Password Creation and Authentication Guide](../password-creation-and-authentication-guide/) provides further guidance on how you must create a strong and complex password.
+Service accounts must be used for system and application authentication. Service accounts must use certificates for authentication, however if these cannot be used, then passwords are an acceptable alternative. The [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) provides further guidance on how you must create a strong and complex password.
 
 This guide has been written in alignment with [NCSC guidance](https://www.ncsc.gov.uk/collection/passwords/updating-your-approach).
 

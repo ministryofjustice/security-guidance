@@ -4,7 +4,7 @@ Owner: CISO
 Target audience: DevOps, Software Developers, Technical Architects, Service Owners
 ---
 
-[Home > Cyber and Technical Security](../..)
+[Home > Cyber and Technical Security](home-security-policies-guides.md)
 
 # Password Management Guide
 
@@ -24,13 +24,13 @@ This guide is aimed at two audiences:
 
 Further guidance around the management of passwords at the MoJ can be found in the guides below.
 
-* [Password Creation and Authentication Guide](../password-creation-and-authentication-guide/) – provides guidance to ensure you choose the correct passwords and authentication tools to protect information in line with its security classifications.
+* [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) – provides guidance to ensure you choose the correct passwords and authentication tools to protect information in line with its security classifications.
 
-* [Password Storage and Management Guide](../password-storage-and-management-guide/) – provides guidance on storing and sharing passwords securely.
+* [Password Storage and Management Guide](password-storage-and-management-guide.md) – provides guidance on storing and sharing passwords securely.
 
-* [Password Changes, Account Locks and Disabling Accounts Guide](../password-changes-account-locks-and-disabling-accounts-guide/) – provides guidance about why you may need to change your password. It also addresses when and how you should change your password.
+* [Password Changes, Account Locks and Disabling Accounts Guide](password-changes-account-locks-and-disabling-accounts-guide.md) – provides guidance about why you may need to change your password. It also addresses when and how you should change your password.
 
-* [Multi-User Accounts and Public-Facing Service Accounts Guide](../multi-user-accounts-and-public-facing-service-accounts-guide/) – provides guidance on when you should use a multi-user account and how you should authenticate a service account.
+* [Multi-User Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md) – provides guidance on when you should use a multi-user account and how you should authenticate a service account.
 
 ## Roles and responsibilities
 
@@ -38,25 +38,25 @@ Further guidance around the management of passwords at the MoJ can be found in t
 
 All MoJ Digital and Technology users must ensure that password creation, distribution and maintenance is done securely.
 
-✔ Passwords must not ordinarily be shared. Refer to the [Password Storage and Management Guide](../password-storage-and-management-guide/) for exceptions and alternative solutions for sharing passwords.
+✔ Passwords must not ordinarily be shared. Refer to the [Password Storage and Management Guide](password-storage-and-management-guide.md) for exceptions and alternative solutions for sharing passwords.
 
-✔ Passwords must be strong and complex as set out in the [Password Creation and Authentication Guide](../password-creation-and-authentication-guide/).
+✔ Passwords must be strong and complex as set out in the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md).
 
 ✔ Passwords must be changed upon indication of compromise.
 
-✔ Passwords must be distributed securely. Refer to the [Password Storage and Management Guide](../password-storage-and-management-guide/).
+✔ Passwords must be distributed securely. Refer to the [Password Storage and Management Guide](password-storage-and-management-guide.md).
 
-✔ Any system or information classified as `SECRET` or `TOP SECRET` must have additional access controls implemented as set out in the MoJ's [Access Control Guide](../access-control-guide/). For any queries or decisions relating to `SECRET` or `TOP SECRET` systems or information, the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk) should be contacted.
+✔ Any system or information classified as `SECRET` or `TOP SECRET` must have additional access controls implemented as set out in the MoJ's [Access Control Guide](access-control-guide.md). For any queries or decisions relating to `SECRET` or `TOP SECRET` systems or information, the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk) should be contacted.
 
-✔ Additional authentication controls such as multi-factor authentication (MFA) must be enabled as required by specific systems. Further guidance can be found in the [Password Creation and Authentication Guide](../password-creation-and-authentication-guide/) and the [Multi-user accounts and Public-Facing Service Accounts Guide](../multi-user-accounts-and-public-facing-service-accounts-guide/).
+✔ Additional authentication controls such as multi-factor authentication (MFA) must be enabled as required by specific systems. Further guidance can be found in the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) and the [Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
 
 **Software Developers, Technical Architects and Development Operations**
 
 All application and software development within or on behalf of the MoJ must ensure the following password security requirements are adhered to.
 
-✔ Multi-user accounts should be avoided, but if required please refer to the [Multi-user accounts and Public-Facing Service Accounts Guide](../multi-user-accounts-and-public-facing-service-accounts-guide/) for further guidance.
+✔ Multi-user accounts should be avoided, but if required please refer to the [Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guid.md/) for further guidance.
 
-✔ Technical controls must be implemented to support requirements in the [Password Creation and Authentication Guide](../password-creation-and-authentication-guide/).
+✔ Technical controls must be implemented to support requirements in the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md).
 
 ✔ Applications or software should support MFA and single sign-on (SSO) solutions leveraged by the MoJ.
 
