@@ -85,7 +85,7 @@ Where services and infrastructure are provided by MSPs, the vendor is normally r
 
 Any patches to be deployed must go through the approval process, outlined in the diagram below, and the changes recorded in the Service Management Tool.
 
-!patch-approval.png
+![](patch-approval.png)
 
 ### 2. Services and applications developed by MoJ in-house project teams
 
