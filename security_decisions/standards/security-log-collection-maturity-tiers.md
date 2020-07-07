@@ -1,6 +1,6 @@
 ---
 category: Security Log Collection
-expires: 2020-03-01
+expires: 2020-12-31
 ---
 
 # Security Log Collection Maturity Tiers
@@ -9,22 +9,45 @@ MOJ systems and services must adequately create and retain event data as part of
 
 Three tiers have been developed to reflect the breadth and complexity of collecting and forwarding log data.
 
-These three tiers represent different levels of risk profile, and concern about a system.  All systems should be capable of meeting the baseline standard, but there are systems that are at greater likelihood of compromise due to factors such as age or public threats, or systems which would have a significantly elevated impact if compromised due to sensitivity or perceived value.  These systems should aim to be monitored to a higher standard.
+These three tiers represent different levels of risk profile, and concern about a system.
+All systems should be capable of meeting the baseline standard.
 
-Each tier is additive to the ones below it, so a system that operates at the Enhanced tier should also meet the requirements at the Baseline tier.
+Some systems are at greater likelihood of compromise.
+This is due to factors such as age or public threats.
+Other systems would have a higher impact if compromised.
+This is due to the systems being sensitive or having distinctive perceived value.
+Such systems should be monitored to a higher standard.
 
-![](../../../images/Tiers.png)
+The extent to which a security log collection process implements the monitoring requirement indicates the logging maturity.
+
+Each level of monitoring - or 'tier' - has characteristics that are 'in addition' to lower level tiers.
+For example,
+a system operating at the Enhanced tier should also meet the requirements of the Baseline tier.
+
+![](https://ministryofjustice.github.io/security-guidance/images/Tiers.png)
 
 ## Baseline
 
-The baseline is the generally minimum expected of event types that should be generated and forwarded for onward analysis from all of the MoJ systems and may also generally be met through the underlying platform(s) on which they are built.
+The baseline tier is the generally minimum expected for event types.
+It includes data that should be generated, recorded, and forwarded for onward analysis.
+It applies to all of the MoJ systems.
+In most cases, this requirement may be met through the underlying platform(s) on which the systems are built.
 
-This tier covers the broad spectrum of events that can reasonably be used to detect compromise and allow the defensive cyber team to respond appropriately before significant impact.
+This tier covers the broad spectrum of events that can reasonably be used to detect compromise.
+It allows the defensive cyber team to respond appropriately before significant impact.
 
 ## Enhanced
 
-Enhanced event types, in addition to the baseline event types, provide earlier notification of attempted compromise as well as gathering more information to detect stealthier attackers or significantly more capable attackers.
+The enhanced tier, in conjunction with the baseline event types, provides earlier notification of attempted compromise.
+It enables gathering of more information to detect stealthier or more capable attackers.
 
 ## Bespoke
 
-Some systems are critical to the security, stability and statutory function of the MoJ and/or contain highly sensitive data. In these cases, systems must generate additional bespoke event types as agreed in context directly between the MOJ Cyber Security team and the associated product/service team, working in cohort to identify key nuance and contextual security monitoring requirements based on applicable threats and risks.
+The bespoke tier concerns systems that are critical to the security, stability and statutory function of the MoJ, or that contain highly sensitive data.
+In this tier, systems must generate additional bespoke (customised) event types.
+These event types are typically agreed in context between the MOJ Cyber Security team and the associated product or service team.
+The objective is produce logging that reliably identifies and captures key nuance and contextual security monitoring data, based on applicable threats and risks.
+
+---
+
+Last updated: April 20th, 2020.

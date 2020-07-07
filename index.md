@@ -1,4 +1,3 @@
-
 # Cyber and Technical Security Guidance
 
 ## Summary

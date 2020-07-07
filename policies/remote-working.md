@@ -52,7 +52,7 @@ Remote working is when you work from any non-MOJ location, for example, working 
 - Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.
 - Send work material to your personal email address.
 
-## Working securely ###
+## Working securely
 
 It’s important to consider the security of how you work remotely.
 - **Work locations** - as with home working above, you need to be equally, if not more, vigilant when working in public spaces.
@@ -61,7 +61,9 @@ It’s important to consider the security of how you work remotely.
 
 Even when working remotely, you must still follow the security policies and operating procedures for MOJ systems you access and work with.
 
-## Using your own equipment ####
+## Using your own equipment
+
+The main guidance is available [here](https://ministryofjustice.github.io/security-guidance/policies/personal-devices/).
 
 Wherever possible, you should always use official MOJ equipment for business purposes. Never send work material to your personal email accounts.
 
@@ -96,8 +98,10 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 ### General enquiries, including theft and loss
 
 **Dom1 - Technology Service Desk**
-- Email: [itservicedesk@justice.gov.uk](mailto:itservicedesk@justice.gov.uk)
+<!-- - Email: [MOJ.Servicedesk.uk@CGI.com](mailto:MOJ.Servicedesk.uk@CGI.com) -->
 - Tel: 0800 917 5148
+
+_Note: The previous `itservicedesk@justice.gov.uk`email address is no longer being monitored._
 
 **Digital & Technology - Digital Service Desk**
 - Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
@@ -159,4 +163,4 @@ To access the following link, you'll need to be connected to the HMPPS Intranet.
 
 ---
 
-Last updated: March 30th, 2020.
+Last updated: April 24th, 2020.
