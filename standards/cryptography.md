@@ -80,4 +80,4 @@ Summarily, native at-rest encryption must be enabled with a suitable and proport
 
 Data that should be kept confidential or is worthwhile to otherwise obfuscate should be hashed. This **must** apply where authentication credentials are stored, such as a password.
 
-The published [MOJ Password Standard](https://github.com/ministryofjustice/itpolicycontent/blob/master/content/security/framework/password-standard.md) has a [section on hashing as part of password storage](https://github.com/ministryofjustice/itpolicycontent/blob/master/content/security/framework/password-standard.md#password-storage).
+The published [MOJ Password Standard](https://github.com/ministryofjustice/itpolicycontent/blob/main/content/security/framework/password-standard.md) has a [section on hashing as part of password storage](https://github.com/ministryofjustice/itpolicycontent/blob/main/content/security/framework/password-standard.md#password-storage).
