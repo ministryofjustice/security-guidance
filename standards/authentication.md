@@ -12,7 +12,7 @@ Any access to any data **must** employ adequate authentication techniques to ide
 
 Where appropriate, passwords should be used as a knowledge-based factor for authentication.
 
-MOJ has published the [MOJ Password Standard](https://github.com/ministryofjustice/itpolicycontent/blob/master/content/security/framework/password-standard.md) and accompanying [password guidance](https://github.com/ministryofjustice/itpolicycontent/blob/master/content/security/framework/password-guidance.md).
+MOJ has published the [MOJ Password Standard](https://github.com/ministryofjustice/itpolicycontent/blob/main/content/security/framework/password-standard.md) and accompanying [password guidance](https://github.com/ministryofjustice/itpolicycontent/blob/main/content/security/framework/password-guidance.md).
 
 ## Named individual accounts
 
@@ -41,7 +41,7 @@ Token-based methods are preferred over static private key methods.
 
 Where appropriate, multi-factor authentication (MFA) should be used as a knowledge-based factor for authentication.MFA is sometimes referred to as Two-Factor Authentication (2FA).
 
-The MOJ published [MOJ Password Standard](https://github.com/ministryofjustice/itpolicycontent/blob/master/content/security/framework/password-standard.md) and accompanying [password guidance](https://github.com/ministryofjustice/itpolicycontent/blob/master/content/security/framework/password-guidance.md) discuss MFA in more detail.
+The MOJ published [MOJ Password Standard](https://github.com/ministryofjustice/itpolicycontent/blob/main/content/security/framework/password-standard.md) and accompanying [password guidance](https://github.com/ministryofjustice/itpolicycontent/blob/main/content/security/framework/password-guidance.md) discuss MFA in more detail.
 
 ### MFA is better than no MFA
 
