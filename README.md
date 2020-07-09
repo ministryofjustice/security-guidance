@@ -17,7 +17,7 @@ Note: As a vibrant, dynamic, work-in progress, this the material should not nece
 
 This repo is inspired by, and borrows from, [GDS's technical guidance][gds-way] site and [MOJ's technical guidance][technical-guidance].
 
-Content in the `master` branch is built using [Jekyll][], and hosted using [GitHub Pages][]. It incorporates HTML, SCSS, JavaScript, and images from [GDS's Tech Docs Template][tech-docs-template], and reworks them to work with Jekyll instead of [Middleman][].
+Content in the `main` branch is built using [Jekyll][], and hosted using [GitHub Pages][]. It incorporates HTML, SCSS, JavaScript, and images from [GDS's Tech Docs Template][tech-docs-template], and reworks them to work with Jekyll instead of [Middleman][].
 
 [gds-way]: https://github.com/alphagov/gds-way
 [technical-guidance]: https://ministryofjustice.github.io/technical-guidance/
@@ -74,7 +74,7 @@ the working Markdown files.
 
 ## Publishing changes
 
-Because we're using GitHub Pages, any changes merged into the `master`
+Because we're using GitHub Pages, any changes merged into the `main`
 branch will be published automatically. Every change should be reviewed
 in a pull request, no matter how minor, and we've enabled [branch protection][] to enforce this.
 
