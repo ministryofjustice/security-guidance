@@ -9,13 +9,13 @@ We believe that technology should be Secure by Default: embedding security from 
 
 h/t <https://www.ncsc.gov.uk/articles/secure-default>
 
-### Good technical design is security design
+## Good technical design is security design
 
 Secure by Default is taking a holistic approach to solving security problems as a core tenant rather than a followup activity.
 
 Embedding security within a design is directly comparable to good modern technical designs and fundementally ensuring the 'thing' actually works.
 
-### Secure by Default
+## Secure by Default
 
 The [National Cyber Security Centre (NCSC)](https://www.ncsc.gov.uk) prescribe the Secure by Default principles as: 
 
