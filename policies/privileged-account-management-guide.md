@@ -31,13 +31,12 @@ Privileged accounts should be protected with the following controls.
 | ✔ Ensure that MFA is mandated for a privileged user to conduct important or privileged actions such as changing fundamental configurations including changing registered email addresses or adding another administrator. |
 | ✔ Ensure that MFA is used as a validation step, to confirm actions requested by users, such as a MFA re-prompt when attempting to delete or modify data. |
 | ✔ Ensure that default passwords are managed as described in the [Password Management Guide](../password-management-guide/). |
-| ✔ Ensure that when you access a system you suspect is compromised, use Powershell or similar access to prevent privileged user credentials from being revealed to an intruder. |
 
 | DON’T |
 | --- |
 | ✖ Allow privileged users to use their privileged accounts for high-risk functions. These include reading emails, web browsing, using an ‘administrator’ login on an end-user device (such as a mobile device), or logging into a server as 'root'. |
 | ✖ Leave default/factory set passwords for any accounts but particularly for privileged system accounts, social media accounts and infrastructure. |
-| ✖ Allow non-IT service provider users to hold system administrative privileges. Exceptions may be granted where there is a legitimate business justification endorsed by a MoJ Senior Manager or Senior Civil Servant (SCS). Further advice must be sought from the MoJ Cyber Assistance team. This guide is for DevOps, Technical Architects, Incident Managers, IT Service Managers and Software Developers. |
+| ✖ Allow non-IT service provider users to hold privileged accounts. Exceptions may be granted where there is a legitimate business justification endorsed by a MoJ Senior Manager or Senior Civil Servant (SCS). Further advice must be sought from the MoJ Cyber Assistance team.
 
 Further details of privileged user responsibilities can be found in the [Privileged User Guide](../privileged-user-guide/).
 
