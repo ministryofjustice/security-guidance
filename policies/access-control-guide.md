@@ -25,7 +25,7 @@ Further guidance on how to manage user access can be found in the guides below.
 
 - [Privileged Accounts](privileged-account-management-guide.md).
 - [Management Access](managing-user-access-guide.md).
-- Joiners, Movers, Leavers Process.
+- Joiners, Movers, Leavers Process (currently in development).
 - [Minimum User Clearance Requirements](minimum-user-clearance-requirements-guide.md).
 - [Multi-Factor Authentication (MFA)](multi-Factor-authentication-mfa-guide.md).
 
@@ -49,7 +49,7 @@ Effective access control should be implemented by following these four principle
 - something they have (such as a smart card), and/or
 - something they are (biometric authentication such as a fingerprint, voice recognition, iris scan and others).
 
-Systems holding sensitive information or systems that are mission critical to the MoJ must use Multi-Factor Authentication (MFA) to prove user identity. See the Multi-Factor Authentication Guide and Password Management Guide for further information. If you wish to use a federated identity, you should review the National Cyber Security Center’s (NCSC) guidance and contact the Cyber Assistance Team. For information on authentication methods including OAuth, refer to the Managing User Access guide.
+Systems holding sensitive information or systems that are mission critical to the MoJ must use Multi-Factor Authentication (MFA) to prove user identity. See the [Multi-Factor Authentication Guide](multi-Factor-authentication-mfa-guide.md) and [Password Management Guide](password-management-guide.md) for further information. If you wish to use an additional method of authentication you should review the National Cyber Security Center’s (NCSC) guidance and contact the Cyber Assistance Team (CAT). For information on authentication methods including OAuth, refer to the [Managing User Access Guide](managing-user-access-guide.md).
 
 3. **Authorisation:** Authorisation is the function of specifying access rights/privileges and resources to users, which should be granted in line with the principle of least privilege. Reducing access privileges reduces the "attack surface" of IT systems. This helps to prevent malware and hackers from moving laterally across the network if they compromise a user account.
 
