@@ -20,7 +20,9 @@ Users should have their identity authenticated through the following methods:
 * something they have (such as a mobile phone or smart card), and/or
 * something they are (biometric authentication such as a fingerprint).
 
-MFA can be used as a possession-based factor for authentication (something I have). MFA is sometimes referred to as Two-Factor Authentication (2FA) if it involves a second form of authentication or 3/4/5 Factor Authentication if it includes additional authentication requirements. Different methods of secondary authentication identify users with varying degrees of accuracy. The list below identifies the MoJ’s preference for MFA methods, with 1 ranked the highest. These can be used for 2/3/4/5 Factor Authentication as required.
+MFA can be used as a possession-based factor for authentication (something I have). MFA is sometimes referred to as Two-Factor Authentication (2FA) if it involves a second form of authentication or 3/4/5 Factor Authentication if it includes additional authentication requirements. Different methods of secondary authentication identify users with varying degrees of accuracy.  Care should be taken to ensure true MFA, for instance password and security questions are both 'something they know' and hence are just one factor of authentication.
+
+The list below identifies the MoJ’s preference for MFA methods, with 1 ranked the highest. These can be used for 2/3/4/5 Factor Authentication as required.
 
 Note:
 
@@ -29,7 +31,7 @@ Note:
 
 | Preference | Type |
 | --- | --- |
-| 1. | Hardware-based (for example, Yubikeys) |
+| 1. | Hardware-based (for example, Yubikeys or TPM enabled devices) |
 | 2. | Software-based (for example, Google Prompt on a mobile device) |
 | 3. | Time-based One Time Password (TOTP)-based (the code is held by a dedicated app such as Google Authenticator on a mobile device) |
 | 4. | TOTP-based (the code is held within a multi-purpose app, for example, a password manager app that also holds other factor information) |

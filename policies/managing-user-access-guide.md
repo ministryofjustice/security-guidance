@@ -18,7 +18,7 @@ The following methods can be used to manage access to the MoJ’s systems. They 
 
 | | Method | Comment |
 | --- | --- | --- |
-| 1 | Application Program Interface (API) | Where possible, APIs should be used instead of Secure Shell (SSH) as APIs offer greater technical control over security systems without the need for parsing commands required by SSH. For AWS instances, it is recommended that you use AWS Session Manager. |
+| 1 | Application Program Interface (API) | Where possible, APIs should be used instead of Secure Shell (SSH) as APIs offer greater technical control over security systems without the need for parsing commands required by SSH. |
 | 2 | Automated diagnostic data collection | It should be considered the exception for administrators to directly administer a server/node when there is automated diagnostic data collection. Diagnostic data collection allows the underlying technical data to be easily correlated and analysed. |
 | 3 | Pre-defined, pre-audited | Authentication tools such as Amazon Identity Access Management (IAM) should be used to manage access when technically possible. The use of pre-defined tools for authentication can be designed to avoid human error and instruct pre-audited actions to be taken on an administrator’s behalf, thus reducing manual human interaction. |
 | 4 | Secure Shell (SSH) | If you cannot use APIs, such as Session Manager for AWS, then SSH can be used with the following controls.
