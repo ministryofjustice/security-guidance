@@ -29,7 +29,9 @@ Someone in an IT role who would need anything beyond BPSS:
 
 If any of the above are true SC is required. If none of the above are true BPSS, DBS or Enhanced Check is sufficient.
 
-The MoJ HQ and Executive Agencies have specific requirements for DV/DV STRAP clearance for individual systems and these should be followed if applicable. Please contact the Cyber Assistance Team and/or the Vetting Policy for further information.
+The MoJ HQ and Executive Agencies have specific requirements for DV/DV STRAP clearance for individual systems and these should be followed if applicable.
+
+Please contact the Cyber Assistance Team and refer to the [Vetting Policy](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/) for further information.
 
 ## Contact details
 
