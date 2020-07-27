@@ -26,12 +26,8 @@ The following methods can be used to manage access to the MoJ’s systems. They 
 <tr><td>2</td><td>Automated diagnostic data collection</td><td> It should be considered the exception for administrators to directly administer a server/node when there is automated diagnostic data collection. Diagnostic data collection allows the underlying technical data to be easily correlated and analysed.</td></tr>
 <tr><td>3</td><td>Remote server configuration tools</td><td>If you cannot use APIs then remote server configuration tools can be used with the following controls.</td></tr>
 <tr>Use of bastion or ‘jump’ boxes for access into systems is a useful technical security design that also helps ‘choke’ and control sessions.</td></tr>
-<tr><td></td>
-<td></td>
-<td>The need to use remote server configuration tools to interact with a server/node can be reduced through improved infrastructure and server design. For instance, the use of stateless cluster expansion/contraction and the automated diagnostic data capture can reduce the need to use SSH.</td></tr>
-<td></td>
-<td></td>
-<td>System Admins should only login to a server/node via SSH and execute commands with elevated privileges (typically, root) under exceptional circumstances.</td>
+<tr>The need to use remote server configuration tools to interact with a server/node can be reduced through improved infrastructure and server design. For instance, the use of stateless cluster expansion/contraction and the automated diagnostic data capture can reduce the need to use SSH.</td></tr>
+<tr>System Admins should only login to a server/node via SSH and execute commands with elevated privileges (typically, root) under exceptional circumstances.</tr>
 <ul><li>SSH must be strictly controlled and environments should be segregated so that no single bastion or ‘jump’ SSH server can access both production and non-production accounts.</li>
 <li>Do not allow direct logging in as root through SSH, administrators must have a separate account that they regularly use and simply sudo to root when necessary.</li>
 <li>SSHs must be limited to users who need shell (by comparison to users who will use SSH as a port forwarding tunnel).</li>
