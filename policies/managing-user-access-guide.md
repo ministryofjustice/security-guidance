@@ -30,12 +30,12 @@ The following methods can be used to manage access to the MoJ’s systems. They 
 <tr><td></td><td></td>
 <td>The need to use remote server configuration tools to interact with a server/node can be reduced through improved infrastructure and server design. For instance, the use of stateless cluster expansion/contraction and the automated diagnostic data capture can reduce the need to use SSH.</td></tr>
 <tr><td></td><td></td>
-<td>System Admins should only login to a server/node via SSH and execute commands with elevated privileges (typically, root) under exceptional circumstances.</td></tr>
+<td>System Admins should only login to a server/node via SSH and execute commands with elevated privileges (typically, root) under exceptional circumstances.
 <ul><li>SSH must be strictly controlled and environments should be segregated so that no single bastion or ‘jump’ SSH server can access both production and non-production accounts.</li>
 <li>Do not allow direct logging in as root through SSH, administrators must have a separate account that they regularly use and simply sudo to root when necessary.</li>
 <li>SSHs must be limited to users who need shell (by comparison to users who will use SSH as a port forwarding tunnel).</li>
 <li>Joiners/Movers/Leavers processes must be strictly enforced (optimally and preferably automated) on SSH servers as they are a critical and privileged access method.</li>
-<li>SSH should not be password-based, and should use individually created and purposed SSH key pairs. Private keys must not be shared or re-used.</li></ul>
+<li>SSH should not be password-based, and should use individually created and purposed SSH key pairs. Private keys must not be shared or re-used.</li></ul></td></tr>
 </table>
 
 The Government Digital Service (GDS) recommends the use of the open authorisation standard ‘OAuth2’ as a means to authenticate users. See the GDS guide for more information.
