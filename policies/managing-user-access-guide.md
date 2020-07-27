@@ -34,13 +34,11 @@ The following methods can be used to manage access to the MoJ’s systems. They 
 <td></td>
 <td></td>
 <td>System Admins should only login to a server/node via SSH and execute commands with elevated privileges (typically, root) under exceptional circumstances.</td>
-<tr><td></td>
-<td></td>
 <ul><li>SSH must be strictly controlled and environments should be segregated so that no single bastion or ‘jump’ SSH server can access both production and non-production accounts.</li>
 <li>Do not allow direct logging in as root through SSH, administrators must have a separate account that they regularly use and simply sudo to root when necessary.</li>
 <li>SSHs must be limited to users who need shell (by comparison to users who will use SSH as a port forwarding tunnel).</li>
 <li>Joiners/Movers/Leavers processes must be strictly enforced (optimally and preferably automated) on SSH servers as they are a critical and privileged access method.</li>
-<li>SSH should not be password-based, and should use individually created and purposed SSH key pairs. Private keys must not be shared or re-used.</ul></li></tr>
+<li>SSH should not be password-based, and should use individually created and purposed SSH key pairs. Private keys must not be shared or re-used.</ul></li>
 </table>
 
 The Government Digital Service (GDS) recommends the use of the open authorisation standard ‘OAuth2’ as a means to authenticate users. See the GDS guide for more information.
