@@ -25,9 +25,7 @@ The following methods can be used to manage access to the MoJ’s systems. They 
 <tr><td>1</td><td>Application Program Interface (API)</td><td>Where possible, APIs should be used instead of remote server configuration tools such as Secure Shell (SSH) and Remote Desktop  (RDP). This is because APIs offer greater technical control over security systems without the need for parsing commands required by remote server configuration tools.</td></tr>
 <tr><td>2</td><td>Automated diagnostic data collection</td><td> It should be considered the exception for administrators to directly administer a server/node when there is automated diagnostic data collection. Diagnostic data collection allows the underlying technical data to be easily correlated and analysed.</td></tr>
 <tr><td>3</td><td>Remote server configuration tools</td><td>If you cannot use APIs then remote server configuration tools can be used with the following controls.</td></tr>
-<tr><td></td>
-<td></td>
-<td>Use of bastion or ‘jump’ boxes for access into systems is a useful technical security design that also helps ‘choke’ and control sessions.</td></tr>
+<tr>Use of bastion or ‘jump’ boxes for access into systems is a useful technical security design that also helps ‘choke’ and control sessions.</td></tr>
 <tr><td></td>
 <td></td>
 <td>The need to use remote server configuration tools to interact with a server/node can be reduced through improved infrastructure and server design. For instance, the use of stateless cluster expansion/contraction and the automated diagnostic data capture can reduce the need to use SSH.</td></tr>
