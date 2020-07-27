@@ -14,7 +14,7 @@ This guide provides information on the authentication methods which should be us
 
 ## Managing access to MoJ systems
 
-The following methods can be used to manage access to the MoJ’s systems. They are in order of preference for their use, with 1 providing more secure management features than 4.
+The following methods can be used to manage access to the MoJ’s systems. They are in order of preference for their use, with 1 providing more secure management features than 3.
 
 <table>
 <tr>
