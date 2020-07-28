@@ -10,7 +10,7 @@ Target audience:
 
 ## Introduction
 
-This guide explains the technical security controls that should be implemented on information systems developed, procured or operated by the MoJ or on its behalf. This guide aligns with [NIST 800-53](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf) and NCSC technical control requirements and provides the MoJ with 3 phases/layers of defence. These controls must be implemented to ensure the MoJ's network infrastructure is secure. This page is a directory to the three layers of defence which form the Technical Security Controls Guide.
+This guide explains the technical security controls that should be implemented on information systems developed, procured or operated by the MoJ or on its behalf. This guide aligns with [NIST 800-53](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf) and the NCSC [Cyber Assessment Framework (CAF)](https://www.ncsc.gov.uk/collection/caf/cyber-safety-introduction). The guidance provides the MoJ with 3 phases or layers of defence. These controls must be implemented to ensure the MoJ's network infrastructure is secure. This page is a directory to the three layers of defence, forming the Technical Security Controls Guide.
 
 ## Who is this guide for?
 
@@ -20,10 +20,12 @@ This guide has two audiences:
 
 2. Any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the MoJ.
 
-Within this guide the MoJ's 'systems' applies to:
+## What is an MoJ 'system'?
 
-* hardware - laptops, PCs, servers, mobile devices and any other IT equipment
-* software - such as operating system (OS) and applications
+Within this guide, a system includes:
+
+* hardware - laptops, desktop PCs, servers, mobile devices, network devices, and any other IT equipment.
+* software - such as operating system (OS) and applications (both web-based and locally installed).
 * services - such as remote databases or cloud-based tools like Slack.
 
 ## Related guides
