@@ -8,7 +8,7 @@ has made for the products we operate, and our relationships with suppliers.
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-## Background
+### Background
 
 *Government Functional Standard - GovS 007: Security* replaces the HMG Security Policy Framework (SPF) last published in May 2018. It also incorporates the *Minimum Cyber Security Standard (MCSS)* which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.
 
@@ -34,26 +34,25 @@ MoJ has developed their cyber and technical security taxonomy as follows:
 
 Documents have been developed and defined within this taxonomy, and are listed in the next section together with their suggested target audiences.
 
-## Document List
+### Document List
 
 | Level 1 | Level 2 | Documents | Target Audience |
 | --- | --- | --- | --- |
-| Cyber | | | |
-| | Asset Management | [General User Video and Messaging Apps Guidance](./policies/general-user-video-and-messaging-apps-guidance/) | All users |
+| Cyber | Asset Management | [General User Video and Messaging Apps Guidance](./policies/general-user-video-and-messaging-apps-guidance/) | All users |
 | | | [Guidance for using Open Internet Tools](./policies/guidance-for-using-open-internet-tools/) | All users |
+| | | [Security Guidance for Using a Personal Device](./policies/personal-devices/) | All users |
 | | | [Remote Working](./policies/remote-working/) | All users |
 | | Cryptography | [Cryptography](./standards/cryptography/) | Technical Architect, DevOps, IT Service Manager, Software Developer |
 | | Operational Security | [Malware Protection Guide (Overview)](./standards/malware-protection-guide-introduction/) | Technical Architect, DevOps, IT Service Manager, Software Developer |
 | | | [Malware Protection Guide: Defensive Layer 1](./standards/malware-protection-guidance-defensive-layer-1) | Technical Architect, DevOps, IT Service Manager, Software Developer |
 | | | [Malware Protection Guide: Defensive Layer 2](./standards/malware-protection-guidance-defensive-layer-2) | Technical Architect, DevOps, IT Service Manager, Software Developer |
 | | | [Malware Protection Guide: Defensive Layer 3](./standards/malware-protection-guidance-defensive-layer-3) | Technical Architect, DevOps, IT Service Manager, Software Developer |
-| | | [Security Guidance for Using a Personal Device](./policies/personal-devices/) | All users |
 | Technical | Principles | [Data Security & Privacy](./security_decisions/principles/data-security-and-privacy/) | All users |
 | | | [IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](./security_decisions/principles/identify-protect-detect-respond-recover/) | All users |
 | | | [Maintained by Default](./security_decisions/principles/maintained-by-default/) | Technical Architect, DevOps, IT Service Manager, Software Developer |
 | | | [Secure by Default](./security_decisions/principles/secure-by-default/) | Technical Architect, DevOps, IT Service Manager, Software Developer |
-| | | [Security Log Collection](./security_decisions/principles/security-log-collection/) | |
-| | | [Shared Responsibility Models](./security_decisions/principles/shared-responsibility-models/) | |
+| | | [Security Log Collection](./security_decisions/principles/security-log-collection/) | Technical Architect, DevOps, IT Service Manager, Software Developer |
+| | | [Shared Responsibility Models](./security_decisions/principles/shared-responsibility-models/) | Technical Architect, DevOps, IT Service Manager, Software Developer |
 
 <!--
 | Cyber | Access Control | [Access Control Guide](./policies/access-control-guide/) | Technical Architect, DevOps, IT Service Manager, Software Developer |
@@ -95,28 +94,6 @@ Documents have been developed and defined within this taxonomy, and are listed i
 
 -->
 
-## Suppliers to MOJ
-
-- [Assessing Suppliers](./security_decisions/suppliers/assessing-suppliers/)
-- [Contracts](./security_decisions/suppliers/contracts/)
-- Data Destruction
-  - [Data Destruction Instruction and Confirmation Letter](./security_decisions/suppliers/data-destruction-instruction-and-confirmation-letter/)
-  - [Data Destruction Contract Clauses - Definitions](./security_decisions/suppliers/data-destruction-contract-clauses-definitions/)
-  - [Data Destruction Contract Clauses - Short Format](./security_decisions/suppliers/data-destruction-contract-clauses-short-format/)
-  - [Data Destruction Contract Clauses - Long Format](./security_decisions/suppliers/data-destruction-contract-clauses-long-format/)
-  - [Data Destruction Contract Clauses - Long Format (Appendix)](./security_decisions/suppliers/data-destruction-contract-clauses-long-format-appendix/)
-- [Security Aspect Letters](./security_decisions/suppliers/security-aspect-letters/)
-- [Supplier Corporate IT](./security_decisions/suppliers/supplier-corporate-it/)
-
-## Mythbusting
-
-- [CJSM](./security_decisions/mythbusting/cjsm/)
-- [Data Sovereignty](./security_decisions/mythbusting/data-sovereignty/)
-- [Internet v. PSN](./security_decisions/mythbusting/internet-v-psn/)
-- [IP DNS Diagram Handling](./security_decisions/mythbusting/ip-dns-diagram-handling/)
-- [Multiple Back-to-back Consecutive Firewalls](./security_decisions/mythbusting/multiple-consecutive-back-to-back-firewalls/)
-- [`OFFICIAL` and `OFFICIAL-SENSITIVE`](./security_decisions/mythbusting/official-official-sensitive/)
-
 ## Standards
 
 ### Authentication, Authorisation & Accounting
@@ -127,7 +104,7 @@ Documents have been developed and defined within this taxonomy, and are listed i
 
 ### General standards
 
-- [Anti-malware](./standards/anti-malware/)
+<!-- - [Anti-malware](./standards/anti-malware/) -->
 - [Baseline for Amazon Web Services accounts](./standards/baseline-aws-accounts/)
 - [Data Destruction](./standards/data-destruction/)
 - [Data Security & Privacy](./standards/data-security-and-privacy)
@@ -169,7 +146,28 @@ Documents have been developed and defined within this taxonomy, and are listed i
 ### Product specific guides
 
 - [Using LastPass Enterprise](./guides/using-lastpass/)
- 
+
+## Suppliers to MOJ
+
+- [Assessing Suppliers](./security_decisions/suppliers/assessing-suppliers/)
+- [Contracts](./security_decisions/suppliers/contracts/)
+- Data Destruction
+  - [Data Destruction Instruction and Confirmation Letter](./security_decisions/suppliers/data-destruction-instruction-and-confirmation-letter/)
+  - [Data Destruction Contract Clauses - Definitions](./security_decisions/suppliers/data-destruction-contract-clauses-definitions/)
+  - [Data Destruction Contract Clauses - Short Format](./security_decisions/suppliers/data-destruction-contract-clauses-short-format/)
+  - [Data Destruction Contract Clauses - Long Format](./security_decisions/suppliers/data-destruction-contract-clauses-long-format/)
+  - [Data Destruction Contract Clauses - Long Format (Appendix)](./security_decisions/suppliers/data-destruction-contract-clauses-long-format-appendix/)
+- [Security Aspect Letters](./security_decisions/suppliers/security-aspect-letters/)
+- [Supplier Corporate IT](./security_decisions/suppliers/supplier-corporate-it/)
+
+## Mythbusting
+
+- [Criminal Justice Secure Mail (CJSM)](./security_decisions/mythbusting/cjsm/)
+- [Data Sovereignty](./security_decisions/mythbusting/data-sovereignty/)
+- [Internet v. PSN](./security_decisions/mythbusting/internet-v-psn/)
+- [IP DNS Diagram Handling](./security_decisions/mythbusting/ip-dns-diagram-handling/)
+- [Multiple Back-to-back Consecutive Firewalls](./security_decisions/mythbusting/multiple-consecutive-back-to-back-firewalls/)
+- [`OFFICIAL` and `OFFICIAL-SENSITIVE`](./security_decisions/mythbusting/official-official-sensitive/)
 
 ## Other Guidance
 
@@ -179,17 +177,13 @@ Documents have been developed and defined within this taxonomy, and are listed i
 
 There are other cyber and technical security guidance documents available to reference. A large number of these documents are available in the [IT and Computer Security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/) repository on the MoJ Intranet, but these documents are currently being reviewed and progressively are being incorporated into this main [Security Guidance](.) repository.
 
-### GitHub Library
+### Technical Guidance
 
-This library documents the security decisions that the MoJ has made for the products it operates, and its relationships with suppliers.
+The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) should be read together with this security-focused guidance.
 
 <!-- ## References
 
 ![](https://github.com/ministryofjustice/security-guidance/blob/Local/images/GovS_007_Thumbnail.png) Government Functional Standard - GovS 007: Security -->
-
-## Technical Guidance
-
-The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) should be read together with this security-focused guidance.
 
 ## Getting in touch
 
