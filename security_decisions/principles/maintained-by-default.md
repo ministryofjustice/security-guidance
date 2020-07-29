@@ -7,7 +7,7 @@ expires: 2019-07-01
 
 We believe that technology should be Maintained by Default, particularly in relation to security.
 
-h/t https://www.ncsc.gov.uk/articles/secure-default
+h/t <https://www.ncsc.gov.uk/articles/secure-default>
 
 ## Good technical maintenance is security maintenance
 
