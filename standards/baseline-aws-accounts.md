@@ -101,4 +101,4 @@ What must be in place | Monitoring | Resolution/Escalation if baseline is broken
 
 ## Implementation
 
-Various [AWS account baseline templates](https://github.com/ministryofjustice/cloud-platform-infrastructure/tree/master/cloudformation/aws-account-baseline-templates) have been developed and published for use.
+Various [AWS account baseline templates](https://github.com/ministryofjustice/cloud-platform-infrastructure/tree/main/cloudformation/aws-account-baseline-templates) have been developed and published for use.
