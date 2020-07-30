@@ -64,7 +64,7 @@ Documents have been developed and defined within this taxonomy, and are listed i
 | | | JML process | |
 | | | [Managing User Access Guide](./policies/managing-user-access-guide/) | |
 | | | [Minimum User Clearance Levels Guide](./policies/minimum-user-clearance-requirements-guide/)] | |
-| | | [Multi-Factor Authentication](./policies/multi-Factor-authentication-mfa-guide/) | |
+| | | [Multi-Factor Authentication](./policies/multi-factor-authentication-mfa-guide/) | |
 | | | [Multi-user Accounts and Public-Facing Service Accounts Guide](./policies/multi-user-accounts-and-public-facing-service-accounts-guide/) | |
 | | | [Password Changes, Account Locks and Disabling Accounts Guide](./policies/password-changes-account-locks-and-disabling-accounts-guide/) | |
 | | | [Password Creation and Authentication Guide](./policies/password-creation-and-authentication-guide/) | |
