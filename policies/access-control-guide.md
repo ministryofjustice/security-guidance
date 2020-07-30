@@ -4,7 +4,7 @@ Owner: CISO
 Target audience: Technical Architects, DevOps, Service Owners, Software Developers
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..)
 
 # Access Control guide
 
@@ -23,11 +23,11 @@ This guide is aimed at two audiences:
 
 Further guidance on how to manage user access can be found in the guides below.
 
-- [Privileged Accounts](privileged-account-management-guide.md).
-- [Management Access](managing-user-access-guide.md).
-- Joiners, Movers, Leavers Process (currently in development).
-- [Minimum User Clearance Requirements](minimum-user-clearance-requirements-guide.md).
-- [Multi-Factor Authentication (MFA)](multi-Factor-authentication-mfa-guide.md).
+- [Privileged Accounts](../privileged-account-management-guide/).
+- [Management Access](../managing-user-access-guide/).
+<!-- - Joiners, Movers, Leavers Process (currently in development). -->
+- [Minimum User Clearance Requirements](../minimum-user-clearance-requirements-guide/).
+- [Multi-Factor Authentication (MFA)](../multi-Factor-authentication-mfa-guide/).
 
 ## Information security principles for access control
 
@@ -48,9 +48,9 @@ Effective access control should be implemented by following these four principle
 <ul><li>something they know (such as a password - the primary authentication method used at the MoJ)</li>
 <li>something they have (such as a smart card)</li>
 <li>something they are (biometric authentication such as a fingerprint, voice recognition, iris scan and others)</li></ul>
-Systems holding sensitive information, or systems that are mission critical to the MoJ, must use Multi-Factor Authentication (MFA) to prove user identity. See the <a href="multi-Factor-authentication-mfa-guide.md">Multi-Factor Authentication Guide</a> and <a href="password-management-guide.md">Password Management Guide</a> for further information. If you wish to use an additional method of authentication you should review the National Cyber Security Center's (NCSC) guidance and contact the Cyber Assistance Team (CAT). For information on authentication methods including OAuth, refer to the <A href="managing-user-access-guide.md">Managing User Access Guide</a>.</li>
+Systems holding sensitive information, or systems that are mission critical to the MoJ, must use Multi-Factor Authentication (MFA) to prove user identity. See the <a href="../multi-Factor-authentication-mfa-guide/">Multi-Factor Authentication Guide</a> and <a href="../../standards/password-managers/">Password Management Guide</a> for further information. If you wish to use an additional method of authentication you should review the National Cyber Security Center's (NCSC) guidance and contact the Cyber Assistance Team (CAT). For information on authentication methods including OAuth, refer to the <A href="managing-user-access-guide.md">Managing User Access Guide</a>.</li>
 <li><b>Authorisation:</b> Authorisation is the function of specifying access rights/privileges and resources to users, which should be granted in line with the principle of least privilege. Reducing access privileges reduces the "attack surface" of IT systems. This helps to prevent malware and hackers from moving laterally across the network if they compromise a user account.</li>
-<li><a id="accounting"><b>Accounting:</b></a> Successful and unsuccessful attempts to access systems, and user activities conducted while using systems must be recorded in logs. Please see the <a href="../security_decisions/standards/security-log-collection-maturity-tiers.md">Security Log Collection Guide</a> for more information. This will help to attribute security events or suspicious activities to users who can be supported to improve their behaviours or held accountable for their actions.</li>
+<li><a id="accounting"><b>Accounting:</b></a> Successful and unsuccessful attempts to access systems, and user activities conducted while using systems must be recorded in logs. Please see the <a href="../../standards/security-log-collection-maturity-tiers/">Security Log Collection Guide</a> for more information. This will help to attribute security events or suspicious activities to users who can be supported to improve their behaviours or held accountable for their actions.</li>
 </ol>
 
 Consider the following points when creating activity logs.
@@ -64,10 +64,10 @@ Logs should be:
 
 Logs should not be:
 
-- retained for longer than 2 years unless otherwise stipulated. Retention rules may vary on a case by case basis so check with the Data Privacy Team, the Cyber Assistance team, and the MoJ Data Protection Officer if a Log involves personal information. See the [Accounting Guide](../security_decisions/standards/accounting.md) for further information.
+- retained for longer than 2 years unless otherwise stipulated. Retention rules may vary on a case by case basis so check with the Data Privacy Team, the Cyber Assistance team, and the MoJ Data Protection Officer if a Log involves personal information. See the [Accounting Guide](../../standards/accounting/) for further information.
 - tampered with under any circumstances, for example through modification or removal.
 
-See the [Security Log Collection Guide](../security_decisions/standards/security-log-collection-maturity-tiers.md) for more information.
+See the [Security Log Collection Guide](../../standards/security-log-collection-maturity-tiers/) for more information.
 
 ## Segregation of duties
 

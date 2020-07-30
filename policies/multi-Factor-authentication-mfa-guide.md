@@ -4,13 +4,13 @@ Owner: CISO
 Target audience:
 ---
 
-[Home > Cyber and Technical Security](home-security-policies-guides.md)
+[Home > Cyber and Technical Security](../..)
 
-# Multi-factor Authentication (MFA) Guide
+# Multi-Factor Authentication (MFA) Guide
 
 ## Introduction
 
-This Multi-Factor Authentication (MFA) guide explains how MFA can be used to ensure that users are only granted access to MoJ information once their identity is confirmed. This is a sub-page to the [Access Control Guide](access-control-guide.md).
+This Multi-Factor Authentication (MFA) guide explains how MFA can be used to ensure that users are only granted access to MoJ information once their identity is confirmed. This is a sub-page to the [Access Control Guide](../access-control-guide/).
 
 ## MFA
 
@@ -20,13 +20,13 @@ Users should have their identity authenticated through the following methods:
 * something they have (such as a mobile phone or smart card), and/or
 * something they are (biometric authentication such as a fingerprint).
 
-MFA can be used as a possession-based factor for authentication (something I have). MFA is sometimes referred to as Two-Factor Authentication (2FA) if it involves a second form of authentication or 3/4/5 Factor Authentication if it includes additional authentication requirements. Different methods of secondary authentication identify users with varying degrees of accuracy.  Care should be taken to ensure true MFA, for instance password and security questions are both 'something they know' and hence are just one factor of authentication.
+MFA can be used as a possession-based factor for authentication, by checking for something 'you have'. MFA is sometimes referred to as Two-Factor Authentication (2FA) if it involves a second form of authentication. MFA is referred to as 3, 4, or 5 Factor Authentication if it includes additional authentication requirements. Different methods of additional authentication identify users with varying degrees of accuracy.  Care should be taken to ensure true MFA. For example, password and security questions are both dependent 'something the user knows' and therefore are just one factor of authentication.
 
-The list below identifies the MoJ’s preference for MFA methods, with 1 ranked the highest. These can be used for 2/3/4/5 Factor Authentication as required.
+The list below identifies the MoJ’s preference for MFA methods, with 1 ranked the highest. These methods can be used for 2, 3, 4, or 5 Factor Authentication as required.
 
 Note:
 
-* MFA Type 1 may not be suitable for all systems so other methods of delivering MFA should be considered as these still provide additional protections beyond single sign on.
+* MFA Type 1 may not be suitable for all systems. In that case, other methods of delivering MFA should be considered to provide additional protection beyond single sign on.
 * MFA types 5 and 8 should only be used when no other MFA method is appropriate as these methods can be easily spoofed or circumvented.
 
 | Preference | Type |
@@ -38,9 +38,9 @@ Note:
 | 5. | Certificate-based (a digital certificate used to authenticate a user) |
 | 6. | Email-based (a one-time code/link sent to the registered on-file email address) |
 | 7. | SMS-based (a one-time code sent via SMS) |
-| 8. | Phone-call based (a phone call providing a one-time code or password)
+| 8. | Phone-call based (a phone call providing a one-time code or password) |
 
-The MoJ Password Guide provides more information on the use of MFA. See the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) for further information.
+The [MoJ Password Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/passwords/) provides more information on the use of MFA. <!-- See the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) for further information. -->
 
 ## Contact details
 
