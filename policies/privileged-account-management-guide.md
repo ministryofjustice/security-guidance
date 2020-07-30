@@ -36,7 +36,7 @@ Privileged accounts should be protected with the following controls.
 | --- |
 | ✖ Allow privileged users to use their privileged accounts for high-risk functions. These include reading emails, web browsing, using an ‘administrator’ login on an end-user device (such as a mobile device), or logging into a server as 'root'. |
 | ✖ Leave default/factory set passwords for any accounts but particularly for privileged system accounts, social media accounts and infrastructure. |
-| ✖ Allow a user to have a privileged account, unless they are a service provider and require a privileged account for that specific service. |
+| ✖ Allow a user to have a privileged account unless they have a business need, or are a service provider and require a privileged account for that specific service.
 
 Further details of privileged user responsibilities can be found in the [Privileged User Guide](privileged-user-guide.md).
 
