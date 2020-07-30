@@ -5,7 +5,7 @@ Review: 2020-09-01
 
 # Security Log Collection
 
-MOJ systems and services must adequately create and retain event data as part of the [DETECT](https://ministryofjustice.github.io/security-guidance/principles/identify-protect-detect-respond-recover/#detect) portion of the [Cabinet Office's Minimum Cyber Security Standard (MCSS)](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard).
+MOJ systems and services must adequately create and retain event data as part of the [DETECT](../identify-protect-detect-respond-recover/#detect) portion of the [Cabinet Office's Minimum Cyber Security Standard (MCSS)](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard).
 
 ## MOJ Cyber Security Logging Platform
 
