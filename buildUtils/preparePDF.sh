@@ -14,7 +14,7 @@ index.md
 policies/access-control-guide.md
 policies/managing-user-access-guide.md
 policies/minimum-user-clearance-requirements-guide.md
-policies/multi-Factor-authentication-mfa-guide.md
+policies/multi-factor-authentication-mfa-guide.md
 policies/privileged-account-management-guide.md
 policies/general-user-video-and-messaging-apps-guidance.md
 policies/guidance-for-using-open-internet-tools.md

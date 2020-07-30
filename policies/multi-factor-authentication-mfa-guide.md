@@ -32,9 +32,9 @@ Note:
 | Preference | Type |
 | --- | --- |
 | 1. | Hardware-based (for example, Yubikeys or TPM enabled devices) |
-| 2. | Software-based (for example, Google Prompt on a mobile device) |
+| 2. | Software-based (for example, [Google Prompt](https://support.google.com/accounts/answer/6361026?co=GENIE.Platform%3DAndroid&hl=en) on a mobile device) |
 | 3. | Time-based One Time Password (TOTP)-based (the code is held by a dedicated app such as Google Authenticator on a mobile device) |
-| 4. | TOTP-based (the code is held within a multi-purpose app, for example, a password manager app that also holds other factor information) |
+| 4. | [TOTP](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm)-based (the code is held within a multi-purpose app, for example, a password manager app that also holds other factor information) |
 | 5. | Certificate-based (a digital certificate used to authenticate a user) |
 | 6. | Email-based (a one-time code/link sent to the registered on-file email address) |
 | 7. | SMS-based (a one-time code sent via SMS) |

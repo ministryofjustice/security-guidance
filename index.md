@@ -41,7 +41,7 @@ Documents have been developed and defined within this taxonomy, and are listed i
 | Cyber | Access Control | [Access Control Guide](./policies/access-control-guide/) | Technical Architect, DevOps, IT Service Manager, Software Developer |
 | | | [Managing User Access Guide](./policies/managing-user-access-guide/) | Technical Architect, DevOps, IT Service Manager, Software Developer |
 | | | [Minimum User Clearance Levels Guide](./policies/minimum-user-clearance-requirements-guide/) | All users |
-| | | [Multi-Factor Authentication](./policies/multi-Factor-authentication-mfa-guide/) | Technical Architect, DevOps, IT Service Manager, Software Developer |
+| | | [Multi-Factor Authentication](./policies/multi-factor-authentication-mfa-guide/) | Technical Architect, DevOps, IT Service Manager, Software Developer |
 | | | [Privileged Account Management Guide](./policies/privileged-account-management-guide/) | Technical Architect, DevOps, IT Service Manager, Software Developer |
 | | Asset Management | [General User Video and Messaging Apps Guidance](./policies/general-user-video-and-messaging-apps-guidance/) | All users |
 | | | [Guidance for using Open Internet Tools](./policies/guidance-for-using-open-internet-tools/) | All users |

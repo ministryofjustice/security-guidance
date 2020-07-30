@@ -27,7 +27,7 @@ Further guidance on how to manage user access can be found in the guides below.
 - [Management Access](../managing-user-access-guide/).
 <!-- - Joiners, Movers, Leavers Process (currently in development). -->
 - [Minimum User Clearance Requirements](../minimum-user-clearance-requirements-guide/).
-- [Multi-Factor Authentication (MFA)](../multi-Factor-authentication-mfa-guide/).
+- [Multi-Factor Authentication (MFA)](../multi-factor-authentication-mfa-guide/).
 
 ## Information security principles for access control
 
