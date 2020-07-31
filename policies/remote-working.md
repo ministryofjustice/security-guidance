@@ -130,20 +130,20 @@ _Note: The previous `itservicedesk@justice.gov.uk`email address is no longer bei
 ### Cyber Security Advice
 
 **Cyber Consultants & Risk Advisors**
-- Email: [security@digital.justice.gov.uk](security@digital.justice.gov.uk)
+- Email: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)
 - Slack: `#security`
 
 ### Historic paper files urgently required by ministers, courts, or Public Inquiries
 
 **MoJ HQ staff**
-- Email: [Records_Retention_@justice.gov.uk](Records_Retention_@justice.gov.uk)
+- Email: [Records_Retention_@justice.gov.uk](mailto:Records_Retention_@justice.gov.uk)
 
 **HMCTS and HMPPS staff**
-- Email: [BranstonRegistryRequests2@justice.gov.uk](BranstonRegistryRequests2@justice.gov.uk)
+- Email: [BranstonRegistryRequests2@justice.gov.uk](mailto:BranstonRegistryRequests2@justice.gov.uk)
 
 ### JustStore
 
-- Email: [KIM@justice.gov.uk](KIM@justice.gov.uk)
+- Email: [KIM@justice.gov.uk](mailto:KIM@justice.gov.uk)
 
 **If unsure, contact your Line Manager.**
 
