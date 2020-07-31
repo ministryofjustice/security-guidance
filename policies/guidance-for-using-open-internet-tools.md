@@ -141,13 +141,13 @@ OITs are often intuitive and reliable. But that doesn't mean they are always ava
 
 Check the OIT usage agreement to find out more about the service and support available.
 
-<b>Note: The MOJ cannot provide technical support for OITs.</b>
+**Note: The MOJ cannot provide technical support for OITs.**
 
 ## Common OITs
 
 There are already many OITs used across the MOJ. Permission to use an OIT might vary, depending on where you work in the MOJ. For example, some teams must not access or use some OITs, for security or operational reasons.
 
-<b>Note: Check with your Line Manager if you want to use an OIT for your work, _before_ you use it.</b>
+**Note: Check with your Line Manager if you want to use an OIT for your work, *before* you use it.**
 
 <!--
 A current list of OITs, and their status, is available [here][oitlist].

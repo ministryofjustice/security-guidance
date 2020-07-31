@@ -12,7 +12,7 @@ Any access to any data **must** employ adequate authentication techniques to ide
 
 Where appropriate, passwords should be used as a knowledge-based factor for authentication.
 
-MOJ has published the [MOJ Password Standard](https://github.com/ministryofjustice/itpolicycontent/blob/master/content/security/framework/password-standard.md) and accompanying [password guidance](https://github.com/ministryofjustice/itpolicycontent/blob/master/content/security/framework/password-guidance.md).
+MOJ has published the [MOJ Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/).
 
 ## Named individual accounts
 
@@ -37,27 +37,15 @@ System-system accounts must be protected against human intervention.
 
 Token-based methods are preferred over static private key methods.
 
-## Multi-factor Authentication
+## Multi-Factor Authentication
 
 Where appropriate, multi-factor authentication (MFA) should be used as a knowledge-based factor for authentication.MFA is sometimes referred to as Two-Factor Authentication (2FA).
 
-The MOJ published [MOJ Password Standard](https://github.com/ministryofjustice/itpolicycontent/blob/master/content/security/framework/password-standard.md) and accompanying [password guidance](https://github.com/ministryofjustice/itpolicycontent/blob/master/content/security/framework/password-guidance.md) discuss MFA in more detail.
-
-### MFA is better than no MFA
-
-The MOJ has an order of preference for MFA.
-
-1. Hardware-based (for example,  Yubikeys)
-2. Software-based (for example, [Google Prompt](https://support.google.com/accounts/answer/6361026?co=GENIE.Platform%3DAndroid&hl=en) on a mobile device)
-3. [TOTP](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm)-based (the code is held by a dedicated app such as Google Authenticator on a mobile device)
-4. TOTP-based (the code is held within a multi-purpose app, for example, a password manager app that also holds other factor information)
-5. SMS-based (a one-time code sent via SMS)
-6. Email-based (a one-time code/link sent to the registered on-file email address)
-7. No MFA at all
+MoJ guidance on MFA is available [here](../../policies/multi-factor-authentication-mfa-guide/).
 
 ### MFA for Administrators
 
-Administrative accounts **must** always have MFA (unless impractical to do so, types 1 to 4 from the list above are strongly preferred) and have techniques in-place to ensure it is always enabled and active for each account.
+Administrative accounts **must** always have MFA, unless impractical to do so. Ensure there are techniques in-place such that MFA is always enabled and active for each account.
 
 ### MFA for important or privileged actions
 

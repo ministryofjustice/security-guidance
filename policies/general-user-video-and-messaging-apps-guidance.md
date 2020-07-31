@@ -19,13 +19,7 @@ This guidance applies to all staff and contractors who work for the MOJ.
 Some ALBs, Agencies, or other large groups within the MOJ might have their own,
 specific guidance regarding how to use certain Video and Messaging apps for different purposes.
 
-### `OFFICIAL` and `OFFICIAL-SENSITIVE` Information
-
-`OFFICIAL` information is the majority of information that is created or processed by the public sector. This includes routine business operations and services, some of which could have damaging consequences if lost, stolen or published in the media, but are not subject to a heightened threat profile.
-
-`OFFICIAL-SENSITIVE` is not a classification. 'SENSITIVE' is a handling caveat for a small subset of information marked `OFFICIAL` that requires special handling by staff. You should apply the handling caveat where you wish to advise how to look after access to that information, whether in a document, email etc.
-
-### Access to tools
+## Access to tools
 
 You can access tools that are provided through your MOJ provided devices by downloading from:
 
@@ -189,7 +183,7 @@ If you wish to use a tool that is not listed above, please consult our [Guidance
 
 ## Requesting that a tool be approved for use
 
-Refer to the [Guidance for using Open Internet Tools (to access this guide you'll need to be connected to the MOJ Intranet)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/guidance-for-using-open-internet-tools/) for the process to follow when wanting to add a new tool to the list.
+Refer to the [Guidance for using Open Internet Tools](../guidance-for-using-open-internet-tools/) for the process to follow when wanting to add a new tool to the list.
 
 ## Other information
 
@@ -211,4 +205,4 @@ Refer to the [Guidance for using Open Internet Tools](../guidance-for-using-open
 
 ---
 
-Last updated: April 16th, 2020
+Last updated: April 22nd, 2020.

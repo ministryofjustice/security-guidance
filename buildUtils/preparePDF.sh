@@ -6,11 +6,16 @@ fullset=""
 while IFS= read -r line; do
 	echo "Processing file: $line"
 	cp --parents $line $tmpFolder
-	awk 'BEGIN { lineCount=1 } { if (NR==1) { if (/^---/) next; else { print $0; lineCount=0; } } else if (lineCount==0) { print $0; } else { if (/---/) lineCount=0; next; } }' $line > "$tmpFolder/$line"
+	awk 'BEGIN { lineCount=1 } { if (NR==1) { if (/^---/) next; else { gsub(/✔/, "+"); gsub(/✖/, "-"); print $0; lineCount=0; } } else if (lineCount==0) { gsub(/✔/, "+"); gsub(/✖/, "-"); print $0; } else { if (/---/) lineCount=0; next; } }' $line > "$tmpFolder/$line"
 
 	fullset="$fullset $tmpFolder/$line "
 done << LAST_LINE
 index.md
+policies/access-control-guide.md
+policies/managing-user-access-guide.md
+policies/minimum-user-clearance-requirements-guide.md
+policies/multi-factor-authentication-mfa-guide.md
+policies/privileged-account-management-guide.md
 policies/general-user-video-and-messaging-apps-guidance.md
 policies/guidance-for-using-open-internet-tools.md
 policies/personal-devices.md

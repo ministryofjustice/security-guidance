@@ -38,7 +38,12 @@ Documents have been developed and defined within this taxonomy, and are listed i
 
 | Level 1 | Level 2 | Documents | Target Audience |
 | --- | --- | --- | --- |
-| Cyber | Asset Management | [General User Video and Messaging Apps Guidance](./policies/general-user-video-and-messaging-apps-guidance/) | All users |
+| Cyber | Access Control | [Access Control Guide](./policies/access-control-guide/) | Technical Architect, DevOps, IT Service Manager, Software Developer |
+| | | [Managing User Access Guide](./policies/managing-user-access-guide/) | Technical Architect, DevOps, IT Service Manager, Software Developer |
+| | | [Minimum User Clearance Levels Guide](./policies/minimum-user-clearance-requirements-guide/) | All users |
+| | | [Multi-Factor Authentication](./policies/multi-factor-authentication-mfa-guide/) | Technical Architect, DevOps, IT Service Manager, Software Developer |
+| | | [Privileged Account Management Guide](./policies/privileged-account-management-guide/) | Technical Architect, DevOps, IT Service Manager, Software Developer |
+| | Asset Management | [General User Video and Messaging Apps Guidance](./policies/general-user-video-and-messaging-apps-guidance/) | All users |
 | | | [Guidance for using Open Internet Tools](./policies/guidance-for-using-open-internet-tools/) | All users |
 | | | [Security Guidance for Using a Personal Device](./policies/personal-devices/) | All users |
 | | | [Remote Working](./policies/remote-working/) | All users |
@@ -59,7 +64,7 @@ Documents have been developed and defined within this taxonomy, and are listed i
 | | | JML process | |
 | | | [Managing User Access Guide](./policies/managing-user-access-guide/) | |
 | | | [Minimum User Clearance Levels Guide](./policies/minimum-user-clearance-requirements-guide/)] | |
-| | | [Multi-Factor Authentication](./policies/multi-Factor-authentication-mfa-guide/) | |
+| | | [Multi-Factor Authentication](./policies/multi-factor-authentication-mfa-guide/) | |
 | | | [Multi-user Accounts and Public-Facing Service Accounts Guide](./policies/multi-user-accounts-and-public-facing-service-accounts-guide/) | |
 | | | [Password Changes, Account Locks and Disabling Accounts Guide](./policies/password-changes-account-locks-and-disabling-accounts-guide/) | |
 | | | [Password Creation and Authentication Guide](./policies/password-creation-and-authentication-guide/) | |
