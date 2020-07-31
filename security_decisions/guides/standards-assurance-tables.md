@@ -30,7 +30,7 @@ Evidence is analysed to determine confidence that the evidence demonstrates the 
 
 The MCSS/CSPs have been distilled into 39 objectives. The Assessor (normally a cyber security professional) completes the SAT by evaluating the target system against the objectives.
 
-The [categories used within the MCSS](../../security-decisions/principles/identify-protect-detect-respond-recover/) are discussed seperately.
+The [categories used within the MCSS](../../security_decisions/principles/identify-protect-detect-respond-recover/) are discussed seperately.
 
 Objectives are templated. This means they can be added to but existing objectives must not be deleted or edit in-place.
 
@@ -72,7 +72,7 @@ The data point is currently a unique number to assist with future automated anal
 
 Teams/individuals responsible for the design, creation, implementation, support and maintenance of systems should have viable written evidence (regardless of format) that should be made available to various teams on request, for example, security or to internal audit.
 
-Using the [categories used within the MCSS](../../security-decisions/principles/identify-protect-detect-respond-recover/) as a basis, some indicative questions and documentation expectations are discussed below.
+Using the [categories used within the MCSS](../../security_decisions/principles/identify-protect-detect-respond-recover/) as a basis, some indicative questions and documentation expectations are discussed below.
 
 ### IDENTIFY
 
