@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="cyber-and-technical-security-guidance">
+  <title>Cyber and Technical Security Guidance</title>
+  <body/>
+  <topic id="summary">
+    <title>Summary</title>
+    <body>
+      <p>This site documents some of the security decisions that the
+<xref href="https://www.gov.uk/government/organisations/ministry-of-justice" format="html" scope="external">Ministry of Justice (MoJ)</xref>
+has made for the products we operate, and our relationships with suppliers.</p>
+      <p>The MoJ <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> covers technical decisions in the MoJ more widely.</p>
+    </body>
+    <topic id="background">
+      <title>Background</title>
+      <body>
+        <p><i>Government Functional Standard - GovS 007: Security</i> replaces the HMG Security Policy Framework (SPF) last published in May 2018. It also incorporates the <i>Minimum Cyber Security Standard (MCSS)</i> which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.</p>
+        <p>Sections 6.12 Cyber security and 6.13 Technical security of the standard state:</p>
+        <lq>
+          <ul>
+            <li>
+              <p>The security of information and data is essential to good government and public confidence. To operate effectively, HMG needs to maintain the confidentiality, integrity and availability of its information, systems and infrastructure, and the services it provides. Any organisation that handles government information shall meet the standards expected of HM Government.</p>
+            </li>
+            <li>
+              <p>Technical security relates to the protection of security systems from compromise and/or external interference that may have occurred as a result of an attack.</p>
+            </li>
+          </ul>
+        </lq>
+      </body>
+    </topic>
+  </topic>
+  <topic id="taxonomy">
+    <title>Taxonomy</title>
+    <body>
+      <p>MoJ has developed their cyber and technical security taxonomy as follows:</p>
+      <table>
+        <tgroup cols="2">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <thead>
+            <row>
+              <entry colname="col1">Level 1</entry>
+              <entry colname="col2">Level 2</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">Cyber</entry>
+              <entry colname="col2">Access Control</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2">Asset Management</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2">Cryptography</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2">Operational Security</entry>
+            </row>
+            <row>
+              <entry colname="col1">Technical</entry>
+              <entry colname="col2">Principles</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2">Data and Information</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2">Incident Management</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2">Software Development</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>Documents have been developed and defined within this taxonomy, and are listed in the next section together with their suggested target audiences.</p>
+    </body>
+    <topic id="document-list">
+      <title>Document List</title>
+      <body>
+        <table>
+          <tgroup cols="4">
+            <colspec colname="col1" colnum="1"/>
+            <colspec colname="col2" colnum="2"/>
+            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col4" colnum="4"/>
+            <thead>
+              <row>
+                <entry colname="col1">Level 1</entry>
+                <entry colname="col2">Level 2</entry>
+                <entry colname="col3">Documents</entry>
+                <entry colname="col4">Target Audience</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">Cyber</entry>
+                <entry colname="col2">Access Control</entry>
+                <entry colname="col3">
+                  <xref href="access-control-guide.dita" type="topic">Access Control Guide</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="managing-user-access-guide.dita">Managing User Access Guide</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="minimum-user-clearance-requirements-guide.dita">Minimum User Clearance Levels Guide</xref>
+                </entry>
+                <entry colname="col4">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="multi-factor-authentication-mfa-guide.dita" type="topic">Multi-Factor Authentication</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="privileged-account-management-guide.dita" type="topic">Privileged Account Management Guide</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2">Asset Management</entry>
+                <entry colname="col3">
+                  <xref href="general-user-video-and-messaging-apps-guidance.dita" type="topic">General User Video and Messaging Apps Guidance</xref>
+                </entry>
+                <entry colname="col4">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="guidance-for-using-open-internet-tools.dita" type="topic">Guidance for using Open Internet Tools</xref>
+                </entry>
+                <entry colname="col4">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="personal-devices.dita">Security Guidance for Using a Personal Device</xref>
+                </entry>
+                <entry colname="col4">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="remote-working.dita">Remote Working</xref>
+                </entry>
+                <entry colname="col4">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2">Cryptography</entry>
+                <entry colname="col3">
+                  <xref href="cryptography.dita" type="topic">Cryptography</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2">Operational Security</entry>
+                <entry colname="col3">
+                  <xref href="malware-protection-guide-introduction.dita">Malware Protection Guide (Overview)</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="malware-protection-guidance-defensive-layer-1.dita">Malware Protection Guide: Defensive Layer 1</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="malware-protection-guidance-defensive-layer-2.dita">Malware Protection Guide: Defensive Layer 2</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="malware-protection-guidance-defensive-layer-3.dita">Malware Protection Guide: Defensive Layer 3</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1">Technical</entry>
+                <entry colname="col2">Principles</entry>
+                <entry colname="col3">
+                  <xref href="data-security-and-privacy" format="html">Data Security &amp; Privacy</xref>
+                </entry>
+                <entry colname="col4">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="identify-protect-detect-respond-recover.dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref>
+                </entry>
+                <entry colname="col4">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="maintained-by-default.dita">Maintained by Default</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="secure-by-default.dita">Secure by Default</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="security-log-collection.dita">Security Log Collection</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="shared-responsibility-models.dita">Shared Responsibility Models</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </body>
+    </topic>
+  </topic>
+  <topic id="standards">
+    <title>Standards</title>
+    <body/>
+    <topic id="authentication-authorisation--accounting">
+      <title>Authentication, Authorisation &amp; Accounting</title>
+      <body>
+        <ul>
+          <li>
+            <p>
+              <xref href="accounting.dita" type="topic">Accounting</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="authentication.dita" type="topic">Authentication</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="authorisation.dita" type="topic">Authorisation</xref>
+            </p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="general-standards">
+      <title>General standards</title>
+      <body>
+        <ul>
+          <li>
+            <p>
+              <xref href="baseline-aws-accounts.dita">Baseline for Amazon Web Services accounts</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="data-destruction.dita">Data Destruction</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="data-security-and-privacy.dita">Data Security &amp; Privacy</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="management-access.dita">Management access</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="networks-bearers-not-trust.dita">Networks are just bearers</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="password-managers.dita" type="topic">Password Managers</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="secrets-management.dita">Secrets management</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="vulnerability-scanning.dita">Vulnerability scanning</xref>
+            </p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="security-log-collection">
+      <title>Security Log Collection</title>
+      <body>
+        <ul>
+          <li>
+            <p>
+              <xref href="cots-applications.dita">Commercial off-the-shelf applications</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="custom-applications.dita">Custom Applications</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="enterprise-it-infrastructure.dita">Enterprise IT - Infrastructure</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="enterprise-it-mobile-devices.dita">Enterprise IT - Mobile Devices</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="hosting-platforms.dita">Hosting Platforms</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="log-entry-metadata.dita">Log entry metadata</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="security-log-collection-maturity-tiers.dita">Security Log Collection Maturity Tiers</xref>
+            </p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+  </topic>
+  <topic id="guides">
+    <title>Guides</title>
+    <body/>
+    <topic id="general-guides">
+      <title>General guides</title>
+      <body>
+        <ul>
+          <li>
+            <p>
+              <xref href="automated-certificate-renewal.dita" type="topic">Automated certificate renewal</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="data-security-and-privacy-lifecycle.dita">Data Security &amp; Privacy Lifecycle Expectations</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="data-security-and-privacy-triage-standards.dita">Data Security &amp; Privacy Triage Standards</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="defensive-domain-registration.dita">Defensive domain registrations</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="online-indentifiers.dita">Online identifiers in security logging &amp; monitoring</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="personnel-security-clearances.dita">Personnel security clearances</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="standards-assurance-tables.dita">Standards Assurance Tables</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="user-guide.dita">Cyber Security Consultancy Team: asking for help</xref>
+            </p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="active-cyber-defence">
+      <title>Active Cyber Defence</title>
+      <body>
+        <ul>
+          <li>
+            <p>
+              <xref href="mail-check.dita">Mail Check</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="public-sector-dns.dita">Public Sector DNS</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="web-check.dita">Web Check</xref>
+            </p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="product-specific-guides">
+      <title>Product specific guides</title>
+      <body>
+        <ul>
+          <li>
+            <p>
+              <xref href="using-lastpass.dita">Using LastPass Enterprise</xref>
+            </p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+  </topic>
+  <topic id="suppliers-to-moj">
+    <title>Suppliers to MOJ</title>
+    <body>
+      <ul>
+        <li>
+          <p>
+            <xref href="assessing-suppliers.dita" type="topic">Assessing Suppliers</xref>
+          </p>
+        </li>
+        <li>
+          <p>
+            <xref href="contracts.dita" type="topic">Contracts</xref>
+          </p>
+        </li>
+        <li>
+          <p>Data Destruction</p>
+          <ul>
+            <li>
+              <p>
+                <xref href="data-destruction-instruction-and-confirmation-letter.dita">Data Destruction Instruction and Confirmation Letter</xref>
+              </p>
+            </li>
+            <li>
+              <p>
+                <xref href="data-destruction-contract-clauses-definitions.dita">Data Destruction Contract Clauses - Definitions</xref>
+              </p>
+            </li>
+            <li>
+              <p>
+                <xref href="data-destruction-contract-clauses-short-format.dita">Data Destruction Contract Clauses - Short Format</xref>
+              </p>
+            </li>
+            <li>
+              <p>
+                <xref href="data-destruction-contract-clauses-long-format.dita">Data Destruction Contract Clauses - Long Format</xref>
+              </p>
+            </li>
+            <li>
+              <p>
+                <xref href="data-destruction-contract-clauses-long-format-appendix.dita">Data Destruction Contract Clauses - Long Format (Appendix)</xref>
+              </p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <xref href="security-aspect-letters.dita" type="topic">Security Aspect Letters</xref>
+          </p>
+        </li>
+        <li>
+          <p>
+            <xref href="supplier-corporate-it.dita">Supplier Corporate IT</xref>
+          </p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="mythbusting">
+    <title>Mythbusting</title>
+    <body>
+      <ul>
+        <li>
+          <p>
+            <xref href="cjsm.dita" type="topic">Criminal Justice Secure Mail (CJSM)</xref>
+          </p>
+        </li>
+        <li>
+          <p>
+            <xref href="data-sovereignty.dita">Data Sovereignty</xref>
+          </p>
+        </li>
+        <li>
+          <p>
+            <xref href="internet-v-psn.dita">Internet v. PSN</xref>
+          </p>
+        </li>
+        <li>
+          <p>
+            <xref href="ip-dns-diagram-handling.dita">IP DNS Diagram Handling</xref>
+          </p>
+        </li>
+        <li>
+          <p>
+            <xref href="multiple-consecutive-back-to-back-firewalls.dita">Multiple Back-to-back Consecutive Firewalls</xref>
+          </p>
+        </li>
+        <li>
+          <p>
+            <xref href="official-official-sensitive.dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref>
+          </p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="other-guidance">
+    <title>Other Guidance</title>
+    <body/>
+    <topic id="intranet">
+      <title>Intranet</title>
+      <body>
+        <p>There are other cyber and technical security guidance documents available to reference. A large number of these documents are available in the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/" format="html" scope="external">IT and Computer Security</xref> repository on the MoJ Intranet, but these documents are currently being reviewed and progressively are being incorporated into this main <xref href="index.dita" type="topic">Security Guidance</xref> repository.</p>
+      </body>
+    </topic>
+    <topic id="technical-guidance">
+      <title>Technical Guidance</title>
+      <body>
+        <p>The MoJ <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> should be read together with this security-focused guidance.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="getting-in-touch">
+    <title>Getting in touch</title>
+    <body/>
+    <topic id="contact-information">
+      <title>Contact information</title>
+      <body>
+        <ul>
+          <li>
+            <p>
+              <xref href="email.dita">Email</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="reporting-an-incident.dita">Reporting an incident</xref>
+            </p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="vulnerability-disclosure">
+      <title>Vulnerability Disclosure</title>
+      <body>
+        <ul>
+          <li>
+            <p>
+              <xref href="vulnerability-disclosure-policy.dita">Vulnerability Disclosure Policy</xref>
+            </p>
+          </li>
+          <li>
+            <p>
+              <xref href="implement-security-txt.dita">Implementing <codeph>security.txt</codeph></xref>
+            </p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+  </topic>
+</topic>

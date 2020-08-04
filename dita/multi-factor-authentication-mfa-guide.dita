@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="multi-factor-authentication-mfa-guide">
+  <title>Multi-Factor Authentication (MFA) Guide</title>
+  <body/>
+  <topic id="introduction">
+    <title>Introduction</title>
+    <body>
+      <p>This Multi-Factor Authentication (MFA) guide explains how MFA can be used to ensure that users are only granted access to MoJ information once their identity is confirmed. This is a sub-page to the <xref href="access-control-guide.dita" type="topic">Access Control Guide</xref>.</p>
+    </body>
+  </topic>
+  <topic id="mfa">
+    <title>MFA</title>
+    <body>
+      <p>Users should have their identity authenticated through the following methods:</p>
+      <ul>
+        <li>
+          <p>something they know (such as a password)</p>
+        </li>
+        <li>
+          <p>something they have (such as a mobile phone or smart card), and/or</p>
+        </li>
+        <li>
+          <p>something they are (biometric authentication such as a fingerprint).</p>
+        </li>
+      </ul>
+      <p>MFA can be used as a possession-based factor for authentication, by checking for something 'you have'. MFA is sometimes referred to as Two-Factor Authentication (2FA) if it involves a second form of authentication. MFA is referred to as 3, 4, or 5 Factor Authentication if it includes additional authentication requirements. Different methods of additional authentication identify users with varying degrees of accuracy.  Care should be taken to ensure true MFA. For example, password and security questions are both dependent 'something the user knows' and therefore are just one factor of authentication.</p>
+      <p>The list below identifies the MoJ’s preference for MFA methods, with 1 ranked the highest. These methods can be used for 2, 3, 4, or 5 Factor Authentication as required.</p>
+      <p>Note:</p>
+      <ul>
+        <li>
+          <p>MFA Type 1 may not be suitable for all systems. In that case, other methods of delivering MFA should be considered to provide additional protection beyond single sign on.</p>
+        </li>
+        <li>
+          <p>MFA types 5 and 8 should only be used when no other MFA method is appropriate as these methods can be easily spoofed or circumvented.</p>
+        </li>
+      </ul>
+      <table>
+        <tgroup cols="2">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <thead>
+            <row>
+              <entry colname="col1">Preference</entry>
+              <entry colname="col2">Type</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">1.</entry>
+              <entry colname="col2">Hardware-based (for example, Yubikeys or TPM enabled devices)</entry>
+            </row>
+            <row>
+              <entry colname="col1">2.</entry>
+              <entry colname="col2">Software-based (for example, <xref href="https://support.google.com/accounts/answer/6361026?co=GENIE.Platform%3DAndroid&amp;hl=en" format="html" scope="external">Google Prompt</xref> on a mobile device)</entry>
+            </row>
+            <row>
+              <entry colname="col1">3.</entry>
+              <entry colname="col2">Time-based One Time Password (TOTP)-based (the code is held by a dedicated app such as Google Authenticator on a mobile device)</entry>
+            </row>
+            <row>
+              <entry colname="col1">4.</entry>
+              <entry colname="col2"><xref href="https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm" format="html" scope="external">TOTP</xref>-based (the code is held within a multi-purpose app, for example, a password manager app that also holds other factor information)</entry>
+            </row>
+            <row>
+              <entry colname="col1">5.</entry>
+              <entry colname="col2">Certificate-based (a digital certificate used to authenticate a user)</entry>
+            </row>
+            <row>
+              <entry colname="col1">6.</entry>
+              <entry colname="col2">Email-based (a one-time code/link sent to the registered on-file email address)</entry>
+            </row>
+            <row>
+              <entry colname="col1">7.</entry>
+              <entry colname="col2">SMS-based (a one-time code sent via SMS)</entry>
+            </row>
+            <row>
+              <entry colname="col1">8.</entry>
+              <entry colname="col2">Phone-call based (a phone call providing a one-time code or password)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>The <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/passwords/" format="html" scope="external">MoJ Password Guide</xref> provides more information on the use of MFA. </p>
+    </body>
+  </topic>
+  <topic id="contact-details">
+    <title>Contact details</title>
+    <body>
+      <p>Contact the Cyber Assistance Team for advice – <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></p>
+    </body>
+  </topic>
+</topic>

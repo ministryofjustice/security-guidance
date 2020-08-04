@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="long-format-appendix">
+  <title>Long format appendix</title>
+  <body>
+    <p>The current draft of the MOJ commodity long format data destruction appendix. The appendix is a dependancy of the long format clause itself.</p>
+    <p><codeph>Highlighted</codeph> words indicate potential requirement for contextual change, requirement of definition and so on.</p>
+  </body>
+  <topic id="appendix">
+    <title>Appendix</title>
+    <body>
+      <p>The following standards and guidelines are the <i>minimum</i> basis for data decommissioning or destruction. Follow and apply them as appropriate. There might also be extra steps specific to a data set or system.</p>
+      <ul>
+        <li>
+          <p>National Cyber Security Centre (NCSC) guidance on end-user device reset procedures: <xref href="https://www.ncsc.gov.uk/guidance/end-user-device-guidance-factory-reset-and-reprovisioning" format="html" scope="external">https://www.ncsc.gov.uk/guidance/end-user-device-guidance-factory-reset-and-reprovisioning</xref></p>
+        </li>
+        <li>
+          <p>NCSC guidance on secure sanitisation of storage media: <xref href="https://www.ncsc.gov.uk/guidance/secure-sanitisation-storage-media" format="html" scope="external">https://www.ncsc.gov.uk/guidance/secure-sanitisation-storage-media</xref></p>
+        </li>
+        <li>
+          <p>NCSC Cloud Security Principle 2: Asset Protection and Resilience (Data Destruction): <xref href="https://www.ncsc.gov.uk/guidance/cloud-security-principle-2-asset-protection-and-resilience#sanitisation" format="html" scope="external">https://www.ncsc.gov.uk/guidance/cloud-security-principle-2-asset-protection-and-resilience#sanitisation</xref></p>
+        </li>
+        <li>
+          <p>Payment Card Industry Data Security Standard (Data Destruction): <xref href="https://www.pcisecuritystandards.org" format="html" scope="external">https://www.pcisecuritystandards.org</xref></p>
+        </li>
+        <li>
+          <p>DIN: <xref href="http://www.din-66399.com/index.php/en/securitylevels" format="html" scope="external">http://www.din-66399.com/index.php/en/securitylevels</xref></p>
+        </li>
+      </ul>
+      <p>Data Destruction for electronic/magnetic storage <b>must</b> include, unless otherwise superseded by NCSC, PCI-DSS or specific <codeph>Authority</codeph> guidance:</p>
+      <ul>
+        <li>
+          <p>the revocation or otherwise destruction of decryption keys and/or mechanisms to render data inaccessible or otherwise void through the use of modern cryptography; AND/OR</p>
+        </li>
+        <li>
+          <p>data overwriting methods consisting of at least 3 (three) complete overwrite passes of random data.</p>
+        </li>
+      </ul>
+      <p>Data Destruction for printed materials <b>must</b> include, unless otherwise superseded by NCSC or specific <codeph>Authority</codeph> guidance:</p>
+      <ul>
+        <li>
+          <p>paper cross-shredding methods to satisfy at least the DIN 66399 Level 4 standard with a maximum cross cut particle surface area 160 (one hundred and sixty) millimeters squared with a maximum strip width of 6 (six) millimeters</p>
+        </li>
+      </ul>
+      <p>The required outcome is to ensure that <codeph>Authority</codeph> data is inaccessible by any reasonable commercial and resourced means (such as commercially available data recovery services).</p>
+    </body>
+  </topic>
+</topic>

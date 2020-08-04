@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="authentication">
+  <title>Authentication</title>
+  <body/>
+  <topic id="the-base-principle">
+    <title>The base principle</title>
+    <body>
+      <p>Any access to any data <b>must</b> employ adequate authentication techniques to identify the system or user to a suitable level of confidence for the system or data within.</p>
+    </body>
+  </topic>
+  <topic id="passwords">
+    <title>Passwords</title>
+    <body>
+      <p>Where appropriate, passwords should be used as a knowledge-based factor for authentication.</p>
+      <p>MOJ has published the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/" format="html" scope="external">MOJ Password Standard</xref>.</p>
+    </body>
+  </topic>
+  <topic id="named-individual-accounts">
+    <title>Named individual accounts</title>
+    <body>
+      <p>Human user access must have unique, named and private accounts issued (with shared accounts being a rare, intentional and considered exception to this rule).</p>
+      <p>For example: Jonathan Bloggs is issued with a user account only Jonathan uses and may access.</p>
+    </body>
+    <topic id="account-sharing">
+      <title>Account sharing</title>
+      <body>
+        <p>Accounts must not be shared unless they are defined as shared accounts, where additional authentication and authorisation techniques may be required.</p>
+        <p>For example:</p>
+        <ul>
+          <li>
+            <p>individuals must not share a 'root' account, but be issued named accounts with appropriate privileges instead;</p>
+          </li>
+          <li>
+            <p>Individuals must not share a single Secure Shell (SSH) private key, but generate private and individual keypairs and their public key associated to locations where authentication is required.</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+  </topic>
+  <topic id="system-system-accounts">
+    <title>System-system accounts</title>
+    <body>
+      <p>Accounts designed for programmatic or system/service integation must be unique for each purpose, particularly in separation between different environments - such as pre-production and production.</p>
+      <p>System-system accounts must be protected against human intervention.</p>
+      <p>Token-based methods are preferred over static private key methods.</p>
+    </body>
+  </topic>
+  <topic id="multi-factor-authentication">
+    <title>Multi-Factor Authentication</title>
+    <body>
+      <p>Where appropriate, multi-factor authentication (MFA) should be used as a knowledge-based factor for authentication.MFA is sometimes referred to as Two-Factor Authentication (2FA).</p>
+      <p>MoJ guidance on MFA is available <xref href="multi-factor-authentication-mfa-guide.dita">here</xref>.</p>
+    </body>
+    <topic id="mfa-for-administrators">
+      <title>MFA for Administrators</title>
+      <body>
+        <p>Administrative accounts <b>must</b> always have MFA, unless impractical to do so. Ensure there are techniques in-place such that MFA is always enabled and active for each account.</p>
+      </body>
+    </topic>
+    <topic id="mfa-for-important-or-privileged-actions">
+      <title>MFA for important or privileged actions</title>
+      <body>
+        <p>MFA should be re-requested from the user for important or privileged actions such as changing fundemental configurations such as registered email address or adding another administrator.</p>
+        <p>MFA can also be used as a validation step, to ensure the user understands and is confirming the action they have requested, such as an MFA re-prompt when attempting to delete data.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="ip-addresses">
+    <title>IP addresses</title>
+    <body/>
+    <topic id="trusting-ip-addresses">
+      <title>Trusting IP addresses</title>
+      <body>
+        <p>IP addresses in and of themselves do not constitute authentication but may be considered a minor authentication <i>indicator</i> when combined with other authentication and authorisation techniques.</p>
+        <p>For example, traffic originating from a perceived known IP address/range does not automatically mean it is the perceived user(s) however it could be used as an indicator to <i>reduce</i> (not eliminate) how often MFA is requested <i>within</i> an existing session.</p>
+      </body>
+    </topic>
+    <topic id="ip-address-for-non-production-systems">
+      <title>IP address for non-production systems</title>
+      <body>
+        <p>IP addresses access control lists (and/or techniques such as HTTP basic authentication) should be used to restrict access to non-production systems you do not wish general users to access.</p>
+        <p>H/T <xref href="https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20" format="html" scope="external">https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20</xref></p>
+      </body>
+    </topic>
+  </topic>
+</topic>
