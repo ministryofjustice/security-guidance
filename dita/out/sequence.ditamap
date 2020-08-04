@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><?path2rootmap-uri ./?>
-<!DOCTYPE map
-  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map cascade="merge" specializations="@props/deliveryTarget">
-  <topicref format="dita" type="topic" href="data-destruction-instruction-and-confirmation-letter.dita"><topicmeta><navtitle>Instruction &amp; Confirmation Letter</navtitle><linktext>Instruction &amp; Confirmation Letter</linktext></topicmeta></topicref>
-</map>

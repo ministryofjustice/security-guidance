@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="data-security--privacy-lifecycle-expectations">
+  <title>Data Security &amp; Privacy Lifecycle Expectations</title>
+  <body>
+    <p>Below are a series of data security and privacy expectations of MOJ projects at various stages in their lifecycle.</p>
+    <p>These measures can help simplify and ease the burden of embedding data security and privacy at the heart of projects.</p>
+  </body>
+  <topic id="pre-discovery-and-discovery">
+    <title>Pre-Discovery and Discovery</title>
+    <body>
+      <p>Assess the data security and privacy implications of the project requirements thoroughly. Do this as part of the broader work addressing the project’s strategic imperatives.</p>
+      <p>In particular:</p>
+      <ul>
+        <li>
+          <p>From the start of the project, and throughout its duration, think about how data security and privacy might affect the functionality and delivery of the project.</p>
+        </li>
+        <li>
+          <p>Consult with technical architects to help inform and enhance the ways of delivering the work, whilst continuing to ensure compliance.</p>
+        </li>
+        <li>
+          <p>Discuss any problems or ramifications that arise with legal or business experts. Identify areas where the required data security and privacy compliance might cause issues for functionality.</p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="alpha">
+    <title>Alpha</title>
+    <body>
+      <p>During this stage of the project lifecycle, internal and external (Cabinet Office / Government Digital Service) teams will perform service assessments. These will specifically check for aspects of GDPR/DPA18 compliance.</p>
+      <p>In particular:</p>
+      <ul>
+        <li>
+          <p>That the majority of compliance considerations have been addressed at this stage.</p>
+        </li>
+        <li>
+          <p>That the development team can say how their work ensures compliance.</p>
+        </li>
+        <li>
+          <p>That the technical architecture choices can be tested against data security and privacy requirements. As an example, blockchain technologies might not be acceptable as they can prevent automated removal of information when it is no longer required.</p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="beta-private-and-public">
+    <title>Beta (Private and Public)</title>
+    <body>
+      <p>These are assessments performed as the service transitions from Private to Public availability. The assessments are again performed by internal and GDS teams. Use live systems for the assessments.</p>
+      <p>In particular:</p>
+      <ul>
+        <li>
+          <p>All manually actionable data security and privacy requirements must be met.</p>
+        </li>
+        <li>
+          <p>Manual testing is expected.</p>
+        </li>
+        <li>
+          <p>Automatic deletion is not required yet, because the service is unlikely to have enough data at this stage. However, plans and mechanisms for automatic deletion should should be in place.</p>
+        </li>
+        <li>
+          <p>Data should be backed up exactly as expected for a live service.</p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="live">
+    <title>Live</title>
+    <body>
+      <p>These are the final (Live) service assessments. They are again performed by internal and GDS teams.</p>
+      <p>In particular:</p>
+      <ul>
+        <li>
+          <p>Data sharing aspects might not yet be fully defined. Other consuming or supplying systems might not have established dependencies on the information shared.</p>
+        </li>
+        <li>
+          <p>Some aspects of reporting might still need manual action. The newness of the system makes business MI requirements a work-in-progress.</p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="post-live-ongoing">
+    <title>Post-Live (Ongoing)</title>
+    <body>
+      <p>These are the tasks that enable the final aspects of security and privacy for your project.</p>
+      <p>In particular:</p>
+      <ul>
+        <li>
+          <p>The final automated tasks are ready. The project cannot close until these are done.</p>
+        </li>
+        <li>
+          <p>Data security and privacy compliance checks move to an ongoing status. Reporting takes place as required to internal stakeholders or the ICO.</p>
+        </li>
+        <li>
+          <p>Schedule and run regular data mapping exercises. These ensure full and current understanding of data flows to and from any organisations or systems that depend on the information.</p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+</topic>

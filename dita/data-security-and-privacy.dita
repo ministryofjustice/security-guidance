@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="data-security--privacy">
+  <title>Data Security &amp; Privacy</title>
+  <body>
+    <p>We believe that our technology must keep data safe and protect user privacy.</p>
+    <p>Our digital projects contain important information. Serious data breaches might result if we fail to:</p>
+    <ul>
+      <li>
+        <p>protect information</p>
+      </li>
+      <li>
+        <p>handle it correctly at all times</p>
+      </li>
+      <li>
+        <p>dispose of it safely when it is no longer required</p>
+      </li>
+    </ul>
+    <p>Breaches might cause:</p>
+    <ul>
+      <li>
+        <p>harm to individuals</p>
+      </li>
+      <li>
+        <p>financial loss to the MOJ</p>
+      </li>
+      <li>
+        <p>a loss of confidence in us as an organisation</p>
+      </li>
+    </ul>
+    <p>For personal data, the EU General Data Protection Regulation (GDPR) and UK Data Protection Act (2018) apply. These make the consequences of data breaches very clear.</p>
+    <p>To follow the data regulation/legislation, we <b>must</b> ensure that:</p>
+    <ul>
+      <li>
+        <p>we protect data to the best of our organisation’s capabilities</p>
+      </li>
+      <li>
+        <p>we collect data only for described, lawful purposes</p>
+      </li>
+      <li>
+        <p>we use data only for the described, lawful purposes</p>
+      </li>
+    </ul>
+  </body>
+  <topic id="why-are-security-and-privacy-important">
+    <title>Why are security and privacy important?</title>
+    <body>
+      <p>Breaches can have an adverse effect the relationship between citizen and government.</p>
+      <p>Not only do we have a duty to protect citizens data, but the penalties for violations are also severe. Under the GDPR, serious infringements can result in fines of up to €20M.</p>
+      <p>We must apply appropriate security and privacy protection to all the information we hold and process, at all times.</p>
+      <p>We should treat all data as sensitive unless proven otherwise.</p>
+      <p>All our work must follow this ethos.</p>
+    </body>
+  </topic>
+  <topic id="when-this-applies">
+    <title>When this applies</title>
+    <body>
+      <p>This principle applies to <b>all</b> technology projects.</p>
+      <p>While GDPR applies only to personal information, all MOJ projects must have excellent data security and privacy properties. If they handle personal data, they must do so correctly. Projects must follow MOJ guidelines unless exceptional and approved circumstances apply.</p>
+      <p>You can design your product to handle personal information correctly. There are a small number of extra steps you will have to take. Remember that personal data includes anything which might identify an individual. Even online identifiers, such as cookies, are personal data.</p>
+      <p>The <xref href="https://ico.org.uk" format="html" scope="external">Information Commissioner's Office (ICO)</xref> - the UK's independent regulatory office for data protection - has published <xref href="https://ico.org.uk/media/for-organisations/documents/1554/determining-what-is-personal-data.pdf" format="pdf" scope="external">guidance on how to determine what is personal data</xref>.</p>
+      <p>A Data Protection Impact Assessment (DPIA, formerly commonly known as a Privacy Impact Assessment or PIA) is required for all projects. There are some <xref href="https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/exemptions/" format="html" scope="external">exceptions described by the ICO</xref>.</p>
+    </body>
+  </topic>
+</topic>
