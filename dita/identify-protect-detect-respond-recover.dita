@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="identify-protect-detect-respond-recover">
+  <title>IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</title>
+  <body>
+    <p>The MOJ is required to adhere (but prefers to exceed) to the <xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">Minimum Cyber Security Standard (MCSS)</xref>.</p>
+  </body>
+  <topic id="the-standard">
+    <title>The Standard</title>
+    <body>
+      <p>The <xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">UK HMG Security Policy Framework</xref> mandates protective security outcomes that the MOJ must achieve (and suppliers to MOJ, where they process MOJ data/information).</p>
+      <p>More information is available from <xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard." format="html" scope="external">https://www.gov.uk/government/publications/the-minimum-cyber-security-standard.</xref></p>
+    </body>
+    <topic id="identify">
+      <title>IDENTIFY</title>
+      <body>
+        <p>IDENTIFY is a prerequisite standard that requires:</p>
+        <ul>
+          <li>
+            <p>appropriate information security governance processes;</p>
+          </li>
+          <li>
+            <p>identification and cataloging of information held/processed; and</p>
+          </li>
+          <li>
+            <p>identification and cataloging of key operational services provided.</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="protect">
+      <title>PROTECT</title>
+      <body>
+        <p>PROTECT is the core standard to provide fundamentally defences to information and requires:</p>
+        <ul>
+          <li>
+            <p>access to systems and information to be limited to identified, authenticated and authorised systems/users;</p>
+          </li>
+          <li>
+            <p>systems to be proportionally protected against exploitation of known vulnerabilities; and</p>
+          </li>
+          <li>
+            <p>highly privileged accounts (such as administrative level) to be protected from common attacks.</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="detect">
+      <title>DETECT</title>
+      <body>
+        <p>DETECT is the core standard to detect when attacks are taking, or have taken, place and requires:</p>
+        <ul>
+          <li>
+            <p>capture event information (and apply common threat intelligence sources, such as <xref href="https://www.ncsc.gov.uk/cisp" format="html" scope="external">CiSP</xref>);</p>
+          </li>
+          <li>
+            <p>based on PROTECT, define and direct monitoring tactics to detect when defence measures seem to have failed;</p>
+          </li>
+          <li>
+            <p>detection of common attack techniques (such as commonly known applications or tooling); and</p>
+          </li>
+          <li>
+            <p>implementation of transaction monitoring solutions where systems could be vulnerable to fraud attempts.</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="respond">
+      <title>RESPOND</title>
+      <body>
+        <p>RESPOND is the core standard to define the minimum of how organisations should respond to attacks and requires:</p>
+        <ul>
+          <li>
+            <p>development and maintenance of an incident response &amp; management plan (including reporting, roles and responsibilities);</p>
+          </li>
+          <li>
+            <p>development and maintenance of communication plans, particularly to relevant supervisory bodies, law enforcement and responsible organisations such as the NCSC;</p>
+          </li>
+          <li>
+            <p>regular testing of the incident response &amp; management plan;</p>
+          </li>
+          <li>
+            <p>assessment and implementation of mitigating measures on discovery of an incident (successful attack); and</p>
+          </li>
+          <li>
+            <p>post-incident reviews to ensure feedback into the iteration of the incident response &amp; management plan.</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="recover">
+      <title>RECOVER</title>
+      <body>
+        <p>RECOVER is the core standard to define the minimum of how organisations should recover from an attack once it has been considered closed, and requires:</p>
+        <ul>
+          <li>
+            <p>identification and testing of contingency mechanisms to ensure the continuance of critical service delivery;</p>
+          </li>
+          <li>
+            <p>timely restoration of the service to normal operation (a plan to do so, and testing of that plan);</p>
+          </li>
+          <li>
+            <p>from DETECT &amp; RESPOND, immediately implementing controls to ensure the same issue cannot arise in the same way again, ensuring systematic vulnerabilities are proportional remediated.</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+  </topic>
+</topic>

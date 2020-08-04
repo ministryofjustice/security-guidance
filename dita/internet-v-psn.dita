@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="internet--v--psn">
+  <title>Internet -v- PSN</title>
+  <body/>
+  <topic id="the-internet-is-ok">
+    <title>The internet is 'ok'</title>
+    <body>
+      <p>The MOJ prefers the use of public commodity networks (such as the Internet) over the use of dedicated or private network links.</p>
+    </body>
+    <topic id="networks-are-bearers">
+      <title>Networks are bearers</title>
+      <body>
+        <p>The MOJ consider networks, whether private or public, to be bearers for information transfer, in and of themselves they should not be considered as the mechanism to identify and confer trust or privilege.</p>
+      </body>
+    </topic>
+  </topic>
+</topic>
