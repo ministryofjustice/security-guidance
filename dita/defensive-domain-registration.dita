@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="defensive-domain-registrations">
+  <title>Defensive domain registrations</title>
+  <body>
+    <p>The MOJ and associated organisations (Executive agencies, non-departmental public bodies and so on) maintain varying levels of 'online presence' using domain registrations. This are a fundamental part of the organisation's identity on the public internet. An example is the justice.gov.uk email domain used for contacting other government organisations, partners and members of the public.</p>
+    <p>Each MOJ organisation <b>must</b> identify a core set of internet domains it considers critical to its internet identity. Each MOJ organisation must then defensively register a small number of obvious variations (for example, <codeph>justice.gov.uk</codeph> may justify <codeph>justicegov.uk</codeph>, <codeph>justice.co.uk</codeph> and <codeph>justice.uk</codeph> where already not used for legitimate purposes).</p>
+    <p>These registrations will help protect the organisation, as well as its partners and members of the public, from illegitimate parties pretending to be the organisation when they are not. Failing to register these domains can cause problems, such as phishing emails using what seem to be plausible domains.</p>
+  </body>
+  <topic id="limiting-the-permutations-to-register">
+    <title>Limiting the permutations to register</title>
+    <body>
+      <p>Domain permutations for defensive registration should be limited to the organisation's core identity, as opposed to tertiary campaigns/identities, in order to keep costs and management overheads down.</p>
+      <p>Some domain registrars have methods to detect malicious registrations of overtly government-associated domains through the use of misspellings and so on. Unless there are strong justifications as to why misspellings must be covered, organisations should only defensively register <codeph>.uk</codeph> and <codeph>.co.uk</codeph> top-level domain variants and visual manipulations. For example, the removal of one dot from justice.gov.uk leads to justicegov.uk which could be a registerable domain and one that looks a lot like justice.gov.uk during a casual inspection.</p>
+    </body>
+  </topic>
+  <topic id="mandatory-features-for-defensively-registered-domains">
+    <title>Mandatory features for defensively registered domains</title>
+    <body>
+      <p>The following features are required when registering a defensive domain:</p>
+    </body>
+    <topic id="functional-nameservers">
+      <title>Functional nameservers</title>
+      <body>
+        <p>The defensively registered domain must have a functional nameserver configuration.</p>
+      </body>
+    </topic>
+    <topic id="sender-policy-framework-spf">
+      <title>Sender Policy Framework (SPF)</title>
+      <body>
+        <p>There must be an <xref href="https://en.wikipedia.org/wiki/Sender_Policy_Framework" format="html" scope="external">SPF record</xref> which uses <i>strict</i> configurations to indicate whether the domain is expected by the owner to send emails, or not.</p>
+        <p>Example 'no permitted sender' record:</p>
+        <p>
+          <codeph>v=spf1 -all</codeph>
+        </p>
+        <p>Additional <xref href="https://www.gov.uk/government/publications/email-security-standards/sender-policy-framework-spf" format="html" scope="external">SPF implementation guidance</xref> is available on GOV.UK.</p>
+      </body>
+    </topic>
+    <topic id="domain-based-message-authentication-reporting-and-conformance-dmarc">
+      <title>Domain-based Message Authentication, Reporting and Conformance (DMARC)</title>
+      <body>
+        <p>There must be a <xref href="https://en.wikipedia.org/wiki/DMARC" format="html" scope="external">DMARC record</xref> configured in line with <xref href="https://www.gov.uk/government/publications/email-security-standards/domain-based-message-authentication-reporting-and-conformance-dmarc" format="html" scope="external">published DMARC guidance</xref> on GOV.UK.</p>
+        <p>Example 'reject' policy record:</p>
+        <p>
+          <codeph>v=DMARC1;p=reject;rua=mailto:dmarc-rua@dmarc.service.gov.uk;</codeph>
+        </p>
+      </body>
+    </topic>
+    <topic id="mail-exchanger-mx">
+      <title>Mail Exchanger (MX)</title>
+      <body>
+        <p>There must be a nullified <xref href="https://en.wikipedia.org/wiki/MX_record" format="html" scope="external">MX record</xref> in order to ensure any attempt to send emails to the defensive domain to instantly failed.</p>
+        <p>Example nullified record:</p>
+        <p>MX priority <codeph>0</codeph> with host name <codeph>.</codeph></p>
+      </body>
+    </topic>
+    <topic id="domainkeys-identified-mail-dkim">
+      <title>DomainKeys Identified Mail (DKIM)</title>
+      <body>
+        <p>There must be a nullified <xref href="https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail" format="html" scope="external">DKIM record</xref> in explicitly highlight that  any outbound email attempts are likely invalid.</p>
+        <p>Example nullified record:</p>
+        <p>
+          <codeph>v=DKIM1; p=</codeph>
+        </p>
+      </body>
+    </topic>
+    <topic id="dns-certification-authority-authorization-caa">
+      <title>DNS Certification Authority Authorization (CAA)</title>
+      <body>
+        <p>There must be a <xref href="https://en.wikipedia.org/wiki/DNS_Certification_Authority_Authorization" format="html" scope="external">DNS CAA</xref> record(s) to indicate restrictions so that certificate authorities that certificates should not be issued for these domains.</p>
+        <p>Example nullified record:</p>
+        <p>
+          <codeph>issue ";"</codeph>
+        </p>
+        <p>Example iodef notification record:</p>
+        <p>
+          <codeph>iodef "mailto:certificates@digital.justice.gov.uk"</codeph>
+        </p>
+      </body>
+    </topic>
+    <topic id="automated-renewals">
+      <title>Automated renewals</title>
+      <body>
+        <p>Defensively registered domains should be configured to automatically renew by default.</p>
+      </body>
+    </topic>
+    <topic id="web-servicesredirects">
+      <title>Web services/redirects</title>
+      <body>
+        <p>Web services/redirects must <b>not</b> be functional or available for defensively registered domains.</p>
+        <p>The <codeph>www.</codeph> should <i>not</i> be created. The apex <codeph>@</codeph> record, if required and created, should not respond to TCP/80 (HTTP) or TCP/443 (HTTPS).</p>
+      </body>
+    </topic>
+    <topic id="mail-servicesredirects">
+      <title>Mail services/redirects</title>
+      <body>
+        <p>Mail services/redirects must <b>not</b> be functional or available for defensively registered domains.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="registering-and-maintaining-a-defensive-domain">
+    <title>Registering and maintaining a defensive domain</title>
+    <body>
+      <p>MOJ organisations should contact <xref href="mailto://domains@digital.justice.gov.uk" format="html" scope="external">domains@digital.justice.gov.uk</xref> for assistance with defensive doman registrations and operations.</p>
+    </body>
+  </topic>
+</topic>

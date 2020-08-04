@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="email">
+  <title>Email</title>
+  <body>
+    <p>The MOJ D&amp;T Cybersecurity team can be reached via <xref href="mailto:cybersecurity@digital.justice.gov.uk" format="email" scope="external">cybersecurity@digital.justice.gov.uk</xref>.</p>
+    <p>Suppliers to the MOJ should primarily contact your usual MOJ points of contact.</p>
+  </body>
+</topic>

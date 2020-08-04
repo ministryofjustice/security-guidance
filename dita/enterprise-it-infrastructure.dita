@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="enterprise-it---infrastructure">
+  <title>Enterprise IT - Infrastructure</title>
+  <body>
+    <p>We have developed a series of logging requirements for Enterprise IT infrastructure, such as underlying networks, network services and directory services at different maturity tiers in order to support defensive cyber security, such as detecting breaches.</p>
+  </body>
+  <topic id="baseline-maturity-tier">
+    <title>Baseline Maturity Tier</title>
+    <body/>
+    <topic id="1-user-directory-services">
+      <title>1. User directory services</title>
+      <body>
+        <p>Log Collection Principle(s): 1, 2</p>
+        <p>User directory services (such as Active Directory (AD), Azure Active Directory or OpenLDAP must create and forward Authentication and Authorisation events from the directory service itself.  (Normal authentication and authorisation events for the underlying operating system and server should be forwarded as appropriate.)</p>
+        <p>For example:</p>
+        <ul>
+          <li>
+            <p>an administrator logging onto the AD server using the local end-user device's administrator account should result in an authentication event for the machine being sent.</p>
+          </li>
+          <li>
+            <p>a directory admin logging on to the AD service from their end-user device without logging into the local machine should generate an authentication event for the directory</p>
+          </li>
+        </ul>
+        <p>These event types must be logged and forward:</p>
+        <ul>
+          <li>
+            <p>a: account creation</p>
+          </li>
+          <li>
+            <p>b: account lockout</p>
+          </li>
+          <li>
+            <p>c: account reinstatement</p>
+          </li>
+          <li>
+            <p>d: account authentication failures</p>
+          </li>
+          <li>
+            <p>e, account authentication successes after 1 or more failures</p>
+          </li>
+          <li>
+            <p>f: account password changes</p>
+          </li>
+          <li>
+            <p>g: group membership addition / deletion (in particular, any group that gives admin access)</p>
+          </li>
+          <li>
+            <p>h: group creation</p>
+          </li>
+          <li>
+            <p>i: privilege modification for users (changes to ACL's, granting of new roles in RBAC models)</p>
+          </li>
+          <li>
+            <p>j: privilege escalation events (use of sudo, UAC)</p>
+          </li>
+          <li>
+            <p>k: multi-factor authentication state, such as:</p>
+            <ul>
+              <li>
+                <p>1: enabled</p>
+              </li>
+              <li>
+                <p>2: disabled</p>
+              </li>
+              <li>
+                <p>3: reset/rotation</p>
+              </li>
+              <li>
+                <p>4: recovery method used</p>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="2-productivity-suite-security-logs">
+      <title>2. Productivity Suite security logs</title>
+      <body>
+        <p>Log Collection Principle(s): 1, 2, 3, 6</p>
+        <p>Productivity suites (such as Google G-Suite or Microsoft Office 365) must create and forward all security-related log data (as defined by the vendor), including unsuccessful  Authentication and Authorisation events.</p>
+        <p>For example, within an Office 365 tenancy with Conditional Access enabled and set to require multi-factor authentication when a user device is perceived to be outside of the corporate network and such prompt is made and the outcome of that challenge.</p>
+      </body>
+    </topic>
+    <topic id="3-domain-name-service-query-logs">
+      <title>3. Domain name service query logs</title>
+      <body>
+        <p>Log Collection Principle(s): 4</p>
+        <p>DNS query logs must be created and forwarded.</p>
+        <ul>
+          <li>
+            <p>a: client IP address</p>
+          </li>
+          <li>
+            <p>b: query</p>
+          </li>
+          <li>
+            <p>c: query response content including</p>
+            <ul>
+              <li>
+                <p>1: returned record(s) or NXDOMAIN</p>
+              </li>
+              <li>
+                <p>2: authoritative nameserver</p>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <p>d: query response code</p>
+          </li>
+          <li>
+            <p>e: zone and/or view identifier (if local zone response and/or multiview)</p>
+          </li>
+        </ul>
+        <p>This remains true for where nodes (for example, servers) may bypass internal DNS services.</p>
+      </body>
+    </topic>
+    <topic id="4-web-proxy-access-logs">
+      <title>4. Web proxy access logs</title>
+      <body>
+        <p>Log Collection Principle(s): 5</p>
+        <p>Where web traffic proxies exist, access logs must be created and forward and must, include the following variables.</p>
+        <ul>
+          <li>
+            <p>a: authenticated user name</p>
+          </li>
+          <li>
+            <p>b: client IP address</p>
+          </li>
+          <li>
+            <p>c: HTTP method (for example, <codeph>CONNECT GET</codeph>)</p>
+          </li>
+          <li>
+            <p>d: full destination/target URL</p>
+          </li>
+          <li>
+            <p>e: connection return status code (for example, 200 or 403)</p>
+          </li>
+          <li>
+            <p>f: size of response</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="5-file-server-authentication-authorisation-and-access-logs">
+      <title>5. File server authentication, authorisation and access logs</title>
+      <body>
+        <p>Log Collection Principle(s): 6</p>
+        <p>Where file service exist, sufficient log data must be created and forwarded, including sufficient data to satisfy the following:</p>
+        <ul>
+          <li>
+            <p>a: detect permission changes and the user who changed such</p>
+          </li>
+          <li>
+            <p>b: detect all file/folder changes and the user who changed such</p>
+          </li>
+          <li>
+            <p>c: detect all file/folder read/open and the user who did such</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="6-security-related-event-logs-for-all-server-operating-systems">
+      <title>6. Security-related event logs for all server operating systems</title>
+      <body>
+        <p>Log Collection Principle(s): 6</p>
+        <p>Security-related event logs from all servers (whether virtualised or physical) operating in a 'server' role.</p>
+        <ul>
+          <li>
+            <p>a: <xref keyref="additional information pending"/></p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="7-allocation-of-ip-address-leases-from-dhcp-services">
+      <title>7. Allocation of IP address leases from DHCP services</title>
+      <body>
+        <p>Log Collection Principle(s): 3, 5</p>
+        <p>DHCP services must be configured to create and forward the following:</p>
+        <ul>
+          <li>
+            <p>a: successful client DHCP requests, including:</p>
+            <ul>
+              <li>
+                <p>1: Requesting client MAC address</p>
+              </li>
+              <li>
+                <p>2: DHCP scope identifier</p>
+              </li>
+              <li>
+                <p>3: IP address leased</p>
+              </li>
+              <li>
+                <p>4: IP address lease duration</p>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <p>b: unsuccessful client DHCP requests, including:</p>
+            <ul>
+              <li>
+                <p>1: Requesting client MAC address</p>
+              </li>
+              <li>
+                <p>2: DHCP scope identifier (if applicable for unsuccessful request)</p>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="8-vpn-concentrator-activity-data">
+      <title>8. VPN concentrator activity data</title>
+      <body>
+        <p>Log Collection Principle(s): 3, 5</p>
+        <p>Where a end-user device VPN concentrator is in use, connection-related log data must be created and forwarded.</p>
+        <ul>
+          <li>
+            <p>a: success or unsuccess status</p>
+          </li>
+          <li>
+            <p>b: user/certificate identifier</p>
+          </li>
+          <li>
+            <p>c: client IP address</p>
+          </li>
+          <li>
+            <p>d: concentrator identifier</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+  </topic>
+  <topic id="enhanced-maturity-tier">
+    <title>Enhanced Maturity Tier</title>
+    <body/>
+    <topic id="1-firewall-log-data-for-denied-network-traffic">
+      <title>1. Firewall log data for denied network traffic</title>
+      <body>
+        <p>Log Collection Principle(s): 5</p>
+        <p>All firewall <codeph>DENY</codeph> log data must be forwarded.</p>
+        <ul>
+          <li>
+            <p>a: client IP address</p>
+          </li>
+          <li>
+            <p>b: firewall/router identifier</p>
+          </li>
+          <li>
+            <p>c: request response code</p>
+          </li>
+          <li>
+            <p>d: request content, including:</p>
+            <ul>
+              <li>
+                <p>1: IP protocol (for example, ICMP)</p>
+              </li>
+              <li>
+                <p>2: destination/target port</p>
+              </li>
+              <li>
+                <p>3: destination/target IP address</p>
+              </li>
+              <li>
+                <p>4: destination/target hostname address (if reverse lookup performed)</p>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="2-internal-dns-namespace-zone-content">
+      <title>2. Internal DNS namespace zone content</title>
+      <body>
+        <p>Log Collection Principle(s): 4</p>
+        <p>Internal domain name spaces must ultimate forward, in an <xref href="https://tools.ietf.org/html/rfc5936" format="html" scope="external">RFC5936 (DNS Zone Transfer Protocol (AXFR)</xref> compatible format including all information described in the RFC.</p>
+      </body>
+    </topic>
+    <topic id="3-dhcp-scopes-and-the-functional-segmentation-of-each">
+      <title>3. DHCP scopes (and the functional segmentation of each)</title>
+      <body>
+        <p>Log Collection Principle(s): 5</p>
+        <p>Machine-readable DHCP scope exports (and surrounding metadata/description of the purpose of each scope) must be created and forwarded.</p>
+      </body>
+    </topic>
+    <topic id="4-endpoint-protection-security-logs">
+      <title>4. Endpoint protection security logs</title>
+      <body>
+        <p>Log Collection Principle(s): 6</p>
+        <p>Security log data (as defined by the vendor) must be created and forwarded.</p>
+      </body>
+    </topic>
+    <topic id="5-mobile-device-enrollment-activity">
+      <title>5. Mobile device enrollment activity</title>
+      <body>
+        <p>Log Collection Principle(s): 1, 2, 3, 6</p>
+        <p>Where a mobile device management solution is used and end-user devices register/enrol and de-register/de-enrol with it, enrollment data should be created in and forwarded.</p>
+        <ul>
+          <li>
+            <p>a: enrolment or un-enrolment event type</p>
+          </li>
+          <li>
+            <p>b: end-user device identifier(s), such as client IP address and/or MAC address and/or assigned DHCP name</p>
+          </li>
+          <li>
+            <p>c: end-user account name (if applicable)</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+  </topic>
+</topic>
