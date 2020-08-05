@@ -216,7 +216,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1">Technical</entry>
                 <entry colname="col2">Principles</entry>
                 <entry colname="col3">
-                  <xref href="data-security-and-privacy" format="html">Data Security &amp; Privacy</xref>
+                  <xref href="data-security-and-privacy.dita">Data Security and Privacy</xref>
                 </entry>
                 <entry colname="col4">All users</entry>
               </row>

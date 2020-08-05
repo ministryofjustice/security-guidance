@@ -9,7 +9,7 @@
   <topic id="baseline-maturity-tier">
     <title>Baseline Maturity Tier</title>
     <body/>
-    <topic id="1-user-directory-services">
+    <topic id="user-directory-services">
       <title>1. User directory services</title>
       <body>
         <p>Log Collection Principle(s): 1, 2</p>
@@ -96,7 +96,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="2-authenticated-user-activity-events">
+    <topic id="authenticated-user-activity-events">
       <title>2. Authenticated user activity events</title>
       <body>
         <p>Log Collection Principle(s): 6</p>
@@ -121,7 +121,7 @@
   <topic id="enhanced-maturity-tier">
     <title>Enhanced Maturity Tier</title>
     <body/>
-    <topic id="1-data-store-events">
+    <topic id="data-store-events">
       <title>1. Data store events</title>
       <body>
         <p>Log Collection Principle(s): 6</p>
@@ -145,7 +145,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="2-unauthenticated-user-activity-events">
+    <topic id="unauthenticated-user-activity-events">
       <title>2. Unauthenticated user activity events</title>
       <body>
         <p>Log Collection Principle(s): 6</p>

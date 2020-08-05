@@ -9,7 +9,7 @@
   <topic id="baseline-maturity-tier">
     <title>Baseline Maturity Tier</title>
     <body/>
-    <topic id="1-user-directory-services">
+    <topic id="user-directory-services">
       <title>1. User directory services</title>
       <body>
         <p>Log Collection Principle(s): 1, 2</p>
@@ -75,7 +75,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="2-productivity-suite-security-logs">
+    <topic id="productivity-suite-security-logs">
       <title>2. Productivity Suite security logs</title>
       <body>
         <p>Log Collection Principle(s): 1, 2, 3, 6</p>
@@ -83,7 +83,7 @@
         <p>For example, within an Office 365 tenancy with Conditional Access enabled and set to require multi-factor authentication when a user device is perceived to be outside of the corporate network and such prompt is made and the outcome of that challenge.</p>
       </body>
     </topic>
-    <topic id="3-domain-name-service-query-logs">
+    <topic id="domain-name-service-query-logs">
       <title>3. Domain name service query logs</title>
       <body>
         <p>Log Collection Principle(s): 4</p>
@@ -116,7 +116,7 @@
         <p>This remains true for where nodes (for example, servers) may bypass internal DNS services.</p>
       </body>
     </topic>
-    <topic id="4-web-proxy-access-logs">
+    <topic id="web-proxy-access-logs">
       <title>4. Web proxy access logs</title>
       <body>
         <p>Log Collection Principle(s): 5</p>
@@ -143,7 +143,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="5-file-server-authentication-authorisation-and-access-logs">
+    <topic id="file-server-authentication-authorisation-and-access-logs">
       <title>5. File server authentication, authorisation and access logs</title>
       <body>
         <p>Log Collection Principle(s): 6</p>
@@ -161,7 +161,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="6-security-related-event-logs-for-all-server-operating-systems">
+    <topic id="security-related-event-logs-for-all-server-operating-systems">
       <title>6. Security-related event logs for all server operating systems</title>
       <body>
         <p>Log Collection Principle(s): 6</p>
@@ -173,7 +173,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="7-allocation-of-ip-address-leases-from-dhcp-services">
+    <topic id="allocation-of-ip-address-leases-from-dhcp-services">
       <title>7. Allocation of IP address leases from DHCP services</title>
       <body>
         <p>Log Collection Principle(s): 3, 5</p>
@@ -210,7 +210,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="8-vpn-concentrator-activity-data">
+    <topic id="vpn-concentrator-activity-data">
       <title>8. VPN concentrator activity data</title>
       <body>
         <p>Log Collection Principle(s): 3, 5</p>
@@ -235,7 +235,7 @@
   <topic id="enhanced-maturity-tier">
     <title>Enhanced Maturity Tier</title>
     <body/>
-    <topic id="1-firewall-log-data-for-denied-network-traffic">
+    <topic id="firewall-log-data-for-denied-network-traffic">
       <title>1. Firewall log data for denied network traffic</title>
       <body>
         <p>Log Collection Principle(s): 5</p>
@@ -270,28 +270,28 @@
         </ul>
       </body>
     </topic>
-    <topic id="2-internal-dns-namespace-zone-content">
+    <topic id="internal-dns-namespace-zone-content">
       <title>2. Internal DNS namespace zone content</title>
       <body>
         <p>Log Collection Principle(s): 4</p>
         <p>Internal domain name spaces must ultimate forward, in an <xref href="https://tools.ietf.org/html/rfc5936" format="html" scope="external">RFC5936 (DNS Zone Transfer Protocol (AXFR)</xref> compatible format including all information described in the RFC.</p>
       </body>
     </topic>
-    <topic id="3-dhcp-scopes-and-the-functional-segmentation-of-each">
+    <topic id="dhcp-scopes-and-the-functional-segmentation-of-each">
       <title>3. DHCP scopes (and the functional segmentation of each)</title>
       <body>
         <p>Log Collection Principle(s): 5</p>
         <p>Machine-readable DHCP scope exports (and surrounding metadata/description of the purpose of each scope) must be created and forwarded.</p>
       </body>
     </topic>
-    <topic id="4-endpoint-protection-security-logs">
+    <topic id="endpoint-protection-security-logs">
       <title>4. Endpoint protection security logs</title>
       <body>
         <p>Log Collection Principle(s): 6</p>
         <p>Security log data (as defined by the vendor) must be created and forwarded.</p>
       </body>
     </topic>
-    <topic id="5-mobile-device-enrollment-activity">
+    <topic id="mobile-device-enrollment-activity">
       <title>5. Mobile device enrollment activity</title>
       <body>
         <p>Log Collection Principle(s): 1, 2, 3, 6</p>

@@ -9,7 +9,7 @@
   <topic id="baseline-maturity-tier">
     <title>Baseline Maturity Tier</title>
     <body/>
-    <topic id="1-device-power-events">
+    <topic id="device-power-events">
       <title>1. Device power events</title>
       <body>
         <p>Log Collection Principle(s): 1</p>
@@ -27,7 +27,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="2-user-identification-activity">
+    <topic id="user-identification-activity">
       <title>2. User identification activity</title>
       <body>
         <p>Log Collection Principle(s): 1, 2</p>
@@ -84,7 +84,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="3-domain-name-service-query-logs">
+    <topic id="domain-name-service-query-logs">
       <title>3. Domain name service query logs</title>
       <body>
         <p>Log Collection Principle(s): 4</p>
@@ -116,7 +116,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="4-security-related-operating-system-event-data">
+    <topic id="security-related-operating-system-event-data">
       <title>4. Security-related operating system event data</title>
       <body>
         <p>Log Collection Principle(s): 6</p>
@@ -124,7 +124,7 @@
         <p>Comparable events from other operating systems (for example, Apple macOS or QubesOS) to that described by NCSC's Logging Made Easy template must also be created and forwarded.</p>
       </body>
     </topic>
-    <topic id="5-security-related-software-event-logs">
+    <topic id="security-related-software-event-logs">
       <title>5. Security-related software event logs</title>
       <body>
         <p>Log Collection Principle(s): 6</p>
@@ -153,7 +153,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="6-network-information">
+    <topic id="network-information">
       <title>6. Network information</title>
       <body>
         <p>Log Collection Principle(s): 5</p>
@@ -188,7 +188,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="7-vpn-dial-up-activity">
+    <topic id="vpn-dial-up-activity">
       <title>7. VPN dial-up activity</title>
       <body>
         <p>Log Collection Principle(s): 5</p>
@@ -213,7 +213,7 @@
   <topic id="enhanced-maturity-tier">
     <title>Enhanced Maturity Tier</title>
     <body/>
-    <topic id="1-firewall-log-data-for-denied-network-traffic">
+    <topic id="firewall-log-data-for-denied-network-traffic">
       <title>1. Firewall log data for denied network traffic</title>
       <body>
         <p>Log Collection Principle(s): 5</p>
@@ -248,7 +248,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="2-commandexecutable-runtime-information">
+    <topic id="commandexecutable-runtime-information">
       <title>2. Command/executable runtime information</title>
       <body>
         <p>Log Collection Principle(s): 6</p>
@@ -269,7 +269,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="3-configuration-information">
+    <topic id="configuration-information">
       <title>3. Configuration information</title>
       <body>
         <p>Log Collection Principle(s): 6</p>

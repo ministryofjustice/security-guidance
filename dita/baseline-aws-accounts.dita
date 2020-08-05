@@ -36,7 +36,7 @@ Email Address: <xref href="mailto:cybersecurity@digital.justice.gov.uk" format="
     <topic id="guardduty">
       <title>GuardDuty</title>
       <body>
-        <p>Leverage AWS’ commodity IDS solution to detect/protect from malicious or unauthorised behavior.</p>
+        <p>Leverage AWS' commodity IDS solution to detect/protect from malicious or unauthorised behavior.</p>
         <table>
           <tgroup cols="3">
             <colspec colname="col1" colnum="1"/>
@@ -49,20 +49,21 @@ Email Address: <xref href="mailto:cybersecurity@digital.justice.gov.uk" format="
                 <entry colname="col3">Resolution/Escalation if baseline is broken/violated</entry>
               </row>
             </thead>
-            <tbody/>
+            <tbody>
+	            <row>
+	              <entry colname="col1"><xref href="https://aws.amazon.com/guardduty/" format="html" scope="external">GuardDuty</xref> is enabled on all accounts, in all regions, all of the time.</entry>
+	              <entry colname="col2"><p>Alerts fire when GuardDuty is not enabled in a MOJ AWS account.</p><p>Alerts fire for at least HIGH and above (or some version of) GuardDuty matches.</p></entry>
+	              <entry colname="col3">GuardDuty is automatically re-enabled.</entry>
+	            </row>
+            </tbody>
           </tgroup>
         </table>
-        <ul>
-          <li>
-            <p><xref href="https://aws.amazon.com/guardduty/" format="html" scope="external">GuardDuty</xref> is enabled on all accounts, in all regions, all of the time | * Alerts fire when GuardDuty is not enabled in a MOJ AWS account* Alerts fire for at least HIGH and above (or some version of) GuardDuty matches | * GuardDuty is automatically re-enabled</p>
-          </li>
-        </ul>
       </body>
     </topic>
     <topic id="cloudtrail">
       <title>CloudTrail</title>
       <body>
-        <p>Leverage AWS’ native activity audit platform (with adequate non-repudiation) to capture what AWS user (IAM etc) activity and changes are made within our AWS accounts</p>
+        <p>Leverage AWS' native activity audit platform (with adequate non-repudiation) to capture what AWS user (IAM etc) activity and changes are made within our AWS accounts</p>
         <table>
           <tgroup cols="3">
             <colspec colname="col1" colnum="1"/>
@@ -75,20 +76,22 @@ Email Address: <xref href="mailto:cybersecurity@digital.justice.gov.uk" format="
                 <entry colname="col3">Resolution/Escalation if baseline is broken/violated</entry>
               </row>
             </thead>
-            <tbody/>
+            <tbody>
+              <row>
+	              <entry colname="col1"><p><xref href="https://aws.amazon.com/cloudtrail/" format="html" scope="external">CloudTrail</xref> is enabled within all accounts, all of the time</p>
+	              <p>CloudTrail logs are carbon copied to an AWS account controlled by Cyber Security.</p></entry>
+	              <entry colname="col2"><p>Alerts fire when CloudTrail is not enabled in an MOJ AWS account.</p></entry>
+	              <entry colname="col3">CloudTrail is automatically re-enabled.</entry>
+	            </row>
+            </tbody>
           </tgroup>
         </table>
-        <ul>
-          <li>
-            <p><xref href="https://aws.amazon.com/cloudtrail/" format="html" scope="external">CloudTrail</xref> is enabled within all accounts, all of the time* CloudTrail logs are carbon copied to an AWS account controlled by Cyber Security | * Alerts fire when CloudTrail is not enabled in an MOJ AWS account | * CloudTrail is automatically re-enabled</p>
-          </li>
-        </ul>
       </body>
     </topic>
     <topic id="config">
       <title>Config</title>
       <body>
-        <p>Leverage AWS’ native AWS configuration activity audit platform to capture what changes are being made to AWS configurations.</p>
+        <p>Leverage AWS' native AWS configuration activity audit platform to capture what changes are being made to AWS configurations.</p>
         <table>
           <tgroup cols="3">
             <colspec colname="col1" colnum="1"/>
@@ -101,14 +104,15 @@ Email Address: <xref href="mailto:cybersecurity@digital.justice.gov.uk" format="
                 <entry colname="col3">Resolution/Escalation if baseline is broken/violated</entry>
               </row>
             </thead>
-            <tbody/>
+            <tbody>
+              <row>
+                <entry colname="col1"><p><xref href="https://aws.amazon.com/config/" format="html" scope="external">Config</xref> is enabled within all accounts, all of the time.</p><p>Config logs are carbon copied to an AWS account controlled by CyberSecurity via CloudTrail</p></entry>
+                <entry colname="col2">Alerts fire when Config is not enabled in an MOJ AWS account.</entry>
+                <entry colname="col3">Config is automatically re-enabled.</entry>
+              </row>
+            </tbody>
           </tgroup>
         </table>
-        <ul>
-          <li>
-            <p><xref href="https://aws.amazon.com/config/" format="html" scope="external">Config</xref> is enabled within all accounts, all of the time* Config logs are carbon copied to an AWS account controlled by CyberSecurity via CloudTrail | * Alerts fire when Config is not enabled in an MOJ AWS account | * Config is automatically re-enabled</p>
-          </li>
-        </ul>
       </body>
     </topic>
     <topic id="tagging">
@@ -128,14 +132,15 @@ Email Address: <xref href="mailto:cybersecurity@digital.justice.gov.uk" format="
                 <entry colname="col3">Resolution/Escalation if baseline is broken/violated</entry>
               </row>
             </thead>
-            <tbody/>
+            <tbody>
+              <row>
+                <entry colname="col1">All relevant AWS objects are tagged as per MOJ requirements.</entry>
+                <entry colname="col2"><p>Creating AWS user is notified automatically in increasing urgency when object is untagged.</p><p>AWS account owner (and increasing escalation) is automatically notified when objects remained untagged.</p></entry>
+                <entry colname="col3">Untagged objects are forcefully and automatically shutdown/disabled or isolated after 7 consecutive days of not being tagged.</entry>
+              </row>
+            </tbody>
           </tgroup>
         </table>
-        <ul>
-          <li>
-            <p>All relevant AWS objects are tagged as per MOJ requirements | * Creating AWS user is notified automatically in increasing urgency when object is untagged* AWS account owner (and increasing escalation) is automatically notified when objects remained untagged | * Untagged objects are forcefully and automatically shutdown/disabled or isolated after 7 consecutive days of not being tagged</p>
-          </li>
-        </ul>
       </body>
     </topic>
     <topic id="regions">
@@ -154,14 +159,15 @@ Email Address: <xref href="mailto:cybersecurity@digital.justice.gov.uk" format="
                 <entry colname="col3">Resolution/Escalation if baseline is broken/violated</entry>
               </row>
             </thead>
-            <tbody/>
+            <tbody>
+              <row>
+                <entry colname="col1">No AWS account can create resources outside of AWS EU regions.</entry>
+                <entry colname="col2">Alerts fire when non-EU resources are created to both the infrastructure teams and resource creator.</entry>
+                <entry colname="col3">Non-EU resources are automatically and forcefully shut down after 12 hours.</entry>
+              </row>
+            </tbody>
           </tgroup>
         </table>
-        <ul>
-          <li>
-            <p>No AWS account can create resources outside of AWS EU regions | * Alerts fire when non-EU resources are created to both the infrastructure teams and resource creator | * Non-EU resources are automatically and forcefully shut down after 12 hours</p>
-          </li>
-        </ul>
       </body>
     </topic>
     <topic id="identity--access-management">
@@ -180,14 +186,15 @@ Email Address: <xref href="mailto:cybersecurity@digital.justice.gov.uk" format="
                 <entry colname="col3">Resolution/Escalation if baseline is broken/violated</entry>
               </row>
             </thead>
-            <tbody/>
+            <tbody>
+              <row>
+                <entry colname="col1"><p>AWS user accounts have a defined and peer reviewed method for request/creation* Viable, authoritative and 'single source of truth' documentation exists to describe each AWS account and who should and should not have access (in terms of roles).</p><p>Idle AWS user accounts are suspended* MFA is required, always, enforced by policy.</p><p>Root user account usage is considered abnormal* Passphrase and/or MFA seed cycled on every AWS root account use.</p></entry>
+                <entry colname="col2"><p>AWS group account owners are alerted when new AWS accounts are created.</p><p>Idle (30 or more consecutive days of non-activity) AWS user accounts issue suspension notices to AWS group account owners and target user</p><p>Where an account does not have MFA, the user and AWS group account owners are notified after 7 consecutive days.</p><p>Any login or use of an AWS root account issues login alerts to the AWS group account owners.</p></entry>
+                <entry colname="col3"><p>Idle AWS user accounts are automatically suspended past threshold.</p><p>Non-MFA AWS user accounts are automatically suspended past threshold.</p><p>Alerts fire when an AWS root user account is used but the credentials are not updated within 7 days of utilisation.</p></entry>
+              </row>
+            </tbody>
           </tgroup>
         </table>
-        <ul>
-          <li>
-            <p>AWS user accounts have a defined and peer reviewed method for request/creation* Viable, authoritative and ‘single source of truth’ documentation exists to describe each AWS account and who should and should not have access (in terms of roles)* Idle AWS user accounts are suspended* MFA is required, always, enforced by policy* Root user account usage is considered abnormal* Passphrase and/or MFA seed cycled on every AWS root account use | * AWS group account owners are alerted when new AWS accounts are created* Idle (30 or more consecutive days of non-activity) AWS user accounts issue suspension notices to AWS group account owners and target user* Where an account does not have MFA, the user and AWS group account owners are notified after 7 consecutive days* Any login or use of an AWS root account issues login alerts to the AWS group account owners | * Idle AWS user accounts are automatically suspended past threshold* Non-MFA AWS user accounts are automatically suspended past threshold* Alerts fire when an AWS root user account is used but the credentials are not updated within 7 days of utilisation</p>
-          </li>
-        </ul>
         <p>For more information on MFA, see the <xref href="multi-factor-authentication-mfa-guide.dita" type="topic">Multi-Factor Authentication guidance</xref>.</p>
       </body>
     </topic>
@@ -207,20 +214,21 @@ Email Address: <xref href="mailto:cybersecurity@digital.justice.gov.uk" format="
                 <entry colname="col3">Resolution/Escalation if baseline is broken/violated</entry>
               </row>
             </thead>
-            <tbody/>
+            <tbody>
+              <row>
+                <entry colname="col1">All AWS objects supporting encryption must have it enabled.</entry>
+                <entry colname="col2">S3 buckets without suitable SSE-* encryption enabled are alerted to resource creator and account owner.</entry>
+                <entry colname="col3">After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MOJ Cyber Security.</entry>
+              </row>
+            </tbody>
           </tgroup>
         </table>
-        <ul>
-          <li>
-            <p>All AWS objects supporting encryption must have it enabled | * S3 buckets without suitable SSE-* encryption enabled are alerted to resource creator and account owner | * After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MOJ Cyber Security</p>
-          </li>
-        </ul>
       </body>
     </topic>
     <topic id="world-access">
-      <title>‘World’ Access</title>
+      <title>'World' Access</title>
       <body>
-        <p>Ensure that public access to AWS data storage and compute is intentional, to avoid the ‘leaky bucket’ problem, and to aid attack surface minimisation.</p>
+        <p>Ensure that public access to AWS data storage and compute is intentional, to avoid the 'leaky bucket' problem, and to aid attack surface minimisation.</p>
         <table>
           <tgroup cols="3">
             <colspec colname="col1" colnum="1"/>
@@ -233,17 +241,20 @@ Email Address: <xref href="mailto:cybersecurity@digital.justice.gov.uk" format="
                 <entry colname="col3">Resolution/Escalation if baseline is broken/violated</entry>
               </row>
             </thead>
-            <tbody/>
+            <tbody>
+              <row>
+                <entry colname="col1">All AWS S3 objects should be not world (public) readable unless specifically intended to do so.</entry>
+                <entry colname="col2">S3 objects are programmatically reviewed (including 'open' ones) against the source infrastructure-as-code, if there is a mismatch the resource creator and AWS account owner notified.</entry>
+                <entry colname="col3"><p>After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MOJ Cyber Security.</p><p>After 7 days, the S3 object permissions are forcefully and automatically changed to remove 'world' access.</p></entry>
+              </row>
+              <row>
+                <entry colname="col1">Compute (for example, EC2 or ECS) instances should not be directly accessible from public networks unless through specific intentional design and should be behind CloudFront and/or applicable load balancing (preferring AWS LB technology). It must be truly exceptional for common service ports (for example, TCP80 or TCP443) to be served directly from compute resources.</entry>
+                <entry colname="col2">Compute instances are programmatically reviewed to ensure they are not internet-accessible unless explicitly designed and documented to be so. If there is a mismatch the resource creator and AWS account owner notified.</entry>
+                <entry colname="col3"><p>After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MOJ Cyber Security.</p><p>After 7 days, the relevant security groups are forcefully and automatically changed to remove 'world' access.</p></entry>
+              </row>
+            </tbody>
           </tgroup>
         </table>
-        <ul>
-          <li>
-            <p>All AWS S3 objects should be not world (public) readable unless specifically intended to do so. | * S3 objects are programmatically reviewed (including ‘open’ ones) against the source infrastructure-as-code, if there is a mismatch the resource creator and AWS account owner notified | * After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MOJ Cyber Security* After 7 days, the S3 object permissions are forcefully and automatically changed to remove ‘world’ access</p>
-          </li>
-          <li>
-            <p>Compute (for example, EC2 or ECS) instances should not be directly accessible from public networks unless through specific intentional design and should be behind CloudFront and/or applicable load balancing (preferring AWS LB technology).It must be truly exceptional for common service ports (for example, TCP80 or TCP443) to be served directly from compute resources.| * Compute instances are programmatically reviewed to ensure they are not internet-accessible unless explicitly designed and documented to be so. If there is a mismatch the resource creator and AWS account owner notified | * After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MOJ Cyber Security* After 7 days, the relevant security groups are forcefully and automatically changed to remove ‘world’ access</p>
-          </li>
-        </ul>
       </body>
     </topic>
     <topic id="securityhub">
@@ -263,14 +274,15 @@ Email Address: <xref href="mailto:cybersecurity@digital.justice.gov.uk" format="
                 <entry colname="col3">Resolution/Escalation if baseline is broken/violated</entry>
               </row>
             </thead>
-            <tbody/>
+            <tbody>
+              <row>
+                <entry colname="col1">SecurityHub is enabled on all accounts, in all regions, all of the time.</entry>
+                <entry colname="col2">Alerts fire when SecurityHub is not enabled in a MOJ AWS account.</entry>
+                <entry colname="col3">SecurityHub is automatically re-enabled.</entry>
+              </row>
+            </tbody>
           </tgroup>
         </table>
-        <ul>
-          <li>
-            <p>SecurityHub  is enabled on all accounts, in all regions, all of the time | * Alerts fire when SecurityHub is not enabled in a MOJ AWS account | * SecurityHub is automatically re-enabled</p>
-          </li>
-        </ul>
       </body>
     </topic>
   </topic>

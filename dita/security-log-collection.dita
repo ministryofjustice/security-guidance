@@ -29,7 +29,7 @@
 If you have any questions or comments, <xref href="index.dita#getting-in-touch" type="topic">get in touch</xref>.</p>
       <p>To enable ease of referencing, but not to imply priority order, each item is assigned a reference.</p>
     </body>
-    <topic id="1-authentication-events">
+    <topic id="authentication-events">
       <title>1. Authentication events</title>
       <body>
         <ul>
@@ -54,7 +54,7 @@ If you have any questions or comments, <xref href="index.dita#getting-in-touch" 
         </ul>
       </body>
     </topic>
-    <topic id="2-authorisation-events">
+    <topic id="authorisation-events">
       <title>2. Authorisation events</title>
       <body>
         <ul>
@@ -70,7 +70,7 @@ If you have any questions or comments, <xref href="index.dita#getting-in-touch" 
         </ul>
       </body>
     </topic>
-    <topic id="3-infrastructure-events">
+    <topic id="infrastructure-events">
       <title>3. Infrastructure events</title>
       <body>
         <p>Infrastructure is defined as underlying resources, whether a logical switch, server or through to a containerised compute resource in the cloud, upon which end-user or application logic is overlaid.</p>
@@ -96,7 +96,7 @@ If you have any questions or comments, <xref href="index.dita#getting-in-touch" 
         </ul>
       </body>
     </topic>
-    <topic id="4-domain-name-service-queries">
+    <topic id="domain-name-service-queries">
       <title>4. Domain name service queries</title>
       <body>
         <ul>
@@ -112,7 +112,7 @@ If you have any questions or comments, <xref href="index.dita#getting-in-touch" 
         </ul>
       </body>
     </topic>
-    <topic id="5-network-traffic-events">
+    <topic id="network-traffic-events">
       <title>5. Network traffic events</title>
       <body>
         <ul>
@@ -125,14 +125,14 @@ If you have any questions or comments, <xref href="index.dita#getting-in-touch" 
         </ul>
       </body>
     </topic>
-    <topic id="6-contextual-security-related-events">
+    <topic id="contextual-security-related-events">
       <title>6. Contextual security related events</title>
       <body>
         <p>In context and where present, technology may generate events pertinent to security and these must be captured.</p>
         <p>For example, operating system patch state information from end-point protection detections through to encryption states within storage arrays.</p>
       </body>
     </topic>
-    <topic id="7-log-transmission-to-the-moj-cyber-security-logging-platform">
+    <topic id="log-transmission-to-the-moj-cyber-security-logging-platform">
       <title>7. Log transmission to the MOJ Cyber Security Logging Platform</title>
       <body>
         <ul>

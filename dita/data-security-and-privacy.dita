@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="data-security--privacy">
-  <title>Data Security &amp; Privacy</title>
+<topic id="data-security-and-privacy">
+  <title>Data Security and Privacy</title>
   <body>
     <p>We believe that our technology must keep data safe and protect user privacy.</p>
     <p>Our digital projects contain important information. Serious data breaches might result if we fail to:</p>

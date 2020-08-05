@@ -9,7 +9,7 @@
   <topic id="baseline-maturity-tier">
     <title>Baseline Maturity Tier</title>
     <body/>
-    <topic id="1-user-directory-services">
+    <topic id="user-directory-services">
       <title>1. User directory services</title>
       <body>
         <p>Log Collection Principle(s): 1, 2</p>
@@ -93,7 +93,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="2-bastionjumpaction-proxy-services">
+    <topic id="bastionjumpaction-proxy-services">
       <title>2. Bastion/Jump/Action-proxy services</title>
       <body>
         <p>Log Collection Principle(s): 1, 2, 6</p>
@@ -124,7 +124,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="3-domain-name-service-query-logs">
+    <topic id="domain-name-service-query-logs">
       <title>3. Domain name service query logs</title>
       <body>
         <p>Log Collection Principle(s): 4</p>
@@ -157,7 +157,7 @@
         <p>This remains true for where nodes (for example, servers) may bypass internal DNS services.</p>
       </body>
     </topic>
-    <topic id="4-web-proxy-access-logs">
+    <topic id="web-proxy-access-logs">
       <title>4. Web proxy access logs</title>
       <body>
         <p>Log Collection Principle(s): 5</p>
@@ -192,7 +192,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="5-hypervisor-events">
+    <topic id="hypervisor-events">
       <title>5. Hypervisor events</title>
       <body>
         <p>Log Collection Principle(s): 3, 6</p>
@@ -251,7 +251,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="6-orchestrator-events">
+    <topic id="orchestrator-events">
       <title>6. Orchestrator events</title>
       <body>
         <p>Log Collection Principle(s): 3, 6</p>
@@ -304,7 +304,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="7-allocation-of-ip-address-leases-from-dhcp-services">
+    <topic id="allocation-of-ip-address-leases-from-dhcp-services">
       <title>7. Allocation of IP address leases from DHCP services</title>
       <body>
         <p>Log Collection Principle(s): 3, 5</p>
@@ -345,7 +345,7 @@
   <topic id="enhanced-maturity-tier">
     <title>Enhanced Maturity Tier</title>
     <body/>
-    <topic id="1-firewall-log-data-for-denied-network-traffic">
+    <topic id="firewall-log-data-for-denied-network-traffic">
       <title>1. Firewall log data for denied network traffic</title>
       <body>
         <p>Log Collection Principle(s): 5</p>
@@ -380,35 +380,35 @@
         </ul>
       </body>
     </topic>
-    <topic id="2-internal-dns-namespace-zone-content">
+    <topic id="internal-dns-namespace-zone-content">
       <title>2. Internal DNS namespace zone content</title>
       <body>
         <p>Log Collection Principle(s): 4</p>
         <p>Internal domain name spaces must ultimate forward, in an <xref href="https://tools.ietf.org/html/rfc5936" format="html" scope="external">RFC5936 (DNS Zone Transfer Protocol (AXFR)</xref> compatible format including all information described in the RFC.</p>
       </body>
     </topic>
-    <topic id="3-dhcp-scopes-and-the-functional-segmentation-of-each">
+    <topic id="dhcp-scopes-and-the-functional-segmentation-of-each">
       <title>3. DHCP scopes (and the functional segmentation of each)</title>
       <body>
         <p>Log Collection Principle(s): 5</p>
         <p>Machine-readable DHCP scope exports (and surrounding metadata/description of the purpose of each scope) must be created and forwarded.</p>
       </body>
     </topic>
-    <topic id="4-endpoint-protection-security-logs">
+    <topic id="endpoint-protection-security-logs">
       <title>4. Endpoint protection security logs</title>
       <body>
         <p>Log Collection Principle(s): 6</p>
         <p>Security log data (as defined by the vendor) must be created and forwarded.</p>
       </body>
     </topic>
-    <topic id="5-security-related-logs-for-all-windows-based-end-user-devices">
+    <topic id="security-related-logs-for-all-windows-based-end-user-devices">
       <title>5. Security-related logs for all Windows-based end-user devices</title>
       <body>
         <p>Log Collection Principle(s): 6</p>
         <p>Security-related logs, as defined by <xref href="https://github.com/ukncsc/" format="html" scope="external">NCSC’s Logging Made Easy template</xref>, from all end-user devices operating a Microsoft Windows operating system must be created and forwarded.</p>
       </body>
     </topic>
-    <topic id="6-mobile-device-enrollment-activity">
+    <topic id="mobile-device-enrollment-activity">
       <title>6. Mobile device enrollment activity</title>
       <body>
         <p>Log Collection Principle(s): 1, 2, 3, 6</p>
@@ -426,7 +426,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="7-vpn-concentrator-activity-data">
+    <topic id="vpn-concentrator-activity-data">
       <title>7. VPN concentrator activity data</title>
       <body>
         <p>Log Collection Principle(s): 3, 5</p>
@@ -447,7 +447,7 @@
         </ul>
       </body>
     </topic>
-    <topic id="8-pipeline-events">
+    <topic id="pipeline-events">
       <title>8. Pipeline events</title>
       <body>
         <p>Log Collection Principle(s): 1, 2, 3, 6</p>
