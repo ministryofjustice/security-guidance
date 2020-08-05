@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="secure-by-default">
+  <title>Secure by Default</title>
+  <body>
+    <p>We believe that technology should be Secure by Default. This means embedding security from inception, so that it is intrinsic and as transparent as possible.</p>
+    <p>h/t <xref href="https://www.ncsc.gov.uk/articles/secure-default" format="html" scope="external">https://www.ncsc.gov.uk/articles/secure-default</xref></p>
+  </body>
+  <topic id="good-technical-design-is-security-design">
+    <title>Good technical design is security design</title>
+    <body>
+      <p>Secure by Default takes a holistic approach to solving security problems. Security is treated as a core fundamental rather than a followup activity.</p>
+      <p>Embedding security within a design is directly comparable to good modern technical designs and fundementally ensuring the 'thing' actually works.</p>
+    </body>
+  </topic>
+  <topic id="secure-by-default-1">
+    <title>Secure by Default</title>
+    <body>
+      <p>The <xref href="https://www.ncsc.gov.uk" format="html" scope="external">National Cyber Security Centre (NCSC)</xref> describe the Secure by Default principles as:</p>
+      <ul>
+        <li>
+          <p>security should be built into products from the beginning, it can't be added in later;</p>
+        </li>
+        <li>
+          <p>security should be added to treat the root cause of a problem, not its symptoms;</p>
+        </li>
+        <li>
+          <p>security is never a goal in and of itself, it is a process - and it must continue throughout the lifetime of the product;</p>
+        </li>
+        <li>
+          <p>security should never compromise usability - products need to be secure enough, then maximise usability;</p>
+        </li>
+        <li>
+          <p>security should not require extensive configuration to work, and should just work reliably where implemented;</p>
+        </li>
+        <li>
+          <p>security should constantly evolve to meet and defeat the latest threats - new security features should take longer to defeat than they take to build;</p>
+        </li>
+        <li>
+          <p>security through obscurity should be avoided;</p>
+        </li>
+        <li>
+          <p>security should not require specific technical understanding or non-obvious behaviour from the user.</p>
+        </li>
+      </ul>
+    </body>
+    <topic id="context-is-important">
+      <title>Context is important</title>
+      <body>
+        <p>The principles above can generally be applied in most scenarios however interpretation and applicability in context can vary - the MOJ Cybersecurity team are here to help and advise.</p>
+        <p>NCSC also have a set of whitepapers which help explain some approaches to building products which align with these principles (and they add to them over time):</p>
+        <ul>
+          <li>
+            <p><xref href="https://www.ncsc.gov.uk/articles/secure-default-platforms" format="html" scope="external">Building a secure feature-rich computing platform</xref>, such as a smartphone.</p>
+          </li>
+          <li>
+            <p>
+              <xref href="https://www.ncsc.gov.uk/articles/sensitive-data-consumer-platforms" format="html" scope="external">Storing sensitive data on consumer platforms</xref>
+            </p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+  </topic>
+</topic>

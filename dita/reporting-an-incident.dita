@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="reporting-an-incident">
+  <title>Reporting an incident</title>
+  <body>
+    <p>MOJ colleagues should visit https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/ on the MOJ Intranet.</p>
+    <p>Suppliers to the MOJ should refer to provided methods/documentation and contact your usual MOJ points of contact.</p>
+  </body>
+</topic>

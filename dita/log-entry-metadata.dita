@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="log-entry-metadata">
+  <title>Log entry metadata</title>
+  <body>
+    <p>Any security log data collected must comply with these metadata standards to ensure we are able to consistently interpret log data using other systems.</p>
+  </body>
+  <topic id="timedate">
+    <title>Time/date</title>
+    <body>
+      <ul>
+        <li>
+          <p>a: all log events must be time stamped in the common log timestamping format as defined by <xref href="https://en.wikipedia.org/wiki/ISO_8601" format="html" scope="external">ISO8601</xref> <codeph>[dd/MM/yyyy:hh:mm:ss +-hhmm]</codeph> where the fields are defined as follows:</p>
+          <ul>
+            <li>
+              <p>1: dd is the day of the month</p>
+            </li>
+            <li>
+              <p>2: MMM is the month</p>
+            </li>
+            <li>
+              <p>3: yyyy is the year</p>
+            </li>
+            <li>
+              <p>4: :hh is the hour</p>
+            </li>
+            <li>
+              <p>5: :mm is the minute</p>
+            </li>
+            <li>
+              <p>6: :ss is the seconds</p>
+            </li>
+            <li>
+              <p>7: +-hhmm is the time zone</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>b: systems must use an automated time syncing protocol (such as NTP) with an external time source to ensure it is not subject to ‘time drift’ that may impact the accuracy of time stamping.</p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="formats">
+    <title>Formats</title>
+    <body>
+      <p>Only the following log file formats should be used:</p>
+      <ul>
+        <li>
+          <p>a: Apache Common Log Format</p>
+        </li>
+        <li>
+          <p>b: NCSA (Common or Access, Combined, and Separate or 3-Log)</p>
+        </li>
+        <li>
+          <p>c: Windows Event Log</p>
+        </li>
+        <li>
+          <p>d: W3C Extended Log File Format</p>
+        </li>
+        <li>
+          <p>e: W3C Extended (used by Microsoft IIS 4.0 and 5.0)</p>
+        </li>
+        <li>
+          <p>f: SunTM ONE Web Server (iPlanet)</p>
+        </li>
+        <li>
+          <p>g: IBM Tivoli Access Manager WebSEAL</p>
+        </li>
+        <li>
+          <p>h: WebSphere Application Server Logs</p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+</topic>
