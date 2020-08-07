@@ -15,7 +15,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
     <topic id="background">
       <title>Background</title>
       <body>
-        <p><i>Government Functional Standard - GovS 007: Security</i> replaces the HMG Security Policy Framework (SPF) last published in May 2018. It also incorporates the <i>Minimum Cyber Security Standard (MCSS)</i> which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.</p>
+        <p><i><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></i> replaces the HMG Security Policy Framework (SPF) last published in May 2018. It also incorporates the <i>Minimum Cyber Security Standard (MCSS)</i> which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.</p>
         <p>Sections 6.12 Cyber security and 6.13 Technical security of the standard state:</p>
         <lq>
           <ul>
@@ -573,6 +573,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>Technical Guidance</title>
       <body>
         <p>The MoJ <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> should be read together with this security-focused guidance.</p>
+        <p><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></p>
       </body>
     </topic>
   </topic>
