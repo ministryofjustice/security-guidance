@@ -10,7 +10,7 @@ The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 ### Background
 
-*Government Functional Standard - GovS 007: Security* replaces the HMG Security Policy Framework (SPF) last published in May 2018. It also incorporates the *Minimum Cyber Security Standard (MCSS)* which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.
+*[Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security)* replaces the HMG Security Policy Framework (SPF) last published in May 2018. It also incorporates the *Minimum Cyber Security Standard (MCSS)* which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.
 
 Sections 6.12 Cyber security and 6.13 Technical security of the standard state:
 
@@ -186,9 +186,7 @@ There are other cyber and technical security guidance documents available to ref
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) should be read together with this security-focused guidance.
 
-<!-- ## References
-
-![](https://github.com/ministryofjustice/security-guidance/blob/Local/images/GovS_007_Thumbnail.png) Government Functional Standard - GovS 007: Security -->
+[Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security)
 
 ## Getting in touch
 
