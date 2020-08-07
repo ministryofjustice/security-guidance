@@ -5,7 +5,8 @@
 
 <map>
 	<title>MOJ Cyber Security Guidance</title>
-	<topicref href="index.dita" type="topic"/>
+	<topicref href="conrefs.dita" type="topic" processing-role="resource-only"/>
+	<topicref href="cyber-and-technical-security-guidance.dita" type="topic"/>
 	<topichead navtitle="Cyber">
 		<topichead navtitle="Access Control">
 			<topicref href="access-control-guide.dita" type="topic"/>

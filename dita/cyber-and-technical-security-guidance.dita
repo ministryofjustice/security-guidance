@@ -566,7 +566,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
     <topic id="intranet">
       <title>Intranet</title>
       <body>
-        <p>There are other cyber and technical security guidance documents available to reference. A large number of these documents are available in the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/" format="html" scope="external">IT and Computer Security</xref> repository on the MoJ Intranet, but these documents are currently being reviewed and progressively are being incorporated into this main <xref href="index.dita" type="topic">Security Guidance</xref> repository.</p>
+        <p>There are other cyber and technical security guidance documents available to reference. A large number of these documents are available in the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/" format="html" scope="external">IT and Computer Security</xref> repository on the MoJ Intranet, but these documents are currently being reviewed and progressively are being incorporated into this main <xref href="cyber-and-technical-security-guidance.dita" type="topic">Security Guidance</xref> repository.</p>
       </body>
     </topic>
     <topic id="technical-guidance">

@@ -26,7 +26,7 @@
     <title>Principles</title>
     <body>
       <p>We have created a series of security log collection principle requirements for the MOJ.
-If you have any questions or comments, <xref href="index.dita#getting-in-touch" type="topic">get in touch</xref>.</p>
+If you have any questions or comments, <xref href="cyber-and-technical-security-guidance.dita#getting-in-touch" type="topic">get in touch</xref>.</p>
       <p>To enable ease of referencing, but not to imply priority order, each item is assigned a reference.</p>
     </body>
     <topic id="authentication-events">

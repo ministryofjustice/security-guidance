@@ -7,7 +7,7 @@
   <topic id="introduction">
     <title>Introduction</title>
     <body>
-      <p>This guide explains how the MoJ manages access to its IT systems so that users have access only to the material they need to see. This guide has sub-pages which provide in-depth Access Control guidance.</p>
+      <p>This guide explains how the <ph conref="conrefs.dita#conrefs/mojlong"/> manages access to its IT systems so that users have access only to the material they need to see. This guide has sub-pages which provide in-depth Access Control guidance.</p>
     </body>
   </topic>
   <topic id="who-is-this-for">
@@ -16,7 +16,7 @@
       <p>This guide is aimed at two audiences:</p>
       <ol>
         <li>
-          <p>The in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation.</p>
+          <p>The in-house <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation.</p>
         </li>
         <li>
           <p>Any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the MoJ.</p>
