@@ -31,12 +31,18 @@
 
 	<target name="compile" depends="init"
 				description="compile the source">
-		<!-- Compile the DITA code from ${dita} into ${build} -->
+		<!-- Compile the DITA code into markdown -->
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="markdown_github"/>
-			</ant>
+		</ant>
+		<!-- Compile the DITA code into PDF -->
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
+			<property name="output.dir" location="${build}"/>
+			<property name="transtype" value="pdf"/>
+		</ant>
 	</target>
 
 	<target name="dist" depends="compile"
