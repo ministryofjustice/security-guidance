@@ -1,0 +1,41 @@
+title: MOJ security guidance
+
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: "standards"
+    values:
+      standard: true
+  -
+    scope:
+      path: "guides"
+    values:
+      guide: true
+  -
+    scope:
+      path: "principles"
+    values:
+      principle: true
+  -
+    scope:
+      path: "suppliers"
+    values:
+      supplier: true
+  -
+    scope:
+      path: "mythbusting"
+    values:
+      mythbusting: true
+  -
+    scope:
+      path: "contact"
+    values:
+      contact: true
+  -
+    scope:
+      path: "policies"
+    values:
+      policy: true
+
