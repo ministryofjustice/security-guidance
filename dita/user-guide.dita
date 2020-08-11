@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="cyber-security-consultancy-team-asking-for-help">
+  <title>Cyber Security Consultancy Team: asking for help</title>
+  <body/>
+  <topic id="overview">
+    <title>Overview</title>
+    <body>
+      <p>This document tells you about the Cyber Security Consultancy Team. It explains how to ask for help, outlines how we handle your requests, and describes what happens next.</p>
+      <p>To ask for help from a cyber security consultant, send an email to: <xref href="mailto:cyberconsultancy@digital.justice.gov.uk" format="email" scope="external">cyberconsultancy@digital.justice.gov.uk</xref></p>
+    </body>
+  </topic>
+  <topic id="about-the-team">
+    <title>About the team</title>
+    <body>
+      <p>The Cyber Security Consultancy Team is part of Ministry of Justice Security &amp; Privacy. The MoJ Chief Information Security Officer leads the consultants.</p>
+      <p>The team provides help and guidance around cyber security matters, such as:</p>
+      <ul>
+        <li>
+          <p>Understanding the risks facing your systems and services.</p>
+        </li>
+        <li>
+          <p>Designing and implementing effective mitigations for these risks.</p>
+        </li>
+        <li>
+          <p>Developing services using security best practices.</p>
+        </li>
+        <li>
+          <p>Checking that you or your third party suppliers have enough, and appropriate, cyber security measures in place.</p>
+        </li>
+        <li>
+          <p>Applying IT Security policy to specific scenarios.</p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="asking-for-help">
+    <title>Asking for help</title>
+    <body>
+      <p>If you need help dealing with a cyber security task or problem, send an email to: <xref href="mailto:cyberconsultancy@digital.justice.gov.uk" format="email" scope="external">cyberconsultancy@digital.justice.gov.uk</xref></p>
+      <p>Some requests are better handled by other teams. For urgent matters such as incidents, or to get help about physical or personnel security, contact <xref href="mailto:security@digital.justice.gov.uk" format="email" scope="external">security@digital.justice.gov.uk</xref>. For help with data protection, contact <xref href="mailto:data.compliance@justice.gov.uk" format="email" scope="external">data.compliance@justice.gov.uk</xref>.</p>
+      <p>The consultant team keep an eye open for email requests. Normally, you'll get an acknowledgement or more detailed reply within two working days.</p>
+      <p>To help us help you, please answer these questions in your email request, as best you can:</p>
+      <ol>
+        <li>
+          <p>Who is the work for?</p>
+        </li>
+        <li>
+          <p>Why is it important?</p>
+        </li>
+        <li>
+          <p>What happens if the work is not done (or not done on time)?</p>
+        </li>
+        <li>
+          <p>What is your need (old-style accreditation on an existing contract, guidance or advice, review of proposed approach,...)?</p>
+        </li>
+        <li>
+          <p>What skills or experience does the work need (known or predicted)?</p>
+        </li>
+        <li>
+          <p>When is the next project milestone that needs cyber consultancy input or involvement?</p>
+        </li>
+      </ol>
+    </body>
+  </topic>
+  <topic id="how-the-consultancy-team-handle-requests-for-help">
+    <title>How the Consultancy team handle requests for help</title>
+    <body>
+      <p>Each working day, we review all new requests.</p>
+      <p>Our Service Level Agreement aims to get a reply to you within two working days of us receiving the request. Some large or complex requests might need more information and discussion. These requests take extra time for us to work out the best way to support you.</p>
+      <p>Some requests might not be appropriate for the team. In such cases, we send a prompt reply, explaining why it would be better to talk with a different team. We'll usually recommend a more appropriate team, and provide contact details for them.</p>
+    </body>
+  </topic>
+  <topic id="what-happens-next">
+    <title>What happens next</title>
+    <body>
+      <p>If your request is not appropriate for the Consultancy team, we'll tell you immediately after the initial assessment.</p>
+      <p>If your request is appropriate for the Consultancy team, the assigned consultant contacts you directly. They will engage with you to start providing the help you need.</p>
+    </body>
+  </topic>
+  <topic id="if-things-go-wrong">
+    <title>If things go wrong...</title>
+    <body>
+      <p>If you disagree with our decision about your request, or there is some other problem, contact us again: <xref href="mailto:cyberconsultancy@digital.justice.gov.uk" format="email" scope="external">cyberconsultancy@digital.justice.gov.uk</xref>.</p>
+      <p>If you'd prefer a different escalation route, contact <xref href="mailto:ciso@digital.justice.gov.uk" format="email" scope="external">ciso@digital.justice.gov.uk</xref>.</p>
+    </body>
+  </topic>
+</topic>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="assessing-suppliers">
+  <title>Assessing suppliers</title>
+  <body>
+    <p>The MOJ assesses suppliers as a responsible public body managing public funds and data. These assessments range from commercial and legal for the purposes of contract through to risk assessments for the purposes of information security.</p>
+    <p>The MOJ utilises a range of <xref href="https://www.ncsc.gov.uk/guidance/risk-management-collection" format="html" scope="external">risk management</xref> techniques including <xref href="https://www.ncsc.gov.uk/guidance/summary-risk-methods-and-frameworks" format="html" scope="external">information risk assessments</xref>.</p>
+    <p>Suppliers are expected to create, maintain and demonstrate a mature and considered approach to risk management when engaged with the MOJ.</p>
+  </body>
+  <topic id="accreditation">
+    <title>Accreditation</title>
+    <body>
+      <p>The MOJ no longer accredits new systems or suppliers (as defined by CESG Information Assurance Standard 1&amp;2).</p>
+      <p>The MOJ maintains accreditations where committed to by existing contract.</p>
+    </body>
+  </topic>
+  <topic id="commodity-digital-technology">
+    <title>Commodity digital technology</title>
+    <body>
+      <p>MOJ assesses commodity digital technology supply chain such as Software-as-a-Service (SaaS) tools such as Google G-Suite, Microsoft Office 365, Trello and AtlassianCloud based on the <xref href="https://www.ncsc.gov.uk/guidance/implementing-cloud-security-principles" format="html" scope="external">Cloud Security Principles</xref>, information risk assessment techniques and shared data within HMG.</p>
+    </body>
+  </topic>
+</topic>

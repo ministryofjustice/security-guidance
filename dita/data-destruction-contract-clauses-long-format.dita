@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="long-format-clause">
+  <title>Long format clause</title>
+  <body>
+    <p>The current draft of the MOJ commodity long format data destruction clause.</p>
+    <p><codeph>Highlighted</codeph> words indicate potential requirement for contextual change, requirement of definition and so on.</p>
+  </body>
+  <topic id="clause">
+    <title>Clause</title>
+    <body>
+      <ol>
+        <li>
+          <p>Data Destruction</p>
+          <ol>
+            <li>
+              <p>The <codeph>Authority</codeph> requires the <codeph>Supplier</codeph> to ensure that <codeph>Data Destruction</codeph> has been adequately completed at the natural end and/or termination of contract as per <codeph>Schedule XX</codeph>.</p>
+            </li>
+            <li>
+              <p>The <codeph>Supplier</codeph> shall take all reasonable commercial measures to ensure Data Destruction is an irrevocable action to prevent the reconstitution of data, in alignment with methods described in <codeph>Appendix XX</codeph>.</p>
+            </li>
+            <li>
+              <p>The <codeph>Supplier</codeph> shall notify the <codeph>Authority</codeph> when data destruction has taken place, including the final date by which such destruction shall be complete in the case of scheduled data destruction or natural data management lifecycles such as through automated backup or disaster recovery systems.</p>
+            </li>
+            <li>
+              <p>Where data cannot be immediately destroyed, access control methods must be put in place to limit the ability the ability for <codeph>Data Processing</codeph> until data destruction can be completed.</p>
+            </li>
+            <li>
+              <p>The <codeph>Supplier</codeph> shall provide evidence of data destruction on request from the <codeph>Authority</codeph>, including but not limited to, copies of third-party data destruction certificates, copies of internal policy and process documents in relation to data management and data destruction.</p>
+            </li>
+            <li>
+              <p>The <codeph>Supplier</codeph> shall notify the <codeph>Authority</codeph> within <codeph>24 (twenty-four) hours</codeph> of identification of unsuccessful or incomplete data destruction.</p>
+            </li>
+          </ol>
+        </li>
+      </ol>
+    </body>
+  </topic>
+</topic>

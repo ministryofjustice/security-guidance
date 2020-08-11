@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="accounting">
+  <title>Accounting</title>
+  <body/>
+  <topic id="the-base-principle">
+    <title>The base principle</title>
+    <body>
+      <p>Any access, and subsequent activity, to any system or data <b>must</b> employ adequate accounting techniques to ensure events can be attributed to the authenticated entity.</p>
+      <p>Accounting information must be stored in a way that it cannot be readily manipulated, particularly by the authenticated entity.</p>
+    </body>
+  </topic>
+  <topic id="log-data-security--governance">
+    <title>Log data security &amp; governance</title>
+    <body>
+      <p>Log data can include Personal Data or inadvertent sensitive data (when an application or system is unexpectedly verbose) and must be adequately protected and governed in a comparable way to the original system's data.</p>
+    </body>
+  </topic>
+  <topic id="security-related-log-data-retention">
+    <title>Security-related log data retention</title>
+    <body>
+      <p>Log data created and processed for information security purposes should be retained for no longer than 2 (two) years by default (this is subject to any legislative or regulative compliance requirements) but for a minimum of 6 months.</p>
+      <p>These times are generalistic as a guide, and require contextual analysis particularly where Personal Data is involved.</p>
+    </body>
+  </topic>
+</topic>

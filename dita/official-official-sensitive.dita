@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="official-official-sensitive">
+  <title>OFFICIAL, OFFICIAL-SENSITIVE</title>
+  <body>
+    <p>h/t <xref href="https://www.gov.uk/guidance/official-sensitive-data-and-it" format="html" scope="external">https://www.gov.uk/guidance/official-sensitive-data-and-it</xref></p>
+  </body>
+  <topic id="official">
+    <title>OFFICIAL</title>
+    <body>
+      <p><codeph>OFFICIAL</codeph> is a UK HM Government information asset classification under the <xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">Government Security Classifications Policy (GSCP)</xref>.</p>
+    </body>
+  </topic>
+  <topic id="official-sensitive">
+    <title>OFFICIAL-SENSITIVE</title>
+    <body>
+      <p><codeph>OFFICIAL-SENSITIVE</codeph> is <b>not</b> a classification. <codeph>SENSITIVE</codeph> is a handling caveat for a small subset of information marked OFFICIAL that require <i>special</i> handling by staff above and beyond the decribed <codeph>OFFICIAL</codeph> baseline.</p>
+      <p>The <codeph>SENSITIVE</codeph> handling caveat is a <i>reminder</i> as opposed to a requirement for additional controls nor a description of a minimum set of controls.</p>
+    </body>
+    <topic id="descriptors">
+      <title>DESCRIPTORS</title>
+      <body>
+        <p>Descriptors <i>can</i> be applied (but they do not need to be) to help identify certain categories of <codeph>SENSITIVE</codeph> information.</p>
+        <p>Descriptors should be applied in the format <codeph>OFFICIAL-SENSITIVE [DESCRIPTOR]</codeph></p>
+        <p>The Cabinet Office maintains the following list of core descriptors to ensure a consistent
+approach is adopted across all departments:</p>
+        <ul>
+          <li>
+            <p><codeph>COMMERCIAL</codeph>: Commercial- or market-sensitive information, including that subject to statutory or regulatory obligations, that may be damaging to HMG or to a commercial partner if improperly accessed.</p>
+          </li>
+          <li>
+            <p><codeph>LOCSEN</codeph>: Sensitive information that locally engaged staff overseas cannot access.</p>
+          </li>
+          <li>
+            <p><codeph>PERSONAL</codeph>: Particularly sensitive information relating to an identifiable individual, where inappropriate access could have damaging consequences. For example, where relating to investigations, vulnerable individuals, or the personal / medical records of people in sensitive posts (e.g. military, SIA).</p>
+          </li>
+        </ul>
+        <p>Descriptors are <b>not</b> codewords.</p>
+      </body>
+    </topic>
+  </topic>
+</topic>

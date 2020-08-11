@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="standards-assurance-tables">
+  <title>Standards Assurance Tables</title>
+  <body>
+    <p>The MOJ Cyber Security team have developed a 'Standards Assurance Table' (SAT) in the form of a Google Sheet template.</p>
+    <p>The SAT measures technology systems (and surrounding information governance) against the <xref href="https://www.gov.uk/government/organisations/cabinet-office" format="html" scope="external">UK Cabinet Office</xref> <xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">Minimum Cyber Security Standard (MCSS)</xref> and <xref href="https://www.ncsc.gov.uk/" format="html" scope="external">UK National Cyber Security Centre (NCSC)</xref> <xref href="https://www.ncsc.gov.uk/collection/cloud-security?curPage=/collection/cloud-security/implementing-the-cloud-security-principles" format="html" scope="external">Cloud Security Principles (CSPs)</xref>.</p>
+    <p>For transparency and open-working purposes, a <xref href="https://docs.google.com/spreadsheets/d/1oO9RAZQ6ETsN2iHZb5zcFM0HROliw18MBv89oF-BPeg/edit?usp=sharing" format="html" scope="external">redacted copy of the Standards Assurance Table</xref> has been published. Please note, this is not the functional template used within the MOJ.</p>
+  </body>
+  <topic id="sat-template">
+    <title>SAT Template</title>
+    <body>
+      <p>The SAT itself is written to be self-explanatory to a cyber security professional who is already aware of the MCSS/CSP and has a familiarity with information risk management concepts.</p>
+      <ul>
+        <li>
+          <p>Black labelled sheets describe the SAT and how it should be used</p>
+        </li>
+        <li>
+          <p>Blue labelled sheets are the ones to complete</p>
+        </li>
+        <li>
+          <p>Yellow labelled sheets are automatically calculated, providing reports based on the blue labelled sheet data</p>
+        </li>
+        <li>
+          <p>Green labelled sheets offer help/guidance on SAT components</p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="key-sat-concepts">
+    <title>Key SAT concepts</title>
+    <body>
+      <p>The SATs have measures including "Objectives", "Evidence", "Confidence", an overall "Delta" (which is the most pertinent SAT output) and "Further Evidence Required", with supporting commentary.</p>
+      <p>The primary SAT purpose is to help assess a system against the MCSS/CSP. It is used to determine confidence whether or not the evidence demonstrates the system is compliant (or not).</p>
+      <p>Evidence is analysed to determine confidence that the evidence demonstrates the system meets (or does not meet) the standards. It also indicates the 'gap' (delta) between the system's posture according to said evidence and the standards.</p>
+    </body>
+    <topic id="objectives">
+      <title>Objectives</title>
+      <body>
+        <p>The MCSS/CSPs have been distilled into 39 objectives. The Assessor (normally a cyber security professional) completes the SAT by evaluating the target system against the objectives.</p>
+        <p>The <xref href="identify-protect-detect-respond-recover.dita" type="topic">categories used within the MCSS</xref> are discussed seperately.</p>
+        <p>Objectives are templated. This means they can be added to but existing objectives must not be deleted or edit in-place.</p>
+      </body>
+    </topic>
+    <topic id="evidence">
+      <title>Evidence</title>
+      <body>
+        <p>To avoid assessments that are ultimately anecdotal, the assessor will only rely upon written evidence.</p>
+        <p>Evidence can come in the form of transcribed conversations, diagrams, documentation or other auditable information about a system.</p>
+        <p>Evidence might not be directly related to the system itself but form a part, for example, where there is a wider document that is not system orientated but which describes who is relevant role holders currently are.</p>
+        <p>Evidence is described as being 'Held', 'Partial', 'Not Held' or 'N/A' (where the Objective is not applicable to the system being assessed).</p>
+      </body>
+    </topic>
+    <topic id="confidence">
+      <title>Confidence</title>
+      <body>
+        <p>The assessor reviews the evidence and uses their professional opinion to indicate a Confidence Score.</p>
+        <p>The Confidence Score uses a scale from 0 (no confidence at all) to 14 (high level of confidence), or 'N/A' (where the Objective is not applicable to the system being assessed).</p>
+      </body>
+    </topic>
+    <topic id="delta">
+      <title>Delta</title>
+      <body>
+        <p>The Delta Rating is the resulting 'distance' between the assessed system posture against an Objective and the confidence of the same.</p>
+        <p>Mathematically, the final Delta Rating is N/A (where the Objective is not applicable to the system being assessed) or 0 to 14 (inc).</p>
+        <p>A wide delta (higher numerical value) indicates that the Objective is not met. A narrow delta (lower numerical value) indicates that the Objective is closer to being met.</p>
+        <p>The Delta Rating is automatically calculated as '14 minus Confidence Score'.</p>
+      </body>
+    </topic>
+    <topic id="further-evidence-required">
+      <title>Further Evidence Required</title>
+      <body>
+        <p>The assessor indicates what further evidence <i>types</i> in their view are required based on the evidence they have thus far.</p>
+        <p>The <xref href="https://docs.google.com/spreadsheets/d/1oO9RAZQ6ETsN2iHZb5zcFM0HROliw18MBv89oF-BPeg/edit#gid=679100590" format="html" scope="external">Further Evidence Required (Help) sheet</xref> has a calculator which the assessor will use.</p>
+        <p>The data point is currently a unique number to assist with future automated analysis. The format and range of values for the data point is currently under active review and so subject to change without notice.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="understanding-the-objectives-gathering-evidence-for-the-assessor">
+    <title>Understanding the Objectives, gathering evidence for the assessor</title>
+    <body>
+      <p>Teams/individuals responsible for the design, creation, implementation, support and maintenance of systems should have viable written evidence (regardless of format) that should be made available to various teams on request, for example, security or to internal audit.</p>
+      <p>Using the <xref href="identify-protect-detect-respond-recover.dita" type="topic">categories used within the MCSS</xref> as a basis, some indicative questions and documentation expectations are discussed below.</p>
+    </body>
+    <topic id="identify">
+      <title>IDENTIFY</title>
+      <body/>
+      <topic id="possible-documentation">
+        <title>Possible documentation</title>
+        <body>
+          <ul>
+            <li>
+              <p>Team organisation charts</p>
+            </li>
+            <li>
+              <p>Data Privacy Impact Assessments (DPIAs)</p>
+            </li>
+            <li>
+              <p>Information risk management documentation (for example, RMADS)</p>
+            </li>
+            <li>
+              <p>Information flow diagrams</p>
+            </li>
+          </ul>
+        </body>
+      </topic>
+      <topic id="thought-questions">
+        <title>Thought questions</title>
+        <body>
+          <ul>
+            <li>
+              <p>Who is responsible and/or accountable for the the system whether from an operational or budgetary perspective?</p>
+            </li>
+            <li>
+              <p>Who is responsible and/or accountable for the information held inside the system?</p>
+            </li>
+            <li>
+              <p>What security-focused work has been conducted recently (within the last year) on any suppliers and supplier systems to ensure they are safe for use/integration?</p>
+            </li>
+            <li>
+              <p>Where is the system technically hosted?</p>
+            </li>
+            <li>
+              <p>In what services or geographical locations does the system <i>store</i> data?</p>
+            </li>
+            <li>
+              <p>In what services, geographical, or legal locations does the system <i>process</i> data?</p>
+            </li>
+            <li>
+              <p>What are the consequences if the system is unavailable to users or data has been lost/corrupted?</p>
+            </li>
+            <li>
+              <p>How do the consequences of unavailability change over time? (For example, after one hour, one day, one week, one month... permanent.)</p>
+            </li>
+            <li>
+              <p>What changes - if anything - regarding business continuity / disaster recovery processes or plans if the system is unavailable or data has been lost/corrupted?</p>
+            </li>
+          </ul>
+        </body>
+      </topic>
+    </topic>
+    <topic id="protect">
+      <title>PROTECT</title>
+      <body/>
+      <topic id="possible-documentation-1">
+        <title>Possible documentation</title>
+        <body>
+          <ul>
+            <li>
+              <p>Data Privacy Impact Assessments (DPIAs)</p>
+            </li>
+            <li>
+              <p>Information risk management documentation (for example, RMADS)</p>
+            </li>
+            <li>
+              <p>Information flow diagrams</p>
+            </li>
+            <li>
+              <p>Technical/system architecture documentation</p>
+            </li>
+            <li>
+              <p>Penetration test / IT Health Check reports and remedial documentation</p>
+            </li>
+            <li>
+              <p>Risk registers</p>
+            </li>
+          </ul>
+        </body>
+      </topic>
+      <topic id="thought-questions-1">
+        <title>Thought questions</title>
+        <body>
+          <ul>
+            <li>
+              <p>How does the system ensure only authorised people can use the system?</p>
+            </li>
+            <li>
+              <p>How are system users managed for joiners, movers and leavers?</p>
+            </li>
+            <li>
+              <p>How is the system's underlying software kept up to date for security software patching?</p>
+            </li>
+            <li>
+              <p>How does the system protect itself appropriately and proportionately from attackers?</p>
+            </li>
+            <li>
+              <p>What assurance is there that the system can protect itself from attackers over time, so it is secure now but also will remain secure in the future?</p>
+            </li>
+            <li>
+              <p>How often has technical security testing been conducted? Where within the system?</p>
+            </li>
+            <li>
+              <p>How does the system stay up to date using modern encryption to keep data safe?</p>
+            </li>
+            <li>
+              <p>Does the system use multi-factor authentication (MFA, also known as 2FA)?</p>
+            </li>
+            <li>
+              <p>For people who have access to the system, do they have all the right clearances in place? How is this assured?</p>
+            </li>
+          </ul>
+        </body>
+      </topic>
+    </topic>
+    <topic id="detect">
+      <title>DETECT</title>
+      <body/>
+      <topic id="possible-documentation-2">
+        <title>Possible documentation</title>
+        <body>
+          <ul>
+            <li>
+              <p>Information risk management documentation (for example, RMADS)</p>
+            </li>
+            <li>
+              <p>Technical/system architecture documentation</p>
+            </li>
+            <li>
+              <p>Penetration test / IT Health Check reports and remedial documentation</p>
+            </li>
+            <li>
+              <p>Risk registers</p>
+            </li>
+          </ul>
+        </body>
+      </topic>
+      <topic id="thought-questions-2">
+        <title>Thought questions</title>
+        <body>
+          <ul>
+            <li>
+              <p>How does the system, and accompanying operational support teams, know/detect when the system is under attack?</p>
+            </li>
+            <li>
+              <p>How is access to the system (both authorsed and unauthorised) logged so retrospective investigations can take place to determine 'who did what when'?</p>
+            </li>
+            <li>
+              <p>How is the required level of detail in logs determined? How long are log files retained?</p>
+            </li>
+          </ul>
+        </body>
+      </topic>
+    </topic>
+    <topic id="respond">
+      <title>RESPOND</title>
+      <body/>
+      <topic id="possible-documentation-3">
+        <title>Possible documentation</title>
+        <body>
+          <ul>
+            <li>
+              <p>Information risk management documentation (for example, RMADS)</p>
+            </li>
+            <li>
+              <p>Technical/system architecture documentation</p>
+            </li>
+            <li>
+              <p>Operational/support documentation</p>
+            </li>
+          </ul>
+        </body>
+      </topic>
+      <topic id="thought-questions-3">
+        <title>Thought questions</title>
+        <body>
+          <ul>
+            <li>
+              <p>What plans, processes or procedures are in place to respond to a detected cyber attack?</p>
+            </li>
+            <li>
+              <p>How are these plans kept up to date and relevant?</p>
+            </li>
+            <li>
+              <p>Does everyone who needs to know about these plans know about them?</p>
+            </li>
+            <li>
+              <p>Has the plan been tested in the last 12 months?</p>
+            </li>
+            <li>
+              <p>How are stakeholder communications handled during a security incident?</p>
+            </li>
+            <li>
+              <p>How are external communications handled during a security incident for external parties, such as supervisory bodies, the NCSC or Cabinet Office?</p>
+            </li>
+          </ul>
+        </body>
+      </topic>
+    </topic>
+    <topic id="recover">
+      <title>RECOVER</title>
+      <body/>
+      <topic id="possible-documentation-4">
+        <title>Possible documentation</title>
+        <body>
+          <ul>
+            <li>
+              <p>Operational/support documentation</p>
+            </li>
+            <li>
+              <p>Retrospective session notes</p>
+            </li>
+          </ul>
+        </body>
+      </topic>
+      <topic id="thought-questions-4">
+        <title>Thought questions</title>
+        <body>
+          <ul>
+            <li>
+              <p>What happens for business continuity / disaster recovery if the system is unavailable or data has been lost/corrupted?</p>
+            </li>
+            <li>
+              <p>Have these measures been tested in the last 12 months?</p>
+            </li>
+          </ul>
+        </body>
+      </topic>
+    </topic>
+  </topic>
+</topic>
