@@ -4,49 +4,15 @@
 <topic id="accessing-moj-it-systems-from-abroad">
 	<title>Accessing MOJ IT Systems From Abroad</title>
 	<body>
-		<p>
-			<i>This guidance information applies to all staff, contractors and
-				agency staff who work for the MOJ.</i>
-		</p>
-		<p>
-			<b>
-				Note: If you are national security cleared to 'Enhanced SC' or DV
-				levels, follow this process for
-				<i>all</i>
-				your trips, regardless of whether they are for business or personal
-				reasons.
-			</b>
-		</p>
-		<p>As a government official travelling overseas, you should consider
-			that you may be of interest to hostile parties regardless of your
-			role. By following MOJ policies and processes, you can help reduce
-			the risk to yourself and limit the damage of exposure of sensitive
-			information.</p>
-		<p>In general, it is acceptable for MOJ users to access MOJ services
-			from abroad, and to do this using their MOJ equipment. But before you
-			travel, consider:</p>
-		<ul>
-			<li>
-				<p>Do you need to take MOJ IT equipment abroad or access MOJ IT
-					systems to do your job?</p>
-			</li>
-			<li>
-				<p>Can the business need be met in another way or by someone else?
-				</p>
-			</li>
-			<li>
-				<p>If you just need to manage your inbox while away, can you
-					delegate permissions to your inbox to a colleague to manage on your
-					behalf?</p>
-			</li>
-			<li>
-				<p>Have you left enough time to check and obtain necessary
-					approvals? The process can take several weeks, depending on the
-					circumstances. This is because it may be necessary to apply
-					additional technical controls to protect you, your device, and any
-					data the device can access.</p>
-			</li>
-		</ul>
+		<p><i>This guidance information applies to all staff, contractors and agency staff who work for the MOJ.</i></p>
+		<p><b>Note: If you are national security cleared to 'Enhanced SC' or DV levels, follow this process for <i>all</i> your trips, regardless of whether they are for business or personal reasons.</b></p>
+		<p>As a government official travelling overseas, you should consider that you may be of interest to hostile parties regardless of your role. By following MOJ policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.</p>
+		<p>In general, it is acceptable for MOJ users to access MOJ services from abroad, and to do this using their MOJ equipment. But before you travel, consider:<ul>
+			<li>Do you need to take MOJ IT equipment abroad or access MOJ IT systems to do your job?</li>
+			<li>Can the business need be met in another way or by someone else?</li>
+			<li>If you just need to manage your inbox while away, can you delegate permissions to your inbox to a colleague to manage on your behalf?</li>
+			<li>Have you left enough time to check and obtain necessary approvals? The process can take several weeks, depending on the circumstances. This is because it may be necessary to apply additional technical controls to protect you, your device, and any data the device can access. </li>
+		</ul></p>
 	</body>
 	<topic id="steps-to-follow-before-travelling">
 		<title>Steps to follow before travelling</title>
@@ -54,99 +20,16 @@
 		<topic id="part-one">
 			<title>Part One</title>
 			<body>
-				<ol>
-					<li>
-						<p>Collect the following information:</p>
-						<ul>
-							<li>
-								<p>Name.</p>
-							</li>
-							<li>
-								<p>Email address.</p>
-							</li>
-							<li>
-								<p>Your business area.</p>
-							</li>
-							<li>
-								<p>Your Security Clearance.</p>
-							</li>
-							<li>
-								<p>The network you use to access MOJ data, services or
-									applications, for example DOM1 or Quantum.</p>
-							</li>
-							<li>
-								<p>The make/type of equipment you want to take with you.</p>
-							</li>
-							<li>
-								<p>Asset Tag details.</p>
-							</li>
-							<li>
-								<p>Countries you'll be visiting or passing through.</p>
-							</li>
-							<li>
-								<p>Dates of travel.</p>
-							</li>
-							<li>
-								<p>Transport details where possible, for example flights or rail
-									journeys.</p>
-							</li>
-							<li>
-								<p>Proposed method of connecting, for example MOJ VPN.</p>
-							</li>
-							<li>
-								<p>Reason for maintaining access while abroad.</p>
-							</li>
-							<li>
-								<p>The MOJ data, applications, or services you expect to access
-									during your trip.</p>
-							</li>
-							<li>
-								<p>Who you are travelling with.</p>
-							</li>
+				<ol><li>Get confirmation from your Line Manager that there is a business need for you to take MOJ equipment abroad and access MOJ services. Keep a note of the answers you get.</li>
+					<li>Proceed directly to Part Two of this process if <i>either one</i> of the following two statements apply to you:<ul>
+						<li>You are travelling or passing through one of the following high-attention countries: <i>China, Cyprus, Egypt, France, Germany, India, Iran, Israel, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey, UAE</i>.</li>
+						<li>You are national security cleared to 'Enhanced SC' or DV levels.</li>
 						</ul>
 					</li>
-					<li>
-						<p>
-							Proceed directly to Part Two of this process if
-							<i>any</i>
-							of the following statements apply to you:
-						</p>
-						<ul>
-							<li>
-								<p>
-									You are travelling or passing through one of the following
-									high-risk countries:
-									<i>China, Cyprus, Egypt, France, Germany, India, Iran, Israel,
-										North Korea, Pakistan, Russia, Saudi Arabia, South Africa,
-										South Korea, Syria, Turkey, UAE</i>
-									.
-								</p>
-							</li>
-							<li>
-								<p>You are national security cleared to 'Enhanced SC' or DV
-									levels.</p>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<p>If you have reached this step, you do not need to seek further
-							formal approval for your trip.</p>
-					</li>
-					<li>
-						<p>Take a copy of this guidance; it includes useful contact
-							details that help in the event of a problem while travelling.</p>
-					</li>
-					<li>
-						<p>
-							Check if you need to do anything to prepare for
-							<xref href="#international-roaming" format="html">International
-								Roaming</xref>
-							.
-						</p>
-					</li>
-					<li>
-						<p>Enjoy your trip.</p>
-					</li>
+					<li>If you have reached this step, you do not need to seek further formal approval for your trip.</li>
+					<li>Take a copy of this guidance; it includes useful contact details that help in the event of a problem while travelling.</li>
+					<li>Check if you need to do anything to prepare for <xref href="#international-roaming" format="html">International Roaming</xref>.</li>
+					<li>Enjoy your trip.</li>
 				</ol>
 			</body>
 		</topic>
@@ -154,92 +37,38 @@
 			<title>Part Two</title>
 			<body>
 				<ol>
-					<li>
-						<p>
-							Contact
-							<xref href="#contacts" format="html">MOJ Security</xref>
-							, and provide them with the information collected in
-							<xref href="#part-one" format="html">Part One</xref>
-							. Ask for any special details or considerations that apply to
-							your proposed travel arrangements. Keep a note of the answers you
-							get.
-						</p>
-					</li>
-					<li>
-						<p>The next step depends your MOJ business area:</p>
-						<ul>
-							<li>
-								<p>If you are part of MOJ HQ, HMPPS HQ or HMCTS, contact your
-									Senior Civil Servant (SCS) and ask for approval to take MOJ
-									equipment abroad and access MOJ services. Ask for any special
-									details or considerations that apply to your proposed travel
-									arrangements. Keep a note of the answers you get.</p>
-							</li>
-							<li>
-								<p>
-									If you are part of HMPPS (but
-									<i>not</i>
-									HQ), contact your Governor and ask for approval to take MOJ
-									equipment abroad and access MOJ services. Ask for any special
-									details or considerations that apply to your proposed travel
-									arrangements. Keep a note of the answers you get.
-								</p>
-							</li>
+					<li>Collect the following information:
+						<ul><li>Name.</li>
+							<li>Email address.</li>
+							<li>Your business area.</li>
+							<li>Your Security Clearance.</li>
+							<li>The network you use to access MOJ data, services or applications, for example DOM1 or Quantum.</li>
+							<li>The make/type of equipment you want to take with you.</li>
+							<li>Asset Tag details.</li>
+							<li>Countries you'll be visiting or passing through.</li>
+							<li>Dates of travel.</li>
+							<li>Transport details where possible, for example flights or rail journeys.</li>
+							<li>Proposed method of connecting, for example MOJ VPN.</li>
+							<li>Reason for maintaining access while abroad.</li>
+							<li>The MOJ data, applications, or services you expect to access during your trip.</li>
+							<li>Who you are travelling with.</li>
 						</ul>
 					</li>
-					<li>
-						<p>Get confirmation from your Line Manager that there is a
-							business need for you to take MOJ equipment abroad and access MOJ
-							services. Keep a note of the answers you get.</p>
+					<li>Contact <xref href="#contacts" format="html">MOJ Security</xref>, and provide them with the information collected in the previous step. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.</li>
+					<li>The next step depends your MOJ business area:
+						<ul>
+							<li>If you are part of MOJ HQ, HMPPS HQ or HMCTS, contact your Senior Civil Servant (SCS) and ask for approval to take MOJ equipment abroad and access MOJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.</li>
+							<li>If you are part of HMPPS (but <i>not</i> HQ), contact your Governor and ask for approval to take MOJ equipment abroad and access MOJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.</li>
+						</ul>
 					</li>
-					<li>
-						<p>
-							Fill in the
-							<xref
-								href="https://intranet.justice.gov.uk/documents/2020/03/overseas-travel-form.docx"
-								format="docx" scope="external">overseas travel request form</xref>
-							.
-						</p>
-					</li>
-					<li>
-						<p>
-							Send the completed form to
-							<xref href="#contacts" format="html">MOJ Security</xref>
-							, including the answers obtained from the earlier parts of this
-							process.
-						</p>
-					</li>
-					<li>
-						<p>Your request is considered, and an answer provided, as quickly
-							as possible.</p>
-					</li>
-					<li>
-						<p>
-							When you have received all the approvals, send a copy of your
-							request and the approvals to
-							<xref href="#contacts" format="html">Operational Security</xref>
-							.
-						</p>
-					</li>
-					<li>
-						<p>When Operational Security have acknowledged receipt of the
-							request and approvals, the formal process is complete.</p>
-					</li>
-					<li>
-						<p>
-							Check if you need to do anything to prepare for
-							<xref href="#international-roaming" format="html">International
-								Roaming</xref>
-							.
-						</p>
-					</li>
-					<li>
-						<p>Take a copy of this guidance; it includes useful contact
-							details that help in the event of a problem while travelling.</p>
-					</li>
-					<li>
-						<p>Enjoy your trip.</p>
-					</li>
+					<li>Fill in the <xref href="https://intranet.justice.gov.uk/documents/2020/03/overseas-travel-form.docx" format="docx" scope="external">overseas travel request form</xref>.</li>
+					<li>Send the completed form to <xref href="#contacts" format="html">MOJ Security</xref>, including the answers obtained from the earlier parts of this process.</li>
+					<li>Your request is considered, and an answer provided, as quickly as possible.</li>
+					<li>When you have received all the approvals, send a copy of your request and the approvals to <xref href="#contacts" format="html">Operational Security</xref>.</li>
+					<li>When Operational Security have acknowledged receipt of the request and approvals, the formal process is complete.</li>
+					<li>Check if you need to do anything to prepare for <xref href="#international-roaming" format="html">International Roaming</xref> .</li>
+					<li>Take a copy of this guidance; it includes useful contact details that help in the event of a problem while travelling.</li>
+					<li>Enjoy your trip.</li>
 				</ol>
 			</body>
 		</topic>
@@ -247,28 +76,15 @@
 	<topic id="international-roaming">
 		<title>International Roaming</title>
 		<body>
-			<p>While travelling, you might incur roaming charges when using your
-				MOJ equipment for calls or accessing services. These charges can be
-				expensive, and must be paid by your Business Unit. This is another
-				reason for having a good business need to take MOJ equipment abroad.
-			</p>
-			<p>
-				By default, MOJ equipment is not enabled for use abroad. Before
-				travelling, contact the
-				<xref href="#contacts" format="html">MOJ Phone and Mobile Devices
-				</xref>
-				team. Ask them to enable International Roaming, and to activate the
-				remote wipe function. This helps protect the MOJ equipment in case
-				of loss or theft.
-			</p>
+			<p>While travelling, you might incur roaming charges when using your MOJ equipment for calls or accessing services. These charges can be expensive, and must be paid by your Business Unit. This is another reason for having a good business need to take MOJ equipment abroad.</p>
+			<p>By default, MOJ equipment is not enabled for use abroad. Before travelling, contact the <xref href="#contacts" format="html">MOJ Phone and Mobile Devices</xref> team. Ask them to enable International Roaming, and to activate the remote wipe function. This helps protect the MOJ equipment in case of loss or theft.</p>
 		</body>
 	</topic>
 	<topic
 		id="if-you-have-any-problem-when-using-moj-equipment-abroad">
 		<title>If you have any problem when using MOJ equipment abroad</title>
 		<body>
-			<p>
-				Contact the
+			<p>Contact the
 				<xref href="#contacts" format="html">Service Desk</xref>
 				immediately. Tell them if the MOJ equipment is lost, stolen or was
 				potentially compromised. This includes any time the equipment is

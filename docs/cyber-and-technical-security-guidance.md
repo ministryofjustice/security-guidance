@@ -6,6 +6,12 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
+**Note:**
+
+This guidance is dated: 12 August 2020.
+
+For convenience, an offline version of this guidance is available as a PDF file, [here](https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf). The PDF version of this guidance is time-limited, and is not valid after 12 September 2020.
+
 ### Background
 
 *[Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security)* replaces the HMG Security Policy Framework \(SPF\) last published in May 2018. It also incorporates the *Minimum Cyber Security Standard \(MCSS\)* which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.
@@ -39,6 +45,7 @@ Documents have been developed and defined within this taxonomy, and are listed i
 |Level 1|Level 2|Documents|Target Audience|
 |-------|-------|---------|---------------|
 |Cyber|Access Control|[Access Control Guide](access-control-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Accessing MOJ IT Systems From Abroad](accessing-moj-it-systems-from-abroad.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Managing User Access Guide](managing-user-access-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)|All users|
 |||[Multi-Factor Authentication](multi-factor-authentication-mfa-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|

@@ -36,7 +36,7 @@
 		<mkdir dir="${docs}"/>
 	</target>
 
-	<target name="compile" depends="init"
+	<target name="compile_html" depends="init"
 				description="compile the source">
 		<!-- Compile the DITA code into markdown (HTML) -->
 		<ant antfile="${dita.dir}/build.xml">
@@ -45,6 +45,10 @@
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="markdown_github"/>
 		</ant>
+	</target>
+
+	<target name="compile_pdf" depends="init"
+				description="compile the source">
 		<!-- Compile the DITA code into PDF -->
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
@@ -53,6 +57,8 @@
 			<property name="transtype" value="pdf"/>
 		</ant>
 	</target>
+
+	<target name="compile" depends="compile_html,compile_pdf"/>
 
 	<target name="dist" depends="compile"
 				description="generate the distribution">
