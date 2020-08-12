@@ -22,7 +22,14 @@
 
 	<target name="init">
 		<!-- Create the time stamp -->
-		<tstamp/>
+		<tstamp>
+			<format property="TODAY_GB" pattern="d MMMM yyyy" locale="en,GB"/>
+			<format property="EXPIRY_GB" pattern="d MMMM yyyy" locale="en,GB" offset="1" unit="month"/>
+		</tstamp>
+		<!-- Create the date of this build as a conref source. -->
+		<copy file="${dita}/tstamp-src.dita" tofile="${dita}/tstamp.dita" overwrite="true"/>
+		<replace file="${dita}/tstamp.dita" token="@TSTAMP@" value="${TODAY_GB}"/>
+		<replace file="${dita}/tstamp.dita" token="@TSTAMP-EXPIRY@" value="${EXPIRY_GB}"/>
 		<!-- Create the build directory structure used by compile -->
 		<mkdir dir="${build}"/>
 		<!-- Create the docs directory structure used for publication -->
@@ -31,15 +38,17 @@
 
 	<target name="compile" depends="init"
 				description="compile the source">
-		<!-- Compile the DITA code into markdown -->
+		<!-- Compile the DITA code into markdown (HTML) -->
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
+			<property name="args.filter" value="${dita}/html.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="markdown_github"/>
 		</ant>
 		<!-- Compile the DITA code into PDF -->
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
+			<property name="args.filter" value="${dita}/pdf.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
