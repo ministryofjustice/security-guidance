@@ -10,6 +10,7 @@
 	<topichead navtitle="Cyber">
 		<topichead navtitle="Access Control">
 			<topicref href="access-control-guide.dita" type="topic"/>
+			<topicref href="accessing-moj-it-systems-from-abroad.dita" type="topic"/>
 			<topicref href="managing-user-access-guide.dita" type="topic"/>
 			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
 			<topicref href="multi-factor-authentication-mfa-guide.dita" type="topic"/>

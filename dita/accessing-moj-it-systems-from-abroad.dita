@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="accessing-moj-it-systems-from-abroad">
+	<title>Accessing MOJ IT Systems From Abroad</title>
+	<body>
+		<p>
+			<i>This guidance information applies to all staff, contractors and
+				agency staff who work for the MOJ.</i>
+		</p>
+		<p>
+			<b>
+				Note: If you are national security cleared to 'Enhanced SC' or DV
+				levels, follow this process for
+				<i>all</i>
+				your trips, regardless of whether they are for business or personal
+				reasons.
+			</b>
+		</p>
+		<p>As a government official travelling overseas, you should consider
+			that you may be of interest to hostile parties regardless of your
+			role. By following MOJ policies and processes, you can help reduce
+			the risk to yourself and limit the damage of exposure of sensitive
+			information.</p>
+		<p>In general, it is acceptable for MOJ users to access MOJ services
+			from abroad, and to do this using their MOJ equipment. But before you
+			travel, consider:</p>
+		<ul>
+			<li>
+				<p>Do you need to take MOJ IT equipment abroad or access MOJ IT
+					systems to do your job?</p>
+			</li>
+			<li>
+				<p>Can the business need be met in another way or by someone else?
+				</p>
+			</li>
+			<li>
+				<p>If you just need to manage your inbox while away, can you
+					delegate permissions to your inbox to a colleague to manage on your
+					behalf?</p>
+			</li>
+			<li>
+				<p>Have you left enough time to check and obtain necessary
+					approvals? The process can take several weeks, depending on the
+					circumstances. This is because it may be necessary to apply
+					additional technical controls to protect you, your device, and any
+					data the device can access.</p>
+			</li>
+		</ul>
+	</body>
+	<topic id="steps-to-follow-before-travelling">
+		<title>Steps to follow before travelling</title>
+		<body />
+		<topic id="part-one">
+			<title>Part One</title>
+			<body>
+				<ol>
+					<li>
+						<p>Collect the following information:</p>
+						<ul>
+							<li>
+								<p>Name.</p>
+							</li>
+							<li>
+								<p>Email address.</p>
+							</li>
+							<li>
+								<p>Your business area.</p>
+							</li>
+							<li>
+								<p>Your Security Clearance.</p>
+							</li>
+							<li>
+								<p>The network you use to access MOJ data, services or
+									applications, for example DOM1 or Quantum.</p>
+							</li>
+							<li>
+								<p>The make/type of equipment you want to take with you.</p>
+							</li>
+							<li>
+								<p>Asset Tag details.</p>
+							</li>
+							<li>
+								<p>Countries you'll be visiting or passing through.</p>
+							</li>
+							<li>
+								<p>Dates of travel.</p>
+							</li>
+							<li>
+								<p>Transport details where possible, for example flights or rail
+									journeys.</p>
+							</li>
+							<li>
+								<p>Proposed method of connecting, for example MOJ VPN.</p>
+							</li>
+							<li>
+								<p>Reason for maintaining access while abroad.</p>
+							</li>
+							<li>
+								<p>The MOJ data, applications, or services you expect to access
+									during your trip.</p>
+							</li>
+							<li>
+								<p>Who you are travelling with.</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							Proceed directly to Part Two of this process if
+							<i>any</i>
+							of the following statements apply to you:
+						</p>
+						<ul>
+							<li>
+								<p>
+									You are travelling or passing through one of the following
+									high-risk countries:
+									<i>China, Cyprus, Egypt, France, Germany, India, Iran, Israel,
+										North Korea, Pakistan, Russia, Saudi Arabia, South Africa,
+										South Korea, Syria, Turkey, UAE</i>
+									.
+								</p>
+							</li>
+							<li>
+								<p>You are national security cleared to 'Enhanced SC' or DV
+									levels.</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>If you have reached this step, you do not need to seek further
+							formal approval for your trip.</p>
+					</li>
+					<li>
+						<p>Take a copy of this guidance; it includes useful contact
+							details that help in the event of a problem while travelling.</p>
+					</li>
+					<li>
+						<p>
+							Check if you need to do anything to prepare for
+							<xref href="#international-roaming" format="html">International
+								Roaming</xref>
+							.
+						</p>
+					</li>
+					<li>
+						<p>Enjoy your trip.</p>
+					</li>
+				</ol>
+			</body>
+		</topic>
+		<topic id="part-two">
+			<title>Part Two</title>
+			<body>
+				<ol>
+					<li>
+						<p>
+							Contact
+							<xref href="#contacts" format="html">MOJ Security</xref>
+							, and provide them with the information collected in
+							<xref href="#part-one" format="html">Part One</xref>
+							. Ask for any special details or considerations that apply to
+							your proposed travel arrangements. Keep a note of the answers you
+							get.
+						</p>
+					</li>
+					<li>
+						<p>The next step depends your MOJ business area:</p>
+						<ul>
+							<li>
+								<p>If you are part of MOJ HQ, HMPPS HQ or HMCTS, contact your
+									Senior Civil Servant (SCS) and ask for approval to take MOJ
+									equipment abroad and access MOJ services. Ask for any special
+									details or considerations that apply to your proposed travel
+									arrangements. Keep a note of the answers you get.</p>
+							</li>
+							<li>
+								<p>
+									If you are part of HMPPS (but
+									<i>not</i>
+									HQ), contact your Governor and ask for approval to take MOJ
+									equipment abroad and access MOJ services. Ask for any special
+									details or considerations that apply to your proposed travel
+									arrangements. Keep a note of the answers you get.
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>Get confirmation from your Line Manager that there is a
+							business need for you to take MOJ equipment abroad and access MOJ
+							services. Keep a note of the answers you get.</p>
+					</li>
+					<li>
+						<p>
+							Fill in the
+							<xref
+								href="https://intranet.justice.gov.uk/documents/2020/03/overseas-travel-form.docx"
+								format="docx" scope="external">overseas travel request form</xref>
+							.
+						</p>
+					</li>
+					<li>
+						<p>
+							Send the completed form to
+							<xref href="#contacts" format="html">MOJ Security</xref>
+							, including the answers obtained from the earlier parts of this
+							process.
+						</p>
+					</li>
+					<li>
+						<p>Your request is considered, and an answer provided, as quickly
+							as possible.</p>
+					</li>
+					<li>
+						<p>
+							When you have received all the approvals, send a copy of your
+							request and the approvals to
+							<xref href="#contacts" format="html">Operational Security</xref>
+							.
+						</p>
+					</li>
+					<li>
+						<p>When Operational Security have acknowledged receipt of the
+							request and approvals, the formal process is complete.</p>
+					</li>
+					<li>
+						<p>
+							Check if you need to do anything to prepare for
+							<xref href="#international-roaming" format="html">International
+								Roaming</xref>
+							.
+						</p>
+					</li>
+					<li>
+						<p>Take a copy of this guidance; it includes useful contact
+							details that help in the event of a problem while travelling.</p>
+					</li>
+					<li>
+						<p>Enjoy your trip.</p>
+					</li>
+				</ol>
+			</body>
+		</topic>
+	</topic>
+	<topic id="international-roaming">
+		<title>International Roaming</title>
+		<body>
+			<p>While travelling, you might incur roaming charges when using your
+				MOJ equipment for calls or accessing services. These charges can be
+				expensive, and must be paid by your Business Unit. This is another
+				reason for having a good business need to take MOJ equipment abroad.
+			</p>
+			<p>
+				By default, MOJ equipment is not enabled for use abroad. Before
+				travelling, contact the
+				<xref href="#contacts" format="html">MOJ Phone and Mobile Devices
+				</xref>
+				team. Ask them to enable International Roaming, and to activate the
+				remote wipe function. This helps protect the MOJ equipment in case
+				of loss or theft.
+			</p>
+		</body>
+	</topic>
+	<topic
+		id="if-you-have-any-problem-when-using-moj-equipment-abroad">
+		<title>If you have any problem when using MOJ equipment abroad</title>
+		<body>
+			<p>
+				Contact the
+				<xref href="#contacts" format="html">Service Desk</xref>
+				immediately. Tell them if the MOJ equipment is lost, stolen or was
+				potentially compromised. This includes any time the equipment is
+				deliberately removed out of your sight, such as by a customs
+				official.
+			</p>
+			<p>
+				If any security-related incident occurs overseas, regardless of
+				whether it involves MOJ equipment, you should contact
+				<xref href="#contacts" format="html">Corporate Security Branch</xref>
+				as soon as possible.
+			</p>
+			<p>
+				For any emergency outside normal UK business hours, contact the
+				<xref href="#contacts" format="html">Duty Security Officer</xref>
+				.
+			</p>
+			<p>If there is a problem with your MOJ equipment, it might be
+				necessary to disable your ability to connect to the MOJ network or
+				services from your device. The Service Desk will do this if
+				required. MOJ-issued phones might still have some functionality, to
+				let you make phone calls, but the device should be treated as
+				compromised and not used any more for any MOJ business.</p>
+		</body>
+	</topic>
+	<topic id="related-pages">
+		<title>Related pages</title>
+		<body>
+			<ul>
+				<li>
+					<p>
+						<xref
+							href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/general-advice-on-taking-equipment-abroad"
+							format="html" scope="external">General advice on taking Equipment abroad
+						</xref>
+					</p>
+				</li>
+				<li>
+					<p>
+						<xref
+							href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal"
+							format="html" scope="external">Travelling abroad - business or personal
+						</xref>
+					</p>
+				</li>
+				<li>
+					<p>
+						<xref
+							href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment"
+							format="html" scope="external">Staff security and responsibilities – during
+							employment</xref>
+					</p>
+				</li>
+			</ul>
+		</body>
+	</topic>
+	<topic id="external-websites">
+		<title>External websites</title>
+		<body>
+			<ul>
+				<li>
+					<p>
+						<xref href="https://www.gov.uk/browse/abroad" format="html"
+							scope="external">Foreign &amp; Commonwealth Office – travel &amp; living
+							abroad</xref>
+					</p>
+				</li>
+			</ul>
+		</body>
+	</topic>
+	<topic id="contacts">
+		<title>Contacts</title>
+		<body />
+		<topic id="operational-security-team">
+			<title>Operational Security Team</title>
+			<body>
+				<ul>
+					<li>
+						<p>
+							Email:
+							<xref href="mailto:OperationalSecurityTeam@justice.gov.uk"
+								format="email" scope="external">OperationalSecurityTeam@justice.gov.uk
+							</xref>
+						</p>
+					</li>
+					<li>
+						<p>
+							Slack:
+							<codeph>#security</codeph>
+						</p>
+					</li>
+				</ul>
+			</body>
+		</topic>
+		<topic id="dom1---technology-service-desk">
+			<title>Dom1 - Technology Service Desk</title>
+			<body>
+				<ul>
+					<li>
+						<p>Tel: 0800 917 5148</p>
+					</li>
+				</ul>
+				<p>
+					<i>
+						Note: The previous
+						<codeph>itservicedesk@justice.gov.uk</codeph>
+						email address is no longer being monitored.
+					</i>
+				</p>
+			</body>
+		</topic>
+		<topic id="digital--technology---digital-service-desk">
+			<title>Digital &amp; Technology - Digital Service Desk</title>
+			<body>
+				<ul>
+					<li>
+						<p>
+							Email:
+							<xref href="mailto:servicedesk@digital.justice.gov.uk"
+								format="email" scope="external">servicedesk@digital.justice.gov.uk</xref>
+						</p>
+					</li>
+					<li>
+						<p>
+							Slack:
+							<codeph>#digitalservicedesk</codeph>
+						</p>
+					</li>
+				</ul>
+			</body>
+		</topic>
+		<topic id="moj-duty-security-officer">
+			<title>MOJ Duty Security Officer</title>
+			<body>
+				<ul>
+					<li>
+						<p>Tel: +44 (0)20 3334 5577</p>
+					</li>
+					<li>
+						<p>
+							Email:
+							<xref href="mailto:dutysecurityofficer@justice.gov.uk"
+								format="email" scope="external">dutysecurityofficer@justice.gov.uk</xref>
+						</p>
+					</li>
+				</ul>
+			</body>
+		</topic>
+		<topic id="moj-phone-and-mobile-devices">
+			<title>MOJ Phone and Mobile Devices</title>
+			<body>
+				<ul>
+					<li>
+						<p>
+							Email:
+							<xref href="mailto:MoJ_Phone_and_Mobi@justice.gov.uk"
+								format="email" scope="external">MoJ_Phone_and_Mobi@justice.gov.uk</xref>
+						</p>
+					</li>
+				</ul>
+			</body>
+		</topic>
+		<topic id="moj-security">
+			<title>MOJ Security</title>
+			<body>
+				<ul>
+					<li>
+						<p>
+							Email:
+							<xref href="mailto:security@Justice.gov.uk" format="email"
+								scope="external">security@Justice.gov.uk</xref>
+						</p>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</topic>
+</topic>
