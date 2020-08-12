@@ -27,7 +27,7 @@ This IT security policy applies to all premises, physical equipment, software an
 
 ## Approach
 
-The MoJ is committed to protecting its staff, assets and data. These include intellectual property, customer and third party data and IT infrastructure. The MoJ will ensure information security controls are designed and implemented to protect MoJ data, IT Assets and reputation based around the following requirements:
+The MoJ is committed to protecting its staff, assets and data. These include personal data of those who interact with the Justice System, our staff and suppliers; other data we've been entrusted with, as well as ensuring the continued operation of our systems and processes. The MoJ will ensure information security controls are designed and implemented to protect MoJ data, IT Assets and reputation based around the following requirements:
 
 - **Confidentiality**: knowing and ensuring information can only be accessed by those authorised to do so
 - **Integrity**: knowing and ensuring the accuracy and completeness of data and that it has not been deliberately or inadvertently modified from a previous version
