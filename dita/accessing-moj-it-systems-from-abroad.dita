@@ -21,7 +21,7 @@
 			<title>Part One</title>
 			<body>
 				<ol><li>Get confirmation from your Line Manager that there is a business need for you to take MOJ equipment abroad and access MOJ services. Keep a note of the answers you get.</li>
-					<li>Proceed directly to Part Two of this process if <i>either one</i> of the following two statements apply to you:<ul>
+					<li>Proceed directly to <xref href="#part-two">Part Two</xref> of this process if <i>either one</i> of the following two statements apply to you:<ul>
 						<li>You are travelling or passing through one of the following high-attention countries: <i>China, Cyprus, Egypt, France, Germany, India, Iran, Israel, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey, UAE</i>.</li>
 						<li>You are national security cleared to 'Enhanced SC' or DV levels.</li>
 						</ul>
@@ -54,7 +54,6 @@
 							<li>Who you are travelling with.</li>
 						</ul>
 					</li>
-					<li>Contact <xref href="#contacts" format="html">MOJ Security</xref>, and provide them with the information collected in the previous step. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.</li>
 					<li>The next step depends your MOJ business area:
 						<ul>
 							<li>If you are part of MOJ HQ, HMPPS HQ or HMCTS, contact your Senior Civil Servant (SCS) and ask for approval to take MOJ equipment abroad and access MOJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.</li>
@@ -80,64 +79,22 @@
 			<p>By default, MOJ equipment is not enabled for use abroad. Before travelling, contact the <xref href="#contacts" format="html">MOJ Phone and Mobile Devices</xref> team. Ask them to enable International Roaming, and to activate the remote wipe function. This helps protect the MOJ equipment in case of loss or theft.</p>
 		</body>
 	</topic>
-	<topic
-		id="if-you-have-any-problem-when-using-moj-equipment-abroad">
+	<topic id="if-you-have-any-problem-when-using-moj-equipment-abroad">
 		<title>If you have any problem when using MOJ equipment abroad</title>
 		<body>
-			<p>Contact the
-				<xref href="#contacts" format="html">Service Desk</xref>
-				immediately. Tell them if the MOJ equipment is lost, stolen or was
-				potentially compromised. This includes any time the equipment is
-				deliberately removed out of your sight, such as by a customs
-				official.
-			</p>
-			<p>
-				If any security-related incident occurs overseas, regardless of
-				whether it involves MOJ equipment, you should contact
-				<xref href="#contacts" format="html">Corporate Security Branch</xref>
-				as soon as possible.
-			</p>
-			<p>
-				For any emergency outside normal UK business hours, contact the
-				<xref href="#contacts" format="html">Duty Security Officer</xref>
-				.
-			</p>
-			<p>If there is a problem with your MOJ equipment, it might be
-				necessary to disable your ability to connect to the MOJ network or
-				services from your device. The Service Desk will do this if
-				required. MOJ-issued phones might still have some functionality, to
-				let you make phone calls, but the device should be treated as
-				compromised and not used any more for any MOJ business.</p>
+			<p>Contact the <xref href="#contacts" format="html">Service Desk</xref> immediately. Tell them if the MOJ equipment is lost, stolen or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.</p>
+			<p>If any security-related incident occurs overseas, regardless of whether it involves MOJ equipment, you should contact <xref href="#contacts" format="html">Corporate Security Branch</xref> as soon as possible.</p>
+			<p>For any emergency outside normal UK business hours, contact the <xref href="#contacts" format="html">Duty Security Officer</xref>.</p>
+			<p>If there is a problem with your MOJ equipment, it might be necessary to disable your ability to connect to the MOJ network or services from your device. The Service Desk will do this if required. MOJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MOJ business.</p>
 		</body>
 	</topic>
 	<topic id="related-pages">
 		<title>Related pages</title>
 		<body>
 			<ul>
-				<li>
-					<p>
-						<xref
-							href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/general-advice-on-taking-equipment-abroad"
-							format="html" scope="external">General advice on taking Equipment abroad
-						</xref>
-					</p>
-				</li>
-				<li>
-					<p>
-						<xref
-							href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal"
-							format="html" scope="external">Travelling abroad - business or personal
-						</xref>
-					</p>
-				</li>
-				<li>
-					<p>
-						<xref
-							href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment"
-							format="html" scope="external">Staff security and responsibilities – during
-							employment</xref>
-					</p>
-				</li>
+				<li><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/general-advice-on-taking-equipment-abroad" format="html" scope="external">General advice on taking Equipment abroad</xref></li>
+				<li><xref href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal" format="html" scope="external">Travelling abroad - business or personal</xref></li>
+				<li><xref href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment" format="html" scope="external">Staff security and responsibilities – during employment</xref></li>
 			</ul>
 		</body>
 	</topic>
@@ -145,13 +102,7 @@
 		<title>External websites</title>
 		<body>
 			<ul>
-				<li>
-					<p>
-						<xref href="https://www.gov.uk/browse/abroad" format="html"
-							scope="external">Foreign &amp; Commonwealth Office – travel &amp; living
-							abroad</xref>
-					</p>
-				</li>
+				<li><xref href="https://www.gov.uk/browse/abroad" format="html" scope="external">Foreign &amp; Commonwealth Office – travel &amp; living abroad</xref></li>
 			</ul>
 		</body>
 	</topic>
@@ -162,20 +113,8 @@
 			<title>Operational Security Team</title>
 			<body>
 				<ul>
-					<li>
-						<p>
-							Email:
-							<xref href="mailto:OperationalSecurityTeam@justice.gov.uk"
-								format="email" scope="external">OperationalSecurityTeam@justice.gov.uk
-							</xref>
-						</p>
-					</li>
-					<li>
-						<p>
-							Slack:
-							<codeph>#security</codeph>
-						</p>
-					</li>
+					<li>Email: <xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></li>
+					<li>Slack: <codeph>#security</codeph></li>
 				</ul>
 			</body>
 		</topic>
@@ -183,36 +122,17 @@
 			<title>Dom1 - Technology Service Desk</title>
 			<body>
 				<ul>
-					<li>
-						<p>Tel: 0800 917 5148</p>
-					</li>
+					<li>Tel: 0800 917 5148</li>
 				</ul>
-				<p>
-					<i>
-						Note: The previous
-						<codeph>itservicedesk@justice.gov.uk</codeph>
-						email address is no longer being monitored.
-					</i>
-				</p>
+				<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph> email address is no longer being monitored.</note>
 			</body>
 		</topic>
 		<topic id="digital--technology---digital-service-desk">
 			<title>Digital &amp; Technology - Digital Service Desk</title>
 			<body>
 				<ul>
-					<li>
-						<p>
-							Email:
-							<xref href="mailto:servicedesk@digital.justice.gov.uk"
-								format="email" scope="external">servicedesk@digital.justice.gov.uk</xref>
-						</p>
-					</li>
-					<li>
-						<p>
-							Slack:
-							<codeph>#digitalservicedesk</codeph>
-						</p>
-					</li>
+					<li>Email: <xref href="mailto:servicedesk@digital.justice.gov.uk" format="email" scope="external">servicedesk@digital.justice.gov.uk</xref></li>
+					<li>Slack: <codeph>#digitalservicedesk</codeph></li>
 				</ul>
 			</body>
 		</topic>
@@ -220,16 +140,8 @@
 			<title>MOJ Duty Security Officer</title>
 			<body>
 				<ul>
-					<li>
-						<p>Tel: +44 (0)20 3334 5577</p>
-					</li>
-					<li>
-						<p>
-							Email:
-							<xref href="mailto:dutysecurityofficer@justice.gov.uk"
-								format="email" scope="external">dutysecurityofficer@justice.gov.uk</xref>
-						</p>
-					</li>
+					<li>Tel: +44 (0)20 3334 5577</li>
+					<li>Email: <xref href="mailto:dutysecurityofficer@justice.gov.uk" format="email" scope="external">dutysecurityofficer@justice.gov.uk</xref></li>
 				</ul>
 			</body>
 		</topic>
@@ -237,13 +149,7 @@
 			<title>MOJ Phone and Mobile Devices</title>
 			<body>
 				<ul>
-					<li>
-						<p>
-							Email:
-							<xref href="mailto:MoJ_Phone_and_Mobi@justice.gov.uk"
-								format="email" scope="external">MoJ_Phone_and_Mobi@justice.gov.uk</xref>
-						</p>
-					</li>
+					<li>Email: <xref href="mailto:MoJ_Phone_and_Mobi@justice.gov.uk" format="email" scope="external">MoJ_Phone_and_Mobi@justice.gov.uk</xref></li>
 				</ul>
 			</body>
 		</topic>
@@ -251,13 +157,7 @@
 			<title>MOJ Security</title>
 			<body>
 				<ul>
-					<li>
-						<p>
-							Email:
-							<xref href="mailto:security@Justice.gov.uk" format="email"
-								scope="external">security@Justice.gov.uk</xref>
-						</p>
-					</li>
+					<li>Email: <xref href="mailto:security@Justice.gov.uk" format="email" scope="external">security@Justice.gov.uk</xref></li>
 				</ul>
 			</body>
 		</topic>
