@@ -58,6 +58,17 @@
 		</ant>
 	</target>
 
+	<target name="compile_word" depends="init"
+				description="compile the source">
+		<!-- Compile the DITA code into Word format -->
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
+			<property name="args.filter" value="${dita}/html.ditaval"/>
+			<property name="output.dir" location="${build}"/>
+			<property name="transtype" value="docx"/>
+		</ant>
+	</target>
+
 	<target name="compile" depends="compile_html,compile_pdf"/>
 
 	<target name="dist" depends="compile"
