@@ -34,6 +34,7 @@ This table displays the security controls that should be implemented to create a
 <tr><td>✔ Classify system connections, and apply restrictions to external systems and public networks</td></tr>
 <tr><td>✔ Test backup solutions at least every three months, to ensure data reliability and integrity</td></tr>
 <tr><td>✔ Use deny-listing/allow-listing tools for current and newly developed software</td></tr>
+<tr><td>✔ Enforce session lock controls with pattern-hiding displays</td></tr>
 <tr><td>✔ Use encryption to protect information. Encryption mechanisms should include:
 <ul>
 <li>secure key management and storage</li>
