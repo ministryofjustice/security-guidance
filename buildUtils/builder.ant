@@ -3,7 +3,7 @@
 		Build scripting for MOJ Security Guidance.
 
 		To run a build:
-		1. Run the startcmd.sh script in the DOST installation directory.
+		1. Run the startcmd.sh script in the DITA_DIR installation directory.
 		2. Change to the directory containing this Ant build script.
 		3. Run a build ant -lib $DITA_DIR/config -f builder.ant [task], for example:
 			ant -lib $DITA_DIR/config -f builder.ant clean
@@ -16,9 +16,9 @@
 	<property name="docs" location="docs"/>
 	<property name="images" location="images"/>
 	<property name="jekyll-baseline" location="jekyll-baseline"/>
-	<!-- Ensure that environment variable DOST is set to
+	<!-- Ensure that environment variable DITA_DIR is set to
 		the installation directory for the DITA Open Source Toolkit -->
-	<property name="dita.dir" location="${env.DOST}"/>
+	<property name="dita.dir" location="${env.DITA_DIR}"/>
 
 	<target name="init">
 		<!-- Create the time stamp -->
