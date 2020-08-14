@@ -22,13 +22,13 @@
       <p>Examples include:</p>
       <ul>
         <li>
-          <p><xref keyref="automated"/> certificate renewals</p>
+          <p>[automated] certificate renewals</p>
         </li>
         <li>
           <p>upgrading of hashing methods to implement new standards once they become commoly accepted best practices</p>
         </li>
         <li>
-          <p>upgrading from SSLv3 to TLS, and from TLS1.<xref keyref="0/1"/> to TLS1.2, ultimately into TLS1.3 (and beyond)</p>
+          <p>upgrading from SSLv3 to TLS, and from TLS1.[0/1] to TLS1.2, ultimately into TLS1.3 (and beyond)</p>
         </li>
       </ul>
     </body>

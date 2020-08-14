@@ -16,7 +16,7 @@ For example, where the principles require the logging of DNS traffic, this could
 
 Where a platform exists, it should provide some assurance to all its consumers that makes clear what logging it collects and what needs to be logged by its tenants.
 
-For example, if a cloud platform allows you to spin up arbitrary virtual machines, but guarantees that all network traffic must pass via a web proxy to go out, which logs, then the cloud platform can tell you that  and  are logged, but that you need to provide . The platform may even provide you with a base virtual machine which have logging for authentication events built in, meaning that you don’t need to provide any logging at that level.
+For example, if a cloud platform allows you to spin up arbitrary virtual machines, but guarantees that all network traffic must pass via a web proxy to go out, which logs, then the cloud platform can tell you that [Principle 5: Network Events](#network-traffic-events) and [Principle 3: Infrastructure Events](#infrastructure-events) are logged, but that you need to provide [Principle 1. Authentication Events](#authentication-events). The platform may even provide you with a base virtual machine which have logging for authentication events built in, meaning that you don’t need to provide any logging at that level.
 
 ## Principles
 

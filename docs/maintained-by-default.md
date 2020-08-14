@@ -18,10 +18,10 @@ The MOJ expect technology systems to be maintained to ensure the commodity funct
 
 Examples include:
 
--    certificate renewals
+-   \[automated\] certificate renewals
 
 -   upgrading of hashing methods to implement new standards once they become commoly accepted best practices
 
--   upgrading from SSLv3 to TLS, and from TLS1. to TLS1.2, ultimately into TLS1.3 \(and beyond\)
+-   upgrading from SSLv3 to TLS, and from TLS1.\[0/1\] to TLS1.2, ultimately into TLS1.3 \(and beyond\)
 
 

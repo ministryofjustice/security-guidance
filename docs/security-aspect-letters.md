@@ -145,7 +145,7 @@ For and on behalf of `<ORGANISATION SHORTNAME>`
 
 ………………………………………….. \(name\)
 
-………………………………………….. \(position\) 
+………………………………………….. \(position\) \[Should be at least Director level\]
 
 ……………………………………………\(date\)
 

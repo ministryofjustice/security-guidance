@@ -159,7 +159,7 @@
       <p>The <codeph>&lt;ORGANISATION SHORTNAME&gt;</codeph> hereby confirms that the associated with the requirements described in this Security Aspects Letter have been brought to the attention of the individuals and organisations directly responsible for the provision of the various services. Additionally, that they are fully understood, and that the required security controls can and will be taken to safeguard the material and assets concerned.</p>
       <p>For and on behalf of <codeph>&lt;ORGANISATION SHORTNAME&gt;</codeph></p>
       <p>………………………………………….. (name)</p>
-      <p>………………………………………….. (position) <xref keyref="Should be at least Director level"/></p>
+      <p>………………………………………….. (position) [Should be at least Director level]</p>
       <p>……………………………………………(date)</p>
       <p>
         <u>Distribution</u>

@@ -168,7 +168,7 @@
         <p>Security-related event logs from all servers (whether virtualised or physical) operating in a 'server' role.</p>
         <ul>
           <li>
-            <p>a: <xref keyref="additional information pending"/></p>
+            <p>a: [additional information pending]</p>
           </li>
         </ul>
       </body>

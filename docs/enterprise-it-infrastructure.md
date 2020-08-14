@@ -119,7 +119,7 @@ Log Collection Principle\(s\): 6
 
 Security-related event logs from all servers \(whether virtualised or physical\) operating in a 'server' role.
 
--   a: 
+-   a: \[additional information pending\]
 
 
 ### 7. Allocation of IP address leases from DHCP services
