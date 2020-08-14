@@ -41,15 +41,14 @@ The table below identifies the security controls that should be implemented to m
 The table below sets out the guidance for what actions should **not** be undertaken when implementing Layer 2 security controls.
 
 <table>
-<tr><th>Don't</th></tr>
-<tr><td>✖ You should not allow general users to make configuration changes to software, firmware and hardware.</td></tr>
-<tr><td>✖ You should not allow connections between internal and external systems without carrying out security checks.</td></tr>
-<tr><td>✖ You should not allow the use of open source software, including commercial off-the-shelf tools, unless approved by the MoJ. Contact the Cyber Assistance Team (CAT) for advice at <a href="mailto:CyberConsultancy@digital.justice.gov.uk">CyberConsultancy@digital.justice.gov.uk</a>.</td></tr>
-<tr><td>✖ You should not allow general users to execute code on their mobile devices. Your devices should be able to:
+<tr><th>Do not</th></tr>
+<tr><td>✖ allow connections between internal and external systems without carrying out security checks.</td></tr>
+<tr><td>✖ allow the use of unauthorised software, including open source and commercial off-the-shelf tools.  Software must be approved by the MoJ. Contact the Cyber Assistance Team (CAT) for advice at <a href="mailto:CyberConsultancy@digital.justice.gov.uk">CyberConsultancy@digital.justice.gov.uk</a>.</td></tr>
+<tr><td>✖ allow general users to execute code on their mobile devices. Your devices should be able to:
 <ul>
 <li>identify malicious code</li>
 <li>prevent downloading and execution</li>
 <li>prevent automatic execution, and</li>
 <li>allow execution only in secured and segregated environments.</li></ul></td></tr>
-<tr><td>✖ You should not reveal error messages to anyone outside of the MoJ-defined personnel and roles.</td></tr>
+<tr><td>✖ display internal error messages such as stack traces, database dumps, and error codes to users outside of the MoJ-defined personnel and roles.</td></tr>
 </table>

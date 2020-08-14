@@ -26,7 +26,6 @@ This table displays the security controls that should be implemented to create a
 <tr><td>✔ Implement the following access control and security measures to protect MoJ wired and wireless networks:
 <ul>
 <li>restrict a user's ability to change wired and wireless configurations</li>
-<li>prevent electromagnetic interference, for example through TEMPEST controls</li>
 <li>use strong encryption and authentication on both wired and wireless networks</li>
 <li>carry out regular audits of routers and wireless access points looking for unauthorised units</li>
 </ul></td></tr>
@@ -71,9 +70,9 @@ The table below identifies what should not be done, and what activities should b
 <li>security attribute binding</li>
 <li>detection of unsanctioned information</li>
 <li>restriction of suspicious inbound and outbound traffic.</li></ul></td></tr>
-<tr><td>✖ Allow general users to make configuration changes to software, firmware or hardware. Any exceptions, such as software updates, must be risk assessed and approved by IT and the Risk Advisory Team.</td></tr>
+<tr><td>✖ Allow general users to make unauthorised configuration changes to software, firmware or hardware. Any exceptions, such as software updates, must be risk assessed and approved by IT and the Risk Advisory Team.</td></tr>
 <tr><td>✖ Allow users to install software. Instead, software installations should be approved first, and only users with privileged access should be permitted to conduct the installation.</td></tr>
-<tr><td>✖ Allow split tunnelling.</td></tr>
+<tr><td>✖ Allow split tunnelling without careful consideration of how traffic will remain protected.</td></tr>
 <tr><td>✖ Allow inbound traffic from unauthenticated networks. Instead, use authenticated proxy servers if such traffic is required.</td></tr>
 <tr><td>✖ Allow discovery of system components or devices on the network.</td></tr>
 <tr><td>✖ Enable boundary protection settings that permit different security domains to connect through the same subnet.</td></tr>
@@ -115,5 +114,5 @@ The table below outlines the actions that should not be undertaken in relation t
 |---|
 | ✖ Allow access privileges for library or production/operation environments for unauthorised users. |
 | ✖ Allow systems or applications to go live without testing them in a non-live environment. |
-| ✖ Use live data, including personal data, in system or application testing. Exceptions must be approved by the group SIRO. |
+| ✖ Use live data, including personal data, in system or application testing. Exceptions must be approved by the relevant SIRO and, if the live data contains personal data, the Data Protection Officer. |
 | ✖ Install or execute off-the-shelf software without ensuring appropriate support and security arrangements/agreements are in place. |
