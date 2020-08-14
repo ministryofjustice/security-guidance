@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<!--  This file is part of the DITA Open Toolkit project. See the accompanying LICENSE file for applicable license.  -->
-<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved. -->
 
 <map>
 	<title>MOJ Cyber Security Guidance</title>
@@ -17,6 +15,7 @@
 			<topicref href="privileged-account-management-guide.dita" type="topic"/>
 		</topichead>
 		<topichead navtitle="Asset Management">
+			<topicref href="general-advice-on-taking-equipment-abroad.dita" type="topic"/>
 			<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic"/>
 			<topicref href="guidance-for-using-open-internet-tools.dita" type="topic"/>
 			<topicref href="personal-devices.dita" type="topic"/>

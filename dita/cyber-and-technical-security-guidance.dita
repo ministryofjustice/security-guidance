@@ -24,12 +24,8 @@ has made for the products we operate, and our relationships with suppliers.</p>
         <p>Sections 6.12 Cyber security and 6.13 Technical security of the standard state:</p>
         <lq>
           <ul>
-            <li>
-              <p>The security of information and data is essential to good government and public confidence. To operate effectively, HMG needs to maintain the confidentiality, integrity and availability of its information, systems and infrastructure, and the services it provides. Any organisation that handles government information shall meet the standards expected of HM Government.</p>
-            </li>
-            <li>
-              <p>Technical security relates to the protection of security systems from compromise and/or external interference that may have occurred as a result of an attack.</p>
-            </li>
+            <li>The security of information and data is essential to good government and public confidence. To operate effectively, HMG needs to maintain the confidentiality, integrity and availability of its information, systems and infrastructure, and the services it provides. Any organisation that handles government information shall meet the standards expected of HM Government.</li>
+            <li>Technical security relates to the protection of security systems from compromise and/or external interference that may have occurred as a result of an attack.</li>
           </ul>
         </lq>
       </body>
@@ -187,6 +183,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
               </row>
               <row>
                 <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="general-advice-on-taking-equipment-abroad.dita">General advice on taking equipment abroad</xref>
+                </entry>
+                <entry colname="col4">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
                 <entry colname="col2">Cryptography</entry>
                 <entry colname="col3">
                   <xref href="cryptography.dita" type="topic">Cryptography</xref>
@@ -286,21 +290,9 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>Authentication, Authorisation &amp; Accounting</title>
       <body>
         <ul>
-          <li>
-            <p>
-              <xref href="accounting.dita" type="topic">Accounting</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="authentication.dita" type="topic">Authentication</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="authorisation.dita" type="topic">Authorisation</xref>
-            </p>
-          </li>
+          <li><xref href="accounting.dita" type="topic">Accounting</xref></li>
+          <li><xref href="authentication.dita" type="topic">Authentication</xref></li>
+          <li><xref href="authorisation.dita" type="topic">Authorisation</xref></li>
         </ul>
       </body>
     </topic>
@@ -308,46 +300,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>General standards</title>
       <body>
         <ul>
-          <li>
-            <p>
-              <xref href="baseline-aws-accounts.dita">Baseline for Amazon Web Services accounts</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="data-destruction.dita">Data Destruction</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="data-security-and-privacy.dita">Data Security &amp; Privacy</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="management-access.dita">Management access</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="networks-bearers-not-trust.dita">Networks are just bearers</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="password-managers.dita" type="topic">Password Managers</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="secrets-management.dita">Secrets management</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="vulnerability-scanning.dita">Vulnerability scanning</xref>
-            </p>
-          </li>
+          <li><xref href="baseline-aws-accounts.dita">Baseline for Amazon Web Services accounts</xref></li>
+          <li><xref href="data-destruction.dita">Data Destruction</xref></li>
+          <li><xref href="data-security-and-privacy.dita">Data Security &amp; Privacy</xref></li>
+          <li><xref href="management-access.dita">Management access</xref></li>
+          <li><xref href="networks-bearers-not-trust.dita">Networks are just bearers</xref></li>
+          <li><xref href="password-managers.dita" type="topic">Password Managers</xref></li>
+          <li><xref href="secrets-management.dita">Secrets management</xref></li>
+          <li><xref href="vulnerability-scanning.dita">Vulnerability scanning</xref></li>
         </ul>
       </body>
     </topic>
@@ -355,41 +315,13 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>Security Log Collection</title>
       <body>
         <ul>
-          <li>
-            <p>
-              <xref href="cots-applications.dita">Commercial off-the-shelf applications</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="custom-applications.dita">Custom Applications</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="enterprise-it-infrastructure.dita">Enterprise IT - Infrastructure</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="enterprise-it-mobile-devices.dita">Enterprise IT - Mobile Devices</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="hosting-platforms.dita">Hosting Platforms</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="log-entry-metadata.dita">Log entry metadata</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="security-log-collection-maturity-tiers.dita">Security Log Collection Maturity Tiers</xref>
-            </p>
-          </li>
+          <li><xref href="cots-applications.dita">Commercial off-the-shelf applications</xref></li>
+          <li><xref href="custom-applications.dita">Custom Applications</xref></li>
+          <li><xref href="enterprise-it-infrastructure.dita">Enterprise IT - Infrastructure</xref></li>
+          <li><xref href="enterprise-it-mobile-devices.dita">Enterprise IT - Mobile Devices</xref></li>
+          <li><xref href="hosting-platforms.dita">Hosting Platforms</xref></li>
+          <li><xref href="log-entry-metadata.dita">Log entry metadata</xref></li>
+          <li><xref href="security-log-collection-maturity-tiers.dita">Security Log Collection Maturity Tiers</xref></li>
         </ul>
       </body>
     </topic>
@@ -401,46 +333,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>General guides</title>
       <body>
         <ul>
-          <li>
-            <p>
-              <xref href="automated-certificate-renewal.dita" type="topic">Automated certificate renewal</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="data-security-and-privacy-lifecycle.dita">Data Security &amp; Privacy Lifecycle Expectations</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="data-security-and-privacy-triage-standards.dita">Data Security &amp; Privacy Triage Standards</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="defensive-domain-registration.dita">Defensive domain registrations</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="online-indentifiers.dita">Online identifiers in security logging &amp; monitoring</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="personnel-security-clearances.dita">Personnel security clearances</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="standards-assurance-tables.dita">Standards Assurance Tables</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="user-guide.dita">Cyber Security Consultancy Team: asking for help</xref>
-            </p>
-          </li>
+          <li><xref href="automated-certificate-renewal.dita" type="topic">Automated certificate renewal</xref></li>
+          <li><xref href="data-security-and-privacy-lifecycle.dita">Data Security &amp; Privacy Lifecycle Expectations</xref></li>
+          <li><xref href="data-security-and-privacy-triage-standards.dita">Data Security &amp; Privacy Triage Standards</xref></li>
+          <li><xref href="defensive-domain-registration.dita">Defensive domain registrations</xref></li>
+          <li><xref href="online-indentifiers.dita">Online identifiers in security logging &amp; monitoring</xref></li>
+          <li><xref href="personnel-security-clearances.dita">Personnel security clearances</xref></li>
+          <li><xref href="standards-assurance-tables.dita">Standards Assurance Tables</xref></li>
+          <li><xref href="user-guide.dita">Cyber Security Consultancy Team: asking for help</xref></li>
         </ul>
       </body>
     </topic>
@@ -448,21 +348,9 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>Active Cyber Defence</title>
       <body>
         <ul>
-          <li>
-            <p>
-              <xref href="mail-check.dita">Mail Check</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="public-sector-dns.dita">Public Sector DNS</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="web-check.dita">Web Check</xref>
-            </p>
-          </li>
+          <li><xref href="mail-check.dita">Mail Check</xref></li>
+          <li><xref href="public-sector-dns.dita">Public Sector DNS</xref></li>
+          <li><xref href="web-check.dita">Web Check</xref></li>
         </ul>
       </body>
     </topic>
@@ -470,11 +358,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>Product specific guides</title>
       <body>
         <ul>
-          <li>
-            <p>
-              <xref href="using-lastpass.dita">Using LastPass Enterprise</xref>
-            </p>
-          </li>
+          <li><xref href="using-lastpass.dita">Using LastPass Enterprise</xref></li>
         </ul>
       </body>
     </topic>
@@ -483,56 +367,20 @@ has made for the products we operate, and our relationships with suppliers.</p>
     <title>Suppliers to MOJ</title>
     <body>
       <ul>
+        <li><xref href="assessing-suppliers.dita" type="topic">Assessing Suppliers</xref></li>
+        <li><xref href="contracts.dita" type="topic">Contracts</xref></li>
         <li>
-          <p>
-            <xref href="assessing-suppliers.dita" type="topic">Assessing Suppliers</xref>
-          </p>
-        </li>
-        <li>
-          <p>
-            <xref href="contracts.dita" type="topic">Contracts</xref>
-          </p>
-        </li>
-        <li>
-          <p>Data Destruction</p>
+          <p>Data Destruction:
           <ul>
-            <li>
-              <p>
-                <xref href="data-destruction-instruction-and-confirmation-letter.dita">Data Destruction Instruction and Confirmation Letter</xref>
-              </p>
-            </li>
-            <li>
-              <p>
-                <xref href="data-destruction-contract-clauses-definitions.dita">Data Destruction Contract Clauses - Definitions</xref>
-              </p>
-            </li>
-            <li>
-              <p>
-                <xref href="data-destruction-contract-clauses-short-format.dita">Data Destruction Contract Clauses - Short Format</xref>
-              </p>
-            </li>
-            <li>
-              <p>
-                <xref href="data-destruction-contract-clauses-long-format.dita">Data Destruction Contract Clauses - Long Format</xref>
-              </p>
-            </li>
-            <li>
-              <p>
-                <xref href="data-destruction-contract-clauses-long-format-appendix.dita">Data Destruction Contract Clauses - Long Format (Appendix)</xref>
-              </p>
-            </li>
-          </ul>
+            <li><xref href="data-destruction-instruction-and-confirmation-letter.dita">Data Destruction Instruction and Confirmation Letter</xref></li>
+            <li><xref href="data-destruction-contract-clauses-definitions.dita">Data Destruction Contract Clauses - Definitions</xref></li>
+            <li><xref href="data-destruction-contract-clauses-short-format.dita">Data Destruction Contract Clauses - Short Format</xref></li>
+            <li><xref href="data-destruction-contract-clauses-long-format.dita">Data Destruction Contract Clauses - Long Format</xref></li>
+            <li><xref href="data-destruction-contract-clauses-long-format-appendix.dita">Data Destruction Contract Clauses - Long Format (Appendix)</xref></li>
+          </ul></p>
         </li>
-        <li>
-          <p>
-            <xref href="security-aspect-letters.dita" type="topic">Security Aspect Letters</xref>
-          </p>
-        </li>
-        <li>
-          <p>
-            <xref href="supplier-corporate-it.dita">Supplier Corporate IT</xref>
-          </p>
-        </li>
+        <li><xref href="security-aspect-letters.dita" type="topic">Security Aspect Letters</xref></li>
+        <li><xref href="supplier-corporate-it.dita">Supplier Corporate IT</xref></li>
       </ul>
     </body>
   </topic>
@@ -540,36 +388,12 @@ has made for the products we operate, and our relationships with suppliers.</p>
     <title>Mythbusting</title>
     <body>
       <ul>
-        <li>
-          <p>
-            <xref href="cjsm.dita" type="topic">Criminal Justice Secure Mail (CJSM)</xref>
-          </p>
-        </li>
-        <li>
-          <p>
-            <xref href="data-sovereignty.dita">Data Sovereignty</xref>
-          </p>
-        </li>
-        <li>
-          <p>
-            <xref href="internet-v-psn.dita">Internet v. PSN</xref>
-          </p>
-        </li>
-        <li>
-          <p>
-            <xref href="ip-dns-diagram-handling.dita">IP DNS Diagram Handling</xref>
-          </p>
-        </li>
-        <li>
-          <p>
-            <xref href="multiple-consecutive-back-to-back-firewalls.dita">Multiple Back-to-back Consecutive Firewalls</xref>
-          </p>
-        </li>
-        <li>
-          <p>
-            <xref href="official-official-sensitive.dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref>
-          </p>
-        </li>
+        <li><xref href="cjsm.dita" type="topic">Criminal Justice Secure Mail (CJSM)</xref></li>
+        <li><xref href="data-sovereignty.dita">Data Sovereignty</xref></li>
+        <li><xref href="internet-v-psn.dita">Internet v. PSN</xref></li>
+        <li><xref href="ip-dns-diagram-handling.dita">IP DNS Diagram Handling</xref></li>
+        <li><xref href="multiple-consecutive-back-to-back-firewalls.dita">Multiple Back-to-back Consecutive Firewalls</xref></li>
+        <li><xref href="official-official-sensitive.dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref></li>
       </ul>
     </body>
   </topic>
@@ -597,16 +421,8 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>Contact information</title>
       <body>
         <ul>
-          <li>
-            <p>
-              <xref href="email.dita">Email</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="reporting-an-incident.dita">Reporting an incident</xref>
-            </p>
-          </li>
+          <li><xref href="email.dita">Email</xref></li>
+          <li><xref href="reporting-an-incident.dita">Reporting an incident</xref></li>
         </ul>
       </body>
     </topic>
@@ -614,16 +430,8 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>Vulnerability Disclosure</title>
       <body>
         <ul>
-          <li>
-            <p>
-              <xref href="vulnerability-disclosure-policy.dita">Vulnerability Disclosure Policy</xref>
-            </p>
-          </li>
-          <li>
-            <p>
-              <xref href="implement-security-txt.dita">Implementing <codeph>security.txt</codeph></xref>
-            </p>
-          </li>
+          <li><xref href="vulnerability-disclosure-policy.dita">Vulnerability Disclosure Policy</xref></li>
+          <li><xref href="implement-security-txt.dita">Implementing <codeph>security.txt</codeph></xref></li>
         </ul>
       </body>
     </topic>
