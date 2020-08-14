@@ -19,9 +19,7 @@ For convenience, an offline version of this guidance is available as a PDF file,
 Sections 6.12 Cyber security and 6.13 Technical security of the standard state:
 
 -   > The security of information and data is essential to good government and public confidence. To operate effectively, HMG needs to maintain the confidentiality, integrity and availability of its information, systems and infrastructure, and the services it provides. Any organisation that handles government information shall meet the standards expected of HM Government.
-
 -   > Technical security relates to the protection of security systems from compromise and/or external interference that may have occurred as a result of an attack.
-
 
 ## Taxonomy
 
@@ -54,6 +52,7 @@ Documents have been developed and defined within this taxonomy, and are listed i
 |||[Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md)|All users|
 |||[Security Guidance for Using a Personal Device](personal-devices.md)|All users|
 |||[Remote Working](remote-working.md)|All users|
+|||[General advice on taking equipment abroad](general-advice-on-taking-equipment-abroad.md)|All users|
 ||Cryptography|[Cryptography](cryptography.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 ||Operational Security|[Malware Protection Guide \(Overview\)](malware-protection-guide-introduction.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Malware Protection Guide: Defensive Layer 1](malware-protection-guidance-defensive-layer-1.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
@@ -71,120 +70,75 @@ Documents have been developed and defined within this taxonomy, and are listed i
 ### Authentication, Authorisation & Accounting
 
 -   [Accounting](accounting.md)
-
 -   [Authentication](authentication.md)
-
 -   [Authorisation](authorisation.md)
-
 
 ### General standards
 
 -   [Baseline for Amazon Web Services accounts](baseline-aws-accounts.md)
-
 -   [Data Destruction](data-destruction.md)
-
 -   [Data Security & Privacy](data-security-and-privacy.md)
-
 -   [Management access](management-access.md)
-
 -   [Networks are just bearers](networks-bearers-not-trust.md)
-
 -   [Password Managers](password-managers.md)
-
 -   [Secrets management](secrets-management.md)
-
 -   [Vulnerability scanning](vulnerability-scanning.md)
-
 
 ### Security Log Collection
 
 -   [Commercial off-the-shelf applications](cots-applications.md)
-
 -   [Custom Applications](custom-applications.md)
-
 -   [Enterprise IT - Infrastructure](enterprise-it-infrastructure.md)
-
 -   [Enterprise IT - Mobile Devices](enterprise-it-mobile-devices.md)
-
 -   [Hosting Platforms](hosting-platforms.md)
-
 -   [Log entry metadata](log-entry-metadata.md)
-
 -   [Security Log Collection Maturity Tiers](security-log-collection-maturity-tiers.md)
-
 
 ## Guides
 
 ### General guides
 
 -   [Automated certificate renewal](automated-certificate-renewal.md)
-
 -   [Data Security & Privacy Lifecycle Expectations](data-security-and-privacy-lifecycle.md)
-
 -   [Data Security & Privacy Triage Standards](data-security-and-privacy-triage-standards.md)
-
 -   [Defensive domain registrations](defensive-domain-registration.md)
-
 -   [Online identifiers in security logging & monitoring](online-indentifiers.md)
-
 -   [Personnel security clearances](personnel-security-clearances.md)
-
 -   [Standards Assurance Tables](standards-assurance-tables.md)
-
 -   [Cyber Security Consultancy Team: asking for help](user-guide.md)
-
 
 ### Active Cyber Defence
 
 -   [Mail Check](mail-check.md)
-
 -   [Public Sector DNS](public-sector-dns.md)
-
 -   [Web Check](web-check.md)
-
 
 ### Product specific guides
 
 -   [Using LastPass Enterprise](using-lastpass.md)
 
-
 ## Suppliers to MOJ
 
 -   [Assessing Suppliers](assessing-suppliers.md)
-
 -   [Contracts](contracts.md)
-
--   Data Destruction
+-   Data Destruction:
 
     -   [Data Destruction Instruction and Confirmation Letter](data-destruction-instruction-and-confirmation-letter.md)
-
     -   [Data Destruction Contract Clauses - Definitions](data-destruction-contract-clauses-definitions.md)
-
     -   [Data Destruction Contract Clauses - Short Format](data-destruction-contract-clauses-short-format.md)
-
     -   [Data Destruction Contract Clauses - Long Format](data-destruction-contract-clauses-long-format.md)
-
     -   [Data Destruction Contract Clauses - Long Format \(Appendix\)](data-destruction-contract-clauses-long-format-appendix.md)
-
 -   [Security Aspect Letters](security-aspect-letters.md)
-
 -   [Supplier Corporate IT](supplier-corporate-it.md)
-
 
 ## Mythbusting
 
 -   [Criminal Justice Secure Mail \(CJSM\)](cjsm.md)
-
 -   [Data Sovereignty](data-sovereignty.md)
-
 -   [Internet v. PSN](internet-v-psn.md)
-
 -   [IP DNS Diagram Handling](ip-dns-diagram-handling.md)
-
 -   [Multiple Back-to-back Consecutive Firewalls](multiple-consecutive-back-to-back-firewalls.md)
-
 -   [`OFFICIAL` and `OFFICIAL-SENSITIVE`](official-official-sensitive.md)
-
 
 ## Other Guidance
 
@@ -203,14 +157,10 @@ The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 ### Contact information
 
 -   [Email](email.md)
-
 -   [Reporting an incident](reporting-an-incident.md)
-
 
 ### Vulnerability Disclosure
 
 -   [Vulnerability Disclosure Policy](vulnerability-disclosure-policy.md)
-
 -   [Implementing `security.txt`](implement-security-txt.md)
-
 

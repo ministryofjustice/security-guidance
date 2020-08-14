@@ -89,8 +89,9 @@
 		<title>Contacts for getting help</title>
 		<body>
 			<p>In practice, all sorts of things can go wrong from time-to-time. Don't be afraid to report incidents and issues; you will be creating a better and safer work environment.</p>
+			<p><b>If unsure, contact your Line Manager.</b></p>
 		</body>
-		<topic id="one" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title></title></topic>
-		<topic id="two" conref="conrefs.dita#incidents"><title></title></topic>
+		<topic id="general-enquiries-including-theft-and-loss" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title></title></topic>
+		<topic id="incidents" conref="conrefs.dita#incidents"><title></title></topic>
 	</topic>
 </topic>

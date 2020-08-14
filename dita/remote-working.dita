@@ -166,7 +166,18 @@
       </ul>
     </body>
   </topic>
-  <topic id="contacts-for-getting-help" conref="conrefs.dita#contacts-for-getting-help"><title>NULL</title></topic>
+    <topic id="contacts-for-getting-help">
+		<title>Contacts for getting help</title>
+		<body>
+			<p>In practice, all sorts of things can go wrong from time-to-time. Don't be afraid to report incidents and issues; you will be creating a better and safer work environment.</p>
+		</body>
+		<topic id="general-enquiries-including-theft-and-loss" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title/></topic>
+		<topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
+		<topic id="privacy-advice" conref="conrefs.dita#privacy-advice"><title/></topic>
+		<topic id="cyber-security-advice" conref="conrefs.dita#cyber-security-advice"><title/></topic>
+		<topic id="historic-paper-files-urgently-required-by-ministers-courts-or-public-inquiries" conref="conrefs.dita#historic-paper-files-urgently-required-by-ministers-courts-or-public-inquiries"><title/></topic>
+		<topic id="juststore" conref="conrefs.dita#juststore"><title/></topic>
+	</topic>
   <topic id="related-information">
     <title>Related information</title>
     <body>
