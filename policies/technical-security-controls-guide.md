@@ -35,6 +35,3 @@ Layer 1 sets out the technical controls required to build strong network foundat
 
 [Defensive Layer 2: Implementing monitoring capabilities](technical-security-controls-guide-defensive-layer-2.md)
 Layer 2 builds a monitoring capability for the network and extends existing security controls to mobile devices.
-
-[Defensive Layer 3: Implementing monitoring and maintenance tools](technical-security-controls-guide-defensive-layer-3.md)
-Layer 3 technical controls must be implemented after the completion of Layer 1 and Layer 2. Layer 3 controls help to mature network security controls for a defence-in-depth security approach.
