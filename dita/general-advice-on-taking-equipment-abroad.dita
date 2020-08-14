@@ -38,7 +38,7 @@
         <li>do not use public charging stations or connect the phone to a vehicle by USB or Bluetooth as information can be downloaded from your phone</li>
         <li>be aware that hotel and public WiFi spots are not secure, as they can easily be monitored</li>
         <li>make sure you use the phone's password or PIN</li>
-        <li>if the phone is taken from you or you believe it may have been compromised in any way, report it to the Departmental Security Officer</li>
+        <li>if the phone is taken from you or you believe it may have been compromised in any way, report it to the <xref href="#contacts">Departmental Security Officer</xref></li>
       </ul></p>
     </body>
   </topic>
@@ -85,4 +85,12 @@
       <p>The Technology Service Desk will disable your ability to connect to the MOJ network from your device. Be aware that although the device will still have some functionality (i.e. your BlackBerry will work as a mobile phone), the device should be treated as compromised and not used for any MOJ business.</p>
     </body>
   </topic>
+    <topic id="contacts">
+		<title>Contacts for getting help</title>
+		<body>
+			<p>In practice, all sorts of things can go wrong from time-to-time. Don't be afraid to report incidents and issues; you will be creating a better and safer work environment.</p>
+		</body>
+		<topic id="one" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title></title></topic>
+		<topic id="two" conref="conrefs.dita#incidents"><title></title></topic>
+	</topic>
 </topic>

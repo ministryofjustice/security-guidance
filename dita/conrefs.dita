@@ -2,12 +2,127 @@
 <?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="conrefs">
-  <title>conref library</title>
+	<title>conref library</title>
+	<body>
+		<p>
+			<ph id="mojlong">Ministry of Justice (MoJ)</ph>
+			<ph id="moj">MoJ</ph>
+		</p>
+		<p id="contactCATbyemail">Contact the Cyber Assistance Team by email: <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></p>
+	</body>
+
+<!-- Contacts -->
+
+<topic id="general-enquiries-including-theft-and-loss">
+	<title>General enquiries, including theft and loss</title>
+	<body>
+		<p><b>Dom1 - Technology Service Desk</b>
+			<ul>
+				<li>Tel: 0800 917 5148</li>
+			</ul>
+			<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph>email address is no longer being monitored.</note>
+		</p>
+		<p><b>Digital &amp; Technology - Digital Service Desk</b>
+			<ul>
+				<li>Email: <xref href="mailto:servicedesk@digital.justice.gov.uk" format="email" scope="external">servicedesk@digital.justice.gov.uk</xref></li>
+				<li>Slack: <codeph>#digitalservicedesk</codeph></li>
+			</ul>
+		</p>
+		<p><b>HMPPS Information &amp; security:</b>
+			<ul>
+				<li>Email: <xref href="mailto:informationmgmtsecurity@justice.gov.uk" format="email" scope="external">informationmgmtsecurity@justice.gov.uk</xref></li>
+				<li>Tel: 0203 334 0324</li>
+			</ul>
+		</p>
+	</body>
+</topic>
+
+<topic id="incidents">
+	<title>Incidents</title>
+	<body>
+		<note>If you work for an agency or ALB, refer to your local incident reporting guidance.</note>
+		<p><b>Operational Security Team</b>
+			<ul>
+				<li>Email: <xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></li>
+				<li>Slack: <codeph>#security</codeph></li>
+			</ul>
+		</p>
+	</body>
+</topic>
+
+<topic id="privacy-advice">
+	<title>Privacy Advice</title>
+	<body>
+		<p><b>Privacy Team</b>
+			<ul>
+				<li>Email: <xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">privacy@justice.gov.uk</xref></li>
+				<li>Slack: <codeph>#securityprivacyteam</codeph></li>
+				<li>Intranet: <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/</xref></li>
+			</ul>
+		</p>
+	</body>
+</topic>
+
+<topic id="cyber-security-advice">
+  <title>Cyber Security Advice</title>
   <body>
-  <p>
-    <ph id="mojlong">Ministry of Justice (MoJ)</ph>
-    <ph id="moj">MoJ</ph>
-  </p>
-  <p id="contactCATbyemail">Contact the Cyber Assistance Team by email: <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></p>
-  </body>
+    <p>
+      <b>Cyber Consultants &amp; Risk Advisors</b>
+    </p>
+    <ul>
+      <li>
+        <p>Email: <xref href="mailto:security@digital.justice.gov.uk" format="email" scope="external">security@digital.justice.gov.uk</xref></p>
+      </li>
+      <li>
+        <p>Slack: <codeph>#security</codeph></p>
+      </li>
+    </ul>
+    </body>
+</topic>
+
+<topic id="historic-paper-files-urgently-required-by-ministers-courts-or-public-inquiries">
+  <title>Historic paper files urgently required by ministers, courts, or Public Inquiries</title>
+  <body>
+    <p>
+      <b>MoJ HQ staff</b>
+    </p>
+    <ul>
+      <li>
+        <p>Email: <xref href="mailto:Records_Retention_@justice.gov.uk" format="email" scope="external">Records_Retention_@justice.gov.uk</xref></p>
+      </li>
+    </ul>
+    <p>
+      <b>HMCTS and HMPPS staff</b>
+    </p>
+    <ul>
+      <li>
+        <p>Email: <xref href="mailto:BranstonRegistryRequests2@justice.gov.uk" format="email" scope="external">BranstonRegistryRequests2@justice.gov.uk</xref></p>
+      </li>
+    </ul>
+    </body>
+</topic>
+
+<topic id="juststore">
+  <title>JustStore</title>
+  <body>
+    <ul>
+      <li>
+        <p>Email: <xref href="mailto:KIM@justice.gov.uk" format="email" scope="external">KIM@justice.gov.uk</xref></p>
+      </li>
+    </ul>
+    <p>
+      <b>If unsure, contact your Line Manager.</b>
+    </p>
+    </body>
+</topic>
+
+	<topic id="contacts-for-getting-help">
+		<title>Contacts for getting help</title>
+		<body>
+			<p>In practice, all sorts of things can go wrong from time-to-time. Don't be afraid to report incidents and issues; you will be creating a better and safer work environment.</p>
+		</body>
+		<topic id="one" conref="#general-enquiries-including-theft-and-loss"><title></title></topic>
+		<topic id="two" conref="#incidents"><title></title></topic>
+		<topic id="three" conref="#privacy-advice"><title></title></topic>
+	</topic>
 </topic>
