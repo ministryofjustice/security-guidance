@@ -8,9 +8,9 @@ The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 13 August 2020.
+This guidance is dated: 14 August 2020.
 
-For convenience, an offline version of this guidance is available as a PDF file, [here](https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf). The PDF version of this guidance is time-limited, and is not valid after 13 September 2020.
+For convenience, an offline version of this guidance is available as a PDF file, [here](https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf). The PDF version of this guidance is time-limited, and is not valid after 14 September 2020.
 
 ### Background
 
@@ -45,7 +45,7 @@ Documents have been developed and defined within this taxonomy, and are listed i
 |Level 1|Level 2|Documents|Target Audience|
 |-------|-------|---------|---------------|
 |Cyber|Access Control|[Access Control Guide](access-control-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Accessing MOJ IT Systems From Abroad](accessing-moj-it-systems-from-abroad.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Accessing MOJ IT Systems From Abroad](accessing-moj-it-systems-from-abroad.md)|All users|
 |||[Managing User Access Guide](managing-user-access-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)|All users|
 |||[Multi-Factor Authentication](multi-factor-authentication-mfa-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
