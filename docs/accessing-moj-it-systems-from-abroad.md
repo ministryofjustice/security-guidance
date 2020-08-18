@@ -47,9 +47,9 @@ In general, it is acceptable for MOJ users to access MOJ services from abroad, a
     -   If you are part of MOJ HQ, HMPPS HQ or HMCTS, contact your Senior Civil Servant \(SCS\) and ask for approval to take MOJ equipment abroad and access MOJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
     -   If you are part of HMPPS \(but *not* HQ\), contact your Governor and ask for approval to take MOJ equipment abroad and access MOJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
 3.  Fill in the [overseas travel request form](https://intranet.justice.gov.uk/documents/2020/03/overseas-travel-form.docx).
-4.  Send the completed form to [MOJ Security](#contacts), including the answers obtained from the earlier parts of this process.
+4.  Send the completed form to [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk), including the answers obtained from the earlier parts of this process.
 5.  Your request is considered, and an answer provided, as quickly as possible.
-6.  When you have received all the approvals, send a copy of your request and the approvals to [Operational Security](#contacts).
+6.  When you have received all the approvals, send a copy of your request and the approvals to [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk).
 7.  When Operational Security have acknowledged receipt of the request and approvals, the formal process is complete.
 8.  Check if you need to do anything to prepare for [International Roaming](#international-roaming) .
 9.  Take a copy of this guidance; it includes useful contact details that help in the event of a problem while travelling.
