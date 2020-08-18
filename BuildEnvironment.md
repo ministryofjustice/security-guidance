@@ -118,7 +118,7 @@
 ## Running a local DITA build
 
 1. Open a terminal.
-2. Ensure you have enabled your DITA build environment by running the `startcmd.sh` script as described in Test the DITA installation above.
+2. Ensure you have enabled your DITA build environment by running the `startcmd.sh` script as described in [Test the DITA installation](#test-the-dita-installation) above.
 3. To check the environment is correct, run the command:</br>`which dita`</br>If the command is not found, your environment is not set correctly.
 4. Change to the directory containing the DITA repository (for example `security-guidance`).
 5. Change to the `buildUtils` directory.
@@ -128,3 +128,11 @@
 9. A large number of messages should appear, reporting on the build progress.
 10. After a short time (~35 seconds?), a `BUILD SUCCESSFUL` message should appear.
 11. Check in the `security-guidance/docs` directory; you should see a full set of markdown files and also a `moj-guidance.pdf` file.
+
+## (Optional) Enable Word format output from a build
+
+1. Open a terminal.
+2. Ensure you have enabled your DITA build environment by running the `startcmd.sh` script as described in [Test the DITA installation](#test-the-dita-installation) above.
+3. To check the environment is correct, run the command:</br>`which dita`</br>If the command is not found, your environment is not set correctly.
+4. To install the Word format capability, run the command:<br/>`dita install com.elovirta.ooxml`<br/>This enables building an additional output format: `docx`, providing a basic compatibility with the word processing tool.
+5. An additional Ant build target is also included. To build a Word format document from the DITA source, run the command:<br/>`ant -lib $DITA_DIR/config -f builder.ant compile_word`<br/>The resulting file is put into the `dita/out` directory.
