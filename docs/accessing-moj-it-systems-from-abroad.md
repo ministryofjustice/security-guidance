@@ -73,8 +73,8 @@ If there is a problem with your MOJ equipment, it might be necessary to disable 
 
 ## Related pages
 
--   [General advice on taking Equipment abroad](https://intranet.justice.gov.uk/guidance/security/it-computer-security/general-advice-on-taking-equipment-abroad)
--   [Travelling abroad - business or personal](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal)
+-   [General advice on taking Equipment abroad](general-advice-on-taking-equipment-abroad.md)
+-   [Overseas travel](https://intranet.justice.gov.uk/guidance/security/emergencies/coronavirus-guidance/absence-leave/overseas-travel/)
 -   [Staff security and responsibilities – during employment](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment)
 
 ## External websites

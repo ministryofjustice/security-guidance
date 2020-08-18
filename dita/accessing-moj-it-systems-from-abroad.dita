@@ -92,8 +92,8 @@
 		<title>Related pages</title>
 		<body>
 			<ul>
-				<li><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/general-advice-on-taking-equipment-abroad" format="html" scope="external">General advice on taking Equipment abroad</xref></li>
-				<li><xref href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal" format="html" scope="external">Travelling abroad - business or personal</xref></li>
+				<li><xref href="general-advice-on-taking-equipment-abroad.dita" format="dita">General advice on taking Equipment abroad</xref></li>
+				<li><xref href="https://intranet.justice.gov.uk/guidance/security/emergencies/coronavirus-guidance/absence-leave/overseas-travel/" format="html" scope="external">Overseas travel</xref></li>
 				<li><xref href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment" format="html" scope="external">Staff security and responsibilities – during employment</xref></li>
 			</ul>
 		</body>
