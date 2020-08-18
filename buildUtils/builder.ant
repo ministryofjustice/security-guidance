@@ -39,9 +39,10 @@
 	<target name="compile_html" depends="init"
 				description="compile the source">
 		<!-- Compile the DITA code into markdown (HTML) -->
+		<!-- Include technical and 'all user' material, as this will be published on the technical site -->
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${dita}/html.ditaval"/>
+			<property name="args.filter" value="${dita}/format-html.ditaval:${dita}/audience-tech.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="markdown_github"/>
 		</ant>
@@ -50,9 +51,18 @@
 	<target name="compile_pdf" depends="init"
 				description="compile the source">
 		<!-- Compile the DITA code into PDF -->
+		<!-- First containing technical detail -->
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${dita}/pdf.ditaval"/>
+			<property name="args.filter" value="${dita}/format-pdf.ditaval:${dita}/audience-tech.ditaval"/>
+			<property name="output.dir" location="${build}"/>
+			<property name="transtype" value="pdf"/>
+		</ant>
+		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-tech.pdf"/>
+		<!-- Next containing only information suitable for all users -->
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
+			<property name="args.filter" value="${dita}/format-pdf.ditaval:${dita}/audience-allusers.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
@@ -63,7 +73,7 @@
 		<!-- Compile the DITA code into Word format -->
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${dita}/html.ditaval"/>
+			<property name="args.filter" value="${dita}/format-html.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="docx"/>
 		</ant>
