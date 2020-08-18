@@ -8,16 +8,21 @@
     <title>Summary</title>
     <body>
       <p>This site documents some of the security decisions that the
-<xref href="https://www.gov.uk/government/organisations/ministry-of-justice" format="html" scope="external">Ministry of Justice (MoJ)</xref>
+<xref href="https://www.gov.uk/government/organisations/ministry-of-justice" format="html" scope="external"><ph conref="conrefs.dita#conrefs/mojlong"/></xref>
 has made for the products we operate, and our relationships with suppliers.</p>
-      <p>The MoJ <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> covers technical decisions in the MoJ more widely.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> covers technical decisions in the <ph conref="conrefs.dita#conrefs/moj"/> more widely.</p>
       <note>
       <p>This guidance is dated: <ph conref="tstamp.dita#tstamp/tstamp"/>.</p>
-      <p platform="html">For convenience, an offline version of this guidance is available as a PDF file, <xref  href="https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf" format="pdf" scope="external">here</xref>. The PDF version of this guidance is time-limited, and is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
+      <p platform="html">For convenience, offline versions of this guidance are available as PDF files:
+      <ul>
+      	<li><xref href="https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf" format="pdf" scope="external">Content for all users</xref></li>
+      	<li><xref href="https://ministryofjustice.github.io/security-guidance/moj-guidance-tech.pdf" format="pdf" scope="external">Content for technical users (includes material for all users)</xref></li>
+    	  </ul>
+    	  The PDF versions of this guidance are time-limited, and are <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
       <p platform="pdf">This offline version of the guidance is available as a PDF file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, see <xref  href="https://ministryofjustice.github.io/security-guidance/" format="html" scope="external">here</xref>.</p>
       </note>
     </body>
-    <topic id="background">
+    <topic id="background" audience="audience-tech">
       <title>Background</title>
       <body>
         <p><i><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></i> replaces the HMG Security Policy Framework (SPF) last published in May 2018. It also incorporates the <i>Minimum Cyber Security Standard (MCSS)</i> which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.</p>
@@ -32,9 +37,9 @@ has made for the products we operate, and our relationships with suppliers.</p>
     </topic>
   </topic>
   <topic id="taxonomy">
-    <title>Taxonomy</title>
+    <title><ph audience="audience-tech">Taxonomy and </ph><ph audience="audience-allusers">Structure</ph></title>
     <body>
-      <p>MoJ has developed their cyber and technical security taxonomy as follows:</p>
+      <p audience="audience-tech">The <ph conref="conrefs.dita#conrefs/moj"/> has developed their cyber and technical security taxonomy as follows:
       <table>
         <tgroup cols="2">
           <colspec colname="col1" colnum="1"/>
@@ -81,7 +86,8 @@ has made for the products we operate, and our relationships with suppliers.</p>
           </tbody>
         </tgroup>
       </table>
-      <p>Documents have been developed and defined within this taxonomy, and are listed in the next section together with their suggested target audiences.</p>
+      </p>
+      <p>The documents <ph audience="audience-tech">have been developed and defined within this taxonomy, and</ph> are listed in the next section<ph audience="audience-tech"> together with their suggested target audiences</ph>.</p>
     </body>
     <topic id="document-list">
       <title>Document List</title>
@@ -104,6 +110,12 @@ has made for the products we operate, and our relationships with suppliers.</p>
               <row>
                 <entry colname="col1">Cyber</entry>
                 <entry colname="col2">Access Control</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
                 <entry colname="col3">
                   <xref href="access-control-guide.dita" type="topic">Access Control Guide</xref>
                 </entry>
@@ -113,11 +125,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="accessing-moj-it-systems-from-abroad.dita">Accessing MOJ IT Systems From Abroad</xref>
+                  <xref href="accessing-moj-it-systems-from-abroad.dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Abroad</xref>
                 </entry>
                 <entry colname="col4">All users</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
@@ -133,7 +145,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 </entry>
                 <entry colname="col4">All users</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
@@ -141,7 +153,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
@@ -189,7 +201,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 </entry>
                 <entry colname="col4">All users</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1"> </entry>
                 <entry colname="col2">Cryptography</entry>
                 <entry colname="col3">
@@ -197,7 +209,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1"> </entry>
                 <entry colname="col2">Operational Security</entry>
                 <entry colname="col3">
@@ -205,7 +217,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
@@ -213,7 +225,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
@@ -221,7 +233,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
@@ -245,7 +257,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 </entry>
                 <entry colname="col4">All users</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
@@ -253,7 +265,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
@@ -261,7 +273,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
@@ -269,7 +281,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
@@ -296,7 +308,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
         </ul>
       </body>
     </topic>
-    <topic id="general-standards">
+    <topic id="general-standards" audience="audience-tech">
       <title>General standards</title>
       <body>
         <ul>
@@ -311,7 +323,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
         </ul>
       </body>
     </topic>
-    <topic id="security-log-collection">
+    <topic id="security-log-collection" audience="audience-tech">
       <title>Security Log Collection</title>
       <body>
         <ul>
@@ -333,18 +345,18 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>General guides</title>
       <body>
         <ul>
-          <li><xref href="automated-certificate-renewal.dita" type="topic">Automated certificate renewal</xref></li>
-          <li><xref href="data-security-and-privacy-lifecycle.dita">Data Security &amp; Privacy Lifecycle Expectations</xref></li>
-          <li><xref href="data-security-and-privacy-triage-standards.dita">Data Security &amp; Privacy Triage Standards</xref></li>
-          <li><xref href="defensive-domain-registration.dita">Defensive domain registrations</xref></li>
-          <li><xref href="online-indentifiers.dita">Online identifiers in security logging &amp; monitoring</xref></li>
+          <li audience="audience-tech"><xref href="automated-certificate-renewal.dita" type="topic">Automated certificate renewal</xref></li>
+          <li audience="audience-tech"><xref href="data-security-and-privacy-lifecycle.dita">Data Security &amp; Privacy Lifecycle Expectations</xref></li>
+          <li audience="audience-tech"><xref href="data-security-and-privacy-triage-standards.dita">Data Security &amp; Privacy Triage Standards</xref></li>
+          <li audience="audience-tech"><xref href="defensive-domain-registration.dita">Defensive domain registrations</xref></li>
+          <li audience="audience-tech"><xref href="online-indentifiers.dita">Online identifiers in security logging &amp; monitoring</xref></li>
           <li><xref href="personnel-security-clearances.dita">Personnel security clearances</xref></li>
-          <li><xref href="standards-assurance-tables.dita">Standards Assurance Tables</xref></li>
+          <li audience="audience-tech"><xref href="standards-assurance-tables.dita">Standards Assurance Tables</xref></li>
           <li><xref href="user-guide.dita">Cyber Security Consultancy Team: asking for help</xref></li>
         </ul>
       </body>
     </topic>
-    <topic id="active-cyber-defence">
+    <topic id="active-cyber-defence" audience="audience-tech">
       <title>Active Cyber Defence</title>
       <body>
         <ul>
@@ -363,8 +375,8 @@ has made for the products we operate, and our relationships with suppliers.</p>
       </body>
     </topic>
   </topic>
-  <topic id="suppliers-to-moj">
-    <title>Suppliers to MOJ</title>
+  <topic id="suppliers-to-moj" audience="audience-tech">
+    <title>Suppliers to <ph conref="conrefs.dita#conrefs/moj"/></title>
     <body>
       <ul>
         <li><xref href="assessing-suppliers.dita" type="topic">Assessing Suppliers</xref></li>
@@ -388,11 +400,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
     <title>Mythbusting</title>
     <body>
       <ul>
-        <li><xref href="cjsm.dita" type="topic">Criminal Justice Secure Mail (CJSM)</xref></li>
-        <li><xref href="data-sovereignty.dita">Data Sovereignty</xref></li>
-        <li><xref href="internet-v-psn.dita">Internet v. PSN</xref></li>
-        <li><xref href="ip-dns-diagram-handling.dita">IP DNS Diagram Handling</xref></li>
-        <li><xref href="multiple-consecutive-back-to-back-firewalls.dita">Multiple Back-to-back Consecutive Firewalls</xref></li>
+        <li audience="audience-tech"><xref href="cjsm.dita" type="topic">Criminal Justice Secure Mail (CJSM)</xref></li>
+        <li audience="audience-tech"><xref href="data-sovereignty.dita">Data Sovereignty</xref></li>
+        <li audience="audience-tech"><xref href="internet-v-psn.dita">Internet v. PSN</xref></li>
+        <li audience="audience-tech"><xref href="ip-dns-diagram-handling.dita">IP DNS Diagram Handling</xref></li>
+        <li audience="audience-tech"><xref href="multiple-consecutive-back-to-back-firewalls.dita">Multiple Back-to-back Consecutive Firewalls</xref></li>
         <li><xref href="official-official-sensitive.dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref></li>
       </ul>
     </body>
@@ -403,13 +415,13 @@ has made for the products we operate, and our relationships with suppliers.</p>
     <topic id="intranet">
       <title>Intranet</title>
       <body>
-        <p>There are other cyber and technical security guidance documents available to reference. A large number of these documents are available in the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/" format="html" scope="external">IT and Computer Security</xref> repository on the MoJ Intranet, but these documents are currently being reviewed and progressively are being incorporated into this main <xref href="cyber-and-technical-security-guidance.dita" type="topic">Security Guidance</xref> repository.</p>
+        <p>There are other cyber and technical security guidance documents available to reference. A large number of these documents are available in the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/" format="html" scope="external">IT and Computer Security</xref> repository on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet, but these documents are currently being reviewed and progressively are being incorporated into this main <xref href="cyber-and-technical-security-guidance.dita" type="topic">Security Guidance</xref> repository.</p>
       </body>
     </topic>
-    <topic id="technical-guidance">
+    <topic id="technical-guidance" audience="audience-tech">
       <title>Technical Guidance</title>
       <body>
-        <p>The MoJ <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> should be read together with this security-focused guidance.</p>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> should be read together with this security-focused guidance.</p>
         <p><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></p>
       </body>
     </topic>
@@ -426,7 +438,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
         </ul>
       </body>
     </topic>
-    <topic id="vulnerability-disclosure">
+    <topic id="vulnerability-disclosure" audience="audience-tech">
       <title>Vulnerability Disclosure</title>
       <body>
         <ul>
