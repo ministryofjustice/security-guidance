@@ -23,12 +23,6 @@ If you think your device is lost, stolen, 'hacked', or in some way compromised, 
 
     -   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
     -   Slack: `#digitalservicedesk`
-
-
-    **HMPPS Information & security:**
-
-    -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
-    -   Tel: 0203 334 0324
 2.  Tell your line manager as soon as possible.
 
 3.  For a lost or stolen device, contact the Police and make sure you get the incident reference number.

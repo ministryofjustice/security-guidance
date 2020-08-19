@@ -19,8 +19,6 @@
        <p conref="conrefs.dita#dom1"/>
        <p> </p>
        <p conref="conrefs.dita#dandt"/>
-       <p> </p>
-       <p conref="conrefs.dita#hmppsinfosec"/>
        </li>
         <li>
           <p>Tell your line manager as soon as possible.</p>
