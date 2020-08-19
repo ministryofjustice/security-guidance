@@ -4,6 +4,8 @@
 
 ## What to do if your device is lost, stolen, or compromised
 
+If MoJ data or information is lost or compromised, you should always [report it as a data incident](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/).
+
 **Note:** You can help reduce problems by making sure that devices used for MoJ tasks are always shut down before leaving Government premises. Locking a laptop, or 'putting it to sleep' is not completely secure. A lost or stolen laptop can be accessed more easily if it is only locked or sleeping. A shut down makes sure that all security measures are in place, such as full disk encryption.
 
 **Note:** For HMCTS and HMPPS, please follow the procedures on your local intranet.
@@ -27,10 +29,6 @@ If you think your device is lost, stolen, 'hacked', or in some way compromised, 
 
 3.  For a lost or stolen device, contact the Police and make sure you get the incident reference number.
 
-4.  When back online fill in a [security incident form](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/).
-
-
-If MoJ data or information is lost or compromised, [report it as a data incident](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/reporting-a-data-incident/).
 
 ## Summary
 
