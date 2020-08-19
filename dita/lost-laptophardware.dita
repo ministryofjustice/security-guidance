@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="lost-laptop-or-other-it-security-incident">
+  <title>Lost Laptop or other IT security incident</title>
+  <body>
+    <p>
+      <b>This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#mojlong"/>.</b>
+    </p>
+  </body>
+  <topic id="what-to-do-if-your-device-is-lost-stolen-or-compromised">
+    <title>What to do if your device is lost, stolen, or compromised</title>
+    <body>
+      <note>You can help reduce problems by making sure that devices used for <ph conref="conrefs.dita#moj"/> tasks are always shut down before leaving Government premises. Locking a laptop, or 'putting it to sleep' is not completely secure. A lost or stolen laptop can be accessed more easily if it is only locked or sleeping. A shut down makes sure that all security measures are in place, such as full disk encryption.</note>
+      <note>For HMCTS and HMPPS, please follow the procedures on your local intranet.</note>
+      <p>If you think your device is lost, stolen, 'hacked', or in some way compromised, you must:
+      <ol>
+        <li>Contact your Technology Service Desk. The analyst will ask the relevant questions and note responses on the ticket.
+       <p conref="conrefs.dita#dom1"/>
+       <p> </p>
+       <p conref="conrefs.dita#dandt"/>
+       <p> </p>
+       <p conref="conrefs.dita#hmppsinfosec"/>
+       </li>
+        <li>
+          <p>Tell your line manager as soon as possible.</p>
+        </li>
+        <li>
+          <p>For a lost or stolen device, contact the Police and make sure you get the incident reference number.</p>
+        </li>
+        <li>
+          <p>When back online fill in a <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">security incident form</xref>.</p>
+        </li>
+      </ol></p>
+      <p>If <ph conref="conrefs.dita#moj"/> data or information is lost or compromised, <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/reporting-a-data-incident/" format="html" scope="external">report it as a data incident</xref>.</p>
+    </body>
+  </topic>
+  <topic id="summary">
+    <title>Summary</title>
+    <body>
+      <p>Find out more about how to report a security incident <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">here</xref>.</p>
+    </body>
+  </topic>
+</topic>

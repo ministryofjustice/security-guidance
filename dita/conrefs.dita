@@ -23,19 +23,19 @@
 	<topic id="general-enquiries-including-theft-and-loss">
 		<title>General enquiries, including theft and loss</title>
 		<body>
-			<p><b>Dom1 - Technology Service Desk</b>
+			<p id="dom1"><b>Dom1 - Technology Service Desk</b>
 				<ul>
 					<li>Tel: 0800 917 5148</li>
 				</ul>
 				<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph>email address is no longer being monitored.</note>
 			</p>
-			<p><b>Digital &amp; Technology - Digital Service Desk</b>
+			<p id="dandt"><b>Digital &amp; Technology - Digital Service Desk</b>
 				<ul>
 					<li>Email: <xref href="mailto:servicedesk@digital.justice.gov.uk" format="email" scope="external">servicedesk@digital.justice.gov.uk</xref></li>
 					<li>Slack: <codeph>#digitalservicedesk</codeph></li>
 				</ul>
 			</p>
-			<p><b>HMPPS Information &amp; security:</b>
+			<p id="hmppsinfosec"><b>HMPPS Information &amp; security:</b>
 				<ul>
 					<li>Email: <xref href="mailto:informationmgmtsecurity@justice.gov.uk" format="email" scope="external">informationmgmtsecurity@justice.gov.uk</xref></li>
 					<li>Tel: 0203 334 0324</li>

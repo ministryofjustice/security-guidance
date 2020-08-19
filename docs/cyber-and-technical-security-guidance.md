@@ -8,9 +8,9 @@ The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 18 August 2020.
+This guidance is dated: 19 August 2020.
 
-For convenience, an offline version of this guidance is available as a PDF file, [here](https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf). The PDF version of this guidance is time-limited, and is not valid after 18 September 2020.
+For convenience, an offline version of this guidance is available as a PDF file, [here](https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf). The PDF version of this guidance is time-limited, and is not valid after 19 September 2020.
 
 ### Background
 
@@ -50,6 +50,7 @@ Documents have been developed and defined within this taxonomy, and are listed i
 |||[Privileged Account Management Guide](privileged-account-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 ||Asset Management|[General User Video and Messaging Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
 |||[Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md)|All users|
+|||[Lost Laptop or other IT security incident](lost-laptophardware.md)|All users|
 |||[Security Guidance for Using a Personal Device](personal-devices.md)|All users|
 |||[Remote Working](remote-working.md)|All users|
 |||[General advice on taking equipment abroad](general-advice-on-taking-equipment-abroad.md)|All users|
