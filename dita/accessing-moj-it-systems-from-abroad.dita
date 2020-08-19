@@ -61,9 +61,9 @@
 						</ul>
 					</li>
 					<li>Fill in the <xref href="https://intranet.justice.gov.uk/documents/2020/03/overseas-travel-form.docx" format="docx" scope="external">overseas travel request form</xref>.</li>
-					<li>Send the completed form to <ph conref="conrefs.dita#securityAt"/>, including the answers obtained from the earlier parts of this process.</li>
+					<li>Send the completed form to <ph conref="conrefs.dita#conrefs/securityAt"/>, including the answers obtained from the earlier parts of this process.</li>
 					<li>Your request is considered, and an answer provided, as quickly as possible.</li>
-					<li>When you have received all the approvals, send a copy of your request and the approvals to <ph conref="conrefs.dita#ostAt"/>.</li>
+					<li>When you have received all the approvals, send a copy of your request and the approvals to <ph conref="conrefs.dita#conrefs/ostAt"/>.</li>
 					<li>When Operational Security have acknowledged receipt of the request and approvals, the formal process is complete.</li>
 					<li>Check if you need to do anything to prepare for <xref href="#international-roaming" format="html">International Roaming</xref> .</li>
 					<li>Take a copy of this guidance; it includes useful contact details that help in the event of a problem while travelling.</li>

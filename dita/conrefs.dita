@@ -18,6 +18,10 @@
 <!-- To use a content reference from this library, include a line similar to the following:
 	<topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
 	... which would incorporate the 'incidents' topic.
+
+	The actual syntax for a conref target can be a bit confusing. The DITA reference material here:
+	https://docs.oasis-open.org/dita/v1.1/OS/langspec/common/theconrefattribute.html
+	... is excellent and has clear examples of how to refer to what you want.
  -->
 
 	<topic id="general-enquiries-including-theft-and-loss">
@@ -50,7 +54,7 @@
 			<note>If you work for an agency or ALB, refer to your local incident reporting guidance.</note>
 			<p><b>Operational Security Team</b>
 				<ul>
-					<li>Email: <ph conref="#ostAt"/></li>
+					<li>Email: <ph conref="#conrefs/ostAt"/></li>
 					<li>Slack: <codeph>#security</codeph></li>
 				</ul>
 			</p>
@@ -75,7 +79,7 @@
 		<body>
 			<p><b>Cyber Consultants &amp; Risk Advisors</b>
 				<ul>
-					<li>Email: <ph conref="#securityAt"/></li>
+					<li>Email: <ph conref="#conrefs/securityAt"/></li>
 					<li>Slack: <codeph>#security</codeph></li>
 				</ul>
 			</p>
