@@ -24,19 +24,19 @@
 2. Wait for the IDE to start. Accept the default workspace for now.
 3. Click the Help menu, and select the Install New Software option.
 4. In the Available Software window, select the Work with drop-down. Choose `--All available sites`.
-5. In the filter text box, type XML <enter> This will filter the available software and show you the packages that mention XML in some way.
+5. In the filter text box, type `XML <enter>` This will filter the available software and show you the packages that mention XML in some way.
 6. Scroll down the list to find 'Programming Languages', and select the 'Eclipse XML Editors and Tools' package. Don't worry about the version number; it'll always be the latest version.
-7. Click Next>.
-8. The Install Details window lets you check which package(s) are about to be installed. Click Next>.
-9. On the Review Licenses window, review and understand the licenses, then check the 'I accept...' option. Click Finish.
-10. Wait for a short time while the package(s) download and install. You are then asked to restart the IDE to apply the software update. Click Restart Now.
-11. To exit the IDE, click the File menu then select the Exit option.
+7. Click `Next>`.
+8. The Install Details window lets you check which package(s) are about to be installed. Click `Next>`.
+9. On the Review Licenses window, review and understand the licenses, then check the `I accept...` option. Click `Finish`.
+10. Wait for a short time while the package(s) download and install. You are then asked to restart the IDE to apply the software update. Click `Restart Now`.
+11. To exit the IDE, click the `File` menu then select the `Exit` option.
 
 ## Installing a markdown editor
 
 1. Start the IDE.
 2. Click the Help menu, and select the Eclipse Marketplace option.
-3. In the Find box, type `markdown` and click the <Enter> key.
+3. In the Find box, type `markdown` and click the `<Enter>` key.
 4. Find the `Markdown Text Editor` in the list of packages. Click `Install`.
 5. Accept the License agreement, then click Finish.
 6. This is a package from the marketplace, so a warning appears. Click Install anyway.
@@ -87,7 +87,7 @@
 17. Select the XML option - don't bother to expand the twisty.
 18. With the XML option selected, click the `Add` button _next to the File association section_.
 19. Enter `*.dita` in the Content type field, then click OK.
-20. Select the `*.dita* File association type, then select the XML editor in the Associated editors section.
+20. Select the `*.dita*` File association type, then select the XML editor in the Associated editors section.
 21. Click the Apply and Close button.
 22. Repeat steps 8 to 21 inclusive, but this time using the `*.ditamap` value rather than `*.dita`.
 
@@ -95,14 +95,14 @@
 
 1. Click the File menu, and select the New option, then the Project option.
 2. Expand the General twisty.
-3. Select Project, then click Next>.
-4. Enter a project name, for example MySecurityGuidanceProject, then click Finish.
+3. Select Project, then click `Next>`.
+4. Enter a project name, for example `MySecurityGuidanceProject`, then click Finish.
 
 ## Add an existing Git repository (your local copy) into a project
 
 1. Click the File menu, and select the Import option.
 2. Expand the General twisty.
-3. Select the File System option, and click Next>.
+3. Select the File System option, and click `Next>`.
 4. Click the Browse button next to the 'From directory:' field, and navigate to the directory on your system containing your local copy of the Git repository.
 5. Click the Open button.
 6. Select the checkbox next to the name of the directory containing your local copy of the Git repository, for example `security-guidance`.
