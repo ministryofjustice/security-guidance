@@ -76,7 +76,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 ### General enquiries, including theft and loss
 
-**Dom1 - Technology Service Desk**
+**Dom1/Quantum - Technology Service Desk**
 
 -   Tel: 0800 917 5148
 
