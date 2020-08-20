@@ -10,7 +10,12 @@ The MOJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 This guidance is dated: 20 August 2020.
 
-For convenience, an offline version of this guidance is available as a PDF file, [here](https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf). The PDF version of this guidance is time-limited, and is not valid after 20 September 2020.
+For convenience, offline versions of this guidance are available as PDF files:
+
+-   [Content for all users](https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf)
+-   [Content for technical users \(includes material for all users\)](https://ministryofjustice.github.io/security-guidance/moj-guidance-tech.pdf)
+
+The PDF versions of this guidance are time-limited, and are not valid after 20 September 2020.
 
 ### Background
 
@@ -21,9 +26,9 @@ Sections 6.12 Cyber security and 6.13 Technical security of the standard state:
 -   > The security of information and data is essential to good government and public confidence. To operate effectively, HMG needs to maintain the confidentiality, integrity and availability of its information, systems and infrastructure, and the services it provides. Any organisation that handles government information shall meet the standards expected of HM Government.
 -   > Technical security relates to the protection of security systems from compromise and/or external interference that may have occurred as a result of an attack.
 
-## Taxonomy
+## Taxonomy andStructure
 
-MOJ has developed their cyber and technical security taxonomy as follows:
+The MOJ has developed their cyber and technical security taxonomy as follows:
 
 |Level 1|Level 2|
 |-------|-------|
@@ -36,13 +41,14 @@ MOJ has developed their cyber and technical security taxonomy as follows:
 ||Incident Management|
 ||Software Development|
 
-Documents have been developed and defined within this taxonomy, and are listed in the next section together with their suggested target audiences.
+The documents have been developed and defined within this taxonomy, and are listed in the next sectiontogether with their suggested target audiences.
 
 ### Document List
 
 |Level 1|Level 2|Documents|Target Audience|
 |-------|-------|---------|---------------|
-|Cyber|Access Control|[Access Control Guide](access-control-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|Cyber|Access Control|||
+|||[Access Control Guide](access-control-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Accessing MOJ IT Systems From Abroad](accessing-moj-it-systems-from-abroad.md)|All users|
 |||[Managing User Access Guide](managing-user-access-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)|All users|
