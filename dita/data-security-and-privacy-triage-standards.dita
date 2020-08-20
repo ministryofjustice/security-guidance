@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="data-security--privacy-triage-standards">
+<topic id="data-security-and-privacy-triage-standards">
   <title>Data Security &amp; Privacy Triage Standards</title>
   <body>
-    <p>Below are a series of common area guides from MOJ Digital &amp; Technology Triage Standards.</p>
+    <p>Below are a series of common area guides from <ph conref="conrefs.dita#conrefs/mojlong"/> Digital &amp; Technology Triage Standards.</p>
   </body>
   <topic id="purposeful-capture-of-data">
     <title>Purposeful Capture of Data</title>
@@ -33,7 +33,7 @@
   <topic id="amendingdeleting-data">
     <title>Amending/Deleting Data</title>
     <body>
-      <p>EU GDPR &amp; the UK Data Protection Act (2018) requires that individuals agree to the handling and processing of their personal information. Many systems will need processes, to change, prevent, or stop handling personal information. The process might be have to be manual. Quite apart from GDPR/DPA18, these capabilities are generally useful for all MOJ systems.</p>
+      <p>EU GDPR &amp; the UK Data Protection Act (2018) requires that individuals agree to the handling and processing of their personal information. Many systems will need processes, to change, prevent, or stop handling personal information. The process might be have to be manual. Quite apart from GDPR/DPA18, these capabilities are generally useful for all <ph conref="conrefs.dita#conrefs/moj"/> systems.</p>
       <p>Ensure that:</p>
       <ul>
         <li>
@@ -57,7 +57,7 @@
   <topic id="security--architecture-considerations">
     <title>Security / Architecture Considerations</title>
     <body>
-      <p>Much of the MOJ estate architecture is ready for GDPR/DPA18, or transformation is already in progress. Current projects must also incorporate data security and privacy mechanisms for GDPR/DPA18 compliance. Guidance from technical architects is essential to help projects. Ensure that:</p>
+      <p>Much of the <ph conref="conrefs.dita#conrefs/moj"/> estate architecture is ready for GDPR/DPA18, or transformation is already in progress. Current projects must also incorporate data security and privacy mechanisms for GDPR/DPA18 compliance. Guidance from technical architects is essential to help projects. Ensure that:</p>
       <ul>
         <li>
           <p>You know where data for the system is stored. Ask which countries and jurisdictions hold the data. Check that the storage complies with GDPR/DPA18 requirements.</p>

@@ -24,13 +24,13 @@
       <title>Requirements</title>
       <body>
         <p>The service requires IP source address information to be provided to NCSC as while the solution is available on public IP space, it is not publicly available on the Internet for any organisation to use.</p>
-        <p>MOJ is permitted to use the service for free as a central government organisation, but suppliers to MOJ currently are not.</p>
+        <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> is permitted to use the service for free as a central government organisation, but suppliers to <ph conref="conrefs.dita#conrefs/moj"/> currently are not.</p>
       </body>
     </topic>
     <topic id="get-started">
       <title>Get started</title>
       <body>
-        <p>Contact the MOJ Cybersecurity team to be added into MOJ's subscription of the service.</p>
+        <p>Contact the <ph conref="conrefs.dita#conrefs/moj"/> Cybersecurity team to be added into <ph conref="conrefs.dita#conrefs/moj"/>'s subscription of the service.</p>
       </body>
     </topic>
   </topic>

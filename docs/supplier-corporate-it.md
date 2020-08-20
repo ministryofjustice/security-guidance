@@ -1,6 +1,6 @@
 # Supplier corporate IT
 
-The MOJ does **not** by default prohibit the use of supplier organisation corporate IT for the processing of MOJ data on the basis that the corporate IT environment is well designed, maintained, governed and defended in line with large scale commercial threat models.
+The Ministry of Justice \(MOJ\) does **not** by default prohibit the use of supplier organisation corporate IT for the processing of MOJ data on the basis that the corporate IT environment is well designed, maintained, governed and defended in line with large scale commercial threat models.
 
 Subject to the suitability described, the MOJ does **not** require suppliers to create or maintain dedicated or segregated IT solutions for the processing of MOJ data classified at `OFFICIAL`.
 

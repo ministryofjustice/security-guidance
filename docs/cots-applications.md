@@ -1,6 +1,6 @@
 # Commercial off-the-shelf applications
 
-We have developed a series of logging requirements for Commercial off-the-shelf \(COTS\) applications, such as Software-as-a-Service \(SaaS\) solutions or where applications are not so customised that they can reasonably be considered bespoke/custom for the MOJ.
+We have developed a series of logging requirements for Commercial off-the-shelf \(COTS\) applications, such as Software-as-a-Service \(SaaS\) solutions or where applications are not so customised that they can reasonably be considered bespoke/custom for the Ministry of Justice \(MOJ\).
 
 ## Baseline Maturity Tier
 

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="contractual-promises">
+<topic id="contracts">
   <title>Contractual promises</title>
   <body>
-    <p>The MOJ embeds data governance and security-related clauses and schedules with contracts.</p>
-    <p>The MOJ is in the process of standardising and commoditising comprehensive clauses and schedules and will implement them over time.</p>
+    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> embeds data governance and security-related clauses and schedules with contracts.</p>
+    <p>The <ph conref="conrefs.dita#conrefs/moj"/> is in the process of standardising and commoditising comprehensive clauses and schedules and will implement them over time.</p>
   </body>
 </topic>

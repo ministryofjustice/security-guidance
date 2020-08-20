@@ -5,12 +5,12 @@
 	<title>conref library</title>
 	<body>
 		<p>
-			<ph id="mojlong">Ministry of Justice (MoJ)</ph>
-			<ph id="moj">MoJ</ph>
-			<ph id="securityAt"><xref href="mailto:security@digital.justice.gov.uk" format="email" scope="external">security@digital.justice.gov.uk</xref></ph>
-			<ph id="ostAt"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
+			<ph id="mojlong">Ministry of Justice (MOJ)</ph>
+			<ph id="moj">MOJ</ph>
+			<ph id="securityat"><xref href="mailto:security@digital.justice.gov.uk" format="email" scope="external">security@digital.justice.gov.uk</xref></ph>
+			<ph id="ostat"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
 		</p>
-		<p id="contactCATbyemail">Contact the Cyber Assistance Team by email: <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></p>
+		<p id="contactcatbyemail">Contact the Cyber Assistance Team by email: <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></p>
 	</body>
 
 <!-- Contacts -->
@@ -54,7 +54,7 @@
 			<note>If you work for an agency or ALB, refer to your local incident reporting guidance.</note>
 			<p><b>Operational Security Team</b>
 				<ul>
-					<li>Email: <ph conref="#conrefs/ostAt"/></li>
+					<li>Email: <ph conref="#conrefs/ostat"/></li>
 					<li>Slack: <codeph>#security</codeph></li>
 				</ul>
 			</p>
@@ -79,7 +79,7 @@
 		<body>
 			<p><b>Cyber Consultants &amp; Risk Advisors</b>
 				<ul>
-					<li>Email: <ph conref="#conrefs/securityAt"/></li>
+					<li>Email: <ph conref="#conrefs/securityat"/></li>
 					<li>Slack: <codeph>#security</codeph></li>
 				</ul>
 			</p>
@@ -89,7 +89,7 @@
 	<topic id="historic-paper-files-urgently-required-by-ministers-courts-or-public-inquiries">
 		<title>Historic paper files urgently required by ministers, courts, or Public Inquiries</title>
 		<body>
-			<p><b>MoJ HQ staff</b>
+			<p><b><ph conref="#conrefs/moj"/> HQ staff</b>
 				<ul>
 					<li>Email: <xref href="mailto:Records_Retention_@justice.gov.uk" format="email" scope="external">Records_Retention_@justice.gov.uk</xref></li>
 				</ul>

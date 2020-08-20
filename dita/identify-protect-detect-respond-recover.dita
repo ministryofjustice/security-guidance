@@ -4,12 +4,12 @@
 <topic id="identify-protect-detect-respond-recover">
   <title>IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</title>
   <body>
-    <p>The MOJ is required to adhere (but prefers to exceed) to the <xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">Minimum Cyber Security Standard (MCSS)</xref>.</p>
+    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> is required to adhere (but prefers to exceed) to the <xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">Minimum Cyber Security Standard (MCSS)</xref>.</p>
   </body>
   <topic id="the-standard">
     <title>The Standard</title>
     <body>
-      <p>The <xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">UK HMG Security Policy Framework</xref> mandates protective security outcomes that the MOJ must achieve (and suppliers to MOJ, where they process MOJ data/information).</p>
+      <p>The <xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">UK HMG Security Policy Framework</xref> mandates protective security outcomes that the <ph conref="conrefs.dita#conrefs/moj"/> must achieve (and suppliers to <ph conref="conrefs.dita#conrefs/moj"/>, where they process <ph conref="conrefs.dita#conrefs/moj"/> data/information).</p>
       <p>More information is available from <xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard." format="html" scope="external">https://www.gov.uk/government/publications/the-minimum-cyber-security-standard.</xref></p>
     </body>
     <topic id="identify">

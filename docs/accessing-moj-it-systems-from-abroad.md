@@ -1,4 +1,4 @@
-# Accessing MOJ IT Systems From Abroad
+# Accessing Ministry of Justice \(MOJ\) IT Systems From Abroad
 
 *This guidance information applies to all staff, contractors and agency staff who work for the MOJ.*
 

@@ -68,7 +68,7 @@ While the following certifications are preferred, they may not be required based
 -   [NATO Restricted Level Certified](https://www.ia.nato.int/NIAPC/)
 
 
-The MOJ prefers the use of network-based transfers compared to the use of portable storage \(even if the portable storage is encrypted\).
+The Ministry of Justice \(MOJ\) prefers the use of network-based transfers compared to the use of portable storage \(even if the portable storage is encrypted\).
 
 ### Portable end-user devices
 

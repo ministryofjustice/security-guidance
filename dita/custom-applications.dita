@@ -4,7 +4,7 @@
 <topic id="custom-applications">
   <title>Custom Applications</title>
   <body>
-    <p>We have developed a series of logging requirements for custom applications, such as digital services, applications materially customised that they can reasonably be considered bespoke/custom for the MOJ and line of business applications at different maturity tiers in order to support defensive cyber security, such as detecting breaches.</p>
+    <p>We have developed a series of logging requirements for custom applications, such as digital services, applications materially customised that they can reasonably be considered bespoke/custom for the <ph conref="conrefs.dita#conrefs/mojlong"/> and line of business applications at different maturity tiers in order to support defensive cyber security, such as detecting breaches.</p>
   </body>
   <topic id="baseline-maturity-tier">
     <title>Baseline Maturity Tier</title>

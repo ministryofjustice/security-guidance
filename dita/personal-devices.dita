@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="security-guidance-for-using-a-personal-device">
+<topic id="personal-devices">
   <title>Security Guidance for Using a Personal Device</title>
   <body/>
   <topic id="summary">
     <title>Summary</title>
     <body>
-      <p>Not everyone has access to an MOJ device which can be used remotely. In these extraordinary times, exceptional provision is being developed for you to use your own devices for work purposes.</p>
+      <p>Not everyone has access to an <ph conref="conrefs.dita#conrefs/mojlong"/> device which can be used remotely. In these extraordinary times, exceptional provision is being developed for you to use your own devices for work purposes.</p>
       <p>Until that provision is in place, you must not use a personal device for work purposes.</p>
     </body>
   </topic>
@@ -16,24 +16,24 @@
     <body>
       <ul>
         <li>
-          <p>If you have an MOJ-issued device, you must use that.</p>
+          <p>If you have an <ph conref="conrefs.dita#conrefs/moj"/>-issued device, you must use that.</p>
         </li>
         <li>
           <p>You may not use Office 365 tools (email, calendar, Word, Excel, Powerpoint, etc.) for work purposes on a personal device (desktop, laptop, tablet or phone). This applies to web browser and installed client applications.</p>
         </li>
         <li>
-          <p>Do not send MOJ information to your personal email account, or use personal accounts for work purposes.</p>
+          <p>Do not send <ph conref="conrefs.dita#conrefs/moj"/> information to your personal email account, or use personal accounts for work purposes.</p>
         </li>
         <li>
           <p>Do not store work files or information on a personal device (desktop, laptop, tablet or phone).</p>
         </li>
         <li>
-          <p>Some teams within the MOJ, such as groups within Digital &amp; Technology, and HMCTS, might already have prior permission to use personal devices for aspects of software and service development work. This permission continues, but is being reviewed on an on-going basis.</p>
+          <p>Some teams within the <ph conref="conrefs.dita#conrefs/moj"/>, such as groups within Digital &amp; Technology, and HMCTS, might already have prior permission to use personal devices for aspects of software and service development work. This permission continues, but is being reviewed on an on-going basis.</p>
         </li>
       </ul>
-      <p>This guidance applies to all staff and contractors who work for the MOJ. It provides advice about using your personal devices for work purposes.</p>
+      <p>This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/moj"/>. It provides advice about using your personal devices for work purposes.</p>
       <p>
-        <i><b>Note</b>: You are not being asked or required to use your own devices for work purposes. If you have access to MOJ devices for work purposes, you should use them by default.</i>
+        <i><b>Note</b>: You are not being asked or required to use your own devices for work purposes. If you have access to <ph conref="conrefs.dita#conrefs/moj"/> devices for work purposes, you should use them by default.</i>
       </p>
       <p>Last updated: April 24th, 2020.</p>
     </body>

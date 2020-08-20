@@ -9,7 +9,7 @@
     <body>
       <p>The <xref href="https://www.ncsc.gov.uk/blog-post/web-check-helping-you-secure-your-public-sector-websites" format="html" scope="external">Web Check Service</xref> from NCSC is part of the <xref href="https://www.ncsc.gov.uk/blog-post/active-cyber-defence-tackling-cyber-attacks-uk" format="html" scope="external">Active Cyber Defence</xref> suite of services.</p>
       <p>The service scans provided URLs for a series of indicators (negative and positive technical security configurations) and reports them through a web interface, email alerts and exportable report file.</p>
-      <p>Domains operated by, or on behalf of, MOJ <b>must</b> be added to Web Check under at least the central MOJ Web Check account.</p>
+      <p>Domains operated by, or on behalf of, the <ph conref="conrefs.dita#conrefs/mojlong"/> <b>must</b> be added to Web Check under at least the central <ph conref="conrefs.dita#conrefs/moj"/> Web Check account.</p>
     </body>
   </topic>
   <topic id="how-to-use-the-service">
@@ -19,13 +19,13 @@
       <title>Requirements</title>
       <body>
         <p>The fully-qualified domain name or URL is required. It must be publicly accessible from the general Internet and present as a website on HTTP (TCP/80) and/or HTTPS (TCP/443).</p>
-        <p>MOJ is permitted to use the service for free as a central government organisation, but suppliers to MOJ currently are not.</p>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/> is permitted to use the service for free as a central government organisation, but suppliers to <ph conref="conrefs.dita#conrefs/moj"/> currently are not.</p>
       </body>
     </topic>
     <topic id="get-started">
       <title>Get started</title>
       <body>
-        <p>Contact the MOJ Cybersecurity team to be added into MOJ's subscription of the service.</p>
+        <p>Contact the <ph conref="conrefs.dita#conrefs/moj"/> Cybersecurity team to be added into <ph conref="conrefs.dita#conrefs/moj"/>'s subscription of the service.</p>
       </body>
     </topic>
   </topic>

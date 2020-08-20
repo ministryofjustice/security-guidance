@@ -4,7 +4,7 @@
 <topic id="multiple-consecutive-back-to-back-firewalls">
   <title>Multiple consecutive (back-to-back) firewalls</title>
   <body>
-    <p>At <codeph>OFFICIAL</codeph> the MOJ does <b>not</b> require or prefer the use of two or more firewalls in a 'back-to-back' fashion unless they are reasonably required due to segregated role or trust management (for example, interconnecting two networks which are managed independently).</p>
+    <p>At <codeph>OFFICIAL</codeph> the <ph conref="conrefs.dita#conrefs/mojlong"/> does <b>not</b> require or prefer the use of two or more firewalls in a 'back-to-back' fashion unless they are reasonably required due to segregated role or trust management (for example, interconnecting two networks which are managed independently).</p>
   </body>
   <topic id="same-rules-same-management-different-vendor">
     <title>Same rules, same management, different vendor</title>

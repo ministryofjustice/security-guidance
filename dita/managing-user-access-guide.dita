@@ -7,13 +7,13 @@
   <topic id="introduction">
     <title>Introduction</title>
     <body>
-      <p>This guide provides information on the authentication methods which should be used to manage user access to systems and information in the MoJ. This is a sub-page to the <xref href="access-control-guide.dita" type="topic">Access Control Guide</xref>.</p>
+      <p>This guide provides information on the authentication methods which should be used to manage user access to systems and information in the <ph conref="conrefs.dita#conrefs/mojlong"/>. This is a sub-page to the <xref href="access-control-guide.dita" format="dita" type="topic">Access Control Guide</xref>.</p>
     </body>
   </topic>
   <topic id="managing-access-to-moj-systems">
-    <title>Managing access to MoJ systems</title>
+    <title>Managing access to <ph conref="conrefs.dita#conrefs/moj"/> systems</title>
     <body>
-      <p>The following methods can be used to manage access to the MoJ's systems. They are in order of preference for their use, with 1 providing more secure management features than 3.</p>
+      <p>The following methods can be used to manage access to the <ph conref="conrefs.dita#conrefs/moj"/>'s systems. They are in order of preference for their use, with 1 providing more secure management features than 3.</p>
       <table>
         <tgroup cols="3">
           <colspec colname="col1" colnum="1"/>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="ip-addresses-dns-information--architecture-documentation">
+<topic id="ip-dns-diagram-handling.dita">
   <title>IP addresses, DNS information &amp; architecture documentation</title>
   <body/>
   <topic id="official-sensitive-not-by-default">
     <title>OFFICIAL-SENSITIVE? Not by default</title>
     <body>
-      <p>The MOJ does <b>not</b> consider its IP address, DNS or architectural information to be <codeph>SENSITIVE</codeph> (a handling caveat within the <codeph>OFFICIAL</codeph> information classification) <i>by default</i>.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> does <b>not</b> consider its IP address, DNS or architectural information to be <codeph>SENSITIVE</codeph> (a handling caveat within the <codeph>OFFICIAL</codeph> information classification) <i>by default</i>.</p>
       <p>In some contexts, this information may be considered sensitive (usually when combined with other information), for example, "Server X on IP address x.x.x.x has not been security patched for 5 years and there are known vulnerabilities which are unmitigated and thus could actively be exploited in this moment."</p>
-      <p>IP addresses of connecting clients (for example, the IP address of the computer of a general member of the public accessing a public MOJ digital service) <i>may</i> be Personal Data.</p>
+      <p>IP addresses of connecting clients (for example, the IP address of the computer of a general member of the public accessing a public <ph conref="conrefs.dita#conrefs/moj"/> digital service) <i>may</i> be Personal Data.</p>
     </body>
     <topic id="rfc1918-addresses">
       <title>RFC1918 addresses</title>

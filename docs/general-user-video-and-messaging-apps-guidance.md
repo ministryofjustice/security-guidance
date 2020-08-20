@@ -2,7 +2,7 @@
 
 ## Overview
 
-When working from home, you still need to communicate with MOJ colleagues. You'll also need to work with people outside the MOJ. There are various tools you might use, besides the standard email and telephone tools. This document tells you about the tools you can, and cannot, use for business purposes. This guidance applies to all staff and contractors who work for the MOJ.
+When working from home, you still need to communicate with Ministry of Justice \(MOJ\) colleagues. You'll also need to work with people outside the MOJ. There are various tools you might use, besides the standard email and telephone tools. This document tells you about the tools you can, and cannot, use for business purposes. This guidance applies to all staff and contractors who work for the MOJ.
 
 Some ALBs, Agencies, or other large groups within the MOJ might have their own, specific guidance regarding how to use certain Video and Messaging apps for different purposes.
 

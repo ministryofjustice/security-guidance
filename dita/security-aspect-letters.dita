@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="security-aspects-letters">
+<topic id="security-aspect-letters">
   <title>Security Aspects Letters</title>
   <body/>
   <topic id="purpose">
     <title>Purpose</title>
     <body>
-      <p>The MOJ will issue a Security Aspect Letter (SAL) where appropriate.</p>
-      <p>SALs are generally not required at <codeph>OFFICIAL</codeph> but MOJ may issue a SAL where it is optimal to do so or to supersede existing SALs from the previous classification scheme.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> will issue a Security Aspect Letter (SAL) where appropriate.</p>
+      <p>SALs are generally not required at <codeph>OFFICIAL</codeph> but <ph conref="conrefs.dita#conrefs/moj"/> may issue a SAL where it is optimal to do so or to supersede existing SALs from the previous classification scheme.</p>
       <p>This page was last updated on 2018-12-21</p>
     </body>
   </topic>

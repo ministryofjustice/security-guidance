@@ -4,20 +4,20 @@
 <topic id="supplier-corporate-it">
   <title>Supplier corporate IT</title>
   <body>
-    <p>The MOJ does <b>not</b> by default prohibit the use of supplier organisation corporate IT for the processing of MOJ data on the basis that the corporate IT environment is well designed, maintained, governed and defended in line with large scale commercial threat models.</p>
-    <p>Subject to the suitability described, the MOJ does <b>not</b> require suppliers to create or maintain dedicated or segregated IT solutions for the processing of MOJ data classified at <codeph>OFFICIAL</codeph>.</p>
+    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> does <b>not</b> by default prohibit the use of supplier organisation corporate IT for the processing of <ph conref="conrefs.dita#conrefs/moj"/> data on the basis that the corporate IT environment is well designed, maintained, governed and defended in line with large scale commercial threat models.</p>
+    <p>Subject to the suitability described, the <ph conref="conrefs.dita#conrefs/moj"/> does <b>not</b> require suppliers to create or maintain dedicated or segregated IT solutions for the processing of <ph conref="conrefs.dita#conrefs/moj"/> data classified at <codeph>OFFICIAL</codeph>.</p>
   </body>
   <topic id="technical-security">
     <title>Technical security</title>
     <body>
-      <p>Supplier corporate IT systems are expected to maintain appropriate levels of technical security defences to proportionally defend all types of data within whether the supplier's own corporate data through to MOJ data being processed.</p>
+      <p>Supplier corporate IT systems are expected to maintain appropriate levels of technical security defences to proportionally defend all types of data within whether the supplier's own corporate data through to <ph conref="conrefs.dita#conrefs/moj"/> data being processed.</p>
       <p>This will range (but not be limited to) the use of modern Transport Layer Security or IPSec for in-transit encryption through to modern hashing and cryptography mechanisms for data stored at-rest, whether a data entry in a database or the entire storage drive in a laptop.</p>
       <p>Supplier systems are expected to be proportionally resilient to malware, ensuring segregation between systems, users and data and employ adequate commodity measures (such as email attachment scanning/filtering).</p>
     </body>
     <topic id="email-security">
       <title>Email security</title>
       <body>
-        <p>Supplier corporate email systems processing MOJ data are expected to align to the <xref href="https://www.gov.uk/guidance/securing-government-email" format="html" scope="external">UK government secure email policy</xref> which summarily requires widely accepted best practices.</p>
+        <p>Supplier corporate email systems processing <ph conref="conrefs.dita#conrefs/moj"/> data are expected to align to the <xref href="https://www.gov.uk/guidance/securing-government-email" format="html" scope="external">UK government secure email policy</xref> which summarily requires widely accepted best practices.</p>
         <p>Supplier corporate email systems are <i>not</i> required to technically integrate to the Public Services Network (PSN).</p>
       </body>
     </topic>
@@ -28,13 +28,13 @@
     <topic id="data-offshoring">
       <title>Data offshoring</title>
       <body>
-        <p>Supplier's may process MOJ data (including Personal Data for which the MOJ is responsible) outside of the United Kingdom, subject to the maintenance of adequate information controls and governance.</p>
-        <p>MOJ data must not routinely be processed within an incompatible legal framework to the United Kingdom.</p>
+        <p>Supplier's may process <ph conref="conrefs.dita#conrefs/moj"/> data (including Personal Data for which the <ph conref="conrefs.dita#conrefs/moj"/> is responsible) outside of the United Kingdom, subject to the maintenance of adequate information controls and governance.</p>
+        <p><ph conref="conrefs.dita#conrefs/moj"/> data must not routinely be processed within an incompatible legal framework to the United Kingdom.</p>
       </body>
       <topic id="working-abroad">
         <title>Working abroad</title>
         <body>
-          <p>Supplier staff are <b>not</b> prohibited from working abroad while processing MOJ data on the basis that adequate information controls and governance are maintained.</p>
+          <p>Supplier staff are <b>not</b> prohibited from working abroad while processing <ph conref="conrefs.dita#conrefs/moj"/> data on the basis that adequate information controls and governance are maintained.</p>
           <p>When working abroad, this may include limiting access to information while the user travels or using secondary temporary accounts to avoid primary account compromise.</p>
         </body>
       </topic>
@@ -43,14 +43,14 @@
       <title>Data backups</title>
       <body>
         <p>Supplier corporate IT systems may backup data for extended retention times (for example, keeping archived or deleted emails for an additional few months). Backup systems may also exist in such a way that individual backup items cannot be individually deleted, and are subject to a system-wide backup rotation/retention schedule.</p>
-        <p>Subject to appropriate data governance, the MOJ acknowleges these cases.</p>
+        <p>Subject to appropriate data governance, the <ph conref="conrefs.dita#conrefs/moj"/> acknowleges these cases.</p>
       </body>
     </topic>
     <topic id="local-end-user-device-data">
       <title>Local end-user device data</title>
       <body>
-        <p>The MOJ acknowleges that corporate users typically 'download' files (from local email client caching to file downloads via a web browser) that can remain within 'Downloads' folders until explicitly deleted by the user.</p>
-        <p>MOJ expects suppliers to consider these types of data locations in data governance regimes, however it is appreciated that data destruction may be guidance based from the supplier organisation to supplier staff.</p>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/> acknowleges that corporate users typically 'download' files (from local email client caching to file downloads via a web browser) that can remain within 'Downloads' folders until explicitly deleted by the user.</p>
+        <p><ph conref="conrefs.dita#conrefs/moj"/> expects suppliers to consider these types of data locations in data governance regimes, however it is appreciated that data destruction may be guidance based from the supplier organisation to supplier staff.</p>
       </body>
     </topic>
   </topic>

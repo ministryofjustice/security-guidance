@@ -1,6 +1,6 @@
 # Long format clause
 
-The current draft of the MOJ commodity long format data destruction clause.
+The current draft of the Ministry of Justice \(MOJ\) commodity long format data destruction clause.
 
 `Highlighted` words indicate potential requirement for contextual change, requirement of definition and so on.
 

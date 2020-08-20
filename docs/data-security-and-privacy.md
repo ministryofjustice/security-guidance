@@ -15,7 +15,7 @@ Breaches might cause:
 
 -   harm to individuals
 
--   financial loss to the MOJ
+-   financial loss to the Ministry of Justice \(MOJ\)
 
 -   a loss of confidence in us as an organisation
 

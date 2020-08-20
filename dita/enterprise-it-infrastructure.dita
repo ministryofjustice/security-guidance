@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="enterprise-it---infrastructure">
+<topic id="enterprise-it-infrastructure">
   <title>Enterprise IT - Infrastructure</title>
   <body>
     <p>We have developed a series of logging requirements for Enterprise IT infrastructure, such as underlying networks, network services and directory services at different maturity tiers in order to support defensive cyber security, such as detecting breaches.</p>

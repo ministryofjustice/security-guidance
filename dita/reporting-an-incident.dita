@@ -4,7 +4,7 @@
 <topic id="reporting-an-incident">
   <title>Reporting an incident</title>
   <body>
-    <p>MOJ colleagues should visit https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/ on the MOJ Intranet.</p>
-    <p>Suppliers to the MOJ should refer to provided methods/documentation and contact your usual MOJ points of contact.</p>
+    <p><ph conref="conrefs.dita#conrefs/mojlong"/> colleagues should visit <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/</xref> on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.</p>
+    <p>Suppliers to the <ph conref="conrefs.dita#conrefs/moj"/> should refer to provided methods/documentation and contact your usual <ph conref="conrefs.dita#conrefs/moj"/> points of contact.</p>
   </body>
 </topic>

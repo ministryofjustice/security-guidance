@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="cyber-security-consultancy-team-asking-for-help">
+<topic id="user-guide">
   <title>Cyber Security Consultancy Team: asking for help</title>
   <body/>
   <topic id="overview">
@@ -14,7 +14,7 @@
   <topic id="about-the-team">
     <title>About the team</title>
     <body>
-      <p>The Cyber Security Consultancy Team is part of Ministry of Justice Security &amp; Privacy. The MoJ Chief Information Security Officer leads the consultants.</p>
+      <p>The Cyber Security Consultancy Team is part of <ph conref="conrefs.dita#conrefs/mojlong"/> Security &amp; Privacy. The <ph conref="conrefs.dita#conrefs/moj"/> Chief Information Security Officer leads the consultants.</p>
       <p>The team provides help and guidance around cyber security matters, such as:</p>
       <ul>
         <li>

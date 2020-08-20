@@ -1,6 +1,6 @@
 # IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER
 
-The MOJ is required to adhere \(but prefers to exceed\) to the [Minimum Cyber Security Standard \(MCSS\)](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard).
+The Ministry of Justice \(MOJ\) is required to adhere \(but prefers to exceed\) to the [Minimum Cyber Security Standard \(MCSS\)](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard).
 
 ## The Standard
 

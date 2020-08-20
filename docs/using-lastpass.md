@@ -8,7 +8,7 @@ LastPass is available as a browser extension for popular browsers and as well as
 
 LastPass will securely save your credentials in your own LastPass 'Vault' and then offer to autofill those credentials the next time you need them.
 
-The MOJ has the Enterprise tier of LastPass.
+The Ministry of Justice \(MOJ\) has the Enterprise tier of LastPass.
 
 ### Who should use it?
 

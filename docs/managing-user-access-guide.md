@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This guide provides information on the authentication methods which should be used to manage user access to systems and information in the MoJ. This is a sub-page to the [Access Control Guide](access-control-guide.md).
+This guide provides information on the authentication methods which should be used to manage user access to systems and information in the Ministry of Justice \(MOJ\). This is a sub-page to the [Access Control Guide](access-control-guide.md).
 
-## Managing access to MoJ systems
+## Managing access to MOJ systems
 
-The following methods can be used to manage access to the MoJ's systems. They are in order of preference for their use, with 1 providing more secure management features than 3.
+The following methods can be used to manage access to the MOJ's systems. They are in order of preference for their use, with 1 providing more secure management features than 3.
 
 |Rank|Method|Comment|
 |----|------|-------|

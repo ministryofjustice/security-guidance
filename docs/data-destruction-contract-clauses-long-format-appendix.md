@@ -1,6 +1,6 @@
 # Long format appendix
 
-The current draft of the MOJ commodity long format data destruction appendix. The appendix is a dependancy of the long format clause itself.
+The current draft of the Ministry of Justice \(MOJ\) commodity long format data destruction appendix. The appendix is a dependancy of the long format clause itself.
 
 `Highlighted` words indicate potential requirement for contextual change, requirement of definition and so on.
 

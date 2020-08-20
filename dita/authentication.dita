@@ -14,7 +14,7 @@
     <title>Passwords</title>
     <body>
       <p>Where appropriate, passwords should be used as a knowledge-based factor for authentication.</p>
-      <p>MOJ has published the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/" format="html" scope="external">MOJ Password Standard</xref>.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> has published the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Password Standard</xref>.</p>
     </body>
   </topic>
   <topic id="named-individual-accounts">
@@ -51,7 +51,7 @@
     <title>Multi-Factor Authentication</title>
     <body>
       <p>Where appropriate, multi-factor authentication (MFA) should be used as a knowledge-based factor for authentication.MFA is sometimes referred to as Two-Factor Authentication (2FA).</p>
-      <p>MoJ guidance on MFA is available <xref href="multi-factor-authentication-mfa-guide.dita">here</xref>.</p>
+      <p><ph conref="conrefs.dita#conrefs/moj"/> guidance on MFA is available <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">here</xref>.</p>
     </body>
     <topic id="mfa-for-administrators">
       <title>MFA for Administrators</title>

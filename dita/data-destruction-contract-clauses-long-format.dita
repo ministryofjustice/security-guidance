@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="long-format-clause">
+<topic id="data-destruction-contract-clauses-long-format">
   <title>Long format clause</title>
   <body>
-    <p>The current draft of the MOJ commodity long format data destruction clause.</p>
+    <p>The current draft of the <ph conref="conrefs.dita#conrefs/mojlong"/> commodity long format data destruction clause.</p>
     <p><codeph>Highlighted</codeph> words indicate potential requirement for contextual change, requirement of definition and so on.</p>
   </body>
   <topic id="clause">

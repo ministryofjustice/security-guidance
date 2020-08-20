@@ -21,7 +21,7 @@
       <title>Administrator definition</title>
       <body>
         <p>An administrator is much broader than a technical system administrator to a server, network or service (such as 'domain admin' in Microsoft Active Directory) but someone has who has higher levels of access or control than a required for day to day operation.</p>
-        <p>Examples include those with high privileges on a MOJ github.com repository and credentials to the MOJ communications accounts (such as social media).</p>
+        <p>Examples include those with high privileges on a <ph conref="conrefs.dita#conrefs/mojlong"/> github.com repository and credentials to the <ph conref="conrefs.dita#conrefs/moj"/> communications accounts (such as social media).</p>
       </body>
     </topic>
   </topic>
@@ -37,7 +37,7 @@
     <title>IP addresses</title>
     <body>
       <p>IP addresses in and of themselves do not constitute authentication but may be considered a minor authentication <i>indicator</i> when combined with other authentication and authorisation techniques.</p>
-      <p>For example, traffic originating from a perceived known IP address/range does not automatically mean it is the perceived user(s) however it could be used as an indicator to <i>reduce</i> (not eliminate) how often <xref href="multi-factor-authentication-mfa-guide.dita" type="topic">MFA</xref> is requested <i>within</i> an existing session.</p>
+      <p>For example, traffic originating from a perceived known IP address/range does not automatically mean it is the perceived user(s) however it could be used as an indicator to <i>reduce</i> (not eliminate) how often <xref href="multi-factor-authentication-mfa-guide.dita" format="dita" type="topic">MFA</xref> is requested <i>within</i> an existing session.</p>
       <p>H/T <xref href="https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20" format="html" scope="external">https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20</xref></p>
     </body>
   </topic>

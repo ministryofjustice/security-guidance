@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Multi-Factor Authentication \(MFA\) guide explains how MFA can be used to ensure that users are only granted access to MoJ information once their identity is confirmed. This is a sub-page to the [Access Control Guide](access-control-guide.md).
+This Multi-Factor Authentication \(MFA\) guide explains how MFA can be used to ensure that users are only granted access to Ministry of Justice \(MOJ\) information once their identity is confirmed. This is a sub-page to the [Access Control Guide](access-control-guide.md).
 
 ## MFA
 
@@ -17,7 +17,7 @@ Users should have their identity authenticated through the following methods:
 
 MFA can be used as a possession-based factor for authentication, by checking for something 'you have'. MFA is sometimes referred to as Two-Factor Authentication \(2FA\) if it involves a second form of authentication. MFA is referred to as 3, 4, or 5 Factor Authentication if it includes additional authentication requirements. Different methods of additional authentication identify users with varying degrees of accuracy. Care should be taken to ensure true MFA. For example, password and security questions are both dependent 'something the user knows' and therefore are just one factor of authentication.
 
-The list below identifies the MoJ’s preference for MFA methods, with 1 ranked the highest. These methods can be used for 2, 3, 4, or 5 Factor Authentication as required.
+The list below identifies the MOJ’s preference for MFA methods, with 1 ranked the highest. These methods can be used for 2, 3, 4, or 5 Factor Authentication as required.
 
 Note:
 
@@ -37,7 +37,7 @@ Note:
 |7.|SMS-based \(a one-time code sent via SMS\)|
 |8.|Phone-call based \(a phone call providing a one-time code or password\)|
 
-The [MoJ Password Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/passwords/) provides more information on the use of MFA.
+The [MOJ Password Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/passwords/) provides more information on the use of MFA.
 
 ## Contact details
 

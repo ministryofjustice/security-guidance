@@ -2,7 +2,7 @@
 
 As a government official travelling overseas, you should consider that you are highly likely to be of interest to a range of hostile parties, regardless of your role or seniority. Laptops, tablets and phones are very desirable pieces of equipment to steal and travelling abroad with it puts you at a greater security risk of being a victim of theft.
 
-You should never put yourself in any danger to protect the security of an IT device, as the level of impact to the MOJ of a compromise does not warrant the risk of injury or loss of liberty. By following your department policies and the advice issued, you can help reduce the risk to yourself and your colleagues.
+You should never put yourself in any danger to protect the security of an IT device, as the level of impact to the Ministry of Justice \(MOJ\) of a compromise does not warrant the risk of injury or loss of liberty. By following your department policies and the advice issued, you can help reduce the risk to yourself and your colleagues.
 
 ## General guidance
 

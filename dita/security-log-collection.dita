@@ -4,13 +4,13 @@
 <topic id="security-log-collection">
   <title>Security Log Collection</title>
   <body>
-    <p>MOJ systems and services must adequately create and retain event data as part of the <xref href="identify-protect-detect-respond-recover.dita#detect" type="topic">DETECT</xref> portion of the <xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">Cabinet Office's Minimum Cyber Security Standard (MCSS)</xref>.</p>
+    <p><ph conref="conrefs.dita#conrefs/mojlong"/> systems and services must adequately create and retain event data as part of the <xref href="identify-protect-detect-respond-recover.dita#detect" format="dita" type="topic">DETECT</xref> portion of the <xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">Cabinet Office's Minimum Cyber Security Standard (MCSS)</xref>.</p>
   </body>
   <topic id="moj-cyber-security-logging-platform">
-    <title>MOJ Cyber Security Logging Platform</title>
+    <title><ph conref="conrefs.dita#conrefs/moj"/> Cyber Security Logging Platform</title>
     <body>
-      <p>The MOJ Cyber Security team operate a centralised, scalable, multi-tenant, cloud-based log collection and forwarding system for infrastructure (non-application level) log data.</p>
-      <p>The platform can receive, store, index, filter, search, alert and re-forward log data from any MOJ source (including supplier systems).</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security team operate a centralised, scalable, multi-tenant, cloud-based log collection and forwarding system for infrastructure (non-application level) log data.</p>
+      <p>The platform can receive, store, index, filter, search, alert and re-forward log data from any <ph conref="conrefs.dita#conrefs/moj"/> source (including supplier systems).</p>
     </body>
   </topic>
   <topic id="additive-technology-supply-chain">
@@ -19,14 +19,14 @@
       <p>The security log collection principles are designed to be met through technology supply chain as opposed to each system individually.</p>
       <p>For example, where the principles require the logging of DNS traffic, this could be achieved within a corporate device ecosystem by logging at the end user device itself, or by configuring the end user device to use a corporate DNS server that logs instead.  You may decide to do both, because some DNS queries can go out without the DNS server (for example in the case of a corporate VPN that is not always on).</p>
       <p>Where a platform exists, it should provide some assurance to all its consumers that makes clear what logging it collects and what needs to be logged by its tenants.</p>
-      <p>For example, if a cloud platform allows you to spin up arbitrary virtual machines, but guarantees that all network traffic must pass via a web proxy to go out, which logs, then the cloud platform can tell you that <xref href="#network-traffic-events">Principle 5: Network Events</xref> and <xref href="#infrastructure-events">Principle 3: Infrastructure Events</xref> are logged, but that you need to provide <xref href="#authentication-events">Principle 1. Authentication Events</xref>. The platform may even provide you with a base virtual machine which have logging for authentication events built in, meaning that you don’t need to provide any logging at that level.</p>
+      <p>For example, if a cloud platform allows you to spin up arbitrary virtual machines, but guarantees that all network traffic must pass via a web proxy to go out, which logs, then the cloud platform can tell you that <xref href="#network-traffic-events" format="dita">Principle 5: Network Events</xref> and <xref href="#infrastructure-events" format="dita">Principle 3: Infrastructure Events</xref> are logged, but that you need to provide <xref href="#authentication-events" format="dita">Principle 1. Authentication Events</xref>. The platform may even provide you with a base virtual machine which have logging for authentication events built in, meaning that you don’t need to provide any logging at that level.</p>
     </body>
   </topic>
   <topic id="principles">
     <title>Principles</title>
     <body>
-      <p>We have created a series of security log collection principle requirements for the MOJ.
-If you have any questions or comments, <xref href="cyber-and-technical-security-guidance.dita#getting-in-touch" type="topic">get in touch</xref>.</p>
+      <p>We have created a series of security log collection principle requirements for the <ph conref="conrefs.dita#conrefs/moj"/>.
+If you have any questions or comments, <xref href="cyber-and-technical-security-guidance.dita#getting-in-touch" format="dita" type="topic">get in touch</xref>.</p>
       <p>To enable ease of referencing, but not to imply priority order, each item is assigned a reference.</p>
     </body>
     <topic id="authentication-events">
@@ -133,14 +133,14 @@ If you have any questions or comments, <xref href="cyber-and-technical-security-
       </body>
     </topic>
     <topic id="log-transmission-to-the-moj-cyber-security-logging-platform">
-      <title>7. Log transmission to the MOJ Cyber Security Logging Platform</title>
+      <title>7. Log transmission to the <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security Logging Platform</title>
       <body>
         <ul>
           <li>
-            <p>a: All log data must be sent to the MOJ Cyber Security owned log platform unless all principles have already been met through the deployment of a holistic locally deployed and monitored Security Information and Event Management (SIEM) solution.</p>
+            <p>a: All log data must be sent to the <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security owned log platform unless all principles have already been met through the deployment of a holistic locally deployed and monitored Security Information and Event Management (SIEM) solution.</p>
           </li>
         </ul>
-        <p>Where 7(a) above is true, the MOJ Cyber Security team will advise in context what information must be sent from the in-place SIEM to the MOJ Cyber Security Logging Platform.</p>
+        <p>Where 7(a) above is true, the <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security team will advise in context what information must be sent from the in-place SIEM to the <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security Logging Platform.</p>
       </body>
     </topic>
   </topic>

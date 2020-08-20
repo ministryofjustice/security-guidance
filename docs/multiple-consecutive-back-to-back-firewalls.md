@@ -1,6 +1,6 @@
 # Multiple consecutive \(back-to-back\) firewalls
 
-At `OFFICIAL` the MOJ does **not** require or prefer the use of two or more firewalls in a 'back-to-back' fashion unless they are reasonably required due to segregated role or trust management \(for example, interconnecting two networks which are managed independently\).
+At `OFFICIAL` the Ministry of Justice \(MOJ\) does **not** require or prefer the use of two or more firewalls in a 'back-to-back' fashion unless they are reasonably required due to segregated role or trust management \(for example, interconnecting two networks which are managed independently\).
 
 ## Same rules, same management, different vendor
 

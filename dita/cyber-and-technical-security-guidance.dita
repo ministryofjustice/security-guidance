@@ -8,13 +8,13 @@
     <title>Summary</title>
     <body>
       <p>This site documents some of the security decisions that the
-<xref href="https://www.gov.uk/government/organisations/ministry-of-justice" format="html" scope="external">Ministry of Justice (MoJ)</xref>
+<xref href="https://www.gov.uk/government/organisations/ministry-of-justice" format="html" scope="external"><ph conref="conrefs.dita#conrefs/mojlong"/></xref>
 has made for the products we operate, and our relationships with suppliers.</p>
-      <p>The MoJ <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> covers technical decisions in the MoJ more widely.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> covers technical decisions in the <ph conref="conrefs.dita#conrefs/moj"/> more widely.</p>
       <note>
       <p>This guidance is dated: <ph conref="tstamp.dita#tstamp/tstamp"/>.</p>
-      <p platform="html">For convenience, an offline version of this guidance is available as a PDF file, <xref  href="https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf" format="pdf" scope="external">here</xref>. The PDF version of this guidance is time-limited, and is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
-      <p platform="pdf">This offline version of the guidance is available as a PDF file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, see <xref  href="https://ministryofjustice.github.io/security-guidance/" format="html" scope="external">here</xref>.</p>
+      <p platform="html">For convenience, an offline version of this guidance is available as a PDF file, <xref href="https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf" format="pdf" scope="external">here</xref>. The PDF version of this guidance is time-limited, and is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
+      <p platform="pdf">This offline version of the guidance is available as a PDF file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, see <xref href="https://ministryofjustice.github.io/security-guidance/" format="html" scope="external">here</xref>.</p>
       </note>
     </body>
     <topic id="background">
@@ -34,7 +34,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
   <topic id="taxonomy">
     <title>Taxonomy</title>
     <body>
-      <p>MoJ has developed their cyber and technical security taxonomy as follows:</p>
+      <p><ph conref="conrefs.dita#conrefs/moj"/> has developed their cyber and technical security taxonomy as follows:</p>
       <table>
         <tgroup cols="2">
           <colspec colname="col1" colnum="1"/>
@@ -105,7 +105,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1">Cyber</entry>
                 <entry colname="col2">Access Control</entry>
                 <entry colname="col3">
-                  <xref href="access-control-guide.dita" type="topic">Access Control Guide</xref>
+                  <xref href="access-control-guide.dita" format="dita" type="topic">Access Control Guide</xref>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -113,7 +113,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="accessing-moj-it-systems-from-abroad.dita">Accessing MOJ IT Systems From Abroad</xref>
+                  <xref href="accessing-moj-it-systems-from-abroad.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Abroad</xref>
                 </entry>
                 <entry colname="col4">All users</entry>
               </row>
@@ -121,7 +121,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="managing-user-access-guide.dita">Managing User Access Guide</xref>
+                  <xref href="managing-user-access-guide.dita" format="dita">Managing User Access Guide</xref>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -129,7 +129,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="minimum-user-clearance-requirements-guide.dita">Minimum User Clearance Levels Guide</xref>
+                  <xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels Guide</xref>
                 </entry>
                 <entry colname="col4">All users</entry>
               </row>
@@ -137,7 +137,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="multi-factor-authentication-mfa-guide.dita" type="topic">Multi-Factor Authentication</xref>
+                  <xref href="multi-factor-authentication-mfa-guide.dita" format="dita" type="topic">Multi-Factor Authentication</xref>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -145,7 +145,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="privileged-account-management-guide.dita" type="topic">Privileged Account Management Guide</xref>
+                  <xref href="privileged-account-management-guide.dita" format="dita" type="topic">Privileged Account Management Guide</xref>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -153,7 +153,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2">Asset Management</entry>
                 <entry colname="col3">
-                  <xref href="general-user-video-and-messaging-apps-guidance.dita" type="topic">General User Video and Messaging Apps Guidance</xref>
+                  <xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita" type="topic">General User Video and Messaging Apps Guidance</xref>
                 </entry>
                 <entry colname="col4">All users</entry>
               </row>
@@ -161,7 +161,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="guidance-for-using-open-internet-tools.dita" type="topic">Guidance for using Open Internet Tools</xref>
+                  <xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref>
                 </entry>
                 <entry colname="col4">All users</entry>
               </row>
@@ -169,7 +169,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="personal-devices.dita">Security Guidance for Using a Personal Device</xref>
+                  <xref href="personal-devices.dita" format="dita">Security Guidance for Using a Personal Device</xref>
                 </entry>
                 <entry colname="col4">All users</entry>
               </row>
@@ -177,7 +177,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="remote-working.dita">Remote Working</xref>
+                  <xref href="remote-working.dita" format="dita">Remote Working</xref>
                 </entry>
                 <entry colname="col4">All users</entry>
               </row>
@@ -185,7 +185,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="general-advice-on-taking-equipment-abroad.dita">General advice on taking equipment abroad</xref>
+                  <xref href="general-advice-on-taking-equipment-abroad.dita" format="dita">General advice on taking equipment abroad</xref>
                 </entry>
                 <entry colname="col4">All users</entry>
               </row>
@@ -193,7 +193,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2">Cryptography</entry>
                 <entry colname="col3">
-                  <xref href="cryptography.dita" type="topic">Cryptography</xref>
+                  <xref href="cryptography.dita" format="dita" type="topic">Cryptography</xref>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -201,7 +201,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2">Operational Security</entry>
                 <entry colname="col3">
-                  <xref href="malware-protection-guide-introduction.dita">Malware Protection Guide (Overview)</xref>
+                  <xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide (Overview)</xref>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -209,7 +209,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="malware-protection-guidance-defensive-layer-1.dita">Malware Protection Guide: Defensive Layer 1</xref>
+                  <xref href="malware-protection-guidance-defensive-layer-1.dita" format="dita">Malware Protection Guide: Defensive Layer 1</xref>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -217,7 +217,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="malware-protection-guidance-defensive-layer-2.dita">Malware Protection Guide: Defensive Layer 2</xref>
+                  <xref href="malware-protection-guidance-defensive-layer-2.dita" format="dita">Malware Protection Guide: Defensive Layer 2</xref>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -225,7 +225,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="malware-protection-guidance-defensive-layer-3.dita">Malware Protection Guide: Defensive Layer 3</xref>
+                  <xref href="malware-protection-guidance-defensive-layer-3.dita" format="dita">Malware Protection Guide: Defensive Layer 3</xref>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -233,7 +233,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1">Technical</entry>
                 <entry colname="col2">Principles</entry>
                 <entry colname="col3">
-                  <xref href="data-security-and-privacy.dita">Data Security and Privacy</xref>
+                  <xref href="data-security-and-privacy.dita" format="dita">Data Security and Privacy</xref>
                 </entry>
                 <entry colname="col4">All users</entry>
               </row>
@@ -241,7 +241,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="identify-protect-detect-respond-recover.dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref>
+                  <xref href="identify-protect-detect-respond-recover.dita" format="dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref>
                 </entry>
                 <entry colname="col4">All users</entry>
               </row>
@@ -249,7 +249,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="maintained-by-default.dita">Maintained by Default</xref>
+                  <xref href="maintained-by-default.dita" format="dita">Maintained by Default</xref>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -257,7 +257,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="secure-by-default.dita">Secure by Default</xref>
+                  <xref href="secure-by-default.dita" format="dita">Secure by Default</xref>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -265,7 +265,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="security-log-collection.dita">Security Log Collection</xref>
+                  <xref href="security-log-collection.dita" format="dita">Security Log Collection</xref>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -273,7 +273,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="shared-responsibility-models.dita">Shared Responsibility Models</xref>
+                  <xref href="shared-responsibility-models.dita" format="dita">Shared Responsibility Models</xref>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -290,9 +290,9 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>Authentication, Authorisation &amp; Accounting</title>
       <body>
         <ul>
-          <li><xref href="accounting.dita" type="topic">Accounting</xref></li>
-          <li><xref href="authentication.dita" type="topic">Authentication</xref></li>
-          <li><xref href="authorisation.dita" type="topic">Authorisation</xref></li>
+          <li><xref href="accounting.dita" format="dita" type="topic">Accounting</xref></li>
+          <li><xref href="authentication.dita" format="dita" type="topic">Authentication</xref></li>
+          <li><xref href="authorisation.dita" format="dita" type="topic">Authorisation</xref></li>
         </ul>
       </body>
     </topic>
@@ -300,14 +300,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>General standards</title>
       <body>
         <ul>
-          <li><xref href="baseline-aws-accounts.dita">Baseline for Amazon Web Services accounts</xref></li>
-          <li><xref href="data-destruction.dita">Data Destruction</xref></li>
-          <li><xref href="data-security-and-privacy.dita">Data Security &amp; Privacy</xref></li>
-          <li><xref href="management-access.dita">Management access</xref></li>
-          <li><xref href="networks-bearers-not-trust.dita">Networks are just bearers</xref></li>
-          <li><xref href="password-managers.dita" type="topic">Password Managers</xref></li>
-          <li><xref href="secrets-management.dita">Secrets management</xref></li>
-          <li><xref href="vulnerability-scanning.dita">Vulnerability scanning</xref></li>
+          <li><xref href="baseline-aws-accounts.dita" format="dita">Baseline for Amazon Web Services accounts</xref></li>
+          <li><xref href="data-destruction.dita" format="dita">Data Destruction</xref></li>
+          <li><xref href="data-security-and-privacy.dita" format="dita">Data Security &amp; Privacy</xref></li>
+          <li><xref href="management-access.dita" format="dita">Management access</xref></li>
+          <li><xref href="networks-bearers-not-trust.dita" format="dita">Networks are just bearers</xref></li>
+          <li><xref href="password-managers.dita" type="topic" format="dita">Password Managers</xref></li>
+          <li><xref href="secrets-management.dita" format="dita">Secrets management</xref></li>
+          <li><xref href="vulnerability-scanning.dita" format="dita">Vulnerability scanning</xref></li>
         </ul>
       </body>
     </topic>
@@ -315,13 +315,13 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>Security Log Collection</title>
       <body>
         <ul>
-          <li><xref href="cots-applications.dita">Commercial off-the-shelf applications</xref></li>
-          <li><xref href="custom-applications.dita">Custom Applications</xref></li>
-          <li><xref href="enterprise-it-infrastructure.dita">Enterprise IT - Infrastructure</xref></li>
-          <li><xref href="enterprise-it-mobile-devices.dita">Enterprise IT - Mobile Devices</xref></li>
-          <li><xref href="hosting-platforms.dita">Hosting Platforms</xref></li>
-          <li><xref href="log-entry-metadata.dita">Log entry metadata</xref></li>
-          <li><xref href="security-log-collection-maturity-tiers.dita">Security Log Collection Maturity Tiers</xref></li>
+          <li><xref href="cots-applications.dita" format="dita">Commercial off-the-shelf applications</xref></li>
+          <li><xref href="custom-applications.dita" format="dita">Custom Applications</xref></li>
+          <li><xref href="enterprise-it-infrastructure.dita" format="dita">Enterprise IT - Infrastructure</xref></li>
+          <li><xref href="enterprise-it-mobile-devices.dita" format="dita">Enterprise IT - Mobile Devices</xref></li>
+          <li><xref href="hosting-platforms.dita" format="dita">Hosting Platforms</xref></li>
+          <li><xref href="log-entry-metadata.dita" format="dita">Log entry metadata</xref></li>
+          <li><xref href="security-log-collection-maturity-tiers.dita" format="dita">Security Log Collection Maturity Tiers</xref></li>
         </ul>
       </body>
     </topic>
@@ -333,14 +333,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>General guides</title>
       <body>
         <ul>
-          <li><xref href="automated-certificate-renewal.dita" type="topic">Automated certificate renewal</xref></li>
-          <li><xref href="data-security-and-privacy-lifecycle.dita">Data Security &amp; Privacy Lifecycle Expectations</xref></li>
-          <li><xref href="data-security-and-privacy-triage-standards.dita">Data Security &amp; Privacy Triage Standards</xref></li>
-          <li><xref href="defensive-domain-registration.dita">Defensive domain registrations</xref></li>
-          <li><xref href="online-indentifiers.dita">Online identifiers in security logging &amp; monitoring</xref></li>
-          <li><xref href="personnel-security-clearances.dita">Personnel security clearances</xref></li>
-          <li><xref href="standards-assurance-tables.dita">Standards Assurance Tables</xref></li>
-          <li><xref href="user-guide.dita">Cyber Security Consultancy Team: asking for help</xref></li>
+          <li><xref href="automated-certificate-renewal.dita" format="dita" type="topic">Automated certificate renewal</xref></li>
+          <li><xref href="data-security-and-privacy-lifecycle.dita" format="dita">Data Security &amp; Privacy Lifecycle Expectations</xref></li>
+          <li><xref href="data-security-and-privacy-triage-standards.dita" format="dita">Data Security &amp; Privacy Triage Standards</xref></li>
+          <li><xref href="defensive-domain-registration.dita" format="dita">Defensive domain registrations</xref></li>
+          <li><xref href="online-identifiers.dita" format="dita">Online identifiers in security logging &amp; monitoring</xref></li>
+          <li><xref href="personnel-security-clearances.dita" format="dita">Personnel security clearances</xref></li>
+          <li><xref href="standards-assurance-tables.dita" format="dita">Standards Assurance Tables</xref></li>
+          <li><xref href="user-guide.dita" format="dita">Cyber Security Consultancy Team: asking for help</xref></li>
         </ul>
       </body>
     </topic>
@@ -348,9 +348,9 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>Active Cyber Defence</title>
       <body>
         <ul>
-          <li><xref href="mail-check.dita">Mail Check</xref></li>
-          <li><xref href="public-sector-dns.dita">Public Sector DNS</xref></li>
-          <li><xref href="web-check.dita">Web Check</xref></li>
+          <li><xref href="mail-check.dita" format="dita">Mail Check</xref></li>
+          <li><xref href="public-sector-dns.dita" format="dita">Public Sector DNS</xref></li>
+          <li><xref href="web-check.dita" format="dita">Web Check</xref></li>
         </ul>
       </body>
     </topic>
@@ -358,29 +358,29 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>Product specific guides</title>
       <body>
         <ul>
-          <li><xref href="using-lastpass.dita">Using LastPass Enterprise</xref></li>
+          <li><xref href="using-lastpass.dita" format="dita">Using LastPass Enterprise</xref></li>
         </ul>
       </body>
     </topic>
   </topic>
   <topic id="suppliers-to-moj">
-    <title>Suppliers to MOJ</title>
+    <title>Suppliers to <ph conref="conrefs.dita#conrefs/moj"/></title>
     <body>
       <ul>
-        <li><xref href="assessing-suppliers.dita" type="topic">Assessing Suppliers</xref></li>
-        <li><xref href="contracts.dita" type="topic">Contracts</xref></li>
+        <li><xref href="assessing-suppliers.dita" format="dita" type="topic">Assessing Suppliers</xref></li>
+        <li><xref href="contracts.dita" format="dita" type="topic">Contracts</xref></li>
         <li>
           <p>Data Destruction:
           <ul>
-            <li><xref href="data-destruction-instruction-and-confirmation-letter.dita">Data Destruction Instruction and Confirmation Letter</xref></li>
-            <li><xref href="data-destruction-contract-clauses-definitions.dita">Data Destruction Contract Clauses - Definitions</xref></li>
-            <li><xref href="data-destruction-contract-clauses-short-format.dita">Data Destruction Contract Clauses - Short Format</xref></li>
-            <li><xref href="data-destruction-contract-clauses-long-format.dita">Data Destruction Contract Clauses - Long Format</xref></li>
-            <li><xref href="data-destruction-contract-clauses-long-format-appendix.dita">Data Destruction Contract Clauses - Long Format (Appendix)</xref></li>
+            <li><xref href="data-destruction-instruction-and-confirmation-letter.dita" format="dita">Data Destruction Instruction and Confirmation Letter</xref></li>
+            <li><xref href="data-destruction-contract-clauses-definitions.dita" format="dita">Data Destruction Contract Clauses - Definitions</xref></li>
+            <li><xref href="data-destruction-contract-clauses-short-format.dita" format="dita">Data Destruction Contract Clauses - Short Format</xref></li>
+            <li><xref href="data-destruction-contract-clauses-long-format.dita" format="dita">Data Destruction Contract Clauses - Long Format</xref></li>
+            <li><xref href="data-destruction-contract-clauses-long-format-appendix.dita" format="dita">Data Destruction Contract Clauses - Long Format (Appendix)</xref></li>
           </ul></p>
         </li>
-        <li><xref href="security-aspect-letters.dita" type="topic">Security Aspect Letters</xref></li>
-        <li><xref href="supplier-corporate-it.dita">Supplier Corporate IT</xref></li>
+        <li><xref href="security-aspect-letters.dita" format="dita" type="topic">Security Aspect Letters</xref></li>
+        <li><xref href="supplier-corporate-it.dita" format="dita">Supplier Corporate IT</xref></li>
       </ul>
     </body>
   </topic>
@@ -388,12 +388,12 @@ has made for the products we operate, and our relationships with suppliers.</p>
     <title>Mythbusting</title>
     <body>
       <ul>
-        <li><xref href="cjsm.dita" type="topic">Criminal Justice Secure Mail (CJSM)</xref></li>
-        <li><xref href="data-sovereignty.dita">Data Sovereignty</xref></li>
-        <li><xref href="internet-v-psn.dita">Internet v. PSN</xref></li>
-        <li><xref href="ip-dns-diagram-handling.dita">IP DNS Diagram Handling</xref></li>
-        <li><xref href="multiple-consecutive-back-to-back-firewalls.dita">Multiple Back-to-back Consecutive Firewalls</xref></li>
-        <li><xref href="official-official-sensitive.dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref></li>
+        <li><xref href="cjsm.dita" format="dita" type="topic">Criminal Justice Secure Mail (CJSM)</xref></li>
+        <li><xref href="data-sovereignty.dita" format="dita">Data Sovereignty</xref></li>
+        <li><xref href="internet-v-psn.dita" format="dita">Internet v. PSN</xref></li>
+        <li><xref href="ip-dns-diagram-handling.dita" format="dita">IP DNS Diagram Handling</xref></li>
+        <li><xref href="multiple-consecutive-back-to-back-firewalls.dita" format="dita">Multiple Back-to-back Consecutive Firewalls</xref></li>
+        <li><xref href="official-official-sensitive.dita" format="dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref></li>
       </ul>
     </body>
   </topic>
@@ -403,13 +403,13 @@ has made for the products we operate, and our relationships with suppliers.</p>
     <topic id="intranet">
       <title>Intranet</title>
       <body>
-        <p>There are other cyber and technical security guidance documents available to reference. A large number of these documents are available in the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/" format="html" scope="external">IT and Computer Security</xref> repository on the MoJ Intranet, but these documents are currently being reviewed and progressively are being incorporated into this main <xref href="cyber-and-technical-security-guidance.dita" type="topic">Security Guidance</xref> repository.</p>
+        <p>There are other cyber and technical security guidance documents available to reference. A large number of these documents are available in the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/" format="html" scope="external">IT and Computer Security</xref> repository on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet, but these documents are currently being reviewed and progressively are being incorporated into this main <xref href="cyber-and-technical-security-guidance.dita" format="dita" type="topic">Security Guidance</xref> repository.</p>
       </body>
     </topic>
     <topic id="technical-guidance">
       <title>Technical Guidance</title>
       <body>
-        <p>The MoJ <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> should be read together with this security-focused guidance.</p>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> should be read together with this security-focused guidance.</p>
         <p><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></p>
       </body>
     </topic>
@@ -421,8 +421,8 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>Contact information</title>
       <body>
         <ul>
-          <li><xref href="email.dita">Email</xref></li>
-          <li><xref href="reporting-an-incident.dita">Reporting an incident</xref></li>
+          <li><xref href="email.dita" format="dita">Email</xref></li>
+          <li><xref href="reporting-an-incident.dita" format="dita">Reporting an incident</xref></li>
         </ul>
       </body>
     </topic>
@@ -430,8 +430,8 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <title>Vulnerability Disclosure</title>
       <body>
         <ul>
-          <li><xref href="vulnerability-disclosure-policy.dita">Vulnerability Disclosure Policy</xref></li>
-          <li><xref href="implement-security-txt.dita">Implementing <codeph>security.txt</codeph></xref></li>
+          <li><xref href="vulnerability-disclosure-policy.dita" format="dita">Vulnerability Disclosure Policy</xref></li>
+          <li><xref href="implement-security-txt.dita" format="dita">Implementing <codeph>security.txt</codeph></xref></li>
         </ul>
       </body>
     </topic>

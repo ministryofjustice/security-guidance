@@ -2,7 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 
 <map>
-	<title>MOJ Cyber Security Guidance</title>
+	<title><ph conref="conrefs.dita#conrefs/mojlong"/> Cyber Security Guidance</title>
 	<topicref href="conrefs.dita" type="topic" processing-role="resource-only"/>
 	<topicref href="cyber-and-technical-security-guidance.dita" type="topic"/>
 	<topichead navtitle="Cyber">
@@ -72,7 +72,7 @@
 			<topicref href="data-security-and-privacy-lifecycle.dita" type="topic"/>
 			<topicref href="data-security-and-privacy-triage-standards.dita" type="topic"/>
 			<topicref href="defensive-domain-registration.dita" type="topic"/>
-			<topicref href="online-indentifiers.dita" type="topic"/>
+			<topicref href="online-identifiers.dita" type="topic"/>
 			<topicref href="personnel-security-clearances.dita" type="topic"/>
 			<topicref href="standards-assurance-tables.dita" type="topic"/>
 			<topicref href="user-guide.dita" type="topic"/>

@@ -6,7 +6,7 @@ The [Mail Check Service](https://www.ncsc.gov.uk/blog-post/helping-secure-public
 
 The service helps public sector email administrators improve and maintain the security of their email domains by preventing spoof email.
 
-Domains operated by, or on behalf of, MOJ **must** be added to Mail Check under at least the central MOJ Mail Check account.
+Domains operated by, or on behalf of, the Ministry of Justice \(MOJ\) **must** be added to Mail Check under at least the central MOJ Mail Check account.
 
 ## When to use the service
 

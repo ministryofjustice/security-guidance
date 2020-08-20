@@ -2,7 +2,7 @@
 
 ## Summary
 
-Not everyone has access to an MOJ device which can be used remotely. In these extraordinary times, exceptional provision is being developed for you to use your own devices for work purposes.
+Not everyone has access to an Ministry of Justice \(MOJ\) device which can be used remotely. In these extraordinary times, exceptional provision is being developed for you to use your own devices for work purposes.
 
 Until that provision is in place, you must not use a personal device for work purposes.
 

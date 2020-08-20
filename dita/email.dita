@@ -4,7 +4,7 @@
 <topic id="email">
   <title>Email</title>
   <body>
-    <p>The MOJ D&amp;T Cybersecurity team can be reached via <xref href="mailto:cybersecurity@digital.justice.gov.uk" format="email" scope="external">cybersecurity@digital.justice.gov.uk</xref>.</p>
-    <p>Suppliers to the MOJ should primarily contact your usual MOJ points of contact.</p>
+    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> D&amp;T Cybersecurity team can be reached via <xref href="mailto:cybersecurity@digital.justice.gov.uk" format="email" scope="external">cybersecurity@digital.justice.gov.uk</xref>.</p>
+    <p>Suppliers to the <ph conref="conrefs.dita#conrefs/moj"/> should primarily contact your usual <ph conref="conrefs.dita#conrefs/moj"/> points of contact.</p>
   </body>
 </topic>

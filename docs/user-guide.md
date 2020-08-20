@@ -8,7 +8,7 @@ To ask for help from a cyber security consultant, send an email to: [cyberconsul
 
 ## About the team
 
-The Cyber Security Consultancy Team is part of Ministry of Justice Security & Privacy. The MoJ Chief Information Security Officer leads the consultants.
+The Cyber Security Consultancy Team is part of Ministry of Justice \(MOJ\) Security & Privacy. The MOJ Chief Information Security Officer leads the consultants.
 
 The team provides help and guidance around cyber security matters, such as:
 

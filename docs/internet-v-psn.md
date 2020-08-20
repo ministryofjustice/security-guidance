@@ -2,7 +2,7 @@
 
 ## The internet is 'ok'
 
-The MOJ prefers the use of public commodity networks \(such as the Internet\) over the use of dedicated or private network links.
+The Ministry of Justice \(MOJ\) prefers the use of public commodity networks \(such as the Internet\) over the use of dedicated or private network links.
 
 ### Networks are bearers
 

@@ -1,6 +1,6 @@
 # Assessing suppliers
 
-The MOJ assesses suppliers as a responsible public body managing public funds and data. These assessments range from commercial and legal for the purposes of contract through to risk assessments for the purposes of information security.
+The Ministry of Justice \(MOJ\) assesses suppliers as a responsible public body managing public funds and data. These assessments range from commercial and legal for the purposes of contract through to risk assessments for the purposes of information security.
 
 The MOJ utilises a range of [risk management](https://www.ncsc.gov.uk/guidance/risk-management-collection) techniques including [information risk assessments](https://www.ncsc.gov.uk/guidance/summary-risk-methods-and-frameworks).
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="enterprise-it---mobile-devices">
+<topic id="enterprise-it-mobile-devices">
   <title>Enterprise IT - Mobile Devices</title>
   <body>
     <p>We have developed a series of logging requirements for Mobile Devices (also known as End-user Devices), such as thin-clients, desktops, laptops, tablets and mobile smart phones at different maturity tiers in order to support defenisve cyber security, such as detecting breaches.</p>

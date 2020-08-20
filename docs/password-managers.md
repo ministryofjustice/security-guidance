@@ -2,7 +2,7 @@
 
 ## Overview
 
-[MOJ guidance](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-guidance/) makes clear that you should have different passwords for different services. These passwords must be complex.
+[Ministry of Justice \(MOJ\) guidance](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-guidance/) makes clear that you should have different passwords for different services. These passwords must be complex.
 
 But how do you remember all these different passwords?
 

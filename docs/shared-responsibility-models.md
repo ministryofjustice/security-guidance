@@ -1,6 +1,6 @@
 # Shared Responsibility Models
 
-The MOJ by default will leverage shared responsibility models, particularly in commodity environments, in order to achieve efficiencies such as time, risk and cost.
+The Ministry of Justice \(MOJ\) by default will leverage shared responsibility models, particularly in commodity environments, in order to achieve efficiencies such as time, risk and cost.
 
 The MOJ believes that it should focus on elements which are unique to its requirements rather than attempting to solve commodity requirements in a unique way.
 

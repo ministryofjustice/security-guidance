@@ -7,15 +7,15 @@
   <topic id="baseline-personnel-security-standard-bpss">
     <title>Baseline Personnel Security Standard (BPSS)</title>
     <body>
-      <p>Unless otherwise agreed formally by MOJ in writing, any person (whether MOJ staff, contractor or through supply chain) who has access to, or direct control over, MOJ data must have satisfactorily completed the baseline.</p>
+      <p>Unless otherwise agreed formally by the <ph conref="conrefs.dita#conrefs/mojlong"/> in writing, any person (whether <ph conref="conrefs.dita#conrefs/moj"/> staff, contractor or through supply chain) who has access to, or direct control over, <ph conref="conrefs.dita#conrefs/moj"/> data must have satisfactorily completed the baseline.</p>
       <p>The <xref href="https://www.gov.uk/government/publications/government-baseline-personnel-security-standard" format="html" scope="external">BPSS is published on GOV.UK</xref>.</p>
     </body>
   </topic>
   <topic id="national-security-clearances">
     <title>National Security Clearances</title>
     <body>
-      <p>The MOJ will advise on a case-by-case basis if an individual requires a <xref href="https://www.gov.uk/guidance/security-vetting-and-clearance#applicant" format="html" scope="external">national security vetting and clearance</xref>.</p>
-      <p>MOJ does <b>not</b> have a standing requirement for system administrators or application developers to maintain Security Check (SC).</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> will advise on a case-by-case basis if an individual requires a <xref href="https://www.gov.uk/guidance/security-vetting-and-clearance#applicant" format="html" scope="external">national security vetting and clearance</xref>.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> does <b>not</b> have a standing requirement for system administrators or application developers to maintain Security Check (SC).</p>
     </body>
   </topic>
 </topic>

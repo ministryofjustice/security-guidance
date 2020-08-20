@@ -2,15 +2,15 @@
 
 ## Introduction
 
-This guide explains how the Ministry of Justice \(MoJ\) manages access to its IT systems so that users have access only to the material they need to see. This guide has sub-pages which provide in-depth Access Control guidance.
+This guide explains how the Ministry of Justice \(MOJ\) manages access to its IT systems so that users have access only to the material they need to see. This guide has sub-pages which provide in-depth Access Control guidance.
 
 ## Who is this for?
 
 This guide is aimed at two audiences:
 
-1.  The in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation.
+1.  The in-house MOJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation.
 
-2.  Any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services \(including processing, transmitting and storing data\) for, or on behalf of the MoJ.
+2.  Any other MOJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services \(including processing, transmitting and storing data\) for, or on behalf of the MOJ.
 
 
 ## Related guides
@@ -44,13 +44,13 @@ These are the Access Control principles you need to know.
 
 Effective access control should be implemented by following these four principles.
 
-1.  **Identification:** The MoJ should provide a single, unique ID assigned, named and linked to a private account for each user. For example, Lesley is issued a user account that only Lesley uses, and only Lesley can access. This is important so that logging information is accurate \(see the [Accounting section below](#accounting) for further information\).
-2.  **Authentication:** To access MoJ systems, users must authenticate themselves. They can do so using:
+1.  **Identification:** The MOJ should provide a single, unique ID assigned, named and linked to a private account for each user. For example, Lesley is issued a user account that only Lesley uses, and only Lesley can access. This is important so that logging information is accurate \(see the [Accounting section below](#accounting) for further information\).
+2.  **Authentication:** To access MOJ systems, users must authenticate themselves. They can do so using:
 
-    -   something they know \(such as a password - the primary authentication method used at the MoJ\)
+    -   something they know \(such as a password - the primary authentication method used at the MOJ\)
     -   something they have \(such as a smart card\)
     -   something they are \(biometric authentication such as a fingerprint, voice recognition, iris scan and others\)
-    Systems holding sensitive information, or systems that are mission critical to the MoJ, must use Multi-Factor Authentication \(MFA\) to prove user identity. See the [Multi-Factor Authentication Guide](multi-factor-authentication-mfa-guide.md) and [Password Management Guide](password-managers.md) for further information. If you wish to use an additional method of authentication you should review the National Cyber Security Center's \(NCSC\) guidance and contact the Cyber Assistance Team \(CAT\). For information on authentication methods including OAuth, refer to the [Managing User Access Guide](managing-user-access-guide.md).
+    Systems holding sensitive information, or systems that are mission critical to the MOJ, must use Multi-Factor Authentication \(MFA\) to prove user identity. See the [Multi-Factor Authentication Guide](multi-factor-authentication-mfa-guide.md) and [Password Management Guide](password-managers.md) for further information. If you wish to use an additional method of authentication you should review the National Cyber Security Center's \(NCSC\) guidance and contact the Cyber Assistance Team \(CAT\). For information on authentication methods including OAuth, refer to the [Managing User Access Guide](managing-user-access-guide.md).
 
 3.  **Authorisation:** Authorisation is the function of specifying access rights/privileges and resources to users, which should be granted in line with the principle of least privilege. Reducing access privileges reduces the "attack surface" of IT systems. This helps to prevent malware and hackers from moving laterally across the network if they compromise a user account.
 4.  **Accounting:** Successful and unsuccessful attempts to access systems, and user activities conducted while using systems must be recorded in logs. Please see the [Security Log Collection Guide](security-log-collection-maturity-tiers.md) for more information. This will help to attribute security events or suspicious activities to users who can be supported to improve their behaviours or held accountable for their actions.
@@ -70,7 +70,7 @@ Logs should be:
 
 Logs should not be:
 
--   retained for longer than 2 years unless otherwise stipulated. Retention rules may vary on a case by case basis so check with the Data Privacy Team, the Cyber Assistance team, and the MoJ Data Protection Officer if a Log involves personal information. See the [Accounting Guide](accounting.md) for further information.
+-   retained for longer than 2 years unless otherwise stipulated. Retention rules may vary on a case by case basis so check with the Data Privacy Team, the Cyber Assistance team, and the MOJ Data Protection Officer if a Log involves personal information. See the [Accounting Guide](accounting.md) for further information.
 
 -   tampered with under any circumstances, for example through modification or removal.
 
@@ -79,7 +79,7 @@ See the [Security Log Collection Guide](security-log-collection-maturity-tiers.m
 
 ## Segregation of duties
 
-In some parts of the MoJ, segregation of duties is used to help to reduce the possibility that malicious activity takes place without detection.
+In some parts of the MOJ, segregation of duties is used to help to reduce the possibility that malicious activity takes place without detection.
 
 You can segregate duties in various ways, including:
 

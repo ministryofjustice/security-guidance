@@ -6,7 +6,7 @@ The [Web Check Service](https://www.ncsc.gov.uk/blog-post/web-check-helping-you-
 
 The service scans provided URLs for a series of indicators \(negative and positive technical security configurations\) and reports them through a web interface, email alerts and exportable report file.
 
-Domains operated by, or on behalf of, MOJ **must** be added to Web Check under at least the central MOJ Web Check account.
+Domains operated by, or on behalf of, the Ministry of Justice \(MOJ\) **must** be added to Web Check under at least the central MOJ Web Check account.
 
 ## How to use the service
 
@@ -14,7 +14,7 @@ Domains operated by, or on behalf of, MOJ **must** be added to Web Check under a
 
 The fully-qualified domain name or URL is required. It must be publicly accessible from the general Internet and present as a website on HTTP \(TCP/80\) and/or HTTPS \(TCP/443\).
 
-MOJ is permitted to use the service for free as a central government organisation, but suppliers to MOJ currently are not.
+The MOJ is permitted to use the service for free as a central government organisation, but suppliers to MOJ currently are not.
 
 ### Get started
 

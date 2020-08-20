@@ -2,7 +2,7 @@
 
 ## Key points
 
--   Be professional, and help keep MOJ information and resources safe and secure at all times.
+-   Be professional, and help keep Ministry of Justice \(MOJ\) information and resources safe and secure at all times.
 
 -   Think about where you are working, for example - can other people or family see what you are working on? Be thoughtful about information privacy.
 
@@ -19,11 +19,11 @@
 
 ## Overview
 
-The Remote Working Guide gives you advice and guidance on the main security issues that are likely to affect you as a remote worker or a user of mobile computing facilities, \(e.g. desktop/laptop computer, smart phones, etc\), within the Ministry of Justice \(MOJ\), including its Agencies and Associated Offices. It also sets out your individual responsibilities for IT security when working remotely.
+The Remote Working Guide gives you advice and guidance on the main security issues that are likely to affect you as a remote worker or a user of mobile computing facilities, \(e.g. desktop/laptop computer, smart phones, etc\), within the MOJ, including its Agencies and Associated Offices. It also sets out your individual responsibilities for IT security when working remotely.
 
 ## Audience
 
-This guide applies to all staff in the MOJ, its Agencies, Associated Offices and Arm’s Length Bodies \(ALBs\), including contractors, agency and casual staff and service providers, who use computing equipment provided by the Department for remote working or mobile computing, or process any departmental information while working remotely or while using MoJ mobile computing equipment.
+This guide applies to all staff in the MOJ, its Agencies, Associated Offices and Arm’s Length Bodies \(ALBs\), including contractors, agency and casual staff and service providers, who use computing equipment provided by the Department for remote working or mobile computing, or process any departmental information while working remotely or while using MOJ mobile computing equipment.
 
 ## What is remote working?
 
@@ -162,7 +162,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 ### Historic paper files urgently required by ministers, courts, or Public Inquiries
 
-**MoJ HQ staff**
+**MOJ HQ staff**
 
 -   Email: [Records\_Retention\_@justice.gov.uk](mailto:Records_Retention_@justice.gov.uk)
 

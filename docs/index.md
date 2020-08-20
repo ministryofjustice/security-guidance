@@ -2,15 +2,15 @@
 
 ## Summary
 
-This site documents some of the security decisions that the [Ministry of Justice \(MoJ\)](https://www.gov.uk/government/organisations/ministry-of-justice) has made for the products we operate, and our relationships with suppliers.
+This site documents some of the security decisions that the [Ministry of Justice \(MOJ\)](https://www.gov.uk/government/organisations/ministry-of-justice) has made for the products we operate, and our relationships with suppliers.
 
-The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
+The MOJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MOJ more widely.
 
 **Note:**
 
-This guidance is dated: 18 August 2020.
+This guidance is dated: 20 August 2020.
 
-For convenience, an offline version of this guidance is available as a PDF file, [here](https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf). The PDF version of this guidance is time-limited, and is not valid after 18 September 2020.
+For convenience, an offline version of this guidance is available as a PDF file, [here](https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf). The PDF version of this guidance is time-limited, and is not valid after 20 September 2020.
 
 ### Background
 
@@ -23,7 +23,7 @@ Sections 6.12 Cyber security and 6.13 Technical security of the standard state:
 
 ## Taxonomy
 
-MoJ has developed their cyber and technical security taxonomy as follows:
+MOJ has developed their cyber and technical security taxonomy as follows:
 
 |Level 1|Level 2|
 |-------|-------|
@@ -102,7 +102,7 @@ Documents have been developed and defined within this taxonomy, and are listed i
 -   [Data Security & Privacy Lifecycle Expectations](data-security-and-privacy-lifecycle.md)
 -   [Data Security & Privacy Triage Standards](data-security-and-privacy-triage-standards.md)
 -   [Defensive domain registrations](defensive-domain-registration.md)
--   [Online identifiers in security logging & monitoring](online-indentifiers.md)
+-   [Online identifiers in security logging & monitoring](online-identifiers.md)
 -   [Personnel security clearances](personnel-security-clearances.md)
 -   [Standards Assurance Tables](standards-assurance-tables.md)
 -   [Cyber Security Consultancy Team: asking for help](user-guide.md)
@@ -144,11 +144,11 @@ Documents have been developed and defined within this taxonomy, and are listed i
 
 ### Intranet
 
-There are other cyber and technical security guidance documents available to reference. A large number of these documents are available in the [IT and Computer Security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/) repository on the MoJ Intranet, but these documents are currently being reviewed and progressively are being incorporated into this main [Security Guidance](cyber-and-technical-security-guidance.md) repository.
+There are other cyber and technical security guidance documents available to reference. A large number of these documents are available in the [IT and Computer Security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/) repository on the MOJ Intranet, but these documents are currently being reviewed and progressively are being incorporated into this main [Security Guidance](cyber-and-technical-security-guidance.md) repository.
 
 ### Technical Guidance
 
-The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) should be read together with this security-focused guidance.
+The MOJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) should be read together with this security-focused guidance.
 
 [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security)
 

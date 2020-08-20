@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="commercial-off-the-shelf-applications">
+<topic id="cots-applications">
   <title>Commercial off-the-shelf applications</title>
   <body>
-    <p>We have developed a series of logging requirements for Commercial off-the-shelf (COTS) applications, such as Software-as-a-Service (SaaS) solutions or where applications are not so customised that they can reasonably be considered bespoke/custom for the MOJ.</p>
+    <p>We have developed a series of logging requirements for Commercial off-the-shelf (COTS) applications, such as Software-as-a-Service (SaaS) solutions or where applications are not so customised that they can reasonably be considered bespoke/custom for the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
   </body>
   <topic id="baseline-maturity-tier">
     <title>Baseline Maturity Tier</title>
@@ -149,7 +149,7 @@
       <title>2. Unauthenticated user activity events</title>
       <body>
         <p>Log Collection Principle(s): 6</p>
-        <p>Where unauthenticated users interact with applications (for example, a MOJ G-Suite document available on the general Internet through relaxed access controls), associated audit information must be created.</p>
+        <p>Where unauthenticated users interact with applications (for example, a <ph conref="conrefs.dita#conrefs/moj"/> G-Suite document available on the general Internet through relaxed access controls), associated audit information must be created.</p>
         <ul>
           <li>
             <p>a: end-client identifier(s)</p>

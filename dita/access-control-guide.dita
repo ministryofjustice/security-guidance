@@ -19,7 +19,7 @@
           <p>The in-house <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation.</p>
         </li>
         <li>
-          <p>Any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the MoJ.</p>
+          <p>Any other <ph conref="conrefs.dita#conrefs/moj"/> business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
         </li>
       </ol>
     </body>
@@ -30,18 +30,18 @@
       <p>Further guidance on how to manage user access can be found in the guides below.</p>
       <ul>
         <li>
-          <p><xref href="privileged-account-management-guide.dita">Privileged Accounts</xref>.</p>
+          <p><xref href="privileged-account-management-guide.dita" format="dita">Privileged Accounts</xref>.</p>
         </li>
         <li>
-          <p><xref href="managing-user-access-guide.dita">Management Access</xref>.</p>
+          <p><xref href="managing-user-access-guide.dita" format="dita">Management Access</xref>.</p>
         </li>
       </ul>
       <ul>
         <li>
-          <p><xref href="minimum-user-clearance-requirements-guide.dita">Minimum User Clearance Requirements</xref>.</p>
+          <p><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements</xref>.</p>
         </li>
         <li>
-          <p><xref href="multi-factor-authentication-mfa-guide.dita">Multi-Factor Authentication (MFA)</xref>.</p>
+          <p><xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-Factor Authentication (MFA)</xref>.</p>
         </li>
       </ul>
     </body>
@@ -71,12 +71,12 @@
     <body>
       <p>Effective access control should be implemented by following these four principles.</p>
       <ol>
-        <li><b>Identification:</b> The MoJ should provide a single, unique ID assigned, named and linked to a private account for each user. For example, Lesley is issued a user account that only Lesley uses, and only Lesley can access. This is important so that logging information is accurate (see the <xref format="html" href="#access-control-principles/accounting">Accounting section below</xref> for further information).</li>
-        <li><b>Authentication:</b> To access MoJ systems, users must authenticate themselves. They can do so using:
-<ul><li>something they know (such as a password - the primary authentication method used at the MoJ)</li><li>something they have (such as a smart card)</li><li>something they are (biometric authentication such as a fingerprint, voice recognition, iris scan and others)</li></ul>
-Systems holding sensitive information, or systems that are mission critical to the MoJ, must use Multi-Factor Authentication (MFA) to prove user identity. See the <xref href="multi-factor-authentication-mfa-guide.dita">Multi-Factor Authentication Guide</xref> and <xref href="password-managers.dita">Password Management Guide</xref> for further information. If you wish to use an additional method of authentication you should review the National Cyber Security Center's (NCSC) guidance and contact the Cyber Assistance Team (CAT). For information on authentication methods including OAuth, refer to the <xref href="managing-user-access-guide.dita">Managing User Access Guide</xref>.</li>
+        <li><b>Identification:</b> The <ph conref="conrefs.dita#conrefs/moj"/> should provide a single, unique ID assigned, named and linked to a private account for each user. For example, Lesley is issued a user account that only Lesley uses, and only Lesley can access. This is important so that logging information is accurate (see the <xref format="dita" href="#access-control-principles/accounting">Accounting section below</xref> for further information).</li>
+        <li><b>Authentication:</b> To access <ph conref="conrefs.dita#conrefs/moj"/> systems, users must authenticate themselves. They can do so using:
+<ul><li>something they know (such as a password - the primary authentication method used at the <ph conref="conrefs.dita#conrefs/moj"/>)</li><li>something they have (such as a smart card)</li><li>something they are (biometric authentication such as a fingerprint, voice recognition, iris scan and others)</li></ul>
+Systems holding sensitive information, or systems that are mission critical to the <ph conref="conrefs.dita#conrefs/moj"/>, must use Multi-Factor Authentication (MFA) to prove user identity. See the <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-Factor Authentication Guide</xref> and <xref href="password-managers.dita" format="dita">Password Management Guide</xref> for further information. If you wish to use an additional method of authentication you should review the National Cyber Security Center's (NCSC) guidance and contact the Cyber Assistance Team (CAT). For information on authentication methods including OAuth, refer to the <xref href="managing-user-access-guide.dita" format="dita">Managing User Access Guide</xref>.</li>
         <li><b>Authorisation:</b> Authorisation is the function of specifying access rights/privileges and resources to users, which should be granted in line with the principle of least privilege. Reducing access privileges reduces the "attack surface" of IT systems. This helps to prevent malware and hackers from moving laterally across the network if they compromise a user account.</li>
-        <li><xref id="accounting"><b>Accounting:</b></xref> Successful and unsuccessful attempts to access systems, and user activities conducted while using systems must be recorded in logs. Please see the <xref href="security-log-collection-maturity-tiers.dita">Security Log Collection Guide</xref> for more information. This will help to attribute security events or suspicious activities to users who can be supported to improve their behaviours or held accountable for their actions.</li>
+        <li id="accounting"><b>Accounting:</b> Successful and unsuccessful attempts to access systems, and user activities conducted while using systems must be recorded in logs. Please see the <xref href="security-log-collection-maturity-tiers.dita" format="dita">Security Log Collection Guide</xref> for more information. This will help to attribute security events or suspicious activities to users who can be supported to improve their behaviours or held accountable for their actions.</li>
       </ol>
       <p>Consider the following points when creating activity logs.</p>
       <p>Logs should be:</p>
@@ -97,19 +97,19 @@ Systems holding sensitive information, or systems that are mission critical to t
       <p>Logs should not be:</p>
       <ul>
         <li>
-          <p>retained for longer than 2 years unless otherwise stipulated. Retention rules may vary on a case by case basis so check with the Data Privacy Team, the Cyber Assistance team, and the MoJ Data Protection Officer if a Log involves personal information. See the <xref href="accounting.dita">Accounting Guide</xref> for further information.</p>
+          <p>retained for longer than 2 years unless otherwise stipulated. Retention rules may vary on a case by case basis so check with the Data Privacy Team, the Cyber Assistance team, and the <ph conref="conrefs.dita#conrefs/moj"/> Data Protection Officer if a Log involves personal information. See the <xref href="accounting.dita" format="dita">Accounting Guide</xref> for further information.</p>
         </li>
         <li>
           <p>tampered with under any circumstances, for example through modification or removal.</p>
         </li>
       </ul>
-      <p>See the <xref href="security-log-collection-maturity-tiers.dita">Security Log Collection Guide</xref> for more information.</p>
+      <p>See the <xref href="security-log-collection-maturity-tiers.dita" format="dita">Security Log Collection Guide</xref> for more information.</p>
     </body>
   </topic>
   <topic id="segregation-of-duties">
     <title>Segregation of duties</title>
     <body>
-      <p>In some parts of the MoJ, segregation of duties is used to help to reduce the possibility that malicious activity takes place without detection.</p>
+      <p>In some parts of the <ph conref="conrefs.dita#conrefs/moj"/>, segregation of duties is used to help to reduce the possibility that malicious activity takes place without detection.</p>
       <p>You can segregate duties in various ways, including:</p>
       <ul>
         <li>

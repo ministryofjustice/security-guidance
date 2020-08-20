@@ -18,7 +18,7 @@
   <topic id="commodity-technical-maintenance">
     <title>Commodity technical maintenance</title>
     <body>
-      <p>The MOJ expect technology systems to be maintained to ensure the commodity functional elements do not become end of life, or cease function as a result.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> expect technology systems to be maintained to ensure the commodity functional elements do not become end of life, or cease function as a result.</p>
       <p>Examples include:</p>
       <ul>
         <li>

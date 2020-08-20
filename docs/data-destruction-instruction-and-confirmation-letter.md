@@ -1,6 +1,6 @@
 # Instruction & Confirmation Letter
 
-The current draft of a templated MOJ data destruction letter, that may be issued by the MOJ to a supplier. The letter describes required actions and information, followed by a responsive declaration from the supplier.
+The current draft of a templated Ministry of Justice \(MOJ\) data destruction letter, that may be issued by the MOJ to a supplier. The letter describes required actions and information, followed by a responsive declaration from the supplier.
 
 ## Letter issued by MOJ
 

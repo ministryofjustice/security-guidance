@@ -1,6 +1,6 @@
 # Baseline for Amazon Web Services accounts
 
-The MOJ has a 'lowest common denominator' for security-related promises, capabilities and configurations of MOJ Amazon Web Services \(AWS\) accounts.
+The Ministry of Justice \(MOJ\) has a 'lowest common denominator' for security-related promises, capabilities and configurations of MOJ Amazon Web Services \(AWS\) accounts.
 
 The baseline is not a holistic list of dos and don'ts, but a *minimum* line in the sand for what 'at least' **must** be done.
 

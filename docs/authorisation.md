@@ -16,7 +16,7 @@ Day to day examples include: not ordinarily using an 'administrator' login on an
 
 An administrator is much broader than a technical system administrator to a server, network or service \(such as 'domain admin' in Microsoft Active Directory\) but someone has who has higher levels of access or control than a required for day to day operation.
 
-Examples include those with high privileges on a MOJ github.com repository and credentials to the MOJ communications accounts \(such as social media\).
+Examples include those with high privileges on a Ministry of Justice \(MOJ\) github.com repository and credentials to the MOJ communications accounts \(such as social media\).
 
 ## AWS assume-role
 

@@ -4,7 +4,7 @@
 <topic id="long-format-appendix">
   <title>Long format appendix</title>
   <body>
-    <p>The current draft of the MOJ commodity long format data destruction appendix. The appendix is a dependancy of the long format clause itself.</p>
+    <p>The current draft of the <ph conref="conrefs.dita#conrefs/mojlong"/> commodity long format data destruction appendix. The appendix is a dependancy of the long format clause itself.</p>
     <p><codeph>Highlighted</codeph> words indicate potential requirement for contextual change, requirement of definition and so on.</p>
   </body>
   <topic id="appendix">

@@ -1,6 +1,6 @@
 # Data sovereignty
 
-The MOJ Senior Security Adviser, Chief Information Security Officer \(CISO\), Chief Technical Officer \(CTO\) and Data Protection Officer \(DPO\) have issued this guidance for MOJ business units and third-party partners across the MOJ supported by Digital & Technology and/or within scope of the MOJ Data Protection Officer \(DPO\) to explain the MOJ's position on ‘data sovereignty' \(where the processing of data, including personal data, may take place\).
+The Ministry of Justice \(MOJ\) Senior Security Adviser, Chief Information Security Officer \(CISO\), Chief Technical Officer \(CTO\) and Data Protection Officer \(DPO\) have issued this guidance for MOJ business units and third-party partners across the MOJ supported by Digital & Technology and/or within scope of the MOJ Data Protection Officer \(DPO\) to explain the MOJ's position on ‘data sovereignty' \(where the processing of data, including personal data, may take place\).
 
 ## Summary
 
