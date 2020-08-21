@@ -1,7 +1,10 @@
-# Roles and responsibilities for handling security incidents
+# Roles and responsibilities for handling security and privacy incidents
 
-When a security or privacy incident occurs, we quickly create a virtual team using the roles described below. These are not new posts, but roles that suitably trained individuals will assume during an incident. The data incident team - the team responsible for resolving an incident - will comprise of the following roles:
+When a security or privacy incident occurs, we quickly create a virtual team using the roles described below. These are not new posts, but roles that suitably trained individuals will assume during an incident. 
 
+This team is responsible for the operational response to the incident. If the severity or complexity of the incident warrants it, the incident manager can trigger the MoJ’s gold-silver-bronze operational response processes; beginning with a silver command to coordinate cross-department response, or cross-incident response if multiple incidents are occurring that may be related.
+
+The data incident team - the team responsible for resolving an incident - will comprise of the following roles
 
 ## Incident Manager
 The person who assumes command of a major data incident when it begins, and drives it to resolution. They collect information from incident team members, ensure everyone is communicating, decide on the correct steps to take, and then delegate these steps to resolvers - they do not ‘do’. They are the single authority on what is happening during a major incident. 
