@@ -13,6 +13,7 @@
 			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
 			<topicref href="multi-factor-authentication-mfa-guide.dita" type="topic"/>
 			<topicref href="privileged-account-management-guide.dita" type="topic"/>
+			<topicref href="protecting-social-media-accounts.dita" type="topic"/>
 		</topichead>
 		<topichead navtitle="Asset Management">
 			<topicref href="general-advice-on-taking-equipment-abroad.dita" type="topic"/>

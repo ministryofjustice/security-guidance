@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="protecting-social-media-accounts">
+	<title>Protecting Social Media Accounts</title>
+	<body/>
+	<topic id="summary">
+		<title>Summary</title>
+		<body>
+		<p>Hostile attacks on Social Media accounts pose a serious threat to the <ph conref="conrefs.dita#conrefs/mojlong"/> and
+		its reputation. When attacks happen, they quickly become <xref href="https://www.independent.co.uk/news/uk/politics/boris-johnson-dominic-cummings-tweet-civil-service-arrogant-offensive-a9530706.html" format="html" scope="external">headline news</xref>, and can <xref href="https://www.nytimes.com/2019/08/30/technology/jack-dorsey-twitter-account-hacked.html" format="html" scope="external">happen to any account, anywhere in the world</xref>.</p>
+		<p>Two types of attacks are common:
+		<ul>
+			<li>Attempts to render the account useless by 'bombarding' it with messages.</li>
+			<li>Attempts to 'take over' the account.</li>
+		</ul>
+		</p>
+		</body>
+	</topic>
+	<topic id="what-to-do-if-your-account-is-bombarded">
+		<title>What to do if your account is bombarded</title>
+		<body/>
+		<topic id="remember-that-these-attacks-are-short-lived">
+			<title>Remember that these attacks are short lived</title>
+			<body>
+			<p>Due to the amount of organisation and effort required to coordinate such an attack,
+			they do not last long, and like an intense inferno, will soon burn themselves out.</p>
+			</body>
+		</topic>
+		<topic id="do-not-respond-to-the-attack">
+			<title>Do not respond to the attack</title>
+			<body>
+			<p>These attacks are designed to attack the person controlling the account as well as the agency itself.
+			By only responding to messages not involved in the attack - especially those trying to share positive messages,
+			the attackers will run out of interest far sooner than if you engage them.
+			If they are posting harmful or threatening messages, report the accounts.</p>
+			<p>In a single sentence - "don't feed the trolls".</p>
+			</body>
+		</topic>
+		<topic id="feel-free-to-walk-away">
+			<title>Feel free to walk away</title>
+			<body>
+			<p>Dealing with these attacks can be emotionally draining;
+			even just reading the messages can have a far greater impact on you than you realise.
+			Take breaks in the event of an attack, even if it's hard to - consider going for a walk to force yourself away.</p>
+			</body>
+		</topic>
+	</topic>
+	<topic id="steps-we-can-all-take-to-protect-ourselves">
+		<title>Steps we can all take to protect ourselves</title>
+		<body/>
+		<topic id="ensure-our-passwords-are-secure">
+			<title>Ensure our passwords are secure</title>
+			<body>
+				<p>Passwords are the main protection on our accounts, hence ensuring they are secure is vital.
+				The NCSC has produced <xref href="https://www.ncsc.gov.uk/blog-post/three-random-words-or-thinkrandom-0" format="" scope="external">guidance</xref> on making secure passwords -
+				the summary of which is that picking three random words to make a password (for example <codeph>RainingWalrusTeacup</codeph>) is a good policy for securing Social Media accounts.</p>
+			</body>
+		</topic>
+		<topic id="check-your-email-details-are-up-to-date">
+			<title>Check your email details are up to date</title>
+			<body>
+				<p>Most of the time,
+				the first indication you'll have that something is wrong is when an email is sent to you.
+				This could be to let you know that someone is attempting to log into your account,
+				or that someone is trying to reset your password,
+				or more concerningly,
+				that a new device has logged into your account.
+				Hence it is important that you ensure that your email details are up to date,
+				and that your email is secure.</p>
+			</body>
+		</topic>
+		<topic id="enable-two-factor-authentication">
+			<title>Enable Two Factor Authentication</title>
+			<body>
+				<p>Two Factor Authentication (2FA) involves requiring a random code to be entered before being logged in.
+				These codes are either sent to the user via SMS or email,
+				or generated every 30 seconds by an app or device the user has which relies on a seed key provided by the service.
+				That seed can then be shared amongst a team, allowing for multiple owners or contributors.</p>
+				<p>If at all possible,
+				SMS generation should be avoided,
+				as it is theoretically possible for phone numbers to be taken over through various attacks,
+				as well as meaning that only one person can receive the code,
+				which isn't ideal if a team is working on a single account.</p>
+				<p>If you’re using email,
+				then it can be sent to a group account,
+				which also allows for multiple owners or contributors -
+				but it's important to ensure that the email is also protected by 2FA.</p>
+				<p>If you have a spare 10 minutes,
+				watch <xref href="https://www.youtube.com/watch?v=hGRii5f_uSc" format="html" scope="external">this video</xref> for an excellent explanation of how 2FA works and why it's important to have it enabled.</p>
+				<p>Click the links for details on how to activate 2FA for <xref href="https://www.facebook.com/help/148233965247823" format="html" scope="external">Facebook</xref>, <xref href="https://help.twitter.com/en/managing-your-account/two-factor-authentication" format="html" scope="external">Twitter</xref> and <xref href="https://help.instagram.com/566810106808145" format="html" scope="external">Instagram</xref>.</p>
+			</body>
+		</topic>
+	</topic>
+</topic>
