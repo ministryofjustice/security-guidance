@@ -39,6 +39,7 @@
 			<topicref href="secure-by-default.dita" type="topic"/>
 			<topicref href="security-log-collection.dita" type="topic"/>
 			<topicref href="shared-responsibility-models.dita" type="topic"/>
+			<topicref href="using-live-data-for-testing-purposes.dita" type="topic"/>
 		</topichead>
 	</topichead>
 	<topichead navtitle="Standards">
