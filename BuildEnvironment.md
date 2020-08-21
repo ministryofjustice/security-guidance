@@ -108,8 +108,8 @@
 6. Navigate to the directory on your system containing your local copy of the Git repository.
 7. Click the checkbox under the search results, next to the dirctory containing your repository.
 8. Click `Finish`.
-9. In the Select Git Repository window, select your newly added respository, then click `Next>`.
-10. Under `Wizard for project import, select `Import as general project`, then click `Next>`.
+9. In the `Select Git Repository` window, select your newly added respository, then click `Next>`.
+10. Under `Wizard for project import`, select `Import as general project`, then click `Next>`.
 11. Enter a project name, then click `Finish>`.
 12. In the Project Explorer window, expand the `MySecurityGuidanceProject` twisty.
 13. Expand the `dita` directory.
