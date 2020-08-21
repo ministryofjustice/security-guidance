@@ -17,22 +17,24 @@ Data used for testing purposes must have characteristics that are as close as po
 
 Check whether you really need to use live data, by considering the following questions:
 
-1.  Speed: What are your time requirements for test data provisioning?
-2.  Cost: What is an acceptable cost to create, manage and archive test data?
-3.  Quality: What are the important factors to consider related to test data quality?
-4.  Security: What are the privacy implications of these two sources of test data?
-5.  Simplicity: Is it easy for testers to get the data they need for their tests?
-6.  Versatility: Can the test data be used by any testing tool or technology?
+1.  **Speed:** What are your time requirements for test data provisioning?
+2.  **Cost:** What is an acceptable cost to create, manage and archive test data?
+3.  **Quality:** What are the important factors to consider related to test data quality?
+4.  **Security:** What are the privacy implications of these two sources of test data?
+5.  **Simplicity:** Is it easy for testers to get the data they need for their tests?
+6.  **Versatility:** Can the test data be used by any testing tool or technology?
 
 The best test data simulates live operations data.
 
 **Note:** It is important that test data is protected to the same standard as the live data. This is to ensure that details of the system design and operation are not compromised.
 
-To protect test data; the following principles should be followed:
+To protect test data, the following principles should be followed:
 
 -   The test manager must authorise the use of test data.
 -   Test data should be erased from a testing environment immediately after the testing is complete or when no longer required.
 -   The copying and use of test data should be logged to provide an audit trail.
+
+**Note:** In the absence of an allocated test manager for a project, refer to the system owner.
 
 By default:
 
@@ -41,9 +43,11 @@ By default:
 
 In exceptional circumstances, the use of live system data may be permitted. Permission to use live data is by exception only. A valid business case must be approved by the MOJ CISO, system assurer and the Information Asset Owner \(IAO\).
 
-A thorough risk assessment should be carried out to ensure where interdependent applications, systems, apis, BACS, XML, process etc., may be required, these are appropriately reviewed and security controls put in place.
+A thorough risk assessment should be carried out to ensure where interdependent applications, systems, services, APIs, BACS, XML, or processes, may be required, these are appropriately reviewed and security controls put in place.
 
 ## Anonymising data
+
+It might be acceptable to 'anonymise' the live data such that it can be used more safely for testing purposes. Consider:
 
 -   Is it possible to do this?
 -   What processes can you follow to generate acceptable data?
@@ -53,7 +57,7 @@ A thorough risk assessment should be carried out to ensure where interdependent 
 -   How do you ensure that production-like data is sufficient for testing purposes?
 -   What are the expectations regarding suppliers - for code, and for services?
 
-Examples of data that must be anonymised:
+If you are considering the anonymisation option, pay particular attention to specific types of data that are often sensitive. Examples of data that must be anonymised include:
 
 -   personal data revealing racial or ethnic origin
 -   personal data revealing political opinions
@@ -72,7 +76,7 @@ Examples of data that must be anonymised:
 
 This list is not exhaustive.
 
-Recommendations for anonymising data:
+In general, recommendations for anonymising data include:
 
 -   Replace with synthetic data.
 -   Suppress \(remove\) or obfuscate.
@@ -90,7 +94,7 @@ You might need to look at fair processing notices and take these into account ar
 
 **Note:** It may actually be illegal to perform planned tests if fair processing notices do not allow using the data for test purposes.
 
-Where the data involves personal information, help must be obtained from the MOJ Data Privacy team.
+Where the data involves personal information, help must be obtained from the MOJ Data Privacy team. At the very least, you are likely to have to revisit or update an existing Data Protection Impact Assessment.
 
 If there is no option to use live data some of the things that should be considered will include the following:
 
@@ -117,24 +121,28 @@ There are 6 lawful grounds for processing personal data:
 5.  processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller
 6.  processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child
 
+Data used for test purposes must still comply with all applicable GDPR constraints.
+
 ### Ensuring test data is GDPR compliant
 
--   Well-defined documentation of personal data information in all test environments
--   Effective data discovery to understand and unearth sensitive data information
--   Implementing the test data management process for the entire data life cycle that includes profiling, sub setting, masking, provisioning and archiving data in test environments
--   Ensuring an irreversible “on-the-fly” data masking process on production data to a centralized repository
--   Permission and alerts in place for data exports and access outside the region, as this is restricted
--   Prevent access to personal data from unauthorized access points
+If you are intending to seek a special exception for using live data, or if you have anonymised the data but still want to have a satisfactory level of Daat Privacy consideration, the follow points will help. Ensure that your test model has:
+
+-   Well-defined documentation of personal data information in all test environments.
+-   Effective data discovery to understand and unearth sensitive data information.
+-   Implemented a test data management process for the entire data life cycle that includes profiling, sub setting, masking, provisioning and archiving data in test environments.
+-   An irreversible 'on-the-fly' data masking process for production data within a repository.
+-   Permission and alerts in place for data exports and access outside the region, as this is restricted.
+-   Controls to prevent access to personal data from unauthorised access points, devices, or locations.
 
 ## If testing is to go ahead
 
 ### Developer access
 
-In a normal working environment, developers working on an application, platform or service would be segregated away from access to live/production data. They would never be able to see or manipulate this data. The use of live data for test purposes would potentially negate these controls.
+In a normal working environment, developers working on an application, platform or service would be segregated away from access to live/production data. They would never be able to see or manipulate this data. The use of live data for test purposes would potentially negate or bypass these controls.
 
-Also, developer roles are often specified as not requiring SC clearance of above. This applies also to external \(3rd party\) software suppliers generating bespoke applications or services. The assumption is that the developers do not ever have access to live data.
+Also, developer roles are often specified as not requiring [SC clearance or above](minimum-user-clearance-requirements-guide.md). This applies also to external \(3rd party\) software suppliers generating bespoke applications or services. The expectation is that the developers do not ever have access to live data.
 
-The use of live data for testing may mean that the clearance levels for developers on a given project would need review.
+The use of live data for testing may mean that the clearance levels for developers on a given project would need to be reviewed.
 
 ### Preparing for tests
 

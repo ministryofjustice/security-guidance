@@ -28,34 +28,36 @@
 			<p>Data used for testing purposes must have characteristics that are as close as possible to operational data. But that is not the same thing as needing to use live data.</p>
 			<p>Check whether you really need to use live data, by considering the following questions:
 			<ol>
-				<li>Speed: What are your time requirements for test data provisioning?</li>
-				<li>Cost: What is an acceptable cost to create, manage and archive test data?</li>
-				<li>Quality: What are the important factors to consider related to test data quality?</li>
-				<li>Security: What are the privacy implications of these two sources of test data?</li>
-				<li>Simplicity: Is it easy for testers to get the data they need for their tests?</li>
-				<li>Versatility: Can the test data be used by any testing tool or technology?</li>
+				<li><b>Speed:</b> What are your time requirements for test data provisioning?</li>
+				<li><b>Cost:</b> What is an acceptable cost to create, manage and archive test data?</li>
+				<li><b>Quality:</b> What are the important factors to consider related to test data quality?</li>
+				<li><b>Security:</b> What are the privacy implications of these two sources of test data?</li>
+				<li><b>Simplicity:</b> Is it easy for testers to get the data they need for their tests?</li>
+				<li><b>Versatility:</b> Can the test data be used by any testing tool or technology?</li>
 			</ol></p>
 			<p>The best test data simulates live operations data.
 			<note>It is important that test data is protected to the same standard as the live data. This is to ensure that details of the system design and operation are not compromised.</note></p>
-			<p>To protect test data; the following principles should be followed:
+			<p>To protect test data, the following principles should be followed:
 			<ul>
 				<li>The test manager must authorise the use of test data.</li>
 				<li>Test data should be erased from a testing environment immediately after the testing is complete or when no longer required.</li>
 				<li>The copying and use of test data should be logged to provide an audit trail.</li>
-			</ul></p>
+			</ul>
+			<note>In the absence of an allocated test manager for a project, refer to the system owner.</note>
+			</p>
 			<p>By default:
 			<ul>
 				<li>Data used for testing must not contain any live data.</li>
 				<li>Using live data containing personal information is prohibited.</li>
 			</ul></p>
 			<p>In exceptional circumstances, the use of live system data may be permitted. Permission to use live data is by exception only. A valid business case must be approved by the <ph conref="conrefs.dita#conrefs/moj"/> CISO, system assurer and the Information Asset Owner (IAO).</p>
-			<p>A thorough risk assessment should be carried out to ensure where interdependent applications, systems, apis, BACS, XML, process etc., may be required, these are appropriately reviewed and security controls put in place.</p>
+			<p>A thorough risk assessment should be carried out to ensure where interdependent applications, systems, services, APIs, BACS, XML, or processes, may be required, these are appropriately reviewed and security controls put in place.</p>
 		</body>
 	</topic>
 	<topic id="anonymising-data">
 		<title>Anonymising data</title>
 		<body>
-		<p>
+		<p>It might be acceptable to 'anonymise' the live data such that it can be used more safely for testing purposes. Consider:
 		<ul>
 			<li>Is it possible to do this?</li>
 			<li>What processes can you follow to generate acceptable data?</li>
@@ -66,25 +68,25 @@
 			<li>What are the expectations regarding suppliers - for code, and for services?</li>
 		</ul>
 		</p>
-		<p>Examples of data that must be anonymised:
+		<p>If you are considering the anonymisation option, pay particular attention to specific types of data that are often sensitive. Examples of data that must be anonymised include:
 		<ul>
-		<li>personal data revealing racial or ethnic origin</li>
-		<li>personal data revealing political opinions</li>
-		<li>personal data revealing religious or philosophical beliefs</li>
-		<li>personal data revealing trade union membership</li>
-		<li>genetic data</li>
-		<li>biometric data (where it can be used for identification purposes)</li>
-		<li>data concerning health</li>
-		<li>data concerning a person's sex life</li>
-		<li>data concerning a person's sexual orientatio</li>
-		<li>data concerning criminal offences</li>
-		<li>email addresses</li>
-		<li>bank details</li>
-		<li>telephone numbers</li>
-		<li>postal or residential addresses</li>
+			<li>personal data revealing racial or ethnic origin</li>
+			<li>personal data revealing political opinions</li>
+			<li>personal data revealing religious or philosophical beliefs</li>
+			<li>personal data revealing trade union membership</li>
+			<li>genetic data</li>
+			<li>biometric data (where it can be used for identification purposes)</li>
+			<li>data concerning health</li>
+			<li>data concerning a person's sex life</li>
+			<li>data concerning a person's sexual orientatio</li>
+			<li>data concerning criminal offences</li>
+			<li>email addresses</li>
+			<li>bank details</li>
+			<li>telephone numbers</li>
+			<li>postal or residential addresses</li>
 		</ul>
 		This list is not exhaustive.	</p>
-		<p>Recommendations for anonymising data:
+		<p>In general, recommendations for anonymising data include:
 		<ul>
 		<li>Replace with synthetic data.</li>
 		<li>Suppress (remove) or obfuscate.</li>
@@ -101,18 +103,18 @@
 		<p>Where a project is considering the use of live data for test purposes, it is essential to understand the data first, to be clear about what GDPR related factors apply.</p>
 		<p>You might need to look at fair processing notices and take these into account around the context of the tests being performed.
 		<note>It may actually be illegal to perform planned tests if fair processing notices do not allow using the data for test purposes.</note></p>
-		<p>Where the data involves personal information, help must be obtained from the MOJ Data Privacy team.</p>
+		<p>Where the data involves personal information, help must be obtained from the MOJ Data Privacy team. At the very least, you are likely to have to revisit or update an existing Data Protection Impact Assessment.</p>
 		<p>If there is no option to use live data some of the things that should be considered will include the following:
 		<ul>
-		<li>How will the data be extracted or obtained, and who will perform or oversee the extraction? What clearance do they have?</li>
-		<li>What controls are in place to extract the data?</li>
-		<li>Where is the data going to be extracted to? In other words, what media or mechanism will be used? For example, is the data extracted using electronic means such as SFTP, or is the data extracted to removable media, or does it remain 'in situ'?</li>
-		<li>How is this data going to be protected at rest and during transit?</li>
-		<li>What systems will the data be copied to, and in what environments?</li>
-		<li>What systems will the data be processed by?</li>
-		<li>How will access to this information be controlled both at rest and during transit for all systems that are involved in processing it?</li>
-		<li>What access controls are in place end to end?</li>
-		<li>Once testing is complete how will the data be removed/destroyed? What assurances do you have over this?</li>
+			<li>How will the data be extracted or obtained, and who will perform or oversee the extraction? What clearance do they have?</li>
+			<li>What controls are in place to extract the data?</li>
+			<li>Where is the data going to be extracted to? In other words, what media or mechanism will be used? For example, is the data extracted using electronic means such as SFTP, or is the data extracted to removable media, or does it remain 'in situ'?</li>
+			<li>How is this data going to be protected at rest and during transit?</li>
+			<li>What systems will the data be copied to, and in what environments?</li>
+			<li>What systems will the data be processed by?</li>
+			<li>How will access to this information be controlled both at rest and during transit for all systems that are involved in processing it?</li>
+			<li>What access controls are in place end to end?</li>
+			<li>Once testing is complete how will the data be removed/destroyed? What assurances do you have over this?</li>
 		</ul></p>
 		<p>If live data is being used for test purposes within the Production environment, then backups are key and the testing to make sure that backups can be quickly restored is a must. There needs to be a good rollback plan in place. There also has to be an appetite for risk acceptance.</p>
 		</body>
@@ -128,33 +130,34 @@
 				<li>processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller</li>
 				<li>processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child</li>
 			</ol></p>
+			<p>Data used for test purposes must still comply with all applicable GDPR constraints.</p>
 			</body>
 		</topic>
 		<topic id="ensuring-test-data-is-gdpr-compliant">
 			<title>Ensuring test data is GDPR compliant</title>
 			<body>
-			<p>
+			<p>If you are intending to seek a special exception for using live data, or if you have anonymised the data but still want to have a satisfactory level of Daat Privacy consideration, the follow points will help. Ensure that your test model has:
 			<ul>
-				<li>Well-defined documentation of personal data information in all test environments</li>
-				<li>Effective data discovery to understand and unearth sensitive data information</li>
-				<li>Implementing the test data management process for the entire data life cycle that includes profiling, sub setting, masking, provisioning and archiving data in test environments</li>
-				<li>Ensuring an irreversible “on-the-fly” data masking process on production data to a centralized repository</li>
-				<li>Permission and alerts in place for data exports and access outside the region, as this is restricted</li>
-				<li>Prevent access to personal data from unauthorized access points</li>
+				<li>Well-defined documentation of personal data information in all test environments.</li>
+				<li>Effective data discovery to understand and unearth sensitive data information.</li>
+				<li>Implemented a test data management process for the entire data life cycle that includes profiling, sub setting, masking, provisioning and archiving data in test environments.</li>
+				<li>An irreversible 'on-the-fly' data masking process for production data within a repository.</li>
+				<li>Permission and alerts in place for data exports and access outside the region, as this is restricted.</li>
+				<li>Controls to prevent access to personal data from unauthorised access points, devices, or locations.</li>
 			</ul>
 			</p>
 			</body>
 		</topic>
 	</topic>
-	<topic id="ff-testing-is-to-go-ahead">
+	<topic id="if-testing-is-to-go-ahead">
 		<title>If testing is to go ahead</title>
 		<body/>
 		<topic id="developer-access">
 			<title>Developer access</title>
 			<body>
-				<p>In a normal working environment, developers working on an application, platform or service would be segregated away from access to live/production data. They would never be able to see or manipulate this data. The use of live data for test purposes would potentially negate these controls.</p>
-				<p>Also, developer roles are often specified as not requiring SC clearance of above. This applies also to external (3rd party) software suppliers generating bespoke applications or services. The assumption is that the developers do not ever have access to live data.</p>
-				<p>The use of live data for testing may mean that the clearance levels for developers on a given project would need review.</p>
+				<p>In a normal working environment, developers working on an application, platform or service would be segregated away from access to live/production data. They would never be able to see or manipulate this data. The use of live data for test purposes would potentially negate or bypass these controls.</p>
+				<p>Also, developer roles are often specified as not requiring <xref href="minimum-user-clearance-requirements-guide.dita" format="dita">SC clearance or above</xref>. This applies also to external (3rd party) software suppliers generating bespoke applications or services. The expectation is that the developers do not ever have access to live data.</p>
+				<p>The use of live data for testing may mean that the clearance levels for developers on a given project would need to be reviewed.</p>
 			</body>
 		</topic>
 		<topic id="preparing-for-tests">
