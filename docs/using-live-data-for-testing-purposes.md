@@ -75,7 +75,7 @@ If you are considering the anonymisation option, pay particular attention to spe
 -   biometric data \(where it can be used for identification purposes\)
 -   data concerning health
 -   data concerning a person's sex life
--   data concerning a person's sexual orientatio
+-   data concerning a person's sexual orientation
 -   data concerning criminal offences
 -   email addresses
 -   bank details
