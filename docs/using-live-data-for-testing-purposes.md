@@ -2,7 +2,9 @@
 
 ## Summary
 
-This document describes the use of live data during testing of Ministry of Justice \(MOJ\) systems. In general, using live data for testing purposes is considered bad practice. By default, the MOJ does not permit testing using live data. It is highly likely that using live data for testing purposes would not be compliant with GDPR.
+This document describes the use of live data during testing of Ministry of Justice \(MOJ\) systems. In general, using live data for testing purposes is considered bad practice. By default, the MOJ does not permit testing using live data. It is highly likely that simply using live data for testing purposes would not be compliant with GDPR.
+
+Following this guidance will help you avoid problems, but cannot guarantee that you have addressed all the concerns. You must carry out a full Data Protection Impact Assessment.
 
 ## Who is this for?
 
@@ -12,6 +14,10 @@ This guide is aimed at two audiences:
 2.  Any other MOJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services \(including processing, transmitting and storing data\) for, or on behalf of the MOJ.
 
 ## Do you really need to use live data?
+
+According to [Information Commissioners Office](https://ico.org.uk/), you may use either live or dummy data to test your products so long as they are compliant with data protection law. However, using dummy data may be preferable as it does not carry any risk to data subjects.
+
+If you are processing live data, you will need to complete a Data Protection Impact Assessment beforehand if there is a possibility of risk to the data subject. The ICO has helpful information about using a [Sandbox](https://ico.org.uk/for-organisations/the-guide-to-the-sandbox/) to help utilise personal data safely.
 
 Data used for testing purposes must have characteristics that are as close as possible to operational data. But that is not the same thing as needing to use live data.
 
@@ -43,7 +49,9 @@ By default:
 
 In exceptional circumstances, the use of live system data may be permitted. Permission to use live data is by exception only. A valid business case must be approved by the MOJ CISO, system assurer and the Information Asset Owner \(IAO\).
 
-A thorough risk assessment should be carried out to ensure where interdependent applications, systems, services, APIs, BACS, XML, or processes, may be required, these are appropriately reviewed and security controls put in place.
+The Information Asset Owner must ensure that live data will be used lawfully, fairly and in a transparent manner in the interest of the data subject.
+
+A thorough risk assessment, and a Data Protection Impact Assessment, should be carried out to ensure where interdependent applications, systems, services, APIs, BACS, XML, or processes, may be required, these are appropriately reviewed and security controls put in place.
 
 ## Anonymising data
 
@@ -84,6 +92,8 @@ In general, recommendations for anonymising data include:
 
 ## Data Privacy considerations
 
+The use of live data for testing, where the data contains personal information, is almost certainly incompatible with the initial specified, explicit and legitimate purpose\(s\) known to data subjects. In effect, the data subject didn't know that their data would be used for test purposes.
+
 There are sometimes valid reasons when you do need to use live data for test purposes but they are normally the exception rather than the norm and typically looked at on a case by case basis where appropriate risk management calls can be taken.
 
 Looking at datasets being pulled out of databases are a prime example of where you may need to use live data to make sure that a software application is functioning correctly. For some things it is not always possible to use synthetic data.
@@ -94,9 +104,9 @@ You might need to look at fair processing notices and take these into account ar
 
 **Note:** It may actually be illegal to perform planned tests if fair processing notices do not allow using the data for test purposes.
 
-Where the data involves personal information, help must be obtained from the MOJ Data Privacy team. At the very least, you are likely to have to revisit or update an existing Data Protection Impact Assessment.
+Where the data involves personal information, help must be obtained from the MOJ Data Privacy team. At the very least, you must revisit or update an existing Data Protection Impact Assessment.
 
-If there is no option to use live data some of the things that should be considered will include the following:
+If there is no option apart from using live data, some of the things that should be considered will include the following:
 
 -   How will the data be extracted or obtained, and who will perform or oversee the extraction? What clearance do they have?
 -   What controls are in place to extract the data?
@@ -110,22 +120,9 @@ If there is no option to use live data some of the things that should be conside
 
 If live data is being used for test purposes within the Production environment, then backups are key and the testing to make sure that backups can be quickly restored is a must. There needs to be a good rollback plan in place. There also has to be an appetite for risk acceptance.
 
-### GDPR
-
-There are 6 lawful grounds for processing personal data:
-
-1.  the data subject has given consent to the processing of his or her personal data for one or more specific purposes
-2.  processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract
-3.  processing is necessary for compliance with a legal obligation to which the controller is subject
-4.  processing is necessary in order to protect the vital interests of the data subject or of another natural person
-5.  processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller
-6.  processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child
-
-Data used for test purposes must still comply with all applicable GDPR constraints.
-
 ### Ensuring test data is GDPR compliant
 
-If you are intending to seek a special exception for using live data, or if you have anonymised the data but still want to have a satisfactory level of Daat Privacy consideration, the follow points will help. Ensure that your test model has:
+If you are intending to seek a special exception for using live data, or if you have anonymised the data but still want to have a satisfactory level of Data Privacy consideration, the follow points will help. Ensure that your test model has:
 
 -   Well-defined documentation of personal data information in all test environments.
 -   Effective data discovery to understand and unearth sensitive data information.

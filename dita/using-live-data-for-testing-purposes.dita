@@ -9,7 +9,8 @@
 		<body>
 		<p>This document describes the use of live data during testing of <ph conref="conrefs.dita#conrefs/mojlong"/> systems.
 		In general, using live data for testing purposes is considered bad practice. By default, the <ph conref="conrefs.dita#conrefs/moj"/> does not permit testing using live data.
-		It is highly likely that using live data for testing purposes would not be compliant with GDPR.</p>
+		It is highly likely that simply using live data for testing purposes would not be compliant with GDPR.</p>
+		<p>Following this guidance will help you avoid problems, but cannot guarantee that you have addressed all the concerns. You must carry out a full Data Protection Impact Assessment.</p>
 		</body>
 	</topic>
 	<topic id="who-is-this-for">
@@ -25,6 +26,8 @@
 	<topic id="do-you-really-need-to-use-live-data">
 		<title>Do you really need to use live data?</title>
 		<body>
+			<p>According to <xref href="https://ico.org.uk/" format="html" scope="external">Information Commissioners Office</xref>, you may use either live or dummy data to test your products <u>so long as they are compliant with data protection law</u>. However, using dummy data may be preferable as it does not carry any risk to data subjects.</p>
+			<p>If you are processing live data, you will need to complete a Data Protection Impact Assessment beforehand if there is a possibility of risk to the data subject. The ICO has helpful information about using a <xref href="https://ico.org.uk/for-organisations/the-guide-to-the-sandbox/" format="html" scope="external">Sandbox</xref> to help utilise personal data safely.</p>
 			<p>Data used for testing purposes must have characteristics that are as close as possible to operational data. But that is not the same thing as needing to use live data.</p>
 			<p>Check whether you really need to use live data, by considering the following questions:
 			<ol>
@@ -51,7 +54,8 @@
 				<li>Using live data containing personal information is prohibited.</li>
 			</ul></p>
 			<p>In exceptional circumstances, the use of live system data may be permitted. Permission to use live data is by exception only. A valid business case must be approved by the <ph conref="conrefs.dita#conrefs/moj"/> CISO, system assurer and the Information Asset Owner (IAO).</p>
-			<p>A thorough risk assessment should be carried out to ensure where interdependent applications, systems, services, APIs, BACS, XML, or processes, may be required, these are appropriately reviewed and security controls put in place.</p>
+			<p>The Information Asset Owner must ensure that live data will be used lawfully, fairly and in a transparent manner in the interest of the data subject.</p>
+			<p>A thorough risk assessment, and a Data Protection Impact Assessment, should be carried out to ensure where interdependent applications, systems, services, APIs, BACS, XML, or processes, may be required, these are appropriately reviewed and security controls put in place.</p>
 		</body>
 	</topic>
 	<topic id="anonymising-data">
@@ -98,13 +102,14 @@
 	<topic id="data-privacy-considerations">
 		<title>Data Privacy considerations</title>
 		<body>
-		<p>	There are sometimes valid reasons when you do need to use live data for test purposes but they are normally the exception rather than the norm and typically looked at on a case by case basis where appropriate risk management calls can be taken.</p>
+		<p>The use of live data for testing, where the data contains personal information, is almost certainly incompatible with the initial specified, explicit and legitimate purpose(s) known to data subjects. In effect, the data subject didn't know that their data would be used for test purposes.</p>
+		<p>There are sometimes valid reasons when you do need to use live data for test purposes but they are normally the exception rather than the norm and typically looked at on a case by case basis where appropriate risk management calls can be taken.</p>
 		<p>Looking at datasets being pulled out of databases are a prime example of where you may need to use live data to make sure that a software application is functioning correctly. For some things it is not always possible to use synthetic data.</p>
 		<p>Where a project is considering the use of live data for test purposes, it is essential to understand the data first, to be clear about what GDPR related factors apply.</p>
 		<p>You might need to look at fair processing notices and take these into account around the context of the tests being performed.
 		<note>It may actually be illegal to perform planned tests if fair processing notices do not allow using the data for test purposes.</note></p>
-		<p>Where the data involves personal information, help must be obtained from the MOJ Data Privacy team. At the very least, you are likely to have to revisit or update an existing Data Protection Impact Assessment.</p>
-		<p>If there is no option to use live data some of the things that should be considered will include the following:
+		<p>Where the data involves personal information, help must be obtained from the MOJ Data Privacy team. At the very least, you must revisit or update an existing Data Protection Impact Assessment.</p>
+		<p>If there is no option apart from using live data, some of the things that should be considered will include the following:
 		<ul>
 			<li>How will the data be extracted or obtained, and who will perform or oversee the extraction? What clearance do they have?</li>
 			<li>What controls are in place to extract the data?</li>
@@ -118,7 +123,7 @@
 		</ul></p>
 		<p>If live data is being used for test purposes within the Production environment, then backups are key and the testing to make sure that backups can be quickly restored is a must. There needs to be a good rollback plan in place. There also has to be an appetite for risk acceptance.</p>
 		</body>
-		<topic id="gdpr">
+		<!--  <topic id="gdpr">
 			<title>GDPR</title>
 			<body>
 			<p>There are 6 lawful grounds for processing personal data:
@@ -132,11 +137,11 @@
 			</ol></p>
 			<p>Data used for test purposes must still comply with all applicable GDPR constraints.</p>
 			</body>
-		</topic>
+		</topic>  -->
 		<topic id="ensuring-test-data-is-gdpr-compliant">
 			<title>Ensuring test data is GDPR compliant</title>
 			<body>
-			<p>If you are intending to seek a special exception for using live data, or if you have anonymised the data but still want to have a satisfactory level of Daat Privacy consideration, the follow points will help. Ensure that your test model has:
+			<p>If you are intending to seek a special exception for using live data, or if you have anonymised the data but still want to have a satisfactory level of Data Privacy consideration, the follow points will help. Ensure that your test model has:
 			<ul>
 				<li>Well-defined documentation of personal data information in all test environments.</li>
 				<li>Effective data discovery to understand and unearth sensitive data information.</li>
