@@ -6,7 +6,7 @@ This Minimum User Clearance Requirements Guide outlines the level of security cl
 
 ## Security clearance levels
 
-The MOJ uses the [national security vetting clearance levels](https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels):
+The Ministry of Justice \(MOJ\) uses the [national security vetting clearance levels](https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels):
 
 -   Baseline Personnel Security Standard \(BPSS\)
 -   Counter Terrorist Check \(CTC\)
