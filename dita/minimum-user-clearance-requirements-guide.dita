@@ -14,7 +14,7 @@ for staff in order to access specific account types. This is a sub-page to the <
   <topic id="security-clearance-levels">
   	<title>Security clearance levels</title>
   	<body>
-  	<p>The <ph conref="conrefs.dita#conrefs/moj"/> uses the <xref href="https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels" format="html" scope="external">national security vetting clearance levels</xref>:
+  	<p>The <ph conref="conrefs.dita#conrefs/mojlong"/> uses the <xref href="https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels" format="html" scope="external">national security vetting clearance levels</xref>:
   	<ul>
   		<li>Baseline Personnel Security Standard (BPSS)</li>
   		<li>Counter Terrorist Check (CTC)</li>
