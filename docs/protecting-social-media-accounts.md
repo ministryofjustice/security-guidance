@@ -48,7 +48,7 @@ Only use applications that are trusted and approved for use with your social med
 
 ### Remove 'unused' applications
 
-People tend not be very good at removing old or rarely used applications. Older applications should be checked regularly to see if there are any updates.
+People tend not to be very good at removing old or rarely used applications. Older applications should be checked regularly to see if there are any updates.
 
 A good habit is to check your applications once a month or so, and consider:
 
