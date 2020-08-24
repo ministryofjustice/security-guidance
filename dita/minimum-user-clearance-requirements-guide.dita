@@ -11,38 +11,36 @@
 for staff in order to access specific account types.<ph audience="audience-tech"> This is a sub-page to the <xref href="access-control-guide.dita" format="dita" type="topic">Access Control Guide</xref>.</ph></p>
     </body>
   </topic>
+  <topic id="security-clearance-levels">
+  	<title>Security clearance levels</title>
+  	<body>
+  	<p>The <ph conref="conrefs.dita#conrefs/mojlong"/> uses the <xref href="https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels" format="html" scope="external">national security vetting clearance levels</xref>:
+  	<ul>
+  		<li>Baseline Personnel Security Standard (BPSS)</li>
+  		<li>Counter Terrorist Check (CTC)</li>
+  		<li>Security Check (SC)</li>
+  		<li>Developed Vetting (DV)</li>
+  	</ul></p>
+  	<p>Where appropriate, Enhanced checks apply, for example Enhanced Security Check (eSC).</p>
+  	</body>
+  </topic>
   <topic id="minimum-user-clearance-requirements">
     <title>Minimum user clearance requirements</title>
     <body>
-      <p>Most of the <ph conref="conrefs.dita#conrefs/mojlong"/> IT systems are able to process <codeph>OFFICIAL</codeph> information. Therefore all roles in the <ph conref="conrefs.dita#conrefs/moj"/>
-require staff to attain Baseline Personnel Security Standard (BPSS) clearance as a minimum to be
+      <p>Most of the <ph conref="conrefs.dita#conrefs/moj"/> IT systems are able to process <codeph>OFFICIAL</codeph> information. Therefore all roles in the <ph conref="conrefs.dita#conrefs/moj"/>
+require staff to attain BPSS clearance as a minimum to be
 granted access rights to view <codeph>OFFICIAL</codeph> information. Some roles require staff to have higher clearance.</p>
       <p>For an individual to perform any of the following tasks, clearance higher than BPSS is required:</p>
       <ul>
-        <li>
-          <p>Has long term, regular, unsupervised access to data centres or communications rooms</p>
-        </li>
-        <li>
-          <p>Has regular privileged unsupervised and unconstrained access to systems which contain data for multiple <ph conref="conrefs.dita#conrefs/moj"/> systems, for example backups, or console access to multiple cloud services</p>
-        </li>
-        <li>
-          <p>Has cryptography responsibilities and handling, under advice from the Crypto Custodian</p>
-        </li>
-        <li>
-          <p>Has access to multiple system security testing outcomes which reveal vulnerabilities in live services</p>
-        </li>
-        <li>
-          <p>Has a role such as system support or IT investigation role, such that without further authority or authorisation, an individual might:</p>
+        <li>Has long term, regular, unsupervised access to data centres or communications rooms.</li>
+        <li>Has regular privileged unsupervised and unconstrained access to systems which contain data for multiple <ph conref="conrefs.dita#conrefs/moj"/> systems, for example backups, or console access to multiple cloud services.</li>
+        <li>Has cryptography responsibilities and handling, under advice from the Crypto Custodian.</li>
+        <li>Has access to multiple system security testing outcomes which reveal vulnerabilities in live services.</li>
+        <li>Has a role such as system support or IT investigation role, such that without further authority or authorisation, an individual might:
           <ul>
-            <li>
-              <p>act as another user</p>
-            </li>
-            <li>
-              <p>obtain credentials for another user</p>
-            </li>
-            <li>
-              <p>directly access other users' data</p>
-            </li>
+            <li>Act as another user.</li>
+            <li>Obtain credentials for another user.</li>
+            <li>Directly access other users' data.</li>
           </ul>
         </li>
       </ul>

@@ -101,19 +101,22 @@
 ## Add an existing Git repository (your local copy) into a project
 
 1. Click the File menu, and select the Import option.
-2. Expand the General twisty.
-3. Select the File System option, and click `Next>`.
-4. Click the Browse button next to the 'From directory:' field, and navigate to the directory on your system containing your local copy of the Git repository.
-5. Click the Open button.
-6. Select the checkbox next to the name of the directory containing your local copy of the Git repository, for example `security-guidance`.
-7. Click Finish.
-8. When asked if you want to overwrite the `.project` file, click Yes.
-9. In the Project Explorer window, expand the `MySecurityGuidanceProject` twisty.
-10. Expand the `dita` directory.
-11. Check that all the dita files have little icons with 'X' characters. This shows that the files are recognised as holding XML (DITA) content.
-12. Double click on any dita file, to open it.
-13. By default, the XML editor opens an XML file in 'design' mode, which shows the logical structure. Click the Source tab to show the actual XML file.
-14. If everything has worked correctly, the dita file is opened with colour highlighting showing that the XML is understood and valid (thanks to the XML Catalog information provided earlier).
+2. Expand the Git twisty.
+3. Select the Project from Git option, and click `Next>`.
+4. Click `Existing local repository`, and click `Next>`.
+5. Click the `Add` button.
+6. Navigate to the directory on your system containing your local copy of the Git repository.
+7. Click the checkbox under the search results, next to the dirctory containing your repository.
+8. Click `Finish`.
+9. In the `Select Git Repository` window, select your newly added respository, then click `Next>`.
+10. Under `Wizard for project import`, select `Import as general project`, then click `Next>`.
+11. Enter a project name, then click `Finish>`.
+12. In the Project Explorer window, expand the `MySecurityGuidanceProject` twisty.
+13. Expand the `dita` directory.
+14. Check that all the dita files have little icons with 'X' characters. This shows that the files are recognised as holding XML (DITA) content.
+15. Double click on any dita file, to open it.
+16. By default, the XML editor opens an XML file in 'design' mode, which shows the logical structure. Click the Source tab to show the actual XML file.
+17. If everything has worked correctly, the dita file is opened with colour highlighting showing that the XML is understood and valid (thanks to the XML Catalog information provided earlier).
 
 ## Running a local DITA build
 

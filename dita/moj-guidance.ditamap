@@ -13,6 +13,7 @@
 			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
 			<topicref href="multi-factor-authentication-mfa-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="privileged-account-management-guide.dita" type="topic" audience="audience-tech"/>
+			<topicref href="protecting-social-media-accounts.dita" type="topic"/>
 		</topichead>
 		<topichead navtitle="Asset Management">
 			<topicref href="general-advice-on-taking-equipment-abroad.dita" type="topic"/>
@@ -39,6 +40,7 @@
 			<topicref href="secure-by-default.dita" type="topic" audience="audience-tech"/>
 			<topicref href="security-log-collection.dita" type="topic" audience="audience-tech"/>
 			<topicref href="shared-responsibility-models.dita" type="topic" audience="audience-tech"/>
+			<topicref href="using-live-data-for-testing-purposes.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 	</topichead>
 	<topichead navtitle="Standards">

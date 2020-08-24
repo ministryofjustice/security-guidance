@@ -8,14 +8,18 @@ The MOJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 20 August 2020.
+This guidance is dated: 24 August 2020.
 
+<<<<<<< HEAD
 For convenience, offline versions of this guidance are available as PDF files:
 
 -   [Content for all users](https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf)
 -   [Content for technical users \(includes material for all users\)](https://ministryofjustice.github.io/security-guidance/moj-guidance-tech.pdf)
 
 The PDF versions of this guidance are time-limited, and are not valid after 20 September 2020.
+=======
+For convenience, an offline version of this guidance is available as a PDF file, [here](https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf). The PDF version of this guidance is time-limited, and is not valid after 24 September 2020.
+>>>>>>> master
 
 ### Background
 
@@ -54,6 +58,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |||[Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)|All users|
 |||[Multi-Factor Authentication](multi-factor-authentication-mfa-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Privileged Account Management Guide](privileged-account-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Protecting Social Media Accounts](protecting-social-media-accounts.md)|All users|
 ||Asset Management|[General User Video and Messaging Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
 |||[Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md)|All users|
 |||[Lost Laptop or other IT security incident](lost-laptophardware.md)|All users|
@@ -72,6 +77,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |||[Secure by Default](secure-by-default.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Security Log Collection](security-log-collection.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Shared Responsibility Models](shared-responsibility-models.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Using Live Data for Testing purposes](using-live-data-for-testing-purposes.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 ## Standards
 
