@@ -10,16 +10,12 @@ The MOJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 This guidance is dated: 24 August 2020.
 
-<<<<<<< HEAD
 For convenience, offline versions of this guidance are available as PDF files:
 
 -   [Content for all users](https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf)
 -   [Content for technical users \(includes material for all users\)](https://ministryofjustice.github.io/security-guidance/moj-guidance-tech.pdf)
 
-The PDF versions of this guidance are time-limited, and are not valid after 20 September 2020.
-=======
-For convenience, an offline version of this guidance is available as a PDF file, [here](https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf). The PDF version of this guidance is time-limited, and is not valid after 24 September 2020.
->>>>>>> master
+The PDF versions of this guidance are time-limited, and are not valid after 24 September 2020.
 
 ### Background
 
