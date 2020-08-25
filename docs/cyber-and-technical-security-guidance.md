@@ -53,8 +53,8 @@ Documents have been developed and defined within this taxonomy, and are listed i
 |||[General User Video and Messaging Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
 |||[Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md)|All users|
 |||[Lost Laptop or other IT security incident](lost-laptophardware.md)|All users|
-|||[Security Guidance for Using a Personal Device](personal-devices.md)|All users|
 |||[Remote Working](remote-working.md)|All users|
+|||[Security Guidance for Using a Personal Device](personal-devices.md)|All users|
 ||Cryptography|[Cryptography](cryptography.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 ||Operational Security|[Malware Protection Guide \(Overview\)](malware-protection-guide-introduction.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Malware Protection Guide: Defensive Layer 1](malware-protection-guidance-defensive-layer-1.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
