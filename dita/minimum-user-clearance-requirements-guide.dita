@@ -49,6 +49,18 @@ granted access rights to view <codeph>OFFICIAL</codeph> information. Some roles 
       <p>Please contact the Cyber Assistance Team and refer to the <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/" format="html" scope="external">Vetting Policy</xref> for further information.</p>
     </body>
   </topic>
+  <topic id="checking-someones-clearance-status">
+  	<title>Checking someone's clearance status</title>
+  	<body>
+  		<p>To check someone's clearance status, collect the following information:
+  		<ul>
+  			<li>Their firstname.</li>
+  			<li>Their lastname.</li>
+  			<li>Their date of birth.</li>
+ 		</ul></p>
+ 		<p>Send this information to the <ph conref="conrefs.dita#conrefs/moj"/> Group Security Team, by emailing: <ph conref="conrefs.dita#conrefs/groupsecurity"/>. The team will check with the Cluster, to determine the individual's clearance status, if any. If you are authorised to receive the answer, the team will reply to you with the answer.</p>
+  	</body>
+  </topic>
   <topic id="contact-details">
     <title>Contact details</title>
     <body>
