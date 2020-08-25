@@ -4,7 +4,8 @@
 <topic id="email">
   <title>Email</title>
   <body>
-    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> D&amp;T Cybersecurity team can be reached via <xref href="mailto:cybersecurity@digital.justice.gov.uk" format="email" scope="external">cybersecurity@digital.justice.gov.uk</xref>.</p>
+  	<p>For general assistance on <ph conref="conrefs.dita#conrefs/mojlong"/> security matters, email <ph conref="conrefs.dita#conrefs/securityat"/>.</p>
+  	<p>For Cyber Security assistance or consulting, email <ph conref="conrefs.dita#conrefs/catemail"/>.</p>
     <p>Suppliers to the <ph conref="conrefs.dita#conrefs/moj"/> should primarily contact your usual <ph conref="conrefs.dita#conrefs/moj"/> points of contact.</p>
   </body>
 </topic>

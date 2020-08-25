@@ -9,8 +9,9 @@
 			<ph id="moj">MOJ</ph>
 			<ph id="securityat"><xref href="mailto:security@digital.justice.gov.uk" format="email" scope="external">security@digital.justice.gov.uk</xref></ph>
 			<ph id="ostat"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
+			<ph id="catemail"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></ph>
 		</p>
-		<p id="contactcatbyemail">Contact the Cyber Assistance Team by email: <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></p>
+		<p id="contactcatbyemail">Contact the Cyber Assistance Team by email: <ph conref="#conrefs/catemail"/></p>
 	</body>
 
 <!-- Contacts -->
