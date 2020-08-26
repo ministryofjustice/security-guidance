@@ -65,3 +65,4 @@ There are several password managers used within the MOJ. [LastPass](https://www.
 
 For individual use, have a look at LastPass and 1Password. See which one you like best, and try it out. When you decide on a password manager, request approval from your line manager to install and use it: "I'm planning to install and use XYZ to manage my passwords, is that OK?".
 
+See also: [Using LastPass Enterprise](using-lastpass.md)
