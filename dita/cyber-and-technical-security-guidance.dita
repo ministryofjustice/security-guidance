@@ -14,7 +14,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <note>
       <p>This guidance is dated: <ph conref="tstamp.dita#tstamp/tstamp"/>.</p>
       <p platform="html">For convenience, an offline version of this guidance is available as a PDF file, <xref href="https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf" format="pdf" scope="external">here</xref>. The PDF version of this guidance is time-limited, and is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
-      <p platform="pdf">This offline version of the guidance is available as a PDF file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, see <xref href="https://ministryofjustice.github.io/security-guidance/" format="html" scope="external">here</xref>.</p>
+      <p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, see <xref href="https://ministryofjustice.github.io/security-guidance/" format="html" scope="external">here</xref>.</p>
       </note>
     </body>
     <topic id="background">
