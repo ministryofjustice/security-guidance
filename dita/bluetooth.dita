@@ -18,28 +18,83 @@
 				<li>you are aware of the problems around Bluetooth, and can take the necessary safety precautions</li>
 			</ul>
 			</p>
+			<p><note importance="high">Remember that there might be local rules that apply regarding the use of Bluetooth devices. A good example is in Prisons, where use of Bluetooth would not be available by default. Ensure that you check with local requirements.</note></p>
 		</body>
 	</topic>
 	<topic id="bluetooth-devices-and-risks">
 		<title>Bluetooth devices and risks</title>
 		<body>
-			<p>Examples of Bluetooth devices include:
-			<ul>
-				<li>Keyboards</li>
-				<li>Mice</li>
-				<li>Telephone headsets</li>
-				<li>Headphones</li>
-				<li>Earbuds</li>
-				<li>Trackpads</li>
-				<li>External speakers</li>
-				<li>Gaming joysticks and controllers</li>
-				<li>Laptops</li>
-				<li>Hearing aids</li>
-				<li>Watches and Fitness bands</li>
-				<li>Smart TVs</li>
-				<li>Storage devices (similar to USB 'thumb' drives)</li>
-			</ul>
-			</p>
+			<p>Examples of Bluetooth devices, and whether they might be used for business purposes, are as follows:
+			<table>
+				<tgroup cols="2">
+					<colspec colname="col1" colnum="1"/>
+					<colspec colname="col2" colnum="2"/>
+					<thead>
+						<row>
+							<entry colname="col1">Bluetooth device</entry>
+							<entry colname="col2">Suitable for <ph conref="conrefs.dita#conrefs/moj"/> work purposes (Y/n)</entry>
+						</row>
+					</thead>
+					<tbody>
+						<row>
+							<entry colname="col1">Keyboards</entry>
+							<entry colname="col2">Y</entry>
+						</row>
+						<row>
+							<entry colname="col1">Mouse</entry>
+							<entry colname="col2">Y</entry>
+						</row>
+						<row>
+							<entry colname="col1">Telephone headsets</entry>
+							<entry colname="col2">Y</entry>
+						</row>
+						<row>
+							<entry colname="col1">Headphones</entry>
+							<entry colname="col2">Y</entry>
+						</row>
+						<row>
+							<entry colname="col1">Earbuds</entry>
+							<entry colname="col2">Y</entry>
+						</row>
+						<row>
+							<entry colname="col1">Trackpads</entry>
+							<entry colname="col2">N - but exception possible for Accessibility reasons</entry>
+						</row>
+						<row>
+							<entry colname="col1">External speakers</entry>
+							<entry colname="col2">N - but exception possible for Accessibility reasons</entry>
+						</row>
+						<row>
+							<entry colname="col1">Gaming joysticks and controllers</entry>
+							<entry colname="col2">N - but exception possible for Accessibility reasons</entry>
+						</row>
+						<row>
+							<entry colname="col1">Laptops</entry>
+							<entry colname="col2">Y - for <ph conref="conrefs.dita#conrefs/moj"/>-issued devices</entry>
+						</row>
+						<row>
+							<entry colname="col1">Hearing aids</entry>
+							<entry colname="col2">Y</entry>
+						</row>
+						<row>
+							<entry colname="col1">Watches and Fitness bands</entry>
+							<entry colname="col2">N</entry>
+						</row>
+						<row>
+							<entry colname="col1">Smart TVs</entry>
+							<entry colname="col2">N</entry>
+						</row>
+						<row>
+							<entry colname="col1">Storage devices (similar to USB 'thumb' drives)</entry>
+							<entry colname="col2">N</entry>
+						</row>
+						<row>
+							<entry colname="col1">Internet-of-things 'Smart speakers'</entry>
+							<entry colname="col2">N</entry>
+						</row>
+						</tbody>
+					</tgroup>
+				</table></p>
 			<p>A Bluetooth device might be at risk from any of the following:
 			<ul>
 				<li>Eavesdropping</li>
@@ -68,6 +123,7 @@
 				<li>Have you connected to any other 'public' Bluetooth devices?</li>
 				<li>Are all the devices password protected?</li>
 				<li>Might someone be able to see what Bluetooth devices you are using?</li>
+				<li>Is the material you are working with <codeph>OFFICIAL-SENSITIVE</codeph>?</li>
 			</ul>
 			</p>
 			<p>The best way to ensure your Bluetooth device is as up-to-date as possible is to apply all patches and fixes for all hardware devices as soon as you can.</p>
@@ -77,6 +133,7 @@
 			<p>At regular intervals, check to see what Bluetooth devices are 'known' to your devices. Remove any you don't recognise.</p>
 			<p>Make sure you only connect to known devices when in public places. Always ensure that you are at home, office, or a known isolated place before switching on your Bluetooth.</p>
 			<p>If someone can see what Bluetooth devices you have, or are using, they might try and use one of their device to intercept or monitor the connection. Try to keep Bluetooth devices out of sight so that no-one knows which ones you might actually be using. Even the bright blue light Bluetooth devices illuminate when they are connected might draw unwanted attention.</p>
+			<p>Generally speaking, Bluetooth devices do not present extra problems when working with <codeph>OFFICIAL</codeph> material. However, the whole point of Bluetooth is to enable and simplify communications, so you need to be extra careful when using Bluetooth devices while working on <codeph>OFFICIAL-SENSITIVE</codeph> material.</p>
 		</body>
 	</topic>
 	<topic id="getting-more-help">

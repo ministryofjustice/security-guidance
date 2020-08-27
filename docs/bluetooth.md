@@ -16,23 +16,28 @@ The aim is to help you maintain the Confidentiality, Integrity and Availability 
 -   you can connect devices using Bluetooth, safely
 -   you are aware of the problems around Bluetooth, and can take the necessary safety precautions
 
+**Note:** Remember that there might be local rules that apply regarding the use of Bluetooth devices. A good example is in Prisons, where use of Bluetooth would not be available by default. Ensure that you check with local requirements.
+
 ## Bluetooth devices and risks
 
-Examples of Bluetooth devices include:
+Examples of Bluetooth devices, and whether they might be used for business purposes, are as follows:
 
--   Keyboards
--   Mice
--   Telephone headsets
--   Headphones
--   Earbuds
--   Trackpads
--   External speakers
--   Gaming joysticks and controllers
--   Laptops
--   Hearing aids
--   Watches and Fitness bands
--   Smart TVs
--   Storage devices \(similar to USB 'thumb' drives\)
+|Bluetooth device|Suitable for MOJ work purposes \(Y/n\)|
+|----------------|--------------------------------------|
+|Keyboards|Y|
+|Mouse|Y|
+|Telephone headsets|Y|
+|Headphones|Y|
+|Earbuds|Y|
+|Trackpads|N - but exception possible for Accessibility reasons|
+|External speakers|N - but exception possible for Accessibility reasons|
+|Gaming joysticks and controllers|N - but exception possible for Accessibility reasons|
+|Laptops|Y - for MOJ-issued devices|
+|Hearing aids|Y|
+|Watches and Fitness bands|N|
+|Smart TVs|N|
+|Storage devices \(similar to USB 'thumb' drives\)|N|
+|Internet-of-things 'Smart speakers'|N|
 
 A Bluetooth device might be at risk from any of the following:
 
@@ -59,6 +64,7 @@ Before using a Bluetooth device in a work context, consider the following:
 -   Have you connected to any other 'public' Bluetooth devices?
 -   Are all the devices password protected?
 -   Might someone be able to see what Bluetooth devices you are using?
+-   Is the material you are working with `OFFICIAL-SENSITIVE`?
 
 The best way to ensure your Bluetooth device is as up-to-date as possible is to apply all patches and fixes for all hardware devices as soon as you can.
 
@@ -73,6 +79,8 @@ At regular intervals, check to see what Bluetooth devices are 'known' to your de
 Make sure you only connect to known devices when in public places. Always ensure that you are at home, office, or a known isolated place before switching on your Bluetooth.
 
 If someone can see what Bluetooth devices you have, or are using, they might try and use one of their device to intercept or monitor the connection. Try to keep Bluetooth devices out of sight so that no-one knows which ones you might actually be using. Even the bright blue light Bluetooth devices illuminate when they are connected might draw unwanted attention.
+
+Generally speaking, Bluetooth devices do not present extra problems when working with `OFFICIAL` material. However, the whole point of Bluetooth is to enable and simplify communications, so you need to be extra careful when using Bluetooth devices while working on `OFFICIAL-SENSITIVE` material.
 
 ## Getting more help
 
