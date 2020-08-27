@@ -16,6 +16,7 @@
 			<topicref href="protecting-social-media-accounts.dita" type="topic"/>
 		</topichead>
 		<topichead navtitle="Asset Management">
+			<topicref href="bluetooth.dita" type="topic"/>
 			<topicref href="general-advice-on-taking-equipment-abroad.dita" type="topic"/>
 			<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic"/>
 			<topicref href="guidance-for-using-open-internet-tools.dita" type="topic"/>

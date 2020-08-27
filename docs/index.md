@@ -8,9 +8,9 @@ The MOJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 26 August 2020.
+This guidance is dated: 27 August 2020.
 
-For convenience, an offline version of this guidance is available as a PDF file, [here](https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf). The PDF version of this guidance is time-limited, and is not valid after 26 September 2020.
+For convenience, an offline version of this guidance is available as a PDF file, [here](https://ministryofjustice.github.io/security-guidance/moj-guidance.pdf). The PDF version of this guidance is time-limited, and is not valid after 27 September 2020.
 
 ### Background
 
@@ -49,7 +49,9 @@ Documents have been developed and defined within this taxonomy, and are listed i
 |||[Multi-Factor Authentication](multi-factor-authentication-mfa-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Privileged Account Management Guide](privileged-account-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Protecting Social Media Accounts](protecting-social-media-accounts.md)|All users|
-||Asset Management|[General advice on taking equipment abroad](general-advice-on-taking-equipment-abroad.md)|All users|
+||Asset Management|||
+|||[Bluetooth](bluetooth.md)|All users|
+|||[General advice on taking equipment abroad](general-advice-on-taking-equipment-abroad.md)|All users|
 |||[General User Video and Messaging Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
 |||[Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md)|All users|
 |||[Lost Laptop or other IT security incident](lost-laptophardware.md)|All users|

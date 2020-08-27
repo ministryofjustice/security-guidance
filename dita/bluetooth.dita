@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="bluetooth">
+	<title>Bluetooth</title>
+	<body/>
+	<topic id="introduction">
+		<title>Introduction</title>
+		<body>
+			<p>This guidance helps you use Bluetooth enabled devices and peripheral devices.</p>
+			<p><xref href="https://en.wikipedia.org/wiki/Bluetooth" format="html" scope="external">Bluetooth</xref> is a very short range WiFi technology. In everyday terms, Bluetooth devices can 'talk to each other' if they are very close, for example in the same room. This makes Bluetooth really good for wireless devices, for example a telephone headset, or a mouse or keyboard.</p>
+			<p>Bluetooth works by 'pairing' devices. This makes it quick and simple to use. The problem is that Bluetooth, and the pairing process, is not very secure. This means that attackers might get unauthenticated access to devices. As an example, an attacker 'listening' to the Bluetooth connection between a computer and a keyboard could possibly intercept passwords or other sensitive information as the details are typed on the keyboard.</p>
+			<p>This guidance tells you more about the <ph conref="conrefs.dita#conrefs/mojlong"/> view of Bluetooth, from a security perspective. It also gives you hints and tips on how to use Bluetooth more safely.</p>
+			<p>The aim is to help you maintain the Confidentiality, Integrity and Availability of <ph conref="conrefs.dita#conrefs/moj"/> data, applications and services. The results should be that:
+			<ul>
+				<li>the information you access is not compromised</li>
+				<li>you can connect devices using Bluetooth, safely</li>
+				<li>you are aware of the problems around Bluetooth, and can take the necessary safety precautions</li>
+			</ul>
+			</p>
+		</body>
+	</topic>
+	<topic id="bluetooth-devices-and-risks">
+		<title>Bluetooth devices and risks</title>
+		<body>
+			<p>Examples of Bluetooth devices include:
+			<ul>
+				<li>Keyboards</li>
+				<li>Mice</li>
+				<li>Telephone headsets</li>
+				<li>Headphones</li>
+				<li>Earbuds</li>
+				<li>Trackpads</li>
+				<li>External speakers</li>
+				<li>Gaming joysticks and controllers</li>
+				<li>Laptops</li>
+				<li>Hearing aids</li>
+				<li>Watches and Fitness bands</li>
+				<li>Smart TVs</li>
+				<li>Storage devices (similar to USB 'thumb' drives)</li>
+			</ul>
+			</p>
+			<p>A Bluetooth device might be at risk from any of the following:
+			<ul>
+				<li>Eavesdropping</li>
+				<li>Unauthorised access</li>
+				<li>Message modification</li>
+				<li>Denial of service</li>
+				<li>Data exfiltration</li>
+				<li>Insecure data transmission</li>
+				<li>Phishing</li>
+			</ul>
+			</p>
+			<p>An example of a Bluetooth problem is 'bluetooth marketing'. As your walk around with your mobile phone, it is continuously looking for Bluetooth devices and WiFi access points. It does this to help with acurate location tracking. But other devices can also see your mobile phone. These devices might report tracking information about where you were at any time. This guidance will help you understand more about the problem, and suggest things you can do to reduce the risks.</p>
+		</body>
+	</topic>
+	<topic id="best-practices-for-using-bluetooth">
+		<title>Best practices for using Bluetooth</title>
+		<body>
+			<p>Before using a Bluetooth device in a work context, consider the following:
+			<ul>
+				<li>What is the business case for using the Bluetooth device?</li>
+				<li>What data might be or will be access through, or using, the Bluetooth device?</li>
+				<li>Does the Bluetooth device have the latest patches and fixes applied - where possible?</li>
+				<li>Was the Bluetooth device purchased from a reputable vendor?</li>
+				<li>Does the Bluetooth device require a PIN code or similar before connecting?</li>
+				<li>Are the Bluetooth devices 'discoverable'?</li>
+				<li>Have you connected to any other 'public' Bluetooth devices?</li>
+				<li>Are all the devices password protected?</li>
+				<li>Might someone be able to see what Bluetooth devices you are using?</li>
+			</ul>
+			</p>
+			<p>The best way to ensure your Bluetooth device is as up-to-date as possible is to apply all patches and fixes for all hardware devices as soon as you can.</p>
+			<p>Bluetooth is a very cheap and simple technology. This means that it is often included in extremely cheap devices; often these use old versions of technology or are not provided with patches and fixes. The best thing is to obtain any Bluetooth devices from reputable vendors, so that it is more likely the device will be supported and maintained correctly.</p>
+			<p>Many Bluetooth devices try and make connection as easy as possible by enabling 'Direct Connection'. This often means that you only need to 'find' a Bluetooth device on your 'phone or laptop, then click once for a connection to be established. While very easy, this is not safe, because those same direct connections can also happen automatically, 'behind the scenes', without you being aware. If possible, ensure that a Bluetooth connection is allowed only when a PIN or password is supplied. This reduces the risk of 'hidden' Bluetooth connections.</p>
+			<p>Some Bluetooth devices allow you to choose whether they are 'discoverable'. For example, on Android 'phones, you can go to the <codeph>Settings -> Connected devices -> Connection preferences -> Bluetooth visibility</codeph> or similar. The best advice is to change the Bluetooth settings to undiscoverable if you can. Only make the device discoverable when you need to connect to a trusted device.</p>
+			<p>At regular intervals, check to see what Bluetooth devices are 'known' to your devices. Remove any you don't recognise.</p>
+			<p>Make sure you only connect to known devices when in public places. Always ensure that you are at home, office, or a known isolated place before switching on your Bluetooth.</p>
+			<p>If someone can see what Bluetooth devices you have, or are using, they might try and use one of their device to intercept or monitor the connection. Try to keep Bluetooth devices out of sight so that no-one knows which ones you might actually be using. Even the bright blue light Bluetooth devices illuminate when they are connected might draw unwanted attention.</p>
+		</body>
+	</topic>
+	<topic id="getting-more-help">
+		<title>Getting more help</title>
+		<body>
+			<p conref="conrefs.dita#conrefs/contactcatbyemail"></p>
+		</body>
+	</topic>
+</topic>
