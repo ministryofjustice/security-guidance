@@ -49,8 +49,7 @@ Documents have been developed and defined within this taxonomy, and are listed i
 |||[Multi-Factor Authentication](multi-factor-authentication-mfa-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Privileged Account Management Guide](privileged-account-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Protecting Social Media Accounts](protecting-social-media-accounts.md)|All users|
-||Asset Management|||
-|||[Bluetooth](bluetooth.md)|All users|
+||Asset Management|[Bluetooth](bluetooth.md)|All users|
 |||[General advice on taking equipment abroad](general-advice-on-taking-equipment-abroad.md)|All users|
 |||[General User Video and Messaging Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
 |||[Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md)|All users|

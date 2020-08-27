@@ -35,7 +35,7 @@ Examples of Bluetooth devices, and whether they might be used for business purpo
 |Laptops|Y - for MOJ-issued devices|
 |Hearing aids|Y|
 |Watches and Fitness bands|N|
-|Smart TVs|N|
+|Smart TVs|N - requires authorisation|
 |Storage devices \(similar to USB 'thumb' drives\)|N|
 |Internet-of-things 'Smart speakers'|N|
 
@@ -64,7 +64,7 @@ Before using a Bluetooth device in a work context, consider the following:
 -   Have you connected to any other 'public' Bluetooth devices?
 -   Are all the devices password protected?
 -   Might someone be able to see what Bluetooth devices you are using?
--   Is the material you are working with `OFFICIAL-SENSITIVE`?
+-   Is the material you are working with `OFFICIAL-SENSITIVE` or higher?
 
 The best way to ensure your Bluetooth device is as up-to-date as possible is to apply all patches and fixes for all hardware devices as soon as you can.
 
@@ -76,11 +76,11 @@ Some Bluetooth devices allow you to choose whether they are 'discoverable'. For 
 
 At regular intervals, check to see what Bluetooth devices are 'known' to your devices. Remove any you don't recognise.
 
-Make sure you only connect to known devices when in public places. Always ensure that you are at home, office, or a known isolated place before switching on your Bluetooth.
+When in public places, make sure you only connect to known devices. Always ensure you are in a secure and safe location such as home, office, or a known isolated place before switching on your Bluetooth.
 
 If someone can see what Bluetooth devices you have, or are using, they might try and use one of their device to intercept or monitor the connection. Try to keep Bluetooth devices out of sight so that no-one knows which ones you might actually be using. Even the bright blue light Bluetooth devices illuminate when they are connected might draw unwanted attention.
 
-Generally speaking, Bluetooth devices do not present extra problems when working with `OFFICIAL` material. However, the whole point of Bluetooth is to enable and simplify communications, so you need to be extra careful when using Bluetooth devices while working on `OFFICIAL-SENSITIVE` material.
+Generally speaking, Bluetooth devices do not present extra problems when working with `OFFICIAL` material. However, the whole point of Bluetooth is to enable and simplify communications, so you need to be extra careful when using Bluetooth devices while working on `OFFICIAL-SENSITIVE` or higher material.
 
 ## Getting more help
 
