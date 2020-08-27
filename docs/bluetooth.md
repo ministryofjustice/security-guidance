@@ -22,15 +22,15 @@ The aim is to help you maintain the Confidentiality, Integrity and Availability 
 
 Examples of Bluetooth devices, and whether they might be used for business purposes, are as follows:
 
-|Bluetooth device|Suitable for MOJ work purposes \(Y/n\)|
-|----------------|--------------------------------------|
+|Bluetooth device|Suitable for MOJ work purposes \(Y/N\)|
+|----------------|:------------------------------------:|
 |Keyboards|Y|
 |Mouse|Y|
 |Telephone headsets|Y|
 |Headphones|Y|
 |Earbuds|Y|
 |Trackpads|N - but exception possible for Accessibility reasons|
-|External speakers|N - but exception possible for Accessibility reasons|
+|External speakers|Y - but be aware of other people or devices nearby that might be listening|
 |Gaming joysticks and controllers|N - but exception possible for Accessibility reasons|
 |Laptops|Y - for MOJ-issued devices|
 |Hearing aids|Y|

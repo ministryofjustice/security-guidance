@@ -28,11 +28,11 @@
 			<table>
 				<tgroup cols="2">
 					<colspec colname="col1" colnum="1"/>
-					<colspec colname="col2" colnum="2"/>
+					<colspec colname="col2" colnum="2" align="center"/>
 					<thead>
 						<row>
 							<entry colname="col1">Bluetooth device</entry>
-							<entry colname="col2">Suitable for <ph conref="conrefs.dita#conrefs/moj"/> work purposes (Y/n)</entry>
+							<entry colname="col2">Suitable for <ph conref="conrefs.dita#conrefs/moj"/> work purposes (Y/N)</entry>
 						</row>
 					</thead>
 					<tbody>
@@ -62,7 +62,7 @@
 						</row>
 						<row>
 							<entry colname="col1">External speakers</entry>
-							<entry colname="col2">N - but exception possible for Accessibility reasons</entry>
+							<entry colname="col2">Y - but be aware of other people or devices nearby that might be listening</entry>
 						</row>
 						<row>
 							<entry colname="col1">Gaming joysticks and controllers</entry>
