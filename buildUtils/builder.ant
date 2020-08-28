@@ -40,7 +40,7 @@
 				description="compile the source into markdown">
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${dita}/html.ditaval"/>
+			<property name="args.filter" value="${dita}/html.ditaval:${dita}/audience-tech.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="markdown_github"/>
 		</ant>
@@ -48,9 +48,19 @@
 
 	<target name="compile_pdf" depends="init"
 				description="compile the source into PDF">
+		<!-- First build the Technical users PDF, containing all content. -->
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${dita}/pdf.ditaval"/>
+			<property name="args.filter" value="${dita}/pdf.ditaval:${dita}/audience-tech.ditaval"/>
+			<property name="output.dir" location="${build}"/>
+			<property name="transtype" value="pdf"/>
+		</ant>
+		<!-- Rename this file to be Tech users guide. -->
+		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-tech.pdf" overwrite="true"/>
+		<!-- Now build the 'all users' guide, omitting the technical details. -->
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
+			<property name="args.filter" value="${dita}/pdf.ditaval:${dita}/audience-allusers.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
@@ -68,9 +78,22 @@
 
 	<target name="compile_epub" depends="init"
 				description="compile the source into EPUB3">
-		<exec dir="${dita}" executable="ditac" output="build.txt">
-			<arg line="-images img -p xsl-resources-directory res -filter epub.ditaval -format epub3 -index out/moj-guidance.epub moj-guidance.ditamap"/>
+		<!-- Build the version for all users. -->
+		<exec dir="${dita}" executable="ditac" output="build-allusers.txt">
+			<arg line="-images img -p xsl-resources-directory res -filter epub-allusers.ditaval -format epub3 -index -v out/moj-guidance.epub moj-guidance.ditamap"/>
 		</exec>
+		<!-- Report results -->
+		<loadfile property="epub-allusers" srcFile="build-allusers.txt" />
+		<echo message="${epub-allusers}" />
+		<delete file="build-allusers.txt"/>
+		<!-- Build the version for tech users. -->
+		<exec dir="${dita}" executable="ditac" output="build-tech.txt">
+			<arg line="-images img -p xsl-resources-directory res -filter epub-tech.ditaval -format epub3 -index -v out/moj-guidance-tech.epub moj-guidance.ditamap"/>
+		</exec>
+		<!-- Report results -->
+		<loadfile property="epub-tech" srcFile="build-tech.txt" />
+		<echo message="${epub-tech}" />
+		<delete file="build-tech.txt"/>
 	</target>
 
 	<target name="compile" depends="compile_md,compile_pdf,compile_epub"/>

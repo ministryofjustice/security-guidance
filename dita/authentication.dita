@@ -39,7 +39,7 @@
       </body>
     </topic>
   </topic>
-  <topic id="system-system-accounts">
+  <topic id="system-system-accounts" audience="audience-tech">
     <title>System-system accounts</title>
     <body>
       <p>Accounts designed for programmatic or system/service integation must be unique for each purpose, particularly in separation between different environments - such as pre-production and production.</p>
@@ -50,16 +50,16 @@
   <topic id="multi-factor-authentication">
     <title>Multi-Factor Authentication</title>
     <body>
-      <p>Where appropriate, multi-factor authentication (MFA) should be used as a knowledge-based factor for authentication.MFA is sometimes referred to as Two-Factor Authentication (2FA).</p>
-      <p><ph conref="conrefs.dita#conrefs/moj"/> guidance on MFA is available <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">here</xref>.</p>
+      <p>Where appropriate, multi-factor authentication (MFA) should be used as a knowledge-based factor for authentication. MFA is sometimes referred to as Two-Factor Authentication (2FA).</p>
+      <p audience="audience-tech"><ph conref="conrefs.dita#conrefs/moj"/> guidance on MFA is available <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">here</xref>.</p>
     </body>
-    <topic id="mfa-for-administrators">
+    <topic id="mfa-for-administrators" audience="audience-tech">
       <title>MFA for Administrators</title>
       <body>
         <p>Administrative accounts <b>must</b> always have MFA, unless impractical to do so. Ensure there are techniques in-place such that MFA is always enabled and active for each account.</p>
       </body>
     </topic>
-    <topic id="mfa-for-important-or-privileged-actions">
+    <topic id="mfa-for-important-or-privileged-actions" audience="audience-tech">
       <title>MFA for important or privileged actions</title>
       <body>
         <p>MFA should be re-requested from the user for important or privileged actions such as changing fundemental configurations such as registered email address or adding another administrator.</p>
@@ -67,7 +67,7 @@
       </body>
     </topic>
   </topic>
-  <topic id="ip-addresses">
+  <topic id="ip-addresses" audience="audience-tech">
     <title>IP addresses</title>
     <body/>
     <topic id="trusting-ip-addresses">

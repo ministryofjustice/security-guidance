@@ -12,7 +12,7 @@ The extent to which a security log collection process implements the monitoring 
 
 Each level of monitoring - or 'tier' - has characteristics that are 'in addition' to lower level tiers. For example, a system operating at the Enhanced tier should also meet the requirements of the Baseline tier.
 
-![](https://ministryofjustice.github.io/security-guidance/images/Tiers.png)
+![](https://ministryofjustice.github.io/security-guidance/images/tiers.png)
 
 ## Baseline
 

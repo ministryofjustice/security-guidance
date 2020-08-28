@@ -23,11 +23,8 @@ Email [lastpass-admins@digital.justice.gov.uk](mailto:lastpass-admins@digital.ju
 Make sure you include in the email:
 
 -   which team you're in
-
 -   your role in your team / why you need access
-
 -   if there were any credentials within Rattic that you need access to based on this [shared spreadsheet of old Rattic credentials](https://docs.google.com/spreadsheets/d/1xkjXApSI1yw4gSuE9-izOBjvD5MK895wt1GJ9unQdU8/edit?usp=sharing)
-
 
 ### What it can be used for
 
@@ -45,7 +42,7 @@ MOJ LastPass administrators cannot routinely access the contents of LastPass Vau
 
 LastPass should not be used for storing MOJ documents - you must use existing MOJ services such as Office 365 or Google G-Suite for that.
 
-You shouldn't use LastPass for 'secrets' that belong to systems, only credentials to be used by humans. There is separate guidance on how to handle [screts](secrets-management.md).
+You shouldn't use LastPass for 'secrets' that belong to systems, only credentials to be used by humans.There is separate guidance on how to handle [secrets](secrets-management.md).
 
 ## How to use it
 

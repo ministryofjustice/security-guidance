@@ -17,7 +17,7 @@ Such systems should be monitored to a higher standard.</p>
     <p>Each level of monitoring - or 'tier' - has characteristics that are 'in addition' to lower level tiers.
 For example,
 a system operating at the Enhanced tier should also meet the requirements of the Baseline tier.</p>
-    <image platform="html" href="https://ministryofjustice.github.io/security-guidance/images/Tiers.png" placement="break" scope="external"/>
+    <image platform="html" href="https://ministryofjustice.github.io/security-guidance/images/tiers.png" placement="break" scope="external"/>
     <image platform="epub pdf" href="images/tiers.png" placement="break" scope="local"/>
   </body>
   <topic id="baseline">
