@@ -18,6 +18,12 @@ The aim is to help you maintain the Confidentiality, Integrity and Availability 
 
 **Note:** Remember that there might be local rules that apply regarding the use of Bluetooth devices. A good example is in Prisons, where use of Bluetooth would not be available by default. Ensure that you check with local requirements.
 
+## Accessibility
+
+Some types of Bluetooth devices are not allowed, by default. However, where there is a good reason for requiring a Bluetooth device, such as for Accessibility reasons, then a request for an exception to use the device will be treated sympathetically and permitted wherever possible.
+
+Contact the Cyber Assistance Team by email: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
+
 ## Bluetooth devices and risks
 
 Examples of Bluetooth devices, and whether they might be used for business purposes, are as follows:

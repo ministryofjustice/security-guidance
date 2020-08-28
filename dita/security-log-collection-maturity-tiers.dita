@@ -17,8 +17,8 @@ Such systems should be monitored to a higher standard.</p>
     <p>Each level of monitoring - or 'tier' - has characteristics that are 'in addition' to lower level tiers.
 For example,
 a system operating at the Enhanced tier should also meet the requirements of the Baseline tier.</p>
-    <image platform="html" href="https://ministryofjustice.github.io/security-guidance/images/tiers.png" placement="break" scope="external"/>
-    <image platform="epub pdf" href="images/tiers.png" placement="break" scope="local"/>
+    <image platform="html" href="https://ministryofjustice.github.io/security-guidance/images/tiers.png" placement="break" scope="external"><alt>A diagram showing a large triangle, base at the bottom, split into three levels. The top level has the heading 'Bespoke'. It contains two items: Customised logging, and Dynamic event responses. The middle level has the heading 'Enhanced'. It contains three items: Notification of events, Active analysis, and Automation of manual processes. The bottom and largest level has the heading 'Baseline'. It contains four items: System logs, Authorisation logs, Failure logs, and Security functions.</alt></image>
+    <image platform="epub pdf" href="images/tiers.png" placement="break" scope="local"><alt>A diagram showing a large triangle, base at the bottom, split into three levels. The top level has the heading 'Bespoke'. It contains two items: Customised logging, and Dynamic event responses. The middle level has the heading 'Enhanced'. It contains three items: Notification of events, Active analysis, and Automation of manual processes. The bottom and largest level has the heading 'Baseline'. It contains four items: System logs, Authorisation logs, Failure logs, and Security functions.</alt></image>
   </body>
   <topic id="baseline">
     <title>Baseline</title>
