@@ -5,31 +5,22 @@ We believe that our technology must keep data safe and protect user privacy.
 Our digital projects contain important information. Serious data breaches might result if we fail to:
 
 -   protect information
-
 -   handle it correctly at all times
-
 -   dispose of it safely when it is no longer required
-
 
 Breaches might cause:
 
 -   harm to individuals
-
 -   financial loss to the Ministry of Justice \(MOJ\)
-
 -   a loss of confidence in us as an organisation
-
 
 For personal data, the EU General Data Protection Regulation \(GDPR\) and UK Data Protection Act \(2018\) apply. These make the consequences of data breaches very clear.
 
 To follow the data regulation/legislation, we **must** ensure that:
 
 -   we protect data to the best of our organisation’s capabilities
-
 -   we collect data only for described, lawful purposes
-
 -   we use data only for the described, lawful purposes
-
 
 ## Why are security and privacy important?
 
@@ -45,9 +36,9 @@ All our work must follow this ethos.
 
 ## When this applies
 
-This principle applies to **all** technology projects.
+This principle applies to **all** MOJ technology projects and business actitivies.
 
-While GDPR applies only to personal information, all MOJ projects must have excellent data security and privacy properties. If they handle personal data, they must do so correctly. Projects must follow MOJ guidelines unless exceptional and approved circumstances apply.
+While GDPR applies only to personal information, all MOJ projects and tasks must have excellent data security and privacy characteristics. If they handle personal data, they must do so correctly. Projects must follow MOJ guidelines unless exceptional and approved circumstances apply.
 
 You can design your product to handle personal information correctly. There are a small number of extra steps you will have to take. Remember that personal data includes anything which might identify an individual. Even online identifiers, such as cookies, are personal data.
 

@@ -95,21 +95,21 @@ has made for the products we operate, and our relationships with suppliers.</p>
             </row>
             <row>
               <entry colname="col1"> </entry>
-              <entry colname="col2">Data and Information</entry>
+              <entry colname="col2">Data and information</entry>
             </row>
             <row>
               <entry colname="col1"> </entry>
-              <entry colname="col2">Incident Management</entry>
+              <entry colname="col2">Incident management</entry>
             </row>
             <row>
               <entry colname="col1"> </entry>
-              <entry colname="col2">Software Development</entry>
+              <entry colname="col2">System development</entry>
             </row>
           </tbody>
         </tgroup>
       </table>
       </p>
-      <p>The documents <ph audience="audience-tech">have been developed and defined within this taxonomy, and</ph> are listed in the next section<ph audience="audience-tech"> together with their suggested target audiences</ph>.</p>
+      <p>The documents <ph audience="audience-tech">have been developed and defined within this taxonomy, and</ph> are listed in the next section<ph audience="audience-tech">, together with their suggested target audiences</ph>.</p>
     </body>
     <topic id="document-list">
       <title>Document List</title>
@@ -150,6 +150,22 @@ has made for the products we operate, and our relationships with suppliers.</p>
                   <xref href="accessing-moj-it-systems-from-abroad.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Abroad</xref>
                 </entry>
                 <entry colname="col4">All users</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="authentication.dita" format="dita">Authentication</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="authorisation.dita" format="dita">Authorisation</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row audience="audience-tech">
                 <entry colname="col1"> </entry>
@@ -196,6 +212,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2">Asset Management</entry>
                 <entry colname="col3"> </entry>
                 <entry colname="col4"> </entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="accounting.dita" format="dita" type="topic">Accounting</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
                 <entry colname="col1"> </entry>
@@ -296,10 +320,8 @@ has made for the products we operate, and our relationships with suppliers.</p>
               <row>
                 <entry colname="col1">Technical</entry>
                 <entry colname="col2">Principles</entry>
-                <entry colname="col3">
-                  <xref href="data-security-and-privacy.dita" format="dita">Data Security and Privacy</xref>
-                </entry>
-                <entry colname="col4">All users</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
               </row>
               <row>
                 <entry colname="col1"> </entry>
@@ -313,7 +335,23 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="maintained-by-default.dita" format="dita">Maintained by Default</xref>
+                  <xref href="management-access.dita" format="dita">Management access</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="networks-bearers-not-trust.dita" format="dita">Networks are just bearers</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="secrets-management.dita" format="dita">Secrets management</xref>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -329,7 +367,57 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="security-log-collection.dita" format="dita">Security Log Collection</xref>
+                  <xref href="shared-responsibility-models.dita" format="dita">Shared Responsibility Models</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2">Data and information</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="data-destruction.dita" format="dita">Data Destruction</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="data-security-and-privacy.dita" format="dita">Data Security and Privacy</xref>
+                </entry>
+                <entry colname="col4">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="password-managers.dita" format="dita">Password Managers</xref>
+                </entry>
+                <entry colname="col4">All users</entry>
+              </row>
+              <!-- <row>
+                <entry colname="col1"> </entry>
+                <entry colname="col2">Incident management</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+              </row> -->
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2">System development</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="baseline-aws-accounts.dita" format="dita">Baseline for Amazon Web Services accounts</xref>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -337,7 +425,31 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
-                  <xref href="shared-responsibility-models.dita" format="dita">Shared Responsibility Models</xref>
+                  <xref href="cots-applications.dita" format="dita">Commercial off-the-shelf applications</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="custom-applications.dita" format="dita">Custom Applications</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="maintained-by-default.dita" format="dita">Maintained by Default</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="security-log-collection.dita" format="dita">Security Log Collection</xref>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -349,46 +461,29 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="vulnerability-scanning.dita" format="dita">Vulnerability scanning</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
             </tbody>
           </tgroup>
         </table>
       </body>
     </topic>
   </topic>
-  <topic id="standards">
+  <topic id="standards" audience="audience-tech">
     <title>Standards</title>
     <body/>
-    <topic id="authentication-authorisation--accounting">
-      <title>Authentication, Authorisation &amp; Accounting</title>
-      <body>
-        <ul>
-          <li><xref href="accounting.dita" format="dita" type="topic">Accounting</xref></li>
-          <li><xref href="authentication.dita" format="dita" type="topic">Authentication</xref></li>
-          <li><xref href="authorisation.dita" format="dita" type="topic">Authorisation</xref></li>
-        </ul>
-      </body>
-    </topic>
-    <topic id="general-standards" audience="audience-tech">
-      <title>General standards</title>
-      <body>
-        <ul>
-          <li><xref href="baseline-aws-accounts.dita" format="dita">Baseline for Amazon Web Services accounts</xref></li>
-          <li><xref href="data-destruction.dita" format="dita">Data Destruction</xref></li>
-          <li><xref href="data-security-and-privacy.dita" format="dita">Data Security &amp; Privacy</xref></li>
-          <li><xref href="management-access.dita" format="dita">Management access</xref></li>
-          <li><xref href="networks-bearers-not-trust.dita" format="dita">Networks are just bearers</xref></li>
-          <li><xref href="password-managers.dita" type="topic" format="dita">Password Managers</xref></li>
-          <li><xref href="secrets-management.dita" format="dita">Secrets management</xref></li>
-          <li><xref href="vulnerability-scanning.dita" format="dita">Vulnerability scanning</xref></li>
-        </ul>
-      </body>
-    </topic>
-    <topic id="security-log-collection" audience="audience-tech">
+    <topic id="security-log-collection">
       <title>Security Log Collection</title>
       <body>
         <ul>
-          <li><xref href="cots-applications.dita" format="dita">Commercial off-the-shelf applications</xref></li>
-          <li><xref href="custom-applications.dita" format="dita">Custom Applications</xref></li>
+          
+          
           <li><xref href="enterprise-it-infrastructure.dita" format="dita">Enterprise IT - Infrastructure</xref></li>
           <li><xref href="enterprise-it-mobile-devices.dita" format="dita">Enterprise IT - Mobile Devices</xref></li>
           <li><xref href="hosting-platforms.dita" format="dita">Hosting Platforms</xref></li>

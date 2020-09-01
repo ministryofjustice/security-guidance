@@ -39,11 +39,11 @@ The MOJ has developed their cyber and technical security taxonomy as follows:
 ||Cryptography|
 ||Operational Security|
 |Technical|Principles|
-||Data and Information|
-||Incident Management|
-||Software Development|
+||Data and information|
+||Incident management|
+||System development|
 
-The documents have been developed and defined within this taxonomy, and are listed in the next sectiontogether with their suggested target audiences.
+The documents have been developed and defined within this taxonomy, and are listed in the next section, together with their suggested target audiences.
 
 ### Document List
 
@@ -52,12 +52,15 @@ The documents have been developed and defined within this taxonomy, and are list
 |Cyber|Access Control|||
 |||[Access Control Guide](access-control-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Accessing MOJ IT Systems From Abroad](accessing-moj-it-systems-from-abroad.md)|All users|
+|||[Authentication](authentication.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Authorisation](authorisation.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Managing User Access Guide](managing-user-access-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)|All users|
 |||[Multi-Factor Authentication](multi-factor-authentication-mfa-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Privileged Account Management Guide](privileged-account-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Protecting Social Media Accounts](protecting-social-media-accounts.md)|All users|
 ||Asset Management|||
+|||[Accounting](accounting.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Bluetooth](bluetooth.md)|All users|
 |||[General advice on taking equipment abroad](general-advice-on-taking-equipment-abroad.md)|All users|
 |||[General User Video and Messaging Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
@@ -70,37 +73,30 @@ The documents have been developed and defined within this taxonomy, and are list
 |||[Malware Protection Guide: Defensive Layer 1](malware-protection-guidance-defensive-layer-1.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Malware Protection Guide: Defensive Layer 2](malware-protection-guidance-defensive-layer-2.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Malware Protection Guide: Defensive Layer 3](malware-protection-guidance-defensive-layer-3.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|Technical|Principles|[Data Security and Privacy](data-security-and-privacy.md)|All users|
+|Technical|Principles|||
 |||[IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](identify-protect-detect-respond-recover.md)|All users|
-|||[Maintained by Default](maintained-by-default.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Management access](management-access.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Networks are just bearers](networks-bearers-not-trust.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Secrets management](secrets-management.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Secure by Default](secure-by-default.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Security Log Collection](security-log-collection.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Shared Responsibility Models](shared-responsibility-models.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+||Data and information|||
+|||[Data Destruction](data-destruction.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Data Security and Privacy](data-security-and-privacy.md)|All users|
+|||[Password Managers](password-managers.md)|All users|
+||System development|||
+|||[Baseline for Amazon Web Services accounts](baseline-aws-accounts.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Commercial off-the-shelf applications](cots-applications.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Custom Applications](custom-applications.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Maintained by Default](maintained-by-default.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Security Log Collection](security-log-collection.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Using Live Data for Testing purposes](using-live-data-for-testing-purposes.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Vulnerability scanning](vulnerability-scanning.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 ## Standards
 
-### Authentication, Authorisation & Accounting
-
--   [Accounting](accounting.md)
--   [Authentication](authentication.md)
--   [Authorisation](authorisation.md)
-
-### General standards
-
--   [Baseline for Amazon Web Services accounts](baseline-aws-accounts.md)
--   [Data Destruction](data-destruction.md)
--   [Data Security & Privacy](data-security-and-privacy.md)
--   [Management access](management-access.md)
--   [Networks are just bearers](networks-bearers-not-trust.md)
--   [Password Managers](password-managers.md)
--   [Secrets management](secrets-management.md)
--   [Vulnerability scanning](vulnerability-scanning.md)
-
 ### Security Log Collection
 
--   [Commercial off-the-shelf applications](cots-applications.md)
--   [Custom Applications](custom-applications.md)
 -   [Enterprise IT - Infrastructure](enterprise-it-infrastructure.md)
 -   [Enterprise IT - Mobile Devices](enterprise-it-mobile-devices.md)
 -   [Hosting Platforms](hosting-platforms.md)

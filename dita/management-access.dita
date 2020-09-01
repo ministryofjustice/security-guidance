@@ -16,8 +16,8 @@
       <p>APIs are preferred over Secure Shell (SSH) connections, as by comparison they generally offer greater technical security limitations without the need for parsing commands.</p>
     </body>
   </topic>
-  <topic id="automated-diagnositic-data-collection">
-    <title>Automated diagnositic data collection</title>
+  <topic id="automated-diagnostic-data-collection">
+    <title>Automated diagnostic data collection</title>
     <body>
       <p>It should be exceptional to directly administer a server/node when adequate diagnositic data collection sends underlying technical data to a place where it can be correlated and analysed.</p>
     </body>

@@ -8,7 +8,7 @@ Management or administrative access **must** be limited to authorised authentica
 
 APIs are preferred over Secure Shell \(SSH\) connections, as by comparison they generally offer greater technical security limitations without the need for parsing commands.
 
-## Automated diagnositic data collection
+## Automated diagnostic data collection
 
 It should be exceptional to directly administer a server/node when adequate diagnositic data collection sends underlying technical data to a place where it can be correlated and analysed.
 

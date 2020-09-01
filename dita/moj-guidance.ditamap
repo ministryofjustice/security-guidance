@@ -9,6 +9,8 @@
 		<topichead navtitle="Access Control">
 			<topicref href="access-control-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="accessing-moj-it-systems-from-abroad.dita" type="topic"/>
+			<topicref href="authentication.dita" type="topic"/>
+			<topicref href="authorisation.dita" type="topic"/>
 			<topicref href="managing-user-access-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
 			<topicref href="multi-factor-authentication-mfa-guide.dita" type="topic" audience="audience-tech"/>
@@ -16,6 +18,7 @@
 			<topicref href="protecting-social-media-accounts.dita" type="topic"/>
 		</topichead>
 		<topichead navtitle="Asset Management">
+			<topicref href="accounting.dita" type="topic"/>
 			<topicref href="bluetooth.dita" type="topic"/>
 			<topicref href="general-advice-on-taking-equipment-abroad.dita" type="topic"/>
 			<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic"/>
@@ -35,34 +38,32 @@
 	</topichead>
 	<topichead navtitle="Technical">
 		<topichead navtitle="Principles">
-			<topicref href="data-security-and-privacy.dita" type="topic"/>
 			<topicref href="identify-protect-detect-respond-recover.dita" type="topic"/>
-			<topicref href="maintained-by-default.dita" type="topic" audience="audience-tech"/>
+			<topicref href="management-access.dita" type="topic" audience="audience-tech"/>
+			<topicref href="networks-bearers-not-trust.dita" type="topic" audience="audience-tech"/>
+			<topicref href="secrets-management.dita" type="topic" audience="audience-tech"/>
 			<topicref href="secure-by-default.dita" type="topic" audience="audience-tech"/>
-			<topicref href="security-log-collection.dita" type="topic" audience="audience-tech"/>
 			<topicref href="shared-responsibility-models.dita" type="topic" audience="audience-tech"/>
-			<topicref href="using-live-data-for-testing-purposes.dita" type="topic" audience="audience-tech"/>
 		</topichead>
-	</topichead>
-	<topichead navtitle="Standards">
-		<topichead navtitle="Authentication, Authorisation &amp; Accounting">
-			<topicref href="accounting.dita" type="topic"/>
-			<topicref href="authentication.dita" type="topic"/>
-			<topicref href="authorisation.dita" type="topic"/>
-		</topichead>
-		<topichead navtitle="General Standards" audience="audience-tech">
-			<topicref href="anti-malware.dita" type="topic"/>
-			<topicref href="baseline-aws-accounts.dita" type="topic"/>
-			<topicref href="data-destruction.dita" type="topic"/>
-			<topicref href="management-access.dita" type="topic"/>
-			<topicref href="networks-bearers-not-trust.dita" type="topic"/>
+		<topichead navtitle="Data and information">
+			<topicref href="data-destruction.dita" type="topic" audience="audience-tech"/>
+			<topicref href="data-security-and-privacy.dita" type="topic"/>
 			<topicref href="password-managers.dita" type="topic"/>
-			<topicref href="secrets-management.dita" type="topic"/>
-			<topicref href="vulnerability-scanning.dita" type="topic"/>
 		</topichead>
-		<topichead navtitle="Security Log Collection" audience="audience-tech">
+		<!-- <topichead navtitle="Incident management">
+		</topichead> -->
+		<topichead navtitle="System development" audience="audience-tech">
+			<topicref href="baseline-aws-accounts.dita" type="topic"/>
 			<topicref href="cots-applications.dita" type="topic"/>
 			<topicref href="custom-applications.dita" type="topic"/>
+			<topicref href="maintained-by-default.dita" type="topic"/>
+			<topicref href="security-log-collection.dita" type="topic"/>
+			<topicref href="using-live-data-for-testing-purposes.dita" type="topic"/>
+			<topicref href="vulnerability-scanning.dita" type="topic"/>
+		</topichead>
+	</topichead>
+	<topichead navtitle="Standards" audience="audience-tech">
+		<topichead navtitle="Security Log Collection">
 			<topicref href="enterprise-it-infrastructure.dita" type="topic"/>
 			<topicref href="enterprise-it-mobile-devices.dita" type="topic"/>
 			<topicref href="hosting-platforms.dita" type="topic"/>
@@ -121,4 +122,19 @@
 			<topicref href="implement-security-txt.dita" type="topic"/>
 		</topichead>
 	</topichead>
+	<reltable>
+		<relheader>
+			<relcolspec type="topic"/>
+			<relcolspec type="topic"/>
+		</relheader>
+		<relrow>
+			<relcell><topicref href="security-log-collection.dita"/></relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="cots-applications.dita"/>
+			<topicref href="custom-applications.dita"/>
+			</relcell>
+		</relrow>
+	</reltable>
 </map>
