@@ -139,3 +139,10 @@
 3. To check the environment is correct, run the command:</br>`which dita`</br>If the command is not found, your environment is not set correctly.
 4. To install the Word format capability, run the command:<br/>`dita install com.elovirta.ooxml`<br/>This enables building an additional output format: `docx`, providing a basic compatibility with the word processing tool.
 5. An additional Ant build target is also included. To build a Word format document from the DITA source, run the command:<br/>`ant -lib $DITA_DIR/config -f builder.ant compile_word`<br/>The resulting file is put into the `dita/out` directory.
+
+## (Optional) Enable EPUB format output from a build
+
+1. Download and install the [XMLmind DITA Converter](https://www.xmlmind.com/ditac/) tool. For example, install into `~/installLocal`.
+2. Add the `ditac` path into the OS environment, for example:</br>`export PATH=$PATH:$HOME/installLocal/ditac-3_8_0/bin`
+3. To check the environment is correct, use a terminal to run the command:</br>`which ditac`</br>If the command is not found, your environment is not set correctly.
+4. An additional Ant build target is already provided. To build an EPUB format document from the DITA source, run the command:<br/>`ant -lib $DITA_DIR/config -f builder.ant compile_epub`<br/>The resulting file is put into the `dita/out` directory.

@@ -1,0 +1,4 @@
+<val>
+	<prop action="include" att="audience" val="audience-allusers"/>
+	<prop action="include" att="audience" val="audience-tech"/>
+</val>

@@ -4,20 +4,22 @@
 
 This repository contains best-practice guidance and - where appropriate - policy for Ministry of Justice (MOJ) technology security.
 
-The information ranges from formal content such as 'you must'-style documents, through to more informal help and suggestions, such as checklists.
+The information ranges from formal content, such as 'you must'-style documents, through to more informal help and suggestions, such as checklists.
 
-The content is used to help build and operate products at the MOJ.
+The content is used to help build and operate products and services at the MOJ.
 
-The work is performed in the open by intent and for compliance with principle.
+The work is performed in the open by intent, and for compliance with principle.
 There is no specific aim or expectation of re-use of these materials outside of MOJ purposes - but people are welcome to do so if they wish in accordance with the published license.
 
-Note: As a vibrant, dynamic, work-in progress, this the material should not necessarily be treated as formal, finished, definitive, accurate, etc.
+*Note:* As a vibrant, dynamic, work-in progress, this material should not necessarily be treated as formal, finished, definitive, or accurate.
 
 ## Repository details
 
 This repo is inspired by, and borrows from, [GDS's technical guidance][gds-way] site and [MOJ's technical guidance][technical-guidance].
 
-Content in the `master` branch is built using [Jekyll][], and hosted using [GitHub Pages][]. It incorporates HTML, SCSS, JavaScript, and images from [GDS's Tech Docs Template][tech-docs-template], and reworks them to work with Jekyll instead of [Middleman][].
+Content in the `master` branch is created in [DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) format, and stored in the `dita` directory. When a build is required, the `builder.ant` script in the `buildUtils` directory is run. By default, it creates Markdown, PDF, and EPUB format output. The result output documents are put into a *clean* `docs` directory.
+
+Content in the `docs` directory can be built and previewed using [Jekyll][], and hosted using [GitHub Pages][]. It incorporates HTML, SCSS, JavaScript, and images from [GDS's Tech Docs Template][tech-docs-template], reworked to use Jekyll instead of [Middleman][].
 
 [gds-way]: https://github.com/alphagov/gds-way
 [technical-guidance]: https://ministryofjustice.github.io/technical-guidance/
@@ -49,18 +51,17 @@ bundle install
 
 ## Making changes
 
-To make changes, edit the appropriate Markdown files in this project.
-Jekyll (and therefore this site) uses [kramdown][] for its Markdown
-processing.
+The **correct** way to make changes is by editing the appropriate DITA XML files in the `dita` directory. The `builder.ant` script in the `buildUtils` directory is used to create output content from the DITA source.
 
-Make sure to make changes in a branch, and issue a [pull request](https://help.github.com/articles/about-pull-requests/) when
-you want them to be reviewed and published.
+Any changes you want to suggest must be created in a branch, and submitted using a [pull request](https://help.github.com/articles/about-pull-requests/) when you want them to be reviewed and potentially published.
 
 [kramdown]: https://kramdown.gettalong.org/syntax.html
 
+The **tolerated** way of making changes is by editing an existing Markdown file in the `docs` directory. Be aware that changes made in the `docs` directory are non-persistent, and are overwritten by the build process.
+
 ## Previewing
 
-We can preview our changes locally by running this command:
+We can preview content in the `docs` directory, locally, by running this command:
 
 ```bash
 bundle exec jekyll serve --watch
@@ -75,7 +76,7 @@ the working Markdown files.
 ## Publishing changes
 
 Because we're using GitHub Pages, any changes merged into the `master`
-branch will be published automatically. Every change should be reviewed
+branch `docs` directory will be published automatically. Every change should be reviewed
 in a pull request, no matter how minor, and we've enabled [branch protection][] to enforce this.
 
 [branch protection]: https://help.github.com/articles/about-protected-branches/

@@ -23,11 +23,8 @@ Email [lastpass-admins@digital.justice.gov.uk](mailto:lastpass-admins@digital.ju
 Make sure you include in the email:
 
 -   which team you're in
-
 -   your role in your team / why you need access
-
 -   if there were any credentials within Rattic that you need access to based on this [shared spreadsheet of old Rattic credentials](https://docs.google.com/spreadsheets/d/1xkjXApSI1yw4gSuE9-izOBjvD5MK895wt1GJ9unQdU8/edit?usp=sharing)
-
 
 ### What it can be used for
 

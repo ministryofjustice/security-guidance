@@ -1,4 +1,5 @@
 <val>
-	<prop action="exclude" att="platform" val="pdf"/>
+	<prop action="exclude" att="platform" val="epub"/>
 	<prop action="include" att="platform" val="html"/>
+	<prop action="exclude" att="platform" val="pdf"/>
 </val>

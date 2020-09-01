@@ -24,18 +24,12 @@
     <title>How to get it</title>
     <body>
       <p>Email <xref href="mailto:lastpass-admins@digital.justice.gov.uk" format="email" scope="external">lastpass-admins@digital.justice.gov.uk</xref> to request access.</p>
-      <p>Make sure you include in the email:</p>
+      <p>Make sure you include in the email:
       <ul>
-        <li>
-          <p>which team you're in</p>
-        </li>
-        <li>
-          <p>your role in your team / why you need access</p>
-        </li>
-        <li>
-          <p>if there were any credentials within Rattic that you need access to based on this <xref href="https://docs.google.com/spreadsheets/d/1xkjXApSI1yw4gSuE9-izOBjvD5MK895wt1GJ9unQdU8/edit?usp=sharing" format="html" scope="external">shared spreadsheet of old Rattic credentials</xref></p>
-        </li>
-      </ul>
+        <li>which team you're in</li>
+        <li>your role in your team / why you need access</li>
+        <li>if there were any credentials within Rattic that you need access to based on this <xref href="https://docs.google.com/spreadsheets/d/1xkjXApSI1yw4gSuE9-izOBjvD5MK895wt1GJ9unQdU8/edit?usp=sharing" format="html" scope="external">shared spreadsheet of old Rattic credentials</xref></li>
+      </ul></p>
     </body>
     <topic id="what-it-can-be-used-for">
       <title>What it can be used for</title>
@@ -55,7 +49,7 @@
       <title>What it shouldn't be used for</title>
       <body>
         <p>LastPass should not be used for storing <ph conref="conrefs.dita#conrefs/moj"/> documents - you must use existing <ph conref="conrefs.dita#conrefs/moj"/> services such as Office 365 or Google G-Suite for that.</p>
-        <p>You shouldn't use LastPass for 'secrets' that belong to systems, only credentials to be used by humans. There is separate guidance on how to handle <xref href="secrets-management.dita" format="dita" type="topic">secrets</xref>.</p>
+        <p>You shouldn't use LastPass for 'secrets' that belong to systems, only credentials to be used by humans.<ph audience="audience-tech"> There is separate guidance on how to handle <xref href="secrets-management.dita" format="dita" type="topic">secrets</xref>.</ph></p>
       </body>
     </topic>
   </topic>

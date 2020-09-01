@@ -37,7 +37,7 @@ Token-based methods are preferred over static private key methods.
 
 ## Multi-Factor Authentication
 
-Where appropriate, multi-factor authentication \(MFA\) should be used as a knowledge-based factor for authentication.MFA is sometimes referred to as Two-Factor Authentication \(2FA\).
+Where appropriate, multi-factor authentication \(MFA\) should be used as a knowledge-based factor for authentication. MFA is sometimes referred to as Two-Factor Authentication \(2FA\).
 
 MOJ guidance on MFA is available [here](multi-factor-authentication-mfa-guide.md).
 
