@@ -5,8 +5,8 @@
 	<title>conref library</title>
 	<body>
 		<p>
-			<ph id="mojlong">Ministry of Justice (MOJ)</ph>
-			<ph id="moj">MOJ</ph>
+			<ph id="mojlong">Ministry of Justice (MoJ)</ph>
+			<ph id="moj">MoJ</ph>
 			<ph id="groupsecurity"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="email" scope="external">mojgroupsecurity@justice.gov.uk</xref></ph>
 			<ph id="securityat"><xref href="mailto:security@digital.justice.gov.uk" format="email" scope="external">security@digital.justice.gov.uk</xref></ph>
 			<ph id="ostat"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
