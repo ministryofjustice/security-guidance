@@ -216,11 +216,11 @@ There is also help on <xref href="https://intranet.justice.gov.uk/guidance/knowl
     <body>
       <table>
         <tgroup cols="5">
-          <colspec colname="col1" colnum="1"/>
-          <colspec colname="col2" colnum="2"/>
-          <colspec colname="col3" colnum="3"/>
-          <colspec colname="col4" colnum="4"/>
-          <colspec colname="col5" colnum="5"/>
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="2*"/>
+          <colspec colname="col3" colnum="3" colwidth="2*"/>
+          <colspec colname="col4" colnum="4" colwidth="2*"/>
+          <colspec colname="col5" colnum="5" colwidth="1*"/>
           <thead>
             <row>
               <entry colname="col1">Tool name</entry>

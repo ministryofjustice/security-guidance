@@ -34,8 +34,8 @@
 			<p>Examples of Bluetooth devices, and whether they might be used for business purposes, are as follows:
 			<table>
 				<tgroup cols="2">
-					<colspec colname="col1" colnum="1"/>
-					<colspec colname="col2" colnum="2" align="center"/>
+					<colspec colname="col1" colnum="1" colwidth="1*"/>
+					<colspec colname="col2" colnum="2" align="center" colwidth="2*"/>
 					<thead>
 						<row>
 							<entry colname="col1">Bluetooth device</entry>

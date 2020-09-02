@@ -122,19 +122,4 @@
 			<topicref href="implement-security-txt.dita" type="topic"/>
 		</topichead>
 	</topichead>
-	<reltable>
-		<relheader>
-			<relcolspec type="topic"/>
-			<relcolspec type="topic"/>
-		</relheader>
-		<relrow>
-			<relcell><topicref href="security-log-collection.dita"/></relcell>
-		</relrow>
-		<relrow>
-			<relcell>
-				<topicref href="cots-applications.dita"/>
-			<topicref href="custom-applications.dita"/>
-			</relcell>
-		</relrow>
-	</reltable>
 </map>

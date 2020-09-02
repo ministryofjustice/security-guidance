@@ -166,8 +166,8 @@
       <p>For further help about aspects of using OITs within the <ph conref="conrefs.dita#conrefs/moj"/>, contact:</p>
       <table>
         <tgroup cols="2">
-          <colspec colname="col1" colnum="1"/>
-          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
           <thead>
             <row>
               <entry colname="col1">Subject</entry>

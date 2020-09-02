@@ -8,7 +8,7 @@ The MOJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 1 September 2020.
+This guidance is dated: 2 September 2020.
 
 For convenience, offline versions of this guidance are available.
 
@@ -17,7 +17,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 1 October 2020.
+The offline versions of this guidance are time-limited, and are not valid after 2 October 2020.
 
 ### Background
 
@@ -90,18 +90,13 @@ The documents have been developed and defined within this taxonomy, and are list
 |||[Custom Applications](custom-applications.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Maintained by Default](maintained-by-default.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Security Log Collection](security-log-collection.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Security Log Collection: Enterprise IT - Infrastructure](enterprise-it-infrastructure.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Security Log Collection: Enterprise IT - Mobile Devices](enterprise-it-mobile-devices.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Security Log Collection: Hosting Platforms](hosting-platforms.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Security Log Collection: Log entry metadata](log-entry-metadata.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Security Log Collection: Maturity Tiers](security-log-collection-maturity-tiers.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Using Live Data for Testing purposes](using-live-data-for-testing-purposes.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Vulnerability scanning](vulnerability-scanning.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-
-## Standards
-
-### Security Log Collection
-
--   [Enterprise IT - Infrastructure](enterprise-it-infrastructure.md)
--   [Enterprise IT - Mobile Devices](enterprise-it-mobile-devices.md)
--   [Hosting Platforms](hosting-platforms.md)
--   [Log entry metadata](log-entry-metadata.md)
--   [Security Log Collection Maturity Tiers](security-log-collection-maturity-tiers.md)
 
 ## Guides
 

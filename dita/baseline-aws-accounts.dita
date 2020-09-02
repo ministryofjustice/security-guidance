@@ -42,9 +42,9 @@ The contact details for an AWS Account can be updated using the reference <xref 
         <p>Leverage AWS' commodity IDS solution to detect/protect from malicious or unauthorised behavior.</p>
         <table>
           <tgroup cols="3">
-            <colspec colname="col1" colnum="1"/>
-            <colspec colname="col2" colnum="2"/>
-            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col1" colnum="1" colwidth="1*"/>
+            <colspec colname="col2" colnum="2" colwidth="1*"/>
+            <colspec colname="col3" colnum="3" colwidth="1*"/>
             <thead>
               <row>
                 <entry colname="col1">What must be in place</entry>
@@ -69,9 +69,9 @@ The contact details for an AWS Account can be updated using the reference <xref 
         <p>Leverage AWS' native activity audit platform (with adequate non-repudiation) to capture what AWS user (IAM etc) activity and changes are made within our AWS accounts</p>
         <table>
           <tgroup cols="3">
-            <colspec colname="col1" colnum="1"/>
-            <colspec colname="col2" colnum="2"/>
-            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col1" colnum="1" colwidth="1*"/>
+            <colspec colname="col2" colnum="2" colwidth="1*"/>
+            <colspec colname="col3" colnum="3" colwidth="1*"/>
             <thead>
               <row>
                 <entry colname="col1">What must be in place</entry>
@@ -96,9 +96,9 @@ The contact details for an AWS Account can be updated using the reference <xref 
         <p>Leverage AWS' native AWS configuration activity audit platform to capture what changes are being made to AWS configurations.</p>
         <table>
           <tgroup cols="3">
-            <colspec colname="col1" colnum="1"/>
-            <colspec colname="col2" colnum="2"/>
-            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col1" colnum="1" colwidth="1*"/>
+            <colspec colname="col2" colnum="2" colwidth="1*"/>
+            <colspec colname="col3" colnum="3" colwidth="1*"/>
             <thead>
               <row>
                 <entry colname="col1">What must be in place</entry>
@@ -124,9 +124,9 @@ The contact details for an AWS Account can be updated using the reference <xref 
         <p>We have our own <xref href="https://ministryofjustice.github.io/technical-guidance/documentation/standards/documenting-infrastructure-owners.html#documenting-owners-of-infrastructure" format="html" scope="external">infrastructure ownership/tagging standards</xref>.</p>
         <table>
           <tgroup cols="3">
-            <colspec colname="col1" colnum="1"/>
-            <colspec colname="col2" colnum="2"/>
-            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col1" colnum="1" colwidth="1*"/>
+            <colspec colname="col2" colnum="2" colwidth="1*"/>
+            <colspec colname="col3" colnum="3" colwidth="1*"/>
             <thead>
               <row>
                 <entry colname="col1">What must be in place</entry>
@@ -151,9 +151,9 @@ The contact details for an AWS Account can be updated using the reference <xref 
         <p>Do not use non-EU AWS <xref href="https://docs.aws.amazon.com/general/latest/gr/rande.html" format="html" scope="external">regions</xref> for strategic compliance and performance reasons.</p>
         <table>
           <tgroup cols="3">
-            <colspec colname="col1" colnum="1"/>
-            <colspec colname="col2" colnum="2"/>
-            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col1" colnum="1" colwidth="1*"/>
+            <colspec colname="col2" colnum="2" colwidth="1*"/>
+            <colspec colname="col3" colnum="3" colwidth="1*"/>
             <thead>
               <row>
                 <entry colname="col1">What must be in place</entry>
@@ -178,9 +178,9 @@ The contact details for an AWS Account can be updated using the reference <xref 
         <p>Enforce <xref href="https://aws.amazon.com/iam/" format="html" scope="external">Identity and Access Management</xref> and Joiners, Movers and Leavers (JML) within AWS. We also need to ensure accounts that legitimately exist are well protected.</p>
         <table>
           <tgroup cols="3">
-            <colspec colname="col1" colnum="1"/>
-            <colspec colname="col2" colnum="2"/>
-            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col1" colnum="1" colwidth="1*"/>
+            <colspec colname="col2" colnum="2" colwidth="1*"/>
+            <colspec colname="col3" colnum="3" colwidth="1*"/>
             <thead>
               <row>
                 <entry colname="col1">What must be in place</entry>
@@ -206,9 +206,9 @@ The contact details for an AWS Account can be updated using the reference <xref 
         <p>Leverage native AWS configuration options to make reasonable efforts to protect data.</p>
         <table>
           <tgroup cols="3">
-            <colspec colname="col1" colnum="1"/>
-            <colspec colname="col2" colnum="2"/>
-            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col1" colnum="1" colwidth="1*"/>
+            <colspec colname="col2" colnum="2" colwidth="1*"/>
+            <colspec colname="col3" colnum="3" colwidth="1*"/>
             <thead>
               <row>
                 <entry colname="col1">What must be in place</entry>
@@ -233,9 +233,9 @@ The contact details for an AWS Account can be updated using the reference <xref 
         <p>Ensure that public access to AWS data storage and compute is intentional, to avoid the 'leaky bucket' problem, and to aid attack surface minimisation.</p>
         <table>
           <tgroup cols="3">
-            <colspec colname="col1" colnum="1"/>
-            <colspec colname="col2" colnum="2"/>
-            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col1" colnum="1" colwidth="1*"/>
+            <colspec colname="col2" colnum="2" colwidth="1*"/>
+            <colspec colname="col3" colnum="3" colwidth="1*"/>
             <thead>
               <row>
                 <entry colname="col1">What must be in place</entry>
@@ -266,9 +266,9 @@ The contact details for an AWS Account can be updated using the reference <xref 
         <p>Over time we will be able to leverage this more, but in the immediate future this will enable us to do CIS-based scans.</p>
         <table>
           <tgroup cols="3">
-            <colspec colname="col1" colnum="1"/>
-            <colspec colname="col2" colnum="2"/>
-            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col1" colnum="1" colwidth="1*"/>
+            <colspec colname="col2" colnum="2" colwidth="1*"/>
+            <colspec colname="col3" colnum="3" colwidth="1*"/>
             <thead>
               <row>
                 <entry colname="col1">What must be in place</entry>

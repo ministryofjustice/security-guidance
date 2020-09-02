@@ -22,7 +22,7 @@ audited on a monthly basis.</p>
       <p>Privileged accounts should be protected with the following controls.</p>
       <table>
         <tgroup cols="1">
-          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
           <thead>
             <row>
               <entry colname="col1">DO</entry>
@@ -52,7 +52,7 @@ audited on a monthly basis.</p>
       </table>
       <table>
         <tgroup cols="1">
-          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
           <thead>
             <row>
               <entry colname="col1">DON’T</entry>

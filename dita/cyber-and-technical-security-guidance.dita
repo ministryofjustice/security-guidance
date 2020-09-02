@@ -16,9 +16,9 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <p platform="html">For convenience, offline versions of this guidance are available.
 		<table>
 			<tgroup cols="3">
-				<colspec colname="col1" colnum="1"/>
-				<colspec colname="col2" colnum="2"/>
-				<colspec colname="col3" colnum="3"/>
+				<colspec colname="col1" colnum="1" colwidth="3*"/>
+				<colspec colname="col2" colnum="2" colwidth="1*"/>
+				<colspec colname="col3" colnum="3" colwidth="1*"/>
 				<thead>
 					<row>
 						<entry colname="col1">Audience</entry>
@@ -64,8 +64,8 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <p audience="audience-tech">The <ph conref="conrefs.dita#conrefs/moj"/> has developed their cyber and technical security taxonomy as follows:
       <table>
         <tgroup cols="2">
-          <colspec colname="col1" colnum="1"/>
-          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
           <thead>
             <row>
               <entry colname="col1">Level 1</entry>
@@ -116,10 +116,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <body>
         <table>
           <tgroup cols="4">
-            <colspec colname="col1" colnum="1"/>
-            <colspec colname="col2" colnum="2"/>
-            <colspec colname="col3" colnum="3"/>
-            <colspec colname="col4" colnum="4"/>
+            <colspec colname="col1" colnum="1" colwidth="1*"/>
+            <colspec colname="col2" colnum="2" colwidth="1*"/>
+            <colspec colname="col3" colnum="3" colwidth="2*"/>
+            <colspec colname="col4" colnum="4" colwidth="2*"/>
             <thead>
               <row>
                 <entry colname="col1">Level 1</entry>
@@ -457,6 +457,46 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"> </entry>
                 <entry colname="col3">
+                  <xref href="enterprise-it-infrastructure.dita" format="dita">Security Log Collection: Enterprise IT - Infrastructure</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="enterprise-it-mobile-devices.dita" format="dita">Security Log Collection: Enterprise IT - Mobile Devices</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="hosting-platforms.dita" format="dita">Security Log Collection: Hosting Platforms</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="log-entry-metadata.dita" format="dita">Security Log Collection: Log entry metadata</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
+                  <xref href="security-log-collection-maturity-tiers.dita" format="dita">Security Log Collection: Maturity Tiers</xref>
+                </entry>
+                <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1"> </entry>
+                <entry colname="col2"> </entry>
+                <entry colname="col3">
                   <xref href="using-live-data-for-testing-purposes.dita" format="dita">Using Live Data for Testing purposes</xref>
                 </entry>
                 <entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
@@ -472,24 +512,6 @@ has made for the products we operate, and our relationships with suppliers.</p>
             </tbody>
           </tgroup>
         </table>
-      </body>
-    </topic>
-  </topic>
-  <topic id="standards" audience="audience-tech">
-    <title>Standards</title>
-    <body/>
-    <topic id="security-log-collection">
-      <title>Security Log Collection</title>
-      <body>
-        <ul>
-          
-          
-          <li><xref href="enterprise-it-infrastructure.dita" format="dita">Enterprise IT - Infrastructure</xref></li>
-          <li><xref href="enterprise-it-mobile-devices.dita" format="dita">Enterprise IT - Mobile Devices</xref></li>
-          <li><xref href="hosting-platforms.dita" format="dita">Hosting Platforms</xref></li>
-          <li><xref href="log-entry-metadata.dita" format="dita">Log entry metadata</xref></li>
-          <li><xref href="security-log-collection-maturity-tiers.dita" format="dita">Security Log Collection Maturity Tiers</xref></li>
-        </ul>
       </body>
     </topic>
   </topic>

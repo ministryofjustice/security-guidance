@@ -121,4 +121,20 @@
 		<delete dir="${build}"/>
 		<delete dir="${docs}"/>
 	</target>
+	
+	<target name="preview" depends="compile_md" description="Minimal build for local preview purposes.">
+		<delete dir="${docs}"/>
+		<mkdir dir="${docs}"/>
+		<mkdir dir="${docs}/images"/>
+		<copy todir="${docs}" >	
+			<fileset dir="${jekyll-baseline}"/>
+		</copy>
+		<copy todir="${docs}/images" >	
+			<fileset dir="${images}"/>
+		</copy>
+		<copy todir="${docs}" >	
+			<fileset dir="${build}"/>
+		</copy>
+		<copy file="${docs}/cyber-and-technical-security-guidance.md" tofile="${docs}/index.md" overwrite="true"/>
+	</target>
 </project>
