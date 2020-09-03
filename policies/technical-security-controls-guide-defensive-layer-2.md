@@ -12,7 +12,7 @@ This guide is a sub-page to the [Technical Controls Guide](technical-security-co
 
 ## Defensive layer 2: implementing monitoring capabilities
 
-The table below identifies the security controls that should be implemented to mature existing Layer 1 controls and enable the capability of active monitoring of the MoJ network.
+The table below identifies the security controls that should be implemented to mature existing Layer 1 controls and enable the capability of active monitoring of the MoJ network.  
 
 <table>
 <tr><th>Do</th></tr>
@@ -23,12 +23,12 @@ The table below identifies the security controls that should be implemented to m
 <li>an identified data breach</li>
 <li>an identified policy breach such as jailbreaking a device</li>
 <li>a lost device, and/or</li>
-<li>the end of an employment contract, for example, for an employee, contractor or other staff.</li></ul></td></tr>
+<li>the end of an employment contract, for example, for an employee or contractor.</li></ul></td></tr>
 <tr><td>✔ Use automation tools for easy search and retrieval of information, for example, AI machine-based learning for keyword searching.</td></tr>
 <tr><td>✔ Terminate network connections associated with communication sessions. For example the de-allocation of:
 <ul>
-<li>associated TCP/IP address pairs, and</li>
-<li>network assignments at the application level.</li></ul></td></tr>
+<li>associated TCP/IP address pairs at the operating system level, and</li>
+<li>network assignments at the application level  if multiple application sessions are using a single, operating system level network connection.</li></ul></td></tr>
 <tr><td>✔ Implement maintenance tools. For example:
 <ul>
 <li>hardware/software diagnostic test equipment</li>

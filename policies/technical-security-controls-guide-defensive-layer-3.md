@@ -8,6 +8,10 @@ Target audience:
 
 # Technical Controls Guide: Defensive Layer 3
 
+THIS GUIDE HAS BEEN DEPRECIATED - PLEASE REFER TO TECHNICAL CONTROLS GUIDE: DEFENSIVE LAYER 2
+====
+
+
 This guide is a sub-page to the [Technical Controls Guide](technical-security-controls-guide.md).
 
 ## Defensive layer 3: implementing monitoring and maintenance tools
