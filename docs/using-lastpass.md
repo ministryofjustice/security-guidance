@@ -68,7 +68,7 @@ You **must** setup multi-factor authentication \(MFA, sometimes known as 2FA\) f
 
 LastPass has a [guide on setting up MFA](https://support.logmeininc.com/lastpass/help/enable-multifactor-authentication-lp010002).
 
-The MoJ has an 'order of preference' for [which types of MFA to use](authentication.md#):
+The MoJ has an 'order of preference' for [which types of MFA to use](authentication.md):
 
 -   Hardware-based \(for example, Yubikeys\)
 -   Software-based \(for example, Google Prompt on a mobile device\)

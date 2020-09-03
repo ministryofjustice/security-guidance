@@ -76,7 +76,7 @@
         <body>
           <p>You <b>must</b> setup multi-factor authentication (MFA, sometimes known as 2FA) for your <ph conref="conrefs.dita#conrefs/moj"/> LastPass account.</p>
           <p>LastPass has a <xref href="https://support.logmeininc.com/lastpass/help/enable-multifactor-authentication-lp010002" format="html" scope="external">guide on setting up MFA</xref>.</p>
-          <p audience="audience-tech">The <ph conref="conrefs.dita#conrefs/moj"/> has an 'order of preference' for <xref href="authentication.dita#multi-factor-authentication" format="dita" type="topic">which types of MFA to use</xref>:
+          <p audience="audience-tech">The <ph conref="conrefs.dita#conrefs/moj"/> has an 'order of preference' for <xref href="authentication.dita" format="dita" type="topic">which types of MFA to use</xref>:
           <ul>
             <li>Hardware-based (for example, Yubikeys)</li>
             <li>Software-based (for example, Google Prompt on a mobile device)</li>
