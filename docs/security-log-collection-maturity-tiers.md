@@ -1,6 +1,6 @@
 # Security Log Collection Maturity Tiers
 
-Ministry of Justice \(MOJ\) systems and services must adequately create and retain event data as part of the [DETECT](identify-protect-detect-respond-recover.md) portion of the [Cabinet Office's Minimum Cyber Security Standard \(MCSS\)](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard).
+Ministry of Justice \(MoJ\) systems and services must adequately create and retain event data as part of the [DETECT](identify-protect-detect-respond-recover.md) portion of the [Cabinet Office's Minimum Cyber Security Standard \(MCSS\)](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard).
 
 Three tiers have been developed to reflect the breadth and complexity of collecting and forwarding log data.
 
@@ -16,7 +16,7 @@ Each level of monitoring - or 'tier' - has characteristics that are 'in addition
 
 ## Baseline
 
-The baseline tier is the generally minimum expected for event types. It includes data that should be generated, recorded, and forwarded for onward analysis. It applies to all of the MOJ systems. In most cases, this requirement may be met through the underlying platform\(s\) on which the systems are built.
+The baseline tier is the generally minimum expected for event types. It includes data that should be generated, recorded, and forwarded for onward analysis. It applies to all of the MoJ systems. In most cases, this requirement may be met through the underlying platform\(s\) on which the systems are built.
 
 This tier covers the broad spectrum of events that can reasonably be used to detect compromise. It allows the defensive cyber team to respond appropriately before significant impact.
 
@@ -26,7 +26,7 @@ The enhanced tier, in conjunction with the baseline event types, provides earlie
 
 ## Bespoke
 
-The bespoke tier concerns systems that are critical to the security, stability and statutory function of the MOJ, or that contain highly sensitive data. In this tier, systems must generate additional bespoke \(customised\) event types. These event types are typically agreed in context between the MOJ Cyber Security team and the associated product or service team. The objective is produce logging that reliably identifies and captures key nuance and contextual security monitoring data, based on applicable threats and risks.
+The bespoke tier concerns systems that are critical to the security, stability and statutory function of the MoJ, or that contain highly sensitive data. In this tier, systems must generate additional bespoke \(customised\) event types. These event types are typically agreed in context between the MoJ Cyber Security team and the associated product or service team. The objective is produce logging that reliably identifies and captures key nuance and contextual security monitoring data, based on applicable threats and risks.
 
 Last updated: April 20th, 2020.
 

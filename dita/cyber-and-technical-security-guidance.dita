@@ -44,11 +44,22 @@ has made for the products we operate, and our relationships with suppliers.</p>
 			<p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, see <xref href="https://ministryofjustice.github.io/security-guidance/" format="html" scope="external">here</xref>.</p>
 			</note>
 		</body>
+		<topic id="getting-in-touch">
+			<title>Getting in touch</title>
+			<body>
+				<ul>
+					<li><xref href="reporting-an-incident.dita" format="dita">To report an incident</xref>.</li>
+					<li>For general assistance on <ph conref="conrefs.dita#conrefs/moj"/> security matters, email <ph conref="conrefs.dita#conrefs/securityat"/>.</li>
+					<li>For Cyber Security assistance or consulting, email <ph conref="conrefs.dita#conrefs/catemail"/>. More information about the Cyber Security Consultancy Team is <xref href="user-guide.dita" format="dita">available</xref>.</li>
+					<li>Suppliers to the <ph conref="conrefs.dita#conrefs/moj"/> should first communicate with their usual <ph conref="conrefs.dita#conrefs/moj"/> points of contact.</li>
+				</ul>
+			</body>
+		</topic>
 		<topic id="background" audience="audience-tech">
 			<title>Background</title>
 			<body>
 				<p><i><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></i> replaces the HMG Security Policy Framework (SPF) last published in May 2018. It also incorporates the <i>Minimum Cyber Security Standard (MCSS)</i> which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.</p>
-				<p>Sections 6.12 Cyber security and 6.13 Technical security of the standard state:</p>
+				<p>Sections 6.9 Cyber security and 6.10 Technical security of the standard state:</p>
 				<lq>
 					<ul>
 						<li>The security of information and data is essential to good government and public confidence. To operate effectively, HMG needs to maintain the confidentiality, integrity and availability of its information, systems and infrastructure, and the services it provides. Any organisation that handles government information shall meet the standards expected of HM Government.</li>
@@ -59,7 +70,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 		</topic>
 	</topic>
 	<topic id="taxonomy">
-		<title><ph audience="audience-tech">Taxonomy and </ph><ph audience="audience-allusers">Structure</ph></title>
+		<title>Information <ph audience="audience-tech">taxonomy and </ph><ph audience="audience-allusers">structure</ph></title>
 		<body>
 			<p audience="audience-tech">The <ph conref="conrefs.dita#conrefs/moj"/> has developed their cyber and technical security taxonomy as follows:
 			<table>
@@ -211,7 +222,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 								<entry colname="col3">
 									<xref href="personnel-security-clearances.dita" format="dita" type="topic">Personnel security clearances</xref>
 								</entry>
-								<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+								<entry colname="col4">All users</entry>
 							</row>
 							<row audience="audience-tech">
 								<entry colname="col1"> </entry>
@@ -366,6 +377,22 @@ has made for the products we operate, and our relationships with suppliers.</p>
 								<entry colname="col3"> </entry>
 								<entry colname="col4"> </entry>
 							</row>
+							<row audience="audience-tech">
+								<entry colname="col1"> </entry>
+								<entry colname="col2"> </entry>
+								<entry colname="col3">
+									<xref href="cjsm.dita" format="dita">Criminal Justice Secure Mail (CJSM)</xref>
+								</entry>
+								<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							</row>
+							<row audience="audience-tech">
+								<entry colname="col1"> </entry>
+								<entry colname="col2"> </entry>
+								<entry colname="col3">
+									<xref href="data-sovereignty.dita" format="dita">Data Sovereignty</xref>
+								</entry>
+								<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							</row>
 							<row>
 								<entry colname="col1"> </entry>
 								<entry colname="col2"> </entry>
@@ -373,6 +400,22 @@ has made for the products we operate, and our relationships with suppliers.</p>
 									<xref href="identify-protect-detect-respond-recover.dita" format="dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref>
 								</entry>
 								<entry colname="col4">All users</entry>
+							</row>
+							<row audience="audience-tech">
+								<entry colname="col1"> </entry>
+								<entry colname="col2"> </entry>
+								<entry colname="col3">
+									<xref href="internet-v-psn.dita" format="dita">Internet v. PSN</xref>
+								</entry>
+								<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							</row>
+							<row audience="audience-tech">
+								<entry colname="col1"> </entry>
+								<entry colname="col2"> </entry>
+								<entry colname="col3">
+									<xref href="ip-dns-diagram-handling.dita" format="dita">IP DNS Diagram Handling</xref>
+								</entry>
+								<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 							</row>
 							<row audience="audience-tech">
 								<entry colname="col1"> </entry>
@@ -386,9 +429,25 @@ has made for the products we operate, and our relationships with suppliers.</p>
 								<entry colname="col1"> </entry>
 								<entry colname="col2"> </entry>
 								<entry colname="col3">
+									<xref href="multiple-consecutive-back-to-back-firewalls.dita" format="dita">Multiple Back-to-back Consecutive Firewalls</xref>
+								</entry>
+								<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							</row>
+							<row audience="audience-tech">
+								<entry colname="col1"> </entry>
+								<entry colname="col2"> </entry>
+								<entry colname="col3">
 									<xref href="networks-bearers-not-trust.dita" format="dita">Networks are just bearers</xref>
 								</entry>
 								<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							</row>
+							<row>
+								<entry colname="col1"> </entry>
+								<entry colname="col2"> </entry>
+								<entry colname="col3">
+									<xref href="official-official-sensitive.dita" format="dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref>
+								</entry>
+								<entry colname="col4">All users</entry>
 							</row>
 							<row audience="audience-tech">
 								<entry colname="col1"> </entry>
@@ -713,31 +772,6 @@ has made for the products we operate, and our relationships with suppliers.</p>
 			</body>
 		</topic>
 	</topic>
-	<topic id="guides">
-		<title>Guides</title>
-		<body/>
-		<topic id="general-guides">
-			<title>General guides</title>
-			<body>
-				<ul>
-					<li><xref href="user-guide.dita" format="dita">Cyber Security Consultancy Team: asking for help</xref></li>
-				</ul>
-			</body>
-		</topic>
-	</topic>
-	<topic id="mythbusting">
-		<title>Mythbusting</title>
-		<body>
-			<ul>
-				<li audience="audience-tech"><xref href="cjsm.dita" format="dita" type="topic">Criminal Justice Secure Mail (CJSM)</xref></li>
-				<li audience="audience-tech"><xref href="data-sovereignty.dita" format="dita">Data Sovereignty</xref></li>
-				<li audience="audience-tech"><xref href="internet-v-psn.dita" format="dita">Internet v. PSN</xref></li>
-				<li audience="audience-tech"><xref href="ip-dns-diagram-handling.dita" format="dita">IP DNS Diagram Handling</xref></li>
-				<li audience="audience-tech"><xref href="multiple-consecutive-back-to-back-firewalls.dita" format="dita">Multiple Back-to-back Consecutive Firewalls</xref></li>
-				<li><xref href="official-official-sensitive.dita" format="dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref></li>
-			</ul>
-		</body>
-	</topic>
 	<topic id="other-guidance">
 		<title>Other Guidance</title>
 		<body/>
@@ -751,20 +785,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 			<title>Technical Guidance</title>
 			<body>
 				<p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> should be read together with this security-focused guidance.</p>
-				<p><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></p>
-			</body>
-		</topic>
-	</topic>
-	<topic id="getting-in-touch">
-		<title>Getting in touch</title>
-		<body/>
-		<topic id="contact-information">
-			<title>Contact information</title>
-			<body>
-				<ul>
-					<li><xref href="email.dita" format="dita">Email</xref></li>
-					<li><xref href="reporting-an-incident.dita" format="dita">Reporting an incident</xref></li>
-				</ul>
+				<p>The <xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref> provides the base material for all security guidance in the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
 			</body>
 		</topic>
 	</topic>

@@ -2,9 +2,9 @@
 
 ## Purpose
 
-The Ministry of Justice \(MOJ\) will issue a Security Aspect Letter \(SAL\) where appropriate.
+The Ministry of Justice \(MoJ\) will issue a Security Aspect Letter \(SAL\) where appropriate.
 
-SALs are generally not required at `OFFICIAL` but MOJ may issue a SAL where it is optimal to do so or to supersede existing SALs from the previous classification scheme.
+SALs are generally not required at `OFFICIAL` but MoJ may issue a SAL where it is optimal to do so or to supersede existing SALs from the previous classification scheme.
 
 This page was last updated on 2018-12-21
 

@@ -2,11 +2,11 @@
 
 ## OFFICIAL-SENSITIVE? Not by default
 
-The Ministry of Justice \(MOJ\) does **not** consider its IP address, DNS or architectural information to be `SENSITIVE` \(a handling caveat within the `OFFICIAL` information classification\) *by default*.
+The Ministry of Justice \(MoJ\) does **not** consider its IP address, DNS or architectural information to be `SENSITIVE` \(a handling caveat within the `OFFICIAL` information classification\) *by default*.
 
 In some contexts, this information may be considered sensitive \(usually when combined with other information\), for example, "Server X on IP address x.x.x.x has not been security patched for 5 years and there are known vulnerabilities which are unmitigated and thus could actively be exploited in this moment."
 
-IP addresses of connecting clients \(for example, the IP address of the computer of a general member of the public accessing a public MOJ digital service\) *may* be Personal Data.
+IP addresses of connecting clients \(for example, the IP address of the computer of a general member of the public accessing a public MoJ digital service\) *may* be Personal Data.
 
 ### RFC1918 addresses
 

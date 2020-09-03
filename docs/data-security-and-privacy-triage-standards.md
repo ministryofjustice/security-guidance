@@ -1,6 +1,6 @@
 # Data Security & Privacy Triage Standards
 
-Below are a series of common area guides from Ministry of Justice \(MOJ\) Digital & Technology Triage Standards.
+Below are a series of common area guides from Ministry of Justice \(MoJ\) Digital & Technology Triage Standards.
 
 ## Purposeful Capture of Data
 
@@ -21,7 +21,7 @@ Ensure that:
 
 ## Amending/Deleting Data
 
-EU GDPR & the UK Data Protection Act \(2018\) requires that individuals agree to the handling and processing of their personal information. Many systems will need processes, to change, prevent, or stop handling personal information. The process might be have to be manual. Quite apart from GDPR/DPA18, these capabilities are generally useful for all MOJ systems.
+EU GDPR & the UK Data Protection Act \(2018\) requires that individuals agree to the handling and processing of their personal information. Many systems will need processes, to change, prevent, or stop handling personal information. The process might be have to be manual. Quite apart from GDPR/DPA18, these capabilities are generally useful for all MoJ systems.
 
 Ensure that:
 
@@ -38,7 +38,7 @@ Ensure that:
 
 ## Security / Architecture Considerations
 
-Much of the MOJ estate architecture is ready for GDPR/DPA18, or transformation is already in progress. Current projects must also incorporate data security and privacy mechanisms for GDPR/DPA18 compliance. Guidance from technical architects is essential to help projects. Ensure that:
+Much of the MoJ estate architecture is ready for GDPR/DPA18, or transformation is already in progress. Current projects must also incorporate data security and privacy mechanisms for GDPR/DPA18 compliance. Guidance from technical architects is essential to help projects. Ensure that:
 
 -   You know where data for the system is stored. Ask which countries and jurisdictions hold the data. Check that the storage complies with GDPR/DPA18 requirements.
 

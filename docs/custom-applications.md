@@ -1,6 +1,6 @@
 # Custom Applications
 
-We have developed a series of logging requirements for custom applications, such as digital services, applications materially customised that they can reasonably be considered bespoke/custom for the Ministry of Justice \(MOJ\) and line of business applications at different maturity tiers in order to support defensive cyber security, such as detecting breaches.
+We have developed a series of logging requirements for custom applications, such as digital services, applications materially customised that they can reasonably be considered bespoke/custom for the Ministry of Justice \(MoJ\) and line of business applications at different maturity tiers in order to support defensive cyber security, such as detecting breaches.
 
 ## Baseline Maturity Tier
 

@@ -1,6 +1,6 @@
 # Short format clause
 
-The current draft of the Ministry of Justice \(MOJ\) commodity short format data destruction clause.
+The current draft of the Ministry of Justice \(MoJ\) commodity short format data destruction clause.
 
 `Highlighted` words indicate potential requirement for contextual change, requirement of definition and so on.
 

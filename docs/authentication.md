@@ -8,7 +8,7 @@ Any access to any data **must** employ adequate authentication techniques to ide
 
 Where appropriate, passwords should be used as a knowledge-based factor for authentication.
 
-The Ministry of Justice \(MOJ\) has published the [MOJ Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/).
+The Ministry of Justice \(MoJ\) has published the [MoJ Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/).
 
 ## Named individual accounts
 
@@ -39,7 +39,7 @@ Token-based methods are preferred over static private key methods.
 
 Where appropriate, multi-factor authentication \(MFA\) should be used as a knowledge-based factor for authentication. MFA is sometimes referred to as Two-Factor Authentication \(2FA\).
 
-MOJ guidance on MFA is available [here](multi-factor-authentication-mfa-guide.md).
+MoJ guidance on MFA is available [here](multi-factor-authentication-mfa-guide.md).
 
 ### MFA for Administrators
 

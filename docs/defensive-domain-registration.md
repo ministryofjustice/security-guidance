@@ -1,8 +1,8 @@
 # Defensive domain registrations
 
-The Ministry of Justice \(MOJ\) and associated organisations \(Executive agencies, non-departmental public bodies and so on\) maintain varying levels of 'online presence' using domain registrations. This are a fundamental part of the organisation's identity on the public internet. An example is the justice.gov.uk email domain used for contacting other government organisations, partners and members of the public.
+The Ministry of Justice \(MoJ\) and associated organisations \(Executive agencies, non-departmental public bodies and so on\) maintain varying levels of 'online presence' using domain registrations. This are a fundamental part of the organisation's identity on the public internet. An example is the justice.gov.uk email domain used for contacting other government organisations, partners and members of the public.
 
-Each MOJ organisation **must** identify a core set of internet domains it considers critical to its internet identity. Each MOJ organisation must then defensively register a small number of obvious variations \(for example, `justice.gov.uk` may justify `justicegov.uk`, `justice.co.uk` and `justice.uk` where already not used for legitimate purposes\).
+Each MoJ organisation **must** identify a core set of internet domains it considers critical to its internet identity. Each MoJ organisation must then defensively register a small number of obvious variations \(for example, `justice.gov.uk` may justify `justicegov.uk`, `justice.co.uk` and `justice.uk` where already not used for legitimate purposes\).
 
 These registrations will help protect the organisation, as well as its partners and members of the public, from illegitimate parties pretending to be the organisation when they are not. Failing to register these domains can cause problems, such as phishing emails using what seem to be plausible domains.
 
@@ -82,5 +82,5 @@ Mail services/redirects must **not** be functional or available for defensively 
 
 ## Registering and maintaining a defensive domain
 
-MOJ organisations should contact [domains@digital.justice.gov.uk](mailto://domains@digital.justice.gov.uk) for assistance with defensive doman registrations and operations.
+MoJ organisations should contact [domains@digital.justice.gov.uk](mailto://domains@digital.justice.gov.uk) for assistance with defensive doman registrations and operations.
 

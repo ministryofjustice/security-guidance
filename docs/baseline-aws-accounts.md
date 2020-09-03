@@ -1,18 +1,18 @@
 # Baseline for Amazon Web Services accounts
 
-The Ministry of Justice \(MOJ\) has a 'lowest common denominator' for security-related promises, capabilities and configurations of MOJ Amazon Web Services \(AWS\) accounts.
+The Ministry of Justice \(MoJ\) has a 'lowest common denominator' for security-related promises, capabilities and configurations of MoJ Amazon Web Services \(AWS\) accounts.
 
 The baseline is not a holistic list of dos and don'ts, but a *minimum* line in the sand for what 'at least' **must** be done.
 
 ## The base principle
 
-All MOJ AWS accounts **must** utilise a series of agreed configurations to enable and support good tenancy within AWS and a suitable cyber security posture.
+All MoJ AWS accounts **must** utilise a series of agreed configurations to enable and support good tenancy within AWS and a suitable cyber security posture.
 
 ### Anti-solutionising
 
 This baseline discusses outcomes not *how* the baseline will be achieved/implemented.
 
-The MOJ Cyber Security team strongly encourage the use of the highest abstraction level of services available from AWS to achieve these goals, and minimising the amount of custom code and configuration which needs to be developed \(and thereafter, maintained\) to satisfy each baseline.
+The MoJ Cyber Security team strongly encourage the use of the highest abstraction level of services available from AWS to achieve these goals, and minimising the amount of custom code and configuration which needs to be developed \(and thereafter, maintained\) to satisfy each baseline.
 
 ## Security incidents
 
@@ -30,7 +30,7 @@ Leverage AWS' commodity IDS solution to detect/protect from malicious or unautho
 
 |What must be in place|Monitoring|Resolution/Escalation if baseline is broken/violated|
 |---------------------|----------|----------------------------------------------------|
-|[GuardDuty](https://aws.amazon.com/guardduty/) is enabled on all accounts, in all regions, all of the time.|Alerts fire when GuardDuty is not enabled in a MOJ AWS account. Alerts fire for at least `HIGH` and above \(or some version of\) GuardDuty matches.|GuardDuty is automatically re-enabled.|
+|[GuardDuty](https://aws.amazon.com/guardduty/) is enabled on all accounts, in all regions, all of the time.|Alerts fire when GuardDuty is not enabled in a MoJ AWS account. Alerts fire for at least `HIGH` and above \(or some version of\) GuardDuty matches.|GuardDuty is automatically re-enabled.|
 
 ### CloudTrail
 
@@ -38,7 +38,7 @@ Leverage AWS' native activity audit platform \(with adequate non-repudiation\) t
 
 |What must be in place|Monitoring|Resolution/Escalation if baseline is broken/violated|
 |---------------------|----------|----------------------------------------------------|
-|[CloudTrail](https://aws.amazon.com/cloudtrail/) is enabled within all accounts, all of the time. CloudTrail logs are carbon copied to an AWS account controlled by Cyber Security.|Alerts fire when CloudTrail is not enabled in an MOJ AWS account.|CloudTrail is automatically re-enabled.|
+|[CloudTrail](https://aws.amazon.com/cloudtrail/) is enabled within all accounts, all of the time. CloudTrail logs are carbon copied to an AWS account controlled by Cyber Security.|Alerts fire when CloudTrail is not enabled in an MoJ AWS account.|CloudTrail is automatically re-enabled.|
 
 ### Config
 
@@ -46,7 +46,7 @@ Leverage AWS' native AWS configuration activity audit platform to capture what c
 
 |What must be in place|Monitoring|Resolution/Escalation if baseline is broken/violated|
 |---------------------|----------|----------------------------------------------------|
-|[Config](https://aws.amazon.com/config/) is enabled within all accounts, all of the time. Config logs are carbon copied to an AWS account controlled by CyberSecurity via CloudTrail.|Alerts fire when Config is not enabled in an MOJ AWS account.|Config is automatically re-enabled.|
+|[Config](https://aws.amazon.com/config/) is enabled within all accounts, all of the time. Config logs are carbon copied to an AWS account controlled by CyberSecurity via CloudTrail.|Alerts fire when Config is not enabled in an MoJ AWS account.|Config is automatically re-enabled.|
 
 ### Tagging
 
@@ -56,7 +56,7 @@ We have our own [infrastructure ownership/tagging standards](https://ministryofj
 
 |What must be in place|Monitoring|Resolution/Escalation if baseline is broken/violated|
 |---------------------|----------|----------------------------------------------------|
-|All relevant AWS objects are tagged as per MOJ requirements.|Creating AWS user is notified automatically in increasing urgency when object is untagged. AWS account owner \(and increasing escalation\) is automatically notified when objects remained untagged.|Untagged objects are forcefully and automatically shutdown/disabled or isolated after 7 consecutive days of not being tagged.|
+|All relevant AWS objects are tagged as per MoJ requirements.|Creating AWS user is notified automatically in increasing urgency when object is untagged. AWS account owner \(and increasing escalation\) is automatically notified when objects remained untagged.|Untagged objects are forcefully and automatically shutdown/disabled or isolated after 7 consecutive days of not being tagged.|
 
 ### Regions
 
@@ -82,7 +82,7 @@ Leverage native AWS configuration options to make reasonable efforts to protect 
 
 |What must be in place|Monitoring|Resolution/Escalation if baseline is broken/violated|
 |---------------------|----------|----------------------------------------------------|
-|All AWS objects supporting encryption must have it enabled.|S3 buckets without suitable SSE-\* encryption enabled are alerted to resource creator and account owner.|After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MOJ Cyber Security.|
+|All AWS objects supporting encryption must have it enabled.|S3 buckets without suitable SSE-\* encryption enabled are alerted to resource creator and account owner.|After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MoJ Cyber Security.|
 
 ### 'World' Access
 
@@ -90,8 +90,8 @@ Ensure that public access to AWS data storage and compute is intentional, to avo
 
 |What must be in place|Monitoring|Resolution/Escalation if baseline is broken/violated|
 |---------------------|----------|----------------------------------------------------|
-|All AWS S3 objects should be not world \(public\) readable unless specifically intended to do so.|S3 objects are programmatically reviewed \(including 'open' ones\) against the source infrastructure-as-code, if there is a mismatch the resource creator and AWS account owner notified.|After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MOJ Cyber Security. After 7 days, the S3 object permissions are forcefully and automatically changed to remove 'world' access.|
-|Compute \(for example, EC2 or ECS\) instances should not be directly accessible from public networks unless through specific intentional design and should be behind CloudFront and/or applicable load balancing \(preferring AWS LB technology\). It must be truly exceptional for common service ports \(for example, TCP80 or TCP443\) to be served directly from compute resources.|Compute instances are programmatically reviewed to ensure they are not internet-accessible unless explicitly designed and documented to be so. If there is a mismatch the resource creator and AWS account owner notified.|After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MOJ Cyber Security. After 7 days, the relevant security groups are forcefully and automatically changed to remove 'world' access.|
+|All AWS S3 objects should be not world \(public\) readable unless specifically intended to do so.|S3 objects are programmatically reviewed \(including 'open' ones\) against the source infrastructure-as-code, if there is a mismatch the resource creator and AWS account owner notified.|After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MoJ Cyber Security. After 7 days, the S3 object permissions are forcefully and automatically changed to remove 'world' access.|
+|Compute \(for example, EC2 or ECS\) instances should not be directly accessible from public networks unless through specific intentional design and should be behind CloudFront and/or applicable load balancing \(preferring AWS LB technology\). It must be truly exceptional for common service ports \(for example, TCP80 or TCP443\) to be served directly from compute resources.|Compute instances are programmatically reviewed to ensure they are not internet-accessible unless explicitly designed and documented to be so. If there is a mismatch the resource creator and AWS account owner notified.|After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MoJ Cyber Security. After 7 days, the relevant security groups are forcefully and automatically changed to remove 'world' access.|
 
 ### SecurityHub
 
@@ -101,7 +101,7 @@ Over time we will be able to leverage this more, but in the immediate future thi
 
 |What must be in place|Monitoring|Resolution/Escalation if baseline is broken/violated|
 |---------------------|----------|----------------------------------------------------|
-|SecurityHub is enabled on all accounts, in all regions, all of the time.|Alerts fire when SecurityHub is not enabled in a MOJ AWS account.|SecurityHub is automatically re-enabled.|
+|SecurityHub is enabled on all accounts, in all regions, all of the time.|Alerts fire when SecurityHub is not enabled in a MoJ AWS account.|SecurityHub is automatically re-enabled.|
 
 ## Implementation
 

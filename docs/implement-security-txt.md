@@ -1,6 +1,6 @@
 # Implementing security.txt
 
-Domains where the Ministry of Justice \(MOJ\) is primarily responsible for cyber security **must** redirect the `/.well-known/security.txt` location to the central `security.txt` file.
+Domains where the Ministry of Justice \(MoJ\) is primarily responsible for cyber security **must** redirect the `/.well-known/security.txt` location to the central `security.txt` file.
 
 This redirection should be accessible from the public Internet whether or not the underlying applications/systems are. For example, `https://test.not-production.justice.gov.uk` may be a web-application requiring authentication, however `https://test.not-production.justice.gov.uk/.well-known/security.txt` should still be accessible without authentication.
 
@@ -20,5 +20,5 @@ Internal-facing domains resolvable from the public Internet \(for example, `intr
 
 ## Non-production domains
 
-Non-production domains resolvable from the public Internet \(for example, a demo deployment of a MOJ digital service or prototype\) should also implement `security.txt` as described above.
+Non-production domains resolvable from the public Internet \(for example, a demo deployment of a MoJ digital service or prototype\) should also implement `security.txt` as described above.
 

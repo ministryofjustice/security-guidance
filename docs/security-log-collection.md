@@ -1,12 +1,12 @@
 # Security Log Collection
 
-Ministry of Justice \(MOJ\) systems and services must adequately create and retain event data as part of the [DETECT](identify-protect-detect-respond-recover.md#) portion of the [Cabinet Office's Minimum Cyber Security Standard \(MCSS\)](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard).
+Ministry of Justice \(MoJ\) systems and services must adequately create and retain event data as part of the [DETECT](identify-protect-detect-respond-recover.md#) portion of the [Cabinet Office's Minimum Cyber Security Standard \(MCSS\)](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard).
 
-## MOJ Cyber Security Logging Platform
+## MoJ Cyber Security Logging Platform
 
-The MOJ Cyber Security team operate a centralised, scalable, multi-tenant, cloud-based log collection and forwarding system for infrastructure \(non-application level\) log data.
+The MoJ Cyber Security team operate a centralised, scalable, multi-tenant, cloud-based log collection and forwarding system for infrastructure \(non-application level\) log data.
 
-The platform can receive, store, index, filter, search, alert and re-forward log data from any MOJ source \(including supplier systems\).
+The platform can receive, store, index, filter, search, alert and re-forward log data from any MoJ source \(including supplier systems\).
 
 ## Additive technology supply chain
 
@@ -20,7 +20,7 @@ For example, if a cloud platform allows you to spin up arbitrary virtual machine
 
 ## Principles
 
-We have created a series of security log collection principle requirements for the MOJ. If you have any questions or comments, [get in touch](cyber-and-technical-security-guidance.md#).
+We have created a series of security log collection principle requirements for the MoJ. If you have any questions or comments, [get in touch](cyber-and-technical-security-guidance.md#).
 
 To enable ease of referencing, but not to imply priority order, each item is assigned a reference.
 
@@ -87,10 +87,10 @@ In context and where present, technology may generate events pertinent to securi
 
 For example, operating system patch state information from end-point protection detections through to encryption states within storage arrays.
 
-### 7. Log transmission to the MOJ Cyber Security Logging Platform
+### 7. Log transmission to the MoJ Cyber Security Logging Platform
 
--   a: All log data must be sent to the MOJ Cyber Security owned log platform unless all principles have already been met through the deployment of a holistic locally deployed and monitored Security Information and Event Management \(SIEM\) solution.
+-   a: All log data must be sent to the MoJ Cyber Security owned log platform unless all principles have already been met through the deployment of a holistic locally deployed and monitored Security Information and Event Management \(SIEM\) solution.
 
 
-Where 7\(a\) above is true, the MOJ Cyber Security team will advise in context what information must be sent from the in-place SIEM to the MOJ Cyber Security Logging Platform.
+Where 7\(a\) above is true, the MoJ Cyber Security team will advise in context what information must be sent from the in-place SIEM to the MoJ Cyber Security Logging Platform.
 

@@ -15,7 +15,7 @@
     <title>National Security Clearances</title>
     <body>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/> will advise on a case-by-case basis if an individual requires a <xref href="https://www.gov.uk/guidance/security-vetting-and-clearance#applicant" format="html" scope="external">national security vetting and clearance</xref>.</p>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> does <b>not</b> have a standing requirement for system administrators or application developers to maintain Security Check (SC).</p>
+      <p audience="audience-tech">The <ph conref="conrefs.dita#conrefs/moj"/> does <b>not</b> have a standing requirement for system administrators or application developers to maintain Security Check (SC).</p>
     </body>
   </topic>
 </topic>

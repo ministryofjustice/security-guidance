@@ -1,14 +1,14 @@
-# Accessing Ministry of Justice \(MOJ\) IT Systems From Abroad
+# Accessing Ministry of Justice \(MoJ\) IT Systems From Abroad
 
-*This guidance information applies to all staff, contractors and agency staff who work for the MOJ.*
+*This guidance information applies to all staff, contractors and agency staff who work for the MoJ.*
 
 **Note: If you are national security cleared to 'Enhanced SC' or DV levels, follow this process for *all* your trips, regardless of whether they are for business or personal reasons.**
 
-As a government official travelling overseas, you should consider that you may be of interest to hostile parties regardless of your role. By following MOJ policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.
+As a government official travelling overseas, you should consider that you may be of interest to hostile parties regardless of your role. By following MoJ policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.
 
-In general, it is acceptable for MOJ users to access MOJ services from abroad, and to do this using their MOJ equipment. But before you travel, consider:
+In general, it is acceptable for MoJ users to access MoJ services from abroad, and to do this using their MoJ equipment. But before you travel, consider:
 
--   Do you need to take MOJ IT equipment abroad or access MOJ IT systems to do your job?
+-   Do you need to take MoJ IT equipment abroad or access MoJ IT systems to do your job?
 -   Can the business need be met in another way or by someone else?
 -   If you just need to manage your inbox while away, can you delegate permissions to your inbox to a colleague to manage on your behalf?
 -   Have you left enough time to check and obtain necessary approvals? The process can take several weeks, depending on the circumstances. This is because it may be necessary to apply additional technical controls to protect you, your device, and any data the device can access.
@@ -17,7 +17,7 @@ In general, it is acceptable for MOJ users to access MOJ services from abroad, a
 
 ### Part One
 
-1.  Get confirmation from your Line Manager that there is a business need for you to take MOJ equipment abroad and access MOJ services. Keep a note of the answers you get.
+1.  Get confirmation from your Line Manager that there is a business need for you to take MoJ equipment abroad and access MoJ services. Keep a note of the answers you get.
 2.  Proceed directly to [Part Two](#part-two) of this process if *either one* of the following two statements apply to you:
     -   You are travelling or passing through one of the following high-attention countries: *China, Cyprus, Egypt, France, Germany, India, Iran, Israel, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey, UAE*.
     -   You are national security cleared to 'Enhanced SC' or DV levels.
@@ -33,19 +33,19 @@ In general, it is acceptable for MOJ users to access MOJ services from abroad, a
     -   Email address.
     -   Your business area.
     -   Your Security Clearance.
-    -   The network you use to access MOJ data, services or applications, for example DOM1 or Quantum.
+    -   The network you use to access MoJ data, services or applications, for example DOM1 or Quantum.
     -   The make/type of equipment you want to take with you.
     -   Asset Tag details.
     -   Countries you'll be visiting or passing through.
     -   Dates of travel.
     -   Transport details where possible, for example flights or rail journeys.
-    -   Proposed method of connecting, for example MOJ VPN.
+    -   Proposed method of connecting, for example MoJ VPN.
     -   Reason for maintaining access while abroad.
-    -   The MOJ data, applications, or services you expect to access during your trip.
+    -   The MoJ data, applications, or services you expect to access during your trip.
     -   Who you are travelling with.
-2.  The next step depends your MOJ business area:
-    -   If you are part of MOJ HQ, HMPPS HQ or HMCTS, contact your Senior Civil Servant \(SCS\) and ask for approval to take MOJ equipment abroad and access MOJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
-    -   If you are part of HMPPS \(but *not* HQ\), contact your Governor and ask for approval to take MOJ equipment abroad and access MOJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
+2.  The next step depends your MoJ business area:
+    -   If you are part of MoJ HQ, HMPPS HQ or HMCTS, contact your Senior Civil Servant \(SCS\) and ask for approval to take MoJ equipment abroad and access MoJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
+    -   If you are part of HMPPS \(but *not* HQ\), contact your Governor and ask for approval to take MoJ equipment abroad and access MoJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
 3.  Fill in the [overseas travel request form](https://intranet.justice.gov.uk/documents/2020/03/overseas-travel-form.docx).
 4.  Send the completed form to [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk), including the answers obtained from the earlier parts of this process.
 5.  Your request is considered, and an answer provided, as quickly as possible.
@@ -57,19 +57,19 @@ In general, it is acceptable for MOJ users to access MOJ services from abroad, a
 
 ## International Roaming
 
-While travelling, you might incur roaming charges when using your MOJ equipment for calls or accessing services. These charges can be expensive, and must be paid by your Business Unit. This is another reason for having a good business need to take MOJ equipment abroad.
+While travelling, you might incur roaming charges when using your MoJ equipment for calls or accessing services. These charges can be expensive, and must be paid by your Business Unit. This is another reason for having a good business need to take MoJ equipment abroad.
 
-By default, MOJ equipment is not enabled for use abroad. Before travelling, contact the [MOJ Phone and Mobile Devices](#contacts) team. Ask them to enable International Roaming, and to activate the remote wipe function. This helps protect the MOJ equipment in case of loss or theft.
+By default, MoJ equipment is not enabled for use abroad. Before travelling, contact the [MoJ Phone and Mobile Devices](#contacts) team. Ask them to enable International Roaming, and to activate the remote wipe function. This helps protect the MoJ equipment in case of loss or theft.
 
-## If you have any problem when using MOJ equipment abroad
+## If you have any problem when using MoJ equipment abroad
 
-Contact the [Service Desk](#contacts) immediately. Tell them if the MOJ equipment is lost, stolen or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.
+Contact the [Service Desk](#contacts) immediately. Tell them if the MoJ equipment is lost, stolen or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.
 
-If any security-related incident occurs overseas, regardless of whether it involves MOJ equipment, you should contact [Corporate Security Branch](#contacts) as soon as possible.
+If any security-related incident occurs overseas, regardless of whether it involves MoJ equipment, you should contact [Corporate Security Branch](#contacts) as soon as possible.
 
 For any emergency outside normal UK business hours, contact the [Duty Security Officer](#contacts).
 
-If there is a problem with your MOJ equipment, it might be necessary to disable your ability to connect to the MOJ network or services from your device. The Service Desk will do this if required. MOJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MOJ business.
+If there is a problem with your MoJ equipment, it might be necessary to disable your ability to connect to the MoJ network or services from your device. The Service Desk will do this if required. MoJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MoJ business.
 
 ## Related pages
 
@@ -99,16 +99,16 @@ If there is a problem with your MOJ equipment, it might be necessary to disable 
 -   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
 -   Slack: `#digitalservicedesk`
 
-### MOJ Duty Security Officer
+### MoJ Duty Security Officer
 
 -   Tel: +44 \(0\)20 3334 5577
 -   Email: [dutysecurityofficer@justice.gov.uk](mailto:dutysecurityofficer@justice.gov.uk)
 
-### MOJ Phone and Mobile Devices
+### MoJ Phone and Mobile Devices
 
 -   Email: [MoJ\_Phone\_and\_Mobi@justice.gov.uk](mailto:MoJ_Phone_and_Mobi@justice.gov.uk)
 
-### MOJ Security
+### MoJ Security
 
 -   Email: [security@Justice.gov.uk](mailto:security@Justice.gov.uk)
 

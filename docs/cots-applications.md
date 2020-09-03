@@ -1,6 +1,6 @@
 # Commercial off-the-shelf applications
 
-We have developed a series of logging requirements for Commercial off-the-shelf \(COTS\) applications, such as Software-as-a-Service \(SaaS\) solutions or where applications are not so customised that they can reasonably be considered bespoke/custom for the Ministry of Justice \(MOJ\).
+We have developed a series of logging requirements for Commercial off-the-shelf \(COTS\) applications, such as Software-as-a-Service \(SaaS\) solutions or where applications are not so customised that they can reasonably be considered bespoke/custom for the Ministry of Justice \(MoJ\).
 
 ## Baseline Maturity Tier
 
@@ -102,7 +102,7 @@ Temporary data stores \(such as intermediate queues\) and permanent data store \
 
 Log Collection Principle\(s\): 6
 
-Where unauthenticated users interact with applications \(for example, a MOJ G-Suite document available on the general Internet through relaxed access controls\), associated audit information must be created.
+Where unauthenticated users interact with applications \(for example, a MoJ G-Suite document available on the general Internet through relaxed access controls\), associated audit information must be created.
 
 -   a: end-client identifier\(s\)
 

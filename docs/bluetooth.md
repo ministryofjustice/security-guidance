@@ -8,9 +8,9 @@ This guidance helps you use Bluetooth enabled devices and peripheral devices.
 
 Bluetooth works by 'pairing' devices. This makes it quick and simple to use. The problem is that Bluetooth, and the pairing process, is not very secure. This means that attackers might get unauthenticated access to devices. As an example, an attacker 'listening' to the Bluetooth connection between a computer and a keyboard could possibly intercept passwords or other sensitive information as the details are typed on the keyboard.
 
-This guidance tells you more about the Ministry of Justice \(MOJ\) view of Bluetooth, from a security perspective. It also gives you hints and tips on how to use Bluetooth more safely.
+This guidance tells you more about the Ministry of Justice \(MoJ\) view of Bluetooth, from a security perspective. It also gives you hints and tips on how to use Bluetooth more safely.
 
-The aim is to help you maintain the Confidentiality, Integrity and Availability of MOJ data, applications and services. The results should be that:
+The aim is to help you maintain the Confidentiality, Integrity and Availability of MoJ data, applications and services. The results should be that:
 
 -   the information you access is not compromised
 -   you can connect devices using Bluetooth, safely
@@ -28,7 +28,7 @@ Contact the Cyber Assistance Team by email: [CyberConsultancy@digital.justice.go
 
 Examples of Bluetooth devices, and whether they might be used for business purposes, are as follows:
 
-|Bluetooth device|Suitable for MOJ work purposes \(Y/N\)|
+|Bluetooth device|Suitable for MoJ work purposes \(Y/N\)|
 |----------------|:------------------------------------:|
 |Keyboards|Y|
 |Mouse|Y|
@@ -38,7 +38,7 @@ Examples of Bluetooth devices, and whether they might be used for business purpo
 |Trackpads|N - but exception possible for Accessibility reasons|
 |External speakers|Y - but be aware of other people or devices nearby that might be listening|
 |Gaming joysticks and controllers|N - but exception possible for Accessibility reasons|
-|Laptops|Y - for MOJ-issued devices|
+|Laptops|Y - for MoJ-issued devices|
 |Hearing aids|Y|
 |Watches and Fitness bands|N|
 |Smart TVs|N - requires authorisation|

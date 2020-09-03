@@ -1,8 +1,8 @@
 # Instruction & Confirmation Letter
 
-The current draft of a templated Ministry of Justice \(MOJ\) data destruction letter, that may be issued by the MOJ to a supplier. The letter describes required actions and information, followed by a responsive declaration from the supplier.
+The current draft of a templated Ministry of Justice \(MoJ\) data destruction letter, that may be issued by the MoJ to a supplier. The letter describes required actions and information, followed by a responsive declaration from the supplier.
 
-## Letter issued by MOJ
+## Letter issued by MoJ
 
 **Background**
 
@@ -37,14 +37,14 @@ The following standards and guidelines are the *minimum* basis for data decommis
 -   DIN: [http://www.din-66399.com/index.php/en/securitylevels](http://www.din-66399.com/index.php/en/securitylevels)
 
 
-Data Destruction for electronic/magnetic storage **must** include, unless otherwise superseded by NCSC, PCI-DSS or specific MOJ guidance:
+Data Destruction for electronic/magnetic storage **must** include, unless otherwise superseded by NCSC, PCI-DSS or specific MoJ guidance:
 
 -   the revocation or otherwise destruction of decryption keys and/or mechanisms to render data inaccessible or otherwise void through the use of modern cryptography; AND/OR
 
 -   data overwriting methods consisting of at least 3 \(three\) complete overwrite passes of random data.
 
 
-Data Destruction for printed materials **must** include, unless otherwise superseded by NCSC or specific MOJ guidance:
+Data Destruction for printed materials **must** include, unless otherwise superseded by NCSC or specific MoJ guidance:
 
 -   paper cross-shredding methods to satisfy at least the DIN 66399 Level 4 standard with a maximum cross cut particle surface area 160 \(one hundred and sixty\) millimeters squared with a maximum strip width of 6 \(six\) millimeters
 

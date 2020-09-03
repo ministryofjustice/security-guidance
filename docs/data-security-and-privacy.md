@@ -11,7 +11,7 @@ Our digital projects contain important information. Serious data breaches might 
 Breaches might cause:
 
 -   harm to individuals
--   financial loss to the Ministry of Justice \(MOJ\)
+-   financial loss to the Ministry of Justice \(MoJ\)
 -   a loss of confidence in us as an organisation
 
 For personal data, the EU General Data Protection Regulation \(GDPR\) and UK Data Protection Act \(2018\) apply. These make the consequences of data breaches very clear.
@@ -36,9 +36,9 @@ All our work must follow this ethos.
 
 ## When this applies
 
-This principle applies to **all** MOJ technology projects and business actitivies.
+This principle applies to **all** MoJ technology projects and business actitivies.
 
-While GDPR applies only to personal information, all MOJ projects and tasks must have excellent data security and privacy characteristics. If they handle personal data, they must do so correctly. Projects must follow MOJ guidelines unless exceptional and approved circumstances apply.
+While GDPR applies only to personal information, all MoJ projects and tasks must have excellent data security and privacy characteristics. If they handle personal data, they must do so correctly. Projects must follow MoJ guidelines unless exceptional and approved circumstances apply.
 
 You can design your product to handle personal information correctly. There are a small number of extra steps you will have to take. Remember that personal data includes anything which might identify an individual. Even online identifiers, such as cookies, are personal data.
 

@@ -1,22 +1,22 @@
 # Shared Responsibility Models
 
-The Ministry of Justice \(MOJ\) by default will leverage shared responsibility models, particularly in commodity environments, in order to achieve efficiencies such as time, risk and cost.
+The Ministry of Justice \(MoJ\) by default will leverage shared responsibility models, particularly in commodity environments, in order to achieve efficiencies such as time, risk and cost.
 
-The MOJ believes that it should focus on elements which are unique to its requirements rather than attempting to solve commodity requirements in a unique way.
+The MoJ believes that it should focus on elements which are unique to its requirements rather than attempting to solve commodity requirements in a unique way.
 
 h/t [https://aws.amazon.com/compliance/shared-responsibility-model/](https://aws.amazon.com/compliance/shared-responsibility-model/)
 
 ## Assessments
 
-The MOJ conducts assessments \(including risk assessments\) where appropriate to ensure it understands the shared responsibility model, its obligations under the same and measure how third-parties are meeting their obligations.
+The MoJ conducts assessments \(including risk assessments\) where appropriate to ensure it understands the shared responsibility model, its obligations under the same and measure how third-parties are meeting their obligations.
 
 ### Inherited
 
-The MOJ inherits controls which are fully controlled and managed by a third-party, such as physical and environmental controls in a data centre.
+The MoJ inherits controls which are fully controlled and managed by a third-party, such as physical and environmental controls in a data centre.
 
 ### Shared
 
-MOJ has shared controls which is jointly responsible for with the third-party, for example:
+MoJ has shared controls which is jointly responsible for with the third-party, for example:
 
 -   Patch Management - AWS is responsible for patching and fixing flaws within the infrastructure, but customers are responsible for patching their guest OS and applications.
 
@@ -25,9 +25,9 @@ MOJ has shared controls which is jointly responsible for with the third-party, f
 -   Awareness & Training - AWS trains AWS employees, but a customer must train their own employees.
 
 
-### MOJ specific
+### MoJ specific
 
-The MOJ is responsible for appropriate use within its partnership or 'tenancy' of a third-party supplier or product.
+The MoJ is responsible for appropriate use within its partnership or 'tenancy' of a third-party supplier or product.
 
-For example, in AWS, MOJ must correctly leverage native AWS functionality \(such as Security Groups\) to protect systems/data, and only the MOJ can implement these.
+For example, in AWS, MoJ must correctly leverage native AWS functionality \(such as Security Groups\) to protect systems/data, and only the MoJ can implement these.
 

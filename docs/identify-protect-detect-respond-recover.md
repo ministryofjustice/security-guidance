@@ -1,10 +1,10 @@
 # IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER
 
-The Ministry of Justice \(MOJ\) is required to adhere \(but prefers to exceed\) to the [Minimum Cyber Security Standard \(MCSS\)](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard).
+The Ministry of Justice \(MoJ\) is required to adhere \(but prefers to exceed\) to the [Minimum Cyber Security Standard \(MCSS\)](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard).
 
 ## The Standard
 
-The [UK HMG Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework) mandates protective security outcomes that the MOJ must achieve \(and suppliers to MOJ, where they process MOJ data/information\).
+The [UK HMG Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework) mandates protective security outcomes that the MoJ must achieve \(and suppliers to MoJ, where they process MoJ data/information\).
 
 More information is available from [https://www.gov.uk/government/publications/the-minimum-cyber-security-standard.](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard.)
 

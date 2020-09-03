@@ -2,7 +2,7 @@
 
 ## Install Eclipse
 
-1. Download the installer for the Eclipse IDE environment from [eclipse.org/downloads](eclipse.org/downloads). At the time of writing, the current version of Eclipse is 2020-06.
+1. Download the installer for the Eclipse IDE environment from [https://eclipse.org/downloads](https://eclipse.org/downloads). At the time of writing, the current version of Eclipse is 2020-06.
 2. Unpackage the installer in a convenient temporary folder.
 3. Run the installer:<br/>`eclipse-inst`
 4. You'll be asked what configuration of Eclipse you want. Any will do, but really you want Git and XML components, which come as standard in the Eclipse IDE for Java Developers, so choose that one.
@@ -52,7 +52,7 @@
 
 ## Installing DITA
 
-1. Open a web browser, and go to [the DITA Open Toolkit website](www.dita-ot.org).
+1. Open a web browser, and go to [the DITA Open Toolkit website](https://www.dita-ot.org).
 2. Click the Download button, to download the latest version.
 3. In a terminal, create a directory to install the DITA Open Toolkit. For example: `~/installLocal`. Change to this directory.
 4. Extract the toolkit contents from the archive you just downloaded. This will extract into a directory named according to the toolkit version, for example `~/installLocal/dita-ot-3.5.2`.

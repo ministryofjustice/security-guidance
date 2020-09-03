@@ -20,19 +20,19 @@ This only applies to our externally-facing services; it does not apply to our in
 
 Under the updated data protection legislation we are still able to log and monitor the use of our services to help defend them against cyber security attacks, and misuse \(such as fraud\).
 
-[Recital 49](https://www.privacy-regulation.eu/en/recital-49-GDPR.htm) notes that the processing of personal data \(to the extent that is strictly necessary and proportionate\) to ensure the security of a system which forms the underlying lawful basis for why the Ministry of Justice \(MOJ\) processes this type of data for this purpose. Thus we are still able to log and monitor external interactions with our services to look for evidence of cyber security attacks, and to enable us to act to protect those services - such as by blocking an IP address associated with known malware, or which is trying to perform a denial of service against us.
+[Recital 49](https://www.privacy-regulation.eu/en/recital-49-GDPR.htm) notes that the processing of personal data \(to the extent that is strictly necessary and proportionate\) to ensure the security of a system which forms the underlying lawful basis for why the Ministry of Justice \(MoJ\) processes this type of data for this purpose. Thus we are still able to log and monitor external interactions with our services to look for evidence of cyber security attacks, and to enable us to act to protect those services - such as by blocking an IP address associated with known malware, or which is trying to perform a denial of service against us.
 
 However we must be careful that we do not over-retain such log information, or share it with those who do not need to see it, without lawful justification. We must also ensure we act in a proportionate way with this data.
 
-The MOJ CISO is ultimately responsible for all logging and monitoring systems which have been implemented for cyber security purposes, and as such is the Information Asset Owner for all logging and monitoring data.
+The MoJ CISO is ultimately responsible for all logging and monitoring systems which have been implemented for cyber security purposes, and as such is the Information Asset Owner for all logging and monitoring data.
 
-By default we will retain raw logs in direct relation to security logging and monitoring purposes for at least 90 days and a maximum of 2 years. The variation in between is as defined and required by legislation, regulation \(such as the Law Enforcement Directive\) or certification compliance \(such as [PCI-DSS](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)\). Retention for periods longer than 2 years requires MOJ CISO approval.
+By default we will retain raw logs in direct relation to security logging and monitoring purposes for at least 90 days and a maximum of 2 years. The variation in between is as defined and required by legislation, regulation \(such as the Law Enforcement Directive\) or certification compliance \(such as [PCI-DSS](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)\). Retention for periods longer than 2 years requires MoJ CISO approval.
 
 Aggregate data from logging systems \(such as number of particular types of events, total numbers of visits to sites, etc\) can be retained indefinitely, so long as care has been taken to remove potentially unique or identifying information from the retained information set.
 
 ## Protecting log files and log data
 
-Default permissions must be set on logging and monitoring systems such that only ops staff for that service and the MOJ's security operations team have access to the data in them. All access to the raw logging and monitoring data must also be logged.
+Default permissions must be set on logging and monitoring systems such that only ops staff for that service and the MoJ's security operations team have access to the data in them. All access to the raw logging and monitoring data must also be logged.
 
-Bulk exporting from such logging systems is prohibited by default as sensitive logs should be analysed programmatically in-situ. Bulk exporting should be prevented by default technical/access controls where possible. If a bulk extract from a logging system is required \(for example, into a more complex analytical system or in a wider migration\) then this requires the approval of the MOJ CISO.
+Bulk exporting from such logging systems is prohibited by default as sensitive logs should be analysed programmatically in-situ. Bulk exporting should be prevented by default technical/access controls where possible. If a bulk extract from a logging system is required \(for example, into a more complex analytical system or in a wider migration\) then this requires the approval of the MoJ CISO.
 

@@ -14,7 +14,7 @@ Good technical maintenance \(just like other release or change paths\) should in
 
 ## Commodity technical maintenance
 
-The Ministry of Justice \(MOJ\) expect technology systems to be maintained to ensure the commodity functional elements do not become end of life, or cease function as a result.
+The Ministry of Justice \(MoJ\) expect technology systems to be maintained to ensure the commodity functional elements do not become end of life, or cease function as a result.
 
 Examples include:
 

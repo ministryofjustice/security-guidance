@@ -5,27 +5,32 @@
 	<title><ph conref="conrefs.dita#conrefs/mojlong"/> Cyber Security Guidance</title>
 	<topicref href="conrefs.dita" type="topic" processing-role="resource-only"/>
 	<topicref href="cyber-and-technical-security-guidance.dita" type="topic"/>
+	<topichead navtitle="Getting in contact">
+		<topicref href="reporting-an-incident.dita" type="topic"/>
+		<topicref href="user-guide.dita" type="topic"/>
+	</topichead>
 	<topichead navtitle="Cyber">
 		<topichead navtitle="Access Control">
 			<topicref href="access-control-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="accessing-moj-it-systems-from-abroad.dita" type="topic"/>
-			<topicref href="authentication.dita" type="topic"/>
-			<topicref href="authorisation.dita" type="topic"/>
+			<topicref href="authentication.dita" type="topic" audience="audience-tech"/>
+			<topicref href="authorisation.dita" type="topic" audience="audience-tech"/>
 			<topicref href="managing-user-access-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
 			<topicref href="multi-factor-authentication-mfa-guide.dita" type="topic" audience="audience-tech"/>
+			<topicref href="personnel-security-clearances.dita" type="topic"/>
 			<topicref href="privileged-account-management-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="protecting-social-media-accounts.dita" type="topic"/>
 		</topichead>
 		<topichead navtitle="Asset Management">
-			<topicref href="accounting.dita" type="topic"/>
+			<topicref href="accounting.dita" type="topic" audience="audience-tech"/>
 			<topicref href="bluetooth.dita" type="topic"/>
 			<topicref href="general-advice-on-taking-equipment-abroad.dita" type="topic"/>
 			<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic"/>
 			<topicref href="guidance-for-using-open-internet-tools.dita" type="topic"/>
 			<topicref href="lost-laptophardware.dita" type="topic"/>
-			<topicref href="personal-devices.dita" type="topic"/>
 			<topicref href="remote-working.dita" type="topic"/>
+			<topicref href="personal-devices.dita" type="topic"/>
 		</topichead>
 		<topicref href="cryptography.dita" type="topic" audience="audience-tech"/>
 		<topichead navtitle="Operational Security" audience="audience-tech">
@@ -34,92 +39,72 @@
 				<topicref href="malware-protection-guidance-defensive-layer-2.dita" type="topic"/>
 				<topicref href="malware-protection-guidance-defensive-layer-3.dita" type="topic"/>
 			</topicref>
+			<topicref href="vulnerability-disclosure-policy.dita" type="topic"/>
+			<topicref href="implement-security-txt.dita" type="topic"/>
 		</topichead>
 	</topichead>
 	<topichead navtitle="Technical">
 		<topichead navtitle="Principles">
+			<topicref href="cjsm.dita" type="topic" audience="audience-tech"/>
+			<topicref href="data-sovereignty.dita" type="topic" audience="audience-tech"/>
 			<topicref href="identify-protect-detect-respond-recover.dita" type="topic"/>
+			<topicref href="internet-v-psn.dita" type="topic" audience="audience-tech"/>
+			<topicref href="ip-dns-diagram-handling.dita" type="topic" audience="audience-tech"/>
 			<topicref href="management-access.dita" type="topic" audience="audience-tech"/>
+			<topicref href="multiple-consecutive-back-to-back-firewalls.dita" type="topic" audience="audience-tech"/>
 			<topicref href="networks-bearers-not-trust.dita" type="topic" audience="audience-tech"/>
+			<topicref href="official-official-sensitive.dita" type="topic"/>
 			<topicref href="secrets-management.dita" type="topic" audience="audience-tech"/>
 			<topicref href="secure-by-default.dita" type="topic" audience="audience-tech"/>
 			<topicref href="shared-responsibility-models.dita" type="topic" audience="audience-tech"/>
+			<topicref href="standards-assurance-tables.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 		<topichead navtitle="Data and information">
-			<topicref href="data-destruction.dita" type="topic" audience="audience-tech"/>
+			<topichead navtitle="Data Destruction" audience="audience-tech">
+				<topicref href="data-destruction.dita" type="topic"/>
+				<topicref href="data-destruction-contract-clauses-definitions.dita" type="topic"/>
+				<topicref href="data-destruction-contract-clauses-long-format.dita" type="topic"/>
+				<topicref href="data-destruction-contract-clauses-long-format-appendix.dita" type="topic"/>
+				<topicref href="data-destruction-contract-clauses-short-format.dita" type="topic"/>
+				<topicref href="data-destruction-instruction-and-confirmation-letter.dita" type="topic"/>
+			</topichead>
 			<topicref href="data-security-and-privacy.dita" type="topic"/>
 			<topicref href="password-managers.dita" type="topic"/>
+			<topichead navtitle="Suppliers to MOJ" audience="audience-tech">
+				<topicref href="assessing-suppliers.dita" type="topic"/>
+				<topicref href="contracts.dita" type="topic"/>
+				<topicref href="security-aspect-letters.dita" type="topic"/>
+				<topicref href="supplier-corporate-it.dita" type="topic"/>
+			</topichead>
+			<topicref href="using-lastpass.dita" type="topic"/>
 		</topichead>
 		<!-- <topichead navtitle="Incident management">
 		</topichead> -->
 		<topichead navtitle="System development" audience="audience-tech">
+			<topichead navtitle="Active Cyber Defence">
+				<topicref href="mail-check.dita" type="topic"/>
+				<topicref href="public-sector-dns.dita" type="topic"/>
+				<topicref href="web-check.dita" type="topic"/>
+			</topichead>
+			<topicref href="automated-certificate-renewal.dita" type="topic"/>
 			<topicref href="baseline-aws-accounts.dita" type="topic"/>
 			<topicref href="cots-applications.dita" type="topic"/>
 			<topicref href="custom-applications.dita" type="topic"/>
+			<topicref href="data-security-and-privacy-lifecycle.dita" type="topic"/>
+			<topicref href="data-security-and-privacy-triage-standards.dita" type="topic"/>
+			<topicref href="defensive-domain-registration.dita" type="topic"/>
 			<topicref href="maintained-by-default.dita" type="topic"/>
-			<topicref href="security-log-collection.dita" type="topic"/>
+			<topicref href="online-identifiers.dita" type="topic"/>
+			<topichead navtitle="Security Log Collection">
+				<topicref href="security-log-collection.dita" type="topic"/>
+				<topicref href="enterprise-it-infrastructure.dita" type="topic"/>
+				<topicref href="enterprise-it-mobile-devices.dita" type="topic"/>
+				<topicref href="hosting-platforms.dita" type="topic"/>
+				<topicref href="log-entry-metadata.dita" type="topic"/>
+				<topicref href="security-log-collection-maturity-tiers.dita" type="topic"/>
+			</topichead>
 			<topicref href="using-live-data-for-testing-purposes.dita" type="topic"/>
 			<topicref href="vulnerability-scanning.dita" type="topic"/>
-		</topichead>
-	</topichead>
-	<topichead navtitle="Standards" audience="audience-tech">
-		<topichead navtitle="Security Log Collection">
-			<topicref href="enterprise-it-infrastructure.dita" type="topic"/>
-			<topicref href="enterprise-it-mobile-devices.dita" type="topic"/>
-			<topicref href="hosting-platforms.dita" type="topic"/>
-			<topicref href="log-entry-metadata.dita" type="topic"/>
-			<topicref href="security-log-collection-maturity-tiers.dita" type="topic"/>
-		</topichead>
-	</topichead>
-	<topichead navtitle="Guides">
-		<topichead navtitle="General Guides">
-			<topicref href="automated-certificate-renewal.dita" type="topic" audience="audience-tech"/>
-			<topicref href="data-security-and-privacy-lifecycle.dita" type="topic" audience="audience-tech"/>
-			<topicref href="data-security-and-privacy-triage-standards.dita" type="topic" audience="audience-tech"/>
-			<topicref href="defensive-domain-registration.dita" type="topic" audience="audience-tech"/>
-			<topicref href="online-identifiers.dita" type="topic" audience="audience-tech"/>
-			<topicref href="personnel-security-clearances.dita" type="topic"/>
-			<topicref href="standards-assurance-tables.dita" type="topic" audience="audience-tech"/>
-			<topicref href="user-guide.dita" type="topic"/>
-		</topichead>
-		<topichead navtitle="Active Cyber Defence" audience="audience-tech">
-			<topicref href="mail-check.dita" type="topic"/>
-			<topicref href="public-sector-dns.dita" type="topic"/>
-			<topicref href="web-check.dita" type="topic"/>
-		</topichead>
-		<topichead navtitle="Product specific guides">
-			<topicref href="using-lastpass.dita" type="topic"/>
-		</topichead>
-	</topichead>
-	<topichead navtitle="Suppliers to MOJ" audience="audience-tech">
-		<topicref href="assessing-suppliers.dita" type="topic"/>
-		<topicref href="contracts.dita" type="topic"/>
-		<topichead navtitle="Data Destruction">
-			<topicref href="data-destruction-instruction-and-confirmation-letter.dita" type="topic"/>
-			<topicref href="data-destruction-contract-clauses-definitions.dita" type="topic"/>
-			<topicref href="data-destruction-contract-clauses-short-format.dita" type="topic"/>
-			<topicref href="data-destruction-contract-clauses-long-format.dita" type="topic"/>
-			<topicref href="data-destruction-contract-clauses-long-format-appendix.dita" type="topic"/>
-		</topichead>
-		<topicref href="security-aspect-letters.dita" type="topic"/>
-		<topicref href="supplier-corporate-it.dita" type="topic"/>
-	</topichead>
-	<topichead navtitle="Mythbusting">
-		<topicref href="cjsm.dita" type="topic" audience="audience-tech"/>
-		<topicref href="data-sovereignty.dita" type="topic" audience="audience-tech"/>
-		<topicref href="internet-v-psn.dita" type="topic" audience="audience-tech"/>
-		<topicref href="ip-dns-diagram-handling.dita" type="topic" audience="audience-tech"/>
-		<topicref href="multiple-consecutive-back-to-back-firewalls.dita" type="topic" audience="audience-tech"/>
-		<topicref href="official-official-sensitive.dita" type="topic"/>
-	</topichead>
-	<topichead navtitle="Getting in touch">
-		<topichead navtitle="Contact information">
-			<topicref href="email.dita" type="topic"/>
-			<topicref href="reporting-an-incident.dita" type="topic"/>
-		</topichead>
-		<topichead navtitle="Vulnerability Disclosure" audience="audience-tech">
-			<topicref href="vulnerability-disclosure-policy.dita" type="topic"/>
-			<topicref href="implement-security-txt.dita" type="topic"/>
 		</topichead>
 	</topichead>
 </map>

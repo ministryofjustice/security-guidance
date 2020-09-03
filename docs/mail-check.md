@@ -6,13 +6,13 @@ The [Mail Check Service](https://www.ncsc.gov.uk/blog-post/helping-secure-public
 
 The service helps public sector email administrators improve and maintain the security of their email domains by preventing spoof email.
 
-Domains operated by, or on behalf of, the Ministry of Justice \(MOJ\) **must** be added to Mail Check under at least the central MOJ Mail Check account.
+Domains operated by, or on behalf of, the Ministry of Justice \(MoJ\) **must** be added to Mail Check under at least the central MoJ Mail Check account.
 
 ## When to use the service
 
 Mail Check \(and the underlying DMARC and SPF configurations\) **must** be implemented regardless of whether the domain is expected to send or receive emails on a routine basis.
 
-This is important to ensure domains that are not expected to send emails are still monitored for being spoofed, as they are still legitimate MOJ domains which attackers may attempt to exploit in order to attack users.
+This is important to ensure domains that are not expected to send emails are still monitored for being spoofed, as they are still legitimate MoJ domains which attackers may attempt to exploit in order to attack users.
 
 ## How to use the service
 
@@ -22,9 +22,9 @@ The email domain name is required. It must be publicly contactable for SMTP from
 
 DMARC \(which requires SPF and DKIM\) TXT records must be available for creation or iteration, as per the [GOV.UK DMARC configuration guide page](https://www.gov.uk/guidance/set-up-government-email-services-securely#create-and-iterate-dmarc-records).
 
-MOJ is permitted to use the service for free as a central government organisation, but suppliers to MOJ currently are not.
+MoJ is permitted to use the service for free as a central government organisation, but suppliers to MoJ currently are not.
 
 ### Get started
 
-Contact the MOJ Cybersecurity team to be added into MOJ's subscription of the service.
+Contact the MoJ Cybersecurity team to be added into MoJ's subscription of the service.
 
