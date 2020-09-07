@@ -65,6 +65,7 @@
 4. Run the command:</br>`dita --input=sequence.ditamap --format=pdf`
 5. Look into the newly created `out` folder. You should see a file `sequence.pdf`. Open this with a PDF reader, and check that there is content in there, about 'Working in the garage'.
 6. If you have the content, your DITA Toolkit installation is working correctly.
+7. If you get an error message similar to: `java.lang.OutOfMemoryError: Java heap space` when you run the `dita` command, try increasing the size of the Java heap space. To do this, modify the line in the `startcmd.sh` script, changing from:<br/>`export ANT_OPTS="-Xmx512m $ANT_OPTS"`<br/>to:<br/>`export ANT_OPTS="-Xmx1024m $ANT_OPTS"`<br/>*Note:* You'll need to exit from the terminal and re-run the `startcmd.sh` script for the change to take effect.
 
 ## Add DITA awareness to the XML editor
 
