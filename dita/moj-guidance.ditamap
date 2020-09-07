@@ -78,8 +78,9 @@
 			</topichead>
 			<topicref href="using-lastpass.dita" type="topic"/>
 		</topichead>
-		<!-- <topichead navtitle="Incident management">
-		</topichead> -->
+		<topichead navtitle="Incident management" audience="audience-tech">
+			<topicref href="operational-response-to-phishing.dita" type="topic"/>
+		</topichead>
 		<topichead navtitle="System development" audience="audience-tech">
 			<topichead navtitle="Active Cyber Defence">
 				<topicref href="mail-check.dita" type="topic"/>

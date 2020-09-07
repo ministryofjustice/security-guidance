@@ -8,7 +8,7 @@ The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 3 September 2020.
+This guidance is dated: 7 September 2020.
 
 For convenience, offline versions of this guidance are available.
 
@@ -17,7 +17,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 3 October 2020.
+The offline versions of this guidance are time-limited, and are not valid after 7 October 2020.
 
 ### Getting in touch
 
@@ -47,6 +47,7 @@ The MoJ has developed their cyber and technical security taxonomy as follows:
 ||Operational Security|
 |Technical|Principles|
 ||Data and information|
+||Incident management|
 ||System development|
 
 The documents have been developed and defined within this taxonomy, and are listed in the next section, together with their suggested target audiences.
@@ -110,6 +111,8 @@ The documents have been developed and defined within this taxonomy, and are list
 |||[Suppliers to MoJ: Security Aspect Letters](security-aspect-letters.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Suppliers to MoJ: Supplier Corporate IT](supplier-corporate-it.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Using LastPass Enterprise](using-lastpass.md)|All users|
+||Incident management|||
+|||[Operational Response to Phishing](operational-response-to-phishing.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 ||System development|||
 |||[Active Cyber Defence: Mail Check](mail-check.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Active Cyber Defence: Public Sector DNS](public-sector-dns.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="operational-response-to-phishing">
+	<title>Operational Response to Phishing</title>
+	<body>
+		<p>This guidance provides <ph conref="conrefs.dita#conrefs/mojlong"/> operational security teams and system administrators with process steps to follow, in response to a Phishing incident report.</p>
+	</body>
+	<topic id="principles">
+		<title>Principles</title>
+		<body>
+			<p>A user reporting a possible Phishing incident is probably very nervous. Be as supportive and sympathetic as you can.</p>
+			<p>Try to minimise the number of questions you ask the user. Asking lots of technical questions is daunting.</p>
+			<p>The single most important question to ask is:
+				<ul>
+					<li >Did you provide any passwords or access codes?</li>
+				</ul>
+			If the answer is <codeph>Yes</codeph>, then the incident <i>must</i> be escalated to an analyst so that the credentials can be expired, revoked, or reset, as necessary.</p>
+		</body>
+	</topic>
+	<topic id="phishing-incident-checklist">
+		<title>Phishing Incident Checklist</title>
+		<body>
+			<p>The following checklist is indicative. Do not hesitate to adapt according to circumstances, but ensure that you have sought and obtained approval from a senior person before doing so.</p>
+			<table>
+				<tgroup cols="4">
+					<colspec colname="col1" colnum="1" colwidth="1*"/>
+					<colspec colname="col2" colnum="2" colwidth="1*"/>
+					<colspec colname="col3" colnum="3" colwidth="3*"/>
+					<colspec colname="col4" colnum="4" colwidth="3*"/>
+					<thead>
+						<row>
+							<entry colname="col1">Task</entry>
+							<entry namest="col2" nameend="col3">Activity</entry>
+							<entry colname="col4">Who does this</entry>
+						</row>
+					</thead>
+					<tbody>
+						<row>
+							<entry colname="col1">1.</entry>
+							<entry namest="col2" nameend="col3">Determine what team(s) are affected by the phishing incident. Notify them. Determine if there are any team-specific instructions, and follow them.</entry>
+							<entry colname="col4">Operational security team</entry>
+						</row>
+						<row>
+							<entry colname="col1">2.</entry>
+							<entry namest="col2" nameend="col3">Include all affected teams into the incident management 'war' room. Don't forget the communications team.</entry>
+							<entry colname="col4">Incident manager</entry>
+						</row>
+						<row>
+							<entry colname="col1">3.</entry>
+							<entry namest="col2" nameend="col3">Determine scope and impact of incident.</entry>
+							<entry colname="col4">Incident manager, Operational security team</entry>
+						</row>
+						<row>
+							<entry colname="col1"> </entry>
+							<entry colname="col2">a.</entry>
+							<entry colname="col3">What does the email look like (subject, body, and sender)?</entry>
+							<entry colname="col4"> </entry>
+						</row>
+						<row>
+							<entry colname="col1"> </entry>
+							<entry colname="col2">b.</entry>
+							<entry colname="col3">How many users received the phishing email?</entry>
+							<entry colname="col4"> </entry>
+						</row>
+						<row>
+							<entry colname="col1"> </entry>
+							<entry colname="col2">c.</entry>
+							<entry colname="col3">Which user groups are affected?</entry>
+							<entry colname="col4"> </entry>
+						</row>
+						<row>
+							<entry colname="col1"> </entry>
+							<entry colname="col2">d.</entry>
+							<entry colname="col3">How many users clicked the link/downloaded an attachment?</entry>
+							<entry colname="col4"> </entry>
+						</row>
+						<row>
+							<entry colname="col1">4.</entry>
+							<entry namest="col2" nameend="col3">If we know the URL of the link, immediately block it and action password resets for anybody that followed it.</entry>
+							<entry colname="col4">Incident manager</entry>
+						</row>
+						<row>
+							<entry colname="col1">5.</entry>
+							<entry namest="col2" nameend="col3">Does the link deliver malware? Unless the answer is <i>definitely</i> no, If yes or unsure, run anti-virus scans for all accounts that clicked the link.</entry>
+							<entry colname="col4">Operational security team</entry>
+						</row>
+						<row>
+							<entry colname="col1">6.</entry>
+							<entry namest="col2" nameend="col3">Identify required and recommended communications:</entry>
+							<entry colname="col4">Communications, Incident manager, Operational security team</entry>
+						</row>
+						<row>
+							<entry colname="col1"> </entry>
+							<entry colname="col2">a.</entry>
+							<entry colname="col3">Enforced password resets and anti-virus scans.</entry>
+							<entry colname="col4"> </entry>
+						</row>
+						<row>
+							<entry colname="col1"> </entry>
+							<entry colname="col2">b.</entry>
+							<entry colname="col3">End-user and business holding statements.</entry>
+							<entry colname="col4"> </entry>
+						</row>
+						<row>
+							<entry colname="col1">7.</entry>
+							<entry namest="col2" nameend="col3">Watch for additional users reporting that they clicked on the link.</entry>
+							<entry colname="col4">Operational security team</entry>
+						</row>
+						<row>
+							<entry colname="col1">8.</entry>
+							<entry namest="col2" nameend="col3">Monitor and report on progress of password resets and anti-virus scanning activities.</entry>
+							<entry colname="col4">Incident manager, Operational security team</entry>
+						</row>
+						<row>
+							<entry colname="col1">10.</entry>
+							<entry namest="col2" nameend="col3">Post-incident activities:</entry>
+							<entry colname="col4">Incident manager, Operational security team</entry>
+						</row>
+						<row>
+							<entry colname="col1"> </entry>
+							<entry colname="col2">a.</entry>
+							<entry colname="col3">Monitor affected user accounts.</entry>
+							<entry colname="col4"> </entry>
+						</row>
+						<row>
+							<entry colname="col1"> </entry>
+							<entry colname="col2">b.</entry>
+							<entry colname="col3">Refresh and promote anti-phishing awareness and training.</entry>
+							<entry colname="col4"> </entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+		</body>
+	</topic>
+</topic>
