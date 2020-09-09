@@ -8,7 +8,7 @@ The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 7 September 2020.
+This guidance is dated: 9 September 2020.
 
 For convenience, offline versions of this guidance are available.
 
@@ -17,7 +17,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 7 October 2020.
+The offline versions of this guidance are time-limited, and are not valid after 9 October 2020.
 
 ### Getting in touch
 

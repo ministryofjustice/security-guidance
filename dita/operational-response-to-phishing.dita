@@ -13,7 +13,7 @@
 			<p>Try to minimise the number of questions you ask the user. Asking lots of technical questions is daunting.</p>
 			<p>The single most important question to ask is:
 				<ul>
-					<li >Did you provide any passwords or access codes?</li>
+					<li>Did you provide any passwords or access codes?</li>
 				</ul>
 			If the answer is <codeph>Yes</codeph>, then the incident <i>must</i> be escalated to an analyst so that the credentials can be expired, revoked, or reset, as necessary.</p>
 		</body>
@@ -26,29 +26,33 @@
 				<tgroup cols="4">
 					<colspec colname="col1" colnum="1" colwidth="1*"/>
 					<colspec colname="col2" colnum="2" colwidth="1*"/>
-					<colspec colname="col3" colnum="3" colwidth="3*"/>
-					<colspec colname="col4" colnum="4" colwidth="3*"/>
+					<colspec colname="col3" colnum="3" colwidth="4*"/>
+					<colspec colname="col4" colnum="4" colwidth="2*"/>
 					<thead>
 						<row>
 							<entry colname="col1">Task</entry>
-							<entry namest="col2" nameend="col3">Activity</entry>
+							<entry colname="col2">Sub-task</entry>
+							<entry colname="col3">Activity</entry>
 							<entry colname="col4">Who does this</entry>
 						</row>
 					</thead>
 					<tbody>
 						<row>
 							<entry colname="col1">1.</entry>
-							<entry namest="col2" nameend="col3">Determine what team(s) are affected by the phishing incident. Notify them. Determine if there are any team-specific instructions, and follow them.</entry>
+							<entry colname="col2"> </entry>
+							<entry colname="col3">Determine what team(s) are affected by the phishing incident. Notify them. Determine if there are any team-specific instructions, and follow them.</entry>
 							<entry colname="col4">Operational security team</entry>
 						</row>
 						<row>
 							<entry colname="col1">2.</entry>
-							<entry namest="col2" nameend="col3">Include all affected teams into the incident management 'war' room. Don't forget the communications team.</entry>
+							<entry colname="col2"> </entry>
+							<entry colname="col3">Include all affected teams into the incident management 'war' room. Don't forget the communications team.</entry>
 							<entry colname="col4">Incident manager</entry>
 						</row>
 						<row>
 							<entry colname="col1">3.</entry>
-							<entry namest="col2" nameend="col3">Determine scope and impact of incident.</entry>
+							<entry colname="col2"> </entry>
+							<entry colname="col3">Determine scope and impact of incident.</entry>
 							<entry colname="col4">Incident manager, Operational security team</entry>
 						</row>
 						<row>
@@ -77,17 +81,20 @@
 						</row>
 						<row>
 							<entry colname="col1">4.</entry>
-							<entry namest="col2" nameend="col3">If we know the URL of the link, immediately block it and action password resets for anybody that followed it.</entry>
+							<entry colname="col2"> </entry>
+							<entry colname="col3">If we know the URL of the link, immediately block it and action password resets for anybody that followed it.</entry>
 							<entry colname="col4">Incident manager</entry>
 						</row>
 						<row>
 							<entry colname="col1">5.</entry>
-							<entry namest="col2" nameend="col3">Does the link deliver malware? Unless the answer is <i>definitely</i> no, If yes or unsure, run anti-virus scans for all accounts that clicked the link.</entry>
+							<entry colname="col2"> </entry>
+							<entry colname="col3">Does the link deliver malware? Unless the answer is <i>definitely</i> no, If yes or unsure, run anti-virus scans for all accounts that clicked the link.</entry>
 							<entry colname="col4">Operational security team</entry>
 						</row>
 						<row>
 							<entry colname="col1">6.</entry>
-							<entry namest="col2" nameend="col3">Identify required and recommended communications:</entry>
+							<entry colname="col2"> </entry>
+							<entry colname="col3">Identify required and recommended communications:</entry>
 							<entry colname="col4">Communications, Incident manager, Operational security team</entry>
 						</row>
 						<row>
@@ -104,17 +111,20 @@
 						</row>
 						<row>
 							<entry colname="col1">7.</entry>
-							<entry namest="col2" nameend="col3">Watch for additional users reporting that they clicked on the link.</entry>
+							<entry colname="col2"> </entry>
+							<entry colname="col3">Watch for additional users reporting that they clicked on the link.</entry>
 							<entry colname="col4">Operational security team</entry>
 						</row>
 						<row>
 							<entry colname="col1">8.</entry>
-							<entry namest="col2" nameend="col3">Monitor and report on progress of password resets and anti-virus scanning activities.</entry>
+							<entry colname="col2"> </entry>
+							<entry colname="col3">Monitor and report on progress of password resets and anti-virus scanning activities.</entry>
 							<entry colname="col4">Incident manager, Operational security team</entry>
 						</row>
 						<row>
 							<entry colname="col1">10.</entry>
-							<entry namest="col2" nameend="col3">Post-incident activities:</entry>
+							<entry colname="col2"> </entry>
+							<entry colname="col3">Post-incident activities:</entry>
 							<entry colname="col4">Incident manager, Operational security team</entry>
 						</row>
 						<row>
