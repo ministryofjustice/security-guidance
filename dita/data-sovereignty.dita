@@ -50,12 +50,8 @@
     <title>Where to get help</title>
     <body>
       <ul>
-        <li>
-          <p>In the first instance, contact the <ph conref="conrefs.dita#conrefs/moj"/> Cybersecurity team - <xref href="mailto:cybersecurity@digital.justice.gov.uk" format="email" scope="external">cybersecurity@digital.justice.gov.uk</xref></p>
-        </li>
-        <li>
-          <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s Data Protection Officer - <xref href="mailto:data.compliance@justice.gov.uk" format="email" scope="external">data.compliance@justice.gov.uk</xref></p>
-        </li>
+        <li>In the first instance, contact the <ph conref="conrefs.dita#conrefs/moj"/> Cybersecurity team - <ph conref="conrefs.dita#conrefs/catemail"/>.</li>
+        <li>The <ph conref="conrefs.dita#conrefs/moj"/>'s Data Protection Officer - <ph conref="conrefs.dita#conrefs/privacyemail"/>.</li>
       </ul>
     </body>
   </topic>

@@ -28,7 +28,7 @@ The contact details for an AWS Account can be updated using the reference <xref 
 		<ul>
       <li>Full Name: <codeph>Operational Security Team</codeph></li>
       <li>Title: <codeph>Mx</codeph></li>
-      <li>Email Address: <ph conref="conrefs.dita#conrefs/ostat"/></li>
+      <li>Email Address: <ph conref="conrefs.dita#conrefs/ostemail"/></li>
       </ul>
       </p>
     </body>

@@ -8,7 +8,7 @@
     <title>Overview</title>
     <body>
       <p>This document tells you about the Cyber Security Consultancy Team. It explains how to ask for help, outlines how we handle your requests, and describes what happens next.</p>
-      <p>To ask for help from a cyber security consultant, send an email to: <xref href="mailto:cyberconsultancy@digital.justice.gov.uk" format="email" scope="external">cyberconsultancy@digital.justice.gov.uk</xref></p>
+      <p>To ask for help from a cyber security consultant, send an email to: <ph conref="conrefs.dita#conrefs/catemail"/>.</p>
     </body>
   </topic>
   <topic id="about-the-team">
@@ -38,29 +38,17 @@
   <topic id="asking-for-help">
     <title>Asking for help</title>
     <body>
-      <p>If you need help dealing with a cyber security task or problem, send an email to: <xref href="mailto:cyberconsultancy@digital.justice.gov.uk" format="email" scope="external">cyberconsultancy@digital.justice.gov.uk</xref></p>
-      <p>Some requests are better handled by other teams. For urgent matters such as incidents, or to get help about physical or personnel security, contact <xref href="mailto:security@digital.justice.gov.uk" format="email" scope="external">security@digital.justice.gov.uk</xref>. For help with data protection, contact <xref href="mailto:data.compliance@justice.gov.uk" format="email" scope="external">data.compliance@justice.gov.uk</xref>.</p>
-      <p>The consultant team keep an eye open for email requests. Normally, you'll get an acknowledgement or more detailed reply within two working days.</p>
+      <p>If you need help dealing with a cyber security task or problem, send an email to: <ph conref="conrefs.dita#conrefs/catemail"/></p>
+      <p>Some requests are better handled by other teams. For urgent matters such as incidents, or to get help about physical or personnel security, contact <ph conref="conrefs.dita#conrefs/securityemail"/>. For help with data protection, contact <ph conref="conrefs.dita#conrefs/privacyemail"/>.</p>
+      <p>The consultancy team keep an eye open for email requests. Normally, you'll get an acknowledgement or more detailed reply within two working days.</p>
       <p>To help us help you, please answer these questions in your email request, as best you can:</p>
       <ol>
-        <li>
-          <p>Who is the work for?</p>
-        </li>
-        <li>
-          <p>Why is it important?</p>
-        </li>
-        <li>
-          <p>What happens if the work is not done (or not done on time)?</p>
-        </li>
-        <li>
-          <p>What is your need (old-style accreditation on an existing contract, guidance or advice, review of proposed approach,...)?</p>
-        </li>
-        <li>
-          <p>What skills or experience does the work need (known or predicted)?</p>
-        </li>
-        <li>
-          <p>When is the next project milestone that needs cyber consultancy input or involvement?</p>
-        </li>
+        <li>Who is the work for?</li>
+        <li>Why is it important?</li>
+        <li>What happens if the work is not done (or not done on time)?</li>
+        <li>What is your need (old-style accreditation on an existing contract, guidance or advice, review of proposed approach,...)?</li>
+        <li>What skills or experience does the work need (known or predicted)?</li>
+        <li>When is the next project milestone that needs cyber consultancy input or involvement?</li>
       </ol>
     </body>
   </topic>
@@ -82,7 +70,7 @@
   <topic id="if-things-go-wrong">
     <title>If things go wrong...</title>
     <body>
-      <p>If you disagree with our decision about your request, or there is some other problem, contact us again: <xref href="mailto:cyberconsultancy@digital.justice.gov.uk" format="email" scope="external">cyberconsultancy@digital.justice.gov.uk</xref>.</p>
+      <p>If you disagree with our decision about your request, or there is some other problem, contact us again: <ph conref="conrefs.dita#conrefs/catemail"/>.</p>
       <p>If you'd prefer a different escalation route, contact <xref href="mailto:ciso@digital.justice.gov.uk" format="email" scope="external">ciso@digital.justice.gov.uk</xref>.</p>
     </body>
   </topic>

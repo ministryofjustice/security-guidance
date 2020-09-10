@@ -7,10 +7,11 @@
 		<p>
 			<ph id="mojlong">Ministry of Justice (MoJ)</ph>
 			<ph id="moj">MoJ</ph>
-			<ph id="groupsecurity"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="email" scope="external">mojgroupsecurity@justice.gov.uk</xref></ph>
-			<ph id="securityat"><xref href="mailto:security@digital.justice.gov.uk" format="email" scope="external">security@digital.justice.gov.uk</xref></ph>
-			<ph id="ostat"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
+			<ph id="groupsecurityemail"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="email" scope="external">mojgroupsecurity@justice.gov.uk</xref></ph>
+			<ph id="securityemail"><xref href="mailto:security@digital.justice.gov.uk" format="email" scope="external">security@digital.justice.gov.uk</xref></ph>
+			<ph id="ostemail"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
 			<ph id="catemail"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></ph>
+			<ph id="privacyemail"><xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">privacy@justice.gov.uk</xref></ph>
 		</p>
 		<p id="contactcatbyemail">Contact the Cyber Assistance Team by email: <ph conref="#conrefs/catemail"/></p>
 	</body>
@@ -56,7 +57,7 @@
 			<note>If you work for an agency or ALB, refer to your local incident reporting guidance.</note>
 			<p><b>Operational Security Team</b>
 				<ul>
-					<li>Email: <ph conref="#conrefs/ostat"/></li>
+					<li>Email: <ph conref="#conrefs/ostemail"/></li>
 					<li>Slack: <codeph>#security</codeph></li>
 				</ul>
 			</p>
@@ -81,7 +82,7 @@
 		<body>
 			<p><b>Cyber Consultants &amp; Risk Advisors</b>
 				<ul>
-					<li>Email: <ph conref="#conrefs/securityat"/></li>
+					<li>Email: <ph conref="#conrefs/securityemail"/></li>
 					<li>Slack: <codeph>#security</codeph></li>
 				</ul>
 			</p>

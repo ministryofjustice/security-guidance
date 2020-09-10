@@ -107,7 +107,7 @@
         <p>Don't use OITs for storing personal data until you have addressed the need to get consent first. Check if using the OIT might need an update to existing privacy policies or notices. Don't use OITs if unlawful disclosure of the information they process might cause damage or distress.</p>
         <p>Data protection legislation might also limit <i>where</i> you can process personal data. An OIT should have a privacy statement that describes where it stores or processes data. Be ready to contact the OIT provider for more information about this aspect of their service.</p>
         <p>Be sure you can fulfil your data protection responsibilities when using an OIT. It might be helpful to complete a <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/privacy-reform/data-protection-impact-assessments-dpias/" format="html" scope="external">Privacy Impact Assessment (PIA)</xref>.</p>
-        <p>Complying with personal information requirements can be complex. Don't hesitate to ask for advice: <xref href="mailto:data.compliance@justice.gov.uk" format="email" scope="external">data.compliance@justice.gov.uk</xref></p>
+        <p>Complying with personal information requirements can be complex. Don't hesitate to ask for advice: <ph conref="conrefs.dita#conrefs/privacyemail"/></p>
       </body>
     </topic>
     <topic id="classification-and-security">

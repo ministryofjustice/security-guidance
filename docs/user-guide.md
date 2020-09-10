@@ -4,7 +4,7 @@
 
 This document tells you about the Cyber Security Consultancy Team. It explains how to ask for help, outlines how we handle your requests, and describes what happens next.
 
-To ask for help from a cyber security consultant, send an email to: [cyberconsultancy@digital.justice.gov.uk](mailto:cyberconsultancy@digital.justice.gov.uk)
+To ask for help from a cyber security consultant, send an email to: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## About the team
 
@@ -25,26 +25,20 @@ The team provides help and guidance around cyber security matters, such as:
 
 ## Asking for help
 
-If you need help dealing with a cyber security task or problem, send an email to: [cyberconsultancy@digital.justice.gov.uk](mailto:cyberconsultancy@digital.justice.gov.uk)
+If you need help dealing with a cyber security task or problem, send an email to: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
 
-Some requests are better handled by other teams. For urgent matters such as incidents, or to get help about physical or personnel security, contact [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk). For help with data protection, contact [data.compliance@justice.gov.uk](mailto:data.compliance@justice.gov.uk).
+Some requests are better handled by other teams. For urgent matters such as incidents, or to get help about physical or personnel security, contact [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk). For help with data protection, contact [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk).
 
-The consultant team keep an eye open for email requests. Normally, you'll get an acknowledgement or more detailed reply within two working days.
+The consultancy team keep an eye open for email requests. Normally, you'll get an acknowledgement or more detailed reply within two working days.
 
 To help us help you, please answer these questions in your email request, as best you can:
 
 1.  Who is the work for?
-
 2.  Why is it important?
-
 3.  What happens if the work is not done \(or not done on time\)?
-
 4.  What is your need \(old-style accreditation on an existing contract, guidance or advice, review of proposed approach,...\)?
-
 5.  What skills or experience does the work need \(known or predicted\)?
-
 6.  When is the next project milestone that needs cyber consultancy input or involvement?
-
 
 ## How the Consultancy team handle requests for help
 
@@ -62,7 +56,7 @@ If your request is appropriate for the Consultancy team, the assigned consultant
 
 ## If things go wrong...
 
-If you disagree with our decision about your request, or there is some other problem, contact us again: [cyberconsultancy@digital.justice.gov.uk](mailto:cyberconsultancy@digital.justice.gov.uk).
+If you disagree with our decision about your request, or there is some other problem, contact us again: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 If you'd prefer a different escalation route, contact [ciso@digital.justice.gov.uk](mailto:ciso@digital.justice.gov.uk).
 

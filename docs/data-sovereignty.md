@@ -39,8 +39,6 @@ The MoJ has no plans to inshore data \(i.e. limiting and / or returning data to 
 
 ## Where to get help
 
--   In the first instance, contact the MoJ Cybersecurity team - [cybersecurity@digital.justice.gov.uk](mailto:cybersecurity@digital.justice.gov.uk)
-
--   The MoJ's Data Protection Officer - [data.compliance@justice.gov.uk](mailto:data.compliance@justice.gov.uk)
-
+-   In the first instance, contact the MoJ Cybersecurity team - [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+-   The MoJ's Data Protection Officer - [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk).
 
