@@ -7,7 +7,7 @@
   <topic id="what-is-lastpass">
     <title>What is LastPass?</title>
     <body>
-      <p>LastPass is an online password management tool that we make available to you to help you create, store and share passwords. Using it means you no longer need to remember dozens of passwords, just a single master password. It keeps all your website logins protected, helps with creating new 'strong' passwords and password sharing when required.</p>
+      <p>LastPass is an online password management tool that we make available to you to help you create, store and share passwords. Using it means you no longer need to remember dozens of passwords, just a single primary password. It keeps all your website logins protected, helps with creating new 'strong' passwords and password sharing when required.</p>
       <p>LastPass is available as a browser extension for popular browsers and as well as a full software suite (for use outside of browsers) for Microsoft Windows and Apple macOS.</p>
       <p>LastPass will securely save your credentials in your own LastPass 'Vault' and then offer to autofill those credentials the next time you need them.</p>
       <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> has the Enterprise tier of LastPass.</p>
@@ -61,14 +61,14 @@
       <body>
         <p>You will be sent an email to your <ph conref="conrefs.dita#conrefs/moj"/> work email account inviting you to create your LastPass account. LastPass have <xref href="https://support.logmeininc.com/lastpass?articleID=1194875481" format="html" scope="external">'getting started' guides</xref> on their website.</p>
       </body>
-      <topic id="creating-your-master-password">
-        <title>Creating your master password</title>
+      <topic id="creating-your-primary-password">
+        <title>Creating your primary password</title>
         <body>
-          <p>You need to create a master password - this is the only password you'll need to remember.</p>
+          <p>You need to create a primary password - this is the only password you'll need to remember.</p>
           <p>It must be at least 12 characters long (the longer the better).</p>
           <p>You can choose to make it pronounceable and memorable (passphrase) such as <codeph>CyberSecurityRules!</codeph> or <codeph>Sup3rD00p3rc0Mp3X!</codeph>, as long as you're comfortable remembering it and won't need to write it down.</p>
           <p>There are <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/" format="html" scope="external">password guidance standards</xref> on the <ph conref="conrefs.dita#conrefs/moj"/> intranet.</p>
-          <p>Your master password <b>must</b> be unique and you should <b>never</b> use it anywhere else (including a similar version, for example, by simply adding numbers to the end)</p>
+          <p>Your primary password <b>must</b> be unique and you should <b>never</b> use it anywhere else (including a similar version, for example, by simply adding numbers to the end)</p>
         </body>
       </topic>
       <topic id="multi-factor-authentication">
@@ -92,7 +92,7 @@
       <body>
         <p>To share a password <xref href="https://support.logmeininc.com/lastpass/help/manage-lastpass-teams-shared-folders-users-lp010061" format="html" scope="external">create a 'shared folder' in the LastPass Vault</xref>.</p>
         <p>You should make sure the credentials you're sharing are only available to the people who need to access them for <ph conref="conrefs.dita#conrefs/moj"/> work. It is your responsibility to remove items or people from shared folders when access to the credential(s) is no longer required.</p>
-        <p>(You must not share your LastPass master password with anyone, even your line manager or <ph conref="conrefs.dita#conrefs/moj"/> security.)</p>
+        <p>(You must not share your LastPass main password with anyone, even your line manager or <ph conref="conrefs.dita#conrefs/moj"/> security.)</p>
       </body>
     </topic>
     <topic id="using-it-abroad">
@@ -113,7 +113,7 @@
       <title>Need help?</title>
       <body>
         <p>If you need help <i>installing</i> LastPass contact the relevant <ph conref="conrefs.dita#conrefs/moj"/> IT Service Desk.</p>
-        <p>If you need help using LastPass such as getting access to shared folders or resetting your master password as you have forgotten it, contact <xref href="mailto:lastpass-admins@digital.justice.gov.uk" format="email" scope="external">lastpass-admins@digital.justice.gov.uk</xref></p>
+        <p>If you need help using LastPass such as getting access to shared folders or resetting your primary password as you have forgotten it, contact <xref href="mailto:lastpass-admins@digital.justice.gov.uk" format="email" scope="external">lastpass-admins@digital.justice.gov.uk</xref></p>
       </body>
     </topic>
   </topic>

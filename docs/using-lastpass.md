@@ -2,7 +2,7 @@
 
 ## What is LastPass?
 
-LastPass is an online password management tool that we make available to you to help you create, store and share passwords. Using it means you no longer need to remember dozens of passwords, just a single master password. It keeps all your website logins protected, helps with creating new 'strong' passwords and password sharing when required.
+LastPass is an online password management tool that we make available to you to help you create, store and share passwords. Using it means you no longer need to remember dozens of passwords, just a single primary password. It keeps all your website logins protected, helps with creating new 'strong' passwords and password sharing when required.
 
 LastPass is available as a browser extension for popular browsers and as well as a full software suite \(for use outside of browsers\) for Microsoft Windows and Apple macOS.
 
@@ -50,9 +50,9 @@ You shouldn't use LastPass for 'secrets' that belong to systems, only credential
 
 You will be sent an email to your MoJ work email account inviting you to create your LastPass account. LastPass have ['getting started' guides](https://support.logmeininc.com/lastpass?articleID=1194875481) on their website.
 
-#### Creating your master password
+#### Creating your primary password
 
-You need to create a master password - this is the only password you'll need to remember.
+You need to create a primary password - this is the only password you'll need to remember.
 
 It must be at least 12 characters long \(the longer the better\).
 
@@ -60,7 +60,7 @@ You can choose to make it pronounceable and memorable \(passphrase\) such as `Cy
 
 There are [password guidance standards](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/) on the MoJ intranet.
 
-Your master password **must** be unique and you should **never** use it anywhere else \(including a similar version, for example, by simply adding numbers to the end\)
+Your primary password **must** be unique and you should **never** use it anywhere else \(including a similar version, for example, by simply adding numbers to the end\)
 
 #### Multi-Factor Authentication
 
@@ -83,7 +83,7 @@ To share a password [create a 'shared folder' in the LastPass Vault](https://sup
 
 You should make sure the credentials you're sharing are only available to the people who need to access them for MoJ work. It is your responsibility to remove items or people from shared folders when access to the credential\(s\) is no longer required.
 
-\(You must not share your LastPass master password with anyone, even your line manager or MoJ security.\)
+\(You must not share your LastPass main password with anyone, even your line manager or MoJ security.\)
 
 ### Using it abroad
 
@@ -101,5 +101,5 @@ Like all software, it is important to keep the software up to date \(sometimes k
 
 If you need help *installing* LastPass contact the relevant MoJ IT Service Desk.
 
-If you need help using LastPass such as getting access to shared folders or resetting your master password as you have forgotten it, contact [lastpass-admins@digital.justice.gov.uk](mailto:lastpass-admins@digital.justice.gov.uk)
+If you need help using LastPass such as getting access to shared folders or resetting your primary password as you have forgotten it, contact [lastpass-admins@digital.justice.gov.uk](mailto:lastpass-admins@digital.justice.gov.uk)
 

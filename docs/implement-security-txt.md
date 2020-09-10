@@ -6,9 +6,9 @@ This redirection should be accessible from the public Internet whether or not th
 
 ## security.txt
 
-`/.well-known/security.txt` must `HTTP 301` \(permanent redirect\) to `https://raw.githubusercontent.com/ministryofjustice/security-guidance/master/contact/vulnerability-disclosure-security.txt`.
+`/.well-known/security.txt` must `HTTP 301` \(permanent redirect\) to `https://raw.githubusercontent.com/ministryofjustice/security-guidance/main/contact/vulnerability-disclosure-security.txt`.
 
-For example, `https://www.prisonvisits.service.gov.uk/.well-known/security.txt` must `HTTP 301` to `https://raw.githubusercontent.com/ministryofjustice/security-guidance/master/contact/vulnerability-disclosure-security.txt`.
+For example, `https://www.prisonvisits.service.gov.uk/.well-known/security.txt` must `HTTP 301` to `https://raw.githubusercontent.com/ministryofjustice/security-guidance/main/contact/vulnerability-disclosure-security.txt`.
 
 ### `/.well-known/`
 

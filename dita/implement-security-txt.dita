@@ -10,8 +10,8 @@
   <topic id="securitytxt">
     <title>security.txt</title>
     <body>
-      <p><codeph>/.well-known/security.txt</codeph> must <codeph>HTTP 301</codeph> (permanent redirect) to <codeph>https://raw.githubusercontent.com/ministryofjustice/security-guidance/master/contact/vulnerability-disclosure-security.txt</codeph>.</p>
-      <p>For example, <codeph>https://www.prisonvisits.service.gov.uk/.well-known/security.txt</codeph> must <codeph>HTTP 301</codeph> to <codeph>https://raw.githubusercontent.com/ministryofjustice/security-guidance/master/contact/vulnerability-disclosure-security.txt</codeph>.</p>
+      <p><codeph>/.well-known/security.txt</codeph> must <codeph>HTTP 301</codeph> (permanent redirect) to <codeph>https://raw.githubusercontent.com/ministryofjustice/security-guidance/main/contact/vulnerability-disclosure-security.txt</codeph>.</p>
+      <p>For example, <codeph>https://www.prisonvisits.service.gov.uk/.well-known/security.txt</codeph> must <codeph>HTTP 301</codeph> to <codeph>https://raw.githubusercontent.com/ministryofjustice/security-guidance/main/contact/vulnerability-disclosure-security.txt</codeph>.</p>
     </body>
     <topic id="well-known">
       <title>
