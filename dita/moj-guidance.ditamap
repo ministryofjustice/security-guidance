@@ -18,6 +18,7 @@
 			<topicref href="managing-user-access-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
 			<topicref href="multi-factor-authentication-mfa-guide.dita" type="topic" audience="audience-tech"/>
+			<topicref href="passwords.dita" type="topic"/>
 			<topicref href="personnel-security-clearances.dita" type="topic"/>
 			<topicref href="privileged-account-management-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="protecting-social-media-accounts.dita" type="topic"/>
@@ -69,6 +70,8 @@
 				<topicref href="data-destruction-instruction-and-confirmation-letter.dita" type="topic"/>
 			</topichead>
 			<topicref href="data-security-and-privacy.dita" type="topic"/>
+			<topicref href="password-creation-and-authentication-guide.dita" type="topic" audience="audience-tech"/>
+			<topicref href="password-management-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="password-managers.dita" type="topic"/>
 			<topichead navtitle="Suppliers to MOJ" audience="audience-tech">
 				<topicref href="assessing-suppliers.dita" type="topic"/>
