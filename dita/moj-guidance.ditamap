@@ -52,6 +52,7 @@
 			<topicref href="internet-v-psn.dita" type="topic" audience="audience-tech"/>
 			<topicref href="ip-dns-diagram-handling.dita" type="topic" audience="audience-tech"/>
 			<topicref href="management-access.dita" type="topic" audience="audience-tech"/>
+			<topicref href="multi-user-accounts-and-public-facing-service-accounts-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="multiple-consecutive-back-to-back-firewalls.dita" type="topic" audience="audience-tech"/>
 			<topicref href="networks-bearers-not-trust.dita" type="topic" audience="audience-tech"/>
 			<topicref href="official-official-sensitive.dita" type="topic"/>

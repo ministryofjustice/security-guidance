@@ -2,152 +2,144 @@
 <?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="access-control-guide">
-  <title>Access Control guide</title>
-  <body/>
-  <topic id="introduction">
-    <title>Introduction</title>
-    <body>
-      <p>This guide explains how the <ph conref="conrefs.dita#conrefs/mojlong"/> manages access to its IT systems so that users have access only to the material they need to see. This guide has sub-pages which provide in-depth Access Control guidance.</p>
-    </body>
-  </topic>
-  <topic id="who-is-this-for">
-    <title>Who is this for?</title>
-    <body>
-      <p>This guide is aimed at two audiences:</p>
-      <ol>
-        <li>
-          <p>The in-house <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation.</p>
-        </li>
-        <li>
-          <p>Any other <ph conref="conrefs.dita#conrefs/moj"/> business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
-        </li>
-      </ol>
-    </body>
-  </topic>
-  <topic id="related-guides">
-    <title>Related guides</title>
-    <body>
-      <p>Further guidance on how to manage user access can be found in the guides below.</p>
-      <ul>
-        <li>
-          <p><xref href="privileged-account-management-guide.dita" format="dita">Privileged Accounts</xref>.</p>
-        </li>
-        <li>
-          <p><xref href="managing-user-access-guide.dita" format="dita">Management Access</xref>.</p>
-        </li>
-      </ul>
-      <ul>
-        <li>
-          <p><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements</xref>.</p>
-        </li>
-        <li>
-          <p><xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-Factor Authentication (MFA)</xref>.</p>
-        </li>
-      </ul>
-    </body>
-  </topic>
-  <topic id="information-security-principles-for-access-control">
-    <title>Information security principles for access control</title>
-    <body>
-      <p>These are the Access Control principles you need to know.</p>
-      <ul>
-        <li>
-          <p><b>The 'need-to-know' principle:</b> Restricting access to information based on a business requirement.</p>
-        </li>
-        <li>
-          <p><b>Non-repudiation of user actions:</b> Holding a user accountable for their actions on an IT system.</p>
-        </li>
-        <li>
-          <p><b>The 'least privilege' principle:</b> Assigning the least number of privileges required for users to fulfil their work, usually done through Discretionary Access Controls (DAC).</p>
-        </li>
-        <li>
-          <p><b>User Access Management:</b> Managing user access to systems and services through a formal user identity lifecycle process.</p>
-        </li>
-      </ul>
-    </body>
-  </topic>
-  <topic id="access-control-principles">
-    <title>Access control principles</title>
-    <body>
-      <p>Effective access control should be implemented by following these four principles.</p>
-      <ol>
-        <li><b>Identification:</b> The <ph conref="conrefs.dita#conrefs/moj"/> should provide a single, unique ID assigned, named and linked to a private account for each user. For example, Lesley is issued a user account that only Lesley uses, and only Lesley can access. This is important so that logging information is accurate (see the <xref format="dita" href="#access-control-principles/accounting">Accounting section below</xref> for further information).</li>
-        <li><b>Authentication:</b> To access <ph conref="conrefs.dita#conrefs/moj"/> systems, users must authenticate themselves. They can do so using:
-<ul><li>something they know (such as a password - the primary authentication method used at the <ph conref="conrefs.dita#conrefs/moj"/>)</li><li>something they have (such as a smart card)</li><li>something they are (biometric authentication such as a fingerprint, voice recognition, iris scan and others)</li></ul>
-Systems holding sensitive information, or systems that are mission critical to the <ph conref="conrefs.dita#conrefs/moj"/>, must use Multi-Factor Authentication (MFA) to prove user identity. See the <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-Factor Authentication Guide</xref> and <xref href="password-managers.dita" format="dita">Password Management Guide</xref> for further information. If you wish to use an additional method of authentication you should review the National Cyber Security Center's (NCSC) guidance and contact the Cyber Assistance Team (CAT). For information on authentication methods including OAuth, refer to the <xref href="managing-user-access-guide.dita" format="dita">Managing User Access Guide</xref>.</li>
-        <li><b>Authorisation:</b> Authorisation is the function of specifying access rights/privileges and resources to users, which should be granted in line with the principle of least privilege. Reducing access privileges reduces the "attack surface" of IT systems. This helps to prevent malware and hackers from moving laterally across the network if they compromise a user account.</li>
-        <li id="accounting"><b>Accounting:</b> Successful and unsuccessful attempts to access systems, and user activities conducted while using systems must be recorded in logs. Please see the <xref href="security-log-collection-maturity-tiers.dita" format="dita">Security Log Collection Guide</xref> for more information. This will help to attribute security events or suspicious activities to users who can be supported to improve their behaviours or held accountable for their actions.</li>
-      </ol>
-      <p>Consider the following points when creating activity logs.</p>
-      <p>Logs should be:</p>
-      <ul>
-        <li>
-          <p>stored securely</p>
-        </li>
-        <li>
-          <p>backed up, so that data are not lost if there is a system unavailability</p>
-        </li>
-        <li>
-          <p>managed according to the sensitivity of the data they hold, for example personal information. Contact the Data Privacy Team for advice on protecting sensitive personal information - <xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">privacy@justice.gov.uk</xref>.</p>
-        </li>
-        <li>
-          <p>stored for a minimum of 6 months</p>
-        </li>
-      </ul>
-      <p>Logs should not be:</p>
-      <ul>
-        <li>
-          <p>retained for longer than 2 years unless otherwise stipulated. Retention rules may vary on a case by case basis so check with the Data Privacy Team, the Cyber Assistance team, and the <ph conref="conrefs.dita#conrefs/moj"/> Data Protection Officer if a Log involves personal information. See the <xref href="accounting.dita" format="dita">Accounting Guide</xref> for further information.</p>
-        </li>
-        <li>
-          <p>tampered with under any circumstances, for example through modification or removal.</p>
-        </li>
-      </ul>
-      <p>See the <xref href="security-log-collection-maturity-tiers.dita" format="dita">Security Log Collection Guide</xref> for more information.</p>
-    </body>
-  </topic>
-  <topic id="segregation-of-duties">
-    <title>Segregation of duties</title>
-    <body>
-      <p>In some parts of the <ph conref="conrefs.dita#conrefs/moj"/>, segregation of duties is used to help to reduce the possibility that malicious activity takes place without detection.</p>
-      <p>You can segregate duties in various ways, including:</p>
-      <ul>
-        <li>
-          <p>implementing manual or automated Role Based Access Control (RBAC), to enforce user authorisation rights.</p>
-        </li>
-        <li>
-          <p>regularly reviewing audit logs to check for suspicious activity</p>
-        </li>
-        <li>
-          <p>ensuring strict control of software and data changes</p>
-        </li>
-        <li>
-          <p>requiring that a user can perform only <i>one</i> of the following roles:</p>
-          <ul>
-            <li>
-              <p>identification of a requirement or change management request (Business function)</p>
-            </li>
-            <li>
-              <p>authorisation and approval of a change request (Governance function)</p>
-            </li>
-            <li>
-              <p>design and development (Architect or Developer function)</p>
-            </li>
-            <li>
-              <p>review, inspection, and approval (another Architect or Developer function)</p>
-            </li>
-            <li>
-              <p>implementation in production (System Administrator function)</p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </body>
-  </topic>
-  <topic id="contact-details">
-    <title>Contact details</title>
-    <body>
-      <p>Contact the Cyber Assistance Team for access control advice – <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></p>
-    </body>
-  </topic>
+	<title>Access Control guide</title>
+	<body/>
+	<topic id="introduction">
+		<title>Introduction</title>
+		<body>
+			<p>This guide explains how the <ph conref="conrefs.dita#conrefs/mojlong"/> manages access to its IT systems so that users have access only to the material they need to see. This guide has sub-pages which provide in-depth Access Control guidance.</p>
+		</body>
+	</topic>
+	<topic id="who-is-this-for">
+		<title>Who is this for?</title>
+		<body>
+			<p>This guide is aimed at two audiences:
+			<ol>
+				<li>The in-house <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation.</li>
+				<li>Any other <ph conref="conrefs.dita#conrefs/moj"/> business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+			</ol></p>
+		</body>
+	</topic>
+	<topic id="related-guides">
+		<title>Related guides</title>
+		<body>
+			<p>Further guidance on how to manage user access can be found in the guides below.
+			<ul>
+				<li><xref href="privileged-account-management-guide.dita" format="dita">Privileged Accounts</xref>.</li>
+				<li><xref href="managing-user-access-guide.dita" format="dita">Management Access</xref>.</li>
+				<li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements</xref>.</li>
+				<li><xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-Factor Authentication (MFA)</xref>.</li>
+			</ul></p>
+		</body>
+	</topic>
+	<topic id="information-security-principles-for-access-control">
+		<title>Information security principles for access control</title>
+		<body>
+			<p>These are the Access Control principles you need to know:
+			<dl>
+				<dlentry>
+					<dt>The 'need-to-know' principle</dt>
+					<dd>Restricting access to information based on a business requirement.</dd>
+				</dlentry>
+				<dlentry>
+					<dt>Non-repudiation of user actions</dt>
+					<dd>Holding a user accountable for their actions on an IT system.</dd>
+				</dlentry>
+				<dlentry>
+					<dt>The 'least privilege' principle</dt>
+					<dd>Assigning the least number of privileges required for users to fulfil their work, usually done through Discretionary Access Controls (DAC).</dd>
+				</dlentry>
+				<dlentry>
+					<dt>User Access Management</dt>
+					<dd>Managing user access to systems and services through a formal user identity lifecycle process.</dd>
+				</dlentry>
+			</dl></p>
+		</body>
+	</topic>
+	<topic id="access-control-principles">
+		<title>Access control principles</title>
+		<body>
+			<p>Effective access control should be implemented by following these four principles:
+			<dl>
+				<dlentry>
+					<dt>Identification</dt>
+					<dd>The <ph conref="conrefs.dita#conrefs/moj"/> should provide a single, unique ID assigned, named and linked to a private account for each user. For example, Lesley is issued a user account that only Lesley uses, and only Lesley can access. This is important so that logging information is accurate (see the <xref format="dita" href="#access-control-principles/accounting">Accounting section</xref> for further information).</dd>
+				</dlentry>
+				<dlentry>
+					<dt>Authentication</dt>
+					<dd>To access <ph conref="conrefs.dita#conrefs/moj"/> systems, users must authenticate themselves. They can do so using:
+						<ul>
+							<li>Something they know, such as a password - the primary authentication method used at the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+							<li>Something they have (such as a smart card)</li>
+							<li>Something they are (biometric authentication such as a fingerprint, voice recognition, iris scan and others)</li>
+						</ul>
+						Systems holding sensitive information, or systems that are mission critical to the <ph conref="conrefs.dita#conrefs/moj"/>,
+						must use Multi-Factor Authentication (MFA) to prove user identity.
+						See the <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-Factor Authentication Guide</xref> and <xref href="password-managers.dita" format="dita">Password Management Guide</xref> for further information.
+						If you wish to use an additional method of authentication you should review the National Cyber Security Center's (NCSC) guidance and contact the Cyber Assistance Team (CAT).
+						For information on authentication methods including OAuth, refer to the <xref href="managing-user-access-guide.dita" format="dita">Managing User Access Guide</xref>.</dd>
+				</dlentry>
+				<dlentry>
+					<dt>Authorisation</dt>
+					<dd>Authorisation is the function of specifying access rights, privileges and resources to users, which should be granted in line with the principle of least privilege.
+					Reducing access privileges reduces the 'attack surface' of IT systems.
+					This helps to prevent malware and hackers from moving laterally across the network if they compromise a user account.</dd>
+				</dlentry>
+				<dlentry id="accounting">
+					<dt>Accounting</dt>
+					<dd>Successful and unsuccessful attempts to access systems, and user activities conducted while using systems must be recorded in logs.
+					See the <xref href="security-log-collection-maturity-tiers.dita" format="dita">Security Log Collection Guide</xref> for more information.
+					This information helps to attribute security events or suspicious activities to users who can be supported to improve their behaviours,
+					or held accountable for their actions.</dd>
+				</dlentry>
+			</dl>
+			</p>
+			<p>Consider the following points when creating activity logs.</p>
+			<p>Logs should be:
+			<ul>
+				<li>Stored securely.</li>
+				<li>Backed up, so that data are not lost if there is a system unavailability.</li>
+				<li>Managed according to the sensitivity of the data they hold, for example personal information.
+				Contact the Data Privacy Team for advice on protecting sensitive personal information: <ph conref="conrefs.dita#conrefs/privacyemail"/>.</li>
+				<li>Stored for a minimum of 6 months.</li>
+			</ul></p>
+			<p>Logs should not be:
+			<ul>
+				<li>Retained for longer than 2 years unless otherwise stipulated.
+				Retention rules may vary on a case by case basis so check with the Data Privacy Team,
+				the Cyber Assistance team,
+				and the <ph conref="conrefs.dita#conrefs/moj"/> Data Protection Officer if a Log involves personal information.
+				See the <xref href="accounting.dita" format="dita">Accounting Guide</xref> for further information.</li>
+				<li>Tampered with under any circumstances, for example through modification or removal.</li>
+			</ul></p>
+			<p>See the <xref href="security-log-collection-maturity-tiers.dita" format="dita">Security Log Collection Guide</xref> for more information.</p>
+		</body>
+	</topic>
+	<topic id="segregation-of-duties">
+		<title>Segregation of duties</title>
+		<body>
+			<p>In some parts of the <ph conref="conrefs.dita#conrefs/moj"/>, segregation of duties is used to help to reduce the possibility that malicious activity takes place without detection.</p>
+			<p>You can segregate duties in various ways, including:
+			<ul>
+				<li>Implementing manual or automated Role Based Access Control (RBAC), to enforce user authorisation rights.</li>
+				<li>Regularly reviewing audit logs to check for suspicious activity.</li>
+				<li>Ensuring strict control of software and data changes.</li>
+				<li>Requiring that a user can perform only <i>one</i> of the following roles:
+					<ul>
+						<li>Identification of a requirement or change management request (Business function).</li>
+						<li>Authorisation and approval of a change request (Governance function).</li>
+						<li>Design and development (Architect or Developer function).</li>
+						<li>Review, inspection, and approval (another Architect or Developer function).</li>
+						<li>Implementation in production (System Administrator function).</li>
+					</ul>
+				</li>
+			</ul></p>
+		</body>
+	</topic>
+	<topic id="contact-details">
+		<title>Contact details</title>
+		<body>
+			<p>Contact the Cyber Assistance Team for access control advice: <ph conref="conrefs.dita#conrefs/catemail"/>.</p>
+		</body>
+	</topic>
 </topic>

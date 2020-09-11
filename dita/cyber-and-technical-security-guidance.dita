@@ -437,6 +437,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
 								<entry colname="col1"> </entry>
 								<entry colname="col2"> </entry>
 								<entry colname="col3">
+									<xref href="multi-user-accounts-and-public-facing-service-accounts-guide.dita" format="dita">Multi-user accounts and Public-Facing Service Accounts Guide</xref>
+								</entry>
+								<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							</row>
+							<row audience="audience-tech">
+								<entry colname="col1"> </entry>
+								<entry colname="col2"> </entry>
+								<entry colname="col3">
 									<xref href="multiple-consecutive-back-to-back-firewalls.dita" format="dita">Multiple Back-to-back Consecutive Firewalls</xref>
 								</entry>
 								<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
