@@ -2,76 +2,66 @@
 <?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="managing-user-access-guide">
-  <title>Managing User Access Guide</title>
-  <body/>
-  <topic id="introduction">
-    <title>Introduction</title>
-    <body>
-      <p>This guide provides information on the authentication methods which should be used to manage user access to systems and information in the <ph conref="conrefs.dita#conrefs/mojlong"/>. This is a sub-page to the <xref href="access-control-guide.dita" format="dita" type="topic">Access Control Guide</xref>.</p>
-    </body>
-  </topic>
-  <topic id="managing-access-to-moj-systems">
-    <title>Managing access to <ph conref="conrefs.dita#conrefs/moj"/> systems</title>
-    <body>
-      <p>The following methods can be used to manage access to the <ph conref="conrefs.dita#conrefs/moj"/>'s systems. They are in order of preference for their use, with 1 providing more secure management features than 3.</p>
-      <table>
-        <tgroup cols="3">
-          <colspec colname="col1" colnum="1" colwidth="1*"/>
-          <colspec colname="col2" colnum="2" colwidth="1*"/>
-          <colspec colname="col3" colnum="3" colwidth="1*"/>
-          <thead>
-            <row>
-              <entry colname="col1">Rank</entry>
-              <entry colname="col2">Method</entry>
-              <entry colname="col3">Comment</entry>
-            </row>
-          </thead>
-          <tbody>
-            <row>
-              <entry colname="col1">1</entry>
-              <entry colname="col2">Application Program Interface (API)</entry>
-              <entry colname="col3">Where possible, APIs should be used instead of remote server configuration tools such as Secure Shell (SSH) and Remote Desktop  (RDP). This is because APIs offer greater technical control over security systems without the need for parsing commands required by remote server configuration tools.</entry>
-            </row>
-            <row>
-              <entry colname="col1">2</entry>
-              <entry colname="col2">Automated diagnostic data collection</entry>
-              <entry colname="col3">It should be considered the exception for administrators to directly administer a server/node when there is automated diagnostic data collection. Diagnostic data collection allows the underlying technical data to be easily correlated and analysed.</entry>
-            </row>
-            <row>
-              <entry colname="col1">3</entry>
-              <entry colname="col2">Remote server configuration tools</entry>
-              <entry colname="col3">If you cannot use APIs then remote server configuration tools can be used with the following controls.</entry>
-            </row>
-          </tbody>
-        </tgroup>
-      </table>
-      <p>Use of bastion or 'jump' boxes for access into systems is a useful technical security design that also helps 'choke' and control sessions.</p>
-      <p>The need to use remote server configuration tools to interact with a server or node can be reduced through improved infrastructure and server design. For instance, the use of stateless cluster expansion or contraction, and the automated diagnostic data capture, can reduce the need to use SSH.</p>
-      <p>System Admins should only login to a server or node via SSH to execute commands with elevated privileges (typically, root) under exceptional circumstances.</p>
-      <ul>
-        <li>
-          <p>SSH must be strictly controlled, and environments should be segregated so that no single bastion or 'jump' SSH server can access both production and non-production accounts.</p>
-        </li>
-        <li>
-          <p>Do not allow direct logging in as root through SSH. Administrators must have a separate account that they regularly use and <codeph>sudo</codeph> to root when necessary.</p>
-        </li>
-        <li>
-          <p>SSHs must be limited to users who need shell, in contrast to users who might use SSH as a port forwarding tunnel.</p>
-        </li>
-        <li>
-          <p>Joiners/Movers/Leavers processes must be strictly enforced (optimally and preferably automated) on SSH servers, as they are a critical and privileged access method.</p>
-        </li>
-        <li>
-          <p>SSH access should not be password-based. It should use individually created and purposed SSH key pairs. Private keys must not be shared or re-used.</p>
-        </li>
-      </ul>
-      <p>The Government Digital Service (GDS) recommends the use of the open authorisation standard '<xref href="https://oauth.net/2/" format="html" scope="external">OAuth2</xref>' as a means to authenticate users. See the <xref href="https://www.gov.uk/guidance/gds-api-technical-and-data-standards" format="html" scope="external">GDS guide</xref> for more information.</p>
-    </body>
-  </topic>
-  <topic id="contact-details">
-    <title>Contact details</title>
-    <body>
-      <p>Contact the Cyber Assistance Team for advice - <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></p>
-    </body>
-  </topic>
+	<title>Managing User Access Guide</title>
+	<body/>
+	<topic id="introduction">
+		<title>Introduction</title>
+		<body>
+			<p>This guide provides information on the authentication methods which should be used to manage user access to systems and information in the <ph conref="conrefs.dita#conrefs/mojlong"/>. This is a sub-page to the <xref href="access-control-guide.dita" format="dita" type="topic">Access Control Guide</xref>.</p>
+		</body>
+	</topic>
+	<topic id="managing-access-to-moj-systems">
+		<title>Managing access to <ph conref="conrefs.dita#conrefs/moj"/> systems</title>
+		<body>
+			<p>The following methods can be used to manage access to the <ph conref="conrefs.dita#conrefs/moj"/>'s systems. They are in order of preference for their use, with 1 providing more secure management features than 3.
+			<table>
+				<tgroup cols="3">
+					<colspec colname="col1" colnum="1" colwidth="1*"/>
+					<colspec colname="col2" colnum="2" colwidth="1*"/>
+					<colspec colname="col3" colnum="3" colwidth="1*"/>
+					<thead>
+						<row>
+							<entry colname="col1">Rank</entry>
+							<entry colname="col2">Method</entry>
+							<entry colname="col3">Comment</entry>
+						</row>
+					</thead>
+					<tbody>
+						<row>
+							<entry colname="col1">1</entry>
+							<entry colname="col2">Application Program Interface (API)</entry>
+							<entry colname="col3">Where possible, APIs should be used instead of remote server configuration tools such as Secure Shell (SSH) and Remote Desktop	(RDP). This is because APIs offer greater technical control over security systems without the need for parsing commands required by remote server configuration tools.</entry>
+						</row>
+						<row>
+							<entry colname="col1">2</entry>
+							<entry colname="col2">Automated diagnostic data collection</entry>
+							<entry colname="col3">It should be considered the exception for administrators to directly administer a server/node when there is automated diagnostic data collection. Diagnostic data collection allows the underlying technical data to be easily correlated and analysed.</entry>
+						</row>
+						<row>
+							<entry colname="col1">3</entry>
+							<entry colname="col2">Remote server configuration tools</entry>
+							<entry colname="col3">If you cannot use APIs then remote server configuration tools can be used with the following controls.</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table></p>
+			<p>Use of bastion or 'jump' boxes for access into systems is a useful technical security design that also helps 'choke' and control sessions.</p>
+			<p>The need to use remote server configuration tools to interact with a server or node can be reduced through improved infrastructure and server design. For instance, the use of stateless cluster expansion or contraction, and the automated diagnostic data capture, can reduce the need to use SSH.</p>
+			<p>System Admins should only login to a server or node via SSH to execute commands with elevated privileges (typically, root) under exceptional circumstances.</p>
+			<ul>
+				<li>SSH must be strictly controlled, and environments should be segregated so that no single bastion or 'jump' SSH server can access both production and non-production accounts.</li>
+				<li>Do not allow direct logging in as root through SSH. Administrators must have a separate account that they regularly use and <codeph>sudo</codeph> to root when necessary.</li>
+				<li>SSHs must be limited to users who need shell, in contrast to users who might use SSH as a port forwarding tunnel.</li>
+				<li>Joiners/Movers/Leavers processes must be strictly enforced (optimally and preferably automated) on SSH servers, as they are a critical and privileged access method.</li>
+				<li>SSH access should not be password-based. It should use individually created and purposed SSH key pairs. Private keys must not be shared or re-used.</li>
+			</ul>
+			<p>The Government Digital Service (GDS) recommends the use of the open authorisation standard '<xref href="https://oauth.net/2/" format="html" scope="external">OAuth2</xref>' as a means to authenticate users. See the <xref href="https://www.gov.uk/guidance/gds-api-technical-and-data-standards" format="html" scope="external">GDS guide</xref> for more information.</p>
+		</body>
+	</topic>
+	<topic id="contact-details">
+		<title>Contact details</title>
+		<body>
+			<p>Contact the Cyber Assistance Team for advice: <ph conref="conrefs.dita#conrefs/catemail"/>.</p>
+		</body>
+	</topic>
 </topic>

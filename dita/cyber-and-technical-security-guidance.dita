@@ -564,6 +564,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
 								<entry colname="col1"> </entry>
 								<entry colname="col2"> </entry>
 								<entry colname="col3">
+									<xref href="password-changes-account-locks-and-disabling-accounts-guide.dita" format="dita">Password Changes, Account Locks and Disabling Accounts Guide</xref>
+								</entry>
+								<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							</row>
+							<row audience="audience-tech">
+								<entry colname="col1"> </entry>
+								<entry colname="col2"> </entry>
+								<entry colname="col3">
 									<xref href="password-creation-and-authentication-guide.dita" format="dita">Password Creation and Authentication Guide</xref>
 								</entry>
 								<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
@@ -731,6 +739,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
 								<entry colname="col2"> </entry>
 								<entry colname="col3">
 									<xref href="online-identifiers.dita" format="dita">Online identifiers in security logging &amp; monitoring</xref>
+								</entry>
+								<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							</row>
+							<row audience="audience-tech">
+								<entry colname="col1"> </entry>
+								<entry colname="col2"> </entry>
+								<entry colname="col3">
+									<xref href="password-storage-and-management-guide.dita" format="dita">Password Storage and Management Guide</xref>
 								</entry>
 								<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 							</row>

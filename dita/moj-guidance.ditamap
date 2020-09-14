@@ -71,6 +71,7 @@
 				<topicref href="data-destruction-instruction-and-confirmation-letter.dita" type="topic"/>
 			</topichead>
 			<topicref href="data-security-and-privacy.dita" type="topic"/>
+			<topicref href="password-changes-account-locks-and-disabling-accounts-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="password-creation-and-authentication-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="password-management-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="password-managers.dita" type="topic"/>
@@ -99,6 +100,7 @@
 			<topicref href="defensive-domain-registration.dita" type="topic"/>
 			<topicref href="maintained-by-default.dita" type="topic"/>
 			<topicref href="online-identifiers.dita" type="topic"/>
+			<topicref href="password-storage-and-management-guide.dita" type="topic"/>
 			<topichead navtitle="Security Log Collection">
 				<topicref href="security-log-collection.dita" type="topic"/>
 				<topicref href="enterprise-it-infrastructure.dita" type="topic"/>

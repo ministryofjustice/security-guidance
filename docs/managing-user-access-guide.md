@@ -21,19 +21,14 @@ The need to use remote server configuration tools to interact with a server or n
 System Admins should only login to a server or node via SSH to execute commands with elevated privileges \(typically, root\) under exceptional circumstances.
 
 -   SSH must be strictly controlled, and environments should be segregated so that no single bastion or 'jump' SSH server can access both production and non-production accounts.
-
 -   Do not allow direct logging in as root through SSH. Administrators must have a separate account that they regularly use and `sudo` to root when necessary.
-
 -   SSHs must be limited to users who need shell, in contrast to users who might use SSH as a port forwarding tunnel.
-
 -   Joiners/Movers/Leavers processes must be strictly enforced \(optimally and preferably automated\) on SSH servers, as they are a critical and privileged access method.
-
 -   SSH access should not be password-based. It should use individually created and purposed SSH key pairs. Private keys must not be shared or re-used.
-
 
 The Government Digital Service \(GDS\) recommends the use of the open authorisation standard '[OAuth2](https://oauth.net/2/)' as a means to authenticate users. See the [GDS guide](https://www.gov.uk/guidance/gds-api-technical-and-data-standards) for more information.
 
 ## Contact details
 
-Contact the Cyber Assistance Team for advice - [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
+Contact the Cyber Assistance Team for advice: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 

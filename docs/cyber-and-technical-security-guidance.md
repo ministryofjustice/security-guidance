@@ -8,7 +8,7 @@ The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 10 September 2020.
+This guidance is dated: 14 September 2020.
 
 For convenience, offline versions of this guidance are available.
 
@@ -17,7 +17,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 10 October 2020.
+The offline versions of this guidance are time-limited, and are not valid after 14 October 2020.
 
 ### Getting in touch
 
@@ -63,6 +63,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |||[Managing User Access Guide](managing-user-access-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)|All users|
 |||[Multi-Factor Authentication](multi-factor-authentication-mfa-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Passwords](passwords.md)|All users|
 |||[Personnel security clearances](personnel-security-clearances.md)|All users|
 |||[Privileged Account Management Guide](privileged-account-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Protecting Social Media Accounts](protecting-social-media-accounts.md)|All users|
@@ -89,6 +90,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |||[Internet v. PSN](internet-v-psn.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[IP DNS Diagram Handling](ip-dns-diagram-handling.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Management access](management-access.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Multiple Back-to-back Consecutive Firewalls](multiple-consecutive-back-to-back-firewalls.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Networks are just bearers](networks-bearers-not-trust.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[`OFFICIAL` and `OFFICIAL-SENSITIVE`](official-official-sensitive.md)|All users|
@@ -104,6 +106,9 @@ The documents have been developed and defined within this taxonomy, and are list
 |||[Data Destruction: Contract Clauses - Short Format](data-destruction-contract-clauses-short-format.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Data Destruction: Instruction and Confirmation Letter](data-destruction-instruction-and-confirmation-letter.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Data Security and Privacy](data-security-and-privacy.md)|All users|
+|||[Password Changes, Account Locks and Disabling Accounts Guide](password-changes-account-locks-and-disabling-accounts-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Password Creation and Authentication Guide](password-creation-and-authentication-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Password Management Guide](password-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Password Managers](password-managers.md)|All users|
 |||[Suppliers to MoJ: Assessing Suppliers](assessing-suppliers.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Suppliers to MoJ: Contracts](contracts.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
@@ -123,6 +128,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |||[Defensive domain registrations](defensive-domain-registration.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Maintained by Default](maintained-by-default.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Online identifiers in security logging & monitoring](online-identifiers.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Password Storage and Management Guide](password-storage-and-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Security Log Collection](security-log-collection.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Security Log Collection: Enterprise IT - Infrastructure](enterprise-it-infrastructure.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Security Log Collection: Enterprise IT - Mobile Devices](enterprise-it-mobile-devices.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|

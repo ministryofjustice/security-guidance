@@ -47,15 +47,10 @@ Good password managers encrypt the passwords in a file using strong encryption. 
 A good password manager will have:
 
 -   Strong encryption for the list of passwords.
-
 -   Network access for encrypted lists stored 'in the cloud'.
-
 -   A dedicated app but also a 'pure' web browser method for working with your password list.
-
 -   A tool to generate passwords of varying complexity.
-
 -   The ability to fill in login pages.
-
 
 ## What password manager should I use?
 
