@@ -18,9 +18,7 @@ Be aware that voice calls and SMS messages are not secure and voice calls can be
 -   never leave the device unattended - not even for a moment.
 -   if it is not practical to keep the device with you securely at all times \(for instance, you are at the swimming pool or gym\), consider storing the device in the hotel safe
 
-**Note:** Standard hotel safes are not entirely secure and it is normally possible for hotel staff to override controls to gain access. In addition therefore you should also store your device in a tamper proof envelope. You should ensure you have a sufficient number to last the duration of your period of travel.
-
-If the tamper evident seals show signs of disturbance or the device exhibits strange behaviour, it should be considered compromised. In either case, you must discontinue use of the device and contact your Service Desk immediately and report the device as potentially compromised.
+Note: Standard hotel safes are not entirely secure and it is normally possible for hotel staff to override controls to gain access. In addition therefore you should also store your device in a tamper proof envelope. You should ensure you have a sufficient number to last the duration of your period of travel. If the tamper evident seals show signs of disturbance or the device exhibits strange behaviour, it should be considered compromised. In either case, you must discontinue use of the device and contact your Service Desk immediately and report the device as potentially compromised.
 
 ## Guidance on using mobile phones
 
@@ -66,7 +64,7 @@ If you are on official business:
 
 In the event that a device is removed out of your sight \(such as by a customs official\) then it should be considered compromised. You must contact the Technology Service Desk immediately and report the device as potentially compromised. The contact number is:
 
-The Technology Service Desk will disable your ability to connect to the MoJ network from your device. Be aware that although the device will still have some functionality \(i.e. your BlackBerry will work as a mobile phone\), the device should be treated as compromised and not used for any MoJ business.
+The Technology Service Desk will revoke your ability to connect to the MoJ network from your device. Be aware that although the device will still have some functionality \(i.e. your BlackBerry will work as a mobile phone\), the device should be treated as compromised and not used for any MoJ business.
 
 ## Contacts for getting help
 
@@ -80,7 +78,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 -   Tel: 0800 917 5148
 
-**Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+Note: The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
 
 **Digital & Technology - Digital Service Desk**
 
@@ -94,7 +92,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 ### Incidents
 
-**Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
+Note: If you work for an agency or ALB, refer to your local incident reporting guidance.
 
 **Operational Security Team**
 

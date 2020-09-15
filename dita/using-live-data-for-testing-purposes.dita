@@ -38,15 +38,15 @@
 				<li><b>Simplicity:</b> Is it easy for testers to get the data they need for their tests?</li>
 				<li><b>Versatility:</b> Can the test data be used by any testing tool or technology?</li>
 			</ol></p>
-			<p>The best test data simulates live operations data.
-			<note>It is important that test data is protected to the same standard as the live data. This is to ensure that details of the system design and operation are not compromised.</note></p>
+			<p>The best test data simulates live operations data.</p>
+			<p>Note: It is important that test data is protected to the same standard as the live data. This is to ensure that details of the system design and operation are not compromised.</p>
 			<p>To protect test data, the following principles should be followed:
 			<ul>
 				<li>The test manager must authorise the use of test data.</li>
 				<li>Test data should be erased from a testing environment immediately after the testing is complete or when no longer required.</li>
 				<li>The copying and use of test data should be logged to provide an audit trail.</li>
 			</ul>
-			<note>In the absence of an allocated test manager for a project, refer to the system owner.</note>
+			Note: In the absence of an allocated test manager for a project, refer to the system owner.
 			</p>
 			<p>By default:
 			<ul>
@@ -106,8 +106,8 @@
 		<p>There are sometimes valid reasons when you do need to use live data for test purposes but they are normally the exception rather than the norm and typically looked at on a case by case basis where appropriate risk management calls can be taken.</p>
 		<p>Looking at datasets being pulled out of databases are a prime example of where you may need to use live data to make sure that a software application is functioning correctly. For some things it is not always possible to use synthetic data.</p>
 		<p>Where a project is considering the use of live data for test purposes, it is essential to understand the data first, to be clear about what GDPR related factors apply.</p>
-		<p>You might need to look at fair processing notices and take these into account around the context of the tests being performed.
-		<note>It may actually be illegal to perform planned tests if fair processing notices do not allow using the data for test purposes.</note></p>
+		<p>You might need to look at fair processing notices and take these into account around the context of the tests being performed.</p>
+		<p>Note: It may actually be illegal to perform planned tests if fair processing notices do not allow using the data for test purposes.</p>
 		<p>Where the data involves personal information, help must be obtained from the MOJ Data Privacy team. At the very least, you must revisit or update an existing Data Protection Impact Assessment.</p>
 		<p>If there is no option apart from using live data, some of the things that should be considered will include the following:
 		<ul>

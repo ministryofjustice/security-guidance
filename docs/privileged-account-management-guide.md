@@ -8,7 +8,7 @@ This guide explains how to manage privileged accounts in order to minimise the s
 
 Holders of privileged accounts, such as system administrators, have privileges to perform most or all of the functions within an IT operating system. Staff should have privileged accounts only when there is a business need, in order to prevent malicious actors gaining privileged access to Ministry of Justice \(MoJ\) systems. The MoJ requires that ownership and use of privileged accounts must be monitored and audited on a monthly basis.
 
-Privileged accounts should be protected with the following controls.
+A Privileged Account Management \(PAM\) tool provides the following controls to protect privileged accounts:
 
 |DO|
 |--|
@@ -21,9 +21,9 @@ Privileged accounts should be protected with the following controls.
 
 |DON’T|
 |-----|
-|✖ Allow privileged users to use their privileged accounts for high-risk functions. These include reading emails, web browsing, using an ‘administrator’ login on an end-user device \(such as a mobile device\), or logging into a server as 'root'.|
-|✖ Leave default or factory set passwords for any accounts but particularly for privileged system accounts, social media accounts and infrastructure.|
-|✖ Allow a user to have a privileged account, unless they are a service provider and require a privileged account for that specific service.|
+|✘ Allow privileged users to use their privileged accounts for high-risk functions. These include reading emails, web browsing, using an ‘administrator’ login on an end-user device \(such as a mobile device\), or logging into a server as 'root'.|
+|✘ Leave default or factory set passwords for any accounts but particularly for privileged system accounts, social media accounts and infrastructure.|
+|✘ Allow a user to have a privileged account, unless they are a service provider and require a privileged account for that specific service.|
 
 For more information or help with Privileged Accounts, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 

@@ -49,7 +49,7 @@ These event types must be logged and forward:
 
     -   1: enabled
 
-    -   2: disabled
+    -   2: revoked
 
     -   3: reset/rotation
 

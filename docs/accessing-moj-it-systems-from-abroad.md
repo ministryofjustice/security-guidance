@@ -69,7 +69,7 @@ If any security-related incident occurs overseas, regardless of whether it invol
 
 For any emergency outside normal UK business hours, contact the [Duty Security Officer](#contacts).
 
-If there is a problem with your MoJ equipment, it might be necessary to disable your ability to connect to the MoJ network or services from your device. The Service Desk will do this if required. MoJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MoJ business.
+If there is a problem with your MoJ equipment, it might be necessary to revoke your ability to connect to the MoJ network or services from your device. The Service Desk will do this if required. MoJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MoJ business.
 
 ## Related pages
 
@@ -92,7 +92,7 @@ If there is a problem with your MoJ equipment, it might be necessary to disable 
 
 -   Tel: 0800 917 5148
 
-**Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+Note: The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
 
 ### Digital & Technology - Digital Service Desk
 

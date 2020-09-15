@@ -34,7 +34,7 @@
 				<ul>
 					<li>Tel: 0800 917 5148</li>
 				</ul>
-				<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph> email address is no longer being monitored.</note>
+				Note: The previous <codeph>itservicedesk@justice.gov.uk</codeph> email address is no longer being monitored.
 			</p>
 			<p id="dandt"><b>Digital &amp; Technology - Digital Service Desk</b>
 				<ul>
@@ -54,7 +54,7 @@
 	<topic id="incidents">
 		<title>Incidents</title>
 		<body>
-			<note>If you work for an agency or ALB, refer to your local incident reporting guidance.</note>
+			<p>Note: If you work for an agency or ALB, refer to your local incident reporting guidance.</p>
 			<p><b>Operational Security Team</b>
 				<ul>
 					<li>Email: <ph conref="#conrefs/ostemail"/></li>

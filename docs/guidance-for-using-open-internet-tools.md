@@ -10,7 +10,7 @@ This guidance gives you:
 -   things you [must think about](#using-oits) when using an OIT, such as [data protection](#privacy-and-personal-information)
 -   information on [who to contact](#getting-help) if you would like help or advice
 
-**Note:** To access some of the links in this guide you'll need to be connected to the MoJ Intranet
+Note: To access some of the links in this guide you'll need to be connected to the MoJ Intranet.
 
 ## Overview
 
@@ -100,7 +100,7 @@ Think about the MoJ information you work with. What would happen if you lost it,
 
 Think also about information moving across the Internet. The data might be safe within the MoJ and in an approved OIT. But what about the connection between the two? Sending information might involve insecure networks. Be aware of the security implications. Check that enough suitable security measures are in place to protect the information. For example, check for encryption of network connections using [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security). A simple way to do this is to look for the secure connection indicator in your web browser:
 
-![The image shows a small section from a web browser URL bar. The word 'secure' appears in a green colour, to show that the connection is safe. There is also a padlock icon in a closed state, again to show that the connection is safe.](https://ministryofjustice.github.io/security-guidance/images/guidance-for-using-open-internet-tools-01.png)
+![The image shows a small section from a web browser URL bar. The word 'secure' appears, to confirm that the connection is safe. There is also a padlock icon in a closed state, again to confirm that the connection is safe.](images/guidance-for-using-open-internet-tools-01.png)
 
 You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is [Principle 2](https://www.gov.uk/government/publications/government-security-classifications) of the Government Security Classifications. The MoJ trusts you to work with `OFFICIAL` information. In the same way, you're trusted to make a reasoned judgement about whether it's safe to use an OIT.
 
@@ -136,13 +136,13 @@ OITs are often intuitive and reliable. But that doesn't mean they are always ava
 
 Check the OIT usage agreement to find out more about the service and support available.
 
-**Note:** The MoJ cannot provide technical support for OITs.
+The MoJ cannot provide technical support for OITs.
 
 ## Common OITs
 
 There are already many OITs used across the MoJ. Permission to use an OIT might vary, depending on where you work in the MoJ. For example, some teams must not access or use some OITs, for security or operational reasons.
 
-**Note:** Check with your Line Manager if you want to use an OIT for your work, *before* you use it.
+Check with your Line Manager if you want to use an OIT for your work, *before* you use it.
 
 ## Getting help
 

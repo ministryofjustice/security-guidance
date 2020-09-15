@@ -23,29 +23,20 @@ Passwords must be changed upon indication of compromise.
 
 Passwords must be distributed securely.Refer to the [Password Storage and Management Guide](password-storage-and-management-guide.md).
 
-Any system or information classified as `SECRET` or `TOP SECRET` must have additional access controls implemented as set out in the MoJ [Access Control Guide](access-control-guide.md). For any queries or decisions relating to `SECRET` or `TOP SECRET` systems or information, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
-
-Additional authentication controls such as multi-factor authentication \(MFA\) must be enabled as required by specific systems. Further guidance can be found in the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) and the [Multi-User Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
+Multi-factor authentication \(MFA\) must be enabled wherever possible. Further guidance can be found in the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) and the [Multi-User Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
 
 ### Software Developers, Technical Architects and Development Operations
 
-All application and software development within or on behalf of the MoJ must ensure the following password security requirements are adhered to.
+Make every effort to avoid creating yet another new or modified password-based authentication system. If it is unavoidable, then ensure that the following security requirements are adhered to:
 
-Multi-user accounts should be avoided, but if required refer to the [Multi-User Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md) for further guidance.
-
-Technical controls must be implemented to support requirements in the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md).
-
-Applications or software should support MFA and single sign-on \(SSO\) solutions leveraged by the MoJ.
-
-Passwords must not be stored in clear text or using encryption algorithms with known security weaknesses.
-
-Passwords must not be transmitted in clear text over networks.
-
-All applications or software must use HTTPS to require authentication.
-
-Applications or software must provide some form of role management, whereby an authorised user can take over the functions of another without having to know the other users' password.
-
-Passwords and other secrets \(SSH Keys, DevOps secrets, etc.\) should not be embedded into applications. The use of key vaults, such AWS Secrets Manager, is strongly recommended.
+-   Multi-user accounts should be avoided, but if required refer to the [Multi-User Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md) for further guidance.
+-   Technical controls must be implemented to support requirements in the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md).
+-   Applications or software should support MFA and single sign-on \(SSO\) solutions leveraged by the MoJ.
+-   Passwords must not be stored in clear text or using encryption algorithms with known security weaknesses.
+-   Passwords must not be transmitted in clear text over networks.
+-   All applications or software must use HTTPS to require authentication.
+-   Applications or software must provide some form of role management, whereby an authorised user can take over the functions of another without having to know the other users' password.
+-   Passwords and other secrets \(SSH Keys, DevOps secrets, etc.\) must never be embedded into applications. The use of key vaults, such AWS Secrets Manager, is strongly recommended.
 
 ### Suppliers and vendors
 
@@ -53,9 +44,9 @@ Suppliers and vendors must ensure that their systems support the password requir
 
 Supplier or vendor systems must be able to change, reset and revoke passwords. This must be possible using well-defined processes.
 
-Suppliers and vendors should consider implementing technical controls, such as locking accounts after repeated access attempts and blocking common password choices, to improve the effectiveness of password-enforcement and compliance.
+Suppliers and vendors must implement the technical controls in the MoJ guidance, such as locking accounts after repeated access attempts and blocking common password choices, to improve the effectiveness of password-enforcement and compliance.
 
-Senior Business Owners for Contracts should ensure that when contracts are signed, the supplier receives explicit guidance on password management and it is included in the associated Information Protection Plan \(IPP\).
+Senior Business Owners for Contracts should ensure that when contracts are signed, the supplier receives explicit guidance on password management and it is included in the associated contractual Security Management Plan \(SMP\).
 
 ### System Administrators
 
@@ -76,10 +67,10 @@ SAs must also ensure privileged accounts:
 
 Further guidance around the management of passwords at the MoJ is available:
 
+-   The [Account management](account-management.md) explains why you might need to change your password. It also addresses when and how you should change your password.
+-   The [Multi-User Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md) explains when you should use a multi-user account and how you should authenticate a service account.
 -   The [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) helps ensure you choose the correct passwords and authentication tools to protect information in line with its security classifications.
 -   The [Password Storage and Management Guide](password-storage-and-management-guide.md) provides help on storing and sharing passwords securely.
--   The [Password Changes, Account Locks and Disabling Accounts Guide](password-changes-account-locks-and-disabling-accounts-guide.md) explains why you might need to change your password. It also addresses when and how you should change your password.
--   The [Multi-User Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md) explains when you should use a multi-user account and how you should authenticate a service account.
 
 ## Contact details
 

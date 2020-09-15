@@ -19,7 +19,7 @@ of the functions within an IT operating system. Staff should have privileged acc
 there is a business need, in order to prevent malicious actors gaining privileged access to <ph conref="conrefs.dita#conrefs/mojlong"/>
 systems. The <ph conref="conrefs.dita#conrefs/moj"/> requires that ownership and use of privileged accounts must be monitored and
 audited on a monthly basis.</p>
-      <p>Privileged accounts should be protected with the following controls.</p>
+	<p>A Privileged Account Management (PAM) tool provides the following controls to protect privileged accounts:
       <table>
         <tgroup cols="1">
           <colspec colname="col1" colnum="1" colwidth="1*"/>
@@ -30,22 +30,22 @@ audited on a monthly basis.</p>
           </thead>
           <tbody>
             <row>
-              <entry colname="col1">✔ Ensure that privileged users only use their system administrator account when elevated privileges are required. Their general user account should be used for all other work activities.</entry>
+              <entry colname="col1">&#x2714; Ensure that privileged users only use their system administrator account when elevated privileges are required. Their general user account should be used for all other work activities.</entry>
             </row>
             <row>
-              <entry colname="col1">✔ Ensure that management or administrative access is limited to users who have been suitably authenticated and have been authorised to perform the specific action. Only those with a genuine business need should have an administrative account, however there should be a sufficient number of administrators that there is not a single point of failure due to absence or administrators leaving the <ph conref="conrefs.dita#conrefs/moj"/>. This should be enforced through the principle of least privilege.</entry>
+              <entry colname="col1">&#x2714; Ensure that management or administrative access is limited to users who have been suitably authenticated and have been authorised to perform the specific action. Only those with a genuine business need should have an administrative account, however there should be a sufficient number of administrators that there is not a single point of failure due to absence or administrators leaving the <ph conref="conrefs.dita#conrefs/moj"/>. This should be enforced through the principle of least privilege.</entry>
             </row>
             <row>
-              <entry colname="col1">✔ Ensure that Multi Factor Authentication (MFA) is used where possible, such as where administrative consoles provide access to manage cloud based infrastructure, platforms or services. MFA should also be used to access enterprise level social media accounts. See the <xref href="multi-factor-authentication-mfa-guide.dita" format="dita" type="topic">Multi-Factor Authentication Guide</xref> for details of preferred MFA types. Where MFA cannot be used on a system, this is considered an exception and should be logged in the risk register.</entry>
+              <entry colname="col1">&#x2714; Ensure that Multi Factor Authentication (MFA) is used where possible, such as where administrative consoles provide access to manage cloud based infrastructure, platforms or services. MFA should also be used to access enterprise level social media accounts. See the <xref href="multi-factor-authentication-mfa-guide.dita" format="dita" type="topic">Multi-Factor Authentication Guide</xref> for details of preferred MFA types. Where MFA cannot be used on a system, this is considered an exception and should be logged in the risk register.</entry>
             </row>
             <row>
-              <entry colname="col1">✔ Ensure that MFA is mandated for a privileged user to conduct important or privileged actions such as changing fundamental configurations including changing registered email addresses or adding another administrator.</entry>
+              <entry colname="col1">&#x2714; Ensure that MFA is mandated for a privileged user to conduct important or privileged actions such as changing fundamental configurations including changing registered email addresses or adding another administrator.</entry>
             </row>
             <row>
-              <entry colname="col1">✔ Ensure that MFA is used as a validation step, to confirm actions requested by users, such as a MFA re-prompt when attempting to delete or modify data.</entry>
+              <entry colname="col1">&#x2714; Ensure that MFA is used as a validation step, to confirm actions requested by users, such as a MFA re-prompt when attempting to delete or modify data.</entry>
             </row>
             <row>
-              <entry colname="col1">✔ Ensure that default passwords are managed as described in the <xref href="password-managers.dita" format="dita">Password Manager guidance</xref>.</entry>
+              <entry colname="col1">&#x2714; Ensure that default passwords are managed as described in the <xref href="password-managers.dita" format="dita">Password Manager guidance</xref>.</entry>
             </row>
           </tbody>
         </tgroup>
@@ -60,17 +60,17 @@ audited on a monthly basis.</p>
           </thead>
           <tbody>
             <row>
-              <entry colname="col1">✖ Allow privileged users to use their privileged accounts for high-risk functions. These include reading emails, web browsing, using an ‘administrator’ login on an end-user device (such as a mobile device), or logging into a server as 'root'.</entry>
+              <entry colname="col1">&#x2718; Allow privileged users to use their privileged accounts for high-risk functions. These include reading emails, web browsing, using an ‘administrator’ login on an end-user device (such as a mobile device), or logging into a server as 'root'.</entry>
             </row>
             <row>
-              <entry colname="col1">✖ Leave default or factory set passwords for any accounts but particularly for privileged system accounts, social media accounts and infrastructure.</entry>
+              <entry colname="col1">&#x2718; Leave default or factory set passwords for any accounts but particularly for privileged system accounts, social media accounts and infrastructure.</entry>
             </row>
             <row>
-              <entry colname="col1">✖ Allow a user to have a privileged account, unless they are a service provider and require a privileged account for that specific service.</entry>
+              <entry colname="col1">&#x2718; Allow a user to have a privileged account, unless they are a service provider and require a privileged account for that specific service.</entry>
             </row>
           </tbody>
         </tgroup>
-      </table>
+      </table></p>
       <p>For more information or help with Privileged Accounts, contact the <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">Cyber Assistance Team</xref>.</p>
     </body>
   </topic>

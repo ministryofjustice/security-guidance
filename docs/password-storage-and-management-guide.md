@@ -2,24 +2,16 @@
 
 ## Introduction
 
-This guide sets out how passwords must be stored securely to prevent unauthorised access or compromise. The Ministry of Justice \(MoJ\) encourages the use of password managers to reduce the burden on users for maintaining password security. For more information, see the [Password Management Guide](password-management-guide.md).
+Do not attempt to implement your own password storage mechanism. Always use an existing, approved Ministry of Justice \(MoJ\) password storage solution.
+
+This guide sets out how passwords must be stored securely to prevent unauthorised access or compromise. The MoJ encourages the use of password managers to reduce the burden on users for maintaining password security. For more information, see the [Password Management Guide](password-management-guide.md).
 
 This guide has been written in alignment with [NCSC guidance](https://www.ncsc.gov.uk/collection/passwords/updating-your-approach).
 
 ## Password storage
 
-The MoJ leverages the one-way salting hashing technique to encrypt passwords for safe storage. The following steps can be followed to setup salting for any MoJ systems that do not support or allow for automatic salting:
+Passwords must be securely stored within MoJ approved storage tool. The following tools is approved for use:
 
-1.  Generate a salt using a cryptographically secure function within the MoJ encryption tool.
-2.  Ensure that the salt is at least 16 characters long and encode it to a safe character set, such as hexadecimal.
-3.  Combine the salt with the password using concatenation or hash-based message authentication code.
-4.  Hash the combined password and salt.
-5.  Store the salt and the password hash within the MoJ approved tools.
-
-Passwords must be securely stored within MoJ approved storage tools. The following tools are approved for use:
-
--   [Argon2](https://en.wikipedia.org/wiki/Argon2).
--   [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2).
 -   [LastPass](using-lastpass.md)
 
 Contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk) if you want to use a different storage tool.
@@ -31,27 +23,23 @@ Passwords should not normally be shared. Sharing of passwords should be avoided 
 Passwords can be shared for the following exceptions:
 
 -   For an encrypted document that has to be shared to make sense.
--   For generic administration accounts where passwords have to be shared. [Privileged Access Management \(PAM\)](privileged-account-management-guide.md) should be used where possible for systems that are administration only.
+-   For generic administration accounts on third-party services or applications, which support only a single account for administration purposes. If multiple individuals will perform the role, then the account password would have to be shared. [Privileged Access Management \(PAM\)](privileged-account-management-guide.md) should be used where possible for systems that are administration only.
 
-If there is a strong business need for shared access to a resource, account or system, then access to the password should be monitored and continually reviewed. The password must be:
+If there is a strong business need for shared access to a resource, account or system, then access to the password should be monitored and continually reviewed. This would be performed by:
+
+-   Regular auditing of who should have the password.
+-   Access revocation by changing the password if someone should no longer have access.
+-   Using proactive monitoring where it is enabled, for example by cross-referencing instances where the password is used with the dates and times that an authorised person could be using the password.
+
+A shared password must be:
 
 -   Governed by PAM, and only be used by known and trusted users.
--   Changed if a user is no longer allowed access.
+-   Changed if any user in the group is no longer allowed access.
 -   Shared using a password manager.
 
-## Password managers
+## Password vaults and managers
 
-Password managers are software and application tools that store passwords in an encrypted form. Password managers allow you to keep track of multiple passwords and avoid weak passwords. To keep passwords secure, a strong password manager must:
-
--   Never store passwords in an unencrypted form.
--   Apply strong encryption algorithms.
--   Have network access for encrypted lists sorted in the cloud.
--   Have a dedicated application as well as a web browser page for working with the password list.
--   Have a tool to generate passwords of varying complexity.
--   Have the ability to fill in login pages.
--   Automatically prompt notifications for security updates.
--   Protect against brute forcing of the primary key, where the primary key is the password to gain entry to the key safe.
--   Impose password strength requirements on the primary key.
+A password vault is a tool that stores passwords and other high-value secrets or credentials in an encrypted form. A password manager provides extra user-friendly tools for working with a password vault, for example helping you log in to applications or websites using the credentials stored within the vault. Password managers allow you to keep track of multiple passwords and avoid weak passwords.
 
 The MoJ recognises the use of the following password managers and password vaults:
 

@@ -24,8 +24,8 @@
         <li>never leave the device unattended - not even for a moment.</li>
         <li>if it is not practical to keep the device with you securely at all times (for instance, you are at the swimming pool or gym), consider storing the device in the hotel safe</li>
       </ul></p>
-      <note>Standard hotel safes are not entirely secure and it is normally possible for hotel staff to override controls to gain access. In addition therefore you should also store your device in a tamper proof envelope. You should ensure you have a sufficient number to last the duration of your period of travel.
-      <p>If the tamper evident seals show signs of disturbance or the device exhibits strange behaviour, it should be considered compromised. In either case, you must discontinue use of the device and contact your Service Desk immediately and report the device as potentially compromised.</p></note>
+      <p>Note: Standard hotel safes are not entirely secure and it is normally possible for hotel staff to override controls to gain access. In addition therefore you should also store your device in a tamper proof envelope. You should ensure you have a sufficient number to last the duration of your period of travel.
+      If the tamper evident seals show signs of disturbance or the device exhibits strange behaviour, it should be considered compromised. In either case, you must discontinue use of the device and contact your Service Desk immediately and report the device as potentially compromised.</p>
     </body>
   </topic>
   <topic id="guidance-on-using-mobile-phones">
@@ -82,7 +82,7 @@
         </li>
       </ul>
       <p>In the event that a device is removed out of your sight (such as by a customs official) then it should be considered compromised. You must contact the Technology Service Desk immediately and report the device as potentially compromised. The contact number is:</p>
-      <p>The Technology Service Desk will disable your ability to connect to the <ph conref="conrefs.dita#conrefs/moj"/> network from your device. Be aware that although the device will still have some functionality (i.e. your BlackBerry will work as a mobile phone), the device should be treated as compromised and not used for any <ph conref="conrefs.dita#conrefs/moj"/> business.</p>
+      <p>The Technology Service Desk will revoke your ability to connect to the <ph conref="conrefs.dita#conrefs/moj"/> network from your device. Be aware that although the device will still have some functionality (i.e. your BlackBerry will work as a mobile phone), the device should be treated as compromised and not used for any <ph conref="conrefs.dita#conrefs/moj"/> business.</p>
     </body>
   </topic>
     <topic id="contacts">

@@ -56,7 +56,7 @@ We have our own [infrastructure ownership/tagging standards](https://ministryofj
 
 |What must be in place|Monitoring|Resolution/Escalation if baseline is broken/violated|
 |---------------------|----------|----------------------------------------------------|
-|All relevant AWS objects are tagged as per MoJ requirements.|Creating AWS user is notified automatically in increasing urgency when object is untagged. AWS account owner \(and increasing escalation\) is automatically notified when objects remained untagged.|Untagged objects are forcefully and automatically shutdown/disabled or isolated after 7 consecutive days of not being tagged.|
+|All relevant AWS objects are tagged as per MoJ requirements.|Creating AWS user is notified automatically in increasing urgency when object is untagged. AWS account owner \(and increasing escalation\) is automatically notified when objects remained untagged.|Untagged objects are forcefully and automatically shutdown, revoked or isolated after 7 consecutive days of not being tagged.|
 
 ### Regions
 

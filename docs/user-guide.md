@@ -13,15 +13,10 @@ The Cyber Security Consultancy Team is part of Ministry of Justice \(MoJ\) Secur
 The team provides help and guidance around cyber security matters, such as:
 
 -   Understanding the risks facing your systems and services.
-
 -   Designing and implementing effective mitigations for these risks.
-
 -   Developing services using security best practices.
-
 -   Checking that you or your third party suppliers have enough, and appropriate, cyber security measures in place.
-
 -   Applying IT Security policy to specific scenarios.
-
 
 ## Asking for help
 

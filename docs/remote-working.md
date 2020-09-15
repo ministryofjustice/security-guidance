@@ -3,19 +3,12 @@
 ## Key points
 
 -   Be professional, and help keep Ministry of Justice \(MoJ\) information and resources safe and secure at all times.
-
 -   Think about where you are working, for example - can other people or family see what you are working on? Be thoughtful about information privacy.
-
 -   Never send work material to personal email accounts.
-
 -   Keep MoJ accounts and password information secure.
-
 -   Take care of your equipment. Devices are more likely to be stolen or lost when working away from the office or home.
-
 -   Do not leave MoJ equipment unattended.
-
 -   Get in touch quickly to report problems or security questions.
-
 
 ## Overview
 
@@ -36,43 +29,28 @@ Remote working is when you work from any non-MoJ location, for example, working 
 **Always:**
 
 -   Keep MoJ equipment and information safe and secure.
-
 -   Protect MoJ information from accidental access by unauthorised people.
-
 -   Lock or log off your device when leaving it unattended. For long periods of non-use, shut down your device.
-
 -   Keep your workspace clear and tidy - follow a 'clean desk policy', including paperwork, to ensure MoJ information isn’t seen by unauthorised people.
-
 -   Use MoJ IT equipment for business purposes in preference to your own equipment such as laptops or printers.
-
 -   Be wary of anyone overlooking or eavesdropping what you are doing.
-
 
 **Never:**
 
 -   Let family or other unauthorised people use MoJ equipment.
-
 -   Leave equipment unattended.
-
 -   Work on sensitive information in public spaces, or where your equipment can be overlooked by others.
-
 -   Advertise the fact that you work with MoJ materials.
-
 -   Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.
-
 -   Send work material to your personal email address.
-
 
 ## Working securely
 
 It’s important to consider the security of how you work remotely.
 
 -   **Work locations** - as with home working above, you need to be equally, if not more, vigilant when working in public spaces.
-
 -   **Confidentiality** - be aware of others eavesdropping or shoulder surfing, both what you are working on and what you are saying eg conference and video calls.
-
 -   Keep MoJ **equipment and information**, including printouts and documents, safe and secure.
-
 
 Even when working remotely, you must still follow the security policies and operating procedures for MoJ systems you access and work with.
 
@@ -86,16 +64,11 @@ If you are working remotely, or do not have access to MoJ equipment, it might be
 
 However, if you really must print MoJ information, you:
 
--   should connect directly to the printer using USB, not WiFi
-
--   should not print out personal information relating to others
-
--   should consult the information asset owner or line manager before printing the information
-
--   must store any and all printed materials safely and securely until you return to MoJ premises, when they must be disposed of or filed appropriately
-
--   **must never** dispose of MoJ information in your home rubbish or recycling
-
+-   Should connect directly to the printer using USB, not WiFi.
+-   Should not print out personal information relating to others.
+-   Should consult the information asset owner or line manager before printing the information.
+-   Must store any and all printed materials safely and securely until you return to MoJ premises, when they must be disposed of or filed appropriately.
+-   **Must never** dispose of MoJ information in your home rubbish or recycling.
 
 Basically, think before you print.
 
@@ -108,11 +81,8 @@ Be aware of your working environment when you work with MoJ information. If anyo
 Guidance and suggestions for improving Privacy appear throughout this guide, but it's worthwhile highlighting these points:
 
 -   Lock your computer, even when unattended for short periods.
-
 -   Think about whether an unauthorised person, such as a family member, might see the information you are working with.
-
 -   Don’t write down passwords. Use a password manager.
-
 
 ## Contacts for getting help
 
@@ -124,7 +94,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 -   Tel: 0800 917 5148
 
-**Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+Note: The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
 
 **Digital & Technology - Digital Service Desk**
 
@@ -138,7 +108,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 ### Incidents
 
-**Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
+Note: If you work for an agency or ALB, refer to your local incident reporting guidance.
 
 **Operational Security Team**
 
@@ -176,7 +146,8 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 ## Related information
 
-[NCSC Home working: preparing your organisation and staff](https://www.ncsc.gov.uk/guidance/home-working) [CPNI Home Working Advice](https://www.cpni.gov.uk/advice-home-working-0)
+-   [NCSC Home working: preparing your organisation and staff](https://www.ncsc.gov.uk/guidance/home-working)
+-   [CPNI Home Working Advice](https://www.cpni.gov.uk/advice-home-working-0)
 
 To access the following link, you'll need to be connected to the HMPPS Intranet.
 
