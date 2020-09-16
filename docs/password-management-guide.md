@@ -13,15 +13,15 @@ The information is aimed at two audiences:
 
 ### All MoJ Digital and Technology users
 
-All MoJ Digital and Technology users must ensure that password creation, distribution and maintenance is done securely.
+Everyone must ensure that password creation, distribution and maintenance is done securely.
 
-Passwords must not ordinarily be shared.Refer to the [Password Storage and Management Guide](password-storage-and-management-guide.md) for exceptions and alternative solutions for sharing passwords.
+Passwords must not ordinarily be shared. Refer to the [Password Storage and Management Guide](password-storage-and-management-guide.md) for exceptions and alternative solutions for sharing passwords.
 
-Passwords must be strong and complex.Refer to the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) for more details.
+Passwords must be strong and complex. Refer to the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) for more details.
 
 Passwords must be changed upon indication of compromise.
 
-Passwords must be distributed securely.Refer to the [Password Storage and Management Guide](password-storage-and-management-guide.md).
+Passwords must be distributed securely. Refer to the [Password Storage and Management Guide](password-storage-and-management-guide.md).
 
 Multi-factor authentication \(MFA\) must be enabled wherever possible. Further guidance can be found in the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) and the [Multi-User Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
 

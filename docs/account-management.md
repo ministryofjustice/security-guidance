@@ -43,11 +43,11 @@ When designing and developing systems for use within the MoJ, password changes m
 Password changes must be made within the following timeframes:
 
 |Type of system|Lifetime of a single-use password/change request|
-|--------------|------------------------------------------------|
+|:-------------|:-----------------------------------------------|
 |Single-user systems, such as laptops|1 week|
 |All other systems|1 day|
 
-## Disabling accounts
+## Revoking accounts
 
 All MoJ user accounts are access controlled according to the user's 'need to know' requirements and their employment status. Accounts should be revoked at contract termination and during long-term absences, such as maternity or long-term sickness leave. The MoJ revokes user accounts in alignment with the [Access Control Guide](access-control-guide.md).
 

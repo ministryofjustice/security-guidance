@@ -8,7 +8,7 @@ This article provides guidance on passwords within the Ministry of Justice \(MoJ
 -   Software, such as the Operating System, or applications installed on hardware, or mobile device applications \(apps\).
 -   Services, such as remote databases or cloud-based tools like [Slack](https://slack.com/).
 
-This password guidance is for all users.It also includes more detail for system administrators or developers.
+This password guidance is for all users. It also includes more detail for system administrators or developers.
 
 ## Best practices for everyone
 

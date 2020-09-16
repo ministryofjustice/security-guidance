@@ -10,11 +10,11 @@ This guide has been written in alignment with [NCSC guidance](https://www.ncsc.g
 
 ## Password storage
 
-Passwords must be securely stored within MoJ approved storage tool. The following tools is approved for use:
+Passwords must be securely stored within MoJ approved storage tools. The following tool is approved for use:
 
 -   [LastPass](using-lastpass.md)
 
-Contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk) if you want to use a different storage tool.
+Contact the Cyber Assistance Team \([CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)\) if you want to use a different storage tool.
 
 ## Sharing passwords
 
@@ -44,7 +44,7 @@ A password vault is a tool that stores passwords and other high-value secrets or
 The MoJ recognises the use of the following password managers and password vaults:
 
 |Password managers for personal or team use|Password Vaults|
-|------------------------------------------|---------------|
+|:-----------------------------------------|:--------------|
 |Lastpass|Hashicorp Vault|
 |1Password|Kubernetes Secrets|
 ||AWS Key Management|

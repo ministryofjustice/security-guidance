@@ -42,7 +42,7 @@ MoJ LastPass administrators cannot routinely access the contents of LastPass Vau
 
 LastPass should not be used for storing MoJ documents - you must use existing MoJ services such as Office 365 or Google G-Suite for that.
 
-You shouldn't use LastPass for 'secrets' that belong to systems, only credentials to be used by humans.There is separate guidance on how to handle [secrets](secrets-management.md).
+You shouldn't use LastPass for 'secrets' that belong to systems, only credentials to be used by humans. There is separate guidance on how to handle [secrets](secrets-management.md).
 
 ## How to use it
 

@@ -56,8 +56,8 @@
 			<p>Password changes must be made within the following timeframes:
 			<table>
 				<tgroup cols="2">
-					<colspec colname="col1" colnum="1" colwidth="1*"/>
-					<colspec colname="col2" colnum="2" colwidth="1*"/>
+					<colspec colname="col1" colnum="1" colwidth="1*" align="left"/>
+					<colspec colname="col2" colnum="2" colwidth="1*" align="left"/>
 					<thead>
 						<row>
 							<entry colname="col1">Type of system</entry>
@@ -78,8 +78,8 @@
 			</table></p>
 		</body>
 	</topic>
-	<topic id="disabling-accounts">
-		<title>Disabling accounts</title>
+	<topic id="revoking-accounts">
+		<title>Revoking accounts</title>
 		<body>
 			<p>All <ph conref="conrefs.dita#conrefs/moj"/> user accounts are access controlled according to the user's 'need to know' requirements and their employment status.
 			Accounts should be revoked at contract termination and during long-term absences, such as maternity or long-term sickness leave.
