@@ -107,8 +107,7 @@ Dealing with these attacks can be emotionally draining; even just reading the me
 
 ## Cyber Security Advice
 
-**Cyber Consultants & Risk Advisors**
-
--   Email: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)
--   Slack: `#security`
+-   **Cyber Consultants & Risk Advisors**
+    -   Email: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)
+    -   Slack: `#security`
 

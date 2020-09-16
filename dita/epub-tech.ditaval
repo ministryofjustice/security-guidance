@@ -2,6 +2,5 @@
 	<prop action="include" att="platform" val="epub"/>
 	<prop action="exclude" att="platform" val="html"/>
 	<prop action="exclude" att="platform" val="pdf"/>
-	<prop action="include" att="audience" val="audience-allusers"/>
 	<prop action="include" att="audience" val="audience-tech"/>
 </val>

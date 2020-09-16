@@ -83,6 +83,15 @@ Technical controls are more effective at protecting password-based authenticatio
 -   [Locking accounts](#password-access-attempts) after repeated access attempts.
 -   [Blocking](#blocking-bad-passwords) common password choices.
 
+### Related guides
+
+Further guidance around the management of passwords at the MoJ is available:
+
+-   The [Account management](account-management.md) guide explains why you might need to change your password. It also addresses when and how you should change your password.
+-   The [Multi-User Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md) explains when you should use a multi-user account and how you should authenticate a service account.
+-   The [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) helps ensure you choose the correct passwords and authentication tools to protect information in line with its security classifications.
+-   The [Password Storage and Management Guide](password-storage-and-management-guide.md) provides help on storing and sharing passwords securely.
+
 ## User facing services
 
 Authenticate people accessing user facing services by using the [GOV.UK Verify](https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify) service. It is not necessary for someone to be a UK Citizen to use the GOV.UK Verify service, but they must have a UK address.

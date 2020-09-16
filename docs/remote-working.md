@@ -117,28 +117,27 @@ Note: If you work for an agency or ALB, refer to your local incident reporting g
 
 ### Privacy Advice
 
-**Privacy Team**
-
--   Email: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
--   Slack: `#securityprivacyteam`
--   Intranet: [https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/)
+-   **Privacy Team**
+    -   Email: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
+    -   Slack: `#securityprivacyteam`
+    -   Intranet: [https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/)
 
 ### Cyber Security Advice
 
-**Cyber Consultants & Risk Advisors**
-
--   Email: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)
--   Slack: `#security`
+-   **Cyber Consultants & Risk Advisors**
+    -   Email: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)
+    -   Slack: `#security`
 
 ### Historic paper files urgently required by ministers, courts, or Public Inquiries
 
-**MoJ HQ staff**
+-   **MoJ HQ staff**
 
--   Email: [Records\_Retention\_@justice.gov.uk](mailto:Records_Retention_@justice.gov.uk)
+    Email: [Records\_Retention\_@justice.gov.uk](mailto:Records_Retention_@justice.gov.uk)
 
-**HMCTS and HMPPS staff**
+-   **HMCTS and HMPPS staff**
 
--   Email: [BranstonRegistryRequests2@justice.gov.uk](mailto:BranstonRegistryRequests2@justice.gov.uk)
+    Email: [BranstonRegistryRequests2@justice.gov.uk](mailto:BranstonRegistryRequests2@justice.gov.uk)
+
 
 ### JustStore
 
