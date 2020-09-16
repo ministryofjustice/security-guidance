@@ -1,0 +1,52 @@
+
+[31m[FATAL] [/cyber-and-technical-security-guidance.dita][0m
+  Line 15: ph[conref="tstamp.dita#tstamp/tstamp"] - [conref-external-file-not-found] [0m
+The linked file does not exist. Check the related folder for the missing file and make sure the file name is correct.[0m
+[31m[FATAL] [/cyber-and-technical-security-guidance.dita][0m
+  Line 43: ph[conref="tstamp.dita#tstamp/tstamp-expiry"] - [conref-external-file-not-found] [0m
+The linked file does not exist. Check the related folder for the missing file and make sure the file name is correct.[0m
+[31m[FATAL] [/cyber-and-technical-security-guidance.dita][0m
+  Line 44: ph[conref="tstamp.dita#tstamp/tstamp-expiry"] - [conref-external-file-not-found] [0m
+The linked file does not exist. Check the related folder for the missing file and make sure the file name is correct.[0m
+[33m[WARN]  [/moj-guidance.ditamap][0m
+  Line 8: topichead - [navtitle-deprecated] [0m
+<topichead> elements will no longer support the navtitle attribute in DITA 2.0. Delete or replace the navtitle attribute with an <navtitle> sub-element[0m
+[33m[WARN]  [/moj-guidance.ditamap][0m
+  Line 12: topichead - [navtitle-deprecated] [0m
+<topichead> elements will no longer support the navtitle attribute in DITA 2.0. Delete or replace the navtitle attribute with an <navtitle> sub-element[0m
+[33m[WARN]  [/moj-guidance.ditamap][0m
+  Line 13: topichead - [navtitle-deprecated] [0m
+<topichead> elements will no longer support the navtitle attribute in DITA 2.0. Delete or replace the navtitle attribute with an <navtitle> sub-element[0m
+[33m[WARN]  [/moj-guidance.ditamap][0m
+  Line 25: topichead - [navtitle-deprecated] [0m
+<topichead> elements will no longer support the navtitle attribute in DITA 2.0. Delete or replace the navtitle attribute with an <navtitle> sub-element[0m
+[33m[WARN]  [/moj-guidance.ditamap][0m
+  Line 36: topichead - [navtitle-deprecated] [0m
+<topichead> elements will no longer support the navtitle attribute in DITA 2.0. Delete or replace the navtitle attribute with an <navtitle> sub-element[0m
+[33m[WARN]  [/moj-guidance.ditamap][0m
+  Line 46: topichead - [navtitle-deprecated] [0m
+<topichead> elements will no longer support the navtitle attribute in DITA 2.0. Delete or replace the navtitle attribute with an <navtitle> sub-element[0m
+[33m[WARN]  [/moj-guidance.ditamap][0m
+  Line 47: topichead - [navtitle-deprecated] [0m
+<topichead> elements will no longer support the navtitle attribute in DITA 2.0. Delete or replace the navtitle attribute with an <navtitle> sub-element[0m
+[33m[WARN]  [/moj-guidance.ditamap][0m
+  Line 62: topichead - [navtitle-deprecated] [0m
+<topichead> elements will no longer support the navtitle attribute in DITA 2.0. Delete or replace the navtitle attribute with an <navtitle> sub-element[0m
+[33m[WARN]  [/moj-guidance.ditamap][0m
+  Line 63: topichead - [navtitle-deprecated] [0m
+<topichead> elements will no longer support the navtitle attribute in DITA 2.0. Delete or replace the navtitle attribute with an <navtitle> sub-element[0m
+[33m[WARN]  [/moj-guidance.ditamap][0m
+  Line 73: topichead - [navtitle-deprecated] [0m
+<topichead> elements will no longer support the navtitle attribute in DITA 2.0. Delete or replace the navtitle attribute with an <navtitle> sub-element[0m
+[33m[WARN]  [/moj-guidance.ditamap][0m
+  Line 83: topichead - [navtitle-deprecated] [0m
+<topichead> elements will no longer support the navtitle attribute in DITA 2.0. Delete or replace the navtitle attribute with an <navtitle> sub-element[0m
+[33m[WARN]  [/moj-guidance.ditamap][0m
+  Line 84: topichead - [navtitle-deprecated] [0m
+<topichead> elements will no longer support the navtitle attribute in DITA 2.0. Delete or replace the navtitle attribute with an <navtitle> sub-element[0m
+[33m[WARN]  [/moj-guidance.ditamap][0m
+  Line 98: topichead - [navtitle-deprecated] [0m
+<topichead> elements will no longer support the navtitle attribute in DITA 2.0. Delete or replace the navtitle attribute with an <navtitle> sub-element[0m
+[0m
+Found 3 Errors including 3 Fatal 13 Warnings  [0m
+[31mError: [SVRL001F][FATAL] Errors detected during validation[0m

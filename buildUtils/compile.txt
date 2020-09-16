@@ -1,0 +1,1709 @@
+Buildfile: /Users/simonheron/Documents/GitHub/security-guidance/buildUtils/builder.ant
+
+init:
+     [copy] Copying 1 file to /Users/simonheron/Documents/GitHub/security-guidance/dita
+
+compile_md:
+
+init:
+
+markdown_github.init:
+
+init-properties:
+[init-project] Initializing project
+
+check-arg:
+    [mkdir] Created dir: /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838
+
+log-arg:
+     [echo] *****************************************************************
+     [echo] * basedir = /Users/simonheron/Documents/GitHub/security-guidance
+     [echo] * dita.dir = /Users/simonheron/installlocal/dita-ot-3.5.3
+     [echo] * transtype = markdown_github
+     [echo] * tempdir = /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838
+     [echo] * outputdir = /Users/simonheron/Documents/GitHub/security-guidance/dita/out
+     [echo] * clean.temp = true
+     [echo] * DITA-OT version = 3.5.3
+     [echo] * XML parser = Xerces
+     [echo] * XSLT processor = Saxon
+     [echo] * collator = ICU
+     [echo] *****************************************************************
+     [echo] #Ant properties
+     [echo] #Wed Sep 16 12:52:41 BST 2020
+     [echo] dita.plugin.org.dita.base.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base
+     [echo] dita.temp.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838
+     [echo] args.grammar.cache=yes
+     [echo] dita.plugin.org.oasis-open.xdita.v0_2_2.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.oasis-open.xdita.v0_2_2
+     [echo] dita.dir=/Users/simonheron/installlocal/dita-ot-3.5.3
+     [echo] dita.plugin.org.dita.pdf2.axf.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.pdf2.axf
+     [echo] args.filter=/Users/simonheron/Documents/GitHub/security-guidance/dita/html.ditaval\:/Users/simonheron/Documents/GitHub/security-guidance/dita/audience-tech.ditaval
+     [echo] dita=/Users/simonheron/Documents/GitHub/security-guidance/dita
+     [echo] dita.plugin.org.oasis-open.dita.v1_3.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.oasis-open.dita.v1_3
+     [echo] dita.plugin.org.lwdita.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.lwdita
+     [echo] dita.plugin.org.oasis-open.dita.v2_0.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.oasis-open.dita.v2_0
+     [echo] dita.plugin.org.dita.htmlhelp.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.htmlhelp
+     [echo] dita.plugin.com.here.validate.svrl.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/com.here.validate.svrl
+     [echo] dita.output.dir=/Users/simonheron/Documents/GitHub/security-guidance/dita/out
+     [echo] dita.plugin.org.dita.eclipsehelp.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.eclipsehelp
+     [echo] dita.plugin.org.dita.normalize.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.normalize
+     [echo] dita.plugin.org.dita.xhtml.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.xhtml
+     [echo] dita.plugin.org.dita.pdf2.xep.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.pdf2.xep
+     [echo] dita.plugin.org.dita.specialization.dita11.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.specialization.dita11
+     [echo] dita.plugin.org.oasis-open.dita.v1_2.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.oasis-open.dita.v1_2
+     [echo] dita.plugin.org.dita.pdf2.fop.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.pdf2.fop
+     [echo] args.input=/Users/simonheron/Documents/GitHub/security-guidance/dita/moj-guidance.ditamap
+     [echo] args.xml.systemid.set=yes
+     [echo] dita.plugin.org.dita.pdf2.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.pdf2
+     [echo] dita.plugin.org.doctales.xmltask.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.doctales.xmltask
+     [echo] dita.plugin.org.dita.html5.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.html5
+     [echo] dita.plugin.org.oasis-open.dita.techcomm.v2_0.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.oasis-open.dita.techcomm.v2_0
+     [echo] dita.plugin.org.dita.index.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.index
+     [echo] *****************************************************************
+
+build-init:
+
+preprocess.init:
+     [echo] *****************************************************************
+     [echo] * input = /Users/simonheron/Documents/GitHub/security-guidance/dita/moj-guidance.ditamap
+     [echo] * resources = ${args.resources}
+     [echo] *****************************************************************
+
+ditaval-merge:
+
+gen-list:
+ [gen-list] Using Xerces grammar pool for DTD and schema caching.
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/moj-guidance.ditamap
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/conrefs.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/cyber-and-technical-security-guidance.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/reporting-an-incident.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/user-guide.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/access-control-guide.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/accessing-moj-it-systems-from-abroad.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/authentication.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/authorisation.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/managing-user-access-guide.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/minimum-user-clearance-requirements-guide.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/multi-factor-authentication-mfa-guide.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/personnel-security-clearances.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/privileged-account-management-guide.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/protecting-social-media-accounts.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/accounting.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/bluetooth.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/general-advice-on-taking-equipment-abroad.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/general-user-video-and-messaging-apps-guidance.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/guidance-for-using-open-internet-tools.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/lost-laptophardware.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/remote-working.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/personal-devices.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/cryptography.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/malware-protection-guide-introduction.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/malware-protection-guidance-defensive-layer-1.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/malware-protection-guidance-defensive-layer-2.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/malware-protection-guidance-defensive-layer-3.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/vulnerability-disclosure-policy.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/implement-security-txt.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/cjsm.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-sovereignty.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/identify-protect-detect-respond-recover.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/internet-v-psn.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/ip-dns-diagram-handling.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/management-access.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/multiple-consecutive-back-to-back-firewalls.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/networks-bearers-not-trust.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/official-official-sensitive.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/secrets-management.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/secure-by-default.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/shared-responsibility-models.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/standards-assurance-tables.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction-contract-clauses-definitions.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction-contract-clauses-long-format.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction-contract-clauses-long-format-appendix.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction-contract-clauses-short-format.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction-instruction-and-confirmation-letter.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-security-and-privacy.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/password-managers.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/assessing-suppliers.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/contracts.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/security-aspect-letters.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/supplier-corporate-it.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/using-lastpass.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/mail-check.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/public-sector-dns.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/web-check.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/automated-certificate-renewal.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/baseline-aws-accounts.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/cots-applications.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/custom-applications.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-security-and-privacy-lifecycle.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-security-and-privacy-triage-standards.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/defensive-domain-registration.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/maintained-by-default.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/online-identifiers.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/security-log-collection.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/enterprise-it-infrastructure.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/enterprise-it-mobile-devices.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/hosting-platforms.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/log-entry-metadata.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/security-log-collection-maturity-tiers.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/using-live-data-for-testing-purposes.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/vulnerability-scanning.dita
+ [gen-list] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/tstamp.dita
+ [gen-list] Serializing job specification
+
+debug-filter:
+   [filter] Using Xerces grammar pool for DTD and schema caching.
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/assessing-suppliers.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/assessing-suppliers.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/web-check.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/web-check.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/personnel-security-clearances.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/personnel-security-clearances.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction-contract-clauses-long-format-appendix.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-long-format-appendix.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/guidance-for-using-open-internet-tools.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/guidance-for-using-open-internet-tools.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/security-log-collection.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/security-log-collection.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/mail-check.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/mail-check.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/public-sector-dns.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/public-sector-dns.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/baseline-aws-accounts.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/baseline-aws-accounts.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/access-control-guide.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/access-control-guide.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/authentication.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/authentication.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/accounting.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/accounting.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/tstamp.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/tstamp.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/supplier-corporate-it.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/supplier-corporate-it.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/vulnerability-scanning.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/vulnerability-scanning.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/general-user-video-and-messaging-apps-guidance.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/general-user-video-and-messaging-apps-guidance.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-security-and-privacy-triage-standards.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-security-and-privacy-triage-standards.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/implement-security-txt.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/implement-security-txt.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/networks-bearers-not-trust.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/networks-bearers-not-trust.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/cjsm.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cjsm.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/general-advice-on-taking-equipment-abroad.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/general-advice-on-taking-equipment-abroad.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction-contract-clauses-definitions.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-definitions.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/reporting-an-incident.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/reporting-an-incident.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/log-entry-metadata.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/log-entry-metadata.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/remote-working.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/remote-working.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/lost-laptophardware.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/lost-laptophardware.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/conrefs.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/conrefs.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/personal-devices.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/personal-devices.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/privileged-account-management-guide.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/privileged-account-management-guide.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/online-identifiers.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/online-identifiers.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction-contract-clauses-long-format.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-long-format.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/enterprise-it-mobile-devices.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/enterprise-it-mobile-devices.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/protecting-social-media-accounts.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/protecting-social-media-accounts.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/user-guide.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/user-guide.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/moj-guidance.ditamap to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/moj-guidance.ditamap
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/secure-by-default.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/secure-by-default.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/minimum-user-clearance-requirements-guide.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/minimum-user-clearance-requirements-guide.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/security-log-collection-maturity-tiers.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/security-log-collection-maturity-tiers.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/internet-v-psn.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/internet-v-psn.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/malware-protection-guide-introduction.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guide-introduction.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/bluetooth.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/bluetooth.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/malware-protection-guidance-defensive-layer-3.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-3.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/security-aspect-letters.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/security-aspect-letters.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/standards-assurance-tables.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/standards-assurance-tables.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/maintained-by-default.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/maintained-by-default.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/cyber-and-technical-security-guidance.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cyber-and-technical-security-guidance.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-security-and-privacy-lifecycle.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-security-and-privacy-lifecycle.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/defensive-domain-registration.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/defensive-domain-registration.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/using-live-data-for-testing-purposes.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/using-live-data-for-testing-purposes.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/using-lastpass.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/using-lastpass.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/contracts.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/contracts.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/password-managers.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/password-managers.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/malware-protection-guidance-defensive-layer-2.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-2.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/cryptography.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cryptography.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/ip-dns-diagram-handling.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/ip-dns-diagram-handling.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/enterprise-it-infrastructure.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/enterprise-it-infrastructure.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/secrets-management.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/secrets-management.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/multi-factor-authentication-mfa-guide.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/multi-factor-authentication-mfa-guide.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/accessing-moj-it-systems-from-abroad.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/accessing-moj-it-systems-from-abroad.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-security-and-privacy.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-security-and-privacy.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/hosting-platforms.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/hosting-platforms.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/identify-protect-detect-respond-recover.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/identify-protect-detect-respond-recover.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/malware-protection-guidance-defensive-layer-1.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-1.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction-instruction-and-confirmation-letter.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-instruction-and-confirmation-letter.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/multiple-consecutive-back-to-back-firewalls.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/multiple-consecutive-back-to-back-firewalls.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-sovereignty.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-sovereignty.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/authorisation.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/authorisation.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/automated-certificate-renewal.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/automated-certificate-renewal.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/management-access.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/management-access.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/custom-applications.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/custom-applications.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction-contract-clauses-short-format.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-short-format.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/vulnerability-disclosure-policy.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/vulnerability-disclosure-policy.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/official-official-sensitive.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/official-official-sensitive.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/cots-applications.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cots-applications.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/managing-user-access-guide.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/managing-user-access-guide.dita
+   [filter] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/shared-responsibility-models.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/shared-responsibility-models.dita
+
+mapref-check:
+
+mapref:
+   [mapref] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/moj-guidance.ditamap
+
+branch-filter:
+[branch-filter] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/moj-guidance.ditamap
+
+keyref:
+   [mapref] Transforming into /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838
+   [mapref] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base/xsl/preprocess/mapref.xsl
+   [mapref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/moj-guidance.ditamap
+
+copy-to:
+
+conrefpush:
+
+conref:
+   [conref] Transforming into /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838
+   [conref] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base/xsl/preprocess/conref.xsl
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/assessing-suppliers.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/web-check.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/personnel-security-clearances.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-long-format-appendix.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/guidance-for-using-open-internet-tools.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/security-log-collection.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/mail-check.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/public-sector-dns.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/baseline-aws-accounts.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/access-control-guide.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/authentication.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/supplier-corporate-it.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/general-user-video-and-messaging-apps-guidance.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-security-and-privacy-triage-standards.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/implement-security-txt.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cjsm.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/general-advice-on-taking-equipment-abroad.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/reporting-an-incident.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/remote-working.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/lost-laptophardware.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/conrefs.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/personal-devices.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/privileged-account-management-guide.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/online-identifiers.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-long-format.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/protecting-social-media-accounts.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/user-guide.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/moj-guidance.ditamap
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/secure-by-default.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/minimum-user-clearance-requirements-guide.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/security-log-collection-maturity-tiers.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/internet-v-psn.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guide-introduction.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/bluetooth.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-3.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/security-aspect-letters.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/maintained-by-default.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cyber-and-technical-security-guidance.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-security-and-privacy-lifecycle.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/defensive-domain-registration.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/using-live-data-for-testing-purposes.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/using-lastpass.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/contracts.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/password-managers.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-2.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cryptography.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/ip-dns-diagram-handling.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/secrets-management.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/multi-factor-authentication-mfa-guide.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/accessing-moj-it-systems-from-abroad.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-security-and-privacy.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/identify-protect-detect-respond-recover.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-1.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-instruction-and-confirmation-letter.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/multiple-consecutive-back-to-back-firewalls.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-sovereignty.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/authorisation.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/automated-certificate-renewal.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/custom-applications.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-short-format.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/vulnerability-disclosure-policy.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cots-applications.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/managing-user-access-guide.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/shared-responsibility-models.dita
+
+profile-check:
+
+profile:
+
+topic-fragment:
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/assessing-suppliers.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/web-check.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/personnel-security-clearances.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-long-format-appendix.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/guidance-for-using-open-internet-tools.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/security-log-collection.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/mail-check.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/public-sector-dns.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/baseline-aws-accounts.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/access-control-guide.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/authentication.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/accounting.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/tstamp.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/supplier-corporate-it.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/vulnerability-scanning.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/general-user-video-and-messaging-apps-guidance.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-security-and-privacy-triage-standards.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/implement-security-txt.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/networks-bearers-not-trust.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cjsm.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/general-advice-on-taking-equipment-abroad.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-definitions.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/reporting-an-incident.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/log-entry-metadata.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/remote-working.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/lost-laptophardware.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/conrefs.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/personal-devices.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/privileged-account-management-guide.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/online-identifiers.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-long-format.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/enterprise-it-mobile-devices.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/protecting-social-media-accounts.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/user-guide.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/secure-by-default.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/minimum-user-clearance-requirements-guide.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/security-log-collection-maturity-tiers.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/internet-v-psn.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guide-introduction.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/bluetooth.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-3.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/security-aspect-letters.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/standards-assurance-tables.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/maintained-by-default.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cyber-and-technical-security-guidance.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-security-and-privacy-lifecycle.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/defensive-domain-registration.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/using-live-data-for-testing-purposes.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/using-lastpass.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/contracts.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/password-managers.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-2.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cryptography.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/ip-dns-diagram-handling.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/enterprise-it-infrastructure.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/secrets-management.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/multi-factor-authentication-mfa-guide.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/accessing-moj-it-systems-from-abroad.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-security-and-privacy.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/hosting-platforms.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/identify-protect-detect-respond-recover.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-1.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-instruction-and-confirmation-letter.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/multiple-consecutive-back-to-back-firewalls.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-sovereignty.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/authorisation.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/automated-certificate-renewal.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/management-access.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/custom-applications.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-short-format.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/vulnerability-disclosure-policy.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/official-official-sensitive.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cots-applications.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/managing-user-access-guide.dita
+[topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/shared-responsibility-models.dita
+
+chunk-check:
+
+chunk:
+    [chunk] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/moj-guidance.ditamap
+
+move-meta-entries:
+[move-meta] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/moj-guidance.ditamap
+[move-meta] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base/xsl/preprocess/mappull.xsl
+[move-meta] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/moj-guidance.ditamap
+
+maplink-check:
+
+maplink:
+  [maplink] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-3.dita
+  [maplink] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guide-introduction.dita
+  [maplink] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-2.dita
+  [maplink] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-1.dita
+
+topicpull-check:
+
+topicpull:
+[topicpull] Transforming into /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838
+[topicpull] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base/xsl/preprocess/topicpull.xsl
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/assessing-suppliers.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/web-check.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/personnel-security-clearances.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-long-format-appendix.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/guidance-for-using-open-internet-tools.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/security-log-collection.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/mail-check.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/public-sector-dns.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/baseline-aws-accounts.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/access-control-guide.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/authentication.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/accounting.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/supplier-corporate-it.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/vulnerability-scanning.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/general-user-video-and-messaging-apps-guidance.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-security-and-privacy-triage-standards.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/implement-security-txt.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/networks-bearers-not-trust.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cjsm.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/general-advice-on-taking-equipment-abroad.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-definitions.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/reporting-an-incident.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/log-entry-metadata.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/remote-working.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/lost-laptophardware.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/personal-devices.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/privileged-account-management-guide.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/online-identifiers.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-long-format.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/enterprise-it-mobile-devices.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/protecting-social-media-accounts.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/user-guide.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/secure-by-default.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/minimum-user-clearance-requirements-guide.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/security-log-collection-maturity-tiers.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/internet-v-psn.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guide-introduction.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/bluetooth.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-3.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/security-aspect-letters.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/standards-assurance-tables.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/maintained-by-default.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cyber-and-technical-security-guidance.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-security-and-privacy-lifecycle.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/defensive-domain-registration.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/using-live-data-for-testing-purposes.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/using-lastpass.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/contracts.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/password-managers.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-2.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cryptography.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/ip-dns-diagram-handling.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/enterprise-it-infrastructure.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/secrets-management.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/multi-factor-authentication-mfa-guide.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/accessing-moj-it-systems-from-abroad.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-security-and-privacy.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/hosting-platforms.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/identify-protect-detect-respond-recover.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-1.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-instruction-and-confirmation-letter.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/multiple-consecutive-back-to-back-firewalls.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-sovereignty.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/authorisation.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/automated-certificate-renewal.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/management-access.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/custom-applications.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-short-format.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/vulnerability-disclosure-policy.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/official-official-sensitive.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cots-applications.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/managing-user-access-guide.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/shared-responsibility-models.dita
+
+clean-map-check:
+
+clean-map:
+[clean-map] Transforming into /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838
+[clean-map] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base/xsl/preprocess/clean-map.xsl
+[clean-map] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/moj-guidance.ditamap
+
+clean-preprocess:
+
+copy-image:
+
+copy-html:
+
+copy-flag-check:
+
+copy-flag:
+[job-helper] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/.job.xml to /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/flagimage.list
+[job-helper] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base/xsl/job-helper.xsl
+
+copy-files:
+
+preprocess:
+
+markdown.init:
+
+markdown.topics.common:
+
+markdown.topics.common.inner:
+     [xslt] Transforming into /Users/simonheron/Documents/GitHub/security-guidance/dita/out
+     [xslt] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.lwdita/xsl/dita2markdown_github.xsl
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/assessing-suppliers.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/assessing-suppliers.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/web-check.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/web-check.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/personnel-security-clearances.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/personnel-security-clearances.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-long-format-appendix.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/data-destruction-contract-clauses-long-format-appendix.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/guidance-for-using-open-internet-tools.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/guidance-for-using-open-internet-tools.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/security-log-collection.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/security-log-collection.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/mail-check.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/mail-check.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/public-sector-dns.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/public-sector-dns.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/baseline-aws-accounts.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/baseline-aws-accounts.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/access-control-guide.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/access-control-guide.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/authentication.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/authentication.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/accounting.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/accounting.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/supplier-corporate-it.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/supplier-corporate-it.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/vulnerability-scanning.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/vulnerability-scanning.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/general-user-video-and-messaging-apps-guidance.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/general-user-video-and-messaging-apps-guidance.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-security-and-privacy-triage-standards.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/data-security-and-privacy-triage-standards.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/implement-security-txt.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/implement-security-txt.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/networks-bearers-not-trust.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/networks-bearers-not-trust.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cjsm.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/cjsm.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/data-destruction.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/general-advice-on-taking-equipment-abroad.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/general-advice-on-taking-equipment-abroad.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-definitions.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/data-destruction-contract-clauses-definitions.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/reporting-an-incident.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/reporting-an-incident.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/log-entry-metadata.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/log-entry-metadata.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/remote-working.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/remote-working.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/lost-laptophardware.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/lost-laptophardware.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/personal-devices.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/personal-devices.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/privileged-account-management-guide.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/privileged-account-management-guide.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/online-identifiers.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/online-identifiers.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-long-format.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/data-destruction-contract-clauses-long-format.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/enterprise-it-mobile-devices.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/enterprise-it-mobile-devices.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/protecting-social-media-accounts.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/protecting-social-media-accounts.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/user-guide.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/user-guide.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/secure-by-default.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/secure-by-default.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/minimum-user-clearance-requirements-guide.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/minimum-user-clearance-requirements-guide.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/security-log-collection-maturity-tiers.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/security-log-collection-maturity-tiers.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/internet-v-psn.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/internet-v-psn.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guide-introduction.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/malware-protection-guide-introduction.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/bluetooth.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/bluetooth.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-3.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/malware-protection-guidance-defensive-layer-3.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/security-aspect-letters.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/security-aspect-letters.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/standards-assurance-tables.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/standards-assurance-tables.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/maintained-by-default.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/maintained-by-default.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cyber-and-technical-security-guidance.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/cyber-and-technical-security-guidance.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-security-and-privacy-lifecycle.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/data-security-and-privacy-lifecycle.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/defensive-domain-registration.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/defensive-domain-registration.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/using-live-data-for-testing-purposes.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/using-live-data-for-testing-purposes.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/using-lastpass.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/using-lastpass.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/contracts.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/contracts.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/password-managers.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/password-managers.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-2.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/malware-protection-guidance-defensive-layer-2.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cryptography.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/cryptography.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/ip-dns-diagram-handling.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/ip-dns-diagram-handling.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/enterprise-it-infrastructure.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/enterprise-it-infrastructure.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/secrets-management.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/secrets-management.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/multi-factor-authentication-mfa-guide.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/multi-factor-authentication-mfa-guide.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/accessing-moj-it-systems-from-abroad.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/accessing-moj-it-systems-from-abroad.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-security-and-privacy.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/data-security-and-privacy.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/hosting-platforms.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/hosting-platforms.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/identify-protect-detect-respond-recover.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/identify-protect-detect-respond-recover.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/malware-protection-guidance-defensive-layer-1.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/malware-protection-guidance-defensive-layer-1.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-instruction-and-confirmation-letter.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/data-destruction-instruction-and-confirmation-letter.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/multiple-consecutive-back-to-back-firewalls.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/multiple-consecutive-back-to-back-firewalls.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-sovereignty.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/data-sovereignty.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/authorisation.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/authorisation.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/automated-certificate-renewal.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/automated-certificate-renewal.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/management-access.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/management-access.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/custom-applications.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/custom-applications.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/data-destruction-contract-clauses-short-format.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/data-destruction-contract-clauses-short-format.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/vulnerability-disclosure-policy.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/vulnerability-disclosure-policy.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/official-official-sensitive.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/official-official-sensitive.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/cots-applications.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/cots-applications.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/managing-user-access-guide.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/managing-user-access-guide.md
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/shared-responsibility-models.dita to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/shared-responsibility-models.md
+
+markdown.topic:
+
+markdown.map.init:
+
+markdown.map.toc:
+     [xslt] Transforming into /Users/simonheron/Documents/GitHub/security-guidance/dita/out
+     [xslt] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.lwdita/xsl/map2markdown-cover.xsl
+     [xslt] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125240838/moj-guidance.ditamap to /Users/simonheron/Documents/GitHub/security-guidance/dita/out/index.md
+
+markdown.map:
+
+dita2markdown:
+
+dita2markdown_github:
+
+clean-temp:
+
+compile_pdf:
+
+init:
+
+dita2pdf2.init:
+
+init-properties:
+[init-project] Initializing project
+
+check-arg:
+    [mkdir] Created dir: /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530
+
+log-arg:
+     [echo] *****************************************************************
+     [echo] * basedir = /Users/simonheron/Documents/GitHub/security-guidance
+     [echo] * dita.dir = /Users/simonheron/installlocal/dita-ot-3.5.3
+     [echo] * transtype = pdf
+     [echo] * tempdir = /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530
+     [echo] * outputdir = /Users/simonheron/Documents/GitHub/security-guidance/dita/out
+     [echo] * clean.temp = true
+     [echo] * DITA-OT version = 3.5.3
+     [echo] * XML parser = Xerces
+     [echo] * XSLT processor = Saxon
+     [echo] * collator = ICU
+     [echo] *****************************************************************
+     [echo] #Ant properties
+     [echo] #Wed Sep 16 12:53:33 BST 2020
+     [echo] dita.plugin.org.dita.base.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base
+     [echo] preprocess.chunk.skip=true
+     [echo] dita.temp.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530
+     [echo] args.grammar.cache=yes
+     [echo] dita.plugin.org.oasis-open.xdita.v0_2_2.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.oasis-open.xdita.v0_2_2
+     [echo] dita.dir=/Users/simonheron/installlocal/dita-ot-3.5.3
+     [echo] dita.plugin.org.dita.pdf2.axf.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.pdf2.axf
+     [echo] preprocess.copy-flag.skip=true
+     [echo] args.filter=/Users/simonheron/Documents/GitHub/security-guidance/dita/pdf.ditaval\:/Users/simonheron/Documents/GitHub/security-guidance/dita/audience-tech.ditaval
+     [echo] dita=/Users/simonheron/Documents/GitHub/security-guidance/dita
+     [echo] dita.plugin.org.oasis-open.dita.v1_3.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.oasis-open.dita.v1_3
+     [echo] dita.plugin.org.lwdita.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.lwdita
+     [echo] dita.plugin.org.oasis-open.dita.v2_0.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.oasis-open.dita.v2_0
+     [echo] dita.plugin.org.dita.htmlhelp.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.htmlhelp
+     [echo] dita.plugin.com.here.validate.svrl.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/com.here.validate.svrl
+     [echo] dita.output.dir=/Users/simonheron/Documents/GitHub/security-guidance/dita/out
+     [echo] args.rellinks=nofamily
+     [echo] dita.plugin.org.dita.eclipsehelp.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.eclipsehelp
+     [echo] dita.plugin.org.dita.normalize.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.normalize
+     [echo] dita.plugin.org.dita.xhtml.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.xhtml
+     [echo] dita.plugin.org.dita.pdf2.xep.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.pdf2.xep
+     [echo] dita.plugin.org.dita.specialization.dita11.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.specialization.dita11
+     [echo] dita.plugin.org.oasis-open.dita.v1_2.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.oasis-open.dita.v1_2
+     [echo] dita.plugin.org.dita.pdf2.fop.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.pdf2.fop
+     [echo] args.input=/Users/simonheron/Documents/GitHub/security-guidance/dita/moj-guidance.ditamap
+     [echo] args.xml.systemid.set=yes
+     [echo] dita.plugin.org.dita.pdf2.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.pdf2
+     [echo] dita.plugin.org.doctales.xmltask.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.doctales.xmltask
+     [echo] dita.plugin.org.dita.html5.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.html5
+     [echo] dita.plugin.org.oasis-open.dita.techcomm.v2_0.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.oasis-open.dita.techcomm.v2_0
+     [echo] preprocess.copy-image.skip=true
+     [echo] dita.plugin.org.dita.index.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.index
+     [echo] *****************************************************************
+
+build-init:
+
+preprocess2.init:
+     [echo] *****************************************************************
+     [echo] * input = /Users/simonheron/Documents/GitHub/security-guidance/dita/moj-guidance.ditamap
+     [echo] * resources = ${args.resources}
+     [echo] *****************************************************************
+
+ditaval-merge:
+
+map-reader:
+[map-reader] Using Xerces grammar pool for DTD and schema caching.
+[map-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/moj-guidance.ditamap to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+[map-reader] Serializing job specification
+
+map-mapref:
+   [mapref] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+
+map-branch-filter:
+[branch-filter] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+
+map-keyref:
+   [mapref] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+
+map-conrefpush:
+
+map-conref:
+   [conref] Transforming into /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530
+   [conref] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base/xsl/preprocess/map-conref.xsl
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+
+map-profile-check:
+
+map-profile:
+  [profile] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+
+preprocess2.maps:
+
+topic-reader:
+[topic-reader] Using Xerces grammar pool for DTD and schema caching.
+[topic-reader] Reading file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/conrefs.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/d8cbe303f6df4fe2bfd1990556d04136316cf5e8.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/cyber-and-technical-security-guidance.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/d51e22060337ae14c98342386600fd6050cea022.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/reporting-an-incident.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/036aeb969bb637f6e24edb11ef6073d70c47dc3a.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/user-guide.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/f9aec110d5a7b41ee686e4a4fcdd65ad22964ea1.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/access-control-guide.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/52084bf6910f46d05b98357b20a5c0e61a6e33a9.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/accessing-moj-it-systems-from-abroad.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/0bd50311d8ec0c90fe252c5ef29de6520a3e7330.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/authentication.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c1481ecf030af416e8e2863e166525f7344436d2.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/authorisation.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/98b373eae155287ccf2b85276153763b67da6a6a.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/managing-user-access-guide.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/20087fa19c933aadddfd16f068af5f14888518a6.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/minimum-user-clearance-requirements-guide.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/4a8510151c440a043e3366ec0a71178ed1fe3389.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/multi-factor-authentication-mfa-guide.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/0c468fc898738f5e14d1e02a0d4695434aa31d80.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/personnel-security-clearances.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/849414f59b32f1bd2c16d0aec1eb96650190aabb.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/privileged-account-management-guide.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a8797947a3c6c0f72c18f3798b7289c544092a3b.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/protecting-social-media-accounts.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/951f2d5925df435f1aa65b694769f492d3a742a4.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/accounting.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2d09adb39e25d70e1435f1837c4d4acf12ef5931.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/bluetooth.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2c3902c04f78461c36c2c774cc59022261fbc7e2.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/general-advice-on-taking-equipment-abroad.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2c49d0d326c0f89a26270624befa8f235af4acc2.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/general-user-video-and-messaging-apps-guidance.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c1bc753be95cff71e6594b789c4e3b384d986f52.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/guidance-for-using-open-internet-tools.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c051bcdcf798d97f33a34d6794aace24d80c4690.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/lost-laptophardware.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c5909421925ec635009c5222f1b8406bea6e2b50.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/remote-working.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a6e2716371c1604fa7bf6ba7e9fe150c1285dca1.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/personal-devices.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ff83ad413f76ec80713f9a0342441c1089a4404a.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/cryptography.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/655fa153358255e4cdf4d7066588ff0f6adeeac2.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/malware-protection-guide-introduction.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/75758405a962b60e3ad7ddd4a3d3addb9e5cc2a0.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/malware-protection-guidance-defensive-layer-1.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ee312cac7d1b5cff98a560cfe5a4638834244746.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/malware-protection-guidance-defensive-layer-2.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ff5e328fc61997dd6f1663dff7ad1f453c6bd1f6.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/malware-protection-guidance-defensive-layer-3.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/6279b5589990df8d8a3cfa27857e57e532300ff6.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/vulnerability-disclosure-policy.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/01c6f7904c9a123d2e5c2ec2f03d15417a48af45.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/implement-security-txt.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/4af35619c5e220f507847b19b1082726b829131d.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/cjsm.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/168afcc2a2491fdc34d9bedfaa3e577cec07bbbf.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-sovereignty.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ef0ed23f863f6ea445e96af2fb0ce452b74bc197.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/identify-protect-detect-respond-recover.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/fe91a023dfb16a87e115c11deeb684117c84f6d1.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/internet-v-psn.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/e3f30f475d93b8e0fee73911a7de7da2aa7a8d8b.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/ip-dns-diagram-handling.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/00dfcd6a3656463aa0aacb4c9ce10025057dbe19.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/management-access.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/658d5928f999a245c23c19a110cb9088c79cc2e1.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/multiple-consecutive-back-to-back-firewalls.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/e6e8737e771dd35fc0cdc2f6bade83c23349142e.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/networks-bearers-not-trust.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/68034a6f836e9a13a16b7c7c4647ae54eaec3afb.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/official-official-sensitive.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/0057f491167785dde1c5c6c7014fc66283ecc815.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/secrets-management.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/05e9054a5287fe25c2de203bb6f80ca6ee100b4b.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/secure-by-default.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/09c79c450d262168c3441d62c53a83fe4de0499c.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/shared-responsibility-models.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/91c88641a05058c1e7d9236772191c7abc393439.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/standards-assurance-tables.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2d6038ae44a2efda5bf361ff6277db126036479a.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/8b003d67a40afed63c47114d0762e8cb44b92006.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction-contract-clauses-definitions.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/77c8250842cdea9eb78d66642c99320f023d426b.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction-contract-clauses-long-format.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/fcb232a2a26049497a041a37e0bef22b73b61eda.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction-contract-clauses-long-format-appendix.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/7d3b41ea172cc140ab6da9bb8349725aa5bddd81.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction-contract-clauses-short-format.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/baae6e6a1b2bf2eae0d7cb62fe2bd2d28b0a9729.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-destruction-instruction-and-confirmation-letter.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/1277bb6c55b38b9eaa04ac31bff6822217f9611b.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-security-and-privacy.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/e006a6b625854fb1b3a49aacec8a0f823a78671a.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/password-managers.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/9edbddf882ecf6ded26a3ddfc76fb3f5e45473dd.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/assessing-suppliers.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/59cc5b54eadd77fde7d0673ae53fcc9004bc7970.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/contracts.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/71d89be84697608ae31aae7de32e3d35a2ab5c53.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/security-aspect-letters.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/688d1a77b645e037aebe29581184c55b88a277c5.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/supplier-corporate-it.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/dfbfdecfd0632071c932b9fd5a9fc3f91056276c.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/using-lastpass.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/124fcec752de63e21157e9477edd94ce43868884.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/mail-check.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a05ae842dc6bc4ddee2684c45f85fbe51b36fd25.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/public-sector-dns.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/655f33c506aa975311bf6f1572cf89cc48761550.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/web-check.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/994b1241353d5dbf28f948330dc38a4ab69fa9b6.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/automated-certificate-renewal.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/fc4ea7d47446b4df7b675ecd76c2fd492849f6e5.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/baseline-aws-accounts.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/210926c4b1495f5584f35eb069fb4a90c7891be1.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/cots-applications.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/5a3d450dc5a195c03386e821728bbd5be3e386c9.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/custom-applications.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/f59ea248896055b9c7a9e04c2a1bf3b26bdfe1a6.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-security-and-privacy-lifecycle.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c38b6672fa8cd5ab48aecef3bee4c639d70746a5.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-security-and-privacy-triage-standards.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/3c5bc5777b8df8acd9177296ceadcf76e51e8c95.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/defensive-domain-registration.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/25524849a08440b20432b5f24caed3d17acb0318.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/maintained-by-default.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2407f9d2c9b6026fa1a923cc5408130742b14cd3.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/online-identifiers.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/bcf712372ec94c7a00c548f80e976ed7d9f86fed.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/security-log-collection.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a909ed2741a138078ed9a89e6e49f3077004e202.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/enterprise-it-infrastructure.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/f0bd930f2d11fbdd70627e0b15be59e15167e86e.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/enterprise-it-mobile-devices.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/df9da2b3d8a9dbee20f499d4d062ae24d6e49ddc.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/hosting-platforms.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/da545909a0023b271078545933077a77b475a616.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/log-entry-metadata.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/8a5fff7604240c35757554e995b141aa16681381.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/security-log-collection-maturity-tiers.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/471c1d3f8891e0d5b9714f7a1133f61ed8cf8921.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/using-live-data-for-testing-purposes.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/89f12e4f31f5949098b56ec93122dad3d16c2da0.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/vulnerability-scanning.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/036b5a3ca6f5ae29499090a9e959278416ca96db.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/tstamp.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/89caaa8946268532a0f73faeb86aff67b82d2891.dita
+[topic-reader] Serializing job specification
+
+topic-branch-filter:
+[branch-filter] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+
+topic-keyref:
+
+topic-copy-to:
+
+topic-conrefpush:
+
+topic-conref:
+   [conref] Transforming into /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530
+   [conref] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base/xsl/preprocess/conref.xsl
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2c49d0d326c0f89a26270624befa8f235af4acc2.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/e6e8737e771dd35fc0cdc2f6bade83c23349142e.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/25524849a08440b20432b5f24caed3d17acb0318.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/baae6e6a1b2bf2eae0d7cb62fe2bd2d28b0a9729.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/f59ea248896055b9c7a9e04c2a1bf3b26bdfe1a6.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/fe91a023dfb16a87e115c11deeb684117c84f6d1.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/849414f59b32f1bd2c16d0aec1eb96650190aabb.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2c3902c04f78461c36c2c774cc59022261fbc7e2.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/d8cbe303f6df4fe2bfd1990556d04136316cf5e8.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c38b6672fa8cd5ab48aecef3bee4c639d70746a5.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/e3f30f475d93b8e0fee73911a7de7da2aa7a8d8b.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/fc4ea7d47446b4df7b675ecd76c2fd492849f6e5.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/52084bf6910f46d05b98357b20a5c0e61a6e33a9.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/3c5bc5777b8df8acd9177296ceadcf76e51e8c95.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/09c79c450d262168c3441d62c53a83fe4de0499c.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/655fa153358255e4cdf4d7066588ff0f6adeeac2.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/6279b5589990df8d8a3cfa27857e57e532300ff6.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/f9aec110d5a7b41ee686e4a4fcdd65ad22964ea1.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/d51e22060337ae14c98342386600fd6050cea022.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/688d1a77b645e037aebe29581184c55b88a277c5.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/fcb232a2a26049497a041a37e0bef22b73b61eda.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/00dfcd6a3656463aa0aacb4c9ce10025057dbe19.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/91c88641a05058c1e7d9236772191c7abc393439.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/71d89be84697608ae31aae7de32e3d35a2ab5c53.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a8797947a3c6c0f72c18f3798b7289c544092a3b.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/4a8510151c440a043e3366ec0a71178ed1fe3389.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ef0ed23f863f6ea445e96af2fb0ce452b74bc197.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/7d3b41ea172cc140ab6da9bb8349725aa5bddd81.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ff83ad413f76ec80713f9a0342441c1089a4404a.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/4af35619c5e220f507847b19b1082726b829131d.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/59cc5b54eadd77fde7d0673ae53fcc9004bc7970.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/0bd50311d8ec0c90fe252c5ef29de6520a3e7330.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/655f33c506aa975311bf6f1572cf89cc48761550.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a6e2716371c1604fa7bf6ba7e9fe150c1285dca1.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/9edbddf882ecf6ded26a3ddfc76fb3f5e45473dd.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/05e9054a5287fe25c2de203bb6f80ca6ee100b4b.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a909ed2741a138078ed9a89e6e49f3077004e202.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/bcf712372ec94c7a00c548f80e976ed7d9f86fed.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/20087fa19c933aadddfd16f068af5f14888518a6.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c5909421925ec635009c5222f1b8406bea6e2b50.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/dfbfdecfd0632071c932b9fd5a9fc3f91056276c.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ee312cac7d1b5cff98a560cfe5a4638834244746.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/210926c4b1495f5584f35eb069fb4a90c7891be1.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/036aeb969bb637f6e24edb11ef6073d70c47dc3a.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c1481ecf030af416e8e2863e166525f7344436d2.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/75758405a962b60e3ad7ddd4a3d3addb9e5cc2a0.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/8b003d67a40afed63c47114d0762e8cb44b92006.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/471c1d3f8891e0d5b9714f7a1133f61ed8cf8921.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/01c6f7904c9a123d2e5c2ec2f03d15417a48af45.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/5a3d450dc5a195c03386e821728bbd5be3e386c9.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/e006a6b625854fb1b3a49aacec8a0f823a78671a.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/168afcc2a2491fdc34d9bedfaa3e577cec07bbbf.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a05ae842dc6bc4ddee2684c45f85fbe51b36fd25.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2407f9d2c9b6026fa1a923cc5408130742b14cd3.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/98b373eae155287ccf2b85276153763b67da6a6a.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/89f12e4f31f5949098b56ec93122dad3d16c2da0.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c051bcdcf798d97f33a34d6794aace24d80c4690.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/0c468fc898738f5e14d1e02a0d4695434aa31d80.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/951f2d5925df435f1aa65b694769f492d3a742a4.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/124fcec752de63e21157e9477edd94ce43868884.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c1bc753be95cff71e6594b789c4e3b384d986f52.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/1277bb6c55b38b9eaa04ac31bff6822217f9611b.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/994b1241353d5dbf28f948330dc38a4ab69fa9b6.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ff5e328fc61997dd6f1663dff7ad1f453c6bd1f6.dita
+
+topic-profile-check:
+
+topic-profile:
+
+preprocess2.topic-fragment:
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2d09adb39e25d70e1435f1837c4d4acf12ef5931.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2c49d0d326c0f89a26270624befa8f235af4acc2.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/e6e8737e771dd35fc0cdc2f6bade83c23349142e.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/25524849a08440b20432b5f24caed3d17acb0318.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/baae6e6a1b2bf2eae0d7cb62fe2bd2d28b0a9729.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/f59ea248896055b9c7a9e04c2a1bf3b26bdfe1a6.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/036b5a3ca6f5ae29499090a9e959278416ca96db.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/68034a6f836e9a13a16b7c7c4647ae54eaec3afb.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/fe91a023dfb16a87e115c11deeb684117c84f6d1.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/849414f59b32f1bd2c16d0aec1eb96650190aabb.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2c3902c04f78461c36c2c774cc59022261fbc7e2.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/d8cbe303f6df4fe2bfd1990556d04136316cf5e8.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c38b6672fa8cd5ab48aecef3bee4c639d70746a5.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/8a5fff7604240c35757554e995b141aa16681381.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/e3f30f475d93b8e0fee73911a7de7da2aa7a8d8b.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/fc4ea7d47446b4df7b675ecd76c2fd492849f6e5.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/52084bf6910f46d05b98357b20a5c0e61a6e33a9.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/77c8250842cdea9eb78d66642c99320f023d426b.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/3c5bc5777b8df8acd9177296ceadcf76e51e8c95.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/09c79c450d262168c3441d62c53a83fe4de0499c.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/655fa153358255e4cdf4d7066588ff0f6adeeac2.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/f0bd930f2d11fbdd70627e0b15be59e15167e86e.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/89caaa8946268532a0f73faeb86aff67b82d2891.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/6279b5589990df8d8a3cfa27857e57e532300ff6.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/f9aec110d5a7b41ee686e4a4fcdd65ad22964ea1.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/d51e22060337ae14c98342386600fd6050cea022.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/688d1a77b645e037aebe29581184c55b88a277c5.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/fcb232a2a26049497a041a37e0bef22b73b61eda.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/00dfcd6a3656463aa0aacb4c9ce10025057dbe19.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/91c88641a05058c1e7d9236772191c7abc393439.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/df9da2b3d8a9dbee20f499d4d062ae24d6e49ddc.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/71d89be84697608ae31aae7de32e3d35a2ab5c53.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a8797947a3c6c0f72c18f3798b7289c544092a3b.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/4a8510151c440a043e3366ec0a71178ed1fe3389.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ef0ed23f863f6ea445e96af2fb0ce452b74bc197.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/7d3b41ea172cc140ab6da9bb8349725aa5bddd81.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ff83ad413f76ec80713f9a0342441c1089a4404a.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/4af35619c5e220f507847b19b1082726b829131d.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/59cc5b54eadd77fde7d0673ae53fcc9004bc7970.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/0bd50311d8ec0c90fe252c5ef29de6520a3e7330.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/655f33c506aa975311bf6f1572cf89cc48761550.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a6e2716371c1604fa7bf6ba7e9fe150c1285dca1.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/da545909a0023b271078545933077a77b475a616.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/9edbddf882ecf6ded26a3ddfc76fb3f5e45473dd.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/05e9054a5287fe25c2de203bb6f80ca6ee100b4b.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a909ed2741a138078ed9a89e6e49f3077004e202.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/bcf712372ec94c7a00c548f80e976ed7d9f86fed.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/20087fa19c933aadddfd16f068af5f14888518a6.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2d6038ae44a2efda5bf361ff6277db126036479a.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c5909421925ec635009c5222f1b8406bea6e2b50.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/dfbfdecfd0632071c932b9fd5a9fc3f91056276c.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ee312cac7d1b5cff98a560cfe5a4638834244746.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/210926c4b1495f5584f35eb069fb4a90c7891be1.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/036aeb969bb637f6e24edb11ef6073d70c47dc3a.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c1481ecf030af416e8e2863e166525f7344436d2.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/75758405a962b60e3ad7ddd4a3d3addb9e5cc2a0.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/8b003d67a40afed63c47114d0762e8cb44b92006.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/471c1d3f8891e0d5b9714f7a1133f61ed8cf8921.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/01c6f7904c9a123d2e5c2ec2f03d15417a48af45.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/5a3d450dc5a195c03386e821728bbd5be3e386c9.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/0057f491167785dde1c5c6c7014fc66283ecc815.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/e006a6b625854fb1b3a49aacec8a0f823a78671a.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/168afcc2a2491fdc34d9bedfaa3e577cec07bbbf.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a05ae842dc6bc4ddee2684c45f85fbe51b36fd25.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2407f9d2c9b6026fa1a923cc5408130742b14cd3.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/98b373eae155287ccf2b85276153763b67da6a6a.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/89f12e4f31f5949098b56ec93122dad3d16c2da0.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c051bcdcf798d97f33a34d6794aace24d80c4690.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/0c468fc898738f5e14d1e02a0d4695434aa31d80.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/951f2d5925df435f1aa65b694769f492d3a742a4.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/124fcec752de63e21157e9477edd94ce43868884.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/658d5928f999a245c23c19a110cb9088c79cc2e1.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c1bc753be95cff71e6594b789c4e3b384d986f52.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/1277bb6c55b38b9eaa04ac31bff6822217f9611b.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/994b1241353d5dbf28f948330dc38a4ab69fa9b6.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ff5e328fc61997dd6f1663dff7ad1f453c6bd1f6.dita
+
+topic-chunk:
+
+topic-move-meta-entries:
+[move-meta] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+[move-meta] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base/xsl/preprocess/mappull.xsl
+[move-meta] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+
+topic-maplink:
+
+topic-topicpull:
+[topicpull] Transforming into /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530
+[topicpull] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base/xsl/preprocess/topicpull.xsl
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2d09adb39e25d70e1435f1837c4d4acf12ef5931.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2c49d0d326c0f89a26270624befa8f235af4acc2.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/e6e8737e771dd35fc0cdc2f6bade83c23349142e.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/25524849a08440b20432b5f24caed3d17acb0318.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/baae6e6a1b2bf2eae0d7cb62fe2bd2d28b0a9729.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/f59ea248896055b9c7a9e04c2a1bf3b26bdfe1a6.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/036b5a3ca6f5ae29499090a9e959278416ca96db.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/68034a6f836e9a13a16b7c7c4647ae54eaec3afb.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/fe91a023dfb16a87e115c11deeb684117c84f6d1.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/849414f59b32f1bd2c16d0aec1eb96650190aabb.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2c3902c04f78461c36c2c774cc59022261fbc7e2.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c38b6672fa8cd5ab48aecef3bee4c639d70746a5.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/8a5fff7604240c35757554e995b141aa16681381.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/e3f30f475d93b8e0fee73911a7de7da2aa7a8d8b.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/fc4ea7d47446b4df7b675ecd76c2fd492849f6e5.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/52084bf6910f46d05b98357b20a5c0e61a6e33a9.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/77c8250842cdea9eb78d66642c99320f023d426b.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/3c5bc5777b8df8acd9177296ceadcf76e51e8c95.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/09c79c450d262168c3441d62c53a83fe4de0499c.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/655fa153358255e4cdf4d7066588ff0f6adeeac2.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/f0bd930f2d11fbdd70627e0b15be59e15167e86e.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/89caaa8946268532a0f73faeb86aff67b82d2891.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/6279b5589990df8d8a3cfa27857e57e532300ff6.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/f9aec110d5a7b41ee686e4a4fcdd65ad22964ea1.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/d51e22060337ae14c98342386600fd6050cea022.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/688d1a77b645e037aebe29581184c55b88a277c5.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/fcb232a2a26049497a041a37e0bef22b73b61eda.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/00dfcd6a3656463aa0aacb4c9ce10025057dbe19.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/91c88641a05058c1e7d9236772191c7abc393439.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/df9da2b3d8a9dbee20f499d4d062ae24d6e49ddc.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/71d89be84697608ae31aae7de32e3d35a2ab5c53.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a8797947a3c6c0f72c18f3798b7289c544092a3b.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/4a8510151c440a043e3366ec0a71178ed1fe3389.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ef0ed23f863f6ea445e96af2fb0ce452b74bc197.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/7d3b41ea172cc140ab6da9bb8349725aa5bddd81.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ff83ad413f76ec80713f9a0342441c1089a4404a.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/4af35619c5e220f507847b19b1082726b829131d.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/59cc5b54eadd77fde7d0673ae53fcc9004bc7970.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/0bd50311d8ec0c90fe252c5ef29de6520a3e7330.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/655f33c506aa975311bf6f1572cf89cc48761550.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a6e2716371c1604fa7bf6ba7e9fe150c1285dca1.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/da545909a0023b271078545933077a77b475a616.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/9edbddf882ecf6ded26a3ddfc76fb3f5e45473dd.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/05e9054a5287fe25c2de203bb6f80ca6ee100b4b.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a909ed2741a138078ed9a89e6e49f3077004e202.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/bcf712372ec94c7a00c548f80e976ed7d9f86fed.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/20087fa19c933aadddfd16f068af5f14888518a6.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2d6038ae44a2efda5bf361ff6277db126036479a.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c5909421925ec635009c5222f1b8406bea6e2b50.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/dfbfdecfd0632071c932b9fd5a9fc3f91056276c.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ee312cac7d1b5cff98a560cfe5a4638834244746.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/210926c4b1495f5584f35eb069fb4a90c7891be1.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/036aeb969bb637f6e24edb11ef6073d70c47dc3a.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c1481ecf030af416e8e2863e166525f7344436d2.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/75758405a962b60e3ad7ddd4a3d3addb9e5cc2a0.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/8b003d67a40afed63c47114d0762e8cb44b92006.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/471c1d3f8891e0d5b9714f7a1133f61ed8cf8921.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/01c6f7904c9a123d2e5c2ec2f03d15417a48af45.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/5a3d450dc5a195c03386e821728bbd5be3e386c9.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/0057f491167785dde1c5c6c7014fc66283ecc815.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/e006a6b625854fb1b3a49aacec8a0f823a78671a.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/168afcc2a2491fdc34d9bedfaa3e577cec07bbbf.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a05ae842dc6bc4ddee2684c45f85fbe51b36fd25.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2407f9d2c9b6026fa1a923cc5408130742b14cd3.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/98b373eae155287ccf2b85276153763b67da6a6a.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/89f12e4f31f5949098b56ec93122dad3d16c2da0.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c051bcdcf798d97f33a34d6794aace24d80c4690.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/0c468fc898738f5e14d1e02a0d4695434aa31d80.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/951f2d5925df435f1aa65b694769f492d3a742a4.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/124fcec752de63e21157e9477edd94ce43868884.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/658d5928f999a245c23c19a110cb9088c79cc2e1.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c1bc753be95cff71e6594b789c4e3b384d986f52.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/1277bb6c55b38b9eaa04ac31bff6822217f9611b.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/994b1241353d5dbf28f948330dc38a4ab69fa9b6.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ff5e328fc61997dd6f1663dff7ad1f453c6bd1f6.dita
+
+preprocess2.topics:
+
+map-clean-map:
+[clean-map] Transforming into /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530
+[clean-map] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base/xsl/preprocess/clean-map.xsl
+[clean-map] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+
+clean-preprocess:
+
+copy-image2:
+
+copy-html:
+
+copy-flag-check:
+
+copy-flag:
+
+copy-files2:
+
+preprocess2:
+
+map2pdf2:
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/d51e22060337ae14c98342386600fd6050cea022.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/036aeb969bb637f6e24edb11ef6073d70c47dc3a.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/f9aec110d5a7b41ee686e4a4fcdd65ad22964ea1.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/52084bf6910f46d05b98357b20a5c0e61a6e33a9.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/0bd50311d8ec0c90fe252c5ef29de6520a3e7330.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c1481ecf030af416e8e2863e166525f7344436d2.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/98b373eae155287ccf2b85276153763b67da6a6a.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/20087fa19c933aadddfd16f068af5f14888518a6.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/4a8510151c440a043e3366ec0a71178ed1fe3389.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/0c468fc898738f5e14d1e02a0d4695434aa31d80.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/849414f59b32f1bd2c16d0aec1eb96650190aabb.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a8797947a3c6c0f72c18f3798b7289c544092a3b.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/951f2d5925df435f1aa65b694769f492d3a742a4.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2d09adb39e25d70e1435f1837c4d4acf12ef5931.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2c3902c04f78461c36c2c774cc59022261fbc7e2.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2c49d0d326c0f89a26270624befa8f235af4acc2.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c1bc753be95cff71e6594b789c4e3b384d986f52.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c051bcdcf798d97f33a34d6794aace24d80c4690.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c5909421925ec635009c5222f1b8406bea6e2b50.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a6e2716371c1604fa7bf6ba7e9fe150c1285dca1.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ff83ad413f76ec80713f9a0342441c1089a4404a.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/655fa153358255e4cdf4d7066588ff0f6adeeac2.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/75758405a962b60e3ad7ddd4a3d3addb9e5cc2a0.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ee312cac7d1b5cff98a560cfe5a4638834244746.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ff5e328fc61997dd6f1663dff7ad1f453c6bd1f6.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/6279b5589990df8d8a3cfa27857e57e532300ff6.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/01c6f7904c9a123d2e5c2ec2f03d15417a48af45.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/4af35619c5e220f507847b19b1082726b829131d.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/168afcc2a2491fdc34d9bedfaa3e577cec07bbbf.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/ef0ed23f863f6ea445e96af2fb0ce452b74bc197.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/fe91a023dfb16a87e115c11deeb684117c84f6d1.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/e3f30f475d93b8e0fee73911a7de7da2aa7a8d8b.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/00dfcd6a3656463aa0aacb4c9ce10025057dbe19.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/658d5928f999a245c23c19a110cb9088c79cc2e1.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/e6e8737e771dd35fc0cdc2f6bade83c23349142e.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/68034a6f836e9a13a16b7c7c4647ae54eaec3afb.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/0057f491167785dde1c5c6c7014fc66283ecc815.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/05e9054a5287fe25c2de203bb6f80ca6ee100b4b.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/09c79c450d262168c3441d62c53a83fe4de0499c.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/91c88641a05058c1e7d9236772191c7abc393439.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2d6038ae44a2efda5bf361ff6277db126036479a.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/8b003d67a40afed63c47114d0762e8cb44b92006.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/77c8250842cdea9eb78d66642c99320f023d426b.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/fcb232a2a26049497a041a37e0bef22b73b61eda.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/7d3b41ea172cc140ab6da9bb8349725aa5bddd81.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/baae6e6a1b2bf2eae0d7cb62fe2bd2d28b0a9729.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/1277bb6c55b38b9eaa04ac31bff6822217f9611b.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/e006a6b625854fb1b3a49aacec8a0f823a78671a.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/9edbddf882ecf6ded26a3ddfc76fb3f5e45473dd.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/59cc5b54eadd77fde7d0673ae53fcc9004bc7970.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/71d89be84697608ae31aae7de32e3d35a2ab5c53.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/688d1a77b645e037aebe29581184c55b88a277c5.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/dfbfdecfd0632071c932b9fd5a9fc3f91056276c.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/124fcec752de63e21157e9477edd94ce43868884.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a05ae842dc6bc4ddee2684c45f85fbe51b36fd25.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/655f33c506aa975311bf6f1572cf89cc48761550.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/994b1241353d5dbf28f948330dc38a4ab69fa9b6.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/fc4ea7d47446b4df7b675ecd76c2fd492849f6e5.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/210926c4b1495f5584f35eb069fb4a90c7891be1.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/5a3d450dc5a195c03386e821728bbd5be3e386c9.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/f59ea248896055b9c7a9e04c2a1bf3b26bdfe1a6.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/c38b6672fa8cd5ab48aecef3bee4c639d70746a5.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/3c5bc5777b8df8acd9177296ceadcf76e51e8c95.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/25524849a08440b20432b5f24caed3d17acb0318.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/2407f9d2c9b6026fa1a923cc5408130742b14cd3.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/bcf712372ec94c7a00c548f80e976ed7d9f86fed.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/a909ed2741a138078ed9a89e6e49f3077004e202.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/f0bd930f2d11fbdd70627e0b15be59e15167e86e.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/df9da2b3d8a9dbee20f499d4d062ae24d6e49ddc.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/da545909a0023b271078545933077a77b475a616.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/8a5fff7604240c35757554e995b141aa16681381.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/471c1d3f8891e0d5b9714f7a1133f61ed8cf8921.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/89f12e4f31f5949098b56ec93122dad3d16c2da0.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/036b5a3ca6f5ae29499090a9e959278416ca96db.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/89caaa8946268532a0f73faeb86aff67b82d2891.dita
+
+transform.topic2pdf.init:
+
+publish.map.pdf.init:
+
+copyCoreArtwork:
+     [copy] Copying 4 files to /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/Configuration/OpenTopic
+
+transform.fo2pdf.xep.test-use:
+
+transform.fo2pdf.xep.init:
+
+transform.fo2pdf.fop.test-use:
+
+transform.fo2pdf.fop.init:
+
+transform.fo2pdf.ah.test-use:
+
+transform.fo2pdf.ah.init:
+
+transform.topic2fo.init:
+     [echo] Using document.locale=en
+
+org.dita.index.init:
+
+org.dita.index:
+     [echo] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/moj-guidance_MERGED.xml to /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/stage1.xml
+
+transform.topic2fo.main:
+ [pipeline] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.pdf2.fop/xsl/fo/topic2fo_shell_fop.xsl
+ [pipeline] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/stage1.xml to /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/stage2.fo
+
+transform.topic2fo.i18n.filter:
+[i18n-preprocess] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/stage2.fo to /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/topic.fo
+[i18n-preprocess] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.pdf2/xsl/fo/i18n-postprocess.xsl
+
+transform.topic2fo.i18n.no-filter:
+
+transform.topic2fo.i18n:
+
+transform.topic2fo:
+
+transform.fo2pdf.xep:
+
+transform.fo2pdf.fop:
+      [fop] [WARN] Font "Arial Unicode MS,normal,700" not found. Substituting with "Arial Unicode MS,normal,400".
+      [fop] [INFO] Rendered page #1.
+      [fop] [WARN] The contents of fo:block line 1 exceed the available area in the inline-progression direction by 1161 millipoints. (See position 938:215)
+      [fop] [INFO] Rendered page #2.
+      [fop] [INFO] Rendered page #3.
+      [fop] [INFO] Rendered page #4.
+      [fop] [INFO] Rendered page #5.
+      [fop] [INFO] Rendered page #6.
+      [fop] [INFO] Rendered page #7.
+      [fop] [INFO] Rendered page #8.
+      [fop] [INFO] Rendered page #9.
+      [fop] [INFO] Rendered page #10.
+      [fop] [INFO] Rendered page #11.
+      [fop] [INFO] Rendered page #12.
+      [fop] [INFO] Rendered page #13.
+      [fop] [INFO] Rendered page #14.
+      [fop] [INFO] Rendered page #15.
+      [fop] [INFO] Rendered page #16.
+      [fop] [INFO] Rendered page #17.
+      [fop] [INFO] Rendered page #18.
+      [fop] [INFO] Rendered page #19.
+      [fop] [INFO] Rendered page #20.
+      [fop] [INFO] Rendered page #21.
+      [fop] [INFO] Rendered page #22.
+      [fop] [INFO] Rendered page #23.
+      [fop] [INFO] Rendered page #24.
+      [fop] [INFO] Rendered page #25.
+      [fop] [INFO] Rendered page #26.
+      [fop] [INFO] Rendered page #27.
+      [fop] [INFO] Rendered page #28.
+      [fop] [INFO] Rendered page #29.
+      [fop] [INFO] Rendered page #30.
+      [fop] [INFO] Rendered page #31.
+      [fop] [INFO] Rendered page #32.
+      [fop] [INFO] Rendered page #33.
+      [fop] [INFO] Rendered page #34.
+      [fop] [INFO] Rendered page #35.
+      [fop] [INFO] Rendered page #36.
+      [fop] [INFO] Rendered page #37.
+      [fop] [INFO] Rendered page #38.
+      [fop] [INFO] Rendered page #39.
+      [fop] [INFO] Rendered page #40.
+      [fop] [INFO] Rendered page #41.
+      [fop] [INFO] Rendered page #42.
+      [fop] [INFO] Rendered page #43.
+      [fop] [INFO] Rendered page #44.
+      [fop] [INFO] Rendered page #45.
+      [fop] [INFO] Rendered page #46.
+      [fop] [INFO] Rendered page #47.
+      [fop] [INFO] Rendered page #48.
+      [fop] [INFO] Rendered page #49.
+      [fop] [INFO] Rendered page #50.
+      [fop] [INFO] Rendered page #51.
+      [fop] [INFO] Rendered page #52.
+      [fop] [INFO] Rendered page #53.
+      [fop] [INFO] Rendered page #54.
+      [fop] [INFO] Rendered page #55.
+      [fop] [INFO] Rendered page #56.
+      [fop] [INFO] Rendered page #57.
+      [fop] [INFO] Rendered page #58.
+      [fop] [INFO] Rendered page #59.
+      [fop] [INFO] Rendered page #60.
+      [fop] [INFO] Rendered page #61.
+      [fop] [INFO] Rendered page #62.
+      [fop] [INFO] Rendered page #63.
+      [fop] [INFO] Rendered page #64.
+      [fop] [INFO] Rendered page #65.
+      [fop] [INFO] Rendered page #66.
+      [fop] [INFO] Rendered page #67.
+      [fop] [INFO] Rendered page #68.
+      [fop] [INFO] Rendered page #69.
+      [fop] [INFO] Rendered page #70.
+      [fop] [INFO] Rendered page #71.
+      [fop] [INFO] Rendered page #72.
+      [fop] [INFO] Rendered page #73.
+      [fop] [INFO] Rendered page #74.
+      [fop] [INFO] Rendered page #75.
+      [fop] [INFO] Rendered page #76.
+      [fop] [INFO] Rendered page #77.
+      [fop] [INFO] Rendered page #78.
+      [fop] [INFO] Rendered page #79.
+      [fop] [INFO] Rendered page #80.
+      [fop] [INFO] Rendered page #81.
+      [fop] [INFO] Rendered page #82.
+      [fop] [INFO] Rendered page #83.
+      [fop] [INFO] Rendered page #84.
+      [fop] [INFO] Rendered page #85.
+      [fop] [INFO] Rendered page #86.
+      [fop] [INFO] Rendered page #87.
+      [fop] [INFO] Rendered page #88.
+      [fop] [INFO] Rendered page #89.
+      [fop] [INFO] Rendered page #90.
+      [fop] [INFO] Rendered page #91.
+      [fop] [INFO] Rendered page #92.
+      [fop] [INFO] Rendered page #93.
+      [fop] [INFO] Rendered page #94.
+      [fop] [INFO] Rendered page #95.
+      [fop] [INFO] Rendered page #96.
+      [fop] [INFO] Rendered page #97.
+      [fop] [INFO] Rendered page #98.
+      [fop] [INFO] Rendered page #99.
+      [fop] [INFO] Rendered page #100.
+      [fop] [INFO] Rendered page #101.
+      [fop] /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125333530/topic.fo -> /Users/simonheron/Documents/GitHub/security-guidance/dita/out/moj-guidance.pdf
+
+transform.fo2pdf.ah:
+
+transform.fo2pdf:
+
+transform.topic2pdf:
+
+publish.map.pdf:
+
+topic2pdf2:
+
+dita2pdf2:
+
+dita2pdf:
+
+clean-temp:
+     [move] Moving 1 file to /Users/simonheron/Documents/GitHub/security-guidance/dita/out
+
+init:
+
+dita2pdf2.init:
+
+init-properties:
+[init-project] Initializing project
+
+check-arg:
+    [mkdir] Created dir: /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184
+
+log-arg:
+     [echo] *****************************************************************
+     [echo] * basedir = /Users/simonheron/Documents/GitHub/security-guidance
+     [echo] * dita.dir = /Users/simonheron/installlocal/dita-ot-3.5.3
+     [echo] * transtype = pdf
+     [echo] * tempdir = /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184
+     [echo] * outputdir = /Users/simonheron/Documents/GitHub/security-guidance/dita/out
+     [echo] * clean.temp = true
+     [echo] * DITA-OT version = 3.5.3
+     [echo] * XML parser = Xerces
+     [echo] * XSLT processor = Saxon
+     [echo] * collator = ICU
+     [echo] *****************************************************************
+     [echo] #Ant properties
+     [echo] #Wed Sep 16 12:54:28 BST 2020
+     [echo] dita.plugin.org.dita.base.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base
+     [echo] preprocess.chunk.skip=true
+     [echo] dita.temp.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184
+     [echo] args.grammar.cache=yes
+     [echo] dita.plugin.org.oasis-open.xdita.v0_2_2.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.oasis-open.xdita.v0_2_2
+     [echo] dita.dir=/Users/simonheron/installlocal/dita-ot-3.5.3
+     [echo] dita.plugin.org.dita.pdf2.axf.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.pdf2.axf
+     [echo] preprocess.copy-flag.skip=true
+     [echo] args.filter=/Users/simonheron/Documents/GitHub/security-guidance/dita/pdf.ditaval\:/Users/simonheron/Documents/GitHub/security-guidance/dita/audience-allusers.ditaval
+     [echo] dita=/Users/simonheron/Documents/GitHub/security-guidance/dita
+     [echo] dita.plugin.org.oasis-open.dita.v1_3.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.oasis-open.dita.v1_3
+     [echo] dita.plugin.org.lwdita.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.lwdita
+     [echo] dita.plugin.org.oasis-open.dita.v2_0.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.oasis-open.dita.v2_0
+     [echo] dita.plugin.org.dita.htmlhelp.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.htmlhelp
+     [echo] dita.plugin.com.here.validate.svrl.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/com.here.validate.svrl
+     [echo] dita.output.dir=/Users/simonheron/Documents/GitHub/security-guidance/dita/out
+     [echo] args.rellinks=nofamily
+     [echo] dita.plugin.org.dita.eclipsehelp.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.eclipsehelp
+     [echo] dita.plugin.org.dita.normalize.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.normalize
+     [echo] dita.plugin.org.dita.xhtml.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.xhtml
+     [echo] dita.plugin.org.dita.pdf2.xep.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.pdf2.xep
+     [echo] dita.plugin.org.dita.specialization.dita11.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.specialization.dita11
+     [echo] dita.plugin.org.oasis-open.dita.v1_2.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.oasis-open.dita.v1_2
+     [echo] dita.plugin.org.dita.pdf2.fop.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.pdf2.fop
+     [echo] args.input=/Users/simonheron/Documents/GitHub/security-guidance/dita/moj-guidance.ditamap
+     [echo] args.xml.systemid.set=yes
+     [echo] dita.plugin.org.dita.pdf2.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.pdf2
+     [echo] dita.plugin.org.doctales.xmltask.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.doctales.xmltask
+     [echo] dita.plugin.org.dita.html5.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.html5
+     [echo] dita.plugin.org.oasis-open.dita.techcomm.v2_0.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.oasis-open.dita.techcomm.v2_0
+     [echo] preprocess.copy-image.skip=true
+     [echo] dita.plugin.org.dita.index.dir=/Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.index
+     [echo] *****************************************************************
+
+build-init:
+
+preprocess2.init:
+     [echo] *****************************************************************
+     [echo] * input = /Users/simonheron/Documents/GitHub/security-guidance/dita/moj-guidance.ditamap
+     [echo] * resources = ${args.resources}
+     [echo] *****************************************************************
+
+ditaval-merge:
+
+map-reader:
+[map-reader] Using Xerces grammar pool for DTD and schema caching.
+[map-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/moj-guidance.ditamap to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+[map-reader] Serializing job specification
+
+map-mapref:
+   [mapref] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+
+map-branch-filter:
+[branch-filter] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+
+map-keyref:
+   [mapref] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+
+map-conrefpush:
+
+map-conref:
+   [conref] Transforming into /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184
+   [conref] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base/xsl/preprocess/map-conref.xsl
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+
+map-profile-check:
+
+map-profile:
+  [profile] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+
+preprocess2.maps:
+
+topic-reader:
+[topic-reader] Using Xerces grammar pool for DTD and schema caching.
+[topic-reader] Reading file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/conrefs.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/d8cbe303f6df4fe2bfd1990556d04136316cf5e8.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/cyber-and-technical-security-guidance.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/d51e22060337ae14c98342386600fd6050cea022.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/reporting-an-incident.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/036aeb969bb637f6e24edb11ef6073d70c47dc3a.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/user-guide.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/f9aec110d5a7b41ee686e4a4fcdd65ad22964ea1.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/accessing-moj-it-systems-from-abroad.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/0bd50311d8ec0c90fe252c5ef29de6520a3e7330.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/minimum-user-clearance-requirements-guide.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/4a8510151c440a043e3366ec0a71178ed1fe3389.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/personnel-security-clearances.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/849414f59b32f1bd2c16d0aec1eb96650190aabb.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/protecting-social-media-accounts.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/951f2d5925df435f1aa65b694769f492d3a742a4.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/bluetooth.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/2c3902c04f78461c36c2c774cc59022261fbc7e2.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/general-advice-on-taking-equipment-abroad.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/2c49d0d326c0f89a26270624befa8f235af4acc2.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/general-user-video-and-messaging-apps-guidance.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/c1bc753be95cff71e6594b789c4e3b384d986f52.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/guidance-for-using-open-internet-tools.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/c051bcdcf798d97f33a34d6794aace24d80c4690.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/lost-laptophardware.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/c5909421925ec635009c5222f1b8406bea6e2b50.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/remote-working.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/a6e2716371c1604fa7bf6ba7e9fe150c1285dca1.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/personal-devices.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/ff83ad413f76ec80713f9a0342441c1089a4404a.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/identify-protect-detect-respond-recover.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/fe91a023dfb16a87e115c11deeb684117c84f6d1.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/official-official-sensitive.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/0057f491167785dde1c5c6c7014fc66283ecc815.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/data-security-and-privacy.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/e006a6b625854fb1b3a49aacec8a0f823a78671a.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/password-managers.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/9edbddf882ecf6ded26a3ddfc76fb3f5e45473dd.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/using-lastpass.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/124fcec752de63e21157e9477edd94ce43868884.dita
+[topic-reader] Processing file:/Users/simonheron/Documents/GitHub/security-guidance/dita/tstamp.dita to file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/89caaa8946268532a0f73faeb86aff67b82d2891.dita
+[topic-reader] Serializing job specification
+
+topic-branch-filter:
+[branch-filter] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+
+topic-keyref:
+
+topic-copy-to:
+
+topic-conrefpush:
+
+topic-conref:
+   [conref] Transforming into /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184
+   [conref] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base/xsl/preprocess/conref.xsl
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/4a8510151c440a043e3366ec0a71178ed1fe3389.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/2c49d0d326c0f89a26270624befa8f235af4acc2.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/ff83ad413f76ec80713f9a0342441c1089a4404a.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/fe91a023dfb16a87e115c11deeb684117c84f6d1.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/0bd50311d8ec0c90fe252c5ef29de6520a3e7330.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/849414f59b32f1bd2c16d0aec1eb96650190aabb.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/e006a6b625854fb1b3a49aacec8a0f823a78671a.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/2c3902c04f78461c36c2c774cc59022261fbc7e2.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/d8cbe303f6df4fe2bfd1990556d04136316cf5e8.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/a6e2716371c1604fa7bf6ba7e9fe150c1285dca1.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/c051bcdcf798d97f33a34d6794aace24d80c4690.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/9edbddf882ecf6ded26a3ddfc76fb3f5e45473dd.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/f9aec110d5a7b41ee686e4a4fcdd65ad22964ea1.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/d51e22060337ae14c98342386600fd6050cea022.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/124fcec752de63e21157e9477edd94ce43868884.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/951f2d5925df435f1aa65b694769f492d3a742a4.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/c5909421925ec635009c5222f1b8406bea6e2b50.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/c1bc753be95cff71e6594b789c4e3b384d986f52.dita
+   [conref] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/036aeb969bb637f6e24edb11ef6073d70c47dc3a.dita
+
+topic-profile-check:
+
+topic-profile:
+
+preprocess2.topic-fragment:
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/4a8510151c440a043e3366ec0a71178ed1fe3389.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/2c49d0d326c0f89a26270624befa8f235af4acc2.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/ff83ad413f76ec80713f9a0342441c1089a4404a.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/fe91a023dfb16a87e115c11deeb684117c84f6d1.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/0057f491167785dde1c5c6c7014fc66283ecc815.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/0bd50311d8ec0c90fe252c5ef29de6520a3e7330.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/89caaa8946268532a0f73faeb86aff67b82d2891.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/849414f59b32f1bd2c16d0aec1eb96650190aabb.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/e006a6b625854fb1b3a49aacec8a0f823a78671a.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/2c3902c04f78461c36c2c774cc59022261fbc7e2.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/d8cbe303f6df4fe2bfd1990556d04136316cf5e8.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/a6e2716371c1604fa7bf6ba7e9fe150c1285dca1.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/c051bcdcf798d97f33a34d6794aace24d80c4690.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/9edbddf882ecf6ded26a3ddfc76fb3f5e45473dd.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/f9aec110d5a7b41ee686e4a4fcdd65ad22964ea1.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/d51e22060337ae14c98342386600fd6050cea022.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/124fcec752de63e21157e9477edd94ce43868884.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/951f2d5925df435f1aa65b694769f492d3a742a4.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/c5909421925ec635009c5222f1b8406bea6e2b50.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/c1bc753be95cff71e6594b789c4e3b384d986f52.dita
+[preprocess2.topic-fragment] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/036aeb969bb637f6e24edb11ef6073d70c47dc3a.dita
+
+topic-chunk:
+
+topic-move-meta-entries:
+[move-meta] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+[move-meta] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base/xsl/preprocess/mappull.xsl
+[move-meta] Processing file:/Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+
+topic-maplink:
+
+topic-topicpull:
+[topicpull] Transforming into /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184
+[topicpull] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base/xsl/preprocess/topicpull.xsl
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/4a8510151c440a043e3366ec0a71178ed1fe3389.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/2c49d0d326c0f89a26270624befa8f235af4acc2.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/ff83ad413f76ec80713f9a0342441c1089a4404a.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/fe91a023dfb16a87e115c11deeb684117c84f6d1.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/0057f491167785dde1c5c6c7014fc66283ecc815.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/0bd50311d8ec0c90fe252c5ef29de6520a3e7330.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/89caaa8946268532a0f73faeb86aff67b82d2891.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/849414f59b32f1bd2c16d0aec1eb96650190aabb.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/e006a6b625854fb1b3a49aacec8a0f823a78671a.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/2c3902c04f78461c36c2c774cc59022261fbc7e2.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/a6e2716371c1604fa7bf6ba7e9fe150c1285dca1.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/c051bcdcf798d97f33a34d6794aace24d80c4690.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/9edbddf882ecf6ded26a3ddfc76fb3f5e45473dd.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/f9aec110d5a7b41ee686e4a4fcdd65ad22964ea1.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/d51e22060337ae14c98342386600fd6050cea022.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/124fcec752de63e21157e9477edd94ce43868884.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/951f2d5925df435f1aa65b694769f492d3a742a4.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/c5909421925ec635009c5222f1b8406bea6e2b50.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/c1bc753be95cff71e6594b789c4e3b384d986f52.dita
+[topicpull] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/036aeb969bb637f6e24edb11ef6073d70c47dc3a.dita
+
+preprocess2.topics:
+
+map-clean-map:
+[clean-map] Transforming into /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184
+[clean-map] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.base/xsl/preprocess/clean-map.xsl
+[clean-map] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+
+clean-preprocess:
+
+copy-image2:
+
+copy-html:
+
+copy-flag-check:
+
+copy-flag:
+
+copy-files2:
+
+preprocess2:
+
+map2pdf2:
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/b45c19f37161f862f1eaaef15018641620f6e6fc.ditamap
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/d51e22060337ae14c98342386600fd6050cea022.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/036aeb969bb637f6e24edb11ef6073d70c47dc3a.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/f9aec110d5a7b41ee686e4a4fcdd65ad22964ea1.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/0bd50311d8ec0c90fe252c5ef29de6520a3e7330.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/4a8510151c440a043e3366ec0a71178ed1fe3389.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/849414f59b32f1bd2c16d0aec1eb96650190aabb.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/951f2d5925df435f1aa65b694769f492d3a742a4.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/2c3902c04f78461c36c2c774cc59022261fbc7e2.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/2c49d0d326c0f89a26270624befa8f235af4acc2.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/c1bc753be95cff71e6594b789c4e3b384d986f52.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/c051bcdcf798d97f33a34d6794aace24d80c4690.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/c5909421925ec635009c5222f1b8406bea6e2b50.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/a6e2716371c1604fa7bf6ba7e9fe150c1285dca1.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/ff83ad413f76ec80713f9a0342441c1089a4404a.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/fe91a023dfb16a87e115c11deeb684117c84f6d1.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/0057f491167785dde1c5c6c7014fc66283ecc815.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/e006a6b625854fb1b3a49aacec8a0f823a78671a.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/9edbddf882ecf6ded26a3ddfc76fb3f5e45473dd.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/124fcec752de63e21157e9477edd94ce43868884.dita
+[topic-merge] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/89caaa8946268532a0f73faeb86aff67b82d2891.dita
+
+transform.topic2pdf.init:
+
+publish.map.pdf.init:
+
+copyCoreArtwork:
+     [copy] Copying 4 files to /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/Configuration/OpenTopic
+
+transform.fo2pdf.xep.test-use:
+
+transform.fo2pdf.xep.init:
+
+transform.fo2pdf.fop.test-use:
+
+transform.fo2pdf.fop.init:
+
+transform.fo2pdf.ah.test-use:
+
+transform.fo2pdf.ah.init:
+
+transform.topic2fo.init:
+     [echo] Using document.locale=en
+
+org.dita.index.init:
+
+org.dita.index:
+     [echo] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/moj-guidance_MERGED.xml to /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/stage1.xml
+
+transform.topic2fo.main:
+ [pipeline] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.pdf2.fop/xsl/fo/topic2fo_shell_fop.xsl
+ [pipeline] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/stage1.xml to /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/stage2.fo
+
+transform.topic2fo.i18n.filter:
+[i18n-preprocess] Processing /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/stage2.fo to /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/topic.fo
+[i18n-preprocess] Loading stylesheet /Users/simonheron/installlocal/dita-ot-3.5.3/plugins/org.dita.pdf2/xsl/fo/i18n-postprocess.xsl
+
+transform.topic2fo.i18n.no-filter:
+
+transform.topic2fo.i18n:
+
+transform.topic2fo:
+
+transform.fo2pdf.xep:
+
+transform.fo2pdf.fop:
+      [fop] [WARN] Font "Arial Unicode MS,normal,700" not found. Substituting with "Arial Unicode MS,normal,400".
+      [fop] [INFO] Rendered page #1.
+      [fop] [WARN] The contents of fo:block line 1 exceed the available area in the inline-progression direction by 1161 millipoints. (See position 367:215)
+      [fop] [INFO] Rendered page #2.
+      [fop] [INFO] Rendered page #3.
+      [fop] [INFO] Rendered page #4.
+      [fop] [INFO] Rendered page #5.
+      [fop] [INFO] Rendered page #6.
+      [fop] [INFO] Rendered page #7.
+      [fop] [INFO] Rendered page #8.
+      [fop] [INFO] Rendered page #9.
+      [fop] [INFO] Rendered page #10.
+      [fop] [INFO] Rendered page #11.
+      [fop] [INFO] Rendered page #12.
+      [fop] [INFO] Rendered page #13.
+      [fop] [INFO] Rendered page #14.
+      [fop] [INFO] Rendered page #15.
+      [fop] [INFO] Rendered page #16.
+      [fop] [INFO] Rendered page #17.
+      [fop] [INFO] Rendered page #18.
+      [fop] [INFO] Rendered page #19.
+      [fop] [INFO] Rendered page #20.
+      [fop] [INFO] Rendered page #21.
+      [fop] [INFO] Rendered page #22.
+      [fop] [INFO] Rendered page #23.
+      [fop] [INFO] Rendered page #24.
+      [fop] [INFO] Rendered page #25.
+      [fop] [INFO] Rendered page #26.
+      [fop] [INFO] Rendered page #27.
+      [fop] [INFO] Rendered page #28.
+      [fop] [INFO] Rendered page #29.
+      [fop] [INFO] Rendered page #30.
+      [fop] [INFO] Rendered page #31.
+      [fop] [INFO] Rendered page #32.
+      [fop] /Users/simonheron/installlocal/dita-ot-3.5.3/temp/temp20200916125428184/topic.fo -> /Users/simonheron/Documents/GitHub/security-guidance/dita/out/moj-guidance.pdf
+
+transform.fo2pdf.ah:
+
+transform.fo2pdf:
+
+transform.topic2pdf:
+
+publish.map.pdf:
+
+topic2pdf2:
+
+dita2pdf2:
+
+dita2pdf:
+
+clean-temp:
+
+compile_epub:
+
+BUILD FAILED
+/Users/simonheron/Documents/GitHub/security-guidance/buildUtils/builder.ant:82: Execute failed: java.io.IOException: Cannot run program "ditac" (in directory "/Users/simonheron/Documents/GitHub/security-guidance/dita"): error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1128)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1071)
+	at java.base/java.lang.Runtime.exec(Runtime.java:590)
+	at org.apache.tools.ant.taskdefs.launcher.Java13CommandLauncher.exec(Java13CommandLauncher.java:58)
+	at org.apache.tools.ant.taskdefs.Execute.launch(Execute.java:424)
+	at org.apache.tools.ant.taskdefs.Execute.execute(Execute.java:438)
+	at org.apache.tools.ant.taskdefs.ExecTask.runExecute(ExecTask.java:630)
+	at org.apache.tools.ant.taskdefs.ExecTask.runExec(ExecTask.java:669)
+	at org.apache.tools.ant.taskdefs.ExecTask.execute(ExecTask.java:497)
+	at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:292)
+	at jdk.internal.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.apache.tools.ant.dispatch.DispatchUtils.execute(DispatchUtils.java:99)
+	at org.apache.tools.ant.Task.perform(Task.java:350)
+	at org.apache.tools.ant.Target.execute(Target.java:449)
+	at org.apache.tools.ant.Target.performTasks(Target.java:470)
+	at org.apache.tools.ant.Project.executeSortedTargets(Project.java:1391)
+	at org.apache.tools.ant.Project.executeTarget(Project.java:1364)
+	at org.apache.tools.ant.helper.DefaultExecutor.executeTargets(DefaultExecutor.java:41)
+	at org.apache.tools.ant.Project.executeTargets(Project.java:1254)
+	at org.apache.tools.ant.Main.runBuild(Main.java:830)
+	at org.apache.tools.ant.Main.startAnt(Main.java:223)
+	at org.apache.tools.ant.launch.Launcher.run(Launcher.java:284)
+	at org.apache.tools.ant.launch.Launcher.main(Launcher.java:101)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:319)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:250)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1107)
+	... 24 more
+
+Total time: 2 minutes 20 seconds
