@@ -114,4 +114,12 @@
 		</body>
 	</topic>
 	
+	<topic id="contact-details">
+		<title>Contact details</title>
+		<body>
+			<p>For any further questions relating to security, contact: <ph conref="#conrefs/securityemail"/>,
+			or for security advice, contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
+		</body>
+	</topic>
+	
 </topic>

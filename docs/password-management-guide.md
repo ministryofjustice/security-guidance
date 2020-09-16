@@ -67,12 +67,12 @@ SAs must also ensure privileged accounts:
 
 Further guidance around the management of passwords at the MoJ is available:
 
--   The [Account management](account-management.md) explains why you might need to change your password. It also addresses when and how you should change your password.
+-   The [Account management](account-management.md) guide explains why you might need to change your password. It also addresses when and how you should change your password.
 -   The [Multi-User Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md) explains when you should use a multi-user account and how you should authenticate a service account.
 -   The [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) helps ensure you choose the correct passwords and authentication tools to protect information in line with its security classifications.
 -   The [Password Storage and Management Guide](password-storage-and-management-guide.md) provides help on storing and sharing passwords securely.
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 

@@ -94,6 +94,8 @@ If it is not possible to use GOV.UK Verify, follow the advice presented here to 
 -   Do force password changes when required. For example, after [exceeding a count of unsuccessful password entry attempts](#password-access-attempts).
 -   Make the process of [resetting a password](#password-reset) like providing a password for the first time. Include a way to [prevent attackers using the reset process](#distributing-passwords-to-users) to conduct an attack.
 
+For more information, see the [Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
+
 ## Service Accounts
 
 System and application authentication must always use service accounts. Use certificates for service account authentication. Follow [NCSC guidelines](https://www.ncsc.gov.uk/guidance/provisioning-and-securing-security-certificates) for issuing and securing the certificates. If you can't use certificates, passwords are an acceptable alternative.
@@ -107,6 +109,8 @@ Service account passwords must:
 -   Be kept secure, by using hashes or encryption.
 -   Not be stored in the clear in any systems or applications.
 -   Not be used by standard or administrative users for any purpose.
+
+For more information, see the [Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
 
 ## Default passwords
 
@@ -123,6 +127,8 @@ Follow the [NCSC guidance](https://www.ncsc.gov.uk/guidance/multi-factor-authent
 Use [Time-based One-Time Password Algorithm \(TOTP\)](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm) or hardware and software tokens. If possible, avoid using SMS or email messages containing one-time login codes. If TOTP applications, or hardware- or software-based tokens, are not available to you, then SMS MFA or email MFA is still better than no MFA.
 
 Systems must offer MFA alternatives to users where they are available. For example, MFA codes sent by SMS are not suitable if mobile devices are not allowed in the room or building.
+
+For more information, see the [Multi-Factor Authentication \(MFA\) Guide](multi-factor-authentication-mfa-guide.md).
 
 ## Extra measures
 
@@ -165,15 +171,15 @@ If a password lock occurs, a reset is necessary. This requires action by the sys
 
 You should not try and use [obvious passwords](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords). Attempts to do so will be blocked.
 
-Check for and block obvious passwords embedded within a password. For example, `MySecretPassword` is not a good password!
-
-Use password and hash lists from [SecLists](https://github.com/danielmiessler/SecLists/tree/master/Passwords) or [Have I Been Pwned](https://haveibeenpwned.com/Passwords), to help prevent bad passwords.
+Developers and administrators should configure systems to check for and block obvious passwords embedded within a password. For example, `MySecretPassword` is not a good password! Use password and hash lists from [SecLists](https://github.com/danielmiessler/SecLists/tree/master/Passwords) or [Have I Been Pwned](https://haveibeenpwned.com/Passwords), to help prevent bad passwords.
 
 ## Distributing passwords to users
 
 There are times when a system must send a password to a user. An example is when granting access to a service for the first time. To send a password to a user, the mechanism used must be secure. The protection should match the sensitivity of the information protected by password.
 
 Passwords created for a user should always be [single-use](#single-use-passwords). Use an out-of-band channel to send the password to the user. For example, send the password to the user's line manager who will give it to the user.
+
+For more information, see the [Password Storage and Management Guide](password-storage-and-management-guide.md).
 
 ## Single-use passwords
 
@@ -196,6 +202,8 @@ The [Access Control Guide](access-control-guide.md) discusses the management and
 
 If someone is no longer allowed to access a system, check for and change any shared account or common password they might still have.
 
+For more information, see the [Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
+
 ## Identity Providers and Single Sign-On
 
 When you need an authentication solution, try to use existing MoJ services. Examples include Identity Provider \(IdP\) or Single Sign-On \(SSO\) services, such as Office 365 or Digital and Technology G-Suite.
@@ -204,7 +212,15 @@ This helps reduce the need to design, create, deploy and manage yet another solu
 
 SSO integration in existing IdP solutions improves the user experience. This is because you can authenticate to systems using existing MoJ credentials.
 
+For more information, see the [Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
+
 ## Account management
 
-The guidance on passwords is separate from guidance on account management. You should still follow the rules and processes for managing accounts. In particular, while you don't need to [change passwords after a period of time](#password-expiry), you should still expire accounts promptly. Examples would be when accounts are no longer required, or have fallen out of use.
+This guidance on passwords is separate from the guidance on account management. You should still follow the rules and processes for managing accounts. In particular, while you don't need to [change passwords after a period of time](#password-expiry), you should still expire accounts promptly. Examples would be when accounts are no longer required, or have fallen out of use.
+
+For more information, see the [Account management](account-management.md) guide.
+
+## Contact details
+
+For any further questions relating to security, contact: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
