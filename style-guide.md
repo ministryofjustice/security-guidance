@@ -2,7 +2,7 @@
 
 ## Audience
 
-This guide is for anyone who is drafting and reviewing security material for the Ministry of Justice. 
+This guide is for anyone who is drafting and reviewing security material for the Ministry of Justice.
 
 ## Goal
 
@@ -38,7 +38,7 @@ DITA enables us to re-use content more easily, build output in a variety of form
 
 ### The content creation process
 
-DITA source is stored in the `dita` folder. The content files are written using an XML editor, that is 'DITA aware'. For more information, see [Setting up a DITA development and build environment](./BuildEnvironment.md).
+DITA source is stored in the `dita` folder. The content files are written using an XML editor, that is 'DITA aware'. For more information, see [Setting up a DITA development and build environment](./buildUtils/BuildEnvironment.md).
 
 When a build is required, or for preview purposes, the `builder.ant` script in the `buildUtils` directory is run. By default, it will create Markdown, PDF, and EPUB format output. The result output documents are put into the `docs` directory.
 
