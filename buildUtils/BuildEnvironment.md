@@ -4,7 +4,7 @@
 
 There are (currently) two options for editing DITA files:
 
-=   [Eclipse](eclipse.md)
+-   [Eclipse](eclipse.md)
 -   [Atom](atom.md)
 
 ## Installing DITA (pre-requisite)

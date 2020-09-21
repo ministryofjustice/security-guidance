@@ -33,10 +33,10 @@
 10. Under the `core:` settings, add an entry that reads:
 ```
 customFileTypes:
-  "text.xml": [
-    "dita"
-    "ditamap"
-    "ditaval"
+      "text.xml": [
+        "dita"
+        "ditamap"
+        "ditaval"
   ]
 ```
 11. Save your changes, then close the `config.cson` tab.
