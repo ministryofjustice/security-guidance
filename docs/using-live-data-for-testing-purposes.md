@@ -104,7 +104,7 @@ You might need to look at fair processing notices and take these into account ar
 
 **Note:** It may actually be illegal to perform planned tests if fair processing notices do not allow using the data for test purposes.
 
-Where the data involves personal information, help must be obtained from the MOJ Data Privacy team. At the very least, you must revisit or update an existing Data Protection Impact Assessment.
+Where the data involves personal information, help must be obtained from the MoJ Data Privacy team. At the very least, you must revisit or update an existing Data Protection Impact Assessment.
 
 If there is no option apart from using live data, some of the things that should be considered will include the following:
 

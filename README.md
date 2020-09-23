@@ -2,20 +2,20 @@
 
 ## Overview
 
-This repository contains best-practice guidance and - where appropriate - policy for Ministry of Justice (MOJ) technology security.
+This repository contains best-practice guidance and - where appropriate - policy for Ministry of Justice (MoJ) technology security.
 
 The information ranges from formal content, such as 'you must'-style documents, through to more informal help and suggestions, such as checklists.
 
-The content is used to help build and operate products and services at the MOJ.
+The content is used to help build and operate products and services at the MoJ.
 
 The work is performed in the open by intent, and for compliance with principle.
-There is no specific aim or expectation of re-use of these materials outside of MOJ purposes - but people are welcome to do so if they wish in accordance with the published license.
+There is no specific aim or expectation of re-use of these materials outside of MoJ purposes - but people are welcome to do so if they wish in accordance with the published license.
 
 *Note:* As a vibrant, dynamic, work-in progress, this material should not necessarily be treated as formal, finished, definitive, or accurate.
 
 ## Repository details
 
-This repo is inspired by, and borrows from, [GDS's technical guidance][gds-way] site and [MOJ's technical guidance][technical-guidance].
+This repo is inspired by, and borrows from, [GDS's technical guidance][gds-way] site and [MoJ's technical guidance][technical-guidance].
 
 Content in the `master` branch is created in [DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) format, and stored in the `dita` directory. When a build is required, the `builder.ant` script in the `buildUtils` directory is run. By default, it creates Markdown, PDF, and EPUB format output. The result output documents are put into a *clean* `docs` directory.
 

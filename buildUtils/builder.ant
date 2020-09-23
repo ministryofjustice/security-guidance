@@ -1,6 +1,6 @@
 <project name="mojsecguide" default="dist" basedir="..">
 	<description>
-		Build scripting for MOJ Security Guidance.
+		Build scripting for MoJ Security Guidance.
 
 		To run a build:
 		1. Run the startcmd.sh script in the DITA_DIR installation directory.

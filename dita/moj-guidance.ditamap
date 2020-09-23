@@ -70,7 +70,7 @@
 			</topichead>
 			<topicref href="data-security-and-privacy.dita" type="topic"/>
 			<topicref href="password-managers.dita" type="topic"/>
-			<topichead navtitle="Suppliers to MOJ" audience="audience-tech">
+			<topichead navtitle="Suppliers to MoJ" audience="audience-tech">
 				<topicref href="assessing-suppliers.dita" type="topic"/>
 				<topicref href="contracts.dita" type="topic"/>
 				<topicref href="security-aspect-letters.dita" type="topic"/>

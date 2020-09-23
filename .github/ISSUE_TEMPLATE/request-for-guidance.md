@@ -9,7 +9,7 @@ assignees: ''
 
 ## Team
 
-<!--- Full team name and where within the MOJ it is placed -->
+<!--- Full team name and where within the MoJ it is placed -->
 
 ## User needs
 
