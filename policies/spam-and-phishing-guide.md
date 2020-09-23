@@ -12,56 +12,95 @@ Target audience:
 
 ## Introduction
 
-This guide explains the different types of email attacks that can threaten MoJ security and the technical implementations you should make to keep MoJ systems secure. This guide is a sub-page to the Email Security Guide.
+This guide outlines the technical implementations you, as technical users, should make to keep MoJ systems secure. This guide is a sub-page to the [Email Security Guide](email-security-guide.md).
 
 ## Common email threats
 
 ### Spam and phishing
 
-Phishing emails are often formatted to look like legitimate emails in an attempt to deceive the recipient into completing an urgent action. The intended result of phishing emails is to impact the recipients' data or IT system's confidentiality, integrity or availability for monetary gain, typically using malware or impersonation tactics.
-
-To protect against such attacks, the MoJ will make use of government services such as The National Cyber Security Centre's [Suspicious Email Reporting Service](mailto:report@phishing.gov.uk) and any other services that are appropriate.
+To protect against spam and phishing attacks, the MoJ will make use of government services such as The National Cyber Security Centre's [Suspicious Email Reporting Service](mailto:report@phishing.gov.uk) and any other services that are appropriate.
 
 ### Spoofing attacks
 
-Spoofing attacks are designed to mislead the recipient into trusting that a malicious email is delivered from a legitimate source. This may include altering names and email addresses; and disguising the true origin of websites, IP addresses and Domain Name System servers. For example, a legitimate sender could be _`example.com`_ but an illegitimate sender might email from _`exemple.com`_.
-
-You can prevent spoofing attacks by:
+Spoofing attacks may be mitigated by:
 
 * implementing SPF, DKIM and DMARC e.g. sender information `from`, `reply-to`, `return-path` and even `x-origin` can be spoofed (please refer to the [Email Authentication Guide](email-authentication-guide.md) for further guidance)
 * using secure email gateways
 * implementing access controls, such as multi factor authentication (MFA) , to avoid an attacker gaining access to credentials for an email account where they could legitimately spoof the sender's email address.
 
-### Man-in-the-Middle (MITM) attacks
+## Protecting a parked domain
 
-MITM attacks occur when threat actors intercept communications between two parties, for example using enforced TLS on your mail system does not guarantee TLS is truly enforced end to end, as there may be a break in encryption resulting in data being vulnerable to compromise. MITM attacks can result in unauthorised access to email accounts and are often used to gain sensitive information.
+DMARC must also be implemented on non-email sending domains as they can be easily be used for email spoofing and phishing.
 
-Compromised email systems are often used to deliver spam messages and conduct phishing.
+* Once parked domains are protected, they must be configured to automatically renew by default.<br/>If you are a domain owner you should aim to do the following to protect a parked domain:
+  1. Create a SPF record with no permitted senders so that no IP is authorised to send email for your parked domain.
+  2. Include a RUA address to which aggregate reports can be sent – these will provide you with visibility of potential abuse.
+  3. If you have an `A` record on your domain, but no `MX` records, you should create a null `MX` record to immediately fail any email to that domain.
+* Create a record of type `MX`, with a priority of 0 (highest priority).
+  4. A null DKIM record isn’t required, as email will be treated the same as if it had no record at all. However, recipients may treat a null DKIM record with extra caution, as it explicitly revokes any keys that may be cached.
+
+Some interfaces may not allow you to implement all these steps but implement as many as possible.
+
+### Compromised email systems
+
+Compromised email systems are often used to deliver spam messages and conduct phishing.  It is recommended that email systems are protected by multi-factor authentication where possible to mitigate this risk.
+
+Such account takeovers should be reported as an incident in compliance with the [IT Incident Management Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/).
+
+### Accidental disclosure
 
 Not all security threats are intentional. Authorised users may accidentally send proprietary information via e-mail to unintended recipients – where these incidents are reported incident managers should refer to the [IT Incident Management Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/) for further guidance.
 
-You can prevent MITM attacks by:
+### Man-in-the-Middle (MITM) attacks
+
+MITM attacks can result in unauthorised access to email whilst in transit and are often used to gain access to sensitive information.
+
+You can mitigate MITM attacks by:
 
 * configuring Secure/Multipurpose Internet Mail Extensions to encrypt emails and provide unique digital certificates
 * implementing certificate based authentication for all end user machines and devices (e.g. printers with email services enabled)
 * using TLS certificates which activate HTTPS protocol to provide a secure connection between the MoJ and third parties on webmail portals
 * using SMTPS (encrypted by TLS) rather than unencrypted SMTP.
 
+## Mail Check
+
+Mail Check is a NCSC cyber defence service that enables email administrators to improve and maintain the security of email domains by preventing spoofing attacks. All domains operated by, or on behalf of the MoJ, must be added to Mail Check, regardless of whether the domain is expected to send or receive emails. All future contracts and agreements with third party suppliers must make this a requirement.
+
+Mail Check should only be used if the email domain name provided is publicly routable from the internet via Simple Mail Transfer Protocol (SMTP).
+
+Digital and technology users must contact the [NCSC Mail Check team](mailto:mailcheck@digital.ncsc.gov.uk) to have domains added to the MoJ's subscription of the Mail Check service.
+
+## Email sandboxing
+
+Sandboxing provides an additional layer of protection in which any email that contains URLs, attachments or suspicious senders can be securely checked for malicious content before they reach the network or mail server. If the email is found to be harmful it will not be delivered. Sandboxing is beneficial as it:
+
+* mirrors the end user’s computer and provides a secure space to interact with and analyse harmful communications
+* allows developers and technical architects to actively minimise the impact of a threat.
+
+For further guidance on implementing sandboxing, including which products you should use, contact the [Operational Security Team](mailto:security@justice.gov.uk).
+
+## URL link rewriting
+
+URL link rewriting is a technique used to detect malicious links in emails. Links in emails are actively scanned and rewritten to point to an Advanced Threat Protection gateway where the following checks occur:
+
+* check the link to see if it is blacklisted by the MoJ or has been previously malicious, and
+* if the link points to downloadable content, the content is scanned.
+
+After the checks have completed, it will either allow the user to continue to the URL or block them from accessing it. In the case that the user has been blocked, it should provide them with a message with contact details.
+
 ## Protecting against email security threats
 
-You can protect against email security threats by implementing the additional controls outlined below.
+You can protect against email security threats by implementing the controls outlined below.
+
+✔ Implement anti-malware software. Refer to the [Malware Protection Guidance](malware-protection-guide-introduction.md) for more information.
 
 ✔ Install the minimal mail server services required and eliminate known vulnerabilities through patches, configurations and upgrades. Refer to the [Vulnerability Scanning and Patch Management Guide](vulnerability-scanning-and-patch-management-guide.md) for more information.
 
-✔ Implement anti-malware software where not already implemented. Refer to the [Malware Protection Guidance](malware-protection-guide-introduction.md) for more information.
-
-✔ Implement URL Link Rewriting e.g. to check bit/ly links - adding the `+` symbol at the end of bit/ly links will direct you to the location without opening the link.
+✔ Implement external email warning messages to insert text (usually in the subject line) into an email when it is identified as coming from outside of the MoJ.
 
 ✔ Develop email security management plans to define best practices for employees.
 
-✔ Use SMTP alert policies to track malware activity and data loss incidents.
-
-✔ Use email filtering services and implement email sandboxing. Refer to the [Email Authentication Guide](email-authentication-guide.md) for further detail.
+✔ Use SMTP alert policies to track malware activity and data loss incidents from anti-malware software.
 
 ✔ Ensure there is no unnecessary detail on the MoJ website or webmail by considering what visitors need to know with the aim of reducing the threat of spear phishing.
 
@@ -69,7 +108,7 @@ You can protect against email security threats by implementing the additional co
 
 ✔ Restrict delegate access. Please refer to the [Email Security Guide](email-security-guide.md) for more information.
 
-The [Email Authentication Guide](email-authentication-guide.md) provides further detail on the technical controls mentioned in this guide.
+The [Email Authentication Guide](email-authentication-guide.md) provides further detail on the email authentication controls mentioned in this guide.
 
 ## Reporting spam or malicious emails
 

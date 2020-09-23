@@ -10,9 +10,9 @@ Target audience:
 
 ## Introduction
 
-This guide instructs MoJ Digital and Technology users of the services and encryption tools they should use to securely transfer information via email. You should ensure that email communication is sufficiently secured before transferring the following:
+This guide instructs technical users of the services and encryption tools they should use to securely transfer information via email. You should ensure that email communication is sufficiently secured before transferring sensitive information, such as:
 
-* `OFFICIAL-SENSITIVE` classified information
+* `OFFICIAL-SENSITIVE` classified information such as personal data
 * API and other application keys/credentials (including within containers)
 * SSH Keys
 * database and other system-to-system passwords
@@ -22,7 +22,7 @@ This guide instructs MoJ Digital and Technology users of the services and encryp
 
 ## Transport Layer Security
 
-TLS is an encryption protocol used to protect data in transit between systems. System Administrators should ensure that any service that is capable of sending and receiving email uses enforced TLS to encrypt messages.
+Technical users should ensure that any service that is capable of sending and receiving email uses enforced TLS to encrypt messages.
 
 * The MoJ should always use the latest version of TLS.
 * TLS is required for sending to `gov.uk`.
@@ -38,9 +38,11 @@ For further guidance on TLS, please see the [Cryptography Standard](https://mini
 
 ## End-to-end encryption
 
-End-to-end email encryption ensures only the sender and receiver can read email messages. Data is encrypted on the sender's system and only the intended recipient will be able to decrypt and read it. Microsoft provides end-to-end encryption for email communications; if you are using a different service provider you may want to reinforce transit encryption with a third party app that provides end-to-end encryption. Please contact the Operational Security Team for further advice.
+End-to-end email encryption ensures only the sender and receiver can read email messages. Data is encrypted on the sender's system and only the intended recipient will be able to decrypt and read it. Microsoft provides end-to-end encryption for email communications; if you are using a different service provider you may want to implement transit encryption for your users with a third party app that provides end-to-end encryption. Please contact the Operational Security Team for further advice.
 
 ## Secure email transfer options
+
+Technical users must select the most suitable system for their users and configure it appropriately.  This section provides the various options available.
 
 | Secure Messaging Options | Examples |
 |--- |---|
@@ -48,25 +50,25 @@ End-to-end email encryption ensures only the sender and receiver can read email 
 | Supplementary Email Solutions | CJSM |
 
 ## Cloud email solutions
-Cloud email solutions that are configured to the [government secure standard](https://www.gov.uk/guidance/securing-government-email) should provide assurance and confidence for the exchange of information.
+These are cloud email solutions that are configured to the [government secure standard](https://www.gov.uk/guidance/securing-government-email), Technical Users should ensure that such systems provide assurance of compliance to this standard and confidence for the exchange of information.
 
 ## Google mail
 
-Gmail uses Transport Layer Security (TLS) to automatically encrypt your incoming and outgoing emails but this only works if the email providers of both the sender and the recipient always use TLS.
-If required you can also enable S/MIME encryption by contacting the Operational Security Team.
+Gmail uses Transport Layer Security (TLS) to automatically encrypt incoming and outgoing emails but this only works if the email providers of both the sender and the recipient always use TLS.
+If required, S/MIME encryption can be enabled by contacting the Operational Security Team.
 
 ## Office 365
 
-By default, all emails in Office 365 are sent using Opportunistic TLS. If a TLS connection cannot be established, the message will be sent in plain text using Simple Mail Transfer Protocol (SMTP). However, you can contact the Operational Security Team if you always want TLS applied, in which case certificate verification is required whenever mail is sent from a third party to the MoJ.
+By default, all emails in Office 365 are sent using Opportunistic TLS. If a TLS connection cannot be established, the message will be sent in plain text using Simple Mail Transfer Protocol (SMTP). If TLS must always be applied, contact the Operational Security Team.  In this configuration, certificate verification is required whenever mail is sent from a third party to the MoJ.
 
 Outlook supports two other encryption options:
 
-1. S/MIME encryption - to use S/MIME encryption, the sender and recipient must have a mail application that supports the S/MIME standard - outlook supports the S/MIME standard, and
+1. S/MIME encryption - to use S/MIME encryption, the sender and recipient must have a mail application that supports the S/MIME standard - Outlook supports the S/MIME standard, and
 2. Office 365 Message Encryption (Information Rights Management) - to use Office 365 Message Encryption, the sender must have Office 365 Message Encryption configured.
 
 Microsoft currently provides additional tools to [secure information via email](https://www.microsoft.com/en-us/microsoft-365/blog/2018/04/05/defend-yourself-from-cybercrime-with-new-office-365-capabilities/).
 
-If you require either of these additional encryption methods, please contact the [Operationalsecurityteam@justice.gov.uk](mailto:Operationalsecurityteam@justice.gov.uk).
+If either of these additional encryption methods is required, please contact the [Operationalsecurityteam@justice.gov.uk](mailto:Operationalsecurityteam@justice.gov.uk).
 
 ## Criminal Justice Secure Mail
 
@@ -101,11 +103,11 @@ For further guidance contact the [CJSM Helpdesk](mailto:cjsm.helpdesk@egress.com
 
 ## External emails
 
-System Administrators must ensure that all outgoing emails are automatically appended with a [disclaimer](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-security-guidelines/).
+Technical users must ensure that all outgoing emails are automatically appended with a [disclaimer](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-security-guidelines/).
 
 ## Auto-forward
 
-System Administrators should ensure auto-forwarding is used responsibly and in line with the MoJ's [Information Classification Handling and Security Guide](information-classification-handling-and-security-guide.md). As part of this responsibility they must:
+Technical users should ensure auto-forwarding is used responsibly and in line with the MoJ's [Information Classification Handling and Security Guide](information-classification-handling-and-security-guide.md). As part of this responsibility they must:
 
 * disable auto-forward to external domains, where this is required it should be controlled by creating custom RBAC roles
 * advise users to only forward emails from an MoJ email address to an email address that provides the same or higher security standards
