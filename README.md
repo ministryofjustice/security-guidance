@@ -17,7 +17,7 @@ There is no specific aim or expectation of re-use of these materials outside of 
 
 This repo is inspired by, and borrows from, [GDS's technical guidance][gds-way] site and [MoJ's technical guidance][technical-guidance].
 
-Content in the `master` branch is created in [DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) format, and stored in the `dita` directory. When a build is required, the `builder.ant` script in the `buildUtils` directory is run. By default, it creates Markdown, PDF, and EPUB format output. The result output documents are put into a *clean* `docs` directory.
+Content in the `main` branch is created in [DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) format, and stored in the `dita` directory. When a build is required, the `builder.ant` script in the `buildUtils` directory is run. By default, it creates Markdown, PDF, and EPUB format output. The result output documents are put into a *clean* `docs` directory.
 
 Content in the `docs` directory can be built and previewed using [Jekyll][], and hosted using [GitHub Pages][]. It incorporates HTML, SCSS, JavaScript, and images from [GDS's Tech Docs Template][tech-docs-template], reworked to use Jekyll instead of [Middleman][].
 
@@ -75,7 +75,7 @@ the working Markdown files.
 
 ## Publishing changes
 
-Because we're using GitHub Pages, any changes merged into the `master`
+Because we're using GitHub Pages, any changes merged into the `main`
 branch `docs` directory will be published automatically. Every change should be reviewed
 in a pull request, no matter how minor, and we've enabled [branch protection][] to enforce this.
 
