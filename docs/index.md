@@ -6,7 +6,13 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
+<<<<<<< HEAD
 This guidance is dated: 16 September 2020.
+=======
+**Note:**
+
+This guidance is dated: 23 September 2020.
+>>>>>>> main
 
 For convenience, offline versions of this guidance are available.
 
@@ -15,7 +21,11 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
+<<<<<<< HEAD
 The offline versions of this guidance are time-limited, and are not valid after 16 October 2020.
+=======
+The offline versions of this guidance are time-limited, and are not valid after 23 October 2020.
+>>>>>>> main
 
 ### Getting in touch
 

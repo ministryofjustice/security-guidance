@@ -4,3 +4,4 @@ _site
 .project
 dita/out
 dita/tstamp.dita
+buildUtils/catalog-dita.xml

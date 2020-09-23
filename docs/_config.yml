@@ -1,4 +1,4 @@
-title: MOJ security guidance
+title: MoJ Security Guidance
 
 permalink: pretty
 
@@ -38,4 +38,3 @@ defaults:
       path: "policies"
     values:
       policy: true
-

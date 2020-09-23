@@ -1,6 +1,6 @@
 <project name="mojsecguide" default="dist" basedir="..">
 	<description>
-		Build scripting for MOJ Security Guidance.
+		Build scripting for MoJ Security Guidance.
 
 		To run a build:
 		1. Run the startcmd.sh script in the DITA_DIR installation directory.
@@ -103,16 +103,20 @@
 		<!-- Create the distribution directory -->
 		<mkdir dir="${docs}"/>
 		<mkdir dir="${docs}/images"/>
-		<copy todir="${docs}" >	
+		<mkdir dir="${docs}/gs"/>
+		<copy todir="${docs}" >
 			<fileset dir="${jekyll-baseline}"/>
 		</copy>
-		<copy todir="${docs}/images" >	
+		<copy todir="${docs}/images" >
 			<fileset dir="${images}"/>
 		</copy>
-		<copy todir="${docs}" >	
+		<copy todir="${docs}" >
 			<fileset dir="${build}"/>
 		</copy>
 		<copy file="${docs}/cyber-and-technical-security-guidance.md" tofile="${docs}/index.md" overwrite="true"/>
+		<copy todir="${docs}/gs" >
+			<fileset dir="${basedir}/gs"/>
+		</copy>
 	</target>
 
 	<target name="clean"
@@ -121,18 +125,18 @@
 		<delete dir="${build}"/>
 		<delete dir="${docs}"/>
 	</target>
-	
+
 	<target name="preview" depends="compile_md" description="Minimal build for local preview purposes.">
 		<delete dir="${docs}"/>
 		<mkdir dir="${docs}"/>
 		<mkdir dir="${docs}/images"/>
-		<copy todir="${docs}" >	
+		<copy todir="${docs}" >
 			<fileset dir="${jekyll-baseline}"/>
 		</copy>
-		<copy todir="${docs}/images" >	
+		<copy todir="${docs}/images" >
 			<fileset dir="${images}"/>
 		</copy>
-		<copy todir="${docs}" >	
+		<copy todir="${docs}" >
 			<fileset dir="${build}"/>
 		</copy>
 		<copy file="${docs}/cyber-and-technical-security-guidance.md" tofile="${docs}/index.md" overwrite="true"/>

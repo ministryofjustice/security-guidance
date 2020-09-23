@@ -106,9 +106,9 @@
 		<p>There are sometimes valid reasons when you do need to use live data for test purposes but they are normally the exception rather than the norm and typically looked at on a case by case basis where appropriate risk management calls can be taken.</p>
 		<p>Looking at datasets being pulled out of databases are a prime example of where you may need to use live data to make sure that a software application is functioning correctly. For some things it is not always possible to use synthetic data.</p>
 		<p>Where a project is considering the use of live data for test purposes, it is essential to understand the data first, to be clear about what GDPR related factors apply.</p>
-		<p>You might need to look at fair processing notices and take these into account around the context of the tests being performed.</p>
-		<p>Note: It may actually be illegal to perform planned tests if fair processing notices do not allow using the data for test purposes.</p>
-		<p>Where the data involves personal information, help must be obtained from the MOJ Data Privacy team. At the very least, you must revisit or update an existing Data Protection Impact Assessment.</p>
+		<p>You might need to look at fair processing notices and take these into account around the context of the tests being performed.
+		<note>It may actually be illegal to perform planned tests if fair processing notices do not allow using the data for test purposes.</note></p>
+		<p>Where the data involves personal information, help must be obtained from the <ph conref="conrefs.dita#conrefs/moj"/> Data Privacy team. At the very least, you must revisit or update an existing Data Protection Impact Assessment.</p>
 		<p>If there is no option apart from using live data, some of the things that should be considered will include the following:
 		<ul>
 			<li>How will the data be extracted or obtained, and who will perform or oversee the extraction? What clearance do they have?</li>
