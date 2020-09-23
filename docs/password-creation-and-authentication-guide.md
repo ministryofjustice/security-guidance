@@ -4,22 +4,25 @@
 
 This guide sets out considerations for creating passwords and authenticating users for access to Ministry of Justice \(MoJ\) systems. This includes ensuring that there are appropriate authentication methods for information, accounts and systems. For more information, see the [Password Management Guide](password-management-guide.md).
 
-This guide has been written in alignment with [NCSC guidance](https://www.ncsc.gov.uk/collection/passwords/updating-your-approach).
+This guide has been written to align with [NCSC guidance](https://www.ncsc.gov.uk/collection/passwords/updating-your-approach).
 
 ## Default passwords
 
-All default passwords must be changed before using any system. This includes all new, modified or replaced systems, applications and end-user devices or endpoints.
+All default passwords must be changed before using any system. Default passwords should not be 'guessable'. This applies to all new, modified or replaced systems, applications and end-user devices or endpoints.
 
 ## Password length and complexity
 
-Best practice for creating a strong passphrase is to pick a string of words that is easy to remember. Passwords must be complex and difficult to guess. When selecting a password, ensure that:
+Best practice for creating a strong password is to create a passphrase consisting of a string of words that is easy to remember. If using this approach, have a minimum of three words in the passphrase. Passwords must be complex and difficult to guess. When selecting a password, ensure that:
 
--   It is a passphrase with a minimum of 8 characters for personal accounts.
--   It is a passphrase with a minimum of 15 characters for high value accounts, for example administrator accounts, password managers or service accounts.
--   It has at least one instance of each of the following character types: upper case, lower case, numbers, and special characters. Special characters include: `@`, `&`, `$`, `%` or `^`.
+-   It has a minimum of 8 characters for personal accounts.
+-   It has a minimum of 15 characters for high value accounts, for example administrator accounts, password managers or service accounts.
 -   It does not contain usernames or personal information, such as date of birth, address, phone number or family or pet names.
 -   It is used alongside system monitoring tools such as last login attempt notifications, rather than enforcing regular password expiry.
 -   You have alternative or additional authentication options, such as Single-Sign On \(SSO\) and Multi-Factor Authentication \(MFA\), depending on a system's security classification or where otherwise required.
+
+Stronger passwords typically at least one instance of each of the following character types: upper case, lower case, numbers, and special characters. Special characters include: `@`, `&`, `$`, `%` or `^`. However, there is no specific obligation to incude special characters for a password to be acceptable.
+
+For more details about passwords for service accounts, see the [Passwords](passwords.md) guidance.
 
 ## Password history and block listing
 
@@ -46,9 +49,7 @@ MoJ SSO solutions include Office 365, and Digital and Technology G-Suite. SSO so
 -   Have a pre-defined identity source for users, such as Active Directory, Google Directory or LDAP. This means a developer or service provider must use an established MoJ SSO solution rather than creating a new one.
 -   Normally be based on applications rather than groups of people. This means that SSO is to a specific application or service, rather than saying something like 'all administrators of the Widget application have SSO-managed access'. Instead, SSO must be enabled for the 'Widget'application. It can be based on groups of people or roles if these have been defined.
 
-SSO must not be used for access control to privileged accounts.
-
 ## Contact details
 
-For any further questions relating to security, contact: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

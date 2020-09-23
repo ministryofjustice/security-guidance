@@ -23,7 +23,9 @@ Passwords must be changed upon indication of compromise.
 
 Passwords must be distributed securely. Refer to the [Password Storage and Management Guide](password-storage-and-management-guide.md).
 
-Multi-factor authentication \(MFA\) must be enabled wherever possible. Further guidance can be found in the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) and the [Multi-User Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
+Multi-factor authentication \(MFA\) must be enabled for existing systems, wherever possible. MFA must be enabled for new systems. Further guidance can be found in the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) and the [Multi-User Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
+
+Where a default password is applicable, it must never be guessable.
 
 ### Software Developers, Technical Architects and Development Operations
 
@@ -31,12 +33,13 @@ Make every effort to avoid creating yet another new or modified password-based a
 
 -   Multi-user accounts should be avoided, but if required refer to the [Multi-User Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md) for further guidance.
 -   Technical controls must be implemented to support requirements in the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md).
--   Applications or software should support MFA and single sign-on \(SSO\) solutions leveraged by the MoJ.
+-   Applications or software must support MFA, and where possible single sign-on \(SSO\) solutions leveraged by the MoJ.
 -   Passwords must not be stored in clear text or using encryption algorithms with known security weaknesses.
 -   Passwords must not be transmitted in clear text over networks.
 -   All applications or software must use HTTPS to require authentication.
 -   Applications or software must provide some form of role management, whereby an authorised user can take over the functions of another without having to know the other users' password.
 -   Passwords and other secrets \(SSH Keys, DevOps secrets, etc.\) must never be embedded into applications. The use of key vaults, such AWS Secrets Manager, is strongly recommended.
+-   Where a default password is applicable, it must never be guessable.
 
 ### Suppliers and vendors
 
@@ -74,5 +77,5 @@ Further guidance around the management of passwords at the MoJ is available:
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 

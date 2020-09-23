@@ -8,7 +8,7 @@
 			<ph id="mojlong">Ministry of Justice (MoJ)</ph>
 			<ph id="moj">MoJ</ph>
 			<ph id="groupsecurityemail"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="email" scope="external">mojgroupsecurity@justice.gov.uk</xref></ph>
-			<ph id="securityemail"><xref href="mailto:security@digital.justice.gov.uk" format="email" scope="external">security@digital.justice.gov.uk</xref></ph>
+			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></ph>
 			<ph id="ostemail"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
 			<ph id="catemail"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></ph>
 			<ph id="privacyemail"><xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">privacy@justice.gov.uk</xref></ph>
@@ -50,7 +50,7 @@
 			</p>
 		</body>
 	</topic>
-	
+
 	<topic id="incidents">
 		<title>Incidents</title>
 		<body>
@@ -63,7 +63,7 @@
 			</p>
 		</body>
 	</topic>
-	
+
 	<topic id="privacy-advice">
 		<title>Privacy Advice</title>
 		<body>
@@ -81,7 +81,7 @@
 			</dl>
 		</body>
 	</topic>
-	
+
 	<topic id="cyber-security-advice">
 		<title>Cyber Security Advice</title>
 		<body>
@@ -98,7 +98,7 @@
 			</dl>
 		</body>
 	</topic>
-	
+
 	<topic id="historic-paper-files-urgently-required-by-ministers-courts-or-public-inquiries">
 		<title>Historic paper files urgently required by ministers, courts, or Public Inquiries</title>
 		<body>
@@ -114,7 +114,7 @@
 			</dl>
 		</body>
 	</topic>
-	
+
 	<topic id="juststore">
 		<title>JustStore</title>
 		<body>
@@ -123,7 +123,7 @@
 			</ul>
 		</body>
 	</topic>
-	
+
 	<topic id="contact-details">
 		<title>Contact details</title>
 		<body>
@@ -131,7 +131,7 @@
 			or for security advice, contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
 		</body>
 	</topic>
-	
+
 	<topic id="related-guides">
 		<title>Related guides</title>
 		<body>
@@ -144,5 +144,5 @@
 			</ul></p>
 		</body>
 	</topic>
-	
+
 </topic>

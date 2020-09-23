@@ -102,7 +102,7 @@ Where a project is considering the use of live data for test purposes, it is ess
 
 You might need to look at fair processing notices and take these into account around the context of the tests being performed.
 
-Note: It may actually be illegal to perform planned tests if fair processing notices do not allow using the data for test purposes.
+**Note:** It may actually be illegal to perform planned tests if fair processing notices do not allow using the data for test purposes.
 
 Where the data involves personal information, help must be obtained from the MoJ Data Privacy team. At the very least, you must revisit or update an existing Data Protection Impact Assessment.
 

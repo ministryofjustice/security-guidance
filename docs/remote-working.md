@@ -125,7 +125,7 @@ Note: If you work for an agency or ALB, refer to your local incident reporting g
 ### Cyber Security Advice
 
 -   **Cyber Consultants & Risk Advisors**
-    -   Email: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)
+    -   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
     -   Slack: `#security`
 
 ### Historic paper files urgently required by ministers, courts, or Public Inquiries

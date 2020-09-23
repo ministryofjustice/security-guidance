@@ -30,6 +30,8 @@ Account lockouts must be implemented within MoJ systems for the following reason
     Users may experience account lockouts due to inactivity, need to know permissions or change of employment status such as contract termination. Access to these accounts must only be re-enabled with line manager approval.
 
 
+Systems should have a way to forcibly revoke an account, and disconnect any active session instantly. This is to deal with scenarios such as suspicion that an account or access has been compromised. The session disconnect is required because revoking an account on some systems does not necessarily invalidate an existing session immediately.
+
 ## Password changes
 
 When designing and developing systems for use within the MoJ, password changes must be enforced for these events:
@@ -42,8 +44,8 @@ When designing and developing systems for use within the MoJ, password changes m
 
 Password changes must be made within the following timeframes:
 
-|Type of system|Lifetime of a single-use password/change request|
-|:-------------|:-----------------------------------------------|
+|Type of system|Maximum time allowed for a change|
+|:-------------|:--------------------------------|
 |Single-user systems, such as laptops|1 week|
 |All other systems|1 day|
 
@@ -53,5 +55,5 @@ All MoJ user accounts are access controlled according to the user's 'need to kno
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

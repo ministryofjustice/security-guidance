@@ -40,6 +40,9 @@
 					Access to these accounts must only be re-enabled with line manager approval.</dd>
 				</dlentry>
 			</dl></p>
+			<p>Systems should have a way to forcibly revoke an account, and disconnect any active session instantly.
+			This is to deal with scenarios such as suspicion that an account or access has been compromised.
+			The session disconnect is required because revoking an account on some systems does not necessarily invalidate an existing session immediately.</p>
 		</body>
 	</topic>
 	<topic id="password-changes">
@@ -61,7 +64,7 @@
 					<thead>
 						<row>
 							<entry colname="col1">Type of system</entry>
-							<entry colname="col2">Lifetime of a single-use password/change request</entry>
+							<entry colname="col2">Maximum time allowed for a change</entry>
 						</row>
 					</thead>
 					<tbody>
