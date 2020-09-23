@@ -10,10 +10,8 @@ Some ALBs, Agencies, or other large groups within the MoJ might have their own, 
 
 You can access tools that are provided through your MoJ provided devices by downloading from:
 
--   the Software Centre application on your device \(for Dom1 equipment\)
-
--   the Self Service application on your Mac \(for Digital Service Desk \(DSD\) managed MacBook laptops\)
-
+-   The Software Centre application on your device \(for Dom1 equipment\).
+-   The Self Service application on your Mac \(for Digital Service Desk \(DSD\) managed MacBook laptops\).
 
 Currently, access to the tools mentioned in this document is not available from Quantum devices.
 
@@ -22,11 +20,8 @@ For other MoJ provided devices, seek help from your Line Manager in the first in
 ## Corporate, work and personal accounts
 
 -   A corporate account is for making official MoJ statements and providing official views. Only a small number of authorised people can use it.
-
 -   A work account is your normal MoJ account, that you use every day for business as usual. Only you have access to your work account.
-
 -   A personal account is your own personal account on gmail, hotmail, yahoo, and so on. You should never use a personal account for business purposes.
-
 
 Some of the applications listed make a distinction between general use with a work account, and use with a corporate account. Using a tool with a corporate account means you are providing views or statements on behalf of the MoJ. Never use a personal account for business purposes with any tool.
 
@@ -41,20 +36,14 @@ The NCSC has excellent guidance on [using video conferencing services safely](ht
 Key things to remember *before* a call include:
 
 -   Make sure your video conferencing account \(or the device or app you are using for video conferencing\) is protected with a strong password.
-
 -   Test the service before making \(or joining\) your first call.
-
 -   Understand what features are available, for example recording the call or sharing files or screen information.
-
 
 Key things to remember for *every* call include:
 
 -   Do not make the calls public, for example always require a password to join the call.
-
 -   Know who is joining the call, in particular check that everyone is known and expected to be present, and that people who have dialled in have identified themselves clearly and sufficiently.
-
--   Consider your surroundings, for example checking what can be seen behind you \(information on a whiteboard is an easy mistake\).
-
+-   Consider your surroundings, for example checking what can be seen behind you \(forgetting to check information on a whiteboard or noticeboard is an easy mistake\).
 
 ## MoJ Policy and guidance
 
@@ -73,11 +62,8 @@ Data protection legislation makes you responsible for personal information you w
 Complying with personal information requirements can be complex. Don't hesitate to ask for advice:
 
 -   Email: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
-
 -   Slack: `#securityprivacyteam`
-
 -   Intranet: [https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/)
-
 
 ### Information Management
 
@@ -95,21 +81,15 @@ For more information about MoJ IT Security, look on the MoJ Intranet [here](http
 
 Laws and regulations make the MoJ and its employees responsible for managing information. Some examples include:
 
--   the Freedom of Information Act
-
--   the Data Protection Act and General Data Protection Regulation
-
--   the Public Records Acts
-
+-   Freedom of Information Act.
+-   Data Protection Act and General Data Protection Regulation.
+-   Public Records Acts.
 
 When we receive a request for information, we need to know where we hold all the relevant information. Storing business information on appropriate MoJ systems helps us, because:
 
--   we can provide evidence about decisions
-
--   we understand the information held, and where to find it
-
--   we can transfer records to The National Archives
-
+-   We can provide evidence about decisions.
+-   We understand the information held, and where to find it.
+-   We can transfer records to The National Archives.
 
 Always store MoJ information in MoJ systems. If you use a tool for work tasks, make sure the key information is stored in an appropriate MoJ system. Guidance on what you must keep is available on the Intranet [here](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/what-to-keep/). At regular and convenient intervals, transfer the information to an appropriate MoJ system. Do the same when you finish the work. Don't forget to remove any redundant information from a tool by clearing or deleting data if it has been preserved in an MoJ system.
 
@@ -124,15 +104,10 @@ You must use communications tools for business purposes in an acceptable way.
 Be sensible when using communications tools for MoJ business purposes:
 
 -   Be extra careful with sensitive and personal information in tools.
-
 -   Try to avoid using the same tool for business and personal use - you can get confused who you're talking with.
-
 -   If the message you're about to send might cause problems, upset, offence, or embarrassment, it's not acceptable.
-
 -   Context is important - a message you might think is funny could be upsetting to someone else.
-
 -   If something goes wrong, report it.
-
 
 The bottom line is: *"if there is doubt, there is no doubt - ask for help!".*
 
@@ -144,6 +119,7 @@ The bottom line is: *"if there is doubt, there is no doubt - ask for help!".*
 |Apple iMessage|Text messaging|Avoid personal or sensitive data|Smartphone App|Internal/External|
 |Google Hangouts|Communication tool: Video and/or voice|MoJ use approved|Digital Service Desk controlled Mac - Self|Internal/External|
 |Microsoft Teams|Communication and collaboration tool: Video and/or voice|MoJ use approved|Dom1 Software centre, Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
+|Miro|Collaboration tool: Whiteboarding|Avoid personal or sensitive data|Web browser.|Internal/External|
 |Skype for Business|Communication tool: Video and/or voice|MoJ use approved|Dom1 Software centre, Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Slack|Text messaging, Voice/Video calls, etc.|Avoid personal or sensitive data|Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Slido|Q&A tool during presentations|Avoid personal or sensitive data|Web browser|Internal|
@@ -176,6 +152,4 @@ Refer to the [Guidance for using Open Internet Tools](guidance-for-using-open-in
 [Secure communications principles](https://www.ncsc.gov.uk/guidance/secure-communication-principles-alpha-release)
 
 [Using third-party applications](https://www.ncsc.gov.uk/collection/mobile-device-guidance/using-third-party-applications)
-
-Last updated: April 22nd, 2020.
 
