@@ -62,7 +62,7 @@ The table below identifies what should not be done, and what activities should b
 
 <table>
 <tr><th>Do not</th></tr>
-<tr><td>✖ Allow systems to release information from secure environments unless the following security controls are implemented:
+<tr><td>✖ Allow systems to release information from secure environments unless all the following security controls are implemented on the destination system:
 <ul>
 <li>boundary security filters</li>
 <li>domain authentication</li>
@@ -70,10 +70,10 @@ The table below identifies what should not be done, and what activities should b
 <li>security attribute binding</li>
 <li>detection of unsanctioned information</li>
 <li>restriction of suspicious inbound and outbound traffic.</li></ul></td></tr>
-<tr><td>✖ Allow general users to make unauthorised configuration changes to software, firmware or hardware. Any exceptions, such as software updates, must be risk assessed and approved by IT and the Risk Advisory Team.</td></tr>
+<tr><td>✖ Allow general users to make unauthorised configuration changes to the security settings of software, firmware or hardware. Any exceptions, such as software updates, must be risk assessed and approved by IT and the Risk Advisory Team.</td></tr>
 <tr><td>✖ Allow users to install software. Instead, software installations should be approved first, and only users with privileged access should be permitted to conduct the installation.</td></tr>
 <tr><td>✖ Allow split tunnelling without careful consideration of how traffic will remain protected.</td></tr>
-<tr><td>✖ Allow inbound traffic from unauthenticated networks. Instead, use authenticated proxy servers if such traffic is required.</td></tr>
+<tr><td>✖ Allow inbound traffic from unauthenticated or unauthorised networks.</td></tr>
 <tr><td>✖ Allow discovery of system components or devices on the network.</td></tr>
 <tr><td>✖ Enable boundary protection settings that permit different security domains to connect through the same subnet.</td></tr>
 </table>
@@ -113,6 +113,6 @@ The table below outlines the actions that should not be undertaken in relation t
 | Do not |
 |---|
 | ✖ Allow access privileges for library or production/operation environments for unauthorised users. |
-| ✖ Allow systems or applications to go live without testing them in a non-live environment. |
+| ✖ configuration changes or applications to go live without testing them in a non-live environment. |
 | ✖ Use live data, including personal data, in system or application testing. Exceptions must be approved by the relevant SIRO and, if the live data contains personal data, the Data Protection Officer. |
 | ✖ Install or execute off-the-shelf software without ensuring appropriate support and security arrangements/agreements are in place. |
