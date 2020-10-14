@@ -8,7 +8,7 @@ The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 23 September 2020.
+This guidance is dated: 14 October 2020.
 
 For convenience, offline versions of this guidance are available.
 
@@ -17,7 +17,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 23 October 2020.
+The offline versions of this guidance are time-limited, and are not valid after 14 November 2020.
 
 ### Getting in touch
 
@@ -28,7 +28,7 @@ The offline versions of this guidance are time-limited, and are not valid after 
 
 ### Background
 
-*[Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security)* replaces the HMG Security Policy Framework \(SPF\) last published in May 2018. It also incorporates the *Minimum Cyber Security Standard \(MCSS\)* which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.
+The new [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) sits at the top of other government security governance documents like the [HMG Security Policy Framework \(SPF\)](https://www.gov.uk/government/publications/security-policy-framework) and the [Minimum Cyber Security Standard \(MCSS\)](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard). Together they define the minimum security measures that departments need to implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.
 
 Sections 6.9 Cyber security and 6.10 Technical security of the standard state:
 
