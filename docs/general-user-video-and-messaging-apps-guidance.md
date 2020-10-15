@@ -141,9 +141,10 @@ Install the app from the official device App Store if you wish to do so.
 
 You might have both a personal and an MoJ issued device. Think about which device makes most sense to use with the app. It's best to install on the device that you carry with you and use most of the time. You could install on all your devices if you prefer.
 
-Some people work in 'contact' environments. These have protective measures in place, for example transparent panels. When these measures protect you, turn off the app's Bluetooth mode. This prevents the app recording a false alert.
+To prevent false alerts on the app, turn off the app's Bluetooth mode. Do this when:
 
-Similarly, you might leave your mobile device away from you at times. An example is putting the device in a locker during a sports activity. Switch off the app's Bluetooth mode during this time to prevent false alerts.
+-   You are working in environments with protective Covid measures in-place, for example plexiglass separators.
+-   You need to leave your personal or work device in a locker, for example during a sports activity or to work in a secure MoJ facility.
 
 ## Other tools
 
