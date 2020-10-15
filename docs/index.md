@@ -8,7 +8,7 @@ The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 14 October 2020.
+This guidance is dated: 15 October 2020.
 
 For convenience, offline versions of this guidance are available.
 
@@ -17,7 +17,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 14 November 2020.
+The offline versions of this guidance are time-limited, and are not valid after 15 November 2020.
 
 ### Getting in touch
 
@@ -70,7 +70,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |||[Accounting](accounting.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Bluetooth](bluetooth.md)|All users|
 |||[General advice on taking equipment abroad](general-advice-on-taking-equipment-abroad.md)|All users|
-|||[General User Video and Messaging Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
+|||[General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
 |||[Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md)|All users|
 |||[Lost Laptop or other IT security incident](lost-laptophardware.md)|All users|
 |||[Remote Working](remote-working.md)|All users|

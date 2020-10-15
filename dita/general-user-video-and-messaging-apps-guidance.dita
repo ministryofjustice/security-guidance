@@ -2,7 +2,7 @@
 <?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="general-user-video-and-messaging-apps-guidance">
-	<title>General User Video and Messaging Apps Guidance</title>
+	<title>General Apps Guidance</title>
 	<body/>
 	<topic id="overview">
 		<title>Overview</title>
@@ -290,6 +290,34 @@
 					</tbody>
 				</tgroup>
 			</table>
+		</body>
+	</topic>
+	<topic id="nhs-track-and-trace">
+		<title>NHS Track and Trace</title>
+		<body>
+			<p>The official <xref href="https://www.nhs.uk/apps-library/nhs-covid-19/" format="html" scope="external">NHS Covid-19</xref> app was designed by the NHS.
+			It provides contact tracing, local area alerts and venue check-in.
+			It enables you to protect yourself and your loved ones.
+			After installing the app, you'll receive an alert if you have been in close contact with other people who have tested positive for coronavirus.
+			You can then take action to avoid passing the virus on, for example by self-isolating.</p>
+			<p>From a security perspective,
+				it is safe for you to use the app on your personal or <ph conref="conrefs.dita#conrefs/moj"/> issued devices.
+				There are no extra risks for colleagues with security clearance, such as SC and DV.</p>
+			<p>Install the app from the official device App Store if you wish to do so.</p>
+			<p><b>Note:</b> The <ph conref="conrefs.dita#conrefs/moj"/> locks down some mobile devices,
+			for example Quantum.
+			Device controls prevent you installing the NHS app on these devices.</p>
+			<p>You might have both a personal and an <ph conref="conrefs.dita#conrefs/moj"/> issued device.
+				Think about which device makes most sense to use with the app.
+				It's best to install on the device that you carry with you and use most of the time.
+			You could install on all your devices if you prefer.</p>
+			<p>Some people work in 'contact' environments.
+				These have protective measures in place, for example transparent panels.
+				When these measures protect you, turn off the app's Bluetooth mode.
+				This prevents the app recording a false alert.</p>
+				<p>Similarly, you might leave your mobile device away from you at times.
+					An example is putting the device in a locker during a sports activity.
+					Switch off the app's Bluetooth mode during this time to prevent false alerts.</p>
 		</body>
 	</topic>
 	<topic id="other-tools">

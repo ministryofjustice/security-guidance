@@ -1,4 +1,4 @@
-# General User Video and Messaging Apps Guidance
+# General Apps Guidance
 
 ## Overview
 
@@ -128,6 +128,22 @@ The bottom line is: *"if there is doubt, there is no doubt - ask for help!".*
 |Yammer|Text messaging|Avoid personal or sensitive data|Dedicated app on device|Internal|
 |YouTube|Video sharing tool: Video, streaming and chat|Avoid personal or sensitive data|Web/browser based use|Internal/External|
 |Zoom|Communication tool: Video, voice and chat|Avoid personal or sensitive data|Web/browser based use|External meetings|
+
+## NHS Track and Trace
+
+The official [NHS Covid-19](https://www.nhs.uk/apps-library/nhs-covid-19/) app was designed by the NHS. It provides contact tracing, local area alerts and venue check-in. It enables you to protect yourself and your loved ones. After installing the app, you'll receive an alert if you have been in close contact with other people who have tested positive for coronavirus. You can then take action to avoid passing the virus on, for example by self-isolating.
+
+From a security perspective, it is safe for you to use the app on your personal or MoJ issued devices. There are no extra risks for colleagues with security clearance, such as SC and DV.
+
+Install the app from the official device App Store if you wish to do so.
+
+**Note:** The MoJ locks down some mobile devices, for example Quantum. Device controls prevent you installing the NHS app on these devices.
+
+You might have both a personal and an MoJ issued device. Think about which device makes most sense to use with the app. It's best to install on the device that you carry with you and use most of the time. You could install on all your devices if you prefer.
+
+Some people work in 'contact' environments. These have protective measures in place, for example transparent panels. When these measures protect you, turn off the app's Bluetooth mode. This prevents the app recording a false alert.
+
+Similarly, you might leave your mobile device away from you at times. An example is putting the device in a locker during a sports activity. Switch off the app's Bluetooth mode during this time to prevent false alerts.
 
 ## Other tools
 
