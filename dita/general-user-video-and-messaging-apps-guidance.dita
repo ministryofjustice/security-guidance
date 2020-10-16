@@ -296,7 +296,8 @@
 		<title>NHS Track and Trace</title>
 		<body>
 			<p>The official <xref href="https://www.nhs.uk/apps-library/nhs-covid-19/" format="html" scope="external">NHS Covid-19</xref> app was designed by the NHS.
-			It provides contact tracing, local area alerts and venue check-in.
+			Both NCSC and Cabinet Office have been involved in the security of the system.
+			The app provides contact tracing, local area alerts and venue check-in.
 			It enables you to protect yourself and your loved ones.
 			Installation is optional, but recommended.</p>
 			<p>After installing the app, you'll receive an alert if you have been in close contact with other people who have tested positive for coronavirus.

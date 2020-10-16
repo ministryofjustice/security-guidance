@@ -131,7 +131,7 @@ The bottom line is: *"if there is doubt, there is no doubt - ask for help!".*
 
 ## NHS Track and Trace
 
-The official [NHS Covid-19](https://www.nhs.uk/apps-library/nhs-covid-19/) app was designed by the NHS. It provides contact tracing, local area alerts and venue check-in. It enables you to protect yourself and your loved ones. Installation is optional, but recommended.
+The official [NHS Covid-19](https://www.nhs.uk/apps-library/nhs-covid-19/) app was designed by the NHS. Both NCSC and Cabinet Office have been involved in the security of the system. The app provides contact tracing, local area alerts and venue check-in. It enables you to protect yourself and your loved ones. Installation is optional, but recommended.
 
 After installing the app, you'll receive an alert if you have been in close contact with other people who have tested positive for coronavirus. You can then take action to avoid passing the virus on, for example by self-isolating.
 
