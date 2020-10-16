@@ -131,13 +131,15 @@ The bottom line is: *"if there is doubt, there is no doubt - ask for help!".*
 
 ## NHS Track and Trace
 
-The official [NHS Covid-19](https://www.nhs.uk/apps-library/nhs-covid-19/) app was designed by the NHS. It provides contact tracing, local area alerts and venue check-in. It enables you to protect yourself and your loved ones. After installing the app, you'll receive an alert if you have been in close contact with other people who have tested positive for coronavirus. You can then take action to avoid passing the virus on, for example by self-isolating.
+The official [NHS Covid-19](https://www.nhs.uk/apps-library/nhs-covid-19/) app was designed by the NHS. It provides contact tracing, local area alerts and venue check-in. It enables you to protect yourself and your loved ones. Installation is optional, but recommended.
+
+After installing the app, you'll receive an alert if you have been in close contact with other people who have tested positive for coronavirus. You can then take action to avoid passing the virus on, for example by self-isolating.
 
 From a security perspective, it is safe for you to use the app on your personal or MoJ issued devices. There are no extra risks for colleagues with security clearance, such as SC and DV.
 
-Install the app from the official device App Store if you wish to do so.
+If you wish to install the app, start at the [NHS site](https://covid19.nhs.uk/).
 
-**Note:** The MoJ locks down some mobile devices, for example Quantum. Device controls prevent you installing the NHS app on these devices.
+**Note:** The NHS app may not work on some older MoJ. Installation might not be possible, for example on Quantum smartphones.
 
 You might have both a personal and an MoJ issued device. Think about which device makes most sense to use with the app. It's best to install on the device that you carry with you and use most of the time. You could install on all your devices if you prefer.
 
