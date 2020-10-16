@@ -139,7 +139,7 @@ From a security perspective, it is safe for you to use the app on your personal 
 
 If you wish to install the app, start at the [NHS site](https://covid19.nhs.uk/).
 
-**Note:** The NHS app may not work on some older MoJ. Installation might not be possible, for example on Quantum smartphones.
+**Note:** The NHS app may not work on some older MoJ devices. Installation might not be possible, for example on Quantum smartphones.
 
 You might have both a personal and an MoJ issued device. Think about which device makes most sense to use with the app. It's best to install on the device that you carry with you and use most of the time. You could install on all your devices if you prefer.
 
