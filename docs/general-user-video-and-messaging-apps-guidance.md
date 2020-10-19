@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - /policies/general-user-video-and-messaging-apps-guidance/
+---
 # General Apps Guidance
 
 ## Overview
