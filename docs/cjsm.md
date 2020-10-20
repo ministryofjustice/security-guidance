@@ -33,3 +33,7 @@ For example, in a 'web mail' configuration, the organisation uses a browser to l
 
 Email services that are materially aligned to the [UK government secure email policy](https://www.gov.uk/guidance/securing-government-email) are suitable for the movement of `OFFICIAL` data, including where the `SENSITIVE` handling caveat has been applied.
 
+## More information
+
+For more information on CJSM, or to get details about signing up, visit the [CJSM](https://cjsm.justice.gov.uk/) website.
+

@@ -47,4 +47,10 @@
       <p>Email services that are materially aligned to the <xref href="https://www.gov.uk/guidance/securing-government-email" format="html" scope="external">UK government secure email policy</xref> are suitable for the movement of <codeph>OFFICIAL</codeph> data, including where the <codeph>SENSITIVE</codeph> handling caveat has been applied.</p>
     </body>
   </topic>
+  <topic id="more-information">
+    <title>More information</title>
+    <body>
+      <p>For more information on CJSM, or to get details about signing up, visit the <xref href="https://cjsm.justice.gov.uk/" format="html" scope="external">CJSM</xref> website.</p>
+    </body>
+  </topic>
 </topic>
