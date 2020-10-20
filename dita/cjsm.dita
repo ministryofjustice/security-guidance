@@ -7,6 +7,24 @@
     <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> operates the CJSM service to enable those people working in the Justice system who do not have access to a suitable email service to exchange information in a safer way.</p>
     <p>The <ph conref="conrefs.dita#conrefs/moj"/> does <b>not</b> require the use of CJSM where other suitably secure and efficient means can be used. It is considered a safe option to enable communication but it is only an option.</p>
   </body>
+  <topic id="getting-access-to-cjsm">
+    <title>Getting access to CJSM</title>
+    <body>
+      <p>To gain access to CJSM, an organisation must have an HMG sponsor, such as the <ph conref="conrefs.dita#conrefs/moj"/>.
+      This is to confirm the organisation's identity, and that they have active work in relation to the Justice system.</p>
+      <p>The sponsorship process prevents organisations signing up to the service for non-justice related work.
+      An 'onboarding checklist' helps ensure the relevance of the application to <ph conref="conrefs.dita#conrefs/moj"/> work.</p>
+    </body>
+  </topic>
+  <topic id="using-cjsm">
+    <title>Using CJSM</title>
+    <body>
+      <p>The process for using CJSM to send secure emails depends on how the organisation
+        is set up on the service.</p>
+      <p>For example, in a 'web mail' configuration, the organisation uses a browser to login to a <xref href="http://www.cjsm.net/" format="html" scope="external">web mail account</xref>.
+    They can then send and receive emails with a CJSM email address, in much the same way as most web email services work.</p>
+    </body>
+  </topic>
   <topic id="government-secure-email-policy">
     <title>Government secure email policy</title>
     <body>
