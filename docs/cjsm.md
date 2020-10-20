@@ -4,6 +4,19 @@ The Ministry of Justice \(MoJ\) operates the CJSM service to enable those people
 
 The MoJ does **not** require the use of CJSM where other suitably secure and efficient means can be used. It is considered a safe option to enable communication but it is only an option.
 
+## What is CJSM?
+
+CJSM is a closed user group email service. It consists of:
+
+-   A vetting and onboarding process.
+-   An email relay to provide connectivity between the email servers of different organisations.
+-   A cloud gateway for connecting organisations using web-based office tools.
+-   Browser-based web mail and mail clients.
+-   Connections to secure government networks.
+-   Administrative tools including a directory service and a dedicated help desk.
+
+Government users can use use their normal email accounts to send and receive email to CJSM-connected third party organisations. Third party organisations interface with the CJSM website, for example to add and maintain users, or to use the hosted mailbox facility.
+
 ## Getting access to CJSM
 
 To gain access to CJSM, an organisation must have an HMG sponsor, such as the MoJ. This is to confirm the organisation's identity, and that they have active work in relation to the Justice system.

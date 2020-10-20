@@ -7,6 +7,22 @@
     <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> operates the CJSM service to enable those people working in the Justice system who do not have access to a suitable email service to exchange information in a safer way.</p>
     <p>The <ph conref="conrefs.dita#conrefs/moj"/> does <b>not</b> require the use of CJSM where other suitably secure and efficient means can be used. It is considered a safe option to enable communication but it is only an option.</p>
   </body>
+  <topic id="what-is-cjsm">
+    <title>What is CJSM?</title>
+    <body>
+      <p>CJSM is a closed user group email service. It consists of:
+        <ul>
+          <li>A vetting and onboarding process.</li>
+          <li>An email relay to provide connectivity between the email servers of different organisations.</li>
+          <li>A cloud gateway for connecting organisations using web-based office tools.</li>
+          <li>Browser-based web mail and mail clients.</li>
+          <li>Connections to secure government networks.</li>
+          <li>Administrative tools including a directory service and a dedicated help desk.</li>
+        </ul></p>
+        <p>Government users can use use their normal email accounts to send and receive email to CJSM-connected third party organisations.
+          Third party organisations interface with the CJSM website, for example to add and maintain users, or to use the hosted mailbox facility.</p>
+    </body>
+  </topic>
   <topic id="getting-access-to-cjsm">
     <title>Getting access to CJSM</title>
     <body>
