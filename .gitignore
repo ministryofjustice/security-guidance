@@ -5,3 +5,4 @@ _site
 dita/out
 dita/tstamp.dita
 buildUtils/catalog-dita.xml
+buildUtils/compile.txt

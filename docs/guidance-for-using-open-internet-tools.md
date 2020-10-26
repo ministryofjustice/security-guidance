@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - /policies/guidance-for-using-open-internet-tools/
+---
 # Guidance for using Open Internet Tools
 
 **This information applies to all staff and contractors who work for the Ministry of Justice \(MoJ\).**

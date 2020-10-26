@@ -6,7 +6,9 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-This guidance is dated: 23 September 2020.
+**Note:**
+
+This guidance is dated: 20 October 2020.
 
 For convenience, offline versions of this guidance are available.
 
@@ -15,7 +17,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 23 October 2020.
+The offline versions of this guidance are time-limited, and are not valid after 20 November 2020.
 
 ### Getting in touch
 
@@ -72,7 +74,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |||[Accounting](accounting.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Bluetooth](bluetooth.md)|All users|
 |||[General advice on taking equipment abroad](general-advice-on-taking-equipment-abroad.md)|All users|
-|||[General User Video and Messaging Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
+|||[General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
 |||[Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md)|All users|
 |||[Lost Laptop or other IT security incident](lost-laptophardware.md)|All users|
 |||[Remote Working](remote-working.md)|All users|
@@ -149,4 +151,3 @@ There are other cyber and technical security guidance documents available to ref
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) should be read together with this security-focused guidance.
 
 The [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) provides the base material for all security guidance in the MoJ.
-

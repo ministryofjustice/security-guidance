@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - /policies/access-control-guide/
+---
 # Access Control guide
 
 ## Introduction

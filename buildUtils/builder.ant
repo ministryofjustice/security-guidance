@@ -9,6 +9,14 @@
 			ant -lib $DITA_DIR/config -f builder.ant clean
 	</description>
 
+	<taskdef resource="net/sf/antcontrib/antcontrib.properties">
+		<classpath>
+			<pathelement location="${basedir}/buildUtils/ant-contrib-0.6.jar"/>
+		</classpath>
+	</taskdef>
+
+	<tempfile property="temp.file" deleteonexit="true"/>
+
 	<!-- set global properties for this build -->
 	<property environment="env"/>
 	<property name="dita" location="dita"/>
@@ -16,6 +24,7 @@
 	<property name="docs" location="docs"/>
 	<property name="images" location="images"/>
 	<property name="jekyll-baseline" location="jekyll-baseline"/>
+	<property name="redirects" location="redirects"/>
 	<!-- Ensure that environment variable DITA_DIR is set to
 		the installation directory for the DITA Open Source Toolkit -->
 	<property name="dita.dir" location="${env.DITA_DIR}"/>
@@ -43,6 +52,16 @@
 			<property name="args.filter" value="${dita}/html.ditaval:${dita}/audience-tech.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="markdown_github"/>
+		</ant>
+	</target>
+
+	<target name="compile_xhtml" depends="init"
+				description="compile the source into XHTML">
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
+			<property name="args.filter" value="${dita}/html.ditaval:${dita}/audience-tech.ditaval"/>
+			<property name="output.dir" location="${build}"/>
+			<property name="transtype" value="xhtml"/>
 		</ant>
 	</target>
 
@@ -98,6 +117,16 @@
 
 	<target name="compile" depends="compile_md,compile_pdf,compile_epub"/>
 
+	<target name="enableRedirect">
+		<echo message="Redirecting file: ${theFile}"/>
+		<basename property="theFileName" file="${theFile}"/>
+		<concat destfile="${temp.file}">
+			<fileset file="${redirects}/${theFileName}"/>
+			<fileset file="${docs}/${theFileName}.md"/>
+		</concat>
+		<copy file="${temp.file}" tofile="${docs}/${theFileName}.md" overwrite="true"/>
+	</target>
+
 	<target name="dist" depends="compile"
 				description="generate the distribution">
 		<!-- Create the distribution directory -->
@@ -113,6 +142,11 @@
 		<copy todir="${docs}" >
 			<fileset dir="${build}"/>
 		</copy>
+		<foreach target="enableRedirect" param="theFile">
+			<path>
+				<fileset dir="${redirects}"/>
+			</path>
+		</foreach>
 		<copy file="${docs}/cyber-and-technical-security-guidance.md" tofile="${docs}/index.md" overwrite="true"/>
 		<copy todir="${docs}/gs" >
 			<fileset dir="${basedir}/gs"/>

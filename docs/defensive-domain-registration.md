@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - /guides/defensive-domain-registration/
+---
 # Defensive domain registrations
 
 The Ministry of Justice \(MoJ\) and associated organisations \(Executive agencies, non-departmental public bodies and so on\) maintain varying levels of 'online presence' using domain registrations. This are a fundamental part of the organisation's identity on the public internet. An example is the justice.gov.uk email domain used for contacting other government organisations, partners and members of the public.

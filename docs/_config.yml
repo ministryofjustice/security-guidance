@@ -1,5 +1,8 @@
 title: MoJ Security Guidance
 
+plugins:
+  - jekyll-redirect-from
+
 permalink: pretty
 
 defaults:
