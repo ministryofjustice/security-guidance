@@ -13,7 +13,7 @@
 			<li>things you <xref href="#using-oits" format="html">must think about</xref> when using an OIT, such as <xref href="#privacy-and-personal-information" format="html">data protection</xref></li>
 			<li>information on <xref href="#getting-help" format="html">who to contact</xref> if you would like help or advice</li>
 		</ul>
-		Note: To access some of the links in this guide you'll need to be connected to the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.</p>
+		<b>Note:</b> To access some of the links in this guide you'll need to be connected to the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.</p>
 	</body>
 	<topic id="overview">
 		<title>Overview</title>
@@ -186,7 +186,7 @@
 				Always have another way of working if the OIT is not available for some reason or for any length of time.
 				In other words, don't let an OIT become business critical.</p>
 				<p>Check the OIT usage agreement to find out more about the service and support available.</p>
-				<p>The <ph conref="conrefs.dita#conrefs/moj"/> cannot provide technical support for OITs.</p>
+				<p><b>Note:</b> The <ph conref="conrefs.dita#conrefs/moj"/> cannot provide technical support for OITs.</p>
 			</body>
 		</topic>
 	</topic>
@@ -196,7 +196,7 @@
 			<p>There are already many OITs used across the <ph conref="conrefs.dita#conrefs/moj"/>.
 			Permission to use an OIT might vary, depending on where you work in the <ph conref="conrefs.dita#conrefs/moj"/>.
 			For example, some teams must not access or use some OITs, for security or operational reasons.</p>
-			<p>Check with your Line Manager if you want to use an OIT for your work, <i>before</i> you use it.</p>
+			<p><b>Note:</b> Check with your Line Manager if you want to use an OIT for your work, <i>before</i> you use it.</p>
 		</body>
 	</topic>
 	<topic id="getting-help">

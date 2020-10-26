@@ -14,7 +14,7 @@ This guidance gives you:
 -   things you [must think about](#using-oits) when using an OIT, such as [data protection](#privacy-and-personal-information)
 -   information on [who to contact](#getting-help) if you would like help or advice
 
-Note: To access some of the links in this guide you'll need to be connected to the MoJ Intranet.
+**Note:** To access some of the links in this guide you'll need to be connected to the MoJ Intranet.
 
 ## Overview
 
@@ -140,13 +140,13 @@ OITs are often intuitive and reliable. But that doesn't mean they are always ava
 
 Check the OIT usage agreement to find out more about the service and support available.
 
-The MoJ cannot provide technical support for OITs.
+**Note:** The MoJ cannot provide technical support for OITs.
 
 ## Common OITs
 
 There are already many OITs used across the MoJ. Permission to use an OIT might vary, depending on where you work in the MoJ. For example, some teams must not access or use some OITs, for security or operational reasons.
 
-Check with your Line Manager if you want to use an OIT for your work, *before* you use it.
+**Note:** Check with your Line Manager if you want to use an OIT for your work, *before* you use it.
 
 ## Getting help
 

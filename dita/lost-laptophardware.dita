@@ -12,7 +12,7 @@
     <title>What to do if your device is lost, stolen, or compromised</title>
     <body>
       <p>If <ph conref="conrefs.dita#conrefs/moj"/> data or information is lost or compromised, you should always <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">report it as a data incident</xref>.</p>
-      <p>You can help reduce problems by making sure that devices used for <ph conref="conrefs.dita#conrefs/moj"/> tasks are always shut down before leaving Government premises. Locking a laptop, or 'putting it to sleep' is not completely secure. A lost or stolen laptop can be accessed more easily if it is only locked or sleeping. A shut down makes sure that all security measures are in place, such as full disk encryption.</p>
+      <p><b>Note:</b> You can help reduce problems by making sure that devices used for <ph conref="conrefs.dita#conrefs/moj"/> tasks are always shut down before leaving Government premises. Locking a laptop, or 'putting it to sleep' is not completely secure. A lost or stolen laptop can be accessed more easily if it is only locked or sleeping. A shut down makes sure that all security measures are in place, such as full disk encryption.</p>
       <p>If you think your device is lost, stolen, 'hacked', or in some way compromised, you must:
       <ol>
         <li>Contact your Technology Service Desk. The analyst will ask the relevant questions and note responses on the ticket.

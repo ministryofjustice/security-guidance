@@ -94,7 +94,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 -   Tel: 0800 917 5148
 
-Note: The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+**Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
 
 **Digital & Technology - Digital Service Desk**
 
@@ -108,7 +108,7 @@ Note: The previous `itservicedesk@justice.gov.uk` email address is no longer bei
 
 ### Incidents
 
-Note: If you work for an agency or ALB, refer to your local incident reporting guidance.
+**Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
 
 **Operational Security Team**
 

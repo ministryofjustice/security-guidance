@@ -92,7 +92,7 @@ If there is a problem with your MoJ equipment, it might be necessary to revoke y
 
 -   Tel: 0800 917 5148
 
-Note: The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+**Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
 
 ### Digital & Technology - Digital Service Desk
 

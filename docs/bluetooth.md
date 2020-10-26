@@ -16,7 +16,7 @@ The aim is to help you maintain the Confidentiality, Integrity and Availability 
 -   you can connect devices using Bluetooth, safely
 -   you are aware of the problems around Bluetooth, and can take the necessary safety precautions
 
-Note: Remember that there might be local rules that apply regarding the use of Bluetooth devices. A good example is in Prisons, where use of Bluetooth would not be available by default. Ensure that you check with local requirements.
+**Important:** Remember that there might be local rules that apply regarding the use of Bluetooth devices. A good example is in Prisons, where use of Bluetooth would not be available by default. Ensure that you check with local requirements.
 
 ## Accessibility
 

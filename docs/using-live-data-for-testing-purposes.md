@@ -32,7 +32,7 @@ Check whether you really need to use live data, by considering the following que
 
 The best test data simulates live operations data.
 
-Note: It is important that test data is protected to the same standard as the live data. This is to ensure that details of the system design and operation are not compromised.
+**Note:** It is important that test data is protected to the same standard as the live data. This is to ensure that details of the system design and operation are not compromised.
 
 To protect test data, the following principles should be followed:
 
@@ -40,7 +40,7 @@ To protect test data, the following principles should be followed:
 -   Test data should be erased from a testing environment immediately after the testing is complete or when no longer required.
 -   The copying and use of test data should be logged to provide an audit trail.
 
-Note: In the absence of an allocated test manager for a project, refer to the system owner.
+**Note:** In the absence of an allocated test manager for a project, refer to the system owner.
 
 By default:
 
@@ -102,7 +102,7 @@ Where a project is considering the use of live data for test purposes, it is ess
 
 You might need to look at fair processing notices and take these into account around the context of the tests being performed.
 
-**Note:** It may actually be illegal to perform planned tests if fair processing notices do not allow using the data for test purposes.
+**Note:** It may actually be unlawful to perform planned tests if fair processing notices do not allow using the data for test purposes.
 
 Where the data involves personal information, help must be obtained from the MoJ Data Privacy team. At the very least, you must revisit or update an existing Data Protection Impact Assessment.
 

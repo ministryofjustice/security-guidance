@@ -6,7 +6,7 @@
 
 If MoJ data or information is lost or compromised, you should always [report it as a data incident](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/).
 
-You can help reduce problems by making sure that devices used for MoJ tasks are always shut down before leaving Government premises. Locking a laptop, or 'putting it to sleep' is not completely secure. A lost or stolen laptop can be accessed more easily if it is only locked or sleeping. A shut down makes sure that all security measures are in place, such as full disk encryption.
+**Note:** You can help reduce problems by making sure that devices used for MoJ tasks are always shut down before leaving Government premises. Locking a laptop, or 'putting it to sleep' is not completely secure. A lost or stolen laptop can be accessed more easily if it is only locked or sleeping. A shut down makes sure that all security measures are in place, such as full disk encryption.
 
 If you think your device is lost, stolen, 'hacked', or in some way compromised, you must:
 
@@ -15,7 +15,7 @@ If you think your device is lost, stolen, 'hacked', or in some way compromised, 
     **Dom1/Quantum - Technology Service Desk**
 
     -   Tel: 0800 917 5148
-    Note: The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+    **Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
 
 
 

@@ -18,7 +18,7 @@ Be aware that voice calls and SMS messages are not secure and voice calls can be
 -   Never leave the device unattended - not even for a moment.
 -   If it is not practical to keep the device with you securely at all times \(for instance, you are at the swimming pool or gym\), consider storing the device in the hotel safe.
 
-Note: Standard hotel safes are not entirely secure and it is normally possible for hotel staff to override controls to gain access. In addition therefore you should also store your device in a tamper proof envelope. You should ensure you have a sufficient number to last the duration of your period of travel. If the tamper evident seals show signs of disturbance or the device exhibits strange behaviour, it should be considered compromised. In either case, you must discontinue use of the device and contact your Service Desk immediately and report the device as potentially compromised.
+**Note:** Standard hotel safes are not entirely secure and it is normally possible for hotel staff to override controls to gain access. In addition therefore you should also store your device in a tamper proof envelope. You should ensure you have a sufficient number to last the duration of your period of travel. If the tamper evident seals show signs of disturbance or the device exhibits strange behaviour, it should be considered compromised. In either case, you must discontinue use of the device and contact your Service Desk immediately and report the device as potentially compromised.
 
 ## Guidance on using mobile phones
 
@@ -65,7 +65,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 -   Tel: 0800 917 5148
 
-Note: The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+**Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
 
 **Digital & Technology - Digital Service Desk**
 
@@ -79,9 +79,10 @@ Note: The previous `itservicedesk@justice.gov.uk` email address is no longer bei
 
 ### Incidents
 
-Note: If you work for an agency or ALB, refer to your local incident reporting guidance.
+**Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
 
 **Operational Security Team**
 
 -   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
 -   Slack: `#security`
+

@@ -11,7 +11,7 @@
 <xref href="https://www.gov.uk/government/organisations/ministry-of-justice" format="html" scope="external"><ph conref="conrefs.dita#conrefs/mojlong"/></xref>
 has made for the products we operate, and our relationships with suppliers.</p>
 			<p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> covers technical decisions in the <ph conref="conrefs.dita#conrefs/moj"/> more widely.</p>
-			<p>This guidance is dated: <ph conref="tstamp.dita#tstamp/tstamp"/>.</p>
+			<p><b>Note:</b> This guidance is dated: <ph conref="tstamp.dita#tstamp/tstamp"/>.</p>
 			<p platform="html">For convenience, offline versions of this guidance are available.
 			<table>
 				<tgroup cols="3">
