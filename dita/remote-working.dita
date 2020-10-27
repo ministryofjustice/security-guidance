@@ -41,7 +41,7 @@
   <topic id="audience">
     <title>Audience</title>
     <body>
-      <p>This guide applies to all staff in the <ph conref="conrefs.dita#conrefs/moj"/>, its Agencies, Associated Offices and Arm’s Length Bodies (ALBs), including contractors, agency and casual staff and service providers, who use computing equipment provided by the Department for remote working or mobile computing, or process any departmental information while working remotely or while using <ph conref="conrefs.dita#conrefs/moj"/> mobile computing equipment.</p>
+      <p>This guide applies to all staff in the <ph conref="conrefs.dita#conrefs/moj"/>, its Agencies, Associated Offices and Arm's Length Bodies (ALBs), including contractors, agency and casual staff and service providers, who use computing equipment provided by the Department for remote working or mobile computing, or process any departmental information while working remotely or while using <ph conref="conrefs.dita#conrefs/moj"/> mobile computing equipment.</p>
     </body>
   </topic>
   <topic id="what-is-remote-working">
@@ -68,7 +68,7 @@
           <p>Lock or log off your device when leaving it unattended. For long periods of non-use, shut down your device.</p>
         </li>
         <li>
-          <p>Keep your workspace clear and tidy - follow a 'clean desk policy', including paperwork, to ensure <ph conref="conrefs.dita#conrefs/moj"/> information isn’t seen by unauthorised people.</p>
+          <p>Keep your workspace clear and tidy - follow a 'clean desk policy', including paperwork, to ensure <ph conref="conrefs.dita#conrefs/moj"/> information isn't seen by unauthorised people.</p>
         </li>
         <li>
           <p>Use <ph conref="conrefs.dita#conrefs/moj"/> IT equipment for business purposes in preference to your own equipment such as laptops or printers.</p>
@@ -105,7 +105,7 @@
   <topic id="working-securely">
     <title>Working securely</title>
     <body>
-      <p>It’s important to consider the security of how you work remotely.</p>
+      <p>It's important to consider the security of how you work remotely.</p>
       <ul>
         <li>
           <p><b>Work locations</b> - as with home working above, you need to be equally, if not more, vigilant when working in public spaces.</p>
@@ -161,7 +161,7 @@
           <p>Think about whether an unauthorised person, such as a family member, might see the information you are working with.</p>
         </li>
         <li>
-          <p>Don’t write down passwords. Use a password manager.</p>
+          <p>Don't write down passwords. Use a password manager.</p>
         </li>
       </ul>
     </body>

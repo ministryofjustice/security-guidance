@@ -37,7 +37,7 @@
           </ul>
         </li>
         <li>
-          <p>b: systems must use an automated time syncing protocol (such as NTP) with an external time source to ensure it is not subject to ‘time drift’ that may impact the accuracy of time stamping.</p>
+          <p>b: systems must use an automated time syncing protocol (such as NTP) with an external time source to ensure it is not subject to 'time drift' that may impact the accuracy of time stamping.</p>
         </li>
       </ul>
     </body>

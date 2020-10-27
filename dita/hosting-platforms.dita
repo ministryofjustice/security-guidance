@@ -249,7 +249,7 @@
       <title>5. Security-related logs for all Windows-based end-user devices</title>
       <body>
         <p>Log Collection Principle(s): 6</p>
-        <p>Security-related logs, as defined by <xref href="https://github.com/ukncsc/" format="html" scope="external">NCSC’s Logging Made Easy template</xref>, from all end-user devices operating a Microsoft Windows operating system must be created and forwarded.</p>
+        <p>Security-related logs, as defined by <xref href="https://github.com/ukncsc/" format="html" scope="external">NCSC's Logging Made Easy template</xref>, from all end-user devices operating a Microsoft Windows operating system must be created and forwarded.</p>
       </body>
     </topic>
     <topic id="mobile-device-enrollment-activity">

@@ -55,12 +55,12 @@ audited on a monthly basis.</p>
           <colspec colname="col1" colnum="1" colwidth="1*"/>
           <thead>
             <row>
-              <entry colname="col1">DON’T</entry>
+              <entry colname="col1">DON'T</entry>
             </row>
           </thead>
           <tbody>
             <row>
-              <entry colname="col1">✖ Allow privileged users to use their privileged accounts for high-risk functions. These include reading emails, web browsing, using an ‘administrator’ login on an end-user device (such as a mobile device), or logging into a server as 'root'.</entry>
+              <entry colname="col1">✖ Allow privileged users to use their privileged accounts for high-risk functions. These include reading emails, web browsing, using an 'administrator' login on an end-user device (such as a mobile device), or logging into a server as 'root'.</entry>
             </row>
             <row>
               <entry colname="col1">✖ Leave default or factory set passwords for any accounts but particularly for privileged system accounts, social media accounts and infrastructure.</entry>

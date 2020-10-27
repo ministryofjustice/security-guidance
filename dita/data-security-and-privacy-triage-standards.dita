@@ -19,7 +19,7 @@
           <p>Each product has a clear privacy notice, describing how any personal data is handled. The notice contains a clear description of what we will do with their information, why, and how. Write it in terminology the general public can understand.</p>
         </li>
         <li>
-          <p>Using an individual’s information is only for the specific purposes or processes for which it was captured. There should be no superfluous information stored.</p>
+          <p>Using an individual's information is only for the specific purposes or processes for which it was captured. There should be no superfluous information stored.</p>
         </li>
         <li>
           <p>The privacy notice describes any use of information for management or reporting purposes. Anonymise any personal information used for these purposes. In other words, before use, remove any fields or data that could identify the individual.</p>
@@ -43,7 +43,7 @@
           <p>The system can delete records automatically at the end of the retention period. It should also be possible to remove records manually if required.</p>
         </li>
         <li>
-          <p>Decisions or processes made using an individual’s information can be stopped upon request.</p>
+          <p>Decisions or processes made using an individual's information can be stopped upon request.</p>
         </li>
         <li>
           <p>Ensure that information can be amended or re-examined manually, if necessary.</p>
@@ -111,7 +111,7 @@
     <topic id="pre-discovery-and-discovery">
       <title>Pre-Discovery and Discovery</title>
       <body>
-        <p>Assess the data security and privacy implications of the project requirements thoroughly. Do this as part of the broader work addressing the project’s strategic imperatives.</p>
+        <p>Assess the data security and privacy implications of the project requirements thoroughly. Do this as part of the broader work addressing the project's strategic imperatives.</p>
         <p>In particular:</p>
         <ul>
           <li>
