@@ -48,7 +48,7 @@
     <topic id="what-it-shouldnt-be-used-for">
       <title>What it shouldn't be used for</title>
       <body>
-        <p>LastPass should not be used for storing <ph conref="conrefs.dita#conrefs/moj"/> documents - you must use existing <ph conref="conrefs.dita#conrefs/moj"/> services such as Office 365 or Google G-Suite for that.</p>
+        <p>LastPass should not be used for storing <ph conref="conrefs.dita#conrefs/moj"/> documents - you must use existing <ph conref="conrefs.dita#conrefs/moj"/> services such as Office 365 or <ph conref="conrefs.dita#conrefs/gsuite"/> for that.</p>
         <p>You shouldn't use LastPass for 'secrets' that belong to systems, only credentials to be used by humans.<ph audience="audience-tech"> There is separate guidance on how to handle <xref href="secrets-management.dita" format="dita" type="topic">secrets</xref>.</ph></p>
       </body>
     </topic>

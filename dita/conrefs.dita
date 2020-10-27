@@ -12,6 +12,7 @@
 			<ph id="ostemail"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
 			<ph id="catemail"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></ph>
 			<ph id="privacyemail"><xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">privacy@justice.gov.uk</xref></ph>
+			<ph id="gsuite">Google Workspace</ph>
 		</p>
 		<p id="contactcatbyemail">Contact the Cyber Assistance Team by email: <ph conref="#conrefs/catemail"/></p>
 	</body>
@@ -50,7 +51,7 @@
 			</p>
 		</body>
 	</topic>
-	
+
 	<topic id="incidents">
 		<title>Incidents</title>
 		<body>
@@ -63,7 +64,7 @@
 			</p>
 		</body>
 	</topic>
-	
+
 	<topic id="privacy-advice">
 		<title>Privacy Advice</title>
 		<body>
@@ -76,7 +77,7 @@
 			</p>
 		</body>
 	</topic>
-	
+
 	<topic id="cyber-security-advice">
 		<title>Cyber Security Advice</title>
 		<body>
@@ -88,7 +89,7 @@
 			</p>
 		</body>
 	</topic>
-	
+
 	<topic id="historic-paper-files-urgently-required-by-ministers-courts-or-public-inquiries">
 		<title>Historic paper files urgently required by ministers, courts, or Public Inquiries</title>
 		<body>
@@ -104,7 +105,7 @@
 			</p>
 		</body>
 	</topic>
-	
+
 	<topic id="juststore">
 		<title>JustStore</title>
 		<body>
@@ -113,5 +114,5 @@
 			</ul>
 		</body>
 	</topic>
-	
+
 </topic>

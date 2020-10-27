@@ -14,5 +14,5 @@ The MoJ maintains accreditations where committed to by existing contract.
 
 ## Commodity digital technology
 
-MoJ assesses commodity digital technology supply chain such as Software-as-a-Service \(SaaS\) tools such as Google G-Suite, Microsoft Office 365, Trello and AtlassianCloud based on the [Cloud Security Principles](https://www.ncsc.gov.uk/guidance/implementing-cloud-security-principles), information risk assessment techniques and shared data within HMG.
+MoJ assesses commodity digital technology supply chain such as Software-as-a-Service \(SaaS\) tools such as Google Workspace, Microsoft Office 365, Trello and AtlassianCloud based on the [Cloud Security Principles](https://www.ncsc.gov.uk/guidance/implementing-cloud-security-principles), information risk assessment techniques and shared data within HMG.
 
