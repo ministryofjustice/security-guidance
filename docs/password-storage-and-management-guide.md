@@ -10,11 +10,11 @@ This guide has been written in alignment with [NCSC guidance](https://www.ncsc.g
 
 ## Password storage
 
-Passwords must be securely stored within MoJ approved storage tools. The following tool is approved for use:
+Passwords must be securely stored within MoJ approved storage tools. The following tool is approved and preferred for use:
 
 -   [LastPass](using-lastpass.md)
 
-Contact the Cyber Assistance Team \([CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)\) if you want to use a different storage tool.
+Contact the Cyber Assistance Team \([CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)\) if you have a specialist need to use a different storage tool.
 
 ## Sharing passwords
 
@@ -43,16 +43,16 @@ A shared password must be:
 
 A password vault is a tool that stores passwords and other high-value secrets or credentials in an encrypted form. A password manager provides extra user-friendly tools for working with a password vault, for example helping you log in to applications or websites using the credentials stored within the vault. Password managers allow you to keep track of multiple passwords and avoid weak passwords.
 
-The MoJ recognises the use of the following password managers and password vaults:
+The MoJ prefers [LastPass](using-lastpass.md) for Team use, or business use by an individual.
 
-|Password managers for personal or team use|Password Vaults|
-|:-----------------------------------------|:--------------|
-|Lastpass|Hashicorp Vault|
-|1Password|Kubernetes Secrets|
-||AWS Key Management|
-||Azure Key Vault|
+Some teams, particularly service development and administration, have specialised needs that make other password vault tools more suitable. These project-specific tools include:
 
-For further guidance on password strength, see the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md). Contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk) if you want to use a different password manager or vault.
+-   AWS Key Management
+-   Azure Key Vault
+-   Hashicorp Vault
+-   Kubernetes Secrets
+
+For further guidance on password strength, see the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md). Contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk) if you have a specialised need to use a different password manager or vault.
 
 ## Contact details
 
