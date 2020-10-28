@@ -23,7 +23,7 @@ The Remote Working Guide gives you advice and guidance on the main security issu
 
 ## Audience
 
-This guide applies to all staff in the MoJ, its Agencies, Associated Offices and Arm’s Length Bodies \(ALBs\), including contractors, agency and casual staff and service providers, who use computing equipment provided by the Department for remote working or mobile computing, or process any departmental information while working remotely or while using MoJ mobile computing equipment.
+This guide applies to all staff in the MoJ, its Agencies, Associated Offices and Arm's Length Bodies \(ALBs\), including contractors, agency and casual staff and service providers, who use computing equipment provided by the Department for remote working or mobile computing, or process any departmental information while working remotely or while using MoJ mobile computing equipment.
 
 ## What is remote working?
 
@@ -41,7 +41,7 @@ Remote working is when you work from any non-MoJ location, for example, working 
 
 -   Lock or log off your device when leaving it unattended. For long periods of non-use, shut down your device.
 
--   Keep your workspace clear and tidy - follow a 'clean desk policy', including paperwork, to ensure MoJ information isn’t seen by unauthorised people.
+-   Keep your workspace clear and tidy - follow a 'clean desk policy', including paperwork, to ensure MoJ information isn't seen by unauthorised people.
 
 -   Use MoJ IT equipment for business purposes in preference to your own equipment such as laptops or printers.
 
@@ -65,7 +65,7 @@ Remote working is when you work from any non-MoJ location, for example, working 
 
 ## Working securely
 
-It’s important to consider the security of how you work remotely.
+It's important to consider the security of how you work remotely.
 
 -   **Work locations** - as with home working above, you need to be equally, if not more, vigilant when working in public spaces.
 
@@ -111,7 +111,7 @@ Guidance and suggestions for improving Privacy appear throughout this guide, but
 
 -   Think about whether an unauthorised person, such as a family member, might see the information you are working with.
 
--   Don’t write down passwords. Use a password manager.
+-   Don't write down passwords. Use a password manager.
 
 
 ## Contacts for getting help

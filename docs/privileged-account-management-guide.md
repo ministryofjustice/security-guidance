@@ -19,9 +19,9 @@ Privileged accounts should be protected with the following controls.
 |✔ Ensure that MFA is used as a validation step, to confirm actions requested by users, such as a MFA re-prompt when attempting to delete or modify data.|
 |✔ Ensure that default passwords are managed as described in the [Password Manager guidance](password-managers.md).|
 
-|DON’T|
+|DON'T|
 |-----|
-|✖ Allow privileged users to use their privileged accounts for high-risk functions. These include reading emails, web browsing, using an ‘administrator’ login on an end-user device \(such as a mobile device\), or logging into a server as 'root'.|
+|✖ Allow privileged users to use their privileged accounts for high-risk functions. These include reading emails, web browsing, using an 'administrator' login on an end-user device \(such as a mobile device\), or logging into a server as 'root'.|
 |✖ Leave default or factory set passwords for any accounts but particularly for privileged system accounts, social media accounts and infrastructure.|
 |✖ Allow a user to have a privileged account, unless they are a service provider and require a privileged account for that specific service.|
 

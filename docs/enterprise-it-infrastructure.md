@@ -112,7 +112,7 @@ Where a end-user device VPN concentrator is in use, connection-related log data 
 1.  Success or unsuccess status
 2.  User/certificate identifier
 3.  Client IP address
-4.  Doncentrator identifier
+4.  Concentrator identifier
 
 ## Enhanced Maturity Tier
 

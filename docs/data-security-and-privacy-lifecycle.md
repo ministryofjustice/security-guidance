@@ -6,7 +6,7 @@ These measures can help simplify and ease the burden of embedding data security 
 
 ## Pre-Discovery and Discovery
 
-Assess the data security and privacy implications of the project requirements thoroughly. Do this as part of the broader work addressing the project’s strategic imperatives.
+Assess the data security and privacy implications of the project requirements thoroughly. Do this as part of the broader work addressing the project's strategic imperatives.
 
 In particular:
 

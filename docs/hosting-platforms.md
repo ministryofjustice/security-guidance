@@ -177,7 +177,7 @@ Security log data \(as defined by the vendor\) must be created and forwarded.
 
 Log Collection Principle\(s\): 6
 
-Security-related logs, as defined by [NCSC’s Logging Made Easy template](https://github.com/ukncsc/), from all end-user devices operating a Microsoft Windows operating system must be created and forwarded.
+Security-related logs, as defined by [NCSC's Logging Made Easy template](https://github.com/ukncsc/), from all end-user devices operating a Microsoft Windows operating system must be created and forwarded.
 
 ### 6. Mobile device enrollment activity
 

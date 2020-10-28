@@ -20,7 +20,7 @@ Any security log data collected must comply with these metadata standards to ens
 
     -   7: +-hhmm is the time zone
 
--   b: systems must use an automated time syncing protocol \(such as NTP\) with an external time source to ensure it is not subject to ‘time drift’ that may impact the accuracy of time stamping.
+-   b: systems must use an automated time syncing protocol \(such as NTP\) with an external time source to ensure it is not subject to 'time drift' that may impact the accuracy of time stamping.
 
 
 ## Formats
