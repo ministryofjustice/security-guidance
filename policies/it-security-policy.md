@@ -190,7 +190,9 @@ The MoJ risk assessment and information assurance is defined in the [Information
 
 ### Audit
 
-A security audit is a systematic evaluation of the MoJ's IT security management system which is performed to maintain effective security policies and practices. When conducting an audit:
+A security audit is a systematic evaluation of the MoJ's IT security management system which is performed to maintain effective security policies and practices. These checks may be subject to self or peer audit by operational line management, contract managers or HQ managers, as judged to be appropriate by the managers with responsibility for delivery.  For instance, checks on Information Asset Registers and Information Risk Registers should be carried out quarterly but other information assurance checks may be carried out less frequently  or triggered by events such as contract renewals.
+
+When conducting an audit:
 
 - documentary evidence must be made available to auditors upon request
 - details provided should include the implementation of any technical security control in an IT system documentary evidence of changes must be reviewed

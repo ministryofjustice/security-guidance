@@ -10,7 +10,7 @@ Target audience:
 
 ## Introduction
 
-This guide outlines the security procedures and advice that privileged users should follow to access the MoJ's IT systems in a safe and secure manner. Privileged users are those who have elevated levels of system access in order to manage IT system components to meet MoJ IT service requirements. Privileged users may install software, configure and upgrade IT systems, input into the Service Management Tool for the systems they manage and run day-to-day operations to satisfy continuity of service, recovery, security and performance needs.
+This guide outlines the security procedures and advice that privileged users should follow to access the MoJ's IT systems in a safe and secure manner. Privileged users are those who have elevated levels of system access in order to manage IT system components to meet MoJ IT service requirements. Privileged users may, for example, install software, configure and upgrade IT systems, input into the Service Management Tool for the systems they manage and run day-to-day operations to satisfy continuity of service, recovery, security and performance needs.
 
 Specific responsibilities of individual privileged users are likely to vary depending on the systems they manage. The system's Information Risk Assessment Report (IRAR) will document the security controls, some of which the system's privileged users will run. For a comprehensive list of individual responsibilities, privileged users should refer to the system specific documentation. This page is the first in a series of guides for privileged users within the MoJ.
 
@@ -25,6 +25,7 @@ This guide is aimed at two audiences:
 
 For further details about privileged user responsibilities, see the guides below.
 
+- [privileged Account Management Guide](privileged-account-management-guide.md): provides the guidelines to ensure that privileged accounts are securely managed.
 - [Logging Guide](privileged-user-logging-and-protective-monitoring-guide.md): provides information about security procedures privileged users should implement to conduct logging activities.
 - [Backups, Removable Media and Incident Management Guide](privileged-user-backups-removable-media-and-incident-management-guide.md): provides information that privileged users should follow to reduce the impact of and respond to a security incident.
 - [Configuration, Patching and Change Management Guide](privileged-user-configuration-patching-and-change-management-guide.md): provides privileged users with guidance to ensure that systems are configured securely, change is managed correctly and systems are patched regularly.
@@ -37,9 +38,10 @@ Privileged user accounts have a high degree of risk associated with them due to 
 - They should be strictly controlled and their number kept to the absolute minimum per system or app.
 - Privileged user passwords must be created in line with the MoJ's [Password Guide](password-creation-and-authentication-guide.md).
 - The password for a privileged user account must not be re-used for another privileged user account or a normal user account.
-- Privileged access must be limited and granted on a 'need to know' basis for a specified period.
-- Multi Factor Authentication (MFA) must be used as an additional layer of authentication  for privileged user accounts. See the [Password Guide](password-creation-and-authentication-guide.md) for further details.
 - Privileged user passwords must be deleted along with the account when a privileged user leaves the MoJ or changes role.
+- Privileged access must be limited and granted on a 'need to know' basis for a specified period.
+- Privileged user accounts on depreciated systems must be reviewed quarterly for breach as aging systems frequently cannot be, or are not, patched leaving them vulnerable to take over.
+- Multi Factor Authentication (MFA) must be used as an additional layer of authentication for privileged user accounts. See the [Password Guide](password-creation-and-authentication-guide.md) for further details.
 - Privileged user accounts must only be used when carrying out administrative tasks such as creating new user accounts or implementing software updates. At all other times a normal user account must be used, e.g. for tasks such as searching the internet and reading emails.
 
 For further information on managing privileged user accounts see the [Configuration, Patching and Change Management Guide](privileged-user-configuration-patching-and-change-management-guide.md).
@@ -48,7 +50,7 @@ For further information on managing privileged user accounts see the [Configurat
 
 Where privileged users are responsible for monitoring system resources to ensure that the system is operating effectively and providing their intended function, defined system Key Performance Indicators (KPIs) should be used to monitor systems and ensure they are operating effectively. Privileged users should do this by:
 
-- monitoring and analysing data from each of the following categories in order to minimise, or prevent, system outages or slowdowns:
+- monitoring and analysing data from each of the following categories in order to observe malicious behaviour, and minimise, or prevent, system outages or slowdowns:
   * CPU usage
   * memory consumption
   * input/output operations
