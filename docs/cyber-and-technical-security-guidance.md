@@ -8,7 +8,7 @@ The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 28 October 2020.
+This guidance is dated: 29 October 2020.
 
 For convenience, offline versions of this guidance are available.
 
@@ -17,7 +17,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 28 November 2020.
+The offline versions of this guidance are time-limited, and are not valid after 29 November 2020.
 
 ### Getting in touch
 
@@ -96,6 +96,9 @@ The documents have been developed and defined within this taxonomy, and are list
 |||[Secure by Default](secure-by-default.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Shared Responsibility Models](shared-responsibility-models.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Standards Assurance Tables](standards-assurance-tables.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Technical Security Controls Guide](technical-security-controls-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Technical Security Controls Guide: Defensive Layer 1](technical-security-controls-guide-defensive-layer-1.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Technical Security Controls Guide: Defensive Layer 2](technical-security-controls-guide-defensive-layer-2.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 ||Data and information|||
 |||[Data Destruction](data-destruction.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Data Destruction: Contract Clauses - Definitions](data-destruction-contract-clauses-definitions.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|

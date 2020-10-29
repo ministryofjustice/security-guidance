@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="technical-security-controls-guide">
+  <title>Technical Security Controls Guide</title>
+  <body/>
+  <topic id="introduction">
+    <title>Introduction</title>
+    <body>
+      <p>This guide explains the technical security controls that should be implemented on information systems developed, procured or operated by the <ph conref="conrefs.dita#conrefs/mojlong"/> or on its behalf.
+      This guide aligns with <xref href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf" format="pdf" scope="external">NIST 800-53</xref> and the NCSC <xref href="https://www.ncsc.gov.uk/collection/caf/cyber-safety-introduction" format="html" scope="external">Cyber Assessment Framework (CAF)</xref>.
+      The guidance provides the <ph conref="conrefs.dita#conrefs/moj"/> with 3 phases or layers of defence.
+      These controls must be implemented to ensure the <ph conref="conrefs.dita#conrefs/moj"/>'s network infrastructure is secure.</p>
+    </body>
+  </topic>
+  <topic id="who-is-this-guide-for">
+    <title>Who is this guide for?</title>
+    <body>
+      <p>This guide has two audiences:</p>
+      <ol>
+        <li>The in-house <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation.
+        This includes DevOps, Software Developers, Technical Architects and Service Owners.
+        It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge (EPICK) Team.</li>
+        <li>Any other <ph conref="conrefs.dita#conrefs/moj"/> business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the MoJ.</li>
+      </ol>
+    </body>
+  </topic>
+  <topic id="what-is-an-moj-system">
+    <title>What is an <ph conref="conrefs.dita#conrefs/moj"/> 'system'?</title>
+    <body>
+      <p>Within this guide, a system includes:</p>
+      <ul>
+        <li>Hardware - laptops, desktop PCs, servers, mobile devices, network devices, and any other IT equipment.</li>
+        <li>Software - such as operating system (OS) and applications (both web-based and locally installed).</li>
+        <li>Services - such as remote databases or cloud-based tools like Slack.</li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="related-guides">
+    <title>Related guides</title>
+    <body>
+      <p><xref href="technical-security-controls-guide-defensive-layer-1.dita" format="dita" type="topic">Defensive Layer 1: Creating a baseline security environment</xref>
+Layer 1 sets out the technical controls required to build strong network foundations, including secure configuration and software development.</p>
+      <p><xref href="technical-security-controls-guide-defensive-layer-2.dita" format="dita" type="topic">Defensive Layer 2: Implementing monitoring capabilities</xref>
+Layer 2 builds a monitoring capability for the network and extends existing security controls to mobile devices.</p>
+    </body>
+  </topic>
+</topic>

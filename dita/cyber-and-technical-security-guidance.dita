@@ -482,6 +482,30 @@ has made for the products we operate, and our relationships with suppliers.</p>
 								</entry>
 								<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 							</row>
+							<row audience="audience-tech">
+								<entry colname="col1"> </entry>
+								<entry colname="col2"> </entry>
+								<entry colname="col3">
+									<xref href="technical-security-controls-guide.dita" format="dita">Technical Security Controls Guide</xref>
+								</entry>
+								<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							</row>
+							<row audience="audience-tech">
+								<entry colname="col1"> </entry>
+								<entry colname="col2"> </entry>
+								<entry colname="col3">
+									<xref href="technical-security-controls-guide-defensive-layer-1.dita" format="dita">Technical Security Controls Guide: Defensive Layer 1</xref>
+								</entry>
+								<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							</row>
+							<row audience="audience-tech">
+								<entry colname="col1"> </entry>
+								<entry colname="col2"> </entry>
+								<entry colname="col3">
+									<xref href="technical-security-controls-guide-defensive-layer-2.dita" format="dita">Technical Security Controls Guide: Defensive Layer 2</xref>
+								</entry>
+								<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							</row>
 <!--   Data and information -->
 							<row>
 								<entry colname="col1"> </entry>

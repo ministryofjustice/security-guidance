@@ -58,6 +58,10 @@
 			<topicref href="secure-by-default.dita" type="topic" audience="audience-tech"/>
 			<topicref href="shared-responsibility-models.dita" type="topic" audience="audience-tech"/>
 			<topicref href="standards-assurance-tables.dita" type="topic" audience="audience-tech"/>
+			<topicref href="technical-security-controls-guide.dita" type="topic" audience="audience-tech">
+				<topicref href="technical-security-controls-guide-defensive-layer-1.dita" type="topic" audience="audience-tech"/>
+				<topicref href="technical-security-controls-guide-defensive-layer-2.dita" type="topic" audience="audience-tech"/>
+			</topicref>
 		</topichead>
 		<topichead navtitle="Data and information">
 			<topichead navtitle="Data Destruction" audience="audience-tech">
