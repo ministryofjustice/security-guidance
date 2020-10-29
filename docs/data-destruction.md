@@ -4,7 +4,7 @@
 
 ## The base principle
 
-For legislative, regulative, privacy and security purposes, it **must** be possible to decommission and delete \(irreversibly ‘erase’ or ‘destroy’\) data and confirm to a degree of relative confidence it has been completed.
+For legislative, regulative, privacy and security purposes, it **must** be possible to decommission and delete \(irreversibly 'erase' or 'destroy'\) data and confirm to a degree of relative confidence it has been completed.
 
 Data should be erased from all related systems, such as disaster recovery, backup and archival, subject to reasonable data lifecycle caveats.
 

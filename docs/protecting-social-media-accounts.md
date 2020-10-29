@@ -25,7 +25,7 @@ Two Factor Authentication \(2FA\) involves requiring a random code to be entered
 
 If at all possible, SMS generation should be avoided, as it is theoretically possible for phone numbers to be taken over through various attacks, as well as meaning that only one person can receive the code, which isn't ideal if a team is working on a single account.
 
-If you’re using email, then it can be sent to a group account, which also allows for multiple owners or contributors - but it's important to ensure that the email is also protected by 2FA.
+If you're using email, then it can be sent to a group account, which also allows for multiple owners or contributors - but it's important to ensure that the email is also protected by 2FA.
 
 If you have a spare 10 minutes, watch [this video](https://www.youtube.com/watch?v=hGRii5f_uSc) for an excellent explanation of how 2FA works and why it's important to have it enabled.
 

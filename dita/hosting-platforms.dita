@@ -14,146 +14,78 @@
       <body>
         <p>Log Collection Principle(s): 1, 2</p>
         <p>User directory services must create and forward Authentication and Authorisation events from the directory service itself.</p>
-        <p>User directories within hosting environments can be rich and diverse, such technologies include:</p>
+        <p>User directories within hosting environments can be rich and diverse, such technologies include:
         <ul>
-          <li>
-            <p>Active Directory (AD)</p>
+          <li>Active Directory (AD)</li>
+          <li>Azure Active Directory</li>
+          <li>OpenLDAP</li>
+          <li>Amazon Web Services (Accounts and Incognito)</li>
+          <li>Okta</li>
+          <li>Auth0</li>
+          <li>Github.com (acting as an identity provider)</li>
+          <li><ph conref="conrefs.dita#conrefs/gsuite"/> (acting as an identity provider)</li>
+          <li>Local user stores within operating systems</li>
+        </ul></p>
+        <p>These event types must be logged and forwarded:
+        <ol>
+          <li>Account creation</li>
+          <li>Account lockout</li>
+          <li>Account reinstatement</li>
+          <li>Account authentication failures</li>
+          <li>Account authentication successes after 1 or more failures</li>
+          <li>Account password changes</li>
+          <li>Group membership addition / deletion (in particular, any group that gives admin access)</li>
+          <li>Group creation</li>
+          <li>Privilege modification for users (for example, role delegation through AWS IAM)</li>
+          <li>Multi-factor authentication state, such as:
+            <ol>
+              <li>Enabled</li>
+              <li>Disabled</li>
+              <li>Reset/rotation</li>
+              <li>Recovery method used</li>
+            </ol>
           </li>
-          <li>
-            <p>Azure Active Directory</p>
-          </li>
-          <li>
-            <p>OpenLDAP</p>
-          </li>
-          <li>
-            <p>Amazon Web Services (Accounts and Incognito)</p>
-          </li>
-          <li>
-            <p>Okta</p>
-          </li>
-          <li>
-            <p>Auth0</p>
-          </li>
-          <li>
-            <p>Github.com (acting as an identity provider)</p>
-          </li>
-          <li>
-            <p>Google G-Suite (acting as an identity provider)</p>
-          </li>
-          <li>
-            <p>Local user stores within operating systems</p>
-          </li>
-        </ul>
-        <p>These event types must be logged and forward:</p>
-        <ul>
-          <li>
-            <p>a: account creation</p>
-          </li>
-          <li>
-            <p>b: account lockout</p>
-          </li>
-          <li>
-            <p>c: account reinstatement</p>
-          </li>
-          <li>
-            <p>d: account authentication failures</p>
-          </li>
-          <li>
-            <p>e: account authentication successes after 1 or more failures</p>
-          </li>
-          <li>
-            <p>f: account password changes</p>
-          </li>
-          <li>
-            <p>g: group membership addition / deletion (in particular, any group that gives admin access)</p>
-          </li>
-          <li>
-            <p>h: group creation</p>
-          </li>
-          <li>
-            <p>i: privilege modification for users (for example, role delegation through AWS IAM)</p>
-          </li>
-          <li>
-            <p>k: multi-factor authentication state, such as:</p>
-            <ul>
-              <li>
-                <p>1: enabled</p>
-              </li>
-              <li>
-                <p>2: revoked</p>
-              </li>
-              <li>
-                <p>3: reset/rotation</p>
-              </li>
-              <li>
-                <p>4: recovery method used</p>
-              </li>
-            </ul>
-          </li>
-        </ul>
+        </ol></p>
       </body>
     </topic>
     <topic id="bastionjumpaction-proxy-services">
       <title>2. Bastion/Jump/Action-proxy services</title>
       <body>
         <p>Log Collection Principle(s): 1, 2, 6</p>
-        <p>Bastion/jump boxes that act as a management consolidation route and should be highly auditable therefore must create and forward security-related event data.</p>
-        <ul>
-          <li>
-            <p>a: SSH keypair generation/revocation, including:</p>
-            <ul>
-              <li>
-                <p>1: public key</p>
-              </li>
-              <li>
-                <p>2: keypair ‘friendly name’ / identifier</p>
-              </li>
-            </ul>
+        <p>Bastion/jump boxes that act as a management consolidation route and should be highly auditable therefore must create and forward security-related event data:
+        <ol>
+          <li>SSH keypair generation/revocation, including:
+            <ol>
+              <li>Public key</li>
+              <li>Keypair 'friendly name' / identifier</li>
+            </ol>
           </li>
-          <li>
-            <p>b: account login attempts</p>
-            <ul>
-              <li>
-                <p>1: public key</p>
-              </li>
-              <li>
-                <p>2: username</p>
-              </li>
-            </ul>
+          <li>Account login attempts:
+            <ol>
+              <li>Public key</li>
+              <li>Username</li>
+            </ol>
           </li>
-        </ul>
+        </ol></p>
       </body>
     </topic>
     <topic id="domain-name-service-query-logs">
       <title>3. Domain name service query logs</title>
       <body>
         <p>Log Collection Principle(s): 4</p>
-        <p>DNS query logs must be created and forwarded.</p>
-        <ul>
-          <li>
-            <p>a: client IP address</p>
+        <p>DNS query logs must be created and forwarded:
+        <ol>
+          <li>Client IP address</li>
+          <li>Query</li>
+          <li>Query response content including:
+            <ol>
+              <li>Returned record(s) or NXDOMAIN</li>
+              <li>Authoritative nameserver</li>
+            </ol>
           </li>
-          <li>
-            <p>b: query</p>
-          </li>
-          <li>
-            <p>c: query response content including</p>
-            <ul>
-              <li>
-                <p>1: returned record(s) or NXDOMAIN</p>
-              </li>
-              <li>
-                <p>2: authoritative nameserver</p>
-              </li>
-            </ul>
-          </li>
-          <li>
-            <p>d: query response code</p>
-          </li>
-          <li>
-            <p>e: zone and/or view identifier (if local zone response and/or multiview)</p>
-          </li>
-        </ul>
+          <li>Query response code</li>
+          <li>Zone and/or view identifier (if local zone response and/or multiview)</li>
+        </ol></p>
         <p>This remains true for where nodes (for example, servers) may bypass internal DNS services.</p>
       </body>
     </topic>
@@ -161,184 +93,111 @@
       <title>4. Web proxy access logs</title>
       <body>
         <p>Log Collection Principle(s): 5</p>
-        <p>Where web traffic proxies exist, access logs should be created and forward and must, include the following variables.</p>
-        <ul>
-          <li>
-            <p>a: authenticated user name (if applicable)</p>
+        <p>Where web traffic proxies exist, access logs should be created and forward and must, include the following variables:
+        <ol>
+          <li>Authenticated user name (if applicable)</li>
+          <li>Client identifiers:
+            <ol>
+              <li>IP address</li>
+              <li>Reverse lookup client name (if applicable)</li>
+            </ol>
           </li>
-          <li>
-            <p>b: client identifiers:</p>
-            <ul>
-              <li>
-                <p>1: IP address</p>
-              </li>
-              <li>
-                <p>2: reverse lookup client name (if applicable)</p>
-              </li>
-            </ul>
-          </li>
-          <li>
-            <p>c: HTTP method (for example, CONNECT GET)</p>
-          </li>
-          <li>
-            <p>d: Where available, full destination/target URL or SNI value</p>
-          </li>
-          <li>
-            <p>e: connection return status code (for example, 200 or 403)</p>
-          </li>
-          <li>
-            <p>f: size of response</p>
-          </li>
-        </ul>
+          <li>HTTP method (for example, CONNECT GET)</li>
+          <li>Where available, full destination/target URL or SNI value</li>
+          <li>Connection return status code (for example, 200 or 403)</li>
+          <li>Size of response</li>
+        </ol></p>
       </body>
     </topic>
     <topic id="hypervisor-events">
       <title>5. Hypervisor events</title>
       <body>
         <p>Log Collection Principle(s): 3, 6</p>
-        <p>Hypervisors manage virtualised compute resources and are entrusted to segregate the same. All instructions to hypervisors should be highly auditable.</p>
-        <ul>
-          <li>
-            <p>a: virtual machine creation (including templates)</p>
+        <p>Hypervisors manage virtualised compute resources and are entrusted to segregate the same. All instructions to hypervisors should be highly auditable.
+        <ol>
+          <li>Virtual machine creation (including templates)
+            <ol>
+              <li>Identifier(s)</li>
+              <li>Operating system image information</li>
+            </ol>
+          </li>
+          <li>Virtual machine 'power' events:
+            <ol>
+              <li>Identifier(s)</li>
+              <li>'Power' on</li>
+              <li>'Power' off (including restart flag)</li>
+            </ol>
+          </li>
+          <li>Virtual machine deletion
             <ul>
-              <li>
-                <p>1: identifier(s)</p>
-              </li>
-              <li>
-                <p>2: operating system image information</p>
-              </li>
+              <li>Identifier(s)</li>
             </ul>
           </li>
-          <li>
-            <p>b: virtual machine ‘power’ events</p>
-            <ul>
-              <li>
-                <p>1: identifier(s)</p>
-              </li>
-              <li>
-                <p>2: ‘power’ on</p>
-              </li>
-              <li>
-                <p>3: ‘power’ off (including restart flag)</p>
-              </li>
-            </ul>
+          <li>Virtual machine resource modification events:
+            <ol>
+              <li>CPU addition/removal</li>
+              <li>RAM addition/removal</li>
+              <li>Networking additional/removal</li>
+              <li>Storage mount/dismount/resize</li>
+            </ol>
           </li>
-          <li>
-            <p>c: virtual machine deletion</p>
-            <ul>
-              <li>
-                <p>1: identifier(s)</p>
-              </li>
-            </ul>
-          </li>
-          <li>
-            <p>d: virtual machine resource modification events:</p>
-            <ul>
-              <li>
-                <p>1: CPU addition/removal</p>
-              </li>
-              <li>
-                <p>2: RAM addition/removal</p>
-              </li>
-              <li>
-                <p>3: Networking additional/removal</p>
-              </li>
-              <li>
-                <p>4: Storage mount/dismount/resize</p>
-              </li>
-            </ul>
-          </li>
-        </ul>
+        </ol></p>
       </body>
     </topic>
     <topic id="orchestrator-events">
       <title>6. Orchestrator events</title>
       <body>
         <p>Log Collection Principle(s): 3, 6</p>
-        <p>Orchestrators such as Cloud Foundry and Kubernetes create and manage a variety of technology resources to facilitate an application environment.</p>
-        <ul>
-          <li>
-            <p>a: resource creation (including templates)</p>
+        <p>Orchestrators such as Cloud Foundry and Kubernetes create and manage a variety of technology resources to facilitate an application environment.
+        <ol>
+          <li>Resource creation (including templates)
+            <ol>
+              <li>Identifier(s)</li>
+              <li>Resource type</li>
+              <li>Operating system image information (if applicable)</li>
+            </ol>
+          </li>
+          <li>Container 'power' events
+            <ol>
+              <li>Identifier(s)</li>
+              <li>'Power' on</li>
+              <li>'Power' off (including restart flag)</li>
+            </ol>
+          </li>
+          <li>Resource deletion
             <ul>
-              <li>
-                <p>1: identifier(s)</p>
-              </li>
-              <li>
-                <p>2: resource type</p>
-              </li>
-              <li>
-                <p>3: operating system image information (if applicable)</p>
-              </li>
+              <li>Identifier(s)</li>
             </ul>
           </li>
-          <li>
-            <p>b: container ‘power’ events</p>
+          <li>Resource modification events:
             <ul>
-              <li>
-                <p>1: identifier(s)</p>
-              </li>
-              <li>
-                <p>2: ‘power’ on</p>
-              </li>
-              <li>
-                <p>3: ‘power’ off (including restart flag)</p>
-              </li>
+              <li>Identifier(s)</li>
             </ul>
           </li>
-          <li>
-            <p>c: resource deletion</p>
-            <ul>
-              <li>
-                <p>1: identifier(s)</p>
-              </li>
-            </ul>
-          </li>
-          <li>
-            <p>e: resource modification events:</p>
-            <ul>
-              <li>
-                <p>1: identifier(s)</p>
-              </li>
-            </ul>
-          </li>
-        </ul>
+        </ol></p>
       </body>
     </topic>
     <topic id="allocation-of-ip-address-leases-from-dhcp-services">
       <title>7. Allocation of IP address leases from DHCP services</title>
       <body>
         <p>Log Collection Principle(s): 3, 5</p>
-        <p>DHCP services must be configured to create and forward the following:</p>
-        <ul>
-          <li>
-            <p>a: successful client DHCP requests, including:</p>
-            <ul>
-              <li>
-                <p>1: Requesting client MAC address</p>
-              </li>
-              <li>
-                <p>2: DHCP scope identifier</p>
-              </li>
-              <li>
-                <p>3: IP address leased</p>
-              </li>
-              <li>
-                <p>4: IP address lease duration</p>
-              </li>
-            </ul>
+        <p>DHCP services must be configured to create and forward the following:
+        <ol>
+          <li>Successful client DHCP requests, including:
+            <ol>
+              <li>Requesting client MAC address</li>
+              <li>DHCP scope identifier</li>
+              <li>IP address leased</li>
+              <li>IP address lease duration</li>
+            </ol>
           </li>
-          <li>
-            <p>b: unsuccessful client DHCP requests, including:</p>
-            <ul>
-              <li>
-                <p>1: Requesting client MAC address</p>
-              </li>
-              <li>
-                <p>2: DHCP scope identifier (if applicable for unsuccessful request)</p>
-              </li>
-            </ul>
+          <li>Unsuccessful client DHCP requests, including:
+            <ol>
+              <li>Requesting client MAC address</li>
+              <li>DHCP scope identifier (if applicable for unsuccessful request)</li>
+            </ol>
           </li>
-        </ul>
+        </ol></p>
       </body>
     </topic>
   </topic>
@@ -349,35 +208,20 @@
       <title>1. Firewall log data for denied network traffic</title>
       <body>
         <p>Log Collection Principle(s): 5</p>
-        <p>All firewall <codeph>DENY</codeph> log data must be forwarded.</p>
-        <ul>
-          <li>
-            <p>a: client IP address</p>
+        <p>All firewall <codeph>DENY</codeph> log data must be forwarded.
+        <ol>
+          <li>Client IP address</li>
+          <li>Firewall/router identifier</li>
+          <li>Request response code</li>
+          <li>Request content, including:
+            <ol>
+              <li>IP protocol (for example, ICMP)</li>
+              <li>Destination/target port</li>
+              <li>Destination/target IP address</li>
+              <li>Destination/target hostname address (if reverse lookup performed)</li>
+            </ol>
           </li>
-          <li>
-            <p>b: firewall/router identifier</p>
-          </li>
-          <li>
-            <p>c: request response code</p>
-          </li>
-          <li>
-            <p>d: request content, including:</p>
-            <ul>
-              <li>
-                <p>1: IP protocol (for example, ICMP)</p>
-              </li>
-              <li>
-                <p>2: destination/target port</p>
-              </li>
-              <li>
-                <p>3: destination/target IP address</p>
-              </li>
-              <li>
-                <p>4: destination/target hostname address (if reverse lookup performed)</p>
-              </li>
-            </ul>
-          </li>
-        </ul>
+        </ol></p>
       </body>
     </topic>
     <topic id="internal-dns-namespace-zone-content">
@@ -405,77 +249,53 @@
       <title>5. Security-related logs for all Windows-based end-user devices</title>
       <body>
         <p>Log Collection Principle(s): 6</p>
-        <p>Security-related logs, as defined by <xref href="https://github.com/ukncsc/" format="html" scope="external">NCSC’s Logging Made Easy template</xref>, from all end-user devices operating a Microsoft Windows operating system must be created and forwarded.</p>
+        <p>Security-related logs, as defined by <xref href="https://github.com/ukncsc/" format="html" scope="external">NCSC's Logging Made Easy template</xref>, from all end-user devices operating a Microsoft Windows operating system must be created and forwarded.</p>
       </body>
     </topic>
     <topic id="mobile-device-enrollment-activity">
       <title>6. Mobile device enrollment activity</title>
       <body>
         <p>Log Collection Principle(s): 1, 2, 3, 6</p>
-        <p>Where a mobile device management solution is used and end-user devices register/enrol and de-register/de-enrol with it, enrollment data should be created in and forwarded.</p>
-        <ul>
-          <li>
-            <p>a: enrolment or un-enrolment event type</p>
-          </li>
-          <li>
-            <p>b: end-user device identifier(s), such as client IP address and/or MAC address and/or assigned DHCP name</p>
-          </li>
-          <li>
-            <p>c: end-user account name (if applicable)</p>
-          </li>
-        </ul>
+        <p>Where a mobile device management solution is used and end-user devices register/enrol and de-register/de-enrol with it, enrollment data should be created in and forwarded.
+        <ol>
+          <li>Enrolment or un-enrolment event type</li>
+          <li>End-user device identifier(s), such as client IP address and/or MAC address and/or assigned DHCP name</li>
+          <li>End-user account name (if applicable)</li>
+        </ol></p>
       </body>
     </topic>
     <topic id="vpn-concentrator-activity-data">
       <title>7. VPN concentrator activity data</title>
       <body>
         <p>Log Collection Principle(s): 3, 5</p>
-        <p>Where VPN services are in use, connection-related log data must be created and forwarded.</p>
-        <ul>
-          <li>
-            <p>a: success or unsuccess status</p>
-          </li>
-          <li>
-            <p>b: user/certificate identifier</p>
-          </li>
-          <li>
-            <p>c: client IP address</p>
-          </li>
-          <li>
-            <p>d: concentrator identifier</p>
-          </li>
-        </ul>
+        <p>Where VPN services are in use, connection-related log data must be created and forwarded.
+        <ol>
+          <li>Success or unsuccess status</li>
+          <li>User/certificate identifier</li>
+          <li>Client IP address</li>
+          <li>Concentrator identifier</li>
+        </ol></p>
       </body>
     </topic>
     <topic id="pipeline-events">
       <title>8. Pipeline events</title>
       <body>
         <p>Log Collection Principle(s): 1, 2, 3, 6</p>
-        <p>Continuous integration and continuous deployment pipelines obey instructions to manage hosting environments and are a privileged position to oversee all tenant resources, they must be highly auditable to clarify activity and attribute the same.</p>
-        <ul>
-          <li>
-            <p>a: source identifier(s)</p>
-            <ul>
-              <li>
-                <p>1: user(s)</p>
-              </li>
-              <li>
-                <p>2: repository</p>
-              </li>
-            </ul>
+        <p>Continuous integration and continuous deployment pipelines obey instructions to manage hosting environments and are a privileged position to oversee all tenant resources, they must be highly auditable to clarify activity and attribute the same.
+        <ol>
+          <li>Source identifier(s)
+            <ol>
+              <li>User(s)</li>
+              <li>Repository</li>
+            </ol>
           </li>
-          <li>
-            <p>b: activity events</p>
-            <ul>
-              <li>
-                <p>1: resource creation</p>
-              </li>
-              <li>
-                <p>2: resource destruction</p>
-              </li>
-            </ul>
+          <li>Activity events
+            <ol>
+              <li>Resource creation</li>
+              <li>Resource destruction</li>
+            </ol>
           </li>
-        </ul>
+        </ol></p>
       </body>
     </topic>
   </topic>

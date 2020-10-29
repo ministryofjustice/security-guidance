@@ -18,7 +18,7 @@
   <topic id="commodity-digital-technology">
     <title>Commodity digital technology</title>
     <body>
-      <p><ph conref="conrefs.dita#conrefs/moj"/> assesses commodity digital technology supply chain such as Software-as-a-Service (SaaS) tools such as Google G-Suite, Microsoft Office 365, Trello and AtlassianCloud based on the <xref href="https://www.ncsc.gov.uk/guidance/implementing-cloud-security-principles" format="html" scope="external">Cloud Security Principles</xref>, information risk assessment techniques and shared data within HMG.</p>
+      <p><ph conref="conrefs.dita#conrefs/moj"/> assesses commodity digital technology supply chain such as Software-as-a-Service (SaaS) tools such as <ph conref="conrefs.dita#conrefs/gsuite"/>, Microsoft Office 365, Trello and AtlassianCloud based on the <xref href="https://www.ncsc.gov.uk/guidance/implementing-cloud-security-principles" format="html" scope="external">Cloud Security Principles</xref>, information risk assessment techniques and shared data within HMG.</p>
     </body>
   </topic>
 </topic>

@@ -18,7 +18,7 @@ For personal data, the EU General Data Protection Regulation \(GDPR\) and UK Dat
 
 To follow the data regulation/legislation, we **must** ensure that:
 
--   we protect data to the best of our organisation’s capabilities
+-   we protect data to the best of our organisation's capabilities
 -   we collect data only for described, lawful purposes
 -   we use data only for the described, lawful purposes
 

@@ -53,7 +53,7 @@
 				as it is theoretically possible for phone numbers to be taken over through various attacks,
 				as well as meaning that only one person can receive the code,
 				which isn't ideal if a team is working on a single account.</p>
-				<p>If you’re using email,
+				<p>If you're using email,
 				then it can be sent to a group account,
 				which also allows for multiple owners or contributors -
 				but it's important to ensure that the email is also protected by 2FA.</p>

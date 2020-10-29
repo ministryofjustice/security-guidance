@@ -17,6 +17,7 @@ For example:
 
 These event types must be logged and forward:
 
+<<<<<<< HEAD
 1.  Account creation.
 2.  Account lockout.
 3.  Account reinstatement.
@@ -32,12 +33,29 @@ These event types must be logged and forward:
     2.  Revoked.
     3.  Reset/rotation.
     4.  Recovery method used.
+=======
+1.  Account creation
+2.  Account lockout
+3.  Account reinstatement
+4.  Account authentication failures
+5.  Account authentication successes after 1 or more failures
+6.  Account password changes
+7.  Group membership addition / deletion \(in particular, any group that gives admin access\)
+8.  Group creation
+9.  Privilege modification for users \(changes to ACL's, granting of new roles in RBAC models\)
+10. Privilege escalation events \(use of sudo, UAC\)
+11. Multi-factor authentication state, such as:
+    1.  Enabled
+    2.  Disabled
+    3.  Reset/rotation
+    4.  Recovery method used
+>>>>>>> main
 
 ### 2. Productivity Suite security logs
 
 Log Collection Principle\(s\): 1, 2, 3, 6
 
-Productivity suites \(such as Google G-Suite or Microsoft Office 365\) must create and forward all security-related log data \(as defined by the vendor\), including unsuccessful Authentication and Authorisation events.
+Productivity suites \(such as Google Workspace or Microsoft Office 365\) must create and forward all security-related log data \(as defined by the vendor\), including unsuccessful Authentication and Authorisation events.
 
 For example, within an Office 365 tenancy with Conditional Access enabled and set to require multi-factor authentication when a user device is perceived to be outside of the corporate network and such prompt is made and the outcome of that challenge.
 
@@ -47,6 +65,7 @@ Log Collection Principle\(s\): 4
 
 DNS query logs must be created and forwarded.
 
+<<<<<<< HEAD
 1.  Client IP address.
 2.  Query.
 3.  Query response content including:
@@ -54,6 +73,15 @@ DNS query logs must be created and forwarded.
     2.  Authoritative nameserver.
 4.  Query response code.
 5.  Zone and/or view identifier \(if local zone response and/or multiview\).
+=======
+1.  Client IP address
+2.  Query
+3.  Query response content including:
+    1.  Returned record\(s\) or NXDOMAIN
+    2.  Authoritative nameserver
+4.  Query response code
+5.  Zone and/or view identifier \(if local zone response and/or multiview\)
+>>>>>>> main
 
 This remains true for where nodes \(for example, servers\) may bypass internal DNS services.
 
@@ -63,12 +91,21 @@ Log Collection Principle\(s\): 5
 
 Where web traffic proxies exist, access logs must be created and forward and must, include the following variables:
 
+<<<<<<< HEAD
 1.  Authenticated user name.
 2.  Client IP address.
 3.  HTTP method \(for example, `CONNECT GET`\).
 4.  Full destination/target URL.
 5.  Connection return status code \(for example, 200 or 403\).
 6.  Size of response.
+=======
+1.  Authenticated user name
+2.  Client IP address
+3.  HTTP method \(for example, `CONNECT GET`\)
+4.  Full destination/target URL
+5.  Connection return status code \(for example, 200 or 403\)
+6.  Size of response
+>>>>>>> main
 
 ### 5. File server authentication, authorisation and access logs
 
@@ -76,9 +113,15 @@ Log Collection Principle\(s\): 6
 
 Where file service exist, sufficient log data must be created and forwarded, including sufficient data to satisfy the following:
 
+<<<<<<< HEAD
 1.  Detect permission changes and the user who changed such.
 2.  Detect all file/folder changes and the user who changed such.
 3.  Detect all file/folder read/open and the user who did such.
+=======
+1.  Detect permission changes and the user who changed such
+2.  Detect all file/folder changes and the user who changed such
+3.  Detect all file/folder read/open and the user who did such
+>>>>>>> main
 
 ### 6. Security-related event logs for all server operating systems
 
@@ -86,7 +129,11 @@ Log Collection Principle\(s\): 6
 
 Security-related event logs from all servers \(whether virtualised or physical\) operating in a 'server' role:
 
+<<<<<<< HEAD
 -   Additional information pending.
+=======
+-   \[additional information pending\]
+>>>>>>> main
 
 ### 7. Allocation of IP address leases from DHCP services
 
@@ -95,6 +142,7 @@ Log Collection Principle\(s\): 3, 5
 DHCP services must be configured to create and forward the following:
 
 1.  Successful client DHCP requests, including:
+<<<<<<< HEAD
     1.  Requesting client MAC address.
     2.  DHCP scope identifier.
     3.  IP address leased.
@@ -102,6 +150,15 @@ DHCP services must be configured to create and forward the following:
 2.  Unsuccessful client DHCP requests, including:
     1.  Requesting client MAC address.
     2.  DHCP scope identifier \(if applicable for unsuccessful request\).
+=======
+    1.  Requesting client MAC address
+    2.  DHCP scope identifier
+    3.  IP address leased
+    4.  IP address lease duration
+2.  Unsuccessful client DHCP requests, including:
+    1.  Requesting client MAC address
+    2.  DHCP scope identifier \(if applicable for unsuccessful request\)
+>>>>>>> main
 
 ### 8. VPN concentrator activity data
 
@@ -109,10 +166,17 @@ Log Collection Principle\(s\): 3, 5
 
 Where a end-user device VPN concentrator is in use, connection-related log data must be created and forwarded:
 
+<<<<<<< HEAD
 1.  Success or unsuccess status.
 2.  User/certificate identifier.
 3.  Client IP address.
 4.  Concentrator identifier.
+=======
+1.  Success or unsuccess status
+2.  User/certificate identifier
+3.  Client IP address
+4.  Concentrator identifier
+>>>>>>> main
 
 ## Enhanced Maturity Tier
 
@@ -122,6 +186,7 @@ Log Collection Principle\(s\): 5
 
 All firewall `DENY` log data must be forwarded:
 
+<<<<<<< HEAD
 1.  Client IP address.
 2.  Firewall/router identifier.
 3.  Request response code.
@@ -130,6 +195,16 @@ All firewall `DENY` log data must be forwarded:
     2.  Destination/target port.
     3.  Destination/target IP address.
     4.  Destination/target hostname address \(if reverse lookup performed\).
+=======
+1.  Client IP address
+2.  Firewall/router identifier
+3.  Request response code
+4.  Request content, including:
+    1.  IP protocol \(for example, ICMP\)
+    2.  Destination/target port
+    3.  Destination/target IP address
+    4.  Destination/target hostname address \(if reverse lookup performed\)
+>>>>>>> main
 
 ### 2. Internal DNS namespace zone content
 
@@ -155,7 +230,13 @@ Log Collection Principle\(s\): 1, 2, 3, 6
 
 Where a mobile device management solution is used and end-user devices register/enrol and de-register/de-enrol with it, enrollment data should be created in and forwarded:
 
+<<<<<<< HEAD
 1.  Enrolment or un-enrolment event type.
 2.  End-user device identifier\(s\), such as client IP address and/or MAC address and/or assigned DHCP name.
 3.  End-user account name \(if applicable\).
+=======
+1.  Enrolment or un-enrolment event type
+2.  End-user device identifier\(s\), such as client IP address and/or MAC address and/or assigned DHCP name
+3.  End-user account name \(if applicable\)
+>>>>>>> main
 

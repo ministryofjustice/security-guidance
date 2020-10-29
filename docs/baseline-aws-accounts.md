@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - /standards/baseline-aws-accounts/
+---
 # Baseline for Amazon Web Services accounts
 
 The Ministry of Justice \(MoJ\) has a 'lowest common denominator' for security-related promises, capabilities and configurations of MoJ Amazon Web Services \(AWS\) accounts.

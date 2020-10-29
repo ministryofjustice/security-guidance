@@ -12,7 +12,7 @@ Ensure that:
 
 -   Each product has a clear privacy notice, describing how any personal data is handled. The notice contains a clear description of what we will do with their information, why, and how. Write it in terminology the general public can understand.
 
--   Using an individual’s information is only for the specific purposes or processes for which it was captured. There should be no superfluous information stored.
+-   Using an individual's information is only for the specific purposes or processes for which it was captured. There should be no superfluous information stored.
 
 -   The privacy notice describes any use of information for management or reporting purposes. Anonymise any personal information used for these purposes. In other words, before use, remove any fields or data that could identify the individual.
 
@@ -29,7 +29,7 @@ Ensure that:
 
 -   The system can delete records automatically at the end of the retention period. It should also be possible to remove records manually if required.
 
--   Decisions or processes made using an individual’s information can be stopped upon request.
+-   Decisions or processes made using an individual's information can be stopped upon request.
 
 -   Ensure that information can be amended or re-examined manually, if necessary.
 
@@ -78,7 +78,7 @@ When developing a system, there are some measures you can take that will simplif
 
 ### Pre-Discovery and Discovery
 
-Assess the data security and privacy implications of the project requirements thoroughly. Do this as part of the broader work addressing the project’s strategic imperatives.
+Assess the data security and privacy implications of the project requirements thoroughly. Do this as part of the broader work addressing the project's strategic imperatives.
 
 In particular:
 
