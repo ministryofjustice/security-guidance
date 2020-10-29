@@ -21,15 +21,9 @@ A Privileged Account Management \(PAM\) tool provides the following controls to 
 
 |DON'T|
 |-----|
-<<<<<<< HEAD
 |✘ Allow privileged users to use their privileged accounts for high-risk functions. These include reading emails, web browsing, using an ‘administrator’ login on an end-user device \(such as a mobile device\), or logging into a server as 'root'.|
 |✘ Leave default or factory set passwords for any accounts but particularly for privileged system accounts, social media accounts and infrastructure.|
 |✘ Allow a user to have a privileged account, unless they are a service provider and require a privileged account for that specific service.|
-=======
-|✖ Allow privileged users to use their privileged accounts for high-risk functions. These include reading emails, web browsing, using an 'administrator' login on an end-user device \(such as a mobile device\), or logging into a server as 'root'.|
-|✖ Leave default or factory set passwords for any accounts but particularly for privileged system accounts, social media accounts and infrastructure.|
-|✖ Allow a user to have a privileged account, unless they are a service provider and require a privileged account for that specific service.|
->>>>>>> main
 
 For more information or help with Privileged Accounts, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 

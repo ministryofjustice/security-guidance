@@ -92,3 +92,4 @@ Temporary data stores \(such as intermediate queues\) and permanent data store \
 3.  Query.
 4.  Query response size.
 5.  Query response time.
+

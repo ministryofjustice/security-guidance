@@ -41,7 +41,7 @@
           <li>Multi-factor authentication state, such as:
             <ol>
               <li>Enabled</li>
-              <li>Disabled</li>
+              <li>Revoked</li>
               <li>Reset/rotation</li>
               <li>Recovery method used</li>
             </ol>

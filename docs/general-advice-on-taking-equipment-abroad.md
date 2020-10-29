@@ -51,7 +51,7 @@ If you are on official business:
 
 In the event that a device is removed out of your sight \(such as by a customs official\) then it should be considered compromised. You must [contact the Technology Service Desk immediately](#contacts) and report the device as potentially compromised.
 
-The Technology Service Desk will disable your ability to connect to the MoJ network from your device. Be aware that although the device will still work as a mobile phone, it should be treated as compromised and not used for any MoJ business.
+The Technology Service Desk will revoke your ability to connect to the MoJ network from your device. Be aware that although the device will still work as a mobile phone, it should be treated as compromised and not used for any MoJ business.
 
 ## Contacts for getting help
 

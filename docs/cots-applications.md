@@ -25,34 +25,20 @@ User directories within application environments can be rich and diverse, such t
 
 These event types must be logged and forward:
 
--   a: account creation
-
--   b: account lockout
-
--   c: account reinstatement
-
--   d: account authentication failures
-
--   e: account authentication successes after 1 or more failures
-
--   f: account password changes
-
--   g: group membership addition / deletion \(in particular, any group that gives admin access\)
-
--   h: group creation
-
--   i: privilege modification for users \(for example, role delegation through AWS IAM\)
-
--   k: multi-factor authentication state, such as:
-
-    -   1: enabled
-
-    -   2: revoked
-
-    -   3: reset/rotation
-
-    -   4: recovery method used
-
+1.  Account creation
+2.  Account lockout
+3.  Account reinstatement
+4.  Account authentication failures
+5.  Account authentication successes after 1 or more failures
+6.  Account password changes
+7.  Group membership addition / deletion \(in particular, any group that gives admin access\)
+8.  Group creation
+9.  Privilege modification for users \(for example, role delegation through AWS IAM\)
+10. Multi-factor authentication state, such as:
+    1.  Enabled
+    2.  Revoked
+    3.  Reset/rotation
+    4.  Recovery method used
 
 ### 2. Authenticated user activity events
 
@@ -92,3 +78,4 @@ Where unauthenticated users interact with applications \(for example, a MoJ Goog
     3.  Query size
 3.  Response size
 4.  Response time
+

@@ -22,39 +22,6 @@ User directories within hosting environments can be rich and diverse, such techn
 -   Google Workspace \(acting as an identity provider\)
 -   Local user stores within operating systems
 
-<<<<<<< HEAD
-
-These event types must be logged and forward:
-
--   a: account creation
-
--   b: account lockout
-
--   c: account reinstatement
-
--   d: account authentication failures
-
--   e: account authentication successes after 1 or more failures
-
--   f: account password changes
-
--   g: group membership addition / deletion \(in particular, any group that gives admin access\)
-
--   h: group creation
-
--   i: privilege modification for users \(for example, role delegation through AWS IAM\)
-
--   k: multi-factor authentication state, such as:
-
-    -   1: enabled
-
-    -   2: revoked
-
-    -   3: reset/rotation
-
-    -   4: recovery method used
-
-=======
 These event types must be logged and forwarded:
 
 1.  Account creation
@@ -68,10 +35,9 @@ These event types must be logged and forwarded:
 9.  Privilege modification for users \(for example, role delegation through AWS IAM\)
 10. Multi-factor authentication state, such as:
     1.  Enabled
-    2.  Disabled
+    2.  Revoked
     3.  Reset/rotation
     4.  Recovery method used
->>>>>>> main
 
 ### 2. Bastion/Jump/Action-proxy services
 
