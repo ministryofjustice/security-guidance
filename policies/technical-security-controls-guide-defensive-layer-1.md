@@ -114,5 +114,5 @@ The table below outlines the actions that should not be undertaken in relation t
 |---|
 | ✖ Allow access privileges for library or production/operation environments for unauthorised users. |
 | ✖ configuration changes or applications to go live without testing them in a non-live environment. |
-| ✖ Use live data, including personal data, in system or application testing. Exceptions must be approved by the relevant SIRO and, if the live data contains personal data, the Data Protection Officer. |
+| ✖ [Use live data](https://ministryofjustice.github.io/security-guidance/using-live-data-for-testing-purposes/#using-live-data-for-testing-purposes), including personal data, in system or application testing. Exceptions must be approved by the relevant SIRO and, if the live data contains personal data, the Data Protection Officer. |
 | ✖ Install or execute off-the-shelf software without ensuring appropriate support and security arrangements/agreements are in place. |
