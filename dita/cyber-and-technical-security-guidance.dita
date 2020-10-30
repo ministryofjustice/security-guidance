@@ -88,208 +88,208 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!-- Information security policies -->
 <!--   Management direction for information security -->
 						<row>
-							<entry colname="col1">Information security policies</entry>
-							<entry colname="col2">Management direction for information security</entry>
+							<entry colname="col1"><xref href="#document-list/management-direction-for-information-security" format="dita">Information security policies</xref></entry>
+							<entry colname="col2"><xref href="#document-list/management-direction-for-information-security" format="dita">Management direction for information security</xref></entry>
 						</row>
 <!-- Organisation of information security -->
 <!--   Internal organisation -->
 						<row>
-							<entry colname="col1">Organisation of information security</entry>
-							<entry colname="col2">Internal organisation</entry>
+							<entry colname="col1"><xref href="#document-list/internal-organisation" format="dita">Organisation of information security</xref></entry>
+							<entry colname="col2"><xref href="#document-list/internal-organisation" format="dita">Internal organisation</xref></entry>
 						</row>
 <!-- Mobile devices and teleworking -->
 <!--   Mobile device policy -->
 						<row>
-							<entry colname="col1">Mobile devices and teleworking</entry>
-							<entry colname="col2">Mobile device policy</entry>
+							<entry colname="col1"><xref href="#document-list/mobile-device-policy" format="dita">Mobile devices and teleworking</xref></entry>
+							<entry colname="col2"><xref href="#document-list/mobile-device-policy" format="dita">Mobile device policy</xref></entry>
 						</row>
-<!--   2 -->
+<!--   Teleworking -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Teleworking</entry>
+							<entry colname="col2"><xref href="#document-list/teleworking" format="dita">Teleworking</xref></entry>
 						</row>
 <!-- Human resource security -->
 <!--   Prior to employment -->
 						<row>
-							<entry colname="col1">Human resource security</entry>
-							<entry colname="col2">Prior to employment</entry>
+							<entry colname="col1"><xref href="#document-list/prior-to-employment" format="dita">Human resource security</xref></entry>
+							<entry colname="col2"><xref href="#document-list/prior-to-employment" format="dita">Prior to employment</xref></entry>
 						</row>
 <!--   During employment -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">During employment</entry>
+							<entry colname="col2"><xref href="#document-list/during-employment" format="dita">During employment</xref></entry>
 						</row>
 <!--   Termination and change of employment -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Termination and change of employment</entry>
+							<entry colname="col2"><xref href="#document-list/termination-and-change-of-employment" format="dita">Termination and change of employment</xref></entry>
 						</row>
 <!-- Asset management -->
 <!--   Responsibility for assets -->
 						<row>
-							<entry colname="col1">Asset management</entry>
-							<entry colname="col2">Responsibility for assets</entry>
+							<entry colname="col1"><xref href="#document-list/responsibility-for-assets" format="dita">Asset management</xref></entry>
+							<entry colname="col2"><xref href="#document-list/responsibility-for-assets" format="dita">Responsibility for assets</xref></entry>
 						</row>
 <!--   Information classification -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Information classification</entry>
+							<entry colname="col2"><xref href="#document-list/information-classification" format="dita">Information classification</xref></entry>
 						</row>
 <!--   Media handling -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Media handling</entry>
+							<entry colname="col2"><xref href="#document-list/media-handling" format="dita">Media handling</xref></entry>
 						</row>
 <!-- Access control -->
 <!--   Business requirements of access control -->
 						<row>
-							<entry colname="col1">Access control</entry>
-							<entry colname="col2">Business requirements of access control</entry>
+							<entry colname="col1"><xref href="#document-list/business-requirements-of-access-control" format="dita">Access control</xref></entry>
+							<entry colname="col2"><xref href="#document-list/business-requirements-of-access-control" format="dita">Business requirements of access control</xref></entry>
 						</row>
 <!--   User access management -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">User access management</entry>
+							<entry colname="col2"><xref href="#document-list/user-access-management" format="dita">User access management</xref></entry>
 						</row>
 <!--   User responsibilities -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">User responsibilities</entry>
+							<entry colname="col2"><xref href="#document-list/user-responsibilities" format="dita">User responsibilities</xref></entry>
 						</row>
 <!--   System and application access control -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">System and application access control</entry>
+							<entry colname="col2"><xref href="#document-list/system-and-application-access-control" format="dita">System and application access control</xref></entry>
 						</row>
 <!-- Cryptography -->
 <!--   Cryptographic controls -->
 						<row>
-							<entry colname="col1">Cryptography</entry>
-							<entry colname="col2">Cryptographic controls</entry>
+							<entry colname="col1"><xref href="#document-list/cryptographic-controls" format="dita">Cryptography</xref></entry>
+							<entry colname="col2"><xref href="#document-list/cryptographic-controls" format="dita">Cryptographic controls</xref></entry>
 						</row>
 <!-- Physical and environmental security -->
 <!--   Secure areas -->
 						<row>
-							<entry colname="col1">Physical and environmental security</entry>
-							<entry colname="col2">Secure areas</entry>
+							<entry colname="col1"><xref href="#document-list/secure-areas" format="dita">Physical and environmental security</xref></entry>
+							<entry colname="col2"><xref href="#document-list/secure-areas" format="dita">Secure areas</xref></entry>
 						</row>
 <!--   Equipment -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Equipment</entry>
+							<entry colname="col2"><xref href="#document-list/equipment" format="dita">Equipment</xref></entry>
 						</row>
 <!-- Operations security -->
 <!--   Operational procedures and responsibilities -->
 						<row>
-							<entry colname="col1">Operations security</entry>
-							<entry colname="col2">Operational procedures and responsibilities</entry>
+							<entry colname="col1"><xref href="#document-list/operational-procedures-and-responsibilities" format="dita">Operations security</xref></entry>
+							<entry colname="col2"><xref href="#document-list/operational-procedures-and-responsibilities" format="dita">Operational procedures and responsibilities</xref></entry>
 						</row>
 <!--   Protection from malware -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Protection from malware</entry>
+							<entry colname="col2"><xref href="#document-list/protection-from-malware" format="dita">Protection from malware</xref></entry>
 						</row>
 <!--   Backup -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Backup</entry>
+							<entry colname="col2"><xref href="#document-list/backup" format="dita">Backup</xref></entry>
 						</row>
 <!--   Logging and monitoring -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Logging and monitoring</entry>
+							<entry colname="col2"><xref href="#document-list/logging-and-monitoring" format="dita">Logging and monitoring</xref></entry>
 						</row>
 <!--   Control of operational software -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Control of operational software</entry>
+							<entry colname="col2"><xref href="#document-list/control-of-operational-software" format="dita">Control of operational software</xref></entry>
 						</row>
 <!--   Technical vulnerability management -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Technical vulnerability management</entry>
+							<entry colname="col2"><xref href="#document-list/technical-vulnerability-management" format="dita">Technical vulnerability management</xref></entry>
 						</row>
 <!--   Information systems audit considerations -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Information systems audit considerations</entry>
+							<entry colname="col2"><xref href="#document-list/information-systems-audit-considerations" format="dita">Information systems audit considerations</xref></entry>
 						</row>
 <!-- Communications security -->
 <!--   Network security management -->
 						<row>
-							<entry colname="col1">Communications security</entry>
-							<entry colname="col2">Network security management</entry>
+							<entry colname="col1"><xref href="#document-list/network-security-management" format="dita">Communications security</xref></entry>
+							<entry colname="col2"><xref href="#document-list/network-security-management" format="dita">Network security management</xref></entry>
 						</row>
 <!--   Information transfer -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Information transfer</entry>
+							<entry colname="col2"><xref href="#document-list/information-transfer" format="dita">Information transfer</xref></entry>
 						</row>
 <!-- System acquisition, development and maintenance -->
 <!--   Security requirements of information systems -->
 						<row>
-							<entry colname="col1">System acquisition, development and maintenance</entry>
-							<entry colname="col2">Security requirements of information systems</entry>
+							<entry colname="col1"><xref href="#document-list/security-requirements-of-information-systems" format="dita">System acquisition, development and maintenance</xref></entry>
+							<entry colname="col2"><xref href="#document-list/security-requirements-of-information-systems" format="dita">Security requirements of information systems</xref></entry>
 						</row>
 <!--   Security in development and support processes -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Security in development and support processes</entry>
+							<entry colname="col2"><xref href="#document-list/security-in-development-and-support-processes" format="dita">Security in development and support processes</xref></entry>
 						</row>
 <!--   Test data -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Test data</entry>
+							<entry colname="col2"><xref href="#document-list/test-data" format="dita">Test data</xref></entry>
 						</row>
 <!-- Supplier relationships -->
 <!--   Information security in supplier relationships -->
 						<row>
-							<entry colname="col1">Supplier relationships</entry>
-							<entry colname="col2">Information security in supplier relationships</entry>
+							<entry colname="col1"><xref href="#document-list/information-security-in-supplier-relationships" format="dita">Supplier relationships</xref></entry>
+							<entry colname="col2"><xref href="#document-list/information-security-in-supplier-relationships" format="dita">Information security in supplier relationships</xref></entry>
 						</row>
 <!--   Supplier service delivery management -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Supplier service delivery management</entry>
+							<entry colname="col2"><xref href="#document-list/supplier-service-delivery-management" format="dita">Supplier service delivery management</xref></entry>
 						</row>
 <!-- Information security incident management -->
 <!--   Management of information security incidents and improvements -->
 						<row>
-							<entry colname="col1">Information security incident management</entry>
-							<entry colname="col2">Management of information security incidents and improvements</entry>
+							<entry colname="col1"><xref href="#document-list/management-of-information-security-incidents-and-improvements" format="dita">Information security incident management</xref></entry>
+							<entry colname="col2"><xref href="#document-list/management-of-information-security-incidents-and-improvements" format="dita">Management of information security incidents and improvements</xref></entry>
 						</row>
 <!-- Information security aspects of business continuity management -->
 <!--   Information security continuity -->
 						<row>
-							<entry colname="col1">Information security aspects of business continuity management</entry>
-							<entry colname="col2">Information security continuity</entry>
+							<entry colname="col1"><xref href="#document-list/information-security-continuity" format="dita">Information security aspects of business continuity management</xref></entry>
+							<entry colname="col2"><xref href="#document-list/information-security-continuity" format="dita">Information security continuity</xref></entry>
 						</row>
 <!--   Redundancies -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Redundancies</entry>
+							<entry colname="col2"><xref href="#document-list/redundancies" format="dita">Redundancies</xref></entry>
 						</row>
 <!-- Compliance -->
 <!--   Compliance with legal and contractual requirements -->
 						<row>
-							<entry colname="col1">Compliance</entry>
-							<entry colname="col2">Compliance with legal and contractual requirements</entry>
+							<entry colname="col1"><xref href="#document-list/compliance-with-legal-and-contractual-requirements" format="dita">Compliance</xref></entry>
+							<entry colname="col2"><xref href="#document-list/compliance-with-legal-and-contractual-requirements" format="dita">Compliance with legal and contractual requirements</xref></entry>
 						</row>
 <!--   Information security reviews -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Information security reviews</entry>
+							<entry colname="col2"><xref href="#document-list/information-security-reviews" format="dita">Information security reviews</xref></entry>
 						</row>
 <!-- Risk Assessment -->
 <!--   Risk Management -->
 						<row>
-							<entry colname="col1">Risk Assessment</entry>
-							<entry colname="col2">Risk Management</entry>
+							<entry colname="col1"><xref href="#document-list/risk-management" format="dita">Risk Assessment</xref></entry>
+							<entry colname="col2"><xref href="#document-list/risk-management" format="dita">Risk Management</xref></entry>
 						</row>
 <!--   Risk Assessment Process -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Risk Assessment Process</entry>
+							<entry colname="col2"><xref href="#document-list/risk-assessment-process" format="dita">Risk Assessment Process</xref></entry>
 						</row>
 					</tbody>
 				</tgroup>
@@ -315,17 +315,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
 							</row>
 						</thead>
 						<tbody>
-
-
-<!-- ================================================================= -->
-
-
-
 <!-- Information security policies -->
 <!--   Management direction for information security -->
 						<row>
 							<entry colname="col1">Information security policies</entry>
-							<entry colname="col2">Management direction for information security</entry>
+							<entry colname="col2"><ph id="management-direction-for-information-security"/>Management direction for information security</entry>
 							<entry colname="col3"><xref href="identify-protect-detect-respond-recover.dita" format="dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref></entry>
 							<entry colname="col4">All users</entry>
 						</row>
@@ -339,20 +333,20 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Internal organisation -->
 						<row>
 							<entry colname="col1">Organisation of information security</entry>
-							<entry colname="col2">Internal organisation</entry>
+							<entry colname="col2"><ph id="internal-organisation"/>Internal organisation</entry>
 						</row>
 <!-- Mobile devices and teleworking -->
 <!--   Mobile device policy -->
 						<row>
 							<entry colname="col1">Mobile devices and teleworking</entry>
-							<entry colname="col2">Mobile device policy</entry>
+							<entry colname="col2"><ph id="mobile-device-policy"/>Mobile device policy</entry>
 							<entry colname="col3"><xref href="remote-working.dita" format="dita">Remote Working</xref></entry>
 							<entry colname="col4">All users</entry>
 						</row>
 <!--   Teleworking -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Teleworking</entry>
+							<entry colname="col2"><ph id="teleworking"/>Teleworking</entry>
 							<entry colname="col3"><xref href="accessing-moj-it-systems-from-abroad.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Abroad</xref></entry>
 							<entry colname="col4">All users</entry>
 						</row>
@@ -372,7 +366,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Prior to employment -->
 						<row>
 							<entry colname="col1">Human resource security</entry>
-							<entry colname="col2">Prior to employment</entry>
+							<entry colname="col2"><ph id="prior-to-employment"/>Prior to employment</entry>
 							<entry colname="col3">
 								<xref href="personnel-security-clearances.dita" format="dita" type="topic">Personnel security clearances</xref>
 							</entry>
@@ -381,23 +375,23 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   During employment -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">During employment</entry>
+							<entry colname="col2"><ph id="during-employment"/>During employment</entry>
 						</row>
 <!--   Termination and change of employment -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Termination and change of employment</entry>
+							<entry colname="col2"><ph id="termination-and-change-of-employment"/>Termination and change of employment</entry>
 						</row>
 <!-- Asset management -->
 <!--   Responsibility for assets -->
 						<row>
 							<entry colname="col1">Asset management</entry>
-							<entry colname="col2">Responsibility for assets</entry>
+							<entry colname="col2"><ph id="responsibility-for-assets"/>Responsibility for assets</entry>
 						</row>
 <!--   Information classification -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Information classification</entry>
+							<entry colname="col2"><ph id="information-classification"/>Information classification</entry>
 							<entry colname="col3"><xref href="official-official-sensitive.dita" format="dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref></entry>
 							<entry colname="col4">All users</entry>
 						</row>
@@ -410,20 +404,20 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Media handling -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Media handling</entry>
+							<entry colname="col2"><ph id="media-handling"/>Media handling</entry>
 						</row>
 <!-- Access control -->
 <!--   Business requirements of access control -->
 						<row audience="audience-tech">
 							<entry colname="col1">Access control</entry>
-							<entry colname="col2">Business requirements of access control</entry>
+							<entry colname="col2"><ph id="business-requirements-of-access-control"/>Business requirements of access control</entry>
 							<entry colname="col3"><xref href="access-control-guide.dita" format="dita" type="topic">Access Control Guide</xref></entry>
 							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
 <!--   User access management -->
 						<row audience="audience-tech">
 							<entry colname="col1"> </entry>
-							<entry colname="col2">User access management</entry>
+							<entry colname="col2"><ph id="user-access-management"/>User access management</entry>
 							<entry colname="col3"><xref href="authentication.dita" format="dita">Authentication</xref></entry>
 							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
@@ -460,14 +454,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   User responsibilities -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">User responsibilities</entry>
+							<entry colname="col2"><ph id="user-responsibilities"/>User responsibilities</entry>
 							<entry colname="col3"><xref href="protecting-social-media-accounts.dita" format="dita" type="topic">Protecting Social Media Accounts</xref></entry>
 							<entry colname="col4">All users</entry>
 						</row>
 <!--   System and application access control -->
 						<row audience="audience-tech">
 							<entry colname="col1"> </entry>
-							<entry colname="col2">System and application access control</entry>
+							<entry colname="col2"><ph id="system-and-application-access-control"/>System and application access control</entry>
 							<entry colname="col3"><xref href="authorisation.dita" format="dita">Authorisation</xref></entry>
 							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
@@ -487,7 +481,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Cryptographic controls -->
 						<row audience="audience-tech">
 							<entry colname="col1">Cryptography</entry>
-							<entry colname="col2">Cryptographic controls</entry>
+							<entry colname="col2"><ph id="cryptographic-controls"/>Cryptographic controls</entry>
 							<entry colname="col3"><xref href="automated-certificate-renewal.dita" format="dita">Automated certificate renewal</xref></entry>
 							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
@@ -501,18 +495,18 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Secure areas -->
 						<row>
 							<entry colname="col1">Physical and environmental security</entry>
-							<entry colname="col2">Secure areas</entry>
+							<entry colname="col2"><ph id="secure-areas"/>Secure areas</entry>
 						</row>
 <!--   Equipment -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Equipment</entry>
+							<entry colname="col2"><ph id="equipment"/>Equipment</entry>
 						</row>
 <!-- Operations security -->
 <!--   Operational procedures and responsibilities -->
 						<row audience="audience-tech">
 							<entry colname="col1">Operations security</entry>
-							<entry colname="col2">Operational procedures and responsibilities</entry>
+							<entry colname="col2"><ph id="operational-procedures-and-responsibilities"/>Operational procedures and responsibilities</entry>
 							<entry colname="col3"><xref href="mail-check.dita" format="dita">Active Cyber Defence: Mail Check</xref></entry>
 							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
@@ -531,7 +525,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Protection from malware -->
 						<row audience="audience-tech">
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Protection from malware</entry>
+							<entry colname="col2"><ph id="protection-from-malware"/>Protection from malware</entry>
 							<entry colname="col3"><xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide (Overview)</xref></entry>
 							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
@@ -556,12 +550,12 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Backup -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Backup</entry>
+							<entry colname="col2"><ph id="backup"/>Backup</entry>
 						</row>
 <!--   Logging and monitoring -->
 						<row audience="audience-tech">
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Logging and monitoring</entry>
+							<entry colname="col2"><ph id="logging-and-monitoring"/>Logging and monitoring</entry>
 							<entry colname="col3"><xref href="accounting.dita" format="dita" type="topic">Accounting</xref></entry>
 							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
@@ -622,14 +616,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Control of operational software -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Control of operational software</entry>
+							<entry colname="col2"><ph id="control-of-operational-software"/>Control of operational software</entry>
 							<entry colname="col3"><xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref></entry>
 							<entry colname="col4">All users</entry>
 						</row>
 <!--   Technical vulnerability management -->
 						<row audience="audience-tech">
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Technical vulnerability management</entry>
+							<entry colname="col2"><ph id="technical-vulnerability-management"/>Technical vulnerability management</entry>
 							<entry colname="col3"><xref href="vulnerability-disclosure-policy.dita" format="dita">Vulnerability Disclosure</xref></entry>
 							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
@@ -648,13 +642,13 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Information systems audit considerations -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Information systems audit considerations</entry>
+							<entry colname="col2"><ph id="information-systems-audit-considerations"/>Information systems audit considerations</entry>
 						</row>
 <!-- Communications security -->
 <!--   Network security management -->
 						<row audience="audience-tech">
 							<entry colname="col1">Communications security</entry>
-							<entry colname="col2">Network security management</entry>
+							<entry colname="col2"><ph id="network-security-management"/>Network security management</entry>
 							<entry colname="col3"><xref href="defensive-domain-registration.dita" format="dita">Defensive domain registrations</xref></entry>
 							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
@@ -685,7 +679,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Information transfer -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Information transfer</entry>
+							<entry colname="col2"><ph id="information-transfer"/>Information transfer</entry>
 							<entry colname="col3"><xref href="bluetooth.dita" format="dita" type="topic">Bluetooth</xref></entry>
 							<entry colname="col4">All users</entry>
 						</row>
@@ -711,12 +705,12 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Security requirements of information systems -->
 						<row>
 							<entry colname="col1">System acquisition, development and maintenance</entry>
-							<entry colname="col2">Security requirements of information systems</entry>
+							<entry colname="col2"><ph id="security-requirements-of-information-systems"/>Security requirements of information systems</entry>
 						</row>
 <!--   Security in development and support processes -->
 						<row audience="audience-tech">
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Security in development and support processes</entry>
+							<entry colname="col2"><ph id="security-in-development-and-support-processes"/>Security in development and support processes</entry>
 							<entry colname="col3"><xref href="maintained-by-default.dita" format="dita">Maintained by Default</xref></entry>
 							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
@@ -731,7 +725,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Test data -->
 						<row audience="audience-tech">
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Test data</entry>
+							<entry colname="col2"><ph id="test-data"/>Test data</entry>
 							<entry colname="col3"><xref href="using-live-data-for-testing-purposes.dita" format="dita">Using Live Data for Testing purposes</xref></entry>
 							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
@@ -739,7 +733,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Information security in supplier relationships -->
 						<row audience="audience-tech">
 							<entry colname="col1">Supplier relationships</entry>
-							<entry colname="col2">Information security in supplier relationships</entry>
+							<entry colname="col2"><ph id="information-security-in-supplier-relationships"/>Information security in supplier relationships</entry>
 							<entry colname="col3"><xref href="assessing-suppliers.dita" format="dita">Suppliers to <ph conref="conrefs.dita#conrefs/moj"/>: Assessing Suppliers</xref></entry>
 							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
@@ -764,7 +758,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Supplier service delivery management -->
 						<row audience="audience-tech">
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Supplier service delivery management</entry>
+							<entry colname="col2"><ph id="supplier-service-delivery-management"/>Supplier service delivery management</entry>
 							<entry colname="col3"><xref href="baseline-aws-accounts.dita" format="dita">Baseline for Amazon Web Services accounts</xref></entry>
 							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
@@ -772,7 +766,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Management of information security incidents and improvements -->
 						<row>
 							<entry colname="col1">Information security incident management</entry>
-							<entry colname="col2">Management of information security incidents and improvements</entry>
+							<entry colname="col2"><ph id="management-of-information-security-incidents-and-improvements"/>Management of information security incidents and improvements</entry>
 							<entry colname="col3"><xref href="lost-laptophardware.dita" format="dita">Lost Laptop or other IT security incident</xref></entry>
 							<entry colname="col4">All users</entry>
 						</row>
@@ -780,18 +774,18 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Information security continuity -->
 						<row>
 							<entry colname="col1">Information security aspects of business continuity management</entry>
-							<entry colname="col2">Information security continuity</entry>
+							<entry colname="col2"><ph id="information-security-continuity"/>Information security continuity</entry>
 						</row>
 <!--   Redundancies -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Redundancies</entry>
+							<entry colname="col2"><ph id="redundancies"/>Redundancies</entry>
 						</row>
 <!-- Compliance -->
 <!--   Compliance with legal and contractual requirements -->
 						<row audience="audience-tech">
 							<entry colname="col1">Compliance</entry>
-							<entry colname="col2">Compliance with legal and contractual requirements</entry>
+							<entry colname="col2"><ph id="compliance-with-legal-and-contractual-requirements"/>Compliance with legal and contractual requirements</entry>
 							<entry colname="col3"><xref href="data-destruction.dita" format="dita">Data Destruction</xref></entry>
 							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
@@ -846,7 +840,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Information security reviews -->
 						<row audience="audience-tech">
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Information security reviews</entry>
+							<entry colname="col2"><ph id="information-security-reviews"/>Information security reviews</entry>
 							<entry colname="col3"><xref href="standards-assurance-tables.dita" format="dita">Standards Assurance Tables</xref></entry>
 							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
@@ -854,19 +848,13 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--   Risk Management -->
 						<row>
 							<entry colname="col1">Risk Assessment</entry>
-							<entry colname="col2">Risk Management</entry>
+							<entry colname="col2"><ph id="risk-management"/>Risk Management</entry>
 						</row>
 <!--   Risk Assessment Process -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2">Risk Assessment Process</entry>
+							<entry colname="col2"><ph id="risk-assessment-process"/>Risk Assessment Process</entry>
 						</row>
-
-
-<!-- ================================================================= -->
-
-<!-- Technical -->
-<!--   System development -->
 						</tbody>
 					</tgroup>
 				</table>
