@@ -8,7 +8,7 @@ The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 28 October 2020.
+This guidance is dated: 30 October 2020.
 
 For convenience, offline versions of this guidance are available.
 
@@ -17,7 +17,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 28 November 2020.
+The offline versions of this guidance are time-limited, and are not valid after 30 November 2020.
 
 ### Getting in touch
 
@@ -41,13 +41,44 @@ The MoJ has developed their cyber and technical security taxonomy as follows:
 
 |Level 1|Level 2|
 |-------|-------|
-|Cyber|Access Control|
-||Asset Management|
-||Cryptography|
-||Operational Security|
-|Technical|Principles|
-||Data and information|
-||System development|
+|Information security policies|Management direction for information security|
+|Organisation of information security|Internal organisation|
+|Mobile devices and teleworking|Mobile device policy|
+||Teleworking|
+|Human resource security|Prior to employment|
+||During employment|
+||Termination and change of employment|
+|Asset management|Responsibility for assets|
+||Information classification|
+||Media handling|
+|Access control|Business requirements of access control|
+||User access management|
+||User responsibilities|
+||System and application access control|
+|Cryptography|Cryptographic controls|
+|Physical and environmental security|Secure areas|
+||Equipment|
+|Operations security|Operational procedures and responsibilities|
+||Protection from malware|
+||Backup|
+||Logging and monitoring|
+||Control of operational software|
+||Technical vulnerability management|
+||Information systems audit considerations|
+|Communications security|Network security management|
+||Information transfer|
+|System acquisition, development and maintenance|Security requirements of information systems|
+||Security in development and support processes|
+||Test data|
+|Supplier relationships|Information security in supplier relationships|
+||Supplier service delivery management|
+|Information security incident management|Management of information security incidents and improvements|
+|Information security aspects of business continuity management|Information security continuity|
+||Redundancies|
+|Compliance|Compliance with legal and contractual requirements|
+||Information security reviews|
+|Risk Assessment|Risk Management|
+||Risk Assessment Process|
 
 The documents have been developed and defined within this taxonomy, and are listed in the next section, together with their suggested target audiences.
 
@@ -55,73 +86,46 @@ The documents have been developed and defined within this taxonomy, and are list
 
 |Level 1|Level 2|Documents|Target Audience|
 |-------|-------|---------|---------------|
-|Cyber|Access Control|||
-|||[Access Control Guide](access-control-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Accessing MoJ IT Systems From Abroad](accessing-moj-it-systems-from-abroad.md)|All users|
-|||[Authentication](authentication.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Authorisation](authorisation.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|Information security policies|Management direction for information security|[IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](identify-protect-detect-respond-recover.md)|All users|
+|||[Shared Responsibility Models](shared-responsibility-models.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|Organisation of information security|Internal organisation|
+|Mobile devices and teleworking|Mobile device policy|[Remote Working](remote-working.md)|All users|
+||Teleworking|[Accessing MoJ IT Systems From Abroad](accessing-moj-it-systems-from-abroad.md)|All users|
+|||[General advice on taking equipment abroad](general-advice-on-taking-equipment-abroad.md)|All users|
+|||[Security Guidance for Using a Personal Device](personal-devices.md)|All users|
+|Human resource security|Prior to employment|[Personnel security clearances](personnel-security-clearances.md)|All users|
+||During employment|
+||Termination and change of employment|
+|Asset management|Responsibility for assets|
+||Information classification|[`OFFICIAL` and `OFFICIAL-SENSITIVE`](official-official-sensitive.md)|All users|
+|||[Secrets management](secrets-management.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+||Media handling|
+|Access control|Business requirements of access control|[Access Control Guide](access-control-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+||User access management|[Authentication](authentication.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Management access](management-access.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Managing User Access Guide](managing-user-access-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)|All users|
 |||[Multi-Factor Authentication](multi-factor-authentication-mfa-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Personnel security clearances](personnel-security-clearances.md)|All users|
 |||[Privileged Account Management Guide](privileged-account-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Protecting Social Media Accounts](protecting-social-media-accounts.md)|All users|
-||Asset Management|||
-|||[Accounting](accounting.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Bluetooth](bluetooth.md)|All users|
-|||[General advice on taking equipment abroad](general-advice-on-taking-equipment-abroad.md)|All users|
-|||[General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
-|||[Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md)|All users|
-|||[Lost Laptop or other IT security incident](lost-laptophardware.md)|All users|
-|||[Remote Working](remote-working.md)|All users|
-|||[Security Guidance for Using a Personal Device](personal-devices.md)|All users|
-||Cryptography|[Cryptography](cryptography.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-||Operational Security|[Malware Protection Guide \(Overview\)](malware-protection-guide-introduction.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+||User responsibilities|[Protecting Social Media Accounts](protecting-social-media-accounts.md)|All users|
+||System and application access control|[Authorisation](authorisation.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Password Managers](password-managers.md)|All users|
+|||[Using LastPass Enterprise](using-lastpass.md)|All users|
+|Cryptography|Cryptographic controls|[Automated certificate renewal](automated-certificate-renewal.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Cryptography](cryptography.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|Physical and environmental security|Secure areas|
+||Equipment|
+|Operations security|Operational procedures and responsibilities|[Active Cyber Defence: Mail Check](mail-check.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Active Cyber Defence: Public Sector DNS](public-sector-dns.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Active Cyber Defence: Web Check](web-check.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+||Protection from malware|[Malware Protection Guide \(Overview\)](malware-protection-guide-introduction.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Malware Protection Guide: Defensive Layer 1](malware-protection-guidance-defensive-layer-1.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Malware Protection Guide: Defensive Layer 2](malware-protection-guidance-defensive-layer-2.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Malware Protection Guide: Defensive Layer 3](malware-protection-guidance-defensive-layer-3.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Vulnerability Disclosure](vulnerability-disclosure-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Vulnerability Disclosure: Implementing `security.txt`](implement-security-txt.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|Technical|Principles|||
-|||[Criminal Justice Secure Mail \(CJSM\)](cjsm.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Data Sovereignty](data-sovereignty.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](identify-protect-detect-respond-recover.md)|All users|
-|||[Internet v. PSN](internet-v-psn.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[IP DNS Diagram Handling](ip-dns-diagram-handling.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Management access](management-access.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Multiple Back-to-back Consecutive Firewalls](multiple-consecutive-back-to-back-firewalls.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Networks are just bearers](networks-bearers-not-trust.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[`OFFICIAL` and `OFFICIAL-SENSITIVE`](official-official-sensitive.md)|All users|
-|||[Secrets management](secrets-management.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Secure by Default](secure-by-default.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Shared Responsibility Models](shared-responsibility-models.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Standards Assurance Tables](standards-assurance-tables.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-||Data and information|||
-|||[Data Destruction](data-destruction.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Data Destruction: Contract Clauses - Definitions](data-destruction-contract-clauses-definitions.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Data Destruction: Contract Clauses - Long Format](data-destruction-contract-clauses-long-format.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Data Destruction: Contract Clauses - Long Format \(Appendix\)](data-destruction-contract-clauses-long-format-appendix.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Data Destruction: Contract Clauses - Short Format](data-destruction-contract-clauses-short-format.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Data Destruction: Instruction and Confirmation Letter](data-destruction-instruction-and-confirmation-letter.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Data Security and Privacy](data-security-and-privacy.md)|All users|
-|||[Password Managers](password-managers.md)|All users|
-|||[Suppliers to MoJ: Assessing Suppliers](assessing-suppliers.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Suppliers to MoJ: Contracts](contracts.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Suppliers to MoJ: Security Aspect Letters](security-aspect-letters.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Suppliers to MoJ: Supplier Corporate IT](supplier-corporate-it.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Using LastPass Enterprise](using-lastpass.md)|All users|
-||System development|||
-|||[Active Cyber Defence: Mail Check](mail-check.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Active Cyber Defence: Public Sector DNS](public-sector-dns.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Active Cyber Defence: Web Check](web-check.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Automated certificate renewal](automated-certificate-renewal.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Baseline for Amazon Web Services accounts](baseline-aws-accounts.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+||Backup|
+||Logging and monitoring|[Accounting](accounting.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Commercial off-the-shelf applications](cots-applications.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Custom Applications](custom-applications.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Data Security & Privacy Lifecycle Expectations](data-security-and-privacy-lifecycle.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Data Security & Privacy Triage Standards](data-security-and-privacy-triage-standards.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Defensive domain registrations](defensive-domain-registration.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Maintained by Default](maintained-by-default.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Online identifiers in security logging & monitoring](online-identifiers.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Security Log Collection](security-log-collection.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Security Log Collection: Enterprise IT - Infrastructure](enterprise-it-infrastructure.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
@@ -129,8 +133,44 @@ The documents have been developed and defined within this taxonomy, and are list
 |||[Security Log Collection: Hosting Platforms](hosting-platforms.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Security Log Collection: Log entry metadata](log-entry-metadata.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Security Log Collection: Maturity Tiers](security-log-collection-maturity-tiers.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|||[Using Live Data for Testing purposes](using-live-data-for-testing-purposes.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+||Control of operational software|[Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md)|All users|
+||Technical vulnerability management|[Vulnerability Disclosure](vulnerability-disclosure-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Vulnerability Disclosure: Implementing `security.txt`](implement-security-txt.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |||[Vulnerability scanning](vulnerability-scanning.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+||Information systems audit considerations|
+|Communications security|Network security management|[Defensive domain registrations](defensive-domain-registration.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Internet v. PSN](internet-v-psn.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[IP DNS Diagram Handling](ip-dns-diagram-handling.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Multiple Back-to-back Consecutive Firewalls](multiple-consecutive-back-to-back-firewalls.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Networks are just bearers](networks-bearers-not-trust.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+||Information transfer|[Bluetooth](bluetooth.md)|All users|
+|||[Criminal Justice Secure Mail \(CJSM\)](cjsm.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Data Sovereignty](data-sovereignty.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
+|System acquisition, development and maintenance|Security requirements of information systems|
+||Security in development and support processes|[Maintained by Default](maintained-by-default.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Secure by Default](secure-by-default.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+||Test data|[Using Live Data for Testing purposes](using-live-data-for-testing-purposes.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|Supplier relationships|Information security in supplier relationships|[Suppliers to MoJ: Assessing Suppliers](assessing-suppliers.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Suppliers to MoJ: Contracts](contracts.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Suppliers to MoJ: Security Aspect Letters](security-aspect-letters.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Suppliers to MoJ: Supplier Corporate IT](supplier-corporate-it.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+||Supplier service delivery management|[Baseline for Amazon Web Services accounts](baseline-aws-accounts.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|Information security incident management|Management of information security incidents and improvements|[Lost Laptop or other IT security incident](lost-laptophardware.md)|All users|
+|Information security aspects of business continuity management|Information security continuity|
+||Redundancies|
+|Compliance|Compliance with legal and contractual requirements|[Data Destruction](data-destruction.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Data Destruction: Contract Clauses - Definitions](data-destruction-contract-clauses-definitions.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Data Destruction: Contract Clauses - Long Format](data-destruction-contract-clauses-long-format.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Data Destruction: Contract Clauses - Long Format \(Appendix\)](data-destruction-contract-clauses-long-format-appendix.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Data Destruction: Contract Clauses - Short Format](data-destruction-contract-clauses-short-format.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Data Destruction: Instruction and Confirmation Letter](data-destruction-instruction-and-confirmation-letter.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Data Security and Privacy](data-security-and-privacy.md)|All users|
+|||[Data Security & Privacy Lifecycle Expectations](data-security-and-privacy-lifecycle.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|||[Data Security & Privacy Triage Standards](data-security-and-privacy-triage-standards.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+||Information security reviews|[Standards Assurance Tables](standards-assurance-tables.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|Risk Assessment|Risk Management|
+||Risk Assessment Process|
 
 ## Other Guidance
 
