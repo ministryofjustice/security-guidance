@@ -97,7 +97,7 @@ The table below outlines what should be in place to create secure software devel
 <li>separate development and test environments</li>
 <li>cryptography management</li>
 <li>unauthorised change detection</li></ul></td></tr>
-<tr><td>✔ Enforce binary or machine executable code are provided under warranty or with source code, and implement time limits for process execution.</td></tr>
+<tr><td>✔ Enforce binary or machine executable code is provided under warranty or with source code, and implement time limits for process execution.</td></tr>
 <tr><td>✔ Verify the boot process, and ensure the protection of boot hardware.</td></tr>
 <tr><td>✔ Implement low module coupling for software engineering.</td></tr>
 <tr><td>✔ Enforce application partitioning.</td></tr>
