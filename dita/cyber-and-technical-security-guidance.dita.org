@@ -1019,6 +1019,60 @@ has made for the products we operate, and our relationships with suppliers.</p>
 						</row>
 <!-- Compliance -->
 <!--   Compliance with legal and contractual requirements -->
+						<row audience="audience-tech">
+							<entry colname="col1">Compliance</entry>
+							<entry colname="col2"><ph id="compliance-with-legal-and-contractual-requirements"/>Compliance with legal and contractual requirements</entry>
+							<entry colname="col3"><xref href="data-destruction.dita" format="dita">Data Destruction</xref></entry>
+							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
+						<row audience="audience-tech">
+							<entry colname="col1"> </entry>
+							<entry colname="col2"> </entry>
+							<entry colname="col3"><xref href="data-destruction-contract-clauses-definitions.dita" format="dita">Data Destruction: Contract Clauses - Definitions</xref></entry>
+							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
+						<row audience="audience-tech">
+							<entry colname="col1"> </entry>
+							<entry colname="col2"> </entry>
+							<entry colname="col3"><xref href="data-destruction-contract-clauses-long-format.dita" format="dita">Data Destruction: Contract Clauses - Long Format</xref></entry>
+							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
+						<row audience="audience-tech">
+							<entry colname="col1"> </entry>
+							<entry colname="col2"> </entry>
+							<entry colname="col3"><xref href="data-destruction-contract-clauses-long-format-appendix.dita" format="dita">Data Destruction: Contract Clauses - Long Format (Appendix)</xref></entry>
+							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
+						<row audience="audience-tech">
+							<entry colname="col1"> </entry>
+							<entry colname="col2"> </entry>
+							<entry colname="col3"><xref href="data-destruction-contract-clauses-short-format.dita" format="dita">Data Destruction: Contract Clauses - Short Format</xref></entry>
+							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
+						<row audience="audience-tech">
+							<entry colname="col1"> </entry>
+							<entry colname="col2"> </entry>
+							<entry colname="col3"><xref href="data-destruction-instruction-and-confirmation-letter.dita" format="dita">Data Destruction: Instruction and Confirmation Letter</xref></entry>
+							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
+						<row>
+							<entry colname="col1"> </entry>
+							<entry colname="col2"> </entry>
+							<entry colname="col3"><xref href="data-security-and-privacy.dita" format="dita">Data Security and Privacy</xref></entry>
+							<entry colname="col4">All users</entry>
+						</row>
+						<row audience="audience-tech">
+							<entry colname="col1"> </entry>
+							<entry colname="col2"> </entry>
+							<entry colname="col3"><xref href="data-security-and-privacy-lifecycle.dita" format="dita">Data Security &amp; Privacy Lifecycle Expectations</xref></entry>
+							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
+						<row audience="audience-tech">
+							<entry colname="col1"> </entry>
+							<entry colname="col2"> </entry>
+							<entry colname="col3"><xref href="data-security-and-privacy-triage-standards.dita" format="dita">Data Security &amp; Privacy Triage Standards</xref></entry>
+							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
 <!--   Information security reviews -->
 						<row audience="audience-tech">
 							<entry colname="col1"> </entry>
@@ -1028,94 +1082,22 @@ has made for the products we operate, and our relationships with suppliers.</p>
 						</row>
 <!-- Risk Assessment -->
 <!--   Risk Management -->
+						<row>
+							<entry colname="col1">Risk Assessment</entry>
+							<entry colname="col2"><ph id="risk-management"/>Risk Management</entry>
+						</row>
 <!--   Risk Assessment Process -->
+						<row>
+							<entry colname="col1"> </entry>
+							<entry colname="col2"><ph id="risk-assessment-process"/>Risk Assessment Process</entry>
+							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/risk-reviews/" format="html" scope="external">Risk reviews</xref></entry>
+							<entry colname="col4">All users</entry>
+						</row>
 						</tbody>
 					</tgroup>
 				</table>
 			</body>
-
-      <topic id="compliance">
-        <title>Compliance</title>
-        <body/>
-        <topic id="compliance-with-legal-and-contractual-requirements">
-          <title>Compliance with legal and contractual requirements</title>
-          <body>
-            <simpletable>
-              <strow audience="audience-tech">
-                <stentry><xref href="data-destruction.dita" format="dita">Data Destruction</xref></stentry>
-                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
-              </strow>
-              <strow audience="audience-tech">
-                <stentry><xref href="data-destruction-contract-clauses-definitions.dita" format="dita">Data Destruction: Contract Clauses - Definitions</xref></stentry>
-                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
-              </strow>
-              <strow audience="audience-tech">
-                <stentry><xref href="data-destruction-contract-clauses-long-format.dita" format="dita">Data Destruction: Contract Clauses - Long Format</xref></stentry>
-                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
-              </strow>
-              <strow audience="audience-tech">
-                <stentry><xref href="data-destruction-contract-clauses-long-format-appendix.dita" format="dita">Data Destruction: Contract Clauses - Long Format (Appendix)</xref></stentry>
-                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
-              </strow>
-              <strow audience="audience-tech">
-                <stentry><xref href="data-destruction-contract-clauses-short-format.dita" format="dita">Data Destruction: Contract Clauses - Short Format</xref></stentry>
-                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
-              </strow>
-              <strow audience="audience-tech">
-                <stentry><xref href="data-destruction-instruction-and-confirmation-letter.dita" format="dita">Data Destruction: Instruction and Confirmation Letter</xref></stentry>
-                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
-              </strow>
-              <strow>
-                <stentry><xref href="data-security-and-privacy.dita" format="dita">Data Security and Privacy</xref></stentry>
-                <stentry>All users</stentry>
-              </strow>
-              <strow audience="audience-tech">
-                <stentry><xref href="data-security-and-privacy-lifecycle.dita" format="dita">Data Security &amp; Privacy Lifecycle Expectations</xref></stentry>
-                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
-              </strow>
-              <strow audience="audience-tech">
-                <stentry><xref href="data-security-and-privacy-triage-standards.dita" format="dita">Data Security &amp; Privacy Triage Standards</xref></stentry>
-                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
-              </strow>
-            </simpletable>
-          </body>
-        </topic>
-        <topic id="information-security-reviews" audience="audience-tech">
-          <title>Information security reviews</title>
-          <body>
-            <simpletable>
-              <strow audience="audience-tech">
-                <stentry><xref href="standards-assurance-tables.dita" format="dita">Standards Assurance Tables</xref></stentry>
-                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
-              </strow>
-            </simpletable>
-          </body>
-        </topic>
-      </topic>
-      
-      <topic id="risk-assessment">
-        <title>Risk Assessment</title>
-        <body/>
-        <!--
-        <topic id="risk-management">
-          <title>Risk Management</title>
-          <body/>
-        </topic>
-        -->
-        <topic id="risk-assessment-process">
-          <title>Risk Assessment Process</title>
-          <body>
-            <simpletable>
-              <strow>
-                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/risk-reviews/" format="html" scope="external">Risk reviews</xref></stentry>
-                <stentry>All users</stentry>
-              </strow>
-            </simpletable>
-          </body>
-        </topic>
-      </topic>
-
-    </topic>
+		</topic>
 	</topic>
 	<topic id="other-guidance">
 		<title>Other Guidance</title>
