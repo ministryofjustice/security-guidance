@@ -923,109 +923,15 @@ has made for the products we operate, and our relationships with suppliers.</p>
 						</row>
 <!-- Supplier relationships -->
 <!--   Information security in supplier relationships -->
-						<row audience="audience-tech">
-							<entry colname="col1">Supplier relationships</entry>
-							<entry colname="col2"><ph id="information-security-in-supplier-relationships"/>Information security in supplier relationships</entry>
-							<entry colname="col3"><xref href="assessing-suppliers.dita" format="dita">Suppliers to <ph conref="conrefs.dita#conrefs/moj"/>: Assessing Suppliers</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="contracts.dita" format="dita">Suppliers to <ph conref="conrefs.dita#conrefs/moj"/>: Contracts</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="security-aspect-letters.dita" format="dita">Suppliers to <ph conref="conrefs.dita#conrefs/moj"/>: Security Aspect Letters</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="supplier-corporate-it.dita" format="dita">Suppliers to <ph conref="conrefs.dita#conrefs/moj"/>: Supplier Corporate IT</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
 <!--   Supplier service delivery management -->
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="supplier-service-delivery-management"/>Supplier service delivery management</entry>
-							<entry colname="col3"><xref href="baseline-aws-accounts.dita" format="dita">Baseline for Amazon Web Services accounts</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
 <!-- Information security incident management -->
 <!--   Management of information security incidents and improvements -->
-						<row>
-							<entry colname="col1">Information security incident management</entry>
-							<entry colname="col2"><ph id="management-of-information-security-incidents-and-improvements"/>Management of information security incidents and improvements</entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/forensic-principles/" format="html" scope="external">Forensic Principles</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/forensic-readiness-guide/" format="html" scope="external">Forensic Readiness Guide</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy/" format="html" scope="external">Forensic Readiness Policy</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/" format="html" scope="external">Incident Management Plan and Process Guide</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/" format="html" scope="external">IT Incident Management Policy</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="lost-laptophardware.dita" format="dita">Lost Laptop or other IT security incident</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="reporting-an-incident.dita" format="dita">Reporting an incident</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
 <!-- Information security aspects of business continuity management -->
 <!--   Information security continuity -->
-						<row audience="audience-tech">
-							<entry colname="col1">Information security aspects of business continuity management</entry>
-							<entry colname="col2"><ph id="information-security-continuity"/>Information security continuity</entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-disaster-recovery-plan-and-process-guide/" format="html" scope="external">ICT Disaster Recovery Plan and Process Guide</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/" format="html" scope="external">IT Disaster Recovery Policy</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
 <!--   Redundancies -->
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="redundancies"/>Redundancies</entry>
-						</row>
 <!-- Compliance -->
 <!--   Compliance with legal and contractual requirements -->
 <!--   Information security reviews -->
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="information-security-reviews"/>Information security reviews</entry>
-							<entry colname="col3"><xref href="standards-assurance-tables.dita" format="dita">Standards Assurance Tables</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
 <!-- Risk Assessment -->
 <!--   Risk Management -->
 <!--   Risk Assessment Process -->
@@ -1033,6 +939,111 @@ has made for the products we operate, and our relationships with suppliers.</p>
 					</tgroup>
 				</table>
 			</body>
+
+
+      <topic id="supplier-relationships" audience="audience-tech">
+        <title>Supplier relationships</title>
+        <body/>
+        <topic id="risk-management">
+          <title>Information security in supplier relationships</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><xref href="assessing-suppliers.dita" format="dita">Suppliers to <ph conref="conrefs.dita#conrefs/moj"/>: Assessing Suppliers</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="contracts.dita" format="dita">Suppliers to <ph conref="conrefs.dita#conrefs/moj"/>: Contracts</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="security-aspect-letters.dita" format="dita">Suppliers to <ph conref="conrefs.dita#conrefs/moj"/>: Security Aspect Letters</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="supplier-corporate-it.dita" format="dita">Suppliers to <ph conref="conrefs.dita#conrefs/moj"/>: Supplier Corporate IT</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+        <topic id="supplier-service-delivery-management">
+          <title>Supplier service delivery management</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><xref href="baseline-aws-accounts.dita" format="dita">Baseline for Amazon Web Services accounts</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+      </topic>
+
+      <topic id="information-security-incident-management">
+        <title>Information security incident management</title>
+        <body/>
+        <topic id="management-of-information-security-incidents-and-improvements">
+          <title>Management of information security incidents and improvements</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/forensic-principles/" format="html" scope="external">Forensic Principles</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+              <strow audience="audience-tech">
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/forensic-readiness-guide/" format="html" scope="external">Forensic Readiness Guide</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow audience="audience-tech">
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy/" format="html" scope="external">Forensic Readiness Policy</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow audience="audience-tech">
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/" format="html" scope="external">Incident Management Plan and Process Guide</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow audience="audience-tech">
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/" format="html" scope="external">IT Incident Management Policy</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="lost-laptophardware.dita" format="dita">Lost Laptop or other IT security incident</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="reporting-an-incident.dita" format="dita">Reporting an incident</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+      </topic>
+
+
+      <topic id="information-security-aspects-of-business-continuity-management">
+        <title>Information security aspects of business continuity management</title>
+        <body/>
+        <topic id="information-security-continuity">
+          <title>Information security continuity</title>
+          <body>
+            <simpletable>
+              <strow audience="audience-tech">
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-disaster-recovery-plan-and-process-guide/" format="html" scope="external">ICT Disaster Recovery Plan and Process Guide</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow audience="audience-tech">
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/" format="html" scope="external">IT Disaster Recovery Policy</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+        <topic id="redundancies">
+          <title>Redundancies</title>
+          <body/>
+        </topic>
+      </topic>
 
       <topic id="compliance">
         <title>Compliance</title>
@@ -1092,7 +1103,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
           </body>
         </topic>
       </topic>
-      
+
       <topic id="risk-assessment">
         <title>Risk Assessment</title>
         <body/>
