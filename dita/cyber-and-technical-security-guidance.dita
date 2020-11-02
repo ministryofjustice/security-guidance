@@ -88,208 +88,220 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!-- Information security policies -->
 <!--   Management direction for information security -->
 						<row>
-							<entry colname="col1"><xref href="#document-list/management-direction-for-information-security" format="dita">Information security policies</xref></entry>
-							<entry colname="col2"><xref href="#document-list/management-direction-for-information-security" format="dita">Management direction for information security</xref></entry>
+							<entry colname="col1"><xref href="#information-security-policies" format="dita">Information security policies</xref></entry>
+							<entry colname="col2"><xref href="#management-direction-for-information-security" format="dita">Management direction for information security</xref></entry>
 						</row>
 <!-- Organisation of information security -->
 <!--   Internal organisation -->
+						<!--
 						<row>
-							<entry colname="col1"><xref href="#document-list/internal-organisation" format="dita">Organisation of information security</xref></entry>
-							<entry colname="col2"><xref href="#document-list/internal-organisation" format="dita">Internal organisation</xref></entry>
+							<entry colname="col1"><xref href="#organisation-of-information-security" format="dita">Organisation of information security</xref></entry>
+							<entry colname="col2"><xref href="#internal-organisation" format="dita">Internal organisation</xref></entry>
 						</row>
+					-->
 <!-- Mobile devices and teleworking -->
 <!--   Mobile device policy -->
 						<row>
-							<entry colname="col1"><xref href="#document-list/mobile-device-policy" format="dita">Mobile devices and teleworking</xref></entry>
-							<entry colname="col2"><xref href="#document-list/mobile-device-policy" format="dita">Mobile device policy</xref></entry>
+							<entry colname="col1"><xref href="#mobile-devices-and-teleworking" format="dita">Mobile devices and teleworking</xref></entry>
+							<entry colname="col2"><xref href="#mobile-device-policy" format="dita">Mobile device policy</xref></entry>
 						</row>
 <!--   Teleworking -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/teleworking" format="dita">Teleworking</xref></entry>
+							<entry colname="col2"><xref href="#teleworking" format="dita">Teleworking</xref></entry>
 						</row>
 <!-- Human resource security -->
 <!--   Prior to employment -->
 						<row>
-							<entry colname="col1"><xref href="#document-list/prior-to-employment" format="dita">Human resource security</xref></entry>
-							<entry colname="col2"><xref href="#document-list/prior-to-employment" format="dita">Prior to employment</xref></entry>
+							<entry colname="col1"><xref href="#human-resource-security" format="dita">Human resource security</xref></entry>
+							<entry colname="col2"><xref href="#prior-to-employment" format="dita">Prior to employment</xref></entry>
 						</row>
 <!--   During employment -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/during-employment" format="dita">During employment</xref></entry>
+							<entry colname="col2"><xref href="#during-employment" format="dita">During employment</xref></entry>
 						</row>
 <!--   Termination and change of employment -->
+						<!--
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/termination-and-change-of-employment" format="dita">Termination and change of employment</xref></entry>
+							<entry colname="col2"><xref href="#termination-and-change-of-employment" format="dita">Termination and change of employment</xref></entry>
 						</row>
+						-->
 <!-- Asset management -->
 <!--   Responsibility for assets -->
 						<row>
-							<entry colname="col1"><xref href="#document-list/responsibility-for-assets" format="dita">Asset management</xref></entry>
-							<entry colname="col2"><xref href="#document-list/responsibility-for-assets" format="dita">Responsibility for assets</xref></entry>
+							<entry colname="col1"><xref href="#asset-management" format="dita">Asset management</xref></entry>
+							<entry colname="col2"><xref href="#responsibility-for-assets" format="dita">Responsibility for assets</xref></entry>
 						</row>
 <!--   Information classification -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/information-classification" format="dita">Information classification</xref></entry>
+							<entry colname="col2"><xref href="#information-classification" format="dita">Information classification</xref></entry>
 						</row>
 <!--   Media handling -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/media-handling" format="dita">Media handling</xref></entry>
+							<entry colname="col2"><xref href="#media-handling" format="dita">Media handling</xref></entry>
 						</row>
 <!-- Access control -->
 <!--   Business requirements of access control -->
 						<row>
-							<entry colname="col1"><xref href="#document-list/business-requirements-of-access-control" format="dita">Access control</xref></entry>
-							<entry colname="col2"><xref href="#document-list/business-requirements-of-access-control" format="dita">Business requirements of access control</xref></entry>
+							<entry colname="col1"><xref href="#access-control" format="dita">Access control</xref></entry>
+							<entry colname="col2"><xref href="#business-requirements-of-access-control" format="dita">Business requirements of access control</xref></entry>
 						</row>
 <!--   User access management -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/user-access-management" format="dita">User access management</xref></entry>
+							<entry colname="col2"><xref href="#user-access-management" format="dita">User access management</xref></entry>
 						</row>
 <!--   User responsibilities -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/user-responsibilities" format="dita">User responsibilities</xref></entry>
+							<entry colname="col2"><xref href="#user-responsibilities" format="dita">User responsibilities</xref></entry>
 						</row>
 <!--   System and application access control -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/system-and-application-access-control" format="dita">System and application access control</xref></entry>
+							<entry colname="col2"><xref href="#system-and-application-access-control" format="dita">System and application access control</xref></entry>
 						</row>
 <!-- Cryptography -->
 <!--   Cryptographic controls -->
 						<row>
-							<entry colname="col1"><xref href="#document-list/cryptographic-controls" format="dita">Cryptography</xref></entry>
-							<entry colname="col2"><xref href="#document-list/cryptographic-controls" format="dita">Cryptographic controls</xref></entry>
+							<entry colname="col1"><xref href="#cryptography" format="dita">Cryptography</xref></entry>
+							<entry colname="col2"><xref href="#cryptographic-controls" format="dita">Cryptographic controls</xref></entry>
 						</row>
 <!-- Physical and environmental security -->
 <!--   Secure areas -->
+						<!--
 						<row>
-							<entry colname="col1"><xref href="#document-list/secure-areas" format="dita">Physical and environmental security</xref></entry>
-							<entry colname="col2"><xref href="#document-list/secure-areas" format="dita">Secure areas</xref></entry>
+							<entry colname="col1"><xref href="#physical-and-environmental-security" format="dita">Physical and environmental security</xref></entry>
+							<entry colname="col2"><xref href="#secure-areas" format="dita">Secure areas</xref></entry>
 						</row>
+						-->
 <!--   Equipment -->
 						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/equipment" format="dita">Equipment</xref></entry>
+							<entry colname="col1"><xref href="#physical-and-environmental-security" format="dita">Physical and environmental security</xref></entry>
+							<entry colname="col2"><xref href="#equipment" format="dita">Equipment</xref></entry>
 						</row>
 <!-- Operations security -->
 <!--   Operational procedures and responsibilities -->
 						<row>
-							<entry colname="col1"><xref href="#document-list/operational-procedures-and-responsibilities" format="dita">Operations security</xref></entry>
-							<entry colname="col2"><xref href="#document-list/operational-procedures-and-responsibilities" format="dita">Operational procedures and responsibilities</xref></entry>
+							<entry colname="col1"><xref href="#operations-security" format="dita">Operations security</xref></entry>
+							<entry colname="col2"><xref href="#operational-procedures-and-responsibilities" format="dita">Operational procedures and responsibilities</xref></entry>
 						</row>
 <!--   Protection from malware -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/protection-from-malware" format="dita">Protection from malware</xref></entry>
+							<entry colname="col2"><xref href="#protection-from-malware" format="dita">Protection from malware</xref></entry>
 						</row>
 <!--   Backup -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/backup" format="dita">Backup</xref></entry>
+							<entry colname="col2"><xref href="#backup" format="dita">Backup</xref></entry>
 						</row>
 <!--   Logging and monitoring -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/logging-and-monitoring" format="dita">Logging and monitoring</xref></entry>
+							<entry colname="col2"><xref href="#logging-and-monitoring" format="dita">Logging and monitoring</xref></entry>
 						</row>
 <!--   Control of operational software -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/control-of-operational-software" format="dita">Control of operational software</xref></entry>
+							<entry colname="col2"><xref href="#control-of-operational-software" format="dita">Control of operational software</xref></entry>
 						</row>
 <!--   Technical vulnerability management -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/technical-vulnerability-management" format="dita">Technical vulnerability management</xref></entry>
+							<entry colname="col2"><xref href="#technical-vulnerability-management" format="dita">Technical vulnerability management</xref></entry>
 						</row>
 <!--   Information systems audit considerations -->
+						<!--
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/information-systems-audit-considerations" format="dita">Information systems audit considerations</xref></entry>
+							<entry colname="col2"><xref href="#information-systems-audit-considerations" format="dita">Information systems audit considerations</xref></entry>
 						</row>
+					-->
 <!-- Communications security -->
 <!--   Network security management -->
 						<row>
-							<entry colname="col1"><xref href="#document-list/network-security-management" format="dita">Communications security</xref></entry>
-							<entry colname="col2"><xref href="#document-list/network-security-management" format="dita">Network security management</xref></entry>
+							<entry colname="col1"><xref href="#communications-security" format="dita">Communications security</xref></entry>
+							<entry colname="col2"><xref href="#network-security-management" format="dita">Network security management</xref></entry>
 						</row>
 <!--   Information transfer -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/information-transfer" format="dita">Information transfer</xref></entry>
+							<entry colname="col2"><xref href="#information-transfer" format="dita">Information transfer</xref></entry>
 						</row>
 <!-- System acquisition, development and maintenance -->
 <!--   Security requirements of information systems -->
 						<row>
-							<entry colname="col1"><xref href="#document-list/security-requirements-of-information-systems" format="dita">System acquisition, development and maintenance</xref></entry>
-							<entry colname="col2"><xref href="#document-list/security-requirements-of-information-systems" format="dita">Security requirements of information systems</xref></entry>
+							<entry colname="col1"><xref href="#system-acquisition-development-and-maintenance" format="dita">System acquisition, development and maintenance</xref></entry>
+							<entry colname="col2"><xref href="#security-requirements-of-information-systems" format="dita">Security requirements of information systems</xref></entry>
 						</row>
 <!--   Security in development and support processes -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/security-in-development-and-support-processes" format="dita">Security in development and support processes</xref></entry>
+							<entry colname="col2"><xref href="#security-in-development-and-support-processes" format="dita">Security in development and support processes</xref></entry>
 						</row>
 <!--   Test data -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/test-data" format="dita">Test data</xref></entry>
+							<entry colname="col2"><xref href="#test-data" format="dita">Test data</xref></entry>
 						</row>
 <!-- Supplier relationships -->
 <!--   Information security in supplier relationships -->
 						<row>
-							<entry colname="col1"><xref href="#document-list/information-security-in-supplier-relationships" format="dita">Supplier relationships</xref></entry>
-							<entry colname="col2"><xref href="#document-list/information-security-in-supplier-relationships" format="dita">Information security in supplier relationships</xref></entry>
+							<entry colname="col1"><xref href="#supplier-relationships" format="dita">Supplier relationships</xref></entry>
+							<entry colname="col2"><xref href="#information-security-in-supplier-relationships" format="dita">Information security in supplier relationships</xref></entry>
 						</row>
 <!--   Supplier service delivery management -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/supplier-service-delivery-management" format="dita">Supplier service delivery management</xref></entry>
+							<entry colname="col2"><xref href="#supplier-service-delivery-management" format="dita">Supplier service delivery management</xref></entry>
 						</row>
 <!-- Information security incident management -->
 <!--   Management of information security incidents and improvements -->
 						<row>
-							<entry colname="col1"><xref href="#document-list/management-of-information-security-incidents-and-improvements" format="dita">Information security incident management</xref></entry>
-							<entry colname="col2"><xref href="#document-list/management-of-information-security-incidents-and-improvements" format="dita">Management of information security incidents and improvements</xref></entry>
+							<entry colname="col1"><xref href="#information-security-incident-management" format="dita">Information security incident management</xref></entry>
+							<entry colname="col2"><xref href="#management-of-information-security-incidents-and-improvements" format="dita">Management of information security incidents and improvements</xref></entry>
 						</row>
 <!-- Information security aspects of business continuity management -->
 <!--   Information security continuity -->
 						<row>
-							<entry colname="col1"><xref href="#document-list/information-security-continuity" format="dita">Information security aspects of business continuity management</xref></entry>
-							<entry colname="col2"><xref href="#document-list/information-security-continuity" format="dita">Information security continuity</xref></entry>
+							<entry colname="col1"><xref href="#information-security-aspects-of-business-continuity-management" format="dita">Information security aspects of business continuity management</xref></entry>
+							<entry colname="col2"><xref href="#information-security-continuity" format="dita">Information security continuity</xref></entry>
 						</row>
 <!--   Redundancies -->
+						<!--
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/redundancies" format="dita">Redundancies</xref></entry>
+							<entry colname="col2"><xref href="#redundancies" format="dita">Redundancies</xref></entry>
 						</row>
+					-->
 <!-- Compliance -->
 <!--   Compliance with legal and contractual requirements -->
 						<row>
-							<entry colname="col1"><xref href="#document-list/compliance-with-legal-and-contractual-requirements" format="dita">Compliance</xref></entry>
-							<entry colname="col2"><xref href="#document-list/compliance-with-legal-and-contractual-requirements" format="dita">Compliance with legal and contractual requirements</xref></entry>
+							<entry colname="col1"><xref href="#compliance" format="dita">Compliance</xref></entry>
+							<entry colname="col2"><xref href="#compliance-with-legal-and-contractual-requirements" format="dita">Compliance with legal and contractual requirements</xref></entry>
 						</row>
 <!--   Information security reviews -->
 						<row>
 							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/information-security-reviews" format="dita">Information security reviews</xref></entry>
+							<entry colname="col2"><xref href="#information-security-reviews" format="dita">Information security reviews</xref></entry>
 						</row>
 <!-- Risk Assessment -->
 <!--   Risk Management -->
+						<!--
 						<row>
-							<entry colname="col1"><xref href="#document-list/risk-management" format="dita">Risk Assessment</xref></entry>
-							<entry colname="col2"><xref href="#document-list/risk-management" format="dita">Risk Management</xref></entry>
+							<entry colname="col1"><xref href="#risk-assessment" format="dita">Risk Assessment</xref></entry>
+							<entry colname="col2"><xref href="#risk-management" format="dita">Risk Management</xref></entry>
 						</row>
+						-->
 <!--   Risk Assessment Process -->
 						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><xref href="#document-list/risk-assessment-process" format="dita">Risk Assessment Process</xref></entry>
+							<entry colname="col1"><xref href="#risk-assessment" format="dita">Risk Assessment</xref></entry>
+							<entry colname="col2"><xref href="#risk-assessment-process" format="dita">Risk Assessment Process</xref></entry>
 						</row>
 					</tbody>
 				</tgroup>
@@ -299,579 +311,512 @@ has made for the products we operate, and our relationships with suppliers.</p>
 			<p>Content tagged with the Intranet icon (<image conref="conrefs.dita#conrefs/intraneticon"/>) is on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.
 			You will need Intranet access to view that content.</p>
 		</body>
-		<topic id="document-list">
-			<title>Document List</title>
-			<body>
-				<table>
-					<tgroup cols="4">
-						<colspec colname="col1" colnum="1" colwidth="1*"/>
-						<colspec colname="col2" colnum="2" colwidth="1*"/>
-						<colspec colname="col3" colnum="3" colwidth="2*"/>
-						<colspec colname="col4" colnum="4" colwidth="2*"/>
-						<thead>
-							<row>
-								<entry colname="col1">Level 1</entry>
-								<entry colname="col2">Level 2</entry>
-								<entry colname="col3">Documents</entry>
-								<entry colname="col4">Target Audience</entry>
-							</row>
-						</thead>
-						<tbody>
-<!-- Information security policies -->
-<!--   Management direction for information security -->
-						<row>
-							<entry colname="col1">Information security policies</entry>
-							<entry colname="col2"><ph id="management-direction-for-information-security"/>Management direction for information security</entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/setecastronomy/" format="html" scope="external">Avoiding too much security</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="identify-protect-detect-respond-recover.dita" format="dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/" format="html" scope="external">Line Manager approval</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="shared-responsibility-models.dita" format="dita">Shared Responsibility Models</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-<!-- Organisation of information security -->
-<!--   Internal organisation -->
-						<row>
-							<entry colname="col1">Organisation of information security</entry>
-							<entry colname="col2"><ph id="internal-organisation"/>Internal organisation</entry>
-						</row>
-<!-- Mobile devices and teleworking -->
-<!--   Mobile device policy -->
-						<row>
-							<entry colname="col1">Mobile devices and teleworking</entry>
-							<entry colname="col2"><ph id="mobile-device-policy"/>Mobile device policy</entry>
-							<entry colname="col3"><xref href="remote-working.dita" format="dita">Remote Working</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-<!--   Teleworking -->
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="teleworking"/>Teleworking</entry>
-							<entry colname="col3"><xref href="accessing-moj-it-systems-from-abroad.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Abroad</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="general-advice-on-taking-equipment-abroad.dita" format="dita">General advice on taking equipment abroad</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="personal-devices.dita" format="dita">Security Guidance for Using a Personal Device</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-<!-- Human resource security -->
-<!--   Prior to employment -->
-						<row>
-							<entry colname="col1">Human resource security</entry>
-							<entry colname="col2"><ph id="prior-to-employment"/>Prior to employment</entry>
-							<entry colname="col3">
-								<xref href="personnel-security-clearances.dita" format="dita" type="topic">Personnel security clearances</xref>
-							</entry>
-							<entry colname="col4">All users</entry>
-						</row>
-<!--   During employment -->
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="during-employment"/>During employment</entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/training-and-education/" format="html" scope="external">Training and Education</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-<!--   Termination and change of employment -->
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="termination-and-change-of-employment"/>Termination and change of employment</entry>
-						</row>
-<!-- Asset management -->
-<!--   Responsibility for assets -->
-						<row>
-							<entry colname="col1">Asset management</entry>
-							<entry colname="col2"><ph id="responsibility-for-assets"/>Responsibility for assets</entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external">Acceptable use</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use-policy/" format="html" scope="external">Acceptable use policy</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/" format="html" scope="external">IT Acceptable Use Policy</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/protect-yourself-online/" format="html" scope="external">Protect Yourself Online</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/" format="html" scope="external">Web browsing security</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-<!--   Information classification -->
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="information-classification"/>Information classification</entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/data-handling-and-information-sharing-guide/" format="html" scope="external">Data Handling and Information Sharing Guide</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme" format="html" scope="external">Government Classification Scheme</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/" format="html" scope="external">Information Classification and Handling Policy</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="official-official-sensitive.dita" format="dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="secrets-management.dita" format="dita">Secrets management</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-<!--   Media handling -->
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="media-handling"/>Media handling</entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/" format="html" scope="external">Removable media</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-ict-equipment/" format="html" scope="external">Secure disposal of ICT equipment</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-<!-- Access control -->
-<!--   Business requirements of access control -->
-						<row audience="audience-tech">
-							<entry colname="col1">Access control</entry>
-							<entry colname="col2"><ph id="business-requirements-of-access-control"/>Business requirements of access control</entry>
-							<entry colname="col3"><xref href="access-control-guide.dita" format="dita" type="topic">Access Control Guide</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-enterprise-access-control-policy/" format="html" scope="external">Enterprise Access Control Policy</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-<!--   User access management -->
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="user-access-management"/>User access management</entry>
-							<entry colname="col3"><xref href="authentication.dita" format="dita">Authentication</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="management-access.dita" format="dita">Management access</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="managing-user-access-guide.dita" format="dita">Managing User Access Guide</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels Guide</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="multi-factor-authentication-mfa-guide.dita" format="dita" type="topic">Multi-Factor Authentication</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="privileged-account-management-guide.dita" format="dita" type="topic">Privileged Account Management Guide</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-<!--   User responsibilities -->
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="user-responsibilities"/>User responsibilities</entry>
-							<entry colname="col3"><xref href="protecting-social-media-accounts.dita" format="dita" type="topic">Protecting Social Media Accounts</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-<!--   System and application access control -->
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="system-and-application-access-control"/>System and application access control</entry>
-							<entry colname="col3"><xref href="authorisation.dita" format="dita">Authorisation</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="password-managers.dita" format="dita">Password Managers</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-google-apps-administrators/" format="html" scope="external">Policies for Google Apps administrators</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-administrators/" format="html" scope="external">Policies for Macbook Administrators</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/" format="html" scope="external">System User and Application Administrators</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="using-lastpass.dita" format="dita">Using LastPass Enterprise</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-<!-- Cryptography -->
-<!--   Cryptographic controls -->
-						<row audience="audience-tech">
-							<entry colname="col1">Cryptography</entry>
-							<entry colname="col2"><ph id="cryptographic-controls"/>Cryptographic controls</entry>
-							<entry colname="col3"><xref href="automated-certificate-renewal.dita" format="dita">Automated certificate renewal</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="cryptography.dita" format="dita" type="topic">Cryptography</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/hmg-cryptography-business-continuity-management-standard/" format="html" scope="external">HMG Cryptography Business Continuity Management Standard</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/public-key-infrastructure-policy/" format="html" scope="external">Public Key Infrastructure Policy</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/use-of-hmg-cryptography-policy/" format="html" scope="external">Use of HMG Cryptography Policy</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-<!-- Physical and environmental security -->
-<!--   Secure areas -->
-						<row>
-							<entry colname="col1">Physical and environmental security</entry>
-							<entry colname="col2"><ph id="secure-areas"/>Secure areas</entry>
-						</row>
-<!--   Equipment -->
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="equipment"/>Equipment</entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/clear-screen-and-desk-policy/" format="html" scope="external">Clear Screen and Desk Policy</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/laptops/" format="html" scope="external">Laptops</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/locking-and-shutdown/" format="html" scope="external">Locking and shutdown</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-users/" format="html" scope="external">Policies for Macbook Users</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-lockdown-and-hardening-standard/" format="html" scope="external">System Lockdown and Hardening Standard</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-<!-- Operations security -->
-<!--   Operational procedures and responsibilities -->
-						<row audience="audience-tech">
-							<entry colname="col1">Operations security</entry>
-							<entry colname="col2"><ph id="operational-procedures-and-responsibilities"/>Operational procedures and responsibilities</entry>
-							<entry colname="col3"><xref href="mail-check.dita" format="dita">Active Cyber Defence: Mail Check</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="public-sector-dns.dita" format="dita">Active Cyber Defence: Public Sector DNS</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="web-check.dita" format="dita">Active Cyber Defence: Web Check</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/offshoring-guide/" format="html" scope="external">Offshoring Guide</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-<!--   Protection from malware -->
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="protection-from-malware"/>Protection from malware</entry>
-							<entry colname="col3"><xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide (Overview)</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="malware-protection-guidance-defensive-layer-1.dita" format="dita">Malware Protection Guide: Defensive Layer 1</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="malware-protection-guidance-defensive-layer-2.dita" format="dita">Malware Protection Guide: Defensive Layer 2</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="malware-protection-guidance-defensive-layer-3.dita" format="dita">Malware Protection Guide: Defensive Layer 3</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-<!--   Backup -->
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="backup"/>Backup</entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-backup-guidance/" format="html" scope="external">System backup guidance</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-backup-policy/" format="html" scope="external">System backup policy</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-backup-standard/" format="html" scope="external">System backup standard</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-<!--   Logging and monitoring -->
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="logging-and-monitoring"/>Logging and monitoring</entry>
-							<entry colname="col3"><xref href="accounting.dita" format="dita" type="topic">Accounting</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="cots-applications.dita" format="dita">Commercial off-the-shelf applications</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="custom-applications.dita" format="dita">Custom Applications</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="online-identifiers.dita" format="dita">Online identifiers in security logging &amp; monitoring</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/protective-monitoring-guide/" format="html" scope="external">Protective Monitoring Guide</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="security-log-collection.dita" format="dita">Security Log Collection</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="enterprise-it-infrastructure.dita" format="dita">Security Log Collection: Enterprise IT - Infrastructure</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="enterprise-it-mobile-devices.dita" format="dita">Security Log Collection: Enterprise IT - Mobile Devices</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="hosting-platforms.dita" format="dita">Security Log Collection: Hosting Platforms</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="log-entry-metadata.dita" format="dita">Security Log Collection: Log entry metadata</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="security-log-collection-maturity-tiers.dita" format="dita">Security Log Collection: Maturity Tiers</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-<!--   Control of operational software -->
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="control-of-operational-software"/>Control of operational software</entry>
-							<entry colname="col3"><xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref></entry>
-							<entry colname="col4">All users</entry>
-						</row>
-<!--   Technical vulnerability management -->
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="technical-vulnerability-management"/>Technical vulnerability management</entry>
-							<entry colname="col3"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/patch-management-standard/" format="html" scope="external">Patch Management Standard</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="vulnerability-disclosure-policy.dita" format="dita">Vulnerability Disclosure</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="implement-security-txt.dita" format="dita">Vulnerability Disclosure: Implementing <codeph>security.txt</codeph></xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1"> </entry>
-							<entry colname="col2"> </entry>
-							<entry colname="col3"><xref href="vulnerability-scanning.dita" format="dita">Vulnerability scanning</xref></entry>
-							<entry colname="col4">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-						</row>
-<!--   Information systems audit considerations -->
-						<row>
-							<entry colname="col1"> </entry>
-							<entry colname="col2"><ph id="information-systems-audit-considerations"/>Information systems audit considerations</entry>
-						</row>
-<!-- Communications security -->
-<!--   Network security management -->
-<!--   Information transfer -->
-<!-- System acquisition, development and maintenance -->
-<!--   Security requirements of information systems -->
-<!--   Security in development and support processes -->
-<!--   Test data -->
-<!-- Supplier relationships -->
-<!--   Information security in supplier relationships -->
-<!--   Supplier service delivery management -->
-<!-- Information security incident management -->
-<!--   Management of information security incidents and improvements -->
-<!-- Information security aspects of business continuity management -->
-<!--   Information security continuity -->
-<!--   Redundancies -->
-<!-- Compliance -->
-<!--   Compliance with legal and contractual requirements -->
-<!--   Information security reviews -->
-<!-- Risk Assessment -->
-<!--   Risk Management -->
-<!--   Risk Assessment Process -->
-						</tbody>
-					</tgroup>
-				</table>
-			</body>
 
-<!--
-
- audience="audience-tech"
-Technical Architect, DevOps, IT Service Manager, Software Developer
-All users
-
-      <topic id="">
-        <title></title>
+        <topic id="information-security-policies">
+        <title>Information security policies</title>
         <body/>
-        <topic id="">
-          <title></title>
+        <topic id="management-direction-for-information-security">
+          <title>Management direction for information security</title>
           <body>
             <simpletable>
-              <strow audience="audience-tech">
-                <stentry></stentry>
-                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/setecastronomy/" format="html" scope="external">Avoiding too much security</xref></stentry>
+                <stentry>All users</stentry>
               </strow>
-            </simpletable>
-          </body>
-        </topic>
-        <topic id="">
-          <title></title>
-          <body>
-            <simpletable>
+              <strow>
+                <stentry><xref href="identify-protect-detect-respond-recover.dita" format="dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/" format="html" scope="external">Line Manager approval</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
               <strow audience="audience-tech">
-                <stentry></stentry>
+                <stentry><xref href="shared-responsibility-models.dita" format="dita">Shared Responsibility Models</xref></stentry>
                 <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
               </strow>
             </simpletable>
           </body>
         </topic>
       </topic>
+
+      <!--
+      <topic id="organisation-of-information-security">
+        <title>Organisation of information security</title>
+        <body/>
+        <topic id="internal-organisation">
+          <title>Internal organisation</title>
+          <body/>
+        </topic>
+      </topic>
+            -->
+
+      <topic id="mobile-devices-and-teleworking">
+        <title>Mobile devices and teleworking</title>
+        <body/>
+        <topic id="mobile-device-policy">
+          <title>Mobile device policy</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><xref href="remote-working.dita" format="dita">Remote Working</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+        <topic id="teleworking">
+          <title>Teleworking</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><xref href="accessing-moj-it-systems-from-abroad.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Abroad</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="general-advice-on-taking-equipment-abroad.dita" format="dita">General advice on taking equipment abroad</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="personal-devices.dita" format="dita">Security Guidance for Using a Personal Device</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+      </topic>
+
+      <topic id="human-resource-security">
+        <title>Human resource security</title>
+        <body/>
+        <topic id="prior-to-employment">
+          <title>Prior to employment</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><xref href="personnel-security-clearances.dita" format="dita" type="topic">Personnel security clearances</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+        <topic id="during-employment">
+          <title>During employment</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/training-and-education/" format="html" scope="external">Training and Education</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+        <!--
+        <topic id="termination-and-change-of-employment">
+          <title>Termination and change of employment</title>
+          <body/>
+        </topic>
+        -->
+      </topic>
+
+      <topic id="asset-management">
+        <title>Asset management</title>
+        <body/>
+        <topic id="responsibility-for-assets">
+          <title>Responsibility for assets</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external">Acceptable use</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use-policy/" format="html" scope="external">Acceptable use policy</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+              <strow audience="audience-tech">
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/" format="html" scope="external">IT Acceptable Use Policy</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/protect-yourself-online/" format="html" scope="external">Protect Yourself Online</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/" format="html" scope="external">Web browsing security</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+        <topic id="information-classification">
+          <title>Information classification</title>
+          <body>
+            <simpletable>
+              <strow audience="audience-tech">
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/data-handling-and-information-sharing-guide/" format="html" scope="external">Data Handling and Information Sharing Guide</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme" format="html" scope="external">Government Classification Scheme</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+              <strow audience="audience-tech">
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/" format="html" scope="external">Information Classification and Handling Policy</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="official-official-sensitive.dita" format="dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+              <strow audience="audience-tech">
+                <stentry><xref href="secrets-management.dita" format="dita">Secrets management</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+        <topic id="media-handling">
+          <title>Media handling</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/" format="html" scope="external">Removable media</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-ict-equipment/" format="html" scope="external">Secure disposal of ICT equipment</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+      </topic>
+
+      <topic id="access-control">
+        <title>Access control</title>
+        <body/>
+        <topic id="business-requirements-of-access-control" audience="audience-tech">
+          <title>Business requirements of access control</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><xref href="access-control-guide.dita" format="dita" type="topic">Access Control Guide</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-enterprise-access-control-policy/" format="html" scope="external">Enterprise Access Control Policy</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+        <topic id="user-access-management">
+          <title>User access management</title>
+          <body>
+            <simpletable>
+              <strow audience="audience-tech">
+                <stentry><xref href="authentication.dita" format="dita">Authentication</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow audience="audience-tech">
+                <stentry><xref href="management-access.dita" format="dita">Management access</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow audience="audience-tech">
+                <stentry><xref href="managing-user-access-guide.dita" format="dita">Managing User Access Guide</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow audience="audience-tech">
+                <stentry><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels Guide</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+              <strow audience="audience-tech">
+                <stentry><xref href="multi-factor-authentication-mfa-guide.dita" format="dita" type="topic">Multi-Factor Authentication</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow audience="audience-tech">
+                <stentry><xref href="privileged-account-management-guide.dita" format="dita" type="topic">Privileged Account Management Guide</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+        <topic id="user-responsibilities">
+          <title>User responsibilities</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><xref href="protecting-social-media-accounts.dita" format="dita" type="topic">Protecting Social Media Accounts</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+        <topic id="system-and-application-access-control">
+          <title>System and application access control</title>
+          <body>
+            <simpletable>
+              <strow audience="audience-tech">
+                <stentry><xref href="authorisation.dita" format="dita">Authorisation</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="password-managers.dita" format="dita">Password Managers</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+              <strow audience="audience-tech">
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-google-apps-administrators/" format="html" scope="external">Policies for Google Apps administrators</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow audience="audience-tech">
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-administrators/" format="html" scope="external">Policies for Macbook Administrators</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow audience="audience-tech">
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/" format="html" scope="external">System User and Application Administrators</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="using-lastpass.dita" format="dita">Using LastPass Enterprise</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+      </topic>
+
+      <topic id="cryptography">
+        <title>Cryptography</title>
+        <body/>
+        <topic id="cryptographic-controls" audience="audience-tech">
+          <title>Cryptographic controls</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><xref href="automated-certificate-renewal.dita" format="dita">Automated certificate renewal</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="cryptography.dita" format="dita" type="topic">Cryptography</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/hmg-cryptography-business-continuity-management-standard/" format="html" scope="external">HMG Cryptography Business Continuity Management Standard</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/public-key-infrastructure-policy/" format="html" scope="external">Public Key Infrastructure Policy</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/use-of-hmg-cryptography-policy/" format="html" scope="external">Use of HMG Cryptography Policy</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+      </topic>
+
+      <topic id="physical-and-environmental-security">
+        <title>Physical and environmental security</title>
+        <body/>
+        <!--
+        <topic id="secure-areas">
+          <title>Secure areas</title>
+          <body/>
+        </topic>
+        -->
+        <topic id="equipment">
+          <title>Equipment</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/clear-screen-and-desk-policy/" format="html" scope="external">Clear Screen and Desk Policy</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/laptops/" format="html" scope="external">Laptops</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/locking-and-shutdown/" format="html" scope="external">Locking and shutdown</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-users/" format="html" scope="external">Policies for Macbook Users</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+              <strow audience="audience-tech">
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-lockdown-and-hardening-standard/" format="html" scope="external">System Lockdown and Hardening Standard</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+      </topic>
+
+      <topic id="operations-security">
+        <title>Operations security</title>
+        <body/>
+        <topic id="operational-procedures-and-responsibilities" audience="audience-tech">
+          <title>Operational procedures and responsibilities</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><xref href="mail-check.dita" format="dita">Active Cyber Defence: Mail Check</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="public-sector-dns.dita" format="dita">Active Cyber Defence: Public Sector DNS</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="web-check.dita" format="dita">Active Cyber Defence: Web Check</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/offshoring-guide/" format="html" scope="external">Offshoring Guide</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+        <topic id="protection-from-malware" audience="audience-tech">
+          <title>Protection from malware</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide (Overview)</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="malware-protection-guidance-defensive-layer-1.dita" format="dita">Malware Protection Guide: Defensive Layer 1</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="malware-protection-guidance-defensive-layer-2.dita" format="dita">Malware Protection Guide: Defensive Layer 2</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="malware-protection-guidance-defensive-layer-3.dita" format="dita">Malware Protection Guide: Defensive Layer 3</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+        <topic id="backup" audience="audience-tech">
+          <title>Backup</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-backup-guidance/" format="html" scope="external">System backup guidance</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-backup-policy/" format="html" scope="external">System backup policy</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-backup-standard/" format="html" scope="external">System backup standard</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+        <topic id="logging-and-monitoring" audience="audience-tech">
+          <title>Logging and monitoring</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><xref href="accounting.dita" format="dita" type="topic">Accounting</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="cots-applications.dita" format="dita">Commercial off-the-shelf applications</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="custom-applications.dita" format="dita">Custom Applications</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="online-identifiers.dita" format="dita">Online identifiers in security logging &amp; monitoring</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/protective-monitoring-guide/" format="html" scope="external">Protective Monitoring Guide</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="security-log-collection.dita" format="dita">Security Log Collection</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="enterprise-it-infrastructure.dita" format="dita">Security Log Collection: Enterprise IT - Infrastructure</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="enterprise-it-mobile-devices.dita" format="dita">Security Log Collection: Enterprise IT - Mobile Devices</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="hosting-platforms.dita" format="dita">Security Log Collection: Hosting Platforms</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="log-entry-metadata.dita" format="dita">Security Log Collection: Log entry metadata</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="security-log-collection-maturity-tiers.dita" format="dita">Security Log Collection: Maturity Tiers</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+        <topic id="control-of-operational-software">
+          <title>Control of operational software</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref></stentry>
+                <stentry>All users</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+        <topic id="technical-vulnerability-management" audience="audience-tech">
+          <title>Technical vulnerability management</title>
+          <body>
+            <simpletable>
+              <strow>
+                <stentry><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/patch-management-standard/" format="html" scope="external">Patch Management Standard</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="vulnerability-disclosure-policy.dita" format="dita">Vulnerability Disclosure</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="implement-security-txt.dita" format="dita">Vulnerability Disclosure: Implementing <codeph>security.txt</codeph></xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+              <strow>
+                <stentry><xref href="vulnerability-scanning.dita" format="dita">Vulnerability scanning</xref></stentry>
+                <stentry>Technical Architect, DevOps, IT Service Manager, Software Developer</stentry>
+              </strow>
+            </simpletable>
+          </body>
+        </topic>
+<!--
+        <topic id="information-systems-audit-considerations">
+          <title>Information systems audit considerations</title>
+          <body/>
+        </topic>
 -->
-            
+      </topic>
+
       <topic id="communications-security">
         <title>Communications security</title>
         <body/>
@@ -996,7 +941,7 @@ All users
       <topic id="supplier-relationships" audience="audience-tech">
         <title>Supplier relationships</title>
         <body/>
-        <topic id="risk-management">
+        <topic id="information-security-in-supplier-relationships">
           <title>Information security in supplier relationships</title>
           <body>
             <simpletable>
@@ -1090,10 +1035,12 @@ All users
             </simpletable>
           </body>
         </topic>
+				<!--
         <topic id="redundancies">
           <title>Redundancies</title>
           <body/>
         </topic>
+			-->
       </topic>
 
       <topic id="compliance">
@@ -1177,7 +1124,6 @@ All users
         </topic>
       </topic>
 
-    </topic>
 	</topic>
 	<topic id="other-guidance">
 		<title>Other Guidance</title>
