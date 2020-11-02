@@ -139,6 +139,10 @@
 	</topichead>
 	<topichead navtitle="System acquisition, development and maintenance">
 		<topichead navtitle="Security requirements of information systems">
+			<topicref href="technical-security-controls-guide.dita" type="topic" audience="audience-tech">
+				<topicref href="technical-security-controls-guide-defensive-layer-1.dita" type="topic" audience="audience-tech"/>
+				<topicref href="technical-security-controls-guide-defensive-layer-2.dita" type="topic" audience="audience-tech"/>
+			</topicref>
 		</topichead>
 		<topichead navtitle="Security in development and support processes">
 			<topicref href="maintained-by-default.dita" type="topic" audience="audience-tech"/>

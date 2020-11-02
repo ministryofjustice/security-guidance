@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="technical-security-controls-guide-defensive-layer-1">
+  <title>Technical Security Controls Guide: Defensive Layer 1</title>
+  <body/>
+  <topic id="defensive-layer-1-creating-a-baseline-security-environment">
+    <title>Defensive layer 1: Creating a baseline security environment</title>
+    <body>
+      <p><b>DO</b></p>
+      <p>The following security controls should be implemented to create a baseline security environment.</p>
+      <p>✔ Enforce access control through using <xref href="multi-factor-authentication-mfa-guide.dita" format="dita" type="topic">Multi-Factor Authentication (MFA)</xref>, security attributes and enforcing the 'need to know' principle.
+      Dual authorisation must also be used to conduct sensitive system changes.
+      For more information, see the <xref href="access-control-guide.dita" format="dita" type="topic">Access Control</xref> guide.</p>
+      <p>✔ Implement host-based protection such as host firewalls and host based intrusion detection.</p>
+      <p>✔ Restrict the use of remote access connections, using the following controls:
+        <ul>
+          <li>The monitoring and control of remote access methods.</li>
+          <li>Ensuring all remote access methods are encrypted.</li>
+          <li>Enabling the capability to rapidly disconnect a user from accessing an information system, and/or revoking further remote access.</li>
+        </ul></p>
+      <p>✔ Implement the following access control and security measures to protect <ph conref="conrefs.dita#conrefs/mojlong"/> wired and wireless networks:
+      <ul>
+        <li>Restrict a user's ability to change wired and wireless configurations.</li>
+        <li>Use strong encryption and authentication on both wired and wireless networks.</li>
+        <li>Carry out regular audits of routers and wireless access points looking for unauthorised units.</li>
+      </ul></p>
+      <p>✔ Synchronise timestamps with a primary and secondary authoritative time sources.</p>
+      <p>✔ Classify system connections, and apply restrictions to external systems and public networks.</p>
+      <p>✔ Test backup solutions at least every three months, to ensure data reliability and integrity.</p>
+      <p>✔ Use deny-listing/allow-listing tools for current and newly developed software.</p>
+      <p>✔ Enforce session lock controls with pattern-hiding displays.</p>
+      <p>✔ Use encryption to protect information.
+        Encryption mechanisms should include:
+        <ul>
+          <li>Secure key management and storage.</li>
+          <li>PKI certificates and hardware tokens.</li>
+        </ul></p>
+      <p>✔ Ensure that system component inventories:
+        <ul>
+          <li>Are updated as part of installation or removal tasks.</li>
+          <li>Have automated location tracking where possible.</li>
+          <li>Have clear and unambiguous assignment of components to systems.</li>
+          <li>Do not have component duplication.</li>
+        </ul></p>
+      <p>✔ To protect the network against malicious actors and code, implement the following security controls:
+        <ul>
+          <li>Vulnerability scanning tools.</li>
+          <li>Intrusion detection systems.</li>
+          <li>Signature and non-signature based detection of malicious code or behaviour.</li>
+          <li>Software patching and updates.</li>
+          <li>Detection of unauthorised commands.</li>
+          <li>Tools for real-time analysis of logs.</li>
+          <li>Detection of indicators of compromise.</li>
+        </ul></p>
+      <p>✔ When connecting to external networks and systems, ensure those network and systems provide secure connection, processing, storage, service controls and physical locations.</p>
+      <p>✔ Make provision for exceptional (excess) capacity or bandwidth demands, above what is required for 'typical' business as usual operations, and implement monitoring and detection tools for denial of service attempts.</p>
+      <p>✔ Where possible, ensure a redundant secondary system or other resilience controls are in place, using alternative security mechanisms and communication protocols.</p>
+      <p><b>DO NOT</b></p>
+      <p>The following list identifies what should not be done, and what activities should be limited, to improve baseline security controls.</p>
+      <p>✖ Allow systems to release information from secure environments unless all the following security controls are implemented on the destination system:
+        <ul>
+          <li>Boundary security filters.</li>
+          <li>Domain authentication.</li>
+          <li>Logical separation of information flows.</li>
+          <li>Security attribute binding.</li>
+          <li>Detection of unsanctioned information.</li>
+          <li>Restriction of suspicious inbound and outbound traffic.</li>
+        </ul></p>
+      <p>✖ Allow general users to make unauthorised configuration changes to the security settings of software, firmware or hardware.
+        Any exceptions, such as software updates, must be risk assessed and approved by IT and the Risk Advisory Team.</p>
+      <p>✖ Allow users to install software.
+        Instead, software installations should be approved first, and only users with privileged access should be permitted to conduct the installation.</p>
+      <p>✖ Allow split tunnelling without careful consideration of how traffic will remain protected.</p>
+      <p>✖ Allow inbound traffic from unauthenticated or unauthorised networks.</p>
+      <p>✖ Allow discovery of system components or devices on the network.</p>
+      <p>✖ Enable boundary protection settings that permit different security domains to connect through the same subnet.</p>
+    </body>
+  </topic>
+  <topic id="defensive-layer-1-creating-a-baseline-security-software-development-and-system-configuration">
+    <title>Defensive layer 1: Creating a baseline security software development and system configuration</title>
+    <body>
+      <p><b>DO</b></p>
+      <p>The following list describes what should be in place to create secure software development and configuration environments within the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+      <p>✔ If you are developing or maintaining systems or applications, use a development lifecycle and associated tooling which enforces security by design.
+        Examples include:
+        <ul>
+          <li>Code analysis and testing.</li>
+          <li>Mapping integrity for version control.</li>
+          <li>Trust distribution.</li>
+          <li>Software, firmware, and hardware integrity verification.</li>
+        </ul></p>
+      <p>✔ Use baseline configuration templates for critical and non-critical assets.
+        These need to include:
+        <ul>
+          <li>Automation support for accuracy and currency, such as hardware and software inventory tools and network management tools.</li>
+          <li>Retention of previous configurations.</li>
+          <li>Separate development and test environments.</li>
+          <li>Cryptography management.</li>
+          <li>Unauthorised change detection</li>
+        </ul></p>
+      <p>✔ Enforce binary or machine executable code are provided under warranty or with source code, and implement time limits for process execution.</p>
+      <p>✔ Verify the boot process, and ensure the protection of boot hardware.</p>
+      <p>✔ Implement low module coupling for software engineering.</p>
+      <p>✔ Enforce application partitioning.</p>
+      <p>✔ Take a 'deny by default' approach to boundary protection for both outbound as well as inbound.
+        Example controls include:
+        <ul>
+          <li>Automated enforcement of protocol formats.</li>
+          <li>Separate subnets for connecting to different security domains.</li>
+        </ul></p>
+      <p>✔ Enforce protocol formats.</p>
+      <p><b>DO NOT</b></p>
+      <p>The following list outlines the actions that should not be undertaken in relation to software development and secure configuration.</p>
+      <p>✖ Allow access privileges for library or production/operation environments for unauthorised users.</p>
+      <p>✖ Configuration changes or applications to go live without testing them in a non-live environment.</p>
+      <p>✖ <xref href="using-live-data-for-testing-purposes.dita" format="dita" type="topic">Use live data</xref>, including personal data, in system or application testing.
+      Exceptions must be approved by the relevant SIRO and, if the live data contains personal data, the Data Protection Officer.</p>
+      <p>✖ Install or execute off-the-shelf software without ensuring appropriate support and security arrangements and agreements are in place.</p>
+    </body>
+  </topic>
+</topic>
