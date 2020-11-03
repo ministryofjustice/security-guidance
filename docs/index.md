@@ -8,7 +8,7 @@ The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 2 November 2020.
+This guidance is dated: 3 November 2020.
 
 For convenience, offline versions of this guidance are available.
 
@@ -17,7 +17,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 2 December 2020.
+The offline versions of this guidance are time-limited, and are not valid after 3 December 2020.
 
 ### Getting in touch
 
@@ -37,7 +37,7 @@ Sections 6.9 Cyber security and 6.10 Technical security of the standard state:
 
 ## Information structure
 
-The MoJ has developed their cyber and technical security taxonomy as follows:
+The MoJ has developed our cyber and technical security taxonomy as follows:
 
 |Level 1|Level 2|
 |-------|-------|
