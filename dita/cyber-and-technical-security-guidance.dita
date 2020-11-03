@@ -23,19 +23,19 @@ has made for the products we operate, and our relationships with suppliers.</p>
 						<row>
 							<entry colname="col1">Audience</entry>
 							<entry colname="col2">PDF format</entry>
-							<entry colname="col2">EPUB format</entry>
+							<entry colname="col3">EPUB format</entry>
 						</row>
 					</thead>
 					<tbody>
 						<row>
 							<entry colname="col1">All users. Does not include lots of technical detail.</entry>
 							<entry colname="col2"><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></entry>
-							<entry colname="col2"><xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref></entry>
+							<entry colname="col3"><xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref></entry>
 						</row>
 						<row>
 							<entry colname="col1">Technical users. Includes lots of technical detail.</entry>
 							<entry colname="col2"><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></entry>
-							<entry colname="col2"><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></entry>
+							<entry colname="col3"><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></entry>
 						</row>
 					</tbody>
 				</tgroup>
