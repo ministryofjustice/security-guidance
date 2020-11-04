@@ -12,6 +12,7 @@
 
 	<topichead navtitle="Information security policies">
 		<topichead navtitle="Management direction for information security">
+			<topicref href="setecastronomy.dita" type="topic"/>
 			<topicref href="identify-protect-detect-respond-recover.dita" type="topic"/>
 			<topicref href="shared-responsibility-models.dita" type="topic" audience="audience-tech"/>
 		</topichead>

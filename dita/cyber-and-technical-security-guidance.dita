@@ -319,8 +319,12 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <title>Management direction for information security</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/setecastronomy/" format="html" scope="external">Avoiding too much security</xref></entry>
+              <row platform="html">
+								<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/setecastronomy/" format="html" scope="external">Avoiding too much security</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+							<row platform="epub pdf">
+                <entry colname="col1" align="left"><xref href="setecastronomy.dita" format="dita">Avoiding too much security</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
