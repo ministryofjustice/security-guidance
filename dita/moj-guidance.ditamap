@@ -14,6 +14,7 @@
 		<topichead navtitle="Management direction for information security">
 			<topicref href="setecastronomy.dita" type="topic"/>
 			<topicref href="identify-protect-detect-respond-recover.dita" type="topic"/>
+			<topicref href="line-manager-approval.dita" type="topic"/>
 			<topicref href="shared-responsibility-models.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 	</topichead>
@@ -37,18 +38,20 @@
 		<topichead navtitle="Prior to employment">
 			<topicref href="personnel-security-clearances.dita" type="topic"/>
 		</topichead>
-		<!--
 		<topichead navtitle="During employment">
+			<topicref href="training-and-education.dita" type="topic"/>
 		</topichead>
+		<!--
 		<topichead navtitle="Termination and change of employment">
 		</topichead>
 		-->
 	</topichead>
 	<topichead navtitle="Asset management">
-		<!--
 		<topichead navtitle="Responsibility for assets">
+			<topicref href="acceptable-use.dita" type="topic"/>
+			<topicref href="acceptable-use-policy.dita" type="topic"/>
+			<topicref href="it-acceptable-use-policy.dita" type="topic"/>
 		</topichead>
-		-->
 		<topichead navtitle="Information classification">
 			<topicref href="official-official-sensitive.dita" type="topic"/>
 			<topicref href="secrets-management.dita" type="topic" audience="audience-tech"/>

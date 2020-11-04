@@ -331,8 +331,12 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="identify-protect-detect-respond-recover.dita" format="dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
-              <row>
+							<row platform="html">
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/" format="html" scope="external">Line Manager approval</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+							<row platform="epub pdf">
+                <entry colname="col1" align="left"><xref href="line-manager-approval.dita" format="dita">Line Manager approval</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row audience="audience-tech">
@@ -408,10 +412,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <title>During employment</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/training-and-education/" format="html" scope="external">Training and Education</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
+						<row platform="html">
+							<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/training-and-education/" format="html" scope="external">Training and Education</xref></entry>
+							<entry colname="col2" align="right">All users</entry>
+						</row>
+						<row platform="epub pdf">
+							<entry colname="col1" align="left"><xref href="training-and-education.dita" format="dita">Training and Education</xref></entry>
+							<entry colname="col2" align="right">All users</entry>
+						</row>
             </tbody></tgroup></table>
           </body>
         </topic>
@@ -430,18 +438,30 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <title>Responsibility for assets</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external">Acceptable use</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use-policy/" format="html" scope="external">Acceptable use policy</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/" format="html" scope="external">IT Acceptable Use Policy</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
+						<row platform="html">
+							<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external">Acceptable use</xref></entry>
+							<entry colname="col2" align="right">All users</entry>
+						</row>
+						<row platform="epub pdf">
+							<entry colname="col1" align="left"><xref href="acceptable-use.dita" format="dita">Acceptable use</xref></entry>
+							<entry colname="col2" align="right">All users</entry>
+						</row>
+						<row platform="html">
+							<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use-policy/" format="html" scope="external">Acceptable use policy</xref></entry>
+							<entry colname="col2" align="right">All users</entry>
+						</row>
+						<row platform="epub pdf">
+							<entry colname="col1" align="left"><xref href="acceptable-use-policy.dita" format="dita">Acceptable use policy</xref></entry>
+							<entry colname="col2" align="right">All users</entry>
+						</row>
+						<row platform="html">
+							<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/" format="html" scope="external">IT Acceptable Use Policy</xref></entry>
+							<entry colname="col2" align="right">All users</entry>
+						</row>
+						<row platform="epub pdf">
+							<entry colname="col1" align="left"><xref href="it-acceptable-use-policy.dita" format="dita">IT Acceptable Use Policy</xref></entry>
+							<entry colname="col2" align="right">All users</entry>
+						</row>
               <row>
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/protect-yourself-online/" format="html" scope="external">Protect Yourself Online</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
