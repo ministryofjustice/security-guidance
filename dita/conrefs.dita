@@ -116,4 +116,25 @@
 		</body>
 	</topic>
 
+	<topic id="contact-details">
+		<title>Contact details</title>
+		<body>
+			<p>For any further questions relating to security, contact: <ph conref="#conrefs/securityemail"/>,
+			or for security advice, contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
+		</body>
+	</topic>
+
+	<topic id="related-guides-passwords">
+		<title>Related guides</title>
+		<body>
+			<p id="related-guides-info">Further guidance around the management of passwords at the <ph conref="conrefs.dita#conrefs/moj"/> is available:
+			<ul>
+				<li>The <xref href="account-management.dita" format="dita" scope="local">Account management</xref> guide explains why you might need to change your password. It also addresses when and how you should change your password.</li>
+				<li>The <xref href="multi-user-accounts-and-public-facing-service-accounts-guide.dita" format="dita" scope="local">Multi-User Accounts and Public-Facing Service Accounts Guide</xref> explains when you should use a multi-user account and how you should authenticate a service account.</li>
+				<li>The <xref href="password-creation-and-authentication-guide.dita" format="dita" scope="local">Password Creation and Authentication Guide</xref> helps ensure you choose the correct passwords and authentication tools to protect information in line with its security classifications.</li>
+				<li>The <xref href="password-storage-and-management-guide.dita" format="dita" scope="local">Password Storage and Management Guide</xref> provides help on storing and sharing passwords securely.</li>
+			</ul></p>
+		</body>
+	</topic>
+
 </topic>

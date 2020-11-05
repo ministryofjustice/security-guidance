@@ -77,8 +77,14 @@
 			<topicref href="protecting-social-media-accounts.dita" type="topic"/>
 		</topichead>
 		<topichead navtitle="System and application access control">
+			<topicref href="account-management.dita" type="topic" audience="audience-tech"/>
 			<topicref href="authorisation.dita" type="topic" audience="audience-tech"/>
+			<topicref href="multi-user-accounts-and-public-facing-service-accounts-guide.dita" type="topic" audience="audience-tech"/>
+			<topicref href="password-creation-and-authentication-guide.dita" type="topic" audience="audience-tech"/>
+			<topicref href="password-management-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="password-managers.dita" type="topic"/>
+			<topicref href="passwords.dita" type="topic"/>
+			<topicref href="password-storage-and-management-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="using-lastpass.dita" type="topic"/>
 		</topichead>
 	</topichead>

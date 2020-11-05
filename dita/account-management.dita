@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="account-management">
+	<title>Account management</title>
+	<body/>
+	<topic id="introduction">
+		<title>Introduction</title>
+		<body>
+			<p>This guide provides help on account management, for example when passwords should be changed or when user accounts should be locked.
+			For more information, see the <xref href="password-management-guide.dita" format="dita" type="topic">Password Management Guide</xref>.</p>
+			<p>The information is aimed at two audiences:
+			<ul>
+				<li>The in-house  Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the <xref href="https://peoplefinder.service.gov.uk/teams/epic" format="html" scope="external">Event, Problem, Incident, CSI and Knowledge (EPIC) team</xref>.</li>
+				<li>Any other <ph conref="conrefs.dita#conrefs/mojlong"/> business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+			</ul></p>
+		</body>
+	</topic>
+	<topic id="account-lockouts">
+		<title>Account lockouts</title>
+		<body>
+			<p>Account lockouts must be implemented within <ph conref="conrefs.dita#conrefs/moj"/> systems for the following reasons:
+			<dl>
+				<dlentry>
+					<dt>Failure to change passwords within the allocated time.</dt>
+					<dd>Systems must have a ‘change password’ function to recover the account or contact information for the Technology Service Desk.</dd>
+				</dlentry>
+				<dlentry>
+					<dt>Unsuccessful connection attempts.</dt>
+					<dd>Allow no more than 10 consecutive login attempts before lockout.</dd>
+				</dlentry>
+				<dlentry>
+					<dt>Forgotten passwords.</dt>
+					<dd>All <ph conref="conrefs.dita#conrefs/moj"/> systems must have a forgotten password link on the login page, enabling the user to change the password on their own.
+					Ensure this uses multi-factor authentication for user verification.</dd>
+				</dlentry>
+				<dlentry>
+					<dt>Removed or revoked access.</dt>
+					<dd>Users may experience account lockouts due to inactivity, need to know permissions or change of employment status such as contract termination.
+					Access to these accounts must only be re-enabled with line manager approval.</dd>
+				</dlentry>
+			</dl></p>
+			<p>Systems should have a way to forcibly revoke an account, and disconnect any active session instantly.
+			This is to deal with scenarios such as suspicion that an account or access has been compromised.
+			The session disconnect is required because revoking an account on some systems does not necessarily invalidate an existing session immediately.</p>
+		</body>
+	</topic>
+	<topic id="password-changes">
+		<title>Password changes</title>
+		<body>
+			<p>When designing and developing systems for use within the <ph conref="conrefs.dita#conrefs/moj"/>, password changes must be enforced for these events:
+			<ul>
+				<li>A user has forgotten their password or is experiencing login issues.</li>
+				<li>There has been a security incident involving the account or password.</li>
+				<li>An authorised person, such as line manager or IT support, requests the change.</li>
+				<li>The system prompts you to change a password.</li>
+				<li>You suspect an account might have been compromised.</li>
+			</ul></p>
+			<p>Password changes must be made within the following timeframes:
+			<table>
+				<tgroup cols="2">
+					<colspec colname="col1" colnum="1" colwidth="1*" align="left"/>
+					<colspec colname="col2" colnum="2" colwidth="1*" align="left"/>
+					<thead>
+						<row>
+							<entry colname="col1">Type of system</entry>
+							<entry colname="col2">Maximum time allowed for a change</entry>
+						</row>
+					</thead>
+					<tbody>
+						<row>
+							<entry>Single-user systems, such as laptops</entry>
+							<entry>1 week</entry>
+						</row>
+						<row>
+							<entry>All other systems</entry>
+							<entry>1 day</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table></p>
+		</body>
+	</topic>
+	<topic id="revoking-accounts">
+		<title>Revoking accounts</title>
+		<body>
+			<p>All <ph conref="conrefs.dita#conrefs/moj"/> user accounts are access controlled according to the user's 'need to know' requirements and their employment status.
+			Accounts should be revoked at contract termination and during long-term absences, such as maternity or long-term sickness leave.
+			The <ph conref="conrefs.dita#conrefs/moj"/> revokes user accounts in alignment with the <xref href="access-control-guide.dita" format="dita" type="topic">Access Control Guide</xref>.</p>
+		</body>
+	</topic>
+	<topic id="contact-details">
+		<title>Contact details</title>
+		<body>
+			<p>For any further questions relating to security, contact: <ph conref="conrefs.dita#conrefs/securityemail"/>.</p>
+		</body>
+	</topic>
+</topic>

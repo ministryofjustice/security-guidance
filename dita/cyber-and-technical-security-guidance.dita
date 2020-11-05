@@ -58,8 +58,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
 		<topic id="background" audience="audience-tech">
 			<title>Background</title>
 			<body>
-				<p>The new <xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref> sits at the top of other government security governance documents like the <xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">HMG Security Policy Framework (SPF)</xref> and the <xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">Minimum Cyber Security Standard (MCSS)</xref>.
-				Together they define the minimum security measures that departments need to implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.</p>
+				<p><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref> replaces the <xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">HMG Security Policy Framework (SPF)</xref>, last published in May 2018.
+				It also incorporates the <xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">Minimum Cyber Security Standard (MCSS)</xref> which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.</p>
+				<image platform="html epub" href="images/gov007overview.png" placement="break" scope="local"><alt>A diagram showing a hierarchy of the key components within the Government Functional Standard. It is in three sections. In the first section, at the top is a triangle labelled Principles. This stands on a block marked Content, which itself stands on a block marked Governance, showing that governance and content underpin the principles. The second section is called Security Life Cycle. It shows a flow from left to right. To the left of the section is a large arrow entitled Security Strategy and Planning. This arrow splits on the right hand side into two small arrows. The top small arrow is labelled Prevention and Detection. The bottom small arrow is labelled Security Incident Management. A small line arrow drops down from the top Prevention and Detection arrow to the bottom Security Incident Management arrow. To the right hand side of this section of the diagram, the Prevention and Detection and the Security Incident Management arrows converge into a final large arrow, entitled Review and Learn from Experience. A dotted line arrow, labelled Improvement, goes back from the Review and Learn arrow over to the beginning of this section of the diagram, linking to the Security Strategy and Planning arrow. Underneath these arrow diagrams is the third and final section. This is a summary text, called Security Practices. Many practices are listed using three columns in this section. The left column list includes: Critical Assets and Services, Risk Management, and Access to information. The middle column list includes: Capability, capacity and resources, Security culture, Security education and awareness, and Physical security. The right column list includes: Personnel security, Cyber security, and Technical security.</alt></image>
+				<image platform="pdf" href="images/gov007overview-small.png" placement="break" scope="local"><alt>A diagram showing a hierarchy of the key components within the Government Functional Standard. It is in three sections. In the first section, at the top is a triangle labelled Principles. This stands on a block marked Content, which itself stands on a block marked Governance, showing that governance and content underpin the principles. The second section is called Security Life Cycle. It shows a flow from left to right. To the left of the section is a large arrow entitled Security Strategy and Planning. This arrow splits on the right hand side into two small arrows. The top small arrow is labelled Prevention and Detection. The bottom small arrow is labelled Security Incident Management. A small line arrow drops down from the top Prevention and Detection arrow to the bottom Security Incident Management arrow. To the right hand side of this section of the diagram, the Prevention and Detection and the Security Incident Management arrows converge into a final large arrow, entitled Review and Learn from Experience. A dotted line arrow, labelled Improvement, goes back from the Review and Learn arrow over to the beginning of this section of the diagram, linking to the Security Strategy and Planning arrow. Underneath these arrow diagrams is the third and final section. This is a summary text, called Security Practices. Many practices are listed using three columns in this section. The left column list includes: Critical Assets and Services, Risk Management, and Access to information. The middle column list includes: Capability, capacity and resources, Security culture, Security education and awareness, and Physical security. The right column list includes: Personnel security, Cyber security, and Technical security.</alt></image>
+
 				<p>Sections 6.9 Cyber security and 6.10 Technical security of the standard state:</p>
 				<lq>
 					<ul>
@@ -581,14 +584,38 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <title>System and application access control</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="authorisation.dita" format="dita">Authorisation</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="password-managers.dita" format="dita">Password Managers</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
+						<row audience="audience-tech">
+							<entry colname="col1" align="left"><xref href="account-management.dita" format="dita">Account management</xref></entry>
+							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
+						<row audience="audience-tech">
+							<entry colname="col1" align="left"><xref href="authorisation.dita" format="dita">Authorisation</xref></entry>
+							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
+						<row audience="audience-tech">
+							<entry colname="col1" align="left"><xref href="multi-user-accounts-and-public-facing-service-accounts-guide.dita" format="dita">Multi-user accounts and Public-Facing Service Accounts Guide</xref></entry>
+							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
+						<row audience="audience-tech">
+							<entry colname="col1" align="left"><xref href="password-creation-and-authentication-guide.dita" format="dita">Password Creation and Authentication Guide</xref></entry>
+							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
+						<row audience="audience-tech">
+							<entry colname="col1" align="left"><xref href="password-management-guide.dita" format="dita">Password Management Guide</xref></entry>
+							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
+						<row>
+							<entry colname="col1" align="left"><xref href="password-managers.dita" format="dita">Password Managers</xref></entry>
+							<entry colname="col2" align="right">All users</entry>
+						</row>
+						<row>
+							<entry colname="col1" align="left"><xref href="passwords.dita" format="dita">Passwords</xref></entry>
+							<entry colname="col2" align="right">All users</entry>
+						</row>
+						<row audience="audience-tech">
+							<entry colname="col1" align="left"><xref href="password-storage-and-management-guide.dita" format="dita">Password Storage and Management Guide</xref></entry>
+							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-google-apps-administrators/" format="html" scope="external">Policies for Google Apps administrators</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
