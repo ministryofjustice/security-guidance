@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - /suppliers/security-aspect-letters/
+---
 # Security Aspects Letters
 
 ## Purpose
