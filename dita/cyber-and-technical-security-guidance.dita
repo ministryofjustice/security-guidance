@@ -918,13 +918,33 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="data-sovereignty.dita" format="dita">Data Sovereignty</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+							<row audience="audience-tech">
+                <entry colname="col1" align="left"><xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+							<row platform="html">
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/email/" format="html" scope="external">Email security</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
+              </row>
+							<row platform="epub pdf">
+                <entry colname="col1" align="left"><xref href="email.dita" format="dita">Email security</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+							<row audience="audience-tech">
+                <entry colname="col1" align="left"><xref href="email-security-guide.dita" format="dita">Email Security Guide</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita" type="topic">General Apps Guidance</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
+              </row>
+							<row audience="audience-tech">
+                <entry colname="col1" align="left"><xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+							<row audience="audience-tech">
+                <entry colname="col1" align="left"><xref href="spam-and-phishing-guide.dita" format="dita">Spam and Phishing Guide</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
             </tbody></tgroup></table>
           </body>
