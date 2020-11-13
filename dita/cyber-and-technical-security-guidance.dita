@@ -554,7 +554,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="managing-user-access-guide.dita" format="dita">Managing User Access Guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row audience="audience-tech">
+              <row>
                 <entry colname="col1" align="left"><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels Guide</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
@@ -637,10 +637,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
         </topic>
       </topic>
 
-      <topic id="cryptography">
+      <topic id="cryptography" audience="audience-tech">
         <title>Cryptography</title>
         <body/>
-        <topic id="cryptographic-controls" audience="audience-tech">
+        <topic id="cryptographic-controls">
           <title>Cryptographic controls</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
@@ -1089,18 +1089,18 @@ has made for the products we operate, and our relationships with suppliers.</p>
         </topic>
       </topic>
 
-      <topic id="information-security-aspects-of-business-continuity-management">
+      <topic id="information-security-aspects-of-business-continuity-management" audience="audience-tech">
         <title>Information security aspects of business continuity management</title>
         <body/>
         <topic id="information-security-continuity">
           <title>Information security continuity</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row audience="audience-tech">
+              <row>
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-disaster-recovery-plan-and-process-guide/" format="html" scope="external">ICT Disaster Recovery Plan and Process Guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row audience="audience-tech">
+              <row>
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/" format="html" scope="external">IT Disaster Recovery Policy</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
