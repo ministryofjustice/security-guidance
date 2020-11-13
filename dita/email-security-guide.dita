@@ -7,7 +7,8 @@
   <topic id="introduction">
     <title>Introduction</title>
     <body>
-      <p>This guide sets out the requirements for implementing and maintaining email security across the MoJ. This page is the first in a series of guides for implementing email security controls within the MoJ.</p>
+      <p>This guide sets out the requirements for implementing and maintaining email security across the <ph conref="conrefs.dita#conrefs/mojlong"/>.
+      This guidance is the first in a series of guides for implementing email security controls within the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
     </body>
   </topic>
   <topic id="who-is-this-for">
@@ -15,12 +16,10 @@
     <body>
       <p>This guide is aimed at two audiences:</p>
       <ol>
-        <li>
-          <p>The in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge (EPICK) Team.</p>
-        </li>
-        <li>
-          <p>Any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the MoJ.</p>
-        </li>
+        <li>The in-house <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation.
+        This includes DevOps, Software Developers, Technical Architects and Service Owners.
+        It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge (EPICK) Team.</li>
+        <li>Any other <ph conref="conrefs.dita#conrefs/moj"/> business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
       </ol>
       <p>In this and the related guides outlined below, this audience will be referred to as "technical users".</p>
     </body>
@@ -28,7 +27,7 @@
   <topic id="related-guides">
     <title>Related guides</title>
     <body>
-      <p>Further guidance on email security at the MoJ can be found in the guides below.</p>
+      <p>Further guidance on email security at the <ph conref="conrefs.dita#conrefs/moj"/> can be found in the following guides.</p>
       <ul>
         <li>
           <p><xref href="spam-and-phishing-guide.dita" format="dita">Spam and Phishing Guide</xref> - provides guidance on how you can protect against and report email security threats like phishing and spamming.</p>
@@ -45,110 +44,75 @@
   <topic id="roles-and-responsibilities">
     <title>Roles and responsibilities</title>
     <body>
-      <p>All <b>technical users</b> are responsible for maintaining and using the MoJ's email communications securely in line with the requirements set out in this guide.</p>
+      <p>All technical users are responsible for maintaining and using the <ph conref="conrefs.dita#conrefs/moj"/>'s email communications securely in line with the requirements set out in this guide.</p>
       <ul>
-        <li>
-          <p>Where possible automate checks of the sender's authenticity by implementing the controls in the <xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref>.</p>
-        </li>
-        <li>
-          <p>Ensure all email communications are protected according to the classification of the information held within them (see the Information Classification Handling and Security Guide for further information).</p>
-        </li>
-        <li>
-          <p>Depreciate the downloading of data to mobile devices by promoting the use cloud services such as O365.</p>
-        </li>
-        <li>
-          <p>Ensure suspected or actual phishing emails are easily reported to the Technology Service Desk as email attachments.</p>
-        </li>
-        <li>
-          <p>Keep your operating systems up to date to prevent susceptibility to viruses.</p>
-        </li>
-        <li>
-          <p>Scan email attachments to detect viruses and other malware.</p>
-        </li>
-        <li>
-          <p>Ensure email services are appropriately authenticated (Refer to the <xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref> for more information)</p>
-        </li>
-        <li>
-          <p>Ensure secure email messaging services and, where necessary, encryption tools are used to transfer sensitive information and system secrets (refer to the <xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref> for further guidance).</p>
-        </li>
-        <li>
-          <p>Ensure that email configuration is secure and all necessary technical controls, including those set out in the <xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide</xref> are implemented and kept up to date.</p>
-        </li>
+        <li>Where possible automate checks of the sender's authenticity by implementing the controls in the <xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref>.</li>
+        <li>Ensure all email communications are protected according to the classification of the information held within them.
+          See the Information Classification Handling and Security Guide for further information.</li>
+        <li>Discourage downloading of data to mobile devices by promoting the use cloud services such as Office 365.</li>
+        <li>Ensure suspected or actual phishing emails are easily reported to the Technology Service Desk as email attachments.</li>
+        <li>Keep your operating systems up to date to prevent susceptibility to viruses.</li>
+        <li>Scan email attachments to detect viruses and other malware.</li>
+        <li>Ensure email services are appropriately authenticated.
+          Refer to the <xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref> for more information.</li>
+        <li>Ensure secure email messaging services and, where necessary, encryption tools are used to transfer sensitive information and system secrets.
+          Refer to the <xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref> for further guidance.</li>
+        <li>Ensure that email configuration is secure and all necessary technical controls, including those set out in the <xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide</xref> are implemented and kept up to date.</li>
       </ul>
-      <p><b>Suppliers</b> may use their own email services if agreed by the MoJ but, as a minimum, they must meet the security requirements in this guide and its related guides.</p>
+      <p>Suppliers are permitted to use their own email services, if agreed in advance by the <ph conref="conrefs.dita#conrefs/moj"/> but, as a minimum, they must meet the security requirements in this guide and its related guides.</p>
     </body>
   </topic>
   <topic id="authorised-access-of-users-accounts">
     <title>Authorised access of users' accounts</title>
     <body>
-      <p>By default, users must not access the email accounts of any other users unless they are authorised to do so as required by their role. Access is to be authorised on a case by case basis only, and will typically be aligned to the following circumstances:</p>
+      <p>By default, users must not access the email accounts of any other users unless they are authorised to do so as required by their role.
+        Access is to be authorised on a case by case basis only, and will typically be aligned to the following circumstances:
       <ul>
-        <li>
-          <p>during a criminal investigation by a law enforcement agency</p>
-        </li>
-        <li>
-          <p>during an employee investigation relating to misconduct or a security incident, for example IT misuse</p>
-        </li>
-        <li>
-          <p>upon the death or unexpected exit of an employee, for example for the retrieval of key information and closing down an account.</p>
-        </li>
-      </ul>
-      <p>Anyone required to undertake this task should read this guide in conjunction with the Privileged User Guide.</p>
+        <li>During a criminal investigation by a law enforcement agency.</li>
+        <li>During an employee investigation relating to misconduct or a security incident, for example IT misuse.</li>
+        <li>Upon the death or unexpected exit of an employee, for example for the retrieval of key information and closing down an account.</li>
+      </ul></p>
+      <p>Anyone required to undertake this task should read this guide in conjunction with the <xref href="privileged-account-management-guide.dita" format="dita">Privileged Account Management Guide</xref>.</p>
     </body>
   </topic>
   <topic id="monitoring">
     <title>Monitoring</title>
     <body>
-      <p>For clarity and transparency, the MoJ does monitor Email services for security purposes.</p>
+      <p>To be clear, the <ph conref="conrefs.dita#conrefs/moj"/> does monitor Email services for security purposes.</p>
     </body>
   </topic>
   <topic id="delegate-access">
     <title>Delegate access</title>
     <body>
-      <p>Technical users must ensure end users do not have the privileges required provide another user with delegate access to their account.  However, MoJ IT users may need to give another user access to their email account. If a mailbox owner has a legitimate requirement for another user to:</p>
+      <p>Technical users must ensure end users do not have the privileges required to provide another user with delegate access to their account.
+        There might be valid business reasons why an <ph conref="conrefs.dita#conrefs/moj"/> IT user might need to give another user access to their email account.
+        These valid requirements include:
       <ul>
-        <li>
-          <p>read, send or delete messages on their behalf, or</p>
-        </li>
-        <li>
-          <p>manage their calendar</p>
-        </li>
-      </ul>
-      <p>the user must seek permission from their line manager.  Where permission is granted and to ensure secure delegation, technical users must:</p>
+        <li>Reading, sending or deleting messages on their behalf.</li>
+        <li>Managing their calendar.</li>
+      </ul></p>
+      <p>In such cases, the user must seek permission from their line manager.
+        Where permission is granted, and to ensure secure delegation, technical users must:
       <ul>
-        <li>
-          <p>enforce mailbox owners to limit delegate access to pre-defined periods of time</p>
-        </li>
-        <li>
-          <p>enable mailbox owners to manage and revoke access themselves</p>
-        </li>
-        <li>
-          <p>prevent federated sharing, this is where users in one Exchange organisation can share free/busy calendar information with recipients in other Exchange organisations</p>
-        </li>
-        <li>
-          <p>prevent auto-forwards to external email services (including personal email accounts)</p>
-        </li>
-        <li>
-          <p>prevent delegate access to unauthorised users (e.g. people outside the MoJ) by enforcing RBAC.</p>
-        </li>
-      </ul>
-      <p>For personal accounts the helpdesk can configure delegate access; administrators of group inboxes can also configure delegate access to those inboxes.</p>
-      <p>For further details see the Privileged User Guide.</p>
+        <li>Enforce delegate access to pre-defined limited periods of time.</li>
+        <li>Enable mailbox owners to manage and revoke access themselves.</li>
+        <li>Prevent federated sharing, where users in one email community can share calendar or other email information with recipients in other email communities.</li>
+        <li>Prevent auto-forwards to external email services, including personal email accounts.</li>
+        <li>Prevent the possibility of delegating access to unauthorised users, for example to people outside the <ph conref="conrefs.dita#conrefs/moj"/>.
+        Do this by enforcing RBAC.</li>
+      </ul></p>
+      <p>For individual business accounts, the helpdesk can assist with configuring delegate access.
+        Administrators of group inboxes can configure delegate access to those inboxes.</p>
+      <p>For further details see the <xref href="privileged-account-management-guide.dita" format="dita">Privileged Account Management Guide</xref>.</p>
     </body>
   </topic>
   <topic id="contact-details">
     <title>Contact details</title>
     <body>
       <ul>
-        <li>
-          <p>Contact Cyber Assistance Team for advice on email security: <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></p>
-        </li>
-        <li>
-          <p>For any further questions relating to security, please contact: <xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></p>
-        </li>
-        <li>
-          <p>Contact the Technology Service Desk to report suspected IT Security Incidents: <xref href="mailto:MOJ.Servicedesk.uk@CGI.com" format="email" scope="external">MOJ.Servicedesk.uk@CGI.com</xref> Telephone: 0800 917 5148.</p>
-        </li>
+        <li>Contact the Cyber Assistance Team for advice on email security: <ph conref="conrefs.dita#conrefs/catemail"/>.</li>
+        <li>For any further questions relating to security, contact: <ph conref="conrefs.dita#conrefs/securityemail"/>.</li>
+        <li><xref href="reporting-an-incident.dita" format="dita">To report an incident</xref>.</li>
       </ul>
     </body>
   </topic>

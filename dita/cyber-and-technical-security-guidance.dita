@@ -923,7 +923,8 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
 							<row platform="html">
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/email/" format="html" scope="external">Email security</xref></entry>
+                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/email/" format="html" scope="external">Email security</xref>
+								<p><xref href="email.dita" format="dita">Email security (Refresh)</xref></p></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
 							<row platform="epub pdf">
