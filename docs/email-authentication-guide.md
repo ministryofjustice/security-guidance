@@ -1,0 +1,129 @@
+# Email Authentication Guide
+
+**Parent topic:**[Email Security Guide](email-security-guide.md)
+
+## Introduction
+
+This guide identifies the security controls that must be implemented at the domain layer to verify sender domains and to mitigate spoofing attacks. This guide is a sub-page to the [Email Security Guide](email-security-guide.md).
+
+## Sender Policy Framework
+
+Sender Policy Framework \(SPF\) should be implemented for your email domains. SPF enables organisations to publish a Domain Name System \(DNS\) record of all the domains and IP addresses which are trusted for sending and receiving email.
+
+-   SPF is verified by checking a specific TXT DNS entry in emails; emails will be flagged if they are not sent from the domains and IP addresses published in the DNS record.
+
+-   The Ministry of Justice \(MoJ\) enforces SPF controls to help users spot spoofed or unknown email addresses by sending them directly to the spam folder, instead of to a user's inbox.
+
+
+When creating an **SPF record** in your public DNS, you must use all the IP addresses or address ranges from which you send an email. You can use both IPv4 and IPv6 addresses. An SPF record could look like the following:
+
+1.  An example of a basic SPF record to be added to an organisation's public DNS where it uses Google would look like this:`v=spf1 include:spf.google.com ~all`
+
+2.  This SPF record includes Google's IP ranges and a sending service with an IP address range:`v=spf1 include:spf.google.com ip4:80.88.21.0/20 ~all`
+
+3.  An example of a more complex record, with additional services and some dedicated IP addresses:`v=spf1 include:spf.protection.outlook.com include:mail.zendesk.com ip6:2001:db8::/32 ip4:203.0.113.6 ~all`
+
+
+... where `v=spf1` is an SPF record, `include:` means email can only come from these sources, `~all` considers any other email as a soft fail, and `–all` considers any other email as a hard fail \(this should be used when a domain is getting forged by spam\).
+
+To correct SPF failures you should add the sending systems you use to your SPF record, either by IP address, or by reference to another SPF record. These examples are unique so you should ensure you add the domain or IP range of your email sending service and check with your supplier on ‘how to setup SPF records'.
+
+## Domain Keys Identified Mail
+
+Domain Keys Identified Mail \(DKIM\) should be enabled for all MoJ email domains. DKIM enables automatic filtering or rejection of emails that fail DKIM verification.
+
+-   DKIM can verify a sender domain by looking up the sender's public key published in the DNS. You can then determine if an email has been tampered with during transit \(e.g. during a Man-In-The-Middle attack\).
+
+-   A valid digital signature provides assurance that the hashed content has not been modified since the signature was affixed to the email message.
+
+-   The MoJ enforces DKIM controls to help users identify communication tampering attacks, by sending them directly to the spam folder, instead of to a user's Inbox.
+
+-   DKIM must be used across the MoJ, including by executive agencies and ALBs.
+
+
+## Domain-based Message Authentication, Reporting and Conformance
+
+Domain-based Message Authentication, Reporting and Conformance \(DMARC\) is an email authentication standard that must be used with SPF and DKIM to confirm sender's email addresses and flag any emails that have been spoofed or otherwise tampered with.
+
+By using DMARC:
+
+-   MoJ emails are more likely to reach the recipients' inboxes \(suppliers, partners and public users\), rather than getting filtered out as spam
+
+-   you will have full visibility of all the domains and IP addresses you're using to send emails
+
+-   you will know if your mail senders are failing SPF, DKIM and DMARC authentication, and
+
+-   you will be able to detect any unauthorised use of your domain.
+
+
+When developing a new service with email sending or receiving capability, you must publish a DMARC policy and aim to set it to the highest level, called ‘p=reject'. This policy indicates you want mailbox providers to reject all emails that fail DMARC.
+
+If you cannot set the DMARC policy to p=reject, you should publish a record using ‘p=none' to override the default policy. This means that the mailbox provider won't take any actions with your emails that fail DMARC.
+
+You must publish a DMARC record to the DNS for your domain to tell the email receiver how to handle emails that fail DMARC authentication and where to send DMARC reports.
+
+|DMARC Profiles|Benefits|Risks|
+|--------------|--------|-----|
+|p=none|Allows you to review incoming email to determine legitimacy while implementing DMARC for the first time.|Easier for phishers and spammers to take advantage.|
+|P=quarantine|- Malicious email is filtered out.|Legitimate emails may be missed if incorrectly quarantined and filtered|
+||- Recipients can decide what they want to do with quarantined email.||
+|P=reject|- All malicious email is stopped.|Legitimate emails may fail authentication and be rejected without the recipient being aware.|
+||- The intended recipient of malicious email will not be aware of the email, as it won't be sent to a spam or quarantine folder.||
+
+DMARC TXT records must be available for [creation](https://www.dmarcanalyzer.com/how-to-create-a-dmarc-record/) or iteration across the MoJ, as per the GOV.UK DMARC configuration [guide page](https://www.gov.uk/government/publications/email-security-standards/domain-based-message-authentication-reporting-and-conformance-dmarc).
+
+## Making changes to the domain name system
+
+Changes must be made to DNS records if you are implementing SPF, DKIM and DMARC controls. When requesting changes you must include specific information for each record. If given the option, set a short time to live \(TTL\) in DNS records so you can see changes quickly and fix issues.
+
+**DMARC example**
+
+Record type: `TXT`
+
+Host or record name: `dmarc`
+
+Record value: `v=DMARC1;p=none;fo=1;rua=mailto:dmarc-rua@dmarc.service.gov.uk,mailto:dmarc@<yourdomain.gov.uk>`
+
+Create the email address and put your domain in place of `<yourdomain.gov.uk>`.
+
+**SPF example**
+
+Record type: `TXT` or `CNAME` \(check guidance for your service on which to use\)
+
+Host or record name: `@` \(if required\)
+
+Record value: `v=spf1 include:<your email server domain> ip4:<your email service IP> ~all`
+
+Put your email server domains and/or email sending IP ranges in place of the `< >` sections. You do not need to include both - in many cases you may only need `include:`.
+
+**DKIM example**
+
+Record type: `TXT`
+
+Host or record name: `selector.`*`domainkey`*
+
+Put your selector, or the selector provided by your service provider, in place of selector in the host or record name.
+
+Record value: `v=DKIM1; k=rsa; p=<your DKIM key>`
+
+Paste your DKIM key from your key generator in place of `<your DKIM key>`.
+
+Some providers will use a `CNAME` record instead of a `TXT` record. Follow the guidance from your provider.
+
+GSI is no longer used but the following addresses still route through to `@justice.gov.uk`. The table below shows the authorised users you can contact to request DNS changes:
+
+|Record Type|Contact|
+|-----------|-------|
+|`*.gsi.gov.uk`, `*.gsx.gov.uk`, `*.gse.gov.uk`, `*.gcsx.gov.uk`, `*.x.gsi.gov.uk`|[Vodafone Contact GDS](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185)|
+|`*.gov.uk` or any other domains|Your registrar, DNS provider or Internal System Admin|
+|`*cjsm.net`|[Egress](mailto:cjsm.helpdesk@egress.com)|
+
+## Contact details
+
+-   Contact Cyber Assistance Team for advice on email security: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
+
+-   For any further questions relating to security, please contact: [security@justice.gov.uk](mailto:security@justice.gov.uk)
+
+-   For DNS changes and associated advice, please contact: the Platforms and Architecture team at [domains@digital.justice.gov.uk](mailto:domains@digital.justice.gov.uk)
+
+

@@ -7,7 +7,8 @@
   <topic id="introduction">
     <title>Introduction</title>
     <body>
-      <p>This guide outlines the technical implementations you, as technical users, should make to keep <ph conref="conrefs.dita#conrefs/mojlong"/> systems secure. This guide is a sub-page to the <xref href="email-security-guide.md" format="dita">Email Security Guide</xref>.</p>
+      <p>This guide outlines the technical implementations you, as technical users, should make to keep <ph conref="conrefs.dita#conrefs/mojlong"/> systems secure.
+        This guide is a sub-page to the <xref href="email-security-guide.dita" format="dita">Email Security Guide</xref>.</p>
     </body>
   </topic>
   <topic id="common-email-threats">
@@ -16,7 +17,9 @@
     <topic id="spam-and-phishing">
       <title>Spam and phishing</title>
       <body>
-        <p>To protect against spam and phishing attacks, the <ph conref="conrefs.dita#conrefs/moj"/> will make use of government services such as The National Cyber Security Centre's <xref href="mailto:report@phishing.gov.uk" format="email" scope="external">Suspicious Email Reporting Service</xref> and any other services that are appropriate.</p>
+        <p>To protect against spam and phishing attacks, the <ph conref="conrefs.dita#conrefs/moj"/> will make use of government services such as
+          the National Cyber Security Centre's <xref href="mailto:report@phishing.gov.uk" format="email" scope="external">Suspicious Email Reporting Service</xref>
+          and any other services that are appropriate.</p>
       </body>
     </topic>
     <topic id="spoofing-attacks">

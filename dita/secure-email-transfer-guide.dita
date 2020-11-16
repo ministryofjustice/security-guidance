@@ -8,7 +8,8 @@
     <title>Introduction</title>
     <body>
       <p>This guide instructs technical users of the services and encryption tools they should use to securely transfer information via email.
-        You should ensure that email communication is sufficiently secured before transferring sensitive information, such as:
+        This guide is a sub-page to the <xref href="email-security-guide.dita" format="dita">Email Security Guide</xref>.</p>
+      <p>You should ensure that email communication is sufficiently secured before transferring sensitive information, such as:
       <ul>
         <li><codeph>OFFICIAL-SENSITIVE</codeph> classified information such as personal data.</li>
         <li>API and other application keys/credentials (including within containers).</li>
@@ -28,7 +29,7 @@
         <li>The <ph conref="conrefs.dita#conrefs/mojlong"/> should always use the latest version of TLS.</li>
         <li>TLS is required for sending to <codeph>gov.uk</codeph>.</li>
         <li>Any <ph conref="conrefs.dita#conrefs/moj"/> domains that do not support TLS must be documented in an exceptions list and an exception rule authorised by the DNS provider.
-        Refer to the <xref href="email-authentication-guide.md" format="dita">Email Authentication Guide</xref> for DNS provider contact details.</li>
+        Refer to the <xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref> for DNS provider contact details.</li>
         <li>Where mandatory TLS encryption is not suitable:
           <ul>
             <li>Use certificates from Certificate Authorities, making sure they are always valid and use strong encryption, algorithms and key lengths.</li>
@@ -89,7 +90,8 @@
   <topic id="google-mail">
     <title>Google mail</title>
     <body>
-      <p>Gmail uses Transport Layer Security (TLS) to automatically encrypt incoming and outgoing emails but this only works if the email providers of both the sender and the recipient always use TLS.
+      <p>Google mail provided as part of <ph conref="conrefs.dita#conrefs/gsuite"/> uses Transport Layer Security (TLS) to automatically encrypt incoming and outgoing emails,
+        but this only works if the email providers of both the sender and the recipient always use TLS.
         If required, S/MIME encryption can be enabled by contacting the Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/>.</p>
     </body>
   </topic>
@@ -100,7 +102,7 @@
         If a TLS connection cannot be established, the message will be sent in plain text using Simple Mail Transfer Protocol (SMTP).
         If TLS must always be applied, contact the Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/>.
         In this configuration, certificate verification is required whenever mail is sent from a third party to the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
-      <p>Outlook supports two other encryption options:
+      <p>Outlook (the email client within Office 365) supports two other encryption options:
       <ol>
         <li>S/MIME encryption - to use S/MIME encryption, the sender and recipient must have a mail application that supports the S/MIME standard.
           Outlook supports the S/MIME standard.</li>
@@ -113,7 +115,8 @@
   <topic id="criminal-justice-secure-mail">
     <title>Criminal Justice Secure Mail</title>
     <body>
-      <p>Criminal Justice Secure Mail (CJSM) provides a closed email service between Criminal Justice Agencies (CJAs) and Criminal Justice Practitioners (CJPs).
+      <p><xref href="cjsm.dita" format="dita">Criminal Justice Secure Mail (CJSM)</xref> provides a closed email service between Criminal Justice Agencies (CJAs)
+        and Criminal Justice Practitioners (CJPs).
         CJSM must not be used from public or personal computers.
         CJSM should only be used for legitimate business purposes relating to the Criminal Justice System.</p>
       <p>Examples of CJAs within the GSC are:

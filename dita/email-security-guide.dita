@@ -16,10 +16,13 @@
     <body>
       <p>This guide is aimed at two audiences:</p>
       <ol>
-        <li>The in-house <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation.
+        <li>The in-house <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology staff who are responsible for implementing controls throughout technical design,
+          development, system integration and operation.
         This includes DevOps, Software Developers, Technical Architects and Service Owners.
         It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge (EPICK) Team.</li>
-        <li>Any other <ph conref="conrefs.dita#conrefs/moj"/> business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+        <li>Any other <ph conref="conrefs.dita#conrefs/moj"/> business group, agency, contractor,
+          IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for,
+          or on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
       </ol>
       <p>In this and the related guides outlined below, this audience will be referred to as "technical users".</p>
     </body>
@@ -44,9 +47,11 @@
   <topic id="roles-and-responsibilities">
     <title>Roles and responsibilities</title>
     <body>
-      <p>All technical users are responsible for maintaining and using the <ph conref="conrefs.dita#conrefs/moj"/>'s email communications securely in line with the requirements set out in this guide.</p>
+      <p>All technical users are responsible for maintaining and using the <ph conref="conrefs.dita#conrefs/moj"/>'s
+        email communications securely in line with the requirements set out in this guide.</p>
       <ul>
-        <li>Where possible automate checks of the sender's authenticity by implementing the controls in the <xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref>.</li>
+        <li>Where possible automate checks of the sender's authenticity by implementing the controls
+          in the <xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref>.</li>
         <li>Ensure all email communications are protected according to the classification of the information held within them.
           See the Information Classification Handling and Security Guide for further information.</li>
         <li>Discourage downloading of data to mobile devices by promoting the use cloud services such as Office 365.</li>
@@ -78,7 +83,7 @@
   <topic id="monitoring">
     <title>Monitoring</title>
     <body>
-      <p>To be clear, the <ph conref="conrefs.dita#conrefs/moj"/> does monitor Email services for security purposes.</p>
+      <p>To be clear, the <ph conref="conrefs.dita#conrefs/moj"/> <i>does</i> monitor Email services for security purposes.</p>
     </body>
   </topic>
   <topic id="delegate-access">
@@ -106,14 +111,5 @@
       <p>For further details see the <xref href="privileged-account-management-guide.dita" format="dita">Privileged Account Management Guide</xref>.</p>
     </body>
   </topic>
-  <topic id="contact-details">
-    <title>Contact details</title>
-    <body>
-      <ul>
-        <li>Contact the Cyber Assistance Team for advice on email security: <ph conref="conrefs.dita#conrefs/catemail"/>.</li>
-        <li>For any further questions relating to security, contact: <ph conref="conrefs.dita#conrefs/securityemail"/>.</li>
-        <li><xref href="reporting-an-incident.dita" format="dita">To report an incident</xref>.</li>
-      </ul>
-    </body>
-  </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
 </topic>

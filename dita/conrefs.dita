@@ -119,12 +119,15 @@
 	<topic id="contact-details">
 		<title>Contact details</title>
 		<body>
-			<p>For any further questions relating to security, contact: <ph conref="#conrefs/securityemail"/>,
-			or for security advice, contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
+		  <ul>
+			<li>Contact the Cyber Assistance Team for specific advice on IT security: <ph conref="conrefs.dita#conrefs/catemail"/>.</li>
+			<li>For any further questions relating to security, contact: <ph conref="conrefs.dita#conrefs/securityemail"/>.</li>
+			<li><xref href="reporting-an-incident.dita" format="dita">To report an incident</xref>.</li>
+		  </ul>
 		</body>
-	</topic>
+	  </topic>
 
-	<topic id="related-guides-passwords">
+	  <topic id="related-guides-passwords">
 		<title>Related guides</title>
 		<body>
 			<p id="related-guides-info">Further guidance around the management of passwords at the <ph conref="conrefs.dita#conrefs/moj"/> is available:

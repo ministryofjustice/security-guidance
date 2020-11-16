@@ -191,164 +191,152 @@
           </ul></p>
         </body>
       </topic>
-  <topic id="hoaxes">
-    <title>Hoaxes</title>
-    <body>
-      <p>Hoax letters are designed to trick you into believing, or accepting as genuine, something false and often preposterous: the messages they contain are usually untrue.</p>
-      <p>Hoax messages try to get you to pass them on to everyone you know using several different methods of social engineering.
-        Most of the hoax messages play on your need to help other people.
-        Who wouldn't want to warn there friends about some terrible virus that is destroying people's systems?
-        Or help this poor little girl who is about to die from cancer?.</p>
-      <p>Chain letters and hoax messages have the same purpose but use a slightly different method of coercing you into passing them on.
-        Chain letters, like their printed ancestors, generally offer luck or money if you send them on (scams).
-        They play on your fear of bad luck and the knowledge that it is easy for you to send them on.
-        Scams play on people's greed and are illegal no matter what they say in the letter.</p>
-    </body>
-    <topic id="the-risk-and-cost-of-hoaxes">
-      <title>The risk and cost of hoaxes</title>
+      <topic id="hoaxes">
+        <title>Hoaxes</title>
+        <body>
+          <p>Hoax letters are designed to trick you into believing, or accepting as genuine, something false and often preposterous: the messages they contain are usually untrue.</p>
+          <p>Hoax messages try to get you to pass them on to everyone you know using several different methods of social engineering.
+            Most of the hoax messages play on your need to help other people.
+            Who wouldn't want to warn there friends about some terrible virus that is destroying people's systems?
+            Or help this poor little girl who is about to die from cancer?.</p>
+          <p>Chain letters and hoax messages have the same purpose but use a slightly different method of coercing you into passing them on.
+            Chain letters, like their printed ancestors, generally offer luck or money if you send them on (scams).
+            They play on your fear of bad luck and the knowledge that it is easy for you to send them on.
+            Scams play on people's greed and are illegal no matter what they say in the letter.</p>
+        </body>
+        <topic id="the-risk-and-cost-of-hoaxes">
+          <title>The risk and cost of hoaxes</title>
+          <body>
+            <p>The cost and risk associated with hoaxes may not seem to be that high.
+              If, however, you consider the cost of everyone within the <ph conref="conrefs.dita#conrefs/moj"/> receiving one hoax message, spending two minutes reading it and another two minutes forwarding it on or discarding it, the cost can be significant.</p>
+            <p>Handling these messages may also make our mail servers slow down to a crawl or crash.</p>
+            <p>Spammers (bulk mailers of unsolicited mail) may harvest email addresses from hoaxes and chain letters.
+              Many of these letters contain hundreds of legitimate addresses, which is what the spammers want.
+              There are also rumours that spammers are deliberately starting hoaxes and chain letters to gather email addresses.</p>
+          </body>
+        </topic>
+        <topic id="how-to-recognise-a-hoax">
+          <title>How to recognise a hoax</title>
+          <body>
+            <p>A request to "send this to everyone you know" (or some variant) should raise a red flag.
+              The warning is probably a hoax.
+              It's unlikely a real warning message from a credible source will tell you to send it to everyone you know.</p>
+            <p>If the warning uses technical language, most people, including technologically savvy individuals, tend to believe the warning is real.</p>
+            <p>There may be credibility by association.
+              If the janitor at a large technological organisation sends a warning to someone outside of that organisation, people on the outside tend to believe the warning because the company should know about those things.
+              Even though the person sending the warning may not have a clue what he is talking about, the prestige of the company backs the warning, making it appear real.</p>
+            <p>These make it very difficult to be certain a warning is a hoax.
+              Check to see if the claims are real, and if the person sending out the warning is a real person.
+              Ask yourself if they are someone who would know what they are talking about.</p>
+          </body>
+        </topic>
+        <topic id="type-of-hoaxes">
+          <title>Type of hoaxes</title>
+          <body/>
+          <topic id="scam-chains">
+            <title>Scam chains</title>
+            <body>
+              <p>Mail messages that appear to be from a legitimate company but that are scams and cons, for example <xref href="https://en.wikipedia.org/wiki/Advance-fee_scam" format="html" scope="external">Advance fee scams</xref>.</p>
+            </body>
+          </topic>
+          <topic id="giveaways">
+            <title>Giveaways</title>
+            <body>
+              <p>Stories about giveaways by large companies.
+                If you only send this on, some big company will send you a lot of money, clothes, a free vacation, etc., etc.
+                You would have to wait forever for any of these to pay off.</p>
+            </body>
+          </topic>
+          <topic id="malicious-warnings-virus-hoaxes">
+            <title>Malicious warnings (virus hoaxes)</title>
+            <body>
+              <p>Warnings about Trojans, viruses, and other malicious code that have no basis in fact, for example <codeph>Jdbgmgr.exe</codeph>.</p>
+              <p>Virus hoaxes have flooded the internet with thousands of viruses worldwide.
+                Paranoia in the internet community fuels such hoaxes.
+                An example of this is the "Good Times" virus hoax, which started in 1994 and is still circulating the internet today.
+                Instead of spreading from one computer to another by itself, Good Times relies on people to pass it along.</p>
+            </body>
+          </topic>
+          <topic id="sympathy-letters-and-requests-to-help-someone">
+            <title>Sympathy letters and requests to help someone</title>
+            <body>
+              <p>Requests for help or sympathy for someone who has had a problem or accident.</p>
+            </body>
+          </topic>
+          <topic id="urban-myths">
+            <title>Urban myths</title>
+            <body>
+              <p>Warnings and stories about bad things happening to people and animals that never really happened.</p>
+            </body>
+          </topic>
+          <topic id="inconsequential-warnings">
+            <title>Inconsequential warnings</title>
+            <body>
+              <p>Out of date warnings and warnings about real things that are not really much of a problem.</p>
+            </body>
+          </topic>
+          <topic id="true-legends">
+            <title>True legends</title>
+            <body>
+              <p>Real stories and messages that are not hoaxes but are still making the rounds of the internet.</p>
+            </body>
+          </topic>
+          <topic id="traditional-chain-letters">
+            <title>Traditional chain letters</title>
+            <body>
+              <p>Traditional chain letters that threaten bad luck if you do not send them on or request that you send money to the top <i>x</i> people on the list before sending it on.</p>
+            </body>
+          </topic>
+          <topic id="threat-chains">
+            <title>Threat chains</title>
+            <body>
+              <p>Mail that threatens to hurt you, your computer, or someone else if you do not pass on the message.</p>
+            </body>
+          </topic>
+          <topic id="scare-chains">
+            <title>Scare chains</title>
+            <body>
+              <p>Mail messages that warn you about terrible things that happen to people (especially women).</p>
+            </body>
+          </topic>
+          <topic id="jokes">
+            <title>Jokes</title>
+            <body>
+              <p>Warning messages that it's hard to imagine anyone would believe.</p>
+            </body>
+          </topic>
+        </topic>
+      </topic>
+    </topic>
+    <topic id="email-and-storing-moj-information">
+      <title>Email and storing <ph conref="conrefs.dita#conrefs/moj"/> information</title>
       <body>
-        <p>The cost and risk associated with hoaxes may not seem to be that high.
-          If, however, you consider the cost of everyone within the <ph conref="conrefs.dita#conrefs/moj"/> receiving one hoax message, spending two minutes reading it and another two minutes forwarding it on or discarding it, the cost can be significant.</p>
-        <p>Handling these messages may also make our mail servers slow down to a crawl or crash.</p>
-        <p>Spammers (bulk mailers of unsolicited mail) may harvest email addresses from hoaxes and chain letters.
-          Many of these letters contain hundreds of legitimate addresses, which is what the spammers want.
-          There are also rumours that spammers are deliberately starting hoaxes and chain letters to gather email addresses.</p>
+        <p>Data held by the <ph conref="conrefs.dita#conrefs/moj"/> should be managed in such a way that employees who require the data, for business reasons, can gain access to it.
+        Managers should ensure that data is stored in an area that is easily accessible to those who require access.
+        This includes <ph conref="conrefs.dita#conrefs/moj"/> information exchanged using email.</p>
+        <p>If you need further assistance or information about this process, email Operational Security: <ph conref="conrefs.dita#conrefs/ostemail"/>.</p>
       </body>
     </topic>
-    <topic id="how-to-recognise-a-hoax">
-      <title>How to recognise a hoax</title>
+    <topic id="accessing-emails-or-information-in-an-absent-employees-email-account">
+      <title>Accessing emails or information in an absent employee's email account</title>
       <body>
-        <p>A request to "send this to everyone you know" (or some variant) should raise a red flag.
-          The warning is probably a hoax.
-          It's unlikely a real warning message from a credible source will tell you to send it to everyone you know.</p>
-        <p>If the warning uses technical language, most people, including technologically savvy individuals, tend to believe the warning is real.</p>
-        <p>There may be credibility by association.
-          If the janitor at a large technological organisation sends a warning to someone outside of that organisation, people on the outside tend to believe the warning because the company should know about those things.
-          Even though the person sending the warning may not have a clue what he is talking about, the prestige of the company backs the warning, making it appear real.</p>
-        <p>These make it very difficult to be certain a warning is a hoax.
-          Check to see if the claims are real, and if the person sending out the warning is a real person.
-          Ask yourself if they are someone who would know what they are talking about.</p>
+        <p>Staff absences do occur and these can cause disruption to <ph conref="conrefs.dita#conrefs/moj"/> business where colleagues have no access to relevant departmental information.
+        Unfortunately, some staff go on annual leave, secondment or maternity leave,
+        but don't make provision for colleagues to access departmental information.</p>
+        <p>When an absence occurs, there is <i>no</i> right to be able to access another employee's account to obtain information.
+        This is true, regardless of whether the absence is expected or unexpected, for example annual leave or illness.</p>
+        <p>Accessing another employee's account, without their permission, might contravene data protection legislation.</p>
+        <p>Data protection legislation protects personal information which relates to identifiable, living individuals held on computers.
+          It specifies that appropriate security measures must be in place to protect against unauthorised access to, loss or destruction of personal data.
+          If you breach this principle you could render the <ph conref="conrefs.dita#conrefs/moj"/> liable to enforcement action by the Information Commissioner.</p>
+        <p>There are limited circumstances in which it is possible to gain lawful access to another employee's email account.
+          These include:
+        <ul>
+          <li>A criminal investigation by a law enforcement agency.</li>
+          <li>To enable an IT Misuse investigation to be carried out providing it is conducted using appropriate policies.</li>
+          <li>On the death of an employee, as data protection legislation no longer applies.</li>
+        </ul></p>
       </body>
     </topic>
-    <topic id="type-of-hoaxes">
-      <title>Type of hoaxes</title>
-      <body/>
-      <topic id="scam-chains">
-        <title>Scam chains</title>
-        <body>
-          <p>Mail messages that appear to be from a legitimate company but that are scams and cons, for example <xref href="https://en.wikipedia.org/wiki/Advance-fee_scam" format="html" scope="external">Advance fee scams</xref>.</p>
-        </body>
-      </topic>
-      <topic id="giveaways">
-        <title>Giveaways</title>
-        <body>
-          <p>Stories about giveaways by large companies.
-            If you only send this on, some big company will send you a lot of money, clothes, a free vacation, etc., etc.
-            You would have to wait forever for any of these to pay off.</p>
-        </body>
-      </topic>
-      <topic id="malicious-warnings-virus-hoaxes">
-        <title>Malicious warnings (virus hoaxes)</title>
-        <body>
-          <p>Warnings about Trojans, viruses, and other malicious code that have no basis in fact, for example <codeph>Jdbgmgr.exe</codeph>.</p>
-          <p>Virus hoaxes have flooded the internet with thousands of viruses worldwide.
-            Paranoia in the internet community fuels such hoaxes.
-            An example of this is the "Good Times" virus hoax, which started in 1994 and is still circulating the internet today.
-            Instead of spreading from one computer to another by itself, Good Times relies on people to pass it along.</p>
-        </body>
-      </topic>
-      <topic id="sympathy-letters-and-requests-to-help-someone">
-        <title>Sympathy letters and requests to help someone</title>
-        <body>
-          <p>Requests for help or sympathy for someone who has had a problem or accident.</p>
-        </body>
-      </topic>
-      <topic id="urban-myths">
-        <title>Urban myths</title>
-        <body>
-          <p>Warnings and stories about bad things happening to people and animals that never really happened.</p>
-        </body>
-      </topic>
-      <topic id="inconsequential-warnings">
-        <title>Inconsequential warnings</title>
-        <body>
-          <p>Out of date warnings and warnings about real things that are not really much of a problem.</p>
-        </body>
-      </topic>
-      <topic id="true-legends">
-        <title>True legends</title>
-        <body>
-          <p>Real stories and messages that are not hoaxes but are still making the rounds of the internet.</p>
-        </body>
-      </topic>
-      <topic id="traditional-chain-letters">
-        <title>Traditional chain letters</title>
-        <body>
-          <p>Traditional chain letters that threaten bad luck if you do not send them on or request that you send money to the top <i>x</i> people on the list before sending it on.</p>
-        </body>
-      </topic>
-      <topic id="threat-chains">
-        <title>Threat chains</title>
-        <body>
-          <p>Mail that threatens to hurt you, your computer, or someone else if you do not pass on the message.</p>
-        </body>
-      </topic>
-      <topic id="scare-chains">
-        <title>Scare chains</title>
-        <body>
-          <p>Mail messages that warn you about terrible things that happen to people (especially women).</p>
-        </body>
-      </topic>
-      <topic id="jokes">
-        <title>Jokes</title>
-        <body>
-          <p>Warning messages that it's hard to imagine anyone would believe.</p>
-        </body>
-      </topic>
-    </topic>
-  </topic>
-</topic>
-<topic id="email-and-storing-moj-information">
-  <title>Email and storing <ph conref="conrefs.dita#conrefs/moj"/> information</title>
-  <body>
-    <p>Data held by the <ph conref="conrefs.dita#conrefs/moj"/> should be managed in such a way that employees who require the data, for business reasons, can gain access to it.
-    Managers should ensure that data is stored in an area that is easily accessible to those who require access.
-    This includes <ph conref="conrefs.dita#conrefs/moj"/> information exchanged using email.</p>
-    <p>If you need further assistance or information about this process, email Operational Security: <ph conref="conrefs.dita#conrefs/ostemail"/>.</p>
-  </body>
-</topic>
-<topic id="accessing-emails-or-information-in-an-absent-employees-email-account">
-  <title>Accessing emails or information in an absent employee's email account</title>
-  <body>
-    <p>Staff absences do occur and these can cause disruption to <ph conref="conrefs.dita#conrefs/moj"/> business where colleagues have no access to relevant departmental information.
-    Unfortunately, some staff go on annual leave, secondment or maternity leave,
-    but don't make provision for colleagues to access departmental information.</p>
-    <p>When an absence occurs, there is <i>no</i> right to be able to access another employee's account to obtain information.
-    This is true, regardless of whether the absence is expected or unexpected, for example annual leave or illness.</p>
-    <p>Accessing another employee's account, without their permission, might contravene data protection legislation.</p>
-    <p>Data protection legislation protects personal information which relates to identifiable, living individuals held on computers.
-      It specifies that appropriate security measures must be in place to protect against unauthorised access to, loss or destruction of personal data.
-      If you breach this principle you could render the <ph conref="conrefs.dita#conrefs/moj"/> liable to enforcement action by the Information Commissioner.</p>
-    <p>There are limited circumstances in which it is possible to gain lawful access to another employee's email account.
-      These include:
-    <ul>
-      <li>A criminal investigation by a law enforcement agency.</li>
-      <li>To enable an IT Misuse investigation to be carried out providing it is conducted using appropriate policies.</li>
-      <li>On the death of an employee, as data protection legislation no longer applies.</li>
-    </ul></p>
-  </body>
-</topic>
-<topic id="contacts">
-    <title>Contacts</title>
-    <body>
-      <ul>
-        <li>
-          <p>IT Service Desk:<image href="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif" scope="external"/> </p>
-        </li>
-        <li>
-          <p>Operational Security:<image href="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif" scope="external"/> </p>
-        </li>
-      </ul>
-    </body>
-  </topic>
+    <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
 </topic>
