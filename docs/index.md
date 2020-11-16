@@ -253,9 +253,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |[Criminal Justice Secure Mail \(CJSM\)](cjsm.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Data Sovereignty](data-sovereignty.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Email Authentication Guide](email-authentication-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Email security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/email/) [Email security \(Refresh\)](email.md)
-
-|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Email security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/email/) [Email security \(Refresh\)](email.md)|All users|
 |[Email Security Guide](email-security-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
 |[Secure Email Transfer Guide](secure-email-transfer-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|

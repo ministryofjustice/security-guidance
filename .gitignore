@@ -2,6 +2,7 @@
 .ruby-version
 _site
 .project
+dita/fixes.txt
 dita/out
 dita/tstamp.dita
 buildUtils/catalog-dita.xml
