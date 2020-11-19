@@ -17,13 +17,11 @@ In particular:
 -   Don't make statements that defame, slander or lower the reputation of the MoJ, any person or organisation.
 -   Don't forward email [chain letters](#chain-letters) to your contacts. Instead, report them to [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
 -   Avoid excessive use of email. Be aware of unsuitable attachments, for example video clips, images, or executable files.
--   Avoid sending email to large numbers of recipients. Ask yourself if it really makes sense to "Reply All"?.
+-   Avoid sending email to large numbers of recipients. Ask yourself if it really makes sense to "Reply All"?
 
 Be aware that the MoJ monitors the use of electronic communications and web-browsing. Your manager can request reports detailing your activity if they suspect inappropriate use of email or web-browsing facilities.
 
-For further information, ask your manager or contact your local IT help desk.
-
-Suppliers to the MoJ should first ask their usual MoJ points of contact.
+[Ask](#contact-details) if you want further information.
 
 ## Email threats
 
@@ -39,11 +37,11 @@ There are many possible threats, including:
 -   Social engineering: In the context of security, social engineering refers to manipulating people to do something or divulge confidential information. For example, you might get a call from someone pretending to be from a software supplier, claiming that a virus has been found on your PC; they demand personal details before they can remove the virus.
 -   Spoofing: A spoofed email is where the sender \(in this case, a criminal\) purposely alters part of the email to make it look as though it was from someone else. Commonly, the sender's name/address and the body of the message are made to look as though it was from a legitimate source. It is commonly used to trick the recipient into providing confidential information such as passwords, or to market an online service dishonestly, or to sell a bogus product. Check the real sender of any email you receive if you ever have any doubt or uncertainty. If the sending address is one you don't recognise, do not click on any link contained within the email.
 
-The MoJ scans approximately 10 million messages a month for threats. Of these, we might expect to find 600,000 spam messages and 23,000 virus messages. Unfortunately, not every virus or spam email will be identified and blocked. The good news is that there are some simple steps you can take to reduce the threat:
+The MoJ scans approximately 14 million messages a month for threats \(figures from November 2020\). Of these, we might expect to find 1.4 million “spam” messages, 150,000 “phishing” messages, and about 1,000 malware messages \(including viruses\). Unfortunately, not every virus or spam email will be identified and blocked. The good news is that there are some simple steps you can take to reduce the threat:
 
 -   If you are not expecting the email, do not reply to it.
 -   If you are at all suspicious, do not divulge your details or any sensitive information.
--   Avoid opening potential scam emails. This may alert the 'scammer' you have viewed their message.
+-   Avoid opening potential scam emails.
 -   Don't open unexpected attachments or click on strange links in emails, even if the email appears to be from someone you know. Check the style and content; if it isn't consistent with previous emails, it could be a scam.
 -   Do not reveal personal or other sensitive information in response to automatic email requests.
 -   Avoid sharing your business email address on the internet. These might be collected and used by automatic 'harvesting' software programs.
@@ -71,7 +69,7 @@ When an email is sent to you, you are responsible for ensuring that everything i
 
 Never use auto-forwarding to forward emails from your MoJ business email address to another non-MoJ email address. In particular, never forward email from your MoJ business email address to a personal email address.
 
-There might be occasions when you have a genuine business need to auto-forward email to another email account, where the new address has the same or higher security standards. An example is forwarding from an MoJ business email address to another MoJ business email address. If you have business need for this, contact the Operational Security Team to discuss your requirements: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk).
+There might be occasions when you have a genuine business need to auto-forward email to another email account, where the new address has the same or higher security standards. An example is forwarding from an MoJ business email address to another MoJ business email address. If you have business need for this, [ask](#contact-details) for help.
 
 ### Chain letters
 
@@ -87,7 +85,7 @@ Warnings without the name of the person sending the original notice, or warnings
 
 Don't circulate warnings yourself; real warnings about viruses and other network problems are issued for everyone by MoJ technical services.
 
-*When in doubt, don't send it out.*
+**Note:** When in doubt, don't send it out.
 
 ### Scams
 
@@ -103,7 +101,7 @@ Scams are a bad investment. You certainly won't get rich. You will receive littl
 
 By their very nature, scams are harassing. Sending such mails using MoJ facilities is prohibited. The misuse of computer resources to harass other individuals or groups is unacceptable. Any person tempted to forward an email scam should familiarise themselves with the HR intranet pages, particularly the section regarding disciplinary action and electronic communications.
 
-*Scams also clog up the system and reduce the efficiency of our servers.*
+**Note:** Scams also clog up the system and reduce the efficiency of our servers.
 
 #### How to recognise a scam
 
@@ -124,7 +122,7 @@ There are a range of scams that can target you at home or at work. Callers usual
 
 In all genuine situations, the MoJ service desk will provide you with an incident reference number if there is a real problem with your machine.
 
-If you receive a call from someone claiming to be from the service desk, *always* ensure you ask them for the incident reference number. Then disconnect the call, and call service desk yourself, directly. If the original call was genuine, when you provide the incident reference number, they will be able to help you.
+If you receive a call from someone claiming to be from the service desk, always ensure you ask them for the incident reference number. Then disconnect the call, and call service desk yourself, directly. If the original call was genuine, when you provide the incident reference number, they will be able to help you.
 
 In general:
 
@@ -172,9 +170,15 @@ Stories about giveaways by large companies. If you only send this on, some big c
 
 ##### Malicious warnings \(virus hoaxes\)
 
-Warnings about Trojans, viruses, and other malicious code that have no basis in fact, for example `Jdbgmgr.exe`.
+Warnings about Trojans, viruses, and other malicious code that have no basis in fact, for example
 
-Virus hoaxes have flooded the internet with thousands of viruses worldwide. Paranoia in the internet community fuels such hoaxes. An example of this is the "Good Times" virus hoax, which started in 1994 and is still circulating the internet today. Instead of spreading from one computer to another by itself, Good Times relies on people to pass it along.
+```
+Jdbgmgr.exe
+```
+
+.
+
+Virus hoaxes have flooded the internet with thousands of viruses worldwide. Paranoia in the internet community fuels such hoaxes. An example of this is the “Good Times” virus hoax, which started in 1994 and is still circulating the internet today. Instead of spreading from one computer to another by itself, Good Times relies on people to pass it along.
 
 ##### Sympathy letters and requests to help someone
 
@@ -194,7 +198,7 @@ Real stories and messages that are not hoaxes but are still making the rounds of
 
 ##### Traditional chain letters
 
-Traditional chain letters that threaten bad luck if you do not send them on or request that you send money to the top *x* people on the list before sending it on.
+Traditional chain letters that threaten bad luck if you don't send them on or request that you send money to the top “x” people on the list before sending it on.
 
 ##### Threat chains
 
@@ -212,13 +216,13 @@ Warning messages that it's hard to imagine anyone would believe.
 
 Data held by the MoJ should be managed in such a way that employees who require the data, for business reasons, can gain access to it. Managers should ensure that data is stored in an area that is easily accessible to those who require access. This includes MoJ information exchanged using email.
 
-If you need further assistance or information about this process, email Operational Security: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk).
+If you need further assistance or information about this process, [ask](#contact-details) for help.
 
 ## Accessing emails or information in an absent employee's email account
 
 Staff absences do occur and these can cause disruption to MoJ business where colleagues have no access to relevant departmental information. Unfortunately, some staff go on annual leave, secondment or maternity leave, but don't make provision for colleagues to access departmental information.
 
-When an absence occurs, there is *no* right to be able to access another employee's account to obtain information. This is true, regardless of whether the absence is expected or unexpected, for example annual leave or illness.
+When an absence occurs, there is no right to be able to access another employee's account to obtain information. This is true, regardless of whether the absence is expected or unexpected, for example annual leave or illness.
 
 Accessing another employee's account, without their permission, might contravene data protection legislation.
 
@@ -230,9 +234,54 @@ There are limited circumstances in which it is possible to gain lawful access to
 -   To enable an IT Misuse investigation to be carried out providing it is conducted using appropriate policies.
 -   On the death of an employee, as data protection legislation no longer applies.
 
-## Contact details
+### Dealing with the problem
+
+If you know you're going to be away for any significant amount of time, you can make life easier for everyone, including yourself, by following these simple steps:
+
+1.  Make provision for someone to have access to your work email account during your absence. If you don't know how to do this, [contact your IT Helpdesk](#general-enquiries-including-theft-and-loss).
+2.  Create a “handover” package, containing information about the tasks that will, or might, need attention during your absence.
+3.  Make sure the package has contact details for everyone who might need to help progress or update the status of the tasks.
+4.  Create an “Out Of Office” notification in your email system; include clear details of who to contact in your absence.
+
+Sometimes, however, situations will arise where email access provision could not be organised in advance. This will need substantial escalation to management, Data Privacy and Security teams. You'll need to build a very careful and comprehensive business case to justify requesting exceptional access. If you need to do this, start by contacting the email account owner's Line Manager and the [MoJsecurity team](#contact-details).
+
+## Contacts for getting help
+
+In practice, all sorts of things can go wrong with email from time-to-time. Don't be afraid to [report a problem or ask for help](#contact-details); you'll be creating a better and safer work environment.
+
+### Contact details
 
 -   Contact the Cyber Assistance Team for specific advice on IT security: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 -   For any further questions relating to security, contact: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
 -   [To report an incident](reporting-an-incident.md).
+-   Suppliers to the MoJ should first ask their usual MoJ points of contact.
+
+### General enquiries, including theft and loss
+
+Dom1/Quantum - Technology Service Desk:
+
+-   Tel: 0800 917 5148
+
+**Note:** The previous
+
+```
+itservicedesk@justice.gov.uk
+```
+
+email address is no longer being monitored.
+
+Digital &amp; Technology - Digital Service Desk:
+
+-   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
+-   Slack:
+
+    ```
+    #digitalservicedesk
+    ```
+
+
+HMPPS Information & security:
+
+-   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
+-   Tel: 0203 334 0324
 

@@ -120,18 +120,29 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 ### General enquiries, including theft and loss
 
-**Dom1/Quantum - Technology Service Desk**
+Dom1/Quantum - Technology Service Desk:
 
 -   Tel: 0800 917 5148
 
-**Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+**Note:** The previous
 
-**Digital & Technology - Digital Service Desk**
+```
+itservicedesk@justice.gov.uk
+```
+
+email address is no longer being monitored.
+
+Digital &amp; Technology - Digital Service Desk:
 
 -   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
--   Slack: `#digitalservicedesk`
+-   Slack:
 
-**HMPPS Information & security:**
+    ```
+    #digitalservicedesk
+    ```
+
+
+HMPPS Information & security:
 
 -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
 -   Tel: 0203 334 0324
@@ -140,33 +151,48 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 **Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
 
-**Operational Security Team**
+Operational Security Team:
 
 -   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
--   Slack: `#security`
+-   Slack:
+
+    ```
+    #security
+    ```
+
 
 ### Privacy Advice
 
-**Privacy Team**
+Privacy Team:
 
 -   Email: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
--   Slack: `#securityprivacyteam`
+-   Slack:
+
+    ```
+    #securityprivacyteam
+    ```
+
 -   Intranet: [https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/)
 
 ### Cyber Security Advice
 
-**Cyber Consultants & Risk Advisors**
+Cyber Consultants & Risk Advisors:
 
 -   Email: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)
--   Slack: `#security`
+-   Slack:
+
+    ```
+    #security
+    ```
+
 
 ### Historic paper files urgently required by ministers, courts, or Public Inquiries
 
-**MoJ HQ staff**
+MoJ HQ staff:
 
 -   Email: [Records\_Retention\_@justice.gov.uk](mailto:Records_Retention_@justice.gov.uk)
 
-**HMCTS and HMPPS staff**
+HMCTS and HMPPS staff:
 
 -   Email: [BranstonRegistryRequests2@justice.gov.uk](mailto:BranstonRegistryRequests2@justice.gov.uk)
 

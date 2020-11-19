@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="email">
   <title>Email security</title>
@@ -19,13 +18,12 @@
             Instead, report them to <ph conref="conrefs.dita#conrefs/securityemail"/>.</li>
             <li>Avoid excessive use of email.
               Be aware of unsuitable attachments, for example video clips, images, or executable files.</li>
-            <li>Avoid sending email to large numbers of recipients. Ask yourself if it really makes sense to "Reply All"?.</li>
+            <li>Avoid sending email to large numbers of recipients.
+              Ask yourself if it really makes sense to "Reply All"?</li>
           </ul></p>
           <p>Be aware that the <ph conref="conrefs.dita#conrefs/moj"/> monitors the use of electronic communications and web-browsing.
           Your manager can request reports detailing your activity if they suspect inappropriate use of email or web-browsing facilities.</p>
-          <p>For further information,
-            ask your manager or contact your local IT help desk.</p>
-            <p>Suppliers to the <ph conref="conrefs.dita#conrefs/moj"/> should first ask their usual <ph conref="conrefs.dita#conrefs/moj"/> points of contact.</p>
+        <p><xref href="#contact-details" format="dita">Ask</xref> if you want further information.</p>
       </body>
     </topic>
     <topic id="email-threats">
@@ -54,15 +52,14 @@
             Check the real sender of any email you receive if you ever have any doubt or uncertainty.
             If the sending address is one you don't recognise, do not click on any link contained within the email.</li>
           </ul></p>
-        <p>The <ph conref="conrefs.dita#conrefs/moj"/> scans approximately 10 million messages a month for threats.
-        Of these, we might expect to find 600,000 spam messages and 23,000 virus messages.
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/> scans approximately 14 million messages a month for threats (figures from November 2020).
+          Of these, we might expect to find 1.4 million <q>spam</q> messages, 150,000 <q>phishing</q> messages, and about 1,000 malware messages (including viruses).
         Unfortunately, not every virus or spam email will be identified and blocked.
         The good news is that there are some simple steps you can take to reduce the threat:
           <ul>
             <li>If you are not expecting the email, do not reply to it.</li>
             <li>If you are at all suspicious, do not divulge your details or any sensitive information.</li>
-            <li>Avoid opening potential scam emails.
-            This may alert the 'scammer' you have viewed their message.</li>
+            <li>Avoid opening potential scam emails.</li>
             <li>Don't open unexpected attachments or click on strange links in emails, even if the email appears to be from someone you know.
             Check the style and content; if it isn't consistent with previous emails, it could be a scam.</li>
             <li>Do not reveal personal or other sensitive information in response to automatic email requests.</li>
@@ -103,7 +100,7 @@
             where the new address has the same or higher security standards.
             An example is forwarding from an <ph conref="conrefs.dita#conrefs/moj"/> business email address to another <ph conref="conrefs.dita#conrefs/moj"/> business email address.
             If you have business need for this,
-            contact the Operational Security Team to discuss your requirements: <ph conref="conrefs.dita#conrefs/ostemail"/>.</p>
+            <xref href="#contact-details" format="dita">ask</xref> for help.</p>
           </body>
       </topic>
       <topic id="chain-letters">
@@ -117,7 +114,7 @@
           <p>Newer chain letters may have a name and contact information but that person either does not exist or is not responsible for the hoax message.</p>
           <p>Warnings without the name of the person sending the original notice, or warnings with names, addresses and phone numbers that do not actually exist, are probably hoaxes.</p>
           <p>Don't circulate warnings yourself; real warnings about viruses and other network problems are issued for everyone by <ph conref="conrefs.dita#conrefs/moj"/> technical services.</p>
-          <p><i>When in doubt, don't send it out.</i></p>
+          <note importance="high">When in doubt, don't send it out.</note>
         </body>
       </topic>
       <topic id="scams">
@@ -142,7 +139,7 @@
             The misuse of computer resources to harass other individuals or groups is unacceptable.
             Any person tempted to forward an email scam should familiarise themselves with the HR intranet pages,
             particularly the section regarding disciplinary action and electronic communications.</p>
-          <p><i>Scams also clog up the system and reduce the efficiency of our servers.</i></p>
+          <note>Scams also clog up the system and reduce the efficiency of our servers.</note>
         </body>
         <topic id="how-to-recognise-a-scam">
           <title>How to recognise a scam</title>
@@ -176,7 +173,7 @@
               <li>Try and obtain details from you about your computer, or the <ph conref="conrefs.dita#conrefs/moj"/> network.</li>
             </ul></p>
           <p>In all genuine situations, the <ph conref="conrefs.dita#conrefs/moj"/> service desk will provide you with an incident reference number if there is a real problem with your machine.</p>
-          <p>If you receive a call from someone claiming to be from the service desk, <i>always</i> ensure you ask them for the incident reference number.
+          <p>If you receive a call from someone claiming to be from the service desk, always ensure you ask them for the incident reference number.
           Then disconnect the call, and call service desk yourself, directly.
           If the original call was genuine, when you provide the incident reference number, they will be able to help you.</p>
           <p>In general:
@@ -208,7 +205,8 @@
           <title>The risk and cost of hoaxes</title>
           <body>
             <p>The cost and risk associated with hoaxes may not seem to be that high.
-              If, however, you consider the cost of everyone within the <ph conref="conrefs.dita#conrefs/moj"/> receiving one hoax message, spending two minutes reading it and another two minutes forwarding it on or discarding it, the cost can be significant.</p>
+              If, however, you consider the cost of everyone within the <ph conref="conrefs.dita#conrefs/moj"/> receiving one hoax message,
+              spending two minutes reading it and another two minutes forwarding it on or discarding it, the cost can be significant.</p>
             <p>Handling these messages may also make our mail servers slow down to a crawl or crash.</p>
             <p>Spammers (bulk mailers of unsolicited mail) may harvest email addresses from hoaxes and chain letters.
               Many of these letters contain hundreds of legitimate addresses, which is what the spammers want.
@@ -223,7 +221,8 @@
               It's unlikely a real warning message from a credible source will tell you to send it to everyone you know.</p>
             <p>If the warning uses technical language, most people, including technologically savvy individuals, tend to believe the warning is real.</p>
             <p>There may be credibility by association.
-              If the janitor at a large technological organisation sends a warning to someone outside of that organisation, people on the outside tend to believe the warning because the company should know about those things.
+              If the janitor at a large technological organisation sends a warning to someone outside of that organisation,
+              people on the outside tend to believe the warning because the company should know about those things.
               Even though the person sending the warning may not have a clue what he is talking about, the prestige of the company backs the warning, making it appear real.</p>
             <p>These make it very difficult to be certain a warning is a hoax.
               Check to see if the claims are real, and if the person sending out the warning is a real person.
@@ -236,7 +235,8 @@
           <topic id="scam-chains">
             <title>Scam chains</title>
             <body>
-              <p>Mail messages that appear to be from a legitimate company but that are scams and cons, for example <xref href="https://en.wikipedia.org/wiki/Advance-fee_scam" format="html" scope="external">Advance fee scams</xref>.</p>
+              <p>Mail messages that appear to be from a legitimate company but that are scams and cons,
+                for example <xref href="https://en.wikipedia.org/wiki/Advance-fee_scam" format="html" scope="external">Advance fee scams</xref>.</p>
             </body>
           </topic>
           <topic id="giveaways">
@@ -250,10 +250,10 @@
           <topic id="malicious-warnings-virus-hoaxes">
             <title>Malicious warnings (virus hoaxes)</title>
             <body>
-              <p>Warnings about Trojans, viruses, and other malicious code that have no basis in fact, for example <codeph>Jdbgmgr.exe</codeph>.</p>
+              <p>Warnings about Trojans, viruses, and other malicious code that have no basis in fact, for example <pre>Jdbgmgr.exe</pre>.</p>
               <p>Virus hoaxes have flooded the internet with thousands of viruses worldwide.
                 Paranoia in the internet community fuels such hoaxes.
-                An example of this is the "Good Times" virus hoax, which started in 1994 and is still circulating the internet today.
+                An example of this is the <q>Good Times</q> virus hoax, which started in 1994 and is still circulating the internet today.
                 Instead of spreading from one computer to another by itself, Good Times relies on people to pass it along.</p>
             </body>
           </topic>
@@ -284,7 +284,7 @@
           <topic id="traditional-chain-letters">
             <title>Traditional chain letters</title>
             <body>
-              <p>Traditional chain letters that threaten bad luck if you do not send them on or request that you send money to the top <i>x</i> people on the list before sending it on.</p>
+              <p>Traditional chain letters that threaten bad luck if you don't send them on or request that you send money to the top <q>x</q> people on the list before sending it on.</p>
             </body>
           </topic>
           <topic id="threat-chains">
@@ -314,7 +314,8 @@
         <p>Data held by the <ph conref="conrefs.dita#conrefs/moj"/> should be managed in such a way that employees who require the data, for business reasons, can gain access to it.
         Managers should ensure that data is stored in an area that is easily accessible to those who require access.
         This includes <ph conref="conrefs.dita#conrefs/moj"/> information exchanged using email.</p>
-        <p>If you need further assistance or information about this process, email Operational Security: <ph conref="conrefs.dita#conrefs/ostemail"/>.</p>
+        <p>If you need further assistance or information about this process,
+        <xref href="#contact-details" format="dita">ask</xref> for help.</p>
       </body>
     </topic>
     <topic id="accessing-emails-or-information-in-an-absent-employees-email-account">
@@ -323,7 +324,7 @@
         <p>Staff absences do occur and these can cause disruption to <ph conref="conrefs.dita#conrefs/moj"/> business where colleagues have no access to relevant departmental information.
         Unfortunately, some staff go on annual leave, secondment or maternity leave,
         but don't make provision for colleagues to access departmental information.</p>
-        <p>When an absence occurs, there is <i>no</i> right to be able to access another employee's account to obtain information.
+        <p>When an absence occurs, there is no right to be able to access another employee's account to obtain information.
         This is true, regardless of whether the absence is expected or unexpected, for example annual leave or illness.</p>
         <p>Accessing another employee's account, without their permission, might contravene data protection legislation.</p>
         <p>Data protection legislation protects personal information which relates to identifiable, living individuals held on computers.
@@ -337,6 +338,34 @@
           <li>On the death of an employee, as data protection legislation no longer applies.</li>
         </ul></p>
       </body>
+      <topic id="dealing-with-the-problem">
+        <title>Dealing with the problem</title>
+        <body>
+          <p>If you know you're going to be away for any significant amount of time,
+            you can make life easier for everyone, including yourself, by following these simple steps:
+            <ol>
+              <li>Make provision for someone to have access to your work email account during your absence.
+                If you don't know how to do this, <xref href="#general-enquiries-including-theft-and-loss" format="dita">contact your IT Helpdesk</xref>.</li>
+              <li>Create a <q>handover</q> package, containing information about the tasks that will, or might, need attention during your absence.</li>
+              <li>Make sure the package has contact details for everyone who might need to help progress or update the status of the tasks.</li>
+              <li>Create an <q>Out Of Office</q> notification in your email system; include clear details of who to contact in your absence.</li>
+            </ol>
+          </p>
+          <p>Sometimes, however, situations will arise where email access provision could not be organised in advance.
+            This will need substantial escalation to management, Data Privacy and Security teams.
+          You'll need to build a very careful and comprehensive business case to justify requesting exceptional access.
+          If you need to do this, start by contacting the email account owner's Line Manager
+            and the <xref href="#contact-details" format="dita"><ph conref="conrefs.dita#conrefs/moj"/>security team</xref>.</p>
+        </body>
+      </topic>
     </topic>
+  <topic id="contacts-for-getting-help">
+    <title>Contacts for getting help</title>
+    <body>
+      <p>In practice, all sorts of things can go wrong with email from time-to-time.
+        Don't be afraid to <xref href="#contact-details" format="dita">report a problem or ask for help</xref>; you'll be creating a better and safer work environment.</p>
+    </body>
     <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+    <topic id="general-enquiries-including-theft-and-loss" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title/></topic>
+  </topic>
 </topic>

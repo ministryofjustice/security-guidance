@@ -112,14 +112,20 @@ If you think your email service provision has been susceptible to spam or a viru
 
 **Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
 
-**Operational Security Team**
+Operational Security Team:
 
 -   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
--   Slack: `#security`
+-   Slack:
+
+    ```
+    #security
+    ```
+
 
 ## Contact details
 
 -   Contact the Cyber Assistance Team for specific advice on IT security: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 -   For any further questions relating to security, contact: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
 -   [To report an incident](reporting-an-incident.md).
+-   Suppliers to the MoJ should first ask their usual MoJ points of contact.
 

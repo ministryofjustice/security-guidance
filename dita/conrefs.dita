@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="conrefs">
 	<title>conref library</title>
@@ -32,19 +31,19 @@
 	<topic id="general-enquiries-including-theft-and-loss">
 		<title>General enquiries, including theft and loss</title>
 		<body>
-			<p id="dom1"><b>Dom1/Quantum - Technology Service Desk</b>
+			<p id="dom1">Dom1/Quantum - Technology Service Desk:
 				<ul>
 					<li>Tel: 0800 917 5148</li>
 				</ul>
-				<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph> email address is no longer being monitored.</note>
+				<note>The previous <pre>itservicedesk@justice.gov.uk</pre> email address is no longer being monitored.</note>
 			</p>
-			<p id="dandt"><b>Digital &amp; Technology - Digital Service Desk</b>
+			<p id="dandt">Digital &amp;amp; Technology - Digital Service Desk:
 				<ul>
 					<li>Email: <xref href="mailto:servicedesk@digital.justice.gov.uk" format="email" scope="external">servicedesk@digital.justice.gov.uk</xref></li>
-					<li>Slack: <codeph>#digitalservicedesk</codeph></li>
+					<li>Slack: <pre>#digitalservicedesk</pre></li>
 				</ul>
 			</p>
-			<p id="hmppsinfosec"><b>HMPPS Information &amp; security:</b>
+			<p id="hmppsinfosec">HMPPS Information &amp; security:
 				<ul>
 					<li>Email: <xref href="mailto:informationmgmtsecurity@justice.gov.uk" format="email" scope="external">informationmgmtsecurity@justice.gov.uk</xref></li>
 					<li>Tel: 0203 334 0324</li>
@@ -57,10 +56,10 @@
 		<title>Incidents</title>
 		<body>
 			<note>If you work for an agency or ALB, refer to your local incident reporting guidance.</note>
-			<p><b>Operational Security Team</b>
+			<p>Operational Security Team:
 				<ul>
 					<li>Email: <ph conref="#conrefs/ostemail"/></li>
-					<li>Slack: <codeph>#security</codeph></li>
+					<li>Slack: <pre>#security</pre></li>
 				</ul>
 			</p>
 		</body>
@@ -69,10 +68,10 @@
 	<topic id="privacy-advice">
 		<title>Privacy Advice</title>
 		<body>
-			<p><b>Privacy Team</b>
+			<p>Privacy Team:
 				<ul>
 					<li>Email: <xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">privacy@justice.gov.uk</xref></li>
-					<li>Slack: <codeph>#securityprivacyteam</codeph></li>
+					<li>Slack: <pre>#securityprivacyteam</pre></li>
 					<li>Intranet: <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/</xref></li>
 				</ul>
 			</p>
@@ -82,10 +81,10 @@
 	<topic id="cyber-security-advice">
 		<title>Cyber Security Advice</title>
 		<body>
-			<p><b>Cyber Consultants &amp; Risk Advisors</b>
+			<p>Cyber Consultants &amp; Risk Advisors:
 				<ul>
 					<li>Email: <ph conref="#conrefs/securityemail"/></li>
-					<li>Slack: <codeph>#security</codeph></li>
+					<li>Slack: <pre>#security</pre></li>
 				</ul>
 			</p>
 		</body>
@@ -94,12 +93,12 @@
 	<topic id="historic-paper-files-urgently-required-by-ministers-courts-or-public-inquiries">
 		<title>Historic paper files urgently required by ministers, courts, or Public Inquiries</title>
 		<body>
-			<p><b><ph conref="#conrefs/moj"/> HQ staff</b>
+			<p><ph conref="#conrefs/moj"/> HQ staff:
 				<ul>
 					<li>Email: <xref href="mailto:Records_Retention_@justice.gov.uk" format="email" scope="external">Records_Retention_@justice.gov.uk</xref></li>
 				</ul>
 			</p>
-			<p><b>HMCTS and HMPPS staff</b>
+			<p>HMCTS and HMPPS staff:
 				<ul>
 					<li>Email: <xref href="mailto:BranstonRegistryRequests2@justice.gov.uk" format="email" scope="external">BranstonRegistryRequests2@justice.gov.uk</xref></li>
 				</ul>
@@ -123,6 +122,7 @@
 			<li>Contact the Cyber Assistance Team for specific advice on IT security: <ph conref="conrefs.dita#conrefs/catemail"/>.</li>
 			<li>For any further questions relating to security, contact: <ph conref="conrefs.dita#conrefs/securityemail"/>.</li>
 			<li><xref href="reporting-an-incident.dita" format="dita">To report an incident</xref>.</li>
+			<li>Suppliers to the <ph conref="conrefs.dita#conrefs/moj"/> should first ask their usual <ph conref="conrefs.dita#conrefs/moj"/> points of contact.</li>
 		  </ul>
 		</body>
 	  </topic>

@@ -59,4 +59,5 @@ For further guidance on password strength, see the [Password Creation and Authen
 -   Contact the Cyber Assistance Team for specific advice on IT security: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 -   For any further questions relating to security, contact: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
 -   [To report an incident](reporting-an-incident.md).
+-   Suppliers to the MoJ should first ask their usual MoJ points of contact.
 
