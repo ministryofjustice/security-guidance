@@ -1,4 +1,5 @@
 .DS_Store
+.idea/
 .ruby-version
 _site
 .project
