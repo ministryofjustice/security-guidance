@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="spam-and-phishing-guide">
   <title>Spam and Phishing Guide</title>
@@ -7,7 +6,8 @@
   <topic id="introduction">
     <title>Introduction</title>
     <body>
-      <p>This guide outlines the technical implementations you, as technical users, should make to keep <ph conref="conrefs.dita#conrefs/mojlong"/> systems secure.
+      <p>This guide outlines the technical implementations you, as technical users, should make to keep
+        <ph conref="conrefs.dita#conrefs/mojlong"/> systems secure.
         This guide is a sub-page to the <xref href="email-security-guide.dita" format="dita">Email Security Guide</xref>.</p>
     </body>
   </topic>
@@ -17,8 +17,10 @@
     <topic id="spam-and-phishing">
       <title>Spam and phishing</title>
       <body>
-        <p>To protect against spam and phishing attacks, the <ph conref="conrefs.dita#conrefs/moj"/> will make use of government services such as
-          the National Cyber Security Centre's <xref href="mailto:report@phishing.gov.uk" format="email" scope="external">Suspicious Email Reporting Service</xref>
+        <p>To protect against spam and phishing attacks, the <ph conref="conrefs.dita#conrefs/moj"/> will make use of
+          government services such as
+          the National Cyber Security Centre's <xref href="mailto:report@phishing.gov.uk" format="email"
+                                                     scope="external">Suspicious Email Reporting Service</xref>
           and any other services that are appropriate.</p>
       </body>
     </topic>
@@ -27,9 +29,14 @@
       <body>
         <p>Spoofing attacks may be mitigated by:
         <ul>
-          <li>Implementing SPF, DKIM and DMARC e.g. sender information <codeph>from</codeph>, <codeph>reply-to</codeph>, <codeph>return-path</codeph> and even <codeph>x-origin</codeph> can be spoofed (please refer to the <xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref> for further guidance).</li>
+          <li>Implementing SPF, DKIM and DMARC e.g. sender information <pre>from</pre>, <pre>reply-to</pre>,
+            <pre>return-path</pre> and even <pre>x-origin</pre> can be spoofed (please refer to the
+            <xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref> for further
+            guidance).</li>
           <li>Using secure email gateways.</li>
-          <li>Implementing access controls, such as <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">multi factor authentication (MFA)</xref>, to avoid an attacker gaining access to credentials for an email account where they could legitimately spoof the sender's email address.</li>
+          <li>Implementing access controls,
+            such as <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">multi factor authentication(MFA)</xref>,
+            to avoid an attacker gaining access to credentials for an email account where they could legitimately spoof the sender's email address.</li>
         </ul></p>
       </body>
     </topic>
@@ -39,17 +46,20 @@
     <body>
       <p>DMARC must also be implemented on non-email sending domains as they can be easily be used for email spoofing and phishing.
       <ul>
-        <li>Once parked domains are protected, they must be configured to automatically renew by default.If you are a domain owner you should aim to do the following to protect a parked domain:
+        <li>Once parked domains are protected, they must be configured to automatically renew by default.
+          If you are a domain owner you should aim to do the following to protect a parked domain:
           <ol>
             <li>Create a SPF record with no permitted senders so that no IP is authorised to send email for your parked domain.</li>
             <li>Include a RUA address to which aggregate reports can be sent.
               These will provide you with visibility of potential abuse.</li>
-            <li>If you have an <codeph>A</codeph> record on your domain, but no <codeph>MX</codeph> records, you should create a null <codeph>MX</codeph> record to immediately fail any email to that domain.</li>
+            <li>If you have an <pre>A</pre> record on your domain, but no <pre>MX</pre> records,
+              you should create a null <pre>MX</pre> record to immediately fail any email to that domain.</li>
           </ol>
         </li>
-        <li>Create a record of type <codeph>MX</codeph>, with a priority of 0 (highest priority).
+        <li>Create a record of type <pre>MX</pre>, with a priority of 0 (highest priority).
           <p>A null DKIM record isn't required, as email will be treated the same as if it had no record at all.
-            However, recipients may treat a null DKIM record with extra caution, as it explicitly revokes any keys that may be cached.</p>
+            However, recipients may treat a null DKIM record with extra caution,
+            as it explicitly revokes any keys that may be cached.</p>
         </li>
       </ul></p>
       <p>Some interfaces may not allow you to implement all these steps but implement as many as possible.</p>
@@ -58,8 +68,11 @@
       <title>Compromised email systems</title>
       <body>
         <p>Compromised email systems are often used to deliver spam messages and conduct phishing.
-          It is recommended that email systems are protected by <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">multi factor authentication</xref> where possible to mitigate this risk.</p>
-        <p>Such account takeovers should be reported as an incident in compliance with the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/" format="html" scope="external">IT Incident Management Guide</xref>.</p>
+          It is recommended that email systems are protected by
+          <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">multi factor authentication</xref>
+          where possible to mitigate this risk.</p>
+        <p>Such account takeovers should be reported as an incident in compliance with the
+          <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/" format="html" scope="external">IT Incident Management Guide</xref>.</p>
       </body>
     </topic>
     <topic id="accidental-disclosure">
@@ -67,18 +80,22 @@
       <body>
         <p>Not all security threats are intentional.
           Authorised users may accidentally send proprietary information via e-mail to unintended recipients.
-          Where these incidents are reported incident managers should refer to the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/" format="html" scope="external">IT Incident Management Guide</xref> for further guidance.</p>
+          Where these incidents are reported incident managers should refer to the
+          <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/" format="html" scope="external">IT Incident Management Guide</xref> for further guidance.</p>
       </body>
     </topic>
     <topic id="man-in-the-middle-mitm-attacks">
       <title>Man-in-the-Middle (MITM) attacks</title>
       <body>
-        <p>MITM attacks can result in unauthorised access to email whilst in transit and are often used to gain access to sensitive information.</p>
+        <p>MITM attacks can result in unauthorised access to email whilst in transit and are often used to gain access
+          to sensitive information.</p>
         <p>You can mitigate MITM attacks by:
         <ul>
           <li>Configuring Secure/Multipurpose Internet Mail Extensions to encrypt emails and provide unique digital certificates.</li>
-          <li>Implementing certificate based authentication for all end user machines and devices (e.g. printers with email services enabled).</li>
-          <li>Using TLS certificates which activate HTTPS protocol to provide a secure connection between the <ph conref="conrefs.dita#conrefs/moj"/> and third parties on webmail portals.</li>
+          <li>Implementing certificate based authentication for all end user machines and devices,
+            for example printers with email services enabled.</li>
+          <li>Using TLS certificates which activate HTTPS protocol to provide a secure connection between the
+            <ph conref="conrefs.dita#conrefs/moj"/> and third parties on webmail portals.</li>
           <li>Using SMTPS (encrypted by TLS) rather than unencrypted SMTP.</li>
         </ul></p>
       </body>
@@ -87,24 +104,31 @@
   <topic id="mail-check">
     <title>Mail Check</title>
     <body>
-      <p>Mail Check is a NCSC cyber defence service that enables email administrators to improve and maintain the security of email domains by preventing spoofing attacks.
-        All domains operated by, or on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>, must be added to Mail Check, regardless of whether the domain is expected to send or receive emails.
+      <p>Mail Check is a NCSC cyber defence service that enables email administrators to improve and maintain the
+        security of email domains by preventing spoofing attacks.
+        All domains operated by, or on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>, must be added to Mail Check,
+        regardless of whether the domain is expected to send or receive emails.
         All future contracts and agreements with third party suppliers must make this a requirement.</p>
-      <p>Mail Check should only be used if the email domain name provided is publicly routable from the internet via Simple Mail Transfer Protocol (SMTP).</p>
-      <p>Digital and Technology users must contact the <xref href="mailto:mailcheck@digital.ncsc.gov.uk" format="email" scope="external">NCSC Mail Check team</xref> to have domains added to the <ph conref="conrefs.dita#conrefs/moj"/>'s subscription of the Mail Check service.</p>
+      <p>Mail Check should only be used if the email domain name provided is publicly routable from the internet via
+        Simple Mail Transfer Protocol (SMTP).</p>
+      <p>Digital and Technology users must contact the
+        <xref href="mailto:mailcheck@digital.ncsc.gov.uk" format="email" scope="external">NCSC Mail Check team</xref>
+        to have domains added to the <ph conref="conrefs.dita#conrefs/moj"/>'s subscription of the Mail Check service.</p>
     </body>
   </topic>
   <topic id="email-sandboxing">
     <title>Email sandboxing</title>
     <body>
-      <p>Sandboxing provides an additional layer of protection in which any email that contains URLs, attachments or suspicious senders can be securely checked for malicious content before they reach the network or mail server.
+      <p>Sandboxing provides an additional layer of protection in which any email that contains URLs,
+        attachments or suspicious senders can be securely checked for malicious content before they reach the network or mail server.
         If the email is found to be harmful it will not be delivered.
         Sandboxing is beneficial as it:
       <ul>
         <li>Mirrors the end user's computer and provides a secure space to interact with and analyse harmful communications.</li>
         <li>Allows developers and technical architects to actively minimise the impact of a threat.</li>
       </ul></p>
-      <p>For further guidance on implementing sandboxing, including which products you should use, contact the Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/>.</p>
+      <p>For further guidance on implementing sandboxing, including which products you should use,
+        contact the Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/>.</p>
     </body>
   </topic>
   <topic id="url-link-rewriting">
@@ -123,26 +147,33 @@
   <topic id="protecting-against-email-security-threats">
     <title>Protecting against email security threats</title>
     <body>
-      <p>You can protect against email security threats by implementing the controls outlined below.</p>
-      <p>✔ Implement anti-malware software.
-        Refer to the <xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guidance</xref> for more information.</p>
-      <p>✔ Install the minimal mail server services required and eliminate known vulnerabilities through patches, configurations and upgrades.
-        Refer to the Vulnerability Scanning and Patch Management Guide for more information.</p>
-      <p>✔ Implement external email warning messages to insert text (usually in the subject line) into an email when it is identified as coming from outside of the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
-      <p>✔ Develop email security management plans to define best practices for employees.</p>
-      <p>✔ Use SMTP alert policies to track malware activity and data loss incidents from anti-malware software.</p>
-      <p>✔ Ensure there is no unnecessary detail on the <ph conref="conrefs.dita#conrefs/moj"/> website or webmail by considering what visitors need to know with the aim of reducing the threat of spear phishing.</p>
-      <p>✔ Restrict auto-forwarding.
-        Refer to the <xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref> for more information.</p>
-      <p>✔ Restrict delegate access.
-        Refer to the <xref href="email-security-guide.dita" format="dita">Email Security Guide</xref> for more information.</p>
-      <p>The <xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref> provides further detail on the email authentication controls mentioned in this guide.</p>
+      <p>To provide protection against email security threats, implement the following controls:
+      <ul>
+        <li>Implement anti-malware software.
+          Refer to the <xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guidance</xref> for more information.</li>
+        <li>Install only the minimal mail server services required.
+          Eliminate known vulnerabilities through patches, configurations and upgrades.
+          Refer to the Vulnerability Scanning and Patch Management Guide for more information.</li>
+        <li>Implement external email warning messages to insert text (usually in the subject line) into an email when
+          it is identified as coming from outside of the <ph conref="conrefs.dita#conrefs/moj"/><fn conref="conrefs.dita#conrefs/fnexternalemail"/>.</li>
+        <li>Develop email security management plans to define best practices for employees.</li>
+        <li>Use SMTP alert policies to track malware activity and data loss incidents from anti-malware software.</li>
+        <li>Ensure there is no unnecessary detail on the <ph conref="conrefs.dita#conrefs/moj"/> website or webmail
+          by considering what visitors need to know with the aim of reducing the threat of spear phishing.</li>
+        <li>Restrict auto-forwarding.
+          Refer to the <xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref> for more information.</li>
+        <li>Restrict delegate access.
+          Refer to the <xref href="email-security-guide.dita" format="dita">Email Security Guide</xref> for more information.</li>
+      </ul></p>
+      <p>The <xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref>
+        provides further detail on the email authentication controls mentioned in this guide.</p>
     </body>
   </topic>
   <topic id="reporting-spam-or-malicious-emails">
     <title>Reporting spam or malicious emails</title>
     <body>
-      <p>If you think your email service provision has been susceptible to spam or a virus, report it immediately to the Technology Service Desk as an IT security incident.
+      <p>If you think your email service provision has been susceptible to spam or a virus,
+        report it immediately to the Technology Service Desk as an IT security incident.
         Please refer to the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/" format="html" scope="external">IT Incident Management Policy</xref> for further guidance.</p>
     </body>
   </topic>

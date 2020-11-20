@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="email-security-guide">
   <title>Email Security Guide</title>
@@ -16,15 +15,17 @@
     <body>
       <p>This guide is aimed at two audiences:</p>
       <ol>
-        <li>The in-house <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology staff who are responsible for implementing controls throughout technical design,
+        <li>The in-house <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology staff who are responsible for
+          implementing controls throughout technical design,
           development, system integration and operation.
         This includes DevOps, Software Developers, Technical Architects and Service Owners.
         It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge (EPICK) Team.</li>
         <li>Any other <ph conref="conrefs.dita#conrefs/moj"/> business group, agency, contractor,
-          IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for,
+          IT supplier and partner who in any way designs, develops or supplies services (including processing,
+          transmitting and storing data) for,
           or on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
       </ol>
-      <p>In this and the related guides outlined below, this audience will be referred to as "technical users".</p>
+      <p>In this and the related guides outlined below, the intended audience will be referred to as <q>technical users</q>.</p>
     </body>
   </topic>
   <topic id="related-guides">
@@ -32,15 +33,9 @@
     <body>
       <p>Further guidance on email security at the <ph conref="conrefs.dita#conrefs/moj"/> can be found in the following guides.</p>
       <ul>
-        <li>
-          <p><xref href="spam-and-phishing-guide.dita" format="dita">Spam and Phishing Guide</xref> - provides guidance on how you can protect against and report email security threats like phishing and spamming.</p>
-        </li>
-        <li>
-          <p><xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref> - provides guidance on the security tools you can use to securely transfer information via email.</p>
-        </li>
-        <li>
-          <p><xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref> - provides guidance on the authentication mechanisms that should be used at the domain layer to maintain security.</p>
-        </li>
+        <li><xref href="spam-and-phishing-guide.dita" format="dita">Spam and Phishing Guide</xref> - provides guidance on how you can protect against and report email security threats like phishing and spamming.</li>
+        <li><xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref> - provides guidance on the security tools you can use to securely transfer information via email.</li>
+        <li><xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref> - provides guidance on the authentication mechanisms that should be used at the domain layer to maintain security.</li>
       </ul>
     </body>
   </topic>
@@ -56,58 +51,38 @@
           See the Information Classification Handling and Security Guide for further information.</li>
         <li>Discourage downloading of data to mobile devices by promoting the use cloud services such as Office 365.</li>
         <li>Ensure suspected or actual phishing emails are easily reported to the Technology Service Desk as email attachments.</li>
-        <li>Keep your operating systems up to date to prevent susceptibility to viruses.</li>
-        <li>Scan email attachments to detect viruses and other malware.</li>
         <li>Ensure email services are appropriately authenticated.
           Refer to the <xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref> for more information.</li>
         <li>Ensure secure email messaging services and, where necessary, encryption tools are used to transfer sensitive information and system secrets.
           Refer to the <xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref> for further guidance.</li>
         <li>Ensure that email configuration is secure and all necessary technical controls, including those set out in the <xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide</xref> are implemented and kept up to date.</li>
       </ul>
-      <p>Suppliers are permitted to use their own email services, if agreed in advance by the <ph conref="conrefs.dita#conrefs/moj"/> but, as a minimum, they must meet the security requirements in this guide and its related guides.</p>
-    </body>
-  </topic>
-  <topic id="authorised-access-of-users-accounts">
-    <title>Authorised access of users' accounts</title>
-    <body>
-      <p>By default, users must not access the email accounts of any other users unless they are authorised to do so as required by their role.
-        Access is to be authorised on a case by case basis only, and will typically be aligned to the following circumstances:
-      <ul>
-        <li>During a criminal investigation by a law enforcement agency.</li>
-        <li>During an employee investigation relating to misconduct or a security incident, for example IT misuse.</li>
-        <li>Upon the death or unexpected exit of an employee, for example for the retrieval of key information and closing down an account.</li>
-      </ul></p>
-      <p>Anyone required to undertake this task should read this guide in conjunction with the <xref href="privileged-account-management-guide.dita" format="dita">Privileged Account Management Guide</xref>.</p>
-    </body>
-  </topic>
-  <topic id="monitoring">
-    <title>Monitoring</title>
-    <body>
-      <p>To be clear, the <ph conref="conrefs.dita#conrefs/moj"/> <i>does</i> monitor Email services for security purposes.</p>
+      <p>Suppliers are permitted to use their own email services, if agreed in advance by the <ph conref="conrefs.dita#conrefs/moj"/> but,
+        as a minimum, they must meet the security requirements in this guide and its related guides.</p>
     </body>
   </topic>
   <topic id="delegate-access">
     <title>Delegate access</title>
     <body>
-      <p>Technical users must ensure end users do not have the privileges required to provide another user with delegate access to their account.
-        There might be valid business reasons why an <ph conref="conrefs.dita#conrefs/moj"/> IT user might need to give another user access to their email account.
+      <p>There might be valid business reasons why an <ph conref="conrefs.dita#conrefs/moj"/> IT user might need to give another user access to their email account.
         These valid requirements include:
-      <ul>
-        <li>Reading, sending or deleting messages on their behalf.</li>
-        <li>Managing their calendar.</li>
-      </ul></p>
-      <p>In such cases, the user must seek permission from their line manager.
-        Where permission is granted, and to ensure secure delegation, technical users must:
-      <ul>
-        <li>Enforce delegate access to pre-defined limited periods of time.</li>
-        <li>Enable mailbox owners to manage and revoke access themselves.</li>
-        <li>Prevent federated sharing, where users in one email community can share calendar or other email information with recipients in other email communities.</li>
-        <li>Prevent auto-forwards to external email services, including personal email accounts.</li>
-        <li>Prevent the possibility of delegating access to unauthorised users, for example to people outside the <ph conref="conrefs.dita#conrefs/moj"/>.
-        Do this by enforcing RBAC.</li>
-      </ul></p>
-      <p>For individual business accounts, the helpdesk can assist with configuring delegate access.
-        Administrators of group inboxes can configure delegate access to those inboxes.</p>
+        <ul>
+          <li>Reading, sending or deleting messages on their behalf.</li>
+          <li>Managing their calendar.</li>
+        </ul></p>
+      <p>Where an email system permits delegation, ensure that:
+        <ul>
+          <li>By default, delegate access is not initially operating for an email account.
+            In other words, when an email account is created, no-one has delegate access immediately.</li>
+          <li>Access cannot be delegated to people outside the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+          <li>When delegate access is enabled, it is for a limited period of time.
+          In other words, delegate access cannot be enabled permanently.</li>
+          <li>Mailbox owners can manage and revoke access themselves.</li>
+          <li>Federated sharing is not possible unless configured at the application management level.
+          This prevents users in one email community from sharing calendar or other email information with recipients in other email communities.</li>
+          <li>Auto-forwards to external email services<fn>An external email service is any service that is outside the <pre>gov.uk</pre> domain.</fn> are not possible.
+            This includes preventing auto-forwards to personal email accounts.</li>
+        </ul></p>
       <p>For further details see the <xref href="privileged-account-management-guide.dita" format="dita">Privileged Account Management Guide</xref>.</p>
     </body>
   </topic>

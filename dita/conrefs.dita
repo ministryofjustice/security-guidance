@@ -14,7 +14,9 @@
 			<ph id="gsuite">Google Workspace</ph>
 		</p>
 		<p id="contactcatbyemail">Contact the Cyber Assistance Team by email: <ph conref="#conrefs/catemail"/></p>
-		<image id="intraneticon" href="images/gov-uk-logotype-crown.png"><alt>A small UK Government Crown, to indicate that the link is to the <ph conref="#conrefs/moj"/> Intranet.</alt></image>
+		<image id="intraneticon" href="images/gov-uk-logotype-crown.png"><alt>A small UK Government Crown,
+			to indicate that the link is to the <ph conref="#conrefs/moj"/> Intranet.</alt></image>
+		<p><fn id="fnexternalemail">An external email service is any service that is outside the <pre>gov.uk</pre> domain.</fn></p>
 	</body>
 
 <!-- Contacts -->
