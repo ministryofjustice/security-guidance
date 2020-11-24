@@ -16,11 +16,11 @@ if an audience attribute is present, then only matching content is included.
 		<topicref href="user-guide.dita" type="topic" audience="audience-basic audience-tech"/>
 	</topichead>
 
-	<topichead navtitle="Information security policies" audience="audience-basic audience-tech">
+	<topichead navtitle="Information security policies" audience="audience-basic audience-suppliers audience-tech">
 		<topichead navtitle="Management direction for information security">
-			<topicref href="setecastronomy.dita" type="topic"/>
+			<topicref href="setecastronomy.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="identify-protect-detect-respond-recover.dita" type="topic"/>
-			<topicref href="line-manager-approval.dita" type="topic"/>
+			<topicref href="line-manager-approval.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="shared-responsibility-models.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 	</topichead>
@@ -108,7 +108,7 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 	</topichead>
 	-->
-	<topichead navtitle="Operations security" audience="audience-basic audience-tech">
+	<topichead navtitle="Operations security" audience="audience-basic audience-suppliers audience-tech">
 		<topichead navtitle="Operational procedures and responsibilities" audience="audience-tech">
 			<topicref href="mail-check.dita" type="topic"/>
 			<topicref href="public-sector-dns.dita" type="topic"/>
