@@ -76,10 +76,19 @@
 		</ant>
 		<!-- Rename this file to be Tech users guide. -->
 		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-tech.pdf" overwrite="true"/>
+		<!-- Next build the Suppliers PDF, containing just their content. -->
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
+			<property name="args.filter" value="${dita}/pdf.ditaval:${dita}/audience-suppliers.ditaval"/>
+			<property name="output.dir" location="${build}"/>
+			<property name="transtype" value="pdf"/>
+		</ant>
+		<!-- Rename this file to be Tech users guide. -->
+		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-suppliers.pdf" overwrite="true"/>
 		<!-- Now build the 'all users' guide, omitting the technical details. -->
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${dita}/pdf.ditaval:${dita}/audience-allusers.ditaval"/>
+			<property name="args.filter" value="${dita}/pdf.ditaval:${dita}/audience-basic.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>

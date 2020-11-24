@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 
+<!--
+Content is included by default.
+if an audience attribute is present, then only matching content is included.
+ audience="audience-basic audience-suppliers audience-tech"
+ -->
+
 <map>
 	<title><ph conref="conrefs.dita#conrefs/mojlong"/> Cyber Security Guidance</title>
 	<topicref href="conrefs.dita" type="topic" processing-role="resource-only"/>
-	<topicref href="cyber-and-technical-security-guidance.dita" type="topic"/>
+	<topicref href="cyber-and-technical-security-guidance.dita" type="topic" audience="audience-basic audience-tech"/>
 	<topichead navtitle="Getting in contact">
 		<topicref href="reporting-an-incident.dita" type="topic"/>
-		<topicref href="user-guide.dita" type="topic"/>
+		<topicref href="user-guide.dita" type="topic" audience="audience-basic audience-tech"/>
 	</topichead>
 
-	<topichead navtitle="Information security policies">
+	<topichead navtitle="Information security policies" audience="audience-basic audience-tech">
 		<topichead navtitle="Management direction for information security">
 			<topicref href="setecastronomy.dita" type="topic"/>
 			<topicref href="identify-protect-detect-respond-recover.dita" type="topic"/>
@@ -24,7 +30,7 @@
 		</topichead>
 	</topichead>
 	-->
-	<topichead navtitle="Mobile devices and teleworking">
+	<topichead navtitle="Mobile devices and teleworking" audience="audience-basic audience-tech">
 		<topichead navtitle="Mobile device policy">
 			<topicref href="remote-working.dita" type="topic"/>
 		</topichead>
@@ -34,7 +40,7 @@
 			<topicref href="personal-devices.dita" type="topic"/>
 		</topichead>
 	</topichead>
-	<topichead navtitle="Human resource security">
+	<topichead navtitle="Human resource security" audience="audience-basic audience-tech">
 		<topichead navtitle="Prior to employment">
 			<topicref href="personnel-security-clearances.dita" type="topic"/>
 		</topichead>
@@ -46,7 +52,7 @@
 		</topichead>
 		-->
 	</topichead>
-	<topichead navtitle="Asset management">
+	<topichead navtitle="Asset management" audience="audience-basic audience-tech">
 		<topichead navtitle="Responsibility for assets">
 			<topicref href="acceptable-use.dita" type="topic"/>
 			<topicref href="acceptable-use-policy.dita" type="topic"/>
@@ -62,16 +68,16 @@
 		-->
 	</topichead>
 	<topichead navtitle="Access control">
-		<topichead navtitle="Business requirements of access control" audience="audience-tech">
-			<topicref href="access-control-guide.dita" type="topic" audience="audience-tech"/>
+		<topichead navtitle="Business requirements of access control" audience="audience-suppliers audience-tech">
+			<topicref href="access-control-guide.dita" type="topic"/>
 		</topichead>
 		<topichead navtitle="User access management">
 			<topicref href="authentication.dita" type="topic" audience="audience-tech"/>
 			<topicref href="management-access.dita" type="topic" audience="audience-tech"/>
-			<topicref href="managing-user-access-guide.dita" type="topic" audience="audience-tech"/>
+			<topicref href="managing-user-access-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
-			<topicref href="multi-factor-authentication-mfa-guide.dita" type="topic" audience="audience-tech"/>
-			<topicref href="privileged-account-management-guide.dita" type="topic" audience="audience-tech"/>
+			<topicref href="multi-factor-authentication-mfa-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="privileged-account-management-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
 		</topichead>
 		<topichead navtitle="User responsibilities">
 			<topicref href="protecting-social-media-accounts.dita" type="topic"/>
@@ -102,7 +108,7 @@
 		</topichead>
 	</topichead>
 	-->
-	<topichead navtitle="Operations security">
+	<topichead navtitle="Operations security" audience="audience-basic audience-tech">
 		<topichead navtitle="Operational procedures and responsibilities" audience="audience-tech">
 			<topicref href="mail-check.dita" type="topic"/>
 			<topicref href="public-sector-dns.dita" type="topic"/>
@@ -119,18 +125,18 @@
 		<topichead navtitle="Backup">
 		</topichead>
 		-->
-		<topichead navtitle="Logging and monitoring" audience="audience-tech">
-			<topicref href="accounting.dita" type="topic"/>
-			<topicref href="cots-applications.dita" type="topic"/>
-			<topicref href="custom-applications.dita" type="topic"/>
-			<topicref href="online-identifiers.dita" type="topic"/>
-			<topichead navtitle="Security Log Collection">
-				<topicref href="security-log-collection.dita" type="topic"/>
-				<topicref href="enterprise-it-infrastructure.dita" type="topic"/>
-				<topicref href="enterprise-it-mobile-devices.dita" type="topic"/>
-				<topicref href="hosting-platforms.dita" type="topic"/>
-				<topicref href="log-entry-metadata.dita" type="topic"/>
-				<topicref href="security-log-collection-maturity-tiers.dita" type="topic"/>
+		<topichead navtitle="Logging and monitoring" audience="audience-suppliers audience-tech">
+			<topicref href="accounting.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="cots-applications.dita" type="topic" audience="audience-tech"/>
+			<topicref href="custom-applications.dita" type="topic" audience="audience-tech"/>
+			<topicref href="online-identifiers.dita" type="topic" audience="audience-tech"/>
+			<topichead navtitle="Security Log Collection" audience="audience-suppliers audience-tech">
+				<topicref href="security-log-collection.dita" type="topic" audience="audience-tech"/>
+				<topicref href="enterprise-it-infrastructure.dita" type="topic" audience="audience-tech"/>
+				<topicref href="enterprise-it-mobile-devices.dita" type="topic" audience="audience-tech"/>
+				<topicref href="hosting-platforms.dita" type="topic" audience="audience-tech"/>
+				<topicref href="log-entry-metadata.dita" type="topic" audience="audience-tech"/>
+				<topicref href="security-log-collection-maturity-tiers.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			</topichead>
 		</topichead>
 		<topichead navtitle="Control of operational software">
@@ -146,7 +152,7 @@
 		</topichead>
 		-->
 	</topichead>
-	<topichead navtitle="Communications security">
+	<topichead navtitle="Communications security" audience="audience-basic audience-tech">
 		<topichead navtitle="Network security management" audience="audience-tech">
 			<topicref href="defensive-domain-registration.dita" type="topic"/>
 			<topicref href="internet-v-psn.dita" type="topic"/>
@@ -161,7 +167,7 @@
 			<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic"/>
 		</topichead>
 	</topichead>
-	<topichead navtitle="System acquisition, development and maintenance" audience="audience-tech">
+	<topichead navtitle="System acquisition, development and maintenance" audience="audience-suppliers audience-tech">
 		<topichead navtitle="Security requirements of information systems">
 			<topicref href="technical-security-controls-guide.dita" type="topic">
 				<topicref href="technical-security-controls-guide-defensive-layer-1.dita" type="topic"/>
@@ -176,7 +182,7 @@
 			<topicref href="using-live-data-for-testing-purposes.dita" type="topic"/>
 		</topichead>
 	</topichead>
-	<topichead navtitle="Supplier relationships" audience="audience-tech">
+	<topichead navtitle="Supplier relationships" audience="audience-suppliers audience-tech">
 		<topichead navtitle="Information security in supplier relationships">
 			<topicref href="assessing-suppliers.dita" type="topic"/>
 			<topicref href="contracts.dita" type="topic"/>
@@ -187,7 +193,7 @@
 			<topicref href="baseline-aws-accounts.dita" type="topic"/>
 		</topichead>
 	</topichead>
-	<topichead navtitle="Information security incident management">
+	<topichead navtitle="Information security incident management" audience="audience-basic audience-tech">
 		<topichead navtitle="Management of information security incidents and improvements">
 			<topicref href="lost-laptophardware.dita" type="topic"/>
 		</topichead>
@@ -202,17 +208,17 @@
 	-->
 	<topichead navtitle="Compliance">
 		<topichead navtitle="Compliance with legal and contractual requirements">
-			<topichead navtitle="Data destruction" audience="audience-tech">
-				<topicref href="data-destruction.dita" type="topic" audience="audience-tech"/>
+			<topichead navtitle="Data destruction" audience="audience-suppliers audience-tech">
+				<topicref href="data-destruction.dita" type="topic"/>
 				<topicref href="data-destruction-contract-clauses-definitions.dita" type="topic"/>
 				<topicref href="data-destruction-contract-clauses-long-format.dita" type="topic"/>
 				<topicref href="data-destruction-contract-clauses-long-format-appendix.dita" type="topic"/>
 				<topicref href="data-destruction-contract-clauses-short-format.dita" type="topic"/>
 				<topicref href="data-destruction-instruction-and-confirmation-letter.dita" type="topic"/>
 			</topichead>
-			<topichead navtitle="Data security and privacy">
+			<topichead navtitle="Data security and privacy" audience="audience-basic audience-suppliers audience-tech">
 				<topicref href="data-security-and-privacy.dita" type="topic"/>
-				<topicref href="data-security-and-privacy-lifecycle.dita" type="topic" audience="audience-tech"/>
+				<topicref href="data-security-and-privacy-lifecycle.dita" type="topic" audience="audience-suppliers audience-tech"/>
 				<topicref href="data-security-and-privacy-triage-standards.dita" type="topic" audience="audience-tech"/>
 			</topichead>
 		</topichead>
