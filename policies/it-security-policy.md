@@ -190,7 +190,7 @@ The MoJ risk assessment and information assurance is defined in the [Information
 
 ### Audit
 
-A security audit is a systematic evaluation of the MoJ's IT security management system which is performed to maintain effective security policies and practices. These checks may be subject to self or peer audit by operational line management, contract managers or HQ managers, as judged to be appropriate by the managers with responsibility for delivery.  For instance, checks on Information Asset Registers and Information Risk Registers should be carried out quarterly but other information assurance checks may be carried out less frequently  or triggered by events such as contract renewals.
+A security audit is a systematic evaluation of the MoJ's IT security management system which is performed to maintain effective security policies and practices. These checks are subject to self or peer audit by operational line management, contract managers or MoJ HQ managers, as judged to be appropriate by the managers with responsibility for delivery.  For instance, checks on Information Asset Registers and Information Risk Registers should be carried out quarterly but other information assurance checks may be carried out less frequently or triggered by events such as contract renewals.
 
 When conducting an audit:
 
@@ -200,9 +200,13 @@ When conducting an audit:
 - evidence of operating effectiveness for technical controls must be provided and the desired risk mitigation (as documented in the [Information Assurance Framework Process](https://docs.google.com/document/d/1ni5bn9vXUj4JFKcoiEO8x31TFCE3AVWN-HxZcVzfNnc/edit?ts=5f10064a))
 - activities involving verification of operational systems should be carefully planned and agreed to minimise disruptions to business processes.
 
+Third party audits will be carried out by the Government Internal Audit Agency (GIAA) to provide an external evaluation of policies and practices, for more information see contact information below. 
+
 ## Contact details
 
 - Contact the Cyber Assistance Team for further advice - [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
 - Contact the Technology Service Desk to report a suspected IT incident:<br/>Telephone: 0800 917 5148.
 - Contact the MoJ Security Team to report other security incidents: [Security@justice.gov.uk](mailto:Security@justice.gov.uk)
 - Contact the Operational Security Team for further advice: [Operationalsecurityteam@justice.gov.uk](mailto:operationalsecurityteam@justice.gov.uk)
+- Contact the Government Internal Audit Agency for more information:
+[correspondence@giaa.gov.uk](mailto:correspondence@giaa.gov.uk)
