@@ -45,7 +45,7 @@ audited on a monthly basis.</p>
               <entry colname="col1">✔ Ensure that MFA is used as a validation step, to confirm actions requested by users, such as a MFA re-prompt when attempting to delete or modify data.</entry>
             </row>
             <row>
-              <entry colname="col1">✔ Ensure that default passwords are managed as described in the <xref href="password-managers.dita" format="dita">Password Manager guidance</xref>.</entry>
+              <entry colname="col1">✔ Ensure that default passwords are managed securely and safely<ph audience="audience-basic audience-tech">, as described in the <xref href="password-managers.dita" format="dita">Password Manager guidance</xref></ph>.</entry>
             </row>
           </tbody>
         </tgroup>
@@ -71,7 +71,6 @@ audited on a monthly basis.</p>
           </tbody>
         </tgroup>
       </table>
-      <p>For more information or help with Privileged Accounts, contact the <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">Cyber Assistance Team</xref>.</p>
     </body>
   </topic>
   <topic id="contact-details">

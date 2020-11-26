@@ -49,7 +49,7 @@
 				description="compile the source into markdown">
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${dita}/html.ditaval:${dita}/audience-tech.ditaval"/>
+			<property name="args.filter" value="${dita}/html.ditaval:${dita}/audience-allusers.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="markdown_github"/>
 		</ant>
@@ -59,7 +59,7 @@
 				description="compile the source into XHTML">
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${dita}/html.ditaval:${dita}/audience-tech.ditaval"/>
+			<property name="args.filter" value="${dita}/html.ditaval:${dita}/audience-allusers.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="xhtml"/>
 		</ant>
@@ -67,7 +67,7 @@
 
 	<target name="compile_pdf" depends="init"
 				description="compile the source into PDF">
-		<!-- First build the Technical users PDF, containing all content. -->
+		<!-- First build the Technical users PDF, containing their content. -->
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
 			<property name="args.filter" value="${dita}/pdf.ditaval:${dita}/audience-tech.ditaval"/>
@@ -76,6 +76,7 @@
 		</ant>
 		<!-- Rename this file to be Tech users guide. -->
 		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-tech.pdf" overwrite="true"/>
+
 		<!-- Next build the Suppliers PDF, containing just their content. -->
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
@@ -83,8 +84,9 @@
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
-		<!-- Rename this file to be Tech users guide. -->
+		<!-- Rename this file to be Suppliers users guide. -->
 		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-suppliers.pdf" overwrite="true"/>
+
 		<!-- Now build the 'all users' guide, omitting the technical details. -->
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
@@ -104,16 +106,26 @@
 		</ant>
 	</target>
 
-	<target name="compile_epub" depends="init"
+	<target name="compile_epub_old" depends="init"
 				description="compile the source into EPUB3">
 		<!-- Build the version for all users. -->
-		<exec dir="${dita}" executable="ditac" output="build-allusers.txt">
-			<arg line="-images img -p xsl-resources-directory res -filter epub-allusers.ditaval -format epub3 -index -v out/moj-guidance.epub moj-guidance.ditamap"/>
+		<exec dir="${dita}" executable="ditac" output="build-basic.txt">
+			<arg line="-images img -p xsl-resources-directory res -filter epub-basic.ditaval -format epub3 -index -v out/moj-guidance.epub moj-guidance.ditamap"/>
 		</exec>
 		<!-- Report results -->
-		<loadfile property="epub-allusers" srcFile="build-allusers.txt" />
-		<echo message="${epub-allusers}" />
-		<delete file="build-allusers.txt"/>
+		<loadfile property="epub-basic" srcFile="build-basic.txt" />
+		<echo message="${epub-basic}" />
+		<delete file="build-basic.txt"/>
+
+		<!-- Build the version for suppliers users. -->
+		<exec dir="${dita}" executable="ditac" output="build-suppliers.txt">
+			<arg line="-images img -p xsl-resources-directory res -filter epub-suppliers.ditaval -format epub3 -index -v out/moj-guidance-suppliers.epub moj-guidance.ditamap"/>
+		</exec>
+		<!-- Report results -->
+		<loadfile property="epub-suppliers" srcFile="build-suppliers.txt" />
+		<echo message="${epub-suppliers}" />
+		<delete file="build-suppliers.txt"/>
+
 		<!-- Build the version for tech users. -->
 		<exec dir="${dita}" executable="ditac" output="build-tech.txt">
 			<arg line="-images img -p xsl-resources-directory res -filter epub-tech.ditaval -format epub3 -index -v out/moj-guidance-tech.epub moj-guidance.ditamap"/>
@@ -122,6 +134,37 @@
 		<loadfile property="epub-tech" srcFile="build-tech.txt" />
 		<echo message="${epub-tech}" />
 		<delete file="build-tech.txt"/>
+	</target>
+
+	<target name="compile_epub" depends="init"
+			description="compile the source into EPUB">
+		<!-- First build the Technical users EPUB, containing their content. -->
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
+			<property name="args.filter" value="${dita}/epub.ditaval:${dita}/audience-tech.ditaval"/>
+			<property name="output.dir" location="${build}"/>
+			<property name="transtype" value="epub"/>
+		</ant>
+		<!-- Rename this file to be Tech users guide. -->
+		<move file="${build}/moj-guidance.epub" tofile="${build}/moj-guidance-tech.epub" overwrite="true"/>
+
+		<!-- Next build the Suppliers EPUB, containing just their content. -->
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
+			<property name="args.filter" value="${dita}/epub.ditaval:${dita}/audience-suppliers.ditaval"/>
+			<property name="output.dir" location="${build}"/>
+			<property name="transtype" value="epub"/>
+		</ant>
+		<!-- Rename this file to be Suppliers users guide. -->
+		<move file="${build}/moj-guidance.epub" tofile="${build}/moj-guidance-suppliers.epub" overwrite="true"/>
+
+		<!-- Now build the 'all users' guide, omitting the technical details. -->
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
+			<property name="args.filter" value="${dita}/epub.ditaval:${dita}/audience-basic.ditaval"/>
+			<property name="output.dir" location="${build}"/>
+			<property name="transtype" value="epub"/>
+		</ant>
 	</target>
 
 	<target name="compile" depends="compile_md,compile_pdf,compile_epub"/>

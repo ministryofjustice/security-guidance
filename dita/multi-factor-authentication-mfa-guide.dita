@@ -82,7 +82,7 @@
           </tbody>
         </tgroup>
       </table>
-      <p>The <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/passwords/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Password Guide</xref> provides more information on the use of MFA. </p>
+      <p audience="audience-basic audience-tech">The <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/passwords/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Password Guide</xref> provides more information on the use of MFA. </p>
     </body>
   </topic>
   <topic id="contact-details">

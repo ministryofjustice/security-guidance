@@ -8,58 +8,74 @@ if an audience attribute is present, then only matching content is included.
  -->
 
 <map>
-	<title><ph conref="conrefs.dita#conrefs/mojlong"/> Cyber Security Guidance</title>
+	<title><ph conref="conrefs.dita#conrefs/mojlong"/> Cyber Security Guidance<ph platform="epub pdf">: <ph audience="audience-basic">General</ph><ph audience="audience-suppliers">Supplier</ph><ph audience="audience-tech">Technical User</ph> Edition</ph></title>
 	<topicref href="conrefs.dita" type="topic" processing-role="resource-only"/>
 	<topicref href="cyber-and-technical-security-guidance.dita" type="topic" audience="audience-basic audience-tech"/>
-	<topichead navtitle="Getting in contact">
-		<topicref href="reporting-an-incident.dita" type="topic"/>
+	<topichead audience="audience-basic audience-suppliers audience-tech">
+		<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Getting in contact</navtitle></topicmeta>
+		<topicref href="reporting-an-incident.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 		<topicref href="user-guide.dita" type="topic" audience="audience-basic audience-tech"/>
 	</topichead>
 
-	<topichead navtitle="Information security policies" audience="audience-basic audience-suppliers audience-tech">
-		<topichead navtitle="Management direction for information security">
+	<topichead audience="audience-basic audience-suppliers audience-tech">
+		<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Information security policies</navtitle></topicmeta>
+		<topichead audience="audience-basic audience-suppliers audience-tech">
+			<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Management direction for information security</navtitle></topicmeta>
 			<topicref href="setecastronomy.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="identify-protect-detect-respond-recover.dita" type="topic"/>
+			<topicref href="identify-protect-detect-respond-recover.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="line-manager-approval.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="shared-responsibility-models.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 	</topichead>
+
 	<!--
 	<topichead navtitle="Organisation of information security">
 		<topichead navtitle="Internal organisation">
 		</topichead>
 	</topichead>
 	-->
-	<topichead navtitle="Mobile devices and teleworking" audience="audience-basic audience-tech">
-		<topichead navtitle="Mobile device policy">
-			<topicref href="remote-working.dita" type="topic"/>
+
+	<topichead audience="audience-basic audience-tech">
+		<topicmeta audience="audience-basic audience-tech"><navtitle>Mobile devices and teleworking</navtitle></topicmeta>
+		<topichead audience="audience-basic audience-tech">
+			<topicmeta audience="audience-basic audience-tech"><navtitle>Mobile device policy</navtitle></topicmeta>
+			<topicref href="remote-working.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
-		<topichead navtitle="Teleworking">
-			<topicref href="accessing-moj-it-systems-from-abroad.dita" type="topic"/>
-			<topicref href="general-advice-on-taking-equipment-abroad.dita" type="topic"/>
-			<topicref href="personal-devices.dita" type="topic"/>
+		<topichead audience="audience-basic audience-tech">
+			<topicmeta audience="audience-basic audience-tech"><navtitle>Teleworking</navtitle></topicmeta>
+			<topicref href="accessing-moj-it-systems-from-abroad.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="general-advice-on-taking-equipment-abroad.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="personal-devices.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 	</topichead>
-	<topichead navtitle="Human resource security" audience="audience-basic audience-tech">
-		<topichead navtitle="Prior to employment">
-			<topicref href="personnel-security-clearances.dita" type="topic"/>
+
+	<topichead audience="audience-basic audience-tech">
+		<topicmeta audience="audience-basic audience-tech"><navtitle>Human resource security</navtitle></topicmeta>
+		<topichead audience="audience-basic audience-tech">
+			<topicmeta audience="audience-basic audience-tech"><navtitle>Prior to employment</navtitle></topicmeta>
+			<topicref href="personnel-security-clearances.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
-		<topichead navtitle="During employment">
-			<topicref href="training-and-education.dita" type="topic"/>
+		<topichead audience="audience-basic audience-tech">
+			<topicmeta><navtitle>During employment</navtitle></topicmeta>
+			<topicref href="training-and-education.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 		<!--
 		<topichead navtitle="Termination and change of employment">
 		</topichead>
 		-->
 	</topichead>
-	<topichead navtitle="Asset management" audience="audience-basic audience-tech">
-		<topichead navtitle="Responsibility for assets">
-			<topicref href="acceptable-use.dita" type="topic"/>
-			<topicref href="acceptable-use-policy.dita" type="topic"/>
-			<topicref href="it-acceptable-use-policy.dita" type="topic"/>
+
+	<topichead audience="audience-basic audience-tech">
+		<topicmeta audience="audience-basic audience-tech"><navtitle>Asset management</navtitle></topicmeta>
+		<topichead audience="audience-basic audience-tech">
+			<topicmeta audience="audience-basic audience-tech"><navtitle>Responsibility for assets</navtitle></topicmeta>
+			<topicref href="acceptable-use.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="acceptable-use-policy.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="it-acceptable-use-policy.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
-		<topichead navtitle="Information classification">
-			<topicref href="official-official-sensitive.dita" type="topic"/>
+		<topichead audience="audience-basic audience-tech">
+			<topicmeta audience="audience-basic audience-tech"><navtitle>Information classification</navtitle></topicmeta>
+			<topicref href="official-official-sensitive.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="secrets-management.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 		<!--
@@ -67,39 +83,49 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 		-->
 	</topichead>
-	<topichead navtitle="Access control">
-		<topichead navtitle="Business requirements of access control" audience="audience-suppliers audience-tech">
-			<topicref href="access-control-guide.dita" type="topic"/>
+
+	<topichead audience="audience-basic audience-suppliers audience-tech">
+		<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Access control</navtitle></topicmeta>
+		<topichead audience="audience-suppliers audience-tech">
+			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Business requirements of access control</navtitle></topicmeta>
+			<topicref href="access-control-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
 		</topichead>
-		<topichead navtitle="User access management">
+		<topichead audience="audience-basic audience-suppliers audience-tech">
+			<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>User access management</navtitle></topicmeta>
 			<topicref href="authentication.dita" type="topic" audience="audience-tech"/>
 			<topicref href="management-access.dita" type="topic" audience="audience-tech"/>
 			<topicref href="managing-user-access-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
-			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
+			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="multi-factor-authentication-mfa-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="privileged-account-management-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
 		</topichead>
-		<topichead navtitle="User responsibilities">
-			<topicref href="protecting-social-media-accounts.dita" type="topic"/>
+		<topichead audience="audience-basic audience-tech">
+			<topicmeta audience="audience-basic audience-tech"><navtitle>User responsibilities</navtitle></topicmeta>
+			<topicref href="protecting-social-media-accounts.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
-		<topichead navtitle="System and application access control">
+		<topichead audience="audience-basic audience-tech">
+			<topicmeta audience="audience-basic audience-tech"><navtitle>System and application access control</navtitle></topicmeta>
 			<topicref href="account-management.dita" type="topic" audience="audience-tech"/>
 			<topicref href="authorisation.dita" type="topic" audience="audience-tech"/>
 			<topicref href="multi-user-accounts-and-public-facing-service-accounts-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="password-creation-and-authentication-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="password-management-guide.dita" type="topic" audience="audience-tech"/>
-			<topicref href="password-managers.dita" type="topic"/>
-			<topicref href="passwords.dita" type="topic"/>
+			<topicref href="password-managers.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="passwords.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="password-storage-and-management-guide.dita" type="topic" audience="audience-tech"/>
-			<topicref href="using-lastpass.dita" type="topic"/>
+			<topicref href="using-lastpass.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 	</topichead>
-	<topichead navtitle="Cryptography" audience="audience-tech">
-		<topichead navtitle="Cryptographic controls">
-			<topicref href="automated-certificate-renewal.dita" type="topic"/>
-			<topicref href="cryptography.dita" type="topic"/>
+
+	<topichead audience="audience-tech">
+		<topicmeta audience="audience-tech"><navtitle>Cryptography</navtitle></topicmeta>
+		<topichead>
+			<topicmeta audience="audience-tech"><navtitle>Cryptographic controls</navtitle></topicmeta>
+			<topicref href="automated-certificate-renewal.dita" type="topic" audience="audience-tech"/>
+			<topicref href="cryptography.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 	</topichead>
+
 	<!--
 	<topichead navtitle="Physical and environmental security">
 		<topichead navtitle="Secure areas">
@@ -108,29 +134,35 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 	</topichead>
 	-->
-	<topichead navtitle="Operations security" audience="audience-basic audience-suppliers audience-tech">
-		<topichead navtitle="Operational procedures and responsibilities" audience="audience-tech">
-			<topicref href="mail-check.dita" type="topic"/>
-			<topicref href="public-sector-dns.dita" type="topic"/>
-			<topicref href="web-check.dita" type="topic"/>
+
+	<topichead audience="audience-basic audience-suppliers audience-tech">
+		<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Operations security</navtitle></topicmeta>
+		<topichead audience="audience-tech">
+			<topicmeta audience="audience-tech"><navtitle>Operational procedures and responsibilities</navtitle></topicmeta>
+			<topicref href="mail-check.dita" type="topic" audience="audience-tech"/>
+			<topicref href="public-sector-dns.dita" type="topic" audience="audience-tech"/>
+			<topicref href="web-check.dita" type="topic" audience="audience-tech"/>
 		</topichead>
-		<topichead navtitle="Protection from malware" audience="audience-tech">
-			<topicref href="malware-protection-guide-introduction.dita" type="topic">
-				<topicref href="malware-protection-guidance-defensive-layer-1.dita" type="topic"/>
-				<topicref href="malware-protection-guidance-defensive-layer-2.dita" type="topic"/>
-				<topicref href="malware-protection-guidance-defensive-layer-3.dita" type="topic"/>
+		<topichead audience="audience-tech">
+			<topicmeta audience="audience-tech"><navtitle>Protection from malware</navtitle></topicmeta>
+			<topicref href="malware-protection-guide-introduction.dita" type="topic" audience="audience-tech">
+				<topicref href="malware-protection-guidance-defensive-layer-1.dita" type="topic" audience="audience-tech"/>
+				<topicref href="malware-protection-guidance-defensive-layer-2.dita" type="topic" audience="audience-tech"/>
+				<topicref href="malware-protection-guidance-defensive-layer-3.dita" type="topic" audience="audience-tech"/>
 			</topicref>
 		</topichead>
 		<!--
 		<topichead navtitle="Backup">
 		</topichead>
 		-->
-		<topichead navtitle="Logging and monitoring" audience="audience-suppliers audience-tech">
+		<topichead audience="audience-suppliers audience-tech">
+			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Logging and monitoring</navtitle></topicmeta>
 			<topicref href="accounting.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="cots-applications.dita" type="topic" audience="audience-tech"/>
 			<topicref href="custom-applications.dita" type="topic" audience="audience-tech"/>
 			<topicref href="online-identifiers.dita" type="topic" audience="audience-tech"/>
-			<topichead navtitle="Security Log Collection" audience="audience-suppliers audience-tech">
+			<topichead audience="audience-suppliers audience-tech">
+				<topicmeta audience="audience-suppliers audience-tech"><navtitle>Security Log Collection</navtitle></topicmeta>
 				<topicref href="security-log-collection.dita" type="topic" audience="audience-tech"/>
 				<topicref href="enterprise-it-infrastructure.dita" type="topic" audience="audience-tech"/>
 				<topicref href="enterprise-it-mobile-devices.dita" type="topic" audience="audience-tech"/>
@@ -139,65 +171,84 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="security-log-collection-maturity-tiers.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			</topichead>
 		</topichead>
-		<topichead navtitle="Control of operational software">
-			<topicref href="guidance-for-using-open-internet-tools.dita" type="topic"/>
+		<topichead audience="audience-basic audience-tech">
+			<topicmeta audience="audience-basic audience-tech"><navtitle>Control of operational software</navtitle></topicmeta>
+			<topicref href="guidance-for-using-open-internet-tools.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
-		<topichead navtitle="Technical vulnerability management" audience="audience-tech">
-			<topicref href="implement-security-txt.dita" type="topic"/>
-			<topicref href="vulnerability-disclosure-policy.dita" type="topic"/>
-			<topicref href="vulnerability-scanning.dita" type="topic"/>
+		<topichead audience="audience-tech">
+			<topicmeta audience="audience-tech"><navtitle>Technical vulnerability management</navtitle></topicmeta>
+			<topicref href="implement-security-txt.dita" type="topic" audience="audience-tech"/>
+			<topicref href="vulnerability-disclosure-policy.dita" type="topic" audience="audience-tech"/>
+			<topicref href="vulnerability-scanning.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 		<!--
 		<topichead navtitle="Information systems audit considerations">
 		</topichead>
 		-->
 	</topichead>
-	<topichead navtitle="Communications security" audience="audience-basic audience-tech">
-		<topichead navtitle="Network security management" audience="audience-tech">
-			<topicref href="defensive-domain-registration.dita" type="topic"/>
-			<topicref href="internet-v-psn.dita" type="topic"/>
-			<topicref href="ip-dns-diagram-handling.dita" type="topic"/>
-			<topicref href="multiple-consecutive-back-to-back-firewalls.dita" type="topic"/>
-			<topicref href="networks-bearers-not-trust.dita" type="topic"/>
+
+	<topichead audience="audience-basic audience-tech">
+		<topicmeta audience="audience-basic audience-tech"><navtitle>Communications security</navtitle></topicmeta>
+		<topichead audience="audience-tech">
+			<topicmeta audience="audience-tech"><navtitle>Network security management</navtitle></topicmeta>
+			<topicref href="defensive-domain-registration.dita" type="topic" audience="audience-tech"/>
+			<topicref href="internet-v-psn.dita" type="topic" audience="audience-tech"/>
+			<topicref href="ip-dns-diagram-handling.dita" type="topic" audience="audience-tech"/>
+			<topicref href="multiple-consecutive-back-to-back-firewalls.dita" type="topic" audience="audience-tech"/>
+			<topicref href="networks-bearers-not-trust.dita" type="topic" audience="audience-tech"/>
 		</topichead>
-		<topichead navtitle="Information transfer">
-			<topicref href="bluetooth.dita" type="topic"/>
+		<topichead audience="audience-basic audience-tech">
+			<topicmeta audience="audience-basic audience-tech"><navtitle>Information transfer</navtitle></topicmeta>
+			<topicref href="bluetooth.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="cjsm.dita" type="topic" audience="audience-tech"/>
 			<topicref href="data-sovereignty.dita" type="topic" audience="audience-tech"/>
-			<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic"/>
+			<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 	</topichead>
-	<topichead navtitle="System acquisition, development and maintenance" audience="audience-suppliers audience-tech">
-		<topichead navtitle="Security requirements of information systems">
-			<topicref href="technical-security-controls-guide.dita" type="topic">
-				<topicref href="technical-security-controls-guide-defensive-layer-1.dita" type="topic"/>
-				<topicref href="technical-security-controls-guide-defensive-layer-2.dita" type="topic"/>
+
+	<topichead audience="audience-suppliers audience-tech">
+		<topicmeta audience="audience-suppliers audience-tech"><navtitle>System acquisition, development and maintenance</navtitle></topicmeta>
+		<topichead audience="audience-suppliers audience-tech">
+			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Security requirements of information systems</navtitle></topicmeta>
+			<topicref href="technical-security-controls-guide.dita" type="topic" audience="audience-suppliers audience-tech">
+				<topicref href="technical-security-controls-guide-defensive-layer-1.dita" type="topic" audience="audience-suppliers audience-tech"/>
+				<topicref href="technical-security-controls-guide-defensive-layer-2.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			</topicref>
 		</topichead>
-		<topichead navtitle="Security in development and support processes">
-			<topicref href="maintained-by-default.dita" type="topic"/>
-			<topicref href="secure-by-default.dita" type="topic"/>
+		<topichead audience="audience-suppliers audience-tech">
+			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Security in development and support processes</navtitle></topicmeta>
+			<topicref href="maintained-by-default.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="secure-by-default.dita" type="topic" audience="audience-suppliers audience-tech"/>
 		</topichead>
-		<topichead navtitle="Test data">
-			<topicref href="using-live-data-for-testing-purposes.dita" type="topic"/>
-		</topichead>
-	</topichead>
-	<topichead navtitle="Supplier relationships" audience="audience-suppliers audience-tech">
-		<topichead navtitle="Information security in supplier relationships">
-			<topicref href="assessing-suppliers.dita" type="topic"/>
-			<topicref href="contracts.dita" type="topic"/>
-			<topicref href="security-aspect-letters.dita" type="topic"/>
-			<topicref href="supplier-corporate-it.dita" type="topic"/>
-		</topichead>
-		<topichead navtitle="Supplier service delivery management">
-			<topicref href="baseline-aws-accounts.dita" type="topic"/>
+		<topichead audience="audience-suppliers audience-tech">
+			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Test data</navtitle></topicmeta>
+			<topicref href="using-live-data-for-testing-purposes.dita" type="topic" audience="audience-suppliers audience-tech"/>
 		</topichead>
 	</topichead>
-	<topichead navtitle="Information security incident management" audience="audience-basic audience-tech">
-		<topichead navtitle="Management of information security incidents and improvements">
-			<topicref href="lost-laptophardware.dita" type="topic"/>
+
+	<topichead audience="audience-suppliers audience-tech">
+		<topicmeta audience="audience-suppliers audience-tech"><navtitle>Supplier relationships</navtitle></topicmeta>
+		<topichead audience="audience-suppliers audience-tech">
+			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Information security in supplier relationships</navtitle></topicmeta>
+			<topicref href="assessing-suppliers.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="contracts.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="security-aspect-letters.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="supplier-corporate-it.dita" type="topic" audience="audience-suppliers audience-tech"/>
+		</topichead>
+		<topichead audience="audience-suppliers audience-tech">
+			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Supplier service delivery management</navtitle></topicmeta>
+			<topicref href="baseline-aws-accounts.dita" type="topic" audience="audience-suppliers audience-tech"/>
 		</topichead>
 	</topichead>
+
+	<topichead audience="audience-basic audience-tech">
+		<topicmeta audience="audience-basic audience-tech"><navtitle>Information security incident management</navtitle></topicmeta>
+		<topichead audience="audience-basic audience-tech">
+			<topicmeta audience="audience-basic audience-tech"><navtitle>Management of information security incidents and improvements</navtitle></topicmeta>
+			<topicref href="lost-laptophardware.dita" type="topic" audience="audience-basic audience-tech"/>
+		</topichead>
+	</topichead>
+
 	<!--
 	<topichead navtitle="Information security aspects of business continuity management">
 		<topichead navtitle="Information security continuity">
@@ -206,24 +257,30 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 	</topichead>
 	-->
-	<topichead navtitle="Compliance">
-		<topichead navtitle="Compliance with legal and contractual requirements">
-			<topichead navtitle="Data destruction" audience="audience-suppliers audience-tech">
-				<topicref href="data-destruction.dita" type="topic"/>
-				<topicref href="data-destruction-contract-clauses-definitions.dita" type="topic"/>
-				<topicref href="data-destruction-contract-clauses-long-format.dita" type="topic"/>
-				<topicref href="data-destruction-contract-clauses-long-format-appendix.dita" type="topic"/>
-				<topicref href="data-destruction-contract-clauses-short-format.dita" type="topic"/>
-				<topicref href="data-destruction-instruction-and-confirmation-letter.dita" type="topic"/>
+
+	<topichead audience="audience-basic audience-suppliers audience-tech">
+		<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Compliance</navtitle></topicmeta>
+		<topichead audience="audience-basic audience-suppliers audience-tech">
+			<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Compliance with legal and contractual requirements</navtitle></topicmeta>
+			<topichead audience="audience-suppliers audience-tech">
+				<topicmeta audience="audience-suppliers audience-tech"><navtitle>Data destruction</navtitle></topicmeta>
+				<topicref href="data-destruction.dita" type="topic" audience="audience-suppliers audience-tech"/>
+				<topicref href="data-destruction-contract-clauses-definitions.dita" type="topic" audience="audience-suppliers audience-tech"/>
+				<topicref href="data-destruction-contract-clauses-long-format.dita" type="topic" audience="audience-suppliers audience-tech"/>
+				<topicref href="data-destruction-contract-clauses-long-format-appendix.dita" type="topic" audience="audience-suppliers audience-tech"/>
+				<topicref href="data-destruction-contract-clauses-short-format.dita" type="topic" audience="audience-suppliers audience-tech"/>
+				<topicref href="data-destruction-instruction-and-confirmation-letter.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			</topichead>
-			<topichead navtitle="Data security and privacy" audience="audience-basic audience-suppliers audience-tech">
-				<topicref href="data-security-and-privacy.dita" type="topic"/>
+			<topichead audience="audience-basic audience-suppliers audience-tech">
+				<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Data security and privacy</navtitle></topicmeta>
+				<topicref href="data-security-and-privacy.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 				<topicref href="data-security-and-privacy-lifecycle.dita" type="topic" audience="audience-suppliers audience-tech"/>
 				<topicref href="data-security-and-privacy-triage-standards.dita" type="topic" audience="audience-tech"/>
 			</topichead>
 		</topichead>
-		<topichead navtitle="Information security reviews" audience="audience-tech">
-			<topicref href="standards-assurance-tables.dita" type="topic"/>
+		<topichead audience="audience-tech">
+			<topicmeta audience="audience-tech"><navtitle>Information security reviews</navtitle></topicmeta>
+			<topicref href="standards-assurance-tables.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 	</topichead>
 	<!--
