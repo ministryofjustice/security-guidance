@@ -1,6 +1,0 @@
-<val>
-	<prop action="exclude" att="platform"/>
-	<prop action="exclude" att="audience"/>
-	<prop action="include" att="platform" val="epub"/>
-	<prop action="include" att="audience" val="audience-tech"/>
-</val>

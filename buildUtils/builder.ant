@@ -106,36 +106,6 @@
 		</ant>
 	</target>
 
-	<target name="compile_epub_old" depends="init"
-				description="compile the source into EPUB3">
-		<!-- Build the version for all users. -->
-		<exec dir="${dita}" executable="ditac" output="build-basic.txt">
-			<arg line="-images img -p xsl-resources-directory res -filter epub-basic.ditaval -format epub3 -index -v out/moj-guidance.epub moj-guidance.ditamap"/>
-		</exec>
-		<!-- Report results -->
-		<loadfile property="epub-basic" srcFile="build-basic.txt" />
-		<echo message="${epub-basic}" />
-		<delete file="build-basic.txt"/>
-
-		<!-- Build the version for suppliers users. -->
-		<exec dir="${dita}" executable="ditac" output="build-suppliers.txt">
-			<arg line="-images img -p xsl-resources-directory res -filter epub-suppliers.ditaval -format epub3 -index -v out/moj-guidance-suppliers.epub moj-guidance.ditamap"/>
-		</exec>
-		<!-- Report results -->
-		<loadfile property="epub-suppliers" srcFile="build-suppliers.txt" />
-		<echo message="${epub-suppliers}" />
-		<delete file="build-suppliers.txt"/>
-
-		<!-- Build the version for tech users. -->
-		<exec dir="${dita}" executable="ditac" output="build-tech.txt">
-			<arg line="-images img -p xsl-resources-directory res -filter epub-tech.ditaval -format epub3 -index -v out/moj-guidance-tech.epub moj-guidance.ditamap"/>
-		</exec>
-		<!-- Report results -->
-		<loadfile property="epub-tech" srcFile="build-tech.txt" />
-		<echo message="${epub-tech}" />
-		<delete file="build-tech.txt"/>
-	</target>
-
 	<target name="compile_epub" depends="init"
 			description="compile the source into EPUB">
 		<!-- First build the Technical users EPUB, containing their content. -->
