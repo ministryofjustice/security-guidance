@@ -16,7 +16,7 @@
   <topic id="steps-to-follow-line-managers">
     <title>Steps to follow (Line Managers)</title>
     <body>
-      <p id="justask"><b>Note: If at <i>any</i> time you need help about this process, or the applicable <ph conref="conrefs.dita#conrefs/moj"/> IT Policies, just ask: <ph conref="conrefs.dita#conrefs/securityemail"/>.</b></p>
+      <note id="justask">If at any time you need help about this process, or the applicable <ph conref="conrefs.dita#conrefs/moj"/> IT Policies, just ask: <ph conref="conrefs.dita#conrefs/securityemail"/>.</note>
       <ol>
         <li>Check that your direct report (DR) has said what they want in their request.
           The request should identify which <ph conref="conrefs.dita#conrefs/moj"/> IT Policies apply.</li>
@@ -37,7 +37,7 @@
   <topic id="steps-to-follow-direct-reports">
     <title>Steps to follow (Direct Reports)</title>
     <body>
-      <p conref="#steps-to-follow-line-managers/justask"/>
+      <note conref="#steps-to-follow-line-managers/justask"/>
       <ol>
         <li>Check that your business need is valid.</li>
         <li>Check which <ph conref="conrefs.dita#conrefs/moj"/> IT Policies apply to your request.

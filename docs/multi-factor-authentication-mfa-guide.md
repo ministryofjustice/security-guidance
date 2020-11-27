@@ -19,12 +19,10 @@ MFA can be used as a possession-based factor for authentication, by checking for
 
 The list below identifies the MoJ's preference for MFA methods, with 1 ranked the highest. These methods can be used for 2, 3, 4, or 5 Factor Authentication as required.
 
-Note:
+**Note:**
 
 -   MFA Type 1 may not be suitable for all systems. In that case, other methods of delivering MFA should be considered to provide additional protection beyond single sign on.
-
 -   MFA types 5 and 8 should only be used when no other MFA method is appropriate as these methods can be easily spoofed or circumvented.
-
 
 |Preference|Type|
 |----------|----|
