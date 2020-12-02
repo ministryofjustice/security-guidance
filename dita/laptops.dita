@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="laptops">
+  <title>Laptops</title>
+  <body/>
+  <topic id="storing-data-on-laptops">
+    <title>Storing data on laptops</title>
+    <body>
+      <p>The guidance applies to all <ph conref="conrefs.dita#conrefs/mojlong"/> staff.</p>
+      <p>If you need to store data on your computer you should always remember to move it into:
+        <ol id="storage-preference">
+          <li>Your local Electronic Document and Record Management (EDRM) system.</li>
+          <li>An <ph conref="conrefs.dita#conrefs/moj"/> shared drive.</li>
+          <li>Your <ph conref="conrefs.dita#conrefs/moj"/>-provided 'home' drive.</li>
+        </ol>
+        Do this as soon as you can next connect to the <ph conref="conrefs.dita#conrefs/moj"/> network.</p>
+    </body>
+  </topic>
+  <topic id="where-should-i-save-data-when-using-a-laptop">
+    <title>Where should I save data when using a laptop?</title>
+    <body>
+      <p>It is best to avoid saving any data on a laptop hard drive.
+        However, if you absolutely must, you should always remember to copy or move the data to
+        the <ph conref="conrefs.dita#conrefs/moj"/> network as soon as you next can connect to it,
+        either via secure remote access or by direct connection.</p>
+      <p>In order to avoid potential data loss, save data in:
+        <ol conref="#storing-data-on-laptops/storage-preference"><li/></ol>
+      </p>
+      <p>There is a better chance of recovering lost data if you have saved it to
+        the <ph conref="conrefs.dita#conrefs/moj"/> network,
+        as data stored on the <ph conref="conrefs.dita#conrefs/moj"/> network is backed up daily.</p>
+    </body>
+  </topic>
+  <topic id="what-is-the-impact-of-hard-drive-failures">
+    <title>What is the impact of hard drive failures?</title>
+    <body>
+      <p>Hard drive failures can lead to the irrecoverable loss of data.
+        Any data loss can have security implications for the <ph conref="conrefs.dita#conrefs/moj"/>,
+        and a significant impact on:
+      <ul>
+        <li>Our business opportunities.</li>
+        <li>Our reputation.</li>
+        <li>Our ability to deliver services to the public.</li>
+      </ul></p>
+      <p>If you experience any issues with your laptop or IT service,
+        <xref href="#general-enquiries-including-theft-and-loss" format="dita">ask for help</xref>.</p>
+      <p>For more information about the main security issues that are likely to affect remote and mobile workers,
+        refer to the <xref href="remote-working.dita" format="dita">remote working guide</xref>.</p>
+    </body>
+  </topic>
+  <topic id="how-to-reset-your-password">
+    <title>How to reset your password</title>
+    <body>
+      <p>To reset your password,
+        you will need to contact the <xref href="#general-enquiries-including-theft-and-loss" format="dita">IT Service Desk</xref>.
+        They will carry out checks to confirm your identity.
+        This might include asking your line manager or court manager to confirm your identity,
+        by sending an email to the IT Service Desk.
+        Once your identity is confirmed,
+        your password will be reset and you will quickly regain access to your laptop.</p>
+    </body>
+  </topic>
+  <topic id="general-enquiries-including-theft-and-loss" conref="conrefs.dita#conrefs/general-enquiries-including-theft-and-loss"><title/></topic>
+  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+</topic>

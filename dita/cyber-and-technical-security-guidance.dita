@@ -687,18 +687,30 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <title>Equipment</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/clear-screen-and-desk-policy/" format="html" scope="external">Clear Screen and Desk Policy</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/laptops/" format="html" scope="external">Laptops</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/locking-and-shutdown/" format="html" scope="external">Locking and shutdown</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/clear-screen-and-desk-policy/" format="html" scope="external">Clear Screen and Desk Policy</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="clear-screen-and-desk.dita" format="dita">Clear Screen and Desk Policy</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/laptops/" format="html" scope="external">Laptops</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="laptops.dita" format="dita">Laptops</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/locking-and-shutdown/" format="html" scope="external">Locking and shutdown</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="locking-and-shutdown.dita" format="dita">Locking and shutdown</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
               <row>
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-users/" format="html" scope="external">Policies for Macbook Users</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
