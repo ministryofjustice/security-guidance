@@ -65,7 +65,7 @@ if an audience attribute is present, then only matching content is included.
 		-->
 	</topichead>
 
-	<topichead audience="audience-basic audience-tech">
+	<topichead audience="audience-basic audience-suppliers audience-tech">
 		<topicmeta audience="audience-basic audience-tech"><navtitle>Asset management</navtitle></topicmeta>
 		<topichead audience="audience-basic audience-tech">
 			<topicmeta audience="audience-basic audience-tech"><navtitle>Responsibility for assets</navtitle></topicmeta>
@@ -78,10 +78,10 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="official-official-sensitive.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="secrets-management.dita" type="topic" audience="audience-tech"/>
 		</topichead>
-		<!--
-		<topichead navtitle="Media handling">
+		<topichead audience="audience-basic audience-suppliers audience-tech">
+			<topicmeta><navtitle>Media handling</navtitle></topicmeta>
+			<topicref href="removable-media.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 		</topichead>
-		-->
 	</topichead>
 
 	<topichead audience="audience-basic audience-suppliers audience-tech">
@@ -138,6 +138,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="clear-screen-and-desk.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="laptops.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="locking-and-shutdown.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
+			<topicref href="policies-for-macbook-users.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 	</topichead>
 
@@ -289,12 +290,16 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="standards-assurance-tables.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 	</topichead>
-	<!--
-	<topichead navtitle="Risk Assessment">
+
+	<topichead audience="audience-basic audience-tech">
+		<topicmeta><navtitle>Risk Assessment</navtitle></topicmeta>
+		<!--
 		<topichead navtitle="Risk Management">
 		</topichead>
-		<topichead navtitle="Risk Assessment Process">
+		-->
+		<topichead audience="audience-basic audience-tech">
+			<topicmeta><navtitle>Risk Assessment Process</navtitle></topicmeta>
+			<topicref href="risk-reviews.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 	</topichead>
-	-->
 </map>
