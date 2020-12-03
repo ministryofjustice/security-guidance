@@ -121,17 +121,17 @@ The bottom line is: *"if there is doubt, there is no doubt - ask for help!".*
 |---------|---------|------------------------------|--------------------------|--------|
 |Apple Facetime|Communication tool: Video|Avoid personal or sensitive data|Smartphone App|Internal/External|
 |Apple iMessage|Text messaging|Avoid personal or sensitive data|Smartphone App|Internal/External|
-|Google Hangouts|Communication tool: Video and/or voice|MoJ use approved|Digital Service Desk controlled Mac - Self|Internal/External|
+|Google Meet \(was Google Hangouts\)|Communication tool: Video and/or voice|MoJ use approved|Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Microsoft Teams|Communication and collaboration tool: Video and/or voice|MoJ use approved|Dom1 Software centre, Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Miro|Collaboration tool: Whiteboarding|Avoid personal or sensitive data|Web browser.|Internal/External|
 |Skype for Business|Communication tool: Video and/or voice|MoJ use approved|Dom1 Software centre, Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Slack|Text messaging, Voice/Video calls, etc.|Avoid personal or sensitive data|Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
-|Slido|Q&A tool during presentations|Avoid personal or sensitive data|Web browser|Internal|
-|Twitter|Text Messaging, Video transmission|Approved for MoJ Corporate account. Using a personal account to comment on work related issues is encouraged, as long as you follow the [Civil Service Code of Conduct](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code).|Web browser, Windows 10 App, Smartphone App|Internal/External|
+|Slido|Q&A tool during presentations|Avoid personal or sensitive data|Web browser.|Internal|
+|Twitter|Text Messaging, Video transmission|Approved for MoJ Corporate account. Using a personal account to comment on work related issues is encouraged, as long as you follow the [Civil Service Code of Conduct](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code).|Web browser, Windows 10 App, Smartphone App.|Internal/External|
 |WhatsApp|Text messaging, Voice/Video calls|Avoid personal or sensitive data|Dedicated app on device, also web browser.|Internal/External|
 |Yammer|Text messaging|Avoid personal or sensitive data|Dedicated app on device|Internal|
-|YouTube|Video sharing tool: Video, streaming and chat|Avoid personal or sensitive data|Web/browser based use|Internal/External|
-|Zoom|Communication tool: Video, voice and chat|Avoid personal or sensitive data|Web/browser based use|External meetings|
+|YouTube|Video sharing tool: Video, streaming and chat|Avoid personal or sensitive data|Web browser based use.|Internal/External|
+|Zoom|Communication tool: Video, voice and chat|Avoid personal or sensitive data|Web browser based use|External meetings|
 
 ## NHS Track and Trace
 
