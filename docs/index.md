@@ -133,7 +133,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 #### Media handling
 
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Removable media](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/)|All users|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Secure disposal of ICT equipment](https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-ict-equipment/)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Secure disposal of IT equipment](https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-ict-equipment/)|All users|
 
 ### Access control
 
