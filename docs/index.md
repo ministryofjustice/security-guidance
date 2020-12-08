@@ -8,7 +8,7 @@ The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 3 December 2020.
+This guidance is dated: 8 December 2020.
 
 For convenience, offline versions of this guidance are available.
 
@@ -18,7 +18,7 @@ For convenience, offline versions of this guidance are available.
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 |Suppliers. Includes just the details of primary interest to suppliers.|[PDF](moj-guidance-suppliers.pdf)|[EPUB](moj-guidance-suppliers.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 3 January 2021.
+The offline versions of this guidance are time-limited, and are not valid after 8 January 2021.
 
 ### Getting in touch
 
@@ -255,6 +255,8 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |[Data Sovereignty](data-sovereignty.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Email security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/email/)|All users|
 |[General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Web Browsing](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Web browsing security policy profiles](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles-new/)|All users|
 
 ### System acquisition, development and maintenance
 

@@ -951,10 +951,26 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/email/" format="html" scope="external">Email security</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita" type="topic">General Apps Guidance</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
+				<row>
+					<entry colname="col1" align="left"><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita" type="topic">General Apps Guidance</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/" format="html" scope="external">Web Browsing</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="web-browsing.dita" format="dita" type="topic">Web Browsing</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles-new/" format="html" scope="external">Web browsing security policy profiles</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="web-browsing-security-policy-profiles.dita" format="dita" type="topic">Web browsing security policy profiles</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
             </tbody></tgroup></table>
           </body>
         </topic>

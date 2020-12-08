@@ -211,6 +211,9 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="cjsm.dita" type="topic" audience="audience-tech"/>
 			<topicref href="data-sovereignty.dita" type="topic" audience="audience-tech"/>
 			<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="web-browsing.dita" type="topic" audience="audience-basic audience-tech">
+				<topicref href="web-browsing-security-policy-profiles.dita" type="topic" audience="audience-basic audience-tech"/>
+			</topicref>
 		</topichead>
 	</topichead>
 
