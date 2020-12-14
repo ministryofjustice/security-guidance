@@ -68,6 +68,7 @@
 	<target name="compile_pdf" depends="init"
 				description="compile the source into PDF">
 		<!-- First build the Technical users PDF, containing their content. -->
+		<echo message="Build PDF: Technical users"/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
 			<property name="args.filter" value="${dita}/pdf.ditaval:${dita}/audience-tech.ditaval"/>
@@ -78,6 +79,7 @@
 		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-tech.pdf" overwrite="true"/>
 
 		<!-- Next build the Suppliers PDF, containing just their content. -->
+		<echo message="Build PDF: Suppliers"/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
 			<property name="args.filter" value="${dita}/pdf.ditaval:${dita}/audience-suppliers.ditaval"/>
@@ -87,7 +89,17 @@
 		<!-- Rename this file to be Suppliers users guide. -->
 		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-suppliers.pdf" overwrite="true"/>
 
+		<!-- Now build the Intranet PDF, containing just its content. -->
+		<echo message="Build PDF: Intranet"/>
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${dita}/moj-guidance-intranet.ditamap"/>
+			<property name="args.filter" value="${dita}/pdf.ditaval:${dita}/audience-basic.ditaval"/>
+			<property name="output.dir" location="${build}"/>
+			<property name="transtype" value="pdf"/>
+		</ant>
+
 		<!-- Now build the 'all users' guide, omitting the technical details. -->
+		<echo message="Build PDF: All users"/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
 			<property name="args.filter" value="${dita}/pdf.ditaval:${dita}/audience-basic.ditaval"/>

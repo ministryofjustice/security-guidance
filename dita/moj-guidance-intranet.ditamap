@@ -10,6 +10,7 @@ if an audience attribute is present, then only matching content is included.
 <map>
 	<title><ph conref="conrefs.dita#conrefs/mojlong"/> Cyber Security Guidance: Intranet Edition</title>
 	<topicref href="conrefs.dita" type="topic" processing-role="resource-only"/>
+	<topicref href="intranet-landing-page.dita" type="topic"/>
 	<topichead>
 		<topicmeta><navtitle>Remote working</navtitle></topicmeta>
 		<topicref href="remote-working.dita" type="topic"/>
@@ -31,10 +32,14 @@ if an audience attribute is present, then only matching content is included.
 		<topicref href="acceptable-use-policy.dita" type="topic"/>
 		<topicref href="data-security-and-privacy.dita" type="topic"/>
 		<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic"/>
+		<topicref href="government-classification-scheme.dita" type="topic"/>
 		<topicref href="guidance-for-using-open-internet-tools.dita" type="topic"/>
 		<topicref href="it-acceptable-use-policy.dita" type="topic"/>
-		<topicref href="password-managers.dita" type="topic"/>
+		<topicref href="password-managers.dita" type="topic">
+			<topicref href="using-lastpass.dita" type="topic"/>
+		</topicref>
 		<topicref href="passwords.dita" type="topic"/>
+		<topicref href="protect-yourself-online.dita" type="topic"/>
 	</topichead>
 	<topichead>
 		<topicmeta><navtitle>Equipment</navtitle></topicmeta>

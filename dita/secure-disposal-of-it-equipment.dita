@@ -60,9 +60,7 @@
           </row>
           <row>
             <entry colname="col1">Optical media</entry>
-            <entry colname="col2">Data deletion is not possible<fn audience="audience-tech">Theoretically, data deletion is possible on some RW-capable media.
-            For simplicity, however,
-              the safer assumption is that rewriting and therefore data deletion is not possible on optical media.</fn>.</entry>
+            <entry colname="col2">Data deletion is not possible.<ph audience="audience-tech"> See also the note following this table.</ph></entry>
             <entry colname="col3">Shred or disintegrate using equipment that meets a recognised international destruction standard.
               Particles should be no larger than 6 mm in any direction.
               A high capacity CD and DVD shredder is available at 102 Petty France, suitable for items up to <codeph>TOP SECRET</codeph>.
@@ -71,6 +69,9 @@
         </tbody>
       </tgroup>
     </table>
+    <note audience="audience-tech">Theoretically, data deletion is possible on some RW-capable media.
+      For simplicity, however,
+      the safer assumption is that rewriting and therefore data deletion is not possible on optical media.</note>
     <p>Owners of the data storage devices are responsible for procuring services that meet the necessary destruction outcomes as described above.
       Assurance shall be required that the appropriate destruction has taken place for
       any locally procured <ph conref="conrefs.dita#conrefs/moj"/> assets,

@@ -44,7 +44,7 @@
       </ul></p>
       <p>If you experience any issues with your laptop or IT service,
         <xref href="#general-enquiries-including-theft-and-loss" format="dita">ask for help</xref>.</p>
-      <p>For more information about the main security issues that are likely to affect remote and mobile workers,
+      <p audience="audience-basic audience-tech">For more information about the main security issues that are likely to affect remote and mobile workers,
         refer to the <xref href="remote-working.dita" format="dita">remote working guide</xref>.</p>
     </body>
   </topic>

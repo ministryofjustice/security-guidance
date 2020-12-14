@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="protect-yourself-online">
+  <title>Protect yourself online</title>
+  <body>
+    <p>There are five simple things we can all do to protect ourselves online:
+    <ol>
+      <li>Use a strong password to protect your laptop, computer and mobile devices.
+        To choose a good password, follow <xref href="https://www.cyberaware.gov.uk/passwords" format="html" scope="external">NCSC guidance</xref>.</li>
+      <li>Think before clicking on links or attachments within emails.
+        By hovering your cursor over the link you can see the actual URL.
+        If you are unsure if an email is genuine, <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">contact your IT or security team</xref>.</li>
+      <li>Do not use your work email address to register for accounts on websites for personal use.
+        For example, a shopping website does not need your work email address.
+        Using the wrong address could open up your work email account to spam and fraudulent emails.
+        This in turn could harm your department's IT system.</li>
+      <li>Protect your online identity.
+        Do not share sensitive information about your work on social media or online professional networks.</li>
+      <li>Do not disclose your level of vetting.
+        If you share this information, you advertise what resources you have access to.
+        This could make you a target for malicious individuals.</li>
+    </ol></p>
+    <p>For more information, see the <xref href="acceptable-use.dita" format="dita">Acceptable Use guidance</xref>.</p>
+  </body>
+</topic>
