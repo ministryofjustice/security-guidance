@@ -3,7 +3,10 @@
 .ruby-version
 _site
 .project
-dita/out
-dita/tstamp.dita
 buildUtils/catalog-dita.xml
 buildUtils/compile.txt
+dita/fixes.txt
+dita/out
+dita/outhtml
+dita/tstamp.dita
+tmp

@@ -39,6 +39,14 @@ There are (currently) two options for editing DITA files:
     3. Check that the integration has succeeded, by looking for an `epub` value in the results of running the command: `dita transtypes`.
 2. (Optional) To build an EPUB format document from the DITA source, run the command:<br/>`ant -lib $DITA_DIR/config -f builder.ant compile_epub`<br/>The resulting file is put into the `dita/out` directory.
 
+## Enable Microsoft Word format output from a build
+
+1. Download and install the [pandoc](https://pandoc.org/) 'Universal Document Converter' file conversion toolkit.
+   1. Check that the installation has succeeded, and that the `pandoc` command can be found. Do this by running the following command in a terminal:</br>`which pandoc`.
+   2. If the command is not found, your installation is not correct.
+2. During a build, Microsoft Word versions of the content are created, and placed in the `dita/worddocs` directory.
+3. (Optional) To build a Microsoft Word format document from the DITA source, run the command:<br/>`ant -lib $DITA_DIR/config -f builder.ant compile_word`.
+
 ## Running a local DITA build
 
 1. Open a terminal.
@@ -53,10 +61,3 @@ There are (currently) two options for editing DITA files:
 10. After a short time (~35 seconds?), a `BUILD SUCCESSFUL` message should appear.
 11. Check in the `security-guidance/docs` directory; you should see a full set of markdown files and also a `moj-guidance.pdf` file.
 
-## (Optional) Enable Word format output from a build
-
-1. Open a terminal.
-2. Ensure you have enabled your DITA build environment by running the `startcmd.sh` script as described in [Test the DITA installation](#test-the-dita-installation) above.
-3. To check the environment is correct, run the command:</br>`which dita`</br>If the command is not found, your environment is not set correctly.
-4. To install the Word format capability, run the command:<br/>`dita install com.elovirta.ooxml`<br/>This enables building an additional output format: `docx`, providing a basic compatibility with the word processing tool.
-5. An additional Ant build target is also included. To build a Word format document from the DITA source, run the command:<br/>`ant -lib $DITA_DIR/config -f builder.ant compile_word`<br/>The resulting file is put into the `dita/out` directory.

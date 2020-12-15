@@ -21,7 +21,9 @@
 	<property environment="env"/>
 	<property name="dita" location="dita"/>
 	<property name="build" location="${dita}/out"/>
+	<property name="buildhtml" location="${dita}/outhtml"/>
 	<property name="docs" location="docs"/>
+	<property name="worddocs" location="worddocs"/>
 	<property name="images" location="images"/>
 	<property name="jekyll-baseline" location="jekyll-baseline"/>
 	<property name="redirects" location="redirects"/>
@@ -43,6 +45,8 @@
 		<mkdir dir="${build}"/>
 		<!-- Create the docs directory structure used for publication -->
 		<mkdir dir="${docs}"/>
+		<!-- Create the Word docs directory structure used for sharing content -->
+		<mkdir dir="${worddocs}"/>
 	</target>
 
 	<target name="compile_md" depends="init"
@@ -55,14 +59,32 @@
 		</ant>
 	</target>
 
-	<target name="compile_xhtml" depends="init"
-				description="compile the source into XHTML">
+	<target name="compile_html5" depends="init"
+				description="compile the source into HTML5">
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
 			<property name="args.filter" value="${dita}/html.ditaval:${dita}/audience-allusers.ditaval"/>
-			<property name="output.dir" location="${build}"/>
-			<property name="transtype" value="xhtml"/>
+			<property name="output.dir" location="${buildhtml}"/>
+			<property name="transtype" value="html5"/>
 		</ant>
+	</target>
+
+	<target name="convertToWord">
+		<echo message="Converting file: ${theFile}"/>
+		<basename property="theFileName" file="${theFile}" suffix=".html"/>
+		<exec dir="${buildhtml}" executable="pandoc">
+			<arg line=" --from=html --to=docx ${theFileName}.html --output=${worddocs}/${theFileName}.docx"/>
+		</exec>
+	</target>
+
+	<target name="compile_word" depends="compile_html5"
+			description="compile HTML5 into Word">
+		<echo message="Running on: ${os.name}"/>
+		<foreach target="convertToWord" param="theFile">
+			<path>
+				<fileset dir="${buildhtml}"/>
+			</path>
+		</foreach>
 	</target>
 
 	<target name="compile_pdf" depends="init"
@@ -108,16 +130,6 @@
 		</ant>
 	</target>
 
-	<target name="compile_word" depends="init"
-				description="compile the source into Word">
-		<ant antfile="${dita.dir}/build.xml">
-			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${dita}/html.ditaval"/>
-			<property name="output.dir" location="${build}"/>
-			<property name="transtype" value="docx"/>
-		</ant>
-	</target>
-
 	<target name="compile_epub" depends="init"
 			description="compile the source into EPUB">
 		<!-- First build the Technical users EPUB, containing their content. -->
@@ -149,7 +161,7 @@
 		</ant>
 	</target>
 
-	<target name="compile" depends="compile_md,compile_pdf,compile_epub"/>
+	<target name="compile" depends="compile_md,compile_pdf,compile_epub,compile_word"/>
 
 	<target name="enableRedirect">
 		<echo message="Redirecting file: ${theFile}"/>
@@ -192,6 +204,7 @@
 		<!-- Delete the ${build} and ${dist} directory trees -->
 		<delete dir="${build}"/>
 		<delete dir="${docs}"/>
+		<delete dir="${worddocs}"/>
 	</target>
 
 	<target name="preview" depends="compile_md" description="Minimal build for local preview purposes.">
