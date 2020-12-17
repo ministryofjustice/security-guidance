@@ -82,7 +82,9 @@
 		<echo message="Running on: ${os.name}"/>
 		<foreach target="convertToWord" param="theFile">
 			<path>
-				<fileset dir="${buildhtml}"/>
+				<fileset dir="${buildhtml}">
+					<include name="**/*.html"/>
+				</fileset>
 			</path>
 		</foreach>
 	</target>

@@ -49,6 +49,19 @@ has made for the products we operate, and our relationships with suppliers.</p>
 			<p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, see <xref href="https://ministryofjustice.github.io/security-guidance/" format="html" scope="external">here</xref>.</p>
 			</note>
 		</body>
+		<topic id="searching" platform="html">
+			<title>Searching this content</title>
+			<body>
+				<p>The content of this site is searchable in two ways:
+				<ol>
+					<li>By searching for the word or phrase on <xref href="google.com" format="html" scope="external">Google</xref> and specifying this site:
+						<pre>site:https://ministryofjustice.github.io/security-guidance/</pre>
+						For example, to search for information about passwords, you might use the following search expression:
+						<pre>password site:https://ministryofjustice.github.io/security-guidance/</pre></li>
+					<li>By downloading one of the offline versions and using the inbuilt search capability of your offline reader.</li>
+				</ol></p>
+			</body>
+		</topic>
 		<topic id="getting-in-touch">
 			<title>Getting in touch</title>
 			<body>

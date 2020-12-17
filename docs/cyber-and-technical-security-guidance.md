@@ -20,6 +20,24 @@ For convenience, offline versions of this guidance are available.
 
 The offline versions of this guidance are time-limited, and are not valid after 17 January 2021.
 
+### Searching this content
+
+The content of this site is searchable in two ways:
+
+1.  By searching for the word or phrase on [Google](google.com) and specifying this site:
+
+    ```
+    site:https://ministryofjustice.github.io/security-guidance/
+    ```
+
+    For example, to search for information about passwords, you might use the following search expression:
+
+    ```
+    password site:https://ministryofjustice.github.io/security-guidance/
+    ```
+
+2.  By downloading one of the offline versions and using the inbuilt search capability of your offline reader.
+
 ### Getting in touch
 
 -   [To report an incident](reporting-an-incident.md).
