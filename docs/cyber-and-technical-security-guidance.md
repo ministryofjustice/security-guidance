@@ -8,7 +8,7 @@ The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 15 December 2020.
+This guidance is dated: 17 December 2020.
 
 For convenience, offline versions of this guidance are available.
 
@@ -18,7 +18,7 @@ For convenience, offline versions of this guidance are available.
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 |Suppliers. Includes just the details of primary interest to suppliers.|[PDF](moj-guidance-suppliers.pdf)|[EPUB](moj-guidance-suppliers.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 15 January 2021.
+The offline versions of this guidance are time-limited, and are not valid after 17 January 2021.
 
 ### Getting in touch
 
@@ -85,9 +85,9 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Management direction for information security
 
-|[![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/setecastronomy/)[Avoiding too much security](setecastronomy.md)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Avoiding too much security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/setecastronomy/)|All users|
 |[IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](identify-protect-detect-respond-recover.md)|All users|
-|[![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/)[Line Manager approval](line-manager-approval.md)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Line Manager approval](https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/)|All users|
 |[Shared Responsibility Models](shared-responsibility-models.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 ### Mobile devices and teleworking
@@ -110,30 +110,30 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### During employment
 
-|[![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/training-and-education/)[Training and Education](training-and-education.md)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Training and Education](https://intranet.justice.gov.uk/guidance/security/it-computer-security/training-and-education/)|All users|
 
 ### Asset management
 
 #### Responsibility for assets
 
-|[![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/)[Acceptable use](acceptable-use.md)|All users|
-|[![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use-policy/)[Acceptable use policy](acceptable-use-policy.md)|All users|
-|[![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/it-acceptable-use-policy/)[IT Acceptable Use Policy](it-acceptable-use-policy.md)|All users|
-|[![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/protect-yourself-online/)[Protect Yourself Online](protect-yourself-online.md)|All users|
-|[![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/)[Web browsing security](web-browsing.md)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Acceptable use](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Acceptable use policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use-policy/)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [IT Acceptable Use Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/it-acceptable-use-policy/)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Protect Yourself Online](https://intranet.justice.gov.uk/guidance/security/it-computer-security/protect-yourself-online/)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Web browsing security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/)|All users|
 
 #### Information classification
 
-|[![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/data-handling-and-information-sharing-guide/)![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/)![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Government Classification Scheme](government-classification-scheme.md)|All users|
-|[![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/)![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Information Classification and Handling Policy](information-classification-and-handling-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Data Handling and Information Sharing Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/data-handling-and-information-sharing-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Government Classification Scheme](https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Information Classification and Handling Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[`OFFICIAL` and `OFFICIAL-SENSITIVE`](official-official-sensitive.md)|All users|
 |[Secrets management](secrets-management.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 #### Media handling
 
-|[![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/)[Removable media](removable-media.md)|All users|
-|[![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-it-equipment/)[Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Removable media](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Secure disposal of IT equipment](https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-it-equipment/)|All users|
 
 ### Access control
 
@@ -184,10 +184,10 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Equipment
 
-|[![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/clear-screen-and-desk/)[Clear Screen and Desk Policy](clear-screen-and-desk.md)|All users|
-|[![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/laptops/)[Laptops](laptops.md)|All users|
-|[![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/locking-and-shutdown/)[Locking and shutdown](locking-and-shutdown.md)|All users|
-|[![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-users/)[Policies for Macbook Users](policies-for-macbook-users.md)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Clear Screen and Desk Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/clear-screen-and-desk/)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Laptops](https://intranet.justice.gov.uk/guidance/security/it-computer-security/laptops/)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Locking and shutdown](https://intranet.justice.gov.uk/guidance/security/it-computer-security/locking-and-shutdown/)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Policies for Macbook Users](https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-users/)|All users|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [System Lockdown and Hardening Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-lockdown-and-hardening-standard/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 ### Operations security

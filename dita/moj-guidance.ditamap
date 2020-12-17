@@ -203,6 +203,7 @@ if an audience attribute is present, then only matching content is included.
 		<topicmeta audience="audience-basic audience-tech"><navtitle>Communications security</navtitle></topicmeta>
 		<topichead audience="audience-tech">
 			<topicmeta audience="audience-tech"><navtitle>Network security management</navtitle></topicmeta>
+			<topicref href="code-of-connection-standard.dita" type="topic" audience="audience-tech"/>
 			<topicref href="defensive-domain-registration.dita" type="topic" audience="audience-tech"/>
 			<topicref href="internet-v-psn.dita" type="topic" audience="audience-tech"/>
 			<topicref href="ip-dns-diagram-handling.dita" type="topic" audience="audience-tech"/>
