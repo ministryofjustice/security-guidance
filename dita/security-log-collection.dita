@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="security-log-collection">
   <title>Security Log Collection</title>
@@ -26,7 +25,7 @@
     <title>Principles</title>
     <body>
       <p>We have created a series of security log collection principle requirements for the <ph conref="conrefs.dita#conrefs/moj"/>.
-If you have any questions or comments, <xref href="cyber-and-technical-security-guidance.dita" format="dita" type="topic">get in touch</xref>.</p>
+If you have any questions or comments, get in touch: <ph conref="conrefs.dita#conrefs/securityemail"/>.</p>
       <p>To enable ease of referencing, but not to imply priority order, each item is assigned a reference.</p>
     </body>
     <topic id="authentication-events">

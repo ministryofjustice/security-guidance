@@ -233,8 +233,8 @@
             must be authorised by the relevant IAO.
             An appropriate contract,
             <xref href="#data-movement-form-dmf" format="dita">Data Movement Form</xref>,
-            and Non-disclosure Agreement (NDA) must be in place prior to the transfer.
-            It might also be appropriate to establish a <xref href="security-aspect-letters.dita" format="dita">Security Aspects Letter (SAL)</xref> and Codes of Connection (CoCo) agreement.</p>
+            and Non-disclosure Agreement (NDA) must be in place prior to the transfer.</p>
+            <p audience="audience-suppliers audience-tech">It might also be appropriate to establish a <xref href="security-aspect-letters.dita" format="dita">Security Aspects Letter (SAL)</xref> and Codes of Connection (CoCo) agreement.</p>
           <p>Where the information is <codeph>OFFICIAL-SENSITIVE</codeph>,
             it must be transferred to an assured system,
             assured to the same level as the data being transferred,

@@ -2,7 +2,9 @@
 
 This guidance applies to all staff and contractors who work for the Ministry of Justice \(MoJ\).
 
-Some MoJ IT Policy documents need you to get a review or approval from a Line Manager or other senior person. Do this before taking an action or working in a particular way. Examples include:
+Some MoJ IT Policy documents need you to get a review or approval from a Line Manager or other senior person. Do this before taking an action or working in a particular way.
+
+Examples include:
 
 -   [General advice on taking equipment abroad](general-advice-on-taking-equipment-abroad.md).
 -   [Security Guidance for Using a Personal Device](personal-devices.md).

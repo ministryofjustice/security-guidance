@@ -215,15 +215,17 @@ E-mail is a major source of malware and route into the MoJ for criminal organisa
 
 Remote access is provided to MoJ ICT systems and services allowing Users access from offsite and home locations to connect in. The main methods of access are either via a RAS laptop and/or Blackberry device. In the main, remote access is to a protectively marked MoJ IT system \(up to and including `RESTRICTED`\). As such Users need to be aware of both the security controls and procedures of the device used as well as the general physical security considerations. This includes any restriction on the carriage of such devices as they may contain HMG protectively marked data and HMG cryptographic material.
 
-MoJ ICT IA maintains a list of countries where carriage and use of remote access devices is permitted. Further details can be found in the [Remote Working](remote-working.md) guidance.
+MoJ ICT IA maintains a list of countries where carriage and use of remote access devices is permitted.
+
+Further details can be found in the [Remote Working](remote-working.md) guidance.
 
 -   **POL.ITAUP.025**
 
-    All Users **must be** aware of the [Remote Working](remote-working.md) guidance and must confirm that they have read and understood it before being provision with any remote access devices or equipment \(e.g. RSA token\).
+    All Users **must be** aware of the [Remote Working](remote-working.md)applicable remote working guidance and must confirm that they have read and understood it before being provision with any remote access devices or equipment \(e.g. RSA token\).
 
 -   **POL.ITAUP.026**
 
-    Any User wishing to take a remote access device out of the UK **must consult** [Remote Working](remote-working.md) before doing so or the applicable device IT Security Operating Procedures document.
+    Any User wishing to take a remote access device out of the UK **must consult** [Remote Working](remote-working.md)applicable remote working guidance before doing so or the applicable device IT Security Operating Procedures document.
 
 
 ## Monitoring of communications

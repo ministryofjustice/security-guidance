@@ -22,6 +22,7 @@
 	<property name="dita" location="dita"/>
 	<property name="build" location="${dita}/out"/>
 	<property name="buildhtml" location="${dita}/outhtml"/>
+	<property name="images.output.dir" location="${dita}/out/images"/>
 	<property name="docs" location="docs"/>
 	<property name="worddocs" location="worddocs"/>
 	<property name="images" location="images"/>
@@ -60,9 +61,9 @@
 	</target>
 
 	<target name="compile_html5" depends="init"
-				description="compile the source into HTML5">
+				description="compile the source into HTML5 prior to conversion to Word format, for Intranet publication.">
 		<ant antfile="${dita.dir}/build.xml">
-			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
+			<property name="args.input" value="${dita}/moj-guidance-intranet.ditamap"/>
 			<property name="args.filter" value="${dita}/html.ditaval:${dita}/audience-allusers.ditaval"/>
 			<property name="output.dir" location="${buildhtml}"/>
 			<property name="transtype" value="html5"/>
@@ -134,6 +135,11 @@
 
 	<target name="compile_epub" depends="init"
 			description="compile the source into EPUB">
+		<!-- Get the images ready to use -->
+		<copy todir="${images.output.dir}" >
+			<fileset dir="${images}"/>
+		</copy>
+
 		<!-- First build the Technical users EPUB, containing their content. -->
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
@@ -141,6 +147,15 @@
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="epub"/>
 		</ant>
+		<!--
+		<exec dir="${dita}" executable="ditac" output="build-tech.txt">
+			<arg line="-images img -p xsl-resources-directory res -filter epub.ditaval -filter audience-tech.ditaval -format epub3 -index -v out/moj-guidance-tech.epub moj-guidance.ditamap"/>
+		</exec>
+		# Report results
+		<loadfile property="epub-tech" srcFile="build-tech.txt" />
+		<echo message="${epub-tech}" />
+		<delete file="build-tech.txt"/>
+		-->
 		<!-- Rename this file to be Tech users guide. -->
 		<move file="${build}/moj-guidance.epub" tofile="${build}/moj-guidance-tech.epub" overwrite="true"/>
 
@@ -151,6 +166,15 @@
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="epub"/>
 		</ant>
+		<!--
+		<exec dir="${dita}" executable="ditac" output="build-suppliers.txt">
+			<arg line="-images img -p xsl-resources-directory res -filter epub.ditaval -filter audience-suppliers.ditaval -format epub3 -index -v out/moj-guidance-suppliers.epub moj-guidance.ditamap"/>
+		</exec>
+		# Report results
+		<loadfile property="epub-suppliers" srcFile="build-suppliers.txt" />
+		<echo message="${epub-suppliers}" />
+		<delete file="build-suppliers.txt"/>
+		-->
 		<!-- Rename this file to be Suppliers users guide. -->
 		<move file="${build}/moj-guidance.epub" tofile="${build}/moj-guidance-suppliers.epub" overwrite="true"/>
 
@@ -161,6 +185,15 @@
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="epub"/>
 		</ant>
+		<!--
+		<exec dir="${dita}" executable="ditac" output="build-basic.txt">
+			<arg line="-images img -p xsl-resources-directory res -filter epub.ditaval -filter audience-basic.ditaval -format epub3 -index -v out/moj-guidance.epub moj-guidance.ditamap"/>
+		</exec>
+		# Report results
+		<loadfile property="epub-basic" srcFile="build-basic.txt" />
+		<echo message="${epub-basic}" />
+		<delete file="build-basic.txt"/>
+		-->
 	</target>
 
 	<target name="compile" depends="compile_md,compile_pdf,compile_epub,compile_word"/>

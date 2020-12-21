@@ -20,7 +20,7 @@ For example, if a cloud platform allows you to spin up arbitrary virtual machine
 
 ## Principles
 
-We have created a series of security log collection principle requirements for the MoJ. If you have any questions or comments, [get in touch](cyber-and-technical-security-guidance.md).
+We have created a series of security log collection principle requirements for the MoJ. If you have any questions or comments, get in touch: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
 
 To enable ease of referencing, but not to imply priority order, each item is assigned a reference.
 

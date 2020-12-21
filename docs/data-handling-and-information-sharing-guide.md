@@ -149,7 +149,9 @@ Information shared with another government department must be transferred to an 
 
 #### Information sharing with external 3rd parties
 
-Any transfer of sensitive data to a 3rd party, including sub-contractors or service providers, must be authorised by the relevant IAO. An appropriate contract, [Data Movement Form](#data-movement-form-dmf), and Non-disclosure Agreement \(NDA\) must be in place prior to the transfer. It might also be appropriate to establish a [Security Aspects Letter \(SAL\)](security-aspect-letters.md) and Codes of Connection \(CoCo\) agreement.
+Any transfer of sensitive data to a 3rd party, including sub-contractors or service providers, must be authorised by the relevant IAO. An appropriate contract, [Data Movement Form](#data-movement-form-dmf), and Non-disclosure Agreement \(NDA\) must be in place prior to the transfer.
+
+It might also be appropriate to establish a [Security Aspects Letter \(SAL\)](security-aspect-letters.md) and Codes of Connection \(CoCo\) agreement.
 
 Where the information is `OFFICIAL-SENSITIVE`, it must be transferred to an assured system, assured to the same level as the data being transferred, provided by the external 3rd party, using one of the [data in transit](#data-in-transit) options.
 

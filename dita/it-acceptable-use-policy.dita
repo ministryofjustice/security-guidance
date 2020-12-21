@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="it-acceptable-use-policy">
   <title>IT Acceptable Use Policy</title>
@@ -77,7 +76,7 @@
         <ul>
           <li><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/" format="html" scope="external">IT Security Operating Procedures - System Administrators</xref>.</li>
           <li><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-users-and-application-administrators/" format="html" scope="external">IT Security Operating Procedures - Administrators and Users</xref>.</li>
-          <li><xref href="remote-working.dita" format="dita">Remote Working</xref>.</li>
+          <li audience="audience-basic audience-tech"><xref href="remote-working.dita" format="dita">Remote Working</xref>.</li>
           <li>IT Security Operating Procedures - ICT Equipment: Desktop – Corporate.</li>
           <li>IT Security Operating Procedures - ICT Equipment: Mobile Devices - RAS Laptop.</li>
           <li>IT Security Operating Procedures - ICT Equipment: Mobile Devices – Blackberry.</li>
@@ -277,16 +276,16 @@
       In the main, remote access is to a protectively marked <ph conref="conrefs.dita#conrefs/moj"/> IT system (up to and including <codeph>RESTRICTED</codeph>).
       As such Users need to be aware of both the security controls and procedures of the device used as well as the general physical security considerations.
       This includes any restriction on the carriage of such devices as they may contain HMG protectively marked data and HMG cryptographic material.</p>
-      <p><ph conref="conrefs.dita#conrefs/moj"/> ICT IA maintains a list of countries where carriage and use of remote access devices is permitted.
-      Further details can be found in the <xref href="remote-working.dita" format="dita">Remote Working</xref> guidance.</p>
+      <p><ph conref="conrefs.dita#conrefs/moj"/> ICT IA maintains a list of countries where carriage and use of remote access devices is permitted.</p>
+      <p audience="audience-basic audience-tech">Further details can be found in the <xref href="remote-working.dita" format="dita">Remote Working</xref> guidance.</p>
       <dl>
         <dlentry>
           <dt>POL.ITAUP.025</dt>
-          <dd>All Users <b>must be</b> aware of the <xref href="remote-working.dita" format="dita">Remote Working</xref> guidance and must confirm that they have read and understood it before being provision with any remote access devices or equipment (e.g. RSA token).</dd>
+          <dd>All Users <b>must be</b> aware of the <ph audience="audience-basic audience-tech"><xref href="remote-working.dita" format="dita">Remote Working</xref></ph><ph audience="audience-suppliers">applicable remote working</ph> guidance and must confirm that they have read and understood it before being provision with any remote access devices or equipment (e.g. RSA token).</dd>
         </dlentry>
         <dlentry>
           <dt>POL.ITAUP.026</dt>
-          <dd>Any User wishing to take a remote access device out of the UK <b>must consult</b> <xref href="remote-working.dita" format="dita">Remote Working</xref> before doing so or the applicable device IT Security Operating Procedures document.</dd>
+          <dd>Any User wishing to take a remote access device out of the UK <b>must consult</b> <ph audience="audience-basic audience-tech"><xref href="remote-working.dita" format="dita">Remote Working</xref></ph><ph audience="audience-suppliers">applicable remote working</ph> guidance before doing so or the applicable device IT Security Operating Procedures document.</dd>
         </dlentry>
       </dl>
     </body>
