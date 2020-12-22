@@ -119,6 +119,9 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="password-managers.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="passwords.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="password-storage-and-management-guide.dita" type="topic" audience="audience-tech"/>
+			<topicref href="policies-for-google-apps-administrators.dita" type="topic" audience="audience-tech"/>
+			<topicref href="policies-for-macbook-administrators.dita" type="topic" audience="audience-tech"/>
+			<topicref href="system-users-and-application-administrators.dita" type="topic" audience="audience-tech"/>
 			<topicref href="using-lastpass.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 	</topichead>

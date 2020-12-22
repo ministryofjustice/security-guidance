@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="policies-for-google-apps-administrators">
+  <title>Policies for Google Apps administrators</title>
+  <body>
+    <note>This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon.
+      Before using this content for a project, contact <ph conref="conrefs.dita#conrefs/catemail"/>.</note>
+    <p>These policies must be adhered to by all Google Administrators, including Super Administrators.
+      All Administrator activity is recorded, auditable and notified to all other Administrators.</p>
+  </body>
+  <topic id="why">
+    <title>Why?</title>
+    <body>
+      <p>These policies ensure two things:
+      <ol>
+        <li>That administrators have a clear understanding of what is considered acceptable, so that they do not inadvertently perform an administrative action which is later considered unacceptable.</li>
+        <li>In the event that a security incident does occur in relation to Google Apps,
+        that there is a clear policy which can be referred to, to support any action that is taken.</li>
+      </ol></p>
+    </body>
+  </topic>
+  <topic id="actions-requiring-authorisation">
+    <title>Actions requiring authorisation</title>
+    <body>
+      <p>The following actions require formal authorisation (e.g. an email confirming that the action can proceed) from at least 2 of the following 3:
+      <ul>
+        <li>The Chief Digital Officer.</li>
+        <li>The <ph conref="conrefs.dita#conrefs/cisolong"/> for the <ph conref="conrefs.dita#conrefs/mojlong"/>.</li>
+        <li>The <ph conref="conrefs.dita#conrefs/moj"/> Digital Information Assurance Lead.</li>
+      </ul></p>
+    </body>
+    <topic id="actions">
+      <title>Actions:</title>
+      <body>
+        <ol>
+          <li>Elevate any single user access to administrator from non-administrator.</li>
+          <li>Access any other users' emails or data (active or suspended).</li>
+          <li>Changing any 'global' configuration within Google Apps which affects all users.</li>
+          <li>Transfer any user's data (active or suspended) to another user. This also requires a request from the business area Service Manager.</li>
+        </ol>
+      </body>
+    </topic>
+  </topic>
+  <topic id="things-you-must-do">
+    <title>Things you must do</title>
+    <body>
+      <ol>
+        <li>Maintain the active list of all users (active and suspended) and maintain their access control to applications.</li>
+        <li>If anyone who has a Google Apps account leaves the organisation for any reason.</li>
+        <li>Suspend the account.</li>
+        <li>Transfer user's data to a user decided on by their line manager.
+          This also requires a request from the business area Service Manager.</li>
+        <li>On a minimum quarterly basis (rota'd with other Admins) conduct an audit to check:
+        <ul>
+        <li>Any escalation of privileges from non-administrator to administrator.</li>
+        <li>Any forwarding of email accounts.</li>
+        <li>Any taking ownership of User accounts.</li>
+        </ul></li>
+      </ol>
+    </body>
+  </topic>
+</topic>

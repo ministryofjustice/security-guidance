@@ -668,18 +668,30 @@ has made for the products we operate, and our relationships with suppliers.</p>
 							<entry colname="col1" align="left"><xref href="password-storage-and-management-guide.dita" format="dita">Password Storage and Management Guide</xref></entry>
 							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-google-apps-administrators/" format="html" scope="external">Policies for Google Apps administrators</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-administrators/" format="html" scope="external">Policies for Macbook Administrators</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/" format="html" scope="external">System User and Application Administrators</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
+				<row audience="audience-tech" platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-google-apps-administrators/" format="html" scope="external">Policies for Google Apps administrators</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row audience="audience-tech" platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="policies-for-google-apps-administrators.dita" format="dita">Policies for Google Apps administrators</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row audience="audience-tech" platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-administrators/" format="html" scope="external">Policies for Macbook Administrators</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row audience="audience-tech" platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="policies-for-macbook-administrators.dita" format="dita">Policies for Macbook Administrators</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row audience="audience-tech" platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/" format="html" scope="external">System User and Application Administrators</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row audience="audience-tech" platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="system-users-and-application-administrators.dita" format="dita">System User and Application Administrators</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
               <row>
                 <entry colname="col1" align="left"><xref href="using-lastpass.dita" format="dita">Using LastPass Enterprise</xref></entry>
                 <entry colname="col2" align="right">All users</entry>

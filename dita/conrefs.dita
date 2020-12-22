@@ -4,6 +4,9 @@
 <topic id="conrefs">
 	<title>conref library</title>
 	<body>
+		<!-- These conrefs may be accessed using elements similar to:
+		<ph conref="conrefs.dita#conrefs/mojlong"/>
+		-->
 		<p>
 			<ph id="mojlong">Ministry of Justice (MoJ)</ph>
 			<ph id="moj">MoJ</ph>
