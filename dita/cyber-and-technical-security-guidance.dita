@@ -716,14 +716,22 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="cryptography.dita" format="dita" type="topic">Cryptography</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/hmg-cryptography-business-continuity-management-standard/" format="html" scope="external">HMG Cryptography Business Continuity Management Standard</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/public-key-infrastructure-policy/" format="html" scope="external">Public Key Infrastructure Policy</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/hmg-cryptography-business-continuity-management-standard/" format="html" scope="external">HMG Cryptography Business Continuity Management Standard</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="hmg-cryptography-business-continuity-management-standard.dita" format="dita">HMG Cryptography Business Continuity Management Standard</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/public-key-infrastructure-policy/" format="html" scope="external">Public Key Infrastructure Policy</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="public-key-infrastructure-policy.dita" format="dita">Public Key Infrastructure Policy</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
               <row>
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/use-of-hmg-cryptography-policy/" format="html" scope="external">Use of HMG Cryptography Policy</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>

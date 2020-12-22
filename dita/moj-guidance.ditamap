@@ -132,6 +132,8 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta audience="audience-tech"><navtitle>Cryptographic controls</navtitle></topicmeta>
 			<topicref href="automated-certificate-renewal.dita" type="topic" audience="audience-tech"/>
 			<topicref href="cryptography.dita" type="topic" audience="audience-tech"/>
+			<topicref href="hmg-cryptography-business-continuity-management-standard.dita" type="topic" audience="audience-tech"/>
+			<topicref href="public-key-infrastructure-policy.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 	</topichead>
 
