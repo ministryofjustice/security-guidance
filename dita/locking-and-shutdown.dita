@@ -2,7 +2,6 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="locking-and-shutdown">
   <title>Locking and shutdown</title>
-  <body/>
   <topic id="general">
     <title>General</title>
     <body>
@@ -72,7 +71,6 @@
   </topic>
   <topic id="laptops">
     <title>Laptops</title>
-    <body/>
     <topic id="background">
       <title>Background</title>
       <body>

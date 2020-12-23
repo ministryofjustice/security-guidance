@@ -8,7 +8,6 @@
   </body>
   <topic id="baseline-maturity-tier">
     <title>Baseline Maturity Tier</title>
-    <body/>
     <topic id="user-directory-services">
       <title>1. User directory services</title>
       <body>
@@ -203,7 +202,6 @@
   </topic>
   <topic id="enhanced-maturity-tier">
     <title>Enhanced Maturity Tier</title>
-    <body/>
     <topic id="firewall-log-data-for-denied-network-traffic">
       <title>1. Firewall log data for denied network traffic</title>
       <body>

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="protecting-social-media-accounts">
 	<title>Protecting Social Media Accounts</title>
-	<body/>
 	<topic id="summary">
 		<title>Summary</title>
 		<body>
@@ -19,7 +17,6 @@
 	</topic>
 	<topic id="steps-we-can-all-take-to-protect-ourselves">
 		<title>Steps we can all take to protect ourselves</title>
-		<body/>
 		<topic id="ensure-our-passwords-are-secure">
 			<title>Ensure our passwords are secure</title>
 			<body>
@@ -132,7 +129,6 @@
 	</topic>
 	<topic id="what-to-do-if-your-account-is-bombarded">
 		<title>What to do if your account is bombarded</title>
-		<body/>
 		<topic id="remember-that-these-attacks-are-short-lived">
 			<title>Remember that these attacks are short lived</title>
 			<body>

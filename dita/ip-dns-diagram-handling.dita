@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="ip-dns-diagram-handling.dita">
   <title>IP addresses, DNS information &amp; architecture documentation</title>
-  <body/>
   <topic id="official-sensitive-not-by-default">
     <title>OFFICIAL-SENSITIVE? Not by default</title>
     <body>

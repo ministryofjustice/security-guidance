@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="mail-check">
   <title>Mail Check</title>
-  <body/>
   <topic id="the-service">
     <title>The service</title>
     <body>
@@ -21,7 +19,6 @@
   </topic>
   <topic id="how-to-use-the-service">
     <title>How to use the service</title>
-    <body/>
     <topic id="requirements">
       <title>Requirements</title>
       <body>

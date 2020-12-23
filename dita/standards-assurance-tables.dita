@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="standards-assurance-tables">
   <title>Standards Assurance Tables</title>
@@ -85,7 +84,6 @@
     </body>
     <topic id="identify">
       <title>IDENTIFY</title>
-      <body/>
       <topic id="possible-documentation">
         <title>Possible documentation</title>
         <body>
@@ -142,7 +140,6 @@
     </topic>
     <topic id="protect">
       <title>PROTECT</title>
-      <body/>
       <topic id="possible-documentation-1">
         <title>Possible documentation</title>
         <body>
@@ -205,7 +202,6 @@
     </topic>
     <topic id="detect">
       <title>DETECT</title>
-      <body/>
       <topic id="possible-documentation-2">
         <title>Possible documentation</title>
         <body>
@@ -244,7 +240,6 @@
     </topic>
     <topic id="respond">
       <title>RESPOND</title>
-      <body/>
       <topic id="possible-documentation-3">
         <title>Possible documentation</title>
         <body>
@@ -289,7 +284,6 @@
     </topic>
     <topic id="recover">
       <title>RECOVER</title>
-      <body/>
       <topic id="possible-documentation-4">
         <title>Possible documentation</title>
         <body>

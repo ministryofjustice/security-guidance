@@ -7,11 +7,10 @@
   </body>
   <topic id="overview">
     <title>Overview</title>
-    <body/>
     <topic id="introduction">
       <title>Introduction</title>
       <body>
-        <p>The <xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref> identifies mandatory requirements about the value and classification of information assets.
+        <p>The <ph conref="conrefs.dita#conrefs/gov007"/> identifies mandatory requirements about the value and classification of information assets.
           To comply with these requirements, the <ph conref="conrefs.dita#conrefs/moj"/> needs to ensure that:
         <lq>Where information is shared for business purposes,
           departments and agencies must ensure the receiving party understands the obligations and protects the assets appropriately.</lq>
@@ -159,7 +158,6 @@
   </topic>
   <topic id="information-sharing">
     <title>Information sharing</title>
-    <body/>
     <topic id="general-principles">
       <title>General principles</title>
       <body>
@@ -285,7 +283,7 @@
     <title>Data Movement Form (DMF)</title>
     <body>
       <p>The purpose of the DMF is to ensure that the movement of information assets is secure,
-        and in compliance with the <xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></p>
+        and in compliance with the <ph conref="conrefs.dita#conrefs/gov007"/>.</p>
       <p>Failure to fulfil or comply with the controls and measures identified within the DMF will lead to unnecessary risk or exposure for the <ph conref="conrefs.dita#conrefs/moj"/> or the relevant Information Asset Owner (IAO) or Senior Information Risk Owner (SIRO).</p>
     </body>
   </topic>

@@ -4,13 +4,19 @@
 
 **Note:** This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
-**Note:** This document refers to several organisations or information sources that have been replaced, as follows:
+**Note:** This document might refer to several organisations or information sources that have been replaced, as follows:
 
 -   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
 -   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
+-   ComSO \(Communications Security Officer\), contact the Chief Information Security Office \(CISO\) \([security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)\).
+-   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)\).
 -   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)\).
+-   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
+-   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   ITSO \(Information Technology Security Officer\), contact the Chief Information Security Office \(CISO\) \([security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)\).
+-   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   ITSO \(Information Technology Security Officer\), contact the CISO \([security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)\).
+-   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
 
 ## Introduction
 

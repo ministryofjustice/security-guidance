@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="general-user-video-and-messaging-apps-guidance">
 	<title>General Apps Guidance</title>
-	<body/>
 	<topic id="overview">
 		<title>Overview</title>
 		<body>
@@ -74,7 +72,6 @@
 	</topic>
 	<topic id="moj-policy-and-guidance">
 		<title><ph conref="conrefs.dita#conrefs/moj"/> Policy and guidance</title>
-		<body/>
 		<topic id="official-and-official-sensitive-information">
 			<title><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph> Information</title>
 			<body>
@@ -337,7 +334,6 @@
 	</topic>
 	<topic id="other-information">
 		<title>Other information</title>
-		<body/>
 		<topic id="government-policy-and-guidance">
 			<title>Government policy and guidance</title>
 			<body>

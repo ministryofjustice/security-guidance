@@ -134,6 +134,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="cryptography.dita" type="topic" audience="audience-tech"/>
 			<topicref href="hmg-cryptography-business-continuity-management-standard.dita" type="topic" audience="audience-tech"/>
 			<topicref href="public-key-infrastructure-policy.dita" type="topic" audience="audience-tech"/>
+			<topicref href="use-of-hmg-cryptography-policy.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 	</topichead>
 
@@ -150,14 +151,16 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="laptops.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="locking-and-shutdown.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="policies-for-macbook-users.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="system-lockdown-and-hardening-standard.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 	</topichead>
 
 	<topichead audience="audience-basic audience-suppliers audience-tech">
 		<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Operations security</navtitle></topicmeta>
-		<topichead audience="audience-tech">
-			<topicmeta audience="audience-tech"><navtitle>Operational procedures and responsibilities</navtitle></topicmeta>
+		<topichead audience="audience-suppliers audience-tech">
+			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Operational procedures and responsibilities</navtitle></topicmeta>
 			<topicref href="mail-check.dita" type="topic" audience="audience-tech"/>
+			<topicref href="offshoring-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="public-sector-dns.dita" type="topic" audience="audience-tech"/>
 			<topicref href="web-check.dita" type="topic" audience="audience-tech"/>
 		</topichead>

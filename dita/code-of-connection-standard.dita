@@ -9,7 +9,6 @@
   </body>
   <topic id="overview">
     <title>Overview</title>
-    <body/>
     <topic id="introduction">
       <title>Introduction</title>
       <body>
@@ -40,7 +39,6 @@
   </topic>
   <topic id="code-of-connection">
     <title>Code of Connection</title>
-    <body/>
     <topic id="context">
       <title>Context</title>
       <body>
@@ -89,7 +87,6 @@
     </body>
     <topic id="a1-code-of-connection--basic-requirement">
       <title>A.1 Code of Connection – Basic requirement</title>
-      <body/>
       <topic id="a11--applicable-policies">
         <title>A.1.1  Applicable policies</title>
         <body>
@@ -102,7 +99,6 @@ If any aspects of the data to be exchanged require special handling measures or 
       </topic>
       <topic id="a12-connectivity">
         <title>A.1.2 Connectivity</title>
-        <body/>
         <topic id="a121-data-flows-service-and-protocols">
           <title>A.1.2.1 Data flows, service and protocols</title>
           <body>
