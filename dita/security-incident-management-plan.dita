@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="security-incident-management-plan">
+  <title>Security Incident Management Plan</title>
+  <body/>
+  <topic id="experiencing-a-security-incident">
+    <title>Experiencing a security incident?</title>
+    <body>
+      <p>Don't panic - start here.</p>
+    </body>
+  </topic>
+  <topic id="introduction">
+    <title>Introduction</title>
+    <body>
+      <p>This incident response plan exists to ensure that we consistently handle information security events effectively and efficiently. By doing so we can minimise the harm incidents cause to the <ph conref="conrefs.dita#conrefs/mojlong"/>, our staff, users, and others whose data we have been entrusted with.</p>
+      <p>Our incident response plan must be followed by anyone within the <ph conref="conrefs.dita#conrefs/moj"/> and our suppliers whenever a data breach is suspected or known to be happening or have happened. The goals of the plan are to:</p>
+      <ul>
+        <li>
+          <p>Quickly reduce harm - by stopping the incident, reducing the severity of it, taking remedial actions, etc.</p>
+        </li>
+        <li>
+          <p>Respond effectively - notifying those who need to be aware of the incident, communicating clearly and actionably, advising regulators and other organisations as required.</p>
+        </li>
+        <li>
+          <p>Enable improvement - to ensure that we learn from what happens to help avoid similar events in the future, and to improve how we handle potential data incidents.</p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="topics">
+    <title>Topics</title>
+    <body/>
+    <topic id="incident-roles">
+      <title>Incident roles</title>
+      <body>
+        <p>As we don't have a standing incident response team, we form virtual, cross-function teams from security and privacy, digital and technology, and other areas to tackle issues as they come up. This section describes the <xref href="roles-and-responsibilities-for-handling-security-and-privacy-incidents.dita" format="dita"> roles</xref> that each incident response team has.</p>
+      </body>
+    </topic>
+    <topic id="before-an-incident">
+      <title>Before an incident</title>
+      <body>
+        <p>This section describes what activities we undertake on a regular basis to be ready for any incidents, <xref href="before-an-incident.dita" format="dita">before an incident happens</xref>.</p>
+      </body>
+    </topic>
+    <topic id="during-an-incident">
+      <title>During an incident</title>
+      <body>
+        <p>This part of the plan sets out the key steps that the incident response team will do <xref href="during-a-security-incident.dita" format="dita">during an incident</xref>. We follow an 'OODA loop' approach of Observe, Orientate, Decide, Act as described in this section, giving us the flexibility to respond to the widest range of possible security problems.</p>
+      </body>
+    </topic>
+    <topic id="after-an-incident">
+      <title>After an incident</title>
+      <body>
+        <p>It is important to us that we learn from each security incident or near-miss. Taking time <xref href="after-an-incident.dita" format="dita">after an incident</xref> to reflect on what causes there were, how we approached resolving the incident, and what we can improve for the future is time well spent.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="what-is-a-data-incident---what-is-in-scope-of-this">
+    <title>What is a data incident - what is in scope of this?</title>
+    <body>
+      <p>This plan applies to any situation in the <ph conref="conrefs.dita#conrefs/moj"/> where an unauthorised disclosure, modification or deletion, of information the <ph conref="conrefs.dita#conrefs/moj"/> is responsible for has happened, is happening, or is believed likely to occur unless swift action is taken.</p>
+      <p>If you are unsure whether something is or isn't a data incident, or whether the responsibility is the <ph conref="conrefs.dita#conrefs/moj"/>'s or not, it should be assumed that this plan applies. It is much preferable to have incidents that turn out to be unnecessary, than to have incidents go unmanaged.</p>
+    </body>
+  </topic>
+  <topic id="incident-phases">
+    <title>Incident Phases</title>
+    <body>
+      <p>We define a number of 'phases' to our incident plan:
+        <dl>
+          <dlentry>
+            <dt>Pre-incident</dt>
+            <dd>The security incident has begun, but an incident has yet to be declared.</dd>
+          </dlentry>
+          <dlentry>
+            <dt>Hot</dt>
+            <dd>The security incident is on-going; emergency action is required to quickly minimise the harm; actions are time-critical.</dd>
+          </dlentry>
+          <dlentry>
+            <dt>Warm</dt>
+            <dd>The security incident is no-longer time critical but there are still actions to undertake - such as completing the forensic analysis of devices, external communications, etc.</dd>
+          </dlentry>
+          <dlentry>
+            <dt>Cold</dt>
+            <dd>The security incident is complete.</dd>
+          </dlentry>
+        </dl>
+      </p>
+      <p>During the 'hot' phase things are different to how our organisation normally acts.</p>
+      <p>The Incident Manager is in charge. No matter their grade, they are now the most important individual involved in the incident. Similarly subject matter experts, or those brought in to the incident from service teams or suppliers are the most important people for their respective services.</p>
+      <p>Decisions are made by the Incident Manager - after due consideration of the information available. Once made, those decisions are final. The Incident Manager is empowered to make riskier decisions than would normally be considered to prevent harm - such as ordering a service offline immediately. The Incident Manager is also not bound to take decisions based on consensus. During the 'hot' period, there will be no argument once the decision has been taken. The Incident Manager is also empowered to ask people or suppliers to leave an incident - this is nothing personal, but is about maintaining a focus on incident resolution.</p>
+    </body>
+  </topic>
+  <topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="acknowledgements">
+    <title>Acknowledgements</title>
+    <body>
+      <p>Based upon the excellent <xref href="https://cydea.tools/ir-plan/" format="html" scope="external">Cydea IR Plan template</xref> (released under the Creative Commons Attribution 4.0 International Public License), and the superb <xref href="https://github.com/pagerduty/incident-response-docs" format="html" scope="external">PagerDuty Incident Response docs</xref> (released under the Apache 2 Licence).</p>
+    </body>
+  </topic>
+</topic>

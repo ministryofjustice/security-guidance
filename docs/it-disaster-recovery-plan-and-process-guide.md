@@ -47,7 +47,7 @@ The HMG Security Policy Framework \(SPF\) Mandatory Requirement 4 states that:
 
 > "Departments and Agencies must have robust and well tested policies, procedures and management arrangements in place to respond to, investigate and recover from security incidents or other disruptions to core business."
 
-The policy on IT Disaster Recovery is covered in [IT Security Policy – IT Disaster Recovery Policy](it-disaster-recovery-policy.md) while this document sets out the MoJ guidance for creating an ITDR plan. This guide must be read in conjunction with CESG GPG No. 24 – Security Incident Management and [IT Security – Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md).
+The policy on IT Disaster Recovery is covered in [IT Security Policy – IT Disaster Recovery Policy](it-disaster-recovery-policy.md) while this document sets out the MoJ guidance for creating an ITDR plan. This guide must be read in conjunction with CESG GPG No. 24 – Security Incident Management and the [Security Incident Management Plan](security-incident-management-plan.md) document.
 
 **Note:** The [IT Security Policy – IT Disaster Recovery Policy](it-disaster-recovery-policy.md) sets out the roles and responsibilities with respect to ITDR. It states that each IT system must fall under the responsibility of an IT Disaster Recovery Team Leader \(ITDRTL\) who is responsible for maintaining the ITDR plan.
 
@@ -92,7 +92,7 @@ Therefore, an ITDR plans is created:
 
 ### Link to IT Security Incident Management
 
-The ITDR plan sits under an ITSIM plan. It is important to ensure that the steps encapsulated in the ITDR plan align to the ITSIM plan. Further information on the ITSIM plan can be found in [IT Security – Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md).
+The ITDR plan sits under an ITSIM plan. It is important to ensure that the steps encapsulated in the ITDR plan align to the ITSIM plan. Further information on the ITSIM plan can be found in [Security Incident Management Plan](security-incident-management-plan.md) document.
 
 ### Process
 

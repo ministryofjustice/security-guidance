@@ -311,14 +311,18 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Management of information security incidents and improvements
 
+|[After an incident](after-an-incident.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Before an incident](before-an-incident.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[During a security incident](during-a-security-incident.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Forensic Principles](https://intranet.justice.gov.uk/guidance/security/it-computer-security/forensic-principles/)|All users|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Forensic Readiness Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/forensic-readiness-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Forensic Readiness Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/forensic-readiness-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Incident Management Plan and Process Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [IT Incident Management Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Lost Laptop or other IT security incident](lost-laptophardware.md)|All users|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [MoJ Forensic Readiness Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Reporting an incident](reporting-an-incident.md)|All users|
+|[Roles and responsibilities for handling security and privacy incidents](roles-and-responsibilities-for-handling-security-and-privacy-incidents.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Security Incident Management Plan](security-incident-management-plan.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 ### Information security aspects of business continuity management
 

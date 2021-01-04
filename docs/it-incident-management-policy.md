@@ -30,7 +30,7 @@ The aim of this policy is to ensure best practice is followed by all IT systems 
 
 Each MoJ Business Group **must have** an IT Security Incident Management Plan which aligns to this policy. This plan must be common to all IT systems within a particular business group.
 
-A template plan and guidance on the construction of an IT Security Incident Management Plan is provided in [IT Security – Incident Management Plan and Process guide](incident-management-plan-and-process-guide.md).
+Guidance on the construction of an IT Security Incident Management Plan is provided in the [Security Incident Management Plan](security-incident-management-plan.md) document.
 
 ### Scope
 
@@ -131,7 +131,7 @@ All IT Security incidents **must be** categorised in accordance with this policy
 
 The nature of an incident may not be immediately obvious when it is first reported; further assessments of its categorisation need to be made as more information is gathered. For example, through conducting an investigation \(see Figure 2 which outlines this process flow\).
 
-The sub-sections below provide an overview of the three categories with further guidance on its practical application provided in [IT Security – Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md).
+The sub-sections below provide an overview of the three categories with further guidance on its practical application provided in the [Security Incident Management Plan](security-incident-management-plan.md) document.
 
 #### Low impact incident
 
@@ -246,7 +246,7 @@ All MoJ Local Managers **must ensure** that all IT Security or personal data inc
 
 **POL.IMP.011:**
 
-Each MoJ business group SIRO **must ensure** that each IT domain \(e.g. DISC or OMNI\) which fall under their remit has an IT Security Incident Management Plan which implements this policy. A template plan and guidance is available in [IT Security – Incident Management Plan and Process guide](incident-management-plan-and-process-guide.md).
+Each MoJ business group SIRO **must ensure** that each IT domain \(e.g. DISC or OMNI\) which fall under their remit has an IT Security Incident Management Plan which implements this policy. Guidance is available in the [Security Incident Management Plan](security-incident-management-plan.md) document.
 
 **POL.IMP.012:**
 
@@ -293,7 +293,7 @@ As a rule, all IT Security incidents are reported to OST. As depicted in Figure 
 
 Each IT Security Incident Management Plan **must include** a pre-arranged escalation path where each stakeholder is named and aware of their role in the Incident Management Plan.
 
-A generic escalation path is provided [here](#it-security-incident-escalation-path). This generic path is intended to provide a starting point where further guidance on tailoring and customisation is provided in the [IT Security – Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md).
+Further guidance is provided in the [Security Incident Management Plan](security-incident-management-plan.md) document.
 
 ## Investigation and Diagnosis capability
 
@@ -366,14 +366,4 @@ For each Medium and High impact \(see [here](#categorisation-of-incidents) \) IT
 
 -   Any recommendations made.
 
-
-## IT Security Incident Recording and Categorisation
-
-![IT Security Incident Recording and Categorisation](images/incident-management-plan-and-process-guide-diagram-3.png)
-
-## IT Security Incident Escalation Path
-
-The following is a generic IT Security incident escalation path which provides a starting point for the creation of a tailored version in an IT Security Incident Management Plan. Further information is provided in the [IT Security – Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md).
-
-![IT Security Incident Escalation Path](images/incident-management-plan-and-process-guide-diagram-4.png)
 

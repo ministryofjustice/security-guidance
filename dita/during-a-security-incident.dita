@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="during-a-security-incident">
+  <title>During a security incident</title>
+  <body>
+    <p>This document forms part of the incident management plan.</p>
+  </body>
+  <topic id="starting-an-incident">
+    <title>Starting an incident</title>
+    <body>
+      <p>Anyone from across the <ph conref="conrefs.dita#conrefs/mojlong"/> can begin this incident process - whenever they believe a data incident is likely, is happening, or has happened.</p>
+      <p>This process is not absolute - different circumstances will require the incident manager to take alterative steps depending on what has happened and what is going in - but provides a framework of steps that are likely to be needed. These are also not absolutely sequential - for example, notifying the regulators can and should occur in parallel to other steps; likewise with briefings to SIROs or other stakeholders.</p>
+    </body>
+  </topic>
+  <topic id="what-should-i-do">
+    <title>What should I do?</title>
+    <body>
+      <ul>
+        <li>
+          <p>If it is possible for you, as the incident discoverer, to do so, take immediate action to stop any on-going data breach / attack that is in progress, and close off the route by which the attack / breach is being caused by.</p>
+        </li>
+        <li>
+          <p>Immediately start an incident by contacting the Security Team.</p>
+        </li>
+        <li>
+          <p>If possible, stay available to discuss what you have done with the Incident Manager so they can understand the situation, the actions you've taken, and the circumstances surrounding the incident.</p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="initial-incident-triage">
+    <title>Initial Incident Triage</title>
+    <body>
+      <p>The on-call Incident Manager will perform an initial triage on a report from the incident discoverer. It is the Incident Manager's role to sound the alarm if they believe it warrants mobilisation of formal incident response.</p>
+      <p>The initial purpose of the triage stage is to ascertain if the security event that has been detected warrants being treated as a security incident, or is a false positive.</p>
+      <p>All security events should be logged and triaged to support trend analysis and understanding the effectiveness of security countermeasures. False-positive security events can be closed following triage.</p>
+      <p>Where a security event warrants further investigation a security incident should be opened and the rest of this process be followed.</p>
+      <p>As part of triage, all security incidents must be assigned a severity and category. Depending on the severity of the incident an escalation may be required.</p>
+      <p>Useful points to consider when triaging a security incident are:</p>
+      <ul>
+        <li>
+          <p>Who reported or what led to the discovery of the event?</p>
+        </li>
+        <li>
+          <p>Where (systems, networks, users) does the event affect?</p>
+        </li>
+        <li>
+          <p>What are the consequences of the event?</p>
+        </li>
+        <li>
+          <p>How was it discovered?</p>
+        </li>
+        <li>
+          <p>What are the related, and potentially exposed, devices, systems or networks?</p>
+        </li>
+        <li>
+          <p>Has the source(s) of the events been identified?</p>
+        </li>
+      </ul>
+      <p>Some of these questions may not be answerable immediately; this should not delay making a decision about starting the incident response process. Remember, it is prefered that the process is started when it doesn't need to be, than not run when it is.</p>
+    </body>
+    <topic id="triage-checklist">
+      <title>Triage Checklist</title>
+      <body>
+        <ul>
+          <li>
+            <p>Log the incident</p>
+          </li>
+          <li>
+            <p>Record the source of the incident</p>
+          </li>
+          <li>
+            <p>Record details and what is known about the incident</p>
+          </li>
+          <li>
+            <p>Form a working hypothesis for the incident</p>
+          </li>
+          <li>
+            <p>Assign an incident severity</p>
+          </li>
+          <li>
+            <p>Assign an incident category</p>
+          </li>
+          <li>
+            <p>Escalate or notify (as required)</p>
+          </li>
+          <li>
+            <p>Mobilise virtual Incident Response Team based on type and severity of the incident</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+  </topic>
+  <topic id="assembling-the-team">
+    <title>Assembling the Team</title>
+    <body>
+      <p>If the on-call Incident Manager has decided to trigger the incident response process, they must now assemble the virtual team, and move to the <i>hot</i> phase of the incident.</p>
+      <p>The secretariat immediately starts an incident log using the template provided.</p>
+      <p>The immediate priority for the Incident Manager is to brief the virtual team on what is already known from the Triage stage above, and identify the gaps in knowledge that need to be filled, and assumptions that need to be confirmed or refuted.</p>
+      <p>The next priority is to ensure action is taken so that any on-going breach or attack has been closed down effectively.</p>
+    </body>
+    <topic id="observe">
+      <title>Observe</title>
+      <body>
+        <p>SMEs and Security Analysts are responsible for capturing and collating data that support the investigation of a security incident.</p>
+        <p>Data and logs should be sourced from all relevant tools and systems to the investigation and that will help to understand 'what has, or is, happening?'</p>
+        <p>Observation may involve detailed technical analysis to take large volumes of data (obtained from raw log files, or captured disk images) and conduct forensics to pull out important data points.</p>
+      </body>
+      <topic id="observe-checklist">
+        <title>Observe Checklist</title>
+        <body>
+          <ul>
+            <li>
+              <p>Identify what data is required to support testing the hypothesis</p>
+            </li>
+            <li>
+              <p>Record the working hypothesis in the incident log</p>
+            </li>
+            <li>
+              <p>Confirm which assets and data sources are in scope</p>
+            </li>
+            <li>
+              <p>Gather direct observations (or request from suppliers)</p>
+            </li>
+            <li>
+              <p>Collate outside data (e.g. OSINT)</p>
+            </li>
+          </ul>
+        </body>
+      </topic>
+    </topic>
+    <topic id="orient">
+      <title>Orient</title>
+      <body>
+        <p>The <b>Incident Manager</b> collates the data from the Observe stage and, with the Incident Team evaluates the scenario.</p>
+        <p>Contextual information, such as asset information, agency data, and external/open-source intelligence may be used to help understand the landscape.</p>
+        <p>Observations need to be analysed to understand what they tell you about the situation and help prioritise the response. The analysis at this stage takes 'data' and turns it into 'information.' Important questions include, for example, 'is this an active event still unfolding?' or 'is action needed immediately to prevent further consequences?'</p>
+        <p>The aim of this stage is to form a provable hypothesis: something that further observation or action can test. It is important to assert the objective facts rather than adopt subjective assumptions.</p>
+        <lq>
+          <p>"Never attribute to malice, that which is adequately explained by stupidity." – Hanlon's Razor</p>
+        </lq>
+        <lq>
+          <p>"When you have eliminated the impossible, whatever remains, however improbable – must be the Truth." – Sherlock Holmes</p>
+        </lq>
+        <p>When forming and reviewing hypotheses the Analysis of Competing Hypothesis (ACH) method can be used to conduct a structured review of hypotheses, identifying which observations are consistent, inconsistent or not applicable.</p>
+        <p>Once the hypothesis is formed then decisions that need to be made in order to take the next steps can be identified.</p>
+      </body>
+      <topic id="orient-checklist">
+        <title>Orient Checklist</title>
+        <body>
+          <ul>
+            <li>
+              <p>Analyse the data to inform the understanding of what has, and is, going on</p>
+            </li>
+            <li>
+              <p>Describe any new hypotheses that explain the causes of the event</p>
+            </li>
+            <li>
+              <p>Combine observed data to understand the context</p>
+            </li>
+            <li>
+              <p>Test the observations against the proposed hypothesis (consistent, inconsistent, n/a)</p>
+            </li>
+            <li>
+              <p>Secretariate records results in incident log</p>
+            </li>
+            <li>
+              <p>Identify the activities, and decision points, required to progress the incident</p>
+            </li>
+          </ul>
+        </body>
+      </topic>
+    </topic>
+    <topic id="decide">
+      <title>Decide</title>
+      <body>
+        <p>The <b>Incident Manager</b> with appropriate delegated authority, makes the required decisions based upon the context established in the previous stage. The <b>Incident Manager</b> explains the decisions and justifications for the course of action, which are recorded by the <b>Secretariat</b>.</p>
+        <p>Decisions should, where possible, be small in nature to preserve agility when dealing with evolving situations and so that the effects of any actions can be observed and actions pivoted if required.</p>
+      </body>
+      <topic id="decide-checklist">
+        <title>Decide Checklist</title>
+        <body>
+          <ul>
+            <li>
+              <p>Convene 'heartbeat' call</p>
+            </li>
+            <li>
+              <p>Report the known-facts from observations and orientation of the incident in plain English, wherever possible, e.g.:</p>
+            </li>
+            <li>
+              <p>What happened?</p>
+            </li>
+            <li>
+              <p>What does this mean for us?</p>
+            </li>
+            <li>
+              <p>What have we done?</p>
+            </li>
+            <li>
+              <p>What are we doing next?</p>
+            </li>
+            <li>
+              <p>Confirm the severity and categorisation of the incident are still appropriate</p>
+            </li>
+            <li>
+              <p>Discuss each decision point</p>
+            </li>
+            <li>
+              <p>Record the outcome in the incident log</p>
+            </li>
+            <li>
+              <p>Agree on the timeframe for the next decision point</p>
+            </li>
+          </ul>
+        </body>
+      </topic>
+    </topic>
+    <topic id="act">
+      <title>Act</title>
+      <body>
+        <p>SMEs, with support from others in the team, act on the decisions made in the previous stage to further the investigation or remedy of the situation.</p>
+        <p>It is important that actions be logged so that any cause/effect can be tracked and any 'red herring' subsequent security events discounted from the hypothesis.</p>
+        <p>During the 'act' stage teams will try to contain the threat and eradicate any actors that have infiltrated our environments.</p>
+        <p>Where action may have a side effect on authorised user behaviour it is important that they are informed to help minimise further disruption.</p>
+        <p>Actions may include:</p>
+        <ul>
+          <li>
+            <p>Isolation of systems (can include critical systems, virtual machines, websites)</p>
+          </li>
+          <li>
+            <p>Reset of credentials and ability to block or lockdown remote access</p>
+          </li>
+          <li>
+            <p>Blocking in/outbound traffic and emails</p>
+          </li>
+          <li>
+            <p>Removing malicious files (clean or rebuild machines, clean user profiles, using AV, or deploying scripts)</p>
+          </li>
+          <li>
+            <p>Resetting domain admin and service accounts, and estate wide resets</p>
+          </li>
+          <li>
+            <p>Remotely isolate or quarantine machines or parts of the network</p>
+          </li>
+          <li>
+            <p>Remotely block or remove malicious files and/or processes</p>
+          </li>
+          <li>
+            <p>Block or alert on specific patterns (e.g. traffic patterns)</p>
+          </li>
+          <li>
+            <p>Monitoring of network and host activity to confirm actions have been successful</p>
+          </li>
+          <li>
+            <p>Moving suspicious VMs to quarantined virtual networks</p>
+          </li>
+          <li>
+            <p>Taking snapshots of block storage</p>
+          </li>
+        </ul>
+        <p>The success or failure of every action should always be ascertained, especially before moving to recovery. The results form a data point when circling back to the 'observe' stage.</p>
+      </body>
+      <topic id="act-checklist">
+        <title>Act Checklist</title>
+        <body>
+          <ul>
+            <li>
+              <p>Plan the activities required to achieve the objective</p>
+            </li>
+            <li>
+              <p>Communicate the plan with affected stakeholders</p>
+            </li>
+            <li>
+              <p>Record details of the actions taken and the results achieved</p>
+            </li>
+            <li>
+              <p>Communicate progress to the Incident Manager</p>
+            </li>
+          </ul>
+        </body>
+      </topic>
+    </topic>
+    <topic id="recover">
+      <title>Recover</title>
+      <body>
+        <p>The <b>Incident Manager</b> is recommending a 'green light' to affected areas to resume business as usual activities once the SMEs confirm that the relevant systems have returned to a clean and fit state.</p>
+        <p>Once the security incident is believed to have been contained and consequences understood the primary goal becomes a return to 'business as usual.'</p>
+        <p>Depending on the severity and scale of the incident this may be a brief set of checks, or a far more involved process.</p>
+        <p>For malware or system compromise events that may involve returning systems to a 'clean' and 'known good' state. This may involve applying further risk mitigations or security countermeasures to prevent or reduce the frequency that similar events occur in the future, such as configuration changes or applying security patches to harden the security posture.</p>
+        <p>All recovery efforts should be closely monitored so that you can respond quickly in the event of recurrence and confidently 'sign-off' systems back to live operations. You may need to return to the 'orientate' stage, and loop around. This is the Incident Manager's decision.</p>
+        <p>The team will also contact regulator(s) and other third parties (such as NCSC, Cabinet Office, Law Enforcement) as required, and ensure internal stakeholders, such as relevant SIRO(s), SCS, Ministers are briefed on the issue as appropriate.</p>
+        <p>Wider internal comms regarding the incident, as required, in conjunction with employee relations if there is a staff impact, will need to be undertaken in the 'act' phase. External comms with affected organisations (either as victims of, or vector for, attack) or individuals may also be required.</p>
+      </body>
+      <topic id="recover-checklist">
+        <title>Recover Checklist</title>
+        <body>
+          <ul>
+            <li>
+              <p>Confirm that the events are believed to have been successfully contained</p>
+            </li>
+            <li>
+              <p>Plan activities required in order to restore affected systems and assets to BAU state</p>
+            </li>
+            <li>
+              <p>Request any backups needed (NB: data-only backups, rather than snapshots, reduce the risk of reintroducing threats)</p>
+            </li>
+            <li>
+              <p>Communicate recovery plan to stakeholders</p>
+            </li>
+            <li>
+              <p>Implement recovery plan</p>
+            </li>
+            <li>
+              <p>Review systems to confirm operating as expected / 'clean state'</p>
+            </li>
+            <li>
+              <p>Make a return to BAU operations recommendation to Senior Management</p>
+            </li>
+            <li>
+              <p>Communications with regulators, third parties, and internal stakeholders</p>
+            </li>
+            <li>
+              <p>Wider internal comms regarding the incident as necessary</p>
+            </li>
+            <li>
+              <p>Close the incident disband the Virtual IR Team</p>
+            </li>
+          </ul>
+          <p>This concludes the 'hot' phase of the incident.</p>
+        </body>
+      </topic>
+    </topic>
+  </topic>
+</topic>

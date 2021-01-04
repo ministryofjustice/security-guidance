@@ -268,15 +268,20 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 	</topichead>
 
-	<topichead audience="audience-basic audience-tech">
-		<topicmeta audience="audience-basic audience-tech"><navtitle>Information security incident management</navtitle></topicmeta>
-		<topichead audience="audience-basic audience-tech">
-			<topicmeta audience="audience-basic audience-tech"><navtitle>Management of information security incidents and improvements</navtitle></topicmeta>
+	<topichead audience="audience-basic audience-suppliers audience-tech">
+		<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Information security incident management</navtitle></topicmeta>
+		<topichead audience="audience-basic audience-suppliers audience-tech">
+			<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Management of information security incidents and improvements</navtitle></topicmeta>
 			<topicref href="forensic-readiness-policy.dita" type="topic" audience="audience-tech"/>
-			<topicref href="incident-management-plan-and-process-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="it-incident-management-policy.dita" type="topic" audience="audience-tech"/>
 			<topicref href="lost-laptophardware.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="moj-forensic-readiness-policy.dita" type="topic" audience="audience-tech"/>
+			<topicref href="security-incident-management-plan.dita" type="topic" audience="audience-suppliers audience-tech">
+				<topicref href="roles-and-responsibilities-for-handling-security-and-privacy-incidents.dita" type="topic" audience="audience-suppliers audience-tech"/>
+				<topicref href="before-an-incident.dita" type="topic" audience="audience-suppliers audience-tech"/>
+				<topicref href="during-a-security-incident.dita" type="topic" audience="audience-suppliers audience-tech"/>
+				<topicref href="after-an-incident.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			</topicref>
 		</topichead>
 	</topichead>
 

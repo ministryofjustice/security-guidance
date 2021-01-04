@@ -12,7 +12,7 @@
         <b>POL.IMP.001:</b>
       </p>
       <p>Each <ph conref="conrefs.dita#conrefs/moj"/> Business Group <b>must have</b> an IT Security Incident Management Plan which aligns to this policy. This plan must be common to all IT systems within a particular business group.</p>
-      <p>A template plan and guidance on the construction of an IT Security Incident Management Plan is provided in <xref href="incident-management-plan-and-process-guide.dita" format="dita">IT Security – Incident Management Plan and Process guide</xref>.</p>
+      <p>Guidance on the construction of an IT Security Incident Management Plan is provided in the <xref href="security-incident-management-plan.dita" format="dita">Security Incident Management Plan</xref> document.</p>
     </body>
     <topic id="scope">
       <title>Scope</title>
@@ -138,7 +138,7 @@
         </p>
         <p>All IT Security incidents <b>must be</b> categorised in accordance with this policy.</p>
         <p>The nature of an incident may not be immediately obvious when it is first reported; further assessments of its categorisation need to be made as more information is gathered. For example, through conducting an investigation (see Figure 2 which outlines this process flow).</p>
-        <p>The sub-sections below provide an overview of the three categories with further guidance on its practical application provided in <xref href="incident-management-plan-and-process-guide.dita" format="dita">IT Security – Incident Management Plan and Process Guide</xref>.</p>
+        <p>The sub-sections below provide an overview of the three categories with further guidance on its practical application provided in the <xref href="security-incident-management-plan.dita" format="dita">Security Incident Management Plan</xref> document.</p>
       </body>
       <topic id="low-impact-incident">
         <title>Low impact incident</title>
@@ -296,7 +296,7 @@
         <p>
           <b>POL.IMP.011:</b>
         </p>
-        <p>Each <ph conref="conrefs.dita#conrefs/moj"/> business group SIRO <b>must ensure</b> that each IT domain (e.g. DISC or OMNI) which fall under their remit has an IT Security Incident Management Plan which implements this policy. A template plan and guidance is available in <xref href="incident-management-plan-and-process-guide.dita" format="dita">IT Security – Incident Management Plan and Process guide</xref>.</p>
+        <p>Each <ph conref="conrefs.dita#conrefs/moj"/> business group SIRO <b>must ensure</b> that each IT domain (e.g. DISC or OMNI) which fall under their remit has an IT Security Incident Management Plan which implements this policy. Guidance is available in the <xref href="security-incident-management-plan.dita" format="dita">Security Incident Management Plan</xref> document.</p>
         <p>
           <b>POL.IMP.012:</b>
         </p>
@@ -357,7 +357,7 @@
           <b>POL.IMP.015:</b>
         </p>
         <p>Each IT Security Incident Management Plan <b>must include</b> a pre-arranged escalation path where each stakeholder is named and aware of their role in the Incident Management Plan.</p>
-        <p>A generic escalation path is provided <xref href="#it-security-incident-escalation-path" format="dita">here</xref>. This generic path is intended to provide a starting point where further guidance on tailoring and customisation is provided in the <xref href="incident-management-plan-and-process-guide.dita" format="dita">IT Security – Incident Management Plan and Process Guide</xref>.</p>
+        <p>Further guidance is provided in the <xref href="security-incident-management-plan.dita" format="dita">Security Incident Management Plan</xref> document.</p>
       </body>
     </topic>
   </topic>
@@ -450,6 +450,7 @@
       </body>
     </topic>
   </topic>
+  <!--
   <topic id="it-security-incident-recording-and-categorisation">
     <title>IT Security Incident Recording and Categorisation</title>
     <body>
@@ -463,4 +464,5 @@
       <image href="images/incident-management-plan-and-process-guide-diagram-4.png" placement="break" scope="local"><alt>IT Security Incident Escalation Path</alt></image>
     </body>
   </topic>
+  -->
 </topic>
