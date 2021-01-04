@@ -172,10 +172,12 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="malware-protection-guidance-defensive-layer-3.dita" type="topic" audience="audience-tech"/>
 			</topicref>
 		</topichead>
-		<!--
-		<topichead navtitle="Backup">
+		<topichead audience="audience-tech">
+			<topicmeta audience="audience-tech"><navtitle>Backup</navtitle></topicmeta>
+			<topicref href="system-backup-guidance.dita" type="topic" audience="audience-tech"/>
+			<topicref href="system-backup-policy.dita" type="topic" audience="audience-tech"/>
+			<topicref href="system-backup-standard.dita" type="topic" audience="audience-tech"/>
 		</topichead>
-		-->
 		<topichead audience="audience-suppliers audience-tech">
 			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Logging and monitoring</navtitle></topicmeta>
 			<topicref href="accounting.dita" type="topic" audience="audience-suppliers audience-tech"/>
@@ -270,19 +272,27 @@ if an audience attribute is present, then only matching content is included.
 		<topicmeta audience="audience-basic audience-tech"><navtitle>Information security incident management</navtitle></topicmeta>
 		<topichead audience="audience-basic audience-tech">
 			<topicmeta audience="audience-basic audience-tech"><navtitle>Management of information security incidents and improvements</navtitle></topicmeta>
+			<topicref href="forensic-readiness-policy.dita" type="topic" audience="audience-tech"/>
+			<topicref href="incident-management-plan-and-process-guide.dita" type="topic" audience="audience-tech"/>
+			<topicref href="it-incident-management-policy.dita" type="topic" audience="audience-tech"/>
 			<topicref href="lost-laptophardware.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="moj-forensic-readiness-policy.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 	</topichead>
 
-	<!--
-	<topichead navtitle="Information security aspects of business continuity management">
-		<topichead navtitle="Information security continuity">
+	<topichead audience="audience-tech">
+		<topicmeta><navtitle>Information security aspects of business continuity management</navtitle></topicmeta>
+		<topichead>
+			<topicmeta><navtitle>Information security continuity</navtitle></topicmeta>
+			<topicref href="it-disaster-recovery-plan-and-process-guide.dita" type="topic"/>
+			<topicref href="it-disaster-recovery-policy.dita" type="topic"/>
 		</topichead>
+	<!--
 		<topichead navtitle="Redundancies">
 		</topichead>
-	</topichead>
 	-->
-
+	</topichead>
+	
 	<topichead audience="audience-basic audience-suppliers audience-tech">
 		<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Compliance</navtitle></topicmeta>
 		<topichead audience="audience-basic audience-suppliers audience-tech">
@@ -311,10 +321,10 @@ if an audience attribute is present, then only matching content is included.
 
 	<topichead audience="audience-basic audience-tech">
 		<topicmeta><navtitle>Risk Assessment</navtitle></topicmeta>
-		<!--
-		<topichead navtitle="Risk Management">
+		<topichead audience="audience-tech">
+			<topicmeta><navtitle>Risk Management</navtitle></topicmeta>
+			<topicref href="infrastructure-system-accreditation.dita" type="topic" audience="audience-tech"/>
 		</topichead>
-		-->
 		<topichead audience="audience-basic audience-tech">
 			<topicmeta><navtitle>Risk Assessment Process</navtitle></topicmeta>
 			<topicref href="risk-reviews.dita" type="topic" audience="audience-basic audience-tech"/>

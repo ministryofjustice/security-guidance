@@ -2,7 +2,7 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="public-key-infrastructure-policy">
   <title>Public Key Infrastructure Policy</title>
-  <topic id="legacycryptoreferences" conref="conrefs.dita#conrefs/legacycryptoreferences"><title/></topic>
+  <topic id="legacyreferences" conref="conrefs.dita#conrefs/legacyreferences"><title/></topic>
   <topic id="introduction">
     <title>Introduction</title>
     <topic id="scope">

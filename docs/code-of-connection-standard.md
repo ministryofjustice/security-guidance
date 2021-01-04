@@ -1,8 +1,26 @@
 # Code of connection standard
 
+This standard is designed to help protect Ministry of Justice \(MoJ\) IT systems by providing a standard for the connection of a 3rd party IT system to a MoJ IT system.
+
+## Legacy information
+
 **Note:** This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
-This standard is designed to help protect Ministry of Justice \(MoJ\) IT systems by providing a standard for the connection of a 3rd party IT system to a MoJ IT system.
+**Note:** This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
+
+-   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
+-   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
+-   ComSO \(Communications Security Officer\), contact the Chief Information Security Office \(CISO\) \([security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)\).
+-   `CONFIDENTIAL`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)\).
+-   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)\).
+-   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
+-   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   ITSO \(Information Technology Security Officer\), contact the CISO \([security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)\).
+-   `RESTRICTED`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
 
 ## Overview
 
@@ -49,7 +67,7 @@ A generic CoCo \(based on the note above\) is provided in Appendix A; it is spli
 
 In order to ensure that the connectivity and sharing of electronic data between a MoJ IT system and a 3rd party IT system does not cause undue risk from one participating organisation to another, each organisation must reasonably comply with the code of connection to ensure any risks are managed effectively.
 
-The need for a CoCo and its application will be determined by the MoJ system Accreditor who will consider the risks involved, this may require the production of a technical risk assessment and/or RMADS for the connection \(further details on RMADS can be found in the [Accreditation Framework](https://intranet.justice.gov.uk/guidance/security/it-computer-security/infrastructure-system-accreditation/) \).
+The need for a CoCo and its application will be determined by the MoJ system Accreditor who will consider the risks involved, this may require the production of a technical risk assessment and/or RMADS for the connection \(further details on RMADS can be found in the [Accreditation Framework](infrastructure-system-accreditation.md) \).
 
 The CoCo condition and compliance statement contained within the generic CoCo document \(see A.1.3\) provide a good platform to judge whether the assurance level of the connecting 3rd party IT system is sufficient rather than just relying on its accreditation status. A risk based approach must be taken to the application of security controls associated with the connection. The generic CoCo \(see Appendix A\) provides a baseline by which a 3rd party IT system's connection to a MoJ IT system will be assessed. The MoJ system Accreditor will provide a steer as to how this should be applied, where the default steer is that the guidance provided in [IAS 1&2 Baseline Controls Set \(BCS\)](https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2) at the DETER level should be applied.
 

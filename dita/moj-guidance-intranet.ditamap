@@ -34,6 +34,7 @@ if an audience attribute is present, then only matching content is included.
 		<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic"/>
 		<topicref href="government-classification-scheme.dita" type="topic"/>
 		<topicref href="guidance-for-using-open-internet-tools.dita" type="topic"/>
+		<topicref href="information-classification-and-handling-policy.dita" type="topic"/>
 		<topicref href="it-acceptable-use-policy.dita" type="topic"/>
 		<topicref href="password-managers.dita" type="topic">
 			<topicref href="using-lastpass.dita" type="topic"/>

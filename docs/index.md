@@ -8,7 +8,7 @@ The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 23 December 2020.
+This guidance is dated: 4 January 2021.
 
 For convenience, offline versions of this guidance are available.
 
@@ -18,7 +18,7 @@ For convenience, offline versions of this guidance are available.
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 |Suppliers. Includes just the details of primary interest to suppliers.|[PDF](moj-guidance-suppliers.pdf)|[EPUB](moj-guidance-suppliers.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 23 January 2021.
+The offline versions of this guidance are time-limited, and are not valid after 4 February 2021.
 
 ### Searching this content
 
@@ -144,7 +144,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Data Handling and Information Sharing Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/data-handling-and-information-sharing-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Government Classification Scheme](https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/)|All users|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Information Classification and Handling Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Information Classification and Handling Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/)|All users|
 |[`OFFICIAL` and `OFFICIAL-SENSITIVE`](official-official-sensitive.md)|All users|
 |[Secrets management](secrets-management.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
@@ -313,17 +313,18 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Forensic Principles](https://intranet.justice.gov.uk/guidance/security/it-computer-security/forensic-principles/)|All users|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Forensic Readiness Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/forensic-readiness-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Forensic Readiness Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Forensic Readiness Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/forensic-readiness-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Incident Management Plan and Process Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [IT Incident Management Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Lost Laptop or other IT security incident](lost-laptophardware.md)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [MoJ Forensic Readiness Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Reporting an incident](reporting-an-incident.md)|All users|
 
 ### Information security aspects of business continuity management
 
 #### Information security continuity
 
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [ICT Disaster Recovery Plan and Process Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-disaster-recovery-plan-and-process-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [IT Disaster Recovery Plan and Process Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-disaster-recovery-plan-and-process-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [IT Disaster Recovery Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 ### Compliance
@@ -345,6 +346,10 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |[Standards Assurance Tables](standards-assurance-tables.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 ### Risk Assessment
+
+#### Risk Management
+
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Infrastructure and system accreditation](https://intranet.justice.gov.uk/guidance/security/it-computer-security/infrastructure-system-accreditation/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 #### Risk Assessment Process
 

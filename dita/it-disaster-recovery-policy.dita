@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="it-disaster-recovery-policy">
+  <title>IT Disaster Recovery Policy</title>
+  <topic id="legacyreferences" conref="conrefs.dita#legacyreferences"><title/></topic>
+  <topic id="introduction">
+    <title>Introduction</title>
+    <body>
+      <p>IT disaster recovery is a crucial element of the <ph conref="conrefs.dita#conrefs/mojlong"/> overall business continuity plans.</p>
+    </body>
+    <topic id="definition-of-a-disaster-event">
+      <title>Definition of a disaster event</title>
+      <body>
+        <p>An IT 'disaster' event is defined (for the purposes of this policy) as any incident which results in an actual or potential loss of availability or integrity of an IT system or a business process supported by an IT system. That event would result in a system being unable to operate in an acceptable manner to the business.</p>
+        <p>
+          <b>POL.ITDR.001:</b>
+        </p>
+        <p>Each IT system or IT domain <b>must have</b> (or be explicitly covered by) an IT Disaster Recovery Plan which implements this policy.</p>
+        <p>A template Disaster Recovery Plan is <xref href="it-disaster-recovery-plan-and-process-guide.dita#it-disaster-recovery-plan-template" format="dita">available</xref> with further guidance provided in <xref href="it-disaster-recovery-plan-and-process-guide.dita" format="dita">IT Security - IT Disaster Recovery Plan and Process Guide</xref>.</p>
+        <p><b>Note</b> – In general, where an IT system (or IT domain) has an IT Security Incident Management Plan, there should be a corresponding IT Disaster Recovery Plan.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="roles-and-responsibilities">
+    <title>Roles and responsibilities</title>
+    <body>
+      <p>An effective IT Disaster Recovery Plan requires the clear allocation of responsibility. Defining the roles and responsibilities of those involved with IT disaster recovery is also an important part of the overall recovery effort.</p>
+      <p><b>Note</b> - The roles outlines in this policy are aligned with and support the <xref href="it-incident-management-policy.dita" format="dita">IT Security – Incident Management Policy</xref>.</p>
+      <p>
+        <b>POL.ITDR.002:</b>
+      </p>
+      <p>Each IT Disaster Recovery Plan <b>must outline</b> how the roles and responsibilities in this policy are fulfilled. This includes recording named individuals (and associated contact details) for each role.</p>
+      <p>
+        <b>POL.ITDR.003:</b>
+      </p>
+      <p>All staff <b>must be</b> made aware of the relevant IT Disaster Recovery Plan/s and where applicable, their role within it.</p>
+      <p><b>Note:</b> Further guidance on training and awareness can be found in <xref href="it-disaster-recovery-plan-and-process-guide.dita" format="dita">IT Security – Disaster Recovery Plan and Process Guide</xref>.</p>
+    </body>
+    <topic id="senior-information-risk-owner-siro">
+      <title>Senior Information Risk Owner (SIRO)</title>
+      <body>
+        <p>A SIRO acts as an advocate for managing risk for Business Continuity and IT Disaster recovery.</p>
+      </body>
+    </topic>
+    <topic id="departmental-security-officer-dso">
+      <title>Departmental Security Officer (DSO)</title>
+      <body>
+        <p>The Departmental Security Officer is responsible to the Permanent Secretary for:</p>
+        <ul>
+          <li>
+            <p>Assurance of the management and completion of the Department's Business Continuity Plans.</p>
+          </li>
+          <li>
+            <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s assessment of the National Threat Assessment in the context of business continuity planning.</p>
+          </li>
+          <li>
+            <p>Setting direction for the <ph conref="conrefs.dita#conrefs/moj"/>'s approach to Business Continuity and agreeing the maintenance and creation of plans across the business.</p>
+          </li>
+          <li>
+            <p>The DSO has a <ph conref="conrefs.dita#conrefs/moj"/> wide view of Business Continuity Plans and is able to report on the maturity of these plans. This IT Disaster Recovery Policy supports these Business Continuity Plans.</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="information-asset-owner-iao">
+      <title>Information Asset Owner (IAO)</title>
+      <body>
+        <p>The IAO's role in IT Disaster Recovery Planning is to understand the risks to the availability of their information assets in the event of a disaster and to ensure that they understand and can execute the relevant IT Disaster Recovery Plan.</p>
+      </body>
+    </topic>
+    <topic id="business-continuity-team-leader-bctl">
+      <title>Business Continuity Team Leader (BCTL)</title>
+      <body>
+        <p>The Business Continuity Team Leader is appointed to monitor and manage the <ph conref="conrefs.dita#conrefs/moj"/>'s Business Continuity Plans.</p>
+      </body>
+    </topic>
+    <topic id="it-disaster-recovery-team-leader-itdrtl">
+      <title>IT Disaster Recovery Team Leader (ITDRTL)</title>
+      <body>
+        <p>The ITDRTL is responsible for the <ph conref="conrefs.dita#conrefs/moj"/>'s IT Disaster Recovery Plans. This role works with the Business Continuity Team Leader to ensure that <ph conref="conrefs.dita#conrefs/moj"/> IT systems support <ph conref="conrefs.dita#conrefs/moj"/>'s critical business processes.</p>
+        <p>The IT Disaster Recovery team leader is responsible for:</p>
+        <ul>
+          <li>
+            <p>Identifying where the IT Disaster Recovery Plan will need to be updated in line with changes to the <ph conref="conrefs.dita#conrefs/moj"/> Business Continuity Plan;</p>
+          </li>
+          <li>
+            <p>Administering IT disaster recovery testing in accordance with agreed schedules;</p>
+          </li>
+          <li>
+            <p>Providing regular reports of the IT disaster recovery status of the <ph conref="conrefs.dita#conrefs/moj"/>;</p>
+          </li>
+          <li>
+            <p>Coordinating regular reviews and updates of IT Disaster Recovery Plans.</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="it-security-officer-itso">
+      <title>IT Security Officer (ITSO)</title>
+      <body>
+        <p>This role is responsible for identifying and managing Corporate-level IT disaster recovery risks, and maintaining the Corporate IT disaster recovery risk register.</p>
+      </body>
+    </topic>
+    <topic id="system-accreditor">
+      <title>System Accreditor</title>
+      <body>
+        <p>The role of an Accreditor is to act as an impartial assessor of the risks to information systems. Their function is to assure that systems are sufficiently secure to be placed into operational service. They accredit systems on behalf of the SIRO. There is also a role for Head of Accreditation who lead the accreditation team, and may accept the risk on their team's behalf.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="planning">
+    <title>Planning</title>
+    <body>
+      <p>The planning and generation of an IT Disaster Recovery Plan as described in the IT Disaster Recovery Guide support decisions and subsequent courses of action that reduce the consequences of any disaster event.</p>
+      <p>It is suggested that a Business Impact Assessment (BIA) is undertaken in order to identify the disaster recovery requirements of all the assets or business processes supported by a particular IT system:</p>
+      <p>In particular the BIA should contain:</p>
+      <p><b>Recovery Time Objective (RTO)</b> – The time in which the business requires IT services to be restored. I.e. The time between a disaster event occurring and full IT system services being restored.</p>
+      <p><b>Recovery Point Objective (RPO)</b> – The point in time in which an IT system's data asset/s can be rolled back to where the business can tolerate that period of data loss. I.e. How much historic data in the live IT system can the business tolerate losing in a disaster event.</p>
+      <p>
+        <b>POL.ITDR.004:</b>
+      </p>
+      <p>The IT Disaster Recovery Plan for an IT system or IT domain <b>must be</b> based on a Business Impact Assessment (BIA), Recovery Time Objective (RTO) and Recovery Point Objective (RPO).</p>
+      <p>
+        <b>POL.ITDR.005:</b>
+      </p>
+      <p>Any disaster recovery measure outlined in an IT Disaster Recovery Plan <b>must ensure</b> the IT system (or IT domain) can recover from a disaster event within the stated Recovery Time Objective (RTO) as recorded in a BIA.</p>
+      <p>
+        <b>POL.ITDR.006:</b>
+      </p>
+      <p>Any disaster recovery measure outlined in an IT Disaster Recovery Plan <b>must ensure</b> the IT system (or IT domain) can recover from a disaster event within the stated Recovery Point Objective (RPO) as recorded in a BIA.</p>
+    </body>
+  </topic>
+  <topic id="testing-and-readiness-review">
+    <title>Testing and readiness review</title>
+    <body>
+      <p>An IT system (or IT domain) IT Disaster Recovery Plan needs to be tested regularly to ensure the plan is remains fit for purpose and those involves in executing the plan remain familiar with the procedures outlined in it. This increases the <ph conref="conrefs.dita#conrefs/moj"/>'s preparedness in the event of a disaster.</p>
+      <p>
+        <b>POL.ITDR.007:</b>
+      </p>
+      <p>Prior to the commencement of live operations, an IT system <b>must have</b> its IT Disaster Recovery Plan tested where the outcome is supplied to the system Accreditor to form part of the accreditation decision making process.</p>
+      <p>
+        <b>POL.ITDR.008:</b>
+      </p>
+      <p>All IT Disaster Recovery Plans (whether for an IT system or IT domain) <b>must be</b> tested annually or when a significant change occurs to that IT system. The testing schedule <b>must be</b> outlined in the IT Disaster Recovery Plan.</p>
+      <p>
+        <b>POL.ITDR.009:</b>
+      </p>
+      <p>After each test, a review of the IT Disaster Recovery Plan <b>must be</b> conducted and updated where appropriate based on the test finding, outcomes or defects identified.</p>
+    </body>
+  </topic>
+  <topic id="invocation-and-escalation">
+    <title>Invocation and escalation</title>
+    <body>
+      <p>The invocation of an IT Disaster Recovery Plan is closely aligned to corresponding IT Incident Management Plan.</p>
+      <p>In general, an incident categorised as High impact (see <xref href="it-incident-management-policy.dita" format="dita">here</xref> for more details) may in turn constitute a disaster event. Each individual IT Disaster Recovery Plan needs to outline the particular circumstances in which the plan is invoked.</p>
+      <p>
+        <b>POL.ITDR.010:</b>
+      </p>
+      <p>Each IT Disaster Recovery Plan <b>must define</b> the situations and circumstances under which the Plan is to be invoked.</p>
+    </body>
+  </topic>
+  <topic id="reporting-and-alerting">
+    <title>Reporting and alerting</title>
+    <body>
+      <p>In general, the reporting and alerting structure of an IT Disaster Recovery Plan should align with that of the corresponding IT Security Incident Management Plan. However, depending on the nature of the disaster event, other stakeholders may need to be informed both internally and externally to the <ph conref="conrefs.dita#conrefs/moj"/>. This is where the <ph conref="conrefs.dita#conrefs/moj"/> Business Continuity Plan interacts with any individual IT Disaster Recovery Plan for an IT system or IT domain.</p>
+      <p>
+        <b>POL.ITDR.011:</b>
+      </p>
+      <p>Each IT Disaster Recovery Plan <b>must define</b> a reporting and alerting structure which aligns with the relevant IT Security Incident Management Plan and Business Continuity Plan.</p>
+      <p>Responsibility for business continuity resides with <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Corporate Security and Business Continuity Branch</xref> where further details can be obtained.</p>
+    </body>
+  </topic>
+  <topic id="recovery-and-review">
+    <title>Recovery and review</title>
+    <body>
+      <p>Recovering from a disaster event is generally about the speed of restoring services to normal; however it is important to ensure that security vulnerabilities are not introduced (or re-introduced) during the restoration process and that any lessons learnt are fed back to appropriate stakeholders.</p>
+      <p>
+        <b>POL.ITDR.012:</b>
+      </p>
+      <p>Each IT Disaster Recovery Plan <b>must contain</b> a pre-defined and tested process and/or set of procedures for restoring the IT systems and services which have been disrupted or disabled during a disaster event.</p>
+      <p>
+        <b>POL.ITDR.013:</b>
+      </p>
+      <p>After each disaster incident, the following <b>must be</b> reviewed and any recommendations considered:</p>
+      <ul>
+        <li>
+          <p>The IT Disaster Recovery Plan to consider lessons learnt and any improvements;</p>
+        </li>
+        <li>
+          <p>The design of the IT system and controls implements to reduce the impact of a disaster event or aid the restoration process;</p>
+        </li>
+        <li>
+          <p>Any changes to the relevant IT Security Incident Management Plan.</p>
+        </li>
+      </ul>
+      <p><b>Note</b> – The <xref href="it-incident-management-policy.dita" format="dita">IT Security – IT Incident Management Policy</xref> contains the provision for an incident report to be compiled. Any recovery and review work should be done in conjunction with the production of the overall incident report.</p>
+    </body>
+  </topic>
+</topic>
