@@ -285,8 +285,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (>= 206)
-  jekyll-redirect-from
+  jekyll-redirect-from (>= 0.15.0)
   ministryofjustice-danger
 
 BUNDLED WITH
-   2.2.3
+   1.17.3
