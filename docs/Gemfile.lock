@@ -233,11 +233,11 @@ GEM
     ministryofjustice-danger (0.1.2)
       danger (~> 5)
       danger-commit_lint (~> 0)
-    minitest (5.14.2)
+    minitest (5.14.3)
     multipart-post (2.1.1)
     nap (1.1.0)
     no_proxy_fix (0.1.2)
-    nokogiri (1.11.0)
+    nokogiri (1.11.1)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     octokit (4.20.0)
@@ -285,7 +285,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (>= 206)
-  jekyll-redirect-from
+  jekyll-redirect-from (>= 0.15.0)
   ministryofjustice-danger
 
 BUNDLED WITH
