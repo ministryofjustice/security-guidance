@@ -4,6 +4,4 @@ gem 'github-pages', '>= 206', group: :jekyll_plugins
 
 gem 'jekyll-redirect-from', '>= 0.15.0'
 
-group :development do
-  gem 'ministryofjustice-danger'
-end
+gem 'kramdown', '>= 2.3.0'
