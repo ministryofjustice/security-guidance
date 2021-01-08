@@ -40,6 +40,12 @@ For more information about the main security issues that are likely to affect re
 
 To reset your password, you will need to contact the [IT Service Desk](#general-enquiries-including-theft-and-loss). They will carry out checks to confirm your identity. This might include asking your line manager or court manager to confirm your identity, by sending an email to the IT Service Desk. Once your identity is confirmed, your password will be reset and you will quickly regain access to your laptop.
 
+## Reusing equipment
+
+When a project completes, or a colleague leaves or moves to a new role, equipment might become available. In many cases, it might be more cost-effective to consider reusing or reassigning this equipment, rather than disposing of it.
+
+Any equipment must be completely 'cleaned' to an 'as-new' state before it is reused or reassigned. This means that all storage media in the device must be fully erased.
+
 ## General enquiries, including theft and loss
 
 **Dom1/Quantum - Technology Service Desk**

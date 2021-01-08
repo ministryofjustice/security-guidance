@@ -8,7 +8,7 @@ The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 4 January 2021.
+This guidance is dated: 8 January 2021.
 
 For convenience, offline versions of this guidance are available.
 
@@ -18,7 +18,7 @@ For convenience, offline versions of this guidance are available.
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 |Suppliers. Includes just the details of primary interest to suppliers.|[PDF](moj-guidance-suppliers.pdf)|[EPUB](moj-guidance-suppliers.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 4 February 2021.
+The offline versions of this guidance are time-limited, and are not valid after 8 February 2021.
 
 ### Searching this content
 
@@ -151,7 +151,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 #### Media handling
 
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Removable media](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/)|All users|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Secure disposal of IT equipment](https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-it-equipment/)|All users|
+|[Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)|All users|
 
 ### Access control
 

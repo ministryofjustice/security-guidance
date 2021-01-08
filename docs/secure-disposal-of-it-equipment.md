@@ -10,8 +10,8 @@ To determine the correct disposal requirement, use the following table to identi
 
 |Equipment or asset type|Data deletion method|Disposal method|
 |-----------------------|--------------------|---------------|
-|Flash \(USB\)|Delete the data, or erase using manufacturer instructions.|Destroy using commercially available disintegration equipment, to produce particles of a maximum of 6 mm in any direction.|
-|Hard disk drive|Overwrite the entire storage space with random or garbage data, verifying that only the data used to perform the overwrite can be read back.|Break the platters into at least 4 pieces. This can be done either manually or by using a commercially available destruction product suitable for use with hard disks. Alternatively, apply a Lower Level degauss and then apply a destructive procedure that prevents the disk from turning. For example, punch holes into the platters, or twist or bend them.|
+|Flash \(USB\) and Solid State Drives \(SSD\)|Delete the data, or erase using manufacturer instructions.|Destroy using commercially available disintegration equipment, to produce particles of a maximum of 6 mm in any direction.|
+|Hard disk|Overwrite the entire storage space with random or garbage data, verifying that only the data used to perform the overwrite can be read back.|Break the platters into at least 4 pieces. This can be done either manually or by using a commercially available destruction product suitable for use with hard disks. Alternatively, apply a Lower Level degauss and then apply a destructive procedure that prevents the disk from turning. For example, punch holes into the platters, or twist or bend them.|
 |Magnetic tapes and floppy disks|Overwrite the entire storage space with random or garbage data, verifying that only the data used to perform the overwrite can be read back.|Destroy using a commercially available shredder that meets a recognised international destruction standard. Particles of tape should be no larger than 6 x 15 mm. Alternatively, apply a Lower Level degauss and then cut the tape to no larger than 20 mm in any direction.|
 |Optical media|Data deletion is not possible.See also the note following this table.|Shred or disintegrate using equipment that meets a recognised international destruction standard. Particles should be no larger than 6 mm in any direction. A high capacity CD and DVD shredder is available at 102 Petty France, suitable for items up to `TOP SECRET`. Contact [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk) for help with this option.|
 
@@ -22,6 +22,12 @@ Owners of the data storage devices are responsible for procuring services that m
 Wherever possible and appropriate, managers should pool together equipment with that of local colleagues to share service costs.
 
 If you have any concerns about moving items between sites securely, contact the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
+
+## Reusing equipment
+
+When a project completes, or a colleague leaves or moves to a new role, equipment might become available. In many cases, it might be more cost-effective to consider reusing or reassigning this equipment, rather than disposing of it.
+
+Any equipment must be completely 'cleaned' to an 'as-new' state before it is reused or reassigned. This means that all storage media in the device must be fully erased.
 
 ## Contacts
 
