@@ -47,7 +47,7 @@ It enables gathering of more information to detect stealthier or more capable at
 In this tier, systems must generate additional bespoke (customised) event types.
 These event types are typically agreed in context between the <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security team and the associated product or service team.
 The objective is produce logging that reliably identifies and captures key nuance and contextual security monitoring data, based on applicable threats and risks.</p>
-      <p>Last updated: April 20th, 2020.</p>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

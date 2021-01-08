@@ -24,3 +24,7 @@ It is good practice to lock all rooms and office areas when they are not in use.
 
 Information left on desks is also more likely to be damaged or destroyed in a disaster such as fire or flood.
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

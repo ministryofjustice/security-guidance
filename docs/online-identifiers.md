@@ -36,3 +36,7 @@ Default permissions must be set on logging and monitoring systems such that only
 
 Bulk exporting from such logging systems is prohibited by default as sensitive logs should be analysed programmatically in-situ. Bulk exporting should be prevented by default technical/access controls where possible. If a bulk extract from a logging system is required \(for example, into a more complex analytical system or in a wider migration\) then this requires the approval of the MoJ CISO.
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

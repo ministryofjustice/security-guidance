@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="training-and-education">
   <title>Training and Education</title>
@@ -24,4 +23,5 @@
       This should ensure that the new staff member is made aware of their security responsibilities whilst working at the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

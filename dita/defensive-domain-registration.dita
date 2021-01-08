@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="defensive-domain-registration">
   <title>Defensive domain registrations</title>
@@ -105,4 +104,5 @@
       <p><ph conref="conrefs.dita#conrefs/moj"/> organisations should contact <xref href="mailto://domains@digital.justice.gov.uk" format="html" scope="external">domains@digital.justice.gov.uk</xref> for assistance with defensive doman registrations and operations.</p>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

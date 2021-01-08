@@ -32,3 +32,11 @@ If you think your device is lost, stolen, 'hacked', or in some way compromised, 
 
 Find out more about how to report a security incident [here](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/).
 
+## Contact details
+
+For any further questions relating to security, contact: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

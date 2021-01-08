@@ -60,3 +60,7 @@ If you disagree with our decision about your request, or there is some other pro
 
 If you'd prefer a different escalation route, contact [ciso@digital.justice.gov.uk](mailto:ciso@digital.justice.gov.uk).
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

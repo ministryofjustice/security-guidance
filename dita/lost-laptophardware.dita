@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="lost-laptophardware">
   <title>Lost Laptop or other IT security incident</title>
@@ -35,4 +34,6 @@
       <p>Find out more about how to report a security incident <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">here</xref>.</p>
     </body>
   </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

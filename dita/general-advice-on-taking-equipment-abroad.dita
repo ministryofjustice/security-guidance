@@ -73,5 +73,6 @@
 		</body>
 		<topic id="general-enquiries-including-theft-and-loss" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title></title></topic>
 		<topic id="incidents" conref="conrefs.dita#incidents"><title></title></topic>
-	</topic>
+  </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

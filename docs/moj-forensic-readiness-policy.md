@@ -316,3 +316,7 @@ The impact upon any relevant ongoing operational activity has to be considered b
 |10|IT Security - Forensics Readiness Guide|V0-01|
 |11|IT Security – IT Asset Disposal Guide|V0-01|
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

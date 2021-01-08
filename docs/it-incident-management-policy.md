@@ -377,3 +377,7 @@ The following is a generic IT Security incident escalation path which provides a
 
 ![IT Security Incident Escalation Path](images/incident-management-plan-and-process-guide-diagram-4.png)
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

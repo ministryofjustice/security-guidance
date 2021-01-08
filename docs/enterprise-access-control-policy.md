@@ -159,3 +159,7 @@ Table 2 outlines the review schedule which must be applied to all MoJ IT systems
 |**Review of user access / authentication tokens**|Review the usages of remote access authentication tokens \(e.g. RSA token\) and identify accounts where a token has not been used in the last 3 months. These token must be disabled.|Every 3 months|
 |**Review of user account privileges**|Review the roles and privileges assigned to a User and remove any which are no longer required.|Every 6-12 months \(exact review period to be agreed with the system Accreditor and MoJ ITSO\)|
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

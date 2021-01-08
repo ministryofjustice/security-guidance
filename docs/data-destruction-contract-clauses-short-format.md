@@ -18,3 +18,7 @@ Data Destruction for electronic/magnetic storage **must** include, unless otherw
 
 Data Destruction for printed materials **must** include, unless otherwise superseded by NCSC or specific `Authority` guidance: paper cross-shredding methods to satisfy at least the DIN 66399 Level 4 standard with a maximum cross cut particle surface area 160 \(one hundred and sixty\) millimeters squared with a maximum strip width of 6 \(six\) millimeters.
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

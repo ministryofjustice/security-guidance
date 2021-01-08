@@ -187,7 +187,7 @@
       <p>
         <xref href="https://intranet.noms.gsi.gov.uk/support/information-policy-and-assurance/information-assurance" format="html" scope="external">HMPPS Advice</xref>
       </p>
-      <p>Last updated: April 24th, 2020.</p>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

@@ -135,3 +135,7 @@ The following list outlines the actions that should not be undertaken in relatio
 
 ✖ Install or execute off-the-shelf software without ensuring appropriate support and security arrangements and agreements are in place.
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

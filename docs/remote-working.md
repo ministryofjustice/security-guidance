@@ -182,5 +182,7 @@ To access the following link, you'll need to be connected to the HMPPS Intranet.
 
 [HMPPS Advice](https://intranet.noms.gsi.gov.uk/support/information-policy-and-assurance/information-assurance)
 
-Last updated: April 24th, 2020.
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

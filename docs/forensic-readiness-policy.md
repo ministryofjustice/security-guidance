@@ -30,3 +30,7 @@ The policy on forensic readiness is covered in the [IT Security – Forensic Rea
 
 The document is intended to provide guidance on the development of a Forensic Readiness Plan for MoJ IT Systems, including IT systems hosted by third party suppliers on behalf of the MoJ.
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

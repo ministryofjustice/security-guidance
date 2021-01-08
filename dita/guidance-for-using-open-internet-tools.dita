@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="guidance-for-using-open-internet-tools">
   <title>Guidance for using Open Internet Tools</title>
@@ -201,7 +200,7 @@
           </tbody>
         </tgroup>
       </table>
-      <p>Last updated: April 16th, 2020.</p>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

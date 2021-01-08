@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="data-sovereignty">
   <title>Data sovereignty</title>
@@ -48,11 +47,8 @@
   </topic>
   <topic id="where-to-get-help">
     <title>Where to get help</title>
-    <body>
-      <ul>
-        <li>In the first instance, contact the <ph conref="conrefs.dita#conrefs/moj"/> Cybersecurity team - <ph conref="conrefs.dita#conrefs/catemail"/>.</li>
-        <li>The <ph conref="conrefs.dita#conrefs/moj"/>'s Data Protection Officer - <ph conref="conrefs.dita#conrefs/privacyemail"/>.</li>
-      </ul>
-    </body>
+    <body><p>In the first instance, contact the <ph conref="conrefs.dita#conrefs/moj"/>'s Data Protection Officer - <ph conref="conrefs.dita#conrefs/privacyemail"/>.</p></body>
   </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

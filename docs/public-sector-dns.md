@@ -20,5 +20,9 @@ The Ministry of Justice \(MoJ\) is permitted to use the service for free as a ce
 
 ### Get started
 
-Contact the MoJ Cybersecurity team to be added into MoJ's subscription of the service.
+Contact the MoJ Cybersecurity team \([security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)\) to be added into MoJ's subscription of the service.
+
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="public-sector-dns">
   <title>Public Sector DNS</title>
@@ -28,8 +27,9 @@
     <topic id="get-started">
       <title>Get started</title>
       <body>
-        <p>Contact the <ph conref="conrefs.dita#conrefs/moj"/> Cybersecurity team to be added into <ph conref="conrefs.dita#conrefs/moj"/>'s subscription of the service.</p>
+        <p>Contact the <ph conref="conrefs.dita#conrefs/moj"/> Cybersecurity team (<ph conref="conrefs.dita#conrefs/securityemail"/>) to be added into <ph conref="conrefs.dita#conrefs/moj"/>'s subscription of the service.</p>
       </body>
     </topic>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

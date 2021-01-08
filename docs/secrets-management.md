@@ -28,3 +28,7 @@ Unless by intended design, authentication secrets should never be shared or publ
 
 SSH private keys should be password protected where practical to do so.
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

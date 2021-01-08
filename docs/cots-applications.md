@@ -79,3 +79,7 @@ Where unauthenticated users interact with applications \(for example, a MoJ Goog
 3.  Response size
 4.  Response time
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+
