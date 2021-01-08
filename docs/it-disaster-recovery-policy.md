@@ -181,3 +181,7 @@ After each disaster incident, the following **must be** reviewed and any recomme
 
 **Note** – The [IT Security – IT Incident Management Policy](it-incident-management-policy.md) contains the provision for an incident report to be compiled. Any recovery and review work should be done in conjunction with the production of the overall incident report.
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

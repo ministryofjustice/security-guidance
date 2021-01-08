@@ -10,3 +10,7 @@ There are five simple things we can all do to protect ourselves online:
 
 For more information, see the [Acceptable Use guidance](acceptable-use.md).
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

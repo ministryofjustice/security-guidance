@@ -103,3 +103,7 @@ If you need help *installing* LastPass contact the relevant MoJ IT Service Desk.
 
 If you need help using LastPass such as getting access to shared folders or resetting your primary password as you have forgotten it, contact [lastpass-admins@digital.justice.gov.uk](mailto:lastpass-admins@digital.justice.gov.uk)
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

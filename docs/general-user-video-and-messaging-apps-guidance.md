@@ -176,3 +176,7 @@ Refer to the [Guidance for using Open Internet Tools](guidance-for-using-open-in
 
 [Using third-party applications](https://www.ncsc.gov.uk/collection/mobile-device-guidance/using-third-party-applications)
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

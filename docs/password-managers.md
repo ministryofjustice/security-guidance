@@ -67,3 +67,7 @@ For individual use, have a look at LastPass and 1Password. See which one you lik
 
 See also [Using LastPass Enterprise](using-lastpass.md).
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

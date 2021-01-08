@@ -37,3 +37,7 @@ The following actions require formal authorisation \(e.g. an email confirming th
     -   Any forwarding of email accounts.
     -   Any taking ownership of User accounts.
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="access-control-guide">
   <title>Access Control guide</title>
@@ -143,10 +142,6 @@ Systems holding sensitive information, or systems that are mission critical to t
       </ul>
     </body>
   </topic>
-  <topic id="contact-details">
-    <title>Contact details</title>
-    <body>
-      <p>Contact the Cyber Assistance Team for access control advice – <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></p>
-    </body>
-  </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

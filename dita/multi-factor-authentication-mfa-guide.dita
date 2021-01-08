@@ -80,10 +80,6 @@
       <p audience="audience-basic audience-tech">The <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/passwords/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Password Guide</xref> provides more information on the use of MFA. </p>
     </body>
   </topic>
-  <topic id="contact-details">
-    <title>Contact details</title>
-    <body>
-      <p>Contact the Cyber Assistance Team for advice – <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></p>
-    </body>
-  </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

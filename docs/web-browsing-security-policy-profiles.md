@@ -75,3 +75,7 @@ The following categories of content are blocked for this profile:
 -   Unauthorised Mobile Marketplaces
 -   User-Defined list
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

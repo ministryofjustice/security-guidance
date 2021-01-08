@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="personal-devices">
   <title>Security Guidance for Using a Personal Device</title>
@@ -34,7 +33,7 @@
       <p>
         <i><b>Note</b>: You are not being asked or required to use your own devices for work purposes. If you have access to <ph conref="conrefs.dita#conrefs/moj"/> devices for work purposes, you should use them by default.</i>
       </p>
-      <p>Last updated: April 24th, 2020.</p>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

@@ -12,3 +12,7 @@ Where automated certificate renewal is not possible, new certificates **must** b
 
 To request a manually issued certificate, complete the [certificate request form](https://docs.google.com/document/d/14XbWoudZd-t4-J3mDBcrAeafAbqxwvdkV-u3Zf8eLOs/edit?usp=sharing) and send it, with a [Certificate Signing Request \(CSR\)](https://docs.gandi.net/en/ssl/common_operations/csr.html#generate-csr) \(and an authority email approval if not an MoJ employee e.g. 3rd party supplier\), to [certificates@digital.justice.gov.uk](mailto:certificates@digital.justice.gov.uk).
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

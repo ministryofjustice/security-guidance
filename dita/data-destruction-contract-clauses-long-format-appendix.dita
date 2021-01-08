@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="long-format-appendix">
   <title>Long format appendix</title>
@@ -46,4 +45,5 @@
       <p>The required outcome is to ensure that <codeph>Authority</codeph> data is inaccessible by any reasonable commercial and resourced means (such as commercially available data recovery services).</p>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

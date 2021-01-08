@@ -23,5 +23,7 @@ This guidance applies to all staff and contractors who work for the MoJ. It prov
 
 ***Note**: You are not being asked or required to use your own devices for work purposes. If you have access to MoJ devices for work purposes, you should use them by default.*
 
-Last updated: April 24th, 2020.
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

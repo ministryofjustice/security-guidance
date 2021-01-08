@@ -29,3 +29,7 @@ The Cabinet Office maintains the following list of core descriptors to ensure a 
 
 Descriptors are **not** codewords.
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

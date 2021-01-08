@@ -59,10 +59,6 @@ granted access rights to view <codeph>OFFICIAL</codeph> information. Some roles 
  		<p>Send this information to the <ph conref="conrefs.dita#conrefs/moj"/> Group Security Team, by emailing: <ph conref="conrefs.dita#conrefs/groupsecurityemail"/>. The team will check with the Cluster, to determine the individual's clearance status, if any. If you are authorised to receive the answer, the team will reply to you with the answer.</p>
   	</body>
   </topic>
-  <topic id="contact-details">
-    <title>Contact details</title>
-    <body>
-      <p>Contact the Cyber Assistance Team for advice - <ph conref="conrefs.dita#conrefs/catemail"/></p>
-    </body>
-  </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

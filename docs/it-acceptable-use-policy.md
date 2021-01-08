@@ -247,3 +247,7 @@ For the purposes of business continuity it may sometimes be necessary for the Mo
     All Users **must be** aware that business communication \(such as e-mail mailboxes\) may be accessed if they are absent from work. This can only be requested and authorised by a line manager where the MoJ ITSO and MoJ HR may be consulted.
 
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

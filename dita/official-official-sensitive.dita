@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="official-official-sensitive">
   <title>OFFICIAL, OFFICIAL-SENSITIVE</title>
@@ -23,8 +22,7 @@
       <body>
         <p>Descriptors <i>can</i> be applied (but they do not need to be) to help identify certain categories of <codeph>SENSITIVE</codeph> information.</p>
         <p>Descriptors should be applied in the format <codeph>OFFICIAL-SENSITIVE [DESCRIPTOR]</codeph></p>
-        <p>The Cabinet Office maintains the following list of core descriptors to ensure a consistent
-approach is adopted across all departments:</p>
+        <p>The Cabinet Office maintains the following list of core descriptors to ensure a consistent approach is adopted across all departments:</p>
         <ul>
           <li>
             <p><codeph>COMMERCIAL</codeph>: Commercial- or market-sensitive information, including that subject to statutory or regulatory obligations, that may be damaging to HMG or to a commercial partner if improperly accessed.</p>
@@ -40,4 +38,5 @@ approach is adopted across all departments:</p>
       </body>
     </topic>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

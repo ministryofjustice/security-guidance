@@ -159,5 +159,7 @@ For further help about aspects of using OITs within the MoJ, contact:
 |Information Assurance|[Compliance and Information Assurance Branch](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/)|
 |Personal Data|[Disclosure Team](mailto:data.access@justice.gov.uk)|
 
-Last updated: April 16th, 2020.
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="acceptable-use">
   <title>Acceptable use of Information Technology at work</title>
@@ -152,4 +151,5 @@
         The same applies if you customise the desktop environment of your equipment, for example by changing the desktop image.</p>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

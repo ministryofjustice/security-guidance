@@ -12,3 +12,7 @@ The Ministry of Justice \(MoJ\)'s Information Security awareness programme plays
 
 Guidance is provided to staff via the Security section of the MoJ Intranet, [https://intranet.justice.gov.uk/guidance/security/](https://intranet.justice.gov.uk/guidance/security/). All new staff starting work within the MoJ will receive mandatory IA training. This should ensure that the new staff member is made aware of their security responsibilities whilst working at the MoJ.
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

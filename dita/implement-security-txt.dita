@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="implement-security-txt">
   <title>Implementing security.txt</title>
@@ -34,4 +33,5 @@
       <p>Non-production domains resolvable from the public Internet (for example, a demo deployment of a <ph conref="conrefs.dita#conrefs/moj"/> digital service or prototype) should also implement <codeph>security.txt</codeph> as described above.</p>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

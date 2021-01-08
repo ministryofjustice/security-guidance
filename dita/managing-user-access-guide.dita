@@ -66,10 +66,6 @@
       <p>The Government Digital Service (GDS) recommends the use of the open authorisation standard '<xref href="https://oauth.net/2/" format="html" scope="external">OAuth2</xref>' as a means to authenticate users. See the <xref href="https://www.gov.uk/guidance/gds-api-technical-and-data-standards" format="html" scope="external">GDS guide</xref> for more information.</p>
     </body>
   </topic>
-  <topic id="contact-details">
-    <title>Contact details</title>
-    <body>
-      <p>Contact the Cyber Assistance Team for advice - <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></p>
-    </body>
-  </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
