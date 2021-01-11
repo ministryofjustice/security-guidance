@@ -64,18 +64,18 @@
 							refer to the <ph conref="#conrefs/ncsc"/>,
 							contact <ph conref="#conrefs/securityemail"/>.</li>
 						<li>IS1 (HMG Infosec Standard 1 Technical Risk Assessment),
-							see the <ph conref="#gov007"/>.</li>
+							see the <ph conref="#conrefs/gov007"/>.</li>
 						<li>IS4 (HMG Infosec Standard 4 Communications Security and Cryptography),
-							see the <ph conref="#gov007"/>.</li>
+							see the <ph conref="#conrefs/gov007"/>.</li>
 						<li>IS6 (HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk),
-							see the <ph conref="#gov007"/>.</li>
+							see the <ph conref="#conrefs/gov007"/>.</li>
 						<li>ITSO (Information Technology Security Officer),
 							contact the <ph conref="#conrefs/ciso"/> (<ph conref="#conrefs/securityemail"/>).</li>
 						<li><codeph>RESTRICTED</codeph>,
 							an older information classification marking<ph audience="audience-basic audience-tech">,
 							see <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref></ph>.</li>
 						<li>SPF (<xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">Security Policy Framework</xref>),
-							see the <ph conref="#gov007"/>,
+							see the <ph conref="#conrefs/gov007"/>,
 							contact <ph conref="#conrefs/securityemail"/>.</li>
 					</ul>
 				</note>
