@@ -150,7 +150,7 @@
 		</ant>
 		-->
 		<exec dir="${dita}" executable="ditac" output="build-tech.txt">
-			<arg line="-images img -p xsl-resources-directory res -filter epub.ditaval -filter audience-tech.ditaval -format epub3 -index -v out/moj-guidance-tech.epub moj-guidance.ditamap"/>
+			<arg line="-images img -p xsl-resources-directory res -filter audience-tech-ditac.ditaval -format epub3 -index -v out/moj-guidance-tech.epub moj-guidance.ditamap"/>
 		</exec>
 		<!-- Report results -->
 		<loadfile property="epub-tech" srcFile="build-tech.txt" />
@@ -170,7 +170,7 @@
 		</ant>
 		-->
 		<exec dir="${dita}" executable="ditac" output="build-suppliers.txt">
-			<arg line="-images img -p xsl-resources-directory res -filter epub.ditaval -filter audience-suppliers.ditaval -format epub3 -index -v out/moj-guidance-suppliers.epub moj-guidance.ditamap"/>
+			<arg line="-images img -p xsl-resources-directory res -filter audience-suppliers-ditac.ditaval -format epub3 -index -v out/moj-guidance-suppliers.epub moj-guidance.ditamap"/>
 		</exec>
 		<!-- Report results -->
 		<loadfile property="epub-suppliers" srcFile="build-suppliers.txt" />
@@ -190,7 +190,7 @@
 		</ant>
 		-->
 		<exec dir="${dita}" executable="ditac" output="build-basic.txt">
-			<arg line="-images img -p xsl-resources-directory res -filter epub.ditaval -filter audience-basic.ditaval -format epub3 -index -v out/moj-guidance.epub moj-guidance.ditamap"/>
+			<arg line="-images img -p xsl-resources-directory res -filter audience-basic-ditac.ditaval -format epub3 -index -v out/moj-guidance.epub moj-guidance.ditamap"/>
 		</exec>
 		<!-- Report results -->
 		<loadfile property="epub-basic" srcFile="build-basic.txt" />
