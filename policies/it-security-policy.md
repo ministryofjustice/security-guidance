@@ -190,7 +190,9 @@ The MoJ risk assessment and information assurance is defined in the [Information
 
 ### Audit
 
-A security audit is a systematic evaluation of the MoJ's IT security management system which is performed to maintain effective security policies and practices. These checks are subject to self or peer audit by operational line management, contract managers or MoJ HQ managers, as judged to be appropriate by the managers with responsibility for delivery.  For instance, checks on Information Asset Registers and Information Risk Registers should be carried out quarterly but other information assurance checks may be carried out less frequently or triggered by events such as contract renewals.
+A security audit is a systematic evaluation of the MoJ's IT security management system which is performed to maintain effective security policies and practices. These checks are subject to self or peer audit by operational line management, contract managers or MoJ HQ managers, as judged to be appropriate by the managers with responsibility for delivery.  For instance, checks on Information Asset Registers and Information Risk Registers should be carried out quarterly but other information assurance checks may be carried out less frequently or triggered by events such as contract renewals.  
+
+Third party audits will be carried out by the [Government Internal Audit Agency](https://www.gov.uk/government/organisations/government-internal-audit-agency) (GIAA) to provide an external evaluation of policies and practices, for more information see contact information below.
 
 When conducting an audit:
 
@@ -198,9 +200,12 @@ When conducting an audit:
 - details provided should include the implementation of any technical security control in an IT system documentary evidence of changes must be reviewed
 - the evaluation should cover all types of changes (including configuration changes) to IT systems and the IT security implications of those changes (this includes the case where no significant IT security impacts are identified)
 - evidence of operating effectiveness for technical controls must be provided and the desired risk mitigation (as documented in the [Information Assurance Framework Process](https://docs.google.com/document/d/1ni5bn9vXUj4JFKcoiEO8x31TFCE3AVWN-HxZcVzfNnc/edit?ts=5f10064a))
-- activities involving verification of operational systems should be carefully planned and agreed to minimise disruptions to business processes.
+- activities involving verification of operational systems should be carefully planned and agreed to minimise disruptions to business processes.˜
 
-Third party audits will be carried out by the Government Internal Audit Agency (GIAA) to provide an external evaluation of policies and practices, for more information see contact information below. 
+## Enforcement
+- This policy is enforced by lower level policies, standards, procedures and guidance.
+- Non-conformance with this policy could result in disciplinary action taken in accordance with the department’s Disciplinary procedures. This could result in penalties up to and including dismissal. If an employee commits a criminal offence, s/he may also be prosecuted. In such cases, the department will always co-operate with the relevant authorities, and provide appropriate evidence.
+
 
 ## Contact details
 

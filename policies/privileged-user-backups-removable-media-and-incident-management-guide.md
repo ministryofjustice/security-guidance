@@ -37,7 +37,7 @@ Privileged users need to ensure that there are backups of system data in order t
 
 Privileged users play a front-line role in detecting and responding to incidents. To ensure that they are prepared to respond to any incidents, privileged users must follow the points below.
 
-- If privileged users identify a suspected or known security breach through their regular system monitoring they must report it immediately to the System Manager, the Risk Advisor (part of the Cyber Assistance Team) and the MoJ's Technology Service Desk for any incidents involving technology. Incidents will then be escalated to the Operational Security Team (OST). For non-technology incidents contact the MoJ Security Team, contact information given below. Security breaches can include personnel, hardware, software, communications, data and information or physical security breaches. See the Incident Management Policy and Guide for further details.
+- If privileged users identify a suspected or known security breach through their regular system monitoring they must report it immediately to the System Manager, the Risk Advisor (part of the Cyber Assistance Team) and the MoJ's Technology Service Desk for any incidents involving technology. Incidents will then be escalated to the Operational Security Team (OST). For non-technology incidents, where security issues not related to IT have been identified, contact the MoJ Group Security Team, contact information given below. Security breaches can include personnel, hardware, software, communications, data and information or physical security breaches. See the Incident Management Policy and Guide for further details.
 - Privileged users must know and be able to implement the incident management plans and processes required for their systems. For instance, within HMPPS, privileged users should know that the HMPPS Incident Management function operates within the HMPPS Infosec and Service Team and when they are to be contacted.
 - Any system-specific incident management controls must align with the [MoJ's IT Disaster Recovery Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/) and the Incident Management Policy and Guide.
 
@@ -47,4 +47,4 @@ Privileged users play a front-line role in detecting and responding to incidents
 
  - Contact the Technology Service Desk to report a suspected incident: 0800 917 5148.
 
- - Contact the MoJ Security Team to report non-technology incidents - [mailto:mojgroupsecurity@justice.gov.uk](mojgroupsecurity@justice.gov.uk)
+ - Contact the MoJ Group Security Team to report non-technology incidents - [mailto:mojgroupsecurity@justice.gov.uk](mojgroupsecurity@justice.gov.uk)
