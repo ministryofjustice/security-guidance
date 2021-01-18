@@ -8,17 +8,16 @@ The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guida
 
 **Note:**
 
-This guidance is dated: 12 January 2021.
+This guidance is dated: 18 January 2021.
 
 For convenience, offline versions of this guidance are available.
 
 |Audience|PDF format|EPUB format|
 |--------|----------|-----------|
-|All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
-|Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
-|Suppliers. Includes just the details of primary interest to suppliers.|[PDF](moj-guidance-suppliers.pdf)|[EPUB](moj-guidance-suppliers.epub)|
+|All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|On request.|
+|Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|On request.|
 
-The offline versions of this guidance are time-limited, and are not valid after 12 February 2021.
+The offline versions of this guidance are time-limited, and are not valid after 18 February 2021.
 
 ### Searching this content
 

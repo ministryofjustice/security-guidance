@@ -29,18 +29,20 @@ has made for the products we operate, and our relationships with suppliers.</p>
 						<row>
 							<entry colname="col1">All users. Does not include lots of technical detail.</entry>
 							<entry colname="col2"><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></entry>
-							<entry colname="col3"><xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref></entry>
+							<entry colname="col3"><!-- <xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref> --> On request.</entry>
 						</row>
 						<row>
 							<entry colname="col1">Technical users. Includes lots of technical detail.</entry>
 							<entry colname="col2"><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></entry>
-							<entry colname="col3"><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></entry>
-						</row>
+							<entry colname="col3"><!-- <xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref> --> On request.</entry>
+            </row>
+            <!-- 
 						<row>
 							<entry colname="col1">Suppliers. Includes just the details of primary interest to suppliers.</entry>
 							<entry colname="col2"><xref href="moj-guidance-suppliers.pdf" format="pdf" scope="peer">PDF</xref></entry>
 							<entry colname="col3"><xref href="moj-guidance-suppliers.epub" format="epub" scope="peer">EPUB</xref></entry>
-						</row>
+            </row>
+          -->
 					</tbody>
 				</tgroup>
 			</table>

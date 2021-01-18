@@ -198,7 +198,9 @@
 		<delete file="build-basic.txt"/>
 	</target>
 
-	<target name="compile" depends="compile_md,compile_pdf,compile_epub,compile_word"/>
+	<!-- Disable epub builds for the moment.
+	<target name="compile" depends="compile_md,compile_pdf,compile_epub,compile_word"/> -->
+	<target name="compile" depends="compile_md,compile_pdf,compile_word"/>
 
 	<target name="enableRedirect">
 		<echo message="Redirecting file: ${theFile}"/>
