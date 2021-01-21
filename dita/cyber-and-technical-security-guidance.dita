@@ -10,46 +10,63 @@
 <xref href="https://www.gov.uk/government/organisations/ministry-of-justice" format="html" scope="external"><ph conref="conrefs.dita#conrefs/mojlong"/></xref>
 has made for the products we operate, and our relationships with suppliers.</p>
 			<p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> covers technical decisions in the <ph conref="conrefs.dita#conrefs/moj"/> more widely.</p>
-			<note>
-			<p>This guidance is dated: <ph conref="tstamp.dita#tstamp/tstamp"/>.</p>
-			<p platform="html">For convenience, offline versions of this guidance are available.
-			<table>
-				<tgroup cols="3">
-					<colspec colname="col1" colnum="1" colwidth="3*"/>
-					<colspec colname="col2" colnum="2" colwidth="1*"/>
-					<colspec colname="col3" colnum="3" colwidth="1*"/>
-					<thead>
-						<row>
-							<entry colname="col1">Audience</entry>
-							<entry colname="col2">PDF format</entry>
-							<entry colname="col3">EPUB format</entry>
-						</row>
-					</thead>
-					<tbody>
-						<row>
-							<entry colname="col1">All users. Does not include lots of technical detail.</entry>
-							<entry colname="col2"><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></entry>
-							<entry colname="col3"><!-- <xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref> --> On request.</entry>
-						</row>
-						<row>
-							<entry colname="col1">Technical users. Includes lots of technical detail.</entry>
-							<entry colname="col2"><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></entry>
-							<entry colname="col3"><!-- <xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref> --> On request.</entry>
-            </row>
-            <!-- 
-						<row>
-							<entry colname="col1">Suppliers. Includes just the details of primary interest to suppliers.</entry>
-							<entry colname="col2"><xref href="moj-guidance-suppliers.pdf" format="pdf" scope="peer">PDF</xref></entry>
-							<entry colname="col3"><xref href="moj-guidance-suppliers.epub" format="epub" scope="peer">EPUB</xref></entry>
-            </row>
-          -->
-					</tbody>
-				</tgroup>
-			</table>
-			 The offline versions of this guidance are time-limited, and are <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
-			<p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, see <xref href="https://ministryofjustice.github.io/security-guidance/" format="html" scope="external">here</xref>.</p>
-			</note>
-		</body>
+			<note>This guidance is dated: <ph conref="tstamp.dita#tstamp/tstamp"/>.</note>
+    </body>
+    <topic id="popular-links" platform="html">
+      <title>Popular links</title>
+      <body>
+        <p>Popular links for all users:
+          <ul>
+            <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">General Apps Guidance</xref></li>
+            <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements Guide</xref></li>
+            <li><xref href="official-official-sensitive.dita" format="dita">OFFICIAL, OFFICIAL-SENSITIVE</xref> classifications and handling</li>
+            <li><xref href="accessing-moj-it-systems-from-abroad.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Abroad</xref></li>
+            <li><xref href="remote-working.dita" format="dita">Remote Working</xref></li>
+          </ul>
+        </p>
+      </body>
+    </topic>
+    <topic id="offline-content">
+      <title>Offline content</title>
+      <body>
+        <p platform="html">For convenience, offline versions of this guidance are available.
+          <table>
+            <tgroup cols="3">
+              <colspec colname="col1" colnum="1" colwidth="3*"/>
+              <colspec colname="col2" colnum="2" colwidth="1*"/>
+              <colspec colname="col3" colnum="3" colwidth="1*"/>
+              <thead>
+                <row>
+                  <entry colname="col1">Audience</entry>
+                  <entry colname="col2">PDF format</entry>
+                  <entry colname="col3">EPUB format</entry>
+                </row>
+              </thead>
+              <tbody>
+                <row>
+                  <entry colname="col1">All users. Does not include lots of technical detail.</entry>
+                  <entry colname="col2"><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></entry>
+                  <entry colname="col3"><!-- <xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref> --> On request.</entry>
+                </row>
+                <row>
+                  <entry colname="col1">Technical users. Includes lots of technical detail.</entry>
+                  <entry colname="col2"><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></entry>
+                  <entry colname="col3"><!-- <xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref> --> On request.</entry>
+                </row>
+                <!-- 
+                <row>
+                  <entry colname="col1">Suppliers. Includes just the details of primary interest to suppliers.</entry>
+                  <entry colname="col2"><xref href="moj-guidance-suppliers.pdf" format="pdf" scope="peer">PDF</xref></entry>
+                  <entry colname="col3"><xref href="moj-guidance-suppliers.epub" format="epub" scope="peer">EPUB</xref></entry>
+                </row>
+              -->
+              </tbody>
+            </tgroup>
+          </table>
+        The offline versions of this guidance are time-limited, and are <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
+        <p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, see <xref href="https://ministryofjustice.github.io/security-guidance/" format="html" scope="external">here</xref>.</p>
+      </body>
+      </topic>
 		<topic id="searching" platform="html">
 			<title>Searching this content</title>
 			<body>

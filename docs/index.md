@@ -6,9 +6,19 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:**
+**Note:** This guidance is dated: 21 January 2021.
 
-This guidance is dated: 18 January 2021.
+### Popular links
+
+Popular links for all users:
+
+-   [General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)
+-   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
+-   [OFFICIAL, OFFICIAL-SENSITIVE](official-official-sensitive.md) classifications and handling
+-   [Accessing MoJ IT Systems From Abroad](accessing-moj-it-systems-from-abroad.md)
+-   [Remote Working](remote-working.md)
+
+### Offline content
 
 For convenience, offline versions of this guidance are available.
 
@@ -17,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|On request.|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|On request.|
 
-The offline versions of this guidance are time-limited, and are not valid after 18 February 2021.
+The offline versions of this guidance are time-limited, and are not valid after 21 February 2021.
 
 ### Searching this content
 
