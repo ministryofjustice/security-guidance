@@ -22,9 +22,11 @@
     <topic id="get-started">
       <title>Get started</title>
       <body>
-        <p>Contact the <ph conref="conrefs.dita#conrefs/moj"/> Cybersecurity team to be added into <ph conref="conrefs.dita#conrefs/moj"/>'s subscription of the service.</p>
+        <p><xref href="#cyber-security-advice" format="dita">Contact</xref> the <ph conref="conrefs.dita#conrefs/moj"/> Cybersecurity team
+          to be added into <ph conref="conrefs.dita#conrefs/moj"/>'s subscription of the service.</p>
       </body>
     </topic>
   </topic>
+  <topic id="cyber-security-advice" conref="conrefs.dita#cyber-security-advice"><title/></topic>
   <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

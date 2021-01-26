@@ -18,7 +18,14 @@ The MoJ is permitted to use the service for free as a central government organis
 
 ### Get started
 
-Contact the MoJ Cybersecurity team to be added into MoJ's subscription of the service.
+[Contact](#cyber-security-advice) the MoJ Cybersecurity team to be added into MoJ's subscription of the service.
+
+## Cyber Security Advice
+
+**Cyber Consultants & Risk Advisors**
+
+-   Email: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)
+-   Slack: `#security`
 
 ## Feedback
 
