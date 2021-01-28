@@ -202,11 +202,9 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta audience="audience-tech"><navtitle>Technical vulnerability management</navtitle></topicmeta>
 			<topicref href="implement-security-txt.dita" type="topic" audience="audience-tech"/>
 			<topicref href="vulnerability-disclosure-policy.dita" type="topic" audience="audience-tech"/>
-			<topicref href="vulnerability-scanning.dita" type="topic" audience="audience-tech">
-				<topicref href="vulnerability-scanning-and-patch-management-guide.dita" type="topic" audience="audience-tech">
-					<topicref href="vulnerability-scanning-guide.dita" type="topic" audience="audience-tech"/>
-					<topicref href="patch-management-guide.dita" type="topic" audience="audience-tech"/>
-				</topicref>
+			<topicref href="vulnerability-scanning-and-patch-management-guide.dita" type="topic" audience="audience-tech">
+				<topicref href="vulnerability-scanning-guide.dita" type="topic" audience="audience-tech"/>
+				<topicref href="patch-management-guide.dita" type="topic" audience="audience-tech"/>
 			</topicref>
 		</topichead>
 		<!--

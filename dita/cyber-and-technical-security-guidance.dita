@@ -976,10 +976,6 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="vulnerability-scanning.dita" format="dita">Vulnerability scanning</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
-              <row>
                 <entry colname="col1" align="left"><xref href="vulnerability-scanning-and-patch-management-guide.dita" format="dita">Vulnerability scanning and patch management guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>

@@ -8,14 +8,15 @@ This guide explains the patching requirements for Ministry of Justice \(MoJ\) sy
 
 This guide is a sub-page to the [Vulnerability Scanning and Patch Management Guide](vulnerability-scanning-and-patch-management-guide.md)
 
+The intent is to avoid compromise of MoJ systems because of vulnerabilities.
+
 ## Patching of MoJ systems and equipment
 
-The patching guide must be followed for all asset types including, but not limited to:
+This guidance must be followed for all systems and services developed or procured by the MoJ. It applies to all asset types including, but not limited to:
 
--   Internet facing websites.
--   End user client devices.
--   Infrastructure devices.
--   Digital services.
+-   Internet facing websites and digital services.
+-   End user client devices, such as Desktop PCs, laptops, tablets, and mobile phones.
+-   Infrastructure devices, such as networking equipment, servers, and printers.
 -   Applications.
 -   Internet-of-Things \(IoT\) devices.
 
@@ -27,9 +28,26 @@ In general, there are three options for patching:
 
 **Note:** The nature of the patching cycle will depend on what is agreed during development, deployment, and subsequent maintenance of the system or service.
 
+Patching is the application of a vendor-supplied security patch. It can also refer to other ways of achieving the same goal. Examples include:
+
+-   Virtual patches.
+-   Removal of vulnerable services or functionality.
+-   Disabling and preventing access.
+
+Patching might include recompiling applications to incorporate security updates. The updates might be in third party libraries or other code.
+
+Always apply patches as soon as possible. Where this guidance mentions a time limit, you should apply patches no later than the time given. Some important or sensitive systems might need more urgent patching. For example, a system might need you to apply 'critical' or 'high risk' patches within 7 days.
+
 Where patching or other mitigation is required, it must be applied in compliance with the Patching Schedule in this guide, described [below](#patching-schedule).
 
-Operating systems and applications installed on systems must be licensed and supported. To ensure that patches are implemented on systems, you must either:
+Operating systems and applications installed on systems must be:
+
+-   Licensed and supported.
+-   Removed from devices when no longer licensed or supported.
+-   Patched as soon as possible.
+-   Patched within no more than 14 days of an update being released, where the fix is for a 'critical' or 'high risk' vulnerability.
+
+To ensure that patches are implemented on systems, you must either:
 
 -   Enable and use any vendor-provided automatic patch deployment mechanisms for the system.
 -   If automatic patch deployment is not available, apply patches manually according to the schedule outlined in this guide.
@@ -67,9 +85,7 @@ This schedule outline is considered a baseline. Some systems might require diffe
 
 An IRAR is normally completed by Security Architects and Risk Assessors, in conversation with the system architects, designers and developers. The IRAR document must also be agreed with the Business Continuity Team. For more information regarding IRARs, and how to create and maintain them, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
-|Patching Schedule|
 |Rating \(Severity\)|Infrastructure Devices; Server Applications; Digital Services|End User Client Devices|Web Check Reporting|
-|-----------------|
 |-------------------|-------------------------------------------------------------|-----------------------|-------------------|
 |Critical \(4\)|3-7 days after vulnerability alert released.|14 days after vulnerability alert released.|**Urgent:** Serious configuration problems that you should fix without delay and no later than 28 days after the vulnerability alert is released.|
 |High Risk \(3\)|3-7 days after vulnerability alert released.|14 days after vulnerability alert released.|**Advisory:** Configuration problems that leave the site vulnerable. Patches should be implemented no later than 28 days after the vulnerability alert is released.|

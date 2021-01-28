@@ -9,17 +9,20 @@
         systems once a vulnerability has been identified.</p>
       <p>This guide is a sub-page to the
         <xref href="vulnerability-scanning-and-patch-management-guide.dita" format="dita">Vulnerability Scanning and Patch Management Guide</xref></p>
+      <p>The intent is to avoid compromise of <ph conref="conrefs.dita#conrefs/moj"/> systems
+        because of vulnerabilities.</p>
     </body>
   </topic>
   <topic id="patching-of-moj-systems-and-equipment">
     <title>Patching of <ph conref="conrefs.dita#conrefs/moj"/> systems and equipment</title>
     <body>
-      <p>The patching guide must be followed for all asset types including, but not limited to:
+      <p>This guidance must be followed for all systems and services developed
+        or procured by the <ph conref="conrefs.dita#conrefs/moj"/>.
+        It applies to all asset types including, but not limited to:
       <ul>
-        <li>Internet facing websites.</li>
-        <li>End user client devices.</li>
-        <li>Infrastructure devices.</li>
-        <li>Digital services.</li>
+        <li>Internet facing websites and digital services.</li>
+        <li>End user client devices, such as Desktop PCs, laptops, tablets, and mobile phones.</li>
+        <li>Infrastructure devices, such as networking equipment, servers, and printers.</li>
         <li>Applications.</li>
         <li>Internet-of-Things (IoT) devices.</li>
       </ul></p>
@@ -32,13 +35,34 @@
         </ol>
         <note>The nature of the patching cycle will depend on what is agreed during development,
           deployment,
-          and subsequent maintenance of the system or service.</note>
-      </p>
+          and subsequent maintenance of the system or service.</note></p>
+      <p>Patching is the application of a vendor-supplied security patch.
+        It can also refer to other ways of achieving the same goal.
+        Examples include:
+        <ul>
+          <li>Virtual patches.</li>
+          <li>Removal of vulnerable services or functionality.</li>
+          <li>Disabling and preventing access.</li>
+        </ul></p>
+      <p>Patching might include recompiling applications to incorporate security updates.
+        The updates might be in third party libraries or other code.</p>
+      <p>Always apply patches as soon as possible.
+        Where this guidance mentions a time limit,
+        you should apply patches no later than the time given.
+        Some important or sensitive systems might need more urgent patching.
+        For example, a system might need you to apply 'critical' or 'high risk' patches within 7 days.</p>
       <p>Where patching or other mitigation is required,
         it must be applied in compliance with the Patching Schedule in this guide,
         described <xref href="#patching-schedule" format="dita">below</xref>.</p>
-      <p>Operating systems and applications installed on systems must be licensed and supported.
-        To ensure that patches are implemented on systems, you must either:
+      <p>Operating systems and applications installed on systems must be:
+        <ul>
+          <li>Licensed and supported.</li>
+          <li>Removed from devices when no longer licensed or supported.</li>
+          <li>Patched as soon as possible.</li>
+          <li>Patched within no more than 14 days of an update being released,
+            where the fix is for a 'critical' or 'high risk' vulnerability.</li>
+        </ul></p>
+      <p>To ensure that patches are implemented on systems, you must either:
         <ul>
           <li>Enable and use any vendor-provided automatic patch deployment mechanisms for the system.</li>
           <li>If automatic patch deployment is not available,
@@ -113,15 +137,13 @@
           Information Risk Assessment Report (IRAR).</p>
         <p conref="conrefs.dita#conrefs/irardefinition"/>
         <table>
+          <title>Patching Schedule</title>
           <tgroup cols="4">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
             <colspec colname="col3" colnum="3"/>
             <colspec colname="col4" colnum="4"/>
             <thead>
-              <row>
-                <entry namest="col1" nameend="col4" align="center">Patching Schedule</entry>
-              </row>
               <row>
                 <entry>Rating (Severity)</entry>
                 <entry>Infrastructure Devices; Server Applications;

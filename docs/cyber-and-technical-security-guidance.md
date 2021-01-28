@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 27 January 2021.
+**Note:** This guidance is dated: 28 January 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|On request.|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|On request.|
 
-The offline versions of this guidance are time-limited, and are not valid after 27 February 2021.
+The offline versions of this guidance are time-limited, and are not valid after 28 February 2021.
 
 ### Searching this content
 
@@ -263,7 +263,6 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Patch Management Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/patch-management-standard/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Vulnerability Disclosure](vulnerability-disclosure-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Vulnerability Disclosure: Implementing `security.txt`](implement-security-txt.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Vulnerability scanning](vulnerability-scanning.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Vulnerability scanning and patch management guide](vulnerability-scanning-and-patch-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Vulnerability scanning guide](vulnerability-scanning-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
