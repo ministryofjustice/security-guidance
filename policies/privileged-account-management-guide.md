@@ -11,7 +11,7 @@ Target audience: DevOps, Technical Architects, Incident Managers, IT Service Man
 ## Introduction
 
 This guide explains how to manage privileged accounts in order to minimise the security risks
-associated with their use. This is a sub-page to the [Access Control Guide](../access-control-guide/).
+associated with their use. This also applies to staff who have elevated access to their systems to allow them to run and install applications, such as developers in Digital and Technology.  This is a sub-page to the [Access Control Guide](../access-control-guide/).
 
 ## How to manage privileged accounts
 
