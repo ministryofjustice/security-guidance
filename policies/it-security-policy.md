@@ -41,7 +41,11 @@ All MoJ users must:
 - report all security incidents promptly and in line with MoJ's [IT Incident Management Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/).
 
 - make themselves aware of their roles, responsibilities and accountability and fully comply with the relevant legislation as described in this
-and other MoJ guidance.   
+and other MoJ guidance.
+
+- be aware of the need for Information Security as an integral part of the day to day business.
+
+- protect information assets under the control of the organisation.  
 
 Further information can be found in the [IT Security All Users Guide](../it-security-all-users-guide/).
 
