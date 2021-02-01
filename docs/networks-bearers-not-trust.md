@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - /standards/networks-bearers-not-trust/
+---
 # Networks are just bearers
 
 ## The base principle
