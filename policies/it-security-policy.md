@@ -28,8 +28,8 @@ This guide is aimed at three audiences:
 
 For further guidance on IT Security, see the guides below.
 
-* [IT Security All Users Guide](../it-security-all-users-guide/): which provides further details of the responsibilities of all MoJ users at the MoJ.
-* [IT Security Technical and Service Provider Users Guide](../it-security-technical-and-service-provider-users-guide/): which provides the details of where users can find more technical and service provider related information on IT Security within the MoJ.
+* [IT Security All Users Guide](../it-security-all-users-guide.md): which provides further details of the responsibilities of all MoJ users at the MoJ.
+* [IT Security Technical and Service Provider Users Guide](../it-security-technical-and-service-provider-users-guide.md/): which provides the details of where users can find more technical and service provider related information on IT Security within the MoJ.
 
 ## Principles
 
