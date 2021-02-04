@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - /guides/personnel-security-clearances/
+---
 # Personnel security clearances
 
 ## Baseline Personnel Security Standard \(BPSS\)
