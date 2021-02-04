@@ -1,0 +1,54 @@
+# Ministry of Justice \(MoJ\) Cyber Security Guidance: Intranet Edition
+
+-   [Intranet landing page](intranet-landing-page.md)
+-   Equipment
+    -   Clear screen and desk
+        -   [Clear Screen and Desk](clear-screen-and-desk.md)
+    -   Data and equipment management
+        -   [Bluetooth](bluetooth.md)
+        -   [Email](email.md)
+        -   [OFFICIAL, OFFICIAL-SENSITIVE](official-official-sensitive.md)
+        -   [Security Guidance for Using a Personal Device](personal-devices.md)
+        -   [Protecting Social Media Accounts](protecting-social-media-accounts.md)
+        -   [Protect yourself online](protect-yourself-online.md)
+        -   [Removable Media](removable-media.md)
+        -   [Secure Disposal of IT Equipment](secure-disposal-of-it-equipment.md)
+        -   [Web Browsing](web-browsing.md)
+        -   [Web browsing security policy profiles](web-browsing-security-policy-profiles.md)
+    -   Laptops
+        -   [Laptops](laptops.md)
+    -   Locking and shutdown
+        -   [Locking and shutdown](locking-and-shutdown.md)
+    -   Macbook
+        -   [Policies for MacBook Users](policies-for-macbook-users.md)
+-   Incident management
+    -   [Reporting an incident](reporting-an-incident.md)
+    -   Lost laptop
+        -   [Lost Laptop or other IT security incident](lost-laptophardware.md)
+-   Remote working
+    -   [Remote Working](remote-working.md)
+    -   Overseas travel
+        -   [Accessing Ministry of Justice \(MoJ\) IT Systems From Abroad](accessing-moj-it-systems-from-abroad.md)
+        -   [General advice on taking equipment abroad](general-advice-on-taking-equipment-abroad.md)
+-   Risk assessment
+    -   [Risk Reviews](risk-reviews.md)
+-   Human resources
+    -   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
+    -   [Personnel security clearances](personnel-security-clearances.md)
+    -   [Training and Education](training-and-education.md)
+-   User access
+    -   [Acceptable use of Information Technology at work](acceptable-use.md)
+    -   [Acceptable use policy](acceptable-use-policy.md)
+    -   [Data Security and Privacy](data-security-and-privacy.md)
+    -   [General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)
+    -   [Government Classification Scheme](government-classification-scheme.md)
+    -   [Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md)
+    -   [IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](identify-protect-detect-respond-recover.md)
+    -   [Information Classification and Handling Policy](information-classification-and-handling-policy.md)
+    -   [IT Acceptable Use Policy](it-acceptable-use-policy.md)
+    -   [Line Manager approval](line-manager-approval.md)
+    -   [Password Managers](password-managers.md)
+        -   [Using LastPass Enterprise](using-lastpass.md)
+    -   [Passwords](passwords.md)
+    -   [Avoiding too much security](setecastronomy.md)
+

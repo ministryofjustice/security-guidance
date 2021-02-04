@@ -183,7 +183,7 @@
 		</body>
 	</topic>
 
-	<topic id="related-guides-passwords">
+	<topic id="related-guides-passwords" audience="audience-tech">
 		<title>Related guides</title>
 		<body>
 			<p id="related-guides-info">Further guidance around the management of passwords at the <ph conref="conrefs.dita#conrefs/moj"/> is available:
