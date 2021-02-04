@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 1 February 2021.
+**Note:** This guidance is dated: 4 February 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|On request.|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|On request.|
 
-The offline versions of this guidance are time-limited, and are not valid after 1 March 2021.
+The offline versions of this guidance are time-limited, and are not valid after 4 March 2021.
 
 ### Searching this content
 
@@ -160,7 +160,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 #### Media handling
 
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Removable media](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/)|All users|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Secure disposal of IT equipment](https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-it-equipment/)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Secure disposal of IT equipment](https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-ict-equipment/)|All users|
 
 ### Access control
 
@@ -322,7 +322,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Management of information security incidents and improvements
 
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Forensic Principles](https://intranet.justice.gov.uk/guidance/security/it-computer-security/forensic-principles/)|All users|
+|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Forensic Principles](https://intranet.justice.gov.uk/guidance/security/it-computer-security/forensic-principles/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Forensic Readiness Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/forensic-readiness-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Forensic Readiness Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/forensic-readiness-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Incident Management Plan and Process Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|

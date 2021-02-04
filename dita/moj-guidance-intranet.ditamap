@@ -12,44 +12,19 @@ if an audience attribute is present, then only matching content is included.
 	<topicref href="conrefs.dita" type="topic" processing-role="resource-only"/>
 	<topicref href="intranet-landing-page.dita" type="topic"/>
 	<topichead>
-		<topicmeta><navtitle>Remote working</navtitle></topicmeta>
-		<topicref href="remote-working.dita" type="topic"/>
-		<topichead>
-			<topicmeta><navtitle>Overseas travel</navtitle></topicmeta>
-			<topicref href="accessing-moj-it-systems-from-abroad.dita" type="topic"/>
-			<topicref href="general-advice-on-taking-equipment-abroad.dita" type="topic"/>
-		</topichead>
-	</topichead>
-	<topichead>
-		<topicmeta><navtitle>Human resources</navtitle></topicmeta>
-		<topicref href="personnel-security-clearances.dita" type="topic"/>
-		<topicref href="training-and-education.dita" type="topic"/>
-		<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
-	</topichead>
-	<topichead>
-		<topicmeta><navtitle>User access</navtitle></topicmeta>
-		<topicref href="acceptable-use.dita" type="topic"/>
-		<topicref href="acceptable-use-policy.dita" type="topic"/>
-		<topicref href="data-security-and-privacy.dita" type="topic"/>
-		<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic"/>
-		<topicref href="government-classification-scheme.dita" type="topic"/>
-		<topicref href="guidance-for-using-open-internet-tools.dita" type="topic"/>
-		<topicref href="information-classification-and-handling-policy.dita" type="topic"/>
-		<topicref href="it-acceptable-use-policy.dita" type="topic"/>
-		<topicref href="password-managers.dita" type="topic">
-			<topicref href="using-lastpass.dita" type="topic"/>
-		</topicref>
-		<topicref href="passwords.dita" type="topic"/>
-		<topicref href="protect-yourself-online.dita" type="topic"/>
-	</topichead>
-	<topichead>
 		<topicmeta><navtitle>Equipment</navtitle></topicmeta>
+		<topichead>
+			<topicmeta><navtitle>Clear screen and desk</navtitle></topicmeta>
+			<topicref href="clear-screen-and-desk.dita" type="topic"/>
+		</topichead>
 		<topichead>
 			<topicmeta><navtitle>Data and equipment management</navtitle></topicmeta>
 			<topicref href="bluetooth.dita" type="topic"/>
+			<topicref href="email.dita" type="topic"/>
 			<topicref href="official-official-sensitive.dita" type="topic"/>
 			<topicref href="personal-devices.dita" type="topic"/>
 			<topicref href="protecting-social-media-accounts.dita" type="topic"/>
+			<topicref href="protect-yourself-online.dita" type="topic"/>
 			<topicref href="removable-media.dita" type="topic"/>
 			<topicref href="secure-disposal-of-it-equipment.dita" type="topic"/>
 			<topicref href="web-browsing.dita" type="topic"/>
@@ -60,16 +35,12 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="laptops.dita" type="topic"/>
 		</topichead>
 		<topichead>
-			<topicmeta><navtitle>Macbook</navtitle></topicmeta>
-			<topicref href="policies-for-macbook-users.dita" type="topic"/>
-		</topichead>
-		<topichead>
-			<topicmeta><navtitle>Clear screen and desk</navtitle></topicmeta>
-			<topicref href="clear-screen-and-desk.dita" type="topic"/>
-		</topichead>
-		<topichead>
 			<topicmeta><navtitle>Locking and shutdown</navtitle></topicmeta>
 			<topicref href="locking-and-shutdown.dita" type="topic"/>
+		</topichead>
+		<topichead>
+			<topicmeta><navtitle>Macbook</navtitle></topicmeta>
+			<topicref href="policies-for-macbook-users.dita" type="topic"/>
 		</topichead>
 	</topichead>
 	<topichead>
@@ -81,8 +52,41 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 	</topichead>
 	<topichead>
+		<topicmeta><navtitle>Remote working</navtitle></topicmeta>
+		<topicref href="remote-working.dita" type="topic"/>
+		<topichead>
+			<topicmeta><navtitle>Overseas travel</navtitle></topicmeta>
+			<topicref href="accessing-moj-it-systems-from-abroad.dita" type="topic"/>
+			<topicref href="general-advice-on-taking-equipment-abroad.dita" type="topic"/>
+		</topichead>
+	</topichead>
+	<topichead>
 		<topicmeta><navtitle>Risk assessment</navtitle></topicmeta>
 		<topicref href="risk-reviews.dita" type="topic"/>
+	</topichead>
+	<topichead>
+		<topicmeta><navtitle>Human resources</navtitle></topicmeta>
+		<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
+		<topicref href="personnel-security-clearances.dita" type="topic"/>
+		<topicref href="training-and-education.dita" type="topic"/>
+	</topichead>
+	<topichead>
+		<topicmeta><navtitle>User access</navtitle></topicmeta>
+		<topicref href="acceptable-use.dita" type="topic"/>
+		<topicref href="acceptable-use-policy.dita" type="topic"/>
+		<topicref href="data-security-and-privacy.dita" type="topic"/>
+		<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic"/>
+		<topicref href="government-classification-scheme.dita" type="topic"/>
+		<topicref href="guidance-for-using-open-internet-tools.dita" type="topic"/>
+		<topicref href="identify-protect-detect-respond-recover.dita" type="topic"/>
+		<topicref href="information-classification-and-handling-policy.dita" type="topic"/>
+		<topicref href="it-acceptable-use-policy.dita" type="topic"/>
+		<topicref href="line-manager-approval.dita" type="topic"/>
+		<topicref href="password-managers.dita" type="topic">
+			<topicref href="using-lastpass.dita" type="topic"/>
+		</topicref>
+		<topicref href="passwords.dita" type="topic"/>
+		<topicref href="setecastronomy.dita" type="topic"/>
 	</topichead>
 
 </map>

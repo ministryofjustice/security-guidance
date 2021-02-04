@@ -567,7 +567,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
 				<row platform="html">
-					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-it-equipment/" format="html" scope="external">Secure disposal of IT equipment</xref></entry>
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-ict-equipment/" format="html" scope="external">Secure disposal of IT equipment</xref></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
 				<row platform="epub pdf">
@@ -1168,9 +1168,9 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <title>Management of information security incidents and improvements</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/forensic-principles/" format="html" scope="external">Forensic Principles</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/forensic-readiness-guide/" format="html" scope="external">Forensic Readiness Guide</xref></entry>
