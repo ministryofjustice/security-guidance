@@ -80,3 +80,24 @@ branch `docs` directory will be published automatically. Every change should be 
 in a pull request, no matter how minor, and we've enabled [branch protection][] to enforce this.
 
 [branch protection]: https://help.github.com/articles/about-protected-branches/
+
+## Publishing on the Intranet
+
+Every time a build run takes place, a working copy of the
+Intranet material is placed in the [intranet](intranet) folder.
+
+Whenever an Intranet publication is required, the following process is used:
+
+1. Create an annotated tag for the repository, using the following template:
+    `git tag -a YYYYMMDD -m "Intranet Snapshot YYYYMMDD"`
+    The YYYYMMDD is the date of the snapshot. For example:
+    `git tag -a 20210205 -m "Intranet Snapshot 20210205"`
+2. Upload the tag into GitHub, using the following template:
+    `git push origin YYYYMMDD`
+    For example:
+    `git push origin 20210205`
+3. Create a `.zip` file containing the contents of the `intranet` folder.
+4. Submit the zip file to the Comms team for publication.
+
+To get a list of the annotated tags, use the command:
+`git show`
