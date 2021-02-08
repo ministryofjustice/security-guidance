@@ -51,7 +51,7 @@
           An arrow leaves the left hand side of the fourth box, and connects back into the right hand side of the second box, forming a loop between the second and fourth boxes.</alt>
       </image>
       <p>The rest of this section describes each of the 4 stages and outlines what activities are required.</p>
-      <note>This lifecycle aligns with the <ph conref="conrefs.dita#conrefs/moj"/> HR processes for new joiners and leavers (see: <xref href="https://intranet.justice.gov.uk/guidance/hr/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/hr/</xref> ).</note>
+      <note>This lifecycle aligns with the <ph conref="conrefs.dita#conrefs/moj"/> HR processes for new joiners (see: <xref href="https://intranet.justice.gov.uk/guidance/hr/induction/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/hr/induction/</xref> ) and leavers (see: <xref href="https://intranet.justice.gov.uk/guidance/hr/end-change-of-employment/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/hr/end-change-of-employment/</xref> ).</note>
     </body>
     <topic id="user-registration-and-account-creation">
       <title>User registration and account creation</title>
@@ -201,8 +201,15 @@
   <topic id="account-removal">
     <title>Account removal</title>
     <body>
-      <p>An individuals User account and any associated access rights must be removed once that individual has either left the organisation or no longer requires access to the IT system (or application) that the account was created for.</p>
-      <p>Account removal must be authorised by <ph conref="conrefs.dita#conrefs/moj"/> HR. The leavers process can be found on the HR intranet page (see: <xref href="https://intranet.justice.gov.uk/guidance/hr/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/hr/</xref> ). As part of the HR process, HR must inform the relevant IT service provider when a member of staff leaves the organisation and as such instruct them to deactivate and remove their user account.</p>
+      <p>An individual's User account and any associated access rights must be removed once that individual has either left the organisation
+        or no longer requires access to the IT system (or application) that the account was created for.</p>
+      <p>It is the responsibility of the line manager to request account removal.
+        The leavers process can be found on the HR intranet page
+        (see: <xref href="https://intranet.justice.gov.uk/guidance/hr/end-change-of-employment/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/hr/end-change-of-employment/</xref> ).
+        As part of the HR process,
+        the line manager must inform all relevant IT service providers when a member of staff leaves the organisation
+        and as such instruct them to deactivate and remove their user account.
+        The leavers guidance linked above gives detail on how to contact IT service providers.</p>
     </body>
   </topic>
   <topic id="review-of-user-privileges-and-accounts-schedule">

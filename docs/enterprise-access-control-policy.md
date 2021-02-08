@@ -47,7 +47,7 @@ The following diagram depicts the 4 stage management lifecycle for managing user
 
 The rest of this section describes each of the 4 stages and outlines what activities are required.
 
-**Note:** This lifecycle aligns with the MoJ HR processes for new joiners and leavers \(see: [https://intranet.justice.gov.uk/guidance/hr/](https://intranet.justice.gov.uk/guidance/hr/) \).
+**Note:** This lifecycle aligns with the MoJ HR processes for new joiners \(see: [https://intranet.justice.gov.uk/guidance/hr/induction/](https://intranet.justice.gov.uk/guidance/hr/induction/) \) and leavers \(see: [https://intranet.justice.gov.uk/guidance/hr/end-change-of-employment/](https://intranet.justice.gov.uk/guidance/hr/end-change-of-employment/) \).
 
 ### User registration and account creation
 
@@ -143,9 +143,9 @@ Remote access to a MoJ IT system requires the use of an authentication token \(s
 
 ## Account removal
 
-An individuals User account and any associated access rights must be removed once that individual has either left the organisation or no longer requires access to the IT system \(or application\) that the account was created for.
+An individual's User account and any associated access rights must be removed once that individual has either left the organisation or no longer requires access to the IT system \(or application\) that the account was created for.
 
-Account removal must be authorised by MoJ HR. The leavers process can be found on the HR intranet page \(see: [https://intranet.justice.gov.uk/guidance/hr/](https://intranet.justice.gov.uk/guidance/hr/) \). As part of the HR process, HR must inform the relevant IT service provider when a member of staff leaves the organisation and as such instruct them to deactivate and remove their user account.
+It is the responsibility of the line manager to request account removal. The leavers process can be found on the HR intranet page \(see: [https://intranet.justice.gov.uk/guidance/hr/end-change-of-employment/](https://intranet.justice.gov.uk/guidance/hr/end-change-of-employment/) \). As part of the HR process, the line manager must inform all relevant IT service providers when a member of staff leaves the organisation and as such instruct them to deactivate and remove their user account. The leavers guidance linked above gives detail on how to contact IT service providers.
 
 ## Review of User privileges and accounts schedule
 
