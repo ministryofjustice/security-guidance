@@ -55,7 +55,7 @@ Technical users must follow the guidance set out for all MoJ users in [IT Securi
 
 #### Service providers
 
-Service Provides must follow the guidance set out for all MoJ users in [IT Security All Users Guide](../it-security-all-users-guide/)] and also comply with the [IT Security Technical and Service Provider Users Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-technical-and-service-provider-users-guide.md).
+Service Provides must follow the guidance set out for all MoJ users in [IT Security All Users Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-all-users-guide.md) and also comply with the [IT Security Technical and Service Provider Users Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-technical-and-service-provider-users-guide.md).
 
 ## Enforcement
 - This policy is enforced by lower level policies, standards, procedures and guidance.
