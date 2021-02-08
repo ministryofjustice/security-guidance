@@ -157,7 +157,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 **Cyber Consultants & Risk Advisors**
 
--   Email: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)
+-   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 -   Slack: `#security`
 
 ### Historic paper files urgently required by ministers, courts, or Public Inquiries

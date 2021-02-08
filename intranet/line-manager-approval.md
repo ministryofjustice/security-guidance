@@ -13,7 +13,7 @@ This guidance describes what you should do. The guidance contains steps to follo
 
 ## Steps to follow \(Line Managers\)
 
-**Note:** If at any time you need help about this process, or the applicable MoJ IT Policies, just ask: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
+**Note:** If at any time you need help about this process, or the applicable MoJ IT Policies, just ask: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 1.  Check that your direct report \(DR\) has said what they want in their request. The request should identify which MoJ IT Policies apply.
 2.  Check that the request is valid from a business perspective. If not, deny the request \([step 7](#step7) \).
@@ -27,7 +27,7 @@ This guidance describes what you should do. The guidance contains steps to follo
 
 ## Steps to follow \(Direct Reports\)
 
-**Note:** If at any time you need help about this process, or the applicable MoJ IT Policies, just ask: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
+**Note:** If at any time you need help about this process, or the applicable MoJ IT Policies, just ask: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 1.  Check that your business need is valid.
 2.  Check which MoJ IT Policies apply to your request. Include [Acceptable Use](acceptable-use.md) in the list of applicable policies.
@@ -44,7 +44,7 @@ This guidance describes what you should do. The guidance contains steps to follo
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

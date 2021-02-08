@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 4 February 2021.
+**Note:** This guidance is dated: 5 February 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|On request.|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|On request.|
 
-The offline versions of this guidance are time-limited, and are not valid after 4 March 2021.
+The offline versions of this guidance are time-limited, and are not valid after 5 March 2021.
 
 ### Searching this content
 
@@ -50,7 +50,7 @@ The content of this site is searchable in two ways:
 ### Getting in touch
 
 -   [To report an incident](reporting-an-incident.md).
--   For general assistance on MoJ security matters, email [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
+-   For general assistance on MoJ security matters, email [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   For Cyber Security assistance or consulting, email [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk). More information about the Cyber Security Consultancy Team is [available](user-guide.md).
 -   Suppliers to the MoJ should first communicate with their usual MoJ points of contact.
 

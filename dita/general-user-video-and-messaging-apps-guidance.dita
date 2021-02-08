@@ -326,12 +326,7 @@
 			<p>If you wish to use a tool that is not listed above, please consult our <xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref> and <xref href="mailto:security@justice.gov.uk" format="email" scope="external">speak to us for help</xref>.</p>
 		</body>
 	</topic>
-	<topic id="requesting-that-a-tool-be-approved-for-use">
-		<title>Requesting that a tool be approved for use</title>
-		<body>
-			<p>Refer to the <xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref> for the process to follow when wanting to add a new tool to the list.</p>
-		</body>
-	</topic>
+	<topic id="thirdpartyapp" conref="conrefs.dita#thirdpartyapp"><title/></topic>
 	<topic id="other-information">
 		<title>Other information</title>
 		<topic id="government-policy-and-guidance">
