@@ -1,5 +1,5 @@
 ---
-Review: 2020-12-31
+Review: 2021-12-31
 Owner: CISO
 Target audience:
 ---
@@ -12,7 +12,7 @@ Target audience:
 
 ## Introduction
 
-This guide provides more information on the actions expected of Technical and Service Provider users when using MoJ equipment and infrastructure. This guide is a sub-page to the [IT Security Policy](../it-security-policy/).
+This guide provides more information on the actions expected of Technical and Service Provider users when using MoJ equipment and infrastructure. This guide is a sub-page to the [IT Security Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-policy.md).
 
 ## Who is this for?
 
@@ -23,7 +23,7 @@ This guide is aimed at:
 
 ## Vulnerability scanning and patch management
 
-The MoJ [Vulnerability Scanning and Patch Management Guide](../vulnerability-scanning-and-patch-management-guide/) outlines the requirements for maintaining up to date MoJ systems and equipment to protect them from security vulnerabilities.
+The MoJ [Vulnerability Scanning and Patch Management Guide](https://ministryofjustice.github.io/security-guidance/vulnerability-scanning-and-patch-management-guide/#vulnerability-scanning-and-patch-management-guide) outlines the requirements for maintaining up to date MoJ systems and equipment to protect them from security vulnerabilities.
 
 The guide includes patching schedules for the different MoJ systems and equipment according to their risk levels and sets out the vulnerability ratings used to understand the criticality of a system security vulnerability. The guide addresses the following areas:
 
@@ -32,11 +32,11 @@ The guide includes patching schedules for the different MoJ systems and equipmen
 
 ## Technical controls
 
-The MoJ [Technical Controls Guide](../technical-security-controls-guide/) ensures protection from unauthorised access or misuse of the MoJ IT systems, applications and data stored within them.
+The MoJ [Technical Controls Guide](https://ministryofjustice.github.io/security-guidance/technical-security-controls-guide/#technical-security-controls-guide) ensures protection from unauthorised access or misuse of the MoJ IT systems, applications and data stored within them.
 
 The guide outlines the control design requirements that are needed to secure the MoJ network and IT assets in accordance with the three layers of defence. The guide addresses following areas:
 
-- enforcing access controls in support of the [Access Control Guide](../access-control-guide/)
+- enforcing access controls in support of the [Access Control Guide](https://ministryofjustice.github.io/security-guidance/access-control-guide/#access-control-guide)
 - building adequate security for the MoJ network and network boundaries
 - creating secure software development and software configuration processes and designs
 - monitoring the MoJ network against malicious code and anomalous behaviour.
@@ -82,7 +82,7 @@ The MoJ shall include appropriate clauses in a contract with any supplier which 
 
 ## Privileged users
 
-The MoJ's [Privileged User Guide](../privileged-user-guide/) sets out the key responsibilities for administrator roles within the MoJ in order to protect systems, assets and applications from unauthorised access, use, modification or damage.
+The MoJ's [Privileged User Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/privileged-user-guide.md) sets out the key responsibilities for administrator roles within the MoJ in order to protect systems, assets and applications from unauthorised access, use, modification or damage.
 
 The guide sets out the security controls and processes required for the secure handling of MoJ assets and data stored and processed within them, such as the management of administrator accounts and the secure configuration and change management.
 
