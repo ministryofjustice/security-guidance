@@ -1,5 +1,5 @@
 ---
-Review: 2020-12-31
+Review: 2021-12-31
 Owner: CISO
 Target audience:
 ---
@@ -12,7 +12,7 @@ Target audience:
 
 ## Introduction
 
-This guide provides more information on the actions expected of all MoJ users when using MoJ equipment and infrastructure. This guide is a sub-page to the [IT Security Policy](../it-security-policy/).
+This guide provides more information on the actions expected of all MoJ users when using MoJ equipment and infrastructure. This guide is a sub-page to the [IT Security Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-policy.md).
 
 ## Who is this for?
 
@@ -39,11 +39,11 @@ This IT security policy applies to all premises, physical equipment, software an
 The MoJ maintains an Information Security Policy, which aligns with the HM Government Security Classifications, to provide a framework for safeguarding data from risks including, but not limited to, unauthorised destruction, modification, disclosure, access, use and removal.
 
 All MoJ Staff are responsible for ensuring data is:
-- classified correctly as detailed in the [Information Classification, Handling and Security Guide](../information-classification-handling-and-security-guide/)
+- classified correctly as detailed in the [Information Classification, Handling and Security Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/information-classification-handling-and-security-guide.md)
 - distributed only in accordance with the statements of this policy and related guides
 - protected by the appropriate security controls to ensure its confidentiality, integrity and availability.
 
-Access to said classified information shall be controlled in accordance with the requirements set out within the MoJ [Access Control Guide](../access-control-guide/).
+Access to said classified information shall be controlled in accordance with the requirements set out within the MoJ [Access Control Guide](https://ministryofjustice.github.io/security-guidance/access-control-guide/#access-control-guide).
 
 ## Physical and personnel security
 
@@ -60,35 +60,35 @@ Further information is available from [MoJ Group Security](mailto:mojgroupsecuri
 
 ## Identity and access control
 
-The MoJ [Access Control Guide](../access-control-guide/) ensures that information and IT assets can be accessed by only authorised personnel and that each individual is accountable for their actions.
+The MoJ [Access Control Guide](https://ministryofjustice.github.io/security-guidance/access-control-guide/#access-control-guide) ensures that information and IT assets can be accessed by only authorised personnel and that each individual is accountable for their actions.
 
 The guide outlines the controls and processes designed to limit access based on a 'need to know' basis and according to defined roles and responsibilities.
 
-The MoJ [Access Control Guide](../access-control-guide/) addresses access control principles such as identification, authentication, authorisation and accounting.  
+The MoJ [Access Control Guide](https://ministryofjustice.github.io/security-guidance/access-control-guide/#access-control-guide) addresses access control principles such as identification, authentication, authorisation and accounting.  
 
 ## Password management
 
-The MoJ [Password Management Guide](../password-management-guide/) sets out the requirements for strong password implementation and management to help prevent unauthorised access to MoJ systems.  Examples include password creation, authentication, storage and management.
+The MoJ [Password Management Guide](https://ministryofjustice.github.io/security-guidance/password-management-guide/#password-management-guide) sets out the requirements for strong password implementation and management to help prevent unauthorised access to MoJ systems.  Examples include password creation, authentication, storage and management.
 
 ## Email security
 
-The MoJ [Email Security Guide](../email-security-guide/) specifies the controls and processes required to protect the MoJ's email systems from unauthorised access or misuse, that may compromise the confidentiality, integrity and/or availability of the information stored and shared within them.
+The MoJ [Email Security Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/email-security-guide.md) specifies the controls and processes required to protect the MoJ's email systems from unauthorised access or misuse, that may compromise the confidentiality, integrity and/or availability of the information stored and shared within them.
 
 The guide outlines the various security levels required to transfer information from the MoJ's email servers to organisations outside the MoJ and other government departments. It covers topics such as the threats to email security (phishing) and secure email transfer.
 
 ## Remote working and portable devices
 
-The MoJ has in place a [Remote Working Standard](../remote-working/) which sets out the requirements for safely accessing and using the MoJ's systems and applications when working remotely, for example, from home, another government office or whilst travelling.
+The MoJ has in place a [Remote Working Standard](https://ministryofjustice.github.io/security-guidance/remote-working/#remote-working) which sets out the requirements for safely accessing and using the MoJ's systems and applications when working remotely, for example, from home, another government office or whilst travelling.
 
-Mobile computing is the use of portable equipment such as mobile phone, laptop or tablet and supports remote working. Mobile computing equipment provided by the MoJ must be used in line with the [Acceptable Use Policy](../acceptable-use-policy/).
+Mobile computing is the use of portable equipment such as mobile phone, laptop or tablet and supports remote working. Mobile computing equipment provided by the MoJ must be used in line with the [Acceptable Use Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/acceptable-use-policy.md).
 
 Any request to take MoJ IT equipment abroad must follow the guidance provided in the [Acceptable Use Policy](../acceptable-use-policy/) and the Travelling Abroad Policy.
 
 ## Malware protection
 
-The MoJ [Malware Protection Guide](../malware-protection-guide-introduction/) specifies the controls and processes required to protect all systems against malware. Malware may enter the MoJ by employee email through the internet, mobile computers and removable media devices.
+The MoJ [Malware Protection Guide](https://ministryofjustice.github.io/security-guidance/malware-protection-guide-introduction/#malware-protection-guide---overview) specifies the controls and processes required to protect all systems against malware. Malware may enter the MoJ by employee email through the internet, mobile computers and removable media devices.
 
-The MoJ [Malware Protection Guide](../malware-protection-guide-introduction/) addresses the following relevant domains:
+The MoJ [Malware Protection Guide](https://ministryofjustice.github.io/security-guidance/malware-protection-guide-introduction/#malware-protection-guide---overview) addresses the following relevant domains:
 
 - implementation controls to stop malware entering MoJ devices and systems
 - preventing malicious code from executing on MoJ devices and systems
