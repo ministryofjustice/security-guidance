@@ -1,5 +1,5 @@
 ---
-Review: 2020-12-31
+Review: 2021-12-31
 Owner: CISO
 Target audience:
 ---
@@ -29,14 +29,14 @@ This guide is aimed at three audiences:
 For further guidance on IT Security, see the guides below.
 
 * [IT Security All Users Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-all-users-guide.md): which provides further details of the responsibilities of all MoJ users at the MoJ.
-* [IT Security Technical and Service Provider Users Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-technical-and-service-provider-users-guide/): which provides the details of where users can find more technical and service provider related information on IT Security within the MoJ.
+* [IT Security Technical and Service Provider Users Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-technical-and-service-provider-users-guide.md): which provides the details of where users can find more technical and service provider related information on IT Security within the MoJ.
 
 ## Principles
 
 
 All MoJ users must:
 
-- comply with the MoJ's [Acceptable Use Policy](../acceptable-use-policy/) wherever they work.
+- comply with the MoJ's [Acceptable Use Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/acceptable-use-policy.md) wherever they work.
 
 - report all security incidents promptly and in line with MoJ's [IT Incident Management Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/).
 
@@ -47,15 +47,15 @@ and other MoJ guidance.
 
 - protect information assets under the control of the organisation.  
 
-Further information can be found in the [IT Security All Users Guide](../it-security-all-users-guide/).
+Further information can be found in the [IT Security All Users Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-all-users-guide.md).
 
 #### Technical users
 
-Technical users must follow the guidance set out for all MoJ users in [IT Security All Users Guide](../it-security-all-users-guide/)] and also comply with the [IT Security Technical and Service Provider Users Guide](../it-security-technical-and-service-provider-users-guide/).
+Technical users must follow the guidance set out for all MoJ users in [IT Security All Users Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-all-users-guide.md) and also comply with the [IT Security Technical and Service Provider Users Guide](../it-security-technical-and-service-provider-users-guide/).
 
 #### Service providers
 
-Service Provides must follow the guidance set out for all MoJ users in [IT Security All Users Guide](../it-security-all-users-guide/)] and also comply with the [IT Security Technical and Service Provider Users Guide](../it-security-technical-and-service-provider-users-guide/).
+Service Provides must follow the guidance set out for all MoJ users in [IT Security All Users Guide](../it-security-all-users-guide/)] and also comply with the [IT Security Technical and Service Provider Users Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-technical-and-service-provider-users-guide.md).
 
 ## Enforcement
 - This policy is enforced by lower level policies, standards, procedures and guidance.
