@@ -114,33 +114,36 @@
         decommissioning a domain is easy: simply cancel the registration.</p>
       <p>But it's important to check whether the domain is still required,
         even when the service is no longer provided.</p>
-      <p>If the domain should be kept,
-        for how long should it be kept?</p>
-      <p>The answer depends on how the original domain was used in practice.</p>
-      <p>For example,
-        if the domain was only used internally within the <ph conref="conrefs.dita#conrefs/moj"/>,
-        and all references to it have already been updated to point to the new or replacement service,
-        then the old domain name probably does not need to be kept for more than 12 months.</p>
-      <p>However,
-        there are circumstances where it is important to keep a domain for longer periods of time.
-        For example:
-        <ul>
-          <li>The domain was heavily used internally,
-            and there might be old emails or documents referring to it.</li>
-          <li>The domain was used externally.</li>
-          <li>The domain would be attractive for '<xref href="https://en.wikipedia.org/wiki/Cybersquatting" format="html" scope="external">domain squatting</xref>'.</li>
-        </ul>
-      </p>
-      <p>In general,
-        unless there is a good case for saying that a domain name does not need to be kept for defensive purposes:
-        <ul>
-          <li>A domain associated with a decommissioned service <b>must</b> be maintained for <i>at least</i> five years after the
-            corresponding service is decommissioned.</li>
-          <li>The domain registration <b>must</b> be reviewed again <i>not less than</i> 12 months before it is due to expire,
-          to determine if the registration should still be maintained.</li>
-        </ul>
-      </p>
     </body>
+    <topic id="how-long-should-a-domain-be-kept">
+      <title>How long should a domain be kept?</title>
+      <body>
+        <p>The answer depends on how the original domain was used in practice.</p>
+        <p>For example,
+          if the domain was only used internally within the <ph conref="conrefs.dita#conrefs/moj"/>,
+          and all references to it have already been updated to point to the new or replacement service,
+          then the old domain name probably does not need to be kept for more than 12 months.</p>
+        <p>However,
+          there are circumstances where it is important to keep a domain for longer periods of time.
+          For example:
+          <ul>
+            <li>The domain was heavily used internally,
+              and there might be old emails or documents referring to it.</li>
+            <li>The domain was used externally.</li>
+            <li>The domain would be attractive for '<xref href="https://en.wikipedia.org/wiki/Cybersquatting" format="html" scope="external">domain squatting</xref>'.</li>
+          </ul>
+        </p>
+        <p>In general,
+          unless there is a good case for saying that a domain name does not need to be kept for defensive purposes:
+          <ul>
+            <li>A domain associated with a decommissioned service <b>must</b> be maintained for <i>at least</i> five years after the
+              corresponding service is decommissioned.</li>
+            <li>The domain registration <b>must</b> be reviewed again <i>not less than</i> 12 months before it is due to expire,
+            to determine if the registration should still be maintained.</li>
+          </ul>
+        </p>
+        </body>
+    </topic>
   </topic>
   <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

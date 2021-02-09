@@ -94,7 +94,7 @@ When a service is no longer provided or required, any domain name used to access
 
 But it's important to check whether the domain is still required, even when the service is no longer provided.
 
-If the domain should be kept, for how long should it be kept?
+### How long should a domain be kept?
 
 The answer depends on how the original domain was used in practice.
 
