@@ -7,7 +7,7 @@
     <p>Everyone working at the <ph conref="conrefs.dita#conrefs/moj"/> has access to <ph conref="conrefs.dita#conrefs/moj"/> Information Technology (IT) resources.
     You must use them in an acceptable way.
     This guidance explains what that means.
-    The definitive list of Acceptable Use Policy statements is <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/" format="html" scope="external" platform="html">here</xref><xref href="it-acceptable-use-policy.dita" format="dita" platform="epub pdf">here</xref>.</p>
+    <ph audience="audience-tech">The definitive list of Acceptable Use Policy statements is <xref href="it-acceptable-use-policy.dita" format="dita">here</xref>.</ph></p>
   </body>
   <topic id="summary">
     <title>Summary</title>
@@ -132,7 +132,7 @@
     <body>
       <p>Some IT resources might be usable <xref href="https://intranet.justice.gov.uk/documents/2017/12/remote-working-and-mobile-computing-security-guide-november-2017.pdf" format="pdf" scope="external">away from your usual workplace</xref>, such as a laptop.
       Even outside the office, you must continue to ensure acceptable use of the IT resources.</p>
-      <p>You should also <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/taking-it-equipment-abroad-business-or-personal/" format="html" scope="external">ask</xref> before taking <ph conref="conrefs.dita#conrefs/moj"/> IT equipment outside the UK.</p>
+      <p>You should also <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/taking-it-equipment-overseas-business-or-personal/" format="html" scope="external">ask</xref> before taking <ph conref="conrefs.dita#conrefs/moj"/> IT equipment outside the UK.</p>
     </body>
   </topic>
   <topic id="avoid-using-removable-media">

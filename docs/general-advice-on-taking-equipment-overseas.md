@@ -1,16 +1,16 @@
-# General advice on taking equipment abroad
+# General advice on taking equipment overseas
 
-As a government official travelling overseas, you should consider that you are highly likely to be of interest to a range of hostile parties, regardless of your role or seniority. Laptops, tablets and phones are very desirable pieces of equipment to steal and travelling abroad with it puts you at a greater security risk of being a victim of theft.
+As a government official travelling overseas, you should consider that you are highly likely to be of interest to a range of hostile parties, regardless of your role or seniority. Laptops, tablets and phones are very desirable pieces of equipment to steal and travelling overseas with it puts you at a greater security risk of being a victim of theft.
 
 You should never put yourself in any danger to protect the security of an IT device, as the level of impact to the Ministry of Justice \(MoJ\) of a compromise does not warrant the risk of injury or loss of liberty. By following your department policies and the advice issued, you can help reduce the risk to yourself and your colleagues.
 
 ## General guidance
 
-Remove unnecessary files from your device when travelling abroad so that the risk of data exposure is reduced in case of loss or theft.
+Remove unnecessary files from your device when travelling overseas so that the risk of data exposure is reduced in case of loss or theft.
 
-## Keeping safe whilst conducting sensitive work abroad
+## Keeping safe whilst conducting sensitive work overseas
 
-Be aware that voice calls and SMS messages are not secure and voice calls can be intercepted whilst abroad. Keeping your phone with you at all times helps in having a high level of physical control over the equipment:
+Be aware that voice calls and SMS messages are not secure and voice calls can be intercepted whilst overseas. Keeping your phone with you at all times helps in having a high level of physical control over the equipment:
 
 -   Keep any password/PIN separate from the device.
 -   Be careful when using your device in situations where it may be lost or stolen, such as busy public places and while transiting customs or security at airports.

@@ -92,10 +92,10 @@
         <p>(You must not share your LastPass main password with anyone, even your line manager or <ph conref="conrefs.dita#conrefs/moj"/> security.)</p>
       </body>
     </topic>
-    <topic id="using-it-abroad">
-      <title>Using it abroad</title>
+    <topic id="using-it-overseas">
+      <title>Using it overseas</title>
       <body>
-        <p>Taking a device (such as personal smartphone) that has <ph conref="conrefs.dita#conrefs/moj"/> LastPass installed counts as travelling abroad with <ph conref="conrefs.dita#conrefs/moj"/> information.</p>
+        <p>Taking a device (such as personal smartphone) that has <ph conref="conrefs.dita#conrefs/moj"/> LastPass installed counts as travelling overseas with <ph conref="conrefs.dita#conrefs/moj"/> information.</p>
         <p>The <ph conref="conrefs.dita#conrefs/moj"/> has existing <xref href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal/" format="html" scope="external">policies on travelling abroad on the <ph conref="conrefs.dita#conrefs/moj"/> intranet</xref> which require various approvals before travel.</p>
         <p>It may be simpler to 'log out' of the LastPass applications or uninstall/delete them before travelling outside of the UK and reinstalling when you get back.</p>
       </body>

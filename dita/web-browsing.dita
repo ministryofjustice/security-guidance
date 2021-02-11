@@ -55,7 +55,7 @@
         Similarly,
         if you can access a site that you think should be blocked,
         <xref href="#what-to-do-if-you-are-able-to-access-a-website-that-you-think-should-be-blocked" format="dita">request a review</xref>.</p>
-      <p>The access rules that apply are described in <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles-new/" format="html" scope="external" platform="html">this document</xref><xref href="web-browsing-security-policy-profiles.dita" format="dita" platform="epub pdf">detail here</xref>.</p>
+      <p audience="audience-tech">The access rules that apply are described in detail <xref href="web-browsing-security-policy-profiles.dita" format="dita">here</xref>.</p>
     </body>
   </topic>
   <topic id="what-to-do-if-you-are-blocked-from-a-website-that-you-think-should-be-ok">
