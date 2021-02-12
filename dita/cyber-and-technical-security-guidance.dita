@@ -20,7 +20,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
             <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">General Apps Guidance</xref></li>
             <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements Guide</xref></li>
             <li><xref href="official-official-sensitive.dita" format="dita">OFFICIAL, OFFICIAL-SENSITIVE</xref> classifications and handling</li>
-            <li><xref href="accessing-moj-it-systems-from-abroad.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Abroad</xref></li>
+            <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From overseas</xref></li>
             <li><xref href="remote-working.dita" format="dita">Remote Working</xref></li>
           </ul>
         </p>
@@ -415,11 +415,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
-                <entry colname="col1" align="left"><xref href="accessing-moj-it-systems-from-abroad.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Abroad</xref></entry>
+                <entry colname="col1" align="left"><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From overseas</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="general-advice-on-taking-equipment-abroad.dita" format="dita">General advice on taking equipment abroad</xref></entry>
+                <entry colname="col1" align="left"><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita">General advice on taking equipment overseas</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
@@ -480,21 +480,13 @@ has made for the products we operate, and our relationships with suppliers.</p>
 					<entry colname="col1" align="left"><xref href="acceptable-use.dita" format="dita">Acceptable use</xref></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
-				<row platform="html">
-					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use-policy/" format="html" scope="external">Acceptable use policy</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row platform="epub pdf">
+				<row>
 					<entry colname="col1" align="left"><xref href="acceptable-use-policy.dita" format="dita">Acceptable use policy</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
+					<entry colname="col2" align="right">All users (Policy)</entry>
 				</row>
-				<row platform="html">
-					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/it-acceptable-use-policy/" format="html" scope="external">IT Acceptable Use Policy</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row platform="epub pdf">
+				<row>
 					<entry colname="col1" align="left"><xref href="it-acceptable-use-policy.dita" format="dita">IT Acceptable Use Policy</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
+					<entry colname="col2" align="right">All users (Policy)</entry>
 				</row>
 				<row platform="html">
 					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/protect-yourself-online/" format="html" scope="external">Protect Yourself Online</xref></entry>
@@ -535,13 +527,9 @@ has made for the products we operate, and our relationships with suppliers.</p>
 					<entry colname="col1" align="left"><xref href="government-classification-scheme.dita" format="dita">Government Classification Scheme</xref></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
-				<row platform="html">
-					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/" format="html" scope="external">Information Classification and Handling Policy</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row platform="epub pdf">
+				<row>
 					<entry colname="col1" align="left"><xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
+					<entry colname="col2" align="right">All users (Policy)</entry>
 				</row>
               <row>
                 <entry colname="col1" align="left"><xref href="official-official-sensitive.dita" format="dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref></entry>
@@ -1056,13 +1044,9 @@ has made for the products we operate, and our relationships with suppliers.</p>
 					<entry colname="col1" align="left"><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita" type="topic">General Apps Guidance</xref></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
-				<row platform="html">
-					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles-new/" format="html" scope="external">Web browsing security policy profiles</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row platform="epub pdf">
+				<row>
 					<entry colname="col1" align="left"><xref href="web-browsing-security-policy-profiles.dita" format="dita" type="topic">Web browsing security policy profiles</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
+					<entry colname="col2" align="right">All users (Policy)</entry>
 				</row>
             </tbody></tgroup></table>
           </body>

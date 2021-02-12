@@ -32,7 +32,7 @@
 			<ph id="ostemail"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
 			<ph id="privacyemail"><xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">privacy@justice.gov.uk</xref></ph>
 			<ph id="recordsretentionemail"><xref href="mailto:Records_Retention_@justice.gov.uk" format="email" scope="external">Records_Retention_@justice.gov.uk</xref></ph>
-			<ph id="securityemail"><xref href="mailto:security@digital.justice.gov.uk" format="email" scope="external">security@digital.justice.gov.uk</xref></ph>
+			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></ph>
 		</p>
 		<p id="contactcatbyemail">Contact the Cyber Assistance Team by email: <ph conref="#conrefs/catemail"/></p>
 		<image id="intraneticon" href="images/gov-uk-logotype-crown.png"><alt>A small UK Government Crown, to indicate that the link is to the <ph conref="#conrefs/moj"/> Intranet.</alt></image>
@@ -199,6 +199,29 @@
 	<topic id="feedback">
 		<title>Feedback</title>
 		<body><lq>If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: <ph conref="#conrefs/itpolicycontentemail"/>.</lq>
+		</body>
+	</topic>
+
+	<topic id="thirdpartyapp">
+		<title>Requesting that an app be approved for use</title>
+		<body>
+			<p>If there is an application or service that is not currently approved,
+				but which you would like to use,
+				you can request a security review.</p>
+			<p>Begin the request by filling in <xref href="https://docs.google.com/forms/d/e/1FAIpQLSeEEBDS1HBF7meUk3SjgkqxbXBQlKAiBAezJIbKHnEjfNjBTg/viewform?gxids=7628" format="html" scope="external">this form</xref>, as best you can.
+			The more information you provide, the better.
+			But don't worry if you have to leave some bits of the form blank.</p>
+			<p>When you submit the form,
+				it is passed to the security team.
+				The app is reviewed,
+				to check things like how safe it is to use,
+				and whether there are any Data Privacy implications.
+				The security team will respond to you with an answer as quickly as possible.</p>
+			<note>You should submit the request,
+				and wait for a formal 'approval' response,
+				<i>before</i> you install or use the app on  <ph conref="#conrefs/moj"/> equipment or information.</note>
+			<p>If you have any questions about the process,
+				contact the security team: <ph conref="#conrefs/securityemail"/>.</p>
 		</body>
 	</topic>
 </topic>

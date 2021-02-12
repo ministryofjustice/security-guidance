@@ -144,6 +144,18 @@ There are already many OITs used across the MoJ. Permission to use an OIT might 
 
 **Note:** Check with your Line Manager if you want to use an OIT for your work, *before* you use it.
 
+## Requesting that an app be approved for use
+
+If there is an application or service that is not currently approved, but which you would like to use, you can request a security review.
+
+Begin the request by filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLSeEEBDS1HBF7meUk3SjgkqxbXBQlKAiBAezJIbKHnEjfNjBTg/viewform?gxids=7628), as best you can. The more information you provide, the better. But don't worry if you have to leave some bits of the form blank.
+
+When you submit the form, it is passed to the security team. The app is reviewed, to check things like how safe it is to use, and whether there are any Data Privacy implications. The security team will respond to you with an answer as quickly as possible.
+
+**Note:** You should submit the request, and wait for a formal 'approval' response, *before* you install or use the app on MoJ equipment or information.
+
+If you have any questions about the process, contact the security team: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+
 ## Getting help
 
 For further help about aspects of using OITs within the MoJ, contact:

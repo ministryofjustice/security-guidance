@@ -26,11 +26,11 @@ Supplier's may process MoJ data \(including Personal Data for which the MoJ is r
 
 MoJ data must not routinely be processed within an incompatible legal framework to the United Kingdom.
 
-#### Working abroad
+#### Working overseas
 
-Supplier staff are **not** prohibited from working abroad while processing MoJ data on the basis that adequate information controls and governance are maintained.
+Supplier staff are **not** prohibited from working overseas while processing MoJ data on the basis that adequate information controls and governance are maintained.
 
-When working abroad, this may include limiting access to information while the user travels or using secondary temporary accounts to avoid primary account compromise.
+When working overseas, this may include limiting access to information while the user travels or using secondary temporary accounts to avoid primary account compromise.
 
 ### Data backups
 

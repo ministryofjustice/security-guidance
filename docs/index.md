@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 8 February 2021.
+**Note:** This guidance is dated: 11 February 2021.
 
 ### Popular links
 
@@ -15,7 +15,7 @@ Popular links for all users:
 -   [General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)
 -   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
 -   [OFFICIAL, OFFICIAL-SENSITIVE](official-official-sensitive.md) classifications and handling
--   [Accessing MoJ IT Systems From Abroad](accessing-moj-it-systems-from-abroad.md)
+-   [Accessing MoJ IT Systems From overseas](accessing-moj-it-systems-from-overseas.md)
 -   [Remote Working](remote-working.md)
 
 ### Offline content
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|On request.|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|On request.|
 
-The offline versions of this guidance are time-limited, and are not valid after 8 March 2021.
+The offline versions of this guidance are time-limited, and are not valid after 11 March 2021.
 
 ### Searching this content
 
@@ -50,7 +50,7 @@ The content of this site is searchable in two ways:
 ### Getting in touch
 
 -   [To report an incident](reporting-an-incident.md).
--   For general assistance on MoJ security matters, email [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
+-   For general assistance on MoJ security matters, email [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   For Cyber Security assistance or consulting, email [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk). More information about the Cyber Security Consultancy Team is [available](user-guide.md).
 -   Suppliers to the MoJ should first communicate with their usual MoJ points of contact.
 
@@ -125,8 +125,8 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Teleworking
 
-|[Accessing MoJ IT Systems From Abroad](accessing-moj-it-systems-from-abroad.md)|All users|
-|[General advice on taking equipment abroad](general-advice-on-taking-equipment-abroad.md)|All users|
+|[Accessing MoJ IT Systems From overseas](accessing-moj-it-systems-from-overseas.md)|All users|
+|[General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md)|All users|
 |[Security Guidance for Using a Personal Device](personal-devices.md)|All users|
 
 ### Human resource security
@@ -144,8 +144,8 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 #### Responsibility for assets
 
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Acceptable use](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/)|All users|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Acceptable use policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use-policy/)|All users|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [IT Acceptable Use Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/it-acceptable-use-policy/)|All users|
+|[Acceptable use policy](acceptable-use-policy.md)|All users \(Policy\)|
+|[IT Acceptable Use Policy](it-acceptable-use-policy.md)|All users \(Policy\)|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Protect Yourself Online](https://intranet.justice.gov.uk/guidance/security/it-computer-security/protect-yourself-online/)|All users|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Web browsing security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/)|All users|
 
@@ -153,7 +153,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Data Handling and Information Sharing Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/data-handling-and-information-sharing-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Government Classification Scheme](https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/)|All users|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Information Classification and Handling Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/)|All users|
+|[Information Classification and Handling Policy](information-classification-and-handling-policy.md)|All users \(Policy\)|
 |[`OFFICIAL` and `OFFICIAL-SENSITIVE`](official-official-sensitive.md)|All users|
 |[Secrets management](secrets-management.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
@@ -284,7 +284,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |[Data Sovereignty](data-sovereignty.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Email security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/email/)|All users|
 |[General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Web browsing security policy profiles](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles-new/)|All users|
+|[Web browsing security policy profiles](web-browsing-security-policy-profiles.md)|All users \(Policy\)|
 
 ### System acquisition, development and maintenance
 

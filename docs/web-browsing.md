@@ -38,7 +38,7 @@ The MoJ's approach to website access is continually reviewed and updated. By def
 
 The list of websites included in each of the categories is as small as possible. But if you cannot access a site that you think should be OK, you can [request a review](#what-to-do-if-you-are-blocked-from-a-website-that-you-think-should-be-ok). Similarly, if you can access a site that you think should be blocked, [request a review](#what-to-do-if-you-are-able-to-access-a-website-that-you-think-should-be-blocked).
 
-The access rules that apply are described in [this document](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles-new/).
+The access rules that apply are described in detail [here](web-browsing-security-policy-profiles.md).
 
 ## What to do if you are blocked from a website that you think should be OK
 
