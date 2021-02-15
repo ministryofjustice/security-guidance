@@ -4,7 +4,7 @@ redirect_from:
 ---
 # Defensive domain registrations
 
-The Ministry of Justice \(MoJ\) and associated organisations \(Executive agencies, non-departmental public bodies and so on\) maintain varying levels of 'online presence' using domain registrations. This are a fundamental part of the organisation's identity on the public internet. An example is the justice.gov.uk email domain used for contacting other government organisations, partners and members of the public.
+The Ministry of Justice \(MoJ\) and associated organisations \(Executive agencies, non-departmental public bodies and so on\) maintain varying levels of 'online presence' using domain registrations. This are a fundamental part of the organisation's identity on the public internet. An example is the `justice.gov.uk` email domain used for contacting other government organisations, partners and members of the public.
 
 Each MoJ organisation **must** identify a core set of internet domains it considers critical to its internet identity. Each MoJ organisation must then defensively register a small number of obvious variations \(for example, `justice.gov.uk` may justify `justicegov.uk`, `justice.co.uk` and `justice.uk` where already not used for legitimate purposes\).
 
@@ -87,6 +87,29 @@ Mail services/redirects must **not** be functional or available for defensively 
 ## Registering and maintaining a defensive domain
 
 MoJ organisations should contact [domains@digital.justice.gov.uk](mailto://domains@digital.justice.gov.uk) for assistance with defensive doman registrations and operations.
+
+## Decommissioning a domain
+
+When a service is no longer provided or required, any domain name used to access that service is no longer required. This means that the domain can be decommissioned. Technically, decommissioning a domain is easy: simply cancel the registration.
+
+But it's important to check whether the domain is still required, even when the service is no longer provided.
+
+### How long should a domain be kept?
+
+The answer depends on how the original domain was used in practice.
+
+For example, if the domain was only used internally within the MoJ, and all references to it have already been updated to point to the new or replacement service, then the old domain name probably does not need to be kept for more than 12 months.
+
+However, there are circumstances where it is important to keep a domain for longer periods of time. For example:
+
+-   The domain was heavily used internally, and there might be old emails or documents referring to it.
+-   The domain was used externally.
+-   The domain would be attractive for '[domain squatting](https://en.wikipedia.org/wiki/Cybersquatting)'.
+
+In general, unless there is a good case for saying that a domain name does not need to be kept for defensive purposes:
+
+-   A domain associated with a decommissioned service **must** be maintained for *at least* five years after the corresponding service is decommissioned.
+-   The domain registration **must** be reviewed again *not less than* 12 months before it is due to expire, to determine if the registration should still be maintained.
 
 ## Feedback
 

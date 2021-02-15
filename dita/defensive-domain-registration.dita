@@ -3,7 +3,7 @@
 <topic id="defensive-domain-registration">
   <title>Defensive domain registrations</title>
   <body>
-    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> and associated organisations (Executive agencies, non-departmental public bodies and so on) maintain varying levels of 'online presence' using domain registrations. This are a fundamental part of the organisation's identity on the public internet. An example is the justice.gov.uk email domain used for contacting other government organisations, partners and members of the public.</p>
+    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> and associated organisations (Executive agencies, non-departmental public bodies and so on) maintain varying levels of 'online presence' using domain registrations. This are a fundamental part of the organisation's identity on the public internet. An example is the <codeph>justice.gov.uk</codeph> email domain used for contacting other government organisations, partners and members of the public.</p>
     <p>Each <ph conref="conrefs.dita#conrefs/moj"/> organisation <b>must</b> identify a core set of internet domains it considers critical to its internet identity. Each <ph conref="conrefs.dita#conrefs/moj"/> organisation must then defensively register a small number of obvious variations (for example, <codeph>justice.gov.uk</codeph> may justify <codeph>justicegov.uk</codeph>, <codeph>justice.co.uk</codeph> and <codeph>justice.uk</codeph> where already not used for legitimate purposes).</p>
     <p>These registrations will help protect the organisation, as well as its partners and members of the public, from illegitimate parties pretending to be the organisation when they are not. Failing to register these domains can cause problems, such as phishing emails using what seem to be plausible domains.</p>
   </body>
@@ -103,6 +103,47 @@
     <body>
       <p><ph conref="conrefs.dita#conrefs/moj"/> organisations should contact <xref href="mailto://domains@digital.justice.gov.uk" format="html" scope="external">domains@digital.justice.gov.uk</xref> for assistance with defensive doman registrations and operations.</p>
     </body>
+  </topic>
+  <topic id="decommissioning-a-domain">
+    <title>Decommissioning a domain</title>
+    <body>
+      <p>When a service is no longer provided or required,
+        any domain name used to access that service is no longer required.
+        This means that the domain can be decommissioned.
+        Technically,
+        decommissioning a domain is easy: simply cancel the registration.</p>
+      <p>But it's important to check whether the domain is still required,
+        even when the service is no longer provided.</p>
+    </body>
+    <topic id="how-long-should-a-domain-be-kept">
+      <title>How long should a domain be kept?</title>
+      <body>
+        <p>The answer depends on how the original domain was used in practice.</p>
+        <p>For example,
+          if the domain was only used internally within the <ph conref="conrefs.dita#conrefs/moj"/>,
+          and all references to it have already been updated to point to the new or replacement service,
+          then the old domain name probably does not need to be kept for more than 12 months.</p>
+        <p>However,
+          there are circumstances where it is important to keep a domain for longer periods of time.
+          For example:
+          <ul>
+            <li>The domain was heavily used internally,
+              and there might be old emails or documents referring to it.</li>
+            <li>The domain was used externally.</li>
+            <li>The domain would be attractive for '<xref href="https://en.wikipedia.org/wiki/Cybersquatting" format="html" scope="external">domain squatting</xref>'.</li>
+          </ul>
+        </p>
+        <p>In general,
+          unless there is a good case for saying that a domain name does not need to be kept for defensive purposes:
+          <ul>
+            <li>A domain associated with a decommissioned service <b>must</b> be maintained for <i>at least</i> five years after the
+              corresponding service is decommissioned.</li>
+            <li>The domain registration <b>must</b> be reviewed again <i>not less than</i> 12 months before it is due to expire,
+            to determine if the registration should still be maintained.</li>
+          </ul>
+        </p>
+        </body>
+    </topic>
   </topic>
   <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
