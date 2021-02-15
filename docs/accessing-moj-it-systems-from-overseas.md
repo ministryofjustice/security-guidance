@@ -19,7 +19,7 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 
 1.  Get confirmation from your Line Manager that there is a business need for you to take MoJ equipment overseas and access MoJ services. Keep a note of the answers you get.
 2.  Proceed directly to [Part Two](#part-two) of this process if *either one* of the following two statements apply to you:
-    -   You are travelling or passing through one of the following high-attention countries: *China, Cyprus, Egypt, France, Germany, India, Iran, Israel, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey, UAE*.
+    -   You are travelling or passing through one of the following high-attention countries: *China, Cyprus, Egypt, India, Iran, Israel, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey, UAE*.
     -   You are national security cleared to 'Enhanced SC' or DV levels.
 3.  If you have reached this step, you do not need to seek further formal approval for your trip.
 4.  Take a copy of this guidance; it includes useful contact details that help in the event of a problem while travelling.
@@ -33,13 +33,13 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
     -   Email address.
     -   Your business area.
     -   Your Security Clearance.
-    -   The network you use to access MoJ data, services or applications, for example DOM1 or Quantum.
+    -   The network you use to access MoJ data, services or applications, for example DOM1 or Quantum, or online services such as AWS or Google Workspace.
     -   The make/type of equipment you want to take with you.
     -   Asset Tag details.
     -   Countries you'll be visiting or passing through.
     -   Dates of travel.
     -   Transport details where possible, for example flights or rail journeys.
-    -   Proposed method of connecting, for example MoJ VPN.
+    -   Proposed method of connecting, for example MoJ VPN, WiFi, or Mobile Data \(3G/4G/5G\).
     -   Reason for maintaining access while overseas.
     -   The MoJ data, applications, or services you expect to access during your trip.
     -   Who you are travelling with.
@@ -59,15 +59,13 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 
 While travelling, you might incur roaming charges when using your MoJ equipment for calls or accessing services. These charges can be expensive, and must be paid by your Business Unit. This is another reason for having a good business need to take MoJ equipment overseas.
 
-By default, MoJ equipment is not enabled for use overseas. Before travelling, contact the [MoJ Phone and Mobile Devices](#contacts) team. Ask them to enable International Roaming, and to activate the remote wipe function. This helps protect the MoJ equipment in case of loss or theft.
+By default, MoJ equipment is not enabled for use overseas. Before travelling, raise the relevant IT Catalogue request to have International Roaming enabled for the duration of your trip, and to activate the remote wipe function. This helps protect the MoJ equipment in case of loss or theft.
 
 ## If you have any problem when using MoJ equipment overseas
 
 Contact the [Service Desk](#contacts) immediately. Tell them if the MoJ equipment is lost, stolen or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.
 
-If any security-related incident occurs overseas, regardless of whether it involves MoJ equipment, you should contact [Corporate Security Branch](#contacts) as soon as possible.
-
-For any emergency outside normal UK business hours, contact the [Duty Security Officer](#contacts).
+If any security-related incident occurs overseas, regardless of whether it involves MoJ equipment, you should contact the [Operational Security Team](#contacts) as soon as possible. See the guidance on [Reporting a Security Incident](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) on the MoJ Intranet. This includes information on reporting an incident outside of UK working hours. For convenience, the out-of-hours telephone number for reporting incidents is repeated [below](#information-incident-reporting-line).
 
 If there is a problem with your MoJ equipment, it might be necessary to disable your ability to connect to the MoJ network or services from your device. The Service Desk will do this if required. MoJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MoJ business.
 
@@ -99,10 +97,12 @@ If there is a problem with your MoJ equipment, it might be necessary to disable 
 -   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
 -   Slack: `#digitalservicedesk`
 
-### MoJ Duty Security Officer
+### Information Incident Reporting Line
 
--   Tel: +44 \(0\)20 3334 5577
--   Email: [dutysecurityofficer@justice.gov.uk](mailto:dutysecurityofficer@justice.gov.uk)
+-   Tel: +44 \(0\)20 3334 0324 for HMPPS staff at any time.
+-   Tel: +44 \(0\)20 3334 0324 for MoJ staff **outside UK working hours**.
+
+During UK working hours, MoJ \(but not HMPPS\) staff should follow the process on the [Reporting a Security Incident](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) page on the MoJ Intranet.
 
 ### MoJ Phone and Mobile Devices
 
