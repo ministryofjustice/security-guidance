@@ -5,34 +5,60 @@
   <topic id="summary">
     <title>Summary</title>
     <body>
-      <p>Not everyone has access to an <ph conref="conrefs.dita#conrefs/mojlong"/> device which can be used remotely. In these extraordinary times, exceptional provision is being developed for you to use your own devices for work purposes.</p>
-      <p>Until that provision is in place, you must not use a personal device for work purposes.</p>
+      <p>This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/mojlong"/>.
+        It provides advice about using personal devices for work purposes.</p>
+      <p>A personal device is any desktop, laptop, tablet, phone, external drive or similar device that the <ph conref="conrefs.dita#conrefs/moj"/> does not own.</p>
+      <p>Not everyone has access to an <ph conref="conrefs.dita#conrefs/moj"/> device for remote use.
+        If you need equipment, you can request it.
+        It can be provided quickly.
+        Contact your Line Manager for details,
+        and to raise a request through the Service Desk.</p>
+      <p>In unusual circumstances,
+        it might not be possible to organise provision of equipment.
+        In such cases,
+        you can request access to an <ph conref="conrefs.dita#conrefs/moj"/> virtual environment.</p>
+      <note>Except when connecting to an  <ph conref="conrefs.dita#conrefs/moj"/>
+        virtual environment,
+        you must not use a personal device for work purposes.</note>
     </body>
   </topic>
   <topic id="guidance">
     <title>Guidance</title>
     <body>
       <ul>
-        <li>
-          <p>If you have an <ph conref="conrefs.dita#conrefs/moj"/>-issued device, you must use that.</p>
-        </li>
-        <li>
-          <p>You may not use Office 365 tools (email, calendar, Word, Excel, Powerpoint, etc.) for work purposes on a personal device (desktop, laptop, tablet or phone). This applies to web browser and installed client applications.</p>
-        </li>
-        <li>
-          <p>Do not send <ph conref="conrefs.dita#conrefs/moj"/> information to your personal email account, or use personal accounts for work purposes.</p>
-        </li>
-        <li>
-          <p>Do not store work files or information on a personal device (desktop, laptop, tablet or phone).</p>
-        </li>
-        <li>
-          <p>Some teams within the <ph conref="conrefs.dita#conrefs/moj"/>, such as groups within Digital &amp; Technology, and HMCTS, might already have prior permission to use personal devices for aspects of software and service development work. This permission continues, but is being reviewed on an on-going basis.</p>
-        </li>
+        <li>If you have an <ph conref="conrefs.dita#conrefs/moj"/>-issued device or virtual environment, you must use that.</li>
+        <li>You must not use a personal device to access Office 365 tools (email, calendar, Word, Excel, Powerpoint, etc.) for work purposes.</li>
+        <li>You must not use a personal device to access <ph conref="conrefs.dita#conrefs/gsuite"/> tools (Gmail, Docs, Slides, Sheets, Drive, Meet, Hangouts, etc.) for work purposes.</li>
+        <li>This guidance applies to all tools accessed through a web browser or installed client applications.</li>
+        <li>Do not send <ph conref="conrefs.dita#conrefs/moj"/> information to your personal email account.</li>
+        <li>Do not use personal accounts for work purposes.</li>
+        <li>Do not store work files or information on a personal device (desktop, laptop, tablet or phone).</li>
+        <li>Do not store work files or information on a personal storage device or memory stick (external drive, thumb drive, USB stick, etc.).</li>
+        <li>Some teams within the <ph conref="conrefs.dita#conrefs/moj"/>
+            might have permission to use personal devices for some tasks.
+            This permission continues,
+            but is being reviewed on an on-going basis.
+            Ensure that you have documented approval recording your permission.
+            Ensure that the permission is no more than 12 months old.</li>
       </ul>
-      <p>This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/moj"/>. It provides advice about using your personal devices for work purposes.</p>
-      <p>
-        <i><b>Note</b>: You are not being asked or required to use your own devices for work purposes. If you have access to <ph conref="conrefs.dita#conrefs/moj"/> devices for work purposes, you should use them by default.</i>
-      </p>
+      <note>You are not asked or required to use your own devices for work purposes.
+        If you have access to <ph conref="conrefs.dita#conrefs/moj"/> devices for work purposes,
+        you must use them by default.</note>
+    </body>
+  </topic>
+  <topic id="virtual-environment">
+    <title>Virtual environment</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> can enable access to a Virtual Environment
+        to help with exceptional circumstances.
+        This is where suitable provision of a physical device is not possible.</p>
+      <p>Request a virtual environment through the <codeph>Creation of WVD instances</codeph>
+      product offering within the Service Catalogue in <ph conref="conrefs.dita#conrefs/moj"/> Service Now.</p>
+      <note>A virtual environment does not offer the same capabilities or performance
+        as a physical <ph conref="conrefs.dita#conrefs/moj"/>-issued device.
+      A virtual environment is also more costly to provide and operate than a physical device.
+      For these reasons,
+      using an <ph conref="conrefs.dita#conrefs/moj"/>-issued device is always preferable.</note>
     </body>
   </topic>
   <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
