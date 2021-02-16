@@ -18,7 +18,9 @@
         In such cases,
         you can request access to an <ph conref="conrefs.dita#conrefs/moj"/> virtual environment.</p>
       <note>Except when connecting to an  <ph conref="conrefs.dita#conrefs/moj"/>
-        virtual environment,
+        <xref href="#virtual-environment" format="dita">virtual environment</xref>,
+        or with documented approval in exceptional circumstances as described
+        <xref href="#guidance" format="dita">below</xref>,
         you must not use a personal device for work purposes.</note>
     </body>
   </topic>
@@ -39,7 +41,9 @@
             This permission continues,
             but is being reviewed on an on-going basis.
             Ensure that you have documented approval recording your permission.
-            Ensure that the permission is no more than 12 months old.</li>
+            Ensure that the permission is no more than 12 months old.
+            To request or refresh permission,
+            ask your Line Manager to seek approval by checking with the Operational Security Team: <ph conref="conrefs.dita#conrefs/securityemail"/>.</li>
       </ul>
       <note>You are not asked or required to use your own devices for work purposes.
         If you have access to <ph conref="conrefs.dita#conrefs/moj"/> devices for work purposes,
@@ -56,9 +60,7 @@
       product offering within the Service Catalogue in <ph conref="conrefs.dita#conrefs/moj"/> Service Now.</p>
       <note>A virtual environment does not offer the same capabilities or performance
         as a physical <ph conref="conrefs.dita#conrefs/moj"/>-issued device.
-      A virtual environment is also more costly to provide and operate than a physical device.
-      For these reasons,
-      using an <ph conref="conrefs.dita#conrefs/moj"/>-issued device is always preferable.</note>
+      Using an <ph conref="conrefs.dita#conrefs/moj"/>-issued device is always preferable.</note>
     </body>
   </topic>
   <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
