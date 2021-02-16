@@ -8,7 +8,7 @@ Target audience:
 
 [spf]: https://www.gov.uk/government/publications/security-policy-framework
 
-# IT Security All Users Guide
+# IT Security Users Guide
 
 ## Introduction
 
@@ -115,15 +115,13 @@ For the purpose of this Information Security Policy, the following roles are des
 | | | Understanding and addressing risks associated to their information assets |
 | | | Ensuring secure disposal of information no longer required|
 | **System Owners** | System Owners are responsible for managing access control rules for their particular system. | Verifying access rights in order to assist a scheduled review audit of User accounts and permissions.|
-| **Contract Owners** |Contract Owners are responsible for ensuring contractors adhere to the IT Security Policy set out here and in associated documentation | Verify that contracts are written to reflect the MoJ's IT Security Policy|
+| **Contract Owners** |Contract Owners are responsible for ensuring contractors adhere to the IT Security Policy set out here and in associated documentation | Verify that contracts are written to reflect the MoJ's IT Security Policy.|
 | | | Ensure contractors comply with the requirements set out by this policy and associated documentation|
+| | | Responsible for escalating the risk of non-compliance by a supplier / seeking guidance on suspected non-compliance with security requirements in a contract.|
 | | | Ensure that the contractor is responsible for any sub-contractors that they employ directly or indirectly and that the contractor, not the MoJ, is responsible for ensuring that those sub-contractors comply with this policy and associated documentation | |
 
 ## Contact details
 
-- Contact the Cyber Assistance Team for further advice - [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
-- Contact the Technology Service Desk to report a suspected IT incident:<br/>Telephone: 0800 917 5148.
-- Contact the MoJ Security Team to report other security incidents: [Security@justice.gov.uk](mailto:Security@justice.gov.uk)
-- Contact the Operational Security Team for further advice: [Operationalsecurityteam@justice.gov.uk](mailto:operationalsecurityteam@justice.gov.uk)
-- Contact the Government Internal Audit Agency for more information:
-[correspondence@giaa.gov.uk](mailto:correspondence@giaa.gov.uk)
+- Contact the Technology Service Desk to report a suspected IT incident: Telephone: 0800 917 5148.
+- Contact the MoJ Security Team for further advice and to report other security incidents: [Security@justice.gov.uk](mailto:Security@justice.gov.uk)
+- Contact the Government Internal Audit Agency for more information: [correspondence@giaa.gov.uk](mailto:correspondence@giaa.gov.uk)
