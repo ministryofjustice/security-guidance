@@ -161,6 +161,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Operational procedures and responsibilities</navtitle></topicmeta>
 			<topicref href="mail-check.dita" type="topic" audience="audience-tech"/>
 			<topicref href="offshoring-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="offshoring-policy.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="public-sector-dns.dita" type="topic" audience="audience-tech"/>
 			<topicref href="web-check.dita" type="topic" audience="audience-tech"/>
 		</topichead>

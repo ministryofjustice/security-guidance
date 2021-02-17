@@ -225,6 +225,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |[Active Cyber Defence: Public Sector DNS](public-sector-dns.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Active Cyber Defence: Web Check](web-check.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Offshoring Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/offshoring-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Offshoring Policy](offshoring-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 #### Protection from malware
 

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="offshoring-policy">
+    <title>Offshoring Policy</title>
+    <topic id="introduction">
+        <title>Introduction</title>
+        <body>
+            <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> has a large number of outsourced service providers,
+            varying from applications,
+            infrastructure,
+            payment processing,
+            document printing,
+            1st,
+            2nd and 3rd line support.
+            These suppliers may utilise their services being supported or hosted onshore or offshore. 
+            Onshore means within the United Kingdom (UK).
+            Offshore means outside the borders of the UK.</p>
+            <p>Some contracts,
+            and the underlying policies and processes,
+            might need to be varied according to circumstances.</p>
+            <p>Offshoring services includes collecting,
+            transferring,
+            storing and processing <ph conref="conrefs.dita#conrefs/moj"/>
+            <ph audience="audience-tech"><xref href="official-official-sensitive.dita" format="dita">OFFICIAL and OFFICIAL-SENSITIVE</xref></ph>
+            <ph platform="epub pdf" audience="audience-suppliers">OFFICIAL and OFFICIAL-SENSITIVE</ph>
+            data and information.
+            This includes personal, financial and legal information.</p>
+            <p>Privacy,
+            Security,
+            Commercial,
+            and Legal risks associated with offshoring must be reviewed,
+            and appropriate controls put in place to reduce or mitigate any weaknesses.</p>
+        </body>
+        <topic id="definition-of-offshoring">
+            <title>Definition of Offshoring</title>
+            <body>
+                <p>Offshoring is where any part of the service delivery relating to data is conducted outside the UK,
+                and is therefore potentially subject to non-UK controlled legislation,
+                standards,
+                governance and compliance.</p>
+                <p>This relates to:
+                <ul>
+                <li>Where data and services are physically located.</li>
+                <li>Where the individuals who manage the services - including the development, maintenance, applications and processing systems - are located.</li>
+                <li>Who has access to the data.</li>
+                </ul></p>
+            </body>
+        </topic>
+    </topic>
+    <topic id="objectives">
+        <title>Objectives</title>
+        <body>
+            <p>This Policy applies to all departments within the <ph conref="conrefs.dita#conrefs/moj"/>,
+                including all employees and contractors.
+                Non-compliance with the Policy is a serious matter,
+                which could result in the <ph conref="conrefs.dita#conrefs/moj"/> being exposed to unnecessary risks.
+                Disciplinary action could be taken in the event of a breach of this policy.
+                This policy should be read in conjunction with current <ph conref="conrefs.dita#conrefs/moj"/> guidance,
+                including the <ph platform="html"><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/" format="html" scope="external">Information Security Policy</xref></ph><ph platform="epub pdf">Information Security Policy</ph>,
+                <ph platform="html"><xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/privacy-reform/" format="html" scope="external">Data Protection Policy</xref></ph><ph platform="epub pdf">Data Protection Policy</ph>,
+                and <ph audience="audience-tech"><xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref></ph><ph platform="epub pdf" audience="audience-suppliers">Acceptable Use Policy</ph>.</p>
+        </body>
+    </topic>
+    <topic id="purpose">
+        <title>Purpose</title>
+        <body>
+            <p>The purpose of this Offshore Security Principles Policy Document is to enable the <ph conref="conrefs.dita#conrefs/moj"/> to ensure:
+                <ul>
+                    <li>The confidentiality, integrity, and availability of <ph conref="conrefs.dita#conrefs/moj"/>
+                        information or services that in any way depend upon the offshore supply chain.</li>
+                    <li>Key services used by the <ph conref="conrefs.dita#conrefs/moj"/> are protected and resilient to any adverse failure.</li>
+                    <li>Threats, vulnerabilities, risks, and exposure related to offshoring are identified and managed.</li>
+                    <li>All <ph conref="conrefs.dita#conrefs/moj"/> information, assets, and systems have appropriate privacy, security,
+                        legal and commercial principles and processes in place,
+                        regardless of their offshoring status.</li>
+                </ul></p>
+        </body>
+    </topic>
+    <topic id="policy">
+        <title>Policy</title>
+        <body>
+            <p>All <ph conref="conrefs.dita#conrefs/moj"/> staff must adhere to the following policy statements:
+                <ul>
+                    <li>Accountability – all <ph conref="conrefs.dita#conrefs/moj"/> department heads or system owners must take responsibility and accountability for their services.
+                        This includes applications, infrastructure, and service providers.
+                        It applies to management of suppliers, regardless of their location.</li>
+                    <li>Ensure Privacy, Cyber Security, Commercial and Legal Principles are followed for all Service Providers who provide services to the <ph conref="conrefs.dita#conrefs/moj"/>,
+                        whether Onshore or Offshore.</li>
+                    <li>Approval - You must engage with, and get written approval from, Commercial, Legal, Privacy and Security Teams well in advance (4 weeks),
+                        or as soon as possible, for events including:
+                        <ul>
+                            <li>Any changes on offshore services, to provide assurance and input to the change.</li>
+                            <li>Notifying other interested parties in the <ph conref="conrefs.dita#conrefs/moj"/>,
+                                including the contract manager of the supplier.</li>
+                            <li>Any change to personal data processing without appropriate assessment or following a potential breach, depending upon circumstances.</li>
+                        </ul>
+                    </li>
+                    <li>Comply with the <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/privacy-reform/" format="html" scope="external">Data Protection Policy</xref> and notify the Data Protection Officer (DPO) immediately of any suspected data breaches involving personal data.
+                        Do this by contacting: <ph conref="conrefs.dita#conrefs/privacyemail"/>.</li>
+                    <li>Report any Information Security related Incidents to the <ph conref="conrefs.dita#conrefs/moj"/> Operational Security Team.
+                        Do this by contacting: <ph conref="conrefs.dita#conrefs/securityemail"/>.</li>
+                    <li>Ensure the necessary Approvals from the above teams are obtained.</li>
+                </ul></p>
+        </body>
+    </topic>
+    <topic id="process">
+        <title>Process</title>
+        <body>
+            <image href="images/offshore-flow.png" placement="break" scope="local"><alt>A diagram showing the necessary stakeholders and approvers, described in the following text.</alt></image>
+            <ol>
+                <li>Obtain the necessary approvals:
+                    <ul>
+                        <li>For agency or departmental specific services or applications,
+                            approval is required from the relevant Agency or Departmental SIRO (Senior Information Risk Officer).</li>
+                        <li>For wider <ph conref="conrefs.dita#conrefs/moj"/> services or applications that involve more than one department or agency,
+                            approval is required from the <ph conref="conrefs.dita#conrefs/moj"/> Senior Information Risk Officer (SIRO) and Senior Security Advisor (SSA).</li>
+                        <li>All projects additionally require approval from the <ph conref="conrefs.dita#conrefs/moj"/> Chief Information Security Officer (CISO),
+                            the <ph conref="conrefs.dita#conrefs/moj"/> Data Protection Officer (DPO),
+                            and from <ph conref="conrefs.dita#conrefs/moj"/> Commercial and <ph conref="conrefs.dita#conrefs/moj"/> Legal teams.</li>
+                    </ul>
+                </li>
+                <li>If all those approvals are obtained and documented, the project can continue as planned.</li>
+                <li>If one or more of the required approvals cannot be obtained, then the project request is rejected. The Service Owner must then do one or more of:
+                    <ul>
+                        <li>Adjust plans so that approval is granted.</li>
+                        <li>Escalate to their Departmental Head, providing more detail to support the case for approval.
+                            Any residual or inherent risk must be rectified before escalating.</li>
+                        <li>Provde additional or alternative mitigations, to address concerns and so enable approval.</li>
+                    </ul></li>
+                <li>Perform continual monitoring and improvement of services,
+                    and appropriate risk management associated with service providers.</li>
+            </ol>
+            <p>For existing contracts, consider how to work with what is already in place, reflecting its criticality to the <ph conref="conrefs.dita#conrefs/moj"/>.
+                Consider what variations might be required for contacts, and the cost or other implications for doing so.</p>
+        </body>
+    </topic>
+    <topic id="compliance">
+        <title>Compliance</title>
+        <body>
+            <p>All staff of <ph conref="conrefs.dita#conrefs/moj"/> must comply with this policy.</p>
+            <p>Any request to change part of this policy or exemptions must be sent for formal review and approval by the <ph conref="conrefs.dita#conrefs/moj"/> Senior Security Adviser and the Chief Information Security Officer, with reasonable justification.</p>
+        </body>
+    </topic>
+    <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
