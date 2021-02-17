@@ -22,7 +22,7 @@ In unusual circumstances, it might not be possible to organise provision of equi
 -   Do not use personal accounts for work purposes.
 -   Do not store work files or information on a personal device \(desktop, laptop, tablet or phone\).
 -   Do not store work files or information on a personal storage device or memory stick \(external drive, thumb drive, USB stick, etc.\).
--   Some teams within the MoJ might have permission to use personal devices for some tasks. This permission continues, but is being reviewed on an on-going basis. Ensure that you have documented approval recording your permission. Ensure that the permission is no more than 12 months old. To request or refresh permission, ask your Line Manager to seek approval by checking with the Operational Security Team: [security@justice.gov.uk](mailto:security@justice.gov.uk)
+-   Some teams within the MoJ might have permission to use personal devices for some tasks. This permission continues, but is being reviewed on an on-going basis. Ensure that you have documented approval recording your permission. Ensure that the permission is no more than 12 months old. To request or refresh permission, ask your Line Manager to seek approval by checking with the Operational Security Team: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 **Note:** You are not asked or required to use your own devices for work purposes. If you have access to MoJ devices for work purposes, you must use them by default.
 
