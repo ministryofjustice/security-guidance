@@ -16,15 +16,15 @@ This guide provides more information on the actions expected of all MoJ users wh
 
 ## Who is this for?
 
-1. Technical users: these are in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge (EPICK) Team.
-2. Service Providers: defined as any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the MoJ.
-3. General users: all other staff working for the MoJ.
+1. **Technical users**: these are in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge (EPICK) Team.
+2. **Service Providers**: defined as any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the MoJ.
+3. **General users**: all other staff working for the MoJ.
 
 'All MoJ users' refers to General users, Technical users and Service Providers as defined above.
 
 ## Approach
 
-The MoJ is committed to protecting its staff, assets and data. These include personal data of those who interact with the Justice System, our staff and suppliers; other data we've been entrusted with, as well as ensuring the continued operation of our systems and processes. The MoJ will ensure information security controls are designed and implemented to protect MoJ data, IT Assets and reputation based around the following requirements:
+The MoJ will ensure information security controls are designed and implemented to protect MoJ data, IT Assets and reputation based around the following requirements:
 
 - **Confidentiality**: knowing and ensuring information can only be accessed by those authorised to do so
 - **Integrity**: knowing and ensuring the accuracy and completeness of data and that it has not been deliberately or inadvertently modified from a previous version
@@ -32,18 +32,16 @@ The MoJ is committed to protecting its staff, assets and data. These include per
 
 ## Assets
 
-This IT security policy applies to all premises, physical equipment, software and data owned or managed by the MoJ. This includes IT systems, whether developed by the MoJ or managed by IT service providers. It covers the use of IT equipment and the information processed on those IT systems, irrespective of location and provides direction and support to preserve the confidentiality, integrity and availability of MoJ resources.
+This IT security guide applies to all premises, physical equipment, software and data owned or managed by the MoJ. This includes IT systems, whether developed by the MoJ or managed by IT service providers. It covers the use of IT equipment and the information processed on those IT systems, irrespective of location and provides direction and support to preserve the confidentiality, integrity and availability of MoJ resources.
 
 ## Information security classification
-
-The MoJ maintains an Information Security Policy, which aligns with the HM Government Security Classifications, to provide a framework for safeguarding data from risks including, but not limited to, unauthorised destruction, modification, disclosure, access, use and removal.
 
 All MoJ Staff are responsible for ensuring data is:
 - classified correctly as detailed in the [Information Classification, Handling and Security Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/information-classification-handling-and-security-guide.md)
 - distributed only in accordance with the statements of this policy and related guides
 - protected by the appropriate security controls to ensure its confidentiality, integrity and availability.
 
-Access to said classified information shall be controlled in accordance with the requirements set out within the MoJ [Access Control Guide](https://ministryofjustice.github.io/security-guidance/access-control-guide/#access-control-guide).
+Access to classified information shall be controlled in accordance with the requirements set out within the MoJ [Access Control Guide](https://ministryofjustice.github.io/security-guidance/access-control-guide/#access-control-guide).
 
 ## Physical and personnel security
 
@@ -124,4 +122,3 @@ For the purpose of this Information Security Policy, the following roles are des
 
 - Contact the Technology Service Desk to report a suspected IT incident: Telephone: 0800 917 5148.
 - Contact the MoJ Security Team for further advice and to report other security incidents: [Security@justice.gov.uk](mailto:Security@justice.gov.uk)
-- Contact the Government Internal Audit Agency for more information: [correspondence@giaa.gov.uk](mailto:correspondence@giaa.gov.uk)

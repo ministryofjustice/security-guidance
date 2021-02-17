@@ -8,7 +8,7 @@ Target audience:
 
 [spf]: https://www.gov.uk/government/publications/security-policy-framework
 
-# IT Security Technical and Service Provider Users Guide
+# IT Security Technical Users Guide
 
 ## Introduction
 
