@@ -10,9 +10,11 @@ Target audience:
 
 ## Introduction
 
-This guide outlines the security procedures and advice that privileged users should follow to access the MoJ's IT systems in a safe and secure manner. Privileged users are those who have elevated levels of system access in order to manage IT system components to meet MoJ IT service requirements. Privileged users may, for example, install software, configure and upgrade IT systems, input into the Service Management Tool for the systems they manage and run day-to-day operations to satisfy continuity of service, recovery, security and performance needs.
+This guide outlines the security procedures and advice that privileged users should follow to access the Ministry of Justice's (MoJ's) IT systems in a safe and secure manner. Privileged users are those who have elevated levels of system access in order to manage IT system components to meet MoJ IT service requirements. Privileged users may, for example, install software, configure and upgrade IT systems, input into the Service Management Tool for the systems they manage and run day-to-day operations to satisfy continuity of service, recovery, security and performance needs.  Examples of privileged users are those managing Slack or Github repositories, users who have administrative access on their laptops and users who setup and maintain platforms hosted in the Cloud.
 
-Specific responsibilities of individual privileged users are likely to vary depending on the systems they manage. The system's Information Risk Assessment Report ([IRAR](https://docs.google.com/document/d/1MeJJtfHpwR1XM_okk3Pi4gW0bpcnLDdt5OXwddB7-Bk/edit?ts=5e25c004)) will document the security controls, some of which the system's privileged users will run. For a comprehensive list of individual responsibilities, privileged users should refer to the system specific documentation. This page is the first in a series of guides for privileged users within the MoJ.
+Specific responsibilities of individual privileged users are likely to vary depending on the systems they manage. The system's Information Risk Assessment Report ([IRAR](https://docs.google.com/document/d/1MeJJtfHpwR1XM_okk3Pi4gW0bpcnLDdt5OXwddB7-Bk/edit?ts=5e25c004)) will document the security controls, some of which the system's privileged users will run. For a comprehensive list of individual responsibilities, privileged users should refer to the system specific documentation.
+
+This page is the first in a series of guides for privileged users within the MoJ, see related guides below.
 
 ## Who is this for?
 
@@ -25,7 +27,7 @@ This guide is aimed at two audiences (both technical):
 
 For further details about privileged user responsibilities, see the guides below.
 
-- [privileged Account Management Guide](privileged-account-management-guide.md): provides the guidelines to ensure that privileged accounts are securely managed, it is part of the [Access Control Guide](../access-control-guide/).
+- [Privileged Account Management Guide](privileged-account-management-guide.md): provides the guidelines to ensure that privileged accounts are securely managed, it is part of the [Access Control Guide](../access-control-guide/).
 - [Logging Guide](privileged-user-logging-and-protective-monitoring-guide.md): provides information about security procedures privileged users should implement to conduct logging activities.
 - [Backups, Removable Media and Incident Management Guide](privileged-user-backups-removable-media-and-incident-management-guide.md): provides information that privileged users should follow to reduce the impact of a security incident and how they should respond.
 - [Configuration, Patching and Change Management Guide](privileged-user-configuration-patching-and-change-management-guide.md): provides privileged users with guidance to ensure that systems are configured securely, change is managed correctly and systems are patched regularly.
@@ -43,6 +45,7 @@ Privileged user accounts have a high degree of risk associated with them due to 
 - Privileged user accounts on depreciated systems must be reviewed quarterly for breach as aging systems frequently cannot be, or are not, patched leaving them vulnerable to take over.
 - Multi Factor Authentication (MFA) must be used for privileged user accounts. See the [Password Guide](password-creation-and-authentication-guide.md) for further details.
 - Privileged user accounts must only be used when carrying out administrative tasks such as creating new user accounts or implementing software updates. At all other times a normal user account must be used, e.g. for tasks such as searching the internet and reading emails.
+- Privileged users must not abuse the privileges they are given, such as circumventing controls put in place to protect the MoJ.
 
 For further information on managing privileged user accounts see the [Configuration, Patching and Change Management Guide](privileged-user-configuration-patching-and-change-management-guide.md).
 
