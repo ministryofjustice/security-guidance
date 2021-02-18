@@ -8,7 +8,7 @@ Target audience:
 
 [spf]: https://www.gov.uk/government/publications/security-policy-framework
 
-# IT Security Technical and Service Provider Users Guide
+# IT Security Technical Users Guide
 
 ## Introduction
 
@@ -18,8 +18,8 @@ This guide provides more information on the actions expected of Technical and Se
 
 This guide is aimed at:
 
-1. Technical users: these are in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge (EPICK) Team.
-2. Service Providers: defined as any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the MoJ.
+1. **Technical users**: these are in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge (EPICK) Team.
+2. **Service Providers**: defined as any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the MoJ.
 
 ## Vulnerability scanning and patch management
 
@@ -108,9 +108,6 @@ When conducting an audit:
 
 ## Contact details
 
-- Contact the Cyber Assistance Team for further advice - [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
 - Contact the Technology Service Desk to report a suspected IT incident:<br/>Telephone: 0800 917 5148.
 - Contact the MoJ Security Team to report other security incidents: [Security@justice.gov.uk](mailto:Security@justice.gov.uk)
-- Contact the Operational Security Team for further advice: [Operationalsecurityteam@justice.gov.uk](mailto:operationalsecurityteam@justice.gov.uk)
-- Contact the Government Internal Audit Agency for more information:
-[correspondence@giaa.gov.uk](mailto:correspondence@giaa.gov.uk)
+- Contact the Government Internal Audit Agency for more information: [correspondence@giaa.gov.uk](mailto:correspondence@giaa.gov.uk)
