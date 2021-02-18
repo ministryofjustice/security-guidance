@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="authorisation">
   <title>Authorisation</title>
-  <body/>
   <topic id="the-base-principle">
     <title>The base principle</title>
     <body>
@@ -41,4 +39,5 @@
       <p>H/T <xref href="https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20" format="html" scope="external">https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20</xref></p>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

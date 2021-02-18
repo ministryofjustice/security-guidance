@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="multi-factor-authentication-mfa-guide">
   <title>Multi-Factor Authentication (MFA) Guide</title>
-  <body/>
   <topic id="introduction">
     <title>Introduction</title>
     <body>
@@ -27,15 +25,12 @@
       </ul>
       <p>MFA can be used as a possession-based factor for authentication, by checking for something 'you have'. MFA is sometimes referred to as Two-Factor Authentication (2FA) if it involves a second form of authentication. MFA is referred to as 3, 4, or 5 Factor Authentication if it includes additional authentication requirements. Different methods of additional authentication identify users with varying degrees of accuracy.  Care should be taken to ensure true MFA. For example, password and security questions are both dependent 'something the user knows' and therefore are just one factor of authentication.</p>
       <p>The list below identifies the <ph conref="conrefs.dita#conrefs/moj"/>'s preference for MFA methods, with 1 ranked the highest. These methods can be used for 2, 3, 4, or 5 Factor Authentication as required.</p>
-      <p>Note:</p>
+      <note>
       <ul>
-        <li>
-          <p>MFA Type 1 may not be suitable for all systems. In that case, other methods of delivering MFA should be considered to provide additional protection beyond single sign on.</p>
-        </li>
-        <li>
-          <p>MFA types 5 and 8 should only be used when no other MFA method is appropriate as these methods can be easily spoofed or circumvented.</p>
-        </li>
-      </ul>
+        <li>MFA Type 1 may not be suitable for all systems.
+          In that case, other methods of delivering MFA should be considered to provide additional protection beyond single sign on.</li>
+        <li>MFA types 5 and 8 should only be used when no other MFA method is appropriate as these methods can be easily spoofed or circumvented.</li>
+      </ul></note>
       <table>
         <tgroup cols="2">
           <colspec colname="col1" colnum="1" colwidth="1*"/>
@@ -82,13 +77,9 @@
           </tbody>
         </tgroup>
       </table>
-      <p>The <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/passwords/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Password Guide</xref> provides more information on the use of MFA. </p>
+      <p audience="audience-basic audience-tech">The <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/passwords/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Password Guide</xref> provides more information on the use of MFA. </p>
     </body>
   </topic>
-  <topic id="contact-details">
-    <title>Contact details</title>
-    <body>
-      <p>Contact the Cyber Assistance Team for advice – <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></p>
-    </body>
-  </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

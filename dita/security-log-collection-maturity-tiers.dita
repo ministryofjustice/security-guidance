@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="security-log-collection-maturity-tiers">
   <title>Security Log Collection Maturity Tiers</title>
@@ -17,9 +16,11 @@ Such systems should be monitored to a higher standard.</p>
     <p>Each level of monitoring - or 'tier' - has characteristics that are 'in addition' to lower level tiers.
 For example,
 a system operating at the Enhanced tier should also meet the requirements of the Baseline tier.</p>
+      <!--
     <image platform="html" href="https://ministryofjustice.github.io/security-guidance/images/tiers.png" placement="break" scope="external"><alt>A diagram showing a large triangle, base at the bottom, split into three levels. The top level has the heading 'Bespoke'. It contains two items: Customised logging, and Dynamic event responses. The middle level has the heading 'Enhanced'. It contains three items: Notification of events, Active analysis, and Automation of manual processes. The bottom and largest level has the heading 'Baseline'. It contains four items: System logs, Authorisation logs, Failure logs, and Security functions.</alt></image>
-    <image platform="epub" href="images/tiers.png" placement="break" scope="local"><alt>A diagram showing a large triangle, base at the bottom, split into three levels. The top level has the heading 'Bespoke'. It contains two items: Customised logging, and Dynamic event responses. The middle level has the heading 'Enhanced'. It contains three items: Notification of events, Active analysis, and Automation of manual processes. The bottom and largest level has the heading 'Baseline'. It contains four items: System logs, Authorisation logs, Failure logs, and Security functions.</alt></image>
-    <image platform="pdf" href="images/tiers-small.png" placement="break" scope="local"><alt>A diagram showing a large triangle, base at the bottom, split into three levels. The top level has the heading 'Bespoke'. It contains two items: Customised logging, and Dynamic event responses. The middle level has the heading 'Enhanced'. It contains three items: Notification of events, Active analysis, and Automation of manual processes. The bottom and largest level has the heading 'Baseline'. It contains four items: System logs, Authorisation logs, Failure logs, and Security functions.</alt></image>
+    -->
+    <image platform="html" href="images/tiers.png" placement="break" scope="local"><alt>A diagram showing a large triangle, base at the bottom, split into three levels. The top level has the heading 'Bespoke'. It contains two items: Customised logging, and Dynamic event responses. The middle level has the heading 'Enhanced'. It contains three items: Notification of events, Active analysis, and Automation of manual processes. The bottom and largest level has the heading 'Baseline'. It contains four items: System logs, Authorisation logs, Failure logs, and Security functions.</alt></image>
+    <image platform="epub pdf" href="images/tiers-small.png" placement="break" scope="local"><alt>A diagram showing a large triangle, base at the bottom, split into three levels. The top level has the heading 'Bespoke'. It contains two items: Customised logging, and Dynamic event responses. The middle level has the heading 'Enhanced'. It contains three items: Notification of events, Active analysis, and Automation of manual processes. The bottom and largest level has the heading 'Baseline'. It contains four items: System logs, Authorisation logs, Failure logs, and Security functions.</alt></image>
   </body>
   <topic id="baseline">
     <title>Baseline</title>
@@ -46,7 +47,7 @@ It enables gathering of more information to detect stealthier or more capable at
 In this tier, systems must generate additional bespoke (customised) event types.
 These event types are typically agreed in context between the <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security team and the associated product or service team.
 The objective is produce logging that reliably identifies and captures key nuance and contextual security monitoring data, based on applicable threats and risks.</p>
-      <p>Last updated: April 20th, 2020.</p>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

@@ -29,8 +29,8 @@
       <body>
         <p>Spoofing attacks may be mitigated by:
         <ul>
-          <li>Implementing SPF, DKIM and DMARC e.g. sender information <pre>from</pre>, <pre>reply-to</pre>,
-            <pre>return-path</pre> and even <pre>x-origin</pre> can be spoofed (please refer to the
+          <li>Implementing SPF, DKIM and DMARC e.g. sender information <codeph>from</codeph>, <codeph>reply-to</codeph>,
+            <codeph>return-path</codeph> and even <codeph>x-origin</codeph> can be spoofed (please refer to the
             <xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref> for further
             guidance).</li>
           <li>Using secure email gateways.</li>
@@ -52,11 +52,11 @@
             <li>Create a SPF record with no permitted senders so that no IP is authorised to send email for your parked domain.</li>
             <li>Include a RUA address to which aggregate reports can be sent.
               These will provide you with visibility of potential abuse.</li>
-            <li>If you have an <pre>A</pre> record on your domain, but no <pre>MX</pre> records,
-              you should create a null <pre>MX</pre> record to immediately fail any email to that domain.</li>
+            <li>If you have an <codeph>A</codeph> record on your domain, but no <codeph>MX</codeph> records,
+              you should create a null <codeph>MX</codeph> record to immediately fail any email to that domain.</li>
           </ol>
         </li>
-        <li>Create a record of type <pre>MX</pre>, with a priority of 0 (highest priority).
+        <li>Create a record of type <codeph>MX</codeph>, with a priority of 0 (highest priority).
           <p>A null DKIM record isn't required, as email will be treated the same as if it had no record at all.
             However, recipients may treat a null DKIM record with extra caution,
             as it explicitly revokes any keys that may be cached.</p>
@@ -155,7 +155,7 @@
           Eliminate known vulnerabilities through patches, configurations and upgrades.
           Refer to the Vulnerability Scanning and Patch Management Guide for more information.</li>
         <li>Implement external email warning messages to insert text (usually in the subject line) into an email when
-          it is identified as coming from outside of the <ph conref="conrefs.dita#conrefs/moj"/><fn conref="conrefs.dita#conrefs/fnexternalemail"/>.</li>
+          it is identified as coming from outside of the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
         <li>Develop email security management plans to define best practices for employees.</li>
         <li>Use SMTP alert policies to track malware activity and data loss incidents from anti-malware software.</li>
         <li>Ensure there is no unnecessary detail on the <ph conref="conrefs.dita#conrefs/moj"/> website or webmail
@@ -165,6 +165,7 @@
         <li>Restrict delegate access.
           Refer to the <xref href="email-security-guide.dita" format="dita">Email Security Guide</xref> for more information.</li>
       </ul></p>
+      <note conref="conrefs.dita#conrefs/noteexternalemail"/>
       <p>The <xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref>
         provides further detail on the email authentication controls mentioned in this guide.</p>
     </body>
@@ -179,4 +180,5 @@
   </topic>
   <topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="custom-applications">
   <title>Custom Applications</title>
@@ -8,7 +7,6 @@
   </body>
   <topic id="baseline-maturity-tier">
     <title>Baseline Maturity Tier</title>
-    <body/>
     <topic id="user-directory-services">
       <title>1. User directory services</title>
       <body>
@@ -84,7 +82,6 @@
   </topic>
   <topic id="enhanced-maturity-tier">
     <title>Enhanced Maturity Tier</title>
-    <body/>
     <topic id="pipeline-events">
       <title>1. Pipeline events</title>
       <body>
@@ -122,4 +119,5 @@
       </body>
     </topic>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

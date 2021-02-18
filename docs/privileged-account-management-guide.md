@@ -17,7 +17,7 @@ Privileged accounts should be protected with the following controls.
 |✔ Ensure that Multi Factor Authentication \(MFA\) is used where possible, such as where administrative consoles provide access to manage cloud based infrastructure, platforms or services. MFA should also be used to access enterprise level social media accounts. See the [Multi-Factor Authentication Guide](multi-factor-authentication-mfa-guide.md) for details of preferred MFA types. Where MFA cannot be used on a system, this is considered an exception and should be logged in the risk register.|
 |✔ Ensure that MFA is mandated for a privileged user to conduct important or privileged actions such as changing fundamental configurations including changing registered email addresses or adding another administrator.|
 |✔ Ensure that MFA is used as a validation step, to confirm actions requested by users, such as a MFA re-prompt when attempting to delete or modify data.|
-|✔ Ensure that default passwords are managed as described in the [Password Manager guidance](password-managers.md).|
+|✔ Ensure that default passwords are managed securely and safely, as described in the [Password Manager guidance](password-managers.md).|
 
 |DON'T|
 |-----|
@@ -25,9 +25,14 @@ Privileged accounts should be protected with the following controls.
 |✖ Leave default or factory set passwords for any accounts but particularly for privileged system accounts, social media accounts and infrastructure.|
 |✖ Allow a user to have a privileged account, unless they are a service provider and require a privileged account for that specific service.|
 
-For more information or help with Privileged Accounts, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
-
 ## Contact details
 
-Contact the Cyber Assistance Team for advice – [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
+-   Contact the Cyber Assistance Team for specific advice on IT security: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+-   For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+-   [To report an incident](reporting-an-incident.md).
+-   Suppliers to the MoJ should first ask their usual MoJ points of contact.
+
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

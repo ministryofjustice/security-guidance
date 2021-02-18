@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="secure-by-default">
   <title>Secure by Default</title>
@@ -63,4 +62,5 @@
       </body>
     </topic>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

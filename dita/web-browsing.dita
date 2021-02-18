@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="web-browsing">
+  <title>Web Browsing</title>
+  <body>
+    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> provides access to the Intranet and Internet for business use.
+      The access helps you to do your job effectively and efficiently.
+      <ph conref="conrefs.dita#conrefs/moj"/> security policies governs your use of these facilities.</p>
+    <p>
+      <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external" platform="html">Reasonable</xref><xref href="acceptable-use.dita" format="dita" platform="epub pdf">Reasonable</xref> personal use is allowed,
+      if:
+    <ul>
+      <li>Your line manager agrees.</li>
+      <li>It does not interfere with the performance of your duties.</li>
+    </ul></p>
+    <p>You and your manager are responsible for ensuring that you use these systems responsibly.</p>
+    <p>If you connect to a website that contains unsuitable,
+      illegal or offensive material:
+    <ul>
+      <li>Disconnect from the site immediately.</li>
+      <li>Inform your <xref href="#general-enquiries-including-theft-and-loss" format="dita">Service Desk</xref>.</li>
+    </ul></p>
+    <p>The Department monitors the use of electronic communications and web-browsing activity.
+      If your email use or web browsing seems unacceptable,
+      your manager can request detailed activity reports.</p>
+  </body>
+  <topic id="what-websites-can-i-access">
+    <title>What websites can I access?</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s approach to website access is continually reviewed and updated.
+        By default,
+        we try to allow access to as much as possible of the internet for all users.
+        Inevitably, there are some restrictions, for the following reasons:
+        <dl>
+          <dlentry>
+            <dt>Cyber Security</dt>
+            <dd>The site is an unacceptable security risk for <ph conref="conrefs.dita#conrefs/moj"/> systems or users.
+              For example, sites known to host malware are blocked.</dd>
+          </dlentry>
+          <dlentry>
+            <dt>Technical</dt>
+            <dd>The site causes technical issues which interfere with business activities.
+              For example, a video site uses too much network capacity.</dd>
+          </dlentry>
+          <dlentry>
+            <dt>Business Policy</dt>
+            <dd>Only a specific individual or group of users can access the site.
+              For example,
+              social media sites are blocked for systems or users in frontline roles.</dd>
+          </dlentry>
+        </dl></p>
+      <p>The list of websites included in each of the categories is as small as possible.
+        But if you cannot access a site that you think should be OK,
+        you can <xref href="#what-to-do-if-you-are-blocked-from-a-website-that-you-think-should-be-ok" format="dita">request a review</xref>.
+        Similarly,
+        if you can access a site that you think should be blocked,
+        <xref href="#what-to-do-if-you-are-able-to-access-a-website-that-you-think-should-be-blocked" format="dita">request a review</xref>.</p>
+      <p audience="audience-tech">The access rules that apply are described in detail <xref href="web-browsing-security-policy-profiles.dita" format="dita">here</xref>.</p>
+    </body>
+  </topic>
+  <topic id="what-to-do-if-you-are-blocked-from-a-website-that-you-think-should-be-ok">
+    <title>What to do if you are blocked from a website that you think should be OK</title>
+    <body>
+      <p>Log an incident with your <xref href="#general-enquiries-including-theft-and-loss" format="dita">Service Desk</xref>.</p>
+      <p>Provide the following details:
+      <ul>
+        <li>The address of the website.</li>
+        <li>The time you visited the site.</li>
+        <li>The details of any block message that you received.</li>
+      </ul></p>
+      <p>The Service Desk will investigate the reason why you cannot access the website.</p>
+      <p>If there was a system error or fault,
+        remedial action will restore access.</p>
+      <p>If the block is due to an access rule,
+        Operational Security reviews whether to change the rule.</p>
+    </body>
+  </topic>
+  <topic id="what-to-do-if-you-are-able-to-access-a-website-that-you-think-should-be-blocked">
+    <title>What to do if you are able to access a website that you think should be blocked</title>
+    <body>
+      <p>Log an incident with your <xref href="#general-enquiries-including-theft-and-loss" format="dita">Service Desk</xref>.</p>
+      <p>Provide the following details:
+      <ul>
+        <li>The address of the website.</li>
+        <li>The time you visited the site.</li>
+        <li>The reason why you think the site should be blocked.</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="other-help">
+    <title>Other help</title>
+    <body>
+      <ul>
+        <li>HMPPS Prison - All requests should be directed to the Service Desk via a local or area IT Manager.</li>
+        <li>HMPPS Probation - Log an incident with your <xref href="#general-enquiries-including-theft-and-loss" format="dita">Service Desk</xref>.</li>
+        <li>All other teams, contact the Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/></li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="general-enquiries-including-theft-and-loss" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

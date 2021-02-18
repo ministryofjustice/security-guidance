@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="clear-screen-and-desk">
+  <title>Clear Screen and Desk</title>
+  <topic id="clear-screen">
+    <title>Clear Screen</title>
+    <body>
+      <p>Users shall comply with the following:</p>
+      <ul>
+        <li>Digital Services equipment shall not be left logged on when unattended.
+          Users shall ensure that password-protected screensavers are activated when any equipment is left unattended.</li>
+        <li>Computer screens shall be angled away from the view of unauthorised persons.</li>
+        <li>Computer security locks shall be set to activate when there is no activity for a short pre-determined period of time (set to 5 minutes by default).
+          This can be manually activated when required.</li>
+        <li>Computer security locks shall require passwords to be re-entered to reactivate the computer.</li>
+        <li>Desktops and laptops should be shutdown if you expect to be away from them for more than half an hour.</li>
+        <li>Users shall log off or lock their computers when they leave the room.</li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="clear-desk">
+    <title>Clear Desk</title>
+    <body>
+      <p>Users shall comply with the following:</p>
+      <ul>
+        <li>Where possible, paper and computer media shall be stored in suitable locked safes,
+          cabinets or other forms of security furniture when not in use, particularly outside working hours.</li>
+        <li>Where lockable safes, filing cabinets, drawers, cupboards etc. are not available,
+          doors must be locked if rooms are left unattended.
+          At the end of each session all <codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph> information shall be
+          removed from the work place and stored in a locked area.</li>
+        <li>When handling <codeph>OFFICIAL</codeph> documents security shall follow the requirements laid down in the Government Classification Scheme (GCS).</li>
+        <li><codeph>OFFICIAL</codeph> or <codeph>OFFICIAL-SENSITIVE</codeph> information, when printed,
+          should be cleared from printers immediately.</li>
+      </ul>
+      <p>It is good practice to lock all rooms and office areas when they are not in use.</p>
+      <p>Information left on desks is also more likely to be damaged or destroyed in a disaster such as fire or flood.</p>
+    </body>
+  </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

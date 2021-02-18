@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="supplier-corporate-it">
   <title>Supplier corporate IT</title>
@@ -24,18 +23,17 @@
   </topic>
   <topic id="data-governance">
     <title>Data Governance</title>
-    <body/>
     <topic id="data-offshoring">
       <title>Data offshoring</title>
       <body>
         <p>Supplier's may process <ph conref="conrefs.dita#conrefs/moj"/> data (including Personal Data for which the <ph conref="conrefs.dita#conrefs/moj"/> is responsible) outside of the United Kingdom, subject to the maintenance of adequate information controls and governance.</p>
         <p><ph conref="conrefs.dita#conrefs/moj"/> data must not routinely be processed within an incompatible legal framework to the United Kingdom.</p>
       </body>
-      <topic id="working-abroad">
-        <title>Working abroad</title>
+      <topic id="working-overseas">
+        <title>Working overseas</title>
         <body>
-          <p>Supplier staff are <b>not</b> prohibited from working abroad while processing <ph conref="conrefs.dita#conrefs/moj"/> data on the basis that adequate information controls and governance are maintained.</p>
-          <p>When working abroad, this may include limiting access to information while the user travels or using secondary temporary accounts to avoid primary account compromise.</p>
+          <p>Supplier staff are <b>not</b> prohibited from working overseas while processing <ph conref="conrefs.dita#conrefs/moj"/> data on the basis that adequate information controls and governance are maintained.</p>
+          <p>When working overseas, this may include limiting access to information while the user travels or using secondary temporary accounts to avoid primary account compromise.</p>
         </body>
       </topic>
     </topic>
@@ -54,4 +52,5 @@
       </body>
     </topic>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

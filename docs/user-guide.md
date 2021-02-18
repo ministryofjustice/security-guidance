@@ -27,7 +27,7 @@ The team provides help and guidance around cyber security matters, such as:
 
 If you need help dealing with a cyber security task or problem, send an email to: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
 
-Some requests are better handled by other teams. For urgent matters such as incidents, or to get help about physical or personnel security, contact [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk). For help with data protection, contact [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk).
+Some requests are better handled by other teams. For urgent matters such as incidents, or to get help about physical or personnel security, contact [security@justice.gov.uk](mailto:security@justice.gov.uk). For help with data protection, contact [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk).
 
 The consultancy team keep an eye open for email requests. Normally, you'll get an acknowledgement or more detailed reply within two working days.
 
@@ -59,4 +59,8 @@ If your request is appropriate for the Consultancy team, the assigned consultant
 If you disagree with our decision about your request, or there is some other problem, contact us again: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 If you'd prefer a different escalation route, contact [ciso@digital.justice.gov.uk](mailto:ciso@digital.justice.gov.uk).
+
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

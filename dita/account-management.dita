@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="account-management">
 	<title>Account management</title>
-	<body/>
 	<topic id="introduction">
 		<title>Introduction</title>
 		<body>
@@ -89,10 +87,6 @@
 			The <ph conref="conrefs.dita#conrefs/moj"/> revokes user accounts in alignment with the <xref href="access-control-guide.dita" format="dita" type="topic">Access Control Guide</xref>.</p>
 		</body>
 	</topic>
-	<topic id="contact-details">
-		<title>Contact details</title>
-		<body>
-			<p>For any further questions relating to security, contact: <ph conref="conrefs.dita#conrefs/securityemail"/>.</p>
-		</body>
-	</topic>
+	<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+	<topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

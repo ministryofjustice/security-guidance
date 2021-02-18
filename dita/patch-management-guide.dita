@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="patch-management-guide">
+  <title>Patch Management Guide</title>
+  <topic id="introduction">
+    <title>Introduction</title>
+    <body>
+      <p>This guide explains the patching requirements for <ph conref="conrefs.dita#conrefs/mojlong"/>
+        systems once a vulnerability has been identified.</p>
+      <p>This guide is a sub-page to the
+        <xref href="vulnerability-scanning-and-patch-management-guide.dita" format="dita">Vulnerability Scanning and Patch Management Guide</xref></p>
+      <p>The intent is to avoid compromise of <ph conref="conrefs.dita#conrefs/moj"/> systems
+        because of vulnerabilities.</p>
+    </body>
+  </topic>
+  <topic id="patching-of-moj-systems-and-equipment">
+    <title>Patching of <ph conref="conrefs.dita#conrefs/moj"/> systems and equipment</title>
+    <body>
+      <p>This guidance must be followed for all systems and services developed
+        or procured by the <ph conref="conrefs.dita#conrefs/moj"/>.
+        It applies to all asset types including, but not limited to:
+      <ul>
+        <li>Internet facing websites and digital services.</li>
+        <li>End user client devices, such as Desktop PCs, laptops, tablets, and mobile phones.</li>
+        <li>Infrastructure devices, such as networking equipment, servers, and printers.</li>
+        <li>Applications.</li>
+        <li>Internet-of-Things (IoT) devices.</li>
+      </ul></p>
+      <p>In general,
+        there are three options for patching:
+        <ol>
+          <li>The problem is serious or urgent, and must be mitigated as soon as possible.</li>
+          <li>The problem is important but not urgent; mitigation can wait until the next scheduled patching cycle.</li>
+          <li>The problem does not require mitigation in advance of changes introduced as part of normal system upgrades.</li>
+        </ol>
+        <note>The nature of the patching cycle will depend on what is agreed during development,
+          deployment,
+          and subsequent maintenance of the system or service.</note></p>
+      <p>Patching is the application of a vendor-supplied security patch.
+        It can also refer to other ways of achieving the same goal.
+        Examples include:
+        <ul>
+          <li>Virtual patches.</li>
+          <li>Removal of vulnerable services or functionality.</li>
+          <li>Disabling and preventing access.</li>
+        </ul></p>
+      <p>Patching might include recompiling applications to incorporate security updates.
+        The updates might be in third party libraries or other code.</p>
+      <p>Always apply patches as soon as possible.
+        Where this guidance mentions a time limit,
+        you should apply patches no later than the time given.
+        Some important or sensitive systems might need more urgent patching.
+        For example, a system might need you to apply 'critical' or 'high risk' patches within 7 days.</p>
+      <p>Where patching or other mitigation is required,
+        it must be applied in compliance with the Patching Schedule in this guide,
+        described <xref href="#patching-schedule" format="dita">below</xref>.</p>
+      <p>Operating systems and applications installed on systems must be:
+        <ul>
+          <li>Licensed and supported.</li>
+          <li>Removed from devices when no longer licensed or supported.</li>
+          <li>Patched as soon as possible.</li>
+          <li>Patched within no more than 14 days of an update being released,
+            where the fix is for a 'critical' or 'high risk' vulnerability.</li>
+        </ul></p>
+      <p>To ensure that patches are implemented on systems, you must either:
+        <ul>
+          <li>Enable and use any vendor-provided automatic patch deployment mechanisms for the system.</li>
+          <li>If automatic patch deployment is not available,
+            apply patches manually according to the schedule outlined in this guide.</li>
+        </ul></p>
+      <p>If a system or service,
+        or a component it depends on,
+        can no longer be licensed or supported,
+        it should be reviewed within the timescale of the vulnerability scanning lifecycle,
+        to determine what action to take.
+        If the required license or support cannot be obtained,
+        the system or service should be replaced by an alternative,
+        or removed.
+        If the system or service cannot be removed,
+        then the issue should be raised through the patching exemptions process
+        outlined in the <xref href="#patching-exemptions" format="dita">Patching Exemptions section</xref> in this guide.</p>
+      <p>In summary:
+        <ul>
+          <li>It must be possible to patch or mitigate an <ph conref="conrefs.dita#conrefs/moj"/> system or service.
+          A clear, documented process must exist explaining how to patch or mitigate.</li>
+          <li>Wherever possible, patching should be automated,
+            or at least have minimum possible dependency on manual intervention.</li>
+          <li>If a patch is not available, or cannot be deployed, then a suitable risk mitigation might be acceptable.</li>
+          <li>Patching or mitigating a system or service might impact or be affected by other systemic components.
+            These must be identified and addressed as part of the patch or mitigation process.</li>
+        </ul>
+      </p>
+    </body>
+  </topic>
+  <topic id="moj-digital-services">
+    <title><ph conref="conrefs.dita#conrefs/moj"/> Digital services</title>
+    <body>
+      <p>For systems or services developed by the <ph conref="conrefs.dita#conrefs/moj"/>,
+        it must be possible to patch or mitigate in order to address any vulnerabilities.
+        To ensure this is possible:
+      <ul>
+        <li>The Beta development stage must include a mechanism or process for
+          a new or updated service to track and apply patches.<!--
+          See the Software Development Lifecycle Guide for further details.--></li>
+        <li>Sufficient logs must be available from the new or updated service,
+          so that security problems can be tracked from identification through to rectification.</li>
+        <li>The patching process must also describe how to triage and action any problems.<!--
+          Please see the Software Development Lifecycle Guide for further details.--></li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="patching-schedule">
+    <title>Patching Schedule</title>
+    <body>
+      <p>The following Patching Schedule defines the indicative severity
+        ratings and consequent timescales.
+        All vulnerabilities must be remediated or patched in line with this schedule.
+        By agreement and formal approval,
+        alternative timescales for system patching,
+        on a case-by-case basis,
+        can be operated.
+        <note>The default is for patches to be applied as soon as possible.
+          You should not normally delay patching because of concerns about
+          possible issues with the patches themselves.</note></p>
+        <p>Patches and updates for security related devices must be treated as
+          High Risk (3) at least, and implemented in accordance with this rating.</p>
+        <p>For ratings of High Risk (3) or Critical (4),
+          the <xref href="#contact-details" format="dita">Risk Advisor Team</xref> must evaluate the probability and impact,
+          and use this to guide a 'tolerance' period,
+          at the end of which a patch must be applied.</p>
+        <p>Where the rating is Medium (2) or lower,
+          the patch can be deferred to the next scheduled maintenance
+          or patching activity.</p>
+        <p>This schedule outline is considered a baseline.
+          Some systems might require different patching schedules.
+          These different schedules must be identified in the system's
+          Information Risk Assessment Report (IRAR).</p>
+        <p conref="conrefs.dita#conrefs/irardefinition"/>
+        <table>
+          <title>Patching Schedule</title>
+          <tgroup cols="4">
+            <colspec colname="col1" colnum="1"/>
+            <colspec colname="col2" colnum="2"/>
+            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col4" colnum="4"/>
+            <thead>
+              <row>
+                <entry>Rating (Severity)</entry>
+                <entry>Infrastructure Devices; Server Applications;
+                  Digital Services</entry>
+                <entry>End User Client Devices</entry>
+                <entry>Web Check Reporting</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>Critical (4)</entry>
+                <entry>3-7 days after vulnerability alert released.</entry>
+                <entry>14 days after vulnerability alert released.</entry>
+                <entry><b>Urgent:</b> Serious configuration problems that you should
+                  fix without delay and no later than 28 days
+                  after the vulnerability alert is released.</entry>
+              </row>
+              <row>
+                <entry>High Risk (3)</entry>
+                <entry>3-7 days after vulnerability alert released.</entry>
+                <entry>14 days after vulnerability alert released.</entry>
+                <entry><b>Advisory:</b> Configuration problems that leave the site
+                  vulnerable.
+                  Patches should be implemented no later than 28 days after the
+                  vulnerability alert is released.</entry>
+              </row>
+              <row>
+                <entry>Medium (2)</entry>
+                <entry>28 days after vulnerability alert released.</entry>
+                <entry>28 days after vulnerability alert released.</entry>
+                <entry><b>Informational:</b> Configurations that you could optimise,
+                  or information that you may find useful.</entry>
+              </row>
+              <row>
+                <entry>Low (1)</entry>
+                <entry>Next scheduled system upgrade (not to exceed 90 days).</entry>
+                <entry>Next scheduled system upgrade (not to exceed 90 days).</entry>
+                <entry><b>N/A</b></entry>
+              </row>
+              <row>
+                <entry>Positive (0)</entry>
+                <entry>N/A</entry>
+                <entry>N/A</entry>
+                <entry><b>Positive:</b> Site configurations that conform to best
+                  practices.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+    </body>
+  </topic>
+  <topic id="patch-management-processes">
+    <title>Patch management processes</title>
+    <body>
+      <p>There are two patching and change management approaches in the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+    </body>
+    <topic id="msp">
+      <title>Infrastructure and services provided by a Managed Service Provider (MSP)</title>
+      <body>
+        <p>Where services and infrastructure are provided by MSPs,
+          the vendor is normally responsible for developing and implementing patches
+          to identified vulnerabilities.
+          Patches or a workaround must be provided by vendors to ensure the
+          <ph conref="conrefs.dita#conrefs/moj"/> is able to meet the schedule
+          for implementing patches.</p>
+        <p>If this is not possible,
+          vendors must provide a firm statement that the patch or workaround cannot
+          be made available within the timescale mandated for addressing the vulnerability.
+          The vulnerability alert must then be escalated to the Risk Advisor
+          team (contacted through email: <ph conref="conrefs.dita#conrefs/catemail"/>) for help with acceptance,
+          transfer, mitigation or avoidance.</p>
+        <p>Any patches to be deployed must go through the normal change management and approval process,
+          and the changes recorded in the Service Management Tool.</p>
+      </body>
+    </topic>
+    <topic id="in-house">
+      <title>Services and applications developed
+        by <ph conref="conrefs.dita#conrefs/moj"/> in-house project teams</title>
+      <body>
+        <p>Where services and applications are developed by
+          <ph conref="conrefs.dita#conrefs/moj"/> in-house project teams,
+          patching and change management is addressed on a project-by-project basis.
+          Changes are identified through awareness channels and scanning activities.
+          These identify operational and security issues.
+          A change management ticket must be created,
+          detailing the change required.
+          The project manager follows the change management process to determine
+          how and when to implement the change,
+          based on the security risk rating.</p>
+        <p>The patch review and approval is normally managed within the project team.
+          If assistance is required,
+          contact the <xref href="#contact-details" format="dita">Cyber Assistance Team</xref>.</p>
+        <p>If changes are urgent because a major security risk has been identified,
+          the product, system, or service owner should ask a competent developer to investigate,
+          and if possible create and implement a patch quickly.
+          If the issue is more complex, Technical Architects, Security Architects
+          and the <xref href="#contact-details" format="dita">Cyber Assistance Team</xref>
+          might need to assist in the development of
+          appropriate remediation plans.</p>
+        <p>Patches must be implemented according to the schedule in this guide.
+          If this is not possible,
+          the project team must provide an indication that the patch or workaround
+          cannot be implemented within the timescale mandated for addressing
+          the vulnerability.
+          This delay must be escalated to the Risk Advisor team
+          (contact through email: <ph conref="conrefs.dita#conrefs/catemail"/>) for help with acceptance,
+          transfer, mitigation or avoidance.</p>
+        </body>
+    </topic>
+  </topic>
+  <topic id="removal-of-equipment">
+    <title>Removal of equipment</title>
+    <body>
+      <p>If a system or service vulnerability cannot be patched or mitigated,
+        it might be necessary to remove that system or service.</p>
+      <p>Before the removal of any system or service,
+        a fresh Business Impact Assessment must be conducted
+        and the business process owner consulted.
+        The removal of a system or service is likely to come under the emergency
+        and major change process.</p>
+    </body>
+  </topic>
+  <topic id="patching-exemptions">
+    <title>Patching exemptions</title>
+    <body>
+      <p>In exceptional cases where patching of systems is not possible,
+        other mitigations (such as logical separation) must be identified
+        and evaluated for efficacy prior to enablement.
+        The circumstances must be discussed with the affected
+        Information Asset Owners (IAO) and System Owners.
+        If the IAOs agree with the deviation,
+        System Owners must request formal approval by the
+        Senior Information Risk Owner (SIRO) for the exemption.
+        Approval must be sought and obtained within a comparable timescale
+        to applying a patch.
+        If a critical patch cannot be applied,
+        the approval to be exempt must be obtained within
+        the same number of days allowed for applying a critical patch.</p>
+    </body>
+  </topic>
+  <topic id="contact-details" conref="vulnerability-scanning-guide.dita#contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
+
+  <!--
+  <topic id="internet-facing-websites">
+    <title>Internet facing websites</title>
+    <body>
+      <p>If you are developing or running any websites or services that are
+        publically accessible through the open internet,
+        you must patch any vulnerabilities and common configuration errors identified,
+        either through the <ph conref="conrefs.dita#conrefs/moj"/>'s
+        <xref href="web-check.dita" format="dita">Web Check</xref> account
+        (see the <xref href="vulnerability-scanning-guide.dita" format="dita">Vulnerability
+          Scanning Guide</xref> for details) or by any other means.
+        You need to ensure that any vulnerabilities identified are remediated according to
+        Service Level Agreements (SLAs) in this guide
+        <xref href="#patching-schedule-service-level-agreement" format="dita">below</xref>.</p>
+    </body>
+  </topic>
+  <topic id="end-user-clients">
+    <title>End user clients</title>
+    <body>
+      <p>If you run an end user client,
+        you must ensure that the operating system and any applications installed on the end
+        user client are licensed and supported.
+        To ensure that patches are implemented, you must either:
+      <ul>
+        <li>Enable and use any vendor provided automatic patch deployment mechanisms for the device.</li>
+        <li>If automatic patch deployment is not available,
+          apply patches manually according to the SLAs outlined in this guide.</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="infrastructure-devices">
+    <title>Infrastructure devices</title>
+    <body>
+      <p>All infrastructure devices must be licensed and supported.
+        Any infrastructure devices that are no longer licensed
+        or whose vendors do not provide ongoing support,
+        should be reviewed in line with the <ph conref="conrefs.dita#conrefs/moj"/>
+        patch management processes outlined below,
+        and where possible removed.
+        If devices cannot be removed,
+        then the issue should be raised through the patching exemptions process
+        outlined in the <xref href="#patching-exemptions" format="dita">Patching
+          Exemptions section</xref> in this guide.</p>
+    </body>
+  </topic>
+  <topic id="applications">
+    <title>Applications</title>
+    <body>
+      <p>If you develop or run applications hosted on
+        <ph conref="conrefs.dita#conrefs/moj"/> servers,
+        external servers or cloud platforms,
+        you must ensure they are scanned and patched according to the schedule in this guide.
+        Applications include both traditional applications (tools) and services.</p>
+        <p>Applications that are no longer licensed or whose vendors do not provide
+          ongoing support should be reviewed and possibly removed.
+          Please see the <xref href="#patching-exemptions" format="dita">Patching
+            Exemptions section</xref> below for further information.</p>
+        <p>Applications should be access-controlled to help prevent exploitation of
+          any vulnerabilities.
+          The level of access control must be matched to the level of risk to the
+          service provided.
+          For example,
+          a finance server might have stronger access control than an email server.
+          See the <xref href="access-control-guide.dita" format="dita">Access
+            Control Guide</xref> for further information.</p>
+    </body>
+  </topic>
+  -->

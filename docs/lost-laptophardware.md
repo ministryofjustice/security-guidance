@@ -43,3 +43,14 @@ If you think your device is lost, stolen, 'hacked', or in some way compromised, 
 
 Find out more about how to report a security incident [here](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/).
 
+## Contact details
+
+-   Contact the Cyber Assistance Team for specific advice on IT security: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+-   For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+-   [To report an incident](reporting-an-incident.md).
+-   Suppliers to the MoJ should first ask their usual MoJ points of contact.
+
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

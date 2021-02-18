@@ -104,7 +104,7 @@ Think about the MoJ information you work with. What would happen if you lost it,
 
 Think also about information moving across the Internet. The data might be safe within the MoJ and in an approved OIT. But what about the connection between the two? Sending information might involve insecure networks. Be aware of the security implications. Check that enough suitable security measures are in place to protect the information. For example, check for encryption of network connections using [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security). A simple way to do this is to look for the secure connection indicator in your web browser:
 
-![The image shows a small section from a web browser URL bar. The word 'secure' appears in a green colour, to show that the connection is safe. There is also a padlock icon in a closed state, again to show that the connection is safe.](https://ministryofjustice.github.io/security-guidance/images/guidance-for-using-open-internet-tools-01.png)
+![The image shows a small section from a web browser URL bar. The word 'secure' appears in a green color, to show that the connection is safe. There is also a padlock icon in a closed state, again to show that the connection is safe.](images/guidance-for-using-open-internet-tools-01.png)
 
 You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is [Principle 2](https://www.gov.uk/government/publications/government-security-classifications) of the Government Security Classifications. The MoJ trusts you to work with `OFFICIAL` information. In the same way, you're trusted to make a reasoned judgement about whether it's safe to use an OIT.
 
@@ -148,6 +148,18 @@ There are already many OITs used across the MoJ. Permission to use an OIT might 
 
 **Note:** Check with your Line Manager if you want to use an OIT for your work, *before* you use it.
 
+## Requesting that an app be approved for use
+
+If there is an application or service that is not currently approved, but which you would like to use, you can request a security review.
+
+Begin the request by filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLSeEEBDS1HBF7meUk3SjgkqxbXBQlKAiBAezJIbKHnEjfNjBTg/viewform?gxids=7628), as best you can. The more information you provide, the better. But don't worry if you have to leave some bits of the form blank.
+
+When you submit the form, it is passed to the security team. The app is reviewed, to check things like how safe it is to use, and whether there are any Data Privacy implications. The security team will respond to you with an answer as quickly as possible.
+
+**Note:** You should submit the request, and wait for a formal 'approval' response, *before* you install or use the app on MoJ equipment or information.
+
+If you have any questions about the process, contact the security team: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+
 ## Getting help
 
 For further help about aspects of using OITs within the MoJ, contact:
@@ -159,5 +171,7 @@ For further help about aspects of using OITs within the MoJ, contact:
 |Information Assurance|[Compliance and Information Assurance Branch](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/)|
 |Personal Data|[Disclosure Team](mailto:data.access@justice.gov.uk)|
 
-Last updated: April 16th, 2020.
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

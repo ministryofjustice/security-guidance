@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="infrastructure-system-accreditation">
+  <title>Infrastructure System Accreditation</title>
+  <topic id="legacyreferences" conref="conrefs.dita#legacyreferences"><title/></topic>
+  <topic id="summary">
+    <title>Summary</title>
+    <body>
+      <p>Accreditation is the formal, independent assessment of an IT system or service against its Information Assurance (IA) requirements.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> <xref href="https://intranet.justice.gov.uk/documents/2015/04/accreditation-framework.pdf" format="pdf" scope="external">Accreditation Framework</xref> explains how accreditation forms part of the wider Information Risk Management strategy, is owned by the business owners of the system, and is implemented in a proportionate, pragmatic, and cost-effective manner. The framework includes information about who is involved in accreditation, their roles and responsibilities, and the stages of accreditation and risk assessment.</p>
+      <p>Accreditation must be considered for any system that handles information relating to <ph conref="conrefs.dita#conrefs/moj"/> business or <ph conref="conrefs.dita#conrefs/moj"/> customers.</p>
+    </body>
+    </topic>
+    <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

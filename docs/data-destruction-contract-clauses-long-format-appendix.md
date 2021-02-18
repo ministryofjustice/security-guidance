@@ -33,3 +33,7 @@ Data Destruction for printed materials **must** include, unless otherwise supers
 
 The required outcome is to ensure that `Authority` data is inaccessible by any reasonable commercial and resourced means \(such as commercially available data recovery services\).
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

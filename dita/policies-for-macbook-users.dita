@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="policies-for-macbook-users">
+  <title>Policies for MacBook Users</title>
+  <body>
+    <p>Any User of an <ph conref="conrefs.dita#conrefs/mojlong"/>-supplied MacBook must ensure they comply with this policy,
+      to ensure that security is not compromised when using these devices.</p>
+    <p>These Policies are supplementary to the GOV.UK and <ph conref="conrefs.dita#conrefs/moj"/> Enterprise policies,
+      procedures and guidance.</p>
+    <p>If you are unsure about any of the requirements or content,
+      <xref href="#contact-details" format="dita">ask for help</xref>.</p>
+  </body>
+  <topic id="policies">
+    <title>Policies</title>
+    <body>
+      <ul>
+        <li>You must not share your login details or password with anyone under any circumstances.</li>
+        <li>You must change your password if you suspect it has been compromised, or if instructed to do so by your line manager or other authorised individual.</li>
+        <li>You must not attempt to access any other person's data unless you have been authorised to do so.</li>
+        <li>You must only collaborate with authorised personnel.</li>
+        <li><xref href="#general-enquiries-including-theft-and-loss" format="dita">Get help</xref> if you are subjected to any security incident, or suspect you might be.</li>
+        <li>You must logoff or lock your computer when leaving it unattended.</li>
+        <li>You must keep your <ph conref="conrefs.dita#conrefs/moj"/> Digital&amp; Technology equipment close to you
+            and in sight at all times when in public areas.</li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="top-things-to-remember">
+    <title>Top things to remember</title>
+    <body>
+      <p>You are responsible and accountable for the security of your <ph conref="conrefs.dita#conrefs/moj"/> equipment at all times.</p>
+      <p>If you don't think you should do something, you probably shouldn't.
+        If in doubt, <xref href="#contact-details" format="dita">always seek advice</xref>.</p>
+    </body>
+  </topic>
+  <topic id="general-enquiries-including-theft-and-loss" conref="conrefs.dita#conrefs/general-enquiries-including-theft-and-loss"><title/></topic>
+  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

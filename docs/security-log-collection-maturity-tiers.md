@@ -12,7 +12,7 @@ The extent to which a security log collection process implements the monitoring 
 
 Each level of monitoring - or 'tier' - has characteristics that are 'in addition' to lower level tiers. For example, a system operating at the Enhanced tier should also meet the requirements of the Baseline tier.
 
-![A diagram showing a large triangle, base at the bottom, split into three levels. The top level has the heading 'Bespoke'. It contains two items: Customised logging, and Dynamic event responses. The middle level has the heading 'Enhanced'. It contains three items: Notification of events, Active analysis, and Automation of manual processes. The bottom and largest level has the heading 'Baseline'. It contains four items: System logs, Authorisation logs, Failure logs, and Security functions.](https://ministryofjustice.github.io/security-guidance/images/tiers.png)
+![A diagram showing a large triangle, base at the bottom, split into three levels. The top level has the heading 'Bespoke'. It contains two items: Customised logging, and Dynamic event responses. The middle level has the heading 'Enhanced'. It contains three items: Notification of events, Active analysis, and Automation of manual processes. The bottom and largest level has the heading 'Baseline'. It contains four items: System logs, Authorisation logs, Failure logs, and Security functions.](images/tiers.png)
 
 ## Baseline
 
@@ -28,5 +28,7 @@ The enhanced tier, in conjunction with the baseline event types, provides earlie
 
 The bespoke tier concerns systems that are critical to the security, stability and statutory function of the MoJ, or that contain highly sensitive data. In this tier, systems must generate additional bespoke \(customised\) event types. These event types are typically agreed in context between the MoJ Cyber Security team and the associated product or service team. The objective is produce logging that reliably identifies and captures key nuance and contextual security monitoring data, based on applicable threats and risks.
 
-Last updated: April 20th, 2020.
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

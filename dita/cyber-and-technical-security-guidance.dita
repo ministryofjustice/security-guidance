@@ -3,7 +3,6 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="cyber-and-technical-security-guidance">
 	<title>Cyber and Technical Security Guidance</title>
-	<body/>
 	<topic id="summary">
 		<title>Summary</title>
 		<body>
@@ -11,39 +10,76 @@
 <xref href="https://www.gov.uk/government/organisations/ministry-of-justice" format="html" scope="external"><ph conref="conrefs.dita#conrefs/mojlong"/></xref>
 has made for the products we operate, and our relationships with suppliers.</p>
 			<p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> covers technical decisions in the <ph conref="conrefs.dita#conrefs/moj"/> more widely.</p>
-			<note>
-			<p>This guidance is dated: <ph conref="tstamp.dita#tstamp/tstamp"/>.</p>
-			<p platform="html">For convenience, offline versions of this guidance are available.
-			<table>
-				<tgroup cols="3">
-					<colspec colname="col1" colnum="1" colwidth="3*"/>
-					<colspec colname="col2" colnum="2" colwidth="1*"/>
-					<colspec colname="col3" colnum="3" colwidth="1*"/>
-					<thead>
-						<row>
-							<entry colname="col1">Audience</entry>
-							<entry colname="col2">PDF format</entry>
-							<entry colname="col3">EPUB format</entry>
-						</row>
-					</thead>
-					<tbody>
-						<row>
-							<entry colname="col1">All users. Does not include lots of technical detail.</entry>
-							<entry colname="col2"><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></entry>
-							<entry colname="col3"><xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref></entry>
-						</row>
-						<row>
-							<entry colname="col1">Technical users. Includes lots of technical detail.</entry>
-							<entry colname="col2"><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></entry>
-							<entry colname="col3"><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></entry>
-						</row>
-					</tbody>
-				</tgroup>
-			</table>
-			 The offline versions of this guidance are time-limited, and are <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
-			<p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, see <xref href="https://ministryofjustice.github.io/security-guidance/" format="html" scope="external">here</xref>.</p>
-			</note>
-		</body>
+			<note>This guidance is dated: <ph conref="tstamp.dita#tstamp/tstamp"/>.</note>
+    </body>
+    <topic id="popular-links" platform="html">
+      <title>Popular links</title>
+      <body>
+        <p>Popular links for all users:
+          <ul>
+            <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">General Apps Guidance</xref></li>
+            <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements Guide</xref></li>
+            <li><xref href="official-official-sensitive.dita" format="dita">OFFICIAL, OFFICIAL-SENSITIVE</xref> classifications and handling</li>
+            <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From overseas</xref></li>
+            <li><xref href="remote-working.dita" format="dita">Remote Working</xref></li>
+          </ul>
+        </p>
+      </body>
+    </topic>
+    <topic id="offline-content">
+      <title>Offline content</title>
+      <body>
+        <p platform="html">For convenience, offline versions of this guidance are available.
+          <table>
+            <tgroup cols="3">
+              <colspec colname="col1" colnum="1" colwidth="3*"/>
+              <colspec colname="col2" colnum="2" colwidth="1*"/>
+              <colspec colname="col3" colnum="3" colwidth="1*"/>
+              <thead>
+                <row>
+                  <entry colname="col1">Audience</entry>
+                  <entry colname="col2">PDF format</entry>
+                  <entry colname="col3">EPUB format</entry>
+                </row>
+              </thead>
+              <tbody>
+                <row>
+                  <entry colname="col1">All users. Does not include lots of technical detail.</entry>
+                  <entry colname="col2"><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></entry>
+                  <entry colname="col3"><!-- <xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref> --> On request.</entry>
+                </row>
+                <row>
+                  <entry colname="col1">Technical users. Includes lots of technical detail.</entry>
+                  <entry colname="col2"><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></entry>
+                  <entry colname="col3"><!-- <xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref> --> On request.</entry>
+                </row>
+                <!-- 
+                <row>
+                  <entry colname="col1">Suppliers. Includes just the details of primary interest to suppliers.</entry>
+                  <entry colname="col2"><xref href="moj-guidance-suppliers.pdf" format="pdf" scope="peer">PDF</xref></entry>
+                  <entry colname="col3"><xref href="moj-guidance-suppliers.epub" format="epub" scope="peer">EPUB</xref></entry>
+                </row>
+              -->
+              </tbody>
+            </tgroup>
+          </table>
+        The offline versions of this guidance are time-limited, and are <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
+        <p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, see <xref href="https://ministryofjustice.github.io/security-guidance/" format="html" scope="external">here</xref>.</p>
+      </body>
+      </topic>
+		<topic id="searching" platform="html">
+			<title>Searching this content</title>
+			<body>
+				<p>The content of this site is searchable in two ways:
+				<ol>
+					<li>By searching for the word or phrase on <xref href="google.com" format="html" scope="external">Google</xref> and specifying this site:
+						<pre>site:https://ministryofjustice.github.io/security-guidance/</pre>
+						For example, to search for information about passwords, you might use the following search expression:
+						<pre>password site:https://ministryofjustice.github.io/security-guidance/</pre></li>
+					<li>By downloading one of the offline versions and using the inbuilt search capability of your offline reader.</li>
+				</ol></p>
+			</body>
+		</topic>
 		<topic id="getting-in-touch">
 			<title>Getting in touch</title>
 			<body>
@@ -58,7 +94,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 		<topic id="background" audience="audience-tech">
 			<title>Background</title>
 			<body>
-				<p><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref> replaces the <xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">HMG Security Policy Framework (SPF)</xref>, last published in May 2018.
+				<p><ph conref="conrefs.dita#conrefs/gov007"/> replaces the <xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">HMG Security Policy Framework (SPF)</xref>, last published in May 2018.
 				It also incorporates the <xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">Minimum Cyber Security Standard (MCSS)</xref> which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.</p>
 				<image platform="html epub" href="images/gov007overview.png" placement="break" scope="local"><alt>A diagram showing a hierarchy of the key components within the Government Functional Standard. It is in three sections. In the first section, at the top is a triangle labelled Principles. This stands on a block marked Content, which itself stands on a block marked Governance, showing that governance and content underpin the principles. The second section is called Security Life Cycle. It shows a flow from left to right. To the left of the section is a large arrow entitled Security Strategy and Planning. This arrow splits on the right hand side into two small arrows. The top small arrow is labelled Prevention and Detection. The bottom small arrow is labelled Security Incident Management. A small line arrow drops down from the top Prevention and Detection arrow to the bottom Security Incident Management arrow. To the right hand side of this section of the diagram, the Prevention and Detection and the Security Incident Management arrows converge into a final large arrow, entitled Review and Learn from Experience. A dotted line arrow, labelled Improvement, goes back from the Review and Learn arrow over to the beginning of this section of the diagram, linking to the Security Strategy and Planning arrow. Underneath these arrow diagrams is the third and final section. This is a summary text, called Security Practices. Many practices are listed using three columns in this section. The left column list includes: Critical Assets and Services, Risk Management, and Access to information. The middle column list includes: Capability, capacity and resources, Security culture, Security education and awareness, and Physical security. The right column list includes: Personnel security, Cyber security, and Technical security.</alt></image>
 				<image platform="pdf" href="images/gov007overview-small.png" placement="break" scope="local"><alt>A diagram showing a hierarchy of the key components within the Government Functional Standard. It is in three sections. In the first section, at the top is a triangle labelled Principles. This stands on a block marked Content, which itself stands on a block marked Governance, showing that governance and content underpin the principles. The second section is called Security Life Cycle. It shows a flow from left to right. To the left of the section is a large arrow entitled Security Strategy and Planning. This arrow splits on the right hand side into two small arrows. The top small arrow is labelled Prevention and Detection. The bottom small arrow is labelled Security Incident Management. A small line arrow drops down from the top Prevention and Detection arrow to the bottom Security Incident Management arrow. To the right hand side of this section of the diagram, the Prevention and Detection and the Security Incident Management arrows converge into a final large arrow, entitled Review and Learn from Experience. A dotted line arrow, labelled Improvement, goes back from the Review and Learn arrow over to the beginning of this section of the diagram, linking to the Security Strategy and Planning arrow. Underneath these arrow diagrams is the third and final section. This is a summary text, called Security Practices. Many practices are listed using three columns in this section. The left column list includes: Critical Assets and Services, Risk Management, and Access to information. The middle column list includes: Capability, capacity and resources, Security culture, Security education and awareness, and Physical security. The right column list includes: Personnel security, Cyber security, and Technical security.</alt></image>
@@ -317,31 +353,32 @@ has made for the products we operate, and our relationships with suppliers.</p>
 
         <topic id="information-security-policies">
         <title>Information security policies</title>
-        <body/>
         <topic id="management-direction-for-information-security">
           <title>Management direction for information security</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row platform="html">
-								<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/setecastronomy/" format="html" scope="external">Avoiding too much security</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-							<row platform="epub pdf">
-                <entry colname="col1" align="left"><xref href="setecastronomy.dita" format="dita">Avoiding too much security</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
+
+
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/setecastronomy/" format="html" scope="external">Avoiding too much security</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="setecastronomy.dita" format="dita">Avoiding too much security</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
               <row>
                 <entry colname="col1" align="left"><xref href="identify-protect-detect-respond-recover.dita" format="dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
-							<row platform="html">
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/" format="html" scope="external">Line Manager approval</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-							<row platform="epub pdf">
-                <entry colname="col1" align="left"><xref href="line-manager-approval.dita" format="dita">Line Manager approval</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/" format="html" scope="external">Line Manager approval</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="line-manager-approval.dita" format="dita">Line Manager approval</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="shared-responsibility-models.dita" format="dita">Shared Responsibility Models</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
@@ -354,17 +391,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <!--
       <topic id="organisation-of-information-security">
         <title>Organisation of information security</title>
-        <body/>
         <topic id="internal-organisation">
           <title>Internal organisation</title>
-          <body/>
         </topic>
       </topic>
             -->
 
       <topic id="mobile-devices-and-teleworking">
         <title>Mobile devices and teleworking</title>
-        <body/>
         <topic id="mobile-device-policy">
           <title>Mobile device policy</title>
           <body>
@@ -381,11 +415,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
-                <entry colname="col1" align="left"><xref href="accessing-moj-it-systems-from-abroad.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Abroad</xref></entry>
+                <entry colname="col1" align="left"><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From overseas</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="general-advice-on-taking-equipment-abroad.dita" format="dita">General advice on taking equipment abroad</xref></entry>
+                <entry colname="col1" align="left"><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita">General advice on taking equipment overseas</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
@@ -399,7 +433,6 @@ has made for the products we operate, and our relationships with suppliers.</p>
 
       <topic id="human-resource-security">
         <title>Human resource security</title>
-        <body/>
         <topic id="prior-to-employment">
           <title>Prior to employment</title>
           <body>
@@ -415,64 +448,62 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <title>During employment</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-						<row platform="html">
-							<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/training-and-education/" format="html" scope="external">Training and Education</xref></entry>
-							<entry colname="col2" align="right">All users</entry>
-						</row>
-						<row platform="epub pdf">
-							<entry colname="col1" align="left"><xref href="training-and-education.dita" format="dita">Training and Education</xref></entry>
-							<entry colname="col2" align="right">All users</entry>
-						</row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/training-and-education/" format="html" scope="external">Training and Education</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="training-and-education.dita" format="dita">Training and Education</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
             </tbody></tgroup></table>
           </body>
         </topic>
         <!--
         <topic id="termination-and-change-of-employment">
           <title>Termination and change of employment</title>
-          <body/>
         </topic>
         -->
       </topic>
 
       <topic id="asset-management">
         <title>Asset management</title>
-        <body/>
         <topic id="responsibility-for-assets">
           <title>Responsibility for assets</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-						<row platform="html">
-							<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external">Acceptable use</xref></entry>
-							<entry colname="col2" align="right">All users</entry>
-						</row>
-						<row platform="epub pdf">
-							<entry colname="col1" align="left"><xref href="acceptable-use.dita" format="dita">Acceptable use</xref></entry>
-							<entry colname="col2" align="right">All users</entry>
-						</row>
-						<row platform="html">
-							<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use-policy/" format="html" scope="external">Acceptable use policy</xref></entry>
-							<entry colname="col2" align="right">All users</entry>
-						</row>
-						<row platform="epub pdf">
-							<entry colname="col1" align="left"><xref href="acceptable-use-policy.dita" format="dita">Acceptable use policy</xref></entry>
-							<entry colname="col2" align="right">All users</entry>
-						</row>
-						<row platform="html">
-							<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/" format="html" scope="external">IT Acceptable Use Policy</xref></entry>
-							<entry colname="col2" align="right">All users</entry>
-						</row>
-						<row platform="epub pdf">
-							<entry colname="col1" align="left"><xref href="it-acceptable-use-policy.dita" format="dita">IT Acceptable Use Policy</xref></entry>
-							<entry colname="col2" align="right">All users</entry>
-						</row>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/protect-yourself-online/" format="html" scope="external">Protect Yourself Online</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/" format="html" scope="external">Web browsing security</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external">Acceptable use</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="acceptable-use.dita" format="dita">Acceptable use</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row>
+					<entry colname="col1" align="left"><xref href="acceptable-use-policy.dita" format="dita">Acceptable use policy</xref></entry>
+					<entry colname="col2" align="right">All users (Policy)</entry>
+				</row>
+				<row>
+					<entry colname="col1" align="left"><xref href="it-acceptable-use-policy.dita" format="dita">IT Acceptable Use Policy</xref></entry>
+					<entry colname="col2" align="right">All users (Policy)</entry>
+				</row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/protect-yourself-online/" format="html" scope="external">Protect Yourself Online</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="protect-yourself-online.dita" format="dita">Protect Yourself Online</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/" format="html" scope="external">Web browsing security</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="web-browsing.dita" format="dita" type="topic">Web browsing security</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
             </tbody></tgroup></table>
           </body>
         </topic>
@@ -480,18 +511,26 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <title>Information classification</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row audience="audience-tech">
+              <row audience="audience-tech" platform="html">
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/data-handling-and-information-sharing-guide/" format="html" scope="external">Data Handling and Information Sharing Guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme" format="html" scope="external">Government Classification Scheme</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/" format="html" scope="external">Information Classification and Handling Policy</xref></entry>
+              <row audience="audience-tech" platform="epub pdf">
+                <entry colname="col1" align="left"><xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Handling and Information Sharing Guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/" format="html" scope="external">Government Classification Scheme</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="government-classification-scheme.dita" format="dita">Government Classification Scheme</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row>
+					<entry colname="col1" align="left"><xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref></entry>
+					<entry colname="col2" align="right">All users (Policy)</entry>
+				</row>
               <row>
                 <entry colname="col1" align="left"><xref href="official-official-sensitive.dita" format="dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref></entry>
                 <entry colname="col2" align="right">All users</entry>
@@ -507,14 +546,22 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <title>Media handling</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/" format="html" scope="external">Removable media</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-ict-equipment/" format="html" scope="external">Secure disposal of ICT equipment</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/" format="html" scope="external">Removable media</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="removable-media.dita" format="dita">Removable media</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-ict-equipment/" format="html" scope="external">Secure disposal of IT equipment</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="secure-disposal-of-it-equipment.dita" format="dita">Secure disposal of IT equipment</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
             </tbody></tgroup></table>
           </body>
         </topic>
@@ -522,7 +569,6 @@ has made for the products we operate, and our relationships with suppliers.</p>
 
       <topic id="access-control">
         <title>Access control</title>
-        <body/>
         <topic id="business-requirements-of-access-control" audience="audience-tech">
           <title>Business requirements of access control</title>
           <body>
@@ -531,10 +577,16 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="access-control-guide.dita" format="dita" type="topic">Access Control Guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-enterprise-access-control-policy/" format="html" scope="external">Enterprise Access Control Policy</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
+        <!--
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-enterprise-access-control-policy/" format="html" scope="external">Enterprise Access Control Policy</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+        -->
+				<row>
+					<entry colname="col1" align="left"><xref href="enterprise-access-control-policy.dita" format="dita">Enterprise Access Control Policy</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
             </tbody></tgroup></table>
           </body>
         </topic>
@@ -616,18 +668,30 @@ has made for the products we operate, and our relationships with suppliers.</p>
 							<entry colname="col1" align="left"><xref href="password-storage-and-management-guide.dita" format="dita">Password Storage and Management Guide</xref></entry>
 							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-google-apps-administrators/" format="html" scope="external">Policies for Google Apps administrators</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-administrators/" format="html" scope="external">Policies for Macbook Administrators</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/" format="html" scope="external">System User and Application Administrators</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
+				<row audience="audience-tech" platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-google-apps-administrators/" format="html" scope="external">Policies for Google Apps administrators</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row audience="audience-tech" platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="policies-for-google-apps-administrators.dita" format="dita">Policies for Google Apps administrators</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row audience="audience-tech" platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-administrators/" format="html" scope="external">Policies for Macbook Administrators</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row audience="audience-tech" platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="policies-for-macbook-administrators.dita" format="dita">Policies for Macbook Administrators</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row audience="audience-tech" platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/" format="html" scope="external">System User and Application Administrators</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row audience="audience-tech" platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="system-users-and-application-administrators.dita" format="dita">System User and Application Administrators</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
               <row>
                 <entry colname="col1" align="left"><xref href="using-lastpass.dita" format="dita">Using LastPass Enterprise</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
@@ -639,7 +703,6 @@ has made for the products we operate, and our relationships with suppliers.</p>
 
       <topic id="cryptography" audience="audience-tech">
         <title>Cryptography</title>
-        <body/>
         <topic id="cryptographic-controls">
           <title>Cryptographic controls</title>
           <body>
@@ -652,18 +715,30 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="cryptography.dita" format="dita" type="topic">Cryptography</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/hmg-cryptography-business-continuity-management-standard/" format="html" scope="external">HMG Cryptography Business Continuity Management Standard</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/public-key-infrastructure-policy/" format="html" scope="external">Public Key Infrastructure Policy</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/use-of-hmg-cryptography-policy/" format="html" scope="external">Use of HMG Cryptography Policy</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/hmg-cryptography-business-continuity-management-standard/" format="html" scope="external">HMG Cryptography Business Continuity Management Standard</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="hmg-cryptography-business-continuity-management-standard.dita" format="dita">HMG Cryptography Business Continuity Management Standard</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/public-key-infrastructure-policy/" format="html" scope="external">Public Key Infrastructure Policy</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="public-key-infrastructure-policy.dita" format="dita">Public Key Infrastructure Policy</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/use-of-hmg-cryptography-policy/" format="html" scope="external">Use of HMG Cryptography Policy</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="use-of-hmg-cryptography-policy.dita" format="dita">Use of HMG Cryptography Policy</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
             </tbody></tgroup></table>
           </body>
         </topic>
@@ -671,37 +746,55 @@ has made for the products we operate, and our relationships with suppliers.</p>
 
       <topic id="physical-and-environmental-security">
         <title>Physical and environmental security</title>
-        <body/>
         <!--
         <topic id="secure-areas">
           <title>Secure areas</title>
-          <body/>
         </topic>
         -->
         <topic id="equipment">
           <title>Equipment</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/clear-screen-and-desk-policy/" format="html" scope="external">Clear Screen and Desk Policy</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/laptops/" format="html" scope="external">Laptops</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/locking-and-shutdown/" format="html" scope="external">Locking and shutdown</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-users/" format="html" scope="external">Policies for Macbook Users</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-lockdown-and-hardening-standard/" format="html" scope="external">System Lockdown and Hardening Standard</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/clear-screen-and-desk/" format="html" scope="external">Clear Screen and Desk Policy</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="clear-screen-and-desk.dita" format="dita">Clear Screen and Desk Policy</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/laptops/" format="html" scope="external">Laptops</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="laptops.dita" format="dita">Laptops</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/locking-and-shutdown/" format="html" scope="external">Locking and shutdown</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="locking-and-shutdown.dita" format="dita">Locking and shutdown</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-users/" format="html" scope="external">Policies for Macbook Users</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="policies-for-macbook-users.dita" format="dita">Policies for Macbook Users</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row audience="audience-tech" platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-lockdown-and-hardening-standard/" format="html" scope="external">System Lockdown and Hardening Standard</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row audience="audience-tech" platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="system-lockdown-and-hardening-standard.dita" format="dita">System Lockdown and Hardening Standard</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
             </tbody></tgroup></table>
           </body>
         </topic>
@@ -709,7 +802,6 @@ has made for the products we operate, and our relationships with suppliers.</p>
 
       <topic id="operations-security">
         <title>Operations security</title>
-        <body/>
         <topic id="operational-procedures-and-responsibilities" audience="audience-tech">
           <title>Operational procedures and responsibilities</title>
           <body>
@@ -726,10 +818,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="web-check.dita" format="dita">Active Cyber Defence: Web Check</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/offshoring-guide/" format="html" scope="external">Offshoring Guide</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/offshoring-guide/" format="html" scope="external">Offshoring Guide</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="offshoring-guide.dita" format="dita">Offshoring Guide</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
             </tbody></tgroup></table>
           </body>
         </topic>
@@ -760,16 +856,28 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <title>Backup</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
+              <row platform="html">
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-backup-guidance/" format="html" scope="external">System backup guidance</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row platform="epub pdf">
+                <entry colname="col1" align="left"><xref href="system-backup-guidance.dita" format="dita">System backup guidance</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row platform="html">
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-backup-policy/" format="html" scope="external">System backup policy</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row platform="epub pdf">
+                <entry colname="col1" align="left"><xref href="system-backup-policy.dita" format="dita">System backup policy</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row platform="html">
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-backup-standard/" format="html" scope="external">System backup standard</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row platform="epub pdf">
+                <entry colname="col1" align="left"><xref href="system-backup-standard.dita" format="dita">System backup standard</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
             </tbody></tgroup></table>
@@ -842,6 +950,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
+                <entry colname="col1" align="left"><xref href="patch-management-guide.dita" format="dita">Patch management guide</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/patch-management-standard/" format="html" scope="external">Patch Management Standard</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -854,7 +966,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="vulnerability-scanning.dita" format="dita">Vulnerability scanning</xref></entry>
+                <entry colname="col1" align="left"><xref href="vulnerability-scanning-and-patch-management-guide.dita" format="dita">Vulnerability scanning and patch management guide</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="vulnerability-scanning-guide.dita" format="dita">Vulnerability scanning guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
             </tbody></tgroup></table>
@@ -863,22 +979,24 @@ has made for the products we operate, and our relationships with suppliers.</p>
 <!--
         <topic id="information-systems-audit-considerations">
           <title>Information systems audit considerations</title>
-          <body/>
         </topic>
 -->
       </topic>
 
       <topic id="communications-security">
         <title>Communications security</title>
-        <body/>
         <topic id="network-security-management" audience="audience-tech">
           <title>Network security management</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/code-of-connection-standard/" format="html" scope="external">Code of Connection Standard</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/code-of-connection-standard/" format="html" scope="external">Code of Connection Standard</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="code-of-connection-standard.dita" format="dita">Code of Connection Standard</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
               <row>
                 <entry colname="col1" align="left"><xref href="defensive-domain-registration.dita" format="dita">Defensive domain registrations</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
@@ -924,7 +1042,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
               </row>
 							<row platform="html">
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/email/" format="html" scope="external">Email security</xref>
-								<xref href="email.dita" format="dita">Email security (Refresh)</xref></entry>
+								(<xref href="email.dita" format="dita">Email security (Refresh)</xref>)</entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
 							<row platform="epub pdf">
@@ -947,6 +1065,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="spam-and-phishing-guide.dita" format="dita">Spam and Phishing Guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="web-browsing-security-policy-profiles.dita" format="dita" type="topic">Web browsing security policy profiles</xref></entry>
+                <entry colname="col2" align="right">All users (Policy)</entry>
+              </row>
             </tbody></tgroup></table>
           </body>
         </topic>
@@ -954,7 +1076,6 @@ has made for the products we operate, and our relationships with suppliers.</p>
 
       <topic id="system-acquisition-development-and-maintenance" audience="audience-tech">
         <title>System acquisition, development and maintenance</title>
-        <body/>
         <topic id="security-requirements-of-information-systems">
           <title>Security requirements of information systems</title>
           <body>
@@ -1012,7 +1133,6 @@ has made for the products we operate, and our relationships with suppliers.</p>
 
       <topic id="supplier-relationships" audience="audience-tech">
         <title>Supplier relationships</title>
-        <body/>
         <topic id="information-security-in-supplier-relationships">
           <title>Information security in supplier relationships</title>
           <body>
@@ -1051,34 +1171,53 @@ has made for the products we operate, and our relationships with suppliers.</p>
 
       <topic id="information-security-incident-management">
         <title>Information security incident management</title>
-        <body/>
         <topic id="management-of-information-security-incidents-and-improvements">
           <title>Management of information security incidents and improvements</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/forensic-principles/" format="html" scope="external">Forensic Principles</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/forensic-readiness-guide/" format="html" scope="external">Forensic Readiness Guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy/" format="html" scope="external">Forensic Readiness Policy</xref></entry>
+              <row audience="audience-tech" platform="html">
+                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/forensic-readiness-policy/" format="html" scope="external">Forensic Readiness Policy</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row audience="audience-tech">
+              <row audience="audience-tech" platform="epub pdf">
+                <entry colname="col1" align="left"><xref href="forensic-readiness-policy.dita" format="dita">Forensic Readiness Policy</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech" platform="html">
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/" format="html" scope="external">Incident Management Plan and Process Guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row audience="audience-tech">
+              <row audience="audience-tech" platform="epub pdf">
+                <entry colname="col1" align="left"><xref href="incident-management-plan-and-process-guide.dita" format="dita">Incident Management Plan and Process Guide</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech" platform="html">
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/" format="html" scope="external">IT Incident Management Policy</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech" platform="epub pdf">
+                <entry colname="col1" align="left"><xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="lost-laptophardware.dita" format="dita">Lost Laptop or other IT security incident</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row audience="audience-tech" platform="html">
+                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Forensic Readiness Policy</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech" platform="epub pdf">
+                <entry colname="col1" align="left"><xref href="moj-forensic-readiness-policy.dita" format="dita"><ph conref="conrefs.dita#conrefs/moj"/> Forensic Readiness Policy</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="reporting-an-incident.dita" format="dita">Reporting an incident</xref></entry>
@@ -1091,17 +1230,24 @@ has made for the products we operate, and our relationships with suppliers.</p>
 
       <topic id="information-security-aspects-of-business-continuity-management" audience="audience-tech">
         <title>Information security aspects of business continuity management</title>
-        <body/>
         <topic id="information-security-continuity">
           <title>Information security continuity</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-disaster-recovery-plan-and-process-guide/" format="html" scope="external">ICT Disaster Recovery Plan and Process Guide</xref></entry>
+              <row audience="audience-tech" platform="html">
+                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-disaster-recovery-plan-and-process-guide/" format="html" scope="external">IT Disaster Recovery Plan and Process Guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech" platform="epub pdf">
+                <entry colname="col1" align="left"><xref href="it-disaster-recovery-plan-and-process-guide.dita" format="dita">IT Disaster Recovery Plan and Process Guide</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row platform="html">
                 <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/" format="html" scope="external">IT Disaster Recovery Policy</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row platform="epub pdf">
+                <entry colname="col1" align="left"><xref href="it-disaster-recovery-policy.dita" format="dita">IT Disaster Recovery Policy</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
             </tbody></tgroup></table>
@@ -1110,14 +1256,12 @@ has made for the products we operate, and our relationships with suppliers.</p>
 				<!--
         <topic id="redundancies">
           <title>Redundancies</title>
-          <body/>
         </topic>
 			-->
       </topic>
 
       <topic id="compliance">
         <title>Compliance</title>
-        <body/>
         <topic id="compliance-with-legal-and-contractual-requirements">
           <title>Compliance with legal and contractual requirements</title>
           <body>
@@ -1176,21 +1320,33 @@ has made for the products we operate, and our relationships with suppliers.</p>
 
       <topic id="risk-assessment">
         <title>Risk Assessment</title>
-        <body/>
-        <!--
-        <topic id="risk-management">
+        <topic id="risk-management" audience="audience-tech">
           <title>Risk Management</title>
-          <body/>
+          <body>
+            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
+              <row platform="html">
+                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/infrastructure-system-accreditation/" format="html" scope="external">Infrastructure and system accreditation</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row platform="epub pdf">
+                <entry colname="col1" align="left"><xref href="infrastructure-system-accreditation.dita" format="dita">Infrastructure and system accreditation</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+                  </tbody></tgroup></table>
+                </body>
         </topic>
-        -->
         <topic id="risk-assessment-process">
           <title>Risk Assessment Process</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/risk-reviews/" format="html" scope="external">Risk reviews</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
+				<row platform="html">
+					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/risk-reviews/" format="html" scope="external">Risk reviews</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row platform="epub pdf">
+					<entry colname="col1" align="left"><xref href="risk-reviews.dita" format="dita">Risk reviews</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
             </tbody></tgroup></table>
           </body>
         </topic>
@@ -1199,7 +1355,6 @@ has made for the products we operate, and our relationships with suppliers.</p>
 	</topic>
 	<topic id="other-guidance">
 		<title>Other Guidance</title>
-		<body/>
 		<topic id="intranet">
 			<title>Intranet</title>
 			<body>
@@ -1210,8 +1365,9 @@ has made for the products we operate, and our relationships with suppliers.</p>
 			<title>Technical Guidance</title>
 			<body>
 				<p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> should be read together with this security-focused guidance.</p>
-				<p>The <xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref> provides the base material for all security guidance in the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+				<p>The <ph conref="conrefs.dita#conrefs/gov007"/> provides the base material for all security guidance in the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
 			</body>
 		</topic>
-	</topic>
+  </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

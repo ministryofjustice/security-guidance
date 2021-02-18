@@ -85,9 +85,9 @@ You should make sure the credentials you're sharing are only available to the pe
 
 \(You must not share your LastPass main password with anyone, even your line manager or MoJ security.\)
 
-### Using it abroad
+### Using it overseas
 
-Taking a device \(such as personal smartphone\) that has MoJ LastPass installed counts as travelling abroad with MoJ information.
+Taking a device \(such as personal smartphone\) that has MoJ LastPass installed counts as travelling overseas with MoJ information.
 
 The MoJ has existing [policies on travelling abroad on the MoJ intranet](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal/) which require various approvals before travel.
 
@@ -102,4 +102,8 @@ Like all software, it is important to keep the software up to date \(sometimes k
 If you need help *installing* LastPass contact the relevant MoJ IT Service Desk.
 
 If you need help using LastPass such as getting access to shared folders or resetting your primary password as you have forgotten it, contact [lastpass-admins@digital.justice.gov.uk](mailto:lastpass-admins@digital.justice.gov.uk)
+
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

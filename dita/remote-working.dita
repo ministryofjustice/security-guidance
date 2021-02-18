@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="remote-working">
   <title>Remote Working</title>
-  <body/>
   <topic id="key-points">
     <title>Key points</title>
     <body>
@@ -189,7 +187,7 @@
       <p>
         <xref href="https://intranet.noms.gsi.gov.uk/support/information-policy-and-assurance/information-assurance" format="html" scope="external">HMPPS Advice</xref>
       </p>
-      <p>Last updated: April 24th, 2020.</p>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

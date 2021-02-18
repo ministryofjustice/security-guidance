@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="locking-and-shutdown">
+  <title>Locking and shutdown</title>
+  <topic id="general">
+    <title>General</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> has made a commitment towards sustainable IT.
+        The intentions are:
+      <ul>
+        <li>To reduce overall power consumption for the <ph conref="conrefs.dita#conrefs/moj"/>
+        by switching off machines and saving energy.</li>
+        <li>To reduce the <ph conref="conrefs.dita#conrefs/moj"/>'s overall carbon footprint.</li>
+      </ul></p>
+    </body>
+    <topic id="how-do-i-shutdown-my-desktop-computer">
+      <title>How do I shutdown my desktop computer?</title>
+      <body>
+        <ul>
+          <li>Close all applications.</li>
+          <li>Shut down the computer by clicking the 'Start' button at the bottom left hand corner of the screen.
+            Next, click 'Shut Down'.</li>
+          <li>A pop-up box will appear with a drop-down box. Select 'Shut Down' and click 'OK'.
+            After a short delay, your computer will automatically shut down.</li>
+          <li>Switch off your monitor screen.</li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="what-are-the-benefits">
+      <title>What are the benefits?</title>
+      <body>
+        <p>By switching off our computers at the end of each working day,
+          we are contributing towards being energy efficient and environmentally friendly.
+          We are all responsible for our own Carbon Footprint.
+          So, please switch off your PC monitor along with your desktop computer at the end of each working day.
+          In addition, please switch off any other PC monitors if you notice they too have been left on overnight.</p>
+      </body>
+    </topic>
+    <topic id="what-if-there-are-any-issues-preventing-you-from-switching-off-your-computer">
+      <title>What if there are any issues preventing you from switching off your computer?</title>
+      <body>
+        <p>If there are any issues preventing you from switching off your desktop computer overnight,
+          then please raise this with the <xref href="#general-enquiries-including-theft-and-loss" format="dita">IT Service Desk</xref> immediately
+          as there could be an underlying fault that needs resolving.</p>
+        <p>If you require any further information regarding this policy,
+          <xref href="#contact-details" format="dita">ask for help</xref>.</p>
+      </body>
+    </topic>
+    <topic id="locking-your-computer-sessions">
+      <title>Locking your computer sessions</title>
+      <body>
+        <p>Access to most computer systems is controlled by a user name and password.
+          If you have the correct information, you are able to 'log in' or 'log on'.
+          The user name identifies the user as a valid user of the system and the password authenticates that the user is who they say they are.</p>
+        <p>You are responsible for what you do with an <ph conref="conrefs.dita#conrefs/moj"/> system or service.
+          You might be held responsible for any actions carried out using your user name and password.
+          You must therefore not allow any one else to do work on any system using your user name and password.
+          If you leave your computer logged on when you are away from it,
+          it might be possible for sensitive information held on the computer system to be used,
+          read, changed, printed or copied by someone not authorised to see it.</p>
+        <p>If you are leaving your computer unattended for a short period of time,
+          'lock' the computer by activating the password protected screen saver or similar 'locking' facility.
+          A simple and quick way to lock a Windows computer is:
+        <ol><li>To LOCK - press the Windows key and L key, at the same time.</li>
+        <li>To UNLOCK - press the Ctrl, Alt and Delete keys, at the same time, then log in as normal.</li></ol>
+        A simple and quick way to lock a Mac computer is:
+        <ol><li>To LOCK - press the Ctrl, Cmd and Q keys, at the same time.</li>
+          <li>To UNLOCK - move the mouse or press any key, then log in as normal.</li></ol></p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="laptops">
+    <title>Laptops</title>
+    <topic id="background">
+      <title>Background</title>
+      <body>
+        <p>All <ph conref="conrefs.dita#conrefs/moj"/> laptops have hard disk encryption installed.
+          This protects the entire contents of a laptop's hard disk drive to prevent any data stored locally
+          from being accessed in the event the laptop is either lost or stolen.</p>
+      </body>
+    </topic>
+    <topic id="incident">
+      <title>Incident</title>
+      <body>
+        <p>Investigations into security incidents indicate that a common reason for problems is where the correct
+          security procedures are not being followed.
+          For example, laptops are being left logged on overnight.</p>
+        <p>This is not good security practice.</p>
+        <p>If a device is lost or stolen whilst the machine is in locked mode,
+          the data on the machine is more vulnerable to a potential security breach.</p>
+        <p>Leaving the laptop in <ph conref="conrefs.dita#conrefs/moj"/> premises is not sufficient to guarantee
+          the equipment's security.
+          Laptop losses do sometimes occur within <ph conref="conrefs.dita#conrefs/moj"/> offices.
+          There is a greater risk of data loss when a laptop is left partially logged on overnight,
+          so you should always fully log off the laptop at the end of your working day.</p>
+      </body>
+    </topic>
+    <topic id="what-you-need-to-do">
+      <title>What you need to do</title>
+      <body>
+        <ul>
+          <li>Switch off the machine completely at the end of each usage.</li>
+          <li>Do not attach the password to the machine or keep the password with the machine.</li>
+        </ul>
+        <p>If you need further assistance or information about this process,
+          <xref href="#contact-details" format="dita">ask for help</xref>.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="general-enquiries-including-theft-and-loss" conref="conrefs.dita#conrefs/general-enquiries-including-theft-and-loss"><title/></topic>
+  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

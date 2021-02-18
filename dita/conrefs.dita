@@ -3,32 +3,91 @@
 <topic id="conrefs">
 	<title>conref library</title>
 	<body>
+		<!-- To use a content reference from this library, include a line similar to the following:
+            <topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
+            ... which would incorporate the 'incidents' topic.
+
+			Another example:
+			<ph conref="conrefs.dita#conrefs/mojlong"/>
+
+            The actual syntax for a conref target can be a bit confusing. The DITA reference material here:
+            https://docs.oasis-open.org/dita/v1.1/OS/langspec/common/theconrefattribute.html
+            ... is excellent and has clear examples of how to refer to what you want.
+         -->
+
 		<p>
+			<ph id="catemail"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></ph>
+			<ph id="cisolong">Chief Information Security Office (CISO)</ph>
+			<ph id="ciso">CISO</ph>
+			<ph id="dacuemail"><xref href="mailto:Data.access@justice.gov.uk" format="email" scope="external">Data.access@justice.gov.uk</xref></ph>
+			<ph id="gov007"><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></ph>
+			<ph id="groupsecurityemail"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="email" scope="external">mojgroupsecurity@justice.gov.uk</xref></ph>
+			<ph id="gsuite">Google Workspace</ph>
+			<ph id="itpolicycontentemail"><xref href="mailto:itpolicycontent@digital.justice.gov.uk" format="email" scope="external">itpolicycontent@digital.justice.gov.uk</xref></ph>
 			<ph id="mojlong">Ministry of Justice (MoJ)</ph>
 			<ph id="moj">MoJ</ph>
-			<ph id="groupsecurityemail"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="email" scope="external">mojgroupsecurity@justice.gov.uk</xref></ph>
-			<ph id="securityemail"><xref href="mailto:security@digital.justice.gov.uk" format="email" scope="external">security@digital.justice.gov.uk</xref></ph>
+			<ph id="ncsclong">National Cyber Security Centre (NCSC)</ph>
+			<ph id="ncsc">NCSC</ph>
 			<ph id="ostemail"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
-			<ph id="catemail"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></ph>
 			<ph id="privacyemail"><xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">privacy@justice.gov.uk</xref></ph>
-			<ph id="gsuite">Google Workspace</ph>
+			<ph id="recordsretentionemail"><xref href="mailto:Records_Retention_@justice.gov.uk" format="email" scope="external">Records_Retention_@justice.gov.uk</xref></ph>
+			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></ph>
 		</p>
 		<p id="contactcatbyemail">Contact the Cyber Assistance Team by email: <ph conref="#conrefs/catemail"/></p>
 		<image id="intraneticon" href="images/gov-uk-logotype-crown.png"><alt>A small UK Government Crown,
 			to indicate that the link is to the <ph conref="#conrefs/moj"/> Intranet.</alt></image>
-		<p><fn id="fnexternalemail">An external email service is any service that is outside the <pre>gov.uk</pre> domain.</fn></p>
-	</body>
+		<p id="irardefinition">An IRAR is normally completed by Security Architects and Risk Assessors,
+            in conversation with the system architects, designers and developers.
+            The IRAR document must also be agreed with the Business Continuity Team.
+            For more information regarding IRARs,
+            and how to create and maintain them,
+            contact the Cyber Assistance Team: <ph conref="conrefs.dita#conrefs/catemail"/>.</p>
+		<note id="noteexternalemail">An external email service is any service that is outside the <codeph>gov.uk</codeph> domain.</note>
+		</body>
 
-<!-- Contacts -->
-
-<!-- To use a content reference from this library, include a line similar to the following:
-	<topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
-	... which would incorporate the 'incidents' topic.
-
-	The actual syntax for a conref target can be a bit confusing. The DITA reference material here:
-	https://docs.oasis-open.org/dita/v1.1/OS/langspec/common/theconrefattribute.html
-	... is excellent and has clear examples of how to refer to what you want.
- -->
+	<topic id="legacyreferences">
+		<title>Legacy information</title>
+			<body>
+				<note>This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon.
+					Before using this content for a project, contact <ph conref="#conrefs/catemail"/>.</note>
+				<note>This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
+					<ul>
+						<li>CESG (Communications-Electronics Security Group),
+							refer to the <ph conref="#conrefs/ncsclong"/>,
+							contact <ph conref="#conrefs/securityemail"/>.</li>
+						<li>CINRAS (Comsec Incident Notification Reporting and Alerting Scheme),
+							refer to the <ph conref="#conrefs/ncsc"/>,
+							contact <ph conref="#conrefs/securityemail"/>.</li>
+						<li>ComSO (Communications Security Officer),
+							contact the <ph conref="#conrefs/cisolong"/> (<ph conref="#conrefs/securityemail"/>).</li>
+						<li><codeph>CONFIDENTIAL</codeph>,
+							an older information classification marking<ph audience="audience-basic audience-tech">,
+							see <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref></ph>.</li>
+						<li>CPNI (<xref href="https://www.cpni.gov.uk/" scope="external" format="html">Centre for the Protection of the National Infrastructure</xref>),
+							contact the <ph conref="#conrefs/ciso"/> (<ph conref="#conrefs/securityemail"/>).</li>
+						<li>DSO (Departmental Security Officer),
+							contact the Senior Security Advisor (<ph conref="#conrefs/securityemail"/>).</li>
+						<li>GPG6 (Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks),
+							refer to the <ph conref="#conrefs/ncsc"/>,
+							contact <ph conref="#conrefs/securityemail"/>.</li>
+						<li>IS1 (HMG Infosec Standard 1 Technical Risk Assessment),
+							see the <ph conref="#conrefs/gov007"/>.</li>
+						<li>IS4 (HMG Infosec Standard 4 Communications Security and Cryptography),
+							see the <ph conref="#conrefs/gov007"/>.</li>
+						<li>IS6 (HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk),
+							see the <ph conref="#conrefs/gov007"/>.</li>
+						<li>ITSO (Information Technology Security Officer),
+							contact the <ph conref="#conrefs/ciso"/> (<ph conref="#conrefs/securityemail"/>).</li>
+						<li><codeph>RESTRICTED</codeph>,
+							an older information classification marking<ph audience="audience-basic audience-tech">,
+							see <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref></ph>.</li>
+						<li>SPF (<xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">Security Policy Framework</xref>),
+							see the <ph conref="#conrefs/gov007"/>,
+							contact <ph conref="#conrefs/securityemail"/>.</li>
+					</ul>
+				</note>
+			</body>
+	</topic>
 
 	<topic id="general-enquiries-including-theft-and-loss">
 		<title>General enquiries, including theft and loss</title>
@@ -37,12 +96,12 @@
 				<ul>
 					<li>Tel: 0800 917 5148</li>
 				</ul>
-				<note>The previous <pre>itservicedesk@justice.gov.uk</pre> email address is no longer being monitored.</note>
+				<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph> email address is no longer being monitored.</note>
 			</p>
 			<p id="dandt">Digital &amp;amp; Technology - Digital Service Desk:
 				<ul>
 					<li>Email: <xref href="mailto:servicedesk@digital.justice.gov.uk" format="email" scope="external">servicedesk@digital.justice.gov.uk</xref></li>
-					<li>Slack: <pre>#digitalservicedesk</pre></li>
+					<li>Slack: <codeph>#digitalservicedesk</codeph></li>
 				</ul>
 			</p>
 			<p id="hmppsinfosec">HMPPS Information &amp; security:
@@ -61,7 +120,7 @@
 			<p>Operational Security Team:
 				<ul>
 					<li>Email: <ph conref="#conrefs/ostemail"/></li>
-					<li>Slack: <pre>#security</pre></li>
+					<li>Slack: <codeph>#security</codeph></li>
 				</ul>
 			</p>
 		</body>
@@ -73,7 +132,7 @@
 			<p>Privacy Team:
 				<ul>
 					<li>Email: <xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">privacy@justice.gov.uk</xref></li>
-					<li>Slack: <pre>#securityprivacyteam</pre></li>
+					<li>Slack: <codeph>#securityprivacyteam</codeph></li>
 					<li>Intranet: <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/</xref></li>
 				</ul>
 			</p>
@@ -86,7 +145,7 @@
 			<p>Cyber Consultants &amp; Risk Advisors:
 				<ul>
 					<li>Email: <ph conref="#conrefs/securityemail"/></li>
-					<li>Slack: <pre>#security</pre></li>
+					<li>Slack: <codeph>#security</codeph></li>
 				</ul>
 			</p>
 		</body>
@@ -129,7 +188,7 @@
 		</body>
 	  </topic>
 
-	  <topic id="related-guides-passwords">
+	<topic id="related-guides-passwords" audience="audience-tech">
 		<title>Related guides</title>
 		<body>
 			<p id="related-guides-info">Further guidance around the management of passwords at the <ph conref="conrefs.dita#conrefs/moj"/> is available:
@@ -142,4 +201,32 @@
 		</body>
 	</topic>
 
+	<topic id="feedback">
+		<title>Feedback</title>
+		<body><lq>If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: <ph conref="#conrefs/itpolicycontentemail"/>.</lq>
+		</body>
+	</topic>
+
+	<topic id="thirdpartyapp">
+		<title>Requesting that an app be approved for use</title>
+		<body>
+			<p>If there is an application or service that is not currently approved,
+				but which you would like to use,
+				you can request a security review.</p>
+			<p>Begin the request by filling in <xref href="https://docs.google.com/forms/d/e/1FAIpQLSeEEBDS1HBF7meUk3SjgkqxbXBQlKAiBAezJIbKHnEjfNjBTg/viewform?gxids=7628" format="html" scope="external">this form</xref>, as best you can.
+			The more information you provide, the better.
+			But don't worry if you have to leave some bits of the form blank.</p>
+			<p>When you submit the form,
+				it is passed to the security team.
+				The app is reviewed,
+				to check things like how safe it is to use,
+				and whether there are any Data Privacy implications.
+				The security team will respond to you with an answer as quickly as possible.</p>
+			<note>You should submit the request,
+				and wait for a formal 'approval' response,
+				<i>before</i> you install or use the app on  <ph conref="#conrefs/moj"/> equipment or information.</note>
+			<p>If you have any questions about the process,
+				contact the security team: <ph conref="#conrefs/securityemail"/>.</p>
+		</body>
+	</topic>
 </topic>

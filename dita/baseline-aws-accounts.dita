@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="baseline-aws-accounts">
   <title>Baseline for Amazon Web Services accounts</title>
@@ -35,7 +34,6 @@ The contact details for an AWS Account can be updated using the reference <xref 
   </topic>
   <topic id="baseline">
     <title>Baseline</title>
-    <body/>
     <topic id="guardduty">
       <title>GuardDuty</title>
       <body>
@@ -294,4 +292,5 @@ The contact details for an AWS Account can be updated using the reference <xref 
       <p>Various <xref href="https://github.com/ministryofjustice/cloud-platform-infrastructure/tree/main/cloudformation/aws-account-baseline-templates" format="html" scope="external">AWS account baseline templates</xref> have been developed and published for use.</p>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

@@ -10,13 +10,13 @@ This guide has been written in alignment with [NCSC guidance](https://www.ncsc.g
 
 In this context, a multi-user account is where a single set of credentials is used by more than one person. This can be found on legacy systems where there is a dedicated administrator account. Multi-user accounts allow multiple users with individual logins and varying permissions to use the same account. Multi-user accounts need to be managed carefully using [Privileged Account Management](privileged-account-management-guide.md) \(PAM\) or a Bastion server to avoid security risks associated with accountability. Multi-user accounts should only be used directly if there is no alternative.
 
-Note: A [Bastion server](https://en.wikipedia.org/wiki/Bastion_host) is a specially strengthened system that provides access to parts of the Ministry of Justice \(MoJ\) private network from an external network, such as the Internet. It provide specific access to to a well-defined set of servers or services, rather than permitting general access across the network.
+**Note:** A [Bastion server](https://en.wikipedia.org/wiki/Bastion_host) is a specially strengthened system that provides access to parts of the Ministry of Justice \(MoJ\) private network from an external network, such as the Internet. It provide specific access to to a well-defined set of servers or services, rather than permitting general access across the network.
 
 The multi-user account checklist requires that you:
 
 -   Undertake a Business Impact Assessment \(BIA\) before implementation of a multi-user account to understand risks posed to the MoJ.
 
-    Note: The BIA provides details on how the business views the impact to their information assets and services following a loss of Confidentiality, Integrity or Availability. This is useful because it provides a steer on what types of incidents result in the highest impact to the business and how tolerant the business is to a loss of service provision. For help on creating a BIA, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+    **Note:** The BIA provides details on how the business views the impact to their information assets and services following a loss of Confidentiality, Integrity or Availability. This is useful because it provides a steer on what types of incidents result in the highest impact to the business and how tolerant the business is to a loss of service provision. For help on creating a BIA, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 -   Create a pre-defined and authorised list of users.
 -   Implement using the 'need to know' access principle on the PAM. Alternatively, if using a bastion host, see what options there are to enforce this principle.
@@ -41,7 +41,11 @@ Service accounts must be used for system and application authentication at a pri
 ## Contact details
 
 -   Contact the Cyber Assistance Team for specific advice on IT security: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
--   For any further questions relating to security, contact: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
+-   For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   [To report an incident](reporting-an-incident.md).
 -   Suppliers to the MoJ should first ask their usual MoJ points of contact.
+
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

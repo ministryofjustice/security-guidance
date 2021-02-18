@@ -30,7 +30,7 @@
       <topic id="monitoring">
         <title>Monitoring</title>
         <body>
-          <p>To be clear, the <ph conref="conrefs.dita#conrefs/moj"/> does monitor Email services for security purposes.</p>
+          <p>The <ph conref="conrefs.dita#conrefs/moj"/> does monitor all Email  for security purposes.</p>
         </body>
       </topic>
     </topic>
@@ -105,9 +105,10 @@
             This means looking after it to the standard required for that information.
             You mustn't send that information to another email address, where the required security standards might not be met.</p>
             <p>Never use auto-forwarding to forward emails from your <ph conref="conrefs.dita#conrefs/moj"/>
-              business email address to another non-<ph conref="conrefs.dita#conrefs/moj"/> email address<fn conref="conrefs.dita#conrefs/fnexternalemail"/>.
+              business email address to another non-<ph conref="conrefs.dita#conrefs/moj"/> email address.
             In particular,
             never forward email from your <ph conref="conrefs.dita#conrefs/moj"/> business email address to a personal email address.</p>
+            <note conref="conrefs.dita#conrefs/noteexternalemail"/>
             <p>There might be occasions when you have a genuine business need to auto-forward email to another email account,
             where the new address has the same or higher security standards.
             An example is forwarding from an <ph conref="conrefs.dita#conrefs/moj"/> business email address to another <ph conref="conrefs.dita#conrefs/moj"/> business email address.
@@ -262,10 +263,12 @@
           <topic id="malicious-warnings-virus-hoaxes">
             <title>Malicious warnings (virus hoaxes)</title>
             <body>
-              <p>Warnings about Trojans, viruses, and other malicious code that have no basis in fact, for example <pre>Jdbgmgr.exe</pre>.</p>
+              <p>These are warnings about Trojans, viruses,
+                and other malicious code,
+                that have no basis in fact.</p>
               <p>Virus hoaxes have flooded the internet with thousands of viruses worldwide.
                 Paranoia in the internet community fuels such hoaxes.
-                An example of this is the <q>Good Times</q> virus hoax, which started in 1994 and is still circulating the internet today.
+                An example of this is the <xref href="https://en.wikipedia.org/wiki/Goodtimes_virus" scope="external" format="html"><q>Good Times</q> virus hoax</xref>, which started in 1994 and is still circulating the internet today.
                 Instead of spreading from one computer to another by itself, Good Times relies on people to pass it along.</p>
             </body>
           </topic>
@@ -372,7 +375,7 @@
             </ul></p>
           <p>Ideally, access will have been organised in advance of an absence.
           But this is not always the case; sometimes there are unexpected or unusual circumstances.
-            Gaining access in such situations will require substantial escalation to <xref href="#contact-details" format="dita">management, Data Privacy and Security teams</xref>.</p>
+            Gaining access in such situations will require substantial escalation to <xref href="#contact-details" format="dita">management and Data Privacy and Security teams</xref>.</p>
           <p audience="audience-tech">Anyone needing access to someone else's email account should read
             the <xref href="privileged-account-management-guide.dita" format="dita">Privileged Account Management Guide</xref>,
             then <xref href="#contact-details" format="dita">get in touch for further assistance</xref>.</p>
@@ -385,8 +388,12 @@
       <p>In practice, all sorts of things can go wrong with email from time-to-time.
         Don't be afraid to <xref href="#contact-details" format="dita">report a problem or ask for help</xref>;
         you'll be creating a better and safer work environment.</p>
-    </body>
+        <p>For general assistance on <ph conref="conrefs.dita#conrefs/mojlong"/> security matters, email <ph conref="conrefs.dita#conrefs/securityemail"/>.</p>
+        <p>For Cyber Security assistance or consulting, email <ph conref="conrefs.dita#conrefs/catemail"/>.</p>
+        <p>Suppliers to the <ph conref="conrefs.dita#conrefs/moj"/> should primarily contact your usual <ph conref="conrefs.dita#conrefs/moj"/> points of contact.</p>
+        </body>
     <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
     <topic id="general-enquiries-including-theft-and-loss" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title/></topic>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

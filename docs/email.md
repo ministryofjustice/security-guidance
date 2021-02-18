@@ -15,13 +15,19 @@ In particular:
 -   Don't use email or other messaging systems for trivial debates or exchanges with an individual or group of people.
 -   Don't use MoJ email or other messaging systems for anything other than appropriate business purposes.
 -   Don't make statements that defame, slander or lower the reputation of the MoJ, any person or organisation.
--   Don't forward email [chain letters](#chain-letters) to your contacts. Instead, report them to [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
+-   Don't forward email [chain letters](#chain-letters) to your contacts. Instead, report them to [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   Avoid excessive use of email. Be aware of unsuitable attachments, for example video clips, images, or executable files.
 -   Avoid sending email to large numbers of recipients. Ask yourself if it really makes sense to "Reply All"?
+-   Keep your operating systems up to date to prevent susceptibility to viruses.
+-   Scan email attachments to detect viruses and other malware.
 
 Be aware that the MoJ monitors the use of electronic communications and web-browsing. Your manager can request reports detailing your activity if they suspect inappropriate use of email or web-browsing facilities.
 
 [Ask](#contact-details) if you want further information.
+
+### Monitoring
+
+To be clear, the MoJ does monitor Email services for security purposes.
 
 ## Email threats
 
@@ -67,7 +73,7 @@ You might also be auto-forwarding emails sent to you from outside the MoJ; perha
 
 When an email is sent to you, you are responsible for ensuring that everything in the email is handled correctly. This means looking after it to the standard required for that information. You mustn't send that information to another email address, where the required security standards might not be met.
 
-Never use auto-forwarding to forward emails from your MoJ business email address to another non-MoJ email address. In particular, never forward email from your MoJ business email address to a personal email address.
+Never use auto-forwarding to forward emails from your MoJ business email address to another non-MoJ email address[1](#fntarg_1). In particular, never forward email from your MoJ business email address to a personal email address.
 
 There might be occasions when you have a genuine business need to auto-forward email to another email account, where the new address has the same or higher security standards. An example is forwarding from an MoJ business email address to another MoJ business email address. If you have business need for this, [ask](#contact-details) for help.
 
@@ -220,7 +226,7 @@ If you need further assistance or information about this process, [ask](#contact
 
 ## Accessing emails or information in an absent employee's email account
 
-Staff absences do occur and these can cause disruption to MoJ business where colleagues have no access to relevant departmental information. Unfortunately, some staff go on annual leave, secondment or maternity leave, but don't make provision for colleagues to access departmental information.
+Staff absences do occur and these can cause disruption to MoJ business where colleagues have no access to relevant departmental information. Staff are away for events such as annual leave, secondment or maternity leave, but they don't make provision for colleagues to access departmental information.
 
 When an absence occurs, there is no right to be able to access another employee's account to obtain information. This is true, regardless of whether the absence is expected or unexpected, for example annual leave or illness.
 
@@ -228,13 +234,7 @@ Accessing another employee's account, without their permission, might contravene
 
 Data protection legislation protects personal information which relates to identifiable, living individuals held on computers. It specifies that appropriate security measures must be in place to protect against unauthorised access to, loss or destruction of personal data. If you breach this principle you could render the MoJ liable to enforcement action by the Information Commissioner.
 
-There are limited circumstances in which it is possible to gain lawful access to another employee's email account. These include:
-
--   A criminal investigation by a law enforcement agency.
--   To enable an IT Misuse investigation to be carried out providing it is conducted using appropriate policies.
--   On the death of an employee, as data protection legislation no longer applies.
-
-### Dealing with the problem
+### Avoiding the problem
 
 If you know you're going to be away for any significant amount of time, you can make life easier for everyone, including yourself, by following these simple steps:
 
@@ -243,16 +243,32 @@ If you know you're going to be away for any significant amount of time, you can 
 3.  Make sure the package has contact details for everyone who might need to help progress or update the status of the tasks.
 4.  Create an “Out Of Office” notification in your email system; include clear details of who to contact in your absence.
 
-Sometimes, however, situations will arise where email access provision could not be organised in advance. This will need substantial escalation to management, Data Privacy and Security teams. You'll need to build a very careful and comprehensive business case to justify requesting exceptional access. If you need to do this, start by contacting the email account owner's Line Manager and the [MoJsecurity team](#contact-details).
+### Authorised access to user email accounts
+
+You must not access the email accounts of any other users, unless you are authorised to do so as required by your role. Access is authorised on a case by case basis only, and will typically be aligned to the following circumstances:
+
+-   During a criminal investigation by a law enforcement agency.
+-   During an employee investigation relating to misconduct or a security incident, for example IT misuse.
+-   Upon the death or unexpected exit of an employee, for example for the retrieval of key information and closing down an account.
+
+Ideally, access will have been organised in advance of an absence. But this is not always the case; sometimes there are unexpected or unusual circumstances. Gaining access in such situations will require substantial escalation to [management, Data Privacy and Security teams](#contact-details).
+
+Anyone needing access to someone else's email account should read the [Privileged Account Management Guide](privileged-account-management-guide.md), then [get in touch for further assistance](#contact-details).
 
 ## Contacts for getting help
 
 In practice, all sorts of things can go wrong with email from time-to-time. Don't be afraid to [report a problem or ask for help](#contact-details); you'll be creating a better and safer work environment.
 
+For general assistance on Ministry of Justice \(MoJ\) security matters, email [security@justice.gov.uk](mailto:security@justice.gov.uk).
+
+For Cyber Security assistance or consulting, email [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+
+Suppliers to the MoJ should primarily contact your usual MoJ points of contact.
+
 ### Contact details
 
 -   Contact the Cyber Assistance Team for specific advice on IT security: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
--   For any further questions relating to security, contact: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk).
+-   For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   [To report an incident](reporting-an-incident.md).
 -   Suppliers to the MoJ should first ask their usual MoJ points of contact.
 
@@ -284,4 +300,14 @@ HMPPS Information & security:
 
 -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
 -   Tel: 0203 334 0324
+
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+
+[1](#fnsrc_1) An external email service is any service that is outside the ```
+gov.uk
+```
+
+ domain.
 

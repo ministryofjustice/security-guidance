@@ -26,11 +26,11 @@ Supplier's may process MoJ data \(including Personal Data for which the MoJ is r
 
 MoJ data must not routinely be processed within an incompatible legal framework to the United Kingdom.
 
-#### Working abroad
+#### Working overseas
 
-Supplier staff are **not** prohibited from working abroad while processing MoJ data on the basis that adequate information controls and governance are maintained.
+Supplier staff are **not** prohibited from working overseas while processing MoJ data on the basis that adequate information controls and governance are maintained.
 
-When working abroad, this may include limiting access to information while the user travels or using secondary temporary accounts to avoid primary account compromise.
+When working overseas, this may include limiting access to information while the user travels or using secondary temporary accounts to avoid primary account compromise.
 
 ### Data backups
 
@@ -43,4 +43,8 @@ Subject to appropriate data governance, the MoJ acknowleges these cases.
 The MoJ acknowleges that corporate users typically 'download' files \(from local email client caching to file downloads via a web browser\) that can remain within 'Downloads' folders until explicitly deleted by the user.
 
 MoJ expects suppliers to consider these types of data locations in data governance regimes, however it is appreciated that data destruction may be guidance based from the supplier organisation to supplier staff.
+
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

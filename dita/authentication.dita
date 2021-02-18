@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="authentication">
   <title>Authentication</title>
-  <body/>
   <topic id="the-base-principle">
     <title>The base principle</title>
     <body>
@@ -69,7 +67,6 @@
   </topic>
   <topic id="ip-addresses" audience="audience-tech">
     <title>IP addresses</title>
-    <body/>
     <topic id="trusting-ip-addresses">
       <title>Trusting IP addresses</title>
       <body>
@@ -85,4 +82,5 @@
       </body>
     </topic>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

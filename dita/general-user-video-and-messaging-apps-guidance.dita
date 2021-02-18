@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="general-user-video-and-messaging-apps-guidance">
 	<title>General Apps Guidance</title>
-	<body/>
 	<topic id="overview">
 		<title>Overview</title>
 		<body>
@@ -74,7 +72,6 @@
 	</topic>
 	<topic id="moj-policy-and-guidance">
 		<title><ph conref="conrefs.dita#conrefs/moj"/> Policy and guidance</title>
-		<body/>
 		<topic id="official-and-official-sensitive-information">
 			<title><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph> Information</title>
 			<body>
@@ -211,10 +208,10 @@
 							<entry colname="col5">Internal/External</entry>
 						</row>
 						<row>
-							<entry colname="col1">Google Hangouts</entry>
+							<entry colname="col1">Google Meet (was Google Hangouts)</entry>
 							<entry colname="col2">Communication tool: Video and/or voice</entry>
 							<entry colname="col3"><ph conref="conrefs.dita#conrefs/moj"/> use approved</entry>
-							<entry colname="col4">Digital Service Desk controlled Mac - Self</entry>
+							<entry colname="col4">Digital Service Desk controlled Mac - Self service, Web browser.</entry>
 							<entry colname="col5">Internal/External</entry>
 						</row>
 						<row>
@@ -249,14 +246,14 @@
 							<entry colname="col1">Slido</entry>
 							<entry colname="col2">Q&amp;A tool during presentations</entry>
 							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Web browser</entry>
+							<entry colname="col4">Web browser.</entry>
 							<entry colname="col5">Internal</entry>
 						</row>
 						<row>
 							<entry colname="col1">Twitter</entry>
 							<entry colname="col2">Text Messaging, Video transmission</entry>
 							<entry colname="col3">Approved for <ph conref="conrefs.dita#conrefs/moj"/> Corporate account. Using a personal account to comment on work related issues is encouraged, as long as you follow the <xref href="https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code" format="html" scope="external">Civil Service Code of Conduct</xref>.</entry>
-							<entry colname="col4">Web browser, Windows 10 App, Smartphone App</entry>
+							<entry colname="col4">Web browser, Windows 10 App, Smartphone App.</entry>
 							<entry colname="col5">Internal/External</entry>
 						</row>
 						<row>
@@ -277,14 +274,14 @@
 							<entry colname="col1">YouTube</entry>
 							<entry colname="col2">Video sharing tool: Video, streaming and chat</entry>
 							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Web/browser based use</entry>
+							<entry colname="col4">Web browser based use.</entry>
 							<entry colname="col5">Internal/External</entry>
 						</row>
 						<row>
 							<entry colname="col1">Zoom</entry>
 							<entry colname="col2">Communication tool: Video, voice and chat</entry>
 							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Web/browser based use</entry>
+							<entry colname="col4">Web browser based use</entry>
 							<entry colname="col5">External meetings</entry>
 						</row>
 					</tbody>
@@ -305,9 +302,9 @@
 			<p>From a security perspective,
 				it is safe for you to use the app on your personal or <ph conref="conrefs.dita#conrefs/moj"/> issued devices.
 				There are no extra risks for colleagues with security clearance, such as SC and DV.</p>
-			<p>If you wish to install the app, start at the <xref href="https://covid19.nhs.uk/" format="html" scope="external">NHS site</xref>.</p>
-			<p><b>Note:</b> The NHS app may not work on some older <ph conref="conrefs.dita#conrefs/moj"/> devices.
-			Installation might not be possible, for example on Quantum smartphones.</p>
+			<p>If you wish to install the app, start at the <xref href="https://covid19.nhs.uk/" format="html" scope="external">NHS site</xref>.
+				<note>The NHS app may not work on some older <ph conref="conrefs.dita#conrefs/moj"/> devices.
+					Installation might not be possible, for example on Quantum smartphones.</note></p>
 			<p>You might have both a personal and an <ph conref="conrefs.dita#conrefs/moj"/> issued device.
 				Think about which device makes most sense to use with the app.
 				It's best to install on the device that you carry with you and use most of the time.
@@ -329,15 +326,9 @@
 			<p>If you wish to use a tool that is not listed above, please consult our <xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref> and <xref href="mailto:security@justice.gov.uk" format="email" scope="external">speak to us for help</xref>.</p>
 		</body>
 	</topic>
-	<topic id="requesting-that-a-tool-be-approved-for-use">
-		<title>Requesting that a tool be approved for use</title>
-		<body>
-			<p>Refer to the <xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref> for the process to follow when wanting to add a new tool to the list.</p>
-		</body>
-	</topic>
+	<topic id="thirdpartyapp" conref="conrefs.dita#thirdpartyapp"><title/></topic>
 	<topic id="other-information">
 		<title>Other information</title>
-		<body/>
 		<topic id="government-policy-and-guidance">
 			<title>Government policy and guidance</title>
 			<body>
@@ -353,4 +344,5 @@
 			</body>
 		</topic>
 	</topic>
+	<topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

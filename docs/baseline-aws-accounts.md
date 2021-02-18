@@ -111,3 +111,7 @@ Over time we will be able to leverage this more, but in the immediate future thi
 
 Various [AWS account baseline templates](https://github.com/ministryofjustice/cloud-platform-infrastructure/tree/main/cloudformation/aws-account-baseline-templates) have been developed and published for use.
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

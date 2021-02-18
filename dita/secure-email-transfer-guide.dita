@@ -12,7 +12,7 @@
       <p>You should ensure that email communication is sufficiently secured before transferring sensitive information,
         such as:
       <ul>
-        <li><pre>OFFICIAL-SENSITIVE</pre> classified information such as personal data.</li>
+        <li><codeph>OFFICIAL-SENSITIVE</codeph> classified information such as personal data.</li>
         <li>API and other application keys/credentials (including within containers).</li>
         <li>SSH Keys.</li>
         <li>Database and other system-to-system passwords.</li>
@@ -29,7 +29,7 @@
         enforced TLS to encrypt messages:
       <ul>
         <li>The <ph conref="conrefs.dita#conrefs/mojlong"/> should always use the latest version of TLS.</li>
-        <li>TLS is required for sending to <pre>gov.uk</pre>.</li>
+        <li>TLS is required for sending to <codeph>gov.uk</codeph>.</li>
         <li>Any <ph conref="conrefs.dita#conrefs/moj"/> domains that do not support TLS must be documented in an
           exceptions list and an exception rule authorised by the DNS provider.
         Refer to the <xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref>
@@ -92,8 +92,8 @@
           <tbody>
             <row>
               <entry colname="col1">Cloud Email Solutions (securing to the Government Secure Standard)</entry>
-              <entry colname="col2">Office 365 (<pre>@justice.gov.uk</pre>) or
-                <ph conref="conrefs.dita#conrefs/gsuite"/> (<pre>@digital.justice.gov.uk</pre>)</entry>
+              <entry colname="col2">Office 365 (<codeph>@justice.gov.uk</codeph>) or
+                <ph conref="conrefs.dita#conrefs/gsuite"/> (<codeph>@digital.justice.gov.uk</codeph>)</entry>
             </row>
             <row>
               <entry colname="col1">Supplementary Email Solutions</entry>
@@ -171,13 +171,13 @@
         <li>CJSM mailbox (webmail) hosts a mailbox on behalf of the user.
           A user accesses the mailbox via either a standard internet browser or a POP3 email client.</li>
         <li>CJSM server connection (SMTP) is deployed to act as an encryption proxy for any email traffic containing
-          a destination address ending in <pre>cjsm.net</pre>.
+          a destination address ending in <codeph>cjsm.net</codeph>.
         All CJSM servers require a certificate issued by Egress to be installed.
         Session keys are established for each transaction.</li>
       </ol></p>
-      <p>✔ All <ph conref="conrefs.dita#conrefs/moj"/> users can send or receive over CJSM by adding <pre>.CJSM.net</pre>
+      <p>✔ All <ph conref="conrefs.dita#conrefs/moj"/> users can send or receive over CJSM by adding <codeph>.CJSM.net</codeph>
         to the end of their <ph conref="conrefs.dita#conrefs/moj"/> email address.</p>
-      <p>✔ CJSM may only be used to share information up to and including <pre>OFFICIAL-SENSITIVE</pre>.</p>
+      <p>✔ CJSM may only be used to share information up to and including <codeph>OFFICIAL-SENSITIVE</codeph>.</p>
       <p>✔ CJSM cannot be used with multi-client mail relay services like Mailgun, Mailchimp or AWS SES.</p>
       <p>For further guidance contact the <xref href="mailto:cjsm.helpdesk@egress.com" format="email" scope="external">CJSM Helpdesk</xref>.
       Further information is available at:
@@ -202,11 +202,13 @@
               format="html" scope="external">Information Classification Handling and Security guidance</xref>.
       Do this by ensuring that:
       <ul>
-        <li>Auto-forward is not normally possible to external email addresses<fn conref="conrefs.dita#conrefs/fnexternalemail"/>.</li>
+        <li>Auto-forward is not normally possible to external email addresses.</li>
         <li>Auto-forward capability is not possible when an applicable <ph conref="conrefs.dita#conrefs/moj"/> standard,
           policy or guidance states that additional controls or protection must be implemented before sending an email.</li>
       </ul></p>
+      <note conref="conrefs.dita#conrefs/noteexternalemail"/>
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

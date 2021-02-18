@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="removable-media">
+  <title>Removable Media</title>
+  <body>
+    <note>Any <ph conref="conrefs.dita#conrefs/mojlong"/> systems or removable storage media used for work purposes
+      must be encrypted to <ph conref="conrefs.dita#conrefs/moj"/> security standards.
+      Security encryption is a mandatory government measure,
+      and one of the most important methods we have to protect <ph conref="conrefs.dita#conrefs/moj"/> information.</note>
+  </body>
+  <topic id="what-is-removable-media">
+    <title>What is 'removable' media?</title>
+    <body>
+      <p>Laptops and <xref href="#usb-memory-sticks" format="dita">USB memory sticks</xref> are the
+        <ph conref="conrefs.dita#conrefs/moj"/>'s most commonly used items of removable media.
+        Removable storage media covers items available to users,
+        such as USB memory sticks,
+        writeable CDs/DVDs, floppy discs, and external hard drives.</p>
+      <p>Strictly speaking, magnetic tapes are also removable storage media,
+        but it would be very unusual for the average user to have access to or to use magnetic tapes for business purposes.</p>
+      <p><ph conref="conrefs.dita#conrefs/moj"/> security guidance specifies that USB memory sticks and other
+        user-removable media should not be used to store departmental data.
+        Only in exceptional circumstances,
+        and where there is compelling business justification,
+        should <ph conref="conrefs.dita#conrefs/moj"/>-approved USB sticks with device encryption be used.</p>
+    </body>
+  </topic>
+  <topic id="usb-memory-sticks">
+    <title>USB memory sticks</title>
+    <body>
+      <p>This guidance is intended to ensure that <ph conref="conrefs.dita#conrefs/moj"/> data remains secure,
+        and to mitigate the potential impact of lost data sticks.
+      <ol>
+        <li>You must only connect approved external removable storage media to <ph conref="conrefs.dita#conrefs/moj"/> systems.</li>
+        <li>Connecting non-approved memory sticks is a breach of <ph conref="conrefs.dita#conrefs/moj"/> security guidelines,
+        and could result in disciplinary action.</li>
+        <li>If there is a genuine business requirement to save, retrieve or transfer data via removable media,
+        fill in one of:
+        <ul>
+          <li><xref href="https://intranet.justice.gov.uk/documents/2015/04/removable-media-business-case-form-for-usb-sticks.doc" format="doc" scope="external">Removable
+          media business case form</xref></li>
+          <li><xref href="https://intranet.justice.gov.uk/documents/2015/04/data-movement-form.doc" format="doc" scope="external">Data Movement form</xref></li>
+        </ul>
+        Additional guidance information is available about
+          the <xref href="https://intranet.justice.gov.uk/documents/2015/04/data-movement-form-guide.doc" format="doc" scope="external">Data Movement form</xref>.
+          When the form is ready, send it to: <ph conref="conrefs.dita#conrefs/ostemail"/>.</li>
+        <li>Each request is evaluated by <ph conref="conrefs.dita#conrefs/moj"/> Operational Security,
+        with a view to recommending the safest and most appropriate method to contain risk of loss.</li>
+        <li>Normally, you'll get a response within 5 working days.</li>
+        <li>Requests to use a memory stick or other removable media will normally only be granted when there is no other practical alternative.
+        Where approval is granted.
+        only encrypted memory sticks or other removable devices provided by the <ph conref="conrefs.dita#conrefs/moj"/> are allowed.
+        Use of memory sticks or other removable devices will be subject to stringent conditions,
+        and permitted only after user training.</li>
+      </ol></p>
+      <p>If you need further assistance or information about this process,
+      <xref href="#contact-details" format="dita">ask</xref>.</p>
+    </body>
+  </topic>
+  <topic id="how-do-i-know-if-my-laptop-or-usb-stick-is-encrypted">
+    <title>How do I know if my laptop, or USB stick, is encrypted?</title>
+    <body>
+      <p>All equipment provided through the <ph conref="conrefs.dita#conrefs/moj"/>'s recognised central procurement
+        systems are encrypted and protected to <ph conref="conrefs.dita#conrefs/moj"/> security standards.
+        You must use <ph conref="conrefs.dita#conrefs/moj"/> processes to obtain any equipment used for business purposes,
+        including mobile computing devices and removable media.</p>
+    </body>
+  </topic>
+  <topic id="whats-expected-of-you">
+    <title>What's expected of you</title>
+    <body>
+      <p>Keeping <ph conref="conrefs.dita#conrefs/moj"/> information safe is everyone's responsibility.
+        Anyone using portable computing equipment must take particular care
+        to safeguard the equipment and the information stored on it.
+        Failure to do so may result in disciplinary procedures.</p>
+    </body>
+  </topic>
+  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

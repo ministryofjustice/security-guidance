@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="technical-security-controls-guide-defensive-layer-2">
   <title>Technical Security Controls Guide: Defensive Layer 2</title>
-  <body/>
   <topic id="defensive-layer-2-implementing-monitoring-capabilities">
     <title>Defensive layer 2: Implementing monitoring capabilities</title>
     <body>
@@ -73,4 +71,5 @@
         </ul></p>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

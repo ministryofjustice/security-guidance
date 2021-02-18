@@ -1,0 +1,1386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="code-of-connection-standard">
+  <title>Code of connection standard</title>
+  <body>
+    <p>This standard is designed to help protect <ph conref="conrefs.dita#conrefs/mojlong"/> IT systems by providing a standard for the connection of a 3rd party IT system to a MoJ IT system.</p>
+  </body>
+  <topic id="legacyreferences" conref="conrefs.dita#conrefs/legacyreferences"><title/></topic>
+  <topic id="overview">
+    <title>Overview</title>
+    <topic id="introduction">
+      <title>Introduction</title>
+      <body>
+        <p>A Code of Connection (CoCo) is designed to provide a mechanism to record a formal agreement between a 3rd party organisation and the <ph conref="conrefs.dita#conrefs/moj"/> on the security measures to be applied by that 3rd party prior to and during any electronic connection with a <ph conref="conrefs.dita#conrefs/moj"/> IT system, for example, to facilitate the exchange of data between two case management systems.</p>
+        <p><xref href="https://www.gov.uk/government/publications/security-policy-framework/hmg-security-policy-framework" format="html" scope="external">HMG Security Policy Framework (SPF)</xref> mandatory requirements state that:</p>
+        <lq>
+          <p>Departments and Agencies must put in place an appropriate range of technical controls for all IT systems, proportionate to the value, importance and sensitivity of the information held and the requirements of any interconnected systems.</p>
+        </lq>
+        <p>In order to meet these requirements, the SPF stipulates that IT systems must:</p>
+        <lq>
+          <p>Comply with the requirements of any codes of connection, multilateral or bilateral international agreements and community or shared services security policies to which they are signatories (e.g. Government Secure Intranet).</p>
+        </lq>
+        <p>Policy statements on connecting 3rd party IT systems and the requirements for a CoCo are covered in IT Security – Technical Controls Policy, while this document sets out the <ph conref="conrefs.dita#conrefs/moj"/> standard for its implementation.</p>
+      </body>
+    </topic>
+    <topic id="scope">
+      <title>Scope</title>
+      <body>
+        <p>This guide applies to all <ph conref="conrefs.dita#conrefs/moj"/> IT systems including IT systems hosted by third party suppliers on behalf of the <ph conref="conrefs.dita#conrefs/moj"/> where there is a valid business requirement to connect to a 3rd party system.</p>
+      </body>
+    </topic>
+    <topic id="demonstration-of-compliance">
+      <title>Demonstration of Compliance</title>
+      <body>
+        <p>The CESG Information Assurance Maturity Model (IAMM) sets out the minimum maturity level Government departments should attain. Maintaining secure connections is captured as a basic requirement in Level 1 of this model, which the <ph conref="conrefs.dita#conrefs/moj"/> will need to demonstrate compliance with in their IAMM return to the Cabinet Office.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="code-of-connection">
+    <title>Code of Connection</title>
+    <topic id="context">
+      <title>Context</title>
+      <body>
+        <p>A Code of Connection (CoCo) is designed to provide evidence to the <ph conref="conrefs.dita#conrefs/moj"/> that a connecting 3rd party understands the security controls and procedures required to connect to a <ph conref="conrefs.dita#conrefs/moj"/> IT system and that those controls and procedures have been implemented. The aim here is to ensure that the risks associated with connecting IT systems together are sufficiently mitigated in the technical solution and managed on an ongoing basis during live operation.</p>
+        <p><b>Note:</b> This standard is based on connecting a RESTRICTED-IL3 <ph conref="conrefs.dita#conrefs/moj"/> IT system with an Accredited 3rd party RESTRICTED-IL3 IT system where all electronic communication is over an Accredited RESTRICTED-IL3 network/s and/or RESTRICTED-IL3 communications channel. Where this is not the case, advice must be sort from the IT Security Officer (ITSO) and system Accreditor.</p>
+        <p>A generic CoCo (based on the note above) is provided in Appendix A; it is split into two sections:</p>
+        <ul>
+          <li>
+            <p>basic requirement (see section A.1) – The section outlines the base set of CoCo requirement which need to be met by the connecting 3rd party</p>
+          </li>
+          <li>
+            <p>supporting compliance statement (see section A.2) – This section contains a series of compliance statements based on ISO 27001 and the <xref href="https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2" format="html" scope="external">IAS 1&amp;2 Baseline Controls Set (BCS)</xref>. It is designed to provide a mechanism for a connecting 3rd party to supply compliance evidence to the system Accreditor.  Section 3.2 provides details on how this compliance statement should be applied.</p>
+          </li>
+        </ul>
+        <p><b>Note:</b> A signed CoCo between the <ph conref="conrefs.dita#conrefs/moj"/> and the connecting 3rd party is required before the connection can go into live operation.</p>
+      </body>
+    </topic>
+    <topic id="managing-the-risk-of-connectivity">
+      <title>Managing the risk of connectivity</title>
+      <body>
+        <p>In order to ensure that the connectivity and sharing of electronic data between a <ph conref="conrefs.dita#conrefs/moj"/> IT system and a 3rd party IT system does not cause undue risk from one participating organisation to another, each organisation must reasonably comply with the code of connection to ensure any risks are managed effectively.</p>
+        <p>The need for a CoCo and its application will be determined by the <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor who will consider the risks involved, this may require the production of a technical risk assessment and/or RMADS for the connection (further details on RMADS can be found in the <xref href="infrastructure-system-accreditation.dita" format="dita">Accreditation Framework</xref> ).</p>
+        <p>The CoCo condition and compliance statement contained within the generic CoCo document (see A.1.3) provide a good platform to judge whether the assurance level of the connecting 3rd party IT system is sufficient rather than just relying on its accreditation status. A risk based approach must be taken to the application of security controls associated with the connection. The generic CoCo (see Appendix A) provides a baseline by which a 3rd party IT system's connection to a <ph conref="conrefs.dita#conrefs/moj"/> IT system will be assessed. The <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor will provide a steer as to how this should be applied, where the default steer is that the guidance provided in <xref href="https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2" format="html" scope="external">IAS 1&amp;2 Baseline Controls Set (BCS)</xref> at the DETER level should be applied.</p>
+        <p>It is highly likely that the connection between the two systems will be over the GSi.  If so, the 3rd party organisation is likely to have completed the GSi Code of Connection for that system connection. The information requested in the generic CoCo is similar to that required for the GSi CoCo and as such should be readily available.</p>
+        <p><b>Note:</b> Depending on the protocols being used, the GSi authority may need to be contacted.</p>
+      </body>
+    </topic>
+    <topic id="completing-a-code-of-connection">
+      <title>Completing a Code of Connection</title>
+      <body>
+        <p>The IT System Manager and/or ITSO for the connecting 3rd party organisation must review CoCo and submit the supporting compliance statement to the <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor along with any supporting documentation.</p>
+        <p>In completing the CoCo statement, the connecting 3rd party organisation confirms that they have implemented all the controls required, it should be noted that the adoption of these controls will not totally mitigate all the risks involved whether to the 3rd party's own IT system or to the connecting <ph conref="conrefs.dita#conrefs/moj"/> IT system.</p>
+        <p>Where the connecting 3rd party IT system does not comply with the controls outlined in the CoCo, the IT System Manager and/or ITSO must provide supporting comments including a high-level plan that outlines the expected timeline to meet them.</p>
+        <p>An approval from the <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor is required prior to the connection going into live operation.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="appendix-a---generic-code-of-connection">
+    <title>Appendix A - Generic Code of Connection</title>
+    <body>
+      <p>
+        <b>NOTE:</b>
+        <i>This appendix contains a generic Code of Connection, it is based on connecting a RESTRICTED-IL3 <ph conref="conrefs.dita#conrefs/moj"/> IT system with an Accredited 3rd party RESTRICTED-IL3 IT system where all electronic communication is over an Accredited RESTRICTED-IL3 network/s and/or RESTRICTED-IL3 communication channel. Where this is not the case, advice must be sort from the IT Security Officer (ITSO) and system Accreditor.</i>
+      </p>
+      <p>It may need to be customised based on the relevant risk assessment and business context.</p>
+    </body>
+    <topic id="a1-code-of-connection--basic-requirement">
+      <title>A.1 Code of Connection – Basic requirement</title>
+      <topic id="a11--applicable-policies">
+        <title>A.1.1  Applicable policies</title>
+        <body>
+          <p>This Code of Connection (CoCo) covers the connection of the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> to <q>NAME of 3rd PARTY IT SYSTEM</q>.</p>
+          <p>The services to be provided by this connection are defined in section A.1.2.1.</p>
+          <p>The <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> IT Security Policy</xref> and the IT Security Policy for the <q>ORGANISATION NAME FOR 3rd PARTY IT SYSTEM</q> are the primary polices which apply to this CoCo.</p>
+          <p>Any 3rd party IT system connecting to a <ph conref="conrefs.dita#conrefs/moj"/> IT system must have a current and relevant IT Security Policy which is accepted by the <ph conref="conrefs.dita#conrefs/moj"/> ITSO and system Accreditor.
+If any aspects of the data to be exchanged require special handling measures or are particularly sensitive, the <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor must be informed an approach to handling that data must be agreed by both connecting parties in advance.</p>
+        </body>
+      </topic>
+      <topic id="a12-connectivity">
+        <title>A.1.2 Connectivity</title>
+        <topic id="a121-data-flows-service-and-protocols">
+          <title>A.1.2.1 Data flows, service and protocols</title>
+          <body>
+            <p>This section must contain details on all the data flows and service facilitated by this connection (including the protocols used); where appropriate this information can be contained within a referenced document with a summary contained in the CoCo. It must also contain details on all onward connections from the 3rd party IT System.</p>
+          </body>
+        </topic>
+        <topic id="a122-connection">
+          <title>A.1.2.2 Connection</title>
+          <body>
+            <p>The <q>NAME of 3rd PARTY IT SYSTEM</q> must provide a gateway at the edge of their system to facilitate the connection to the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> which is Accredited to RESTRICTED-IL3 and exhibits the following properties:</p>
+            <ul>
+              <li>
+                <p>Only permit the data traffic flows and protocols identified in A.1.2.1;</p>
+              </li>
+              <li>
+                <p>This gateway must be managed by authorised service personnel with SC security clearance as a minimum;</p>
+              </li>
+              <li>
+                <p>The gateway must maintain its own audit logs which are included as part of the <q>ORGANISATION NAME FOR 3rd PARTY IT SYSTEM</q> protective monitoring system;</p>
+              </li>
+              <li>
+                <p>Have front-end firewall(s) to be a minimum of EAL4 certified or CAPS approved;</p>
+              </li>
+              <li>
+                <p>rovide a minimum of EAL4 separation on front-end firewall(s) between the port used for connection to the NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM] and ports used for other connections.</p>
+              </li>
+            </ul>
+          </body>
+        </topic>
+      </topic>
+      <topic id="a13--conditions">
+        <title>A.1.3  Conditions</title>
+        <body>
+          <table>
+            <tgroup cols="2">
+              <colspec colname="col1" colnum="1"/>
+              <colspec colname="col2" colnum="2"/>
+              <thead>
+                <row>
+                  <entry colname="col1">Condition</entry>
+                  <entry colname="col2">Description</entry>
+                </row>
+              </thead>
+              <tbody>
+                <row>
+                  <entry colname="col1">CoCo-1</entry>
+                  <entry colname="col2">The minimum standards applicable to the <q>NAME of 3rd PARTY IT SYSTEM</q> shall be the equivalent to application of the IAS 1&amp;2 Baseline Controls Set (BCS) at the DETER level and ISO27001. The supporting compliance statement (see A.2) has been derived from IAS 1&amp;2 Baseline Controls Set (BCS) and ISO27001 and provides a check list that <q>ORGANISATION NAME FOR 3rd PARTY IT SYSTEM</q> should use to document their compliance to this CoCo. The completed compliance statement will allow the <ph conref="conrefs.dita#conrefs/moj"/> to determine whether the <q>NAME of 3rd PARTY IT SYSTEM</q>'s level of compliance is sufficient to meet the requirements outlined in this CoCo.</entry>
+                </row>
+                <row>
+                  <entry colname="col1">CoCo-2</entry>
+                  <entry colname="col2">The <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor must be advised of any proposed changes (including configuration changes) to be made to the <q>NAME of 3rd PARTY IT SYSTEM</q> which will have an effect on its connection to the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q>.</entry>
+                </row>
+                <row>
+                  <entry colname="col1">CoCo-3</entry>
+                  <entry colname="col2">All existing and planned onward connections to or from the <q>NAME of 3rd PARTY IT SYSTEM</q> must be brought to the attention of the <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor prior to any live connection to the <q>NAME of 3rd PARTY IT SYSTEM</q> as this may represent a risk to the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> and its onward connections. All such connections must be identified in this document (see A.1.2.1). The information provided will be kept confidential and only used for the purpose of assuring the security of this connection.</entry>
+                </row>
+                <row>
+                  <entry colname="col1">CoCo-4</entry>
+                  <entry colname="col2">No data Protectively Marked above RESTRICTED should be exchanged over this connection.</entry>
+                </row>
+                <row>
+                  <entry colname="col1">CoCo-5</entry>
+                  <entry colname="col2">All points of connection to the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> shall be within a secure IL3 environment.</entry>
+                </row>
+                <row>
+                  <entry colname="col1">CoCo-6</entry>
+                  <entry colname="col2">All users (including administrative users) who connect to the <q>NAME of 3rd PARTY IT SYSTEM</q> have been subject to a formal user registration process (section A.11.2.1 in the compliance statement, see A.2) and all have individual unique user accounts.</entry>
+                </row>
+                <row>
+                  <entry colname="col1">CoCo-7</entry>
+                  <entry colname="col2">All security incidents concerning the <q>NAME of 3rd PARTY IT SYSTEM</q> which have (or may have in the future) involve the connection between the <q>NAME of 3rd PARTY IT SYSTEM</q> and <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> must be reported to <ph conref="conrefs.dita#conrefs/moj"/> ITSO and system Accreditor.</entry>
+                </row>
+                <row>
+                  <entry colname="col1">CoCo-8</entry>
+                  <entry colname="col2">Data may only be exchanged over this connection using the permitted types of business connection defined in relevant Interchange Sharing Agreement and/or Risk Management &amp; Accreditation Document Set (RMADS) and is limited to the protocols defined in this document (see A.1.2.1).</entry>
+                </row>
+                <row>
+                  <entry colname="col1">CoCo-9</entry>
+                  <entry colname="col2">The <q>NAME of 3rd PARTY IT SYSTEM</q> is protected by either a hardware Firewall or software Firewall which is either EAL 4 certified or CAPS approved.</entry>
+                </row>
+                <row>
+                  <entry colname="col1">CoCo-10</entry>
+                  <entry colname="col2">The <q>NAME of 3rd PARTY IT SYSTEM</q> has an anti-virus application installed and it is subject to regular anti-virus signature updates, with the maximum period between updates being 4 hours.</entry>
+                </row>
+                <row>
+                  <entry colname="col1">CoCo-11</entry>
+                  <entry colname="col2">The <q>NAME of 3rd PARTY IT SYSTEM</q> is subject to an operating system and hosted application security patch regime.</entry>
+                </row>
+                <row>
+                  <entry colname="col1">CoCo-12</entry>
+                  <entry colname="col2">The <q>NAME of 3rd PARTY IT SYSTEM</q> is administered by dedicated and trained IT staff to a recognised standard such as ISO2000 (ITIL) and/or recognised professional IT qualifications such as MCSE.</entry>
+                </row>
+                <row>
+                  <entry colname="col1">CoCo-13</entry>
+                  <entry colname="col2">The <q>NAME of 3rd PARTY IT SYSTEM</q> must be hosted, operated and supported from within the UK.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </body>
+      </topic>
+      <topic id="a14-assumptions">
+        <title>A.1.4 Assumptions</title>
+        <body>
+          <p>The connecting 3rd party IT system may make the following assumptions about the security provided by the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q>:</p>
+          <ul>
+            <li>
+              <p>The <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> is Accredited by the <ph conref="conrefs.dita#conrefs/moj"/> to process data up to and including RESTRICTED-IL3 for Confidentiality, Integrity and Availability;</p>
+            </li>
+            <li>
+              <p>The security regime within the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> ensures the confidentiality and integrity of data originating from the <q>NAME of 3rd PARTY IT SYSTEM</q> once it enters the boundary of the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q>.</p>
+            </li>
+          </ul>
+        </body>
+      </topic>
+      <topic id="a15-administration">
+        <title>A.1.5 Administration</title>
+        <body>
+          <p>This document must be reviewed annually or following a major change to the <q>NAME of 3rd PARTY IT SYSTEM</q> or the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> to ensure no additional security measures are required.</p>
+          <p><b>Note:</b> A major change is defined as:</p>
+          <ul>
+            <li>
+              <p>Software – A significant change in the functionality of any software used to support the connection;</p>
+            </li>
+            <li>
+              <p>Hardware - A significant change to the physical hardware supporting the connection;</p>
+            </li>
+            <li>
+              <p>Design/Architecture - A change in the connectivity of the <q>NAME of 3rd PARTY IT SYSTEM</q> to the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> or any other IT system it connects to, the security controls protecting those connections or the re-configuration of any services used to support the connection.</p>
+            </li>
+          </ul>
+        </body>
+      </topic>
+      <topic id="a16-authorisation-for-connection">
+        <title>A.1.6 Authorisation for connection</title>
+        <body>
+          <p>On the basis of the information made available to them, and to the best of their knowledge, the undersigned confirms that the connecting <q>NAME of 3rd PARTY IT SYSTEM</q> complies with the requirements outlined in this CoCo and that the information provided in the supporting compliance statement is accurate.</p>
+          <p><b>Note:</b> Any major change (as defined in A.1.5) to the connecting <q>NAME of 3rd PARTY IT SYSTEM</q> may invalidate this CoCo and a new submission may be required.</p>
+          <table>
+            <tgroup cols="3">
+              <colspec colname="col1" colnum="1"/>
+              <colspec colname="col2" colnum="2"/>
+              <colspec colname="col3" colnum="3"/>
+              <thead>
+                <row>
+                  <entry colname="col1"> </entry>
+                  <entry colname="col2"> </entry>
+                  <entry colname="col3"> </entry>
+                </row>
+              </thead>
+              <tbody>
+                <row>
+                  <entry colname="col1">NAME</entry>
+                  <entry colname="col2">Signature</entry>
+                  <entry colname="col3"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">JOB TITLE</entry>
+                  <entry colname="col2"> </entry>
+                  <entry colname="col3"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">NAME OF 3rd PARTY CONNECTING ORGANISATION</entry>
+                  <entry colname="col2">Date</entry>
+                  <entry colname="col3"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">NAME OF <ph conref="conrefs.dita#conrefs/moj"/> INFORMATION ASSET OWNER</entry>
+                  <entry colname="col2">Signature</entry>
+                  <entry colname="col3"/>
+                </row>
+                <row>
+                  <entry colname="col1"><ph conref="conrefs.dita#conrefs/moj"/> Information Asset Owner</entry>
+                  <entry colname="col2"> </entry>
+                  <entry colname="col3"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1"> </entry>
+                  <entry colname="col2">Date</entry>
+                  <entry colname="col3"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">NAME OF <ph conref="conrefs.dita#conrefs/moj"/> SYSTEM ACCREDITOR</entry>
+                  <entry colname="col2">Signature</entry>
+                  <entry colname="col3"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1"><ph conref="conrefs.dita#conrefs/moj"/> System Accreditor</entry>
+                  <entry colname="col2">Date</entry>
+                  <entry colname="col3"> </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </body>
+      </topic>
+    </topic>
+    <topic id="a2-supporting-compliance-statement">
+      <title>A.2 Supporting compliance statement</title>
+      <body>
+        <p>This compliance statement provides a check list which will enable the <ph conref="conrefs.dita#conrefs/moj"/> to assess the <q>NAME of 3rd PARTY IT SYSTEM</q> compliance against this CoCo and the pertinent security controls from HMG IAS 1&amp;2 Baseline Controls Set (BCS) at the DETER level and ISO27001. The system Accreditor will determine whether or not the <q>NAME of 3rd PARTY IT SYSTEM</q> presents an unacceptable risk to the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q>.</p>
+        <p>Guidance on completion:</p>
+        <ul>
+          <li>
+            <p>Under the 'Control' column are a number of security controls which should be read and responded to in subsequent columns;</p>
+          </li>
+          <li>
+            <p>Under the 'Compliance' column, answer <b>Yes</b>, if the control is fully met, <b>No</b>, if it is not fully met, <b>Partial</b>, if part of the control has been implemented or <b>N/A</b> if the control does not apply;</p>
+          </li>
+          <li>
+            <p>Under the 'Process Owner/References' column, the name of an individual or group who is responsible for managing that control must be entered and any associated documents referenced;</p>
+          </li>
+          <li>
+            <p>Under the 'Solution/Comments' column, enter a brief statement outlining how that control is met, why it is not met, only partially met or why it does not apply.</p>
+          </li>
+        </ul>
+        <p><b>Note:</b> The notes (in blue and italics) under the “Solution/Comments” column are for guidance only.  These notes must be removed upon completion.</p>
+        <table>
+          <tgroup cols="5">
+            <colspec colname="col1" colnum="1"/>
+            <colspec colname="col2" colnum="2"/>
+            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col4" colnum="4"/>
+            <colspec colname="col5" colnum="5"/>
+            <thead>
+              <row>
+                <entry colname="col1">Ref.</entry>
+                <entry colname="col2">Control</entry>
+                <entry colname="col3">Compliance  (Applicability) Y/N/P/N/A</entry>
+                <entry colname="col4">Process Owner/ Reference</entry>
+                <entry colname="col5">Solution/Comments</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">
+                  <b>A.5</b>
+                </entry>
+                <entry colname="col2">
+                  <b>Security Policy</b>
+                </entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5"> </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.5.1</b>
+                </entry>
+                <entry colname="col2">
+                  <b>Information Security Policy (ISMS Policy)</b>
+                </entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5"> </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.5.1.1</b>
+                </entry>
+                <entry colname="col2"><b>Information Security Policy document</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> have an Information Security policy document, approved by management, and published and communicated to all employees and relevant external parties?</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5">
+                  <i>State clearly what the document title is.  Describe how/when this document is communicated to all staff and contractors.  Provide a copy of the policy with this statement if possible.</i>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.6</b>
+                </entry>
+                <entry colname="col2">
+                  <b>Security Organisation</b>
+                </entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5"> </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.6.1</b>
+                </entry>
+                <entry colname="col2">
+                  <b>Information Security Infrastructure</b>
+                </entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5"> </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.6.1.1</b>
+                </entry>
+                <entry colname="col2"><b>Management commitment to Information Security</b> - Does <q>ORGANISATION NAME FOR 3rd PARTY</q> management actively support security within the organisation through the establishment of a forum where security issues are discussed and security responsibilities are acknowledged?</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5">
+                  <i>Is information security a standing agenda item at a regular management meeting and/or has a separate working group been set-up to discuss and address security concerns?  Who attends this meeting and what is the frequency. Provide terms of reference for the meeting/group where possible.</i>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.6.1.3</b>
+                </entry>
+                <entry colname="col2"><b>Allocation of Information Security Responsibilities</b> - Are <q>ORGANISATION NAME FOR 3rd PARTY</q> information security responsibilities allocated and documented?</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5">
+                  <i>Have information security responsibilities been documented and communicated to all staff? If so, how?</i>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.6.1.5</b>
+                </entry>
+                <entry colname="col2"><b>Confidentiality Agreements</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> have any confidentiality or non-disclosure agreements in place for staff, contracted bodies and other 3rd parties?</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5">
+                  <i>Do confidentiality agreements state your requirements for security?  Provide a copy of your agreement with this statement if possible.</i>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.6.1.8</b>
+                </entry>
+                <entry colname="col2"><b>Independent Review of Information Security</b> - Is the <q>ORGANISATION NAME FOR 3rd PARTY</q> subject to external audit?  Do any of these audits look at security issues?</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5">
+                  <i>The approach to managing information security and how it is implemented should be reviewed regularly, i.e. processes, procedures, policies, etc.  When was the last one conducted, by whom and how regularly is it normally reviewed. If the system is included in the scope of a certified Information Security Management System, details should be provided.</i>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.6.2</b>
+                </entry>
+                <entry colname="col2">
+                  <b>External Parties</b>
+                </entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5"> </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.6.2.1</b>
+                </entry>
+                <entry colname="col2"><b>Identification of Risks relating to External Parties</b> - Has the <q>ORGANISATION NAME FOR 3rd PARTY</q> conducted any form of risk assessment related to their IT systems and the data held on them?  Has the outcome of the risk assessment (e.g. risk treatment plan) been implemented?</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5">
+                  <i>How do you assess risk to your organisation caused by the provision of access to a 3rd party?  Does it also take into account physical &amp; logical access controls, etc</i>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.6.2.2</b>
+                </entry>
+                <entry colname="col2"><b>Addressing Security when dealing with Customers</b> - Has the <q>ORGANISATION NAME FOR 3rd PARTY</q> identified security requirements which need to be adhered by other entities or organisations connecting into <q>NAME of 3rd PARTY IT SYSTEM</q> before they are given access?</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5">
+                  <i>Need to provide detail of any security requirements?</i>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.6.2.3</b>
+                </entry>
+                <entry colname="col2"><b>Addressing security in 3rd Party Agreements</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> include security requirements in contracts with third parties that involve accessing, processing, communicating or managing the organisation's information or information processing facilities?</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5">
+                  <i>Do the 3rd party agreements include terms that assist meet the identified security requirements?  Examples of these terms or a copy of the 3rd party agreement should be provided.</i>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.7</b>
+                </entry>
+                <entry colname="col2">
+                  <b>Asset Classification and Control</b>
+                </entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5"> </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.7.1</b>
+                </entry>
+                <entry colname="col2">
+                  <b>Responsibility for Assets</b>
+                </entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5"> </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.7.1.3</b>
+                </entry>
+                <entry colname="col2"><b>Acceptable use of Assets</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> have any documented policies on the acceptable use of information and assets associated with information processing, i.e. personal use, use of email, Internet access etc?</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5">*Are there rules for the use of assets within the organisation, e.g. Acceptable use policies or “Do and Don't” lists for Email &amp; Internet, mobile devices, etc. If so, details should be provided.</entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.7.2</b>
+                </entry>
+                <entry colname="col2">
+                  <b>Information Classification</b>
+                </entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5"> </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.7.2.1</b>
+                </entry>
+                <entry colname="col2"><b>Classification Guidelines</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> use a data classification scheme (e.g. the Government Protective Marking Scheme) with defined protective controls for each classification or sensitive personal data?</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5">
+                  <i>State the classification scheme applied and associated controls to protect personal data (if applicable).  Has this been documented and communicated to all staff?  Provide a copy of the guidance provided if possible.</i>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.8</b>
+                </entry>
+                <entry colname="col2">
+                  <b>Human Resources Security</b>
+                </entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5"> </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.8.1</b>
+                </entry>
+                <entry colname="col2">
+                  <b>Prior to Employment</b>
+                </entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5"> </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.8.1.1</b>
+                </entry>
+                <entry colname="col2"><b>Roles and Responsibilities</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> identify security roles and responsibilities of employees, contractors and 3rd party users?  Are such roles/responsibilities documented?</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5">
+                  <i>Are there defined, documented and communicated security roles and responsibilities?  State what these are at a high-level and provide documentation where possible to support this. E.g. role/function terms of reference.</i>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.8.2</b>
+                </entry>
+                <entry colname="col2">
+                  <b>During Employment</b>
+                </entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5"> </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.8.2.1</b>
+                </entry>
+                <entry colname="col2"><b>Management Responsibilities</b> - Does <q>ORGANISATION NAME FOR 3rd PARTY</q> management ensure security requirements are enforced by employees, contractors and 3rd party users?  How is this achieved?</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5">
+                  <i>How do management ensure that staff and contractors are aware and comply with their responsibilities for security?</i>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <b>A.8.2.2</b>
+                </entry>
+                <entry colname="col2"><b>Information Security Awareness, Education and Training</b> - Do <q>ORGANISATION NAME FOR 3rd PARTY</q> employees and,
+                  where relevant, contractors and 3rd party users receive appropriate security awareness training and regular updates
+                  in <q>ORGANISATION NAME FOR 3rd PARTY</q> security policies and procedures,
+                  as relevant for their job function?</entry>
+                <entry colname="col3"> </entry>
+                <entry colname="col4"> </entry>
+                <entry colname="col5"><i>Do all employees and contractors undergo security awareness training?
+                  How frequently is this awareness training conducted?  What does the security awareness training cover at a high-level.
+                  How do you assess employees' understanding of that training?</i></entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.8.3</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Termination or Change of Employment</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.8.3.3</b>
+                  </entry>
+                  <entry colname="col2"><b>Removal of Access Rights</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> remove access rights of all employees, contractors and 3rd party users to information and information processing facilities upon termination of their employment, contract or agreement?  How is this done?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Details should be provided on the process for removing access rights on termination of employment.</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.9</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Physical and Environmental Security</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.9.1</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Secure Areas</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.9.1.1</b>
+                  </entry>
+                  <entry colname="col2"><b>Physical Security Perimeters</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> have a defined, effective, security perimeter to protect areas that contain information-processing facilities?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Describe the physical security barriers, e.g. walls, alarm systems, doors/gates, fencing, etc, where applicable.</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.9.1.2</b>
+                  </entry>
+                  <entry colname="col2"><b>Physical Entry Controls</b> - Are there secure areas within the <q>ORGANISATION NAME FOR 3rd PARTY</q> premises, protected by appropriate entry controls to ensure that only authorised personnel are allowed access?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Describe any designated secure areas in the building.  Where will the servers/workstations/gateway used to support this connection be located?  What security controls are in place to limit access to those with a need-to-know?</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.9.1.6</b>
+                  </entry>
+                  <entry colname="col2"><b>Public Access Delivery &amp; Loading Areas</b> - Are access points such as delivery and loading areas and other points where unauthorised persons may enter the <q>ORGANISATION NAME FOR 3rd PARTY</q> premises controlled and, if possible, isolated from information processing facilities to avoid unauthorised access?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Describe the controls limiting access from public access, delivery and loading areas to the areas housing the IT services used to support this connection.</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.9.2</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Equipment Security</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Communications and Operations Management</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.1</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Operational Procedures and Responsibilities</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.1.1</b>
+                  </entry>
+                  <entry colname="col2"><b>Document Operating Procedures</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> have operating procedures for the system connecting to <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q>?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Are operating procedures documented? A copy of the document or Table of Contents will suffice.</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.1.2</b>
+                  </entry>
+                  <entry colname="col2"><b>Change Management</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> have a Change Management process which covers the system connecting to the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q>?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">*Describe the change management process.</entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.2</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>3rd Party Service Delivery Management</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.2.1</b>
+                  </entry>
+                  <entry colname="col2"><b>Service Delivery</b> - If the <q>ORGANISATION NAME FOR 3rd PARTY</q> use a 3rd party service provider for its IT Service , does the <q>ORGANISATION NAME FOR 3rd PARTY</q> ensure that the security controls, service definitions and delivery levels included in the 3rd party service delivery agreement are implemented, operated and maintained by that 3rd party?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Do you use a 3rd party supplier to support IT used in this connection? Are security requirements stated within the agreement? How do you check the effectiveness of the security controls stated in the 3rd party agreement?</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.3</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>System Planning &amp; Acceptance</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.4</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Protection against Malicious and Mobile Code</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.4.1</b>
+                  </entry>
+                  <entry colname="col2"><b>Controls against Malicious Code</b> - Has the <q>NAME of 3rd PARTY IT SYSTEM</q> implemented controls to detect and protect against malicious code and that appropriate user awareness procedures is provided?  What AV application is installed and how often is the AV library updated?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>What measures are in place to control against malicious software/code?  Describe the process for detection and removal of malware if detected.</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.5</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Backup</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.6</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Network Management</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.6.1</b>
+                  </entry>
+                  <entry colname="col2"><b>Network Controls</b> - Is the system connected to the <q>NAME of 3rd PARTY IT SYSTEM</q> segregated from other <q>ORGANISATION NAME FOR 3rd PARTY</q> systems? Note: It is understood that this may not be possible in all cases.</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>How is the connecting system protected against network intrusions?  Describe any segregation of other networks and provide a high-level logical network diagram if possible.</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.7</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Media Handling and Security</b>
+                  </entry>
+                  <entry colname="col3"/>
+                  <entry colname="col4"/>
+                  <entry colname="col5"/>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.7.3</b>
+                  </entry>
+                  <entry colname="col2"><b>Information Handling Procedures</b> - What procedures are in place for the handling and storage of <ph conref="conrefs.dita#conrefs/moj"/> information in order to protect such information from unauthorised disclosure or misuse?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">*Describe your information handling procedures.  How does this map to A.7.2.1 above (Information Classification).</entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.7.4</b>
+                  </entry>
+                  <entry colname="col2"><b>Security of System Documentation</b> - What security procedures are in place to secure the system documentation concerning this connection so it is protected from unauthorised access?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>How is the system documentation prevented from unauthorised access?</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.8</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Exchange of Information</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.8.5</b>
+                  </entry>
+                  <entry colname="col2"><b>Business Information Systems</b> - Are there any policies and procedures to protect information shared over this connection?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Please provide any policies or an Information Sharing Agreement.</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.9</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Electronic Commerce Services</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.10.10</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Monitoring</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Access Control</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.1</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Business requirement for Access Control</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.2</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>User Access Management</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.2.1</b>
+                  </entry>
+                  <entry colname="col2"><b>User Registration</b> - Does the <q>NAME of 3rd PARTY IT SYSTEM</q> have a formal user registration and de-registration procedure in place for granting and revoking access to all information systems and services?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Describe the registration and deregistration process. Are the user registration procedures documented?</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.2.2</b>
+                  </entry>
+                  <entry colname="col2"><b>Privilege Management</b> - Does the <q>NAME of 3rd PARTY IT SYSTEM</q> restrict the allocation and use of privileges?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Who has (or will be given) privileged access to the <ph conref="conrefs.dita#conrefs/moj"/> IT System – roles will suffice?  How will this access be restricted to just those named roles?</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.2.3</b>
+                  </entry>
+                  <entry colname="col2"><b>User Password Management</b> - What process is in place to allocate passwords to users? Is a password policy enforced and what technical controls are in place to support that enforcement?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Describe the process for allocating new passwords, the password policy and any control used to enforce it?</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.2.4</b>
+                  </entry>
+                  <entry colname="col2"><b>Review of User Access Rights</b> - Is there a review process that covers users' access rights on the <q>NAME of 3rd PARTY IT SYSTEM</q>?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Describe the process for regularly reviewing access rights</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.3</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>User responsibilities</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.3.1</b>
+                  </entry>
+                  <entry colname="col2"><b>Password Use</b> - Do users follow good security practices in the selection and use of passwords?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">*State the password policy.  What controls are in place to prevent users from selecting weak passwords?</entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.3.2</b>
+                  </entry>
+                  <entry colname="col2"><b>Unattended User Equipment</b> - Is there a user timeout set on the <q>NAME of 3rd PARTY IT SYSTEM</q>?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>What is the timeout process?</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.4</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Network Access Control</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.4.1</b>
+                  </entry>
+                  <entry colname="col2"><b>Policy on use of Network Services</b> - How does <q>NAME of 3rd PARTY IT SYSTEM</q> ensure that users only have direct access to the services that they have been specifically authorised to use?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Describe how users are limited to those services that they are only authorised to use.  Is there a policy covering access to network services?</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.4.2</b>
+                  </entry>
+                  <entry colname="col2"><b>User Authentication for External Connections</b> - Does <q>NAME of 3rd PARTY IT SYSTEM</q> ensure any remote access is subject to authentication of the same standard as for normal users? See Control A.11.2.3 above.</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>What security safeguards are in place to control access by remote users?</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.5</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Operating System Access Control</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.5.1</b>
+                  </entry>
+                  <entry colname="col2"><b>Secure Log-on Procedures</b> - Is access to the <q>NAME of 3rd PARTY IT SYSTEM</q> only attainable via a secure log-on process?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Provide an overview of the secure log-on process.</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.5.2</b>
+                  </entry>
+                  <entry colname="col2"><b>User Identification and Authentication</b> - Do all users of the <q>NAME of 3rd PARTY IT SYSTEM</q> have a unique identifier (user ID) for their personal and sole use so that activities can be traced to the responsible individual?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>State clearly whether users have a unique User ID associated with their use of the IT system and additionally that this unique identifier can be used uniquely/unequivocally to identify the activities of that user.</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.5.4</b>
+                  </entry>
+                  <entry colname="col2"><b>Use of System Utilities</b> - A confirmation is required that the use of system utility programs on the <q>NAME of 3rd PARTY IT SYSTEM</q> is restricted and tightly controlled?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>What procedures do you have in place to restrict access to system utility programs?</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.6</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Application Access Control</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.11.7</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Mobile computing and Teleworking</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A12</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Information Systems Acquisition, Development and Maintenance</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A12.1</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Security Requirements of Information Systems</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.12.2</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Correct Processing in Applications</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.12.3</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Cryptographic controls</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.12.3.1</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Policy on the Use of Cryptographic Controls</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Check with the <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor on whether any cryptographic controls are required in this connection.</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.12.4</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Security of System Files</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.12.4.1</b>
+                  </entry>
+                  <entry colname="col2"><b>Control of Operational Software</b> - Is there a process to control the implementation of software on the <q>NAME of 3rd PARTY IT SYSTEM</q>?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Provide details on the controls put in place on the implementation of operational software.</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>12.5</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Security in development and support processes</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.12.5.1</b>
+                  </entry>
+                  <entry colname="col2"><b>Change Control Procedures</b> - All changes to the <q>NAME of 3rd PARTY IT SYSTEM</q> should be examined and any major changes reported to <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor.</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Is there a documented Change Control procedure? Details should be provided.</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.12.5.4</b>
+                  </entry>
+                  <entry colname="col2"><b>Information Leakage</b> - Are there controls in place to reduce the likelihood of information leakage (compromise of <ph conref="conrefs.dita#conrefs/moj"/>)?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>What controls are in place to detect, deter or prevent information leakage?</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.12.6</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Technical Vulnerability Management</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.13</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Information Security Incident Management</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.13.1</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Reporting Information Security Events and Weaknesses</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.13.1.1</b>
+                  </entry>
+                  <entry colname="col2"><b>Reporting Information Security Events</b> - Is there a documented process to ensure information security events affecting the <q>NAME of 3rd PARTY IT SYSTEM</q> are reported to <ph conref="conrefs.dita#conrefs/moj"/> ITSO and system Accreditor as soon as possible?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Describe the Incident Management process applicable to the connecting system or supply documentation to support this.  It must include reporting of security incidents to the <ph conref="conrefs.dita#conrefs/moj"/>.</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.13.2</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Management of Information Security Incidents &amp; Improvements</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.13.2.1</b>
+                  </entry>
+                  <entry colname="col2"><b>Responsibilities &amp; Procedures</b> - Have assigned responsibilities and procedures to ensure a quick, effective, and orderly response to information security incidents been implemented?  This needs to include the requirement to report incidents associated with the <q>NAME of 3rd PARTY IT SYSTEM</q> to <ph conref="conrefs.dita#conrefs/moj"/>.</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>All IT Security incidents should be reported to <ph conref="conrefs.dita#conrefs/moj"/> Operational Security Team.</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.14</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Business Continuity Management</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.14.1</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Aspects of business continuity management</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.15</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Compliance</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.15.1</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Compliance with legal requirements</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.15.1.4</b>
+                  </entry>
+                  <entry colname="col2"><b>Data Protection and Privacy of Personal Information</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> have documented procedures covering data protection and privacy of personal information?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Reference relevant documentation that details the procedures for adhering to privacy and protection of personal information.  Provide documentation to support this if available.</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.15.2</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Reviews of Security Policy and Technical compliance</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.15.2.1</b>
+                  </entry>
+                  <entry colname="col2"><b>Compliance with Security Policies &amp; Standards</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> conduct compliance audits to achieve compliance with security policies and standards, including the CoCo for this connection?</entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>What is the process to conduct a compliance audit against the processes and procedures employed to support this connection?  When was the last one conducted?  Were any gaps identified, if so is there a remediation plan in place?</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.15.2.2</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>Technical Compliance Checking</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5">
+                    <i>Is the connecting system subject to a technical assessment (penetration test / ITHC? When was the last one done?  Were any vulnerabilities identified and if so have these been addressed/fixed?</i>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1">
+                    <b>A.15.3</b>
+                  </entry>
+                  <entry colname="col2">
+                    <b>System Audit Consideration</b>
+                  </entry>
+                  <entry colname="col3"> </entry>
+                  <entry colname="col4"> </entry>
+                  <entry colname="col5"> </entry>
+                </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </body>
+    </topic>
+  </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

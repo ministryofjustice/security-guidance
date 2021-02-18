@@ -109,11 +109,15 @@ Dealing with these attacks can be emotionally draining; even just reading the me
 
 Cyber Consultants & Risk Advisors:
 
--   Email: [security@digital.justice.gov.uk](mailto:security@digital.justice.gov.uk)
+-   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 -   Slack:
 
     ```
     #security
     ```
 
+
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

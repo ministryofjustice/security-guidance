@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="system-backup-policy">
+  <title>System Backup Policy</title>
+  <topic id="legacyreferences" conref="conrefs.dita#legacyreferences"><title/></topic>
+  <topic id="system-recovery">
+    <title>System recovery</title>
+    <body>
+      <p>Backing up is an essential part of protecting <ph conref="conrefs.dita#conrefs/mojlong"/> Information and Communication Technology (ICT or IT) resources. Backing up provides a means of recovering a system or data to a known state, or point in time. In other words, backups enable you to restore a system or data to be effectively indistinguishable from how it was on a particular date and time.</p>
+      <p>All systems MUST comply with the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/" format="html" scope="external">HMG Security Policy Framework</xref>. To address this need, these statements from the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/" format="html" scope="external">Technical Controls Policy</xref> apply:
+      <dl>
+        <dlentry>
+          <dt>POL.TCP.108</dt>
+          <dd>All systems MUST have recovery procedures to maintain the integrity and availability of all Information Assets held. The recovery time will vary based on the system and data involved.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>POL.TCP.109</dt>
+          <dd>A log MUST be kept of all back-ups taken for an IT system.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>POL.TCP.110</dt>
+          <dd>Back-up data MUST be stored and handled in a manner appropriate to the sensitivity of the Information Assets stored.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>POL.TCP.111</dt>
+          <dd>All IT systems MUST check all historic back-ups regularly to ensure that they can be relied upon. This includes the testing of any backup media used, such as tape or hard disks.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>POL.TCP.112</dt>
+          <dd>All systems MUST have a recovery procedure which is tested regularly. Ideally, the testing will take place automatically.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>POL.TCP.113</dt>
+          <dd>The retention period for historic back-ups MUST align to the retention period of the Information Assets held.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>POL.TCP.114</dt>
+          <dd>All IT systems MUST conform to the <xref href="system-backup-standard.dita" format="dita">IT Security - System Backup Standard</xref>.</dd>
+        </dlentry>
+      </dl>
+    </p>
+      <p>All IT systems MUST be evaluated to determine if a backup schedule is required. This depends on the data stored, and on legal or other regulatory requirements. The evaluation and resulting decision regarding backup requirement MUST be documented for the system.</p>
+      <p>The <xref href="system-backup-standard.dita" format="dita">IT Security - System Backup Standard</xref> provides details of the tasks, configurations, and processes required for an IT system backup to comply with this policy.</p>
+      <p>Use of the word MUST in this document complies with <xref format="txt" scope="external" href="https://www.ietf.org/rfc/rfc2119.txt">RFC 2119</xref>.</p>
+    </body>
+  </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

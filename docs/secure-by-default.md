@@ -42,3 +42,7 @@ NCSC also have a set of whitepapers which help explain some approaches to buildi
 -   [Storing sensitive data on consumer platforms](https://www.ncsc.gov.uk/articles/sensitive-data-consumer-platforms)
 
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

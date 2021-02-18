@@ -2,7 +2,7 @@
 
 This guidance applies to all staff and contractors who work for the Ministry of Justice \(MoJ\).
 
-Everyone working at the MoJ has access to MoJ Information Technology \(IT\) resources. You must use them in an acceptable way. This guidance explains what that means. The definitive list of Acceptable Use Policy statements is [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/).
+Everyone working at the MoJ has access to MoJ Information Technology \(IT\) resources. You must use them in an acceptable way. This guidance explains what that means. The definitive list of Acceptable Use Policy statements is [here](it-acceptable-use-policy.md).
 
 ## Summary
 
@@ -103,7 +103,7 @@ All use of MoJ IT resources is monitored and logged. This includes mobile phone 
 
 Some IT resources might be usable [away from your usual workplace](https://intranet.justice.gov.uk/documents/2017/12/remote-working-and-mobile-computing-security-guide-november-2017.pdf), such as a laptop. Even outside the office, you must continue to ensure acceptable use of the IT resources.
 
-You should also [ask](https://intranet.justice.gov.uk/guidance/security/it-computer-security/taking-it-equipment-abroad-business-or-personal/) before taking MoJ IT equipment outside the UK.
+You should also [ask](https://intranet.justice.gov.uk/guidance/security/it-computer-security/taking-it-equipment-overseas-business-or-personal/) before taking MoJ IT equipment outside the UK.
 
 ## Avoid using removable media
 
@@ -112,4 +112,8 @@ Removable media like memory sticks are portable and easy-to-use. Unfortunately, 
 ## Personalisation of equipment
 
 A popular trend is to adorn laptops with stickers. This is acceptable as long as the material does not cause problems such as upset, offence, or embarrassment. The same applies if you customise the desktop environment of your equipment, for example by changing the desktop image.
+
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

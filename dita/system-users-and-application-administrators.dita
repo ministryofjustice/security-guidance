@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="system-users-and-application-administrators">
+  <title>System Users and Application Administrators</title>
+  <body>
+    <note>This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon.
+      Before using this content for a project, contact <ph conref="conrefs.dita#conrefs/catemail"/>.</note>
+  </body>
+  <topic id="how-to-use-this-document">
+    <title>How to use this document</title>
+    <body>
+      <p>This policy applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
+    </body>
+    <topic id="who-does-it-apply-to">
+      <title>Who does it apply to?</title>
+      <body>
+        <p>All Users of the <q>[ORGANISATION]</q> Information and Communications Technology (IT) systems.</p>
+        <p>This document is designed to help Users utilise and access <q>[ORGANISATION]</q> IT systems in a safe and secure manner. Everyone using <q>[ORGANISATION]</q> IT systems must follow these procedures.</p>
+      </body>
+    </topic>
+    <topic id="when-and-how-should-these-procedures-be-used">
+      <title>When and how should these procedures be used?</title>
+      <body>
+        <p>Users' Security Awareness training will cover these procedures.</p>
+        <p>Users must read this document prior to using any <q>[ORGANISATION]</q> IT Systems for the first time, and revisit it every six (6) months to remind themselves of the procedures. Regular audits will be performed to check that these procedures are being followed.</p>
+        <p>Users must understand that they are responsible for maintaining the security of <q>[ORGANISATION]</q> systems, and that failure to comply with these SyOPs could lead to compromise of the <q>[ORGANISATION]</q>'s infrastructure or even the entire GSI. Users must note further that either failure to comply with this SyOPs or failure to return the security sign off form would be considered a breach of the <q>[ORGANISATION]</q> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/" format="html" scope="external">IT Security Policy</xref>.</p>
+        <p>For further all the security related information required, please refer to:</p>
+        <ul>
+          <li>
+            <p>The <q>[ORGANISATION]</q> staff <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external">intranet Security homepage</xref></p>
+          </li>
+          <li>
+            <p>Remote User Security Operating Procedures (SyOPs) (if applicable)</p>
+          </li>
+          <li>
+            <p>Blackberry User SyOPs (if applicable)</p>
+          </li>
+        </ul>
+        <table>
+          <tgroup cols="3">
+            <colspec colname="col1" colnum="1"/>
+            <colspec colname="col2" colnum="2"/>
+            <colspec colname="col3" colnum="3"/>
+            <tbody>
+              <row valign="top">
+                <entry colname="col1">Area of control</entry>
+                <entry colname="col2">All Users</entry>
+                <entry colname="col3">Application Administrators Only</entry>
+              </row>
+              <row valign="top">
+                <entry colname="col1">Shut-down and start-up</entry>
+                <entry colname="col2" namest="col2" nameend="col3">Start-up:
+<ul><li>A physical inspection of the workstation must be carried out for any signs of tampering prior to switching the machine on.</li><li>The sharing of credentials, and attempting to logon as someone else (or with credentials which you are not authorised to use), are strictly forbidden.</li></ul>
+Shut-down:
+<ul><li>Users must log-off the workstation and ensure it is switched off whenever left unattended for more than 4 hours or overnight.</li></ul></entry>
+              </row>
+              <row valign="top">
+                <entry colname="col1">Physical access controls</entry>
+                <entry colname="col2" namest="col2" nameend="col3">
+                  <ul>
+                    <li>Only authorised members of staff with registered user accounts are permitted access to the system.</li>
+                    <li>The equipment used to access the system must be checked on a daily basis for evidence of tampering or suspicious devices attached to it, for example unknown Universal Serial Bus (USB) devices attached to the rear of the main workstation.</li>
+                    <li>Protectively marked and sensitive hardcopy material must be securely stored away under lock and key following the [ORGANISATION] <xref format="html" scope="external" href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/clear-screen-and-desk-policy/">Clear Desk Policy</xref>, published on the [ORGANISATION] intranet.</li>
+                    <li>When accessing the system from portable computing devices, access is only to be made in approved area (see the SyOPs for Remote Access use.</li>
+                    <li>Visitors must be supervised during working hours, and any sensitive documentation being worked on is to be hidden from line of sight as much as possible.</li>
+                  </ul>
+                </entry>
+              </row>
+              <row valign="top">
+                <entry colname="col1">Awareness</entry>
+                <entry colname="col2" namest="col2" nameend="col3">
+                  <ul>
+                    <li>When visitors are present, ensure that they are only able to see information for which they have a need-to-know.</li>
+                    <li>Users must be aware of anyone 'shoulder surfing' and viewing information for which they do not have a need-to-know.</li>
+                    <li>Users must not hold conversations over any telephone or send communications via fax or email if the information being discussed is protectively marked RESTRICTED.</li>
+                  </ul>
+                </entry>
+              </row>
+              <row valign="top">
+                <entry colname="col1">Identification and authentication</entry>
+                <entry colname="col2">
+                  <ul>
+                    <li>Users must not attempt to log on as another user, or share their system access credentials with others.</li>
+                    <li>Users must not allow unauthorised users to observe their screen.</li>
+                    <li>Users must not allow any person to observe them entering their system access credentials (e.g. password).</li>
+                    <li>Passwords used on the system must be created in line with the [ORGANISATION] Password Standard.</li>
+                    <li>Users must invoke the screensaver before leaving their workstation unattended (by pressing 'windows' key + L).</li>
+                    <li>A User account must only be created with permissions commensurate to that User's business role, and are only to be enabled once a signed copy of these SyOPs have been received from the user.</li>
+                    <li>A User account must be disabled when that staff member leave the [ORGANISATION] or where their business role does not require them to have access.</li>
+                  </ul>
+                </entry>
+                <entry colname="col3"> </entry>
+              </row>
+              <row valign="top">
+                <entry colname="col1">Resetting user passwords</entry>
+                <entry colname="col2" namest="col2" nameend="col3">
+                  <ul>
+                    <li>To change a password, Users must hold down Ctrl + Alt + Delete on their keyboard and select 'Change Password'.</li>
+                    <li>If the password requires resetting, contact the <xref href="#general-enquiries-including-theft-and-loss" format="dita">Service Desk</xref>.</li>
+                  </ul>
+                </entry>
+              </row>
+              <row valign="top">
+                <entry colname="col1">System Use</entry>
+                <entry colname="col2">
+                  <ul>
+                    <li>Users must not exceed (or attempt to exceed) their given access privileges, amend the system configuration or plug in any unauthorised devices.</li>
+                    <li>Any unauthorised attempt at changing the configuration of the system, escalating privileges or installing devices/software may be subject to investigation and formal disciplinary action.</li>
+                    <li>Unauthorised software must not be installed or used on the system.</li>
+                    <li>Administrator level accounts should only be used when carrying out administrative tasks; at all other times a Normal User account should be used.</li>
+                  </ul>
+                </entry>
+                <entry colname="col3"> </entry>
+              </row>
+              <row valign="top">
+                <entry colname="col1">Acceptable use</entry>
+                <entry colname="col2" namest="col2" nameend="col3">
+                  <ul>
+                    <li>The system must only be used in accordance with the [ORGANISATION] <xref format="dita" href="acceptable-use-policy.dita">Acceptable Use Policy</xref>.</li>
+                    <li>The system must only be used for the business purposes for which it is intended.</li>
+                    <li>Any attempt to use it for other reasons may constitute a disciplinary offence.</li>
+                  </ul>
+                </entry>
+              </row>
+              <row valign="top">
+                <entry colname="col1">Import/Export</entry>
+                <entry colname="col2" namest="col2" nameend="col3">
+                  <ul>
+                    <li>A log must be maintained of all file imports/exports, this can either be a paper based or held electronically.</li>
+                    <li>All imports/export of electronic data/files to the System must be scanned for malicious code.</li>
+                    <li>Users must check and file exports to ensure that only files that they intended to export from one environment to another are exported.</li>
+                    <li>Where a network printer are used, Users must ensure print outs are collected promptly to minimise the risk of inadvertent disclosure.</li>
+                  </ul>
+                </entry>
+              </row>
+              <row valign="top">
+                <entry colname="col1">Anti virus</entry>
+                <entry colname="col2" namest="col2" nameend="col3">In the event of a User suspecting a virus attack on the network, they must carry out the following steps:
+                      <ul>
+                        <li>If operationally possible, leave the system switched on in its infected condition;</li>
+                        <li>Disconnect the affected workstation from the network (where possible);</li>
+                        <li>Mark the system and any associate storage media with a label stating that the machine has a suspected virus;</li>
+                        <li>Inform the <xref href="#general-enquiries-including-theft-and-loss" format="dita">Information Technology (IT) Helpdesk</xref> who will provide assistance.</li></ul>
+                </entry>
+              </row>
+              <row valign="top">
+                <entry colname="col1">Removable media</entry>
+                <entry colname="col2" namest="col2" nameend="col3">
+                  <ul>
+                    <li>No System media or document is to be removed from the building without prior authorisation from the Information Asset Owner.</li>
+                    <li>All media and documents exported from the system must be registered in the media/document register and clearly marked with their protective marking in accordance with the <xref format="dita" href="information-classification-and-handling-policy.dita">Information Classification and Handling Policy</xref>.</li>
+                    <li>When a media/document is sent outside the [ORGANISATION] to an external body the following procedures must be adhered to:
+                      <ul>
+                        <li>The export must be covered by an Information Sharing Agreement between the Authority and the external body which has been approved by the Information Asset Owner.</li>
+                        <li>Each export must be authorised by the Local/System Manager.</li>
+                        <li>Each export must have a data export receipt filled out and returned by the receiver to account for the transactions successful delivery</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </entry>
+              </row>
+              <row valign="top">
+                <entry colname="col1">Secure Disposal of Protectively Marked material</entry>
+                <entry colname="col2" namest="col2" nameend="col3">
+                  <ul>
+                    <li>Protectively Marked material must be disposed separately from general waste. Such waste should not be accessible to those without the proper authority.</li>
+                    <li>PROTECT and RESTRICTED classified information can be disposed via standard office provided shred bins allocated to hold material up to and including RESTRICTED.</li>
+                    <li>For CONFIDENTIAL, SECRET OR TOP SECRET information, Corporate Security Team must be contacted when securely disposing of paper documents, and [ORGANISATION] OST must be contacted for the secure disposal of IT devices.</li>
+                    <li>Further instructions can be found on the [ORGANISATION] Intranet, Confidential Waste Disposal page.</li>
+                  </ul>
+                </entry>
+              </row>
+              <row valign="top">
+                <entry colname="col1">Security Incident and General Reporting Procedures</entry>
+                <entry colname="col2" namest="col2" nameend="col3">
+                  <ul>
+                    <li>All requests for IT support and all reports of IT failures must be logged with the IT Helpdesk.</li>
+                    <li>Any incident involving a suspected or known security breach involving personnel, hardware, software, communications, document or physical security must be reported immediately to the IT System Manager and the [ORGANISATION] Operational Security Team (OST).</li>
+                    <li>Any loss of IT equipment, [ORGANISATION] or personal data should be <xref href="#incidents" format="dita">reported</xref>. Report also to the Users' line manager, the OST (<ph conref="conrefs.dita#conrefs/ostemail"/>)and to the Data Access &amp; Compliance Unit (DACU).
+                      <p>To ensure a quick response all emails must be marked Urgent and have 'Data Incident' in the title/subject heading.</p></li>
+                  </ul>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p>By signing below I acknowledge that I have read the Security Operating Procedures (SyOPs) and agree to be bound by them.</p>
+        <table>
+          <tgroup cols="2">
+            <colspec colname="col1" colnum="1" colwidth="1*"/>
+            <colspec colname="col2" colnum="2" colwidth="4*"/>
+            <tbody>
+              <row valign="top">
+                <entry colname="col1">Name:</entry>
+                <entry colname="col2"> </entry>
+              </row>
+              <row valign="top">
+                <entry colname="col1">Date:</entry>
+                <entry colname="col2"> </entry>
+              </row>
+              <row valign="top">
+                <entry colname="col1">Signature:</entry>
+                <entry colname="col2"> </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </body>
+    </topic>
+  </topic>
+  <topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
+  <topic id="general-enquiries-including-theft-and-loss" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

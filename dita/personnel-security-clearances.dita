@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="personnel-security-clearances">
   <title>Personnel security clearances</title>
-  <body/>
   <topic id="baseline-personnel-security-standard-bpss">
     <title>Baseline Personnel Security Standard (BPSS)</title>
     <body>
@@ -18,4 +16,5 @@
       <p audience="audience-tech">The <ph conref="conrefs.dita#conrefs/moj"/> does <b>not</b> have a standing requirement for system administrators or application developers to maintain Security Check (SC).</p>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

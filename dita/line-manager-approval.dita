@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="line-manager-approval">
   <title>Line Manager approval</title>
   <body>
     <p>This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
     <p>Some <ph conref="conrefs.dita#conrefs/moj"/> IT Policy documents need you to get a review or approval from a Line Manager or other senior person.
-    Do this before taking an action or working in a particular way. Examples include:
+    Do this before taking an action or working in a particular way.</p>
+    <p audience="audience-basic audience-tech">Examples include:
     <ul>
-      <li><xref href="general-advice-on-taking-equipment-abroad.dita" format="dita">General advice on taking equipment abroad</xref>.</li>
+      <li><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita">General advice on taking equipment overseas</xref>.</li>
       <li><xref href="personal-devices.dita" format="dita">Security Guidance for Using a Personal Device</xref>.</li>
     </ul></p>
     <p>This guidance describes what you should do. The guidance contains steps to follow for <xref href="#steps-to-follow-line-managers" format="dita">Line Managers</xref>, and their <xref href="#steps-to-follow-direct-reports" format="dita">Direct Reports</xref>.</p>
@@ -16,7 +16,7 @@
   <topic id="steps-to-follow-line-managers">
     <title>Steps to follow (Line Managers)</title>
     <body>
-      <p id="justask"><b>Note: If at <i>any</i> time you need help about this process, or the applicable <ph conref="conrefs.dita#conrefs/moj"/> IT Policies, just ask: <ph conref="conrefs.dita#conrefs/securityemail"/>.</b></p>
+      <note id="justask">If at any time you need help about this process, or the applicable <ph conref="conrefs.dita#conrefs/moj"/> IT Policies, just ask: <ph conref="conrefs.dita#conrefs/securityemail"/>.</note>
       <ol>
         <li>Check that your direct report (DR) has said what they want in their request.
           The request should identify which <ph conref="conrefs.dita#conrefs/moj"/> IT Policies apply.</li>
@@ -37,7 +37,7 @@
   <topic id="steps-to-follow-direct-reports">
     <title>Steps to follow (Direct Reports)</title>
     <body>
-      <p conref="#steps-to-follow-line-managers/justask"/>
+      <note conref="#steps-to-follow-line-managers/justask"/>
       <ol>
         <li>Check that your business need is valid.</li>
         <li>Check which <ph conref="conrefs.dita#conrefs/moj"/> IT Policies apply to your request.
@@ -59,4 +59,6 @@
       </ol>
     </body>
   </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

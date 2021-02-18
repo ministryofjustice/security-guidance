@@ -46,3 +46,7 @@ The [Information Commissioner's Office \(ICO\)](https://ico.org.uk) - the UK's i
 
 A Data Protection Impact Assessment \(DPIA, formerly commonly known as a Privacy Impact Assessment or PIA\) is required for all projects. There are some [exceptions described by the ICO](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/exemptions/).
 
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+

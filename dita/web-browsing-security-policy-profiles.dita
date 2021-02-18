@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="web-browsing-security-policy-profiles">
+  <title>Web browsing security policy profiles</title>
+  <body>
+    <p>There are two policy profiles,
+      one for the <xref href="#judiciary" format="dita">Judiciary</xref>,
+      and one for <xref href="#all-other-staff" format="dita">all other staff</xref>.</p>
+    <p>Each profile identifies categories of content that are normally blocked.
+      Content that is not in a blocked category will normally be available to a profile.</p>
+  </body>
+  <topic id="judiciary">
+    <title>Judiciary</title>
+    <body>
+      <p>All activity is logged.
+        By default,
+        no reporting takes place.
+        However,
+        reporting is permitted following appropriate judicial sanction.</p>
+      <p>The following categories of content are normally blocked for the Judicial profile:
+      <ul>
+        <li>Advanced Malware Command and Control</li>
+        <li>Advanced Malware Payloads</li>
+        <li>Botnets</li>
+        <li>Compromised Websites</li>
+        <li>Custom-Encrypted Uploads</li>
+        <li>Dynamic DNS</li>
+        <li>Elevated Exposure</li>
+        <li>Emerging Exploits</li>
+        <li>Extended Protection</li>
+        <li>Files Containing Passwords</li>
+        <li>Keyloggers</li>
+        <li>Malicious Embedded iFrame</li>
+        <li>Malicious Embedded Link</li>
+        <li>Malicious Websites</li>
+        <li>Mobile Malware</li>
+        <li>Newly Registered Websites</li>
+        <li>Phishing and Other Frauds</li>
+        <li>Potentially Exploited Documents</li>
+        <li>Potentially Unwanted Software</li>
+        <li>Security</li>
+        <li>Sex</li>
+        <li>Spyware</li>
+        <li>Suspicious Content</li>
+        <li>Suspicious Embedded Link</li>
+        <li>Unauthorised Mobile Marketplaces</li>
+        <li>User-Defined list</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="all-other-staff">
+    <title>All other staff</title>
+    <body>
+      <p>Limited restrictions are in place to block web access.
+        All activity is logged.
+        Reporting is enabled for all activity.</p>
+      <p>The following categories of content are blocked for this profile:
+      <ul>
+        <li>Adult Content</li>
+        <li>Adult Material</li>
+        <li>Advanced Malware Command and Control</li>
+        <li>Advanced Malware Payloads</li>
+        <li>Application and Software Download</li>
+        <li>Botnets</li>
+        <li>Compromised Websites</li>
+        <li>Custom-Encrypted Uploads</li>
+        <li>Dynamic DNS</li>
+        <li>Elevated Exposure</li>
+        <li>Emerging Exploits</li>
+        <li>Extended Protection</li>
+        <li>Files Containing Passwords</li>
+        <li>Keyloggers</li>
+        <li>Malicious Embedded iFrame</li>
+        <li>Malicious Embedded Link</li>
+        <li>Malicious Websites</li>
+        <li>Mobile Malware</li>
+        <li>Newly Registered Websites</li>
+        <li>Phishing and Other Frauds</li>
+        <li>Potentially Exploited Documents</li>
+        <li>Potentially Unwanted Software</li>
+        <li>Security</li>
+        <li>Sex</li>
+        <li>Spyware</li>
+        <li>Suspicious Content</li>
+        <li>Suspicious Embedded Link</li>
+        <li>Unauthorised Mobile Marketplaces</li>
+        <li>User-Defined list</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

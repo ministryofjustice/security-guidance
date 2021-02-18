@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="security-aspect-letters">
   <title>Security Aspects Letters</title>
-  <body/>
   <topic id="purpose">
     <title>Purpose</title>
     <body>
@@ -194,4 +192,5 @@
       </ul>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

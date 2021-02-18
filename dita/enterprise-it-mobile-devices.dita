@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="enterprise-it-mobile-devices">
   <title>Enterprise IT - Mobile Devices</title>
@@ -8,7 +7,6 @@
   </body>
   <topic id="baseline-maturity-tier">
     <title>Baseline Maturity Tier</title>
-    <body/>
     <topic id="device-power-events">
       <title>1. Device power events</title>
       <body>
@@ -212,7 +210,6 @@
   </topic>
   <topic id="enhanced-maturity-tier">
     <title>Enhanced Maturity Tier</title>
-    <body/>
     <topic id="firewall-log-data-for-denied-network-traffic">
       <title>1. Firewall log data for denied network traffic</title>
       <body>
@@ -285,4 +282,5 @@
       </body>
     </topic>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

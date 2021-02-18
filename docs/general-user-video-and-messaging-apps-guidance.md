@@ -121,17 +121,17 @@ The bottom line is: *"if there is doubt, there is no doubt - ask for help!".*
 |---------|---------|------------------------------|--------------------------|--------|
 |Apple Facetime|Communication tool: Video|Avoid personal or sensitive data|Smartphone App|Internal/External|
 |Apple iMessage|Text messaging|Avoid personal or sensitive data|Smartphone App|Internal/External|
-|Google Hangouts|Communication tool: Video and/or voice|MoJ use approved|Digital Service Desk controlled Mac - Self|Internal/External|
+|Google Meet \(was Google Hangouts\)|Communication tool: Video and/or voice|MoJ use approved|Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Microsoft Teams|Communication and collaboration tool: Video and/or voice|MoJ use approved|Dom1 Software centre, Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Miro|Collaboration tool: Whiteboarding|Avoid personal or sensitive data|Web browser.|Internal/External|
 |Skype for Business|Communication tool: Video and/or voice|MoJ use approved|Dom1 Software centre, Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Slack|Text messaging, Voice/Video calls, etc.|Avoid personal or sensitive data|Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
-|Slido|Q&A tool during presentations|Avoid personal or sensitive data|Web browser|Internal|
-|Twitter|Text Messaging, Video transmission|Approved for MoJ Corporate account. Using a personal account to comment on work related issues is encouraged, as long as you follow the [Civil Service Code of Conduct](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code).|Web browser, Windows 10 App, Smartphone App|Internal/External|
+|Slido|Q&A tool during presentations|Avoid personal or sensitive data|Web browser.|Internal|
+|Twitter|Text Messaging, Video transmission|Approved for MoJ Corporate account. Using a personal account to comment on work related issues is encouraged, as long as you follow the [Civil Service Code of Conduct](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code).|Web browser, Windows 10 App, Smartphone App.|Internal/External|
 |WhatsApp|Text messaging, Voice/Video calls|Avoid personal or sensitive data|Dedicated app on device, also web browser.|Internal/External|
 |Yammer|Text messaging|Avoid personal or sensitive data|Dedicated app on device|Internal|
-|YouTube|Video sharing tool: Video, streaming and chat|Avoid personal or sensitive data|Web/browser based use|Internal/External|
-|Zoom|Communication tool: Video, voice and chat|Avoid personal or sensitive data|Web/browser based use|External meetings|
+|YouTube|Video sharing tool: Video, streaming and chat|Avoid personal or sensitive data|Web browser based use.|Internal/External|
+|Zoom|Communication tool: Video, voice and chat|Avoid personal or sensitive data|Web browser based use|External meetings|
 
 ## NHS Track and Trace
 
@@ -158,9 +158,17 @@ Some tools, such as Facebook, Instagram and LinkedIn, are approved for specific 
 
 If you wish to use a tool that is not listed above, please consult our [Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md) and [speak to us for help](mailto:security@justice.gov.uk).
 
-## Requesting that a tool be approved for use
+## Requesting that an app be approved for use
 
-Refer to the [Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md) for the process to follow when wanting to add a new tool to the list.
+If there is an application or service that is not currently approved, but which you would like to use, you can request a security review.
+
+Begin the request by filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLSeEEBDS1HBF7meUk3SjgkqxbXBQlKAiBAezJIbKHnEjfNjBTg/viewform?gxids=7628), as best you can. The more information you provide, the better. But don't worry if you have to leave some bits of the form blank.
+
+When you submit the form, it is passed to the security team. The app is reviewed, to check things like how safe it is to use, and whether there are any Data Privacy implications. The security team will respond to you with an answer as quickly as possible.
+
+**Note:** You should submit the request, and wait for a formal 'approval' response, *before* you install or use the app on MoJ equipment or information.
+
+If you have any questions about the process, contact the security team: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Other information
 
@@ -175,4 +183,8 @@ Refer to the [Guidance for using Open Internet Tools](guidance-for-using-open-in
 [Secure communications principles](https://www.ncsc.gov.uk/guidance/secure-communication-principles-alpha-release)
 
 [Using third-party applications](https://www.ncsc.gov.uk/collection/mobile-device-guidance/using-third-party-applications)
+
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

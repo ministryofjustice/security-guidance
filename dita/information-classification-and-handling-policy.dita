@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="information-classification-and-handling-policy">
+  <title>Information Classification and Handling Policy</title>
+  <topic id="introduction">
+    <title>Introduction</title>
+    <body>
+      <p>This document provides the core set of IT security principles and expectations on the handling and classification of information on <ph conref="conrefs.dita#conrefs/mojlong"/> IT systems.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> stores and processes a wide variety of information,
+        some of which attracts an HMG protective marking or contains personal information.
+        The <ph conref="conrefs.dita#conrefs/moj"/> has a duty to protect all the information stored and processed on its IT systems.</p>
+      <p>This policy outlines the Information Classification and Handling Policy for all information held on <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</p>
+    </body>
+  </topic>
+  <topic id="scope">
+    <title>Scope</title>
+    <body>
+      <p>This policy covers all staff (including contractors and agency staff) who use <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</p>
+      <p>The overarching policy on information classification and handling is
+        maintained by <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Security</xref>.
+        This document only contains IT specific policies which are in addition to the overarching policy.</p>
+      <p>The overarching policy can be found <xref href="government-classification-scheme.dita" format="dita">here</xref>.</p>
+      <p>All Users <b>must be</b> made aware of the Information Classification and Handling Policy,
+        and provided with security awareness training which covers this policy.</p>
+      <p>All Users <b>must be</b> provided with refresher security awareness training which covers this policy every 12 months.</p>
+    </body>
+  </topic>
+  <topic id="inventory-of-assets">
+    <title>Inventory of assets</title>
+    <body>
+      <p>All information assets need be identified and have a nominated asset owner,
+        to help ensure that the appropriate protection of these assets is maintained.</p>
+      <p>Examples of what an information asset constitutes are:
+      <ul>
+        <li>Databases and data files.</li>
+        <li>System documentation.</li>
+        <li>User manuals, training material, operational or support procedures.</li>
+        <li>Security documentation such as RMADS or disaster recovery plans.</li>
+        <li>Archived backup data.</li>
+      </ul></p>
+      <p>The list of information assets and associated Information Assets Owners is coordinated and maintained by individual <ph conref="conrefs.dita#conrefs/moj"/> business groups,
+        where the responsibility resides with the business group SIRO.</p>
+      <p>All <ph conref="conrefs.dita#conrefs/moj"/> business groups <b>must maintain</b> a list of information assets,
+        their associated named Information Asset Owner (IAO),
+        and which IT systems they reside on.
+        <note>Some information assets might not be held on IT systems.</note></p>
+    </body>
+  </topic>
+  <topic id="deriving-a-classification">
+    <title>Deriving a classification</title>
+    <body>
+      <p>At the <ph conref="conrefs.dita#conrefs/moj"/>,
+        all information assets are assessed against HMG guidance on business impact,
+        and HMG guidance on the protection of personal data.
+        This assessment is used to select the appropriate classification from
+        the <xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">Government Security Classification scheme</xref>.</p>
+      <p>All information assets stored or processed on <ph conref="conrefs.dita#conrefs/moj"/> IT systems <b>must be</b> assessed for a Business Impact Level,
+        where an impact level for the Confidentiality, Integrity and Availability for each asset is derived.</p>
+      <p>All Users are responsible for applying the appropriate classification to information assets created or handled on an IT system,
+        where a pre-existing classification does not exist.
+        <note>As outlined in <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> IT Security Policy</xref>,
+          each IT system is required to have a Business Impact Assessment (BIA).
+          This BIA should be used to record the assessment rational and decision on the impact levels for Confidentiality, Integrity and Availability.</note></p>
+      <p id="further-classification-information">Further information on the criteria and derivation for classification can be found at: <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/" format="htm" scope="external">https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/</xref>.</p>
+    </body>
+  </topic>
+  <topic id="application-of-government-classification">
+  <title>Application of Government classification</title>
+  <body>
+  <p>The Government classification scheme defines how information should be labelled and handled.
+    Output from IT systems containing information that is classified must carry classification labels where it is <codeph>OFFICIAL</codeph> or higher.
+    This includes, but is not limited to, printed reports, removable media, electronic messages (such as e-mail) and file transfers.</p>
+  <p>All IT hardware and removable media assets <b>must</b> be labelled with the highest classification
+    from among each of the individual information assets stored or processed on it.
+    <note>This classification might be reduced if sufficient security controls are applied, for example whole disk encryption, and if there is agreement with the system assurer or <ph conref="conrefs.dita#conrefs/cisolong"/>.</note></p>
+  <p>All output from an IT system <b>must</b> be given the classification of the highest of each of the individual information assets contained within that output.</p>
+  <p>Where applying a classification label is not feasible, an alternative method <b>must be</b> agreed with the system assurer or <ph conref="conrefs.dita#conrefs/ciso"/>.</p>
+    <p conref="#deriving-a-classification/further-classification-information"/>
+  </body>
+  </topic>
+  <topic id="information-handling-on-moj-it-systems">
+  <title>Information handling on <ph conref="conrefs.dita#conrefs/moj"/> IT systems</title>
+  <body>
+  <p>The <ph conref="conrefs.dita#conrefs/moj"/> policy for handling classified material
+    applies to all <ph conref="conrefs.dita#conrefs/moj"/> IT assets and all outputs from an IT system.</p>
+  </body>
+  </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

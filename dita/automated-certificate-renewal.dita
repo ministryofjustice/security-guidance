@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="automated-certificate-renewal">
   <title>Automated certificate renewal</title>
@@ -15,4 +14,5 @@
       <p>To request a manually issued certificate, complete the <xref href="https://docs.google.com/document/d/14XbWoudZd-t4-J3mDBcrAeafAbqxwvdkV-u3Zf8eLOs/edit?usp=sharing" format="html" scope="external">certificate request form</xref> and send it, with a <xref href="https://docs.gandi.net/en/ssl/common_operations/csr.html#generate-csr" format="html" scope="external">Certificate Signing Request (CSR)</xref> (and an authority email approval if not an <ph conref="conrefs.dita#conrefs/moj"/> employee e.g. 3rd party supplier), to <xref href="mailto:certificates@digital.justice.gov.uk" format="email" scope="external">certificates@digital.justice.gov.uk</xref>.</p>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

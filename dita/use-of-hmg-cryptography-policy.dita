@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="use-of-hmg-cryptography-policy" >
+  <title>Use of HMG Cryptography Policy</title>
+    <topic id="legacyreferences" conref="conrefs.dita#conrefs/legacyreferences"><title/></topic>
+  <topic id="about-this-document" >
+    <title>About this document</title>
+    <body>
+      <p>This document is the <ph conref="conrefs.dita#conrefs/mojlong"/> IT Security – Use of HMG Cryptography Policy. It provides the core set of principles, expectations, roles and responsibilities for using HMG cryptographic material.</p>
+    </body>
+    <topic id="how-to-use-this-document" >
+      <title>How to use this document</title>
+      <body>
+        <p>Each policy statement outlines a security requirement and where applicable, a reference is provided to further material. A unique identifier is associated with each statement for easy reference. The format of each statement is illustrated below:</p>
+          <dl>
+              <dlentry>
+                  <dt>POL.CRYPTO.XXX</dt>
+                  <dd>Policy statement text.</dd>
+              </dlentry>
+          </dl>
+        <p>The policies outlined in this document form the baseline standard. However this policy is not a replacement for HMG Information Assurance Standard No. 4 - Management of Cryptographic Systems [Ref, 2]. HMG IAS4 remains the primary reference source where this policy provides a supplement to it.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="use-of-hmg-cryptography-policy-1" >
+    <title>Use of HMG Cryptography Policy</title>
+    <topic id="introduction" >
+      <title>Introduction</title>
+      <body>
+          <dl>
+              <dlentry>
+                  <dt>POL.CRYPTO.001</dt>
+                  <dd>It is the policy of the <ph conref="conrefs.dita#conrefs/moj"/> to follow the policy of HMG Information Assurance Standard 4. This document endorses and augments that policy. Where the local policy contained herein, if different to HMG Policy, the local policy overrides HMG policy and must be adhered to.</dd>
+              </dlentry>
+          </dl>
+      </body>
+    </topic>
+    <topic id="scope" >
+      <title>Scope</title>
+      <body>
+        <p>This policy is concerned with the use of HMG cryptographic material used on any <ph conref="conrefs.dita#conrefs/moj"/> IT system and/or where HMG cryptographic material is obtained through the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+      </body>
+    </topic>
+    <topic id="purpose" >
+      <title>Purpose</title>
+      <body>
+        <p><ph conref="conrefs.dita#conrefs/moj"/> uses a wide range of cryptography products or various classifications and is serviced by several suppliers. This policy is intended to supplement the HMG IAS4 [Ref, 2] and assist suppliers to procure encryption from CESG and manage its life cycle.</p>
+      </body>
+    </topic>
+    <topic id="audience" >
+      <title>Audience</title>
+      <body>
+        <p>Anyone who wants to obtain encryption from CESG and everyone who is, or needs to be, CRYPTO or ACCSEC authorised (see glossary) to handle Key Variables (KV) or hardware.</p>
+        <p>In accordance with HMG IAS4 [Ref, 2] encryption is only provided for fully accredited systems. There are long lead times to obtain encryption products from CESG (which fluctuate between 8-12 weeks and are always subject to change). It is recognised that there needs to be some flexibility in the process to order encryption and this guide helps meet that requirement.</p>
+      </body>
+    </topic>
+    <topic id="definitions" >
+      <title>Definitions</title>
+      <body>
+          <dl>
+              <dlentry>
+                  <dt>Trusted Hand</dt>
+                  <dd>An individual who is at least BPSS cleared and recognised as a member of staff of a supplier.</dd>
+              </dlentry>
+          </dl>
+      </body>
+    </topic>
+    <topic id="communication" >
+      <title>Communication</title>
+      <body>
+          <dl>
+              <dlentry>
+                  <dt>POL.CRYPTO.002</dt>
+                  <dd>The use of secure email <b>must be</b> used a primary method of communication for all and any communications from suppliers in respect of cryptography to the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian, Communications Security Officer (COMSO) and IT Security Officer (ITSO) regardless of whether the protective marking is UNCLASSIFIED or NOT PROTECTIVELY MARKED and up to RESTRICTED.</dd>
+              </dlentry>
+          </dl>
+        <p>Acceptable secure e-mail methods are GSi, xGSi and CJSM accounts. All queries towards CESG must be forwarded to the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian and/or COMSO. CESG must not be contacted direct.</p>
+      </body>
+    </topic>
+    <topic id="new-requirements-for-encryption-andor-hardware" >
+      <title>New requirements for encryption and/or hardware</title>
+      <body>
+        <p>As soon as the need for encryption is identified the system Accreditor, the COMSO must be informed by the Project Manager and agreement sought for the need for the hardware, software and encryption from CESG.</p>
+        <p>The process requires that an applicant is appointed and that applicant is responsible for ensuring that the product is suitable for the requirement and it is their responsibility to familiarise themselves with the CESG Security Operating Procedures (SyOPs) for that product. The applicant can delegate this element to someone else but that person must be identified to the other parties of this approval process.</p>
+          <dl>
+              <dlentry>
+                  <dt>POL.CRYPTO.003</dt>
+                  <dd>The Project Manager <b>must appoint</b> an applicant. Exceptionally, the applicant can be the Project Manager. The applicant <b>must contact</b> the vendor of the encryption product and obtain the latest version of the CESG macro enabled word application form to complete.</dd>
+              </dlentry>
+          </dl>
+        <p>This form must be completed by the applicant with a full explanation of the requirement and attached with, if appropriate, a diagram (e.g. MS Visio diagram) which explains the solution and this must be sent to the COMSO, Accreditor and <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian for approval with the application form.
+            <note>The applicant is responsible for ensuring that the product is suitable and meets the desired business requirement.</note></p>
+        <p>If the solution requiring encryption has not yet been Accredited (at the time the application is being drafted), or if the current RMADS need to be updated to accommodate this requirement, a timetable must be set out for the delivery of draft RMADS and SyOPs, this <b>must be</b> attached to the application form.</p>
+        <p>The COMSO and Accreditor must both approve and notify the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian in order for the form to be sent to CESG for processing.</p>
+        <p>If any of the conditions above have not been met the form cannot be processed and this may cause delays.</p>
+        <p>Further processing is required by the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian and upon dispatch to CESG the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian will give the applicant a reference number (hereafter referred to as the IAB account number) which must be referred to in any future communications regarding the requirement.</p>
+      </body>
+    </topic>
+    <topic id="increase-in-a-community-usage-of-crypto" >
+      <title>Increase in a community (usage of Crypto)</title>
+      <body>
+        <p>When it is necessary to increase the number of licences, changes to hardware or otherwise change how Crypto used, the applicant must obtain the latest form from the vendor and send the form to the Accreditor and COMSO for approval. The applicant must refer to the CESG X reference which can be found in the documentation that the supplier holds.</p>
+          <dl>
+              <dlentry>
+                  <dt>POL.CRYPTO.004</dt>
+                  <dd>The applicant <b>must determine</b> whether or not a change to the RMADS or SyOPs are necessary and confirm this on application. If changes are required it must be declared how and when this will happen.</dd>
+              </dlentry>
+              <dlentry>
+                  <dt>POL.CRYPTO.005</dt>
+                  <dd>The Accreditor and COMSO <b>must</b> both agree and approve the change and advise the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian.</dd>
+              </dlentry>
+          </dl>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian will forward the approved form to CESG for processing and any notifications from CESG will be advised by the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian to the applicant.</p>
+      </body>
+    </topic>
+    <topic id="authority-to-operate-certificate" >
+      <title>Authority to Operate Certificate</title>
+      <body>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian and the Vendor will be advised by CESG of the Authority to operate and this will be forwarded to the applicant by the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian, with this certificate the applicant can purchase the relevant hardware or licences from the vendor.</p>
+        <p>It is the responsibility of the applicant to raise any relevant purchase orders though the <ph conref="conrefs.dita#conrefs/moj"/> purchase order system or progress the financial procurement for the product through other channels.</p>
+      </body>
+    </topic>
+    <topic id="crypto-and-accsec-authorisation" >
+      <title>CRYPTO and ACCSEC authorisation</title>
+      <body>
+        <p>If there is a requirement to store Key Variables locally, the supplier must appoint a Local Crypto Custodian (LCC) and Local Alternate Crypto Custodian (LACC). Both must attend the CESG training course for Crypto Custodians and be sponsored by the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian.</p>
+        <p>Any subject who handles Key Variables for the <ph conref="conrefs.dita#conrefs/moj"/> must be SC cleared and CRYPTO or ACCSEC authorised initially by the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian. The subject must provide the details on the Crypto Authorisation form through secure channels and provide the contact details of the vetting office which approved their clearance.</p>
+          <dl>
+              <dlentry>
+                  <dt>POL.CRYPTO.006</dt>
+                  <dd>Every 12 months the LCC and LACC <b>must re-authorise</b> each other and check that their clearances are still valid and this must be evidenced and recorded with the authorisation form for audit purposes.</dd>
+              </dlentry>
+          </dl>
+        <p>If the LCC or LACC CRYPTO or ACCSEC authorises anyone else locally, there are responsible for checking the security clearances and maintaining and renewing the authorisation or de-authorisation process and keeping records available for inspection and audit by the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian or Authority.</p>
+      </body>
+    </topic>
+    <topic id="delivery-of-key-variables" >
+      <title>Delivery of Key Variables</title>
+      <body>
+        <p>When Key Variables arrives and has been checked and recorded by the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian an email will be sent to the applicant to inform them that their Key Variables has arrived.</p>
+      </body>
+    </topic>
+    <topic id="key-variables-distribution" >
+      <title>Key Variables distribution</title>
+      <body>
+        <p>All Key Variables is stored and managed centrally by the <ph conref="conrefs.dita#conrefs/moj"/> with some exceptions such as hard disk encryption which suppliers need to store locally.</p>
+        <p>There are special arrangements for the local storage of Key Variables which must be agreed with the COMSO.</p>
+          <dl>
+              <dlentry>
+                  <dt>POL.CRYPTO.007</dt>
+                  <dd>Key Variables <b>must not</b> be deployed unless the encryption solution is accredited or the timetable has been set out and agreed on its delivery, draft RMADS and final SyOPs must be made available to the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian.</dd>
+              </dlentry>
+              <dlentry>
+                  <dt>POL.CRYPTO.008</dt>
+                  <dd>The applicant <b>must agree</b> with the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian how the Key Variables is to be deployed, or provide the details of the person who will manage this if it is not the applicant. Generally speaking the Key Variables is retained at <ph conref="conrefs.dita#conrefs/moj"/> HQ and issued out for a short period of time in order to encrypt the system and then returned to <ph conref="conrefs.dita#conrefs/moj"/> HQ for storage.</dd>
+              </dlentry>
+          </dl>
+        <p>Key Variables distribution as follows (in order of preference);</p>
+        <ol>
+          <li>
+            <p>Collected from and returned to <ph conref="conrefs.dita#conrefs/moj"/> HQ by a CRYPTO or ACCSEC authorised person and transported in a secure lockable container (such as a lockable briefcase or a CPNI approved transportation container).</p>
+          </li>
+          <li>
+            <p>Collected and returned by trusted hand for transportation in a secure lockable container to a CRYPTO or ACCSEC authorised person in tamper evident packaging using the usual Government Protective Marking Scheme (GPMS).</p>
+          </li>
+          <li>
+            <p>Dispatched from and returned by a reputable courier who guarantees delivery within 24 hours and provides a tracking service (not Royal Mail). The Key Variables must be sealed within tamper evident packaging and appropriately protected. Suppliers must take full responsibility for this process and arrange for courier to collect and return.</p>
+          </li>
+        </ol>
+      </body>
+    </topic>
+    <topic id="key-variables-management" >
+      <title>Key Variables Management</title>
+      <body>
+          <dl>
+              <dlentry>
+                  <dt>POL.CRYPTO.009</dt>
+                  <dd>The management of Key Variables <b>must be</b> in accordance with HMG IAS4 Supplement 7 [Ref, 3].</dd>
+              </dlentry>
+          </dl>
+      </body>
+    </topic>
+    <topic id="key-variables-destruction" >
+      <title>Key Variables Destruction</title>
+      <body>
+          <dl>
+              <dlentry>
+                  <dt>POL.CRYPTO.010</dt>
+                  <dd>Suppliers <b>must not</b> under any circumstances destroy Key Variables. All Key Variables must be returned to the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian for destruction.</dd>
+              </dlentry>
+          </dl>
+      </body>
+    </topic>
+    <topic id="business-continuity" >
+      <title>Business continuity</title>
+      <body>
+          <dl>
+              <dlentry>
+                  <dt>POL.CRYPTO.011</dt>
+                  <dd>The <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian, the Alternate Crypto Custodian and any authorised signatories and or people who have access to the safes where cryptographic material that is managed by the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian is stored must conform to the IT Security Policy - HMG Cryptography Business Continuity Management Standard [Ref, 4].</dd>
+              </dlentry>
+          </dl>
+      </body>
+    </topic>
+    <topic id="annual-audit-of-crypto" >
+      <title>Annual Audit of Crypto</title>
+      <body>
+        <p>Every 12 months the COMSO will inspect the arrangements for sites locally storing Key Variables. A date will be agreed with the COMSO to inspect the premises, audit the paperwork and check the crypto stock.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="references" >
+    <title>References</title>
+    <body>
+      <table>
+        <tgroup cols="3">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col3" colnum="3"/>
+          <thead>
+            <row>
+              <entry colname="col1">ID</entry>
+              <entry colname="col2">Title</entry>
+              <entry colname="col3">Version / Issue</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">1</entry>
+              <entry colname="col2">IT Security Policy</entry>
+              <entry colname="col3">V1-00</entry>
+            </row>
+            <row>
+              <entry colname="col1">2</entry>
+              <entry colname="col2">HMG IS4 - Management of Cryptographic Systems</entry>
+              <entry colname="col3">Issue 5.1, Apr 2011</entry>
+            </row>
+            <row>
+              <entry colname="col1">3</entry>
+              <entry colname="col2">HMG IS4 - Supplement No.7 - Accounting of Cryptographic Items</entry>
+              <entry colname="col3">Issue 1.0, Apr 2011</entry>
+            </row>
+            <row>
+              <entry colname="col1">4</entry>
+              <entry colname="col2">IT Security Policy - HMG Cryptography Business Continuity Management Standard</entry>
+              <entry colname="col3">V0-01</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </body>
+  </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

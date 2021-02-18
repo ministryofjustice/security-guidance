@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="technical-security-controls-guide">
   <title>Technical Security Controls Guide</title>
-  <body/>
   <topic id="introduction">
     <title>Introduction</title>
     <body>
@@ -45,4 +43,5 @@ Layer 1 sets out the technical controls required to build strong network foundat
 Layer 2 builds a monitoring capability for the network and extends existing security controls to mobile devices.</p>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

@@ -80,11 +80,13 @@
           <li>Mailbox owners can manage and revoke access themselves.</li>
           <li>Federated sharing is not possible unless configured at the application management level.
           This prevents users in one email community from sharing calendar or other email information with recipients in other email communities.</li>
-          <li>Auto-forwards to external email services<fn>An external email service is any service that is outside the <pre>gov.uk</pre> domain.</fn> are not possible.
+          <li>Auto-forwards to external email services are not possible.
             This includes preventing auto-forwards to personal email accounts.</li>
         </ul></p>
+        <note conref="conrefs.dita#conrefs/noteexternalemail"/>
       <p>For further details see the <xref href="privileged-account-management-guide.dita" format="dita">Privileged Account Management Guide</xref>.</p>
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

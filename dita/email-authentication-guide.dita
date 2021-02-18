@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="email-authentication-guide">
   <title>Email Authentication Guide</title>
@@ -14,7 +13,7 @@
   <topic id="sender-policy-framework">
     <title>Sender Policy Framework</title>
     <body>
-      <p>Sender Policy Framework (SPF) should be implemented for your email domains.  SPF enables organisations to publish a Domain Name System (DNS) record of all the domains and IP addresses which are trusted for sending and receiving email.</p>
+      <p><xref href="https://en.wikipedia.org/wiki/Sender_Policy_Framework" scope="external" format="html">Sender Policy Framework (SPF)</xref> should be implemented for your email domains.  SPF enables organisations to publish a Domain Name System (DNS) record of all the domains and IP addresses which are trusted for sending and receiving email.</p>
       <ul>
         <li>
           <p>SPF is verified by checking a specific TXT DNS entry in emails; emails will be flagged if they are not sent from the domains and IP addresses published in the DNS record.</p>
@@ -42,7 +41,7 @@
   <topic id="domain-keys-identified-mail">
     <title>Domain Keys Identified Mail</title>
     <body>
-      <p>Domain Keys Identified Mail (DKIM) should be enabled for all <ph conref="conrefs.dita#conrefs/moj"/> email domains.  DKIM enables automatic filtering or rejection of emails that fail DKIM verification.</p>
+      <p><xref href="https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail" scope="external" format="html">Domain Keys Identified Mail (DKIM)</xref> should be enabled for all <ph conref="conrefs.dita#conrefs/moj"/> email domains.  DKIM enables automatic filtering or rejection of emails that fail DKIM verification.</p>
       <ul>
         <li>
           <p>DKIM can verify a sender domain by looking up the sender's public key published in the DNS. You can then determine if an email has been tampered with during transit (e.g. during a Man-In-The-Middle attack).</p>
@@ -62,7 +61,7 @@
   <topic id="domain-based-message-authentication-reporting-and-conformance">
     <title>Domain-based Message Authentication, Reporting and Conformance</title>
     <body>
-      <p>Domain-based Message Authentication, Reporting and Conformance (DMARC) is an email authentication standard that must be used with SPF and DKIM to confirm sender's email addresses and flag any emails that have been spoofed or otherwise tampered with.</p>
+      <p><xref href="https://en.wikipedia.org/wiki/DMARC" scope="external" format="html">Domain-based Message Authentication, Reporting and Conformance (DMARC)</xref> is an email authentication standard that must be used with SPF and DKIM to confirm sender's email addresses and flag any emails that have been spoofed or otherwise tampered with.</p>
       <p>By using DMARC:</p>
       <ul>
         <li>
@@ -191,16 +190,11 @@
     <title>Contact details</title>
     <body>
       <ul>
-        <li>
-          <p>Contact Cyber Assistance Team for advice on email security: <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></p>
-        </li>
-        <li>
-          <p>For any further questions relating to security, please contact: <xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></p>
-        </li>
-        <li>
-          <p>For DNS changes and associated advice, please contact: the Platforms and Architecture team at <xref href="mailto:domains@digital.justice.gov.uk" format="email" scope="external">domains@digital.justice.gov.uk</xref></p>
-        </li>
+        <li>Contact Cyber Assistance Team for advice on email security: <ph conref="conrefs.dita#conrefs/catemail"/>.</li>
+        <li>For any further questions relating to security, please contact: <ph conref="conrefs.dita#conrefs/securityemail"/>.</li>
+        <li>For DNS changes and associated advice, please contact: the Platforms and Architecture team at <xref href="mailto:domains@digital.justice.gov.uk" format="email" scope="external">domains@digital.justice.gov.uk</xref>.</li>
       </ul>
     </body>
   </topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

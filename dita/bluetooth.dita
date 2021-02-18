@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="bluetooth">
 	<title>Bluetooth</title>
-	<body/>
 	<topic id="introduction">
 		<title>Introduction</title>
 		<body>
@@ -18,7 +16,7 @@
 				<li>you are aware of the problems around Bluetooth, and can take the necessary safety precautions</li>
 			</ul>
 			</p>
-			<p><note importance="high">Remember that there might be local rules that apply regarding the use of Bluetooth devices. A good example is in Prisons, where use of Bluetooth would not be available by default. Ensure that you check with local requirements.</note></p>
+			<note importance="high">Remember that there might be local rules that apply regarding the use of Bluetooth devices. A good example is in Prisons, where use of Bluetooth would not be available by default. Ensure that you check with local requirements.</note>
 		</body>
 	</topic>
 	<topic id="accessibility">
@@ -143,10 +141,6 @@
 			<p>Generally speaking, Bluetooth devices do not present extra problems when working with <codeph>OFFICIAL</codeph> material. However, the whole point of Bluetooth is to enable and simplify communications, so you need to be extra careful when using Bluetooth devices while working on <codeph>OFFICIAL-SENSITIVE</codeph> or higher material.</p>
 		</body>
 	</topic>
-	<topic id="getting-more-help">
-		<title>Getting more help</title>
-		<body>
-			<p conref="conrefs.dita#conrefs/contactcatbyemail"></p>
-		</body>
-	</topic>
+	<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+	<topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
