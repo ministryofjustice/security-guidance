@@ -900,7 +900,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="online-identifiers.dita" format="dita">Online identifiers in security logging &amp; monitoring</xref></entry>
+                <entry colname="col1" align="left"><xref href="logging-and-monitoring.dita" format="dita">Logging and monitoring</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="online-identifiers.dita" format="dita">Online identifiers in security logging and monitoring</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>

@@ -2,6 +2,11 @@
 
 Ministry of Justice \(MoJ\) systems and services must adequately create and retain event data as part of the [DETECT](identify-protect-detect-respond-recover.md#) portion of the [Cabinet Office's Minimum Cyber Security Standard \(MCSS\)](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard).
 
+**Related information**  
+
+
+[Logging and monitoring](logging-and-monitoring.md)
+
 ## MoJ Cyber Security Logging Platform
 
 The MoJ Cyber Security team operate a centralised, scalable, multi-tenant, cloud-based log collection and forwarding system for infrastructure \(non-application level\) log data.

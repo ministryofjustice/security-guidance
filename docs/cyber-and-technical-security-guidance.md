@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 17 February 2021.
+**Note:** This guidance is dated: 18 February 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|On request.|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|On request.|
 
-The offline versions of this guidance are time-limited, and are not valid after 17 March 2021.
+The offline versions of this guidance are time-limited, and are not valid after 18 March 2021.
 
 ### Searching this content
 
@@ -244,7 +244,8 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |[Accounting](accounting.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Commercial off-the-shelf applications](cots-applications.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Custom Applications](custom-applications.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Online identifiers in security logging & monitoring](online-identifiers.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Logging and monitoring](logging-and-monitoring.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Online identifiers in security logging and monitoring](online-identifiers.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Protective Monitoring Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/protective-monitoring-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Security Log Collection](security-log-collection.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Security Log Collection: Enterprise IT - Infrastructure](enterprise-it-infrastructure.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|

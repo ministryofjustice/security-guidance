@@ -181,16 +181,18 @@ if an audience attribute is present, then only matching content is included.
 		<topichead audience="audience-suppliers audience-tech">
 			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Logging and monitoring</navtitle></topicmeta>
 			<topicref href="accounting.dita" type="topic" audience="audience-suppliers audience-tech"/>
-			<topicref href="cots-applications.dita" type="topic" audience="audience-tech"/>
-			<topicref href="custom-applications.dita" type="topic" audience="audience-tech"/>
-			<topicref href="online-identifiers.dita" type="topic" audience="audience-tech"/>
+			<topicref href="cots-applications.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="custom-applications.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="logging-and-monitoring.dita" type="topic" audience="audience-suppliers audience-tech">
+				<topicref href="online-identifiers.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			</topicref>
 			<topichead audience="audience-suppliers audience-tech">
 				<topicmeta audience="audience-suppliers audience-tech"><navtitle>Security Log Collection</navtitle></topicmeta>
-				<topicref href="security-log-collection.dita" type="topic" audience="audience-tech"/>
-				<topicref href="enterprise-it-infrastructure.dita" type="topic" audience="audience-tech"/>
-				<topicref href="enterprise-it-mobile-devices.dita" type="topic" audience="audience-tech"/>
-				<topicref href="hosting-platforms.dita" type="topic" audience="audience-tech"/>
-				<topicref href="log-entry-metadata.dita" type="topic" audience="audience-tech"/>
+				<topicref href="security-log-collection.dita" type="topic" audience="audience-suppliers audience-tech"/>
+				<topicref href="enterprise-it-infrastructure.dita" type="topic" audience="audience-suppliers audience-tech"/>
+				<topicref href="enterprise-it-mobile-devices.dita" type="topic" audience="audience-suppliers audience-tech"/>
+				<topicref href="hosting-platforms.dita" type="topic" audience="audience-suppliers audience-tech"/>
+				<topicref href="log-entry-metadata.dita" type="topic" audience="audience-suppliers audience-tech"/>
 				<topicref href="security-log-collection-maturity-tiers.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			</topichead>
 		</topichead>
@@ -333,4 +335,28 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="risk-reviews.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 	</topichead>
+
+	<reltable>
+		<relheader>
+			<relcolspec type="topic"/>
+			<relcolspec type="topic"/>
+		</relheader>
+		<relrow audience="audience-basic audience-tech">
+			<relcell>
+				<topicref href="laptops.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="lost-laptophardware.dita"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="logging-and-monitoring.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="security-log-collection.dita"/>
+			</relcell>
+		</relrow>
+	</reltable>
+
 </map>
