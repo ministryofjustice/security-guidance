@@ -18,9 +18,9 @@ This policy gives an overview of information security principles and responsibil
 
 This guide is aimed at three audiences:
 
-1. Technical users: these are in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge (EPICK) Team.
-2. Service Providers: defined as any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the MoJ.
-3. General users: all other staff working for the MoJ.
+1. **Technical users**: these are in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge (EPICK) Team.
+2. **Service Providers**: defined as any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the MoJ.
+3. **General users**: all other staff working for the MoJ.
 
 'All MoJ users' refers to General users, Technical users and Service Providers as defined above.
 
