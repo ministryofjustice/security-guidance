@@ -50,10 +50,13 @@
         <li>Ensure all email communications are protected according to the classification of the information held within them.
           See the Information Classification Handling and Security Guide for further information.</li>
         <li>Discourage downloading of data to mobile devices by promoting the use cloud services such as Office 365.</li>
-        <li>Ensure suspected or actual phishing emails are easily reported to the Technology Service Desk as email attachments.</li>
+        <li>Ensure suspected or actual phishing emails are easily reported to the Technology Service Desk as email attachments.
+          Do this by contacting your <xref href="#general-enquiries-including-theft-and-loss" format="dita">appropriate service desk</xref>.</li>
         <li>Ensure email services are appropriately authenticated.
           Refer to the <xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref> for more information.</li>
-        <li>Ensure secure email messaging services and, where necessary, encryption tools are used to transfer sensitive information and system secrets.
+        <li>Enable opportunistic encryption of emails in transit.
+          This means that wherever possible,
+          encryption should be used to transfer information.
           Refer to the <xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref> for further guidance.</li>
         <li>Ensure that email configuration is secure and all necessary technical controls, including those set out in the <xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide</xref> are implemented and kept up to date.</li>
       </ul>
@@ -76,10 +79,16 @@
             In other words, when an email account is created, no-one has delegate access immediately.</li>
           <li>Access cannot be delegated to people outside the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
           <li>When delegate access is enabled, it is for a limited period of time.
-          In other words, delegate access cannot be enabled permanently.</li>
+          In most email systems,
+          cancellation of delegation cannot be scheduled; it requires a manual step.
+          Therefore, as part of the process of enabling delegate access,
+          there must be a reminder or alerting mechanism to review and cancel the delegation at an expiry date and time.</li>
           <li>Mailbox owners can manage and revoke access themselves.</li>
-          <li>Federated sharing is not possible unless configured at the application management level.
-          This prevents users in one email community from sharing calendar or other email information with recipients in other email communities.</li>
+          <li>There is no 'federated' sharing.
+          In other words,
+          users in one email community cannot share calendar or other email information with recipients in other email communities.
+          For example,
+          it should not be possible for someone in a <codeph>securityteam@email.address</codeph> to delegate access to <codeph>developerteam@another.email.address</codeph>.</li>
           <li>Auto-forwards to external email services are not possible.
             This includes preventing auto-forwards to personal email accounts.</li>
         </ul></p>
@@ -87,6 +96,7 @@
       <p>For further details see the <xref href="privileged-account-management-guide.dita" format="dita">Privileged Account Management Guide</xref>.</p>
     </body>
   </topic>
+  <topic id="general-enquiries-including-theft-and-loss" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title/></topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
