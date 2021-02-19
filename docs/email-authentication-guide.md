@@ -8,7 +8,7 @@ This guide identifies the security controls that must be implemented at the doma
 
 ## Sender Policy Framework
 
-Sender Policy Framework \(SPF\) should be implemented for your email domains. SPF enables organisations to publish a Domain Name System \(DNS\) record of all the domains and IP addresses which are trusted for sending and receiving email.
+[Sender Policy Framework \(SPF\)](https://en.wikipedia.org/wiki/Sender_Policy_Framework) should be implemented for your email domains. SPF enables organisations to publish a Domain Name System \(DNS\) record of all the domains and IP addresses which are trusted for sending and receiving email.
 
 -   SPF is verified by checking a specific TXT DNS entry in emails; emails will be flagged if they are not sent from the domains and IP addresses published in the DNS record.
 
@@ -30,7 +30,7 @@ To correct SPF failures you should add the sending systems you use to your SPF r
 
 ## Domain Keys Identified Mail
 
-Domain Keys Identified Mail \(DKIM\) should be enabled for all MoJ email domains. DKIM enables automatic filtering or rejection of emails that fail DKIM verification.
+[Domain Keys Identified Mail \(DKIM\)](https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail) should be enabled for all MoJ email domains. DKIM enables automatic filtering or rejection of emails that fail DKIM verification.
 
 -   DKIM can verify a sender domain by looking up the sender's public key published in the DNS. You can then determine if an email has been tampered with during transit \(e.g. during a Man-In-The-Middle attack\).
 
@@ -43,7 +43,7 @@ Domain Keys Identified Mail \(DKIM\) should be enabled for all MoJ email domains
 
 ## Domain-based Message Authentication, Reporting and Conformance
 
-Domain-based Message Authentication, Reporting and Conformance \(DMARC\) is an email authentication standard that must be used with SPF and DKIM to confirm sender's email addresses and flag any emails that have been spoofed or otherwise tampered with.
+[Domain-based Message Authentication, Reporting and Conformance \(DMARC\)](https://en.wikipedia.org/wiki/DMARC) is an email authentication standard that must be used with SPF and DKIM to confirm sender's email addresses and flag any emails that have been spoofed or otherwise tampered with.
 
 By using DMARC:
 
@@ -120,10 +120,11 @@ GSI is no longer used but the following addresses still route through to `@justi
 
 ## Contact details
 
--   Contact Cyber Assistance Team for advice on email security: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
+-   Contact Cyber Assistance Team for advice on email security: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+-   For any further questions relating to security, please contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+-   For DNS changes and associated advice, please contact: the Platforms and Architecture team at [domains@digital.justice.gov.uk](mailto:domains@digital.justice.gov.uk).
 
--   For any further questions relating to security, please contact: [security@justice.gov.uk](mailto:security@justice.gov.uk)
+## Feedback
 
--   For DNS changes and associated advice, please contact: the Platforms and Architecture team at [domains@digital.justice.gov.uk](mailto:domains@digital.justice.gov.uk)
-
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

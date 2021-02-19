@@ -25,12 +25,7 @@ The MoJ is permitted to use the service for free as a central government organis
 Cyber Consultants & Risk Advisors:
 
 -   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
--   Slack:
-
-    ```
-    #security
-    ```
-
+-   Slack: `#security`
 
 ## Feedback
 

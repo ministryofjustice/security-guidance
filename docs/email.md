@@ -27,7 +27,7 @@ Be aware that the MoJ monitors the use of electronic communications and web-brow
 
 ### Monitoring
 
-To be clear, the MoJ does monitor Email services for security purposes.
+The MoJ does monitor all Email for security purposes.
 
 ## Email threats
 
@@ -73,7 +73,9 @@ You might also be auto-forwarding emails sent to you from outside the MoJ; perha
 
 When an email is sent to you, you are responsible for ensuring that everything in the email is handled correctly. This means looking after it to the standard required for that information. You mustn't send that information to another email address, where the required security standards might not be met.
 
-Never use auto-forwarding to forward emails from your MoJ business email address to another non-MoJ email address[1](#fntarg_1). In particular, never forward email from your MoJ business email address to a personal email address.
+Never use auto-forwarding to forward emails from your MoJ business email address to another non-MoJ email address. In particular, never forward email from your MoJ business email address to a personal email address.
+
+**Note:** An external email service is any service that is outside the `gov.uk` domain.
 
 There might be occasions when you have a genuine business need to auto-forward email to another email account, where the new address has the same or higher security standards. An example is forwarding from an MoJ business email address to another MoJ business email address. If you have business need for this, [ask](#contact-details) for help.
 
@@ -176,15 +178,9 @@ Stories about giveaways by large companies. If you only send this on, some big c
 
 ##### Malicious warnings \(virus hoaxes\)
 
-Warnings about Trojans, viruses, and other malicious code that have no basis in fact, for example
+These are warnings about Trojans, viruses, and other malicious code, that have no basis in fact.
 
-```
-Jdbgmgr.exe
-```
-
-.
-
-Virus hoaxes have flooded the internet with thousands of viruses worldwide. Paranoia in the internet community fuels such hoaxes. An example of this is the “Good Times” virus hoax, which started in 1994 and is still circulating the internet today. Instead of spreading from one computer to another by itself, Good Times relies on people to pass it along.
+Virus hoaxes have flooded the internet with thousands of viruses worldwide. Paranoia in the internet community fuels such hoaxes. An example of this is the [“Good Times” virus hoax](https://en.wikipedia.org/wiki/Goodtimes_virus), which started in 1994 and is still circulating the internet today. Instead of spreading from one computer to another by itself, Good Times relies on people to pass it along.
 
 ##### Sympathy letters and requests to help someone
 
@@ -251,7 +247,7 @@ You must not access the email accounts of any other users, unless you are author
 -   During an employee investigation relating to misconduct or a security incident, for example IT misuse.
 -   Upon the death or unexpected exit of an employee, for example for the retrieval of key information and closing down an account.
 
-Ideally, access will have been organised in advance of an absence. But this is not always the case; sometimes there are unexpected or unusual circumstances. Gaining access in such situations will require substantial escalation to [management, Data Privacy and Security teams](#contact-details).
+Ideally, access will have been organised in advance of an absence. But this is not always the case; sometimes there are unexpected or unusual circumstances. Gaining access in such situations will require substantial escalation to [management and Data Privacy and Security teams](#contact-details).
 
 Anyone needing access to someone else's email account should read the [Privileged Account Management Guide](privileged-account-management-guide.md), then [get in touch for further assistance](#contact-details).
 
@@ -278,23 +274,12 @@ Dom1/Quantum - Technology Service Desk:
 
 -   Tel: 0800 917 5148
 
-**Note:** The previous
-
-```
-itservicedesk@justice.gov.uk
-```
-
-email address is no longer being monitored.
+**Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
 
 Digital &amp; Technology - Digital Service Desk:
 
 -   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
--   Slack:
-
-    ```
-    #digitalservicedesk
-    ```
-
+-   Slack: `#digitalservicedesk`
 
 HMPPS Information & security:
 
@@ -304,10 +289,4 @@ HMPPS Information & security:
 ## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
-
-[1](#fnsrc_1) An external email service is any service that is outside the ```
-gov.uk
-```
-
- domain.
 

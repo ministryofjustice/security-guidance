@@ -16,32 +16,7 @@ To protect against spam and phishing attacks, the MoJ will make use of governmen
 
 Spoofing attacks may be mitigated by:
 
--   Implementing SPF, DKIM and DMARC e.g. sender information
-
-    ```
-    from
-    ```
-
-    ,
-
-    ```
-    reply-to
-    ```
-
-    ,
-
-    ```
-    return-path
-    ```
-
-    and even
-
-    ```
-    x-origin
-    ```
-
-    can be spoofed \(please refer to the [Email Authentication Guide](email-authentication-guide.md) for further guidance\).
-
+-   Implementing SPF, DKIM and DMARC e.g. sender information `from`, `reply-to`, `return-path` and even `x-origin` can be spoofed \(please refer to the [Email Authentication Guide](email-authentication-guide.md) for further guidance\).
 -   Using secure email gateways.
 -   Implementing access controls, such as [multi factor authentication\(MFA\)](multi-factor-authentication-mfa-guide.md), to avoid an attacker gaining access to credentials for an email account where they could legitimately spoof the sender's email address.
 
@@ -52,33 +27,8 @@ DMARC must also be implemented on non-email sending domains as they can be easil
 -   Once parked domains are protected, they must be configured to automatically renew by default. If you are a domain owner you should aim to do the following to protect a parked domain:
     1.  Create a SPF record with no permitted senders so that no IP is authorised to send email for your parked domain.
     2.  Include a RUA address to which aggregate reports can be sent. These will provide you with visibility of potential abuse.
-    3.  If you have an
-
-        ```
-        A
-        ```
-
-        record on your domain, but no
-
-        ```
-        MX
-        ```
-
-        records, you should create a null
-
-        ```
-        MX
-        ```
-
-        record to immediately fail any email to that domain.
-
--   Create a record of type
-
-    ```
-    MX
-    ```
-
-    , with a priority of 0 \(highest priority\).
+    3.  If you have an `A` record on your domain, but no `MX` records, you should create a null `MX` record to immediately fail any email to that domain.
+-   Create a record of type `MX`, with a priority of 0 \(highest priority\).
 
     A null DKIM record isn't required, as email will be treated the same as if it had no record at all. However, recipients may treat a null DKIM record with extra caution, as it explicitly revokes any keys that may be cached.
 
@@ -138,12 +88,14 @@ To provide protection against email security threats, implement the following co
 
 -   Implement anti-malware software. Refer to the [Malware Protection Guidance](malware-protection-guide-introduction.md) for more information.
 -   Install only the minimal mail server services required. Eliminate known vulnerabilities through patches, configurations and upgrades. Refer to the Vulnerability Scanning and Patch Management Guide for more information.
--   Implement external email warning messages to insert text \(usually in the subject line\) into an email when it is identified as coming from outside of the MoJ[1](#fntarg_1).
+-   Implement external email warning messages to insert text \(usually in the subject line\) into an email when it is identified as coming from outside of the MoJ.
 -   Develop email security management plans to define best practices for employees.
 -   Use SMTP alert policies to track malware activity and data loss incidents from anti-malware software.
 -   Ensure there is no unnecessary detail on the MoJ website or webmail by considering what visitors need to know with the aim of reducing the threat of spear phishing.
 -   Restrict auto-forwarding. Refer to the [Secure Email Transfer Guide](secure-email-transfer-guide.md) for more information.
 -   Restrict delegate access. Refer to the [Email Security Guide](email-security-guide.md) for more information.
+
+**Note:** An external email service is any service that is outside the `gov.uk` domain.
 
 The [Email Authentication Guide](email-authentication-guide.md) provides further detail on the email authentication controls mentioned in this guide.
 
@@ -158,12 +110,7 @@ If you think your email service provision has been susceptible to spam or a viru
 Operational Security Team:
 
 -   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
--   Slack:
-
-    ```
-    #security
-    ```
-
+-   Slack: `#security`
 
 ## Contact details
 
@@ -172,9 +119,7 @@ Operational Security Team:
 -   [To report an incident](reporting-an-incident.md).
 -   Suppliers to the MoJ should first ask their usual MoJ points of contact.
 
-[1](#fnsrc_1) An external email service is any service that is outside the ```
-gov.uk
-```
+## Feedback
 
- domain.
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

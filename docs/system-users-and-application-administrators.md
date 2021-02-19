@@ -120,12 +120,7 @@ By signing below I acknowledge that I have read the Security Operating Procedure
 Operational Security Team:
 
 -   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
--   Slack:
-
-    ```
-    #security
-    ```
-
+-   Slack: `#security`
 
 ## General enquiries, including theft and loss
 
@@ -133,23 +128,12 @@ Dom1/Quantum - Technology Service Desk:
 
 -   Tel: 0800 917 5148
 
-**Note:** The previous
-
-```
-itservicedesk@justice.gov.uk
-```
-
-email address is no longer being monitored.
+**Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
 
 Digital &amp; Technology - Digital Service Desk:
 
 -   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
--   Slack:
-
-    ```
-    #digitalservicedesk
-    ```
-
+-   Slack: `#digitalservicedesk`
 
 HMPPS Information & security:
 

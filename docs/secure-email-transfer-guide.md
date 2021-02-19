@@ -8,12 +8,7 @@ This guide instructs technical users of the services and encryption tools they s
 
 You should ensure that email communication is sufficiently secured before transferring sensitive information, such as:
 
--   ```
-OFFICIAL-SENSITIVE
-```
-
-    classified information such as personal data.
-
+-   `OFFICIAL-SENSITIVE` classified information such as personal data.
 -   API and other application keys/credentials \(including within containers\).
 -   SSH Keys.
 -   Database and other system-to-system passwords.
@@ -26,14 +21,7 @@ OFFICIAL-SENSITIVE
 Technical users should ensure that any service that is capable of sending and receiving email uses enforced TLS to encrypt messages:
 
 -   The Ministry of Justice \(MoJ\) should always use the latest version of TLS.
--   TLS is required for sending to
-
-    ```
-    gov.uk
-    ```
-
-    .
-
+-   TLS is required for sending to `gov.uk`.
 -   Any MoJ domains that do not support TLS must be documented in an exceptions list and an exception rule authorised by the DNS provider. Refer to the [Email Authentication Guide](email-authentication-guide.md) for DNS provider contact details.
 -   Where mandatory TLS encryption is not suitable:
     -   Use certificates from Certificate Authorities, making sure they are always valid and use strong encryption, algorithms and key lengths.
@@ -60,15 +48,7 @@ Technical users must select the most suitable system for their users and configu
 
 |Secure Messaging Options|Examples|
 |------------------------|--------|
-|Cloud Email Solutions \(securing to the Government Secure Standard\)|Office 365 \(```
-@justice.gov.uk
-```
-
-\) or Google Workspace \(```
-@digital.justice.gov.uk
-```
-
-\)|
+|Cloud Email Solutions \(securing to the Government Secure Standard\)|Office 365 \(`@justice.gov.uk`\) or Google Workspace \(`@digital.justice.gov.uk`\)|
 |Supplementary Email Solutions|CJSM|
 
 ## Cloud email solutions
@@ -113,30 +93,11 @@ Examples of agencies and CJPs outside the GSC are:
 CJSM offers two mechanisms for connection:
 
 1.  CJSM mailbox \(webmail\) hosts a mailbox on behalf of the user. A user accesses the mailbox via either a standard internet browser or a POP3 email client.
-2.  CJSM server connection \(SMTP\) is deployed to act as an encryption proxy for any email traffic containing a destination address ending in
+2.  CJSM server connection \(SMTP\) is deployed to act as an encryption proxy for any email traffic containing a destination address ending in `cjsm.net`. All CJSM servers require a certificate issued by Egress to be installed. Session keys are established for each transaction.
 
-    ```
-    cjsm.net
-    ```
+✔ All MoJ users can send or receive over CJSM by adding `.CJSM.net` to the end of their MoJ email address.
 
-    . All CJSM servers require a certificate issued by Egress to be installed. Session keys are established for each transaction.
-
-
-✔ All MoJ users can send or receive over CJSM by adding
-
-```
-.CJSM.net
-```
-
-to the end of their MoJ email address.
-
-✔ CJSM may only be used to share information up to and including
-
-```
-OFFICIAL-SENSITIVE
-```
-
-.
+✔ CJSM may only be used to share information up to and including `OFFICIAL-SENSITIVE`.
 
 ✔ CJSM cannot be used with multi-client mail relay services like Mailgun, Mailchimp or AWS SES.
 
@@ -150,8 +111,10 @@ Configure email systems so that all outgoing emails are automatically appended w
 
 Configure email systems so that any auto-forwarding capability is used responsibly and in line with the MoJ's [Information Classification Handling and Security guidance](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/). Do this by ensuring that:
 
--   Auto-forward is not normally possible to external email addresses[1](#fntarg_1).
+-   Auto-forward is not normally possible to external email addresses.
 -   Auto-forward capability is not possible when an applicable MoJ standard, policy or guidance states that additional controls or protection must be implemented before sending an email.
+
+**Note:** An external email service is any service that is outside the `gov.uk` domain.
 
 ## Contact details
 
@@ -160,9 +123,7 @@ Configure email systems so that any auto-forwarding capability is used responsib
 -   [To report an incident](reporting-an-incident.md).
 -   Suppliers to the MoJ should first ask their usual MoJ points of contact.
 
-[1](#fnsrc_1) An external email service is any service that is outside the ```
-gov.uk
-```
+## Feedback
 
- domain.
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

@@ -37,9 +37,9 @@ All technical users are responsible for maintaining and using the MoJ's email co
 -   Where possible automate checks of the sender's authenticity by implementing the controls in the [Email Authentication Guide](email-authentication-guide.md).
 -   Ensure all email communications are protected according to the classification of the information held within them. See the Information Classification Handling and Security Guide for further information.
 -   Discourage downloading of data to mobile devices by promoting the use cloud services such as Office 365.
--   Ensure suspected or actual phishing emails are easily reported to the Technology Service Desk as email attachments.
+-   Ensure suspected or actual phishing emails are easily reported to the Technology Service Desk as email attachments. Do this by contacting your [appropriate service desk](#general-enquiries-including-theft-and-loss).
 -   Ensure email services are appropriately authenticated. Refer to the [Email Authentication Guide](email-authentication-guide.md) for more information.
--   Ensure secure email messaging services and, where necessary, encryption tools are used to transfer sensitive information and system secrets. Refer to the [Secure Email Transfer Guide](secure-email-transfer-guide.md) for further guidance.
+-   Enable opportunistic encryption of emails in transit. This means that wherever possible, encryption should be used to transfer information. Refer to the [Secure Email Transfer Guide](secure-email-transfer-guide.md) for further guidance.
 -   Ensure that email configuration is secure and all necessary technical controls, including those set out in the [Malware Protection Guide](malware-protection-guide-introduction.md) are implemented and kept up to date.
 
 Suppliers are permitted to use their own email services, if agreed in advance by the MoJ but, as a minimum, they must meet the security requirements in this guide and its related guides.
@@ -55,12 +55,32 @@ Where an email system permits delegation, ensure that:
 
 -   By default, delegate access is not initially operating for an email account. In other words, when an email account is created, no-one has delegate access immediately.
 -   Access cannot be delegated to people outside the MoJ.
--   When delegate access is enabled, it is for a limited period of time. In other words, delegate access cannot be enabled permanently.
+-   When delegate access is enabled, it is for a limited period of time. In most email systems, cancellation of delegation cannot be scheduled; it requires a manual step. Therefore, as part of the process of enabling delegate access, there must be a reminder or alerting mechanism to review and cancel the delegation at an expiry date and time.
 -   Mailbox owners can manage and revoke access themselves.
--   Federated sharing is not possible unless configured at the application management level. This prevents users in one email community from sharing calendar or other email information with recipients in other email communities.
--   Auto-forwards to external email services[1](#fntarg_1) are not possible. This includes preventing auto-forwards to personal email accounts.
+-   There is no 'federated' sharing. In other words, users in one email community cannot share calendar or other email information with recipients in other email communities. For example, it should not be possible for someone in a `securityteam@email.address` to delegate access to `developerteam@another.email.address`.
+-   Auto-forwards to external email services are not possible. This includes preventing auto-forwards to personal email accounts.
+
+**Note:** An external email service is any service that is outside the `gov.uk` domain.
 
 For further details see the [Privileged Account Management Guide](privileged-account-management-guide.md).
+
+## General enquiries, including theft and loss
+
+Dom1/Quantum - Technology Service Desk:
+
+-   Tel: 0800 917 5148
+
+**Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+
+Digital &amp; Technology - Digital Service Desk:
+
+-   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
+-   Slack: `#digitalservicedesk`
+
+HMPPS Information & security:
+
+-   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
+-   Tel: 0203 334 0324
 
 ## Contact details
 
@@ -69,9 +89,7 @@ For further details see the [Privileged Account Management Guide](privileged-acc
 -   [To report an incident](reporting-an-incident.md).
 -   Suppliers to the MoJ should first ask their usual MoJ points of contact.
 
-[1](#fnsrc_1) An external email service is any service that is outside the ```
-gov.uk
-```
+## Feedback
 
- domain.
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

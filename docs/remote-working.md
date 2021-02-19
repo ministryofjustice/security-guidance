@@ -124,23 +124,12 @@ Dom1/Quantum - Technology Service Desk:
 
 -   Tel: 0800 917 5148
 
-**Note:** The previous
-
-```
-itservicedesk@justice.gov.uk
-```
-
-email address is no longer being monitored.
+**Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
 
 Digital &amp; Technology - Digital Service Desk:
 
 -   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
--   Slack:
-
-    ```
-    #digitalservicedesk
-    ```
-
+-   Slack: `#digitalservicedesk`
 
 HMPPS Information & security:
 
@@ -154,24 +143,14 @@ HMPPS Information & security:
 Operational Security Team:
 
 -   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
--   Slack:
-
-    ```
-    #security
-    ```
-
+-   Slack: `#security`
 
 ### Privacy Advice
 
 Privacy Team:
 
 -   Email: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
--   Slack:
-
-    ```
-    #securityprivacyteam
-    ```
-
+-   Slack: `#securityprivacyteam`
 -   Intranet: [https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/)
 
 ### Cyber Security Advice
@@ -179,12 +158,7 @@ Privacy Team:
 Cyber Consultants & Risk Advisors:
 
 -   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
--   Slack:
-
-    ```
-    #security
-    ```
-
+-   Slack: `#security`
 
 ### Historic paper files urgently required by ministers, courts, or Public Inquiries
 
