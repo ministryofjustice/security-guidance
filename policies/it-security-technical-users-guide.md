@@ -43,18 +43,19 @@ The guide outlines the control design requirements that are needed to secure the
 
 ## Cryptography
 
-Cryptography is a method of securing information and communication channels to allow only authorised recipients and personnel to view the information. The MoJ's IT systems may use cryptographic technologies to provide secure connections to third party systems or protect information at rest on user devices (e.g. laptops and mobiles). Any staff member responsible for the use of cryptographic controls on an IT system must ensure that **all IT systems which require cryptographic controls must align with the HMG IA Standard No. 4 (IS4)**.
+Cryptography is a method of securing information and communication channels to allow only authorised recipients and personnel to view the information. The MoJ's IT systems must use cryptographic technologies to provide secure connections to third party systems or protect information at rest on user devices (e.g. laptops and mobiles).
 
-The MoJ's Staff who use cryptography must ensure they have the appropriate level of security clearance and that they are adhering to the following requirements:
+However, where staff have procured key material and/or hardware through the  United Kingdom Key Production Authority (UKKPA) or any other cryptographic items where National Cyber Security Centre (NCSC) dictate that national cryptographic policy applies, the NCSC dictate the policy and the [HMG IA Standard No. 4, Protective Security Controls for the Handling and Management of Cryptographic Items]() applies.
 
-- use of HMG cryptographic material or products must align with the HMG IA Standard No. 4 (IS4), and
-- the Chief Information Security Officer (CISO) is accountable to the SIRO and SSA for ensuring the MoJ's compliance with the minimum HMG  - Comsec and cryptography requirements and developing, implementing and maintaining organisational communications.
+The MoJ's Staff who use cryptography must ensure they have the appropriate level of security clearance. This requires secret (SC) level clearance for managing cryptography.
+
+The Chief Information Security Officer (CISO) is accountable to the Senior Information Risk Owner (SIRO) and Senior Security Advisor (SSA) for ensuring the MoJ's compliance with the minimum HMG - Comsec and cryptography requirements and developing, implementing and maintaining organisational communications.
 
 ## Software development
 
-The MoJ ensures that all in house development, including development performed by third parties, is performed according to industry best practices and standards, as laid out in the Software Development Lifecycle Guide.
+The MoJ ensures that all in house development, including development performed by third parties, is performed according to industry best practices and standards, as laid out in the Software Development Lifecycle Guide (SDLC).
 
-All MoJ developers must ensure they are aware of the importance of security when developing software and applications for MoJ use. The Software Development Lifecycle Policy addresses the required methodology to be used in code development and the security concerns that need to be accounted for during the development lifecycle.
+All MoJ developers must ensure they are aware of the importance of security when developing software and applications for MoJ use. The SDLC addresses the required methodology to be used in code development and the security concerns that need to be accounted for during the development lifecycle.
 
 ## Security incident management
 
@@ -66,19 +67,19 @@ The MoJ [IT Incident Management Guide](https://intranet.justice.gov.uk/guidance/
 
 ### IT Security
 
-For the MoJ [Information Assurance Framework Process](https://docs.google.com/document/d/1ni5bn9vXUj4JFKcoiEO8x31TFCE3AVWN-HxZcVzfNnc/edit?ts=5f10064a) to be effective, it must extend to organisations working on behalf of the MoJ or handling MoJ assets, such as contractors, offshore or nearshore managed service providers and suppliers of IT systems.
+For the MoJ [Information Assurance Framework Process](https://docs.google.com/document/d/1ni5bn9vXUj4JFKcoiEO8x31TFCE3AVWN-HxZcVzfNnc/edit?ts=5f10064a) to be effective, it must extend to organisations working on behalf of the MoJ or handling MoJ assets, such as contractors, offshore or nearshore managed service providers and suppliers of IT systems.  From this document, the Contract owner is responsible for ensuring that:
 
-- Supplier service delivery must be regularly monitored, reviewed and audited.
-- When the MoJ buys IT goods, services, systems or equipment, IT security implications must be considered.
-- All MoJ IT suppliers who handle and store information on behalf of the MoJ must be assessed annually against the HMG [Security Policy Framework][spf] and the MoJ's IT Security Policy (this document).  Additional self-assessment requirements may be stipulated in the contract between the IT supplier and the MoJ. The MoJ's IT suppliers are responsible for carrying out these self-assessments and for submitting those assessments to the MoJ.  The MoJ is responsible for approving the assessments submitted by the supplier.
-- Appropriate measures must be put in place for any supplier not meeting compliance requirements and the relevant MoJ teams must be notified and consulted.
-- All MoJ suppliers and contractors must adhere to the GDPR and the Data Protection Act 2018.
+- the supplier service delivery must be regularly monitored, reviewed and audited.
+- when the MoJ buys IT goods, services, systems or equipment, IT security implications must be considered.
+- all MoJ IT suppliers who handle and store information on behalf of the MoJ must be assessed annually against the HMG [Security Policy Framework][spf] and the MoJ's IT Security Policy.  Additional self-assessment requirements may be stipulated in the contract between the IT supplier and the MoJ. The MoJ's IT suppliers are responsible for carrying out these self-assessments and for submitting those assessments to the MoJ.  The MoJ is responsible for approving the assessments submitted by the supplier.
+- the appropriate measures must be put in place for any supplier not meeting compliance requirements and the relevant MoJ teams must be notified and consulted.
+- all MoJ suppliers and contractors adhere to the GDPR and the Data Protection Act 2018.
 
 Further advice can be found in the Information Classification, Handling and Security Guide.
 
 ### Physical and personnel Security
 
-The MoJ shall include appropriate clauses in a contract with any supplier which will define the classified matter that is furnished, or which is to be developed, under said contract.  This will include any relevant personnel security controls such as security clearance.  Not all contracts will require such clauses but where they are required and failing the inclusion of this information in the contract, a separate Security Aspects Letter (SAL) must be issued to the contractor along with the contract document.
+The Contract owner shall include appropriate clauses in a contract with any supplier which will define the classified matter that is furnished, or which is to be developed, under said contract.  This will include any relevant personnel security controls such as security clearance.  Not all contracts will require such clauses but where they are required and failing the inclusion of this information in the contract, a separate Security Aspects Letter (SAL) is issued to the contractor along with the contract document.
 
 ## Privileged users
 

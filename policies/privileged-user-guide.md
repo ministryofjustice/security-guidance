@@ -43,7 +43,7 @@ Privileged user accounts have a high degree of risk associated with them due to 
 - The password for a privileged user account must not be re-used for another privileged user account or a normal user account.
 - Privileged user passwords must be deleted along with the account when a privileged user leaves the MoJ or changes role.
 - Privileged user accounts on depreciated systems must be reviewed quarterly for breach as aging systems frequently cannot be, or are not, patched leaving them vulnerable to take over.
-- Multi Factor Authentication (MFA) must be used for privileged user accounts. See the [Password Guide](password-creation-and-authentication-guide.md) for further details.
+- Multi Factor Authentication (MFA) must be used for privileged user accounts where possible. See the [Password Guide](password-creation-and-authentication-guide.md) for further details.
 - Privileged user accounts must only be used when carrying out administrative tasks such as creating new user accounts or implementing software updates. At all other times a normal user account must be used, e.g. for tasks such as searching the internet and reading emails.
 - Privileged users must not abuse the privileges they are given, such as circumventing controls put in place to protect the MoJ.
 
@@ -80,6 +80,7 @@ When working remotely, it is important that privileged users operate securely by
 - not conducting administrative tasks (such as creating new user credentials) on untrusted public Wi-Fi networks.
 - ensuring that they are not overlooked when working on administrative tasks.
 - ensuring that they use the MoJ's Virtual private Network (VPN) to connect with MoJ systems when using Privileged user login details.
+- using only MoJ issued equipment to connect to the MoJ estate and to carry out MoJ business.
 
 Access to the VPN requires 2 Factor Authentication (2FA). The [IT Security Policy](it-security-policy.md) and [Remote Working](remote-working.md) guidance documents contain further information about Remote Working.
 
@@ -88,3 +89,5 @@ Access to the VPN requires 2 Factor Authentication (2FA). The [IT Security Polic
  - Contact the Cyber Assistance Team for advice: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
 
  - Contact the Technology Service Desk to report a suspected incident: 0800 917 5148.
+
+ - Contact the MoJ Group Security Team to report non-technology incidents - [mailto:mojgroupsecurity@justice.gov.uk](mojgroupsecurity@justice.gov.uk)
