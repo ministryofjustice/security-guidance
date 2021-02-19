@@ -1,5 +1,10 @@
 # Laptops
 
+**Related information**  
+
+
+[Lost Laptop or other IT security incident](lost-laptophardware.md)
+
 ## Storing data on laptops
 
 The guidance applies to all Ministry of Justice \(MoJ\) staff.
