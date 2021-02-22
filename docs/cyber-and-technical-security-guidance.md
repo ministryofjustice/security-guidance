@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 19 February 2021.
+**Note:** This guidance is dated: 22 February 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|On request.|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|On request.|
 
-The offline versions of this guidance are time-limited, and are not valid after 19 March 2021.
+The offline versions of this guidance are time-limited, and are not valid after 22 March 2021.
 
 ### Searching this content
 
@@ -365,6 +365,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Risk Assessment Process
 
+|[Risk assessment](risk-assessment.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Risk reviews](https://intranet.justice.gov.uk/guidance/security/it-computer-security/risk-reviews/)|All users|
 
 ## Other Guidance

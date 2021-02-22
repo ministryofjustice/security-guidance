@@ -49,6 +49,7 @@
         <li>The realistic likelihood of such a failure occurring in the light of the threats to and vulnerabilities of the system,
         and the controls currently implemented.</li>
       </ul></p>
+      <p audience="audience-tech">A sample risk assessment template, and a worked example, can be found <xref href="risk-assessment.dita" format="dita">here</xref>.</p>
     </body>
   </topic>
   <topic id="managing-information-security-risks">

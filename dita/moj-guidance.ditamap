@@ -332,7 +332,9 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 		<topichead audience="audience-basic audience-tech">
 			<topicmeta><navtitle>Risk Assessment Process</navtitle></topicmeta>
-			<topicref href="risk-reviews.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="risk-reviews.dita" type="topic" audience="audience-basic audience-tech">
+				<topicref href="risk-assessment.dita" type="topic" audience="audience-tech"/>
+			</topicref>
 		</topichead>
 	</topichead>
 

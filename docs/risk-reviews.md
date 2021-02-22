@@ -14,12 +14,17 @@ It is essential that the MoJ identify its information security requirements. The
 -   The principles, objectives and requirements for information processing that the MoJ and Government have developed to support their operations, for example the protective marking system and government baseline security standards.
 -   Assessed risks to the MoJ. Through risk assessment, threats to assets are identified, the potential business impacts of these threats are estimated, and the vulnerability to and likelihood of occurrence of the threats are evaluated.
 
+-   **[Risk Assessment](risk-assessment.md)**  
+
+
 ## Assessing information security risk
 
 Security requirements are identified by a methodical assessment of security risks. Expenditure on security controls needs to be balanced against the business harm likely to result from security failures. Risk assessment is systematic consideration of:
 
 -   The business harm \(the 'impact'\) which is likely to result from a security failure, taking into account the potential consequences of a loss of confidentiality, integrity or availability of the information and other assets.
 -   The realistic likelihood of such a failure occurring in the light of the threats to and vulnerabilities of the system, and the controls currently implemented.
+
+A sample risk assessment template, and a worked example, can be found [here](risk-assessment.md).
 
 ## Managing information security risks
 

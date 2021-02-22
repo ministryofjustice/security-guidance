@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="risk-assessment">
+  <title>Risk Assessment</title>
+  <body>
+    <p>A template risk assessment form can be found <xref href="images/risk-acceptance-template.docx" format="docx" scope="external">here</xref>.</p>
+    <p>An example risk assessment form can be found <xref href="images/risk-acceptance-sample.pdf" format="pdf" scope="external">here</xref>.</p>
+  </body>
+  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
