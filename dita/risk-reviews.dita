@@ -2,40 +2,44 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="risk-reviews">
   <title>Risk Reviews</title>
-  <body>
-    <p>Information and the supporting processes, systems and networks are important and valuable <ph conref="conrefs.dita#conrefs/mojlong"/> assets.
-      They are central to enabling the <ph conref="conrefs.dita#conrefs/moj"/> to perform its functions and provide services to the public,
-      the legal professions,
-      and other government departments and organisations.</p>
-    <p>Confidentiality, integrity and availability of information is essential to maintain
-      the <ph conref="conrefs.dita#conrefs/moj"/>'s ability to provide efficient and effective services,
-      maintain compliance with legal and regulatory requirements,
-      and maintain its and the Government's reputation.</p>
-    <p>The <ph conref="conrefs.dita#conrefs/moj"/> and its information systems and networks are faced with
-      security threats from a wide range of sources,
-      including computer-assisted fraud, sabotage, vandalism, fire and flood.
-      Sources of damage such as computer viruses, computer hacking and denial of service attacks have become more common,
-      more ambitious and increasingly sophisticated.</p>
-    <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s dependence on its information systems and services
-      means that there is always a possibility of technology-enabled security threats.
-      Connections between the <ph conref="conrefs.dita#conrefs/moj"/>'s computer networks and public and other private networks,
-      and sharing of information resources,
-      further increase the difficulty of achieving and maintaining control.</p>
-    <p>It is essential that the <ph conref="conrefs.dita#conrefs/moj"/> identify its information security requirements.
-      There are three main sources of these requirements.
-    <ul>
-      <li>The legal, statutory, regulatory and contractual requirements that the <ph conref="conrefs.dita#conrefs/moj"/>,
-      its partners, contractors and service providers have to satisfy.</li>
-      <li>The principles, objectives and requirements for information processing that the <ph conref="conrefs.dita#conrefs/moj"/>
-      and Government have developed to support their operations,
-      for example the protective marking system and government baseline security standards.</li>
-      <li>Assessed risks to the <ph conref="conrefs.dita#conrefs/moj"/>.
-      Through risk assessment,
-      threats to assets are identified,
-      the potential business impacts of these threats are estimated,
-      and the vulnerability to and likelihood of occurrence of the threats are evaluated.</li>
-    </ul></p>
-  </body>
+  <body/>
+  <topic id="overview">
+    <title>Overview</title>
+    <body>
+      <p>Information and the supporting processes, systems and networks are important and valuable <ph conref="conrefs.dita#conrefs/mojlong"/> assets.
+        They are central to enabling the <ph conref="conrefs.dita#conrefs/moj"/> to perform its functions and provide services to the public,
+        the legal professions,
+        and other government departments and organisations.</p>
+      <p>Confidentiality, integrity and availability of information is essential to maintain
+        the <ph conref="conrefs.dita#conrefs/moj"/>'s ability to provide efficient and effective services,
+        maintain compliance with legal and regulatory requirements,
+        and maintain its and the Government's reputation.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> and its information systems and networks are faced with
+        security threats from a wide range of sources,
+        including computer-assisted fraud, sabotage, vandalism, fire and flood.
+        Sources of damage such as computer viruses, computer hacking and denial of service attacks have become more common,
+        more ambitious and increasingly sophisticated.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s dependence on its information systems and services
+        means that there is always a possibility of technology-enabled security threats.
+        Connections between the <ph conref="conrefs.dita#conrefs/moj"/>'s computer networks and public and other private networks,
+        and sharing of information resources,
+        further increase the difficulty of achieving and maintaining control.</p>
+      <p>It is essential that the <ph conref="conrefs.dita#conrefs/moj"/> identify its information security requirements.
+        There are three main sources of these requirements.
+      <ul>
+        <li>The legal, statutory, regulatory and contractual requirements that the <ph conref="conrefs.dita#conrefs/moj"/>,
+        its partners, contractors and service providers have to satisfy.</li>
+        <li>The principles, objectives and requirements for information processing that the <ph conref="conrefs.dita#conrefs/moj"/>
+        and Government have developed to support their operations,
+        for example the protective marking system and government baseline security standards.</li>
+        <li>Assessed risks to the <ph conref="conrefs.dita#conrefs/moj"/>.
+        Through risk assessment,
+        threats to assets are identified,
+        the potential business impacts of these threats are estimated,
+        and the vulnerability to and likelihood of occurrence of the threats are evaluated.</li>
+      </ul></p>
+      </body>
+  </topic>
   <topic id="assessing-information-security-risk">
     <title>Assessing information security risk</title>
     <body>

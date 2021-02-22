@@ -366,7 +366,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 #### Risk Assessment Process
 
 |[Risk assessment](risk-assessment.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Risk reviews](https://intranet.justice.gov.uk/guidance/security/it-computer-security/risk-reviews/)|All users|
+|[Risk reviews](risk-reviews.md)\([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/risk-reviews/)\)|All users|
 
 ## Other Guidance
 

@@ -1,5 +1,10 @@
 # Risk Reviews
 
+-   **[Risk Assessment](risk-assessment.md)**  
+
+
+## Overview
+
 Information and the supporting processes, systems and networks are important and valuable Ministry of Justice \(MoJ\) assets. They are central to enabling the MoJ to perform its functions and provide services to the public, the legal professions, and other government departments and organisations.
 
 Confidentiality, integrity and availability of information is essential to maintain the MoJ's ability to provide efficient and effective services, maintain compliance with legal and regulatory requirements, and maintain its and the Government's reputation.
@@ -13,9 +18,6 @@ It is essential that the MoJ identify its information security requirements. The
 -   The legal, statutory, regulatory and contractual requirements that the MoJ, its partners, contractors and service providers have to satisfy.
 -   The principles, objectives and requirements for information processing that the MoJ and Government have developed to support their operations, for example the protective marking system and government baseline security standards.
 -   Assessed risks to the MoJ. Through risk assessment, threats to assets are identified, the potential business impacts of these threats are estimated, and the vulnerability to and likelihood of occurrence of the threats are evaluated.
-
--   **[Risk Assessment](risk-assessment.md)**  
-
 
 ## Assessing information security risk
 

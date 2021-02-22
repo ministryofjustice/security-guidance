@@ -1326,12 +1326,8 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="risk-assessment.dita" format="dita">Risk assessment</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row platform="html">
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/risk-reviews/" format="html" scope="external">Risk reviews</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row platform="epub pdf">
-                <entry colname="col1" align="left"><xref href="risk-reviews.dita" format="dita">Risk reviews</xref></entry>
+              <row>
+                <entry colname="col1" align="left"><xref href="risk-reviews.dita" format="dita">Risk reviews</xref><ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/risk-reviews/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
             </tbody></tgroup></table>
