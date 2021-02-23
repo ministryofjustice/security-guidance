@@ -12,7 +12,7 @@ Target audience:
 
 ## Introduction
 
-This policy provides more information on the actions expected of Technical and Service Provider users when using MoJ equipment and infrastructure. It is a sub-page to the [IT Security Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-policy.md).
+This policy provides more information on the actions expected of Technical and Service Provider users when using MoJ equipment and infrastructure. It is a sub-page to the [IT Security Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-policy-overview.md).
 
 ## Who is this for?
 
