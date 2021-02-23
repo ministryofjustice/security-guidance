@@ -8,13 +8,15 @@ Target audience:
 
 [spf]: https://www.gov.uk/government/publications/security-policy-framework
 
-# IT Security Users Guide
+# IT Security All Users Policy
 
 ## Introduction
 
-This guide provides more information on the actions expected of all MoJ users when using MoJ equipment and infrastructure. This guide is a sub-page to the [IT Security Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-policy.md).
+This policy provides more information on the actions expected of all MoJ users when using MoJ equipment and infrastructure. It is a sub-page to the [IT Security Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-policy.md).
 
 ## Who is this for?
+
+This policy is aimed at:
 
 1. **Technical users**: these are in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge (EPICK) Team.
 2. **Service Providers**: defined as any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the MoJ.
@@ -32,7 +34,7 @@ The MoJ will ensure information security controls are designed and implemented t
 
 ## Assets
 
-This IT security guide applies to all premises, physical equipment, software and data owned or managed by the MoJ. This includes IT systems, whether developed by the MoJ or managed by IT service providers. It covers the use of IT equipment and the information processed on those IT systems, irrespective of location and provides direction and support to preserve the confidentiality, integrity and availability of MoJ resources.
+This policy applies to all premises, physical equipment, software and data owned or managed by the MoJ. This includes IT systems, whether developed by the MoJ or managed by IT service providers. It covers the use of IT equipment and the information processed on those IT systems, irrespective of location and provides direction and support to preserve the confidentiality, integrity and availability of MoJ resources.
 
 ## Information security classification
 

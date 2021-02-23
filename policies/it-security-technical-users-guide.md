@@ -8,15 +8,15 @@ Target audience:
 
 [spf]: https://www.gov.uk/government/publications/security-policy-framework
 
-# IT Security Technical Users Guide
+# IT Security Technical Users Policy
 
 ## Introduction
 
-This guide provides more information on the actions expected of Technical and Service Provider users when using MoJ equipment and infrastructure. This guide is a sub-page to the [IT Security Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-policy.md).
+This policy provides more information on the actions expected of Technical and Service Provider users when using MoJ equipment and infrastructure. It is a sub-page to the [IT Security Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-policy.md).
 
 ## Who is this for?
 
-This guide is aimed at:
+This policy is aimed at:
 
 1. **Technical users**: these are in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge (EPICK) Team.
 2. **Service Providers**: defined as any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the MoJ.
@@ -34,7 +34,7 @@ The guide includes patching schedules for the different MoJ systems and equipmen
 
 The MoJ [Technical Controls Guide](https://ministryofjustice.github.io/security-guidance/technical-security-controls-guide/#technical-security-controls-guide) ensures protection from unauthorised access or misuse of the MoJ IT systems, applications and data stored within them.
 
-The guide outlines the control design requirements that are needed to secure the MoJ network and IT assets in accordance with the three layers of defence. The guide addresses following areas:
+The policy outlines the control design requirements that are needed to secure the MoJ network and IT assets in accordance with the three layers of defence. The policy addresses following areas:
 
 - enforcing access controls in support of the [Access Control Guide](https://ministryofjustice.github.io/security-guidance/access-control-guide/#access-control-guide)
 - building adequate security for the MoJ network and network boundaries
@@ -45,7 +45,9 @@ The guide outlines the control design requirements that are needed to secure the
 
 Cryptography is a method of securing information and communication channels to allow only authorised recipients and personnel to view the information. The MoJ's IT systems must use cryptographic technologies to provide secure connections to third party systems or protect information at rest on user devices (e.g. laptops and mobiles).
 
-However, where staff have procured key material and/or hardware through the  United Kingdom Key Production Authority (UKKPA) or any other cryptographic items where National Cyber Security Centre (NCSC) dictate that national cryptographic policy applies, the NCSC dictate the policy and the [HMG IA Standard No. 4, Protective Security Controls for the Handling and Management of Cryptographic Items]() applies.
+However, where staff have procured key material and/or hardware through the  United Kingdom Key Production Authority (UKKPA) or any other cryptographic items where National Cyber Security Centre (NCSC) dictate that national cryptographic policy applies, the NCSC dictate the policy and the HMG IA Standard No. 4, Protective Security Controls for the Handling and Management of Cryptographic Items (IS4) applies.
+
+> Note: IS4 can be accessed by joining CiSP and joining the UKKPA-Crpy Key Policy and Incident Management Group
 
 The MoJ's Staff who use cryptography must ensure they have the appropriate level of security clearance. This requires secret (SC) level clearance for managing cryptography.
 
