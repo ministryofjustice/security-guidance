@@ -46,15 +46,15 @@ and other MoJ guidance.
 
 - protect information assets under the control of the organisation.  
 
-Further information can be found in the [IT Security All Users Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-all-users-guide.md).
+Further information can be found in the [IT Security All Users Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-all-users-policy.md).
 
 #### Technical users
 
-Technical users must follow the guidance set out for all MoJ users in [IT Security All Users Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-all-users-guide.md) and also comply with the [IT Security Technical and Service Provider Users Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-technical-and-service-provider-users-guide.md).
+Technical users must follow the guidance set out for all MoJ users in [IT Security All Users Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-all-users-policy.md) and also comply with the [IT Security Technical Users Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-technical-users-policy.md).
 
 #### Service providers
 
-Service Provides must follow the guidance set out for all MoJ users in [IT Security All Users Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-all-users-guide.md) and also comply with the [IT Security Technical and Service Provider Users Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-technical-and-service-provider-users-guide.md).
+Service Provides must follow the guidance set out for all MoJ users in [IT Security All Users Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-all-users-policy.md) and also comply with the [IT Security Technical Users Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-technical-users-policy.md).
 
 ## Enforcement
 - This policy is enforced by lower level policies, standards, procedures and guidance.
