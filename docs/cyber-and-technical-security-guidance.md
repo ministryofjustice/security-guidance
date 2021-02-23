@@ -84,7 +84,8 @@ The MoJ has developed our cyber and technical security taxonomy as follows:
 ||[User responsibilities](#user-responsibilities)|
 ||[System and application access control](#system-and-application-access-control)|
 |[Cryptography](#cryptography)|[Cryptographic controls](#cryptographic-controls)|
-|[Physical and environmental security](#physical-and-environmental-security)|[Equipment](#equipment)|
+|[Physical and environmental security](#physical-and-environmental-security)|[Secure areas](#secure-areas)|
+||[Equipment](#equipment)|
 |[Operations security](#operations-security)|[Operational procedures and responsibilities](#operational-procedures-and-responsibilities)|
 ||[Protection from malware](#protection-from-malware)|
 ||[Backup](#backup)|
@@ -208,6 +209,10 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Use of HMG Cryptography Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/use-of-hmg-cryptography-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 ### Physical and environmental security
+
+#### Secure areas
+
+|[Physical Security Policy](physical-security-policy.md)|All users|
 
 #### Equipment
 
