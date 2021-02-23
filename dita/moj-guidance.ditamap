@@ -186,6 +186,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="logging-and-monitoring.dita" type="topic" audience="audience-suppliers audience-tech">
 				<topicref href="online-identifiers.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			</topicref>
+			<topicref href="protective-monitoring.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topichead audience="audience-suppliers audience-tech">
 				<topicmeta audience="audience-suppliers audience-tech"><navtitle>Security Log Collection</navtitle></topicmeta>
 				<topicref href="security-log-collection.dita" type="topic" audience="audience-suppliers audience-tech"/>

@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="protective-monitoring-guide">
+<topic id="protective-monitoring">
   <title>Protective Monitoring Guide</title>
   <body/>
   <topic id="about-this-document">
     <title>About this document</title>
     <body>
+      <note>This is Legacy IA Policy.
+        It is under review and likely to be withdrawn or substantially revised soon.
+        Please contact us before using this on a new project: <ph conref="conrefs.dita#conrefs/itpolicycontentemail"/>
+      </note>
       <p>This policy applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
       <p>This document is the <ph conref="conrefs.dita#conrefs/moj"/> IT Security – Protective Monitoring Guide. It is designed to help protect <ph conref="conrefs.dita#conrefs/moj"/> ICT systems by providing implementation guidance for a protective monitoring solution.</p>
     </body>
@@ -25,18 +29,12 @@
       <body>
         <p>Protective Monitoring is a set of business processes, with essential support technology, that oversees how ICT systems are used and to assure user accountability for their use of ICT facilities. Protective monitoring places mechanisms for collecting ICT log information to provide an audit trail of defined security relevant events which can be used for reporting and alerting.</p>
         <p><xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">HMG Security Policy Framework (SPF)</xref> Mandatory Requirement 9 states that:</p>
-        <lq>
-          <p>Departments and Agencies must put in place an appropriate range of technical controls for all ICT systems, proportionate to the value, importance and sensitivity of the information held and the requirements of any interconnected systems.</p>
-        </lq>
-        <p>In order to meet that requirement, the SPF stipulates that ICT systems must:</p>
-        <blockquote>Put in place a proportionate risk based suite of technical policies and controls including:
-<?linebreak?>
-<?linebreak?>
-...
-<?linebreak?>
-<?linebreak?>
-IV. Protective Monitoring;
-</blockquote>
+        <lq>Departments and Agencies must put in place an appropriate range of technical controls for all ICT systems, proportionate to the value, importance and sensitivity of the information held and the requirements of any interconnected systems.</lq>
+        <p>In order to meet that requirement, the SPF stipulates that ICT systems must:
+          <lq>Put in place a proportionate risk based suite of technical policies and controls including:
+            ...
+            IV. Protective Monitoring;</lq>
+        </p>
         <p>Policy statements on protective monitoring are covered in <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/" format="html" scope="external">IT Security – Technical Controls Policy</xref>, while this document sets out the <ph conref="conrefs.dita#conrefs/moj"/> guidance for its implementation.</p>
       </body>
     </topic>
@@ -78,57 +76,27 @@ IV. Protective Monitoring;
         <p>The decision on how much information needs to be recorded in an accounting log requires a comprehensive assessment and must be consummate with the risks identified. Recording too much information can be as great a problem as recording too little. If too much information is recorded it can become extremely difficult to review and can cause performance and capacity problems for an ICT system.  If too little information is recorded it may be impossible to investigate a security incident effectively.</p>
         <p>A good method of analysing this problem is to have a structured approach whereby the different types of information which could be captured are analysed at the different levels of an ICT system (e.g. network, system and application), building a picture of the inter-relationships between the different accounting logs (at those different levels). For example, accounting may take place at the following levels:</p>
         <ul>
-          <li>
-            <p>Network accounting (e.g. logs created by network components, such as firewalls or domain controller);</p>
-          </li>
-          <li>
-            <p>System accounting (e.g. logs created by individual host systems, such as Windows server security logs);</p>
-          </li>
-          <li>
-            <p>Application accounting (e.g. logs created by individual applications).</p>
-          </li>
+          <li>Network accounting (e.g. logs created by network components, such as firewalls or domain controller);</li>
+          <li>System accounting (e.g. logs created by individual host systems, such as Windows server security logs);</li>
+          <li>Application accounting (e.g. logs created by individual applications).</li>
         </ul>
         <p>The network/systems logs can be used to record the following security events:</p>
         <ul>
-          <li>
-            <p>All actions taken by the Administrators;</p>
-          </li>
-          <li>
-            <p>All actions taken whilst using the database administrators' accounts;</p>
-          </li>
-          <li>
-            <p>All updates to operating system files;</p>
-          </li>
-          <li>
-            <p>All workstation time-outs;</p>
-          </li>
-          <li>
-            <p>Any attempts to copy the password file;</p>
-          </li>
-          <li>
-            <p>All updates to the application software;</p>
-          </li>
-          <li>
-            <p>Use of the system out of normal hours.</p>
-          </li>
+          <li>All actions taken by the Administrators;</li>
+          <li>All actions taken whilst using the database administrators' accounts;</li>
+          <li>All updates to operating system files;</li>
+          <li>All workstation time-outs;</li>
+          <li>Any attempts to copy the password file;</li>
+          <li>All updates to the application software;</li>
+          <li>Use of the system out of normal hours.</li>
         </ul>
         <p>The application logs tend to record almost all the actions that take place whilst an application is being used.  These tend include:</p>
         <ul>
-          <li>
-            <p>All failed log-on attempts;</p>
-          </li>
-          <li>
-            <p>All successful log-ins;</p>
-          </li>
-          <li>
-            <p>All log-offs;</p>
-          </li>
-          <li>
-            <p>All updates to a record;</p>
-          </li>
-          <li>
-            <p>Each time a record is viewed.</p>
-          </li>
+          <li>All failed log-on attempts;</li>
+          <li>All successful log-ins;</li>
+          <li>All log-offs;</li>
+          <li>All updates to a record;</li>
+          <li>Each time a record is viewed.</li>
         </ul>
       </body>
     </topic>
@@ -139,15 +107,9 @@ IV. Protective Monitoring;
         <p>Firstly, there are events which need to be checked on a regular basis because they could indicate that someone is actively trying to breach the security of the system. An example of this is unauthorised log-on attempts or copying of the password file.</p>
         <p>Secondly, when a breach of security is detected (or reported), the work which was being conducted on the system at that time in order to identify:</p>
         <ul>
-          <li>
-            <p>How the breach of security occurred;</p>
-          </li>
-          <li>
-            <p>Who was responsible for the breach;</p>
-          </li>
-          <li>
-            <p>The amount of damage caused by the breach.</p>
-          </li>
+          <li>How the breach of security occurred;</li>
+          <li>Who was responsible for the breach;</li>
+          <li>The amount of damage caused by the breach.</li>
         </ul>
         <p>To support an investigation into a security incident, it is important to have a range of flexible reporting tools which allow the investigator to sort through the accounting information collected in a variety of different ways, and allows interconnections to be made between data derived from different sources.</p>
         <p><b>Note:</b> When considering what types of information which should be captured and what auditing should be implemented, it is important to ensure that the relevant IT Security Incident Management Plan is factored into the decision making process. This is to ensure that any protective monitoring solution supports the identification, alerting and investigation of security incidents. Further information can be found in the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/" format="html" scope="external">IT Security - Incident Management Plan and Process Guide</xref>.</p>
@@ -164,25 +126,12 @@ IV. Protective Monitoring;
       <body>
         <p>The business process for protective monitoring is captured in Figure 1 of <xref href="https://www.ncsc.gov.uk/guidance/protective-monitoring-hmg-ict-systems-gpg-13" format="html" scope="external">CESG GPG No.13</xref>. This section covers the stages which should be followed when developing a protective monitoring schema:</p>
         <ul>
-          <li>
-            <p>The key questions which must be applied which selecting protective monitoring control items;</p>
-          </li>
-          <li>
-            <p>The minimum protective monitoring requirement;</p>
-          </li>
-          <li>
-            <p>Selecting minimum control objectives;</p>
-          </li>
-          <li>
-            <p>Setting the minimum audit requirement;</p>
-          </li>
-          <li>
-            <p>Reporting and service validation.</p>
-          </li>
+          <li>The key questions which must be applied which selecting protective monitoring control items;</li>
+          <li>The minimum protective monitoring requirement;</li>
+          <li>Selecting minimum control objectives;</li>
+          <li>Setting the minimum audit requirement;</li>
+          <li>Reporting and service validation.</li>
         </ul>
-        <p>
-          <xref id="key-questions"/>
-        </p>
       </body>
     </topic>
     <topic id="key-questions">
@@ -190,35 +139,18 @@ IV. Protective Monitoring;
       <body>
         <p>The following key questions cover items which should be thought about when selecting protective monitoring controls:</p>
         <ul>
-          <li>
-            <p>What is being audited and monitored? In terms of:</p>
+          <li>What is being audited and monitored? In terms of:
             <ul>
-              <li>
-                <p>Usage scenarios - what users are allowed to do and which actions need to be accounted for;</p>
-              </li>
-              <li>
-                <p>Exceptions and how they will be detected - what users are not allowed to do or what would constitute suspicious activity;</p>
-              </li>
-              <li>
-                <p>The complexity in terms of the different types of connectivity to support these interactions (e.g. air-gapped systems, electronic exchanges, remote access, wireless, Internet services, etc.).</p>
-              </li>
+              <li>Usage scenarios - what users are allowed to do and which actions need to be accounted for;</li>
+              <li>Exceptions and how they will be detected - what users are not allowed to do or what would constitute suspicious activity;</li>
+              <li>The complexity in terms of the different types of connectivity to support these interactions (e.g. air-gapped systems, electronic exchanges, remote access, wireless, Internet services, etc.).</li>
             </ul>
           </li>
-          <li>
-            <p>What information will be collected to support the accounting, audit and monitoring of these activities?</p>
-          </li>
-          <li>
-            <p>How the information gathered will be used (including both a list of permitted purposes and a list of prohibited purposes)?</p>
-          </li>
-          <li>
-            <p>Who will access the protective monitoring data and their associated responsibilities?</p>
-          </li>
-          <li>
-            <p>How the information will be protected, stored, retained and disposed of?</p>
-          </li>
-          <li>
-            <p>How notification of monitoring is achieved and how user consent is obtained, or otherwise?</p>
-          </li>
+          <li>What information will be collected to support the accounting, audit and monitoring of these activities?</li>
+          <li>How the information gathered will be used (including both a list of permitted purposes and a list of prohibited purposes)?</li>
+          <li>Who will access the protective monitoring data and their associated responsibilities?</li>
+          <li>How the information will be protected, stored, retained and disposed of?</li>
+          <li>How notification of monitoring is achieved and how user consent is obtained, or otherwise?</li>
         </ul>
       </body>
     </topic>
@@ -293,10 +225,7 @@ IV. Protective Monitoring;
       <topic id="additional-control-objectives">
         <title>Additional control objectives</title>
         <body>
-          <p><b>Note:</b> During the risk assessment process, additional control objectives may be identified for inclusion into the set derived from <xref href="https://www.ncsc.gov.uk/guidance/protective-monitoring-hmg-ict-systems-gpg-13" format="html" scope="external">CESG GPG No.13</xref>. These additional control objectives must be recorded in the protective marking schema.</p>
-          <p>
-            <xref id="minimum-control-objectives"/>
-          </p>
+          <note> During the risk assessment process, additional control objectives may be identified for inclusion into the set derived from <xref href="https://www.ncsc.gov.uk/guidance/protective-monitoring-hmg-ict-systems-gpg-13" format="html" scope="external">CESG GPG No.13</xref>. These additional control objectives must be recorded in the protective marking schema.</note>
         </body>
       </topic>
     </topic>
@@ -311,9 +240,6 @@ IV. Protective Monitoring;
         <title>Control objectives extensibility</title>
         <body>
           <p>It is important to ensure that there is a mechanism in place to review, update or extend the protective monitoring controls once an ICT system is in live operation. This will occur when an ICT system undergoes the re-accreditation process, further details of which can be found in the <xref href="https://intranet.justice.gov.uk/documents/2015/04/accreditation-framework.pdf" format="pdf" scope="external">Accreditation Framework</xref>.</p>
-          <p>
-            <xref id="minimum-audit-requirements"/>
-          </p>
         </body>
       </topic>
     </topic>
@@ -322,25 +248,12 @@ IV. Protective Monitoring;
       <body>
         <p>The minimum audit requirement is specified in <xref href="https://www.ncsc.gov.uk/guidance/protective-monitoring-hmg-ict-systems-gpg-13" format="html" scope="external">CESG GPG No.13</xref> where the following provides the audit criteria which <b>must be</b> captured in the protective monitoring schema (a template table is provided <xref href="#audit-regime" format="html">here</xref> ):</p>
         <ul>
-          <li>
-            <p>The retention period of any protective monitoring data captured;</p>
-          </li>
-          <li>
-            <p>Details on when log checks are to be carried;</p>
-          </li>
-          <li>
-            <p>Details on when the protective monitoring system is to be manned;</p>
-          </li>
-          <li>
-            <p>Details on when the system is to be subject to compliance review;</p>
-          </li>
-          <li>
-            <p>Details on the reporting structure (see <xref href="#reporting-structure" format="html">Reporting Structure</xref> ), which should be specified in terms of a weekly, monthly or annual report.</p>
-          </li>
+          <li>The retention period of any protective monitoring data captured;</li>
+          <li>Details on when log checks are to be carried;</li>
+          <li>Details on when the protective monitoring system is to be manned;</li>
+          <li>Details on when the system is to be subject to compliance review;</li>
+          <li>Details on the reporting structure (see <xref href="#reporting-structure" format="html">Reporting Structure</xref> ), which should be specified in terms of a weekly, monthly or annual report.</li>
         </ul>
-        <p>
-          <xref id="baseline-control-set-and-implementation-of-controls-objectives"/>
-        </p>
       </body>
     </topic>
     <topic id="baseline-control-set-and-implementation-of-controls-objectives">
@@ -412,46 +325,22 @@ IV. Protective Monitoring;
         <p>With Table 2 in mind <xref href="https://www.ncsc.gov.uk/guidance/protective-monitoring-hmg-ict-systems-gpg-13" format="html" scope="external">CESG GPG No.13</xref> outlines a number of options which should be consider when translating the identified control objectives into a protective monitoring solution which can be implemented in an ICT system.</p>
         <p>The following provides the typical list of components which can be put together to deliver a protective monitoring solution:</p>
         <ul>
-          <li>
-            <p>Security Information and Event Management (SIEM) system, which includes:</p>
+          <li>Security Information and Event Management (SIEM) system, which includes:
             <ul>
-              <li>
-                <p>Log collection;</p>
-              </li>
-              <li>
-                <p>Log analysers;</p>
-              </li>
-              <li>
-                <p>Filtering, query and pattern matching tools;</p>
-              </li>
-              <li>
-                <p>Reporting tools;</p>
-              </li>
-              <li>
-                <p>Computer forensic tools;</p>
-              </li>
-              <li>
-                <p>Network management system;</p>
-              </li>
+              <li>Log collection;</li>
+              <li>Log analysers;</li>
+              <li>Filtering, query and pattern matching tools;</li>
+              <li>Reporting tools;</li>
+              <li>Computer forensic tools;</li>
+              <li>Network management system;</li>
             </ul>
           </li>
-          <li>
-            <p>Intrusion Detection and Prevention System (IDS/IPS);</p>
-          </li>
-          <li>
-            <p>Network Intrusion Detection System (NIDS);</p>
-          </li>
-          <li>
-            <p>Host Intrusion Detection System (HIDS);</p>
-          </li>
-          <li>
-            <p>Wireless Intrusion Detection System (WIDS).</p>
-          </li>
+          <li>Intrusion Detection and Prevention System (IDS/IPS);</li>
+          <li>Network Intrusion Detection System (NIDS);</li>
+          <li>Host Intrusion Detection System (HIDS);</li>
+          <li>Wireless Intrusion Detection System (WIDS).</li>
         </ul>
         <p>A template is provided <xref href="#accounting-items" format="html">here</xref> to capture all the accounting items to be collected and where those items are collected.</p>
-        <p>
-          <xref id="reporting-structure"/>
-        </p>
       </body>
     </topic>
     <topic id="reporting-structure">
@@ -466,22 +355,11 @@ IV. Protective Monitoring;
       <body>
         <p>Once the protective monitoring schema has been generated and approved by the system Accreditor, the next step in delivering an effective protective monitoring solution is ensuring that the service provided is working as planned and that it is effectively gathering the data. This part of the protective monitoring solution must be document and should contain the following:</p>
         <ul>
-          <li>
-            <p>Details on the initial operational capability and the start date;</p>
-          </li>
-          <li>
-            <p>A defined series of service review points, specifically identifying the review of the control sets and the validation of data gathered;</p>
-          </li>
-          <li>
-            <p>A defined criteria for spurious or unnecessary data that should be identified during the validation period and removed from the log reporting/alerting mechanism;</p>
-          </li>
-          <li>
-            <p>Details on the full operational capability and the start date. At the point the protective monitoring service is fully operational, no changes may be made to the service without the approval of the system Accreditor.</p>
-          </li>
+          <li>Details on the initial operational capability and the start date;</li>
+          <li>A defined series of service review points, specifically identifying the review of the control sets and the validation of data gathered;</li>
+          <li>A defined criteria for spurious or unnecessary data that should be identified during the validation period and removed from the log reporting/alerting mechanism;</li>
+          <li>Details on the full operational capability and the start date. At the point the protective monitoring service is fully operational, no changes may be made to the service without the approval of the system Accreditor.</li>
         </ul>
-        <p>
-          <xref id="protective-monitoring-schema-template"/>
-        </p>
       </body>
     </topic>
   </topic>
@@ -494,7 +372,7 @@ IV. Protective Monitoring;
         <p>This section of the template captures the implementation details and compliance evidence for each protective monitoring control (PMC) specified in <xref href="https://www.ncsc.gov.uk/guidance/protective-monitoring-hmg-ict-systems-gpg-13" format="html" scope="external">CESG GPG No.13</xref>. A minimum control object for each PMC is entered and is intended to provide an initial starting position.</p>
         <p>Minimum control objective for PMC 1</p>
         <p>For PMC 1 the following is to be implemented:</p>
-        <table border="1">
+        <table>
           <tgroup cols="4">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
@@ -503,41 +381,42 @@ IV. Protective Monitoring;
             <tbody>
               <row valign="top">
                 <entry colname="col1">Detail</entry>
-                <entry colspan="3" colname="col2">Notes/Statement of Compliance</entry>
+                <entry colname="col2" namest="col2" nameend="col4">Notes/Statement of Compliance</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Accurate time in logs.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control Description</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
-                <entry colname="col1">Provide a means of providing accurate time in logs and synchronisation between system components to facilitate collation of events between those components.<?linebreak?><?linebreak?>The error margin for time accuracy is to be specified.</entry>
-                <entry colspan="3" colname="col2">[Use any of the following:
-<ul><li>Providing a master clock system component which is synchronised to an approved time source (e.g. GSi time source);</li><li>Updating device clocks from the master clock using the Network Time Protocol (NTP);</li><li>Record time in logs in a consistent format (Universal Co-ordinated Time (UTC) is recommended);] </li></ul>
-</entry>
+                <entry colname="col1">Provide a means of providing accurate time in logs and synchronisation between system components to facilitate collation of events between those components. The error margin for time accuracy is to be specified.</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Use any of the following:
+                  Providing a master clock system component which is synchronised to an approved time source (e.g. GSi time source);
+                  Updating device clocks from the master clock using the Network Time Protocol (NTP);
+                  Record time in logs in a consistent format (Universal Co-ordinated Time (UTC) is recommended)]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Objective</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Provide a centralised, single time reference for all components that are subject to monitoring.</entry>
-                <entry colspan="3" colname="col2">Any of the above may be used and an existing clock source within the support environment should be used where possible.</entry>
+                <entry colname="col2" namest="col2" nameend="col4">Any of the above may be used and an existing clock source within the support environment should be used where possible.</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Risk Level</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">VERY LOW/LOW/MEDIUM</entry>
-                <entry colspan="3" colname="col2">[Insert Risk level]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert Risk level]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Service Description</entry>
@@ -556,7 +435,7 @@ IV. Protective Monitoring;
         </table>
         <p>Minimum control objective for PMC 2</p>
         <p>For PMC 2 the following is to be implemented:</p>
-        <table border="1">
+        <table>
           <tgroup cols="4">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
@@ -565,39 +444,39 @@ IV. Protective Monitoring;
             <tbody>
               <row valign="top">
                 <entry colname="col1">Detail</entry>
-                <entry colspan="3" colname="col2">Notes/Statement of Compliance</entry>
+                <entry colname="col2" namest="col2" nameend="col4">Notes/Statement of Compliance</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Recording of business traffic crossing a boundary.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control Description</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Provide reports, monitoring, recording and analysis of business traffic crossing a boundary with a view to ensuring traffic exchanges are authorised, conform to security policy, transport of malicious content is prevented and alerted, and that other forms of attack by manipulation of business traffic are detected or prevented.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Objective</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Ensure only authorised traffic is passed into and out of the PM environment.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry  colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Risk Level</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">VERY LOW/LOW/MEDIUM</entry>
-                <entry colspan="3" colname="col2">Insert Risk level</entry>
+                <entry colname="col2" namest="col2" nameend="col4">Insert Risk level</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Service Description</entry>
@@ -616,7 +495,7 @@ IV. Protective Monitoring;
         </table>
         <p>Minimum control objective for PMC 3</p>
         <p>For PMC 3 the following is to be implemented:</p>
-        <table border="1">
+        <table>
           <tgroup cols="4">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
@@ -625,39 +504,39 @@ IV. Protective Monitoring;
             <tbody>
               <row valign="top">
                 <entry colname="col1">Detail</entry>
-                <entry colspan="3" colname="col2">Notes/Statement of Compliance</entry>
+                <entry colname="col2" namest="col2" nameend="col4">Notes/Statement of Compliance</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Recording relating to suspicious activity at the boundary.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control Description</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Provide reports, monitoring, recording and analysis of network activity at the boundary with a view to detecting suspect activity that would be indicative of the actions of an attacker attempting to breach the system boundary or other deviation from normal business behaviour.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Objective</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Identify potential or actual attempts to access the ICT System  environment by an unauthorised individual who is external to the environment</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Risk Level</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">VERY LOW/LOW/MEDIUM</entry>
-                <entry colspan="3" colname="col2">
+                <entry colname="col2" namest="col2" nameend="col4">
                   <i>[Insert Risk level]</i>
                 </entry>
               </row>
@@ -678,7 +557,7 @@ IV. Protective Monitoring;
         </table>
         <p>Minimum control objective for PMC 4</p>
         <p>For PMC 4 the following is to be implemented:</p>
-        <table border="1">
+        <table>
           <tgroup cols="4">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
@@ -687,39 +566,39 @@ IV. Protective Monitoring;
             <tbody>
               <row valign="top">
                 <entry colname="col1">Detail</entry>
-                <entry colspan="3" colname="col2">Notes/Statement of Compliance</entry>
+                <entry colname="col2" namest="col2" nameend="col4">Notes/Statement of Compliance</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Recording on internal workstation, server or device status.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control Description</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Detect changes to device status and configuration.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Objective</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Identify and report authorised and unauthorised changes to the configuration of devices in the environment.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Risk Level</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">VERY LOW/LOW/MEDIUM</entry>
-                <entry colspan="3" colname="col2">
+                <entry colname="col2" namest="col2" nameend="col4">
                   <i>Insert Risk level</i>
                 </entry>
               </row>
@@ -740,7 +619,7 @@ IV. Protective Monitoring;
         </table>
         <p>Minimum control objective for PMC 5</p>
         <p>For PMC 5 the following is to be implemented:</p>
-        <table border="1">
+        <table>
           <tgroup cols="4">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
@@ -749,39 +628,39 @@ IV. Protective Monitoring;
             <tbody>
               <row valign="top">
                 <entry colname="col1">Detail</entry>
-                <entry colspan="3" colname="col2">Notes/Statement of Compliance</entry>
+                <entry colname="col2" namest="col2" nameend="col4">Notes/Statement of Compliance</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Recording relating to suspicious internal network activity.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control Description</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Monitor critical internal boundaries and resources within internal networks to detect suspicious activity that may indicate attacks either by internal users or by external attackers who have penetrated to the internal network.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Objective</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Identify internal and external attacks on the environment network.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Risk Level</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">VERY LOW/LOW/MEDIUM</entry>
-                <entry colspan="3" colname="col2">
+                <entry colname="col2" namest="col2" nameend="col4">
                   <i>Insert Risk level</i>
                 </entry>
               </row>
@@ -802,7 +681,7 @@ IV. Protective Monitoring;
         </table>
         <p>Minimum control objective for PMC 6</p>
         <p>For PMC 6 the following is to be implemented:</p>
-        <table border="1">
+        <table>
           <tgroup cols="4">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
@@ -811,39 +690,39 @@ IV. Protective Monitoring;
             <tbody>
               <row valign="top">
                 <entry colname="col1">Detail</entry>
-                <entry colspan="3" colname="col2">Notes/Statement of Compliance</entry>
+                <entry colname="col2" namest="col2" nameend="col4">Notes/Statement of Compliance</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Recording relating to network connections.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control Description</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Monitor temporary connections to the network either made by remote access, virtual private networking, wireless or any other transient means of network connection.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Objective</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Identify, monitor and audit temporary connections to the environment.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Risk Level</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">VERY LOW/LOW/MEDIUM</entry>
-                <entry colspan="3" colname="col2">
+                <entry colname="col2" namest="col2" nameend="col4">
                   <i>Insert Risk level</i>
                 </entry>
               </row>
@@ -864,7 +743,7 @@ IV. Protective Monitoring;
         </table>
         <p>Minimum control objective for PMC 7</p>
         <p>For PMC 7 the following is to be implemented:</p>
-        <table border="1">
+        <table>
           <tgroup cols="4">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
@@ -873,39 +752,39 @@ IV. Protective Monitoring;
             <tbody>
               <row valign="top">
                 <entry colname="col1">Detail</entry>
-                <entry colspan="3" colname="col2">Notes/Statement of Compliance</entry>
+                <entry colname="col2" namest="col2" nameend="col4">Notes/Statement of Compliance</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Recording on session activity by user and workstation.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control Description</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Monitor user activity and access to ensure they can be made accountable for their actions.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Objective</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Detect unauthorised activity and access that is either suspicious or is in violation of security policy.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Risk Level</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">VERY LOW/LOW/MEDIUM</entry>
-                <entry colspan="3" colname="col2">
+                <entry colname="col2" namest="col2" nameend="col4">
                   <i>Insert Risk level</i>
                 </entry>
               </row>
@@ -926,7 +805,7 @@ IV. Protective Monitoring;
         </table>
         <p>Minimum control objective for PMC 8</p>
         <p>For PMC 8 the following is to be implemented:</p>
-        <table border="1">
+        <table>
           <tgroup cols="4">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
@@ -935,39 +814,39 @@ IV. Protective Monitoring;
             <tbody>
               <row valign="top">
                 <entry colname="col1">Detail</entry>
-                <entry colspan="3" colname="col2">Notes/Statement of Compliance</entry>
+                <entry colname="col2" namest="col2" nameend="col4">Notes/Statement of Compliance</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Recording on data backup status.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control Description</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Provide for a previously known working state of information assets to be identified and recovered.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Objective</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Implement and audit backup and recovery procedures.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Risk Level</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">VERY LOW/LOW/MEDIUM</entry>
-                <entry colspan="3" colname="col2">
+                <entry colname="col2" namest="col2" nameend="col4">
                   <i>Insert Risk level</i>
                 </entry>
               </row>
@@ -988,7 +867,7 @@ IV. Protective Monitoring;
         </table>
         <p>Minimum control objective for PMC 9</p>
         <p>For PMC 9 the following is to be implemented:</p>
-        <table border="1">
+        <table>
           <tgroup cols="4">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
@@ -997,39 +876,39 @@ IV. Protective Monitoring;
             <tbody>
               <row valign="top">
                 <entry colname="col1">Detail</entry>
-                <entry colspan="3" colname="col2">Notes/Statement of Compliance</entry>
+                <entry colname="col2" namest="col2" nameend="col4">Notes/Statement of Compliance</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Reporting on the status of the audit system.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control Description</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Event reporting.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Objective</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Provide a mechanism for reporting in near real-time.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Risk Level</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">VERY LOW/LOW/MEDIUM</entry>
-                <entry colspan="3" colname="col2">
+                <entry colname="col2" namest="col2" nameend="col4">
                   <i>Insert Risk level</i>
                 </entry>
               </row>
@@ -1050,7 +929,7 @@ IV. Protective Monitoring;
         </table>
         <p>Minimum control objective for PMC 10</p>
         <p>For PMC 10 the following is to be implemented:</p>
-        <table border="1">
+        <table>
           <tgroup cols="4">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
@@ -1059,39 +938,39 @@ IV. Protective Monitoring;
             <tbody>
               <row valign="top">
                 <entry colname="col1">Detail</entry>
-                <entry colspan="3" colname="col2">Notes/Statement of Compliance</entry>
+                <entry colname="col2" namest="col2" nameend="col4">Notes/Statement of Compliance</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Alerting critical events.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control Description</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Maintain status of the protective monitoring system and its collected accounting data.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Objective</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Ensure the integrity and proper management of the protective monitoring system.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Risk Level</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">VERY LOW/LOW/MEDIUM</entry>
-                <entry colspan="3" colname="col2">
+                <entry colname="col2" namest="col2" nameend="col4">
                   <i>Insert Risk level</i>
                 </entry>
               </row>
@@ -1112,7 +991,7 @@ IV. Protective Monitoring;
         </table>
         <p>Minimum control objective for PMC 11</p>
         <p>For PMC 11 the following is to be implemented:</p>
-        <table border="1">
+        <table>
           <tgroup cols="4">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
@@ -1121,39 +1000,39 @@ IV. Protective Monitoring;
             <tbody>
               <row valign="top">
                 <entry colname="col1">Detail</entry>
-                <entry colspan="3" colname="col2">Notes/Statement of Compliance</entry>
+                <entry colname="col2" namest="col2" nameend="col4">Notes/Statement of Compliance</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Alerting critical events.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control Description</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Maintain status of the protective monitoring system and its collected accounting data.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Objective</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Ensure the integrity and proper management of the protective monitoring system.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Risk Level</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">VERY LOW/LOW/MEDIUM</entry>
-                <entry colspan="3" colname="col2">
+                <entry colname="col2" namest="col2" nameend="col4">
                   <i>Insert Risk level</i>
                 </entry>
               </row>
@@ -1174,7 +1053,7 @@ IV. Protective Monitoring;
         </table>
         <p>Minimum control objective for PMC 12</p>
         <p>For PMC 12 the following is to be implemented:</p>
-        <table border="1">
+        <table>
           <tgroup cols="4">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
@@ -1183,39 +1062,39 @@ IV. Protective Monitoring;
             <tbody>
               <row valign="top">
                 <entry colname="col1">Detail</entry>
-                <entry colspan="3" colname="col2">Notes/Statement of Compliance</entry>
+                <entry colname="col2" namest="col2" nameend="col4">Notes/Statement of Compliance</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Providing a legal framework for Protective Monitoring activities.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Control Description</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Ensure that all monitoring and interception of communications is conducted lawfully and that accounting data collected by the system is treated as a sensitive information asset in its own right.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Objective</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Maintain legal and statutory obligations.</entry>
-                <entry colspan="3" colname="col2">[Insert additional notes/test as required.]</entry>
+                <entry colname="col2" namest="col2" nameend="col4">[Insert additional notes/test as required.]</entry>
               </row>
               <row valign="top">
                 <entry colname="col1">Risk Level</entry>
-                <entry colspan="3" colname="col2"> </entry>
+                <entry colname="col2" namest="col2" nameend="col4"> </entry>
               </row>
               <row valign="top">
                 <entry colname="col1">VERY LOW/LOW/MEDIUM</entry>
-                <entry colspan="3" colname="col2">
+                <entry colname="col2" namest="col2" nameend="col4">
                   <i>Insert Risk level</i>
                 </entry>
               </row>
@@ -1234,16 +1113,13 @@ IV. Protective Monitoring;
             </tbody>
           </tgroup>
         </table>
-        <p>
-          <xref id="exceptions"/>
-        </p>
       </body>
     </topic>
     <topic id="exceptions">
       <title>Exceptions</title>
       <body>
         <p>The exceptions to the minimum baseline requirements <xref href="#minimum-control-objectives" format="html">must be recorded</xref>, a template table is provided below.</p>
-        <table border="1">
+        <table>
           <tgroup cols="4">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
@@ -1257,7 +1133,7 @@ IV. Protective Monitoring;
                 <entry colname="col4">Reason for non-compliance</entry>
               </row>
               <row valign="top">
-                <entry colspan="4" colname="col1">[Insert details of those controls that will not be implemented as a result of reviewing the protective monitoring controls for each of the defined levels to show which controls either cannot be implemented for technical reasons, or as a result of a risk management decision. Delete this row on completion of table.]</entry>
+                <entry namest="col1" nameend="col4">[Insert details of those controls that will not be implemented as a result of reviewing the protective monitoring controls for each of the defined levels to show which controls either cannot be implemented for technical reasons, or as a result of a risk management decision. Delete this row on completion of table.]</entry>
               </row>
               <row>
                 <entry colname="col1"> </entry>
@@ -1274,16 +1150,13 @@ IV. Protective Monitoring;
             </tbody>
           </tgroup>
         </table>
-        <p>
-          <xref id="audit-regime"/>
-        </p>
       </body>
     </topic>
     <topic id="audit-regime">
       <title>Audit regime</title>
       <body>
         <p>The audit regime which forms part of the protective marking solution <xref href="#minimum-audit-requirements" format="html">must be recorded</xref>; a template table is provided below:</p>
-        <table border="1">
+        <table>
           <tgroup cols="6">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
@@ -1311,16 +1184,13 @@ IV. Protective Monitoring;
             </tbody>
           </tgroup>
         </table>
-        <p>
-          <xref id="accounting-items"/>
-        </p>
       </body>
     </topic>
     <topic id="accounting-items">
       <title>Accounting items</title>
       <body>
         <p>The table below provides a template to capture <xref href="#baseline-control-set-and-implementation-of-controls-objectives" format="html">all the accounting items to be collected</xref> in an ICT system, its source and alerting details.</p>
-        <table border="1">
+        <table>
           <tgroup cols="17">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
@@ -1341,32 +1211,23 @@ IV. Protective Monitoring;
             <colspec colname="col17" colnum="17"/>
             <tbody>
               <row valign="top">
-                <entry morerows="1" colname="col1">PMC</entry>
-                <entry morerows="1" colname="col2">#</entry>
-                <entry morerows="1" colname="col3">Cat</entry>
-                <entry morerows="1" colname="col4">Ref</entry>
-                <entry morerows="1" colname="col5">Recordable events</entry>
-                <entry morerows="1" colname="col6">Include in report</entry>
-                <entry morerows="1" colname="col7">Alert on event</entry>
-                <entry morerows="1" colname="col8">Method</entry>
-                <entry morerows="1" colname="col9">Notes in Environment PM policy</entry>
-                <entry morerows="1" colname="col10">Accounting items (defined in GPG13)</entry>
-                <entry morerows="1" colname="col11">Sources and notes</entry>
-                <entry morerows="1" colname="col12">Logging application requirement</entry>
-                <entry morerows="1" colname="col13">Tags</entry>
-                <entry morerows="1" colname="col14">Predicate</entry>
-                <entry colspan="3" colname="col15">Specific Events</entry>
-              </row>
-              <row>
-                <entry colname="col15">
-                  <i>Audit</i>
-                </entry>
-                <entry>
-                  <i>Errors &amp; Warnings</i>
-                </entry>
-                <entry>
-                  <i>Protocol errors</i>
-                </entry>
+                <entry colname="col1">PMC</entry>
+                <entry colname="col2">#</entry>
+                <entry colname="col3">Cat</entry>
+                <entry colname="col4">Ref</entry>
+                <entry colname="col5">Recordable events</entry>
+                <entry colname="col6">Include in report</entry>
+                <entry colname="col7">Alert on event</entry>
+                <entry colname="col8">Method</entry>
+                <entry colname="col9">Notes in Environment PM policy</entry>
+                <entry colname="col10">Accounting items (defined in GPG13)</entry>
+                <entry colname="col11">Sources and notes</entry>
+                <entry colname="col12">Logging application requirement</entry>
+                <entry colname="col13">Tags</entry>
+                <entry colname="col14">Predicate</entry>
+                <entry colname="col15">Specific Events: Audit</entry>
+                <entry colname="col16">Specific Events: Errors &amp; Warnings</entry>
+                <entry colname="col17">Specific Events: Protocol errors</entry>
               </row>
               <row>
                 <entry colname="col1"> </entry>
@@ -1384,8 +1245,8 @@ IV. Protective Monitoring;
                 <entry colname="col13"> </entry>
                 <entry colname="col14"> </entry>
                 <entry colname="col15"> </entry>
-                <entry> </entry>
-                <entry> </entry>
+                <entry colname="col16"> </entry>
+                <entry colname="col17"> </entry>
               </row>
               <row>
                 <entry colname="col1"> </entry>
@@ -1403,8 +1264,8 @@ IV. Protective Monitoring;
                 <entry colname="col13"> </entry>
                 <entry colname="col14"> </entry>
                 <entry colname="col15"> </entry>
-                <entry> </entry>
-                <entry> </entry>
+                <entry colname="col16"> </entry>
+                <entry colname="col17"> </entry>
               </row>
               <row>
                 <entry colname="col1"> </entry>
@@ -1422,8 +1283,8 @@ IV. Protective Monitoring;
                 <entry colname="col13"> </entry>
                 <entry colname="col14"> </entry>
                 <entry colname="col15"> </entry>
-                <entry> </entry>
-                <entry> </entry>
+                <entry colname="col16"> </entry>
+                <entry colname="col17"> </entry>
               </row>
             </tbody>
           </tgroup>
@@ -1432,4 +1293,6 @@ IV. Protective Monitoring;
       </body>
     </topic>
   </topic>
+	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+	<topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

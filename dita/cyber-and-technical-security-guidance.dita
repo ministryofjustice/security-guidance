@@ -72,7 +72,8 @@ has made for the products we operate, and our relationships with suppliers.</p>
 			<body>
 				<p>The content of this site is searchable in two ways:
 				<ol>
-					<li>By searching for the word or phrase on <xref href="google.com" format="html" scope="external">Google</xref> and specifying this site:
+					<li>By searching for the word or phrase on your preferred search engine,
+            and specifying this site:
 						<pre>site:https://ministryofjustice.github.io/security-guidance/</pre>
 						For example, to search for information about passwords, you might use the following search expression:
 						<pre>password site:https://ministryofjustice.github.io/security-guidance/</pre></li>
@@ -908,7 +909,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/protective-monitoring-guide/" format="html" scope="external">Protective Monitoring Guide</xref></entry>
+                <entry colname="col1" align="left"><xref href="protective-monitoring.dita" format="dita">Protective Monitoring</xref><ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/protective-monitoring-guide/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
@@ -1352,5 +1353,5 @@ has made for the products we operate, and our relationships with suppliers.</p>
 			</body>
 		</topic>
   </topic>
-  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

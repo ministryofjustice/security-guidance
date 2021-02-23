@@ -44,5 +44,5 @@
       <p>Use of the word MUST in this document complies with <xref format="txt" scope="external" href="https://www.ietf.org/rfc/rfc2119.txt">RFC 2119</xref>.</p>
     </body>
   </topic>
-  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

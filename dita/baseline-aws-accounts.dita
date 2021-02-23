@@ -292,5 +292,5 @@ The contact details for an AWS Account can be updated using the reference <xref 
       <p>Various <xref href="https://github.com/ministryofjustice/cloud-platform-infrastructure/tree/main/cloudformation/aws-account-baseline-templates" format="html" scope="external">AWS account baseline templates</xref> have been developed and published for use.</p>
     </body>
   </topic>
-  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

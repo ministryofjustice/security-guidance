@@ -22,5 +22,5 @@
     </ol></p>
     <p>For more information, see the <xref href="acceptable-use.dita" format="dita">Acceptable Use guidance</xref>.</p>
   </body>
-  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

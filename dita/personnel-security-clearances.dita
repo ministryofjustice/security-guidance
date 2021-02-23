@@ -16,5 +16,5 @@
       <p audience="audience-tech">The <ph conref="conrefs.dita#conrefs/moj"/> does <b>not</b> have a standing requirement for system administrators or application developers to maintain Security Check (SC).</p>
     </body>
   </topic>
-  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

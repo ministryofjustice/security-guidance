@@ -632,5 +632,5 @@ See <xref format="dita" href="#secondary-functions">here</xref>]</entry>
       <p>Completing this plan can form part of the Accreditation process and must be included and maintained as part of the relevant RMADS.</p>
     </body>
   </topic>
-  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

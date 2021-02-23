@@ -109,5 +109,5 @@
   </topic>
   <topic id="general-enquiries-including-theft-and-loss" conref="conrefs.dita#conrefs/general-enquiries-including-theft-and-loss"><title/></topic>
   <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
-  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

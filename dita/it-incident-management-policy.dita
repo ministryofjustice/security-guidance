@@ -463,5 +463,5 @@
       <image href="images/incident-management-plan-and-process-guide-diagram-4.png" placement="break" scope="local"><alt>IT Security Incident Escalation Path</alt></image>
     </body>
   </topic>
-  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
