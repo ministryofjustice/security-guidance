@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 19 February 2021.
+**Note:** This guidance is dated: 23 February 2021.
 
 ### Popular links
 
@@ -27,13 +27,13 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|On request.|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|On request.|
 
-The offline versions of this guidance are time-limited, and are not valid after 19 March 2021.
+The offline versions of this guidance are time-limited, and are not valid after 23 March 2021.
 
 ### Searching this content
 
 The content of this site is searchable in two ways:
 
-1.  By searching for the word or phrase on [Google](google.com) and specifying this site:
+1.  By searching for the word or phrase on your preferred search engine, and specifying this site:
 
     ```
     site:https://ministryofjustice.github.io/security-guidance/
@@ -246,7 +246,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |[Custom Applications](custom-applications.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Logging and monitoring](logging-and-monitoring.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Online identifiers in security logging and monitoring](online-identifiers.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Protective Monitoring Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/protective-monitoring-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Protective Monitoring](protective-monitoring.md)\([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/protective-monitoring-guide/)\)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Security Log Collection](security-log-collection.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Security Log Collection: Enterprise IT - Infrastructure](enterprise-it-infrastructure.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Security Log Collection: Enterprise IT - Mobile Devices](enterprise-it-mobile-devices.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|

@@ -444,8 +444,7 @@ The audit regime which forms part of the protective marking solution [must be re
 
 The table below provides a template to capture [all the accounting items to be collected](#baseline-control-set-and-implementation-of-controls-objectives) in an ICT system, its source and alerting details.
 
-|PMC|\#|Cat|Ref|Recordable events|Include in report|Alert on event|Method|Notes in Environment PM policy|Accounting items \(defined in GPG13\)|Sources and notes|Logging application requirement|Tags|Predicate|Specific Events|
-|*Audit*|*Errors & Warnings*|*Protocol errors*|
+|PMC|\#|Cat|Ref|Recordable events|Include in report|Alert on event|Method|Notes in Environment PM policy|Accounting items \(defined in GPG13\)|Sources and notes|Logging application requirement|Tags|Predicate|Specific Events: Audit|Specific Events: Errors & Warnings|Specific Events: Protocol errors|
 | | | | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | | | | |
