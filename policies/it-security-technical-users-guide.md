@@ -47,7 +47,7 @@ Cryptography is a method of securing information and communication channels to a
 
 However, where staff have procured key material and/or hardware through the  United Kingdom Key Production Authority (UKKPA) or any other cryptographic items where National Cyber Security Centre (NCSC) dictate that national cryptographic policy applies, the NCSC dictate the policy and the HMG IA Standard No. 4, Protective Security Controls for the Handling and Management of Cryptographic Items (IS4) applies.
 
-> Note: IS4 can be accessed by joining CiSP and joining the UKKPA-Crpy Key Policy and Incident Management Group
+> Note: IS4 can be accessed by joining CiSP and joining the UKKPA-Crpy Key Policy and Incident Management Group.
 
 The MoJ's Staff who use cryptography must ensure they have the appropriate level of security clearance. This requires secret (SC) level clearance for managing cryptography.
 
