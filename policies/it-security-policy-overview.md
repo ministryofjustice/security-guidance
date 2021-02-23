@@ -16,7 +16,7 @@ This policy gives an overview of information security principles and responsibil
 
 ## Who is this for?
 
-This guide is aimed at three audiences:
+This policy is aimed at three audiences:
 
 1. **Technical users**: these are in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge (EPICK) Team.
 2. **Service Providers**: defined as any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the MoJ.
@@ -26,10 +26,10 @@ This guide is aimed at three audiences:
 
 ## Associated documentation
 
-For further guidance on IT Security, see the guides below.
+For further guidance on IT Security, see the policies below.
 
 * [IT Security All Users Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-all-users-policy.md): which provides further details of the responsibilities of all MoJ users at the MoJ.
-* [IT Security Technical Users Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-technical-users-guide.md): which provides the details of where users can find more technical and service provider related information on IT Security within the MoJ.
+* [IT Security Technical Users Policy](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/it-security-technical-users-policy.md): which provides the details of where users can find more technical and service provider related information on IT Security within the MoJ.
 
 ## Principles
 
