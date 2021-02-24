@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="it-security-policy-overview">
+  <title>IT Security Policy (Overview)</title>
+  <body/>
+  <topic id="introduction">
+    <title>Introduction</title>
+    <body>
+      <p>This policy gives an overview of information security principles and responsibilities within the <ph conref="conrefs.dita#conrefs/mojlong"/>
+        and provides a summary of the <ph conref="conrefs.dita#conrefs/moj"/>'s related security policies and guides.</p>
+    </body>
+  </topic>
+  <topic id="who-is-this-for">
+    <title>Who is this for?</title>
+    <body>
+      <p>This policy is aimed at three audiences:
+        <dl>
+          <dlentry>
+            <dt>Technical users</dt>
+            <dd>These are in-house <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology staff who are responsible for implementing controls throughout technical design,
+              development,
+              system integration,
+              and operation.
+              This includes DevOps,
+              Software Developers,
+              Technical Architects,
+              and Service Owners.
+              It also includes Incident Managers from the Event,
+              Problem,
+              Incident,
+              CSI and Knowledge (EPICK) Team.</dd>
+          </dlentry>
+          <dlentry>
+            <dt>Service Providers</dt>
+            <dd>Defined as any other <ph conref="conrefs.dita#conrefs/moj"/> business group,
+              agency,
+              contractor,
+              IT supplier and partner who in any way designs,
+              develops or supplies services (including processing,
+              transmitting and storing data) for,
+              or on behalf of,
+              the <ph conref="conrefs.dita#conrefs/moj"/>.</dd>
+          </dlentry>
+          <dlentry>
+            <dt>General users</dt>
+            <dd>All other staff working for the <ph conref="conrefs.dita#conrefs/moj"/>.</dd>
+          </dlentry>
+        </dl>
+      </p>
+      <p>Within this policy,
+        <q>all <ph conref="conrefs.dita#conrefs/moj"/> users</q> refers to General users,
+        Technical users,
+        and Service Providers as defined above.</p>
+    </body>
+  </topic>
+  <topic id="associated-documentation">
+    <title>Associated documentation</title>
+    <body>
+      <p>For further guidance on IT Security, see the policies below.
+      <ul>
+        <li>
+          <p><xref href="it-security-all-users-policy.dita" format="dita">IT Security All Users Policy</xref>: which provides further details of the responsibilities of all <ph conref="conrefs.dita#conrefs/moj"/> users at the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+        </li>
+        <li>
+          <p><xref href="it-security-technical-users-policy.dita" format="dita">IT Security Technical Users Policy</xref>: which provides the details of where users can find more technical and service provider related information on IT Security within the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+        </li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="principles">
+    <title>Principles</title>
+    <body>
+      <p>All <ph conref="conrefs.dita#conrefs/moj"/> users <b>MUST</b>:
+      <ul>
+        <li>Comply with the <ph conref="conrefs.dita#conrefs/moj"/>'s <xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref> wherever they work.</li>
+        <li>Report all security incidents promptly and in line with <ph conref="conrefs.dita#conrefs/moj"/>'s <xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref>.</li>
+        <li>Make themselves aware of their roles,
+          responsibilities and accountability and fully comply with the relevant legislation as described in this and other <ph conref="conrefs.dita#conrefs/moj"/> guidance.</li>
+        <li>Be aware of the need for Information Security as an integral part of the day to day business.</li>
+        <li>Protect information assets under the control of the organisation.</li>
+      </ul></p>
+      <p>Further information can be found in the <xref href="it-security-all-users-policy.dita" format="dita">IT Security All Users Policy</xref>.</p>
+    </body>
+    <topic id="technical-users">
+      <title>Technical users</title>
+      <body>
+        <p>Technical users must follow the guidance set out for all <ph conref="conrefs.dita#conrefs/moj"/> users in <xref href="it-security-all-users-policy.md" format="dita">IT Security All Users Policy</xref> <b>AND</b> also comply with the <xref href="it-security-technical-users-policy.dita" format="dita">IT Security Technical Users Policy</xref>.</p>
+      </body>
+    </topic>
+    <topic id="service-providers">
+      <title>Service Providers</title>
+      <body>
+        <p>Service Providers must follow the guidance set out for all <ph conref="conrefs.dita#conrefs/moj"/> users in <xref href="it-security-all-users-policy.dita" format="dita">IT Security All Users Policy</xref> <b>AND</b> also comply with the <xref href="it-security-technical-users-policy.dita" format="dita">IT Security Technical Users Policy</xref>.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="enforcement">
+    <title>Enforcement</title>
+    <body>
+      <ul>
+        <li>This policy is enforced by lower level policies, standards, procedures and guidance.</li>
+        <li>Non-conformance with this policy could result in disciplinary action taken in accordance with the <ph conref="conrefs.dita#conrefs/moj"/>'s Disciplinary procedures.
+          This could result in penalties up to and including dismissal.
+          If an employee commits a criminal offence,
+          they might also be prosecuted.
+          In such cases,
+          the <ph conref="conrefs.dita#conrefs/moj"/> always co-operates with the relevant authorities,
+          and provides appropriate evidence.</li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

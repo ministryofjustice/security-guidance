@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="it-security-all-users-policy">
+  <title>IT Security All Users Policy</title>
+  <body/>
+  <topic id="introduction">
+    <title>Introduction</title>
+    <body>
+      <p>This policy provides more information on the actions expected of all <ph conref="conrefs.dita#conrefs/moj"/> users
+        when using <ph conref="conrefs.dita#conrefs/moj"/> equipment and infrastructure.
+        It is a sub-page to the <xref href="it-security-policy-overview.dita" format="dita">IT Security Policy Overview</xref>.</p>
+        <note>In this document,
+          the terms <q>data</q> and <q>information</q> are used interchangeably.</note>
+    </body>
+  </topic>
+  <topic id="who-is-this-for" conref="it-security-policy-overview.dita#who-is-this-for"><title/></topic>
+  <topic id="approach">
+    <title>Approach</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> ensures that IT security controls are designed and implemented to protect <ph conref="conrefs.dita#conrefs/moj"/> data,
+        IT Assets,
+        and reputation,
+        based around the following requirements:
+        <dl>
+          <dlentry>
+            <dt>Confidentiality</dt>
+            <dd>Knowing and ensuring that data can only be accessed by those authorised to do so.</dd>
+          </dlentry>
+          <dlentry>
+            <dt>Integrity</dt>
+            <dd>Knowing and ensuring the accuracy and completeness of data,
+              and that it has not been deliberately or inadvertently modified from a previous version.</dd>
+          </dlentry>
+          <dlentry>
+            <dt>Availability</dt>
+            <dd>Knowing and ensuring that IT systems and data can always be accessed when required and authorised.</dd>
+          </dlentry>
+        </dl></p>
+    </body>
+  </topic>
+  <topic id="assets">
+    <title>Assets</title>
+    <body>
+      <p>This policy applies to all premises,
+        physical equipment,
+        software and data owned or managed by the <ph conref="conrefs.dita#conrefs/moj"/>.
+        This includes IT systems,
+        whether developed by the <ph conref="conrefs.dita#conrefs/moj"/> or managed by IT service providers.
+        It covers the use of IT equipment and the data processed on those IT systems,
+        irrespective of location.
+        It provides direction and support to preserve the confidentiality,
+        integrity,
+        and availability of <ph conref="conrefs.dita#conrefs/moj"/> resources.</p>
+    </body>
+  </topic>
+  <topic id="security-classification">
+    <title>Security classification</title>
+    <body>
+      <p>All <ph conref="conrefs.dita#conrefs/moj"/> Staff are responsible for ensuring data is:
+      <ul>
+        <li>Classified correctly as detailed in the <xref href="information-classification-handling-and-security-guide.dita" format="dita">Information Classification, Handling and Security Guide</xref>.</li>
+        <li>Distributed only in accordance with the statements of this policy and related guides.</li>
+        <li>Protected by the appropriate security controls to ensure its confidentiality, integrity and availability.</li>
+      </ul></p>
+      <p>Access to classified information shall be controlled in accordance with the requirements set out within the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="access-control-guide.dita" format="dita">Access Control Guide</xref>.</p>
+    </body>
+  </topic>
+  <topic id="physical-and-personnel-security">
+    <title>Physical and personnel security</title>
+    <body>
+      <p>The Physical Security Policy defines how physical access to assets must be controlled within the <ph conref="conrefs.dita#conrefs/moj"/> to prevent unauthorised access,
+        use,
+        modification,
+        loss,
+        or damage.
+        All <ph conref="conrefs.dita#conrefs/moj"/> users must understand that:
+          <ul>
+            <li>All <ph conref="conrefs.dita#conrefs/moj"/> IT systems and services must be assessed against environmental risks,
+              for example flood or fire,
+              to maintain the asset's confidentiality,
+              integrity,
+              and availability.</li>
+            <li>The <ph conref="conrefs.dita#conrefs/moj"/>'s IT Teams are not directly responsible for the physical security and environment of the <ph conref="conrefs.dita#conrefs/moj"/> sites.</li>
+            <li>Physical security controls and the environment in which the <ph conref="conrefs.dita#conrefs/moj"/> IT systems operate form part of a system's overall risk landscape.
+              All <ph conref="conrefs.dita#conrefs/moj"/> users <b>MUST</b> ensure they adhere to the security controls and requirements set out in this policy.</li>
+            <li>Unless otherwise formally agreed by the <ph conref="conrefs.dita#conrefs/moj"/>,
+              all <ph conref="conrefs.dita#conrefs/moj"/> users,
+              including agency staff and contractors who have access to <ph conref="conrefs.dita#conrefs/moj"/> data,
+              require <xref href="https://www.gov.uk/government/publications/government-baseline-personnel-security-standard" format="html" scope="external">Baseline Personnel Security Standard (BPSS)</xref> asssessment,
+              as a minimum.</li>
+            <li><xref href="https://www.gov.uk/guidance/security-vetting-and-clearance#applicant" format="html" scope="external">National Security Vetting</xref> should only be applied for where it is necessary,
+            proportionate,
+            and adds real value.</li>
+            <li>The <ph conref="conrefs.dita#conrefs/moj"/> does not have a standing requirement for system administrators or application developers to maintain Security Check (SC) clearance.</li>
+          </ul></p>
+      <p>Further information on physical and personnel security is available from <ph conref="conrefs.dita#conrefs/moj"/>Group Security (<ph conref="conrefs.dita#conrefs/groupsecurityemail"/>) and <xref href="https://www.cpni.gov.uk/physical-security" format="html" scope="external">CPNI Guidance</xref>.</p>
+    </body>
+  </topic>
+  <topic id="identity-and-access-control">
+    <title>Identity and access control</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="access-control-guide.dita" format="dita">Access Control Guide</xref> ensures that information and IT assets can be accessed only by authorised personnel,
+      and that each individual is accountable for their actions.</p>
+      <p>The guide outlines the controls and processes designed to limit access based on a <q>need to know</q> basis,
+        and according to defined roles and responsibilities.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="access-control-guide.dita" format="dita">Access Control Guide</xref> addresses access control principles such as identification,
+      authentication,
+      authorisation,
+      and accounting.</p>
+    </body>
+  </topic>
+  <topic id="password-management">
+    <title>Password management</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="password-management-guide.dita" format="dita">Password Management Guide</xref> sets out the requirements for strong password implementation and management,
+      to help prevent unauthorised access to <ph conref="conrefs.dita#conrefs/moj"/> systems.
+      Examples include password creation, authentication, storage and management.</p>
+    </body>
+  </topic>
+  <topic id="email-security">
+    <title>Email security</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> Email Security Guide specifies the controls and processes required to protect the <ph conref="conrefs.dita#conrefs/moj"/>'s email systems from unauthorised access or misuse,
+      that may compromise the confidentiality,
+      integrity or availability of the data stored and shared within them.</p>
+      <p>The guide outlines the various security levels required to transfer information from the <ph conref="conrefs.dita#conrefs/moj"/>'s email servers to organisations outside the <ph conref="conrefs.dita#conrefs/moj"/> and other government departments.
+        It covers topics such as the threats to email security (phishing) and secure email transfer.</p>
+    </body>
+  </topic>
+  <topic id="remote-working-and-portable-devices">
+    <title>Remote working and portable devices</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> has in place a <xref href="remote-working.dita" format="dita">Remote Working</xref> guidance sets out the requirements for safely accessing and using the <ph conref="conrefs.dita#conrefs/moj"/>'s systems and applications when working remotely,
+        for example from home,
+        another government office,
+        or while travelling.</p>
+      <p>Mobile computing is the use of portable equipment such as mobile phone,
+        laptop or tablet,
+        and which supports remote working.
+        Mobile computing equipment provided by the <ph conref="conrefs.dita#conrefs/moj"/> must be used in line with the <xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref>.</p>
+      <p>Any request to take <ph conref="conrefs.dita#conrefs/moj"/> IT equipment overseas must follow the guidance provided in the <xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref> and the <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/mojlong"/> IT Systems From Overseas</xref> information.</p>
+    </body>
+  </topic>
+  <topic id="malware-protection">
+    <title>Malware protection</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide</xref> specifies the controls and processes required to protect all systems against malware.
+        Malware may enter the <ph conref="conrefs.dita#conrefs/moj"/> by employee email through the internet,
+        mobile computers,
+        and removable media devices.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide</xref> addresses the following relevant domains:
+      <ul>
+        <li>Implementation controls to stop malware entering <ph conref="conrefs.dita#conrefs/moj"/> devices and systems.</li>
+        <li>Preventing malicious code from executing on <ph conref="conrefs.dita#conrefs/moj"/> devices and systems.</li>
+        <li>Mitigating the impact of malware when entering <ph conref="conrefs.dita#conrefs/moj"/> devices and systems.</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="roles-and-responsibilities">
+    <title>Roles and responsibilities</title>
+    <body>
+      <p>All <ph conref="conrefs.dita#conrefs/moj"/> users are responsible for ensuring the confidentiality,
+        integrity,
+        and availability of data within the <ph conref="conrefs.dita#conrefs/moj"/>.
+        This includes all <ph conref="conrefs.dita#conrefs/moj"/> data and assets.
+        These responsibilities extend to all assets referenced in this policy.</p>
+      <p>All <ph conref="conrefs.dita#conrefs/moj"/> users are required to comply with the roles and responsibilities outlined in the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://docs.google.com/document/d/1ni5bn9vXUj4JFKcoiEO8x31TFCE3AVWN-HxZcVzfNnc/edit?ts=5f10064a" format="html" scope="external">Information Assurance Framework Process</xref>.</p>
+      <p>Specific roles and responsibilities are described within each sub-page.
+        All <ph conref="conrefs.dita#conrefs/moj"/> users must comply with these roles and responsibilities,
+        and understand these as being a part of their ultimate responsibility for information security within the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+      <p>For the purpose of this Information Security Policy,
+        the following roles are described.
+        They have specific responsibilities in the implementation and monitoring of different provisions of the policy.</p>
+      <table>
+        <tgroup cols="3">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col3" colnum="3"/>
+          <thead>
+            <row>
+              <entry colname="col1">Role</entry>
+              <entry colname="col2">Responsibility</entry>
+              <entry colname="col3">Which includes...</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1"><b>Senior Information Risk Owners (SIROs)</b></entry>
+              <entry colname="col2">The <ph conref="conrefs.dita#conrefs/moj"/> SIRO is responsible for the overall <ph conref="conrefs.dita#conrefs/moj"/> information risk policy and guidance,
+                and ensures it continues to provide appropriate risk appetite and a suitable risk framework.</entry>
+              <entry colname="col3">Implementing and managing information risk management in their respective business groups.</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">Regularly reviewing the application of policy and guidance to ensure it remains appropriate to their business objectives and risk environment.</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">Authorising any exceptions and deviations from the IT Security Policy with consideration of the impact any changes might have to other users.</entry>
+            </row>
+            <row>
+              <entry colname="col1"><b>Delegated Agency SIROs</b></entry>
+              <entry colname="col2">The delegated agency SIRO is responsible for the information risk policy and guidance as it applies to their systems and personnel,
+                and ensures the agency adheres to the <ph conref="conrefs.dita#conrefs/moj"/>'s risk appetite and risk framework.</entry>
+              <entry colname="col3">In line with the <ph conref="conrefs.dita#conrefs/moj"/> SIRO,
+                but for Agency systems and personnel.</entry>
+            </row>
+            <row>
+              <entry colname="col1"><b>Information Asset Owners (IAO)</b></entry>
+              <entry colname="col2">IAOs,
+                also known as IA Leads,
+                must be satisfied that all required technical,
+                personnel,
+                physical and procedural security controls are in place and followed.
+                IAOs are responsible for ensuring the management and security of their information asset over the whole asset lifecycle.</entry>
+              <entry colname="col3">Logging and monitoring.</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">Reviewing access permissions.</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">Understanding and addressing risks associated to their information assets.</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">Ensuring secure disposal of information when it is no longer required.</entry>
+            </row>
+            <row>
+              <entry colname="col1"><b>System Owners</b></entry>
+              <entry colname="col2">System Owners are responsible for managing access control rules for their particular system.</entry>
+              <entry colname="col3">Verifying access rights in order to assist a scheduled review audit of User accounts and permissions.</entry>
+            </row>
+            <row>
+              <entry colname="col1"><b>Contract Owners</b></entry>
+              <entry colname="col2">Contract Owners are responsible for ensuring contractors adhere to the IT Security Policy set out here and in associated documentation.</entry>
+              <entry colname="col3">Verify that contracts are written to reflect the <ph conref="conrefs.dita#conrefs/moj"/>'s IT Security Policy.</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">Ensure contractors comply with the requirements set out by this policy and associated documentation.</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">Being responsible for escalating the risk of non-compliance by a supplier,
+                and seeking guidance on suspected non-compliance with security requirements in a contract.</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">Ensure that the contractor is responsible for any sub-contractors that they employ directly or indirectly,
+                and that the contractor,
+                not the <ph conref="conrefs.dita#conrefs/moj"/>,
+                is responsible for ensuring that those sub-contractors comply with this policy and associated documentation.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </body>
+  </topic>
+  <topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
