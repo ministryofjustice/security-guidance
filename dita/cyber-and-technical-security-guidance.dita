@@ -358,28 +358,30 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <title>Management direction for information security</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-
-
-				<row platform="html">
-					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/setecastronomy/" format="html" scope="external">Avoiding too much security</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row platform="epub pdf">
-					<entry colname="col1" align="left"><xref href="setecastronomy.dita" format="dita">Avoiding too much security</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
+              <row>
+                <entry colname="col1" align="left"><xref href="setecastronomy.dita" format="dita">Avoiding too much security</xref><ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/setecastronomy/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
               <row>
                 <entry colname="col1" align="left"><xref href="identify-protect-detect-respond-recover.dita" format="dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
-				<row platform="html">
-					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/" format="html" scope="external">Line Manager approval</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row platform="epub pdf">
-					<entry colname="col1" align="left"><xref href="line-manager-approval.dita" format="dita">Line Manager approval</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
+              <row>
+                <entry colname="col1" align="left"><xref href="it-security-all-users-policy.dita" format="dita">IT Security All Users Policy</xref></entry>
+                <entry colname="col2" align="right">All users (Policy)</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="it-security-policy-overview.dita" format="dita">IT Security Policy (Overview)</xref></entry>
+                <entry colname="col2" align="right">All users (Policy)</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1" align="left"><xref href="it-security-technical-users-policy.dita" format="dita">IT Security Technical Users Policy</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer (Policy)</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="line-manager-approval.dita" format="dita">Line Manager approval</xref><ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="shared-responsibility-models.dita" format="dita">Shared Responsibility Models</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
@@ -520,12 +522,12 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Handling and Information Sharing Guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-				<row platform="html">
-					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/" format="html" scope="external">Government Classification Scheme</xref></entry>
+				<row>
+					<entry colname="col1" align="left"><xref href="government-classification-scheme.dita" format="dita">Government Classification Scheme</xref><ph platform="html">(<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
-				<row platform="epub pdf">
-					<entry colname="col1" align="left"><xref href="government-classification-scheme.dita" format="dita">Government Classification Scheme</xref></entry>
+				<row>
+					<entry colname="col1" align="left"><xref href="information-classification-handling-and-security-guide.dita" format="dita">Information Classification and Handling Guide</xref></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
 				<row>

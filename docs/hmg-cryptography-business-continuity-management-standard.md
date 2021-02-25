@@ -64,7 +64,7 @@ Access to the safe is strictly limited to the MoJ Crypto Custodian and the Alter
 
 ### Work ethic with key variables
 
-The area that the MoJ Custodian works is open plan in an accredited IL3 environment. The DSO has further accredited the immediate area surrounding the MoJ Crypto Custodian in 5.31 of 102 Petty France for Crypto Management on the understanding that the personnel surrounding them are SC cleared and because there are desks immediately by the safe to allow a clear line of site from the Custodian’s desk to the safe.
+The area that the MoJ Custodian works is open plan in an accredited IL3 environment. The DSO has further accredited the immediate area surrounding the MoJ Crypto Custodian in 5.31 of 102 Petty France for Crypto Management on the understanding that the personnel surrounding them are SC cleared and because there are desks immediately by the safe to allow a clear line of site from the Custodian's desk to the safe.
 
 All key variables must be kept in the safe and only removed when specific action is required on a key variable.
 

@@ -6,7 +6,7 @@
   <topic id="introduction">
     <title>Introduction</title>
     <body>
-      <p>This policy provides more information on the actions expected of all <ph conref="conrefs.dita#conrefs/moj"/> users
+      <p>This policy provides more information on the actions expected of all <ph conref="conrefs.dita#conrefs/mojlong"/> users
         when using <ph conref="conrefs.dita#conrefs/moj"/> equipment and infrastructure.
         It is a sub-page to the <xref href="it-security-policy-overview.dita" format="dita">IT Security Policy Overview</xref>.</p>
         <note>In this document,
@@ -58,11 +58,12 @@
     <body>
       <p>All <ph conref="conrefs.dita#conrefs/moj"/> Staff are responsible for ensuring data is:
       <ul>
-        <li>Classified correctly as detailed in the <xref href="information-classification-handling-and-security-guide.dita" format="dita">Information Classification, Handling and Security Guide</xref>.</li>
+        <li>Classified correctly as detailed in the <ph audience="audience-basic audience-tech"><xref href="information-classification-handling-and-security-guide.dita" format="dita">Information Classification,
+          Handling and Security Guide</xref></ph><ph audience="audience-suppliers">Information Classification, Handling and Security Guide</ph>.</li>
         <li>Distributed only in accordance with the statements of this policy and related guides.</li>
         <li>Protected by the appropriate security controls to ensure its confidentiality, integrity and availability.</li>
       </ul></p>
-      <p>Access to classified information shall be controlled in accordance with the requirements set out within the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="access-control-guide.dita" format="dita">Access Control Guide</xref>.</p>
+      <p audience="audience-suppliers audience-tech">Access to classified information shall be controlled in accordance with the requirements set out within the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="access-control-guide.dita" format="dita">Access Control Guide</xref>.</p>
     </body>
   </topic>
   <topic id="physical-and-personnel-security">
@@ -99,20 +100,20 @@
   <topic id="identity-and-access-control">
     <title>Identity and access control</title>
     <body>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="access-control-guide.dita" format="dita">Access Control Guide</xref> ensures that information and IT assets can be accessed only by authorised personnel,
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="access-control-guide.dita" format="dita" audience="audience-suppliers audience-tech">Access Control Guide</xref> ensures that information and IT assets can be accessed only by authorised personnel,
       and that each individual is accountable for their actions.</p>
-      <p>The guide outlines the controls and processes designed to limit access based on a <q>need to know</q> basis,
+      <p audience="audience-suppliers audience-tech">The guide outlines the controls and processes designed to limit access based on a <q>need to know</q> basis,
         and according to defined roles and responsibilities.</p>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="access-control-guide.dita" format="dita">Access Control Guide</xref> addresses access control principles such as identification,
+      <p audience="audience-suppliers audience-tech">The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="access-control-guide.dita" format="dita">Access Control Guide</xref> addresses access control principles such as identification,
       authentication,
       authorisation,
       and accounting.</p>
     </body>
   </topic>
-  <topic id="password-management">
+  <topic id="password-management" audience="audience-suppliers audience-tech">
     <title>Password management</title>
     <body>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="password-management-guide.dita" format="dita">Password Management Guide</xref> sets out the requirements for strong password implementation and management,
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph audience="audience-tech"><xref href="password-management-guide.dita" format="dita">Password Management Guide</xref></ph><ph audience="audience-suppliers">Password Management Guide</ph> sets out the requirements for strong password implementation and management,
       to help prevent unauthorised access to <ph conref="conrefs.dita#conrefs/moj"/> systems.
       Examples include password creation, authentication, storage and management.</p>
     </body>
@@ -130,25 +131,34 @@
   <topic id="remote-working-and-portable-devices">
     <title>Remote working and portable devices</title>
     <body>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> has in place a <xref href="remote-working.dita" format="dita">Remote Working</xref> guidance sets out the requirements for safely accessing and using the <ph conref="conrefs.dita#conrefs/moj"/>'s systems and applications when working remotely,
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> has in place <ph audience="audience-basic audience-tech"><xref href="remote-working.dita" format="dita">Remote Working</xref></ph><ph audience="audience-suppliers">Remote Working</ph> guidance that sets out the requirements for safely accessing and using the <ph conref="conrefs.dita#conrefs/moj"/>'s systems and applications when working remotely,
         for example from home,
         another government office,
         or while travelling.</p>
       <p>Mobile computing is the use of portable equipment such as mobile phone,
         laptop or tablet,
         and which supports remote working.
-        Mobile computing equipment provided by the <ph conref="conrefs.dita#conrefs/moj"/> must be used in line with the <xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref>.</p>
-      <p>Any request to take <ph conref="conrefs.dita#conrefs/moj"/> IT equipment overseas must follow the guidance provided in the <xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref> and the <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/mojlong"/> IT Systems From Overseas</xref> information.</p>
+        Mobile computing equipment provided by the <ph conref="conrefs.dita#conrefs/moj"/> must be used in line with the
+        <ph audience="audience-basic audience-tech"><xref href="acceptable-use-policy.dita" format="dita">Acceptable
+          Use Policy</xref></ph><ph audience="audience-suppliers">Acceptable Use Policy</ph>.</p>
+      <p>Any request to take <ph conref="conrefs.dita#conrefs/moj"/> IT equipment overseas must follow the guidance provided in the
+        <ph audience="audience-basic audience-tech"><xref href="acceptable-use-policy.dita" format="dita">Acceptable
+          Use Policy</xref></ph><ph audience="audience-suppliers">Acceptable Use Policy</ph>
+          and the <ph audience="audience-basic audience-tech"><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing
+            <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Overseas</xref></ph><ph audience="audience-suppliers">Accessing
+              <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Overseas</ph> information.</p>
     </body>
   </topic>
-  <topic id="malware-protection">
+  <topic id="malware-protection" audience="audience-suppliers audience-tech">
     <title>Malware protection</title>
     <body>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide</xref> specifies the controls and processes required to protect all systems against malware.
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph audience="audience-tech"><xref href="malware-protection-guide-introduction.dita" format="dita">Malware
+        Protection Guide</xref></ph><ph audience="audience-suppliers">Malware Protection Guide</ph> specifies the controls and processes required to protect all systems against malware.
         Malware may enter the <ph conref="conrefs.dita#conrefs/moj"/> by employee email through the internet,
         mobile computers,
         and removable media devices.</p>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide</xref> addresses the following relevant domains:
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph audience="audience-tech"><xref href="malware-protection-guide-introduction.dita" format="dita">Malware
+        Protection Guide</xref></ph><ph audience="audience-suppliers">Malware Protection Guide</ph> addresses the following relevant domains:
       <ul>
         <li>Implementation controls to stop malware entering <ph conref="conrefs.dita#conrefs/moj"/> devices and systems.</li>
         <li>Preventing malicious code from executing on <ph conref="conrefs.dita#conrefs/moj"/> devices and systems.</li>
@@ -164,7 +174,7 @@
         and availability of data within the <ph conref="conrefs.dita#conrefs/moj"/>.
         This includes all <ph conref="conrefs.dita#conrefs/moj"/> data and assets.
         These responsibilities extend to all assets referenced in this policy.</p>
-      <p>All <ph conref="conrefs.dita#conrefs/moj"/> users are required to comply with the roles and responsibilities outlined in the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://docs.google.com/document/d/1ni5bn9vXUj4JFKcoiEO8x31TFCE3AVWN-HxZcVzfNnc/edit?ts=5f10064a" format="html" scope="external">Information Assurance Framework Process</xref>.</p>
+      <p>All <ph conref="conrefs.dita#conrefs/moj"/> users are required to comply with the roles and responsibilities outlined in the Information Assurance Framework Process.</p>
       <p>Specific roles and responsibilities are described within each sub-page.
         All <ph conref="conrefs.dita#conrefs/moj"/> users must comply with these roles and responsibilities,
         and understand these as being a part of their ultimate responsibility for information security within the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
