@@ -99,6 +99,34 @@ To help decide whether some information should be classified as `TOP SECRET`, as
 
 The answer is most likely “No”. In that case, you should consider using the `OFFICIAL` or `SECRET` classification, as appropriate.
 
+## Reclassifying information
+
+The asset owner has responsibility for reclassifying an asset. If another user has reason to believe that an asset is incorrectly classified or has an incorrect handling caveat, they should normally discuss this with the asset owner. The other user cannot unilaterally reclassify the asset.
+
+The exception is where the asset needs a higher classification than that assigned by the asset owner. The reclassification must still be communicated to the asset owner, for consistency.
+
+## Reclassification examples
+
+### Example 1
+
+An asset owner creates a report. The report contains potentially private information about individuals. The asset owner decides that the report should be classified as `OFFICIAL`, with the `SENSITIVE` handling caveat.
+
+A user wishes to share a copy of the report “as-is” with their team. They cannot remove the handling caveat without prior discussion and agreement from the asset owner.
+
+### Example 2
+
+An asset owner creates a report. The report contains potentially private information about individuals. The asset owner decides that the report should be classified as `OFFICIAL`, with the `SENSITIVE` handling caveat.
+
+A user wishes to share a subset of the report with their team. In particular, the report is substantially re-worked to remove all the private information. The user becomes the owner of this new asset. They are responsible for this new asset. They can decide that the `SENSITIVE` handling caveat is not required.
+
+The original report retains its `OFFICIAL` classification and `SENSITIVE` handling caveat.
+
+### Example 3
+
+An asset owner creates a report. The report contains information about plans to handle a pandemic. The asset owner decides that the report should be classified as `OFFICIAL`, with the `SENSITIVE` handling caveat.
+
+A user reviews the report. They realise that the information could potentially compromise the security or prosperity of the country. They decide to increase the classification of the report, and treat it as `SECRET`. They discuss this decision with the asset owner, so that the original report is correctly reclassified.
+
 ## Handling and securing information
 
 The [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) is the most comprehensive guide on the security measures necessary for each of the three security classifications, including measures related to the following:

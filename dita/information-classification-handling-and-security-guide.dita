@@ -76,8 +76,8 @@
       <p>Securing the <ph conref="conrefs.dita#conrefs/moj"/>'s information must be done with a combination of information security measures:
       <table>
         <tgroup cols="2">
-          <colspec colname="col1" colnum="1"/>
-          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col1" colnum="1" colwidth="40*"/>
+          <colspec colname="col2" colnum="2" colwidth="60*"/>
           <thead>
             <row>
               <entry colname="col1">Type of Measure</entry>
@@ -245,7 +245,53 @@
           as appropriate.</p>
       </body>
     </topic>
-  <topic id="handling-and-securing-information">
+    <topic id="reclassifying-information" conref="information-classification-and-handling-policy.dita#reclassifying-information"><title/></topic>
+    <topic id="reclassification-examples">
+      <title>Reclassification examples</title>
+      <topic id="example-1">
+        <title>Example 1</title>
+        <body>
+          <p>An asset owner creates a report.
+            The report contains potentially private information about individuals.
+            The asset owner decides that the report should be classified as <codeph>OFFICIAL</codeph>,
+            with the <codeph>SENSITIVE</codeph> handling caveat.</p>
+          <p>A user wishes to share a copy of the report <q>as-is</q> with their team.
+            They cannot remove the handling caveat without prior discussion and agreement from the asset owner.</p>
+        </body>
+      </topic>
+      <topic id="example-2">
+        <title>Example 2</title>
+        <body>
+          <p>An asset owner creates a report.
+            The report contains potentially private information about individuals.
+            The asset owner decides that the report should be classified as <codeph>OFFICIAL</codeph>,
+            with the <codeph>SENSITIVE</codeph> handling caveat.</p>
+          <p>A user wishes to share a subset of the report with their team.
+            In particular,
+            the report is substantially re-worked to remove all the private information.
+            The user becomes the owner of this new asset.
+            They are responsible for this new asset.
+            They can decide that the <codeph>SENSITIVE</codeph> handling caveat is not required.</p>
+            <p>The original report retains its <codeph>OFFICIAL</codeph> classification and <codeph>SENSITIVE</codeph> handling caveat.</p>
+        </body>
+      </topic>
+      <topic id="example-3">
+        <title>Example 3</title>
+        <body>
+          <p>An asset owner creates a report.
+            The report contains information about plans to handle a pandemic.
+            The asset owner decides that the report should be classified as <codeph>OFFICIAL</codeph>,
+            with the <codeph>SENSITIVE</codeph> handling caveat.</p>
+          <p>A user reviews the report.
+            They realise that the information could potentially compromise the security or prosperity of the country.
+            They decide to increase the classification of the report,
+            and treat it as <codeph>SECRET</codeph>.
+            They discuss this decision with the asset owner,
+            so that the original report is correctly reclassified.</p>
+        </body>
+      </topic>
+    </topic>
+    <topic id="handling-and-securing-information">
     <title>Handling and securing information</title>
     <body>
       <p>The <ph conref="conrefs.dita#conrefs/hmggovernmentsecurityclassifications"/>
@@ -263,9 +309,9 @@
       <body>
         <table>
           <tgroup cols="3">
-            <colspec colname="col1" colnum="1"/>
-            <colspec colname="col2" colnum="2"/>
-            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col1" colnum="1" colwidth="30*"/>
+            <colspec colname="col2" colnum="2" colwidth="30*"/>
+            <colspec colname="col3" colnum="3" colwidth="40*"/>
             <thead>
               <row>
                 <entry colname="col1">Type</entry>
@@ -358,9 +404,9 @@
       <body>
         <table>
           <tgroup cols="3">
-            <colspec colname="col1" colnum="1"/>
-            <colspec colname="col2" colnum="2"/>
-            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col1" colnum="1" colwidth="30*"/>
+            <colspec colname="col2" colnum="2" colwidth="30*"/>
+            <colspec colname="col3" colnum="3" colwidth="40*"/>
             <thead>
               <row>
                 <entry colname="col1">Type</entry>
@@ -430,9 +476,9 @@
       <body>
         <table>
           <tgroup cols="3">
-            <colspec colname="col1" colnum="1"/>
-            <colspec colname="col2" colnum="2"/>
-            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col1" colnum="1" colwidth="30*"/>
+            <colspec colname="col2" colnum="2" colwidth="30*"/>
+            <colspec colname="col3" colnum="3" colwidth="40*"/>
             <thead>
               <row>
                 <entry colname="col1">Type</entry>
