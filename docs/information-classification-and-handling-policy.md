@@ -1,5 +1,7 @@
 # Information Classification and Handling Policy
 
+**Parent topic:**[Information Classification, Handling and Security Guide](information-classification-handling-and-security-guide.md)
+
 ## Introduction
 
 This document provides the core set of IT security principles and expectations on the handling and classification of information on Ministry of Justice \(MoJ\) IT systems.

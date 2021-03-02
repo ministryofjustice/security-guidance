@@ -227,7 +227,7 @@ In some cases, the additional testing overhead required will outweigh the benefi
 
 The most basic level of Government security checking, the [Baseline Personnel Security Standard \(BPSS\) check](https://www.gov.uk/government/publications/government-baseline-personnel-security-standard), is designed to provide an assessment of three key features of the individual to be vetted: their identity; their right to work; and the reliability, integrity and honesty of those individuals.
 
-The BPSS requires that an individual's identity be confirmed, by matching some evidence of identity such as a passport or drivers licence, with evidence of address and activity in the community such as bills and bank statements. This provides a level of information that can be followed up for UK applicants if an individual raises any particular concerns. Further checks can be cheaply and easily conducted, to provide additional evidence that an individual with the asserted identity and address exists, and to confirm that the individual asserting that identity and address is not attempting identity theft. Where individuals originate from outside of the UK, and have not been in the UK for a suitably long period of time, it can be more difficult to obtain a suitably reliable history for those individuals \(long-term footprint\) to support effective screening. The Baseline Standard requires at least three years’ worth of previous employment history. From experience, it is considered that a commensurate length of time is also required to build up a suitably rich credit history and social footprint to enable reliable checks to be conducted.
+The BPSS requires that an individual's identity be confirmed, by matching some evidence of identity such as a passport or drivers licence, with evidence of address and activity in the community such as bills and bank statements. This provides a level of information that can be followed up for UK applicants if an individual raises any particular concerns. Further checks can be cheaply and easily conducted, to provide additional evidence that an individual with the asserted identity and address exists, and to confirm that the individual asserting that identity and address is not attempting identity theft. Where individuals originate from outside of the UK, and have not been in the UK for a suitably long period of time, it can be more difficult to obtain a suitably reliable history for those individuals \(long-term footprint\) to support effective screening. The Baseline Standard requires at least three years' worth of previous employment history. From experience, it is considered that a commensurate length of time is also required to build up a suitably rich credit history and social footprint to enable reliable checks to be conducted.
 
 Even confirming an individual's true identity may be problematic in some non-EU locations, where proofs of identity may be non-existent or considerably less reliable. It should also be noted that, for countries where record-keeping is managed locally rather than centrally, engagement at a local level to support checks can very quickly become prohibitively expensive for a moderately-sized workforce and/or where there is a high rate of staff turnover.
 
@@ -566,7 +566,7 @@ MoJ Accreditor/IA
 
 Supplier:
 
--   Identify any potential offshoring requirement as soon as possible in the tender process. Where proposals include an element of offshoring, it must be explicitly stated in the supplier’s response to the security requirements. This must explicitly state how security will be maintained in an offshore context \(including responses to User Security Requirements, System Security Requirements, etc.\)
+-   Identify any potential offshoring requirement as soon as possible in the tender process. Where proposals include an element of offshoring, it must be explicitly stated in the supplier's response to the security requirements. This must explicitly state how security will be maintained in an offshore context \(including responses to User Security Requirements, System Security Requirements, etc.\)
 
 
 MoJ Project Team:
@@ -587,7 +587,7 @@ MoJ Project Team:
 
 -   Ensure that the supplier contract specifically mandates compliance with all offshoring security requirements.
 
--   Ensure that the supplier contract mandates blanket flow-down of all contractual constraints and obligations to all of the suppliers’ suppliers, all of the way down the supply chain.
+-   Ensure that the supplier contract mandates blanket flow-down of all contractual constraints and obligations to all of the suppliers' suppliers, all of the way down the supply chain.
 
 -   Ensure that the contract makes provision for routine and no-notice audit of supplier compliance with offshoring requirements, at any-and-all supplier locations and subcontractor locations that are relevant to the work.
 
@@ -855,7 +855,7 @@ A particular consideration for offshoring is DPA Principle 8: "Personal data sha
 
 For example, an offshore organisation based in Country A, which provides second-line support for an MoJ application from Country A, might rely on teams from its offices in Country B to conduct development and third-line support activities. This would have an impact on the Threat Assessment and hence the risks to the capability.
 
-The Baseline Standard requires at least three years’ worth of previous employment history. From experience, it is considered that a commensurate length of time is also required to build up a suitably rich credit history and social footprint to enable reliable checks to be conducted.
+The Baseline Standard requires at least three years' worth of previous employment history. From experience, it is considered that a commensurate length of time is also required to build up a suitably rich credit history and social footprint to enable reliable checks to be conducted.
 
 [http://www.cpni.gov.uk/advice/personnel-security1/overseas-criminal-record-checks/](http://www.cpni.gov.uk/advice/personnel-security1/overseas-criminal-record-checks/)
 

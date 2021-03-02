@@ -114,7 +114,7 @@
             <p>An up to date status of any actions taken with respect to a particular security incident.</p>
           </li>
         </ul>
-        <p>This database and the effective reporting of security incidents which populate it are important in managing the <ph conref="conrefs.dita#conrefs/moj"/>’s overall risk exposure. This is both in the short term, to identity any major deficiencies with an IT system which requires immediate remedial action and in the long term, to capture lessons learnt to improve Information Assurance maturity.</p>
+        <p>This database and the effective reporting of security incidents which populate it are important in managing the <ph conref="conrefs.dita#conrefs/moj"/>'s overall risk exposure. This is both in the short term, to identity any major deficiencies with an IT system which requires immediate remedial action and in the long term, to capture lessons learnt to improve Information Assurance maturity.</p>
       </body>
     </topic>
     <topic id="categorisation-of-incidents">
@@ -249,7 +249,7 @@
               <p>Where there is a HMG requirement to report to another Department or central management function (e.g. GovCERT for network incidents or CINRAS for incidents involving HMG cryptographic material);</p>
             </li>
             <li>
-              <p>Where there is a significant actual or possible loss of personal information where the Information Commissioner’s Office and Cabinet Office need to be informed.</p>
+              <p>Where there is a significant actual or possible loss of personal information where the Information Commissioner's Office and Cabinet Office need to be informed.</p>
             </li>
           </ul>
         </body>
@@ -306,11 +306,11 @@
     <topic id="information-asset-owner-iao">
       <title>Information Asset Owner (IAO)</title>
       <body>
-        <p>The role of an IAO is to understand what information is held, how it’s adapted, used, shared and removed from an IT system.</p>
+        <p>The role of an IAO is to understand what information is held, how it's adapted, used, shared and removed from an IT system.</p>
         <p>
           <b>POL.IMP.013:</b>
         </p>
-        <p>All IT Security incidents involving the loss, theft or compromise of an Information Asset <b>must be</b> reported to the asset’s IAO.</p>
+        <p>All IT Security incidents involving the loss, theft or compromise of an Information Asset <b>must be</b> reported to the asset's IAO.</p>
       </body>
     </topic>
     <topic id="moj-operational-security-team-ost">
@@ -399,7 +399,7 @@
         <p>
           <b>POL.ITSEC.018:</b>
         </p>
-        <p>An IT system which has a significant compromise (Medium or High impact, see <xref href="#categorisation-of-incidents" format="dita">here</xref> ) <b>must be</b> reported to the system Accreditor and a review of that system’s risk assessment and accreditation must be conducted.</p>
+        <p>An IT system which has a significant compromise (Medium or High impact, see <xref href="#categorisation-of-incidents" format="dita">here</xref> ) <b>must be</b> reported to the system Accreditor and a review of that system's risk assessment and accreditation must be conducted.</p>
         <p>
           <b>POL.ITSEC.019:</b>
         </p>

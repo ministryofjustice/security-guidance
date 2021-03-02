@@ -110,7 +110,7 @@ The MoJ Operation Security Team \(OST\) is responsible for maintaining a central
 -   An up to date status of any actions taken with respect to a particular security incident.
 
 
-This database and the effective reporting of security incidents which populate it are important in managing the MoJ’s overall risk exposure. This is both in the short term, to identity any major deficiencies with an IT system which requires immediate remedial action and in the long term, to capture lessons learnt to improve Information Assurance maturity.
+This database and the effective reporting of security incidents which populate it are important in managing the MoJ's overall risk exposure. This is both in the short term, to identity any major deficiencies with an IT system which requires immediate remedial action and in the long term, to capture lessons learnt to improve Information Assurance maturity.
 
 ### Categorisation of incidents
 
@@ -209,7 +209,7 @@ The decisions to escalate an incident irrespective of its impact up through the 
 
 -   Where there is a HMG requirement to report to another Department or central management function \(e.g. GovCERT for network incidents or CINRAS for incidents involving HMG cryptographic material\);
 
--   Where there is a significant actual or possible loss of personal information where the Information Commissioner’s Office and Cabinet Office need to be informed.
+-   Where there is a significant actual or possible loss of personal information where the Information Commissioner's Office and Cabinet Office need to be informed.
 
 
 ## Incident Management Stakeholders
@@ -254,11 +254,11 @@ All High impact IT Security incidents and any IT Security incident involving per
 
 ### Information Asset Owner \(IAO\)
 
-The role of an IAO is to understand what information is held, how it’s adapted, used, shared and removed from an IT system.
+The role of an IAO is to understand what information is held, how it's adapted, used, shared and removed from an IT system.
 
 **POL.IMP.013:**
 
-All IT Security incidents involving the loss, theft or compromise of an Information Asset **must be** reported to the asset’s IAO.
+All IT Security incidents involving the loss, theft or compromise of an Information Asset **must be** reported to the asset's IAO.
 
 ### MoJ Operational Security Team \(OST\)
 
@@ -326,7 +326,7 @@ Based on the investigation of an IT Security incident, remedial action may be re
 
 **POL.ITSEC.018:**
 
-An IT system which has a significant compromise \(Medium or High impact, see [here](#categorisation-of-incidents) \) **must be** reported to the system Accreditor and a review of that system’s risk assessment and accreditation must be conducted.
+An IT system which has a significant compromise \(Medium or High impact, see [here](#categorisation-of-incidents) \) **must be** reported to the system Accreditor and a review of that system's risk assessment and accreditation must be conducted.
 
 **POL.ITSEC.019:**
 

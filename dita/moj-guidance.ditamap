@@ -23,6 +23,10 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Management direction for information security</navtitle></topicmeta>
 			<topicref href="setecastronomy.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="identify-protect-detect-respond-recover.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
+			<topicref href="it-security-policy-overview.dita" type="topic" audience="audience-basic audience-suppliers audience-tech">
+				<topicref href="it-security-all-users-policy.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
+				<topicref href="it-security-technical-users-policy.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			</topicref>
 			<topicref href="line-manager-approval.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="shared-responsibility-models.dita" type="topic" audience="audience-tech"/>
 		</topichead>
@@ -78,7 +82,9 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta audience="audience-basic audience-tech"><navtitle>Information classification</navtitle></topicmeta>
 			<topicref href="data-handling-and-information-sharing-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="government-classification-scheme.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="information-classification-and-handling-policy.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="information-classification-handling-and-security-guide.dita" type="topic" audience="audience-basic audience-tech">
+				<topicref href="information-classification-and-handling-policy.dita" type="topic" audience="audience-basic audience-tech"/>
+			</topicref>
 			<topicref href="official-official-sensitive.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="secrets-management.dita" type="topic" audience="audience-tech"/>
 		</topichead>
