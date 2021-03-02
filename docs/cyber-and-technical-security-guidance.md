@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 26 February 2021.
+**Note:** This guidance is dated: 2 March 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|On request.|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|On request.|
 
-The offline versions of this guidance are time-limited, and are not valid after 26 March 2021.
+The offline versions of this guidance are time-limited, and are not valid after 2 April 2021.
 
 ### Searching this content
 
@@ -84,7 +84,8 @@ The MoJ has developed our cyber and technical security taxonomy as follows:
 ||[User responsibilities](#user-responsibilities)|
 ||[System and application access control](#system-and-application-access-control)|
 |[Cryptography](#cryptography)|[Cryptographic controls](#cryptographic-controls)|
-|[Physical and environmental security](#physical-and-environmental-security)|[Equipment](#equipment)|
+|[Physical and environmental security](#physical-and-environmental-security)|[Secure areas](#secure-areas)|
+||[Equipment](#equipment)|
 |[Operations security](#operations-security)|[Operational procedures and responsibilities](#operational-procedures-and-responsibilities)|
 ||[Protection from malware](#protection-from-malware)|
 ||[Backup](#backup)|
@@ -212,6 +213,10 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Use of HMG Cryptography Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/use-of-hmg-cryptography-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 ### Physical and environmental security
+
+#### Secure areas
+
+|[Physical Security Policy](physical-security-policy.md)|All users|
 
 #### Equipment
 
