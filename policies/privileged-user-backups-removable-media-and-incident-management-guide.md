@@ -29,6 +29,8 @@ Privileged users need to ensure that there are backups of system data in order t
 - assign all backup media, whether physical or in the Cloud, a Protective Marking and provide appropriate protection based on that marking. Backup material must only be accessible to those who have a 'need-to-know', defined by the System Owner.
 - ensure backups are kept off-site in a secure location.  In a Cloud environment, this would equate to a resilient data store, such as AWS Backup or Azure Backup services.
 - where required, encryption types employed to prevent disclosure are outlined in the Information Risk Assessment Report (IRAR). Details of applicable encryption standards required are outlined in the [Technical Controls Guide](technical-security-controls-guide).
+
+Guidance for system specific privileged users:
 - where responsible for DOM1 systems, ensure backups are made to offsite locations such as to Dell EMC SANs in the MoJ off-site Ark and Ark-F data centres.
 - where responsible for Quantum systems, ensure backups are made to the redundant data centre.
 - where responsible for end user data, ensure data is not stored on or backed up to users' end devices but rather stored on OneDrive or Google Drive.
