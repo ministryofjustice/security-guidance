@@ -10,7 +10,7 @@ Target audience:
 
 ## Introduction
 
-This guide outlines the security procedures and advice that privileged users should follow to access the Ministry of Justice's (MoJ's) IT systems in a safe and secure manner. Privileged users are those who have elevated levels of system access in order to manage IT system components to meet MoJ IT service requirements. Privileged users may, for example, install software, configure and upgrade IT systems, input into the Service Management Tool for the systems they manage and run day-to-day operations to satisfy continuity of service, recovery, security and performance needs.  Examples of privileged users are those managing Slack or Github repositories, users who have administrative access on their laptops and users who setup and maintain platforms hosted in the Cloud.
+This guide outlines the security procedures and advice that privileged users should follow when accessing the Ministry of Justice's (MoJ's) IT systems in a safe and secure manner. Privileged users are those who have elevated levels of system access in order to manage IT system components to meet MoJ IT service requirements. Privileged users may, for example, install software, configure and upgrade IT systems, input into the Service Management Tool for the systems they manage and run day-to-day operations to satisfy continuity of service, recovery, security and performance needs.  This includes privileged users who manage Slack or Github repositories, users who have administrative access on their laptops and users who setup and maintain platforms hosted in the Cloud.
 
 Specific responsibilities of individual privileged users are likely to vary depending on the systems they manage. The system's Information Risk Assessment Report ([IRAR](https://docs.google.com/document/d/1MeJJtfHpwR1XM_okk3Pi4gW0bpcnLDdt5OXwddB7-Bk/edit?ts=5e25c004)) will document the security controls, some of which the system's privileged users will run. For a comprehensive list of individual responsibilities, privileged users should refer to the system specific documentation.
 
@@ -42,9 +42,9 @@ Privileged user accounts have a high degree of risk associated with them due to 
 - Privileged user passwords must be created in line with the MoJ's [Password Guide](password-creation-and-authentication-guide.md).
 - The password for a privileged user account must not be re-used for another privileged user account or a normal user account.
 - Privileged user passwords must be deleted along with the account when a privileged user leaves the MoJ or changes role.
-- Privileged user accounts on depreciated systems must be reviewed quarterly for breach as aging systems frequently cannot be, or are not, patched leaving them vulnerable to take over.
 - Multi Factor Authentication (MFA) must be used for privileged user accounts where possible. See the [Password Guide](password-creation-and-authentication-guide.md) for further details.
 - Privileged user accounts must only be used when carrying out administrative tasks such as creating new user accounts or implementing software updates. At all other times a normal user account must be used, e.g. for tasks such as searching the internet and reading emails.
+- Privileged user accounts on depreciated systems must be reviewed quarterly by system owners for breach as aging systems frequently cannot be, or are not, patched leaving them vulnerable to take over.
 - Privileged users must not abuse the privileges they are given, such as circumventing controls put in place to protect the MoJ.
 
 For further information on managing privileged user accounts see the [Configuration, Patching and Change Management Guide](privileged-user-configuration-patching-and-change-management-guide.md).
@@ -86,8 +86,5 @@ Access to the VPN requires 2 Factor Authentication (2FA). The [IT Security Polic
 
 ## Contact details
 
- - Contact the Cyber Assistance Team for advice: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
-
- - Contact the Technology Service Desk to report a suspected incident: 0800 917 5148.
-
- - Contact the MoJ Group Security Team to report non-technology incidents - [mailto:mojgroupsecurity@justice.gov.uk](mojgroupsecurity@justice.gov.uk)
+- Contact the Technology Service Desk to report a suspected IT incident: Telephone: 0800 917 5148.
+- Contact the MoJ Security Team for further advice and to report other security incidents: [Security@justice.gov.uk](mailto:Security@justice.gov.uk)

@@ -41,6 +41,5 @@ To ensure that there is an audit trail for log data, privileged users must:
 
 ## Contact details
 
-- Contact the Cyber Assistance Team for advice: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
 - Contact the Technology Service Desk to report a suspected incident: 0800 917 5148.
-- Contact the Operational Security Team: [Operationalsecurityteam@justice.gov.uk](Operationalsecurityteam@justice.gov.uk)
+- Contact the MoJ Security Team for further advice and to report other security incidents: [Security@justice.gov.uk](mailto:Security@justice.gov.uk)

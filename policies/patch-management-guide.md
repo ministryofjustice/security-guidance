@@ -24,8 +24,7 @@ The patching guide must be followed for all asset types including, but not limit
 
 ## Internet facing websites
 
-If you are developing or running any websites or services that are publicly accessible through the open internet, you must patch any vulnerabilities and common configuration errors identified
-either through the MoJ's Web Check Account (see the [Vulnerability Scanning Guide](vulnerability-scanning-guide.md) for details) or by any other means. You need to ensure that any vulnerabilities identified are remediated according to Service Level Agreements (SLAs) in this guide below.
+If you are developing or running any websites or services that are publicly accessible through the open internet, you must patch any vulnerabilities and common configuration errors identified either through the MoJ's Web Check Account (see the [Vulnerability Scanning Guide](vulnerability-scanning-guide.md) for details) or by any other means. You need to ensure that any vulnerabilities identified are remediated according to Service Level Agreements (SLAs) in this guide below.
 
 ## End user clients
 
