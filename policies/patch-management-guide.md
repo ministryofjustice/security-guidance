@@ -82,7 +82,7 @@ There are two patching and change management approaches in the MoJ:
 
 Where services and infrastructure are provided by MSPs, the vendor is normally responsible for developing and implementing patches to identified vulnerabilities. Patches or a workaround must be provided by vendors to ensure the MoJ is able to meet the SLAs for implementing patches. If this is not possible, vendors must provide an indication that the patch/workaround cannot be made available within the timescale mandated for addressing the vulnerability. This must be escalated to the Risk Advisor team for acceptance, transfer, mitigation or avoidance.
 
-Any patches to be deployed must go through the approval process, outlined in the diagram below, and the changes recorded in the Service Management Tool.
+Any patches to be deployed must go through the approval process, as outlined in the following diagram, and the changes recorded in the Service Management Tool.
 
 ![](patch-approval.png)
 
