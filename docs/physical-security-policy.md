@@ -62,6 +62,10 @@ The implementation of all security measures **MUST** be able to provide evidence
 
 The constantly changing security landscape has necessarily dictated that Physical Security measures be constantly re-evaluated and tested in order to meet new threats and other emerging vulnerabilities. This policy and subsequent supporting standards are subject to annual review, or more frequently, as warranted.
 
+## Physical security advice
+
+Physical security advice can be obtained by contacting MoJ Group Security: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk).
+
 ## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
