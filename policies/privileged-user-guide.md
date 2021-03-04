@@ -1,5 +1,5 @@
 ---
-Review: 2020-12-31
+Review: 2021-12-31
 Owner: CISO
 Target audience:
 ---
@@ -27,7 +27,7 @@ This guide is aimed at two audiences, both technical:
 
 For further details about privileged user responsibilities, see the guides below.
 
-- [Privileged Account Management Guide](privileged-account-management-guide.md): provides the guidelines to ensure that privileged accounts are securely managed, it is part of the [Access Control Guide](https://ministryofjustice.github.io/security-guidance/access-control-guide/#access-control-guide).
+- [Privileged Account Management Guide](https://ministryofjustice.github.io/security-guidance/privileged-account-management-guide/#privileged-account-management-guide): provides the guidelines to ensure that privileged accounts are securely managed, it is part of the [Access Control Guide](https://ministryofjustice.github.io/security-guidance/access-control-guide/#access-control-guide).
 - [Logging Guide](privileged-user-logging-and-protective-monitoring-guide.md): provides information about security procedures privileged users should implement to conduct logging activities.
 - [Backups, Removable Media and Incident Management Guide](privileged-user-backups-removable-media-and-incident-management-guide.md): provides information that privileged users should follow to reduce the impact of a security incident and how they should respond.
 - [Configuration, Patching and Change Management Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/privileged-user-configuration-and-change-management-guide.md): provides privileged users with guidance to ensure that systems are configured securely, change is managed correctly and systems are patched regularly.
