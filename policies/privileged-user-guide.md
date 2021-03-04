@@ -18,7 +18,7 @@ This page is the first in a series of guides for privileged users within the MoJ
 
 ## Who is this for?
 
-This guide is aimed at two audiences (both technical):
+This guide is aimed at two audiences, both technical:
 
 1. The in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge (EPICK) Team.
 2. Any other MoJ business groups, Agencies, contractors, IT suppliers and partners who in any way design, develop or supply services (including processing, transmitting and storing data) for, or on behalf of the MoJ.
@@ -27,10 +27,10 @@ This guide is aimed at two audiences (both technical):
 
 For further details about privileged user responsibilities, see the guides below.
 
-- [Privileged Account Management Guide](privileged-account-management-guide.md): provides the guidelines to ensure that privileged accounts are securely managed, it is part of the [Access Control Guide](../access-control-guide/).
+- [Privileged Account Management Guide](privileged-account-management-guide.md): provides the guidelines to ensure that privileged accounts are securely managed, it is part of the [Access Control Guide](https://ministryofjustice.github.io/security-guidance/access-control-guide/#access-control-guide).
 - [Logging Guide](privileged-user-logging-and-protective-monitoring-guide.md): provides information about security procedures privileged users should implement to conduct logging activities.
 - [Backups, Removable Media and Incident Management Guide](privileged-user-backups-removable-media-and-incident-management-guide.md): provides information that privileged users should follow to reduce the impact of a security incident and how they should respond.
-- [Configuration, Patching and Change Management Guide](privileged-user-configuration-patching-and-change-management-guide.md): provides privileged users with guidance to ensure that systems are configured securely, change is managed correctly and systems are patched regularly.
+- [Configuration, Patching and Change Management Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/privileged-user-configuration-and-change-management-guide.md): provides privileged users with guidance to ensure that systems are configured securely, change is managed correctly and systems are patched regularly.
 
 ## Management of privileged user accounts
 
@@ -39,15 +39,15 @@ Privileged user accounts have a high degree of risk associated with them due to 
 - Privileged user accounts should only be created for users with a genuine business need and only for the duration that the business need exists.
 - Privileged access must be limited and granted in line with the principle of least privilege to fulfil the required function.
 - They should be strictly controlled and their number kept to the absolute minimum per system or app.
-- Privileged user passwords must be created in line with the MoJ's [Password Guide](password-creation-and-authentication-guide.md).
+- Privileged user passwords must be created in line with the MoJ's [Password Guide](https://ministryofjustice.github.io/security-guidance/password-creation-and-authentication-guide/#password-creation-and-authentication-guide).
 - The password for a privileged user account must not be re-used for another privileged user account or a normal user account.
 - Privileged user passwords must be deleted along with the account when a privileged user leaves the MoJ or changes role.
-- Multi Factor Authentication (MFA) must be used for privileged user accounts where possible. See the [Password Guide](password-creation-and-authentication-guide.md) for further details.
+- Multi Factor Authentication (MFA) must be used for privileged user accounts where possible. See the [Password Guide](https://ministryofjustice.github.io/security-guidance/password-creation-and-authentication-guide/#password-creation-and-authentication-guide) for further details.
 - Privileged user accounts must only be used when carrying out administrative tasks such as creating new user accounts or implementing software updates. At all other times a normal user account must be used, e.g. for tasks such as searching the internet and reading emails.
 - Privileged user accounts on depreciated systems must be reviewed quarterly by system owners for breach as aging systems frequently cannot be, or are not, patched leaving them vulnerable to take over.
 - Privileged users must not abuse the privileges they are given, such as circumventing controls put in place to protect the MoJ.
 
-For further information on managing privileged user accounts see the [Configuration, Patching and Change Management Guide](privileged-user-configuration-patching-and-change-management-guide.md).
+For further information on managing privileged user accounts see the [Configuration, Patching and Change Management Guide](https://github.com/ministryofjustice/security-guidance/blob/Local/policies/privileged-user-configuration-and-change-management-guide.md).
 
 ## Resource monitoring
 
@@ -69,7 +69,7 @@ Privileged users are responsible for managing user access to systems to enable e
 
 - only create user accounts once authorisation has been received from that user's line manager.
 - only grant permissions that are in line with the user's business role within the MoJ.
-- review user account usage every 90 days. If an account is dormant, the privileged user must investigate its status and suspend the account if appropriate. See the [Access Control Guide](access-control-guide.md) for details.
+- review user account usage every 90 days. If an account is dormant, the privileged user must investigate its status and suspend the account if appropriate. See the [Access Control Guide](https://ministryofjustice.github.io/security-guidance/access-control-guide/#access-control-guide) for details.
 - disable all user and privileged user accounts when staff members leave the MoJ or where the account is not required due to a change of role. Privileged users will be automatically notified by HR when access changes or revocations are required.
 - retain a record of all authorised users, approvals and changes of access rights and privileges for any network, system or application for which privileged users are responsible.
 
@@ -82,7 +82,7 @@ When working remotely, it is important that privileged users operate securely by
 - ensuring that they use the MoJ's Virtual private Network (VPN) to connect with MoJ systems when using Privileged user login details.
 - using only MoJ issued equipment to connect to the MoJ estate and to carry out MoJ business.
 
-Access to the VPN requires 2 Factor Authentication (2FA). The [IT Security Policy](it-security-policy.md) and [Remote Working](remote-working.md) guidance documents contain further information about Remote Working.
+Access to the VPN requires 2 Factor Authentication (2FA). The [IT Security Policy](https://ministryofjustice.github.io/security-guidance/it-security-policy-overview/#it-security-policy-overview) and [Remote Working](https://ministryofjustice.github.io/security-guidance/remote-working/#remote-working) guidance documents contain further information about Remote Working.
 
 ## Contact details
 
