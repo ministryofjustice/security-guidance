@@ -50,7 +50,7 @@ The Asset Owner is responsible for determining the classification that applies t
 
 All users are responsible for applying the appropriate classification to information assets created or handled on an IT system, where a pre-existing classification does not exist.
 
-**Note:** As outlined in [MoJ IT Security Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/), each IT system is required to have a Business Impact Assessment \(BIA\). This BIA should be used to record the assessment rational and decision on the impact levels for Confidentiality, Integrity and Availability.
+**Note:** As outlined in the [MoJ IT Security Policy](it-security-policy-overview.md), all MoJ data and assets must have IT security controls designed and implemented to protect Confidentiality, Integrity, and Availability.
 
 Further information on the criteria and derivation for classification can be found at: [https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/).
 

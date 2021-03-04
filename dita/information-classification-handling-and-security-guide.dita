@@ -51,7 +51,10 @@
                 stolen,
                 or published,
                 it could have damaging consequences,
-                but is not subject to a heightened threat profile.</entry>
+                but is not subject to a heightened threat profile.
+                For regular,
+                unsupervised access to <codeph>OFFICIAL</codeph> information,
+                someone would be expected to have achieved <xref href="https://www.gov.uk/government/publications/government-baseline-personnel-security-standard" format="html" scope="external">Baseline Personnel Security Standard (BPSS)</xref> assessment.</entry>
             </row>
             <row>
               <entry colname="col1"><b><codeph>SECRET</codeph></b></entry>
@@ -61,7 +64,13 @@
                 For example,
                 where compromise could seriously damage military capabilities,
                 international relations,
-                or the investigation of a serious crime.</entry>
+                or the investigation of a serious crime.
+                For regular,
+                unsupervised access to <codeph>SECRET</codeph> information,
+                someone would be expected to have passed <xref href="https://www.gov.uk/guidance/security-vetting-and-clearance#applicant" format="html" scope="external">National Security Vetting</xref> Security Check (SC) clearance.
+                In exceptional circumstances,
+                someone with BPSS might be granted occasional supervised access to UK <codeph>SECRET</codeph> assets,
+                or be required to work in areas where <codeph>SECRET</codeph> or <codeph>TOP SECRET</codeph> information might be overheard.</entry>
             </row>
             <row>
               <entry colname="col1"><b><codeph>TOP SECRET</codeph></b></entry>
@@ -248,6 +257,15 @@
     <topic id="reclassifying-information" conref="information-classification-and-handling-policy.dita#reclassifying-information"><title/></topic>
     <topic id="reclassification-examples">
       <title>Reclassification examples</title>
+      <body>
+        <p>When deciding whether it is appropriate or desirable to reclassify information,
+          a useful model is to consider what audience might get value from accessing the information.
+          For example,
+          if a hostile country might want the information,
+          then the information might well be best classified as <codeph>SECRET</codeph>.
+          Alternatively,
+          a reclassification decision might be required as a result of changing threat advice from intelligence agencies.</p>
+      </body>
       <topic id="example-1">
         <title>Example 1</title>
         <body>
@@ -447,12 +465,7 @@
                 <entry colname="col1"><b><codeph>TECHNICAL</codeph></b></entry>
                 <entry colname="col2"><codeph>SECRET</codeph> information at rest should be protected with very strong encryption.
                   Contact the <ph conref="conrefs.dita#conrefs/moj"/> Security Team for more information: <ph conref="conrefs.dita#conrefs/securityemail"/>.</entry>
-                <entry colname="col3">In the development of a new cloud-hosted solution for <codeph>SECRET</codeph> information,
-                  you should consider the following:
-                  information stored <q>at rest</q> on the cloud is encrypted with very strong encryption;
-                  information in transit between the end user and the cloud service is encrypted with very strong encryption,
-                  and the cloud service used is approved for the <codeph>SECRET</codeph> threat model with guidance from the <ph conref="conrefs.dita#conrefs/moj"/> Security Team:
-                  <ph conref="conrefs.dita#conrefs/securityemail"/>.</entry>
+                <entry colname="col3"> </entry>
               </row>
               <row>
                 <entry colname="col1"> </entry>
@@ -527,13 +540,7 @@
                 <entry colname="col2">When physical security measures cannot be used,
                   <codeph>TOP SECRET</codeph> information at rest should be protected with extremely strong encryption.
                   Contact the <ph conref="conrefs.dita#conrefs/moj"/> Security Team in these circumstances: <ph conref="conrefs.dita#conrefs/securityemail"/>.</entry>
-                <entry colname="col3">In the development of a new cloud-hosted solution for <codeph>TOP SECRET</codeph> information,
-                  you should contact the <ph conref="conrefs.dita#conrefs/moj"/> Security Team:
-                  <ph conref="conrefs.dita#conrefs/securityemail"/>.
-                  Information stored <q>at rest</q> on the cloud is encrypted with extremely strong encryption;
-                  information in transit between the end user and the cloud service is encrypted with extremely strong encryption,
-                  and the cloud service used is accredited approved for the <codeph>SECRET</codeph> threat model,
-                  with guidance from the <ph conref="conrefs.dita#conrefs/moj"/> Security Team: <ph conref="conrefs.dita#conrefs/securityemail"/>.</entry>
+                <entry colname="col3"> </entry>
               </row>
               <row>
                 <entry colname="col1"> </entry>
