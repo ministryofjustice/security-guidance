@@ -213,15 +213,13 @@ has made for the products we operate, and our relationships with suppliers.</p>
 						</row>
 <!-- Physical and environmental security -->
 <!--   Secure areas -->
-						<!--
 						<row>
 							<entry colname="col1"><xref href="#physical-and-environmental-security" format="dita">Physical and environmental security</xref></entry>
 							<entry colname="col2"><xref href="#secure-areas" format="dita">Secure areas</xref></entry>
 						</row>
-						-->
 <!--   Equipment -->
 						<row>
-							<entry colname="col1"><xref href="#physical-and-environmental-security" format="dita">Physical and environmental security</xref></entry>
+							<entry colname="col1"> </entry>
 							<entry colname="col2"><xref href="#equipment" format="dita">Equipment</xref></entry>
 						</row>
 <!-- Operations security -->
@@ -749,11 +747,17 @@ has made for the products we operate, and our relationships with suppliers.</p>
 
       <topic id="physical-and-environmental-security">
         <title>Physical and environmental security</title>
-        <!--
         <topic id="secure-areas">
           <title>Secure areas</title>
+          <body>
+            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
+              <row>
+                <entry colname="col1" align="left"><xref href="physical-security-policy.dita" format="dita">Physical Security Policy</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+            </tbody></tgroup></table>
+          </body>
         </topic>
-        -->
         <topic id="equipment">
           <title>Equipment</title>
           <body>
