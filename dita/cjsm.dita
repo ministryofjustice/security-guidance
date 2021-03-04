@@ -12,5 +12,5 @@
       <p>Email services that are materially aligned to the <xref href="https://www.gov.uk/guidance/securing-government-email" format="html" scope="external">UK government secure email policy</xref> are suitable for the movement of <codeph>OFFICIAL</codeph> data, including where the <codeph>SENSITIVE</codeph> handling caveat has been applied.</p>
     </body>
   </topic>
-  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

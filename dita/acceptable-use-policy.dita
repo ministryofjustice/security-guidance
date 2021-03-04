@@ -8,5 +8,5 @@
     <p>Guidance about Acceptable Use of IT within the <ph conref="conrefs.dita#conrefs/moj"/> is available <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external" platform="html">here</xref><xref href="acceptable-use.dita" format="dita" platform="epub pdf">here</xref>.</p>
     <p>The definitive list of Acceptable Use Policy statements is available <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/" format="html" scope="external" platform="html">here</xref><xref href="it-acceptable-use-policy.dita" format="dita" platform="epub pdf">here</xref>.</p>
   </body>
-  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

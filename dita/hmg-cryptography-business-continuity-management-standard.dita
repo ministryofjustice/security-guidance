@@ -62,7 +62,7 @@
     <topic id="work-ethic-with-key-variables">
       <title>Work ethic with key variables</title>
       <body>
-        <p>The area that the <ph conref="conrefs.dita#conrefs/moj"/> Custodian works is open plan in an accredited IL3 environment. The DSO has further accredited the immediate area surrounding the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian in 5.31 of 102 Petty France for Crypto Management on the understanding that the personnel surrounding them are SC cleared and because there are desks immediately by the safe to allow a clear line of site from the Custodian’s desk to the safe.</p>
+        <p>The area that the <ph conref="conrefs.dita#conrefs/moj"/> Custodian works is open plan in an accredited IL3 environment. The DSO has further accredited the immediate area surrounding the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian in 5.31 of 102 Petty France for Crypto Management on the understanding that the personnel surrounding them are SC cleared and because there are desks immediately by the safe to allow a clear line of site from the Custodian's desk to the safe.</p>
         <p>All key variables must be kept in the safe and only removed when specific action is required on a key variable.</p>
       </body>
     </topic>
@@ -98,5 +98,5 @@
       </ul>
     </body>
   </topic>
-  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

@@ -670,5 +670,5 @@ incident (see Figure 4).]</entry>
       <p>Figure 4 – ITSIM Escalation path</p>
     </body>
   </topic>
-  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

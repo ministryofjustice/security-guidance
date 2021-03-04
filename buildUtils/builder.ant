@@ -66,7 +66,7 @@
 				description="compile the source into markdown">
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${dita}/html.ditaval:${dita}/audience-allusers.ditaval"/>
+			<property name="args.filter" value="${dita}/html.ditaval:${dita}/audience-tech.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="markdown_github"/>
 		</ant>
@@ -224,6 +224,28 @@
 			<fileset file="${docs}/${theFileName}.md"/>
 		</concat>
 		<copy file="${temp.file}" tofile="${docs}/${theFileName}.md" overwrite="true"/>
+	</target>
+
+	<target name="dist_local" depends="compile_md"
+				description="generate minimal set to test local build">
+		<!-- Create the distribution directory -->
+		<mkdir dir="${docs}"/>
+		<mkdir dir="${docs}/images"/>
+		<copy todir="${docs}" >
+			<fileset dir="${jekyll-baseline}"/>
+		</copy>
+		<copy todir="${docs}/images" >
+			<fileset dir="${images}"/>
+		</copy>
+		<copy todir="${docs}" >
+			<fileset dir="${build}"/>
+		</copy>
+		<foreach target="enableRedirect" param="theFile">
+			<path>
+				<fileset dir="${redirects}"/>
+			</path>
+		</foreach>
+		<copy file="${docs}/cyber-and-technical-security-guidance.md" tofile="${docs}/index.md" overwrite="true"/>
 	</target>
 
 	<target name="dist" depends="compile"

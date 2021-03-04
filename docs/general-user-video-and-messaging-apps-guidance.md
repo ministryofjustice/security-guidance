@@ -79,7 +79,7 @@ You have a duty of confidentiality and a responsibility to safeguard any HMG inf
 
 Remember that it is impossible to delete information after it's released in public.
 
-For more information about MoJ IT Security, look on the MoJ Intranet [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/).
+For more information about MoJ IT Security, look on the MoJ Intranet [here](https://intranet.justice.gov.uk/guidance/security/).
 
 ### Storage and data retention
 
@@ -95,11 +95,11 @@ When we receive a request for information, we need to know where we hold all the
 -   We understand the information held, and where to find it.
 -   We can transfer records to The National Archives.
 
-Always store MoJ information in MoJ systems. If you use a tool for work tasks, make sure the key information is stored in an appropriate MoJ system. Guidance on what you must keep is available on the Intranet [here](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/what-to-keep/). At regular and convenient intervals, transfer the information to an appropriate MoJ system. Do the same when you finish the work. Don't forget to remove any redundant information from a tool by clearing or deleting data if it has been preserved in an MoJ system.
+Always store MoJ information in MoJ systems. If you use a tool for work tasks, make sure the key information is stored in an appropriate MoJ system. Guidance on what you must keep is available on the Intranet [here](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/keeping-deleting-disclosing-info/). At regular and convenient intervals, transfer the information to an appropriate MoJ system. Do the same when you finish the work. Don't forget to remove any redundant information from a tool by clearing or deleting data if it has been preserved in an MoJ system.
 
 Many tools lets you export your data. You can then store it on an appropriate MoJ system. Sometimes it's easier to copy and paste text into a new document. Make sure that only the correct people have access to the information. This is important after staff or organisational changes, for example.
 
-For more guidance, read the [MoJ Information Management Policy](https://intranet.justice.gov.uk/documents/2015/04/information-management-policy.pdf) on the Intranet. There is also help on [responding to requests for information](https://intranet.justice.gov.uk/guidance/knowledge-information/providing-information-to-the-public/freedom-of-information/).
+For more guidance, read the [Information Management](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/) section on the Intranet. There is also help on [responding to requests for information](https://intranet.justice.gov.uk/guidance/knowledge-information/providing-information-to-the-public/freedom-of-information/).
 
 ## Acceptable Use
 

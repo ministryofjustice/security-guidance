@@ -37,5 +37,5 @@
       <p>Information left on desks is also more likely to be damaged or destroyed in a disaster such as fire or flood.</p>
     </body>
   </topic>
-  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
