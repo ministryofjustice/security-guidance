@@ -40,7 +40,7 @@ As a result, depending on the expected use of the reassigned device, it may be p
 
 The equipment should be reviewed to ensure that sensitive data will not be lost by erasing the contents of the device.  Any sensitive data identified should be copied and relocated to a secure location before the device is made ready for reuse or destroyed.  
 
-Any IT equipment which is no longer needed or has reached its “end of life” must have its data securely deleted and sensitive data deemed unreadable and unrecoverable before redistribution or reuse within the organisation, see below.
+Any IT equipment which is no longer needed or has reached its “end of life” must have its data securely deleted and sensitive confirmed to be unreadable and unrecoverable before redistribution or reuse within the organisation, see below.
 
 ## Equipment Reassignment
 
@@ -49,7 +49,7 @@ being formally reassigned.
 
 Equipment must be completely 'cleaned' to an 'as-new' state before it is reused or reassigned. This means that all storage media in the device must be fully erased.  Be aware that deleting visible files, emptying files from the “Recycle Bin” of a computer or reformatting a drive are not considered a sufficiently secure method of wiping equipment, as data recovery software could be used by a new owner to “undelete” files or “unformat” a drive.  
 
-In order to really erase data it is necessary to use data-shredding software. These programs don't just delete data - they overwrite it multiple times to erase all trace, making it almost impossible for anyone to retrieve it.
+In order to really erase data it is necessary to use the appropriate data-shredding software for the media being erased. These programs don't just delete data - they overwrite it multiple times to erase all trace, making it almost impossible for anyone to retrieve it.
 
 The reassignment must be recorded by the line manager in the appropriate asset register.
 
@@ -57,7 +57,7 @@ The reassignment must be recorded by the line manager in the appropriate asset r
 
 In the event that IT assets are no longer needed by the MoJ and cannot be securely wiped, the equipment may need to be physically destroyed.  More information can be found at [https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-ict-equipment/](https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-ict-equipment/)
 
-Redundant IT equipment should not be donated to charities, schools, etc
+Redundant IT equipment should not be donated to charities, schools, etc.
 
 ## Leased equipment
 
