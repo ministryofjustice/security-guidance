@@ -1,5 +1,5 @@
 ---
-Review: 2020-12-31
+Review: 2021-12-31
 Owner: CISO
 Target audience: DevOps, Technical Architects, Incident Managers, IT Service Managers, Software Developers
 ---
@@ -11,7 +11,7 @@ Target audience: DevOps, Technical Architects, Incident Managers, IT Service Man
 ## Introduction
 
 This guide explains how to manage privileged accounts in order to minimise the security risks
-associated with their use. This also applies to staff who have elevated access to their systems to allow them to run and install applications, such as developers in Digital and Technology.  This is a sub-page to the [Access Control Guide](../access-control-guide/).
+associated with their use. This also applies to staff who have elevated access to their systems to allow them to run and install applications, such as developers in Digital and Technology.  This is a sub-page to the [Access Control Guide](https://ministryofjustice.github.io/security-guidance/access-control-guide/#access-control-guide).
 
 ## How to manage privileged accounts
 
@@ -27,10 +27,10 @@ Privileged accounts should be protected with the following controls.
 | --- |
 | ✔ Ensure that privileged users only use their system administrator account when elevated privileges are required. Their general user account should be used for all other work activities. |
 | ✔ Ensure that management or administrative access is limited to users who have been suitably authenticated and have been authorised to perform the specific action. Only those with a genuine business need should have an administrative account, however there should be a sufficient number of administrators that there is not a single point of failure due to absence or administrators leaving the MoJ. This should be enforced through the principle of least privilege. |
-| ✔ Ensure that Multi Factor Authentication (MFA) is used where possible, such as where administrative consoles provide access to manage cloud based infrastructure, platforms or services. MFA should also be used to access enterprise level social media accounts. See the [Multi-Factor Authentication Guide](../multi-factor-authentication-mfa-guide/) for details of preferred MFA types. Where MFA cannot be used on a system, this is considered an exception and should be logged in the risk register. |
+| ✔ Ensure that Multi Factor Authentication (MFA) is used where possible, such as where administrative consoles provide access to manage cloud based infrastructure, platforms or services. MFA should also be used to access enterprise level social media accounts. See the [Multi-Factor Authentication Guide](https://ministryofjustice.github.io/security-guidance/multi-factor-authentication-mfa-guide/#multi-factor-authentication-mfa-guide) for details of preferred MFA types. Where MFA cannot be used on a system, this is considered an exception and should be logged in the risk register. |
 | ✔ Ensure that MFA is mandated for a privileged user to conduct important or privileged actions such as changing fundamental configurations including changing registered email addresses or adding another administrator. |
 | ✔ Ensure that MFA is used as a validation step, to confirm actions requested by users, such as a MFA re-prompt when attempting to delete or modify data. |
-| ✔ Ensure that default passwords are managed as described in the [Password Manager guidance](../../security_decisions/standards/password-managers/). |
+| ✔ Ensure that default passwords are managed as described in the [Password Manager guidance](https://ministryofjustice.github.io/security-guidance/password-managers/#password-managers). |
 
 | DON’T |
 | --- |

@@ -1,12 +1,12 @@
 ---
-Review: 2020-12-31
+Review: 2021-12-31
 Owner: CISO
 Target audience:
 ---
 
 [Home > Cyber and Technical Security](home-security-policies-guides.md)
 
-# Privileged User Logging and Protective Monitoring Guide
+# Privileged User - Logging and Protective Monitoring Guide
 
 ## Introduction
 
@@ -34,7 +34,7 @@ Privileged users are responsible for maintaining system logs (syslogs) for the s
 
 To ensure that there is an audit trail for log data, privileged users must:
 
-- protect the information held within system audit logs in accordance with its Information Classification (refer to the [Information Classification Handling and Security Guide](information-classification-handling-and-security-guide.md) for further guidance on classifying information)
+- protect the information held within system audit logs in accordance with its Information Classification (refer to the [Information Classification Handling and Security Guide](https://ministryofjustice.github.io/security-guidance/information-classification-handling-and-security-guide/#information-classification-handling-and-security-guide) for further guidance on classifying information)
 - establish log archival processes while filtering out entries that do not need to be archived to ensure log availability
 - ensure that systems are designed with access controls to prevent privileged users from erasing or deactivating activity logs of their own activities, without the additional approval of the product or service manager
 - review the activity logs of other privileged users on a monthly basis to ensure that privileged users remain impartial.
