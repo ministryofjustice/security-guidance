@@ -1,12 +1,12 @@
 ---
-Review: 2020-12-31
+Review: 2021-12-31
 Owner: CISO
 Target audience: All Users
 ---
 
 [Home > Cyber and Technical Security](home-security-policies-guides.md)
 
-# Equipment Reassignment
+# Equipment Reassignment Guide
 
 ## Introduction
 
