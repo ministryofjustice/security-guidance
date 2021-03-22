@@ -51,6 +51,21 @@
 		<mkdir dir="${worddocs}"/>
 	</target>
 
+	<target name="policy_builder"
+			description="create standalone PDF of a given policy document.">
+		<echo message="Building policy: ${thePolicy}"/>
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${dita}/${thePolicy}.ditamap"/>
+			<property name="args.filter" value="${dita}/pdf.ditaval:${dita}/audience-tech.ditaval"/>
+			<property name="output.dir" location="${intranet}"/>
+			<property name="transtype" value="pdf"/>
+		</ant>
+		<exec dir="buildUtils" executable="python3">
+			<arg line="combinator.py ../srcMedia/${thePolicy}.pdf ../intranet/${thePolicy}.pdf ${temp.file}"/>
+		</exec>
+		<copy file="${temp.file}" tofile="${intranet}/${thePolicy}.pdf" overwrite="true"/>
+	</target>
+
 	<target name="compile_intranet" depends="init"
 				description="compile the Intranet collection into markdown">
 		<delete dir="${intranet}"/>
@@ -60,6 +75,9 @@
 			<property name="output.dir" location="${intranet}"/>
 			<property name="transtype" value="markdown_github"/>
 		</ant>
+		<antcall target="policy_builder">
+            <param name="thePolicy" value="policy-it-policy"/>
+        </antcall>
 	</target>
 
 	<target name="compile_md" depends="init"
