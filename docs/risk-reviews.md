@@ -5,25 +5,38 @@
 
 ## Overview
 
-Information and the supporting processes, systems and networks are important and valuable Ministry of Justice \(MoJ\) assets. They are central to enabling the MoJ to perform its functions and provide services to the public, the legal professions, and other government departments and organisations.
+This document describes the requirement to have Risk Reviews for Ministry of Justice \(MoJ\) systems or information.
+
+The information is intended for:
+
+-   Anyone with responsibility for an MoJ asset.
+-   Anyone involved with identifying or managing any risk associated with an MoJ asset.
+
+Use the information in this document to understand why a risk review is necessary, to ensure that a Risk Review has taken place, and is maintained in an up-to-date state, for an MoJ asset.
+
+In particular, if you have responsibility for managing the risks associated with an MoJ asset, you should use and complete the supplied sample risk assessment template, available [here](risk-assessment.md). For help with risk reviews, and risk management in general, [contact the Cyber Assistance Team](#contact-details).
+
+## Background
+
+Information and the supporting processes, systems and networks are important and valuable MoJ assets. They are central to enabling the MoJ to perform its functions and provide services to the public, the legal professions, and other government departments and organisations.
 
 Confidentiality, integrity and availability of information is essential to maintain the MoJ's ability to provide efficient and effective services, maintain compliance with legal and regulatory requirements, and maintain its and the Government's reputation.
 
-The MoJ and its information systems and networks are faced with security threats from a wide range of sources, including computer-assisted fraud, sabotage, vandalism, fire and flood. Sources of damage such as computer viruses, computer hacking and denial of service attacks have become more common, more ambitious and increasingly sophisticated.
+The MoJ and its information systems and networks are faced with security threats from a wide range of sources, including computer-assisted fraud, sabotage, vandalism, fire, and flood. Sources of damage such as computer viruses, computer hacking, and denial of service attacks have become more common, more ambitious, and increasingly sophisticated.
 
 The MoJ's dependence on its information systems and services means that there is always a possibility of technology-enabled security threats. Connections between the MoJ's computer networks and public and other private networks, and sharing of information resources, further increase the difficulty of achieving and maintaining control.
 
 It is essential that the MoJ identify its information security requirements. There are three main sources of these requirements.
 
--   The legal, statutory, regulatory and contractual requirements that the MoJ, its partners, contractors and service providers have to satisfy.
--   The principles, objectives and requirements for information processing that the MoJ and Government have developed to support their operations, for example the protective marking system and government baseline security standards.
+-   The legal, statutory, regulatory, and contractual requirements that the MoJ, its partners, contractors, and service providers have to satisfy.
+-   The principles, objectives, and requirements for information processing that the MoJ and Government have developed to support their operations, for example the protective marking system and government baseline security standards.
 -   Assessed risks to the MoJ. Through risk assessment, threats to assets are identified, the potential business impacts of these threats are estimated, and the vulnerability to and likelihood of occurrence of the threats are evaluated.
 
 ## Assessing information security risk
 
 Security requirements are identified by a methodical assessment of security risks. Expenditure on security controls needs to be balanced against the business harm likely to result from security failures. Risk assessment is systematic consideration of:
 
--   The business harm \(the 'impact'\) which is likely to result from a security failure, taking into account the potential consequences of a loss of confidentiality, integrity or availability of the information and other assets.
+-   The business harm \(the “impact”\) which is likely to result from a security failure, taking into account the potential consequences of a loss of confidentiality, integrity or availability of the information and other assets.
 -   The realistic likelihood of such a failure occurring in the light of the threats to and vulnerabilities of the system, and the controls currently implemented.
 
 A sample risk assessment template, and a worked example, can be found [here](risk-assessment.md).
@@ -68,6 +81,8 @@ The MoJ security team can provide help in all areas of security risk management 
 -   Help with creating and managing documentation compliant with MoJ standards.
 -   Assisting with mandatory Government risk assessments.
 -   Advice on compliance checking.
+
+For help with any of these tasks, [contact the Cyber Assistance Team](#contact-details).
 
 ## Contact details
 

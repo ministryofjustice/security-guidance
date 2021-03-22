@@ -2,23 +2,54 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="risk-reviews">
   <title>Risk Reviews</title>
-  <body/>
   <topic id="overview">
     <title>Overview</title>
     <body>
-      <p>Information and the supporting processes, systems and networks are important and valuable <ph conref="conrefs.dita#conrefs/mojlong"/> assets.
+      <p>This document describes the requirement to have Risk Reviews for <ph conref="conrefs.dita#conrefs/mojlong"/> systems or information.</p>
+      <p>The information is intended for:
+        <ul>
+          <li>Anyone with responsibility for an <ph conref="conrefs.dita#conrefs/moj"/> asset.</li>
+          <li>Anyone involved with identifying or managing any risk associated with an <ph conref="conrefs.dita#conrefs/moj"/> asset.</li>
+        </ul>
+      </p>
+      <p>Use the information in this document to understand why a risk review is necessary,
+        to ensure that a Risk Review has taken place,
+        and is maintained in an up-to-date state,
+        for an <ph conref="conrefs.dita#conrefs/moj"/> asset.</p>
+      <p audience="audience-tech">In particular,
+        if you have responsibility for managing the risks associated with an <ph conref="conrefs.dita#conrefs/moj"/> asset,
+        you should use and complete the supplied sample risk assessment template,
+        available <xref href="risk-assessment.dita" format="dita">here</xref>.
+        For help with risk reviews,
+        and risk management in general,
+        <xref href="#contact-details" format="dita">contact the Cyber Assistance Team</xref>.</p>
+    </body>
+  </topic>
+  <topic id="background">
+    <title>Background</title>
+    <body>
+      <p>Information and the supporting processes,
+        systems and networks are important and valuable <ph conref="conrefs.dita#conrefs/moj"/> assets.
         They are central to enabling the <ph conref="conrefs.dita#conrefs/moj"/> to perform its functions and provide services to the public,
         the legal professions,
         and other government departments and organisations.</p>
-      <p>Confidentiality, integrity and availability of information is essential to maintain
+      <p>Confidentiality,
+        integrity and availability of information is essential to maintain
         the <ph conref="conrefs.dita#conrefs/moj"/>'s ability to provide efficient and effective services,
         maintain compliance with legal and regulatory requirements,
         and maintain its and the Government's reputation.</p>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/> and its information systems and networks are faced with
         security threats from a wide range of sources,
-        including computer-assisted fraud, sabotage, vandalism, fire and flood.
-        Sources of damage such as computer viruses, computer hacking and denial of service attacks have become more common,
-        more ambitious and increasingly sophisticated.</p>
+        including computer-assisted fraud,
+        sabotage,
+        vandalism,
+        fire,
+        and flood.
+        Sources of damage such as computer viruses,
+        computer hacking,
+        and denial of service attacks have become more common,
+        more ambitious,
+        and increasingly sophisticated.</p>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s dependence on its information systems and services
         means that there is always a possibility of technology-enabled security threats.
         Connections between the <ph conref="conrefs.dita#conrefs/moj"/>'s computer networks and public and other private networks,
@@ -27,9 +58,16 @@
       <p>It is essential that the <ph conref="conrefs.dita#conrefs/moj"/> identify its information security requirements.
         There are three main sources of these requirements.
       <ul>
-        <li>The legal, statutory, regulatory and contractual requirements that the <ph conref="conrefs.dita#conrefs/moj"/>,
-        its partners, contractors and service providers have to satisfy.</li>
-        <li>The principles, objectives and requirements for information processing that the <ph conref="conrefs.dita#conrefs/moj"/>
+        <li>The legal,
+        statutory,
+        regulatory,
+        and contractual requirements that the <ph conref="conrefs.dita#conrefs/moj"/>,
+        its partners,
+        contractors,
+        and service providers have to satisfy.</li>
+        <li>The principles,
+        objectives,
+        and requirements for information processing that the <ph conref="conrefs.dita#conrefs/moj"/>
         and Government have developed to support their operations,
         for example the protective marking system and government baseline security standards.</li>
         <li>Assessed risks to the <ph conref="conrefs.dita#conrefs/moj"/>.
@@ -47,7 +85,7 @@
         Expenditure on security controls needs to be balanced against the business harm likely to result from security failures.
         Risk assessment is systematic consideration of:
       <ul>
-        <li>The business harm (the 'impact') which is likely to result from a security failure,
+        <li>The business harm (the <q>impact</q>) which is likely to result from a security failure,
         taking into account the potential consequences of a loss of confidentiality,
         integrity or availability of the information and other assets.</li>
         <li>The realistic likelihood of such a failure occurring in the light of the threats to and vulnerabilities of the system,
@@ -128,6 +166,8 @@
         <li>Assisting with mandatory Government risk assessments.</li>
         <li>Advice on compliance checking.</li>
       </ul></p>
+      <p>For help with any of these tasks,
+        <xref href="#contact-details" format="dita">contact the Cyber Assistance Team</xref>.</p>
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
