@@ -1,6 +1,6 @@
 # IT Security Technical Users Policy
 
-**Parent topic:**[IT Security Policy \(Overview\)](it-security-policy-overview.md)
+**Parent topic:** [IT Security Policy \(Overview\)](it-security-policy-overview.md)
 
 ## Introduction
 

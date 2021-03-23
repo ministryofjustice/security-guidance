@@ -1,6 +1,6 @@
 # Privileged User Configuration, Patching and Change Management Guide
 
-**Parent topic:**[Privileged User Guide](privileged-user-guide.md)
+**Parent topic:** [Privileged User Guide](privileged-user-guide.md)
 
 ## Introduction
 

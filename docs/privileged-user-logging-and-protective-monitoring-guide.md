@@ -1,6 +1,6 @@
 # Privileged User Logging and Protective Monitoring Guide
 
-**Parent topic:**[Privileged User Guide](privileged-user-guide.md)
+**Parent topic:** [Privileged User Guide](privileged-user-guide.md)
 
 **Related information**  
 

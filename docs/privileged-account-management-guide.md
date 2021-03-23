@@ -1,6 +1,6 @@
 # Privileged Account Management Guide
 
-**Parent topic:**[Access Control guide](access-control-guide.md)
+**Parent topic:** [Access Control guide](access-control-guide.md)
 
 ## Introduction
 

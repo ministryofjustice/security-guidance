@@ -1,6 +1,6 @@
 # Privileged User Backups, Removable Media and Incident Management Guide
 
-**Parent topic:**[Privileged User Guide](privileged-user-guide.md)
+**Parent topic:** [Privileged User Guide](privileged-user-guide.md)
 
 ## Introduction
 

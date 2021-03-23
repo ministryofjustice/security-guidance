@@ -1,6 +1,6 @@
 # Information Classification and Handling Policy
 
-**Parent topic:**[Information Classification, Handling and Security Guide](information-classification-handling-and-security-guide.md)
+**Parent topic:** [Information Classification, Handling and Security Guide](information-classification-handling-and-security-guide.md)
 
 ## Introduction
 
