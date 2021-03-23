@@ -2,10 +2,13 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="training-and-education">
   <title>Training and Education</title>
-  <topic id="why">
-    <title>Why?</title>
+  <topic id="overview">
+    <title>Overview</title>
     <body>
-      <p>The <ph conref="conrefs.dita#conrefs/mojlong"/>'s Information Security awareness programme plays an essential part in maintaining security.
+      <p>This information applies to anyone and everyone working for,
+        or with,
+        the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s Information Security awareness programme plays an essential part in maintaining security.
       It informs all <ph conref="conrefs.dita#conrefs/moj"/> staff of:
       <ul>
         <li>Their duties with regard to security.</li>
@@ -14,14 +17,35 @@
       </ul></p>
     </body>
   </topic>
-  <topic id="source">
-    <title>Source</title>
+  <topic id="requirements">
+    <title>Requirements</title>
     <body>
-      <p>Guidance is provided to staff via the Security section of the <ph conref="conrefs.dita#conrefs/moj"/> Intranet,
-      <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/security/</xref>.
-      All new staff starting work within the <ph conref="conrefs.dita#conrefs/moj"/> will receive mandatory IA training.
-      This should ensure that the new staff member is made aware of their security responsibilities whilst working at the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+      <p>All staff starting or returning to work within the <ph conref="conrefs.dita#conrefs/moj"/> must receive mandatory IA training.</p>
+        <p>The objective is to ensure that all new and current staff members are aware of their security responsibilities whilst working at the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+      <p>Full details of the mandatory training are provided in the Joiner,
+        Mover,
+        and Leaver pages on the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external">Intranet</xref>.</p>
+      <p>In summary,
+        as a minimum everyone must:
+        <ul>
+          <li>Have taken and completed an <ph conref="conrefs.dita#conrefs/moj"/> Security <xref href="https://intranet.justice.gov.uk/guidance/hr/induction/" format="html" scope="external">induction</xref>.</li>
+          <li>Have completed the <xref href="https://learn.civilservice.gov.uk/home" format="html" scope="external">Civil Service Learning</xref> course on <q>Responsible for Information (RfI)</q>,
+          or an approved equivalent.</li>
+        </ul>
+      </p>
+      <p>Normally,
+        this training must be completed successfully before accessing <ph conref="conrefs.dita#conrefs/moj"/> information,
+        resources,
+        or assets.</p>
     </body>
   </topic>
+  <topic id="further-information">
+    <title>Further information</title>
+    <body>
+      <p>More details are provided to staff on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet,
+      <xref href="https://intranet.justice.gov.uk/" format="html" scope="external">https://intranet.justice.gov.uk/</xref>.</p>
+    </body>
+  </topic>
+	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
   <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
