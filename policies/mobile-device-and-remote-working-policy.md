@@ -38,7 +38,7 @@ Care must be taken when using mobile devices in public places, meeting rooms and
 
 ### Theft or loss
 
-Mobile devices must be physically protected against theft especially when left, for example, in cars and other forms of transport, hotel rooms, conference centres and meeting places. MoJ must establish a specific procedure covering legal, insurance and security requirements in cases of loss or theft of mobile devices
+Mobile devices must be physically protected against theft especially when left, for example, in cars and other forms of transport, hotel rooms, conference centres and meeting places. MoJ must establish a specific procedure covering legal, insurance and security requirements in cases of loss or theft of mobile devices.
 
 ### Protecting sensitive content
 
@@ -58,12 +58,12 @@ Remote working refers to all forms of work outside of the office, including non-
 
 ## Current supporting documentation:
 
-[Remote Working](https://ministryofjustice.github.io/security-guidance/remote-working/#remote-working)
-[Accessing MoJ Systems from Abroad](https://ministryofjustice.github.io/security-guidance/accessing-moj-it-systems-from-abroad/#accessing-ministry-of-justice-moj-it-systems-from-abroad)
-[Security Guidance for Using a Personal Device](https://ministryofjustice.github.io/security-guidance/policies/personal-devices/#security-guidance-for-using-a-personal-device)
-Pool Laptop Procedures
-[Using your own smartphone, laptop, tablet or PC for work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/using-your-own-smartphone-laptop-tablet-or-pc-for-work/)
-[General advice on taking equipment abroad](https://ministryofjustice.github.io/security-guidance/general-advice-on-taking-equipment-abroad/#general-advice-on-taking-equipment-abroad)
+- [Remote Working](https://ministryofjustice.github.io/security-guidance/remote-working/#remote-working)
+- [Accessing MoJ Systems from Abroad](https://ministryofjustice.github.io/security-guidance/accessing-moj-it-systems-from-abroad/#accessing-ministry-of-justice-moj-it-systems-from-abroad)
+- [Security Guidance for Using a Personal Device](https://ministryofjustice.github.io/security-guidance/policies/personal-devices/#security-guidance-for-using-a-personal-device)
+- Pool Laptop Procedures
+- [Using your own smartphone, laptop, tablet or PC for work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/using-your-own-smartphone-laptop-tablet-or-pc-for-work/)
+- [General advice on taking equipment abroad](https://ministryofjustice.github.io/security-guidance/general-advice-on-taking-equipment-abroad/#general-advice-on-taking-equipment-abroad)
 
 ## Enforcement
 
