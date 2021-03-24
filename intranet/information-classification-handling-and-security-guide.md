@@ -14,8 +14,8 @@ Each information security classification has a minimum set of security measures 
 
 |Classification|Description|
 |--------------|-----------|
-|**`OFFICIAL`**|All information related to routine business, operations, and services. If this information is lost, stolen, or published, it could have damaging consequences, but is not subject to a heightened threat profile.|
-|**`SECRET`**|Very sensitive information that requires protection against highly sophisticated, well-resourced, and determined threat actors. For example, where compromise could seriously damage military capabilities, international relations, or the investigation of a serious crime.|
+|**`OFFICIAL`**|All information related to routine business, operations, and services. If this information is lost, stolen, or published, it could have damaging consequences, but is not subject to a heightened threat profile. For regular, unsupervised access to `OFFICIAL` information, someone would be expected to have achieved [Baseline Personnel Security Standard \(BPSS\)](https://www.gov.uk/government/publications/government-baseline-personnel-security-standard) assessment.|
+|**`SECRET`**|Very sensitive information that requires protection against highly sophisticated, well-resourced, and determined threat actors. For example, where compromise could seriously damage military capabilities, international relations, or the investigation of a serious crime. For regular, unsupervised access to `SECRET` information, someone would be expected to have passed [National Security Vetting](https://www.gov.uk/guidance/security-vetting-and-clearance#applicant) Security Check \(SC\) clearance. In exceptional circumstances, someone with BPSS might be granted occasional supervised access to UK `SECRET` assets, or be required to work in areas where `SECRET` or `TOP SECRET` information might be overheard.|
 |**`TOP SECRET`**|Exceptionally sensitive information that directly supports, or threatens, the national security of the UK or its allies, and requires extremely high assurance of protection from all threats.|
 
 Securing the MoJ's information must be done with a combination of information security measures:
@@ -96,6 +96,36 @@ To help decide whether some information should be classified as `TOP SECRET`, as
 
 The answer is most likely “No”. In that case, you should consider using the `OFFICIAL` or `SECRET` classification, as appropriate.
 
+## Reclassifying information
+
+The asset owner has responsibility for reclassifying an asset. If another user has reason to believe that an asset is incorrectly classified or has an incorrect handling caveat, they should normally discuss this with the asset owner. The other user cannot unilaterally reclassify the asset.
+
+The exception is where the asset might need a higher classification than that assigned by the asset owner. The reclassification must still be communicated to the asset owner, for consistency. If it is agreed that the classification should be increased, check with the Operational Security Team \([OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)\) whether additional actions are required to protect the material.
+
+## Reclassification examples
+
+When deciding whether it is appropriate or desirable to reclassify information, a useful model is to consider what audience might get value from accessing the information. For example, if a hostile country might want the information, then the information might well be best classified as `SECRET`. Alternatively, a reclassification decision might be required as a result of changing threat advice from intelligence agencies.
+
+### Example 1
+
+An asset owner creates a report. The report contains potentially private information about individuals. The asset owner decides that the report should be classified as `OFFICIAL`, with the `SENSITIVE` handling caveat.
+
+A user wishes to share a copy of the report “as-is” with their team. They cannot remove the handling caveat without prior discussion and agreement from the asset owner.
+
+### Example 2
+
+An asset owner creates a report. The report contains potentially private information about individuals. The asset owner decides that the report should be classified as `OFFICIAL`, with the `SENSITIVE` handling caveat.
+
+A user wishes to share a subset of the report with their team. In particular, the report is substantially re-worked to remove all the private information. The user becomes the owner of this new asset. They are responsible for this new asset. They can decide that the `SENSITIVE` handling caveat is not required.
+
+The original report retains its `OFFICIAL` classification and `SENSITIVE` handling caveat.
+
+### Example 3
+
+An asset owner creates a report. The report contains information about plans to handle a pandemic. The asset owner decides that the report should be classified as `OFFICIAL`, with the `SENSITIVE` handling caveat.
+
+A user reviews the report. They realise that the information could potentially compromise the security or prosperity of the country. They decide to increase the classification of the report, and treat it as `SECRET`. They discuss this decision with the asset owner, so that the original report is correctly reclassified.
+
 ## Handling and securing information
 
 The [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) is the most comprehensive guide on the security measures necessary for each of the three security classifications, including measures related to the following:
@@ -129,7 +159,7 @@ The following sections set out the minimum measures you need to consider when ha
 |**`PERSONNEL`**|Make sure employees and contractors undergo Security Check \(SC\).|A contractor working with the MoJ Security Team must have at least SC before being allowed to access `SECRET` information.|
 |**`PHYSICAL`**|Consider using multiple layers of security to protect `SECRET` information. `SECRET` information should be held on a secure computer network which is physically isolated from unsecured networks and the internet.|Imagine you are moving locations for a server used to host `SECRET` information. The encrypted server is secured in a locked and monitored room in 102 Petty France. You have now decided to move it to 10 South Colonnade. This should only be done after relevant parties, including the data owner, line manager, and the system owner, have reviewed and accepted the risks associated with this transfer. The transfer should then be handled by two SC-cleared individuals, for example, employees of a specialised commercial courier company.|
 ||Transferring `SECRET` information from one location to another requires planning and preparation, including the completion of a Risk Assessment and the use of SC-cleared personnel. More information on this is available in the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) and from your manager.||
-|**`TECHNICAL`**|`SECRET` information at rest should be protected with very strong encryption. Contact the MoJ Security Team for more information: [security@justice.gov.uk](mailto:security@justice.gov.uk).|In the development of a new cloud-hosted solution for `SECRET` information, you should consider the following: information stored “at rest” on the cloud is encrypted with very strong encryption; information in transit between the end user and the cloud service is encrypted with very strong encryption, and the cloud service used is approved for the `SECRET` threat model with guidance from the MoJ Security Team: [security@justice.gov.uk](mailto:security@justice.gov.uk).|
+|**`TECHNICAL`**|`SECRET` information at rest should be protected with very strong encryption. Contact the MoJ Security Team for more information: [security@justice.gov.uk](mailto:security@justice.gov.uk).||
 ||Care should be taken to ensure that `SECRET` information in transit is only shared with defined recipient users through assured shared infrastructure or using very strong encryption.||
 ||`SECRET` information should be processed on IT systems which have been approved for the `SECRET` threat model. Advice on what commercial IT systems meet this requirement is available from the MoJ Security Team: [security@justice.gov.uk](mailto:security@justice.gov.uk)||
 
@@ -143,7 +173,7 @@ The following sections set out the minimum measures you need to consider when ha
 |**`PHYSICAL`**|Handling and storing `TOP SECRET` information requires exceptional planning, monitoring, and record-keeping.|Imagine you are moving locations for a server used to host `TOP SECRET` information. The encrypted server is secured in a locked and continuously monitored room in 102 Petty France. You have now decided to move it to 10 South Colonnade. This should only be done after you, your manager, and senior managers have reviewed and accepted the risks associated with this transfer. The transfer should then be handled by two DV-cleared individuals, for example, employees of a specialised commercial courier company. When it happens, local police may need to be informed and involved in providing an additional layer of security.|
 ||Working remotely with `TOP SECRET` is not permitted due to the extreme sensitivity of the information.||
 ||Transferring `TOP SECRET` information from one location to another requires even greater planning and preparation than for `SECRET` information, including the completion of a Risk Assessment by senior management and the use of DV-cleared personnel. More information on this is available in the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) and from your manager.||
-|**`TECHNICAL`**|When physical security measures cannot be used, `TOP SECRET` information at rest should be protected with extremely strong encryption. Contact the MoJ Security Team in these circumstances: [security@justice.gov.uk](mailto:security@justice.gov.uk).|In the development of a new cloud-hosted solution for `TOP SECRET` information, you should contact the MoJ Security Team: [security@justice.gov.uk](mailto:security@justice.gov.uk). Information stored “at rest” on the cloud is encrypted with extremely strong encryption; information in transit between the end user and the cloud service is encrypted with extremely strong encryption, and the cloud service used is accredited approved for the `SECRET` threat model, with guidance from the MoJ Security Team: [security@justice.gov.uk](mailto:security@justice.gov.uk).|
+|**`TECHNICAL`**|When physical security measures cannot be used, `TOP SECRET` information at rest should be protected with extremely strong encryption. Contact the MoJ Security Team in these circumstances: [security@justice.gov.uk](mailto:security@justice.gov.uk).||
 ||Care should be taken to ensure that `TOP SECRET` information in transit is only shared with defined recipient users through accredited shared infrastructure or using extremely strong encryption.||
 ||`TOP SECRET` information should be processed on IT systems which have been approved the `TOP SECRET` threat model. Advice on what commercial IT systems meet this requirement is available from the MoJ Security Team: [security@justice.gov.uk](mailto:security@justice.gov.uk).||
 
