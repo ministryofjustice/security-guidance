@@ -56,6 +56,35 @@ Remote working refers to all forms of work outside of the office, including non-
 - flexible workplace
 - virtual work environments
 
+MoJ allows remote working, but the following points must be addressed in the approval process:
+
+- the existing physical security of the remote working site, taking into account the physical security of the
+building and the local environment
+- the communications security requirements, taking into account the need for remote access to the
+MoJ's internal systems, the sensitivity of the information that will be accessed and passed
+over the communication link and the sensitivity of the internal system
+- no use of privately owned equipment;
+- the threat of unauthorised access to information or resources from other persons using the
+accommodation, e.g. family and friends
+- the use of home networks and requirements or restrictions on the configuration of wireless
+network services
+- malware protection and firewall requirements
+
+The guidelines and arrangements to be considered should include:
+
+- the provision of suitable equipment and storage furniture for the remote working activities, where the
+use of privately owned equipment that is not under the control of the MoJ is not allowed
+- a definition of the work permitted, the hours of work, the classification of information that may be
+held and the internal systems and services that the remote worker is authorised to access
+- the provision of suitable communication equipment, including methods for securing remote access
+- physical security
+- the provision of hardware and software support and maintenance
+- the provision of insurance should be considered
+- the procedures for backup and business continuity
+- audit and security monitoring
+- revocation of authority and access rights, and the return of equipment when the remote working
+activities are terminated.
+
 ## Current supporting documentation:
 
 - [Remote Working](https://ministryofjustice.github.io/security-guidance/remote-working/#remote-working)
