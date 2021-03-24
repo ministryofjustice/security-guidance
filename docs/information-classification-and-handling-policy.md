@@ -58,7 +58,7 @@ Further information on the criteria and derivation for classification can be fou
 
 The asset owner has responsibility for reclassifying an asset. If another user has reason to believe that an asset is incorrectly classified or has an incorrect handling caveat, they should normally discuss this with the asset owner. The other user cannot unilaterally reclassify the asset.
 
-The exception is where the asset needs a higher classification than that assigned by the asset owner. The reclassification must still be communicated to the asset owner, for consistency.
+The exception is where the asset might need a higher classification than that assigned by the asset owner. The reclassification must still be communicated to the asset owner, for consistency. If it is agreed that the classification should be increased, check with the Operational Security Team \([OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)\) whether additional actions are required to protect the material.
 
 ## Application of Government classification
 
