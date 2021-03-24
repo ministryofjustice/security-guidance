@@ -15,9 +15,9 @@ This policy gives an overview of mobile devices and teleworking/remote working s
 ## Who is it for?
 
 This policy is aimed at:
-**Technical users:** these are in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge (EPICK) Team.
-**Service Providers:** defined as any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the MoJ.
-**General users:** all other staff working for the MoJ.
+- **Technical users:** these are in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge (EPICK) Team.
+- **Service Providers:** defined as any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the MoJ.
+- **General users:** all other staff working for the MoJ.
 
 'All MoJ users' refers to General users, Technical users and Service Providers as defined above.
 
@@ -27,7 +27,6 @@ When using mobile devices, special care must be taken to ensure that business in
 
 - mobile devices must be registered as a MoJ asset
 - software installation must not be available
-- requirements for mobile device software versions and for applying patches
 - ability for remote disabling, erasure or lockout
 - usage of approved web services and web apps
 
