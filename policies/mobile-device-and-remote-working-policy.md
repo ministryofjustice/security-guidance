@@ -101,5 +101,5 @@ Non-conformance with this policy could result in disciplinary action taken in ac
 
 ## Contact details
 
-Contact the Technology Service Desk to report a suspected IT incident: Telephone: 0800 917 5148.
-Contact the MoJ Security Team for further advice and to report other security incidents: [security@justice.gov.uk](mailto:security@justice.gov.uk)
+- Contact the Technology Service Desk to report a suspected IT incident: Telephone: 0800 917 5148.
+- Contact the MoJ Security Team for further advice and to report other security incidents: [security@justice.gov.uk](mailto:security@justice.gov.uk)
