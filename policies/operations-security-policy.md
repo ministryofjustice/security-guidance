@@ -5,7 +5,7 @@ Owner: CISO
 
 [Home > Cyber and Technical Security](../..)
 
-# Mobile Devices and Remote Working Policy
+# Operations Security Policy
 
 ## Introduction
 
