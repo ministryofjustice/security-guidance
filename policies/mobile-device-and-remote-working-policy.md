@@ -1,7 +1,6 @@
 ---
 Review: 2021-12-31
 Owner: CISO
-Target audience:
 ---
 
 [Home > Cyber and Technical Security](../..)
@@ -55,6 +54,7 @@ Remote working refers to all forms of work outside of the office, including non-
 - telecommuting
 - flexible workplace
 - virtual work environments
+- working from anywhere
 
 MoJ allows remote working, but the following points must be addressed in the approval process:
 
