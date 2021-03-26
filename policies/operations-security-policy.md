@@ -21,6 +21,7 @@ This policy is aimed at:
 'All MoJ users' refers to General users, Technical users and Service Providers as defined above.
 
 ## Operational procedures and responsibilities
+
 Ensure correct and secure operations of information processing facilities.
 
 Offshoring
@@ -29,25 +30,27 @@ Active Cyber Defence
 
 ### Documented operating procedures
 
-Operating procedures should be documented and made available to all users who need them.
+Operating procedures must be documented and made available to all users who need them.
 
 ### Change management
 
-Changes to the organisation, business processes, information processing facilities and systems that affect information security should be controlled.
+Changes to the organisation, business processes, information processing facilities and systems that affect information security must be controlled.
 
 ### Capacity management
 
-The use of resources should be monitored, tuned and projections made of future capacity requirements to ensure the required system performance.
+The use of resources must be monitored, tuned and projections made of future capacity requirements to ensure the required system performance.
 
 ### Separation of development, testing and operational environments
-Development, testing, and operational environments should be separated to reduce the risks of unauthorised access or changes to the operational environment.
+
+Development, testing, and operational environments must be separated to reduce the risks of unauthorised access or changes to the operational environment.
 
 ## Protection from malware
+
 Ensure that information and information processing facilities are protected against malware.
 
 ### Controls against malware
 
-Detection, prevention and recovery controls to protect against malware should be implemented, combined with appropriate user awareness.
+Detection, prevention and recovery controls to protect against malware must be implemented, combined with appropriate user awareness.
 
 Malware Protection
 Spam and Phishing
@@ -61,9 +64,7 @@ System backup
 
 ### Information backup
 
-Backup copies of information, software and system images should be taken and tested regularly in accordance with an agreed backup policy.
-
-
+Backup copies of information, software and system images must be taken and tested regularly in accordance with an agreed backup policy.
 
 ## Control of operational software
 
@@ -74,7 +75,7 @@ Using 3rd Party Open Source Products
 
 ### Installation of software on operational systems
 
-Procedures should be implemented to control the installation of software on operational systems.
+Procedures must be implemented to control the installation of software on operational systems.
 
 ## Logging and monitoring
 
@@ -90,19 +91,19 @@ Security Log Collection
 
 ### Event logging		
 
-Event logs recording user activities, exceptions, faults and information security events should be produced, kept and regularly reviewed.
+Event logs recording user activities, exceptions, faults and information security events must be produced, kept and regularly reviewed.
 
 ### Protection of log information
 
-Logging facilities and log information should be protected against tampering and unauthorised access.
+Logging facilities and log information must be protected against tampering and unauthorised access.
 
 ### Administrator and operator logs
 
-System administrator and system operator activities should be logged and the logs protected and regularly reviewed.
+System administrator and system operator activities must be logged and the logs protected and regularly reviewed.
 
 ### Clock synchronisation
 
-The clocks of all relevant information processing systems within an organisation or security domain should be synchronised to a single reference time source.
+The clocks of all relevant information processing systems within an organisation or security domain must be synchronised to a single reference time source.
 
 ## Control of operational software
 
@@ -118,11 +119,11 @@ Prevent exploitation of technical vulnerabilities.
 
 ### Management of technical vulnerabilities
 
-Information about technical vulnerabilities of information systems being used should be obtained in a timely fashion, the organisation’s exposure to such vulnerabilities evaluated and appropriate measures taken to address the associated risk.
+Information about technical vulnerabilities of information systems being used must be obtained in a timely fashion, the organisation’s exposure to such vulnerabilities evaluated and appropriate measures taken to address the associated risk.
 
 ### Restrictions on software installation
 
-Rules governing the installation of software by users should be established and implemented.
+Rules governing the installation of software by users must be established and implemented.
 
 Vulnerability Scanning
 Patch Management
@@ -135,7 +136,7 @@ Minimise the impact of audit activities on operational systems.
 
 ### Information systems audit controls
 
-Audit requirements and activities involving verification of operational systems should be carefully planned and agreed to minimise disruptions to business processes.
+Audit requirements and activities involving verification of operational systems must be carefully planned and agreed to minimise disruptions to business processes.
 
 ## Enforcement
 
