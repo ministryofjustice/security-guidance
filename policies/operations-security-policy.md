@@ -9,7 +9,7 @@ Owner: CISO
 
 ## Introduction
 
-This policy gives an overview of mobile devices and teleworking/remote working security principles and responsibilities within the Ministry of Justice (MoJ) and provides a summary of the MoJ's related policies and guides in relation to mobile devices and remote working.
+This policy gives an overview of the operations security and responsibilities within the Ministry of Justice (MoJ) and provides a summary of the MoJ's related operations security policies and guides.
 
 ## Who is it for?
 
@@ -20,79 +20,112 @@ This policy is aimed at:
 
 'All MoJ users' refers to General users, Technical users and Service Providers as defined above.
 
-## Mobile devices
+## Backup
 
-When using mobile devices, special care must be taken to ensure that business information is not compromised. When issuing MoJ mobile devices the following points must be adhered to:
+Protect against loss of data.
 
-- mobile devices must be registered as a MoJ asset
-- software installation must not be available
-- ability for remote disabling, erasure or lockout
-- usage of approved web services and web apps
+Backups Removable Media and Incident Management
+System backup
 
-### Use in public places
+### Information backup
 
-Care must be taken when using mobile devices in public places, meeting rooms and other unprotected areas. Protection must be in place to avoid the unauthorised access to or disclosure of the information stored and processed by these devices.
+Backup copies of information, software and system images should be taken and tested regularly in accordance with an agreed backup policy.
 
-[Cryptography](https://ministryofjustice.github.io/security-guidance/cryptography/#cryptography) guide offers techniques and information used at MoJ in support of stronger security when using mobile devices. Also, the [Access Control](https://ministryofjustice.github.io/security-guidance/access-control-guide/#access-control-guide) guide explains how the MoJ manages access to its IT systems so that users have access only to the material they need to see in a secure manner.
+## Control of operational software
 
-### Theft or loss
+Ensure the integrity of operational systems.
 
-Mobile devices must be physically protected against theft especially when left, for example, in cars and other forms of transport, hotel rooms, conference centres and meeting places. MoJ must establish a specific procedure covering legal, insurance and security requirements in cases of loss or theft of mobile devices.
+Using Open Internet Tools
+Using 3rd Party Open Source Products
 
-### Protecting sensitive content
+### Installation of software on operational systems
 
-Devices carrying important, sensitive or critical business information must not be left unattended and, where possible, should be physically locked away, or special locks should be used to secure the devices.
+Procedures should be implemented to control the installation of software on operational systems.
 
-### Use of private equipment
+## Logging and monitoring
 
-MoJ does not allow or support the use of private devices for work purposes.
+Record events and generate evidence.
 
-## Remote working
+Logging
+Protective Monitoring
+Accounting
+Commercial off-the-shelf applications
+Custom Applications
+Online identifiers in security logging & monitoring
+Security Log Collection
 
-Remote working refers to all forms of work outside of the office, including non-traditional work environments such as:
+### Event logging		
 
-- telecommuting
-- flexible workplace
-- virtual work environments
-- working from anywhere
+Event logs recording user activities, exceptions, faults and information security events should be produced, kept and regularly reviewed.
 
-MoJ allows remote working, but the following points must be addressed in the approval process:
+### Protection of log information
 
-- the existing physical security of the remote working site, taking into account the physical security of the
-building and the local environment
-- the communications security requirements, taking into account the need for remote access to the
-MoJ's internal systems, the sensitivity of the information that will be accessed and passed
-over the communication link and the sensitivity of the internal system
-- no use of privately owned equipment;
-- the threat of unauthorised access to information or resources from other persons using the
-accommodation, e.g. family and friends
-- the use of home networks and requirements or restrictions on the configuration of wireless
-network services
-- malware protection and firewall requirements
+Logging facilities and log information should be protected against tampering and unauthorized access.
 
-The guidelines and arrangements to be considered should include:
+### Administrator and operator logs
 
-- the provision of suitable equipment and storage furniture for the remote working activities, where the
-use of privately owned equipment that is not under the control of the MoJ is not allowed
-- a definition of the work permitted, the hours of work, the classification of information that may be
-held and the internal systems and services that the remote worker is authorised to access
-- the provision of suitable communication equipment, including methods for securing remote access
-- physical security
-- the provision of hardware and software support and maintenance
-- the provision of insurance should be considered
-- the procedures for backup and business continuity
-- audit and security monitoring
-- revocation of authority and access rights, and the return of equipment when the remote working
-activities are terminated.
+System administrator and system operator activities should be logged and the logs protected and regularly reviewed.
 
-## Current supporting documentation:
+### Clock synchronisation
 
-- [Remote Working](https://ministryofjustice.github.io/security-guidance/remote-working/#remote-working)
-- [Accessing MoJ Systems from Abroad](https://ministryofjustice.github.io/security-guidance/accessing-moj-it-systems-from-abroad/#accessing-ministry-of-justice-moj-it-systems-from-abroad)
-- [Security Guidance for Using a Personal Device](https://ministryofjustice.github.io/security-guidance/policies/personal-devices/#security-guidance-for-using-a-personal-device)
-- Pool Laptop Procedures
-- [Using your own smartphone, laptop, tablet or PC for work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/using-your-own-smartphone-laptop-tablet-or-pc-for-work/)
-- [General advice on taking equipment abroad](https://ministryofjustice.github.io/security-guidance/general-advice-on-taking-equipment-abroad/#general-advice-on-taking-equipment-abroad)
+The clocks of all relevant information processing systems within an organization or security domain should be synchronised to a single reference time source.
+
+## Operational procedures and responsibilities
+Ensure correct and secure operations of information processing facilities.
+
+Offshoring
+Infrastructure and system accreditation
+Active Cyber Defence
+
+### Documented operating procedures
+
+Operating procedures should be documented and made available to all users who need them.
+
+### Change management
+
+Changes to the organisation, business processes, information processing facilities and systems that affect information security should be controlled.
+
+### Capacity management
+
+The use of resources should be monitored, tuned and projections made of future capacity requirements to ensure the required system performance.
+
+### Separation of development, testing and operational environments
+Development, testing, and operational environments should be separated to reduce the risks of unauthorised access or changes to the operational environment.
+
+## Protection from malware
+Ensure that information and information processing facilities are protected against malware.
+
+### Controls against malware
+
+Detection, prevention and recovery controls to protect against malware should be implemented, combined with appropriate user awareness.
+
+Malware Protection
+Spam and Phishing
+
+### Technical vulnerability management
+
+Prevent exploitation of technical vulnerabilities.
+
+### Management of technical vulnerabilities
+
+Information about technical vulnerabilities of information systems being used should be obtained in a timely fashion, the organisation’s exposure to such vulnerabilities evaluated and appropriate measures taken to address the associated risk.
+
+### Restrictions on software installation
+
+Rules governing the installation of software by users should be established and implemented.
+
+Vulnerability Scanning
+Patch Management
+Configuration Patching and Change
+Vulnerability Disclosure
+
+## Information systems audit considerations
+
+Minimise the impact of audit activities on operational systems.
+
+### Information systems audit controls
+
+Audit requirements and activities involving verification of operational systems should be carefully planned and agreed to minimise disruptions to business processes.
 
 ## Enforcement
 
