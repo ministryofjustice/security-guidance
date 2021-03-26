@@ -20,56 +20,6 @@ This policy is aimed at:
 
 'All MoJ users' refers to General users, Technical users and Service Providers as defined above.
 
-## Backup
-
-Protect against loss of data.
-
-Backups Removable Media and Incident Management
-System backup
-
-### Information backup
-
-Backup copies of information, software and system images should be taken and tested regularly in accordance with an agreed backup policy.
-
-## Control of operational software
-
-Ensure the integrity of operational systems.
-
-Using Open Internet Tools
-Using 3rd Party Open Source Products
-
-### Installation of software on operational systems
-
-Procedures should be implemented to control the installation of software on operational systems.
-
-## Logging and monitoring
-
-Record events and generate evidence.
-
-Logging
-Protective Monitoring
-Accounting
-Commercial off-the-shelf applications
-Custom Applications
-Online identifiers in security logging & monitoring
-Security Log Collection
-
-### Event logging		
-
-Event logs recording user activities, exceptions, faults and information security events should be produced, kept and regularly reviewed.
-
-### Protection of log information
-
-Logging facilities and log information should be protected against tampering and unauthorized access.
-
-### Administrator and operator logs
-
-System administrator and system operator activities should be logged and the logs protected and regularly reviewed.
-
-### Clock synchronisation
-
-The clocks of all relevant information processing systems within an organization or security domain should be synchronised to a single reference time source.
-
 ## Operational procedures and responsibilities
 Ensure correct and secure operations of information processing facilities.
 
@@ -102,7 +52,67 @@ Detection, prevention and recovery controls to protect against malware should be
 Malware Protection
 Spam and Phishing
 
-### Technical vulnerability management
+## Backup
+
+Protect against loss of data.
+
+Backups Removable Media and Incident Management
+System backup
+
+### Information backup
+
+Backup copies of information, software and system images should be taken and tested regularly in accordance with an agreed backup policy.
+
+
+
+## Control of operational software
+
+Ensure the integrity of operational systems.
+
+Using Open Internet Tools
+Using 3rd Party Open Source Products
+
+### Installation of software on operational systems
+
+Procedures should be implemented to control the installation of software on operational systems.
+
+## Logging and monitoring
+
+Record events and generate evidence.
+
+Logging
+Protective Monitoring
+Accounting
+Commercial off-the-shelf applications
+Custom Applications
+Online identifiers in security logging & monitoring
+Security Log Collection
+
+### Event logging		
+
+Event logs recording user activities, exceptions, faults and information security events should be produced, kept and regularly reviewed.
+
+### Protection of log information
+
+Logging facilities and log information should be protected against tampering and unauthorised access.
+
+### Administrator and operator logs
+
+System administrator and system operator activities should be logged and the logs protected and regularly reviewed.
+
+### Clock synchronisation
+
+The clocks of all relevant information processing systems within an organisation or security domain should be synchronised to a single reference time source.
+
+## Control of operational software
+
+Ensure the integrity of operational systems.
+
+### Installation of software on operational systems
+
+Procedures must be implemented to control the installation of software on operational systems.
+
+## Technical vulnerability management
 
 Prevent exploitation of technical vulnerabilities.
 
