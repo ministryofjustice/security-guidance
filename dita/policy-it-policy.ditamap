@@ -6,6 +6,4 @@
 	<topicref href="it-security-policy-overview.dita" type="topic"/>
 	<topicref href="it-security-all-users-policy.dita" type="topic"/>
 	<topicref href="it-security-technical-users-policy.dita" type="topic"/>
-	<topicref href="acceptable-use-policy.dita" type="topic"/>
-	<topicref href="it-incident-management-policy.dita" type="topic"/>
 </map>
