@@ -8,6 +8,7 @@
         -   [Bluetooth](bluetooth.md)
         -   [Email](email.md)
         -   [Information Classification, Handling and Security Guide](information-classification-handling-and-security-guide.md)
+        -   [Guidance on IT Accounts and Assets for Long Term Leave](long-term-leave.md)
         -   [OFFICIAL, OFFICIAL-SENSITIVE](official-official-sensitive.md)
         -   [Security Guidance for Using a Personal Device](personal-devices.md)
         -   [Protecting Social Media Accounts](protecting-social-media-accounts.md)
