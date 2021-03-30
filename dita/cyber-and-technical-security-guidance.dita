@@ -473,12 +473,8 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <title>Responsibility for assets</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-				<row platform="html">
-					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external">Acceptable use</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row platform="epub pdf">
-					<entry colname="col1" align="left"><xref href="acceptable-use.dita" format="dita">Acceptable use</xref></entry>
+				<row>
+					<entry colname="col1" align="left"><xref href="acceptable-use.dita" format="dita">Acceptable use</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
 				<row>
@@ -486,23 +482,19 @@ has made for the products we operate, and our relationships with suppliers.</p>
 					<entry colname="col2" align="right">All users (Policy)</entry>
 				</row>
 				<row>
+					<entry colname="col1" align="left"><xref href="long-term-leave.dita" format="dita">Guidance on IT Accounts and Assets for Long Term Leave</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row>
 					<entry colname="col1" align="left"><xref href="it-acceptable-use-policy.dita" format="dita">IT Acceptable Use Policy</xref></entry>
 					<entry colname="col2" align="right">All users (Policy)</entry>
 				</row>
-				<row platform="html">
-					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/protect-yourself-online/" format="html" scope="external">Protect Yourself Online</xref></entry>
+				<row>
+					<entry colname="col1" align="left"><xref href="protect-yourself-online.dita" format="dita">Protect Yourself Online</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/protect-yourself-online/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
-				<row platform="epub pdf">
-					<entry colname="col1" align="left"><xref href="protect-yourself-online.dita" format="dita">Protect Yourself Online</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row platform="html">
-					<entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/" format="html" scope="external">Web browsing security</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row platform="epub pdf">
-					<entry colname="col1" align="left"><xref href="web-browsing.dita" format="dita" type="topic">Web browsing security</xref></entry>
+				<row>
+					<entry colname="col1" align="left"><xref href="web-browsing.dita" format="dita" type="topic">Web browsing security</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
             </tbody></tgroup></table>
