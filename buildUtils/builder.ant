@@ -78,6 +78,9 @@
 		<antcall target="policy_builder">
             <param name="thePolicy" value="policy-it-policy"/>
         </antcall>
+		<antcall target="policy_builder">
+            <param name="thePolicy" value="policy-mobile-device"/>
+        </antcall>
 	</target>
 
 	<target name="compile_md" depends="init"

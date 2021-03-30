@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 29 March 2021.
+**Note:** This guidance is dated: 30 March 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|On request.|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|On request.|
 
-The offline versions of this guidance are time-limited, and are not valid after 29 April 2021.
+The offline versions of this guidance are time-limited, and are not valid after 30 April 2021.
 
 ### Searching this content
 
@@ -125,6 +125,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Mobile device policy
 
+|[Mobile Device and Remote Working Policy](mobile-device-and-remote-working-policy.md)|All users \(Policy\)|
 |[Remote Working](remote-working.md)|All users|
 
 #### Teleworking
