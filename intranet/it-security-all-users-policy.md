@@ -6,7 +6,7 @@ This policy provides more information on the actions expected of all Ministry of
 
 **Note:** In this document, the terms “data” and “information” are used interchangeably.
 
-## Who is this for?
+## Audience
 
 This policy is aimed at three audiences:
 
@@ -50,7 +50,7 @@ This policy applies to all premises, physical equipment, software and data owned
 
 All MoJ Staff are responsible for ensuring data is:
 
--   Classified correctly as detailed in the [Information Classification, Handling and Security Guide](information-classification-handling-and-security-guide.md).
+-   Classified correctly as detailed in the [Information Classification, Handling and Security Guide](information-classification-handling-and-security-guide.md)
 -   Distributed only in accordance with the statements of this policy and related guides.
 -   Protected by the appropriate security controls to ensure its confidentiality, integrity and availability.
 
@@ -61,7 +61,7 @@ The Physical Security Policy defines how physical access to assets must be contr
 -   All MoJ IT systems and services must be assessed against environmental risks, for example flood or fire, to maintain the asset's confidentiality, integrity, and availability.
 -   The MoJ's IT Teams are not directly responsible for the physical security and environment of the MoJ sites.
 -   Physical security controls and the environment in which the MoJ IT systems operate form part of a system's overall risk landscape. All MoJ users **MUST** ensure they adhere to the security controls and requirements set out in this policy.
--   Unless otherwise formally agreed by the MoJ, all MoJ users, including agency staff and contractors who have access to MoJ data, require [Baseline Personnel Security Standard \(BPSS\)](https://www.gov.uk/government/publications/government-baseline-personnel-security-standard) asssessment, as a minimum.
+-   Unless otherwise formally agreed by the MoJ, all MoJ users, including agency staff and contractors who have access to MoJ data, require [Baseline Personnel Security Standard \(BPSS\)](https://www.gov.uk/government/publications/government-baseline-personnel-security-standard) assessment, as a minimum.
 -   [National Security Vetting](https://www.gov.uk/guidance/security-vetting-and-clearance#applicant) should only be applied for where it is necessary, proportionate, and adds real value.
 -   The MoJ does not have a standing requirement for system administrators or application developers to maintain Security Check \(SC\) clearance.
 
@@ -69,7 +69,7 @@ Further information on physical and personnel security is available from MoJGrou
 
 ## Identity and access control
 
-The MoJ ensures that information and IT assets can be accessed only by authorised personnel, and that each individual is accountable for their actions.
+The MoJ Access Control Guide ensures that information and IT assets can be accessed only by authorised personnel, and that each individual is accountable for their actions.
 
 ## Email security
 
@@ -89,15 +89,15 @@ Any request to take MoJ IT equipment overseas must follow the guidance provided 
 
 All MoJ users are responsible for ensuring the confidentiality, integrity, and availability of data within the MoJ. This includes all MoJ data and assets. These responsibilities extend to all assets referenced in this policy.
 
-All MoJ users are required to comply with the roles and responsibilities outlined in the Information Assurance Framework Process.
+All MoJ users **MUST** comply with the roles and responsibilities outlined in the Information Assurance Framework Process.
 
-Specific roles and responsibilities are described within each sub-page. All MoJ users must comply with these roles and responsibilities, and understand these as being a part of their ultimate responsibility for information security within the MoJ.
+Specific roles and responsibilities are described within each sub-page. All MoJ users **MUST** comply with these roles and responsibilities, and understand these as being a part of their ultimate responsibility for information security within the MoJ.
 
 For the purpose of this Information Security Policy, the following roles are described. They have specific responsibilities in the implementation and monitoring of different provisions of the policy.
 
 |Role|Responsibility|Which includes...|
 |----|--------------|-----------------|
-|**Senior Information Risk Owners \(SIROs\)**|The MoJ SIRO is responsible for the overall MoJ information risk policy and guidance, and ensures it continues to provide appropriate risk appetite and a suitable risk framework.|Implementing and managing information risk management in their respective business groups.|
+|**Senior Information Risk Owners \(SIROs\)**|The MoJ SIRO is responsible for the overall MoJ information risk policy and guidance, and ensures that the policy and guidance material continues to provide appropriate risk appetite and a suitable risk framework.|Implementing and managing information risk management in their respective business groups.|
 |||Regularly reviewing the application of policy and guidance to ensure it remains appropriate to their business objectives and risk environment.|
 |||Authorising any exceptions and deviations from the IT Security Policy with consideration of the impact any changes might have to other users.|
 |**Delegated Agency SIROs**|The delegated agency SIRO is responsible for the information risk policy and guidance as it applies to their systems and personnel, and ensures the agency adheres to the MoJ's risk appetite and risk framework.|In line with the MoJ SIRO, but for Agency systems and personnel.|

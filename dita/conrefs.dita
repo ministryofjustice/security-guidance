@@ -33,6 +33,7 @@
 			<ph id="ncsclong">National Cyber Security Centre (NCSC)</ph>
 			<ph id="ncsc">NCSC</ph>
 			<ph id="ostemail"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
+			<ph id="policymandatory"><b>MANDATORY</b></ph>
 			<ph id="policymust"><b>MUST</b></ph>
 			<ph id="policymustnot"><b>MUST NOT</b></ph>
 			<ph id="policyonly"><b>ONLY</b></ph>
