@@ -32,9 +32,9 @@ An IT 'disaster' event is defined \(for the purposes of this policy\) as any inc
 
 Each IT system or IT domain **must have** \(or be explicitly covered by\) an IT Disaster Recovery Plan which implements this policy.
 
-A template Disaster Recovery Plan is [available](it-disaster-recovery-plan-and-process-guide.md#) with further guidance provided in [IT Security - IT Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md).
+A template Disaster Recovery Plan is available in the [IT Security - IT Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md).
 
-**Note** – In general, where an IT system \(or IT domain\) has an IT Security Incident Management Plan, there should be a corresponding IT Disaster Recovery Plan.
+**Note:** In general, where an IT system \(or IT domain\) has an IT Security Incident Management Plan, there should be a corresponding IT Disaster Recovery Plan.
 
 ## Roles and responsibilities
 
@@ -180,6 +180,10 @@ After each disaster incident, the following **must be** reviewed and any recomme
 
 
 **Note** – The [IT Security – IT Incident Management Policy](it-incident-management-policy.md) contains the provision for an incident report to be compiled. Any recovery and review work should be done in conjunction with the production of the overall incident report.
+
+## Contact details
+
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

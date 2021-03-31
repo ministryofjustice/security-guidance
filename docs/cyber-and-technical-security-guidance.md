@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 30 March 2021.
+**Note:** This guidance is dated: 31 March 2021.
 
 ### Popular links
 
@@ -148,11 +148,12 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Responsibility for assets
 
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Acceptable use](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/)|All users|
+|[Acceptable use](acceptable-use.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/)\)|All users|
 |[Acceptable use policy](acceptable-use-policy.md)|All users \(Policy\)|
+|[Guidance on IT Accounts and Assets for Long Term Leave](long-term-leave.md)|All users|
 |[IT Acceptable Use Policy](it-acceptable-use-policy.md)|All users \(Policy\)|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Protect Yourself Online](https://intranet.justice.gov.uk/guidance/security/it-computer-security/protect-yourself-online/)|All users|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Web browsing security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/)|All users|
+|[Protect Yourself Online](protect-yourself-online.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/protect-yourself-online/)\)|All users|
+|[Web browsing security](web-browsing.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/)\)|All users|
 
 #### Information classification
 
@@ -346,8 +347,8 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Information security continuity
 
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [IT Disaster Recovery Plan and Process Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-disaster-recovery-plan-and-process-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [IT Disaster Recovery Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[IT Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-disaster-recovery-plan-and-process-guide/)\)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[IT Disaster Recovery Policy](it-disaster-recovery-policy.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/)\)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 ### Compliance
 

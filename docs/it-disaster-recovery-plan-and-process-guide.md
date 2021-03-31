@@ -380,6 +380,10 @@ The following table defines several categories of staff and outlines the recomme
 
 Completing this plan can form part of the Accreditation process and must be included and maintained as part of the relevant RMADS.
 
+## Contact details
+
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+
 ## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
