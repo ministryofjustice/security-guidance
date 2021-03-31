@@ -16,8 +16,8 @@
           <b>POL.ITDR.001:</b>
         </p>
         <p>Each IT system or IT domain <b>must have</b> (or be explicitly covered by) an IT Disaster Recovery Plan which implements this policy.</p>
-        <p>A template Disaster Recovery Plan is <xref href="it-disaster-recovery-plan-and-process-guide.dita#it-disaster-recovery-plan-template" format="dita">available</xref> with further guidance provided in <xref href="it-disaster-recovery-plan-and-process-guide.dita" format="dita">IT Security - IT Disaster Recovery Plan and Process Guide</xref>.</p>
-        <p><b>Note</b> – In general, where an IT system (or IT domain) has an IT Security Incident Management Plan, there should be a corresponding IT Disaster Recovery Plan.</p>
+        <p>A template Disaster Recovery Plan is available in the <xref href="it-disaster-recovery-plan-and-process-guide.dita" format="dita">IT Security - IT Disaster Recovery Plan and Process Guide</xref>.</p>
+        <note>In general, where an IT system (or IT domain) has an IT Security Incident Management Plan, there should be a corresponding IT Disaster Recovery Plan.</note>
       </body>
     </topic>
   </topic>
@@ -196,5 +196,6 @@
       <p><b>Note</b> – The <xref href="it-incident-management-policy.dita" format="dita">IT Security – IT Incident Management Policy</xref> contains the provision for an incident report to be compiled. Any recovery and review work should be done in conjunction with the production of the overall incident report.</p>
     </body>
   </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
