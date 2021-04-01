@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 23 March 2021.
+**Note:** This guidance is dated: 1 April 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|On request.|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|On request.|
 
-The offline versions of this guidance are time-limited, and are not valid after 23 April 2021.
+The offline versions of this guidance are time-limited, and are not valid after 1 May 2021.
 
 ### Searching this content
 
@@ -141,22 +141,23 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### During employment
 
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Training and Education](https://intranet.justice.gov.uk/guidance/security/it-computer-security/training-and-education/)|All users|
+|[Training and Education](training-and-education.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/training-and-education/)\)|All users|
 
 ### Asset management
 
 #### Responsibility for assets
 
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Acceptable use](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/)|All users|
+|[Acceptable use](acceptable-use.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/)\)|All users|
 |[Acceptable use policy](acceptable-use-policy.md)|All users \(Policy\)|
+|[Guidance on IT Accounts and Assets for Long Term Leave](long-term-leave.md)|All users|
 |[IT Acceptable Use Policy](it-acceptable-use-policy.md)|All users \(Policy\)|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Protect Yourself Online](https://intranet.justice.gov.uk/guidance/security/it-computer-security/protect-yourself-online/)|All users|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Web browsing security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/)|All users|
+|[Protect Yourself Online](protect-yourself-online.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/protect-yourself-online/)\)|All users|
+|[Web browsing security](web-browsing.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/)\)|All users|
 
 #### Information classification
 
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Data Handling and Information Sharing Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/data-handling-and-information-sharing-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Government Classification Scheme](government-classification-scheme.md)\([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/)\)|All users|
+|[Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Government Classification Scheme](government-classification-scheme.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/)\)|All users|
 |[Information Classification and Handling Guide](information-classification-handling-and-security-guide.md)|All users|
 |[Information Classification and Handling Policy](information-classification-and-handling-policy.md)|All users \(Policy\)|
 |[`OFFICIAL` and `OFFICIAL-SENSITIVE`](official-official-sensitive.md)|All users|
@@ -164,8 +165,8 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Media handling
 
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Removable media](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/)|All users|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Secure disposal of IT equipment](https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-ict-equipment/)|All users|
+|[Removable media](removable-media.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/)\)|All users|
+|[Secure disposal of IT equipment](secure-disposal-of-it-equipment.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-ict-equipment/)\)|All users|
 
 ### Access control
 
@@ -201,9 +202,9 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |[Password Managers](password-managers.md)|All users|
 |[Passwords](passwords.md)|All users|
 |[Password Storage and Management Guide](password-storage-and-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Policies for Google Apps administrators](https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-google-apps-administrators/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Policies for Macbook Administrators](https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-administrators/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [System User and Application Administrators](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Policies for Google Apps administrators](policies-for-google-apps-administrators.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Policies for Macbook Administrators](policies-for-macbook-administrators.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[System User and Application Administrators](system-users-and-application-administrators.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Using LastPass Enterprise](using-lastpass.md)|All users|
 
 ### Cryptography
@@ -212,9 +213,9 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 |[Automated certificate renewal](automated-certificate-renewal.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Cryptography](cryptography.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [HMG Cryptography Business Continuity Management Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/hmg-cryptography-business-continuity-management-standard/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Public Key Infrastructure Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/public-key-infrastructure-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Use of HMG Cryptography Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/use-of-hmg-cryptography-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[HMG Cryptography Business Continuity Management Standard](hmg-cryptography-business-continuity-management-standard.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Public Key Infrastructure Policy](public-key-infrastructure-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Use of HMG Cryptography Policy](use-of-hmg-cryptography-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 ### Physical and environmental security
 
@@ -224,11 +225,11 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Equipment
 
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Clear Screen and Desk Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/clear-screen-and-desk/)|All users|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Laptops](https://intranet.justice.gov.uk/guidance/security/it-computer-security/laptops/)|All users|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Locking and shutdown](https://intranet.justice.gov.uk/guidance/security/it-computer-security/locking-and-shutdown/)|All users|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Policies for Macbook Users](https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-users/)|All users|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [System Lockdown and Hardening Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-lockdown-and-hardening-standard/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Clear Screen and Desk Policy](clear-screen-and-desk.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/clear-screen-and-desk/)\)|All users|
+|[Laptops](laptops.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/laptops/)\)|All users|
+|[Locking and shutdown](locking-and-shutdown.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/locking-and-shutdown/)\)|All users|
+|[Policies for Macbook Users](policies-for-macbook-users.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-users/)\)|All users|
+|[System Lockdown and Hardening Standard](system-lockdown-and-hardening-standard.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 ### Operations security
 
@@ -237,7 +238,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |[Active Cyber Defence: Mail Check](mail-check.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Active Cyber Defence: Public Sector DNS](public-sector-dns.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Active Cyber Defence: Web Check](web-check.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Offshoring Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/offshoring-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Offshoring Guide](offshoring-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 #### Protection from malware
 
@@ -248,9 +249,9 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Backup
 
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [System backup guidance](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-backup-guidance/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [System backup policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-backup-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [System backup standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-backup-standard/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[System backup guidance](system-backup-guidance.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[System backup policy](system-backup-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[System backup standard](system-backup-standard.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 #### Logging and monitoring
 
@@ -259,7 +260,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |[Custom Applications](custom-applications.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Logging and monitoring](logging-and-monitoring.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Online identifiers in security logging and monitoring](online-identifiers.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Protective Monitoring](protective-monitoring.md)\([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/protective-monitoring-guide/)\)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Protective Monitoring](protective-monitoring.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Security Log Collection](security-log-collection.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Security Log Collection: Enterprise IT - Infrastructure](enterprise-it-infrastructure.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Security Log Collection: Enterprise IT - Mobile Devices](enterprise-it-mobile-devices.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
@@ -274,7 +275,6 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 #### Technical vulnerability management
 
 |[Patch management guide](patch-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Patch Management Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/patch-management-standard/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Vulnerability Disclosure](vulnerability-disclosure-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Vulnerability Disclosure: Implementing `security.txt`](implement-security-txt.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Vulnerability scanning and patch management guide](vulnerability-scanning-and-patch-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
@@ -284,7 +284,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Network security management
 
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Code of Connection Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/code-of-connection-standard/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Code of Connection Standard](code-of-connection-standard.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Defensive domain registrations](defensive-domain-registration.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Internet v. PSN](internet-v-psn.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[IP DNS Diagram Handling](ip-dns-diagram-handling.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
@@ -296,7 +296,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |[Bluetooth](bluetooth.md)|All users|
 |[Criminal Justice Secure Mail \(CJSM\)](cjsm.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Data Sovereignty](data-sovereignty.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Email security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/email/)|All users|
+|[Email](email.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/email/)\)|All users|
 |[General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
 |[Web browsing security policy profiles](web-browsing-security-policy-profiles.md)|All users \(Policy\)|
 
@@ -338,19 +338,19 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Forensic Principles](https://intranet.justice.gov.uk/guidance/security/it-computer-security/forensic-principles/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Forensic Readiness Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/forensic-readiness-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Forensic Readiness Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/forensic-readiness-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Incident Management Plan and Process Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [IT Incident Management Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Forensic Readiness Policy](forensic-readiness-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[IT Incident Management Policy](it-incident-management-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Lost Laptop or other IT security incident](lost-laptophardware.md)|All users|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [MoJ Forensic Readiness Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[MoJ Forensic Readiness Policy](moj-forensic-readiness-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Reporting an incident](reporting-an-incident.md)|All users|
 
 ### Information security aspects of business continuity management
 
 #### Information security continuity
 
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [IT Disaster Recovery Plan and Process Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-disaster-recovery-plan-and-process-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [IT Disaster Recovery Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[IT Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-disaster-recovery-plan-and-process-guide/)\)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[IT Disaster Recovery Policy](it-disaster-recovery-policy.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/)\)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 ### Compliance
 
@@ -374,11 +374,11 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Risk Management
 
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Infrastructure and system accreditation](https://intranet.justice.gov.uk/guidance/security/it-computer-security/infrastructure-system-accreditation/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Infrastructure and system accreditation](infrastructure-system-accreditation.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 #### Risk Assessment Process
 
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Risk reviews](https://intranet.justice.gov.uk/guidance/security/it-computer-security/risk-reviews/)|All users|
+|[Risk reviews](risk-reviews.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/risk-reviews/)\)|All users|
 
 ## Other Guidance
 
