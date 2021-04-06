@@ -331,7 +331,7 @@
             <p>Carry out analysis of security incidents as required</p>
           </li>
           <li>
-            <p>Initiating a forensic investigation and commissioning forensic analysis (in accordance with <xref href="moj-forensic-readiness-policy.dita" format="dita">IT Security – Forensic Readiness Policy</xref> )</p>
+            <p>Initiating a forensic investigation and commissioning forensic analysis (in accordance with the <xref href="forensic-readiness-policy.dita" format="dita">Forensic Readiness Policy</xref> )</p>
           </li>
           <li>
             <p>Providing progress reports on specific incidents to relevant parties.</p>
@@ -364,7 +364,7 @@
   <topic id="investigation-and-diagnosis-capability">
     <title>Investigation and Diagnosis capability</title>
     <body>
-      <p>The OST is responsible for the investigation of all IT Security incidents. Where evidence gathering is required for possible disciplinary or legal proceedings, a forensic investigation may be required, further details are provided in <xref href="moj-forensic-readiness-policy.dita" format="dita">IT Security – Forensic Readiness Policy</xref>.</p>
+      <p>The OST is responsible for the investigation of all IT Security incidents. Where evidence gathering is required for possible disciplinary or legal proceedings, a forensic investigation may be required, further details are provided in the <xref href="forensic-readiness-policy.dita" format="dita">Forensic Readiness Policy</xref>.</p>
       <p>In the course of investigation, the OST may:</p>
       <ul>
         <li>

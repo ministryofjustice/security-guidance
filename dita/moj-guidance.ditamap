@@ -259,6 +259,8 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Security in development and support processes</navtitle></topicmeta>
 			<topicref href="maintained-by-default.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="secure-by-default.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="source-code-publishing.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="system-test-standard.dita" type="topic" audience="audience-suppliers audience-tech"/>
 		</topichead>
 		<topichead audience="audience-suppliers audience-tech">
 			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Test data</navtitle></topicmeta>
@@ -285,11 +287,16 @@ if an audience attribute is present, then only matching content is included.
 		<topicmeta audience="audience-basic audience-tech"><navtitle>Information security incident management</navtitle></topicmeta>
 		<topichead audience="audience-basic audience-tech">
 			<topicmeta audience="audience-basic audience-tech"><navtitle>Management of information security incidents and improvements</navtitle></topicmeta>
-			<topicref href="forensic-readiness-policy.dita" type="topic" audience="audience-tech"/>
+			<topicref href="forensic-principles.dita" type="topic" audience="audience-tech">
+				<topicref href="forensic-readiness-guide.dita" type="topic" audience="audience-tech"/>
+				<topicref href="forensic-readiness-policy.dita" type="topic" audience="audience-tech"/>
+			</topicref>
 			<topicref href="incident-management-plan-and-process-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="it-incident-management-policy.dita" type="topic" audience="audience-tech"/>
 			<topicref href="lost-laptophardware.dita" type="topic" audience="audience-basic audience-tech"/>
+			<!--
 			<topicref href="moj-forensic-readiness-policy.dita" type="topic" audience="audience-tech"/>
+			-->
 		</topichead>
 	</topichead>
 

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="source-code-publishing">
+  <title>Source code publishing</title>
+  <body>
+    <p>
+      <b>This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/mojlong"/>.
+        In particular,
+        it applies to product owners,
+        technical architects,
+        security architects,
+        and developers.</b>
+    </p>
+    <p><ph conref="conrefs.dita#conrefs/moj"/> policy about making source code developed by the <ph conref="conrefs.dita#conrefs/moj"/> available complies with <xref href="https://www.gov.uk/service-manual/service-standard" format="html" scope="external">UK Government guidance</xref>.</p>
+    <p>By default,
+      <ph conref="conrefs.dita#conrefs/moj"/> developers <ph conref="conrefs.dita#conrefs/policymust"/> develop source code
+      in a way that means it can be stored and published in the open.
+      There are exceptions,
+      for example sensitive material such as encryption keys.</p>
+    <p>This document is not about the use of existing open source materials.</p>
+  </body>
+  <topic id="reasons-for-working-in-the-open-and-sharing-source-code-by-default">
+    <title>Reasons for working in the open and sharing source code by default</title>
+    <body>
+      <p><xref href="https://www.gov.uk/service-manual/service-standard#criterion-8" format="html" scope="external">Point 8</xref> of the
+        <q>Digital by Default</q> Service Standard states that you should:
+      <lq>Make all new source code open and reusable,
+        and publish it under appropriate licences
+        (or provide a convincing explanation as to why this cannot be done for specific subsets of the source code).</lq></p>
+      <p>This includes <q><xref href="https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable" format="html" scope="external">Making source code open and reusable</xref></q>.</p>
+    </body>
+  </topic>
+  <topic id="when-you-should-not-publish-materials-in-the-open">
+    <title>When you should not publish materials in the open</title>
+    <body>
+      <p>There are some circumstances when materials should not be public.</p>
+      <p>Obvious examples include security or encryption keys or credentials,
+        and configuration details.
+        Other examples include:
+      <ul>
+        <li>Algorithms used to detect fraud.</li>
+        <li>Materials that relate to unreleased policy.</li>
+        <li>API keys for cloud-hosted applications or environments, for example AWS.</li>
+      </ul></p>
+      <p>An important exception is for materials developed by third parties.
+        They might have retained ownership of the Intellectual Property (IP).</p>
+      <p>More guidance to help you decide when to publish materials in the open or not is available
+        <xref href="https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed" format="html" scope="external">here</xref>.</p>
+    </body>
+  </topic>
+  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
