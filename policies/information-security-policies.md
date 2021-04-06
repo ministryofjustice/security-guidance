@@ -28,9 +28,9 @@ A set of policies for information security must be defined, approved, published 
 
 The following policies have been approved for MoJ use:
 
-[T Security Policy (Overview)](https://ministryofjustice.github.io/security-guidance/it-security-policy-overview/#it-security-policy-overview)
-[IT Security All Users Policy](https://ministryofjustice.github.io/security-guidance/it-security-all-users-policy/#it-security-all-users-policy)
-[IT Security Technical Users Policy](https://ministryofjustice.github.io/security-guidance/it-security-technical-users-policy/#it-security-technical-users-policy)
+- [T Security Policy (Overview)](https://ministryofjustice.github.io/security-guidance/it-security-policy-overview/#it-security-policy-overview)
+- [IT Security All Users Policy](https://ministryofjustice.github.io/security-guidance/it-security-all-users-policy/#it-security-all-users-policy)
+- [IT Security Technical Users Policy](https://ministryofjustice.github.io/security-guidance/it-security-technical-users-policy/#it-security-technical-users-policy)
 
 ### Review of the policies for information security
 
