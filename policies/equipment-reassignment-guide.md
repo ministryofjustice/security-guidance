@@ -16,20 +16,16 @@ This guide sets out the requirements for reassigning equipment whether laptop, m
 
 This guide applies to all staff in the MOJ, its Agencies, Associated Offices and Arm’s Length Bodies (ALBs), including contractors, agency and casual staff and service providers, who use MoJ computing equipment provided by the Department for on-site, remote working or mobile computing.
 
-This guidance relates to technological equipment that can record or hold data, including:
-
- - PCs
- - laptops
- - tablets
- - mobile phones
- - multi-functional devices — printers/scanners
- - servers
- - fax machines
- - USB memory sticks and external hard drives
+This guidance relates to technological equipment that can record or hold data, such as laptops, mobile phones, printers/scanners and USB memory sticks.
 
 ## Returning Equipment
 
-When a project completes, or a colleague leaves or moves to a new role, equipment no longer required must be returned to the employee's line manager.  This equipment might then become available for use by other employees. When returned, line managers should identify all such devices and ensure that they are recorded in an asset register.  In many cases, it might not be cost-effective to consider reusing or reassigning this equipment as:
+When a project completes, or a colleague leaves or moves to a new role, equipment no longer required must be returned.  The line manager (LM) needs to put in the Service Catalogue request to return the item.
+
+ - If the leaver is in the office they should return the devices to the LM who then arranges for a collection
+ - If leaver is based remotely, the LM arranges for a collection from the leaver’s location
+
+In both scenarios, the LM needs to submit the request. This equipment might then become available for use by other employees. When returned, line managers should identify all such devices and ensure that they are recorded in an asset register.  In many cases, it might not be cost-effective to consider reusing or reassigning this equipment as:
 
  - older technology may have been heavily used
  - it is more likely to have operating problems and failures
