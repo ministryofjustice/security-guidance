@@ -97,15 +97,15 @@ Ensure that public access to AWS data storage and compute is intentional, to avo
 |All AWS S3 objects should be not world \(public\) readable unless specifically intended to do so.|S3 objects are programmatically reviewed \(including 'open' ones\) against the source infrastructure-as-code, if there is a mismatch the resource creator and AWS account owner notified.|After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MoJ Cyber Security. After 7 days, the S3 object permissions are forcefully and automatically changed to remove 'world' access.|
 |Compute \(for example, EC2 or ECS\) instances should not be directly accessible from public networks unless through specific intentional design and should be behind CloudFront and/or applicable load balancing \(preferring AWS LB technology\). It must be truly exceptional for common service ports \(for example, TCP80 or TCP443\) to be served directly from compute resources.|Compute instances are programmatically reviewed to ensure they are not internet-accessible unless explicitly designed and documented to be so. If there is a mismatch the resource creator and AWS account owner notified.|After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and MoJ Cyber Security. After 7 days, the relevant security groups are forcefully and automatically changed to remove 'world' access.|
 
-### SecurityHub
+### Security Hub
 
-[SecurityHub](https://aws.amazon.com/security-hub/) enabled where possible.
+[Security Hub](https://aws.amazon.com/security-hub/) enabled where possible.
 
 Over time we will be able to leverage this more, but in the immediate future this will enable us to do CIS-based scans.
 
 |What must be in place|Monitoring|Resolution/Escalation if baseline is broken/violated|
 |---------------------|----------|----------------------------------------------------|
-|SecurityHub is enabled on all accounts, in all regions, all of the time.|Alerts fire when SecurityHub is not enabled in a MoJ AWS account.|SecurityHub is automatically re-enabled.|
+|Security Hub is enabled on all accounts, in all regions, all of the time.|Alerts fire when Security Hub is not enabled in a MoJ AWS account.|Security Hub is automatically re-enabled.|
 
 ## Implementation
 
