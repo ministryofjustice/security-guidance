@@ -57,13 +57,7 @@ For the purposes of this standard, the following definitions apply:
 
 -   **Security testing**
 
-    The subset of system tests which concentrate on testing an application's or IT system'
-
-    ```screen
-
-    ```
-
-    functional and non-functional security requirements.
+    The subset of system tests which concentrate on testing an application's or IT system's functional and non-functional security requirements.
 
 
 ### Demonstration of Compliance

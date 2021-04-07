@@ -232,9 +232,10 @@ Computers, networks, storage devices and their peripherals may be used in the co
 ### Software and other artefacts:
 
 |Artefact|Relevant Aspects|
+|--------|----------------|
 |Application software|Some applications, such as accounting packages, may hold records of fraud or employee records and activities.|
 |Operating System \(OS\) components and the registry|The OS is the software which controls the operation of the PC or phone. Security is enforced by the operating system, so attempts to subvert a PC frequently, starting with an attack on the operating system files. The registry is specific to Windows-based PCs and is the central repository of system management information. Examination of the registry can reveal: What devices have been connected; What application software has been installed and uninstalled; Usage history for applications; The state \(configuration\) of operating system components.|
-|Application & Middleware Log Files|Many applications and middleware \(particularly the large enterprise varieties\) produce their own log files for various activities. An investigation may involve the detailed study of this information, or of the servers holding this information. Investigators need to be aware of any attempt to subvert log files in support of malicious activity.|
+|Application and Middleware Log Files|Many applications and middleware \(particularly the large enterprise varieties\) produce their own log files for various activities. An investigation may involve the detailed study of this information, or of the servers holding this information. Investigators need to be aware of any attempt to subvert log files in support of malicious activity.|
 |Email records|IT systems can hold records of recent email activity, and mail servers retain extensive logs and records\[1\]. Organisation policy may dictate an email retention period, such as seven years for everything. An investigation may involve the detailed study of this information, or of the servers holding this information.|
 |System Log Files|IT systems produce log files for various activities. An investigation may involve the detailed study of this information, or of the servers holding this information. Investigators need to be aware of any attempt to subvert log files in support of malicious activity.|
 
@@ -248,52 +249,51 @@ These procedures are designed to ensure as much evidence is preserved as possibl
 
 As outlined [here](#criteria-for-conducting-a-forensic-investigation), consideration must be given to the strength of case required to proceed; therefore, a preliminary business impact assessment should be made based on whether any of the following are present:
 
--   Evidence of a reported crime;
--   Evidence of internal fraud, theft or other loss;
--   Estimate of possible damages \(a threshold may induce an escalation trigger\);
--   Potential for embarrassment/reputation loss;
--   Any immediate impact on customers, business partners or profitability;
--   Recovery plans have been enacted or are required;
+-   Evidence of a reported crime.
+-   Evidence of internal fraud, theft or other loss.
+-   Estimate of possible damages \(a threshold may induce an escalation trigger\).
+-   Potential for embarrassment/reputation loss.
+-   Any immediate impact on customers, business partners or profitability.
+-   Recovery plans have been enacted or are required.
 -   The incident is reported under a compliance regime.
 
-Computer equipment which is switched on
+For computer equipment which is switched on, the following process must be applied:
 
-The following process must be applied:
-
--   Secure the area containing the equipment;
--   Move people away from the computer and power supplies;
--   If attached, disconnect any modem;
--   If the computer is attached to the network remove the network cable from the data point;
--   Do not touch the keyboard or mouse;
--   Do not take advice from the computer’s user/owner;
--   Allow any printers to finish printing \(further evidence may be printing\).
+1.  Secure the area containing the equipment.
+2.  Move people away from the computer and power supplies.
+3.  If attached, disconnect any modem.
+4.  If the computer is attached to the network remove the network cable from the data point.
+5.  Do not touch the keyboard or mouse.
+6.  Do not take advice from the computer’s user/owner.
+7.  Allow any printers to finish printing \(further evidence may be printing\).
 
 If equipment is removed before the investigator arrives then the following steps must be performed:
 
-Record what is on the screen and take photographs if possible;
+1.  Record what is on the screen and take photographs if possible.
+2.  Switch off the computer by pulling the power cable from the computer, not from the power socket.
 
-Switch off the computer by pulling the power cable from the computer, not from the power socket. \(Note, for laptops, remove the battery before pulling the power cable.\) When removing the power supply always remove the end attached to the computer and not the socket. This will avoid data being written to the hard drive if an uninterruptable power supply is fitted. Then:
+    **Note:** For laptops, remove the battery before pulling the power cable.
 
--   If possible, label and photograph all the components in situ. If no camera is available draw a sketch plan;
--   Label the ports and cables so that the computer can be reconstructed at a later date;
--   Carefully remove the equipment and record serial numbers/asset tags;
--   Ensure all items have been signed and completed exhibit labels attached;
--   Search the immediate area for diaries, notebooks or pieces of paper that may contain passwords;
--   Consider asking the user if there are any passwords, and if given, record them accurately;
--   Make detailed notes of all actions in relation to the seizure of the computer equipment;
--   Remove the computer equipment to a secure location.
+    When removing the power supply always remove the end attached to the computer and not the socket. This will avoid data being written to the hard drive if an uninterruptable power supply is fitted. Then:
 
-Computer equipment which is switched off
+    1.  If possible, label and photograph all the components in situ. If no camera is available draw a sketch plan;
+    2.  Label the ports and cables so that the computer can be reconstructed at a later date;
+    3.  Carefully remove the equipment and record serial numbers/asset tags;
+    4.  Ensure all items have been signed and completed exhibit labels attached;
+    5.  Search the immediate area for diaries, notebooks or pieces of paper that may contain passwords;
+    6.  Consider asking the user if there are any passwords, and if given, record them accurately;
+    7.  Make detailed notes of all actions in relation to the seizure of the computer equipment;
+    8.  Remove the computer equipment to a secure location.
 
-The following process must be applied:
+For computer equipment which is switched off, the following process must be applied:
 
--   DO NOT switch the computer on;
--   Secure and take control of the area controlling the equipment;
--   Move people away from the computers and power supplies;
--   Confirm the computer is actually switched off – some screen savers can give the appearance that the computer is switched off. Check the hard drive and monitor lights to confirm this;
--   Be aware that some laptops may power up by opening the lid;
--   Remove the battery from laptops;
--   Unplug the power supply from the computer. A computer that is apparently switched off may be in sleep mode and may be accessed remotely, allowing the alteration or deletion of data.
+1.  DO NOT switch the computer on.
+2.  Secure and take control of the area controlling the equipment.
+3.  Move people away from the computers and power supplies.
+4.  Confirm the computer is actually switched off – some screen savers can give the appearance that the computer is switched off. Check the hard drive and monitor lights to confirm this.
+5.  Be aware that some laptops may power up by opening the lid.
+6.  Remove the battery from laptops.
+7.  Unplug the power supply from the computer. A computer that is apparently switched off may be in sleep mode and may be accessed remotely, allowing the alteration or deletion of data.
 
 ## Appendix D: Forensic Readiness Plan template
 

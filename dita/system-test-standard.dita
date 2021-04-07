@@ -56,7 +56,8 @@
           </dlentry>
           <dlentry>
             <dt>Security testing</dt>
-            <dd>The subset of system tests which concentrate on testing an application's or IT system'<screen></screen>functional and non-functional security requirements.</dd>
+            <dd>The subset of system tests which concentrate on testing an application's or IT system's
+              functional and non-functional security requirements.</dd>
           </dlentry>
         </dl></p>
       </body>

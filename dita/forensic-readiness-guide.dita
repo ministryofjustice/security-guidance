@@ -512,11 +512,13 @@
           <tgroup cols="2">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
-            <tbody>
+            <thead>
               <row>
                 <entry colname="col1">Artefact</entry>
                 <entry colname="col2">Relevant Aspects</entry>
               </row>
+            </thead>
+            <tbody>
               <row>
                 <entry colname="col1">Application software</entry>
                 <entry colname="col2">Some applications, such as accounting packages, may hold records of fraud or employee records and activities.</entry>
@@ -527,7 +529,7 @@
                 The registry is specific to Windows-based PCs and is the central repository of system management information. Examination of the registry can reveal: What devices have been connected; What application software has been installed and uninstalled; Usage history for applications; The state (configuration) of operating system components. </entry>
               </row>
               <row>
-                <entry colname="col1">Application &amp; Middleware Log Files</entry>
+                <entry colname="col1">Application and Middleware Log Files</entry>
                 <entry colname="col2">Many applications and middleware (particularly the large enterprise varieties) produce their own log files for various activities. An investigation may involve the detailed study of this information, or of the servers holding this information. Investigators need to be aware of any attempt to subvert log files in support of malicious activity.</entry>
               </row>
               <row>
@@ -551,51 +553,64 @@
     <body>
       <p>This section contains a set of forensic procedures which should be enacted in addition to contacting the relevant IAO/Line Manager and the IT Security Manager when an incident occurs.</p>
       <p>These procedures are designed to ensure as much evidence is preserved as possible, and to facilitate the transfer of equipment and material to a forensic investigator for further inspections.</p>
-      <p>As outlined <xref href="#criteria-for-conducting-a-forensic-investigation" format="dita">here</xref>, consideration must be given to the strength of case required to proceed; therefore, a preliminary business impact assessment should be made based on whether any of the following are present:</p>
+      <p>As outlined <xref href="#criteria-for-conducting-a-forensic-investigation" format="dita">here</xref>,
+        consideration must be given to the strength of case required to proceed;
+        therefore,
+        a preliminary business impact assessment should be made based on whether any of the following are present:</p>
       <ul>
-        <li>Evidence of a reported crime;</li>
-        <li>Evidence of internal fraud, theft or other loss;</li>
-        <li>Estimate of possible damages (a threshold may induce an escalation trigger);</li>
-        <li>Potential for embarrassment/reputation loss;</li>
-        <li>Any immediate impact on customers, business partners or profitability;</li>
-        <li>Recovery plans have been enacted or are required;</li>
+        <li>Evidence of a reported crime.</li>
+        <li>Evidence of internal fraud, theft or other loss.</li>
+        <li>Estimate of possible damages (a threshold may induce an escalation trigger).</li>
+        <li>Potential for embarrassment/reputation loss.</li>
+        <li>Any immediate impact on customers, business partners or profitability.</li>
+        <li>Recovery plans have been enacted or are required.</li>
         <li>The incident is reported under a compliance regime.</li>
       </ul>
-      <p>Computer equipment which is switched on</p>
-      <p>The following process must be applied:</p>
-      <ul>
-        <li>Secure the area containing the equipment;</li>
-        <li>Move people away from  the computer and power supplies;</li>
-        <li>If attached, disconnect any modem;</li>
-        <li>If the computer is attached to the network remove the network cable from the data point;</li>
-        <li>Do not touch the keyboard or mouse;</li>
-        <li>Do not take advice from the computer’s user/owner;</li>
+      <p>For computer equipment which is switched on,
+        the following process must be applied:</p>
+      <ol>
+        <li>Secure the area containing the equipment.</li>
+        <li>Move people away from  the computer and power supplies.</li>
+        <li>If attached, disconnect any modem.</li>
+        <li>If the computer is attached to the network remove the network cable from the data point.</li>
+        <li>Do not touch the keyboard or mouse.</li>
+        <li>Do not take advice from the computer’s user/owner.</li>
         <li>Allow any printers to finish printing (further evidence may be printing).</li>
-      </ul>
-      <p>If equipment is removed before the investigator arrives then the following steps must be performed:</p>
-      <p>Record what is on the screen and take photographs if possible;</p>
-      <p>Switch off the computer by pulling the power cable from the computer, not from the power socket. (Note, for laptops, remove the battery before pulling the power cable.) When removing the power supply always remove the end attached to the computer and not the socket. This will avoid data being written to the hard drive if an uninterruptable power supply is fitted. Then:</p>
-      <ul>
-        <li>If possible, label and photograph all the components in situ. If no camera is available draw a sketch plan;</li>
-        <li>Label the ports and cables so that the computer can be reconstructed at a later date;</li>
-        <li>Carefully remove the equipment and record serial numbers/asset tags;</li>
-        <li>Ensure all items have been signed and completed exhibit labels attached;</li>
-        <li>Search the immediate area for diaries, notebooks or pieces of paper that may contain passwords;</li>
-        <li>Consider asking the user if there are any passwords, and if given, record them accurately;</li>
-        <li>Make detailed notes of all actions in relation to the seizure of the computer equipment;</li>
-        <li>Remove the computer equipment to a secure location.</li>
-      </ul>
-      <p>Computer equipment which is switched off</p>
-      <p>The following process must be applied:</p>
-      <ul>
-        <li>DO NOT switch the computer on;</li>
-        <li>Secure and take control of the area controlling the equipment;</li>
-        <li>Move people away from the computers and power supplies;</li>
-        <li>Confirm the computer is actually switched off – some screen savers can give the appearance that the computer is switched off. Check the hard drive and monitor lights to confirm this;</li>
-        <li>Be aware that some laptops may power up by opening the lid;</li>
-        <li>Remove the battery from laptops;</li>
-        <li>Unplug the power supply from the computer. A computer that is apparently switched off may be in sleep mode and may be accessed remotely, allowing the alteration or deletion of data.</li>
-      </ul>
+      </ol>
+      <p>If equipment is removed before the investigator arrives then the following steps must be performed:
+        <ol>
+          <li>Record what is on the screen and take photographs if possible.</li>
+          <li>Switch off the computer by pulling the power cable from the computer,
+            not from the power socket.
+            <note>For laptops, remove the battery before pulling the power cable.</note>
+            When removing the power supply always remove the end attached to the computer and not the socket.
+            This will avoid data being written to the hard drive if an uninterruptable power supply is fitted. Then:
+          <ol>
+            <li>If possible, label and photograph all the components in situ. If no camera is available draw a sketch plan;</li>
+            <li>Label the ports and cables so that the computer can be reconstructed at a later date;</li>
+            <li>Carefully remove the equipment and record serial numbers/asset tags;</li>
+            <li>Ensure all items have been signed and completed exhibit labels attached;</li>
+            <li>Search the immediate area for diaries, notebooks or pieces of paper that may contain passwords;</li>
+            <li>Consider asking the user if there are any passwords, and if given, record them accurately;</li>
+            <li>Make detailed notes of all actions in relation to the seizure of the computer equipment;</li>
+            <li>Remove the computer equipment to a secure location.</li>
+          </ol></li>
+        </ol>
+      </p>
+      <p>For computer equipment which is switched off,
+        the following process must be applied:
+      <ol>
+        <li>DO NOT switch the computer on.</li>
+        <li>Secure and take control of the area controlling the equipment.</li>
+        <li>Move people away from the computers and power supplies.</li>
+        <li>Confirm the computer is actually switched off – some screen savers can give the appearance that the computer is switched off.
+          Check the hard drive and monitor lights to confirm this.</li>
+        <li>Be aware that some laptops may power up by opening the lid.</li>
+        <li>Remove the battery from laptops.</li>
+        <li>Unplug the power supply from the computer.
+          A computer that is apparently switched off may be in sleep mode and may be accessed remotely,
+          allowing the alteration or deletion of data.</li>
+      </ol></p>
     </body>
   </topic>
   <topic id="appendix-d-forensic-readiness-plan-template">

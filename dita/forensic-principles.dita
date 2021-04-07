@@ -2,24 +2,27 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="forensic-principles">
   <title>Forensic Principles</title>
-  <body>
-    <p>The <xref href="forensic-readiness-policy.dita" format="dita">Forensic Readiness Policy</xref>
-      states the <ph conref="conrefs.dita#conrefs/mojlong"/> requirements on the need for IT forensics.
-      Each <ph conref="conrefs.dita#conrefs/moj"/> IT system or IT domain <ph conref="conrefs.dita#conrefs/policymust"/> have,
-      or be explicitly covered by,
-      a Forensic Readiness Plan.
-      The policy also outlines four principles which must be followed.
-      For reference, these are:
-      <ul>
-        <li>Preservation of Evidence - the forensic investigation process <ph conref="conrefs.dita#conrefs/policyshall"/> preserve the integrity of original evidence by providing sufficient security,
-          legal advice and procedural measures to ensure that evidential requirements are met.
-          Any processes applied to copies of evidence must be repeatable and achieve the same results.</li>
-        <li>Aptitude for task - any task in a forensic investigation <ph conref="conrefs.dita#conrefs/policywill"/> be conducted by a person assessed to be suitably trained and competent to carry out that task.</li>
-        <li>Documented Methodology – all investigations <ph conref="conrefs.dita#conrefs/policywill"/> follow the documented methodology outlined in the forensic readiness plan, with an audit trail of all processes applied to evidence.
-          A chain of evidence <ph conref="conrefs.dita#conrefs/policywill"/> be created and preserved demonstrating where evidence has been stored and whose care the evidence has been in from point of capture until presentation.</li>
-        <li>Conformance - investigations <ph conref="conrefs.dita#conrefs/policywill"/> be conducted in a manner which respects <ph conref="conrefs.dita#conrefs/moj"/> policies and assumes full cooperation from all internal and external staff members.</li>
-      </ul></p>
-  </body>
+  <topic id="overview">
+    <title>Overview</title>
+    <body>
+      <p>The <xref href="forensic-readiness-policy.dita" format="dita">Forensic Readiness Policy</xref>
+        states the <ph conref="conrefs.dita#conrefs/mojlong"/> requirements on the need for IT forensics.
+        Each <ph conref="conrefs.dita#conrefs/moj"/> IT system or IT domain <ph conref="conrefs.dita#conrefs/policymust"/> have,
+        or be explicitly covered by,
+        a Forensic Readiness Plan.
+        The policy also outlines four principles which must be followed.
+        For reference, these are:
+        <ul>
+          <li>Preservation of Evidence - the forensic investigation process <ph conref="conrefs.dita#conrefs/policyshall"/> preserve the integrity of original evidence by providing sufficient security,
+            legal advice and procedural measures to ensure that evidential requirements are met.
+            Any processes applied to copies of evidence must be repeatable and achieve the same results.</li>
+          <li>Aptitude for task - any task in a forensic investigation <ph conref="conrefs.dita#conrefs/policywill"/> be conducted by a person assessed to be suitably trained and competent to carry out that task.</li>
+          <li>Documented Methodology – all investigations <ph conref="conrefs.dita#conrefs/policywill"/> follow the documented methodology outlined in the forensic readiness plan, with an audit trail of all processes applied to evidence.
+            A chain of evidence <ph conref="conrefs.dita#conrefs/policywill"/> be created and preserved demonstrating where evidence has been stored and whose care the evidence has been in from point of capture until presentation.</li>
+          <li>Conformance - investigations <ph conref="conrefs.dita#conrefs/policywill"/> be conducted in a manner which respects <ph conref="conrefs.dita#conrefs/moj"/> policies and assumes full cooperation from all internal and external staff members.</li>
+        </ul></p>
+    </body>
+    </topic>
   <topic id="people-and-resources">
     <title>People and resources</title>
     <body>
