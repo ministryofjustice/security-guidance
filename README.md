@@ -43,7 +43,7 @@ manager][rvm].
 [bundler]: http://bundler.io/
 
 Once you have Ruby and Bundler set up, you can install this project's
-dependencies by running the following in this directory:
+dependencies by running the following in the `docs` directory:
 
 ```bash
 bundle install
