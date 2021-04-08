@@ -52,7 +52,6 @@ Rules for the acceptable use of information and of assets associated with inform
 
 MoJ employees and external parties using or having access to the MoJ's assets must be made aware of the information security requirements of the MoJ's assets associated with information and information processing facilities and resources. They should be responsible for their use of any information processing resources and of any such use carried out under their responsibility.
 
-
 ### Return of assets
 
 All MoJ employees and external parties should return all of the MoJ assets in their possession upon termination of their employment, contract or agreement.
