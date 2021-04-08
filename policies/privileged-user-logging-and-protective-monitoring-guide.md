@@ -41,5 +41,5 @@ To ensure that there is an audit trail for log data, privileged users must:
 
 ## Contact details
 
-- Contact the Technology Service Desk to report a suspected incident: 0800 917 5148.
+- Contact the Technology Service Desk to report a suspected IT incident: Telephone: 0800 917 5148.
 - Contact the MoJ Security Team for further advice and to report other security incidents: [Security@justice.gov.uk](mailto:Security@justice.gov.uk)

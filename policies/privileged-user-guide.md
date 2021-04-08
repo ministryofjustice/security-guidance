@@ -12,7 +12,7 @@ Target audience:
 
 This guide outlines the security procedures and advice that privileged users should follow when accessing the Ministry of Justice's (MoJ's) IT systems in a safe and secure manner. Privileged users are those who have elevated levels of system access in order to manage IT system components to meet MoJ IT service requirements. Privileged users may, for example, install software, configure and upgrade IT systems, input into the Service Management Tool for the systems they manage and run day-to-day operations to satisfy continuity of service, recovery, security and performance needs.  This includes privileged users who manage Slack or Github repositories, users who have administrative access on their laptops and users who setup and maintain platforms hosted in the Cloud.
 
-Specific responsibilities of individual privileged users are likely to vary depending on the systems they manage. The system's Information Risk Assessment Report ([IRAR](https://docs.google.com/document/d/1MeJJtfHpwR1XM_okk3Pi4gW0bpcnLDdt5OXwddB7-Bk/edit?ts=5e25c004)) will document the security controls, some of which the system's privileged users will run. For a comprehensive list of individual responsibilities, privileged users should refer to the system specific documentation.
+Specific responsibilities of individual privileged users are likely to vary depending on the systems they manage. The system's Information Risk Assessment Report will document the security controls, see [MoJ - Information Assurance Framework Process](https://docs.google.com/document/d/1vQOlnD1Xixlw20p7OuO8nleV8qt0BfvVWvXkPQurZ3A/edit?usp=sharing) and the [IRAR](https://docs.google.com/document/d/1MeJJtfHpwR1XM_okk3Pi4gW0bpcnLDdt5OXwddB7-Bk/edit?ts=5e25c004) should be completed as part of this process. For a comprehensive list of individual responsibilities, privileged users should refer to the system specific documentation .
 
 This page is the first in a series of guides for privileged users within the MoJ, see related guides below.
 
@@ -51,17 +51,21 @@ For further information on managing privileged user accounts see the [Configurat
 
 ## Resource monitoring
 
-Where privileged users are responsible for monitoring system resources to ensure that the system is operating effectively and providing their intended function, defined system Key Performance Indicators (KPIs) should be used to monitor systems and ensure they are operating effectively. Privileged users should do this by:
+Privileged users are responsible for monitoring their systems to ensure that the system is operating effectively and providing the intended functionality.  Privileged users should:
 
-- monitoring and analysing data from each of the following categories in order to observe malicious behaviour, and minimise, or prevent, system outages or slowdowns:
-  * CPU usage
-  * memory consumption
-  * input/output operations
-  * network usage
-  * disk usage
-  * system down time
-- identifying the root cause of excessive resource use and rectifying the issue when possible - if an issue cannot be rectified quickly, it should be reported to the system owner.
-- notifying the MoJ's Technology Service Desk if there is a suspected incident (see [below](#contact-details) for contact details).
+- define each system's Key Performance Indicators (KPIs) which can be used to ensure the systems are operating effectively.
+- monitor and analyse data from the systems in order to observe malicious behaviour, and minimise, or prevent, system outages or slowdowns, examples being:
+  * for MoJ managed infrastructure:
+    - CPU usage
+    - memory consumption
+    - disk usage
+  * for Cloud solutions:
+    -  monitoring storage resources and processes that are provisioned to virtual machines, services, databases, and applications
+    - Virtual network monitoring
+    - database monitoring
+    - access requests 
+- identify the root cause of excessive resource use and rectifying the issue when possible - if an issue cannot be rectified quickly, it should be reported to the system owner.
+- notify the MoJ's Technology Service Desk if there is a suspected incident (see [below](#contact-details) for contact details).
 
 ## Identification and authentication
 
@@ -77,7 +81,6 @@ Privileged users are responsible for managing user access to systems to enable e
 
 When working remotely, it is important that privileged users operate securely by:
 
-- not conducting administrative tasks (such as creating new user credentials) on untrusted public Wi-Fi networks.
 - ensuring that they are not overlooked when working on administrative tasks.
 - ensuring that they use the MoJ's Virtual private Network (VPN) to connect with MoJ systems when using Privileged user login details.
 - using only MoJ issued equipment to connect to the MoJ estate and to carry out MoJ business.

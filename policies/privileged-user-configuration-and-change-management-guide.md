@@ -29,5 +29,5 @@ Privileged users must ensure that secure configuration and change management pro
 
 ## Contact details
 
-- Contact the Cyber Assistance Team for advice: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
-- Contact the Technology Service Desk to report a suspected incident: 0800 917 5148.
+- Contact the Technology Service Desk to report a suspected IT incident: Telephone: 0800 917 5148.
+- Contact the MoJ Security Team for further advice and to report other security incidents: [Security@justice.gov.uk](mailto:Security@justice.gov.uk)
