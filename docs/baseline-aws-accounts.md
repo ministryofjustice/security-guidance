@@ -29,6 +29,14 @@ The CyberSecurity team should be added as a security contact for all Information
 
 ## Baseline
 
+### IAM Access Analyzer
+
+Utilise [IAM Access Analyzer](https://docs.aws.amazon.com/IAM/latest/UserGuide/what-is-access-analyzer.html) to audit and identify resources that are shared with an external entity.
+
+|What must be in place|Monitoring|Resolution/Escalation if baseline is broken/violated|
+|---------------------|----------|----------------------------------------------------|
+|[IAM Access Analyzer](https://docs.aws.amazon.com/IAM/latest/UserGuide/what-is-access-analyzer.html) is enabled on all accounts, in all used regions, all of the time.|Alerts fire for new findings.|Findings are archived (if intended) or resolved (if unintended) within 7 days.|
+
 ### GuardDuty
 
 Leverage AWS' commodity IDS solution to detect/protect from malicious or unauthorised behavior.
