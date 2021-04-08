@@ -2,7 +2,6 @@
 redirect_from:
   - /standards/baseline-aws-accounts/
 ---
-
 # Baseline for Amazon Web Services accounts
 
 The Ministry of Justice \(MoJ\) has a 'lowest common denominator' for security-related promises, capabilities and configurations of MoJ Amazon Web Services \(AWS\) accounts.
@@ -35,7 +34,7 @@ Utilise [IAM Access Analyzer](https://docs.aws.amazon.com/IAM/latest/UserGuide/w
 
 |What must be in place|Monitoring|Resolution/Escalation if baseline is broken/violated|
 |---------------------|----------|----------------------------------------------------|
-|[IAM Access Analyzer](https://docs.aws.amazon.com/IAM/latest/UserGuide/what-is-access-analyzer.html) is enabled on all accounts, in all used regions, all of the time.|Alerts fire for new findings.|Findings are archived (if intended) or resolved (if unintended) within 7 days.|
+|[IAM Access Analyzer](https://docs.aws.amazon.com/IAM/latest/UserGuide/what-is-access-analyzer.html) is enabled on all accounts, in all used regions, all of the time.|Alerts fire for new findings.|Findings are archived \(if intended\) or resolved \(if unintended\) within 7 days.|
 
 ### GuardDuty
 
@@ -123,3 +122,4 @@ Various [AWS account baseline templates](https://github.com/ministryofjustice/cl
 ## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+
