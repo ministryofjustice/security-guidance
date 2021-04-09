@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 1 April 2021.
+**Note:** This guidance is dated: 8 April 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|On request.|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|On request.|
 
-The offline versions of this guidance are time-limited, and are not valid after 1 May 2021.
+The offline versions of this guidance are time-limited, and are not valid after 8 May 2021.
 
 ### Searching this content
 
@@ -312,8 +312,8 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 |[Maintained by Default](maintained-by-default.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Secure by Default](secure-by-default.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Source Code Publishing](https://intranet.justice.gov.uk/guidance/security/it-computer-security/source-code-publishing/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [System Test Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-test-standard/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Source Code Publishing](source-code-publishing.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[System Test Standard](system-test-standard.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 #### Test data
 
@@ -336,13 +336,12 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Management of information security incidents and improvements
 
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Forensic Principles](https://intranet.justice.gov.uk/guidance/security/it-computer-security/forensic-principles/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png) [Forensic Readiness Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/forensic-readiness-guide/)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Forensic Principles](forensic-principles.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Forensic Readiness Guide](forensic-readiness-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Forensic Readiness Policy](forensic-readiness-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[IT Incident Management Policy](it-incident-management-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Lost Laptop or other IT security incident](lost-laptophardware.md)|All users|
-|[MoJ Forensic Readiness Policy](moj-forensic-readiness-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Reporting an incident](reporting-an-incident.md)|All users|
 
 ### Information security aspects of business continuity management
