@@ -1,4 +1,4 @@
-# Lost Laptop or other IT security incident
+# Lost devices or other IT security incidents
 
 **This guidance applies to all staff and contractors who work for the Ministry of Justice \(MoJ\).**
 

@@ -44,7 +44,7 @@ if an audience attribute is present, then only matching content is included.
 	<topichead>
 		<topicmeta><navtitle>Incident management</navtitle></topicmeta>
 		<topicref href="reporting-an-incident.dita" type="topic"/>
-		<topicref href="lost-laptophardware.dita" type="topic"/>
+		<topicref href="lost-devices-incidents.dita" type="topic"/>
 	</topichead>
 	<topichead>
 		<topicmeta><navtitle>Remote working</navtitle></topicmeta>
@@ -94,7 +94,7 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="laptops.dita"/>
 			</relcell>
 			<relcell>
-				<topicref href="lost-laptophardware.dita"/>
+				<topicref href="lost-devices-incidents.dita"/>
 			</relcell>
 		</relrow>
 	</reltable>

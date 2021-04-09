@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 8 April 2021.
+**Note:** This guidance is dated: 9 April 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|On request.|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|On request.|
 
-The offline versions of this guidance are time-limited, and are not valid after 8 May 2021.
+The offline versions of this guidance are time-limited, and are not valid after 9 May 2021.
 
 ### Searching this content
 
@@ -99,7 +99,7 @@ The MoJ has developed our cyber and technical security taxonomy as follows:
 ||[Test data](#test-data)|
 |[Supplier relationships](#supplier-relationships)|[Information security in supplier relationships](#information-security-in-supplier-relationships)|
 ||[Supplier service delivery management](#supplier-service-delivery-management)|
-|[Information security incident management](#information-security-incident-management)|[Management of information security incidents and improvements](#management-of-information-security-incidents-and-improvements)|
+|[Information security incident management](#information-security-incident-management)|[Management of information security incidents and lost devices](#management-of-information-security-incidents-and-lost-devices)|
 |[Information security aspects of business continuity management](#information-security-aspects-of-business-continuity-management)|[Information security continuity](#information-security-continuity)|
 |[Compliance](#compliance)|[Compliance with legal and contractual requirements](#compliance-with-legal-and-contractual-requirements)|
 ||[Information security reviews](#information-security-reviews)|
@@ -330,14 +330,14 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 ### Information security incident management
 
-#### Management of information security incidents and improvements
+#### Management of information security incidents and lost devices
 
 |[Forensic Principles](forensic-principles.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Forensic Readiness Guide](forensic-readiness-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Forensic Readiness Policy](forensic-readiness-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[IT Incident Management Policy](it-incident-management-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Lost Laptop or other IT security incident](lost-laptophardware.md)|All users|
+|[Lost devices or other IT security incidents](lost-devices-incidents.md)|All users|
 |[Reporting an incident](reporting-an-incident.md)|All users|
 
 ### Information security aspects of business continuity management

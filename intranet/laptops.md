@@ -3,7 +3,7 @@
 **Related information**  
 
 
-[Lost Laptop or other IT security incident](lost-laptophardware.md)
+[Lost devices or other IT security incidents](lost-devices-incidents.md)
 
 ## Storing data on laptops
 

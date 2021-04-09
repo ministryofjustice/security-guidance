@@ -298,10 +298,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
 							<entry colname="col2"><xref href="#supplier-service-delivery-management" format="dita">Supplier service delivery management</xref></entry>
 						</row>
 <!-- Information security incident management -->
-<!--   Management of information security incidents and improvements -->
+<!--   Management of information security incidents and lost devices -->
 						<row>
 							<entry colname="col1"><xref href="#information-security-incident-management" format="dita">Information security incident management</xref></entry>
-							<entry colname="col2"><xref href="#management-of-information-security-incidents-and-improvements" format="dita">Management of information security incidents and improvements</xref></entry>
+							<entry colname="col2"><xref href="#management-of-information-security-incidents-and-lost-devices" format="dita">Management of information security incidents and lost devices</xref></entry>
 						</row>
 <!-- Information security aspects of business continuity management -->
 <!--   Information security continuity -->
@@ -1068,8 +1068,8 @@ has made for the products we operate, and our relationships with suppliers.</p>
 
       <topic id="information-security-incident-management">
         <title>Information security incident management</title>
-        <topic id="management-of-information-security-incidents-and-improvements">
-          <title>Management of information security incidents and improvements</title>
+        <topic id="management-of-information-security-incidents-and-lost-devices">
+          <title>Management of information security incidents and lost devices</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row audience="audience-tech">
@@ -1093,7 +1093,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="lost-laptophardware.dita" format="dita">Lost Laptop or other IT security incident</xref></entry>
+                <entry colname="col1" align="left"><xref href="lost-devices-incidents.dita" format="dita">Lost devices or other IT security incidents</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <!--

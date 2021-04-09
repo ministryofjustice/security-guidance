@@ -23,7 +23,7 @@
         -   [Policies for MacBook Users](policies-for-macbook-users.md)
 -   Incident management
     -   [Reporting an incident](reporting-an-incident.md)
-    -   [Lost Laptop or other IT security incident](lost-laptophardware.md)
+    -   [Lost devices or other IT security incidents](lost-devices-incidents.md)
 -   Remote working
     -   [Remote Working](remote-working.md)
     -   Overseas travel

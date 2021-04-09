@@ -293,7 +293,7 @@ if an audience attribute is present, then only matching content is included.
 			</topicref>
 			<topicref href="incident-management-plan-and-process-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="it-incident-management-policy.dita" type="topic" audience="audience-tech"/>
-			<topicref href="lost-laptophardware.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="lost-devices-incidents.dita" type="topic" audience="audience-basic audience-tech"/>
 			<!--
 			<topicref href="moj-forensic-readiness-policy.dita" type="topic" audience="audience-tech"/>
 			-->
@@ -361,7 +361,7 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="laptops.dita"/>
 			</relcell>
 			<relcell>
-				<topicref href="lost-laptophardware.dita"/>
+				<topicref href="lost-devices-incidents.dita"/>
 			</relcell>
 		</relrow>
 		<relrow>

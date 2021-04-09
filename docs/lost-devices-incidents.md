@@ -1,4 +1,8 @@
-# Lost Laptop or other IT security incident
+---
+redirect_from:
+  - /lost-laptophardware/
+---
+# Lost devices or other IT security incidents
 
 **This guidance applies to all staff and contractors who work for the Ministry of Justice \(MoJ\).**
 
