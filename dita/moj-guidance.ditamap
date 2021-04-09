@@ -286,7 +286,7 @@ if an audience attribute is present, then only matching content is included.
 	<topichead audience="audience-basic audience-tech">
 		<topicmeta audience="audience-basic audience-tech"><navtitle>Information security incident management</navtitle></topicmeta>
 		<topichead audience="audience-basic audience-tech">
-			<topicmeta audience="audience-basic audience-tech"><navtitle>Management of information security incidents and improvements</navtitle></topicmeta>
+			<topicmeta audience="audience-basic audience-tech"><navtitle>Management of information security incidents and lost devices</navtitle></topicmeta>
 			<topicref href="forensic-principles.dita" type="topic" audience="audience-tech">
 				<topicref href="forensic-readiness-guide.dita" type="topic" audience="audience-tech"/>
 				<topicref href="forensic-readiness-policy.dita" type="topic" audience="audience-tech"/>
