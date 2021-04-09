@@ -37,10 +37,10 @@
         <li>Ensuring that audits and compliance checks of IT systems do not adversely affect business operations.</li>
         <li>Documenting and reporting anomalies in log settings,
           configurations,
-          and processes to the OST (contact details <xref href="#incidents" format="dita">below</xref>)
-          and the Cyber Assistance Team (contact details <xref href="#contact-details" format="dita">below</xref>).</li>
+          and processes to the OST (contact details <xref href="#incidents-and-contact-details" format="dita">below</xref>)
+          and the Cyber Assistance Team (contact details <xref href="#incidents-and-contact-details" format="dita">below</xref>).</li>
         <li>Managing long-term storage of system log data, monitoring log rotation, and the archival and deletion of log data.</li>
-        <li>Any suspicious activity must be <xref href="#incidents" format="dita">reported</xref>.
+        <li>Any suspicious activity must be <xref href="#incidents-and-contact-details" format="dita">reported</xref>.
           See further details in the <xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref>.</li>
       </ul></p>
     </body>
@@ -62,7 +62,6 @@
       </ul></p>
     </body>
   </topic>
-  <topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
-  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="incidents-and-contact-details" conref="conrefs.dita#incidents-and-contact-details"><title/></topic>
   <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

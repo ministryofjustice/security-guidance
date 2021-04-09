@@ -23,10 +23,12 @@
         users who have administrative access on their laptops,
         and users who setup and maintain platforms hosted in the Cloud.</p>
       <p>Specific responsibilities of individual privileged users are likely to vary depending on the systems they manage.
-        The system's Information Risk Assessment Report
-        (<xref href="https://docs.google.com/document/d/1MeJJtfHpwR1XM_okk3Pi4gW0bpcnLDdt5OXwddB7-Bk/edit?ts=5e25c004" format="html" scope="external">IRAR</xref>)
-        documents the security controls,
-        some of which the system's privileged users will run.
+        The system's Information Risk Assessment Report documents the security controls
+        (<xref href="https://docs.google.com/document/d/1vQOlnD1Xixlw20p7OuO8nleV8qt0BfvVWvXkPQurZ3A/edit?usp=sharing"
+          format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Information Assurance Framework Process</xref>).
+        The <xref href="https://docs.google.com/document/d/1MeJJtfHpwR1XM_okk3Pi4gW0bpcnLDdt5OXwddB7-Bk/edit?ts=5e25c004"
+          format="html" scope="external">IRAR</xref>
+        should be completed as part of this process.
         For a comprehensive list of individual responsibilities,
         privileged users should refer to the system specific documentation.</p>
       <p>This page is the first in a series of guides for privileged users within the <ph conref="conrefs.dita#conrefs/moj"/>;
@@ -108,29 +110,40 @@
   <topic id="resource-monitoring">
     <title>Resource monitoring</title>
     <body>
-      <p>Where privileged users are responsible for monitoring system resources to ensure that the system is operating effectively
-        and providing their intended function,
-        defined system Key Performance Indicators (KPIs) should be used to monitor systems
-        and ensure they are operating effectively.
-        Privileged users should do this by:
+      <p>Privileged users are responsible for monitoring their systems to ensure that the system is operating effectively
+        and providing the intended functionality.
+        Privileged users should:
       <ul>
-        <li>Monitoring and analysing data from each of the following categories in order to observe malicious behaviour,
+        <li>Define each system's Key Performance Indicators (KPIs),
+          which can be used to ensure the systems are operating effectively.</li>
+        <li>Monitor and analyse data from the systems in order to observe malicious behaviour,
           and to minimise,
-          or prevent,
-          system outages or slowdowns:
+          or to prevent,
+          system outages or slowdowns,
+          examples being:
           <ul>
-            <li>CPU usage.</li>
-            <li>Memory consumption.</li>
-            <li>Input/output operations.</li>
-            <li>Network usage.</li>
-            <li>Disk usage.</li>
-            <li>System down time.</li>
+            <li>For <ph conref="conrefs.dita#conrefs/moj"/> managed infrastructure:
+            <ul>
+              <li>CPU usage.</li>
+              <li>Disk usage.</li>
+              <li>Memory consumption.</li>
+              </ul></li>
+            <li>For Cloud solutions:
+              <ul>
+                <li>Access requests.</li>
+                <li>Database monitoring.</li>
+                <li>Monitoring storage resources and processes that are provisioned to virtual machines,
+                  services,
+                  databases,
+                  and applications.</li>
+                <li>Virtual network monitoring.</li>
+              </ul></li>
           </ul>
         </li>
-        <li>Identifying the root cause of excessive resource use and rectifying the issue when possible.
+        <li>Identify the root cause of excessive resource use and rectifying the issue when possible.
           If an issue cannot be rectified quickly,
           it should be reported to the system owner.</li>
-        <li>Notifying the <ph conref="conrefs.dita#conrefs/moj"/>'s Technology Service Desk if there is a suspected incident (see <xref href="#incidents" format="dita">below</xref> for contact details).</li>
+        <li>Notify the <ph conref="conrefs.dita#conrefs/moj"/>'s Technology Service Desk if there is a suspected incident (see <xref href="#incidents-and-contact-details" format="dita">below</xref> for contact details).</li>
       </ul></p>
     </body>
   </topic>
@@ -165,7 +178,6 @@
       <p>When working remotely,
         it is important that privileged users operate securely by:
       <ul>
-        <li>Not conducting administrative tasks (such as creating new user credentials) on untrusted public Wi-Fi networks.</li>
         <li>Ensuring that they are not overlooked when working on administrative tasks.</li>
         <li>Ensuring that they use the <ph conref="conrefs.dita#conrefs/moj"/>'s Virtual private Network (VPN) to connect with <ph conref="conrefs.dita#conrefs/moj"/> systems when using Privileged user login details.</li>
         <li>Using only <ph conref="conrefs.dita#conrefs/moj"/> issued equipment to connect to the <ph conref="conrefs.dita#conrefs/moj"/> estate,
@@ -176,7 +188,6 @@
         >Remote Working</xref> guidance documents contain further information about Remote Working.</p>
     </body>
   </topic>
-  <topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
-  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="incidents-and-contact-details" conref="conrefs.dita#incidents-and-contact-details"><title/></topic>
   <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

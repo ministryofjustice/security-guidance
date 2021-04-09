@@ -25,9 +25,9 @@ Privileged users are responsible for maintaining system logs \(syslogs\) for the
 -   Establishing the baseline activities for systems they are responsible for. This is essential to ensure that monitoring systems are able to detect when there is unusual activity.
 -   Ensuring that systems are synchronised to the centralised MoJ timing source, to enable effective malware detection.
 -   Ensuring that audits and compliance checks of IT systems do not adversely affect business operations.
--   Documenting and reporting anomalies in log settings, configurations, and processes to the OST \(contact details [below](#incidents)\) and the Cyber Assistance Team \(contact details [below](#contact-details)\).
+-   Documenting and reporting anomalies in log settings, configurations, and processes to the OST \(contact details [below](#incidents-and-contact-details)\) and the Cyber Assistance Team \(contact details [below](#incidents-and-contact-details)\).
 -   Managing long-term storage of system log data, monitoring log rotation, and the archival and deletion of log data.
--   Any suspicious activity must be [reported](#incidents). See further details in the [IT Incident Management Policy](it-incident-management-policy.md).
+-   Any suspicious activity must be [reported](#incidents-and-contact-details). See further details in the [IT Incident Management Policy](it-incident-management-policy.md).
 
 ## Protection of log data
 
@@ -38,16 +38,31 @@ To ensure that there is an audit trail for log data, privileged users must:
 -   Ensure that systems are designed with access controls, to prevent privileged users from erasing or deactivating activity logs of their own activities, without the additional approval of the product or service manager.
 -   Review the activity logs of other privileged users on a monthly basis, to ensure that privileged users remain impartial.
 
-## Incidents
+## Incidents and contact details
 
 **Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
 
-**Operational Security Team**
+For help with incidents, including theft and loss, contact:
+
+-   **Dom1/Quantum - Technology Service Desk**
+
+    Tel: 0800 917 5148
+
+    **Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+
+-   **Digital and Technology - Digital Service Desk**
+    -   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
+    -   Slack: `#digitalservicedesk`
+-   **HMPPS Information and security**
+    -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
+    -   Tel: 0203 334 0324
+
+For non-technology incidents, contact the MoJ Group Security Team: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk)
+
+If you are not sure who to contact, ask the Operational Security Team:
 
 -   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
 -   Slack: `#security`
-
-## Contact details
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 

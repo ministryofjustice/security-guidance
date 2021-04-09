@@ -8,12 +8,12 @@ This guide outlines the security procedures and advice for privileged users to r
 
 ## Removable media
 
-Whether moving data to the Cloud or accepting data from third parties, removable media increases the risk of malware being introduced to systems, and could result in the loss of critical or sensitive Ministry of Justice \(MoJ\) data. Privileged users play an important role in managing this risk, and must follow the points below.
+Whether moving data to the Cloud or accepting data from third parties, removable media increases the risk of malware being introduced to systems, and could result in the loss of critical or sensitive Ministry of Justice \(MoJ\) data. Privileged users play an important role in managing this risk, and must ensure that the following actions are undertaken by individuals using removable media.
 
 -   Any data transferred from removable media to the MoJ systems should be scanned for malware before being uploaded to MoJ systems. One option is to adopt a “sheep dip”. This is a segregated system with anti-virus and other security tools. It is used to conduct security scans before data is introduced to the MoJ systems. This reduces, but does not eliminate, the risk that removable media is used as a threat vector for malware.
 -   The origin of any removable media must be established to understand the risk it poses.
 -   If removable media is required for standard system operations, privileged users must ensure data is encrypted at rest, and has suitable physical security controls in place. These include locking rooms where data is stored or using safes for storing removable media.
--   Removable media must not be used for a system's operation unless it is approved by the Senior Information Risk Officer \(SIRO\). Advice should be sought from a risk advisor in the Cyber Assistance Team, contact details given [below](#contact-details).
+-   Removable media must not be used for a system's operation unless it is approved by the Senior Information Risk Officer \(SIRO\). Advice should be sought from a risk advisor in the Cyber Assistance Team, contact details given [below](#incidents-and-contact-details).
 
 ## System backups
 
@@ -32,20 +32,10 @@ Guidance for system specific privileged users:
 
 ## Incident management and response
 
-Privileged users play a front-line role in detecting and responding to incidents. To ensure that they are prepared to respond to any incidents, privileged users must follow the points below.
+Privileged users play a front-line role in detecting and responding to incidents. To ensure that they are prepared to respond to any incidents, privileged users should:
 
--   If privileged users identify a suspected or known security breach through their regular system monitoring, they must report it immediately to the System Manager, the Risk Advisor \(part of the [Cyber Assistance Team](#contact-details)\) and the MoJ's [Technology Service Desk](#general-enquiries-including-theft-and-loss) for any incidents involving technology. Incidents will then be escalated to the Operational Security Team \(OST\) \([OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)\). For non-technology incidents, where security issues not related to IT have been identified, contact the MoJ Group Security Team \([mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk)\). Security breaches can include personnel, hardware, software, communications, data and information or physical security breaches. See the [Incident Management Policy and Guide](incident-management-plan-and-process-guide.md) for further details.
--   Privileged users must know and be able to implement the incident management plans and processes required for their systems. For instance, within HMPPS, privileged users should know that the HMPPS Incident Management function operates within the HMPPS Infosec and Service Team, and when they are to be contacted.
--   Any system-specific incident management controls must align with the [MoJ's IT Disaster Recovery Policy](it-disaster-recovery-policy.md) and the [Incident Management Policy and Guide](incident-management-plan-and-process-guide.md).
-
-## Incidents
-
-**Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
-
-**Operational Security Team**
-
--   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
--   Slack: `#security`
+-   Know and be able to implement the incident management plans and processes required for their systems. For instance, within HMPPS, privileged users should know that the HMPPS Incident Management function operates within the HMPPS Infosec and Service Team, and when they are to be contacted.
+-   Ensure that any system-specific incident management controls align with the [MoJ's IT Disaster Recovery Policy](it-disaster-recovery-policy.md) and the [Incident Management Policy and Guide](incident-management-plan-and-process-guide.md).
 
 ## General enquiries, including theft and loss
 
@@ -65,7 +55,31 @@ Privileged users play a front-line role in detecting and responding to incidents
 -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
 -   Tel: 0203 334 0324
 
-## Contact details
+## Incidents and contact details
+
+**Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
+
+For help with incidents, including theft and loss, contact:
+
+-   **Dom1/Quantum - Technology Service Desk**
+
+    Tel: 0800 917 5148
+
+    **Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+
+-   **Digital and Technology - Digital Service Desk**
+    -   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
+    -   Slack: `#digitalservicedesk`
+-   **HMPPS Information and security**
+    -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
+    -   Tel: 0203 334 0324
+
+For non-technology incidents, contact the MoJ Group Security Team: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk)
+
+If you are not sure who to contact, ask the Operational Security Team:
+
+-   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
+-   Slack: `#security`
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 

@@ -18,7 +18,7 @@
         removable media increases the risk of malware being introduced to systems,
         and could result in the loss of critical or sensitive <ph conref="conrefs.dita#conrefs/mojlong"/> data.
         Privileged users play an important role in managing this risk,
-        and must follow the points below.
+        and must ensure that the following actions are undertaken by individuals using removable media.
       <ul>
         <li>Any data transferred from removable media to the <ph conref="conrefs.dita#conrefs/moj"/> systems should be scanned for malware
           before being uploaded to <ph conref="conrefs.dita#conrefs/moj"/> systems.
@@ -36,7 +36,7 @@
         <li>Removable media must not be used for a system's operation
           unless it is approved by the Senior Information Risk Officer (SIRO).
           Advice should be sought from a risk advisor in the Cyber Assistance Team,
-          contact details given <xref href="#contact-details" format="dita">below</xref>.</li>
+          contact details given <xref href="#incidents-and-contact-details" format="dita">below</xref>.</li>
       </ul></p>
     </body>
   </topic>
@@ -80,34 +80,20 @@
     <body>
       <p>Privileged users play a front-line role in detecting and responding to incidents.
         To ensure that they are prepared to respond to any incidents,
-        privileged users must follow the points below.
+        privileged users should:
       <ul>
-        <li>If privileged users identify a suspected or known security breach through their regular system monitoring,
-          they must report it immediately to the System Manager,
-          the Risk Advisor (part of the <xref href="#contact-details" format="dita">Cyber Assistance Team</xref>)
-          and the <ph conref="conrefs.dita#conrefs/moj"/>'s
-          <xref href="#general-enquiries-including-theft-and-loss" format="dita">Technology Service Desk</xref> for any incidents involving technology.
-          Incidents will then be escalated to the Operational Security Team (OST) (<ph conref="conrefs.dita#conrefs/ostemail"/>).
-          For non-technology incidents,
-          where security issues not related to IT have been identified,
-          contact the <ph conref="conrefs.dita#conrefs/moj"/> Group Security Team (<ph conref="conrefs.dita#conrefs/groupsecurityemail"/>).
-          Security breaches can include personnel,
-          hardware,
-          software,
-          communications,
-          data and information or physical security breaches.
-          See the <xref href="incident-management-plan-and-process-guide.dita" format="dita">Incident Management Policy and Guide</xref> for further details.</li>
-        <li>Privileged users must know and be able to implement the incident management plans and processes required for their systems.
+        <li>Know and be able to implement the incident management plans and processes required for their systems.
           For instance,
           within HMPPS,
           privileged users should know that the HMPPS Incident Management function operates within the HMPPS Infosec and Service Team,
           and when they are to be contacted.</li>
-        <li>Any system-specific incident management controls must align with the <xref href="it-disaster-recovery-policy.dita" format="dita"><ph conref="conrefs.dita#conrefs/moj"/>'s IT Disaster Recovery Policy</xref> and the <xref href="incident-management-plan-and-process-guide.dita" format="dita">Incident Management Policy and Guide</xref>.</li>
+        <li>Ensure that any system-specific incident management controls align with the
+          <xref href="it-disaster-recovery-policy.dita" format="dita"><ph conref="conrefs.dita#conrefs/moj"/>'s IT Disaster Recovery Policy</xref>
+          and the <xref href="incident-management-plan-and-process-guide.dita" format="dita">Incident Management Policy and Guide</xref>.</li>
       </ul></p>
     </body>
   </topic>
-  <topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
   <topic id="general-enquiries-including-theft-and-loss" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title/></topic>
-  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="incidents-and-contact-details" conref="conrefs.dita#incidents-and-contact-details"><title/></topic>
   <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
