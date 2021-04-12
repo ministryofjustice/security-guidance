@@ -481,7 +481,7 @@
             </tbody>
           </tgroup>
         </table>
-        <note><ph conref="#continuallyevaluate"/></note>
+        <note><ph conref="#handling-and-securing-official-and-official-sensitive-information/continuallyevaluate"/></note>
       </body>
     </topic>
     <topic id="handling-and-securing-top-secret-information">
@@ -559,7 +559,7 @@
             </tbody>
           </tgroup>
         </table>
-        <note><ph conref="#continuallyevaluate"/></note>
+        <note><ph conref="#handling-and-securing-official-and-official-sensitive-information/continuallyevaluate"/></note>
         <note>For further information on statutory disclosures and transfer to national archives,
           please refer to the <ph conref="conrefs.dita#conrefs/hmggovernmentsecurityclassifications"/>.</note>
       </body>
