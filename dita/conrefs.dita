@@ -36,6 +36,7 @@
 			<ph id="policymust"><b>MUST</b></ph>
 			<ph id="policymustnot"><b>MUST NOT</b></ph>
 			<ph id="policyshall"><b>SHALL</b></ph>
+			<ph id="policyshould"><b>SHOULD</b></ph>
 			<ph id="policywill"><b>WILL</b></ph>
 			<ph id="privacyemail"><xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">privacy@justice.gov.uk</xref></ph>
 			<ph id="recordsretentionemail"><xref href="mailto:Records_Retention_@justice.gov.uk" format="email" scope="external">Records_Retention_@justice.gov.uk</xref></ph>

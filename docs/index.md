@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 9 April 2021.
+**Note:** This guidance is dated: 12 April 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|On request.|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|On request.|
 
-The offline versions of this guidance are time-limited, and are not valid after 9 May 2021.
+The offline versions of this guidance are time-limited, and are not valid after 12 May 2021.
 
 ### Searching this content
 
@@ -217,7 +217,8 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Secure areas
 
-|[Physical Security Policy](physical-security-policy.md)|All users|
+|[Personal Mail and Parcel Delivery Policy](personal-mail-and-parcel-delivery-policy.md)|All users \(Policy\)|
+|[Physical Security Policy](physical-security-policy.md)|All users \(Policy\)|
 
 #### Equipment
 
