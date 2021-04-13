@@ -2,9 +2,9 @@
 
 This document is an offline version of the security policy and guidance decisions that the [Ministry of Justice \(MoJ\)](https://www.gov.uk/government/organisations/ministry-of-justice) has made for the products we operate, and our relationships with suppliers.
 
-This guidance is dated: 3 March 2021.
+This guidance is dated: 9 April 2021.
 
-It is time-limited, and is not valid after 3 April 2021.
+It is time-limited, and is not valid after 9 May 2021.
 
 ## Feedback
 

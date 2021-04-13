@@ -8,6 +8,7 @@
         -   [Bluetooth](bluetooth.md)
         -   [Email](email.md)
         -   [Information Classification, Handling and Security Guide](information-classification-handling-and-security-guide.md)
+        -   [Guidance on IT Accounts and Assets for Long Term Leave](long-term-leave.md)
         -   [OFFICIAL, OFFICIAL-SENSITIVE](official-official-sensitive.md)
         -   [Security Guidance for Using a Personal Device](personal-devices.md)
         -   [Protecting Social Media Accounts](protecting-social-media-accounts.md)
@@ -22,7 +23,7 @@
         -   [Policies for MacBook Users](policies-for-macbook-users.md)
 -   Incident management
     -   [Reporting an incident](reporting-an-incident.md)
-    -   [Lost Laptop or other IT security incident](lost-laptophardware.md)
+    -   [Lost devices or other IT security incidents](lost-devices-incidents.md)
 -   Remote working
     -   [Remote Working](remote-working.md)
     -   Overseas travel

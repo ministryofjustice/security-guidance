@@ -33,6 +33,10 @@
 			<ph id="ncsclong">National Cyber Security Centre (NCSC)</ph>
 			<ph id="ncsc">NCSC</ph>
 			<ph id="ostemail"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
+			<ph id="policymust"><b>MUST</b></ph>
+			<ph id="policymustnot"><b>MUST NOT</b></ph>
+			<ph id="policyshall"><b>SHALL</b></ph>
+			<ph id="policywill"><b>WILL</b></ph>
 			<ph id="privacyemail"><xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">privacy@justice.gov.uk</xref></ph>
 			<ph id="recordsretentionemail"><xref href="mailto:Records_Retention_@justice.gov.uk" format="email" scope="external">Records_Retention_@justice.gov.uk</xref></ph>
 			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></ph>
@@ -50,7 +54,8 @@
 	<topic id="legacyreferences">
 		<title>Legacy information</title>
 			<body>
-				<note>This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon.
+				<note>This document is Legacy IA Policy material.
+					It is under review and likely to be withdrawn or substantially revised soon.
 					Before using this content for a project, contact <ph conref="#conrefs/catemail"/>.</note>
 				<note>This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
 					<ul>
@@ -73,6 +78,8 @@
 							refer to the <ph conref="#conrefs/ncsc"/>,
 							contact <ph conref="#conrefs/securityemail"/>.</li>
 						<li>IS1 (HMG Infosec Standard 1 Technical Risk Assessment),
+							see the <ph conref="#conrefs/gov007"/>.</li>
+						<li>IS2 (HMG Infosec Standard 2 Information Risk Management),
 							see the <ph conref="#conrefs/gov007"/>.</li>
 						<li>IS4 (HMG Infosec Standard 4 Communications Security and Cryptography),
 							see the <ph conref="#conrefs/gov007"/>.</li>

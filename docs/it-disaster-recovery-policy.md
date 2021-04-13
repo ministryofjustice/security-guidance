@@ -2,7 +2,7 @@
 
 ## Legacy information
 
-**Note:** This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+**Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 **Note:** This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
 
@@ -14,6 +14,7 @@
 -   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS2 \(HMG Infosec Standard 2 Information Risk Management\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   ITSO \(Information Technology Security Officer\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
@@ -32,9 +33,9 @@ An IT 'disaster' event is defined \(for the purposes of this policy\) as any inc
 
 Each IT system or IT domain **must have** \(or be explicitly covered by\) an IT Disaster Recovery Plan which implements this policy.
 
-A template Disaster Recovery Plan is [available](it-disaster-recovery-plan-and-process-guide.md#) with further guidance provided in [IT Security - IT Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md).
+A template Disaster Recovery Plan is available in the [IT Security - IT Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md).
 
-**Note** – In general, where an IT system \(or IT domain\) has an IT Security Incident Management Plan, there should be a corresponding IT Disaster Recovery Plan.
+**Note:** In general, where an IT system \(or IT domain\) has an IT Security Incident Management Plan, there should be a corresponding IT Disaster Recovery Plan.
 
 ## Roles and responsibilities
 
@@ -180,6 +181,10 @@ After each disaster incident, the following **must be** reviewed and any recomme
 
 
 **Note** – The [IT Security – IT Incident Management Policy](it-incident-management-policy.md) contains the provision for an incident report to be compiled. Any recovery and review work should be done in conjunction with the production of the overall incident report.
+
+## Contact details
+
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

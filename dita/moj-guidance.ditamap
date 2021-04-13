@@ -76,6 +76,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="acceptable-use.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="acceptable-use-policy.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="it-acceptable-use-policy.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="long-term-leave.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="protect-yourself-online.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 		<topichead audience="audience-basic audience-tech">
@@ -237,6 +238,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="bluetooth.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="cjsm.dita" type="topic" audience="audience-tech"/>
 			<topicref href="data-sovereignty.dita" type="topic" audience="audience-tech"/>
+			<topicref href="email.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="web-browsing.dita" type="topic" audience="audience-basic audience-tech">
 				<topicref href="web-browsing-security-policy-profiles.dita" type="topic" audience="audience-basic audience-tech"/>
@@ -257,6 +259,8 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Security in development and support processes</navtitle></topicmeta>
 			<topicref href="maintained-by-default.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="secure-by-default.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="source-code-publishing.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="system-test-standard.dita" type="topic" audience="audience-suppliers audience-tech"/>
 		</topichead>
 		<topichead audience="audience-suppliers audience-tech">
 			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Test data</navtitle></topicmeta>
@@ -282,12 +286,17 @@ if an audience attribute is present, then only matching content is included.
 	<topichead audience="audience-basic audience-tech">
 		<topicmeta audience="audience-basic audience-tech"><navtitle>Information security incident management</navtitle></topicmeta>
 		<topichead audience="audience-basic audience-tech">
-			<topicmeta audience="audience-basic audience-tech"><navtitle>Management of information security incidents and improvements</navtitle></topicmeta>
-			<topicref href="forensic-readiness-policy.dita" type="topic" audience="audience-tech"/>
+			<topicmeta audience="audience-basic audience-tech"><navtitle>Management of information security incidents and lost devices</navtitle></topicmeta>
+			<topicref href="forensic-principles.dita" type="topic" audience="audience-tech">
+				<topicref href="forensic-readiness-guide.dita" type="topic" audience="audience-tech"/>
+				<topicref href="forensic-readiness-policy.dita" type="topic" audience="audience-tech"/>
+			</topicref>
 			<topicref href="incident-management-plan-and-process-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="it-incident-management-policy.dita" type="topic" audience="audience-tech"/>
-			<topicref href="lost-laptophardware.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="lost-devices-incidents.dita" type="topic" audience="audience-basic audience-tech"/>
+			<!--
 			<topicref href="moj-forensic-readiness-policy.dita" type="topic" audience="audience-tech"/>
+			-->
 		</topichead>
 	</topichead>
 
@@ -354,7 +363,7 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="laptops.dita"/>
 			</relcell>
 			<relcell>
-				<topicref href="lost-laptophardware.dita"/>
+				<topicref href="lost-devices-incidents.dita"/>
 			</relcell>
 		</relrow>
 		<relrow>
