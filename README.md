@@ -37,9 +37,10 @@ Information about contributing is provided [here](#making-changes).
 To preview the site locally, we need to use the terminal.
 
 Install Ruby and [Bundler][bundler], preferably with a [Ruby version
-manager][rvm].
+manager][rbenv].
+Ruby version 2.7.3 is known to work well for local builds.
 
-[rvm]: https://www.ruby-lang.org/en/documentation/installation/#managers
+[rbenv]: https://github.com/rbenv/rbenv#readme
 [bundler]: http://bundler.io/
 
 Once you have Ruby and Bundler set up, you can install this project's
