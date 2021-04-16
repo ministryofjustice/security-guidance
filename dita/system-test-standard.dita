@@ -251,8 +251,9 @@
         <body>
           <p>Besides simply testing for the absence of correctly patched software,
             some vulnerability scanners can also test when an IT system's settings correspond to an established benchmark,
-            for example, to the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="passwords.dita" format="dita">password requirements</xref>,
-            or a commercial security standard such as <xref href="https://www.pcisecuritystandards.org/" format="html" scope="external">PCI DSS</xref>.
+            for example<ph audience="audience-tech">,
+              to the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="passwords.dita" format="dita">password requirements</xref>,
+            or</ph> a commercial security standard such as <xref href="https://www.pcisecuritystandards.org/" format="html" scope="external">PCI DSS</xref>.
             The scanner operates by examining the security configuration settings of each IT system client (through a client installed agent)
             against one or more benchmarks (e.g. PCI DSS or ISO 27001),
             producing a compliance report as an output which can be supplied as assurance evidence.</p>

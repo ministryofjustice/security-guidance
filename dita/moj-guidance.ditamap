@@ -101,6 +101,7 @@ if an audience attribute is present, then only matching content is included.
 		<topichead audience="audience-suppliers audience-tech">
 			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Business requirements of access control</navtitle></topicmeta>
 			<topicref href="access-control-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="access-control-policy.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="enterprise-access-control-policy.dita" type="topic" audience="audience-suppliers audience-tech"/>
 		</topichead>
 		<topichead audience="audience-basic audience-suppliers audience-tech">

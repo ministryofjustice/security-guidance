@@ -173,6 +173,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 #### Business requirements of access control
 
 |[Access Control Guide](access-control-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Access Control Policy](access-control-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Enterprise Access Control Policy](enterprise-access-control-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 #### User access management
