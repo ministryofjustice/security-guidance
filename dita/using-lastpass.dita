@@ -13,8 +13,8 @@
     <topic id="who-should-use-it">
       <title>Who should use it?</title>
       <body>
-        <p><ph conref="conrefs.dita#conrefs/moj"/> LastPass accounts can be requested by anyone in <ph conref="conrefs.dita#conrefs/moj"/> Digital &amp; Technology.</p>
-        <p>At the moment, rollout is limited to technical service/operation teams but we're working on license funding to make it available to everyone in D&amp;T.</p>
+        <p><ph conref="conrefs.dita#conrefs/moj"/> LastPass accounts can be requested by anyone in <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology.</p>
+        <p>At the moment, rollout is limited to technical service/operation teams but we're working on license funding to make it available to everyone.</p>
       </body>
     </topic>
   </topic>
@@ -64,7 +64,7 @@
           <p>You need to create a primary password - this is the only password you'll need to remember.</p>
           <p>It must be at least 12 characters long (the longer the better).</p>
           <p>You can choose to make it pronounceable and memorable (passphrase) such as <codeph>CyberSecurityRules!</codeph> or <codeph>Sup3rD00p3rc0Mp3X!</codeph>, as long as you're comfortable remembering it and won't need to write it down.</p>
-          <p>There are <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/" format="html" scope="external">password guidance standards</xref> on the <ph conref="conrefs.dita#conrefs/moj"/> intranet.</p>
+          <p>There are <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/passwords/" format="html" scope="external">password guidance standards</xref> on the <ph conref="conrefs.dita#conrefs/moj"/> intranet.</p>
           <p>Your primary password <b>must</b> be unique and you should <b>never</b> use it anywhere else (including a similar version, for example, by simply adding numbers to the end)</p>
         </body>
       </topic>

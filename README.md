@@ -101,4 +101,4 @@ Whenever an Intranet publication is required, the following process is used:
 4. Submit the zip file to the Comms team for publication.
 
 To get a list of the annotated tags, use the command:
-`git show`
+`git tag`

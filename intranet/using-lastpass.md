@@ -14,9 +14,9 @@ The Ministry of Justice \(MoJ\) has the Enterprise tier of LastPass.
 
 ### Who should use it?
 
-MoJ LastPass accounts can be requested by anyone in MoJ Digital & Technology.
+MoJ LastPass accounts can be requested by anyone in MoJ Digital and Technology.
 
-At the moment, rollout is limited to technical service/operation teams but we're working on license funding to make it available to everyone in D&T.
+At the moment, rollout is limited to technical service/operation teams but we're working on license funding to make it available to everyone.
 
 ## How to get it
 
@@ -60,7 +60,7 @@ It must be at least 12 characters long \(the longer the better\).
 
 You can choose to make it pronounceable and memorable \(passphrase\) such as `CyberSecurityRules!` or `Sup3rD00p3rc0Mp3X!`, as long as you're comfortable remembering it and won't need to write it down.
 
-There are [password guidance standards](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/) on the MoJ intranet.
+There are [password guidance standards](https://intranet.justice.gov.uk/guidance/security/it-computer-security/passwords/) on the MoJ intranet.
 
 Your primary password **must** be unique and you should **never** use it anywhere else \(including a similar version, for example, by simply adding numbers to the end\)
 
