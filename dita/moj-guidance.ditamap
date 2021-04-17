@@ -117,15 +117,15 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta audience="audience-basic audience-tech"><navtitle>User responsibilities</navtitle></topicmeta>
 			<topicref href="protecting-social-media-accounts.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
-		<topichead audience="audience-basic audience-tech">
-			<topicmeta audience="audience-basic audience-tech"><navtitle>System and application access control</navtitle></topicmeta>
+		<topichead audience="audience-basic audience-suppliers audience-tech">
+			<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>System and application access control</navtitle></topicmeta>
 			<topicref href="account-management.dita" type="topic" audience="audience-tech"/>
 			<topicref href="authorisation.dita" type="topic" audience="audience-tech"/>
 			<topicref href="multi-user-accounts-and-public-facing-service-accounts-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="password-creation-and-authentication-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="password-management-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="password-managers.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="passwords.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="passwords.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="password-storage-and-management-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="policies-for-google-apps-administrators.dita" type="topic" audience="audience-tech"/>
 			<topicref href="policies-for-macbook-administrators.dita" type="topic" audience="audience-tech"/>
