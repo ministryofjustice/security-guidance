@@ -61,9 +61,13 @@ A good password manager will have:
 
 In the [NCSC article](https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers), they are very careful not to identify or recommend a password manager. This ... caution ... is the reason why we don't say much about password managers within the MoJ guidance.
 
-There are several password managers used within the MoJ. [LastPass](https://www.lastpass.com/) and [1Password](https://1password.com/) are probably the most popular for personal or team passwords. Example password vaults would be Hashicorp Vault, Kubernetes Secrets or AWS Key Management.
+There are several password managers used within the MoJ.
 
-For individual use, have a look at LastPass and 1Password. See which one you like best, and try it out. When you decide on a password manager, request approval from your line manager to install and use it: "I'm planning to install and use XYZ to manage my passwords, is that OK?".
+For services, or automated build tools, or as a default, the recommendation is to use a password vault such as Amazon Web Services \(AWS\) identity management tools, including AWS Key Management or AWS Systems Manager \(previously known as SSM\). Alternative password vaults include Hashicorp Vault and Kubernetes Secrets.
+
+For personal or team passwords, [LastPass](https://www.lastpass.com/) and [1Password](https://1password.com/) are probably the most popular.
+
+See which one you like best, and try it out. When you decide on a password manager, request approval from your line manager to install and use it: "I'm planning to install and use XYZ to manage my passwords, is that OK?".
 
 See also [Using LastPass Enterprise](using-lastpass.md).
 
