@@ -129,9 +129,9 @@ User access management ensures authorised user access, and prevents unauthorised
 
 -   `POLACP025:` Multi-User \(MU\) or shared ID accounts **MUST** only be used directly if there is no alternative. See [Multi-user Accounts and Public-Facing Service Accounts](multi-user-accounts-and-public-facing-service-accounts-guide.md).
 -   `POLACP026:` The identity of the new user **MUST** be confirmed. For all MoJ staff members, this is established as part of pre-employment screening and vetting using the Baseline Personnel Security Standard \(BPSS\), which is the joint responsibility of HR \(performed on their behalf by Shared Services Connected Ltd\), and a line manager. See [Security Vetting](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/) and the [BPSS](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/714002/HMG_Baseline_Personnel_Security_Standard_-_May_2018.pdf) information.
--   `POLACP027:` The hiring line manager **MUST** submit a [ServiceNow Order](https://mojprod.service-now.com/moj_sp?id=moj_sc_landing) IT role-based access request on behalf of the new user. For example, a list of Role-based access control \(RBAC\) groups or applications.
+-   `POLACP027:` The hiring line manager **MUST** submit a ServiceNow [Order IT](https://mojprod.service-now.com/moj_sp?id=moj_sc_landing) role-based access request on behalf of the new user. For example, a list of Role-based access control \(RBAC\) groups or applications.
 -   `POLACP028:` The hiring manager's line manager \(or the budget holder\) **MUST** authorise the application for user registration within ServiceNow [My Approvals](https://mojprod.service-now.com/moj_sp?id=moj_my_approvals). This confirms the user's identity, and hence access rights, are correct.
--   `POLACP029:` Confirmation of the Clearance Level **MUST** be initiated by a line manager, and carried out by [United Kingdom Security Vetting](https://en.wikipedia.org/w/index.php?title=United_Kingdom_Security_Vetting&action=edit&redlink=1) \(UKSV\) to recruit new staff \(civil servants, armed forces and temporary staff\), or staff changing their MoJ roles. See [Clearance Levels](https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels).
+-   `POLACP029:` Confirmation of the Clearance Level **MUST** be initiated by a line manager, and carried out by [United Kingdom Security Vetting](https://www.gov.uk/government/organisations/united-kingdom-security-vetting/about) \(UKSV\) to recruit new staff \(civil servants, armed forces and temporary staff\), or staff changing their MoJ roles. See [Clearance Levels](https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels).
 
 **Note:** For Contractors or Agency staff, HR/SSCL do not seek assurance that the BPSS check has been completed; instead, the responsibility is with the line manager, via the receipt of the Baseline Personnel Security Verification Record Form, as described [here](https://intranet.justice.gov.uk/guidance/security/personnel-security-prior-to-employment/).
 
@@ -199,7 +199,7 @@ For further information on user de-registration, see the [MoJ Enterprise Access 
 
 ## User Responsibilities
 
-Users are required to follow the MoJ's practices in the use of secret authentication. This is described in the following subsections.
+Users are required to follow the MoJ's practices in the use of secret authentication. This is described in the following subsection.
 
 ### Use of secret authentication information
 

@@ -276,8 +276,8 @@
             See <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/" format="html" scope="external">Security
               Vetting</xref> and the
               <xref href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/714002/HMG_Baseline_Personnel_Security_Standard_-_May_2018.pdf" format="pdf" scope="external">BPSS</xref> information.</li>
-          <li><codeph>POLACP027:</codeph> The hiring line manager <ph conref="conrefs.dita#conrefs/policymust"/> submit a
-            <xref href="https://mojprod.service-now.com/moj_sp?id=moj_sc_landing" format="html" scope="external">ServiceNow Order</xref> IT
+          <li><codeph>POLACP027:</codeph> The hiring line manager <ph conref="conrefs.dita#conrefs/policymust"/> submit a ServiceNow
+            <xref href="https://mojprod.service-now.com/moj_sp?id=moj_sc_landing" format="html" scope="external">Order IT</xref>
             role-based access request on behalf of the new user.
             For example,
             a list of Role-based access control (RBAC) groups or applications.</li>
@@ -288,8 +288,8 @@
             and hence access rights,
             are correct.</li>
           <li><codeph>POLACP029:</codeph> Confirmation of the Clearance Level <ph conref="conrefs.dita#conrefs/policymust"/> be initiated by a line manager,
-            and carried out by <xref href="https://en.wikipedia.org/w/index.php?title=United_Kingdom_Security_Vetting&amp;action=edit&amp;redlink=1"
-            format="php" scope="external">United Kingdom Security Vetting</xref> (UKSV) to recruit new staff (civil servants,
+            and carried out by <xref href="https://www.gov.uk/government/organisations/united-kingdom-security-vetting/about"
+            format="html" scope="external">United Kingdom Security Vetting</xref> (UKSV) to recruit new staff (civil servants,
             armed forces and temporary staff),
             or staff changing their <ph conref="conrefs.dita#conrefs/moj"/> roles.
             See <xref href="https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels"
@@ -452,7 +452,7 @@
     <title>User Responsibilities</title>
     <body>
       <p>Users are required to follow the <ph conref="conrefs.dita#conrefs/moj"/>'s practices in the use of secret authentication.
-        This is described in the following subsections.</p>
+        This is described in the following subsection.</p>
     </body>
     <topic id="use-of-secret-authentication-information">
       <title>Use of secret authentication information</title>
