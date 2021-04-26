@@ -209,13 +209,13 @@
           <li>Most non-production data.</li>
         </ul></p>
         <p><codeph>OFFICIAL</codeph> means that the <ph conref="conrefs.dita#conrefs/moj"/>'s typical security measures are regarded as sufficient.</p>
-        <p><codeph>OFFICIAL-SENSITIVE</codeph> <q>whilst not a formal classification</q>,
-          should be used sparingly,
-          so that its effectiveness is not weakened.
-          This is especially important when you consider that <codeph>OFFICIAL</codeph> is already well-protected.</p>
         <p>Use <codeph>OFFICIAL-SENSITIVE</codeph> when you want to remind users to be careful when handling information.
           This asks them to use extra care,
           beyond what is expected for the baseline <codeph>OFFICIAL</codeph> classification.</p>
+        <p><codeph>OFFICIAL-SENSITIVE</codeph> is not a formal classification.
+          The <codeph>SENSITIVE</codeph> label should be used sparingly,
+          so that its effectiveness is not weakened.
+          This is especially important when you consider that <codeph>OFFICIAL</codeph> is already well-protected.</p>
       </body>
     </topic>
     <topic id="secret">
@@ -229,7 +229,8 @@
         <p>To help decide whether some information should be classified as <codeph>SECRET</codeph>,
           ask yourself a simple question:
           <lq>If a hacker gained unauthorised access to the information,
-            could it compromise the security or prosperity of the country?</lq></p>
+            could it compromise the security or prosperity of the country,
+            or could it lead to a threat to life?</lq></p>
         <p>The answer is most likely <q>No</q>.
           In that case,
           you should consider using the <codeph>OFFICIAL</codeph> classification.</p>
@@ -320,7 +321,8 @@
         <li>Physical security.</li>
         <li>Technical (information security).</li>
       </ul></p>
-      <p>The following sections set out the minimum measures you need to consider when handling and securing information within the different levels of classification.</p>
+      <p>The following sections set out the minimum measures you need to consider
+        when handling and securing information within the different levels of classification.</p>
     </body>
     <topic id="handling-and-securing-official-and-official-sensitive-information">
       <title>Handling and securing <codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph> information</title>
@@ -551,7 +553,7 @@
               <row>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"><codeph>TOP SECRET</codeph> information should be processed on IT systems
-                  which have been approved <foreign></foreign>the <codeph>TOP SECRET</codeph> threat model.
+                  which have been approved for the <codeph>TOP SECRET</codeph> threat model.
                   Advice on what commercial IT systems meet this requirement is available from the <ph conref="conrefs.dita#conrefs/moj"/> Security Team:
                   <ph conref="conrefs.dita#conrefs/securityemail"/>.</entry>
                 <entry colname="col3"> </entry>
