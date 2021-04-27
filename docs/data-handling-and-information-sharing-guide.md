@@ -77,7 +77,7 @@ As these networks can support data up to and including `OFFICIAL-SENSITIVE`, a b
 -   Frequency.
 -   Any “need-to-know” considerations. See the [Access Control Guide](access-control-guide.md) for further information.
 
-Any additional controls must be captured on the DMF \(see [Data Movement Form](#data-movement-form-dmf) where advice should be obtained from the MoJ Chief Information Security Office \(CISO\) when required.
+Any additional controls must be captured on the DMF \(see [Data Movement Form](#data-movement-form-dmf) where advice should be obtained from the MoJ Chief Information Security Officer \(CISO\) when required.
 
 ##### USB mass storage device
 

@@ -9,6 +9,8 @@ All Ministry of Justice \(MoJ\) employees interact with information, and are res
 
 However, not all information warrants the strictest levels of protection. This is why information classification is so important to the MoJ – to ensure that the department can focus its security efforts on its most sensitive information. Information security must be proportionate to the security classification of the information, and must be considered throughout the information lifecycle to maintain its confidentiality, integrity, and availability.
 
+This guide provides more information to explain and illustrate the [Information Classification and Handling Policy](information-classification-and-handling-policy.md). Where appropriate, statements from the Policy are referenced in this guide using an identifier of the form: `POLICHxxx`, where xxx is a unique ID number.
+
 ## Classifying information
 
 The three information security classifications the MoJ uses are `OFFICIAL`, `SECRET`, and `TOP SECRET`. This follows the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications).
@@ -71,9 +73,9 @@ Examples include:
 
 `OFFICIAL` means that the MoJ's typical security measures are regarded as sufficient.
 
-`OFFICIAL-SENSITIVE` “whilst not a formal classification”, should be used sparingly, so that its effectiveness is not weakened. This is especially important when you consider that `OFFICIAL` is already well-protected.
-
 Use `OFFICIAL-SENSITIVE` when you want to remind users to be careful when handling information. This asks them to use extra care, beyond what is expected for the baseline `OFFICIAL` classification.
+
+`OFFICIAL-SENSITIVE` is not a formal classification. The `SENSITIVE` label should be used sparingly, so that its effectiveness is not weakened. This is especially important when you consider that `OFFICIAL` is already well-protected.
 
 ## `SECRET`
 
@@ -83,7 +85,7 @@ The threshold for classifying information as `SECRET` information is very high. 
 
 To help decide whether some information should be classified as `SECRET`, ask yourself a simple question:
 
-> If a hacker gained unauthorised access to the information, could it compromise the security or prosperity of the country?
+> If a hacker gained unauthorised access to the information, could it compromise the security or prosperity of the country, or could it lead to a threat to life?
 
 The answer is most likely “No”. In that case, you should consider using the `OFFICIAL` classification.
 
@@ -101,9 +103,9 @@ The answer is most likely “No”. In that case, you should consider using the 
 
 ## Reclassifying information
 
-The asset owner has responsibility for reclassifying an asset. If another user has reason to believe that an asset is incorrectly classified or has an incorrect handling caveat, they should normally discuss this with the asset owner. The other user cannot unilaterally reclassify the asset.
+`POLICH006`: The asset owner has responsibility for reclassifying an asset. If another user has reason to believe that an asset is incorrectly classified or has an incorrect handling caveat, they should normally discuss this with the asset owner. The other user cannot unilaterally reclassify the asset.
 
-The exception is where the asset might need a higher classification than that assigned by the asset owner. The reclassification must still be communicated to the asset owner, for consistency. If it is agreed that the classification should be increased, check with the Operational Security Team \([OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)\) whether additional actions are required to protect the material.
+The exception is where the asset might need a higher classification than that assigned by the asset owner. The reclassification **MUST** still be communicated to the asset owner, for consistency. If it is agreed that the classification should be increased, check with the Operational Security Team \([OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)\) whether additional actions are required to protect the material.
 
 ## Reclassification examples
 
@@ -178,7 +180,7 @@ The following sections set out the minimum measures you need to consider when ha
 ||Transferring `TOP SECRET` information from one location to another requires even greater planning and preparation than for `SECRET` information, including the completion of a Risk Assessment by senior management and the use of DV-cleared personnel. More information on this is available in the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) and from your manager.||
 |**`TECHNICAL`**|When physical security measures cannot be used, `TOP SECRET` information at rest should be protected with extremely strong encryption. Contact the MoJ Security Team in these circumstances: [security@justice.gov.uk](mailto:security@justice.gov.uk).||
 ||Care should be taken to ensure that `TOP SECRET` information in transit is only shared with defined recipient users through accredited shared infrastructure or using extremely strong encryption.||
-||`TOP SECRET` information should be processed on IT systems which have been approved the `TOP SECRET` threat model. Advice on what commercial IT systems meet this requirement is available from the MoJ Security Team: [security@justice.gov.uk](mailto:security@justice.gov.uk).||
+||`TOP SECRET` information should be processed on IT systems which have been approved for the `TOP SECRET` threat model. Advice on what commercial IT systems meet this requirement is available from the MoJ Security Team: [security@justice.gov.uk](mailto:security@justice.gov.uk).||
 
 **Note:** Different information security measures might be applicable throughout the information lifecycle. It is important continually to evaluate security classifications and their corresponding measures. Refer to the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) for further guidance.
 

@@ -2,7 +2,6 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="information-classification-handling-and-security-guide">
   <title>Information Classification, Handling and Security Guide</title>
-  <body/>
   <topic id="introduction">
     <title>Introduction</title>
     <body>
@@ -19,6 +18,12 @@
          and must be considered throughout the information lifecycle to maintain its confidentiality,
          integrity,
          and availability.</p>
+      <p>This guide provides more information to explain and illustrate the
+        <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>.
+        Where appropriate,
+        statements from the Policy are referenced in this guide using an identifier of the form:
+      <codeph>POLICHxxx</codeph>,
+      where xxx is a unique ID number.</p>
     </body>
   </topic>
   <topic id="classifying-information">
