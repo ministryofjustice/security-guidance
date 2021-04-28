@@ -1,6 +1,6 @@
 # Online identifiers in security logging and monitoring
 
-**Parent topic:**[Logging and monitoring](logging-and-monitoring.md)
+**Parent topic:** [Logging and monitoring](logging-and-monitoring.md)
 
 ## Overview
 

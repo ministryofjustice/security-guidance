@@ -1,5 +1,7 @@
 # Privileged Account Management Guide
 
+**Parent topic:** [Access Control guide](access-control-guide.md)
+
 ## Introduction
 
 This guide explains how to manage privileged accounts in order to minimise the security risks associated with their use. This is a sub-page to the [Access Control Guide](access-control-guide.md).
@@ -25,7 +27,31 @@ Privileged accounts should be protected with the following controls.
 |✖ Leave default or factory set passwords for any accounts but particularly for privileged system accounts, social media accounts and infrastructure.|
 |✖ Allow a user to have a privileged account, unless they are a service provider and require a privileged account for that specific service.|
 
-## Contact details
+## Incidents and contact details
+
+**Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
+
+For help with incidents, including theft and loss, contact:
+
+-   **Dom1/Quantum - Technology Service Desk**
+
+    Tel: 0800 917 5148
+
+    **Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+
+-   **Digital and Technology - Digital Service Desk**
+    -   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
+    -   Slack: `#digitalservicedesk`
+-   **HMPPS Information and security**
+    -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
+    -   Tel: 0203 334 0324
+
+For non-technology incidents, contact the MoJ Group Security Team: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk)
+
+If you are not sure who to contact, ask the Operational Security Team:
+
+-   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
+-   Slack: `#security`
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 

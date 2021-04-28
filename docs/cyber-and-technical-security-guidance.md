@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 21 April 2021.
+**Note:** This guidance is dated: 28 April 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 21 May 2021.
+The offline versions of this guidance are time-limited, and are not valid after 28 May 2021.
 
 ### Searching this content
 
@@ -175,6 +175,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |[Access Control Guide](access-control-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Access Control Policy](access-control-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Enterprise Access Control Policy](enterprise-access-control-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Privileged Account Management Guide](privileged-account-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 #### User access management
 
@@ -183,7 +184,10 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |[Managing User Access Guide](managing-user-access-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)|All users|
 |[Multi-Factor Authentication](multi-factor-authentication-mfa-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Privileged Account Management Guide](privileged-account-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Privileged User Backups, Removable Media and Incident Management Guide](privileged-user-backups-removable-media-and-incident-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Privileged User Configuration, Patching and Change Management Guide](privileged-user-configuration-patching-and-change-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Privileged User Guide](privileged-user-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Privileged User Logging and Protective Monitoring Guide](privileged-user-logging-and-protective-monitoring-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 #### User responsibilities
 

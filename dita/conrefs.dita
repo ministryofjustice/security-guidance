@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="conrefs">
 	<title>conref library</title>
@@ -54,7 +53,7 @@
 	<topic id="legacyreferences">
 		<title>Legacy information</title>
 			<body>
-				<note>This document is Legacy IA Policy material.
+				<note>This document is Legacy IA Policy material.<ph conref="#conrefs/securityemail"/>
 					It is under review and likely to be withdrawn or substantially revised soon.
 					Before using this content for a project, contact <ph conref="#conrefs/catemail"/>.</note>
 				<note>This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
@@ -188,6 +187,53 @@
 	<topic id="contact-details">
 		<title>Contact details</title>
 		<body>
+			<p>For any further questions relating to security, contact: <ph conref="#conrefs/securityemail"/>,
+			or for security advice, contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
+		</body>
+	</topic>
+
+	<topic id="incidents-and-contact-details">
+		<title>Incidents and contact details</title>
+		<body>
+			<note>If you work for an agency or ALB, refer to your local incident reporting guidance.</note>
+			<p>For help with incidents,
+				including theft and loss,
+				contact:
+				<dl>
+					<dlentry>
+						<dt>Dom1/Quantum - Technology Service Desk</dt>
+						<dd>Tel: 0800 917 5148
+							<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph> email address is no longer being monitored.</note></dd>
+					</dlentry>
+					<dlentry>
+						<dt>Digital and Technology - Digital Service Desk</dt>
+						<dd>
+							<ul>
+								<li>Email: <xref href="mailto:servicedesk@digital.justice.gov.uk" format="email" scope="external">servicedesk@digital.justice.gov.uk</xref></li>
+								<li>Slack: <codeph>#digitalservicedesk</codeph></li>
+							</ul>
+						</dd>
+					</dlentry>
+					<dlentry>
+						<dt>HMPPS Information and security</dt>
+						<dd>
+							<ul>
+								<li>Email: <xref href="mailto:informationmgmtsecurity@justice.gov.uk" format="email" scope="external">informationmgmtsecurity@justice.gov.uk</xref></li>
+								<li>Tel: 0203 334 0324</li>
+							</ul>
+						</dd>
+					</dlentry>
+				</dl>
+			</p>
+			<p>For non-technology incidents,
+				contact the <ph conref="#conrefs/moj"/> Group Security Team: <ph conref="#conrefs/groupsecurityemail"/></p>
+			<p>If you are not sure who to contact,
+				ask the Operational Security Team:
+				<ul>
+					<li>Email: <ph conref="#conrefs/ostemail"/></li>
+					<li>Slack: <codeph>#security</codeph></li>
+				</ul>
+			</p>
 			<p>For any further questions relating to security, contact: <ph conref="#conrefs/securityemail"/>,
 			or for security advice, contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
 		</body>
