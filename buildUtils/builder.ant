@@ -60,6 +60,9 @@
 			<property name="output.dir" location="${intranet}"/>
 			<property name="transtype" value="markdown_github"/>
 		</ant>
+		<replaceregexp match="\*\*Parent topic\:\*\*(\S)" replace="**Parent topic:** \1" flags="g" >
+			<fileset dir="${intranet}" includes="**/*.md"/>
+		</replaceregexp>
 	</target>
 
 	<target name="compile_md" depends="init"
@@ -70,6 +73,9 @@
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="markdown_github"/>
 		</ant>
+		<replaceregexp match="\*\*Parent topic\:\*\*(\S)" replace="**Parent topic:** \1" flags="g" >
+			<fileset dir="${build}" includes="**/*.md"/>
+		</replaceregexp>
 	</target>
 
 	<!--
@@ -117,7 +123,7 @@
 		<!-- Rename this file to be Tech users guide. -->
 		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-tech.pdf" overwrite="true"/>
 
-		<!-- Next build the Suppliers PDF, containing just their content. -->
+		<!-- Next build the Suppliers PDF, containing just their content.
 		<echo message="Build PDF: Suppliers"/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
@@ -125,8 +131,9 @@
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
-		<!-- Rename this file to be Suppliers users guide. -->
+		# Rename this file to be Suppliers users guide.
 		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-suppliers.pdf" overwrite="true"/>
+	-->
 
 		<!-- Now build the Intranet PDF, containing just its content. -->
 		<echo message="Build PDF: Intranet"/>

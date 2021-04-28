@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="privileged-user-backups-removable-media-and-incident-management-guide">
+  <title>Privileged User Backups, Removable Media and Incident Management Guide</title>
+  <body/>
+  <topic id="introduction">
+    <title>Introduction</title>
+    <body>
+      <p>This guide outlines the security procedures and advice for privileged users to reduce the impact of security incidents,
+        and improve the response to them.
+        This guide is a sub-page to the <xref href="privileged-user-guide.dita" format="dita">Privileged User Guide</xref>.</p>
+    </body>
+  </topic>
+  <topic id="removable-media">
+    <title>Removable media</title>
+    <body>
+      <p>Whether moving data to the Cloud or accepting data from third parties,
+        removable media increases the risk of malware being introduced to systems,
+        and could result in the loss of critical or sensitive <ph conref="conrefs.dita#conrefs/mojlong"/> data.
+        Privileged users play an important role in managing this risk,
+        and must ensure that the following actions are undertaken by individuals using removable media.
+      <ul>
+        <li>Any data transferred from removable media to the <ph conref="conrefs.dita#conrefs/moj"/> systems should be scanned for malware
+          before being uploaded to <ph conref="conrefs.dita#conrefs/moj"/> systems.
+          One option is to adopt a <q>sheep dip</q>.
+          This is a segregated system with anti-virus and other security tools.
+          It is used to conduct security scans before data is introduced to the <ph conref="conrefs.dita#conrefs/moj"/> systems.
+          This reduces,
+          but does not eliminate,
+          the risk that removable media is used as a threat vector for malware.</li>
+        <li>The origin of any removable media must be established to understand the risk it poses.</li>
+        <li>If removable media is required for standard system operations,
+          privileged users must ensure data is encrypted at rest,
+          and has suitable physical security controls in place.
+          These include locking rooms where data is stored or using safes for storing removable media.<!--See the <xref href="information-and-data-security-policy.dita" format="dita">Information and Data Security Policy</xref> for further information.--></li>
+        <li>Removable media must not be used for a system's operation
+          unless it is approved by the Senior Information Risk Officer (SIRO).
+          Advice should be sought from a risk advisor in the Cyber Assistance Team,
+          contact details given <xref href="#incidents-and-contact-details" format="dita">below</xref>.</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="system-backups">
+    <title>System backups</title>
+    <body>
+      <p>Privileged users need to ensure that there are backups of system data in order to minimise the impact of incidents,
+        such as malware infection or data loss.
+        Privileged users must:
+      <ul>
+        <li>Follow the IT system's data backup schedule to meet the required Recovery Point Objective.</li>
+        <li>Assign all backup media,
+          whether physical or in the Cloud,
+          a Protective Marking,
+          and provide appropriate protection based on that marking.
+          Backup material must only be accessible to those who have a <q>need-to-know</q>,
+          defined by the System Owner.</li>
+        <li>Ensure backups are kept off-site in a secure location.
+          In a Cloud environment,
+          this would equate to a resilient data store,
+          such as AWS Backup or Azure Backup services.</li>
+        <li>Where required,
+          encryption types employed to prevent disclosure are outlined in the Information Risk Assessment Report (IRAR).
+          Details of applicable encryption standards required are outlined in
+          the <xref href="technical-security-controls-guide.dita" format="dita">Technical Controls Guide</xref>.</li>
+      </ul></p>
+      <p>Guidance for system specific privileged users:
+      <ul>
+        <li>Where responsible for DOM1 systems,
+          ensure backups are made to offsite locations such as to Dell EMC SANs in
+          the <ph conref="conrefs.dita#conrefs/moj"/> off-site Ark and Ark-F data centres.</li>
+        <li>Where responsible for Quantum systems,
+          ensure backups are made to the redundant data centre.</li>
+        <li>Where responsible for end user data,
+          ensure data is not stored on or backed up to users' end devices but rather stored on OneDrive or Google Drive.</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="incident-management-and-response">
+    <title>Incident management and response</title>
+    <body>
+      <p>Privileged users play a front-line role in detecting and responding to incidents.
+        To ensure that they are prepared to respond to any incidents,
+        privileged users should:
+      <ul>
+        <li>Know and be able to implement the incident management plans and processes required for their systems.
+          For instance,
+          within HMPPS,
+          privileged users should know that the HMPPS Incident Management function operates within the HMPPS Infosec and Service Team,
+          and when they are to be contacted.</li>
+        <li>Ensure that any system-specific incident management controls align with the
+          <xref href="it-disaster-recovery-policy.dita" format="dita"><ph conref="conrefs.dita#conrefs/moj"/>'s IT Disaster Recovery Policy</xref>
+          and the <xref href="incident-management-plan-and-process-guide.dita" format="dita">Incident Management Policy and Guide</xref>.</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="general-enquiries-including-theft-and-loss" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title/></topic>
+  <topic id="incidents-and-contact-details" conref="conrefs.dita#incidents-and-contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

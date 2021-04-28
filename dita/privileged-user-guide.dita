@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="privileged-user-guide">
+  <title>Privileged User Guide</title>
+  <body/>
+  <topic id="introduction">
+    <title>Introduction</title>
+    <body>
+      <p>This guide outlines the security procedures and advice that privileged users should follow
+        when accessing the <ph conref="conrefs.dita#conrefs/mojlong"/> IT systems in a safe and secure manner.
+        Privileged users are those who have elevated levels of system access
+        in order to manage IT system components to meet <ph conref="conrefs.dita#conrefs/moj"/> IT service requirements.
+        Privileged users might,
+        for example,
+        install software,
+        configure and upgrade IT systems,
+        input into the Service Management Tool for the systems they manage,
+        and run day-to-day operations to satisfy continuity of service,
+        recovery,
+        security,
+        and performance needs.
+        This includes privileged users who manage Slack or Github repositories,
+        users who have administrative access on their laptops,
+        and users who setup and maintain platforms hosted in the Cloud.</p>
+      <p>Specific responsibilities of individual privileged users are likely to vary depending on the systems they manage.
+        The system's Information Risk Assessment Report documents the security controls
+        (<xref href="https://docs.google.com/document/d/1vQOlnD1Xixlw20p7OuO8nleV8qt0BfvVWvXkPQurZ3A/edit?usp=sharing"
+          format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Information Assurance Framework Process</xref>).
+        The <xref href="https://docs.google.com/document/d/1MeJJtfHpwR1XM_okk3Pi4gW0bpcnLDdt5OXwddB7-Bk/edit?ts=5e25c004"
+          format="html" scope="external">IRAR</xref>
+        should be completed as part of this process.
+        For a comprehensive list of individual responsibilities,
+        privileged users should refer to the system specific documentation.</p>
+      <p>This page is the first in a series of guides for privileged users within the <ph conref="conrefs.dita#conrefs/moj"/>;
+        see related guides below.</p>
+    </body>
+  </topic>
+  <topic id="who-is-this-for">
+    <title>Who is this for?</title>
+    <body>
+      <p>This guide is aimed at two audiences, both technical.
+      <ul>
+        <li>The in-house <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology staff
+          who are responsible for implementing controls throughout technical design,
+          development,
+          system integration and operation.
+          This includes DevOps,
+          Software Developers,
+          Technical Architects and Service Owners.
+          It also includes Incident Managers from the Event,
+          Problem,
+          Incident,
+          CSI and Knowledge (EPICK) Team.</li>
+        <li>Any other <ph conref="conrefs.dita#conrefs/moj"/> business groups,
+          Agencies,
+          contractors,
+          IT suppliers and partners who in any way design,
+          develop or supply services (including processing,
+          transmitting and storing data) for,
+          or on behalf of,
+          the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="related-guides">
+    <title>Related guides</title>
+    <body>
+      <p>For further details about privileged user responsibilities, see the guides below.</p>
+      <ul>
+        <li>The <xref href="privileged-account-management-guide.dita" format="dita">Privileged Account Management Guide</xref>
+          provides the guidelines to ensure that privileged accounts are securely managed.
+          It is part of the <xref href="access-control-guide.dita" format="dita">Access Control Guide</xref>.</li>
+        <li>The <xref href="privileged-user-logging-and-protective-monitoring-guide.dita" format="dita">Logging and Protective Monitoring Guide</xref>
+          provides information about security procedures privileged users should implement to conduct logging activities.</li>
+        <li>The <xref href="privileged-user-backups-removable-media-and-incident-management-guide.dita" format="dita">Backups, Removable Media and Incident Management Guide</xref>
+          provides information that privileged users should follow to reduce the impact of a security incident,
+          and understand how they should respond.</li>
+        <li>The <xref href="privileged-user-configuration-patching-and-change-management-guide.dita" format="dita">Configuration, Patching and Change Management Guide</xref>
+          provides privileged users with guidance to ensure that systems are configured securely,
+          that change is managed correctly,
+          and that systems are patched regularly.</li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="management-of-privileged-user-accounts">
+    <title>Management of privileged user accounts</title>
+    <body>
+      <p>Privileged user accounts have a high degree of risk associated with them due to the control that they give the privileged user,
+        hence they must be treated with great care.
+        To reduce the risk of a data breach on the <ph conref="conrefs.dita#conrefs/moj"/> systems,
+        access rights must be managed in the following ways.
+      <ul>
+        <li>Privileged user accounts should only be created for users with a genuine business need,
+          and only for the duration that the business need exists.</li>
+        <li>Privileged access must be limited and granted in line with the principle of least privilege necessary to fulfil the required function.</li>
+        <li>The privileged accounts should be strictly controlled,
+          and their number kept to the absolute minimum per system or app.</li>
+        <li>Privileged user passwords must be created in line with the <ph conref="conrefs.dita#conrefs/moj"/>'s <xref href="password-creation-and-authentication-guide.dita" format="dita">Password Guide</xref>.</li>
+        <li>The password for a privileged user account must not be re-used for another privileged user account or a normal user account.</li>
+        <li>Privileged user passwords must be deleted along with the account when a privileged user leaves the <ph conref="conrefs.dita#conrefs/moj"/> or changes role.</li>
+        <li>Multi Factor Authentication (MFA) must be used for privileged user accounts where possible.
+          See the <xref href="password-creation-and-authentication-guide.dita" format="dita">Password Guide</xref> for further details.</li>
+        <li>Privileged user accounts must only be used when carrying out administrative tasks such as creating new user accounts or implementing software updates. At all other times a normal user account must be used, e.g. for tasks such as searching the internet and reading emails.</li>
+        <li>Privileged user accounts on depreciated systems must be reviewed quarterly by system owners for breach as aging systems frequently cannot be, or are not, patched leaving them vulnerable to take over.</li>
+        <li>Privileged users must not abuse the privileges they are given, such as circumventing controls put in place to protect the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+      </ul></p>
+      <p>For further information on managing privileged user accounts see the <xref href="privileged-user-configuration-patching-and-change-management-guide.dita" format="dita">Privileged User Configuration, Patching and Change Management Guide</xref>.</p>
+    </body>
+  </topic>
+  <topic id="resource-monitoring">
+    <title>Resource monitoring</title>
+    <body>
+      <p>Privileged users are responsible for monitoring their systems to ensure that the system is operating effectively
+        and providing the intended functionality.
+        Privileged users should:
+      <ul>
+        <li>Define each system's Key Performance Indicators (KPIs),
+          which can be used to ensure the systems are operating effectively.</li>
+        <li>Monitor and analyse data from the systems in order to observe malicious behaviour,
+          and to minimise,
+          or to prevent,
+          system outages or slowdowns,
+          examples being:
+          <ul>
+            <li>For <ph conref="conrefs.dita#conrefs/moj"/> managed infrastructure:
+            <ul>
+              <li>CPU usage.</li>
+              <li>Disk usage.</li>
+              <li>Memory consumption.</li>
+              </ul></li>
+            <li>For Cloud solutions:
+              <ul>
+                <li>Access requests.</li>
+                <li>Database monitoring.</li>
+                <li>Monitoring storage resources and processes that are provisioned to virtual machines,
+                  services,
+                  databases,
+                  and applications.</li>
+                <li>Virtual network monitoring.</li>
+              </ul></li>
+          </ul>
+        </li>
+        <li>Identify the root cause of excessive resource use and rectifying the issue when possible.
+          If an issue cannot be rectified quickly,
+          it should be reported to the system owner.</li>
+        <li>Notify the <ph conref="conrefs.dita#conrefs/moj"/>'s Technology Service Desk if there is a suspected incident (see <xref href="#incidents-and-contact-details" format="dita">below</xref> for contact details).</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="identification-and-authentication">
+    <title>Identification and authentication</title>
+    <body>
+      <p>Privileged users are responsible for managing user access to systems
+        to enable effective access control to the <ph conref="conrefs.dita#conrefs/moj"/>'s data and information.
+        To support effective access controls,
+        privileged users must:
+      <ul>
+        <li>Only create user accounts once authorisation has been received from that user's line manager.</li>
+        <li>Only grant permissions that are in line with the user's business role within the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+        <li>Review user account usage every 90 days.
+          If an account is dormant,
+          the privileged user must investigate its status and suspend the account if appropriate.
+          See the <xref href="access-control-guide.dita" format="dita">Access Control Guide</xref> for details.</li>
+        <li>Disable all user and privileged user accounts when staff members leave the <ph conref="conrefs.dita#conrefs/moj"/>,
+          or where the account is not required due to a change of role.
+          Privileged users will be automatically notified by HR when access changes or revocations are required.</li>
+        <li>Retain a record of all authorised users,
+          approvals,
+          and changes of access rights and privileges for any network,
+          system or application,
+          for which privileged users are responsible.</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="mobile-and-home-working">
+    <title>Mobile and home working</title>
+    <body>
+      <p>When working remotely,
+        it is important that privileged users operate securely by:
+      <ul>
+        <li>Ensuring that they are not overlooked when working on administrative tasks.</li>
+        <li>Ensuring that they use the <ph conref="conrefs.dita#conrefs/moj"/>'s Virtual private Network (VPN) to connect with <ph conref="conrefs.dita#conrefs/moj"/> systems when using Privileged user login details.</li>
+        <li>Using only <ph conref="conrefs.dita#conrefs/moj"/> issued equipment to connect to the <ph conref="conrefs.dita#conrefs/moj"/> estate,
+          and to carry out <ph conref="conrefs.dita#conrefs/moj"/> business.</li>
+      </ul></p>
+      <p>Access to the VPN requires 2 Factor Authentication (2FA).
+        The <xref href="it-security-policy-overview.dita" format="dita">IT Security Policy</xref> and <xref href="remote-working.dita" format="dita"
+        >Remote Working</xref> guidance documents contain further information about Remote Working.</p>
+    </body>
+  </topic>
+  <topic id="incidents-and-contact-details" conref="conrefs.dita#incidents-and-contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

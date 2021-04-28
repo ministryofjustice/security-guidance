@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="privileged-user-configuration-patching-and-change-management-guide">
+  <title>Privileged User Configuration, Patching and Change Management Guide</title>
+  <body/>
+  <topic id="introduction">
+    <title>Introduction</title>
+    <body>
+      <p>This guide outlines the security procedures and controls privileged users should look to implement
+        in order to ensure that systems are configured securely,
+        change is managed correctly.
+        and systems are regularly patched.
+        The goal is to provide guidance for both physical environments,
+        such as Dom1 and Quantum,
+        as well as the Cloud estates in AWS,
+        Azure and Google Cloud.
+        This guide is a sub-page to the <xref href="privileged-user-guide.dita" format="dita">Privileged User Guide</xref>.</p>
+    </body>
+  </topic>
+  <topic id="secure-configuration-and-change-management">
+    <title>Secure configuration and change management</title>
+    <body>
+      <p>Privileged users must ensure that secure configuration and change management processes are followed
+        so that any changes to system operating procedures are understood
+        and support the <ph conref="conrefs.dita#conrefs/mojlong"/>'s risk management and mitigation activities.
+        Privileged users must implement the following controls.
+      <ul>
+        <li>Approve and test all changes to IT Systems,
+          in a non-live environment,
+          before they are implemented on the live system.</li>
+        <li>For digital products developed by the <ph conref="conrefs.dita#conrefs/moj"/>'s in-house teams,
+          development and hence testing should be conducted iteratively,
+          and changes captured.</li>
+        <li>Maintain an audit log of configuration changes,
+          and ensure that changes do not affect the secure operation of the IT system.</li>
+        <li>If you are working on an in-house developed product or service,
+          configuration changes along with the approval workflow must be recorded in a Service Management Tool,
+          which for many teams is Jira or Trello.</li>
+        <li>If you are working on a system provided by a Managed Service Provider (MSP),
+          changes must be input into the Configuration Management Database (CMDB).
+          In some cases,
+          these CMDBs will be held by the MSP,
+          but with access rights to the <ph conref="conrefs.dita#conrefs/moj"/>,
+          or they can be provided through ServiceNow.</li>
+        <li>If you are working on a system provided by an MSP,
+          do not implement changes that deviate from the standard build unless the corresponding Operational Change Request (OCR)
+          has been approved by each approver in the Change Management workflow.
+          Once all approvals are complete,
+          the change can be implemented.
+          Further information can be found in the <xref href="vulnerability-scanning-and-patch-management-guide.dita" format="dita">Vulnerability Scanning and Patch Management Guide</xref>.</li>
+        <li>Report any changes that affect the security posture or risk profile of a system
+          to the <xref href="#incidents-and-contact-details" format="dita">Cyber Assistance Team</xref>,
+          and specifically to the business area Risk Advisor before they are implemented.</li>
+        <li>Ensure that operating systems are fully supported by the relevant platform vendor or an <ph conref="conrefs.dita#conrefs/moj"/> service team.
+          If the system is not supported,
+          consult with the system owner and the <xref href="#incidents-and-contact-details" format="dita">Cyber Assistance Team</xref> for advice.
+          A lack of ongoing support might create security risks within the system and the wider <ph conref="conrefs.dita#conrefs/moj"/> networks.</li>
+        <li>Privileged users must have the correct management authorisation to make changes to operational software,
+          applications,
+          and program libraries.</li>
+        <li>Documentary evidence must be maintained to catalogue all changes (including configuration changes) to IT systems,
+          and the IT security implications of those changes.
+          This includes the case where no significant IT security impacts are identified.</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="incidents-and-contact-details" conref="conrefs.dita#incidents-and-contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
