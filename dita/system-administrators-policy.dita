@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="system-administrators-policy">
+  <title>System administrators policy</title>
+  <body>
+    <p>This document is intended to help System Administrators use and access
+      <ph conref="conrefs.dita#conrefs/mojlong"/> systems in a safe and secure manner.</p>
+    <p>To help identify formal policy statements,
+      each is prefixed with an identifier of the form:
+      <codeph>POLSYADxxx</codeph>,
+      where xxx is a unique ID number.</p>
+  </body>
+  <topic id="overview">
+    <title>Overview</title>
+    <body>
+    <p>This policy applies to all system administrators working with <ph conref="conrefs.dita#conrefs/moj"/> systems.</p>
+    <p>All <ph conref="conrefs.dita#conrefs/moj"/> system administrators <ph conref="conrefs.dita#conrefs/policymust"/> follow this policy.</p>
+    <p>System administrators <ph conref="conrefs.dita#conrefs/policymust"/> also be compliant with the System Operating Procedures (SyOps)
+      that apply for a given system they administer.</p>
+    <p>System Administrators <ph conref="conrefs.dita#conrefs/policymust"/> read this document prior to using
+      an <ph conref="conrefs.dita#conrefs/moj"/> system for the first time.</p>
+    <p>System Administrators <ph conref="conrefs.dita#conrefs/policyshould"/> revisit this document every six (6) months or so,
+      to remind themselves of the content.
+      Audits will check that the policy is being followed.</p>
+    <p>System Administrators are responsible for maintaining the security of <ph conref="conrefs.dita#conrefs/moj"/> systems.
+      Failure to comply with this policy or the system SyOPs could lead to compromise of the <ph conref="conrefs.dita#conrefs/moj"/>'s infrastructure,
+      or the services it uses or connects to.
+      Failure to comply with this policy or corresponding SyOPs would be considered a breach of the <xref href="it-security-policy-overview.dita" format="dita">IT Security Policy</xref>.</p>
+      <p>For any security related information or help,
+        <xref href="#contact-details" format="dita">get in contact</xref>.</p>
+    </body>
+  </topic>
+  <topic id="physical-security-and-environmental-controls">
+    <title>Physical security and environmental controls</title>
+    <body>
+      <ul>
+        <li>Routine physical checks of server room <ph conref="conrefs.dita#conrefs/policymust"/> be performed to identify unknown equipment and evidence of tampering.</li>
+        <li>A hardware asset register <ph conref="conrefs.dita#conrefs/policymust"/> be kept and maintained by the system administrator to assist in equipment monitoring.</li>
+        <li>Any evidence of tampering <ph conref="conrefs.dita#conrefs/policymust"/> be immediately reported to the <ph conref="conrefs.dita#conrefs/moj"/> Operational Security Team (OST): <ph conref="conrefs.dita#conrefs/ostemail"/>.</li>
+        <li>System administrator <ph conref="conrefs.dita#conrefs/policymust"/> ensure an appropriate environment to protect system hardware,
+          for example through air conditioning or dust prevention sheets.</li>
+        <li>Access to a server room <ph conref="conrefs.dita#conrefs/policymust"/> be logged and monitored.</li>
+        <li>If an electronic monitoring system is not in place (such as key card entry),
+          then a manual log of sever room activity <ph conref="conrefs.dita#conrefs/policymust"/> be taken.</li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="identification-and-authentication">
+    <title>Identification and authentication</title>
+    <body>
+      <ul>
+        <li>Accounts <ph conref="conrefs.dita#conrefs/policymust"/> only be created when correct authorisation has been received.</li>
+        <li>Permissions granted to accounts <ph conref="conrefs.dita#conrefs/policymust"/> be commensurate to the account's business role.</li>
+        <li>Accounts <ph conref="conrefs.dita#conrefs/policyshould"/> be enabled only when there is confirmation that a user understands and will comply with the system SyOps.</li>
+        <li>Account usage <ph conref="conrefs.dita#conrefs/policyshould"/> be reviewed on regular intervals.</li>
+        <li>If an account is dormant, the System Administrator <ph conref="conrefs.dita#conrefs/policymust"/> investigate its status,
+          and disable the account if appropriate.</li>
+        <li>When staff members leave the organisation or where the account is not required, the corresponding accounts <ph conref="conrefs.dita#conrefs/policymust"/> be disabled.</li>
+        <li>Administrator level accounts <ph conref="conrefs.dita#conrefs/policymust"/> only be used when carrying out administrative tasks.</li>
+        <li>For all non-administrative tasks, a normal (non-privileged) User account <ph conref="conrefs.dita#conrefs/policymust"/> be used.</li></ul>
+    </body>
+  </topic>
+  <topic id="change-management">
+    <title>Change management</title>
+    <body>
+      <ul>
+        <li>All changes to an <ph conref="conrefs.dita#conrefs/policymoj"/> System <ph conref="conrefs.dita#conrefs/policymust"/> be approved and tested prior to implementation on the live system (e.g. in a Non-Live Environment).</li>
+        <li>System Administrators <ph conref="conrefs.dita#conrefs/policymust"/> maintain an audit log of configuration changes and ensure that changes do not affect the secure operation of the IT system.</li>
+        <li>Changes <ph conref="conrefs.dita#conrefs/policymustnot"/> be implemented unless the corresponding Operational Change Request (OCR) has been approved by <xref href="#contact-details" format="dita">IT Security</xref>.</li>
+        <li>Any change which affect the security posture or risk profile of the system
+          <ph conref="conrefs.dita#conrefs/policymust"/> be <xref href="#contact-details" format="dita">reported</xref>.</li></ul>
+    </body>
+  </topic>
+  <topic id="patch-management">
+    <title>Patch management</title>
+    <body>
+      <ul>
+        <li>All system software <ph conref="conrefs.dita#conrefs/policymust"/> be kept patched and up-to-date in accordance with the <ph conref="conrefs.dita#conrefs/policymoj"/> <xref href="patch-management-guide.dita" format="dita">Patch Management Guide</xref>.</li>
+        <li>If one exists, a security patch <ph conref="conrefs.dita#conrefs/policymust"/> first be tested in the non-live test environment.</li>
+        <li>The system administrator <ph conref="conrefs.dita#conrefs/policymust"/>:
+          <ul>
+            <li>Verifying the origin and authenticity of the patch.</li>
+            <li>Checking the patch and its source media for viruses or malware.</li>
+            <li>Confirming the base environment required to apply the patch.</li>
+            <li>Finding out if there are common problems with applying the new patch of software.</li>
+          </ul></li>
+          <li>Un-patched system software <ph conref="conrefs.dita#conrefs/policymust"/> be identified and reported to the <ph conref="conrefs.dita#conrefs/moj"/> OST: <ph conref="conrefs.dita#conrefs/ostemail"/>.</li>
+          <li>Problems discovered in patch testing <ph conref="conrefs.dita#conrefs/policyshould"/> be documented and reported to the <ph conref="conrefs.dita#conrefs/policymoj"/> <ph conref="conrefs.dita#conrefs/cisolong"/> and system owner.</li></ul>
+    </body>
+  </topic>
+  <!--
+<table border='1'>
+<tr valign='top'>
+<th>Area of control</th>
+<th>System Administrators only</th>
+</tr>
+<tr valign='top'>
+<td></td>
+<td></td>
+</tr>
+<tr valign='top'>
+<td>Audit &amp; protective monitoring</td>
+<td><ul><li>Audit logs collected as part of the IT System's protective monitoring solution must be monitored by the System Administrator. General audit checking must occur at regular intervals (set by the system owner) and all suspicious activity must be monitored and investigated thoroughly.</li>
+<li>System Administrators must ensure that audit and compliance checks do not adversely affect the business operation of the IT System.</li>
+<li>It is the System Administrator's responsibility to protect audit logs in accordance with its Protective Marking.</li></ul></td>
+</tr>
+<tr valign='top'>
+<td>Passwords</td>
+<td><ul><li>Administrator passwords must be created in line with the [ORGANISATION] Password Standard.</li>
+<li>The password for an Administrator account must not be re-used with another Administrator or Normal User account.</li></ul></td>
+</tr>
+<tr valign='top'>
+<td>Back-up</td>
+<td><ul><li>System Administrators must follow the IT System's back up schedule and procedures.</li>
+<li>All back up media must be assigned a Protective Marking and afforded appropriate protection based on that marking. Back-up material must only be accessible to those who have a need-to-know. Encryption may be required at the direction of the system Accreditor.</li></ul></td>
+</tr>
+<tr valign='top'>
+<td>Incident Management &amp; response</td>
+<td><ul><li>Any incident involving a suspected or known security breach involving personnel, hardware, software, communications, document or physical security must be reported immediately to the System Administrator's System Manager, and the [ORGANISATION] Operational Security Team (OST).</li>
+<li>Any loss of IT equipment, [ORGANISATION] or personal data should be reported to the System Administrator's line manager, the [ORGANISATION] OST and to the Data Access &amp; Compliance Unit (DACU): email:<br/><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c9fac47a5249213cb3497406c76c892f.gif"><p>or ring the Head of the Information Access Division<br/><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/8c987cd67cf8a46d889a6b6f79cdbf3c.gif"><p>To ensure a quick response all emails should be marked Urgent and have 'Data Incident' in the title/subject heading.</li></ul></td>
+</tr>
+</table>
+
+  -->
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
