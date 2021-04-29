@@ -88,40 +88,58 @@
           <li>Problems discovered in patch testing <ph conref="conrefs.dita#conrefs/policyshould"/> be documented and reported to the <ph conref="conrefs.dita#conrefs/policymoj"/> <ph conref="conrefs.dita#conrefs/cisolong"/> and system owner.</li></ul>
     </body>
   </topic>
-  <!--
-<table border='1'>
-<tr valign='top'>
-<th>Area of control</th>
-<th>System Administrators only</th>
-</tr>
-<tr valign='top'>
-<td></td>
-<td></td>
-</tr>
-<tr valign='top'>
-<td>Audit &amp; protective monitoring</td>
-<td><ul><li>Audit logs collected as part of the IT System's protective monitoring solution must be monitored by the System Administrator. General audit checking must occur at regular intervals (set by the system owner) and all suspicious activity must be monitored and investigated thoroughly.</li>
-<li>System Administrators must ensure that audit and compliance checks do not adversely affect the business operation of the IT System.</li>
-<li>It is the System Administrator's responsibility to protect audit logs in accordance with its Protective Marking.</li></ul></td>
-</tr>
-<tr valign='top'>
-<td>Passwords</td>
-<td><ul><li>Administrator passwords must be created in line with the [ORGANISATION] Password Standard.</li>
-<li>The password for an Administrator account must not be re-used with another Administrator or Normal User account.</li></ul></td>
-</tr>
-<tr valign='top'>
-<td>Back-up</td>
-<td><ul><li>System Administrators must follow the IT System's back up schedule and procedures.</li>
-<li>All back up media must be assigned a Protective Marking and afforded appropriate protection based on that marking. Back-up material must only be accessible to those who have a need-to-know. Encryption may be required at the direction of the system Accreditor.</li></ul></td>
-</tr>
-<tr valign='top'>
-<td>Incident Management &amp; response</td>
-<td><ul><li>Any incident involving a suspected or known security breach involving personnel, hardware, software, communications, document or physical security must be reported immediately to the System Administrator's System Manager, and the [ORGANISATION] Operational Security Team (OST).</li>
-<li>Any loss of IT equipment, [ORGANISATION] or personal data should be reported to the System Administrator's line manager, the [ORGANISATION] OST and to the Data Access &amp; Compliance Unit (DACU): email:<br/><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c9fac47a5249213cb3497406c76c892f.gif"><p>or ring the Head of the Information Access Division<br/><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/8c987cd67cf8a46d889a6b6f79cdbf3c.gif"><p>To ensure a quick response all emails should be marked Urgent and have 'Data Incident' in the title/subject heading.</li></ul></td>
-</tr>
-</table>
-
-  -->
+  <topic id="audit-and-protective-monitoring">
+    <title>Audit and protective monitoring</title>
+    <body>
+      <ul>
+          <li>Audit logs collected as part of the IT System's protective monitoring solution <ph conref="conrefs.dita#conrefs/policymust"/> be monitored by the System Administrator.</li>
+          <li>General audit checking <ph conref="conrefs.dita#conrefs/policymust"/> occur at regular intervals (set by the system owner).</li>
+          <li>All suspicious activity <ph conref="conrefs.dita#conrefs/policymust"/> be monitored and investigated thoroughly.</li>
+          <li>System Administrators <ph conref="conrefs.dita#conrefs/policymust"/> ensure that audit and compliance checks do not adversely affect the business operation of the IT System.</li>
+          <li>It is the System Administrator's <ph conref="conrefs.dita#conrefs/policymust"/> protect audit logs in accordance with the Protective Marking of the system.</li></ul>
+    </body>
+  </topic>
+  <topic id="passwords">
+    <title>Passwords</title>
+    <body>
+      <ul>
+        <li>Administrator passwords <ph conref="conrefs.dita#conrefs/policymust"/> be created in line with the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="password-management-guide.dita" format="dita">Password Management Guide</xref>.</li>
+        <li>The password for an Administrator account <ph conref="conrefs.dita#conrefs/policymustnot"/> be re-used with another Administrator or Normal User account.</li></ul>
+    </body>
+  </topic>
+  <topic id="backups">
+    <title>Backups</title>
+    <body>
+      <ul>
+        <li>System Administrators <ph conref="conrefs.dita#conrefs/policymust"/> follow the IT System's back up schedule and procedures.</li>
+        <li>All back up media <ph conref="conrefs.dita#conrefs/policymust"/> be assigned a Protective Marking and afforded appropriate protection based on that marking.</li>
+        <li>Back-up material <ph conref="conrefs.dita#conrefs/policymust"/> only be accessible to those who have a need-to-know.
+          Encryption might be required to maintain an acceptable level of system assurance.</li></ul>
+    </body>
+  </topic>
+  <topic id="incident-management-and-response">
+    <title>Incident management and response</title>
+    <body>
+      <ul>
+        <li>Any incident involving a suspected or known security breach involving personnel,
+          hardware,
+          software,
+          communications,
+          document,
+          or physical security <ph conref="conrefs.dita#conrefs/policymust"/> be reported immediately to the System Administrator's System Manager,
+          <b>AND</b> the <ph conref="conrefs.dita#conrefs/moj"/> Operational Security Team (OST): <ph conref="conrefs.dita#conrefs/ostemail"/>.</li>
+          <li>Any loss of IT equipment,
+            <ph conref="conrefs.dita#conrefs/moj"/> or personal data <ph conref="conrefs.dita#conrefs/policymust"/> be reported to:
+            <ul>
+              <li>The System Administrator's line manager.</li>
+              <li>The <ph conref="conrefs.dita#conrefs/moj"/> OST (<ph conref="conrefs.dita#conrefs/ostemail"/>).</li>
+              <li>The Data Access and Compliance Unit (DACU): <ph conref="conrefs.dita#conrefs/dacuemail"/>.</li>
+            </ul></li>
+          <li>To ensure a quick response,
+            all emails reporting a loss <ph conref="conrefs.dita#conrefs/policymust"/> be marked <q>Urgent</q> <b>AND</b> have <q>Data Incident</q> in the title/subject heading.</li>
+          </ul>
+    </body>
+  </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

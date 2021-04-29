@@ -7,21 +7,23 @@
     <p>Everyone working at the <ph conref="conrefs.dita#conrefs/moj"/> has access to <ph conref="conrefs.dita#conrefs/moj"/> Information Technology (IT) resources.
     You must use them in an acceptable way.
     This guidance explains what that means.
-    <ph audience="audience-tech">The definitive list of Acceptable Use Policy statements is <xref href="it-acceptable-use-policy.dita" format="dita">here</xref>.</ph></p>
+    <ph audience="audience-tech">The definitive list of Acceptable Use Policy statements is <xref href="acceptable-use-policy.dita" format="dita">here</xref>.</ph></p>
   </body>
   <topic id="summary">
     <title>Summary</title>
     <body>
-      <p>Be sensible when using <ph conref="conrefs.dita#conrefs/moj"/> IT resources:
       <ul>
+        <li>Be sensible when using <ph conref="conrefs.dita#conrefs/moj"/> IT resources.</li>
         <li>The resources are for you to do <ph conref="conrefs.dita#conrefs/moj"/> work.</li>
         <li>Protect the resources at all times, to help prevent unacceptable use.</li>
         <li>If the use would cause problems, upset, offence, or embarrassment, it's probably not acceptable.</li>
         <li>Context is important. Security risks can increase when working outside your normal workplace.</li>
-        <li>Be aware that your use of resources is monitored. During an investigation into a security incident, IT forensic techniques capture evidence.</li>
-        <li>If you're not sure if something is acceptable, ask for help first.</li>
-        <li>Above all, if you think there is a problem, <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">report it</xref> or ask for help.</li>
-      </ul></p>
+        <li>All use of <ph conref="conrefs.dita#conrefs/moj"/> IT resources is monitored and logged, at all times.
+        This data can be used for business purposes at any time,
+        especially during an investigation into a security incident, where IT forensic techniques help capture evidence.</li>
+        <li>If you're not sure if something is acceptable, <xref href="#contact-details" format="dita">ask for help</xref> first.</li>
+        <li>Above all, if you think there is a problem, <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">report it</xref> or <xref href="#contact-details" format="dita">ask for help</xref>.</li>
+      </ul>
       <p>The way you use IT is important, because it indicates your approach to work, and can be taken into account when assessing your behaviour and performance.</p>
     </body>
   </topic>
@@ -151,5 +153,6 @@
         The same applies if you customise the desktop environment of your equipment, for example by changing the desktop image.</p>
     </body>
   </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

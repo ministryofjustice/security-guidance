@@ -41,7 +41,8 @@
       <dl>
         <dlentry>
           <dt>POL.ITAUP.001</dt>
-          <dd>All Users <ph conref="conrefs.dita#conrefs/policymust"/> be made aware of the Acceptable Use Policy (this document) and provided with security awareness training which covers this policy.</dd>
+          <dd>All Users <ph conref="conrefs.dita#conrefs/policymust"/> be made aware of the Acceptable Use Policy (this document),
+            and provided with security awareness training which covers this policy.</dd>
         </dlentry>
         <dlentry>
           <dt>POL.ITAUP.002</dt>
@@ -54,12 +55,21 @@
   <topic id="protection-of-assets">
     <title>Protection of assets</title>
     <body>
-      <p>It is paramount that all Users protect the confidentiality of information held on, processed and transmitted by <ph conref="conrefs.dita#conrefs/moj"/> systems.
+      <p>It is paramount that all Users protect the confidentiality of information held on,
+        processed and transmitted by <ph conref="conrefs.dita#conrefs/moj"/> systems.
       All Users have a role in protecting the information assets which are under their control or that they have access to.</p>
       <p><ph conref="conrefs.dita#conrefs/moj"/> systems are designed to protect the confidentiality of the data held on them.
-        However, maintaining this confidentiality requires the application of, and adherence to, a clear set of operating procedures by all Users.
+        However,
+        maintaining this confidentiality requires the application of,
+        and adherence to,
+        a clear set of operating procedures that apply to systems and that must be followed by all Users.
         These are collectively know as Security Operating Procedures (SyOPs).</p>
-      <p>It is important that all Users of an <ph conref="conrefs.dita#conrefs/moj"/> system (include support and system administrative Users) are familiar with these SyOPs and are provided with the appropriate training.</p>
+        <p>Some SyOPS are generic,
+          and apply to all <ph conref="conrefs.dita#conrefs/moj"/> systems.
+          They are described within this document.</p>
+      <p>It is important that all Users of an <ph conref="conrefs.dita#conrefs/moj"/> system (include support and system administrative Users) are familiar with the SyOPs in this policy,
+        and any other SyOPS specific to the <ph conref="conrefs.dita#conrefs/moj"/> system,
+        and are provided with the appropriate training.</p>
       <dl>
         <dlentry>
           <dt>POL.ITAUP.003</dt>
@@ -68,7 +78,8 @@
         </dlentry>
         <dlentry>
           <dt>POL.ITAUP.004</dt>
-          <dd>All Users of an <ph conref="conrefs.dita#conrefs/moj"/> system (this includes support and system administrative staff) <ph conref="conrefs.dita#conrefs/policymust"/> read the SyOPs applicable and <ph conref="conrefs.dita#conrefs/policymust"/> acknowledge that they have both read and understood it before being granted access.
+          <dd>All Users of an <ph conref="conrefs.dita#conrefs/moj"/> system (this includes support and system administrative staff) <ph conref="conrefs.dita#conrefs/policymust"/> read the applicable SyOPs,
+            and <ph conref="conrefs.dita#conrefs/policymust"/> acknowledge that they have both read and understood the SyOPs before being granted access.
           A record <ph conref="conrefs.dita#conrefs/policymust"/> be kept of this event and made available during assurance or upon request.</dd>
         </dlentry>
         <dlentry>
@@ -96,25 +107,26 @@
     <topic id="general-security-operating-procedures-syops">
       <title>General Security Operating Procedures (SyOPs)</title>
       <body>
-        <p>The policy refers to a key set of general SyOPs which are listed below:
+        <p>The policy refers to a key set of policies and guidance,
+          as follows:
         <ul>
-          <li><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/" format="html" scope="external">IT Security Operating Procedures - System Administrators</xref>.</li>
+          <li><xref href="system-administrators-policy.dita" format="dita">System Administrators Policy</xref>.</li>
           <li><xref href="system-users-and-application-administrators.dita" format="dita">System Users and Application Administrators</xref>.</li>
           <li audience="audience-basic audience-tech"><xref href="remote-working.dita" format="dita">Remote Working</xref>.</li>
           <li>IT Security Operating Procedures - ICT Equipment: Desktop – Corporate.</li>
           <li>IT Security Operating Procedures - ICT Equipment: Mobile Devices - RAS Laptop.</li>
           <li>IT Security Operating Procedures - ICT Equipment: Mobile Devices – Blackberry.</li>
         </ul></p>
-        <p>To minimise the number of SyOPs in circulation and standardise procedures, the SyOPs listed above act as the primary set where individual ICT systems are expected to conform to in terms of their own SyOPs.
+        <p>To minimise the number of SyOPs in circulation and standardise procedures,
+          the SyOPs listed above act as the primary set where individual ICT systems are expected to conform to in terms of their own SyOPs.
           Any deviations or additions are at the discretion of the system Accreditor.</p>
         <dl>
           <dlentry>
             <dt>POL.ITAUP.008</dt>
-            <dd>All ICT systems <b>must have</b> documented SyOPs which comply with the general SyOPs listed in this policy (see <xref href="#general-security-operating-procedures-syops" format="dita">here</xref> ).
-            Any deviations or additions must be recorded in separate SyOPs which form an addendum to one of the SyOPs listed <xref href="#general-security-operating-procedures-syops" format="dita">here</xref>.</dd>
+            <dd>All ICT systems <ph conref="conrefs.dita#conrefs/policymust"/> have documented SyOPs which comply with the <xref href="#general-security-operating-procedures-syops" format="dita">general SyOPs listed in this policy</xref>.
+            Any deviations or additions <ph conref="conrefs.dita#conrefs/policymust"/> be recorded in separate SyOPs which form an addendum in the system information.</dd>
           </dlentry>
         </dl>
-        <p><b>Note</b> – An ICT system may make use of, in their entirety, one or more of the SyOPs listed above as the procedures of that IT system do not deviate from those described in these general SyOPs.</p>
       </body>
     </topic>
     <topic id="removable-media">
@@ -122,12 +134,16 @@
       <body>
         <p>Removable storage media include devices such as USB memory sticks, writeable CDs/DVDs, floppy discs and external hard drives.
           These devices can potential contain large amounts of protectively marked data and pose a significant risk to the Confidentiality of data held on them.
-          As such, the <ph conref="conrefs.dita#conrefs/moj"/> controls the use of removable media through SyOPs, technical security controls, and requiring movements of bulk data to be authorised by <ph conref="conrefs.dita#conrefs/moj"/> ICT IA, this includes completing an Information Asset Movement Form.</p>
+          As such, the <ph conref="conrefs.dita#conrefs/moj"/> controls the use of removable media through SyOPs, technical security controls, and requiring movements of bulk data to be authorised by <ph conref="conrefs.dita#conrefs/moj"/> security.
+          This includes completing an Information Asset Movement Form where data transfer is required.</p>
           <dl>
             <dlentry>
               <dt>POL.ITAUP.009</dt>
-              <dd>Any removable media device <b>must be</b> approved by <ph conref="conrefs.dita#conrefs/moj"/> ICT IA where that device is used to store protectively marked data.
-              The type of device and associated SyOPs must be approved by the system Accreditor prior to operational use.</dd>
+              <dd>Any removable media device <ph conref="conrefs.dita#conrefs/policymust"/> be approved by
+                <ph conref="conrefs.dita#conrefs/moj"/> security where that device is used to store protectively marked data.
+              The type of device and associated SyOPs <ph conref="conrefs.dita#conrefs/policymust"/> be approved as part of assurance
+              prior to operational use.</dd>
+              <!-- HERE -->
             </dlentry>
             <dlentry>
               <dt>POL.ITAUP.010</dt>
