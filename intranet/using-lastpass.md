@@ -1,6 +1,6 @@
 # Using LastPass Enterprise
 
-**Parent topic:**[Password Managers](password-managers.md)
+**Parent topic:** [Password Managers](password-managers.md)
 
 ## What is LastPass?
 
