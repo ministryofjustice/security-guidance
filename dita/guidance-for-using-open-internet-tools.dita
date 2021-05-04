@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="guidance-for-using-open-internet-tools">
-  <title>Guidance for using Open Internet Tools</title>
+  <title><ph platform="github">Guidance for using Open Internet Tools</ph><ph platform="intranet">Open internet tools</ph></title>
   <body>
     <p><b>This information applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/mojlong"/>.</b></p>
-    <p>This guidance gives you:
+    <p platform="github">This guidance gives you:
     <ul>
-      <li>an <xref href="#overview" format="html">overview</xref> of Open Internet Tools (OIT)</li>
-      <li>a <xref href="#quick-checklist" format="html">quick checklist</xref> to help you decide if you can use an OIT</li>
-      <li>reasons why you <xref href="#why-oits-are-an-opportunity" format="html">might</xref>, or <xref href="#why-oits-are-a-risk" format="html">might not</xref>, want to use an OIT</li>
-      <li>things you <xref href="#using-oits" format="html">must think about</xref> when using an OIT, such as <xref href="#privacy-and-personal-information" format="html">data protection</xref></li>
-      <li>information on <xref href="#getting-help" format="html">who to contact</xref> if you would like help or advice</li>
+      <li>An <xref href="#overview" format="html">overview</xref> of Open Internet Tools (OIT).</li>
+      <li>A <xref href="#quick-checklist" format="html">quick checklist</xref> to help you decide if you can use an OIT.</li>
+      <li>Reasons why you <xref href="#why-oits-are-an-opportunity" format="html">might</xref>, or <xref href="#why-oits-are-a-risk" format="html">might not</xref>, want to use an OIT.</li>
+      <li>Things you <xref href="#using-oits" format="html">must think about</xref> when using an OIT, such as <xref href="#privacy-and-personal-information" format="html">data protection</xref>.</li>
+      <li>Information on <xref href="#getting-help" format="html">who to contact</xref> if you would like help or advice.</li>
     </ul>
-    <note>To access some of the links in this guide you'll need to be connected to the <ph conref="conrefs.dita#conrefs/moj"/> Intranet</note>
+    <note>To access some of the links in this guide you'll need to be connected to the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.</note>
     </p>
   </body>
   <topic id="overview">
@@ -48,7 +48,8 @@
           <li>are you prevented from exporting all the data from the tool?</li>
           <li>are you prevented from deleting all the data from the tool when you finish working on the task?</li>
         </ul></p>
-        <p>If the answer to <i>any</i> of these questions is 'Yes', you might not be able to use the OIT.</p>
+        <p>If the answer to <i>any</i> of these questions is <q platform="github">Yes</q><ph platform="intranet">Yes</ph>,
+        you might not be able to use the OIT.</p>
         <p>When you have all the answers, request formal approval to use the OIT from your <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/" format="html" scope="external">Line Manager</xref>. Do this <i>before</i> using the OIT.</p>
       </body>
     </topic>
@@ -113,13 +114,14 @@
       <title>Classification and security</title>
       <body>
         <p>An OIT can only store or process information <xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">classified</xref> at <codeph>OFFICIAL</codeph> level.</p>
-        <p>Think about the <ph conref="conrefs.dita#conrefs/moj"/> information you work with.  What would happen if you lost it, or it's stolen, or published in the media? Suppose the information was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is 'No', then it's probably OK to use OITs to store or send that information.</p>
+        <p>Think about the <ph conref="conrefs.dita#conrefs/moj"/> information you work with.  What would happen if you lost it, or it's stolen, or published in the media? Suppose the information was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is <q platform="github">No</q><ph platform="intranet">No</ph>, then it's probably OK to use OITs to store or send that information.</p>
         <p>Think also about information moving across the Internet. The data might be safe within the <ph conref="conrefs.dita#conrefs/moj"/> and in an approved OIT. But what about the connection between the two? Sending information might involve insecure networks. Be aware of the security implications. Check that enough suitable security measures are in place to protect the information. For example, check for encryption of network connections using <xref href="https://en.wikipedia.org/wiki/Transport_Layer_Security" format="html" scope="external">SSL/TLS</xref>. A simple way to do this is to look for the secure connection indicator in your web browser:</p>
 	    <image href="images/guidance-for-using-open-internet-tools-01.png" placement="break" scope="local"><alt>The image shows a small section from a web browser URL bar. The word 'secure' appears in a green color, to show that the connection is safe. There is also a padlock icon in a closed state, again to show that the connection is safe.</alt></image>
         <p>You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is <xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">Principle 2</xref> of the Government Security Classifications. The <ph conref="conrefs.dita#conrefs/moj"/> trusts you to work with <codeph>OFFICIAL</codeph> information. In the same way, you're trusted to make a reasoned judgement about whether it's safe to use an OIT.</p>
         <p>Useful help for deciding what is OK is in <xref href="https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf" format="pdf" scope="external">existing social media guidance</xref>. While it's more about how to act online, the principles are helpful for OITs.</p>
         <p>Remember that it is impossible to delete information after it's released in public.</p>
-        <p>For more information about <ph conref="conrefs.dita#conrefs/moj"/> IT Security, look on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/" format="html" scope="external">here</xref>.</p>
+        <p platform="github">For more information about <ph conref="conrefs.dita#conrefs/moj"/> IT Security, look on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/" format="html" scope="external">here</xref>.</p>
+        <p platform="intranet">More information can be found on the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> IT &amp; Computer Security</xref> pages.</p>
       </body>
     </topic>
     <topic id="storage-and-data-retention">
@@ -137,7 +139,7 @@
           <li>we understand the information held, and where to find it</li>
           <li>we can transfer records to The National Archives</li>
         </ul></p>
-        <p>Always store <ph conref="conrefs.dita#conrefs/moj"/> information in <ph conref="conrefs.dita#conrefs/moj"/> systems. If you use an OIT, make sure the key information is also stored in an appropriate <ph conref="conrefs.dita#conrefs/moj"/> system. Guidance on what you must keep is available <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/what-to-keep/" format="html" scope="external">here</xref>. At regular and convenient intervals, transfer the information to an appropriate <ph conref="conrefs.dita#conrefs/moj"/> system. Do the same when you finish the work. Don't forget to remove any redundant information from the OIT.</p>
+        <p>Always store <ph conref="conrefs.dita#conrefs/moj"/> information in <ph conref="conrefs.dita#conrefs/moj"/> systems. If you use an OIT, make sure the key information is also stored in an appropriate <ph conref="conrefs.dita#conrefs/moj"/> system. Guidance on what you must keep <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/what-to-keep/" format="html" scope="external">is available</xref>. At regular and convenient intervals, transfer the information to an appropriate <ph conref="conrefs.dita#conrefs/moj"/> system. Do the same when you finish the work. Don't forget to remove any redundant information from the OIT.</p>
         <p>Most OITs let you export your data. You can then store it on an appropriate <ph conref="conrefs.dita#conrefs/moj"/> system. Sometimes it's easier to copy and paste text into a new document. Make sure that only the correct people have access to the information. This is important after staff or organisational changes, for example.</p>
         <p>For more guidance, read the <xref href="https://intranet.justice.gov.uk/documents/2018/01/information-management-policy-jan-2018.pdf" format="pdf" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Information Management Policy</xref>. There is also help on <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/providing-information-to-the-public/freedom-of-information/" format="html" scope="external">responding to requests for information</xref>.</p>
       </body>

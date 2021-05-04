@@ -56,7 +56,7 @@
 		<delete dir="${intranet}"/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance-intranet.ditamap"/>
-			<property name="args.filter" value="${dita}/html.ditaval:${dita}/audience-basic.ditaval"/>
+			<property name="args.filter" value="${dita}/intranet.ditaval:${dita}/html.ditaval:${dita}/audience-basic.ditaval"/>
 			<property name="output.dir" location="${intranet}"/>
 			<property name="transtype" value="markdown_github"/>
 		</ant>
@@ -69,7 +69,7 @@
 				description="compile the source into markdown">
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${dita}/html.ditaval:${dita}/audience-tech.ditaval"/>
+			<property name="args.filter" value="${dita}/github.ditaval:${dita}/html.ditaval:${dita}/audience-tech.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="markdown_github"/>
 		</ant>
@@ -83,7 +83,7 @@
 				description="compile the source into HTML5 prior to conversion to Word format, for Intranet publication.">
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance-intranet.ditamap"/>
-			<property name="args.filter" value="${dita}/html.ditaval:${dita}/audience-allusers.ditaval"/>
+			<property name="args.filter" value="${dita}/github.ditaval:${dita}/html.ditaval:${dita}/audience-allusers.ditaval"/>
 			<property name="output.dir" location="${buildhtml}"/>
 			<property name="transtype" value="html5"/>
 		</ant>
@@ -116,7 +116,7 @@
 		<echo message="Build PDF: Technical users"/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${dita}/pdf.ditaval:${dita}/audience-tech.ditaval"/>
+			<property name="args.filter" value="${dita}/github.ditaval:${dita}/pdf.ditaval:${dita}/audience-tech.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
@@ -127,7 +127,7 @@
 		<echo message="Build PDF: Suppliers"/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${dita}/pdf.ditaval:${dita}/audience-suppliers.ditaval"/>
+			<property name="args.filter" value="${dita}/github.ditaval:${dita}/pdf.ditaval:${dita}/audience-suppliers.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
@@ -139,7 +139,7 @@
 		<echo message="Build PDF: Intranet"/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance-intranet.ditamap"/>
-			<property name="args.filter" value="${dita}/pdf.ditaval:${dita}/audience-basic.ditaval"/>
+			<property name="args.filter" value="${dita}/github.ditaval:${dita}/pdf.ditaval:${dita}/audience-basic.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
@@ -148,7 +148,7 @@
 		<echo message="Build PDF: All users"/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${dita}/pdf.ditaval:${dita}/audience-basic.ditaval"/>
+			<property name="args.filter" value="${dita}/github.ditaval:${dita}/pdf.ditaval:${dita}/audience-basic.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
@@ -165,7 +165,7 @@
 		<!--
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${dita}/epub.ditaval:${dita}/audience-tech.ditaval"/>
+			<property name="args.filter" value="${dita}/github.ditaval:${dita}/epub.ditaval:${dita}/audience-tech.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="epub"/>
 		</ant>
@@ -185,7 +185,7 @@
 		<!--
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${dita}/epub.ditaval:${dita}/audience-suppliers.ditaval"/>
+			<property name="args.filter" value="${dita}/github.ditaval:${dita}/epub.ditaval:${dita}/audience-suppliers.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="epub"/>
 		</ant>
@@ -205,7 +205,7 @@
 		<!--
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${dita}/epub.ditaval:${dita}/audience-basic.ditaval"/>
+			<property name="args.filter" value="${dita}/github.ditaval:${dita}/epub.ditaval:${dita}/audience-basic.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="epub"/>
 		</ant>
@@ -233,7 +233,7 @@
 		<copy file="${temp.file}" tofile="${docs}/${theFileName}.md" overwrite="true"/>
 	</target>
 
-	<target name="dist_local" depends="compile_md"
+	<target name="dist_local" depends="compile_md,compile_intranet"
 				description="generate minimal set to test local build">
 		<!-- Create the distribution directory -->
 		<mkdir dir="${docs}"/>

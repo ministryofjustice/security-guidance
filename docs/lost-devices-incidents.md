@@ -39,7 +39,7 @@ If you think your device is lost, stolen, 'hacked', or in some way compromised, 
 
 ## Summary
 
-Find out more about how to report a security incident [here](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/).
+Find out more about how to [report a security incident](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/).
 
 ## Contact details
 

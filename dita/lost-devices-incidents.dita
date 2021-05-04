@@ -31,7 +31,7 @@
   <topic id="summary">
     <title>Summary</title>
     <body>
-      <p>Find out more about how to report a security incident <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">here</xref>.</p>
+      <p>Find out more about how to <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">report a security incident</xref>.</p>
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>

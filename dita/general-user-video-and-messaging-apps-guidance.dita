@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="general-user-video-and-messaging-apps-guidance">
-	<title>General Apps Guidance</title>
-	<topic id="overview">
+	<title><ph platform="github">General Apps Guidance</ph><ph platform="intranet">Apps</ph></title>
+	<body platform="intranet">
+			<!-- The following two paragraphs are duplicated below.
+			Yes, this probably should be conref -->
+			<p>When working from home, you still need to communicate with <ph conref="conrefs.dita#conrefs/mojlong"/> colleagues.
+			You'll also need to work with people outside the <ph conref="conrefs.dita#conrefs/moj"/>.
+			There are various tools you might use, besides the standard email and telephone tools.
+			This document tells you about the tools you can, and cannot, use for business purposes.
+			This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+		<p>Some ALBs, Agencies, or other large groups within the <ph conref="conrefs.dita#conrefs/moj"/> might have their own,
+			specific guidance regarding how to use certain Video and Messaging apps for different purposes.</p>
+	</body>
+	<topic id="overview" platform="github">
 		<title>Overview</title>
 		<body>
+			<!-- The following two paragraphs are duplicates from above.
+			Yes, this probably should be conref -->
 			<p>When working from home, you still need to communicate with <ph conref="conrefs.dita#conrefs/mojlong"/> colleagues.
 			You'll also need to work with people outside the <ph conref="conrefs.dita#conrefs/moj"/>.
 			There are various tools you might use, besides the standard email and telephone tools.
@@ -44,9 +57,10 @@
 				you are speaking and acting for the whole of the <ph conref="conrefs.dita#conrefs/moj"/>.
 				When working with a personal account,
 				you are speaking and acting as an <ph conref="conrefs.dita#conrefs/moj"/> employee and a civil servant.</p>
-			<p>Always follow all <xref href="https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf" format="pdf" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> policies and guidelines regarding public information,
-			including social media (to access this information you'll need to be connected to the <ph conref="conrefs.dita#conrefs/moj"/> Intranet)</xref>.
-			In particular,
+			<p>Always follow all <xref href="https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf" format="pdf" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> policies and guidelines</xref> regarding public information,
+			including social media.
+			To access this information you'll need to be connected to the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.</p>
+			<p>In particular,
 			follow the <xref href="https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code" format="html" scope="external">Civil Service Code of Conduct</xref>.</p>
 		</body>
 	</topic>
@@ -170,7 +184,10 @@
 				<li>Context is important - a message you might think is funny could be upsetting to someone else.</li>
 				<li>If something goes wrong, report it.</li>
 			</ul>
-			<p>The bottom line is: <i>"if there is doubt, there is no doubt - ask for help!".</i></p>
+			<p>The bottom line is:
+				<lq platform="github">If there is doubt, there is no doubt - ask for help!</lq>
+				<ph platform="intranet">if there is doubt, there is no doubt - ask for help!</ph>
+			</p>
 		</body>
 	</topic>
 	<topic id="approved-tools">

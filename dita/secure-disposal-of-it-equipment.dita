@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="secure-disposal-of-it-equipment">
-  <title>Secure Disposal of IT Equipment</title>
+  <title>Secure disposal of IT equipment</title>
   <body>
     <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> and its Executive Agencies and Arms Length Bodies use a wide variety of equipment,
       including desktop computers, laptops, USB memory sticks and other mobile devices.
@@ -79,17 +79,22 @@
       upon request by <ph conref="conrefs.dita#conrefs/moj"/> security.</p>
     <p>Wherever possible and appropriate,
       managers should pool together equipment with that of local colleagues to share service costs.</p>
-    <p>If you have any concerns about moving items between sites securely,
-      contact the Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/></p>
   </body>
-  <topic id="contacts">
-    <title>Contacts</title>
+  <topic id="secure-disposal-organisations">
+    <title>Secure disposal organisations</title>
     <body>
       <p>The following organisations are approved to help you with security disposal of equipment:
       <ul>
         <li>TYR security: <xref href="mailto:g-cloud@tyr-security.co.uk" format="email" scope="external">g-cloud@tyr-security.co.uk</xref></li>
         <li>Data eliminate: <xref href="mailto:info@dataeliminate.com" format="email" scope="external">info@dataeliminate.com</xref></li>
       </ul></p>
+    </body>
+  </topic>
+  <topic id="moving-equipment-between-sites">
+    <title>Moving equipment between sites</title>
+    <body>
+    <p>If you have any concerns about moving items between sites securely,
+      contact the Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/></p>
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>

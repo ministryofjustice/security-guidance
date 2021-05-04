@@ -1,0 +1,4 @@
+<val>
+	<prop action="exclude" att="platform" val="intranet"/>
+	<prop action="include" att="platform" val="github"/>
+</val>

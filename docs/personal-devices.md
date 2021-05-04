@@ -1,6 +1,4 @@
-# Security Guidance for Using a Personal Device
-
-## Summary
+# Personal Devices
 
 This guidance applies to all staff and contractors who work for the Ministry of Justice \(MoJ\). It provides advice about using personal devices for work purposes.
 

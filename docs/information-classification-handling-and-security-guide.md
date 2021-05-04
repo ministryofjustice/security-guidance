@@ -1,13 +1,11 @@
 # Information Classification, Handling and Security Guide
 
--   **[Information Classification and Handling Policy](information-classification-and-handling-policy.md)**  
-
-
-## Introduction
-
 All Ministry of Justice \(MoJ\) employees interact with information, and are responsible for its protection. Information security must be considered during the process of designing, maintaining, and securing the MoJ's IT systems that are used to process information.
 
 However, not all information warrants the strictest levels of protection. This is why information classification is so important to the MoJ – to ensure that the department can focus its security efforts on its most sensitive information. Information security must be proportionate to the security classification of the information, and must be considered throughout the information lifecycle to maintain its confidentiality, integrity, and availability.
+
+-   **[Information Classification and Handling Policy](information-classification-and-handling-policy.md)**  
+
 
 ## Classifying information
 
@@ -71,7 +69,7 @@ Examples include:
 
 `OFFICIAL` means that the MoJ's typical security measures are regarded as sufficient.
 
-`OFFICIAL-SENSITIVE` “whilst not a formal classification”, should be used sparingly, so that its effectiveness is not weakened. This is especially important when you consider that `OFFICIAL` is already well-protected.
+`OFFICIAL-SENSITIVE` whilst not a formal classification, should be used sparingly, so that its effectiveness is not weakened. This is especially important when you consider that `OFFICIAL` is already well-protected.
 
 Use `OFFICIAL-SENSITIVE` when you want to remind users to be careful when handling information. This asks them to use extra care, beyond what is expected for the baseline `OFFICIAL` classification.
 

@@ -17,6 +17,7 @@
 
 		<p>
 			<ph id="catemail"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></ph>
+			<ph id="catemailtext"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">Cyber Assistance Team</xref></ph>
 			<ph id="cisolong">Chief Information Security Office (CISO)</ph>
 			<ph id="ciso">CISO</ph>
 			<ph id="dacuemail"><xref href="mailto:Data.access@justice.gov.uk" format="email" scope="external">Data.access@justice.gov.uk</xref></ph>
@@ -24,9 +25,11 @@
 			<ph id="giaaemail"><xref href="mailto:correspondence@giaa.gov.uk" format="email" scope="external">correspondence@giaa.gov.uk</xref></ph> <!-- Government Internal Audit Agency -->
 			<ph id="gov007"><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></ph>
 			<ph id="groupsecurityemail"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="email" scope="external">mojgroupsecurity@justice.gov.uk</xref></ph>
+			<ph id="groupsecurityemailtext"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="email" scope="external"><ph conref="#conrefs/moj"/> group security</xref></ph>
 			<ph id="gsuite">Google Workspace</ph>
 			<ph id="hmggovernmentsecurityclassifications"><xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">HMG Government Security Classifications Policy</xref></ph>
 			<ph id="itpolicycontentemail"><xref href="mailto:itpolicycontent@digital.justice.gov.uk" format="email" scope="external">itpolicycontent@digital.justice.gov.uk</xref></ph>
+			<ph id="itpolicycontentemailtext"><xref href="mailto:itpolicycontent@digital.justice.gov.uk" format="email" scope="external">IT policy content</xref></ph>
 			<ph id="mojlong">Ministry of Justice (MoJ)</ph>
 			<ph id="moj">MoJ</ph>
 			<ph id="ncsclong">National Cyber Security Centre (NCSC)</ph>
@@ -67,7 +70,7 @@
 						<li>ComSO (Communications Security Officer),
 							contact the <ph conref="#conrefs/cisolong"/> (<ph conref="#conrefs/securityemail"/>).</li>
 						<li><codeph>CONFIDENTIAL</codeph>,
-							an older information classification marking<ph audience="audience-basic audience-tech">,
+							an older information classification marking<ph audience="audience-basic audience-tech" platform="github">,
 							see <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref></ph>.</li>
 						<li>CPNI (<xref href="https://www.cpni.gov.uk/" scope="external" format="html">Centre for the Protection of the National Infrastructure</xref>),
 							contact the <ph conref="#conrefs/ciso"/> (<ph conref="#conrefs/securityemail"/>).</li>
@@ -87,7 +90,7 @@
 						<li>ITSO (Information Technology Security Officer),
 							contact the <ph conref="#conrefs/ciso"/> (<ph conref="#conrefs/securityemail"/>).</li>
 						<li><codeph>RESTRICTED</codeph>,
-							an older information classification marking<ph audience="audience-basic audience-tech">,
+							an older information classification marking<ph audience="audience-basic audience-tech" platform="github">,
 							see <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref></ph>.</li>
 						<li>SPF (<xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">Security Policy Framework</xref>),
 							see the <ph conref="#conrefs/gov007"/>,
@@ -185,10 +188,10 @@
 	</topic>
 
 	<topic id="contact-details">
-		<title>Contact details</title>
+		<title><ph platform="github">Contact details</ph><ph platform="intranet">Contacts</ph></title>
 		<body>
 			<p>For any further questions relating to security, contact: <ph conref="#conrefs/securityemail"/>,
-			or for security advice, contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
+			or for security advice, contact the <ph platform="github">Cyber Assistance Team <ph conref="#conrefs/catemail"/></ph><ph platform="intranet"><ph conref="#conrefs/catemailtext"/></ph>.</p>
 		</body>
 	</topic>
 
@@ -254,7 +257,7 @@
 
 	<topic id="feedback">
 		<title>Feedback</title>
-		<body><lq>If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: <ph conref="#conrefs/itpolicycontentemail"/>.</lq>
+		<body><lq>If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: <ph conref="#conrefs/itpolicycontentemail" platform="github"/><ph conref="#conrefs/itpolicycontentemailtext" platform="intranet"/>.</lq>
 		</body>
 	</topic>
 
@@ -264,7 +267,7 @@
 			<p>If there is an application or service that is not currently approved,
 				but which you would like to use,
 				you can request a security review.</p>
-			<p>Begin the request by filling in <xref href="https://docs.google.com/forms/d/e/1FAIpQLSeEEBDS1HBF7meUk3SjgkqxbXBQlKAiBAezJIbKHnEjfNjBTg/viewform?gxids=7628" format="html" scope="external">this form</xref>, as best you can.
+			<p>Begin the request by filling in the <xref href="https://docs.google.com/forms/d/e/1FAIpQLSeEEBDS1HBF7meUk3SjgkqxbXBQlKAiBAezJIbKHnEjfNjBTg/viewform?gxids=7628" format="html" scope="external">Request a Security Review of a third-party service</xref> form, as best you can.
 			The more information you provide, the better.
 			But don't worry if you have to leave some bits of the form blank.</p>
 			<p>When you submit the form,
@@ -274,10 +277,26 @@
 				and whether there are any Data Privacy implications.
 				The security team will respond to you with an answer as quickly as possible.</p>
 			<note>You should submit the request,
-				and wait for a formal 'approval' response,
+				and wait for a formal <q platform="github">approval</q><ph platform="intranet">approval</ph> response,
 				<i>before</i> you install or use the app on  <ph conref="#conrefs/moj"/> equipment or information.</note>
 			<p>If you have any questions about the process,
 				contact the security team: <ph conref="#conrefs/securityemail"/>.</p>
 		</body>
 	</topic>
+
+    <topic id="reclassifying-information">
+		<title>Reclassifying information</title>
+		<body>
+		  <p>The asset owner has responsibility for reclassifying an asset.
+		  If another user has reason to believe that an asset is incorrectly classified or has an incorrect handling caveat,
+		  they should normally discuss this with the asset owner.
+		  The other user cannot unilaterally reclassify the asset.</p>
+		  <p>The exception is where the asset might need a higher classification than that assigned by the asset owner.
+			The reclassification must still be communicated to the asset owner,
+			for consistency.
+		  If it is agreed that the classification should be increased,
+		  check with the Operational Security Team (<ph conref="conrefs.dita#conrefs/ostemail"/>) whether additional actions are required to protect the material.</p>
+		</body>
+	  </topic>
+  
 </topic>

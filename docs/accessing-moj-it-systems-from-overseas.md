@@ -1,6 +1,6 @@
-# Accessing Ministry of Justice \(MoJ\) IT Systems From Overseas
+# Accessing Ministry of Justice \(MoJ\) IT systems overseas
 
-**Note:** This guidance information applies to all staff, contractors and agency staff who work for the MoJ.
+This guidance information applies to all staff, contractors and agency staff who work for the MoJ.
 
 **Note:** If you are national security cleared to 'Enhanced SC' or DV levels, follow this process for all your trips, regardless of whether they are for business or personal reasons.
 
@@ -59,7 +59,7 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 
 While travelling, you might incur roaming charges when using your MoJ equipment for calls or accessing services. These charges can be expensive, and must be paid by your Business Unit. This is another reason for having a good business need to take MoJ equipment overseas.
 
-By default, MoJ equipment is not enabled for use overseas. Before travelling, raise the relevant IT Catalogue request to have International Roaming enabled for the duration of your trip, and to activate the remote wipe function. This helps protect the MoJ equipment in case of loss or theft.
+By default, MoJ equipment is not enabled for use overseas. Before travelling, contact the MoJ Phone and Mobile Devices team. Ask them to enable International Roaming, and to activate the remote wipe function. This helps protect the MoJ equipment in case of loss or theft.
 
 ## If you have any problem when using MoJ equipment overseas
 
