@@ -71,7 +71,7 @@ If there is a problem with your MoJ equipment, it might be necessary to disable 
 
 ## Related pages
 
--   [General advice on taking Equipment overseas](general-advice-on-taking-equipment-overseas.md)
+-   [Taking equipment overseas](https://intranet.justice.gov.uk/guidance/security/it-computer-security/accessing-moj-it-systems-overseas/taking-equipment-overseas/)
 -   [Overseas travel](https://intranet.justice.gov.uk/guidance/security/emergencies/coronavirus-guidance/absence-leave/overseas-travel/)
 -   [Staff security and responsibilities – during employment](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment)
 

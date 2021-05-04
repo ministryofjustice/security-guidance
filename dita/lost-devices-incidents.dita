@@ -10,7 +10,7 @@
   <topic id="what-to-do-if-your-device-is-lost-stolen-or-compromised">
     <title>What to do if your device is lost, stolen, or compromised</title>
     <body>
-      <p>If <ph conref="conrefs.dita#conrefs/moj"/> data or information is lost or compromised, you should always <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">report it as a data incident</xref>.</p>
+      <p>If <ph conref="conrefs.dita#conrefs/moj"/> data or information is lost or compromised, you should always <xref href="reporting-an-incident.dita" format="dita" platform="github">report it as a data incident</xref><xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external" platform="intranet">report it as a data incident</xref>.</p>
       <note>You can help reduce problems by making sure that devices used for <ph conref="conrefs.dita#conrefs/moj"/> tasks are always shut down before leaving Government premises. Locking a laptop, or 'putting it to sleep' is not completely secure. A lost or stolen laptop can be accessed more easily if it is only locked or sleeping. A shut down makes sure that all security measures are in place, such as full disk encryption.</note>
       <p>If you think your device is lost, stolen, 'hacked', or in some way compromised, you must:
       <ol>
@@ -31,7 +31,7 @@
   <topic id="summary">
     <title>Summary</title>
     <body>
-      <p>Find out more about how to <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">report a security incident</xref>.</p>
+      <p>Find out more about how to <xref href="reporting-an-incident.dita" format="dita" platform="github">report a security incident</xref><xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external" platform="intranet">report a security incident</xref>.</p>
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>

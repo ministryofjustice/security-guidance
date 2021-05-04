@@ -45,7 +45,7 @@ To help you decide if you can use an OIT to work on an MoJ task, consider the fo
 
 If the answer to *any* of these questions is “Yes”, you might not be able to use the OIT.
 
-When you have all the answers, request formal approval to use the OIT from your [Line Manager](https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/). Do this *before* using the OIT.
+When you have all the answers, request formal approval to use the OIT from your [Line Manager](line-manager-approval.md). Do this *before* using the OIT.
 
 ### Why OITs are an opportunity
 

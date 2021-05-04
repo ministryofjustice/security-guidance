@@ -14,7 +14,7 @@ Be sensible when using MoJ IT resources:
 -   Context is important. Security risks can increase when working outside your normal workplace.
 -   Be aware that your use of resources is monitored. During an investigation into a security incident, IT forensic techniques capture evidence.
 -   If you're not sure if something is acceptable, ask for help first.
--   Above all, if you think there is a problem, [report it](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) or ask for help.
+-   Above all, if you think there is a problem, [report it](reporting-an-incident.md) or ask for help.
 
 The way you use IT is important, because it indicates your approach to work, and can be taken into account when assessing your behaviour and performance.
 
@@ -70,7 +70,7 @@ If you get an email from anyone or anywhere that you are not sure about, remembe
 -   Don't open any attachments.
 -   Don't click on any links in the email.
 
-If there is any doubt, or you are worried that the [email might be malicious](https://intranet.justice.gov.uk/news/ntk-phishing-dont-take-the-bait/) or inappropriate, [report it immediately](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) as an IT security incident.
+If there is any doubt, or you are worried that the [email might be malicious](https://intranet.justice.gov.uk/news/ntk-phishing-dont-take-the-bait/) or inappropriate, [report it immediately](reporting-an-incident.md) as an IT security incident.
 
 ## Personal use of MoJ IT
 

@@ -103,7 +103,7 @@
 		<title>Related pages</title>
 		<body>
 			<ul>
-				<li><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita">General advice on taking Equipment overseas</xref></li>
+				<li><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita" platform="github">General advice on taking equipment overseas</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/accessing-moj-it-systems-overseas/taking-equipment-overseas/" format="html" scope="external" platform="intranet">Taking equipment overseas</xref></li>
 				<li><xref href="https://intranet.justice.gov.uk/guidance/security/emergencies/coronavirus-guidance/absence-leave/overseas-travel/" format="html" scope="external">Overseas travel</xref></li>
 				<li><xref href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment" format="html" scope="external">Staff security and responsibilities – during employment</xref></li>
 			</ul>

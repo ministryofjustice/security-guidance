@@ -53,7 +53,7 @@ Use a password manager to help you keep track of your passwords.
 
 These are tools that help you create, use, and manage your passwords. A useful overview is available [here](https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers).
 
-As passwords become more complex, and you need to look after more of them, it becomes increasingly necessary to use a password manager. For example, development teams in MoJ Digital & Technology use [LastPass](using-lastpass.md).
+As passwords become more complex, and you need to look after more of them, it becomes increasingly necessary to use a password manager. For example, development teams in MoJ Digital & Technology use [LastPass](https://intranet.justice.gov.uk/guidance/security/it-computer-security/user-access/passwords/password-managers/using-lastpass-enterprise/).
 
 You still need to remember one password. This is the password that gets you into the manager application. Once you have access, the application works like a simple database, storing all the passwords associated with your various accounts and services. Some managers have extra features, such as password generators. Some managers can even automatically fill-in username and password fields for you when during log in.
 
@@ -61,7 +61,7 @@ The password manager database is often stored in the cloud so that you can use i
 
 Using a password manager for your MoJ account and service details is recommended.
 
-You can find additional useful information about password manager tools [here](password-managers.md).
+You can find additional useful information about password manager tools [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/user-access/passwords/password-managers/).
 
 ## Default passwords
 

@@ -43,11 +43,11 @@
               <b>AND</b> where the leave is not longer than 12 months in duration.</li>
               <!-- FIXME -->
               <li>Remind your staff member that the Acceptable Usage Policy applies at all times during their leave.
-                The policy can be found at: <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/</xref></li>
+                The policy can be found <xref href="acceptable-use.dita" format="dita" platform="github">here</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external" platform="intranet">here</xref>.</li>
               <!-- FIXME -->
               <li>Preparation or return from any type of leave may be accompanied by changes in working patterns.
                 The Remote Working guidance provides useful advice for anyone who may be working remotely for the first time.
-                The policy can be found at: <xref href="https://intranet.justice.gov.uk/guidance/security/emergencies/coronavirus-guidance/security/remote-working/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/security/emergencies/coronavirus-guidance/security/remote-working/</xref>.</li>
+                The policy can be found <xref href="remote-working.dita" format="dita" platform="github">here</xref><xref href="https://intranet.justice.gov.uk/guidance/security/emergencies/coronavirus-guidance/security/remote-working/" format="html" scope="external" platform="intranet">here</xref>.</li>
           </ul></p>
           <note>Devices that are not used for 3 months or more go in to a technical <q>quarantine</q>,
             intentionally to render them unusable.

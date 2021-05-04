@@ -50,7 +50,7 @@
         </ul></p>
         <p>If the answer to <i>any</i> of these questions is <q platform="github">Yes</q><ph platform="intranet">Yes</ph>,
         you might not be able to use the OIT.</p>
-        <p>When you have all the answers, request formal approval to use the OIT from your <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/" format="html" scope="external">Line Manager</xref>. Do this <i>before</i> using the OIT.</p>
+        <p>When you have all the answers, request formal approval to use the OIT from your <xref href="line-manager-approval.dita" format="dita" platform="github">Line Manager</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/" format="html" scope="external" platform="intranet">Line Manager</xref>. Do this <i>before</i> using the OIT.</p>
       </body>
     </topic>
     <topic id="why-oits-are-an-opportunity">

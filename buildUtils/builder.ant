@@ -139,7 +139,7 @@
 		<echo message="Build PDF: Intranet"/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance-intranet.ditamap"/>
-			<property name="args.filter" value="${dita}/github.ditaval:${dita}/pdf.ditaval:${dita}/audience-basic.ditaval"/>
+			<property name="args.filter" value="${dita}/intranet.ditaval:${dita}/pdf.ditaval:${dita}/audience-basic.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>

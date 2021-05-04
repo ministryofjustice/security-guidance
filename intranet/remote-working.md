@@ -78,7 +78,7 @@ Even when working remotely, you must still follow the security policies and oper
 
 ## Using your own equipment
 
-The main guidance is available [here](personal-devices.md).
+The main guidance is available [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/using-a-personal-device/).
 
 Wherever possible, you should always use official MoJ equipment for business purposes. Never send work material to your personal email accounts.
 
