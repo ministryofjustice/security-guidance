@@ -78,7 +78,7 @@ Even when working remotely, you must still follow the security policies and oper
 
 ## Using your own equipment
 
-The main guidance is available [here](personal-devices.md).
+The main guidance is available [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/using-a-personal-device/).
 
 Wherever possible, you should always use official MoJ equipment for business purposes. Never send work material to your personal email accounts.
 
@@ -184,5 +184,5 @@ To access the following link, you'll need to be connected to the HMPPS Intranet.
 
 ## Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

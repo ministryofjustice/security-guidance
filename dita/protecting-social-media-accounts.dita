@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="protecting-social-media-accounts">
-	<title>Protecting Social Media Accounts</title>
-	<topic id="summary">
-		<title>Summary</title>
-		<body>
+	<title>Protecting social media accounts</title>
+	<body>
 		<p>Hostile attacks on Social Media accounts pose a serious threat to the <ph conref="conrefs.dita#conrefs/mojlong"/> and
-		its reputation. When attacks happen, they quickly become <xref href="https://www.independent.co.uk/news/uk/politics/boris-johnson-dominic-cummings-tweet-civil-service-arrogant-offensive-a9530706.html" format="html" scope="external">headline news</xref>, and can <xref href="https://www.nytimes.com/2019/08/30/technology/jack-dorsey-twitter-account-hacked.html" format="html" scope="external">happen to any account, anywhere in the world</xref>.</p>
+		its reputation. When attacks happen, they quickly become headline news,
+		and can happen to any account, anywhere in the world.</p>
 		<p>Two types of attacks are common:
 		<ul>
 			<li>Attempts to render the account useless by 'bombarding' it with messages.</li>
 			<li>Attempts to 'take over' the account.</li>
 		</ul>
 		</p>
-		</body>
-	</topic>
+	</body>
 	<topic id="steps-we-can-all-take-to-protect-ourselves">
 		<title>Steps we can all take to protect ourselves</title>
 		<topic id="ensure-our-passwords-are-secure">

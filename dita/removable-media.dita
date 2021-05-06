@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="removable-media">
-  <title>Removable Media</title>
+  <title>Removable media</title>
   <body>
-    <note>Any <ph conref="conrefs.dita#conrefs/mojlong"/> systems or removable storage media used for work purposes
+    <p>Any <ph conref="conrefs.dita#conrefs/mojlong"/> systems or removable storage media used for work purposes
       must be encrypted to <ph conref="conrefs.dita#conrefs/moj"/> security standards.
       Security encryption is a mandatory government measure,
-      and one of the most important methods we have to protect <ph conref="conrefs.dita#conrefs/moj"/> information.</note>
+      and one of the most important methods we have to protect <ph conref="conrefs.dita#conrefs/moj"/> information.</p>
   </body>
   <topic id="what-is-removable-media">
     <title>What is 'removable' media?</title>

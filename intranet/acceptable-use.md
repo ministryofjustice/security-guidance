@@ -1,6 +1,8 @@
-# Acceptable use of Information Technology at work
+# User access
 
-This guidance applies to all staff and contractors who work for the Ministry of Justice \(MoJ\).
+Acceptable use of Information Technology at work.
+
+This guidance applies to all staff and contractors who work for MoJ.
 
 Everyone working at the MoJ has access to MoJ Information Technology \(IT\) resources. You must use them in an acceptable way. This guidance explains what that means.
 
@@ -20,9 +22,9 @@ The way you use IT is important, because it indicates your approach to work, and
 
 ## What is meant by IT?
 
-IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices \(such as laptops, 'phones, mobile Wi-Fi hotspots \(MiFi\), iPads, tablets, printers, USB 'memory sticks'\) through to online services \(citizen-facing online services, staff tools, corporate email\).
+IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices \(such as laptops, 'phones, mobile Wi-Fi hotspots \(MiFi\), iPads, tablets, printers, USB memory sticks\) through to online services \(citizen-facing online services, staff tools, corporate email\).
 
-## Acceptable use of MOJ IT
+## Acceptable use of MoJ IT
 
 Acceptable use of IT is when you use it to do your work.
 
@@ -91,9 +93,9 @@ Examples of unacceptable MoJ mobile phone use include:
 -   Making charitable donations from the mobile phone account.
 -   Signing up for premium rate text services.
 -   Calling premium rate telephone services.
--   Voting in 'reality TV' popularity contests - these usually involve premium rate services.
+-   Voting in reality TV popularity contests - these usually involve premium rate services.
 -   Downloading, uploading, or streaming media files that are not work-related, such as music or movies.
--   'Tethering' another device to the MoJ mobile phone, and then using the other device for any of the above activities.
+-   Tethering another device to the MoJ mobile phone, and then using the other device for any of the above activities.
 
 ... as well as any other activities that are not obviously work-related.
 
@@ -107,13 +109,17 @@ You should also [ask](https://intranet.justice.gov.uk/guidance/security/it-compu
 
 ## Avoid using removable media
 
-Removable media like memory sticks are portable and easy-to-use. Unfortunately, this makes them a security risk, so [avoid using them](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/). If however they are essential to your work, please follow the [Use of Removable Media policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/).
+Removable media like memory sticks are portable and easy-to-use. Unfortunately, this makes them a security risk, so [avoid using them](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/). If however they are essential to your work, follow the [Use of Removable Media](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/) guidance.
 
 ## Personalisation of equipment
 
 A popular trend is to adorn laptops with stickers. This is acceptable as long as the material does not cause problems such as upset, offence, or embarrassment. The same applies if you customise the desktop environment of your equipment, for example by changing the desktop image.
 
+## Contacts
+
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+
 ## Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

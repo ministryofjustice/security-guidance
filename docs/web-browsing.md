@@ -2,7 +2,7 @@
 
 The Ministry of Justice \(MoJ\) provides access to the Intranet and Internet for business use. The access helps you to do your job effectively and efficiently. MoJ security policies governs your use of these facilities.
 
-[Reasonable](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/) personal use is allowed, if:
+[Reasonable](acceptable-use.md) personal use is allowed, if:
 
 -   Your line manager agrees.
 -   It does not interfere with the performance of your duties.
@@ -19,7 +19,7 @@ The Department monitors the use of electronic communications and web-browsing ac
 -   **[Web browsing security policy profiles](web-browsing-security-policy-profiles.md)**  
 
 
-## What websites can I access?
+## Websites you can access
 
 The MoJ's approach to website access is continually reviewed and updated. By default, we try to allow access to as much as possible of the internet for all users. Inevitably, there are some restrictions, for the following reasons:
 

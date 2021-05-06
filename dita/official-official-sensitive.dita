@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="official-official-sensitive">
-  <title>OFFICIAL, OFFICIAL-SENSITIVE</title>
+  <title><codeph>OFFICIAL</codeph>, <codeph>OFFICIAL-SENSITIVE</codeph></title>
   <body>
-    <p>h/t <xref href="https://www.gov.uk/guidance/official-sensitive-data-and-it" format="html" scope="external">https://www.gov.uk/guidance/official-sensitive-data-and-it</xref></p>
+    <p platform="github">This information is based upon guidance for handling <xref href="https://www.gov.uk/guidance/official-sensitive-data-and-it" format="html" scope="external"><codeph>OFFICIAL-SENSITIVE</codeph> data and IT</xref>.</p>
   </body>
   <topic id="official">
-    <title>OFFICIAL</title>
+    <title><codeph>OFFICIAL</codeph></title>
     <body>
       <p><codeph>OFFICIAL</codeph> is a UK HM Government information asset classification under the <xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">Government Security Classifications Policy (GSCP)</xref>.</p>
     </body>
   </topic>
   <topic id="official-sensitive">
-    <title>OFFICIAL-SENSITIVE</title>
+    <title><codeph>OFFICIAL-SENSITIVE</codeph></title>
     <body>
-      <p><codeph>OFFICIAL-SENSITIVE</codeph> is <b>not</b> a classification. <codeph>SENSITIVE</codeph> is a handling caveat for a small subset of information marked OFFICIAL that require <i>special</i> handling by staff above and beyond the decribed <codeph>OFFICIAL</codeph> baseline.</p>
+      <p><codeph>OFFICIAL-SENSITIVE</codeph> is <b>not</b> a classification. <codeph>SENSITIVE</codeph> is a handling caveat for a small subset of information marked <codeph>OFFICIAL</codeph> that require <i>special</i> handling by staff above and beyond the described <codeph>OFFICIAL</codeph> baseline.</p>
       <p>The <codeph>SENSITIVE</codeph> handling caveat is a <i>reminder</i> as opposed to a requirement for additional controls nor a description of a minimum set of controls.</p>
+      <p platform="intranet">Guidance on handling <xref href="https://www.gov.uk/guidance/official-sensitive-data-and-it" format="html" scope="external"><codeph>OFFICIAL-SENSITIVE</codeph> data and IT</xref>.</p>
     </body>
     <topic id="descriptors">
       <title>DESCRIPTORS</title>
@@ -38,5 +39,6 @@
       </body>
     </topic>
   </topic>
+	<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

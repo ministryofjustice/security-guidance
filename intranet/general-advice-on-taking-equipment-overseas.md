@@ -1,4 +1,4 @@
-# General advice on taking equipment overseas
+# Taking equipment overseas
 
 As a government official travelling overseas, you should consider that you are highly likely to be of interest to a range of hostile parties, regardless of your role or seniority. Laptops, tablets and phones are very desirable pieces of equipment to steal and travelling overseas with it puts you at a greater security risk of being a victim of theft.
 
@@ -53,7 +53,7 @@ In the event that a device is removed out of your sight \(such as by a customs o
 
 The Technology Service Desk will disable your ability to connect to the MoJ network from your device. Be aware that although the device will still work as a mobile phone, it should be treated as compromised and not used for any MoJ business.
 
-## Contacts for getting help
+## Contacts
 
 In practice, all sorts of things can go wrong from time-to-time. Don't be afraid to report incidents and issues; you will be creating a better and safer work environment.
 
@@ -88,5 +88,5 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 ## Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

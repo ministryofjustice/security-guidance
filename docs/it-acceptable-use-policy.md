@@ -56,14 +56,14 @@ It is important that all Users of an ICT system \(include support and system adm
     Any request to perform an action on an ICT system which contravenes its SyOPs **must be** approved by the system Accreditor or MoJ ITSO in advance.
 
 
-For most Users, access to MoJ ICT systems and information held on them is through using a desktop terminal, remote access laptop and/or mobile device \(such as a Blackberry device\). These devices have the capacity to store large amounts of potentially sensitive information assets. It is important that Users follow Information Management processes and handling guidelines to ensure information is stored and accessed appropriately. Further information on information handling is provided in the [ICT Security - Information Classification and Handling Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/).
+For most Users, access to MoJ ICT systems and information held on them is through using a desktop terminal, remote access laptop and/or mobile device \(such as a Blackberry device\). These devices have the capacity to store large amounts of potentially sensitive information assets. It is important that Users follow Information Management processes and handling guidelines to ensure information is stored and accessed appropriately. Further information on information handling is provided in the [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 
 ### General Security Operating Procedures \(SyOPs\)
 
 The policy refers to a key set of general SyOPs which are listed below:
 
 -   [IT Security Operating Procedures - System Administrators](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/).
--   [IT Security Operating Procedures - Administrators and Users](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-users-and-application-administrators/).
+-   [System Users and Application Administrators](system-users-and-application-administrators.md).
 -   [Remote Working](remote-working.md).
 -   IT Security Operating Procedures - ICT Equipment: Desktop – Corporate.
 -   IT Security Operating Procedures - ICT Equipment: Mobile Devices - RAS Laptop.
@@ -167,7 +167,7 @@ Users need to comply with all applicable operating procedures and ensure that th
 
 -   **POL.ITAUP.020**
 
-    All Users **must request** any changes to ICT system/s or ICT equipment through the IT helpdesk. Further details are provided in [IT Security Operating Procedures - Administrators and Users](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-users-and-application-administrators/).
+    All Users **must request** any changes to ICT system/s or ICT equipment through the IT helpdesk. Further details are provided in [System Users and Application Administrators](system-users-and-application-administrators.md).
 
 
 ## Electronic messaging and use of the Internet
@@ -189,13 +189,13 @@ External E-mail and the Internet are, in general, insecure services where it is 
 
 ### Managing e-mail use
 
-Users are responsible for ensuring that all information is handled in line with protective marking of that information in accordance with [IT Security - Information Classification and Handling Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/).
+Users are responsible for ensuring that all information is handled in line with protective marking of that information in accordance with [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 
 The MoJ is connected to the Government Secure Intranet \(GSi\), which provides a secure environment for sending/receiving E-mails between Government departments. This allows Users with a MoJ E-mail account \(e.g. suffix '`@justice.gsi.gov.uk`'\) to send E-mails which attracts a protective marking up to and including `RESTRICTED` to another MoJ or government User where their E-mail suffix ends in '`.gsi.gov.uk`'.
 
 -   **POL.ITAUP.022**
 
-    All Users **must ensure** that protectively marked information contained within or attached to an e-mail is handled in accordance with [ICT Security - Information Classification and Handling Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/).
+    All Users **must ensure** that protectively marked information contained within or attached to an e-mail is handled in accordance with [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 
 
 E-mail is a major source of malware and route into the MoJ for criminal organisations to defraud staff or exfiltrate information. All Users need to exercise care when handling emails and report any suspicious activity as an IT security incident.

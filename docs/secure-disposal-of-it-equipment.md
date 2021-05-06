@@ -1,4 +1,4 @@
-# Secure Disposal of IT Equipment
+# Secure disposal of IT equipment
 
 The Ministry of Justice \(MoJ\) and its Executive Agencies and Arms Length Bodies use a wide variety of equipment, including desktop computers, laptops, USB memory sticks and other mobile devices. This equipment is procured and managed though MoJ suppliers, who are normally responsible for the secure disposal of the equipment when it is no longer used. Typically, a supplier managed device will have a supplier asset tag on it, making it easier to identify who to ask for help with disposal.
 
@@ -21,14 +21,16 @@ Owners of the data storage devices are responsible for procuring services that m
 
 Wherever possible and appropriate, managers should pool together equipment with that of local colleagues to share service costs.
 
-If you have any concerns about moving items between sites securely, contact the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
-
-## Contacts
+## Secure disposal organisations
 
 The following organisations are approved to help you with security disposal of equipment:
 
 -   TYR security: [g-cloud@tyr-security.co.uk](mailto:g-cloud@tyr-security.co.uk)
 -   Data eliminate: [info@dataeliminate.com](mailto:info@dataeliminate.com)
+
+## Moving equipment between sites
+
+If you have any concerns about moving items between sites securely, contact the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
 
 ## Contact details
 

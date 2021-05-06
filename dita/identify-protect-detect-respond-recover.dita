@@ -20,10 +20,10 @@
             <p>appropriate information security governance processes;</p>
           </li>
           <li>
-            <p>identification and cataloging of information held/processed; and</p>
+            <p>identification and cataloguing of information held/processed; and</p>
           </li>
           <li>
-            <p>identification and cataloging of key operational services provided.</p>
+            <p>identification and cataloguing of key operational services provided.</p>
           </li>
         </ul>
       </body>
@@ -106,5 +106,6 @@
       </body>
     </topic>
   </topic>
+	<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

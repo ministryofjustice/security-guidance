@@ -8,8 +8,8 @@
     Do this before taking an action or working in a particular way.</p>
     <p audience="audience-basic audience-tech">Examples include:
     <ul>
-      <li><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita">General advice on taking equipment overseas</xref>.</li>
-      <li><xref href="personal-devices.dita" format="dita">Security Guidance for Using a Personal Device</xref>.</li>
+      <li><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita" platform="github">General advice on taking equipment overseas</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/accessing-moj-it-systems-overseas/taking-equipment-overseas/" format="html" scope="external" platform="intranet">Taking equipment overseas</xref>.</li>
+      <li><xref href="personal-devices.dita" format="dita" platform="github">Personal Devices</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/using-a-personal-device" format="html" scope="external" platform="github">Personal device use</xref>.</li>
     </ul></p>
     <p>This guidance describes what you should do. The guidance contains steps to follow for <xref href="#steps-to-follow-line-managers" format="dita">Line Managers</xref>, and their <xref href="#steps-to-follow-direct-reports" format="dita">Direct Reports</xref>.</p>
   </body>
@@ -22,7 +22,7 @@
           The request should identify which <ph conref="conrefs.dita#conrefs/moj"/> IT Policies apply.</li>
         <li>Check that the request is valid from a business perspective.
           If not, deny the request (<xref href="#steps-to-follow-line-managers/step7" format="dita">step 7</xref> ).</li>
-        <li>Check that <xref href="acceptable-use.dita" format="dita">Acceptable Use</xref> is in the list of applicable policies.</li>
+        <li>Check that <xref href="acceptable-use.dita" format="dita" platform="github">Acceptable Use</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external" platform="intranet">Acceptable Use</xref> is in the list of applicable policies.</li>
         <li>Review the requirements or obligations within the <ph conref="conrefs.dita#conrefs/moj"/> IT Policies that apply to the request.</li>
         <li>Check that the DR understands and will follow the requirements or obligations.
           For example, have a discussion with them, or ask them for more information or evidence.</li>
@@ -41,7 +41,7 @@
       <ol>
         <li>Check that your business need is valid.</li>
         <li>Check which <ph conref="conrefs.dita#conrefs/moj"/> IT Policies apply to your request.
-        Include <xref href="acceptable-use.dita" format="dita">Acceptable Use</xref> in the list of applicable policies.</li>
+        Include <xref href="acceptable-use.dita" format="dita" platform="github">Acceptable Use</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external" platform="intranet">Acceptable Use</xref> in the list of applicable policies.</li>
         <li>Check that you understand the requirements or obligations within those <ph conref="conrefs.dita#conrefs/moj"/> IT Policies.</li>
         <li>Prepare evidence to show that you will follow all the requirements or obligations.
           Check that you have all the required information.</li>

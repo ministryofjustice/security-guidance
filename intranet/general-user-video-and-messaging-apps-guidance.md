@@ -1,6 +1,4 @@
-# General Apps Guidance
-
-## Overview
+# Apps
 
 When working from home, you still need to communicate with Ministry of Justice \(MoJ\) colleagues. You'll also need to work with people outside the MoJ. There are various tools you might use, besides the standard email and telephone tools. This document tells you about the tools you can, and cannot, use for business purposes. This guidance applies to all staff and contractors who work for the MoJ.
 
@@ -27,7 +25,9 @@ Some of the applications listed make a distinction between general use with a wo
 
 Remember that if you are authorised to use a corporate account, you are speaking and acting for the whole of the MoJ. When working with a personal account, you are speaking and acting as an MoJ employee and a civil servant.
 
-Always follow all [MoJ policies and guidelines regarding public information, including social media \(to access this information you'll need to be connected to the MoJ Intranet\)](https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf). In particular, follow the [Civil Service Code of Conduct](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code).
+Always follow all [MoJ policies and guidelines](https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf) regarding public information, including social media. To access this information you'll need to be connected to the MoJ Intranet.
+
+In particular, follow the [Civil Service Code of Conduct](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code).
 
 ## Using video conference tools safely
 
@@ -109,7 +109,7 @@ Be sensible when using communications tools for MoJ business purposes:
 -   Context is important - a message you might think is funny could be upsetting to someone else.
 -   If something goes wrong, report it.
 
-The bottom line is: *"if there is doubt, there is no doubt - ask for help!".*
+The bottom line is: if there is doubt, there is no doubt - ask for help!
 
 ## Approved tools
 
@@ -158,11 +158,11 @@ If you wish to use a tool that is not listed above, please consult our [Guidance
 
 If there is an application or service that is not currently approved, but which you would like to use, you can request a security review.
 
-Begin the request by filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLSeEEBDS1HBF7meUk3SjgkqxbXBQlKAiBAezJIbKHnEjfNjBTg/viewform?gxids=7628), as best you can. The more information you provide, the better. But don't worry if you have to leave some bits of the form blank.
+Begin the request by filling in the [Request a Security Review of a third-party service](https://docs.google.com/forms/d/e/1FAIpQLSeEEBDS1HBF7meUk3SjgkqxbXBQlKAiBAezJIbKHnEjfNjBTg/viewform?gxids=7628) form, as best you can. The more information you provide, the better. But don't worry if you have to leave some bits of the form blank.
 
 When you submit the form, it is passed to the security team. The app is reviewed, to check things like how safe it is to use, and whether there are any Data Privacy implications. The security team will respond to you with an answer as quickly as possible.
 
-**Note:** You should submit the request, and wait for a formal 'approval' response, *before* you install or use the app on MoJ equipment or information.
+**Note:** You should submit the request, and wait for a formal approval response, *before* you install or use the app on MoJ equipment or information.
 
 If you have any questions about the process, contact the security team: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
@@ -182,5 +182,5 @@ If you have any questions about the process, contact the security team: [securit
 
 ## Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

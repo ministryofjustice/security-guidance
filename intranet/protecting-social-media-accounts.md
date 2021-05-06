@@ -1,8 +1,6 @@
-# Protecting Social Media Accounts
+# Protecting social media accounts
 
-## Summary
-
-Hostile attacks on Social Media accounts pose a serious threat to the Ministry of Justice \(MoJ\) and its reputation. When attacks happen, they quickly become [headline news](https://www.independent.co.uk/news/uk/politics/boris-johnson-dominic-cummings-tweet-civil-service-arrogant-offensive-a9530706.html), and can [happen to any account, anywhere in the world](https://www.nytimes.com/2019/08/30/technology/jack-dorsey-twitter-account-hacked.html).
+Hostile attacks on Social Media accounts pose a serious threat to the Ministry of Justice \(MoJ\) and its reputation. When attacks happen, they quickly become headline news, and can happen to any account, anywhere in the world.
 
 Two types of attacks are common:
 
@@ -114,5 +112,5 @@ Dealing with these attacks can be emotionally draining; even just reading the me
 
 ## Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 
