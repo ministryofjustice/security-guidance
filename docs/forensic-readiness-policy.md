@@ -10,7 +10,7 @@
 
 -   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   ComSO \(Communications Security Officer\), contact the Chief Information Security Office \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
+-   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   `CONFIDENTIAL`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 -   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
@@ -85,7 +85,7 @@ Skilled perpetrators may attempt to cover up their unauthorised or malicious act
 
 #### Deterrence
 
-IT Security awareness training ensures staff are aware of the [IT Security Acceptable Use Policy](it-acceptable-use-policy.md) and that the MoJ has the right and ability to monitor all IT systems for conformance to this policy. This may deter staff from inappropriate, illegal or malicious actions. Additionally, external awareness of MoJ system monitoring capability may also deter unauthorised users from attempting to access or attack MoJ facilities and IT systems.
+IT Security awareness training ensures staff are aware of the [Acceptable Use Policy](acceptable-use-policy.md) and that the MoJ has the right and ability to monitor all IT systems for conformance to this policy. This may deter staff from inappropriate, illegal or malicious actions. Additionally, external awareness of MoJ system monitoring capability may also deter unauthorised users from attempting to access or attack MoJ facilities and IT systems.
 
 -   **POL.FRP.003**
 
@@ -158,7 +158,7 @@ Consideration must be taken in account of the legal and regulatory constraints w
 
 -   **POL.FRP.013**
 
-    All investigations **must be** conducted in line with MoJ IT Security Policies, specifically [IT Security - Acceptable Use Policy](it-acceptable-use-policy.md).
+    All investigations **must be** conducted in line with MoJ IT Security Policies, specifically [Acceptable Use Policy](acceptable-use-policy.md).
 
 -   **POL.FRP.014**
 

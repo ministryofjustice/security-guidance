@@ -2,7 +2,7 @@
 
 This guidance applies to all staff and contractors who work for the Ministry of Justice \(MoJ\).
 
-Everyone working at the MoJ has access to MoJ Information Technology \(IT\) resources. You must use them in an acceptable way. This guidance explains what that means. The definitive list of Acceptable Use Policy statements is [here](it-acceptable-use-policy.md).
+Everyone working at the MoJ has access to MoJ Information Technology \(IT\) resources. You must use them in an acceptable way. This guidance explains what that means. The definitive list of Acceptable Use Policy statements is [here](acceptable-use-policy.md).
 
 ## Summary
 
@@ -12,8 +12,8 @@ Be sensible when using MoJ IT resources:
 -   Protect the resources at all times, to help prevent unacceptable use.
 -   If the use would cause problems, upset, offence, or embarrassment, it's probably not acceptable.
 -   Context is important. Security risks can increase when working outside your normal workplace.
--   Be aware that your use of resources is monitored. During an investigation into a security incident, IT forensic techniques capture evidence.
--   If you're not sure if something is acceptable, ask for help first.
+-   All use of MoJ IT resources is monitored and logged, at all times. This data can be used for business purposes at any time, especially during an investigation into a security incident, where IT forensic techniques help capture evidence.
+-   If you're not sure if something is acceptable, [ask for help](#contact-details) first.
 -   Above all, if you think there is a problem, [report it](reporting-an-incident.md) or ask for help.
 
 The way you use IT is important, because it indicates your approach to work, and can be taken into account when assessing your behaviour and performance.
@@ -70,7 +70,7 @@ If you get an email from anyone or anywhere that you are not sure about, remembe
 -   Don't open any attachments.
 -   Don't click on any links in the email.
 
-If there is any doubt, or you are worried that the [email might be malicious](https://intranet.justice.gov.uk/news/ntk-phishing-dont-take-the-bait/) or inappropriate, [report it immediately](reporting-an-incident.md) as an IT security incident.
+If there is any doubt, or you are worried that the [email might be malicious](https://intranet.justice.gov.uk/news/ntk-phishing-dont-take-the-bait/) or inappropriate, [report it immediately](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) as an IT security incident.
 
 ## Personal use of MoJ IT
 

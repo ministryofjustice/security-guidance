@@ -66,7 +66,7 @@ The Government classification scheme defines how information should be labelled 
 
 All IT hardware and removable media assets **must** be labelled with the highest classification from among each of the individual information assets stored or processed on it.
 
-**Note:** This classification might be reduced if sufficient security controls are applied, for example whole disk encryption, and if there is agreement with the system assurer or Chief Information Security Office \(CISO\).
+**Note:** This classification might be reduced if sufficient security controls are applied, for example whole disk encryption, and if there is agreement with the system assurer or Chief Information Security Officer \(CISO\).
 
 All output from an IT system **must** be given the classification of the highest of each of the individual information assets contained within that output.
 

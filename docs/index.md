@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 4 May 2021.
+**Note:** This guidance is dated: 6 May 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 4 June 2021.
+The offline versions of this guidance are time-limited, and are not valid after 6 June 2021.
 
 ### Searching this content
 
@@ -147,10 +147,9 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Responsibility for assets
 
-|[Acceptable use](acceptable-use.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/)\)|All users|
-|[Acceptable use policy](acceptable-use-policy.md)|All users \(Policy\)|
+|[Acceptable use of Information Technology at work](acceptable-use.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/)\)|All users|
+|[Acceptable Use Policy](acceptable-use-policy.md)|All users \(Policy\)|
 |[Guidance on IT Accounts and Assets for Long Term Leave](long-term-leave.md)|All users|
-|[IT Acceptable Use Policy](it-acceptable-use-policy.md)|All users \(Policy\)|
 |[Protect Yourself Online](protect-yourself-online.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/protect-yourself-online/)\)|All users|
 |[Web browsing security](web-browsing.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/)\)|All users|
 

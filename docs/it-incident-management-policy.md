@@ -8,7 +8,7 @@
 
 -   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   ComSO \(Communications Security Officer\), contact the Chief Information Security Office \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
+-   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   `CONFIDENTIAL`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 -   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
@@ -57,7 +57,7 @@ Such events will result in the MoJ, individuals or IT systems and/or the informa
 
 IT Security related incidents include \(but not limited to\):
 
--   Breaches of the [IT Security - Acceptable Use Policy](it-acceptable-use-policy.md);
+-   Breaches of the [Acceptable Use Policy](acceptable-use-policy.md);
 
 -   Detection of malicious code \(e.g. viruses and malware\);
 
@@ -65,7 +65,7 @@ IT Security related incidents include \(but not limited to\):
 
 -   Scanning and probing of a network \(where significant network resources are consumed\);
 
--   In appropriate use of MoJ IT assets as defined in the [IT Security - Acceptable Use Policy](it-acceptable-use-policy.md);
+-   Inappropriate use of MoJ IT assets as defined in the [Acceptable Use Policy](acceptable-use-policy.md);
 
 -   The discovery of a new network vulnerability or release of a patch or software update which is considered critical or an emergency;
 
@@ -146,7 +146,7 @@ Examples of a medium level impact event include \(but not limited to\):
 
 -   Deliberate disregard for the MoJ [IT Security Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/) leading to minor breach in security or the potential of data loss;
 
--   Inappropriate use of MoJ IT assets as defined in [IT Security - Acceptable Use Policy](it-acceptable-use-policy.md);
+-   Inappropriate use of MoJ IT assets as defined in [Acceptable Use Policy](acceptable-use-policy.md);
 
 -   Loss of data or IT asset \(where the data or asset does not contain any personal data and is not protectively marked\);
 
