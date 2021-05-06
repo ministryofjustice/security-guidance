@@ -75,7 +75,6 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta audience="audience-basic audience-tech"><navtitle>Responsibility for assets</navtitle></topicmeta>
 			<topicref href="acceptable-use.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="acceptable-use-policy.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="it-acceptable-use-policy.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="long-term-leave.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="protect-yourself-online.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>

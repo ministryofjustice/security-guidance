@@ -64,7 +64,7 @@
     <title>Change management</title>
     <body>
       <ul>
-        <li>All changes to an <ph conref="conrefs.dita#conrefs/policymoj"/> System <ph conref="conrefs.dita#conrefs/policymust"/> be approved and tested prior to implementation on the live system (e.g. in a Non-Live Environment).</li>
+        <li>All changes to an <ph conref="conrefs.dita#conrefs/moj"/> Systems <ph conref="conrefs.dita#conrefs/policymust"/> be approved and tested prior to implementation on the live system (e.g. in a Non-Live Environment).</li>
         <li>System Administrators <ph conref="conrefs.dita#conrefs/policymust"/> maintain an audit log of configuration changes and ensure that changes do not affect the secure operation of the IT system.</li>
         <li>Changes <ph conref="conrefs.dita#conrefs/policymustnot"/> be implemented unless the corresponding Operational Change Request (OCR) has been approved by <xref href="#contact-details" format="dita">IT Security</xref>.</li>
         <li>Any change which affect the security posture or risk profile of the system
@@ -75,7 +75,7 @@
     <title>Patch management</title>
     <body>
       <ul>
-        <li>All system software <ph conref="conrefs.dita#conrefs/policymust"/> be kept patched and up-to-date in accordance with the <ph conref="conrefs.dita#conrefs/policymoj"/> <xref href="patch-management-guide.dita" format="dita">Patch Management Guide</xref>.</li>
+        <li>All system software <ph conref="conrefs.dita#conrefs/policymust"/> be kept patched and up-to-date in accordance with the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="patch-management-guide.dita" format="dita">Patch Management Guide</xref>.</li>
         <li>If one exists, a security patch <ph conref="conrefs.dita#conrefs/policymust"/> first be tested in the non-live test environment.</li>
         <li>The system administrator <ph conref="conrefs.dita#conrefs/policymust"/>:
           <ul>
@@ -85,7 +85,7 @@
             <li>Finding out if there are common problems with applying the new patch of software.</li>
           </ul></li>
           <li>Un-patched system software <ph conref="conrefs.dita#conrefs/policymust"/> be identified and reported to the <ph conref="conrefs.dita#conrefs/moj"/> OST: <ph conref="conrefs.dita#conrefs/ostemail"/>.</li>
-          <li>Problems discovered in patch testing <ph conref="conrefs.dita#conrefs/policyshould"/> be documented and reported to the <ph conref="conrefs.dita#conrefs/policymoj"/> <ph conref="conrefs.dita#conrefs/cisolong"/> and system owner.</li></ul>
+          <li>Problems discovered in patch testing <ph conref="conrefs.dita#conrefs/policyshould"/> be documented and reported to the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/cisolong"/> and system owner.</li></ul>
     </body>
   </topic>
   <topic id="audit-and-protective-monitoring">

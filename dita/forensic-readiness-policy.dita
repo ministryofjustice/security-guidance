@@ -79,7 +79,7 @@
       <topic id="deterrence">
         <title>Deterrence</title>
         <body>
-          <p>IT Security awareness training ensures staff are aware of the <xref href="it-acceptable-use-policy.dita" format="dita">IT Security Acceptable Use Policy</xref> and that the <ph conref="conrefs.dita#conrefs/moj"/> has the right and ability to monitor all IT systems for conformance to this policy. This may deter staff from inappropriate, illegal or malicious actions. Additionally, external awareness of <ph conref="conrefs.dita#conrefs/moj"/> system monitoring capability may also deter unauthorised users from attempting to access or attack <ph conref="conrefs.dita#conrefs/moj"/> facilities and IT systems.</p>
+          <p>IT Security awareness training ensures staff are aware of the <xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref> and that the <ph conref="conrefs.dita#conrefs/moj"/> has the right and ability to monitor all IT systems for conformance to this policy. This may deter staff from inappropriate, illegal or malicious actions. Additionally, external awareness of <ph conref="conrefs.dita#conrefs/moj"/> system monitoring capability may also deter unauthorised users from attempting to access or attack <ph conref="conrefs.dita#conrefs/moj"/> facilities and IT systems.</p>
           <dl>
             <dlentry>
               <dt>POL.FRP.003</dt>
@@ -167,7 +167,7 @@
           <dl>
             <dlentry>
               <dt>POL.FRP.013</dt>
-              <dd>All investigations <b>must be</b> conducted in line with <ph conref="conrefs.dita#conrefs/moj"/> IT Security Policies, specifically <xref format="dita" href="it-acceptable-use-policy.dita">IT Security - Acceptable Use Policy</xref>.</dd>
+              <dd>All investigations <b>must be</b> conducted in line with <ph conref="conrefs.dita#conrefs/moj"/> IT Security Policies, specifically <xref format="dita" href="acceptable-use-policy.dita">Acceptable Use Policy</xref>.</dd>
             </dlentry>
             <dlentry>
               <dt>POL.FRP.014</dt>

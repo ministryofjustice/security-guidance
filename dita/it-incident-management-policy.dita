@@ -45,7 +45,7 @@
           <p>IT Security related incidents include (but not limited to):</p>
           <ul>
             <li>
-              <p>Breaches of the <xref href="it-acceptable-use-policy.dita" format="dita">IT Security - Acceptable Use Policy</xref>;</p>
+              <p>Breaches of the <xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref>;</p>
             </li>
             <li>
               <p>Detection of malicious code (e.g. viruses and malware);</p>
@@ -57,7 +57,7 @@
               <p>Scanning and probing of a network (where significant network resources are consumed);</p>
             </li>
             <li>
-              <p>In appropriate use of <ph conref="conrefs.dita#conrefs/moj"/> IT assets as defined in the <xref href="it-acceptable-use-policy.dita" format="dita">IT Security - Acceptable Use Policy</xref>;</p>
+              <p>Inappropriate use of <ph conref="conrefs.dita#conrefs/moj"/> IT assets as defined in the <xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref>;</p>
             </li>
             <li>
               <p>The discovery of a new network vulnerability or release of a patch or software update which is considered critical or an emergency;</p>
@@ -156,7 +156,7 @@
               <p>Deliberate disregard for the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/" format="html" scope="external">IT Security Policy</xref> leading to minor breach in security or the potential of data loss;</p>
             </li>
             <li>
-              <p>Inappropriate use of <ph conref="conrefs.dita#conrefs/moj"/> IT assets as defined in <xref href="it-acceptable-use-policy.dita" format="dita">IT Security - Acceptable Use Policy</xref>;</p>
+              <p>Inappropriate use of <ph conref="conrefs.dita#conrefs/moj"/> IT assets as defined in <xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref>;</p>
             </li>
             <li>
               <p>Loss of data or IT asset (where the data or asset does not contain any personal data and is not protectively marked);</p>
