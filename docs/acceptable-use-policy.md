@@ -100,11 +100,11 @@ Removable storage media include devices such as USB memory sticks, writeable CDs
 
 -   **POL.ITAUP.010**
 
-    All Users **must ensure** that all data stored on or transported by removable media is in accordance with the applicable system SyOPs.
+    All Users **MUST** ensure that all data stored on or transported by removable media is in accordance with the applicable system SyOPs.
 
 -   **POL.ITAUP.011**
 
-    All Users **must seek** approval from MoJ OST prior to any bulk transfer of protectively marked data using removable media. MoJ ICT IA will advise on any technical and procedural requirements such as data encryption and handling arrangements.
+    All Users **MUST** seek approval from the MoJ [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) prior to any bulk transfer of protectively marked data using removable media. [MoJ Cyber Security](#contact-details) provide advice on any technical and procedural requirements such as data encryption and handling arrangements.
 
 
 ### Passwords
@@ -113,64 +113,70 @@ The username and password combination, in the main, is the primary access creden
 
 -   **POL.ITAUP.012**
 
-    All Users **must not** share or disclose any passwords with any other person.
+    All Users **MUST NOT** share or disclose any passwords with any other person.
 
 -   **POL.ITAUP.013**
 
-    All Users **must not:**
+    All Users **MUST NOT**:
 
     -   Attempt to gain unauthorised access to another User's IT account.
-    -   Attempt to use another Users access credentials to gain access to an ICT system.
+    -   Attempt to use another Users access credentials to gain access to an MoJ system.
     -   Attempt to access information for which they do not have a 'need-to-know'.
-    -   Use the same password on more than one ICT system.
+    -   Use the same password on more than one MoJ system.
 
 ## Legal and regulatory requirements
 
-There are a number of legal and regulatory requirements for which the MoJ must comply with, this in addition to HMG security policy as expressed in the [HMG Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework).
+There are a number of legal and regulatory requirements with which the MoJ must comply. This is in addition to HMG security policy as expressed in the [HMG Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework).
 
 -   **POL.ITAUP.014**
 
-    All Users **must be** made aware of legal and regulatory requirements they must adhere to when accessing MoJ ICT systems. This must be included as part of the SyOPs.
+    All Users **MUST** be made aware of the legal and regulatory requirements that they must adhere to when accessing MoJ systems. The list of legal and regulatory requirements must be included as part of the SyOPs.
 
 
 ## MoJ's Corporate Image
 
-Communications sent from MoJ ICT systems or products developed using them \(e.g. MoJ branded document or PowerPoint presentation\) can damage the public image of the MoJ if, it is for purposes not in the interest of the MoJ, or, it is abusive, offensive, defamatory, obscene, or indecent, or, of such a nature as to bring the MoJ or any its employees into disrepute.
+Communications sent from MoJ systems, or products developed using them such as MoJ branded documents or PowerPoint presentations, can damage the public image of the MoJ if it is for purposes not in the interest of the MoJ, or if it is abusive, offensive, defamatory, obscene, or indecent, or if it is of such a nature as to bring the MoJ or any its employees into disrepute.
 
 -   **POL.ITAUP.015**
 
-    All Users **must ensure** that MoJ ICT systems are not used in an abusive, offensive, defamatory, obscene, or indecent, or, of such a nature as to bring the MoJ or any its employees into disrepute.
+    All Users **MUST** ensure that MoJ systems are not used in an abusive, offensive, defamatory, obscene, or indecent, or other such nature as to bring the MoJ or any its employees into disrepute.
 
 
 ## Potential to cause offence and harm
 
-The MoJ has a duty of care to all staff and to provide a positive working environment, part of this involves ensuring all staff maintain a high standard of behaviour and conduct.
+The MoJ has a duty of care to all staff and to provide a positive working environment. Part of this involves ensuring all staff maintain a high standard of behaviour and conduct.
 
 -   **POL.ITAUP.016**
 
-    MoJ ICT systems **must not** be used for any activity that will cause offence to MoJ employees, customers, suppliers, partners or visitors, or in a way that violates the [MoJ Code of Conduct](https://intranet.justice.gov.uk/guidance/hr/conduct-behaviour/).
+    MoJ systems **MUST NOT** be used for any activity that might cause offence to MoJ employees, customers, suppliers, partners or visitors, or in a way that violates the [MoJ Code of Conduct](https://intranet.justice.gov.uk/guidance/hr/conduct-behaviour/).
 
 
 ## Personal use
 
-The MoJ permits limited personal use of its ICT systems provided this does not conflict or interfere with normal business activities. The MoJ monitors the use of its IT systems and any personal use is subject to monitoring and auditing \(see [here](#monitoring-of-communications) \), and may also be retained in backup format even after deletion from live systems.
+The MoJ permits limited personal use of its IT systems, provided this does not conflict or interfere with normal business activities. The MoJ monitors the use of its IT systems. Any use of MoJ systems, including personal use, is subject to monitoring and auditing \(see [here](#monitoring-of-communications) \). Information about the use, for example log files, might be retained in backup format even after deletion from live systems.
 
-The MoJ reserves the right to restrict personal use of its ICT systems. The main methods employed are:
+The MoJ reserves the right to monitor, log, and restrict personal use of its systems. The main methods employed are:
 
--   Filtering of Internet and e-mail traffic – All Internet and e-mail traffic is filtered and analysed, further details are provided [here](#electronic-messaging-and-use-of-the-internet).
--   Policy and procedures – This policy and associated SyOPs set out the restrictions placed on the use of an ICT system.
+-   **Filtering of Internet and e-mail traffic**
+
+    All Internet and e-mail traffic is filtered and analysed, further details are provided [here](#electronic-messaging-and-use-of-the-internet).
+
+-   **Policy and procedures**
+
+    This policy and associated SyOPs set out the restrictions placed on the use of an MoJ system.
+
 
 -   **POL.ITAUP.017**
 
-    Users **must ensure** any personal use of MoJ ICT systems does not conflict or interfere with normal business activities. Any conflict is to be reported to their line manager.
+    Users **MUST** ensure that any personal use of MoJ systems does not conflict or interfere with normal business activities. Any conflict is to be reported to their line manager.
 
 -   **POL.ITAUP.018**
 
-    Users **must ensure** that any personal use of MoJ ICT systems is inline with any applicable SyOPs and this policy.
+    Users **MUST** ensure that any personal use of MoJ systems is compatible with any applicable SyOPs and this policy.
 
 -   **POL.ITAUP.019**
 
-    Users **must be** aware that any personal use of MoJ ICT systems which contravenes any applicable SyOPs, or this policy, constitutes a breach of the IT Security Policy and may result in disciplinary action.
+    Users **MUST** be aware that any personal use of MoJ systems which contravenes any applicable SyOPs, or this policy, constitutes a breach of the [IT Security Policy](it-security-policy-overview.md) and might result in disciplinary action.
 
 
 ## Maintaining system and data integrity
@@ -179,16 +185,16 @@ Users need to comply with all applicable operating procedures and ensure that th
 
 -   **POL.ITAUP.020**
 
-    All Users **must request** any changes to ICT system/s or ICT equipment through the IT helpdesk. Further details are provided in [IT Security Operating Procedures - Administrators and Users](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-users-and-application-administrators/).
+    All Users **MUST** request any changes to systems or equipment through the process identified in the system SyOP; failing that, contact the IT Helpdesk. Further details are provided in [System Users and Application Administrators](system-users-and-application-administrators.md) guidance.
 
 
 ## Electronic messaging and use of the Internet
 
-Due to the risks associated with electronic communications such as email and the Internet, the MoJ controls and monitors usage of MoJ ICT systems in accordance with applicable legal and regulatory requirements.
+Due to the risks associated with electronic communications such as email and the Internet, the MoJ controls and monitors usage of MoJ systems in accordance with applicable legal and regulatory requirements.
 
-IT systems are designed to protect the MoJ from Internet borne attacks, reduce the risk of MoJ information being leaked or compromised, and, support the MoJ in providing a safe working environment. This is mainly achieved through the filtering and monitoring of all Internet and e-mail traffic.
+IT systems are designed to protect the MoJ from Internet borne attacks, reduce the risk of MoJ information being leaked or compromised, and support the MoJ in providing a safe working environment. This is mainly achieved through the filtering and monitoring of all Internet and e-mail traffic.
 
-Also, the use of any high bandwidth services, such as video steaming websites, creates network capacity issues which cause the poor performance key MoJ ICT services. As such, the MoJ restricts access to the Internet based on job role. Amendments can be made on the submissions of a business case for approval by MoJ Operational Security Team \(OST\).
+Also, the use of any high bandwidth services, such as video steaming websites, might create network capacity issues which might cause poor performance in MoJ services. As such, the MoJ restricts access to the Internet based on job role. Amendments can be made on the submissions of a business case for approval by the MoJ [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk).
 
 The MoJ will regard as a disciplinary offence any usage of electric communications \(e-mail and other methods such as instant messaging\) and the Internet which, breaks the law, contravenes MoJ HR policies, or involves unauthorised access or handling of material that is deemed to be inappropriate, abusive, offensive, defamatory, obscene or indecent.
 
@@ -196,68 +202,72 @@ External E-mail and the Internet are, in general, insecure services where it is 
 
 -   **POL.ITAUP.021**
 
-    All Users **must use** the Internet and e-mail \(and other electronic communication systems\) in accordance with this policy document.
+    All Users **MUST** use the Internet and e-mail \(and other electronic communication systems\) only in accordance with this policy document.
 
 
 ### Managing e-mail use
 
-Users are responsible for ensuring that all information is handled in line with protective marking of that information in accordance with [IT Security - Information Classification and Handling Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/).
+Users are responsible for ensuring that all information is handled in line with protective marking of that information in accordance with [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 
-The MoJ is connected to the Government Secure Intranet \(GSi\), which provides a secure environment for sending/receiving E-mails between Government departments. This allows Users with a MoJ E-mail account \(e.g. suffix '`@justice.gsi.gov.uk`'\) to send E-mails which attracts a protective marking up to and including `RESTRICTED` to another MoJ or government User where their E-mail suffix ends in '`.gsi.gov.uk`'.
+The MoJ is connected to the Government Secure Intranet \(GSi\), which provides a secure environment for sending and receiving E-mails between Government departments. This allows Users with an MoJ E-mail account \(e.g. suffix '`@justice.gov.uk`'\) to send E-mails which attracts a protective marking up to and including `OFFICIAL-SENSITIVE` to another MoJ or government User where their E-mail suffix ends in '`.gov.uk`'.
 
 -   **POL.ITAUP.022**
 
-    All Users **must ensure** that protectively marked information contained within or attached to an e-mail is handled in accordance with [ICT Security - Information Classification and Handling Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/).
+    All Users **MUST** ensure that protectively marked information contained within or attached to an e-mail is handled in accordance with the [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 
 
-E-mail is a major source of malware and route into the MoJ for criminal organisations to defraud staff or exfiltrate information. All Users need to exercise care when handling emails and report any suspicious activity as an IT security incident.
+E-mail is a major source of malware and routes into the MoJ for criminal organisations to defraud staff or exfiltrate information. All Users need to exercise care when handling emails, and should [report any suspicious activity as an IT security incident](reporting-an-incident.md).
 
 -   **POL.ITAUP.023**
 
-    All Users **must ensure** that they do not:
+    All Users **MUST** ensure that they do not:
 
     -   Open any attachments to an E-mail where the source is untrusted, unknown or unsolicited.
     -   Click on any links within an E-mail where the source is untrusted, unknown or unsolicited.
 -   **POL.ITAUP.024**
 
-    Where a User suspects that an E-mail received is from an untrusted, unknown or unsolicited source, they **must** report it as an IT security incident.
+    Where a User suspects that an E-mail received is from an untrusted, unknown or unsolicited source, they **MUST** [report it as an IT security incident](reporting-an-incident.md).
 
 
 ## Connectivity and remote access
 
-Remote access is provided to MoJ ICT systems and services allowing Users access from offsite and home locations to connect in. The main methods of access are either via a RAS laptop and/or Blackberry device. In the main, remote access is to a protectively marked MoJ IT system \(up to and including `RESTRICTED`\). As such Users need to be aware of both the security controls and procedures of the device used as well as the general physical security considerations. This includes any restriction on the carriage of such devices as they may contain HMG protectively marked data and HMG cryptographic material.
+Remote access is provided to MoJ systems and services, allowing Users access from offsite and home locations to connect in. In the main, remote access is to a protectively marked MoJ IT system \(up to and including `OFFICIAL-SENSITIVE`\). As such Users need to be aware of both the security controls and procedures of the device used, as well as the general physical security considerations. This includes any restriction on the carriage of such devices as they may contain HMG protectively marked data and HMG cryptographic material.
 
-MoJ ICT IA maintains a list of countries where carriage and use of remote access devices is permitted.
+The MoJ [Cyber Security team](#contact-details) maintains a list of countries where carriage and use of remote access devices is permitted.
 
 Further details can be found in the [Remote Working](remote-working.md) guidance.
 
 -   **POL.ITAUP.025**
 
-    All Users **must be** aware of the [Remote Working](remote-working.md) guidance and must confirm that they have read and understood it before being provision with any remote access devices or equipment \(e.g. RSA token\).
+    All Users **MUST** be aware of the [Remote Working](remote-working.md) guidance and **MUST** confirm that they have read and understood it before being provided with any remote access devices or equipment \(e.g. RSA token\).
 
 -   **POL.ITAUP.026**
 
-    Any User wishing to take a remote access device out of the UK **must consult** [Remote Working](remote-working.md) guidance before doing so or the applicable device IT Security Operating Procedures document.
+    Any User wishing to take a remote access device out of the UK **MUST** consult the [Remote Working](remote-working.md) guidance before doing so, and the applicable device IT Security Operating Procedures document.
 
 
 ## Monitoring of communications
 
 Communications may be monitored without notice and on a continual basis for a number of reasons including compliance with legal obligations, effective maintenance of IT systems, preventing or detecting unauthorised use or criminal activities \(including cyber-intrusion\), monitoring of service or performance standards, providing evidence of business transactions, and checking adherence to policies, procedures, and contracts.
 
-The MoJ monitors telephone usage, network, email and Internet traffic data \(including sender, receiver, subject; attachments to an e-mail; numbers called; duration of calls; domain names of websites visited, duration of visits, and files uploaded or downloaded from the Internet\) at a network level.
+The MoJ monitors telephone usage, network, email and Internet traffic data \(including sender, receiver, subject, attachments to an e-mail, numbers called, duration of calls, domain names of websites visited, duration of visits, and files uploaded or downloaded from the Internet\) at a network level.
 
-The MoJ, so far as possible and appropriate, respects the privacy and autonomy whilst working of all Users, but further to [this information](#personal-use), any personal use of MoJ ICT systems will also be subject to monitoring. By carrying out personal activities using MoJ ICT systems, Users are consenting to the MoJ processing any sensitive personal data which may be revealed by such monitoring \(for example regular visits to a set of websites\).
+The MoJ, so far as possible and appropriate, respects the privacy and autonomy whilst working of all Users, but further to [this information](#personal-use), any personal use of MoJ systems is also subject to monitoring. By carrying out personal activities using MoJ systems, Users are consenting to the MoJ processing any sensitive personal data which may be revealed by such monitoring \(for example regular visits to a set of websites\).
 
-For the purposes of business continuity it may sometimes be necessary for the MoJ to access business communications \(including within e-mail mailboxes\) while a User is absent from work \(including holiday and illness\). Access will only be granted through submission of a formal request to the IT Helpdesk where approval is required from the relevant line manager where the MoJ ITSO and MoJ HR may be consulted.
+For the purposes of business continuity, it may sometimes be necessary for the MoJ to access business communications \(including within e-mail mailboxes\) while a User is absent from work \(including but not limited to holiday and illness\). Access will normally be granted following submission of a formal request to the IT Helpdesk by the relevant line manager. The MoJ Chief Information Security Officer \(CISO\) and MoJ HR may be consulted.
 
 -   **POL.ITAUP.027**
 
-    All Users **must be** aware their electronic communications are being monitored in accordance with this policy.
+    All Users **MUST** be aware that their electronic communications are being monitored in accordance with this policy.
 
 -   **POL.ITAUP.028**
 
-    All Users **must be** aware that business communication \(such as e-mail mailboxes\) may be accessed if they are absent from work. This can only be requested and authorised by a line manager where the MoJ ITSO and MoJ HR may be consulted.
+    All Users **MUST** be aware that business communication \(such as e-mail mailboxes\) may be accessed if they are absent from work. Normally, this would be requested and authorised by a line manager. The MoJ CISO and MoJ HR may be consulted.
 
+
+## Contact details
+
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 
