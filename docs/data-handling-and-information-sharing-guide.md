@@ -203,7 +203,7 @@ The most important points to remember are that passwords should be:
 -   At least 8 characters long.
 -   No more than 128 characters long.
 -   Not obvious.
--   Not a dictionary word. A combination of dictionary words might be suitable, such as '`CorrectHorseBatteryStaple`'.
+-   Not a dictionary word. A combination of dictionary words might be suitable, such as “`CorrectHorseBatteryStaple`”.
 -   Unique for each account or service.
 
 If a system or another person provides you with a password, change it before doing any MoJ work on that system. Examples of 'single-use' passwords include:

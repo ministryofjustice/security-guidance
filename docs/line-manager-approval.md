@@ -7,7 +7,7 @@ Some MoJ IT Policy documents need you to get a review or approval from a Line Ma
 Examples include:
 
 -   [General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md).
--   [Security Guidance for Using a Personal Device](personal-devices.md).
+-   [Personal Devices](personal-devices.md)[Personal device use](https://intranet.justice.gov.uk/guidance/security/it-computer-security/using-a-personal-device).
 
 This guidance describes what you should do. The guidance contains steps to follow for [Line Managers](#steps-to-follow-line-managers), and their [Direct Reports](#steps-to-follow-direct-reports).
 

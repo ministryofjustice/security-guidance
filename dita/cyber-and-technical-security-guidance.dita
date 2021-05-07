@@ -423,7 +423,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="personal-devices.dita" format="dita">Security Guidance for Using a Personal Device</xref></entry>
+                <entry colname="col1" align="left"><xref href="personal-devices.dita" format="dita">Personal Devices</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
             </tbody></tgroup></table>
@@ -553,10 +553,18 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="access-control-guide.dita" format="dita" type="topic">Access Control Guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-				<row>
-					<entry colname="col1" align="left"><xref href="enterprise-access-control-policy.dita" format="dita">Enterprise Access Control Policy</xref></entry>
-					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-				</row>
+              <row>
+                <entry colname="col1" align="left"><xref href="access-control-policy.dita" format="dita" type="topic">Access Control Policy</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="enterprise-access-control-policy.dita" format="dita">Enterprise Access Control Policy</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="privileged-account-management-guide.dita" format="dita" type="topic">Privileged Account Management Guide</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
             </tbody></tgroup></table>
           </body>
         </topic>
@@ -585,7 +593,19 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="privileged-account-management-guide.dita" format="dita" type="topic">Privileged Account Management Guide</xref></entry>
+                <entry colname="col1" align="left"><xref href="privileged-user-backups-removable-media-and-incident-management-guide.dita" format="dita" type="topic">Privileged User Backups, Removable Media and Incident Management Guide</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1" align="left"><xref href="privileged-user-configuration-patching-and-change-management-guide.dita" format="dita" type="topic">Privileged User Configuration, Patching and Change Management Guide</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1" align="left"><xref href="privileged-user-guide.dita" format="dita" type="topic">Privileged User Guide</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1" align="left"><xref href="privileged-user-logging-and-protective-monitoring-guide.dita" format="dita" type="topic">Privileged User Logging and Protective Monitoring Guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
             </tbody></tgroup></table>

@@ -58,7 +58,7 @@ It must be at least 12 characters long \(the longer the better\).
 
 You can choose to make it pronounceable and memorable \(passphrase\) such as `CyberSecurityRules!` or `Sup3rD00p3rc0Mp3X!`, as long as you're comfortable remembering it and won't need to write it down.
 
-There are [password guidance standards](https://intranet.justice.gov.uk/guidance/security/it-computer-security/passwords/) on the MoJ intranet.
+There are password guidance standards [here](passwords.md).
 
 Your primary password **must** be unique and you should **never** use it anywhere else \(including a similar version, for example, by simply adding numbers to the end\)
 
@@ -79,11 +79,11 @@ If you don't have an MoJ-issued work smartphone you may use a personal device fo
 
 ### Sharing passwords
 
-To share a password [create a 'shared folder' in the LastPass Vault](https://support.logmeininc.com/lastpass/help/manage-lastpass-teams-shared-folders-users-lp010061).
+To share a password [create a “shared folder” in the LastPass Vault](https://support.logmeininc.com/lastpass/help/manage-lastpass-teams-shared-folders-users-lp010061).
 
 You should make sure the credentials you're sharing are only available to the people who need to access them for MoJ work. It is your responsibility to remove items or people from shared folders when access to the credential\(s\) is no longer required.
 
-\(You must not share your LastPass main password with anyone, even your line manager or MoJ security.\)
+You must not share your LastPass main password with anyone, even your line manager or MoJ security.
 
 ### Using it overseas
 

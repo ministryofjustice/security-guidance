@@ -1,6 +1,6 @@
-# Minimum User Clearance Requirements Guide
+# Minimum user clearance
 
-## Introduction
+Minimum User Clearance Requirements Guide
 
 This Minimum User Clearance Requirements Guide outlines the level of security clearance required for staff in order to access specific account types.
 
@@ -40,17 +40,17 @@ Please contact the Cyber Assistance Team and refer to the [Vetting Policy](https
 
 To check someone's clearance status, collect the following information:
 
--   Their firstname.
--   Their lastname.
+-   Their first name.
+-   Their last name.
 -   Their date of birth.
 
-Send this information to the MoJ Group Security Team, by emailing: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk). The team will check with the Cluster, to determine the individual's clearance status, if any. If you are authorised to receive the answer, the team will reply to you with the answer.
+Send this information to the MoJ Group Security Team, by emailing: [MoJ group security](mailto:mojgroupsecurity@justice.gov.uk). The team will check with the Cluster, to determine the individual's clearance status, if any. If you are authorised to receive the answer, the team will reply to you with the answer.
 
-## Contact details
+## Contacts
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

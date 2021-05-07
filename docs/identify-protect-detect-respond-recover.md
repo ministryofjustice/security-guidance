@@ -14,9 +14,9 @@ IDENTIFY is a prerequisite standard that requires:
 
 -   appropriate information security governance processes;
 
--   identification and cataloging of information held/processed; and
+-   identification and cataloguing of information held/processed; and
 
--   identification and cataloging of key operational services provided.
+-   identification and cataloguing of key operational services provided.
 
 
 ### PROTECT
@@ -68,6 +68,10 @@ RECOVER is the core standard to define the minimum of how organisations should r
 
 -   from DETECT & RESPOND, immediately implementing controls to ensure the same issue cannot arise in the same way again, ensuring systematic vulnerabilities are proportional remediated.
 
+
+## Contact details
+
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

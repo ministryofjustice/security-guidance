@@ -1,6 +1,6 @@
 # Technical Security Controls Guide: Defensive Layer 2
 
-**Parent topic:**[Technical Security Controls Guide](technical-security-controls-guide.md)
+**Parent topic:** [Technical Security Controls Guide](technical-security-controls-guide.md)
 
 ## Defensive layer 2: Implementing monitoring capabilities
 

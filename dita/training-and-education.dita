@@ -2,23 +2,21 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="training-and-education">
   <title>Training and Education</title>
-  <topic id="why">
-    <title>Why?</title>
-    <body>
-      <p>The <ph conref="conrefs.dita#conrefs/mojlong"/>'s Information Security awareness programme plays an essential part in maintaining security.
-      It informs all <ph conref="conrefs.dita#conrefs/moj"/> staff of:
-      <ul>
-        <li>Their duties with regard to security.</li>
-        <li>Their responsibilities to protect the assets (information, equipment, people and buildings) they have access to and use.</li>
-        <li>The importance of reporting any actual or suspected security incidents.</li>
-      </ul></p>
-    </body>
-  </topic>
+  <body>
+    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/>'s Information Security awareness programme plays an essential part in maintaining security.
+    It informs all <ph conref="conrefs.dita#conrefs/moj"/> staff of:
+    <ul>
+      <li>Their duties with regard to security.</li>
+      <li>Their responsibilities to protect the assets they have access to and use.
+        The assets include information, equipment, people and buildings.</li>
+      <li>The importance of reporting any actual or suspected security incidents.</li>
+    </ul></p>
+  </body>
   <topic id="source">
     <title>Source</title>
     <body>
-      <p>Guidance is provided to staff via the Security section of the <ph conref="conrefs.dita#conrefs/moj"/> Intranet,
-      <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/security/</xref>.
+      <p>Guidance is provided to staff via the
+        <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external">Security section</xref> of the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.
       All new staff starting work within the <ph conref="conrefs.dita#conrefs/moj"/> will receive mandatory IA training.
       This should ensure that the new staff member is made aware of their security responsibilities whilst working at the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
     </body>

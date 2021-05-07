@@ -7,7 +7,7 @@
       The access helps you to do your job effectively and efficiently.
       <ph conref="conrefs.dita#conrefs/moj"/> security policies governs your use of these facilities.</p>
     <p>
-      <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external" platform="html">Reasonable</xref><xref href="acceptable-use.dita" format="dita" platform="epub pdf">Reasonable</xref> personal use is allowed,
+      <xref href="acceptable-use.dita" format="dita" platform="github">Reasonable</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external" platform="intranet">Reasonable</xref> personal use is allowed,
       if:
     <ul>
       <li>Your line manager agrees.</li>
@@ -24,8 +24,8 @@
       If your email use or web browsing seems unacceptable,
       your manager can request detailed activity reports.</p>
   </body>
-  <topic id="what-websites-can-i-access">
-    <title>What websites can I access?</title>
+  <topic id="websites-you-can-access">
+    <title>Websites you can access</title>
     <body>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s approach to website access is continually reviewed and updated.
         By default,

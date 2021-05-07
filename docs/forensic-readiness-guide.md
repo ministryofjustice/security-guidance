@@ -1,6 +1,6 @@
 # Forensic Readiness Guide
 
-**Parent topic:**[Forensic Principles](forensic-principles.md)
+**Parent topic:** [Forensic Principles](forensic-principles.md)
 
 ## About this document
 

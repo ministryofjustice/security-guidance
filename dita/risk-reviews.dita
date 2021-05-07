@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="risk-reviews">
-  <title>Risk Reviews</title>
+    <title>Risk <ph platform="github">Reviews</ph><ph platform="intranet">assessment</ph></title>
   <body>
     <p>Information and the supporting processes, systems and networks are important and valuable <ph conref="conrefs.dita#conrefs/mojlong"/> assets.
       They are central to enabling the <ph conref="conrefs.dita#conrefs/moj"/> to perform its functions and provide services to the public,

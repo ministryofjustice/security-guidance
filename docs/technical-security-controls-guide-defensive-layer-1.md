@@ -1,6 +1,6 @@
 # Technical Security Controls Guide: Defensive Layer 1
 
-**Parent topic:**[Technical Security Controls Guide](technical-security-controls-guide.md)
+**Parent topic:** [Technical Security Controls Guide](technical-security-controls-guide.md)
 
 ## Defensive layer 1: Creating a baseline security environment
 
