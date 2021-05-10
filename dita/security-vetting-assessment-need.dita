@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="national-security-vetting--assessmentof-need" specializations="">
+  <title>National Security Vetting – Assessment of Need</title>
+  <body>
+    <p>This form should be completed by a line manager or contract manager.
+Completion of this form will allow MoJ Group Security to determine the
+correct level of National Security Clearance.</p>
+    <table>
+      <tgroup cols="2">
+        <colspec colname="col1" colnum="1"/>
+        <colspec colname="col2" colnum="2"/>
+        <thead>
+          <row>
+            <entry colname="col1">Name of the employee requiring clearance</entry>
+            <entry colname="col2">     </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry colname="col1"> </entry>
+            <entry colname="col2"> </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <p>Employee’s employment status Agency Contracted Directly employed by MoJ</p>
+    <table>
+      <tgroup cols="2">
+        <colspec colname="col1" colnum="1"/>
+        <colspec colname="col2" colnum="2"/>
+        <thead>
+          <row>
+            <entry colname="col1">Work-based activity for which clearance is required</entry>
+            <entry colname="col2">     </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry colname="col1"> </entry>
+            <entry colname="col2"> </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table>
+      <tgroup cols="2">
+        <colspec colname="col1" colnum="1"/>
+        <colspec colname="col2" colnum="2"/>
+        <thead>
+          <row>
+            <entry colname="col1"> </entry>
+            <entry colname="col2"> </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry colname="col1">Employee’s location</entry>
+            <entry colname="col2">     </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
+  <topic id="assessment-questionnaire" specializations="">
+    <title>Assessment questionnaire</title>
+    <body>
+      <table>
+        <tgroup cols="4">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col3" colnum="3"/>
+          <colspec colname="col4" colnum="4"/>
+          <thead>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">1</entry>
+              <entry colname="col2">Does the individual require access to knowledge or custody of any classified assets, including information assets?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4">Go to Q2</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">No</entry>
+              <entry colname="col4">Go to Q7</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table>
+        <tgroup cols="4">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col3" colnum="3"/>
+          <colspec colname="col4" colnum="4"/>
+          <thead>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">2</entry>
+              <entry colname="col2">Is OFFICIAL (either limited via access to individual records or via accumulated knowledge) the highest level of classified information or access that the individual will have?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4">Go to Q7</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">No</entry>
+              <entry colname="col4">Go to Q3</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table>
+        <tgroup cols="4">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col3" colnum="3"/>
+          <colspec colname="col4" colnum="4"/>
+          <thead>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">3</entry>
+              <entry colname="col2">Is SECRET (either limited via access to individual records or via accumulated knowledge) the highest level of classified information the individual will have access to?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4">Go to Q5</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">No</entry>
+              <entry colname="col4">Go to Q4</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table>
+        <tgroup cols="4">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col3" colnum="3"/>
+          <colspec colname="col4" colnum="4"/>
+          <thead>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">4</entry>
+              <entry colname="col2">Is TOP SECRET (either limited via access to individual records or via accumulated knowledge) the highest level of classified information the individual will have access to?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4">Go to Q6</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">No</entry>
+              <entry colname="col4">Go to Q7</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table>
+        <tgroup cols="4">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col3" colnum="3"/>
+          <colspec colname="col4" colnum="4"/>
+          <thead>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">5</entry>
+              <entry colname="col2">Is access to SECRET long-term, frequent and uncontrolled, or sufficient to form a comprehensive picture of a policy, plan or project?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4">
+                <b>SC required</b>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">No</entry>
+              <entry colname="col4">Go to Q7</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2">If ‘Yes’, please explain the nature of the job and the information involved:</entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2">     </entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table>
+        <tgroup cols="4">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col3" colnum="3"/>
+          <colspec colname="col4" colnum="4"/>
+          <thead>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">6</entry>
+              <entry colname="col2">Is access to TOP SECRET long-term, frequent and uncontrolled, or sufficient to form a comprehensive picture of a policy, plan or project?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4">
+                <b>DV required</b>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">No</entry>
+              <entry colname="col4">Go <u>back</u> to Q5</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2">If ‘Yes’, please explain the nature of the job and the information involved:     </entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table>
+        <tgroup cols="4">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col3" colnum="3"/>
+          <colspec colname="col4" colnum="4"/>
+          <thead>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">7</entry>
+              <entry colname="col2">a) Is the individual likely to be in close proximity to public figures who are at risk from terrorists, or those who threaten national security?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4">
+                <b>CTC required</b>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">No</entry>
+              <entry colname="col4">Go to 7b</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2">If ‘Yes’, which public figures and what is your assessment of the risk?</entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2">     </entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table>
+        <tgroup cols="4">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col3" colnum="3"/>
+          <colspec colname="col4" colnum="4"/>
+          <tbody>
+            <row outputclass="odd">
+              <entry colname="col1"/>
+              <entry colname="col2">b) Is the individual likely to require unescorted access to buildings assessed to be at risk from terrorists or those who threaten national security?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4">
+                <b>CTC required</b>
+              </entry>
+            </row>
+            <row outputclass="even">
+              <entry colname="col1"/>
+              <entry colname="col2"/>
+              <entry colname="col3">No</entry>
+              <entry colname="col4">Go to 7c</entry>
+            </row>
+            <row outputclass="odd">
+              <entry colname="col1"/>
+              <entry colname="col2">
+                <p>If ‘Yes’, which building(s) and what is your assessment of why they pose a risk?</p>
+                <p>e.g. Require a Palace of Westminster Pass</p>
+              </entry>
+              <entry colname="col3"/>
+              <entry colname="col4"/>
+            </row>
+            <row outputclass="even">
+              <entry colname="col1"/>
+              <entry colname="col2">     </entry>
+              <entry colname="col3"/>
+              <entry colname="col4"/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table>
+        <tgroup cols="4">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col3" colnum="3"/>
+          <colspec colname="col4" colnum="4"/>
+          <thead>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2">c) Is the individual likely to have access to information assessed to be of interest to terrorists or those who threaten national security?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4">
+                <b>CTC required</b>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">No</entry>
+              <entry colname="col4">
+                <b>No clearance required</b>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2">If ‘Yes’, what type(s) of information, and what is your assessment of why it is of interest?</entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2">     </entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table>
+        <tgroup cols="2">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <thead>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2">d) Please provide any other relevant information:     </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table>
+        <tgroup cols="1">
+          <colspec colname="col1" colnum="1"/>
+          <thead>
+            <row>
+              <entry colname="col1"> </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1"> </entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>By submitting this form, you are giving your personal assurance that the
+individual is being cleared specifically for work in MoJ, its agencies
+and sponsored bodies and not for any other Government Department or
+organisation. Clearances granted by MoJ will not be transferable to
+non-MoJ sites, without prior approval of <xref href="mailto:mojgroupsecurity@justice.gov.uk" format="email" scope="external">MoJ Group
+Security</xref>.</p>
+      <table>
+        <tgroup cols="2">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <thead>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">Name</entry>
+              <entry colname="col2">     </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table>
+        <tgroup cols="4">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col3" colnum="3"/>
+          <colspec colname="col4" colnum="4"/>
+          <thead>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">Email Address</entry>
+              <entry colname="col2">     </entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table>
+        <tgroup cols="2">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <thead>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">Telephone Number</entry>
+              <entry colname="col2">     </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table>
+        <tgroup cols="2">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <thead>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">Business Area</entry>
+              <entry colname="col2">     </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>The completed form should be sent to <xref href="mailto:MoJGroupSecurity@justice.gov.uk" format="email" scope="external"/>
+for consideration.</p>
+      <p>.</p>
+    </body>
+  </topic>
+</topic>
