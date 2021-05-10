@@ -14,7 +14,6 @@ such as the pages you visit.
 
 We use Google Analytics to measure how you use the website,
 so that we can improve it based on user needs.
-We do not allow Google to use or share the data about how you use this site.
 
 Google Analytics sets cookies that store anonymised information about:
 
