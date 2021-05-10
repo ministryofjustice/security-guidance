@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 4 May 2021.
+**Note:** This guidance is dated: 10 May 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 4 June 2021.
+The offline versions of this guidance are time-limited, and are not valid after 10 June 2021.
 
 ### Searching this content
 
@@ -137,7 +137,10 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Prior to employment
 
+|[End or change of employment](end-or-change-of-employment.md)|All users|
+|[National Security Vetting questions](national-security-vetting-questions.md)|All users|
 |[Personnel security clearances](personnel-security-clearances.md)|All users|
+|[National Security Vetting – Assessment of Need](security-vetting-assessment-need.md)|All users|
 
 #### During employment
 
