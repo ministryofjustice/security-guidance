@@ -56,7 +56,7 @@
 		<echo message="Building policy: ${thePolicy}"/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/${thePolicy}.ditamap"/>
-			<property name="args.filter" value="${dita}/policy.ditaval:${dita}/pdf.ditaval:${dita}/audience-tech.ditaval"/>
+			<property name="args.filter" value="${dita}/intranet.ditaval:${dita}/policy.ditaval:${dita}/pdf.ditaval:${dita}/audience-tech.ditaval"/>
 			<property name="output.dir" location="${intranet}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
