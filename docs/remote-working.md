@@ -1,6 +1,6 @@
 # Remote Working
 
-**Parent topic:**[Mobile Device and Remote Working Policy](mobile-device-and-remote-working-policy.md)
+**Parent topic:** [Mobile Device and Remote Working Policy](mobile-device-and-remote-working-policy.md)
 
 ## Key points
 

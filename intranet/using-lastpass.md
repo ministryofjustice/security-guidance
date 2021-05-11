@@ -1,6 +1,6 @@
 # Using LastPass Enterprise
 
-**Parent topic:**[Password Managers](password-managers.md)
+**Parent topic:** [Password Managers](password-managers.md)
 
 ## What is LastPass?
 
@@ -14,9 +14,9 @@ The Ministry of Justice \(MoJ\) has the Enterprise tier of LastPass.
 
 ### Who should use it?
 
-MoJ LastPass accounts can be requested by anyone in MoJ Digital & Technology.
+MoJ LastPass accounts can be requested by anyone in MoJ Digital and Technology.
 
-At the moment, rollout is limited to technical service/operation teams but we're working on license funding to make it available to everyone in D&T.
+At the moment, rollout is limited to technical service/operation teams but we're working on license funding to make it available to everyone.
 
 ## How to get it
 
@@ -60,7 +60,7 @@ It must be at least 12 characters long \(the longer the better\).
 
 You can choose to make it pronounceable and memorable \(passphrase\) such as `CyberSecurityRules!` or `Sup3rD00p3rc0Mp3X!`, as long as you're comfortable remembering it and won't need to write it down.
 
-There are [password guidance standards](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/) on the MoJ intranet.
+There are password guidance standards [on the MoJ intranet](https://intranet.justice.gov.uk/guidance/security/it-computer-security/passwords/).
 
 Your primary password **must** be unique and you should **never** use it anywhere else \(including a similar version, for example, by simply adding numbers to the end\)
 
@@ -74,17 +74,17 @@ If you don't have an MoJ-issued work smartphone you may use a personal device fo
 
 ### Sharing passwords
 
-To share a password [create a 'shared folder' in the LastPass Vault](https://support.logmeininc.com/lastpass/help/manage-lastpass-teams-shared-folders-users-lp010061).
+To share a password [create a “shared folder” in the LastPass Vault](https://support.logmeininc.com/lastpass/help/manage-lastpass-teams-shared-folders-users-lp010061).
 
 You should make sure the credentials you're sharing are only available to the people who need to access them for MoJ work. It is your responsibility to remove items or people from shared folders when access to the credential\(s\) is no longer required.
 
-\(You must not share your LastPass main password with anyone, even your line manager or MoJ security.\)
+You must not share your LastPass main password with anyone, even your line manager or MoJ security.
 
 ### Using it overseas
 
 Taking a device \(such as personal smartphone\) that has MoJ LastPass installed counts as travelling overseas with MoJ information.
 
-The MoJ has existing [policies on travelling abroad on the MoJ intranet](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal/) which require various approvals before travel.
+The MoJ has existing [policies on travelling overseas](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal/) which require various approvals before travel.
 
 It may be simpler to 'log out' of the LastPass applications or uninstall/delete them before travelling outside of the UK and reinstalling when you get back.
 
@@ -100,5 +100,5 @@ If you need help using LastPass such as getting access to shared folders or rese
 
 ## Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

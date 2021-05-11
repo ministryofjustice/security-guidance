@@ -1,16 +1,16 @@
-# OFFICIAL, OFFICIAL-SENSITIVE
+# `OFFICIAL`, `OFFICIAL-SENSITIVE`
 
-h/t [https://www.gov.uk/guidance/official-sensitive-data-and-it](https://www.gov.uk/guidance/official-sensitive-data-and-it)
-
-## OFFICIAL
+## `OFFICIAL`
 
 `OFFICIAL` is a UK HM Government information asset classification under the [Government Security Classifications Policy \(GSCP\)](https://www.gov.uk/government/publications/government-security-classifications).
 
-## OFFICIAL-SENSITIVE
+## `OFFICIAL-SENSITIVE`
 
-`OFFICIAL-SENSITIVE` is **not** a classification. `SENSITIVE` is a handling caveat for a small subset of information marked OFFICIAL that require *special* handling by staff above and beyond the decribed `OFFICIAL` baseline.
+`OFFICIAL-SENSITIVE` is **not** a classification. `SENSITIVE` is a handling caveat for a small subset of information marked `OFFICIAL` that require *special* handling by staff above and beyond the described `OFFICIAL` baseline.
 
 The `SENSITIVE` handling caveat is a *reminder* as opposed to a requirement for additional controls nor a description of a minimum set of controls.
+
+Guidance on handling [`OFFICIAL-SENSITIVE` data and IT](https://www.gov.uk/guidance/official-sensitive-data-and-it).
 
 ### DESCRIPTORS
 
@@ -29,7 +29,11 @@ The Cabinet Office maintains the following list of core descriptors to ensure a 
 
 Descriptors are **not** codewords.
 
+## Contacts
+
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+
 ## Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

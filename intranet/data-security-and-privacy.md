@@ -36,7 +36,7 @@ All our work must follow this ethos.
 
 ## When this applies
 
-This principle applies to **all** MoJ technology projects and business actitivies.
+This principle applies to **all** MoJ technology projects and business activities.
 
 While GDPR applies only to personal information, all MoJ projects and tasks must have excellent data security and privacy characteristics. If they handle personal data, they must do so correctly. Projects must follow MoJ guidelines unless exceptional and approved circumstances apply.
 
@@ -44,7 +44,11 @@ The [Information Commissioner's Office \(ICO\)](https://ico.org.uk) - the UK's i
 
 A Data Protection Impact Assessment \(DPIA, formerly commonly known as a Privacy Impact Assessment or PIA\) is required for all projects. There are some [exceptions described by the ICO](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/exemptions/).
 
+## Contacts
+
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+
 ## Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

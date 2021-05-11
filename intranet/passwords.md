@@ -1,8 +1,6 @@
 # Passwords
 
-## Overview
-
-This article provides guidance on passwords within the Ministry of Justice \(MoJ\). It helps you protect MoJ IT systems by telling you about choosing and using passwords. Whenever you see the word 'system' here, it applies to:
+This article provides guidance on passwords within the Ministry of Justice \(MoJ\). It helps you protect MoJ IT systems by telling you about choosing and using passwords. Whenever you see the word system here, it applies to:
 
 -   Hardware, such as laptops, PCs, servers, mobile devices, and any IT equipment.
 -   Software, such as the Operating System, or applications installed on hardware, or mobile device applications \(apps\).
@@ -21,7 +19,7 @@ The most important points to remember are that passwords should be:
 -   At least 8 characters long.
 -   No more than 128 characters long.
 -   Not obvious.
--   Not a dictionary word. A combination of dictionary words might be suitable, such as '`CorrectHorseBatteryStaple`'.
+-   Not a dictionary word. A combination of dictionary words might be suitable, such as `CorrectHorseBatteryStaple`.
 -   Unique for each account or service.
 
 If a system or another person provides you with a password, change it before doing any MoJ work on that system. Examples of 'single-use' passwords include:
@@ -55,7 +53,7 @@ Use a password manager to help you keep track of your passwords.
 
 These are tools that help you create, use, and manage your passwords. A useful overview is available [here](https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers).
 
-As passwords become more complex, and you need to look after more of them, it becomes increasingly necessary to use a password manager. For example, development teams in MoJ Digital & Technology use [LastPass](using-lastpass.md).
+As passwords become more complex, and you need to look after more of them, it becomes increasingly necessary to use a password manager. For example, development teams in MoJ Digital & Technology use [LastPass](https://intranet.justice.gov.uk/guidance/security/it-computer-security/user-access/passwords/password-managers/using-lastpass-enterprise/).
 
 You still need to remember one password. This is the password that gets you into the manager application. Once you have access, the application works like a simple database, storing all the passwords associated with your various accounts and services. Some managers have extra features, such as password generators. Some managers can even automatically fill-in username and password fields for you when during log in.
 
@@ -63,7 +61,7 @@ The password manager database is often stored in the cloud so that you can use i
 
 Using a password manager for your MoJ account and service details is recommended.
 
-You can find additional useful information about password manager tools [here](password-managers.md).
+You can find additional useful information about password manager tools [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/user-access/passwords/password-managers/).
 
 ## Default passwords
 
@@ -94,11 +92,11 @@ The following table shows the valid lifetime of a single-use password:
 |Single-user systems, such as laptops|1 week|
 |All other systems|1 day|
 
-## Contact details
+## Contacts
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

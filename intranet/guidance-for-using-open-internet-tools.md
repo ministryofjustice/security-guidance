@@ -1,16 +1,6 @@
-# Guidance for using Open Internet Tools
+# Open internet tools
 
 **This information applies to all staff and contractors who work for the Ministry of Justice \(MoJ\).**
-
-This guidance gives you:
-
--   an [overview](#overview) of Open Internet Tools \(OIT\)
--   a [quick checklist](#quick-checklist) to help you decide if you can use an OIT
--   reasons why you [might](#why-oits-are-an-opportunity), or [might not](#why-oits-are-a-risk), want to use an OIT
--   things you [must think about](#using-oits) when using an OIT, such as [data protection](#privacy-and-personal-information)
--   information on [who to contact](#getting-help) if you would like help or advice
-
-**Note:** To access some of the links in this guide you'll need to be connected to the MoJ Intranet
 
 ## Overview
 
@@ -39,7 +29,7 @@ To help you decide if you can use an OIT to work on an MoJ task, consider the fo
 -   are you prevented from exporting all the data from the tool?
 -   are you prevented from deleting all the data from the tool when you finish working on the task?
 
-If the answer to *any* of these questions is 'Yes', you might not be able to use the OIT.
+If the answer to *any* of these questions is Yes, you might not be able to use the OIT.
 
 When you have all the answers, request formal approval to use the OIT from your [Line Manager](https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/). Do this *before* using the OIT.
 
@@ -96,7 +86,7 @@ Complying with personal information requirements can be complex. Don't hesitate 
 
 An OIT can only store or process information [classified](https://www.gov.uk/government/publications/government-security-classifications) at `OFFICIAL` level.
 
-Think about the MoJ information you work with. What would happen if you lost it, or it's stolen, or published in the media? Suppose the information was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is 'No', then it's probably OK to use OITs to store or send that information.
+Think about the MoJ information you work with. What would happen if you lost it, or it's stolen, or published in the media? Suppose the information was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is No, then it's probably OK to use OITs to store or send that information.
 
 Think also about information moving across the Internet. The data might be safe within the MoJ and in an approved OIT. But what about the connection between the two? Sending information might involve insecure networks. Be aware of the security implications. Check that enough suitable security measures are in place to protect the information. For example, check for encryption of network connections using [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security). A simple way to do this is to look for the secure connection indicator in your web browser:
 
@@ -108,7 +98,7 @@ Useful help for deciding what is OK is in [existing social media guidance](https
 
 Remember that it is impossible to delete information after it's released in public.
 
-For more information about MoJ IT Security, look on the MoJ Intranet [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/).
+More information can be found on the [MoJ IT & Computer Security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/) pages.
 
 ### Storage and data retention
 
@@ -124,7 +114,7 @@ When we receive a request for information, we need to know where we hold all the
 -   we understand the information held, and where to find it
 -   we can transfer records to The National Archives
 
-Always store MoJ information in MoJ systems. If you use an OIT, make sure the key information is also stored in an appropriate MoJ system. Guidance on what you must keep is available [here](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/what-to-keep/). At regular and convenient intervals, transfer the information to an appropriate MoJ system. Do the same when you finish the work. Don't forget to remove any redundant information from the OIT.
+Always store MoJ information in MoJ systems. If you use an OIT, make sure the key information is also stored in an appropriate MoJ system. Guidance on what you must keep [is available](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/what-to-keep/). At regular and convenient intervals, transfer the information to an appropriate MoJ system. Do the same when you finish the work. Don't forget to remove any redundant information from the OIT.
 
 Most OITs let you export your data. You can then store it on an appropriate MoJ system. Sometimes it's easier to copy and paste text into a new document. Make sure that only the correct people have access to the information. This is important after staff or organisational changes, for example.
 
@@ -148,11 +138,11 @@ There are already many OITs used across the MoJ. Permission to use an OIT might 
 
 If there is an application or service that is not currently approved, but which you would like to use, you can request a security review.
 
-Begin the request by filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLSeEEBDS1HBF7meUk3SjgkqxbXBQlKAiBAezJIbKHnEjfNjBTg/viewform?gxids=7628), as best you can. The more information you provide, the better. But don't worry if you have to leave some bits of the form blank.
+Begin the request by filling in the [Request a Security Review of a third-party service](https://docs.google.com/forms/d/e/1FAIpQLSeEEBDS1HBF7meUk3SjgkqxbXBQlKAiBAezJIbKHnEjfNjBTg/viewform?gxids=7628) form, as best you can. The more information you provide, the better. But don't worry if you have to leave some bits of the form blank.
 
 When you submit the form, it is passed to the security team. The app is reviewed, to check things like how safe it is to use, and whether there are any Data Privacy implications. The security team will respond to you with an answer as quickly as possible.
 
-**Note:** You should submit the request, and wait for a formal 'approval' response, *before* you install or use the app on MoJ equipment or information.
+**Note:** You should submit the request, and wait for a formal approval response, *before* you install or use the app on MoJ equipment or information.
 
 If you have any questions about the process, contact the security team: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
@@ -169,5 +159,5 @@ For further help about aspects of using OITs within the MoJ, contact:
 
 ## Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

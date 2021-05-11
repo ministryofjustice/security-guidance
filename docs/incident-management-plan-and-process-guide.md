@@ -2,7 +2,7 @@
 
 ## Legacy information
 
-**Note:** This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+**Note:** This document is Legacy IA Policy material.[security@justice.gov.uk](mailto:security@justice.gov.uk) It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 **Note:** This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
 
@@ -14,6 +14,7 @@
 -   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS2 \(HMG Infosec Standard 2 Information Risk Management\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   ITSO \(Information Technology Security Officer\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
@@ -113,7 +114,7 @@ ITSIM is a combination of people, plans and predefined processes which enables t
 -   Sanctioning enhanced monitoring on IT systems where appropriate
 -   Updating the incident management database with details of all incidents, any investigation conducted and actions undertaken
 -   Carrying out analysis of security incidents as required
--   Initiating a forensic investigation and commissioning forensic analysis \(in accordance with [IT Security – Forensic Readiness Policy](moj-forensic-readiness-policy.md)\)
+-   Initiating a forensic investigation and commissioning forensic analysis \(in accordance with [Forensic Readiness Policy](forensic-readiness-policy.md)\)
 -   Providing progress reports on specific incidents to relevant parties.
 
 |
@@ -316,7 +317,7 @@ Examples of medium impact incidents include \(but not limited to\):
 -   The theft or loss of HMG cryptographic material.
 
 
-Medium impact incidents require escalation to the MoJ ITSO who will determine whether the IAO and relevant system Accreditor also need to be informed. In the case of personal or sensitive personal data, the MoJ Data Access and Compliance Unit \(DACU\) also need to be informed. If deemed appropriate, a forensic investigation will be requested by the MoJ ITSO in line with the [IT Security – Forensic Readiness Policy](moj-forensic-readiness-policy.md).
+Medium impact incidents require escalation to the MoJ ITSO who will determine whether the IAO and relevant system Accreditor also need to be informed. In the case of personal or sensitive personal data, the MoJ Data Access and Compliance Unit \(DACU\) also need to be informed. If deemed appropriate, a forensic investigation will be requested by the MoJ ITSO in line with the [Forensic Readiness Policy](forensic-readiness-policy.md).
 
 #### High Impact Incident
 

@@ -146,7 +146,7 @@
                     <li>Sanctioning enhanced monitoring on IT systems where appropriate</li>
                     <li>Updating the incident management database with details of all incidents, any investigation conducted and actions undertaken</li>
                     <li>Carrying out analysis of security incidents as required</li>
-                    <li>Initiating a forensic investigation and commissioning forensic analysis (in accordance with <xref format="dita" href="moj-forensic-readiness-policy.dita">IT Security – Forensic Readiness Policy</xref>)</li>
+                    <li>Initiating a forensic investigation and commissioning forensic analysis (in accordance with <xref format="dita" href="forensic-readiness-policy.dita">Forensic Readiness Policy</xref>)</li>
                     <li>Providing progress reports on specific incidents to relevant parties.</li></ul></p></entry>
               </row>
               <row>
@@ -460,7 +460,7 @@ For those who perform specific roles within the plan such as a Senior Manager, t
               <p>The theft or loss of HMG cryptographic material.</p>
             </li>
           </ul>
-          <p>Medium impact incidents require escalation to the <ph conref="conrefs.dita#conrefs/moj"/> ITSO who will determine whether the IAO and relevant system Accreditor also need to be informed. In the case of personal or sensitive personal data, the <ph conref="conrefs.dita#conrefs/moj"/> Data Access and Compliance Unit (DACU) also need to be informed. If deemed appropriate, a forensic investigation will be requested by the <ph conref="conrefs.dita#conrefs/moj"/> ITSO in line with the <xref href="moj-forensic-readiness-policy.dita" format="dita">IT Security – Forensic Readiness Policy</xref>.</p>
+          <p>Medium impact incidents require escalation to the <ph conref="conrefs.dita#conrefs/moj"/> ITSO who will determine whether the IAO and relevant system Accreditor also need to be informed. In the case of personal or sensitive personal data, the <ph conref="conrefs.dita#conrefs/moj"/> Data Access and Compliance Unit (DACU) also need to be informed. If deemed appropriate, a forensic investigation will be requested by the <ph conref="conrefs.dita#conrefs/moj"/> ITSO in line with the <xref href="forensic-readiness-policy.dita" format="dita">Forensic Readiness Policy</xref>.</p>
         </body>
       </topic>
       <topic id="high-impact-incident">

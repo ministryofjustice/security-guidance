@@ -34,6 +34,36 @@ The contact details for an AWS Account can be updated using the reference <xref 
   </topic>
   <topic id="baseline">
     <title>Baseline</title>
+    <topic id="iam-access-analyzer">
+      <title>IAM Access Analyzer</title>
+      <body>
+        <p>Utilise <xref href="https://docs.aws.amazon.com/IAM/latest/UserGuide/what-is-access-analyzer.html" format="html" scope="external">IAM
+          Access Analyzer</xref> to audit and identify resources that are shared with an external entity.</p>
+          <table>
+            <tgroup cols="3">
+              <colspec colname="col1" colnum="1" colwidth="1*"/>
+              <colspec colname="col2" colnum="2" colwidth="1*"/>
+              <colspec colname="col3" colnum="3" colwidth="1*"/>
+              <thead>
+                <row>
+                  <entry colname="col1">What must be in place</entry>
+                  <entry colname="col2">Monitoring</entry>
+                  <entry colname="col3">Resolution/Escalation if baseline is broken/violated</entry>
+                </row>
+              </thead>
+              <tbody>
+                <row>
+                  <entry colname="col1"><xref href="https://docs.aws.amazon.com/IAM/latest/UserGuide/what-is-access-analyzer.html" format="html" scope="external">IAM
+                    Access Analyzer</xref> is enabled on all accounts, in all used regions, all of the time.</entry>
+                  <entry colname="col2">Alerts fire for new findings.</entry>
+                  <entry colname="col3">Findings are archived (if intended) or resolved (if unintended) within 7 days.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+  
+      </body>
+    </topic>
     <topic id="guardduty">
       <title>GuardDuty</title>
       <body>
@@ -257,10 +287,10 @@ The contact details for an AWS Account can be updated using the reference <xref 
         </table>
       </body>
     </topic>
-    <topic id="securityhub">
-      <title>SecurityHub</title>
+    <topic id="security-hub">
+      <title>Security Hub</title>
       <body>
-        <p><xref href="https://aws.amazon.com/security-hub/" format="html" scope="external">SecurityHub</xref> enabled where possible.</p>
+        <p><xref href="https://aws.amazon.com/security-hub/" format="html" scope="external">Security Hub</xref> enabled where possible.</p>
         <p>Over time we will be able to leverage this more, but in the immediate future this will enable us to do CIS-based scans.</p>
         <table>
           <tgroup cols="3">
@@ -276,9 +306,9 @@ The contact details for an AWS Account can be updated using the reference <xref 
             </thead>
             <tbody>
               <row>
-                <entry colname="col1">SecurityHub is enabled on all accounts, in all regions, all of the time.</entry>
-                <entry colname="col2">Alerts fire when SecurityHub is not enabled in a <ph conref="conrefs.dita#conrefs/moj"/> AWS account.</entry>
-                <entry colname="col3">SecurityHub is automatically re-enabled.</entry>
+                <entry colname="col1">Security Hub is enabled on all accounts, in all regions, all of the time.</entry>
+                <entry colname="col2">Alerts fire when Security Hub is not enabled in a <ph conref="conrefs.dita#conrefs/moj"/> AWS account.</entry>
+                <entry colname="col3">Security Hub is automatically re-enabled.</entry>
               </row>
             </tbody>
           </tgroup>

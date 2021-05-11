@@ -1,13 +1,13 @@
 # Laptops
 
+The guidance applies to all Ministry of Justice \(MoJ\) staff.
+
 **Related information**  
 
 
-[Lost Laptop or other IT security incident](lost-laptophardware.md)
+[Lost devices or other IT security incidents](lost-devices-incidents.md)
 
 ## Storing data on laptops
-
-The guidance applies to all Ministry of Justice \(MoJ\) staff.
 
 If you need to store data on your computer you should always remember to move it into:
 
@@ -17,7 +17,7 @@ If you need to store data on your computer you should always remember to move it
 
 Do this as soon as you can next connect to the MoJ network.
 
-## Where should I save data when using a laptop?
+## Where data should be saved when using a laptop
 
 It is best to avoid saving any data on a laptop hard drive. However, if you absolutely must, you should always remember to copy or move the data to the MoJ network as soon as you next can connect to it, either via secure remote access or by direct connection.
 
@@ -29,7 +29,7 @@ In order to avoid potential data loss, save data in:
 
 There is a better chance of recovering lost data if you have saved it to the MoJ network, as data stored on the MoJ network is backed up daily.
 
-## What is the impact of hard drive failures?
+## The impact of hard drive failures
 
 Hard drive failures can lead to the irrecoverable loss of data. Any data loss can have security implications for the MoJ, and a significant impact on:
 

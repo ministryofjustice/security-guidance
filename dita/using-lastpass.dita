@@ -13,8 +13,8 @@
     <topic id="who-should-use-it">
       <title>Who should use it?</title>
       <body>
-        <p><ph conref="conrefs.dita#conrefs/moj"/> LastPass accounts can be requested by anyone in <ph conref="conrefs.dita#conrefs/moj"/> Digital &amp; Technology.</p>
-        <p>At the moment, rollout is limited to technical service/operation teams but we're working on license funding to make it available to everyone in D&amp;T.</p>
+        <p><ph conref="conrefs.dita#conrefs/moj"/> LastPass accounts can be requested by anyone in <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology.</p>
+        <p>At the moment, rollout is limited to technical service/operation teams but we're working on license funding to make it available to everyone.</p>
       </body>
     </topic>
   </topic>
@@ -64,7 +64,7 @@
           <p>You need to create a primary password - this is the only password you'll need to remember.</p>
           <p>It must be at least 12 characters long (the longer the better).</p>
           <p>You can choose to make it pronounceable and memorable (passphrase) such as <codeph>CyberSecurityRules!</codeph> or <codeph>Sup3rD00p3rc0Mp3X!</codeph>, as long as you're comfortable remembering it and won't need to write it down.</p>
-          <p>There are <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/" format="html" scope="external">password guidance standards</xref> on the <ph conref="conrefs.dita#conrefs/moj"/> intranet.</p>
+          <p>There are password guidance standards <xref href="passwords.dita" format="dita" platform="github">here</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/passwords/" format="html" scope="external" platform="intranet">on the <ph conref="conrefs.dita#conrefs/moj"/> intranet</xref>.</p>
           <p>Your primary password <b>must</b> be unique and you should <b>never</b> use it anywhere else (including a similar version, for example, by simply adding numbers to the end)</p>
         </body>
       </topic>
@@ -87,16 +87,16 @@
     <topic id="sharing-passwords">
       <title>Sharing passwords</title>
       <body>
-        <p>To share a password <xref href="https://support.logmeininc.com/lastpass/help/manage-lastpass-teams-shared-folders-users-lp010061" format="html" scope="external">create a 'shared folder' in the LastPass Vault</xref>.</p>
+        <p>To share a password <xref href="https://support.logmeininc.com/lastpass/help/manage-lastpass-teams-shared-folders-users-lp010061" format="html" scope="external">create a <q>shared folder</q> in the LastPass Vault</xref>.</p>
         <p>You should make sure the credentials you're sharing are only available to the people who need to access them for <ph conref="conrefs.dita#conrefs/moj"/> work. It is your responsibility to remove items or people from shared folders when access to the credential(s) is no longer required.</p>
-        <p>(You must not share your LastPass main password with anyone, even your line manager or <ph conref="conrefs.dita#conrefs/moj"/> security.)</p>
+        <p>You must not share your LastPass main password with anyone, even your line manager or <ph conref="conrefs.dita#conrefs/moj"/> security.</p>
       </body>
     </topic>
     <topic id="using-it-overseas">
       <title>Using it overseas</title>
       <body>
         <p>Taking a device (such as personal smartphone) that has <ph conref="conrefs.dita#conrefs/moj"/> LastPass installed counts as travelling overseas with <ph conref="conrefs.dita#conrefs/moj"/> information.</p>
-        <p>The <ph conref="conrefs.dita#conrefs/moj"/> has existing <xref href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal/" format="html" scope="external">policies on travelling abroad on the <ph conref="conrefs.dita#conrefs/moj"/> intranet</xref> which require various approvals before travel.</p>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/> has existing <xref href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal/" format="html" scope="external" platform="github">policies on travelling abroad on the <ph conref="conrefs.dita#conrefs/moj"/> intranet</xref><xref href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal/" format="html" scope="external" platform="intranet">policies on travelling overseas</xref> which require various approvals before travel.</p>
         <p>It may be simpler to 'log out' of the LastPass applications or uninstall/delete them before travelling outside of the UK and reinstalling when you get back.</p>
       </body>
     </topic>

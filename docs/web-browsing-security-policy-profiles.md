@@ -4,7 +4,7 @@ There are two policy profiles, one for the [Judiciary](#judiciary), and one for 
 
 Each profile identifies categories of content that are normally blocked. Content that is not in a blocked category will normally be available to a profile.
 
-**Parent topic:**[Web Browsing](web-browsing.md)
+**Parent topic:** [Web Browsing](web-browsing.md)
 
 ## Judiciary
 
