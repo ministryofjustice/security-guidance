@@ -84,6 +84,9 @@
 		<antcall target="policy_builder">
             <param name="thePolicy" value="policy-physical-security"/>
         </antcall>
+		<antcall target="policy_builder">
+            <param name="thePolicy" value="policy-information-classification"/>
+        </antcall>
 		<replaceregexp match="\*\*Parent topic\:\*\*(\S)" replace="**Parent topic:** \1" flags="g" >
 			<fileset dir="${intranet}" includes="**/*.md"/>
 		</replaceregexp>
