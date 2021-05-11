@@ -8,6 +8,10 @@
       <p>This policy gives an overview of mobile devices and remote working security principles and responsibilities within the <ph conref="conrefs.dita#conrefs/mojlong"/>.
       It provides a summary of the <ph conref="conrefs.dita#conrefs/moj"/>'s related policies and guides
       in relation to mobile devices and remote working.</p>
+      <p>To help identify formal policy statements,
+        each is prefixed with an identifier of the form:
+        <codeph>POLMOBxxx</codeph>,
+        where xxx is a unique ID number.</p>
     </body>
   </topic>
   <topic id="audience">
@@ -60,44 +64,48 @@
   <topic id="mobile-devices">
     <title>Mobile devices</title>
     <body>
-      <p>When using mobile devices,
+      <p><codeph>POLMOB001:</codeph> When using mobile devices,
         special care <ph conref="conrefs.dita#conrefs/policymust"/> be taken to ensure that business information is not compromised.
         When issuing <ph conref="conrefs.dita#conrefs/moj"/> mobile devices,
         the following points <ph conref="conrefs.dita#conrefs/policymust"/> be adhered to:</p>
       <ul>
-        <li>Mobile devices <ph conref="conrefs.dita#conrefs/policymust"/> be registered as an <ph conref="conrefs.dita#conrefs/moj"/> asset.</li>
-        <li>Software installation <ph conref="conrefs.dita#conrefs/policymustnot"/> be available for general users.</li>
-        <li>There <ph conref="conrefs.dita#conrefs/policymust"/> be an ability for remote disabling, erasure or lockout.</li>
-        <li>There <ph conref="conrefs.dita#conrefs/policymust"/> be usage of approved web services and web apps <ph conref="conrefs.dita#conrefs/policyonly"/>.</li>
+        <li><codeph>POLMOB002:</codeph> Mobile devices <ph conref="conrefs.dita#conrefs/policymust"/> be registered as an <ph conref="conrefs.dita#conrefs/moj"/> asset.</li>
+        <li><codeph>POLMOB003:</codeph> Software installation <ph conref="conrefs.dita#conrefs/policymustnot"/> be available for general users.</li>
+        <li><codeph>POLMOB004:</codeph> There <ph conref="conrefs.dita#conrefs/policymust"/> be an ability for remote disabling, erasure or lockout.</li>
+        <li><codeph>POLMOB005:</codeph> There <ph conref="conrefs.dita#conrefs/policymust"/> be usage of approved web services and web apps <ph conref="conrefs.dita#conrefs/policyonly"/>.</li>
       </ul>
     </body>
     <topic id="use-in-public-places">
       <title>Use in public places</title>
       <body>
-        <p>Care <ph conref="conrefs.dita#conrefs/policymust"/> be taken when using mobile devices in public places,
+        <p><codeph>POLMOB006:</codeph> Care <ph conref="conrefs.dita#conrefs/policymust"/> be taken when using mobile devices in public places,
           meeting rooms,
           and other unprotected areas.
           Protection <ph conref="conrefs.dita#conrefs/policymust"/> be in place to avoid the unauthorised access to,
           or disclosure of,
           the information stored and processed by these devices.</p>
-        <p>The <ph conref="conrefs.dita#conrefs/moj"/>
-          <ph product="notpolicy"><xref href="cryptography.dita" format="dita">Cryptography</xref></ph><ph product="policy">Cryptography</ph>
+        <p audience="audience-suppliers audience-tech">The <ph conref="conrefs.dita#conrefs/moj"/>
+          <ph platform="github"><xref href="cryptography.dita" format="dita">Cryptography</xref></ph><ph platform="intranet">Cryptography</ph>
           guide offers techniques and information used in the <ph conref="conrefs.dita#conrefs/moj"/>
-          to support stronger security when using mobile devices.
-          The <ph conref="conrefs.dita#conrefs/moj"/> <ph product="notpolicy"><xref href="access-control-guide.dita" format="dita" audience="audience-suppliers audience-tech">Access Control Guide</xref><ph audience="audience-basic">Access Control Guide</ph></ph><ph product="policy">Access Control Guide</ph> explains how the <ph conref="conrefs.dita#conrefs/moj"/> manages access to its IT systems so that users have access <ph conref="conrefs.dita#conrefs/policyonly"/> to the material they need,
+          to support stronger security when using mobile devices.</p>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/>
+          <ph platform="github"><xref href="access-control-guide.dita" format="dita" audience="audience-suppliers audience-tech">Access
+          Control Guide</xref><ph audience="audience-basic">Access Control Guide</ph></ph><ph platform="intranet">Access
+          Control Guide</ph> explains how the <ph conref="conrefs.dita#conrefs/moj"/> manages access to its IT systems
+          so that users have access <ph conref="conrefs.dita#conrefs/policyonly"/> to the material they need,
           in a secure manner.</p>
       </body>
     </topic>
     <topic id="theft-or-loss">
       <title>Theft or loss</title>
       <body>
-        <p>Mobile devices <ph conref="conrefs.dita#conrefs/policymust"/> be physically protected against theft,
+        <p><codeph>POLMOB007:</codeph> Mobile devices <ph conref="conrefs.dita#conrefs/policymust"/> be physically protected against theft,
           especially when left unattended.
           Examples include leaving devices unattended in cars and other forms of transport,
           hotel rooms,
           conference centres,
-          and meeting places.
-          The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> have,
+          and meeting places.</p>
+        <p><codeph>POLMOB008:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> have,
           and follow,
           a clear procedure covering legal,
           insurance,
@@ -107,7 +115,7 @@
     <topic id="protecting-sensitive-content">
       <title>Protecting sensitive content</title>
       <body>
-        <p>Devices carrying <codeph>SENSITIVE</codeph> or important or critical business
+        <p><codeph>POLMOB009:</codeph> Devices carrying <codeph>SENSITIVE</codeph> or important or critical business
           information <ph conref="conrefs.dita#conrefs/policymustnot"/> be left unattended.
           Where possible,
           devices should be physically locked away.
@@ -119,7 +127,7 @@
     <topic id="use-of-private-equipment">
       <title>Use of private equipment</title>
       <body>
-        <p>You <ph conref="conrefs.dita#conrefs/policymustnot"/> use of personal devices for <ph conref="conrefs.dita#conrefs/moj"/> work purposes.</p>
+        <p><codeph>POLMOB010:</codeph> You <ph conref="conrefs.dita#conrefs/policymustnot"/> use personal devices for <ph conref="conrefs.dita#conrefs/moj"/> work purposes.</p>
         <p>Exceptions are possible on a case-by-case basis,
           for example to accommodate Accessibility requirements.
           To discuss whether you have a case for exemption,
@@ -133,7 +141,7 @@
     <body>
       <p>Remote working refers to all forms of business activity that takes place outside of the office.
         Remote working is sometimes described as <q>Working From Anywhere</q>.
-        Remoter working includes non-traditional work environments or contexts,
+        Remote working includes non-traditional work environments or contexts,
         such as:
       <ul>
         <li>Commuter hubs.</li>
@@ -142,7 +150,7 @@
         <li>Telecommuting.</li>
         <li>Virtual Work Environments.</li>
       </ul></p>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> allows remote working,
+      <p><codeph>POLMOB011:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> allows remote working,
         but the following points <ph conref="conrefs.dita#conrefs/policymust"/> be considered,
         confirmed,
         and documented as acceptable during the approval process:
@@ -160,7 +168,7 @@
           and requirements or restrictions on the configuration of wireless network services (WiFi).</li>
         <li>Malware protection and firewall requirements.</li>
       </ul></p>
-      <p>The guidelines and arrangements to consider include:
+      <p><codeph>POLMOB012:</codeph> The guidelines and arrangements to consider include:
       <ul>
         <li>The provision of suitable equipment and storage furniture for the remote working activities.
           Privately-owned equipment that is not under the control of the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymustnot"/> be allowed.</li>
@@ -181,19 +189,21 @@
       </ul></p>
     </body>
   </topic>
-  <topic id="current-supporting-documentation">
+  <topic id="current-supporting-documentation" platform="github">
     <title>Current supporting documentation:</title>
     <body>
       <ul>
-        <li><ph product="notpolicy"><xref href="remote-working.dita" format="dita">Remote Working</xref></ph><ph product="policy"><xref href="https://ministryofjustice.github.io/security-guidance/remote-working/" format="html" scope="external">Remote Working</xref></ph></li>
-        <li><ph product="notpolicy"><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems from Overseas</xref></ph><ph product="policy"><xref href="https://ministryofjustice.github.io/security-guidance/accessing-moj-it-systems-from-overseas/" format="html" scope="external">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems from Overseas</xref></ph></li>
-        <li><ph product="notpolicy"><xref href="personal-devices.dita" format="dita">Security Guidance for Using a Personal Device</xref></ph><ph product="policy"><xref href="https://ministryofjustice.github.io/security-guidance/personal-devices/" format="html" scope="external">Security Guidance for Using a Personal Device</xref></ph></li>
+        <li><xref href="remote-working.dita" format="dita">Remote Working</xref></li>
+        <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems from Overseas</xref></li>
+        <li><xref href="personal-devices.dita" format="dita">Security Guidance for Using a Personal Device</xref></li>
         <!-- FIXME -->
+        <!--
         <li>Pool Laptop Procedures</li>
+        -->
         <!-- FIXME
           No longer applicable,
         <li><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/using-your-own-smartphone-laptop-tablet-or-pc-for-work/" format="html" scope="external">Using your own smartphone, laptop, tablet or PC for work</xref></li> -->
-        <li><ph product="notpolicy"><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita">General advice on taking equipment overseas</xref></ph><ph product="policy"><xref href="https://ministryofjustice.github.io/security-guidance/general-advice-on-taking-equipment-overseas/" format="html" scope="external">General advice on taking equipment overseas</xref></ph></li>
+        <li><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita">General advice on taking equipment overseas</xref></li>
       </ul>
     </body>
   </topic>
