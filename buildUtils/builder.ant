@@ -240,6 +240,7 @@
 		<!-- Create the distribution directory -->
 		<mkdir dir="${docs}"/>
 		<mkdir dir="${docs}/images"/>
+		<mkdir dir="${docs}/gs"/>
 		<copy todir="${docs}" >
 			<fileset dir="${jekyll-baseline}"/>
 		</copy>
@@ -255,6 +256,9 @@
 			</path>
 		</foreach>
 		<copy file="${docs}/cyber-and-technical-security-guidance.md" tofile="${docs}/index.md" overwrite="true"/>
+		<copy todir="${docs}/gs" >
+			<fileset dir="${basedir}/gs"/>
+		</copy>
 	</target>
 
 	<target name="dist" depends="compile"

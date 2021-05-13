@@ -1,6 +1,6 @@
 # National Security Vetting questions
 
-The processes described in this document are under review as part of Ministry of Justice \(MoJ\) “simpler processes” activities and these FAQs will be updated as required.
+The processes described in this document are under review as part of Ministry of Justice \(MoJ\) simpler processes activities and these FAQs will be updated as required.
 
 A downloadable version of this document is available [here](./gs/National_security_vetting_questions.docx).
 
@@ -80,7 +80,7 @@ The checks required depend on how the candidate is being recruited and their lev
 -   These include managed moves and loans and are not advertised in Oleeo.
 -   The vacancy manager should arrange for the individual to bring their original Right to Work, ID and address documentation to be checked.
 -   The vacancy manager should then submit a Clearance Request Form \(CRF\) to SSCL recording the details of these documents.
--   SSCL send the successful candidate a provisional offer with links to the “Lumesse” system where they must upload the same documents.
+-   SSCL send the successful candidate a provisional offer with links to the Lumesse system where they must upload the same documents.
 -   If NSV is required for the role, the vacancy manager must discuss this with their NSVC and obtain a code which needs to be entered on the CRF. SSCL will only accept requests with a valid vetting reference code provided on the Clearance Request Form.
 -   SSCL will send a link to the candidate so they can complete their on-line security questionnaire on the NSVS portal.
 -   If the candidate already has any NSV clearances, it may be possible to transfer these to the new role.
@@ -170,11 +170,11 @@ For all changes in personal circumstances please contact Cluster 2 Personnel Ris
 
 You can find more information [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/reporting-personal-circumstance-changes/).
 
-## Contact details
+## Contacts
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

@@ -44,7 +44,7 @@ To check someone's clearance status, collect the following information:
 -   Their last name.
 -   Their date of birth.
 
-Send this information to the MoJ Group Security Team, by emailing: [MoJ group security](mailto:mojgroupsecurity@justice.gov.uk). The team will check with the Cluster, to determine the individual's clearance status, if any. If you are authorised to receive the answer, the team will reply to you with the answer.
+Send this information to the MoJ Group Security Team, by emailing: [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). The team will check with the Cluster, to determine the individual's clearance status, if any. If you are authorised to receive the answer, the team will reply to you with the answer.
 
 ## Contacts
 

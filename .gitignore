@@ -3,6 +3,7 @@
 .ruby-version
 _site
 .project
+.vscode/
 buildUtils/catalog-dita.xml
 buildUtils/compile.txt
 dita/fixes.txt
