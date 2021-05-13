@@ -22,6 +22,7 @@
 	<property name="dita" location="dita"/>
 	<property name="build" location="${dita}/out"/>
 	<property name="buildhtml" location="${dita}/outhtml"/>
+	<property name="buildUtils" location="buildUtils"/>
 	<property name="images.output.dir" location="${dita}/out/images"/>
 	<property name="docs" location="docs"/>
 	<property name="worddocs" location="worddocs"/>
@@ -51,6 +52,19 @@
 		<mkdir dir="${worddocs}"/>
 	</target>
 
+	<target name="addLinkTarget">
+		<echo message="Adding link targets in file: ${theFile}"/>
+		<exec dir="${buildUtils}" executable="python" output="addLinkTarget.txt">
+			<arg line="addLinkTarget.py ${theFile}"/>
+		</exec>
+		<!-- Report results -->
+		<loadfile property="addLinkTarget" srcFile="addLinkTarget.txt" />
+		<echo message="${addLinkTarget}" />
+		<delete file="addLinkTarget.txt"/>
+		<!-- Tidy up. -->
+		<!-- <move file="${theFile}.new" tofile="${theFile}" overwrite="true"/> -->
+	</target>
+
 	<target name="compile_intranet" depends="init"
 				description="compile the Intranet collection into markdown">
 		<delete dir="${intranet}"/>
@@ -63,6 +77,12 @@
 		<replaceregexp match="\*\*Parent topic\:\*\*(\S)" replace="**Parent topic:** \1" flags="g" >
 			<fileset dir="${intranet}" includes="**/*.md"/>
 		</replaceregexp>
+		<echo message="Adding link targets."/>
+		<foreach target="addLinkTarget" param="theFile">
+			<path>
+				<fileset dir="${intranet}" includes="**/*.md"/>
+			</path>
+		</foreach>
 	</target>
 
 	<target name="compile_md" depends="init"
@@ -233,7 +253,8 @@
 		<copy file="${temp.file}" tofile="${docs}/${theFileName}.md" overwrite="true"/>
 	</target>
 
-	<target name="dist_local" depends="compile_md,compile_intranet"
+	<!-- <target name="dist_local" depends="compile_md,compile_intranet" -->
+	<target name="dist_local" depends="compile_intranet"
 				description="generate minimal set to test local build">
 		<!-- Create the distribution directory -->
 		<mkdir dir="${docs}"/>
