@@ -6,7 +6,7 @@ This guidance helps you use Bluetooth enabled devices and peripheral devices.
 
 Bluetooth works by 'pairing' devices. This makes it quick and simple to use. The problem is that Bluetooth, and the pairing process, is not very secure. This means that attackers might get unauthenticated access to devices. As an example, an attacker 'listening' to the Bluetooth connection between a computer and a keyboard could possibly intercept passwords or other sensitive information as the details are typed on the keyboard.
 
-This guidance tells you more about the Ministry of Justice \(MoJ\) view of Bluetooth, from a security perspective. It also gives you hints and tips on how to use Bluetooth more safely.
+This guidance tells you more about the Ministry of Justice MoJ view of Bluetooth, from a security perspective. It also gives you hints and tips on how to use Bluetooth more safely.
 
 The aim is to help you maintain the Confidentiality, Integrity and Availability of MoJ data, applications and services. The results should be that:
 
@@ -16,17 +16,19 @@ The aim is to help you maintain the Confidentiality, Integrity and Availability 
 
 **Note:** Remember that there might be local rules that apply regarding the use of Bluetooth devices. A good example is in Prisons, where use of Bluetooth would not be available by default. Ensure that you check with local requirements.
 
+<a id="accessibility"></a>
 ## Accessibility
 
 Some types of Bluetooth devices are not allowed, by default. However, where there is a good reason for requiring a Bluetooth device, such as for Accessibility reasons, then a request for an exception to use the device will be treated sympathetically and permitted wherever possible.
 
 Contact the Cyber Assistance Team by email: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
 
+<a id="bluetooth-devices-and-risks"></a>
 ## Bluetooth devices and risks
 
 Examples of Bluetooth devices, and whether they might be used for business purposes, are as follows:
 
-|Bluetooth device|Suitable for MoJ work purposes \(Y/N\)|
+|Bluetooth device|Suitable for MoJ work purposes Y/N|
 |----------------|:------------------------------------:|
 |Keyboards|Y|
 |Mouse|Y|
@@ -40,7 +42,7 @@ Examples of Bluetooth devices, and whether they might be used for business purpo
 |Hearing aids|Y|
 |Watches and Fitness bands|N|
 |Smart TVs|N - requires authorisation|
-|Storage devices \(similar to USB 'thumb' drives\)|N|
+|Storage devices similar to USB 'thumb' drives|N|
 |Internet-of-things 'Smart speakers'|N|
 
 A Bluetooth device might be at risk from any of the following:
@@ -55,6 +57,7 @@ A Bluetooth device might be at risk from any of the following:
 
 An example of a Bluetooth problem is 'bluetooth marketing'. As your walk around with your mobile phone, it is continuously looking for Bluetooth devices and WiFi access points. It does this to help with acurate location tracking. But other devices can also see your mobile phone. These devices might report tracking information about where you were at any time. This guidance will help you understand more about the problem, and suggest things you can do to reduce the risks.
 
+<a id="best-practices-for-using-bluetooth"></a>
 ## Best practices for using Bluetooth
 
 Before using a Bluetooth device in a work context, consider the following:
@@ -86,10 +89,12 @@ If someone can see what Bluetooth devices you have, or are using, they might try
 
 Generally speaking, Bluetooth devices do not present extra problems when working with `OFFICIAL` material. However, the whole point of Bluetooth is to enable and simplify communications, so you need to be extra careful when using Bluetooth devices while working on `OFFICIAL-SENSITIVE` or higher material.
 
+<a id="contacts"></a>
 ## Contacts
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
+<a id="feedback"></a>
 ## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).

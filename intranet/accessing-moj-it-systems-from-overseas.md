@@ -13,8 +13,10 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 -   If you just need to manage your inbox while away, can you delegate permissions to your inbox to a colleague to manage on your behalf?
 -   Have you left enough time to check and obtain necessary approvals? The process can take several weeks, depending on the circumstances. This is because it may be necessary to apply additional technical controls to protect you, your device, and any data the device can access.
 
+<a id="steps-to-follow-before-travelling"></a>
 ## Steps to follow before travelling
 
+<a id="part-one"></a>
 ### Part One
 
 1.  Get confirmation from your Line Manager that there is a business need for you to take MoJ equipment overseas and access MoJ services. Keep a note of the answers you get.
@@ -26,6 +28,7 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 5.  Check if you need to do anything to prepare for [International Roaming](#international-roaming).
 6.  Enjoy your trip.
 
+<a id="part-two"></a>
 ### Part Two
 
 1.  Collect the following information:
@@ -39,13 +42,13 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
     -   Countries you'll be visiting or passing through.
     -   Dates of travel.
     -   Transport details where possible, for example flights or rail journeys.
-    -   Proposed method of connecting, for example MoJ VPN, WiFi, or Mobile Data \(3G/4G/5G\).
+    -   Proposed method of connecting, for example MoJ VPN, WiFi, or Mobile Data 3G/4G/5G.
     -   Reason for maintaining access while overseas.
     -   The MoJ data, applications, or services you expect to access during your trip.
     -   Who you are travelling with.
 2.  The next step depends your MoJ business area:
-    -   If you are part of MoJ HQ, HMPPS HQ or HMCTS, contact your Senior Civil Servant \(SCS\) and ask for approval to take MoJ equipment overseas and access MoJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
-    -   If you are part of HMPPS \(but *not* HQ\), contact your Governor and ask for approval to take MoJ equipment overseas and access MoJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
+    -   If you are part of MoJ HQ, HMPPS HQ or HMCTS, contact your Senior Civil Servant SCS and ask for approval to take MoJ equipment overseas and access MoJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
+    -   If you are part of HMPPS but *not* HQ, contact your Governor and ask for approval to take MoJ equipment overseas and access MoJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
 3.  Fill in the [overseas travel request form](https://intranet.justice.gov.uk/documents/2020/03/overseas-travel-form.docx).
 4.  Send the completed form to [security@justice.gov.uk](mailto:security@justice.gov.uk), including the answers obtained from the earlier parts of this process.
 5.  Your request is considered, and an answer provided, as quickly as possible.
@@ -55,12 +58,14 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 9.  Take a copy of this guidance; it includes useful contact details that help in the event of a problem while travelling.
 10. Enjoy your trip.
 
+<a id="international-roaming"></a>
 ## International Roaming
 
 While travelling, you might incur roaming charges when using your MoJ equipment for calls or accessing services. These charges can be expensive, and must be paid by your Business Unit. This is another reason for having a good business need to take MoJ equipment overseas.
 
 By default, MoJ equipment is not enabled for use overseas. Before travelling, contact the MoJ Phone and Mobile Devices team. Ask them to enable International Roaming, and to activate the remote wipe function. This helps protect the MoJ equipment in case of loss or theft.
 
+<a id="if-you-have-any-problem-when-using-moj-equipment-overseas"></a>
 ## If you have any problem when using MoJ equipment overseas
 
 Contact the [Service Desk](#contacts) immediately. Tell them if the MoJ equipment is lost, stolen or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.
@@ -69,49 +74,59 @@ If any security-related incident occurs overseas, regardless of whether it invol
 
 If there is a problem with your MoJ equipment, it might be necessary to disable your ability to connect to the MoJ network or services from your device. The Service Desk will do this if required. MoJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MoJ business.
 
+<a id="related-pages"></a>
 ## Related pages
 
 -   [Taking equipment overseas](https://intranet.justice.gov.uk/guidance/security/it-computer-security/accessing-moj-it-systems-overseas/taking-equipment-overseas/)
 -   [Overseas travel](https://intranet.justice.gov.uk/guidance/security/emergencies/coronavirus-guidance/absence-leave/overseas-travel/)
 -   [Staff security and responsibilities – during employment](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment)
 
+<a id="external-websites"></a>
 ## External websites
 
 -   [Foreign & Commonwealth Office – travel & living abroad](https://www.gov.uk/browse/abroad)
 
+<a id="contacts"></a>
 ## Contacts
 
+<a id="operational-security-team"></a>
 ### Operational Security Team
 
 -   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
 -   Slack: `#security`
 
+<a id="dom1-technology-service-desk"></a>
 ### Dom1 - Technology Service Desk
 
 -   Tel: 0800 917 5148
 
 **Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
 
+<a id="digital-technology-digital-service-desk"></a>
 ### Digital & Technology - Digital Service Desk
 
 -   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
 -   Slack: `#digitalservicedesk`
 
+<a id="information-incident-reporting-line"></a>
 ### Information Incident Reporting Line
 
--   Tel: +44 \(0\)20 3334 0324 for HMPPS staff at any time.
--   Tel: +44 \(0\)20 3334 0324 for MoJ staff **outside UK working hours**.
+-   Tel: +44 020 3334 0324 for HMPPS staff at any time.
+-   Tel: +44 020 3334 0324 for MoJ staff **outside UK working hours**.
 
-During UK working hours, MoJ \(but not HMPPS\) staff should follow the process on the [Reporting a Security Incident](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) page on the MoJ Intranet.
+During UK working hours, MoJ but not HMPPS staff should follow the process on the [Reporting a Security Incident](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) page on the MoJ Intranet.
 
+<a id="moj-phone-and-mobile-devices"></a>
 ### MoJ Phone and Mobile Devices
 
 -   Email: [MoJ\_Phone\_and\_Mobi@justice.gov.uk](mailto:MoJ_Phone_and_Mobi@justice.gov.uk)
 
+<a id="moj-security"></a>
 ### MoJ Security
 
 -   Email: [security@Justice.gov.uk](mailto:security@Justice.gov.uk)
 
+<a id="feedback"></a>
 ## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).

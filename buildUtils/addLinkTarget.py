@@ -4,19 +4,10 @@
 
 # Usage: python addLinkTarget.py infile
 
+import os
 import re
 import sys
 
-def check_parm():
-        arguments = sys.argv[1:]
-        count = len(arguments)
-        if count < 1:
-                print("\n")
-                print("addLinkTarget tool can be run using:\n")
-                print("[PROGRAM NAME] [FILE]")
-                sys.exit();
-
-check_parm();
 reportFile = sys.argv[1];
 print("Processing "+reportFile)
 inFile=open(reportFile, 'r')
@@ -41,8 +32,10 @@ for line in inFile:
         working = working.lower()
         outFile.write("<a id=\""+working+"\"></a>\n")
     # Now remove escaped brackets.
-    working = re.sub('[\\][\(]', '+', line)
-    working = re.sub('[\\][\)]', '+', working)
+    working = line.replace("\(", "")
+    working = working.replace("\)", "")
     outFile.write(working)
 outFile.close
 inFile.close
+os.remove(reportFile)
+os.rename(reportFile+".new",reportFile)
