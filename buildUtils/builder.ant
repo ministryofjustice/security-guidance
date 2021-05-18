@@ -240,7 +240,7 @@
 	</target>
 
 	<!-- Enable epub builds for the moment. -->
-	<target name="compile" depends="compile_intranet,compile_md,compile_pdf,compile_epub"/>
+	<target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub"/>
 	<!-- <target name="compile" depends="compile_intranet,compile_md,compile_pdf"/> -->
 
 	<target name="enableRedirect">

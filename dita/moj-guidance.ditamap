@@ -57,7 +57,7 @@ if an audience attribute is present, then only matching content is included.
 		<topicmeta audience="audience-basic audience-tech"><navtitle>Human resource security</navtitle></topicmeta>
 		<topichead audience="audience-basic audience-tech">
 			<topicmeta audience="audience-basic audience-tech"><navtitle>Prior to employment</navtitle></topicmeta>
-			<topicref href="personnel-security-clearances.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 		<topichead audience="audience-basic audience-tech">
 			<topicmeta><navtitle>During employment</navtitle></topicmeta>
@@ -106,12 +106,11 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="access-control-policy.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="enterprise-access-control-policy.dita" type="topic" audience="audience-suppliers audience-tech"/>
 		</topichead>
-		<topichead audience="audience-basic audience-suppliers audience-tech">
-			<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>User access management</navtitle></topicmeta>
+		<topichead audience="audience-suppliers audience-tech">
+			<topicmeta audience="audience-suppliers audience-tech"><navtitle>User access management</navtitle></topicmeta>
 			<topicref href="authentication.dita" type="topic" audience="audience-tech"/>
 			<topicref href="management-access.dita" type="topic" audience="audience-tech"/>
 			<topicref href="managing-user-access-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
-			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="multi-factor-authentication-mfa-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="privileged-user-guide.dita" type="topic" audience="audience-suppliers audience-tech">
 				<topicref href="privileged-user-backups-removable-media-and-incident-management-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>

@@ -61,7 +61,6 @@ if an audience attribute is present, then only matching content is included.
 	</topichead>
 	<topichead>
 		<topicmeta><navtitle>Personnel security clearances</navtitle></topicmeta>
-		<topicref href="personnel-security-clearances.dita" type="topic"/>
 		<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
 	</topichead>
 	<topichead>

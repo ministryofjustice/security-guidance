@@ -32,7 +32,6 @@
 -   Risk assessment
     -   [Risk assessment](risk-reviews.md)
 -   Personnel security clearances
-    -   [Personnel security clearances](personnel-security-clearances.md)
     -   [Minimum user clearance](minimum-user-clearance-requirements-guide.md)
 -   User access
     -   [User access](acceptable-use.md)
