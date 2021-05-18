@@ -60,7 +60,8 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="end-or-change-of-employment.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="national-security-vetting-questions.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="personnel-security-clearances.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="security-vetting-assessment-need.dita" type="topic" audience="audience-basic audience-tech"/>
+			<!-- The security vetting assessment need webpage is not required, only the download document. -->
+			<topicref href="security-vetting-assessment-need.dita" type="topic" audience="audience-basic audience-tech" processing-role="resource-only"/>
 		</topichead>
 		<topichead audience="audience-basic audience-tech">
 			<topicmeta><navtitle>During employment</navtitle></topicmeta>

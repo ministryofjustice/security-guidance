@@ -43,7 +43,7 @@ Three scenarios are given here:
 
     For example, the employee currently possesses DV clearance with their present department but their new post in MoJ requires SC.
 
-    Answer: For security reasons, the MoJ **CANNOT** transfer the higher level of clearance as the **role** does not require it. However, information is extracted to ensure that the candidate is not required to re-apply for a lower level of transfer. This is subject to the current department agreeing to transfer.
+    Answer: For security reasons, the MoJ **CAN NOT** transfer the higher level of clearance as the **role** does not require it. However, information is extracted to ensure that the candidate is not required to re-apply for a lower level of transfer. This is subject to the current department agreeing to transfer.
 
 
 ### Can a candidate start work before applying for NSV?
@@ -52,7 +52,7 @@ If NSV is required for a position, candidates **SHOULD NOT** start until their N
 
 In exceptional circumstances, a policy dispensation request can be made \(via [security@justice.gov.uk](mailto:security@justice.gov.uk)\) to MoJ Group Security, who will provide a request form and then give a recommendation on whether to grant or refuse the request. Any risk mitigation measures deemed to be required \(such as plans to segregate the candidate from data that they don't have clearance to see\) will also be provided for the Senior Security Advisor and the business unit to sign-up to.
 
-As a minimum requirement, a candidate **MUST** have submitted their Security Questionnaire on the NSVS portal. This does not extend to Contractors and Agency staff, who **MUST** have their NSV in place before they start. If you do not know who your National Security Vetting Contact \(NSVC\) is you can search [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+As a minimum requirement, a candidate **SHALL** have submitted their Security Questionnaire on the NSVS portal. This does not extend to Contractors and Agency staff, who **SHALL** have their NSV in place before they start. If you do not know who your National Security Vetting Contact \(NSVC\) is you can search [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
 ## Directly employed staff
 

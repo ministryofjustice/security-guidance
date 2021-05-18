@@ -34,7 +34,7 @@
 		the installation directory for the DITA Open Source Toolkit -->
 	<property name="dita.dir" location="${env.DITA_DIR}"/>
 
-	<target name="init">
+	<target name="init" depends="clean">
 		<!-- Create the time stamp -->
 		<tstamp>
 			<format property="TODAY_GB" pattern="d MMMM yyyy" locale="en,GB"/>
@@ -74,6 +74,9 @@
 			<property name="output.dir" location="${intranet}"/>
 			<property name="transtype" value="markdown_github"/>
 		</ant>
+		<copy todir="${intranet}/gs" >
+			<fileset dir="${basedir}/gs"/>
+		</copy>
 		<replaceregexp match="\*\*Parent topic\:\*\*(\S)" replace="**Parent topic:** \1" flags="g" >
 			<fileset dir="${intranet}" includes="**/*.md"/>
 		</replaceregexp>
@@ -255,8 +258,8 @@
 		<copy file="${temp.file}" tofile="${docs}/${theFileName}.md" overwrite="true"/>
 	</target>
 
-	<!-- <target name="dist_local" depends="compile_md,compile_intranet" -->
-	<target name="dist_local" depends="compile_intranet"
+	<!-- <target name="dist_local" depends="compile_intranet" -->
+	<target name="dist_local" depends="compile_md,compile_intranet"
 				description="generate minimal set to test local build">
 		<!-- Create the distribution directory -->
 		<mkdir dir="${docs}"/>
