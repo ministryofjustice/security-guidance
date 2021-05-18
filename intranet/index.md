@@ -1,4 +1,4 @@
-# Ministry of Justice \(MoJ\) Cyber Security Guidance: Intranet Edition
+# Ministry of Justice MoJ Cyber Security Guidance: Intranet Edition
 
 -   [Intranet landing page](intranet-landing-page.md)
 -   Equipment
