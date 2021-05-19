@@ -53,6 +53,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta><navtitle>Overseas travel</navtitle></topicmeta>
 			<topicref href="accessing-moj-it-systems-from-overseas.dita" type="topic"/>
 			<topicref href="general-advice-on-taking-equipment-overseas.dita" type="topic"/>
+			<topicref href="overseas-travel.dita" type="topic"/>
 		</topichead>
 	</topichead>
 	<topichead>
