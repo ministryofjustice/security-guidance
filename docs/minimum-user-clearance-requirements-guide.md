@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - /guides/personnel-security-clearances/
+  - /personnel-security-clearances/
+---
 # Minimum User Clearance Requirements Guide
 
 ## Introduction

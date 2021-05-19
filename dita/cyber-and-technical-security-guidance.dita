@@ -446,7 +446,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="personnel-security-clearances.dita" format="dita" type="topic">Personnel security clearances</xref></entry>
+                <entry colname="col1" align="left"><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels Guide</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
         			<!-- The security vetting assessment need webpage is not required, only the download document.
@@ -596,10 +596,6 @@ has made for the products we operate, and our relationships with suppliers.</p>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="managing-user-access-guide.dita" format="dita">Managing User Access Guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels Guide</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="multi-factor-authentication-mfa-guide.dita" format="dita" type="topic">Multi-Factor Authentication</xref></entry>

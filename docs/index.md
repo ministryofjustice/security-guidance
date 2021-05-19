@@ -139,7 +139,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 |[End or change of employment](end-or-change-of-employment.md)|All users|
 |[National Security Vetting questions](national-security-vetting-questions.md)|All users|
-|[Personnel security clearances](personnel-security-clearances.md)|All users|
+|[Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)|All users|
 
 #### During employment
 
@@ -184,7 +184,6 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |[Authentication](authentication.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Management access](management-access.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Managing User Access Guide](managing-user-access-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)|All users|
 |[Multi-Factor Authentication](multi-factor-authentication-mfa-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Privileged User Backups, Removable Media and Incident Management Guide](privileged-user-backups-removable-media-and-incident-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Privileged User Configuration, Patching and Change Management Guide](privileged-user-configuration-patching-and-change-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|

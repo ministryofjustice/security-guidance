@@ -35,7 +35,6 @@
     -   [End or change of employment](end-or-change-of-employment.md)
     -   [Minimum user clearance](minimum-user-clearance-requirements-guide.md)
     -   [National Security Vetting questions](national-security-vetting-questions.md)
-    -   [Personnel security clearances](personnel-security-clearances.md)
 -   User access
     -   [User access](acceptable-use.md)
     -   [Data Security and Privacy](data-security-and-privacy.md)
