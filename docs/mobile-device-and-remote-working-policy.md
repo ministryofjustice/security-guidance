@@ -83,8 +83,6 @@ Remote working refers to all forms of business activity that takes place outside
 
 -   The provision of suitable equipment and storage furniture for the remote working activities.
 -   A definition of the work permitted, the hours of work, the classification of information that may be held, and the internal systems and services that the remote worker is authorised to access.
--   The provision of suitable communication equipment, including methods for securing remote access.
--   Physical security.
 -   The provision of hardware and software support and maintenance.
 -   The provision of insurance.
 -   The procedures for information and asset backup, and for ensuring business continuity.
