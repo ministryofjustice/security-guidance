@@ -1,6 +1,6 @@
 # Web Browsing
 
-The Ministry of Justice \(MoJ\) provides access to the Intranet and Internet for business use. The access helps you to do your job effectively and efficiently. MoJ security policies governs your use of these facilities.
+The Ministry of Justice (MoJ) provides access to the Intranet and Internet for business use. The access helps you to do your job effectively and efficiently. MoJ security policies governs your use of these facilities.
 
 [Reasonable](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/) personal use is allowed, if:
 
@@ -16,6 +16,7 @@ If you connect to a website that contains unsuitable, illegal or offensive mater
 
 The Department monitors the use of electronic communications and web-browsing activity. If your email use or web browsing seems unacceptable, your manager can request detailed activity reports.
 
+<a id="websites-you-can-access"></a>
 ## Websites you can access
 
 The MoJ's approach to website access is continually reviewed and updated. By default, we try to allow access to as much as possible of the internet for all users. Inevitably, there are some restrictions, for the following reasons:
@@ -35,6 +36,7 @@ The MoJ's approach to website access is continually reviewed and updated. By def
 
 The list of websites included in each of the categories is as small as possible. But if you cannot access a site that you think should be OK, you can [request a review](#what-to-do-if-you-are-blocked-from-a-website-that-you-think-should-be-ok). Similarly, if you can access a site that you think should be blocked, [request a review](#what-to-do-if-you-are-able-to-access-a-website-that-you-think-should-be-blocked).
 
+<a id="what-to-do-if-you-are-blocked-from-a-website-that-you-think-should-be-ok"></a>
 ## What to do if you are blocked from a website that you think should be OK
 
 Log an incident with your [Service Desk](#general-enquiries-including-theft-and-loss).
@@ -51,6 +53,7 @@ If there was a system error or fault, remedial action will restore access.
 
 If the block is due to an access rule, Operational Security reviews whether to change the rule.
 
+<a id="what-to-do-if-you-are-able-to-access-a-website-that-you-think-should-be-blocked"></a>
 ## What to do if you are able to access a website that you think should be blocked
 
 Log an incident with your [Service Desk](#general-enquiries-including-theft-and-loss).
@@ -61,12 +64,14 @@ Provide the following details:
 -   The time you visited the site.
 -   The reason why you think the site should be blocked.
 
+<a id="other-help"></a>
 ## Other help
 
 -   HMPPS Prison - All requests should be directed to the Service Desk via a local or area IT Manager.
 -   HMPPS Probation - Log an incident with your [Service Desk](#general-enquiries-including-theft-and-loss).
 -   All other teams, contact the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
 
+<a id="general-enquiries,-including-theft-and-loss"></a>
 ## General enquiries, including theft and loss
 
 **Dom1/Quantum - Technology Service Desk**
@@ -85,6 +90,7 @@ Provide the following details:
 -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
 -   Tel: 0203 334 0324
 
+<a id="feedback"></a>
 ## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).

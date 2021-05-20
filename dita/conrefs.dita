@@ -25,7 +25,7 @@
 			<ph id="giaaemail"><xref href="mailto:correspondence@giaa.gov.uk" format="email" scope="external">correspondence@giaa.gov.uk</xref></ph> <!-- Government Internal Audit Agency -->
 			<ph id="gov007"><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></ph>
 			<ph id="groupsecurityemail"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="email" scope="external">mojgroupsecurity@justice.gov.uk</xref></ph>
-			<ph id="groupsecurityemailtext"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="email" scope="external"><ph conref="#conrefs/moj"/> group security</xref></ph>
+			<ph id="groupsecurityemailtext"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="email" scope="external"><ph conref="#conrefs/moj"/> Group Security</xref></ph>
 			<ph id="gsuite">Google Workspace</ph>
 			<ph id="hmggovernmentsecurityclassifications"><xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">HMG Government Security Classifications Policy</xref></ph>
 			<ph id="itpolicycontentemail"><xref href="mailto:itpolicycontent@digital.justice.gov.uk" format="email" scope="external">itpolicycontent@digital.justice.gov.uk</xref></ph>
@@ -34,15 +34,23 @@
 			<ph id="moj">MoJ</ph>
 			<ph id="ncsclong">National Cyber Security Centre (NCSC)</ph>
 			<ph id="ncsc">NCSC</ph>
+			<ph id="nsvc-contact">If you do not know who your National Security Vetting Contact (NSVC) is you can
+				search <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external">here</xref>.</ph>
 			<ph id="ostemail"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
+			<ph id="policyterms">In policy documents,
+				formal terms such as <q><ph conref="#conrefs/policyshall"/></q>,
+				or <q><ph conref="#conrefs/policyshould"/></q>,
+				are as defined in the UK Government <q>Orange Book</q>
+				<xref href="https://www.gov.uk/government/publications/orange-book" format="html" scope="external">Management of Risk - Principles and Concepts</xref>.</ph>
+			<ph id="policycannot"><b>CAN NOT</b></ph>
 			<ph id="policymandatory"><b>MANDATORY</b></ph>
-			<ph id="policymust"><b>MUST</b></ph>
-			<ph id="policymustnot"><b>MUST NOT</b></ph>
+			<ph id="policymust"><b>SHALL</b></ph>
+			<ph id="policymustnot"><b>SHALL NOT</b></ph>
 			<ph id="policyonly"><b>ONLY</b></ph>
 			<ph id="policyshall"><b>SHALL</b></ph>
 			<ph id="policyshould"><b>SHOULD</b></ph>
 			<ph id="policyshouldnot"><b>SHOULD NOT</b></ph>
-			<ph id="policywill"><b>WILL</b></ph>
+			<ph id="policywill"><b>SHALL</b></ph>
 			<ph id="privacyemail"><xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">privacy@justice.gov.uk</xref></ph>
 			<ph id="recordsretentionemail"><xref href="mailto:Records_Retention_@justice.gov.uk" format="email" scope="external">Records_Retention_@justice.gov.uk</xref></ph>
 			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></ph>

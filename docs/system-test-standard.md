@@ -79,7 +79,7 @@ The following three principles must be applied when putting together a test plan
 2.  The tests may need to be repeated to provide assurance that subsequent changes to the system or service have not introduced new vulnerabilities.
 3.  The testing services \(automated or otherwise\) used must generate security compliance/assurance evidence against known threats and current IT security policies. For example, penetration testing \(or ITHC\), ad-hoc scanning, secure code review, and software configuration assurance.
 
-**Note:** It is MoJ policy that system testing **MUST NOT** be conducted in a live environment. System testing should combine tests conducted in a non-live system test environment with tests conducted in a live environment \(e.g. an IT Health Check\).
+**Note:** It is MoJ policy that system testing **SHALL NOT** be conducted in a live environment. System testing should combine tests conducted in a non-live system test environment with tests conducted in a live environment \(e.g. an IT Health Check\).
 
 The rest of this document is split into four sections:
 

@@ -22,6 +22,7 @@
 	<property name="dita" location="dita"/>
 	<property name="build" location="${dita}/out"/>
 	<property name="buildhtml" location="${dita}/outhtml"/>
+	<property name="buildUtils" location="buildUtils"/>
 	<property name="images.output.dir" location="${dita}/out/images"/>
 	<property name="docs" location="docs"/>
 	<property name="worddocs" location="worddocs"/>
@@ -33,7 +34,7 @@
 		the installation directory for the DITA Open Source Toolkit -->
 	<property name="dita.dir" location="${env.DITA_DIR}"/>
 
-	<target name="init">
+	<target name="init" depends="clean">
 		<!-- Create the time stamp -->
 		<tstamp>
 			<format property="TODAY_GB" pattern="d MMMM yyyy" locale="en,GB"/>
@@ -66,6 +67,19 @@
 		<copy file="${temp.file}" tofile="${intranet}/${thePolicy}.pdf" overwrite="true"/>
 	</target>
 
+	<target name="addLinkTarget">
+		<echo message="Adding link targets in file: ${theFile}"/>
+		<exec dir="${buildUtils}" executable="python" output="addLinkTarget.txt">
+			<arg line="addLinkTarget.py ${theFile}"/>
+		</exec>
+		<!-- Report results -->
+		<loadfile property="addLinkTarget" srcFile="addLinkTarget.txt" />
+		<echo message="${addLinkTarget}" />
+		<delete file="addLinkTarget.txt"/>
+		<!-- Tidy up. -->
+		<!-- <move file="${theFile}.new" tofile="${theFile}" overwrite="true"/> -->
+	</target>
+
 	<target name="compile_intranet" depends="init"
 				description="compile the Intranet collection into markdown">
 		<delete dir="${intranet}"/>
@@ -87,9 +101,18 @@
 		<antcall target="policy_builder">
             <param name="thePolicy" value="policy-information-classification"/>
         </antcall>
+		<copy todir="${intranet}/gs" >
+			<fileset dir="${basedir}/gs"/>
+		</copy>
 		<replaceregexp match="\*\*Parent topic\:\*\*(\S)" replace="**Parent topic:** \1" flags="g" >
 			<fileset dir="${intranet}" includes="**/*.md"/>
 		</replaceregexp>
+		<echo message="Adding link targets."/>
+		<foreach target="addLinkTarget" param="theFile">
+			<path>
+				<fileset dir="${intranet}" includes="**/*.md"/>
+			</path>
+		</foreach>
 	</target>
 
 	<target name="compile_md" depends="init"
@@ -189,6 +212,7 @@
 		</copy>
 
 		<!-- First build the Technical users EPUB, containing their content. -->
+		<echo message="Build EPUB: Technical users."/>
 		<!--
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
@@ -210,25 +234,26 @@
 
 		<!-- Next build the Suppliers EPUB, containing just their content. -->
 		<!--
+		<echo message="Build EPUB: Suppliers."/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
 			<property name="args.filter" value="${dita}/github.ditaval:${dita}/notpolicy.ditaval:${dita}/epub.ditaval:${dita}/audience-suppliers.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="epub"/>
 		</ant>
-		-->
 		<exec dir="${dita}" executable="ditac" output="build-suppliers.txt">
 			<arg line="-images img -p xsl-resources-directory res -filter audience-suppliers-ditac.ditaval -format epub3 -index -v out/moj-guidance-suppliers.epub moj-guidance.ditamap"/>
 		</exec>
-		<!-- Report results -->
+		<!__ Report results __>
 		<loadfile property="epub-suppliers" srcFile="build-suppliers.txt" />
 		<echo message="${epub-suppliers}" />
 		<delete file="build-suppliers.txt"/>
-		<!-- Rename this file to be Suppliers users guide.
+		<!__ Rename this file to be Suppliers users guide.
 		<move file="${build}/moj-guidance.epub" tofile="${build}/moj-guidance-suppliers.epub" overwrite="true"/>
 		-->
 
 		<!-- Now build the 'all users' guide, omitting the technical details. -->
+		<echo message="Build EPUB: all users, no technical detail."/>
 		<!--
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance.ditamap"/>
@@ -247,7 +272,7 @@
 	</target>
 
 	<!-- Enable epub builds for the moment. -->
-	<target name="compile" depends="compile_intranet,compile_md,compile_pdf,compile_epub"/>
+	<target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub"/>
 	<!-- <target name="compile" depends="compile_intranet,compile_md,compile_pdf"/> -->
 
 	<target name="enableRedirect">
@@ -260,11 +285,13 @@
 		<copy file="${temp.file}" tofile="${docs}/${theFileName}.md" overwrite="true"/>
 	</target>
 
+	<!-- <target name="dist_local" depends="compile_intranet" -->
 	<target name="dist_local" depends="compile_md,compile_intranet"
 				description="generate minimal set to test local build">
 		<!-- Create the distribution directory -->
 		<mkdir dir="${docs}"/>
 		<mkdir dir="${docs}/images"/>
+		<mkdir dir="${docs}/gs"/>
 		<copy todir="${docs}" >
 			<fileset dir="${jekyll-baseline}"/>
 		</copy>
@@ -280,6 +307,9 @@
 			</path>
 		</foreach>
 		<copy file="${docs}/cyber-and-technical-security-guidance.md" tofile="${docs}/index.md" overwrite="true"/>
+		<copy todir="${docs}/gs" >
+			<fileset dir="${basedir}/gs"/>
+		</copy>
 	</target>
 
 	<target name="dist" depends="compile"

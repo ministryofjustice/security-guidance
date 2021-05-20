@@ -62,7 +62,7 @@
       </ul></p>
     </body>
   </topic>
-  <topic id="technical-controls">
+  <topic id="technical-controls" audience="audience-tech">
     <title>Technical controls</title>
     <body>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph product="notpolicy"><xref href="technical-security-controls-guide.dita" format="dita">Technical Security Controls Guide</xref></ph><ph product="policy">Technical Security Controls Guide</ph>

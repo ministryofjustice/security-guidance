@@ -4,17 +4,19 @@ Minimum User Clearance Requirements Guide
 
 This Minimum User Clearance Requirements Guide outlines the level of security clearance required for staff in order to access specific account types.
 
+<a id="security-clearance-levels"></a>
 ## Security clearance levels
 
-The Ministry of Justice \(MoJ\) uses the [national security vetting clearance levels](https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels):
+The Ministry of Justice (MoJ) uses the [national security vetting clearance levels](https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels):
 
--   Baseline Personnel Security Standard \(BPSS\)
--   Counter Terrorist Check \(CTC\)
--   Security Check \(SC\)
--   Developed Vetting \(DV\)
+-   Baseline Personnel Security Standard (BPSS)
+-   Counter Terrorist Check (CTC)
+-   Security Check (SC)
+-   Developed Vetting (DV)
 
-Where appropriate, Enhanced checks apply, for example Enhanced Security Check \(eSC\).
+Where appropriate, Enhanced checks apply, for example Enhanced Security Check (eSC).
 
+<a id="minimum-user-clearance-requirements"></a>
 ## Minimum user clearance requirements
 
 Most of the MoJ IT systems are able to process `OFFICIAL` information. Therefore all roles in the MoJ require staff to attain BPSS clearance as a minimum to be granted access rights to view `OFFICIAL` information. Some roles require staff to have higher clearance.
@@ -36,6 +38,7 @@ The MoJ HQ and Executive Agencies might have additional, specific requirements f
 
 Please contact the Cyber Assistance Team and refer to the [Vetting Policy](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/) for further information.
 
+<a id="checking-someone's-clearance-status"></a>
 ## Checking someone's clearance status
 
 To check someone's clearance status, collect the following information:
@@ -44,12 +47,14 @@ To check someone's clearance status, collect the following information:
 -   Their last name.
 -   Their date of birth.
 
-Send this information to the MoJ Group Security Team, by emailing: [MoJ group security](mailto:mojgroupsecurity@justice.gov.uk). The team will check with the Cluster, to determine the individual's clearance status, if any. If you are authorised to receive the answer, the team will reply to you with the answer.
+Send this information to the MoJ Group Security Team, by emailing: [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). The team will check with the Cluster, to determine the individual's clearance status, if any. If you are authorised to receive the answer, the team will reply to you with the answer.
 
+<a id="contacts"></a>
 ## Contacts
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
+<a id="feedback"></a>
 ## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).

@@ -4,8 +4,9 @@ Acceptable use of Information Technology at work.
 
 This guidance applies to all staff and contractors who work for MoJ.
 
-Everyone working at the MoJ has access to MoJ Information Technology \(IT\) resources. You must use them in an acceptable way. This guidance explains what that means.
+Everyone working at the MoJ has access to MoJ Information Technology (IT) resources. You must use them in an acceptable way. This guidance explains what that means.
 
+<a id="summary"></a>
 ## Summary
 
 Be sensible when using MoJ IT resources:
@@ -20,10 +21,12 @@ Be sensible when using MoJ IT resources:
 
 The way you use IT is important, because it indicates your approach to work, and can be taken into account when assessing your behaviour and performance.
 
+<a id="what-is-meant-by-it"></a>
 ## What is meant by IT?
 
-IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices \(such as laptops, 'phones, mobile Wi-Fi hotspots \(MiFi\), iPads, tablets, printers, USB memory sticks\) through to online services \(citizen-facing online services, staff tools, corporate email\).
+IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices (such as laptops, 'phones, mobile Wi-Fi hotspots (MiFi), iPads, tablets, printers, USB memory sticks) through to online services (citizen-facing online services, staff tools, corporate email).
 
+<a id="acceptable-use-of-moj-it"></a>
 ## Acceptable use of MoJ IT
 
 Acceptable use of IT is when you use it to do your work.
@@ -32,6 +35,7 @@ IT helps you complete your tasks as efficiently and effectively as possible. Som
 
 Acceptable use can also vary according to context. For example, checking sensitive personal details might be perfectly normal within a secured office, but is not acceptable in a public space where anyone else might see those details.
 
+<a id="unacceptable-use-of-moj-it"></a>
 ## Unacceptable use of MoJ IT
 
 Unacceptable use of IT prevents you or your colleagues from doing work, or is unlawful or illegal, or does not take the context into account.
@@ -46,6 +50,7 @@ There are many unacceptable uses of IT, making it impossible to provide a comple
 -   Excessive private use during working time.
 -   Installing unlicensed or unauthorised software.
 
+<a id="why-unacceptable-use-is-a-problem"></a>
 ## Why unacceptable use is a problem
 
 Unacceptable use of IT might affect the MoJ in several ways, such as:
@@ -61,6 +66,7 @@ Unacceptable use might also affect you, too:
 -   Disciplinary proceedings, up to and including dismissal.
 -   Termination of contract for contractors and agency staff.
 
+<a id="keeping-control"></a>
 ## Keeping control
 
 You are responsible for protecting your MoJ IT resources. This includes keeping your usernames and passwords safe and secure.
@@ -74,10 +80,12 @@ If you get an email from anyone or anywhere that you are not sure about, remembe
 
 If there is any doubt, or you are worried that the [email might be malicious](https://intranet.justice.gov.uk/news/ntk-phishing-dont-take-the-bait/) or inappropriate, [report it immediately](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) as an IT security incident.
 
+<a id="personal-use-of-moj-it"></a>
 ## Personal use of MoJ IT
 
 Limited personal use of MoJ IT is acceptable as long as it does not cause a problem with your work or that of your colleagues. Context is important. For example, doing personal internet banking during your lunch break might be acceptable, but doing the same thing during a work meeting would not.
 
+<a id="personal-use-of-moj-mobile-phones"></a>
 ### Personal use of MoJ mobile phones
 
 You might be allocated a mobile phone for use as part of your work. The mobile phone enables you to:
@@ -101,24 +109,29 @@ Examples of unacceptable MoJ mobile phone use include:
 
 All use of MoJ IT resources is monitored and logged. This includes mobile phone usage listed in account bills. It is possible to see if you used a work-issued mobile phone for unacceptable activities. Unacceptable use is reported to your Line Manager for further appropriate action. Assessing your behaviour and performance takes this kind of activity into account.
 
+<a id="using-moj-it-outside-your-usual-workplace"></a>
 ## Using MoJ IT outside your usual workplace
 
 Some IT resources might be usable [away from your usual workplace](https://intranet.justice.gov.uk/documents/2017/12/remote-working-and-mobile-computing-security-guide-november-2017.pdf), such as a laptop. Even outside the office, you must continue to ensure acceptable use of the IT resources.
 
 You should also [ask](https://intranet.justice.gov.uk/guidance/security/it-computer-security/accessing-moj-it-systems-from-overseas/) before taking MoJ IT equipment outside the UK.
 
+<a id="avoid-using-removable-media"></a>
 ## Avoid using removable media
 
 Removable media like memory sticks are portable and easy-to-use. Unfortunately, this makes them a security risk, so [avoid using them](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/). If however they are essential to your work, follow the [Use of Removable Media](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/) guidance.
 
+<a id="personalisation-of-equipment"></a>
 ## Personalisation of equipment
 
 A popular trend is to adorn laptops with stickers. This is acceptable as long as the material does not cause problems such as upset, offence, or embarrassment. The same applies if you customise the desktop environment of your equipment, for example by changing the desktop image.
 
+<a id="contacts"></a>
 ## Contacts
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
+<a id="feedback"></a>
 ## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
