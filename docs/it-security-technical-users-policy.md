@@ -41,13 +41,13 @@ The policy outlines the control design requirements that are needed to secure th
 
 ## Cryptography
 
-Cryptography is a method of securing information and communication channels to allow only authorised recipients and personnel to view the information. The MoJ's IT systems **MUST** use cryptographic technologies to provide secure connections to third party systems or to protect information “at rest” on user devices, including laptops and mobile devices.
+Cryptography is a method of securing information and communication channels to allow only authorised recipients and personnel to view the information. The MoJ's IT systems **SHALL** use cryptographic technologies to provide secure connections to third party systems or to protect information “at rest” on user devices, including laptops and mobile devices.
 
 However, where staff have procured key material or hardware through the United Kingdom Key Production Authority \(UKKPA\) or any other cryptographic items where National Cyber Security Centre \(NCSC\) dictate that national cryptographic policy applies, the NCSC dictate the policy. In this case, the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) \(previously HMG IA Standard No. 4, Protective Security Controls for the Handling and Management of Cryptographic Items, IS4\) applies.
 
 **Note:** IS4 can be accessed by joining the [Cyber Security Information Sharing Partnership \(CISP\)](https://www.ncsc.gov.uk/section/keep-up-to-date/cisp) and joining the UKKPA-Crpy Key Policy and Incident Management Group.
 
-The MoJ's Staff who use cryptography **MUST** ensure they have the appropriate level of security clearance. This requires secret \(SC\) level clearance for managing cryptography.
+The MoJ's Staff who use cryptography **SHALL** ensure they have the appropriate level of security clearance. This requires secret \(SC\) level clearance for managing cryptography.
 
 The Chief Information Security Officer \(CISO\) is accountable to the Senior Information Risk Owner \(SIRO\) and Senior Security Advisor \(SSA\) for ensuring the MoJ's compliance with the minimum cryptography requirements.
 
@@ -55,7 +55,7 @@ The Chief Information Security Officer \(CISO\) is accountable to the Senior Inf
 
 The MoJ ensures that all in house development, including development performed by third parties, is performed according to industry best practices and standards, as laid out in the Software Development Lifecycle Guide \(SDLC\).
 
-All MoJ developers **MUST** ensure they are aware of the importance of security when developing software and applications for MoJ use. The SDLC addresses the required methodology to be used in code development, and the security concerns that **MUST** be accounted for during the development lifecycle.
+All MoJ developers **SHALL** ensure they are aware of the importance of security when developing software and applications for MoJ use. The SDLC addresses the required methodology to be used in code development, and the security concerns that **SHALL** be accounted for during the development lifecycle.
 
 ## Security incident management
 
@@ -69,17 +69,17 @@ The MoJ [IT Incident Management Guide](incident-management-plan-and-process-guid
 
 For the MoJ Information Assurance Framework Process to be effective, it must extend to organisations working on behalf of the MoJ or handling MoJ assets, such as contractors, offshore or nearshore managed service providers, and suppliers of IT systems. Within the Framework, the Contract owner is responsible for ensuring that:
 
--   The supplier service delivery **MUST** be regularly monitored, reviewed, and audited.
--   When the MoJ buys IT goods, services, systems, or equipment, IT security implications **MUST** be considered.
--   All MoJ IT suppliers who handle and store information on behalf of the MoJ **MUST** be assessed annually against the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) \(previously HMG [Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\) and the MoJ's [IT Security Policy](it-security-policy-overview.md). Additional self-assessment requirements may be stipulated in the contract between the IT supplier and the MoJ. The MoJ's IT suppliers are responsible for carrying out these self-assessments, and for submitting those assessments to the MoJ. The MoJ is responsible for approving the assessments submitted by the supplier.
--   The appropriate measures **MUST** be put in place for any supplier not meeting compliance requirements, and the relevant MoJ teams **MUST** be notified and consulted.
--   All MoJ suppliers and contractors **MUST** adhere to the GDPR and the Data Protection Act 2018.
+-   The supplier service delivery **SHALL** be regularly monitored, reviewed, and audited.
+-   When the MoJ buys IT goods, services, systems, or equipment, IT security implications **SHALL** be considered.
+-   All MoJ IT suppliers who handle and store information on behalf of the MoJ **SHALL** be assessed annually against the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) \(previously HMG [Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\) and the MoJ's [IT Security Policy](it-security-policy-overview.md). Additional self-assessment requirements may be stipulated in the contract between the IT supplier and the MoJ. The MoJ's IT suppliers are responsible for carrying out these self-assessments, and for submitting those assessments to the MoJ. The MoJ is responsible for approving the assessments submitted by the supplier.
+-   The appropriate measures **SHALL** be put in place for any supplier not meeting compliance requirements, and the relevant MoJ teams **SHALL** be notified and consulted.
+-   All MoJ suppliers and contractors **SHALL** adhere to the GDPR and the Data Protection Act 2018.
 
 Further advice can be found in the [Information Classification, Handling and Security Guide](information-classification-handling-and-security-guide.md).
 
 ### Physical and personnel Security
 
-The Contract owner **MUST** include appropriate clauses in a contract with any supplier which will define the classified matter that is furnished, or which is to be developed, under said contract. This will include any relevant personnel security controls such as security clearance. Not all contracts will require such clauses, but where they are required, and failing the inclusion of this information in the contract, a separate [Security Aspects Letter \(SAL\)](security-aspect-letters.md) is issued to the contractor along with the contract document.
+The Contract owner **SHALL** include appropriate clauses in a contract with any supplier which will define the classified matter that is furnished, or which is to be developed, under said contract. This will include any relevant personnel security controls such as security clearance. Not all contracts will require such clauses, but where they are required, and failing the inclusion of this information in the contract, a separate [Security Aspects Letter \(SAL\)](security-aspect-letters.md) is issued to the contractor along with the contract document.
 
 ## Privileged users
 
@@ -91,7 +91,7 @@ The guide sets out the security controls and processes required for the secure h
 
 ### Technical risk assessment and information assurance
 
-The MoJ risk assessment and information assurance is defined in the Information Assurance Framework Process, which requires that all IT systems that manage or are connected to government information **MUST** be assessed to identify technical risks.
+The MoJ risk assessment and information assurance is defined in the Information Assurance Framework Process, which requires that all IT systems that manage or are connected to government information **SHALL** be assessed to identify technical risks.
 
 ### Audit
 
@@ -101,10 +101,10 @@ Third party audits will be carried out by the [Government Internal Audit Agency]
 
 When conducting an audit:
 
--   Documentary evidence **MUST** be made available to auditors upon request.
--   Details provided **SHOULD** include the implementation of any technical security control in an IT system. Documentary evidence of changes **MUST** be reviewed.
+-   Documentary evidence **SHALL** be made available to auditors upon request.
+-   Details provided **SHOULD** include the implementation of any technical security control in an IT system. Documentary evidence of changes **SHALL** be reviewed.
 -   The evaluation **SHOULD** cover all types of changes, including configuration changes, to IT systems, and the IT security implications of those changes. This includes the case where no significant IT security impacts are identified.
--   Evidence of operating effectiveness for technical controls **MUST** be provided, and the desired risk mitigation as documented in the Information Assurance Framework Process.
+-   Evidence of operating effectiveness for technical controls **SHALL** be provided, and the desired risk mitigation as documented in the Information Assurance Framework Process.
 -   Activities involving verification of operational systems **SHOULD** be carefully planned and agreed to minimise disruptions to business processes.
 
 ## Incidents

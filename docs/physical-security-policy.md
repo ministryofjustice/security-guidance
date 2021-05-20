@@ -26,13 +26,13 @@ It is essential that MoJ business is conducted in an environment where potential
 
 This policy sets out a framework to follow a “layered” approach to physical security. It provides suitably secure environments from which the MoJ can operate, to achieve its strategic aims and objectives by implementing security measures in layers, to appropriately protect personnel and assets, including material of differing levels of sensitivity.
 
-This policy provides a high-level organisational objective for the MoJ with regards to Physical Security, supported by **MANDATORY** Physical Security Standards which **MUST** be followed to ensure compliance, as they represent the minimum measures required to protect the security of assets, information and people.
+This policy provides a high-level organisational objective for the MoJ with regards to Physical Security, supported by **MANDATORY** Physical Security Standards which **SHALL** be followed to ensure compliance, as they represent the minimum measures required to protect the security of assets, information and people.
 
 ## Responsibilities
 
 All employees, contractors, partners, service providers and employees of other organisations who are on MoJ premises and co-located sites remain accountable for the security, health and safety of themselves, colleagues and the protection of Departmental Assets.
 
-The most senior grade based at each site, or in “Moderate Risk” and larger sites the Senior Responsible Officer \(SRO\), has responsibility for ensuring physical security risk assessments are conducted annually. They **MUST** ensure the action plans created to address identified risks and instigate business continuity activities are up-to-date, clearly communicated, regularly rehearsed, implemented effectively, and readily available, in accordance with their significance, importance, or classification.
+The most senior grade based at each site, or in “Moderate Risk” and larger sites the Senior Responsible Officer \(SRO\), has responsibility for ensuring physical security risk assessments are conducted annually. They **SHALL** ensure the action plans created to address identified risks and instigate business continuity activities are up-to-date, clearly communicated, regularly rehearsed, implemented effectively, and readily available, in accordance with their significance, importance, or classification.
 
 Managing the physical security controls of sites occupied by MoJ employees is the responsibility of a contracted provider. The physical security controls include, for example:
 
@@ -46,19 +46,19 @@ It is the responsibility of those procuring supplier contracts for such physical
 
 ## Policy statements
 
-Physical Security controls **MUST** be implemented that are proportionate to the risk appetite of the MoJ, and in adherence with the Information Security Policy and Acceptable Use Policy and other appropriate personnel and information security standards, including successful completion of the [Baseline Personnel Security Standard](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/714002/HMG_Baseline_Personnel_Security_Standard_-_May_2018.pdf).
+Physical Security controls **SHALL** be implemented that are proportionate to the risk appetite of the MoJ, and in adherence with the Information Security Policy and Acceptable Use Policy and other appropriate personnel and information security standards, including successful completion of the [Baseline Personnel Security Standard](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/714002/HMG_Baseline_Personnel_Security_Standard_-_May_2018.pdf).
 
 All employees must ensure they remain observant, report any suspicious behaviour, and highlight non-compliance. This vigilance will help deter, delay, prevent, or detect unauthorised access to, or attack on, a location, and mitigate the impact should they occur.
 
-Each MoJ occupied premises presents unique physical security challenges. The measures introduced to protect each site **MUST** take into account the risk categorisation and the physical composition of that site. Effective approaches to Physical Security **MUST** follow the **MANDATORY** Physical Security Standards.
+Each MoJ occupied premises presents unique physical security challenges. The measures introduced to protect each site **SHALL** take into account the risk categorisation and the physical composition of that site. Effective approaches to Physical Security **SHALL** follow the **MANDATORY** Physical Security Standards.
 
-The most senior grade manager, or SRO in “Moderate Risk” and larger locations, **MUST** ensure that their site adheres to the Response Level Security Measures Policy, and ensure physical security risk assessment activity is conducted annually, and that the action plans created to address identified risks are implemented.
+The most senior grade manager, or SRO in “Moderate Risk” and larger locations, **SHALL** ensure that their site adheres to the Response Level Security Measures Policy, and ensure physical security risk assessment activity is conducted annually, and that the action plans created to address identified risks are implemented.
 
 ## Compliance
 
-The level of risk and potential impact to MoJ information, assets and people determines the controls to be applied, and the degree of assurance required. The MoJ **MUST** ensure a baseline of physical security measures are in place at each site, and receive annual assurance that such measures are in place to provide appropriate protection to all occupants and assets, and that these measures can be strengthened when required, for example in response to a security incident or change in the Government Response Level.
+The level of risk and potential impact to MoJ information, assets and people determines the controls to be applied, and the degree of assurance required. The MoJ **SHALL** ensure a baseline of physical security measures are in place at each site, and receive annual assurance that such measures are in place to provide appropriate protection to all occupants and assets, and that these measures can be strengthened when required, for example in response to a security incident or change in the Government Response Level.
 
-The implementation of all security measures **MUST** be able to provide evidence that the selection was been made in accordance with the appropriate information security standards ISO27001/27002, Physical Security advice taken from the Centre for the Protection of National Infrastructure, and [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+The implementation of all security measures **SHALL** be able to provide evidence that the selection was been made in accordance with the appropriate information security standards ISO27001/27002, Physical Security advice taken from the Centre for the Protection of National Infrastructure, and [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 
 The constantly changing security landscape has necessarily dictated that Physical Security measures be constantly re-evaluated and tested in order to meet new threats and other emerging vulnerabilities. This policy and subsequent supporting standards are subject to annual review, or more frequently, as warranted.
 

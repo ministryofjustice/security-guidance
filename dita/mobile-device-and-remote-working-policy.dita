@@ -66,13 +66,15 @@
     <body>
       <p><codeph>POLMOB001:</codeph> When using mobile devices,
         special care <ph conref="conrefs.dita#conrefs/policymust"/> be taken to ensure that business information is not compromised.
-        When issuing <ph conref="conrefs.dita#conrefs/moj"/> mobile devices,
+        When issuing or using <ph conref="conrefs.dita#conrefs/moj"/> mobile devices,
         the following points <ph conref="conrefs.dita#conrefs/policymust"/> be adhered to:</p>
       <ul>
         <li><codeph>POLMOB002:</codeph> Mobile devices <ph conref="conrefs.dita#conrefs/policymust"/> be registered as an <ph conref="conrefs.dita#conrefs/moj"/> asset.</li>
-        <li><codeph>POLMOB003:</codeph> Software installation <ph conref="conrefs.dita#conrefs/policymustnot"/> be available for general users.</li>
+        <li><codeph>POLMOB003:</codeph> Software installation <ph conref="conrefs.dita#conrefs/policymustnot"/> be available for general users,
+          except when using an approved <ph conref="conrefs.dita#conrefs/moj"/> process or tool,
+          such as an <ph conref="conrefs.dita#conrefs/moj"/> self-service app store.</li>
         <li><codeph>POLMOB004:</codeph> There <ph conref="conrefs.dita#conrefs/policymust"/> be an ability for remote disabling, erasure or lockout.</li>
-        <li><codeph>POLMOB005:</codeph> There <ph conref="conrefs.dita#conrefs/policymust"/> be usage of approved web services and web apps <ph conref="conrefs.dita#conrefs/policyonly"/>.</li>
+        <li><codeph>POLMOB005:</codeph> <ph conref="conrefs.dita#conrefs/policyonly"/> <ph conref="conrefs.dita#conrefs/moj"/> approved web services and web apps <ph conref="conrefs.dita#conrefs/policymay"/> be used.</li>
       </ul>
     </body>
     <topic id="use-in-public-places">
@@ -99,12 +101,21 @@
     <topic id="theft-or-loss">
       <title>Theft or loss</title>
       <body>
-        <p><codeph>POLMOB007:</codeph> Mobile devices <ph conref="conrefs.dita#conrefs/policymust"/> be physically protected against theft,
+        <p id="polmob007"><codeph>POLMOB007:</codeph> Mobile devices <ph conref="conrefs.dita#conrefs/policymust"/> be physically protected against theft,
           especially when left unattended.
           Examples include leaving devices unattended in cars and other forms of transport,
           hotel rooms,
           conference centres,
           and meeting places.</p>
+          <note>Sometimes,
+            it might feel difficult to determine a sensible level of protection.
+            For example,
+            leaving a laptop unattended but in plain sight on the seat of car in a public car park is not very secure.
+            But if the car is parked in an <ph conref="conrefs.dita#conrefs/moj"/> car park,
+            then the vehicle - and therefore its contents - are probably more secure.
+            The answer is that you should always apply the best possible protection for the assets you are responsible for,
+            at all times.
+            Don't rely on other security mechanisms to provide protection that you neglected to apply.</note>
         <p><codeph>POLMOB008:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> have,
           and follow,
           a clear procedure covering legal,
@@ -112,6 +123,7 @@
           and security requirements for cases of loss or theft of mobile devices.</p>
       </body>
     </topic>
+    <!--
     <topic id="protecting-sensitive-content">
       <title>Protecting sensitive content</title>
       <body>
@@ -122,17 +134,25 @@
           If this is not possible,
           approved locks should be used to secure the devices.
         Contact the Group Security (<ph conref="conrefs.dita#conrefs/groupsecurityemail"/>) or Operational Security (<ph conref="conrefs.dita#conrefs/ostemail"/>) teams for advice and guidance on suitable locking technologies.</p>
+        <note>The difference between this policy statement and <xref href="#theft-or-loss/polmob007" format="dita"><codeph>POLMOB007</codeph></xref> is that
+          <codeph>POLMOB007</codeph> refers to protecting assets against theft or loss (which is easily detected),
+        whereas <codeph>POLMOB009</codeph> refers to protecting assets against unauthorised observation or copying,
+      which is much harder to detect.</note>
       </body>
     </topic>
+  -->
     <topic id="use-of-private-equipment">
       <title>Use of private equipment</title>
       <body>
-        <p><codeph>POLMOB010:</codeph> You <ph conref="conrefs.dita#conrefs/policymustnot"/> use personal devices for <ph conref="conrefs.dita#conrefs/moj"/> work purposes.</p>
+        <p><codeph>POLMOB009:</codeph> You <ph conref="conrefs.dita#conrefs/policyshouldnot"/> use personal devices for <ph conref="conrefs.dita#conrefs/moj"/> work purposes.</p>
         <p>Exceptions are possible on a case-by-case basis,
           for example to accommodate Accessibility requirements.
           To discuss whether you have a case for exemption,
           <xref href="#contact-details" format="dita">contact the Cyber Assistance Team</xref> in the first instance,
-          <i>before</i> using a personal device for work purposes.</p>
+          <i>before</i> using a personal device for work purposes.
+        If an exception is permitted,
+      use of the personal device <ph conref="conrefs.dita#conrefs/policyshall"/> be in compliance with
+      <ph conref="conrefs.dita#conrefs/moj"/> <xref href="personal-devices.dita" format="dita">personal device guidance</xref>.</p>
       </body>
     </topic>
   </topic>
@@ -141,16 +161,18 @@
     <body>
       <p>Remote working refers to all forms of business activity that takes place outside of the office.
         Remote working is sometimes described as <q>Working From Anywhere</q>.
-        Remote working includes non-traditional work environments or contexts,
+        Remote working locations include non-traditional work environments or contexts,
         such as:
       <ul>
+        <li>Coffee shops.</li>
         <li>Commuter hubs.</li>
         <li>Co-working spaces.</li>
         <li>Flexible workplace.</li>
+        <li>Home offices or workspaces.</li>
         <li>Telecommuting.</li>
         <li>Virtual Work Environments.</li>
       </ul></p>
-      <p><codeph>POLMOB011:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> allows remote working,
+      <p><codeph>POLMOB010:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> allows remote working,
         but the following points <ph conref="conrefs.dita#conrefs/policymust"/> be considered,
         confirmed,
         and documented as acceptable during the approval process:
@@ -161,17 +183,20 @@
           taking into account the need for remote access to the <ph conref="conrefs.dita#conrefs/moj"/>'s internal systems,
           the sensitivity of the information that will be accessed and passed over the communication link,
           and the sensitivity of the internal systems being accessed.</li>
+        <!--
         <li>There is no use of personal equipment (equipment that was not issued by the <ph conref="conrefs.dita#conrefs/moj"/>).</li>
-        <li>Any threat of unauthorised access to information or resources from other persons using the accommodation,
+         -->
+         <li>Any threat of unauthorised access to information or resources from other persons using the remote working location,
           for example family or friends.</li>
         <li>The implementation of home networks,
           and requirements or restrictions on the configuration of wireless network services (WiFi).</li>
         <li>Malware protection and firewall requirements.</li>
       </ul></p>
-      <p><codeph>POLMOB012:</codeph> The guidelines and arrangements to consider include:
+      <p><codeph>POLMOB011:</codeph> The guidelines and arrangements for remote working <ph conref="conrefs.dita#conrefs/policyshould"/> be considered,
+        including:
       <ul>
-        <li>The provision of suitable equipment and storage furniture for the remote working activities.
-          Privately-owned equipment that is not under the control of the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymustnot"/> be allowed.</li>
+        <li>The provision of suitable equipment and storage furniture for the remote working activities.<!--
+          Privately-owned equipment that is not under the control of the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymustnot"/> be allowed.--></li>
         <li>A definition of the work permitted,
           the hours of work,
           the classification of information that may be held,
