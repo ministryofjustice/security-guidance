@@ -6,7 +6,7 @@
 <a id="overview"></a>
 ## Overview
 
-[Ministry of Justice MoJ guidance](https://intranet.justice.gov.uk/guidance/security/it-computer-security/user-access/passwords/) makes clear that you should have different passwords for different services. These passwords must be complex.
+[Ministry of Justice (MoJ) guidance](https://intranet.justice.gov.uk/guidance/security/it-computer-security/user-access/passwords/) makes clear that you should have different passwords for different services. These passwords must be complex.
 
 But how do you remember all these different passwords?
 

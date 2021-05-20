@@ -32,8 +32,8 @@ for line in inFile:
         working = working.lower()
         outFile.write("<a id=\""+working+"\"></a>\n")
     # Now remove escaped brackets.
-    working = line.replace("\(", "")
-    working = working.replace("\)", "")
+    working = line.replace("\(", "(")
+    working = working.replace("\)", ")")
     outFile.write(working)
 outFile.close
 inFile.close

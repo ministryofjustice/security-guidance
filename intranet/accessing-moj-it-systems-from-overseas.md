@@ -42,13 +42,13 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
     -   Countries you'll be visiting or passing through.
     -   Dates of travel.
     -   Transport details where possible, for example flights or rail journeys.
-    -   Proposed method of connecting, for example MoJ VPN, WiFi, or Mobile Data 3G/4G/5G.
+    -   Proposed method of connecting, for example MoJ VPN, WiFi, or Mobile Data (3G/4G/5G).
     -   Reason for maintaining access while overseas.
     -   The MoJ data, applications, or services you expect to access during your trip.
     -   Who you are travelling with.
 2.  The next step depends your MoJ business area:
-    -   If you are part of MoJ HQ, HMPPS HQ or HMCTS, contact your Senior Civil Servant SCS and ask for approval to take MoJ equipment overseas and access MoJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
-    -   If you are part of HMPPS but *not* HQ, contact your Governor and ask for approval to take MoJ equipment overseas and access MoJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
+    -   If you are part of MoJ HQ, HMPPS HQ or HMCTS, contact your Senior Civil Servant (SCS) and ask for approval to take MoJ equipment overseas and access MoJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
+    -   If you are part of HMPPS (but *not* HQ), contact your Governor and ask for approval to take MoJ equipment overseas and access MoJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
 3.  Fill in the [overseas travel request form](https://intranet.justice.gov.uk/documents/2020/03/overseas-travel-form.docx).
 4.  Send the completed form to [security@justice.gov.uk](mailto:security@justice.gov.uk), including the answers obtained from the earlier parts of this process.
 5.  Your request is considered, and an answer provided, as quickly as possible.
@@ -111,10 +111,10 @@ If there is a problem with your MoJ equipment, it might be necessary to disable 
 <a id="information-incident-reporting-line"></a>
 ### Information Incident Reporting Line
 
--   Tel: +44 020 3334 0324 for HMPPS staff at any time.
--   Tel: +44 020 3334 0324 for MoJ staff **outside UK working hours**.
+-   Tel: +44 (0)20 3334 0324 for HMPPS staff at any time.
+-   Tel: +44 (0)20 3334 0324 for MoJ staff **outside UK working hours**.
 
-During UK working hours, MoJ but not HMPPS staff should follow the process on the [Reporting a Security Incident](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) page on the MoJ Intranet.
+During UK working hours, MoJ (but not HMPPS) staff should follow the process on the [Reporting a Security Incident](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) page on the MoJ Intranet.
 
 <a id="moj-phone-and-mobile-devices"></a>
 ### MoJ Phone and Mobile Devices

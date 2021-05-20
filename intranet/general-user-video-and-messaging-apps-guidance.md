@@ -1,6 +1,6 @@
 # Apps
 
-When working from home, you still need to communicate with Ministry of Justice MoJ colleagues. You'll also need to work with people outside the MoJ. There are various tools you might use, besides the standard email and telephone tools. This document tells you about the tools you can, and cannot, use for business purposes. This guidance applies to all staff and contractors who work for the MoJ.
+When working from home, you still need to communicate with Ministry of Justice (MoJ) colleagues. You'll also need to work with people outside the MoJ. There are various tools you might use, besides the standard email and telephone tools. This document tells you about the tools you can, and cannot, use for business purposes. This guidance applies to all staff and contractors who work for the MoJ.
 
 Some ALBs, Agencies, or other large groups within the MoJ might have their own, specific guidance regarding how to use certain Video and Messaging apps for different purposes.
 
@@ -9,8 +9,8 @@ Some ALBs, Agencies, or other large groups within the MoJ might have their own, 
 
 You can access tools that are provided through your MoJ provided devices by downloading from:
 
--   The Software Centre application on your device for Dom1 equipment.
--   The Self Service application on your Mac for Digital Service Desk DSD managed MacBook laptops.
+-   The Software Centre application on your device (for Dom1 equipment).
+-   The Self Service application on your Mac (for Digital Service Desk (DSD) managed MacBook laptops).
 
 Currently, access to the tools mentioned in this document is not available from Quantum devices.
 
@@ -38,15 +38,15 @@ The NCSC has excellent guidance on [using video conferencing services safely](ht
 
 Key things to remember *before* a call include:
 
--   Make sure your video conferencing account or the device or app you are using for video conferencing is protected with a strong password.
--   Test the service before making or joining your first call.
+-   Make sure your video conferencing account (or the device or app you are using for video conferencing) is protected with a strong password.
+-   Test the service before making (or joining) your first call.
 -   Understand what features are available, for example recording the call or sharing files or screen information.
 
 Key things to remember for *every* call include:
 
 -   Do not make the calls public, for example always require a password to join the call.
 -   Know who is joining the call, in particular check that everyone is known and expected to be present, and that people who have dialled in have identified themselves clearly and sufficiently.
--   Consider your surroundings, for example checking what can be seen behind you forgetting to check information on a whiteboard or noticeboard is an easy mistake.
+-   Consider your surroundings, for example checking what can be seen behind you (forgetting to check information on a whiteboard or noticeboard is an easy mistake).
 
 <a id="moj-policy-and-guidance"></a>
 ## MoJ Policy and guidance
@@ -59,11 +59,11 @@ Key things to remember for *every* call include:
 `OFFICIAL-SENSITIVE` is not a classification. `SENSITIVE` is a handling caveat for a small subset of information marked `OFFICIAL` that requires special handling by staff. You should apply the handling caveat where you wish to control access to that information, whether in a document, email, or other form.
 
 <a id="privacy-and-personal-information-\(data-protection\)"></a>
-### Privacy and personal information Data Protection
+### Privacy and personal information (Data Protection)
 
 Some communications tools expect to have a copy of your contacts list. The list is uploaded to the tool server in order to let the tool to function correctly. Think carefully about whether this is reasonable to do. Make sure that sharing your contacts list does not impact any one else's privacy in a negative way.
 
-Data protection legislation makes you responsible for personal information you work with. You must keep it safe and secure. In particular, you must follow data protection obligations. These include the Data Protection Act 2018 and the General Data Protection Regulation GDPR.
+Data protection legislation makes you responsible for personal information you work with. You must keep it safe and secure. In particular, you must follow data protection obligations. These include the Data Protection Act 2018 and the General Data Protection Regulation (GDPR).
 
 Complying with personal information requirements can be complex. Don't hesitate to ask for advice:
 
@@ -127,7 +127,7 @@ The bottom line is: if there is doubt, there is no doubt - ask for help!
 |---------|---------|------------------------------|--------------------------|--------|
 |Apple Facetime|Communication tool: Video|Avoid personal or sensitive data|Smartphone App|Internal/External|
 |Apple iMessage|Text messaging|Avoid personal or sensitive data|Smartphone App|Internal/External|
-|Google Meet was Google Hangouts|Communication tool: Video and/or voice|MoJ use approved|Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
+|Google Meet (was Google Hangouts)|Communication tool: Video and/or voice|MoJ use approved|Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Microsoft Teams|Communication and collaboration tool: Video and/or voice|MoJ use approved|Dom1 Software centre, Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Miro|Collaboration tool: Whiteboarding|Avoid personal or sensitive data|Web browser.|Internal/External|
 |Skype for Business|Communication tool: Video and/or voice|MoJ use approved|Dom1 Software centre, Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|

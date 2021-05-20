@@ -1,6 +1,6 @@
 # Locking and shutdown
 
-The Ministry of Justice MoJ has made a commitment towards sustainable IT. The intentions are:
+The Ministry of Justice (MoJ) has made a commitment towards sustainable IT. The intentions are:
 
 -   To reduce overall power consumption for the MoJ by switching off machines and saving energy.
 -   To reduce the MoJ's overall carbon footprint.

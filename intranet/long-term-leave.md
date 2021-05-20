@@ -3,7 +3,7 @@
 <a id="audience-and-document-purpose"></a>
 ## Audience and Document Purpose
 
-This document is intended for Ministry of Justice MoJ line managers who have a staff member going on any type of long-term secondment, loan, or leave. It provides guidance on how to handle the IT accounts and IT assets such as desktops, laptops, or mobile phones of the staff member while they are on leave.
+This document is intended for Ministry of Justice (MoJ) line managers who have a staff member going on any type of long-term secondment, loan, or leave. It provides guidance on how to handle the IT accounts and IT assets (such as desktops, laptops, or mobile phones) of the staff member while they are on leave.
 
 Long term means longer than 2 months.
 
@@ -49,7 +49,7 @@ In a number of circumstances assets should be returned and access should be remo
 -   The staff member has no means of securely storing the asset, for example locking it securely in their home.
 -   Staff members going on leave for less than 12 months may return their assets and have access removed if they choose to do so.
 -   Line managers are empowered to determine whether the staff member should keep assets and access, as long as there is appropriate business justification, and staff members are appropriately supported. For example, a communication mechanism for keeping in touch is agreed.
--   If, during their leave, the staff member decides to end their employment resign, their line manager is responsible for following the appropriate leaver's process with them. Refer to the Resignation section of the HR guidance and forms, with particular reference to the Leavers Checklist for Managers. This can be found at: [https://intranet.justice.gov.uk/guidance/hr/end-change-of-employment/resignation/](https://intranet.justice.gov.uk/guidance/hr/end-change-of-employment/resignation/)
+-   If, during their leave, the staff member decides to end their employment (resign), their line manager is responsible for following the appropriate leaver's process with them. Refer to the Resignation section of the HR guidance and forms, with particular reference to the Leavers Checklist for Managers. This can be found at: [https://intranet.justice.gov.uk/guidance/hr/end-change-of-employment/resignation/](https://intranet.justice.gov.uk/guidance/hr/end-change-of-employment/resignation/)
 
 <a id="how-to-remove-access-and-return-assets"></a>
 ### How to remove access and return assets

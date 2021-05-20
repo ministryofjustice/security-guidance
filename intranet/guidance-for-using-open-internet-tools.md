@@ -1,11 +1,11 @@
 # Open internet tools
 
-**This information applies to all staff and contractors who work for the Ministry of Justice MoJ.**
+**This information applies to all staff and contractors who work for the Ministry of Justice (MoJ).**
 
 <a id="overview"></a>
 ## Overview
 
-Open Internet Tools OITs are applications or services from suppliers outside the MoJ. They often have the following characteristics:
+Open Internet Tools (OITs) are applications or services from suppliers outside the MoJ. They often have the following characteristics:
 
 -   they are general purpose. This means they are not specific to the MoJ. Other organisations can use them
 -   they are accessed using the Internet, usually through a web browser. This means that if you have Internet access, you are able to connect to the tools
@@ -79,13 +79,13 @@ This guidance helps you:
 <a id="privacy-and-personal-information"></a>
 ### Privacy and personal information
 
-Data protection legislation makes you responsible for personal information you work with. You must keep it safe and secure. In particular, you must follow data protection obligations. These include the Data Protection Act 2018 and the General Data Protection Regulation GDPR.
+Data protection legislation makes you responsible for personal information you work with. You must keep it safe and secure. In particular, you must follow data protection obligations. These include the Data Protection Act 2018 and the General Data Protection Regulation (GDPR).
 
 Don't use OITs for storing personal data until you have addressed the need to get consent first. Check if using the OIT might need an update to existing privacy policies or notices. Don't use OITs if unlawful disclosure of the information they process might cause damage or distress.
 
 Data protection legislation might also limit *where* you can process personal data. An OIT should have a privacy statement that describes where it stores or processes data. Be ready to contact the OIT provider for more information about this aspect of their service.
 
-Be sure you can fulfil your data protection responsibilities when using an OIT. It might be helpful to complete a [Privacy Impact Assessment PIA](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/privacy-reform/data-protection-impact-assessments-dpias/).
+Be sure you can fulfil your data protection responsibilities when using an OIT. It might be helpful to complete a [Privacy Impact Assessment (PIA)](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/privacy-reform/data-protection-impact-assessments-dpias/).
 
 Complying with personal information requirements can be complex. Don't hesitate to ask for advice: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
 
@@ -166,7 +166,7 @@ For further help about aspects of using OITs within the MoJ, contact:
 |Subject|Contact|
 |-------|-------|
 |Classification and Security|[MoJ Cyber Security team](mailto:security@justice.gov.uk)|
-|Storage and Data Retention|[Departmental Library & Records Management Services DLRMS](mailto:kim@justice.gov.uk)|
+|Storage and Data Retention|[Departmental Library & Records Management Services (DLRMS)](mailto:kim@justice.gov.uk)|
 |Information Assurance|[Compliance and Information Assurance Branch](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/)|
 |Personal Data|[Disclosure Team](mailto:data.access@justice.gov.uk)|
 

@@ -1,6 +1,6 @@
 # MacBook
 
-Any User of an Ministry of Justice MoJ-supplied MacBook must ensure they comply with this policy, to ensure that security is not compromised when using these devices.
+Any User of an Ministry of Justice (MoJ)-supplied MacBook must ensure they comply with this policy, to ensure that security is not compromised when using these devices.
 
 These Policies are supplementary to the GOV.UK and MoJ Enterprise policies, procedures and guidance.
 

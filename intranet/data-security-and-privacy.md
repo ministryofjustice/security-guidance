@@ -11,10 +11,10 @@ Our digital projects contain important information. Serious data breaches might 
 Breaches might cause:
 
 -   harm to individuals
--   financial loss to the Ministry of Justice MoJ
+-   financial loss to the Ministry of Justice (MoJ)
 -   a loss of confidence in us as an organisation
 
-For personal data, the EU General Data Protection Regulation GDPR and UK Data Protection Act 2018 apply. These make the consequences of data breaches very clear.
+For personal data, the EU General Data Protection Regulation (GDPR) and UK Data Protection Act (2018) apply. These make the consequences of data breaches very clear.
 
 To follow the data regulation/legislation, we **must** ensure that:
 
@@ -42,9 +42,9 @@ This principle applies to **all** MoJ technology projects and business activitie
 
 While GDPR applies only to personal information, all MoJ projects and tasks must have excellent data security and privacy characteristics. If they handle personal data, they must do so correctly. Projects must follow MoJ guidelines unless exceptional and approved circumstances apply.
 
-The [Information Commissioner's Office ICO](https://ico.org.uk) - the UK's independent regulatory office for data protection - has published [guidance on how to determine what is personal data](https://ico.org.uk/media/for-organisations/documents/1554/determining-what-is-personal-data.pdf).
+The [Information Commissioner's Office (ICO)](https://ico.org.uk) - the UK's independent regulatory office for data protection - has published [guidance on how to determine what is personal data](https://ico.org.uk/media/for-organisations/documents/1554/determining-what-is-personal-data.pdf).
 
-A Data Protection Impact Assessment DPIA, formerly commonly known as a Privacy Impact Assessment or PIA is required for all projects. There are some [exceptions described by the ICO](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/exemptions/).
+A Data Protection Impact Assessment (DPIA, formerly commonly known as a Privacy Impact Assessment or PIA) is required for all projects. There are some [exceptions described by the ICO](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/exemptions/).
 
 <a id="contacts"></a>
 ## Contacts

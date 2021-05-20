@@ -1,6 +1,6 @@
 # Training and Education
 
-The Ministry of Justice MoJ's Information Security awareness programme plays an essential part in maintaining security. It informs all MoJ staff of:
+The Ministry of Justice (MoJ)'s Information Security awareness programme plays an essential part in maintaining security. It informs all MoJ staff of:
 
 -   Their duties with regard to security.
 -   Their responsibilities to protect the assets they have access to and use. The assets include information, equipment, people and buildings.
