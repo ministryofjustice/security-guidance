@@ -13,7 +13,7 @@ A downloadable version of this document is available [here](./gs/National_securi
 There are three levels of national security vetting (NSV) or clearance:
 
 -   Counter Terrorist Check (CTC).
--   Security Clearance (SC)
+-   Security Check (SC)
 -   Developed Vetting (DV)
 
 These are mandatory for certain job roles and locations throughout the MoJ.
@@ -54,9 +54,9 @@ Three scenarios are given here:
 
 If NSV is required for a position, candidates **SHOULD NOT** start until their NSV is confirmed.
 
-In exceptional circumstances, a policy dispensation request can be made (via [security@justice.gov.uk](mailto:security@justice.gov.uk)) to MoJ Group Security, who will provide a request form and then give a recommendation on whether to grant or refuse the request. Any risk mitigation measures deemed to be required (such as plans to segregate the candidate from data that they don't have clearance to see) will also be provided for the Senior Security Advisor and the business unit to sign-up to.
+In exceptional circumstances, a policy dispensation request can be made to [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk), who will provide a request form and then give a recommendation on whether to grant or refuse the request. Any risk mitigation measures deemed to be required (such as plans to segregate the candidate from data that they don't have clearance to see) will also be provided for the Senior Security Advisor and the business unit to sign-up to.
 
-As a minimum requirement, a candidate **SHALL** have submitted their Security Questionnaire on the NSVS portal. This does not extend to Contractors and Agency staff, who **SHALL** have their NSV in place before they start. If you do not know who your National Security Vetting Contact (NSVC) is you can search [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+As a minimum requirement, a candidate **SHALL** have submitted their Security Questionnaire on the NSVS portal. This does not extend to Contractors and Agency staff, who **SHALL** have their NSV in place before they start. If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
 <a id="directly-employed-staff"></a>
 ## Directly employed staff
@@ -66,7 +66,7 @@ As a minimum requirement, a candidate **SHALL** have submitted their Security Qu
 
 Vacancy managers must always advertise their roles with the correct level of clearance required. Levels of clearance are defined by the requirements of the role being filled, and not by the level of clearance the candidate already possesses. Your NSVC can confirm whether your role requires national security vetting in addition to the usual pre-employment checks. Wrongly classifying roles at advert stage will lead to delays in on-boarding.
 
-If you do not know who your National Security Vetting Contact (NSVC) is you can search [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
 <a id="what-is-the-pre-employment-check-process"></a>
 ### What is the pre-employment check process?
@@ -113,8 +113,8 @@ If all information and the correct documents have been provided, the timescales 
 -   Baseline Personal Security Standard (BPSS): average six days.
 -   Disclosure Barring Service (DBS) standard checks: New checks: average five days.
 -   Disclosure Barring Service (DBS) enhanced checks: New checks: average six days.
--   Counter terrorist check (CTC): new checks: minimum six to twelve weeks, averaging nine weeks.
--   Security clearance (SC): new checks: minimum six weeks averaging nine weeks.
+-   Counter terrorist check (CTC): new checks: minimum six.
+-   Security check (SC): new checks: minimum six weeks.
 -   Developed vetting (DV): new checks: minimum 18 weeks.
 
 Although the majority of DBS enhanced checks are completed in six working days, in some parts of the country authorities estimate a response time of six to seven weeks.
@@ -136,7 +136,7 @@ Non-directly employed workers include the following:
 For posts that require NSV:
 
 -   The vacancy manager must discuss this with their NSVC and obtain a code which needs to be entered on the CRF submitted to SSCL.
--   If you do not know who your National Security Vetting Contact (NSVC) is you can search [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+-   If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 -   SSCL will only accept requests with a valid vetting reference code provided on the CRF.
 -   SSCL will send a link to the candidate so they can complete their on-line security questionnaire on the NSVS portal.
 
@@ -160,7 +160,7 @@ We cannot give too much detail about the vetting process for security reasons; h
 <a id="how-do-i-check-the-progress-of-an-application"></a>
 ### How do I check the progress of an application?
 
-SC/CTC takes a minimum of six weeks, the average is nine weeks and DV takes at least 18 weeks. If this time frame has passed, contact the NSVC who requested the clearance, they will contact SSCL for an update.
+SC/CTC takes a minimum of six weeks, and DV takes at least 18 weeks. If this time frame has passed, contact the NSVC who requested the clearance, they will contact SSCL for an update.
 
 <a id="why-can't-apple-products-be-used-to-submit-the-security-questionnaire"></a>
 ### Why can't Apple products be used to submit the security questionnaire?
@@ -177,12 +177,12 @@ This section contains information for managers and staff who are already in the 
 <a id="how-do-i-decide-if-a-new-piece-of-work-requires-staff-to-have-nsv"></a>
 ### How do I decide if a new piece of work requires staff to have NSV?
 
-If you need to decide if a new piece of work requires clearance, talk to your NSVC. All business areas that have at least one member of staff who holds Security Clearance should have one. If you do not know who your National Security Vetting Contact (NSVC) is you can search [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+If you need to decide if a new piece of work requires clearance, talk to your NSVC. All business areas that have at least one member of staff who holds Security Clearance should have one. If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
 <a id="how-do-i-renew-nsc"></a>
 ### How do I renew NSC?
 
-If your, or one of your staff's, NSC is due to expire soon, speak to your NSVC, they will decide if it needs to be renewed and help you start the process off. If you do not know who your National Security Vetting Contact (NSVC) is you can search [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+If your, or one of your staff's, NSC is due to expire soon, speak to your NSVC, they will decide if it needs to be renewed and help you start the process off. If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
 <a id="if-my-personal-circumstances-change,-who-do-i-tell"></a>
 ### If my personal circumstances change, who do I tell?

@@ -16,7 +16,7 @@
         <p>There are three levels of national security vetting (NSV) or clearance:
         <ul>
           <li>Counter Terrorist Check (CTC).</li>
-          <li>Security Clearance (SC)</li>
+          <li>Security Check (SC)</li>
           <li>Developed Vetting (DV)</li>
         </ul></p>
         <p>These are mandatory for certain job roles and locations throughout the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
@@ -80,8 +80,8 @@
         <p>If NSV is required for a position,
           candidates <ph conref="conrefs.dita#conrefs/policyshouldnot"/> start until their NSV is confirmed.</p>
         <p>In exceptional circumstances,
-          a policy dispensation request can be made (via <ph conref="conrefs.dita#conrefs/securityemail"/>)
-          to <ph conref="conrefs.dita#conrefs/moj"/> Group Security,
+          a policy dispensation request can be made
+          to <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>,
           who will provide a request form and then give a recommendation on whether to grant or refuse the request.
           Any risk mitigation measures deemed to be required
           (such as plans to segregate the candidate from data that they don't have clearance to see) will also be provided for the Senior Security Advisor
@@ -182,8 +182,8 @@
           <li>Baseline Personal Security Standard (BPSS): average six days.</li>
           <li>Disclosure Barring Service (DBS) standard checks: New checks: average five days.</li>
           <li>Disclosure Barring Service (DBS) enhanced checks: New checks: average six days.</li>
-          <li>Counter terrorist check (CTC): new checks: minimum six to twelve weeks, averaging nine weeks.</li>
-          <li>Security clearance (SC): new checks: minimum six weeks averaging nine weeks.</li>
+          <li>Counter terrorist check (CTC): new checks: minimum six.</li>
+          <li>Security check (SC): new checks: minimum six weeks.</li>
           <li>Developed vetting (DV): new checks: minimum 18 weeks.</li>
         </ul></p>
         <p>Although the majority of DBS enhanced checks are completed in six working days,
@@ -262,7 +262,7 @@
       <title>How do I check the progress of an application?</title>
       <body>
         <p>SC/CTC takes a minimum of six weeks,
-          the average is nine weeks and DV takes at least 18 weeks.
+          and DV takes at least 18 weeks.
           If this time frame has passed,
           contact the NSVC who requested the clearance,
           they will contact SSCL for an update.</p>
