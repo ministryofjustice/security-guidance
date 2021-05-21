@@ -23,7 +23,7 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 2.  Proceed directly to [Part Two](#part-two) of this process if you are travelling or passing through one of the following countries:
     -   *Argentina, Armenia, Azerbaijan, Belarus, China (including Hong Kong), Egypt, Estonia, Georgia, India, Indonesia, Iran, Israel, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, Northern Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey, Turkmenistan, UAE, Ukraine, Uzbekistan*.
 3.  Proceed directly to [Part Two](#part-two) of this process if you are national security cleared to SC or DV levels.
-4.  If you are subject to STRAP briefing and intend to travel to or through countries not in Western Europe, North America, Australia, or New Zealan, proceed directly to [Part Two](#part-two) of this process
+4.  If you are subject to STRAP briefing and intend to travel to or through countries not in Western Europe, North America, Australia, or New Zealand, proceed directly to [Part Two](#part-two) of this process.
 5.  If you have reached this step, you do not need to seek further formal approval for your trip.
 6.  Take a copy of this guidance; it includes useful contact details that help in the event of a problem while travelling.
 7.  Check if you need to do anything to prepare for [International Roaming](#international-roaming).
