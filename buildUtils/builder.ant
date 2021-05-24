@@ -99,6 +99,9 @@
 		<replaceregexp match="\*\*Parent topic\:\*\*(\S)" replace="**Parent topic:** \1" flags="g" >
 			<fileset dir="${build}" includes="**/*.md"/>
 		</replaceregexp>
+		<replaceregexp match="file\:///" replace="" flags="g" >
+			<fileset dir="${build}" includes="**/*.md"/>
+		</replaceregexp>
 	</target>
 
 	<!--
