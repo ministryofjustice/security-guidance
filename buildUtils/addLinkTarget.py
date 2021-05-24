@@ -34,6 +34,8 @@ for line in inFile:
     # Now remove escaped brackets.
     working = line.replace("\(", "(")
     working = working.replace("\)", ")")
+    # Remove hard-coded file prefix.
+    working = working.replace("file:///", "")
     outFile.write(working)
 outFile.close
 inFile.close

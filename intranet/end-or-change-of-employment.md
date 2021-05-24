@@ -13,7 +13,7 @@ Managers must also [complete a leaver's checklist](https://intranet.justice.gov.
 
 [Leavers checklist](https://intranet.justice.gov.uk/documents/2015/04/leavers-checklist-for-managers.docx)
 
-A downloadable version of the “End or change of employment” document is available [here](./gs/End_or_change_of_employment.docx).
+A downloadable version of the “End or change of employment” document is available [here](./gs/end-or-change-of-employment.docx).
 
 <a id="contacts"></a>
 ## Contacts

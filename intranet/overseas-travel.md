@@ -2,23 +2,20 @@
 
 **If you are going on a work trip or holiday overseas and you need to take your MoJ IT devices, you must remain vigilant especially when visiting high risk countries.**
 
-As a government worker with access to sensitive information, you are at risk from espionage, intellectual property theft and a range of other threats from hostile third parties as well as foreign intelligence services. These risks can increase when you are overseas, even when you are on holiday.
+As a government worker with access to sensitive information, you are at risk from espionage, intellectual property theft and a range of other threats from hostile third parties as well as foreign intelligence services. These risks can increase when you are overseas, as detailed in the [Overseas Travel Guide](./gs/overseas-travel-guide-v1-2-may-2021.docx).
 
-Before you travel on business, you must seek approval from your line manager or SCS. You must also inform the security team fifteen days before either a holiday or business trip if:
+Before you travel on business, you must seek approval from your Senior Line Manager. You must also inform the security team fifteen days before either a holiday or business trip if you are travelling to or through high-risk countries.
 
--   you are travelling to a high-risk country, even on holiday
--   you hold a SC or DV clearance and are travelling to, or through, a high-risk country
+If you are subject to a STRAP briefing you must notify the security team of your intended travel to or through any country (excluding countries in Western Europe, North America, Australia or New Zealand).
 
-If you are subject to a STRAP briefing you must notify the security team of your intended travel to any country excluding countries in Western Europe, North America, Australia or New Zealand.
-
-The [overseas travel guide](https://intranet.justice.gov.uk/documents/2020/03/overseas-travel-guide.docx) provides detailed guidance before you travel.
+The [Overseas Travel Guide](./gs/overseas-travel-guide-v1-2-may-2021.docx) provides detailed guidance before you travel.
 
 Mobile roaming should be requested via the [Service-Now IT Catalogue](https://mojprod.service-now.com/moj_sp).
 
 <a id="documents"></a>
 ## Documents
 
--   [Overseas travel guide](https://intranet.justice.gov.uk/documents/2020/03/overseas-travel-guide.docx)
+-   [Overseas Travel Guide](./gs/overseas-travel-guide-v1-2-may-2021.docx)
 -   [Overseas travel form](https://intranet.justice.gov.uk/documents/2020/03/overseas-travel-form.docx)
 -   [Overseas working decision tree](https://intranet.justice.gov.uk/documents/2020/09/overseas-working-decision-tree.docx) – Step by step guide on how you can request to work remotely overseas during COVID-19
 

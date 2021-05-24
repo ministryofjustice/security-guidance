@@ -2,7 +2,7 @@
 
 The processes described in this document are under review as part of Ministry of Justice (MoJ) simpler processes activities and these FAQs will be updated as required.
 
-A downloadable version of this document is available [here](./gs/National_security_vetting_questions.docx).
+A downloadable version of this document is available [here](./gs/national-security-vetting-questions.docx).
 
 <a id="national-security-vetting"></a>
 ## National security vetting
