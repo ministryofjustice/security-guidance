@@ -1,6 +1,6 @@
 # Protecting social media accounts
 
-Hostile attacks on Social Media accounts pose a serious threat to the Ministry of Justice MoJ and its reputation. When attacks happen, they quickly become headline news, and can happen to any account, anywhere in the world.
+Hostile attacks on Social Media accounts pose a serious threat to the Ministry of Justice (MoJ) and its reputation. When attacks happen, they quickly become headline news, and can happen to any account, anywhere in the world.
 
 Two types of attacks are common:
 
@@ -13,7 +13,7 @@ Two types of attacks are common:
 <a id="ensure-our-passwords-are-secure"></a>
 ### Ensure our passwords are secure
 
-Passwords are the main protection on our accounts, hence ensuring they are secure is vital. The NCSC has produced [guidance](https://www.ncsc.gov.uk/blog-post/three-random-words-or-thinkrandom-0) on making secure passwords - the summary of which is that picking three random words to make a password for example `RainingWalrusTeacup` is a good policy for securing Social Media accounts.
+Passwords are the main protection on our accounts, hence ensuring they are secure is vital. The NCSC has produced [guidance](https://www.ncsc.gov.uk/blog-post/three-random-words-or-thinkrandom-0) on making secure passwords - the summary of which is that picking three random words to make a password (for example `RainingWalrusTeacup`) is a good policy for securing Social Media accounts.
 
 <a id="check-your-email-details-are-up-to-date"></a>
 ### Check your email details are up-to-date
@@ -23,7 +23,7 @@ Most of the time, the first indication you'll have that something is wrong is wh
 <a id="enable-two-factor-authentication"></a>
 ### Enable Two Factor Authentication
 
-Two Factor Authentication 2FA involves requiring a random code to be entered before being logged in. These codes are either sent to the user via SMS or email, or generated every 30 seconds by an app or device the user has which relies on a seed key provided by the service. That seed can then be shared amongst a team, allowing for multiple owners or contributors.
+Two Factor Authentication (2FA) involves requiring a random code to be entered before being logged in. These codes are either sent to the user via SMS or email, or generated every 30 seconds by an app or device the user has which relies on a seed key provided by the service. That seed can then be shared amongst a team, allowing for multiple owners or contributors.
 
 If at all possible, SMS generation should be avoided, as it is theoretically possible for phone numbers to be taken over through various attacks, as well as meaning that only one person can receive the code, which isn't ideal if a team is working on a single account.
 
@@ -68,13 +68,25 @@ The whole point of a social media account is to share information. But that does
 
 When you first create a social media account, you are normally asked to decide on the privacy settings. These control how much information you share, and who you share it with.
 
+Typical settings that affect privacy include:
+
+-   General information about you.
+-   Your Profile information and photo.
+-   When you were last active.
+-   Any status updates.
+-   Whether you have read direct messages (Read Receipts).
+-   Whether others can add you to their groups, possibly without your knowledge or agreement.
+
 But it's very easy to forget to check the settings, from time-to-time, to make sure they are still correct.
 
 A good habit is to check your account privacy settings once a month or so. Information on privacy settings is available for the main social media environments:
 
 -   [Facebook](https://www.facebook.com/help/1297502253597210)
--   [Twitter](https://help.twitter.com/en/safety-and-security/how-to-make-twitter-private-and-public)
 -   [Instagram](https://help.instagram.com/196883487377501/?hel-)
+-   [Twitter](https://help.twitter.com/en/safety-and-security/how-to-make-twitter-private-and-public)
+-   [WhatsApp](https://faq.whatsapp.com/general/security-and-privacy/how-to-change-your-privacy-settings/?lang=en)
+
+For example, in WhatsApp, to prevent someone adding you a group without your knowledge, change your settings: **Settings** \> **Account** \> **Privacy** \> **Groups** \> **My Contacts**. This change means that only people you know (your contacts) can add you to a group.
 
 <a id="limit-access-to-your-accounts"></a>
 ### Limit access to your accounts
@@ -92,7 +104,7 @@ If you need more help on this, contact your Line Manager or [Cyber Security](#cy
 
 Unfortunately, social media postings are a common way of sending you links to malware or other problem material. Postings might also be used to send you 'phishing' attacks.
 
-In the same way that you should be careful with any links or attachments sent to you using email, you should also be suspicious of links or attachments sent to you though social media. This applies to both general postings and messages sent directly to you 'Direct Messages'.
+In the same way that you should be careful with any links or attachments sent to you using email, you should also be suspicious of links or attachments sent to you though social media. This applies to both general postings and messages sent directly to you ('Direct Messages').
 
 For more information, read [this article](https://intranet.justice.gov.uk/news/dont-be-caught-out-by-fraudsters/) on the MoJ Intranet.
 

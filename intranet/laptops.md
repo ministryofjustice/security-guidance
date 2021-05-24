@@ -1,6 +1,6 @@
 # Laptops
 
-The guidance applies to all Ministry of Justice MoJ staff.
+The guidance applies to all Ministry of Justice (MoJ) staff.
 
 **Related information**  
 
@@ -12,7 +12,7 @@ The guidance applies to all Ministry of Justice MoJ staff.
 
 If you need to store data on your computer you should always remember to move it into:
 
-1.  Your local Electronic Document and Record Management EDRM system.
+1.  Your local Electronic Document and Record Management (EDRM) system.
 2.  An MoJ shared drive.
 3.  Your MoJ-provided 'home' drive.
 
@@ -25,7 +25,7 @@ It is best to avoid saving any data on a laptop hard drive. However, if you abso
 
 In order to avoid potential data loss, save data in:
 
-1.  Your local Electronic Document and Record Management EDRM system.
+1.  Your local Electronic Document and Record Management (EDRM) system.
 2.  An MoJ shared drive.
 3.  Your MoJ-provided 'home' drive.
 

@@ -1,6 +1,6 @@
 # Avoiding too much security
 
-This guidance applies to developers and system administrators who work for the Ministry of Justice MoJ.
+This guidance applies to developers and system administrators who work for the Ministry of Justice (MoJ).
 
 Is it possible to have too much security? Yes. Providing too much security for things or information that do not need protection is a waste of resources. It undermines the value of the security for things that do need it.
 
@@ -9,7 +9,7 @@ Is it possible to have too much security? Yes. Providing too much security for t
 <a id="not-all-domain-names-or-ip-addresses-in-government-systems-are-sensitive-items"></a>
 ## Not all domain names or IP addresses in Government systems are sensitive items
 
-An example is a domain name or IP address. These values do not need to be secret for all systems. Only those that need it. It might be tempting to say that 'all IP addresses are `OFFICIAL-SENSITIVE`. This is then used as a reason for an inaction, such as "I can't email you that network diagram because it contains IP addresses." But the statement has wider consequences. It imposes a set of security requirements for everyone. It imposes them irrespective of the actual secrecy required.
+An example is a domain name or IP address. These values do not need to be secret for all systems. Only those that need it. It might be tempting to say that 'all IP addresses are `OFFICIAL-SENSITIVE`. This is then used as a reason for an (in)action, such as "I can't email you that network diagram because it contains IP addresses." But the statement has wider consequences. It imposes a set of security requirements for everyone. It imposes them irrespective of the actual secrecy required.
 
 `OFFICIAL-SENSITIVE` is not a different classification to `OFFICIAL`. It doesn't need special technical controls or procedures. Rather, it's a reminder to look after a piece of information. It's not a controls checklist. Using labels too casually conflicts with the idea of thinking about information and what we're doing with it, and using that to decide how best to secure the information.
 

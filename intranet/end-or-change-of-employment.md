@@ -1,6 +1,6 @@
 # End or change of employment
 
-Managers must ensure that all employees, contractors and third-party users return all assets within their possession and that all access rights including building passes, access to buildings, IT systems, applications and directories are removed at the point of termination or change of employment.
+Managers must ensure that all employees, contractors and third-party users return all assets within their possession and that all access rights (including building passes, access to buildings, IT systems, applications and directories) are removed at the point of termination or change of employment.
 
 If the leaver has security clearance, managers should contact the [Cluster 2 Security Unit](mailto:contactus@cluster2security.gov.uk) to advise that the person has resigned and tell them their leaving date or the date on which they will be moving to a different department.
 

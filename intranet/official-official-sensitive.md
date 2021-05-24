@@ -3,7 +3,7 @@
 <a id="`official`"></a>
 ## `OFFICIAL`
 
-`OFFICIAL` is a UK HM Government information asset classification under the [Government Security Classifications Policy GSCP](https://www.gov.uk/government/publications/government-security-classifications).
+`OFFICIAL` is a UK HM Government information asset classification under the [Government Security Classifications Policy (GSCP)](https://www.gov.uk/government/publications/government-security-classifications).
 
 <a id="`official-sensitive`"></a>
 ## `OFFICIAL-SENSITIVE`
@@ -17,7 +17,7 @@ Guidance on handling [`OFFICIAL-SENSITIVE` data and IT](https://www.gov.uk/guida
 <a id="descriptors"></a>
 ### DESCRIPTORS
 
-Descriptors *can* be applied but they do not need to be to help identify certain categories of `SENSITIVE` information.
+Descriptors *can* be applied (but they do not need to be) to help identify certain categories of `SENSITIVE` information.
 
 Descriptors should be applied in the format `OFFICIAL-SENSITIVE [DESCRIPTOR]`
 
@@ -27,7 +27,7 @@ The Cabinet Office maintains the following list of core descriptors to ensure a 
 
 -   `LOCSEN`: Sensitive information that locally engaged staff overseas cannot access.
 
--   `PERSONAL`: Particularly sensitive information relating to an identifiable individual, where inappropriate access could have damaging consequences. For example, where relating to investigations, vulnerable individuals, or the personal / medical records of people in sensitive posts e.g. military, SIA.
+-   `PERSONAL`: Particularly sensitive information relating to an identifiable individual, where inappropriate access could have damaging consequences. For example, where relating to investigations, vulnerable individuals, or the personal / medical records of people in sensitive posts (e.g. military, SIA).
 
 
 Descriptors are **not** codewords.

@@ -6,7 +6,7 @@ This guidance helps you use Bluetooth enabled devices and peripheral devices.
 
 Bluetooth works by 'pairing' devices. This makes it quick and simple to use. The problem is that Bluetooth, and the pairing process, is not very secure. This means that attackers might get unauthenticated access to devices. As an example, an attacker 'listening' to the Bluetooth connection between a computer and a keyboard could possibly intercept passwords or other sensitive information as the details are typed on the keyboard.
 
-This guidance tells you more about the Ministry of Justice MoJ view of Bluetooth, from a security perspective. It also gives you hints and tips on how to use Bluetooth more safely.
+This guidance tells you more about the Ministry of Justice (MoJ) view of Bluetooth, from a security perspective. It also gives you hints and tips on how to use Bluetooth more safely.
 
 The aim is to help you maintain the Confidentiality, Integrity and Availability of MoJ data, applications and services. The results should be that:
 
@@ -28,7 +28,7 @@ Contact the Cyber Assistance Team by email: [CyberConsultancy@digital.justice.go
 
 Examples of Bluetooth devices, and whether they might be used for business purposes, are as follows:
 
-|Bluetooth device|Suitable for MoJ work purposes Y/N|
+|Bluetooth device|Suitable for MoJ work purposes (Y/N)|
 |----------------|:------------------------------------:|
 |Keyboards|Y|
 |Mouse|Y|
@@ -42,7 +42,7 @@ Examples of Bluetooth devices, and whether they might be used for business purpo
 |Hearing aids|Y|
 |Watches and Fitness bands|N|
 |Smart TVs|N - requires authorisation|
-|Storage devices similar to USB 'thumb' drives|N|
+|Storage devices (similar to USB 'thumb' drives)|N|
 |Internet-of-things 'Smart speakers'|N|
 
 A Bluetooth device might be at risk from any of the following:

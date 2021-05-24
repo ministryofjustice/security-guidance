@@ -2,7 +2,7 @@
 
 As a government official travelling overseas, you should consider that you are highly likely to be of interest to a range of hostile parties, regardless of your role or seniority. Laptops, tablets and phones are very desirable pieces of equipment to steal and travelling overseas with it puts you at a greater security risk of being a victim of theft.
 
-You should never put yourself in any danger to protect the security of an IT device, as the level of impact to the Ministry of Justice MoJ of a compromise does not warrant the risk of injury or loss of liberty. By following your department policies and the advice issued, you can help reduce the risk to yourself and your colleagues.
+You should never put yourself in any danger to protect the security of an IT device, as the level of impact to the Ministry of Justice (MoJ) of a compromise does not warrant the risk of injury or loss of liberty. By following your department policies and the advice issued, you can help reduce the risk to yourself and your colleagues.
 
 <a id="general-guidance"></a>
 ## General guidance
@@ -16,9 +16,9 @@ Be aware that voice calls and SMS messages are not secure and voice calls can be
 
 -   Keep any password/PIN separate from the device.
 -   Be careful when using your device in situations where it may be lost or stolen, such as busy public places and while transiting customs or security at airports.
--   Think about where you are working to ensure that you are not being observed for instance, somebody looking over your shoulder in a crowded place.
+-   Think about where you are working to ensure that you are not being observed (for instance, somebody looking over your shoulder in a crowded place).
 -   Never leave the device unattended - not even for a moment.
--   If it is not practical to keep the device with you securely at all times for instance, you are at the swimming pool or gym, consider storing the device in the hotel safe.
+-   If it is not practical to keep the device with you securely at all times (for instance, you are at the swimming pool or gym), consider storing the device in the hotel safe.
 
 **Note:** Standard hotel safes are not entirely secure and it is normally possible for hotel staff to override controls to gain access. In addition therefore you should also store your device in a tamper proof envelope. You should ensure you have a sufficient number to last the duration of your period of travel. If the tamper evident seals show signs of disturbance or the device exhibits strange behaviour, it should be considered compromised. In either case, you must discontinue use of the device and contact your Service Desk immediately and report the device as potentially compromised.
 
@@ -27,7 +27,7 @@ Be aware that voice calls and SMS messages are not secure and voice calls can be
 
 As a government official you may be of interest to a range of hostile parties and therefore:
 
--   If it is not practical to keep the device with you securely at all times for instance, you are at the swimming pool or gym, consider storing the device in the hotel safe.
+-   If it is not practical to keep the device with you securely at all times (for instance, you are at the swimming pool or gym), consider storing the device in the hotel safe.
 -   Avoid conducting work related sensitive phone conversations as they can be intercepted and if you do, ensure you can't be overheard. Examples of sensitive information might include prisoner/offence details, court cases of foreign nationals, terror attacks and extremists.
 -   Do not use public charging stations or connect the phone to a vehicle by USB or Bluetooth as information can be downloaded from your phone.
 -   Be aware that hotel and public WiFi spots are not secure, as they can easily be monitored.
@@ -41,7 +41,7 @@ The extent to which an individual wishes to prevent the customs or security staf
 
 -   Try to establish your official status and good faith from the outset.
 -   Remain calm and polite at all times.
--   Carry the names and telephone numbers of a relevant departmental contact and invite the officials to contact them to confirm that you are who you claim to be.
+-   Carry the names and telephone numbers of a relevant departmental contact and invite the official(s) to contact them to confirm that you are who you claim to be.
 -   If the official continues to insist on the user inputting his/her password, repeat the above steps.
 -   State that you are carrying official UK government property that is sensitive and that you cannot allow access.
 -   Ask to see a senior officer or supervisor. You may want to take the names and/or contact details of any officials involved in the event that you wish to pursue a complaint, or an investigation is required, even at a later date.
@@ -49,11 +49,11 @@ The extent to which an individual wishes to prevent the customs or security staf
 If you are on official business:
 
 -   State that you are a UK civil servant etc. travelling on HMG official business.
--   Where appropriate, produce an official document e.g. on headed notepaper or with a departmental stamp or identity card that clearly gives your name, photograph and affiliation.
+-   Where appropriate, produce an official document (e.g. on headed notepaper or with a departmental stamp) or identity card that clearly gives your name, photograph and affiliation.
 -   Produce a letter of introduction from the overseas organisation or individual you are visiting.
--   Carry the names and telephone numbers of the officials to be visited in your destination and invite the officials to contact them to confirm that you are who you claim to be.
+-   Carry the names and telephone numbers of the officials to be visited in your destination and invite the official(s) to contact them to confirm that you are who you claim to be.
 
-In the event that a device is removed out of your sight such as by a customs official then it should be considered compromised. You must [contact the Technology Service Desk immediately](#contacts) and report the device as potentially compromised.
+In the event that a device is removed out of your sight (such as by a customs official) then it should be considered compromised. You must [contact the Technology Service Desk immediately](#contacts) and report the device as potentially compromised.
 
 The Technology Service Desk will disable your ability to connect to the MoJ network from your device. Be aware that although the device will still work as a mobile phone, it should be treated as compromised and not used for any MoJ business.
 

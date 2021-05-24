@@ -3,7 +3,7 @@
 <a id="key-points"></a>
 ## Key points
 
--   Be professional, and help keep Ministry of Justice MoJ information and resources safe and secure at all times.
+-   Be professional, and help keep Ministry of Justice (MoJ) information and resources safe and secure at all times.
 
 -   Think about where you are working, for example - can other people or family see what you are working on? Be thoughtful about information privacy.
 
@@ -21,12 +21,12 @@
 <a id="overview"></a>
 ## Overview
 
-The Remote Working Guide gives you advice and guidance on the main security issues that are likely to affect you as a remote worker or a user of mobile computing facilities, e.g. desktop/laptop computer, smart phones, etc, within the MoJ, including its Agencies and Associated Offices. It also sets out your individual responsibilities for IT security when working remotely.
+The Remote Working Guide gives you advice and guidance on the main security issues that are likely to affect you as a remote worker or a user of mobile computing facilities, (e.g. desktop/laptop computer, smart phones, etc), within the MoJ, including its Agencies and Associated Offices. It also sets out your individual responsibilities for IT security when working remotely.
 
 <a id="audience"></a>
 ## Audience
 
-This guide applies to all staff in the MoJ, its Agencies, Associated Offices and Arm's Length Bodies ALBs, including contractors, agency and casual staff and service providers, who use computing equipment provided by the Department for remote working or mobile computing, or process any departmental information while working remotely or while using MoJ mobile computing equipment.
+This guide applies to all staff in the MoJ, its Agencies, Associated Offices and Arm's Length Bodies (ALBs), including contractors, agency and casual staff and service providers, who use computing equipment provided by the Department for remote working or mobile computing, or process any departmental information while working remotely or while using MoJ mobile computing equipment.
 
 <a id="what-is-remote-working"></a>
 ## What is remote working?
@@ -109,7 +109,7 @@ Basically, think before you print.
 <a id="privacy"></a>
 ## Privacy
 
-It is important to protect privacy: yours and that of the MoJ. Events like the Covid-19 Coronavirus pandemic are often exploited by people wanting to get access to sensitive or valuable information. This often results in an increase in attempts to get access to personal information or MoJ accounts, using phishing and email scams. Be extra vigilant whenever you get an unexpected communication.
+It is important to protect privacy: yours and that of the MoJ. Events like the Covid-19 (Coronavirus) pandemic are often exploited by people wanting to get access to sensitive or valuable information. This often results in an increase in attempts to get access to personal information or MoJ accounts, using phishing and email scams. Be extra vigilant whenever you get an unexpected communication.
 
 Be aware of your working environment when you work with MoJ information. If anyone might see the data, or hear you talk about it as you use it, that could cause privacy problems. Be aware of SMART devices around your remote location, and ensure they are switched off if conducting video or voice communications.
 

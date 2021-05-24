@@ -1,9 +1,9 @@
 # Passwords
 
-This article provides guidance on passwords within the Ministry of Justice MoJ. It helps you protect MoJ IT systems by telling you about choosing and using passwords. Whenever you see the word system here, it applies to:
+This article provides guidance on passwords within the Ministry of Justice (MoJ). It helps you protect MoJ IT systems by telling you about choosing and using passwords. Whenever you see the word system here, it applies to:
 
 -   Hardware, such as laptops, PCs, servers, mobile devices, and any IT equipment.
--   Software, such as the Operating System, or applications installed on hardware, or mobile device applications apps.
+-   Software, such as the Operating System, or applications installed on hardware, or mobile device applications (apps).
 -   Services, such as remote databases or cloud-based tools like [Slack](https://slack.com/).
 
 This password guidance is for all users.
@@ -74,7 +74,7 @@ Change all default passwords when a new, modified, or replacement system arrives
 <a id="password-access-attempts"></a>
 ## Password access attempts
 
-If a password is ever entered incorrectly, a count starts. After at most 10 ten consecutive failed attempts at using the correct password, access to the account or system is locked. A successful use of the password resets the count to zero again.
+If a password is ever entered incorrectly, a count starts. After at most 10 (ten) consecutive failed attempts at using the correct password, access to the account or system is locked. A successful use of the password resets the count to zero again.
 
 <a id="password-reset"></a>
 ## Password reset

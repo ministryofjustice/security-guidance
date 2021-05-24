@@ -1,6 +1,6 @@
 # Email
 
-For general assistance on Ministry of Justice MoJ security matters, email [security@justice.gov.uk](mailto:security@justice.gov.uk).
+For general assistance on Ministry of Justice (MoJ) security matters, email [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 For Cyber Security assistance or consulting, email [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 

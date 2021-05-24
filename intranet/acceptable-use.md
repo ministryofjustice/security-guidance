@@ -4,7 +4,7 @@ Acceptable use of Information Technology at work.
 
 This guidance applies to all staff and contractors who work for MoJ.
 
-Everyone working at the MoJ has access to MoJ Information Technology IT resources. You must use them in an acceptable way. This guidance explains what that means.
+Everyone working at the MoJ has access to MoJ Information Technology (IT) resources. You must use them in an acceptable way. This guidance explains what that means.
 
 <a id="summary"></a>
 ## Summary
@@ -24,7 +24,7 @@ The way you use IT is important, because it indicates your approach to work, and
 <a id="what-is-meant-by-it"></a>
 ## What is meant by IT?
 
-IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices such as laptops, 'phones, mobile Wi-Fi hotspots MiFi, iPads, tablets, printers, USB memory sticks through to online services citizen-facing online services, staff tools, corporate email.
+IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices (such as laptops, 'phones, mobile Wi-Fi hotspots (MiFi), iPads, tablets, printers, USB memory sticks) through to online services (citizen-facing online services, staff tools, corporate email).
 
 <a id="acceptable-use-of-moj-it"></a>
 ## Acceptable use of MoJ IT

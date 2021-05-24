@@ -1,6 +1,6 @@
 # Web Browsing
 
-The Ministry of Justice MoJ provides access to the Intranet and Internet for business use. The access helps you to do your job effectively and efficiently. MoJ security policies governs your use of these facilities.
+The Ministry of Justice (MoJ) provides access to the Intranet and Internet for business use. The access helps you to do your job effectively and efficiently. MoJ security policies governs your use of these facilities.
 
 [Reasonable](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/) personal use is allowed, if:
 
