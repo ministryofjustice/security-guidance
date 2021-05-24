@@ -11,31 +11,28 @@
       intellectual property theft and a range of other threats from hostile third parties
       as well as foreign intelligence services.
       These risks can increase when you are overseas,
-      even when you are on holiday.</p>
+      as detailed in the
+      <ph id="overseas-travel-guide"><xref href="file:///./gs/overseas-travel-guide-v1-2-may-2021.docx" scope="external" format="docx">Overseas
+        Travel Guide</xref></ph>.</p>
     <p>Before you travel on business,
-      you must seek approval from your line manager or SCS.
-      You must also inform the security team fifteen days before either a holiday or business trip if:
-    <ul>
-      <li>you are travelling to a high-risk country,
-        even on holiday</li>
-      <li>you hold a SC or DV clearance and are travelling to,
-        or through,
-        a high-risk country</li>
-    </ul></p>
-    <p>If you are subject to a STRAP briefing
-      you must notify the security team of your intended travel to any country
-      (excluding countries in Western Europe,
+      you must seek approval from your Senior Line Manager.
+      You must also inform the security team fifteen days before either a holiday or business trip if
+      you are travelling to or through high-risk countries.</p>
+    <p>If you are subject to a STRAP briefing you must notify the security team
+      of your intended travel to or through any country (excluding countries in
+      Western Europe,
       North America,
       Australia or New Zealand).</p>
-    <p>The <xref href="https://intranet.justice.gov.uk/documents/2020/03/overseas-travel-guide.docx" format="docx" scope="external">overseas travel guide</xref>
+    <p>The <ph conref="#overseas-travel-guide"/>
       provides detailed guidance before you travel.</p>
-    <p>Mobile roaming should be requested via the <xref href="https://mojprod.service-now.com/moj_sp" format="html" scope="external">Service-Now IT Catalogue</xref>.</p>
+    <p>Mobile roaming should be requested via the
+      <xref href="https://mojprod.service-now.com/moj_sp" format="html" scope="external">Service-Now IT Catalogue</xref>.</p>
   </body>
   <topic id="documents">
     <title>Documents</title>
     <body>
       <ul>
-        <li><xref href="https://intranet.justice.gov.uk/documents/2020/03/overseas-travel-guide.docx" format="docx" scope="external">Overseas travel guide</xref></li>
+        <li><ph conref="#overseas-travel-guide"/></li>
         <li><xref href="https://intranet.justice.gov.uk/documents/2020/03/overseas-travel-form.docx" format="docx" scope="external">Overseas travel form</xref></li>
         <li><xref href="https://intranet.justice.gov.uk/documents/2020/09/overseas-working-decision-tree.docx" format="docx" scope="external">Overseas working decision tree</xref> –
           Step by step guide on how you can request to work remotely overseas during COVID-19</li>

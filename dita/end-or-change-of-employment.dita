@@ -21,7 +21,7 @@
     <title>Downloads</title>
     <body>
       <p><xref href="https://intranet.justice.gov.uk/documents/2015/04/leavers-checklist-for-managers.docx" format="docx" scope="external">Leavers checklist</xref></p>
-      <p>A downloadable version of the <q>End or change of employment</q> document is available <xref href="./gs/End_or_change_of_employment.docx" format="docx" scope="external">here</xref>.</p>
+      <p>A downloadable version of the <q>End or change of employment</q> document is available <xref href="file:///./gs/end-or-change-of-employment.docx" format="docx" scope="external">here</xref>.</p>
   </body>
   </topic>
 	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
