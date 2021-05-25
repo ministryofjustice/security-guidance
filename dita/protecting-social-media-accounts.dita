@@ -92,14 +92,39 @@
 			<p>The whole point of a social media account is to share information. But that doesn't mean you want to share <i>everything</i>.</p>
 			<p>When you first create a social media account, you are normally asked to decide on the privacy settings.
 			These control how much information you share, and who you share it with.</p>
+			<p>Typical settings that affect privacy include:
+				<ul>
+					<li>General information about you.</li>
+					<li>Your Profile information and photo.</li>
+					<li>When you were last active.</li>
+					<li>Any status updates.</li>
+					<li>Whether you have read direct messages
+						(<q platform="github">Read Receipts</q><ph platform="intranet">Read Receipts</ph>).</li>
+					<li>Whether others can add you to their groups,
+						possibly without your knowledge or agreement.</li>
+				</ul>
+			</p>
 			<p>But it's very easy to forget to check the settings, from time-to-time, to make sure they are still correct.</p>
 			<p>A good habit is to check your account privacy settings once a month or so.
 			Information on privacy settings is available for the main social media environments:
 			<ul>
 				<li><xref href="https://www.facebook.com/help/1297502253597210" format="html" scope="external">Facebook</xref></li>
-				<li><xref href="https://help.twitter.com/en/safety-and-security/how-to-make-twitter-private-and-public" format="html" scope="external">Twitter</xref></li>
 				<li><xref href="https://help.instagram.com/196883487377501/?hel-" format="html" scope="external">Instagram</xref></li>
+				<li><xref href="https://help.twitter.com/en/safety-and-security/how-to-make-twitter-private-and-public" format="html" scope="external">Twitter</xref></li>
+				<li><xref href="https://faq.whatsapp.com/general/security-and-privacy/how-to-change-your-privacy-settings/?lang=en" format="html" scope="external">WhatsApp</xref></li>
 			</ul></p>
+			<p>For example,
+				in WhatsApp,
+				to prevent someone adding you a group without your knowledge,
+				change your settings:
+				<menucascade>
+					<uicontrol>Settings</uicontrol>
+					<uicontrol>Account</uicontrol>
+					<uicontrol>Privacy</uicontrol>
+					<uicontrol>Groups</uicontrol>
+					<uicontrol>My Contacts</uicontrol>
+				</menucascade>.
+				This change means that only people you know (your contacts) can add you to a group.</p>
 			</body>
 		</topic>
 		<topic id="limit-access-to-your-accounts">

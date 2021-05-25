@@ -1,16 +1,18 @@
 # Open internet tools
 
-**This information applies to all staff and contractors who work for the Ministry of Justice \(MoJ\).**
+**This information applies to all staff and contractors who work for the Ministry of Justice (MoJ).**
 
+<a id="overview"></a>
 ## Overview
 
-Open Internet Tools \(OITs\) are applications or services from suppliers outside the MoJ. They often have the following characteristics:
+Open Internet Tools (OITs) are applications or services from suppliers outside the MoJ. They often have the following characteristics:
 
 -   they are general purpose. This means they are not specific to the MoJ. Other organisations can use them
 -   they are accessed using the Internet, usually through a web browser. This means that if you have Internet access, you are able to connect to the tools
 -   they have a basic 'free-to-use' version. This means that you are able to use some or all the capabilities, but with some constraints. For example, an online word-processor might limit you to 5 documents in your account
 -   they have one or more 'paid for' versions. By paying for the tool, you unlock some or all the constraints
 
+<a id="quick-checklist"></a>
 ### Quick checklist
 
 To help you decide if you can use an OIT to work on an MoJ task, consider the following questions:
@@ -33,6 +35,7 @@ If the answer to *any* of these questions is Yes, you might not be able to use t
 
 When you have all the answers, request formal approval to use the OIT from your [Line Manager](https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/). Do this *before* using the OIT.
 
+<a id="why-oits-are-an-opportunity"></a>
 ### Why OITs are an opportunity
 
 OITs offer some significant advantages for you and the MoJ, including:
@@ -48,6 +51,7 @@ OITs offer some significant advantages for you and the MoJ, including:
 -   easy access, whenever you have a network connection
 -   increasing availability of some or all capabilities when disconnected from the network
 
+<a id="why-oits-are-a-risk"></a>
 ### Why OITs are a risk
 
 OITs also pose some threats or risks, including:
@@ -59,10 +63,12 @@ OITs also pose some threats or risks, including:
 
 But as long you consider the threats or risks, and address them, OITs provide many benefits for you and the MoJ.
 
+<a id="summary"></a>
 ### Summary
 
 With careful use, OITs help you to work more effectively and efficiently. Think about them as serious and preferable options for performing tasks.
 
+<a id="using-oits"></a>
 ## Using OITs
 
 This guidance helps you:
@@ -70,18 +76,20 @@ This guidance helps you:
 -   understand the conditions or constraints that apply to a tool, or a task performed using a tool
 -   identify and address threats or risks posed by a new tool
 
+<a id="privacy-and-personal-information"></a>
 ### Privacy and personal information
 
-Data protection legislation makes you responsible for personal information you work with. You must keep it safe and secure. In particular, you must follow data protection obligations. These include the Data Protection Act 2018 and the General Data Protection Regulation \(GDPR\).
+Data protection legislation makes you responsible for personal information you work with. You must keep it safe and secure. In particular, you must follow data protection obligations. These include the Data Protection Act 2018 and the General Data Protection Regulation (GDPR).
 
 Don't use OITs for storing personal data until you have addressed the need to get consent first. Check if using the OIT might need an update to existing privacy policies or notices. Don't use OITs if unlawful disclosure of the information they process might cause damage or distress.
 
 Data protection legislation might also limit *where* you can process personal data. An OIT should have a privacy statement that describes where it stores or processes data. Be ready to contact the OIT provider for more information about this aspect of their service.
 
-Be sure you can fulfil your data protection responsibilities when using an OIT. It might be helpful to complete a [Privacy Impact Assessment \(PIA\)](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/privacy-reform/data-protection-impact-assessments-dpias/).
+Be sure you can fulfil your data protection responsibilities when using an OIT. It might be helpful to complete a [Privacy Impact Assessment (PIA)](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/privacy-reform/data-protection-impact-assessments-dpias/).
 
 Complying with personal information requirements can be complex. Don't hesitate to ask for advice: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
 
+<a id="classification-and-security"></a>
 ### Classification and security
 
 An OIT can only store or process information [classified](https://www.gov.uk/government/publications/government-security-classifications) at `OFFICIAL` level.
@@ -100,6 +108,7 @@ Remember that it is impossible to delete information after it's released in publ
 
 More information can be found on the [MoJ IT & Computer Security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/) pages.
 
+<a id="storage-and-data-retention"></a>
 ### Storage and data retention
 
 Laws and regulations make the MoJ and its employees responsible for managing information. Some examples include:
@@ -120,6 +129,7 @@ Most OITs let you export your data. You can then store it on an appropriate MoJ 
 
 For more guidance, read the [MoJ Information Management Policy](https://intranet.justice.gov.uk/documents/2018/01/information-management-policy-jan-2018.pdf). There is also help on [responding to requests for information](https://intranet.justice.gov.uk/guidance/knowledge-information/providing-information-to-the-public/freedom-of-information/).
 
+<a id="service-and-support"></a>
 ### Service and support
 
 OITs are often intuitive and reliable. But that doesn't mean they are always available and always work as you expect. The MoJ can't provide technical support or ensure service availability for them. Always have another way of working if the OIT is not available for some reason or for any length of time. In other words, don't let an OIT become business critical.
@@ -128,12 +138,14 @@ Check the OIT usage agreement to find out more about the service and support ava
 
 **Note:** The MoJ cannot provide technical support for OITs.
 
+<a id="common-oits"></a>
 ## Common OITs
 
 There are already many OITs used across the MoJ. Permission to use an OIT might vary, depending on where you work in the MoJ. For example, some teams must not access or use some OITs, for security or operational reasons.
 
 **Note:** Check with your Line Manager if you want to use an OIT for your work, *before* you use it.
 
+<a id="requesting-that-an-app-be-approved-for-use"></a>
 ## Requesting that an app be approved for use
 
 If there is an application or service that is not currently approved, but which you would like to use, you can request a security review.
@@ -146,6 +158,7 @@ When you submit the form, it is passed to the security team. The app is reviewed
 
 If you have any questions about the process, contact the security team: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
+<a id="getting-help"></a>
 ## Getting help
 
 For further help about aspects of using OITs within the MoJ, contact:
@@ -153,10 +166,11 @@ For further help about aspects of using OITs within the MoJ, contact:
 |Subject|Contact|
 |-------|-------|
 |Classification and Security|[MoJ Cyber Security team](mailto:security@justice.gov.uk)|
-|Storage and Data Retention|[Departmental Library & Records Management Services \(DLRMS\)](mailto:kim@justice.gov.uk)|
+|Storage and Data Retention|[Departmental Library & Records Management Services (DLRMS)](mailto:kim@justice.gov.uk)|
 |Information Assurance|[Compliance and Information Assurance Branch](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/)|
 |Personal Data|[Disclosure Team](mailto:data.access@justice.gov.uk)|
 
+<a id="feedback"></a>
 ## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).

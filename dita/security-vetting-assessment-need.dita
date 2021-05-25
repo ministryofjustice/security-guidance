@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="security-vetting-assessment-need">
+  <title>National Security Vetting – Assessment of Need</title>
+  <body>
+    <p>This form should be completed by a line manager or contract manager.
+      Completion of this form will allow <ph conref="conrefs.dita#conrefs/mojlong"/>
+      Group Security to determine the correct level of National Security Clearance.</p>
+      <p>A downloadable version of this document is available <xref href="file:///./gs/security-vetting-assessment-need.doc" format="doc" scope="external">here</xref>.</p>
+    <table frame="all">
+      <tgroup cols="6">
+        <colspec colname="col1" colnum="1" colwidth="25%"/>
+        <colspec colname="col2" colnum="2" colwidth="8%"/>
+        <colspec colname="col3" colnum="3" colwidth="25%"/>
+        <colspec colname="col4" colnum="4" colwidth="8%"/>
+        <colspec colname="col5" colnum="5" colwidth="26%"/>
+        <colspec colname="col6" colnum="6" colwidth="8%"/>
+        <tbody>
+          <row>
+            <entry colname="col1" namest="col1" nameend="col6">Name of the employee requiring clearance</entry>
+          </row>
+          <row>
+            <entry colname="col2" namest="col2" nameend="col6"> </entry>
+          </row>
+          <row>
+            <entry colname="col1" namest="col1" nameend="col6">Employee's employment status</entry>
+          </row>
+          <row>
+            <entry colname="col1">Agency:</entry>
+            <entry colname="col2"></entry>
+            <entry colname="col3">Contracted:</entry>
+            <entry colname="col4"></entry>
+            <entry colname="col5">Directly employed by <ph conref="conrefs.dita#conrefs/moj"/>:</entry>
+            <entry colname="col6"></entry>
+          </row>
+          <row>
+            <entry colname="col1">Work-based activity for which clearance is required</entry>
+          </row>
+          <row>
+            <entry colname="col2" namest="col2" nameend="col6"> </entry>
+          </row>
+          <row>
+            <entry colname="col1">Employee's location</entry>
+          </row>
+          <row>
+            <entry colname="col2" namest="col2" nameend="col6"> </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
+  <topic id="assessment-questionnaire">
+    <title>Assessment questionnaire</title>
+    <body>
+      <table frame="all">
+        <tgroup cols="4">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col3" colnum="3"/>
+          <colspec colname="col4" colnum="4"/>
+          <tbody>
+            <row>
+              <entry colname="col1">1</entry>
+              <entry colname="col2">Does the individual require access to knowledge or custody of any classified assets, including information assets?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4">Go to Q2</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">No</entry>
+              <entry colname="col4">Go to Q7</entry>
+            </row>
+            <row>
+              <entry colname="col1">2</entry>
+              <entry colname="col2">Is <codeph>OFFICIAL</codeph> (either limited via access to individual records or via accumulated knowledge)
+                the highest level of classified information or access that the individual will have?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4">Go to Q7</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">No</entry>
+              <entry colname="col4">Go to Q3</entry>
+            </row>
+            <row>
+              <entry colname="col1">3</entry>
+              <entry colname="col2">Is <codeph>SECRET</codeph> (either limited via access to individual records or via accumulated knowledge) the highest level of classified information the individual will have access to?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4">Go to Q5</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">No</entry>
+              <entry colname="col4">Go to Q4</entry>
+            </row>
+            <row>
+              <entry colname="col1">4</entry>
+              <entry colname="col2">Is <codeph>TOP SECRET</codeph> (either limited via access to individual records or via accumulated knowledge) the highest level of classified information the individual will have access to?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4">Go to Q6</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">No</entry>
+              <entry colname="col4">Go to Q7A</entry>
+            </row>
+            <row>
+              <entry colname="col1">5</entry>
+              <entry colname="col2">Is access to <codeph>SECRET</codeph> long-term, frequent and uncontrolled, or sufficient to form a comprehensive picture of a policy, plan or project?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4"><b>SC required</b></entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">No</entry>
+              <entry colname="col4">Go to Q7A</entry>
+            </row>
+            <row>
+              <entry colname="col1" namest="col1" nameend="col4">If <q>Yes</q>, please explain the nature of the job and the information involved:</entry>
+            </row>
+            <row>
+              <entry colname="col1" namest="col1" nameend="col4"> </entry>
+            </row>
+            <row>
+              <entry colname="col1">6</entry>
+              <entry colname="col2">Is access to <codeph>TOP SECRET</codeph> long-term, frequent and uncontrolled, or sufficient to form a comprehensive picture of a policy, plan or project?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4"><b>DV required</b></entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">No</entry>
+              <entry colname="col4">Go <u>back</u> to Q5</entry>
+            </row>
+            <row>
+              <entry colname="col1" namest="col1" nameend="col4">If <q>Yes</q>, please explain the nature of the job and the information involved:</entry>
+            </row>
+            <row>
+              <entry colname="col1" namest="col1" nameend="col4"> </entry>
+            </row>
+            <row>
+              <entry colname="col1">7A</entry>
+              <entry colname="col2">Is the individual likely to be in close proximity to public figures who are at risk from terrorists, or those who threaten national security?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4"><b>CTC required</b></entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">No</entry>
+              <entry colname="col4">Go to 7B</entry>
+            </row>
+            <row>
+              <entry colname="col1" namest="col1" nameend="col4">If <q>Yes</q>, which public figures and what is your assessment of the risk?</entry>
+            </row>
+            <row>
+              <entry colname="col1" namest="col1" nameend="col4"> </entry>
+            </row>
+            <row>
+              <entry colname="col1">7B</entry>
+              <entry colname="col2">Is the individual likely to require unescorted access to buildings assessed to be at risk from terrorists or those who threaten national security?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4"><b>CTC required</b></entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">No</entry>
+              <entry colname="col4">Go to 7C</entry>
+            </row>
+            <row>
+              <entry colname="col1" namest="col1" nameend="col4">If <q>Yes</q>, which building(s) and what is your assessment of why they pose a risk? e.g. Require a Palace of Westminster Pass.</entry>
+            </row>
+            <row>
+              <entry colname="col1" namest="col1" nameend="col4"> </entry>
+            </row>
+            <row>
+              <entry colname="col1">7C</entry>
+              <entry colname="col2">Is the individual likely to have access to information assessed to be of interest to terrorists or those who threaten national security?</entry>
+              <entry colname="col3">Yes</entry>
+              <entry colname="col4"><b>CTC required</b></entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2"> </entry>
+              <entry colname="col3">No</entry>
+              <entry colname="col4"><b>No clearance required</b></entry>
+            </row>
+            <row>
+              <entry colname="col1" namest="col1" nameend="col4">If <q>Yes</q>, what type(s) of information, and what is your assessment of why it is of interest?</entry>
+            </row>
+            <row>
+              <entry colname="col1" namest="col1" nameend="col4"> </entry>
+            </row>
+            <row>
+              <entry colname="col1">8</entry>
+              <entry colname="col2">Please provide any other relevant information:</entry>
+              <entry colname="col3"> </entry>
+              <entry colname="col4"> </entry>
+            </row>
+            <row>
+              <entry colname="col1" namest="col1" nameend="col4"> </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>By submitting this form,
+        you are giving your personal assurance that the individual is being cleared specifically for work in the <ph conref="conrefs.dita#conrefs/moj"/>,
+        its agencies and sponsored bodies and not for any other Government Department or organisation.
+        Clearances granted by <ph conref="conrefs.dita#conrefs/moj"/> will not be transferable to non-<ph conref="conrefs.dita#conrefs/moj"/> sites,
+        without prior approval of <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>.</p>
+      <table frame="all">
+        <tgroup cols="1">
+          <colspec colname="col1" colnum="1"/>
+          <tbody>
+            <row>
+              <entry colname="col1">Name</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+            </row>
+            <row>
+              <entry colname="col1">Email Address</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+            </row>
+            <row>
+              <entry colname="col1">Telephone Number</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+            </row>
+            <row>
+              <entry colname="col1">Business Area</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>The completed form should be sent to <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/> for consideration.</p>
+    </body>
+  </topic>
+	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

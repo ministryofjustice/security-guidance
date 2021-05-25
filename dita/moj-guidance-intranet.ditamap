@@ -53,6 +53,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta><navtitle>Overseas travel</navtitle></topicmeta>
 			<topicref href="accessing-moj-it-systems-from-overseas.dita" type="topic"/>
 			<topicref href="general-advice-on-taking-equipment-overseas.dita" type="topic"/>
+			<topicref href="overseas-travel.dita" type="topic"/>
 		</topichead>
 	</topichead>
 	<topichead>
@@ -61,8 +62,11 @@ if an audience attribute is present, then only matching content is included.
 	</topichead>
 	<topichead>
 		<topicmeta><navtitle>Personnel security clearances</navtitle></topicmeta>
-		<topicref href="personnel-security-clearances.dita" type="topic"/>
+		<topicref href="end-or-change-of-employment.dita" type="topic"/>
 		<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
+		<topicref href="national-security-vetting-questions.dita" type="topic"/>
+		<!-- The security vetting assessment need webpage is not required, only the download document. -->
+		<topicref href="security-vetting-assessment-need.dita" type="topic" processing-role="resource-only"/>
 	</topichead>
 	<topichead>
 		<topicmeta><navtitle>User access</navtitle></topicmeta>

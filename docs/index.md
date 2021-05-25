@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 7 May 2021.
+**Note:** This guidance is dated: 24 May 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 7 June 2021.
+The offline versions of this guidance are time-limited, and are not valid after 24 June 2021.
 
 ### Searching this content
 
@@ -137,7 +137,9 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 
 #### Prior to employment
 
-|[Personnel security clearances](personnel-security-clearances.md)|All users|
+|[End or change of employment](end-or-change-of-employment.md)|All users|
+|[Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)|All users|
+|[National Security Vetting questions](national-security-vetting-questions.md)|All users|
 
 #### During employment
 
@@ -181,7 +183,6 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |[Authentication](authentication.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Management access](management-access.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Managing User Access Guide](managing-user-access-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)|All users|
 |[Multi-Factor Authentication](multi-factor-authentication-mfa-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Privileged User Backups, Removable Media and Incident Management Guide](privileged-user-backups-removable-media-and-incident-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Privileged User Configuration, Patching and Change Management Guide](privileged-user-configuration-patching-and-change-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
@@ -394,4 +395,3 @@ The [Government Functional Standard - GovS 007: Security](https://www.gov.uk/gov
 ## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
-

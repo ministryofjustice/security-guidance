@@ -1,6 +1,6 @@
 # Secure disposal of IT equipment
 
-The Ministry of Justice \(MoJ\) and its Executive Agencies and Arms Length Bodies use a wide variety of equipment, including desktop computers, laptops, USB memory sticks and other mobile devices. This equipment is procured and managed though MoJ suppliers, who are normally responsible for the secure disposal of the equipment when it is no longer used. Typically, a supplier managed device will have a supplier asset tag on it, making it easier to identify who to ask for help with disposal.
+The Ministry of Justice (MoJ) and its Executive Agencies and Arms Length Bodies use a wide variety of equipment, including desktop computers, laptops, USB memory sticks and other mobile devices. This equipment is procured and managed though MoJ suppliers, who are normally responsible for the secure disposal of the equipment when it is no longer used. Typically, a supplier managed device will have a supplier asset tag on it, making it easier to identify who to ask for help with disposal.
 
 However, there are also other devices across the MoJ estate which might have been procured and managed locally. It is crucial that they are disposed of in a secure manner, to prevent data being leaked.
 
@@ -10,7 +10,7 @@ To determine the correct disposal requirement, use the following table to identi
 
 |Equipment or asset type|Data deletion method|Disposal method|
 |-----------------------|--------------------|---------------|
-|Flash \(USB\)|Delete the data, or erase using manufacturer instructions.|Destroy using commercially available disintegration equipment, to produce particles of a maximum of 6 mm in any direction.|
+|Flash (USB)|Delete the data, or erase using manufacturer instructions.|Destroy using commercially available disintegration equipment, to produce particles of a maximum of 6 mm in any direction.|
 |Hard disk drive|Overwrite the entire storage space with random or garbage data, verifying that only the data used to perform the overwrite can be read back.|Break the platters into at least 4 pieces. This can be done either manually or by using a commercially available destruction product suitable for use with hard disks. Alternatively, apply a Lower Level degauss and then apply a destructive procedure that prevents the disk from turning. For example, punch holes into the platters, or twist or bend them.|
 |Magnetic tapes and floppy disks|Overwrite the entire storage space with random or garbage data, verifying that only the data used to perform the overwrite can be read back.|Destroy using a commercially available shredder that meets a recognised international destruction standard. Particles of tape should be no larger than 6 x 15 mm. Alternatively, apply a Lower Level degauss and then cut the tape to no larger than 20 mm in any direction.|
 |Optical media|Data deletion is not possible.|Shred or disintegrate using equipment that meets a recognised international destruction standard. Particles should be no larger than 6 mm in any direction. A high capacity CD and DVD shredder is available at 102 Petty France, suitable for items up to `TOP SECRET`. Contact [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk) for help with this option.|
@@ -19,6 +19,7 @@ Owners of the data storage devices are responsible for procuring services that m
 
 Wherever possible and appropriate, managers should pool together equipment with that of local colleagues to share service costs.
 
+<a id="secure-disposal-organisations"></a>
 ## Secure disposal organisations
 
 The following organisations are approved to help you with security disposal of equipment:
@@ -26,14 +27,17 @@ The following organisations are approved to help you with security disposal of e
 -   TYR security: [g-cloud@tyr-security.co.uk](mailto:g-cloud@tyr-security.co.uk)
 -   Data eliminate: [info@dataeliminate.com](mailto:info@dataeliminate.com)
 
+<a id="moving-equipment-between-sites"></a>
 ## Moving equipment between sites
 
 If you have any concerns about moving items between sites securely, contact the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
 
+<a id="contacts"></a>
 ## Contacts
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
+<a id="feedback"></a>
 ## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).

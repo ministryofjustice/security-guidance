@@ -1,4 +1,4 @@
-# Ministry of Justice \(MoJ\) Cyber Security Guidance: Intranet Edition
+# Ministry of Justice (MoJ) Cyber Security Guidance: Intranet Edition
 
 -   [Intranet landing page](intranet-landing-page.md)
 -   Equipment
@@ -29,11 +29,13 @@
     -   Overseas travel
         -   [Accessing MoJ IT systems overseas](accessing-moj-it-systems-from-overseas.md)
         -   [Taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
+        -   [Overseas travel](overseas-travel.md)
 -   Risk assessment
     -   [Risk assessment](risk-reviews.md)
 -   Personnel security clearances
-    -   [Personnel security clearances](personnel-security-clearances.md)
+    -   [End or change of employment](end-or-change-of-employment.md)
     -   [Minimum user clearance](minimum-user-clearance-requirements-guide.md)
+    -   [National Security Vetting questions](national-security-vetting-questions.md)
 -   User access
     -   [User access](acceptable-use.md)
     -   [Data Security and Privacy](data-security-and-privacy.md)
