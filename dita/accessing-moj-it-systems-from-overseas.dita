@@ -24,20 +24,17 @@
 			<body>
 				<ol><li>Get confirmation from your Senior Line Manager that there is a business need for you to take <ph conref="conrefs.dita#conrefs/moj"/> equipment overseas and access <ph conref="conrefs.dita#conrefs/moj"/> services. Keep a note of the answers you get.</li>
 					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process if
-						you are travelling or passing through one of the following countries:
-						<ul>
-							<li><i>Argentina, Armenia, Azerbaijan, Belarus, China (including Hong Kong),
+						you are travelling to or passing through one of the following countries:
+						<lq>Argentina, Armenia, Azerbaijan, Belarus, China (including Hong Kong),
 								Egypt, Estonia, Georgia, India, Indonesia, Iran, Israel,
 								Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, Northern Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey,
-								Turkmenistan, UAE, Ukraine, Uzbekistan</i>.</li>
-						</ul></li>
-					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process if
-						you are national security cleared to SC or DV levels.</li>
+								Turkmenistan, UAE, Ukraine, Uzbekistan.</lq></li>
 					<li>If you are subject to STRAP briefing and intend to travel to or through countries not in Western Europe,
 						North America,
 						Australia,
 						or New Zealand,
-						proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process.</li>
+						proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process,
+						and notify the STRAP team at <ph conref="conrefs.dita#conrefs/strapteamemail"/>.</li>
 					<li>If you have reached this step, you do not need to seek further formal approval for your trip.</li>
 					<li>Take a copy of this guidance; it includes useful contact details that help in the event of a problem while travelling.</li>
 					<li>Check if you need to do anything to prepare for <xref href="#international-roaming" format="dita">International Roaming</xref>.</li>
@@ -110,8 +107,7 @@
 			<p>While travelling,
 				you might incur roaming charges when using your <ph conref="conrefs.dita#conrefs/moj"/> equipment
 				for calls or accessing services.
-				These charges can be expensive,
-				and must be paid by your Business Unit.
+				These charges must be paid by your Business Unit.
 				This is another reason for having a good business need
 				to take <ph conref="conrefs.dita#conrefs/moj"/> equipment overseas.</p>
 			<p>By default,

@@ -18,13 +18,14 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 ### Part One
 
 1.  Get confirmation from your Senior Line Manager that there is a business need for you to take MoJ equipment overseas and access MoJ services. Keep a note of the answers you get.
-2.  Proceed directly to [Part Two](#part-two) of this process if you are travelling or passing through one of the following countries:
-    -   *Argentina, Armenia, Azerbaijan, Belarus, China \(including Hong Kong\), Egypt, Estonia, Georgia, India, Indonesia, Iran, Israel, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, Northern Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey, Turkmenistan, UAE, Ukraine, Uzbekistan*.
-3.  Proceed directly to [Part Two](#part-two) of this process if you are national security cleared to SC or DV levels.
-4.  If you are subject to STRAP briefing and intend to travel to or through countries not in Western Europe, North America, Australia, or New Zealand, proceed directly to [Part Two](#part-two) of this process.
-5.  If you have reached this step, you do not need to seek further formal approval for your trip.
-6.  Take a copy of this guidance; it includes useful contact details that help in the event of a problem while travelling.
-7.  Check if you need to do anything to prepare for [International Roaming](#international-roaming).
+2.  Proceed directly to [Part Two](#part-two) of this process if you are travelling to or passing through one of the following countries:
+
+    > Argentina, Armenia, Azerbaijan, Belarus, China \(including Hong Kong\), Egypt, Estonia, Georgia, India, Indonesia, Iran, Israel, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, Northern Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey, Turkmenistan, UAE, Ukraine, Uzbekistan.
+
+3.  If you are subject to STRAP briefing and intend to travel to or through countries not in Western Europe, North America, Australia, or New Zealand, proceed directly to [Part Two](#part-two) of this process, and notify the STRAP team at [STRAPTeam@cluster2security.gov.uk](mailto:STRAPTeam@cluster2security.gov.uk).
+4.  If you have reached this step, you do not need to seek further formal approval for your trip.
+5.  Take a copy of this guidance; it includes useful contact details that help in the event of a problem while travelling.
+6.  Check if you need to do anything to prepare for [International Roaming](#international-roaming).
 
 ### Part Two
 
@@ -56,7 +57,7 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 
 ## International Roaming
 
-While travelling, you might incur roaming charges when using your MoJ equipment for calls or accessing services. These charges can be expensive, and must be paid by your Business Unit. This is another reason for having a good business need to take MoJ equipment overseas.
+While travelling, you might incur roaming charges when using your MoJ equipment for calls or accessing services. These charges must be paid by your Business Unit. This is another reason for having a good business need to take MoJ equipment overseas.
 
 By default, MoJ equipment is not enabled for use overseas. Before travelling, request the ServiceNow Catalogue item for International Roaming, and the remote wipe function. This helps protect the MoJ equipment in case of loss or theft.
 
