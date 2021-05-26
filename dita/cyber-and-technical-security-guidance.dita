@@ -52,7 +52,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                   <entry colname="col2"><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></entry>
                   <entry colname="col3"><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></entry>
                 </row>
-                <!-- 
+                <!--
                 <row>
                   <entry colname="col1">Suppliers. Includes just the details of primary interest to suppliers.</entry>
                   <entry colname="col2"><xref href="moj-guidance-suppliers.pdf" format="pdf" scope="peer">PDF</xref></entry>
@@ -663,22 +663,26 @@ has made for the products we operate, and our relationships with suppliers.</p>
 							<entry colname="col1" align="left"><xref href="password-storage-and-management-guide.dita" format="dita">Password Storage and Management Guide</xref></entry>
 							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
-				<row audience="audience-tech">
-					<entry colname="col1" align="left"><xref href="policies-for-google-apps-administrators.dita" format="dita">Policies for Google Apps administrators</xref></entry>
-					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-				</row>
-				<row audience="audience-tech">
-					<entry colname="col1" align="left"><xref href="policies-for-macbook-administrators.dita" format="dita">Policies for Macbook Administrators</xref></entry>
-					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-				</row>
-				<row audience="audience-tech">
-					<entry colname="col1" align="left"><xref href="system-users-and-application-administrators.dita" format="dita">System User and Application Administrators</xref></entry>
-					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-				</row>
-              <row>
-                <entry colname="col1" align="left"><xref href="using-lastpass.dita" format="dita">Using LastPass Enterprise</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
+						<row audience="audience-tech">
+							<entry colname="col1" align="left"><xref href="policies-for-google-apps-administrators.dita" format="dita">Policies for Google Apps administrators</xref></entry>
+							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
+						<row audience="audience-tech">
+							<entry colname="col1" align="left"><xref href="policies-for-macbook-administrators.dita" format="dita">Policies for Macbook Administrators</xref></entry>
+							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
+						<row audience="audience-tech">
+							<entry colname="col1" align="left"><xref href="system-administrators-policy.dita" format="dita">System administrators policy</xref></entry>
+							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
+						<row audience="audience-tech">
+							<entry colname="col1" align="left"><xref href="system-users-and-application-administrators.dita" format="dita">System User and Application Administrators</xref></entry>
+							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+						</row>
+            <row>
+              <entry colname="col1" align="left"><xref href="using-lastpass.dita" format="dita">Using LastPass Enterprise</xref></entry>
+              <entry colname="col2" align="right">All users</entry>
+            </row>
             </tbody></tgroup></table>
           </body>
         </topic>

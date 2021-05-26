@@ -57,7 +57,7 @@
     <body>
       <p>It is paramount that all Users protect the confidentiality of information held on,
         processed and transmitted by <ph conref="conrefs.dita#conrefs/moj"/> systems.
-      All Users have a role in protecting the information assets which are under their control or that they have access to.</p>
+      All Users have a role in protecting the information and assets which are under their control or that they have access to.</p>
       <p><ph conref="conrefs.dita#conrefs/moj"/> systems are designed to protect the confidentiality of the data held on them.
         However,
         maintaining this confidentiality requires the application of,
@@ -96,6 +96,19 @@
           <dt>POL.ITAUP.007</dt>
           <dd>Any request to perform an action on a system which contravenes its SyOPs <ph conref="conrefs.dita#conrefs/policymust"/> be approved in advance.</dd>
         </dlentry>
+        <dlentry>
+          <dt>POL.ITAUP.007-2105261</dt>
+          <dd>All Users <ph conref="conrefs.dita#conrefs/policymust"/> accept responsibility
+          for protecting <ph conref="conrefs.dita#conrefs/moj"/> information or assets issued to them.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>POL.ITAUP.007-2105262</dt>
+          <dd>Any theft of <ph conref="conrefs.dita#conrefs/moj"/> equipment,
+          or deliberate or willful damage to <ph conref="conrefs.dita#conrefs/moj"/> equipment,
+          <ph conref="conrefs.dita#conrefs/policymust"/> be
+          <xref href="lost-devices-incidents.dita" format="dita">reported</xref>
+          to the Police and to Service Desk.</dd>
+        </dlentry>
       </dl>
       <p>For most Users, access to <ph conref="conrefs.dita#conrefs/moj"/> systems and information held on them is through using a desktop terminal, remote access laptop, or mobile device.
         These devices have the capacity to store large amounts of potentially sensitive information assets.
@@ -110,8 +123,8 @@
         <p>The policy refers to a key set of policies and guidance,
           as follows:
         <ul>
-          <li><xref href="system-administrators-policy.dita" format="dita">System Administrators Policy</xref>.</li>
-          <li><xref href="system-users-and-application-administrators.dita" format="dita">System Users and Application Administrators</xref>.</li>
+          <li audience="audience-tech"><xref href="system-administrators-policy.dita" format="dita">System Administrators Policy</xref>.</li>
+          <li audience="audience-tech"><xref href="system-users-and-application-administrators.dita" format="dita">System Users and Application Administrators</xref>.</li>
           <li audience="audience-basic audience-tech"><xref href="remote-working.dita" format="dita">Remote Working</xref>.</li>
           <li>IT Security Operating Procedures - ICT Equipment: Desktop – Corporate.</li>
           <li>IT Security Operating Procedures - ICT Equipment: Mobile Devices - RAS Laptop.</li>
@@ -264,8 +277,9 @@
         <dl>
           <dlentry>
             <dt>POL.ITAUP.020</dt>
-            <dd>All Users <ph conref="conrefs.dita#conrefs/policymust"/> request any changes to systems or equipment through the process identified in the system SyOP; failing that, contact the IT Helpdesk.
-            Further details are provided in <xref href="system-users-and-application-administrators.dita" format="dita">System Users and Application Administrators</xref> guidance.</dd>
+            <dd>All Users <ph conref="conrefs.dita#conrefs/policymust"/> request any changes to systems or equipment through the process identified in the system SyOP; failing that,
+            contact the IT Helpdesk.
+            <ph audience="audience-tech">Further details are provided in the <xref href="system-users-and-application-administrators.dita" format="dita">System Users and Application Administrators</xref> guidance.</ph></dd>
           </dlentry>
         </dl>
     </body>

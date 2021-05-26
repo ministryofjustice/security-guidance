@@ -32,16 +32,16 @@ Failure to adhere to this policy could result in:
 
 -   **POL.ITAUP.001**
 
-    All Users **MUST** be made aware of the Acceptable Use Policy \(this document\), and provided with security awareness training which covers this policy.
+    All Users **SHALL** be made aware of the Acceptable Use Policy \(this document\), and provided with security awareness training which covers this policy.
 
 -   **POL.ITAUP.002**
 
-    All Users **MUST** undergo refresher security awareness training which covers this policy, at least every 12 months.
+    All Users **SHALL** undergo refresher security awareness training which covers this policy, at least every 12 months.
 
 
 ## Protection of assets
 
-It is paramount that all Users protect the confidentiality of information held on, processed and transmitted by MoJ systems. All Users have a role in protecting the information assets which are under their control or that they have access to.
+It is paramount that all Users protect the confidentiality of information held on, processed and transmitted by MoJ systems. All Users have a role in protecting the information and assets which are under their control or that they have access to.
 
 MoJ systems are designed to protect the confidentiality of the data held on them. However, maintaining this confidentiality requires the application of, and adherence to, a clear set of operating procedures that apply to systems and that must be followed by all Users. These are collectively know as Security Operating Procedures \(SyOPs\).
 
@@ -51,23 +51,31 @@ It is important that all Users of an MoJ system \(include support and system adm
 
 -   **POL.ITAUP.003**
 
-    All MoJ systems **MUST** have and maintain a set of Security Operating Procedures \(SyOPs\). These SyOPs **MUST** be included as part of the Assurance process.
+    All MoJ systems **SHALL** have and maintain a set of Security Operating Procedures \(SyOPs\). These SyOPs **SHALL** be included as part of the Assurance process.
 
 -   **POL.ITAUP.004**
 
-    All Users of an MoJ system \(this includes support and system administrative staff\) **MUST** read the applicable SyOPs, and **MUST** acknowledge that they have both read and understood the SyOPs before being granted access. A record **MUST** be kept of this event and made available during assurance or upon request.
+    All Users of an MoJ system \(this includes support and system administrative staff\) **SHALL** read the applicable SyOPs, and **SHALL** acknowledge that they have both read and understood the SyOPs before being granted access. A record **SHALL** be kept of this event and made available during assurance or upon request.
 
 -   **POL.ITAUP.005**
 
-    All Users **MUST** be made aware that non-conformance to system SyOPs constitutes a breach of the [MoJ IT Security Policy](it-security-policy-overview.md), and might result in disciplinary action.
+    All Users **SHALL** be made aware that non-conformance to system SyOPs constitutes a breach of the [MoJ IT Security Policy](it-security-policy-overview.md), and might result in disciplinary action.
 
 -   **POL.ITAUP.006**
 
-    Any change to a system's SyOPs **MUST** be approved in advance.
+    Any change to a system's SyOPs **SHALL** be approved in advance.
 
 -   **POL.ITAUP.007**
 
-    Any request to perform an action on a system which contravenes its SyOPs **MUST** be approved in advance.
+    Any request to perform an action on a system which contravenes its SyOPs **SHALL** be approved in advance.
+
+-   **POL.ITAUP.007-2105261**
+
+    All Users **SHALL** accept responsibility for protecting MoJ information or assets issued to them.
+
+-   **POL.ITAUP.007-2105262**
+
+    Any theft of MoJ equipment, or deliberate or willful damage to MoJ equipment, **SHALL** be [reported](lost-devices-incidents.md) to the Police and to Service Desk.
 
 
 For most Users, access to MoJ systems and information held on them is through using a desktop terminal, remote access laptop, or mobile device. These devices have the capacity to store large amounts of potentially sensitive information assets. It is important that Users follow Information Management processes and handling guidelines, to ensure information is stored and accessed appropriately. Further information on information handling is provided in the [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
@@ -87,7 +95,7 @@ To minimise the number of SyOPs in circulation and standardise procedures, the S
 
 -   **POL.ITAUP.008**
 
-    All ICT systems **MUST** have documented SyOPs which comply with the [general SyOPs listed in this policy](#general-security-operating-procedures-syops). Any deviations or additions **MUST** be recorded in separate SyOPs which form an addendum in the system information.
+    All ICT systems **SHALL** have documented SyOPs which comply with the [general SyOPs listed in this policy](#general-security-operating-procedures-syops). Any deviations or additions **SHALL** be recorded in separate SyOPs which form an addendum in the system information.
 
 
 ### Removable Media
@@ -96,15 +104,15 @@ Removable storage media include devices such as USB memory sticks, writeable CDs
 
 -   **POL.ITAUP.009**
 
-    Any removable media device **MUST** be approved by MoJ security where that device is used to store protectively marked data. The type of device and associated SyOPs **MUST** be approved as part of assurance prior to operational use.
+    Any removable media device **SHALL** be approved by MoJ security where that device is used to store protectively marked data. The type of device and associated SyOPs **SHALL** be approved as part of assurance prior to operational use.
 
 -   **POL.ITAUP.010**
 
-    All Users **MUST** ensure that all data stored on or transported by removable media is in accordance with the applicable system SyOPs.
+    All Users **SHALL** ensure that all data stored on or transported by removable media is in accordance with the applicable system SyOPs.
 
 -   **POL.ITAUP.011**
 
-    All Users **MUST** seek approval from the MoJ [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) prior to any bulk transfer of protectively marked data using removable media. [MoJ Cyber Security](#contact-details) provide advice on any technical and procedural requirements such as data encryption and handling arrangements.
+    All Users **SHALL** seek approval from the MoJ [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) prior to any bulk transfer of protectively marked data using removable media. [MoJ Cyber Security](#contact-details) provide advice on any technical and procedural requirements such as data encryption and handling arrangements.
 
 
 ### Passwords
@@ -113,11 +121,11 @@ The username and password combination, in the main, is the primary access creden
 
 -   **POL.ITAUP.012**
 
-    All Users **MUST NOT** share or disclose any passwords with any other person.
+    All Users **SHALL NOT** share or disclose any passwords with any other person.
 
 -   **POL.ITAUP.013**
 
-    All Users **MUST NOT**:
+    All Users **SHALL NOT**:
 
     -   Attempt to gain unauthorised access to another User's IT account.
     -   Attempt to use another Users access credentials to gain access to an MoJ system.
@@ -130,7 +138,7 @@ There are a number of legal and regulatory requirements with which the MoJ must 
 
 -   **POL.ITAUP.014**
 
-    All Users **MUST** be made aware of the legal and regulatory requirements that they must adhere to when accessing MoJ systems. The list of legal and regulatory requirements must be included as part of the SyOPs.
+    All Users **SHALL** be made aware of the legal and regulatory requirements that they must adhere to when accessing MoJ systems. The list of legal and regulatory requirements must be included as part of the SyOPs.
 
 
 ## MoJ's Corporate Image
@@ -139,7 +147,7 @@ Communications sent from MoJ systems, or products developed using them such as M
 
 -   **POL.ITAUP.015**
 
-    All Users **MUST** ensure that MoJ systems are not used in an abusive, offensive, defamatory, obscene, or indecent, or other such nature as to bring the MoJ or any its employees into disrepute.
+    All Users **SHALL** ensure that MoJ systems are not used in an abusive, offensive, defamatory, obscene, or indecent, or other such nature as to bring the MoJ or any its employees into disrepute.
 
 
 ## Potential to cause offence and harm
@@ -148,7 +156,7 @@ The MoJ has a duty of care to all staff and to provide a positive working enviro
 
 -   **POL.ITAUP.016**
 
-    MoJ systems **MUST NOT** be used for any activity that might cause offence to MoJ employees, customers, suppliers, partners or visitors, or in a way that violates the [MoJ Code of Conduct](https://intranet.justice.gov.uk/guidance/hr/conduct-behaviour/).
+    MoJ systems **SHALL NOT** be used for any activity that might cause offence to MoJ employees, customers, suppliers, partners or visitors, or in a way that violates the [MoJ Code of Conduct](https://intranet.justice.gov.uk/guidance/hr/conduct-behaviour/).
 
 
 ## Personal use
@@ -168,15 +176,15 @@ The MoJ reserves the right to monitor, log, and restrict personal use of its sys
 
 -   **POL.ITAUP.017**
 
-    Users **MUST** ensure that any personal use of MoJ systems does not conflict or interfere with normal business activities. Any conflict is to be reported to their line manager.
+    Users **SHALL** ensure that any personal use of MoJ systems does not conflict or interfere with normal business activities. Any conflict is to be reported to their line manager.
 
 -   **POL.ITAUP.018**
 
-    Users **MUST** ensure that any personal use of MoJ systems is compatible with any applicable SyOPs and this policy.
+    Users **SHALL** ensure that any personal use of MoJ systems is compatible with any applicable SyOPs and this policy.
 
 -   **POL.ITAUP.019**
 
-    Users **MUST** be aware that any personal use of MoJ systems which contravenes any applicable SyOPs, or this policy, constitutes a breach of the [IT Security Policy](it-security-policy-overview.md) and might result in disciplinary action.
+    Users **SHALL** be aware that any personal use of MoJ systems which contravenes any applicable SyOPs, or this policy, constitutes a breach of the [IT Security Policy](it-security-policy-overview.md) and might result in disciplinary action.
 
 
 ## Maintaining system and data integrity
@@ -185,7 +193,7 @@ Users need to comply with all applicable operating procedures and ensure that th
 
 -   **POL.ITAUP.020**
 
-    All Users **MUST** request any changes to systems or equipment through the process identified in the system SyOP; failing that, contact the IT Helpdesk. Further details are provided in [System Users and Application Administrators](system-users-and-application-administrators.md) guidance.
+    All Users **SHALL** request any changes to systems or equipment through the process identified in the system SyOP; failing that, contact the IT Helpdesk. Further details are provided in the [System Users and Application Administrators](system-users-and-application-administrators.md) guidance.
 
 
 ## Electronic messaging and use of the Internet
@@ -202,7 +210,7 @@ External E-mail and the Internet are, in general, insecure services where it is 
 
 -   **POL.ITAUP.021**
 
-    All Users **MUST** use the Internet and e-mail \(and other electronic communication systems\) only in accordance with this policy document.
+    All Users **SHALL** use the Internet and e-mail \(and other electronic communication systems\) only in accordance with this policy document.
 
 
 ### Managing e-mail use
@@ -213,20 +221,20 @@ The MoJ is connected to the Government Secure Intranet \(GSi\), which provides a
 
 -   **POL.ITAUP.022**
 
-    All Users **MUST** ensure that protectively marked information contained within or attached to an e-mail is handled in accordance with the [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+    All Users **SHALL** ensure that protectively marked information contained within or attached to an e-mail is handled in accordance with the [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 
 
 E-mail is a major source of malware and routes into the MoJ for criminal organisations to defraud staff or exfiltrate information. All Users need to exercise care when handling emails, and should [report any suspicious activity as an IT security incident](reporting-an-incident.md).
 
 -   **POL.ITAUP.023**
 
-    All Users **MUST** ensure that they do not:
+    All Users **SHALL** ensure that they do not:
 
     -   Open any attachments to an E-mail where the source is untrusted, unknown or unsolicited.
     -   Click on any links within an E-mail where the source is untrusted, unknown or unsolicited.
 -   **POL.ITAUP.024**
 
-    Where a User suspects that an E-mail received is from an untrusted, unknown or unsolicited source, they **MUST** [report it as an IT security incident](reporting-an-incident.md).
+    Where a User suspects that an E-mail received is from an untrusted, unknown or unsolicited source, they **SHALL** [report it as an IT security incident](reporting-an-incident.md).
 
 
 ## Connectivity and remote access
@@ -239,11 +247,11 @@ Further details can be found in the [Remote Working](remote-working.md) guidance
 
 -   **POL.ITAUP.025**
 
-    All Users **MUST** be aware of the [Remote Working](remote-working.md) guidance and **MUST** confirm that they have read and understood it before being provided with any remote access devices or equipment \(e.g. RSA token\).
+    All Users **SHALL** be aware of the [Remote Working](remote-working.md) guidance and **SHALL** confirm that they have read and understood it before being provided with any remote access devices or equipment \(e.g. RSA token\).
 
 -   **POL.ITAUP.026**
 
-    Any User wishing to take a remote access device out of the UK **MUST** consult the [Remote Working](remote-working.md) guidance before doing so, and the applicable device IT Security Operating Procedures document.
+    Any User wishing to take a remote access device out of the UK **SHALL** consult the [Remote Working](remote-working.md) guidance before doing so, and the applicable device IT Security Operating Procedures document.
 
 
 ## Monitoring of communications
@@ -258,11 +266,11 @@ For the purposes of business continuity, it may sometimes be necessary for the M
 
 -   **POL.ITAUP.027**
 
-    All Users **MUST** be aware that their electronic communications are being monitored in accordance with this policy.
+    All Users **SHALL** be aware that their electronic communications are being monitored in accordance with this policy.
 
 -   **POL.ITAUP.028**
 
-    All Users **MUST** be aware that business communication \(such as e-mail mailboxes\) may be accessed if they are absent from work. Normally, this would be requested and authorised by a line manager. The MoJ CISO and MoJ HR may be consulted.
+    All Users **SHALL** be aware that business communication \(such as e-mail mailboxes\) may be accessed if they are absent from work. Normally, this would be requested and authorised by a line manager. The MoJ CISO and MoJ HR may be consulted.
 
 
 ## Contact details
