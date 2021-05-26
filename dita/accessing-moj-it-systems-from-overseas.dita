@@ -117,6 +117,15 @@
 				and the remote wipe function.
 				This helps protect the <ph conref="conrefs.dita#conrefs/moj"/> equipment
 				in case of loss or theft.</p>
+			<note>International Roaming can be found on
+				<xref href="https://mojprod.service-now.com/moj_sp/?id=home" format="html" scope="external">Service Now</xref> using:
+				<menucascade>
+					<uicontrol>Home</uicontrol>
+					<uicontrol>Order IT</uicontrol>
+					<uicontrol>Telephony</uicontrol>
+					<uicontrol>Mobile Devices</uicontrol>
+					<uicontrol>Request for International Roaming</uicontrol>
+				</menucascade>.</note>
 		</body>
 	</topic>
 	<topic id="if-you-have-any-problem-when-using-moj-equipment-overseas">

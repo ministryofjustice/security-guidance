@@ -61,6 +61,8 @@ While travelling, you might incur roaming charges when using your MoJ equipment 
 
 By default, MoJ equipment is not enabled for use overseas. Before travelling, request the ServiceNow Catalogue item for International Roaming, and the remote wipe function. This helps protect the MoJ equipment in case of loss or theft.
 
+**Note:** International Roaming can be found on [Service Now](https://mojprod.service-now.com/moj_sp/?id=home) using: **Home** \> **Order IT** \> **Telephony** \> **Mobile Devices** \> **Request for International Roaming**.
+
 ## If you have any problem when using MoJ equipment overseas
 
 Contact the [Technology Service Desk](#contacts) immediately. Tell them if the MoJ equipment is lost, stolen or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.
