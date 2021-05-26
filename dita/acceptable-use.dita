@@ -85,6 +85,15 @@
     <body>
       <p>You are responsible for protecting your <ph conref="conrefs.dita#conrefs/moj"/> IT resources.
       This includes keeping your usernames and passwords safe and secure.</p>
+      <p>It also means looking after <ph conref="conrefs.dita#conrefs/moj"/> equipment,
+      especially when working away from <ph conref="conrefs.dita#conrefs/moj"/>
+      locations.
+      You are responsible for protecting <ph conref="conrefs.dita#conrefs/moj"/>
+      equipment issued to you.
+      Any theft of <ph conref="conrefs.dita#conrefs/moj"/> equipment,
+      or deliberate or willful damage to <ph conref="conrefs.dita#conrefs/moj"/> equipment,
+      should be <xref href="lost-devices-incidents.dita" format="dita">reported</xref>
+      to the Police and to Service Desk.</p>
       <p>While you might be careful about acceptable use of <ph conref="conrefs.dita#conrefs/moj"/> IT, there are still risks from <xref href="https://en.wikipedia.org/wiki/Malware" format="html" scope="external">malware</xref>, <xref href="https://en.wikipedia.org/wiki/Ransomware" format="html" scope="external">ransomware</xref>, or <xref href="https://en.wikipedia.org/wiki/Phishing" format="html" scope="external">phishing</xref> attacks.</p>
       <p>If you get an email from anyone or anywhere that you are not sure about, remember:
       <ul>
