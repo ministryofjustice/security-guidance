@@ -1,6 +1,6 @@
 # Data Handling and Information Sharing Guide
 
-This guide is designed to help protect Ministry of Justice \(MoJ\) information \(held on MoJ IT systems\) by providing guidance on how it should be handled and shared in a safe and secure manner.
+This guide is designed to help protect Ministry of Justice \(MoJ\) information held on MoJ IT systems, by providing guidance on how it should be handled and shared in a safe and secure manner.
 
 ## Overview
 
@@ -14,21 +14,33 @@ and
 
 > All staff handling sensitive government assets are briefed about how legislation \(particularly regarding Freedom of Information and Data Protection\) specifically relates to their role, including the potential disciplinary or criminal penalties that may result from failure to comply with security policies. Appropriate management structures must be in place to ensure the proper handling, control and \(if appropriate\) managed disclosure of sensitive assets.
 
-The policy on data handling and information sharing is covered in the [Information Classification and Handling Policy](information-classification-and-handling-policy.md), whilst this document sets out the MoJ guidance sharing information within the MoJ and externally with other Government departments and 3rd parties.
+The policy on data handling and information sharing is covered in the [Information Classification and Handling Policy](information-classification-and-handling-policy.md), whilst this document sets out the MoJ guidance sharing information within the MoJ and externally with other Government departments and third parties.
 
 **Note:** Other guidance might refer to information classified as being IL3 REST\*. This is an older classification standard. In general, IL3 REST\* is approximately equivalent to `OFFICIAL` with the `SENSITIVE` handling caveat, often written as `OFFICIAL-SENSITIVE`. While this approximate correspondance might be helpful, you should always review classification where older terms are used, to ensure that the correct current classification is used.
 
 ### Scope
 
-The MoJ Information Assurance \(IA\) team provide general guidance on the handling of protectively marked data, whilst this document concentrates on providing guidance on information stored on MoJ IT systems and exchanged electronically within the MoJ and with external parties.
+This document provides guidance on handling or sharing information stored on MoJ IT systems, or exchanged electronically within the MoJ, or with external parties.
+
+The MoJ [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk) can help you with more guidance on the handling of protectively marked data.
 
 This guide is split into three sections:
 
--   Handling data on MoJ IT systems.
--   Information sharing.
--   Reporting data loss.
+-   [Handling data](#handling-data-on-moj-it-systems) on MoJ IT systems.
+-   [Information sharing](#information-sharing).
+-   [Reporting data loss](#reporting-data-loss).
 
-A [Data Movement Form](#data-movement-form-dmf) must be completed for all transfers where information is transferred from an MoJ IT system to another MoJ IT system or external party. Further details on the form can be found [here](#data-movement-form-dmf).
+A [Data Movement Form](#data-movement-form-dmf) must be completed for the following scenarios:
+
+-   Data is being moved or shared by transferring a physical device, for example using a storage array, USB drive, or other removable media.
+-   Data is being moved or shared by electronic \(network\) communication, where the movement is from an MoJ IT system to an external party.
+
+A [Data Movement Form](#data-movement-form-dmf) is not required for the following scenarios:
+
+-   Data is being moved or shared by electronic \(network\) communication, where the movement is entirely within or between MoJ IT systems.
+-   Data is being moved in full compliance with the already-approved service design and operation specification and procedures.
+
+In any case of doubt, it is always advisable to complete a [Data Movement Form](#data-movement-form-dmf). Further details on the form can be found [here](#data-movement-form-dmf).
 
 **Note:** This document provides guidance for handling and sharing of information and data up to and including `OFFICIAL` and `OFFICIAL-SENSITIVE`, or the older Impact Level \(IL\) 3. Where information attracts a high protective marking or IL, advice must be sought from the MoJ Operation Security Team \(OST\) and MoJ IT Security Officer \(ITSO\).
 
@@ -167,7 +179,7 @@ Ideally, both sender and recipient should check the integrity of data before and
 
 Where there is a business requirement to do so, sensitive information may be shared with a 3rd party using a commercial grade encryption product such as SecureZip. Further information on the use of SecureZip can be found in [Using SecureZIP](#using-securezip).
 
-**Note:** File encryption does not protect the name of the file. This could reveal clues as to the nature and importance of the encrypted data. Encrypted files should be given innocuous names for transmission. If the data is contained in numerous small files, these should be collected together into a single archive \("zip"\) file. This archive should then be encrypted. Each file or archive should be sent separately, rather than attaching multiple encrypted files to a single e-mail.
+**Note:** File encryption does not protect the name of the file. This could reveal clues as to the nature and importance of the encrypted data. Encrypted files should be given innocuous names for transmission. If the data is contained in numerous small files, these should be collected together into a single archive \(“zip”\) file. This archive should then be encrypted. Each file or archive should be sent separately, rather than attaching multiple encrypted files to a single e-mail.
 
 #### Sharing information above `OFFICIAL`
 
