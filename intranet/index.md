@@ -1,10 +1,12 @@
-# Ministry of Justice (MoJ) Cyber Security Guidance: Intranet Edition
+#Ministry of Justice (MoJ) Cyber Security Guidance: Intranet Edition
 
--   [Intranet landing page](intranet-landing-page.md)
--   Equipment
+* [Intranet landing page](intranet-landing-page.md)
+* Equipment
+    -   [Equipment](equipment.md)
     -   Clear screen and desk
         -   [Clear Screen and Desk](clear-screen-and-desk.md)
     -   Data and equipment management
+        -   [Equipment management](equipment-management.md)
         -   [Bluetooth](bluetooth.md)
         -   [Email](email.md)
         -   [Information classification, handling & security guide](information-classification-handling-and-security-guide.md)
@@ -21,22 +23,22 @@
         -   [Locking and shutdown](locking-and-shutdown.md)
     -   Macbook
         -   [MacBook](policies-for-macbook-users.md)
--   Incident management
+* Incident management
     -   [Reporting an incident](reporting-an-incident.md)
     -   [Lost devices or other IT security incidents](lost-devices-incidents.md)
--   Remote working
+* Remote working
     -   [Remote Working](remote-working.md)
     -   Overseas travel
         -   [Accessing MoJ IT systems overseas](accessing-moj-it-systems-from-overseas.md)
         -   [Taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
         -   [Overseas travel](overseas-travel.md)
--   Risk assessment
+* Risk assessment
     -   [Risk assessment](risk-reviews.md)
--   Personnel security clearances
+* Personnel security clearances
     -   [End or change of employment](end-or-change-of-employment.md)
     -   [Minimum user clearance](minimum-user-clearance-requirements-guide.md)
     -   [National Security Vetting questions](national-security-vetting-questions.md)
--   User access
+* User access
     -   [User access](acceptable-use.md)
     -   [Data Security and Privacy](data-security-and-privacy.md)
     -   [Apps](general-user-video-and-messaging-apps-guidance.md)
@@ -44,10 +46,10 @@
     -   [Open internet tools](guidance-for-using-open-internet-tools.md)
     -   [IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](identify-protect-detect-respond-recover.md)
     -   [Line Manager approval](line-manager-approval.md)
-    -   [Password Managers](password-managers.md)
-        -   [Using LastPass Enterprise](using-lastpass.md)
     -   [Passwords](passwords.md)
+    -   [Password Managers](password-managers.md)
+    -   [Using LastPass Enterprise](using-lastpass.md)
     -   [Avoiding too much security](setecastronomy.md)
--   Training and education
+* Training and education
     -   [Training and Education](training-and-education.md)
 

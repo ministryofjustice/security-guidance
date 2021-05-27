@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="equipment">
+  <title>Equipment</title>
+  <body>
+  	<p>The <ph conref="conrefs.dita#conrefs/mojlong"/> uses a variety of
+    devices and services to build and provide its services,
+    and to perform its work.</p>
+  	<p>This information tells you about how to keep the <ph conref="conrefs.dita#conrefs/moj"/>
+    equipment safe and secure.</p>
+  </body>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

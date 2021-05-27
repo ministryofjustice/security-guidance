@@ -4,8 +4,8 @@
   <title>Web Browsing</title>
   <body>
     <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> provides access to the Intranet and Internet for business use.
-      The access helps you to do your job effectively and efficiently.
-      <ph conref="conrefs.dita#conrefs/moj"/> security policies governs your use of these facilities.</p>
+      The access helps you to do your job effectively and efficiently.</p>
+    <p><ph conref="conrefs.dita#conrefs/moj"/> security policies governs your use of these facilities.</p>
     <p>
       <xref href="acceptable-use.dita" format="dita" platform="github">Reasonable</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external" platform="intranet">Reasonable</xref> personal use is allowed,
       if:
@@ -24,44 +24,39 @@
       If your email use or web browsing seems unacceptable,
       your manager can request detailed activity reports.</p>
   </body>
-  <topic id="websites-you-can-access">
-    <title>Websites you can access</title>
+  <topic id="what-websites-you-can-access">
+    <title>What websites you can access</title>
     <body>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s approach to website access is continually reviewed and updated.
         By default,
         we try to allow access to as much as possible of the internet for all users.
-        Inevitably, there are some restrictions, for the following reasons:
-        <dl>
-          <dlentry>
-            <dt>Cyber Security</dt>
-            <dd>The site is an unacceptable security risk for <ph conref="conrefs.dita#conrefs/moj"/> systems or users.
-              For example, sites known to host malware are blocked.</dd>
-          </dlentry>
-          <dlentry>
-            <dt>Technical</dt>
-            <dd>The site causes technical issues which interfere with business activities.
-              For example, a video site uses too much network capacity.</dd>
-          </dlentry>
-          <dlentry>
-            <dt>Business Policy</dt>
-            <dd>Only a specific individual or group of users can access the site.
-              For example,
-              social media sites are blocked for systems or users in frontline roles.</dd>
-          </dlentry>
-        </dl></p>
+        Inevitably, there are some restrictions, for the following reasons:</p>
+        <p><b>Cyber Security</b>
+        <ul><li>The site is an unacceptable security risk for <ph conref="conrefs.dita#conrefs/moj"/> systems or users.
+          For example, sites known to host malware are blocked.</li></ul></p>
+        <p><b>Technical</b>
+        <ul><li>The site causes technical issues which interfere with business activities.
+          For example, a video site uses too much network capacity.</li></ul></p>
+        <p><b>Business Policy</b>
+        <ul><li>Only a specific individual or group of users can access the site.
+          For example,
+          social media sites are blocked for systems or users in frontline roles.</li></ul></p>
       <p>The list of websites included in each of the categories is as small as possible.
         But if you cannot access a site that you think should be OK,
-        you can <xref href="#what-to-do-if-you-are-blocked-from-a-website-that-you-think-should-be-ok" format="dita">request a review</xref>.
+        you can <xref href="#what-to-do-if-you-are-blocked-from-a-website-that-you-think-should-be-ok"
+        format="dita" platform="github">request a review</xref><ph platform="intranet">request a review</ph>.
         Similarly,
         if you can access a site that you think should be blocked,
-        <xref href="#what-to-do-if-you-are-able-to-access-a-website-that-you-think-should-be-blocked" format="dita">request a review</xref>.</p>
+        <xref href="#what-to-do-if-you-are-able-to-access-a-website-that-you-think-should-be-blocked"
+          format="dita" platform="github">request a review</xref><ph platform="intranet">request a review</ph>.</p>
       <p audience="audience-tech">The access rules that apply are described in detail <xref href="web-browsing-security-policy-profiles.dita" format="dita">here</xref>.</p>
     </body>
   </topic>
   <topic id="what-to-do-if-you-are-blocked-from-a-website-that-you-think-should-be-ok">
     <title>What to do if you are blocked from a website that you think should be OK</title>
     <body>
-      <p>Log an incident with your <xref href="#general-enquiries-including-theft-and-loss" format="dita">Service Desk</xref>.</p>
+      <p>Log an incident with your <xref href="#general-enquiries-including-theft-and-loss"
+        format="dita" platform="github">Service Desk</xref><ph platform="intranet">Service Desk</ph>.</p>
       <p>Provide the following details:
       <ul>
         <li>The address of the website.</li>
@@ -78,7 +73,8 @@
   <topic id="what-to-do-if-you-are-able-to-access-a-website-that-you-think-should-be-blocked">
     <title>What to do if you are able to access a website that you think should be blocked</title>
     <body>
-      <p>Log an incident with your <xref href="#general-enquiries-including-theft-and-loss" format="dita">Service Desk</xref>.</p>
+      <p>Log an incident with your <xref href="#general-enquiries-including-theft-and-loss"
+        format="dita" platform="github">Service Desk</xref><ph platform="intranet">Service Desk</ph>.</p>
       <p>Provide the following details:
       <ul>
         <li>The address of the website.</li>
@@ -92,7 +88,8 @@
     <body>
       <ul>
         <li>HMPPS Prison - All requests should be directed to the Service Desk via a local or area IT Manager.</li>
-        <li>HMPPS Probation - Log an incident with your <xref href="#general-enquiries-including-theft-and-loss" format="dita">Service Desk</xref>.</li>
+        <li>HMPPS Probation - Log an incident with your <xref href="#general-enquiries-including-theft-and-loss"
+          format="dita" platform="github">Service Desk</xref><ph platform="intranet">Service Desk</ph>.</li>
         <li>All other teams, contact the Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/></li>
       </ul>
     </body>
