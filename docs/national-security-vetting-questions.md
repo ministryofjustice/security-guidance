@@ -102,7 +102,7 @@ If all information and the correct documents have been provided, the timescales 
 -   Baseline Personal Security Standard \(BPSS\): average six days.
 -   Disclosure Barring Service \(DBS\) standard checks: New checks: average five days.
 -   Disclosure Barring Service \(DBS\) enhanced checks: New checks: average six days.
--   Counter terrorist check \(CTC\): new checks: minimum six.
+-   Counter terrorist check \(CTC\): new checks: minimum six weeks.
 -   Security check \(SC\): new checks: minimum six weeks.
 -   Developed vetting \(DV\): new checks: minimum 18 weeks.
 
