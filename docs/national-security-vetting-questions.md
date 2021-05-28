@@ -29,7 +29,7 @@ Three scenarios are given here:
 
 -   **Scenario 1: The level of clearance required for the new role is the same level the exporting department held for the individual.**
 
-    For example, the new role requires SC clearance, and the candidate's exporting department held valid SC clearance for the them.
+    For example, the new role requires SC clearance, and the candidate's exporting department held valid SC clearance for them.
 
     Answer: Transfer can take place provided the exporting department confirms a valid NSV clearance **and** agrees to transfer it to the MoJ. In most cases these transfers can take place. In some exceptional circumstances, departments may refuse to transfer clearance to the MoJ. Where this happens, the candidate is required to complete NSV again.
 
