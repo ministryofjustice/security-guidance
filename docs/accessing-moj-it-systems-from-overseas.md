@@ -18,10 +18,12 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 ### Part One
 
 1.  Get confirmation from your Senior Line Manager that there is a business need for you to take MoJ equipment overseas and access MoJ services. Keep a note of the answers you get.
-2.  Proceed directly to [Part Two](#part-two) of this process if you are travelling or passing through one of the following countries:
-    -   *Argentina, Armenia, Azerbaijan, Belarus, China \(including Hong Kong\), Egypt, Estonia, Georgia, India, Indonesia, Iran, Israel, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, the northern area of the Republic of Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey, Turkmenistan, UAE, Ukraine, Uzbekistan*.
+2.  Proceed directly to [Part Two](#part-two) of this process if you are travelling to or passing through one of the following countries:
+
+    > Argentina, Armenia, Azerbaijan, Belarus, China \(including Hong Kong\), Egypt, Estonia, Georgia, India, Indonesia, Iran, Israel, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, the northern area of the Republic of Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey, Turkmenistan, UAE, Ukraine, Uzbekistan.
+
 3.  Proceed directly to [Part Two](#part-two) of this process if you are national security cleared to SC or DV levels.
-4.  If you are subject to STRAP briefing and intend to travel to or through countries not in Western Europe, North America, Australia, or New Zealand, proceed directly to [Part Two](#part-two) of this process.
+4.  If you are subject to STRAP briefing and intend to travel to or through countries not in Western Europe, North America, Australia, or New Zealand, proceed directly to [Part Two](#part-two) of this process, and notify the STRAP team at [STRAPTeam@cluster2security.gov.uk](mailto:STRAPTeam@cluster2security.gov.uk).
 5.  If you have reached this step, you do not need to seek further formal approval for your trip.
 6.  Take a copy of this guidance; it includes useful contact details that help in the event of a problem while travelling.
 7.  Check if you need to do anything to prepare for [International Roaming](#international-roaming).
@@ -113,3 +115,4 @@ During UK working hours, MoJ \(but not HMPPS\) staff should follow the process o
 ## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+
