@@ -56,9 +56,11 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 
 ## International Roaming
 
-While travelling, you might incur roaming charges when using your MoJ equipment for calls or accessing services. These charges can be expensive, and must be paid by your Business Unit. This is another reason for having a good business need to take MoJ equipment overseas.
+While travelling, you might incur roaming charges when using your MoJ equipment for calls or accessing services. These charges must be paid by your Business Unit. This is another reason for having a good business need to take MoJ equipment overseas.
 
 By default, MoJ equipment is not enabled for use overseas. Before travelling, request the ServiceNow Catalogue item for International Roaming, and the remote wipe function. This helps protect the MoJ equipment in case of loss or theft.
+
+**Note:** International Roaming can be found on [Service Now](https://mojprod.service-now.com/moj_sp/?id=home) using: **Home** \> **Order IT** \> **Telephony** \> **Mobile Devices** \> **Request for International Roaming**.
 
 ## If you have any problem when using MoJ equipment overseas
 
@@ -111,4 +113,3 @@ During UK working hours, MoJ \(but not HMPPS\) staff should follow the process o
 ## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
-
