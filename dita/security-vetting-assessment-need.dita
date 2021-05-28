@@ -7,7 +7,7 @@
     <p>This form should be completed by a line manager or contract manager.
       Completion of this form will allow <ph conref="conrefs.dita#conrefs/mojlong"/>
       Group Security to determine the correct level of National Security Clearance.</p>
-      <p>A downloadable version of this document is available <xref href="./gs/security-vetting-assessment-need.doc" format="docx" scope="external">here</xref>.</p>
+      <p>A downloadable version of this document is available <xref href="file:///./gs/security-vetting-assessment-need.doc" format="doc" scope="external">here</xref>.</p>
     <table frame="all">
       <tgroup cols="6">
         <colspec colname="col1" colnum="1" colwidth="25%"/>

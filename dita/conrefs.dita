@@ -37,11 +37,12 @@
 			<ph id="nsvc-contact">If you don't know who your NSVC is,
 				see the download <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external">here</xref>.</ph>
 			<ph id="ostemail"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
+			<ph id="ostemailtext"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">Operational Security Team</xref></ph>
 			<ph id="policyterms">In policy documents,
-				formal terms such as <q><ph conref="#conrefs/policyshall"/></q>,
-				or <q><ph conref="#conrefs/policyshould"/></q>,
-				are as defined in the UK Government <q>Orange Book</q>
-				<xref href="https://www.gov.uk/government/publications/orange-book" format="html" scope="external">Management of Risk - Principles and Concepts</xref>.</ph>
+			formal terms such as <q><ph conref="#conrefs/policyshall"/></q>,
+			or <q><ph conref="#conrefs/policyshould"/></q>,
+			are as defined in the UK Government <q>Orange Book</q>
+			<xref href="https://www.gov.uk/government/publications/orange-book" format="html" scope="external">Management of Risk - Principles and Concepts</xref>.</ph>
 			<ph id="policycannot"><b>CAN NOT</b></ph>
 			<ph id="policymust"><b>SHALL</b></ph>
 			<ph id="policymustnot"><b>SHALL NOT</b></ph>
