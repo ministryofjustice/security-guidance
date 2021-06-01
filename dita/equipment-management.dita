@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="equipment-management">
+  <title>Equipment management</title>
+  <body>
+  	<p>You are responsible for looking after the safety and security of
+      <ph conref="conrefs.dita#conrefs/mojlong"/> equipment that you use to do
+      your job.</p>
+  	<p>This information helps you keep
+      <ph conref="conrefs.dita#conrefs/moj"/> equipment safe and secure.</p>
+  </body>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

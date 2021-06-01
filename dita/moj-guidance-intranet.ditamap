@@ -13,12 +13,14 @@ if an audience attribute is present, then only matching content is included.
 	<topicref href="intranet-landing-page.dita" type="topic"/>
 	<topichead>
 		<topicmeta><navtitle>Equipment</navtitle></topicmeta>
+		<topicref href="equipment.dita" type="topic"/>
 		<topichead>
 			<topicmeta><navtitle>Clear screen and desk</navtitle></topicmeta>
 			<topicref href="clear-screen-and-desk.dita" type="topic"/>
 		</topichead>
 		<topichead>
 			<topicmeta><navtitle>Data and equipment management</navtitle></topicmeta>
+			<topicref href="equipment-management.dita" type="topic"/>
 			<topicref href="bluetooth.dita" type="topic"/>
 			<topicref href="email.dita" type="topic"/>
 			<topicref href="information-classification-handling-and-security-guide.dita" type="topic"/>
@@ -62,11 +64,13 @@ if an audience attribute is present, then only matching content is included.
 	</topichead>
 	<topichead>
 		<topicmeta><navtitle>Personnel security clearances</navtitle></topicmeta>
-		<topicref href="end-or-change-of-employment.dita" type="topic"/>
-		<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
-		<topicref href="national-security-vetting-questions.dita" type="topic"/>
-		<!-- The security vetting assessment need webpage is not required, only the download document. -->
-		<topicref href="security-vetting-assessment-need.dita" type="topic" processing-role="resource-only"/>
+		<topicref href="personnel-security-clearances.dita" type="topic">
+			<topicref href="end-or-change-of-employment.dita" type="topic"/>
+			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
+			<topicref href="national-security-vetting-questions.dita" type="topic"/>
+			<!-- The security vetting assessment need webpage is not required, only the download document. -->
+			<topicref href="security-vetting-assessment-need.dita" type="topic" processing-role="resource-only"/>
+		</topicref>
 	</topichead>
 	<topichead>
 		<topicmeta><navtitle>User access</navtitle></topicmeta>
@@ -77,29 +81,13 @@ if an audience attribute is present, then only matching content is included.
 		<topicref href="guidance-for-using-open-internet-tools.dita" type="topic"/>
 		<topicref href="identify-protect-detect-respond-recover.dita" type="topic"/>
 		<topicref href="line-manager-approval.dita" type="topic"/>
-		<topicref href="password-managers.dita" type="topic">
-			<topicref href="using-lastpass.dita" type="topic"/>
-		</topicref>
 		<topicref href="passwords.dita" type="topic"/>
+		<topicref href="password-managers.dita" type="topic"/>
+		<topicref href="using-lastpass.dita" type="topic"/>
 		<topicref href="setecastronomy.dita" type="topic"/>
 	</topichead>
 	<topichead>
 		<topicmeta><navtitle>Training and education</navtitle></topicmeta>
 		<topicref href="training-and-education.dita" type="topic"/>
 	</topichead>
-
-	<reltable>
-		<relheader>
-			<relcolspec type="topic"/>
-			<relcolspec type="topic"/>
-		</relheader>
-		<relrow>
-			<relcell>
-				<topicref href="laptops.dita"/>
-			</relcell>
-			<relcell>
-				<topicref href="lost-devices-incidents.dita"/>
-			</relcell>
-		</relrow>
-	</reltable>
 </map>

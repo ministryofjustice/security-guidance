@@ -1,11 +1,11 @@
-# Information classification, handling & security guide
+#Information classification, handling & security guide
 
 All Ministry of Justice (MoJ) employees interact with information, and are responsible for its protection. Information security must be considered during the process of designing, maintaining, and securing the MoJ's IT systems that are used to process information.
 
 However, not all information warrants the strictest levels of protection. This is why information classification is so important to the MoJ – to ensure that the department can focus its security efforts on its most sensitive information. Information security must be proportionate to the security classification of the information, and must be considered throughout the information lifecycle to maintain its confidentiality, integrity, and availability.
 
 <a id="classifying-information"></a>
-## Classifying information
+##Classifying information
 
 The three information security classifications the MoJ uses are `OFFICIAL`, `SECRET`, and `TOP SECRET`. This follows the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications).
 
@@ -29,8 +29,8 @@ It is important to understand that security classification is determined by the 
 
 It is the responsibility of the Data Owner to classify the data.
 
--   Most production data is `OFFICIAL` information. Within this, some production data might be classified as `SECRET` information.
--   Most personal data is `OFFICIAL` information. Within this, some personal data might be classified as `SECRET` information if it meets the risk threshold defined.
+* Most production data is `OFFICIAL` information. Within this, some production data might be classified as `SECRET` information.
+* Most personal data is `OFFICIAL` information. Within this, some personal data might be classified as `SECRET` information if it meets the risk threshold defined.
 
 The table below sets out the definitions for each security classification, as well as whether it is necessary to explicitly mark a piece of information with its classification type.
 
@@ -42,29 +42,29 @@ The table below sets out the definitions for each security classification, as we
 |**`SECRET`**|Very sensitive information that requires protection against highly sophisticated, well-resourced and determined threat actors, for example serious and organised crime.|Must be marked|
 |**`TOP SECRET`**|Exceptionally sensitive information that directly supports (or threatens) the national security of the UK or its allies and requires extremely high assurance of protection from all threats.|Must be marked|
 
-Additional information on how to manage information is described in the [Information Asset Management Policy](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/).
+Additional information on how to manage information is described in the [Information Asset Management Policy](/guidance/knowledge-information/managing-information/).
 
 Information security classification may change throughout the information lifecycle. It is important to apply appropriate security classifications and continually evaluate them.
 
 The consequences of not classifying information correctly are outlined below:
 
--   Applying too high a marking can inhibit business operations, such as collaboration, and lead to unnecessary and expensive protective controls being applied.
--   Applying too low a marking may result in inappropriate controls, and may put sensitive assets at greater risk of compromise.
--   Incorrect disposal can lead to unauthorised access to information. Disposal of information should be done using approved processes, equipment or service providers.
+* Applying too high a marking can inhibit business operations, such as collaboration, and lead to unnecessary and expensive protective controls being applied.
+* Applying too low a marking may result in inappropriate controls, and may put sensitive assets at greater risk of compromise.
+* Incorrect disposal can lead to unauthorised access to information. Disposal of information should be done using approved processes, equipment or service providers.
 
-<a id="`official`-and-`official-sensitive`"></a>
-## `OFFICIAL` and `OFFICIAL-SENSITIVE`
+<a id="official-and-official-sensitive"></a>
+##`OFFICIAL` and `OFFICIAL-SENSITIVE`
 
 All of the MoJ's information is, at a minimum, `OFFICIAL` information. It is very likely that the information you create and use in your MoJ day-to-day job is `OFFICIAL` information.
 
 Examples include:
 
--   Routine emails you send to your colleagues.
--   Information posted on the intranet.
--   Supplier contracts.
--   Information and data you use to build a database, such as database secrets, record types, and field types.
--   Most production data.
--   Most non-production data.
+* Routine emails you send to your colleagues.
+* Information posted on the intranet.
+* Supplier contracts.
+* Information and data you use to build a database, such as database secrets, record types, and field types.
+* Most production data.
+* Most non-production data.
 
 `OFFICIAL` means that the MoJ's typical security measures are regarded as sufficient.
 
@@ -72,8 +72,8 @@ Examples include:
 
 Use `OFFICIAL-SENSITIVE` when you want to remind users to be careful when handling information. This asks them to use extra care, beyond what is expected for the baseline `OFFICIAL` classification.
 
-<a id="`secret`"></a>
-## `SECRET`
+<a id="secret"></a>
+##`SECRET`
 
 The threshold for classifying information as `SECRET` information is very high. It is unlikely that you will encounter `SECRET` information in your day-to-day job.
 
@@ -85,8 +85,8 @@ To help decide whether some information should be classified as `SECRET`, ask yo
 
 The answer is most likely No. In that case, you should consider using the `OFFICIAL` classification.
 
-<a id="`top-secret`"></a>
-## `TOP SECRET`
+<a id="top-secret"></a>
+##`TOP SECRET`
 
 If the threshold for classifying information as `SECRET` is very high, the threshold for classifying information as `TOP SECRET` is extremely high. It is very unlikely that you will encounter `TOP SECRET` information in your day-to-day job.
 
@@ -99,26 +99,26 @@ To help decide whether some information should be classified as `TOP SECRET`, as
 The answer is most likely No. In that case, you should consider using the `OFFICIAL` or `SECRET` classification, as appropriate.
 
 <a id="reclassifying-information"></a>
-## Reclassifying information
+##Reclassifying information
 
 The asset owner has responsibility for reclassifying an asset. If another user has reason to believe that an asset is incorrectly classified or has an incorrect handling caveat, they should normally discuss this with the asset owner. The other user cannot unilaterally reclassify the asset.
 
 The exception is where the asset might need a higher classification than that assigned by the asset owner. The reclassification must still be communicated to the asset owner, for consistency. If it is agreed that the classification should be increased, check with the Operational Security Team ([OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)) whether additional actions are required to protect the material.
 
 <a id="reclassification-examples"></a>
-## Reclassification examples
+##Reclassification examples
 
 When deciding whether it is appropriate or desirable to reclassify information, a useful model is to consider what audience might get value from accessing the information. For example, if a hostile country might want the information, then the information might well be best classified as `SECRET`. Alternatively, a reclassification decision might be required as a result of changing threat advice from intelligence agencies.
 
 <a id="example-1"></a>
-### Example 1
+###Example 1
 
 An asset owner creates a report. The report contains potentially private information about individuals. The asset owner decides that the report should be classified as `OFFICIAL`, with the `SENSITIVE` handling caveat.
 
 A user wishes to share a copy of the report as-is with their team. They cannot remove the handling caveat without prior discussion and agreement from the asset owner.
 
 <a id="example-2"></a>
-### Example 2
+###Example 2
 
 An asset owner creates a report. The report contains potentially private information about individuals. The asset owner decides that the report should be classified as `OFFICIAL`, with the `SENSITIVE` handling caveat.
 
@@ -127,29 +127,29 @@ A user wishes to share a subset of the report with their team. In particular, th
 The original report retains its `OFFICIAL` classification and `SENSITIVE` handling caveat.
 
 <a id="example-3"></a>
-### Example 3
+###Example 3
 
 An asset owner creates a report. The report contains information about plans to handle a pandemic. The asset owner decides that the report should be classified as `OFFICIAL`, with the `SENSITIVE` handling caveat.
 
 A user reviews the report. They realise that the information could potentially compromise the security or prosperity of the country. They decide to increase the classification of the report, and treat it as `SECRET`. They discuss this decision with the asset owner, so that the original report is correctly reclassified.
 
 <a id="handling-and-securing-information"></a>
-## Handling and securing information
+##Handling and securing information
 
 The [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) is the most comprehensive guide on the security measures necessary for each of the three security classifications, including measures related to the following:
 
--   Personnel (administrative) security.
--   Physical security.
--   Technical (information security).
+* Personnel (administrative) security.
+* Physical security.
+* Technical (information security).
 
 The following sections set out the minimum measures you need to consider when handling and securing information within the different levels of classification.
 
-<a id="handling-and-securing-`official`-and-`official-sensitive`-information"></a>
-### Handling and securing `OFFICIAL` and `OFFICIAL-SENSITIVE` information
+<a id="handling-and-securing-official-and-official-sensitive-information"></a>
+###Handling and securing `OFFICIAL` and `OFFICIAL-SENSITIVE` information
 
 |Type|Measure|Example|
 |----|-------|-------|
-|**`PERSONNEL`**|Make sure all MoJ staff including contractors undergo baseline security clearance checks.|A contractor working with the MoJ Security Team must undergo a baseline background check (i.e. BPSS check) at minimum. Refer to [Security Vetting Guidance](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/).|
+|**`PERSONNEL`**|Make sure all MoJ staff including contractors undergo baseline security clearance checks.|A contractor working with the MoJ Security Team must undergo a baseline background check (i.e. BPSS check) at minimum. Refer to [Security Vetting Guidance](/guidance/hr/recruitment/security-vetting/).|
 |**`PHYSICAL`**|Make sure that you lock your screen before you leave your desk.||
 ||When working in an unsecured area, for example when working remotely, think about whether unauthorised people might be able to eavesdrop on your conversations, or look over your shoulder at your screen.||
 ||The MoJ has additional requirements when moving assets which can be found in the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications).|A software developer working from a flatshare should take calls in private, and use headphones and a privacy screen.|
@@ -161,8 +161,8 @@ The following sections set out the minimum measures you need to consider when ha
 
 **Note:** Different information security measures might be applicable throughout the information lifecycle. It is important continually to evaluate security classifications and their corresponding measures. Refer to the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) for further guidance.
 
-<a id="handling-and-securing-`secret`-information"></a>
-### Handling and securing `SECRET` information
+<a id="handling-and-securing-secret-information"></a>
+###Handling and securing `SECRET` information
 
 |Type|Measure|Example|
 |----|-------|-------|
@@ -175,8 +175,8 @@ The following sections set out the minimum measures you need to consider when ha
 
 **Note:** Different information security measures might be applicable throughout the information lifecycle. It is important continually to evaluate security classifications and their corresponding measures. Refer to the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) for further guidance.
 
-<a id="handling-and-securing-`top-secret`-information"></a>
-### Handling and securing `TOP SECRET` information
+<a id="handling-and-securing-top-secret-information"></a>
+###Handling and securing `TOP SECRET` information
 
 |Type|Measure|Example|
 |----|-------|-------|
@@ -193,12 +193,12 @@ The following sections set out the minimum measures you need to consider when ha
 **Note:** For further information on statutory disclosures and transfer to national archives, please refer to the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications).
 
 <a id="contacts"></a>
-## Contacts
+##Contacts
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 <a id="feedback"></a>
-## Feedback
+##Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 
