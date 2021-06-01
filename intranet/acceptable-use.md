@@ -71,7 +71,9 @@ Unacceptable use might also affect you, too:
 
 You are responsible for protecting your MoJ IT resources. This includes keeping your usernames and passwords safe and secure.
 
-It also means looking after MoJ equipment, especially when working away from MoJ locations. You are responsible for protecting MoJ equipment issued to you. Any theft of MoJ equipment, or deliberate or willful damage to MoJ equipment, should be [reported](lost-devices-incidents.md) to the Police and to the Service Desk.
+It also means looking after MoJ equipment, especially when working away from MoJ locations. You are responsible for protecting MoJ equipment issued to you. Any theft of MoJ equipment, or deliberate or willful damage to MoJ equipment, should normally be [reported](lost-devices-incidents.md) to the Police and to the Service Desk.
+
+**Note:** You should normally report instances of theft or damage to authorities as indicated. However, there might be additional circumstances which mean a sensitive handling of the situation is appropriate. It is acceptable to consider the context of the situation when making a report. Ensure you can justify your actions. In cases of uncertainty, don't hesitate to ask your line manager, or other responsible authority for advice.
 
 While you might be careful about acceptable use of MoJ IT, there are still risks from [malware](https://en.wikipedia.org/wiki/Malware), [ransomware](https://en.wikipedia.org/wiki/Ransomware), or [phishing](https://en.wikipedia.org/wiki/Phishing) attacks.
 
