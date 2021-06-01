@@ -43,7 +43,7 @@ You could use your MoJ LastPass account to store personal non-work information b
 
 MoJ LastPass administrators cannot routinely access the contents of LastPass Vaults but can reset accounts to gain access if there is a good reason to do so.
 
-<a id="what-it-shouldn't-be-used-for"></a>
+<a id="what-it-shouldnt-be-used-for"></a>
 ###What it shouldn't be used for
 
 LastPass should not be used for storing MoJ documents - you must use existing MoJ services such as Office 365 or Google Workspace for that.

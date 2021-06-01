@@ -4,6 +4,8 @@ Minimum User Clearance Requirements Guide
 
 This Minimum User Clearance Requirements Guide outlines the level of security clearance required for staff in order to access specific account types.
 
+**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+
 <a id="security-clearance-levels"></a>
 ##Security clearance levels
 
@@ -38,7 +40,7 @@ The MoJ HQ and Executive Agencies might have additional, specific requirements f
 
 Please contact the Cyber Assistance Team and refer to the [Vetting Policy](/guidance/hr/recruitment/security-vetting/) for further information.
 
-<a id="checking-someone's-clearance-status"></a>
+<a id="checking-someones-clearance-status"></a>
 ##Checking someone's clearance status
 
 To check someone's clearance status, collect the following information:

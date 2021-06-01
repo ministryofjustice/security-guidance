@@ -49,7 +49,7 @@ This is potentially very dangerous:
 
 Only use applications that are trusted and approved for use with your social media accounts. For help with this, [contact Cyber Security](#cyber-security-advice).
 
-<a id="remove-'unused'-applications"></a>
+<a id="remove-unused-applications"></a>
 ###Remove 'unused' applications
 
 People tend not to be very good at removing old or rarely used applications. Older applications should be checked regularly to see if there are any updates.
@@ -99,7 +99,7 @@ Any MoJ social media accounts that do need to be shared will have proper access 
 
 If you need more help on this, contact your Line Manager or [Cyber Security](#cyber-security-advice).
 
-<a id="don't-click-on-suspicious-links"></a>
+<a id="dont-click-on-suspicious-links"></a>
 ###Don't click on suspicious links
 
 Unfortunately, social media postings are a common way of sending you links to malware or other problem material. Postings might also be used to send you 'phishing' attacks.

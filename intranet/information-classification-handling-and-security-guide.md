@@ -52,7 +52,7 @@ The consequences of not classifying information correctly are outlined below:
 * Applying too low a marking may result in inappropriate controls, and may put sensitive assets at greater risk of compromise.
 * Incorrect disposal can lead to unauthorised access to information. Disposal of information should be done using approved processes, equipment or service providers.
 
-<a id="`official`-and-`official-sensitive`"></a>
+<a id="official-and-official-sensitive"></a>
 ##`OFFICIAL` and `OFFICIAL-SENSITIVE`
 
 All of the MoJ's information is, at a minimum, `OFFICIAL` information. It is very likely that the information you create and use in your MoJ day-to-day job is `OFFICIAL` information.
@@ -72,7 +72,7 @@ Examples include:
 
 Use `OFFICIAL-SENSITIVE` when you want to remind users to be careful when handling information. This asks them to use extra care, beyond what is expected for the baseline `OFFICIAL` classification.
 
-<a id="`secret`"></a>
+<a id="secret"></a>
 ##`SECRET`
 
 The threshold for classifying information as `SECRET` information is very high. It is unlikely that you will encounter `SECRET` information in your day-to-day job.
@@ -85,7 +85,7 @@ To help decide whether some information should be classified as `SECRET`, ask yo
 
 The answer is most likely No. In that case, you should consider using the `OFFICIAL` classification.
 
-<a id="`top-secret`"></a>
+<a id="top-secret"></a>
 ##`TOP SECRET`
 
 If the threshold for classifying information as `SECRET` is very high, the threshold for classifying information as `TOP SECRET` is extremely high. It is very unlikely that you will encounter `TOP SECRET` information in your day-to-day job.
@@ -144,7 +144,7 @@ The [HMG Government Security Classifications Policy](https://www.gov.uk/governme
 
 The following sections set out the minimum measures you need to consider when handling and securing information within the different levels of classification.
 
-<a id="handling-and-securing-`official`-and-`official-sensitive`-information"></a>
+<a id="handling-and-securing-official-and-official-sensitive-information"></a>
 ###Handling and securing `OFFICIAL` and `OFFICIAL-SENSITIVE` information
 
 |Type|Measure|Example|
@@ -161,7 +161,7 @@ The following sections set out the minimum measures you need to consider when ha
 
 **Note:** Different information security measures might be applicable throughout the information lifecycle. It is important continually to evaluate security classifications and their corresponding measures. Refer to the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) for further guidance.
 
-<a id="handling-and-securing-`secret`-information"></a>
+<a id="handling-and-securing-secret-information"></a>
 ###Handling and securing `SECRET` information
 
 |Type|Measure|Example|
@@ -175,7 +175,7 @@ The following sections set out the minimum measures you need to consider when ha
 
 **Note:** Different information security measures might be applicable throughout the information lifecycle. It is important continually to evaluate security classifications and their corresponding measures. Refer to the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) for further guidance.
 
-<a id="handling-and-securing-`top-secret`-information"></a>
+<a id="handling-and-securing-top-secret-information"></a>
 ###Handling and securing `TOP SECRET` information
 
 |Type|Measure|Example|

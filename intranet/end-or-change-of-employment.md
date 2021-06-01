@@ -8,6 +8,8 @@ Leavers should read the HR guidance at [End or change employment](/guidance/hr/e
 
 Managers must also [complete a leaver's checklist](/documents/2015/04/leavers-checklist-for-managers.docx) as a record of actions.
 
+**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+
 <a id="downloads"></a>
 ##Downloads
 

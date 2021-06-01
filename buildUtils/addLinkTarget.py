@@ -26,8 +26,14 @@ for line in inFile:
         working = re.sub('\&', '', working)
         # Remove commas
         working = re.sub(',', '', working)
+        # Remove back-ticks
+        working = re.sub('\`', '', working)
+        # Remove single-quotes
+        working = re.sub('\'', '', working)
         # Convert spaces to dashes
         working = re.sub('\s', '-', working)
+        # Convert strokes to dashes
+        working = re.sub('\/', '-', working)
         # Convert multiple dashes to single dash
         working = re.sub('[-]+', '-', working)
         # Convert to lowercase

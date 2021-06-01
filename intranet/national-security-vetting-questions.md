@@ -4,6 +4,8 @@ The processes described in this document are under review as part of Ministry of
 
 A downloadable version of this document is available [here](./gs/national-security-vetting-questions.docx).
 
+**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+
 <a id="national-security-vetting"></a>
 ##National security vetting
 
@@ -162,7 +164,7 @@ We cannot give too much detail about the vetting process for security reasons; h
 
 SC/CTC takes a minimum of six weeks, and DV takes at least 18 weeks. If this time frame has passed, contact the NSVC who requested the clearance, they will contact SSCL for an update.
 
-<a id="why-can't-apple-products-be-used-to-submit-the-security-questionnaire"></a>
+<a id="why-cant-apple-products-be-used-to-submit-the-security-questionnaire"></a>
 ###Why can't Apple products be used to submit the security questionnaire?
 
 NSVS is run by UKSV and there are very strict controls in place to make certain that the information you provide is secure. Apple products work in a different way and UKSV can't be assured, by Apple, that their platform is secure.

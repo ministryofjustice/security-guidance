@@ -10,7 +10,7 @@ The simplest way is to use a [Password Manager](https://en.wikipedia.org/wiki/Pa
 
 This article provides guidance on using password managers within the MoJ.
 
-<a id="what-is-a-password-manager/vault"></a>
+<a id="what-is-a-password-manager-vault"></a>
 ##What is a password manager/vault?
 
 A password manager stores sensitive information in an encrypted form. Password managers are sometimes called password vaults.

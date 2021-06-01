@@ -2,7 +2,7 @@
 
 Any Ministry of Justice (MoJ) systems or removable storage media used for work purposes must be encrypted to MoJ security standards. Security encryption is a mandatory government measure, and one of the most important methods we have to protect MoJ information.
 
-<a id="what-is-'removable'-media"></a>
+<a id="what-is-removable-media"></a>
 ##What is 'removable' media?
 
 Laptops and [USB memory sticks](#usb-memory-sticks) are the MoJ's most commonly used items of removable media. Removable storage media covers items available to users, such as USB memory sticks, writeable CDs/DVDs, floppy discs, and external hard drives.
@@ -35,7 +35,7 @@ If you need further assistance or information about this process, [ask](#contact
 
 All equipment provided through the MoJ's recognised central procurement systems are encrypted and protected to MoJ security standards. You must use MoJ processes to obtain any equipment used for business purposes, including mobile computing devices and removable media.
 
-<a id="what's-expected-of-you"></a>
+<a id="whats-expected-of-you"></a>
 ##What's expected of you
 
 Keeping MoJ information safe is everyone's responsibility. Anyone using portable computing equipment must take particular care to safeguard the equipment and the information stored on it. Failure to do so may result in disciplinary procedures.

@@ -64,11 +64,13 @@ if an audience attribute is present, then only matching content is included.
 	</topichead>
 	<topichead>
 		<topicmeta><navtitle>Personnel security clearances</navtitle></topicmeta>
-		<topicref href="end-or-change-of-employment.dita" type="topic"/>
-		<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
-		<topicref href="national-security-vetting-questions.dita" type="topic"/>
-		<!-- The security vetting assessment need webpage is not required, only the download document. -->
-		<topicref href="security-vetting-assessment-need.dita" type="topic" processing-role="resource-only"/>
+		<topicref href="personnel-security-clearances.dita" type="topic">
+			<topicref href="end-or-change-of-employment.dita" type="topic"/>
+			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
+			<topicref href="national-security-vetting-questions.dita" type="topic"/>
+			<!-- The security vetting assessment need webpage is not required, only the download document. -->
+			<topicref href="security-vetting-assessment-need.dita" type="topic" processing-role="resource-only"/>
+		</topicref>
 	</topichead>
 	<topichead>
 		<topicmeta><navtitle>User access</navtitle></topicmeta>
