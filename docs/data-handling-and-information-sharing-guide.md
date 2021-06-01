@@ -30,23 +30,7 @@ This guide is split into three sections:
 -   [Information sharing](#information-sharing).
 -   [Reporting data loss](#reporting-data-loss).
 
-A [Data Movement Form](#data-movement-form-dmf) must be completed for the following scenarios:
-
--   Data is being moved or shared by transferring a physical device, for example using a storage array, USB drive, or other removable media.
--   Data is being moved or shared by electronic \(network\) communication, where the movement is from an MoJ IT system to an external party.
-
-A [Data Movement Form](#data-movement-form-dmf) is not required for the following scenarios:
-
--   Data is being moved or shared by electronic \(network\) communication, where the movement is entirely within or between MoJ IT systems.
--   Data is being moved in full compliance with the already-approved service design and operation specification and procedures.
-
-In any case of doubt, it is always advisable to complete a [Data Movement Form](#data-movement-form-dmf). Further details on the form can be found [here](#data-movement-form-dmf).
-
 **Note:** This document provides guidance for handling and sharing of information and data up to and including `OFFICIAL` and `OFFICIAL-SENSITIVE`, or the older Impact Level \(IL\) 3. Where information attracts a high protective marking or IL, advice must be sought from the MoJ Operation Security Team \(OST\) and MoJ IT Security Officer \(ITSO\).
-
-### Demonstration of Compliance
-
-The [CESG Information Assurance Maturity Model \(IAMM\)](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) sets out the minimum maturity level Government departments should attain. Safeguarding data is captured as a basic requirement in Level 1 and the MoJ will need to demonstrate compliance against this requirement.
 
 ## Handling data on MoJ IT systems
 
@@ -56,6 +40,10 @@ This section covers how data must be handled on MoJ IT systems, this includes bo
 -   Data at rest.
 
 For the purposes of this guide, the term 'sensitive' data or information refers to data or information which attracts a handling caveat of `SENSITIVE`. See the [Information Classification and Handling Policy](information-classification-and-handling-policy.md) for further details.
+
+### Demonstration of Compliance
+
+The [CESG Information Assurance Maturity Model \(IAMM\)](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) sets out the minimum maturity level Government departments should attain. Safeguarding data is captured as a basic requirement in Level 1 and the MoJ will need to demonstrate compliance against this requirement.
 
 ### Ownership of information
 
@@ -155,7 +143,7 @@ Where information is transferred between MoJ IT systems or domains, additional c
 
 Information transferred between two MoJ IT systems requires a completed and authorised [Data Movement Form](#data-movement-form-dmf) using one of the [data in transit](#data-in-transit) options.
 
-#### Information sharing with other HMG department
+#### Information sharing with another HMG department
 
 Information shared with another government department must be transferred to an assured system. This means the system must be assured to the same level as the data being transferred. The transfer must take place using one of the [data in transit](#data-in-transit) options. The preference is for information to be transferred using a secure network. However, for low frequency bulk transfers of data, MoJ approved removable media might be more suitable. A completed and authorised [Data Movement Form](#data-movement-form-dmf) is required.
 
@@ -190,6 +178,20 @@ Where there is a business requirement to share information classified higher tha
 The purpose of the DMF is to ensure that the movement of information assets is secure, and in compliance with the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 
 Failure to fulfil or comply with the controls and measures identified within the DMF will lead to unnecessary risk or exposure for the MoJ or the relevant Information Asset Owner \(IAO\) or Senior Information Risk Owner \(SIRO\).
+
+A DMF shall be completed, and approval received from the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk), for the following scenarios:
+
+-   Data is being moved or shared by transferring a physical device, for example using a storage array, USB drive, or other removable media.
+-   Data is being moved or shared by electronic \(network\) communication, where the movement is from an MoJ IT system to an external party.
+
+A DMF shall be submitted to the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) for information purposes, in the following scenarios:
+
+-   Data is being moved or shared by electronic \(network\) communication, where the movement is entirely within or between MoJ IT systems.
+-   Data is being moved in full compliance with the already-approved service design and operation specification and procedures.
+
+**Note:** In the informational scenarios, a DMF is only expected the first time a data movement or sharing takes place. Subsequent, repeat instances of the movement or sharing, do not require a re-submission of the DMF. For example, when setting up a backup process as part of an approved service design, a DMF is created and submitted to the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) for information purposes, but does not need to be re-created or re-submitted for each backup occurrence. If the implementation or process for the data movement or sharing changes, for example a new new backup technology or process is deployed, then a fresh informational DMF is required.
+
+In any case of doubt, it is always advisable to complete a DMF and await approval or other feedback from the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk).
 
 ## Using SecureZIP
 

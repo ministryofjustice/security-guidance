@@ -65,30 +65,6 @@
           <li><xref href="#reporting-data-loss"
             format="dita">Reporting data loss</xref>.</li>
         </ul></p>
-        <p>A <xref href="#data-movement-form-dmf" format="dita">Data Movement
-          Form</xref> must be completed for the following scenarios:
-          <ul>
-            <li>Data is being moved or shared by transferring a physical device,
-            for example using a storage array, USB drive, or other removable media.</li>
-            <li>Data is being moved or shared by electronic (network) communication,
-              where the movement is from an <ph conref="conrefs.dita#conrefs/moj"/>
-              IT system to an external party.</li>
-          </ul></p>
-          <p>A <xref href="#data-movement-form-dmf" format="dita">Data Movement
-            Form</xref> is not required for the following scenarios:
-            <ul>
-              <li>Data is being moved or shared by electronic (network) communication,
-                where the movement is entirely within or between
-                <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</li>
-              <li>Data is being moved in full compliance with the already-approved
-                service design and operation specification and procedures.</li>
-            </ul></p>
-        <p>In any case of doubt,
-          it is always advisable to complete a
-          <xref href="#data-movement-form-dmf" format="dita">Data Movement
-          Form</xref>.
-          Further details on the form can be found <xref href="#data-movement-form-dmf"
-          format="dita">here</xref>.</p>
         <note>This document provides guidance for handling and sharing of
           information and data up to and including <codeph>OFFICIAL</codeph> and
           <codeph>OFFICIAL-SENSITIVE</codeph>, or the older Impact Level (IL) 3.
@@ -96,18 +72,6 @@
           advice must be sought from the <ph conref="conrefs.dita#conrefs/moj"/>
           Operation Security Team (OST) and <ph conref="conrefs.dita#conrefs/moj"/>
           IT Security Officer (ITSO).</note>
-      </body>
-    </topic>
-    <topic id="demonstration-of-compliance">
-      <title>Demonstration of Compliance</title>
-      <body>
-        <p>The <xref href="https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40"
-          format="html" scope="external">CESG Information Assurance Maturity Model
-          (IAMM)</xref> sets out the minimum maturity level Government departments
-          should attain.
-          Safeguarding data is captured as a basic requirement in Level 1 and the
-          <ph conref="conrefs.dita#conrefs/moj"/> will need to demonstrate
-          compliance against this requirement.</p>
       </body>
     </topic>
   </topic>
@@ -127,6 +91,18 @@
         format="dita">Information Classification and Handling Policy</xref> for
         further details.</p>
     </body>
+    <topic id="demonstration-of-compliance">
+      <title>Demonstration of Compliance</title>
+      <body>
+        <p>The <xref href="https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40"
+          format="html" scope="external">CESG Information Assurance Maturity Model
+          (IAMM)</xref> sets out the minimum maturity level Government departments
+          should attain.
+          Safeguarding data is captured as a basic requirement in Level 1 and the
+          <ph conref="conrefs.dita#conrefs/moj"/> will need to demonstrate
+          compliance against this requirement.</p>
+      </body>
+    </topic>
     <topic id="ownership-of-information">
       <title>Ownership of information</title>
       <body>
@@ -353,8 +329,8 @@
               options.</p>
         </body>
       </topic>
-      <topic id="information-sharing-with-other-hmg-department">
-        <title>Information sharing with other HMG department</title>
+      <topic id="information-sharing-with-another-hmg-department">
+        <title>Information sharing with another HMG department</title>
         <body>
           <p>Information shared with another government department must be
             transferred to an assured system.
@@ -460,6 +436,45 @@
         within the DMF will lead to unnecessary risk or exposure for the
         <ph conref="conrefs.dita#conrefs/moj"/> or the relevant Information Asset
         Owner (IAO) or Senior Information Risk Owner (SIRO).</p>
+      <p>A DMF shall be completed,
+        and approval received from the <ph conref="conrefs.dita#conrefs/ostemailtext"/>,
+        for the following scenarios:
+        <ul>
+          <li>Data is being moved or shared by transferring a physical device,
+          for example using a storage array, USB drive, or other removable media.</li>
+          <li>Data is being moved or shared by electronic (network) communication,
+            where the movement is from an <ph conref="conrefs.dita#conrefs/moj"/>
+            IT system to an external party.</li>
+        </ul></p>
+        <p>A DMF shall be submitted to the <ph conref="conrefs.dita#conrefs/ostemailtext"/>
+        for information purposes,
+        in the following scenarios:
+          <ul>
+            <li>Data is being moved or shared by electronic (network) communication,
+              where the movement is entirely within or between
+              <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</li>
+            <li>Data is being moved in full compliance with the already-approved
+              service design and operation specification and procedures.</li>
+          </ul>
+        <note>In the informational scenarios,
+        a DMF is only expected the first time a data movement or sharing takes
+        place.
+        Subsequent,
+        repeat instances of the movement or sharing,
+        do not require a re-submission of the DMF.
+        For example,
+        when setting up a backup process as part of an approved service design,
+        a DMF is created and submitted to the <ph conref="conrefs.dita#conrefs/ostemailtext"/>
+        for information purposes,
+        but does not need to be re-created or re-submitted for each backup occurrence.
+        If the implementation or process for the data movement or sharing changes,
+        for example a new new backup technology or process is deployed,
+        then a fresh informational DMF is required.</note>
+      </p>
+      <p>In any case of doubt,
+        it is always advisable to complete a DMF
+        and await approval or other feedback from the
+        <ph conref="conrefs.dita#conrefs/ostemailtext"/>.</p>
     </body>
   </topic>
   <topic id="using-securezip">
