@@ -54,7 +54,7 @@ Three scenarios are given here:
 
 If NSV is required for a position, candidates **SHOULD NOT** start until their NSV is confirmed.
 
-In exceptional circumstances, a policy dispensation request can be made (via [security@justice.gov.uk](mailto:security@justice.gov.uk)) to MoJ Group Security, who will provide a request form and then give a recommendation on whether to grant or refuse the request. Any risk mitigation measures deemed to be required (such as plans to segregate the candidate from data that they don't have clearance to see) will also be provided for the Senior Security Advisor and the business unit to sign-up to.
+In exceptional circumstances, a policy dispensation request can be made to [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk), who will provide a request form and then give a recommendation on whether to grant or refuse the request. Any risk mitigation measures deemed to be required (such as plans to segregate the candidate from data that they don't have clearance to see) will also be provided for the Senior Security Advisor and the business unit to sign-up to.
 
 As a minimum requirement, a candidate **SHALL** have submitted their Security Questionnaire on the NSVS portal. This does not extend to Contractors and Agency staff, who **SHALL** have their NSV in place before they start. If you do not know who your National Security Vetting Contact (NSVC) is you can search [here](/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
@@ -160,7 +160,7 @@ We cannot give too much detail about the vetting process for security reasons; h
 <a id="how-do-i-check-the-progress-of-an-application"></a>
 ###How do I check the progress of an application?
 
-SC/CTC takes a minimum of six weeks, the average is nine weeks and DV takes at least 18 weeks. If this time frame has passed, contact the NSVC who requested the clearance, they will contact SSCL for an update.
+SC/CTC takes a minimum of six weeks, and DV takes at least 18 weeks. If this time frame has passed, contact the NSVC who requested the clearance, they will contact SSCL for an update.
 
 <a id="why-can't-apple-products-be-used-to-submit-the-security-questionnaire"></a>
 ###Why can't Apple products be used to submit the security questionnaire?
@@ -200,4 +200,3 @@ For any further questions relating to security, contact: [security@justice.gov.u
 ##Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
-
