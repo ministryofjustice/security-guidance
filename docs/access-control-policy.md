@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This policy gives an overview of access control security principles and responsibilities within the Ministry of Justice \(MoJ\). It provides a summary of the MoJ's related access management policies and guides.
+This policy gives an overview of access control security principles and responsibilities within the Ministry of Justice \(MoJ\). It provides a summary of the policies and guides that apply to MoJ access management.
 
 To help identify formal policy statements, each is prefixed with an identifier of the form: `POLACPxxx`, where xxx is a unique ID number.
 
@@ -94,9 +94,9 @@ This subsection aligns to the principle of least access, to protect a network an
 `POLACP010:` Where required by the access control policy, access to systems and applications **SHALL** be controlled by a secure log-on procedure, including the following points:
 
 -   `POLACP011:` Multi-user \(MU\) accounts **SHALL** be managed carefully using PAM or a Bastion server, to avoid accountability type security risks. See the [Multi-user Accounts and Public-Facing Service Accounts](multi-user-accounts-and-public-facing-service-accounts-guide.md) guidance.
--   `POLACP012:` Front-end users accessing the MoJ's public services **SHALL** authenticate via the GOV.UK Verify Service. See the [User Facing Services](passwords.md#user-facing-services) guidance.
+-   `POLACP012:` Front-end users accessing the MoJ's public services **SHALL** authenticate via the GOV.UK Verify Service. See the [User Facing Services](passwords.md) guidance.
 -   `POLACP013:` System Designers for internal systems **SHALL** use the MoJ's single sign-on \(SSO\) solution to authenticate via an Identity and Access system.
--   `POLACP014:` Passwords **SHALL NOT** be stored or transmitted over the network in clear text, nor be protected with encryption that has known security weaknesses. See the [Password Management Guide](password-management-guide.md#software-developers-technical-architects-and-development-operations).
+-   `POLACP014:` Passwords **SHALL NOT** be stored or transmitted over the network in clear text, nor be protected with encryption that has known security weaknesses. See the [Password Management Guide](password-management-guide.md).
 
 ### Password Management System
 
@@ -107,11 +107,11 @@ This subsection aligns to the principle of least access, to protect a network an
 
     `POLACP018:` The system **SHALL** regularly monitor, review, and revoke these sessions when no longer required.
 
--   `POLACP019:` Strong passwords, separate and unique for each account or service, **SHALL** be created and maintained by all users. See the [Password Management Guide, Roles and Responsibilities section](password-management-guide.md#roles-and-responsibilities), [Passwords](passwords.md#best-practices-for-everyone) and [CyberAware advice](https://www.ncsc.gov.uk/cyberaware/home#action-2).
--   `POLACP020:` Users **SHALL** change a password initially received by a system or support team before carrying out MoJ tasks. See [Passwords](passwords.md#best-practices-for-everyone).
--   `POLACP021:` Password history and blocking of commonly guessed passwords **SHALL** be enabled in a system. See the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md#password-history-and-block-listing).
+-   `POLACP019:` Strong passwords, separate and unique for each account or service, **SHALL** be created and maintained by all users. See the [Password Management Guide, Roles and Responsibilities section](password-management-guide.md), [Passwords](passwords.md) and [CyberAware advice](https://www.ncsc.gov.uk/cyberaware/home#action-2).
+-   `POLACP020:` Users **SHALL** change a password initially received by a system or support team before carrying out MoJ tasks. See [Passwords](passwords.md).
+-   `POLACP021:` Password history and blocking of commonly guessed passwords **SHALL** be enabled in a system. See the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md).
 -   Regular password change is not required, as it is an [outdated and ineffective practice](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date).
--   `POLACP022:` Password managers or vaults used at the MoJ **SHALL** align to industry standards to securely store and transmit passwords in a protected form. See [Password Managers](password-managers.md) and [Password Vaults and Managers](password-storage-and-management-guide.md#password-vaults-and-managers).
+-   `POLACP022:` Password managers or vaults used at the MoJ **SHALL** align to industry standards to securely store and transmit passwords in a protected form. See [Password Managers](password-managers.md) and [Password Vaults and Managers](password-storage-and-management-guide.md).
 
 **Note:** Contact the [Cyber Assistance Team](#contact-details) if you have specialised needs when selecting or using a storage tool.
 
@@ -179,7 +179,7 @@ For further information on user de-registration, see the [MoJ Enterprise Access 
 
 `POLACP051:` The allocation of secret authentication information, such as passwords or encryption keys, **SHALL** be controlled through formal management:
 
--   `POLACP052:` User password management **SHALL** be configured, so a password is changed after the initial log-on and invalid if not used in a specified time. See the [Passwords](passwords.md#single-use-passwords) guidance.
+-   `POLACP052:` User password management **SHALL** be configured, so a password is changed after the initial log-on and invalid if not used in a specified time. See the [Passwords](passwords.md) guidance.
 -   `POLACP053:` System Administrators and systems **SHALL** never send passwords by email, as it is an unsecured channel.
 
     `POLACP054:` Instead, users **SHALL** receive a time-limited password-reset link or code to their registered email address or phone number. See the Government guidance “[Send a link to trigger password resets](https://design-system.service.gov.uk/patterns/passwords/)”.
