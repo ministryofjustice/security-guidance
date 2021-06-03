@@ -33,21 +33,14 @@ Need link to relevant policy document <FIXME>
 
 Anyone handling personal or sensitive data must seek consent from their line manager to authorise data transfer.
 
-Data (sensitive or not) should only be transferred where it is strictly necessary for the effective running of the MoJ and the care of the people it serves. Accordingly, before any data transfers are requested, the necessity of the transfer should be considered in advance.
+Before any data transfers are requested, consider the following:
 
-When dealing with third parties consider whether any data sharing agreements or contracts are in place that cover the transfer of that data. Check whether there are any stipulations in place regarding the method of transfer that should be used.
-
-If personal data is being transferred to a third party then the privacy team must be informed to see if a Data Protection Impact Assessment is required.
-
-## Requirements
-
-Before choosing the method of transfer you must consider the following:
-
+- Is it strictly necessary for the effective running of the MoJ and the care of the people it serves that the data (sensitive or not) is transferred  
 - The nature of the information, its sensitivity, confidentiality or possible value
 - The size of the data being transferred
 - The damage or distress that may be caused to individuals as a result of any loss during transfer
 - The implications any loss would have for the MoJ
-- Do not provide more information than is necessary for the identified purpose. For example, do not just send a whole document or spreadsheet when only one section or specific columns are required
+- Precisely what information is necessary for the identified purpose? For example, do not just send a whole document or spreadsheet when only one section or specific columns are required
 - For all transfers of information containing personal or sensitive data, it is essential that you appropriately establish the identity and authorisation of the recipient.
 
 Any technique used must:
@@ -55,9 +48,13 @@ Any technique used must:
 - encrypt the data over the network (in transit) using the appropriate encryption (TLS 1.2 or greater)
 - require strong authentication to ensure both the sender and recipient are who they claim to be.
 
-This also applies when transmitting any data over a wireless communication network (eg Wi-Fi), or when the data will pass through an untrusted network.
+This especially applies when transmitting any data over a wireless communication network (eg Wi-Fi), or when the data will pass through an untrusted network.
 
-If the MoJ is the controller of the data being transferred, the security storage requirements at the destination must be considered to adhere to the relevant regulation, such as PCI DSS or GDPR.
+If the MoJ is the controller of the data being transferred, the security storage requirements at the destination must be considered to ensure it adheres to the relevant regulation, such as PCI DSS or GDPR.
+
+When dealing with third parties consider whether any data sharing agreements or contracts are in place that cover the transfer of that data. Check whether there are any stipulations in place regarding the method of transfer that should be used.
+
+If personal data is being transferred to a third party then the privacy team must be informed to see if a Data Protection Impact Assessment is required.
 
 ## Data Transfer
 
@@ -137,3 +134,4 @@ Data controllers should recognise that even if a system uses encrypted data tran
 
 - Contact the Technology Service Desk to report a suspected IT incident: Telephone: 0800 917 5148.
 - Contact the MoJ Security Team for further advice and to report other security incidents: [Security@justice.gov.uk](mailto:Security@justice.gov.uk)
+- Contact the Privacy Team for information on Data Protection Impact Assessments: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)

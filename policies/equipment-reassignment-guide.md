@@ -24,9 +24,7 @@ This policy is aimed at:
 
 ## Returning Equipment
 
-When a project completes, or a colleague leaves or moves to a new role, equipment no longer required must be returned.  The line manager (LM) needs to put in the Service Catalogue request to return the item.
-
-Whether in the office or the system is in a remote location, the LM needs to submit the request. This equipment might then become available for use by other employees. In many cases, it might not be cost-effective to consider reusing or reassigning this equipment as:
+When a project completes, or a colleague leaves or moves to a new role, equipment no longer required must be returned.  The line manager (LM) needs to put in the Service Catalogue request to return the item.  This equipment might then become available for use by other employees. In many cases, it might not be cost-effective to consider reusing or reassigning this equipment as:
 
  - older technology may have been heavily used
  - it is more likely to have operating problems and failures
@@ -35,7 +33,7 @@ Whether in the office or the system is in a remote location, the LM needs to sub
 
 As a result, depending on the expected use of the reassigned device, it may be preferable that a new machine is used rather than repurposing the reassigned device.
 
-The equipment should be reviewed to ensure that sensitive data will not be lost by erasing the contents of the device.  Any sensitive data identified should be copied and relocated to a secure location before the device is made ready for reuse or destroyed.  
+The LM is responsible for ensuring that the equipment is reviewed to ensure that sensitive data will not be lost by erasing the contents of the device.  Any sensitive data identified should be copied and relocated to a secure location, such as MoJ Teams or directly to Sharepoint, before the device is made ready for reuse or destroyed.  
 
 Any IT equipment which is no longer needed or has reached its “end of life” must have its data securely deleted and confirmed to be unreadable and unrecoverable before destruction, redistribution or reuse within the organisation, see below.
 
@@ -51,13 +49,13 @@ The reassignment must be recorded by the LM in the appropriate asset register.
 
 ## Equipment that cannot be reused
 
-In the event that IT assets are no longer needed by the MoJ and cannot be securely wiped, the equipment may need to be physically destroyed.  More information can be found at [https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-ict-equipment/](https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-ict-equipment/)
+In the event that IT assets are no longer needed by the MoJ and cannot be securely wiped, the equipment may need to be physically destroyed.  More information can be found at [Secure disposal of IT equipment](https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-it-equipment/)
 
 Redundant IT equipment should not be donated to charities, schools, etc.
 
 ## Leased equipment
 
-Managers should ensure that any equipment that is leased has a data destruction clause written into the contract. Under such an arrangement, the supplier will ensure that data is wiped when it is returned.
+Managers should ensure that any equipment that is leased has a data destruction clause written into the contract. Under such an arrangement, the supplier will ensure that data is wiped when it is returned.  For an example of a data destruction clause, see section 11 of the [Modern Security Clause for formal MoJ promises (Contracts)](https://docs.google.com/document/d/1EOTFobaoN_GaXrRBdF-HbN5DVSvRh29APPbzAadssoQ/edit#heading=h.e9v4unsig6qa) FIXME - Tom this may not be visible to the whole of MoJ.
 
 ## Contact details
 
