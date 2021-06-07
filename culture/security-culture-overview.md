@@ -11,7 +11,7 @@ Everyone who works for us, whether an employee, contractor or supplier, has a ro
 
 Major components of Our Security Culture are:
 
-- A Security Culture Programme
-- Security Champions
+- [A Security Culture Programme](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-culture-programme.md)
+- [Security Champions](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-champions.md)
 - Periodic Events
 - Resources to share (Leaflets, posters, quizzes, worksheets, team briefs)
