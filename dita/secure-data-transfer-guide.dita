@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="secure-data-transfer-guide">
+  <title>Secure Data Transfer Guide</title>
+  <body/>
+  <topic id="introduction">
+    <title>Introduction</title>
+    <body>
+      <p>This guide outlines the security procedures and advice for
+        <ph conref="conrefs.dita#conrefs/mojlong"/> staff wanting to send or
+        receive data securely from external sources.</p>
+      <p>This is important to the <ph conref="conrefs.dita#conrefs/moj"/>,
+      because personal and sensitive data is regularly transmitted between
+      departments.
+      Legislation such as GDPR,
+      and industry standards such as PCI DSS,
+      affect the <ph conref="conrefs.dita#conrefs/moj"/>'s responsibility to
+      secure this data.
+      It is also important to recognise the damage that leaked sensitive data
+      could cause to the vulnerable people the
+      <ph conref="conrefs.dita#conrefs/moj"/> works to protect.</p>
+    </body>
+  </topic>
+  <topic id="who-is-this-for">
+    <title>Who is this for?</title>
+    <body>
+      <p>This policy is aimed at three audiences:
+      <ol>
+        <li><b>Technical users</b>: these are in-house
+        <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology staff who
+        are responsible for implementing controls during technical design,
+        development,
+        system integration,
+        and operation.
+        This includes DevOps,
+        Software Developers,
+        Technical Architects,
+        and Service Owners.
+        It also includes Incident Managers from the Event,
+        Problem,
+        Incident,
+        CSI,
+        and Knowledge (EPICK) Team.</li>
+        <li><b>Service Providers</b>: defined as any other
+        <ph conref="conrefs.dita#conrefs/moj"/> business group,
+        agency,
+        contractor,
+        IT supplier,
+        or partner who in any way designs,
+        develops,
+        or supplies services (including processing,
+        transmitting,
+        storing data) for,
+        or on behalf of,
+        the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+        <li><b>General users</b>: all other staff working for the
+        <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+      </ol></p>
+      <p>The phrase <q>all <ph conref="conrefs.dita#conrefs/moj"/> users</q>
+      refers to General users,
+      Technical users,
+      and Service Providers as defined previously.</p>
+    </body>
+  </topic>
+      <topic id="transfer-considerations">
+        <title>Transfer Considerations</title>
+        <body>
+          <p>Anyone handling personal or sensitive data must seek consent from
+            their line manager to authorise data transfer.</p>
+          <p>Before any data transfers are requested, consider the following:
+          <ul>
+            <li>Is it strictly necessary for the effective running of the
+              <ph conref="conrefs.dita#conrefs/moj"/>,
+              and the care of the people it serves,
+              that the data (regardless of whether the data is sensitive or not)
+              is transferred?</li>
+            <li>What is the nature of the information,
+              its sensitivity,
+              confidentiality,
+              or possible value?</li>
+            <li>What is the size of the data being transferred?</li>
+            <li>What damage or distress might be caused to individuals as a
+              result of any loss or unmanaged sharing during transfer?</li>
+            <li>What implications would any loss or unmanaged sharing have for
+              the <ph conref="conrefs.dita#conrefs/moj"/>?</li>
+            <li>What information is actually necessary for the identified
+              purpose?
+              For example,
+              is the intention to send an entire document or spreadsheet,
+              when only one section,
+              or specific spreadsheet columns,
+              are required?</li>
+            <li>Has the identity and authorisation of the information recipient
+              been established?</li>
+          </ul></p>
+          <p>Any transfer technique used <ph conref="conrefs.dita#conrefs/policymust"/>:
+          <ul>
+            <li>Encrypt the data over the network (in transit),
+              using sufficient and appropriate encryption (currently TLS 1.2 or
+              greater).</li>
+            <li>Require strong authentication to ensure that both the sender and
+              recipient are who they claim to be.</li>
+          </ul></p>
+          <p>These conisderations apply when transmitting any data over a
+            wireless communication network (eg Wi-Fi),
+            or when the data will or might pass through an untrusted network.</p>
+          <p>If the <ph conref="conrefs.dita#conrefs/moj"/> is the controller of
+          the data being transferred,
+          the security storage requirements at the destination
+          <ph conref="conrefs.dita#conrefs/policymust"/> be considered to ensure
+          that they comply fully with the relevant regulation,
+          such as PCI DSS or GDPR.</p>
+          <p>When dealing with third parties,
+            consider whether any data sharing agreements or contracts are in
+            place that apply to the transfer of that data.
+            Check whether there are any stipulations in place regarding the
+            method of transfer that can or should be used.</p>
+          <p>If personal data is being transferred to a third party,
+            then the privacy team <ph conref="conrefs.dita#conrefs/policymust"/>
+            be informed,
+            to decide if a Data Protection Impact Assessment is required.</p>
+        </body>
+      </topic>
+      <topic id="data-transfer">
+        <title>Data Transfer</title>
+        <body>
+          <p>Normally,
+            files <ph conref="conrefs.dita#conrefs/policyshouldnot"/> be
+            transferred by email.
+            Normally,
+            files <ph conref="conrefs.dita#conrefs/policyshould"/> be
+            transferred by secure network links using appropriate protocols such
+            as <codeph>https</codeph>,
+            <codeph>ssh</codeph>,
+            or <codeph>sftp</codeph>.
+            For large files,
+            such as those over 5MB,
+            transfer using a secure protocol is a practical necessity,
+            as many recipients will not accept emails with attachments greater
+            than 5MB.</p>
+        </body>
+        <topic id="data-transfer-by-secure-link">
+          <title>Data Transfer by Secure link</title>
+          <body>
+            <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s preferred method of
+            data sharing is to use Microsoft Teams via Sharepoint.
+            Teams has been authorised to hold <codeph>OFFICIAL-SENSITIVE</codeph>
+            information.
+            It is configured to provide greater granular protection through tools
+            such as Azure Information Protection (AIP).
+            Where possible,
+            data <ph conref="conrefs.dita#conrefs/policyshould"/> be transferred
+            using Teams.</p>
+            <p>Due to the diverse nature of the <ph conref="conrefs.dita#conrefs/moj"/>'s
+            architecture,
+            using Teams might not always be possible.
+            Those in the <ph conref="conrefs.dita#conrefs/moj"/> Digital and
+            Technology team who do not have access to Microsoft Teams
+            <ph conref="conrefs.dita#conrefs/policymay"/> use
+            <ph conref="conrefs.dita#conrefs/gsuite"/> to transfer data.</p>
+            <p>For more details on the actual process for a transfer,
+              contact the <ph conref="conrefs.dita#conrefs/catemailtext"/>.</p>
+          </body>
+        </topic>
+        <topic id="data-transfer-by-email">
+          <title>Data Transfer by Email</title>
+          <body>
+            <p>Where it is not possible to use Microsoft Teams or
+              <ph conref="conrefs.dita#conrefs/gsuite"/>,
+              <b>AND</b> the data to be transferred is less than 20MB,
+              email <ph conref="conrefs.dita#conrefs/policycan"/> be used,
+              <b>BUT</b> the following requirements
+              <ph conref="conrefs.dita#conrefs/policymust"/> be met:
+            <ul>
+              <li>Email communication
+                <ph conref="conrefs.dita#conrefs/policyshouldnot"/> be used to
+                transfer unencrypted sensitive or personal data.
+                Employees <ph conref="conrefs.dita#conrefs/policyshould"/> note
+                that emails are not designed to attach and transfer large
+                amounts of data.
+                The <ph conref="conrefs.dita#conrefs/moj"/>'s email system does
+                not support file attachments that exceed a total of 20MB.</li>
+              <li>You <ph conref="conrefs.dita#conrefs/policyshould"/> consider
+              an alternative secure method of transferring sensitive data
+              wherever possible and practicable.
+              If no suitable alternative is available,
+              then apply an extra level of security.
+              Do this by using encryption to apply a strong password to the
+              sensitive data you wish to send.
+              <ph id="alternative-channel">All passwords
+                <ph conref="conrefs.dita#conrefs/policymust"/> be
+              transferred using an alternative method of communication to get to
+              the recipient.
+              Examples includes post,
+              a telephone call to an agreed number,
+              or by SMS text message.</ph></li>
+              <li>Email messages <ph conref="conrefs.dita#conrefs/policymust"/>
+              contain clear instructions of the recipient's responsibilities,
+              and instructions on what to do if they are not the correct
+              recipient.</li>
+              <li>Information sent <ph conref="conrefs.dita#conrefs/policymust"/>,
+              where practical,
+              be enclosed in an encrypted attachment.</li>
+              <li>Care <ph conref="conrefs.dita#conrefs/policymust"/> be taken
+              as to what information is placed in the subject line of the email,
+              or in the accompanying message.
+              Filenames or subject lines
+              <ph conref="conrefs.dita#conrefs/policymustnot"/> reveal the
+              contents of attachments.
+              Filenames or subject lines
+              <ph conref="conrefs.dita#conrefs/policymustnot"/> disclose any
+              sensitive personal data.</li>
+              <li>Emails <ph conref="conrefs.dita#conrefs/policymust"/> only be
+              sent from your work email address,
+              as provided by the <ph conref="conrefs.dita#conrefs/moj"/>.
+              This is to ensure that the correct privacy and security
+              information is displayed.</li>
+            </ul></p>
+          </body>
+        </topic>
+        <topic id="cjsm-email">
+          <title>CJSM Email</title>
+          <body>
+            <ul>
+              <li>The Criminal Justice Secure eMail Service (CJSM) is provided
+                for criminal justice agencies and practitioners to communicate
+                with each other.</li>
+              <li>As a general rule,
+                it <ph conref="conrefs.dita#conrefs/policymust"/> only be used
+                for purposes relating to the criminal justice service.</li>
+            </ul>
+          </body>
+        </topic>
+        <topic id="microsoft-365-encrypted-email">
+          <title>Microsoft 365 Encrypted email</title>
+          <body>
+            <ul>
+              <li>This facility is available for standard individual and generic
+                <ph conref="conrefs.dita#conrefs/moj"/> email accounts</li>
+              <li>This method <ph conref="conrefs.dita#conrefs/policycan"/> be
+              used to send or receive files classified as
+              <codeph>OFFICIAL</codeph>.
+              It is normally used with external partners,
+              agencies,
+              or individuals who cannot be contacted using CJSM email.</li>
+              <li>The attached files on a single email
+                <ph conref="conrefs.dita#conrefs/policycannot"/> exceed 25MB.</li>
+            </ul>
+          </body>
+        </topic>
+      </topic>
+      <topic id="removable-storage-devices">
+        <title>Removable storage devices</title>
+        <body>
+          <p>The <ph conref="conrefs.dita#conrefs/moj"/> strongly discourages
+          the use of removable storage devices such as USB drives for data
+          transfer.
+          However,
+          if all other options are not possible,
+          then removable storage devices
+          <ph conref="conrefs.dita#conrefs/policymay"/> be used with caution.</p>
+          <p>Any data being transferred by removable media such as a USB memory
+            stick <ph conref="conrefs.dita#conrefs/policymust"/> be encrypted.
+            Encrypted portable storage devices
+            <ph conref="conrefs.dita#conrefs/policymust"/> be password protected
+            with a <ph audience="audience-supplier audience-tech"><xref
+            href="password-management-guide.dita" format="dita">strong
+            password</xref></ph><ph audience="audience-basic">strong
+            password</ph>.
+            <!-- FIXME -->
+            <ph conref="#alternative-channel"/></p>
+            <p>If you think you have no other option for copying or moving data,
+              and have to use removable media,
+              contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/>.</p>
+            <p>Ownership of any removable media used
+              <ph conref="conrefs.dita#conrefs/policymust"/> be established.
+              The removable media <ph conref="conrefs.dita#conrefs/policymust"/>
+              be returned to the owner on completion of the transfer.
+              The transferred data <ph conref="conrefs.dita#conrefs/policymust"/>
+              be securely erased from the storage device after transfer.</p>
+            <p>Clear instructions of the recipient's responsibilities,
+              and instructions on what to do if they are not the intended
+              recipient,
+              <ph conref="conrefs.dita#conrefs/policymust"/> accompany the
+              removable media.</p>
+            <p>Any accompanying message or filename
+              <ph conref="conrefs.dita#conrefs/policymustnot"/> reveal the
+              contents of the encrypted file.
+              The sender <ph conref="conrefs.dita#conrefs/policymust"/> check,
+              at an appropriate time,
+              that the transfer has been successful,
+              and obtain a receipt.
+              An email confirming receipt is acceptable.</p>
+            <p>Report any issues to your line manager and in the case of
+              missing or corrupt data to the
+              <ph conref="conrefs.dita#conrefs/ostemailtext"/> immediately.</p>
+        </body>
+        <topic id="data-transfers-by-post-or-courier">
+          <title>Data transfers by post or courier</title>
+          <body>
+            <p>Data transfers using physical media such as memory cards or USB
+              drives <ph conref="conrefs.dita#conrefs/policymust"/> only be
+              sent using secure post.
+              Royal Mail First or Second class
+              <ph conref="conrefs.dita#conrefs/policymustnot"/> be used.
+              Royal Mail Special Delivery or Recorded Delivery
+              <ph conref="conrefs.dita#conrefs/policycan"/> be used.
+              For non-Royal Mail services,
+              a secure courier service <ph conref="conrefs.dita#conrefs/policymust"/>
+              be used,
+              with a signature obtained upon delivery.
+              The recipient <ph conref="conrefs.dita#conrefs/policymust"/> be
+              clearly stated on the parcel.
+              The physical media <ph conref="conrefs.dita#conrefs/policymust"/>
+              be securely packaged so that it is not damaged in transit.</p>
+            <p>The recipient <ph conref="conrefs.dita#conrefs/policyshould"/> be
+            told in advance that the data is being sent,
+            so that they know when to expect the data.
+            The recipient <ph conref="conrefs.dita#conrefs/policymust"/> confirm
+            safe receipt as soon as the data arrives.
+            The sender responsible for sending the data is also responsible for
+            confirming the data has arrived safely.</p>
+          </body>
+        </topic>
+        <topic id="hand-delivery-and-collection">
+          <title>Hand Delivery and Collection</title>
+          <body>
+            <p>Hand delivery or collection of data
+              <ph conref="conrefs.dita#conrefs/policymay"/> be used where
+              removable media is used.
+              When arranging for an individual to collect information,
+              the identity of the individual <ph conref="conrefs.dita#conrefs/policymust"/>
+              be established,
+              to confirm who they claim to be.
+              An appropriate form of identification
+              <ph conref="conrefs.dita#conrefs/policymust"/>
+              be provided before handing over any documentation.</p>
+          </body>
+        </topic>
+      </topic>
+      <topic id="telephone-or-mobile-phone">
+        <title>Telephone or Mobile Phone</title>
+        <body>
+          <p>Phone calls might be monitored,
+            overheard,
+            or intercepted.
+            This might happen deliberately or accidentally.
+            Take care to protect calls,
+            as follows:
+          <ul>
+            <li>Transferred information <ph conref="conrefs.dita#conrefs/policymust"/>
+            be kept to a minimum.</li>
+            <li>Personal or Confidential information
+              <ph conref="conrefs.dita#conrefs/policymustnot"/> be transferred
+              over the telephone,
+              unless the identity and authorisation of the receiver has been
+              appropriately confirmed.</li>
+          </ul></p>
+        </body>
+      </topic>
+      <topic id="residual-risks-with-encrypted-data-transfer">
+        <title>Residual risks with encrypted data transfer</title>
+        <body>
+          <p>Data controllers <ph conref="conrefs.dita#conrefs/policyshould"/>
+          recognise that even if a system uses encrypted data transfer,
+          there are still occasions where data might be affected by
+          unauthorised access.
+          Be aware of these residual risks.
+          Include consideration of these risks in employee awareness training.
+          Examples include:
+          <ul>
+            <li>Some data relating to the communication might still be exposed
+              in an unencrypted form.
+            An example is metadata.</li>
+            <li>Data transfer processes that rely on public-key infrastructure
+              <ph conref="conrefs.dita#conrefs/policymust"/> implement strict
+              certificate checking to maintain trust in end-points.</li>
+          </ul></p>
+        </body>
+      </topic>
+      <!-- FIXME
+      <topic id="related-guides">
+        <title>Related guides</title>
+          <p>Need to insert link to Tee's file sharing document (MOJ Secure File Transfer Procedure v2.6.docx)
+    Need link to relevant policy document</p>
+  </topic>
+-->
+  <topic id="incidents-and-contact-details" conref="conrefs.dita#incidents-and-contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

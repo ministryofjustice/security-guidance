@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="spam-and-phishing-guide" specializations="">
+  <title>Spam and Phishing Guide</title>
+  <body/>
+  <topic id="introduction" specializations="">
+    <title>Introduction</title>
+    <body>
+      <p>This guide outlines the technical implementations you, as technical users, should make to keep MoJ systems secure. This guide is a sub-page to the <xref href="email-security-guide.md" format="dita" type="topic">Email Security Guide</xref>.</p>
+    </body>
+  </topic>
+  <topic id="common-email-threats" specializations="">
+    <title>Common email threats</title>
+    <body/>
+    <topic id="spam-and-phishing" specializations="">
+      <title>Spam and phishing</title>
+      <body>
+        <p>To protect against spam and phishing attacks, the MoJ will make use of government services such as The National Cyber Security Centre's <xref href="mailto:report@phishing.gov.uk" format="email" scope="external">Suspicious Email Reporting Service</xref> and any other services that are appropriate.</p>
+      </body>
+    </topic>
+    <topic id="spoofing-attacks" specializations="">
+      <title>Spoofing attacks</title>
+      <body>
+        <p>Spoofing attacks may be mitigated by:</p>
+        <ul>
+          <li>
+            <p>implementing SPF, DKIM and DMARC e.g. sender information <codeph>from</codeph>, <codeph>reply-to</codeph>, <codeph>return-path</codeph> and even <codeph>x-origin</codeph> can be spoofed (please refer to the <xref href="email-authentication-guide.md" format="dita" type="topic">Email Authentication Guide</xref> for further guidance)</p>
+          </li>
+          <li>
+            <p>using secure email gateways</p>
+          </li>
+          <li>
+            <p>implementing access controls, such as multi factor authentication (MFA) , to avoid an attacker gaining access to credentials for an email account where they could legitimately spoof the sender's email address.</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+  </topic>
+  <topic id="protecting-a-parked-domain" specializations="">
+    <title>Protecting a parked domain</title>
+    <body>
+      <p>DMARC must also be implemented on non-email sending domains as they can be easily be used for email spoofing and phishing.</p>
+      <ul>
+        <li>
+          <p>Once parked domains are protected, they must be configured to automatically renew by default.If you are a domain owner you should aim to do the following to protect a parked domain:</p>
+          <ol>
+            <li>
+              <p>Create a SPF record with no permitted senders so that no IP is authorised to send email for your parked domain.</p>
+            </li>
+            <li>
+              <p>Include a RUA address to which aggregate reports can be sent – these will provide you with visibility of potential abuse.</p>
+            </li>
+            <li>
+              <p>If you have an <codeph>A</codeph> record on your domain, but no <codeph>MX</codeph> records, you should create a null <codeph>MX</codeph> record to immediately fail any email to that domain.</p>
+            </li>
+          </ol>
+        </li>
+        <li>
+          <p>Create a record of type <codeph>MX</codeph>, with a priority of 0 (highest priority).</p>
+          <ol>
+            <li>
+              <p>A null DKIM record isn’t required, as email will be treated the same as if it had no record at all. However, recipients may treat a null DKIM record with extra caution, as it explicitly revokes any keys that may be cached.</p>
+            </li>
+          </ol>
+        </li>
+      </ul>
+      <p>Some interfaces may not allow you to implement all these steps but implement as many as possible.</p>
+    </body>
+    <topic id="compromised-email-systems" specializations="">
+      <title>Compromised email systems</title>
+      <body>
+        <p>Compromised email systems are often used to deliver spam messages and conduct phishing.  It is recommended that email systems are protected by multi-factor authentication where possible to mitigate this risk.</p>
+        <p>Such account takeovers should be reported as an incident in compliance with the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/" format="html" scope="external">IT Incident Management Guide</xref>.</p>
+      </body>
+    </topic>
+    <topic id="accidental-disclosure" specializations="">
+      <title>Accidental disclosure</title>
+      <body>
+        <p>Not all security threats are intentional. Authorised users may accidentally send proprietary information via e-mail to unintended recipients – where these incidents are reported incident managers should refer to the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/" format="html" scope="external">IT Incident Management Guide</xref> for further guidance.</p>
+      </body>
+    </topic>
+    <topic id="man-in-the-middle-mitm-attacks" specializations="">
+      <title>Man-in-the-Middle (MITM) attacks</title>
+      <body>
+        <p>MITM attacks can result in unauthorised access to email whilst in transit and are often used to gain access to sensitive information.</p>
+        <p>You can mitigate MITM attacks by:</p>
+        <ul>
+          <li>
+            <p>configuring Secure/Multipurpose Internet Mail Extensions to encrypt emails and provide unique digital certificates</p>
+          </li>
+          <li>
+            <p>implementing certificate based authentication for all end user machines and devices (e.g. printers with email services enabled)</p>
+          </li>
+          <li>
+            <p>using TLS certificates which activate HTTPS protocol to provide a secure connection between the MoJ and third parties on webmail portals</p>
+          </li>
+          <li>
+            <p>using SMTPS (encrypted by TLS) rather than unencrypted SMTP.</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+  </topic>
+  <topic id="mail-check" specializations="">
+    <title>Mail Check</title>
+    <body>
+      <p>Mail Check is a NCSC cyber defence service that enables email administrators to improve and maintain the security of email domains by preventing spoofing attacks. All domains operated by, or on behalf of the MoJ, must be added to Mail Check, regardless of whether the domain is expected to send or receive emails. All future contracts and agreements with third party suppliers must make this a requirement.</p>
+      <p>Mail Check should only be used if the email domain name provided is publicly routable from the internet via Simple Mail Transfer Protocol (SMTP).</p>
+      <p>Digital and technology users must contact the <xref href="mailto:mailcheck@digital.ncsc.gov.uk" format="email" scope="external">NCSC Mail Check team</xref> to have domains added to the MoJ's subscription of the Mail Check service.</p>
+    </body>
+  </topic>
+  <topic id="email-sandboxing" specializations="">
+    <title>Email sandboxing</title>
+    <body>
+      <p>Sandboxing provides an additional layer of protection in which any email that contains URLs, attachments or suspicious senders can be securely checked for malicious content before they reach the network or mail server. If the email is found to be harmful it will not be delivered. Sandboxing is beneficial as it:</p>
+      <ul>
+        <li>
+          <p>mirrors the end user’s computer and provides a secure space to interact with and analyse harmful communications</p>
+        </li>
+        <li>
+          <p>allows developers and technical architects to actively minimise the impact of a threat.</p>
+        </li>
+      </ul>
+      <p>For further guidance on implementing sandboxing, including which products you should use, contact the <xref href="mailto:security@justice.gov.uk" format="email" scope="external">Operational Security Team</xref>.</p>
+    </body>
+  </topic>
+  <topic id="url-link-rewriting" specializations="">
+    <title>URL link rewriting</title>
+    <body>
+      <p>URL link rewriting is a technique used to detect malicious links in emails. Links in emails are actively scanned and rewritten to point to an Advanced Threat Protection gateway where the following checks occur:</p>
+      <ul>
+        <li>
+          <p>check the link to see if it is blacklisted by the MoJ or has been previously malicious, and</p>
+        </li>
+        <li>
+          <p>if the link points to downloadable content, the content is scanned.</p>
+        </li>
+      </ul>
+      <p>After the checks have completed, it will either allow the user to continue to the URL or block them from accessing it. In the case that the user has been blocked, it should provide them with a message with contact details.</p>
+    </body>
+  </topic>
+  <topic id="protecting-against-email-security-threats" specializations="">
+    <title>Protecting against email security threats</title>
+    <body>
+      <p>You can protect against email security threats by implementing the controls outlined below.</p>
+      <p>✔ Implement anti-malware software. Refer to the <xref href="malware-protection-guide-introduction.md" format="dita">Malware Protection Guidance</xref> for more information.</p>
+      <p>✔ Install the minimal mail server services required and eliminate known vulnerabilities through patches, configurations and upgrades. Refer to the <xref href="vulnerability-scanning-and-patch-management-guide.md" format="dita">Vulnerability Scanning and Patch Management Guide</xref> for more information.</p>
+      <p>✔ Implement external email warning messages to insert text (usually in the subject line) into an email when it is identified as coming from outside of the MoJ.</p>
+      <p>✔ Develop email security management plans to define best practices for employees.</p>
+      <p>✔ Use SMTP alert policies to track malware activity and data loss incidents from anti-malware software.</p>
+      <p>✔ Ensure there is no unnecessary detail on the MoJ website or webmail by considering what visitors need to know with the aim of reducing the threat of spear phishing.</p>
+      <p>✔ Restrict auto-forwarding. Please refer to the <xref href="secure-email-transfer-guide.md" format="dita">Secure Email Transfer Guide</xref> for more information.</p>
+      <p>✔ Restrict delegate access. Please refer to the <xref href="email-security-guide.md" format="dita" type="topic">Email Security Guide</xref> for more information.</p>
+      <p>The <xref href="email-authentication-guide.md" format="dita" type="topic">Email Authentication Guide</xref> provides further detail on the email authentication controls mentioned in this guide.</p>
+    </body>
+  </topic>
+  <topic id="reporting-spam-or-malicious-emails" specializations="">
+    <title>Reporting spam or malicious emails</title>
+    <body>
+      <p>If you think your email service provision has been susceptible to spam or a virus, report it immediately to the Technology Service Desk as an IT security incident. Please refer to the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/" format="html" scope="external">IT Incident Management Policy</xref> for further guidance.</p>
+    </body>
+  </topic>
+  <topic id="contact-details" specializations="">
+    <title>Contact details</title>
+    <body>
+      <ul>
+        <li>
+          <p>Contact the Technology Service Desk to report suspected IT Security Incidents:Telephone: 0800 917 5148.</p>
+        </li>
+        <li>
+          <p>Contact Cyber Assistance Team for advice on email security – <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></p>
+        </li>
+        <li>
+          <p>Contact the Operational Security Team for further advice – <xref href="mailto:Operationalsecurityteam@justice.gov.uk" format="email" scope="external">Operationalsecurityteam@justice.gov.uk</xref>.</p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+</topic>

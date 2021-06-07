@@ -20,6 +20,8 @@
 			<ph id="catemailtext"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">Cyber Assistance Team</xref></ph>
 			<ph id="cisolong">Chief Information Security Office (CISO)</ph>
 			<ph id="ciso">CISO</ph>
+			<ph id="cjsmemail"><xref href="mailto:cjsm.helpdesk@egress.com" format="email" scope="external">cjsm.helpdesk@egress.com</xref></ph>
+			<ph id="cjsmemailtext"><xref href="mailto:cjsm.helpdesk@egress.com" format="email" scope="external">CJSM Helpdesk</xref></ph>
 			<ph id="dacuemail"><xref href="mailto:Data.access@justice.gov.uk" format="email" scope="external">Data.access@justice.gov.uk</xref></ph>
 			<ph id="gcloud"><xref href="https://www.digitalmarketplace.service.gov.uk/g-cloud" format="html" scope="external">Digital Marketplace (GCloud)</xref></ph>
 			<ph id="giaaemail"><xref href="mailto:correspondence@giaa.gov.uk" format="email" scope="external">correspondence@giaa.gov.uk</xref></ph> <!-- Government Internal Audit Agency -->
@@ -43,7 +45,9 @@
 			or <q><ph conref="#conrefs/policyshould"/></q>,
 			are as defined in the UK Government <q>Orange Book</q>
 			<xref href="https://www.gov.uk/government/publications/orange-book" format="html" scope="external">Management of Risk - Principles and Concepts</xref>.</ph>
+			<ph id="policycan"><b>CAN</b></ph>
 			<ph id="policycannot"><b>CAN NOT</b></ph>
+			<ph id="policymay"><b>MAY</b></ph>
 			<ph id="policymust"><b>SHALL</b></ph>
 			<ph id="policymustnot"><b>SHALL NOT</b></ph>
 			<ph id="policyshall"><b>SHALL</b></ph>
@@ -242,6 +246,7 @@
 			</p>
 			<p>For non-technology incidents,
 				contact the <ph conref="#conrefs/moj"/> Group Security Team: <ph conref="#conrefs/groupsecurityemail"/></p>
+			<p>Contact the Privacy Team for information on Data Protection Impact Assessments: <ph conref="#conrefs/privacyemail"/></p>
 			<p>If you are not sure who to contact,
 				ask the Operational Security Team:
 				<ul>
