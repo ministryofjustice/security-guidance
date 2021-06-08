@@ -29,5 +29,5 @@ If you are interested in becoming a Security Champion, please email: (cc’ing y
 Security Champions will be able to collaborate via the Security Champion MS Teams group, which enables champions to talk to each other and share information across the MoJ. Details will be shared at a Welcome session.
 
 ## Contacts
-[Security and Privacy team](mailto: security@justice.gov.uk)
+[Security and Privacy team](security@justice.gov.uk)
 Security culture change lead - [Dawn Carrington](dawn.carrington@justice.gov.uk)
