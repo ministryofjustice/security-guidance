@@ -14,4 +14,4 @@ Major components of Our Security Culture are:
 - [A Security Culture Programme](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-culture-programme.md)
 - [Security Champions](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-champions.md)
 - [Events](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/events.md)
-- Resources to share (Leaflets, posters, quizzes, worksheets, team briefs)
+- [Resources to share (Leaflets, posters, quizzes, worksheets, team briefs)](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/resources.md)
