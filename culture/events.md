@@ -9,7 +9,7 @@ Owner:
 
 ## Webinar: How to keep yourself and your work safe online
 
-<img src="../graphics/webinar-safe-online.jpeg" width="30%" align="right" />
+<img src="../graphics/toa-heftiba-_UIVmIBB3JU-unsplash.jpg" width="30%" align="right" />
 
 Do you know how to keep yourself and your work safe online? Do you want to ensure you’re adhering to MoJ’s remote working policies while working from home? Come and find out on this bitesize security awareness session where you will learn what data is held about you online and how to manage it, how to prevent yourself from being targeted as an individual, and how to keep your work safe whilst working from home.
 
