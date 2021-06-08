@@ -231,20 +231,40 @@
   <topic id="external-emails">
     <title>External emails</title>
     <body>
-      <!-- HERE -->
       <p>Ensure that all outgoing emails are automatically appended with a
-        <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-security-guidelines/" format="html" scope="external">disclaimer</xref>.</p>
+        disclaimer.</p>
+      <p>If you are exchanging email with an outside organisation with which the
+        <ph conref="conrefs.dita#conrefs/policyshallnot"/> could be bound contractually,
+        the following text must be appended:
+        <lq>I am not authorised to bind the Ministry of Justice contractually,
+          nor to make representations or other statements which may bind the
+          Ministry of Justice in any way via electronic means.</lq></p>
     </body>
   </topic>
   <topic id="auto-forward">
     <title>Auto-forward</title>
     <body>
-      <p>Technical users should ensure auto-forwarding is used responsibly and in line with the <ph conref="conrefs.dita#conrefs/moj"/>'s <xref href="information-classification-handling-and-security-guide.md" format="dita">Information Classification Handling and Security Guide</xref>. As part of this responsibility they must:</p>
+      <p>Ensure that auto-forwarding is used responsibly,
+        and in line with the <ph conref="conrefs.dita#conrefs/moj"/>'s
+        <xref href="information-classification-handling-and-security-guide.dita"
+          format="dita">Information Classification Handling and Security
+          Guide</xref>.
+          In particular:
       <ul>
-        <li>disable auto-forward to external domains, where this is required it should be controlled by creating custom RBAC roles</li>
-        <li>advise users to only forward emails from an <ph conref="conrefs.dita#conrefs/moj"/> email address to an email address that provides the same or higher security standards</li>
-        <li>not provide auto-forward capability when any <ph conref="conrefs.dita#conrefs/moj"/> standard, policy or guidance states that additional controls or protection must be implemented before sending an email.</li>
-      </ul>
+        <li>Disable auto-forward to external domains.
+          If auto-forwarding to an external domain is required,
+          it <ph conref="conrefs.dita#conrefs/policyshould"/> be controlled by
+          creating custom Role Based Access Control (RBAC) roles.</li>
+        <li>Advise users to only forward emails from an
+          <ph conref="conrefs.dita#conrefs/moj"/> email address to an email
+          address that provides the same or higher security standards.</li>
+        <li>Do not provide auto-forward capability when any
+          <ph conref="conrefs.dita#conrefs/moj"/> standard,
+          policy,
+          or guidance states that additional controls or protection
+          <ph conref="conrefs.dita#conrefs/policyshall"/> be implemented before
+          sending an email.</li>
+      </ul></p>
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>

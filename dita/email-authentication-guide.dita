@@ -1,84 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="email-authentication-guide" specializations="">
+<topic id="email-authentication-guide">
   <title>Email Authentication Guide</title>
   <body/>
-  <topic id="introduction" specializations="">
+  <topic id="introduction">
     <title>Introduction</title>
     <body>
-      <p>This guide identifies the security controls that must be implemented at the domain layer to verify sender’s domains and mitigate spoofing attacks. This guide is a sub-page to the <xref href="email-security-guide.md" format="dita" type="topic">Email Security Guide</xref>.</p>
+      <p>This guide identifies the security controls that must be implemented at
+        the domain layer to verify sender's domains and mitigate spoofing
+        attacks.</p>
     </body>
   </topic>
-  <topic id="sender-policy-framework" specializations="">
+  <topic id="sender-policy-framework">
     <title>Sender Policy Framework</title>
     <body>
-      <p>Sender Policy Framework (SPF) should be implemented for your email domains.  SPF enables organisations to publish a Domain Name System (DNS) record of all the domains and IP addresses which are trusted for sending and receiving email.</p>
+      <p>Sender Policy Framework (SPF) should be implemented for email domains.
+        SPF enables organisations to publish a Domain Name System (DNS) record
+        of all the domains and IP addresses which are trusted for sending and
+        receiving email.</p>
+      <p>SPF is verified by checking a specific <codeph>TXT</codeph> DNS entry
+      in emails.
+      Emails are flagged if they are not sent from the domains and IP addresses
+      published in the DNS record.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> enforces SPF controls
+      to help users spot spoofed or unknown email addresses.
+      Suspicious emails are sent directly to the <q>spam</q> folder,
+      instead of to the user's inbox.</p>
+      <p>When creating an SPF record in the public DNS,
+        use all the IP addresses or address ranges from which an email might be
+        sent.
+        You can use both IPv4 and IPv6 addresses.
+        An SPF record could look like the following:
       <ul>
-        <li>
-          <p>SPF is verified by checking a specific TXT DNS entry in emails; emails will be flagged if they are not sent from the domains and IP addresses published in the DNS record.</p>
-        </li>
-        <li>
-          <p>The MoJ enforces SPF controls to help users spot spoofed or unknown email addresses by sending them directly to the spam folder, instead of to a user’s inbox.</p>
-        </li>
-      </ul>
-      <p>When creating an <b>SPF record</b> in your public DNS, you must use all the IP addresses or address ranges from which you send an email. You can use both IPv4 and IPv6 addresses. An SPF record could look like the following:</p>
-      <ol>
-        <li>
-          <p>An example of a basic SPF record to be added to an organisation's public DNS where it uses Google would look like this:<codeph>v=spf1 include:spf.google.com ~all</codeph></p>
-        </li>
-        <li>
-          <p>This SPF record includes Google's IP ranges and a sending service with an IP address range:<codeph>v=spf1 include:spf.google.com ip4:80.88.21.0/20 ~all</codeph></p>
-        </li>
-        <li>
-          <p>An example of a more complex record, with additional services and some dedicated IP addresses:<codeph>v=spf1 include:spf.protection.outlook.com include:mail.zendesk.com ip6:2001:db8::/32 ip4:203.0.113.6 ~all</codeph></p>
-        </li>
-      </ol>
-      <p>... where <codeph>v=spf1</codeph> is an SPF record, <codeph>include:</codeph> means email can only come from these sources, <codeph>~all</codeph> considers any other email as a soft fail, and <codeph>–all</codeph> considers any other email as a hard fail (this should be used when a domain is getting forged by spam).</p>
-      <p>To correct SPF failures you should add the sending systems you use to your SPF record, either by IP address, or by reference to another SPF record. These examples are unique so you should ensure you add the domain or IP range of your email sending service and check with your supplier on ‘how to setup SPF records’.</p>
+        <li>An example of a basic SPF record to be added to an organisation's
+          public DNS,
+          where it uses Google,
+          might be:
+          <lq><codeph>v=spf1 include:spf.google.com ~all</codeph></lq></li>
+        <li>An SPF record including Google's IP ranges and a sending service
+          with an IP address range,
+          might be:
+          <lq><codeph>v=spf1 include:spf.google.com ip4:80.88.21.0/20 ~all</codeph></lq></li>
+        <li>An example of a more complex record,
+          with additional services and some dedicated IP addresses,
+          might be:
+          <lq><codeph>v=spf1 include:spf.protection.outlook.com include:mail.zendesk.com ip6:2001:db8::/32 ip4:203.0.113.6 ~all</codeph></lq></li>
+      </ul></p>
+      <p>In the previous examples,
+        <codeph>v=spf1</codeph> is an SPF record,
+        <codeph>include:</codeph> means email can only come from these sources,
+        <codeph>~all</codeph> considers any other email as a soft fail,
+        and <codeph>–all</codeph> considers any other email as a hard fail.
+        <note>A hard fail should be used when a domain is being forged by
+          spam.</note></p>
+      <p>To correct SPF failures,
+        add the sending systems you use to your SPF record.
+        Do this using either the IP address or by reference to another SPF record.
+        These previous examples are unique,
+        so check the actual domain or IP range of the email sending service.
+        Also check with the supplier on setting up SPF records.</p>
     </body>
   </topic>
-  <topic id="domain-keys-identified-mail" specializations="">
+  <!-- HERE -->
+  <topic id="domain-keys-identified-mail">
     <title>Domain Keys Identified Mail</title>
     <body>
-      <p>Domain Keys Identified Mail (DKIM) should be enabled for all MoJ email domains.  DKIM enables automatic filtering or rejection of emails that fail DKIM verification.</p>
+      <p>Domain Keys Identified Mail (DKIM) should be enabled for all <ph conref="conrefs.dita#conrefs/moj"/> email domains.  DKIM enables automatic filtering or rejection of emails that fail DKIM verification.</p>
       <ul>
-        <li>
-          <p>DKIM can verify a sender domain by looking up the sender's public key published in the DNS. You can then determine if an email has been tampered with during transit (e.g. during a Man-In-The-Middle attack).</p>
-        </li>
-        <li>
-          <p>A valid digital signature provides assurance that the hashed content has not been modified since the signature was affixed to the email message.</p>
-        </li>
-        <li>
-          <p>The MoJ enforces DKIM controls to help users identify communication tampering attacks, by sending them directly to the spam folder, instead of to a user’s Inbox.</p>
-        </li>
-        <li>
-          <p>DKIM must be used across the MoJ, including by executive agencies and ALBs.</p>
-        </li>
+        <li>DKIM can verify a sender domain by looking up the sender's public key published in the DNS. You can then determine if an email has been tampered with during transit (e.g. during a Man-In-The-Middle attack).</li>
+        <li>A valid digital signature provides assurance that the hashed content has not been modified since the signature was affixed to the email message.</li>
+        <li>The <ph conref="conrefs.dita#conrefs/moj"/> enforces DKIM controls to help users identify communication tampering attacks, by sending them directly to the spam folder, instead of to a user's Inbox.</li>
+        <li>DKIM must be used across the <ph conref="conrefs.dita#conrefs/moj"/>, including by executive agencies and ALBs.</li>
       </ul>
     </body>
   </topic>
-  <topic id="domain-based-message-authentication-reporting-and-conformance" specializations="">
+  <topic id="domain-based-message-authentication-reporting-and-conformance">
     <title>Domain-based Message Authentication, Reporting and Conformance</title>
     <body>
-      <p>Domain-based Message Authentication, Reporting and Conformance (DMARC) is an email authentication standard that must be used with SPF and DKIM to confirm sender’s email addresses and flag any emails that have been spoofed or otherwise tampered with.</p>
+      <p>Domain-based Message Authentication, Reporting and Conformance (DMARC) is an email authentication standard that must be used with SPF and DKIM to confirm sender's email addresses and flag any emails that have been spoofed or otherwise tampered with.</p>
       <p>By using DMARC:</p>
       <ul>
-        <li>
-          <p>MoJ emails are more likely to reach the recipients' inboxes (suppliers, partners and public users), rather than getting filtered out as spam</p>
-        </li>
-        <li>
-          <p>you will have full visibility of all the domains and IP addresses you’re using to send emails</p>
-        </li>
-        <li>
-          <p>you will know if your mail senders are failing SPF, DKIM and DMARC authentication, and</p>
-        </li>
-        <li>
-          <p>you will be able to detect any unauthorised use of your domain.</p>
-        </li>
+        <li><ph conref="conrefs.dita#conrefs/moj"/> emails are more likely to reach the recipients' inboxes (suppliers, partners and public users), rather than getting filtered out as spam</li>
+        <li>you will have full visibility of all the domains and IP addresses you're using to send emails</li>
+        <li>you will know if your mail senders are failing SPF, DKIM and DMARC authentication, and</li>
+        <li>you will be able to detect any unauthorised use of your domain.</li>
       </ul>
-      <p>When developing a new service with email sending or receiving capability, you must publish a DMARC policy and aim to set it to the highest level, called ‘p=reject’. This policy indicates you want mailbox providers to reject all emails that fail DMARC.</p>
-      <p>If you cannot set the DMARC policy to p=reject, you should publish a record using ‘p=none’ to override the default policy. This means that the mailbox provider won't take any actions with your emails that fail DMARC.</p>
+      <p>When developing a new service with email sending or receiving capability, you must publish a DMARC policy and aim to set it to the highest level, called ‘p=reject'. This policy indicates you want mailbox providers to reject all emails that fail DMARC.</p>
+      <p>If you cannot set the DMARC policy to p=reject, you should publish a record using ‘p=none' to override the default policy. This means that the mailbox provider won't take any actions with your emails that fail DMARC.</p>
       <p>You must publish a DMARC record to the DNS for your domain to tell the email receiver how to handle emails that fail DMARC authentication and where to send DMARC reports.</p>
       <table>
         <tgroup cols="3">
@@ -115,16 +123,16 @@
             </row>
             <row>
               <entry colname="col1"> </entry>
-              <entry colname="col2">- The intended recipient of malicious email will not be aware of the email, as it won’t be sent to a spam or quarantine folder.</entry>
+              <entry colname="col2">- The intended recipient of malicious email will not be aware of the email, as it won't be sent to a spam or quarantine folder.</entry>
               <entry colname="col3"> </entry>
             </row>
           </tbody>
         </tgroup>
       </table>
-      <p>DMARC TXT records must be available for <xref href="https://www.dmarcanalyzer.com/how-to-create-a-dmarc-record/" format="html" scope="external">creation</xref> or iteration across the MoJ, as per the GOV.UK DMARC configuration <xref href="https://www.gov.uk/government/publications/email-security-standards/domain-based-message-authentication-reporting-and-conformance-dmarc" format="html" scope="external">guide page</xref>.</p>
+      <p>DMARC TXT records must be available for <xref href="https://www.dmarcanalyzer.com/how-to-create-a-dmarc-record/" format="html" scope="external">creation</xref> or iteration across the <ph conref="conrefs.dita#conrefs/moj"/>, as per the GOV.UK DMARC configuration <xref href="https://www.gov.uk/government/publications/email-security-standards/domain-based-message-authentication-reporting-and-conformance-dmarc" format="html" scope="external">guide page</xref>.</p>
     </body>
   </topic>
-  <topic id="making-changes-to-the-domain-name-system" specializations="">
+  <topic id="making-changes-to-the-domain-name-system">
     <title>Making changes to the domain name system</title>
     <body>
       <p>Changes must be made to DNS records if you are implementing SPF, DKIM and DMARC controls. When requesting changes you must include specific information for each record. If given the option, set a short time to live (TTL) in DNS records so you can see changes quickly and fix issues.</p>
@@ -186,19 +194,13 @@
       </table>
     </body>
   </topic>
-  <topic id="contact-details" specializations="">
+  <topic id="contact-details">
     <title>Contact details</title>
     <body>
       <ul>
-        <li>
-          <p>Contact Cyber Assistance Team for advice on email security: <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></p>
-        </li>
-        <li>
-          <p>For any further questions relating to security, please contact: <xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></p>
-        </li>
-        <li>
-          <p>For DNS changes and associated advice, please contact: the Platforms and Architecture team at <xref href="mailto:domains@digital.justice.gov.uk" format="email" scope="external">domains@digital.justice.gov.uk</xref></p>
-        </li>
+        <li>Contact Cyber Assistance Team for advice on email security: <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></li>
+        <li>For any further questions relating to security, please contact: <xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></li>
+        <li>For DNS changes and associated advice, please contact: the Platforms and Architecture team at <xref href="mailto:domains@digital.justice.gov.uk" format="email" scope="external">domains@digital.justice.gov.uk</xref></li>
       </ul>
     </body>
   </topic>
