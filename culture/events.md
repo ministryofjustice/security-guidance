@@ -9,6 +9,8 @@ Owner:
 
 ## Webinar: How to keep yourself and your work safe online
 
+<img src="../graphics/webinar-safe-online.jpeg" width="30%" align="right" />
+
 Do you know how to keep yourself and your work safe online? Do you want to ensure you’re adhering to MoJ’s remote working policies while working from home? Come and find out on this bitesize security awareness session where you will learn what data is held about you online and how to manage it, how to prevent yourself from being targeted as an individual, and how to keep your work safe whilst working from home.
 
 If you want to attend, there’s no need to book, just diarise and join on the day.
@@ -24,7 +26,7 @@ People managers are invited to attend a new Security Awareness training session.
 
 It includes practical advice on how to manage security behaviours in your team. Some pre-reading and a short post-attendance exercise will be required in addition to the workshop. Please sign up via Eventbrite:
 
-- 23 June, 11am-12.30pm -  [book here](https://intranet.justice.gov.uk/events/people-manager-security-awareness-workshop-3/)
-- 28 July, 11am-12.30pm - [book here](https://intranet.justice.gov.uk/events/people-manager-security-awareness-workshop-4/)
-- 25 August, 11am-12.30pm - [book here](https://intranet.justice.gov.uk/events/people-manager-security-awareness-workshop-5/)
-- 22 September, 11am-12.30pm - [book here](https://intranet.justice.gov.uk/events/people-manager-security-awareness-workshop-6/)
+- Wednesday 23 June (11:00-12.30) -  [book here](https://intranet.justice.gov.uk/events/people-manager-security-awareness-workshop-3/)
+- Wednesday 28 July (11:00-12.30) - [book here](https://intranet.justice.gov.uk/events/people-manager-security-awareness-workshop-4/)
+- Wednesday 25 August (11:00-12.30) - [book here](https://intranet.justice.gov.uk/events/people-manager-security-awareness-workshop-5/)
+- Wednesday 22 September (11:00-12.30) - [book here](https://intranet.justice.gov.uk/events/people-manager-security-awareness-workshop-6/)
