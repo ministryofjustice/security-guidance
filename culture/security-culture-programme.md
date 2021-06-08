@@ -17,11 +17,13 @@ Image - Security Culture Roadmap (to be produced)
 
 In order to improve security behaviours in the Department, we need to gain greater insight into the issues from our employee’s perspective. We're currently piloting a security culture survey in Digital & Technology, and plan to roll this out MoJ-wide after the summer. Please contact Dawn Carrington if you are happy to promote this in your team.
 
-## Improving our Joiners, Movers and Leavers Processes
+## Joiners, Movers and Leavers (JML)
+
+### Improving our JML Processes
 
 When somebody joins, moves or leaves the Department, there are certain security procedures which must be followed to ensure a safe environment for us all.
 
-## JML Toolkit
+### JML Toolkit
 Lne managers now have access to a JML Toolkit, which outlines the processes and forms they must princess when anybody joins, moves or leaves their team. .
 
 ## Corporate Inductions
@@ -36,7 +38,7 @@ These are the foundation to any organisation’s security culture. A culture is 
 
 We have a Leader’s security induction, which is usually delivered on a 121 basis for new leaders / SCS (currently via MS teams).
 
-## Awareness & Training:
+## Awareness & Training
 
 There are a number of awareness and training sessions, and materials available for helping to improve our people’s security behaviours. These include monthly Line Manager training, intranet Awareness Sessions, which are accessible via the intranet Event’s page.
 
