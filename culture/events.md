@@ -22,6 +22,8 @@ If you want to attend, there’s no need to book, just diarise and join on the d
 
 ## People Manager Security Awareness Training
 
+<img src="https://github.com/ministryofjustice/security-guidance/blob/Local/culture/graphics/awareness-training.png" width="30%" align="right" />
+
 People managers are invited to attend a new Security Awareness training session. Thousands of our people moved to remote-working in 2020, significantly changing our threat landscape, and creating new working conditions (e.g. working from home). This 90-minute session will help you get to grips with the main risks and policies you need to be aware of.
 
 It includes practical advice on how to manage security behaviours in your team. Some pre-reading and a short post-attendance exercise will be required in addition to the workshop. Please sign up via Eventbrite:
