@@ -48,7 +48,9 @@
               making sure they are always valid and use strong encryption,
               algorithms,
               and key lengths.</li>
-            <li>Use Secure Multipurpose Internet Mail Extension (S/MIME),
+            <li>Use <xref href="https://en.wikipedia.org/wiki/S/MIME"
+              format="html" scope="external">Secure Multipurpose Internet Mail
+              Extension (S/MIME)</xref>,
               as it signs and encrypts email data before it is transmitted.</li>
           </ul>
         </li>

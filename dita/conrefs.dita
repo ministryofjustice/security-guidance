@@ -67,6 +67,11 @@
             For more information regarding IRARs,
             and how to create and maintain them,
             contact the Cyber Assistance Team: <ph conref="conrefs.dita#conrefs/catemail"/>.</p>
+		<p id="incidentmanager">Following a report,
+			incident managers should refer to the
+			<xref href="incident-management-plan-and-process-guide.dita"
+			format="dita">Incident Management Plan and Process Guide</xref> for
+			further guidance.</p>
 	</body>
 
 	<topic id="legacyreferences">

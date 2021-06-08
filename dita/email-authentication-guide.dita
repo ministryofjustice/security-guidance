@@ -14,7 +14,9 @@
   <topic id="sender-policy-framework">
     <title>Sender Policy Framework</title>
     <body>
-      <p>Sender Policy Framework (SPF) should be implemented for email domains.
+      <p><xref href="https://en.wikipedia.org/wiki/Sender_Policy_Framework"
+        scope="external" format="html">Sender Policy Framework (SPF)</xref>
+        should be implemented for email domains.
         SPF enables organisations to publish a Domain Name System (DNS) record
         of all the domains and IP addresses which are trusted for sending and
         receiving email.</p>
@@ -61,33 +63,73 @@
         Also check with the supplier on setting up SPF records.</p>
     </body>
   </topic>
-  <!-- HERE -->
   <topic id="domain-keys-identified-mail">
     <title>Domain Keys Identified Mail</title>
     <body>
-      <p>Domain Keys Identified Mail (DKIM) should be enabled for all <ph conref="conrefs.dita#conrefs/moj"/> email domains.  DKIM enables automatic filtering or rejection of emails that fail DKIM verification.</p>
+      <p><xref href="https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail"
+        scope="external" format="html">Domain Keys Identified Mail (DKIM)</xref>
+        should be enabled for all <ph conref="conrefs.dita#conrefs/moj"/> email
+        domains.
+        DKIM enables automatic filtering or rejection of emails that fail DKIM
+        verification.</p>
       <ul>
-        <li>DKIM can verify a sender domain by looking up the sender's public key published in the DNS. You can then determine if an email has been tampered with during transit (e.g. during a Man-In-The-Middle attack).</li>
-        <li>A valid digital signature provides assurance that the hashed content has not been modified since the signature was affixed to the email message.</li>
-        <li>The <ph conref="conrefs.dita#conrefs/moj"/> enforces DKIM controls to help users identify communication tampering attacks, by sending them directly to the spam folder, instead of to a user's Inbox.</li>
-        <li>DKIM must be used across the <ph conref="conrefs.dita#conrefs/moj"/>, including by executive agencies and ALBs.</li>
+        <li>DKIM can verify a sender domain by looking up the sender's public
+          key published in the DNS.
+          You can then determine if an email has been tampered with during
+          transit,
+          for example during a <q>Man-In-The-Middle</q> attack.</li>
+        <li>A valid digital signature provides assurance that the hashed content
+          has not been modified since the signature was affixed to the email
+          message.</li>
+        <li>The <ph conref="conrefs.dita#conrefs/moj"/> enforces DKIM controls
+        to help users identify communication tampering attacks
+         by sending the messages directly to the spam folder,
+         instead of to the user Inbox.</li>
+        <li>DKIM <ph conref="conrefs.dita#conrefs/policyshall"/> be used across
+        the <ph conref="conrefs.dita#conrefs/moj"/>,
+        including by executive agencies and ALBs.</li>
       </ul>
     </body>
   </topic>
   <topic id="domain-based-message-authentication-reporting-and-conformance">
     <title>Domain-based Message Authentication, Reporting and Conformance</title>
     <body>
-      <p>Domain-based Message Authentication, Reporting and Conformance (DMARC) is an email authentication standard that must be used with SPF and DKIM to confirm sender's email addresses and flag any emails that have been spoofed or otherwise tampered with.</p>
-      <p>By using DMARC:</p>
+      <p><xref href="https://en.wikipedia.org/wiki/DMARC" scope="external"
+        format="html">Domain-based Message Authentication, Reporting and
+        Conformance (DMARC)</xref> is an email authentication standard that must
+        be used with SPF and DKIM to:
+        <ul>
+          <li>Confirm a sender's email addresses.</li>
+          <li>Flag any emails that have been spoofed or otherwise tampered with.</li>
+        </ul></p>
+      <p>By using DMARC:
       <ul>
-        <li><ph conref="conrefs.dita#conrefs/moj"/> emails are more likely to reach the recipients' inboxes (suppliers, partners and public users), rather than getting filtered out as spam</li>
-        <li>you will have full visibility of all the domains and IP addresses you're using to send emails</li>
-        <li>you will know if your mail senders are failing SPF, DKIM and DMARC authentication, and</li>
-        <li>you will be able to detect any unauthorised use of your domain.</li>
-      </ul>
-      <p>When developing a new service with email sending or receiving capability, you must publish a DMARC policy and aim to set it to the highest level, called ‘p=reject'. This policy indicates you want mailbox providers to reject all emails that fail DMARC.</p>
-      <p>If you cannot set the DMARC policy to p=reject, you should publish a record using ‘p=none' to override the default policy. This means that the mailbox provider won't take any actions with your emails that fail DMARC.</p>
-      <p>You must publish a DMARC record to the DNS for your domain to tell the email receiver how to handle emails that fail DMARC authentication and where to send DMARC reports.</p>
+        <li><ph conref="conrefs.dita#conrefs/moj"/> emails are more likely to
+        reach the recipients' inboxes (suppliers, partners and public users),
+        rather than getting filtered out as spam.</li>
+        <li>There is full visibility of all the domains and IP addresses used to
+          send emails.</li>
+        <li>There are warnings if a mail sender fails SPF,
+          DKIM,
+          or DMARC authentication.</li>
+        <li>It is possible to detect any unauthorised use of the domain.</li>
+      </ul></p>
+      <p>When developing a new service with email sending or receiving capability,
+        a DMARC policy <ph conref="conrefs.dita#conrefs/policyshall"/> be published.
+        The policy <ph conref="conrefs.dita#conrefs/policyshall"/> be set to the
+        highest level:
+        <codeph>'p=reject'</codeph>.
+        This policy indicates that mailbox providers
+        <ph conref="conrefs.dita#conrefs/policyshall"/> reject all emails that
+        fail DMARC.</p>
+      <p>If the DMARC policy cannot be set to <codeph>'p=reject'</codeph>,
+      publish a record using <codeph>'p=none'</codeph> to override the default
+      DMARC policy.
+      This means that the mailbox provider won't take any actions with emails
+      that fail DMARC.</p>
+      <p>Publish a DMARC record to the DNS for the domain to tell the email
+        receiver how to handle emails that fail DMARC authentication,
+        and where to send DMARC reports.</p>
       <table>
         <tgroup cols="3">
           <colspec colname="col1" colnum="1"/>
@@ -102,64 +144,98 @@
           </thead>
           <tbody>
             <row>
-              <entry colname="col1">p=none</entry>
-              <entry colname="col2">Allows you to review incoming email to determine legitimacy while implementing DMARC for the first time.</entry>
-              <entry colname="col3">Easier for phishers and spammers to take advantage.</entry>
+              <entry colname="col1"><codeph>p=none</codeph></entry>
+              <entry colname="col2">Allows you to review incoming email to
+                determine legitimacy while implementing DMARC for the first
+                time.</entry>
+              <entry colname="col3">Easier for phishers and spammers to take
+                advantage.</entry>
             </row>
             <row>
-              <entry colname="col1">P=quarantine</entry>
-              <entry colname="col2">- Malicious email is filtered out.</entry>
-              <entry colname="col3">Legitimate emails may be missed if incorrectly quarantined and filtered</entry>
+              <entry colname="col1"><codeph>P=quarantine</codeph></entry>
+              <entry colname="col2">Malicious email is filtered out.
+              Recipients decide what they want to do with quarantined email.</entry>
+              <entry colname="col3">Legitimate emails might be missed if
+                incorrectly quarantined and filtered</entry>
             </row>
             <row>
-              <entry colname="col1"> </entry>
-              <entry colname="col2">- Recipients can decide what they want to do with quarantined email.</entry>
-              <entry colname="col3"> </entry>
-            </row>
-            <row>
-              <entry colname="col1">P=reject</entry>
-              <entry colname="col2">- All malicious email is stopped.</entry>
-              <entry colname="col3">Legitimate emails may fail authentication and be rejected without the recipient being aware.</entry>
-            </row>
-            <row>
-              <entry colname="col1"> </entry>
-              <entry colname="col2">- The intended recipient of malicious email will not be aware of the email, as it won't be sent to a spam or quarantine folder.</entry>
-              <entry colname="col3"> </entry>
+              <entry colname="col1"><codeph>P=reject</codeph></entry>
+              <entry colname="col2">All malicious email is stopped.
+              The intended recipient of malicious email is not aware of the
+              email,
+              as it won't be sent to a spam or quarantine folder.</entry>
+              <entry colname="col3">Legitimate emails might fail authentication
+                and be rejected without the recipient being aware.</entry>
             </row>
           </tbody>
         </tgroup>
       </table>
-      <p>DMARC TXT records must be available for <xref href="https://www.dmarcanalyzer.com/how-to-create-a-dmarc-record/" format="html" scope="external">creation</xref> or iteration across the <ph conref="conrefs.dita#conrefs/moj"/>, as per the GOV.UK DMARC configuration <xref href="https://www.gov.uk/government/publications/email-security-standards/domain-based-message-authentication-reporting-and-conformance-dmarc" format="html" scope="external">guide page</xref>.</p>
+      <p><codeph>DMARC TXT</codeph> records
+      <ph conref="conrefs.dita#conrefs/policymust"/> be available for
+      <xref href="https://www.dmarcanalyzer.com/how-to-create-a-dmarc-record/"
+        format="html" scope="external">creation</xref> or iteration across the
+        <ph conref="conrefs.dita#conrefs/moj"/>.
+        This is to comply with the GOV.UK DMARC configuration <xref
+        href="https://www.gov.uk/government/publications/email-security-standards/domain-based-message-authentication-reporting-and-conformance-dmarc"
+        format="html" scope="external">guide page</xref>.</p>
     </body>
   </topic>
   <topic id="making-changes-to-the-domain-name-system">
     <title>Making changes to the domain name system</title>
     <body>
-      <p>Changes must be made to DNS records if you are implementing SPF, DKIM and DMARC controls. When requesting changes you must include specific information for each record. If given the option, set a short time to live (TTL) in DNS records so you can see changes quickly and fix issues.</p>
-      <p>
-        <b>DMARC example</b>
-      </p>
+      <p>Changes <ph conref="conrefs.dita#conrefs/policymust"/> be made to DNS
+      records when implementing SPF,
+      DKIM,
+      and DMARC controls.
+      When requesting changes,
+      specific information <ph conref="conrefs.dita#conrefs/policymust"/> be
+      included for each record.
+      If given the option,
+      set a short time to live (TTL) in DNS records to monitor changes quickly,
+      and fix any issues.</p>
+    </body>
+    <topic id="dmarc-example">
+      <title>DMARC example</title>
+      <body>
       <p>Record type: <codeph>TXT</codeph></p>
       <p>Host or record name: <codeph>dmarc</codeph></p>
       <p>Record value: <codeph>v=DMARC1;p=none;fo=1;rua=mailto:dmarc-rua@dmarc.service.gov.uk,mailto:dmarc@&lt;yourdomain.gov.uk&gt;</codeph></p>
       <p>Create the email address and put your domain in place of <codeph>&lt;yourdomain.gov.uk&gt;</codeph>.</p>
-      <p>
-        <b>SPF example</b>
-      </p>
-      <p>Record type: <codeph>TXT</codeph> or <codeph>CNAME</codeph> (check guidance for your service on which to use)</p>
+    </body>
+  </topic>
+  <topic id="spf-example">
+    <title>SPF example</title>
+      <body>
+      <p>Record type: <codeph>TXT</codeph> or <codeph>CNAME</codeph> (check
+      guidance for your service on which to use).</p>
       <p>Host or record name: <codeph>@</codeph> (if required)</p>
-      <p>Record value: <codeph>v=spf1 include:&lt;your email server domain&gt; ip4:&lt;your email service IP&gt; ~all</codeph></p>
-      <p>Put your email server domains and/or email sending IP ranges in place of the <codeph>&lt; &gt;</codeph> sections. You do not need to include both - in many cases you may only need <codeph>include:</codeph>.</p>
-      <p>
-        <b>DKIM example</b>
-      </p>
+      <p>Record value: <codeph>v=spf1 include:&lt;your email server domain&gt;
+        ip4:&lt;your email service IP&gt; ~all</codeph></p>
+      <p>Put your email server domains or email sending IP ranges in place
+        of the <codeph>&lt; &gt;</codeph> sections.
+        You do not need to include both.
+        In many cases you might only need <codeph>include:</codeph>.</p>
+    </body>
+  </topic>
+  <topic id="dkim-example">
+    <title>DKIM example</title>
+      <body>
       <p>Record type: <codeph>TXT</codeph></p>
-      <p>Host or record name: <codeph>selector.</codeph><i><codeph>domainkey</codeph></i></p>
-      <p>Put your selector, or the selector provided by your service provider, in place of selector in the host or record name.</p>
+      <p>Host or record name: <codeph>selector.<i>domainkey</i></codeph></p>
+      <p>Put your selector,
+        or the selector provided by your service provider,
+        in place of selector in the host or record name.</p>
       <p>Record value: <codeph>v=DKIM1; k=rsa; p=&lt;your DKIM key&gt;</codeph></p>
-      <p>Paste your DKIM key from your key generator in place of <codeph>&lt;your DKIM key&gt;</codeph>.</p>
-      <p>Some providers will use a <codeph>CNAME</codeph> record instead of a <codeph>TXT</codeph> record. Follow the guidance from your provider.</p>
-      <p>GSI is no longer used but the following addresses still route through to <codeph>@justice.gov.uk</codeph>. The table below shows the authorised users you can contact to request DNS changes:</p>
+      <p>Paste your DKIM key from your key generator in place of
+        <codeph>&lt;your DKIM key&gt;</codeph>.</p>
+      <p>Some providers might use a <codeph>CNAME</codeph> record instead of a
+      <codeph>TXT</codeph> record.
+      Follow the guidance from your provider.</p>
+      <p>GSI is no longer used,
+        but the following addresses still route through to
+        <codeph>@justice.gov.uk</codeph>.
+        The following table shows the authorised users you can contact to
+        request DNS changes:
       <table>
         <tgroup cols="2">
           <colspec colname="col1" colnum="1"/>
@@ -173,35 +249,30 @@
           <tbody>
             <row>
               <entry colname="col1"><codeph>*.gsi.gov.uk</codeph>, <codeph>*.gsx.gov.uk</codeph>, <codeph>*.gse.gov.uk</codeph>, <codeph>*.gcsx.gov.uk</codeph>, <codeph>*.x.gsi.gov.uk</codeph></entry>
-              <entry colname="col2">
-                <xref href="https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185" format="html" scope="external">Vodafone Contact GDS</xref>
-              </entry>
+              <entry colname="col2"><xref href="https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185" format="html" scope="external">Vodafone Contact GDS</xref></entry>
             </row>
             <row>
               <entry colname="col1"><codeph>*.gov.uk</codeph> or any other domains</entry>
               <entry colname="col2">Your registrar, DNS provider or Internal System Admin</entry>
             </row>
             <row>
-              <entry colname="col1">
-                <codeph>*cjsm.net</codeph>
-              </entry>
-              <entry colname="col2">
-                <xref href="mailto:cjsm.helpdesk@egress.com" format="email" scope="external">Egress</xref>
-              </entry>
+              <entry colname="col1"><codeph>*.cjsm.net</codeph></entry>
+              <entry colname="col2"><xref href="mailto:cjsm.helpdesk@egress.com" format="email" scope="external">Egress</xref></entry>
             </row>
           </tbody>
         </tgroup>
-      </table>
+      </table></p>
     </body>
   </topic>
-  <topic id="contact-details">
-    <title>Contact details</title>
-    <body>
-      <ul>
-        <li>Contact Cyber Assistance Team for advice on email security: <xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></li>
-        <li>For any further questions relating to security, please contact: <xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></li>
-        <li>For DNS changes and associated advice, please contact: the Platforms and Architecture team at <xref href="mailto:domains@digital.justice.gov.uk" format="email" scope="external">domains@digital.justice.gov.uk</xref></li>
-      </ul>
-    </body>
-  </topic>
+</topic>
+<topic id="dns-contact-details">
+  <title>DNS contact details</title>
+  <body>
+    <p>For DNS changes and associated advice,
+      contact the Platforms and Architecture team:
+      <xref href="mailto:domains@digital.justice.gov.uk" format="email" scope="external">domains@digital.justice.gov.uk</xref></p>
+  </body>
+</topic>
+<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+<topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
