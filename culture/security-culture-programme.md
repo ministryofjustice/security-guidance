@@ -11,44 +11,42 @@ The Security Culture Programme aims to strengthen our security culture through r
 
 We’ve developed a Security Culture Programme that we are seeking to roll out across the different directorates in HQ and our agencies/arms lengths bodies.
 
-Image - Security Culture Roadmap (to be produced)
-
-## *Security Culture Survey
+## Security Culture Survey
 
 In order to improve security behaviours in the Department, we need to gain greater insight into the issues from our employee’s perspective. We're currently piloting a security culture survey in Digital & Technology, and plan to roll this out MoJ-wide after the summer. Please contact Dawn Carrington if you are happy to promote this in your team.
 
 ## Joiners, Movers and Leavers (JML)
 
-### Improving our JML Processes
+### Strengthening our JML Processes
 
 When somebody joins, moves or leaves the Department, there are certain security procedures which must be followed to ensure a safe environment for us all.
 
 ### JML Toolkit
-Lne managers now have access to a [JML Toolkit](https://intranet.justice.gov.uk/documents/2021/03/joiners-movers-leavers-toolkit.pdf), which outlines the processes and forms they must princess when anybody joins, moves or leaves their team. .
+People Managers now have access to a [JML Toolkit](https://intranet.justice.gov.uk/documents/2021/03/joiners-movers-leavers-toolkit.pdf), which outlines the processes and forms they must use when anybody joins, moves or leaves their team.
 
-## Corporate Inductions
+### Corporate Inductions
 
 These are the foundation to any organisation’s security culture. A culture is built from day one - either actively, or passively. It is therefore essential to instil security messages as soon as somebody joins us. We also need our People Managers to ensure that MoJ’s security processes are followed for new joiners in their first week:
 
 1. Complete CSL’s Responsible for Information eLearning
-2. Watch the security induction video (please note this will be replaced by a new 20 minute induction video on MyLearning later in 2021.
+2. Watch the security induction video (this will be replaced by a new formal induction product on MyLearning later in 2021)
 3. Read Your Guide to Being Security Aware
 
-## Leader’s Induction
+### Leader’s Induction
 
-We have a Leader’s security induction, which is usually delivered on a 121 basis for new leaders / SCS (currently via MS teams).
+We have a Leader’s security induction, which is usually delivered on a 121 basis for new leaders / SCS (currently via MS teams). Please contact us if you would like to attend.
 
 ## Awareness & Training
 
-There are a number of awareness and training sessions, and materials available for helping to improve our people’s security behaviours. These include monthly Line Manager training, intranet Awareness Sessions, which are accessible via the intranet Event’s page.
+There are a number of awareness and training sessions, and materials available for helping to improve our people’s security behaviours. These include monthly People Manager training and intranet Awareness Sessions - see Events.
 
 ## Security Champion network
 
-We are building a network of [security champions](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-champions.md) to help embed security behaviour change at a local level. These are an evidence-based intervention for creating behavioural change.
+We are building a network of security champions to help embed security behaviour change at a local level. These are an evidence-based intervention for creating behavioural change. [Find out how you can get involved](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-champions.md).
 
 ## Internal Engagement
 
-We've developed an annual security engagement plan [link to short copy of engagement plan], which aims to improve security behaviours in four different areas during the next 12 months; remote working, returning to the office, cyber hygiene and incident reporting. We would like People Managers to support this by doing things like; sharing the Team Briefs we will be producing on these topics, putting up posters in their kitchen areas, using and making security a standing agenda item on their team meetings, and participating in engagement activities as requested by security champions or our Chief Security Officer during each quarter.
+We've developed a proactive security engagement plan which aims to improve security behaviours. We would like People Managers to support this by participating in engagement activities as requested by security champions or our Chief Security Officer.
 
 ## Security Academy
 
