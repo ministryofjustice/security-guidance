@@ -22,6 +22,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta><navtitle>Data and equipment management</navtitle></topicmeta>
 			<topicref href="equipment-management.dita" type="topic"/>
 			<topicref href="bluetooth.dita" type="topic"/>
+			<topicref href="data-handling-and-information-sharing-guide.dita" type="topic"/>
 			<topicref href="email.dita" type="topic"/>
 			<topicref href="information-classification-handling-and-security-guide.dita" type="topic"/>
 			<topicref href="long-term-leave.dita" type="topic"/>
