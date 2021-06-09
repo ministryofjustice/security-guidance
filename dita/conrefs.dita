@@ -51,6 +51,7 @@
 			<ph id="policymust"><b>SHALL</b></ph>
 			<ph id="policymustnot"><b>SHALL NOT</b></ph>
 			<ph id="policyshall"><b>SHALL</b></ph>
+			<ph id="policyshallnot"><b>SHALL NOT</b></ph>
 			<ph id="policyshould"><b>SHOULD</b></ph>
 			<ph id="policyshouldnot"><b>SHOULD NOT</b></ph>
 			<ph id="policywill"><b>SHALL</b></ph>
@@ -67,11 +68,13 @@
             For more information regarding IRARs,
             and how to create and maintain them,
             contact the Cyber Assistance Team: <ph conref="conrefs.dita#conrefs/catemail"/>.</p>
-		<p id="incidentmanager">Following a report,
+		<p id="incidentmanager" audience="audience-suppliers audience-tech">Following a report,
 			incident managers should refer to the
 			<xref href="incident-management-plan-and-process-guide.dita"
 			format="dita">Incident Management Plan and Process Guide</xref> for
 			further guidance.</p>
+		<note id="noteexternalemail">An external email service is any service that
+			is outside the <codeph>gov.uk</codeph> domain.</note>
 	</body>
 
 	<topic id="legacyreferences">

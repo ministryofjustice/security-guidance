@@ -63,7 +63,7 @@ The [Forensic Readiness Policy](forensic-readiness-policy.md) document states th
 
 [CESG GPG No.18](https://www.ncsc.gov.uk/guidance/forensic-readiness-good-practice-guide-18) provides guidance on the level of forensic capability that should be developed consummate to the Segmentation Model and Business Impact Levels \(BILs\) of the IT system or IT domain in question.
 
-Most MoJ IT systems attract a BIL of 3 for Confidentially, Integrity and Availability and are classified as ‘Deter’ in the segmentation model. As such, [CESG GPG No.18](https://www.ncsc.gov.uk/guidance/forensic-readiness-good-practice-guide-18) considers that a Forensic Readiness Plan developed to capability level 2 is sufficient. It is anticipated that the majority of MoJ IT systems will fall into this capability level; however, this must be assessed on a system by system basis as part of the system Accreditation process. Further details on the process can be found in the [Accreditation Framework](infrastructure-system-accreditation.md).
+Most MoJ IT systems attract a BIL of 3 for Confidentially, Integrity and Availability and are classified as 'Deter' in the segmentation model. As such, [CESG GPG No.18](https://www.ncsc.gov.uk/guidance/forensic-readiness-good-practice-guide-18) considers that a Forensic Readiness Plan developed to capability level 2 is sufficient. It is anticipated that the majority of MoJ IT systems will fall into this capability level; however, this must be assessed on a system by system basis as part of the system Accreditation process. Further details on the process can be found in the [Accreditation Framework](infrastructure-system-accreditation.md).
 
 #### People and resources
 
@@ -264,7 +264,7 @@ For computer equipment which is switched on, the following process must be appli
 3.  If attached, disconnect any modem.
 4.  If the computer is attached to the network remove the network cable from the data point.
 5.  Do not touch the keyboard or mouse.
-6.  Do not take advice from the computer’s user/owner.
+6.  Do not take advice from the computer's user/owner.
 7.  Allow any printers to finish printing \(further evidence may be printing\).
 
 If equipment is removed before the investigator arrives then the following steps must be performed:

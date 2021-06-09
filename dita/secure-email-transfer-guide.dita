@@ -65,7 +65,7 @@
         offers further advice on encrypting email communications.
         This includes protecting data at rest,
         and data in transit.</p>
-      <p>For further guidance on TLS,
+      <p audience="audience-tech">For further guidance on TLS,
         see the <xref href="cryptography.dita" format="dita">Cryptography</xref>
         guidance.</p>
     </body>

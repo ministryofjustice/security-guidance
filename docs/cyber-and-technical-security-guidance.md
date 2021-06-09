@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 2 June 2021.
+**Note:** This guidance is dated: 9 June 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 2 July 2021.
+The offline versions of this guidance are time-limited, and are not valid after 9 July 2021.
 
 ### Searching this content
 
@@ -299,7 +299,12 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |[Criminal Justice Secure Mail \(CJSM\)](cjsm.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Data Sovereignty](data-sovereignty.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Email](email.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/email/)\)|All users|
+|[Email Authentication Guide](email-authentication-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Email Security Guide](email-security-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
+|[Secure Data Transfer Guide](secure-data-transfer-guide.md)|All users|
+|[Secure Email Transfer Guide](secure-email-transfer-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Spam and Phishing Guide](spam-and-phishing-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Web browsing security policy profiles](web-browsing-security-policy-profiles.md)|All users \(Policy\)|
 
 ### System acquisition, development and maintenance

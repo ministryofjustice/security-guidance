@@ -263,12 +263,12 @@
             stick <ph conref="conrefs.dita#conrefs/policymust"/> be encrypted.
             Encrypted portable storage devices
             <ph conref="conrefs.dita#conrefs/policymust"/> be password protected
-            with a <ph audience="audience-supplier audience-tech"><xref
+            with a <ph audience="audience-suppliers audience-tech"><xref
             href="password-management-guide.dita" format="dita">strong
             password</xref></ph><ph audience="audience-basic">strong
             password</ph>.
             <!-- FIXME -->
-            <ph conref="#alternative-channel"/></p>
+            <ph conref="#data-transfer-by-email/alternative-channel"/></p>
             <p>If you think you have no other option for copying or moving data,
               and have to use removable media,
               contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/>.</p>

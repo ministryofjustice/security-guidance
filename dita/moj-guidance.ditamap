@@ -248,6 +248,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="bluetooth.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="cjsm.dita" type="topic" audience="audience-tech"/>
 			<topicref href="data-sovereignty.dita" type="topic" audience="audience-tech"/>
+			<topicref href="email.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="email-security-guide.dita" type="topic" audience="audience-suppliers audience-tech">
 				<topicref href="email-authentication-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
 				<topicref href="secure-email-transfer-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
