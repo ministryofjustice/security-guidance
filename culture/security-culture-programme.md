@@ -24,7 +24,7 @@ In order to improve security behaviours in the Department, we need to gain great
 When somebody joins, moves or leaves the Department, there are certain security procedures which must be followed to ensure a safe environment for us all.
 
 ### JML Toolkit
-Lne managers now have access to a JML Toolkit, which outlines the processes and forms they must princess when anybody joins, moves or leaves their team. .
+Lne managers now have access to a [JML Toolkit](https://intranet.justice.gov.uk/documents/2021/03/joiners-movers-leavers-toolkit.pdf), which outlines the processes and forms they must princess when anybody joins, moves or leaves their team. .
 
 ## Corporate Inductions
 
@@ -44,7 +44,7 @@ There are a number of awareness and training sessions, and materials available f
 
 ## Security Champion network
 
-We are building a network of security champions [link to page below] to help embed security behaviour change at a local level. These are an evidence-based intervention for creating behavioural change.
+We are building a network of [security champions](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-champions.md) to help embed security behaviour change at a local level. These are an evidence-based intervention for creating behavioural change.
 
 ## Internal Engagement
 
