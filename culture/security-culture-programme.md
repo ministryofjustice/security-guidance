@@ -28,9 +28,9 @@ People Managers now have access to a [JML Toolkit](https://intranet.justice.gov.
 
 These are the foundation to any organisation’s security culture. A culture is built from day one - either actively, or passively. It is therefore essential to instil security messages as soon as somebody joins us. We also need our People Managers to ensure that MoJ’s security processes are followed for new joiners in their first week:
 
-1. Complete CSL’s Responsible for Information eLearning
+1. Complete CSL’s [Responsible for Information eLearning](https://civilservicelearning.civilservice.gov.uk/user/login?destination=node/498964)
 2. Watch the security induction video (this will be replaced by a new formal induction product on MyLearning later in 2021)
-3. Read Your Guide to Being Security Aware
+3. Read [Your Guide to Being Security Aware](https://intranet.justice.gov.uk/documents/2020/04/your-guide-to-being-security-aware.pdf)
 
 ### Leader’s Induction
 
