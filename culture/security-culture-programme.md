@@ -36,11 +36,11 @@ These are the foundation to any organisation’s security culture. A culture is 
 
 We have a Leader’s security induction, which is usually delivered on a 121 basis for new leaders / SCS (currently via MS teams). Please contact us if you would like to attend.
 
-## Awareness & Training
+### Awareness & Training
 
 There are a number of awareness and training sessions, and materials available for helping to improve our people’s security behaviours. These include monthly People Manager training and intranet Awareness Sessions - see Events.
 
-## Security Champion network
+## Security Champion Network
 
 We are building a network of security champions to help embed security behaviour change at a local level. These are an evidence-based intervention for creating behavioural change. [Find out how you can get involved](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-champions.md).
 
