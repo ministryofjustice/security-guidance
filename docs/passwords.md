@@ -45,19 +45,20 @@ When required to change a password, you must do so as soon as possible. If you d
 
 Some applications provide a mechanism for protecting files, for example by using a password to control whether someone can open, or edit, a file.
 
-While these app-based password protection mechanisms are better than nothing, there are two good reasons for avoiding them if possible.
+While these app-based password protection mechanisms are better than nothing, there are three good reasons for avoiding them if possible.
 
 1.  You depend on the application to provide and maintain strong password protection. If the password implementation fails, or has a weakness, you might not know about it. This means that you might think your information is protected, when in fact it is at risk.
 2.  It is tempting to use a standard password for protecting a file within the app, so that other people can share and work with the file. Changing the password becomes “inconvenient”. The result is that many versions of the data file are all protected with the same password. Also, if anyone has ever been given the password to access the file, they will always be able to access the file.
+3.  If you forget the app-based password, there might not be a recovery process available to you.
 
 For these reasons, MoJ advice is that you **SHOULD NOT** use password tools within an app to protect data files that are processed by the app. Instead, either:
 
--   Use separate encryption tools to protect data files, separate from the app that works with the data files.
--   Store the data files in a shared but secure area.
+1.  Store the data files in a shared but secure area, such as the MoJ SharePoint storage facility.
+2.  Use separate encryption tools to protect data files, separate from the app that works with the data files.
 
-Of these two options, storing data files in a shared but secure area is preferred. The reason is that you can add, modify, or revoke access permissions to the storage area easily.
+Of these two options, storing data files in a shared but secure area is strongly preferred. The reason is that you can add, modify, or revoke access permissions to the storage area easily.
 
-If you have no choice, and have to use app-based password protection, you **SHALL** ensure that the same password is not used indefinitely for a data file. The advice is that you **SHOULD** use a different password for:
+If you have no choice, and have to use app-based password protection, ensure that the same password is not used indefinitely for a data file. You **SHOULD** use a different password for:
 
 -   Each major version of a data file, for example version 2.x is different to version 3.x.
 -   Any data file where the password is more than three months old.
