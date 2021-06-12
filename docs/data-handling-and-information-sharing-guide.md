@@ -43,11 +43,7 @@ This section covers how data **SHALL** be handled on MoJ IT systems, this includ
 -   Data in transit.
 -   Data at rest.
 
-For the purposes of this guide, the term
-
-> sensitive
-
-data or information refers to data or information which attracts a handling caveat of `SENSITIVE`. See the [Information Classification and Handling Policy](information-classification-and-handling-policy.md) for further details.
+For the purposes of this guide, the term “sensitive” data or information refers to data or information which attracts a handling caveat of `SENSITIVE`. See the [Information Classification and Handling Policy](information-classification-and-handling-policy.md) for further details.
 
 ### Ownership of information
 

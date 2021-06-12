@@ -110,7 +110,7 @@
         <li>Data in transit.</li>
         <li>Data at rest.</li>
       </ul></p>
-      <p>For the purposes of this guide, the term <lq>sensitive</lq> data or
+      <p>For the purposes of this guide, the term <q>sensitive</q> data or
       information refers to data or information which attracts a handling caveat
       of <codeph>SENSITIVE</codeph>.
       <ph audience="audience-tech"> See the <xref
