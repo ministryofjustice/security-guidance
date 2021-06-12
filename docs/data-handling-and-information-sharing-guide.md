@@ -14,7 +14,7 @@ and
 
 > All staff handling sensitive government assets are briefed about how legislation \(particularly regarding Freedom of Information and Data Protection\) specifically relates to their role, including the potential disciplinary or criminal penalties that may result from failure to comply with security policies. Appropriate management structures must be in place to ensure the proper handling, control and \(if appropriate\) managed disclosure of sensitive assets.
 
-The policy on data handling and information sharing is covered in the [Information Classification and Handling Policy](information-classification-and-handling-policy.md), whilst this document sets out the MoJ guidance sharing information within the MoJ and externally with other Government departments and third parties.
+The policy on data handling and information sharing is covered in the [Information Classification and Handling Policy](information-classification-and-handling-policy.md), whilst this document sets out the MoJ guidance sharing information within the MoJ and externally with other Government departments and 3rd parties.
 
 **Note:** Other guidance might refer to information classified as being IL3 REST\*. This is an older classification standard. In general, IL3 REST\* is approximately equivalent to `OFFICIAL` with the `SENSITIVE` handling caveat, often written as `OFFICIAL-SENSITIVE`. While this approximate correspondance might be helpful, you should always review classification where older terms are used, to ensure that the correct current classification is used.
 
@@ -32,6 +32,10 @@ This guide is split into three sections:
 
 **Note:** This document provides guidance for handling and sharing of information and data up to and including `OFFICIAL` and `OFFICIAL-SENSITIVE`, or the older Impact Level \(IL\) 3. Where information attracts a high protective marking or IL, advice must be sought from the MoJ Operation Security Team \(OST\) and MoJ IT Security Officer \(ITSO\).
 
+### Demonstration of Compliance
+
+The [CESG Information Assurance Maturity Model \(IAMM\)](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) sets out the minimum maturity level Government departments should attain. Safeguarding data is captured as a basic requirement in Level 1 and the MoJ will need to demonstrate compliance against this requirement.
+
 ## Handling data on MoJ IT systems
 
 This section covers how data must be handled on MoJ IT systems, this includes both:
@@ -39,11 +43,7 @@ This section covers how data must be handled on MoJ IT systems, this includes bo
 -   Data in transit.
 -   Data at rest.
 
-For the purposes of this guide, the term 'sensitive' data or information refers to data or information which attracts a handling caveat of `SENSITIVE`. See the [Information Classification and Handling Policy](information-classification-and-handling-policy.md) for further details.
-
-### Demonstration of Compliance
-
-The [CESG Information Assurance Maturity Model \(IAMM\)](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) sets out the minimum maturity level Government departments should attain. Safeguarding data is captured as a basic requirement in Level 1 and the MoJ will need to demonstrate compliance against this requirement.
+For the purposes of this guide, the term 'sensitive' data or information refers to data or information which attracts a handling caveat of `SENSITIVE`.See the [Information Classification and Handling Policy](information-classification-and-handling-policy.md) for further details.
 
 ### Ownership of information
 
@@ -75,7 +75,7 @@ As these networks can support data up to and including `OFFICIAL-SENSITIVE`, a b
 
 -   The amount of data being transferred.
 -   Frequency.
--   Any “need-to-know” considerations. See the [Access Control Guide](access-control-guide.md) for further information.
+-   Any “need-to-know” considerations.See the [Access Control Guide](access-control-guide.md) for further information.
 
 Any additional controls must be captured on the DMF \(see [Data Movement Form](#data-movement-form-dmf) where advice should be obtained from the MoJ Chief Information Security Office \(CISO\) when required.
 
@@ -127,7 +127,7 @@ MoJ staff, including contractors and agency staff, must make sure they observe t
 -   Ensure that the confidentiality of the sensitive information is protected during transit, for example by encrypting the data.
 -   Ensure copies of sensitive information are not kept beyond when they are actually required, for example by keeping information "just in case" it might be needed in the future.
 
-All MoJ staff must avoid exposing sensitive data to unnecessary risks, in particular by observing all aspects of the MoJ [Acceptable Use Policy](acceptable-use-policy.md).
+All MoJ staff must avoid exposing sensitive data to unnecessary risks, in particular by observing all aspects of MoJ [Acceptable Use Policy](acceptable-use-policy.md).
 
 Authorisation must be sought from the IAO before sensitive information can be moved or shared with a 3rd party. The authorisation itself is captured within the [Data Movement Form](#data-movement-form-dmf). the following sub-sections provide guidance on particular types of information sharing common across the MoJ, and to help you complete a DMF.
 
@@ -206,38 +206,7 @@ The general rules for transmitting a password to a recipient are:
 -   Avoid detailing the purpose of a password when it is sent.
 -   Avoid re-using passwords and demonstrate good security discipline to 3rd parties by creating a completely new password or phrase for each transmission.
 
-### Best practices for everyone
-
-The MoJ password guidance follows [NCSC guidance](https://www.ncsc.gov.uk/guidance/using-passwords-protect-your-data). The NCSC recommends a [simpler](https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach) approach to passwords. Some agencies or bodies might have specific requirements or variations. Check your team Intranet or ask your Line Manager for more information.
-
-Follow the [CyberAware advice](https://www.cyberaware.gov.uk/passwords) to generate your passwords. Always use a separate and unique password for each account or service.
-
-The most important points to remember are that passwords should be:
-
--   At least 8 characters long.
--   No more than 128 characters long.
--   Not obvious.
--   Not a dictionary word. A combination of dictionary words might be suitable, such as “`CorrectHorseBatteryStaple`”.
--   Unique for each account or service.
-
-If a system or another person provides you with a password, change it before doing any MoJ work on that system. Examples of 'single-use' passwords include:
-
--   Your own account on a work-provided laptop.
--   A shared account for accessing a data analytics service.
--   All supplier or vendor supplied accounts.
-
-You must change a password whenever:
-
--   There has been a security incident involving your account or password. For example, someone guessed your password, or you used it on another account.
--   There was a security incident with the service that you access using the password. For example, if someone broke into the system that provides the service you use.
--   Your line manager or other authorised person tells you to do so.
-
-When required to change a password, you must do so as soon as possible. If you don't change the password soon enough, you might be locked out of your account automatically. The following table shows the maximum time allowed:
-
-|Type of system|Maximum time to change a password|
-|--------------|---------------------------------|
-|Single-user systems, such as laptops|1 week|
-|All other systems|1 day|
+More guidance on password best practices is [available](passwords.md).
 
 ## General enquiries, including theft and loss
 

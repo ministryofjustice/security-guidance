@@ -6,7 +6,7 @@
     <title>Introduction</title>
     <body>
       <p>This policy gives an overview of access control security principles and responsibilities within the <ph conref="conrefs.dita#conrefs/mojlong"/>.
-        It provides a summary of the <ph conref="conrefs.dita#conrefs/moj"/>'s related access management policies and guides.</p>
+        It provides a summary of the  policies and guides that apply to <ph conref="conrefs.dita#conrefs/moj"/> access management.</p>
       <p>To help identify formal policy statements,
         each is prefixed with an identifier of the form:
         <codeph>POLACPxxx</codeph>,
@@ -169,7 +169,7 @@
           System Designers and Administrators <ph conref="conrefs.dita#conrefs/policymust"/> use adequate authentication techniques
           to identify with confidence user access to their system or data,
           using the principle of <q>least privilege</q>.
-          See the guidance on <xref href="authorisation.dita" format="dita" scope="external">Authorisation</xref> for more detail.</p>
+          See the guidance on <xref href="authorisation.dita" format="dita">Authorisation</xref> for more detail.</p>
       </body>
     </topic>
     <topic id="secure-log-on-procedures">
@@ -185,13 +185,13 @@
               format="dita">Multi-user Accounts and Public-Facing Service Accounts</xref> guidance.</ph></li>
           <li audience="audience-tech"><codeph>POLACP012:</codeph> Front-end users accessing the <ph conref="conrefs.dita#conrefs/moj"/>'s public services
             <ph conref="conrefs.dita#conrefs/policymust"/> authenticate via the GOV.UK Verify Service.
-            See the <xref href="passwords.dita#user-facing-services" format="dita">User Facing Services</xref> guidance.</li>
+            See the <xref href="passwords.dita" format="dita">User Facing Services</xref> guidance.</li>
           <li><codeph>POLACP013:</codeph> System Designers for internal systems <ph conref="conrefs.dita#conrefs/policymust"/> use the <ph conref="conrefs.dita#conrefs/moj"/>'s
             single sign-on (SSO) solution to authenticate via an Identity and Access system.</li>
           <li><codeph>POLACP014:</codeph> Passwords <ph conref="conrefs.dita#conrefs/policymustnot"/> be stored or transmitted over the network in clear text,
             nor be protected with encryption that has known security weaknesses.
             <ph audience="audience-tech">See the
-              <xref href="password-management-guide.dita#software-developers-technical-architects-and-development-operations"
+              <xref href="password-management-guide.dita"
               format="dita">Password Management Guide</xref>.</ph></li>
         </ul></p>
       </body>
@@ -215,15 +215,15 @@
           <li><codeph>POLACP019:</codeph> Strong passwords,
             separate and unique for each account or service,
             <ph conref="conrefs.dita#conrefs/policymust"/> be created and maintained by all users.
-            See the <ph audience="audience-tech"><xref href="password-management-guide.dita#roles-and-responsibilities" format="dita">Password Management Guide Roles and Responsibilities section</xref>, </ph>
-              <xref href="passwords.dita#best-practices-for-everyone" format="dita">Passwords</xref> and
+            See the <ph audience="audience-tech"><xref href="password-management-guide.dita" format="dita">Password Management Guide, Roles and Responsibilities section</xref>, </ph>
+              <xref href="passwords.dita" format="dita">Passwords</xref> and
               <xref href="https://www.ncsc.gov.uk/cyberaware/home#action-2" format="html" scope="external">CyberAware advice</xref>.</li>
           <li><codeph>POLACP020:</codeph> Users <ph conref="conrefs.dita#conrefs/policymust"/> change a password initially received by a system or support team
             before carrying out <ph conref="conrefs.dita#conrefs/moj"/> tasks.
-            See <xref href="passwords.dita#best-practices-for-everyone" format="dita">Passwords</xref>.</li>
+            See <xref href="passwords.dita" format="dita">Passwords</xref>.</li>
           <li><codeph>POLACP021:</codeph> Password history and blocking of commonly guessed passwords <ph conref="conrefs.dita#conrefs/policymust"/> be enabled in a system.
             <ph audience="audience-tech">See the
-              <xref href="password-creation-and-authentication-guide.dita#password-history-and-block-listing"
+              <xref href="password-creation-and-authentication-guide.dita"
               format="dita">Password Creation and Authentication Guide</xref>.</ph></li>
           <li>Regular password change is not required,
             as it is an <xref href="https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date" format="html"
@@ -231,7 +231,7 @@
           <li><codeph>POLACP022:</codeph> Password managers or vaults used at the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> align to
             industry standards to securely store and transmit passwords in a protected form.
             <ph audience="audience-tech">See <xref href="password-managers.dita" format="dita">Password Managers</xref> and
-            <xref href="password-storage-and-management-guide.dita#password-vaults-and-managers" format="dita">Password Vaults and
+            <xref href="password-storage-and-management-guide.dita" format="dita">Password Vaults and
               Managers</xref>.</ph></li>
         </ul></p>
         <note>Contact the <xref href="#contact-details" format="dita">Cyber Assistance Team</xref>
@@ -414,7 +414,7 @@
         <ul>
           <li><codeph>POLACP052:</codeph> User password management <ph conref="conrefs.dita#conrefs/policymust"/> be configured,
             so a password is changed after the initial log-on and invalid if not used in a specified time.
-            <ph audience="audience-tech">See the <xref href="passwords.dita#single-use-passwords" format="dita">Passwords</xref> guidance.</ph></li>
+            <ph audience="audience-tech">See the <xref href="passwords.dita" format="dita">Passwords</xref> guidance.</ph></li>
           <li><codeph>POLACP053:</codeph> System Administrators and systems <ph conref="conrefs.dita#conrefs/policymust"/> never send passwords by email,
             as it is an unsecured channel.
             <p><codeph>POLACP054:</codeph> Instead,

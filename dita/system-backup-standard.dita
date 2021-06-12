@@ -10,12 +10,8 @@
       <p>The <xref href="system-backup-policy.dita" format="dita">IT Security - System Backup Policy</xref> describes the mandatory requirements that system backup meets.</p>
       <p>This document provides standards and details of the tasks, configurations, and processes required for an IT system backup to comply with the policy, including:</p>
       <ul>
-        <li>
-          <p>how backups are managed</p>
-        </li>
-        <li>
-          <p>the process for backing up</p>
-        </li>
+        <li>how backups are managed</li>
+        <li>the process for backing up</li>
       </ul>
       <p>For an overview of backup concepts, and why backup is important for the <ph conref="conrefs.dita#conrefs/moj"/>, see the <xref href="system-backup-guidance.dita" format="dita">IT Security - System Backup Guide</xref>.</p>
       <p>For details of what backups must do, see the <xref href="#system-backup-requirements" format="dita">System backup requirements</xref> section.</p>
@@ -27,27 +23,13 @@
     <body>
       <p>Each system requires:</p>
       <ul>
-        <li>
-          <p>a backup schedule that describes the frequency and kind of backup for the system</p>
-        </li>
-        <li>
-          <p>a retention schedule that describes how long a backup must be kept, to enable system recovery</p>
-        </li>
-        <li>
-          <p>an archive schedule that describes how long a particular backup should be kept after it is no longer required for recovery purposes, but is still retained to comply with the <ph conref="conrefs.dita#conrefs/moj"/> Data Retention requirements or other legal needs</p>
-        </li>
-        <li>
-          <p>a process for deleting or disposing of a backup if it is no longer required for recovery or retention purposes</p>
-        </li>
-        <li>
-          <p>a process for recovering or restoring some or all data or other backed-up information to a known point-in-time</p>
-        </li>
-        <li>
-          <p>information so that users understand how data can be restored for the system, if required</p>
-        </li>
-        <li>
-          <p>a process for users to request data recovery or restoration, subject to business requirements</p>
-        </li>
+        <li>a backup schedule that describes the frequency and kind of backup for the system</li>
+        <li>a retention schedule that describes how long a backup must be kept, to enable system recovery</li>
+        <li>an archive schedule that describes how long a particular backup should be kept after it is no longer required for recovery purposes, but is still retained to comply with the <ph conref="conrefs.dita#conrefs/moj"/> Data Retention requirements or other legal needs</li>
+        <li>a process for deleting or disposing of a backup if it is no longer required for recovery or retention purposes</li>
+        <li>a process for recovering or restoring some or all data or other backed-up information to a known point-in-time</li>
+        <li>information so that users understand how data can be restored for the system, if required</li>
+        <li>a process for users to request data recovery or restoration, subject to business requirements</li>
       </ul>
     </body>
   </topic>
@@ -56,18 +38,10 @@
     <body>
       <p>This section of the standard describes the main requirements for system backups. It must be possible to:</p>
       <ul>
-        <li>
-          <p>take backups</p>
-        </li>
-        <li>
-          <p>test backups</p>
-        </li>
-        <li>
-          <p>retain and restore backups as required</p>
-        </li>
-        <li>
-          <p>maintain a library of backup archives</p>
-        </li>
+        <li>take backups</li>
+        <li>test backups</li>
+        <li>retain and restore backups as required</li>
+        <li>maintain a library of backup archives</li>
       </ul>
     </body>
     <topic id="general-requirements">
@@ -75,21 +49,11 @@
       <body>
         <p>Systems backups should be:</p>
         <ul>
-          <li>
-            <p>proportionate to the need</p>
-          </li>
-          <li>
-            <p>taken on a regular basis</p>
-          </li>
-          <li>
-            <p>tested regularly to help guarantee reliable restoration of any required data</p>
-          </li>
-          <li>
-            <p>stored safely and ready for restoration when required, for example during a disaster event</p>
-          </li>
-          <li>
-            <p>recorded in a log, detailing what data was backed up, and when</p>
-          </li>
+          <li>proportionate to the need</li>
+          <li>taken on a regular basis</li>
+          <li>tested regularly to help guarantee reliable restoration of any required data</li>
+          <li>stored safely and ready for restoration when required, for example during a disaster event</li>
+          <li>recorded in a log, detailing what data was backed up, and when</li>
         </ul>
         <p>The amount of data backed up from the system is the 'extent', and how often the data is backed up is the 'frequency'. The extent and frequency of backups must be such that the <ph conref="conrefs.dita#conrefs/moj"/> is able to tolerate non-availability of the data if becomes unavailable and must be restored.</p>
         <p>For any information asset, an assessment should be performed to determine if recovery is required, and if so whether using a backup is an appropriate and sufficient mechanism.</p>
@@ -132,45 +96,21 @@
         <p>The RPO and RTO values for a specific system are determined in the system's Business Impact Assessment (BIA) and Business Continuity Plan (BCP).</p>
         <p>System backup schedule checklist:</p>
         <ol>
-          <li>
-            <p>Determine the extent of data that must be backed up.</p>
-          </li>
-          <li>
-            <p>Determine the RPO for the system.</p>
-          </li>
-          <li>
-            <p>Determine the RTO for the system.</p>
-          </li>
-          <li>
-            <p>Calculate backup frequency using the RPO value. The time between backups must be less than the RPO value.</p>
-          </li>
-          <li>
-            <p>Decide the configuration of full and incremental backups. The configuration should be such that the time required for a complete recovery is less than the RTO. Remember to allow time for deciding to do a restore, and retrieving off-site backups if required.</p>
-          </li>
-          <li>
-            <p>Confirm that the schedule includes backups suitable for <xref href="#archive-schedules" format="html">archiving purposes</xref>.</p>
-          </li>
-          <li>
-            <p>For each of the types of <xref href="#recovery-testing" format="dita">backup testing</xref> required, include process details.</p>
-          </li>
-          <li>
-            <p>Identify storage requirements for backups and archives, and processes for storing and retrieving them.</p>
-          </li>
-          <li>
-            <p>Identify the process for logging details of each and every backup.</p>
-          </li>
+          <li>Determine the extent of data that must be backed up.</li>
+          <li>Determine the RPO for the system.</li>
+          <li>Determine the RTO for the system.</li>
+          <li>Calculate backup frequency using the RPO value. The time between backups must be less than the RPO value.</li>
+          <li>Decide the configuration of full and incremental backups. The configuration should be such that the time required for a complete recovery is less than the RTO. Remember to allow time for deciding to do a restore, and retrieving off-site backups if required.</li>
+          <li>Confirm that the schedule includes backups suitable for <xref href="#archive-schedules" format="html">archiving purposes</xref>.</li>
+          <li audience="audience-suppliers audience-tech">For each of the types of <xref href="#recovery-testing" format="dita">backup testing</xref> required, include process details.</li>
+          <li>Identify storage requirements for backups and archives, and processes for storing and retrieving them.</li>
+          <li>Identify the process for logging details of each and every backup.</li>
         </ol>
         <p>In summary, the backup schedule for the system provides the following details:</p>
         <ul>
-          <li>
-            <p>the extent and frequency of backup</p>
-          </li>
-          <li>
-            <p>testing processes, including their frequency and record keeping</p>
-          </li>
-          <li>
-            <p>storage details, including logging, specifications and processes</p>
-          </li>
+          <li>the extent and frequency of backup</li>
+          <li>testing processes, including their frequency and record keeping</li>
+          <li>storage details, including logging, specifications and processes</li>
         </ul>
       </body>
     </topic>
@@ -227,24 +167,12 @@
           <p>The backup retention period should never be shorter than the schedule requires. If the available technology cannot support the prescribed backup retention period, then an exception must be sought and documented in the relevant system Risk Management and Accreditation Document Set (RMADS).</p>
           <p>Retention schedule checklist:</p>
           <ol>
-            <li>
-              <p>Is a retention period defined in the system BIA or BCP? If not, identify the kind of data backed up by the system. Use this to determine the default retention period based on the table above.</p>
-            </li>
-            <li>
-              <p>If multiple data types are backed up, use the longest applicable retention schedule.</p>
-            </li>
-            <li>
-              <p>If you cannot determine or implement the retention period, seek guidance or an exception through the RMADS for the system.</p>
-            </li>
-            <li>
-              <p>Detail the retention period, and the process for moving backups into and out of the retention state.</p>
-            </li>
-            <li>
-              <p>Provide a process for testing each of the backups.</p>
-            </li>
-            <li>
-              <p>Provide a process for recovering a complete set of data using any retention backup.</p>
-            </li>
+            <li>Is a retention period defined in the system BIA or BCP? If not, identify the kind of data backed up by the system. Use this to determine the default retention period based on the table above.</li>
+            <li>If multiple data types are backed up, use the longest applicable retention schedule.</li>
+            <li>If you cannot determine or implement the retention period, seek guidance or an exception through the RMADS for the system.</li>
+            <li>Detail the retention period, and the process for moving backups into and out of the retention state.</li>
+            <li>Provide a process for testing each of the backups.</li>
+            <li>Provide a process for recovering a complete set of data using any retention backup.</li>
           </ol>
         </body>
       </topic>
@@ -254,30 +182,16 @@
           <p>As described in the <xref href="#retention-schedules" format="dita">retention schedule requirement</xref>, backups might be kept beyond the retention period in order to comply with an additional retention requirement. Backups for this purpose are archive backups.</p>
           <p>Depending on the nature of the extended retention requirement, it might be possible to satisfy the need in one of the following ways:</p>
           <ul>
-            <li>
-              <p>keeping the existing backups unchanged</p>
-            </li>
-            <li>
-              <p>using a combination of full and incremental backups</p>
-            </li>
-            <li>
-              <p>condensing the existing backups into archives of full backups</p>
-            </li>
+            <li>keeping the existing backups unchanged</li>
+            <li>using a combination of full and incremental backups</li>
+            <li>condensing the existing backups into archives of full backups</li>
           </ul>
           <p>A  backup suitable for archive purposes has the following characteristics:</p>
           <ul>
-            <li>
-              <p>it is already stored on physical media, or is converted accurately and without loss onto physical media</p>
-            </li>
-            <li>
-              <p>the physical media will not degrade during the archive period</p>
-            </li>
-            <li>
-              <p>the media is stored in an offline environment that is either on-site or off-site</p>
-            </li>
-            <li>
-              <p>the backup contains all the data required to meet all the retention obligations</p>
-            </li>
+            <li>it is already stored on physical media, or is converted accurately and without loss onto physical media</li>
+            <li>the physical media will not degrade during the archive period</li>
+            <li>the media is stored in an offline environment that is either on-site or off-site</li>
+            <li>the backup contains all the data required to meet all the retention obligations</li>
           </ul>
         </body>
         <topic id="creating-an-archive-schedule">
@@ -287,18 +201,10 @@
             <p>The <xref href="#retention-schedules" format="dita">data retention schedule</xref> for a system determines what the archive schedule is, and therefore how long an archive backup must be retained. More help on managing information is available <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/" format="html" scope="external">here</xref>.</p>
             <p>Archive schedule checklist:</p>
             <ol>
-              <li>
-                <p>If an archive process is defined in the system BIA or BCP, use it.</p>
-              </li>
-              <li>
-                <p>Detail the process for moving backups into and out of the archive state.</p>
-              </li>
-              <li>
-                <p>Provide a process for testing each of the backups.</p>
-              </li>
-              <li>
-                <p>Provide a process for recovering a complete set of data using any archive backup.</p>
-              </li>
+              <li>If an archive process is defined in the system BIA or BCP, use it.</li>
+              <li>Detail the process for moving backups into and out of the archive state.</li>
+              <li>Provide a process for testing each of the backups.</li>
+              <li>Provide a process for recovering a complete set of data using any archive backup.</li>
             </ol>
           </body>
         </topic>
@@ -314,27 +220,13 @@
         <body>
           <p>The manager of a system, or their nominated deputy, is responsible for assuring that:</p>
           <ul>
-            <li>
-              <p>all backups complete successfully</p>
-            </li>
-            <li>
-              <p>the log files for completed backups are checked, to confirm that the correct data was backed up</p>
-            </li>
-            <li>
-              <p>the register of system backups is updated and maintained</p>
-            </li>
-            <li>
-              <p>any backup medium used is replaced as required for example because of failure or reaching end-of-life</p>
-            </li>
-            <li>
-              <p>backup schedules are maintained</p>
-            </li>
-            <li>
-              <p>any backup failures occurring twice or more in succession are recorded, investigated, and resolved</p>
-            </li>
-            <li>
-              <p>the decision regarding when to try a failed backup again is documented: as soon as possible, or by waiting until the next scheduled backup task</p>
-            </li>
+            <li>all backups complete successfully</li>
+            <li>the log files for completed backups are checked, to confirm that the correct data was backed up</li>
+            <li>the register of system backups is updated and maintained</li>
+            <li>any backup medium used is replaced as required for example because of failure or reaching end-of-life</li>
+            <li>backup schedules are maintained</li>
+            <li>any backup failures occurring twice or more in succession are recorded, investigated, and resolved</li>
+            <li>the decision regarding when to try a failed backup again is documented: as soon as possible, or by waiting until the next scheduled backup task</li>
           </ul>
         </body>
       </topic>
@@ -345,29 +237,19 @@
           <p>Some backups contain highly sensitive material. In addition to the security used to protect the backup media, think about encrypting the backup data itself. This should be assessed for each instance during the <xref href="infrastructure-system-accreditation.dita" format="dita">system accreditation process</xref>. Backup encryption is done in several ways; the method chosen and used should be described in the SyOPs.</p>
         </body>
       </topic>
-      <topic id="recovery-testing">
+      <topic id="recovery-testing" audience="audience-suppliers audience-tech">
         <title>Recovery Testing</title>
         <body>
           <p>Backups are of little value if the data cannot be restored. It is essential that regular disaster recovery testing takes place, to guarantee that system backup processes are working correctly. In particular, verify that:</p>
           <ul>
-            <li>
-              <p>the correct data are being backed up</p>
-            </li>
-            <li>
-              <p>backed-up data are recoverable</p>
-            </li>
+            <li>the correct data are being backed up</li>
+            <li>backed-up data are recoverable</li>
           </ul>
           <p>Testing can be done in three ways:</p>
           <ol>
-            <li>
-              <p>A simple read only test is performed on the backup data, to ensure that all the data can be read without error or omission. This checks that it is possible for a recovery process to have access to all the required backup data.</p>
-            </li>
-            <li>
-              <p>A specific server or system recovery test is performed, normally taking place on-site. The test usually requires the recovery of some or all the data to a proxy system, separate from the original server. This check ensures that the data required for a complete system recovery is available.</p>
-            </li>
-            <li>
-              <p>A scenario-based test is performed, normally taking place off-site.  This is a more comprehensive test, where a full system restore is done using an off-site non-live environment. This approach is ideal for testing various disaster recovery scenarios such as complete loss of access to the original system that was backed up.</p>
-            </li>
+            <li>A simple read only test is performed on the backup data, to ensure that all the data can be read without error or omission. This checks that it is possible for a recovery process to have access to all the required backup data.</li>
+            <li>A specific server or system recovery test is performed, normally taking place on-site. The test usually requires the recovery of some or all the data to a proxy system, separate from the original server. This check ensures that the data required for a complete system recovery is available.</li>
+            <li>A scenario-based test is performed, normally taking place off-site.  This is a more comprehensive test, where a full system restore is done using an off-site non-live environment. This approach is ideal for testing various disaster recovery scenarios such as complete loss of access to the original system that was backed up.</li>
           </ol>
           <p>The testing method used, and how often it is applied, is part of the IT Disaster Recovery plan and testing regime for the system. More information is in the <xref href="it-disaster-recovery-plan-and-process-guide.dita" format="dita">IT Security - IT Disaster Recovery Plan and Process Guide</xref>.</p>
         </body>
@@ -384,12 +266,8 @@
         <body>
           <p>Physical media that contains backup data must be stored securely, either:</p>
           <ul>
-            <li>
-              <p>onsite, where the media is stored in a secure place that is geographically close to where the backed-up system is located</p>
-            </li>
-            <li>
-              <p>offsite, where the media is stored in a secure place that is geographically remote from the backed-up system</p>
-            </li>
+            <li>onsite, where the media is stored in a secure place that is geographically close to where the backed-up system is located</li>
+            <li>offsite, where the media is stored in a secure place that is geographically remote from the backed-up system</li>
           </ul>
           <p>The storage site must meet both location and retrieval requirements of the Disaster Recovery Team.</p>
           <p>The technical, physical and procedural security controls for storing backup media must meet or exceed the requirements for the highest protective marking of the backed up information. In other words, even if just one part of the backup data are classified as <codeph>SECRET</codeph>, then the entire backup medium must be protected to meet <codeph>SECRET</codeph> requirements.</p>
@@ -404,30 +282,14 @@
           <p>If a single backup medium, such as a solid-state storage device, is used to hold several backups, each unique media and job ID must be recorded and associated with the hardware device in the relevant configuration management database (CMDB).</p>
           <p>All of the following details must be recorded in the system backup register, for each unique media and job ID:</p>
           <ul>
-            <li>
-              <p>System name and any server names</p>
-            </li>
-            <li>
-              <p>Protective Marking for the media</p>
-            </li>
-            <li>
-              <p>Creation date, or date last written, using the format <codeph>DD-MM-YYYY</codeph></p>
-            </li>
-            <li>
-              <p>End date for retaining or archiving the data, using the format <codeph>DD-MM-YYYY</codeph></p>
-            </li>
-            <li>
-              <p>Name of the system manager</p>
-            </li>
-            <li>
-              <p>Name of the Information Asset Owner (IAO)</p>
-            </li>
-            <li>
-              <p>Backup status, summarising the schedule details and kind of backup, for example Daily Incremental, Weekly Full, or Archive Full</p>
-            </li>
-            <li>
-              <p>Outcome status, set to <codeph>Yes</codeph> indicating that the backup was successful, or <codeph>No</codeph> if the backup failed</p>
-            </li>
+            <li>System name and any server names</li>
+            <li>Protective Marking for the media</li>
+            <li>Creation date, or date last written, using the format <codeph>DD-MM-YYYY</codeph></li>
+            <li>End date for retaining or archiving the data, using the format <codeph>DD-MM-YYYY</codeph></li>
+            <li>Name of the system manager</li>
+            <li>Name of the Information Asset Owner (IAO)</li>
+            <li>Backup status, summarising the schedule details and kind of backup, for example Daily Incremental, Weekly Full, or Archive Full</li>
+            <li>Outcome status, set to <codeph>Yes</codeph> indicating that the backup was successful, or <codeph>No</codeph> if the backup failed</li>
           </ul>
         </body>
       </topic>

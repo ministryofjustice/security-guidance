@@ -13,27 +13,20 @@
     <topic id="introduction">
       <title>Introduction</title>
       <body>
-        <p>The <ph conref="conrefs.dita#conrefs/gov007"/> identifies mandatory
-        requirements about the value and classification of information assets.
-          To comply with these requirements, the <ph conref="conrefs.dita#conrefs/moj"/>
-          needs to ensure that:
-          <lq>Where information is shared for business purposes,
-            departments and agencies must ensure the receiving party understands
-            the obligations and protects the assets appropriately.</lq>
-          and
-          <lq>All staff handling sensitive government assets are briefed about how
-            legislation (particularly regarding Freedom of Information and Data
-            Protection) specifically relates to their role, including the potential
-            disciplinary or criminal penalties that may result from failure to comply with security policies.
-            Appropriate management structures must be in place to ensure the proper
-            handling, control and (if appropriate) managed disclosure of sensitive
-            assets.</lq></p>
+        <p>The <ph conref="conrefs.dita#conrefs/gov007"/> identifies mandatory requirements about the value and classification of information assets.
+          To comply with these requirements, the <ph conref="conrefs.dita#conrefs/moj"/> needs to ensure that:
+        <lq>Where information is shared for business purposes,
+          departments and agencies must ensure the receiving party understands the obligations and protects the assets appropriately.</lq>
+        and
+        <lq>All staff handling sensitive government assets are briefed about how legislation (particularly regarding Freedom of Information and Data Protection) specifically relates to their role, including the potential disciplinary or criminal penalties that may result from failure to comply with security policies.
+          Appropriate management structures must be in place to ensure the proper handling, control and (if appropriate) managed disclosure of sensitive assets.</lq></p>
         <p>The policy on data handling and information sharing is covered in the
           <xref href="information-classification-and-handling-policy.dita"
-          format="dita">Information Classification and Handling Policy</xref>,
-          whilst this document sets out the <ph conref="conrefs.dita#conrefs/moj"/>
-          guidance sharing information within the <ph conref="conrefs.dita#conrefs/moj"/>
-          and externally with other Government departments and third parties.</p>
+            format="dita" audience="audience-suppliers audience-tech">Information
+            Classification and Handling Policy</xref><ph
+            audience="audience-basic">Information Classification and Handling
+            Policy</ph>,
+            whilst this document sets out the <ph conref="conrefs.dita#conrefs/moj"/> guidance sharing information within the <ph conref="conrefs.dita#conrefs/moj"/> and externally with other Government departments and 3rd parties.</p>
         <note>Other guidance might refer to information classified as being IL3 REST*.
         This is an older classification standard.
         In general,
@@ -69,9 +62,14 @@
           information and data up to and including <codeph>OFFICIAL</codeph> and
           <codeph>OFFICIAL-SENSITIVE</codeph>, or the older Impact Level (IL) 3.
           Where information attracts a high protective marking or IL,
-          advice must be sought from the <ph conref="conrefs.dita#conrefs/moj"/>
-          Operation Security Team (OST) and <ph conref="conrefs.dita#conrefs/moj"/>
-          IT Security Officer (ITSO).</note>
+          advice must be sought from the <ph conref="conrefs.dita#conrefs/moj"/> Operation Security Team (OST) and <ph conref="conrefs.dita#conrefs/moj"/> IT Security Officer (ITSO).</note>
+      </body>
+    </topic>
+    <topic id="demonstration-of-compliance" audience="audience-tech">
+      <title>Demonstration of Compliance</title>
+      <body>
+        <p>The <xref href="https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40" format="html" scope="external">CESG Information Assurance Maturity Model (IAMM)</xref> sets out the minimum maturity level Government departments should attain.
+          Safeguarding data is captured as a basic requirement in Level 1 and the <ph conref="conrefs.dita#conrefs/moj"/> will need to demonstrate compliance against this requirement.</p>
       </body>
     </topic>
   </topic>
@@ -84,25 +82,8 @@
         <li>Data in transit.</li>
         <li>Data at rest.</li>
       </ul></p>
-      <p>For the purposes of this guide, the term 'sensitive' data or information
-        refers to data or information which attracts a handling caveat of
-        <codeph>SENSITIVE</codeph>.
-        See the <xref href="information-classification-and-handling-policy.dita"
-        format="dita">Information Classification and Handling Policy</xref> for
-        further details.</p>
+      <p>For the purposes of this guide, the term 'sensitive' data or information refers to data or information which attracts a handling caveat of <codeph>SENSITIVE</codeph>.<ph  audience="audience-tech"> See the <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref> for further details.</ph></p>
     </body>
-    <topic id="demonstration-of-compliance">
-      <title>Demonstration of Compliance</title>
-      <body>
-        <p>The <xref href="https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40"
-          format="html" scope="external">CESG Information Assurance Maturity Model
-          (IAMM)</xref> sets out the minimum maturity level Government departments
-          should attain.
-          Safeguarding data is captured as a basic requirement in Level 1 and the
-          <ph conref="conrefs.dita#conrefs/moj"/> will need to demonstrate
-          compliance against this requirement.</p>
-      </body>
-    </topic>
     <topic id="ownership-of-information">
       <title>Ownership of information</title>
       <body>
@@ -163,9 +144,8 @@
             <ul>
               <li>The amount of data being transferred.</li>
               <li>Frequency.</li>
-              <li>Any <q>need-to-know</q> considerations.
-              See the <xref href="access-control-guide.dita" format="dita">Access
-              Control Guide</xref> for further information.</li>
+              <li>Any <q>need-to-know</q> considerations.<ph audience="audience-suppliers audience-tech">
+              See the <xref href="access-control-guide.dita" format="dita">Access Control Guide</xref> for further information.</ph></li>
             </ul></p>
             <p>Any additional controls must be captured on the DMF (see
               <xref href="#data-movement-form-dmf" format="dita">Data Movement
@@ -285,19 +265,12 @@
             for example by keeping information "just in case" it might be needed
             in the future.</li>
         </ul></p>
-        <p>All <ph conref="conrefs.dita#conrefs/moj"/> staff must avoid exposing
-        sensitive data to unnecessary risks,
-          in particular by observing all aspects of the
-          <ph conref="conrefs.dita#conrefs/moj"/>
-          <xref href="acceptable-use-policy.dita" format="dita">Acceptable Use
-            Policy</xref>.</p>
-        <p>Authorisation must be sought from the IAO before sensitive information
-          can be moved or shared with a 3rd party.
-          The authorisation itself is captured within the
-          <xref href="#data-movement-form-dmf" format="dita">Data Movement
-            Form</xref>.
-          the following sub-sections provide guidance on particular types of
-          information sharing common across the <ph conref="conrefs.dita#conrefs/moj"/>,
+        <p>All <ph conref="conrefs.dita#conrefs/moj"/> staff must avoid exposing sensitive data to unnecessary risks,
+          in particular by observing all aspects of <ph conref="conrefs.dita#conrefs/moj"/> <xref href="acceptable-use-policy.dita" format="dita"
+          audience="audience-tech">Acceptable Use Policy</xref><xref href="acceptable-use.dita" format="dita" audience="audience-basic">Acceptable Use</xref>.</p>
+        <p>Authorisation must be sought from the IAO before sensitive information can be moved or shared with a 3rd party.
+          The authorisation itself is captured within the <xref href="#data-movement-form-dmf" format="dita">Data Movement Form</xref>.
+          the following sub-sections provide guidance on particular types of information sharing common across the <ph conref="conrefs.dita#conrefs/moj"/>,
           and to help you complete a DMF.</p>
       </body>
       <topic id="internally-within-the-moj">
@@ -501,8 +474,8 @@
           3rd parties by creating a completely new password or phrase for each
           transmission.</li>
       </ul></p>
+      <p>More guidance on password best practices is <xref href="passwords.dita" format="dita">available</xref>.</p>
     </body>
-    <topic id="self-generated-passwords" conref="passwords.dita#best-practices-for-everyone"><title/></topic>
   </topic>
   <topic id="reporting-data-loss" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title/></topic>
   <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
