@@ -48,8 +48,6 @@
 		<mkdir dir="${build}"/>
 		<!-- Create the docs directory structure used for publication -->
 		<mkdir dir="${docs}"/>
-		<!-- Create the Word docs directory structure used for sharing content -->
-		<mkdir dir="${worddocs}"/>
 	</target>
 
 	<target name="addLinkTarget">
@@ -120,15 +118,13 @@
 		<echo message="Converting file: ${theFile}"/>
 		<basename property="theFileName" file="${theFile}" suffix=".md"/>
 		<exec dir="${intranet}" executable="pandoc">
-			<arg line=" --from=markdown --to=docx ${theFileName}.md --output=${worddocs}/${theFileName}.docx"/>
+			<arg line=" --from=markdown --to=docx ${theFileName}.md --output=${intranet}/${theFileName}.docx"/>
 		</exec>
 	</target>
 
 	<target name="compile_word" depends="convertToWord"
 			description="compile Markdown into Word">
 		<echo message="Running on: ${os.name}"/>
-		<delete dir="${worddocs}"/>
-		<mkdir dir="${worddocs}"/>
 		<foreach target="convertToWord" param="theFile">
 			<path>
 				<fileset dir="${intranet}">
