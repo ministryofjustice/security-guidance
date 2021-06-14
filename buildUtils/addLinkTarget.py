@@ -38,18 +38,18 @@ for line in inFile:
         working = re.sub('[-]+', '-', working)
         # Convert to lowercase
         working = working.lower()
-        outFile.write("<a id=\""+working+"\"></a>\n")
+        outFile.write("<a id=\""+working+"\"></a>\n\n")
     # Now remove escaped brackets.
     working = line.replace("\(", "(")
     working = working.replace("\)", ")")
     # Remove hard-coded file prefix.
-    working = working.replace("file:///", "")
+    # working = working.replace("file:///", "")
     # Remove hard-coded intranet link.
-    working = working.replace("https://intranet.justice.gov.uk", "")
+    # working = working.replace("https://intranet.justice.gov.uk", "")
     # Remove spaces after markdown heading tag.
-    working = re.sub("^(?P<hashes>#+)\s+", "\g<hashes>", working)
+    # working = re.sub("^(?P<hashes>#+)\s+", "\g<hashes>", working)
     # Change bullet list indicator.
-    working = re.sub("^\-\s+", "* ", working)
+    # working = re.sub("^\-\s+", "* ", working)
     outFile.write(working)
 outFile.close
 inFile.close

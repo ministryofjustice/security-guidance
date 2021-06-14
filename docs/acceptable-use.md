@@ -56,7 +56,7 @@ Unacceptable use of IT might affect the MoJ in several ways, such as:
 
 Unacceptable use might also affect you, too:
 
--   Duspension of access, so that you cannot do your work.
+-   Suspension of access, so that you cannot do your work.
 -   Disciplinary proceedings, up to and including dismissal.
 -   Termination of contract for contractors and agency staff.
 
