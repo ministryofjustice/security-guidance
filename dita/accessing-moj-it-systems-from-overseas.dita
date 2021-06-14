@@ -23,24 +23,25 @@
 			<title>Part One</title>
 			<body>
 				<ol><li>Get confirmation from your Senior Line Manager that there is a business need for you to take <ph conref="conrefs.dita#conrefs/moj"/> equipment overseas and access <ph conref="conrefs.dita#conrefs/moj"/> services. Keep a note of the answers you get.</li>
-					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process if
+					<li>Proceed directly to <xref href="#part-two" format="dita" platform="github">Part Two</xref><ph platform="intranet">Part Two</ph> of this process below if
 						you are travelling to or passing through one of the following countries:
 						<lq>Argentina, Armenia, Azerbaijan, Belarus, China (including Hong Kong),
 								Egypt, Estonia, Georgia, India, Indonesia, Iran, Israel,
 								Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova,
 								the northern area of the Republic of Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey,
 								Turkmenistan, UAE, Ukraine, Uzbekistan.</lq></li>
-					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process if
+					<li>Proceed directly to <xref href="#part-two" format="dita" platform="github">Part Two</xref><ph platform="intranet">Part Two</ph> of this process below if
 						you are national security cleared to SC or DV levels.</li>
 					<li>If you are subject to STRAP briefing and intend to travel to or through countries not in Western Europe,
 						North America,
 						Australia,
 						or New Zealand,
-						proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process,
+						proceed directly to <xref href="#part-two" format="dita" platform="github">Part Two</xref><ph platform="intranet">Part Two</ph> of this process below,
 						and notify the STRAP team at <ph conref="conrefs.dita#conrefs/strapteamemail"/>.</li>
 					<li>If you have reached this step, you do not need to seek further formal approval for your trip.</li>
 					<li>Take a copy of this guidance; it includes useful contact details that help in the event of a problem while travelling.</li>
-					<li>Check if you need to do anything to prepare for <xref href="#international-roaming" format="dita">International Roaming</xref>.</li>
+					<li>Check if you need to do anything to prepare for <xref href="#international-roaming" format="dita" platform="github">International Roaming</xref><ph platform="intranet">International Roaming</ph>.
+					See the <xref href="#international-roaming" format="dita" platform="github">International Roaming</xref><ph platform="intranet">International Roaming</ph> section below.</li>
 				</ol>
 			</body>
 		</topic>
@@ -97,7 +98,8 @@
 					<li>When Operational Security have acknowledged receipt of the request and approvals,
 						the formal process is complete.</li>
 					<li>Check if you need to do anything to prepare
-						for <xref href="#international-roaming" format="dita">International Roaming</xref>.</li>
+						for <xref href="#international-roaming" format="dita" platform="github">International Roaming</xref><ph platform="intranet">International Roaming</ph>.
+						See the <xref href="#international-roaming" format="dita" platform="github">International Roaming</xref><ph platform="intranet">International Roaming</ph> section below.</li>
 					<li>Take a copy of this guidance;
 						it includes useful contact details that help in the event of a problem while travelling.</li>
 				</ol>
@@ -134,23 +136,25 @@
 	<topic id="if-you-have-any-problem-when-using-moj-equipment-overseas">
 		<title>If you have any problem when using <ph conref="conrefs.dita#conrefs/moj"/> equipment overseas</title>
 		<body>
-			<p>Contact the <xref href="#contacts" format="dita">Technology Service Desk</xref> immediately.
+			<p>Contact the <xref href="#contacts" format="dita" platform="github">Technology
+				Service Desk</xref><ph platform="intranet">Technology Service Desk</ph> immediately.
 				Tell them if the <ph conref="conrefs.dita#conrefs/moj"/> equipment is lost,
 				stolen or was potentially compromised.
 				This includes any time the equipment is deliberately removed out of your sight,
 				such as by a customs official.</p>
 			<p>If any security-related incident occurs overseas,
 				regardless of whether it involves <ph conref="conrefs.dita#conrefs/moj"/> equipment,
-				you should contact the <xref href="#contacts" format="dita">Operational Security Team</xref>
+				you should contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/>
 				as soon as possible.
-				See the guidance on
+				See the <xref href="#contacts" format="dita" platform="github">Contacts</xref><ph platform="intranet">Contacts</ph> section below,
+				and the guidance on
 				<xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/"
 				format="html" scope="external">Reporting a Security Incident</xref>
 				on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.
 				This includes information on reporting an incident outside of UK working hours.
 				For convenience,
 				the out-of-hours telephone number for reporting incidents is repeated
-				<xref href="#information-incident-reporting-line" format="dita">below</xref>.</p>
+				<xref href="#information-incident-reporting-line" format="dita" platform="github">below</xref><ph platform="intranet">in the Contacts section below</ph>.</p>
 			<p>If there is a problem with your <ph conref="conrefs.dita#conrefs/moj"/> equipment,
 				it might be necessary to disable your ability
 				to connect to the <ph conref="conrefs.dita#conrefs/moj"/> network or services from your device.
@@ -167,7 +171,7 @@
 			<ul>
 				<li><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita" platform="github">General advice on taking equipment overseas</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/accessing-moj-it-systems-overseas/taking-equipment-overseas/" format="html" scope="external" platform="intranet">Taking equipment overseas</xref></li>
 				<li><xref href="https://intranet.justice.gov.uk/guidance/security/travelling-abroad-business-or-personal/" format="html" scope="external">Overseas travel</xref></li>
-				<li><xref href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment" format="html" scope="external">Staff security and responsibilities – during employment</xref></li>
+				<li><xref href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment" format="html" scope="external">Staff security and responsibilities during employment</xref></li>
 			</ul>
 		</body>
 	</topic>
@@ -175,7 +179,7 @@
 		<title>External websites</title>
 		<body>
 			<ul>
-				<li><xref href="https://www.gov.uk/browse/abroad" format="html" scope="external">Foreign &amp; Commonwealth Office – travel &amp; living abroad</xref></li>
+				<li><xref href="https://www.gov.uk/browse/abroad" format="html" scope="external">Foreign and Commonwealth Office: travel and living abroad</xref></li>
 			</ul>
 		</body>
 	</topic>
