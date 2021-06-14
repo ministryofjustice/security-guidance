@@ -1,4 +1,4 @@
-#Locking and shutdown
+# Locking and shutdown
 
 The Ministry of Justice (MoJ) has made a commitment towards sustainable IT. The intentions are:
 
@@ -6,7 +6,8 @@ The Ministry of Justice (MoJ) has made a commitment towards sustainable IT. The 
 * To reduce the MoJ's overall carbon footprint.
 
 <a id="shutting-down-a-desktop-computer"></a>
-##Shutting down a desktop computer
+
+## Shutting down a desktop computer
 
 * Close all applications.
 * Shut down the computer by clicking the 'Start' button at the bottom left hand corner of the screen. Next, click 'Shut Down'.
@@ -14,19 +15,22 @@ The Ministry of Justice (MoJ) has made a commitment towards sustainable IT. The 
 * Switch off your monitor screen.
 
 <a id="the-benefits"></a>
-##The benefits
+
+## The benefits
 
 By switching off our computers at the end of each working day, we are contributing towards being energy efficient and environmentally friendly. We are all responsible for our own Carbon Footprint. So, please switch off your PC monitor along with your desktop computer at the end of each working day. In addition, please switch off any other PC monitors if you notice they too have been left on overnight.
 
 <a id="dealing-with-issues-preventing-you-from-switching-off-your-computer"></a>
-##Dealing with issues preventing you from switching off your computer
+
+## Dealing with issues preventing you from switching off your computer
 
 If there are any issues preventing you from switching off your desktop computer overnight, then please raise this with the [IT Service Desk](#general-enquiries-including-theft-and-loss) immediately as there could be an underlying fault that needs resolving.
 
 If you require any further information regarding this policy, [ask for help](#contact-details).
 
 <a id="locking-your-computer-sessions"></a>
-##Locking your computer sessions
+
+## Locking your computer sessions
 
 Access to most computer systems is controlled by a user name and password. If you have the correct information, you are able to 'log in' or 'log on'. The user name identifies the user as a valid user of the system and the password authenticates that the user is who they say they are.
 
@@ -43,12 +47,14 @@ A simple and quick way to lock a Mac computer is:
 2.  To UNLOCK - move the mouse or press any key, then log in as normal.
 
 <a id="laptops"></a>
-##Laptops
+
+## Laptops
 
 All MoJ laptops have hard disk encryption installed. This protects the entire contents of a laptop's hard disk drive to prevent any data stored locally from being accessed in the event the laptop is either lost or stolen.
 
 <a id="laptop-incidents"></a>
-##Laptop incidents
+
+## Laptop incidents
 
 Investigations into security incidents indicate that a common reason for problems is where the correct security procedures are not being followed. For example, laptops are being left logged on overnight.
 
@@ -59,7 +65,8 @@ If a device is lost or stolen whilst the machine is in locked mode, the data on 
 Leaving the laptop in MoJ premises is not sufficient to guarantee the equipment's security. Laptop losses do sometimes occur within MoJ offices. There is a greater risk of data loss when a laptop is left partially logged on overnight, so you should always fully log off the laptop at the end of your working day.
 
 <a id="laptop-security"></a>
-##Laptop security
+
+## Laptop security
 
 * Switch off the machine completely at the end of each usage.
 * Do not attach the password to the machine or keep the password with the machine.
@@ -67,7 +74,8 @@ Leaving the laptop in MoJ premises is not sufficient to guarantee the equipment'
 If you need further assistance or information about this process, [ask for help](#contact-details).
 
 <a id="general-enquiries-including-theft-and-loss"></a>
-##General enquiries, including theft and loss
+
+## General enquiries, including theft and loss
 
 **Dom1/Quantum - Technology Service Desk**
 
@@ -86,12 +94,14 @@ If you need further assistance or information about this process, [ask for help]
 * Tel: 0203 334 0324
 
 <a id="contacts"></a>
-##Contacts
+
+## Contacts
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 <a id="feedback"></a>
-##Feedback
+
+## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

@@ -1,4 +1,4 @@
-#Line Manager approval
+# Line Manager approval
 
 This guidance applies to all staff and contractors who work for the Ministry of Justice (MoJ).
 
@@ -12,7 +12,8 @@ Examples include:
 This guidance describes what you should do. The guidance contains steps to follow for [Line Managers](#steps-to-follow-line-managers), and their [Direct Reports](#steps-to-follow-direct-reports).
 
 <a id="steps-to-follow-\(line-managers\)"></a>
-##Steps to follow (Line Managers)
+
+## Steps to follow (Line Managers)
 
 **Note:** If at any time you need help about this process, or the applicable MoJ IT Policies, just ask: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
@@ -27,7 +28,8 @@ This guidance describes what you should do. The guidance contains steps to follo
 9.  Some MoJ IT Policies need a copy of formal approval for other parties. For example, before your DR travels to some countries on MoJ business, send a copy of your approval to Operational Security: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk).
 
 <a id="steps-to-follow-\(direct-reports\)"></a>
-##Steps to follow (Direct Reports)
+
+## Steps to follow (Direct Reports)
 
 **Note:** If at any time you need help about this process, or the applicable MoJ IT Policies, just ask: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
@@ -45,12 +47,14 @@ This guidance describes what you should do. The guidance contains steps to follo
 8.  If your request is denied, check that you understand the reasons. Use this understanding to tackle your business task again, if appropriate.
 
 <a id="contacts"></a>
-##Contacts
+
+## Contacts
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 <a id="feedback"></a>
-##Feedback
+
+## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

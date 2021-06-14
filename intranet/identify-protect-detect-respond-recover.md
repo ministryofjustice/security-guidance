@@ -1,16 +1,18 @@
-#IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER
+# IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER
 
 The Ministry of Justice (MoJ) is required to adhere (but prefers to exceed) to the [Minimum Cyber Security Standard (MCSS)](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard).
 
 <a id="the-standard"></a>
-##The Standard
+
+## The Standard
 
 The [UK HMG Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework) mandates protective security outcomes that the MoJ must achieve (and suppliers to MoJ, where they process MoJ data/information).
 
 More information is available from [https://www.gov.uk/government/publications/the-minimum-cyber-security-standard.](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard.)
 
 <a id="identify"></a>
-###IDENTIFY
+
+## IDENTIFY
 
 IDENTIFY is a prerequisite standard that requires:
 
@@ -22,7 +24,8 @@ IDENTIFY is a prerequisite standard that requires:
 
 
 <a id="protect"></a>
-###PROTECT
+
+## PROTECT
 
 PROTECT is the core standard to provide fundamentally defences to information and requires:
 
@@ -34,7 +37,8 @@ PROTECT is the core standard to provide fundamentally defences to information an
 
 
 <a id="detect"></a>
-###DETECT
+
+## DETECT
 
 DETECT is the core standard to detect when attacks are taking, or have taken, place and requires:
 
@@ -48,7 +52,8 @@ DETECT is the core standard to detect when attacks are taking, or have taken, pl
 
 
 <a id="respond"></a>
-###RESPOND
+
+## RESPOND
 
 RESPOND is the core standard to define the minimum of how organisations should respond to attacks and requires:
 
@@ -64,7 +69,8 @@ RESPOND is the core standard to define the minimum of how organisations should r
 
 
 <a id="recover"></a>
-###RECOVER
+
+## RECOVER
 
 RECOVER is the core standard to define the minimum of how organisations should recover from an attack once it has been considered closed, and requires:
 
@@ -76,12 +82,14 @@ RECOVER is the core standard to define the minimum of how organisations should r
 
 
 <a id="contacts"></a>
-##Contacts
+
+## Contacts
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 <a id="feedback"></a>
-##Feedback
+
+## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

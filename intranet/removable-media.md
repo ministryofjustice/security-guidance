@@ -1,9 +1,10 @@
-#Removable media
+# Removable media
 
 Any Ministry of Justice (MoJ) systems or removable storage media used for work purposes must be encrypted to MoJ security standards. Security encryption is a mandatory government measure, and one of the most important methods we have to protect MoJ information.
 
 <a id="what-is-removable-media"></a>
-##What is 'removable' media?
+
+## What is 'removable' media?
 
 Laptops and [USB memory sticks](#usb-memory-sticks) are the MoJ's most commonly used items of removable media. Removable storage media covers items available to users, such as USB memory sticks, writeable CDs/DVDs, floppy discs, and external hard drives.
 
@@ -12,7 +13,8 @@ Strictly speaking, magnetic tapes are also removable storage media, but it would
 MoJ security guidance specifies that USB memory sticks and other user-removable media should not be used to store departmental data. Only in exceptional circumstances, and where there is compelling business justification, should MoJ-approved USB sticks with device encryption be used.
 
 <a id="usb-memory-sticks"></a>
-##USB memory sticks
+
+## USB memory sticks
 
 This guidance is intended to ensure that MoJ data remains secure, and to mitigate the potential impact of lost data sticks.
 
@@ -31,22 +33,26 @@ This guidance is intended to ensure that MoJ data remains secure, and to mitigat
 If you need further assistance or information about this process, [ask](#contact-details).
 
 <a id="how-do-i-know-if-my-laptop-or-usb-stick-is-encrypted"></a>
-##How do I know if my laptop, or USB stick, is encrypted?
+
+## How do I know if my laptop, or USB stick, is encrypted?
 
 All equipment provided through the MoJ's recognised central procurement systems are encrypted and protected to MoJ security standards. You must use MoJ processes to obtain any equipment used for business purposes, including mobile computing devices and removable media.
 
 <a id="whats-expected-of-you"></a>
-##What's expected of you
+
+## What's expected of you
 
 Keeping MoJ information safe is everyone's responsibility. Anyone using portable computing equipment must take particular care to safeguard the equipment and the information stored on it. Failure to do so may result in disciplinary procedures.
 
 <a id="contacts"></a>
-##Contacts
+
+## Contacts
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 <a id="feedback"></a>
-##Feedback
+
+## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

@@ -43,13 +43,16 @@ for line in inFile:
     working = line.replace("\(", "(")
     working = working.replace("\)", ")")
     # Remove hard-coded file prefix.
-    # working = working.replace("file:///", "")
+    working = working.replace("file:///", "")
     # Remove hard-coded intranet link.
-    # working = working.replace("https://intranet.justice.gov.uk", "")
-    # Remove spaces after markdown heading tag.
+    working = working.replace("https://intranet.justice.gov.uk", "")
+    # Convert markdown heading tag to level 2 (always).
     # working = re.sub("^(?P<hashes>#+)\s+", "\g<hashes>", working)
+    # Best practice is to leave a space after the hashes:
+    #  https://www.markdownguide.org/basic-syntax#heading-best-practices
+    working = re.sub("^##+\s+", "## ", working)
     # Change bullet list indicator.
-    # working = re.sub("^\-\s+", "* ", working)
+    working = re.sub("^\-\s+", "* ", working)
     outFile.write(working)
 outFile.close
 inFile.close
