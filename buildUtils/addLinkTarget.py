@@ -38,10 +38,15 @@ for line in inFile:
         working = re.sub('[-]+', '-', working)
         # Convert to lowercase
         working = working.lower()
-        outFile.write("<a id=\""+working+"\"></a>\n\n")
+        # Add horizontal dash for Intranet compliance.
+        if working == "feedback":
+            outFile.write("---\n\n")
+        # outFile.write("<a id=\""+working+"\"></a>\n\n")
     # Now remove escaped brackets.
     working = line.replace("\(", "(")
     working = working.replace("\)", ")")
+    # Remove escaped angle-brackets.
+    working = working.replace("\>", ">")
     # Remove hard-coded file prefix.
     working = working.replace("file:///", "")
     # Remove hard-coded intranet link.
@@ -53,6 +58,8 @@ for line in inFile:
     working = re.sub("^##+\s+", "## ", working)
     # Change bullet list indicator.
     working = re.sub("^\-\s+", "* ", working)
+    # Change bullet sub-list indicator.
+    working = re.sub("^\s\s\s\s\-\s+", "    * ", working)
     outFile.write(working)
 outFile.close
 inFile.close

@@ -1,4 +1,4 @@
-# Clear Screen and Desk
+#Clear Screen and Desk
 
 Users shall comply with the following:
 
@@ -9,9 +9,7 @@ Users shall comply with the following:
 * Desktops and laptops should be shutdown if you expect to be away from them for more than half an hour.
 * Users shall log off or lock their computers when they leave the room.
 
-<a id="clear-desk"></a>
-
-## Clear Desk
+##Clear Desk
 
 Users shall comply with the following:
 
@@ -24,9 +22,9 @@ It is good practice to lock all rooms and office areas when they are not in use.
 
 Information left on desks is also more likely to be damaged or destroyed in a disaster such as fire or flood.
 
-<a id="feedback"></a>
+---
 
-## Feedback
+##Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

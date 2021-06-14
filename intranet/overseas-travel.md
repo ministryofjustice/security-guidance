@@ -1,4 +1,4 @@
-# Overseas travel
+#Overseas travel
 
 **If you are going on a work trip or holiday overseas and you need to take your MoJ IT devices, you must remain vigilant especially when visiting high risk countries.**
 
@@ -12,29 +12,21 @@ The [Overseas Travel Guide](/documents/2020/03/overseas-travel-guide.docx) provi
 
 Mobile roaming should be requested via the [Service-Now IT Catalogue](https://mojprod.service-now.com/moj_sp).
 
-<a id="documents"></a>
-
-## Documents
+##Documents
 
 * [Overseas Travel Guide](/documents/2020/03/overseas-travel-guide.docx)
 * [Overseas travel form](/documents/2020/03/overseas-travel-form.docx)
 * [Overseas working decision tree](/documents/2020/09/overseas-working-decision-tree.docx) – Step by step guide on how you can request to work remotely overseas during COVID-19
 
-<a id="related-pages"></a>
-
-## Related pages
+##Related pages
 
 * [Remote working – during COVID-19](/guidance/security/emergencies/coronavirus-guidance/security/remote-working/)
 
-<a id="external-websites"></a>
-
-## External websites
+##External websites
 
 * [FCO Foreign and Commonwealth Office](http://www.fco.gov.uk/en/travel-and-living-abroad)
 
-<a id="contacts"></a>
-
-## Contacts
+##Contacts
 
 * [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk)
 * [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk)

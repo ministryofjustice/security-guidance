@@ -1,10 +1,8 @@
-# Remote Working
+#Remote Working
 
 Remote working means you are working away from the office. This could be from home, at another MoJ or government office, whilst travelling, at a conference, or in a hotel.
 
-<a id="key-points"></a>
-
-## Key points
+##Key points
 
 * Be professional, and help keep Ministry of Justice (MoJ) information and resources safe and secure at all times.
 * Think about where you are working, for example - can other people or family see what you are working on? Be thoughtful about information privacy.
@@ -14,23 +12,17 @@ Remote working means you are working away from the office. This could be from ho
 * Do not leave MoJ equipment unattended.
 * Get in touch quickly to report problems or security questions.
 
-<a id="overview"></a>
-
-## Overview
+##Overview
 
 The Remote Working Guide gives you advice and guidance on the main security issues that are likely to affect you as a remote worker or a user of mobile computing facilities, (e.g. desktop/laptop computer, smart phones, etc), within the MoJ, including its Agencies and Associated Offices.
 
 It also sets out your individual responsibilities for IT security when working remotely.
 
-<a id="audience"></a>
-
-## Audience
+##Audience
 
 This guide applies to all staff in the MoJ, its Agencies, Associated Offices and Arm's Length Bodies (ALBs), including contractors, agency and casual staff and service providers, who use computing equipment provided by the Department for remote working or mobile computing, or process any departmental information while working remotely or while using MoJ mobile computing equipment.
 
-<a id="protecting-your-workspace-and-equipment"></a>
-
-## Protecting your workspace and equipment
+##Protecting your workspace and equipment
 
 Remote working is when you work from any non-MoJ location, for example, working at home. It's important to think about confidentiality, integrity and availability aspects as you work. This means protecting equipment, and the area where you work.
 
@@ -52,9 +44,7 @@ Remote working is when you work from any non-MoJ location, for example, working 
 * Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.
 * Send work material to your personal email address.
 
-<a id="working-securely"></a>
-
-## Working securely
+##Working securely
 
 It's important to consider the security of how you work remotely.
 
@@ -64,9 +54,7 @@ It's important to consider the security of how you work remotely.
 
 Even when working remotely, you must still follow the security policies and operating procedures for MoJ systems you access and work with.
 
-<a id="using-your-own-equipment"></a>
-
-## Using your own equipment
+##Using your own equipment
 
 The main guidance is available [here](/guidance/security/it-computer-security/using-a-personal-device/).
 
@@ -84,9 +72,7 @@ However, if you really must print MoJ information, you:
 
 Basically, think before you print.
 
-<a id="privacy"></a>
-
-## Privacy
+##Privacy
 
 It is important to protect privacy: yours and that of the MoJ. Events like the Covid-19 (Coronavirus) pandemic are often exploited by people wanting to get access to sensitive or valuable information. This often results in an increase in attempts to get access to personal information or MoJ accounts, using phishing and email scams. Be extra vigilant whenever you get an unexpected communication.
 
@@ -98,15 +84,11 @@ Guidance and suggestions for improving Privacy appear throughout this guide, but
 * Think about whether an unauthorised person, such as a family member, might see the information you are working with.
 * Don't write down passwords. Use a password manager.
 
-<a id="contacts-for-getting-help"></a>
-
-## Contacts for getting help
+##Contacts for getting help
 
 In practice, all sorts of things can go wrong from time-to-time. Don't be afraid to report incidents and issues; you will be creating a better and safer work environment.
 
-<a id="general-enquiries-including-theft-and-loss"></a>
-
-## General enquiries, including theft and loss
+##General enquiries, including theft and loss
 
 **Dom1/Quantum - Technology Service Desk**
 
@@ -124,9 +106,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 * Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
 * Tel: 0203 334 0324
 
-<a id="incidents"></a>
-
-## Incidents
+##Incidents
 
 **Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
 
@@ -135,9 +115,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 * Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
 * Slack: `#security`
 
-<a id="privacy-advice"></a>
-
-## Privacy Advice
+##Privacy Advice
 
 **Privacy Team**
 
@@ -145,18 +123,14 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 * Slack: `#securityprivacyteam`
 * Intranet: [/guidance/knowledge-information/protecting-information/](/guidance/knowledge-information/protecting-information/)
 
-<a id="cyber-security-advice"></a>
-
-## Cyber Security Advice
+##Cyber Security Advice
 
 **Cyber Consultants & Risk Advisors**
 
 * Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 * Slack: `#security`
 
-<a id="historic-paper-files-urgently-required-by-ministers-courts-or-public-inquiries"></a>
-
-## Historic paper files urgently required by ministers, courts, or Public Inquiries
+##Historic paper files urgently required by ministers, courts, or Public Inquiries
 
 **MoJ HQ staff**
 
@@ -166,15 +140,11 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 * Email: [BranstonRegistryRequests2@justice.gov.uk](mailto:BranstonRegistryRequests2@justice.gov.uk)
 
-<a id="juststore"></a>
-
-## JustStore
+##JustStore
 
 * Email: [KIM@justice.gov.uk](mailto:KIM@justice.gov.uk)
 
-<a id="related-information"></a>
-
-## Related information
+##Related information
 
 [NCSC Home working: preparing your organisation and staff](https://www.ncsc.gov.uk/guidance/home-working) [CPNI Home Working Advice](https://www.cpni.gov.uk/advice-home-working-0)
 
@@ -182,9 +152,9 @@ To access the following link, you'll need to be connected to the HMPPS Intranet.
 
 [HMPPS Advice](https://intranet.noms.gsi.gov.uk/support/information-policy-and-assurance/information-assurance)
 
-<a id="feedback"></a>
+---
 
-## Feedback
+##Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

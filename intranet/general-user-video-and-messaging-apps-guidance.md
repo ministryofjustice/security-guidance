@@ -1,12 +1,10 @@
-# Apps
+#Apps
 
 When working from home, you still need to communicate with Ministry of Justice (MoJ) colleagues. You'll also need to work with people outside the MoJ. There are various tools you might use, besides the standard email and telephone tools. This document tells you about the tools you can, and cannot, use for business purposes. This guidance applies to all staff and contractors who work for the MoJ.
 
 Some ALBs, Agencies, or other large groups within the MoJ might have their own, specific guidance regarding how to use certain Video and Messaging apps for different purposes.
 
-<a id="access-to-tools"></a>
-
-## Access to tools
+##Access to tools
 
 You can access tools that are provided through your MoJ provided devices by downloading from:
 
@@ -17,9 +15,7 @@ Currently, access to the tools mentioned in this document is not available from 
 
 For other MoJ provided devices, seek help from your Line Manager in the first instance.
 
-<a id="corporate-work-and-personal-accounts"></a>
-
-## Corporate, work and personal accounts
+##Corporate, work and personal accounts
 
 * A corporate account is for making official MoJ statements and providing official views. Only a small number of authorised people can use it.
 * A work account is your normal MoJ account, that you use every day for business as usual. Only you have access to your work account.
@@ -33,9 +29,7 @@ Always follow all [MoJ policies and guidelines](/documents/2015/11/social-media-
 
 In particular, follow the [Civil Service Code of Conduct](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code).
 
-<a id="using-video-conference-tools-safely"></a>
-
-## Using video conference tools safely
+##Using video conference tools safely
 
 The NCSC has excellent guidance on [using video conferencing services safely](https://www.ncsc.gov.uk/guidance/video-conferencing-services-using-them-securely).
 
@@ -51,21 +45,15 @@ Key things to remember for *every* call include:
 * Know who is joining the call, in particular check that everyone is known and expected to be present, and that people who have dialled in have identified themselves clearly and sufficiently.
 * Consider your surroundings, for example checking what can be seen behind you (forgetting to check information on a whiteboard or noticeboard is an easy mistake).
 
-<a id="moj-policy-and-guidance"></a>
+##MoJ Policy and guidance
 
-## MoJ Policy and guidance
-
-<a id="official-and-official-sensitive-information"></a>
-
-## `OFFICIAL` and `OFFICIAL-SENSITIVE` Information
+##`OFFICIAL` and `OFFICIAL-SENSITIVE` Information
 
 `OFFICIAL` information is the majority of information that is created or processed by the public sector. This includes routine business operations and services, some of which could have damaging consequences if lost, stolen or published in the media, but are not subject to a heightened threat profile.
 
 `OFFICIAL-SENSITIVE` is not a classification. `SENSITIVE` is a handling caveat for a small subset of information marked `OFFICIAL` that requires special handling by staff. You should apply the handling caveat where you wish to control access to that information, whether in a document, email, or other form.
 
-<a id="privacy-and-personal-information-\(data-protection\)"></a>
-
-## Privacy and personal information (Data Protection)
+##Privacy and personal information (Data Protection)
 
 Some communications tools expect to have a copy of your contacts list. The list is uploaded to the tool server in order to let the tool to function correctly. Think carefully about whether this is reasonable to do. Make sure that sharing your contacts list does not impact any one else's privacy in a negative way.
 
@@ -77,9 +65,7 @@ Complying with personal information requirements can be complex. Don't hesitate 
 * Slack: `#securityprivacyteam`
 * Intranet: [/guidance/knowledge-information/protecting-information/](/guidance/knowledge-information/protecting-information/)
 
-<a id="information-management"></a>
-
-## Information Management
+##Information Management
 
 Many of the tools are only used for your day-to-day communication with colleagues. The information you work with is typically [classified](https://www.gov.uk/government/publications/government-security-classifications) at `OFFICIAL`.
 
@@ -91,9 +77,7 @@ Remember that it is impossible to delete information after it's released in publ
 
 For more information about MoJ IT Security, look on the MoJ Intranet [here](/guidance/security/).
 
-<a id="storage-and-data-retention"></a>
-
-## Storage and data retention
+##Storage and data retention
 
 Laws and regulations make the MoJ and its employees responsible for managing information. Some examples include:
 
@@ -113,9 +97,7 @@ Many tools lets you export your data. You can then store it on an appropriate Mo
 
 For more guidance, read the [Information Management](/guidance/knowledge-information/managing-information/) section on the Intranet. There is also help on [responding to requests for information](/guidance/knowledge-information/providing-information-to-the-public/freedom-of-information/).
 
-<a id="acceptable-use"></a>
-
-## Acceptable Use
+##Acceptable Use
 
 You must use communications tools for business purposes in an acceptable way.
 
@@ -129,9 +111,7 @@ Be sensible when using communications tools for MoJ business purposes:
 
 The bottom line is: if there is doubt, there is no doubt - ask for help!
 
-<a id="approved-tools"></a>
-
-## Approved tools
+##Approved tools
 
 |Tool name|Tool type|Conditions/ constraints on use|Accessing /installing tool|Audience|
 |---------|---------|------------------------------|--------------------------|--------|
@@ -149,9 +129,7 @@ The bottom line is: if there is doubt, there is no doubt - ask for help!
 |YouTube|Video sharing tool: Video, streaming and chat|Avoid personal or sensitive data|Web browser based use.|Internal/External|
 |Zoom|Communication tool: Video, voice and chat|Avoid personal or sensitive data|Web browser based use|External meetings|
 
-<a id="nhs-track-and-trace"></a>
-
-## NHS Track and Trace
+##NHS Track and Trace
 
 The official [NHS Covid-19](https://www.nhs.uk/apps-library/nhs-covid-19/) app was designed by the NHS. Both NCSC and Cabinet Office have been involved in the security of the system. The app provides contact tracing, local area alerts and venue check-in. It enables you to protect yourself and your loved ones. Installation is optional, but recommended.
 
@@ -170,17 +148,13 @@ To reduce the likelihood of false alerts on the app, turn off the app's Bluetoot
 * You are working in environments with protective Covid measures in-place, for example plexiglass separators.
 * You need to leave your personal or work device in a locker, for example during a sports activity or to work in a secure MoJ facility.
 
-<a id="other-tools"></a>
-
-## Other tools
+##Other tools
 
 Some tools, such as Facebook, Instagram and LinkedIn, are approved for specific corporate accounts to use, for corporate communications messages. General use of these tools for work purposes is not permitted.
 
 If you wish to use a tool that is not listed above, please consult our [Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md) and [speak to us for help](mailto:security@justice.gov.uk).
 
-<a id="requesting-that-an-app-be-approved-for-use"></a>
-
-## Requesting that an app be approved for use
+##Requesting that an app be approved for use
 
 If there is an application or service that is not currently approved, but which you would like to use, you can request a security review.
 
@@ -192,19 +166,13 @@ When you submit the form, it is passed to the security team. The app is reviewed
 
 If you have any questions about the process, contact the security team: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
-<a id="other-information"></a>
+##Other information
 
-## Other information
-
-<a id="government-policy-and-guidance"></a>
-
-## Government policy and guidance
+##Government policy and guidance
 
 [GDS Social Media Playbook](https://www.gov.uk/guidance/social-media-playbook)
 
-<a id="ncsc"></a>
-
-## NCSC
+##NCSC
 
 [Video conferencing services: using them securely](https://www.ncsc.gov.uk/guidance/video-conferencing-services-using-them-securely)
 
@@ -212,9 +180,9 @@ If you have any questions about the process, contact the security team: [securit
 
 [Using third-party applications](https://www.ncsc.gov.uk/collection/mobile-device-guidance/using-third-party-applications)
 
-<a id="feedback"></a>
+---
 
-## Feedback
+##Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

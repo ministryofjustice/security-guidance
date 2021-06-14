@@ -1,4 +1,4 @@
-# Passwords
+#Passwords
 
 This article provides guidance on passwords within the Ministry of Justice (MoJ). It helps you protect MoJ IT systems by telling you about choosing and using passwords. Whenever you see the word system here, it applies to:
 
@@ -8,9 +8,7 @@ This article provides guidance on passwords within the Ministry of Justice (MoJ)
 
 This password guidance is for all users.
 
-<a id="best-practices-for-everyone"></a>
-
-## Best practices for everyone
+##Best practices for everyone
 
 The MoJ password guidance follows [NCSC guidance](https://www.ncsc.gov.uk/guidance/using-passwords-protect-your-data). The NCSC recommends a [simpler](https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach) approach to passwords. Some agencies or bodies might have specific requirements or variations. Check your team Intranet or ask your Line Manager for more information.
 
@@ -43,9 +41,7 @@ When required to change a password, you must do so as soon as possible. If you d
 |Single-user systems, such as laptops|1 week|
 |All other systems|1 day|
 
-<a id="app-based-password-protection-for-files"></a>
-
-## App-based password protection for files
+##App-based password protection for files
 
 Some applications provide a mechanism for protecting files, for example by using a password to control whether someone can open, or edit, a file.
 
@@ -69,17 +65,13 @@ If you have no choice, and have to use app-based password protection, ensure tha
 
 **Note:** This advice is a specific exception to the [general guidance](#password-expiry), that you do not normally need to change passwords.
 
-<a id="password-expiry"></a>
-
-## Password expiry
+##Password expiry
 
 You don't have to change a password because it is old. The reason is that time-expiry of passwords is an [...outdated and ineffective practice](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date).
 
 Some current or legacy systems don't allow passwords that follow MoJ guidance. For example, some mobile devices, laptop hard drive encryption tools, or older computers might not be able to support a mix of character types. For such systems, choose passwords that are as close as possible to MoJ guidance.
 
-<a id="password-managers"></a>
-
-## Password managers
+##Password managers
 
 Use a password manager to help you keep track of your passwords.
 
@@ -95,33 +87,23 @@ Using a password manager for your MoJ account and service details is recommended
 
 You can find additional useful information about password manager tools [here](/guidance/security/it-computer-security/user-access/passwords/password-managers/).
 
-<a id="default-passwords"></a>
-
-## Default passwords
+##Default passwords
 
 Change all default passwords when a new, modified, or replacement system arrives. Complete the changes before making the system available for any MoJ work.
 
-<a id="password-access-attempts"></a>
-
-## Password access attempts
+##Password access attempts
 
 If a password is ever entered incorrectly, a count starts. After at most 10 (ten) consecutive failed attempts at using the correct password, access to the account or system is locked. A successful use of the password resets the count to zero again.
 
-<a id="password-reset"></a>
-
-## Password reset
+##Password reset
 
 If a password lock occurs, a reset is necessary. This requires action by the system administrator or the MoJ Service Desk. The process should be like issuing the password for the first time. Other account details are not changed during the reset. This helps avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
 
-<a id="blocking-bad-passwords"></a>
-
-## Blocking bad passwords
+##Blocking bad passwords
 
 You should not try and use [obvious passwords](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords). Attempts to do so will be blocked.
 
-<a id="single-use-passwords"></a>
-
-## Single-use passwords
+##Single-use passwords
 
 Some passwords are 'one time' or single-use. Administrators and developers use these to grant access to a service for the first time. After using the password once, the user must immediately change the password.
 
@@ -134,15 +116,13 @@ The following table shows the valid lifetime of a single-use password:
 |Single-user systems, such as laptops|1 week|
 |All other systems|1 day|
 
-<a id="contacts"></a>
-
-## Contacts
+##Contacts
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
-<a id="feedback"></a>
+---
 
-## Feedback
+##Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

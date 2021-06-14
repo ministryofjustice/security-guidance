@@ -1,4 +1,4 @@
-# MacBook
+#MacBook
 
 Any User of an Ministry of Justice (MoJ)-supplied MacBook must ensure they comply with this policy, to ensure that security is not compromised when using these devices.
 
@@ -6,9 +6,7 @@ These Policies are supplementary to the GOV.UK and MoJ Enterprise policies, proc
 
 If you are unsure about any of the requirements or content, [ask for help](#contact-details).
 
-<a id="policies"></a>
-
-## Policies
+##Policies
 
 * You must not share your login details or password with anyone under any circumstances.
 * You must change your password if you suspect it has been compromised, or if instructed to do so by your line manager or other authorised individual.
@@ -18,17 +16,13 @@ If you are unsure about any of the requirements or content, [ask for help](#cont
 * You must logoff or lock your computer when leaving it unattended.
 * You must keep your MoJ Digital& Technology equipment close to you and in sight at all times when in public areas.
 
-<a id="top-things-to-remember"></a>
-
-## Top things to remember
+##Top things to remember
 
 You are responsible and accountable for the security of your MoJ equipment at all times.
 
 If you don't think you should do something, you probably shouldn't. If in doubt, [always seek advice](#contact-details).
 
-<a id="general-enquiries-including-theft-and-loss"></a>
-
-## General enquiries, including theft and loss
+##General enquiries, including theft and loss
 
 **Dom1/Quantum - Technology Service Desk**
 
@@ -46,15 +40,13 @@ If you don't think you should do something, you probably shouldn't. If in doubt,
 * Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
 * Tel: 0203 334 0324
 
-<a id="contacts"></a>
-
-## Contacts
+##Contacts
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
-<a id="feedback"></a>
+---
 
-## Feedback
+##Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

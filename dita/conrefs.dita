@@ -269,7 +269,13 @@
 
 	<topic id="feedback">
 		<title>Feedback</title>
-		<body><lq>If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: <ph conref="#conrefs/itpolicycontentemail" platform="github"/><ph conref="#conrefs/itpolicycontentemailtext" platform="intranet"/>.</lq>
+		<body>
+			<lq platform="github">If you have any questions or comments about this guidance,
+				such as suggestions for improvements,
+				please contact: <ph conref="#conrefs/itpolicycontentemail"/>.</lq>
+			<p platform="intranet">If you have any questions or comments about this guidance,
+					such as suggestions for improvements,
+					please contact: <ph conref="#conrefs/itpolicycontentemailtext"/>.</p>
 		</body>
 	</topic>
 

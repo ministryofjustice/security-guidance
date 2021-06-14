@@ -1,10 +1,8 @@
-# Laptops
+#Laptops
 
 The guidance applies to all Ministry of Justice (MoJ) staff.
 
-<a id="storing-data-on-laptops"></a>
-
-## Storing data on laptops
+##Storing data on laptops
 
 If you need to store data on your computer you should always remember to move it into:
 
@@ -14,9 +12,7 @@ If you need to store data on your computer you should always remember to move it
 
 Do this as soon as you can next connect to the MoJ network.
 
-<a id="where-data-should-be-saved-when-using-a-laptop"></a>
-
-## Where data should be saved when using a laptop
+##Where data should be saved when using a laptop
 
 It is best to avoid saving any data on a laptop hard drive. However, if you absolutely must, you should always remember to copy or move the data to the MoJ network as soon as you next can connect to it, either via secure remote access or by direct connection.
 
@@ -28,9 +24,7 @@ In order to avoid potential data loss, save data in:
 
 There is a better chance of recovering lost data if you have saved it to the MoJ network, as data stored on the MoJ network is backed up daily.
 
-<a id="the-impact-of-hard-drive-failures"></a>
-
-## The impact of hard drive failures
+##The impact of hard drive failures
 
 Hard drive failures can lead to the irrecoverable loss of data. Any data loss can have security implications for the MoJ, and a significant impact on:
 
@@ -42,15 +36,11 @@ If you experience any issues with your laptop or IT service, [ask for help](#gen
 
 For more information about the main security issues that are likely to affect remote and mobile workers, refer to the [remote working guide](remote-working.md).
 
-<a id="how-to-reset-your-password"></a>
-
-## How to reset your password
+##How to reset your password
 
 To reset your password, you will need to contact the [IT Service Desk](#general-enquiries-including-theft-and-loss). They will carry out checks to confirm your identity. This might include asking your line manager or court manager to confirm your identity, by sending an email to the IT Service Desk. Once your identity is confirmed, your password will be reset and you will quickly regain access to your laptop.
 
-<a id="general-enquiries-including-theft-and-loss"></a>
-
-## General enquiries, including theft and loss
+##General enquiries, including theft and loss
 
 **Dom1/Quantum - Technology Service Desk**
 
@@ -68,15 +58,13 @@ To reset your password, you will need to contact the [IT Service Desk](#general-
 * Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
 * Tel: 0203 334 0324
 
-<a id="contacts"></a>
-
-## Contacts
+##Contacts
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
-<a id="feedback"></a>
+---
 
-## Feedback
+##Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

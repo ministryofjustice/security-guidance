@@ -132,6 +132,10 @@
 				</fileset>
 			</path>
 		</foreach>
+		<replace dir="${intranet}" value="#">
+			<include name="**/*.md"/>
+			<replacetoken># </replacetoken>
+		</replace>
 	</target>
 
 	<target name="compile_pdf" depends="init"
