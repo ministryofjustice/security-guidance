@@ -469,6 +469,10 @@
   <topic id="data-movement-form-dmf">
     <title>Data Movement Form (DMF)</title>
     <body>
+      <p>The Data Movement Form (DMF) is available on the
+      <xref href="https://intranet.justice.gov.uk/documents/2015/04/data-movement-form.doc"
+        format="doc" scope="external"><ph conref="conrefs.dita#conrefs/moj"/>
+        Intranet</xref>.</p>
       <p>The purpose of the DMF is to ensure that the movement of information
         assets is secure,
         and in compliance with the <ph conref="conrefs.dita#conrefs/gov007"/>.</p>
@@ -485,6 +489,12 @@
           <li>Data is being moved or shared by electronic (network) communication,
             where the movement is from an <ph conref="conrefs.dita#conrefs/moj"/>
             IT system to an external party.</li>
+          <li>A data bearing asset is being moved to or shared with an external
+            party.
+            This would include laptops,
+            servers,
+            multi-functional devices,
+            and any other data bearing peripherals.</li>
         </ul></p>
         <p>A DMF <ph conref="conrefs.dita#conrefs/policyshall"/>
         be submitted to the <ph conref="conrefs.dita#conrefs/ostemailtext"/>

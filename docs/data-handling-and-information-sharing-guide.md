@@ -175,6 +175,8 @@ Where there is a business requirement to share information classified higher tha
 
 ## Data Movement Form \(DMF\)
 
+The Data Movement Form \(DMF\) is available on the [MoJ Intranet](https://intranet.justice.gov.uk/documents/2015/04/data-movement-form.doc).
+
 The purpose of the DMF is to ensure that the movement of information assets is secure, and in compliance with the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 
 Failure to fulfil or comply with the controls and measures identified within the DMF will lead to unnecessary risk or exposure for the MoJ or the relevant Information Asset Owner \(IAO\) or Senior Information Risk Owner \(SIRO\).
@@ -183,6 +185,7 @@ A DMF **SHALL** be completed, and approval received from the [Operational Securi
 
 -   Data is being moved or shared by transferring a physical device, for example using a storage array, USB drive, or other removable media.
 -   Data is being moved or shared by electronic \(network\) communication, where the movement is from an MoJ IT system to an external party.
+-   A data bearing asset is being moved to or shared with an external party. This would include laptops, servers, multi-functional devices, and any other data bearing peripherals.
 
 A DMF **SHALL** be submitted to the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) for information purposes, in the following scenarios:
 
