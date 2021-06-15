@@ -64,7 +64,7 @@
 							<li>Proposed method of connecting,
 								for example <ph conref="conrefs.dita#conrefs/moj"/> VPN,
 								Global Protect VPN (for Macs),
-								WiFi, or Mobile Data (3G/4G/5G).</li>
+								wifi, or Mobile Data (3G/4G/5G).</li>
 							<li>Reason for maintaining access while overseas.</li>
 							<li>The <ph conref="conrefs.dita#conrefs/moj"/> data, applications,
 								or services you expect to access during your trip.</li>
@@ -137,14 +137,15 @@
 		<title>If you have any problem when using <ph conref="conrefs.dita#conrefs/moj"/> equipment overseas</title>
 		<body>
 			<p>Contact the <xref href="#contacts" format="dita" platform="github">Technology
-				Service Desk</xref><ph platform="intranet">Technology Service Desk</ph> immediately.
+				Service Desk</xref><ph platform="intranet">Technology Service Desk (see
+				Contacts section below)</ph> immediately.
 				Tell them if the <ph conref="conrefs.dita#conrefs/moj"/> equipment is lost,
 				stolen or was potentially compromised.
 				This includes any time the equipment is deliberately removed out of your sight,
 				such as by a customs official.</p>
 			<p>If any security-related incident occurs overseas,
 				regardless of whether it involves <ph conref="conrefs.dita#conrefs/moj"/> equipment,
-				you should contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/>
+				you should contact the <ph conref="conrefs.dita#conrefs/ostemailtext" platform="github"/><ph platform="intranet">Operational Security Team</ph>
 				as soon as possible.
 				See the <xref href="#contacts" format="dita" platform="github">Contacts</xref><ph platform="intranet">Contacts</ph> section below,
 				and the guidance on

@@ -41,7 +41,7 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
     -   Countries you'll be visiting or passing through.
     -   Dates of travel.
     -   Transport details where possible, for example flights or rail journeys.
-    -   Proposed method of connecting, for example MoJ VPN, Global Protect VPN \(for Macs\), WiFi, or Mobile Data \(3G/4G/5G\).
+    -   Proposed method of connecting, for example MoJ VPN, Global Protect VPN \(for Macs\), wifi, or Mobile Data \(3G/4G/5G\).
     -   Reason for maintaining access while overseas.
     -   The MoJ data, applications, or services you expect to access during your trip.
     -   Who you are travelling with.

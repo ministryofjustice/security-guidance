@@ -41,7 +41,7 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
     * Countries you'll be visiting or passing through.
     * Dates of travel.
     * Transport details where possible, for example flights or rail journeys.
-    * Proposed method of connecting, for example MoJ VPN, Global Protect VPN (for Macs), WiFi, or Mobile Data (3G/4G/5G).
+    * Proposed method of connecting, for example MoJ VPN, Global Protect VPN (for Macs), wifi, or Mobile Data (3G/4G/5G).
     * Reason for maintaining access while overseas.
     * The MoJ data, applications, or services you expect to access during your trip.
     * Who you are travelling with.
@@ -66,9 +66,9 @@ By default, MoJ equipment is not enabled for use overseas. Before travelling, re
 
 ##If you have any problem when using MoJ equipment overseas
 
-Contact the Technology Service Desk immediately. Tell them if the MoJ equipment is lost, stolen or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.
+Contact the Technology Service Desk (see Contacts section below) immediately. Tell them if the MoJ equipment is lost, stolen or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.
 
-If any security-related incident occurs overseas, regardless of whether it involves MoJ equipment, you should contact the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) as soon as possible. See the Contacts section below, and the guidance on [Reporting a Security Incident](/guidance/security/report-a-security-incident/) on the MoJ Intranet. This includes information on reporting an incident outside of UK working hours. For convenience, the out-of-hours telephone number for reporting incidents is repeated in the Contacts section below.
+If any security-related incident occurs overseas, regardless of whether it involves MoJ equipment, you should contact the Operational Security Team as soon as possible. See the Contacts section below, and the guidance on [Reporting a Security Incident](/guidance/security/report-a-security-incident/) on the MoJ Intranet. This includes information on reporting an incident outside of UK working hours. For convenience, the out-of-hours telephone number for reporting incidents is repeated in the Contacts section below.
 
 If there is a problem with your MoJ equipment, it might be necessary to disable your ability to connect to the MoJ network or services from your device. The Service Desk will do this if required. MoJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MoJ business.
 
