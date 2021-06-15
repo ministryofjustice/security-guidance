@@ -22,7 +22,7 @@ Owner:
 
 ## Guidance
 
-- [Your guide to being security aware](https://intranet.justice.gov.uk/documents/2020/04/your-guide-to-being-security-aware.pdf) leaflet - a guide for all staff and contractors on the main security behaviours expected of them at the MoJ.
+- [Your guide to being security aware](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/your-guide-to-being-security-aware.pdf) leaflet - a guide for all staff and contractors on the main security behaviours expected of them at the MoJ.
 - Quick reference guide - a guide to our main policies, and Security contacts.
 - [Remote working guidance](https://intranet.justice.gov.uk/guidance/security/emergencies/coronavirus-guidance/security/)
 
