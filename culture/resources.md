@@ -25,6 +25,7 @@ Owner:
 - [Your guide to being security aware](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/your-guide-to-being-security-aware.pdf) leaflet - a guide for all staff and contractors on the main security behaviours expected of them at the MoJ.
 - Quick reference guide - a guide to our main policies, and Security contacts.
 - [Remote working guidance](https://intranet.justice.gov.uk/guidance/security/emergencies/coronavirus-guidance/security/)
+- [IT acceptable use policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/it-acceptable-use-policy/)
 
 ## Intranet
 
@@ -32,4 +33,4 @@ Owner:
 
 ## Newsletters
 
-- MoJ Protect newsletter (example) - a quarterly update for our stakeholders, and a great way to stay on top of the policies and threats you need to be aware of, no matter what your role. To be added to this mailing list please email [Dawn Carrington](mailto:dawn.carrington@justice.gov.uk).
+- [MoJ Protect newsletter](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/MoJ%20Protect.pdf) (example) - a quarterly update for our stakeholders, and a great way to stay on top of the policies and threats you need to be aware of, no matter what your role. To be added to this mailing list please email [Dawn Carrington](mailto:dawn.carrington@justice.gov.uk).
