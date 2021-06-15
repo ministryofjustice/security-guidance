@@ -15,7 +15,6 @@ Do you know how to keep yourself and your work safe online? Do you want to ensur
 
 If you want to attend, there’s no need to book, just diarise and join on the day.
 
-- Tuesday 15 June (12:30-13:00) - [join the meeting](https://intranet.justice.gov.uk/events/how-to-keep-yourself-and-your-work-safe-online/)
 - Tuesday 20 July (12:30-13:00) - [join the meeting](https://intranet.justice.gov.uk/events/how-to-keep-yourself-and-your-work-safe-online-2/)
 - Tuesday 17 August (12:30-13:00) - [join the meeting](https://intranet.justice.gov.uk/events/how-to-keep-yourself-and-your-work-safe-online-3/)
 - Tuesday 21 September (12:30-13:00) - [join the meeting](https://intranet.justice.gov.uk/events/how-to-keep-yourself-and-your-work-safe-online-4/)
