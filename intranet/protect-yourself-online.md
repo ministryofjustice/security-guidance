@@ -10,13 +10,13 @@ There are five simple things we can all do to protect ourselves online.
 
 For more information, see the [user access page](/guidance/security/it-computer-security/user-access/).
 
-<a id="contacts"></a>
 ##Contacts
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
-<a id="feedback"></a>
+---
+
 ##Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

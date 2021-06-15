@@ -48,8 +48,6 @@
 		<mkdir dir="${build}"/>
 		<!-- Create the docs directory structure used for publication -->
 		<mkdir dir="${docs}"/>
-		<!-- Create the Word docs directory structure used for sharing content -->
-		<mkdir dir="${worddocs}"/>
 	</target>
 
 	<target name="addLinkTarget">
@@ -114,27 +112,31 @@
 			<property name="transtype" value="html5"/>
 		</ant>
 	</target>
+-->
 
 	<target name="convertToWord">
 		<echo message="Converting file: ${theFile}"/>
-		<basename property="theFileName" file="${theFile}" suffix=".html"/>
-		<exec dir="${buildhtml}" executable="pandoc">
-			<arg line=" \-\-from=html \-\-to=docx ${theFileName}.html \-\-output=${worddocs}/${theFileName}.docx"/>
+		<basename property="theFileName" file="${theFile}" suffix=".md"/>
+		<exec dir="${intranet}" executable="pandoc">
+			<arg line=" --from=markdown --to=docx ${theFileName}.md --output=${intranet}/${theFileName}.docx"/>
 		</exec>
 	</target>
 
-	<target name="compile_word" depends="compile_html5"
-			description="compile HTML5 into Word">
+	<target name="compile_word" depends="convertToWord"
+			description="compile Markdown into Word">
 		<echo message="Running on: ${os.name}"/>
 		<foreach target="convertToWord" param="theFile">
 			<path>
-				<fileset dir="${buildhtml}">
-					<include name="**/*.html"/>
+				<fileset dir="${intranet}">
+					<include name="**/*.md"/>
 				</fileset>
 			</path>
 		</foreach>
+		<replace dir="${intranet}" value="#">
+			<include name="**/*.md"/>
+			<replacetoken># </replacetoken>
+		</replace>
 	</target>
-	-->
 
 	<target name="compile_pdf" depends="init"
 				description="compile the source into PDF">
@@ -251,7 +253,7 @@
 	</target>
 
 	<!-- Enable epub builds for the moment. -->
-	<target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub"/>
+	<target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word"/>
 	<!-- <target name="compile" depends="compile_intranet,compile_md,compile_pdf"/> -->
 
 	<target name="enableRedirect">
@@ -265,7 +267,7 @@
 	</target>
 
 	<!-- <target name="dist_local" depends="compile_intranet" -->
-	<target name="dist_local" depends="compile_md,compile_intranet"
+	<target name="dist_local" depends="compile_md,compile_intranet,compile_word"
 				description="generate minimal set to test local build">
 		<!-- Create the distribution directory -->
 		<mkdir dir="${docs}"/>

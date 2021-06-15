@@ -39,6 +39,7 @@ There are many unacceptable uses of IT, making it impossible to provide a comple
 -   Deliberately or accidentally sharing resources or information, such as passwords, with people who are not supposed to have them.
 -   Using resources without permission.
 -   Storing sensitive information where it could easily be lost or stolen.
+-   Using unapproved tools or processes to store sensitive information, such as passwords or credit card details.
 -   Using your work email address for personal tasks.
 -   Using a personal account or personal email address for work tasks.
 -   Excessive private use during working time.
@@ -55,7 +56,7 @@ Unacceptable use of IT might affect the MoJ in several ways, such as:
 
 Unacceptable use might also affect you, too:
 
--   Duspension of access, so that you cannot do your work.
+-   Suspension of access, so that you cannot do your work.
 -   Disciplinary proceedings, up to and including dismissal.
 -   Termination of contract for contractors and agency staff.
 

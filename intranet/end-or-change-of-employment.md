@@ -10,20 +10,19 @@ Managers must also [complete a leaver's checklist](/documents/2015/04/leavers-ch
 
 **Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
 
-<a id="downloads"></a>
 ##Downloads
 
 [Leavers checklist](/documents/2015/04/leavers-checklist-for-managers.docx)
 
 A downloadable version of the “End or change of employment” document is available [here](./gs/end-or-change-of-employment.docx).
 
-<a id="contacts"></a>
 ##Contacts
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
-<a id="feedback"></a>
+---
+
 ##Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

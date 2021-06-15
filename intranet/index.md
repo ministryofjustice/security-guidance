@@ -2,12 +2,13 @@
 
 * [Intranet landing page](intranet-landing-page.md)
 * Equipment
-    -   [Equipment](equipment.md)
-    -   Clear screen and desk
+    * [Equipment](equipment.md)
+    * Clear screen and desk
         -   [Clear Screen and Desk](clear-screen-and-desk.md)
-    -   Data and equipment management
+    * Data and equipment management
         -   [Equipment management](equipment-management.md)
         -   [Bluetooth](bluetooth.md)
+        -   [Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md)
         -   [Email](email.md)
         -   [Information classification, handling & security guide](information-classification-handling-and-security-guide.md)
         -   [Guidance on IT Accounts and Assets for Long Term Leave](long-term-leave.md)
@@ -18,39 +19,39 @@
         -   [Removable media](removable-media.md)
         -   [Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)
         -   [Web Browsing](web-browsing.md)
-    -   Laptops
+    * Laptops
         -   [Laptops](laptops.md)
         -   [Locking and shutdown](locking-and-shutdown.md)
-    -   Macbook
+    * Macbook
         -   [MacBook](policies-for-macbook-users.md)
 * Incident management
-    -   [Reporting an incident](reporting-an-incident.md)
-    -   [Lost devices or other IT security incidents](lost-devices-incidents.md)
+    * [Reporting an incident](reporting-an-incident.md)
+    * [Lost devices or other IT security incidents](lost-devices-incidents.md)
 * Remote working
-    -   [Remote Working](remote-working.md)
-    -   Overseas travel
+    * [Remote Working](remote-working.md)
+    * Overseas travel
         -   [Accessing MoJ IT systems overseas](accessing-moj-it-systems-from-overseas.md)
         -   [Taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
         -   [Overseas travel](overseas-travel.md)
 * Risk assessment
-    -   [Risk assessment](risk-reviews.md)
+    * [Risk assessment](risk-reviews.md)
 * Personnel security clearances
-    -   [Personnel security clearances](personnel-security-clearances.md)
+    * [Personnel security clearances](personnel-security-clearances.md)
         -   [End or change of employment](end-or-change-of-employment.md)
         -   [Minimum user clearance](minimum-user-clearance-requirements-guide.md)
         -   [National Security Vetting questions](national-security-vetting-questions.md)
 * User access
-    -   [User access](acceptable-use.md)
-    -   [Data Security and Privacy](data-security-and-privacy.md)
-    -   [Apps](general-user-video-and-messaging-apps-guidance.md)
-    -   [Government Classification Scheme](government-classification-scheme.md)
-    -   [Open internet tools](guidance-for-using-open-internet-tools.md)
-    -   [IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](identify-protect-detect-respond-recover.md)
-    -   [Line Manager approval](line-manager-approval.md)
-    -   [Passwords](passwords.md)
-    -   [Password Managers](password-managers.md)
-    -   [Using LastPass Enterprise](using-lastpass.md)
-    -   [Avoiding too much security](setecastronomy.md)
+    * [User access](acceptable-use.md)
+    * [Data Security and Privacy](data-security-and-privacy.md)
+    * [Apps](general-user-video-and-messaging-apps-guidance.md)
+    * [Government Classification Scheme](government-classification-scheme.md)
+    * [Open internet tools](guidance-for-using-open-internet-tools.md)
+    * [IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](identify-protect-detect-respond-recover.md)
+    * [Line Manager approval](line-manager-approval.md)
+    * [Passwords](passwords.md)
+    * [Password Managers](password-managers.md)
+    * [Using LastPass Enterprise](using-lastpass.md)
+    * [Avoiding too much security](setecastronomy.md)
 * Training and education
-    -   [Training and Education](training-and-education.md)
+    * [Training and Education](training-and-education.md)
 

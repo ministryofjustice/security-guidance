@@ -10,7 +10,6 @@ In unusual circumstances, it might not be possible to organise provision of equi
 
 **Note:** Except when connecting to an MoJ [virtual environment](#virtual-environment), or with documented approval in exceptional circumstances as described [below](#guidance), you must not use a personal device for work purposes.
 
-<a id="guidance"></a>
 ##Guidance
 
 * If you have an MoJ-issued device or virtual environment, you must use that.
@@ -25,7 +24,6 @@ In unusual circumstances, it might not be possible to organise provision of equi
 
 **Note:** You are not asked or required to use your own devices for work purposes. If you have access to MoJ devices for work purposes, you must use them by default.
 
-<a id="virtual-environment"></a>
 ##Virtual environment
 
 The MoJ can enable access to a Virtual Environment to help with exceptional circumstances. This is where suitable provision of a physical device is not possible.
@@ -34,8 +32,9 @@ Request a virtual environment through the `Creation of WVD instances` product of
 
 **Note:** A virtual environment does not offer the same capabilities or performance as a physical MoJ-issued device. Using an MoJ-issued device is always preferable.
 
-<a id="feedback"></a>
+---
+
 ##Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 
