@@ -137,8 +137,7 @@
         <ph conref="conrefs.dita#conrefs/moj"/>,
         and cannot be securely wiped,
         then the equipment <ph conref="conrefs.dita#conrefs/policymight"/>
-        <ph conref="conrefs.dita#conrefs/policymight"/> need to be destroyed
-        physically.
+        need to be destroyed physically.
         More information can be found at <xref href="secure-disposal-of-it-equipment.dita"
           format="dita" platform="github">Secure disposal of IT equipment</xref>
         <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-it-equipment/"
