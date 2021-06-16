@@ -15,6 +15,12 @@
             ... is excellent and has clear examples of how to refer to what you want.
          -->
 
+				 <!--
+				 For consistency, the content in this security guidance follows the GDS Style Guide:
+				 https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style
+
+				 For example, wireless access technology is correctly abbreviated as: wifi
+				 -->
 		<p>
 			<ph id="catemail"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></ph>
 			<ph id="catemailtext"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">Cyber Assistance Team</xref></ph>
