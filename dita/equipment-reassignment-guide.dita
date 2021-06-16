@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="equipment-reassignment-guide">
+  <title>Equipment Reassignment Guide</title>
+  <body/>
+  <topic id="introduction">
+    <title>Introduction</title>
+    <body>
+      <p>This guide describes how to reassign equipment.
+      It applies to laptops,
+      mobile phones or other <ph conref="conrefs.dita#conrefs/mojlong"/> issued
+      equipment.
+      Reassignment is from one user to another.</p>
+    </body>
+  </topic>
+  <topic id="who-is-this-for">
+    <title>Who is this for?</title>
+    <body>
+      <p>This guidance applies to:</p>
+      <ol>
+        <li><b>Technical users</b>: these are in-house
+        <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology staff.
+        They are are responsible for implementing equipment controls.
+        The controls apply throughout technical design,
+        development,
+        system integration,
+        and operation.
+        This includes DevOps,
+        Software Developers,
+        Technical Architects,
+        and Service Owners.
+        It also includes Incident Managers from the Event,
+        Problem,
+        Incident,
+        CSI,
+        and Knowledge (EPICK) Team.</li>
+        <li><b>Service Providers</b>: defined as any other
+        <ph conref="conrefs.dita#conrefs/moj"/> business group,
+        agency,
+        contractor,
+        IT supplier,
+        or partner who in any way designs,
+        develops,
+        or supplies services (including processing,
+        transmitting,
+        and storing data) for,
+        or on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+        <li><b>General users</b>: all other staff working for the
+        <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+      </ol>
+      <p><q>All <ph conref="conrefs.dita#conrefs/moj"/> users</q> means
+      General users,
+      Technical users,
+      and Service Providers.</p>
+    </body>
+  </topic>
+  <topic id="returning-equipment">
+    <title>Returning Equipment</title>
+    <body>
+      <p>When a project completes,
+        or a colleague leaves or moves to a new role,
+        equipment no longer required <ph conref="conrefs.dita#conrefs/policymust"/>
+        be returned.
+        The Line Manager (LM) is responsible for using the Service Catalogue to
+        request a return of the item.
+        The equipment might then become available for use by other employees.
+        It might not be cost-effective to consider reusing or reassigning the
+        equipment.
+        Possible reasons include:
+      <ul>
+        <li>Older technology that might have been heavily used.</li>
+        <li>The likelihood of operating problems and failures.</li>
+        <li>Lack of support,
+          updates,
+          or patches.</li>
+        <li>Slower performance.</li>
+      </ul></p>
+      <p>As a result,
+        it might be preferable to use a new machine,
+        rather than repurposing a reassigned device.
+        The decision depends on the expected use of the reassigned device.</p>
+      <p>The LM is responsible for ensuring a review of the equipment.
+        This is to ensure that sensitive data <ph conref="conrefs.dita#conrefs/policyshallnot"/>
+        be lost by erasing the contents of the device.
+        This task <ph conref="conrefs.dita#conrefs/policycan"/> be delegated to
+        the team member most familiar with the data.
+        The LM remains responsible.
+        Any sensitive data identified <ph conref="conrefs.dita#conrefs/policyshall"/>
+        be copied and relocated to a secure location.
+        This can be the <ph conref="conrefs.dita#conrefs/moj"/> Teams facility
+        or to Sharepoint.
+        This <ph conref="conrefs.dita#conrefs/policyshall"/> happen before the
+        device is made ready for reuse or destroyed.</p>
+      <p>Any IT equipment which is no longer needed,
+        or has reached its <q>end of life</q>
+        <ph conref="conrefs.dita#conrefs/policyshall"/> have its data
+        securely deleted and confirmed to be unreadable and unrecoverable before
+        destruction,
+        redistribution,
+        or reuse of the equipment.</p>
+    </body>
+  </topic>
+  <topic id="equipment-reassignment">
+    <title>Equipment Reassignment</title>
+    <body>
+      <p>Equipment <ph conref="conrefs.dita#conrefs/policycannot"/> be passed
+      from one user to another without being formally reassigned.</p>
+      <p>Equipment <ph conref="conrefs.dita#conrefs/policymust"/> be completely
+      <q>cleaned</q> to an <q>as-new</q> state before it is reused or reassigned.
+      This means that all storage media in the device
+      <ph conref="conrefs.dita#conrefs/policymust"/> be fully erased.
+      A sufficiently secure method for <q>wiping</q> equipment
+      <ph conref="conrefs.dita#conrefs/policymust"/> be used.
+      Deleting visible files,
+      emptying files from the <q>Recycle Bin</q> of a computer,
+      or reformatting a device are not considered sufficiently secure methods for
+      wiping equipment.
+      The reason is that data recovery software might be used by a new owner to
+      <q>undelete</q> files or <q>unformat</q> a device.</p>
+      <p>To erase data securely,
+        use appropriate <q>data-shredding</q> tools for the media being erased.
+        Typically,
+        these tools do not simply delete data.
+        They overwrite it multiple times.
+        The overwriting erases all traces of the data,
+        making it almost impossible for any retrieval.
+        Another option is to re-encrypt the device using a different password,
+        then delete the data to free up space.</p>
+      <p>Equipment reassignment <ph conref="conrefs.dita#conrefs/policymust"/>
+      be recorded by the LM in the appropriate asset register.</p>
+    </body>
+  </topic>
+  <topic id="equipment-that-cannot-be-reused">
+    <title>Equipment that cannot be reused</title>
+    <body>
+      <p>If IT assets are no longer needed by the
+        <ph conref="conrefs.dita#conrefs/moj"/>,
+        and cannot be securely wiped,
+        then the equipment <ph conref="conrefs.dita#conrefs/policymight"/>
+        <ph conref="conrefs.dita#conrefs/policymight"/> need to be destroyed
+        physically.
+        More information can be found at <xref href="secure-disposal-of-it-equipment.dita"
+          format="dita" platform="github">Secure disposal of IT equipment</xref>
+        <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-it-equipment/"
+          format="html" scope="external" platform="intranet">Secure disposal of IT equipment</xref></p>
+      <p>Regrettably,
+        for security reasons,
+        redundant IT equipment <ph conref="conrefs.dita#conrefs/policyshouldnot"/>
+        be donated to charities, schools, or similar organisations.</p>
+    </body>
+  </topic>
+  <topic id="leased-equipment">
+    <title>Leased equipment</title>
+    <body>
+      <p>Managers <ph conref="conrefs.dita#conrefs/policyshould"/> ensure that
+      any equipment that is leased has a data destruction clause written into
+      the contract.
+      Under such an arrangement,
+      the supplier <ph conref="conrefs.dita#conrefs/policyshall"/> ensure that
+      data is wiped when it is returned.
+      <ph audience="audience-suppliers audience-tech">For an example of a data
+        destruction clause,
+        see the Modern Security Clause for formal
+        <ph conref="conrefs.dita#conrefs/moj"/> promises (Contracts).
+        This is available from the
+        <ph conref="conrefs.dita#conrefs/catemailtext"/>.</ph></p>
+    </body>
+  </topic>
+  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
