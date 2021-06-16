@@ -35,7 +35,7 @@ Any transfer technique used **SHALL**:
 -   Encrypt the data over the network \(in transit\), using sufficient and appropriate encryption \(currently TLS 1.2 or greater\).
 -   Require strong authentication to ensure that both the sender and recipient are who they claim to be.
 
-These conisderations apply when transmitting any data over a wireless communication network \(eg Wi-Fi\), or when the data will or might pass through an untrusted network.
+These considerations apply when transmitting any data over a wireless communication network \(eg Wi-Fi\), or when the data will or might pass through an untrusted network.
 
 If the MoJ is the controller of the data being transferred, the security storage requirements at the destination **SHALL** be considered to ensure that they comply fully with the relevant regulation, such as PCI DSS or GDPR.
 
@@ -68,7 +68,7 @@ Where it is not possible to use Microsoft Teams or Google Workspace, **AND** the
 
 ### CJSM Email
 
--   The Criminal Justice Secure eMail Service \(CJSM\) is provided for criminal justice agencies and practitioners to communicate with each other.
+-   The Criminal Justice Secure email Service \(CJSM\) is provided for criminal justice agencies and practitioners to communicate with each other.
 -   As a general rule, it **SHALL** only be used for purposes relating to the criminal justice service.
 
 ### Microsoft 365 Encrypted email
@@ -79,7 +79,7 @@ Where it is not possible to use Microsoft Teams or Google Workspace, **AND** the
 
 ## Removable storage devices
 
-The MoJ strongly discourages the use of removable storage devices such as USB drives for data transfer. However, if all other options are not possible, then removable storage devices **MAY** be used with caution.
+The MoJ strongly discourages the use of removable storage devices such as USB devices for data transfer. However, if all other options are not possible, then removable storage devices **MAY** be used with caution.
 
 Any data being transferred by removable media such as a USB memory stick **SHALL** be encrypted. Encrypted portable storage devices **SHALL** be password protected with a [strong password](password-management-guide.md). All passwords **SHALL** be transferred using an alternative method of communication to get to the recipient. Examples includes post, a telephone call to an agreed number, or by SMS text message.
 
@@ -95,7 +95,7 @@ Report any issues to your line manager and in the case of missing or corrupt dat
 
 ### Data transfers by post or courier
 
-Data transfers using physical media such as memory cards or USB drives **SHALL** only be sent using secure post. Royal Mail First or Second class **SHALL NOT** be used. Royal Mail Special Delivery or Recorded Delivery **CAN** be used. For non-Royal Mail services, a secure courier service **SHALL** be used, with a signature obtained upon delivery. The recipient **SHALL** be clearly stated on the parcel. The physical media **SHALL** be securely packaged so that it is not damaged in transit.
+Data transfers using physical media such as memory cards or USB devices **SHALL** only be sent using secure post. Royal Mail First or Second class **SHALL NOT** be used. Royal Mail Special Delivery or Recorded Delivery **CAN** be used. For non-Royal Mail services, a secure courier service **SHALL** be used, with a signature obtained upon delivery. The recipient **SHALL** be clearly stated on the parcel. The physical media **SHALL** be securely packaged so that it is not damaged in transit.
 
 The recipient **SHOULD** be told in advance that the data is being sent, so that they know when to expect the data. The recipient **SHALL** confirm safe receipt as soon as the data arrives. The sender responsible for sending the data is also responsible for confirming the data has arrived safely.
 
@@ -112,7 +112,7 @@ Phone calls might be monitored, overheard, or intercepted. This might happen del
 
 ## Residual risks with encrypted data transfer
 
-Data controllers **SHOULD** recognise that even if a system uses encrypted data transfer, there are still occasions where data might be affected by unauthorised access. Be aware of these residual risks. Include consideration of these risks in employee awareness training. Examples include:
+All users **SHOULD** recognise that even if a system uses encrypted data transfer, there are still occasions where data might be affected by unauthorised access. Be aware of these residual risks. Line Managers **SHOULD** include consideration of these risks in employee awareness training. Examples include:
 
 -   Some data relating to the communication might still be exposed in an unencrypted form. An example is metadata.
 -   Data transfer processes that rely on public-key infrastructure **SHALL** implement strict certificate checking to maintain trust in end-points.
@@ -123,7 +123,7 @@ Data controllers **SHOULD** recognise that even if a system uses encrypted data 
 
 For help with incidents, including theft and loss, contact:
 
--   **Dom1/Quantum - Technology Service Desk**
+-   **DOM1/Quantum - Technology Service Desk**
 
     Tel: 0800 917 5148
 

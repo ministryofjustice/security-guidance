@@ -101,7 +101,7 @@
             <li>Require strong authentication to ensure that both the sender and
               recipient are who they claim to be.</li>
           </ul></p>
-          <p>These conisderations apply when transmitting any data over a
+          <p>These considerations apply when transmitting any data over a
             wireless communication network (eg Wi-Fi),
             or when the data will or might pass through an untrusted network.</p>
           <p>If the <ph conref="conrefs.dita#conrefs/moj"/> is the controller of
@@ -222,7 +222,7 @@
           <title>CJSM Email</title>
           <body>
             <ul>
-              <li>The Criminal Justice Secure eMail Service (CJSM) is provided
+              <li>The Criminal Justice Secure email Service (CJSM) is provided
                 for criminal justice agencies and practitioners to communicate
                 with each other.</li>
               <li>As a general rule,
@@ -253,7 +253,7 @@
         <title>Removable storage devices</title>
         <body>
           <p>The <ph conref="conrefs.dita#conrefs/moj"/> strongly discourages
-          the use of removable storage devices such as USB drives for data
+          the use of removable storage devices such as USB devices for data
           transfer.
           However,
           if all other options are not possible,
@@ -299,7 +299,7 @@
           <title>Data transfers by post or courier</title>
           <body>
             <p>Data transfers using physical media such as memory cards or USB
-              drives <ph conref="conrefs.dita#conrefs/policymust"/> only be
+              devices <ph conref="conrefs.dita#conrefs/policymust"/> only be
               sent using secure post.
               Royal Mail First or Second class
               <ph conref="conrefs.dita#conrefs/policymustnot"/> be used.
@@ -361,12 +361,13 @@
       <topic id="residual-risks-with-encrypted-data-transfer">
         <title>Residual risks with encrypted data transfer</title>
         <body>
-          <p>Data controllers <ph conref="conrefs.dita#conrefs/policyshould"/>
+          <p>All users <ph conref="conrefs.dita#conrefs/policyshould"/>
           recognise that even if a system uses encrypted data transfer,
           there are still occasions where data might be affected by
           unauthorised access.
           Be aware of these residual risks.
-          Include consideration of these risks in employee awareness training.
+          Line Managers <ph conref="conrefs.dita#conrefs/policyshould"/>
+          include consideration of these risks in employee awareness training.
           Examples include:
           <ul>
             <li>Some data relating to the communication might still be exposed

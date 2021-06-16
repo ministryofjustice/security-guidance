@@ -92,7 +92,7 @@ Access to the VPN requires 2 Factor Authentication \(2FA\). The [IT Security Pol
 
 For help with incidents, including theft and loss, contact:
 
--   **Dom1/Quantum - Technology Service Desk**
+-   **DOM1/Quantum - Technology Service Desk**
 
     Tel: 0800 917 5148
 

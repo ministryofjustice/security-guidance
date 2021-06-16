@@ -33,7 +33,7 @@ Privileged accounts should be protected with the following controls.
 
 For help with incidents, including theft and loss, contact:
 
--   **Dom1/Quantum - Technology Service Desk**
+-   **DOM1/Quantum - Technology Service Desk**
 
     Tel: 0800 917 5148
 

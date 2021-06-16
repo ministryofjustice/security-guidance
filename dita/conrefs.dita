@@ -133,7 +133,7 @@
 	<topic id="general-enquiries-including-theft-and-loss">
 		<title>General enquiries, including theft and loss</title>
 		<body>
-			<p id="dom1"><b>Dom1/Quantum - Technology Service Desk</b>
+			<p id="dom1"><b>DOM1/Quantum - Technology Service Desk</b>
 				<ul>
 					<li>Tel: 0800 917 5148</li>
 				</ul>
@@ -234,7 +234,7 @@
 				contact:
 				<dl>
 					<dlentry>
-						<dt>Dom1/Quantum - Technology Service Desk</dt>
+						<dt>DOM1/Quantum - Technology Service Desk</dt>
 						<dd>Tel: 0800 917 5148
 							<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph> email address is no longer being monitored.</note></dd>
 					</dlentry>

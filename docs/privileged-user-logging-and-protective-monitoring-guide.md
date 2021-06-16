@@ -44,7 +44,7 @@ To ensure that there is an audit trail for log data, privileged users must:
 
 For help with incidents, including theft and loss, contact:
 
--   **Dom1/Quantum - Technology Service Desk**
+-   **DOM1/Quantum - Technology Service Desk**
 
     Tel: 0800 917 5148
 
