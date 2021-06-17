@@ -35,13 +35,13 @@ Equipment **CAN NOT** be passed from one user to another without being formally 
 
 Equipment **SHALL** be completely “cleaned” to an “as-new” state before it is reused or reassigned. This means that all storage media in the device **SHALL** be fully erased. A sufficiently secure method for “wiping” equipment **SHALL** be used. Deleting visible files, emptying files from the “Recycle Bin” of a computer, or reformatting a device are not considered sufficiently secure methods for wiping equipment. The reason is that data recovery software might be used by a new owner to “undelete” files or “unformat” a device.
 
-To erase data securely, use appropriate “data-shredding” tools for the media being erased. Typically, these tools do not simply delete data. They overwrite it multiple times. The overwriting erases all traces of the data, making it almost impossible for any retrieval. Another option is to re-encrypt the device using a different password, then delete the data to free up space.
+To erase data securely, use appropriate “data-shredding” tools for the media being erased. Typically, these tools do not simply delete data, they overwrite it multiple times. The overwriting erases all traces of the data, making it almost impossible for any retrieval. Another option is to re-encrypt the device using a different password, then delete the data to free up space.
 
 Equipment reassignment **SHALL** be recorded by the LM in the appropriate asset register.
 
 ## Equipment that cannot be reused
 
-If IT assets are no longer needed by the MoJ, and cannot be securely wiped, then the equipment **MIGHT** **MIGHT** need to be destroyed physically. More information can be found at [Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)
+If IT assets are no longer needed by the MoJ, and cannot be securely wiped, then the equipment **MIGHT** need to be destroyed physically. More information can be found at [Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)
 
 Regrettably, for security reasons, redundant IT equipment **SHOULD NOT** be donated to charities, schools, or similar organisations.
 

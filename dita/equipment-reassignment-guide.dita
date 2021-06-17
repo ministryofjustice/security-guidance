@@ -120,8 +120,8 @@
       <p>To erase data securely,
         use appropriate <q>data-shredding</q> tools for the media being erased.
         Typically,
-        these tools do not simply delete data.
-        They overwrite it multiple times.
+        these tools do not simply delete data,
+        they overwrite it multiple times.
         The overwriting erases all traces of the data,
         making it almost impossible for any retrieval.
         Another option is to re-encrypt the device using a different password,
