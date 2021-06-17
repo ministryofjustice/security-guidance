@@ -30,9 +30,7 @@ The [IT Security - System Backup Policy](system-backup-policy.md) describes the 
 This document provides standards and details of the tasks, configurations, and processes required for an IT system backup to comply with the policy, including:
 
 -   how backups are managed
-
 -   the process for backing up
-
 
 For an overview of backup concepts, and why backup is important for the MoJ, see the [IT Security - System Backup Guide](system-backup-guidance.md).
 
@@ -45,47 +43,31 @@ For details of how backups are implemented, see the [System backup procedures](#
 Each system requires:
 
 -   a backup schedule that describes the frequency and kind of backup for the system
-
 -   a retention schedule that describes how long a backup must be kept, to enable system recovery
-
 -   an archive schedule that describes how long a particular backup should be kept after it is no longer required for recovery purposes, but is still retained to comply with the MoJ Data Retention requirements or other legal needs
-
 -   a process for deleting or disposing of a backup if it is no longer required for recovery or retention purposes
-
 -   a process for recovering or restoring some or all data or other backed-up information to a known point-in-time
-
 -   information so that users understand how data can be restored for the system, if required
-
 -   a process for users to request data recovery or restoration, subject to business requirements
-
 
 ## System backup requirements
 
 This section of the standard describes the main requirements for system backups. It must be possible to:
 
 -   take backups
-
 -   test backups
-
 -   retain and restore backups as required
-
 -   maintain a library of backup archives
-
 
 ### General requirements
 
 Systems backups should be:
 
 -   proportionate to the need
-
 -   taken on a regular basis
-
 -   tested regularly to help guarantee reliable restoration of any required data
-
 -   stored safely and ready for restoration when required, for example during a disaster event
-
 -   recorded in a log, detailing what data was backed up, and when
-
 
 The amount of data backed up from the system is the 'extent', and how often the data is backed up is the 'frequency'. The extent and frequency of backups must be such that the MoJ is able to tolerate non-availability of the data if becomes unavailable and must be restored.
 
@@ -114,32 +96,20 @@ The RPO and RTO values for a specific system are determined in the system's Busi
 System backup schedule checklist:
 
 1.  Determine the extent of data that must be backed up.
-
 2.  Determine the RPO for the system.
-
 3.  Determine the RTO for the system.
-
 4.  Calculate backup frequency using the RPO value. The time between backups must be less than the RPO value.
-
 5.  Decide the configuration of full and incremental backups. The configuration should be such that the time required for a complete recovery is less than the RTO. Remember to allow time for deciding to do a restore, and retrieving off-site backups if required.
-
 6.  Confirm that the schedule includes backups suitable for [archiving purposes](#archive-schedules).
-
 7.  For each of the types of [backup testing](#recovery-testing) required, include process details.
-
 8.  Identify storage requirements for backups and archives, and processes for storing and retrieving them.
-
 9.  Identify the process for logging details of each and every backup.
-
 
 In summary, the backup schedule for the system provides the following details:
 
 -   the extent and frequency of backup
-
 -   testing processes, including their frequency and record keeping
-
 -   storage details, including logging, specifications and processes
-
 
 ### Retention schedules
 
@@ -180,17 +150,11 @@ The backup retention period should never be shorter than the schedule requires. 
 Retention schedule checklist:
 
 1.  Is a retention period defined in the system BIA or BCP? If not, identify the kind of data backed up by the system. Use this to determine the default retention period based on the table above.
-
 2.  If multiple data types are backed up, use the longest applicable retention schedule.
-
 3.  If you cannot determine or implement the retention period, seek guidance or an exception through the RMADS for the system.
-
 4.  Detail the retention period, and the process for moving backups into and out of the retention state.
-
 5.  Provide a process for testing each of the backups.
-
 6.  Provide a process for recovering a complete set of data using any retention backup.
-
 
 #### Archive schedules
 
@@ -199,22 +163,15 @@ As described in the [retention schedule requirement](#retention-schedules), back
 Depending on the nature of the extended retention requirement, it might be possible to satisfy the need in one of the following ways:
 
 -   keeping the existing backups unchanged
-
 -   using a combination of full and incremental backups
-
 -   condensing the existing backups into archives of full backups
-
 
 A backup suitable for archive purposes has the following characteristics:
 
 -   it is already stored on physical media, or is converted accurately and without loss onto physical media
-
 -   the physical media will not degrade during the archive period
-
 -   the media is stored in an offline environment that is either on-site or off-site
-
 -   the backup contains all the data required to meet all the retention obligations
-
 
 ##### Creating an archive schedule
 
@@ -225,13 +182,9 @@ The [data retention schedule](#retention-schedules) for a system determines what
 Archive schedule checklist:
 
 1.  If an archive process is defined in the system BIA or BCP, use it.
-
 2.  Detail the process for moving backups into and out of the archive state.
-
 3.  Provide a process for testing each of the backups.
-
 4.  Provide a process for recovering a complete set of data using any archive backup.
-
 
 ### System backup procedures
 
@@ -242,19 +195,12 @@ System backup procedures describe the tasks that meet the [system backup require
 The manager of a system, or their nominated deputy, is responsible for assuring that:
 
 -   all backups complete successfully
-
 -   the log files for completed backups are checked, to confirm that the correct data was backed up
-
 -   the register of system backups is updated and maintained
-
 -   any backup medium used is replaced as required for example because of failure or reaching end-of-life
-
 -   backup schedules are maintained
-
 -   any backup failures occurring twice or more in succession are recorded, investigated, and resolved
-
 -   the decision regarding when to try a failed backup again is documented: as soon as possible, or by waiting until the next scheduled backup task
-
 
 #### Security considerations
 
@@ -267,18 +213,13 @@ Some backups contain highly sensitive material. In addition to the security used
 Backups are of little value if the data cannot be restored. It is essential that regular disaster recovery testing takes place, to guarantee that system backup processes are working correctly. In particular, verify that:
 
 -   the correct data are being backed up
-
 -   backed-up data are recoverable
-
 
 Testing can be done in three ways:
 
 1.  A simple read only test is performed on the backup data, to ensure that all the data can be read without error or omission. This checks that it is possible for a recovery process to have access to all the required backup data.
-
 2.  A specific server or system recovery test is performed, normally taking place on-site. The test usually requires the recovery of some or all the data to a proxy system, separate from the original server. This check ensures that the data required for a complete system recovery is available.
-
 3.  A scenario-based test is performed, normally taking place off-site. This is a more comprehensive test, where a full system restore is done using an off-site non-live environment. This approach is ideal for testing various disaster recovery scenarios such as complete loss of access to the original system that was backed up.
-
 
 The testing method used, and how often it is applied, is part of the IT Disaster Recovery plan and testing regime for the system. More information is in the [IT Security - IT Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md).
 
@@ -293,9 +234,7 @@ It must be possible to show that the configuration meets all the [system backup 
 Physical media that contains backup data must be stored securely, either:
 
 -   onsite, where the media is stored in a secure place that is geographically close to where the backed-up system is located
-
 -   offsite, where the media is stored in a secure place that is geographically remote from the backed-up system
-
 
 The storage site must meet both location and retrieval requirements of the Disaster Recovery Team.
 
@@ -314,21 +253,13 @@ If a single backup medium, such as a solid-state storage device, is used to hold
 All of the following details must be recorded in the system backup register, for each unique media and job ID:
 
 -   System name and any server names
-
 -   Protective Marking for the media
-
 -   Creation date, or date last written, using the format `DD-MM-YYYY`
-
 -   End date for retaining or archiving the data, using the format `DD-MM-YYYY`
-
 -   Name of the system manager
-
 -   Name of the Information Asset Owner \(IAO\)
-
 -   Backup status, summarising the schedule details and kind of backup, for example Daily Incremental, Weekly Full, or Archive Full
-
 -   Outcome status, set to `Yes` indicating that the backup was successful, or `No` if the backup failed
-
 
 #### Disposal of backup media
 

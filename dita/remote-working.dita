@@ -2,38 +2,33 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="remote-working">
   <title>Remote Working</title>
+  <body platform="intranet">
+    <p>Remote working means you are working away from the office.
+      This could be from home,
+      at another <ph conref="conrefs.dita#conrefs/moj"/> or government office,
+      whilst travelling,
+      at a conference,
+      or in a hotel.</p>
+  </body>
   <topic id="key-points">
     <title>Key points</title>
     <body>
       <ul>
-        <li>
-          <p>Be professional, and help keep <ph conref="conrefs.dita#conrefs/mojlong"/> information and resources safe and secure at all times.</p>
-        </li>
-        <li>
-          <p>Think about where you are working, for example - can other people or family see what you are working on? Be thoughtful about information privacy.</p>
-        </li>
-        <li>
-          <p>Never send work material to personal email accounts.</p>
-        </li>
-        <li>
-          <p>Keep <ph conref="conrefs.dita#conrefs/moj"/> accounts and password information secure.</p>
-        </li>
-        <li>
-          <p>Take care of your equipment. Devices are more likely to be stolen or lost when working away from the office or home.</p>
-        </li>
-        <li>
-          <p>Do not leave <ph conref="conrefs.dita#conrefs/moj"/> equipment unattended.</p>
-        </li>
-        <li>
-          <p>Get in touch quickly to report problems or security questions.</p>
-        </li>
+        <li>Be professional, and help keep <ph conref="conrefs.dita#conrefs/mojlong"/> information and resources safe and secure at all times.</li>
+        <li>Think about where you are working, for example - can other people or family see what you are working on? Be thoughtful about information privacy.</li>
+        <li>Never send work material to personal email accounts.</li>
+        <li>Keep <ph conref="conrefs.dita#conrefs/moj"/> accounts and password information secure.</li>
+        <li>Take care of your equipment. Devices are more likely to be stolen or lost when working away from the office or home.</li>
+        <li>Do not leave <ph conref="conrefs.dita#conrefs/moj"/> equipment unattended.</li>
+        <li>Get in touch quickly to report problems or security questions.</li>
       </ul>
     </body>
   </topic>
   <topic id="overview">
     <title>Overview</title>
     <body>
-      <p>The Remote Working Guide gives you advice and guidance on the main security issues that are likely to affect you as a remote worker or a user of mobile computing facilities, (e.g. desktop/laptop computer, smart phones, etc), within the <ph conref="conrefs.dita#conrefs/moj"/>, including its Agencies and Associated Offices. It also sets out your individual responsibilities for IT security when working remotely.</p>
+      <p>The Remote Working Guide gives you advice and guidance on the main security issues that are likely to affect you as a remote worker or a user of mobile computing facilities, (e.g. desktop/laptop computer, smart phones, etc), within the <ph conref="conrefs.dita#conrefs/moj"/>, including its Agencies and Associated Offices.</p>
+      <p>It also sets out your individual responsibilities for IT security when working remotely.</p>
     </body>
   </topic>
   <topic id="audience">
@@ -42,7 +37,7 @@
       <p>This guide applies to all staff in the <ph conref="conrefs.dita#conrefs/moj"/>, its Agencies, Associated Offices and Arm's Length Bodies (ALBs), including contractors, agency and casual staff and service providers, who use computing equipment provided by the Department for remote working or mobile computing, or process any departmental information while working remotely or while using <ph conref="conrefs.dita#conrefs/moj"/> mobile computing equipment.</p>
     </body>
   </topic>
-  <topic id="what-is-remote-working">
+  <topic id="what-is-remote-working" platform="github">
     <title>What is remote working?</title>
     <body>
       <p>Remote working means you are working away from the office. This could be from home, at another <ph conref="conrefs.dita#conrefs/moj"/> or government office, whilst travelling, at a conference, or in a hotel.</p>
@@ -52,52 +47,24 @@
     <title>Protecting your workspace and equipment</title>
     <body>
       <p>Remote working is when you work from any non-<ph conref="conrefs.dita#conrefs/moj"/> location, for example, working at home. It's important to think about confidentiality, integrity and availability aspects as you work. This means protecting equipment, and the area where you work.</p>
-      <p>
-        <b>Always:</b>
-      </p>
+      <p><b>Always:</b>
       <ul>
-        <li>
-          <p>Keep <ph conref="conrefs.dita#conrefs/moj"/> equipment and information safe and secure.</p>
-        </li>
-        <li>
-          <p>Protect <ph conref="conrefs.dita#conrefs/moj"/> information from accidental access by unauthorised people.</p>
-        </li>
-        <li>
-          <p>Lock or log off your device when leaving it unattended. For long periods of non-use, shut down your device.</p>
-        </li>
-        <li>
-          <p>Keep your workspace clear and tidy - follow a 'clean desk policy', including paperwork, to ensure <ph conref="conrefs.dita#conrefs/moj"/> information isn't seen by unauthorised people.</p>
-        </li>
-        <li>
-          <p>Use <ph conref="conrefs.dita#conrefs/moj"/> IT equipment for business purposes in preference to your own equipment such as laptops or printers.</p>
-        </li>
-        <li>
-          <p>Be wary of anyone overlooking or eavesdropping what you are doing.</p>
-        </li>
-      </ul>
-      <p>
-        <b>Never:</b>
-      </p>
+        <li>Keep <ph conref="conrefs.dita#conrefs/moj"/> equipment and information safe and secure.</li>
+        <li>Protect <ph conref="conrefs.dita#conrefs/moj"/> information from accidental access by unauthorised people.</li>
+        <li>Lock or log off your device when leaving it unattended. For long periods of non-use, shut down your device.</li>
+        <li>Keep your workspace clear and tidy - follow a 'clean desk policy', including paperwork, to ensure <ph conref="conrefs.dita#conrefs/moj"/> information isn't seen by unauthorised people.</li>
+        <li>Use <ph conref="conrefs.dita#conrefs/moj"/> IT equipment for business purposes in preference to your own equipment such as laptops or printers.</li>
+        <li>Be wary of anyone overlooking or eavesdropping what you are doing.</li>
+      </ul></p>
+      <p><b>Never:</b>
       <ul>
-        <li>
-          <p>Let family or other unauthorised people use <ph conref="conrefs.dita#conrefs/moj"/> equipment.</p>
-        </li>
-        <li>
-          <p>Leave equipment unattended.</p>
-        </li>
-        <li>
-          <p>Work on sensitive information in public spaces, or where your equipment can be overlooked by others.</p>
-        </li>
-        <li>
-          <p>Advertise the fact that you work with <ph conref="conrefs.dita#conrefs/moj"/> materials.</p>
-        </li>
-        <li>
-          <p>Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.</p>
-        </li>
-        <li>
-          <p>Send work material to your personal email address.</p>
-        </li>
-      </ul>
+        <li>Let family or other unauthorised people use <ph conref="conrefs.dita#conrefs/moj"/> equipment.</li>
+        <li>Leave equipment unattended.</li>
+        <li>Work on sensitive information in public spaces, or where your equipment can be overlooked by others.</li>
+        <li>Advertise the fact that you work with <ph conref="conrefs.dita#conrefs/moj"/> materials.</li>
+        <li>Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.</li>
+        <li>Send work material to your personal email address.</li>
+      </ul></p>
     </body>
   </topic>
   <topic id="working-securely">
@@ -105,15 +72,9 @@
     <body>
       <p>It's important to consider the security of how you work remotely.</p>
       <ul>
-        <li>
-          <p><b>Work locations</b> - as with home working above, you need to be equally, if not more, vigilant when working in public spaces.</p>
-        </li>
-        <li>
-          <p><b>Confidentiality</b> - be aware of others eavesdropping or shoulder surfing, both what you are working on and what you are saying eg conference and video calls.</p>
-        </li>
-        <li>
-          <p>Keep <ph conref="conrefs.dita#conrefs/moj"/> <b>equipment and information</b>, including printouts and documents, safe and secure.</p>
-        </li>
+        <li><b>Work locations</b> - as with home working above, you need to be equally, if not more, vigilant when working in public spaces.</li>
+        <li><b>Confidentiality</b> - be aware of others eavesdropping or shoulder surfing, both what you are working on and what you are saying eg conference and video calls.</li>
+        <li>Keep <ph conref="conrefs.dita#conrefs/moj"/> <b>equipment and information</b>, including printouts and documents, safe and secure.</li>
       </ul>
       <p>Even when working remotely, you must still follow the security policies and operating procedures for <ph conref="conrefs.dita#conrefs/moj"/> systems you access and work with.</p>
     </body>
@@ -126,21 +87,11 @@
       <p>If you are working remotely, or do not have access to <ph conref="conrefs.dita#conrefs/moj"/> equipment, it might be tempting to use your own equipment, especially printers. The advice is to avoid printing anything, and in particular not to use personal printers.</p>
       <p>However, if you really must print <ph conref="conrefs.dita#conrefs/moj"/> information, you:</p>
       <ul>
-        <li>
-          <p>should connect directly to the printer using USB, not WiFi</p>
-        </li>
-        <li>
-          <p>should not print out personal information relating to others</p>
-        </li>
-        <li>
-          <p>should consult the information asset owner or line manager before printing the information</p>
-        </li>
-        <li>
-          <p>must store any and all printed materials safely and securely until you return to <ph conref="conrefs.dita#conrefs/moj"/> premises, when they must be disposed of or filed appropriately</p>
-        </li>
-        <li>
-          <p><b>must never</b> dispose of <ph conref="conrefs.dita#conrefs/moj"/> information in your home rubbish or recycling</p>
-        </li>
+        <li>Should connect directly to the printer using USB, not wifi.</li>
+        <li>Should not print out personal information relating to others.</li>
+        <li>Should consult the information asset owner or line manager before printing the information.</li>
+        <li>Must store any and all printed materials safely and securely until you return to <ph conref="conrefs.dita#conrefs/moj"/> premises, when they must be disposed of or filed appropriately.</li>
+        <li><b>Must never</b> dispose of <ph conref="conrefs.dita#conrefs/moj"/> information in your home rubbish or recycling.</li>
       </ul>
       <p>Basically, think before you print.</p>
     </body>
@@ -152,15 +103,9 @@
       <p>Be aware of your working environment when you work with <ph conref="conrefs.dita#conrefs/moj"/> information. If anyone might see the data, or hear you talk about it as you use it, that could cause privacy problems. Be aware of SMART devices around your remote location, and ensure they are switched off if conducting video or voice communications.</p>
       <p>Guidance and suggestions for improving Privacy appear throughout this guide, but it's worthwhile highlighting these points:</p>
       <ul>
-        <li>
-          <p>Lock your computer, even when unattended for short periods.</p>
-        </li>
-        <li>
-          <p>Think about whether an unauthorised person, such as a family member, might see the information you are working with.</p>
-        </li>
-        <li>
-          <p>Don't write down passwords. Use a password manager.</p>
-        </li>
+        <li>Lock your computer, even when unattended for short periods.</li>
+        <li>Think about whether an unauthorised person, such as a family member, might see the information you are working with.</li>
+        <li>Don't write down passwords. Use a password manager.</li>
       </ul>
     </body>
   </topic>

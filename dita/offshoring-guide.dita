@@ -145,7 +145,7 @@
           </li>
           <li>
             <p>Some development activities may be deemed to require real or anonymised data, rather than fully synthetic test data, to ensure the robustness of critical applications or to test revised applications against historical data from extant capabilities.</p>
-            <p>Wherever it is considered that there may be a requirement to use real or anonymised data, rather than synthetic data, the <ph conref="conrefs.dita#conrefs/moj"/> "Policy on the use of live personal data for the testing of IT systems, processes or procedures" must be complied with.
+            <p audience="audience-suppliers audience-tech">Wherever it is considered that there may be a requirement to use real or anonymised data, rather than synthetic data, the <ph conref="conrefs.dita#conrefs/moj"/> "Policy on the use of live personal data for the testing of IT systems, processes or procedures" must be complied with.
               For more information, see <xref href="using-live-data-for-testing-purposes.dita" format="dita">this guidance</xref>.</p>
           </li>
           <li>
@@ -1094,7 +1094,7 @@
     <title>Notes</title>
     <body>
       <p><xref href="http://www.owasp.org" format="html" scope="external">http://www.owasp.org</xref></p>
-      <p>Wherever it is considered that there may be a requirement to use real or anonymised data, rather than synthetic data, the <ph conref="conrefs.dita#conrefs/moj"/> "Policy on the use of live personal data for the testing of IT systems, processes or procedures" must be complied with.
+      <p audience="audience-suppliers audience-tech">Wherever it is considered that there may be a requirement to use real or anonymised data, rather than synthetic data, the <ph conref="conrefs.dita#conrefs/moj"/> "Policy on the use of live personal data for the testing of IT systems, processes or procedures" must be complied with.
         For more information, see <xref href="using-live-data-for-testing-purposes.dita" format="dita">this guidance</xref>.</p>
       <p>A particular consideration for offshoring is DPA Principle 8: "Personal data shall not be transferred to a country or territory outside the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data."</p>
       <p>For example, an offshore organisation based in Country A, which provides second-line support for an <ph conref="conrefs.dita#conrefs/moj"/> application from Country A, might rely on teams from its offices in Country B to conduct development and third-line support activities. This would have an impact on the Threat Assessment and hence the risks to the capability.</p>

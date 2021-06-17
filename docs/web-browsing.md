@@ -1,6 +1,8 @@
 # Web Browsing
 
-The Ministry of Justice \(MoJ\) provides access to the Intranet and Internet for business use. The access helps you to do your job effectively and efficiently. MoJ security policies governs your use of these facilities.
+The Ministry of Justice \(MoJ\) provides access to the Intranet and Internet for business use. The access helps you to do your job effectively and efficiently.
+
+MoJ security policies governs your use of these facilities.
 
 [Reasonable](acceptable-use.md) personal use is allowed, if:
 
@@ -19,22 +21,21 @@ The Department monitors the use of electronic communications and web-browsing ac
 -   **[Web browsing security policy profiles](web-browsing-security-policy-profiles.md)**  
 
 
-## Websites you can access
+## What websites you can access
 
 The MoJ's approach to website access is continually reviewed and updated. By default, we try to allow access to as much as possible of the internet for all users. Inevitably, there are some restrictions, for the following reasons:
 
--   **Cyber Security**
+**Cyber Security**
 
-    The site is an unacceptable security risk for MoJ systems or users. For example, sites known to host malware are blocked.
+-   The site is an unacceptable security risk for MoJ systems or users. For example, sites known to host malware are blocked.
 
--   **Technical**
+**Technical**
 
-    The site causes technical issues which interfere with business activities. For example, a video site uses too much network capacity.
+-   The site causes technical issues which interfere with business activities. For example, a video site uses too much network capacity.
 
--   **Business Policy**
+**Business Policy**
 
-    Only a specific individual or group of users can access the site. For example, social media sites are blocked for systems or users in frontline roles.
-
+-   Only a specific individual or group of users can access the site. For example, social media sites are blocked for systems or users in frontline roles.
 
 The list of websites included in each of the categories is as small as possible. But if you cannot access a site that you think should be OK, you can [request a review](#what-to-do-if-you-are-blocked-from-a-website-that-you-think-should-be-ok). Similarly, if you can access a site that you think should be blocked, [request a review](#what-to-do-if-you-are-able-to-access-a-website-that-you-think-should-be-blocked).
 

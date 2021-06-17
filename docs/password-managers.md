@@ -1,7 +1,5 @@
 # Password Managers
 
-## Overview
-
 [Ministry of Justice \(MoJ\) guidance](passwords.md) makes clear that you should have different passwords for different services. These passwords must be complex.
 
 But how do you remember all these different passwords?
@@ -14,11 +12,11 @@ This article provides guidance on using password managers within the MoJ.
 
 A password manager stores sensitive information in an encrypted form. Password managers are sometimes called password vaults.
 
-In the MoJ, 'password managers' are tools that you might use for your personal accounts. 'Password vaults' are tools that a team of people might use to look after details for shared accounts.
+In the MoJ, password managers are tools that you might use for your personal accounts. Password vaults are tools that a team of people might use to look after details for shared accounts.
 
 Password vaults usually have extra strong access controls, such as hardware tokens.
 
-Here, we use 'password manager' and 'password vault' interchangeably, except when stated otherwise.
+Here, we use password manager and 'password vault interchangeably, except when stated otherwise.
 
 ### When to use a password manager or a password vault
 
@@ -34,7 +32,7 @@ The following table shows when you might use a password manager or vault:
 
 The NCSC is [very clear](https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers):
 
-> “Should I use a password manager? Yes. Password managers are a good thing.”
+-   “Should I use a password manager? Yes. Password managers are a good thing.”
 
 This is helpful for us in the MoJ, as much of our IT Policy and guidance derives from NCSC best practices.
 
@@ -47,15 +45,10 @@ Good password managers encrypt the passwords in a file using strong encryption. 
 A good password manager will have:
 
 -   Strong encryption for the list of passwords.
-
--   Network access for encrypted lists stored 'in the cloud'.
-
--   A dedicated app but also a 'pure' web browser method for working with your password list.
-
+-   Network access for encrypted lists stored in the cloud.
+-   A dedicated app but also a pure web browser method for working with your password list.
 -   A tool to generate passwords of varying complexity.
-
 -   The ability to fill in login pages.
-
 
 ## What password manager to use
 
@@ -63,7 +56,7 @@ In the [NCSC article](https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-pas
 
 There are several password managers used within the MoJ. [LastPass](https://www.lastpass.com/) and [1Password](https://1password.com/) are probably the most popular for personal or team passwords. Example password vaults would be Hashicorp Vault, Kubernetes Secrets or AWS Key Management.
 
-For individual use, have a look at LastPass and 1Password. See which one you like best, and try it out. When you decide on a password manager, request approval from your line manager to install and use it: "I'm planning to install and use XYZ to manage my passwords, is that OK?".
+For individual use, have a look at LastPass and 1Password. See which one you like best, and try it out. When you decide on a password manager, request approval from your line manager to install and use it: “I'm planning to install and use XYZ to manage my passwords, is that OK?”.
 
 See also [Using LastPass Enterprise](using-lastpass.md).
 

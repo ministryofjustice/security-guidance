@@ -40,7 +40,7 @@
       </ul></p>
     </body>
   </topic>
-  <topic id="system-backups">
+  <topic id="system-backups" audience="audience-suppliers audience-tech">
     <title>System backups</title>
     <body>
       <p>Privileged users need to ensure that there are backups of system data in order to minimise the impact of incidents,
@@ -75,7 +75,7 @@
       </ul></p>
     </body>
   </topic>
-  <topic id="incident-management-and-response">
+  <topic id="incident-management-and-response" audience="audience-suppliers audience-tech">
     <title>Incident management and response</title>
     <body>
       <p>Privileged users play a front-line role in detecting and responding to incidents.

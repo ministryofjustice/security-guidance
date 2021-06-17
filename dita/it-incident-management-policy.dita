@@ -415,7 +415,7 @@
           <b>POL.ITSEC.020:</b>
         </p>
         <p>The IT Security Incident Management Plan for an IT System or overarching IT Domain <b>must include</b> details on how that system or IT domain IT services are restored (or recovered) following an IT Security incident.</p>
-        <p><b>Note</b> – The detail of how an IT system recovers from an incident event should be captured in that systems disaster recovery plan. See <xref href="it-disaster-recovery-policy.dita" format="dita">IT Security – Disaster Recovery Policy</xref> for further information.</p>
+        <p audience="audience-suppliers audience-tech"><b>Note</b> – The detail of how an IT system recovers from an incident event should be captured in that systems disaster recovery plan. See <xref href="it-disaster-recovery-policy.dita" format="dita">IT Security – Disaster Recovery Policy</xref> for further information.</p>
       </body>
     </topic>
   </topic>
