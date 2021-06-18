@@ -49,6 +49,7 @@
 			or <q><ph conref="#conrefs/policyshould"/></q>,
 			are as defined in the UK Government <q>Orange Book</q>
 			<xref href="https://www.gov.uk/government/publications/orange-book" format="html" scope="external">Management of Risk - Principles and Concepts</xref>.</ph>
+			<ph id="policycan"><b>CAN</b></ph>
 			<ph id="policycannot"><b>CAN NOT</b></ph>
 			<ph id="policymust"><b>SHALL</b></ph>
 			<ph id="policymustnot"><b>SHALL NOT</b></ph>
