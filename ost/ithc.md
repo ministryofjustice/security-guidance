@@ -38,13 +38,13 @@ tools often miss.
 
 ### Vulnerability scanning or penetration test?
 
-Vulnerability scans leverage preconfigured pattern recognition,
+Vulnerability scans use preconfigured pattern recognition,
 so there are many aspects of a system that will not be scanned completely.
 Some will not be scanned at all.
 Penetration testing provides coverage for large number and variety of serious
 security faults that scanners are incapable of finding and testing.
 
-## How is testing delivered?
+## How is testing done?
 
 The Group Security Delivery Team manage the penetration testing as a service
 offered via 3<sup>rd</sup> party suppliers.
@@ -74,7 +74,7 @@ please complete the
 [Assessment Request form](https://docs.google.com/forms/d/e/1FAIpQLScOcsv8qpM07EmkFy8Y9MdAuUV7jmvyz9_GZznVx39olufVcA/viewform?c=0&w=1)
 which,
 upon submission,
-will initiate the process.
+starts the process.
 A communication channel within MS Teams will be created to support ongoing
 engagement.
 
@@ -91,7 +91,7 @@ you haven't already done so.
 ## Scope Changes
 
 Changes to scope will be reviewed and considered,
-however there is a risk that this will incur impacts to dates,
+however there is a risk that this will affect dates,
 ITHC Provider availability,
 and end quote price.
 It is strongly recommended that ITHC scope is understood as much as possible and

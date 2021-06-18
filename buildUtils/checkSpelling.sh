@@ -13,7 +13,7 @@ function checkFile {
 }
 
 function changedFiles {
-  find ../docs -iname "*.md"
+  find ../docs ../intranet/ost -iname "*.md"
 }
 
 function check {
