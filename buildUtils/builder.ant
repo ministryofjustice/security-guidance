@@ -29,6 +29,8 @@
 	<property name="intranet" location="intranet"/>
 	<property name="images" location="images"/>
 	<property name="jekyll-baseline" location="jekyll-baseline"/>
+	<property name="ost" location="ost"/>
+	<property name="ostbuild" location="${intranet}/ost"/>
 	<property name="redirects" location="redirects"/>
 	<!-- Ensure that environment variable DITA_DIR is set to
 		the installation directory for the DITA Open Source Toolkit -->
@@ -61,6 +63,15 @@
 		<delete file="addLinkTarget.txt"/>
 		<!-- Tidy up. -->
 		<!-- <move file="${theFile}.new" tofile="${theFile}" overwrite="true"/> -->
+	</target>
+
+	<target name="compile_ost" depends="init, compile_intranet"
+				description="Compile OST content into production Markdown">
+		<delete dir="${ostbuild}"/>
+		<copy todir="${ostbuild}" >
+			<fileset dir="${ost}"/>
+		</copy>
+		<replace dir="${ostbuild}" replaceFilterFile="${dita}/conrefs.properties"/>
 	</target>
 
 	<target name="compile_intranet" depends="init"
@@ -250,7 +261,7 @@
 	</target>
 
 	<!-- Enable epub builds for the moment. -->
-	<target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word"/>
+	<target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word,compile_ost"/>
 	<!-- <target name="compile" depends="compile_intranet,compile_md,compile_pdf"/> -->
 
 	<target name="enableRedirect">
