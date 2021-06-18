@@ -22,7 +22,7 @@ Within these pages, you’ll find a range of training and awareness materials, a
 
 ## Links
 
-- [A Security Culture Programme](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-culture-programme.md)
+- [A Security Culture Programme](../security-culture-programme)
 - [Security Champions](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-champions.md)
 - [Events](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/events.md)
 - [Resources to share (Leaflets, posters, quizzes, worksheets, team briefs)](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/resources.md)
