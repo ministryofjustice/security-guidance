@@ -64,7 +64,7 @@ If you are working remotely, or do not have access to MoJ equipment, it might be
 
 However, if you really must print MoJ information, you:
 
-* Should connect directly to the printer using USB, not WiFi.
+* Should connect directly to the printer using USB, not wifi.
 * Should not print out personal information relating to others.
 * Should consult the information asset owner or line manager before printing the information.
 * Must store any and all printed materials safely and securely until you return to MoJ premises, when they must be disposed of or filed appropriately.
