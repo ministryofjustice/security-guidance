@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="pre-employment-screening-and-vetting-faqs">
-  <title>Pre-Employment Screening and Vetting FAQs</title>
+<topic id="pre-employment-screening-and-vetting-of-external-candidates-faqs">
+  <title>Pre-Employment Screening and Vetting of External Candidates - FAQs</title>
   <body>
     <p>This document describes pre-employment screening and National Security
       Vetting when recruiting External Candidates.</p>
     <p>It answers Frequently Asked Questions (FAQs) for recruiting managers.</p>
     <p>A downloadable version of this information is available
-      <xref href="file:///./gs/pre-employment-screening-and-vetting-faqs.docx"
+      <xref href="file:///./gs/pre-employment-screening-and-vetting-of-external-candidates-faqs.docx"
         format="docx" scope="external">here</xref>.</p>
   </body>
   <topic id="section-1-pre-employment-screening-for-directly-employed-staff">
@@ -273,8 +273,9 @@
           be made to the Cluster 2 Security Unit (C2SU).
           Do this by emailing <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>.
           C2SU recommend whether to grant or refuse the request.
-          Any required risk mitigation measures will be provided by C2SU as part
-          The Senior Security Advisor and the business unit sign-up to these
+          Any required risk mitigation measures will be provided by C2SU and
+          <ph conref="conrefs.dita#conrefs/policymust"/> require
+          the Senior Security Advisor and the business unit to sign-up to these
           required measures.</p>
         <p>Contractors and Agency staff <ph conref="conrefs.dita#conrefs/policymust"/>
         have their NSV in place before they start.
@@ -371,7 +372,7 @@
         NSV security questionnaire?</title>
       <body>
         <p>NSVS is run by UKSV.
-          there are very strict controls in place to make certain that the
+          There are very strict controls in place to make certain that the
           information you provide is secure.
           Apple products work in a different way and UKSV can't be assured by
           Apple that their platform is secure.
@@ -382,9 +383,10 @@
   <topic id="section-5-changes-to-roles-or-personal-circumstances">
     <title>Section 5: Changes to roles or personal circumstances</title>
     <body>
-      <p>This section contains information for managers and staff who are
-        already in the <ph conref="conrefs.dita#conrefs/moj"/> and have changes
-        to their roles or personal circumstances.</p>
+      <p>This section contains information for managers,
+        and for staff who are already in the
+        <ph conref="conrefs.dita#conrefs/moj"/>,
+        regarding changes to roles or personal circumstances.</p>
     </body>
     <topic id="q1-i-am-a-manager-and-i-think-a-member-of-my-team-needs-a-national-security-vetting-clearance-to-do-a-new-piece-of-work-what-should-i-do">
       <title>Q1. I am a manager and I think a member of my team needs a national
@@ -413,7 +415,7 @@
         <p>For all changes in personal circumstances,
           contact Cluster 2 Personnel Risk Management by emailing
           <xref href="mailto:VettingAftercare@cluster2security.gov.uk"
-            format="email" scope="external"/>.</p>
+            format="email" scope="external">VettingAftercare@cluster2security.gov.uk</xref>.</p>
         <p>You can find more information <xref
           href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/reporting-personal-circumstance-changes/"
           format="html" scope="external">here</xref>.</p>

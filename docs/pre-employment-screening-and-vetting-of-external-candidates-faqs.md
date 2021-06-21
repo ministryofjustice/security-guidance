@@ -1,10 +1,10 @@
-# Pre-Employment Screening and Vetting FAQs
+# Pre-Employment Screening and Vetting of External Candidates - FAQs
 
 This document describes pre-employment screening and National Security Vetting when recruiting External Candidates.
 
 It answers Frequently Asked Questions \(FAQs\) for recruiting managers.
 
-A downloadable version of this information is available [here](./gs/pre-employment-screening-and-vetting-faqs.docx).
+A downloadable version of this information is available [here](./gs/pre-employment-screening-and-vetting-of-external-candidates-faqs.docx).
 
 ## Section 1: Pre-employment screening for directly employed staff
 
@@ -136,7 +136,7 @@ Typical timings from completion of application are
 
 If NSV is required for a position, candidates **SHOULD NOT** start until their NSV is confirmed.
 
-In exceptional circumstances, a policy dispensation request **CAN** be made to the Cluster 2 Security Unit \(C2SU\). Do this by emailing [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). C2SU recommend whether to grant or refuse the request. Any required risk mitigation measures will be provided by C2SU as part The Senior Security Advisor and the business unit sign-up to these required measures.
+In exceptional circumstances, a policy dispensation request **CAN** be made to the Cluster 2 Security Unit \(C2SU\). Do this by emailing [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). C2SU recommend whether to grant or refuse the request. Any required risk mitigation measures will be provided by C2SU and **SHALL** require the Senior Security Advisor and the business unit to sign-up to these required measures.
 
 Contractors and Agency staff **SHALL** have their NSV in place before they start. For help, contact your NSVC in the first instance. If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
@@ -170,11 +170,11 @@ If you don't know who your NSVC is, see the download [here](https://intranet.jus
 
 ### Q7. Why can't candidates use an Apple machine or iPad to submit the NSV security questionnaire?
 
-NSVS is run by UKSV. there are very strict controls in place to make certain that the information you provide is secure. Apple products work in a different way and UKSV can't be assured by Apple that their platform is secure. We do not expect that will change in the foreseeable future.
+NSVS is run by UKSV. There are very strict controls in place to make certain that the information you provide is secure. Apple products work in a different way and UKSV can't be assured by Apple that their platform is secure. We do not expect that will change in the foreseeable future.
 
 ## Section 5: Changes to roles or personal circumstances
 
-This section contains information for managers and staff who are already in the MoJ and have changes to their roles or personal circumstances.
+This section contains information for managers, and for staff who are already in the MoJ, regarding changes to roles or personal circumstances.
 
 ### Q1. I am a manager and I think a member of my team needs a national security vetting clearance to do a new piece of work. What should I do?
 
@@ -186,7 +186,7 @@ Speak to your NSVC. They decide if it needs to be renewed and help you start the
 
 ### Q3. My personal circumstances have changed, who should I advise?
 
-For all changes in personal circumstances, contact Cluster 2 Personnel Risk Management by emailing [mailto:VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk).
+For all changes in personal circumstances, contact Cluster 2 Personnel Risk Management by emailing [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk).
 
 You can find more information [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/reporting-personal-circumstance-changes/).
 
