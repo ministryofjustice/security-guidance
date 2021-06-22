@@ -18,11 +18,11 @@ The benefits of an effective security culture include:
 - Awareness of the most relevant security threats
 - Employees are more likely to think and behave in a security-conscious manner
 
-Within these pages, you’ll find a range of training and awareness materials, and events, designed to help us develop our security culture. We are encouraging people to actively share these across the Department, to build awareness of the little things we can all do to help.
+​​​​​​​Within these pages, you’ll find a range of training and awareness materials, and events, designed to help us develop our security culture. We are encouraging people to actively share these across the Department, to build awareness of the little things we can all do to help.
 
 ## Links
 
-- [A Security Culture Programme](../security-culture-programme)
+- [Our Security Culture Programme](https://github.com/ministryofjustice/security-guidance/blob/Local/security-culture-programme)
 - [Security Champions](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-champions.md)
 - [Events](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/events.md)
-- [Resources to share (Leaflets, posters, quizzes, worksheets, team briefs)](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/resources.md)
+- [Resources to share](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/resources.md)

@@ -2,9 +2,6 @@
 Review: 2021-12-31
 Owner:
 ---
-
-[Home > Our Security Culture](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-culture-overview.md)
-
 # Events
 
 ## Webinar: How to keep yourself and your work safe online
@@ -27,7 +24,17 @@ People managers are invited to attend a new Security Awareness training session.
 
 It includes practical advice on how to manage security behaviours in your team. Some pre-reading and a short post-attendance exercise will be required in addition to the workshop. Please sign up via Eventbrite:
 
-- Wednesday 23 June (11:00-12.30) -  [book here](https://intranet.justice.gov.uk/events/people-manager-security-awareness-workshop-3/)
-- Wednesday 28 July (11:00-12.30) - [book here](https://intranet.justice.gov.uk/events/people-manager-security-awareness-workshop-4/)
-- Wednesday 25 August (11:00-12.30) - [book here](https://intranet.justice.gov.uk/events/people-manager-security-awareness-workshop-5/)
-- Wednesday 22 September (11:00-12.30) - [book here](https://intranet.justice.gov.uk/events/people-manager-security-awareness-workshop-6/)
+- Wednesday 23 June (11:00-12.30) -  Fully booked
+- Friday 16 July (11:00-12:30) - [Book here](https://www.eventbrite.co.uk/e/people-manager-security-awareness-workshop-tickets-159965672633)
+- Wednesday 28 July (11:00-12.30) - Fully booked
+- Friday 20 August (11:00-12:30) - [Book here](https://www.eventbrite.co.uk/e/people-manager-security-awareness-workshop-tickets-159965674639)
+- Wednesday 25 August (11:00-12.30) - Fully Booked
+- Friday 17 September 11:00-12:30) - [Book here](https://www.eventbrite.co.uk/e/people-manager-security-awareness-workshop-tickets-159965676645)
+- Wednesday 22 September (11:00-12.30) - Fully booked
+
+## Links
+
+- [Our Security Culture](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-culture-overview.md)
+- [Our Security Culture Programme](https://github.com/ministryofjustice/security-guidance/blob/Local/security-culture-programme)
+- [Security Champions](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-champions.md)
+- [Resources to share](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/resources.md)

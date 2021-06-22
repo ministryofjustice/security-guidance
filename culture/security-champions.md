@@ -3,8 +3,6 @@ Review: 2021-12-31
 Owner:
 ---
 
-[Home > Our Security Culture](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-culture-overview.md)
-
 # Security Champions
 
 We are currently building a network of Security Champions across MoJ HQ to promote good security behaviours and strengthen the Department’s security culture.
@@ -33,3 +31,10 @@ Security Champions will be able to collaborate via the Security Champion MS Team
 ## Contacts
 - [Security and Privacy team](mailto:security@justice.gov.uk)
 - Security culture change lead - [Dawn Carrington](mailto:dawn.carrington@justice.gov.uk)
+
+## Links
+
+- [Our Security Culture](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-culture-overview.md)
+- [Our Security Culture Programme](https://github.com/ministryofjustice/security-guidance/blob/Local/security-culture-programme)
+- [Events](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/events.md)
+- [Resources to share](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/resources.md)

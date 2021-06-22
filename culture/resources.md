@@ -3,8 +3,6 @@ Review: 2021-12-31
 Owner:
 ---
 
-[Home > Our Security Culture](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-culture-overview.md)
-
 # Resources
 
 ## Videos
@@ -34,3 +32,11 @@ Owner:
 ## Newsletters
 
 - [MoJ Protect newsletter](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/MoJ%20Protect.pdf) (example) - a quarterly update for our stakeholders, and a great way to stay on top of the policies and threats you need to be aware of, no matter what your role. To be added to this mailing list please email [Dawn Carrington](mailto:dawn.carrington@justice.gov.uk).
+
+## Links
+
+- [Our Security Culture](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-culture-overview.md)
+- [Our Security Culture Programme](https://github.com/ministryofjustice/security-guidance/blob/Local/security-culture-programme)
+- [Security Champions](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-champions.md)
+- [Events](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/events.md)
+- [Resources to share](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/resources.md)
