@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 15 June 2021.
+**Note:** This guidance is dated: 22 June 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 15 July 2021.
+The offline versions of this guidance are time-limited, and are not valid after 22 July 2021.
 
 ### Searching this content
 
@@ -228,6 +228,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 #### Equipment
 
 |[Clear Screen and Desk Policy](clear-screen-and-desk.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/clear-screen-and-desk/)\)|All users|
+|[Equipment Reassignment Guide](equipment-reassignment-guide.md)|All users|
 |[Laptops](laptops.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/laptops/)\)|All users|
 |[Locking and shutdown](locking-and-shutdown.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/locking-and-shutdown/)\)|All users|
 |[Policies for Macbook Users](policies-for-macbook-users.md) \([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-users/)\)|All users|
