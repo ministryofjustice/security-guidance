@@ -33,7 +33,7 @@ little things we can all do to help.
 
 ## Links
 
-- @oursecurityculture@
+- @securitycultureprogramme@
 - @securitychampions@
 - @events@
 - @resourcestoshare@

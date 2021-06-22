@@ -33,7 +33,7 @@ little things we can all do to help.
 
 ## Links
 
-- [Our Security Culture](security-culture-overview.md)
+- [Security Culture Programme](security-culture-programme.md)
 - [Security Champions](security-champions.md)
 - [Events](events.md)
 - [Resources to share](resources.md)
