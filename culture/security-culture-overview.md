@@ -22,7 +22,7 @@ The benefits of an effective security culture include:
 
 ## Links
 
-- [Our Security Culture Programme](https://github.com/ministryofjustice/security-guidance/blob/Local/security-culture-programme)
+- [Our Security Culture Programme](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-culture-programme.md)
 - [Security Champions](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-champions.md)
 - [Events](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/events.md)
 - [Resources to share](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/resources.md)

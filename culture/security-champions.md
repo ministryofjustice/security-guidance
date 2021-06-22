@@ -35,6 +35,6 @@ Security Champions will be able to collaborate via the Security Champion MS Team
 ## Links
 
 - [Our Security Culture](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-culture-overview.md)
-- [Our Security Culture Programme](https://github.com/ministryofjustice/security-guidance/blob/Local/security-culture-programme)
+- [Our Security Culture Programme](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/security-culture-programme.md)
 - [Events](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/events.md)
 - [Resources to share](https://github.com/ministryofjustice/security-guidance/blob/Local/culture/resources.md)
