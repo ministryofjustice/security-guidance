@@ -140,6 +140,7 @@ Content tagged with the Intranet icon \(![A small UK Government Crown, to indica
 |[End or change of employment](end-or-change-of-employment.md)|All users|
 |[Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)|All users|
 |[National Security Vetting questions](national-security-vetting-questions.md)|All users|
+|[Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)|All users|
 
 #### During employment
 
@@ -397,4 +398,3 @@ The [Government Functional Standard - GovS 007: Security](https://www.gov.uk/gov
 ## Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
-
