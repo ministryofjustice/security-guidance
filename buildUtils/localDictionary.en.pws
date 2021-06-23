@@ -4,6 +4,7 @@ accreditor
 ACPO
 actioned
 ActiveX
+AIP
 analytics
 anonymised
 antivirus
@@ -43,6 +44,7 @@ CRB
 criticality
 cryptographic
 Cryptographic
+CSI
 CSJM
 CSP
 CTC
@@ -65,6 +67,7 @@ DNS
 DOM
 DPA
 DSO
+DSS
 DV
 DVDs
 DXW
@@ -72,7 +75,7 @@ eDelivery
 EDRM
 EEA
 else's
-eMail
+EPICK
 eToken
 exfiltration
 Fi
@@ -143,6 +146,7 @@ Kubernetes
 lifecycle
 LastPass
 LDAP
+LM
 Lockdown
 login
 logoff
@@ -164,6 +168,8 @@ NICT
 NIST
 NLE
 NOMS
+NSV
+NSVC
 OAuth
 OFFICIAL
 offshoring
@@ -180,6 +186,7 @@ OST
 OWASP
 patchable
 PBKDF
+PCI
 PCMCIA
 PDA
 PDAs
@@ -195,6 +202,7 @@ PSO
 Pwned
 ransomware
 Rattic
+repurposing
 RMADS
 routable
 RPO
@@ -234,7 +242,12 @@ Trustwave
 TYR
 UAE
 un
+undelete
+unencrypted
+unformat
+unmanaged
 Unscannable
+untrusted
 uptime
 username
 usernames
