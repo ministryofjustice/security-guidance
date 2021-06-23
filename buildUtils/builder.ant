@@ -275,7 +275,7 @@
 	</target>
 
 	<!-- <target name="dist_local" depends="compile_intranet" -->
-	<target name="dist_local" depends="compile_md,compile_intranet,compile_word"
+	<target name="dist_local" depends="compile_md,compile_intranet,compile_word,compile_ost"
 				description="generate minimal set to test local build">
 		<!-- Create the distribution directory -->
 		<mkdir dir="${docs}"/>

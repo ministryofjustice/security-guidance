@@ -111,3 +111,8 @@ Please note the weekly meeting schedule below:
 | Thursday | 15:00 - 16:00 |
 
 If you have any queries then please don't hesitate to ask.
+
+## Test Cancellations and Delays
+
+Cancelling or delaying a test will result in project costs.
+Information about these is provided [here](test-cancellations-and-delays.md).
