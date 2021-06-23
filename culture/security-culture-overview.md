@@ -16,7 +16,7 @@ promotes the desired security behaviours from our people.
 Everyone who works for us, whether an employee, contractor or supplier, has a
 role to play in keeping the @moj@ safe and secure. Your behaviours are what can
 protect us (or not) from the range of threats that exist, which have the
-potential to cause physical, reputational or financial harm to our service
+potential to cause physical, reputation, or financial harm to our service
 users, your colleagues or the @moj@.
 
 The benefits of an effective security culture include:
@@ -26,7 +26,7 @@ The benefits of an effective security culture include:
 - Awareness of the most relevant security threats.
 - Employees are more likely to think and behave in a security-conscious manner.
 
-​​​​​​​Within these pages, you’ll find a range of training and awareness materials, and
+Within these pages, you’ll find a range of training and awareness materials, and
 events, designed to help us develop our security culture. We are encouraging
 people to actively share these across the Department, to build awareness of the
 little things we can all do to help.

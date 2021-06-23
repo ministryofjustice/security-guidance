@@ -7,7 +7,7 @@ Owner:
 
 # Security Culture Programme
 
-The programme aims to strengthen our security culture through raising awareness,
+The programme aims to improve our security culture through raising awareness,
 sharing knowledge, best practise and resources, and aspires to ensure our
 security is second to none.
 
@@ -25,7 +25,7 @@ are happy to promote this in your team.
 
 ## Joiners, Movers and Leavers (JML)
 
-### Strengthening our JML Processes
+### Improving our JML Processes
 
 When somebody joins, moves or leaves the MoJ, there are certain security
 procedures which must be followed to ensure a safe environment for us all.
@@ -42,7 +42,7 @@ instil security messages as soon as somebody joins us. We also need our People
 Managers to ensure that the MoJ's security processes are followed for new
 joiners in their first week:
 
-1. Complete CSL’s [Responsible for Information eLearning](https://civilservicelearning.civilservice.gov.uk/user/login?destination=node/498964).
+1. Complete CSL's [Responsible for Information](https://civilservicelearning.civilservice.gov.uk/user/login?destination=node/498964) training course.
 2. Watch [the security induction video](https://youtu.be/xpt-6ioa1nA) (this will be replaced by a new formal induction product on MyLearning later in 2021).
 3. Read [Your Guide to Being Security Aware](https://intranet.justice.gov.uk/documents/2020/04/your-guide-to-being-security-aware.pdf).
 
@@ -74,7 +74,7 @@ Chief Security Officer.
 ## Security Academy
 
 We are launching a platform to host the latest security policy, resources, best
-practices and guidance, to collaborate, and to deliver security training: a
+practices and guidance, to collaborate, and to provide security training: a
 training academy. Initially this will be for our security champions, but the
 intention is to eventually make this a best practice forum for government
 security, accessible to all employees and civil servants.

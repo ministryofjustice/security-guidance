@@ -44,6 +44,7 @@ Microsoft Teams group, which enables champions to talk to each other and share
 information across the @moj@. Details will be shared at a Welcome session.
 
 ## Contacts
+
 - @spemailtext@
 - Security culture change lead: @dawncarringtontext@
 

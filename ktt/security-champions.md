@@ -44,6 +44,7 @@ Microsoft Teams group, which enables champions to talk to each other and share
 information across the MoJ. Details will be shared at a Welcome session.
 
 ## Contacts
+
 - [Security and Privacy team](mailto:security@justice.gov.uk)
 - Security culture change lead: [Dawn Carrington](mailto:dawn.carrington@justice.gov.uk)
 
