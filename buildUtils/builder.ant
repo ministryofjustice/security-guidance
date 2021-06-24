@@ -72,6 +72,12 @@
 			<fileset dir="${ost}"/>
 		</copy>
 		<replace dir="${ostbuild}" replaceFilterFile="${dita}/conrefs.properties"/>
+		<echo message="Convert to Intranet markdown."/>
+		<foreach target="addLinkTarget" param="theFile">
+			<path>
+				<fileset dir="${ostbuild}" includes="**/*.md"/>
+			</path>
+		</foreach>
 	</target>
 
 	<target name="compile_intranet" depends="init"
@@ -89,7 +95,7 @@
 		<replaceregexp match="\*\*Parent topic\:\*\*(\S)" replace="**Parent topic:** \1" flags="g" >
 			<fileset dir="${intranet}" includes="**/*.md"/>
 		</replaceregexp>
-		<echo message="Adding link targets."/>
+		<echo message="Convert to Intranet markdown."/>
 		<foreach target="addLinkTarget" param="theFile">
 			<path>
 				<fileset dir="${intranet}" includes="**/*.md"/>
