@@ -8,7 +8,7 @@ An external viewpoint is in the public IP address space.
 A test of the server hosting this page,
 from where you are,
 would be from an external viewpoint.
-An internal viewpoint requires testing from inside an organisation's private
+An internal viewpoint requires testing from inside an organisation's private
 network.
 
 There are many types of penetration tests used by the @moj@,

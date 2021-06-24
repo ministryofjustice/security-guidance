@@ -72,12 +72,14 @@
 			<fileset dir="${ost}"/>
 		</copy>
 		<replace dir="${ostbuild}" replaceFilterFile="${dita}/conrefs.properties"/>
+		<!--
 		<echo message="Convert to Intranet markdown."/>
 		<foreach target="addLinkTarget" param="theFile">
 			<path>
 				<fileset dir="${ostbuild}" includes="**/*.md"/>
 			</path>
 		</foreach>
+		-->
 	</target>
 
 	<target name="compile_intranet" depends="init"
