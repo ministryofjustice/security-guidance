@@ -469,10 +469,11 @@
   <topic id="data-movement-form-dmf">
     <title>Data Movement Form (DMF)</title>
     <body>
-      <p>The Data Movement Form (DMF) is available on the
+      <p>The Data Movement Form (DMF) is available <ph platform="intranet">on the
       <xref href="https://intranet.justice.gov.uk/documents/2015/04/data-movement-form.doc"
         format="doc" scope="external"><ph conref="conrefs.dita#conrefs/moj"/>
-        Intranet</xref>.</p>
+        Intranet</xref></ph><xref href="downloads/data-movement-form.docx"
+          format="docx" platform="github">here</xref>.</p>
       <p>The purpose of the DMF is to ensure that the movement of information
         assets is secure,
         and in compliance with the <ph conref="conrefs.dita#conrefs/gov007"/>.</p>
@@ -498,15 +499,19 @@
           An example is using secure file transfer or approved email to transfer
         the information.
       The DMF in this scenario focuses on the data being moved or shared.</li>
-          <li>An asset (a <q>data bearing asset</q>) is being moved to or shared
-          with an external party.
+          <li>An asset (a <q>data bearing asset</q>) is being moved to,
+          or transported by,
+          an external party.
+          This might be as a result of an office move,
+          or because the asset is being decommissioned.
             The asset might contain or process <ph conref="conrefs.dita#conrefs/moj"/>
             information.
             Examples of data bearing assets include laptops,
             servers,
             multi-functional devices,
             and any other data bearing peripherals.
-          The DMF in this scenario focuses on the asset being moved or shared,
+          The DMF in this scenario focuses on the asset being moved or
+          transported,
           rather than the <ph conref="conrefs.dita#conrefs/moj"/> information
           that the asset might contain or process.</li>
         </ul></p>

@@ -175,7 +175,7 @@ Where there is a business requirement to share information classified higher tha
 
 ## Data Movement Form \(DMF\)
 
-The Data Movement Form \(DMF\) is available on the [MoJ Intranet](https://intranet.justice.gov.uk/documents/2015/04/data-movement-form.doc).
+The Data Movement Form \(DMF\) is available [here](downloads/data-movement-form.docx).
 
 The purpose of the DMF is to ensure that the movement of information assets is secure, and in compliance with the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 
@@ -185,7 +185,7 @@ A DMF **SHALL** be completed, and approval received from the [Operational Securi
 
 -   Data is being moved or shared by using a physical storage device to transfer the information. An example is where you use a “memory stick”, a USB drive, a storage array, or some other removable media. The DMF in this scenario focuses on the data being moved or shared.
 -   Data is being moved or shared by electronic \(network\) communication, where the movement is from an MoJ IT system to an external party. An example is using secure file transfer or approved email to transfer the information. The DMF in this scenario focuses on the data being moved or shared.
--   An asset \(a “data bearing asset”\) is being moved to or shared with an external party. The asset might contain or process MoJ information. Examples of data bearing assets include laptops, servers, multi-functional devices, and any other data bearing peripherals. The DMF in this scenario focuses on the asset being moved or shared, rather than the MoJ information that the asset might contain or process.
+-   An asset \(a “data bearing asset”\) is being moved to, or transported by, an external party. This might be as a result of an office move, or because the asset is being decommissioned. The asset might contain or process MoJ information. Examples of data bearing assets include laptops, servers, multi-functional devices, and any other data bearing peripherals. The DMF in this scenario focuses on the asset being moved or transported, rather than the MoJ information that the asset might contain or process.
 
 A DMF **SHALL** be submitted to the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) for information purposes, in the following scenarios:
 
