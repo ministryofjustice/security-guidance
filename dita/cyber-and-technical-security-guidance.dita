@@ -52,7 +52,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                   <entry colname="col2"><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></entry>
                   <entry colname="col3"><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></entry>
                 </row>
-                <!-- 
+                <!--
                 <row>
                   <entry colname="col1">Suppliers. Includes just the details of primary interest to suppliers.</entry>
                   <entry colname="col2"><xref href="moj-guidance-suppliers.pdf" format="pdf" scope="peer">PDF</xref></entry>
@@ -449,6 +449,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="national-security-vetting-questions.dita" format="dita" type="topic">National Security Vetting questions</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" format="dita" type="topic">Pre-Employment Screening and Vetting of External Candidates - FAQs</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
         			<!-- The security vetting assessment need webpage is not required, only the download document.
               <row>
                 <entry colname="col1" align="left"><xref href="security-vetting-assessment-need.dita" format="dita" type="topic">National Security Vetting – Assessment of Need</xref></entry>
@@ -738,6 +742,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
                 <entry colname="col1" align="left"><xref href="clear-screen-and-desk.dita" format="dita">Clear Screen and Desk Policy</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/clear-screen-and-desk/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="equipment-reassignment-guide.dita" format="dita">Equipment Reassignment Guide</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
