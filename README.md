@@ -102,3 +102,42 @@ Whenever an Intranet publication is required, the following process is used:
 
 To get a list of the annotated tags, use the command:
 `git tag`
+
+## The `encrypted` folder
+
+Occasionally, there might be times when we need to work with material that is
+sensitive in some way.
+A good example is material that might be classified as `OFFICIAL-SENSITIVE`,
+such as personal information.
+Such material is still `OFFICIAL`,
+but has the additional handling indicator ('`SENSITIVE`') to show that this
+material should be treated with extra care.
+A good rule of thumb is that the information is 'need to know',
+and should not be shared in public.
+
+This material can be stored in the `encrypted` folder,
+where it is protected (encrypted) using the
+[`git-crypt`](https://github.com/AGWA/git-crypt) tools.
+The tools are [approved for use by the MoJ](https://ministryofjustice.github.io/security-guidance/secrets-management/#application--infrastructure-secrets).
+
+You do not need to have [`git-crypt`](https://github.com/AGWA/git-crypt)
+available to work with the majority
+of materials in this repository.
+If you don't have [`git-crypt`](https://github.com/AGWA/git-crypt),
+the files in the `encrypted` directory are protected;
+you can see they exist,
+but you won't be able to see or work with the contents of the file.
+
+### Getting access to the encrypted materials
+
+For the vast majority of tasks,
+there is no need to access or view the contents of the `encrypted` folder.
+
+If you *really* feel there is a need to access the materials,
+do the following:
+
+1. Read about [`git-crypt`](https://github.com/AGWA/git-crypt).
+2. Follow the [instructions](https://github.com/AGWA/git-crypt) to enable [`git-crypt`](https://github.com/AGWA/git-crypt) on your system.
+3. Generate a GPG key - this will be used to enable your access to the `encrypted` folder.
+4. Send an email request to [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk), indicating that you'd like access to the `encrypted` folder, and providing a very good business justification.
+5. If your request is approved, you'll need to provide the GPG key generated in step 3.
