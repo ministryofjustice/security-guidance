@@ -55,7 +55,9 @@ for line in inFile:
     # working = re.sub("^(?P<hashes>#+)\s+", "\g<hashes>", working)
     # Best practice is to leave a space after the hashes:
     #  https://www.markdownguide.org/basic-syntax#heading-best-practices
-    working = re.sub("^##+\s+", "## ", working)
+    # Intranet does not accept spaces after hashes.
+    working = re.sub("^#\s+", "#", working)
+    working = re.sub("^##+\s+", "##", working)
     # Change bullet list indicator.
     working = re.sub("^\-\s+", "* ", working)
     # Change bullet sub-list indicator.
