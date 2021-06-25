@@ -15,9 +15,9 @@ Examples of appropriate defences include, but are not limited to:
 -   Use of current Transport Layer Security or IPSec for in-transit encryption.
 -   Hashing and cryptography mechanisms for data stored at-rest.
 
-The defences **SHOULD** scale from individual data items in a database, up to entire storage facilities.
+The defences **SHALL** scale from individual data items in a database, up to entire storage facilities.
 
-Supplier systems **SHOULD** be proportionally resilient to malware. This might be achieved by ensuring segregation between systems, users, and data. Other industry standard best practices, such as email attachment scanning or filtering, might also be suitable.
+Supplier systems **SHALL** be proportionally resilient to malware. This might be achieved by ensuring segregation between systems, users, and data. Other industry standard best practices, such as email attachment scanning or filtering, might also be suitable.
 
 ### Email security
 

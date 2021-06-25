@@ -44,10 +44,10 @@
           <li>Use of current Transport Layer Security or IPSec for in-transit encryption.</li>
           <li>Hashing and cryptography mechanisms for data stored at-rest.</li>
         </ul></p>
-        <p>The defences <ph conref="conrefs.dita#conrefs/policyshould"/> scale
+        <p>The defences <ph conref="conrefs.dita#conrefs/policyshall"/> scale
         from individual data items in a database,
         up to entire storage facilities.</p>
-      <p>Supplier systems <ph conref="conrefs.dita#conrefs/policyshould"/> be
+      <p>Supplier systems <ph conref="conrefs.dita#conrefs/policyshall"/> be
       proportionally resilient to malware.
       This might be achieved by ensuring segregation between systems,
       users,
