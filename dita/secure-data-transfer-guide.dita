@@ -102,7 +102,7 @@
               recipient are who they claim to be.</li>
           </ul></p>
           <p>These considerations apply when transmitting any data over a
-            wireless communication network (eg Wi-Fi),
+            wireless communication network (for example wifi),
             or when the data will or might pass through an untrusted network.</p>
           <p>If the <ph conref="conrefs.dita#conrefs/moj"/> is the controller of
           the data being transferred,
@@ -110,6 +110,8 @@
           <ph conref="conrefs.dita#conrefs/policymust"/> be considered to ensure
           that they comply fully with the relevant regulation,
           such as PCI DSS or GDPR.</p>
+          <p>If it's not clear who the data controller is,
+            ask the <ph conref="conrefs.dita#conrefs/privacyemailtext"/> for help.</p>
           <p>When dealing with third parties,
             consider whether any data sharing agreements or contracts are in
             place that apply to the transfer of that data.
@@ -163,7 +165,7 @@
           </body>
         </topic>
         <topic id="data-transfer-by-email">
-          <title>Data Transfer by Email</title>
+          <title>Data Transfer by email</title>
           <body>
             <p>Where it is not possible to use Microsoft Teams or
               <ph conref="conrefs.dita#conrefs/gsuite"/>,
@@ -219,7 +221,7 @@
           </body>
         </topic>
         <topic id="cjsm-email">
-          <title>CJSM Email</title>
+          <title>CJSM email</title>
           <body>
             <ul>
               <li>The Criminal Justice Secure email Service (CJSM) is provided
@@ -373,7 +375,7 @@
             <li>Some data relating to the communication might still be exposed
               in an unencrypted form.
             An example is metadata.</li>
-            <li>Data transfer processes that rely on public-key infrastructure
+            <li>Data transfer processes that rely on Public Key Infrastructure (PKI)
               <ph conref="conrefs.dita#conrefs/policymust"/> implement strict
               certificate checking to maintain trust in end-points.</li>
           </ul></p>

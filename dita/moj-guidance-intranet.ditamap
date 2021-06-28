@@ -41,7 +41,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="locking-and-shutdown.dita" type="topic"/>
 		</topichead>
 		<topichead>
-			<topicmeta><navtitle>Macbook</navtitle></topicmeta>
+			<topicmeta><navtitle>MacBook</navtitle></topicmeta>
 			<topicref href="policies-for-macbook-users.dita" type="topic"/>
 		</topichead>
 	</topichead>

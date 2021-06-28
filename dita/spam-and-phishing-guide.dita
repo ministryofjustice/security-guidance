@@ -95,7 +95,7 @@
     <topic id="compromised-email-systems">
       <title>Compromised email systems</title>
       <body>
-        <p>Compromised email systems are often used to deliver spam messages and
+        <p>Compromised email systems are often used to send spam messages and
           conduct phishing campaigns.
           Protect email systems by using
           <xref href="multi-factor-authentication-mfa-guide.dita"
@@ -175,7 +175,7 @@
         or suspicious senders can be securely checked for malicious content
         before they reach the network or mail server.
         If the email is found to be harmful,
-        it is not delivered.
+        it is not sent further.
         Sandboxing is beneficial,
         because it:
       <ul>
@@ -183,7 +183,7 @@
           and provides a secure space to interact with and analyse potentially
           harmful communications.</li>
         <li>Allows developers and technical architects to be proactive in
-          minimising the impact of a threat.</li>
+          minimising the effect of a threat.</li>
       </ul></p>
       <p>For further guidance on implementing sandboxing,
         including which products you might use,

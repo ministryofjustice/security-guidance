@@ -76,11 +76,12 @@
           href="information-classification-handling-and-security-guide.dita"
           format="dita">Information Classification Handling and Security
           Guide</xref>.</li>
-        <li>Deprecate the downloading of data to mobile devices.
+        <li>Discourage people from downloading data to mobile devices.
           Instead,
-          promote and enable the use cloud services such as Office 365.</li>
-        <li>Ensure suspected or actual phishing emails are easily communicated to
-          the Technology Service Desk as email attachments.</li>
+          encourage and enable the use of cloud services such as Office 365.</li>
+        <li>Make it easy for people to send suspected or actual phishing emails to
+          the Technology Service Desk,
+          so that the emails can be handled safely.</li>
         <li>Keep operating systems up-to-date,
           to prevent susceptibility to viruses.</li>
         <li>Scan email attachments to detect viruses and other malware.</li>
@@ -125,7 +126,7 @@
           security incident,
           for example IT misuse.</li>
         <li>Upon the death or unexpected exit of an employee,
-          for example to enable retrieval of key information or closing down an
+          for example to enable retrieval of business information or closing down an
           account.</li>
       </ul></p>
       <p>Anyone required to enable or carry out authorised access to a user
@@ -177,7 +178,7 @@
           by enforcing Role Based Access Control (RBAC).</li>
       </ul></p>
       <p>For individual accounts,
-        the helpdesk can configure delegate access.
+        the help desk can configure delegate access.
         Administrators of group inboxes can also configure delegate access to
         those inboxes.</p>
       <p>For further details,

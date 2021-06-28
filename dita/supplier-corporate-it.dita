@@ -41,13 +41,13 @@
       <title>Data backups</title>
       <body>
         <p>Supplier corporate IT systems may backup data for extended retention times (for example, keeping archived or deleted emails for an additional few months). Backup systems may also exist in such a way that individual backup items cannot be individually deleted, and are subject to a system-wide backup rotation/retention schedule.</p>
-        <p>Subject to appropriate data governance, the <ph conref="conrefs.dita#conrefs/moj"/> acknowleges these cases.</p>
+        <p>Subject to appropriate data governance, the <ph conref="conrefs.dita#conrefs/moj"/> acknowledges these cases.</p>
       </body>
     </topic>
     <topic id="local-end-user-device-data">
       <title>Local end-user device data</title>
       <body>
-        <p>The <ph conref="conrefs.dita#conrefs/moj"/> acknowleges that corporate users typically 'download' files (from local email client caching to file downloads via a web browser) that can remain within 'Downloads' folders until explicitly deleted by the user.</p>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/> acknowledges that corporate users typically 'download' files (from local email client caching to file downloads via a web browser) that can remain within 'Downloads' folders until explicitly deleted by the user.</p>
         <p><ph conref="conrefs.dita#conrefs/moj"/> expects suppliers to consider these types of data locations in data governance regimes, however it is appreciated that data destruction may be guidance based from the supplier organisation to supplier staff.</p>
       </body>
     </topic>

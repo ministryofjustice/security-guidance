@@ -676,7 +676,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 				</row>
 				<row audience="audience-tech">
-					<entry colname="col1" align="left"><xref href="policies-for-macbook-administrators.dita" format="dita">Policies for Macbook Administrators</xref></entry>
+					<entry colname="col1" align="left"><xref href="policies-for-macbook-administrators.dita" format="dita">Policies for MacBook Administrators</xref></entry>
 					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 				</row>
 				<row audience="audience-tech">
@@ -757,7 +757,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="policies-for-macbook-users.dita" format="dita">Policies for Macbook Users</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/macbook/policies-for-macbook-users/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
+                <entry colname="col1" align="left"><xref href="policies-for-macbook-users.dita" format="dita">Policies for MacBook Users</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/macbook/policies-for-macbook-users/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row audience="audience-tech">
