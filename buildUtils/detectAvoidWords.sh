@@ -6,9 +6,15 @@
 # Run from within the buildUtils folder:
 # sh ./detectAvoidWords.sh
 
+# Also added avoid words, to improve accessibility:
+#  above
+#  below
+
 declare -a avoidList=(
+  "above"
   "agenda"
   "advancing"
+  "below"
   "collaborate"
   "combating"
   "commit"

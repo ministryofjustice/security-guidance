@@ -146,6 +146,7 @@ Kubernetes
 lifecycle
 LastPass
 LDAP
+LM
 Lockdown
 login
 logoff
@@ -167,6 +168,8 @@ NICT
 NIST
 NLE
 NOMS
+NSV
+NSVC
 OAuth
 OFFICIAL
 offshoring
@@ -199,6 +202,7 @@ PSO
 Pwned
 ransomware
 Rattic
+repurposing
 RMADS
 routable
 RPO
@@ -238,7 +242,9 @@ Trustwave
 TYR
 UAE
 un
+undelete
 unencrypted
+unformat
 unmanaged
 Unscannable
 untrusted
