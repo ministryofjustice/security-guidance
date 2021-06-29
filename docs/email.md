@@ -24,7 +24,11 @@ Be aware that the MoJ monitors the use of electronic communications and web-brow
 
 ### Monitoring
 
-The MoJ does monitor all Email for security purposes.
+The MoJ monitors all email for security purposes.
+
+Specifically, communications may be monitored without notice and on a continual basis for a number of reasons including compliance with legal obligations, effective maintenance of IT systems, preventing or detecting unauthorised use or criminal activities \(including cyber-intrusion\), monitoring of service or performance standards, providing evidence of business transactions, and checking adherence to policies, procedures, and contracts.
+
+In general, the MoJ monitors telephone usage, network, email and Internet traffic data \(including sender, receiver, subject, attachments to an e-mail, numbers called, duration of calls, domain names of websites visited, duration of visits, and files uploaded or downloaded from the Internet\) at a network level.
 
 ## Email threats
 
