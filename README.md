@@ -107,7 +107,7 @@ To get a list of the annotated tags, use the command:
 
 Occasionally, there might be times when we need to work with material that is
 sensitive in some way.
-A good example is material that might be classified as `OFFICIAL-SENSITIVE`,
+A good example is material that might be marked as `OFFICIAL-SENSITIVE`,
 such as personal information.
 Such material is still `OFFICIAL`,
 but has the additional handling indicator ('`SENSITIVE`') to show that this
@@ -119,6 +119,18 @@ This material can be stored in the `encrypted` folder,
 where it is protected (encrypted) using the
 [`git-crypt`](https://github.com/AGWA/git-crypt) tools.
 The tools are [approved for use by the MoJ](https://ministryofjustice.github.io/security-guidance/secrets-management/#application--infrastructure-secrets).
+
+Use of [`git-crypt`](https://github.com/AGWA/git-crypt) is normally for
+repositories with only a small number of encrypted files;
+the majority of files in the repository are plain text.
+For this MoJ security-guidance repository,
+it is expected that encrypted files will be exceptional,
+rather than a common or frequent occurrence.
+As a working measure,
+the number of encrypted source files should not exceed 1% of the number of
+source files in the repository.
+If the 1% value is exceeded,
+the use of [`git-crypt`](https://github.com/AGWA/git-crypt) will be reviewed.
 
 You do not need to have [`git-crypt`](https://github.com/AGWA/git-crypt)
 available to work with the majority
