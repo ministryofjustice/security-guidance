@@ -10,6 +10,7 @@
         -   [Bluetooth](bluetooth.md)
         -   [Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md)
         -   [Email](email.md)
+        -   [Equipment Reassignment Guide](equipment-reassignment-guide.md)
         -   [Information classification, handling & security guide](information-classification-handling-and-security-guide.md)
         -   [Guidance on IT Accounts and Assets for Long Term Leave](long-term-leave.md)
         -   [OFFICIAL, OFFICIAL-SENSITIVE](official-official-sensitive.md)
@@ -40,6 +41,7 @@
         -   [End or change of employment](end-or-change-of-employment.md)
         -   [Minimum user clearance](minimum-user-clearance-requirements-guide.md)
         -   [National Security Vetting questions](national-security-vetting-questions.md)
+        -   [Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)
 * User access
     * [User access](acceptable-use.md)
     * [Data Security and Privacy](data-security-and-privacy.md)
