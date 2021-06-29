@@ -36,11 +36,11 @@ When working overseas, this may include limiting access to information while the
 
 Supplier corporate IT systems may backup data for extended retention times \(for example, keeping archived or deleted emails for an additional few months\). Backup systems may also exist in such a way that individual backup items cannot be individually deleted, and are subject to a system-wide backup rotation/retention schedule.
 
-Subject to appropriate data governance, the MoJ acknowleges these cases.
+Subject to appropriate data governance, the MoJ acknowledges these cases.
 
 ### Local end-user device data
 
-The MoJ acknowleges that corporate users typically 'download' files \(from local email client caching to file downloads via a web browser\) that can remain within 'Downloads' folders until explicitly deleted by the user.
+The MoJ acknowledges that corporate users typically 'download' files \(from local email client caching to file downloads via a web browser\) that can remain within 'Downloads' folders until explicitly deleted by the user.
 
 MoJ expects suppliers to consider these types of data locations in data governance regimes, however it is appreciated that data destruction may be guidance based from the supplier organisation to supplier staff.
 

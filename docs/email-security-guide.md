@@ -26,8 +26,8 @@ All technical users are responsible for maintaining and using the MoJ's email co
 
 -   Where possible, automate checks of the sender's authenticity by implementing the controls in the [Email Authentication Guide](email-authentication-guide.md).
 -   Ensure all email communications are protected according to the classification of the information held within them. There is more information in the the [Information Classification Handling and Security Guide](information-classification-handling-and-security-guide.md).
--   Deprecate the downloading of data to mobile devices. Instead, promote and enable the use cloud services such as Office 365.
--   Ensure suspected or actual phishing emails are easily communicated to the Technology Service Desk as email attachments.
+-   Discourage people from downloading data to mobile devices. Instead, encourage and enable the use of cloud services such as Office 365.
+-   Make it easy for people to send suspected or actual phishing emails to the Technology Service Desk, so that the emails can be handled safely.
 -   Keep operating systems up-to-date, to prevent susceptibility to viruses.
 -   Scan email attachments to detect viruses and other malware.
 -   Ensure email services are appropriately authenticated. Refer to the [Email Authentication Guide](email-authentication-guide.md) for more information.
@@ -42,7 +42,7 @@ By default, users **SHALL NOT** access the email accounts of any other users, un
 
 -   During a criminal investigation by a law enforcement agency.
 -   During an employee investigation relating to misconduct or a security incident, for example IT misuse.
--   Upon the death or unexpected exit of an employee, for example to enable retrieval of key information or closing down an account.
+-   Upon the death or unexpected exit of an employee, for example to enable retrieval of business information or closing down an account.
 
 Anyone required to enable or carry out authorised access to a user account should follow the guidance in the [Privileged User Guide](privileged-user-guide.md).
 
@@ -66,8 +66,9 @@ In this situation, the user **SHALL** first seek permission from their line mana
 -   Prevent federated sharing, where users in one organisation can share free or busy calendar information with recipients in other organisations.
 -   Preventing auto-forwards to external email services, including personal email accounts.
 -   Preventing delegate access to unauthorised users, such as people outside the MoJ\), by enforcing Role Based Access Control \(RBAC\).
+-   Implementing [Access Control Policy](access-control-policy.md), in particular regarding access to email as a result of forwarding or delegation.
 
-For individual accounts, the helpdesk can configure delegate access. Administrators of group inboxes can also configure delegate access to those inboxes.
+For individual accounts, the help desk can configure delegate access. Administrators of group inboxes can also configure delegate access to those inboxes.
 
 For further details, refer to the [Privileged User Guide](privileged-user-guide.md).
 

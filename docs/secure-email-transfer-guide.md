@@ -38,6 +38,8 @@ End-to-end email encryption ensures that only the sender and intended receiver c
 
 Select the most suitable system for service users, and configure it appropriately. This section provides guidance on the various options available.
 
+**Note:** Remember that only MoJ email systems may be used for business purposes. Personal email accounts **SHALL NOT** be used for business purposes.
+
 |Secure Messaging Options|Examples|
 |------------------------|--------|
 |Cloud Email Solutions \(securing to the Government Secure Standard\)|Microsoft Office 365 \(`@justice.gov.uk`\) or Google Workspace \(`@digital.justice.gov.uk`\)|

@@ -176,7 +176,7 @@
         <li>Preventing delegate access to unauthorised users,
           such as people outside the <ph conref="conrefs.dita#conrefs/moj"/>),
           by enforcing Role Based Access Control (RBAC).</li>
-          <li>Implementing <xref href="" format="dita">Access Control Policy</xref>,
+          <li>Implementing <xref href="access-control-policy.dita" format="dita">Access Control Policy</xref>,
             in particular regarding access to email as a result of forwarding or delegation.
           </li>
       </ul></p>

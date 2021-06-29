@@ -38,7 +38,7 @@ Some interfaces might not allow you to implement all these steps. Implement as m
 
 ## Compromised email systems
 
-Compromised email systems are often used to deliver spam messages and conduct phishing campaigns. Protect email systems by using [MFA](multi-factor-authentication-mfa-guide.md) where possible, to mitigate the risk.
+Compromised email systems are often used to send spam messages and conduct phishing campaigns. Protect email systems by using [MFA](multi-factor-authentication-mfa-guide.md) where possible, to mitigate the risk.
 
 Report any account takeovers or email compromise [as an incident](reporting-an-incident.md).
 
@@ -71,10 +71,10 @@ To add domains to the MoJ's Mail Check service subscription, contact the [NCSC M
 
 ## Email sandboxing
 
-Sandboxing provides an additional layer of protection. Any email that contains URLs, attachments, or suspicious senders can be securely checked for malicious content before they reach the network or mail server. If the email is found to be harmful, it is not delivered. Sandboxing is beneficial, because it:
+Sandboxing provides an additional layer of protection. Any email that contains URLs, attachments, or suspicious senders can be securely checked for malicious content before they reach the network or mail server. If the email is found to be harmful, it is not sent further. Sandboxing is beneficial, because it:
 
 -   Mirrors the end user's computer, and provides a secure space to interact with and analyse potentially harmful communications.
--   Allows developers and technical architects to be proactive in minimising the impact of a threat.
+-   Allows developers and technical architects to be proactive in minimising the effect of a threat.
 
 For further guidance on implementing sandboxing, including which products you might use, contact the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk).
 

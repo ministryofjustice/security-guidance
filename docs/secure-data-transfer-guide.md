@@ -35,9 +35,11 @@ Any transfer technique used **SHALL**:
 -   Encrypt the data over the network \(in transit\), using sufficient and appropriate encryption \(currently TLS 1.2 or greater\).
 -   Require strong authentication to ensure that both the sender and recipient are who they claim to be.
 
-These considerations apply when transmitting any data over a wireless communication network \(eg Wi-Fi\), or when the data will or might pass through an untrusted network.
+These considerations apply when transmitting any data over a wireless communication network \(for example wifi\), or when the data will or might pass through an untrusted network.
 
 If the MoJ is the controller of the data being transferred, the security storage requirements at the destination **SHALL** be considered to ensure that they comply fully with the relevant regulation, such as PCI DSS or GDPR.
+
+If it's not clear who the data controller is, ask the [Data Privacy Team](mailto:privacy@justice.gov.uk) for help.
 
 When dealing with third parties, consider whether any data sharing agreements or contracts are in place that apply to the transfer of that data. Check whether there are any stipulations in place regarding the method of transfer that can or should be used.
 
@@ -55,7 +57,7 @@ Due to the diverse nature of the MoJ's architecture, using Teams might not alway
 
 For more details on the actual process for a transfer, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
-### Data Transfer by Email
+### Data Transfer by email
 
 Where it is not possible to use Microsoft Teams or Google Workspace, **AND** the data to be transferred is less than 20MB, email **CAN** be used, **BUT** the following requirements **SHALL** be met:
 
@@ -66,7 +68,7 @@ Where it is not possible to use Microsoft Teams or Google Workspace, **AND** the
 -   Care **SHALL** be taken as to what information is placed in the subject line of the email, or in the accompanying message. Filenames or subject lines **SHALL NOT** reveal the contents of attachments. Filenames or subject lines **SHALL NOT** disclose any sensitive personal data.
 -   Emails **SHALL** only be sent from your work email address, as provided by the MoJ. This is to ensure that the correct privacy and security information is displayed.
 
-### CJSM Email
+### CJSM email
 
 -   The Criminal Justice Secure email Service \(CJSM\) is provided for criminal justice agencies and practitioners to communicate with each other.
 -   As a general rule, it **SHALL** only be used for purposes relating to the criminal justice service.
@@ -115,7 +117,7 @@ Phone calls might be monitored, overheard, or intercepted. This might happen del
 All users **SHOULD** recognise that even if a system uses encrypted data transfer, there are still occasions where data might be affected by unauthorised access. Be aware of these residual risks. Line Managers **SHOULD** include consideration of these risks in employee awareness training. Examples include:
 
 -   Some data relating to the communication might still be exposed in an unencrypted form. An example is metadata.
--   Data transfer processes that rely on public-key infrastructure **SHALL** implement strict certificate checking to maintain trust in end-points.
+-   Data transfer processes that rely on Public Key Infrastructure \(PKI\) **SHALL** implement strict certificate checking to maintain trust in end-points.
 
 ## Incidents and contact details
 
