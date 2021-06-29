@@ -45,6 +45,7 @@ Remote working is when you work from any non-MoJ location, for example, working 
 -   Advertise the fact that you work with MoJ materials.
 -   Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.
 -   Send work material to your personal email address.
+-   Redirect print jobs from MoJ printers to a personal printer.
 
 ## Working securely
 
@@ -68,6 +69,7 @@ However, if you really must print MoJ information, you:
 
 -   Should connect directly to the printer using USB, not wifi.
 -   Should not print out personal information relating to others.
+-   Should not redirect print jobs from an MoJ printer to a personal printer.
 -   Should consult the information asset owner or line manager before printing the information.
 -   Must store any and all printed materials safely and securely until you return to MoJ premises, when they must be disposed of or filed appropriately.
 -   **Must never** dispose of MoJ information in your home rubbish or recycling.
