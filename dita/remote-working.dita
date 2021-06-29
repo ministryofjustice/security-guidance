@@ -64,6 +64,7 @@
         <li>Advertise the fact that you work with <ph conref="conrefs.dita#conrefs/moj"/> materials.</li>
         <li>Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.</li>
         <li>Send work material to your personal email address.</li>
+        <li>Redirect print jobs from <ph conref="conrefs.dita#conrefs/moj"/> printers to a personal printer.</li>
       </ul></p>
     </body>
   </topic>
@@ -89,6 +90,7 @@
       <ul>
         <li>Should connect directly to the printer using USB, not wifi.</li>
         <li>Should not print out personal information relating to others.</li>
+        <li>Should not redirect print jobs from an <ph conref="conrefs.dita#conrefs/moj"/> printer to a personal printer.</li>
         <li>Should consult the information asset owner or line manager before printing the information.</li>
         <li>Must store any and all printed materials safely and securely until you return to <ph conref="conrefs.dita#conrefs/moj"/> premises, when they must be disposed of or filed appropriately.</li>
         <li><b>Must never</b> dispose of <ph conref="conrefs.dita#conrefs/moj"/> information in your home rubbish or recycling.</li>
