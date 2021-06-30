@@ -31,7 +31,7 @@
             <p>individuals must not share a 'root' account, but be issued named accounts with appropriate privileges instead;</p>
           </li>
           <li>
-            <p>Individuals must not share a single Secure Shell (SSH) private key, but generate private and individual keypairs and their public key associated to locations where authentication is required.</p>
+            <p>Individuals must not share a single Secure Shell (SSH) private key, but generate private and individual key pairs and their public key associated to locations where authentication is required.</p>
           </li>
         </ul>
       </body>
@@ -40,7 +40,7 @@
   <topic id="system-system-accounts" audience="audience-tech">
     <title>System-system accounts</title>
     <body>
-      <p>Accounts designed for programmatic or system/service integation must be unique for each purpose, particularly in separation between different environments - such as pre-production and production.</p>
+      <p>Accounts designed for programmatic or system/service integration must be unique for each purpose, particularly in separation between different environments - such as pre-production and production.</p>
       <p>System-system accounts must be protected against human intervention.</p>
       <p>Token-based methods are preferred over static private key methods.</p>
     </body>
@@ -60,7 +60,7 @@
     <topic id="mfa-for-important-or-privileged-actions" audience="audience-tech">
       <title>MFA for important or privileged actions</title>
       <body>
-        <p>MFA should be re-requested from the user for important or privileged actions such as changing fundemental configurations such as registered email address or adding another administrator.</p>
+        <p>MFA should be re-requested from the user for important or privileged actions such as changing fundamental configurations such as registered email address or adding another administrator.</p>
         <p>MFA can also be used as a validation step, to ensure the user understands and is confirming the action they have requested, such as an MFA re-prompt when attempting to delete data.</p>
       </body>
     </topic>

@@ -32,6 +32,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="protecting-social-media-accounts.dita" type="topic"/>
 			<topicref href="protect-yourself-online.dita" type="topic"/>
 			<topicref href="removable-media.dita" type="topic"/>
+			<topicref href="secure-data-transfer-guide.dita" type="topic"/>
 			<topicref href="secure-disposal-of-it-equipment.dita" type="topic"/>
 			<topicref href="web-browsing.dita" type="topic"/>
 		</topichead>
@@ -41,7 +42,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="locking-and-shutdown.dita" type="topic"/>
 		</topichead>
 		<topichead>
-			<topicmeta><navtitle>Macbook</navtitle></topicmeta>
+			<topicmeta><navtitle>MacBook</navtitle></topicmeta>
 			<topicref href="policies-for-macbook-users.dita" type="topic"/>
 		</topichead>
 	</topichead>

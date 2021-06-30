@@ -77,7 +77,7 @@
         <title>Capability</title>
         <body>
           <p><xref href="https://www.ncsc.gov.uk/guidance/forensic-readiness-good-practice-guide-18" format="html" scope="external">CESG GPG No.18</xref> provides guidance on the level of forensic capability that should be developed consummate to the Segmentation Model and Business Impact Levels (BILs) of the IT system or IT domain in question.</p>
-          <p>Most <ph conref="conrefs.dita#conrefs/moj"/> IT systems attract a BIL of 3 for Confidentially, Integrity and Availability and are classified as ‘Deter’ in the segmentation model. As such, <xref href="https://www.ncsc.gov.uk/guidance/forensic-readiness-good-practice-guide-18" format="html" scope="external">CESG GPG No.18</xref> considers that a Forensic Readiness Plan developed to capability level 2 is sufficient.  It is anticipated that the majority of <ph conref="conrefs.dita#conrefs/moj"/> IT systems will fall into this capability level; however, this must be assessed on a system by system basis as part of the system Accreditation process. Further details on the process can be found in the <xref href="infrastructure-system-accreditation.dita" format="dita">Accreditation Framework</xref>.</p>
+          <p>Most <ph conref="conrefs.dita#conrefs/moj"/> IT systems attract a BIL of 3 for Confidentially, Integrity and Availability and are classified as 'Deter' in the segmentation model. As such, <xref href="https://www.ncsc.gov.uk/guidance/forensic-readiness-good-practice-guide-18" format="html" scope="external">CESG GPG No.18</xref> considers that a Forensic Readiness Plan developed to capability level 2 is sufficient.  It is anticipated that the majority of <ph conref="conrefs.dita#conrefs/moj"/> IT systems will fall into this capability level; however, this must be assessed on a system by system basis as part of the system Accreditation process. Further details on the process can be found in the <xref href="infrastructure-system-accreditation.dita" format="dita">Accreditation Framework</xref>.</p>
         </body>
       </topic>
       <topic id="people-and-resources">
@@ -574,7 +574,7 @@
         <li>If attached, disconnect any modem.</li>
         <li>If the computer is attached to the network remove the network cable from the data point.</li>
         <li>Do not touch the keyboard or mouse.</li>
-        <li>Do not take advice from the computer’s user/owner.</li>
+        <li>Do not take advice from the computer's user/owner.</li>
         <li>Allow any printers to finish printing (further evidence may be printing).</li>
       </ol>
       <p>If equipment is removed before the investigator arrives then the following steps must be performed:
