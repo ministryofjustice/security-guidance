@@ -61,7 +61,7 @@ If you need further assistance or information about this process, [ask for help]
 
 ##General enquiries, including theft and loss
 
-**Dom1/Quantum - Technology Service Desk**
+**DOM1/Quantum - Technology Service Desk**
 
 * Tel: 0800 917 5148
 

@@ -204,7 +204,7 @@ More guidance on password best practices is [available](passwords.md).
 
 ##General enquiries, including theft and loss
 
-**Dom1/Quantum - Technology Service Desk**
+**DOM1/Quantum - Technology Service Desk**
 
 * Tel: 0800 917 5148
 
