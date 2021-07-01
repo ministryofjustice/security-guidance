@@ -24,7 +24,7 @@ If you don't think you should do something, you probably shouldn't. If in doubt,
 
 ## General enquiries, including theft and loss
 
-**Dom1/Quantum - Technology Service Desk**
+**DOM1/Quantum - Technology Service Desk**
 
 -   Tel: 0800 917 5148
 

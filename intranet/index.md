@@ -18,12 +18,13 @@
         -   [Protecting social media accounts](protecting-social-media-accounts.md)
         -   [Protect yourself online](protect-yourself-online.md)
         -   [Removable media](removable-media.md)
+        -   [Secure Data Transfer Guide](secure-data-transfer-guide.md)
         -   [Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)
         -   [Web Browsing](web-browsing.md)
     * Laptops
         -   [Laptops](laptops.md)
         -   [Locking and shutdown](locking-and-shutdown.md)
-    * Macbook
+    * MacBook
         -   [MacBook](policies-for-macbook-users.md)
 * Incident management
     * [Reporting an incident](reporting-an-incident.md)

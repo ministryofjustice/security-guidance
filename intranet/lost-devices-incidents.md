@@ -12,7 +12,7 @@ If you think your device is lost, stolen, 'hacked', or in some way compromised, 
 
 1.  Contact your Technology Service Desk. The analyst will ask the relevant questions and note responses on the ticket.
 
-    **Dom1/Quantum - Technology Service Desk**
+    **DOM1/Quantum - Technology Service Desk**
 
     * Tel: 0800 917 5148
     **Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.

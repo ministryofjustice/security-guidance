@@ -26,6 +26,8 @@
 			<ph id="catemailtext"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">Cyber Assistance Team</xref></ph>
 			<ph id="cisolong">Chief Information Security Office (CISO)</ph>
 			<ph id="ciso">CISO</ph>
+			<ph id="cjsmemail"><xref href="mailto:cjsm.helpdesk@egress.com" format="email" scope="external">cjsm.helpdesk@egress.com</xref></ph>
+			<ph id="cjsmemailtext"><xref href="mailto:cjsm.helpdesk@egress.com" format="email" scope="external">CJSM Helpdesk</xref></ph>
 			<ph id="dacuemail"><xref href="mailto:Data.access@justice.gov.uk" format="email" scope="external">Data.access@justice.gov.uk</xref></ph>
 			<ph id="gcloud"><xref href="https://www.digitalmarketplace.service.gov.uk/g-cloud" format="html" scope="external">Digital Marketplace (GCloud)</xref></ph>
 			<ph id="giaaemail"><xref href="mailto:correspondence@giaa.gov.uk" format="email" scope="external">correspondence@giaa.gov.uk</xref></ph> <!-- Government Internal Audit Agency -->
@@ -61,6 +63,7 @@
 			<ph id="policyshouldnot"><b>SHOULD NOT</b></ph>
 			<ph id="policywill"><b>SHALL</b></ph>
 			<ph id="privacyemail"><xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">privacy@justice.gov.uk</xref></ph>
+			<ph id="privacyemailtext"><xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">Data Privacy Team</xref></ph>
 			<ph id="recordsretentionemail"><xref href="mailto:Records_Retention_@justice.gov.uk" format="email" scope="external">Records_Retention_@justice.gov.uk</xref></ph>
 			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></ph>
 			<ph id="strapteamemail"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="email" scope="external">STRAPTeam@cluster2security.gov.uk</xref></ph>
@@ -73,6 +76,13 @@
             For more information regarding IRARs,
             and how to create and maintain them,
             contact the Cyber Assistance Team: <ph conref="conrefs.dita#conrefs/catemail"/>.</p>
+		<p id="incidentmanager" audience="audience-suppliers audience-tech">Following a report,
+			incident managers should refer to the
+			<xref href="incident-management-plan-and-process-guide.dita"
+			format="dita">Incident Management Plan and Process Guide</xref> for
+			further guidance.</p>
+		<note id="noteexternalemail">An external email service is any service that
+			is outside the <codeph>gov.uk</codeph> domain.</note>
 	</body>
 
 	<topic id="legacyreferences">
@@ -125,7 +135,7 @@
 	<topic id="general-enquiries-including-theft-and-loss">
 		<title>General enquiries, including theft and loss</title>
 		<body>
-			<p id="dom1"><b>Dom1/Quantum - Technology Service Desk</b>
+			<p id="dom1"><b>DOM1/Quantum - Technology Service Desk</b>
 				<ul>
 					<li>Tel: 0800 917 5148</li>
 				</ul>
@@ -226,7 +236,7 @@
 				contact:
 				<dl>
 					<dlentry>
-						<dt>Dom1/Quantum - Technology Service Desk</dt>
+						<dt>DOM1/Quantum - Technology Service Desk</dt>
 						<dd>Tel: 0800 917 5148
 							<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph> email address is no longer being monitored.</note></dd>
 					</dlentry>
@@ -252,6 +262,7 @@
 			</p>
 			<p>For non-technology incidents,
 				contact the <ph conref="#conrefs/moj"/> Group Security Team: <ph conref="#conrefs/groupsecurityemail"/></p>
+			<p>Contact the Privacy Team for information on Data Protection Impact Assessments: <ph conref="#conrefs/privacyemail"/></p>
 			<p>If you are not sure who to contact,
 				ask the Operational Security Team:
 				<ul>

@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 28 June 2021.
+**Note:** This guidance is dated: 1 July 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 28 July 2021.
+The offline versions of this guidance are time-limited, and are not valid after 1 August 2021.
 
 ### Searching this content
 
@@ -204,7 +204,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Passwords](passwords.md)|All users|
 |[Password Storage and Management Guide](password-storage-and-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Policies for Google Apps administrators](policies-for-google-apps-administrators.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Policies for Macbook Administrators](policies-for-macbook-administrators.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Policies for MacBook Administrators](policies-for-macbook-administrators.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[System User and Application Administrators](system-users-and-application-administrators.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Using LastPass Enterprise](using-lastpass.md)|All users|
 
@@ -230,7 +230,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Equipment Reassignment Guide](equipment-reassignment-guide.md)|All users|
 |[Laptops](laptops.md)|All users|
 |[Locking and shutdown](locking-and-shutdown.md)|All users|
-|[Policies for Macbook Users](policies-for-macbook-users.md)|All users|
+|[Policies for MacBook Users](policies-for-macbook-users.md)|All users|
 |[System Lockdown and Hardening Standard](system-lockdown-and-hardening-standard.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 ### Operations security
@@ -299,7 +299,12 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Criminal Justice Secure Mail \(CJSM\)](cjsm.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Data Sovereignty](data-sovereignty.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Email](email.md)|All users|
+|[Email Authentication Guide](email-authentication-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Email Security Guide](email-security-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
+|[Secure Data Transfer Guide](secure-data-transfer-guide.md)|All users|
+|[Secure Email Transfer Guide](secure-email-transfer-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Spam and Phishing Guide](spam-and-phishing-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Web browsing security policy profiles](web-browsing-security-policy-profiles.md)|All users \(Policy\)|
 
 ### System acquisition, development and maintenance
