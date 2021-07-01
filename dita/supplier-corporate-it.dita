@@ -93,7 +93,12 @@
             processing <codeph>OFFICIAL</codeph>
             <ph conref="conrefs.dita#conrefs/moj"/> data,
             subject to implementing and maintaining acceptable information
-            controls and governance.</p>
+            controls and governance.
+          In particular,
+        the controls and governance <ph conref="conrefs.dita#conrefs/policyshall"/>
+        align and comply with <ph conref="conrefs.dita#conrefs/moj"/> policy
+        on <xref href="remote-working.dita" format="dita">remote working</xref>
+        and <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">working overseas</xref>.</p>
           <p>When working overseas,
             it might be necessary to limit access to information while the user
             travels.
