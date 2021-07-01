@@ -24,12 +24,12 @@ For example:
 
 -   individuals must not share a 'root' account, but be issued named accounts with appropriate privileges instead;
 
--   Individuals must not share a single Secure Shell \(SSH\) private key, but generate private and individual keypairs and their public key associated to locations where authentication is required.
+-   Individuals must not share a single Secure Shell \(SSH\) private key, but generate private and individual key pairs and their public key associated to locations where authentication is required.
 
 
 ## System-system accounts
 
-Accounts designed for programmatic or system/service integation must be unique for each purpose, particularly in separation between different environments - such as pre-production and production.
+Accounts designed for programmatic or system/service integration must be unique for each purpose, particularly in separation between different environments - such as pre-production and production.
 
 System-system accounts must be protected against human intervention.
 
@@ -47,7 +47,7 @@ Administrative accounts **must** always have MFA, unless impractical to do so. E
 
 ### MFA for important or privileged actions
 
-MFA should be re-requested from the user for important or privileged actions such as changing fundemental configurations such as registered email address or adding another administrator.
+MFA should be re-requested from the user for important or privileged actions such as changing fundamental configurations such as registered email address or adding another administrator.
 
 MFA can also be used as a validation step, to ensure the user understands and is confirming the action they have requested, such as an MFA re-prompt when attempting to delete data.
 

@@ -27,7 +27,7 @@ Privileged users must ensure that secure configuration and change management pro
 
 For help with incidents, including theft and loss, contact:
 
--   **Dom1/Quantum - Technology Service Desk**
+-   **DOM1/Quantum - Technology Service Desk**
 
     Tel: 0800 917 5148
 
@@ -41,6 +41,8 @@ For help with incidents, including theft and loss, contact:
     -   Tel: 0203 334 0324
 
 For non-technology incidents, contact the MoJ Group Security Team: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk)
+
+Contact the Privacy Team for information on Data Protection Impact Assessments: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
 
 If you are not sure who to contact, ask the Operational Security Team:
 

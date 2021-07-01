@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="secure-email-transfer-guide">
+  <title>Secure Email Transfer Guide</title>
+  <body/>
+  <topic id="introduction">
+    <title>Introduction</title>
+    <body>
+      <p>This guide provides technical users with information about the services
+        and encryption tools for transferring information securely using email.
+        Ensure that email communication is sufficiently secured before
+        transferring sensitive information.
+        Examples of sensitive information include:
+      <ul>
+        <li><codeph>OFFICIAL-SENSITIVE</codeph> classified information such as personal data.</li>
+        <li>API and other application keys or credentials,
+          including within containers.</li>
+        <li>SSH keys.</li>
+        <li>Database and other system-to-system passwords.</li>
+        <li>Private certificates for secure communication,
+          transmitting,
+          or receiving data using protocols such as TLS or SSL.</li>
+        <li>Private encryption keys.</li>
+        <li>RSA and other single-use password information.</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="transport-layer-security">
+    <title>Transport Layer Security</title>
+    <body>
+      <p>Ensure that any service capable of sending and receiving email uses
+        enforced TLS to encrypt messages:
+      <ul>
+        <li>The <ph conref="conrefs.dita#conrefs/mojlong"/>
+        <ph conref="conrefs.dita#conrefs/policyshould"/> always use the latest
+        version of TLS.</li>
+        <li>TLS <ph conref="conrefs.dita#conrefs/policymust"/> always be used
+        when sending to <codeph>gov.uk</codeph> domains.</li>
+        <li>Any <ph conref="conrefs.dita#conrefs/moj"/> domains that do not
+        support TLS <ph conref="conrefs.dita#conrefs/policymust"/> be documented
+        in an exceptions list,
+        and an exception rule authorised by the DNS provider.
+        Refer to the <xref href="email-authentication-guide.dita" format="dita">Email
+        Authentication Guide</xref> for DNS provider contact details.</li>
+        <li>Where mandatory TLS encryption is not suitable:
+          <ul>
+            <li>Use certificates from Certificate Authorities,
+              making sure they are always valid and use strong encryption,
+              algorithms,
+              and key lengths.</li>
+            <li>Use <xref href="https://en.wikipedia.org/wiki/S/MIME"
+              format="html" scope="external">Secure Multipurpose Internet Mail
+              Extension (S/MIME)</xref>,
+              as it signs and encrypts email data before it is transmitted.</li>
+          </ul>
+        </li>
+        <li>If you operate an internet-facing email service,
+          you <ph conref="conrefs.dita#conrefs/policymust"/> buy and manage
+          appropriate TLS certificates from the
+          <xref href="https://www.digitalmarketplace.service.gov.uk/"
+            format="html" scope="external">Digital Marketplace</xref>.</li>
+      </ul></p>
+      <p>The <xref href="information-classification-handling-and-security-guide.dita"
+        format="dita">Information Classification Handling and Security Guide</xref>
+        offers further advice on encrypting email communications.
+        This includes protecting data at rest,
+        and data in transit.</p>
+      <p audience="audience-tech">For further guidance on TLS,
+        see the <xref href="cryptography.dita" format="dita">Cryptography</xref>
+        guidance.</p>
+    </body>
+  </topic>
+  <topic id="end-to-end-encryption">
+    <title>End-to-end encryption</title>
+    <body>
+      <p>End-to-end email encryption ensures that only the sender and intended
+        receiver can read email messages.
+        Data is encrypted on the sender's system.
+        Only the intended recipient is able to decrypt and read it.
+        Many but not all email tools support end-to-end encryption for email
+        communications.
+        You might need to implement transit encryption for your users with a
+        third party app that provides end-to-end encryption.
+        Contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/> for advice.</p>
+    </body>
+  </topic>
+  <topic id="secure-email-transfer-options">
+    <title>Secure email transfer options</title>
+    <body>
+      <p>Select the most suitable system for service users,
+        and configure it appropriately.
+        This section provides guidance on the various options available.
+      <note>Remember that only <ph conref="conrefs.dita#conrefs/moj"/> email systems
+        may be used for business purposes.
+      Personal email accounts <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used for business purposes.</note></p>
+      <table>
+        <tgroup cols="2">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <thead>
+            <row>
+              <entry colname="col1">Secure Messaging Options</entry>
+              <entry colname="col2">Examples</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">Cloud Email Solutions (securing to the
+                Government Secure Standard)</entry>
+              <entry colname="col2">Microsoft Office 365
+                (<codeph>@justice.gov.uk</codeph>) or
+                <ph conref="conrefs.dita#conrefs/gsuite"/>
+                (<codeph>@digital.justice.gov.uk</codeph>)</entry>
+            </row>
+            <row>
+              <entry colname="col1">Supplementary Email Solutions</entry>
+              <entry colname="col2">CJSM</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </body>
+  </topic>
+  <topic id="cloud-email-solutions">
+    <title>Cloud email solutions</title>
+    <body>
+      <p>These are tools that are configured to the
+        <xref href="https://www.gov.uk/guidance/securing-government-email"
+          format="html" scope="external">Government secure standard</xref>.
+          When evaluating a tool,
+          ensure that it provides assurance of compliance to the Government
+          standard,
+          and provides confidence for the secure exchange of information.</p>
+    </body>
+  </topic>
+  <topic id="google-mail">
+    <title>Google mail</title>
+    <body>
+      <p>Google mail is part of the <ph conref="conrefs.dita#conrefs/gsuite"/>
+      service.
+      It uses Transport Layer Security (TLS) to encrypt incoming and outgoing
+      emails automatically.
+      However,
+      the email providers of both the sender and the recipient must always use
+      TLS,
+      otherwise the email transfer cannot be assured as secure.
+      If required,
+      S/MIME encryption might be suitable.
+      To get help with this,
+      contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/>.</p>
+    </body>
+  </topic>
+  <topic id="office-365">
+    <title>Office 365</title>
+    <body>
+      <p>By default,
+        all emails in Office 365 are sent using Opportunistic TLS.
+        If a TLS connection cannot be established,
+        the message is sent in plain text using Simple Mail Transfer Protocol
+        (SMTP).
+        If TLS must be applied,
+        contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/> for help.
+        In this configuration,
+        certificate verification is required whenever mail is sent from a third
+        party to the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+      <p>Outlook supports two other encryption options:
+      <ul>
+        <li>S/MIME encryption:
+          to use S/MIME encryption,
+          the sender and recipient must have a mail application that supports
+          the S/MIME standard.
+          Outlook supports the S/MIME standard.</li>
+        <li>Office 365 Message Encryption (Information Rights Management):
+          to use Office 365 Message Encryption,
+          the sender must have Office 365 Message Encryption configured.</li>
+      </ul></p>
+      <p>Microsoft currently provides additional tools to
+        <xref href="https://www.microsoft.com/en-us/microsoft-365/blog/2018/04/05/defend-yourself-from-cybercrime-with-new-office-365-capabilities/"
+          format="html" scope="external">secure information via email</xref>.</p>
+      <p>If either of these additional encryption methods is required,
+        please contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/>.</p>
+    </body>
+  </topic>
+  <topic id="criminal-justice-secure-mail">
+    <title>Criminal Justice Secure Mail</title>
+    <body>
+      <p>Criminal Justice Secure Mail (CJSM) provides a closed email service
+        between Criminal Justice Agencies (CJAs),
+        and Criminal Justice Practitioners (CJPs).
+        CJSM <ph conref="conrefs.dita#conrefs/policymustnot"/> be used from
+        public or personal computers.
+        CJSM <ph conref="conrefs.dita#conrefs/policyshould"/> be used only for
+        legitimate business purposes relating to the Criminal Justice System.</p>
+      <p>Examples of CJAs within the GSC are:
+      <ul>
+        <li>Police</li>
+        <li>Prison Service</li>
+        <li>Court Service</li>
+        <li>CPS</li>
+        <li>Probation</li>
+      </ul></p>
+      <p>Examples of agencies or CJPs outside the GSC are:
+      <ul>
+        <li>Youth Offending Teams</li>
+        <li>Victim Support</li>
+        <li>Solicitors and Barristers.</li>
+      </ul></p>
+      <p>The CJSM offers two mechanisms for connection:
+      <ul>
+        <li>A CJSM mailbox (webmail) hosts a mailbox on behalf of the user.
+          A user accesses the mailbox using either a standard internet browser,
+          or a POP3 email client.</li>
+        <li>A CJSM server connection (SMTP) is deployed to act as an encryption
+          proxy for any email traffic containing a destination address ending
+          in <codeph>cjsm.net</codeph>.
+          All CJSM servers require a certificate to be installed.
+          The certificate is issued by Egress.
+          Session keys are established for each transaction.</li>
+      </ul></p>
+      <p>All <ph conref="conrefs.dita#conrefs/moj"/> users can send or receive
+      over CJSM by adding <codeph>.CJSM.net</codeph> to the end of their
+      <ph conref="conrefs.dita#conrefs/moj"/> email address.</p>
+      <p>CJSM <ph conref="conrefs.dita#conrefs/policyshall"/> only be used to
+      share information up to and including <codeph>OFFICIAL-SENSITIVE</codeph>.</p>
+      <p>CJSM <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used with
+      multi-client mail relay services such as Mailgun,
+      Mailchimp,
+      or AWS SES.</p>
+      <p>For further guidance contact the <ph conref="conrefs.dita#conrefs/cjsmemailtext"/>.
+      Alternatively,
+      further information is available at: <xref
+      href="https://www.cjsm.justice.gov.uk/training/index.html" format="html"
+      scope="external">https://www.cjsm.justice.gov.uk/training/index.html</xref>.</p>
+    </body>
+  </topic>
+  <topic id="external-emails">
+    <title>External emails</title>
+    <body>
+      <p>Ensure that all outgoing emails are automatically appended with a
+        disclaimer.</p>
+      <p>If you are exchanging email with an outside organisation with which the
+        <ph conref="conrefs.dita#conrefs/policyshallnot"/> could be bound contractually,
+        the following text must be appended:
+        <lq>I am not authorised to bind the Ministry of Justice contractually,
+          nor to make representations or other statements which may bind the
+          Ministry of Justice in any way via electronic means.</lq></p>
+    </body>
+  </topic>
+  <topic id="auto-forward">
+    <title>Auto-forward</title>
+    <body>
+      <p>Ensure that auto-forwarding is used responsibly,
+        and in line with the <ph conref="conrefs.dita#conrefs/moj"/>'s
+        <xref href="information-classification-handling-and-security-guide.dita"
+          format="dita">Information Classification Handling and Security
+          Guide</xref>.
+          In particular:
+      <ul>
+        <li>Disable auto-forward to external domains.
+          If auto-forwarding to an external domain is required,
+          it <ph conref="conrefs.dita#conrefs/policyshould"/> be controlled by
+          creating custom Role Based Access Control (RBAC) roles.</li>
+        <li>Advise users to only forward emails from an
+          <ph conref="conrefs.dita#conrefs/moj"/> email address to an email
+          address that provides the same or higher security standards.</li>
+        <li>Do not provide auto-forward capability when any
+          <ph conref="conrefs.dita#conrefs/moj"/> standard,
+          policy,
+          or guidance states that additional controls or protection
+          <ph conref="conrefs.dita#conrefs/policyshall"/> be implemented before
+          sending an email.</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
