@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="leavers-with-nsc-and-nscvs">
+  <title>Leavers with NSC and NSVCs</title>
+  <body>
+    <p>This information applies to people leaving the
+      <ph conref="conrefs.dita#conrefs/mojlong"/>,
+    who have National Security Vetting (NSV),
+    or who are National Security Vetting Contacts (NSVCs).</p>
+    <p>Staff or contractors that hold clearance of any level
+      <ph conref="conrefs.dita#conrefs/policyshall"/> attend an
+      exit interview with their manager before they leave the
+      <ph conref="conrefs.dita#conrefs/moj"/>.
+      Although these interviews are available for all staff,
+      they are compulsory for those with Counter Terrorist Clearance
+      (CTC) or Security Check (SC).</p>
+      <p>If the leaver holds Developed Vetting (DV) or SC enhanced level,
+        and has been STRAP inducted,
+        they <ph conref="conrefs.dita#conrefs/policyshall"/>
+        attend a mandatory STRAP debriefing interview with
+        <ph conref="conrefs.dita#conrefs/strapteamemailtext"/>.
+        They <ph conref="conrefs.dita#conrefs/policyshall"/> also sign a
+        confidentiality agreement and a <q>Declaration of Cessation
+        of <codeph>TOP SECRET</codeph> STRAP Access</q>.</p>
+  </body>
+	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
