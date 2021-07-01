@@ -220,6 +220,17 @@
 		</body>
 	</topic>
 
+	<topic id="contact-details-group-security">
+		<title><ph platform="github">Contact details</ph><ph platform="intranet">Contacts</ph></title>
+		<body>
+			<p>For any further questions relating to group security matters,
+				contact: <ph conref="#conrefs/groupsecurityemail"/>.
+				For general security questions or concerns,
+				contact: <ph conref="#conrefs/securityemail"/>,
+			or for security advice, contact the <ph platform="github">Cyber Assistance Team <ph conref="#conrefs/catemail"/></ph><ph platform="intranet"><ph conref="#conrefs/catemailtext"/></ph>.</p>
+		</body>
+	</topic>
+
 	<topic id="contact-details">
 		<title><ph platform="github">Contact details</ph><ph platform="intranet">Contacts</ph></title>
 		<body>
