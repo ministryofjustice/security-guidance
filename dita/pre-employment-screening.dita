@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="pre-employment-screening">
+  <title>Pre-employment screening</title>
+  <body>
+    <p>Pre-employment screening involves a series of checks to help us make
+      informed decisions about the suitability of individuals to work for the
+      <ph conref="conrefs.dita#conrefs/mojlong"/> and its agencies.
+      These checks ensure the following:
+      <ul>
+        <li>Compliance with current legislation,
+          for example evidence of Right to Work in the UK</li>
+        <li>That applicants are who they say they are.</li>
+        <li>The integrity of the applicant,
+          our organisation,
+          and the safety of staff and individuals in our care.</li>
+      </ul></p>
+      <p>Pre-employment screening procedures are required for all people
+        applying for posts or working within the <ph conref="conrefs.dita#conrefs/moj"/>,
+        including:
+        <ul>
+          <li>Directly employed staff.</li>
+          <li>Staff transferring from Other Government Departments (OGD Transfers).</li>
+        </ul></p>
+  </body>
+  <topic id="faqs">
+    <title>FAQs</title>
+    <body>
+      <p>
+        <ul><li><xref href="https://intranet.justice.gov.uk/documents/2018/01/pre-employment-screening-and-vetting-faqs.docx" format="docx" scope="external">Pre-employment screening and Vetting FAQs</xref></li></ul>
+      </p>
+    </body>
+  </topic>
+  <topic id="downloads">
+    <title>Downloads</title>
+    <body>
+      <p>
+        <ul><li><xref href="https://intranet.justice.gov.uk/documents/2018/03/applying-criminal-records.doc" format="doc" scope="external">Applying criminal records checks</xref></li></ul>
+      </p>
+    </body>
+  </topic>
+	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
