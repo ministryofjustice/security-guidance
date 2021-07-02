@@ -8,8 +8,8 @@ Pre-employment screening involves a series of checks to help us make informed de
 
 Pre-employment screening procedures are required for all people applying for posts or working within the MoJ, including:
 
--   Directly employed staff.
--   Staff transferring from Other Government Departments \(OGD Transfers\).
+-   [Directly employed staff](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/directly-employed-staff/).
+-   [Staff transferring from Other Government Departments \(OGD Transfers\)](https://intranet.justice.gov.uk/guidance/hr/recruitment/ogd-transfers-within-civil-service/).
 
 ## FAQs
 
