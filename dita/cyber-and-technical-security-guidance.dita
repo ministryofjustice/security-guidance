@@ -453,6 +453,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" format="dita" type="topic">Pre-Employment Screening and Vetting of External Candidates - FAQs</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="security-clearance-appeals-policy.dita" format="dita" type="topic">Security clearance appeals policy</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
         			<!-- The security vetting assessment need webpage is not required, only the download document.
               <row>
                 <entry colname="col1" align="left"><xref href="security-vetting-assessment-need.dita" format="dita" type="topic">National Security Vetting – Assessment of Need</xref></entry>
