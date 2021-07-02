@@ -12,7 +12,7 @@ The post of National Security Vetting Contact \(NSVC\) **SHOULD NOT** be left em
 
 ## Manager responsibilities
 
-When a member of staff with clearance leaves their department, the manager **SHALL** inform their NSVC, so that the NSVC can update their records and remove the staff member from the list of cleared personnel. The NSVC passes the leaver's details on to Cluster 2 Security Unit. Managers **SHOULD** also use this as an opportunity to take another look at the role, and confirm whether it still needs clearance and, if it does, to what level. The NSVC can advise managers on this analysis.
+When a member of staff with clearance leaves their department, the manager **SHALL** inform their NSVC, so that the NSVC can update their records and remove the staff member from the list of cleared personnel. The NSVC passes the leaver's details on to [Cluster 2 Security Unit](mailto:contactus@cluster2security.gov.uk). Managers **SHOULD** also use this as an opportunity to take another look at the role, and confirm whether it still needs clearance and, if it does, to what level. The NSVC can advise managers on this analysis.
 
 ## Downloads
 

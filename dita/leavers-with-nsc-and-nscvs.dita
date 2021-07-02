@@ -42,7 +42,7 @@
         the manager <ph conref="conrefs.dita#conrefs/policyshall"/> inform their NSVC,
         so that the NSVC can update their records and remove the staff member
         from the list of cleared personnel.
-        The NSVC passes the leaver's details on to Cluster 2 Security Unit.
+        The NSVC passes the leaver's details on to <ph conref="conrefs.dita#conrefs/cluster2securityunittext"/>.        
         Managers <ph conref="conrefs.dita#conrefs/policyshould"/> also use this
         as an opportunity to take another look at the role,
         and confirm whether it still needs clearance and,
