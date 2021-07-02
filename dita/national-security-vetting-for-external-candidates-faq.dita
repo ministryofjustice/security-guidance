@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="national-security-vetting-for-external-candidates-faq">
-  <title>National Security Vetting for External Candidates</title>
+  <title>National Security Vetting for External Candidates FAQ</title>
     <body>
       <p>This document provides recruiting managers with answers to
       frequently-asked questions regarding national security vetting
@@ -188,83 +188,99 @@
       </body>
     </topic>
   </topic>
-  <!-- HERE -->
   <topic id="section-4-national-security-vetting-applications">
     <title>Section 4: National Security Vetting Applications</title>
     <body/>
     <topic id="q1-i-submitted-an-nsv-request-several-weeks-ago-how-do-i-see-its-status">
-      <title>Q1. I submitted an NSV request several weeks ago, how do I see its status?</title>
+      <title>Q1. I submitted an NSV request several weeks ago,
+        how do I see its status?</title>
       <body>
-        <p>If you require confirmation of the security clearance level, ask your
-NSVC who will make enquiries for you. See
-<xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external"><u>here</u></xref>.</p>
+        <p>If you require confirmation of the security clearance level,
+          ask your NSVC who will make enquiries for you.
+          <ph conref="conrefs.dita#conrefs/nsvc-contact"/></p>
       </body>
     </topic>
     <topic id="q2-sscl-have-told-me-that-they-have-completed-sponsors-actions-what-does-that-mean">
-      <title>Q2. SSCL have told me that they have completed sponsors’ actions, what does that mean?</title>
+      <title>Q2. SSCL have told me that they have completed sponsors' actions,
+        what does that mean?</title>
       <body>
-        <p>It means that your security questionnaire has been forwarded to United
-Kingdom Security Vetting (UKSV) and the vetting process has started, all
-actions are complete at <ph conref="conrefs.dita#conrefs/moj"/> and there are no further actions until UKSV
-return the file with a decision.</p>
+        <p>It means that your security questionnaire has been forwarded to
+          United Kingdom Security Vetting (UKSV),
+          and the vetting process has started.
+          All actions are complete at the <ph conref="conrefs.dita#conrefs/moj"/>,
+          and there are no further actions until UKSV return the file with a decision.</p>
       </body>
     </topic>
     <topic id="q3-why-is-the-candidate-required-to-fill-in-forms-on-the-nsvs-portal-and-provide-information-that-may-already-be-held-elsewhere-in-the-recruitment-process">
-      <title>Q3. Why is the candidate required to fill in forms on the NSVS portal, and provide information that may already be held elsewhere, in the recruitment process?</title>
+      <title>Q3. Why is the candidate required to fill in forms on the NSVS portal,
+        and provide information that may already be held elsewhere
+        in the recruitment process?</title>
       <body>
         <p>NSV is a separate process and is not HR-related.
           For legal reasons,
-          we often ask questions to confirm facts. Even if we have that
-information elsewhere, we still require confirmation. It is usually
-easier to gather everything we need in one process; the alternative
-would be to repeatedly ask for further information. Experience has shown
-that this causes significant delay, and we don't ask for information
-that we do not need.</p>
+          we often ask questions to confirm facts.
+          Even if we have that information elsewhere,
+          we still require confirmation.
+          It is usually easier to gather everything we need in one process;
+          the alternative would be to repeatedly ask for further information.
+          Experience has shown that this causes significant delay.
+          We don't ask for information that we do not need.</p>
       </body>
     </topic>
     <topic id="q4-what-if-the-candidate-doesnt-complete-specific-dates-and-details-for-the-security-questionnaire">
-      <title>Q4. What if the candidate doesn’t complete specific dates and details for the Security Questionnaire?</title>
+      <title>Q4. What if the candidate doesn't complete specific dates and details for the Security Questionnaire?</title>
       <body>
         <p>All information declared on the Security Questionnaire
           <ph conref="conrefs.dita#conrefs/policyshall"/> be completed
-in full and to the best of the candidate’s knowledge. If certain dates
-or information are not known, they should include an explanation in the
-information box provided. Missing or incorrect data delays the
-application as the file is referred to a vetting officer who needs to
-investigate and find the missing data.</p>
+          in full and to the best of the candidate's knowledge.
+          If certain dates or information are not known,
+          they should include an explanation in the information box provided.
+          Missing or incorrect data delays the application,
+          as the file is referred to a vetting officer who needs
+          to investigate and find the missing data.</p>
       </body>
     </topic>
     <topic id="q5-what-happens-if-the-candidate-misses-information-out">
       <title>Q5. What happens if the candidate misses information out?</title>
       <body>
-        <p>We cannot give too much detail about the vetting process for security
-reasons; however, we can confirm that your information is checked in a
-variety of systems and databases. If information is mismatched, it
-forces the file to be referred to a vetting officer, this intervention
-causes significant delay. Thirteen percent of all NSV cases are rejected
-because the subject doesn't provide their official middle name(s). It is
-also not unusual for people to put the wrong date of birth. It is
-crucial that accurate information is provided, it really helps vet
-people more quickly.</p>
+        <p>We cannot give too much detail about the vetting process
+          for security reasons.
+          However,
+          we can confirm that your information is checked in a variety of
+          systems and databases.
+          If information is mismatched,
+          it forces the file to be referred to a vetting officer.
+          This intervention causes significant delay.
+          Thirteen percent of all NSV cases are rejected because the
+          subject doesn't provide their official middle name(s).
+          It is also not unusual for people to put the wrong date of birth.</p>
+          <p>It is crucial that accurate information is provided.
+            It really helps vet people more quickly.</p>
       </body>
     </topic>
     <topic id="q6-my-candidate-applied-for-national-security-vetting-some-time-ago-and-hasnt-heard-anything-who-can-i-check-this-with">
-      <title>Q6. My candidate applied for national security vetting some time ago and hasn’t heard anything, who can I check this with?</title>
+      <title>Q6. My candidate applied for national security vetting some time ago and hasn't heard anything,
+        who can I check this with?</title>
       <body>
-        <p>SC/CTC takes a minimum of six weeks, the average is nine weeks and DV
-takes at least 18 weeks. If this time frame has passed, contact the NSVC
-who requested the clearance, they can contact SSCL for an update.</p>
-        <p>If you do not know who your NSVC is see
-<xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external"><u>here</u></xref>.</p>
+        <p>SC/CTC each take a minimum of six weeks,
+          with an average of nine weeks.
+          DV takes at least 18 weeks.
+          If this time frame has passed,
+          contact the NSVC who requested the clearance.
+          They can contact SSCL for an update.</p>
+        <p><ph conref="conrefs.dita#conrefs/nsvc-contact"/></p>
       </body>
     </topic>
     <topic id="q7-why-cant-candidates-use-apple-products-to-submit-the-security-questionnaire">
       <title>Q7. Why can't candidates use Apple products to submit the security questionnaire?</title>
       <body>
-        <p>NSVS is run by UKSV and there are very strict controls in place to make
-certain that the information you provide is secure. Apple products work
-in a different way and UKSV can't be assured, by Apple, that their
-platform is secure.</p>
+        <p>NSVS is run by UKSV.
+          There are very strict controls in place to make certain that the information
+          you provide is secure.
+          Apple products work in a different way.
+          UKSV can't be assured,
+          by Apple,
+          that their platform is secure.</p>
         <p>We do not expect that this will change in the foreseeable future.</p>
       </body>
     </topic>
@@ -273,34 +289,37 @@ platform is secure.</p>
     <title>Section 5: Changes to roles or personal circumstances</title>
     <body>
       <p>This section contains information for managers and staff who are already
-in <ph conref="conrefs.dita#conrefs/moj"/> and have changes to their roles or personal circumstances:</p>
+        in the <ph conref="conrefs.dita#conrefs/moj"/>,
+        and have changes to their roles or personal circumstances:</p>
     </body>
     <topic id="q1-i-am-a-manager-and-i-think-a-member-of-my-team-needs-a-national-security-vetting-clearance-to-do-a-new-piece-of-work-what-should-i-do">
-      <title>Q1. I am a manager and I think a member of my team needs a national security vetting clearance to do a new piece of work. What should I do?</title>
+      <title>Q1. I am a manager and I think a member of my team needs a national security
+        vetting clearance to do a new piece of work.
+        What should I do?</title>
       <body>
-        <p>Talk to your National Security Vetting Contact (NSVC). All business
-areas that have at least one member of staff who holds Security
-Clearance should have one. If you don’t know who it is see
-<xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external"><u>here</u></xref>.</p>
+        <p>Talk to your National Security Vetting Contact (NSVC).
+          All business areas that have at least one member of staff who holds
+          Security Clearance should have one.
+          <ph conref="conrefs.dita#conrefs/nsvc-contact"/></p>
       </body>
     </topic>
     <topic id="q2-my-national-security-vetting-clearance-is-going-to-expire-soon-what-should-i-do">
-      <title>Q2. My national security vetting clearance is going to expire soon, what should I do?</title>
+      <title>Q2. My national security vetting clearance is going to expire soon,
+        what should I do?</title>
       <body>
-        <p>Speak to your national security vetting contact (NSVC), they will decide
-if it needs to be renewed and help you start the process off. If you
-don’t know who this is see
-<xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external"><u>here</u></xref>.</p>
+        <p>Speak to your national security vetting contact (NSVC),
+          they will decide if it needs to be renewed and help you start the process off.
+          <ph conref="conrefs.dita#conrefs/nsvc-contact"/></p>
       </body>
     </topic>
     <topic id="q3-my-personal-circumstances-have-changed-who-should-i-advise">
-      <title>Q3. My personal circumstances have changed, who should I advise?</title>
+      <title>Q3. My personal circumstances have changed,
+        who should I advise?</title>
       <body>
-        <p>For all changes in personal circumstances please contact Cluster 2
-Personnel Risk Management by emailing:
-<xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="email" scope="external"><u>VettingAftercare@cluster2security.gov.uk</u></xref>
-. Failure to report relevant changes could result in withdrawal of
-clearance.</p>
+        <p>For all changes in personal circumstances,
+          please contact Cluster 2 Personnel Risk Management by emailing:
+          <ph conref="conrefs.dita#conrefs/vettingaftercareemail"/>.
+          Failure to report relevant changes could result in withdrawal of clearance.</p>
       </body>
     </topic>
   </topic>
