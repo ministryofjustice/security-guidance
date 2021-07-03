@@ -187,7 +187,6 @@
           is likely to lead to security clearance being withdrawn.</p>
         <p>The following contributing factors are considered by C2SU.
           This is not an exhaustive list:
-          <!-- HERE -->
         <ul>
           <li>The type and quantity of illegal drug usage.</li>
           <li>Previous history of the misuse of illegal drugs.</li>
@@ -195,63 +194,77 @@
           <li>How the illegal substances were acquired.</li>
           <li>The environment in which the illegal drug use took place.</li>
         </ul></p>
-        <p>C2SU assess an individual’s suitability to continue to hold security
-clearance by deciding the level of risk they have of being susceptible
-to pressure or improper influence, or indicate unreliability, because of
-their actions. The principles around national security vetting focus
-specifically on the threats posed to UK national security (e.g.
-terrorism, espionage, or other actions that would threaten the UK). The
-threats and any subsequent risks to the business will differ so they are
-assessed and managed by locally produced business-related policy and
-procedures.</p>
+        <p>C2SU assess an individual's suitability to continue to hold security
+          clearance by deciding the level of risk they have of being susceptible
+          to pressure or improper influence,
+          or indicate unreliability,
+          because of their actions.
+          The principles around national security vetting focus specifically on
+          the threats posed to UK national security (for example terrorism,
+          espionage,
+          or other actions that would threaten the UK).
+          The threats and any subsequent risks to the business might differ,
+          so they are assessed and managed by locally produced business-related
+          policy and procedures.</p>
       </body>
     </topic>
     <topic id="appealing-decisions-of-withdrawing-security-clearance">
       <title>Appealing decisions of withdrawing security clearance</title>
       <body>
         <p>If a security clearance is withdrawn following a positive test result,
-the appeal rights and processes are the same as for withdrawal/refusal
-of national security vetting clearance for any other reason. Any appeal
-is dealt with following the terms of the Security Clearance Appeals
-Procedure. These state that right of appeal applies to those falling
-under the following criteria:</p>
+          the appeal rights and processes are the same as for withdrawal or refusal
+          of national security vetting clearance for any other reason.
+          Any appeal is dealt with following the terms of the Security Clearance
+          Appeals Procedure.
+          These state that Right of Appeal applies to those falling under these criteria:
         <ul>
-          <li>Permanent members of <ph conref="conrefs.dita#conrefs/moj"/> staff</li>
-          <li>Current contractors or other non-permanent staff, already engaged in
-<ph conref="conrefs.dita#conrefs/moj"/> work</li>
+          <li>Permanent members of <ph conref="conrefs.dita#conrefs/moj"/> staff.</li>
+          <li>Current contractors or other non-permanent staff,
+            already engaged in <ph conref="conrefs.dita#conrefs/moj"/> work.</li>
           <li>Current permanent members of staff of other government departments
-and organisations who have applied for/transferred a security
-clearance with the <ph conref="conrefs.dita#conrefs/moj"/></li>
+            and organisations who have applied for or transferred a security
+            clearance with the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
           <li>Current contractors already engaged on government work in other
-departments and organisations who have applied for/transferred a
-security clearance with the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
-        </ul>
-        <p>There is no right of appeal for individuals on recruitment to the Civil
-Service seeking employment or contractual work with the <ph conref="conrefs.dita#conrefs/moj"/>. For further
-information on Security Clearance Appeals Procedure, contact Group
-Security (<xref href="mailto:mojgroupsecurity@justice.gov.uk" format="email" scope="external">mojgroupsecurity@justice.gov.uk</xref>).</p>
+            departments and organisations who have applied for or transferred a
+            security clearance with the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+        </ul></p>
+        <p>There is no Right of Appeal for individuals on recruitment to the Civil
+          Service seeking employment or contractual work with
+          the <ph conref="conrefs.dita#conrefs/moj"/>.
+          For further information on the Security Clearance Appeals Procedure,
+          contact Group Security: <ph conref="conrefs.dita#conrefs/groupsecurityemail"/>.</p>
       </body>
     </topic>
     <topic id="appealing-a-positive-drug-test">
       <title>Appealing a positive drug test</title>
       <body>
-        <p>Any disputed drug test must be appealed to C2SU, in writing, within five
-days of receiving confirmation of a test result.</p>
-        <p>An appeal must detail the reason(s) why the positive result is being
-disputed. This information will be shared with the approved drug testing
-provider and the positive test results will be subject to further
-scientific expert analysis to decide the probability of the positive
-test result being incorrect. The results of any secondary testing will
-be treated as final.</p>
+        <p>Any disputed drug test <ph conref="conrefs.dita#conrefs/policyshall"/>
+          be appealed to C2SU,
+          in writing,
+          within five days of receiving confirmation of a test result.</p>
+        <p>An appeal <ph conref="conrefs.dita#conrefs/policyshall"/> detail the reason
+          or reasons why the positive result is being disputed.
+          This information <ph conref="conrefs.dita#conrefs/policyshall"/>
+          be shared with the approved drug testing provider and the positive test results
+          <ph conref="conrefs.dita#conrefs/policyshall"/> be subject to further
+          scientific expert analysis to decide the probability of the positive
+          test result being incorrect.
+          The results of any secondary testing <ph conref="conrefs.dita#conrefs/policyshall"/>
+          be treated as final.</p>
       </body>
     </topic>
     <topic id="review-of-drug-testing-arrangements">
       <title>Review of drug testing arrangements</title>
       <body>
-        <p>The requirement for drug testing individual cases will be subject to
-ongoing review, on a case-by-case basis, by C2SU. The individual will be
-formally notified by C2SU if this aftercare arrangement is withdrawn.</p>
+        <p>The requirement for drug testing individual cases
+          <ph conref="conrefs.dita#conrefs/policyshall"/> be subject to
+          ongoing review,
+          on a case-by-case basis,
+          by C2SU.
+          The individual <ph conref="conrefs.dita#conrefs/policyshall"/> be
+          formally notified by C2SU if this aftercare arrangement is withdrawn.</p>
       </body>
     </topic>
   </topic>
 </topic>
+<!-- HERE Add to ditamaps next. -->
