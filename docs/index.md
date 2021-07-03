@@ -137,6 +137,7 @@ The documents have been developed and defined within this taxonomy, and are list
 
 |[Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)|All users|
 |[National Security Vetting questions](national-security-vetting-questions.md)|All users|
+|[Pre-employment screening](pre-employment-screening.md)|All users|
 |[Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)|All users|
 
 #### During employment
