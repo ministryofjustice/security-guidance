@@ -438,15 +438,15 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
-                <entry colname="col1" align="left"><xref href="end-or-change-of-employment.dita" format="dita" type="topic">End or change of employment</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
                 <entry colname="col1" align="left"><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels Guide</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/personnel-security-clearances/minimum-user-clearance/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="national-security-vetting-questions.dita" format="dita" type="topic">National Security Vetting questions</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="pre-employment-screening.dita" format="dita" type="topic">Pre-employment screening</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
@@ -472,11 +472,21 @@ has made for the products we operate, and our relationships with suppliers.</p>
             </tbody></tgroup></table>
           </body>
         </topic>
-        <!--
         <topic id="termination-and-change-of-employment">
           <title>Termination and change of employment</title>
+          <body>
+            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
+              <row>
+                <entry colname="col1" align="left"><xref href="end-or-change-of-employment.dita" format="dita" type="topic">End or change of employment</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="leavers-with-nsc-and-nscvs.dita" format="dita" type="topic">Leavers with NSC and NSVCs</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+            </tbody></tgroup></table>
+          </body>
         </topic>
-        -->
       </topic>
 
       <topic id="asset-management">
