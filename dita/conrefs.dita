@@ -28,6 +28,7 @@
 			<ph id="ciso">CISO</ph>
 			<ph id="cjsmemail"><xref href="mailto:cjsm.helpdesk@egress.com" format="email" scope="external">cjsm.helpdesk@egress.com</xref></ph>
 			<ph id="cjsmemailtext"><xref href="mailto:cjsm.helpdesk@egress.com" format="email" scope="external">CJSM Helpdesk</xref></ph>
+			<ph id="cluster2securityunittext"><xref href="mailto:contactus@cluster2security.gov.uk" format="email" scope="external">Cluster 2 Security Unit</xref></ph>
 			<ph id="dacuemail"><xref href="mailto:Data.access@justice.gov.uk" format="email" scope="external">Data.access@justice.gov.uk</xref></ph>
 			<ph id="gcloud"><xref href="https://www.digitalmarketplace.service.gov.uk/g-cloud" format="html" scope="external">Digital Marketplace (GCloud)</xref></ph>
 			<ph id="giaaemail"><xref href="mailto:correspondence@giaa.gov.uk" format="email" scope="external">correspondence@giaa.gov.uk</xref></ph> <!-- Government Internal Audit Agency -->
@@ -67,6 +68,7 @@
 			<ph id="recordsretentionemail"><xref href="mailto:Records_Retention_@justice.gov.uk" format="email" scope="external">Records_Retention_@justice.gov.uk</xref></ph>
 			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></ph>
 			<ph id="strapteamemail"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="email" scope="external">STRAPTeam@cluster2security.gov.uk</xref></ph>
+			<ph id="strapteamemailtext"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="email" scope="external">Cluster 2 STRAP team</xref></ph>			
 			<ph id="vettingaftercareemail"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="email" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>
 		</p>
 		<p id="contactcatbyemail">Contact the Cyber Assistance Team by email: <ph conref="#conrefs/catemail"/></p>
@@ -217,6 +219,17 @@
 			<ul>
 				<li>Email: <xref href="mailto:KIM@justice.gov.uk" format="email" scope="external">KIM@justice.gov.uk</xref></li>
 			</ul>
+		</body>
+	</topic>
+
+	<topic id="contact-details-group-security">
+		<title><ph platform="github">Contact details</ph><ph platform="intranet">Contacts</ph></title>
+		<body>
+			<p>For any further questions relating to group security matters,
+				contact: <ph conref="#conrefs/groupsecurityemail"/>.
+				For general security questions or concerns,
+				contact: <ph conref="#conrefs/securityemail"/>,
+			or for security advice, contact the <ph platform="github">Cyber Assistance Team <ph conref="#conrefs/catemail"/></ph><ph platform="intranet"><ph conref="#conrefs/catemailtext"/></ph>.</p>
 		</body>
 	</topic>
 

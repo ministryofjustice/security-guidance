@@ -40,8 +40,10 @@
 * Personnel security clearances
     * [Personnel security clearances](personnel-security-clearances.md)
         -   [End or change of employment](end-or-change-of-employment.md)
+        -   [Leavers with NSC and NSVCs](leavers-with-nsc-and-nscvs.md)
         -   [Minimum user clearance](minimum-user-clearance-requirements-guide.md)
         -   [National Security Vetting questions](national-security-vetting-questions.md)
+        -   [Pre-employment screening](pre-employment-screening.md)
         -   [Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)
 * User access
     * [User access](acceptable-use.md)
