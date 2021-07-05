@@ -124,7 +124,7 @@ By signing below I acknowledge that I have read the Security Operating Procedure
 
 ## General enquiries, including theft and loss
 
-**Dom1/Quantum - Technology Service Desk**
+**DOM1/Quantum - Technology Service Desk**
 
 -   Tel: 0800 917 5148
 

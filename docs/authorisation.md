@@ -6,7 +6,7 @@ Any access to any data **must** employ adequate authentication techniques to ide
 
 ## Least privilege principle
 
-The principle of least privilege \(PoLP; also known as the principle of least authority\) is effectively conferring only the minimum number of required privileges required in order to perform the required tasks.
+The principle of least privilege \(also known as the principle of least authority\) is effectively conferring only the minimum number of required privileges required in order to perform the required tasks.
 
 This helps reduce the "attack surface" of the computer by eliminating unnecessary privileges.
 
@@ -16,13 +16,13 @@ Day to day examples include: not ordinarily using an 'administrator' login on an
 
 An administrator is much broader than a technical system administrator to a server, network or service \(such as 'domain admin' in Microsoft Active Directory\) but someone has who has higher levels of access or control than a required for day to day operation.
 
-Examples include those with high privileges on a Ministry of Justice \(MoJ\) github.com repository and credentials to the MoJ communications accounts \(such as social media\).
+Examples include those with high privileges on a Ministry of Justice \(MoJ\) GitHub repository and credentials to the MoJ communications accounts \(such as social media\).
 
 ## AWS assume-role
 
 Amazon Web Services \(AWS\) Identity and Access Management \(IAM\) has a `Role` function, which effectively allows explicitly permitted and explicitly denied activity \(within the AWS ecosystem\) to be defined on a per role-based.
 
-This allows IAM accounts to be grouped based on role and purpose. This avoids individual IAM accounts being given permissions individually, which can often lead to over or under priviledge configurations.
+This allows IAM accounts to be grouped based on role and purpose. This avoids individual IAM accounts being given permissions individually, which can often lead to over or under privilege configurations.
 
 Where possible, IAM Roles should be used.
 

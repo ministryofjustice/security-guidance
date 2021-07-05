@@ -32,6 +32,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="protecting-social-media-accounts.dita" type="topic"/>
 			<topicref href="protect-yourself-online.dita" type="topic"/>
 			<topicref href="removable-media.dita" type="topic"/>
+			<topicref href="secure-data-transfer-guide.dita" type="topic"/>
 			<topicref href="secure-disposal-of-it-equipment.dita" type="topic"/>
 			<topicref href="web-browsing.dita" type="topic"/>
 		</topichead>
@@ -41,7 +42,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="locking-and-shutdown.dita" type="topic"/>
 		</topichead>
 		<topichead>
-			<topicmeta><navtitle>Macbook</navtitle></topicmeta>
+			<topicmeta><navtitle>MacBook</navtitle></topicmeta>
 			<topicref href="policies-for-macbook-users.dita" type="topic"/>
 		</topichead>
 	</topichead>
@@ -68,8 +69,11 @@ if an audience attribute is present, then only matching content is included.
 		<topicmeta><navtitle>Personnel security clearances</navtitle></topicmeta>
 		<topicref href="personnel-security-clearances.dita" type="topic">
 			<topicref href="end-or-change-of-employment.dita" type="topic"/>
+			<topicref href="leavers-with-nsc-and-nscvs.dita" type="topic"/>
 			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
+			<topicref href="national-security-vetting-for-external-candidates-faq.dita" type="topic"/>
 			<topicref href="national-security-vetting-questions.dita" type="topic"/>
+			<topicref href="pre-employment-screening.dita" type="topic"/>
 			<topicref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" type="topic"/>
 			<!-- The security vetting assessment need webpage is not required, only the download document. -->
 			<topicref href="security-vetting-assessment-need.dita" type="topic" processing-role="resource-only"/>

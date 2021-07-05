@@ -8,7 +8,7 @@ h/t [https://www.ncsc.gov.uk/articles/secure-default](https://www.ncsc.gov.uk/ar
 
 Secure by Default takes a holistic approach to solving security problems. Security is treated as a core fundamental rather than a followup activity.
 
-Embedding security within a design is directly comparable to good modern technical designs and fundementally ensuring the 'thing' actually works.
+Embedding security within a design is directly comparable to good modern technical designs and fundamentally ensuring the 'thing' actually works.
 
 ## Secure by Default
 

@@ -15,7 +15,7 @@ In-transit encryption techniques can both protect data during transit through cr
 
 The [National Cyber Security Centre \(NCSC\)](https://www.ncsc.gov.uk/) have published information on good TLS configurations [https://www.ncsc.gov.uk/guidance/tls-external-facing-services](https://www.ncsc.gov.uk/guidance/tls-external-facing-services).
 
-In general, subject to document exceptions \(such as end-user needs and required legacy backwards compatiability\)
+In general, subject to document exceptions \(such as end-user needs and required legacy backwards compatibility\).
 
 ### Testing
 

@@ -42,7 +42,7 @@ To reset your password, you will need to contact the [IT Service Desk](#general-
 
 ##General enquiries, including theft and loss
 
-**Dom1/Quantum - Technology Service Desk**
+**DOM1/Quantum - Technology Service Desk**
 
 * Tel: 0800 917 5148
 
