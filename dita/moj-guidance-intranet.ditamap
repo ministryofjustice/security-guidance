@@ -31,6 +31,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="personal-devices.dita" type="topic"/>
 			<topicref href="protecting-social-media-accounts.dita" type="topic"/>
 			<topicref href="protect-yourself-online.dita" type="topic"/>
+			<topicref href="ransomware.dita" type="topic"/>
 			<topicref href="removable-media.dita" type="topic"/>
 			<topicref href="secure-data-transfer-guide.dita" type="topic"/>
 			<topicref href="secure-disposal-of-it-equipment.dita" type="topic"/>
