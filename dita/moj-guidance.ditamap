@@ -68,6 +68,7 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 		<topichead audience="audience-basic audience-tech">
 			<topicmeta><navtitle>During employment</navtitle></topicmeta>
+			<topicref href="personnel-security-risk-assessment.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="training-and-education.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 		<topichead navtitle="Termination and change of employment">
