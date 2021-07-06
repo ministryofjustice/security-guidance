@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="security-clearance-appeals-policy">
+  <title>Security clearance appeals policy</title>
+  <body>
+    <p>The Cluster 2 Security Unit (C2SU) forms part of the
+      Transforming Government Security programme,
+      which aims to standardise and strengthen operational
+      security across Government.</p>
+    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> is part of Cluster 2,
+      and so must adhere to this policy.</p>
+    <p>This policy applies to permanent members of staff and contractors'
+      employees employed on the work of the <ph conref="conrefs.dita#conrefs/moj"/>,
+      and those organisations for which the Cluster 2 Security Unit
+      holds the responsibility for vetting,
+      including non-departmental public bodies (NDPBs).</p>
+    <p>It also applies to:
+    <ul>
+      <li>Existing contractors' employees or other non-permanent staff,
+        who are already engaged in the work of the
+        <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+      <li>Existing permanent members of staff of other government departments
+        and organisations who have applied for a security clearance with the
+        <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+      <li>Existing contractors' employees already engaged on government work
+        in other departments and organisations who have applied for a
+        security clearance with the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+    </ul></p>
+    <p>It <i>does not apply</i> to individuals on initial recruitment to
+      the Civil Service seeking a first security clearance for permanent employment
+      or contractual work with the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+    <p>It <i>does</i> include existing employees of a contractor who are newly deployed
+      to contracted work for the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+    </body>
+    <topic id="policy">
+      <title>Policy</title>
+      <body>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/> provides a right of
+          internal appeal to the Permanent Secretary where an individual who
+          falls within the scope of this policy has a security clearance refused
+          or withdrawn by the Cluster 2 Security Unit.
+          The appeal <ph conref="conrefs.dita#conrefs/policyshould"/> be submitted
+          within 15 working days of notification of the refusal or withdrawal decision.</p>
+          <p>Where the Permanent Secretary upholds the vetting decision to refuse
+            or withdraw security clearance,
+            there is a further avenue of appeal to the independent
+            Security Vetting Appeals Panel (SVAP).
+            This appeal <ph conref="conrefs.dita#conrefs/policyshould"/> be
+            submitted within 28 days of notification that the vetting decision has
+            been upheld.</p>
+            <p>To achieve this requirement,
+              the Cluster 2 Security Unit must:
+              <ul>
+                <li>Ensure that the decision to refuse or withdraw national security
+                  clearance for an existing permanent or contracted employee (as
+                  identified previously) is communicated to the individual
+                  promptly and in writing.</li>
+                <li>Ensure that the individual is given the full reasons for the decision,
+                  and the relevant facts upon which it was based,
+                  as far as considerations of security and confidentiality allow.</li>
+                <li>Provide the employee with a clear explanation of their right to an
+                  internal appeal and the mechanisms by which they can make that appeal,
+                  and of their entitlement,
+                  should they remain dissatisfied with the outcome,
+                  to appeal to the Security Vetting Appeals Panel (SVAP).</li>
+                <li>Ensure the appeal process will be carried out independently from the
+                  vetting decision makers and anyone involved in the original decision
+                  to refuse or withdraw clearance.
+                  The process will also - as far as issues of national security
+                  and confidentiality allow - be undertaken with transparency,
+                  providing a fair opportunity for the appellant
+                  to address the reasons for the decision.</li>
+                </ul></p>
+      </body>
+    </topic>
+    <topic id="further-guidance">
+      <title>Further guidance</title>
+      <body>
+        <p>Detailed guidance on the processes and timescales for internal and
+          external appeals is given in the Security Clearance Appeals Procedures.</p>
+        <p platform="github">More information about the Security Clearance Appeals Procedures can
+          be obtained from <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>.</p>
+        <p platform="intranet">More information about the Security Clearance Appeals Procedures can
+          be found on the <xref href="https://intranet.justice.gov.uk/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/>
+            Intranet</xref>.</p>
+      </body>
+    </topic>
+    <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+    <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

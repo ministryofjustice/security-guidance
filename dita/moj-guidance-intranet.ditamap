@@ -76,6 +76,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="national-security-vetting-questions.dita" type="topic"/>
 			<topicref href="pre-employment-screening.dita" type="topic"/>
 			<topicref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" type="topic"/>
+			<topicref href="security-clearance-appeals-policy.dita" type="topic"/>
 			<!-- The security vetting assessment need webpage is not required, only the download document. -->
 			<topicref href="security-vetting-assessment-need.dita" type="topic" processing-role="resource-only"/>
 		</topicref>
