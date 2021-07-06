@@ -477,6 +477,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="voluntary-drug-testing-policy.dita" format="dita">Voluntary drug testing policy</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="voluntary-drug-testing-policy-procedures.dita" format="dita">Voluntary drug testing policy procedures</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
             </tbody></tgroup></table>
           </body>
         </topic>
