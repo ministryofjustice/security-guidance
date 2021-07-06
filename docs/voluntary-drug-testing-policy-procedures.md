@@ -19,7 +19,7 @@ If you have any queries about this information, contact [MoJ Group Security](mai
 
 ## Procedures
 
-These policy procedures support and underpin the “Voluntary Drug Testing Policy”. Unless otherwise noted, these procedures **SHALL** be complied with fully.
+These policy procedures support and underpin the [Voluntary Drug Testing Policy](voluntary-drug-testing-policy.md). Unless otherwise noted, these procedures **SHALL** be complied with fully.
 
 ### Aftercare arrangements: Use of Voluntary Drug Testing
 

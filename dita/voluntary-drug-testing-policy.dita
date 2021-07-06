@@ -16,22 +16,24 @@
         Vulnerabilities may also arise from disaffected employees (known as
         <q>insiders</q>) who could seek to exploit their level of access.</p>
         <!-- FIXME -->
-      <p>This policy should be read in conjunction with <b>Voluntary Drug Testing
-Policy Procedures</b>.</p>
+      <p>This policy <ph conref="conrefs.dita#conrefs/policyshould"/> be read
+        in conjunction with the
+        <xref href="voluntary-drug-testing-policy-procedures.dita" format="dita">Voluntary
+          Drug Testing Policy Procedures</xref>.</p>
     </body>
   </topic>
   <topic id="purpose">
     <title>Purpose</title>
     <body>
       <p>Substance misuse threatens the efficiency and delivery of business.
-        It can impair judgment and affect an employee's ability to carry out their
+        It might impair judgment and affect an employee's ability to carry out their
         role and responsibilities effectively and to the standard expected from
         HMG and the public.</p>
       <p>Additionally,
-        it can make an individual vulnerable by leaving them open to pressure,
+        it might make an individual vulnerable by leaving them open to pressure,
         inducement,
         or blackmail.
-        It can also affect their suitability to continue to hold security clearance.</p>
+        It might also affect their suitability to continue to hold security clearance.</p>
       <p>This policy sets out the <ph conref="conrefs.dita#conrefs/mojlong"/>
         approach to voluntary drug testing which is used as a risk management tool
         for personnel security.
@@ -49,7 +51,7 @@ Policy Procedures</b>.</p>
     <body>
       <p>The <ph conref="conrefs.dita#conrefs/gov007"/> states personnel assurance
         is fundamental to good security.
-        It demands that Government organisations will deliver the appropriate
+        It demands that Government organisations delivers the appropriate
         combination of recruitment checks,
         vetting,
         and on-going personnel security management.

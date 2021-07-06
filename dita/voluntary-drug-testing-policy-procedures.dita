@@ -33,7 +33,8 @@
     <title>Procedures</title>
     <body>
       <p>These policy procedures support and underpin the
-        <q>Voluntary Drug Testing Policy</q>.
+        <xref href="voluntary-drug-testing-policy.dita" format="dita">Voluntary
+          Drug Testing Policy</xref>.
         Unless otherwise noted,
         these procedures <ph conref="conrefs.dita#conrefs/policyshall"/> be complied with fully.</p>
     </body>

@@ -4,13 +4,13 @@
 
 This policy covers access to a range of government assets at risk from a wide range of national security threats. These threats may be related to terrorism, espionage, sabotage, or serious organised crime. Vulnerabilities may also arise from disaffected employees \(known as “insiders”\) who could seek to exploit their level of access.
 
-This policy should be read in conjunction with **Voluntary Drug Testing Policy Procedures**.
+This policy **SHOULD** be read in conjunction with the [Voluntary Drug Testing Policy Procedures](voluntary-drug-testing-policy-procedures.md).
 
 ## Purpose
 
-Substance misuse threatens the efficiency and delivery of business. It can impair judgment and affect an employee's ability to carry out their role and responsibilities effectively and to the standard expected from HMG and the public.
+Substance misuse threatens the efficiency and delivery of business. It might impair judgment and affect an employee's ability to carry out their role and responsibilities effectively and to the standard expected from HMG and the public.
 
-Additionally, it can make an individual vulnerable by leaving them open to pressure, inducement, or blackmail. It can also affect their suitability to continue to hold security clearance.
+Additionally, it might make an individual vulnerable by leaving them open to pressure, inducement, or blackmail. It might also affect their suitability to continue to hold security clearance.
 
 This policy sets out the Ministry of Justice \(MoJ\) approach to voluntary drug testing which is used as a risk management tool for personnel security. It helps identify potential risks and vulnerabilities to national security and allows them to be managed appropriately and proportionately.
 
@@ -21,7 +21,7 @@ Specifically, it seeks to:
 
 ## Government Functional Standard Outcomes
 
-The [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) states personnel assurance is fundamental to good security. It demands that Government organisations will deliver the appropriate combination of recruitment checks, vetting, and on-going personnel security management. This allows them to be assured about their people and to mitigate risks from well-placed insiders.
+The [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) states personnel assurance is fundamental to good security. It demands that Government organisations delivers the appropriate combination of recruitment checks, vetting, and on-going personnel security management. This allows them to be assured about their people and to mitigate risks from well-placed insiders.
 
 ## Policy Statement
 
