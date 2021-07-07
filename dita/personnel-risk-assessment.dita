@@ -145,7 +145,7 @@
     <body>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/>
         uses the risk management process developed by the
-        Centre for Protection of National Assets (CPNI).
+        Centre for Protection of National Infrastructure (CPNI).
         A copy of the CPNI's guide can be found
         <xref href="https://www.cpni.gov.uk/ongoing-personnel-security"
         format="html" scope="external">here</xref>.</p>

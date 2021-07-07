@@ -43,7 +43,7 @@ Much of the value of the risk management process comes from the systematic explo
 
 ## The Risk Management process
 
-The MoJ uses the risk management process developed by the Centre for Protection of National Assets \(CPNI\). A copy of the CPNI's guide can be found [here](https://www.cpni.gov.uk/ongoing-personnel-security).
+The MoJ uses the risk management process developed by the Centre for Protection of National Infrastructure \(CPNI\). A copy of the CPNI's guide can be found [here](https://www.cpni.gov.uk/ongoing-personnel-security).
 
 Managers and other risk management professionals **SHALL** follow the process set out in the guide, and maintain detailed records. These **SHOULD** be made available when requested by Audit, Group Security, or HR.
 
