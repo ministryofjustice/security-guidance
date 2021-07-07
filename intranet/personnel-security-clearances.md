@@ -10,11 +10,15 @@ The [Baseline Personnel Security Standard (BPSS) is published on GOV.UK](https:/
 
 * **[Minimum user clearance](minimum-user-clearance-requirements-guide.md)**  
 
+* **[National Security Vetting for External Candidates FAQ](national-security-vetting-for-external-candidates-faq.md)**  
+
 * **[National Security Vetting questions](national-security-vetting-questions.md)**  
 
 * **[Pre-employment screening](pre-employment-screening.md)**  
 
 * **[Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)**  
+
+* **[Security clearance appeals policy](security-clearance-appeals-policy.md)**  
 
 
 ##National Security Clearances
