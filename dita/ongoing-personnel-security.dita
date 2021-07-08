@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ongoing-personnel-security">
+  <title>Ongoing Personnel Security</title>
+  <body>
+    <p>Security clearance is a snap-shot of an individual at the time they make
+      their application.
+      Therefore,
+      it is essential that employees are proactively managed using effective
+      ongoing personnel management processes.</p>
+    <p>When staff are inducted,
+      they are advised of their security responsibilities.
+      Line managers also have a key role in ensuring the security of the department,
+      including personnel security of the people they manage.
+      This is best achieved by following the guidance in this document.</p>
+  </body>
+  <topic id="line-manager-responsibilities">
+    <title>Line Manager Responsibilities</title>
+    <body>
+      <ul>
+        <li>Brief your staff,
+          including contractors,
+          on local and departmental security arrangements and policies
+          as part of their induction.</li>
+        <li>Get to know your staff,
+          including contractors who might only be employed for a temporary basis.
+          This is so you can recognise any changes in their behaviour
+          which might impact on the security of the organisation.</li>
+        <li>Do not ignore any concerns you have for fear of not knowing what to do.
+          See elsewhere in this guidance for further details.</li>
+        <li>Where appropriate,
+          deal with any concerns by talking to the individual,
+          your manager,
+          or HR.</li>
+        <li>Create a positive climate in which security is given priority,
+          and individuals are encouraged to discuss any concerns before they
+          become security problems.</li>
+        <li>Be a good role model for all your staff,
+          and display good security behaviours.</li>
+        <li>Remind all staff with security clearance (CTC,
+          SC,
+          or DV),
+          that they <ph conref="conrefs.dita#conrefs/policyshall"/>
+          <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/reporting-personal-circumstance-changes/"
+          format="html" scope="external">report changes in personal circumstances</xref>.</li>
+        <li>Remind all staff that they <ph conref="conrefs.dita#conrefs/policyshall"/> notify
+          the <xref href="#contact-details" format="dita">security team</xref>
+          if they are travelling to certain countries referred to in the
+          <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing
+            <ph platform="github" conref="conrefs.dita#conrefs/mojlong"/><ph platform="intranet"
+            conref="conrefs.dita#conrefs/moj"/> IT systems overseas</xref> guidance.</li>
+        <li>Ensure you are aware of any relevant caveats,
+          or aftercare measures,
+          for staff with security clearance (CTC,
+          SC,
+          or DV),
+          or other security guidance relating to your staff or contractors.
+          Where relevant,
+          make sure your successor is made aware of these requirements if or when you leave your post.</li>
+      </ul>
+      <p>While holders of NSV clearance <ph conref="conrefs.dita#conrefs/policyshall"/>
+        be aware of their responsibilities,
+        as a manager you <ph conref="conrefs.dita#conrefs/policyshould"/> be aware of these points:
+      <ul>
+        <li>Holders of CTC,
+          SC,
+          and DV are expected to maintain the highest levels of personal integrity,
+          honesty and discretion.
+          They <ph conref="conrefs.dita#conrefs/policyshouldnot"/> place themselves
+          in positions where they could be open to compromise,
+          pressure,
+          or improper influence.</li>
+        <li>Notwithstanding any set duration,
+          security clearances <ph conref="conrefs.dita#conrefs/policycan"/> be reviewed
+          at any point if there is a relevant change of circumstances,
+          or new issues come to light.</li>
+        <li>Holders <ph conref="conrefs.dita#conrefs/policyshould"/> be aware of when
+          their clearance expires,
+          and apply to renew in time.</li>
+        <li>Holders <ph conref="conrefs.dita#conrefs/policyshould"/> adhere to 
+          <ph conref="conrefs.dita#conrefs/mojlong"/>
+          <xref href="protecting-social-media-accounts.dita" format="dita">on-line social media policy</xref>.
+          Holders <ph conref="conrefs.dita#conrefs/policyshouldnot"/> publish their security
+          clearance on-line,
+          including on social networking sites.</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="dealing-with-concerns">
+    <title>Dealing with concerns</title>
+    <body>
+      <p>During your time as a line manager,
+        you might notice unusual behaviours in some of your staff;
+        they might behave out of character.
+        It could be that someone else reports their unusual behaviour to you.
+        It is your responsibility to engage with that individual promptly,
+        and address any concerns that you have,
+        or that are brought to your attention.
+        Addressing areas of concern early on can prevent potentially damaging behaviour.</p>
+      <p>When speaking to an individual,
+        remember:
+      <ul>
+        <li>Your role as a line manager encompasses security,
+          which means there is a duty of care not just to the individual
+          but also the wider team.</li>
+        <li>Vetted individuals <ph conref="conrefs.dita#conrefs/policyshould"/>
+          be encouraged to approach their line manager to discuss issues of concern.
+          Early discussions allow appropriate action to be taken,
+          and for support to be provided where appropriate.</li>
+        <li>Dips in performance or changes in attitude might be an indication that
+          staff have a wider problem or concern.
+          Do not make assumptions,
+          but do think about mitigations and support to prevent potential security implications.</li>
+        <li>Do not put off talking to an individual for fear of not knowing what to do or say.</li>
+        <li>Unusual behaviour might be nothing to do with security issues,
+          but might be for several reasons.
+          Listen to the person,
+          and,
+          if possible,
+          offer your support.
+          It might be appropriate to refer them to a <xref
+          href="https://intranet.justice.gov.uk/guidance/hr/support-and-wellbeing/employee-assistance-programme/"
+          format="html" scope="external">support group available within</xref>
+          the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+      </ul></p>
+      <lq>For more information,
+        see the <ph conref="conrefs.dita#conrefs/moj"/> <xref
+        href="https://intranet.justice.gov.uk/guidance/hr/support-and-wellbeing/" format="html"
+        scope="external">Support and wellbeing</xref> resources.</lq>
+      <p>Managing security clearances requires active conversations between
+        managers and individuals throughout the year,
+        and prompt reporting of any issues of concern as detailed on the Intranet page about
+        <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/reporting-personal-circumstance-changes/"
+        format="html" scope="external">Reporting personal circumstance changes</xref>.
+        Whilst there are formal renewal periods,
+        clearances may be reviewed,
+        suspended,
+        or withdrawn at any time.</p>
+      </body>
+    </topic>
+    <topic id="managing-contractors-or-consultants">
+      <title>Managing contractors or consultants</title>
+      <body>
+      <p>As with any staff,
+        managers are responsible for ensuring that the appointment of contractors
+        or consultants meets <ph conref="conrefs.dita#conrefs/moj"/> security requirements,
+        and that ongoing personnel security is maintained throughout
+        their stay in the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+      <p>Managing a contractor or consultant is normally similar to managing
+        a permanent member of staff.
+        However,
+        given the sometimes transient and flexible nature of a contractor or
+        consultant's work pattern,
+        managers <ph conref="conrefs.dita#conrefs/policyshall"/> pay more attention
+        to them in terms of recruiting and security responsibilities.</p>
+      <p>There is a good chance that a contractor is not familiar with the
+        <ph conref="conrefs.dita#conrefs/moj"/>'s security procedures and practices,
+        or even the <ph conref="conrefs.dita#conrefs/moj"/>'s
+        <xref href="https://intranet.justice.gov.uk/" format="html" scope="external">Intranet site</xref>.
+        They might not be aware of the threats faced by HMG,
+        or the specific governmental department for which they work.
+        Advise them that Government work <ph conref="conrefs.dita#conrefs/policyshallnot"/>
+        normally be carried out on <xref href="personal-devices.dita" format="dita">personal
+          IT devices</xref>.</p>
+        </body>
+      </topic>
+      <topic id="summary">
+        <title>Summary</title>
+        <body>
+      <ul>
+        <li>Prior to their appointment,
+          contractors or consultants <ph conref="conrefs.dita#conrefs/policyshall"/> be
+          security cleared to the appropriate level for their specific role.</li>
+        <li>Only a permanent employee (civil servant) can sponsor a security clearance.</li>
+        <li>Only a permanent employee (civil servant) can act as a sponsor for
+          the issuing of a building pass.
+          Appropriate security clearance <ph conref="conrefs.dita#conrefs/policyshall"/> be
+          obtained before sponsoring an application for a building pass.</li>
+        <li><q>Escorted</q> visitor passes are exclusively for the use of visitors.
+          Contractors or consultants paid by the <ph conref="conrefs.dita#conrefs/moj"/>
+           are not visitors,
+           and <ph conref="conrefs.dita#conrefs/policyshallnot"/> be issued
+           with a visitor pass.
+           They <ph conref="conrefs.dita#conrefs/policyshall"/> be cleared
+           in advance of them starting work,
+           and issued with the correct pass.</li>
+        <li>When transferring security clearance from another Government department,
+          <ph conref="conrefs.dita#conrefs/cluster2securityunittext"/>
+          <ph conref="conrefs.dita#conrefs/policyshall"/>
+          confirm if the security clearance is valid and current.
+          If not,
+          a new security clearance application <ph conref="conrefs.dita#conrefs/policyshall"/>
+          be started.</li>
+        <li>Holders of CTC,
+          SC,
+          or DV <ph conref="conrefs.dita#conrefs/policyshall"/> <xref
+          href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/reporting-personal-circumstance-changes/"
+          format="html" scope="external">report changes in personal circumstances</xref>.</li>
+        <li>Remind all staff that they <ph conref="conrefs.dita#conrefs/policyshall"/> <xref
+          href="accessing-moj-it-systems-from-overseas.dita" format="dita">refer to the travel abroad guidance</xref>.</li>
+        <li>Ensure contractors,
+          like all staff,
+          are aware of <xref href="cyber-and-technical-security-guidance.dita"
+          format="dita" platform="github"><ph conref="conrefs.dita#conrefs/moj"/>
+          security policies</xref><xref href="https://ministryofjustice.github.io/security-guidance/"
+          format="html" scope="external" platform="intranet"><ph conref="conrefs.dita#conrefs/moj"/> security policies</xref>,
+          and check their understanding.
+          Make sure they are briefed on good security behaviours,
+          and act as a role model.</li>
+        <li>Ensure they are aware of the <ph conref="conrefs.dita#conrefs/moj"/>
+          <xref href="protecting-social-media-accounts.dita" format="dita">on-line
+            social media</xref> guidance
+          and understand the need not to publish their security clearance on social media.</li>
+          <li>Create a positive environment in which security is given priority,
+            and individuals are encouraged to discuss concerns before they become serious problems.</li>
+        <li>As part of your role,
+          you <ph conref="conrefs.dita#conrefs/policyshould"/> seek to get to know your contractor
+          or consultant,
+          and discuss any behavioural changes.</li>
+        <li>Although contractors often have a short contract,
+          that might or might not be renewed,
+          they are still given security clearance for a number of years:
+          5 years for CTC,
+          and 7 years for SC and DV.
+          If their contract period is less than the renewal cycle,
+          then you <ph conref="conrefs.dita#conrefs/policyshall"/> notify <xref
+          href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/"
+          format="html" scope="external">your local National Security Vetting Contact (NSVC)</xref>
+          when the contractor leaves,
+          so that their security clearance can be terminated.</li>
+      </ul>
+    </body>
+  </topic>
+	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+	<topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
