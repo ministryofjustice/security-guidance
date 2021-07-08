@@ -16,15 +16,9 @@
       <ol>
         <li>Contact your Technology Service Desk. The analyst will ask the relevant questions and note responses on the ticket.
        <p conref="conrefs.dita#general-enquiries-including-theft-and-loss/dom1"/>
-       <p> </p>
-       <p conref="conrefs.dita#general-enquiries-including-theft-and-loss/dandt"/>
        </li>
-        <li>
-          <p>Tell your line manager as soon as possible.</p>
-        </li>
-        <li>
-          <p>For a lost or stolen device, contact the Police and make sure you get the incident reference number.</p>
-        </li>
+        <li>Tell your line manager as soon as possible.</li>
+        <li>For a lost or stolen device, contact the Police and make sure you get the incident reference number.</li>
       </ol></p>
     </body>
   </topic>
