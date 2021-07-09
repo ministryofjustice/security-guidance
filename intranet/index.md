@@ -18,12 +18,13 @@
         -   [Protecting social media accounts](protecting-social-media-accounts.md)
         -   [Protect yourself online](protect-yourself-online.md)
         -   [Removable media](removable-media.md)
+        -   [Secure Data Transfer Guide](secure-data-transfer-guide.md)
         -   [Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)
         -   [Web Browsing](web-browsing.md)
     * Laptops
         -   [Laptops](laptops.md)
         -   [Locking and shutdown](locking-and-shutdown.md)
-    * Macbook
+    * MacBook
         -   [MacBook](policies-for-macbook-users.md)
 * Incident management
     * [Reporting an incident](reporting-an-incident.md)
@@ -39,9 +40,13 @@
 * Personnel security clearances
     * [Personnel security clearances](personnel-security-clearances.md)
         -   [End or change of employment](end-or-change-of-employment.md)
+        -   [Leavers with NSC and NSVCs](leavers-with-nsc-and-nscvs.md)
         -   [Minimum user clearance](minimum-user-clearance-requirements-guide.md)
+        -   [National Security Vetting for External Candidates FAQ](national-security-vetting-for-external-candidates-faq.md)
         -   [National Security Vetting questions](national-security-vetting-questions.md)
+        -   [Pre-employment screening](pre-employment-screening.md)
         -   [Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)
+        -   [Security clearance appeals policy](security-clearance-appeals-policy.md)
 * User access
     * [User access](acceptable-use.md)
     * [Data Security and Privacy](data-security-and-privacy.md)

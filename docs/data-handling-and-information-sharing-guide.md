@@ -175,19 +175,23 @@ Where there is a business requirement to share information classified higher tha
 
 ## Data Movement Form \(DMF\)
 
+The Data Movement Form \(DMF\) is available [here](./gs/data-movement-form.docx).
+
 The purpose of the DMF is to ensure that the movement of information assets is secure, and in compliance with the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 
-Failure to fulfil or comply with the controls and measures identified within the DMF will lead to unnecessary risk or exposure for the MoJ or the relevant Information Asset Owner \(IAO\) or Senior Information Risk Owner \(SIRO\).
+Failure to fulfil or comply with the controls and measures identified within the DMF will lead to unnecessary risk or exposure for the MoJ, or the relevant Information Asset Owner \(IAO\), or the Senior Information Risk Owner \(SIRO\).
 
 A DMF **SHALL** be completed, and approval received from the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk), for the following scenarios:
 
--   Data is being moved or shared by transferring a physical device, for example using a storage array, USB drive, or other removable media.
--   Data is being moved or shared by electronic \(network\) communication, where the movement is from an MoJ IT system to an external party.
+-   Data is being moved or shared by using a physical storage device to transfer the information. An example is where you use a “memory stick”, a USB drive, a storage array, or some other removable media. The DMF in this scenario focuses on the data being moved or shared.
+-   Data is being moved or shared by electronic \(network\) communication, where the movement is from an MoJ IT system to an external party. An example is using secure file transfer or approved email to transfer the information. The DMF in this scenario focuses on the data being moved or shared.
+-   An asset \(a “data bearing asset”\) is being moved to, or transported by, an external party. This might be as a result of an office move, or because the asset is being decommissioned. The asset might contain or process MoJ information. Examples of data bearing assets include laptops, servers, multi-functional devices, and any other data bearing peripherals. The DMF in this scenario focuses on the asset being moved or transported, rather than the MoJ information that the asset might contain or process.
 
 A DMF **SHALL** be submitted to the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) for information purposes, in the following scenarios:
 
 -   Data is being moved or shared by electronic \(network\) communication, where the movement is entirely within or between MoJ IT systems.
 -   Data is being moved in full compliance with the already-approved service design and operation specification and procedures.
+-   An asset \(a “data bearing asset”\) is being moved but remains within the MoJ or its supplier-provided and MoJ-approved facilities at all times.
 
 **Note:** In the informational scenarios, a DMF is only expected the first time a data movement or sharing takes place. Subsequent, repeat instances of the movement or sharing, do not require a re-submission of the DMF. For example, when setting up a backup process as part of an approved service design, a DMF is created and submitted to the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) for information purposes, but does not need to be re-created or re-submitted for each backup occurrence. If the implementation or process for the data movement or sharing changes, for example a new new backup technology or process is deployed, then a fresh informational DMF is required.
 
@@ -210,16 +214,14 @@ More guidance on password best practices is [available](passwords.md).
 
 ## General enquiries, including theft and loss
 
-**Dom1/Quantum - Technology Service Desk**
+**Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
 -   Tel: 0800 917 5148
+-   [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
 
-**Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
 
-**Digital & Technology - Digital Service Desk**
-
--   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
--   Slack: `#digitalservicedesk`
+**Note:** Use of the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\) is being withdrawn, and should be avoided.
 
 **HMPPS Information & security:**
 

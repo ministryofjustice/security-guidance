@@ -24,7 +24,7 @@
       <title>Transport Layer Security (TLS)</title>
       <body>
         <p>The <xref href="https://www.ncsc.gov.uk/" format="html" scope="external">National Cyber Security Centre (NCSC)</xref> have published information on good TLS configurations <xref href="https://www.ncsc.gov.uk/guidance/tls-external-facing-services" format="html" scope="external">https://www.ncsc.gov.uk/guidance/tls-external-facing-services</xref>.</p>
-        <p>In general, subject to document exceptions (such as end-user needs and required legacy backwards compatiability)</p>
+        <p>In general, subject to document exceptions (such as end-user needs and required legacy backwards compatibility).</p>
       </body>
     </topic>
     <topic id="testing">

@@ -61,6 +61,7 @@
         <li>Using a personal account or personal email address for work tasks.</li>
         <li>Excessive private use during working time.</li>
         <li>Installing unlicensed or unauthorised software.</li>
+        <li>Redirecting print jobs from <ph conref="conrefs.dita#conrefs/moj"/> printers to a personal printer.</li>
       </ul></p>
     </body>
   </topic>
@@ -154,9 +155,9 @@
   <topic id="using-moj-it-outside-your-usual-workplace">
     <title>Using <ph conref="conrefs.dita#conrefs/moj"/> IT outside your usual workplace</title>
     <body>
-      <p>Some IT resources might be usable <xref href="https://intranet.justice.gov.uk/documents/2017/12/remote-working-and-mobile-computing-security-guide-november-2017.pdf" format="pdf" scope="external">away from your usual workplace</xref>, such as a laptop.
+      <p>Some IT resources might be usable <ph platform="github">away from your usual workplace</ph><xref href="https://intranet.justice.gov.uk/documents/2017/12/remote-working-and-mobile-computing-security-guide-november-2017.pdf" format="pdf" scope="external" platform="intranet">away from your usual workplace</xref>, such as a laptop.
       Even outside the office, you must continue to ensure acceptable use of the IT resources.</p>
-      <p>You should also <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita" platform="github">ask</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/accessing-moj-it-systems-from-overseas/" format="html" scope="external" platform="intranet">ask</xref> before taking <ph conref="conrefs.dita#conrefs/moj"/> IT equipment outside the UK.</p>
+      <p>You should also <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita" platform="github">ask</xref><ph platform="intranet">ask</ph> before taking <ph conref="conrefs.dita#conrefs/moj"/> IT equipment outside the UK.</p>
     </body>
   </topic>
   <topic id="avoid-using-removable-media">

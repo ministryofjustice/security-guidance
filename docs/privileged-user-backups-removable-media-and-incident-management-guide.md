@@ -39,16 +39,14 @@ Privileged users play a front-line role in detecting and responding to incidents
 
 ## General enquiries, including theft and loss
 
-**Dom1/Quantum - Technology Service Desk**
+**Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
 -   Tel: 0800 917 5148
+-   [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
 
-**Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
 
-**Digital & Technology - Digital Service Desk**
-
--   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
--   Slack: `#digitalservicedesk`
+**Note:** Use of the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\) is being withdrawn, and should be avoided.
 
 **HMPPS Information & security:**
 
@@ -61,7 +59,7 @@ Privileged users play a front-line role in detecting and responding to incidents
 
 For help with incidents, including theft and loss, contact:
 
--   **Dom1/Quantum - Technology Service Desk**
+-   **DOM1/Quantum - Technology Service Desk**
 
     Tel: 0800 917 5148
 
@@ -75,6 +73,8 @@ For help with incidents, including theft and loss, contact:
     -   Tel: 0203 334 0324
 
 For non-technology incidents, contact the MoJ Group Security Team: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk)
+
+Contact the Privacy Team for information on Data Protection Impact Assessments: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
 
 If you are not sure who to contact, ask the Operational Security Team:
 
