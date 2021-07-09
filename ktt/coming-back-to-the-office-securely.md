@@ -64,6 +64,6 @@ To help you with remembering your security responsibilities, please download thi
 - [Our Security Culture](security-culture-overview.md)
 - [Security Culture Programme](security-culture-programme.md)
 - [Security Champions](security-champions.md)
-- [Security Working Checklist](secure-working-checklist.md)
+- [Secure Working Checklist](secure-working-checklist.md)
 - [Events](events.md)
 - [Resources to share](resources.md)
