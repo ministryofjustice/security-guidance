@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 8 July 2021.
+**Note:** This guidance is dated: 12 July 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 8 August 2021.
+The offline versions of this guidance are time-limited, and are not valid after 12 August 2021.
 
 ### Searching this content
 
@@ -145,6 +145,8 @@ The documents have been developed and defined within this taxonomy, and are list
 #### During employment
 
 |[Training and Education](training-and-education.md)|All users|
+|[Voluntary drug testing policy](voluntary-drug-testing-policy.md)|All users|
+|[Voluntary drug testing policy procedures](voluntary-drug-testing-policy-procedures.md)|All users|
 
 #### Termination and change of employment
 
