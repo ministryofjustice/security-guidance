@@ -10,6 +10,7 @@ Owner:
 We are currently building a network of Security Champions across the Ministry of Justice (MoJ)
 HQ to promote good security behaviours and strengthen the MoJ's security
 culture.
+
 Security Champions help promote and build awareness and knowledge of the
 procedures and security behaviours that staff and contractors need to
 demonstrate while working at the MoJ.
@@ -52,5 +53,7 @@ information across the MoJ. Details will be shared at a Welcome session.
 
 - [Our Security Culture](security-culture-overview.md)
 - [Security Culture Programme](security-culture-programme.md)
+- [Coming Back to the Office Securely](coming-back-to-the-office-securely.md)
+- [Secure Working Checklist](secure-working-checklist.md)
 - [Events](events.md)
 - [Resources to share](resources.md)
