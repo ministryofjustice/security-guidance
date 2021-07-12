@@ -7,6 +7,8 @@ Owner:
 
 # Secure Working Checklist
 
+A PDF flyer of this page is [available from here](SecureWorkingFlyer.pdf).
+
 | DO | DO NOT |
 |---|---|
 | Use a privacy screen whilst working in a public place | Allow anyone to use your devices |
