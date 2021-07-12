@@ -15,7 +15,7 @@ During the last 18 months, life as we know it changed in more ways than one, esp
 
 It’s not just working from home or in the office where we need to think about security. If you work whilst travelling there are certain security principles to think about, in order to avoid incidents like [this](https://www.bbc.co.uk/news/uk-57624942).
 
-[Cabinet Office video on Coming Back Securely and Hybrid Working...](https://justiceuk.sharepoint.com/:v:/r/sites/knowthething/Shared%20Documents/Security%20Culture,%20Policies%20and%20Guidance/culture/videos/Coming%20Back%20Securely%20-%20Hybrid%20Working.mp4?csf=1&web=1&e=OnamG9)
+[Cabinet Office video on Coming Back Securely and Hybrid Working...](https://youtu.be/owZGsVo5Z_0)
 
 There are three simple reminders for you to check no matter where you’re working - **Overseen**, **Overheard**, and **Overshared**.
 
