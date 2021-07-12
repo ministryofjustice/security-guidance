@@ -29,8 +29,10 @@
 	<property name="intranet" location="intranet"/>
 	<property name="images" location="images"/>
 	<property name="jekyll-baseline" location="jekyll-baseline"/>
+	<!--
 	<property name="culture" location="culture"/>
 	<property name="culturebuild" location="ktt"/>
+	-->
 	<property name="redirects" location="redirects"/>
 	<!-- Ensure that environment variable DITA_DIR is set to
 		the installation directory for the DITA Open Source Toolkit -->
@@ -65,6 +67,7 @@
 		<!-- <move file="${theFile}.new" tofile="${theFile}" overwrite="true"/> -->
 	</target>
 
+	<!--
 	<target name="compile_culture" depends="init, compile_intranet"
 				description="Compile culture content into production Markdown">
 		<delete dir="${culturebuild}"/>
@@ -73,6 +76,7 @@
 		</copy>
 		<replace dir="${culturebuild}" replaceFilterFile="${dita}/conrefs.properties"/>
 	</target>
+	-->
 
 	<target name="compile_intranet" depends="init"
 				description="compile the Intranet collection into markdown">
@@ -264,7 +268,8 @@
 	</target>
 
 	<!-- Enable epub builds for the moment. -->
-	<target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word,compile_culture"/>
+	<target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word"/>
+	<!-- <target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word,compile_culture"/> -->
 	<!-- <target name="compile" depends="compile_intranet,compile_md,compile_pdf"/> -->
 
 	<target name="enableRedirect">
@@ -278,7 +283,7 @@
 	</target>
 
 	<!-- <target name="dist_local" depends="compile_intranet" -->
-	<target name="dist_local" depends="compile_md,compile_intranet,compile_word,compile_culture"
+	<target name="dist_local" depends="compile_md,compile_intranet,compile_word"
 				description="generate minimal set to test local build">
 		<!-- Create the distribution directory -->
 		<mkdir dir="${docs}"/>
