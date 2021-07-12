@@ -44,9 +44,12 @@
         -   [Minimum user clearance](minimum-user-clearance-requirements-guide.md)
         -   [National Security Vetting for External Candidates FAQ](national-security-vetting-for-external-candidates-faq.md)
         -   [National Security Vetting questions](national-security-vetting-questions.md)
+        -   [Personnel risk assessment](personnel-risk-assessment.md)
         -   [Pre-employment screening](pre-employment-screening.md)
         -   [Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)
         -   [Security clearance appeals policy](security-clearance-appeals-policy.md)
+        -   [Voluntary drug testing policy](voluntary-drug-testing-policy.md)
+        -   [Voluntary drug testing policy procedures](voluntary-drug-testing-policy-procedures.md)
 * User access
     * [User access](acceptable-use.md)
     * [Data Security and Privacy](data-security-and-privacy.md)

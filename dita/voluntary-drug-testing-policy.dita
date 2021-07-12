@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="voluntary-drug-testing-policy">
+  <title>Voluntary drug testing policy</title>
+  <body/>
+  <topic id="scope">
+    <title>Scope</title>
+    <body>
+      <p>This policy covers access to a range of government assets at risk from a
+        wide range of national security threats.
+        These threats may be related to
+        terrorism,
+        espionage,
+        sabotage,
+        or serious organised crime.
+        Vulnerabilities may also arise from disaffected employees (known as
+        <q>insiders</q>) who could seek to exploit their level of access.</p>
+        <!-- FIXME -->
+      <p>This policy <ph conref="conrefs.dita#conrefs/policyshould"/> be read
+        in conjunction with the
+        <xref href="voluntary-drug-testing-policy-procedures.dita" format="dita">Voluntary
+          Drug Testing Policy Procedures</xref>.</p>
+    </body>
+  </topic>
+  <topic id="purpose">
+    <title>Purpose</title>
+    <body>
+      <p>Substance misuse threatens the efficiency and delivery of business.
+        It might impair judgment and affect an employee's ability to carry out their
+        role and responsibilities effectively and to the standard expected from
+        HMG and the public.</p>
+      <p>Additionally,
+        it might make an individual vulnerable by leaving them open to pressure,
+        inducement,
+        or blackmail.
+        It might also affect their suitability to continue to hold security clearance.</p>
+      <p>This policy sets out the <ph conref="conrefs.dita#conrefs/mojlong"/>
+        approach to voluntary drug testing which is used as a risk management tool
+        for personnel security.
+        It helps identify potential risks and vulnerabilities to national security and
+        allows them to be managed appropriately and proportionately.</p>
+      <p>Specifically, it seeks to:
+      <ul>
+        <li>Minimise the likelihood of existing employees becoming a security concern.</li>
+        <li>Implement security measures in a way that is proportionate to the risk.</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="government-functional-standard-outcomes">
+    <title>Government Functional Standard Outcomes</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/gov007"/> states personnel assurance
+        is fundamental to good security.
+        It demands that Government organisations delivers the appropriate
+        combination of recruitment checks,
+        vetting,
+        and on-going personnel security management.
+        This allows them to be assured about their people and to mitigate risks from
+        well-placed insiders.</p>
+    </body>
+  </topic>
+  <topic id="policy-statement">
+    <title>Policy Statement</title>
+    <body>
+      <p>To achieve this security outcome,
+        the following <ph conref="conrefs.dita#conrefs/policyshall"/> be followed by the
+        <ph conref="conrefs.dita#conrefs/moj"/>.
+      <ul>
+        <li>Determine the need for voluntary drug testing using a threat and
+          risk management approach,
+          based on evidence supplied throughout the National Security Vetting (NSV) process.</li>
+        <li>Individuals <ph conref="conrefs.dita#conrefs/policyshould"/>
+          co-operate fully with any request to provide a voluntary sample collection
+          for drug testing.</li>
+        <li>Confirmation of test results,
+          and any subsequent decision making made,
+          <ph conref="conrefs.dita#conrefs/policyshall"/>
+          be held on the individual's vetting file,
+          and stored in accordance with the organisation's retention periods.</li>
+        <li>Test results <ph conref="conrefs.dita#conrefs/policyshallnot"/>
+          be used for any other purpose than deciding suitability to hold NSV.
+          Exceptions to this include legal obligations (for example Court order,
+          or Police warrant),
+          or the transfer of records to another Vetting Authority,
+          as part of clearance confirmation procedures,
+          or where there is an overriding corporate duty of care to the vetting subject.</li>
+        <li>Any new information or concerns affecting the reliability of an individual
+          <ph conref="conrefs.dita#conrefs/policyshall"/> be reported to,
+          and dealt with by,
+          <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>,
+          in conjunction with the Senior Security Advisor.</li>
+      </ul></p>
+    </body>
+  </topic>
+</topic>
