@@ -144,6 +144,7 @@ The documents have been developed and defined within this taxonomy, and are list
 
 #### During employment
 
+|[Personnel risk assessment](personnel-risk-assessment.md)|All users|
 |[Training and Education](training-and-education.md)|All users|
 |[Voluntary drug testing policy](voluntary-drug-testing-policy.md)|All users|
 |[Voluntary drug testing policy procedures](voluntary-drug-testing-policy-procedures.md)|All users|
