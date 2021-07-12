@@ -483,6 +483,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
+                
+                <entry colname="col1" align="left"><xref href="reporting-personal-circumstance-changes.dita" format="dita">Reporting personal circumstance changes</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
                 <entry colname="col1" align="left"><xref href="training-and-education.dita" format="dita">Training and Education</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/training-education/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
