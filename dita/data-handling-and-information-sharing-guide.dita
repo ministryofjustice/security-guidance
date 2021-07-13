@@ -469,22 +469,51 @@
   <topic id="data-movement-form-dmf">
     <title>Data Movement Form (DMF)</title>
     <body>
+      <p>The Data Movement Form (DMF) is available <ph platform="intranet">on the
+      <xref href="file:///./gs/data-movement-form.docx"
+        format="docx" scope="external"><ph conref="conrefs.dita#conrefs/moj"/>
+        Intranet</xref></ph><xref href="file:///./gs/data-movement-form.docx"
+          format="docx" platform="github" scope="external">here</xref>.</p>
       <p>The purpose of the DMF is to ensure that the movement of information
         assets is secure,
         and in compliance with the <ph conref="conrefs.dita#conrefs/gov007"/>.</p>
       <p>Failure to fulfil or comply with the controls and measures identified
         within the DMF will lead to unnecessary risk or exposure for the
-        <ph conref="conrefs.dita#conrefs/moj"/> or the relevant Information Asset
-        Owner (IAO) or Senior Information Risk Owner (SIRO).</p>
+        <ph conref="conrefs.dita#conrefs/moj"/>,
+        or the relevant Information Asset Owner (IAO),
+        or the Senior Information Risk Owner (SIRO).</p>
       <p>A DMF <ph conref="conrefs.dita#conrefs/policyshall"/> be completed,
         and approval received from the <ph conref="conrefs.dita#conrefs/ostemailtext"/>,
         for the following scenarios:
         <ul>
-          <li>Data is being moved or shared by transferring a physical device,
-          for example using a storage array, USB drive, or other removable media.</li>
+          <li>Data is being moved or shared by using a physical storage device to
+            transfer the information.
+          An example is where you use a <q>memory stick</q>,
+          a USB drive,
+          a storage array,
+          or some other removable media.
+        The DMF in this scenario focuses on the data being moved or shared.</li>
           <li>Data is being moved or shared by electronic (network) communication,
             where the movement is from an <ph conref="conrefs.dita#conrefs/moj"/>
-            IT system to an external party.</li>
+            IT system to an external party.
+          An example is using secure file transfer or approved email to transfer
+        the information.
+      The DMF in this scenario focuses on the data being moved or shared.</li>
+          <li>An asset (a <q>data bearing asset</q>) is being moved to,
+          or transported by,
+          an external party.
+          This might be as a result of an office move,
+          or because the asset is being decommissioned.
+            The asset might contain or process <ph conref="conrefs.dita#conrefs/moj"/>
+            information.
+            Examples of data bearing assets include laptops,
+            servers,
+            multi-functional devices,
+            and any other data bearing peripherals.
+          The DMF in this scenario focuses on the asset being moved or
+          transported,
+          rather than the <ph conref="conrefs.dita#conrefs/moj"/> information
+          that the asset might contain or process.</li>
         </ul></p>
         <p>A DMF <ph conref="conrefs.dita#conrefs/policyshall"/>
         be submitted to the <ph conref="conrefs.dita#conrefs/ostemailtext"/>
@@ -496,6 +525,11 @@
               <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</li>
             <li>Data is being moved in full compliance with the already-approved
               service design and operation specification and procedures.</li>
+                  <li>An asset (a <q>data bearing asset</q>) is being moved
+                  but remains within the <ph conref="conrefs.dita#conrefs/moj"/>
+                  or its supplier-provided and
+                  <ph conref="conrefs.dita#conrefs/moj"/>-approved facilities at
+                  all times.</li>
           </ul>
         <note>In the informational scenarios,
         a DMF is only expected the first time a data movement or sharing takes

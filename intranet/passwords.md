@@ -43,7 +43,7 @@ When required to change a password, you must do so as soon as possible. If you d
 
 ##App-based password protection for files
 
-Some applications provide a mechanism for protecting files, for example by using a password to control whether someone can open, or edit, a file.
+Some applications - including Microsoft Office tools such as Word, Excel, and Powerpoint - provide mechanisms for protecting files. A password controls whether someone can open, or edit, a file.
 
 While these app-based password protection mechanisms are better than nothing, there are three good reasons for avoiding them if possible.
 
@@ -51,7 +51,7 @@ While these app-based password protection mechanisms are better than nothing, th
 2.  It is tempting to use a standard password for protecting a file within the app, so that other people can share and work with the file. Changing the password becomes “inconvenient”. The result is that many versions of the data file are all protected with the same password. Also, if anyone has ever been given the password to access the file, they will always be able to access the file.
 3.  If you forget the app-based password, there might not be a recovery process available to you.
 
-For these reasons, MoJ advice is that you **SHOULD NOT** use password tools within an app to protect data files that are processed by the app. Instead, either:
+For these reasons, MoJ advice is that you **SHOULD NOT** use password tools within an app to protect data files that are processed by the app. For example, you **SHOULD NOT** use the password tools with Microsoft Word, Excel, or Powerpoint, to protect MoJ information within files. Instead, either:
 
 1.  Store the data files in a shared but secure area, such as the MoJ SharePoint storage facility.
 2.  Use separate encryption tools to protect data files, separate from the app that works with the data files.

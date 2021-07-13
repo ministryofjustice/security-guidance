@@ -46,6 +46,7 @@ cryptographic
 Cryptographic
 CSI
 CSJM
+CSL
 CSP
 CTC
 Ctrl
@@ -61,7 +62,11 @@ degauss
 deregistration
 despatch
 DevOps
+DHCP
+discoverable
+DKIM
 DLRMS
+DMARC
 DMF
 DNS
 DOM
@@ -77,6 +82,7 @@ EEA
 else's
 EPICK
 eToken
+Eventbrite
 exfiltration
 Fi
 FIPS
@@ -113,10 +119,12 @@ hotsynch
 htm
 https
 IaaS
+IAM
 IAMM
 IAO
 IAOs
 IAS
+ICMP
 ICO
 ICT
 IdP
@@ -139,6 +147,7 @@ ITHCs
 ITSIM
 ITSO
 Jira
+JML
 Kahootz
 Kensington
 Keyloggers
@@ -146,6 +155,7 @@ Kubernetes
 lifecycle
 LastPass
 LDAP
+LinkedIn
 LM
 Lockdown
 login
@@ -153,6 +163,7 @@ logoff
 logon
 Lucidchart
 MacBook
+macOS
 Mailchimp
 Malware
 malware
@@ -162,14 +173,17 @@ MiFi
 MoJ
 MoJ's
 multi
+MyLearning
 NCSC
 NDA
+NHS
 NICT
 NIST
 NLE
 NOMS
 NSV
 NSVC
+NXDOMAIN
 OAuth
 OFFICIAL
 offshoring
@@ -177,9 +191,11 @@ offsite
 OGD
 OIT
 OITs
+Okta
 OMNI
 OneDrive
 onsite
+OpenLDAP
 OpenShift
 OSN
 OST
@@ -202,10 +218,12 @@ PSO
 Pwned
 ransomware
 Rattic
+RBAC
 repurposing
 RMADS
 routable
 RPO
+RSA
 RTO
 SaaS
 sanitisation
@@ -221,6 +239,7 @@ SIEM
 SIRO
 SIROs
 SLA
+Slido
 SLO
 smartphone
 smartphones
@@ -256,7 +275,9 @@ VLAN
 Vodafone
 VPN
 walkthrough
+WhatsApp
 Wi
+wifi
 WordPress
 writeable
 xGSI

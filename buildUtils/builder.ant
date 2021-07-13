@@ -31,6 +31,10 @@
 	<property name="jekyll-baseline" location="jekyll-baseline"/>
 	<property name="ost" location="ost"/>
 	<property name="ostbuild" location="${intranet}/ost"/>
+	<!--
+	<property name="culture" location="culture"/>
+	<property name="culturebuild" location="ktt"/>
+	-->
 	<property name="redirects" location="redirects"/>
 	<!-- Ensure that environment variable DITA_DIR is set to
 		the installation directory for the DITA Open Source Toolkit -->
@@ -81,6 +85,16 @@
 		</foreach>
 		-->
 	</target>
+	<!--
+	<target name="compile_culture" depends="init, compile_intranet"
+				description="Compile culture content into production Markdown">
+		<delete dir="${culturebuild}"/>
+		<copy todir="${culturebuild}" >
+			<fileset dir="${culture}"/>
+		</copy>
+		<replace dir="${culturebuild}" replaceFilterFile="${dita}/conrefs.properties"/>
+	</target>
+	-->
 
 	<target name="compile_intranet" depends="init"
 				description="compile the Intranet collection into markdown">
@@ -169,6 +183,7 @@
 		</ant>
 		<!-- Rename this file to be Tech users guide. -->
 		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-tech.pdf" overwrite="true"/>
+		<echo message="Technical users PDF build complete."/>
 
 		<!-- Next build the Suppliers PDF, containing just their content.
 		<echo message="Build PDF: Suppliers"/>
@@ -190,6 +205,7 @@
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
+		<echo message="Intranet PDF build complete."/>
 
 		<!-- Now build the 'all users' guide, omitting the technical details. -->
 		<echo message="Build PDF: All users"/>
@@ -199,6 +215,7 @@
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
+		<echo message="All users PDF build complete."/>
 	</target>
 
 	<target name="compile_epub" depends="init"
@@ -270,6 +287,8 @@
 
 	<!-- Enable epub builds for the moment. -->
 	<target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word,compile_ost"/>
+	<!-- <target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word"/> -->
+	<!-- <target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word,compile_culture"/> -->
 	<!-- <target name="compile" depends="compile_intranet,compile_md,compile_pdf"/> -->
 
 	<target name="enableRedirect">

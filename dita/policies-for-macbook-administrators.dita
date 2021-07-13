@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="policies-for-macbook-administrators">
-  <title>Policies for Macbook Administrators</title>
+  <title>Policies for MacBook Administrators</title>
   <body>
     <note>This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon.
       Before using this content for a project, contact <ph conref="conrefs.dita#conrefs/catemail"/>.</note>
     <p>All User accounts are created as 'Admin' to allow for software installation as part of normal business requirements.</p>
     <p>Each laptop has a separate Admin account (created on build) to allow for User deletion and password resets</p>
-    <p>These policies must be adhered to by all Macbook Fleet Administrators.</p>
+    <p>These policies must be adhered to by all MacBook Fleet Administrators.</p>
   </body>
   <topic id="why">
     <title>Why?</title>
@@ -15,7 +15,7 @@
       <p>These policies ensure two things:
       <ol>
         <li>That administrators have a clear understanding of what is considered acceptable, so that they do not inadvertently perform an administrative action which is later considered unacceptable.</li>
-        <li>In the event that a security incident does occur in relation to the Macbook Fleet, that there is a clear policy which can be referred to, to support any action that is taken.</li>
+        <li>In the event that a security incident does occur in relation to the MacBook Fleet, that there is a clear policy which can be referred to, to support any action that is taken.</li>
       </ol></p>
     </body>
   </topic>
@@ -43,7 +43,7 @@
       <ol>
         <li>Maintain the active list of all active users.</li>
         <li>Raise an incident with the Operational Security Team (<ph conref="conrefs.dita#conrefs/ostemail"/>) and inform <ph conref="conrefs.dita#conrefs/moj"/> security (<ph conref="conrefs.dita#conrefs/securityemail"/>) and the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/ciso"/> when leaving Staff have not returned all <ph conref="conrefs.dita#conrefs/moj"/> assets in their possession.</li>
-        <li>If anyone who has a Macbook account leaves the organisation for any reason.</li>
+        <li>If anyone who has a MacBook account leaves the organisation for any reason.</li>
         <li>Retrieve the Users equipment and suspend the account.</li>
         <li>If requested by a Head of Profession, transfer user's data to a user decided on by their line manager.
           This also requires a request from the business area Service Manager.</li>
