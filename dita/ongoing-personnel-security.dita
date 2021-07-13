@@ -41,8 +41,8 @@
           SC,
           or DV),
           that they <ph conref="conrefs.dita#conrefs/policyshall"/>
-          <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/reporting-personal-circumstance-changes/"
-          format="html" scope="external">report changes in personal circumstances</xref>.</li>
+          <xref href="reporting-personal-circumstance-changes.dita" format="dita">report
+            changes in personal circumstances</xref>.</li>
         <li>Remind all staff that they <ph conref="conrefs.dita#conrefs/policyshall"/> notify
           the <xref href="#contact-details" format="dita">security team</xref>
           if they are travelling to certain countries referred to in the
@@ -129,9 +129,9 @@
         scope="external">Support and wellbeing</xref> resources.</lq>
       <p>Managing security clearances requires active conversations between
         managers and individuals throughout the year,
-        and prompt reporting of any issues of concern as detailed on the Intranet page about
-        <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/reporting-personal-circumstance-changes/"
-        format="html" scope="external">Reporting personal circumstance changes</xref>.
+        and prompt reporting of any issues of concern:
+        <xref href="reporting-personal-circumstance-changes.dita" format="dita">Reporting
+          personal circumstance changes</xref>.
         Whilst there are formal renewal periods,
         clearances may be reviewed,
         suspended,
@@ -194,8 +194,8 @@
         <li>Holders of CTC,
           SC,
           or DV <ph conref="conrefs.dita#conrefs/policyshall"/> <xref
-          href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/reporting-personal-circumstance-changes/"
-          format="html" scope="external">report changes in personal circumstances</xref>.</li>
+          href="reporting-personal-circumstance-changes.dita" format="dita">report
+          changes in personal circumstances</xref>.</li>
         <li>Remind all staff that they <ph conref="conrefs.dita#conrefs/policyshall"/> <xref
           href="accessing-moj-it-systems-from-overseas.dita" format="dita">refer to the travel abroad guidance</xref>.</li>
         <li>Ensure contractors,

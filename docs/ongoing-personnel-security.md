@@ -12,7 +12,7 @@ When staff are inducted, they are advised of their security responsibilities. Li
 -   Where appropriate, deal with any concerns by talking to the individual, your manager, or HR.
 -   Create a positive climate in which security is given priority, and individuals are encouraged to discuss any concerns before they become security problems.
 -   Be a good role model for all your staff, and display good security behaviours.
--   Remind all staff with security clearance \(CTC, SC, or DV\), that they **SHALL** [report changes in personal circumstances](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/reporting-personal-circumstance-changes/).
+-   Remind all staff with security clearance \(CTC, SC, or DV\), that they **SHALL** [report changes in personal circumstances](reporting-personal-circumstance-changes.md).
 -   Remind all staff that they **SHALL** notify the [security team](#contact-details) if they are travelling to certain countries referred to in the [Accessing Ministry of Justice \(MoJ\) IT systems overseas](accessing-moj-it-systems-from-overseas.md) guidance.
 -   Ensure you are aware of any relevant caveats, or aftercare measures, for staff with security clearance \(CTC, SC, or DV\), or other security guidance relating to your staff or contractors. Where relevant, make sure your successor is made aware of these requirements if or when you leave your post.
 
@@ -37,7 +37,7 @@ When speaking to an individual, remember:
 
 > For more information, see the MoJ [Support and wellbeing](https://intranet.justice.gov.uk/guidance/hr/support-and-wellbeing/) resources.
 
-Managing security clearances requires active conversations between managers and individuals throughout the year, and prompt reporting of any issues of concern as detailed on the Intranet page about [Reporting personal circumstance changes](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/reporting-personal-circumstance-changes/). Whilst there are formal renewal periods, clearances may be reviewed, suspended, or withdrawn at any time.
+Managing security clearances requires active conversations between managers and individuals throughout the year, and prompt reporting of any issues of concern: [Reporting personal circumstance changes](reporting-personal-circumstance-changes.md). Whilst there are formal renewal periods, clearances may be reviewed, suspended, or withdrawn at any time.
 
 ## Managing contractors or consultants
 
@@ -54,7 +54,7 @@ There is a good chance that a contractor is not familiar with the MoJ's security
 -   Only a permanent employee \(civil servant\) can act as a sponsor for the issuing of a building pass. Appropriate security clearance **SHALL** be obtained before sponsoring an application for a building pass.
 -   “Escorted” visitor passes are exclusively for the use of visitors. Contractors or consultants paid by the MoJ are not visitors, and **SHALL NOT** be issued with a visitor pass. They **SHALL** be cleared in advance of them starting work, and issued with the correct pass.
 -   When transferring security clearance from another Government department, [Cluster 2 Security Unit](mailto:contactus@cluster2security.gov.uk) **SHALL** confirm if the security clearance is valid and current. If not, a new security clearance application **SHALL** be started.
--   Holders of CTC, SC, or DV **SHALL** [report changes in personal circumstances](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/reporting-personal-circumstance-changes/).
+-   Holders of CTC, SC, or DV **SHALL** [report changes in personal circumstances](reporting-personal-circumstance-changes.md).
 -   Remind all staff that they **SHALL** [refer to the travel abroad guidance](accessing-moj-it-systems-from-overseas.md).
 -   Ensure contractors, like all staff, are aware of [MoJ security policies](cyber-and-technical-security-guidance.md), and check their understanding. Make sure they are briefed on good security behaviours, and act as a role model.
 -   Ensure they are aware of the MoJ [on-line social media](protecting-social-media-accounts.md) guidance and understand the need to avoid publishing their security clearance on social media.
