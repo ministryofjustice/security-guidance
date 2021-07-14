@@ -1,6 +1,6 @@
-# Tests cancellations and delays
+#Tests cancellations and delays
 
-## Internal test team
+##Internal test team
 
 | Days before test start | Event | Charge | Cross charge |
 |---|---|---|---|
@@ -9,7 +9,7 @@
 | 3 | Testing delayed or cancelled | 75% of testing cost scheduled | Num testers x days x £600 |
 | 7 | Test cancelled | 40% of total testing cost scheduled | Total test person days scheduled x £600 x 40% |
 
-## External test team
+##External test team
 
 | Days before test start | Event | Charge | Cross charge |
 |---|---|---|---|
