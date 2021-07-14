@@ -49,33 +49,37 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta audience="audience-basic audience-tech"><navtitle>Teleworking</navtitle></topicmeta>
 			<topicref href="accessing-moj-it-systems-from-overseas.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="general-advice-on-taking-equipment-overseas.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="overseas-travel.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="personal-devices.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 	</topichead>
 
 	<topichead audience="audience-basic audience-tech">
-		<topicmeta audience="audience-basic audience-tech"><navtitle>Human resource security</navtitle></topicmeta>
-		<topichead audience="audience-basic audience-tech">
-			<topicmeta audience="audience-basic audience-tech"><navtitle>Prior to employment</navtitle></topicmeta>
-			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="national-security-vetting-for-external-candidates-faq.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="national-security-vetting-questions.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="pre-employment-screening.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="security-clearance-appeals-policy.dita" type="topic" audience="audience-basic audience-tech"/>
+		<topicmeta><navtitle>Human resource security</navtitle></topicmeta>
+		<topichead>
+			<topicmeta><navtitle>Prior to employment</navtitle></topicmeta>
+			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
+			<topicref href="national-security-vetting-for-external-candidates-faq.dita" type="topic"/>
+			<topicref href="national-security-vetting-questions.dita" type="topic"/>
+			<topicref href="pre-employment-screening.dita" type="topic"/>
+			<topicref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" type="topic"/>
+			<topicref href="security-clearance-appeals-policy.dita" type="topic"/>
 			<!-- The security vetting assessment need webpage is not required, only the download document. -->
-			<topicref href="security-vetting-assessment-need.dita" type="topic" audience="audience-basic audience-tech" processing-role="resource-only"/>
+			<topicref href="security-vetting-assessment-need.dita" type="topic" processing-role="resource-only"/>
 		</topichead>
-		<topichead audience="audience-basic audience-tech">
+		<topichead>
 			<topicmeta><navtitle>During employment</navtitle></topicmeta>
+			<topicref href="ongoing-personnel-security.dita" type="topic"/>
 			<topicref href="personnel-risk-assessment.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="reporting-personal-circumstance-changes.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="training-and-education.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="voluntary-drug-testing-policy.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="voluntary-drug-testing-policy-procedures.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
-		<topichead navtitle="Termination and change of employment">
-			<topicref href="end-or-change-of-employment.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="leavers-with-nsc-and-nscvs.dita" type="topic" audience="audience-basic audience-tech"/>
+		<topichead>
+			<topicmeta><navtitle>Termination and change of employment"></navtitle></topicmeta>
+			<topicref href="end-or-change-of-employment.dita" type="topic"/>
+			<topicref href="leavers-with-nsc-and-nscvs.dita" type="topic"/>
 		</topichead>
 	</topichead>
 
