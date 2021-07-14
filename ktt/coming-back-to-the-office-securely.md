@@ -45,7 +45,7 @@ To help you with remembering your security responsibilities, please download thi
 
 **Trigger Warning:** The following case studies includes quotes from a domestic violence victim of how she felt following her home address being breached by us. If you believe that reading this will be traumatising for you, for example, if you've had a similar experience, then you may choose to skip it.
 
-Case studies can be [reached from this link]().
+Case studies can be [reached from this link](why-is-this-important-case-studies.md).
 
 ## Links
 
