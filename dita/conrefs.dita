@@ -69,7 +69,8 @@
 			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></ph>
 			<ph id="strapteamemail"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="email" scope="external">STRAPTeam@cluster2security.gov.uk</xref></ph>
 			<ph id="strapteamemailtext"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="email" scope="external">Cluster 2 STRAP team</xref></ph>			
-			<ph id="vettingaftercareemail"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="email" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>
+			<ph id="vettingaftercareemail"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="email" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>			
+			<ph id="vettingaftercareemailtext"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="email" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>
 		</p>
 		<p id="contactcatbyemail">Contact the Cyber Assistance Team by email: <ph conref="#conrefs/catemail"/></p>
 		<image id="intraneticon" href="images/gov-uk-logotype-crown.png"><alt>A small UK Government Crown, to indicate that the link is to the <ph conref="#conrefs/moj"/> Intranet.</alt></image>
