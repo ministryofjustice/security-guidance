@@ -1327,6 +1327,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
 			</body>
 		</topic>
     -->
+    <body>
+      <p>A glossary of some terms used in this guidance is available <xref href="glossary.dita" format="dita">here</xref>.</p>
+      <p conref="conrefs.dita#conrefs/acronyms"></p>
+    </body>
 		<topic id="technical-guidance">
 			<title>Technical Guidance</title>
 			<body>
