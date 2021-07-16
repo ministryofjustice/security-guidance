@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 6 July 2021.
+**Note:** This guidance is dated: 15 July 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 6 August 2021.
+The offline versions of this guidance are time-limited, and are not valid after 15 August 2021.
 
 ### Searching this content
 
@@ -144,7 +144,12 @@ The documents have been developed and defined within this taxonomy, and are list
 
 #### During employment
 
+|[Ongoing Personnel Security](ongoing-personnel-security.md)|All users|
+|[Personnel risk assessment](personnel-risk-assessment.md)|All users|
+|[Reporting personal circumstance changes](reporting-personal-circumstance-changes.md)|All users|
 |[Training and Education](training-and-education.md)|All users|
+|[Voluntary drug testing policy](voluntary-drug-testing-policy.md)|All users|
+|[Voluntary drug testing policy procedures](voluntary-drug-testing-policy-procedures.md)|All users|
 
 #### Termination and change of employment
 
@@ -395,6 +400,10 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Risk reviews](risk-reviews.md)|All users|
 
 ## Other Guidance
+
+A glossary of some terms used in this guidance is available [here](glossary.md).
+
+A more extensive list of acronyms is available [here](https://ministryofjustice.github.io/acronyms/).
 
 ### Technical Guidance
 

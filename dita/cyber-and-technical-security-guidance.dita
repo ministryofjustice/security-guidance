@@ -473,10 +473,32 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <title>During employment</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-				<row>
-					<entry colname="col1" align="left"><xref href="training-and-education.dita" format="dita">Training and Education</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/training-education/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
+              <row>
+                <entry colname="col1" align="left"><xref href="ongoing-personnel-security.dita" format="dita">Ongoing Personnel Security</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                
+                <entry colname="col1" align="left"><xref href="personnel-risk-assessment.dita" format="dita">Personnel risk assessment</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                
+                <entry colname="col1" align="left"><xref href="reporting-personal-circumstance-changes.dita" format="dita">Reporting personal circumstance changes</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="training-and-education.dita" format="dita">Training and Education</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/training-education/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="voluntary-drug-testing-policy.dita" format="dita">Voluntary drug testing policy</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="voluntary-drug-testing-policy-procedures.dita" format="dita">Voluntary drug testing policy procedures</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
             </tbody></tgroup></table>
           </body>
         </topic>
@@ -1309,6 +1331,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
 			</body>
 		</topic>
     -->
+    <body>
+      <p>A glossary of some terms used in this guidance is available <xref href="glossary.dita" format="dita">here</xref>.</p>
+      <p conref="conrefs.dita#conrefs/acronyms"></p>
+    </body>
 		<topic id="technical-guidance">
 			<title>Technical Guidance</title>
 			<body>

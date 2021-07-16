@@ -69,8 +69,11 @@
 			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></ph>
 			<ph id="strapteamemail"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="email" scope="external">STRAPTeam@cluster2security.gov.uk</xref></ph>
 			<ph id="strapteamemailtext"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="email" scope="external">Cluster 2 STRAP team</xref></ph>			
-			<ph id="vettingaftercareemail"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="email" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>
+			<ph id="vettingaftercareemail"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="email" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>			
+			<ph id="vettingaftercareemailtext"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="email" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>
 		</p>
+		<p id="acronyms">A more extensive list of acronyms is available
+			<xref href="https://ministryofjustice.github.io/acronyms/" format="html" scope="external">here</xref>.</p>
 		<p id="contactcatbyemail">Contact the Cyber Assistance Team by email: <ph conref="#conrefs/catemail"/></p>
 		<image id="intraneticon" href="images/gov-uk-logotype-crown.png"><alt>A small UK Government Crown, to indicate that the link is to the <ph conref="#conrefs/moj"/> Intranet.</alt></image>
 		<p id="irardefinition">An IRAR is normally completed by Security Architects and Risk Assessors,
@@ -138,18 +141,20 @@
 	<topic id="general-enquiries-including-theft-and-loss">
 		<title>General enquiries, including theft and loss</title>
 		<body>
-			<p id="dom1"><b>DOM1/Quantum - Technology Service Desk</b>
+			<p id="dom1"><b>Technology Service Desk</b> - including DOM1/Quantum,
+				and Digital &amp; Technology Digital Service Desk.
+				Use one of the following two methods for contacting service desk:
 				<ul>
 					<li>Tel: 0800 917 5148</li>
-				</ul>
-				<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph> email address is no longer being monitored.</note>
-			</p>
-			<p id="dandt"><b>Digital &amp; Technology - Digital Service Desk</b>
-				<ul>
-					<li>Email: <xref href="mailto:servicedesk@digital.justice.gov.uk" format="email" scope="external">servicedesk@digital.justice.gov.uk</xref></li>
-					<li>Slack: <codeph>#digitalservicedesk</codeph></li>
-				</ul>
-			</p>
+					<li><xref href="https://mojprod.service-now.com/moj_sp"
+						format="html" scope="external"><ph conref="#conrefs/moj"/> Service Portal</xref></li>
+				</ul></p>
+				<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph>
+					and <codeph>servicedesk@digital.justice.gov.uk</codeph> email addresses
+					are no longer being monitored.</note>
+				<note>Use of the Digital &amp; Technology Digital Service Desk Slack
+					channel (<codeph>#digitalservicedesk</codeph>) is being withdrawn,
+				and should be avoided.</note>
 			<p id="hmppsinfosec"><b>HMPPS Information &amp; security:</b>
 				<ul>
 					<li>Email: <xref href="mailto:informationmgmtsecurity@justice.gov.uk" format="email" scope="external">informationmgmtsecurity@justice.gov.uk</xref></li>
