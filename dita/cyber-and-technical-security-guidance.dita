@@ -834,25 +834,29 @@ has made for the products we operate, and our relationships with suppliers.</p>
             </tbody></tgroup></table>
           </body>
         </topic>
-        <topic id="protection-from-malware" audience="audience-tech">
+        <topic id="protection-from-malware" audience="audience-basic audience-tech">
           <title>Protection from malware</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide (Overview)</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="malware-protection-guidance-defensive-layer-1.dita" format="dita">Malware Protection Guide: Defensive Layer 1</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="malware-protection-guidance-defensive-layer-2.dita" format="dita">Malware Protection Guide: Defensive Layer 2</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="malware-protection-guidance-defensive-layer-3.dita" format="dita">Malware Protection Guide: Defensive Layer 3</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="ransomware.dita" format="dita">Ransomware</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
               </row>
             </tbody></tgroup></table>
           </body>
@@ -1327,6 +1331,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
 			</body>
 		</topic>
     -->
+    <body>
+      <p>A glossary of some terms used in this guidance is available <xref href="glossary.dita" format="dita">here</xref>.</p>
+      <p conref="conrefs.dita#conrefs/acronyms"></p>
+    </body>
 		<topic id="technical-guidance">
 			<title>Technical Guidance</title>
 			<body>
