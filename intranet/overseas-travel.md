@@ -1,6 +1,6 @@
 #Overseas travel
 
-**If you are going on a work trip or holiday overseas and you need to take your MoJ IT devices, you must remain vigilant especially when visiting high risk countries.**
+**If you are going on a work trip or holiday overseas and you need to take your Ministry of Justice (MoJ) IT devices, you must remain vigilant especially when visiting high risk countries.**
 
 As a government worker with access to sensitive information, you are at risk from espionage, intellectual property theft and a range of other threats from hostile third parties as well as foreign intelligence services. These risks can increase when you are overseas, as detailed in the [Overseas Travel Guide](/documents/2020/03/overseas-travel-guide.docx).
 
@@ -14,7 +14,7 @@ Mobile roaming should be requested via the [Service-Now IT Catalogue](https://mo
 
 ##Documents
 
-* [Overseas Travel Guide](/documents/2020/03/overseas-travel-guide.docx)
+* [Overseas Travel Guide](/documents/2020/03/overseas-travel-guide.docx).
 * [Overseas travel form](/documents/2020/03/overseas-travel-form.docx)
 * [Overseas working decision tree](/documents/2020/09/overseas-working-decision-tree.docx) – Step by step guide on how you can request to work remotely overseas during COVID-19
 

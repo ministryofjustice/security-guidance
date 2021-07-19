@@ -8,7 +8,7 @@ in networks and applications.
 
 The testing output reports any vulnerabilities identified,
 and provides the opportunity to mitigate the findings
-before the services are made available for wider consumption ('go liveive').
+before the services are made available for wider consumption ('go live').
 
 Once services are Live,
 it is recommended that ITHC's are performed at least annually
