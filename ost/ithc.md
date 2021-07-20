@@ -35,7 +35,7 @@ including but not limited to:
 -   Social engineering.
 -   Build configuration.
 
-### Vulnerability Scanning
+## Vulnerability Scanning
 
 A vulnerability scan is different from an ITHC.
 A vulnerability scan is automated,
@@ -65,9 +65,9 @@ if one isn't already working with your project:
 
 [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
 
-## Governance Workflow and Timeline considerations
+# Governance Workflow and Timeline considerations
 
-### Timeline Consideration
+## Timeline Consideration
 
 It is recommended that an approximate timeline of 8 weeks
 is considered in your project plan
@@ -76,7 +76,7 @@ Maturity,
 size,
 and complexity of the scope will influence this.
 
-### Scope Changes
+## Scope Changes
 
 Changes to scope can be reviewed and considered.
 However,

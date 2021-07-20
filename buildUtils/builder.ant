@@ -31,8 +31,8 @@
 	<property name="images" location="images"/>
 	<property name="jekyll-baseline" location="jekyll-baseline"/>
 	<property name="ost" location="ost"/>
-	<property name="ostbuild" location="${intranet}/ost"/>
 	<!--
+	<property name="ostbuild" location="${intranet}/ost"/>
 	<property name="culture" location="culture"/>
 	<property name="culturebuild" location="ktt"/>
 	-->
@@ -46,6 +46,9 @@
 		<mkdir dir="${ditabuild}"/>
 		<copy todir="${ditabuild}" >
 			<fileset dir="${ditasrc}"/>
+		</copy>
+		<copy todir="${ditabuild}/ost" >
+			<fileset dir="${ost}"/>
 		</copy>
 
 		<!-- Create the time stamp -->
@@ -76,15 +79,16 @@
 		<!-- <move file="${theFile}.new" tofile="${theFile}" overwrite="true"/> -->
 	</target>
 
+	<!--
 	<target name="compile_ost" depends="init, compile_intranet"
 				description="Compile OST content into production Markdown">
 		<delete dir="${ostbuild}"/>
 		<copy todir="${ostbuild}" >
 			<fileset dir="${ost}"/>
 		</copy>
-		<!--
+		<!_
 			<replace dir="${ostbuild}" replaceFilterFile="${dita}/conrefs.properties"/>
-		 -->
+		 __>
 		<echo message="Convert to Intranet markdown."/>
 		<foreach target="addLinkTarget" param="theFile">
 			<path>
@@ -92,6 +96,7 @@
 			</path>
 		</foreach>
 	</target>
+	-->
 
 	<!--
 	<target name="compile_culture" depends="init, compile_intranet"
@@ -295,7 +300,8 @@
 	</target>
 
 	<!-- Do all the builds. -->
-	<target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_ost"/>
+	<target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub"/>
+	<!-- <target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_ost"/> -->
 	<!-- <target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word"/> -->
 	<!-- <target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word,compile_culture"/> -->
 	<!-- <target name="compile" depends="compile_intranet,compile_md,compile_pdf"/> -->
@@ -310,13 +316,15 @@
 		<copy file="${temp.file}" tofile="${docs}/${theFileName}.md" overwrite="true"/>
 	</target>
 
-	<target name="dist_local" depends="compile_md,compile_intranet,compile_ost"
+	<target name="dist_local" depends="compile_md,compile_intranet"
 		description="generate minimal set to test local build">
 	<!--
+	<target name="dist_local" depends="compile_md,compile_intranet,compile_ost"
+		description="generate minimal set to test local build">
 	<target name="dist_local" depends="compile_md,compile_intranet,compile_word"
 		description="generate minimal set to test local build">
 	-->
-<!-- Create the distribution directory -->
+	<!-- Create the distribution directory -->
 		<mkdir dir="${docs}"/>
 		<mkdir dir="${docs}/images"/>
 		<mkdir dir="${docs}/gs"/>
