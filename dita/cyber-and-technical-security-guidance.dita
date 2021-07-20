@@ -839,7 +839,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
-                <entry colname="col1" align="left"><xref href="ost/ithc.md" format="mdita">IT Health Checks</xref></entry>
+                <entry colname="col1" align="left"><xref href="ost/ithc.md" format="markdown">IT Health Checks</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row audience="audience-tech">

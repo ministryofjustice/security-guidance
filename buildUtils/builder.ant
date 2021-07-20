@@ -50,6 +50,25 @@
 		<copy todir="${ditabuild}/ost" >
 			<fileset dir="${ost}"/>
 		</copy>
+		<!--
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${ost}/ost.ditamap"/>
+			<!__
+			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/html.ditaval:${ditabuild}/audience-tech.ditaval"/>
+			__>
+			<property name="output.dir" location="${ditabuild}/ost"/>
+			<property name="transtype" value="dita"/>
+		</ant>
+		<replaceregexp match=' specializations=""' replace="" flags="g" >
+			<fileset dir="${ditabuild}/ost" includes="**/*.md"/>
+		</replaceregexp>
+		<move todir="${ditabuild}/ost">
+			<fileset dir="${ditabuild}/ost">
+				<exclude name="**/*dita*"/>
+			</fileset>
+			<mapper type="glob" from="*.md" to="*.dita"/>
+		</move>
+		-->
 
 		<!-- Create the time stamp -->
 		<tstamp>

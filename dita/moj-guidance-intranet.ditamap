@@ -26,6 +26,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="email.dita" type="topic"/>
 			<topicref href="equipment-reassignment-guide.dita" type="topic"/>
 			<topicref href="information-classification-handling-and-security-guide.dita" type="topic"/>
+			<topicref href="ost/ithc.md" type="topic" format="markdown"/>
 			<topicref href="long-term-leave.dita" type="topic"/>
 			<topicref href="official-official-sensitive.dita" type="topic"/>
 			<topicref href="personal-devices.dita" type="topic"/>
