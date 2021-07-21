@@ -7,23 +7,23 @@ This information applies to anyone and everyone working for, or with, the Minist
 The MoJ's Information Security awareness programme plays an essential part in maintaining security. It informs all MoJ staff of:
 
 -   Their duties with regard to security.
--   Their responsibilities to protect the assets they have access to and use. The assets include information, equipment, people and buildings.
+-   Their responsibilities to protect the assets \(information, equipment, people and buildings\) they have access to and use.
 -   The importance of reporting any actual or suspected security incidents.
 
 ## Requirements
 
-All staff starting or returning to work within the MoJ must receive mandatory IA training.
+All staff starting or returning to work within the MoJ **SHALL** receive mandatory security training.
 
 The objective is to ensure that all new and current staff members are aware of their security responsibilities whilst working at the MoJ.
 
 Full details of the mandatory training are provided in the Joiner, Mover, and Leaver pages on the MoJ [Intranet](https://intranet.justice.gov.uk/guidance/security/).
 
-In summary, as a minimum everyone must:
+In summary, as a minimum everyone **SHALL**:
 
 -   Have taken and completed an MoJ Security [induction](https://intranet.justice.gov.uk/guidance/hr/induction/).
 -   Have completed the [Civil Service Learning](https://learn.civilservice.gov.uk/home) course on “Responsible for Information \(RfI\)”, or an approved equivalent.
 
-Normally, this training must be completed successfully before accessing MoJ information, resources, or assets.
+Normally, this training **SHALL** be completed successfully before accessing MoJ information, resources, or assets.
 
 ## Further information
 

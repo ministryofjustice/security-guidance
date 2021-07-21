@@ -20,13 +20,13 @@
   <topic id="requirements">
     <title>Requirements</title>
     <body>
-      <p>All staff starting or returning to work within the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> receive mandatory IA training.</p>
+      <p>All staff starting or returning to work within the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> receive mandatory security training.</p>
         <p>The objective is to ensure that all new and current staff members are aware of their security responsibilities whilst working at the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
       <p>Full details of the mandatory training are provided in the Joiner,
         Mover,
         and Leaver pages on the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external">Intranet</xref>.</p>
       <p>In summary,
-        as a minimum everyone must:
+        as a minimum everyone <ph conref="conrefs.dita#conrefs/policymust"/>:
         <ul>
           <li>Have taken and completed an <ph conref="conrefs.dita#conrefs/moj"/> Security <xref href="https://intranet.justice.gov.uk/guidance/hr/induction/" format="html" scope="external">induction</xref>.</li>
           <li>Have completed the <xref href="https://learn.civilservice.gov.uk/home" format="html" scope="external">Civil Service Learning</xref> course on <q>Responsible for Information (RfI)</q>,
@@ -34,7 +34,7 @@
         </ul>
       </p>
       <p>Normally,
-        this training must be completed successfully before accessing <ph conref="conrefs.dita#conrefs/moj"/> information,
+        this training <ph conref="conrefs.dita#conrefs/policymust"/> be completed successfully before accessing <ph conref="conrefs.dita#conrefs/moj"/> information,
         resources,
         or assets.</p>
     </body>
