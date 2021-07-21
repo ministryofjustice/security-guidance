@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 19 July 2021.
+**Note:** This guidance is dated: 21 July 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 19 August 2021.
+The offline versions of this guidance are time-limited, and are not valid after 21 August 2021.
 
 ### Searching this content
 
@@ -144,9 +144,6 @@ The documents have been developed and defined within this taxonomy, and are list
 
 #### During employment
 
-<<<<<<< HEAD
-|[Training and Education](training-and-education.md)\([![A small UK Government Crown, to indicate that the link is to the MoJ Intranet.](images/gov-uk-logotype-crown.png)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/training-and-education/)\)|All users|
-=======
 |[Ongoing Personnel Security](ongoing-personnel-security.md)|All users|
 |[Personnel risk assessment](personnel-risk-assessment.md)|All users|
 |[Reporting personal circumstance changes](reporting-personal-circumstance-changes.md)|All users|
@@ -158,7 +155,6 @@ The documents have been developed and defined within this taxonomy, and are list
 
 |[End or change of employment](end-or-change-of-employment.md)|All users|
 |[Leavers with NSC and NSVCs](leavers-with-nsc-and-nscvs.md)|All users|
->>>>>>> main
 
 ### Asset management
 
