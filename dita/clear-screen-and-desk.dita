@@ -2,8 +2,10 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="clear-screen-and-desk">
   <title>Clear Screen and Desk</title>
+  <!-- Heading removed for compatibility with Intranet standard.
   <topic id="clear-screen">
     <title>Clear Screen</title>
+  -->
     <body>
       <p>Users shall comply with the following:</p>
       <ul>
@@ -17,7 +19,9 @@
         <li>Users shall log off or lock their computers when they leave the room.</li>
       </ul>
     </body>
+  <!--
   </topic>
+  -->
   <topic id="clear-desk">
     <title>Clear Desk</title>
     <body>

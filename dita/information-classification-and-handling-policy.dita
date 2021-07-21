@@ -56,14 +56,18 @@
         the <xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">Government Security Classification scheme</xref>.</p>
       <p>All information assets stored or processed on <ph conref="conrefs.dita#conrefs/moj"/> IT systems <b>must be</b> assessed for a Business Impact Level,
         where an impact level for the Confidentiality, Integrity and Availability for each asset is derived.</p>
-      <p>All Users are responsible for applying the appropriate classification to information assets created or handled on an IT system,
+      <p>The Asset Owner is responsible for determining the classification that applies to an asset.</p>
+      <p>All users are responsible for applying the appropriate classification to information assets created or handled on an IT system,
         where a pre-existing classification does not exist.
-        <note>As outlined in <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> IT Security Policy</xref>,
-          each IT system is required to have a Business Impact Assessment (BIA).
-          This BIA should be used to record the assessment rational and decision on the impact levels for Confidentiality, Integrity and Availability.</note></p>
+        <note>As outlined in the <xref href="it-security-policy-overview.dita" format="dita"><ph conref="conrefs.dita#conrefs/moj"/> IT Security Policy</xref>,
+          all <ph conref="conrefs.dita#conrefs/moj"/> data and assets
+          must have IT security controls designed and implemented to protect Confidentiality,
+          Integrity, 
+          and Availability.</note></p>
       <p id="further-classification-information">Further information on the criteria and derivation for classification can be found at: <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/" format="htm" scope="external">https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/</xref>.</p>
     </body>
   </topic>
+  <topic id="reclassifying-information" conref="conrefs.dita#reclassifying-information"><title/></topic>
   <topic id="application-of-government-classification">
   <title>Application of Government classification</title>
   <body>
@@ -75,7 +79,7 @@
     <note>This classification might be reduced if sufficient security controls are applied, for example whole disk encryption, and if there is agreement with the system assurer or <ph conref="conrefs.dita#conrefs/cisolong"/>.</note></p>
   <p>All output from an IT system <b>must</b> be given the classification of the highest of each of the individual information assets contained within that output.</p>
   <p>Where applying a classification label is not feasible, an alternative method <b>must be</b> agreed with the system assurer or <ph conref="conrefs.dita#conrefs/ciso"/>.</p>
-    <p conref="#deriving-a-classification/further-classification-information"/>
+  <p conref="#deriving-a-classification/further-classification-information"/>
   </body>
   </topic>
   <topic id="information-handling-on-moj-it-systems">

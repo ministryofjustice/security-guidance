@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="conrefs">
 	<title>conref library</title>
@@ -16,27 +15,65 @@
             ... is excellent and has clear examples of how to refer to what you want.
          -->
 
+				 <!--
+				 For consistency, the content in this security guidance follows the GDS Style Guide:
+				 https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style
+
+				 For example, wireless access technology is correctly abbreviated as: wifi
+				 -->
 		<p>
 			<ph id="catemail"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></ph>
+			<ph id="catemailtext"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">Cyber Assistance Team</xref></ph>
 			<ph id="cisolong">Chief Information Security Office (CISO)</ph>
 			<ph id="ciso">CISO</ph>
+			<ph id="cjsmemail"><xref href="mailto:cjsm.helpdesk@egress.com" format="email" scope="external">cjsm.helpdesk@egress.com</xref></ph>
+			<ph id="cjsmemailtext"><xref href="mailto:cjsm.helpdesk@egress.com" format="email" scope="external">CJSM Helpdesk</xref></ph>
+			<ph id="cluster2securityunittext"><xref href="mailto:contactus@cluster2security.gov.uk" format="email" scope="external">Cluster 2 Security Unit</xref></ph>
 			<ph id="dacuemail"><xref href="mailto:Data.access@justice.gov.uk" format="email" scope="external">Data.access@justice.gov.uk</xref></ph>
 			<ph id="gcloud"><xref href="https://www.digitalmarketplace.service.gov.uk/g-cloud" format="html" scope="external">Digital Marketplace (GCloud)</xref></ph>
 			<ph id="giaaemail"><xref href="mailto:correspondence@giaa.gov.uk" format="email" scope="external">correspondence@giaa.gov.uk</xref></ph> <!-- Government Internal Audit Agency -->
 			<ph id="gov007"><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></ph>
 			<ph id="groupsecurityemail"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="email" scope="external">mojgroupsecurity@justice.gov.uk</xref></ph>
+			<ph id="groupsecurityemailtext"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="email" scope="external"><ph conref="#conrefs/moj"/> Group Security</xref></ph>
 			<ph id="gsuite">Google Workspace</ph>
 			<ph id="hmggovernmentsecurityclassifications"><xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">HMG Government Security Classifications Policy</xref></ph>
 			<ph id="itpolicycontentemail"><xref href="mailto:itpolicycontent@digital.justice.gov.uk" format="email" scope="external">itpolicycontent@digital.justice.gov.uk</xref></ph>
+			<ph id="itpolicycontentemailtext"><xref href="mailto:itpolicycontent@digital.justice.gov.uk" format="email" scope="external">IT policy content</xref></ph>
 			<ph id="mojlong">Ministry of Justice (MoJ)</ph>
 			<ph id="moj">MoJ</ph>
 			<ph id="ncsclong">National Cyber Security Centre (NCSC)</ph>
 			<ph id="ncsc">NCSC</ph>
+			<ph id="nsvc-contact">If you don't know who your NSVC is,
+				see the download <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external">here</xref>.</ph>
 			<ph id="ostemail"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
+			<ph id="ostemailtext"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">Operational Security Team</xref></ph>
+			<ph id="policyterms">In policy documents,
+			formal terms such as <q><ph conref="#conrefs/policyshall"/></q>,
+			or <q><ph conref="#conrefs/policyshould"/></q>,
+			are as defined in the UK Government <q>Orange Book</q>
+			<xref href="https://www.gov.uk/government/publications/orange-book" format="html" scope="external">Management of Risk - Principles and Concepts</xref>.</ph>
+			<ph id="policycan"><b>CAN</b></ph>
+			<ph id="policycannot"><b>CAN NOT</b></ph>
+			<ph id="policymay"><b>MAY</b></ph>
+			<ph id="policymight"><b>MIGHT</b></ph>
+			<ph id="policymust"><b>SHALL</b></ph>
+			<ph id="policymustnot"><b>SHALL NOT</b></ph>
+			<ph id="policyshall"><b>SHALL</b></ph>
+			<ph id="policyshallnot"><b>SHALL NOT</b></ph>
+			<ph id="policyshould"><b>SHOULD</b></ph>
+			<ph id="policyshouldnot"><b>SHOULD NOT</b></ph>
+			<ph id="policywill"><b>SHALL</b></ph>
 			<ph id="privacyemail"><xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">privacy@justice.gov.uk</xref></ph>
+			<ph id="privacyemailtext"><xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">Data Privacy Team</xref></ph>
 			<ph id="recordsretentionemail"><xref href="mailto:Records_Retention_@justice.gov.uk" format="email" scope="external">Records_Retention_@justice.gov.uk</xref></ph>
 			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></ph>
+			<ph id="strapteamemail"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="email" scope="external">STRAPTeam@cluster2security.gov.uk</xref></ph>
+			<ph id="strapteamemailtext"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="email" scope="external">Cluster 2 STRAP team</xref></ph>			
+			<ph id="vettingaftercareemail"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="email" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>			
+			<ph id="vettingaftercareemailtext"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="email" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>
 		</p>
+		<p id="acronyms">A more extensive list of acronyms is available
+			<xref href="https://ministryofjustice.github.io/acronyms/" format="html" scope="external">here</xref>.</p>
 		<p id="contactcatbyemail">Contact the Cyber Assistance Team by email: <ph conref="#conrefs/catemail"/></p>
 		<image id="intraneticon" href="images/gov-uk-logotype-crown.png"><alt>A small UK Government Crown, to indicate that the link is to the <ph conref="#conrefs/moj"/> Intranet.</alt></image>
 		<p id="irardefinition">An IRAR is normally completed by Security Architects and Risk Assessors,
@@ -45,12 +82,20 @@
             For more information regarding IRARs,
             and how to create and maintain them,
             contact the Cyber Assistance Team: <ph conref="conrefs.dita#conrefs/catemail"/>.</p>
+		<p id="incidentmanager" audience="audience-suppliers audience-tech">Following a report,
+			incident managers should refer to the
+			<xref href="incident-management-plan-and-process-guide.dita"
+			format="dita">Incident Management Plan and Process Guide</xref> for
+			further guidance.</p>
+		<note id="noteexternalemail">An external email service is any service that
+			is outside the <codeph>gov.uk</codeph> domain.</note>
 	</body>
 
 	<topic id="legacyreferences">
 		<title>Legacy information</title>
 			<body>
-				<note>This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon.
+				<note>This document is Legacy IA Policy material.<ph conref="#conrefs/securityemail"/>
+					It is under review and likely to be withdrawn or substantially revised soon.
 					Before using this content for a project, contact <ph conref="#conrefs/catemail"/>.</note>
 				<note>This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
 					<ul>
@@ -63,7 +108,7 @@
 						<li>ComSO (Communications Security Officer),
 							contact the <ph conref="#conrefs/cisolong"/> (<ph conref="#conrefs/securityemail"/>).</li>
 						<li><codeph>CONFIDENTIAL</codeph>,
-							an older information classification marking<ph audience="audience-basic audience-tech">,
+							an older information classification marking<ph audience="audience-basic audience-tech" platform="github">,
 							see <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref></ph>.</li>
 						<li>CPNI (<xref href="https://www.cpni.gov.uk/" scope="external" format="html">Centre for the Protection of the National Infrastructure</xref>),
 							contact the <ph conref="#conrefs/ciso"/> (<ph conref="#conrefs/securityemail"/>).</li>
@@ -74,6 +119,8 @@
 							contact <ph conref="#conrefs/securityemail"/>.</li>
 						<li>IS1 (HMG Infosec Standard 1 Technical Risk Assessment),
 							see the <ph conref="#conrefs/gov007"/>.</li>
+						<li>IS2 (HMG Infosec Standard 2 Information Risk Management),
+							see the <ph conref="#conrefs/gov007"/>.</li>
 						<li>IS4 (HMG Infosec Standard 4 Communications Security and Cryptography),
 							see the <ph conref="#conrefs/gov007"/>.</li>
 						<li>IS6 (HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk),
@@ -81,7 +128,7 @@
 						<li>ITSO (Information Technology Security Officer),
 							contact the <ph conref="#conrefs/ciso"/> (<ph conref="#conrefs/securityemail"/>).</li>
 						<li><codeph>RESTRICTED</codeph>,
-							an older information classification marking<ph audience="audience-basic audience-tech">,
+							an older information classification marking<ph audience="audience-basic audience-tech" platform="github">,
 							see <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref></ph>.</li>
 						<li>SPF (<xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">Security Policy Framework</xref>),
 							see the <ph conref="#conrefs/gov007"/>,
@@ -94,18 +141,20 @@
 	<topic id="general-enquiries-including-theft-and-loss">
 		<title>General enquiries, including theft and loss</title>
 		<body>
-			<p id="dom1"><b>Dom1/Quantum - Technology Service Desk</b>
+			<p id="dom1"><b>Technology Service Desk</b> - including DOM1/Quantum,
+				and Digital &amp; Technology Digital Service Desk.
+				Use one of the following two methods for contacting service desk:
 				<ul>
 					<li>Tel: 0800 917 5148</li>
-				</ul>
-				<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph> email address is no longer being monitored.</note>
-			</p>
-			<p id="dandt"><b>Digital &amp; Technology - Digital Service Desk</b>
-				<ul>
-					<li>Email: <xref href="mailto:servicedesk@digital.justice.gov.uk" format="email" scope="external">servicedesk@digital.justice.gov.uk</xref></li>
-					<li>Slack: <codeph>#digitalservicedesk</codeph></li>
-				</ul>
-			</p>
+					<li><xref href="https://mojprod.service-now.com/moj_sp"
+						format="html" scope="external"><ph conref="#conrefs/moj"/> Service Portal</xref></li>
+				</ul></p>
+				<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph>
+					and <codeph>servicedesk@digital.justice.gov.uk</codeph> email addresses
+					are no longer being monitored.</note>
+				<note>Use of the Digital &amp; Technology Digital Service Desk Slack
+					channel (<codeph>#digitalservicedesk</codeph>) is being withdrawn,
+				and should be avoided.</note>
 			<p id="hmppsinfosec"><b>HMPPS Information &amp; security:</b>
 				<ul>
 					<li>Email: <xref href="mailto:informationmgmtsecurity@justice.gov.uk" format="email" scope="external">informationmgmtsecurity@justice.gov.uk</xref></li>
@@ -178,9 +227,68 @@
 		</body>
 	</topic>
 
-	<topic id="contact-details">
-		<title>Contact details</title>
+	<topic id="contact-details-group-security">
+		<title><ph platform="github">Contact details</ph><ph platform="intranet">Contacts</ph></title>
 		<body>
+			<p>For any further questions relating to group security matters,
+				contact: <ph conref="#conrefs/groupsecurityemail"/>.
+				For general security questions or concerns,
+				contact: <ph conref="#conrefs/securityemail"/>,
+			or for security advice, contact the <ph platform="github">Cyber Assistance Team <ph conref="#conrefs/catemail"/></ph><ph platform="intranet"><ph conref="#conrefs/catemailtext"/></ph>.</p>
+		</body>
+	</topic>
+
+	<topic id="contact-details">
+		<title><ph platform="github">Contact details</ph><ph platform="intranet">Contacts</ph></title>
+		<body>
+			<p>For any further questions relating to security, contact: <ph conref="#conrefs/securityemail"/>,
+			or for security advice, contact the <ph platform="github">Cyber Assistance Team <ph conref="#conrefs/catemail"/></ph><ph platform="intranet"><ph conref="#conrefs/catemailtext"/></ph>.</p>
+		</body>
+	</topic>
+
+	<topic id="incidents-and-contact-details">
+		<title>Incidents and contact details</title>
+		<body>
+			<note>If you work for an agency or ALB, refer to your local incident reporting guidance.</note>
+			<p>For help with incidents,
+				including theft and loss,
+				contact:
+				<dl>
+					<dlentry>
+						<dt>DOM1/Quantum - Technology Service Desk</dt>
+						<dd>Tel: 0800 917 5148
+							<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph> email address is no longer being monitored.</note></dd>
+					</dlentry>
+					<dlentry>
+						<dt>Digital and Technology - Digital Service Desk</dt>
+						<dd>
+							<ul>
+								<li>Email: <xref href="mailto:servicedesk@digital.justice.gov.uk" format="email" scope="external">servicedesk@digital.justice.gov.uk</xref></li>
+								<li>Slack: <codeph>#digitalservicedesk</codeph></li>
+							</ul>
+						</dd>
+					</dlentry>
+					<dlentry>
+						<dt>HMPPS Information and security</dt>
+						<dd>
+							<ul>
+								<li>Email: <xref href="mailto:informationmgmtsecurity@justice.gov.uk" format="email" scope="external">informationmgmtsecurity@justice.gov.uk</xref></li>
+								<li>Tel: 0203 334 0324</li>
+							</ul>
+						</dd>
+					</dlentry>
+				</dl>
+			</p>
+			<p>For non-technology incidents,
+				contact the <ph conref="#conrefs/moj"/> Group Security Team: <ph conref="#conrefs/groupsecurityemail"/></p>
+			<p>Contact the Privacy Team for information on Data Protection Impact Assessments: <ph conref="#conrefs/privacyemail"/></p>
+			<p>If you are not sure who to contact,
+				ask the Operational Security Team:
+				<ul>
+					<li>Email: <ph conref="#conrefs/ostemail"/></li>
+					<li>Slack: <codeph>#security</codeph></li>
+				</ul>
+			</p>
 			<p>For any further questions relating to security, contact: <ph conref="#conrefs/securityemail"/>,
 			or for security advice, contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
 		</body>
@@ -201,7 +309,13 @@
 
 	<topic id="feedback">
 		<title>Feedback</title>
-		<body><lq>If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: <ph conref="#conrefs/itpolicycontentemail"/>.</lq>
+		<body>
+			<lq platform="github">If you have any questions or comments about this guidance,
+				such as suggestions for improvements,
+				please contact: <ph conref="#conrefs/itpolicycontentemail"/>.</lq>
+			<p platform="intranet">If you have any questions or comments about this guidance,
+					such as suggestions for improvements,
+					please contact: <ph conref="#conrefs/itpolicycontentemailtext"/>.</p>
 		</body>
 	</topic>
 
@@ -211,7 +325,7 @@
 			<p>If there is an application or service that is not currently approved,
 				but which you would like to use,
 				you can request a security review.</p>
-			<p>Begin the request by filling in <xref href="https://docs.google.com/forms/d/e/1FAIpQLSeEEBDS1HBF7meUk3SjgkqxbXBQlKAiBAezJIbKHnEjfNjBTg/viewform?gxids=7628" format="html" scope="external">this form</xref>, as best you can.
+			<p>Begin the request by filling in the <xref href="https://docs.google.com/forms/d/e/1FAIpQLSeEEBDS1HBF7meUk3SjgkqxbXBQlKAiBAezJIbKHnEjfNjBTg/viewform?gxids=7628" format="html" scope="external">Request a Security Review of a third-party service</xref> form, as best you can.
 			The more information you provide, the better.
 			But don't worry if you have to leave some bits of the form blank.</p>
 			<p>When you submit the form,
@@ -221,10 +335,26 @@
 				and whether there are any Data Privacy implications.
 				The security team will respond to you with an answer as quickly as possible.</p>
 			<note>You should submit the request,
-				and wait for a formal 'approval' response,
+				and wait for a formal <q platform="github">approval</q><ph platform="intranet">approval</ph> response,
 				<i>before</i> you install or use the app on  <ph conref="#conrefs/moj"/> equipment or information.</note>
 			<p>If you have any questions about the process,
 				contact the security team: <ph conref="#conrefs/securityemail"/>.</p>
 		</body>
 	</topic>
+
+    <topic id="reclassifying-information">
+		<title>Reclassifying information</title>
+		<body>
+		  <p>The asset owner has responsibility for reclassifying an asset.
+		  If another user has reason to believe that an asset is incorrectly classified or has an incorrect handling caveat,
+		  they should normally discuss this with the asset owner.
+		  The other user cannot unilaterally reclassify the asset.</p>
+		  <p>The exception is where the asset might need a higher classification than that assigned by the asset owner.
+			The reclassification must still be communicated to the asset owner,
+			for consistency.
+		  If it is agreed that the classification should be increased,
+		  check with the Operational Security Team (<ph conref="conrefs.dita#conrefs/ostemail"/>) whether additional actions are required to protect the material.</p>
+		</body>
+	  </topic>
+
 </topic>

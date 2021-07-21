@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="protecting-social-media-accounts">
-	<title>Protecting Social Media Accounts</title>
-	<topic id="summary">
-		<title>Summary</title>
-		<body>
+	<title>Protecting social media accounts</title>
+	<body>
 		<p>Hostile attacks on Social Media accounts pose a serious threat to the <ph conref="conrefs.dita#conrefs/mojlong"/> and
-		its reputation. When attacks happen, they quickly become <xref href="https://www.independent.co.uk/news/uk/politics/boris-johnson-dominic-cummings-tweet-civil-service-arrogant-offensive-a9530706.html" format="html" scope="external">headline news</xref>, and can <xref href="https://www.nytimes.com/2019/08/30/technology/jack-dorsey-twitter-account-hacked.html" format="html" scope="external">happen to any account, anywhere in the world</xref>.</p>
+		its reputation. When attacks happen, they quickly become headline news,
+		and can happen to any account, anywhere in the world.</p>
 		<p>Two types of attacks are common:
 		<ul>
 			<li>Attempts to render the account useless by 'bombarding' it with messages.</li>
 			<li>Attempts to 'take over' the account.</li>
 		</ul>
 		</p>
-		</body>
-	</topic>
+	</body>
 	<topic id="steps-we-can-all-take-to-protect-ourselves">
 		<title>Steps we can all take to protect ourselves</title>
 		<topic id="ensure-our-passwords-are-secure">
@@ -94,14 +92,39 @@
 			<p>The whole point of a social media account is to share information. But that doesn't mean you want to share <i>everything</i>.</p>
 			<p>When you first create a social media account, you are normally asked to decide on the privacy settings.
 			These control how much information you share, and who you share it with.</p>
+			<p>Typical settings that affect privacy include:
+				<ul>
+					<li>General information about you.</li>
+					<li>Your Profile information and photo.</li>
+					<li>When you were last active.</li>
+					<li>Any status updates.</li>
+					<li>Whether you have read direct messages
+						(<q platform="github">Read Receipts</q><ph platform="intranet">Read Receipts</ph>).</li>
+					<li>Whether others can add you to their groups,
+						possibly without your knowledge or agreement.</li>
+				</ul>
+			</p>
 			<p>But it's very easy to forget to check the settings, from time-to-time, to make sure they are still correct.</p>
 			<p>A good habit is to check your account privacy settings once a month or so.
 			Information on privacy settings is available for the main social media environments:
 			<ul>
 				<li><xref href="https://www.facebook.com/help/1297502253597210" format="html" scope="external">Facebook</xref></li>
-				<li><xref href="https://help.twitter.com/en/safety-and-security/how-to-make-twitter-private-and-public" format="html" scope="external">Twitter</xref></li>
 				<li><xref href="https://help.instagram.com/196883487377501/?hel-" format="html" scope="external">Instagram</xref></li>
+				<li><xref href="https://help.twitter.com/en/safety-and-security/how-to-make-twitter-private-and-public" format="html" scope="external">Twitter</xref></li>
+				<li><xref href="https://faq.whatsapp.com/general/security-and-privacy/how-to-change-your-privacy-settings/?lang=en" format="html" scope="external">WhatsApp</xref></li>
 			</ul></p>
+			<p>For example,
+				in WhatsApp,
+				to prevent someone adding you a group without your knowledge,
+				change your settings:
+				<menucascade>
+					<uicontrol>Settings</uicontrol>
+					<uicontrol>Account</uicontrol>
+					<uicontrol>Privacy</uicontrol>
+					<uicontrol>Groups</uicontrol>
+					<uicontrol>My Contacts</uicontrol>
+				</menucascade>.
+				This change means that only people you know (your contacts) can add you to a group.</p>
 			</body>
 		</topic>
 		<topic id="limit-access-to-your-accounts">

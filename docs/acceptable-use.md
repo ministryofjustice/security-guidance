@@ -14,15 +14,15 @@ Be sensible when using MoJ IT resources:
 -   Context is important. Security risks can increase when working outside your normal workplace.
 -   Be aware that your use of resources is monitored. During an investigation into a security incident, IT forensic techniques capture evidence.
 -   If you're not sure if something is acceptable, ask for help first.
--   Above all, if you think there is a problem, [report it](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) or ask for help.
+-   Above all, if you think there is a problem, [report it](reporting-an-incident.md) or ask for help.
 
 The way you use IT is important, because it indicates your approach to work, and can be taken into account when assessing your behaviour and performance.
 
 ## What is meant by IT?
 
-IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices \(such as laptops, 'phones, mobile Wi-Fi hotspots \(MiFi\), iPads, tablets, printers, USB 'memory sticks'\) through to online services \(citizen-facing online services, staff tools, corporate email\).
+IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices \(such as laptops, 'phones, mobile Wi-Fi hotspots \(MiFi\), iPads, tablets, printers, USB “memory sticks”\) through to online services \(citizen-facing online services, staff tools, corporate email\).
 
-## Acceptable use of MOJ IT
+## Acceptable use of MoJ IT
 
 Acceptable use of IT is when you use it to do your work.
 
@@ -39,10 +39,12 @@ There are many unacceptable uses of IT, making it impossible to provide a comple
 -   Deliberately or accidentally sharing resources or information, such as passwords, with people who are not supposed to have them.
 -   Using resources without permission.
 -   Storing sensitive information where it could easily be lost or stolen.
+-   Using unapproved tools or processes to store sensitive information, such as passwords or credit card details.
 -   Using your work email address for personal tasks.
 -   Using a personal account or personal email address for work tasks.
 -   Excessive private use during working time.
 -   Installing unlicensed or unauthorised software.
+-   Redirecting print jobs from MoJ printers to a personal printer.
 
 ## Why unacceptable use is a problem
 
@@ -55,13 +57,17 @@ Unacceptable use of IT might affect the MoJ in several ways, such as:
 
 Unacceptable use might also affect you, too:
 
--   Duspension of access, so that you cannot do your work.
+-   Suspension of access, so that you cannot do your work.
 -   Disciplinary proceedings, up to and including dismissal.
 -   Termination of contract for contractors and agency staff.
 
 ## Keeping control
 
 You are responsible for protecting your MoJ IT resources. This includes keeping your usernames and passwords safe and secure.
+
+It also means looking after MoJ equipment, especially when working away from MoJ locations. You are responsible for protecting MoJ equipment issued to you. Any theft of MoJ equipment, or deliberate or willful damage to MoJ equipment, should normally be [reported](lost-devices-incidents.md) to the Police and to the Service Desk.
+
+**Note:** You should normally report instances of theft or damage to authorities as indicated. However, there might be additional circumstances which mean a sensitive handling of the situation is appropriate. It is acceptable to consider the context of the situation when making a report. Ensure you can justify your actions. In cases of uncertainty, don't hesitate to ask your line manager, or other responsible authority for advice.
 
 While you might be careful about acceptable use of MoJ IT, there are still risks from [malware](https://en.wikipedia.org/wiki/Malware), [ransomware](https://en.wikipedia.org/wiki/Ransomware), or [phishing](https://en.wikipedia.org/wiki/Phishing) attacks.
 
@@ -70,7 +76,7 @@ If you get an email from anyone or anywhere that you are not sure about, remembe
 -   Don't open any attachments.
 -   Don't click on any links in the email.
 
-If there is any doubt, or you are worried that the [email might be malicious](https://intranet.justice.gov.uk/news/ntk-phishing-dont-take-the-bait/) or inappropriate, [report it immediately](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) as an IT security incident.
+If there is any doubt, or you are worried that the [email might be malicious](https://intranet.justice.gov.uk/news/ntk-phishing-dont-take-the-bait/) or inappropriate, [report it immediately](reporting-an-incident.md) as an IT security incident.
 
 ## Personal use of MoJ IT
 
@@ -91,9 +97,9 @@ Examples of unacceptable MoJ mobile phone use include:
 -   Making charitable donations from the mobile phone account.
 -   Signing up for premium rate text services.
 -   Calling premium rate telephone services.
--   Voting in 'reality TV' popularity contests - these usually involve premium rate services.
+-   Voting in “reality TV” popularity contests - these usually involve premium rate services.
 -   Downloading, uploading, or streaming media files that are not work-related, such as music or movies.
--   'Tethering' another device to the MoJ mobile phone, and then using the other device for any of the above activities.
+-   “Tethering” another device to the MoJ mobile phone, and then using the other device for any of the above activities.
 
 ... as well as any other activities that are not obviously work-related.
 
@@ -101,17 +107,21 @@ All use of MoJ IT resources is monitored and logged. This includes mobile phone 
 
 ## Using MoJ IT outside your usual workplace
 
-Some IT resources might be usable [away from your usual workplace](https://intranet.justice.gov.uk/documents/2017/12/remote-working-and-mobile-computing-security-guide-november-2017.pdf), such as a laptop. Even outside the office, you must continue to ensure acceptable use of the IT resources.
+Some IT resources might be usable away from your usual workplace, such as a laptop. Even outside the office, you must continue to ensure acceptable use of the IT resources.
 
-You should also [ask](https://intranet.justice.gov.uk/guidance/security/it-computer-security/taking-it-equipment-overseas-business-or-personal/) before taking MoJ IT equipment outside the UK.
+You should also [ask](accessing-moj-it-systems-from-overseas.md) before taking MoJ IT equipment outside the UK.
 
 ## Avoid using removable media
 
-Removable media like memory sticks are portable and easy-to-use. Unfortunately, this makes them a security risk, so [avoid using them](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/). If however they are essential to your work, please follow the [Use of Removable Media policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/).
+Removable media like memory sticks are portable and easy-to-use. Unfortunately, this makes them a security risk, so [avoid using them](removable-media.md). If however they are essential to your work, follow the [Use of Removable Media](removable-media.md) guidance.
 
 ## Personalisation of equipment
 
 A popular trend is to adorn laptops with stickers. This is acceptable as long as the material does not cause problems such as upset, offence, or embarrassment. The same applies if you customise the desktop environment of your equipment, for example by changing the desktop image.
+
+## Contact details
+
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

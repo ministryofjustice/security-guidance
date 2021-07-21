@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?path2rootmap-uri ./?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="acceptable-use-policy">
   <title>Acceptable use policy</title>
   <body>
     <p>This information applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
-    <p>Guidance about Acceptable Use of IT within the <ph conref="conrefs.dita#conrefs/moj"/> is available <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external" platform="html">here</xref><xref href="acceptable-use.dita" format="dita" platform="epub pdf">here</xref>.</p>
-    <p>The definitive list of Acceptable Use Policy statements is available <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/" format="html" scope="external" platform="html">here</xref><xref href="it-acceptable-use-policy.dita" format="dita" platform="epub pdf">here</xref>.</p>
+    <p>Guidance about Acceptable Use of IT within the <ph conref="conrefs.dita#conrefs/moj"/> is available <xref href="acceptable-use.dita" format="dita">here</xref>.</p>
+    <p>The definitive list of Acceptable Use Policy statements is available <xref href="it-acceptable-use-policy.dita" format="dita">here</xref>.</p>
   </body>
+	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
   <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

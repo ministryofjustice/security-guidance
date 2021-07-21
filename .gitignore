@@ -1,8 +1,10 @@
 .DS_Store
 .idea/
+*.iml
 .ruby-version
 _site
 .project
+.vscode/
 buildUtils/catalog-dita.xml
 buildUtils/compile.txt
 dita/fixes.txt

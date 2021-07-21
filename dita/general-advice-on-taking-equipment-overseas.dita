@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="general-advice-on-taking-equipment-overseas">
-  <title>General advice on taking equipment overseas</title>
+  <title><ph platform="github">General advice on taking</ph><ph platform="intranet">Taking</ph> equipment overseas</title>
   <body>
     <p>As a government official travelling overseas, you should consider that you are highly likely to be of interest to a range of hostile parties, regardless of your role or seniority. Laptops, tablets and phones are very desirable pieces of equipment to steal and travelling overseas with it puts you at a greater security risk of being a victim of theft.</p>
     <p>You should never put yourself in any danger to protect the security of an IT device, as the level of impact to the <ph conref="conrefs.dita#conrefs/mojlong"/> of a compromise does not warrant the risk of injury or loss of liberty. By following your department policies and the advice issued, you can help reduce the risk to yourself and your colleagues.</p>
@@ -36,7 +36,7 @@
         <li>If it is not practical to keep the device with you securely at all times (for instance, you are at the swimming pool or gym), consider storing the device in the hotel safe.</li>
         <li>Avoid conducting work related sensitive phone conversations as they can be intercepted and if you do, ensure you can't be overheard. Examples of sensitive information might include prisoner/offence details, court cases of foreign nationals, terror attacks and extremists.</li>
         <li>Do not use public charging stations or connect the phone to a vehicle by USB or Bluetooth as information can be downloaded from your phone.</li>
-        <li>Be aware that hotel and public WiFi spots are not secure, as they can easily be monitored.</li>
+        <li>Be aware that hotel and public wifi spots are not secure, as they can easily be monitored.</li>
         <li>Make sure you use the phone's password or PIN.</li>
         <li>If the phone is taken from you or you believe it may have been compromised in any way, report it to the <xref href="#contacts" format="dita">Departmental Security Officer.</xref></li>
       </ul></p>
@@ -66,7 +66,7 @@
     </body>
   </topic>
     <topic id="contacts">
-		<title>Contacts for getting help</title>
+		<title><ph platform="github">Contacts for getting help</ph><ph platform="intranet">Contacts</ph></title>
 		<body>
 			<p>In practice, all sorts of things can go wrong from time-to-time. Don't be afraid to report incidents and issues; you will be creating a better and safer work environment.</p>
 			<p><b>If unsure, contact your Line Manager.</b></p>

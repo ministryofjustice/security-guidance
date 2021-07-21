@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="privileged-user-logging-and-protective-monitoring-guide">
+  <title>Privileged User Logging and Protective Monitoring Guide</title>
+  <body/>
+  <topic id="introduction">
+    <title>Introduction</title>
+    <body>
+      <p>This guide outlines the security procedures and advice that privileged users must consider when undertaking logging activities.
+        Maintaining and monitoring system logs will help to ensure that any
+        suspicious activity on the <ph conref="conrefs.dita#conrefs/mojlong"/>'s systems is detected early.
+        This guide is a sub-page to the <xref href="privileged-user-guide.dita" format="dita">Privileged User Guide</xref>.</p>
+    </body>
+  </topic>
+  <topic id="maintenance-of-system-logs-and-protective-monitoring">
+    <title>Maintenance of system logs and protective monitoring</title>
+    <body>
+      <p>Privileged users are responsible for maintaining system logs (syslogs) for the systems they administer.
+        Privileged user log management responsibilities include the following:
+      <ul>
+        <li>Implementing logging and monitoring on the systems they manage.</li>
+        <li>Performing regular maintenance of the logs and logging to ensure that configurations are correct.</li>
+        <li>Reconfiguring system logging as needed based on the <ph conref="conrefs.dita#conrefs/moj"/>'s policy or guidance changes,
+          technology changes,
+          emerging threats or other business needs.</li>
+        <li>Implementing automated real-time log analysis where possible.</li>
+        <li>Reviewing results from automated real-time analysis quarterly to ensure its relevance.</li>
+        <li>Where real-time log analysis has not been implemented,
+          then manual log analysis must be performed at least weekly.</li>
+        <li>Working closely with the Operational Security Team (OST) to define requirements and ensure that when possible,
+          automated log analysis and alerting is integrated with the <ph conref="conrefs.dita#conrefs/moj"/>'s Security Operations Centre (SOC)
+          which provides the <ph conref="conrefs.dita#conrefs/moj"/>'s central monitoring function.</li>
+        <li>Establishing the baseline activities for systems they are responsible for.
+          This is essential to ensure that monitoring systems are able to detect when there is unusual activity.</li>
+        <li>Ensuring that systems are synchronised to the centralised <ph conref="conrefs.dita#conrefs/moj"/> timing source,
+          to enable effective malware detection.</li>
+        <li>Ensuring that audits and compliance checks of IT systems do not adversely affect business operations.</li>
+        <li>Documenting and reporting anomalies in log settings,
+          configurations,
+          and processes to the OST (contact details <xref href="#incidents-and-contact-details" format="dita">below</xref>)
+          and the Cyber Assistance Team (contact details <xref href="#incidents-and-contact-details" format="dita">below</xref>).</li>
+        <li>Managing long-term storage of system log data, monitoring log rotation, and the archival and deletion of log data.</li>
+        <li>Any suspicious activity must be <xref href="#incidents-and-contact-details" format="dita">reported</xref>.
+          See further details in the <xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref>.</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="protection-of-log-data">
+    <title>Protection of log data</title>
+    <body>
+      <p>To ensure that there is an audit trail for log data,
+        privileged users must:
+      <ul>
+        <li>Protect the information held within system audit logs in accordance with its Information Classification.
+          Refer to the <xref href="information-classification-handling-and-security-guide.dita" format="dita">Information Classification Handling and Security Guide</xref> for further guidance on classifying information.</li>
+        <li>Establish log archival processes while filtering out entries that do not need to be archived to ensure log availability.</li>
+        <li>Ensure that systems are designed with access controls,
+          to prevent privileged users from erasing or deactivating activity logs of their own activities,
+          without the additional approval of the product or service manager.</li>
+        <li>Review the activity logs of other privileged users on a monthly basis,
+          to ensure that privileged users remain impartial.</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="incidents-and-contact-details" conref="conrefs.dita#incidents-and-contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

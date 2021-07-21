@@ -1,7 +1,5 @@
 # Clear Screen and Desk
 
-## Clear Screen
-
 Users shall comply with the following:
 
 -   Digital Services equipment shall not be left logged on when unattended. Users shall ensure that password-protected screensavers are activated when any equipment is left unattended.

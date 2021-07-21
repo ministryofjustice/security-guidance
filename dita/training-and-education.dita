@@ -20,7 +20,7 @@
   <topic id="requirements">
     <title>Requirements</title>
     <body>
-      <p>All staff starting or returning to work within the <ph conref="conrefs.dita#conrefs/moj"/> must receive mandatory IA training.</p>
+      <p>All staff starting or returning to work within the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> receive mandatory IA training.</p>
         <p>The objective is to ensure that all new and current staff members are aware of their security responsibilities whilst working at the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
       <p>Full details of the mandatory training are provided in the Joiner,
         Mover,

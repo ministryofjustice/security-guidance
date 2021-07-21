@@ -1,8 +1,6 @@
-# Protecting Social Media Accounts
+# Protecting social media accounts
 
-## Summary
-
-Hostile attacks on Social Media accounts pose a serious threat to the Ministry of Justice \(MoJ\) and its reputation. When attacks happen, they quickly become [headline news](https://www.independent.co.uk/news/uk/politics/boris-johnson-dominic-cummings-tweet-civil-service-arrogant-offensive-a9530706.html), and can [happen to any account, anywhere in the world](https://www.nytimes.com/2019/08/30/technology/jack-dorsey-twitter-account-hacked.html).
+Hostile attacks on Social Media accounts pose a serious threat to the Ministry of Justice \(MoJ\) and its reputation. When attacks happen, they quickly become headline news, and can happen to any account, anywhere in the world.
 
 Two types of attacks are common:
 
@@ -63,13 +61,25 @@ The whole point of a social media account is to share information. But that does
 
 When you first create a social media account, you are normally asked to decide on the privacy settings. These control how much information you share, and who you share it with.
 
+Typical settings that affect privacy include:
+
+-   General information about you.
+-   Your Profile information and photo.
+-   When you were last active.
+-   Any status updates.
+-   Whether you have read direct messages \(“Read Receipts”\).
+-   Whether others can add you to their groups, possibly without your knowledge or agreement.
+
 But it's very easy to forget to check the settings, from time-to-time, to make sure they are still correct.
 
 A good habit is to check your account privacy settings once a month or so. Information on privacy settings is available for the main social media environments:
 
 -   [Facebook](https://www.facebook.com/help/1297502253597210)
--   [Twitter](https://help.twitter.com/en/safety-and-security/how-to-make-twitter-private-and-public)
 -   [Instagram](https://help.instagram.com/196883487377501/?hel-)
+-   [Twitter](https://help.twitter.com/en/safety-and-security/how-to-make-twitter-private-and-public)
+-   [WhatsApp](https://faq.whatsapp.com/general/security-and-privacy/how-to-change-your-privacy-settings/?lang=en)
+
+For example, in WhatsApp, to prevent someone adding you a group without your knowledge, change your settings: **Settings** \> **Account** \> **Privacy** \> **Groups** \> **My Contacts**. This change means that only people you know \(your contacts\) can add you to a group.
 
 ### Limit access to your accounts
 

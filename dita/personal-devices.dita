@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="personal-devices">
-  <title>Security Guidance for Using a Personal Device</title>
-  <topic id="summary">
-    <title>Summary</title>
-    <body>
-      <p>This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/mojlong"/>.
-        It provides advice about using personal devices for work purposes.</p>
-      <p>A personal device is any desktop, laptop, tablet, phone, external drive or similar device that the <ph conref="conrefs.dita#conrefs/moj"/> does not own.</p>
-      <p>Not everyone has access to an <ph conref="conrefs.dita#conrefs/moj"/> device for remote use.
-        If you need equipment, you can request it.
-        It can be provided quickly.
-        Contact your Line Manager for details,
-        and to raise a request through the Service Desk.</p>
-      <p>In unusual circumstances,
-        it might not be possible to organise provision of equipment.
-        In such cases,
-        you can request access to an <ph conref="conrefs.dita#conrefs/moj"/> virtual environment.</p>
-      <note>Except when connecting to an  <ph conref="conrefs.dita#conrefs/moj"/>
-        <xref href="#virtual-environment" format="dita">virtual environment</xref>,
-        or with documented approval in exceptional circumstances as described
-        <xref href="#guidance" format="dita">below</xref>,
-        you must not use a personal device for work purposes.</note>
-    </body>
-  </topic>
+  <title><ph platform="github">Personal Devices</ph><ph platform="intranet">Personal device use</ph></title>
+  <body>
+    <p>This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/mojlong"/>.
+      It provides advice about using personal devices for work purposes.</p>
+    <p>A personal device is any desktop, laptop, tablet, phone, external drive or similar device that the <ph conref="conrefs.dita#conrefs/moj"/> does not own.</p>
+    <p>Not everyone has access to an <ph conref="conrefs.dita#conrefs/moj"/> device for remote use.
+      If you need equipment, you can request it.
+      It can be provided quickly.
+      Contact your Line Manager for details,
+      and to raise a request through the Service Desk.</p>
+    <p>In unusual circumstances,
+      it might not be possible to organise provision of equipment.
+      In such cases,
+      you can request access to an <ph conref="conrefs.dita#conrefs/moj"/> virtual environment.</p>
+    <note>Except when connecting to an  <ph conref="conrefs.dita#conrefs/moj"/>
+      <xref href="#virtual-environment" format="dita">virtual environment</xref>,
+      or with documented approval in exceptional circumstances as described
+      <xref href="#guidance" format="dita">below</xref>,
+      you must not use a personal device for work purposes.</note>
+  </body>
   <topic id="guidance">
     <title>Guidance</title>
     <body>

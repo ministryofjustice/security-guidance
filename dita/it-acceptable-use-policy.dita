@@ -67,15 +67,16 @@
           <dd>Any request to perform an action on an ICT system which contravenes its SyOPs <b>must be</b> approved by the system Accreditor or <ph conref="conrefs.dita#conrefs/moj"/> ITSO in advance.</dd>
         </dlentry>
       </dl>
-      <p>For most Users, access to <ph conref="conrefs.dita#conrefs/moj"/> ICT systems and information held on them is through using a desktop terminal, remote access laptop and/or mobile device (such as a Blackberry device). These devices have the capacity to store large amounts of potentially sensitive information assets. It is important that Users follow Information Management processes and handling guidelines to ensure information is stored and accessed appropriately. Further information on information handling is provided in the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/" format="html" scope="external">ICT Security - Information Classification and Handling Policy</xref>.</p>
+      <p>For most Users, access to <ph conref="conrefs.dita#conrefs/moj"/> ICT systems and information held on them is through using a desktop terminal, remote access laptop and/or mobile device (such as a Blackberry device). These devices have the capacity to store large amounts of potentially sensitive information assets. It is important that Users follow Information Management processes and handling guidelines to ensure information is stored and accessed appropriately. Further information on information handling is provided in the <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>.</p>
     </body>
     <topic id="general-security-operating-procedures-syops">
       <title>General Security Operating Procedures (SyOPs)</title>
       <body>
         <p>The policy refers to a key set of general SyOPs which are listed below:
         <ul>
+          <!-- FIXME -->
           <li><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/" format="html" scope="external">IT Security Operating Procedures - System Administrators</xref>.</li>
-          <li><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-users-and-application-administrators/" format="html" scope="external">IT Security Operating Procedures - Administrators and Users</xref>.</li>
+          <li><xref href="system-users-and-application-administrators.dita" format="dita" audience="audience-tech">System Users and Application Administrators</xref>.</li>
           <li audience="audience-basic audience-tech"><xref href="remote-working.dita" format="dita">Remote Working</xref>.</li>
           <li>IT Security Operating Procedures - ICT Equipment: Desktop – Corporate.</li>
           <li>IT Security Operating Procedures - ICT Equipment: Mobile Devices - RAS Laptop.</li>
@@ -214,7 +215,7 @@
           <dlentry>
             <dt>POL.ITAUP.020</dt>
             <dd>All Users <b>must request</b> any changes to ICT system/s or ICT equipment through the IT helpdesk.
-            Further details are provided in <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-users-and-application-administrators/" format="html" scope="external">IT Security Operating Procedures - Administrators and Users</xref>.</dd>
+            <ph audience="audience-tech">Further details are provided in <xref href="system-users-and-application-administrators.dita" format="dita">System Users and Application Administrators</xref>.</ph></dd>
           </dlentry>
         </dl>
     </body>
@@ -241,13 +242,13 @@
     <topic id="managing-e-mail-use">
       <title>Managing e-mail use</title>
       <body>
-        <p>Users are responsible for ensuring that all information is handled in line with protective marking of that information in accordance with <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/" format="html" scope="external">IT Security - Information Classification and Handling Policy</xref>.</p>
+        <p>Users are responsible for ensuring that all information is handled in line with protective marking of that information in accordance with <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>.</p>
         <p>The <ph conref="conrefs.dita#conrefs/moj"/> is connected to the Government Secure Intranet (GSi), which provides a secure environment for sending/receiving E-mails between Government departments.
         This allows Users with a <ph conref="conrefs.dita#conrefs/moj"/> E-mail account (e.g. suffix '<codeph>@justice.gsi.gov.uk</codeph>') to send E-mails which attracts a protective marking up to and including <codeph>RESTRICTED</codeph> to another <ph conref="conrefs.dita#conrefs/moj"/> or government User where their E-mail suffix ends in '<codeph>.gsi.gov.uk</codeph>'.</p>
         <dl>
           <dlentry>
             <dt>POL.ITAUP.022</dt>
-            <dd>All Users <b>must ensure</b> that protectively marked information contained within or attached to an e-mail is handled in accordance with <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/" format="html" scope="external">ICT Security - Information Classification and Handling Policy</xref>.</dd>
+            <dd>All Users <b>must ensure</b> that protectively marked information contained within or attached to an e-mail is handled in accordance with <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>.</dd>
           </dlentry>
         </dl>
         <p>E-mail is a major source of malware and route into the <ph conref="conrefs.dita#conrefs/moj"/> for criminal organisations to defraud staff or exfiltrate information. All Users need to exercise care when handling emails and report any suspicious activity as an IT security incident.</p>

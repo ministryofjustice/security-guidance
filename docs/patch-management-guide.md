@@ -1,6 +1,6 @@
 # Patch Management Guide
 
-**Parent topic:**[Vulnerability Scanning and Patch Management Guide](vulnerability-scanning-and-patch-management-guide.md)
+**Parent topic:** [Vulnerability Scanning and Patch Management Guide](vulnerability-scanning-and-patch-management-guide.md)
 
 ## Introduction
 

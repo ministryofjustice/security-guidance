@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="policies-for-macbook-users">
-  <title>Policies for MacBook Users</title>
+  <title><ph platform="github">Policies for MacBook Users</ph><ph platform="intranet">MacBook</ph></title>
   <body>
     <p>Any User of an <ph conref="conrefs.dita#conrefs/mojlong"/>-supplied MacBook must ensure they comply with this policy,
       to ensure that security is not compromised when using these devices.</p>

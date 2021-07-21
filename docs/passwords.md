@@ -1,8 +1,6 @@
 # Passwords
 
-## Overview
-
-This article provides guidance on passwords within the Ministry of Justice \(MoJ\). It helps you protect MoJ IT systems by telling you about choosing and using passwords. Whenever you see the word 'system' here, it applies to:
+This article provides guidance on passwords within the Ministry of Justice \(MoJ\). It helps you protect MoJ IT systems by telling you about choosing and using passwords. Whenever you see the word “system” here, it applies to:
 
 -   Hardware, such as laptops, PCs, servers, mobile devices, and any IT equipment.
 -   Software, such as the Operating System, or applications installed on hardware, or mobile device applications \(apps\).
@@ -21,7 +19,7 @@ The most important points to remember are that passwords should be:
 -   At least 8 characters long.
 -   No more than 128 characters long.
 -   Not obvious.
--   Not a dictionary word. A combination of dictionary words might be suitable, such as '`CorrectHorseBatteryStaple`'.
+-   Not a dictionary word. A combination of dictionary words might be suitable, such as “`CorrectHorseBatteryStaple`”.
 -   Unique for each account or service.
 
 If a system or another person provides you with a password, change it before doing any MoJ work on that system. Examples of 'single-use' passwords include:
@@ -42,6 +40,30 @@ When required to change a password, you must do so as soon as possible. If you d
 |--------------|---------------------------------|
 |Single-user systems, such as laptops|1 week|
 |All other systems|1 day|
+
+### App-based password protection for files
+
+Some applications - including Microsoft Office tools such as Word, Excel, and Powerpoint - provide mechanisms for protecting files. A password controls whether someone can open, or edit, a file.
+
+While these app-based password protection mechanisms are better than nothing, there are three good reasons for avoiding them if possible.
+
+1.  You depend on the application to provide and maintain strong password protection. If the password implementation fails, or has a weakness, you might not know about it. This means that you might think your information is protected, when in fact it is at risk.
+2.  It is tempting to use a standard password for protecting a file within the app, so that other people can share and work with the file. Changing the password becomes “inconvenient”. The result is that many versions of the data file are all protected with the same password. Also, if anyone has ever been given the password to access the file, they will always be able to access the file.
+3.  If you forget the app-based password, there might not be a recovery process available to you.
+
+For these reasons, MoJ advice is that you **SHOULD NOT** use password tools within an app to protect data files that are processed by the app. For example, you **SHOULD NOT** use the password tools with Microsoft Word, Excel, or Powerpoint, to protect MoJ information within files. Instead, either:
+
+1.  Store the data files in a shared but secure area, such as the MoJ SharePoint storage facility.
+2.  Use separate encryption tools to protect data files, separate from the app that works with the data files.
+
+Of these two options, storing data files in a shared but secure area is strongly preferred. The reason is that you can add, modify, or revoke access permissions to the storage area easily.
+
+If you have no choice, and have to use app-based password protection, ensure that the same password is not used indefinitely for a data file. You **SHOULD** use a different password for:
+
+-   Each major version of a data file, for example version 2.x is different to version 3.x.
+-   Any data file where the password is more than three months old.
+
+**Note:** This advice is a specific exception to the [general guidance](#password-expiry), that you do not normally need to change passwords.
 
 ## Password expiry
 

@@ -7,7 +7,7 @@ This information applies to anyone and everyone working for, or with, the Minist
 The MoJ's Information Security awareness programme plays an essential part in maintaining security. It informs all MoJ staff of:
 
 -   Their duties with regard to security.
--   Their responsibilities to protect the assets \(information, equipment, people and buildings\) they have access to and use.
+-   Their responsibilities to protect the assets they have access to and use. The assets include information, equipment, people and buildings.
 -   The importance of reporting any actual or suspected security incidents.
 
 ## Requirements

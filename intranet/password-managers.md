@@ -1,11 +1,8 @@
-# Password Managers
+#Password Managers
 
--   **[Using LastPass Enterprise](using-lastpass.md)**  
+[Ministry of Justice (MoJ) guidance](/guidance/security/it-computer-security/user-access/passwords/) makes clear that you should have different passwords for different services. These passwords must be complex.
 
-
-## Overview
-
-[Ministry of Justice \(MoJ\) guidance](passwords.md) makes clear that you should have different passwords for different services. These passwords must be complex.
+**[Using LastPass Enterprise](/guidance/security/it-computer-security/user-access/passwords/password-managers/using-lastpass-enterprise/)**
 
 But how do you remember all these different passwords?
 
@@ -13,17 +10,17 @@ The simplest way is to use a [Password Manager](https://en.wikipedia.org/wiki/Pa
 
 This article provides guidance on using password managers within the MoJ.
 
-## What is a password manager/vault?
+##What is a password manager/vault?
 
 A password manager stores sensitive information in an encrypted form. Password managers are sometimes called password vaults.
 
-In the MoJ, 'password managers' are tools that you might use for your personal accounts. 'Password vaults' are tools that a team of people might use to look after details for shared accounts.
+In the MoJ, password managers are tools that you might use for your personal accounts. Password vaults are tools that a team of people might use to look after details for shared accounts.
 
 Password vaults usually have extra strong access controls, such as hardware tokens.
 
-Here, we use 'password manager' and 'password vault' interchangeably, except when stated otherwise.
+Here, we use password manager and 'password vault interchangeably, except when stated otherwise.
 
-### When do you use a password manager or a password vault?
+##When do you use a password manager or a password vault?
 
 The following table shows when you might use a password manager or vault:
 
@@ -33,44 +30,45 @@ The following table shows when you might use a password manager or vault:
 |Multiple users, shared accounts|Password manager or password vault|Some accounts might be shared between a group of users. For example, a team might need to know the password for an encrypted document. If the access required is for a sensitive or operational system, then a more heavily protected tool such as a password vault might be appropriate.|
 |System access, no human use|Password vault|Some MoJ systems need to 'talk' directly to other systems. No humans are involved in the conversation. The passwords protecting these communications can - and should - be extremely complex. A strongly secured password vault would be ideal for this purpose.|
 
-## Best practices
+##Best practices
 
 The NCSC is [very clear](https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers):
 
-> "Should I use a password manager? Yes. Password managers are a good thing."
+* “Should I use a password manager? Yes. Password managers are a good thing.”
 
 This is helpful for us in the MoJ, as much of our IT Policy and guidance derives from NCSC best practices.
 
-## What makes a good password manager?
+##What makes a good password manager?
 
 A password manager should never store passwords in an unencrypted form. This means that keeping a list of passwords in a simple text file using Notepad would be A Bad Thing.
 
-Good password managers encrypt the passwords in a file using strong encryption. It shouldn't matter where you store the encrypted file. Storing the list 'in the cloud' lets your password manager access the data from any device. This is useful if you are logging in from a laptop, or a mobile device. Storing the passwords locally means the password manager works even when offline.
+Good password managers encrypt the passwords in a file using strong encryption. It shouldn't matter where you store the encrypted file. Storing the list “in the cloud” lets your password manager access the data from any device. This is useful if you are logging in from a laptop, or a mobile device. Storing the passwords locally means the password manager works even when offline.
 
 A good password manager will have:
 
--   Strong encryption for the list of passwords.
+* Strong encryption for the list of passwords.
+* Network access for encrypted lists stored in the cloud.
+* A dedicated app but also a pure web browser method for working with your password list.
+* A tool to generate passwords of varying complexity.
+* The ability to fill in login pages.
 
--   Network access for encrypted lists stored 'in the cloud'.
-
--   A dedicated app but also a 'pure' web browser method for working with your password list.
-
--   A tool to generate passwords of varying complexity.
-
--   The ability to fill in login pages.
-
-
-## What password manager should I use?
+##What password manager should I use?
 
 In the [NCSC article](https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers), they are very careful not to identify or recommend a password manager. This ... caution ... is the reason why we don't say much about password managers within the MoJ guidance.
 
 There are several password managers used within the MoJ. [LastPass](https://www.lastpass.com/) and [1Password](https://1password.com/) are probably the most popular for personal or team passwords. Example password vaults would be Hashicorp Vault, Kubernetes Secrets or AWS Key Management.
 
-For individual use, have a look at LastPass and 1Password. See which one you like best, and try it out. When you decide on a password manager, request approval from your line manager to install and use it: "I'm planning to install and use XYZ to manage my passwords, is that OK?".
+For individual use, have a look at LastPass and 1Password. See which one you like best, and try it out. When you decide on a password manager, request approval from your line manager to install and use it: “I'm planning to install and use XYZ to manage my passwords, is that OK?”.
 
-See also [Using LastPass Enterprise](using-lastpass.md).
+See also [Using LastPass Enterprise](/guidance/security/it-computer-security/user-access/passwords/password-managers/using-lastpass-enterprise/).
 
-## Feedback
+##Contacts
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+
+---
+
+##Feedback
+
+If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

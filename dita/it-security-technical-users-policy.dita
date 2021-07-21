@@ -61,7 +61,7 @@
       </ul>
     </body>
   </topic>
-  <topic id="technical-controls">
+  <topic id="technical-controls" audience="audience-tech">
     <title>Technical controls</title>
     <body>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="technical-security-controls-guide.dita" format="dita">Technical Security Controls Guide</xref>
@@ -170,7 +170,7 @@
             Handling and Security Guide</ph>.</p>
       </body>
     </topic>
-    <topic id="physical-and-personnel-security">
+    <topic id="physical-and-personnel-security" audience="audience-suppliers audience-tech">
       <title>Physical and personnel Security</title>
       <body>
         <p>The Contract owner shall include appropriate clauses in a contract with any supplier which will define the classified matter that is furnished,

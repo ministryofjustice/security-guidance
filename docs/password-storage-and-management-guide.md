@@ -14,6 +14,8 @@ Passwords must be securely stored within MoJ approved storage tools. The followi
 
 -   [LastPass](using-lastpass.md)
 
+Do not store sensitive information, such as passwords or credit card details, in unapproved tools. In particular, do not use “Autofill” tools to help fill in forms, unless the tools are provided and approved by the MoJ.
+
 Contact the Cyber Assistance Team \([CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)\) if you have a specialist need to use a different storage tool.
 
 ## Sharing passwords

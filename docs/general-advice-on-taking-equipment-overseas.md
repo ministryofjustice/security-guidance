@@ -27,7 +27,7 @@ As a government official you may be of interest to a range of hostile parties an
 -   If it is not practical to keep the device with you securely at all times \(for instance, you are at the swimming pool or gym\), consider storing the device in the hotel safe.
 -   Avoid conducting work related sensitive phone conversations as they can be intercepted and if you do, ensure you can't be overheard. Examples of sensitive information might include prisoner/offence details, court cases of foreign nationals, terror attacks and extremists.
 -   Do not use public charging stations or connect the phone to a vehicle by USB or Bluetooth as information can be downloaded from your phone.
--   Be aware that hotel and public WiFi spots are not secure, as they can easily be monitored.
+-   Be aware that hotel and public wifi spots are not secure, as they can easily be monitored.
 -   Make sure you use the phone's password or PIN.
 -   If the phone is taken from you or you believe it may have been compromised in any way, report it to the [Departmental Security Officer.](#contacts)
 
@@ -61,16 +61,14 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 ### General enquiries, including theft and loss
 
-**Dom1/Quantum - Technology Service Desk**
+**Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
 -   Tel: 0800 917 5148
+-   [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
 
-**Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
 
-**Digital & Technology - Digital Service Desk**
-
--   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
--   Slack: `#digitalservicedesk`
+**Note:** Use of the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\) is being withdrawn, and should be avoided.
 
 **HMPPS Information & security:**
 

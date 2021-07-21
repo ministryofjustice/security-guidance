@@ -1,6 +1,6 @@
-# Removable Media
+# Removable media
 
-**Note:** Any Ministry of Justice \(MoJ\) systems or removable storage media used for work purposes must be encrypted to MoJ security standards. Security encryption is a mandatory government measure, and one of the most important methods we have to protect MoJ information.
+Any Ministry of Justice \(MoJ\) systems or removable storage media used for work purposes must be encrypted to MoJ security standards. Security encryption is a mandatory government measure, and one of the most important methods we have to protect MoJ information.
 
 ## What is 'removable' media?
 

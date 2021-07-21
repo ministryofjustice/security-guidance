@@ -1,12 +1,14 @@
-# Intranet landing page
+#Intranet landing page
 
-This document is an offline version of the security policy and guidance decisions that the [Ministry of Justice \(MoJ\)](https://www.gov.uk/government/organisations/ministry-of-justice) has made for the products we operate, and our relationships with suppliers.
+This document is an offline version of the security policy and guidance decisions that the [Ministry of Justice (MoJ)](https://www.gov.uk/government/organisations/ministry-of-justice) has made for the products we operate, and our relationships with suppliers.
 
-This guidance is dated: 3 March 2021.
+This guidance is dated: 13 July 2021.
 
-It is time-limited, and is not valid after 3 April 2021.
+It is time-limited, and is not valid after 13 August 2021.
 
-## Feedback
+---
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+##Feedback
+
+If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

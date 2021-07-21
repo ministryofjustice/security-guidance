@@ -8,6 +8,8 @@
 
 [Security Log Collection](security-log-collection.md)
 
+[Privileged User Logging and Protective Monitoring Guide](privileged-user-logging-and-protective-monitoring-guide.md)
+
 ## Overview
 
 The Ministry of Justice \(MoJ\) monitors the use of services, by recording \(logging\) event information.

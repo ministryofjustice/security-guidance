@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="acceptable-use">
-  <title>Acceptable use of Information Technology at work</title>
+  <title><ph platform="github">Acceptable use of Information Technology at work</ph><ph platform="intranet">User access</ph></title>
   <body>
-    <p>This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
+    <p platform="intranet">Acceptable use of Information Technology at work.</p>
+    <p>This guidance applies to all staff and contractors who work for <ph platform="github">the <ph conref="conrefs.dita#conrefs/mojlong"/></ph><ph platform="intranet"><ph conref="conrefs.dita#conrefs/moj"/></ph>.</p>
     <p>Everyone working at the <ph conref="conrefs.dita#conrefs/moj"/> has access to <ph conref="conrefs.dita#conrefs/moj"/> Information Technology (IT) resources.
     You must use them in an acceptable way.
     This guidance explains what that means.
-    <ph audience="audience-tech">The definitive list of Acceptable Use Policy statements is <xref href="it-acceptable-use-policy.dita" format="dita">here</xref>.</ph></p>
+    <!-- FIXME -->
+    <ph platform="github">The definitive list of Acceptable Use Policy statements is <xref href="it-acceptable-use-policy.dita" format="dita">here</xref>.</ph></p>
   </body>
   <topic id="summary">
     <title>Summary</title>
@@ -20,7 +22,7 @@
         <li>Context is important. Security risks can increase when working outside your normal workplace.</li>
         <li>Be aware that your use of resources is monitored. During an investigation into a security incident, IT forensic techniques capture evidence.</li>
         <li>If you're not sure if something is acceptable, ask for help first.</li>
-        <li>Above all, if you think there is a problem, <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">report it</xref> or ask for help.</li>
+        <li>Above all, if you think there is a problem, <xref href="reporting-an-incident.dita" format="dita" platform="github">report it</xref><xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external" platform="intranet">report it</xref> or ask for help.</li>
       </ul></p>
       <p>The way you use IT is important, because it indicates your approach to work, and can be taken into account when assessing your behaviour and performance.</p>
     </body>
@@ -29,11 +31,11 @@
     <title>What is meant by IT?</title>
     <body>
       <p>IT means the devices or services you use for creating, storing, or sharing information.
-        This includes everything from devices (such as laptops, 'phones, mobile Wi-Fi hotspots (MiFi), iPads, tablets, printers, USB 'memory sticks') through to online services (citizen-facing online services, staff tools, corporate email).</p>
+        This includes everything from devices (such as laptops, 'phones, mobile Wi-Fi hotspots (MiFi), iPads, tablets, printers, USB <q platform="github">memory sticks</q><ph platform="intranet">memory sticks</ph>) through to online services (citizen-facing online services, staff tools, corporate email).</p>
     </body>
   </topic>
   <topic id="acceptable-use-of-moj-it">
-    <title>Acceptable use of MOJ IT</title>
+    <title>Acceptable use of <ph conref="conrefs.dita#conrefs/moj"/> IT</title>
     <body>
       <p>Acceptable use of IT is when you use it to do your work.</p>
       <p>IT helps you complete your tasks as efficiently and effectively as possible.
@@ -53,10 +55,13 @@
         <li>Deliberately or accidentally sharing resources or information, such as passwords, with people who are not supposed to have them.</li>
         <li>Using resources without permission.</li>
         <li>Storing sensitive information where it could easily be lost or stolen.</li>
+        <li>Using unapproved tools or processes to store sensitive information,
+          such as passwords or credit card details.</li>
         <li>Using your work email address for personal tasks.</li>
         <li>Using a personal account or personal email address for work tasks.</li>
         <li>Excessive private use during working time.</li>
         <li>Installing unlicensed or unauthorised software.</li>
+        <li>Redirecting print jobs from <ph conref="conrefs.dita#conrefs/moj"/> printers to a personal printer.</li>
       </ul></p>
     </body>
   </topic>
@@ -72,7 +77,7 @@
       </ul></p>
       <p>Unacceptable use might also affect you, too:
       <ul>
-        <li>Duspension of access, so that you cannot do your work.</li>
+        <li>Suspension of access, so that you cannot do your work.</li>
         <li>Disciplinary proceedings, up to and including dismissal.</li>
         <li>Termination of contract for contractors and agency staff.</li>
       </ul></p>
@@ -83,13 +88,33 @@
     <body>
       <p>You are responsible for protecting your <ph conref="conrefs.dita#conrefs/moj"/> IT resources.
       This includes keeping your usernames and passwords safe and secure.</p>
+      <p>It also means looking after <ph conref="conrefs.dita#conrefs/moj"/> equipment,
+      especially when working away from <ph conref="conrefs.dita#conrefs/moj"/>
+      locations.
+      You are responsible for protecting <ph conref="conrefs.dita#conrefs/moj"/>
+      equipment issued to you.
+      Any theft of <ph conref="conrefs.dita#conrefs/moj"/> equipment,
+      or deliberate or willful damage to <ph conref="conrefs.dita#conrefs/moj"/> equipment,
+      should normally be <xref href="lost-devices-incidents.dita" format="dita">reported</xref>
+      to the Police and to the Service Desk.
+      <note>You should normally report instances of theft or damage to authorities
+        as indicated.
+        However,
+        there might be additional circumstances which mean a sensitive handling of
+        the situation is appropriate.
+        It is acceptable to consider the context of the situation when making a
+        report.
+        Ensure you can justify your actions.
+        In cases of uncertainty,
+        don't hesitate to ask your line manager,
+        or other responsible authority for advice.</note></p>
       <p>While you might be careful about acceptable use of <ph conref="conrefs.dita#conrefs/moj"/> IT, there are still risks from <xref href="https://en.wikipedia.org/wiki/Malware" format="html" scope="external">malware</xref>, <xref href="https://en.wikipedia.org/wiki/Ransomware" format="html" scope="external">ransomware</xref>, or <xref href="https://en.wikipedia.org/wiki/Phishing" format="html" scope="external">phishing</xref> attacks.</p>
       <p>If you get an email from anyone or anywhere that you are not sure about, remember:
       <ul>
         <li>Don't open any attachments.</li>
         <li>Don't click on any links in the email.</li>
       </ul></p>
-      <p>If there is any doubt, or you are worried that the <xref href="https://intranet.justice.gov.uk/news/ntk-phishing-dont-take-the-bait/" format="html" scope="external">email might be malicious</xref> or inappropriate, <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">report it immediately</xref> as an IT security incident.</p>
+      <p>If there is any doubt, or you are worried that the <xref href="https://intranet.justice.gov.uk/news/ntk-phishing-dont-take-the-bait/" format="html" scope="external">email might be malicious</xref> or inappropriate, <xref href="reporting-an-incident.dita" format="dita" platform="github">report it immediately</xref><xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external" platform="intranet">report it immediately</xref> as an IT security incident.</p>
     </body>
   </topic>
   <topic id="personal-use-of-moj-it">
@@ -114,9 +139,9 @@
           <li>Making charitable donations from the mobile phone account.</li>
           <li>Signing up for premium rate text services.</li>
           <li>Calling premium rate telephone services.</li>
-          <li>Voting in 'reality TV' popularity contests - these usually involve premium rate services.</li>
+          <li>Voting in <q platform="github">reality TV</q><ph platform="intranet">reality TV</ph> popularity contests - these usually involve premium rate services.</li>
           <li>Downloading, uploading, or streaming media files that are not work-related, such as music or movies.</li>
-          <li>'Tethering' another device to the <ph conref="conrefs.dita#conrefs/moj"/> mobile phone, and then using the other device for any of the above activities.</li>
+          <li><q platform="github">Tethering</q><ph platform="intranet">Tethering</ph> another device to the <ph conref="conrefs.dita#conrefs/moj"/> mobile phone, and then using the other device for any of the above activities.</li>
         </ul></p>
         <p>... as well as any other activities that are not obviously work-related.</p>
         <p>All use of <ph conref="conrefs.dita#conrefs/moj"/> IT resources is monitored and logged.
@@ -130,17 +155,18 @@
   <topic id="using-moj-it-outside-your-usual-workplace">
     <title>Using <ph conref="conrefs.dita#conrefs/moj"/> IT outside your usual workplace</title>
     <body>
-      <p>Some IT resources might be usable <xref href="https://intranet.justice.gov.uk/documents/2017/12/remote-working-and-mobile-computing-security-guide-november-2017.pdf" format="pdf" scope="external">away from your usual workplace</xref>, such as a laptop.
+      <p>Some IT resources might be usable <ph platform="github">away from your usual workplace</ph><xref href="https://intranet.justice.gov.uk/documents/2017/12/remote-working-and-mobile-computing-security-guide-november-2017.pdf" format="pdf" scope="external" platform="intranet">away from your usual workplace</xref>, such as a laptop.
       Even outside the office, you must continue to ensure acceptable use of the IT resources.</p>
-      <p>You should also <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/taking-it-equipment-overseas-business-or-personal/" format="html" scope="external">ask</xref> before taking <ph conref="conrefs.dita#conrefs/moj"/> IT equipment outside the UK.</p>
+      <p>You should also <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita" platform="github">ask</xref><ph platform="intranet">ask</ph> before taking <ph conref="conrefs.dita#conrefs/moj"/> IT equipment outside the UK.</p>
     </body>
   </topic>
   <topic id="avoid-using-removable-media">
     <title>Avoid using removable media</title>
     <body>
       <p>Removable media like memory sticks are portable and easy-to-use.
-        Unfortunately, this makes them a security risk, so <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/" format="html" scope="external">avoid using them</xref>.
-        If however they are essential to your work, please follow the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/" format="html" scope="external">Use of Removable Media policy</xref>.</p>
+        Unfortunately, this makes them a security risk, so <xref href="removable-media.dita" format="dita" platform="github">avoid using them</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/" format="html" scope="external" platform="intranet">avoid using them</xref>.
+        If however they are essential to your work,
+        follow the <xref href="removable-media.dita" format="dita" platform="github">Use of Removable Media</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/" format="html" scope="external" platform="intranet">Use of Removable Media</xref> guidance.</p>
     </body>
   </topic>
   <topic id="personalisation-of-equipment">
@@ -151,5 +177,6 @@
         The same applies if you customise the desktop environment of your equipment, for example by changing the desktop image.</p>
     </body>
   </topic>
+	<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

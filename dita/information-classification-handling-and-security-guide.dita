@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="information-classification-handling-and-security-guide">
-  <title>Information Classification, Handling and Security Guide</title>
-  <body/>
-  <topic id="introduction">
-    <title>Introduction</title>
-    <body>
-      <p>All <ph conref="conrefs.dita#conrefs/mojlong"/> employees interact with information,
-        and are responsible for its protection.
-        Information security must be considered during the process of designing,
-        maintaining,
-        and securing the <ph conref="conrefs.dita#conrefs/moj"/>'s IT systems that are used to process information.</p>
-      <p>However,
-         not all information warrants the strictest levels of protection.
-         This is why information classification is so important to the <ph conref="conrefs.dita#conrefs/moj"/> –
-         to ensure that the department can focus its security efforts on its most sensitive information.
-         Information security must be proportionate to the security classification of the information,
-         and must be considered throughout the information lifecycle to maintain its confidentiality,
-         integrity,
-         and availability.</p>
-    </body>
-  </topic>
+  <title><ph platform="github">Information Classification, Handling and Security Guide</ph><ph platform="intranet">Information classification, handling &amp; security guide</ph></title>
+  <body>
+    <p>All <ph conref="conrefs.dita#conrefs/mojlong"/> employees interact with information,
+      and are responsible for its protection.
+      Information security must be considered during the process of designing,
+      maintaining,
+      and securing the <ph conref="conrefs.dita#conrefs/moj"/>'s IT systems that are used to process information.</p>
+    <p>However,
+        not all information warrants the strictest levels of protection.
+        This is why information classification is so important to the <ph conref="conrefs.dita#conrefs/moj"/> –
+        to ensure that the department can focus its security efforts on its most sensitive information.
+        Information security must be proportionate to the security classification of the information,
+        and must be considered throughout the information lifecycle to maintain its confidentiality,
+        integrity,
+        and availability.</p>
+  </body>
   <topic id="classifying-information">
     <title>Classifying information</title>
     <body>
@@ -51,7 +47,10 @@
                 stolen,
                 or published,
                 it could have damaging consequences,
-                but is not subject to a heightened threat profile.</entry>
+                but is not subject to a heightened threat profile.
+                For regular,
+                unsupervised access to <codeph>OFFICIAL</codeph> information,
+                someone would be expected to have achieved <xref href="https://www.gov.uk/government/publications/government-baseline-personnel-security-standard" format="html" scope="external">Baseline Personnel Security Standard (BPSS)</xref> assessment.</entry>
             </row>
             <row>
               <entry colname="col1"><b><codeph>SECRET</codeph></b></entry>
@@ -61,7 +60,13 @@
                 For example,
                 where compromise could seriously damage military capabilities,
                 international relations,
-                or the investigation of a serious crime.</entry>
+                or the investigation of a serious crime.
+                For regular,
+                unsupervised access to <codeph>SECRET</codeph> information,
+                someone would be expected to have passed <xref href="https://www.gov.uk/guidance/security-vetting-and-clearance#applicant" format="html" scope="external">National Security Vetting</xref> Security Check (SC) clearance.
+                In exceptional circumstances,
+                someone with BPSS might be granted occasional supervised access to UK <codeph>SECRET</codeph> assets,
+                or be required to work in areas where <codeph>SECRET</codeph> or <codeph>TOP SECRET</codeph> information might be overheard.</entry>
             </row>
             <row>
               <entry colname="col1"><b><codeph>TOP SECRET</codeph></b></entry>
@@ -76,8 +81,8 @@
       <p>Securing the <ph conref="conrefs.dita#conrefs/moj"/>'s information must be done with a combination of information security measures:
       <table>
         <tgroup cols="2">
-          <colspec colname="col1" colnum="1"/>
-          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col1" colnum="1" colwidth="40*"/>
+          <colspec colname="col2" colnum="2" colwidth="60*"/>
           <thead>
             <row>
               <entry colname="col1">Type of Measure</entry>
@@ -114,7 +119,7 @@
           some personal data might be classified as <codeph>SECRET</codeph> information if it meets the risk threshold defined.</li>
       </ul>
         <p>The table below sets out the definitions for each security classification,
-          as well as whether it is necessary to explicitly <q>mark</q> a piece of information with its classification type.
+          as well as whether it is necessary to explicitly <q platform="github">mark</q><ph platform="intranet">mark</ph> a piece of information with its classification type.
         <table>
           <tgroup cols="3">
             <colspec colname="col1" colnum="1"/>
@@ -142,7 +147,7 @@
               <row>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"><codeph>OFFICIAL-SENSITIVE</codeph> is not a separate security classification.
-                  It should be used to reinforce the <q>need to know</q> principle,
+                  It should be used to reinforce the <q platform="github">need to know</q><ph platform="intranet">need to know</ph> principle,
                   beyond the baseline for <codeph>OFFICIAL</codeph>.</entry>
                 <entry colname="col3"><codeph>OFFICIAL</codeph> data does not need to be marked except where <codeph>SENSITIVE</codeph>,
                   and must be marked <codeph>OFFICIAL-SENSITIVE</codeph>.</entry>
@@ -200,7 +205,7 @@
           <li>Most non-production data.</li>
         </ul></p>
         <p><codeph>OFFICIAL</codeph> means that the <ph conref="conrefs.dita#conrefs/moj"/>'s typical security measures are regarded as sufficient.</p>
-        <p><codeph>OFFICIAL-SENSITIVE</codeph> <q>whilst not a formal classification</q>,
+        <p><codeph>OFFICIAL-SENSITIVE</codeph> whilst not a formal classification,
           should be used sparingly,
           so that its effectiveness is not weakened.
           This is especially important when you consider that <codeph>OFFICIAL</codeph> is already well-protected.</p>
@@ -221,7 +226,7 @@
           ask yourself a simple question:
           <lq>If a hacker gained unauthorised access to the information,
             could it compromise the security or prosperity of the country?</lq></p>
-        <p>The answer is most likely <q>No</q>.
+        <p>The answer is most likely <q platform="github">No</q><ph platform="intranet">No</ph>.
           In that case,
           you should consider using the <codeph>OFFICIAL</codeph> classification.</p>
       </body>
@@ -239,13 +244,68 @@
           ask yourself a simple question:
           <lq>If a hacker gained unauthorised access to the information,
             would it directly and immediately threaten the national security of the country?</lq></p>
-        <p>The answer is most likely <q>No</q>.
+        <p>The answer is most likely <q platform="github">No</q><ph platform="intranet">No</ph>.
           In that case,
           you should consider using the <codeph>OFFICIAL</codeph> or <codeph>SECRET</codeph> classification,
           as appropriate.</p>
       </body>
     </topic>
-  <topic id="handling-and-securing-information">
+    <topic id="reclassifying-information" conref="conrefs.dita#reclassifying-information"><title/></topic>
+    <topic id="reclassification-examples">
+      <title>Reclassification examples</title>
+      <body>
+        <p>When deciding whether it is appropriate or desirable to reclassify information,
+          a useful model is to consider what audience might get value from accessing the information.
+          For example,
+          if a hostile country might want the information,
+          then the information might well be best classified as <codeph>SECRET</codeph>.
+          Alternatively,
+          a reclassification decision might be required as a result of changing threat advice from intelligence agencies.</p>
+      </body>
+      <topic id="example-1">
+        <title>Example 1</title>
+        <body>
+          <p>An asset owner creates a report.
+            The report contains potentially private information about individuals.
+            The asset owner decides that the report should be classified as <codeph>OFFICIAL</codeph>,
+            with the <codeph>SENSITIVE</codeph> handling caveat.</p>
+          <p>A user wishes to share a copy of the report <q platform="github">as-is</q><ph platform="intranet">as-is</ph> with their team.
+            They cannot remove the handling caveat without prior discussion and agreement from the asset owner.</p>
+        </body>
+      </topic>
+      <topic id="example-2">
+        <title>Example 2</title>
+        <body>
+          <p>An asset owner creates a report.
+            The report contains potentially private information about individuals.
+            The asset owner decides that the report should be classified as <codeph>OFFICIAL</codeph>,
+            with the <codeph>SENSITIVE</codeph> handling caveat.</p>
+          <p>A user wishes to share a subset of the report with their team.
+            In particular,
+            the report is substantially re-worked to remove all the private information.
+            The user becomes the owner of this new asset.
+            They are responsible for this new asset.
+            They can decide that the <codeph>SENSITIVE</codeph> handling caveat is not required.</p>
+            <p>The original report retains its <codeph>OFFICIAL</codeph> classification and <codeph>SENSITIVE</codeph> handling caveat.</p>
+        </body>
+      </topic>
+      <topic id="example-3">
+        <title>Example 3</title>
+        <body>
+          <p>An asset owner creates a report.
+            The report contains information about plans to handle a pandemic.
+            The asset owner decides that the report should be classified as <codeph>OFFICIAL</codeph>,
+            with the <codeph>SENSITIVE</codeph> handling caveat.</p>
+          <p>A user reviews the report.
+            They realise that the information could potentially compromise the security or prosperity of the country.
+            They decide to increase the classification of the report,
+            and treat it as <codeph>SECRET</codeph>.
+            They discuss this decision with the asset owner,
+            so that the original report is correctly reclassified.</p>
+        </body>
+      </topic>
+    </topic>
+    <topic id="handling-and-securing-information">
     <title>Handling and securing information</title>
     <body>
       <p>The <ph conref="conrefs.dita#conrefs/hmggovernmentsecurityclassifications"/>
@@ -263,9 +323,9 @@
       <body>
         <table>
           <tgroup cols="3">
-            <colspec colname="col1" colnum="1"/>
-            <colspec colname="col2" colnum="2"/>
-            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col1" colnum="1" colwidth="30*"/>
+            <colspec colname="col2" colnum="2" colwidth="30*"/>
+            <colspec colname="col3" colnum="3" colwidth="40*"/>
             <thead>
               <row>
                 <entry colname="col1">Type</entry>
@@ -310,11 +370,11 @@
               </row>
               <row>
                 <entry colname="col1"><b><codeph>TECHNICAL</codeph></b></entry>
-                <entry colname="col2">Protect information <q>at rest</q> by using appropriate encryption.</entry>
+                <entry colname="col2">Protect information <q platform="github">at rest</q><ph platform="intranet">at rest</ph> by using appropriate encryption.</entry>
                 <entry colname="col3">In the development of a new cloud-hosted solution,
                   the following criteria should be considered:
                   remote access connections and sessions are encrypted using an appropriate VPN;
-                  information stored <q>at rest</q> on end user devices and the cloud is encrypted;
+                  information stored <q platform="github">at rest</q><ph platform="intranet">at rest</ph> on end user devices and the cloud is encrypted;
                   information in transit between the end user and the cloud service,
                   such as payment services,
                   is encrypted;
@@ -358,9 +418,9 @@
       <body>
         <table>
           <tgroup cols="3">
-            <colspec colname="col1" colnum="1"/>
-            <colspec colname="col2" colnum="2"/>
-            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col1" colnum="1" colwidth="30*"/>
+            <colspec colname="col2" colnum="2" colwidth="30*"/>
+            <colspec colname="col3" colnum="3" colwidth="40*"/>
             <thead>
               <row>
                 <entry colname="col1">Type</entry>
@@ -401,12 +461,7 @@
                 <entry colname="col1"><b><codeph>TECHNICAL</codeph></b></entry>
                 <entry colname="col2"><codeph>SECRET</codeph> information at rest should be protected with very strong encryption.
                   Contact the <ph conref="conrefs.dita#conrefs/moj"/> Security Team for more information: <ph conref="conrefs.dita#conrefs/securityemail"/>.</entry>
-                <entry colname="col3">In the development of a new cloud-hosted solution for <codeph>SECRET</codeph> information,
-                  you should consider the following:
-                  information stored <q>at rest</q> on the cloud is encrypted with very strong encryption;
-                  information in transit between the end user and the cloud service is encrypted with very strong encryption,
-                  and the cloud service used is approved for the <codeph>SECRET</codeph> threat model with guidance from the <ph conref="conrefs.dita#conrefs/moj"/> Security Team:
-                  <ph conref="conrefs.dita#conrefs/securityemail"/>.</entry>
+                <entry colname="col3"> </entry>
               </row>
               <row>
                 <entry colname="col1"> </entry>
@@ -422,7 +477,7 @@
             </tbody>
           </tgroup>
         </table>
-        <note><ph conref="#continuallyevaluate"/></note>
+        <note><ph conref="#handling-and-securing-official-and-official-sensitive-information/continuallyevaluate"/></note>
       </body>
     </topic>
     <topic id="handling-and-securing-top-secret-information">
@@ -430,9 +485,9 @@
       <body>
         <table>
           <tgroup cols="3">
-            <colspec colname="col1" colnum="1"/>
-            <colspec colname="col2" colnum="2"/>
-            <colspec colname="col3" colnum="3"/>
+            <colspec colname="col1" colnum="1" colwidth="30*"/>
+            <colspec colname="col2" colnum="2" colwidth="30*"/>
+            <colspec colname="col3" colnum="3" colwidth="40*"/>
             <thead>
               <row>
                 <entry colname="col1">Type</entry>
@@ -481,13 +536,7 @@
                 <entry colname="col2">When physical security measures cannot be used,
                   <codeph>TOP SECRET</codeph> information at rest should be protected with extremely strong encryption.
                   Contact the <ph conref="conrefs.dita#conrefs/moj"/> Security Team in these circumstances: <ph conref="conrefs.dita#conrefs/securityemail"/>.</entry>
-                <entry colname="col3">In the development of a new cloud-hosted solution for <codeph>TOP SECRET</codeph> information,
-                  you should contact the <ph conref="conrefs.dita#conrefs/moj"/> Security Team:
-                  <ph conref="conrefs.dita#conrefs/securityemail"/>.
-                  Information stored <q>at rest</q> on the cloud is encrypted with extremely strong encryption;
-                  information in transit between the end user and the cloud service is encrypted with extremely strong encryption,
-                  and the cloud service used is accredited approved for the <codeph>SECRET</codeph> threat model,
-                  with guidance from the <ph conref="conrefs.dita#conrefs/moj"/> Security Team: <ph conref="conrefs.dita#conrefs/securityemail"/>.</entry>
+                <entry colname="col3"> </entry>
               </row>
               <row>
                 <entry colname="col1"> </entry>
@@ -506,7 +555,7 @@
             </tbody>
           </tgroup>
         </table>
-        <note><ph conref="#continuallyevaluate"/></note>
+        <note><ph conref="#handling-and-securing-official-and-official-sensitive-information/continuallyevaluate"/></note>
         <note>For further information on statutory disclosures and transfer to national archives,
           please refer to the <ph conref="conrefs.dita#conrefs/hmggovernmentsecurityclassifications"/>.</note>
       </body>
