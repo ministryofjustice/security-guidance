@@ -249,6 +249,8 @@
 			<property name="transtype" value="pdf"/>
 		</ant>
 		<echo message="All users PDF build complete."/>
+
+		<delete dir='${_dita.map.output.dir}'/>
 	</target>
 
 	<target name="compile_epub" depends="init"
