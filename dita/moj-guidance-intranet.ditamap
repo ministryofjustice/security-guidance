@@ -104,4 +104,9 @@ if an audience attribute is present, then only matching content is included.
 		<topicmeta><navtitle>Training and education</navtitle></topicmeta>
 		<topicref href="training-and-education.dita" type="topic"/>
 	</topichead>
+	<topichead>
+		<topicmeta><navtitle>Physical security</navtitle></topicmeta>
+		<topicref href="personal-mail-delivery.dita" type="topic"/>
+		<topicref href="physical-security-policy.dita" type="topic"/>
+	</topichead>
 </map>
