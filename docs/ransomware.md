@@ -20,7 +20,7 @@ Ransomware is a type of malicious software created or used by cybercriminals. It
 
 ## What to do if you think a ransomware attack is affecting your system
 
-In the event of a ransomware attack, or if you have suspicions one may be taking place, the first thing to do is to [contact your local IT Helpdesk](#incidents-and-contact-details).
+In the event of a ransomware attack, or if you have suspicions one may be taking place, the first thing to do is to [contact your local IT Service Desk](#incidents-and-contact-details).
 
 With your help, the IT team attempt to determine which systems have been impacted, and can isolate them immediately. You might be asked to disconnect all your devices from the network or wifi connection, to prevent a further spread of attacks throughout the business.
 

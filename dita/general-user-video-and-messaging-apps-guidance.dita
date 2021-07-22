@@ -33,7 +33,7 @@
 			<p>You can access tools that are provided through your <ph conref="conrefs.dita#conrefs/moj"/> provided devices by downloading from:</p>
 			<ul>
 				<li>The Software Centre application on your device (for Dom1 equipment).</li>
-				<li>The Self Service application on your Mac (for Digital Service Desk (DSD) managed MacBook laptops).</li>
+				<li>The Self Service application on your Mac (for <ph conref="conrefs.dita#conrefs/servicedesk"/> managed MacBook laptops).</li>
 			</ul>
 			<p>Currently, access to the tools mentioned in this document is not available from Quantum devices.</p>
 			<p>For other <ph conref="conrefs.dita#conrefs/moj"/> provided devices, seek help from your Line Manager in the first instance.</p>
@@ -228,14 +228,14 @@
 							<entry colname="col1">Google Meet (was Google Hangouts)</entry>
 							<entry colname="col2">Communication tool: Video and/or voice</entry>
 							<entry colname="col3"><ph conref="conrefs.dita#conrefs/moj"/> use approved</entry>
-							<entry colname="col4">Digital Service Desk controlled Mac - Self service, Web browser.</entry>
+							<entry colname="col4"><ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
 							<entry colname="col5">Internal/External</entry>
 						</row>
 						<row>
 							<entry colname="col1">Microsoft Teams</entry>
 							<entry colname="col2">Communication and collaboration tool: Video and/or voice</entry>
 							<entry colname="col3"><ph conref="conrefs.dita#conrefs/moj"/> use approved</entry>
-							<entry colname="col4">Dom1 Software centre, Digital Service Desk controlled Mac - Self service, Web browser.</entry>
+							<entry colname="col4">Dom1 Software centre, <ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
 							<entry colname="col5">Internal/External</entry>
 						</row>
 						<row>
@@ -249,14 +249,14 @@
 							<entry colname="col1">Skype for Business</entry>
 							<entry colname="col2">Communication tool: Video and/or voice</entry>
 							<entry colname="col3"><ph conref="conrefs.dita#conrefs/moj"/> use approved</entry>
-							<entry colname="col4">Dom1 Software centre, Digital Service Desk controlled Mac - Self service, Web browser.</entry>
+							<entry colname="col4">Dom1 Software centre, <ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
 							<entry colname="col5">Internal/External</entry>
 						</row>
 						<row>
 							<entry colname="col1">Slack</entry>
 							<entry colname="col2">Text messaging, Voice/Video calls, etc.</entry>
 							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Digital Service Desk controlled Mac - Self service, Web browser.</entry>
+							<entry colname="col4"><ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
 							<entry colname="col5">Internal/External</entry>
 						</row>
 						<row>

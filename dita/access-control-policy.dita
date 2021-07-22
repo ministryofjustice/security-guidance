@@ -363,7 +363,7 @@
           <li><codeph>POLACP044:</codeph> If anyone with an <ph conref="conrefs.dita#conrefs/moj"/> account leaves the organisation,
             system administrators <ph conref="conrefs.dita#conrefs/policymust"/> retrieve the user's equipment and suspend the account.</li>
           <li><codeph>POLACP045:</codeph> If a user leaving has not returned all <ph conref="conrefs.dita#conrefs/moj"/> assets,
-            the line manager <ph conref="conrefs.dita#conrefs/policymust"/> initially contact the IT Service Desk
+            the line manager <ph conref="conrefs.dita#conrefs/policymust"/> initially contact the <ph conref="conrefs.dita#conrefs/servicedesk"/>
             via <xref href="https://mojprod.service-now.com/moj_sp" format="html" scope="external">Live Chat</xref>,
             or Telephone (0800 917 5148),
             and raise a security incident,

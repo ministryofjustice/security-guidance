@@ -143,7 +143,7 @@
         <li>Identify the root cause of excessive resource use and rectifying the issue when possible.
           If an issue cannot be rectified quickly,
           it should be reported to the system owner.</li>
-        <li>Notify the <ph conref="conrefs.dita#conrefs/moj"/>'s Technology Service Desk if there is a suspected incident (see <xref href="#incidents-and-contact-details" format="dita">below</xref> for contact details).</li>
+        <li>Notify the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/servicedesk"/> if there is a suspected incident (see <xref href="#incidents-and-contact-details" format="dita">below</xref> for contact details).</li>
       </ul></p>
     </body>
   </topic>
