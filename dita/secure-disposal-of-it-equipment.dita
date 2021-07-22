@@ -14,33 +14,12 @@
       which might have been procured and managed locally.
       It is crucial that they are disposed of in a secure manner,
       to prevent data being leaked.</p>
-    <p>To determine the correct disposal requirement,
-      use the following table to identify the correct outcome,
-      depending on the type of resources,
-      and its security classification.
-      If the table does not cover your exact requirement,
-      contact the Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/></p>
     <note importance="high">When disposing of <codeph>SECRET</codeph> or <codeph>TOP SECRET</codeph> equipment,
       materials,
       or resources,
       you <ph conref="conrefs.dita#conrefs/policyshall"/> contact the
       Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/></note>
   </body>
-  <topic id="physical-and-on-premise">
-    <title>Physical and On-Premise
-      About this guidance
-      This document is the Ministry of Justice (MoJ) IT Disposal of Equipment Guidance covering: 
-      Physical on-premise media and data. 
-      </title>
-      <body>
-        <p>Information about disposal of equipment,
-          including physical and on-premise media and data,
-          is available <xref href="secure-disposal-of-it-physical-and-on-premise.dita" format="dita">here</xref>.
-          It is intended to ensure that the confidentiality and integrity
-          of <ph conref="conrefs.dita#conrefs/moj"/> data
-          is maintained when physical hardware is decommissioned.</p>
-      </body>
-  </topic>
   <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
   <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
