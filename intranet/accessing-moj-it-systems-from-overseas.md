@@ -6,6 +6,8 @@ This guidance information applies to all staff, contractors and agency staff who
 
 As a government official travelling overseas, you should consider that you may be of interest to hostile parties regardless of your role. By following MoJ policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.
 
+Essential guidance is provided in the [overseas travel information](overseas-travel.md).
+
 In general, it is acceptable for MoJ users to access MoJ services from overseas, and to do this using their MoJ equipment. But before you travel, consider:
 
 * Do you need to take MoJ IT equipment overseas or access MoJ IT systems to do your job?

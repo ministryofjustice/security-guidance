@@ -179,7 +179,7 @@
 		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-suppliers.pdf" overwrite="true"/>
 	-->
 
-		<!-- Now build the Intranet PDF, containing just its content. -->
+		<!-- Now build the Intranet PDF, containing just its content.
 		<echo message="Build PDF: Intranet"/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance-intranet.ditamap"/>
@@ -188,6 +188,7 @@
 			<property name="transtype" value="pdf"/>
 		</ant>
 		<echo message="Intranet PDF build complete."/>
+		 -->
 
 		<!-- Now build the 'all users' guide, omitting the technical details. -->
 		<echo message="Build PDF: All users"/>
@@ -267,8 +268,9 @@
 		<delete file="build-basic.txt"/>
 	</target>
 
-	<!-- Enable epub builds for the moment. -->
-	<target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word"/>
+	<!-- Doo all the builds. -->
+	<target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub"/>
+	<!-- <target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word"/> -->
 	<!-- <target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word,compile_culture"/> -->
 	<!-- <target name="compile" depends="compile_intranet,compile_md,compile_pdf"/> -->
 
@@ -282,10 +284,13 @@
 		<copy file="${temp.file}" tofile="${docs}/${theFileName}.md" overwrite="true"/>
 	</target>
 
-	<!-- <target name="dist_local" depends="compile_intranet" -->
+	<target name="dist_local" depends="compile_md,compile_intranet"
+		description="generate minimal set to test local build">
+	<!--
 	<target name="dist_local" depends="compile_md,compile_intranet,compile_word"
-				description="generate minimal set to test local build">
-		<!-- Create the distribution directory -->
+		description="generate minimal set to test local build">
+	-->
+<!-- Create the distribution directory -->
 		<mkdir dir="${docs}"/>
 		<mkdir dir="${docs}/images"/>
 		<mkdir dir="${docs}/gs"/>

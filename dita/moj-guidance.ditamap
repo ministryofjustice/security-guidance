@@ -193,13 +193,14 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="public-sector-dns.dita" type="topic" audience="audience-tech"/>
 			<topicref href="web-check.dita" type="topic" audience="audience-tech"/>
 		</topichead>
-		<topichead audience="audience-tech">
-			<topicmeta audience="audience-tech"><navtitle>Protection from malware</navtitle></topicmeta>
+		<topichead audience="audience-basic audience-tech">
+			<topicmeta audience="audience-basic audience-tech"><navtitle>Protection from malware</navtitle></topicmeta>
 			<topicref href="malware-protection-guide-introduction.dita" type="topic" audience="audience-tech">
 				<topicref href="malware-protection-guidance-defensive-layer-1.dita" type="topic" audience="audience-tech"/>
 				<topicref href="malware-protection-guidance-defensive-layer-2.dita" type="topic" audience="audience-tech"/>
 				<topicref href="malware-protection-guidance-defensive-layer-3.dita" type="topic" audience="audience-tech"/>
 			</topicref>
+			<topicref href="ransomware.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 		<topichead audience="audience-tech">
 			<topicmeta audience="audience-tech"><navtitle>Backup</navtitle></topicmeta>
