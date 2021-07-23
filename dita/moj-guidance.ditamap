@@ -169,7 +169,7 @@ if an audience attribute is present, then only matching content is included.
 		<topicmeta><navtitle>Physical and environmental security</navtitle></topicmeta>
 		<topichead>
 			<topicmeta><navtitle>Secure areas</navtitle></topicmeta>
-			<topicref href="personal-mail-delivery.dita" type="topic"/>
+			<topicref href="personal-mail-and-parcel-delivery.dita" type="topic"/>
 			<topicref href="physical-security-policy.dita" type="topic"/>
 		</topichead>
 		<topichead>

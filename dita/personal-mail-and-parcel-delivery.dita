@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="personal-mail-delivery">
-  <title>Personal mail delivery</title>
+<topic id="personal-mail-and-parcel-delivery">
+  <title>Personal mail and parcel delivery</title>
   <body>
-    <p>This personal parcel delivery policy applies to all
+    <p>This personal mail and parcel delivery policy applies to all
       <ph conref="conrefs.dita#conrefs/mojlong"/> employees,
       contractors,
       partners and service providers,
@@ -20,7 +20,7 @@
   <topic id="objective">
     <title>Objective</title>
     <body>
-      <p>Following a review by Government Security Centre (GSCPP),
+      <p>Following a review by Government Security Centre People and Physical (GSCPP),
         it is recommended that the <ph conref="conrefs.dita#conrefs/moj"/>
         implements a policy on personal and business deliveries,
         including prohibiting personal parcel deliveries,
@@ -76,11 +76,9 @@
         and with no separate ventilation or enhanced blast resistant walls,
         any hazardous substance or explosive device would have a serious
         impact throughout the building.
-        The <ph conref="conrefs.dita#conrefs/moj"/> employs an off-site
-        mail screening company for all Royal Mail delivered to
-        102 Petty France and Clive House,
-        to mitigate against the chances of hostile mail being accepted
-        into the building.</p>
+        The <ph conref="conrefs.dita#conrefs/moj"/> employs off-site
+        mail screening to mitigate against the chances of hostile mail
+        being accepted into <ph conref="conrefs.dita#conrefs/moj"/> premises.</p>
       <p>Couriers often require a receiver to sign a Proof of Delivery document,
         stating that the parcel arrived in good condition,
         which risks the <ph conref="conrefs.dita#conrefs/moj"/>

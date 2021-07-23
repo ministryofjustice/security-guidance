@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 22 July 2021.
+**Note:** This guidance is dated: 23 July 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 22 August 2021.
+The offline versions of this guidance are time-limited, and are not valid after 23 August 2021.
 
 ### Searching this content
 
@@ -234,6 +234,7 @@ The documents have been developed and defined within this taxonomy, and are list
 
 #### Secure areas
 
+|[Personal mail and parcel delivery](personal-mail-and-parcel-delivery.md)|All users|
 |[Physical Security Policy](physical-security-policy.md)|All users|
 
 #### Equipment

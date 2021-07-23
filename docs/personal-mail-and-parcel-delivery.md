@@ -1,12 +1,12 @@
-# Personal mail delivery
+# Personal mail and parcel delivery
 
-This personal parcel delivery policy applies to all Ministry of Justice \(MoJ\) employees, contractors, partners and service providers, including those on co-located sites and sites owned by other public bodies. This also includes employees of other organisations who are based in, or work at, MoJ occupied premises.
+This personal mail and parcel delivery policy applies to all Ministry of Justice \(MoJ\) employees, contractors, partners and service providers, including those on co-located sites and sites owned by other public bodies. This also includes employees of other organisations who are based in, or work at, MoJ occupied premises.
 
 Agencies and Arms Length Bodies \(ALBs\) are expected to comply with this corporate framework but **MAY** establish their own arrangements tailored to operational needs and **SHOULD** supplement it with local policy or guidance for any business-specific risk.
 
 ## Objective
 
-Following a review by Government Security Centre \(GSCPP\), it is recommended that the MoJ implements a policy on personal and business deliveries, including prohibiting personal parcel deliveries, to MoJ buildings. This policy prohibits deliveries of personal items to MoJ buildings, to comply with HMG minimum physical standard No.10 on mail or delivery management.
+Following a review by Government Security Centre People and Physical \(GSCPP\), it is recommended that the MoJ implements a policy on personal and business deliveries, including prohibiting personal parcel deliveries, to MoJ buildings. This policy prohibits deliveries of personal items to MoJ buildings, to comply with HMG minimum physical standard No.10 on mail or delivery management.
 
 This provides MoJ employees, contractors, partners and other interested parties with a clear policy on mail deliveries, to prevent attack, damage, or interference \(malicious or otherwise\) to MoJ assets, and - most importantly - physical harm to MoJ people and the public.
 
@@ -16,7 +16,7 @@ For the purpose of this policy, personal deliveries are goods purchased over the
 
 ## Context
 
-The growth in online shopping has seen an increase in the number of personal parcels delivered to the office, as a convenient location because of onsite staff on hand to receive deliveries that would otherwise be returned to depot. However, receiving personal parcels in reception diverts staff from their core duties, and presents a significant vulnerability to the building's security: the parcel contents are unknown by reception staff. Reception areas are generally within the main fabric of a building and with no separate ventilation or enhanced blast resistant walls, any hazardous substance or explosive device would have a serious impact throughout the building. The MoJ employs an off-site mail screening company for all Royal Mail delivered to 102 Petty France and Clive House, to mitigate against the chances of hostile mail being accepted into the building.
+The growth in online shopping has seen an increase in the number of personal parcels delivered to the office, as a convenient location because of onsite staff on hand to receive deliveries that would otherwise be returned to depot. However, receiving personal parcels in reception diverts staff from their core duties, and presents a significant vulnerability to the building's security: the parcel contents are unknown by reception staff. Reception areas are generally within the main fabric of a building and with no separate ventilation or enhanced blast resistant walls, any hazardous substance or explosive device would have a serious impact throughout the building. The MoJ employs off-site mail screening to mitigate against the chances of hostile mail being accepted into MoJ premises.
 
 Couriers often require a receiver to sign a Proof of Delivery document, stating that the parcel arrived in good condition, which risks the MoJ being liable for accepting the package if contents turn out later to be damaged.
 
