@@ -84,7 +84,8 @@
     <title>Using your own equipment</title>
     <body>
       <p>The main guidance is available <xref href="personal-devices.dita" format="dita" platform="github">here</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/using-a-personal-device/" format="html" scope="external" platform="intranet">here</xref>.</p>
-      <p>Wherever possible, you should always use official <ph conref="conrefs.dita#conrefs/moj"/> equipment for business purposes. Never send work material to your personal email accounts.</p>
+      <p>Wherever possible, you should always use official <ph conref="conrefs.dita#conrefs/moj"/> equipment for business purposes.</p>
+      <p>Never send work material to your personal devices or email accounts.</p>
       <p>If you are working remotely, or do not have access to <ph conref="conrefs.dita#conrefs/moj"/> equipment, it might be tempting to use your own equipment, especially printers. The advice is to avoid printing anything, and in particular not to use personal printers.</p>
       <p>However, if you really must print <ph conref="conrefs.dita#conrefs/moj"/> information, you:</p>
       <ul>

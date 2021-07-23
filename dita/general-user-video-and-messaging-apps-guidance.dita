@@ -48,7 +48,9 @@
 				<li>A work account is your normal <ph conref="conrefs.dita#conrefs/moj"/> account, that you use every day for business as usual.
 				Only you have access to your work account.</li>
 				<li>A personal account is your own personal account on gmail, hotmail, yahoo, and so on.
-					You should never use a personal account for business purposes.</li>
+					You should never use a personal account for business purposes.
+					To be clear:
+					never send work material to your personal device or your personal email account.</li>
 			</ul>
 			<p>Some of the applications listed make a distinction between general use with a work account, and use with a corporate account.
 				Using a tool with a corporate account means you are providing views or statements on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>.
@@ -132,6 +134,7 @@
 					The <ph conref="conrefs.dita#conrefs/moj"/> trusts you to work with <codeph>OFFICIAL</codeph> information.
 					You're trusted to make a reasoned judgement about whether it's safe to use an approved tool,
 					or whether you should use a different <ph conref="conrefs.dita#conrefs/moj"/>-provided work tool.</p>
+				<p>Never send work material to your personal devices or email accounts.</p>
 				<p>Remember that it is impossible to delete information after it's released in public.</p>
 				<p>For more information about <ph conref="conrefs.dita#conrefs/moj"/> IT Security,
 				look on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external">here</xref>.</p>
@@ -175,7 +178,8 @@
 	<topic id="acceptable-use">
 		<title>Acceptable Use</title>
 		<body>
-			<p>You must use communications tools for business purposes in an acceptable way.</p>
+			<p>You must use communications tools for business purposes in an
+				<xref href="acceptable-use.dita" format="dita">acceptable way</xref>.</p>
 			<p>Be sensible when using communications tools for <ph conref="conrefs.dita#conrefs/moj"/> business purposes:</p>
 			<ul>
 				<li>Be extra careful with sensitive and personal information in tools.</li>
@@ -186,7 +190,7 @@
 			</ul>
 			<p>The bottom line is:
 				<lq platform="github">If there is doubt, there is no doubt - ask for help!</lq>
-				<ph platform="intranet">if there is doubt, there is no doubt - ask for help!</ph>
+				<ph platform="intranet">If there is doubt, there is no doubt - ask for help!</ph>
 			</p>
 		</body>
 	</topic>

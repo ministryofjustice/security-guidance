@@ -45,6 +45,7 @@ There are many unacceptable uses of IT, making it impossible to provide a comple
 -   Excessive private use during working time.
 -   Installing unlicensed or unauthorised software.
 -   Redirecting print jobs from MoJ printers to a personal printer.
+-   Sending work material to personal devices or email accounts.
 
 ## Why unacceptable use is a problem
 

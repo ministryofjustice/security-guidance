@@ -25,7 +25,7 @@ For other MoJ provided devices, seek help from your Line Manager in the first in
 
 -   A corporate account is for making official MoJ statements and providing official views. Only a small number of authorised people can use it.
 -   A work account is your normal MoJ account, that you use every day for business as usual. Only you have access to your work account.
--   A personal account is your own personal account on gmail, hotmail, yahoo, and so on. You should never use a personal account for business purposes.
+-   A personal account is your own personal account on gmail, hotmail, yahoo, and so on. You should never use a personal account for business purposes. To be clear: never send work material to your personal device or your personal email account.
 
 Some of the applications listed make a distinction between general use with a work account, and use with a corporate account. Using a tool with a corporate account means you are providing views or statements on behalf of the MoJ. Never use a personal account for business purposes with any tool.
 
@@ -79,6 +79,8 @@ Think about the MoJ information you work with when using these tools. What would
 
 You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is [Principle 2](https://www.gov.uk/government/publications/government-security-classifications) of the Government Security Classifications. The MoJ trusts you to work with `OFFICIAL` information. You're trusted to make a reasoned judgement about whether it's safe to use an approved tool, or whether you should use a different MoJ-provided work tool.
 
+Never send work material to your personal devices or email accounts.
+
 Remember that it is impossible to delete information after it's released in public.
 
 For more information about MoJ IT Security, look on the MoJ Intranet [here](https://intranet.justice.gov.uk/guidance/security/).
@@ -105,7 +107,7 @@ For more guidance, read the [Information Management](https://intranet.justice.go
 
 ## Acceptable Use
 
-You must use communications tools for business purposes in an acceptable way.
+You must use communications tools for business purposes in an [acceptable way](acceptable-use.md).
 
 Be sensible when using communications tools for MoJ business purposes:
 

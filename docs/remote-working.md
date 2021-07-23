@@ -61,7 +61,9 @@ Even when working remotely, you must still follow the security policies and oper
 
 The main guidance is available [here](personal-devices.md).
 
-Wherever possible, you should always use official MoJ equipment for business purposes. Never send work material to your personal email accounts.
+Wherever possible, you should always use official MoJ equipment for business purposes.
+
+Never send work material to your personal devices or email accounts.
 
 If you are working remotely, or do not have access to MoJ equipment, it might be tempting to use your own equipment, especially printers. The advice is to avoid printing anything, and in particular not to use personal printers.
 
