@@ -12,7 +12,7 @@ This guide identifies the security controls that must be implemented at the doma
 
 SPF is verified by checking a specific `TXT` DNS entry in emails. Emails are flagged if they are not sent from the domains and IP addresses published in the DNS record.
 
-The Ministry of Justice \(MoJ\) enforces SPF controls to help users spot spoofed or unknown email addresses. Suspicious emails are sent directly to the “spam” folder, instead of to the user's inbox.
+The Ministry of Justice \(MoJ\) enforces SPF controls to help users spot spoofed or unknown email addresses. Suspicious emails are sent directly to the "spam" folder, instead of to the user's inbox.
 
 When creating an SPF record in the public DNS, use all the IP addresses or address ranges from which an email might be sent. You can use both IPv4 and IPv6 addresses. An SPF record could look like the following:
 
@@ -39,7 +39,7 @@ To correct SPF failures, add the sending systems you use to your SPF record. Do 
 
 [Domain Keys Identified Mail \(DKIM\)](https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail) should be enabled for all MoJ email domains. DKIM enables automatic filtering or rejection of emails that fail DKIM verification.
 
--   DKIM can verify a sender domain by looking up the sender's public key published in the DNS. You can then determine if an email has been tampered with during transit, for example during a “Man-In-The-Middle” attack.
+-   DKIM can verify a sender domain by looking up the sender's public key published in the DNS. You can then determine if an email has been tampered with during transit, for example during a "Man-In-The-Middle" attack.
 -   A valid digital signature provides assurance that the hashed content has not been modified since the signature was affixed to the email message.
 -   The MoJ enforces DKIM controls to help users identify communication tampering attacks by sending the messages directly to the spam folder, instead of to the user Inbox.
 -   DKIM **SHALL** be used across the MoJ, including by executive agencies and ALBs.

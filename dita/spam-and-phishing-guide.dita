@@ -76,17 +76,17 @@
           The reports provide visibility of potential abuse.</li>
           <li>If you have an <codeph>A</codeph> record on your domain,
           but no <codeph>MX</codeph> records,
-          create a <q>null</q> <codeph>MX</codeph> record that immediately fails
+          create a "null" <codeph>MX</codeph> record that immediately fails
           any email to the parked domain.
           Give the <codeph>MX</codeph> record the highest priority
           (<codeph>0</codeph>).</li>
         </ol>
       </p>
-      <p>A <q>null</q> DKIM record is not required.
+      <p>A "null" DKIM record is not required.
       This is because email will be treated the same as if it had no record at
       all.
       However,
-      recipients might treat a <q>null</q> DKIM record with extra caution,
+      recipients might treat a "null" DKIM record with extra caution,
       as it explicitly revokes any keys that might be cached.</p>
       <p>Some interfaces might not allow you to implement all these steps.
         Implement as many as possible.</p>

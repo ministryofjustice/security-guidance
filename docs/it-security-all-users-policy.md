@@ -6,7 +6,7 @@
 
 This policy provides more information on the actions expected of all Ministry of Justice \(MoJ\) users when using MoJ equipment and infrastructure. It is a sub-page to the [IT Security Policy Overview](it-security-policy-overview.md).
 
-**Note:** In this document, the terms “data” and “information” are used interchangeably.
+**Note:** In this document, the terms "data" and "information" are used interchangeably.
 
 ## Who is this for?
 
@@ -25,7 +25,7 @@ This policy is aimed at three audiences:
     All other staff working for the MoJ.
 
 
-Within this policy, “all MoJ users” refers to General users, Technical users, and Service Providers as defined above.
+Within this policy, "all MoJ users" refers to General users, Technical users, and Service Providers as defined above.
 
 ## Approach
 
@@ -75,7 +75,7 @@ Further information on physical and personnel security is available from MoJGrou
 
 The MoJ [Access Control Guide](access-control-guide.md) ensures that information and IT assets can be accessed only by authorised personnel, and that each individual is accountable for their actions.
 
-The guide outlines the controls and processes designed to limit access based on a “need to know” basis, and according to defined roles and responsibilities.
+The guide outlines the controls and processes designed to limit access based on a "need to know" basis, and according to defined roles and responsibilities.
 
 The MoJ [Access Control Guide](access-control-guide.md) addresses access control principles such as identification, authentication, authorisation, and accounting.
 

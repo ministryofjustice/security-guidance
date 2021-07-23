@@ -26,7 +26,7 @@ This policy is aimed at three audiences:
     All other staff working for the MoJ.
 
 
-Within this policy, “all MoJ users” refers to General users, Technical users, and Service Providers as defined above.
+Within this policy, "all MoJ users" refers to General users, Technical users, and Service Providers as defined above.
 
 ## Associated documentation
 

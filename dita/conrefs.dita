@@ -49,9 +49,9 @@
 			<ph id="ostemail"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
 			<ph id="ostemailtext"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">Operational Security Team</xref></ph>
 			<ph id="policyterms">In policy documents,
-			formal terms such as <q><ph conref="#conrefs/policyshall"/></q>,
-			or <q><ph conref="#conrefs/policyshould"/></q>,
-			are as defined in the UK Government <q>Orange Book</q>
+			formal terms such as "<ph conref="#conrefs/policyshall"/>",
+			or "<ph conref="#conrefs/policyshould"/>",
+			are as defined in the UK Government "Orange Book"
 			<xref href="https://www.gov.uk/government/publications/orange-book" format="html" scope="external">Management of Risk - Principles and Concepts</xref>.</ph>
 			<ph id="policycan"><b>CAN</b></ph>
 			<ph id="policycannot"><b>CAN NOT</b></ph>
@@ -337,7 +337,7 @@
 				and whether there are any Data Privacy implications.
 				The security team will respond to you with an answer as quickly as possible.</p>
 			<note>You should submit the request,
-				and wait for a formal <q platform="github">approval</q><ph platform="intranet">approval</ph> response,
+				and wait for a formal "approval" response,
 				<i>before</i> you install or use the app on  <ph conref="#conrefs/moj"/> equipment or information.</note>
 			<p>If you have any questions about the process,
 				contact the security team: <ph conref="#conrefs/securityemail"/>.</p>

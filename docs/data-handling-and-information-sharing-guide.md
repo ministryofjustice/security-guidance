@@ -43,7 +43,7 @@ This section covers how data **SHALL** be handled on MoJ IT systems, this includ
 -   Data in transit.
 -   Data at rest.
 
-For the purposes of this guide, the term “sensitive” data or information refers to data or information which attracts a handling caveat of `SENSITIVE`. See the [Information Classification and Handling Policy](information-classification-and-handling-policy.md) for further details.
+For the purposes of this guide, the term "sensitive" data or information refers to data or information which attracts a handling caveat of `SENSITIVE`. See the [Information Classification and Handling Policy](information-classification-and-handling-policy.md) for further details.
 
 ### Ownership of information
 
@@ -65,7 +65,7 @@ Data **SHALL** be stored only on managed accredited networks, with transfers ont
 
 #### Data in transit
 
-The term “data in transit” covers all electronic moves or transfers of data from one IT system to another, where either the sender or the recipient system is an MoJ IT system. This includes the electronic movement of data using either a system-to-system connection such as CJSE, or removable media such as a [USB mass storage device](#usb-mass-storage-device).
+The term "data in transit" covers all electronic moves or transfers of data from one IT system to another, where either the sender or the recipient system is an MoJ IT system. This includes the electronic movement of data using either a system-to-system connection such as CJSE, or removable media such as a [USB mass storage device](#usb-mass-storage-device).
 
 ##### Secure network \(system-to-system electronic transfer\)
 
@@ -75,7 +75,7 @@ As these networks can support data up to and including `OFFICIAL-SENSITIVE`, a b
 
 -   The amount of data being transferred.
 -   Frequency.
--   Any “need-to-know” considerations. See the [Access Control Guide](access-control-guide.md) for further information.
+-   Any "need-to-know" considerations. See the [Access Control Guide](access-control-guide.md) for further information.
 
 Any additional controls **SHALL** be captured on the DMF \(see [Data Movement Form](#data-movement-form-dmf), where advice should be obtained from the MoJ Chief Information Security Office \(CISO\) when required.
 
@@ -93,7 +93,7 @@ The use of optical media \(i.e. CD/DVD\) is not recommended for data transfer.
 
 #### Data at rest on MoJ-issued laptops
 
-“Data at rest” is a term used to refer to all data in computer storage. This excludes data that is traversing a network, or temporarily residing in computer memory to be read or updated. The protection of data at rest is achieved by encrypting the hard disk. MoJ-issued laptops use an approved whole disk encryption product. This allows data to be safely stored.
+"Data at rest" is a term used to refer to all data in computer storage. This excludes data that is traversing a network, or temporarily residing in computer memory to be read or updated. The protection of data at rest is achieved by encrypting the hard disk. MoJ-issued laptops use an approved whole disk encryption product. This allows data to be safely stored.
 
 #### Disposal and decommissioning
 
@@ -167,7 +167,7 @@ Ideally, both sender and recipient should check the integrity of data before and
 
 Where there is a business requirement to do so, sensitive information may be shared with a 3rd party using a commercial grade encryption product such as SecureZip. Further information on the use of SecureZip can be found in [Using SecureZIP](#using-securezip).
 
-**Note:** File encryption does not protect the name of the file. This could reveal clues as to the nature and importance of the encrypted data. Encrypted files should be given innocuous names for transmission. If the data is contained in numerous small files, these should be collected together into a single archive \(“zip”\) file. This archive should then be encrypted. Each file or archive should be sent separately, rather than attaching multiple encrypted files to a single e-mail.
+**Note:** File encryption does not protect the name of the file. This could reveal clues as to the nature and importance of the encrypted data. Encrypted files should be given innocuous names for transmission. If the data is contained in numerous small files, these should be collected together into a single archive \("zip"\) file. This archive should then be encrypted. Each file or archive should be sent separately, rather than attaching multiple encrypted files to a single e-mail.
 
 #### Sharing information above `OFFICIAL`
 
@@ -183,15 +183,15 @@ Failure to fulfil or comply with the controls and measures identified within the
 
 A DMF **SHALL** be completed, and approval received from the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk), for the following scenarios:
 
--   Data is being moved or shared by using a physical storage device to transfer the information. An example is where you use a “memory stick”, a USB drive, a storage array, or some other removable media. The DMF in this scenario focuses on the data being moved or shared.
+-   Data is being moved or shared by using a physical storage device to transfer the information. An example is where you use a "memory stick", a USB drive, a storage array, or some other removable media. The DMF in this scenario focuses on the data being moved or shared.
 -   Data is being moved or shared by electronic \(network\) communication, where the movement is from an MoJ IT system to an external party. An example is using secure file transfer or approved email to transfer the information. The DMF in this scenario focuses on the data being moved or shared.
--   An asset \(a “data bearing asset”\) is being moved to, or transported by, an external party. This might be as a result of an office move, or because the asset is being decommissioned. The asset might contain or process MoJ information. Examples of data bearing assets include laptops, servers, multi-functional devices, and any other data bearing peripherals. The DMF in this scenario focuses on the asset being moved or transported, rather than the MoJ information that the asset might contain or process.
+-   An asset \(a "data bearing asset"\) is being moved to, or transported by, an external party. This might be as a result of an office move, or because the asset is being decommissioned. The asset might contain or process MoJ information. Examples of data bearing assets include laptops, servers, multi-functional devices, and any other data bearing peripherals. The DMF in this scenario focuses on the asset being moved or transported, rather than the MoJ information that the asset might contain or process.
 
 A DMF **SHALL** be submitted to the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) for information purposes, in the following scenarios:
 
 -   Data is being moved or shared by electronic \(network\) communication, where the movement is entirely within or between MoJ IT systems.
 -   Data is being moved in full compliance with the already-approved service design and operation specification and procedures.
--   An asset \(a “data bearing asset”\) is being moved but remains within the MoJ or its supplier-provided and MoJ-approved facilities at all times.
+-   An asset \(a "data bearing asset"\) is being moved but remains within the MoJ or its supplier-provided and MoJ-approved facilities at all times.
 
 **Note:** In the informational scenarios, a DMF is only expected the first time a data movement or sharing takes place. Subsequent, repeat instances of the movement or sharing, do not require a re-submission of the DMF. For example, when setting up a backup process as part of an approved service design, a DMF is created and submitted to the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) for information purposes, but does not need to be re-created or re-submitted for each backup occurrence. If the implementation or process for the data movement or sharing changes, for example a new new backup technology or process is deployed, then a fresh informational DMF is required.
 
@@ -201,7 +201,7 @@ In any case of doubt, it is always advisable to complete a DMF and await approva
 
 SecureZip is a compression and encryption product which can be used to encrypt sensitive data for use in removable media and e-mail based information transfers.
 
-**Note:** SecureZip can produce “self-extracting” encrypted files that are executable programs which are likely to be blocked by network firewalls or e-mail content checkers.
+**Note:** SecureZip can produce "self-extracting" encrypted files that are executable programs which are likely to be blocked by network firewalls or e-mail content checkers.
 
 The general rules for transmitting a password to a recipient are:
 

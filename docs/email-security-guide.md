@@ -18,7 +18,7 @@ This guide is aimed at two audiences:
 -   The in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration, and operation. This includes DevOps, Software Developers, Technical Architects, and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI, and Knowledge \(EPICK\) Team.
 -   Any other MoJ business group, agency, contractor, IT supplier, or partner who in any way designs, develops, or supplies services \(including processing, transmitting, and storing data\) for, or on behalf of, the MoJ.
 
-These audiences are referred to as “technical users”.
+These audiences are referred to as "technical users".
 
 ## Roles and responsibilities
 

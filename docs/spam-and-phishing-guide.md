@@ -30,9 +30,9 @@ If you are a domain owner, to protect a parked domain follow these steps:
 
 1.  Create an SPF record with no permitted senders. This means that no IP address is authorised to send email for the parked domain.
 2.  Include an `RUA` address. Aggregate reports can be sent to this address. The reports provide visibility of potential abuse.
-3.  If you have an `A` record on your domain, but no `MX` records, create a “null” `MX` record that immediately fails any email to the parked domain. Give the `MX` record the highest priority \(`0`\).
+3.  If you have an `A` record on your domain, but no `MX` records, create a "null" `MX` record that immediately fails any email to the parked domain. Give the `MX` record the highest priority \(`0`\).
 
-A “null” DKIM record is not required. This is because email will be treated the same as if it had no record at all. However, recipients might treat a “null” DKIM record with extra caution, as it explicitly revokes any keys that might be cached.
+A "null" DKIM record is not required. This is because email will be treated the same as if it had no record at all. However, recipients might treat a "null" DKIM record with extra caution, as it explicitly revokes any keys that might be cached.
 
 Some interfaces might not allow you to implement all these steps. Implement as many as possible.
 

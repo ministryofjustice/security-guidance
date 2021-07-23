@@ -15,7 +15,7 @@ Account lockouts must be implemented within MoJ systems for the following reason
 
 -   **Failure to change passwords within the allocated time.**
 
-    Systems must have a “change password” function to recover the account or contact information for the IT Service Desk.
+    Systems must have a "change password" function to recover the account or contact information for the IT Service Desk.
 
 -   **Unsuccessful connection attempts.**
 

@@ -32,7 +32,7 @@ The following table shows when you might use a password manager or vault:
 
 The NCSC is [very clear](https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers):
 
--   “Should I use a password manager? Yes. Password managers are a good thing.”
+-   "Should I use a password manager? Yes. Password managers are a good thing."
 
 This is helpful for us in the MoJ, as much of our IT Policy and guidance derives from NCSC best practices.
 
@@ -40,7 +40,7 @@ This is helpful for us in the MoJ, as much of our IT Policy and guidance derives
 
 A password manager should never store passwords in an unencrypted form. This means that keeping a list of passwords in a simple text file using Notepad would be A Bad Thing.
 
-Good password managers encrypt the passwords in a file using strong encryption. It shouldn't matter where you store the encrypted file. Storing the list “in the cloud” lets your password manager access the data from any device. This is useful if you are logging in from a laptop, or a mobile device. Storing the passwords locally means the password manager works even when offline.
+Good password managers encrypt the passwords in a file using strong encryption. It shouldn't matter where you store the encrypted file. Storing the list "in the cloud" lets your password manager access the data from any device. This is useful if you are logging in from a laptop, or a mobile device. Storing the passwords locally means the password manager works even when offline.
 
 A good password manager will have:
 
@@ -56,7 +56,7 @@ In the [NCSC article](https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-pas
 
 There are several password managers used within the MoJ. [LastPass](https://www.lastpass.com/) and [1Password](https://1password.com/) are probably the most popular for personal or team passwords. Example password vaults would be Hashicorp Vault, Kubernetes Secrets or AWS Key Management.
 
-For individual use, have a look at LastPass and 1Password. See which one you like best, and try it out. When you decide on a password manager, request approval from your line manager to install and use it: “I'm planning to install and use XYZ to manage my passwords, is that OK?”.
+For individual use, have a look at LastPass and 1Password. See which one you like best, and try it out. When you decide on a password manager, request approval from your line manager to install and use it: "I'm planning to install and use XYZ to manage my passwords, is that OK?".
 
 See also [Using LastPass Enterprise](using-lastpass.md).
 

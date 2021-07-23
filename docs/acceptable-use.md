@@ -20,7 +20,7 @@ The way you use IT is important, because it indicates your approach to work, and
 
 ## What is meant by IT?
 
-IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices \(such as laptops, 'phones, mobile Wi-Fi hotspots \(MiFi\), iPads, tablets, printers, USB “memory sticks”\) through to online services \(citizen-facing online services, staff tools, corporate email\).
+IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices \(such as laptops, 'phones, mobile Wi-Fi hotspots \(MiFi\), iPads, tablets, printers, USB "memory sticks"\) through to online services \(citizen-facing online services, staff tools, corporate email\).
 
 ## Acceptable use of MoJ IT
 
@@ -41,11 +41,11 @@ There are many unacceptable uses of IT, making it impossible to provide a comple
 -   Storing sensitive information where it could easily be lost or stolen.
 -   Using unapproved tools or processes to store sensitive information, such as passwords or credit card details.
 -   Using your work email address for personal tasks.
--   Using a personal account or personal email address for work tasks.
+-   Using your personal devices or your personal email address for work tasks.
 -   Excessive private use during working time.
 -   Installing unlicensed or unauthorised software.
 -   Redirecting print jobs from MoJ printers to a personal printer.
--   Sending work material to personal devices or email accounts.
+-   Sending your work material to your personal devices or your personal email accounts. \(It is of course acceptable and necessary from time-to-time to send work material to someone else's email address when they are directly involved with that work, for example someone in the Office of the Public Guardian \(OPG\) emailing someone regarding Lasting Power of Attorney \(LPA\).\)
 
 ## Why unacceptable use is a problem
 
@@ -98,9 +98,9 @@ Examples of unacceptable MoJ mobile phone use include:
 -   Making charitable donations from the mobile phone account.
 -   Signing up for premium rate text services.
 -   Calling premium rate telephone services.
--   Voting in “reality TV” popularity contests - these usually involve premium rate services.
+-   Voting in "reality TV" popularity contests - these usually involve premium rate services.
 -   Downloading, uploading, or streaming media files that are not work-related, such as music or movies.
--   “Tethering” another device to the MoJ mobile phone, and then using the other device for any of the above activities.
+-   "Tethering" another device to the MoJ mobile phone, and then using the other device for any of the above activities.
 
 ... as well as any other activities that are not obviously work-related.
 

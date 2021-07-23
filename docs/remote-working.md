@@ -44,7 +44,7 @@ Remote working is when you work from any non-MoJ location, for example, working 
 -   Work on sensitive information in public spaces, or where your equipment can be overlooked by others.
 -   Advertise the fact that you work with MoJ materials.
 -   Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.
--   Send work material to your personal email address.
+-   Send your work material to your personal devices or your personal email address.
 -   Redirect print jobs from MoJ printers to a personal printer.
 
 ## Working securely
@@ -63,9 +63,11 @@ The main guidance is available [here](personal-devices.md).
 
 Wherever possible, you should always use official MoJ equipment for business purposes.
 
-Never send work material to your personal devices or email accounts.
+Never send your work material to your personal devices or your email accounts.
 
-If you are working remotely, or do not have access to MoJ equipment, it might be tempting to use your own equipment, especially printers. The advice is to avoid printing anything, and in particular not to use personal printers.
+If you are working remotely, or do not have access to MoJ equipment, it might be tempting to use your own equipment, especially printers. Avoid doing this.
+
+The advice is to avoid printing anything, and in particular not to use personal printers.
 
 However, if you really must print MoJ information, you:
 

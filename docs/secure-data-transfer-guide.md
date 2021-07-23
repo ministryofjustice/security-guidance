@@ -14,7 +14,7 @@ This policy is aimed at three audiences:
 2.  **Service Providers**: defined as any other MoJ business group, agency, contractor, IT supplier, or partner who in any way designs, develops, or supplies services \(including processing, transmitting, storing data\) for, or on behalf of, the MoJ.
 3.  **General users**: all other staff working for the MoJ.
 
-The phrase “all MoJ users” refers to General users, Technical users, and Service Providers as defined previously.
+The phrase "all MoJ users" refers to General users, Technical users, and Service Providers as defined previously.
 
 ## Transfer Considerations
 

@@ -56,7 +56,7 @@
         <li><b>General users</b>: all other staff working for the
         <ph conref="conrefs.dita#conrefs/moj"/>.</li>
       </ol></p>
-      <p>The phrase <q>all <ph conref="conrefs.dita#conrefs/moj"/> users</q>
+      <p>The phrase "all <ph conref="conrefs.dita#conrefs/moj"/> users"
       refers to General users,
       Technical users,
       and Service Providers as defined previously.</p>

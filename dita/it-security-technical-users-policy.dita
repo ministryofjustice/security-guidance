@@ -84,7 +84,7 @@
     <body>
       <p>Cryptography is a method of securing information and communication channels to allow only authorised recipients and personnel to view the information.
         The <ph conref="conrefs.dita#conrefs/moj"/>'s IT systems must use cryptographic technologies to provide secure connections to third party systems
-        or protect information <q>at rest</q> on user devices, including laptops and mobiles.</p>
+        or protect information "at rest" on user devices, including laptops and mobiles.</p>
       <p>However,
         where staff have procured key material or hardware through the United Kingdom Key Production Authority (UKKPA)
         or any other cryptographic items where National Cyber Security Centre (NCSC) dictate that national cryptographic policy applies,

@@ -99,7 +99,7 @@
 					<li>When you were last active.</li>
 					<li>Any status updates.</li>
 					<li>Whether you have read direct messages
-						(<q platform="github">Read Receipts</q><ph platform="intranet">Read Receipts</ph>).</li>
+						("Read Receipts").</li>
 					<li>Whether others can add you to their groups,
 						possibly without your knowledge or agreement.</li>
 				</ul>

@@ -43,7 +43,7 @@ To help you decide if you can use an OIT to work on an MoJ task, consider the fo
 -   are you prevented from exporting all the data from the tool?
 -   are you prevented from deleting all the data from the tool when you finish working on the task?
 
-If the answer to *any* of these questions is “Yes”, you might not be able to use the OIT.
+If the answer to *any* of these questions is "Yes", you might not be able to use the OIT.
 
 When you have all the answers, request formal approval to use the OIT from your [Line Manager](line-manager-approval.md). Do this *before* using the OIT.
 
@@ -100,7 +100,7 @@ Complying with personal information requirements can be complex. Don't hesitate 
 
 An OIT can only store or process information [classified](https://www.gov.uk/government/publications/government-security-classifications) at `OFFICIAL` level.
 
-Think about the MoJ information you work with. What would happen if you lost it, or it's stolen, or published in the media? Suppose the information was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is “No”, then it's probably OK to use OITs to store or send that information.
+Think about the MoJ information you work with. What would happen if you lost it, or it's stolen, or published in the media? Suppose the information was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is "No", then it's probably OK to use OITs to store or send that information.
 
 Think also about information moving across the Internet. The data might be safe within the MoJ and in an approved OIT. But what about the connection between the two? Sending information might involve insecure networks. Be aware of the security implications. Check that enough suitable security measures are in place to protect the information. For example, check for encryption of network connections using [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security). A simple way to do this is to look for the secure connection indicator in your web browser:
 
@@ -156,7 +156,7 @@ Begin the request by filling in the [Request a Security Review of a third-party 
 
 When you submit the form, it is passed to the security team. The app is reviewed, to check things like how safe it is to use, and whether there are any Data Privacy implications. The security team will respond to you with an answer as quickly as possible.
 
-**Note:** You should submit the request, and wait for a formal “approval” response, *before* you install or use the app on MoJ equipment or information.
+**Note:** You should submit the request, and wait for a formal "approval" response, *before* you install or use the app on MoJ equipment or information.
 
 If you have any questions about the process, contact the security team: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
