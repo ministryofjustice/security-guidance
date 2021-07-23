@@ -3,7 +3,7 @@
 <topic id="official-official-sensitive">
   <title><codeph>OFFICIAL</codeph>, <codeph>OFFICIAL-SENSITIVE</codeph></title>
   <body>
-    <p platform="github">This information is based upon guidance for handling <xref href="https://www.gov.uk/guidance/official-sensitive-data-and-it" format="html" scope="external"><codeph>OFFICIAL-SENSITIVE</codeph> data and IT</xref>.</p>
+    <p>This information is based upon guidance for handling <xref href="https://www.gov.uk/guidance/official-sensitive-data-and-it" format="html" scope="external"><codeph>OFFICIAL-SENSITIVE</codeph> data and IT</xref>.</p>
   </body>
   <topic id="official">
     <title><codeph>OFFICIAL</codeph></title>
@@ -16,7 +16,33 @@
     <body>
       <p><codeph>OFFICIAL-SENSITIVE</codeph> is <b>not</b> a classification. <codeph>SENSITIVE</codeph> is a handling caveat for a small subset of information marked <codeph>OFFICIAL</codeph> that require <i>special</i> handling by staff above and beyond the described <codeph>OFFICIAL</codeph> baseline.</p>
       <p>The <codeph>SENSITIVE</codeph> handling caveat is a <i>reminder</i> as opposed to a requirement for additional controls nor a description of a minimum set of controls.</p>
-      <p platform="intranet">Guidance on handling <xref href="https://www.gov.uk/guidance/official-sensitive-data-and-it" format="html" scope="external"><codeph>OFFICIAL-SENSITIVE</codeph> data and IT</xref>.</p>
+      <p>When dealing with <codeph>OFFICIAL-SENSITIVE</codeph> material,
+        it is important to consider context.</p>
+      <p>For example,
+        as part of a business task,
+        you might be working on some information that contains personal data about an individual,
+        such as the address of a Domestic Violence victim.
+        The presence of the personal data makes it likely that the information should be handled more carefully,
+        to ensure that only people or systems who need to use the information can do so.
+        To remind people and systems that the information needs extra careful handling,
+      the <codeph>SENSITIVE</codeph> handling caveat would be added.</p>
+      <p>But context also applies.
+        For example,
+        information with a <codeph>SENSITIVE</codeph> handling caveat should not normally be emailed to a group email address,
+        or a personal email address.
+        The reason is simple:
+        you can't be certain that everyone with access to the group email address needs access to the information.
+        Similarly,
+        emailing to a personal email address means that the information is moving outside the <ph conref="conrefs.dita#conrefs/mojlong"/>,
+        so again,
+        you cannot be certain who might have access to the information.
+        However,
+        if the information is being shared with the person it applies to,
+        then it might be necessary to send that information to a personal email address.</p>
+      <p>In thinking about context,
+        ensure that you can show you have considered whether the need to handle
+        the information carefully will be maintained and assured by all recipients,
+        to comply with the <codeph>SENSITIVE</codeph> handling caveat.</p>
     </body>
     <topic id="descriptors">
       <title>DESCRIPTORS</title>

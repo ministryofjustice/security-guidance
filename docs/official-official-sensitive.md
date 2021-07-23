@@ -12,6 +12,14 @@ This information is based upon guidance for handling [`OFFICIAL-SENSITIVE` data 
 
 The `SENSITIVE` handling caveat is a *reminder* as opposed to a requirement for additional controls nor a description of a minimum set of controls.
 
+When dealing with `OFFICIAL-SENSITIVE` material, it is important to consider context.
+
+For example, as part of a business task, you might be working on some information that contains personal data about an individual, such as the address of a Domestic Violence victim. The presence of the personal data makes it likely that the information should be handled more carefully, to ensure that only people or systems who need to use the information can do so. To remind people and systems that the information needs extra careful handling, the `SENSITIVE` handling caveat would be added.
+
+But context also applies. For example, information with a `SENSITIVE` handling caveat should not normally be emailed to a group email address, or a personal email address. The reason is simple: you can't be certain that everyone with access to the group email address needs access to the information. Similarly, emailing to a personal email address means that the information is moving outside the Ministry of Justice \(MoJ\), so again, you cannot be certain who might have access to the information. However, if the information is being shared with the person it applies to, then it might be necessary to send that information to a personal email address.
+
+In thinking about context, ensure that you can show you have considered whether the need to handle the information carefully will be maintained and assured by all recipients, to comply with the `SENSITIVE` handling caveat.
+
 ### DESCRIPTORS
 
 Descriptors *can* be applied \(but they do not need to be\) to help identify certain categories of `SENSITIVE` information.
