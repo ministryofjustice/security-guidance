@@ -130,8 +130,7 @@
               and then apply a destructive procedure that prevents the disk from turning.
               For example,
               punch holes into the platters,
-              or twist or bend them.
-              <ph conref="conrefs.dita#conrefs/tablenote"/> This includes data centre disk drives.</entry>
+              or twist or bend them.</entry>
           </row>
           <row>
             <entry colname="col1">Magnetic tapes and floppy disks
@@ -213,14 +212,14 @@
             <li>A witness in attendance to sign a destruction certificate that is be stored in a secure space or network share.</li>
           </ol></li>
           </ol></p>
-          <note><p>An alternative to the above steps is to use a leading enterprise erasure tool that provides a certificate aligned to
+          <note>An alternative to the above steps is to use a leading enterprise erasure tool that provides a certificate aligned to
             <xref href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-88r1.pdf"
             format="pdf" scope="external">NIST 800-88 Guidelines for Media Sanitization</xref>.
             Such a tool verifies:
             <ol>
               <li>When the physical media was destroyed.</li>
               <li>That verification was performed.</li>
-            </ol></p>
+            </ol>
             <p>If you are based in a London HQ site
               the Accommodation Team coordinates bulk secure disposal;
               please contact them in the first instance.</p>
