@@ -176,13 +176,13 @@ When preparing devices or services for first use, system developers or system ad
 
 [Multi-factor Authentication \(MFA\)](https://en.wikipedia.org/wiki/Multi-factor_authentication) provides extra security for login and access controls. MFA is also referred to as Two-Factor Authentication or 2FA.
 
-Use MFA in systems for privileged or important step confirmation. For example, the user **SHOULD** enter their MFA code when deleting a record.
+When performing a privileged action, such as installing or reconfiguring a system, or changing critical or sensitive details, it is important that the user is correctly and reliably authenticated. This is best done by using MFA. For example, before deleting a database configuration, MFA **SHOULD** have been completed successfully during the authentication process, to confirm that the user is indeed who they claim to be, and that they are indeed authorised to perform that privileged task.
 
-Follow the [NCSC guidance](https://www.ncsc.gov.uk/guidance/multi-factor-authentication-online-services) for enabling MFA.
+In general, follow the [NCSC guidance](https://www.ncsc.gov.uk/guidance/multi-factor-authentication-online-services) for enabling MFA.
 
-Use [Time-based One-Time Password Algorithm \(TOTP\)](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm) or hardware and software tokens. If possible, avoid using SMS or email messages containing one-time login codes. If TOTP applications, or hardware- or software-based tokens, are not available to you, then SMS MFA or email MFA is still better than no MFA.
+Use [Time-based One-Time Password Algorithm \(TOTP\)](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm), or hardware and software tokens, as the preferred MFA mechanisms. If possible, avoid using SMS or email messages containing one-time login codes. If TOTP applications, or hardware- or software-based tokens, are not available to you, then SMS MFA or email MFA is still better than no MFA.
 
-Systems **SHALL** offer MFA alternatives to users where they are available For example, MFA codes sent by SMS are not suitable if mobile devices are not allowed in the room or building.
+Systems **SHALL** offer MFA alternatives to users where they are available. For example, MFA codes sent by SMS are not suitable if mobile devices are not allowed in the room or building where the privileged task is being performed.
 
 For more information, see the [Multi-Factor Authentication \(MFA\) Guide](multi-factor-authentication-mfa-guide.md).
 
