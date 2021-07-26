@@ -96,7 +96,7 @@ All IT Security incidents or suspected incidents **must be** reported to the MoJ
 
 **POL.IMP.003:**
 
-For all incidents involving an IT Security incident, an IT Security Incident Report Form **must be** completed and submitted to the OST \([Reporting an incident or breach](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) \). This is irrespective of the reporting route \(i.e. a User direct with OST or a user via the IT helpdesk\).
+For all incidents involving an IT Security incident, an IT Security Incident Report Form **must be** completed and submitted to the OST \([Reporting an incident or breach](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) \). This is irrespective of the reporting route \(i.e. a User direct with OST or a user via the IT Service Desk\).
 
 **POL.IMP.004:**
 
@@ -235,7 +235,7 @@ All MoJ staff must report any suspicious activity which indicates an IT Security
 
 **POL.IMP.009:**
 
-All MoJ staff **must** report an IT Security incident either to the IT helpdesk or directly to the MoJ Operational Security Team using an IT Security Incident Report Form.
+All MoJ staff **must** report an IT Security incident either to the IT Service Desk or directly to the MoJ Operational Security Team using an IT Security Incident Report Form.
 
 ### MoJ Senior Managers
 
@@ -278,13 +278,13 @@ The OST are responsible for:
 -   Providing progress reports on specific incidents to relevant parties.
 
 
-### Helpdesk
+### IT Service Desk
 
-The IT helpdesk plays a crucial role in ensuring security incidents are correctly reported and escalated to the OST in a timely manner. The majority of IT Security incident will be reported to the IT helpdesk first. Also, the IT helpdesk can help identify where a user reporting an issue is actually an IT Security incident. It is therefore important that the IT helpdesk recognise this and report it to the OST.
+The IT Service Desk plays a crucial role in ensuring security incidents are correctly reported and escalated to the OST in a timely manner. The majority of IT Security incident will be reported to the IT Service Desk first. Also, the IT Service Desk can help identify where a user reporting an issue is actually an IT Security incident. It is therefore important that the IT Service Desk recognise this and report it to the OST.
 
 **POL.IMP.014:**
 
-Where the IT helpdesk receives a report of a security incident, this **must be** reported and escalated to the OST immediately.
+Where the IT Service Desk receives a report of a security incident, this **must be** reported and escalated to the OST immediately.
 
 ### Escalation Path
 

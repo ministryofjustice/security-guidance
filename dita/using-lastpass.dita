@@ -109,7 +109,7 @@
     <topic id="need-help">
       <title>Need help?</title>
       <body>
-        <p>If you need help <i>installing</i> LastPass contact the relevant <ph conref="conrefs.dita#conrefs/moj"/> IT Service Desk.</p>
+        <p>If you need help <i>installing</i> LastPass contact the relevant <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/servicedesk"/>.</p>
         <p>If you need help using LastPass such as getting access to shared folders or resetting your primary password as you have forgotten it, contact <xref href="mailto:lastpass-admins@digital.justice.gov.uk" format="email" scope="external">lastpass-admins@digital.justice.gov.uk</xref></p>
       </body>
     </topic>

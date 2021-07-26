@@ -257,7 +257,7 @@
     <title>Reporting spam or malicious emails</title>
     <body>
       <p>If you think your email service provision has been susceptible to spam or a virus,
-        report it immediately to the Technology Service Desk as an IT security incident.
+        report it immediately to the <ph conref="conrefs.dita#conrefs/servicedesk"/> as an IT security incident.
         Please refer to the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/" format="html" scope="external">IT Incident Management Policy</xref> for further guidance.</p>
     </body>
   </topic>

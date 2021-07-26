@@ -55,7 +55,7 @@
       <p>In the event of a ransomware attack,
         or if you have suspicions one may be taking place,
         the first thing to do is to <xref href="#incidents-and-contact-details"
-        format="dita">contact your local IT Helpdesk</xref>.</p>
+        format="dita">contact your local <ph conref="conrefs.dita#conrefs/servicedesk"/></xref>.</p>
       <p>With your help, the IT team attempt to determine which systems have been impacted,
         and can isolate them immediately.
         You might be asked to disconnect all your devices from the network or wifi connection,

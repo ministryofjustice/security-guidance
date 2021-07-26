@@ -137,8 +137,7 @@
 	<topic id="if-you-have-any-problem-when-using-moj-equipment-overseas">
 		<title>If you have any problem when using <ph conref="conrefs.dita#conrefs/moj"/> equipment overseas</title>
 		<body>
-			<p>Contact the <xref href="#contacts" format="dita" platform="github">Technology
-				Service Desk</xref><ph platform="intranet">Technology Service Desk (see
+			<p>Contact the <xref href="#contacts" format="dita" platform="github"><ph conref="conrefs.dita#conrefs/servicedesk"/></xref><ph platform="intranet"><ph conref="conrefs.dita#conrefs/servicedesk"/> (see
 				Contacts section below)</ph> immediately.
 				Tell them if the <ph conref="conrefs.dita#conrefs/moj"/> equipment is lost,
 				stolen or was potentially compromised.
@@ -160,7 +159,7 @@
 			<p>If there is a problem with your <ph conref="conrefs.dita#conrefs/moj"/> equipment,
 				it might be necessary to disable your ability
 				to connect to the <ph conref="conrefs.dita#conrefs/moj"/> network or services from your device.
-				The Service Desk will do this if required.
+				The <ph conref="conrefs.dita#conrefs/servicedesk"/> will do this if required.
 				<ph conref="conrefs.dita#conrefs/moj"/>-issued phones might still have some functionality,
 				to let you make phone calls,
 				but the device should be treated as compromised
@@ -198,7 +197,7 @@
 			</body>
 		</topic>
 		<topic id="dom1---technology-service-desk">
-			<title>Dom1 - Technology Service Desk</title>
+			<title>Dom1 - <ph conref="conrefs.dita#conrefs/servicedesk"/></title>
 			<body>
 				<ul>
 					<li>Tel: 0800 917 5148</li>
@@ -208,7 +207,7 @@
 			</body>
 		</topic>
 		<topic id="digital--technology---digital-service-desk">
-			<title>Digital &amp; Technology - Digital Service Desk</title>
+			<title>Digital &amp; Technology - <ph conref="conrefs.dita#conrefs/servicedesk"/></title>
 			<body>
 				<ul>
 					<li>Email: <xref href="mailto:servicedesk@digital.justice.gov.uk" format="email" scope="external">servicedesk@digital.justice.gov.uk</xref></li>

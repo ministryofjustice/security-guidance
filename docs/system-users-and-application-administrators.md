@@ -58,7 +58,7 @@ For further all the security related information required, please refer to:
 
 ||
 |Resetting user passwords|-   To change a password, Users must hold down Ctrl + Alt + Delete on their keyboard and select 'Change Password'.
--   If the password requires resetting, contact the [Service Desk](#general-enquiries-including-theft-and-loss).
+-   If the password requires resetting, contact the [IT Service Desk](#general-enquiries-including-theft-and-loss).
 
 |
 |System Use|-   Users must not exceed \(or attempt to exceed\) their given access privileges, amend the system configuration or plug in any unauthorised devices.
@@ -81,7 +81,7 @@ For further all the security related information required, please refer to:
 |Anti virus|In the event of a User suspecting a virus attack on the network, they must carry out the following steps: -   If operationally possible, leave the system switched on in its infected condition;
 -   Disconnect the affected workstation from the network \(where possible\);
 -   Mark the system and any associate storage media with a label stating that the machine has a suspected virus;
--   Inform the [Information Technology \(IT\) Helpdesk](#general-enquiries-including-theft-and-loss) who will provide assistance.
+-   Inform the [IT Service Desk](#general-enquiries-including-theft-and-loss) who will provide assistance.
 
 |
 |Removable media|-   No System media or document is to be removed from the building without prior authorisation from the Information Asset Owner.
@@ -98,7 +98,7 @@ For further all the security related information required, please refer to:
 -   Further instructions can be found on the \[ORGANISATION\] Intranet, Confidential Waste Disposal page.
 
 |
-|Security Incident and General Reporting Procedures|-   All requests for IT support and all reports of IT failures must be logged with the IT Helpdesk.
+|Security Incident and General Reporting Procedures|-   All requests for IT support and all reports of IT failures must be logged with the IT Service Desk.
 -   Any incident involving a suspected or known security breach involving personnel, hardware, software, communications, document or physical security must be reported immediately to the IT System Manager and the \[ORGANISATION\] Operational Security Team \(OST\).
 -   Any loss of IT equipment, \[ORGANISATION\] or personal data should be [reported](#incidents). Report also to the Users' line manager, the OST \([OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)\)and to the Data Access & Compliance Unit \(DACU\).
 

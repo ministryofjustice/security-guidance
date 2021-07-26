@@ -129,9 +129,9 @@ There are a range of scams that can target you at home or at work. Callers usual
 -   Direct you to a website, in the hope you will download malicious software.
 -   Try and obtain details from you about your computer, or the MoJ network.
 
-In all genuine situations, the MoJ service desk will provide you with an incident reference number if there is a real problem with your machine.
+In all genuine situations, the MoJ IT Service Desk will provide you with an incident reference number if there is a real problem with your machine.
 
-If you receive a call from someone claiming to be from the service desk, always ensure you ask them for the incident reference number. Then disconnect the call, and call service desk yourself, directly. If the original call was genuine, when you provide the incident reference number, they will be able to help you.
+If you receive a call from someone claiming to be from the IT Service Desk, always ensure you ask them for the incident reference number. Then disconnect the call, and call the IT Service Desk yourself, directly. If the original call was genuine, when you provide the incident reference number, they will be able to help you.
 
 In general:
 
@@ -139,7 +139,7 @@ In general:
 -   If possible, note the details and incoming telephone number of the caller.
 -   Do not go to any external site if directed from an unsolicited call.
 -   Never give any information about your computer to the caller.
--   Check if the call is genuine with your IT Service desk. [Report the call](reporting-an-incident.md) as a security incident if it is not. Use a different phone from that used to take the original call.
+-   Check if the call is genuine with your IT Service Desk. [Report the call](reporting-an-incident.md) as a security incident if it is not. Use a different phone from that used to take the original call.
 
 ### Hoaxes
 
@@ -235,7 +235,7 @@ Data protection legislation protects personal information which relates to ident
 
 If you know you're going to be away for any significant amount of time, you can make life easier for everyone, including yourself, by following these simple steps:
 
-1.  Make provision for someone to have access to your work email account during your absence. If you don't know how to do this, [contact your IT Helpdesk](#general-enquiries-including-theft-and-loss).
+1.  Make provision for someone to have access to your work email account during your absence. If you don't know how to do this, [contact your IT Service Desk](#general-enquiries-including-theft-and-loss).
 2.  Create a “handover” package, containing information about the tasks that will, or might, need attention during your absence.
 3.  Make sure the package has contact details for everyone who might need to help progress or update the status of the tasks.
 4.  Create an “Out Of Office” notification in your email system; include clear details of who to contact in your absence.

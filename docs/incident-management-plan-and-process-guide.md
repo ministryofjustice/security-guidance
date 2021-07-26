@@ -118,7 +118,7 @@ ITSIM is a combination of people, plans and predefined processes which enables t
 -   Providing progress reports on specific incidents to relevant parties.
 
 |
-|IT Service Desk|The MoJ IT service desk act as the first point of contact for MoJ IT Users reporting an IT security event. Their function is to ensure that the details of the incident are captured and the OST are informed.|
+|IT Service Desk|The MoJ IT Service Desk acts as the first point of contact for MoJ IT Users reporting an IT security event. Their function is to ensure that the details of the incident are captured and the OST are informed.|
 
 ### Lifecycle
 
@@ -171,7 +171,7 @@ Table 3 below provides a list of the main outputs required to implement an ITSIM
 |Outputs|Role|
 |IT Security Incident Management Plan|Though obvious, a final released version of the ITSIM plan is the primary output. It must be approved by the business group SIRO and ITSO. It must be released to all Users and stakeholders identified in the plan.|
 |Security Controls|The development of an ITSIM plan may lead to the requirement for further security controls to be introduced. For example the ability to collate anti-virus detections centrally.|
-|Monitoring Services|For an ITSIM plan to be effective, a consummate incident detection and monitoring service must be in place and active. For most MoJ ITSIM plans, this will involve the MoJ Operations Security Team \(OST\) acting as the centralised monitoring and management service where incident reports are fed to them, for example, from automated security controls \(such as virus detection alerts from an anti-virus client\) or manually by a User reporting the loss of a MoJ laptop to the IT service desk.|
+|Monitoring Services|For an ITSIM plan to be effective, a consummate incident detection and monitoring service must be in place and active. For most MoJ ITSIM plans, this will involve the MoJ Operations Security Team \(OST\) acting as the centralised monitoring and management service where incident reports are fed to them, for example, from automated security controls \(such as virus detection alerts from an anti-virus client\) or manually by a User reporting the loss of a MoJ laptop to the IT Service Desk.|
 |Training and Awareness|All Users must be provided with awareness training which covers the ITSIM plan and their role in incident detection, reporting and management. For those who perform specific roles within the plan such as a Senior Manager, they should undertake additional training to ensure they are prepared to fill their aspects of the plan.|
 
 Table 3 – Outputs from implementing the IT Security Incident Management plan
@@ -418,11 +418,11 @@ IT security incident statistics must be presented in conjunction with an assessm
 |Escalation Path|\[This section must describe the escalation path for an IT security incident \(see Figure 4\).\]|
 |Incident Categorisation|
 |Low Impact Incident|Description|\[Provide a description of what a Low impact incident constitutes; see [here](#low-impact-incident) for further details.\]|
-|Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
+||Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
 |Medium Impact Incident|Description|\[Provide a description of what a Medium impact incident constitutes; see [here](#medium-impact-incident) for further details.\]|
-|Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
+||Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
 |High Impact Incident|Description|\[Provide a description of what a High impact incident constitutes; see [here](#high-impact-incident) for further details.\]|
-|Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
+||Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
 |Plan Approval|
 |Business Group SIRO|\[Enter the name of the Business Group SIRO\] \[DATE OF APPROVAL\]|
 |IT Security Officer|\[Enter the name of the ITSO\] \[DATE OF APPROVAL\]|
