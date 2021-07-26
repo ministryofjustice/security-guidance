@@ -167,7 +167,7 @@ Users need to comply with all applicable operating procedures and ensure that th
 
 -   **POL.ITAUP.020**
 
-    All Users **must request** any changes to ICT system/s or ICT equipment through the IT helpdesk. Further details are provided in [System Users and Application Administrators](system-users-and-application-administrators.md).
+    All Users **must request** any changes to ICT system/s or ICT equipment through the IT Service Desk. Further details are provided in [System Users and Application Administrators](system-users-and-application-administrators.md).
 
 
 ## Electronic messaging and use of the Internet
@@ -236,7 +236,7 @@ The MoJ monitors telephone usage, network, email and Internet traffic data \(inc
 
 The MoJ, so far as possible and appropriate, respects the privacy and autonomy whilst working of all Users, but further to [this information](#personal-use), any personal use of MoJ ICT systems will also be subject to monitoring. By carrying out personal activities using MoJ ICT systems, Users are consenting to the MoJ processing any sensitive personal data which may be revealed by such monitoring \(for example regular visits to a set of websites\).
 
-For the purposes of business continuity it may sometimes be necessary for the MoJ to access business communications \(including within e-mail mailboxes\) while a User is absent from work \(including holiday and illness\). Access will only be granted through submission of a formal request to the IT Helpdesk where approval is required from the relevant line manager where the MoJ ITSO and MoJ HR may be consulted.
+For the purposes of business continuity it may sometimes be necessary for the MoJ to access business communications \(including within e-mail mailboxes\) while a User is absent from work \(including holiday and illness\). Access will only be granted through submission of a formal request to the IT Service Desk where approval is required from the relevant line manager where the MoJ ITSO and MoJ HR may be consulted.
 
 -   **POL.ITAUP.027**
 

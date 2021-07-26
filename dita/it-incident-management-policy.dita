@@ -97,7 +97,7 @@
         <p>
           <b>POL.IMP.003:</b>
         </p>
-        <p>For all incidents involving an IT Security incident, an IT Security Incident Report Form <b>must be</b> completed and submitted to the OST (<xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">Reporting an incident or breach</xref> ). This is irrespective of the reporting route (i.e. a User direct with OST or a user via the IT helpdesk).</p>
+        <p>For all incidents involving an IT Security incident, an IT Security Incident Report Form <b>must be</b> completed and submitted to the OST (<xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">Reporting an incident or breach</xref> ). This is irrespective of the reporting route (i.e. a User direct with OST or a user via the <ph conref="conrefs.dita#conrefs/servicedesk"/>).</p>
         <p>
           <b>POL.IMP.004:</b>
         </p>
@@ -280,7 +280,7 @@
         <p>
           <b>POL.IMP.009:</b>
         </p>
-        <p>All <ph conref="conrefs.dita#conrefs/moj"/> staff <b>must</b> report an IT Security incident either to the IT helpdesk or directly to the <ph conref="conrefs.dita#conrefs/moj"/> Operational Security Team using an IT Security Incident Report Form.</p>
+        <p>All <ph conref="conrefs.dita#conrefs/moj"/> staff <b>must</b> report an IT Security incident either to the <ph conref="conrefs.dita#conrefs/servicedesk"/> or directly to the <ph conref="conrefs.dita#conrefs/moj"/> Operational Security Team using an IT Security Incident Report Form.</p>
       </body>
     </topic>
     <topic id="moj-senior-managers">
@@ -339,14 +339,14 @@
         </ul>
       </body>
     </topic>
-    <topic id="helpdesk">
-      <title>Helpdesk</title>
+    <topic id="it-service-desk">
+      <title><ph conref="conrefs.dita#conrefs/servicedesk"/></title>
       <body>
-        <p>The IT helpdesk plays a crucial role in ensuring security incidents are correctly reported and escalated to the OST in a timely manner. The majority of IT Security incident will be reported to the IT helpdesk first. Also, the IT helpdesk can help identify where a user reporting an issue is actually an IT Security incident. It is therefore important that the IT helpdesk recognise this and report it to the OST.</p>
+        <p>The <ph conref="conrefs.dita#conrefs/servicedesk"/> plays a crucial role in ensuring security incidents are correctly reported and escalated to the OST in a timely manner. The majority of IT Security incident will be reported to the <ph conref="conrefs.dita#conrefs/servicedesk"/> first. Also, the <ph conref="conrefs.dita#conrefs/servicedesk"/> can help identify where a user reporting an issue is actually an IT Security incident. It is therefore important that the <ph conref="conrefs.dita#conrefs/servicedesk"/> recognise this and report it to the OST.</p>
         <p>
           <b>POL.IMP.014:</b>
         </p>
-        <p>Where the IT helpdesk receives a report of a security incident, this <b>must be</b> reported and escalated to the OST immediately.</p>
+        <p>Where the <ph conref="conrefs.dita#conrefs/servicedesk"/> receives a report of a security incident, this <b>must be</b> reported and escalated to the OST immediately.</p>
       </body>
     </topic>
     <topic id="escalation-path">
@@ -415,7 +415,7 @@
           <b>POL.ITSEC.020:</b>
         </p>
         <p>The IT Security Incident Management Plan for an IT System or overarching IT Domain <b>must include</b> details on how that system or IT domain IT services are restored (or recovered) following an IT Security incident.</p>
-        <p><b>Note</b> – The detail of how an IT system recovers from an incident event should be captured in that systems disaster recovery plan. See <xref href="it-disaster-recovery-policy.dita" format="dita">IT Security – Disaster Recovery Policy</xref> for further information.</p>
+        <p audience="audience-suppliers audience-tech"><b>Note</b> – The detail of how an IT system recovers from an incident event should be captured in that systems disaster recovery plan. See <xref href="it-disaster-recovery-policy.dita" format="dita">IT Security – Disaster Recovery Policy</xref> for further information.</p>
       </body>
     </topic>
   </topic>

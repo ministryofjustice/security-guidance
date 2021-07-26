@@ -29,6 +29,10 @@
 	<property name="intranet" location="intranet"/>
 	<property name="images" location="images"/>
 	<property name="jekyll-baseline" location="jekyll-baseline"/>
+	<!--
+	<property name="culture" location="culture"/>
+	<property name="culturebuild" location="ktt"/>
+	-->
 	<property name="redirects" location="redirects"/>
 	<!-- Ensure that environment variable DITA_DIR is set to
 		the installation directory for the DITA Open Source Toolkit -->
@@ -48,8 +52,6 @@
 		<mkdir dir="${build}"/>
 		<!-- Create the docs directory structure used for publication -->
 		<mkdir dir="${docs}"/>
-		<!-- Create the Word docs directory structure used for sharing content -->
-		<mkdir dir="${worddocs}"/>
 	</target>
 
 	<target name="policy_builder"
@@ -79,6 +81,17 @@
 		<!-- Tidy up. -->
 		<!-- <move file="${theFile}.new" tofile="${theFile}" overwrite="true"/> -->
 	</target>
+
+	<!--
+	<target name="compile_culture" depends="init, compile_intranet"
+				description="Compile culture content into production Markdown">
+		<delete dir="${culturebuild}"/>
+		<copy todir="${culturebuild}" >
+			<fileset dir="${culture}"/>
+		</copy>
+		<replace dir="${culturebuild}" replaceFilterFile="${dita}/conrefs.properties"/>
+	</target>
+	-->
 
 	<target name="compile_intranet" depends="init"
 				description="compile the Intranet collection into markdown">
@@ -126,6 +139,9 @@
 		<replaceregexp match="\*\*Parent topic\:\*\*(\S)" replace="**Parent topic:** \1" flags="g" >
 			<fileset dir="${build}" includes="**/*.md"/>
 		</replaceregexp>
+		<replaceregexp match="file\:///" replace="" flags="g" >
+			<fileset dir="${build}" includes="**/*.md"/>
+		</replaceregexp>
 	</target>
 
 	<!--
@@ -138,27 +154,31 @@
 			<property name="transtype" value="html5"/>
 		</ant>
 	</target>
+-->
 
 	<target name="convertToWord">
 		<echo message="Converting file: ${theFile}"/>
-		<basename property="theFileName" file="${theFile}" suffix=".html"/>
-		<exec dir="${buildhtml}" executable="pandoc">
-			<arg line=" \-\-from=html \-\-to=docx ${theFileName}.html \-\-output=${worddocs}/${theFileName}.docx"/>
+		<basename property="theFileName" file="${theFile}" suffix=".md"/>
+		<exec dir="${intranet}" executable="pandoc">
+			<arg line=" --from=markdown --to=docx ${theFileName}.md --output=${intranet}/${theFileName}.docx"/>
 		</exec>
 	</target>
 
-	<target name="compile_word" depends="compile_html5"
-			description="compile HTML5 into Word">
+	<target name="compile_word" depends="convertToWord"
+			description="compile Markdown into Word">
 		<echo message="Running on: ${os.name}"/>
 		<foreach target="convertToWord" param="theFile">
 			<path>
-				<fileset dir="${buildhtml}">
-					<include name="**/*.html"/>
+				<fileset dir="${intranet}">
+					<include name="**/*.md"/>
 				</fileset>
 			</path>
 		</foreach>
+		<replace dir="${intranet}" value="#">
+			<include name="**/*.md"/>
+			<replacetoken># </replacetoken>
+		</replace>
 	</target>
-	-->
 
 	<target name="compile_pdf" depends="init"
 				description="compile the source into PDF">
@@ -172,6 +192,7 @@
 		</ant>
 		<!-- Rename this file to be Tech users guide. -->
 		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-tech.pdf" overwrite="true"/>
+		<echo message="Technical users PDF build complete."/>
 
 		<!-- Next build the Suppliers PDF, containing just their content.
 		<echo message="Build PDF: Suppliers"/>
@@ -185,7 +206,7 @@
 		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-suppliers.pdf" overwrite="true"/>
 	-->
 
-		<!-- Now build the Intranet PDF, containing just its content. -->
+		<!-- Now build the Intranet PDF, containing just its content.
 		<echo message="Build PDF: Intranet"/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${dita}/moj-guidance-intranet.ditamap"/>
@@ -193,6 +214,8 @@
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
+		<echo message="Intranet PDF build complete."/>
+		 -->
 
 		<!-- Now build the 'all users' guide, omitting the technical details. -->
 		<echo message="Build PDF: All users"/>
@@ -202,6 +225,7 @@
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
+		<echo message="All users PDF build complete."/>
 	</target>
 
 	<target name="compile_epub" depends="init"
@@ -271,8 +295,10 @@
 		<delete file="build-basic.txt"/>
 	</target>
 
-	<!-- Enable epub builds for the moment. -->
+	<!-- Doo all the builds. -->
 	<target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub"/>
+	<!-- <target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word"/> -->
+	<!-- <target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word,compile_culture"/> -->
 	<!-- <target name="compile" depends="compile_intranet,compile_md,compile_pdf"/> -->
 
 	<target name="enableRedirect">
@@ -285,10 +311,13 @@
 		<copy file="${temp.file}" tofile="${docs}/${theFileName}.md" overwrite="true"/>
 	</target>
 
-	<!-- <target name="dist_local" depends="compile_intranet" -->
 	<target name="dist_local" depends="compile_md,compile_intranet"
-				description="generate minimal set to test local build">
-		<!-- Create the distribution directory -->
+		description="generate minimal set to test local build">
+	<!--
+	<target name="dist_local" depends="compile_md,compile_intranet,compile_word"
+		description="generate minimal set to test local build">
+	-->
+<!-- Create the distribution directory -->
 		<mkdir dir="${docs}"/>
 		<mkdir dir="${docs}/images"/>
 		<mkdir dir="${docs}/gs"/>

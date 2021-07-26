@@ -52,7 +52,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                   <entry colname="col2"><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></entry>
                   <entry colname="col3"><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></entry>
                 </row>
-                <!-- 
+                <!--
                 <row>
                   <entry colname="col1">Suppliers. Includes just the details of primary interest to suppliers.</entry>
                   <entry colname="col2"><xref href="moj-guidance-suppliers.pdf" format="pdf" scope="peer">PDF</xref></entry>
@@ -345,8 +345,8 @@ has made for the products we operate, and our relationships with suppliers.</p>
 			</table>
 			</p>
 			<p>The documents <ph audience="audience-tech">have been developed and defined within this taxonomy, and</ph> are listed in the next section<ph audience="audience-tech">, together with their suggested target audiences</ph>.</p>
-			<p>Content tagged with the Intranet icon (<image conref="conrefs.dita#conrefs/intraneticon"/>) is on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.
-			You will need Intranet access to view that content.</p>
+			<!-- <p>Content tagged with the Intranet icon (<image conref="conrefs.dita#conrefs/intraneticon"/>) is on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.
+			You will need Intranet access to view that content.</p> -->
 		</body>
 
         <topic id="information-security-policies">
@@ -356,11 +356,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
-                <entry colname="col1" align="left"><xref href="setecastronomy.dita" format="dita">Avoiding too much security</xref><ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/setecastronomy/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph></entry>
+                <entry colname="col1" align="left"><xref href="setecastronomy.dita" format="dita">Avoiding too much security</xref><!-- <ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/avoiding-too-much-security/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="identify-protect-detect-respond-recover.dita" format="dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref></entry>
+                <entry colname="col1" align="left"><xref href="identify-protect-detect-respond-recover.dita" format="dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/identify-protect-detect-respond-recover/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
@@ -376,7 +376,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer (Policy)</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="line-manager-approval.dita" format="dita">Line Manager approval</xref><ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph></entry>
+                <entry colname="col1" align="left"><xref href="line-manager-approval.dita" format="dita">Line Manager approval</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph> --></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row audience="audience-tech">
@@ -419,15 +419,15 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
-                <entry colname="col1" align="left"><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From overseas</xref></entry>
+                <entry colname="col1" align="left"><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From overseas</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/accessing-moj-it-systems-overseas/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita">General advice on taking equipment overseas</xref></entry>
+                <entry colname="col1" align="left"><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita">General advice on taking equipment overseas</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/accessing-moj-it-systems-overseas/taking-equipment-overseas/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="personal-devices.dita" format="dita">Personal Devices</xref></entry>
+                <entry colname="col1" align="left"><xref href="personal-devices.dita" format="dita">Personal Devices</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/using-a-personal-device/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
             </tbody></tgroup></table>
@@ -442,15 +442,27 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
-                <entry colname="col1" align="left"><xref href="end-or-change-of-employment.dita" format="dita" type="topic">End or change of employment</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels Guide</xref></entry>
+                <entry colname="col1" align="left"><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels Guide</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/personnel-security-clearances/minimum-user-clearance/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="national-security-vetting-questions.dita" format="dita" type="topic">National Security Vetting questions</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="national-security-vetting-for-external-candidates-faq.dita" format="dita" type="topic">National Security Vetting for External Candidates FAQ</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="pre-employment-screening.dita" format="dita" type="topic">Pre-employment screening</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" format="dita" type="topic">Pre-Employment Screening and Vetting of External Candidates - FAQs</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="security-clearance-appeals-policy.dita" format="dita" type="topic">Security clearance appeals policy</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
         			<!-- The security vetting assessment need webpage is not required, only the download document.
@@ -465,18 +477,50 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <title>During employment</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-				<row>
-					<entry colname="col1" align="left"><xref href="training-and-education.dita" format="dita">Training and Education</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/training-and-education/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
+              <row>
+                <entry colname="col1" align="left"><xref href="ongoing-personnel-security.dita" format="dita">Ongoing Personnel Security</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                
+                <entry colname="col1" align="left"><xref href="personnel-risk-assessment.dita" format="dita">Personnel risk assessment</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                
+                <entry colname="col1" align="left"><xref href="reporting-personal-circumstance-changes.dita" format="dita">Reporting personal circumstance changes</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="training-and-education.dita" format="dita">Training and Education</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/training-education/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="voluntary-drug-testing-policy.dita" format="dita">Voluntary drug testing policy</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="voluntary-drug-testing-policy-procedures.dita" format="dita">Voluntary drug testing policy procedures</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
             </tbody></tgroup></table>
           </body>
         </topic>
-        <!--
         <topic id="termination-and-change-of-employment">
           <title>Termination and change of employment</title>
+          <body>
+            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
+              <row>
+                <entry colname="col1" align="left"><xref href="end-or-change-of-employment.dita" format="dita" type="topic">End or change of employment</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="leavers-with-nsc-and-nscvs.dita" format="dita" type="topic">Leavers with NSC and NSVCs</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+            </tbody></tgroup></table>
+          </body>
         </topic>
-        -->
       </topic>
 
       <topic id="asset-management">
@@ -486,7 +530,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
 				<row>
-					<entry colname="col1" align="left"><xref href="acceptable-use.dita" format="dita">Acceptable use</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
+					<entry colname="col1" align="left"><xref href="acceptable-use.dita" format="dita">Acceptable use</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
 				<row>
@@ -502,11 +546,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
 					<entry colname="col2" align="right">All users (Policy)</entry>
 				</row>
 				<row>
-					<entry colname="col1" align="left"><xref href="protect-yourself-online.dita" format="dita">Protect Yourself Online</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/protect-yourself-online/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
+					<entry colname="col1" align="left"><xref href="protect-yourself-online.dita" format="dita">Protect Yourself Online</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/protect-yourself-online/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
 				<row>
-					<entry colname="col1" align="left"><xref href="web-browsing.dita" format="dita" type="topic">Web browsing security</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
+					<entry colname="col1" align="left"><xref href="web-browsing.dita" format="dita" type="topic">Web browsing security</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/web-browsing/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
             </tbody></tgroup></table>
@@ -521,7 +565,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
 				<row>
-					<entry colname="col1" align="left"><xref href="government-classification-scheme.dita" format="dita">Government Classification Scheme</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
+					<entry colname="col1" align="left"><xref href="government-classification-scheme.dita" format="dita">Government Classification Scheme</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/government-classification-scheme/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
 				<row>
@@ -533,7 +577,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 					<entry colname="col2" align="right">All users (Policy)</entry>
 				</row>
               <row>
-                <entry colname="col1" align="left"><xref href="official-official-sensitive.dita" format="dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref></entry>
+                <entry colname="col1" align="left"><xref href="official-official-sensitive.dita" format="dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/official-official-sensitive/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row audience="audience-tech">
@@ -548,11 +592,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
 				<row>
-					<entry colname="col1" align="left"><xref href="removable-media.dita" format="dita">Removable media</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
+					<entry colname="col1" align="left"><xref href="removable-media.dita" format="dita">Removable media</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
 				<row>
-					<entry colname="col1" align="left"><xref href="secure-disposal-of-it-equipment.dita" format="dita">Secure disposal of IT equipment</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-ict-equipment/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
+					<entry colname="col1" align="left"><xref href="secure-disposal-of-it-equipment.dita" format="dita">Secure disposal of IT equipment</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-it-equipment/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
             </tbody></tgroup></table>
@@ -629,7 +673,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
-                <entry colname="col1" align="left"><xref href="protecting-social-media-accounts.dita" format="dita" type="topic">Protecting Social Media Accounts</xref></entry>
+                <entry colname="col1" align="left"><xref href="protecting-social-media-accounts.dita" format="dita" type="topic">Protecting Social Media Accounts</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/protecting-social-media-accounts/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
             </tbody></tgroup></table>
@@ -660,11 +704,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
 							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
 						<row>
-							<entry colname="col1" align="left"><xref href="password-managers.dita" format="dita">Password Managers</xref></entry>
+							<entry colname="col1" align="left"><xref href="password-managers.dita" format="dita">Password Managers</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/passwords/password-managers/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
 							<entry colname="col2" align="right">All users</entry>
 						</row>
 						<row>
-							<entry colname="col1" align="left"><xref href="passwords.dita" format="dita">Passwords</xref></entry>
+							<entry colname="col1" align="left"><xref href="passwords.dita" format="dita">Passwords</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/passwords/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
 							<entry colname="col2" align="right">All users</entry>
 						</row>
 						<row audience="audience-tech">
@@ -676,7 +720,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 				</row>
 				<row audience="audience-tech">
-					<entry colname="col1" align="left"><xref href="policies-for-macbook-administrators.dita" format="dita">Policies for Macbook Administrators</xref></entry>
+					<entry colname="col1" align="left"><xref href="policies-for-macbook-administrators.dita" format="dita">Policies for MacBook Administrators</xref></entry>
 					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 				</row>
 				<row audience="audience-tech">
@@ -684,7 +728,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 				</row>
               <row>
-                <entry colname="col1" align="left"><xref href="using-lastpass.dita" format="dita">Using LastPass Enterprise</xref></entry>
+                <entry colname="col1" align="left"><xref href="using-lastpass.dita" format="dita">Using LastPass Enterprise</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/passwords/password-managers/using-lastpass-enterprise/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
             </tbody></tgroup></table>
@@ -741,19 +785,23 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
-                <entry colname="col1" align="left"><xref href="clear-screen-and-desk.dita" format="dita">Clear Screen and Desk Policy</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/clear-screen-and-desk/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
+                <entry colname="col1" align="left"><xref href="clear-screen-and-desk.dita" format="dita">Clear Screen and Desk Policy</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/clear-screen-and-desk/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="laptops.dita" format="dita">Laptops</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/laptops/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
+                <entry colname="col1" align="left"><xref href="equipment-reassignment-guide.dita" format="dita">Equipment Reassignment Guide</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="locking-and-shutdown.dita" format="dita">Locking and shutdown</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/locking-and-shutdown/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
+                <entry colname="col1" align="left"><xref href="laptops.dita" format="dita">Laptops</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/laptops/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="policies-for-macbook-users.dita" format="dita">Policies for Macbook Users</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/policies-for-macbook-users/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
+                <entry colname="col1" align="left"><xref href="locking-and-shutdown.dita" format="dita">Locking and shutdown</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/laptops/locking-and-shutdown/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="policies-for-macbook-users.dita" format="dita">Policies for MacBook Users</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/macbook/policies-for-macbook-users/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row audience="audience-tech">
@@ -790,25 +838,29 @@ has made for the products we operate, and our relationships with suppliers.</p>
             </tbody></tgroup></table>
           </body>
         </topic>
-        <topic id="protection-from-malware" audience="audience-tech">
+        <topic id="protection-from-malware" audience="audience-basic audience-tech">
           <title>Protection from malware</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide (Overview)</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="malware-protection-guidance-defensive-layer-1.dita" format="dita">Malware Protection Guide: Defensive Layer 1</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="malware-protection-guidance-defensive-layer-2.dita" format="dita">Malware Protection Guide: Defensive Layer 2</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="malware-protection-guidance-defensive-layer-3.dita" format="dita">Malware Protection Guide: Defensive Layer 3</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="ransomware.dita" format="dita">Ransomware</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
               </row>
             </tbody></tgroup></table>
           </body>
@@ -892,7 +944,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
-                <entry colname="col1" align="left"><xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref></entry>
+                <entry colname="col1" align="left"><xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/open-internet-tools/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
             </tbody></tgroup></table>
@@ -976,7 +1028,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
-                <entry colname="col1" align="left"><xref href="bluetooth.dita" format="dita" type="topic">Bluetooth</xref></entry>
+                <entry colname="col1" align="left"><xref href="bluetooth.dita" format="dita" type="topic">Bluetooth</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/bluetooth/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row audience="audience-tech">
@@ -988,12 +1040,32 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="email.dita" format="dita">Email</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/email/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
+                <entry colname="col1" align="left"><xref href="email.dita" format="dita">Email</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/email/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
+							<row audience="audience-tech">
+								<entry colname="col1" align="left"><xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref></entry>
+								<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							</row>
+							<row audience="audience-tech">
+								<entry colname="col1" align="left"><xref href="email-security-guide.dita" format="dita">Email Security Guide</xref></entry>
+								<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							</row>
 				<row>
-					<entry colname="col1" align="left"><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita" type="topic">General Apps Guidance</xref></entry>
+					<entry colname="col1" align="left"><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita" type="topic">General Apps Guidance</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/apps/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
 					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row>
+					<entry colname="col1" align="left"><xref href="secure-data-transfer-guide.dita" format="dita">Secure Data Transfer Guide</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row audience="audience-tech">
+					<entry colname="col1" align="left"><xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row audience="audience-tech">
+					<entry colname="col1" align="left"><xref href="spam-and-phishing-guide.dita" format="dita">Spam and Phishing Guide</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 				</row>
 				<row>
 					<entry colname="col1" align="left"><xref href="web-browsing-security-policy-profiles.dita" format="dita" type="topic">Web browsing security policy profiles</xref></entry>
@@ -1126,7 +1198,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="lost-devices-incidents.dita" format="dita">Lost devices or other IT security incidents</xref></entry>
+                <entry colname="col1" align="left"><xref href="lost-devices-incidents.dita" format="dita">Lost devices or other IT security incidents</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/incident-management/lost-devices/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <!--
@@ -1151,11 +1223,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
-                <entry colname="col1" align="left"><xref href="it-disaster-recovery-plan-and-process-guide.dita" format="dita">IT Disaster Recovery Plan and Process Guide</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-disaster-recovery-plan-and-process-guide/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
+                <entry colname="col1" align="left"><xref href="it-disaster-recovery-plan-and-process-guide.dita" format="dita">IT Disaster Recovery Plan and Process Guide</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-disaster-recovery-plan-and-process-guide/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="it-disaster-recovery-policy.dita" format="dita">IT Disaster Recovery Policy</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
+                <entry colname="col1" align="left"><xref href="it-disaster-recovery-policy.dita" format="dita">IT Disaster Recovery Policy</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
             </tbody></tgroup></table>
@@ -1199,7 +1271,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="data-security-and-privacy.dita" format="dita">Data Security and Privacy</xref></entry>
+                <entry colname="col1" align="left"><xref href="data-security-and-privacy.dita" format="dita">Data Security and Privacy</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/data-security-privacy/history" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row audience="audience-tech">
@@ -1244,7 +1316,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
-                <entry colname="col1" align="left"><xref href="risk-reviews.dita" format="dita">Risk reviews</xref> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/risk-reviews/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</entry>
+                <entry colname="col1" align="left"><xref href="risk-reviews.dita" format="dita">Risk reviews</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/risk-reviews/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
             </tbody></tgroup></table>
@@ -1255,12 +1327,18 @@ has made for the products we operate, and our relationships with suppliers.</p>
 	</topic>
 	<topic id="other-guidance">
 		<title>Other Guidance</title>
+    <!--
 		<topic id="intranet">
 			<title>Intranet</title>
 			<body>
 				<p>There are other cyber and technical security guidance documents available to reference. A large number of these documents are available in the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/" format="html" scope="external">IT and Computer Security</xref> repository on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet, but these documents are currently being reviewed and progressively are being incorporated into this main <xref href="cyber-and-technical-security-guidance.dita" format="dita" type="topic">Security Guidance</xref> repository.</p>
 			</body>
 		</topic>
+    -->
+    <body>
+      <p>A glossary of some terms used in this guidance is available <xref href="glossary.dita" format="dita">here</xref>.</p>
+      <p conref="conrefs.dita#conrefs/acronyms"></p>
+    </body>
 		<topic id="technical-guidance">
 			<title>Technical Guidance</title>
 			<body>

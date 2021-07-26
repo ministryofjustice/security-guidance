@@ -3,25 +3,52 @@
 <topic id="data-handling-and-information-sharing-guide">
   <title>Data Handling and Information Sharing Guide</title>
   <body>
-    <p>This guide is designed to help protect <ph conref="conrefs.dita#conrefs/mojlong"/> information (held on <ph conref="conrefs.dita#conrefs/moj"/> IT systems) by providing guidance on how it should be handled and shared in a safe and secure manner.</p>
+    <p>This guide is designed to help protect <ph conref="conrefs.dita#conrefs/mojlong"/>
+    information held on <ph conref="conrefs.dita#conrefs/moj"/> IT systems,
+    by providing guidance on how it should be handled and shared in a safe and
+    secure manner.</p>
   </body>
   <topic id="overview">
     <title>Overview</title>
     <topic id="introduction">
       <title>Introduction</title>
       <body>
-        <p>The <ph conref="conrefs.dita#conrefs/gov007"/> identifies mandatory requirements about the value and classification of information assets.
-          To comply with these requirements, the <ph conref="conrefs.dita#conrefs/moj"/> needs to ensure that:
+        <p>The <ph conref="conrefs.dita#conrefs/gov007"/> identifies mandatory
+        requirements about the value and classification of information assets.
+          To comply with these requirements,
+          the <ph conref="conrefs.dita#conrefs/moj"/> needs to ensure that:
         <lq>Where information is shared for business purposes,
-          departments and agencies must ensure the receiving party understands the obligations and protects the assets appropriately.</lq>
+          departments and agencies <ph conref="conrefs.dita#conrefs/policyshall"/>
+          ensure the receiving party understands
+          the obligations and protects the assets appropriately.</lq>
         and
-        <lq>All staff handling sensitive government assets are briefed about how legislation (particularly regarding Freedom of Information and Data Protection) specifically relates to their role, including the potential disciplinary or criminal penalties that may result from failure to comply with security policies.
-          Appropriate management structures must be in place to ensure the proper handling, control and (if appropriate) managed disclosure of sensitive assets.</lq></p>
-        <p>The policy on data handling and information sharing is covered in the <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>, whilst this document sets out the <ph conref="conrefs.dita#conrefs/moj"/> guidance sharing information within the <ph conref="conrefs.dita#conrefs/moj"/> and externally with other Government departments and 3rd parties.</p>
-        <note>Other guidance might refer to information classified as being IL3 REST*.
+        <lq>All staff handling sensitive government assets are briefed about how
+          legislation (particularly regarding Freedom of Information and Data
+          Protection) specifically relates to their role,
+          including the potential disciplinary or criminal penalties that may
+          result from failure to comply with security policies.
+          Appropriate management structures
+          <ph conref="conrefs.dita#conrefs/policyshall"/> be in place to ensure
+          the proper handling,
+          control and (if appropriate) managed disclosure of sensitive
+          assets.</lq></p>
+        <p>The policy on data handling and information sharing is covered in the
+          <xref href="information-classification-and-handling-policy.dita"
+            format="dita" audience="audience-suppliers audience-tech">Information
+            Classification and Handling Policy</xref><ph
+            audience="audience-basic">Information Classification and Handling
+            Policy</ph>,
+            whilst this document sets out the
+            <ph conref="conrefs.dita#conrefs/moj"/> guidance sharing information
+            within the <ph conref="conrefs.dita#conrefs/moj"/> and externally
+            with other Government departments and 3rd parties.</p>
+        <note>Other guidance might refer to information classified as being
+          <codeph>IL3 REST*</codeph>.
         This is an older classification standard.
         In general,
-          IL3 REST* is approximately equivalent to <codeph>OFFICIAL</codeph> with the <codeph>SENSITIVE</codeph> handling caveat,
+        <codeph>IL3 REST*</codeph> is approximately equivalent to
+        <codeph>OFFICIAL</codeph>
+        with the <codeph>SENSITIVE</codeph> handling caveat,
         often written as <codeph>OFFICIAL-SENSITIVE</codeph>.
         While this approximate correspondance might be helpful,
         you should always review classification where older terms are used,
@@ -31,44 +58,72 @@
     <topic id="scope">
       <title>Scope</title>
       <body>
-        <p>The <ph conref="conrefs.dita#conrefs/moj"/> Information Assurance (IA) team provide general guidance on the handling of protectively marked data,
-          whilst this document concentrates on providing guidance on information stored on <ph conref="conrefs.dita#conrefs/moj"/> IT systems and exchanged electronically within the <ph conref="conrefs.dita#conrefs/moj"/> and with external parties.</p>
+        <p>This document provides guidance on handling or sharing information
+          stored on <ph conref="conrefs.dita#conrefs/moj"/> IT systems,
+          or exchanged electronically within the <ph conref="conrefs.dita#conrefs/moj"/>,
+          or with external parties.</p>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/>
+        <ph conref="conrefs.dita#conrefs/catemailtext"/> can help you with more
+        guidance on the handling of protectively marked data.</p>
         <p>This guide is split into three sections:
         <ul>
-          <li>Handling data on <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</li>
-          <li>Information sharing.</li>
-          <li>Reporting data loss.</li>
+          <li><xref href="#handling-data-on-moj-it-systems"
+            format="dita">Handling data</xref> on
+            <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</li>
+          <li><xref href="#information-sharing"
+            format="dita">Information sharing</xref>.</li>
+          <li><xref href="#reporting-data-loss"
+            format="dita">Reporting data loss</xref>.</li>
         </ul></p>
-        <p>A <xref href="#data-movement-form-dmf" format="dita">Data Movement Form</xref> must be completed for all transfers where information is transferred from an <ph conref="conrefs.dita#conrefs/moj"/> IT system to another <ph conref="conrefs.dita#conrefs/moj"/> IT system or external party.
-          Further details on the form can be found <xref href="#data-movement-form-dmf" format="dita">here</xref>.</p>
-        <note>This document provides guidance for handling and sharing of information and data up to and including <codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph>, or the older Impact Level (IL) 3.
+        <note>This document provides guidance for handling and sharing of
+          information and data up to and including <codeph>OFFICIAL</codeph> and
+          <codeph>OFFICIAL-SENSITIVE</codeph>, or the older Impact Level (IL) 3.
           Where information attracts a high protective marking or IL,
-          advice must be sought from the <ph conref="conrefs.dita#conrefs/moj"/> Operation Security Team (OST) and <ph conref="conrefs.dita#conrefs/moj"/> IT Security Officer (ITSO).</note>
+          advice <ph conref="conrefs.dita#conrefs/policyshall"/>
+          be sought from the <ph conref="conrefs.dita#conrefs/moj"/>
+          <ph conref="conrefs.dita#conrefs/ostemailtext"/> and the
+          <ph conref="conrefs.dita#conrefs/moj"/>
+          <ph conref="conrefs.dita#conrefs/cisolong"/>.</note>
       </body>
     </topic>
-    <topic id="demonstration-of-compliance">
+    <topic id="demonstration-of-compliance" audience="audience-tech">
       <title>Demonstration of Compliance</title>
       <body>
-        <p>The <xref href="https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40" format="html" scope="external">CESG Information Assurance Maturity Model (IAMM)</xref> sets out the minimum maturity level Government departments should attain.
-          Safeguarding data is captured as a basic requirement in Level 1 and the <ph conref="conrefs.dita#conrefs/moj"/> will need to demonstrate compliance against this requirement.</p>
+        <p>The <xref
+          href="https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40"
+          format="html" scope="external">CESG Information Assurance Maturity
+          Model (IAMM)</xref> sets out the minimum maturity level Government
+          departments should attain.
+          Safeguarding data is captured as a basic requirement in Level 1 and
+          the <ph conref="conrefs.dita#conrefs/moj"/> will need to demonstrate
+          compliance against this requirement.</p>
       </body>
     </topic>
   </topic>
   <topic id="handling-data-on-moj-it-systems">
     <title>Handling data on <ph conref="conrefs.dita#conrefs/moj"/> IT systems</title>
     <body>
-      <p>This section covers how data must be handled on <ph conref="conrefs.dita#conrefs/moj"/> IT systems, this includes both:
+      <p>This section covers how data <ph conref="conrefs.dita#conrefs/policyshall"/>
+      be handled on <ph conref="conrefs.dita#conrefs/moj"/>
+      IT systems, this includes both:
       <ul>
         <li>Data in transit.</li>
         <li>Data at rest.</li>
       </ul></p>
-      <p>For the purposes of this guide, the term 'sensitive' data or information refers to data or information which attracts a handling caveat of <codeph>SENSITIVE</codeph>.
-        See the <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref> for further details.</p>
+      <p>For the purposes of this guide, the term <q>sensitive</q> data or
+      information refers to data or information which attracts a handling caveat
+      of <codeph>SENSITIVE</codeph>.
+      <ph audience="audience-tech"> See the <xref
+        href="information-classification-and-handling-policy.dita"
+        format="dita">Information Classification and Handling Policy</xref> for
+        further details.</ph></p>
     </body>
     <topic id="ownership-of-information">
       <title>Ownership of information</title>
       <body>
-        <p>All <ph conref="conrefs.dita#conrefs/moj"/> information is assigned an individual who has overall responsibility for the various handling aspects including:
+        <p>All <ph conref="conrefs.dita#conrefs/moj"/> information is assigned
+        an individual who has overall responsibility for the various handling
+        aspects including:
         <ul>
           <li>Registration.</li>
           <li>Labelling.</li>
@@ -76,10 +131,13 @@
           <li>Any transfers.</li>
           <li>Setting a retention period.</li>
           <li>Deleting, destroying or returning data and media.</li>
-          <li>Ensuring that any applicable legal, regulatory or contractual obligations are adhered to.</li>
+          <li>Ensuring that any applicable legal, regulatory or contractual
+            obligations are adhered to.</li>
         </ul></p>
         <p>This individual is the Information Asset Owner (IAO).
-          The IAO must ensure that information for which they are responsible for is appropriately handled,
+          The IAO <ph conref="conrefs.dita#conrefs/policyshall"/>
+          ensure that information for which they are responsible
+          for is appropriately handled,
           and where there is a business requirement to share it with a 3rd party,
           that it is shared in a safe and secure manner.</p>
       </body>
@@ -87,71 +145,115 @@
     <topic id="electronic-data-transfer-and-storage">
       <title>Electronic data transfer and storage</title>
       <body>
-        <p>Data must be stored only on managed accredited networks, with transfers onto remote access laptops or other mobile devices or media minimised.
-          No sensitive data should be stored solely on non-networked devices or media unless specifically approved by the IAO.</p>
+        <p>Data <ph conref="conrefs.dita#conrefs/policyshall"/>
+        be stored only on managed accredited networks, with transfers
+          onto remote access laptops or other mobile devices or media minimised.
+          No sensitive data should be stored solely on non-networked devices or
+          media unless specifically approved by the IAO.</p>
       </body>
       <topic id="data-in-transit">
         <title>Data in transit</title>
         <body>
-          <p>The term <q>data in transit</q> covers all electronic moves or transfers of data from one IT system to another,
-            where either the sender or the recipient system is an <ph conref="conrefs.dita#conrefs/moj"/> IT system.
-            This includes the electronic movement of data using either a system-to-system connection such as CJSE,
-            or removable media such as a <xref href="#usb-mass-storage-device" format="dita">USB mass storage device</xref>.</p>
+          <p>The term <q>data in transit</q> covers all electronic moves or
+          transfers of data from one IT system to another,
+            where either the sender or the recipient system is an
+            <ph conref="conrefs.dita#conrefs/moj"/> IT system.
+            This includes the electronic movement of data using either a
+            system-to-system connection such as CJSE,
+            or removable media such as a <xref href="#usb-mass-storage-device"
+            format="dita">USB mass storage device</xref>.</p>
         </body>
         <topic id="secure-network-system-to-system-electronic-transfer">
           <title>Secure network (system-to-system electronic transfer)</title>
           <body>
-            <p>The <ph conref="conrefs.dita#conrefs/moj"/> preference for transferring data is to use a secure accredited government network whether that is a <ph conref="conrefs.dita#conrefs/moj"/> owner network (e.g. DISC, ONMI, Quantum or MINT) or the Government Secure Intranet (GSi).</p>
-            <p>As these networks can support data up to and including <codeph>OFFICIAL-SENSITIVE</codeph>,
+            <p>The <ph conref="conrefs.dita#conrefs/moj"/> preference for
+            transferring data is to use a secure accredited government network
+            whether that is a <ph conref="conrefs.dita#conrefs/moj"/> owner
+            network (e.g. DISC, ONMI, Quantum or MINT) or the Government Secure
+            Intranet (GSi).</p>
+            <p>As these networks can support data up to and including
+              <codeph>OFFICIAL-SENSITIVE</codeph>,
               a base level of assurance is provided.
-              However, consideration will need to be given to the following factors to ascertain if any additional security controls are required:
+              However, consideration will need to be given to the following
+              factors to ascertain if any additional security controls are
+              required:
             <ul>
               <li>The amount of data being transferred.</li>
               <li>Frequency.</li>
               <li>Any <q>need-to-know</q> considerations.
-              See the <xref href="access-control-guide.dita" format="dita">Access Control Guide</xref> for further information.</li>
+              <ph audience="audience-suppliers audience-tech">
+              See the <xref href="access-control-guide.dita" format="dita">Access
+              Control Guide</xref> for further information.</ph></li>
             </ul></p>
-            <p>Any additional controls must be captured on the DMF (see <xref href="#data-movement-form-dmf" format="dita">Data Movement Form</xref> where advice should be obtained from the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/cisolong"/> when required.</p>
+            <p>Any additional controls
+              <ph conref="conrefs.dita#conrefs/policyshall"/> be captured on the
+              DMF (see <xref href="#data-movement-form-dmf" format="dita">Data Movement
+                Form</xref>, where advice should be obtained from the
+                <ph conref="conrefs.dita#conrefs/moj"/>
+                <ph conref="conrefs.dita#conrefs/cisolong"/> when required.</p>
           </body>
         </topic>
         <topic id="usb-mass-storage-device">
           <title>USB mass storage device</title>
           <body>
-            <p>If using a secure network is not feasible, the next preferred option is to use an encrypted removable media,
+            <p>If using a secure network is not feasible, the next preferred
+              option is to use an encrypted removable media,
               such as an approved USB mass storage device.</p>
-            <p>For more information, see the <xref href="removable-media.dita" format="dita">Removable Media</xref> guidance.</p>
-            <p>The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred.
-              Advice must be sought from the Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/>,
-              or <ph conref="conrefs.dita#conrefs/ciso"/> on the best option to use when completing the DMF (see <xref href="#data-movement-form-dmf" format="dita">Data Movement Form</xref>).</p>
+            <p>For more information, see the <xref href="removable-media.dita"
+              format="dita">Removable Media</xref> guidance.</p>
+            <p>The type of device selected is normally dependant on the
+              sensitivity of the data and the amount of data being transferred.
+              Advice <ph conref="conrefs.dita#conrefs/policyshall"/>
+              be sought from the Operational Security Team:
+              <ph conref="conrefs.dita#conrefs/ostemail"/>,
+              or <ph conref="conrefs.dita#conrefs/ciso"/> on the best option to
+              use when completing the DMF (see
+              <xref href="#data-movement-form-dmf" format="dita">Data Movement
+                Form</xref>).</p>
           </body>
         </topic>
         <topic id="optical-media">
           <title>Optical media</title>
           <body>
-            <p>The use of optical media (i.e. CD/DVD) is not recommended for data transfer.</p>
+            <p>The use of optical media (i.e. CD/DVD) is not recommended for data
+              transfer.</p>
           </body>
         </topic>
       </topic>
       <topic id="data-at-rest-on-moj-issued-laptops">
-        <title>Data at rest on <ph conref="conrefs.dita#conrefs/moj"/>-issued laptops</title>
+        <title>Data at rest on <ph conref="conrefs.dita#conrefs/moj"/>-issued
+        laptops</title>
         <body>
-          <p><q>Data at rest</q> is a term used to refer to all data in computer storage.
+          <p><q>Data at rest</q> is a term used to refer to all data in computer
+          storage.
             This excludes data that is traversing a network,
             or temporarily residing in computer memory to be read or updated.
-            The protection of data at rest is achieved by encrypting the hard disk.
-            <ph conref="conrefs.dita#conrefs/moj"/>-issued laptops use an approved whole disk encryption product.
+            The protection of data at rest is achieved by encrypting the hard
+            disk.
+            <ph conref="conrefs.dita#conrefs/moj"/>-issued laptops use an approved
+            whole disk encryption product.
             This allows data to be safely stored.</p>
         </body>
       </topic>
       <topic id="disposal-and-decommissioning">
         <title>Disposal and decommissioning</title>
         <body>
-          <p>Sensitive data must not be kept for longer than is needed.
-            The IAO must check for compliance, including any mandatory retention period.</p>
-          <p>Physical media containing sensitive data must be disposed of securely,
+          <p>Sensitive data <ph conref="conrefs.dita#conrefs/policyshallnot"/>
+          be kept for longer than is needed.
+            The IAO <ph conref="conrefs.dita#conrefs/policyshall"/>
+            check for compliance,
+            including any mandatory retention
+            period.</p>
+          <p>Physical media containing sensitive data
+            <ph conref="conrefs.dita#conrefs/policyshall"/> be disposed of
+            securely,
             even if that data is encrypted.
-            The reason is that an attacker could potentially make unlimited attempts to crack the encryption used if the media comes into their possession.</p>
-          <p>Further information on disposal and decommissioning can be found in the <xref href="secure-disposal-of-it-equipment.dita" format="dita">Secure Disposal of IT Equipment</xref> guidance.</p>
+            The reason is that an attacker could potentially make unlimited
+            attempts to crack the encryption used if the media comes into their
+            possession.</p>
+          <p>Further information on disposal and decommissioning can be found in
+            the <xref href="secure-disposal-of-it-equipment.dita"
+            format="dita">Secure Disposal of IT Equipment</xref> guidance.</p>
         </body>
       </topic>
     </topic>
@@ -162,18 +264,34 @@
       <title>General principles</title>
       <body>
         <p>Where there is a business need to transfer sensitive data,
-          it must be appropriately secured or encrypted using an approved mechanism prior to electronic transmission or export to removable media devices.</p>
-        <p>Transferring sensitive data with the appropriate security controls may be achieved by:
+          it <ph conref="conrefs.dita#conrefs/policyshall"/>
+          be appropriately secured or encrypted using an approved
+          mechanism prior to electronic transmission or export to removable media
+          devices.</p>
+        <p>Transferring sensitive data with the appropriate security controls may
+          be achieved by:
         <ul>
-          <li>Transmission over a secure network that is accredited to carry such data, either in clear (where this has been formally approved by Information Assurance and the IAO),
+          <li>Transmission over a secure network that is accredited to carry such
+            data, either in clear (where this has been formally approved by
+            Information Assurance and the IAO),
           or encrypted.</li>
-          <li>Transmission over an unprotected network, employing encryption of sufficient strength to mitigate any communication security risks identified.</li>
-          <li>Physical transportation of storage media using encryption of sufficient strength to mitigate the security risks associated with the information being transferred in addition to the physical and procedural measures required to protect the media itself.</li>
+          <li>Transmission over an unprotected network, employing encryption of
+            sufficient strength to mitigate any communication security risks identified.</li>
+          <li>Physical transportation of storage media using encryption of sufficient
+            strength to mitigate the security risks associated with the information
+            being transferred in addition to the physical and procedural measures
+            required to protect the media itself.</li>
         </ul></p>
-        <note>Only the minimum amount of sensitive data necessary to meet the business requirement should be transferred and not the entire data set.</note>
-        <p>The sender must ensure that any data shared can be adequately secured by the recipient.
-          The sensitivity of data must never be downgraded in order to send it over inadequately protected channels,
-          or to send it to a recipient who does not have an appropriate facility to protect it after it arrives.</p>
+        <note>Only the minimum amount of sensitive data necessary to meet the
+          business requirement should be transferred and not the entire data set.</note>
+        <p>The sender <ph conref="conrefs.dita#conrefs/policyshall"/>
+        ensure that any data shared can be adequately secured
+          by the recipient.
+          The sensitivity of data <ph conref="conrefs.dita#conrefs/policyshall"/>
+          never be downgraded in order to send it
+          over inadequately protected channels,
+          or to send it to a recipient who does not have an appropriate facility
+          to protect it after it arrives.</p>
       </body>
     </topic>
     <topic id="sharing-sensitive-information">
@@ -181,46 +299,88 @@
       <body>
         <p><ph conref="conrefs.dita#conrefs/moj"/> staff,
           including contractors and agency staff,
-          must make sure they observe the following measures when sharing sensitive information:
+          <ph conref="conrefs.dita#conrefs/policyshall"/>
+          make sure they observe the following measures when sharing
+          sensitive information:
         <ul>
-          <li>Check that all recipients are authorised and cleared to receive sensitive information before sending it to them.</li>
-          <li>Ensure that the confidentiality of the sensitive information is protected during transit,
+          <li>Check that all recipients are authorised and cleared to receive
+            sensitive information before sending it to them.</li>
+          <li>Ensure that the confidentiality of the sensitive information is
+            protected during transit,
           for example by encrypting the data.</li>
-          <li>Ensure copies of sensitive information are not kept beyond when they are actually required,
-            for example by keeping information "just in case" it might be needed in the future.</li>
+          <li>Ensure copies of sensitive information are not kept beyond when
+            they are actually required,
+            for example by keeping information "just in case" it might be needed
+            in the future.</li>
         </ul></p>
-        <p>All <ph conref="conrefs.dita#conrefs/moj"/> staff must avoid exposing sensitive data to unnecessary risks,
-          in particular by observing all aspects of the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref>.</p>
-        <p>Authorisation must be sought from the IAO before sensitive information can be moved or shared with a 3rd party.
-          The authorisation itself is captured within the <xref href="#data-movement-form-dmf" format="dita">Data Movement Form</xref>.
-          the following sub-sections provide guidance on particular types of information sharing common across the <ph conref="conrefs.dita#conrefs/moj"/>,
+        <p>All <ph conref="conrefs.dita#conrefs/moj"/> staff
+        <ph conref="conrefs.dita#conrefs/policyshall"/> avoid exposing
+        sensitive data to unnecessary risks,
+        in particular by observing all aspects of
+        <ph conref="conrefs.dita#conrefs/moj"/>
+        <xref href="acceptable-use-policy.dita" format="dita"
+          audience="audience-tech">Acceptable Use Policy</xref>
+          <xref href="acceptable-use.dita" format="dita"
+            audience="audience-basic">Acceptable Use</xref>.</p>
+        <p>Authorisation <ph conref="conrefs.dita#conrefs/policyshall"/>
+        be sought from the IAO before sensitive
+          information can be moved or shared with a 3rd party.
+          The authorisation itself is captured within the
+          <xref href="#data-movement-form-dmf" format="dita">Data Movement Form</xref>.
+          the following sub-sections provide guidance on particular types of
+          information sharing common across the <ph conref="conrefs.dita#conrefs/moj"/>,
           and to help you complete a DMF.</p>
       </body>
       <topic id="internally-within-the-moj">
         <title>Internally within the <ph conref="conrefs.dita#conrefs/moj"/></title>
         <body>
-          <p>Information marked up to and including <codeph>OFFICIAL-SENSITIVE</codeph> can be transferred in bulk within an <ph conref="conrefs.dita#conrefs/moj"/> IT system or domain such as DOM1,
-            without additional controls required to preserve the confidentiality of that information.</p>
-          <p>Where information is transferred between <ph conref="conrefs.dita#conrefs/moj"/> IT systems or domains,
+          <p>Information marked up to and including
+            <codeph>OFFICIAL-SENSITIVE</codeph> can be transferred in bulk within
+            an <ph conref="conrefs.dita#conrefs/moj"/> IT system or domain such
+            as DOM1,
+            without additional controls required to preserve the confidentiality
+            of that information.</p>
+          <p>Where information is transferred between
+            <ph conref="conrefs.dita#conrefs/moj"/> IT systems or domains,
             additional controls might be required to:
           <ul>
-            <li>Ensure the information is routed correctly to preserve its confidentiality.</li>
-            <li>Maintain the integrity of the data in transit to guard against inadvertent, accidental or deliberate modification.</li>
-            <li>Ensure the exchange cannot be repudiated by either party, for example, be enabling proof of sending or proof of receipt.</li>
+            <li>Ensure the information is routed correctly to preserve its
+              confidentiality.</li>
+            <li>Maintain the integrity of the data in transit to guard against
+              inadvertent, accidental or deliberate modification.</li>
+            <li>Ensure the exchange cannot be repudiated by either party,
+              for example, be enabling proof of sending or proof of receipt.</li>
           </ul></p>
-          <p>Information transferred between two <ph conref="conrefs.dita#conrefs/moj"/> IT systems requires a completed and authorised <xref href="#data-movement-form-dmf" format="dita">Data Movement Form</xref> using one of the <xref href="#data-in-transit" format="dita">data in transit</xref> options.</p>
+          <p>Information transferred between two
+            <ph conref="conrefs.dita#conrefs/moj"/> IT systems requires a
+            completed and authorised
+            <xref href="#data-movement-form-dmf" format="dita">Data Movement
+              Form</xref> using one of the
+              <xref href="#data-in-transit" format="dita">data in transit</xref>
+              options.</p>
         </body>
       </topic>
-      <topic id="information-sharing-with-other-hmg-department">
-        <title>Information sharing with other HMG department</title>
+      <topic id="information-sharing-with-another-hmg-department">
+        <title>Information sharing with another HMG department</title>
         <body>
-          <p>Information shared with another government department must be transferred to an assured system.
-            This means the system must be assured to the same level as the data being transferred.
-            The transfer must take place using one of the <xref href="#data-in-transit" format="dita">data in transit</xref> options.
-            The preference is for information to be transferred using a secure network.
+          <p>Information shared with another government department
+            <ph conref="conrefs.dita#conrefs/policyshall"/> be
+            transferred to an assured system.
+            This means the system <ph conref="conrefs.dita#conrefs/policyshall"/>
+            be assured to the same level as the data
+            being transferred.
+            The transfer <ph conref="conrefs.dita#conrefs/policyshall"/>
+            take place using one of the
+            <xref href="#data-in-transit" format="dita">data in transit</xref>
+            options.
+            The preference is for information to be transferred using a secure
+            network.
             However, for low frequency bulk transfers of data,
-            <ph conref="conrefs.dita#conrefs/moj"/> approved removable media might be more suitable.
-            A completed and authorised <xref href="#data-movement-form-dmf" format="dita">Data Movement Form</xref> is required.</p>
+            <ph conref="conrefs.dita#conrefs/moj"/> approved removable media
+            might be more suitable.
+            A completed and authorised
+            <xref href="#data-movement-form-dmf" format="dita">Data Movement
+              Form</xref> is required.</p>
         </body>
       </topic>
       <topic id="information-sharing-with-external-3rd-parties">
@@ -228,26 +388,44 @@
         <body>
           <p>Any transfer of sensitive data to a 3rd party,
             including sub-contractors or service providers,
-            must be authorised by the relevant IAO.
+            <ph conref="conrefs.dita#conrefs/policyshall"/>
+            be authorised by the relevant IAO.
             An appropriate contract,
-            <xref href="#data-movement-form-dmf" format="dita">Data Movement Form</xref>,
-            and Non-disclosure Agreement (NDA) must be in place prior to the transfer.</p>
-            <p audience="audience-suppliers audience-tech">It might also be appropriate to establish a <xref href="security-aspect-letters.dita" format="dita">Security Aspects Letter (SAL)</xref> and Codes of Connection (CoCo) agreement.</p>
+            <xref href="#data-movement-form-dmf" format="dita">Data Movement
+              Form</xref>,
+            and Non-disclosure Agreement (NDA)
+            <ph conref="conrefs.dita#conrefs/policyshall"/> be in place prior to the
+            transfer.</p>
+            <p audience="audience-suppliers audience-tech">It might also be
+              appropriate to establish a
+              <xref href="security-aspect-letters.dita" format="dita">Security
+                Aspects Letter (SAL)</xref> and Codes of Connection (CoCo)
+                agreement.</p>
           <p>Where the information is <codeph>OFFICIAL-SENSITIVE</codeph>,
-            it must be transferred to an assured system,
+            it <ph conref="conrefs.dita#conrefs/policyshall"/>
+            be transferred to an assured system,
             assured to the same level as the data being transferred,
             provided by the external 3rd party,
-            using one of the <xref href="#data-in-transit" format="dita">data in transit</xref> options.</p>
-          <p>Any transfer to a 3rd party must be undertaken with appropriate security controls in place,
+            using one of the <xref href="#data-in-transit" format="dita">data in
+            transit</xref> options.</p>
+          <p>Any transfer to a 3rd party
+            <ph conref="conrefs.dita#conrefs/policyshall"/> be undertaken with appropriate
+            security controls in place,
             using the guidance from this document,
-            and seeking advice from Information Assurance and the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/ciso"/> as required.</p>
+            and seeking advice from Information Assurance and the
+            <ph conref="conrefs.dita#conrefs/moj"/>
+            <ph conref="conrefs.dita#conrefs/ciso"/> as required.</p>
         </body>
         <topic id="sharing-across-an-unsecured-network">
           <title>Sharing across an unsecured network</title>
           <body>
-            <p>Sensitive data must be encrypted prior to being transmitted over an unsecured network such as the Internet.
-              The encrypted data may then be sent via file transfer or as an email attachment.</p>
-            <p>Ideally, both sender and recipient should check the integrity of data before and after transmission.
+            <p>Sensitive data <ph conref="conrefs.dita#conrefs/policyshall"/>
+            be encrypted prior to being transmitted over
+              an unsecured network such as the Internet.
+              The encrypted data may then be sent via file transfer or as an
+              email attachment.</p>
+            <p>Ideally, both sender and recipient should check the integrity of
+              data before and after transmission.
               This includes checking for malicious content,
               and for evidence of tampering during transit.</p>
           </body>
@@ -256,13 +434,17 @@
           <title>Using commercial encryption products for low sensitivity information</title>
           <body>
             <p>Where there is a business requirement to do so,
-              sensitive information may be shared with a 3rd party using a commercial grade encryption product such as SecureZip.
-              Further information on the use of SecureZip can be found in <xref href="#using-securezip" format="dita">Using SecureZIP</xref>.</p>
+              sensitive information may be shared with a 3rd party using a
+              commercial grade encryption product such as SecureZip.
+              Further information on the use of SecureZip can be found in
+              <xref href="#using-securezip" format="dita">Using SecureZIP</xref>.</p>
             <note>File encryption does not protect the name of the file.
-              This could reveal clues as to the nature and importance of the encrypted data.
+              This could reveal clues as to the nature and importance of the
+              encrypted data.
               Encrypted files should be given innocuous names for transmission.
               If the data is contained in numerous small files,
-              these should be collected together into a single archive ("zip") file.
+              these should be collected together into a single archive
+              (<q>zip</q>) file.
               This archive should then be encrypted.
               Each file or archive should be sent separately,
               rather than attaching multiple encrypted files to a single e-mail.</note>
@@ -272,9 +454,14 @@
       <topic id="sharing-information-above-official">
         <title>Sharing information above <codeph>OFFICIAL</codeph></title>
         <body>
-          <p>Where there is a business requirement to share information classified higher than <codeph>OFFICIAL</codeph>,
-            advice must be sought from the Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/>
-            or <ph conref="conrefs.dita#conrefs/ciso"/> prior to completing a <xref href="#data-movement-form-dmf" format="dita">Data Movement Form</xref>.</p>
+          <p>Where there is a business requirement to share information classified
+            higher than <codeph>OFFICIAL</codeph>,
+            advice <ph conref="conrefs.dita#conrefs/policyshall"/>
+            be sought from the Operational Security Team:
+            <ph conref="conrefs.dita#conrefs/ostemail"/>
+            or <ph conref="conrefs.dita#conrefs/ciso"/> prior to completing a
+            <xref href="#data-movement-form-dmf" format="dita">Data Movement
+              Form</xref>.</p>
         </body>
       </topic>
     </topic>
@@ -282,27 +469,116 @@
   <topic id="data-movement-form-dmf">
     <title>Data Movement Form (DMF)</title>
     <body>
-      <p>The purpose of the DMF is to ensure that the movement of information assets is secure,
+      <p>The Data Movement Form (DMF) is available <ph platform="intranet">on the
+      <xref href="file:///./gs/data-movement-form.docx"
+        format="docx" scope="external"><ph conref="conrefs.dita#conrefs/moj"/>
+        Intranet</xref></ph><xref href="file:///./gs/data-movement-form.docx"
+          format="docx" platform="github" scope="external">here</xref>.</p>
+      <p>The purpose of the DMF is to ensure that the movement of information
+        assets is secure,
         and in compliance with the <ph conref="conrefs.dita#conrefs/gov007"/>.</p>
-      <p>Failure to fulfil or comply with the controls and measures identified within the DMF will lead to unnecessary risk or exposure for the <ph conref="conrefs.dita#conrefs/moj"/> or the relevant Information Asset Owner (IAO) or Senior Information Risk Owner (SIRO).</p>
+      <p>Failure to fulfil or comply with the controls and measures identified
+        within the DMF will lead to unnecessary risk or exposure for the
+        <ph conref="conrefs.dita#conrefs/moj"/>,
+        or the relevant Information Asset Owner (IAO),
+        or the Senior Information Risk Owner (SIRO).</p>
+      <p>A DMF <ph conref="conrefs.dita#conrefs/policyshall"/> be completed,
+        and approval received from the <ph conref="conrefs.dita#conrefs/ostemailtext"/>,
+        for the following scenarios:
+        <ul>
+          <li>Data is being moved or shared by using a physical storage device to
+            transfer the information.
+          An example is where you use a <q>memory stick</q>,
+          a USB drive,
+          a storage array,
+          or some other removable media.
+        The DMF in this scenario focuses on the data being moved or shared.</li>
+          <li>Data is being moved or shared by electronic (network) communication,
+            where the movement is from an <ph conref="conrefs.dita#conrefs/moj"/>
+            IT system to an external party.
+          An example is using secure file transfer or approved email to transfer
+        the information.
+      The DMF in this scenario focuses on the data being moved or shared.</li>
+          <li>An asset (a <q>data bearing asset</q>) is being moved to,
+          or transported by,
+          an external party.
+          This might be as a result of an office move,
+          or because the asset is being decommissioned.
+            The asset might contain or process <ph conref="conrefs.dita#conrefs/moj"/>
+            information.
+            Examples of data bearing assets include laptops,
+            servers,
+            multi-functional devices,
+            and any other data bearing peripherals.
+          The DMF in this scenario focuses on the asset being moved or
+          transported,
+          rather than the <ph conref="conrefs.dita#conrefs/moj"/> information
+          that the asset might contain or process.</li>
+        </ul></p>
+        <p>A DMF <ph conref="conrefs.dita#conrefs/policyshall"/>
+        be submitted to the <ph conref="conrefs.dita#conrefs/ostemailtext"/>
+        for information purposes,
+        in the following scenarios:
+          <ul>
+            <li>Data is being moved or shared by electronic (network) communication,
+              where the movement is entirely within or between
+              <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</li>
+            <li>Data is being moved in full compliance with the already-approved
+              service design and operation specification and procedures.</li>
+                  <li>An asset (a <q>data bearing asset</q>) is being moved
+                  but remains within the <ph conref="conrefs.dita#conrefs/moj"/>
+                  or its supplier-provided and
+                  <ph conref="conrefs.dita#conrefs/moj"/>-approved facilities at
+                  all times.</li>
+          </ul>
+        <note>In the informational scenarios,
+        a DMF is only expected the first time a data movement or sharing takes
+        place.
+        Subsequent,
+        repeat instances of the movement or sharing,
+        do not require a re-submission of the DMF.
+        For example,
+        when setting up a backup process as part of an approved service design,
+        a DMF is created and submitted to the <ph conref="conrefs.dita#conrefs/ostemailtext"/>
+        for information purposes,
+        but does not need to be re-created or re-submitted for each backup occurrence.
+        If the implementation or process for the data movement or sharing changes,
+        for example a new new backup technology or process is deployed,
+        then a fresh informational DMF is required.</note>
+      </p>
+      <p>In any case of doubt,
+        it is always advisable to complete a DMF
+        and await approval or other feedback from the
+        <ph conref="conrefs.dita#conrefs/ostemailtext"/>.</p>
     </body>
   </topic>
   <topic id="using-securezip">
     <title>Using SecureZIP</title>
     <body>
-      <p>SecureZip is a compression and encryption product which can be used to encrypt sensitive data for use in removable media and e-mail based information transfers.</p>
-      <note>SecureZip can produce <q>self-extracting</q> encrypted files that are executable programs which are likely to be blocked by network firewalls or e-mail content checkers.</note>
+      <p>SecureZip is a compression and encryption product which can be used to
+        encrypt sensitive data for use in removable media and e-mail based
+        information transfers.</p>
+      <note>SecureZip can produce <q>self-extracting</q> encrypted files that are
+      executable programs which are likely to be blocked by network firewalls or
+      e-mail content checkers.</note>
       <p>The general rules for transmitting a password to a recipient are:
       <ul>
-        <li>Never transfer the password with the encrypted file, or even over the same communication channel.
-        Use an alternative method, for example if an encrypted file is sent by email, communicate the password or key via SMS text message, letter, fax or phone call.</li>
+        <li>Never transfer the password with the encrypted file, or even over the
+          same communication channel.
+        Use an alternative method, for example if an encrypted file is sent by
+        email, communicate the password or key via SMS text message, letter, fax
+        or phone call.</li>
         <li>Transfer the encrypted data file first.
-        Only send the password or key after the recipient has confirmed receipt of the file.</li>
+        Only send the password or key after the recipient has confirmed receipt
+        of the file.</li>
         <li>Avoid detailing the purpose of a password when it is sent.</li>
-        <li>Avoid re-using passwords and demonstrate good security discipline to 3rd parties by creating a completely new password or phrase for each transmission.</li>
+        <li>Avoid re-using passwords and demonstrate good security discipline to
+          3rd parties by creating a completely new password or phrase for each
+          transmission.</li>
       </ul></p>
+      <p>More guidance on password best practices is
+        <xref href="passwords.dita" format="dita">available</xref>.</p>
     </body>
-    <topic id="self-generated-passwords" conref="passwords.dita#best-practices-for-everyone"><title/></topic>
   </topic>
   <topic id="reporting-data-loss" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title/></topic>
   <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>

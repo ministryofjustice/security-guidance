@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ransomware">
+  <title>Ransomware</title>
+  <body>
+    <p>Ransomware is a type of malicious software created or used by cybercriminals.
+      It prevents people or businesses from accessing their own data.
+      The software takes hold of the data,
+      holding it <q>hostage</q>,
+      until a ransom payment is made to release it.</p>
+  </body>
+  <topic id="preventing-ransomware-from-taking-hold-of-information">
+    <title>Preventing Ransomware from taking hold of information</title>
+    <body>
+      <ul>
+        <li>Store all your information in official <ph conref="conrefs.dita#conrefs/mojlong"/> systems.
+          This is general best practice,
+          and also minimises the risk of the data being accessed by the hackers.</li>
+        <li>Use a secure antivirus and firewall software.
+          All official <ph conref="conrefs.dita#conrefs/moj"/> systems
+          have these installed as standard.</li>
+        <li>Use a trustworthy VPN when accessing public networks through wifi,
+          for example when working remotely in a coffee shop.
+          All official <ph conref="conrefs.dita#conrefs/moj"/> systems
+          have a suitable VPN installed as standard.</li>
+        <li>Ensure your laptop computer is updated regularly.
+          All official <ph conref="conrefs.dita#conrefs/moj"/> systems
+          do this for you automatically,
+          as standard.</li>
+        <li>Use multi-factor authentication (MFA) methods.
+          Most <ph conref="conrefs.dita#conrefs/moj"/> systems support MFA,
+          but you might have to enable it yourself.</li>
+        <li>Do not provide any personal information to unknown contacts.</li>
+        <li>Avoid unsecure apps or websites.</li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="things-to-look-out-for-if-you-suspect-you-have-become-victim-to-a-ransomware-attack">
+    <title>Things to look out for if you suspect you have become victim to a ransomware attack</title>
+    <body>
+      <ul>
+        <li>Unable to open documents.</li>
+        <li>Suspicious file names.
+          Files encrypted by ransomware tend to end with <codeph>.crypted</codeph> or <codeph>.cryptor</codeph>,
+          rather than the more typical names such as <codeph>.docx</codeph>,
+          <codeph>.pdf</codeph>,
+          or <codeph>.jpeg</codeph>.</li>
+          <li>An unrecognised pop-up screen prevents access to your computer.</li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="what-to-do-if-you-think-a-ransomware-attack-is-affecting-your-system">
+    <title>What to do if you think a ransomware attack is affecting your system</title>
+    <body>
+      <p>In the event of a ransomware attack,
+        or if you have suspicions one may be taking place,
+        the first thing to do is to <xref href="#incidents-and-contact-details"
+        format="dita">contact your local <ph conref="conrefs.dita#conrefs/servicedesk"/></xref>.</p>
+      <p>With your help, the IT team attempt to determine which systems have been impacted,
+        and can isolate them immediately.
+        You might be asked to disconnect all your devices from the network or wifi connection,
+        to prevent a further spread of attacks throughout the business.</p>
+    </body>
+  </topic>
+  <topic id="incidents-and-contact-details" conref="conrefs.dita#conrefs/incidents-and-contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

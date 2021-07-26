@@ -1,18 +1,41 @@
-# Training and Education
+#Training and Education
 
-The Ministry of Justice (MoJ)'s Information Security awareness programme plays an essential part in maintaining security. It informs all MoJ staff of:
+##Overview
 
--   Their duties with regard to security.
--   Their responsibilities to protect the assets they have access to and use. The assets include information, equipment, people and buildings.
--   The importance of reporting any actual or suspected security incidents.
+This information applies to anyone and everyone working for, or with, the Ministry of Justice (MoJ).
 
-<a id="source"></a>
-## Source
+The MoJ's Information Security awareness programme plays an essential part in maintaining security. It informs all MoJ staff of:
 
-Guidance is provided to staff via the [Security section](https://intranet.justice.gov.uk/guidance/security/) of the MoJ Intranet. All new staff starting work within the MoJ will receive mandatory IA training. This should ensure that the new staff member is made aware of their security responsibilities whilst working at the MoJ.
+* Their duties with regard to security.
+* Their responsibilities to protect the assets (information, equipment, people and buildings) they have access to and use.
+* The importance of reporting any actual or suspected security incidents.
 
-<a id="feedback"></a>
-## Feedback
+##Requirements
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+All staff starting or returning to work within the MoJ **SHALL** receive mandatory security training.
+
+The objective is to ensure that all new and current staff members are aware of their security responsibilities whilst working at the MoJ.
+
+Full details of the mandatory training are provided in the Joiner, Mover, and Leaver pages on the MoJ [Intranet](/guidance/security/).
+
+In summary, as a minimum everyone **SHALL**:
+
+* Have taken and completed an MoJ Security [induction](/guidance/hr/induction/).
+* Have completed the [Civil Service Learning](https://learn.civilservice.gov.uk/home) course on “Responsible for Information (RfI)”, or an approved equivalent.
+
+Normally, this training **SHALL** be completed successfully before accessing MoJ information, resources, or assets.
+
+##Further information
+
+More details are provided to staff on the MoJ Intranet, [/](/).
+
+##Contacts
+
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+
+---
+
+##Feedback
+
+If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
 

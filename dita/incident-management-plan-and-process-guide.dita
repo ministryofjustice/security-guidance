@@ -150,8 +150,8 @@
                     <li>Providing progress reports on specific incidents to relevant parties.</li></ul></p></entry>
               </row>
               <row>
-                <entry colname="col1">IT Service Desk</entry>
-                <entry colname="col2">The <ph conref="conrefs.dita#conrefs/moj"/> IT service desk act as the first point of contact for <ph conref="conrefs.dita#conrefs/moj"/> IT Users reporting an IT security event. Their function is to ensure that the details of the incident are captured and the OST are informed.</entry>
+                <entry colname="col1"><ph conref="conrefs.dita#conrefs/servicedesk"/></entry>
+                <entry colname="col2">The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/servicedesk"/> acts as the first point of contact for <ph conref="conrefs.dita#conrefs/moj"/> IT Users reporting an IT security event. Their function is to ensure that the details of the incident are captured and the OST are informed.</entry>
               </row>
             </tbody>
           </tgroup>
@@ -255,7 +255,7 @@
               </row>
               <row>
                 <entry colname="col1">Monitoring Services</entry>
-                <entry colname="col2">For an ITSIM plan to be effective, a consummate incident detection and monitoring service must be in place and active. For most <ph conref="conrefs.dita#conrefs/moj"/> ITSIM plans, this will involve the <ph conref="conrefs.dita#conrefs/moj"/> Operations Security Team (OST) acting as the centralised monitoring and management service where incident reports are fed to them, for example, from automated security controls (such as virus detection alerts from an anti-virus client) or manually by a User reporting the loss of a <ph conref="conrefs.dita#conrefs/moj"/> laptop to the IT service desk.</entry>
+                <entry colname="col2">For an ITSIM plan to be effective, a consummate incident detection and monitoring service must be in place and active. For most <ph conref="conrefs.dita#conrefs/moj"/> ITSIM plans, this will involve the <ph conref="conrefs.dita#conrefs/moj"/> Operations Security Team (OST) acting as the centralised monitoring and management service where incident reports are fed to them, for example, from automated security controls (such as virus detection alerts from an anti-virus client) or manually by a User reporting the loss of a <ph conref="conrefs.dita#conrefs/moj"/> laptop to the <ph conref="conrefs.dita#conrefs/servicedesk"/>.</entry>
               </row>
               <row>
                 <entry colname="col1">Training and Awareness</entry>

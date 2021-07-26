@@ -51,28 +51,38 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta audience="audience-basic audience-tech"><navtitle>Teleworking</navtitle></topicmeta>
 			<topicref href="accessing-moj-it-systems-from-overseas.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="general-advice-on-taking-equipment-overseas.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="overseas-travel.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="personal-devices.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 	</topichead>
 
 	<topichead audience="audience-basic audience-tech">
-		<topicmeta audience="audience-basic audience-tech"><navtitle>Human resource security</navtitle></topicmeta>
-		<topichead audience="audience-basic audience-tech">
-			<topicmeta audience="audience-basic audience-tech"><navtitle>Prior to employment</navtitle></topicmeta>
-			<topicref href="end-or-change-of-employment.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="national-security-vetting-questions.dita" type="topic" audience="audience-basic audience-tech"/>
+		<topicmeta><navtitle>Human resource security</navtitle></topicmeta>
+		<topichead>
+			<topicmeta><navtitle>Prior to employment</navtitle></topicmeta>
+			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
+			<topicref href="national-security-vetting-for-external-candidates-faq.dita" type="topic"/>
+			<topicref href="national-security-vetting-questions.dita" type="topic"/>
+			<topicref href="pre-employment-screening.dita" type="topic"/>
+			<topicref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" type="topic"/>
+			<topicref href="security-clearance-appeals-policy.dita" type="topic"/>
 			<!-- The security vetting assessment need webpage is not required, only the download document. -->
-			<topicref href="security-vetting-assessment-need.dita" type="topic" audience="audience-basic audience-tech" processing-role="resource-only"/>
-			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="security-vetting-assessment-need.dita" type="topic" processing-role="resource-only"/>
 		</topichead>
-		<topichead audience="audience-basic audience-tech">
+		<topichead>
 			<topicmeta><navtitle>During employment</navtitle></topicmeta>
+			<topicref href="ongoing-personnel-security.dita" type="topic"/>
+			<topicref href="personnel-risk-assessment.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="reporting-personal-circumstance-changes.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="training-and-education.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="voluntary-drug-testing-policy.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="voluntary-drug-testing-policy-procedures.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
-		<!--
-		<topichead navtitle="Termination and change of employment">
+		<topichead>
+			<topicmeta><navtitle>Termination and change of employment"></navtitle></topicmeta>
+			<topicref href="end-or-change-of-employment.dita" type="topic"/>
+			<topicref href="leavers-with-nsc-and-nscvs.dita" type="topic"/>
 		</topichead>
-		-->
 	</topichead>
 
 	<topichead audience="audience-basic audience-suppliers audience-tech">
@@ -166,6 +176,7 @@ if an audience attribute is present, then only matching content is included.
 		<topichead audience="audience-basic audience-suppliers audience-tech">
 			<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Equipment</navtitle></topicmeta>
 			<topicref href="clear-screen-and-desk.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
+			<topicref href="equipment-reassignment-guide.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="laptops.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="locking-and-shutdown.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="policies-for-macbook-users.dita" type="topic" audience="audience-basic audience-tech"/>
@@ -182,13 +193,14 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="public-sector-dns.dita" type="topic" audience="audience-tech"/>
 			<topicref href="web-check.dita" type="topic" audience="audience-tech"/>
 		</topichead>
-		<topichead audience="audience-tech">
-			<topicmeta audience="audience-tech"><navtitle>Protection from malware</navtitle></topicmeta>
+		<topichead audience="audience-basic audience-tech">
+			<topicmeta audience="audience-basic audience-tech"><navtitle>Protection from malware</navtitle></topicmeta>
 			<topicref href="malware-protection-guide-introduction.dita" type="topic" audience="audience-tech">
 				<topicref href="malware-protection-guidance-defensive-layer-1.dita" type="topic" audience="audience-tech"/>
 				<topicref href="malware-protection-guidance-defensive-layer-2.dita" type="topic" audience="audience-tech"/>
 				<topicref href="malware-protection-guidance-defensive-layer-3.dita" type="topic" audience="audience-tech"/>
 			</topicref>
+			<topicref href="ransomware.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 		<topichead audience="audience-tech">
 			<topicmeta audience="audience-tech"><navtitle>Backup</navtitle></topicmeta>
@@ -245,13 +257,19 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="multiple-consecutive-back-to-back-firewalls.dita" type="topic" audience="audience-tech"/>
 			<topicref href="networks-bearers-not-trust.dita" type="topic" audience="audience-tech"/>
 		</topichead>
-		<topichead audience="audience-basic audience-tech">
+		<topichead audience="audience-basic audience-suppliers audience-tech">
 			<topicmeta audience="audience-basic audience-tech"><navtitle>Information transfer</navtitle></topicmeta>
 			<topicref href="bluetooth.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="cjsm.dita" type="topic" audience="audience-tech"/>
 			<topicref href="data-sovereignty.dita" type="topic" audience="audience-tech"/>
-			<topicref href="email.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="email.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
+			<topicref href="email-security-guide.dita" type="topic" audience="audience-suppliers audience-tech">
+				<topicref href="email-authentication-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
+				<topicref href="secure-email-transfer-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
+				<topicref href="spam-and-phishing-guide.dita" type="topic" audience="audience-tech"/>
+			</topicref>
 			<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="secure-data-transfer-guide.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="web-browsing.dita" type="topic" audience="audience-basic audience-tech">
 				<topicref href="web-browsing-security-policy-profiles.dita" type="topic" audience="audience-basic audience-tech"/>
 			</topicref>
@@ -324,7 +342,7 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 	-->
 	</topichead>
-	
+
 	<topichead audience="audience-basic audience-suppliers audience-tech">
 		<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Compliance</navtitle></topicmeta>
 		<topichead audience="audience-basic audience-suppliers audience-tech">
@@ -361,6 +379,11 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta><navtitle>Risk Assessment Process</navtitle></topicmeta>
 			<topicref href="risk-reviews.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
+	</topichead>
+
+	<topichead audience="audience-basic audience-suppliers audience-tech">
+		<topicmeta><navtitle>Glossary and Acronyms</navtitle></topicmeta>
+		<topicref href="glossary.dita" type="topic"/>
 	</topichead>
 
 	<reltable>

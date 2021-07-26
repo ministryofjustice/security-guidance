@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="pre-employment-screening-and-vetting-of-external-candidates-faqs">
+  <title>Pre-Employment Screening and Vetting of External Candidates - FAQs</title>
+  <body>
+    <p>This document describes pre-employment screening and National Security
+      Vetting when recruiting External Candidates.</p>
+    <p>It answers Frequently Asked Questions (FAQs) for recruiting managers.</p>
+    <p>A downloadable version of this information is available
+      <xref href="file:///./gs/pre-employment-screening-and-vetting-of-external-candidates-faqs.docx"
+        format="docx" scope="external">here</xref>.</p>
+  </body>
+  <topic id="section-1-pre-employment-screening-for-directly-employed-staff">
+    <title>Section 1: Pre-employment screening for directly employed staff</title>
+    <body/>
+    <topic id="q1-what-is-pre-employment-screening">
+      <title>Q1. What is pre-employment screening?</title>
+      <body>
+        <p>Pre-employment screening involves a series of checks to help us make
+          informed decisions about the suitability of people to work for the
+          <ph conref="conrefs.dita#conrefs/mojlong"/> and its agencies.
+          These checks ensure:
+        <ul>
+          <li>Compliance with current legislation,
+            for example evidence of right to work in the UK.</li>
+          <li>That applicants are who they say they are.</li>
+          <li>The integrity of the applicant,
+            the organisation,
+            and the safety of staff and others in our care.</li>
+        </ul></p>
+        <p>All individuals working with the <ph conref="conrefs.dita#conrefs/moj"/>
+        <ph conref="conrefs.dita#conrefs/policyshall"/> be required to complete a
+        Baseline Personnel Security Standard (BPSS) check prior to taking up
+        their role.</p>
+        <p>In addition,
+          Disclosure and Barring Service (DBS) clearances might be
+          required but only where the role involves interaction with
+          children or vulnerable adults.
+          These clearances are carried out through either a Standard or an
+          Enhanced check.</p>
+        <p>National Security Vetting (NSV) might be required but only
+        where the role requires Counter Terrorist Check (CTC),
+        Security Clearance (SC) or Developed Vetting (DV) clearance.
+        See <xref format="dita" platform="github"
+        href="#section-2-staff-recruited-from-external-sources-non-directly-employed">Section
+        2</xref><ph platform="intranet">Section 2</ph> for more information.
+        <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/"
+          format="html" scope="external">NSV</xref> is separate and additional
+          to pre-employment screening checks.</p>
+      </body>
+    </topic>
+    <topic id="q2-what-is-bpss">
+      <title>Q2. What is BPSS?</title>
+      <body>
+        <p>Baseline Personnel Security Standard (BPSS) is the minimum level of
+          clearance for all people working across the Civil Service.
+          A BPSS check comprises of the following components or checks:
+        <ul>
+          <li>Confirmation of right to work in the UK.</li>
+          <li>Confirmation of ID and address.</li>
+          <li>Eligibility.</li>
+          <li>Criminal convictions.</li>
+          <li>Employment history.</li>
+          <li>Counter-signatory reference (where relevant).</li>
+          <li>Health check (where relevant).</li>
+        </ul></p>
+      </body>
+    </topic>
+    <topic id="q3-how-does-the-vacancy-manager-know-what-level-of-clearance-a-role-requires">
+      <title>Q3. How does the vacancy manager know what level of clearance a
+        role requires?</title>
+      <body>
+        <p>Vacancy managers <ph conref="conrefs.dita#conrefs/policyshall"/>
+        always advertise their roles at the correct level of clearance required.
+        Levels of clearance are defined by the requirements of the role being filled,
+        not by the level of clearance the candidate already possesses.
+        Your National Security Vetting Contact (NSVC) can confirm whether the
+        role requires national security vetting in addition to pre-employment checks.
+        Wrongly classifying roles at advert stage leads to delays in on-boarding.</p>
+        <p><ph conref="conrefs.dita#conrefs/nsvc-contact"/></p>
+      </body>
+    </topic>
+    <topic id="q4-what-is-the-process-for-completing-pre-employment-checks">
+      <title>Q4. What is the process for completing pre-employment checks?</title>
+      <body>
+        <p>This depends on how the candidate is being recruited,
+          and their level in the organisation.</p>
+      </body>
+      <topic id="bands-a-f-non-scs-recruited-through-fair-and-open-recruitment">
+        <title>Bands A-F (non-SCS) recruited through fair and open recruitment</title>
+        <body>
+          <ul>
+            <li>All candidates <ph conref="conrefs.dita#conrefs/policyshall"/>
+            undergo pre-employment checks relevant to the role.</li>
+            <li>SSCL ask applicants to bring their Right to Work (RTW),
+              ID,
+              and address documentation to interview.</li>
+            <li>Line managers <ph conref="conrefs.dita#conrefs/policyshall"/>
+            check these documents,
+            make a note of the document reference numbers,
+            and input these into Oleeo (the recruitment website),
+            at the Interview Scores Entered stage.</li>
+            <li>If the applicant is successful at interview,
+              SSCL makes a provisional offer,
+              and asks the candidate to upload copies of the same RTW,
+              ID,
+              and address documents into Oleeo.</li>
+            <li>If NSV is required for the role (as indicated by the vacancy
+              manager in the advert),
+              SSCL also sends a link to the candidate so they can complete an
+              on-line security questionnaire on the NSVS portal.</li>
+          </ul>
+        </body>
+      </topic>
+      <topic id="scs-grades">
+        <title>SCS Grades</title>
+        <body>
+          <ul>
+            <li>The <ph conref="conrefs.dita#conrefs/moj"/> SCSBP team work
+            closely with Civil Service Resourcing (CSR),
+            now called Government Recruitment Service (GRS),
+            who manage the SCS recruitment campaigns through open and fair
+            competition.</li>
+            <li>GSR notify the <ph conref="conrefs.dita#conrefs/moj"/> SCSBP
+            Team of the successful candidate at interview stage.</li>
+            <li>The <ph conref="conrefs.dita#conrefs/moj"/> SCSBP team contacts
+            the candidate to initiate the on-boarding process,
+            and sends the candidate forms to complete so that SSCL can prepare
+            and issue their contract.</li>
+            <li>SCSBP team also arrange a date to meet the candidate and verify
+              their identity documents.
+              These details are used to complete the Clearance Request Form (CRF)
+              and send this to SSCL via the National Security Vetting Contact
+              (NSVC) in the business area.</li>
+            <li>Once SSCL processes the CRF Form,
+              a link is sent to the candidate by email to complete the required
+              security checks on the NSVS portal.</li>
+          </ul>
+        </body>
+      </topic>
+      <topic id="non-directly-employed-staff">
+        <title>Non-directly employed staff</title>
+        <body>
+          <p>See <xref href="#section-2-staff-recruited-from-external-sources-non-directly-employed"
+            format="dita">Section 2</xref>.</p>
+        </body>
+      </topic>
+    </topic>
+    <topic id="q5-how-long-do-the-pre-employment-and-vetting-checks-take">
+      <title>Q5. How long do the pre-employment and vetting checks take?</title>
+      <body>
+        <p>Any clearances can involve multiple teams and depend on the level of
+          check.</p>
+        <p>If all information and the correct documents have been provided,
+          the average time for the checks to be completed is:
+        <ul>
+          <li>Baseline Personnel Security Standard (BPSS): average 6 days</li>
+          <li>Disclosure Barring Service (DBS) standard checks: New checks
+            average 5 days</li>
+          <li>Disclosure Barring Service (DBS) enhanced checks: New checks
+            average 6 days</li>
+          <li>Counter terrorist check (CTC): New checks minimum six weeks,
+            averaging six weeks</li>
+          <li>Security clearance (SC): New checks minimum six weeks,
+            averaging six weeks</li>
+          <li>Developed vetting (DV): New checks minimum 18 weeks.</li>
+        </ul></p>
+        <p>Although the majority of DBS enhanced checks are completed in six
+          working days,
+          in some parts of the country police authorities quote a six to seven
+          week response time.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="section-2-staff-recruited-from-external-sources-non-directly-employed">
+    <title>Section 2: Staff recruited from external sources (non-directly employed)</title>
+    <body>
+      <p>All staff joining the <ph conref="conrefs.dita#conrefs/moj"/> from
+      external sources (non-directly employed) are required to complete a BPSS
+      check.</p>
+      <p>Non-directly employed workers include the following:
+      <ul>
+        <li>Consultants.</li>
+        <li>Contractors.</li>
+        <li>Agency staff.</li>
+        <li>Fee-Paid workers.</li>
+      </ul></p>
+      <p>Managers <ph conref="conrefs.dita#conrefs/policymust"/> ensure that
+      these applicants undergo the mandatory BPSS checks covering identity,
+        nationality,
+        immigration,
+        right to work,
+        employment history,
+        and criminal records checks.
+        They can check the results on the BPSS Verification Record form,
+        which employers <ph conref="conrefs.dita#conrefs/policymust"/> complete
+        to verify that the checks have been made.
+        <note>SSCL do not conduct these checks.</note></p>
+      <p>Further guidance,
+        and a link to the BPSS Verification Form,
+        can be found on the <ph conref="conrefs.dita#conrefs/moj"/> <xref
+        href="https://intranet.justice.gov.uk/guidance/security/personnel-security-prior-to-employment/"
+        format="html" scope="external">Intranet</xref>.</p>
+    </body>
+    <topic id="if-you-have-posts-that-require-nsv">
+      <title>If you have posts that require NSV</title>
+      <body>
+        <p>If NSV is required for the role,
+          the vacancy manager <ph conref="conrefs.dita#conrefs/policymust"/>
+          discuss this with their National Security Vetting Contact (NSVC),
+          and obtain a code that is entered on the Clearance Request Form (CRF)
+          prior to submission to SSCL.</p>
+        <p><ph conref="conrefs.dita#conrefs/nsvc-contact"/>
+        <ul>
+          <li>SSCL only accepts requests with a valid vetting reference code
+            provided on the CRF.</li>
+          <li>SSCL sends a link to the candidate so they can complete their
+            on-line security questionnaire on the NSVS portal.</li>
+        </ul></p>
+        <p>To progress NSV applications,
+          SSCL requires evidence of completion of BPSS checks from the contractor
+          or agency before NSV can be started.
+          If you need more information,
+          contact SSCL on 0845 241 5359 (option 1).</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="section-3-national-security-vetting">
+    <title>Section 3: National Security Vetting</title>
+    <body/>
+    <topic id="q1-what-is-national-security-vetting-nsv">
+      <title>Q1. What is National Security Vetting (NSV)?</title>
+      <body>
+        <p>There are 3 levels of national security clearance:
+        <ul>
+          <li>Counter Terrorist Check (CTC).</li>
+          <li>Security Clearance (SC).</li>
+          <li>Developed Vetting (DV).</li>
+        </ul></p>
+        <p>These are mandatory for certain job roles and locations throughout
+          the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+        <p>You need the appropriate level of national security clearance if:
+        <ul>
+          <li>You have a proximity to public figures who have been assessed to
+            be at risk from terrorist attack.</li>
+          <li>You work in a role which has the potential to cause significant
+            damage to the <ph conref="conrefs.dita#conrefs/moj"/> or its assets.</li>
+        </ul></p>
+      </body>
+    </topic>
+    <topic id="q2-how-long-does-national-security-vetting-take">
+      <title>Q2. How long does national security vetting take?</title>
+      <body>
+        <p>Typical timings from completion of application are
+        <ul>
+          <li>Counter Terrorist Check (CTC): New checks minimum six weeks,
+            averaging six weeks.</li>
+          <li>Security Clearance (SC): New checks minimum six weeks,
+            averaging six weeks.</li>
+          <li>Developed Vetting (DV): New checks minimum 18 weeks.</li>
+        </ul></p>
+      </body>
+    </topic>
+    <topic id="q3-nsv-takes-too-long-can-the-candidate-start-at-bpss-and-apply-for-nsv-once-they-are-in-post">
+      <title>Q3. NSV takes too long,
+        can the candidate start at BPSS and apply for NSV once they are in post?</title>
+      <body>
+        <p>If NSV is required for a position,
+          candidates <ph conref="conrefs.dita#conrefs/policyshouldnot"/> start
+          until their NSV is confirmed.</p>
+        <p>In exceptional circumstances,
+          a policy dispensation request <ph conref="conrefs.dita#conrefs/policycan"/>
+          be made to the Cluster 2 Security Unit (C2SU).
+          Do this by emailing <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>.
+          C2SU recommend whether to grant or refuse the request.
+          Any required risk mitigation measures will be provided by C2SU and
+          <ph conref="conrefs.dita#conrefs/policymust"/> require
+          the Senior Security Advisor and the business unit to sign-up to these
+          required measures.</p>
+        <p>Contractors and Agency staff <ph conref="conrefs.dita#conrefs/policymust"/>
+        have their NSV in place before they start.
+        For help,
+        contact your NSVC in the first instance.
+        <ph conref="conrefs.dita#conrefs/nsvc-contact"/></p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="section-4-applying-for-nsv">
+    <title>Section 4: Applying for NSV</title>
+    <body/>
+    <topic id="q1-i-submitted-an-nsv-request-several-weeks-ago-how-do-i-find-out-where-it-is">
+      <title>Q1. I submitted an NSV request several weeks ago,
+        how do I find out where it is?</title>
+      <body>
+        <p>Contact the SSCL contact centre on 0845 241 5359 (option 1).
+          SSCL are responsible for the registration and sponsoring of all
+          applications for the NSVS portal.</p>
+      </body>
+    </topic>
+    <topic id="q2-sscl-have-told-me-that-they-have-completed-sponsors-actions-what-does-that-mean">
+      <title>Q2. SSCL have told me that they have completed sponsors' actions,
+        what does that mean?</title>
+      <body>
+        <p>It means that your security questionnaire has been forwarded to
+          United Kingdom Security Vetting (UKSV),
+          and the vetting process has started.
+          All actions are complete at the <ph conref="conrefs.dita#conrefs/moj"/>.
+          There are no further actions until UKSV returns the file with a
+          decision.</p>
+      </body>
+    </topic>
+    <topic id="q3-why-is-the-candidate-required-to-fill-in-forms-on-the-nsvs-portal-and-provide-information-that-may-already-be-held-elsewhere-in-the-recruitment-process">
+      <title>Q3. Why is the candidate required to fill in forms on the NSVS portal
+        and provide information that may already be held elsewhere in the
+        recruitment process?</title>
+      <body>
+        <p>NSV is a separate process to anything HR-related.
+          For legal reasons,
+          we often have to ask applicants questions to confirm facts.
+          Even if we have that information elsewhere,
+          we still require the applicant to confirm it.
+          It is usually easier to gather everything we need in one process;
+          the alternative would be to repeatedly return for further information.
+          Experience has shown that this causes significant delay,
+          and we don't ask for information that we would not need.</p>
+      </body>
+    </topic>
+    <topic id="q4-what-if-the-candidate-doesnt-complete-specific-dates-and-details-for-the-security-questionnaire">
+      <title>Q4. What if the candidate doesn't complete specific dates and
+        details for the Security Questionnaire?</title>
+      <body>
+        <p>All required information on the Security Questionnaire must be
+          completed in full and to the best of the candidate's knowledge.
+          If certain dates or information are not known,
+          an explanation should be added in the information box.
+          Missing or incorrect data will delay the application because the file
+          will be referred to a vetting officer who will have to investigate and
+          find the missing data.</p>
+      </body>
+    </topic>
+    <topic id="q5-what-happens-if-the-candidate-leaves-out-information">
+      <title>Q5. What happens if the candidate leaves out information?</title>
+      <body>
+        <p>For security reasons we cannot give too much detail about the
+          vetting process;
+          however,
+          we can confirm that information is checked in a variety of systems and
+          databases.
+          If information is mis-matched,
+          it forces the file to be referred to a vetting officer and this
+          intervention causes significant delay.
+          Thirteen percent of all NSV cases are rejected because the subject
+          doesn't provide their middle name(s) and it is not unusual for people
+          to put the wrong date of birth.
+          It is crucial that accurate information is provided;
+          it really helps vet people quickly.</p>
+      </body>
+    </topic>
+    <topic id="q6-my-candidate-completed-the-national-security-vetting-application-some-time-ago-and-hasnt-heard-anything-who-can-i-check-this-with">
+      <title>Q6. My candidate completed the national security vetting
+        application some time ago and hasn't heard anything,
+        who can I check this with?</title>
+      <body>
+        <p>SC/CTC takes a minimum of six weeks and DV takes at least 18 weeks.
+          If this time frame has been passed,
+          contact the National Security Vetting Contact (NSVC) who requested clearance and they can contact SSCL for an update.</p>
+        <p><ph conref="conrefs.dita#conrefs/nsvc-contact"/></p>
+      </body>
+    </topic>
+    <topic id="q7-why-cant-candidates-use-an-apple-machine-or-ipad-to-submit-the-nsv-security-questionnaire">
+      <title>Q7. Why can't candidates use an Apple machine or iPad to submit the
+        NSV security questionnaire?</title>
+      <body>
+        <p>NSVS is run by UKSV.
+          There are very strict controls in place to make certain that the
+          information you provide is secure.
+          Apple products work in a different way and UKSV can't be assured by
+          Apple that their platform is secure.
+          We do not expect that will change in the foreseeable future.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="section-5-changes-to-roles-or-personal-circumstances">
+    <title>Section 5: Changes to roles or personal circumstances</title>
+    <body>
+      <p>This section contains information for managers,
+        and for staff who are already in the
+        <ph conref="conrefs.dita#conrefs/moj"/>,
+        regarding changes to roles or personal circumstances.</p>
+    </body>
+    <topic id="q1-i-am-a-manager-and-i-think-a-member-of-my-team-needs-a-national-security-vetting-clearance-to-do-a-new-piece-of-work-what-should-i-do">
+      <title>Q1. I am a manager and I think a member of my team needs a national
+        security vetting clearance to do a new piece of work.
+        What should I do?</title>
+      <body>
+        <p>Talk to your NSVC.
+          All business areas that have at least one member of staff who holds
+          Security Clearance should have one.
+          <ph conref="conrefs.dita#conrefs/nsvc-contact"/></p>
+      </body>
+    </topic>
+    <topic id="q2-my-national-security-vetting-clearance-is-going-to-expire-soon-what-should-i-do">
+      <title>Q2. My national security vetting clearance is going to expire soon,
+        what should I do?</title>
+      <body>
+        <p>Speak to your NSVC.
+          They decide if it needs to be renewed and help you start the process off.
+          <ph conref="conrefs.dita#conrefs/nsvc-contact"/></p>
+      </body>
+    </topic>
+    <topic id="q3-my-personal-circumstances-have-changed-who-should-i-advise">
+      <title>Q3. My personal circumstances have changed,
+        who should I advise?</title>
+      <body>
+        <p>For all changes in personal circumstances,
+          contact Cluster 2 Personnel Risk Management by emailing
+          <xref href="mailto:VettingAftercare@cluster2security.gov.uk"
+            format="email" scope="external">VettingAftercare@cluster2security.gov.uk</xref>.</p>
+        <p>You can find more information <xref
+          href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/reporting-personal-circumstance-changes/"
+          format="html" scope="external">here</xref>.</p>
+      </body>
+    </topic>
+  </topic>
+	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
