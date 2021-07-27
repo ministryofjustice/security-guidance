@@ -43,7 +43,9 @@ if an audience attribute is present, then only matching content is included.
 		<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Mobile devices and teleworking</navtitle></topicmeta>
 		<topichead audience="audience-basic audience-suppliers audience-tech">
 			<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Mobile device policy</navtitle></topicmeta>
-			<topicref href="remote-working.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
+			<topicref href="mobile-device-and-remote-working-policy.dita" type="topic" audience="audience-basic audience-suppliers audience-tech">
+				<topicref href="remote-working.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
+			</topicref>
 		</topichead>
 		<topichead audience="audience-basic audience-tech">
 			<topicmeta audience="audience-basic audience-tech"><navtitle>Teleworking</navtitle></topicmeta>
@@ -105,8 +107,10 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 		<topichead audience="audience-basic audience-suppliers audience-tech">
 			<topicmeta><navtitle>Media handling</navtitle></topicmeta>
-			<topicref href="removable-media.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
-			<topicref href="secure-disposal-of-it-equipment.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
+			<topicref href="removable-media.dita" type="topic"/>
+			<topicref href="secure-disposal-of-it-equipment.dita" type="topic">
+				<topicref href="secure-disposal-of-it-physical-and-on-premise.dita" type="topic"/>
+			</topicref>
 		</topichead>
 	</topichead>
 

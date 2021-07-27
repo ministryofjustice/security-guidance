@@ -21,6 +21,7 @@
         -   [Removable media](removable-media.md)
         -   [Secure Data Transfer Guide](secure-data-transfer-guide.md)
         -   [Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)
+        -   [Secure disposal of IT - physical and on-premise](secure-disposal-of-it-physical-and-on-premise.md)
         -   [Web Browsing](web-browsing.md)
     * Laptops
         -   [Laptops](laptops.md)

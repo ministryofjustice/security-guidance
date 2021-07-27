@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 23 July 2021.
+**Note:** This guidance is dated: 27 July 2021.
 
 ### Popular links
 
@@ -27,7 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 23 August 2021.
+The offline versions of this guidance are time-limited, and are not valid after 27 August 2021.
 
 ### Searching this content
 
@@ -123,6 +123,7 @@ The documents have been developed and defined within this taxonomy, and are list
 
 #### Mobile device policy
 
+|[Mobile Device and Remote Working Policy](mobile-device-and-remote-working-policy.md)|All users \(Policy\)|
 |[Remote Working](remote-working.md)|All users|
 
 #### Teleworking
@@ -180,6 +181,7 @@ The documents have been developed and defined within this taxonomy, and are list
 
 |[Removable media](removable-media.md)|All users|
 |[Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)|All users|
+|[Secure disposal of IT - physical and on-premise](secure-disposal-of-it-physical-and-on-premise.md)|All users|
 
 ### Access control
 

@@ -1,14 +1,41 @@
 #Passwords
 
-This article provides guidance on passwords within the Ministry of Justice (MoJ). It helps you protect MoJ IT systems by telling you about choosing and using passwords. Whenever you see the word system here, it applies to:
+This article provides guidance on passwords and Personal Identification Numbers (PINs) within the Ministry of Justice (MoJ). It helps you protect MoJ IT systems by telling you about choosing and using passwords and PINs. Whenever you see the word system here, it applies to:
 
 * Hardware, such as laptops, PCs, servers, mobile devices, and any IT equipment.
 * Software, such as the Operating System, or applications installed on hardware, or mobile device applications (apps).
 * Services, such as remote databases or cloud-based tools like [Slack](https://slack.com/).
 
-This password guidance is for all users.
+This guidance is for all users.
 
-##Best practices for everyone
+**Note:** Except where stated, the guidance in this article applies to both passwords and PINs.
+
+##General best practices
+
+**Note:** This section applies to passwords and PINs.
+
+If a system or another person provides you with a password, change it before doing any MoJ work on that system. Examples of 'single-use' passwords include:
+
+* Your own account on a work-provided laptop.
+* A shared account for accessing a data analytics service.
+* All supplier or vendor supplied accounts.
+
+You **SHALL** change a password whenever:
+
+* There has been a security incident involving your account or password. For example, someone guessed your password, or you used it on another account.
+* There was a security incident with the service that you access using the password. For example, if someone broke into the system that provides the service you use.
+* Your line manager or other authorised person tells you to do so.
+
+When required to change a password, you **SHALL** do so as soon as possible. If you don't change the password soon enough, you might be locked out of your account automatically. The following table shows the maximum time allowed:
+
+|Type of system|Maximum time to change a password|
+|--------------|---------------------------------|
+|Single-user systems, such as laptops|1 week|
+|All other systems|1 day|
+
+##Best password practices for everyone
+
+**Note:** This section applies to passwords only, not PINs.
 
 The MoJ password guidance follows [NCSC guidance](https://www.ncsc.gov.uk/guidance/using-passwords-protect-your-data). The NCSC recommends a [simpler](https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach) approach to passwords. Some agencies or bodies might have specific requirements or variations. Check your team Intranet or ask your Line Manager for more information.
 
@@ -22,24 +49,20 @@ The most important points to remember are that passwords should be:
 * Not a dictionary word. A combination of dictionary words might be suitable, such as `CorrectHorseBatteryStaple`.
 * Unique for each account or service.
 
-If a system or another person provides you with a password, change it before doing any MoJ work on that system. Examples of 'single-use' passwords include:
+##Best PIN practices for everyone
 
-* Your own account on a work-provided laptop.
-* A shared account for accessing a data analytics service.
-* All supplier or vendor supplied accounts.
+**Note:** This section applies to PINs only, not passwords.
 
-You must change a password whenever:
+Some devices, especially mobile devices, only support numerical passwords, or Personal Identification Numbers (PINs).
 
-* There has been a security incident involving your account or password. For example, someone guessed your password, or you used it on another account.
-* There was a security incident with the service that you access using the password. For example, if someone broke into the system that provides the service you use.
-* Your line manager or other authorised person tells you to do so.
+If the device supports passwords, then passwords **SHOULD** be used rather than PINs.
 
-When required to change a password, you must do so as soon as possible. If you don't change the password soon enough, you might be locked out of your account automatically. The following table shows the maximum time allowed:
+If the device supports only PINs, you **SHOULD**:
 
-|Type of system|Maximum time to change a password|
-|--------------|---------------------------------|
-|Single-user systems, such as laptops|1 week|
-|All other systems|1 day|
+* Always use a separate and unique PIN for each account or service.
+* Ensure the PIN is at least 4 characters long.
+* Avoid using obvious PINs, such as `1234`.
+* Avoid using repeating digits in the PIN, for example `0000` or `9999`.
 
 ##App-based password protection for files
 
@@ -91,13 +114,15 @@ You can find additional useful information about password manager tools [here](/
 
 Change all default passwords when a new, modified, or replacement system arrives. Complete the changes before making the system available for any MoJ work.
 
+When preparing devices or services for first use, system developers or system administrators **SHALL** configure the default password on the device or service so that it can be used once only. The “first use” of a password forces the user to change the password before the device or service can be used.
+
 ##Password access attempts
 
 If a password is ever entered incorrectly, a count starts. After at most 10 (ten) consecutive failed attempts at using the correct password, access to the account or system is locked. A successful use of the password resets the count to zero again.
 
 ##Password reset
 
-If a password lock occurs, a reset is necessary. This requires action by the system administrator or the MoJ Service Desk. The process should be like issuing the password for the first time. Other account details are not changed during the reset. This helps avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
+If a password lock occurs, a reset is necessary. This requires action by the system administrator or the MoJ IT Service Desk. The process should be like issuing the password for the first time. Other account details are not changed during the reset. This helps avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
 
 ##Blocking bad passwords
 
@@ -105,9 +130,9 @@ You should not try and use [obvious passwords](https://en.wikipedia.org/wiki/Lis
 
 ##Single-use passwords
 
-Some passwords are 'one time' or single-use. Administrators and developers use these to grant access to a service for the first time. After using the password once, the user must immediately change the password.
+Some passwords are 'one time' or single-use. Administrators and developers use these to grant access to a service for the first time. After using the password once, the user **SHALL** immediately change the password.
 
-Single-use passwords are time limited. If they are not used within a specific time after generation, they must become invalid.
+Single-use passwords are time limited. If they are not used within a specific time after generation, they **SHALL** become invalid.
 
 The following table shows the valid lifetime of a single-use password:
 

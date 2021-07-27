@@ -418,11 +418,11 @@ IT security incident statistics must be presented in conjunction with an assessm
 |Escalation Path|\[This section must describe the escalation path for an IT security incident \(see Figure 4\).\]|
 |Incident Categorisation|
 |Low Impact Incident|Description|\[Provide a description of what a Low impact incident constitutes; see [here](#low-impact-incident) for further details.\]|
-|Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
+||Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
 |Medium Impact Incident|Description|\[Provide a description of what a Medium impact incident constitutes; see [here](#medium-impact-incident) for further details.\]|
-|Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
+||Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
 |High Impact Incident|Description|\[Provide a description of what a High impact incident constitutes; see [here](#high-impact-incident) for further details.\]|
-|Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
+||Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
 |Plan Approval|
 |Business Group SIRO|\[Enter the name of the Business Group SIRO\] \[DATE OF APPROVAL\]|
 |IT Security Officer|\[Enter the name of the ITSO\] \[DATE OF APPROVAL\]|

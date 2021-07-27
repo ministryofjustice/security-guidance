@@ -404,6 +404,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
+                <entry colname="col1" align="left"><xref href="mobile-device-and-remote-working-policy.dita" format="dita">Mobile Device and Remote Working Policy</xref></entry>
+                <entry colname="col2" align="right">All users (Policy)</entry>
+              </row>
+              <row>
                 <entry colname="col1" align="left"><xref href="remote-working.dita" format="dita">Remote Working</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
@@ -592,7 +596,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
 				<row>
-					<entry colname="col1" align="left"><xref href="secure-disposal-of-it-equipment.dita" format="dita">Secure disposal of IT equipment</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-it-equipment/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
+					<entry colname="col1" align="left"><xref href="secure-disposal-of-it-equipment.dita" format="dita">Secure disposal of IT equipment</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row>
+					<entry colname="col1" align="left"><xref href="secure-disposal-of-it-physical-and-on-premise.dita" format="dita">Secure disposal of IT - physical and on-premise</xref></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
             </tbody></tgroup></table>
