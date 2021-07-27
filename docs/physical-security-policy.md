@@ -32,7 +32,7 @@ This policy provides a high-level organisational objective for the MoJ with rega
 
 All employees, contractors, partners, service providers and employees of other organisations who are on MoJ premises and co-located sites remain accountable for the security, health and safety of themselves, colleagues and the protection of Departmental Assets.
 
-The most senior grade based at each site, or in “Moderate Risk” and larger sites the Senior Responsible Officer \(SRO\), has responsibility for ensuring physical security risk assessments are conducted annually. They **SHALL** ensure the action plans created to address identified risks and instigate business continuity activities are up-to-date, clearly communicated, regularly rehearsed, implemented effectively, and readily available, in accordance with their significance, importance, or classification.
+The most senior grade based at each site, or in "Moderate Risk" and larger sites the Senior Responsible Officer \(SRO\), has responsibility for ensuring physical security risk assessments are conducted annually. They **SHALL** ensure the action plans created to address identified risks and instigate business continuity activities are up-to-date, clearly communicated, regularly rehearsed, implemented effectively, and readily available, in accordance with their significance, importance, or classification.
 
 Managing the physical security controls of sites occupied by MoJ employees is the responsibility of a contracted provider. The physical security controls include, for example:
 
@@ -52,7 +52,7 @@ All employees must ensure they remain observant, report any suspicious behaviour
 
 Each MoJ occupied premises presents unique physical security challenges. The measures introduced to protect each site **SHALL** take into account the risk categorisation and the physical composition of that site. Effective approaches to Physical Security **SHALL** follow the **MANDATORY** Physical Security Standards.
 
-The most senior grade manager, or SRO in “Moderate Risk” and larger locations, **SHALL** ensure that their site adheres to the Response Level Security Measures Policy, and ensure physical security risk assessment activity is conducted annually, and that the action plans created to address identified risks are implemented.
+The most senior grade manager, or SRO in "Moderate Risk" and larger locations, **SHALL** ensure that their site adheres to the Response Level Security Measures Policy, and ensure physical security risk assessment activity is conducted annually, and that the action plans created to address identified risks are implemented.
 
 ## Compliance
 

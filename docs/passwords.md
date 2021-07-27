@@ -1,6 +1,6 @@
 # Passwords
 
-This article provides guidance on passwords and Personal Identification Numbers \(PINs\) within the Ministry of Justice \(MoJ\). It helps you protect MoJ IT systems by telling you about choosing and using passwords and PINs. Whenever you see the word “system” here, it applies to:
+This article provides guidance on passwords and Personal Identification Numbers \(PINs\) within the Ministry of Justice \(MoJ\). It helps you protect MoJ IT systems by telling you about choosing and using passwords and PINs. Whenever you see the word "system" here, it applies to:
 
 -   Hardware, such as laptops, PCs, servers, mobile devices, and any IT equipment.
 -   Software, such as the Operating System, or applications installed on hardware, or mobile device applications \(apps\).
