@@ -176,6 +176,8 @@ When preparing devices or services for first use, system developers or system ad
 
 [Multi-factor Authentication \(MFA\)](https://en.wikipedia.org/wiki/Multi-factor_authentication) provides extra security for login and access controls. MFA is also referred to as Two-Factor Authentication or 2FA.
 
+MFA **SHALL** be implemented and enabled on MoJ systems and services, including user accounts, wherever possible.
+
 When performing a privileged action, such as installing or reconfiguring a system, or changing critical or sensitive details, it is important that the user is correctly and reliably authenticated. This is best done by using MFA. For example, before deleting a database configuration, MFA **SHOULD** have been completed successfully during the authentication process, to confirm that the user is indeed who they claim to be, and that they are indeed authorised to perform that privileged task.
 
 In general, follow the [NCSC guidance](https://www.ncsc.gov.uk/guidance/multi-factor-authentication-online-services) for enabling MFA.
