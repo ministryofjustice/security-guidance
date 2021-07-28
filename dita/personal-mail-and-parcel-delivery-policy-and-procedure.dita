@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="personal-mail-and-parcel-delivery">
-  <title>Personal mail and parcel delivery</title>
+<topic id="personal-mail-and-parcel-delivery-policy-and-procedure">
+  <title>Personal mail and parcel delivery policy and procedure</title>
   <body>
     <p>This personal mail and parcel delivery policy applies to all
       <ph conref="conrefs.dita#conrefs/mojlong"/> employees,
@@ -28,8 +28,9 @@
         This policy prohibits deliveries of personal items to
         <ph conref="conrefs.dita#conrefs/moj"/> buildings,
         to comply with HMG minimum physical standard No.10 on mail
-        or delivery management.</p>
-        <draft-comment>Need link to this reference.</draft-comment>
+        or delivery management.
+        For further information regarding this standard,
+        contact <ph conref="conrefs.dita#conrefs/groupsecurityemail"/>.</p>
       <p>This provides <ph conref="conrefs.dita#conrefs/moj"/>
         employees,
         contractors,
@@ -49,9 +50,9 @@
       <p>For the purpose of this policy,
         personal deliveries are goods purchased over the internet
         from online retailers or mail subscriptions that are delivered
-        to office <u>without a legitimate business need</u>.
+        to an office without a legitimate business need.
         This policy permits vital work-related courier deliveries to reception,
-        as outlined in the policy statement below.
+        as outlined in the policy statement in this document.
         Vital work-related deliveries are those required to support a business's
         function,
         or to support a business need.
@@ -110,24 +111,20 @@
   <topic id="policy-statements">
     <title>Policy Statements</title>
     <body>
-      <p>Items required for a legitimate business need can be delivered to
+      <p>Items required for a legitimate business need
+        <ph conref="conrefs.dita#conrefs/policycan"/> be delivered to
         the office,
-        provided reception have been notified by email 48 hours (or as
-        soon as practicable in the case of next-day or same-day deliveries)
-        before the parcel is to be delivered.
+        provided reception have been notified by email from a verifiable email account
+        (for example a Civil Service or Government contractor) 48 hours
+        before the parcel is to be delivered,
+        or as soon as practicable in the case of next-day or same-day deliveries.
         The email notification <ph conref="conrefs.dita#conrefs/policyshould"/>
         provide all of the following information:
       <ul>
-        <li>
-          <p>Estimated date of delivery.</p>
-        </li>
-        <li>
-          <p>Name of Courier.</p>
-        </li>
-        <li>
-          <p>Contact details of the recipient(s),
-            who can sign and collect the parcel from reception.</p>
-        </li>
+        <li>Estimated date of delivery.</li>
+        <li>Name of Courier.</li>
+        <li>Contact details of the recipient(s),
+            who can sign for the parcel and collect it from reception.</li>
       </ul></p>
       <p><ph conref="conrefs.dita#conrefs/moj"/> reception produces
         a list of scheduled deliveries.
@@ -160,7 +157,7 @@
         in the <xref href="https://www.mi5.gov.uk/threat-levels" format="html"
         scope="external">Government Response Level</xref>.</p>
       <p>The implementation of all security measures must be able to provide
-        evidence that the selection was been made in accordance with the
+        evidence that the selection has been made in accordance with the
         appropriate information security standards ISO27001/27002,
         physical security advice taken from the <ph conref="conrefs.dita#conrefs/cpnilong"/>,
         and <ph conref="conrefs.dita#conrefs/gov007"/>.</p>

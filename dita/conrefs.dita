@@ -188,7 +188,9 @@
 	<topic id="physical-security-advice">
 	  <title>Physical security advice</title>
 	  <body>
-		<p>Physical security advice can be obtained by contacting
+		<p>Physical security advice,
+			including specific advice on this guidance,
+			can be obtained by contacting
 			<ph conref="#conrefs/moj"/> Group Security: <ph conref="#conrefs/groupsecurityemail"/>.</p>
 	  </body>
 	</topic>
