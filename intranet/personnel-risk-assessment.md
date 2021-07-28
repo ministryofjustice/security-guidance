@@ -15,7 +15,7 @@ This guidance aims to help risk management practitioners to:
 
 ##Personnel security
 
-Personnel security is a system of policies and procedures that seek to manage the risk of people exploiting, or having the intention to exploit, their legitimate access to the organisation's assets for unauthorised purposes. Those who seek to exploit their legitimate access to systems and data are called “insiders” and they pose an “Insider Risk”.
+Personnel security is a system of policies and procedures that seek to manage the risk of people exploiting, or having the intention to exploit, their legitimate access to the organisation's assets for unauthorised purposes. Those who seek to exploit their legitimate access to systems and data are called "insiders" and they pose an "Insider Risk".
 
 A person who causes harm to the MoJ might have access to assets for one day a month, or every working day. They might be a permanent member of staff, or a contractor. Their access might be in a traditional office, or site setting, or remote. This guidance covers all people who are given legitimate access to MoJ assets and premises.
 

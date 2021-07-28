@@ -67,7 +67,7 @@ Typical settings that affect privacy include:
 * Your Profile information and photo.
 * When you were last active.
 * Any status updates.
-* Whether you have read direct messages (Read Receipts).
+* Whether you have read direct messages ("Read Receipts").
 * Whether others can add you to their groups, possibly without your knowledge or agreement.
 
 But it's very easy to forget to check the settings, from time-to-time, to make sure they are still correct.

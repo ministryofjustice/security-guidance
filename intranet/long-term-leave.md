@@ -15,7 +15,7 @@ Types of secondment, loan, or leave where this might apply include:
 * Secondment.
 * Shared Parental Leave.
 
-For the purpose of this guidance, all of these are examples of “long-term leave”.
+For the purpose of this guidance, all of these are examples of "long-term leave".
 
 ##Guidance Statement
 
@@ -27,14 +27,14 @@ This guidance applies to assets, defined as being laptops, desktops, or mobile p
 * Remind your staff member that the Acceptable Usage Policy applies at all times during their leave. The policy can be found [here](/guidance/security/it-computer-security/acceptable-use/).
 * Preparation or return from any type of leave may be accompanied by changes in working patterns. The Remote Working guidance provides useful advice for anyone who may be working remotely for the first time. The policy can be found [here](/guidance/security/emergencies/coronavirus-guidance/security/remote-working/).
 
-**Note:** Devices that are not used for 3 months or more go in to a technical “quarantine”, intentionally to render them unusable. Staff members should log in to their devices once per month during leave, to ensure that technical quarantine is not activated. Logging in also helps ensure that system updates are downloaded and applied.
+**Note:** Devices that are not used for 3 months or more go in to a technical "quarantine", intentionally to render them unusable. Staff members should log in to their devices once per month during leave, to ensure that technical quarantine is not activated. Logging in also helps ensure that system updates are downloaded and applied.
 
 ##Reviewing access to data and information systems
 
 Before the staff member goes on leave, review their access to data and information systems, to ensure that this meets an ongoing need. This means that:
 
-* If the staff member's role is planned to change on their return to the MoJ, consider removing access now to data and information systems which they will no longer need. If their role is not planned to change on their return, you might consider leaving access “as-is” currently.
-* Consider removing access to data or information systems which are `OFFICIAL-SENSITIVE`. This is in line with the necessity rigorously to apply the “need to know” principle for `OFFICIAL-SENSITIVE` information. See the guidance on classifying information for more detail [/guidance/knowledge-information/protecting-information/classifying-information/](/guidance/knowledge-information/protecting-information/classifying-information/)
+* If the staff member's role is planned to change on their return to the MoJ, consider removing access now to data and information systems which they will no longer need. If their role is not planned to change on their return, you might consider leaving access "as-is" currently.
+* Consider removing access to data or information systems which are `OFFICIAL-SENSITIVE`. This is in line with the necessity rigorously to apply the "need to know" principle for `OFFICIAL-SENSITIVE` information. See the guidance on classifying information for more detail [/guidance/knowledge-information/protecting-information/classifying-information/](/guidance/knowledge-information/protecting-information/classifying-information/)
 
 ##When to remove access and return assets
 
@@ -48,9 +48,9 @@ In a number of circumstances assets should be returned and access should be remo
 
 ##How to remove access and return assets
 
-* Access to systems and return of assets can be organised through the appropriate items in the [MoJ Technology Portal](https://mojprod.service-now.com/moj_sp). Please see the Knowledge Base article on “Returning your MoJ laptop, accessories and mobile phones” for details. Removal of access to local systems should be arranged with local IT teams.
+* Access to systems and return of assets can be organised through the appropriate items in the [MoJ Technology Portal](https://mojprod.service-now.com/moj_sp). Please see the Knowledge Base article on "Returning your MoJ laptop, accessories and mobile phones" for details. Removal of access to local systems should be arranged with local IT teams.
 
-**Note:** When a Dom1 account is deactivated, its data is recoverable for up to 12 months. See the Knowledge Base article on “How to Re-instate a Deactivated Email Account or Mailbox”.
+**Note:** When a Dom1 account is deactivated, its data is recoverable for up to 12 months. See the Knowledge Base article on "How to Re-instate a Deactivated Email Account or Mailbox".
 
 ##Contacts
 

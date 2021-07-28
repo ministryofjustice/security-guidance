@@ -4,7 +4,7 @@
 
 ##Scope
 
-This policy covers access to a range of government assets at risk from a wide range of national security threats. These threats may be related to terrorism, espionage, sabotage, or serious organised crime. Vulnerabilities may also arise from disaffected employees (known as “insiders”) who could seek to exploit their level of access.
+This policy covers access to a range of government assets at risk from a wide range of national security threats. These threats may be related to terrorism, espionage, sabotage, or serious organised crime. Vulnerabilities may also arise from disaffected employees (known as "insiders") who could seek to exploit their level of access.
 
 This policy **SHOULD** be read in conjunction with the [Voluntary Drug Testing Policy Procedures](voluntary-drug-testing-policy-procedures.md).
 

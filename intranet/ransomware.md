@@ -1,6 +1,6 @@
 #Ransomware
 
-Ransomware is a type of malicious software created or used by cybercriminals. It prevents people or businesses from accessing their own data. The software takes hold of the data, holding it “hostage”, until a ransom payment is made to release it.
+Ransomware is a type of malicious software created or used by cybercriminals. It prevents people or businesses from accessing their own data. The software takes hold of the data, holding it "hostage", until a ransom payment is made to release it.
 
 ##Preventing Ransomware from taking hold of information
 
