@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="entry-and-exit-search-policy">
+  <title>Entry and exit search policy</title>
+  <body>
+    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> "Entry and Exit Search Policy"
+      applies to all employees,
+      contractors,
+      partners and service providers,
+      including those on co-located sites and sites owned by other public bodies.
+      This also includes employees of other organisations who are based in,
+      or work at,
+      <ph conref="conrefs.dita#conrefs/moj"/> occupied premises.</p>
+      <p>Agencies and Arm's Length Bodies (ALBs) are expected to comply with this
+        corporate framework,
+        but <ph conref="conrefs.dita#conrefs/policymay"/> establish their own arrangements
+        tailored to operational needs,
+        and <ph conref="conrefs.dita#conrefs/policyshould"/> supplement
+        this framework with local policy or guidance for any business-specific risk.</p>
+      <p>The policy defines the access controls that are in place
+        when entering and exiting <ph conref="conrefs.dita#conrefs/moj"/> buildings.</p>
+      <p>The policy is available for download <xref href="file:///./gs/MoJ_Entry_and_Exit_Search_Policy_(Redacted).docx"
+        format="docx" scope="external" platform="intranet">here</xref><xref href="https://security-guidance.service.justice.gov.uk/gs/MoJ_Entry_and_Exit_Search_Policy_(Redacted).docx"
+        format="docx" scope="external" platform="github">here</xref>.</p>
+  </body>
+  <!-- FIXME -->
+  <!-- Replace with conref when personal delivery topic is published. -->
+  <topic id="physical-security-advice">
+    <title>Physical security advice</title>
+    <body>
+      <p>Physical security advice can be obtained by contacting
+        <ph conref="conrefs.dita#conrefs/moj"/> Group Security:
+        <ph conref="conrefs.dita#conrefs/groupsecurityemail"/>.</p>
+    </body>
+  </topic>
+  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

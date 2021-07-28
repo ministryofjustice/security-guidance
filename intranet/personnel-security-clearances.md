@@ -6,6 +6,8 @@ The [Baseline Personnel Security Standard (BPSS) is published on GOV.UK](https:/
 
 * **[End or change of employment](end-or-change-of-employment.md)**  
 
+* **[Entry and exit search policy](entry-and-exit-search-policy.md)**  
+
 * **[Leavers with NSC and NSVCs](leavers-with-nsc-and-nscvs.md)**  
 
 * **[Minimum user clearance](minimum-user-clearance-requirements-guide.md)**  

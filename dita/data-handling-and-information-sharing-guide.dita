@@ -472,7 +472,7 @@
       <p>The Data Movement Form (DMF) is available <ph platform="intranet">on the
       <xref href="file:///./gs/data-movement-form.docx"
         format="docx" scope="external"><ph conref="conrefs.dita#conrefs/moj"/>
-        Intranet</xref></ph><xref href="file:///./gs/data-movement-form.docx"
+        Intranet</xref></ph><xref href="https://security-guidance.service.justice.gov.uk/gs/data-movement-form.docx"
           format="docx" platform="github" scope="external">here</xref>.</p>
       <p>The purpose of the DMF is to ensure that the movement of information
         assets is secure,
