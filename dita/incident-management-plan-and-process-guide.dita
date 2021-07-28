@@ -589,79 +589,82 @@ For those who perform specific roles within the plan such as a Senior Manager, t
   <topic id="appendix-a">
     <title>Appendix A – IT Security Incident Management Plan - Template</title>
     <body>
-      <table>
+      <p><table>
         <tgroup cols="3">
           <colspec colname="col1" colnum="1"/>
           <colspec colname="col2" colnum="2"/>
           <colspec colname="col3" colnum="3"/>
           <tbody>
             <row>
-              <entry namest="col1" nameend="col3" align="center">IT Security Incident Management Plan</entry>
+              <entry colname="col1" namest="col1" nameend="col3" align="center">IT Security Incident Management Plan</entry>
             </row>
             <row>
-              <entry namest="col1" nameend="col3" align="center">Overview</entry>
+              <entry colname="col1" namest="col1" nameend="col3" align="center">Overview</entry>
             </row>
             <row>
-              <entry namest="col1" nameend="col2"><ph conref="conrefs.dita#conrefs/moj"/> Business Group</entry>
+              <entry colname="col1" namest="col1" nameend="col2"><ph conref="conrefs.dita#conrefs/moj"/> Business Group</entry>
               <entry>[Enter the name of the <ph conref="conrefs.dita#conrefs/moj"/> Business Group.]</entry>
             </row>
             <row>
-              <entry namest="col1" nameend="col2">System Description and Scope</entry>
+              <entry colname="col1" namest="col1" nameend="col2">System Description and Scope</entry>
               <entry>[This section must describe the scope of the ITSIM plan. Diagrams may prove useful where there is a complex interaction between systems and business processes covered by this plan.]</entry>
             </row>
             <row>
-              <entry namest="col1" nameend="col2">Escalation Path</entry>
+              <entry colname="col1" namest="col1" nameend="col2">Escalation Path</entry>
               <entry colname="col3">[This section must describe the escalation path for an IT security
 incident (see Figure 4).]</entry>
             </row>
             <row>
-              <entry namest="col1" nameend="col3" align="center">Incident Categorisation</entry>
+              <entry colname="col1" namest="col1" nameend="col3" align="center">Incident Categorisation</entry>
             </row>
             <row>
-              <entry morerows="1" colname="col1">Low Impact Incident</entry>
+              <entry colname="col1">Low Impact Incident</entry>
               <entry colname="col2">Description</entry>
               <entry colname="col3">[Provide a description of what a Low impact incident constitutes; see <xref format="dita" href="#low-impact-incident">here</xref> for further details.]</entry>
             </row>
             <row>
+              <entry colname="col1"> </entry>
               <entry colname="col2">Priority and escalation</entry>
               <entry colname="col3">[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.]</entry>
             </row>
             <row>
-              <entry morerows="1" colname="col1">Medium Impact Incident</entry>
+              <entry colname="col1">Medium Impact Incident</entry>
               <entry colname="col2">Description</entry>
               <entry colname="col3">[Provide a description of what a Medium impact incident constitutes; see <xref format="dita" href="#medium-impact-incident">here</xref> for further details.]</entry>
             </row>
             <row>
+              <entry colname="col1"> </entry>
               <entry colname="col2">Priority and escalation</entry>
               <entry colname="col3">[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.]</entry>
             </row>
             <row>
-              <entry morerows="1" colname="col1">High Impact Incident</entry>
+              <entry colname="col1">High Impact Incident</entry>
               <entry colname="col2">Description</entry>
               <entry colname="col3">[Provide a description of what a High impact incident constitutes; see <xref format="dita" href="#high-impact-incident">here</xref> for further details.]</entry>
             </row>
             <row>
+              <entry colname="col1"> </entry>
               <entry colname="col2">Priority and escalation</entry>
               <entry colname="col3">[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.]</entry>
             </row>
             <row>
-              <entry namest="col1" nameend="col3" align="center">Plan Approval</entry>
+              <entry colname="col1" namest="col1" nameend="col3" align="center">Plan Approval</entry>
             </row>
             <row>
-              <entry namest="col1" nameend="col2">Business Group SIRO</entry>
+              <entry colname="col1" namest="col1" nameend="col2">Business Group SIRO</entry>
               <entry colname="col3">[Enter the name of the Business Group SIRO] [DATE OF APPROVAL]</entry>
             </row>
             <row>
-              <entry namest="col1" nameend="col2">IT Security Officer</entry>
+              <entry colname="col1" namest="col1" nameend="col2">IT Security Officer</entry>
               <entry colname="col3">[Enter the name of the ITSO] [DATE OF APPROVAL]</entry>
             </row>
           </tbody>
         </tgroup>
-      </table>
+      </table></p>
       <p>Completing this plan can form part of the Accreditation process and must be included and maintained as part of the relevant RMADS.</p>
     </body>
   </topic>
-  <topic id="appendix-b--escalation-path">
+  <topic id="appendix-b-escalation-path">
     <title>Appendix B – Escalation path</title>
     <body>
       <image href="images/incident-management-plan-and-process-guide-diagram-4.png" placement="break" scope="local">

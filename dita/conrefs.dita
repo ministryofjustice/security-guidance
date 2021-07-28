@@ -57,10 +57,12 @@
 			<xref href="https://www.gov.uk/government/publications/orange-book" format="html" scope="external">Management of Risk - Principles and Concepts</xref>.</ph>
 			<ph id="policycan"><b>CAN</b></ph>
 			<ph id="policycannot"><b>CAN NOT</b></ph>
+			<ph id="policymandatory"><b>MANDATORY</b></ph>
 			<ph id="policymay"><b>MAY</b></ph>
 			<ph id="policymight"><b>MIGHT</b></ph>
 			<ph id="policymust"><b>SHALL</b></ph>
 			<ph id="policymustnot"><b>SHALL NOT</b></ph>
+			<ph id="policyonly"><b>ONLY</b></ph>
 			<ph id="policyshall"><b>SHALL</b></ph>
 			<ph id="policyshallnot"><b>SHALL NOT</b></ph>
 			<ph id="policyshould"><b>SHOULD</b></ph>
@@ -72,7 +74,8 @@
 			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></ph>
 			<ph id="servicedesk">IT Service Desk</ph>
 			<ph id="strapteamemail"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="email" scope="external">STRAPTeam@cluster2security.gov.uk</xref></ph>
-			<ph id="strapteamemailtext"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="email" scope="external">Cluster 2 STRAP team</xref></ph>			
+			<ph id="strapteamemailtext"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="email" scope="external">Cluster 2 STRAP team</xref></ph>
+			<ph id="tablenote"><b>Note:</b></ph>
 			<ph id="vettingaftercareemail"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="email" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>			
 			<ph id="vettingaftercareemailtext"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="email" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>
 		</p>

@@ -13,7 +13,7 @@
           the terms <q>data</q> and <q>information</q> are used interchangeably.</note>
     </body>
   </topic>
-  <topic id="who-is-this-for" conref="it-security-policy-overview.dita#who-is-this-for"><title/></topic>
+  <topic id="audience" conref="it-security-policy-overview.dita#audience"><title/></topic>
   <topic id="approach">
     <title>Approach</title>
     <body>
@@ -58,12 +58,12 @@
     <body>
       <p>All <ph conref="conrefs.dita#conrefs/moj"/> Staff are responsible for ensuring data is:
       <ul>
-        <li>Classified correctly as detailed in the <ph audience="audience-basic audience-tech"><xref href="information-classification-handling-and-security-guide.dita" format="dita">Information Classification,
-          Handling and Security Guide</xref></ph><ph audience="audience-suppliers">Information Classification, Handling and Security Guide</ph>.</li>
+        <li>Classified correctly as detailed in the <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="information-classification-handling-and-security-guide.dita" format="dita">Information Classification,
+          Handling and Security Guide</xref></ph><ph audience="audience-suppliers">Information Classification, Handling and Security Guide</ph></ph><ph product="policy">Information Classification, Handling and Security Guide</ph></li>
         <li>Distributed only in accordance with the statements of this policy and related guides.</li>
         <li>Protected by the appropriate security controls to ensure its confidentiality, integrity and availability.</li>
       </ul></p>
-      <p audience="audience-suppliers audience-tech">Access to classified information shall be controlled in accordance with the requirements set out within the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="access-control-guide.dita" format="dita">Access Control Guide</xref>.</p>
+      <p audience="audience-suppliers audience-tech">Access to classified information shall be controlled in accordance with the requirements set out within the <ph conref="conrefs.dita#conrefs/moj"/> <ph product="notpolicy"><xref href="access-control-guide.dita" format="dita">Access Control Guide</xref></ph><ph product="policy">Access Control Guide</ph>.</p>
     </body>
   </topic>
   <topic id="physical-and-personnel-security">
@@ -87,7 +87,7 @@
             <li>Unless otherwise formally agreed by the <ph conref="conrefs.dita#conrefs/moj"/>,
               all <ph conref="conrefs.dita#conrefs/moj"/> users,
               including agency staff and contractors who have access to <ph conref="conrefs.dita#conrefs/moj"/> data,
-              require <xref href="https://www.gov.uk/government/publications/government-baseline-personnel-security-standard" format="html" scope="external">Baseline Personnel Security Standard (BPSS)</xref> asssessment,
+              require <xref href="https://www.gov.uk/government/publications/government-baseline-personnel-security-standard" format="html" scope="external">Baseline Personnel Security Standard (BPSS)</xref> assessment,
               as a minimum.</li>
             <li><xref href="https://www.gov.uk/guidance/security-vetting-and-clearance#applicant" format="html" scope="external">National Security Vetting</xref> should only be applied for where it is necessary,
             proportionate,
@@ -100,11 +100,11 @@
   <topic id="identity-and-access-control">
     <title>Identity and access control</title>
     <body>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="access-control-guide.dita" format="dita" audience="audience-suppliers audience-tech">Access Control Guide</xref> ensures that information and IT assets can be accessed only by authorised personnel,
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph product="notpolicy"><xref href="access-control-guide.dita" format="dita" audience="audience-suppliers audience-tech">Access Control Guide</xref><ph audience="audience-basic">Access Control Guide</ph></ph><ph product="policy">Access Control Guide</ph> ensures that information and IT assets can be accessed only by authorised personnel,
       and that each individual is accountable for their actions.</p>
       <p audience="audience-suppliers audience-tech">The guide outlines the controls and processes designed to limit access based on a <q>need to know</q> basis,
         and according to defined roles and responsibilities.</p>
-      <p audience="audience-suppliers audience-tech">The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="access-control-guide.dita" format="dita">Access Control Guide</xref> addresses access control principles such as identification,
+      <p audience="audience-suppliers audience-tech">The <ph conref="conrefs.dita#conrefs/moj"/> <ph product="notpolicy"><xref href="access-control-guide.dita" format="dita" audience="audience-suppliers audience-tech">Access Control Guide</xref><ph audience="audience-basic">Access Control Guide</ph></ph><ph product="policy">Access Control Guide</ph> addresses access control principles such as identification,
       authentication,
       authorisation,
       and accounting.</p>
@@ -113,7 +113,7 @@
   <topic id="password-management" audience="audience-suppliers audience-tech">
     <title>Password management</title>
     <body>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph audience="audience-tech"><xref href="password-management-guide.dita" format="dita">Password Management Guide</xref></ph><ph audience="audience-suppliers">Password Management Guide</ph> sets out the requirements for strong password implementation and management,
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph product="notpolicy"><ph audience="audience-tech"><xref href="password-management-guide.dita" format="dita">Password Management Guide</xref></ph><ph audience="audience-basic audience-suppliers">Password Management Guide</ph></ph><ph product="policy">Password Management Guide</ph> sets out the requirements for strong password implementation and management,
       to help prevent unauthorised access to <ph conref="conrefs.dita#conrefs/moj"/> systems.
       Examples include password creation, authentication, storage and management.</p>
     </body>
@@ -131,7 +131,7 @@
   <topic id="remote-working-and-portable-devices">
     <title>Remote working and portable devices</title>
     <body>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> has in place <ph audience="audience-basic audience-tech"><xref href="remote-working.dita" format="dita">Remote Working</xref></ph><ph audience="audience-suppliers">Remote Working</ph> guidance that sets out the requirements for safely accessing and using the <ph conref="conrefs.dita#conrefs/moj"/>'s systems and applications when working remotely,
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> has in place <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="remote-working.dita" format="dita">Remote Working</xref></ph><ph audience="audience-suppliers">Remote Working</ph></ph><ph product="policy">Remote Working</ph> guidance that sets out the requirements for safely accessing and using the <ph conref="conrefs.dita#conrefs/moj"/>'s systems and applications when working remotely,
         for example from home,
         another government office,
         or while travelling.</p>
@@ -139,26 +139,28 @@
         laptop or tablet,
         and which supports remote working.
         Mobile computing equipment provided by the <ph conref="conrefs.dita#conrefs/moj"/> must be used in line with the
-        <ph audience="audience-basic audience-tech"><xref href="acceptable-use-policy.dita" format="dita">Acceptable
-          Use Policy</xref></ph><ph audience="audience-suppliers">Acceptable Use Policy</ph>.</p>
+        <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="acceptable-use-policy.dita" format="dita">Acceptable
+          Use Policy</xref></ph><ph audience="audience-suppliers">Acceptable Use Policy</ph></ph><ph product="policy">Acceptable Use Policy</ph>.</p>
       <p>Any request to take <ph conref="conrefs.dita#conrefs/moj"/> IT equipment overseas must follow the guidance provided in the
-        <ph audience="audience-basic audience-tech"><xref href="acceptable-use-policy.dita" format="dita">Acceptable
-          Use Policy</xref></ph><ph audience="audience-suppliers">Acceptable Use Policy</ph>
-          and the <ph audience="audience-basic audience-tech"><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing
+        <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="acceptable-use-policy.dita" format="dita">Acceptable
+          Use Policy</xref></ph><ph audience="audience-suppliers">Acceptable Use Policy</ph></ph><ph product="policy">Acceptable Use Policy</ph>
+          and the <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing
             <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Overseas</xref></ph><ph audience="audience-suppliers">Accessing
-              <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Overseas</ph> information.</p>
+              <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Overseas</ph></ph><ph product="policy">Accessing
+                <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Overseas</ph> information.</p>
     </body>
   </topic>
   <topic id="malware-protection" audience="audience-suppliers audience-tech">
     <title>Malware protection</title>
     <body>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph audience="audience-tech"><xref href="malware-protection-guide-introduction.dita" format="dita">Malware
-        Protection Guide</xref></ph><ph audience="audience-suppliers">Malware Protection Guide</ph> specifies the controls and processes required to protect all systems against malware.
-        Malware may enter the <ph conref="conrefs.dita#conrefs/moj"/> by employee email through the internet,
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph product="notpolicy"><ph audience="audience-tech"><xref href="malware-protection-guide-introduction.dita" format="dita">Malware
+        Protection Guide</xref></ph><ph audience="audience-suppliers">Malware Protection Guide</ph></ph><ph product="policy">Malware Protection Guide</ph> specifies the controls and processes that <ph conref="conrefs.dita#conrefs/policymust"/> be used to protect all systems against malware.
+        Malware might enter the <ph conref="conrefs.dita#conrefs/moj"/> by employee email,
+        through the internet,
         mobile computers,
-        and removable media devices.</p>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph audience="audience-tech"><xref href="malware-protection-guide-introduction.dita" format="dita">Malware
-        Protection Guide</xref></ph><ph audience="audience-suppliers">Malware Protection Guide</ph> addresses the following relevant domains:
+        or removable media devices.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph product="notpolicy"><ph audience="audience-tech"><xref href="malware-protection-guide-introduction.dita" format="dita">Malware
+        Protection Guide</xref></ph><ph audience="audience-suppliers">Malware Protection Guide</ph></ph><ph product="policy">Malware Protection Guide</ph> addresses the following relevant domains:
       <ul>
         <li>Implementation controls to stop malware entering <ph conref="conrefs.dita#conrefs/moj"/> devices and systems.</li>
         <li>Preventing malicious code from executing on <ph conref="conrefs.dita#conrefs/moj"/> devices and systems.</li>
@@ -174,13 +176,13 @@
         and availability of data within the <ph conref="conrefs.dita#conrefs/moj"/>.
         This includes all <ph conref="conrefs.dita#conrefs/moj"/> data and assets.
         These responsibilities extend to all assets referenced in this policy.</p>
-      <p>All <ph conref="conrefs.dita#conrefs/moj"/> users are required to comply with the roles and responsibilities outlined in the Information Assurance Framework Process.</p>
+      <p>All <ph conref="conrefs.dita#conrefs/moj"/> users <ph conref="conrefs.dita#conrefs/policymust"/> comply with the roles and responsibilities outlined in the Information Assurance Framework Process.</p>
       <p>Specific roles and responsibilities are described within each sub-page.
-        All <ph conref="conrefs.dita#conrefs/moj"/> users must comply with these roles and responsibilities,
+        All <ph conref="conrefs.dita#conrefs/moj"/> users <ph conref="conrefs.dita#conrefs/policymust"/> comply with these roles and responsibilities,
         and understand these as being a part of their ultimate responsibility for information security within the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
       <p>For the purpose of this Information Security Policy,
         the following roles are described.
-        They have specific responsibilities in the implementation and monitoring of different provisions of the policy.</p>
+        They have specific responsibilities in the implementation and monitoring of different provisions of the policy.
       <table>
         <tgroup cols="3">
           <colspec colname="col1" colnum="1"/>
@@ -197,7 +199,7 @@
             <row>
               <entry colname="col1"><b>Senior Information Risk Owners (SIROs)</b></entry>
               <entry colname="col2">The <ph conref="conrefs.dita#conrefs/moj"/> SIRO is responsible for the overall <ph conref="conrefs.dita#conrefs/moj"/> information risk policy and guidance,
-                and ensures it continues to provide appropriate risk appetite and a suitable risk framework.</entry>
+                and ensures that the policy and guidance material continues to provide appropriate risk appetite and a suitable risk framework.</entry>
               <entry colname="col3">Implementing and managing information risk management in their respective business groups.</entry>
             </row>
             <row>
@@ -273,7 +275,7 @@
             </row>
           </tbody>
         </tgroup>
-      </table>
+      </table></p>
     </body>
   </topic>
   <topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>

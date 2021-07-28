@@ -10,8 +10,8 @@
         and provides a summary of the <ph conref="conrefs.dita#conrefs/moj"/>'s related security policies and guides.</p>
     </body>
   </topic>
-  <topic id="who-is-this-for">
-    <title>Who is this for?</title>
+  <topic id="audience">
+    <title>Audience</title>
     <body>
       <p>This policy is aimed at three audiences:
         <dl>
@@ -67,10 +67,10 @@
   <topic id="principles">
     <title>Principles</title>
     <body>
-      <p>All <ph conref="conrefs.dita#conrefs/moj"/> users <b>MUST</b>:
+      <p>All <ph conref="conrefs.dita#conrefs/moj"/> users <ph conref="conrefs.dita#conrefs/policymust"/>:
       <ul>
-        <li>Comply with the <ph conref="conrefs.dita#conrefs/moj"/>'s <ph audience="audience-basic audience-tech"><xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref></ph><ph audience="audience-suppliers">Acceptable Use Policy</ph> wherever they work.</li>
-        <li>Report all security incidents promptly and in line with <ph conref="conrefs.dita#conrefs/moj"/>'s <ph audience="audience-tech"><xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref></ph><ph audience="audience-basic audience-suppliers">IT Incident Management Policy</ph>.</li>
+        <li>Comply with the <ph conref="conrefs.dita#conrefs/moj"/>'s <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref></ph><ph audience="audience-suppliers">Acceptable Use Policy</ph></ph><ph product="policy">Acceptable Use Policy</ph> wherever they work.</li>
+        <li>Report all security incidents promptly and in line with <ph conref="conrefs.dita#conrefs/moj"/>'s <ph product="notpolicy"><ph audience="audience-tech"><xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref></ph><ph audience="audience-basic audience-suppliers">IT Incident Management Policy</ph></ph><ph product="policy">IT Incident Management Policy</ph>.</li>
         <li>Make themselves aware of their roles,
           responsibilities and accountability and fully comply with the relevant legislation as described in this and other <ph conref="conrefs.dita#conrefs/moj"/> guidance.</li>
         <li>Be aware of the need for Information Security as an integral part of the day to day business.</li>
@@ -81,13 +81,13 @@
     <topic id="technical-users" audience="audience-suppliers audience-tech">
       <title>Technical users</title>
       <body>
-        <p>Technical users must follow the guidance set out for all <ph conref="conrefs.dita#conrefs/moj"/> users in <xref href="it-security-all-users-policy.dita" format="dita">IT Security All Users Policy</xref> <b>AND</b> also comply with the <xref href="it-security-technical-users-policy.dita" format="dita">IT Security Technical Users Policy</xref>.</p>
+        <p>Technical users <ph conref="conrefs.dita#conrefs/policymust"/> follow the guidance set out for all <ph conref="conrefs.dita#conrefs/moj"/> users in <xref href="it-security-all-users-policy.dita" format="dita">IT Security All Users Policy</xref> <b>AND</b> also comply with the <xref href="it-security-technical-users-policy.dita" format="dita">IT Security Technical Users Policy</xref>.</p>
       </body>
     </topic>
     <topic id="service-providers" audience="audience-suppliers audience-tech">
       <title>Service Providers</title>
       <body>
-        <p>Service Providers must follow the guidance set out for all <ph conref="conrefs.dita#conrefs/moj"/> users in <xref href="it-security-all-users-policy.dita" format="dita">IT Security All Users Policy</xref> <b>AND</b> also comply with the <xref href="it-security-technical-users-policy.dita" format="dita">IT Security Technical Users Policy</xref>.</p>
+        <p>Service Providers <ph conref="conrefs.dita#conrefs/policymust"/> follow the guidance set out for all <ph conref="conrefs.dita#conrefs/moj"/> users in <xref href="it-security-all-users-policy.dita" format="dita">IT Security All Users Policy</xref> <b>AND</b> also comply with the <xref href="it-security-technical-users-policy.dita" format="dita">IT Security Technical Users Policy</xref>.</p>
       </body>
     </topic>
   </topic>
