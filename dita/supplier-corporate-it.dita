@@ -130,7 +130,7 @@
       <title>Local end-user device data</title>
       <body>
         <p>The <ph conref="conrefs.dita#conrefs/moj"/> acknowledges that
-        corporate users typically <q>download</q> files,
+        corporate users typically "download" files,
         for example from local email client caching to file downloads using a
         web browser.
         These files might remain within <codeph>Downloads</codeph> folders,

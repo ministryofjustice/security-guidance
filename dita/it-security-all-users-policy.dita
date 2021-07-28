@@ -10,7 +10,7 @@
         when using <ph conref="conrefs.dita#conrefs/moj"/> equipment and infrastructure.
         It is a sub-page to the <xref href="it-security-policy-overview.dita" format="dita">IT Security Policy Overview</xref>.</p>
         <note>In this document,
-          the terms <q>data</q> and <q>information</q> are used interchangeably.</note>
+          the terms "data" and "information" are used interchangeably.</note>
     </body>
   </topic>
   <topic id="audience" conref="it-security-policy-overview.dita#audience"><title/></topic>
@@ -102,7 +102,7 @@
     <body>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph product="notpolicy"><xref href="access-control-guide.dita" format="dita" audience="audience-suppliers audience-tech">Access Control Guide</xref><ph audience="audience-basic">Access Control Guide</ph></ph><ph product="policy">Access Control Guide</ph> ensures that information and IT assets can be accessed only by authorised personnel,
       and that each individual is accountable for their actions.</p>
-      <p audience="audience-suppliers audience-tech">The guide outlines the controls and processes designed to limit access based on a <q>need to know</q> basis,
+      <p audience="audience-suppliers audience-tech">The guide outlines the controls and processes designed to limit access based on a "need to know" basis,
         and according to defined roles and responsibilities.</p>
       <p audience="audience-suppliers audience-tech">The <ph conref="conrefs.dita#conrefs/moj"/> <ph product="notpolicy"><xref href="access-control-guide.dita" format="dita" audience="audience-suppliers audience-tech">Access Control Guide</xref><ph audience="audience-basic">Access Control Guide</ph></ph><ph product="policy">Access Control Guide</ph> addresses access control principles such as identification,
       authentication,

@@ -1,6 +1,6 @@
 #Passwords
 
-This article provides guidance on passwords and Personal Identification Numbers (PINs) within the Ministry of Justice (MoJ). It helps you protect MoJ IT systems by telling you about choosing and using passwords and PINs. Whenever you see the word system here, it applies to:
+This article provides guidance on passwords and Personal Identification Numbers (PINs) within the Ministry of Justice (MoJ). It helps you protect MoJ IT systems by telling you about choosing and using passwords and PINs. Whenever you see the word "system" here, it applies to:
 
 * Hardware, such as laptops, PCs, servers, mobile devices, and any IT equipment.
 * Software, such as the Operating System, or applications installed on hardware, or mobile device applications (apps).
@@ -71,7 +71,7 @@ Some applications - including Microsoft Office tools such as Word, Excel, and Po
 While these app-based password protection mechanisms are better than nothing, there are three good reasons for avoiding them if possible.
 
 1.  You depend on the application to provide and maintain strong password protection. If the password implementation fails, or has a weakness, you might not know about it. This means that you might think your information is protected, when in fact it is at risk.
-2.  It is tempting to use a standard password for protecting a file within the app, so that other people can share and work with the file. Changing the password becomes “inconvenient”. The result is that many versions of the data file are all protected with the same password. Also, if anyone has ever been given the password to access the file, they will always be able to access the file.
+2.  It is tempting to use a standard password for protecting a file within the app, so that other people can share and work with the file. Changing the password becomes "inconvenient". The result is that many versions of the data file are all protected with the same password. Also, if anyone has ever been given the password to access the file, they will always be able to access the file.
 3.  If you forget the app-based password, there might not be a recovery process available to you.
 
 For these reasons, MoJ advice is that you **SHOULD NOT** use password tools within an app to protect data files that are processed by the app. For example, you **SHOULD NOT** use the password tools with Microsoft Word, Excel, or Powerpoint, to protect MoJ information within files. Instead, either:

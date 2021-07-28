@@ -52,7 +52,7 @@
           </dlentry>
         </dl>
       </p>
-      <p><q>All <ph conref="conrefs.dita#conrefs/moj"/> users</q> refers to General users,
+      <p>"All <ph conref="conrefs.dita#conrefs/moj"/> users" refers to General users,
         Technical users,
         and Service Providers,
         as defined above.</p>
@@ -126,7 +126,7 @@
           for all users.</p>
         <p><codeph>POLACP006:</codeph> The policy <ph conref="conrefs.dita#conrefs/policymust"/> also follow the additional principles of:
           <ul>
-            <li><q>Need-to-know</q>.</li>
+            <li>"Need-to-know".</li>
             <li>Non-repudiation of user actions.</li>
             <li>Least privilege.</li>
             <li>User access management.</li>
@@ -168,7 +168,7 @@
         <p><codeph>POLACP009:</codeph> In particular,
           System Designers and Administrators <ph conref="conrefs.dita#conrefs/policymust"/> use adequate authentication techniques
           to identify with confidence user access to their system or data,
-          using the principle of <q>least privilege</q>.
+          using the principle of "least privilege".
           See the guidance on <xref href="authorisation.dita" format="dita">Authorisation</xref> for more detail.</p>
       </body>
     </topic>
@@ -419,8 +419,8 @@
             as it is an unsecured channel.
             <p><codeph>POLACP054:</codeph> Instead,
             users <ph conref="conrefs.dita#conrefs/policymust"/> receive a time-limited password-reset link or code to their registered email address or phone number.
-            See the Government guidance <q><xref href="https://design-system.service.gov.uk/patterns/passwords/" format="html" scope="external">Send a link
-              to trigger password resets</xref></q>.</p></li>
+            See the Government guidance "<xref href="https://design-system.service.gov.uk/patterns/passwords/" format="html" scope="external">Send a link
+              to trigger password resets</xref>".</p></li>
         </ul></p>
       </body>
     </topic>

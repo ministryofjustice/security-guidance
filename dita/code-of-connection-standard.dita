@@ -89,9 +89,9 @@
       <topic id="a11--applicable-policies">
         <title>A.1.1  Applicable policies</title>
         <body>
-          <p>This Code of Connection (CoCo) covers the connection of the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> to <q>NAME of 3rd PARTY IT SYSTEM</q>.</p>
+          <p>This Code of Connection (CoCo) covers the connection of the "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM" to "NAME of 3rd PARTY IT SYSTEM".</p>
           <p>The services to be provided by this connection are defined in section A.1.2.1.</p>
-          <p>The <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> IT Security Policy</xref> and the IT Security Policy for the <q>ORGANISATION NAME FOR 3rd PARTY IT SYSTEM</q> are the primary polices which apply to this CoCo.</p>
+          <p>The <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> IT Security Policy</xref> and the IT Security Policy for the "ORGANISATION NAME FOR 3rd PARTY IT SYSTEM" are the primary polices which apply to this CoCo.</p>
           <p>Any 3rd party IT system connecting to a <ph conref="conrefs.dita#conrefs/moj"/> IT system must have a current and relevant IT Security Policy which is accepted by the <ph conref="conrefs.dita#conrefs/moj"/> ITSO and system Accreditor.
 If any aspects of the data to be exchanged require special handling measures or are particularly sensitive, the <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor must be informed an approach to handling that data must be agreed by both connecting parties in advance.</p>
         </body>
@@ -107,7 +107,7 @@ If any aspects of the data to be exchanged require special handling measures or 
         <topic id="a122-connection">
           <title>A.1.2.2 Connection</title>
           <body>
-            <p>The <q>NAME of 3rd PARTY IT SYSTEM</q> must provide a gateway at the edge of their system to facilitate the connection to the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> which is Accredited to RESTRICTED-IL3 and exhibits the following properties:</p>
+            <p>The "NAME of 3rd PARTY IT SYSTEM" must provide a gateway at the edge of their system to facilitate the connection to the "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM" which is Accredited to RESTRICTED-IL3 and exhibits the following properties:</p>
             <ul>
               <li>
                 <p>Only permit the data traffic flows and protocols identified in A.1.2.1;</p>
@@ -116,7 +116,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                 <p>This gateway must be managed by authorised service personnel with SC security clearance as a minimum;</p>
               </li>
               <li>
-                <p>The gateway must maintain its own audit logs which are included as part of the <q>ORGANISATION NAME FOR 3rd PARTY IT SYSTEM</q> protective monitoring system;</p>
+                <p>The gateway must maintain its own audit logs which are included as part of the "ORGANISATION NAME FOR 3rd PARTY IT SYSTEM" protective monitoring system;</p>
               </li>
               <li>
                 <p>Have front-end firewall(s) to be a minimum of EAL4 certified or CAPS approved;</p>
@@ -144,15 +144,15 @@ If any aspects of the data to be exchanged require special handling measures or 
               <tbody>
                 <row>
                   <entry colname="col1">CoCo-1</entry>
-                  <entry colname="col2">The minimum standards applicable to the <q>NAME of 3rd PARTY IT SYSTEM</q> shall be the equivalent to application of the IAS 1&amp;2 Baseline Controls Set (BCS) at the DETER level and ISO27001. The supporting compliance statement (see A.2) has been derived from IAS 1&amp;2 Baseline Controls Set (BCS) and ISO27001 and provides a check list that <q>ORGANISATION NAME FOR 3rd PARTY IT SYSTEM</q> should use to document their compliance to this CoCo. The completed compliance statement will allow the <ph conref="conrefs.dita#conrefs/moj"/> to determine whether the <q>NAME of 3rd PARTY IT SYSTEM</q>'s level of compliance is sufficient to meet the requirements outlined in this CoCo.</entry>
+                  <entry colname="col2">The minimum standards applicable to the "NAME of 3rd PARTY IT SYSTEM" shall be the equivalent to application of the IAS 1&amp;2 Baseline Controls Set (BCS) at the DETER level and ISO27001. The supporting compliance statement (see A.2) has been derived from IAS 1&amp;2 Baseline Controls Set (BCS) and ISO27001 and provides a check list that "ORGANISATION NAME FOR 3rd PARTY IT SYSTEM" should use to document their compliance to this CoCo. The completed compliance statement will allow the <ph conref="conrefs.dita#conrefs/moj"/> to determine whether the "NAME of 3rd PARTY IT SYSTEM"'s level of compliance is sufficient to meet the requirements outlined in this CoCo.</entry>
                 </row>
                 <row>
                   <entry colname="col1">CoCo-2</entry>
-                  <entry colname="col2">The <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor must be advised of any proposed changes (including configuration changes) to be made to the <q>NAME of 3rd PARTY IT SYSTEM</q> which will have an effect on its connection to the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q>.</entry>
+                  <entry colname="col2">The <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor must be advised of any proposed changes (including configuration changes) to be made to the "NAME of 3rd PARTY IT SYSTEM" which will have an effect on its connection to the "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM".</entry>
                 </row>
                 <row>
                   <entry colname="col1">CoCo-3</entry>
-                  <entry colname="col2">All existing and planned onward connections to or from the <q>NAME of 3rd PARTY IT SYSTEM</q> must be brought to the attention of the <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor prior to any live connection to the <q>NAME of 3rd PARTY IT SYSTEM</q> as this may represent a risk to the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> and its onward connections. All such connections must be identified in this document (see A.1.2.1). The information provided will be kept confidential and only used for the purpose of assuring the security of this connection.</entry>
+                  <entry colname="col2">All existing and planned onward connections to or from the "NAME of 3rd PARTY IT SYSTEM" must be brought to the attention of the <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor prior to any live connection to the "NAME of 3rd PARTY IT SYSTEM" as this may represent a risk to the "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM" and its onward connections. All such connections must be identified in this document (see A.1.2.1). The information provided will be kept confidential and only used for the purpose of assuring the security of this connection.</entry>
                 </row>
                 <row>
                   <entry colname="col1">CoCo-4</entry>
@@ -160,15 +160,15 @@ If any aspects of the data to be exchanged require special handling measures or 
                 </row>
                 <row>
                   <entry colname="col1">CoCo-5</entry>
-                  <entry colname="col2">All points of connection to the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> shall be within a secure IL3 environment.</entry>
+                  <entry colname="col2">All points of connection to the "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM" shall be within a secure IL3 environment.</entry>
                 </row>
                 <row>
                   <entry colname="col1">CoCo-6</entry>
-                  <entry colname="col2">All users (including administrative users) who connect to the <q>NAME of 3rd PARTY IT SYSTEM</q> have been subject to a formal user registration process (section A.11.2.1 in the compliance statement, see A.2) and all have individual unique user accounts.</entry>
+                  <entry colname="col2">All users (including administrative users) who connect to the "NAME of 3rd PARTY IT SYSTEM" have been subject to a formal user registration process (section A.11.2.1 in the compliance statement, see A.2) and all have individual unique user accounts.</entry>
                 </row>
                 <row>
                   <entry colname="col1">CoCo-7</entry>
-                  <entry colname="col2">All security incidents concerning the <q>NAME of 3rd PARTY IT SYSTEM</q> which have (or may have in the future) involve the connection between the <q>NAME of 3rd PARTY IT SYSTEM</q> and <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> must be reported to <ph conref="conrefs.dita#conrefs/moj"/> ITSO and system Accreditor.</entry>
+                  <entry colname="col2">All security incidents concerning the "NAME of 3rd PARTY IT SYSTEM" which have (or may have in the future) involve the connection between the "NAME of 3rd PARTY IT SYSTEM" and "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM" must be reported to <ph conref="conrefs.dita#conrefs/moj"/> ITSO and system Accreditor.</entry>
                 </row>
                 <row>
                   <entry colname="col1">CoCo-8</entry>
@@ -176,23 +176,23 @@ If any aspects of the data to be exchanged require special handling measures or 
                 </row>
                 <row>
                   <entry colname="col1">CoCo-9</entry>
-                  <entry colname="col2">The <q>NAME of 3rd PARTY IT SYSTEM</q> is protected by either a hardware Firewall or software Firewall which is either EAL 4 certified or CAPS approved.</entry>
+                  <entry colname="col2">The "NAME of 3rd PARTY IT SYSTEM" is protected by either a hardware Firewall or software Firewall which is either EAL 4 certified or CAPS approved.</entry>
                 </row>
                 <row>
                   <entry colname="col1">CoCo-10</entry>
-                  <entry colname="col2">The <q>NAME of 3rd PARTY IT SYSTEM</q> has an anti-virus application installed and it is subject to regular anti-virus signature updates, with the maximum period between updates being 4 hours.</entry>
+                  <entry colname="col2">The "NAME of 3rd PARTY IT SYSTEM" has an anti-virus application installed and it is subject to regular anti-virus signature updates, with the maximum period between updates being 4 hours.</entry>
                 </row>
                 <row>
                   <entry colname="col1">CoCo-11</entry>
-                  <entry colname="col2">The <q>NAME of 3rd PARTY IT SYSTEM</q> is subject to an operating system and hosted application security patch regime.</entry>
+                  <entry colname="col2">The "NAME of 3rd PARTY IT SYSTEM" is subject to an operating system and hosted application security patch regime.</entry>
                 </row>
                 <row>
                   <entry colname="col1">CoCo-12</entry>
-                  <entry colname="col2">The <q>NAME of 3rd PARTY IT SYSTEM</q> is administered by dedicated and trained IT staff to a recognised standard such as ISO2000 (ITIL) and/or recognised professional IT qualifications such as MCSE.</entry>
+                  <entry colname="col2">The "NAME of 3rd PARTY IT SYSTEM" is administered by dedicated and trained IT staff to a recognised standard such as ISO2000 (ITIL) and/or recognised professional IT qualifications such as MCSE.</entry>
                 </row>
                 <row>
                   <entry colname="col1">CoCo-13</entry>
-                  <entry colname="col2">The <q>NAME of 3rd PARTY IT SYSTEM</q> must be hosted, operated and supported from within the UK.</entry>
+                  <entry colname="col2">The "NAME of 3rd PARTY IT SYSTEM" must be hosted, operated and supported from within the UK.</entry>
                 </row>
               </tbody>
             </tgroup>
@@ -202,13 +202,13 @@ If any aspects of the data to be exchanged require special handling measures or 
       <topic id="a14-assumptions">
         <title>A.1.4 Assumptions</title>
         <body>
-          <p>The connecting 3rd party IT system may make the following assumptions about the security provided by the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q>:</p>
+          <p>The connecting 3rd party IT system may make the following assumptions about the security provided by the "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM":</p>
           <ul>
             <li>
-              <p>The <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> is Accredited by the <ph conref="conrefs.dita#conrefs/moj"/> to process data up to and including RESTRICTED-IL3 for Confidentiality, Integrity and Availability;</p>
+              <p>The "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM" is Accredited by the <ph conref="conrefs.dita#conrefs/moj"/> to process data up to and including RESTRICTED-IL3 for Confidentiality, Integrity and Availability;</p>
             </li>
             <li>
-              <p>The security regime within the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> ensures the confidentiality and integrity of data originating from the <q>NAME of 3rd PARTY IT SYSTEM</q> once it enters the boundary of the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q>.</p>
+              <p>The security regime within the "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM" ensures the confidentiality and integrity of data originating from the "NAME of 3rd PARTY IT SYSTEM" once it enters the boundary of the "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM".</p>
             </li>
           </ul>
         </body>
@@ -216,7 +216,7 @@ If any aspects of the data to be exchanged require special handling measures or 
       <topic id="a15-administration">
         <title>A.1.5 Administration</title>
         <body>
-          <p>This document must be reviewed annually or following a major change to the <q>NAME of 3rd PARTY IT SYSTEM</q> or the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> to ensure no additional security measures are required.</p>
+          <p>This document must be reviewed annually or following a major change to the "NAME of 3rd PARTY IT SYSTEM" or the "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM" to ensure no additional security measures are required.</p>
           <p><b>Note:</b> A major change is defined as:</p>
           <ul>
             <li>
@@ -226,7 +226,7 @@ If any aspects of the data to be exchanged require special handling measures or 
               <p>Hardware - A significant change to the physical hardware supporting the connection;</p>
             </li>
             <li>
-              <p>Design/Architecture - A change in the connectivity of the <q>NAME of 3rd PARTY IT SYSTEM</q> to the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q> or any other IT system it connects to, the security controls protecting those connections or the re-configuration of any services used to support the connection.</p>
+              <p>Design/Architecture - A change in the connectivity of the "NAME of 3rd PARTY IT SYSTEM" to the "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM" or any other IT system it connects to, the security controls protecting those connections or the re-configuration of any services used to support the connection.</p>
             </li>
           </ul>
         </body>
@@ -234,8 +234,8 @@ If any aspects of the data to be exchanged require special handling measures or 
       <topic id="a16-authorisation-for-connection">
         <title>A.1.6 Authorisation for connection</title>
         <body>
-          <p>On the basis of the information made available to them, and to the best of their knowledge, the undersigned confirms that the connecting <q>NAME of 3rd PARTY IT SYSTEM</q> complies with the requirements outlined in this CoCo and that the information provided in the supporting compliance statement is accurate.</p>
-          <p><b>Note:</b> Any major change (as defined in A.1.5) to the connecting <q>NAME of 3rd PARTY IT SYSTEM</q> may invalidate this CoCo and a new submission may be required.</p>
+          <p>On the basis of the information made available to them, and to the best of their knowledge, the undersigned confirms that the connecting "NAME of 3rd PARTY IT SYSTEM" complies with the requirements outlined in this CoCo and that the information provided in the supporting compliance statement is accurate.</p>
+          <p><b>Note:</b> Any major change (as defined in A.1.5) to the connecting "NAME of 3rd PARTY IT SYSTEM" may invalidate this CoCo and a new submission may be required.</p>
           <table>
             <tgroup cols="3">
               <colspec colname="col1" colnum="1"/>
@@ -298,7 +298,7 @@ If any aspects of the data to be exchanged require special handling measures or 
     <topic id="a2-supporting-compliance-statement">
       <title>A.2 Supporting compliance statement</title>
       <body>
-        <p>This compliance statement provides a check list which will enable the <ph conref="conrefs.dita#conrefs/moj"/> to assess the <q>NAME of 3rd PARTY IT SYSTEM</q> compliance against this CoCo and the pertinent security controls from HMG IAS 1&amp;2 Baseline Controls Set (BCS) at the DETER level and ISO27001. The system Accreditor will determine whether or not the <q>NAME of 3rd PARTY IT SYSTEM</q> presents an unacceptable risk to the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q>.</p>
+        <p>This compliance statement provides a check list which will enable the <ph conref="conrefs.dita#conrefs/moj"/> to assess the "NAME of 3rd PARTY IT SYSTEM" compliance against this CoCo and the pertinent security controls from HMG IAS 1&amp;2 Baseline Controls Set (BCS) at the DETER level and ISO27001. The system Accreditor will determine whether or not the "NAME of 3rd PARTY IT SYSTEM" presents an unacceptable risk to the "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM".</p>
         <p>Guidance on completion:</p>
         <ul>
           <li>
@@ -358,7 +358,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                 <entry colname="col1">
                   <b>A.5.1.1</b>
                 </entry>
-                <entry colname="col2"><b>Information Security Policy document</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> have an Information Security policy document, approved by management, and published and communicated to all employees and relevant external parties?</entry>
+                <entry colname="col2"><b>Information Security Policy document</b> - Does the "ORGANISATION NAME FOR 3rd PARTY" have an Information Security policy document, approved by management, and published and communicated to all employees and relevant external parties?</entry>
                 <entry colname="col3"> </entry>
                 <entry colname="col4"> </entry>
                 <entry colname="col5">
@@ -391,7 +391,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                 <entry colname="col1">
                   <b>A.6.1.1</b>
                 </entry>
-                <entry colname="col2"><b>Management commitment to Information Security</b> - Does <q>ORGANISATION NAME FOR 3rd PARTY</q> management actively support security within the organisation through the establishment of a forum where security issues are discussed and security responsibilities are acknowledged?</entry>
+                <entry colname="col2"><b>Management commitment to Information Security</b> - Does "ORGANISATION NAME FOR 3rd PARTY" management actively support security within the organisation through the establishment of a forum where security issues are discussed and security responsibilities are acknowledged?</entry>
                 <entry colname="col3"> </entry>
                 <entry colname="col4"> </entry>
                 <entry colname="col5">
@@ -402,7 +402,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                 <entry colname="col1">
                   <b>A.6.1.3</b>
                 </entry>
-                <entry colname="col2"><b>Allocation of Information Security Responsibilities</b> - Are <q>ORGANISATION NAME FOR 3rd PARTY</q> information security responsibilities allocated and documented?</entry>
+                <entry colname="col2"><b>Allocation of Information Security Responsibilities</b> - Are "ORGANISATION NAME FOR 3rd PARTY" information security responsibilities allocated and documented?</entry>
                 <entry colname="col3"> </entry>
                 <entry colname="col4"> </entry>
                 <entry colname="col5">
@@ -413,7 +413,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                 <entry colname="col1">
                   <b>A.6.1.5</b>
                 </entry>
-                <entry colname="col2"><b>Confidentiality Agreements</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> have any confidentiality or non-disclosure agreements in place for staff, contracted bodies and other 3rd parties?</entry>
+                <entry colname="col2"><b>Confidentiality Agreements</b> - Does the "ORGANISATION NAME FOR 3rd PARTY" have any confidentiality or non-disclosure agreements in place for staff, contracted bodies and other 3rd parties?</entry>
                 <entry colname="col3"> </entry>
                 <entry colname="col4"> </entry>
                 <entry colname="col5">
@@ -424,7 +424,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                 <entry colname="col1">
                   <b>A.6.1.8</b>
                 </entry>
-                <entry colname="col2"><b>Independent Review of Information Security</b> - Is the <q>ORGANISATION NAME FOR 3rd PARTY</q> subject to external audit?  Do any of these audits look at security issues?</entry>
+                <entry colname="col2"><b>Independent Review of Information Security</b> - Is the "ORGANISATION NAME FOR 3rd PARTY" subject to external audit?  Do any of these audits look at security issues?</entry>
                 <entry colname="col3"> </entry>
                 <entry colname="col4"> </entry>
                 <entry colname="col5">
@@ -446,7 +446,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                 <entry colname="col1">
                   <b>A.6.2.1</b>
                 </entry>
-                <entry colname="col2"><b>Identification of Risks relating to External Parties</b> - Has the <q>ORGANISATION NAME FOR 3rd PARTY</q> conducted any form of risk assessment related to their IT systems and the data held on them?  Has the outcome of the risk assessment (e.g. risk treatment plan) been implemented?</entry>
+                <entry colname="col2"><b>Identification of Risks relating to External Parties</b> - Has the "ORGANISATION NAME FOR 3rd PARTY" conducted any form of risk assessment related to their IT systems and the data held on them?  Has the outcome of the risk assessment (e.g. risk treatment plan) been implemented?</entry>
                 <entry colname="col3"> </entry>
                 <entry colname="col4"> </entry>
                 <entry colname="col5">
@@ -457,7 +457,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                 <entry colname="col1">
                   <b>A.6.2.2</b>
                 </entry>
-                <entry colname="col2"><b>Addressing Security when dealing with Customers</b> - Has the <q>ORGANISATION NAME FOR 3rd PARTY</q> identified security requirements which need to be adhered by other entities or organisations connecting into <q>NAME of 3rd PARTY IT SYSTEM</q> before they are given access?</entry>
+                <entry colname="col2"><b>Addressing Security when dealing with Customers</b> - Has the "ORGANISATION NAME FOR 3rd PARTY" identified security requirements which need to be adhered by other entities or organisations connecting into "NAME of 3rd PARTY IT SYSTEM" before they are given access?</entry>
                 <entry colname="col3"> </entry>
                 <entry colname="col4"> </entry>
                 <entry colname="col5">
@@ -468,7 +468,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                 <entry colname="col1">
                   <b>A.6.2.3</b>
                 </entry>
-                <entry colname="col2"><b>Addressing security in 3rd Party Agreements</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> include security requirements in contracts with third parties that involve accessing, processing, communicating or managing the organisation's information or information processing facilities?</entry>
+                <entry colname="col2"><b>Addressing security in 3rd Party Agreements</b> - Does the "ORGANISATION NAME FOR 3rd PARTY" include security requirements in contracts with third parties that involve accessing, processing, communicating or managing the organisation's information or information processing facilities?</entry>
                 <entry colname="col3"> </entry>
                 <entry colname="col4"> </entry>
                 <entry colname="col5">
@@ -501,7 +501,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                 <entry colname="col1">
                   <b>A.7.1.3</b>
                 </entry>
-                <entry colname="col2"><b>Acceptable use of Assets</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> have any documented policies on the acceptable use of information and assets associated with information processing, i.e. personal use, use of email, Internet access etc?</entry>
+                <entry colname="col2"><b>Acceptable use of Assets</b> - Does the "ORGANISATION NAME FOR 3rd PARTY" have any documented policies on the acceptable use of information and assets associated with information processing, i.e. personal use, use of email, Internet access etc?</entry>
                 <entry colname="col3"> </entry>
                 <entry colname="col4"> </entry>
                 <entry colname="col5">*Are there rules for the use of assets within the organisation, e.g. Acceptable use policies or “Do and Don't” lists for Email &amp; Internet, mobile devices, etc. If so, details should be provided.</entry>
@@ -521,7 +521,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                 <entry colname="col1">
                   <b>A.7.2.1</b>
                 </entry>
-                <entry colname="col2"><b>Classification Guidelines</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> use a data classification scheme (e.g. the Government Protective Marking Scheme) with defined protective controls for each classification or sensitive personal data?</entry>
+                <entry colname="col2"><b>Classification Guidelines</b> - Does the "ORGANISATION NAME FOR 3rd PARTY" use a data classification scheme (e.g. the Government Protective Marking Scheme) with defined protective controls for each classification or sensitive personal data?</entry>
                 <entry colname="col3"> </entry>
                 <entry colname="col4"> </entry>
                 <entry colname="col5">
@@ -554,7 +554,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                 <entry colname="col1">
                   <b>A.8.1.1</b>
                 </entry>
-                <entry colname="col2"><b>Roles and Responsibilities</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> identify security roles and responsibilities of employees, contractors and 3rd party users?  Are such roles/responsibilities documented?</entry>
+                <entry colname="col2"><b>Roles and Responsibilities</b> - Does the "ORGANISATION NAME FOR 3rd PARTY" identify security roles and responsibilities of employees, contractors and 3rd party users?  Are such roles/responsibilities documented?</entry>
                 <entry colname="col3"> </entry>
                 <entry colname="col4"> </entry>
                 <entry colname="col5">
@@ -576,7 +576,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                 <entry colname="col1">
                   <b>A.8.2.1</b>
                 </entry>
-                <entry colname="col2"><b>Management Responsibilities</b> - Does <q>ORGANISATION NAME FOR 3rd PARTY</q> management ensure security requirements are enforced by employees, contractors and 3rd party users?  How is this achieved?</entry>
+                <entry colname="col2"><b>Management Responsibilities</b> - Does "ORGANISATION NAME FOR 3rd PARTY" management ensure security requirements are enforced by employees, contractors and 3rd party users?  How is this achieved?</entry>
                 <entry colname="col3"> </entry>
                 <entry colname="col4"> </entry>
                 <entry colname="col5">
@@ -587,9 +587,9 @@ If any aspects of the data to be exchanged require special handling measures or 
                 <entry colname="col1">
                   <b>A.8.2.2</b>
                 </entry>
-                <entry colname="col2"><b>Information Security Awareness, Education and Training</b> - Do <q>ORGANISATION NAME FOR 3rd PARTY</q> employees and,
+                <entry colname="col2"><b>Information Security Awareness, Education and Training</b> - Do "ORGANISATION NAME FOR 3rd PARTY" employees and,
                   where relevant, contractors and 3rd party users receive appropriate security awareness training and regular updates
-                  in <q>ORGANISATION NAME FOR 3rd PARTY</q> security policies and procedures,
+                  in "ORGANISATION NAME FOR 3rd PARTY" security policies and procedures,
                   as relevant for their job function?</entry>
                 <entry colname="col3"> </entry>
                 <entry colname="col4"> </entry>
@@ -612,7 +612,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.8.3.3</b>
                   </entry>
-                  <entry colname="col2"><b>Removal of Access Rights</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> remove access rights of all employees, contractors and 3rd party users to information and information processing facilities upon termination of their employment, contract or agreement?  How is this done?</entry>
+                  <entry colname="col2"><b>Removal of Access Rights</b> - Does the "ORGANISATION NAME FOR 3rd PARTY" remove access rights of all employees, contractors and 3rd party users to information and information processing facilities upon termination of their employment, contract or agreement?  How is this done?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -645,7 +645,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.9.1.1</b>
                   </entry>
-                  <entry colname="col2"><b>Physical Security Perimeters</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> have a defined, effective, security perimeter to protect areas that contain information-processing facilities?</entry>
+                  <entry colname="col2"><b>Physical Security Perimeters</b> - Does the "ORGANISATION NAME FOR 3rd PARTY" have a defined, effective, security perimeter to protect areas that contain information-processing facilities?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -656,7 +656,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.9.1.2</b>
                   </entry>
-                  <entry colname="col2"><b>Physical Entry Controls</b> - Are there secure areas within the <q>ORGANISATION NAME FOR 3rd PARTY</q> premises, protected by appropriate entry controls to ensure that only authorised personnel are allowed access?</entry>
+                  <entry colname="col2"><b>Physical Entry Controls</b> - Are there secure areas within the "ORGANISATION NAME FOR 3rd PARTY" premises, protected by appropriate entry controls to ensure that only authorised personnel are allowed access?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -667,7 +667,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.9.1.6</b>
                   </entry>
-                  <entry colname="col2"><b>Public Access Delivery &amp; Loading Areas</b> - Are access points such as delivery and loading areas and other points where unauthorised persons may enter the <q>ORGANISATION NAME FOR 3rd PARTY</q> premises controlled and, if possible, isolated from information processing facilities to avoid unauthorised access?</entry>
+                  <entry colname="col2"><b>Public Access Delivery &amp; Loading Areas</b> - Are access points such as delivery and loading areas and other points where unauthorised persons may enter the "ORGANISATION NAME FOR 3rd PARTY" premises controlled and, if possible, isolated from information processing facilities to avoid unauthorised access?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -711,7 +711,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.10.1.1</b>
                   </entry>
-                  <entry colname="col2"><b>Document Operating Procedures</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> have operating procedures for the system connecting to <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q>?</entry>
+                  <entry colname="col2"><b>Document Operating Procedures</b> - Does the "ORGANISATION NAME FOR 3rd PARTY" have operating procedures for the system connecting to "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM"?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -722,7 +722,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.10.1.2</b>
                   </entry>
-                  <entry colname="col2"><b>Change Management</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> have a Change Management process which covers the system connecting to the <q>NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM</q>?</entry>
+                  <entry colname="col2"><b>Change Management</b> - Does the "ORGANISATION NAME FOR 3rd PARTY" have a Change Management process which covers the system connecting to the "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM"?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">*Describe the change management process.</entry>
@@ -742,7 +742,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.10.2.1</b>
                   </entry>
-                  <entry colname="col2"><b>Service Delivery</b> - If the <q>ORGANISATION NAME FOR 3rd PARTY</q> use a 3rd party service provider for its IT Service , does the <q>ORGANISATION NAME FOR 3rd PARTY</q> ensure that the security controls, service definitions and delivery levels included in the 3rd party service delivery agreement are implemented, operated and maintained by that 3rd party?</entry>
+                  <entry colname="col2"><b>Service Delivery</b> - If the "ORGANISATION NAME FOR 3rd PARTY" use a 3rd party service provider for its IT Service , does the "ORGANISATION NAME FOR 3rd PARTY" ensure that the security controls, service definitions and delivery levels included in the 3rd party service delivery agreement are implemented, operated and maintained by that 3rd party?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -775,7 +775,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.10.4.1</b>
                   </entry>
-                  <entry colname="col2"><b>Controls against Malicious Code</b> - Has the <q>NAME of 3rd PARTY IT SYSTEM</q> implemented controls to detect and protect against malicious code and that appropriate user awareness procedures is provided?  What AV application is installed and how often is the AV library updated?</entry>
+                  <entry colname="col2"><b>Controls against Malicious Code</b> - Has the "NAME of 3rd PARTY IT SYSTEM" implemented controls to detect and protect against malicious code and that appropriate user awareness procedures is provided?  What AV application is installed and how often is the AV library updated?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -808,7 +808,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.10.6.1</b>
                   </entry>
-                  <entry colname="col2"><b>Network Controls</b> - Is the system connected to the <q>NAME of 3rd PARTY IT SYSTEM</q> segregated from other <q>ORGANISATION NAME FOR 3rd PARTY</q> systems? Note: It is understood that this may not be possible in all cases.</entry>
+                  <entry colname="col2"><b>Network Controls</b> - Is the system connected to the "NAME of 3rd PARTY IT SYSTEM" segregated from other "ORGANISATION NAME FOR 3rd PARTY" systems? Note: It is understood that this may not be possible in all cases.</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -927,7 +927,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.11.2.1</b>
                   </entry>
-                  <entry colname="col2"><b>User Registration</b> - Does the <q>NAME of 3rd PARTY IT SYSTEM</q> have a formal user registration and de-registration procedure in place for granting and revoking access to all information systems and services?</entry>
+                  <entry colname="col2"><b>User Registration</b> - Does the "NAME of 3rd PARTY IT SYSTEM" have a formal user registration and de-registration procedure in place for granting and revoking access to all information systems and services?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -938,7 +938,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.11.2.2</b>
                   </entry>
-                  <entry colname="col2"><b>Privilege Management</b> - Does the <q>NAME of 3rd PARTY IT SYSTEM</q> restrict the allocation and use of privileges?</entry>
+                  <entry colname="col2"><b>Privilege Management</b> - Does the "NAME of 3rd PARTY IT SYSTEM" restrict the allocation and use of privileges?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -960,7 +960,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.11.2.4</b>
                   </entry>
-                  <entry colname="col2"><b>Review of User Access Rights</b> - Is there a review process that covers users' access rights on the <q>NAME of 3rd PARTY IT SYSTEM</q>?</entry>
+                  <entry colname="col2"><b>Review of User Access Rights</b> - Is there a review process that covers users' access rights on the "NAME of 3rd PARTY IT SYSTEM"?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -991,7 +991,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.11.3.2</b>
                   </entry>
-                  <entry colname="col2"><b>Unattended User Equipment</b> - Is there a user timeout set on the <q>NAME of 3rd PARTY IT SYSTEM</q>?</entry>
+                  <entry colname="col2"><b>Unattended User Equipment</b> - Is there a user timeout set on the "NAME of 3rd PARTY IT SYSTEM"?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -1013,7 +1013,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.11.4.1</b>
                   </entry>
-                  <entry colname="col2"><b>Policy on use of Network Services</b> - How does <q>NAME of 3rd PARTY IT SYSTEM</q> ensure that users only have direct access to the services that they have been specifically authorised to use?</entry>
+                  <entry colname="col2"><b>Policy on use of Network Services</b> - How does "NAME of 3rd PARTY IT SYSTEM" ensure that users only have direct access to the services that they have been specifically authorised to use?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -1024,7 +1024,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.11.4.2</b>
                   </entry>
-                  <entry colname="col2"><b>User Authentication for External Connections</b> - Does <q>NAME of 3rd PARTY IT SYSTEM</q> ensure any remote access is subject to authentication of the same standard as for normal users? See Control A.11.2.3 above.</entry>
+                  <entry colname="col2"><b>User Authentication for External Connections</b> - Does "NAME of 3rd PARTY IT SYSTEM" ensure any remote access is subject to authentication of the same standard as for normal users? See Control A.11.2.3 above.</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -1046,7 +1046,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.11.5.1</b>
                   </entry>
-                  <entry colname="col2"><b>Secure Log-on Procedures</b> - Is access to the <q>NAME of 3rd PARTY IT SYSTEM</q> only attainable via a secure log-on process?</entry>
+                  <entry colname="col2"><b>Secure Log-on Procedures</b> - Is access to the "NAME of 3rd PARTY IT SYSTEM" only attainable via a secure log-on process?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -1057,7 +1057,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.11.5.2</b>
                   </entry>
-                  <entry colname="col2"><b>User Identification and Authentication</b> - Do all users of the <q>NAME of 3rd PARTY IT SYSTEM</q> have a unique identifier (user ID) for their personal and sole use so that activities can be traced to the responsible individual?</entry>
+                  <entry colname="col2"><b>User Identification and Authentication</b> - Do all users of the "NAME of 3rd PARTY IT SYSTEM" have a unique identifier (user ID) for their personal and sole use so that activities can be traced to the responsible individual?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -1068,7 +1068,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.11.5.4</b>
                   </entry>
-                  <entry colname="col2"><b>Use of System Utilities</b> - A confirmation is required that the use of system utility programs on the <q>NAME of 3rd PARTY IT SYSTEM</q> is restricted and tightly controlled?</entry>
+                  <entry colname="col2"><b>Use of System Utilities</b> - A confirmation is required that the use of system utility programs on the "NAME of 3rd PARTY IT SYSTEM" is restricted and tightly controlled?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -1169,7 +1169,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.12.4.1</b>
                   </entry>
-                  <entry colname="col2"><b>Control of Operational Software</b> - Is there a process to control the implementation of software on the <q>NAME of 3rd PARTY IT SYSTEM</q>?</entry>
+                  <entry colname="col2"><b>Control of Operational Software</b> - Is there a process to control the implementation of software on the "NAME of 3rd PARTY IT SYSTEM"?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -1191,7 +1191,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.12.5.1</b>
                   </entry>
-                  <entry colname="col2"><b>Change Control Procedures</b> - All changes to the <q>NAME of 3rd PARTY IT SYSTEM</q> should be examined and any major changes reported to <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor.</entry>
+                  <entry colname="col2"><b>Change Control Procedures</b> - All changes to the "NAME of 3rd PARTY IT SYSTEM" should be examined and any major changes reported to <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor.</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -1246,7 +1246,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.13.1.1</b>
                   </entry>
-                  <entry colname="col2"><b>Reporting Information Security Events</b> - Is there a documented process to ensure information security events affecting the <q>NAME of 3rd PARTY IT SYSTEM</q> are reported to <ph conref="conrefs.dita#conrefs/moj"/> ITSO and system Accreditor as soon as possible?</entry>
+                  <entry colname="col2"><b>Reporting Information Security Events</b> - Is there a documented process to ensure information security events affecting the "NAME of 3rd PARTY IT SYSTEM" are reported to <ph conref="conrefs.dita#conrefs/moj"/> ITSO and system Accreditor as soon as possible?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -1268,7 +1268,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.13.2.1</b>
                   </entry>
-                  <entry colname="col2"><b>Responsibilities &amp; Procedures</b> - Have assigned responsibilities and procedures to ensure a quick, effective, and orderly response to information security incidents been implemented?  This needs to include the requirement to report incidents associated with the <q>NAME of 3rd PARTY IT SYSTEM</q> to <ph conref="conrefs.dita#conrefs/moj"/>.</entry>
+                  <entry colname="col2"><b>Responsibilities &amp; Procedures</b> - Have assigned responsibilities and procedures to ensure a quick, effective, and orderly response to information security incidents been implemented?  This needs to include the requirement to report incidents associated with the "NAME of 3rd PARTY IT SYSTEM" to <ph conref="conrefs.dita#conrefs/moj"/>.</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -1323,7 +1323,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.15.1.4</b>
                   </entry>
-                  <entry colname="col2"><b>Data Protection and Privacy of Personal Information</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> have documented procedures covering data protection and privacy of personal information?</entry>
+                  <entry colname="col2"><b>Data Protection and Privacy of Personal Information</b> - Does the "ORGANISATION NAME FOR 3rd PARTY" have documented procedures covering data protection and privacy of personal information?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">
@@ -1345,7 +1345,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.15.2.1</b>
                   </entry>
-                  <entry colname="col2"><b>Compliance with Security Policies &amp; Standards</b> - Does the <q>ORGANISATION NAME FOR 3rd PARTY</q> conduct compliance audits to achieve compliance with security policies and standards, including the CoCo for this connection?</entry>
+                  <entry colname="col2"><b>Compliance with Security Policies &amp; Standards</b> - Does the "ORGANISATION NAME FOR 3rd PARTY" conduct compliance audits to achieve compliance with security policies and standards, including the CoCo for this connection?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">

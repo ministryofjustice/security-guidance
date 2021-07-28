@@ -21,7 +21,7 @@ Full details of the mandatory training are provided in the Joiner, Mover, and Le
 In summary, as a minimum everyone **SHALL**:
 
 -   Have taken and completed an MoJ Security [induction](https://intranet.justice.gov.uk/guidance/hr/induction/).
--   Have completed the [Civil Service Learning](https://learn.civilservice.gov.uk/home) course on “Responsible for Information \(RfI\)”, or an approved equivalent.
+-   Have completed the [Civil Service Learning](https://learn.civilservice.gov.uk/home) course on "Responsible for Information \(RfI\)", or an approved equivalent.
 
 Normally, this training **SHALL** be completed successfully before accessing MoJ information, resources, or assets.
 

@@ -21,7 +21,7 @@
 			<dl>
 				<dlentry>
 					<dt>Failure to change passwords within the allocated time.</dt>
-					<dd>Systems must have a <q>change password</q> function to recover the account or contact information for the <ph conref="conrefs.dita#conrefs/servicedesk"/>.</dd>
+					<dd>Systems must have a "change password" function to recover the account or contact information for the <ph conref="conrefs.dita#conrefs/servicedesk"/>.</dd>
 				</dlentry>
 				<dlentry>
 					<dt>Unsuccessful connection attempts.</dt>

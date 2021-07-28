@@ -74,6 +74,8 @@ If any security-related incident occurs overseas, regardless of whether it invol
 
 If there is a problem with your MoJ equipment, it might be necessary to disable your ability to connect to the MoJ network or services from your device. The IT Service Desk will do this if required. MoJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MoJ business.
 
+**Note:** Do not be tempted to use non-MoJ equipment for MoJ business purposes. If you are having problems with MoJ equipment, you might wonder about using non-MoJ devices to progress a particularly important task, or to respond to an urgent email. This is not [acceptable](acceptable-use.md).
+
 ## Related pages
 
 -   [General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md)

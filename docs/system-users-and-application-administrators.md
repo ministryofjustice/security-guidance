@@ -8,21 +8,21 @@ This policy applies to all staff and contractors who work for the Ministry of Ju
 
 ### Who does it apply to?
 
-All Users of the “\[ORGANISATION\]” Information and Communications Technology \(IT\) systems.
+All Users of the "\[ORGANISATION\]" Information and Communications Technology \(IT\) systems.
 
-This document is designed to help Users utilise and access “\[ORGANISATION\]” IT systems in a safe and secure manner. Everyone using “\[ORGANISATION\]” IT systems must follow these procedures.
+This document is designed to help Users utilise and access "\[ORGANISATION\]" IT systems in a safe and secure manner. Everyone using "\[ORGANISATION\]" IT systems must follow these procedures.
 
 ### When and how should these procedures be used?
 
 Users' Security Awareness training will cover these procedures.
 
-Users must read this document prior to using any “\[ORGANISATION\]” IT Systems for the first time, and revisit it every six \(6\) months to remind themselves of the procedures. Regular audits will be performed to check that these procedures are being followed.
+Users must read this document prior to using any "\[ORGANISATION\]" IT Systems for the first time, and revisit it every six \(6\) months to remind themselves of the procedures. Regular audits will be performed to check that these procedures are being followed.
 
-Users must understand that they are responsible for maintaining the security of “\[ORGANISATION\]” systems, and that failure to comply with these SyOPs could lead to compromise of the “\[ORGANISATION\]”'s infrastructure or even the entire GSI. Users must note further that either failure to comply with this SyOPs or failure to return the security sign off form would be considered a breach of the “\[ORGANISATION\]” [IT Security Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/).
+Users must understand that they are responsible for maintaining the security of "\[ORGANISATION\]" systems, and that failure to comply with these SyOPs could lead to compromise of the "\[ORGANISATION\]"'s infrastructure or even the entire GSI. Users must note further that either failure to comply with this SyOPs or failure to return the security sign off form would be considered a breach of the "\[ORGANISATION\]" [IT Security Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/).
 
 For further all the security related information required, please refer to:
 
--   The “\[ORGANISATION\]” staff [intranet Security homepage](https://intranet.justice.gov.uk/guidance/security/)
+-   The "\[ORGANISATION\]" staff [intranet Security homepage](https://intranet.justice.gov.uk/guidance/security/)
 
 -   Remote User Security Operating Procedures \(SyOPs\) \(if applicable\)
 

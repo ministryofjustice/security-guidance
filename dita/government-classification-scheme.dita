@@ -3,7 +3,7 @@
 <topic id="government-classification-scheme">
   <title>Government Classification Scheme</title>
   <body>
-    <p>These summary guidelines are based on <q platform="github">The Government Security Classification (GSC)</q><ph platform="intranet">The Government Security Classification (GSC)</ph> as issued by the Cabinet Office in 2018.
+    <p>These summary guidelines are based on the Government Security Classification (GSC) as issued by the Cabinet Office in 2018.
       The link below provides full handling guidance for information classifications including <codeph>OFFICIAL</codeph>,
       <codeph>SECRET</codeph> and <codeph>TOP SECRET</codeph>:</p>
     <p><xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">https://www.gov.uk/government/publications/government-security-classifications</xref></p>

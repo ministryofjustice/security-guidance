@@ -3,26 +3,77 @@
 <topic id="official-official-sensitive">
   <title><codeph>OFFICIAL</codeph>, <codeph>OFFICIAL-SENSITIVE</codeph></title>
   <body>
-    <p platform="github">This information is based upon guidance for handling <xref href="https://www.gov.uk/guidance/official-sensitive-data-and-it" format="html" scope="external"><codeph>OFFICIAL-SENSITIVE</codeph> data and IT</xref>.</p>
+    <p>This information is based upon guidance for handling <xref href="https://www.gov.uk/guidance/official-sensitive-data-and-it" format="html" scope="external"><codeph>OFFICIAL-SENSITIVE</codeph> data and IT</xref>.</p>
+    <p><ph conref="conrefs.dita#conrefs/allstaff"/></p>
   </body>
   <topic id="official">
     <title><codeph>OFFICIAL</codeph></title>
     <body>
-      <p><codeph>OFFICIAL</codeph> is a UK HM Government information asset classification under the <xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">Government Security Classifications Policy (GSCP)</xref>.</p>
+      <p><codeph>OFFICIAL</codeph> is a UK HM Government information asset classification,
+        under the <xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">Government Security Classifications Policy (GSCP)</xref>.</p>
     </body>
   </topic>
   <topic id="official-sensitive">
     <title><codeph>OFFICIAL-SENSITIVE</codeph></title>
     <body>
-      <p><codeph>OFFICIAL-SENSITIVE</codeph> is <b>not</b> a classification. <codeph>SENSITIVE</codeph> is a handling caveat for a small subset of information marked <codeph>OFFICIAL</codeph> that require <i>special</i> handling by staff above and beyond the described <codeph>OFFICIAL</codeph> baseline.</p>
-      <p>The <codeph>SENSITIVE</codeph> handling caveat is a <i>reminder</i> as opposed to a requirement for additional controls nor a description of a minimum set of controls.</p>
-      <p platform="intranet">Guidance on handling <xref href="https://www.gov.uk/guidance/official-sensitive-data-and-it" format="html" scope="external"><codeph>OFFICIAL-SENSITIVE</codeph> data and IT</xref>.</p>
+      <p><codeph>OFFICIAL-SENSITIVE</codeph> is <b>not</b> a classification.
+        <codeph>SENSITIVE</codeph> is a handling caveat for a small subset of information marked <codeph>OFFICIAL</codeph>.
+        It warns that the information requires extra,
+        more careful handling by staff,
+        exceeding the described <codeph>OFFICIAL</codeph> baseline.</p>
+      <p>The <codeph>SENSITIVE</codeph> handling caveat is a <i>reminder</i> as
+        opposed to a requirement for a minimum set of additional controls.</p>
+      <p>It <ph conref="conrefs.dita#conrefs/policyshould"/> be possible to show who has access to <codeph>OFFICIAL-SENSITIVE</codeph> material.
+      It <ph conref="conrefs.dita#conrefs/policyshould"/> also be possible to show who has accessed <codeph>OFFICIAL-SENSITIVE</codeph> material.
+      Storing or sharing <codeph>OFFICIAL-SENSITIVE</codeph> <ph conref="conrefs.dita#conrefs/policyshould"/> take place in a manner or form that supports
+      the more careful handling and access auditing of the information.
+      For this reason,
+      <codeph>OFFICIAL-SENSITIVE</codeph> material <ph conref="conrefs.dita#conrefs/policyshouldnot"/> be
+      stored on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.</p>
+      <p>You <ph conref="conrefs.dita#conrefs/policyshouldnot"/> email
+        <codeph>OFFICIAL-SENSITIVE</codeph> material from your
+        <ph conref="conrefs.dita#conrefs/moj"/> email account to your personal email account.</p>
     </body>
-    <topic id="descriptors">
-      <title>DESCRIPTORS</title>
+    <topic id="context">
+      <title>Context</title>
       <body>
-        <p>Descriptors <i>can</i> be applied (but they do not need to be) to help identify certain categories of <codeph>SENSITIVE</codeph> information.</p>
-        <p>Descriptors should be applied in the format <codeph>OFFICIAL-SENSITIVE [DESCRIPTOR]</codeph></p>
+        <p>When dealing with <codeph>OFFICIAL-SENSITIVE</codeph> material,
+          it is important to consider context.</p>
+        <p>For example,
+          as part of a business task,
+          you might be working on some information that contains personal data about an individual,
+          such as the address of a Domestic Violence victim.
+          The presence of the personal data makes it likely that the information should be handled more carefully,
+          to ensure that only people or systems who need to use the information can do so.
+          To remind people and systems that the information needs extra careful handling,
+        the <codeph>SENSITIVE</codeph> handling caveat <ph conref="conrefs.dita#conrefs/policyshould"/> be added.</p>
+        <p>But context also applies.
+          For example,
+          information with a <codeph>SENSITIVE</codeph> handling caveat
+          <ph conref="conrefs.dita#conrefs/policyshouldnot"/> normally be emailed to a group email address,
+          or a personal email address.
+          The reason is simple:
+          you can't be certain that everyone with access to the group email address needs access to the information.
+          Similarly,
+          emailing to a personal email address means that the information is moving outside the <ph conref="conrefs.dita#conrefs/moj"/>,
+          so again,
+          you cannot be certain who might have access to the information.
+          However,
+          if the information is being shared with the person it applies to,
+          then it might be necessary to send that information to a personal email address.</p>
+        <p>In thinking about context,
+          ensure that you can show you have considered whether the need to handle
+          the information carefully will be maintained and assured by all recipients,
+          to comply with the <codeph>SENSITIVE</codeph> handling caveat.</p>
+        </body>
+    </topic>
+    <topic id="descriptors">
+      <title>Descriptors</title>
+      <body>
+        <p>Descriptors provide more detail about the circumstances and factors to consider when handling <codeph>SENSITIVE</codeph> information.</p>
+        <p>For example,
+          they can be applied and so help identify certain categories of <codeph>SENSITIVE</codeph> information.</p>
+        <p>Descriptors should be applied in the format: <codeph>OFFICIAL-SENSITIVE [DESCRIPTOR]</codeph></p>
         <p>The Cabinet Office maintains the following list of core descriptors to ensure a consistent approach is adopted across all departments:</p>
         <ul>
           <li>
@@ -32,10 +83,10 @@
             <p><codeph>LOCSEN</codeph>: Sensitive information that locally engaged staff overseas cannot access.</p>
           </li>
           <li>
-            <p><codeph>PERSONAL</codeph>: Particularly sensitive information relating to an identifiable individual, where inappropriate access could have damaging consequences. For example, where relating to investigations, vulnerable individuals, or the personal / medical records of people in sensitive posts (e.g. military, SIA).</p>
+            <p><codeph>PERSONAL</codeph>: Particularly sensitive information relating to an identifiable individual, where inappropriate access could have damaging consequences. For example, where relating to investigations, vulnerable individuals, or the personal or medical records of people in sensitive posts such as the military.</p>
           </li>
         </ul>
-        <p>Descriptors are <b>not</b> codewords.</p>
+        <note>Descriptors are not code words or classifications.</note>
       </body>
     </topic>
   </topic>

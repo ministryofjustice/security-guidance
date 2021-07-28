@@ -20,8 +20,8 @@
         attend a mandatory STRAP debriefing interview with
         <ph conref="conrefs.dita#conrefs/strapteamemailtext"/>.
         They <ph conref="conrefs.dita#conrefs/policyshall"/> also sign a
-        confidentiality agreement and a <q>Declaration of Cessation
-        of <codeph>TOP SECRET</codeph> STRAP Access</q>.</p>
+        confidentiality agreement and a "Declaration of Cessation
+        of <codeph>TOP SECRET</codeph> STRAP Access".</p>
   </body>
   <topic id="nsvcs-who-leave">
     <title>NSVCs who leave</title>

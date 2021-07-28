@@ -9,7 +9,7 @@ A more extensive list of acronyms is available [here](https://ministryofjustice.
 |Term|Explanation|
 |:---|:----------|
 |Authorised User|Any user of services covered as authorised by the MoJ.|
-|Customer|Someone who buys goods or services. The customer of an IT service provider is the person or group who defines and agrees the service level targets. The term customers is also sometimes informally used to mean users, for example “this is a customer focused organisation”.|
+|Customer|Someone who buys goods or services. The customer of an IT service provider is the person or group who defines and agrees the service level targets. The term customers is also sometimes informally used to mean users, for example "this is a customer focused organisation".|
 |Incident|Any event which is not part of the standard operation of a service, and which causes, or might cause, an interruption to, or a reduction in, the quality of that service.|
 |Incident Management|The process responsible for managing the lifecycle of all incidents. The primary objective of incident management is to return the IT service to users as quickly as possible.|
 |Problem|A cause of one or more incidents. The cause is not usually known at the time a problem record is created, and the Problem Management process is responsible for further investigation.|

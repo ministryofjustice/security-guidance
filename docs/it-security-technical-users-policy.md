@@ -41,7 +41,7 @@ The policy outlines the control design requirements that are needed to secure th
 
 ## Cryptography
 
-Cryptography is a method of securing information and communication channels to allow only authorised recipients and personnel to view the information. The MoJ's IT systems **SHALL** use cryptographic technologies to provide secure connections to third party systems or to protect information “at rest” on user devices, including laptops and mobile devices.
+Cryptography is a method of securing information and communication channels to allow only authorised recipients and personnel to view the information. The MoJ's IT systems **SHALL** use cryptographic technologies to provide secure connections to third party systems or to protect information "at rest" on user devices, including laptops and mobile devices.
 
 However, where staff have procured key material or hardware through the United Kingdom Key Production Authority \(UKKPA\) or any other cryptographic items where National Cyber Security Centre \(NCSC\) dictate that national cryptographic policy applies, the NCSC dictate the policy. In this case, the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) \(previously HMG IA Standard No. 4, Protective Security Controls for the Handling and Management of Cryptographic Items, IS4\) applies.
 

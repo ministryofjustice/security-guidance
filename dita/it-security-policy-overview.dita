@@ -48,7 +48,7 @@
         </dl>
       </p>
       <p>Within this policy,
-        <q>all <ph conref="conrefs.dita#conrefs/moj"/> users</q> refers to General users,
+        "all <ph conref="conrefs.dita#conrefs/moj"/> users" refers to General users,
         Technical users,
         and Service Providers as defined above.</p>
     </body>
