@@ -47,6 +47,11 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta><navtitle>MacBook</navtitle></topicmeta>
 			<topicref href="policies-for-macbook-users.dita" type="topic"/>
 		</topichead>
+		<topichead>
+		    <topicmeta><navtitle>Physical security</navtitle></topicmeta>
+            <topicref href="cctv-policy.dita" type="topic"/>
+            <topicref href="physical-security-policy.dita" type="topic"/>
+        </topichead>
 	</topichead>
 	<topichead>
 		<topicmeta><navtitle>Incident management</navtitle></topicmeta>

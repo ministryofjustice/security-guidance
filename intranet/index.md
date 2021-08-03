@@ -28,6 +28,9 @@
         -   [Locking and shutdown](locking-and-shutdown.md)
     * MacBook
         -   [MacBook](policies-for-macbook-users.md)
+    * Physical security
+        -   [CCTV policy](cctv-policy.md)
+        -   [Physical Security Policy](physical-security-policy.md)
 * Incident management
     * [Reporting an incident](reporting-an-incident.md)
     * [Lost devices or other IT security incidents](lost-devices-incidents.md)
