@@ -79,7 +79,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="voluntary-drug-testing-policy-procedures.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 		<topichead>
-			<topicmeta><navtitle>Termination and change of employment"></navtitle></topicmeta>
+			<topicmeta><navtitle>Termination and change of employment</navtitle></topicmeta>
 			<topicref href="end-or-change-of-employment.dita" type="topic"/>
 			<topicref href="leavers-with-nsc-and-nscvs.dita" type="topic"/>
 		</topichead>

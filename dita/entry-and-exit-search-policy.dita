@@ -19,9 +19,9 @@
         this framework with local policy or guidance for any business-specific risk.</p>
       <p>The policy defines the access controls that are in place
         when entering and exiting <ph conref="conrefs.dita#conrefs/moj"/> buildings.</p>
-      <p>The policy is available for download <xref href="file:///./gs/MoJ_Entry_and_Exit_Search_Policy_(Redacted).docx"
-        format="docx" scope="external" platform="intranet">here</xref><xref href="https://security-guidance.service.justice.gov.uk/gs/MoJ_Entry_and_Exit_Search_Policy_(Redacted).docx"
-        format="docx" scope="external" platform="github">here</xref>.</p>
+      <p>The policy is available for download <xref href="/gs/MoJ_Entry_and_Exit_Search_Policy_(Redacted).docx"
+        format="docx" scope="external" platform="html">here</xref><xref href="https://security-guidance.service.justice.gov.uk/gs/MoJ_Entry_and_Exit_Search_Policy_(Redacted).docx"
+        format="docx" scope="external" platform="epub pdf">here</xref>.</p>
   </body>
   <!-- FIXME -->
   <!-- Replace with conref when personal delivery topic is published. -->

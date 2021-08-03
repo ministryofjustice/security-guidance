@@ -6,7 +6,7 @@ Agencies and Arm's Length Bodies (ALBs) are expected to comply with this corpora
 
 The policy defines the access controls that are in place when entering and exiting MoJ buildings.
 
-The policy is available for download [here](./gs/MoJ_Entry_and_Exit_Search_Policy_(Redacted).docx).
+The policy is available for download [here](/gs/MoJ_Entry_and_Exit_Search_Policy_(Redacted).docx).
 
 **Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
 

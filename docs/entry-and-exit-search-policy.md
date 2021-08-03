@@ -6,7 +6,7 @@ Agencies and Arm's Length Bodies \(ALBs\) are expected to comply with this corpo
 
 The policy defines the access controls that are in place when entering and exiting MoJ buildings.
 
-The policy is available for download [here](https://security-guidance.service.justice.gov.uk/gs/MoJ_Entry_and_Exit_Search_Policy_(Redacted).docx).
+The policy is available for download [here](/gs/MoJ_Entry_and_Exit_Search_Policy_(Redacted).docx).
 
 ## Physical security advice
 
