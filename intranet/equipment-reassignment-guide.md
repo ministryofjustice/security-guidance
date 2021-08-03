@@ -12,7 +12,7 @@ This guidance applies to:
 2.  **Service Providers**: defined as any other MoJ business group, agency, contractor, IT supplier, or partner who in any way designs, develops, or supplies services (including processing, transmitting, and storing data) for, or on behalf of the MoJ.
 3.  **General users**: all other staff working for the MoJ.
 
-“All MoJ users” means General users, Technical users, and Service Providers.
+"All MoJ users" means General users, Technical users, and Service Providers.
 
 ##Returning Equipment
 
@@ -27,15 +27,15 @@ As a result, it might be preferable to use a new machine, rather than repurposin
 
 The LM is responsible for ensuring a review of the equipment. This is to ensure that sensitive data **SHALL NOT** be lost by erasing the contents of the device. This task **CAN** be delegated to the team member most familiar with the data. The LM remains responsible. Any sensitive data identified **SHALL** be copied and relocated to a secure location. This can be the MoJ Teams facility or to Sharepoint. This **SHALL** happen before the device is made ready for reuse or destroyed.
 
-Any IT equipment which is no longer needed, or has reached its “end of life” **SHALL** have its data securely deleted and confirmed to be unreadable and unrecoverable before destruction, redistribution, or reuse of the equipment.
+Any IT equipment which is no longer needed, or has reached its "end of life" **SHALL** have its data securely deleted and confirmed to be unreadable and unrecoverable before destruction, redistribution, or reuse of the equipment.
 
 ##Equipment Reassignment
 
 Equipment **CAN NOT** be passed from one user to another without being formally reassigned.
 
-Equipment **SHALL** be completely “cleaned” to an “as-new” state before it is reused or reassigned. This means that all storage media in the device **SHALL** be fully erased. A sufficiently secure method for “wiping” equipment **SHALL** be used. Deleting visible files, emptying files from the “Recycle Bin” of a computer, or reformatting a device are not considered sufficiently secure methods for wiping equipment. The reason is that data recovery software might be used by a new owner to “undelete” files or “unformat” a device.
+Equipment **SHALL** be completely "cleaned" to an "as-new" state before it is reused or reassigned. This means that all storage media in the device **SHALL** be fully erased. A sufficiently secure method for "wiping" equipment **SHALL** be used. Deleting visible files, emptying files from the "Recycle Bin" of a computer, or reformatting a device are not considered sufficiently secure methods for wiping equipment. The reason is that data recovery software might be used by a new owner to "undelete" files or "unformat" a device.
 
-To erase data securely, use appropriate “data-shredding” tools for the media being erased. Typically, these tools do not simply delete data, they overwrite it multiple times. The overwriting erases all traces of the data, making it almost impossible for any retrieval. Another option is to re-encrypt the device using a different password, then delete the data to free up space.
+To erase data securely, use appropriate "data-shredding" tools for the media being erased. Typically, these tools do not simply delete data, they overwrite it multiple times. The overwriting erases all traces of the data, making it almost impossible for any retrieval. Another option is to re-encrypt the device using a different password, then delete the data to free up space.
 
 Equipment reassignment **SHALL** be recorded by the LM in the appropriate asset register.
 

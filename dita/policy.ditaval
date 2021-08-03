@@ -1,0 +1,4 @@
+<val>
+	<prop action="exclude" att="product" val="notpolicy"/>
+	<prop action="include" att="product" val="policy"/>
+</val>

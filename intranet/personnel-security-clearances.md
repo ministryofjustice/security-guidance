@@ -14,11 +14,21 @@ The [Baseline Personnel Security Standard (BPSS) is published on GOV.UK](https:/
 
 * **[National Security Vetting questions](national-security-vetting-questions.md)**  
 
+* **[Ongoing Personnel Security](ongoing-personnel-security.md)**  
+
+* **[Personnel risk assessment](personnel-risk-assessment.md)**  
+
 * **[Pre-employment screening](pre-employment-screening.md)**  
 
 * **[Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)**  
 
+* **[Reporting personal circumstance changes](reporting-personal-circumstance-changes.md)**  
+
 * **[Security clearance appeals policy](security-clearance-appeals-policy.md)**  
+
+* **[Voluntary drug testing policy](voluntary-drug-testing-policy.md)**  
+
+* **[Voluntary drug testing policy procedures](voluntary-drug-testing-policy-procedures.md)**  
 
 
 ##National Security Clearances

@@ -2,7 +2,7 @@
 
 This document provides recruiting managers with answers to frequently-asked questions regarding national security vetting for external candidates.
 
-The processes described in this document are under continual review as part of the Ministry of Justice (MoJ) “simpler processes” activities. These FAQs will be updated as required.
+The processes described in this document are under continual review as part of the Ministry of Justice (MoJ) "simpler processes" activities. These FAQs will be updated as required.
 
 **Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
 

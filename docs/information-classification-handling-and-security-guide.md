@@ -34,13 +34,13 @@ It is the responsibility of the Data Owner to classify the data.
 -   Most production data is `OFFICIAL` information. Within this, some production data might be classified as `SECRET` information.
 -   Most personal data is `OFFICIAL` information. Within this, some personal data might be classified as `SECRET` information if it meets the risk threshold defined.
 
-The table below sets out the definitions for each security classification, as well as whether it is necessary to explicitly “mark” a piece of information with its classification type.
+The table below sets out the definitions for each security classification, as well as whether it is necessary to explicitly "mark" a piece of information with its classification type.
 
 |Classification|Definition|Marking|
 |--------------|----------|-------|
 |**`OFFICIAL`**|All information related to routine public sector business, operations and services.||
 ||Almost all personal information falls within the `OFFICIAL` classification.||
-||`OFFICIAL-SENSITIVE` is not a separate security classification. It should be used to reinforce the “need to know” principle, beyond the baseline for `OFFICIAL`.|`OFFICIAL` data does not need to be marked except where `SENSITIVE`, and must be marked `OFFICIAL-SENSITIVE`.|
+||`OFFICIAL-SENSITIVE` is not a separate security classification. It should be used to reinforce the "need to know" principle, beyond the baseline for `OFFICIAL`.|`OFFICIAL` data does not need to be marked except where `SENSITIVE`, and must be marked `OFFICIAL-SENSITIVE`.|
 |**`SECRET`**|Very sensitive information that requires protection against highly sophisticated, well-resourced and determined threat actors, for example serious and organised crime.|Must be marked|
 |**`TOP SECRET`**|Exceptionally sensitive information that directly supports \(or threatens\) the national security of the UK or its allies and requires extremely high assurance of protection from all threats.|Must be marked|
 
@@ -83,7 +83,7 @@ To help decide whether some information should be classified as `SECRET`, ask yo
 
 > If a hacker gained unauthorised access to the information, could it compromise the security or prosperity of the country?
 
-The answer is most likely “No”. In that case, you should consider using the `OFFICIAL` classification.
+The answer is most likely "No". In that case, you should consider using the `OFFICIAL` classification.
 
 ## `TOP SECRET`
 
@@ -95,7 +95,7 @@ To help decide whether some information should be classified as `TOP SECRET`, as
 
 > If a hacker gained unauthorised access to the information, would it directly and immediately threaten the national security of the country?
 
-The answer is most likely “No”. In that case, you should consider using the `OFFICIAL` or `SECRET` classification, as appropriate.
+The answer is most likely "No". In that case, you should consider using the `OFFICIAL` or `SECRET` classification, as appropriate.
 
 ## Reclassifying information
 
@@ -111,7 +111,7 @@ When deciding whether it is appropriate or desirable to reclassify information, 
 
 An asset owner creates a report. The report contains potentially private information about individuals. The asset owner decides that the report should be classified as `OFFICIAL`, with the `SENSITIVE` handling caveat.
 
-A user wishes to share a copy of the report “as-is” with their team. They cannot remove the handling caveat without prior discussion and agreement from the asset owner.
+A user wishes to share a copy of the report "as-is" with their team. They cannot remove the handling caveat without prior discussion and agreement from the asset owner.
 
 ### Example 2
 
@@ -146,7 +146,7 @@ The following sections set out the minimum measures you need to consider when ha
 ||When working in an unsecured area, for example when working remotely, think about whether unauthorised people might be able to eavesdrop on your conversations, or look over your shoulder at your screen.||
 ||The MoJ has additional requirements when moving assets which can be found in the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications).|A software developer working from a flatshare should take calls in private, and use headphones and a privacy screen.|
 ||Transferring information from one location to another requires planning and preparation, including a risk assessment. More information on this is available in the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications), and from your manager.|A technical architect working on the requirements for a new MoJ platform should lock their laptop before leaving their desk.|
-|**`TECHNICAL`**|Protect information “at rest” by using appropriate encryption.|In the development of a new cloud-hosted solution, the following criteria should be considered: remote access connections and sessions are encrypted using an appropriate VPN; information stored “at rest” on end user devices and the cloud is encrypted; information in transit between the end user and the cloud service, such as payment services, is encrypted; and the cloud service used is a [Digital Marketplace \(GCloud\)](https://www.digitalmarketplace.service.gov.uk/g-cloud) service.|
+|**`TECHNICAL`**|Protect information "at rest" by using appropriate encryption.|In the development of a new cloud-hosted solution, the following criteria should be considered: remote access connections and sessions are encrypted using an appropriate VPN; information stored "at rest" on end user devices and the cloud is encrypted; information in transit between the end user and the cloud service, such as payment services, is encrypted; and the cloud service used is a [Digital Marketplace \(GCloud\)](https://www.digitalmarketplace.service.gov.uk/g-cloud) service.|
 ||Appropriate encryption is also necessary when protecting information in transit.|When using any services over the PSN, make sure you fully read the agreements that you make with the service provider for details and definitions about the data you use or transfer using the service, to ensure you understand the risks to compliance, confidentiality, integrity, and availability.|
 ||[Digital Marketplace \(GCloud\)](https://www.digitalmarketplace.service.gov.uk/g-cloud) services can be used for `OFFICIAL` information.||
 ||You must not use removable media such as an USB memory stick unless it is unavoidable. When you have to use one, it must be MoJ issued, encrypted so that the effects of losing it are minimised, and the data erased securely after use.||

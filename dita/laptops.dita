@@ -53,10 +53,10 @@
     <title>How to reset your password</title>
     <body>
       <p>To reset your password,
-        you will need to contact the <xref href="#general-enquiries-including-theft-and-loss" format="dita">IT Service Desk</xref>.
+        you will need to contact the <xref href="#general-enquiries-including-theft-and-loss" format="dita"><ph conref="conrefs.dita#conrefs/servicedesk"/></xref>.
         They will carry out checks to confirm your identity.
         This might include asking your line manager or court manager to confirm your identity,
-        by sending an email to the IT Service Desk.
+        by sending an email to the <ph conref="conrefs.dita#conrefs/servicedesk"/>.
         Once your identity is confirmed,
         your password will be reset and you will quickly regain access to your laptop.</p>
     </body>

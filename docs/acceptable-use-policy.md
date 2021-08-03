@@ -2,9 +2,13 @@
 
 This information applies to all staff and contractors who work for the Ministry of Justice \(MoJ\).
 
-Guidance about Acceptable Use of IT within the MoJ is available [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/).
+Guidance about Acceptable Use of IT within the MoJ is available [here](acceptable-use.md).
 
-The definitive list of Acceptable Use Policy statements is available [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use-policy/).
+The definitive list of Acceptable Use Policy statements is available [here](it-acceptable-use-policy.md).
+
+## Contact details
+
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

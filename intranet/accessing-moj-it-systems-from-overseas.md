@@ -6,6 +6,8 @@ This guidance information applies to all staff, contractors and agency staff who
 
 As a government official travelling overseas, you should consider that you may be of interest to hostile parties regardless of your role. By following MoJ policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.
 
+Essential guidance is provided in the [overseas travel information](overseas-travel.md).
+
 In general, it is acceptable for MoJ users to access MoJ services from overseas, and to do this using their MoJ equipment. But before you travel, consider:
 
 * Do you need to take MoJ IT equipment overseas or access MoJ IT systems to do your job?
@@ -66,11 +68,13 @@ By default, MoJ equipment is not enabled for use overseas. Before travelling, re
 
 ##If you have any problem when using MoJ equipment overseas
 
-Contact the Technology Service Desk (see Contacts section below) immediately. Tell them if the MoJ equipment is lost, stolen or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.
+Contact the IT Service Desk (see Contacts section below) immediately. Tell them if the MoJ equipment is lost, stolen or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.
 
 If any security-related incident occurs overseas, regardless of whether it involves MoJ equipment, you should contact the Operational Security Team as soon as possible. See the Contacts section below, and the guidance on [Reporting a Security Incident](/guidance/security/report-a-security-incident/) on the MoJ Intranet. This includes information on reporting an incident outside of UK working hours. For convenience, the out-of-hours telephone number for reporting incidents is repeated in the Contacts section below.
 
-If there is a problem with your MoJ equipment, it might be necessary to disable your ability to connect to the MoJ network or services from your device. The Service Desk will do this if required. MoJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MoJ business.
+If there is a problem with your MoJ equipment, it might be necessary to disable your ability to connect to the MoJ network or services from your device. The IT Service Desk will do this if required. MoJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MoJ business.
+
+**Note:** Do not be tempted to use non-MoJ equipment for MoJ business purposes. If you are having problems with MoJ equipment, you might wonder about using non-MoJ devices to progress a particularly important task, or to respond to an urgent email. This is not [acceptable](acceptable-use.md).
 
 ##Related pages
 
@@ -89,14 +93,14 @@ If there is a problem with your MoJ equipment, it might be necessary to disable 
 * Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
 * Slack: `#security`
 
-##Dom1 - Technology Service Desk
+##Dom1 - IT Service Desk
 
 * Tel: 0800 917 5148
 * Tel: +44 800 917 5148 from outside the UK, chargeable
 
 **Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
 
-##Digital & Technology - Digital Service Desk
+##Digital & Technology - IT Service Desk
 
 * Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
 * Slack: `#digitalservicedesk`

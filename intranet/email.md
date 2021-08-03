@@ -44,7 +44,7 @@ There are many possible threats, including:
 * Social engineering: In the context of security, social engineering refers to manipulating people to do something or divulge confidential information. For example, you might get a call from someone pretending to be from a software supplier, claiming that a virus has been found on your PC; they demand personal details before they can remove the virus.
 * Spoofing: A spoofed email is where the sender (in this case, a criminal) purposely alters part of the email to make it look as though it was from someone else. Commonly, the sender's name/address and the body of the message are made to look as though it was from a legitimate source. It is commonly used to trick the recipient into providing confidential information such as passwords, or to market an online service dishonestly, or to sell a bogus product. Check the real sender of any email you receive if you ever have any doubt or uncertainty. If the sending address is one you don't recognise, do not click on any link contained within the email.
 
-The MoJ scans approximately 14 million messages a month for threats (figures from November 2020). Of these, we might expect to find 1.4 million “spam” messages, 150,000 “phishing” messages, and about 1,000 malware messages (including viruses). Unfortunately, not every virus or spam email will be identified and blocked. The good news is that there are some simple steps you can take to reduce the threat:
+The MoJ scans approximately 14 million messages a month for threats (figures from November 2020). Of these, we might expect to find 1.4 million "spam" messages, 150,000 "phishing" messages, and about 1,000 malware messages (including viruses). Unfortunately, not every virus or spam email will be identified and blocked. The good news is that there are some simple steps you can take to reduce the threat:
 
 * If you are not expecting the email, do not reply to it.
 * If you are at all suspicious, do not divulge your details or any sensitive information.
@@ -129,9 +129,9 @@ There are a range of scams that can target you at home or at work. Callers usual
 * Direct you to a website, in the hope you will download malicious software.
 * Try and obtain details from you about your computer, or the MoJ network.
 
-In all genuine situations, the MoJ service desk will provide you with an incident reference number if there is a real problem with your machine.
+In all genuine situations, the MoJ IT Service Desk will provide you with an incident reference number if there is a real problem with your machine.
 
-If you receive a call from someone claiming to be from the service desk, always ensure you ask them for the incident reference number. Then disconnect the call, and call service desk yourself, directly. If the original call was genuine, when you provide the incident reference number, they will be able to help you.
+If you receive a call from someone claiming to be from the IT Service Desk, always ensure you ask them for the incident reference number. Then disconnect the call, and call the IT Service Desk yourself, directly. If the original call was genuine, when you provide the incident reference number, they will be able to help you.
 
 In general:
 
@@ -139,7 +139,7 @@ In general:
 * If possible, note the details and incoming telephone number of the caller.
 * Do not go to any external site if directed from an unsolicited call.
 * Never give any information about your computer to the caller.
-* Check if the call is genuine with your IT Service desk. [Report the call](reporting-an-incident.md) as a security incident if it is not. Use a different phone from that used to take the original call.
+* Check if the call is genuine with your IT Service Desk. [Report the call](reporting-an-incident.md) as a security incident if it is not. Use a different phone from that used to take the original call.
 
 ##Hoaxes
 
@@ -181,7 +181,7 @@ Stories about giveaways by large companies. If you only send this on, some big c
 
 These are warnings about Trojans, viruses, and other malicious code, that have no basis in fact.
 
-Virus hoaxes have flooded the internet with thousands of viruses worldwide. Paranoia in the internet community fuels such hoaxes. An example of this is the [“Good Times” virus hoax](https://en.wikipedia.org/wiki/Goodtimes_virus), which started in 1994 and is still circulating the internet today. Instead of spreading from one computer to another by itself, Good Times relies on people to pass it along.
+Virus hoaxes have flooded the internet with thousands of viruses worldwide. Paranoia in the internet community fuels such hoaxes. An example of this is the ["Good Times" virus hoax](https://en.wikipedia.org/wiki/Goodtimes_virus), which started in 1994 and is still circulating the internet today. Instead of spreading from one computer to another by itself, Good Times relies on people to pass it along.
 
 ##Sympathy letters and requests to help someone
 
@@ -201,7 +201,7 @@ Real stories and messages that are not hoaxes but are still making the rounds of
 
 ##Traditional chain letters
 
-Traditional chain letters that threaten bad luck if you don't send them on or request that you send money to the top “x” people on the list before sending it on.
+Traditional chain letters that threaten bad luck if you don't send them on or request that you send money to the top "x" people on the list before sending it on.
 
 ##Threat chains
 
@@ -235,10 +235,10 @@ Data protection legislation protects personal information which relates to ident
 
 If you know you're going to be away for any significant amount of time, you can make life easier for everyone, including yourself, by following these simple steps:
 
-1.  Make provision for someone to have access to your work email account during your absence. If you don't know how to do this, [contact your IT Helpdesk](#general-enquiries-including-theft-and-loss).
-2.  Create a “handover” package, containing information about the tasks that will, or might, need attention during your absence.
+1.  Make provision for someone to have access to your work email account during your absence. If you don't know how to do this, [contact your IT Service Desk](#general-enquiries-including-theft-and-loss).
+2.  Create a "handover" package, containing information about the tasks that will, or might, need attention during your absence.
 3.  Make sure the package has contact details for everyone who might need to help progress or update the status of the tasks.
-4.  Create an “Out Of Office” notification in your email system; include clear details of who to contact in your absence.
+4.  Create an "Out Of Office" notification in your email system; include clear details of who to contact in your absence.
 
 ##Authorised access to user email accounts
 

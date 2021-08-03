@@ -119,7 +119,7 @@
           some personal data might be classified as <codeph>SECRET</codeph> information if it meets the risk threshold defined.</li>
       </ul>
         <p>The table below sets out the definitions for each security classification,
-          as well as whether it is necessary to explicitly <q platform="github">mark</q><ph platform="intranet">mark</ph> a piece of information with its classification type.
+          as well as whether it is necessary to explicitly "mark" a piece of information with its classification type.
         <table>
           <tgroup cols="3">
             <colspec colname="col1" colnum="1"/>
@@ -147,7 +147,7 @@
               <row>
                 <entry colname="col1"> </entry>
                 <entry colname="col2"><codeph>OFFICIAL-SENSITIVE</codeph> is not a separate security classification.
-                  It should be used to reinforce the <q platform="github">need to know</q><ph platform="intranet">need to know</ph> principle,
+                  It should be used to reinforce the "need to know" principle,
                   beyond the baseline for <codeph>OFFICIAL</codeph>.</entry>
                 <entry colname="col3"><codeph>OFFICIAL</codeph> data does not need to be marked except where <codeph>SENSITIVE</codeph>,
                   and must be marked <codeph>OFFICIAL-SENSITIVE</codeph>.</entry>
@@ -226,7 +226,7 @@
           ask yourself a simple question:
           <lq>If a hacker gained unauthorised access to the information,
             could it compromise the security or prosperity of the country?</lq></p>
-        <p>The answer is most likely <q platform="github">No</q><ph platform="intranet">No</ph>.
+        <p>The answer is most likely "No".
           In that case,
           you should consider using the <codeph>OFFICIAL</codeph> classification.</p>
       </body>
@@ -244,7 +244,7 @@
           ask yourself a simple question:
           <lq>If a hacker gained unauthorised access to the information,
             would it directly and immediately threaten the national security of the country?</lq></p>
-        <p>The answer is most likely <q platform="github">No</q><ph platform="intranet">No</ph>.
+        <p>The answer is most likely "No".
           In that case,
           you should consider using the <codeph>OFFICIAL</codeph> or <codeph>SECRET</codeph> classification,
           as appropriate.</p>
@@ -269,7 +269,7 @@
             The report contains potentially private information about individuals.
             The asset owner decides that the report should be classified as <codeph>OFFICIAL</codeph>,
             with the <codeph>SENSITIVE</codeph> handling caveat.</p>
-          <p>A user wishes to share a copy of the report <q platform="github">as-is</q><ph platform="intranet">as-is</ph> with their team.
+          <p>A user wishes to share a copy of the report "as-is" with their team.
             They cannot remove the handling caveat without prior discussion and agreement from the asset owner.</p>
         </body>
       </topic>
@@ -370,11 +370,11 @@
               </row>
               <row>
                 <entry colname="col1"><b><codeph>TECHNICAL</codeph></b></entry>
-                <entry colname="col2">Protect information <q platform="github">at rest</q><ph platform="intranet">at rest</ph> by using appropriate encryption.</entry>
+                <entry colname="col2">Protect information "at rest" by using appropriate encryption.</entry>
                 <entry colname="col3">In the development of a new cloud-hosted solution,
                   the following criteria should be considered:
                   remote access connections and sessions are encrypted using an appropriate VPN;
-                  information stored <q platform="github">at rest</q><ph platform="intranet">at rest</ph> on end user devices and the cloud is encrypted;
+                  information stored "at rest" on end user devices and the cloud is encrypted;
                   information in transit between the end user and the cloud service,
                   such as payment services,
                   is encrypted;

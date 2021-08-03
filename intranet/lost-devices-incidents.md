@@ -10,7 +10,7 @@ If MoJ data or information is lost or compromised, you should always [report it 
 
 If you think your device is lost, stolen, 'hacked', or in some way compromised, you must:
 
-1.  Contact your Technology Service Desk. The analyst will ask the relevant questions and note responses on the ticket.
+1.  Contact your IT Service Desk. The analyst will ask the relevant questions and note responses on the ticket.
 
     **Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 

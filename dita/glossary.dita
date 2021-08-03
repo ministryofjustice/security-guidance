@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="glossary">
+  <title>Glossary</title>
+  <body>
+    <p>This information is a reference list of <ph conref="conrefs.dita#conrefs/mojlong"/> terms and abbreviations.</p>
+    <p conref="conrefs.dita#conrefs/acronyms"></p>
+  </body>
+  <topic id="terms">
+    <title>Terms</title>
+    <body>
+			<table>
+				<tgroup cols="2">
+					<colspec colname="col1" colnum="1" colwidth="1*" align="left"/>
+					<colspec colname="col2" colnum="2" colwidth="5*" align="left"/>
+					<thead>
+						<row>
+							<entry colname="col1">Term</entry>
+							<entry colname="col2">Explanation</entry>
+						</row>
+					</thead>
+					<tbody>
+            <row>
+              <entry colname="col1">Authorised User</entry>
+              <entry colname="col2">Any user of services covered as authorised by the <ph conref="conrefs.dita#conrefs/moj"/>.</entry>
+            </row>
+            <row>
+              <entry colname="col1">Customer</entry>
+              <entry colname="col2">Someone who buys goods or services.
+                The customer of an IT service provider is the person or group
+                who defines and agrees the service level targets.
+                The term customers is also sometimes informally used to mean users,
+                for example "this is a customer focused organisation".</entry>
+            </row>
+            <row>
+              <entry colname="col1">Incident</entry>
+              <entry colname="col2">Any event which is not part of the standard operation of a service,
+                and which causes,
+                or might cause,
+                an interruption to,
+                or a reduction in,
+                the quality of that service.</entry>
+            </row>
+            <row>
+              <entry colname="col1">Incident Management</entry>
+              <entry colname="col2">The process responsible
+                for managing the lifecycle of all incidents.
+                The primary objective of incident management is to
+                return the IT service to users as quickly as possible.</entry>
+            </row>
+            <row>
+							<entry colname="col1">Problem</entry>
+							<entry colname="col2">A cause of one or more incidents.
+                The cause is not usually known at the time
+                a problem record is created,
+                and the Problem Management process is
+                responsible for further investigation.</entry>
+						</row>
+						<row>
+							<entry colname="col1">Problem Management</entry>
+							<entry colname="col2">The process responsible for managing the lifecycle
+                of all problems.
+                The primary objectives of Problem Management are
+                to prevent incidents from happening,
+                and to minimize the impact of incidents which cannot be prevented.</entry>
+						</row>
+						<row>
+							<entry colname="col1">Process</entry>
+							<entry colname="col2">A structured set of activities designed
+                to accomplish a specific objective.
+                A process takes one or more defined inputs
+                and turns them into defined outputs.
+                A process might include any of the roles,
+                responsibilities,
+                tools,
+                and management controls required to deliver the outputs reliably.
+                A process might define policies,
+                standards,
+                guidelines,
+                activities,
+                and work instructions if they are needed.</entry>
+						</row>
+            <row>
+              <entry colname="col1">Resolution</entry>
+              <entry colname="col2">Action taken to repair
+                the root cause of an incident or problem,
+                or to implement a workaround.</entry>
+            </row>
+            <row>
+              <entry colname="col1">Resolver Group</entry>
+              <entry colname="col2">May include a wide range of IT teams,
+                including support and development personnel,
+                other Service Management Functions (SMFs),
+                other units within the organisation,
+                outsourcing providers,
+                partners,
+                and other third parties.</entry>
+            </row>
+            <row>
+              <entry colname="col1">Service Desk</entry>
+              <entry colname="col2">The single point of contact
+                between the service provider and the users.
+                A typical Service Desk manages incidents and service requests,
+                and handles communication with the users.</entry>
+            </row>
+            <row>
+              <entry colname="col1">Trend Analysis</entry>
+              <entry colname="col2">Analysis of data
+                to identify time related patterns.
+                Trend analysis is used in Problem Management
+                to identify common failures or fragile configuration items,
+                and in Capacity Management as a modelling tool
+                to predict future behaviour.
+                It is also used as a management tool for identifying deficiencies
+                in IT Service Management Processes.</entry>
+            </row>
+          </tbody>
+				</tgroup>
+			</table></body>
+  </topic>
+  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

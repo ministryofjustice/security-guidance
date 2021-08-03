@@ -64,7 +64,7 @@ Privileged users are responsible for monitoring their systems to ensure that the
         -   Monitoring storage resources and processes that are provisioned to virtual machines, services, databases, and applications.
         -   Virtual network monitoring.
 -   Identify the root cause of excessive resource use and rectifying the issue when possible. If an issue cannot be rectified quickly, it should be reported to the system owner.
--   Notify the MoJ's Technology Service Desk if there is a suspected incident \(see [below](#incidents-and-contact-details) for contact details\).
+-   Notify the MoJ IT Service Desk if there is a suspected incident \(see [below](#incidents-and-contact-details) for contact details\).
 
 ## Identification and authentication
 

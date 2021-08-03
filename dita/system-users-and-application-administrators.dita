@@ -14,20 +14,20 @@
     <topic id="who-does-it-apply-to">
       <title>Who does it apply to?</title>
       <body>
-        <p>All Users of the <q>[ORGANISATION]</q> Information and Communications Technology (IT) systems.</p>
-        <p>This document is designed to help Users utilise and access <q>[ORGANISATION]</q> IT systems in a safe and secure manner. Everyone using <q>[ORGANISATION]</q> IT systems must follow these procedures.</p>
+        <p>All Users of the "[ORGANISATION]" Information and Communications Technology (IT) systems.</p>
+        <p>This document is designed to help Users utilise and access "[ORGANISATION]" IT systems in a safe and secure manner. Everyone using "[ORGANISATION]" IT systems must follow these procedures.</p>
       </body>
     </topic>
     <topic id="when-and-how-should-these-procedures-be-used">
       <title>When and how should these procedures be used?</title>
       <body>
         <p>Users' Security Awareness training will cover these procedures.</p>
-        <p>Users must read this document prior to using any <q>[ORGANISATION]</q> IT Systems for the first time, and revisit it every six (6) months to remind themselves of the procedures. Regular audits will be performed to check that these procedures are being followed.</p>
-        <p>Users must understand that they are responsible for maintaining the security of <q>[ORGANISATION]</q> systems, and that failure to comply with these SyOPs could lead to compromise of the <q>[ORGANISATION]</q>'s infrastructure or even the entire GSI. Users must note further that either failure to comply with this SyOPs or failure to return the security sign off form would be considered a breach of the <q>[ORGANISATION]</q> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/" format="html" scope="external">IT Security Policy</xref>.</p>
+        <p>Users must read this document prior to using any "[ORGANISATION]" IT Systems for the first time, and revisit it every six (6) months to remind themselves of the procedures. Regular audits will be performed to check that these procedures are being followed.</p>
+        <p>Users must understand that they are responsible for maintaining the security of "[ORGANISATION]" systems, and that failure to comply with these SyOPs could lead to compromise of the "[ORGANISATION]"'s infrastructure or even the entire GSI. Users must note further that either failure to comply with this SyOPs or failure to return the security sign off form would be considered a breach of the "[ORGANISATION]" <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/" format="html" scope="external">IT Security Policy</xref>.</p>
         <p>For further all the security related information required, please refer to:</p>
         <ul>
           <li>
-            <p>The <q>[ORGANISATION]</q> staff <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external">intranet Security homepage</xref></p>
+            <p>The "[ORGANISATION]" staff <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external">intranet Security homepage</xref></p>
           </li>
           <li>
             <p>Remote User Security Operating Procedures (SyOPs) (if applicable)</p>
@@ -96,7 +96,7 @@ Shut-down:
                 <entry colname="col2" namest="col2" nameend="col3">
                   <ul>
                     <li>To change a password, Users must hold down Ctrl + Alt + Delete on their keyboard and select 'Change Password'.</li>
-                    <li>If the password requires resetting, contact the <xref href="#general-enquiries-including-theft-and-loss" format="dita">Service Desk</xref>.</li>
+                    <li>If the password requires resetting, contact the <xref href="#general-enquiries-including-theft-and-loss" format="dita"><ph conref="conrefs.dita#conrefs/servicedesk"/></xref>.</li>
                   </ul>
                 </entry>
               </row>
@@ -140,7 +140,7 @@ Shut-down:
                         <li>If operationally possible, leave the system switched on in its infected condition;</li>
                         <li>Disconnect the affected workstation from the network (where possible);</li>
                         <li>Mark the system and any associate storage media with a label stating that the machine has a suspected virus;</li>
-                        <li>Inform the <xref href="#general-enquiries-including-theft-and-loss" format="dita">Information Technology (IT) Helpdesk</xref> who will provide assistance.</li></ul>
+                        <li>Inform the <xref href="#general-enquiries-including-theft-and-loss" format="dita"><ph conref="conrefs.dita#conrefs/servicedesk"/></xref> who will provide assistance.</li></ul>
                 </entry>
               </row>
               <row valign="top">
@@ -174,7 +174,7 @@ Shut-down:
                 <entry colname="col1">Security Incident and General Reporting Procedures</entry>
                 <entry colname="col2" namest="col2" nameend="col3">
                   <ul>
-                    <li>All requests for IT support and all reports of IT failures must be logged with the IT Helpdesk.</li>
+                    <li>All requests for IT support and all reports of IT failures must be logged with the <ph conref="conrefs.dita#conrefs/servicedesk"/>.</li>
                     <li>Any incident involving a suspected or known security breach involving personnel, hardware, software, communications, document or physical security must be reported immediately to the IT System Manager and the [ORGANISATION] Operational Security Team (OST).</li>
                     <li>Any loss of IT equipment, [ORGANISATION] or personal data should be <xref href="#incidents" format="dita">reported</xref>. Report also to the Users' line manager, the OST (<ph conref="conrefs.dita#conrefs/ostemail"/>)and to the Data Access &amp; Compliance Unit (DACU).
                       <p>To ensure a quick response all emails must be marked Urgent and have 'Data Incident' in the title/subject heading.</p></li>

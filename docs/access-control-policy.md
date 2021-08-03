@@ -23,7 +23,7 @@ This policy is aimed at:
     All other staff working for the MoJ.
 
 
-“All MoJ users” refers to General users, Technical users, and Service Providers, as defined above.
+"All MoJ users" refers to General users, Technical users, and Service Providers, as defined above.
 
 ## Policy Sections
 
@@ -67,7 +67,7 @@ The MoJ's business or strategic requirements limit access to MoJ information and
 
 `POLACP006:` The policy **SHALL** also follow the additional principles of:
 
--   “Need-to-know”.
+-   "Need-to-know".
 -   Non-repudiation of user actions.
 -   Least privilege.
 -   User access management.
@@ -87,7 +87,7 @@ This subsection aligns to the principle of least access, to protect a network an
 
 `POLACP008:` Access to information and application system functions **SHALL** be restricted by following access control policies and procedures.
 
-`POLACP009:` In particular, System Designers and Administrators **SHALL** use adequate authentication techniques to identify with confidence user access to their system or data, using the principle of “least privilege”. See the guidance on [Authorisation](authorisation.md) for more detail.
+`POLACP009:` In particular, System Designers and Administrators **SHALL** use adequate authentication techniques to identify with confidence user access to their system or data, using the principle of "least privilege". See the guidance on [Authorisation](authorisation.md) for more detail.
 
 ### Secure Log-on Procedures
 
@@ -182,7 +182,7 @@ For further information on user de-registration, see the [MoJ Enterprise Access 
 -   `POLACP052:` User password management **SHALL** be configured, so a password is changed after the initial log-on and invalid if not used in a specified time. See the [Passwords](passwords.md) guidance.
 -   `POLACP053:` System Administrators and systems **SHALL** never send passwords by email, as it is an unsecured channel.
 
-    `POLACP054:` Instead, users **SHALL** receive a time-limited password-reset link or code to their registered email address or phone number. See the Government guidance “[Send a link to trigger password resets](https://design-system.service.gov.uk/patterns/passwords/)”.
+    `POLACP054:` Instead, users **SHALL** receive a time-limited password-reset link or code to their registered email address or phone number. See the Government guidance "[Send a link to trigger password resets](https://design-system.service.gov.uk/patterns/passwords/)".
 
 
 ### Review of User Access Rights
