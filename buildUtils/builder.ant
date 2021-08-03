@@ -33,9 +33,9 @@
 	<!--
 	<property name="ost" location="ost"/>
 	<property name="ostbuild" location="${docs}/ost"/>
+	-->
 	<property name="culture" location="culture"/>
 	<property name="culturebuild" location="${docs}/culture"/>
-	-->
 	<property name="redirects" location="redirects"/>
 	<!-- Ensure that environment variable DITA_DIR is set to
 		the installation directory for the DITA Open Source Toolkit -->
@@ -117,16 +117,21 @@
 	</target>
 	-->
 
-	<!--
-	<target name="compile_culture" depends="init, compile_intranet"
+	<target name="compile_culture" depends="init, compile_md"
 				description="Compile culture content into production Markdown">
 		<delete dir="${culturebuild}"/>
 		<copy todir="${culturebuild}" >
 			<fileset dir="${culture}"/>
 		</copy>
 		<replace dir="${culturebuild}" replaceFilterFile="${ditabuild}/conrefs.properties"/>
+		<replaceregexp match='"graphics' replace='"../graphics' flags="g" >
+			<fileset dir="${culturebuild}" includes="**/*.md"/>
+		</replaceregexp>
+		<replaceregexp match='\(resources' replace='\(../resources' flags="g" >
+			<fileset dir="${culturebuild}" includes="**/*.md"/>
+		</replaceregexp>
+		
 	</target>
-	-->
 
 	<target name="compile_intranet" depends="init"
 				description="compile the Intranet collection into markdown">
@@ -191,11 +196,15 @@
 	</target>
 -->
 
+	<!--
 	<target name="convertToWord">
 		<echo message="Converting file: ${theFile}"/>
 		<basename property="theFileName" file="${theFile}" suffix=".md"/>
 		<exec dir="${intranet}" executable="pandoc">
-			<arg line=" --from=markdown --to=docx ${theFileName}.md --output=${intranet}/${theFileName}.docx"/>
+			#
+			# change double underscore to double dash when comment removed.
+			#
+			<arg line=" __from=markdown __to=docx ${theFileName}.md __output=${intranet}/${theFileName}.docx"/>
 		</exec>
 	</target>
 
@@ -214,6 +223,7 @@
 			<replacetoken># </replacetoken>
 		</replace>
 	</target>
+	-->
 
 	<target name="compile_pdf" depends="init"
 				description="compile the source into PDF">
@@ -239,7 +249,7 @@
 		</ant>
 		# Rename this file to be Suppliers users guide.
 		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-suppliers.pdf" overwrite="true"/>
-	-->
+		-->
 
 		<!-- Now build the Intranet PDF, containing just its content.
 		<echo message="Build PDF: Intranet"/>
@@ -333,7 +343,8 @@
 	</target>
 
 	<!-- Do all the builds. -->
-	<target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub"/>
+	<target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_culture"/>
+	<!-- <target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub"/> -->
 	<!-- <target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_ost"/> -->
 	<!-- <target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word"/> -->
 	<!-- <target name="compile" depends="clean,compile_intranet,compile_md,compile_pdf,compile_epub,compile_word,compile_culture"/> -->
@@ -349,7 +360,7 @@
 		<copy file="${temp.file}" tofile="${docs}/${theFileName}.md" overwrite="true"/>
 	</target>
 
-	<target name="dist_local" depends="compile_md,compile_intranet"
+	<target name="dist_local" depends="compile_md,compile_intranet,compile_culture"
 		description="generate minimal set to test local build">
 	<!--
 	<target name="dist_local" depends="compile_md,compile_intranet,compile_ost"
@@ -420,6 +431,11 @@
 		<copy todir="${docs}" >
 			<fileset dir="${build}"/>
 		</copy>
+		<foreach target="enableRedirect" param="theFile">
+			<path>
+				<fileset dir="${redirects}"/>
+			</path>
+		</foreach>
 		<copy file="${docs}/cyber-and-technical-security-guidance.md" tofile="${docs}/index.md" overwrite="true"/>
 	</target>
 </project>

@@ -1,8 +1,3 @@
----
-Review: 2021-12-31
-Owner:
----
-
 [Home > Our Security Culture](security-culture-overview.md)
 
 # Events
@@ -12,19 +7,18 @@ Owner:
 <img src="graphics/webinar-safe-online.png" width="30%" align="right" />
 
 Do you know how to keep yourself and your work safe online? Do you want to
-ensure you're adhering to Ministry of Justice (MoJ) remote working policies while working from
+ensure you're adhering to @mojlong@ remote working policies while working from
 home?
 
 Come and find out how in this bitesize security session where you will learn how to:
 
-- manage what data is shared about you online
-- manage your personal ‘digital footprint’
-- prevent yourself from being targeted as a civil servant
-- stop conversations being recorded by your personal devices (e.g. Phones, Alexa speakers etc)
+- Manage what data is shared about you online.
+- Manage your personal 'digital footprint'.
+- Prevent yourself from being targeted as a civil servant.
+- Stop conversations being recorded by your personal devices (e.g. Phones, Alexa speakers, etc.)
 
 No need to book, simply diarise one of the below sessions and join on the day.
 
-- Tuesday 20 July (12:30-13:00) - [join the meeting](https://intranet.justice.gov.uk/events/how-to-keep-yourself-and-your-work-safe-online-2/)
 - Tuesday 17 August (12:30-13:00) - [join the meeting](https://intranet.justice.gov.uk/events/how-to-keep-yourself-and-your-work-safe-online-3/)
 - Tuesday 21 September (12:30-13:00) - [join the meeting](https://intranet.justice.gov.uk/events/how-to-keep-yourself-and-your-work-safe-online-4/)
 
@@ -42,8 +36,6 @@ It includes practical advice on how to manage security behaviours in your team.
 Some pre-reading and a short post-attendance exercise will be required, in
 addition to the workshop. Please sign up via Eventbrite:
 
-- Friday 16 July (11:00-12:30) - [Book here](https://www.eventbrite.co.uk/e/people-manager-security-awareness-workshop-tickets-159965672633)
-- Wednesday 28 July (11:00-12.30) - Fully booked
 - Friday 20 August (11:00-12:30) - [Book here](https://www.eventbrite.co.uk/e/people-manager-security-awareness-workshop-tickets-159965674639)
 - Wednesday 25 August (11:00-12.30) - Fully Booked
 - Friday 17 September 11:00-12:30) - [Book here](https://www.eventbrite.co.uk/e/people-manager-security-awareness-workshop-tickets-159965676645)
@@ -51,9 +43,9 @@ addition to the workshop. Please sign up via Eventbrite:
 
 ## Links
 
-- [Our Security Culture](security-culture-overview.md)
-- [Security Culture Programme](security-culture-programme.md)
-- [Security Champions](security-champions.md)
-- [Coming Back to the Office Securely](coming-back-to-the-office-securely.md)
-- [Secure Working Checklist](secure-working-checklist.md)
-- [Resources to share](resources.md)
+- @oursecurityculture@
+- @securitycultureprogramme@
+- @securitychampions@
+- @comingbacktotheofficesecurely@
+- @secureworkingchecklist@
+- @resourcestoshare@

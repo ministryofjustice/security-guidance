@@ -1,8 +1,3 @@
----
-Review: 2021-12-31
-Owner:
----
-
 [Home > Our Security Culture](security-culture-overview.md)
 
 # Resources
@@ -22,10 +17,10 @@ Owner:
 
 ## Guidance
 
-- [Your guide to being security aware](your-guide-to-being-security-aware.pdf) leaflet - a guide for all staff and contractors on the main security behaviours expected of them at the Ministry of Justice (MoJ).
-- Quick reference guide - a guide to our main policies, and Security contacts.
-- [Remote working guidance](https://intranet.justice.gov.uk/guidance/security/emergencies/coronavirus-guidance/security/)
-- [IT acceptable use policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/it-acceptable-use-policy/)
+- [Your guide to being security aware](your-guide-to-being-security-aware.pdf) leaflet - a guide for all staff and contractors on the main security behaviours expected of them at the @mojlong@.
+- [Quick reference guide](resources/Quick%20Reference%20Guide%20-%20Security.pdf) - a guide to our main policies, and Security contacts.
+- [Remote working guidance](https://security-guidance.service.justice.gov.uk/remote-working/)
+- [IT acceptable use](https://security-guidance.service.justice.gov.uk/acceptable-use/)
 
 ## Intranet
 
@@ -33,13 +28,13 @@ Owner:
 
 ## Newsletters
 
-- [MoJ Protect newsletter](MoJ%20Protect.pdf) (example) - a quarterly update for our stakeholders, and a great way to stay on top of the policies and threats you need to be aware of, no matter what your role. To be added to this mailing list please email [Dawn Carrington](mailto:dawn.carrington@justice.gov.uk).
+- MoJ Protect newsletter - a quarterly update for our stakeholders, and a great way to stay on top of the policies and threats you need to be aware of, no matter what your role. To be added to this mailing list please email @dawncarringtontext@.
 
 ## Links
 
-- [Our Security Culture](security-culture-overview.md)
-- [Security Culture Programme](security-culture-programme.md)
-- [Security Champions](security-champions.md)
-- [Coming Back to the Office Securely](coming-back-to-the-office-securely.md)
-- [Secure Working Checklist](secure-working-checklist.md)
-- [Events](events.md)
+- @oursecurityculture@
+- @securitycultureprogramme@
+- @securitychampions@
+- @comingbacktotheofficesecurely@
+- @secureworkingchecklist@
+- @events@
