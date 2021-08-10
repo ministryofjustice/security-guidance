@@ -236,7 +236,7 @@ The documents have been developed and defined within this taxonomy, and are list
 
 #### Secure areas
 
-|[Personal mail and parcel delivery](personal-mail-and-parcel-delivery.md)|All users|
+|[Personal mail and parcel delivery policy and procedure](personal-mail-and-parcel-delivery-policy-and-procedure.md)|All users|
 |[Physical Security Policy](physical-security-policy.md)|All users|
 
 #### Equipment
