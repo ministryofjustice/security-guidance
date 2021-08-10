@@ -121,10 +121,13 @@
   <topic id="email-security">
     <title>Email security</title>
     <body>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> Email Security Guide specifies the controls and processes required to protect the <ph conref="conrefs.dita#conrefs/moj"/>'s email systems from unauthorised access or misuse,
-      that may compromise the confidentiality,
-      integrity or availability of the data stored and shared within them.</p>
-      <p>The guide outlines the various security levels required to transfer information from the <ph conref="conrefs.dita#conrefs/moj"/>'s email servers to organisations outside the <ph conref="conrefs.dita#conrefs/moj"/> and other government departments.
+      <p>The <ph product="notpolicy"><ph conref="conrefs.dita#conrefs/moj"/> <xref href="email.dita" format="dita">Email
+        guidance</xref></ph><ph product="policy">Email guidance</ph>
+        tells you about safe and secure use of email within the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+      <p audience="audience-tech">The more detailed <ph conref="conrefs.dita#conrefs/moj"/> <ph product="notpolicy"><xref href="email-security-guide.dita" format="dita">Email Security Guide</xref></ph><ph product="policy">Email Security Guide</ph> specifies the controls and processes required to protect the <ph conref="conrefs.dita#conrefs/moj"/>'s email systems from unauthorised access or misuse,
+        that may compromise the confidentiality,
+        integrity or availability of the data stored and shared within them.</p>
+      <p audience="audience-tech">The guide outlines the various security levels required to transfer information from the <ph conref="conrefs.dita#conrefs/moj"/>'s email servers to organisations outside the <ph conref="conrefs.dita#conrefs/moj"/> and other government departments.
         It covers topics such as the threats to email security (phishing) and secure email transfer.</p>
     </body>
   </topic>
