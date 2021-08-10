@@ -12,4 +12,5 @@ dita/fixes.txt
 dita/out
 dita/outhtml
 dita/tstamp.dita
+ditabuild/
 tmp
