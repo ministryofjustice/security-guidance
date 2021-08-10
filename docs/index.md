@@ -236,6 +236,7 @@ The documents have been developed and defined within this taxonomy, and are list
 
 #### Secure areas
 
+|[CCTV policy](cctv-policy.md)|All users|
 |[Physical Security Policy](physical-security-policy.md)|All users|
 
 #### Equipment
