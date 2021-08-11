@@ -153,11 +153,6 @@
         as warranted.</p>
     </body>
   </topic>
-  <topic id="physical-security-advice">
-    <title>Physical security advice</title>
-    <body>
-      <p>Physical security advice can be obtained by contacting <ph conref="conrefs.dita#conrefs/moj"/> Group Security: <ph conref="conrefs.dita#conrefs/groupsecurityemail"/>.</p>
-    </body>
-  </topic>
+  <topic id="physical-security-advice" conref="conrefs.dita#conrefs/physical-security-advice"><title/></topic>
   <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
