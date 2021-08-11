@@ -46,6 +46,7 @@
 * Personnel security clearances
     * [Personnel security clearances](personnel-security-clearances.md)
         -   [End or change of employment](end-or-change-of-employment.md)
+        -   [Entry and exit search policy](entry-and-exit-search-policy.md)
         -   [Leavers with NSC and NSVCs](leavers-with-nsc-and-nscvs.md)
         -   [Minimum user clearance](minimum-user-clearance-requirements-guide.md)
         -   [National Security Vetting for External Candidates FAQ](national-security-vetting-for-external-candidates-faq.md)

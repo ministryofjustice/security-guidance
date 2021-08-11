@@ -237,6 +237,7 @@ The documents have been developed and defined within this taxonomy, and are list
 #### Secure areas
 
 |[CCTV policy](cctv-policy.md)|All users|
+|[Entry and exit search policy](entry-and-exit-search-policy.md)|All users|
 |[Personal mail and parcel delivery policy and procedure](personal-mail-and-parcel-delivery-policy-and-procedure.md)|All users|
 |[Physical Security Policy](physical-security-policy.md)|All users|
 
