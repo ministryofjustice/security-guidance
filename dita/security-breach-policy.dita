@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="security-breach-policy">
+  <title>Security breach policy</title>
+  <body>
+      <p>This document provides an overview of the <ph conref="conrefs.dita#conrefs/mojlong"/> Corporate Security Breach
+          Policy, which applies across the entire estate, including the Ministry's agencies and other related offices.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> takes its responsibilities for security seriously.
+          All <ph conref="conrefs.dita#conrefs/moj"/> employees,
+          including contractors and agency staff,
+          have a duty to comply with <ph conref="conrefs.dita#conrefs/moj"/> security policies.
+          These policies exist to:
+          <ul>
+              <li>Protect employees, visitors and service users from injury or harm.</li>
+              <li>Protect <ph conref="conrefs.dita#conrefs/moj"/> assets from loss or damage.</li>
+              <li>Enable the <ph conref="conrefs.dita#conrefs/moj"/> to maintain business continuity and public
+                  confidence.</li>
+          </ul></p>
+      <p>A security breach is defined as any violation of these responsibilities.
+          This includes a range of behaviour,
+          such as:
+          <ul>
+              <li>Failing to wear security access passes in pass controlled buildings.</li>
+              <li>Failing to comply with clear desk policies.</li>
+              <li>Failing to protect sensitive information or assets,
+                  and passing on sensitive data to third parties without the proper authority.</li>
+          </ul>
+          <note>This list is not comprehensive.</note></p>
+      <p>Such behaviour constitutes a form of misconduct that <ph conref="conrefs.dita#conrefs/policymay"/> then result
+          in disciplinary action being taken against an employee,
+          in accordance with the <ph conref="conrefs.dita#conrefs/moj"/> Disciplinary Policy.
+          Failure of a contractor to comply <ph conref="conrefs.dita#conrefs/policymight"/> lead to the cancellation of
+          a contract.
+          In certain circumstances,
+          legal action <ph conref="conrefs.dita#conrefs/policymight"/> also be taken.</p>
+  </body>
+    <topic id="scope">
+        <title>Scope</title>
+        <body>
+            <ul>
+                <li>Each agency and business area within the <ph conref="conrefs.dita#conrefs/moj"/> is responsible for
+                    developing arrangements for applying the principles of this policy.</li>
+            </ul>
+        </body>
+    </topic>
+    <topic id="principles">
+        <title>Principles</title>
+        <body>
+            <ol>
+                <li>All employees,
+                    including contractors and agency staff,
+                    <ph conref="conrefs.dita#conrefs/policyshall"/> observe security policies.
+                    This includes adherence to the requirements of the Official Secrets Act,
+                    Civil Service Code of Conduct,
+                    <ph conref="conrefs.dita#conrefs/moj"/> Security and IT policies,
+                    and any local or agency level security instructions.</li>
+                <li>Across the <ph conref="conrefs.dita#conrefs/moj"/> estate,
+                    there <ph conref="conrefs.dita#conrefs/policyshall"/> be arrangements in place to ensure the
+                    effective identification and investigation of security breaches,
+                    whether committed by employees or other persons.
+                    These <ph conref="conrefs.dita#conrefs/policyshall"/> be recorded centrally as security incidents to
+                    ensure trends are identified,
+                    and if necessary analysed to ensure adequacy of controls.</li>
+                <li>Each organisation across the <ph conref="conrefs.dita#conrefs/moj"/> estate
+                    <ph conref="conrefs.dita#conrefs/policyshould"/> publish specific guidance to ensure its managers
+                    and all employees clearly understand that a breach of their security responsibilities
+                    <ph conref="conrefs.dita#conrefs/policyshall"/> constitute a form of misconduct.
+                    The guidance <ph conref="conrefs.dita#conrefs/policyshall"/> define whether the breach constitutes a
+                    minor,
+                    a serious,
+                    or a gross misconduct.
+                    Managers <ph conref="conrefs.dita#conrefs/policyshall"/> then decide whether to take disciplinary
+                    action according to <ph conref="conrefs.dita#conrefs/moj"/> (or HMPPS) policies,
+                    considering the following factors:
+                    <ul>
+                        <li>The damage or potential damage of the breach.</li>
+                        <li>Any level of intent,
+                            including decisions to ignore a problem or issue,
+                            or deliberately leak sensitive information.</li>
+                        <li>Whether a previous warning was given to the employee.</li>
+                    </ul></li>
+            </ol>
+        </body>
+    </topic>
+    <topic id="roles-and-responsibilities">
+        <title>Roles and Responsibilities</title>
+        <body>
+            <p>Everyone has a role to play in ensuring that we work in a safe and secure environment,
+                and that the data and other sensitive assets we manage are correctly protected.
+                Security procedures apply equally to all who work in the <ph conref="conrefs.dita#conrefs/moj"/>,
+                including ministers,
+                special advisors,
+                permanent secretaries,
+                judicial officers,
+                contractors,
+                and other staff.</p>
+        </body>
+    </topic>
+
+    <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+    <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
