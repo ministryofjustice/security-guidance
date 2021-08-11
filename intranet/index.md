@@ -28,14 +28,10 @@
         -   [Locking and shutdown](locking-and-shutdown.md)
     * MacBook
         -   [MacBook](policies-for-macbook-users.md)
-    * Physical security
-        -   [CCTV policy](cctv-policy.md)
-        -   [Entry and exit search policy](entry-and-exit-search-policy.md)
-        -   [Personal mail and parcel delivery policy and procedure](personal-mail-and-parcel-delivery-policy-and-procedure.md)
-        -   [Physical Security Policy](physical-security-policy.md)
 * Incident management
     * [Reporting an incident](reporting-an-incident.md)
     * [Lost devices or other IT security incidents](lost-devices-incidents.md)
+    * [Security breach policy](security-breach-policy.md)
 * Remote working
     * [Remote Working](remote-working.md)
     * Overseas travel
@@ -75,6 +71,8 @@
 * Training and education
     * [Training and Education](training-and-education.md)
 * Physical security
+    * [CCTV policy](cctv-policy.md)
+    * [Entry and exit search policy](entry-and-exit-search-policy.md)
     * [Personal mail and parcel delivery policy and procedure](personal-mail-and-parcel-delivery-policy-and-procedure.md)
     * [Physical Security Policy](physical-security-policy.md)
 

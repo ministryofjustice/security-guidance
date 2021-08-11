@@ -96,7 +96,89 @@
                 and other staff.</p>
         </body>
     </topic>
-
+    <topic id="security-breaches-and-the-discipline-policy">
+        <title>Security breaches and the discipline policy</title>
+        <body>
+            <p>The disciplinary policy exists to maintain good working practices and standards of conduct throughout the
+                <ph conref="conrefs.dita#conrefs/moj"/>.
+                Its principal objective is to encourage improvements in personal conduct rather than to impose penalties
+                on individuals.
+                This policy applies to all employees,
+                although those on probation <ph conref="conrefs.dita#conrefs/policyshall"/> have disciplinary matters
+                dealt with under the probation policy.</p>
+            <p>Security breaches resulting from an infringement of the security policy
+                <ph conref="conrefs.dita#conrefs/policymay"/> lead to the issue of a breach notice.
+                Subject to the circumstances, issuing a breach notice <ph conref="conrefs.dita#conrefs/policymight"/>
+                then initiate the commencement of disciplinary procedures.
+                To assist managers,
+                some examples of security breaches and the level of significance follow.
+                This list is not exhaustive,
+                and is for general guidance only.
+                Each case <ph conref="conrefs.dita#conrefs/policyshould"/> be judged according to the level of
+                misconduct,
+                particularly where the behavior is repeated or considered to be deliberate.
+                Advice on when it is appropriate to use the Discipline Policy can be obtained by contacting the
+                <xref href="mailto:Moj-hr-enquiries@gov.sscl.com" format="html" scope="external">Human Resources
+                    Directorate</xref>.</p>
+        </body>
+        <topic id="minor-misconduct">
+            <title>Minor misconduct</title>
+            <body>
+                <ul>
+                    <li>Loss of a building pass, ID card or other security card.</li>
+                    <li>Failure to wear security passes in pass-controlled buildings.</li>
+                    <li>Not locking workstations when away from desks.</li>
+                    <li>Failure of security cleared personnel to inform managers of a change in personal circumstances,
+                        for example marriage,
+                        change of address,
+                        or divorce.</li>
+                </ul>
+            </body>
+        </topic>
+        <topic id="serious-misconduct">
+            <title>Serious misconduct</title>
+            <body>
+                <ul>
+                    <li>Misuse of building or security passes,
+                        including 'borrowing' or 'lending' passes to others,
+                        particularly Palace of Westminster passes or those that gain access to sensitive areas.</li>
+                    <li>Sharing IT passwords.</li>
+                    <li>Failure to secure documents classified at <codeph>OFFICIAL</codeph> level.</li>
+                    <li>Negligence leading to the loss of classified documents or assets at <codeph>OFFICIAL</codeph> level.</li>
+                    <li>Non-compliance leading to the loss or unauthorised release of significant amounts of personal data.</li>
+                    <li>Failure to lock security cabinets.</li>
+                    <li>Negligence leading to the loss of portable assets,
+                        including laptops,
+                        mobile telephones,
+                        and similar valuable transportable property.</li>
+                    <li>Taking portable IT or telephony equipment out of the UK without the appropriate level of authority.</li>
+                    <li>Misuse of assets or sensitive information (see also <xref href="#gross-misconduct" format="dita">Gross Misconduct</xref>).</li>
+                    <li>Failure of security cleared personnel to inform managers of a significant change in personal
+                        circumstances,
+                        for example
+                        civil proceedings,
+                        an arrest,
+                        or criminal conviction,
+                        including an arrest or criminal conviction of a partner or other close relative.</li>
+                </ul>
+            </body>
+        </topic>
+        <topic id="gross-misconduct">
+            <title>Gross misconduct</title>
+            <body>
+                <ul>
+                    <li>Unauthorised disclosure of classified material to third parties.</li>
+                    <li>Negligence and non-compliance leading to breach of security related to <codeph>SECRET</codeph>,
+                        <codeph>TOP SECRET</codeph> and <codeph>STRAP</codeph> material.</li>
+                    <li>Any criminal act,
+                        including fraud,
+                        theft,
+                        or assault.</li>
+                    <li>Serious breaches of web browsing and IT or electronic communications policy.</li>
+                </ul>
+            </body>
+        </topic>
+    </topic>
     <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
     <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

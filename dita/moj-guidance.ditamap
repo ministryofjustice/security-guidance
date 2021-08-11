@@ -28,6 +28,7 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="it-security-technical-users-policy.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			</topicref>
 			<topicref href="line-manager-approval.dita" type="topic" audience="audience-basic audience-tech"/>
+            <topicref href="security-breach-policy.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="shared-responsibility-models.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 	</topichead>
