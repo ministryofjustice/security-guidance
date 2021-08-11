@@ -781,12 +781,12 @@ has made for the products we operate, and our relationships with suppliers.</p>
 					<entry colname="col1" align="left"><xref href="cctv-policy.dita" format="dita">CCTV policy</xref></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
+				<row>
+					<entry colname="col1" align="left"><xref href="entry-and-exit-search-policy.dita" format="dita">Entry and exit search policy</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
               <row>
                 <entry colname="col1" align="left"><xref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" format="dita">Personal mail and parcel delivery policy and procedure</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="entry-and-exit-search-policy.dita" format="dita">Entry and exit search policy</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
