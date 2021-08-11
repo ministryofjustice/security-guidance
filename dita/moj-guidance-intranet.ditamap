@@ -50,6 +50,7 @@ if an audience attribute is present, then only matching content is included.
 		<topichead>
 		    <topicmeta><navtitle>Physical security</navtitle></topicmeta>
             <topicref href="cctv-policy.dita" type="topic"/>
+			<topicref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" type="topic"/>
             <topicref href="physical-security-policy.dita" type="topic"/>
         </topichead>
 	</topichead>
@@ -109,5 +110,10 @@ if an audience attribute is present, then only matching content is included.
 	<topichead>
 		<topicmeta><navtitle>Training and education</navtitle></topicmeta>
 		<topicref href="training-and-education.dita" type="topic"/>
+	</topichead>
+	<topichead>
+		<topicmeta><navtitle>Physical security</navtitle></topicmeta>
+		<topicref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" type="topic"/>
+		<topicref href="physical-security-policy.dita" type="topic"/>
 	</topichead>
 </map>
