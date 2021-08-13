@@ -39,7 +39,7 @@
 * Remote working
     * [Remote Working](remote-working.md)
     * Overseas travel
-        -   [Accessing MoJ IT systems overseas](accessing-moj-it-systems-from-overseas.md)
+        -   [Accessing Ministry of Justice (MoJ) IT systems overseas](accessing-moj-it-systems-from-overseas.md)
         -   [Taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
         -   [Overseas travel](overseas-travel.md)
 * Risk assessment
