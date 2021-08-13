@@ -58,7 +58,7 @@ There is a good chance that a contractor is not familiar with the MoJ's security
 * When transferring security clearance from another Government department, [Cluster 2 Security Unit](mailto:contactus@cluster2security.gov.uk) **SHALL** confirm if the security clearance is valid and current. If not, a new security clearance application **SHALL** be started.
 * Holders of CTC, SC, or DV **SHALL** [report changes in personal circumstances](reporting-personal-circumstance-changes.md).
 * Remind all staff that they **SHALL** [refer to the travel abroad guidance](accessing-moj-it-systems-from-overseas.md).
-* Ensure contractors, like all staff, are aware of [MoJ security policies](https://ministryofjustice.github.io/security-guidance/), and check their understanding. Make sure they are briefed on good security behaviours, and act as a role model.
+* Ensure contractors, like all staff, are aware of [MoJ security policies](https://security-guidance.service.justice.gov.uk/), and check their understanding. Make sure they are briefed on good security behaviours, and act as a role model.
 * Ensure they are aware of the MoJ [on-line social media](protecting-social-media-accounts.md) guidance and understand the need to avoid publishing their security clearance on social media.
 * Create a positive environment in which security is given priority, and individuals are encouraged to discuss concerns before they become serious problems.
 * As part of your role, you **SHOULD** seek to get to know your contractor or consultant, and discuss any behavioural changes.

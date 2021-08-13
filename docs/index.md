@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 11 August 2021.
+**Note:** This guidance is dated: 13 August 2021.
 
 ### Popular links
 
@@ -27,25 +27,7 @@ For convenience, offline versions of this guidance are available.
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
 |Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 11 September 2021.
-
-### Searching this content
-
-The content of this site is searchable in two ways:
-
-1.  By searching for the word or phrase on your preferred search engine, and specifying this site:
-
-    ```
-    site:https://ministryofjustice.github.io/security-guidance/
-    ```
-
-    For example, to search for information about passwords, you might use the following search expression:
-
-    ```
-    password site:https://ministryofjustice.github.io/security-guidance/
-    ```
-
-2.  By downloading one of the offline versions and using the inbuilt search capability of your offline reader.
+The offline versions of this guidance are time-limited, and are not valid after 13 September 2021.
 
 ### Getting in touch
 
