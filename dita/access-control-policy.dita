@@ -335,7 +335,7 @@
           <li><codeph>POLACP037:</codeph> The security clearance required by staff to access specific account types <ph conref="conrefs.dita#conrefs/policymust"/>
             align to the <xref href="https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/>'s
               UK security clearance levels</xref>,
-              as per requirements such as <xref href="https://ministryofjustice.github.io/security-guidance/access-control-guide/#segregation-of-duties"
+              as per requirements such as <xref href="https://security-guidance.service.justice.gov.uk/access-control-guide/#segregation-of-duties"
               format="html" scope="external">segregation of duties</xref>.
               See <xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels</xref> guidance.</li>
           <li><codeph>POLACP038:</codeph> MFA <ph conref="conrefs.dita#conrefs/policymust"/> be used to ensure access to <ph conref="conrefs.dita#conrefs/moj"/> Information,
