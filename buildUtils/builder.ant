@@ -225,8 +225,11 @@
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
-		<!-- Rename this file to be Tech users guide. -->
-		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-tech.pdf" overwrite="true"/>
+		<!-- Top and tail the Tech users guide. -->
+		<exec dir="buildUtils" executable="python3">
+			<arg line="combinator.py ../srcMedia/moj-guidance-tech.pdf ${build}/moj-guidance.pdf ${temp.file}"/>
+		</exec>
+		<move file="${temp.file}" tofile="${build}/moj-guidance-tech.pdf" overwrite="true"/>
 		<echo message="Technical users PDF build complete."/>
 
 		<!-- Next build the Suppliers PDF, containing just their content.
@@ -260,6 +263,11 @@
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
+		<!-- Top and tail the all users guide. -->
+		<exec dir="buildUtils" executable="python3">
+			<arg line="combinator.py ../srcMedia/moj-guidance.pdf ${build}/moj-guidance.pdf ${temp.file}"/>
+		</exec>
+		<move file="${temp.file}" tofile="${build}/moj-guidance.pdf" overwrite="true"/>
 		<echo message="All users PDF build complete."/>
 
 		<delete dir='${_dita.map.output.dir}'/>
