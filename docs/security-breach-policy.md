@@ -57,7 +57,7 @@ Security breaches resulting from an infringement of the security policy **MAY** 
 -   Non-compliance leading to the loss or unauthorised release of significant amounts of personal data.
 -   Failure to lock security cabinets.
 -   Negligence leading to the loss of portable assets, including laptops, mobile telephones, and similar valuable transportable property.
--   Taking portable IT or telephony equipment out of the UK without the appropriate level of authority.
+-   Taking IT or communications equipment out of the UK without the appropriate level of authority.
 -   Misuse of assets or sensitive information \(see also [Gross Misconduct](#gross-misconduct)\).
 -   Failure of security cleared personnel to inform managers of a significant change in personal circumstances, for example civil proceedings, an arrest, or criminal conviction, including an arrest or criminal conviction of a partner or other close relative.
 
