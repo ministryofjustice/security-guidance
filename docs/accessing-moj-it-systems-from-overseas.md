@@ -91,12 +91,14 @@ If there is a problem with your MoJ equipment, it might be necessary to disable 
 -   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
 -   Slack: `#security`
 
-### Dom1 - IT Service Desk
+### IT Service Desk
+
+**Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
 -   Tel: 0800 917 5148
--   Tel: +44 800 917 5148 from outside the UK, chargeable
+-   [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
 
-**Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
 
 ### Information Incident Reporting Line
 

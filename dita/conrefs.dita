@@ -156,13 +156,12 @@
 					<li>Tel: 0800 917 5148</li>
 					<li><xref href="https://mojprod.service-now.com/moj_sp"
 						format="html" scope="external"><ph conref="#conrefs/moj"/> Service Portal</xref></li>
-				</ul></p>
+				</ul>
 				<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph>
-					and <codeph>servicedesk@digital.justice.gov.uk</codeph> email addresses
-					are no longer being monitored.</note>
-				<note>Use of the Digital &amp; Technology Digital Service Desk Slack
-					channel (<codeph>#digitalservicedesk</codeph>) is being withdrawn,
-				and should be avoided.</note>
+					and <codeph>servicedesk@digital.justice.gov.uk</codeph> email addresses,
+					and the Digital &amp; Technology Digital Service Desk Slack
+					channel (<codeph>#digitalservicedesk</codeph>),
+					are no longer being monitored.</note></p>
 			<p id="hmppsinfosec"><b>HMPPS Information &amp; security:</b>
 				<ul>
 					<li>Email: <xref href="mailto:informationmgmtsecurity@justice.gov.uk" format="email" scope="external">informationmgmtsecurity@justice.gov.uk</xref></li>
@@ -273,10 +272,13 @@
 				contact:
 				<dl>
 					<dlentry>
-						<dt>DOM1/Quantum - Technology Service Desk</dt>
+						<dt>Technology Service Desk - including DOM1, Quantum, and the Digital &amp; Technology Service Desk</dt>
 						<dd>Tel: 0800 917 5148
-							<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph> email address is no longer being monitored.</note></dd>
+							<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph>
+								and <codeph>servicedesk@digital.justice.gov.uk</codeph> email addresses
+								are no longer being monitored.</note></dd>
 					</dlentry>
+					<!--
 					<dlentry>
 						<dt>Digital and Technology - Digital Service Desk</dt>
 						<dd>
@@ -286,6 +288,7 @@
 							</ul>
 						</dd>
 					</dlentry>
+					-->
 					<dlentry>
 						<dt>HMPPS Information and security</dt>
 						<dd>

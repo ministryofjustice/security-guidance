@@ -256,14 +256,10 @@
 				</ul>
 			</body>
 		</topic>
-		<topic id="dom1---technology-service-desk">
-			<title>Dom1 - <ph conref="conrefs.dita#conrefs/servicedesk"/></title>
+		<topic id="technology-service-desk">
+			<title><ph conref="conrefs.dita#conrefs/servicedesk"/></title>
 			<body>
-				<ul>
-					<li>Tel: 0800 917 5148</li>
-					<li>Tel: +44 800 917 5148 from outside the UK, chargeable</li>
-				</ul>
-				<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph> email address is no longer being monitored.</note>
+				<p conref="conrefs.dita#general-enquiries-including-theft-and-loss/dom1"/>
 			</body>
 		</topic>
 		<!--
