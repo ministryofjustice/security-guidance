@@ -79,7 +79,7 @@
           and apply to renew in time.</li>
         <li>Holders <ph conref="conrefs.dita#conrefs/policyshould"/> adhere to 
           <ph conref="conrefs.dita#conrefs/mojlong"/>
-          <xref href="protecting-social-media-accounts.dita" format="dita">on-line social media policy</xref>.
+          <xref href="protecting-social-media-accounts.dita" format="dita" platform="html">on-line social media policy</xref><xref href="https://security-guidance.service.justice.gov.uk/protecting-social-media-accounts/" format="html" scope="external" platform="epub pdf">on-line social media policy</xref>.
           Holders <ph conref="conrefs.dita#conrefs/policyshouldnot"/> publish their security
           clearance on-line,
           including on social networking sites.</li>
@@ -123,10 +123,10 @@
           format="html" scope="external">support group available within</xref>
           the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
       </ul></p>
-      <lq>For more information,
+      <note>For more information,
         see the <ph conref="conrefs.dita#conrefs/moj"/> <xref
         href="https://intranet.justice.gov.uk/guidance/hr/support-and-wellbeing/" format="html"
-        scope="external">Support and wellbeing</xref> resources.</lq>
+        scope="external">Support and wellbeing</xref> resources.</note>
       <p>Managing security clearances requires active conversations between
         managers and individuals throughout the year,
         and prompt reporting of any issues of concern:
@@ -200,15 +200,13 @@
           href="accessing-moj-it-systems-from-overseas.dita" format="dita">refer to the travel abroad guidance</xref>.</li>
         <li>Ensure contractors,
           like all staff,
-          are aware of <xref href="cyber-and-technical-security-guidance.dita"
-          format="dita" platform="github"><ph conref="conrefs.dita#conrefs/moj"/>
-          security policies</xref><xref href="https://security-guidance.service.justice.gov.uk/"
-          format="html" scope="external" platform="intranet"><ph conref="conrefs.dita#conrefs/moj"/> security policies</xref>,
+          are aware of <ph platform="github"><xref href="cyber-and-technical-security-guidance.dita" format="dita" platform="html"><ph conref="conrefs.dita#conrefs/moj"/>security policies</xref><xref href="https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/" format="html" scope="external" platform="epub pdf"><ph conref="conrefs.dita#conrefs/moj"/>security policies</xref></ph><ph platform="intranet"><xref href="https://security-guidance.service.justice.gov.uk/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/>security policies</xref></ph>,
           and check their understanding.
           Make sure they are briefed on good security behaviours,
           and act as a role model.</li>
         <li>Ensure they are aware of the <ph conref="conrefs.dita#conrefs/moj"/>
-          <xref href="protecting-social-media-accounts.dita" format="dita">on-line
+          <xref href="protecting-social-media-accounts.dita" format="dita" platform="html">on-line
+            social media</xref><xref href="https://security-guidance.service.justice.gov.uk/protecting-social-media-accounts/" format="html" scope="external" platform="epub pdf">on-line
             social media</xref> guidance
           and understand the need to avoid publishing their security clearance on social media.</li>
           <li>Create a positive environment in which security is given priority,

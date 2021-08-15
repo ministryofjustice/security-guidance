@@ -116,8 +116,8 @@
 						<li>ComSO (Communications Security Officer),
 							contact the <ph conref="#conrefs/cisolong"/> (<ph conref="#conrefs/securityemail"/>).</li>
 						<li><codeph>CONFIDENTIAL</codeph>,
-							an older information classification marking<ph audience="audience-basic audience-tech" platform="github">,
-							see <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref></ph>.</li>
+							an older information classification marking,
+							see <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>.</li>
 						<li>CPNI (<xref href="https://www.cpni.gov.uk/" scope="external" format="html">Centre for the Protection of the National Infrastructure</xref>),
 							contact the <ph conref="#conrefs/ciso"/> (<ph conref="#conrefs/securityemail"/>).</li>
 						<li>DSO (Departmental Security Officer),
@@ -136,8 +136,8 @@
 						<li>ITSO (Information Technology Security Officer),
 							contact the <ph conref="#conrefs/ciso"/> (<ph conref="#conrefs/securityemail"/>).</li>
 						<li><codeph>RESTRICTED</codeph>,
-							an older information classification marking<ph audience="audience-basic audience-tech" platform="github">,
-							see <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref></ph>.</li>
+							an older information classification marking,
+							see <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>.</li>
 						<li>SPF (<xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">Security Policy Framework</xref>),
 							see the <ph conref="#conrefs/gov007"/>,
 							contact <ph conref="#conrefs/securityemail"/>.</li>
@@ -245,21 +245,23 @@
 	</topic>
 
 	<topic id="contact-details-group-security">
-		<title><ph platform="github">Contact details</ph><ph platform="intranet">Contacts</ph></title>
+		<title>Contact details</title>
 		<body>
 			<p>For any further questions relating to group security matters,
 				contact: <ph conref="#conrefs/groupsecurityemail"/>.
 				For general security questions or concerns,
 				contact: <ph conref="#conrefs/securityemail"/>,
-			or for security advice, contact the <ph platform="github">Cyber Assistance Team <ph conref="#conrefs/catemail"/></ph><ph platform="intranet"><ph conref="#conrefs/catemailtext"/></ph>.</p>
+			or for security advice,
+			contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
 		</body>
 	</topic>
 
 	<topic id="contact-details">
-		<title><ph platform="github">Contact details</ph><ph platform="intranet">Contacts</ph></title>
+		<title>Contact details</title>
 		<body>
 			<p>For any further questions relating to security, contact: <ph conref="#conrefs/securityemail"/>,
-			or for security advice, contact the <ph platform="github">Cyber Assistance Team <ph conref="#conrefs/catemail"/></ph><ph platform="intranet"><ph conref="#conrefs/catemailtext"/></ph>.</p>
+			or for security advice,
+			contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
 		</body>
 	</topic>
 

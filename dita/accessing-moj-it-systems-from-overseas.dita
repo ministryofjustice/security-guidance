@@ -223,7 +223,7 @@
 				you might wonder about using non-<ph conref="conrefs.dita#conrefs/moj"/> devices to progress
 				a particularly important task,
 				or to respond to an urgent email.
-				This is not <xref href="acceptable-use.dita" format="dita">acceptable</xref>.</note>
+				This is not <xref href="acceptable-use.dita" format="dita" platform="html">acceptable</xref><xref href="https://security-guidance.service.justice.gov.uk/acceptable-use/" format="html" scope="external" platform="epub pdf">acceptable</xref>.</note>
 		</body>
 	</topic>
 	<topic id="related-pages">

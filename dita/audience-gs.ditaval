@@ -1,7 +1,7 @@
 <val>
 	<prop action="exclude" att="audience"/>
-	<prop action="include" att="audience" val="audience-basic"/>
-	<prop action="exclude" att="audience" val="audience-gs"/>
+	<prop action="exclude" att="audience" val="audience-basic"/>
+	<prop action="include" att="audience" val="audience-gs"/>
 	<prop action="exclude" att="audience" val="audience-suppliers"/>
 	<prop action="exclude" att="audience" val="audience-tech"/>
 </val>

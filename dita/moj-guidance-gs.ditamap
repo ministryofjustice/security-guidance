@@ -4,26 +4,26 @@
 <!--
 Content is included by default.
 if an audience attribute is present, then only matching content is included.
- audience="audience-basic audience-suppliers audience-tech"
+
  -->
 
 <map>
 	<title><ph conref="conrefs.dita#conrefs/mojlong"/> Cyber Security Guidance: Group Security Edition</title>
 	<topicref href="conrefs.dita" type="topic" processing-role="resource-only"/>
-	<topicref href="intranet-landing-page.dita" type="topic"/>
+	<topicref href="gs-landing-page.dita" type="topic"/>
 
-	<topichead audience="audience-basic audience-suppliers audience-tech">
-		<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Mobile devices and teleworking</navtitle></topicmeta>
-		<topichead audience="audience-basic audience-tech">
-			<topicmeta audience="audience-basic audience-tech"><navtitle>Teleworking</navtitle></topicmeta>
-			<topicref href="accessing-moj-it-systems-from-overseas.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="general-advice-on-taking-equipment-overseas.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="overseas-travel.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="personal-devices.dita" type="topic" audience="audience-basic audience-tech"/>
+	<topichead>
+		<topicmeta><navtitle>Mobile devices and teleworking</navtitle></topicmeta>
+		<topichead>
+			<topicmeta><navtitle>Teleworking</navtitle></topicmeta>
+			<topicref href="accessing-moj-it-systems-from-overseas.dita" type="topic"/>
+			<topicref href="general-advice-on-taking-equipment-overseas.dita" type="topic"/>
+			<topicref href="overseas-travel.dita" type="topic"/>
+			<topicref href="personal-devices.dita" type="topic"/>
 		</topichead>
 	</topichead>
 
-	<topichead audience="audience-basic audience-tech">
+	<topichead>
 		<topicmeta><navtitle>Human resource security</navtitle></topicmeta>
 		<topichead>
 			<topicmeta><navtitle>Prior to employment</navtitle></topicmeta>
@@ -39,11 +39,11 @@ if an audience attribute is present, then only matching content is included.
 		<topichead>
 			<topicmeta><navtitle>During employment</navtitle></topicmeta>
 			<topicref href="ongoing-personnel-security.dita" type="topic"/>
-			<topicref href="personnel-risk-assessment.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="reporting-personal-circumstance-changes.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="training-and-education.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="voluntary-drug-testing-policy.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="voluntary-drug-testing-policy-procedures.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="personnel-risk-assessment.dita" type="topic"/>
+			<topicref href="reporting-personal-circumstance-changes.dita" type="topic"/>
+			<topicref href="training-and-education.dita" type="topic"/>
+			<topicref href="voluntary-drug-testing-policy.dita" type="topic"/>
+			<topicref href="voluntary-drug-testing-policy-procedures.dita" type="topic"/>
 		</topichead>
 		<topichead>
 			<topicmeta><navtitle>Termination and change of employment</navtitle></topicmeta>
@@ -53,7 +53,7 @@ if an audience attribute is present, then only matching content is included.
 	</topichead>
 
 
-	<topichead audience="audience-basic audience-suppliers audience-tech">
+	<topichead>
 		<topicmeta><navtitle>Physical and environmental security</navtitle></topicmeta>
 		<topichead>
 			<topicmeta><navtitle>Secure areas</navtitle></topicmeta>
