@@ -232,6 +232,21 @@
 		<move file="${temp.file}" tofile="${build}/moj-guidance-tech.pdf" overwrite="true"/>
 		<echo message="Technical users PDF build complete."/>
 
+		<!-- Now build the Group Security PDF. -->
+		<echo message="Build PDF: Group Security"/>
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${ditabuild}/moj-guidance-gs.ditamap"/>
+			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/pdf.ditaval:${ditabuild}/audience-tech.ditaval"/>
+			<property name="output.dir" location="${build}"/>
+			<property name="transtype" value="pdf"/>
+		</ant>
+		<!-- Top and tail the Tech users guide.
+		<exec dir="buildUtils" executable="python3">
+			<arg line="combinator.py ../srcMedia/moj-guidance-tech.pdf ${build}/moj-guidance.pdf ${temp.file}"/>
+		</exec>
+		<move file="${temp.file}" tofile="${build}/moj-guidance-tech.pdf" overwrite="true"/> -->
+		<echo message="Group Security PDF build complete."/>
+
 		<!-- Next build the Suppliers PDF, containing just their content.
 		<echo message="Build PDF: Suppliers"/>
 		<ant antfile="${dita.dir}/build.xml">
