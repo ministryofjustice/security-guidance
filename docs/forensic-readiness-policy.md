@@ -85,7 +85,7 @@ Skilled perpetrators may attempt to cover up their unauthorised or malicious act
 
 #### Deterrence
 
-IT Security awareness training ensures staff are aware of the [IT Security Acceptable Use Policy](it-acceptable-use-policy.md) and that the MoJ has the right and ability to monitor all IT systems for conformance to this policy. This may deter staff from inappropriate, illegal or malicious actions. Additionally, external awareness of MoJ system monitoring capability may also deter unauthorised users from attempting to access or attack MoJ facilities and IT systems.
+IT Security awareness training ensures staff are aware of the [IT Security Acceptable Use Policy](acceptable-use-policy.md) and that the MoJ has the right and ability to monitor all IT systems for conformance to this policy. This may deter staff from inappropriate, illegal or malicious actions. Additionally, external awareness of MoJ system monitoring capability may also deter unauthorised users from attempting to access or attack MoJ facilities and IT systems.
 
 -   **POL.FRP.003**
 
@@ -158,7 +158,7 @@ Consideration must be taken in account of the legal and regulatory constraints w
 
 -   **POL.FRP.013**
 
-    All investigations **must be** conducted in line with MoJ IT Security Policies, specifically [IT Security - Acceptable Use Policy](it-acceptable-use-policy.md).
+    All investigations **must be** conducted in line with MoJ IT Security Policies, specifically the [Acceptable Use Policy](acceptable-use-policy.md).
 
 -   **POL.FRP.014**
 
@@ -169,7 +169,7 @@ Consideration must be taken in account of the legal and regulatory constraints w
     All IT systems **must consider**, in their design, the need to capture evidence in an evidential way following [BS 10008](https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/).
 
 
-**Note:** Guidance on evidential capture in accordance to [BS 10008](https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/) is provided in [IT Security - Forensics Readiness Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/forensic-readiness-guide/).
+**Note:** Guidance on evidential capture in accordance to [BS 10008](https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/) is provided in the [Forensics Readiness Guide](forensic-readiness-guide.md).
 
 ## The need for IT Forensics
 

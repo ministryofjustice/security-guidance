@@ -153,8 +153,8 @@
           As such,
           the <ph conref="conrefs.dita#conrefs/moj"/> controls the use of removable media through SyOPs,
           technical security controls,
-          and by requiring movements of bulk data to be authorised by using a
-          <xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Movement Form</xref>.</p>
+          and by requiring movements of bulk data to be authorised <ph audience="audience-supplier audience-tech">by using a
+          <xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Movement Form</xref></ph>.</p>
         <!-- HERE -->
           <dl>
             <dlentry>
