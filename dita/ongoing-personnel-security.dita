@@ -200,7 +200,7 @@
           href="accessing-moj-it-systems-from-overseas.dita" format="dita">refer to the travel abroad guidance</xref>.</li>
         <li>Ensure contractors,
           like all staff,
-          are aware of <ph platform="github"><xref href="cyber-and-technical-security-guidance.dita" format="dita" platform="html"><ph conref="conrefs.dita#conrefs/moj"/>security policies</xref><xref href="https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/" format="html" scope="external" platform="epub pdf"><ph conref="conrefs.dita#conrefs/moj"/>security policies</xref></ph><ph platform="intranet"><xref href="https://security-guidance.service.justice.gov.uk/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/>security policies</xref></ph>,
+          are aware of <ph platform="github"><xref href="cyber-and-technical-security-guidance.dita" format="dita" platform="html"><ph conref="conrefs.dita#conrefs/moj"/> security policies</xref><xref href="https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/" format="html" scope="external" platform="epub pdf"><ph conref="conrefs.dita#conrefs/moj"/> security policies</xref></ph><ph platform="intranet"><xref href="https://security-guidance.service.justice.gov.uk/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> security policies</xref></ph>,
           and check their understanding.
           Make sure they are briefed on good security behaviours,
           and act as a role model.</li>

@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 14 August 2021.
+**Note:** This guidance is dated: 16 August 2021.
 
 ### Popular links
 
@@ -25,9 +25,10 @@ For convenience, offline versions of this guidance are available.
 |Audience|PDF format|EPUB format|
 |--------|----------|-----------|
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
-|Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
+|Group Security. Contains Group Security policy and guidance.|[PDF](moj-guidance-gs.pdf)|[EPUB](moj-guidance-gs.epub)|
+|Technical users. Includes lots of technical detail. This document contains all content, including for 'All users' and from Group Security. Download this document if you want the complete set of published MoJ security policy and guidance.|[PDF](moj-guidance-gs.pdf)|[EPUB](moj-guidance-gs.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 14 September 2021.
+The offline versions of this guidance are time-limited, and are not valid after 16 September 2021.
 
 ### Getting in touch
 

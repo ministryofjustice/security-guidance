@@ -47,11 +47,20 @@ has made for the products we operate, and our relationships with suppliers.</p>
                   <entry colname="col2"><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></entry>
                   <entry colname="col3"><xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref></entry>
                 </row>
-                <row>
-                  <entry colname="col1">Technical users. Includes lots of technical detail.</entry>
-                  <entry colname="col2"><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></entry>
-                  <entry colname="col3"><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></entry>
-                </row>
+				  <row>
+					  <entry colname="col1">Group Security. Contains Group Security policy and guidance.</entry>
+					  <entry colname="col2"><xref href="moj-guidance-gs.pdf" format="pdf" scope="peer">PDF</xref></entry>
+					  <entry colname="col3"><xref href="moj-guidance-gs.epub" format="epub" scope="peer">EPUB</xref></entry>
+				  </row>
+				  <row>
+					  <entry colname="col1">Technical users. Includes lots of technical detail.
+						  This document contains all content,
+					  including for 'All users' and from Group Security.
+					  Download this document if you want the complete set of published
+						  <ph conref="conrefs.dita#conrefs/moj"/> security policy and guidance.</entry>
+					  <entry colname="col2"><xref href="moj-guidance-gs.pdf" format="pdf" scope="peer">PDF</xref></entry>
+					  <entry colname="col3"><xref href="moj-guidance-gs.epub" format="epub" scope="peer">EPUB</xref></entry>
+				  </row>
                 <!--
                 <row>
                   <entry colname="col1">Suppliers. Includes just the details of primary interest to suppliers.</entry>
