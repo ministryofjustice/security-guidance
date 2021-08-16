@@ -47,6 +47,13 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta><navtitle>MacBook</navtitle></topicmeta>
 			<topicref href="policies-for-macbook-users.dita" type="topic"/>
 		</topichead>
+		<topichead>
+		    <topicmeta><navtitle>Physical security</navtitle></topicmeta>
+            <topicref href="cctv-policy.dita" type="topic"/>
+			<topicref href="entry-and-exit-search-policy.dita" type="topic"/>
+			<topicref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" type="topic"/>
+            <topicref href="physical-security-policy.dita" type="topic"/>
+        </topichead>
 	</topichead>
 	<topichead>
 		<topicmeta><navtitle>Incident management</navtitle></topicmeta>
@@ -71,6 +78,7 @@ if an audience attribute is present, then only matching content is included.
 		<topicmeta><navtitle>Personnel security clearances</navtitle></topicmeta>
 		<topicref href="personnel-security-clearances.dita" type="topic">
 			<topicref href="end-or-change-of-employment.dita" type="topic"/>
+			<topicref href="entry-and-exit-search-policy.dita" type="topic"/>
 			<topicref href="leavers-with-nsc-and-nscvs.dita" type="topic"/>
 			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
 			<topicref href="national-security-vetting-for-external-candidates-faq.dita" type="topic"/>
@@ -104,5 +112,10 @@ if an audience attribute is present, then only matching content is included.
 	<topichead>
 		<topicmeta><navtitle>Training and education</navtitle></topicmeta>
 		<topicref href="training-and-education.dita" type="topic"/>
+	</topichead>
+	<topichead>
+		<topicmeta><navtitle>Physical security</navtitle></topicmeta>
+		<topicref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" type="topic"/>
+		<topicref href="physical-security-policy.dita" type="topic"/>
 	</topichead>
 </map>

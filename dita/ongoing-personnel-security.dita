@@ -202,7 +202,7 @@
           like all staff,
           are aware of <xref href="cyber-and-technical-security-guidance.dita"
           format="dita" platform="github"><ph conref="conrefs.dita#conrefs/moj"/>
-          security policies</xref><xref href="https://ministryofjustice.github.io/security-guidance/"
+          security policies</xref><xref href="https://security-guidance.service.justice.gov.uk/"
           format="html" scope="external" platform="intranet"><ph conref="conrefs.dita#conrefs/moj"/> security policies</xref>,
           and check their understanding.
           Make sure they are briefed on good security behaviours,

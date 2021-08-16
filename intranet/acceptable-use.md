@@ -79,7 +79,7 @@ If you get an email from anyone or anywhere that you are not sure about, remembe
 * Don't open any attachments.
 * Don't click on any links in the email.
 
-If there is any doubt, or you are worried that the [email might be malicious](/news/ntk-phishing-dont-take-the-bait/) or inappropriate, [report it immediately](/guidance/security/report-a-security-incident/) as an IT security incident.
+If there is any doubt, or you are worried that the [email might be malicious](/news/ntk-phishing-dont-take-the-bait/) or inappropriate, [report it immediately](reporting-an-incident.md) as an IT security incident.
 
 ##Personal use of MoJ IT
 

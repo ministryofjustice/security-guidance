@@ -119,7 +119,7 @@
         <li>Don't open any attachments.</li>
         <li>Don't click on any links in the email.</li>
       </ul></p>
-      <p>If there is any doubt, or you are worried that the <xref href="https://intranet.justice.gov.uk/news/ntk-phishing-dont-take-the-bait/" format="html" scope="external">email might be malicious</xref> or inappropriate, <xref href="reporting-an-incident.dita" format="dita" platform="github">report it immediately</xref><xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external" platform="intranet">report it immediately</xref> as an IT security incident.</p>
+      <p>If there is any doubt, or you are worried that the <xref href="https://intranet.justice.gov.uk/news/ntk-phishing-dont-take-the-bait/" format="html" scope="external">email might be malicious</xref> or inappropriate, <xref href="reporting-an-incident.dita" format="dita">report it immediately</xref> as an IT security incident.</p>
     </body>
   </topic>
   <topic id="personal-use-of-moj-it">

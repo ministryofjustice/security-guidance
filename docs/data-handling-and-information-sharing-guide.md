@@ -175,7 +175,7 @@ Where there is a business requirement to share information classified higher tha
 
 ## Data Movement Form \(DMF\)
 
-The Data Movement Form \(DMF\) is available [here](./gs/data-movement-form.docx).
+The Data Movement Form \(DMF\) is available [here](https://security-guidance.service.justice.gov.uk/gs/data-movement-form.docx).
 
 The purpose of the DMF is to ensure that the movement of information assets is secure, and in compliance with the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 

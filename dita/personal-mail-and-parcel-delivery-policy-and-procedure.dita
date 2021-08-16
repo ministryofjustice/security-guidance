@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="personal-mail-and-parcel-delivery-policy-and-procedure">
+  <title>Personal mail and parcel delivery policy and procedure</title>
+  <body>
+    <p>This personal mail and parcel delivery policy applies to all
+      <ph conref="conrefs.dita#conrefs/mojlong"/> employees,
+      contractors,
+      partners and service providers,
+      including those on co-located sites and sites owned by other public bodies.
+      This also includes employees of other organisations who are based in,
+      or work at,
+      <ph conref="conrefs.dita#conrefs/moj"/> occupied premises.</p>
+    <p>Agencies and Arms Length Bodies (ALBs) are expected to comply with
+      this corporate framework but <ph conref="conrefs.dita#conrefs/policymay"/>
+      establish their own arrangements tailored to operational needs
+      and <ph conref="conrefs.dita#conrefs/policyshould"/> supplement it with local
+      policy or guidance for any business-specific risk.</p>
+  </body>
+  <topic id="objective">
+    <title>Objective</title>
+    <body>
+      <p>Following a review by Government Security Centre People and Physical (GSCPP),
+        it is recommended that the <ph conref="conrefs.dita#conrefs/moj"/>
+        implements a policy on personal and business deliveries,
+        including prohibiting personal parcel deliveries,
+        to <ph conref="conrefs.dita#conrefs/moj"/> buildings.
+        This policy prohibits deliveries of personal items to
+        <ph conref="conrefs.dita#conrefs/moj"/> buildings,
+        to comply with HMG minimum physical standard No.10 on mail
+        or delivery management.
+        For further information regarding this standard,
+        contact <ph conref="conrefs.dita#conrefs/groupsecurityemail"/>.</p>
+      <p>This provides <ph conref="conrefs.dita#conrefs/moj"/>
+        employees,
+        contractors,
+        partners and other interested parties with a clear policy
+        on mail deliveries,
+        to prevent attack,
+        damage,
+        or interference (malicious or otherwise) to <ph conref="conrefs.dita#conrefs/moj"/>
+        assets,
+        and - most importantly - physical harm to <ph conref="conrefs.dita#conrefs/moj"/>
+        people and the public.</p>
+    </body>
+  </topic>
+  <topic id="scope-and-definition">
+    <title>Scope and Definition</title>
+    <body>
+      <p>For the purpose of this policy,
+        personal deliveries are goods purchased over the internet
+        from online retailers or mail subscriptions that are delivered
+        to an office without a legitimate business need.
+        This policy permits vital work-related courier deliveries to reception,
+        as outlined in the policy statement in this document.
+        Vital work-related deliveries are those required to support a business's
+        function,
+        or to support a business need.
+        Ordering gifts to be delivered for colleagues who are leaving the organisation,
+        or for a special occasion,
+        are not considered to be a business-related activity.</p>
+    </body>
+  </topic>
+  <topic id="context">
+    <title>Context</title>
+    <body>
+      <p>The growth in online shopping has seen an increase in the number of
+        personal parcels delivered to the office,
+        as a convenient location because of onsite staff on hand
+        to receive deliveries that would otherwise be returned to depot.
+        However,
+        receiving personal parcels in reception diverts reception and security staff from
+        their core duties,
+        and presents a significant vulnerability to the building's security:
+        the parcel contents are unknown by reception staff.
+        Reception areas are generally within the main fabric of a building
+        and with no separate ventilation or enhanced blast resistant walls,
+        any hazardous substance or explosive device would have a serious
+        impact throughout the building.
+        The <ph conref="conrefs.dita#conrefs/moj"/> employs off-site
+        mail screening to mitigate against the chances of hostile mail
+        being accepted into <ph conref="conrefs.dita#conrefs/moj"/> premises.</p>
+      <p>Couriers often require a receiver to sign a Proof of Delivery document,
+        stating that the parcel arrived in good condition,
+        which risks the <ph conref="conrefs.dita#conrefs/moj"/>
+        being liable for accepting the package if contents turn out
+        later to be damaged.</p>
+      <p>Online retailers recognise the needs of their customers of
+        convenience by offering either <q>Click and Collect</q> options,
+        or offering parcel collection facilities in convenient locations.
+        This alternative to office-based deliveries is both convenient and
+        reduces the need for staff to carry parcels on their commute home.</p>
+    </body>
+  </topic>
+  <topic id="responsibilities">
+    <title>Responsibilities</title>
+    <body>
+      <p>All employees,
+        contractors,
+        partners,
+        service providers,
+        and employees of other organisations who are on
+        <ph conref="conrefs.dita#conrefs/moj"/> premises and co-located sites
+        remain accountable for the security,
+        health,
+        and safety of themselves,
+        colleagues,
+        and the protection of <ph conref="conrefs.dita#conrefs/moj"/> assets.</p>
+    </body>
+  </topic>
+  <topic id="policy-statements">
+    <title>Policy Statements</title>
+    <body>
+      <p>Items required for a legitimate business need
+        <ph conref="conrefs.dita#conrefs/policycan"/> be delivered to
+        the office,
+        provided reception have been notified by email from a verifiable email account
+        (for example a Civil Service or Government contractor) 48 hours
+        before the parcel is to be delivered,
+        or as soon as practicable in the case of next-day or same-day deliveries.
+        The email notification <ph conref="conrefs.dita#conrefs/policyshould"/>
+        provide all of the following information:
+      <ul>
+        <li>Estimated date of delivery.</li>
+        <li>Name of Courier.</li>
+        <li>Contact details of the recipient(s),
+            who can sign for the parcel and collect it from reception.</li>
+      </ul></p>
+      <p><ph conref="conrefs.dita#conrefs/moj"/> reception produces
+        a list of scheduled deliveries.
+        Before accepting parcels from the courier,
+        reception confirms who the parcel is for,
+        and that it is a pre-approved delivery.
+        Failure to follow this procedure <ph conref="conrefs.dita#conrefs/policymay"/>
+        result in the need to have the parcel scanned,
+        or it being treated as suspicious and the suspicious package
+        process being adopted;
+        disciplinary action <ph conref="conrefs.dita#conrefs/policymay"/> be taken.</p>
+    </body>
+  </topic>
+  <topic id="compliance">
+    <title>Compliance</title>
+    <body>
+      <p>The level of risk and potential impact to
+        <ph conref="conrefs.dita#conrefs/moj"/> information,
+        assets,
+        and people determines the controls to be applied,
+        and the degree of assurance required.
+        The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/>
+        ensure a baseline of physical security measures are in place at
+        each site,
+        and receive annual assurance that such measures are in place
+        to provide appropriate protection to all occupants and assets,
+        and that these measures <ph conref="conrefs.dita#conrefs/policycan"/>
+        be strengthened when required,
+        for example in response to a security incident or a change
+        in the <xref href="https://www.mi5.gov.uk/threat-levels" format="html"
+        scope="external">Government Response Level</xref>.</p>
+      <p>The implementation of all security measures must be able to provide
+        evidence that the selection has been made in accordance with the
+        appropriate information security standards ISO27001/27002,
+        physical security advice taken from the <ph conref="conrefs.dita#conrefs/cpnilong"/>,
+        and <ph conref="conrefs.dita#conrefs/gov007"/>.</p>
+      <p>The constantly changing security landscape has necessarily dictated
+        that physical security measures be constantly re-evaluated and
+        tested in order to meet new threats and other emerging vulnerabilities.
+        This policy and subsequent supporting standards are subject to annual review,
+        or more frequently if warranted.</p>
+    </body>
+  </topic>
+  <topic id="physical-security-advice" conref="conrefs.dita#conrefs/physical-security-advice"><title/></topic>
+	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
