@@ -169,7 +169,7 @@ Where there is a business requirement to share information classified higher tha
 
 ##Data Movement Form (DMF)
 
-The Data Movement Form (DMF) is available on the [MoJ Intranet](./gs/data-movement-form.docx).
+The Data Movement Form (DMF) is available [here](./gs/data-movement-form.docx).
 
 The purpose of the DMF is to ensure that the movement of information assets is secure, and in compliance with the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 
@@ -213,9 +213,7 @@ More guidance on password best practices is [available](passwords.md).
 * Tel: 0800 917 5148
 * [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
 
-**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
-
-**Note:** Use of the Digital & Technology Digital Service Desk Slack channel (`#digitalservicedesk`) is being withdrawn, and should be avoided.
+**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel (`#digitalservicedesk`), are no longer being monitored.
 
 **HMPPS Information & security:**
 
