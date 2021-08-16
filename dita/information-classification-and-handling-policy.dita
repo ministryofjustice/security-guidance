@@ -73,7 +73,7 @@
   <body>
   <p>The Government classification scheme defines how information should be labelled and handled.
     Output from IT systems containing information that is classified must carry classification labels where it is <codeph>OFFICIAL</codeph> or higher.
-    This includes, but is not limited to, printed reports, removable media, electronic messages (such as e-mail) and file transfers.</p>
+    This includes, but is not limited to, printed reports, removable media, electronic messages (such as email) and file transfers.</p>
   <p>All IT hardware and removable media assets <b>must</b> be labelled with the highest classification
     from among each of the individual information assets stored or processed on it.
     <note>This classification might be reduced if sufficient security controls are applied, for example whole disk encryption, and if there is agreement with the system assurer or <ph conref="conrefs.dita#conrefs/cisolong"/>.</note></p>

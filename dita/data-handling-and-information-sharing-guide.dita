@@ -447,7 +447,7 @@
               ("zip") file.
               This archive should then be encrypted.
               Each file or archive should be sent separately,
-              rather than attaching multiple encrypted files to a single e-mail.</note>
+              rather than attaching multiple encrypted files to a single email.</note>
           </body>
         </topic>
       </topic>
@@ -556,11 +556,11 @@
     <title>Using SecureZIP</title>
     <body>
       <p>SecureZip is a compression and encryption product which can be used to
-        encrypt sensitive data for use in removable media and e-mail based
+        encrypt sensitive data for use in removable media and email based
         information transfers.</p>
       <note>SecureZip can produce "self-extracting" encrypted files that are
       executable programs which are likely to be blocked by network firewalls or
-      e-mail content checkers.</note>
+      email content checkers.</note>
       <p>The general rules for transmitting a password to a recipient are:
       <ul>
         <li>Never transfer the password with the encrypted file, or even over the
