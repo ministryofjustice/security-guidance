@@ -26,9 +26,9 @@ When a member of staff with clearance leaves their department, the manager **SHA
 
 * [End or change employment](end-or-change-of-employment.md).
 
-##Contacts
+##Contact details
 
-For any further questions relating to group security matters, contact: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk). For general security questions or concerns, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to group security matters, contact: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk). For general security questions or concerns, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 

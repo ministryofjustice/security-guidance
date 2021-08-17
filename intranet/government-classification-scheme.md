@@ -12,9 +12,9 @@ In summary, the majority of information that is created or processed by the publ
 
 Classifications can have additional indicators, providing extra information about looking after the information with that classification. A frequently-seen example is `OFFICIAL-SENSITIVE`. This is still classified as `OFFICIAL`, but there is an additional indicator that tells you the information is of a more sensitive nature, and so should be handled and looked after accordingly.
 
-##Contacts
+##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 

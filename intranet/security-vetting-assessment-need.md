@@ -1,4 +1,4 @@
-#National Security Vetting – Assessment of Need
+#Security vetting assessment of need
 
 This form should be completed by a line manager or contract manager. Completion of this form allows Ministry of Justice (MoJ) Group Security to determine the correct level of National Security Clearance.
 

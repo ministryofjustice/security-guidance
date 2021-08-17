@@ -62,9 +62,9 @@ For individual use, have a look at LastPass and 1Password. See which one you lik
 
 See also [Using LastPass Enterprise](/guidance/security/it-computer-security/user-access/passwords/password-managers/using-lastpass-enterprise/).
 
-##Contacts
+##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 

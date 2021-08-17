@@ -49,7 +49,7 @@
         -   [End or change of employment](end-or-change-of-employment.md)
         -   [Entry and exit search policy](entry-and-exit-search-policy.md)
         -   [Leavers with NSC and NSVCs](leavers-with-nsc-and-nscvs.md)
-        -   [Minimum user clearance](minimum-user-clearance-requirements-guide.md)
+        -   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
         -   [National Security Vetting for External Candidates FAQ](national-security-vetting-for-external-candidates-faq.md)
         -   [National Security Vetting questions](national-security-vetting-questions.md)
         -   [Ongoing Personnel Security](ongoing-personnel-security.md)
@@ -58,6 +58,7 @@
         -   [Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)
         -   [Reporting personal circumstance changes](reporting-personal-circumstance-changes.md)
         -   [Security clearance appeals policy](security-clearance-appeals-policy.md)
+        -   [Security vetting assessment of need](security-vetting-assessment-need.md)
         -   [Voluntary drug testing policy](voluntary-drug-testing-policy.md)
         -   [Voluntary drug testing policy procedures](voluntary-drug-testing-policy-procedures.md)
 * User access
