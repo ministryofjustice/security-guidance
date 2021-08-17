@@ -1,4 +1,14 @@
 from feedgen.feed import FeedGenerator
+import csv
+
+outFileDita = open('../dita/changelog.dita','w')
+outFileDita.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+outFileDita.write('<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">\n')
+outFileDita.write('<topic id="changelog">\n')
+outFileDita.write('<title>Changelog for <ph conref="conrefs.dita#conrefs/mojlong"/> Security Guidance</title>\n')
+outFileDita.write('<body>\n')
+outFileDita.write('<p>This document summarises what changes were made, and when, to <ph conref="conrefs.dita#conrefs/moj"/> Security policy and guidance. The most recent changes appear at the end of the list.</p>\n')
+
 fg = FeedGenerator()
 fg.id('https://security-guidance.service.justice.gov.uk')
 fg.title('MoJ Security Guidance')
@@ -10,28 +20,26 @@ fg.link( href='https://security-guidance.service.justice.gov.uk', rel='self' )
 fg.language('en')
 fg.contributor( name='Ministry of Justice', email='itsecuritypolicy@digital.justice.gov.uk' )
 
-fe1 = fg.add_entry()
-fe1.id('https://security-guidance.service.justice.gov.uk/202108161703')
-fe1.title('Data Movement Form updated.')
-fe1.description('Data Movement Form updated.')
-fe1.link(href="https://security-guidance.service.justice.gov.uk/gs/data-movement-form.docx")
-fe1.pubDate('2021-08-16T17:03:00Z')
+with open('../changeLog.csv') as csvDataFile:
+    csvReader = csv.reader(csvDataFile)
+    loopCounter = 0
+    entryList = []
+    for row in csvReader:
+        entryList.append(fg.add_entry())
+        entryList[loopCounter].id("'"+row[0]+"'")
+        entryList[loopCounter].title("'"+row[1]+"'")
+        entryList[loopCounter].description("'"+row[2]+"'")
+        entryList[loopCounter].link( href="'"+row[3]+"'")
+        entryList[loopCounter].pubDate("'"+row[4]+"'")
+        loopCounter = loopCounter + 1
 
-fe2 = fg.add_entry()
-fe2.id('https://security-guidance.service.justice.gov.uk/202108161704')
-fe2.title('Clarification for accessing MoJ IT systems overseas.')
-fe2.description('Additional information describing the process.')
-fe2.link(href="https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/")
-fe2.pubDate('2021-08-16T17:04:00Z')
+print('Finished looping.')
 
-fe3 = fg.add_entry()
-fe3.id('https://security-guidance.service.justice.gov.uk/202108170926')
-fe3.title('Provide offline version of Group Security content.')
-fe3.description('Created PDF and eBook versions of the security policy and guidance subset for Group Security.')
-fe3.link(href="https://security-guidance.service.justice.gov.uk/#offline-content")
-fe3.pubDate('2021-08-17T09:26:00Z')
+atomfeed = fg.atom_str(pretty=True)
+rssfeed  = fg.rss_str(pretty=True)
+fg.atom_file('atom.xml')
+fg.rss_file('rss.xml')
 
-atomfeed = fg.atom_str(pretty=True) # Get the ATOM feed as string
-rssfeed  = fg.rss_str(pretty=True) # Get the RSS feed as string
-fg.atom_file('atom.xml') # Write the ATOM feed to a file
-fg.rss_file('rss.xml') # Write the RSS feed to a file
+outFileDita.close
+
+exit(0)
