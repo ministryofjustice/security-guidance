@@ -177,6 +177,13 @@
 		<replaceregexp match="file\:///" replace="" flags="g" >
 			<fileset dir="${build}" includes="**/*.md"/>
 		</replaceregexp>
+		<!-- Prepare RSS and Atom feeds. -->
+		<exec dir="buildUtils" executable="python3">
+			<arg line="generateRSS.py"/>
+		</exec>
+		<move file="${buildUtils}/rss.xml" todir="${build}" overwrite="true"/>
+		<move file="${buildUtils}/atom.xml" todir="${build}" overwrite="true"/>
+		<echo message="RSS and Atom generation complete."/>
 	</target>
 
 	<!--
