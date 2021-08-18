@@ -165,6 +165,14 @@
 
 	<target name="compile_md" depends="init"
 				description="compile the source into markdown">
+		<!-- Prepare RSS and Atom feeds, and Changelog file. -->
+		<exec dir="buildUtils" executable="python3">
+			<arg line="generateRSS.py"/>
+		</exec>
+		<move file="${buildUtils}/rss.xml" todir="${ditabuild}" overwrite="true"/>
+		<move file="${buildUtils}/atom.xml" todir="${ditabuild}" overwrite="true"/>
+		<move file="${buildUtils}/changelog.dita" todir="${ditabuild}" overwrite="true"/>
+		<echo message="RSS, Atom, and ChangeLog generation complete."/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${ditabuild}/moj-guidance.ditamap"/>
 			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/notpolicy.ditaval:${ditabuild}/html.ditaval:${ditabuild}/audience-tech.ditaval"/>
@@ -177,13 +185,6 @@
 		<replaceregexp match="file\:///" replace="" flags="g" >
 			<fileset dir="${build}" includes="**/*.md"/>
 		</replaceregexp>
-		<!-- Prepare RSS and Atom feeds. -->
-		<exec dir="buildUtils" executable="python3">
-			<arg line="generateRSS.py"/>
-		</exec>
-		<move file="${buildUtils}/rss.xml" todir="${build}" overwrite="true"/>
-		<move file="${buildUtils}/atom.xml" todir="${build}" overwrite="true"/>
-		<echo message="RSS and Atom generation complete."/>
 	</target>
 
 	<!--

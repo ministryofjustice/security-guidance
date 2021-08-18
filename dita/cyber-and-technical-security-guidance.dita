@@ -25,6 +25,15 @@ has made for the products we operate, and our relationships with suppliers.</p>
         </p>
       </body>
     </topic>
+	<topic id="change-log">
+		<title>Change log</title>
+		<body>
+			<p>A 'change log' is <xref href="changelog.dita" format="dita">available</xref>.
+			It details the most recent changes to this information.</p>
+			<p>The changes are also available as <xref href="rss.xml" format="xml" platform="html">RSS</xref><xref href="https://security-guidance.service.justice.gov.uk/rss.xml" format="xml" scope="external" platform="epub pdf">RSS</xref>
+				or <xref href="atom.xml" format="xml" platform="html">Atom</xref><xref href="https://security-guidance.service.justice.gov.uk/atom.xml" format="xml" scope="external" platform="epub pdf">Atom</xref> feeds.</p>
+		</body>
+	</topic>
     <topic id="offline-content">
       <title>Offline content</title>
       <body>
