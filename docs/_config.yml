@@ -1,5 +1,5 @@
 title: "Ministry of Justice Security Guidance"
-show_govuk_logo: true
+show_govuk_logo: false
 
 plugins:
   - jekyll-redirect-from

@@ -13,13 +13,13 @@ outFileDita.write('<p>This document summarises what changes were made, and when,
 outFileDita.write('<dl>\n')
 
 fg = FeedGenerator()
-fg.id('https://security-guidance.service.justice.gov.uk')
+fg.id('https://security-guidance.service.justice.gov.uk/')
 fg.title('MoJ Security Guidance')
 fg.author( {'name':'Ministry of Justice','email':'itsecuritypolicy@digital.justice.gov.uk'} )
-# fg.link( href='https://security-guidance.service.justice.gov.uk', rel='alternate' )
-fg.logo('https://security-guidance.service.justice.gov.uk/favicon.ico')
+fg.link( href='https://security-guidance.service.justice.gov.uk/', rel='alternate' )
+fg.logo('https://security-guidance.service.justice.gov.uk/images/gov.uk_logotype_crown_invert_trans.png')
 fg.subtitle('This site documents the Ministry of Justice (MoJ) security policies and guidance.')
-fg.link( href='https://security-guidance.service.justice.gov.uk', rel='self' )
+fg.link( href='https://security-guidance.service.justice.gov.uk/', rel='self' )
 fg.language('en')
 fg.contributor( name='Ministry of Justice', email='itsecuritypolicy@digital.justice.gov.uk' )
 
