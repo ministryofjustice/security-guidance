@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-08-18 15:17:00 BST [Add change log page.](https://security-guidance.service.justice.gov.uk/changelog/)**
+
+    Created a change log page, and associated RSS and Atom feeds, to describe new or changed content.
+
 -   **2021-08-17 09:26:00 BST [Provide offline version of Group Security content.](https://security-guidance.service.justice.gov.uk/#offline-content)**
 
     Created PDF and eBook versions of the security policy and guidance subset for Group Security.
