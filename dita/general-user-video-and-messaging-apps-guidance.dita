@@ -271,6 +271,13 @@
 							<entry colname="col5">Internal</entry>
 						</row>
 						<row>
+							<entry colname="col1">Trello</entry>
+							<entry colname="col2">Project management tool, 'Kanban' cards</entry>
+							<entry colname="col3">Avoid personal or sensitive data</entry>
+							<entry colname="col4">Web browser based use. An Enterprise <ph conref="conrefs.dita#conrefs/moj"/> licence is available - do not use a personal account.</entry>
+							<entry colname="col5">External meetings</entry>
+						</row>
+						<row>
 							<entry colname="col1">Twitter</entry>
 							<entry colname="col2">Text Messaging, Video transmission</entry>
 							<entry colname="col3">Approved for <ph conref="conrefs.dita#conrefs/moj"/> Corporate account. Using a personal account to comment on work related issues is encouraged, as long as you follow the <xref href="https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code" format="html" scope="external">Civil Service Code of Conduct</xref>.</entry>
@@ -302,7 +309,7 @@
 							<entry colname="col1">Zoom</entry>
 							<entry colname="col2">Communication tool: Video, voice and chat</entry>
 							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Web browser based use</entry>
+							<entry colname="col4">Web browser based use, or dedicated and installed app by approval</entry>
 							<entry colname="col5">External meetings</entry>
 						</row>
 					</tbody>
