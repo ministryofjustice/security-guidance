@@ -231,14 +231,14 @@
 						<row>
 							<entry colname="col1">Google Meet (was Google Hangouts)</entry>
 							<entry colname="col2">Communication tool: Video and/or voice</entry>
-							<entry colname="col3"><ph conref="conrefs.dita#conrefs/moj"/> use approved</entry>
+							<entry colname="col3"><ph id="approved"><ph conref="conrefs.dita#conrefs/moj"/> use approved for <codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></ph></entry>
 							<entry colname="col4"><ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
 							<entry colname="col5">Internal/External</entry>
 						</row>
 						<row>
 							<entry colname="col1">Microsoft Teams</entry>
 							<entry colname="col2">Communication and collaboration tool: Video and/or voice</entry>
-							<entry colname="col3"><ph conref="conrefs.dita#conrefs/moj"/> use approved</entry>
+							<entry colname="col3"><ph conref="#approved-tools/approved"/></entry>
 							<entry colname="col4">Dom1 Software centre, <ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
 							<entry colname="col5">Internal/External</entry>
 						</row>
@@ -252,7 +252,7 @@
 						<row>
 							<entry colname="col1">Skype for Business</entry>
 							<entry colname="col2">Communication tool: Video and/or voice</entry>
-							<entry colname="col3"><ph conref="conrefs.dita#conrefs/moj"/> use approved</entry>
+							<entry colname="col3"><ph conref="#approved-tools/approved"/></entry>
 							<entry colname="col4">Dom1 Software centre, <ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
 							<entry colname="col5">Internal/External</entry>
 						</row>

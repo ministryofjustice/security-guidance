@@ -127,10 +127,10 @@ The bottom line is:
 |---------|---------|------------------------------|--------------------------|--------|
 |Apple Facetime|Communication tool: Video|Avoid personal or sensitive data|Smartphone App|Internal/External|
 |Apple iMessage|Text messaging|Avoid personal or sensitive data|Smartphone App|Internal/External|
-|Google Meet \(was Google Hangouts\)|Communication tool: Video and/or voice|MoJ use approved|IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
-|Microsoft Teams|Communication and collaboration tool: Video and/or voice|MoJ use approved|Dom1 Software centre, IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
+|Google Meet \(was Google Hangouts\)|Communication tool: Video and/or voice|MoJ use approved for `OFFICIAL` and `OFFICIAL-SENSITIVE`|IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
+|Microsoft Teams|Communication and collaboration tool: Video and/or voice|MoJ use approved for `OFFICIAL` and `OFFICIAL-SENSITIVE`|Dom1 Software centre, IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Miro|Collaboration tool: Whiteboarding|Avoid personal or sensitive data|Web browser.|Internal/External|
-|Skype for Business|Communication tool: Video and/or voice|MoJ use approved|Dom1 Software centre, IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
+|Skype for Business|Communication tool: Video and/or voice|MoJ use approved for `OFFICIAL` and `OFFICIAL-SENSITIVE`|Dom1 Software centre, IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Slack|Text messaging, Voice/Video calls, etc.|Avoid personal or sensitive data|IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Slido|Q&A tool during presentations|Avoid personal or sensitive data|Web browser.|Internal|
 |Twitter|Text Messaging, Video transmission|Approved for MoJ Corporate account. Using a personal account to comment on work related issues is encouraged, as long as you follow the [Civil Service Code of Conduct](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code).|Web browser, Windows 10 App, Smartphone App.|Internal/External|
