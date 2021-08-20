@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-08-20 14:14:00 BST [Update to general apps guidance.](https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/#approved-tools)**
+
+    Add Trello guidance, and clarification over Official and Official Sensitive material in apps.
+
 -   **2021-08-18 15:17:00 BST [Add change log page.](https://security-guidance.service.justice.gov.uk/changelog/)**
 
     Created a change log page, and associated RSS and Atom feeds, to describe new or changed content.

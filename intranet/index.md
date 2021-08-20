@@ -64,7 +64,7 @@
 * User access
     * [User access](acceptable-use.md)
     * [Data Security and Privacy](data-security-and-privacy.md)
-    * [Apps](general-user-video-and-messaging-apps-guidance.md)
+    * [General app guidance](general-user-video-and-messaging-apps-guidance.md)
     * [Government Classification Scheme](government-classification-scheme.md)
     * [Open internet tools](guidance-for-using-open-internet-tools.md)
     * [IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](identify-protect-detect-respond-recover.md)
