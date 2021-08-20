@@ -125,10 +125,10 @@ The bottom line is:
 |---------|---------|------------------------------|--------------------------|--------|
 |Apple Facetime|Communication tool: Video|Avoid personal or sensitive data|Smartphone App|Internal/External|
 |Apple iMessage|Text messaging|Avoid personal or sensitive data|Smartphone App|Internal/External|
-|Google Meet \(was Google Hangouts\)|Communication tool: Video and/or voice|MoJ use approved|IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
-|Microsoft Teams|Communication and collaboration tool: Video and/or voice|MoJ use approved|Dom1 Software centre, IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
+|Google Meet \(was Google Hangouts\)|Communication tool: Video and/or voice|MoJ use approved for `OFFICIAL` and `OFFICIAL-SENSITIVE`|IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
+|Microsoft Teams|Communication and collaboration tool: Video and/or voice|MoJ use approved for `OFFICIAL` and `OFFICIAL-SENSITIVE`|Dom1 Software centre, IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Miro|Collaboration tool: Whiteboarding|Avoid personal or sensitive data|Web browser.|Internal/External|
-|Skype for Business|Communication tool: Video and/or voice|MoJ use approved|Dom1 Software centre, IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
+|Skype for Business|Communication tool: Video and/or voice|MoJ use approved for `OFFICIAL` and `OFFICIAL-SENSITIVE`|Dom1 Software centre, IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Slack|Text messaging, Voice/Video calls, etc.|Avoid personal or sensitive data|IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Slido|Q&A tool during presentations|Avoid personal or sensitive data|Web browser.|Internal|
 |Trello|Project management tool, 'Kanban' cards|Avoid personal or sensitive data. An enterprise-wide MoJ licence is available. Ensure you create Trello boards in the MoJ workspace. Do not use a personal Trello account.|Web browser based use. Log in using your MoJ single sign-on account, for example a Digital & Technology Google account, or a Microsoft Office 365 account.|Internal|
