@@ -2,13 +2,11 @@
 redirect_from:
   - /policies/general-user-video-and-messaging-apps-guidance/
 ---
-# General Apps Guidance
+# General app guidance
 
-## Overview
+When working, you need to communicate with Ministry of Justice \(MoJ\) colleagues and use business tools \('apps'\). You'll also need to work with people outside the MoJ. There are various tools you might use, besides the standard email and telephone tools. This document tells you about the tools you can, and cannot, use for business purposes. This guidance applies to all staff and contractors who work for the MoJ.
 
-When working from home, you still need to communicate with Ministry of Justice \(MoJ\) colleagues. You'll also need to work with people outside the MoJ. There are various tools you might use, besides the standard email and telephone tools. This document tells you about the tools you can, and cannot, use for business purposes. This guidance applies to all staff and contractors who work for the MoJ.
-
-Some ALBs, Agencies, or other large groups within the MoJ might have their own, specific guidance regarding how to use certain Video and Messaging apps for different purposes.
+Some ALBs, Agencies, or other large groups within the MoJ might have their own, specific guidance regarding how to use certain apps for different purposes.
 
 ## Access to tools
 
@@ -133,12 +131,12 @@ The bottom line is:
 |Skype for Business|Communication tool: Video and/or voice|MoJ use approved|Dom1 Software centre, IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Slack|Text messaging, Voice/Video calls, etc.|Avoid personal or sensitive data|IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Slido|Q&A tool during presentations|Avoid personal or sensitive data|Web browser.|Internal|
-|Trello|Project management tool, 'Kanban' cards|Avoid personal or sensitive data|Web browser based use. An Enterprise MoJ licence is available - do not use a personal account.|External meetings|
+|Trello|Project management tool, 'Kanban' cards|Avoid personal or sensitive data. An enterprise-wide MoJ licence is available. Ensure you create Trello boards in the MoJ workspace. Do not use a personal Trello account.|Web browser based use. Log in using your MoJ single sign-on account, for example a Digital & Technology Google account, or a Microsoft Office 365 account.|Internal|
 |Twitter|Text Messaging, Video transmission|Approved for MoJ Corporate account. Using a personal account to comment on work related issues is encouraged, as long as you follow the [Civil Service Code of Conduct](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code).|Web browser, Windows 10 App, Smartphone App.|Internal/External|
 |WhatsApp|Text messaging, Voice/Video calls|Avoid personal or sensitive data|Dedicated app on device, also web browser.|Internal/External|
 |Yammer|Text messaging|Avoid personal or sensitive data|Dedicated app on device|Internal|
 |YouTube|Video sharing tool: Video, streaming and chat|Avoid personal or sensitive data|Web browser based use.|Internal/External|
-|Zoom|Communication tool: Video, voice and chat|Avoid personal or sensitive data|Web browser based use, or dedicated and installed app by approval|External meetings|
+|Zoom|Communication tool: Video, voice and chat|Avoid personal or sensitive data|Web browser based use, or dedicated and installed app by approval|External meetings. For Internal meetings, use Microsoft Teams.|
 
 ## NHS Track and Trace
 
