@@ -37,7 +37,7 @@ When speaking to an individual, remember:
 * Do not put off talking to an individual for fear of not knowing what to do or say.
 * Unusual behaviour might be nothing to do with security issues, but might be for several reasons. Listen to the person, and, if possible, offer your support. It might be appropriate to refer them to a [support group available within](/guidance/hr/support-and-wellbeing/employee-assistance-programme/) the MoJ.
 
-> For more information, see the MoJ [Support and wellbeing](/guidance/hr/support-and-wellbeing/) resources.
+**Note:** For more information, see the MoJ [Support and wellbeing](/guidance/hr/support-and-wellbeing/) resources.
 
 Managing security clearances requires active conversations between managers and individuals throughout the year, and prompt reporting of any issues of concern: [Reporting personal circumstance changes](reporting-personal-circumstance-changes.md). Whilst there are formal renewal periods, clearances may be reviewed, suspended, or withdrawn at any time.
 
@@ -54,23 +54,23 @@ There is a good chance that a contractor is not familiar with the MoJ's security
 * Prior to their appointment, contractors or consultants **SHALL** be security cleared to the appropriate level for their specific role.
 * Only a permanent employee (civil servant) can sponsor a security clearance.
 * Only a permanent employee (civil servant) can act as a sponsor for the issuing of a building pass. Appropriate security clearance **SHALL** be obtained before sponsoring an application for a building pass.
-* “Escorted” visitor passes are exclusively for the use of visitors. Contractors or consultants paid by the MoJ are not visitors, and **SHALL NOT** be issued with a visitor pass. They **SHALL** be cleared in advance of them starting work, and issued with the correct pass.
+* "Escorted" visitor passes are exclusively for the use of visitors. Contractors or consultants paid by the MoJ are not visitors, and **SHALL NOT** be issued with a visitor pass. They **SHALL** be cleared in advance of them starting work, and issued with the correct pass.
 * When transferring security clearance from another Government department, [Cluster 2 Security Unit](mailto:contactus@cluster2security.gov.uk) **SHALL** confirm if the security clearance is valid and current. If not, a new security clearance application **SHALL** be started.
 * Holders of CTC, SC, or DV **SHALL** [report changes in personal circumstances](reporting-personal-circumstance-changes.md).
 * Remind all staff that they **SHALL** [refer to the travel abroad guidance](accessing-moj-it-systems-from-overseas.md).
-* Ensure contractors, like all staff, are aware of [MoJ security policies](https://ministryofjustice.github.io/security-guidance/), and check their understanding. Make sure they are briefed on good security behaviours, and act as a role model.
+* Ensure contractors, like all staff, are aware of [MoJ security policies](https://security-guidance.service.justice.gov.uk/), and check their understanding. Make sure they are briefed on good security behaviours, and act as a role model.
 * Ensure they are aware of the MoJ [on-line social media](protecting-social-media-accounts.md) guidance and understand the need to avoid publishing their security clearance on social media.
 * Create a positive environment in which security is given priority, and individuals are encouraged to discuss concerns before they become serious problems.
 * As part of your role, you **SHOULD** seek to get to know your contractor or consultant, and discuss any behavioural changes.
 * Although contractors often have a short contract, that might or might not be renewed, they are still given security clearance for a number of years: 5 years for CTC, and 7 years for SC and DV. If their contract period is less than the renewal cycle, then you **SHALL** notify [your local National Security Vetting Contact (NSVC)](/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/) when the contractor leaves, so that their security clearance can be terminated.
 
-##Contacts
+##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 
 ##Feedback
 
-If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

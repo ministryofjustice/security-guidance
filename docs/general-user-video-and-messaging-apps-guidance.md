@@ -2,20 +2,18 @@
 redirect_from:
   - /policies/general-user-video-and-messaging-apps-guidance/
 ---
-# General Apps Guidance
+# General app guidance
 
-## Overview
+When working, you need to communicate with Ministry of Justice \(MoJ\) colleagues and use business tools \('apps'\). You'll also need to work with people outside the MoJ. There are various tools you might use, besides the standard email and telephone tools. This document tells you about the tools you can, and cannot, use for business purposes. This guidance applies to all staff and contractors who work for the MoJ.
 
-When working from home, you still need to communicate with Ministry of Justice \(MoJ\) colleagues. You'll also need to work with people outside the MoJ. There are various tools you might use, besides the standard email and telephone tools. This document tells you about the tools you can, and cannot, use for business purposes. This guidance applies to all staff and contractors who work for the MoJ.
-
-Some ALBs, Agencies, or other large groups within the MoJ might have their own, specific guidance regarding how to use certain Video and Messaging apps for different purposes.
+Some ALBs, Agencies, or other large groups within the MoJ might have their own, specific guidance regarding how to use certain apps for different purposes.
 
 ## Access to tools
 
 You can access tools that are provided through your MoJ provided devices by downloading from:
 
 -   The Software Centre application on your device \(for Dom1 equipment\).
--   The Self Service application on your Mac \(for Digital Service Desk \(DSD\) managed MacBook laptops\).
+-   The Self Service application on your Mac \(for IT Service Desk managed MacBook laptops\).
 
 Currently, access to the tools mentioned in this document is not available from Quantum devices.
 
@@ -25,7 +23,7 @@ For other MoJ provided devices, seek help from your Line Manager in the first in
 
 -   A corporate account is for making official MoJ statements and providing official views. Only a small number of authorised people can use it.
 -   A work account is your normal MoJ account, that you use every day for business as usual. Only you have access to your work account.
--   A personal account is your own personal account on gmail, hotmail, yahoo, and so on. You should never use a personal account for business purposes.
+-   A personal account is your own personal account on gmail, hotmail, yahoo, and so on. You should never use a personal account for business purposes. To be clear: never send your work material to your personal device or your personal email account.
 
 Some of the applications listed make a distinction between general use with a work account, and use with a corporate account. Using a tool with a corporate account means you are providing views or statements on behalf of the MoJ. Never use a personal account for business purposes with any tool.
 
@@ -79,6 +77,8 @@ Think about the MoJ information you work with when using these tools. What would
 
 You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is [Principle 2](https://www.gov.uk/government/publications/government-security-classifications) of the Government Security Classifications. The MoJ trusts you to work with `OFFICIAL` information. You're trusted to make a reasoned judgement about whether it's safe to use an approved tool, or whether you should use a different MoJ-provided work tool.
 
+Never send work material to your personal devices or email accounts.
+
 Remember that it is impossible to delete information after it's released in public.
 
 For more information about MoJ IT Security, look on the MoJ Intranet [here](https://intranet.justice.gov.uk/guidance/security/).
@@ -105,7 +105,7 @@ For more guidance, read the [Information Management](https://intranet.justice.go
 
 ## Acceptable Use
 
-You must use communications tools for business purposes in an acceptable way.
+You must use communications tools for business purposes in an [acceptable way](acceptable-use.md).
 
 Be sensible when using communications tools for MoJ business purposes:
 
@@ -125,17 +125,18 @@ The bottom line is:
 |---------|---------|------------------------------|--------------------------|--------|
 |Apple Facetime|Communication tool: Video|Avoid personal or sensitive data|Smartphone App|Internal/External|
 |Apple iMessage|Text messaging|Avoid personal or sensitive data|Smartphone App|Internal/External|
-|Google Meet \(was Google Hangouts\)|Communication tool: Video and/or voice|MoJ use approved|Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
-|Microsoft Teams|Communication and collaboration tool: Video and/or voice|MoJ use approved|Dom1 Software centre, Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
+|Google Meet \(was Google Hangouts\)|Communication tool: Video and/or voice|MoJ use approved for `OFFICIAL` and `OFFICIAL-SENSITIVE`|IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
+|Microsoft Teams|Communication and collaboration tool: Video and/or voice|MoJ use approved for `OFFICIAL` and `OFFICIAL-SENSITIVE`|Dom1 Software centre, IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Miro|Collaboration tool: Whiteboarding|Avoid personal or sensitive data|Web browser.|Internal/External|
-|Skype for Business|Communication tool: Video and/or voice|MoJ use approved|Dom1 Software centre, Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
-|Slack|Text messaging, Voice/Video calls, etc.|Avoid personal or sensitive data|Digital Service Desk controlled Mac - Self service, Web browser.|Internal/External|
+|Skype for Business|Communication tool: Video and/or voice|MoJ use approved for `OFFICIAL` and `OFFICIAL-SENSITIVE`|Dom1 Software centre, IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
+|Slack|Text messaging, Voice/Video calls, etc.|Avoid personal or sensitive data|IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Slido|Q&A tool during presentations|Avoid personal or sensitive data|Web browser.|Internal|
+|Trello|Project management tool, 'Kanban' cards|Avoid personal or sensitive data. An enterprise-wide MoJ licence is available. Ensure you create Trello boards in the MoJ workspace. Do not use a personal Trello account.|Web browser based use. Log in using your MoJ single sign-on account, for example a Digital & Technology Google account, or a Microsoft Office 365 account.|Internal|
 |Twitter|Text Messaging, Video transmission|Approved for MoJ Corporate account. Using a personal account to comment on work related issues is encouraged, as long as you follow the [Civil Service Code of Conduct](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code).|Web browser, Windows 10 App, Smartphone App.|Internal/External|
 |WhatsApp|Text messaging, Voice/Video calls|Avoid personal or sensitive data|Dedicated app on device, also web browser.|Internal/External|
 |Yammer|Text messaging|Avoid personal or sensitive data|Dedicated app on device|Internal|
 |YouTube|Video sharing tool: Video, streaming and chat|Avoid personal or sensitive data|Web browser based use.|Internal/External|
-|Zoom|Communication tool: Video, voice and chat|Avoid personal or sensitive data|Web browser based use|External meetings|
+|Zoom|Communication tool: Video, voice and chat|Avoid personal or sensitive data|Web browser based use, or dedicated and installed app by approval|External meetings. For Internal meetings, use Microsoft Teams.|
 
 ## NHS Track and Trace
 
@@ -170,7 +171,7 @@ Begin the request by filling in the [Request a Security Review of a third-party 
 
 When you submit the form, it is passed to the security team. The app is reviewed, to check things like how safe it is to use, and whether there are any Data Privacy implications. The security team will respond to you with an answer as quickly as possible.
 
-**Note:** You should submit the request, and wait for a formal “approval” response, *before* you install or use the app on MoJ equipment or information.
+**Note:** You should submit the request, and wait for a formal "approval" response, *before* you install or use the app on MoJ equipment or information.
 
 If you have any questions about the process, contact the security team: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

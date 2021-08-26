@@ -26,7 +26,7 @@
       published in the DNS record.</p>
       <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> enforces SPF controls
       to help users spot spoofed or unknown email addresses.
-      Suspicious emails are sent directly to the <q>spam</q> folder,
+      Suspicious emails are sent directly to the "spam" folder,
       instead of to the user's inbox.</p>
       <p>When creating an SPF record in the public DNS,
         use all the IP addresses or address ranges from which an email might be
@@ -77,7 +77,7 @@
           key published in the DNS.
           You can then determine if an email has been tampered with during
           transit,
-          for example during a <q>Man-In-The-Middle</q> attack.</li>
+          for example during a "Man-In-The-Middle" attack.</li>
         <li>A valid digital signature provides assurance that the hashed content
           has not been modified since the signature was affixed to the email
           message.</li>
@@ -274,5 +274,5 @@
   </body>
 </topic>
 <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
-<topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+<topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

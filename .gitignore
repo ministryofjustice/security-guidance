@@ -1,6 +1,7 @@
 .DS_Store
 \${_dita.map.output.dir}/
 .idea/
+.vscode/
 *.iml
 .ruby-version
 _site
@@ -8,6 +9,9 @@ _site
 .vscode/
 buildUtils/catalog-dita.xml
 buildUtils/compile.txt
+buildUtils/atom.xml
+buildUtils/rss.xml
+buildUtils/changelog.dita
 dita/fixes.txt
 dita/out
 dita/outhtml

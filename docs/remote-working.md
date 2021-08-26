@@ -1,5 +1,7 @@
 # Remote Working
 
+**Parent topic:** [Mobile Device and Remote Working Policy](mobile-device-and-remote-working-policy.md)
+
 ## Key points
 
 -   Be professional, and help keep Ministry of Justice \(MoJ\) information and resources safe and secure at all times.
@@ -44,7 +46,7 @@ Remote working is when you work from any non-MoJ location, for example, working 
 -   Work on sensitive information in public spaces, or where your equipment can be overlooked by others.
 -   Advertise the fact that you work with MoJ materials.
 -   Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.
--   Send work material to your personal email address.
+-   Send your work material to your personal devices or your personal email address.
 -   Redirect print jobs from MoJ printers to a personal printer.
 
 ## Working securely
@@ -61,9 +63,13 @@ Even when working remotely, you must still follow the security policies and oper
 
 The main guidance is available [here](personal-devices.md).
 
-Wherever possible, you should always use official MoJ equipment for business purposes. Never send work material to your personal email accounts.
+Wherever possible, you should always use official MoJ equipment for business purposes.
 
-If you are working remotely, or do not have access to MoJ equipment, it might be tempting to use your own equipment, especially printers. The advice is to avoid printing anything, and in particular not to use personal printers.
+Never send your work material to your personal devices or your email accounts.
+
+If you are working remotely, or do not have access to MoJ equipment, it might be tempting to use your own equipment, especially printers. Avoid doing this.
+
+The advice is to avoid printing anything, and in particular not to use personal printers.
 
 However, if you really must print MoJ information, you:
 
@@ -99,9 +105,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 -   Tel: 0800 917 5148
 -   [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
 
-**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
-
-**Note:** Use of the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\) is being withdrawn, and should be avoided.
+**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
 
 **HMPPS Information & security:**
 

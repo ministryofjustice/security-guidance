@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+	<title><ph conref="conrefs.dita#conrefs/mojlong"/> Cyber Security Policy</title>
+	<topicref href="conrefs.dita" type="topic" processing-role="resource-only"/>
+	<topicref href="it-security-policy-overview.dita" type="topic"/>
+	<topicref href="it-security-all-users-policy.dita" type="topic"/>
+	<topicref href="it-security-technical-users-policy.dita" type="topic"/>
+</map>

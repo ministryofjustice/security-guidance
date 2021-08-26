@@ -10,7 +10,7 @@ This guide outlines the security procedures and advice for privileged users to r
 
 Whether moving data to the Cloud or accepting data from third parties, removable media increases the risk of malware being introduced to systems, and could result in the loss of critical or sensitive Ministry of Justice \(MoJ\) data. Privileged users play an important role in managing this risk, and must ensure that the following actions are undertaken by individuals using removable media.
 
--   Any data transferred from removable media to the MoJ systems should be scanned for malware before being uploaded to MoJ systems. One option is to adopt a “sheep dip”. This is a segregated system with anti-virus and other security tools. It is used to conduct security scans before data is introduced to the MoJ systems. This reduces, but does not eliminate, the risk that removable media is used as a threat vector for malware.
+-   Any data transferred from removable media to the MoJ systems should be scanned for malware before being uploaded to MoJ systems. One option is to adopt a "sheep dip". This is a segregated system with anti-virus and other security tools. It is used to conduct security scans before data is introduced to the MoJ systems. This reduces, but does not eliminate, the risk that removable media is used as a threat vector for malware.
 -   The origin of any removable media must be established to understand the risk it poses.
 -   If removable media is required for standard system operations, privileged users must ensure data is encrypted at rest, and has suitable physical security controls in place. These include locking rooms where data is stored or using safes for storing removable media.
 -   Removable media must not be used for a system's operation unless it is approved by the Senior Information Risk Officer \(SIRO\). Advice should be sought from a risk advisor in the Cyber Assistance Team, contact details given [below](#incidents-and-contact-details).
@@ -20,7 +20,7 @@ Whether moving data to the Cloud or accepting data from third parties, removable
 Privileged users need to ensure that there are backups of system data in order to minimise the impact of incidents, such as malware infection or data loss. Privileged users must:
 
 -   Follow the IT system's data backup schedule to meet the required Recovery Point Objective.
--   Assign all backup media, whether physical or in the Cloud, a Protective Marking, and provide appropriate protection based on that marking. Backup material must only be accessible to those who have a “need-to-know”, defined by the System Owner.
+-   Assign all backup media, whether physical or in the Cloud, a Protective Marking, and provide appropriate protection based on that marking. Backup material must only be accessible to those who have a "need-to-know", defined by the System Owner.
 -   Ensure backups are kept off-site in a secure location. In a Cloud environment, this would equate to a resilient data store, such as AWS Backup or Azure Backup services.
 -   Where required, encryption types employed to prevent disclosure are outlined in the Information Risk Assessment Report \(IRAR\). Details of applicable encryption standards required are outlined in the [Technical Controls Guide](technical-security-controls-guide.md).
 
@@ -44,9 +44,7 @@ Privileged users play a front-line role in detecting and responding to incidents
 -   Tel: 0800 917 5148
 -   [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
 
-**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
-
-**Note:** Use of the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\) is being withdrawn, and should be avoided.
+**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
 
 **HMPPS Information & security:**
 
@@ -59,15 +57,12 @@ Privileged users play a front-line role in detecting and responding to incidents
 
 For help with incidents, including theft and loss, contact:
 
--   **DOM1/Quantum - Technology Service Desk**
+-   **Technology Service Desk - including DOM1, Quantum, and the Digital & Technology Service Desk**
 
     Tel: 0800 917 5148
 
-    **Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+    **Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
 
--   **Digital and Technology - Digital Service Desk**
-    -   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
-    -   Slack: `#digitalservicedesk`
 -   **HMPPS Information and security**
     -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
     -   Tel: 0203 334 0324

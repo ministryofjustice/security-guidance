@@ -35,7 +35,7 @@ When speaking to an individual, remember:
 -   Do not put off talking to an individual for fear of not knowing what to do or say.
 -   Unusual behaviour might be nothing to do with security issues, but might be for several reasons. Listen to the person, and, if possible, offer your support. It might be appropriate to refer them to a [support group available within](https://intranet.justice.gov.uk/guidance/hr/support-and-wellbeing/employee-assistance-programme/) the MoJ.
 
-> For more information, see the MoJ [Support and wellbeing](https://intranet.justice.gov.uk/guidance/hr/support-and-wellbeing/) resources.
+**Note:** For more information, see the MoJ [Support and wellbeing](https://intranet.justice.gov.uk/guidance/hr/support-and-wellbeing/) resources.
 
 Managing security clearances requires active conversations between managers and individuals throughout the year, and prompt reporting of any issues of concern: [Reporting personal circumstance changes](reporting-personal-circumstance-changes.md). Whilst there are formal renewal periods, clearances may be reviewed, suspended, or withdrawn at any time.
 
@@ -52,7 +52,7 @@ There is a good chance that a contractor is not familiar with the MoJ's security
 -   Prior to their appointment, contractors or consultants **SHALL** be security cleared to the appropriate level for their specific role.
 -   Only a permanent employee \(civil servant\) can sponsor a security clearance.
 -   Only a permanent employee \(civil servant\) can act as a sponsor for the issuing of a building pass. Appropriate security clearance **SHALL** be obtained before sponsoring an application for a building pass.
--   “Escorted” visitor passes are exclusively for the use of visitors. Contractors or consultants paid by the MoJ are not visitors, and **SHALL NOT** be issued with a visitor pass. They **SHALL** be cleared in advance of them starting work, and issued with the correct pass.
+-   "Escorted" visitor passes are exclusively for the use of visitors. Contractors or consultants paid by the MoJ are not visitors, and **SHALL NOT** be issued with a visitor pass. They **SHALL** be cleared in advance of them starting work, and issued with the correct pass.
 -   When transferring security clearance from another Government department, [Cluster 2 Security Unit](mailto:contactus@cluster2security.gov.uk) **SHALL** confirm if the security clearance is valid and current. If not, a new security clearance application **SHALL** be started.
 -   Holders of CTC, SC, or DV **SHALL** [report changes in personal circumstances](reporting-personal-circumstance-changes.md).
 -   Remind all staff that they **SHALL** [refer to the travel abroad guidance](accessing-moj-it-systems-from-overseas.md).

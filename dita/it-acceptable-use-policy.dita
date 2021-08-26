@@ -214,7 +214,7 @@
         <dl>
           <dlentry>
             <dt>POL.ITAUP.020</dt>
-            <dd>All Users <b>must request</b> any changes to ICT system/s or ICT equipment through the IT helpdesk.
+            <dd>All Users <b>must request</b> any changes to ICT system/s or ICT equipment through the <ph conref="conrefs.dita#conrefs/servicedesk"/>.
             <ph audience="audience-tech">Further details are provided in <xref href="system-users-and-application-administrators.dita" format="dita">System Users and Application Administrators</xref>.</ph></dd>
           </dlentry>
         </dl>
@@ -299,7 +299,7 @@
       <p>The <ph conref="conrefs.dita#conrefs/moj"/>, so far as possible and appropriate, respects the privacy and autonomy whilst working of all Users, but further to <xref href="#personal-use" format="dita">this information</xref>, any personal use of <ph conref="conrefs.dita#conrefs/moj"/> ICT systems will also be subject to monitoring.
       By carrying out personal activities using <ph conref="conrefs.dita#conrefs/moj"/> ICT systems, Users are consenting to the <ph conref="conrefs.dita#conrefs/moj"/> processing any sensitive personal data which may be revealed by such monitoring (for example regular visits to a set of websites).</p>
       <p>For the purposes of business continuity it may sometimes be necessary for the <ph conref="conrefs.dita#conrefs/moj"/> to access business communications (including within e-mail mailboxes) while a User is absent from work (including holiday and illness).
-      Access will only be granted through submission of a formal request to the IT Helpdesk where approval is required from the relevant line manager where the <ph conref="conrefs.dita#conrefs/moj"/> ITSO and <ph conref="conrefs.dita#conrefs/moj"/> HR may be consulted.</p>
+      Access will only be granted through submission of a formal request to the <ph conref="conrefs.dita#conrefs/servicedesk"/> where approval is required from the relevant line manager where the <ph conref="conrefs.dita#conrefs/moj"/> ITSO and <ph conref="conrefs.dita#conrefs/moj"/> HR may be consulted.</p>
       <dl>
         <dlentry>
           <dt>POL.ITAUP.027</dt>
@@ -313,5 +313,5 @@
       </dl>
     </body>
   </topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

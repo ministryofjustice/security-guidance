@@ -18,7 +18,7 @@
         the <ph conref="conrefs.dita#conrefs/moj"/> can block an IP address associated with known malware,
         or which is trying to perform a denial of service attack.</p>
       <p>At the same time,
-        the <ph conref="conrefs.dita#conrefs/moj"/> is careful not to <q>over-retain</q> log information,
+        the <ph conref="conrefs.dita#conrefs/moj"/> is careful not to "over-retain" log information,
         or to share it with those who do not need to see it,
         without lawful justification.
         The <ph conref="conrefs.dita#conrefs/moj"/> must always act in a proportionate way with this data.</p>
@@ -52,7 +52,7 @@
           All access to the raw logging and monitoring data must also be logged.</p>
         <p>Bulk exporting from such logging systems is prohibited by default.
           Where analysis is required using sensitive logs,
-          it must be performed <q>in-situ</q>.
+          it must be performed "in-situ".
           Bulk exporting should be prevented by default,
           using technical or other access controls where possible.
           If a bulk extract from a logging system is required,
@@ -62,5 +62,5 @@
       </body>
     </topic>
     <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
-    <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+    <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

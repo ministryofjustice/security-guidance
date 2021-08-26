@@ -18,7 +18,7 @@ This is permitted under data protection legislation, to help defend MoJ services
 
 This is why the MoJ can log and monitor external interactions with its services, looking for evidence of cyber security attacks. It also allows the MoJ to act to protect those services. For example, the MoJ can block an IP address associated with known malware, or which is trying to perform a denial of service attack.
 
-At the same time, the MoJ is careful not to “over-retain” log information, or to share it with those who do not need to see it, without lawful justification. The MoJ must always act in a proportionate way with this data.
+At the same time, the MoJ is careful not to "over-retain" log information, or to share it with those who do not need to see it, without lawful justification. The MoJ must always act in a proportionate way with this data.
 
 The MoJ Chief Information Security Office \(CISO\) is ultimately responsible for all logging and monitoring systems which have been implemented for cyber security purposes. This means that the CISO is also the Information Asset Owner for all logging and monitoring data.
 
@@ -38,7 +38,7 @@ Aggregate data from logging systems, such as the number of particular types of e
 
 Default permissions must be set on logging and monitoring systems such that only ops staff for that service, and the MoJ's security operations team \([OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)\), have access to the data in them. All access to the raw logging and monitoring data must also be logged.
 
-Bulk exporting from such logging systems is prohibited by default. Where analysis is required using sensitive logs, it must be performed “in-situ”. Bulk exporting should be prevented by default, using technical or other access controls where possible. If a bulk extract from a logging system is required, for example, into a more complex analytical system or as part of a wider migration, this requires the prior approval of the MoJ CISO.
+Bulk exporting from such logging systems is prohibited by default. Where analysis is required using sensitive logs, it must be performed "in-situ". Bulk exporting should be prevented by default, using technical or other access controls where possible. If a bulk extract from a logging system is required, for example, into a more complex analytical system or as part of a wider migration, this requires the prior approval of the MoJ CISO.
 
 ## Contact details
 

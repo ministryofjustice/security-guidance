@@ -18,7 +18,7 @@ This guide is aimed at two audiences:
 -   The in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration, and operation. This includes DevOps, Software Developers, Technical Architects, and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI, and Knowledge \(EPICK\) Team.
 -   Any other MoJ business group, agency, contractor, IT supplier, or partner who in any way designs, develops, or supplies services \(including processing, transmitting, and storing data\) for, or on behalf of, the MoJ.
 
-These audiences are referred to as “technical users”.
+These audiences are referred to as "technical users".
 
 ## Roles and responsibilities
 
@@ -27,7 +27,7 @@ All technical users are responsible for maintaining and using the MoJ's email co
 -   Where possible, automate checks of the sender's authenticity by implementing the controls in the [Email Authentication Guide](email-authentication-guide.md).
 -   Ensure all email communications are protected according to the classification of the information held within them. There is more information in the the [Information Classification Handling and Security Guide](information-classification-handling-and-security-guide.md).
 -   Discourage people from downloading data to mobile devices. Instead, encourage and enable the use of cloud services such as Office 365.
--   Make it easy for people to send suspected or actual phishing emails to the Technology Service Desk, so that the emails can be handled safely.
+-   Make it easy for people to send suspected or actual phishing emails to the IT Service Desk, so that the emails can be handled safely.
 -   Keep operating systems up-to-date, to prevent susceptibility to viruses.
 -   Scan email attachments to detect viruses and other malware.
 -   Ensure email services are appropriately authenticated. Refer to the [Email Authentication Guide](email-authentication-guide.md) for more information.
@@ -68,7 +68,7 @@ In this situation, the user **SHALL** first seek permission from their line mana
 -   Preventing delegate access to unauthorised users, such as people outside the MoJ\), by enforcing Role Based Access Control \(RBAC\).
 -   Implementing [Access Control Policy](access-control-policy.md), in particular regarding access to email as a result of forwarding or delegation.
 
-For individual accounts, the help desk can configure delegate access. Administrators of group inboxes can also configure delegate access to those inboxes.
+For individual accounts, the IT Service Desk can configure delegate access. Administrators of group inboxes can also configure delegate access to those inboxes.
 
 For further details, refer to the [Privileged User Guide](privileged-user-guide.md).
 

@@ -63,7 +63,7 @@
         <li>Work on sensitive information in public spaces, or where your equipment can be overlooked by others.</li>
         <li>Advertise the fact that you work with <ph conref="conrefs.dita#conrefs/moj"/> materials.</li>
         <li>Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.</li>
-        <li>Send work material to your personal email address.</li>
+        <li>Send your work material to your personal devices or your personal email address.</li>
         <li>Redirect print jobs from <ph conref="conrefs.dita#conrefs/moj"/> printers to a personal printer.</li>
       </ul></p>
     </body>
@@ -84,8 +84,11 @@
     <title>Using your own equipment</title>
     <body>
       <p>The main guidance is available <xref href="personal-devices.dita" format="dita" platform="github">here</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/using-a-personal-device/" format="html" scope="external" platform="intranet">here</xref>.</p>
-      <p>Wherever possible, you should always use official <ph conref="conrefs.dita#conrefs/moj"/> equipment for business purposes. Never send work material to your personal email accounts.</p>
-      <p>If you are working remotely, or do not have access to <ph conref="conrefs.dita#conrefs/moj"/> equipment, it might be tempting to use your own equipment, especially printers. The advice is to avoid printing anything, and in particular not to use personal printers.</p>
+      <p>Wherever possible, you should always use official <ph conref="conrefs.dita#conrefs/moj"/> equipment for business purposes.</p>
+      <p>Never send your work material to your personal devices or your email accounts.</p>
+      <p>If you are working remotely, or do not have access to <ph conref="conrefs.dita#conrefs/moj"/> equipment, it might be tempting to use your own equipment, especially printers.
+        Avoid doing this.</p>
+      <p>The advice is to avoid printing anything, and in particular not to use personal printers.</p>
       <p>However, if you really must print <ph conref="conrefs.dita#conrefs/moj"/> information, you:</p>
       <ul>
         <li>Should connect directly to the printer using USB, not wifi.</li>
@@ -136,5 +139,5 @@
       </p>
     </body>
   </topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

@@ -34,7 +34,10 @@
     <body>
       <ul>
         <li><ph conref="#overseas-travel/overseas-travel-guide"/>.</li>
-        <li><xref href="https://intranet.justice.gov.uk/documents/2020/03/overseas-travel-form.docx" format="docx" scope="external">Overseas travel form</xref></li>
+        <li><xref href="/gs/overseas-travel-form.docx" format="docx" scope="external" platform="html">Overseas
+          travel form</xref><xref href="https://security-guidance.service.justice.gov.uk/gs/overseas-travel-form.docx"
+                                  format="docx" scope="external" platform="epub pdf">Overseas
+          travel form</xref></li>
         <li><xref href="https://intranet.justice.gov.uk/documents/2020/09/overseas-working-decision-tree.docx" format="docx" scope="external">Overseas working decision tree</xref> –
           Step by step guide on how you can request to work remotely overseas during COVID-19</li>
       </ul>
@@ -67,6 +70,6 @@
   </topic>
   <!--
   <topic id="cyber-security-advice" conref="conrefs.dita#cyber-security-advice"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
   -->
 </topic>

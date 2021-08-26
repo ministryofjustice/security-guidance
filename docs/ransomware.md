@@ -1,6 +1,6 @@
 # Ransomware
 
-Ransomware is a type of malicious software created or used by cybercriminals. It prevents people or businesses from accessing their own data. The software takes hold of the data, holding it “hostage”, until a ransom payment is made to release it.
+Ransomware is a type of malicious software created or used by cybercriminals. It prevents people or businesses from accessing their own data. The software takes hold of the data, holding it "hostage", until a ransom payment is made to release it.
 
 ## Preventing Ransomware from taking hold of information
 
@@ -20,7 +20,7 @@ Ransomware is a type of malicious software created or used by cybercriminals. It
 
 ## What to do if you think a ransomware attack is affecting your system
 
-In the event of a ransomware attack, or if you have suspicions one may be taking place, the first thing to do is to [contact your local IT Helpdesk](#incidents-and-contact-details).
+In the event of a ransomware attack, or if you have suspicions one may be taking place, the first thing to do is to [contact your local IT Service Desk](#incidents-and-contact-details).
 
 With your help, the IT team attempt to determine which systems have been impacted, and can isolate them immediately. You might be asked to disconnect all your devices from the network or wifi connection, to prevent a further spread of attacks throughout the business.
 
@@ -30,15 +30,12 @@ With your help, the IT team attempt to determine which systems have been impacte
 
 For help with incidents, including theft and loss, contact:
 
--   **DOM1/Quantum - Technology Service Desk**
+-   **Technology Service Desk - including DOM1, Quantum, and the Digital & Technology Service Desk**
 
     Tel: 0800 917 5148
 
-    **Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+    **Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
 
--   **Digital and Technology - Digital Service Desk**
-    -   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
-    -   Slack: `#digitalservicedesk`
 -   **HMPPS Information and security**
     -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
     -   Tel: 0203 334 0324

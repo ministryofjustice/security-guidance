@@ -10,7 +10,7 @@
       If you need equipment, you can request it.
       It can be provided quickly.
       Contact your Line Manager for details,
-      and to raise a request through the Service Desk.</p>
+      and to raise a request through the <ph conref="conrefs.dita#conrefs/servicedesk"/>.</p>
     <p>In unusual circumstances,
       it might not be possible to organise provision of equipment.
       In such cases,
@@ -60,5 +60,5 @@
       Using an <ph conref="conrefs.dita#conrefs/moj"/>-issued device is always preferable.</note>
     </body>
   </topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

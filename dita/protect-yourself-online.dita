@@ -23,5 +23,5 @@
     <p>For more information, see the <xref href="acceptable-use.dita" format="dita" platform="github">Acceptable Use guidance</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/user-access/" format="html" scope="external" platform="intranet">user access page</xref>.</p>
   </body>
   <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

@@ -15,7 +15,7 @@ Mobile roaming should be requested via the [Service-Now IT Catalogue](https://mo
 ##Documents
 
 * [Overseas Travel Guide](/documents/2020/03/overseas-travel-guide.docx).
-* [Overseas travel form](/documents/2020/03/overseas-travel-form.docx)
+* [Overseas travel form](/gs/overseas-travel-form.docx)
 * [Overseas working decision tree](/documents/2020/09/overseas-working-decision-tree.docx) – Step by step guide on how you can request to work remotely overseas during COVID-19
 
 ##Related pages

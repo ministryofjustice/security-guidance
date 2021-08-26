@@ -47,7 +47,7 @@ Suppliers **SHALL** discuss and agree these cases with the MoJ.
 
 ### Local end-user device data
 
-The MoJ acknowledges that corporate users typically “download” files, for example from local email client caching to file downloads using a web browser. These files might remain within `Downloads` folders, until explicitly deleted by the user.
+The MoJ acknowledges that corporate users typically "download" files, for example from local email client caching to file downloads using a web browser. These files might remain within `Downloads` folders, until explicitly deleted by the user.
 
 Suppliers **SHALL** include and address these types of data locations in data governance regimes.
 

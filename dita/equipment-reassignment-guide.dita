@@ -48,7 +48,7 @@
         <li><b>General users</b>: all other staff working for the
         <ph conref="conrefs.dita#conrefs/moj"/>.</li>
       </ol>
-      <p><q>All <ph conref="conrefs.dita#conrefs/moj"/> users</q> means
+      <p>"All <ph conref="conrefs.dita#conrefs/moj"/> users" means
       General users,
       Technical users,
       and Service Providers.</p>
@@ -92,7 +92,7 @@
         This <ph conref="conrefs.dita#conrefs/policyshall"/> happen before the
         device is made ready for reuse or destroyed.</p>
       <p>Any IT equipment which is no longer needed,
-        or has reached its <q>end of life</q>
+        or has reached its "end of life"
         <ph conref="conrefs.dita#conrefs/policyshall"/> have its data
         securely deleted and confirmed to be unreadable and unrecoverable before
         destruction,
@@ -106,19 +106,19 @@
       <p>Equipment <ph conref="conrefs.dita#conrefs/policycannot"/> be passed
       from one user to another without being formally reassigned.</p>
       <p>Equipment <ph conref="conrefs.dita#conrefs/policymust"/> be completely
-      <q>cleaned</q> to an <q>as-new</q> state before it is reused or reassigned.
+      "cleaned" to an "as-new" state before it is reused or reassigned.
       This means that all storage media in the device
       <ph conref="conrefs.dita#conrefs/policymust"/> be fully erased.
-      A sufficiently secure method for <q>wiping</q> equipment
+      A sufficiently secure method for "wiping" equipment
       <ph conref="conrefs.dita#conrefs/policymust"/> be used.
       Deleting visible files,
-      emptying files from the <q>Recycle Bin</q> of a computer,
+      emptying files from the "Recycle Bin" of a computer,
       or reformatting a device are not considered sufficiently secure methods for
       wiping equipment.
       The reason is that data recovery software might be used by a new owner to
-      <q>undelete</q> files or <q>unformat</q> a device.</p>
+      "undelete" files or "unformat" a device.</p>
       <p>To erase data securely,
-        use appropriate <q>data-shredding</q> tools for the media being erased.
+        use appropriate "data-shredding" tools for the media being erased.
         Typically,
         these tools do not simply delete data,
         they overwrite it multiple times.
@@ -166,5 +166,5 @@
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

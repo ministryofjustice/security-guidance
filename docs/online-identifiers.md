@@ -28,7 +28,7 @@ It could be because the user later provides personal data to the MoJ as part of 
 
 There might also be a legal route available to the MoJ to determine the identity behind an identifier. For example, by making a lawful request to an ISP to uncover the person associated with a dynamic IP address at a particular time.
 
-For more information on this, see the Information Commissioner's Office \(ICO\) [key definitions](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/key-definitions/), and “[Recital 30](https://www.privacy-regulation.eu/en/recital-30-GDPR.htm)” from the [Article 29 Working Group](https://en.wikipedia.org/wiki/Article_29_Data_Protection_Working_Party). There is also an informative article [here](https://www.fieldfisher.com/en/services/privacy-security-and-information/privacy-security-and-information-law-blog/can-a-dynamic-ip-address-constitute-personal-data).
+For more information on this, see the Information Commissioner's Office \(ICO\) [key definitions](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/key-definitions/), and "[Recital 30](https://www.privacy-regulation.eu/en/recital-30-GDPR.htm)" from the [Article 29 Working Group](https://en.wikipedia.org/wiki/Article_29_Data_Protection_Working_Party). There is also an informative article [here](https://www.fieldfisher.com/en/services/privacy-security-and-information/privacy-security-and-information-law-blog/can-a-dynamic-ip-address-constitute-personal-data).
 
 ## What does this mean for MoJ services?
 
@@ -38,7 +38,7 @@ It is important to think carefully about:
 -   How long information is retained.
 -   Who has access to the information.
 
-MoJ privacy notices on services must be clear about the information captured as part of a user's interaction. This includes “anonymous” interactions, such as simple browsing information about the services. Metadata like this must be included in the scope of privacy impact assessments for MoJ services.
+MoJ privacy notices on services must be clear about the information captured as part of a user's interaction. This includes "anonymous" interactions, such as simple browsing information about the services. Metadata like this must be included in the scope of privacy impact assessments for MoJ services.
 
 **Note:** Theoretically, privacy notices are only mandatory for externally-facing services. They are not required for internal services. However, it is undoubtedly good practice - and highly recommended - to apply the same approach, for consistency.
 

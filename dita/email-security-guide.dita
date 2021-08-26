@@ -42,7 +42,7 @@
         or on behalf of,
         the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
       </ul>
-      <p>These audiences are referred to as <q>technical users</q>.</p>
+      <p>These audiences are referred to as "technical users".</p>
     </body>
   </topic>
   <!--
@@ -80,7 +80,7 @@
           Instead,
           encourage and enable the use of cloud services such as Office 365.</li>
         <li>Make it easy for people to send suspected or actual phishing emails to
-          the Technology Service Desk,
+          the <ph conref="conrefs.dita#conrefs/servicedesk"/>,
           so that the emails can be handled safely.</li>
         <li>Keep operating systems up-to-date,
           to prevent susceptibility to viruses.</li>
@@ -181,7 +181,7 @@
           </li>
       </ul></p>
       <p>For individual accounts,
-        the help desk can configure delegate access.
+        the <ph conref="conrefs.dita#conrefs/servicedesk"/> can configure delegate access.
         Administrators of group inboxes can also configure delegate access to
         those inboxes.</p>
       <p>For further details,
@@ -190,5 +190,5 @@
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

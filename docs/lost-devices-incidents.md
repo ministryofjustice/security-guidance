@@ -19,12 +19,14 @@ If MoJ data or information is lost or compromised, you should always [report it 
 
 If you think your device is lost, stolen, 'hacked', or in some way compromised, you must:
 
-1.  Contact your Technology Service Desk. The analyst will ask the relevant questions and note responses on the ticket.
+1.  Contact your IT Service Desk. The analyst will ask the relevant questions and note responses on the ticket.
 
     **Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
     -   Tel: 0800 917 5148
     -   [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
+    **Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
+
 2.  Tell your line manager as soon as possible.
 3.  For a lost or stolen device, contact the Police and make sure you get the incident reference number.
 

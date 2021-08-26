@@ -16,7 +16,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <body>
         <p>Popular links for all users:
           <ul>
-            <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">General Apps Guidance</xref></li>
+            <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">General app guidance</xref></li>
             <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements Guide</xref></li>
             <li><xref href="official-official-sensitive.dita" format="dita">OFFICIAL, OFFICIAL-SENSITIVE</xref> classifications and handling</li>
             <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From overseas</xref></li>
@@ -25,6 +25,15 @@ has made for the products we operate, and our relationships with suppliers.</p>
         </p>
       </body>
     </topic>
+	<topic id="change-log">
+		<title>Change log</title>
+		<body>
+			<p>A 'change log' is <xref href="changelog.dita" format="dita">available</xref>.
+			It details the most recent changes to this information.</p>
+			<p>The changes are also available as <xref href="rss.xml" format="xml" platform="html">RSS</xref><xref href="https://security-guidance.service.justice.gov.uk/rss.xml" format="xml" scope="external" platform="epub pdf">RSS</xref>
+				or <xref href="atom.xml" format="xml" platform="html">Atom</xref><xref href="https://security-guidance.service.justice.gov.uk/atom.xml" format="xml" scope="external" platform="epub pdf">Atom</xref> feeds.</p>
+		</body>
+	</topic>
     <topic id="offline-content">
       <title>Offline content</title>
       <body>
@@ -47,11 +56,20 @@ has made for the products we operate, and our relationships with suppliers.</p>
                   <entry colname="col2"><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></entry>
                   <entry colname="col3"><xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref></entry>
                 </row>
-                <row>
-                  <entry colname="col1">Technical users. Includes lots of technical detail.</entry>
-                  <entry colname="col2"><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></entry>
-                  <entry colname="col3"><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></entry>
-                </row>
+				  <row>
+					  <entry colname="col1">Group Security. Contains Group Security policy and guidance.</entry>
+					  <entry colname="col2"><xref href="moj-guidance-gs.pdf" format="pdf" scope="peer">PDF</xref></entry>
+					  <entry colname="col3"><xref href="moj-guidance-gs.epub" format="epub" scope="peer">EPUB</xref></entry>
+				  </row>
+				  <row>
+					  <entry colname="col1">Technical users. Includes lots of technical detail.
+						  This document contains all content,
+					  including for 'All users' and from Group Security.
+					  Download this document if you want the complete set of published
+						  <ph conref="conrefs.dita#conrefs/moj"/> security policy and guidance.</entry>
+					  <entry colname="col2"><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></entry>
+					  <entry colname="col3"><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></entry>
+				  </row>
                 <!--
                 <row>
                   <entry colname="col1">Suppliers. Includes just the details of primary interest to suppliers.</entry>
@@ -63,19 +81,19 @@ has made for the products we operate, and our relationships with suppliers.</p>
             </tgroup>
           </table>
         The offline versions of this guidance are time-limited, and are <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
-        <p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, see <xref href="https://ministryofjustice.github.io/security-guidance/" format="html" scope="external">here</xref>.</p>
+        <p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, see <xref href="https://security-guidance.service.justice.gov.uk/" format="html" scope="external">here</xref>.</p>
       </body>
       </topic>
-		<topic id="searching" platform="html">
+		<topic id="searching" platform="epub pdf">
 			<title>Searching this content</title>
 			<body>
-				<p>The content of this site is searchable in two ways:
+				<p>The <ph conref="conrefs.dita#conrefs/moj"/> security guidance is searchable in two ways:
 				<ol>
 					<li>By searching for the word or phrase on your preferred search engine,
             and specifying this site:
-						<pre>site:https://ministryofjustice.github.io/security-guidance/</pre>
+						<pre>site:https://security-guidance.service.justice.gov.uk/</pre>
 						For example, to search for information about passwords, you might use the following search expression:
-						<pre>password site:https://ministryofjustice.github.io/security-guidance/</pre></li>
+						<pre>password site:https://security-guidance.service.justice.gov.uk/</pre></li>
 					<li>By downloading one of the offline versions and using the inbuilt search capability of your offline reader.</li>
 				</ol></p>
 			</body>
@@ -404,6 +422,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
+                <entry colname="col1" align="left"><xref href="mobile-device-and-remote-working-policy.dita" format="dita">Mobile Device and Remote Working Policy</xref></entry>
+                <entry colname="col2" align="right">All users (Policy)</entry>
+              </row>
+              <row>
                 <entry colname="col1" align="left"><xref href="remote-working.dita" format="dita">Remote Working</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
@@ -461,11 +483,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="security-clearance-appeals-policy.dita" format="dita" type="topic">Security clearance appeals policy</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
-        			<!-- The security vetting assessment need webpage is not required, only the download document.
               <row>
-                <entry colname="col1" align="left"><xref href="security-vetting-assessment-need.dita" format="dita" type="topic">National Security Vetting – Assessment of Need</xref></entry>
+                <entry colname="col1" align="left"><xref href="security-vetting-assessment-need.dita" format="dita" type="topic">Security vetting assessment of need</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
-              </row> -->
+              </row>
             </tbody></tgroup></table>
           </body>
         </topic>
@@ -592,7 +613,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
 				<row>
-					<entry colname="col1" align="left"><xref href="secure-disposal-of-it-equipment.dita" format="dita">Secure disposal of IT equipment</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/secure-disposal-of-it-equipment/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
+					<entry colname="col1" align="left"><xref href="secure-disposal-of-it-equipment.dita" format="dita">Secure disposal of IT equipment</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row>
+					<entry colname="col1" align="left"><xref href="secure-disposal-of-it-physical-and-on-premise.dita" format="dita">Secure disposal of IT - physical and on-premise</xref></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
             </tbody></tgroup></table>
@@ -769,6 +794,18 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <title>Secure areas</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
+				<row>
+					<entry colname="col1" align="left"><xref href="cctv-policy.dita" format="dita">CCTV policy</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row>
+					<entry colname="col1" align="left"><xref href="entry-and-exit-search-policy.dita" format="dita">Entry and exit search policy</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+              <row>
+                <entry colname="col1" align="left"><xref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" format="dita">Personal mail and parcel delivery policy and procedure</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
               <row>
                 <entry colname="col1" align="left"><xref href="physical-security-policy.dita" format="dita">Physical Security Policy</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
@@ -1347,5 +1384,5 @@ has made for the products we operate, and our relationships with suppliers.</p>
 			</body>
 		</topic>
   </topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

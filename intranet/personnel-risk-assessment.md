@@ -15,7 +15,7 @@ This guidance aims to help risk management practitioners to:
 
 ##Personnel security
 
-Personnel security is a system of policies and procedures that seek to manage the risk of people exploiting, or having the intention to exploit, their legitimate access to the organisation's assets for unauthorised purposes. Those who seek to exploit their legitimate access to systems and data are called “insiders” and they pose an “Insider Risk”.
+Personnel security is a system of policies and procedures that seek to manage the risk of people exploiting, or having the intention to exploit, their legitimate access to the organisation's assets for unauthorised purposes. Those who seek to exploit their legitimate access to systems and data are called "insiders" and they pose an "Insider Risk".
 
 A person who causes harm to the MoJ might have access to assets for one day a month, or every working day. They might be a permanent member of staff, or a contractor. Their access might be in a traditional office, or site setting, or remote. This guidance covers all people who are given legitimate access to MoJ assets and premises.
 
@@ -54,13 +54,13 @@ Managers and other risk management professionals **SHALL** follow the process se
 * [Ongoing personnel security: A good practice guide](https://www.cpni.gov.uk/system/files/documents/d0/d2/ongoing-personnel-security-a-good-practice-guide-edition-3.pdf).
 * [Personnel security risk assessment](https://www.cpni.gov.uk/system/files/documents/46/06/Personnel-security-risk-assessment-a-guide-4th-edition.pdf).
 
-##Contacts
+##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 
 ##Feedback
 
-If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

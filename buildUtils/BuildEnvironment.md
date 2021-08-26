@@ -47,6 +47,11 @@ There are (currently) two options for editing DITA files:
 2. During a build, Microsoft Word versions of the content are created, and placed in the `dita/worddocs` directory.
 3. (Optional) To build a Microsoft Word format document from the DITA source, run the command:<br/>`ant -lib $DITA_DIR/config -f builder.ant compile_word`.
 
+## Enable Python build tooling
+
+1. Install the PyPDF2 component. Do this by running the following command in a terminal:</br>`pip3 install --user PyPDF2`
+2. Install the RSS feegen component. Do this by running the following command in a terminal:</br>`pip3 install --user feedgen`
+
 ## Running a local DITA build
 
 1. Open a terminal.

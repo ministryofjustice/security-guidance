@@ -56,7 +56,7 @@
         <li><b>General users</b>: all other staff working for the
         <ph conref="conrefs.dita#conrefs/moj"/>.</li>
       </ol></p>
-      <p>The phrase <q>all <ph conref="conrefs.dita#conrefs/moj"/> users</q>
+      <p>The phrase "all <ph conref="conrefs.dita#conrefs/moj"/> users"
       refers to General users,
       Technical users,
       and Service Providers as defined previously.</p>
@@ -389,5 +389,5 @@
   </topic>
 -->
   <topic id="incidents-and-contact-details" conref="conrefs.dita#incidents-and-contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

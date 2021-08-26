@@ -22,11 +22,11 @@
   display: inline-block;
 
   @include screen {
-    background-image: file-url('gov.uk_logotype_crown.png');
+    background-image: file-url('moj-intranet-logo-invert.png');
     background-repeat: no-repeat;
 
     @include device-pixel-ratio {
-      background-image: file-url('gov.uk_logotype_crown-2x.png');
+      background-image: file-url('moj-intranet-logo-2x-invert.png');
       background-size: 36px 32px;
     }
 

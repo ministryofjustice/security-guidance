@@ -30,7 +30,7 @@
                 The customer of an IT service provider is the person or group
                 who defines and agrees the service level targets.
                 The term customers is also sometimes informally used to mean users,
-                for example <q>this is a customer focused organisation</q>.</entry>
+                for example "this is a customer focused organisation".</entry>
             </row>
             <row>
               <entry colname="col1">Incident</entry>
@@ -119,5 +119,5 @@
 			</table></body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

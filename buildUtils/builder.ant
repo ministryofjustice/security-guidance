@@ -32,17 +32,26 @@
 	<property name="jekyll-baseline" location="jekyll-baseline"/>
 	<property name="ost" location="ost"/>
 	<!--
-	<property name="ostbuild" location="${intranet}/ost"/>
+	<property name="ostbuild" location="${docs}/ost"/>
 	<property name="culture" location="culture"/>
-	<property name="culturebuild" location="ktt"/>
+	<property name="culturebuild" location="${docs}/culture"/>
 	-->
 	<property name="redirects" location="redirects"/>
 	<!-- Ensure that environment variable DITA_DIR is set to
 		the installation directory for the DITA Open Source Toolkit -->
 	<property name="dita.dir" location="${env.DITA_DIR}"/>
 
+	<target name="clean"
+			description="clean up">
+		<!-- Delete all the output folders, to ensure clean output. -->
+		<delete dir="${ditabuild}"/>
+		<delete dir="${build}"/>
+		<delete dir="${docs}"/>
+		<delete dir="${intranet}"/>
+	</target>
+
 	<target name="init" depends="clean">
-		<!-- Create interim build source. -->
+		<!-- Create interim dita source. -->
 		<mkdir dir="${ditabuild}"/>
 		<copy todir="${ditabuild}" >
 			<fileset dir="${ditasrc}"/>
@@ -83,6 +92,21 @@
 		<mkdir dir="${build}"/>
 		<!-- Create the docs directory structure used for publication -->
 		<mkdir dir="${docs}"/>
+	</target>
+
+	<target name="policy_builder"
+			description="create standalone PDF of a given policy document.">
+		<echo message="Building policy: ${thePolicy}"/>
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${ditabuild}/${thePolicy}.ditamap"/>
+			<property name="args.filter" value="${ditabuild}/intranet.ditaval:${ditabuild}/policy.ditaval:${ditabuild}/pdf.ditaval:${ditabuild}/audience-tech.ditaval"/>
+			<property name="output.dir" location="${intranet}"/>
+			<property name="transtype" value="pdf"/>
+		</ant>
+		<exec dir="buildUtils" executable="python3">
+			<arg line="combinator.py ../srcMedia/${thePolicy}.pdf ../intranet/${thePolicy}.pdf ${temp.file}"/>
+		</exec>
+		<copy file="${temp.file}" tofile="${intranet}/${thePolicy}.pdf" overwrite="true"/>
 	</target>
 
 	<target name="addLinkTarget">
@@ -133,10 +157,22 @@
 		<mkdir dir="${intranet}"/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${ditabuild}/moj-guidance-intranet.ditamap"/>
-			<property name="args.filter" value="${ditabuild}/intranet.ditaval:${ditabuild}/html.ditaval:${ditabuild}/audience-basic.ditaval"/>
+			<property name="args.filter" value="${ditabuild}/intranet.ditaval:${ditabuild}/notpolicy.ditaval:${ditabuild}/html.ditaval:${ditabuild}/audience-basic.ditaval"/>
 			<property name="output.dir" location="${intranet}"/>
 			<property name="transtype" value="markdown_github"/>
 		</ant>
+		<antcall target="policy_builder">
+            <param name="thePolicy" value="policy-it-policy"/>
+        </antcall>
+		<antcall target="policy_builder">
+            <param name="thePolicy" value="policy-mobile-device"/>
+        </antcall>
+		<antcall target="policy_builder">
+            <param name="thePolicy" value="policy-physical-security"/>
+        </antcall>
+		<antcall target="policy_builder">
+            <param name="thePolicy" value="policy-information-classification"/>
+        </antcall>
 		<copy todir="${intranet}/gs" >
 			<fileset dir="${basedir}/gs"/>
 		</copy>
@@ -153,9 +189,17 @@
 
 	<target name="compile_md" depends="init"
 				description="compile the source into markdown">
+		<!-- Prepare RSS and Atom feeds, and Changelog file. -->
+		<exec dir="buildUtils" executable="python3">
+			<arg line="generateRSS.py"/>
+		</exec>
+		<move file="${buildUtils}/rss.xml" todir="${ditabuild}" overwrite="true"/>
+		<move file="${buildUtils}/atom.xml" todir="${ditabuild}" overwrite="true"/>
+		<move file="${buildUtils}/changelog.dita" todir="${ditabuild}" overwrite="true"/>
+		<echo message="RSS, Atom, and ChangeLog generation complete."/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${ditabuild}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/html.ditaval:${ditabuild}/audience-tech.ditaval"/>
+			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/notpolicy.ditaval:${ditabuild}/html.ditaval:${ditabuild}/audience-tech.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="markdown_github"/>
 		</ant>
@@ -172,7 +216,7 @@
 				description="compile the source into HTML5 prior to conversion to Word format, for Intranet publication.">
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${ditabuild}/moj-guidance-intranet.ditamap"/>
-			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/html.ditaval:${ditabuild}/audience-allusers.ditaval"/>
+			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/notpolicy.ditaval:${ditabuild}/html.ditaval:${ditabuild}/audience-allusers.ditaval"/>
 			<property name="output.dir" location="${buildhtml}"/>
 			<property name="transtype" value="html5"/>
 		</ant>
@@ -213,15 +257,33 @@
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
-		<!-- Rename this file to be Tech users guide. -->
-		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-tech.pdf" overwrite="true"/>
+		<!-- Top and tail the Tech users guide. -->
+		<exec dir="buildUtils" executable="python3">
+			<arg line="combinator.py ../srcMedia/moj-guidance-tech.pdf ${build}/moj-guidance.pdf ${temp.file}"/>
+		</exec>
+		<move file="${temp.file}" tofile="${build}/moj-guidance-tech.pdf" overwrite="true"/>
 		<echo message="Technical users PDF build complete."/>
+
+		<!-- Now build the Group Security PDF. -->
+		<echo message="Build PDF: Group Security"/>
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${ditabuild}/moj-guidance-gs.ditamap"/>
+			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/pdf.ditaval:${ditabuild}/audience-gs.ditaval"/>
+			<property name="output.dir" location="${build}"/>
+			<property name="transtype" value="pdf"/>
+		</ant>
+		<!-- Top and tail the Group Security guide. -->
+		<exec dir="buildUtils" executable="python3">
+			<arg line="combinator.py ../srcMedia/moj-guidance-gs.pdf ${build}/moj-guidance-gs.pdf ${temp.file}"/>
+		</exec>
+		<move file="${temp.file}" tofile="${build}/moj-guidance-gs.pdf" overwrite="true"/>
+		<echo message="Group Security PDF build complete."/>
 
 		<!-- Next build the Suppliers PDF, containing just their content.
 		<echo message="Build PDF: Suppliers"/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${ditabuild}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/pdf.ditaval:${ditabuild}/audience-suppliers.ditaval"/>
+			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/notpolicy.ditaval:${ditabuild}/pdf.ditaval:${ditabuild}/audience-suppliers.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
@@ -233,7 +295,7 @@
 		<echo message="Build PDF: Intranet"/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${ditabuild}/moj-guidance-intranet.ditamap"/>
-			<property name="args.filter" value="${ditabuild}/intranet.ditaval:${ditabuild}/pdf.ditaval:${ditabuild}/audience-basic.ditaval"/>
+			<property name="args.filter" value="${ditabuild}/intranet.ditaval:${ditabuild}/notpolicy.ditaval:${ditabuild}/pdf.ditaval:${ditabuild}/audience-basic.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
@@ -244,10 +306,15 @@
 		<echo message="Build PDF: All users"/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${ditabuild}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/pdf.ditaval:${ditabuild}/audience-basic.ditaval"/>
+			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/notpolicy.ditaval:${ditabuild}/pdf.ditaval:${ditabuild}/audience-basic.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
+		<!-- Top and tail the all users guide. -->
+		<exec dir="buildUtils" executable="python3">
+			<arg line="combinator.py ../srcMedia/moj-guidance.pdf ${build}/moj-guidance.pdf ${temp.file}"/>
+		</exec>
+		<move file="${temp.file}" tofile="${build}/moj-guidance.pdf" overwrite="true"/>
 		<echo message="All users PDF build complete."/>
 
 		<delete dir='${_dita.map.output.dir}'/>
@@ -265,7 +332,7 @@
 		<!--
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${ditabuild}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/epub.ditaval:${ditabuild}/audience-tech.ditaval"/>
+			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/notpolicy.ditaval:${ditabuild}/epub.ditaval:${ditabuild}/audience-tech.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="epub"/>
 		</ant>
@@ -281,12 +348,30 @@
 		<move file="${build}/moj-guidance.epub" tofile="${build}/moj-guidance-tech.epub" overwrite="true"/>
 		-->
 
+		<!-- Next build the Group Security EPUB, containing their content. -->
+		<echo message="Build EPUB: Group Security."/>
+		<!--
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${ditabuild}/moj-guidance-gs.ditamap"/>
+			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/notpolicy.ditaval:${ditabuild}/epub.ditaval:${ditabuild}/audience-gs.ditaval"/>
+			<property name="output.dir" location="${build}"/>
+			<property name="transtype" value="epub"/>
+		</ant>
+		-->
+		<exec dir="${ditabuild}" executable="ditac" output="build-gs.txt">
+			<arg line="-images img -p xsl-resources-directory res -filter audience-gs-ditac.ditaval -format epub3 -index -v out/moj-guidance-gs.epub moj-guidance-gs.ditamap"/>
+		</exec>
+		<!-- Report results -->
+		<loadfile property="epub-gs" srcFile="build-gs.txt" />
+		<echo message="${epub-gs}" />
+		<delete file="build-gs.txt"/>
+
 		<!-- Next build the Suppliers EPUB, containing just their content. -->
 		<!--
 		<echo message="Build EPUB: Suppliers."/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${ditabuild}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/epub.ditaval:${ditabuild}/audience-suppliers.ditaval"/>
+			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/notpolicy.ditaval:${ditabuild}/epub.ditaval:${ditabuild}/audience-suppliers.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="epub"/>
 		</ant>
@@ -306,7 +391,7 @@
 		<!--
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${ditabuild}/moj-guidance.ditamap"/>
-			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/epub.ditaval:${ditabuild}/audience-basic.ditaval"/>
+			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/notpolicy.ditaval:${ditabuild}/epub.ditaval:${ditabuild}/audience-basic.ditaval"/>
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="epub"/>
 		</ant>
@@ -395,15 +480,6 @@
 		</copy>
 	</target>
 
-	<target name="clean"
-				description="clean up">
-		<!-- Delete the ${build} and ${dist} directory trees -->
-		<delete dir="${ditabuild}"/>
-		<delete dir="${build}"/>
-		<delete dir="${docs}"/>
-		<delete dir="${intranet}"/>
-	</target>
-
 	<target name="preview" depends="compile_md" description="Minimal build for local preview purposes.">
 		<delete dir="${docs}"/>
 		<mkdir dir="${docs}"/>
@@ -420,3 +496,30 @@
 		<copy file="${docs}/cyber-and-technical-security-guidance.md" tofile="${docs}/index.md" overwrite="true"/>
 	</target>
 </project>
+
+
+<!--
+
+Old build instructions
+kept for reference purposes.
+
+	<copy todir="${ditabuild}/ost" >
+		<fileset dir="${ost}"/>
+	</copy>
+	<ant antfile="${dita.dir}/build.xml">
+		<property name="args.input" value="${ost}/ost.ditamap"/>
+		<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/html.ditaval:${ditabuild}/audience-tech.ditaval"/>
+		<property name="output.dir" location="${ditabuild}/ost"/>
+		<property name="transtype" value="dita"/>
+	</ant>
+	<replaceregexp match=' specializations=""' replace="" flags="g" >
+		<fileset dir="${ditabuild}/ost" includes="**/*.md"/>
+	</replaceregexp>
+	<move todir="${ditabuild}/ost">
+		<fileset dir="${ditabuild}/ost">
+			<exclude name="**/*dita*"/>
+		</fileset>
+		<mapper type="glob" from="*.md" to="*.dita"/>
+	</move>
+
+-->

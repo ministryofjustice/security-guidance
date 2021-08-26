@@ -1,4 +1,5 @@
-title: MoJ Security Guidance
+title: "Security Guidance"
+show_govuk_logo: true
 
 plugins:
   - jekyll-redirect-from

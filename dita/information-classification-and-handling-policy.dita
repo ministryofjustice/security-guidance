@@ -59,7 +59,7 @@
       <p>The Asset Owner is responsible for determining the classification that applies to an asset.</p>
       <p>All users are responsible for applying the appropriate classification to information assets created or handled on an IT system,
         where a pre-existing classification does not exist.
-        <note>As outlined in the <xref href="it-security-policy-overview.dita" format="dita"><ph conref="conrefs.dita#conrefs/moj"/> IT Security Policy</xref>,
+        <note>As outlined in the <xref href="it-security-policy-overview.dita" format="dita" platform="github"><ph conref="conrefs.dita#conrefs/moj"/> IT Security Policy</xref><ph platform="intranet"><ph conref="conrefs.dita#conrefs/moj"/> IT Security Policy</ph>,
           all <ph conref="conrefs.dita#conrefs/moj"/> data and assets
           must have IT security controls designed and implemented to protect Confidentiality,
           Integrity, 
@@ -90,5 +90,5 @@
   </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

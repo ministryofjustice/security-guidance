@@ -8,5 +8,5 @@
     <p>The definitive list of Acceptable Use Policy statements is available <xref href="it-acceptable-use-policy.dita" format="dita">here</xref>.</p>
   </body>
 	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

@@ -9,5 +9,5 @@
 		<p>This guidance is dated: <ph conref="tstamp.dita#tstamp/tstamp"/>.</p>
 		<p>It is time-limited, and is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
 </body>
-<topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+<topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

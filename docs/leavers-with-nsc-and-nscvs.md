@@ -4,7 +4,7 @@ This information applies to people leaving the Ministry of Justice \(MoJ\), who 
 
 Staff or contractors that hold clearance of any level **SHALL** attend an exit interview with their manager before they leave the MoJ. Although these interviews are available for all staff, they are compulsory for those with Counter Terrorist Clearance \(CTC\) or Security Check \(SC\).
 
-If the leaver holds Developed Vetting \(DV\) or SC enhanced level, and has been STRAP inducted, they **SHALL** attend a mandatory STRAP debriefing interview with [Cluster 2 STRAP team](mailto:STRAPTeam@cluster2security.gov.uk). They **SHALL** also sign a confidentiality agreement and a “Declaration of Cessation of `TOP SECRET` STRAP Access”.
+If the leaver holds Developed Vetting \(DV\) or SC enhanced level, and has been STRAP inducted, they **SHALL** attend a mandatory STRAP debriefing interview with [Cluster 2 STRAP team](mailto:STRAPTeam@cluster2security.gov.uk). They **SHALL** also sign a confidentiality agreement and a "Declaration of Cessation of `TOP SECRET` STRAP Access".
 
 ## NSVCs who leave
 

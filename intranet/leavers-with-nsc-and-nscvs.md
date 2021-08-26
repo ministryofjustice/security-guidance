@@ -4,7 +4,7 @@ This information applies to people leaving the Ministry of Justice (MoJ), who ha
 
 Staff or contractors that hold clearance of any level **SHALL** attend an exit interview with their manager before they leave the MoJ. Although these interviews are available for all staff, they are compulsory for those with Counter Terrorist Clearance (CTC) or Security Check (SC).
 
-If the leaver holds Developed Vetting (DV) or SC enhanced level, and has been STRAP inducted, they **SHALL** attend a mandatory STRAP debriefing interview with [Cluster 2 STRAP team](mailto:STRAPTeam@cluster2security.gov.uk). They **SHALL** also sign a confidentiality agreement and a “Declaration of Cessation of `TOP SECRET` STRAP Access”.
+If the leaver holds Developed Vetting (DV) or SC enhanced level, and has been STRAP inducted, they **SHALL** attend a mandatory STRAP debriefing interview with [Cluster 2 STRAP team](mailto:STRAPTeam@cluster2security.gov.uk). They **SHALL** also sign a confidentiality agreement and a "Declaration of Cessation of `TOP SECRET` STRAP Access".
 
 **Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
 
@@ -26,13 +26,13 @@ When a member of staff with clearance leaves their department, the manager **SHA
 
 * [End or change employment](end-or-change-of-employment.md).
 
-##Contacts
+##Contact details
 
-For any further questions relating to group security matters, contact: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk). For general security questions or concerns, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to group security matters, contact: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk). For general security questions or concerns, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 
 ##Feedback
 
-If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

@@ -4,7 +4,7 @@ This guidance applies to all staff and contractors who work for the Ministry of 
 
 A personal device is any desktop, laptop, tablet, phone, external drive or similar device that the MoJ does not own.
 
-Not everyone has access to an MoJ device for remote use. If you need equipment, you can request it. It can be provided quickly. Contact your Line Manager for details, and to raise a request through the Service Desk.
+Not everyone has access to an MoJ device for remote use. If you need equipment, you can request it. It can be provided quickly. Contact your Line Manager for details, and to raise a request through the IT Service Desk.
 
 In unusual circumstances, it might not be possible to organise provision of equipment. In such cases, you can request access to an MoJ virtual environment.
 
@@ -36,5 +36,5 @@ Request a virtual environment through the `Creation of WVD instances` product of
 
 ##Feedback
 
-If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

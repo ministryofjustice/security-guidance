@@ -44,7 +44,7 @@
         by making a lawful request to an ISP to uncover the person associated with a dynamic IP address at a particular time.</p>
       <p>For more information on this,
         see the Information Commissioner's Office (ICO) <xref href="https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/key-definitions/" format="html" scope="external">key definitions</xref>,
-        and <q><xref href="https://www.privacy-regulation.eu/en/recital-30-GDPR.htm" format="htm" scope="external">Recital 30</xref></q>
+        and "<xref href="https://www.privacy-regulation.eu/en/recital-30-GDPR.htm" format="htm" scope="external">Recital 30</xref>"
         from the <xref href="https://en.wikipedia.org/wiki/Article_29_Data_Protection_Working_Party" format="html" scope="external">Article 29 Working Group</xref>.
         There is also an informative article <xref href="https://www.fieldfisher.com/en/services/privacy-security-and-information/privacy-security-and-information-law-blog/can-a-dynamic-ip-address-constitute-personal-data" format="html" scope="external">here</xref>.</p>
     </body>
@@ -59,7 +59,7 @@
           <li>Who has access to the information.</li>
         </ul></p>
       <p><ph conref="conrefs.dita#conrefs/moj"/> privacy notices on services must be clear about the information captured as part of a user's interaction.
-        This includes <q>anonymous</q> interactions,
+        This includes "anonymous" interactions,
         such as simple browsing information about the services.
         Metadata like this must be included in the scope of privacy impact assessments for <ph conref="conrefs.dita#conrefs/moj"/> services.</p>
       <note>Theoretically,
@@ -71,5 +71,5 @@
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
