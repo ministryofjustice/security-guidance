@@ -209,6 +209,9 @@
 		<replaceregexp match="file\:///" replace="" flags="g" >
 			<fileset dir="${build}" includes="**/*.md"/>
 		</replaceregexp>
+		<replaceregexp match="\(downloads" replace="\(../downloads" flags="g" >
+			<fileset dir="${build}/ost" includes="**/*.md"/>
+		</replaceregexp>
 	</target>
 
 	<!--

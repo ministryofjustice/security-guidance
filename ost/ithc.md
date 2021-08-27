@@ -88,7 +88,7 @@ and confirmed as much as possible,
 and prior to submission.
 
 An overview of the ITHC Workflow is provided
-as a [download](https://github.com/ministryofjustice/security-guidance/blob/ithc0618/ost/downloads/ITHC%20workflow%20process.pptx),
+as a [download](downloads/ITHC%20workflow%20process.pptx),
 and can be seen in the following diagram:
 
 ![IT Health Check Process workflow](images/workflow.jpg)

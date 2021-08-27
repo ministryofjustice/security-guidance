@@ -875,10 +875,12 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <title>Protection from malware</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
+				<!--
               <row>
                 <entry colname="col1" align="left"><xref href="ost/ithc.md" format="markdown">IT Health Checks</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
+              -->
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide (Overview)</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
@@ -899,6 +901,16 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="ransomware.dita" format="dita">Ransomware</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
+				<!--
+				<row>
+					<entry colname="col1" align="left"><xref href="ost/test-cancellations-and-delays.md" format="markdown">Tests cancellations and delays</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row>
+					<entry colname="col1" align="left"><xref href="ost/pentest.md" format="markdown">What is a penetration test?</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				-->
             </tbody></tgroup></table>
           </body>
         </topic>

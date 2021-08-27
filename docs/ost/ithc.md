@@ -53,7 +53,7 @@ It is recommended that an approximate timeline of 8 weeks is considered in your 
 
 Changes to scope can be reviewed and considered. However, there is a risk that this will affect delivery dates, ITHC Provider availability, and end quote price. It is strongly recommended that ITHC scope is understood and confirmed as much as possible, and prior to submission.
 
-An overview of the ITHC Workflow is provided as a [download](https://github.com/ministryofjustice/security-guidance/blob/ithc0618/ost/downloads/ITHC%20workflow%20process.pptx), and can be seen in the following diagram:
+An overview of the ITHC Workflow is provided as a [download](../downloads/ITHC%20workflow%20process.pptx), and can be seen in the following diagram:
 
 ![IT Health Check Process workflow](images/workflow.jpg)
 
