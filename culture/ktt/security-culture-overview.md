@@ -17,14 +17,14 @@ The benefits of an effective security culture include:
 - Increased compliance with protective security measures.
 - Awareness of the most relevant security threats.
 - Employees are more likely to think and behave in a security-conscious manner.
-​​​​​​
-​Within these pages, you’ll find a range of training and awareness materials, and events, designed to help us develop our security culture. We are encouraging people to actively share these across the Department, to build awareness of the little things we can all do to help.
+​​​​​​​
+Within these pages, you’ll find a range of training and awareness materials, and events, designed to help us develop our security culture. We are encouraging people to actively share these across the Department, to build awareness of the little things we can all do to help.
 
 ## Links
 
 - [Security Culture Programme](security-culture-programme.md)
 - [Security Champions](security-champions.md)
+- [Events](events.md)
 - [Coming Back to the Office Securely](coming-back-to-the-office-securely.md)
 - [Secure Working Checklist](secure-working-checklist.md)
-- [Events](events.md)
-- [Resources to share](resources.md)
+- [Resources to Share](resources.md)

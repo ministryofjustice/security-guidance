@@ -16,7 +16,7 @@ We’ve developed a Security Culture Programme that we are seeking to roll out a
 In order to improve security behaviours in the Ministry of Justice (MoJ), we need to gain
 greater insight into the issues from our employee’s perspective. We're currently
 piloting a security culture survey in Digital &amp; Technology, and plan to roll
-this out MoJ-wide after the summer. Please contact [Dawn Carrington](mailto:dawn.carrington@justice.gov.uk) if you
+this out MoJ-wide after the summer. Please contact [Olivia Langton](mailto:oliovia.langton@justice.gov.uk) if you
 are happy to promote this in your team.
 
 ## Strengthening our JML Processes
@@ -42,7 +42,7 @@ joiners in their first week:
 
 ## Leader's Induction
 
-We have a Leader’s security induction, which is usually delivered on a 121 basis for new leaders / SCS (currently via MS teams). Please contact us if you would like to attend.
+We have a Leader’s security induction, which is usually delivered on a 121 basis for new leaders/SCS (currently via MS teams). Please contact us if you would like to attend.
 
 ## Awareness & Training
 

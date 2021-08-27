@@ -32,9 +32,9 @@
 
 ## Links
 
-- @oursecurityculture@
-- @securitycultureprogramme@
-- @securitychampions@
-- @comingbacktotheofficesecurely@
-- @secureworkingchecklist@
-- @events@
+- [Our Security Culture](security-culture-overview.md)
+- [Security Culture Programme](security-culture-programme.md)
+- [Events](events.md)
+- [Security Champions](security-champions.md)
+- [Coming Back to the Office Securely](coming-back-to-the-office-securely.md)
+- [Secure Working Checklist](secure-working-checklist.md)
