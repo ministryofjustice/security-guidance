@@ -424,7 +424,6 @@
                 Classification and Handling Policy</xref>.</dd>
           </dlentry>
         </dl>
-        <!-- HERE -->
         <p>Email is a major source of malware,
           and a route into the <ph conref="conrefs.dita#conrefs/moj"/> for criminal organisations.
           It <ph conref="conrefs.dita#conrefs/policymight"/> be used to defraud staff,
@@ -485,7 +484,8 @@
             <ph audience="audience-basic audience-tech"><xref href="remote-working.dita" format="dita">Remote
               Working</xref></ph><ph audience="audience-suppliers">applicable remote working</ph> guidance,
             and <ph conref="conrefs.dita#conrefs/policyshall"/> confirm that they have read and understood it before
-            being provided with any remote access devices or equipment such as an RSA token.</dd>
+            being provided with any remote access devices or equipment,
+            such as an encryption or access control token.</dd>
         </dlentry>
         <dlentry>
           <dt>POL.ITAUP.026</dt>
@@ -556,7 +556,7 @@
           <dt>POL.ITAUP.028</dt>
           <dd>All Users <ph conref="conrefs.dita#conrefs/policyshall"/> be aware that business communication such as
             email mailboxes <ph conref="conrefs.dita#conrefs/policymight"/> be accessed if they are absent from work.
-          This access can only be requested through,
+          This access is normally requested through,
             and authorised by,
             the User's line manager.
             The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/ciso"/> and
@@ -596,13 +596,13 @@
           <dt>POL.ITAUP.030</dt>
           <dd>A supplier based in the UK or EEA,
             and which stores client data in the UK or EEA,
-            <ph conref="conrefs.dita#conrefs/policyshould"/> be considered first.</dd>
+            <ph conref="conrefs.dita#conrefs/policyshould"/> be considered first and preferred where possible.</dd>
         </dlentry>
         <dlentry>
           <dt>POL.ITAUP.031</dt>
           <dd>If an alternative supplier cannot be sourced,
             then a Standard Contractual Clause (SCC) and a Transfer Impact Assessment (TIA)
-            <ph conref="conrefs.dita#conrefs/policyshall"/> be completed..</dd>
+            <ph conref="conrefs.dita#conrefs/policyshall"/> be completed.</dd>
         </dlentry>
       </dl>
       <p>These documents are reviewed by the <ph conref="conrefs.dita#conrefs/privacyemailtext"/>,

@@ -73,7 +73,7 @@ In accordance with HMG IAS4 \[Ref, 2\] encryption is only provided for fully acc
     The use of secure email **must be** used a primary method of communication for all and any communications from suppliers in respect of cryptography to the MoJ Crypto Custodian, Communications Security Officer \(COMSO\) and IT Security Officer \(ITSO\) regardless of whether the protective marking is UNCLASSIFIED or NOT PROTECTIVELY MARKED and up to RESTRICTED.
 
 
-Acceptable secure e-mail methods are GSi, xGSi and CJSM accounts. All queries towards CESG must be forwarded to the MoJ Crypto Custodian and/or COMSO. CESG must not be contacted direct.
+Acceptable secure email methods are GSi, xGSi and CJSM accounts. All queries towards CESG must be forwarded to the MoJ Crypto Custodian and/or COMSO. CESG must not be contacted direct.
 
 ### New requirements for encryption and/or hardware
 
