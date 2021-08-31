@@ -165,6 +165,14 @@
 
 	<target name="compile_md" depends="init"
 				description="compile the source into markdown">
+		<!-- Prepare RSS and Atom feeds, and Changelog file. -->
+		<exec dir="buildUtils" executable="python3">
+			<arg line="generateRSS.py"/>
+		</exec>
+		<move file="${buildUtils}/rss.xml" todir="${ditabuild}" overwrite="true"/>
+		<move file="${buildUtils}/atom.xml" todir="${ditabuild}" overwrite="true"/>
+		<move file="${buildUtils}/changelog.dita" todir="${ditabuild}" overwrite="true"/>
+		<echo message="RSS, Atom, and ChangeLog generation complete."/>
 		<ant antfile="${dita.dir}/build.xml">
 			<property name="args.input" value="${ditabuild}/moj-guidance.ditamap"/>
 			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/notpolicy.ditaval:${ditabuild}/html.ditaval:${ditabuild}/audience-tech.ditaval"/>
@@ -225,9 +233,27 @@
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
-		<!-- Rename this file to be Tech users guide. -->
-		<move file="${build}/moj-guidance.pdf" tofile="${build}/moj-guidance-tech.pdf" overwrite="true"/>
+		<!-- Top and tail the Tech users guide. -->
+		<exec dir="buildUtils" executable="python3">
+			<arg line="combinator.py ../srcMedia/moj-guidance-tech.pdf ${build}/moj-guidance.pdf ${temp.file}"/>
+		</exec>
+		<move file="${temp.file}" tofile="${build}/moj-guidance-tech.pdf" overwrite="true"/>
 		<echo message="Technical users PDF build complete."/>
+
+		<!-- Now build the Group Security PDF. -->
+		<echo message="Build PDF: Group Security"/>
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${ditabuild}/moj-guidance-gs.ditamap"/>
+			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/pdf.ditaval:${ditabuild}/audience-gs.ditaval"/>
+			<property name="output.dir" location="${build}"/>
+			<property name="transtype" value="pdf"/>
+		</ant>
+		<!-- Top and tail the Group Security guide. -->
+		<exec dir="buildUtils" executable="python3">
+			<arg line="combinator.py ../srcMedia/moj-guidance-gs.pdf ${build}/moj-guidance-gs.pdf ${temp.file}"/>
+		</exec>
+		<move file="${temp.file}" tofile="${build}/moj-guidance-gs.pdf" overwrite="true"/>
+		<echo message="Group Security PDF build complete."/>
 
 		<!-- Next build the Suppliers PDF, containing just their content.
 		<echo message="Build PDF: Suppliers"/>
@@ -260,6 +286,11 @@
 			<property name="output.dir" location="${build}"/>
 			<property name="transtype" value="pdf"/>
 		</ant>
+		<!-- Top and tail the all users guide. -->
+		<exec dir="buildUtils" executable="python3">
+			<arg line="combinator.py ../srcMedia/moj-guidance.pdf ${build}/moj-guidance.pdf ${temp.file}"/>
+		</exec>
+		<move file="${temp.file}" tofile="${build}/moj-guidance.pdf" overwrite="true"/>
 		<echo message="All users PDF build complete."/>
 
 		<delete dir='${_dita.map.output.dir}'/>
@@ -292,6 +323,24 @@
 		<!-- Rename this file to be Tech users guide.
 		<move file="${build}/moj-guidance.epub" tofile="${build}/moj-guidance-tech.epub" overwrite="true"/>
 		-->
+
+		<!-- Next build the Group Security EPUB, containing their content. -->
+		<echo message="Build EPUB: Group Security."/>
+		<!--
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${ditabuild}/moj-guidance-gs.ditamap"/>
+			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/notpolicy.ditaval:${ditabuild}/epub.ditaval:${ditabuild}/audience-gs.ditaval"/>
+			<property name="output.dir" location="${build}"/>
+			<property name="transtype" value="epub"/>
+		</ant>
+		-->
+		<exec dir="${ditabuild}" executable="ditac" output="build-gs.txt">
+			<arg line="-images img -p xsl-resources-directory res -filter audience-gs-ditac.ditaval -format epub3 -index -v out/moj-guidance-gs.epub moj-guidance-gs.ditamap"/>
+		</exec>
+		<!-- Report results -->
+		<loadfile property="epub-gs" srcFile="build-gs.txt" />
+		<echo message="${epub-gs}" />
+		<delete file="build-gs.txt"/>
 
 		<!-- Next build the Suppliers EPUB, containing just their content. -->
 		<!--

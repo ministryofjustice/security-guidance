@@ -37,7 +37,7 @@ When speaking to an individual, remember:
 * Do not put off talking to an individual for fear of not knowing what to do or say.
 * Unusual behaviour might be nothing to do with security issues, but might be for several reasons. Listen to the person, and, if possible, offer your support. It might be appropriate to refer them to a [support group available within](/guidance/hr/support-and-wellbeing/employee-assistance-programme/) the MoJ.
 
-> For more information, see the MoJ [Support and wellbeing](/guidance/hr/support-and-wellbeing/) resources.
+**Note:** For more information, see the MoJ [Support and wellbeing](/guidance/hr/support-and-wellbeing/) resources.
 
 Managing security clearances requires active conversations between managers and individuals throughout the year, and prompt reporting of any issues of concern: [Reporting personal circumstance changes](reporting-personal-circumstance-changes.md). Whilst there are formal renewal periods, clearances may be reviewed, suspended, or withdrawn at any time.
 
@@ -64,13 +64,13 @@ There is a good chance that a contractor is not familiar with the MoJ's security
 * As part of your role, you **SHOULD** seek to get to know your contractor or consultant, and discuss any behavioural changes.
 * Although contractors often have a short contract, that might or might not be renewed, they are still given security clearance for a number of years: 5 years for CTC, and 7 years for SC and DV. If their contract period is less than the renewal cycle, then you **SHALL** notify [your local National Security Vetting Contact (NSVC)](/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/) when the contractor leaves, so that their security clearance can be terminated.
 
-##Contacts
+##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 
 ##Feedback
 
-If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

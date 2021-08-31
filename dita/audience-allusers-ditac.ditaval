@@ -4,6 +4,7 @@
 	<prop action="exclude" att="platform" val="pdf"/>
 	<prop action="include" att="platform" val="epub"/>
 	<prop action="include" att="audience" val="audience-basic"/>
+	<prop action="include" att="audience" val="audience-gs"/>
 	<prop action="include" att="audience" val="audience-suppliers"/>
 	<prop action="include" att="audience" val="audience-tech"/>
 </val>

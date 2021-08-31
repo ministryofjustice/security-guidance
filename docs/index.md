@@ -6,17 +6,23 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 13 August 2021.
+**Note:** This guidance is dated: 20 August 2021.
 
 ### Popular links
 
 Popular links for all users:
 
--   [General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)
+-   [General app guidance](general-user-video-and-messaging-apps-guidance.md)
 -   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
 -   [OFFICIAL, OFFICIAL-SENSITIVE](official-official-sensitive.md) classifications and handling
 -   [Accessing MoJ IT Systems From overseas](accessing-moj-it-systems-from-overseas.md)
 -   [Remote Working](remote-working.md)
+
+### Change log
+
+A 'change log' is [available](changelog.md). It details the most recent changes to this information.
+
+The changes are also available as [RSS](rss.xml) or [Atom](atom.xml) feeds.
 
 ### Offline content
 
@@ -25,9 +31,10 @@ For convenience, offline versions of this guidance are available.
 |Audience|PDF format|EPUB format|
 |--------|----------|-----------|
 |All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
-|Technical users. Includes lots of technical detail.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
+|Group Security. Contains Group Security policy and guidance.|[PDF](moj-guidance-gs.pdf)|[EPUB](moj-guidance-gs.epub)|
+|Technical users. Includes lots of technical detail. This document contains all content, including for 'All users' and from Group Security. Download this document if you want the complete set of published MoJ security policy and guidance.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 13 September 2021.
+The offline versions of this guidance are time-limited, and are not valid after 20 September 2021.
 
 ### Getting in touch
 
@@ -124,6 +131,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Pre-employment screening](pre-employment-screening.md)|All users|
 |[Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)|All users|
 |[Security clearance appeals policy](security-clearance-appeals-policy.md)|All users|
+|[Security vetting assessment of need](security-vetting-assessment-need.md)|All users|
 
 #### During employment
 

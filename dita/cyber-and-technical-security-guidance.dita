@@ -16,7 +16,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <body>
         <p>Popular links for all users:
           <ul>
-            <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">General Apps Guidance</xref></li>
+            <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">General app guidance</xref></li>
             <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements Guide</xref></li>
             <li><xref href="official-official-sensitive.dita" format="dita">OFFICIAL, OFFICIAL-SENSITIVE</xref> classifications and handling</li>
             <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From overseas</xref></li>
@@ -25,6 +25,15 @@ has made for the products we operate, and our relationships with suppliers.</p>
         </p>
       </body>
     </topic>
+	<topic id="change-log">
+		<title>Change log</title>
+		<body>
+			<p>A 'change log' is <xref href="changelog.dita" format="dita">available</xref>.
+			It details the most recent changes to this information.</p>
+			<p>The changes are also available as <xref href="rss.xml" format="xml" platform="html">RSS</xref><xref href="https://security-guidance.service.justice.gov.uk/rss.xml" format="xml" scope="external" platform="epub pdf">RSS</xref>
+				or <xref href="atom.xml" format="xml" platform="html">Atom</xref><xref href="https://security-guidance.service.justice.gov.uk/atom.xml" format="xml" scope="external" platform="epub pdf">Atom</xref> feeds.</p>
+		</body>
+	</topic>
     <topic id="offline-content">
       <title>Offline content</title>
       <body>
@@ -47,11 +56,20 @@ has made for the products we operate, and our relationships with suppliers.</p>
                   <entry colname="col2"><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></entry>
                   <entry colname="col3"><xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref></entry>
                 </row>
-                <row>
-                  <entry colname="col1">Technical users. Includes lots of technical detail.</entry>
-                  <entry colname="col2"><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></entry>
-                  <entry colname="col3"><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></entry>
-                </row>
+				  <row>
+					  <entry colname="col1">Group Security. Contains Group Security policy and guidance.</entry>
+					  <entry colname="col2"><xref href="moj-guidance-gs.pdf" format="pdf" scope="peer">PDF</xref></entry>
+					  <entry colname="col3"><xref href="moj-guidance-gs.epub" format="epub" scope="peer">EPUB</xref></entry>
+				  </row>
+				  <row>
+					  <entry colname="col1">Technical users. Includes lots of technical detail.
+						  This document contains all content,
+					  including for 'All users' and from Group Security.
+					  Download this document if you want the complete set of published
+						  <ph conref="conrefs.dita#conrefs/moj"/> security policy and guidance.</entry>
+					  <entry colname="col2"><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></entry>
+					  <entry colname="col3"><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></entry>
+				  </row>
                 <!--
                 <row>
                   <entry colname="col1">Suppliers. Includes just the details of primary interest to suppliers.</entry>
@@ -465,11 +483,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="security-clearance-appeals-policy.dita" format="dita" type="topic">Security clearance appeals policy</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
-        			<!-- The security vetting assessment need webpage is not required, only the download document.
               <row>
-                <entry colname="col1" align="left"><xref href="security-vetting-assessment-need.dita" format="dita" type="topic">National Security Vetting – Assessment of Need</xref></entry>
+                <entry colname="col1" align="left"><xref href="security-vetting-assessment-need.dita" format="dita" type="topic">Security vetting assessment of need</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
-              </row> -->
+              </row>
             </tbody></tgroup></table>
           </body>
         </topic>
@@ -1359,5 +1376,5 @@ has made for the products we operate, and our relationships with suppliers.</p>
 			</body>
 		</topic>
   </topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
