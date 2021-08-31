@@ -630,6 +630,35 @@
         </dlentry>
       </dl>
     </body>
+    <topic id="data-protection-acceptable-use-protocols-and-standard-operating-procedures">
+      <title>Data protection acceptable use protocols and standard operating procedures</title>
+      <body>
+        <p>The <ph conref="conrefs.dita#conrefs/privacyemailtext"/> has produced a number of Acceptable Use
+        protocol documents,
+        providing specific data protection guidance.</p>
+        <p>The documents are available on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet,
+        or by contacting the <ph conref="conrefs.dita#conrefs/privacyemailtext"/>.</p>
+        <p>The documents are as follows:
+        <ul>
+          <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2020/12/acceptable-use-protocol-commercial-and-contract-management.pdf" format="pdf" scope="external">Acceptable Use Protocol Commercial and Contract Management</xref></ph><ph platform="pdf epub">Acceptable Use Protocol Commercial and Contract Management</ph></li>
+          <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2020/12/acceptable-use-protocol-subject-access-requests.pdf" format="pdf" scope="external">Acceptable Use Protocol Subject Access Requests</xref></ph><ph platform="pdf epub">Acceptable Use Protocol Subject Access Requests</ph></li>
+          <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2021/02/acceptable-use-protocol-storage-of-personal-data.pdf" format="pdf" scope="external">Acceptable Use Protocol Storage of Personal Data</xref></ph><ph platform="pdf epub">Acceptable Use Protocol Storage of Personal Data</ph></li>
+          <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2021/04/acceptable-use-protocol-data-subjects-rights.pdf" format="pdf" scope="external">Acceptable Use Protocol Data Subjects' Rights</xref></ph><ph platform="pdf epub">Acceptable Use Protocol Data Subjects' Rights</ph></li>
+          <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2021/04/acceptable-use-protocol-processing-of-people-data.pdf" format="pdf" scope="external">Acceptable Use Protocol Processing of People Data</xref></ph><ph platform="pdf epub">Acceptable Use Protocol Processing of People Data</ph></li>
+          <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2021/04/acceptable-use-protocol-analytical-platform.pdf" format="pdf" scope="external">Acceptable Use Protocol Analytical Platform</xref></ph><ph platform="pdf epub">Acceptable Use Protocol Analytical Platform</ph></li>
+          <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2021/04/acceptable-use-protocol-recording.pdf" format="pdf" scope="external">Acceptable Use Protocol Recording</xref></ph><ph platform="pdf epub">Acceptable Use Protocol Recording</ph></li>
+        </ul></p>
+        <p>There are also a number of Standard Operating Procedures (SOP)s,
+          including:
+          <ul>
+            <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2021/03/standard-operation-procedure-personal-data-risk-management.pdf" format="pdf" scope="external">Personal Data Risk Management</xref></ph><ph platform="pdf epub">Personal Data Risk Management</ph></li>
+            <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2018/05/data-protection-impact-assessment-guidance.pdf" format="pdf" scope="external">Data protection impact assessment guidance</xref></ph><ph platform="pdf epub">Data protection impact assessment guidance</ph></li>
+            <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2021/04/data-sharing-agreement-assessment.pdf" format="pdf" scope="external">Data sharing agreement assessment</xref></ph><ph platform="pdf epub">Data sharing agreement assessment</ph></li>
+          </ul></p>
+        <p>For more information on these protocols and procedures,
+        contact the <ph conref="conrefs.dita#conrefs/privacyemailtext"/>.</p>
+      </body>
+    </topic>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>

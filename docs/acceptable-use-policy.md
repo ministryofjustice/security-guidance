@@ -283,6 +283,30 @@ These documents are reviewed by the [Data Privacy Team](mailto:privacy@justice.g
     -   An existing supplier changing the location of its servers, storage, or services outside the UK or EEA.
     -   New suppliers.
 
+### Data protection acceptable use protocols and standard operating procedures
+
+The [Data Privacy Team](mailto:privacy@justice.gov.uk) has produced a number of Acceptable Use protocol documents, providing specific data protection guidance.
+
+The documents are available on the MoJ Intranet, or by contacting the [Data Privacy Team](mailto:privacy@justice.gov.uk).
+
+The documents are as follows:
+
+-   [Acceptable Use Protocol Commercial and Contract Management](https://intranet.justice.gov.uk/documents/2020/12/acceptable-use-protocol-commercial-and-contract-management.pdf)
+-   [Acceptable Use Protocol Subject Access Requests](https://intranet.justice.gov.uk/documents/2020/12/acceptable-use-protocol-subject-access-requests.pdf)
+-   [Acceptable Use Protocol Storage of Personal Data](https://intranet.justice.gov.uk/documents/2021/02/acceptable-use-protocol-storage-of-personal-data.pdf)
+-   [Acceptable Use Protocol Data Subjects' Rights](https://intranet.justice.gov.uk/documents/2021/04/acceptable-use-protocol-data-subjects-rights.pdf)
+-   [Acceptable Use Protocol Processing of People Data](https://intranet.justice.gov.uk/documents/2021/04/acceptable-use-protocol-processing-of-people-data.pdf)
+-   [Acceptable Use Protocol Analytical Platform](https://intranet.justice.gov.uk/documents/2021/04/acceptable-use-protocol-analytical-platform.pdf)
+-   [Acceptable Use Protocol Recording](https://intranet.justice.gov.uk/documents/2021/04/acceptable-use-protocol-recording.pdf)
+
+There are also a number of Standard Operating Procedures \(SOP\)s, including:
+
+-   [Personal Data Risk Management](https://intranet.justice.gov.uk/documents/2021/03/standard-operation-procedure-personal-data-risk-management.pdf)
+-   [Data protection impact assessment guidance](https://intranet.justice.gov.uk/documents/2018/05/data-protection-impact-assessment-guidance.pdf)
+-   [Data sharing agreement assessment](https://intranet.justice.gov.uk/documents/2021/04/data-sharing-agreement-assessment.pdf)
+
+For more information on these protocols and procedures, contact the [Data Privacy Team](mailto:privacy@justice.gov.uk).
+
 ## Contact details
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).

@@ -46,6 +46,12 @@ The [Information Commissioner's Office \(ICO\)](https://ico.org.uk) - the UK's i
 
 A Data Protection Impact Assessment \(DPIA, formerly commonly known as a Privacy Impact Assessment or PIA\) is required for all projects. There are some [exceptions described by the ICO](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/exemptions/).
 
+## Data privacy
+
+The MoJ [Data Privacy Team](mailto:privacy@justice.gov.uk) provides services, guidance, and support for all aspects of data privacy and protection.
+
+For example, they have [protocols and procedures](acceptable-use-policy.md#data-protection-acceptable-use-protocols-and-standard-operating-procedures) to help ensure acceptable use of personal information.
+
 ## Contact details
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
