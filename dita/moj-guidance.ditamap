@@ -396,7 +396,6 @@ if an audience attribute is present, then only matching content is included.
 		<topicmeta><navtitle>Operational Security Team</navtitle></topicmeta>
         <topicref href="ost/index.md" type="topic" format="markdown"/>
         <topicref href="ost/ithc.md" type="topic" format="markdown"/>
-        <topicref href="ost/pentest.md" type="topic" format="markdown"/>
         <topicref href="ost/test-cancellations-and-delays.md" type="topic" format="markdown"/>
 	</topichead>
 
