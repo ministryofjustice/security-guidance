@@ -24,7 +24,8 @@
     <p>You <ph conref="conrefs.dita#conrefs/policyshouldnot"/> connect peripherals to <ph conref="conrefs.dita#conrefs/moj"/> devices,
       unless those peripherals are supplied by the <ph conref="conrefs.dita#conrefs/moj"/>.
       Examples of peripheral devices include USB, wireless, or Bluetooth keyboards or mice.</p>
-    <note>Exemptions are possible for connecting peripherals where accessibility support is required.
+    <note>Exemptions are possible for connecting peripherals where
+      <ph audience="audience-basic audience-suppliers audience-tech"><xref href="bluetooth.dita#accessibility/accessibility" format="dita" platform="html">accessibility support</xref><xref href="bluetooth.dita#accessibility" format="dita" platform="epub pdf">accessibility support</xref></ph><ph audience="audience-gs">accessibility support</ph> is required.
     Contact your Line Manager for documented approval before connecting a peripheral device.</note>
     <p>Personal devices <ph conref="conrefs.dita#conrefs/policyshallnot"/> be charged from
       the USB ports of an <ph conref="conrefs.dita#conrefs/moj"/> device.</p>
