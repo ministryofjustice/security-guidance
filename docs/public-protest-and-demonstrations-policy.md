@@ -23,19 +23,19 @@
 
 1.  Freedom of speech and the right to peacefully protest is protected by law, both under common law and the Human Rights Act 1998. However, freedom of speech and the right to peacefully protest are not absolute, and the exercise of those rights can be restricted provided any restrictions:
 
-    -   are prescribed in law;
+    -   Are prescribed in law.
 
-    -   are necessary and proportionate; and
+    -   Are necessary and proportionate.
 
-    -   pursue one or more of these aims:
+    -   Pursue one or more of these aims:
 
-        -   the interests of national security or public safety;
+        -   The interests of national security or public safety.
 
-        -   the prevention of disorder or crime;
+        -   The prevention of disorder or crime.
 
-        -   the protection of health or morals;
+        -   The protection of health or morals.
 
-        -   the protection of other's rights and freedoms.
+        -   The protection of other's rights and freedoms.
 
 2.  The rights of those protesting need to be balanced with the rights of others to go about their business without fear of intimidation or having serious disruption to their community.
 
@@ -52,15 +52,15 @@
 
 4.  Following any public protest or demonstration, the most senior grade based at the site, or in Moderate Risk and larger sites, the Senior Responsible Officer \(SRO\), has responsibility for ensuring that detailed records are kept of any incidents, including:
 
-    -   the identity of those involved;
+    -   The identity of those involved.
 
-    -   the date, time and location;
+    -   The date, time and location.
 
-    -   the behaviour involved;
+    -   The behaviour involved.
 
-    -   the impact \(damage, injury and disruption etc.\); and
+    -   The impact, such as damage, injury, or disruption.
 
-    -   any warnings issued or other steps taken to defuse the situation.
+    -   Any warnings issued or other steps taken to defuse the situation.
 
 
 ## Policy Statements
