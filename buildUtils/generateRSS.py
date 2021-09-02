@@ -48,7 +48,7 @@ for row in ditaEntries:
     outFileDita.write(row+"\n")
 outFileDita.write('</dl>\n')
 outFileDita.write('</body>\n')
-outFileDita.write('<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>\n')
+outFileDita.write('<topic id="contact-details" conref="conrefs.dita#contact-details" platform="html"><title/></topic>\n')
 outFileDita.write('<topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>\n')
 outFileDita.write('</topic>\n')
 

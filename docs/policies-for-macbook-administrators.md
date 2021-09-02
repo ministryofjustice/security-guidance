@@ -20,7 +20,7 @@ These policies ensure two things:
 The following actions require formal authorisation \(e.g. an email confirming that the action can proceed\) from at least 2 of the following 3:
 
 -   The Chief Digital Officer.
--   The Chief Information Security Office \(CISO\) for the Ministry of Justice \(MoJ\).
+-   The Chief Information Security Officer \(CISO\) for the Ministry of Justice \(MoJ\).
 -   The MoJ Digital Information Assurance Lead.
 
 Actions:

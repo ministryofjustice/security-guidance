@@ -806,10 +806,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" format="dita">Personal mail and parcel delivery policy and procedure</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="physical-security-policy.dita" format="dita">Physical Security Policy</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
+				<row>
+					<entry colname="col1" align="left"><xref href="physical-security-policy.dita" format="dita">Physical Security Policy</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
             </tbody></tgroup></table>
           </body>
         </topic>
