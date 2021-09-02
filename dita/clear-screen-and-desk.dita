@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="clear-screen-and-desk">
-  <title>Clear Screen and Desk</title>
-  <body/>
+  <title>Clear screen and desk</title>
+  <body>
+    <p>There are many helpful policies and best practices
+      that improve <ph conref="conrefs.dita#conrefs/mojlong"/> safety and security.</p>
+    <note>In addition to this advice in this document,
+    you should review and follow the guidance in the
+      <xref href="remote-working.dita" format="dita">remote working</xref> guidance,
+      for example
+      <xref href="remote-working.dita#printing/printing" format="dita" platform="html">thinking before you print</xref><xref href="remote-working.dita#printing" format="dita" platform="epub pdf">thinking before you print</xref>.</note>
+  </body>
   <topic id="clear-screen">
-    <title>Clear Screen</title>
+    <title>Clear screen</title>
     <body>
-      <p>Users <ph conref="conrefs.dita#conrefs/policyshall"/> comply with the following:</p>
+      <p>Users <ph conref="conrefs.dita#conrefs/policyshall"/> comply with the following:
       <ul>
-        <li><ph conref="conrefs.dita#conrefs/mojlong"/> equipment <ph conref="conrefs.dita#conrefs/policyshallnot"/> be left logged on when unattended.
+        <li><ph conref="conrefs.dita#conrefs/moj"/> equipment <ph conref="conrefs.dita#conrefs/policyshallnot"/> be left logged on when unattended.
           Users <ph conref="conrefs.dita#conrefs/policyshall"/> ensure that password-protected screensavers are activated when any equipment is left unattended.</li>
         <li>Computer screens <ph conref="conrefs.dita#conrefs/policyshall"/> be angled away from the view of unauthorised persons.</li>
         <li>Computer security locks <ph conref="conrefs.dita#conrefs/policyshall"/> be set to activate when there is no activity for a short pre-determined period of time. This timeout <ph conref="conrefs.dita#conrefs/policyshould"/> be set to 5 minutes, by default.
@@ -16,11 +24,19 @@
         <li>Computer security locks <ph conref="conrefs.dita#conrefs/policyshall"/> require passwords to be re-entered to reactivate the computer.</li>
         <li>Desktops and laptops <ph conref="conrefs.dita#conrefs/policyshould"/> be shutdown if you expect to be away from them for more than half an hour.</li>
         <li>Users <ph conref="conrefs.dita#conrefs/policyshall"/> log off or lock their computers when they leave the room.</li>
-      </ul>
+      </ul></p>
+      <p>A best practice is to keep your screen 'desk top' tidy:
+      <ul>
+        <li>Avoid leaving files on your desk top where the name might attract attention.
+          For example,
+          having a file on your desk top called <codeph>MyPasswords.docx</codeph> is a bad idea,
+          for several reasons!</li>
+        <li>Avoid having files or information labelled <codeph>SENSITIVE</codeph> displayed or stored on your desk top.</li>
+      </ul></p>
     </body>
   </topic>
   <topic id="clear-desk">
-    <title>Clear Desk</title>
+    <title>Clear desk</title>
     <body>
       <p>Users <ph conref="conrefs.dita#conrefs/policyshall"/> comply with the following:</p>
       <ul>
@@ -36,6 +52,7 @@
         <li><codeph>OFFICIAL</codeph> or <codeph>OFFICIAL-SENSITIVE</codeph> information, when printed,
           <ph conref="conrefs.dita#conrefs/policyshould"/> be cleared from printers immediately.</li>
       </ul>
+      <p><xref href="remote-working.dita#printing/printing" format="dita" platform="html">Think before you print</xref><xref href="remote-working.dita#printing" format="dita" platform="epub pdf">Think before you print</xref>.</p>
       <p>It is good practice to lock all rooms and office areas when they are not in use.</p>
       <p>Information left on desks is also more likely to be damaged or destroyed in a disaster such as fire or flood.</p>
     </body>

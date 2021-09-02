@@ -54,7 +54,7 @@
         <li>Lock or log off your device when leaving it unattended. For long periods of non-use, shut down your device.</li>
         <li>Ensure that your devices are powered off when you first enter a country when travelling outside the UK.</li>
         <li>Keep your workspace clear and tidy.
-          Follow a '<xref href="clear-screen-and-desk.dita" format="dita">clean desk policy</xref>' for information,
+          Follow a '<xref href="clear-screen-and-desk.dita" format="dita">clear desk policy</xref>' for information,
           including paperwork,
           to ensure <ph conref="conrefs.dita#conrefs/moj"/> information isn't seen by unauthorised people.</li>
         <li>Use <ph conref="conrefs.dita#conrefs/moj"/> IT equipment for business purposes in preference to your own equipment such as laptops or printers.</li>
@@ -102,20 +102,28 @@
   <topic id="using-your-own-equipment">
     <title>Using your own equipment</title>
     <body>
-      <p>The main guidance is available <xref href="personal-devices.dita" format="dita" platform="github">here</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/using-a-personal-device/" format="html" scope="external" platform="intranet">here</xref>.</p>
-      <p>Wherever possible, you should always use official <ph conref="conrefs.dita#conrefs/moj"/> equipment for business purposes.</p>
+      <p>The main guidance is available <xref href="personal-devices.dita" format="dita">here</xref>.</p>
+      <p>Wherever possible,
+        you <ph conref="conrefs.dita#conrefs/policyshould"/> always use official <ph conref="conrefs.dita#conrefs/moj"/> equipment for business purposes.</p>
       <p>Never send your work material to your personal devices or your email accounts.</p>
       <p>If you are working remotely, or do not have access to <ph conref="conrefs.dita#conrefs/moj"/> equipment, it might be tempting to use your own equipment, especially printers.
         Avoid doing this.</p>
-      <p>The advice is to avoid printing anything, and in particular not to use personal printers.</p>
+    </body>
+  </topic>
+  <topic id="printing">
+    <title>Printing</title>
+    <body>
+      <p>The advice is to avoid printing anything when working remotely,
+        and in particular not to use personal printers.</p>
       <p>However, if you really must print <ph conref="conrefs.dita#conrefs/moj"/> information, you:</p>
       <ul>
-        <li>Should connect directly to the printer using USB, not wifi.</li>
-        <li>Should not print out personal information relating to others.</li>
-        <li>Should not redirect print jobs from an <ph conref="conrefs.dita#conrefs/moj"/> printer to a personal printer.</li>
-        <li>Should consult the information asset owner or line manager before printing the information.</li>
-        <li>Must store any and all printed materials safely and securely until you return to <ph conref="conrefs.dita#conrefs/moj"/> premises, when they must be disposed of or filed appropriately.</li>
-        <li><b>Must never</b> dispose of <ph conref="conrefs.dita#conrefs/moj"/> information in your home rubbish or recycling.</li>
+        <li><ph conref="conrefs.dita#conrefs/policyshould"/> connect directly to the printer using USB, not wifi.</li>
+        <li><ph conref="conrefs.dita#conrefs/policyshouldnot"/> print out personal information relating to others.</li>
+        <li><ph conref="conrefs.dita#conrefs/policyshouldnot"/> redirect print jobs from
+          an <ph conref="conrefs.dita#conrefs/moj"/> printer to a personal printer.</li>
+        <li><ph conref="conrefs.dita#conrefs/policyshould"/> consult the information asset owner or line manager before printing the information.</li>
+        <li><ph conref="conrefs.dita#conrefs/policyshall"/> store any and all printed materials safely and securely until you return to <ph conref="conrefs.dita#conrefs/moj"/> premises, when they must be disposed of or filed appropriately.</li>
+        <li><ph conref="conrefs.dita#conrefs/policyshallnot"/> dispose of <ph conref="conrefs.dita#conrefs/moj"/> information in your home rubbish or recycling.</li>
       </ul>
       <p>Basically, think before you print.</p>
     </body>
