@@ -15,15 +15,15 @@
     <p>In unusual circumstances,
       it might not be possible to organise provision of equipment.
       In such cases,
-      you <ph conref="conrefs.dita#conrefs/policycan"/> request access to an <ph conref="conrefs.dita#conrefs/moj"/> virtual environment.</p>
+      you <ph conref="conrefs.dita#conrefs/policycan"/> request access to an <ph conref="conrefs.dita#conrefs/moj"/> <xref href="#virtual-environment" format="dita">virtual environment</xref>.</p>
     <p>Except when connecting to an  <ph conref="conrefs.dita#conrefs/moj"/>
       <xref href="#virtual-environment" format="dita">virtual environment</xref>,
       or with documented approval in exceptional circumstances as described
       <xref href="#guidance" format="dita">below</xref>,
       you <ph conref="conrefs.dita#conrefs/policyshallnot"/> use a personal device for work purposes.</p>
-    <p>You <ph conref="conrefs.dita#conrefs/policyshouldnot"/> connect peripherals to <ph conref="conrefs.dita#conrefs/moj"/> devices,
-      unless those peripherals are supplied by the <ph conref="conrefs.dita#conrefs/moj"/>.
-      Examples of peripheral devices include USB, wireless, or Bluetooth keyboards or mice.</p>
+    <p>Avoid connecting peripherals to <ph conref="conrefs.dita#conrefs/moj"/> devices,
+      unless those peripherals are supplied or approved by the <ph conref="conrefs.dita#conrefs/moj"/>.
+      Examples of peripheral devices include USB, wireless, or <xref href="bluetooth.dita" format="dita" audience="audience-basic audience-suppliers audience-tech">Bluetooth</xref><ph audience="audience-gs">Bluetooth</ph> keyboards or mice.</p>
     <note>Exemptions are possible for connecting peripherals where
       <ph audience="audience-basic audience-suppliers audience-tech"><xref href="bluetooth.dita#accessibility/accessibility" format="dita" platform="html">accessibility support</xref><xref href="bluetooth.dita#accessibility" format="dita" platform="epub pdf">accessibility support</xref></ph><ph audience="audience-gs">accessibility support</ph> is required.
     Contact your Line Manager for documented approval before connecting a peripheral device.</note>
