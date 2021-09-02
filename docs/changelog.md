@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-09-02 15:16:00 BST [Extra guidance on remote working.](https://security-guidance.service.justice.gov.uk/remote-working/)**
+
+    Additional best practices for keeping safe and secure when working away from the office.
+
 -   **2021-08-20 14:14:00 BST [Update to general apps guidance.](https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/#approved-tools)**
 
     Add Trello guidance, and clarification over Official and Official Sensitive material in apps.

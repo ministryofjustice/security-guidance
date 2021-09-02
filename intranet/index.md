@@ -4,14 +4,14 @@
 * Equipment
     * [Equipment](equipment.md)
     * Clear screen and desk
-        -   [Clear Screen and Desk](clear-screen-and-desk.md)
+        -   [Clear screen and desk](clear-screen-and-desk.md)
     * Data and equipment management
         -   [Equipment management](equipment-management.md)
         -   [Bluetooth](bluetooth.md)
         -   [Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md)
         -   [Email](email.md)
         -   [Equipment Reassignment Guide](equipment-reassignment-guide.md)
-        -   [Information classification, handling & security guide](information-classification-handling-and-security-guide.md)
+        -   [Information classification, handling and security guide](information-classification-handling-and-security-guide.md)
         -   [Guidance on IT Accounts and Assets for Long Term Leave](long-term-leave.md)
         -   [OFFICIAL, OFFICIAL-SENSITIVE](official-official-sensitive.md)
         -   [Personal device use](personal-devices.md)
