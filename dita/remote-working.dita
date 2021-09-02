@@ -52,9 +52,22 @@
         <li>Keep <ph conref="conrefs.dita#conrefs/moj"/> equipment and information safe and secure.</li>
         <li>Protect <ph conref="conrefs.dita#conrefs/moj"/> information from accidental access by unauthorised people.</li>
         <li>Lock or log off your device when leaving it unattended. For long periods of non-use, shut down your device.</li>
-        <li>Keep your workspace clear and tidy - follow a 'clean desk policy', including paperwork, to ensure <ph conref="conrefs.dita#conrefs/moj"/> information isn't seen by unauthorised people.</li>
+        <li>Ensure that your devices are powered off when you first enter a country when travelling outside the UK.</li>
+        <li>Keep your workspace clear and tidy.
+          Follow a '<xref href="clear-screen-and-desk.dita" format="dita">clean desk policy</xref>' for information,
+          including paperwork,
+          to ensure <ph conref="conrefs.dita#conrefs/moj"/> information isn't seen by unauthorised people.</li>
         <li>Use <ph conref="conrefs.dita#conrefs/moj"/> IT equipment for business purposes in preference to your own equipment such as laptops or printers.</li>
-        <li>Be wary of anyone overlooking or eavesdropping what you are doing.</li>
+        <li>Be wary of anyone overlooking or eavesdropping what you are doing.
+        Consider whether you, or the <ph conref="conrefs.dita#conrefs/moj"/> information,
+          might be Overseen, Overheard, or Overshared.</li>
+        <li>Protect chargers and other computer accessories, especially <ph conref="conrefs.dita#conrefs/moj"/> equipment,
+          when travelling. This is to prevent them from being tampered with.
+          Keep them secure and out of sight as much as possible, for example in your hand luggage or on your person.</li>
+        <li>Avoid using Hotel or other public wifi spots.
+          They are not secure and can potentially monitor your equipment and information.
+          Instead, you should use a mobile data (4G) connection.</li>
+        <li>Ensure that a laptop BitLocker PIN or similar access control is enabled.</li>
       </ul></p>
       <p><b>Never:</b>
       <ul>
@@ -65,6 +78,12 @@
         <li>Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.</li>
         <li>Send your work material to your personal devices or your personal email address.</li>
         <li>Redirect print jobs from <ph conref="conrefs.dita#conrefs/moj"/> printers to a personal printer.</li>
+        <li>Use public 'charging stations' provided at airports, conference venues, hotels, or similar public locations.
+          They might be used to upload malicious software onto your device.</li>
+        <li>Connect <ph conref="conrefs.dita#conrefs/moj"/> equipment to vehicles,
+          using either USB or Bluetooth.
+          These connections can download information from the device or upload malicious software.</li>
+        <li>Connect to <ph conref="conrefs.dita#conrefs/moj"/> systems or services through Hotel or other public wifi spots without using a VPN.</li>
       </ul></p>
     </body>
   </topic>

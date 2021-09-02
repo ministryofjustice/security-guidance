@@ -35,9 +35,13 @@ Remote working is when you work from any non-MoJ location, for example, working 
 -   Keep MoJ equipment and information safe and secure.
 -   Protect MoJ information from accidental access by unauthorised people.
 -   Lock or log off your device when leaving it unattended. For long periods of non-use, shut down your device.
--   Keep your workspace clear and tidy - follow a 'clean desk policy', including paperwork, to ensure MoJ information isn't seen by unauthorised people.
+-   Ensure that your devices are powered off when you first enter a country when travelling outside the UK.
+-   Keep your workspace clear and tidy. Follow a '[clean desk policy](clear-screen-and-desk.md)' for information, including paperwork, to ensure MoJ information isn't seen by unauthorised people.
 -   Use MoJ IT equipment for business purposes in preference to your own equipment such as laptops or printers.
--   Be wary of anyone overlooking or eavesdropping what you are doing.
+-   Be wary of anyone overlooking or eavesdropping what you are doing. Consider whether you, or the MoJ information, might be Overseen, Overheard, or Overshared.
+-   Protect chargers and other computer accessories, especially MoJ equipment, when travelling. This is to prevent them from being tampered with. Keep them secure and out of sight as much as possible, for example in your hand luggage or on your person.
+-   Avoid using Hotel or other public wifi spots. They are not secure and can potentially monitor your equipment and information. Instead, you should use a mobile data \(4G\) connection.
+-   Ensure that a laptop BitLocker PIN or similar access control is enabled.
 
 **Never:**
 
@@ -48,6 +52,9 @@ Remote working is when you work from any non-MoJ location, for example, working 
 -   Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.
 -   Send your work material to your personal devices or your personal email address.
 -   Redirect print jobs from MoJ printers to a personal printer.
+-   Use public 'charging stations' provided at airports, conference venues, hotels, or similar public locations. They might be used to upload malicious software onto your device.
+-   Connect MoJ equipment to vehicles, using either USB or Bluetooth. These connections can download information from the device or upload malicious software.
+-   Connect to MoJ systems or services through Hotel or other public wifi spots without using a VPN.
 
 ## Working securely
 
