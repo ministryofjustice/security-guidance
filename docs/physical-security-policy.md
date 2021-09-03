@@ -2,7 +2,7 @@
 
 ## Audience
 
-This policy compliments the Ministry of Justice \(MoJ\) overall security policy.
+This policy complements the Ministry of Justice \(MoJ\) overall security policy.
 
 Physical security is the practice of protecting elements of government infrastructure, estates and personnel against attacks or compromises in the physical \(tangible, real-world\) environment.
 
