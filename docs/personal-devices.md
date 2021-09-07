@@ -4,7 +4,7 @@ This guidance applies to all staff and contractors who work for the Ministry of 
 
 A personal device is any desktop, laptop, tablet, phone, external drive or similar device that the MoJ does not own.
 
-Not everyone has access to an MoJ device for remote use. If you need equipment, you can request it. It can be provided quickly. Contact your Line Manager for details, and to raise a request through the IT Service Desk.
+Not everyone has access to an MoJ device for remote use. If you need equipment, you can request it. It can be provided quickly. Contact your Line Manager for details. A request can then be raised through the IT Service Desk.
 
 In unusual circumstances, it might not be possible to organise provision of equipment. In such cases, you **CAN** request access to an MoJ [virtual environment](#virtual-environment).
 
