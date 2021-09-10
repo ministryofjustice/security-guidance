@@ -3,22 +3,98 @@
 <topic id="government-classification-scheme">
   <title>Government Classification Scheme</title>
   <body>
-    <p>These summary guidelines are based on the Government Security Classification (GSC) as issued by the Cabinet Office in 2018.
-      The link below provides full handling guidance for information classifications including <codeph>OFFICIAL</codeph>,
-      <codeph>SECRET</codeph> and <codeph>TOP SECRET</codeph>:</p>
-    <p><xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">https://www.gov.uk/government/publications/government-security-classifications</xref></p>
-    <p>In summary,
-      the majority of information that is created or processed by the public sector is now classified as <codeph>OFFICIAL</codeph>.
-      The other two classifications are <codeph>SECRET</codeph> and <codeph>TOP SECRET</codeph>.</p>
-    <p><codeph>SECRET</codeph> classification should be used on very sensitive information that justifies heightened protective measures
-      to defend against determined and highly capable threat actors.</p>
-    <p><codeph>TOP SECRET</codeph> is HMG's most sensitive information requiring the highest levels of protection from the most serious threats.</p>
-    <p>Classifications can have additional indicators, providing extra information about looking after the information with that classification.
-      A frequently-seen example is <codeph>OFFICIAL-SENSITIVE</codeph>.
-      This is still classified as <codeph>OFFICIAL</codeph>,
-      but there is an additional indicator that tells you the information is of a more sensitive nature,
-      and so should be handled and looked after accordingly.</p>
+    <p>The Government Security Classification (GSC) system has three levels: <ph conref="conrefs.dita#conrefs/official"/>,
+      <ph conref="conrefs.dita#conrefs/secret"/>,
+      and <ph conref="conrefs.dita#conrefs/topsecret"/>.</p>
+    <p>The GSC was issued by the Cabinet Office in 2018:
+      <xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">https://www.gov.uk/government/publications/government-security-classifications</xref></p>
   </body>
+  <topic id="official">
+    <title><ph conref="conrefs.dita#conrefs/official"/></title>
+    <body>
+      <p>This is the majority of information that is created or processed by the public sector.</p>
+      <lq>Includes routine business operations and services,
+        some of which could have damaging consequences if lost,
+        stolen,
+        or published in the media,
+        but which are not subject to a heightened threat profile.</lq>
+      <p>This classification applies to the vast majority of government information including general administration,
+        public safety,
+        criminal justice,
+        and law enforcement,
+        and reflects the fact that reasonable measures need to be taken to look after it and to comply with relevant
+        legislation such as the Data Protection Act,
+        Freedom of Information Act,
+        and Public Records Acts.</p>
+    </body>
+    <topic id="official-sensitive">
+      <title><ph conref="conrefs.dita#conrefs/official-sensitive"/></title>
+      <body>
+        <p>A limited amount of information is particularly sensitive,
+          but still comes within <ph conref="conrefs.dita#conrefs/official"/> if it is not subject to the threat
+          sources for which <ph conref="conrefs.dita#conrefs/secret"/> is designed,
+          even if its loss or compromise could have severely damaging consequences.
+          The need to know principle <ph conref="conrefs.dita#conrefs/policymust"/> be rigorously enforced for this
+          information,
+          particularly where it might be shared outside of a routine or well understood business process.
+          There are very few activities where all related information or cases require the
+          <ph conref="conrefs.dita#conrefs/official-sensitive"/> marking,
+          though this might apply to assets previously marked as <codeph>CONFIDENTIAL</codeph>.
+          Across a range of information assets which were previously normally marked as <codeph>PROTECT</codeph>
+          or <codeph>RESTRICTED</codeph>,
+          there might be individual cases/instances which are more sensitive (some of which might be marked
+          <codeph>CONFIDENTIAL</codeph> on an individual basis).
+          This more sensitive information is identified by adding '<codeph>SENSITIVE</codeph>',
+          and must therefore be marked '<ph conref="conrefs.dita#conrefs/official-sensitive"/>'.
+          This marking alerts users to the enhanced level of risk and that additional controls are required.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="secret">
+    <title><ph conref="conrefs.dita#conrefs/secret"/></title>
+    <body>
+      <p>Very sensitive information that justifies heightened protective measures to defend against
+        determined / highly capability threats.</p>
+      <lq>Where compromise might seriously damage military capabilities,
+        international relations or the investigation of serious organised crime.</lq>
+      <p>Use of <ph conref="conrefs.dita#conrefs/secret"/> <ph conref="conrefs.dita#conrefs/policymust"/> only be used
+        where there is a high impact and a sophisticated / determined threat (elements of serious and organised crime,
+        and some state actors):
+        <ul>
+          <li>Classified material received from Other Government Departments (OGDs)/agencies relating to national
+            security and counter-terrorism.</li>
+          <li>Intelligence and investigations relating to individuals of interests to security agencies.</li>
+          <li>Information that might seriously damage security and intelligence operations.</li>
+          <li>Information affecting the ability to investigate or prosecute serious/organised crime.</li>
+          <li>Personal/case details where there is a specific threat to the life/liberty of an individual
+            such as protected witness scheme records.</li>
+        </ul></p>
+      <p>The concept of sophisticated or heightened threat doesn't only apply to those with a high technical (IT)
+        attack capability,
+        but might apply to criminals who have a developed capability to intimidate or coerce individuals.
+        If disclosure of information might result in serious physical harm or put a life at risk because there is a
+        real and highly capable threat present,
+        the information <ph conref="conrefs.dita#conrefs/policymust"/> be tightly controlled.
+        <ph conref="conrefs.dita#conrefs/secret"/> <ph conref="conrefs.dita#conrefs/policymustnot"/> become the default
+        status for material just because of the type of case or potentially severe consequences such as murder trials,
+        or where there is a threat to life.
+        The threat capability <ph conref="conrefs.dita#conrefs/policymust"/> also be present.</p>
+    </body>
+  </topic>
+  <topic id="top-secret">
+    <title><ph conref="conrefs.dita#conrefs/topsecret"/></title>
+    <body>
+      <p>HMG's most sensitive information,
+        requiring the highest levels of protection from the most serious threats.</p>
+      <lq>Where compromise might cause widespread loss of life or else threaten the security or economic wellbeing of
+        the country or friendly nations.</lq>
+      <p>This classification remains for information of the highest sensitivity relating to national security and
+        subject to highly capable threat sources.
+        There is no change to controls at this level.
+        Any business area holding or expecting to hold information at this level
+        <ph conref="conrefs.dita#conrefs/policymust"/> contact the Departmental Security Officer to agree controls.</p>
+    </body>
+  </topic>
 	<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
