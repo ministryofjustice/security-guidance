@@ -28,12 +28,14 @@ The offline versions of this guidance are time-limited, and are not valid after 
 
 ### Background
 
-*[Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security)* replaces the HMG Security Policy Framework \(SPF\) last published in May 2018. It also incorporates the *Minimum Cyber Security Standard \(MCSS\)* which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.
+*[Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security)* replaces the HMG Security Policy Framework \(SPF\). The policies which sit within that framework remain in effect but are now in support of this standard.
 
-Sections 6.9 Cyber security and 6.10 Technical security of the standard state:
+Sections 6.3 Cyber security and 6.4 Technical security of the standard state:
 
--   > The security of information and data is essential to good government and public confidence. To operate effectively, HMG needs to maintain the confidentiality, integrity and availability of its information, systems and infrastructure, and the services it provides. Any organisation that handles government information shall meet the standards expected of HM Government.
--   > Technical security relates to the protection of security systems from compromise and/or external interference that may have occurred as a result of an attack.
+- > The purpose of cyber security is to ensure the security of data and information. To operate effectively, the UK government needs to maintain the confidentiality,
+integrity and availability of its information, systems and infrastructure, and the services it provides.
+
+- > The purpose of technical security measures is to holistically protect sensitive information and technology from close access acquisition or exploitation by hostile actors, as well as any other form of technical manipulation. Technical security also relates to the protection of security systems from compromise and/or external interference.
 
 ## Information taxonomy andstructure
 
@@ -143,4 +145,3 @@ There are other cyber and technical security guidance documents available to ref
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) should be read together with this security-focused guidance.
 
 The [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) provides the base material for all security guidance in the MoJ.
-
