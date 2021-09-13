@@ -25,7 +25,7 @@
 			<ph id="allstaff">This guidance applies to all staff and contractors who work for the <ph conref="#conrefs/mojlong"/>.</ph>
 			<ph id="catemail"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></ph>
 			<ph id="catemailtext"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="email" scope="external">Cyber Assistance Team</xref></ph>
-			<ph id="cisolong">Chief Information Security Office (CISO)</ph>
+			<ph id="cisolong">Chief Information Security Officer (CISO)</ph>
 			<ph id="ciso">CISO</ph>
 			<ph id="cjsmemail"><xref href="mailto:cjsm.helpdesk@egress.com" format="email" scope="external">cjsm.helpdesk@egress.com</xref></ph>
 			<ph id="cjsmemailtext"><xref href="mailto:cjsm.helpdesk@egress.com" format="email" scope="external">CJSM Helpdesk</xref></ph>

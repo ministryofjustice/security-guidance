@@ -463,10 +463,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels Guide</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/personnel-security-clearances/minimum-user-clearance/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="national-security-vetting-questions.dita" format="dita" type="topic">National Security Vetting questions</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
+				<row>
+					<entry colname="col1" align="left"><xref href="national-security-vetting-contact.dita" format="dita" type="topic">National Security Vetting contact</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row>
+					<entry colname="col1" align="left"><xref href="national-security-vetting-questions.dita" format="dita" type="topic">National Security Vetting questions</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
               <row>
                 <entry colname="col1" align="left"><xref href="national-security-vetting-for-external-candidates-faq.dita" format="dita" type="topic">National Security Vetting for External Candidates FAQ</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
@@ -802,10 +806,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" format="dita">Personal mail and parcel delivery policy and procedure</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="physical-security-policy.dita" format="dita">Physical Security Policy</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
+				<row>
+					<entry colname="col1" align="left"><xref href="physical-security-policy.dita" format="dita">Physical Security Policy</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
             </tbody></tgroup></table>
           </body>
         </topic>

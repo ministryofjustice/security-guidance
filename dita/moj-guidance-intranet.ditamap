@@ -82,6 +82,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="leavers-with-nsc-and-nscvs.dita" type="topic"/>
 			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
 			<topicref href="national-security-vetting-for-external-candidates-faq.dita" type="topic"/>
+			<topicref href="national-security-vetting-contact.dita" type="topic"/>
 			<topicref href="national-security-vetting-questions.dita" type="topic"/>
 			<topicref href="ongoing-personnel-security.dita" type="topic"/>
 			<topicref href="personnel-risk-assessment.dita" type="topic"/>

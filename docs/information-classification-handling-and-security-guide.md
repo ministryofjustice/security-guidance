@@ -1,4 +1,4 @@
-# Information Classification, Handling and Security Guide
+# Information classification, handling and security guide
 
 All Ministry of Justice \(MoJ\) employees interact with information, and are responsible for its protection. Information security must be considered during the process of designing, maintaining, and securing the MoJ's IT systems that are used to process information.
 
