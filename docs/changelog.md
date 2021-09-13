@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-09-13 17:21 BST [Government Security Standard 007 V2](https://security-guidance.service.justice.gov.uk/#background)**
+
+    Updates following the release of V2 of the Gov007 security standard.
+
 -   **2021-09-06 09:21 BST [National Security Vetting contacts.](https://security-guidance.service.justice.gov.uk/national-security-vetting-contact/)**
 
     Information on the role and registration process.
