@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 1 September 2021.
+**Note:** This guidance is dated: 6 September 2021.
 
 ### Popular links
 
@@ -34,7 +34,7 @@ For convenience, offline versions of this guidance are available.
 |Group Security. Contains Group Security policy and guidance.|[PDF](moj-guidance-gs.pdf)|[EPUB](moj-guidance-gs.epub)|
 |Technical users. Includes lots of technical detail. This document contains all content, including for 'All users' and from Group Security. Download this document if you want the complete set of published MoJ security policy and guidance.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 1 October 2021.
+The offline versions of this guidance are time-limited, and are not valid after 6 October 2021.
 
 ### Getting in touch
 
@@ -126,6 +126,7 @@ The documents have been developed and defined within this taxonomy, and are list
 #### Prior to employment
 
 |[Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)|All users|
+|[National Security Vetting contact](national-security-vetting-contact.md)|All users|
 |[National Security Vetting questions](national-security-vetting-questions.md)|All users|
 |[National Security Vetting for External Candidates FAQ](national-security-vetting-for-external-candidates-faq.md)|All users|
 |[Pre-employment screening](pre-employment-screening.md)|All users|

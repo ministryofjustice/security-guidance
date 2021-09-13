@@ -30,7 +30,7 @@ This guide is split into three sections:
 * [Information sharing](#information-sharing).
 * [Reporting data loss](#reporting-data-loss).
 
-**Note:** This document provides guidance for handling and sharing of information and data up to and including `OFFICIAL` and `OFFICIAL-SENSITIVE`, or the older Impact Level (IL) 3. Where information attracts a high protective marking or IL, advice **SHALL** be sought from the MoJ [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) and the MoJ Chief Information Security Office (CISO).
+**Note:** This document provides guidance for handling and sharing of information and data up to and including `OFFICIAL` and `OFFICIAL-SENSITIVE`, or the older Impact Level (IL) 3. Where information attracts a high protective marking or IL, advice **SHALL** be sought from the MoJ [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) and the MoJ Chief Information Security Officer (CISO).
 
 ##Handling data on MoJ IT systems
 
@@ -73,7 +73,7 @@ As these networks can support data up to and including `OFFICIAL-SENSITIVE`, a b
 * Frequency.
 * Any "need-to-know" considerations.
 
-Any additional controls **SHALL** be captured on the DMF (see [Data Movement Form](#data-movement-form-dmf), where advice should be obtained from the MoJ Chief Information Security Office (CISO) when required.
+Any additional controls **SHALL** be captured on the DMF (see [Data Movement Form](#data-movement-form-dmf), where advice should be obtained from the MoJ Chief Information Security Officer (CISO) when required.
 
 ##USB mass storage device
 
