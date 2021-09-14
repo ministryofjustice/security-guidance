@@ -393,6 +393,12 @@ if an audience attribute is present, then only matching content is included.
 		<topicref href="glossary.dita" type="topic"/>
 	</topichead>
 
+	<topichead platform="html">
+		<topicmeta><navtitle>HMCTS</navtitle></topicmeta>
+        <topicref href="hmcts/index.md" type="topic" format="markdown"/>
+        <topicref href="hmcts/sample.md" type="topic" format="markdown"/>
+	</topichead>
+
 	<reltable>
 		<relheader>
 			<relcolspec type="topic"/>
