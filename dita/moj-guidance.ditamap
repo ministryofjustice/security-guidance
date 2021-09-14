@@ -316,7 +316,9 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 		<topichead audience="audience-suppliers audience-tech">
 			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Supplier service delivery management</navtitle></topicmeta>
+			<topicref href="azure-account-baseline-templates.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="baseline-aws-accounts.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="baseline-for-azure-accounts.dita" type="topic" audience="audience-suppliers audience-tech"/>
 		</topichead>
 	</topichead>
 
