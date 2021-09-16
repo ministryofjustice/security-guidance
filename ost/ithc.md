@@ -2,70 +2,98 @@
 
 An IT Health Check (ITHC),
 also known as a Penetration (Pen) Test,
-is a series of controlled ethical hacking tests and actions,
-designed to identify and exploit security vulnerabilities
-in networks and applications.
+is an important component in the over-arching Security Assurance activities 
+and one of several possible mechanisms used to provide confidence and 
+assurance of the security baseline design.
 
-The testing output reports any vulnerabilities identified,
-and provides the opportunity to mitigate the findings
-before the services are made available for wider consumption ('go live').
+An ITHC is a series of controlled ethical hacking tests and actions 
+designed to deliberately identify and expose security vulnerabilities 
+that might be present in IT solutions.
+The objective of scrutinising an IT solution in this manner 
+allows the project and business teams to understand the risk exposure 
+should it become compromised and formulate a remediation plan to mitigate 
+and protect the systems and data that might reside in it.
 
-Once services are Live,
-it is recommended that ITHC's are performed at least annually
-to assure and maintain the integrity of the security baseline.
-If the existing baseline does not take into consideration
-emerging and evolving technologies,
-over time this introduces and widens the gap of opportunity
-for vulnerabilities to become exposed,
-and therefore compromises IT security health.
+# When should an ITHC be considered?
 
-## What can be tested?
+There are 3 primary scenarios when an ITHC might be undertaken:
+
+## Introduction of new IT services
+
+An ITHC at this phase of a project life cycle helps to establish the 
+security baseline before the solution is made available for wider use.
+It provides the ability to act on any risks and issues identified whilst in a 
+safe environment and reduces impact on others (users as well as systems) overall.
+
+## Changes to an existing IT baseline
+
+Any major design change to an existing IT service should include a review for a new 
+ITHC to determine that the baseline change does not introduce security risks.
+ITHC's are normally performed prior to formal release/rollout of the changes being made 
+and therefore identification and mitigation plans can be established and undertaken in a safe environment.
+
+## Scheduled ITHC for existing IT services
+
+As technology continues to evolve,
+it is important to understand the impact that this might have on existing solutions.
+Therefore, is it recommended that Product and Service owners work with the CAT Team 
+(Cyber Assistance Team) to review existing IT solutions and plan to undertake an ITHC on an agreed schedule.
+This helps to re-assess the security baseline,
+remediate any risks and issues as agreed,
+and therefore provide ongoing protection of systems and data.
+
+# What can be tested?
 
 The ITHC is performed by highly trained pen testing specialists,
-and (typically) by an external (3rd party) ITHC service provider.
+and (typically) by an external 3rd party ITHC service provider.
 
 There are many types of penetration tests that can be applied,
 including but not limited to:
 
--   Network and host configuration.
--   Web application.
--   Wireless network.
--   Client-server application.
--   End User devices such as laptops or mobile phones.
--   Social engineering.
--   Build configuration.
+-   Network and host configuration
+-   Web application
+-   Wireless network
+-   Client-server application
+-   End User devices such as laptops or mobile phones
+-   Social engineering
+-   Build configuration
 
 ## Vulnerability Scanning
 
-A vulnerability scan is different from an ITHC.
-A vulnerability scan is automated,
-and is entirely software-based,
-whereas an ITHC is conducted by trained,
+A vulnerability scan is not the same as an ITHC however,
+it can be performed and used to help build on the overarching story of the product being tested.
+
+A vulnerability scan is automated and is entirely software whereas an ITHC is conducted by trained,
 qualified professionals,
 and uses human interaction and human ingenuity to discover flaws that automated tools often miss.
 
-## How can I book an ITHC?
+# Primary Points of Contact
 
-If you have a requirement to conduct an ITHC on your network
-or application,
+The Cyber Assistance Team (CAT) Consultants are the primary points of contacts 
+for projects and Product/Service owners.
+The Consultants will work with the team to help ascertain the ITHC requirement and scope,
+as well as any forward schedule for ongoing ITHC requirements.
+You can contact the CAT Team directly to request Consultation support 
+if one is not already working with your project already:
+
+[CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
+
+# How can I book an ITHC?
+
+If you have a requirement to conduct an ITHC on your network and/or application,
 please complete and submit the New ITHC Request form:
 
 [New ITHC Request Form ](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2DJZ0qLuxaVBtuHXfXAIqUZUNDZTMTZJVjJZUkhLUFFLSEdOQ0lWOEUyWCQlQCN0PWcu)
 
-As well as registering your request,
-this initiates engagement with the Security,
-Services and Information Governance Group,
-who will further facilitate and manage the engagement
-and planning logistics between yourself and the 3rd party ITHC Team.
-It is advised that your project has a Cyber Assistance Team Consultant
-engaged to assist during the ITHC.
+The Cyber Security,
+Privacy and Live Service Delivery Team 
+manage the engagement and planning coordination between yourself and the 3rd party ITHC Team.
+If you have any queries,
+you can contact the team via:
 
-You can contact the CAT Team directly to request Consultant support
-if one isn't already working with your project:
+[security@justice.gov.uk](mailto:security@justice.gov.uk)
 
-[CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
-
-# Governance Workflow and Timeline considerations
+# Governance, workflow and timeline considerations
 
 ## Timeline Consideration
 
@@ -83,12 +111,15 @@ However,
 there is a risk that this will affect delivery dates,
 ITHC Provider availability,
 and end quote price.
+
+In scenarios where the formally agreed test dates are impacted,
+charges might be incurred for delays and cancellations.
+This is detailed within the Delayed/Cancellation Charges table on the next page.
+
 It is strongly recommended that ITHC scope is understood
 and confirmed as much as possible,
 and prior to submission.
 
-An overview of the ITHC Workflow is provided
-as a [download](downloads/ITHC%20workflow%20process.pptx),
-and can be seen in the following diagram:
+The following workflow aims to provide an overview as to the primary roles and action owners involved in the ITHC process:
 
 ![IT Health Check Process workflow](images/workflow.jpg)
