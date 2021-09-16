@@ -397,6 +397,7 @@ if an audience attribute is present, then only matching content is included.
 		<topicmeta><navtitle>HMCTS</navtitle></topicmeta>
         <topicref href="hmcts/index.md" type="topic" format="markdown"/>
         <topicref href="hmcts/sample.md" type="topic" format="markdown"/>
+        <topicref href="hmcts/vetting-and-clearance-policy.md" type="topic" format="markdown"/>
 	</topichead>
 
 	<reltable>
