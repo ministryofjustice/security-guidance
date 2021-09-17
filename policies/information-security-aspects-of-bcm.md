@@ -92,9 +92,8 @@ Additional tactical responsibilities include:
 
 ### Business Continuity Representatives (Business Unit and Support Unit  level)
 
-The Business Continuity Representatives are the people designated to co-ordinate the Business Continuity activities within the individual Business Unit or Support Unit  and, depending on the unit size/structure, it is expected that these will be either Directors or Senior Managers. Responsibilities to include:
+The Business Continuity Representatives are the people designated to co-ordinate the Business Continuity activities within the individual Business Unit or Support Unit  and, depending on the unit size/structure, it is expected that these will be either Directors or Senior Managers. Responsibilities to include assisting the Business Continuity Manager in “championing” BCM by;
 
-- Assisting the Business Continuity Manager in “championing” BCM by;
 - Acting as a single point of contact within the Business Unit and Support Unit  for Business Continuity issues;
 - Being able to explain how it works, the benefits of undertaking it and ensuring that the unit is engaged with the process;
 - Acting as a conduit for any queries / issues raised;
