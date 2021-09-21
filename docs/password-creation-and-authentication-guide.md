@@ -20,7 +20,7 @@ Best practice for creating a strong password is to create a passphrase consistin
 -   It is used alongside system monitoring tools such as last login attempt notifications, rather than enforcing regular password expiry.
 -   You have alternative or additional authentication options, such as Single-Sign On \(SSO\) and Multi-Factor Authentication \(MFA\), depending on a system's security classification or where otherwise required.
 
-Stronger passwords typically at least one instance of each of the following character types: upper case, lower case, numbers, and special characters. Special characters include: `@`, `&`, `$`, `%` or `^`. However, there is no specific obligation to include special characters for a password to be acceptable.
+Stronger passwords typically contain at least one instance of each of the following character types: upper case, lower case, numbers, and special characters. Special characters include: `@`, `&`, `$`, `%` or `^`. However, there is no specific obligation to include special characters for a password to be acceptable.
 
 For more details about passwords for service accounts, see the [Passwords](passwords.md) guidance.
 
