@@ -272,6 +272,8 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="email.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="email-security-guide.dita" type="topic" audience="audience-suppliers audience-tech">
 				<topicref href="email-authentication-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
+				<topicref href="email-blocklist-policy.dita" type="topic" audience="audience-tech"/>
+				<topicref href="email-blocklist-process.dita" type="topic" audience="audience-tech"/>
 				<topicref href="secure-email-transfer-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
 				<topicref href="spam-and-phishing-guide.dita" type="topic" audience="audience-tech"/>
 			</topicref>

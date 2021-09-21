@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="email-blocking-policy">
+  <title>Email blocking policy</title>
+  <body/>
+  <topic id="introduction">
+    <title>Introduction</title>
+    <body>
+      <p>This document outlines the policy for blocking emails, and deleting
+emails through administrative processes across email services across the
+<ph conref="conrefs.dita#conrefs/mojlong"/> estate. It specifically highlights the reasons for active inclusion
+on an email blocklist and removal from <ph conref="conrefs.dita#conrefs/moj"/> mailboxes.</p>
+        <p>Other useful references include:
+        <ul>
+            <li><xref href="acceptable-use.dita" format="dita">Acceptable use guidance</xref>, and related procedures.</li>
+            <li><xref href="data-security-and-privacy.dita" format="dita">Data protection guidance</xref>.</li>
+            <li><xref href="malware-protection-guide-introduction.dita" format="dita">Malware protection</xref>.</li>
+            <li><xref href="data-handling-and-information-sharing-guide.dita" format="dita">Information classification and sharing guidance</xref>.</li>
+        </ul></p>
+    </body>
+  </topic>
+  <topic id="scope">
+    <title>Scope</title>
+    <body>
+      <p>This policy applies to all email domains and gateways
+          managed by the <ph conref="conrefs.dita#conrefs/moj"/>,
+across all the applicable email services.
+          Specifically,
+          this policy applies to both email traffic inbound
+          (before it reaches the <ph conref="conrefs.dita#conrefs/moj"/>),
+          and outbound (before it leaves the <ph conref="conrefs.dita#conrefs/moj"/>).</p>
+    </body>
+  </topic>
+  <topic id="blocklist-definition">
+    <title>Blocklist definition</title>
+    <body>
+      <p>A blocklist is a real-time list,
+          consisting of elements such as IP addresses,
+          network ranges,
+          domain names,
+          email addresses,
+          URLs,
+          and other email characteristics.
+          The common characteristic of the elements is that the sender is suspected of delivering spam.</p>
+        <p>The blocklist primary purpose is to prevent emails from entering or leaving the
+            <ph conref="conrefs.dita#conrefs/moj"/> email services.
+            Blocking emails is part of the overall cyber security strategy,
+            providing defence-in-depth on <ph conref="conrefs.dita#conrefs/moj"/> managed email platforms.</p>
+      <p>Email types considered for blocking or removal include:
+      <ul>
+        <li>
+          <p>Malicious emails.</p>
+        </li>
+        <li>
+          <p>Phishing emails, including derivatives such as vishing, spearfishing, and whaling attacks.</p>
+        </li>
+        <li>
+          <p>Spoofed or impersonation emails.</p>
+        </li>
+        <li>
+          <p>Emails that cause disruption to the availability of an <ph conref="conrefs.dita#conrefs/moj"/> email service.</p>
+        </li>
+          <li>
+              <p>Other harmful or threatening emails.</p>
+          </li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="blocking-policy">
+    <title>Blocking policy</title>
+    <body>
+      <p>All email services used by the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> have the ability to add items to the blocklist.
+          The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/ostemailtext"/>
+          <ph conref="conrefs.dita#conrefs/policymust"/> have the appropriate permissions
+          to update and review each <ph conref="conrefs.dita#conrefs/moj"/> email service blocklist.</p>
+      <p>Any item added to an email service blocklist
+          <ph conref="conrefs.dita#conrefs/policyshould"/> be replicated across the different services
+          in use across the <ph conref="conrefs.dita#conrefs/moj"/> estate.</p>
+      <p>Blocklist items added are regularly reviewed to ensure the relevance of the block.
+          Timeframes for reviews reflect the retention policies on the individual email services.
+          Any changes that are made as a result of a review are completed and documented under
+          change or incident management processes.</p>
+      <p>When establishing the criteria for adding an item to the blocklist,
+          the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshould"/>
+          go through an impact assessment to establish the impact of adding the specific item
+          to the internal blocklist.
+          If the impact might be substantial for example causing widespread disruption,
+          or where legitimate emails might be blocked,
+          then the blocking object <ph conref="conrefs.dita#conrefs/policyshould"/>
+          be reconsidered or rescoped.</p>
+      <p>As part the review process,
+          or as a result of a user reported issue such as an incident reported through a users local IT Team,
+          a legitimate might email become blocked because it is now on a blocklist.
+          This might be where the email address was added to the blocklist manually,
+          or incorrectly flagged by automated tools in the email system.
+          In this scenario,
+          the <ph conref="conrefs.dita#conrefs/moj"/>
+          <ph conref="conrefs.dita#conrefs/policyshould"/> promptly unblock affected emails,
+          and re-evaluate the blocking rule responsible,
+          in line with this policy.
+          This unblock <ph conref="conrefs.dita#conrefs/policyshould"/> happen through
+          the incident management process.
+          All users are encouraged to speak with their Local IT team about concerns with email delivery,
+          or email blocking.</p>
+      <p>In the event that a legitimate email is blocked by an automatic vendor driven process,
+          or included as an "indicator of compromise" through a threat intelligence product,
+          the <ph conref="conrefs.dita#conrefs/moj"/> might request that the object be reviewed or reclassified.</p>
+      <p>Before adding any object to the blocklist,
+          or automatically removing it from an <ph conref="conrefs.dita#conrefs/moj"/> mailbox,
+          impact analysis <ph conref="conrefs.dita#conrefs/policymust"/> be carried out and documented through
+          the <ph conref="conrefs.dita#conrefs/moj"/> change/incident management process.</p>
+    </body>
+  </topic>
+  <topic id="deletion-of-existing-emails-in-scope-for-blocking">
+    <title>Deletion of existing emails in scope for blocking</title>
+    <body>
+      <p>As part of the blocking procedure,
+          the <ph conref="conrefs.dita#conrefs/ostemailtext"/> <ph conref="conrefs.dita#conrefs/policyshould"/> have
+          the ability to delete or purge emails across the estate which match the blocking criteria listed in the blocklist.
+          This is an optional step,
+          done at the discretion of the OST.</p>
+      <p>Purging of existing emails which have been added to the blocklist <ph conref="conrefs.dita#conrefs/policymust"/>
+          be done under peer review.
+          Peer review <ph conref="conrefs.dita#conrefs/policyshould"/> be completed by an independent member of the
+          team who is not involved directly in the analysis or investigation of the email.
+          Peer review takes place only if there is a further threat of users interacting with the newly classified email.</p>
+      <p>If deletion of emails takes place,
+          then details of the criteria should be included as part of the documentation process recorded as part of
+          change or incident management.</p>
+      <p>Where appropriate,
+          users are encouraged to delete for themselves any emails confirmed to be in scope for blocking or deletion.
+          Deletion of emails by the OST takes place only where there is a significant number of users who received the
+          newly classified email.</p>
+      <p>Removing emails from recipient mailboxes is a viable alternative to adding emails to an email blocklist.
+          This <ph conref="conrefs.dita#conrefs/policyshould"/> be the preferred option to prevent users from
+          interacting with emails considered for blocking or removal.</p>
+      <p>Deletion of emails <ph conref="conrefs.dita#conrefs/policyshould"/> be done in such a way that the email
+          could be recovered if required.
+          If this is not possible,
+          the email <ph conref="conrefs.dita#conrefs/policyshould"/> be moved to the users 'junk' folder
+          rather than simply being deleted.</p>
+      <p>Users <ph conref="conrefs.dita#conrefs/policyshould"/> be made aware of the deletion of emails.
+          However,
+          this is not mandatory.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> has no responsibility to delete emails from
+          unmanaged <ph conref="conrefs.dita#conrefs/moj"/> mailboxes.</p>
+      <p>Automatic deletion of emails for users <ph conref="conrefs.dita#conrefs/policyshould"/> be done through
+          automated processes.
+          The OST <ph conref="conrefs.dita#conrefs/policymustnot"/> have access to the mailbox from which unwanted
+          emails are purged.</p>
+    </body>
+  </topic>
+    <!-- HERE -->
+  <topic id="automated-blocking-tools">
+    <title>Automated blocking tools</title>
+    <body>
+      <p><ph conref="conrefs.dita#conrefs/moj"/> email services <ph conref="conrefs.dita#conrefs/policyshould"/>
+          come with inbuilt vendor managed blocking facilities based on known Indicators of Compromise (IOC's) to
+          prevent emails entering or leaving the <ph conref="conrefs.dita#conrefs/moj"/> email environments.
+          This vendor managed list can either be done through general lists of IOCs or heuristic scanning.</p>
+      <p>The email service vendor <ph conref="conrefs.dita#conrefs/policyshould"/> provide
+          the <ph conref="conrefs.dita#conrefs/moj"/> with the ability to reclassify incorrectly classified emails.
+          This reclassification process <ph conref="conrefs.dita#conrefs/policyshould"/> be accessible to
+          the <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security team,
+          as well as email administrators.</p>
+      <p>The Cyber Security Team encourages the integration with 3rd party threat intelligence feeds from trusted
+          providers as part of the in-depth defence strategy.</p>
+    </body>
+  </topic>
+  <topic id="blocking-or-deleting-received-emails">
+    <title>Blocking or deleting received emails</title>
+    <body>
+      <p>Any <ph conref="conrefs.dita#conrefs/moj"/> user who receives an email suspected to be one of the above
+          classifications <ph conref="conrefs.dita#conrefs/policycan"/> request that the email be blocked,
+          preventing future similar emails from being received.
+          On receipt of this,
+          the <ph conref="conrefs.dita#conrefs/moj"/> reviews the evidence and determines if addition to a blocklist
+          is appropriate.
+          Further actions taken follow the policy statements in this guidance.</p>
+      <p>Addition of emails to the blocklist is completed by either the local email service management team,
+          or by the Operational Security Team.
+          If the former,
+          then approval <ph conref="conrefs.dita#conrefs/policymust"/> be obtained from
+          the Operational Security Team.</p>
+      <p>In the event that an email is causing widespread disruptions or impacting business,
+          then the individual email administration team responsible for the email platforms
+          <ph conref="conrefs.dita#conrefs/policycan"/> delete emails or place blocks on emails without prior approval.
+          This <ph conref="conrefs.dita#conrefs/policyshould"/> be done under change and incident management,
+          with notifications sent to the Operational Security team.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> provide a way for
+          users to request emails for review by the relevant teams.</p>
+    </body>
+  </topic>
+  <topic id="preemptive-blocking">
+    <title>Preemptive blocking</title>
+    <body>
+      <p>If the <ph conref="conrefs.dita#conrefs/moj"/> Security Team receives intelligence about a credible threat to
+          the confidentiality,
+          integrity,
+          or availability of an <ph conref="conrefs.dita#conrefs/moj"/> managed email service,
+          then those emails <ph conref="conrefs.dita#conrefs/policyshould"/> be added to the blocklist.
+          Before blocking in line with the above policy statement,
+          the intelligence <ph conref="conrefs.dita#conrefs/policyshould"/> go through an impact analysis.</p>
+      <p>All blocks <ph conref="conrefs.dita#conrefs/policyshould"/> remain in place until the threat is no longer a
+          credible threat to the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+      <p>Email from previously known or blocked items <ph conref="conrefs.dita#conrefs/policymay"/> be re-added to the
+          list if there is credible information or grounds to do so.</p>
+    </body>
+  </topic>
+  <topic id="automatic-blocking-of-emails-based-on-attachments">
+    <title>Automatic blocking of emails based on attachments</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshould"/> be able to
+          restrict the delivery or sending of emails with certain malicious file attachment types.
+          A complete list of email attachments blocked <ph conref="conrefs.dita#conrefs/policyshould"/> be kept and
+          managed by the individual email administrators,
+          and <ph conref="conrefs.dita#conrefs/policyshould"/> be consistent across different email services in use
+          across the <ph conref="conrefs.dita#conrefs/moj"/> estate.</p>
+    </body>
+  </topic>
+    <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+    <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
