@@ -9,8 +9,8 @@
       <p>This policy provides more information on the actions expected of Technical and Service Provider users when using <ph conref="conrefs.dita#conrefs/mojlong"/> equipment and infrastructure. It is a sub-page to the <xref href="it-security-policy-overview.dita" format="dita">IT Security Policy Overview</xref>.</p>
     </body>
   </topic>
-  <topic id="who-is-this-for">
-    <title>Who is this for?</title>
+  <topic id="audience">
+    <title>Audience</title>
     <body>
       <p>This policy is aimed at:
         <dl>
@@ -48,31 +48,32 @@
     <title>Vulnerability scanning and patch management</title>
     <body>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/>
-        <ph audience="audience-basic audience-tech"><xref href="vulnerability-scanning-and-patch-management-guide.dita" format="dita">Vulnerability
+        <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="vulnerability-scanning-and-patch-management-guide.dita" format="dita">Vulnerability
         Scanning and Patch Management Guide</xref></ph><ph audience="audience-suppliers">Vulnerability
-          Scanning and Patch Management Guide</ph> outlines the requirements for maintaining
+          Scanning and Patch Management Guide</ph></ph><ph product="policy">Vulnerability
+            Scanning and Patch Management Guide</ph> outlines the requirements for maintaining
         up to date <ph conref="conrefs.dita#conrefs/moj"/> systems and equipment to protect them from security vulnerabilities.</p>
       <p>The guide includes patching schedules for the different <ph conref="conrefs.dita#conrefs/moj"/> systems and equipment according to their risk levels.
         It sets out the vulnerability ratings used to understand the criticality of a system security vulnerability.
-        The guide addresses the following areas:</p>
+        The guide addresses the following areas:
       <ul>
         <li>Patching schedules and technical guides.</li>
         <li>Scanning requirements for different <ph conref="conrefs.dita#conrefs/moj"/> systems.</li>
-      </ul>
+      </ul></p>
     </body>
   </topic>
   <topic id="technical-controls" audience="audience-tech">
     <title>Technical controls</title>
     <body>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="technical-security-controls-guide.dita" format="dita">Technical Security Controls Guide</xref>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph product="notpolicy"><xref href="technical-security-controls-guide.dita" format="dita">Technical Security Controls Guide</xref></ph><ph product="policy">Technical Security Controls Guide</ph>
         ensures protection from unauthorised access or misuse of the <ph conref="conrefs.dita#conrefs/moj"/> IT systems,
         applications,
         and data stored within them.</p>
       <p>The policy outlines the control design requirements that are needed to secure the <ph conref="conrefs.dita#conrefs/moj"/> network and IT assets
         in accordance with the three layers of defence.
-        The policy addresses following areas:
+        The policy addresses the following areas:
       <ul>
-        <li>Enforcing access controls in support of the <xref href="access-control-guide.dita" format="dita">Access Control Guide</xref>.</li>
+        <li>Enforcing access controls in support of the <ph product="notpolicy"><xref href="access-control-guide.dita" format="dita">Access Control Guide</xref></ph><ph product="policy">Access Control Guide</ph>.</li>
         <li>Building adequate security for the <ph conref="conrefs.dita#conrefs/moj"/> network and network boundaries.</li>
         <li>Creating secure software development and software configuration processes and designs.</li>
         <li>Monitoring the <ph conref="conrefs.dita#conrefs/moj"/> network against malicious code and anomalous behaviour.</li>
@@ -83,15 +84,18 @@
     <title>Cryptography</title>
     <body>
       <p>Cryptography is a method of securing information and communication channels to allow only authorised recipients and personnel to view the information.
-        The <ph conref="conrefs.dita#conrefs/moj"/>'s IT systems must use cryptographic technologies to provide secure connections to third party systems
-        or protect information <q>at rest</q> on user devices, including laptops and mobiles.</p>
+        The <ph conref="conrefs.dita#conrefs/moj"/>'s IT systems <ph conref="conrefs.dita#conrefs/policymust"/> use cryptographic technologies to provide secure connections to third party systems
+        or to protect information "at rest" on user devices,
+        including laptops and mobile devices.</p>
       <p>However,
         where staff have procured key material or hardware through the United Kingdom Key Production Authority (UKKPA)
         or any other cryptographic items where National Cyber Security Centre (NCSC) dictate that national cryptographic policy applies,
-        the NCSC dictate the policy and the <ph conref="conrefs.dita#conrefs/gov007"/> (previously HMG IA Standard No. 4, Protective Security Controls for the Handling and Management of Cryptographic Items, IS4) applies.
+        the NCSC dictate the policy.
+        In this case,
+        the <ph conref="conrefs.dita#conrefs/gov007"/> (previously HMG IA Standard No. 4, Protective Security Controls for the Handling and Management of Cryptographic Items, IS4) applies.
       <note>IS4 can be accessed by joining the <xref href="https://www.ncsc.gov.uk/section/keep-up-to-date/cisp" format="html" scope="external">Cyber
         Security Information Sharing Partnership (CISP)</xref> and joining the UKKPA-Crpy Key Policy and Incident Management Group.</note></p>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s Staff who use cryptography must ensure they have the appropriate level of security clearance.
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s Staff who use cryptography <ph conref="conrefs.dita#conrefs/policymust"/> ensure they have the appropriate level of security clearance.
         This requires secret (SC) level clearance for managing cryptography.</p>
       <p>The Chief Information Security Officer (CISO) is accountable to the Senior Information Risk Owner (SIRO) and Senior Security Advisor (SSA)
         for ensuring the <ph conref="conrefs.dita#conrefs/moj"/>'s compliance with the minimum cryptography requirements.</p>
@@ -104,17 +108,18 @@
         including development performed by third parties,
         is performed according to industry best practices and standards,
         as laid out in the Software Development Lifecycle Guide (SDLC).</p>
-      <p>All <ph conref="conrefs.dita#conrefs/moj"/> developers must ensure they are aware of the importance of security
+      <p>All <ph conref="conrefs.dita#conrefs/moj"/> developers <ph conref="conrefs.dita#conrefs/policymust"/> ensure
+        they are aware of the importance of security
         when developing software and applications for <ph conref="conrefs.dita#conrefs/moj"/> use.
         The SDLC addresses the required methodology to be used in code development,
-        and the security concerns that need to be accounted for during the development lifecycle.</p>
+        and the security concerns that <ph conref="conrefs.dita#conrefs/policymust"/> be accounted for during the development lifecycle.</p>
     </body>
   </topic>
   <topic id="security-incident-management">
     <title>Security incident management</title>
     <body>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s <ph audience="audience-basic audience-tech"><xref href="it-incident-management-policy.dita" format="dita">IT
-        Incident Management Policy</xref></ph><ph audience="audience-suppliers">IT Incident Management Policy</ph>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="it-incident-management-policy.dita" format="dita">IT
+        Incident Management Policy</xref></ph><ph audience="audience-suppliers">IT Incident Management Policy</ph></ph><ph product="policy">IT Incident Management Policy</ph>
         covers the end-to-end incident lifecycle,
         and provides the guidance for the <ph conref="conrefs.dita#conrefs/moj"/> to respond effectively in the event of an IT Security Incident,
         which includes security incidents.
@@ -124,8 +129,8 @@
         including containment,
         resolution,
         and recovery.</p>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph audience="audience-basic audience-tech"><xref href="incident-management-plan-and-process-guide.dita" format="dita">IT
-        Incident Management Guide</xref></ph><ph audience="audience-suppliers">IT Incident Management Guide</ph>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="incident-management-plan-and-process-guide.dita" format="dita">IT
+        Incident Management Guide</xref></ph><ph audience="audience-suppliers">IT Incident Management Guide</ph></ph><ph product="policy">IT Incident Management Guide</ph>
         provides additional detail to the policy,
         but also further guidance around Incident Response Team assembly and communication channels.</p>
     </body>
@@ -145,42 +150,43 @@
           Within the Framework,
           the Contract owner is responsible for ensuring that:
           <ul>
-            <li>The supplier service delivery must be regularly monitored,
+            <li>The supplier service delivery <ph conref="conrefs.dita#conrefs/policymust"/> be regularly monitored,
               reviewed,
               and audited.</li>
             <li>When the <ph conref="conrefs.dita#conrefs/moj"/> buys IT goods,
               services,
               systems,
               or equipment,
-              IT security implications must be considered.</li>
+              IT security implications <ph conref="conrefs.dita#conrefs/policymust"/> be considered.</li>
             <li>All <ph conref="conrefs.dita#conrefs/moj"/> IT suppliers who handle and store information on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>
-              must be assessed annually against the <ph conref="conrefs.dita#conrefs/gov007"/> (previously HMG <xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">Security Policy Framework</xref>)
+              <ph conref="conrefs.dita#conrefs/policymust"/> be assessed annually against the <ph conref="conrefs.dita#conrefs/gov007"/> (previously HMG <xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">Security Policy Framework</xref>)
               and the <ph conref="conrefs.dita#conrefs/moj"/>'s <xref href="it-security-policy-overview.dita" format="dita">IT Security Policy</xref>.
               Additional self-assessment requirements may be stipulated in the contract between the IT supplier and the <ph conref="conrefs.dita#conrefs/moj"/>.
               The <ph conref="conrefs.dita#conrefs/moj"/>'s IT suppliers are responsible for carrying out these self-assessments,
               and for submitting those assessments to the <ph conref="conrefs.dita#conrefs/moj"/>.
               The <ph conref="conrefs.dita#conrefs/moj"/> is responsible for approving the assessments submitted by the supplier.</li>
-            <li>The appropriate measures must be put in place for any supplier not meeting compliance requirements,
-              and the relevant <ph conref="conrefs.dita#conrefs/moj"/> teams must be notified and consulted.</li>
-            <li>All <ph conref="conrefs.dita#conrefs/moj"/> suppliers and contractors adhere to the GDPR and the Data Protection Act 2018.</li>
+            <li>The appropriate measures <ph conref="conrefs.dita#conrefs/policymust"/> be put in place for any supplier not meeting compliance requirements,
+              and the relevant <ph conref="conrefs.dita#conrefs/moj"/> teams <ph conref="conrefs.dita#conrefs/policymust"/> be notified and consulted.</li>
+            <li>All <ph conref="conrefs.dita#conrefs/moj"/> suppliers and contractors <ph conref="conrefs.dita#conrefs/policymust"/> adhere to the GDPR and the Data Protection Act 2018.</li>
           </ul></p>
         <p>Further advice can be found in the
-          <ph audience="audience-basic audience-tech"><xref href="information-classification-handling-and-security-guide.dita" format="dita">Information Classification,
+          <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="information-classification-handling-and-security-guide.dita" format="dita">Information Classification,
           Handling and Security Guide</xref></ph><ph audience="audience-suppliers">Information Classification,
-            Handling and Security Guide</ph>.</p>
+            Handling and Security Guide</ph></ph><ph product="policy">Information Classification,
+              Handling and Security Guide</ph>.</p>
       </body>
     </topic>
     <topic id="physical-and-personnel-security" audience="audience-suppliers audience-tech">
       <title>Physical and personnel Security</title>
       <body>
-        <p>The Contract owner shall include appropriate clauses in a contract with any supplier which will define the classified matter that is furnished,
+        <p>The Contract owner <ph conref="conrefs.dita#conrefs/policymust"/> include appropriate clauses in a contract with any supplier which will define the classified matter that is furnished,
           or which is to be developed,
           under said contract.
           This will include any relevant personnel security controls such as security clearance.
           Not all contracts will require such clauses,
           but where they are required,
           and failing the inclusion of this information in the contract,
-          a separate <xref href="security-aspect-letters.dita" format="dita">Security Aspects Letter (SAL)</xref> is issued to the contractor
+          a separate <ph product="notpolicy"><xref href="security-aspect-letters.dita" format="dita">Security Aspects Letter (SAL)</xref></ph><ph product="policy">Security Aspects Letter (SAL)</ph> is issued to the contractor
           along with the contract document.</p>
       </body>
     </topic>
@@ -207,7 +213,7 @@
       <title>Technical risk assessment and information assurance</title>
       <body>
         <p>The <ph conref="conrefs.dita#conrefs/moj"/> risk assessment and information assurance is defined in the Information Assurance Framework Process,
-          which requires that all IT systems that manage or are connected to government information must be assessed to identify technical risks.</p>
+          which requires that all IT systems that manage or are connected to government information <ph conref="conrefs.dita#conrefs/policymust"/> be assessed to identify technical risks.</p>
       </body>
     </topic>
     <topic id="audit">
@@ -219,7 +225,7 @@
           contract managers or <ph conref="conrefs.dita#conrefs/moj"/> HQ managers,
           as judged to be appropriate by the managers with responsibility for delivery.
           For instance,
-          checks on Information Asset Registers and Information Risk Registers should be carried out quarterly,
+          checks on Information Asset Registers and Information Risk Registers <ph conref="conrefs.dita#conrefs/policyshould"/> be carried out quarterly,
           but other information assurance checks might be carried out less frequently,
           or triggered by events such as contract renewals.</p>
         <p>Third party audits will be carried out by the
@@ -229,22 +235,22 @@
         contact the Government Internal Audit Agency: <ph conref="conrefs.dita#conrefs/giaaemail"/></p>
         <p>When conducting an audit:
         <ul>
-          <li>Documentary evidence must be made available to auditors upon request.</li>
-          <li>Details provided should include the implementation of any technical security control in an IT system.
-            Documentary evidence of changes must be reviewed.</li>
-          <li>The evaluation should cover all types of changes,
+          <li>Documentary evidence <ph conref="conrefs.dita#conrefs/policymust"/> be made available to auditors upon request.</li>
+          <li>Details provided <ph conref="conrefs.dita#conrefs/policyshould"/> include the implementation of any technical security control in an IT system.
+            Documentary evidence of changes <ph conref="conrefs.dita#conrefs/policymust"/> be reviewed.</li>
+          <li>The evaluation <ph conref="conrefs.dita#conrefs/policyshould"/> cover all types of changes,
             including configuration changes,
             to IT systems,
             and the IT security implications of those changes.
             This includes the case where no significant IT security impacts are identified.</li>
-          <li>Evidence of operating effectiveness for technical controls must be provided,
+          <li>Evidence of operating effectiveness for technical controls <ph conref="conrefs.dita#conrefs/policymust"/> be provided,
             and the desired risk mitigation as documented in the Information Assurance Framework Process.</li>
-          <li>Activities involving verification of operational systems should be carefully planned and agreed to minimise disruptions to business processes.</li>
+          <li>Activities involving verification of operational systems <ph conref="conrefs.dita#conrefs/policyshould"/> be carefully planned and agreed to minimise disruptions to business processes.</li>
         </ul></p>
       </body>
     </topic>
   </topic>
   <topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

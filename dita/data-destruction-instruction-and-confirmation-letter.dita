@@ -18,22 +18,22 @@
         regulative,
         privacy and security purposes,
         it must be possible for Suppliers to decommission and delete
-        (irreversibly <q>erase</q> or <q>destroy</q>) data and warrant the same.
+        (irreversibly "erase" or "destroy") data and warrant the same.
         Similarly,
         any storage media holding such data must be securely and comprehensively
         erased before reuse or disposal (such as at end-of-life).</p>
       <p>An example of a data destruction obligation is where a Supplier
-        (acting as a <q>Data Processor</q>,
+        (acting as a "Data Processor",
         as defined by Data Protection legislation) working on behalf of,
         or supplying services to,
-        the <ph conref="conrefs.dita#conrefs/moj"/> (the <q>Data Controller</q>,
+        the <ph conref="conrefs.dita#conrefs/moj"/> (the "Data Controller",
         as also defined by Data Protection legislation).
         The Data Processor,
         including any sub-processor instructed or otherwise involved in Data
         Processing on the Data Processor's behalf,
         must comply with instructions from the Data Controller regarding data
         irrespective of any commercial contract or promise such as a Data Subject
-        exercising the <q>right to be forgotten</q>.</p>
+        exercising the "right to be forgotten".</p>
       <p>This document provides an acceptable data destruction baseline from the
         <ph conref="conrefs.dita#conrefs/moj"/>,
         and associated declaration.
@@ -155,5 +155,5 @@ SW1H 9AJ
       <p>Date: __________</p>
     </body>
   </topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

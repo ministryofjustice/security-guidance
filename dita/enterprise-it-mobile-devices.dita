@@ -3,7 +3,7 @@
 <topic id="enterprise-it-mobile-devices">
   <title>Enterprise IT - Mobile Devices</title>
   <body>
-    <p>We have developed a series of logging requirements for Mobile Devices (also known as End-user Devices), such as thin-clients, desktops, laptops, tablets and mobile smart phones at different maturity tiers in order to support defenisve cyber security, such as detecting breaches.</p>
+    <p>We have developed a series of logging requirements for Mobile Devices (also known as End-user Devices), such as thin-clients, desktops, laptops, tablets and mobile smart phones at different maturity tiers in order to support defensive cyber security, such as detecting breaches.</p>
   </body>
   <topic id="baseline-maturity-tier">
     <title>Baseline Maturity Tier</title>
@@ -282,5 +282,5 @@
       </body>
     </topic>
   </topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

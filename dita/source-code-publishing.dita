@@ -23,11 +23,11 @@
     <title>Reasons for working in the open and sharing source code by default</title>
     <body>
       <p><xref href="https://www.gov.uk/service-manual/service-standard#criterion-8" format="html" scope="external">Point 8</xref> of the
-        <q>Digital by Default</q> Service Standard states that you should:
+        "Digital by Default" Service Standard states that you should:
       <lq>Make all new source code open and reusable,
         and publish it under appropriate licences
         (or provide a convincing explanation as to why this cannot be done for specific subsets of the source code).</lq></p>
-      <p>This includes <q><xref href="https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable" format="html" scope="external">Making source code open and reusable</xref></q>.</p>
+      <p>This includes "<xref href="https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable" format="html" scope="external">Making source code open and reusable</xref>".</p>
     </body>
   </topic>
   <topic id="when-you-should-not-publish-materials-in-the-open">
@@ -49,5 +49,5 @@
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

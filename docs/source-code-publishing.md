@@ -10,11 +10,11 @@ This document is not about the use of existing open source materials.
 
 ## Reasons for working in the open and sharing source code by default
 
-[Point 8](https://www.gov.uk/service-manual/service-standard#criterion-8) of the “Digital by Default” Service Standard states that you should:
+[Point 8](https://www.gov.uk/service-manual/service-standard#criterion-8) of the "Digital by Default" Service Standard states that you should:
 
 > Make all new source code open and reusable, and publish it under appropriate licences \(or provide a convincing explanation as to why this cannot be done for specific subsets of the source code\).
 
-This includes “[Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)”.
+This includes "[Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)".
 
 ## When you should not publish materials in the open
 

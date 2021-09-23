@@ -1,6 +1,6 @@
 # Enterprise IT - Mobile Devices
 
-We have developed a series of logging requirements for Mobile Devices \(also known as End-user Devices\), such as thin-clients, desktops, laptops, tablets and mobile smart phones at different maturity tiers in order to support defenisve cyber security, such as detecting breaches.
+We have developed a series of logging requirements for Mobile Devices \(also known as End-user Devices\), such as thin-clients, desktops, laptops, tablets and mobile smart phones at different maturity tiers in order to support defensive cyber security, such as detecting breaches.
 
 ## Baseline Maturity Tier
 

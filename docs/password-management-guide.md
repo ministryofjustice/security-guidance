@@ -33,7 +33,7 @@ Make every effort to avoid creating yet another new or modified password-based a
 
 -   Multi-user accounts should be avoided, but if required refer to the [Multi-User Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md) for further guidance.
 -   Technical controls must be implemented to support requirements in the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md).
--   Applications or software must support MFA, and where possible single sign-on \(SSO\) solutions leveraged by the MoJ.
+-   Applications or software must support MFA, and where possible single sign-on \(SSO\) solutions used by the MoJ.
 -   Passwords must not be stored in clear text or using encryption algorithms with known security weaknesses.
 -   Passwords must not be transmitted in clear text over networks.
 -   All applications or software must use HTTPS to require authentication.

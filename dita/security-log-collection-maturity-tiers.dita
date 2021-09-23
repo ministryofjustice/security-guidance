@@ -17,7 +17,7 @@ Such systems should be monitored to a higher standard.</p>
 For example,
 a system operating at the Enhanced tier should also meet the requirements of the Baseline tier.</p>
       <!--
-    <image platform="html" href="https://ministryofjustice.github.io/security-guidance/images/tiers.png" placement="break" scope="external"><alt>A diagram showing a large triangle, base at the bottom, split into three levels. The top level has the heading 'Bespoke'. It contains two items: Customised logging, and Dynamic event responses. The middle level has the heading 'Enhanced'. It contains three items: Notification of events, Active analysis, and Automation of manual processes. The bottom and largest level has the heading 'Baseline'. It contains four items: System logs, Authorisation logs, Failure logs, and Security functions.</alt></image>
+    <image platform="html" href="https://security-guidance.service.justice.gov.uk/images/tiers.png" placement="break" scope="external"><alt>A diagram showing a large triangle, base at the bottom, split into three levels. The top level has the heading 'Bespoke'. It contains two items: Customised logging, and Dynamic event responses. The middle level has the heading 'Enhanced'. It contains three items: Notification of events, Active analysis, and Automation of manual processes. The bottom and largest level has the heading 'Baseline'. It contains four items: System logs, Authorisation logs, Failure logs, and Security functions.</alt></image>
     -->
     <image platform="html" href="images/tiers.png" placement="break" scope="local"><alt>A diagram showing a large triangle, base at the bottom, split into three levels. The top level has the heading 'Bespoke'. It contains two items: Customised logging, and Dynamic event responses. The middle level has the heading 'Enhanced'. It contains three items: Notification of events, Active analysis, and Automation of manual processes. The bottom and largest level has the heading 'Baseline'. It contains four items: System logs, Authorisation logs, Failure logs, and Security functions.</alt></image>
     <image platform="epub pdf" href="images/tiers-small.png" placement="break" scope="local"><alt>A diagram showing a large triangle, base at the bottom, split into three levels. The top level has the heading 'Bespoke'. It contains two items: Customised logging, and Dynamic event responses. The middle level has the heading 'Enhanced'. It contains three items: Notification of events, Active analysis, and Automation of manual processes. The bottom and largest level has the heading 'Baseline'. It contains four items: System logs, Authorisation logs, Failure logs, and Security functions.</alt></image>
@@ -50,5 +50,5 @@ The objective is produce logging that reliably identifies and captures key nuanc
     </body>
   </topic>
 	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

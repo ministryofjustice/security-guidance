@@ -20,7 +20,7 @@ Best practice for creating a strong password is to create a passphrase consistin
 -   It is used alongside system monitoring tools such as last login attempt notifications, rather than enforcing regular password expiry.
 -   You have alternative or additional authentication options, such as Single-Sign On \(SSO\) and Multi-Factor Authentication \(MFA\), depending on a system's security classification or where otherwise required.
 
-Stronger passwords typically at least one instance of each of the following character types: upper case, lower case, numbers, and special characters. Special characters include: `@`, `&`, `$`, `%` or `^`. However, there is no specific obligation to incude special characters for a password to be acceptable.
+Stronger passwords typically contain at least one instance of each of the following character types: upper case, lower case, numbers, and special characters. Special characters include: `@`, `&`, `$`, `%` or `^`. However, there is no specific obligation to include special characters for a password to be acceptable.
 
 For more details about passwords for service accounts, see the [Passwords](passwords.md) guidance.
 
@@ -38,7 +38,7 @@ If a service supports MFA, it must be enabled and used by default. An MFA prompt
 
 -   The system relies upon 'cloud' applications, cloud-based APIs, or other internet-connected services.
 -   A new device is used to log on to the service.
--   A password change is in progress for a privileged account.
+-   A password change is being made for a privileged account.
 
 Further guidance around the use of Multi-Factor Authentication can be found in the [Authentication](authentication.md) guide.
 
@@ -47,7 +47,7 @@ Further guidance around the use of Multi-Factor Authentication can be found in t
 MoJ SSO solutions include Office 365, and Digital and Technology G-Suite. SSO solutions must be integrated within the MoJ application development and service delivery environment, to improve user experience by authenticating to systems using existing MoJ credentials. SSO must:
 
 -   Have a pre-defined identity source for users, such as Active Directory, Google Directory or LDAP. This means a developer or service provider must use an established MoJ SSO solution rather than creating a new one.
--   Normally be based on applications rather than groups of people. This means that SSO is to a specific application or service, rather than saying something like 'all administrators of the Widget application have SSO-managed access'. Instead, SSO must be enabled for the 'Widget'application. It can be based on groups of people or roles if these have been defined.
+-   Normally be based on applications rather than groups of people. This means that SSO is to a specific application or service, rather than saying something like 'all administrators of the Widget application have SSO-managed access'. Instead, SSO must be enabled for the 'Widget' application. It can be based on groups of people or roles if these have been defined.
 
 ## Contact details
 

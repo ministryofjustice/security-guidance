@@ -67,7 +67,7 @@ Typical settings that affect privacy include:
 * Your Profile information and photo.
 * When you were last active.
 * Any status updates.
-* Whether you have read direct messages (Read Receipts).
+* Whether you have read direct messages ("Read Receipts").
 * Whether others can add you to their groups, possibly without your knowledge or agreement.
 
 But it's very easy to forget to check the settings, from time-to-time, to make sure they are still correct.
@@ -126,5 +126,5 @@ Dealing with these attacks can be emotionally draining; even just reading the me
 
 ##Feedback
 
-If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

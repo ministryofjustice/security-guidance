@@ -1,14 +1,41 @@
 # Passwords
 
-This article provides guidance on passwords within the Ministry of Justice \(MoJ\). It helps you protect MoJ IT systems by telling you about choosing and using passwords. Whenever you see the word “system” here, it applies to:
+This article provides guidance on passwords and Personal Identification Numbers \(PINs\) within the Ministry of Justice \(MoJ\). It helps you protect MoJ IT systems by telling you about choosing and using passwords and PINs. Whenever you see the word "system" here, it applies to:
 
 -   Hardware, such as laptops, PCs, servers, mobile devices, and any IT equipment.
 -   Software, such as the Operating System, or applications installed on hardware, or mobile device applications \(apps\).
 -   Services, such as remote databases or cloud-based tools like [Slack](https://slack.com/).
 
-This password guidance is for all users. It also includes more detail for system administrators or developers.
+This guidance is for all users. It also includes more detail for system administrators or developers.
 
-## Best practices for everyone
+**Note:** Except where stated, the guidance in this article applies to both passwords and PINs.
+
+## General best practices
+
+**Note:** This section applies to passwords and PINs.
+
+If a system or another person provides you with a password, change it before doing any MoJ work on that system. Examples of 'single-use' passwords include:
+
+-   Your own account on a work-provided laptop.
+-   A shared account for accessing a data analytics service.
+-   All supplier or vendor supplied accounts.
+
+You **SHALL** change a password whenever:
+
+-   There has been a security incident involving your account or password. For example, someone guessed your password, or you used it on another account.
+-   There was a security incident with the service that you access using the password. For example, if someone broke into the system that provides the service you use.
+-   Your line manager or other authorised person tells you to do so.
+
+When required to change a password, you **SHALL** do so as soon as possible. If you don't change the password soon enough, you might be locked out of your account automatically. The following table shows the maximum time allowed:
+
+|Type of system|Maximum time to change a password|
+|--------------|---------------------------------|
+|Single-user systems, such as laptops|1 week|
+|All other systems|1 day|
+
+### Best password practices for everyone
+
+**Note:** This section applies to passwords only, not PINs.
 
 The MoJ password guidance follows [NCSC guidance](https://www.ncsc.gov.uk/guidance/using-passwords-protect-your-data). The NCSC recommends a [simpler](https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach) approach to passwords. Some agencies or bodies might have specific requirements or variations. Check your team Intranet or ask your Line Manager for more information.
 
@@ -22,36 +49,32 @@ The most important points to remember are that passwords should be:
 -   Not a dictionary word. A combination of dictionary words might be suitable, such as “`CorrectHorseBatteryStaple`”.
 -   Unique for each account or service.
 
-If a system or another person provides you with a password, change it before doing any MoJ work on that system. Examples of 'single-use' passwords include:
+### Best PIN practices for everyone
 
--   Your own account on a work-provided laptop.
--   A shared account for accessing a data analytics service.
--   All supplier or vendor supplied accounts.
+**Note:** This section applies to PINs only, not passwords.
 
-You must change a password whenever:
+Some devices, especially mobile devices, only support numerical passwords, or Personal Identification Numbers \(PINs\).
 
--   There has been a security incident involving your account or password. For example, someone guessed your password, or you used it on another account.
--   There was a security incident with the service that you access using the password. For example, if someone broke into the system that provides the service you use.
--   Your line manager or other authorised person tells you to do so.
+If the device supports passwords, then passwords **SHOULD** be used rather than PINs.
 
-When required to change a password, you must do so as soon as possible. If you don't change the password soon enough, you might be locked out of your account automatically. The following table shows the maximum time allowed:
+If the device supports only PINs, you **SHOULD**:
 
-|Type of system|Maximum time to change a password|
-|--------------|---------------------------------|
-|Single-user systems, such as laptops|1 week|
-|All other systems|1 day|
+-   Always use a separate and unique PIN for each account or service.
+-   Ensure the PIN is at least 4 characters long.
+-   Avoid using obvious PINs, such as `1234`.
+-   Avoid using repeating digits in the PIN, for example `0000` or `9999`.
 
-### App-based password protection for files
+## App-based password protection for files
 
-Some applications provide a mechanism for protecting files, for example by using a password to control whether someone can open, or edit, a file.
+Some applications - including Microsoft Office tools such as Word, Excel, and Powerpoint - provide mechanisms for protecting files. A password controls whether someone can open, or edit, a file.
 
 While these app-based password protection mechanisms are better than nothing, there are three good reasons for avoiding them if possible.
 
 1.  You depend on the application to provide and maintain strong password protection. If the password implementation fails, or has a weakness, you might not know about it. This means that you might think your information is protected, when in fact it is at risk.
-2.  It is tempting to use a standard password for protecting a file within the app, so that other people can share and work with the file. Changing the password becomes “inconvenient”. The result is that many versions of the data file are all protected with the same password. Also, if anyone has ever been given the password to access the file, they will always be able to access the file.
+2.  It is tempting to use a standard password for protecting a file within the app, so that other people can share and work with the file. Changing the password becomes "inconvenient". The result is that many versions of the data file are all protected with the same password. Also, if anyone has ever been given the password to access the file, they will always be able to access the file.
 3.  If you forget the app-based password, there might not be a recovery process available to you.
 
-For these reasons, MoJ advice is that you **SHOULD NOT** use password tools within an app to protect data files that are processed by the app. Instead, either:
+For these reasons, MoJ advice is that you **SHOULD NOT** use password tools within an app to protect data files that are processed by the app. For example, you **SHOULD NOT** use the password tools with Microsoft Word, Excel, or Powerpoint, to protect MoJ information within files. Instead, either:
 
 1.  Store the data files in a shared but secure area, such as the MoJ SharePoint storage facility.
 2.  Use separate encryption tools to protect data files, separate from the app that works with the data files.
@@ -93,7 +116,7 @@ Extra guidance for system administrators or developers is available [here](https
 
 Follow the [Government Service Manual for Passwords](https://www.gov.uk/service-manual/design/passwords) when you administer or develop MOJ systems or services.
 
-Suppliers and vendors must ensure that systems support the password requirements. Systems must be able to issue, change, reset, and revoke passwords. This must be possible using well-defined and fully-described processes. Supply enough information and procedures to fulfil MoJ password policy.
+Suppliers and vendors **SHALL** ensure that systems support the password requirements. Systems **SHALL** be able to issue, change, reset, and revoke passwords. This **SHALL** be possible using well-defined and fully-described processes. Supply enough information and procedures to fulfil MoJ password policy.
 
 The [NCSC guidance](https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach) for simplifying passwords says that forcing complex passwords has:
 
@@ -116,7 +139,7 @@ Further guidance around the management of passwords at the MoJ is available:
 
 ## User facing services
 
-Authenticate people accessing user facing services by using the [GOV.UK Verify](https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify) service. It is not necessary for someone to be a UK Citizen to use the GOV.UK Verify service, but they must have a UK address.
+Authenticate people accessing user facing services by using the [GOV.UK Verify](https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify) service. It is not necessary for someone to be a UK Citizen to use the GOV.UK Verify service, but they **SHALL** have a UK address.
 
 If it is not possible to use GOV.UK Verify, follow the advice presented here to support citizen passwords. Pay extra attention to the following points:
 
@@ -129,9 +152,9 @@ For more information, see the [Multi-user accounts and Public-Facing Service Acc
 
 ## Service Accounts
 
-System and application authentication must always use service accounts. Use certificates for service account authentication. Follow [NCSC guidelines](https://www.ncsc.gov.uk/guidance/provisioning-and-securing-security-certificates) for issuing and securing the certificates. If you can't use certificates, passwords are an acceptable alternative.
+System and application authentication **SHALL** always use service accounts. Use certificates for service account authentication. Follow [NCSC guidelines](https://www.ncsc.gov.uk/guidance/provisioning-and-securing-security-certificates) for issuing and securing the certificates. If you can't use certificates, passwords are an acceptable alternative.
 
-Service account passwords must:
+Service account passwords **SHALL**:
 
 -   Be system generated.
 -   Be at least 15 characters long.
@@ -147,17 +170,21 @@ For more information, see the [Multi-user accounts and Public-Facing Service Acc
 
 Change all default passwords when a new, modified, or replacement system arrives. Complete the changes before making the system available for any MoJ work.
 
+When preparing devices or services for first use, system developers or system administrators **SHALL** configure the default password on the device or service so that it can be used once only. The “first use” of a password forces the user to change the password before the device or service can be used.
+
 ## Multi-factor Authentication
 
 [Multi-factor Authentication \(MFA\)](https://en.wikipedia.org/wiki/Multi-factor_authentication) provides extra security for login and access controls. MFA is also referred to as Two-Factor Authentication or 2FA.
 
-Use MFA in systems for privileged or important step confirmation. For example, the user must enter their MFA code when deleting a record.
+MFA **SHALL** be implemented and enabled on MoJ systems and services, including user accounts, wherever possible.
 
-Follow the [NCSC guidance](https://www.ncsc.gov.uk/guidance/multi-factor-authentication-online-services) for enabling MFA.
+When performing a privileged action, such as installing or reconfiguring a system, or changing critical or sensitive details, it is important that the user is correctly and reliably authenticated. This is best done by using MFA. For example, before deleting a database configuration, MFA **SHOULD** have been completed successfully during the authentication process, to confirm that the user is indeed who they claim to be, and that they are indeed authorised to perform that privileged task.
 
-Use [Time-based One-Time Password Algorithm \(TOTP\)](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm) or hardware and software tokens. If possible, avoid using SMS or email messages containing one-time login codes. If TOTP applications, or hardware- or software-based tokens, are not available to you, then SMS MFA or email MFA is still better than no MFA.
+In general, follow the [NCSC guidance](https://www.ncsc.gov.uk/guidance/multi-factor-authentication-online-services) for enabling MFA.
 
-Systems must offer MFA alternatives to users where they are available. For example, MFA codes sent by SMS are not suitable if mobile devices are not allowed in the room or building.
+Use [Time-based One-Time Password Algorithm \(TOTP\)](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm), or hardware and software tokens, as the preferred MFA mechanisms. If possible, avoid using SMS or email messages containing one-time login codes. If TOTP applications, or hardware- or software-based tokens, are not available to you, then SMS MFA or email MFA is still better than no MFA.
+
+Systems **SHALL** offer MFA alternatives to users where they are available. For example, MFA codes sent by SMS are not suitable if mobile devices are not allowed in the room or building where the privileged task is being performed.
 
 For more information, see the [Multi-Factor Authentication \(MFA\) Guide](multi-factor-authentication-mfa-guide.md).
 
@@ -167,7 +194,7 @@ Check that a system, service, or information protected by a password is not [cla
 
 Check which other systems have access to the system or service. Make sure that the access control suits the material at both ends of the connection.
 
-Appropriate extra measures might include tokens or other multi-factor authentication devices. Think about using an existing authentication system other than passwords. Avoid creating new authentication systems. Try to reduce what a user must remember. For more information about authentication, see the [Authentication](authentication.md) guide.
+Appropriate extra measures might include tokens or other multi-factor authentication devices. Think about using an existing authentication system other than passwords. Avoid creating new authentication systems. Try to reduce what a user needs to remember. For more information about authentication, see the [Authentication](authentication.md) guide.
 
 A technical risk assessment helps identifies extra controls for systems. This is mandatory for systems that need formal assurance. Multi-user systems are also subject to a Business Impact Assessment \(BIA\). For example, an assessment might find that you need extra checks for logging in to an account or service. The checks might depend on various factors such as:
 
@@ -184,7 +211,7 @@ Examples of these extra mechanisms include:
 
 ## Password storage
 
-Never store, display or print passwords [in the clear](https://en.wikipedia.org/wiki/Plaintext). If you must store them, do so by using [salted](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet#Use_a_cryptographically_strong_credential-specific_salt) [hashes](https://en.wikipedia.org/wiki/Hash_function).
+Never store, display or print passwords [in the clear](https://en.wikipedia.org/wiki/Plaintext). If you need to store them, do so by using [salted](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet#Use_a_cryptographically_strong_credential-specific_salt) [hashes](https://en.wikipedia.org/wiki/Hash_function).
 
 Ensure the password storage security matches the [classification](official-official-sensitive.md) of the system or data. For help with the appropriate strength of hashing, contact the Cyber consulting team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk), or the security team: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 
@@ -196,7 +223,7 @@ If a password is ever entered incorrectly, a count starts. After at most 10 \(te
 
 ## Password reset
 
-If a password lock occurs, a reset is necessary. This requires action by the system administrator or the MoJ Service Desk. The process should be like issuing the password for the first time. Other account details are not changed during the reset. This helps avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
+If a password lock occurs, a reset is necessary. This requires action by the system administrator or the MoJ IT Service Desk. The process should be like issuing the password for the first time. Other account details are not changed during the reset. This helps avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
 
 ## Blocking bad passwords
 
@@ -206,7 +233,7 @@ Developers and administrators should configure systems to check for and block ob
 
 ## Distributing passwords to users
 
-There are times when a system must send a password to a user. An example is when granting access to a service for the first time. To send a password to a user, the mechanism used must be secure. The protection should match the sensitivity of the information protected by password.
+There are times when a system needs to send a password to a user. An example is when granting access to a service for the first time. To send a password to a user, the mechanism used **SHALL** be secure. The protection should match the sensitivity of the information protected by password.
 
 Passwords created for a user should always be [single-use](#single-use-passwords). Use an out-of-band channel to send the password to the user. For example, send the password to the user's line manager who will give it to the user.
 
@@ -214,9 +241,9 @@ For more information, see the [Password Storage and Management Guide](password-s
 
 ## Single-use passwords
 
-Some passwords are 'one time' or single-use. Administrators and developers use these to grant access to a service for the first time. After using the password once, the user must immediately change the password.
+Some passwords are 'one time' or single-use. Administrators and developers use these to grant access to a service for the first time. After using the password once, the user **SHALL** immediately change the password.
 
-Single-use passwords are time limited. If they are not used within a specific time after generation, they must become invalid.
+Single-use passwords are time limited. If they are not used within a specific time after generation, they **SHALL** become invalid.
 
 The following table shows the valid lifetime of a single-use password:
 
@@ -227,7 +254,7 @@ The following table shows the valid lifetime of a single-use password:
 
 ## Multi-user systems and services
 
-All multi-user systems and services must check for redundant User IDs and accounts. If necessary, remove the redundant IDs or accounts.
+All multi-user systems and services **SHALL** check for redundant User IDs and accounts. If necessary, remove the redundant IDs or accounts.
 
 The [Access Control Guide](access-control-guide.md) discusses the management and removal of accounts.
 

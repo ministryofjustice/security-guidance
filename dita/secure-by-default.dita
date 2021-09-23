@@ -10,7 +10,7 @@
     <title>Good technical design is security design</title>
     <body>
       <p>Secure by Default takes a holistic approach to solving security problems. Security is treated as a core fundamental rather than a followup activity.</p>
-      <p>Embedding security within a design is directly comparable to good modern technical designs and fundementally ensuring the 'thing' actually works.</p>
+      <p>Embedding security within a design is directly comparable to good modern technical designs and fundamentally ensuring the 'thing' actually works.</p>
     </body>
   </topic>
   <topic id="secure-by-default-1">
@@ -62,5 +62,5 @@
       </body>
     </topic>
   </topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

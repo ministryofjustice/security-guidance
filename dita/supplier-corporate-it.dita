@@ -3,21 +3,70 @@
 <topic id="supplier-corporate-it">
   <title>Supplier corporate IT</title>
   <body>
-    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> does <b>not</b> by default prohibit the use of supplier organisation corporate IT for the processing of <ph conref="conrefs.dita#conrefs/moj"/> data on the basis that the corporate IT environment is well designed, maintained, governed and defended in line with large scale commercial threat models.</p>
-    <p>Subject to the suitability described, the <ph conref="conrefs.dita#conrefs/moj"/> does <b>not</b> require suppliers to create or maintain dedicated or segregated IT solutions for the processing of <ph conref="conrefs.dita#conrefs/moj"/> data classified at <codeph>OFFICIAL</codeph>.</p>
+    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> does not by default
+    prohibit the use of supplier organisation corporate IT for processing
+    <ph conref="conrefs.dita#conrefs/moj"/> data.
+    The expectation is that the supplier corporate IT environment is well
+    designed,
+    maintained,
+    governed,
+    and defended,
+    in line with large scale commercial threat models.</p>
+    <p>Subject to the requirements described in this document,
+      the <ph conref="conrefs.dita#conrefs/moj"/> does not require suppliers to
+      create or maintain dedicated or segregated IT solutions for processing
+      <ph conref="conrefs.dita#conrefs/moj"/> data classified at
+      <codeph>OFFICIAL</codeph>.</p>
+    <p>For <ph conref="conrefs.dita#conrefs/moj"/> data classified at
+      <codeph>OFFICIAL-SENSITIVE</codeph>,
+      additional comprehensive security assurance is required.
+      The assurance <ph conref="conrefs.dita#conrefs/policyshall"/> include
+      controls and governance processes.
+      The assurance <ph conref="conrefs.dita#conrefs/policyshall"/> be appropriate
+      to the information sensitivity.
+    Contact the <ph conref="conrefs.dita#conrefs/catemailtext"/> for assistance
+  regarding acceptable security assurance for <codeph>OFFICIAL-SENSITIVE</codeph>
+  <ph conref="conrefs.dita#conrefs/moj"/> data.</p>
   </body>
   <topic id="technical-security">
     <title>Technical security</title>
     <body>
-      <p>Supplier corporate IT systems are expected to maintain appropriate levels of technical security defences to proportionally defend all types of data within whether the supplier's own corporate data through to <ph conref="conrefs.dita#conrefs/moj"/> data being processed.</p>
-      <p>This will range (but not be limited to) the use of modern Transport Layer Security or IPSec for in-transit encryption through to modern hashing and cryptography mechanisms for data stored at-rest, whether a data entry in a database or the entire storage drive in a laptop.</p>
-      <p>Supplier systems are expected to be proportionally resilient to malware, ensuring segregation between systems, users and data and employ adequate commodity measures (such as email attachment scanning/filtering).</p>
+      <p>Supplier corporate IT systems are expected to maintain appropriate
+        levels of technical security defences.
+        These defences <ph conref="conrefs.dita#conrefs/policyshall"/>
+        protect appropriately all types of <ph conref="conrefs.dita#conrefs/moj"/>
+        data.
+        This includes <ph conref="conrefs.dita#conrefs/moj"/> data processed or
+        stored in any way by supplier corporate IT systems.</p>
+      <p>Examples of appropriate defences include,
+        but are not limited to:
+        <ul>
+          <li>Use of current Transport Layer Security or IPSec for in-transit encryption.</li>
+          <li>Hashing and cryptography mechanisms for data stored at-rest.</li>
+        </ul></p>
+        <p>The defences <ph conref="conrefs.dita#conrefs/policyshall"/> scale
+        from individual data items in a database,
+        up to entire storage facilities.</p>
+      <p>Supplier systems <ph conref="conrefs.dita#conrefs/policyshall"/> be
+      proportionally resilient to malware.
+      This might be achieved by ensuring segregation between systems,
+      users,
+      and data.
+      Other industry standard best practices,
+      such as email attachment scanning or filtering,
+    might also be suitable.</p>
     </body>
     <topic id="email-security">
       <title>Email security</title>
       <body>
-        <p>Supplier corporate email systems processing <ph conref="conrefs.dita#conrefs/moj"/> data are expected to align to the <xref href="https://www.gov.uk/guidance/securing-government-email" format="html" scope="external">UK government secure email policy</xref> which summarily requires widely accepted best practices.</p>
-        <p>Supplier corporate email systems are <i>not</i> required to technically integrate to the Public Services Network (PSN).</p>
+        <p>Supplier corporate email systems processing
+          <ph conref="conrefs.dita#conrefs/moj"/> data
+          <ph conref="conrefs.dita#conrefs/policyshall"/> align to the
+          <xref href="https://www.gov.uk/guidance/securing-government-email"
+            format="html" scope="external">UK government secure email policy</xref>,
+            thereby following widely accepted best practices.</p>
+        <p>Supplier corporate email systems are not required to integrate to the
+          Public Services Network (PSN).</p>
       </body>
     </topic>
   </topic>
@@ -26,31 +75,71 @@
     <topic id="data-offshoring">
       <title>Data offshoring</title>
       <body>
-        <p>Supplier's may process <ph conref="conrefs.dita#conrefs/moj"/> data (including Personal Data for which the <ph conref="conrefs.dita#conrefs/moj"/> is responsible) outside of the United Kingdom, subject to the maintenance of adequate information controls and governance.</p>
-        <p><ph conref="conrefs.dita#conrefs/moj"/> data must not routinely be processed within an incompatible legal framework to the United Kingdom.</p>
+        <p>Supplier's <ph conref="conrefs.dita#conrefs/policymay"/> process
+        <ph conref="conrefs.dita#conrefs/moj"/> data,
+        including Personal Data for which the <ph conref="conrefs.dita#conrefs/moj"/>
+        is responsible,
+        outside of the United Kingdom,
+        subject to the maintenance of acceptable information controls and
+        governance.</p>
+        <p><ph conref="conrefs.dita#conrefs/moj"/> data
+        <ph conref="conrefs.dita#conrefs/policyshallnot"/> be processed within
+        a legal framework that is incompatible with that of the United Kingdom.</p>
       </body>
       <topic id="working-overseas">
         <title>Working overseas</title>
         <body>
-          <p>Supplier staff are <b>not</b> prohibited from working overseas while processing <ph conref="conrefs.dita#conrefs/moj"/> data on the basis that adequate information controls and governance are maintained.</p>
-          <p>When working overseas, this may include limiting access to information while the user travels or using secondary temporary accounts to avoid primary account compromise.</p>
+          <p>Supplier staff are not prohibited from working overseas while
+            processing <codeph>OFFICIAL</codeph>
+            <ph conref="conrefs.dita#conrefs/moj"/> data,
+            subject to implementing and maintaining acceptable information
+            controls and governance.
+          In particular,
+        the controls and governance <ph conref="conrefs.dita#conrefs/policyshall"/>
+        align and comply with <ph conref="conrefs.dita#conrefs/moj"/> policy
+        on <xref href="remote-working.dita" format="dita">remote working</xref>
+        and <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">working overseas</xref>.</p>
+          <p>When working overseas,
+            it might be necessary to limit access to information while the user
+            travels.
+            Alternatively,
+            it might be appropriate to use secondary,
+            temporary accounts,
+            to avoid primary account compromise.
+            Contact the <ph conref="conrefs.dita#conrefs/catemailtext"/> for assistance
+          regarding acceptable security assurance when working overseas.</p>
         </body>
       </topic>
     </topic>
     <topic id="data-backups">
       <title>Data backups</title>
       <body>
-        <p>Supplier corporate IT systems may backup data for extended retention times (for example, keeping archived or deleted emails for an additional few months). Backup systems may also exist in such a way that individual backup items cannot be individually deleted, and are subject to a system-wide backup rotation/retention schedule.</p>
-        <p>Subject to appropriate data governance, the <ph conref="conrefs.dita#conrefs/moj"/> acknowleges these cases.</p>
+        <p>Supplier corporate IT systems <ph conref="conrefs.dita#conrefs/policymay"/>
+        backup data for extended retention times.
+        An example would be keeping archived or deleted emails for an additional
+        few months.
+        Backup systems <ph conref="conrefs.dita#conrefs/policymay"/> also exist
+        in such a way that individual backup items cannot be individually deleted,
+        but instead are subject to a system-wide backup rotation or retention
+        schedule.</p>
+        <p>Suppliers <ph conref="conrefs.dita#conrefs/policyshall"/> discuss and
+        agree these cases with the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
       </body>
     </topic>
     <topic id="local-end-user-device-data">
       <title>Local end-user device data</title>
       <body>
-        <p>The <ph conref="conrefs.dita#conrefs/moj"/> acknowleges that corporate users typically 'download' files (from local email client caching to file downloads via a web browser) that can remain within 'Downloads' folders until explicitly deleted by the user.</p>
-        <p><ph conref="conrefs.dita#conrefs/moj"/> expects suppliers to consider these types of data locations in data governance regimes, however it is appreciated that data destruction may be guidance based from the supplier organisation to supplier staff.</p>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/> acknowledges that
+        corporate users typically "download" files,
+        for example from local email client caching to file downloads using a
+        web browser.
+        These files might remain within <codeph>Downloads</codeph> folders,
+        until explicitly deleted by the user.</p>
+        <p>Suppliers <ph conref="conrefs.dita#conrefs/policyshall"/> include and
+        address these types of data locations in data governance regimes.</p>
       </body>
     </topic>
   </topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

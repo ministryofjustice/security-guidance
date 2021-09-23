@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?path2rootmap-uri ./?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="personnel-risk-assessment">
+  <title>Personnel risk assessment</title>
+  <body>
+    <p>This guidance is written for departmental and line managers that
+      manage staff.
+      These staff may include,
+      but are not limited to:
+      permanent employees,
+      individuals on attachment or secondment,
+      contractors,
+      consultants,
+      agency and temporary staff.</p>
+    <p>Personnel security risk assessment focuses on employees and contractors,
+      their access to <ph conref="conrefs.dita#conrefs/mojlong"/> assets,
+      and the risks they could pose.
+      This is set against the adequacy of existing countermeasures.
+      This risk assessment is crucial in helping you communicate to senior managers the
+      risks to which the organisation is exposed.</p>
+    <p>This guidance aims to help risk management practitioners to:
+    <ul>
+      <li>Conduct personnel security risk assessments in a robust and transparent way.</li>
+      <li>Prioritise the insider risks to an organisation.</li>
+      <li>Evaluate existing countermeasures,
+        and identify appropriate countermeasures to mitigate those risks.</li>
+      <li>Allocate security resources,
+        which might be personnel,
+        physical or informational in nature,
+        in a way which is cost-effective and proportionate to the risk posed.</li>
+    </ul></p>
+  </body>
+  <topic id="personnel-security">
+    <title>Personnel security</title>
+    <body>
+      <p>Personnel security is a system of policies and procedures that seek to
+        manage the risk of people exploiting,
+        or having the intention to exploit,
+        their legitimate access to the organisation's assets for unauthorised purposes.
+        Those who seek to exploit their legitimate access to systems and data are
+        called "insiders" and they pose an "Insider Risk".</p>
+      <p>A person who causes harm to the <ph conref="conrefs.dita#conrefs/moj"/>
+        might have access to assets for one day a month,
+        or every working day.
+        They might be a permanent member of staff,
+        or a contractor.
+        Their access might be in a traditional office,
+        or site setting,
+        or remote.
+        This guidance covers all people who are given legitimate access to
+        <ph conref="conrefs.dita#conrefs/moj"/> assets and premises.</p>
+      <p>The guidance for Personnel Risk is not prescriptive.
+        It provides a framework to work with but,
+        to be successful,
+        it requires the <ph conref="conrefs.dita#conrefs/moj"/> to
+        bring together the right people and information.
+        The more you put into this process,
+        the more worthwhile and useful the results will be.</p>
+    </body>
+  </topic>
+  <topic id="risk-management">
+    <title>Risk management</title>
+    <body>
+      <p>Risk management is the foundation of the personnel security management
+        process and is a continuous cycle of:
+      <ul>
+        <li>Identification: identify the risks to the role.</li>
+        <li>Risk assessment: assess the risks to the organisation and
+          its assets in terms of the likelihood of a threat taking place,
+          and the impact that such an event might have.</li>
+        <li>Implementation: identify and implement security measures
+          to reduce the likelihood and impact of the threat to an acceptable
+          level, bearing in mind that risk can not be completely removed.</li>
+        <li>Evaluation: assess the effectiveness of the countermeasures
+          and identifying corrective actions.</li>
+      </ul></p>
+      <fig platform="html" frame="topbot">
+      <image href="images/risk-management-cycle.png" placement="break"
+      scope="local"><alt>A diagram describing a cycle of four stages.
+        The first stage is at the top of the diagram.
+        It is labelled Identify Threats.
+        A large arrow flows out from the right hand side of the top stage,
+        down to the second stage,
+        at the right of the diagram.
+        The second stage is labelled Assess Vulnerabilities.
+        A large arrow flows out from the second stage
+        down to the third stage,
+        at the bottom of the diagram.
+        The third stage is labelled Implement Countermeasures.
+        A large arrow flows out from the third stage
+        up to the fourth and final stage,
+        at the left of the diagram.
+        The fourth and final stage is labelled Evaluate Countermeasures.
+        A large arrow flows out from the fourth and final stage
+        up to the first stage again,
+        at the top of the diagram.</alt></image>
+      </fig>
+      <fig platform="epub pdf" frame="topbot">
+        <title>Risk Management Cycle</title>
+      <image href="images/risk-management-cycle-small.png" placement="break"
+      scope="local"><alt>A diagram describing a cycle of four stages.
+        The first stage is at the top of the diagram.
+        It is labelled Identify Threats.
+        A large arrow flows out from the right hand side of the top stage,
+        down to the second stage,
+        at the right of the diagram.
+        The second stage is labelled Assess Vulnerabilities.
+        A large arrow flows out from the second stage
+        down to the third stage,
+        at the bottom of the diagram.
+        The third stage is labelled Implement Countermeasures.
+        A large arrow flows out from the third stage
+        up to the fourth and final stage,
+        at the left of the diagram.
+        The fourth and final stage is labelled Evaluate Countermeasures.
+        A large arrow flows out from the fourth and final stage
+        up to the first stage again,
+        at the top of the diagram.</alt></image>
+      </fig>
+      <p>The methodology defines risk as the product of two factors:
+      <ul>
+        <li>The likelihood of an event occurring.</li>
+        <li>The impact that the event would have.</li>
+      </ul></p>
+      <p>When each of these factors has been evaluated,
+        they are combined and this provides the overall measure of risk.</p>
+      <p>The cyclical nature of the process ensures that the implementation and
+        evaluation stages are reviewed each time a risk assessment is repeated.</p>
+      <p>Much of the value of the risk management process comes from the
+        systematic exploration of threats,
+        opportunities,
+        and countermeasures,
+        through engagement with other parties.
+        These differ between departments
+        but can include HR,
+        security,
+        senior management,
+        information specialists,
+        and other technical specialists as appropriate.</p>
+    </body>
+  </topic>
+  <topic id="the-risk-management-process">
+    <title>The Risk Management process</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/>
+        uses the risk management process developed by the
+        Centre for Protection of National Infrastructure (CPNI).
+        A copy of the CPNI's guide can be found
+        <xref href="https://www.cpni.gov.uk/ongoing-personnel-security"
+        format="html" scope="external">here</xref>.</p>
+      <p>Managers and other risk management professionals
+        <ph conref="conrefs.dita#conrefs/policyshall"/> follow
+        the process set out in the guide,
+        and maintain detailed records.
+        These <ph conref="conrefs.dita#conrefs/policyshould"/> be made available
+        when requested by Audit,
+        Group Security,
+        or HR.</p>
+    </body>
+  </topic>
+  <topic id="downloads">
+    <title>Downloads</title>
+    <body>
+      <!-- Copies of the CPNI guides are included in the repository for reference purposes,
+        but readers are encouraged to go the CPNI site for current copies of the guide. -->
+      <ul>
+        <li><xref href="https://www.cpni.gov.uk/system/files/documents/d0/d2/ongoing-personnel-security-a-good-practice-guide-edition-3.pdf" format="pdf" scope="external">Ongoing personnel security: A good practice guide</xref>.</li>
+        <li><xref href="https://www.cpni.gov.uk/system/files/documents/46/06/Personnel-security-risk-assessment-a-guide-4th-edition.pdf"
+          format="pdf" scope="external">Personnel security risk assessment</xref>.</li>
+      </ul>
+    </body>
+  </topic>
+	<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="leavers-with-nsc-and-nscvs">
+  <title>Leavers with NSC and NSVCs</title>
+  <body>
+    <p>This information applies to people leaving the
+      <ph conref="conrefs.dita#conrefs/mojlong"/>,
+    who have National Security Vetting (NSV),
+    or who are National Security Vetting Contacts (NSVCs).</p>
+    <p>Staff or contractors that hold clearance of any level
+      <ph conref="conrefs.dita#conrefs/policyshall"/> attend an
+      exit interview with their manager before they leave the
+      <ph conref="conrefs.dita#conrefs/moj"/>.
+      Although these interviews are available for all staff,
+      they are compulsory for those with Counter Terrorist Clearance
+      (CTC) or Security Check (SC).</p>
+      <p>If the leaver holds Developed Vetting (DV) or SC enhanced level,
+        and has been STRAP inducted,
+        they <ph conref="conrefs.dita#conrefs/policyshall"/>
+        attend a mandatory STRAP debriefing interview with
+        <ph conref="conrefs.dita#conrefs/strapteamemailtext"/>.
+        They <ph conref="conrefs.dita#conrefs/policyshall"/> also sign a
+        confidentiality agreement and a "Declaration of Cessation
+        of <codeph>TOP SECRET</codeph> STRAP Access".</p>
+  </body>
+  <topic id="nsvcs-who-leave">
+    <title>NSVCs who leave</title>
+    <body>
+      <p>The post of National Security Vetting Contact (NSVC)
+        <ph conref="conrefs.dita#conrefs/policyshouldnot"/> be left empty.
+        NSVCs <ph conref="conrefs.dita#conrefs/policyshould"/> work with
+        <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>
+        to ensure that a replacement has been selected,
+        and trained,
+        to take over once they have left.</p>
+    </body>
+  </topic>
+  <topic id="manager-responsibilities">
+    <title>Manager responsibilities</title>
+    <body>
+      <p>When a member of staff with clearance leaves their department,
+        the manager <ph conref="conrefs.dita#conrefs/policyshall"/> inform their NSVC,
+        so that the NSVC can update their records and remove the staff member
+        from the list of cleared personnel.
+        The NSVC passes the leaver's details on to <ph conref="conrefs.dita#conrefs/cluster2securityunittext"/>.        
+        Managers <ph conref="conrefs.dita#conrefs/policyshould"/> also use this
+        as an opportunity to take another look at the role,
+        and confirm whether it still needs clearance and,
+        if it does,
+        to what level.
+        The NSVC can advise managers on this analysis.</p>
+    </body>
+  </topic>
+  <topic id="downloads">
+    <title>Downloads</title>
+    <body>
+      <ul>
+        <li><xref href="https://intranet.justice.gov.uk/documents/2016/08/national-security-vetting-contact-guide.docx" format="docx" scope="external">National Security Vetting Contact Guide</xref>.</li>
+        <li><xref href="https://intranet.justice.gov.uk/documents/2019/08/national-security-vetting-contacts-register.xlsx" format="xlsx" scope="external">National Security Vetting Contact Register</xref>.</li>
+        <li><xref href="file:///./gs/security-vetting-assessment-need.doc" format="doc" scope="external" platform="html">National Security Vetting Assessment of Need</xref><xref href="https://security-guidance.service.justice.gov.uk/gs/security-vetting-assessment-need.doc" format="doc" scope="external" platform="epub pdf">National Security Vetting Assessment of Need</xref>.</li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="related-information">
+    <title>Related information</title>
+    <body>
+      <ul>
+        <li><xref href="end-or-change-of-employment.dita" format="dita">End or change employment</xref>.</li>
+      </ul>
+    </body>
+  </topic>
+	<topic id="contact-details-group-security" conref="conrefs.dita#conrefs/contact-details-group-security"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

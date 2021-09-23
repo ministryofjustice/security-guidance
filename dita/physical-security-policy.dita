@@ -57,13 +57,13 @@
   <topic id="context">
     <title>Context</title>
     <body>
-      <p>This policy sets out a framework to follow a <q>layered</q> approach to physical security.
+      <p>This policy sets out a framework to follow a "layered" approach to physical security.
         It provides suitably secure environments from which the <ph conref="conrefs.dita#conrefs/moj"/> can operate,
         to achieve its strategic aims and objectives by implementing security measures in layers,
         to appropriately protect personnel and assets,
         including material of differing levels of sensitivity.</p>
       <p>This policy provides a high-level organisational objective for the <ph conref="conrefs.dita#conrefs/moj"/> with regards to Physical Security,
-        supported by <b>MANDATORY</b> Physical Security Standards which <b>MUST</b> be followed to ensure compliance,
+        supported by <ph conref="conrefs.dita#conrefs/policymandatory"/> Physical Security Standards which <ph conref="conrefs.dita#conrefs/policymust"/> be followed to ensure compliance,
         as they represent the minimum measures required to protect the security of assets,
         information and people.</p>
     </body>
@@ -78,9 +78,9 @@
         health and safety of themselves,
         colleagues and the protection of Departmental Assets.</p>
       <p>The most senior grade based at each site,
-        or in <q>Moderate Risk</q> and larger sites the Senior Responsible Officer (SRO),
+        or in "Moderate Risk" and larger sites the Senior Responsible Officer (SRO),
         has responsibility for ensuring physical security risk assessments are conducted annually.
-        They <b>MUST</b> ensure the action plans created to address identified risks and instigate business continuity activities are up-to-date,
+        They <ph conref="conrefs.dita#conrefs/policymust"/> ensure the action plans created to address identified risks and instigate business continuity activities are up-to-date,
         clearly communicated,
         regularly rehearsed,
         implemented effectively,
@@ -109,7 +109,7 @@
   <topic id="policy-statements">
     <title>Policy statements</title>
     <body>
-      <p>Physical Security controls <b>MUST</b> be implemented that are proportionate to the risk appetite of the <ph conref="conrefs.dita#conrefs/moj"/>,
+      <p>Physical Security controls <ph conref="conrefs.dita#conrefs/policymust"/> be implemented that are proportionate to the risk appetite of the <ph conref="conrefs.dita#conrefs/moj"/>,
         and in adherence with the Information Security Policy and Acceptable Use Policy and other appropriate personnel and information security standards,
         including successful completion of the <xref href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/714002/HMG_Baseline_Personnel_Security_Standard_-_May_2018.pdf" scope="external" format="pdf">Baseline Personnel Security Standard</xref>.</p>
       <p>All employees must ensure they remain observant,
@@ -123,11 +123,11 @@
         a location,
         and mitigate the impact should they occur.</p>
       <p>Each <ph conref="conrefs.dita#conrefs/moj"/> occupied premises presents unique physical security challenges.
-        The measures introduced to protect each site <b>MUST</b> take into account the risk categorisation and the physical composition of that site.
-        Effective approaches to Physical Security <b>MUST</b> follow the <b>MANDATORY</b> Physical Security Standards.</p>
+        The measures introduced to protect each site <ph conref="conrefs.dita#conrefs/policymust"/> take into account the risk categorisation and the physical composition of that site.
+        Effective approaches to Physical Security <ph conref="conrefs.dita#conrefs/policymust"/> follow the <ph conref="conrefs.dita#conrefs/policymandatory"/> Physical Security Standards.</p>
       <p>The most senior grade manager,
-        or SRO in <q>Moderate Risk</q> and larger locations,
-        <b>MUST</b> ensure that their site adheres to the Response Level Security Measures Policy,
+        or SRO in "Moderate Risk" and larger locations,
+        <ph conref="conrefs.dita#conrefs/policymust"/> ensure that their site adheres to the Response Level Security Measures Policy,
         and ensure physical security risk assessment activity is conducted annually,
         and that the action plans created to address identified risks are implemented.</p>
     </body>
@@ -138,11 +138,11 @@
       <p>The level of risk and potential impact to <ph conref="conrefs.dita#conrefs/moj"/> information,
         assets and people determines the controls to be applied,
         and the degree of assurance required.
-        The <ph conref="conrefs.dita#conrefs/moj"/> <b>MUST</b> ensure a baseline of physical security measures are in place at each site,
+        The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> ensure a baseline of physical security measures are in place at each site,
         and receive annual assurance that such measures are in place to provide appropriate protection to all occupants and assets,
         and that these measures can be strengthened when required,
         for example in response to a security incident or change in the Government Response Level.</p>
-      <p>The implementation of all security measures <b>MUST</b> be able to provide evidence that the selection was been made
+      <p>The implementation of all security measures <ph conref="conrefs.dita#conrefs/policymust"/> be able to provide evidence that the selection was been made
         in accordance with the appropriate information security standards ISO27001/27002,
         Physical Security advice taken from the Centre for the Protection of National Infrastructure,
         and <ph conref="conrefs.dita#conrefs/gov007"/>.</p>
@@ -153,11 +153,6 @@
         as warranted.</p>
     </body>
   </topic>
-  <topic id="physical-security-advice">
-    <title>Physical security advice</title>
-    <body>
-      <p>Physical security advice can be obtained by contacting <ph conref="conrefs.dita#conrefs/moj"/> Group Security: <ph conref="conrefs.dita#conrefs/groupsecurityemail"/>.</p>
-    </body>
-  </topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="physical-security-advice" conref="conrefs.dita#conrefs/physical-security-advice"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

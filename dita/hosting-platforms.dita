@@ -3,7 +3,7 @@
 <topic id="hosting-platforms">
   <title>Hosting Platforms</title>
   <body>
-    <p>We have developed a series of logging requirements for hosting platforms, such as virtualised and/or containered compute with associated supporting services such as database and queuing services at different maturity tiers in order to support defenisve cyber security, such as detecting breaches.</p>
+    <p>We have developed a series of logging requirements for hosting platforms, such as virtualised and/or containered compute with associated supporting services such as database and queuing services at different maturity tiers in order to support defensive cyber security, such as detecting breaches.</p>
   </body>
   <topic id="baseline-maturity-tier">
     <title>Baseline Maturity Tier</title>
@@ -296,5 +296,5 @@
       </body>
     </topic>
   </topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

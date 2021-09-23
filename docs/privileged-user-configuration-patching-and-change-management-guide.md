@@ -27,20 +27,19 @@ Privileged users must ensure that secure configuration and change management pro
 
 For help with incidents, including theft and loss, contact:
 
--   **Dom1/Quantum - Technology Service Desk**
+-   **Technology Service Desk - including DOM1, Quantum, and the Digital & Technology Service Desk**
 
     Tel: 0800 917 5148
 
-    **Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+    **Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
 
--   **Digital and Technology - Digital Service Desk**
-    -   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
-    -   Slack: `#digitalservicedesk`
 -   **HMPPS Information and security**
     -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
     -   Tel: 0203 334 0324
 
 For non-technology incidents, contact the MoJ Group Security Team: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk)
+
+Contact the Privacy Team for information on Data Protection Impact Assessments: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
 
 If you are not sure who to contact, ask the Operational Security Team:
 

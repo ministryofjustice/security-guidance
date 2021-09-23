@@ -23,7 +23,7 @@ This policy is aimed at:
     All other staff working for the MoJ.
 
 
-“All MoJ users” refers to General users, Technical users, and Service Providers, as defined above.
+"All MoJ users" refers to General users, Technical users, and Service Providers, as defined above.
 
 ## Policy Sections
 
@@ -67,7 +67,7 @@ The MoJ's business or strategic requirements limit access to MoJ information and
 
 `POLACP006:` The policy **SHALL** also follow the additional principles of:
 
--   “Need-to-know”.
+-   "Need-to-know".
 -   Non-repudiation of user actions.
 -   Least privilege.
 -   User access management.
@@ -87,7 +87,7 @@ This subsection aligns to the principle of least access, to protect a network an
 
 `POLACP008:` Access to information and application system functions **SHALL** be restricted by following access control policies and procedures.
 
-`POLACP009:` In particular, System Designers and Administrators **SHALL** use adequate authentication techniques to identify with confidence user access to their system or data, using the principle of “least privilege”. See the guidance on [Authorisation](authorisation.md) for more detail.
+`POLACP009:` In particular, System Designers and Administrators **SHALL** use adequate authentication techniques to identify with confidence user access to their system or data, using the principle of "least privilege". See the guidance on [Authorisation](authorisation.md) for more detail.
 
 ### Secure Log-on Procedures
 
@@ -149,7 +149,7 @@ For further information on user de-registration, see the [MoJ Enterprise Access 
 
 `POLACP036:` A formal user access provisioning process **SHALL** be implemented to assign or revoke access rights for all users to all systems and services. Specifically for MoJ, this includes:
 
--   `POLACP037:` The security clearance required by staff to access specific account types **SHALL** align to the [MoJ's UK security clearance levels](https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels), as per requirements such as [segregation of duties](https://ministryofjustice.github.io/security-guidance/access-control-guide/#segregation-of-duties). See [Minimum User Clearance Levels](minimum-user-clearance-requirements-guide.md) guidance.
+-   `POLACP037:` The security clearance required by staff to access specific account types **SHALL** align to the [MoJ's UK security clearance levels](https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels), as per requirements such as [segregation of duties](https://security-guidance.service.justice.gov.uk/access-control-guide/#segregation-of-duties). See [Minimum User Clearance Levels](minimum-user-clearance-requirements-guide.md) guidance.
 -   `POLACP038:` MFA **SHALL** be used to ensure access to MoJ Information, and is only granted to users once their identity is confirmed. See the [Multi-Factor Authentication](multi-factor-authentication-mfa-guide.md) guidance.
 -   `POLACP039:` All MoJ data access **SHALL** employ adequate authentication techniques to identify the system or user with confidence, where that system or user requires access to MoJ systems or data. See the [Authentication](authentication.md) guidance.
 -   `POLACP040:` System Administrators **SHALL** maintain the MoJ's systems' security, with failure to comply compromising the organisational infrastructure.
@@ -182,7 +182,7 @@ For further information on user de-registration, see the [MoJ Enterprise Access 
 -   `POLACP052:` User password management **SHALL** be configured, so a password is changed after the initial log-on and invalid if not used in a specified time. See the [Passwords](passwords.md) guidance.
 -   `POLACP053:` System Administrators and systems **SHALL** never send passwords by email, as it is an unsecured channel.
 
-    `POLACP054:` Instead, users **SHALL** receive a time-limited password-reset link or code to their registered email address or phone number. See the Government guidance “[Send a link to trigger password resets](https://design-system.service.gov.uk/patterns/passwords/)”.
+    `POLACP054:` Instead, users **SHALL** receive a time-limited password-reset link or code to their registered email address or phone number. See the Government guidance "[Send a link to trigger password resets](https://design-system.service.gov.uk/patterns/passwords/)".
 
 
 ### Review of User Access Rights

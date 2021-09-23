@@ -4,7 +4,7 @@
   <title>National Security Vetting questions</title>
   <body>
     <p>The processes described in this document are under review as part of <ph conref="conrefs.dita#conrefs/mojlong"/>
-      <q platform="github">simpler processes</q><ph platform="intranet">simpler processes</ph> activities and these FAQs will be updated as required.</p>
+      "simpler processes" activities and these FAQs will be updated as required.</p>
     <p>A downloadable version of this document is available <xref href="file:///./gs/national-security-vetting-questions.docx" format="docx" scope="external">here</xref>.</p>
   </body>
   <topic id="national-security-vetting">
@@ -143,7 +143,7 @@
             <li>The vacancy manager should arrange for the individual to bring their original Right to Work,
               ID and address documentation to be checked.</li>
             <li>The vacancy manager should then submit a Clearance Request Form (CRF) to SSCL recording the details of these documents.</li>
-            <li>SSCL send the successful candidate a provisional offer with links to the <q platform="github">Lumesse</q><ph platform="intranet">Lumesse</ph>
+            <li>SSCL send the successful candidate a provisional offer with links to the "Lumesse"
               system where they must upload the same documents.</li>
             <li>If NSV is required for the role,
               the vacancy manager must discuss this with their NSVC and obtain a code which needs to be entered on the CRF.
@@ -321,5 +321,5 @@
     </topic>
   </topic>
 	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

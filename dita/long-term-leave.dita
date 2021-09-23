@@ -25,7 +25,7 @@
           <li>Shared Parental Leave.</li>
         </ul></p>
         <p>For the purpose of this guidance,
-          all of these are examples of <q>long-term leave</q>.</p>
+          all of these are examples of "long-term leave".</p>
     </body>
   </topic>
   <topic id="guidance-statement">
@@ -49,7 +49,7 @@
                 The Remote Working guidance provides useful advice for anyone who may be working remotely for the first time.
                 The policy can be found <xref href="remote-working.dita" format="dita" platform="github">here</xref><xref href="https://intranet.justice.gov.uk/guidance/security/emergencies/coronavirus-guidance/security/remote-working/" format="html" scope="external" platform="intranet">here</xref>.</li>
           </ul></p>
-          <note>Devices that are not used for 3 months or more go in to a technical <q>quarantine</q>,
+          <note>Devices that are not used for 3 months or more go in to a technical "quarantine",
             intentionally to render them unusable.
             Staff members should log in to their devices once per month during leave,
             to ensure that technical quarantine is not activated.
@@ -67,10 +67,10 @@
             <li>If the staff member's role is planned to change on their return to the <ph conref="conrefs.dita#conrefs/moj"/>,
               consider removing access now to data and information systems which they will no longer need.
               If their role is not planned to change on their return,
-              you might consider leaving access <q>as-is</q> currently.</li>
+              you might consider leaving access "as-is" currently.</li>
               <!-- FIXME -->
               <li>Consider removing access to data or information systems which are <codeph>OFFICIAL-SENSITIVE</codeph>.
-                This is in line with the necessity rigorously to apply the <q>need to know</q> principle
+                This is in line with the necessity rigorously to apply the "need to know" principle
                 for <codeph>OFFICIAL-SENSITIVE</codeph> information.
                 See the guidance on classifying information for more detail <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/" format="html"
                 scope="external">https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/</xref></li>
@@ -112,15 +112,15 @@
           <p><ul>
             <li>Access to systems and return of assets can be organised through the appropriate items
               in the <xref href="https://mojprod.service-now.com/moj_sp" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Technology Portal</xref>.
-              Please see the Knowledge Base article on <q>Returning your <ph conref="conrefs.dita#conrefs/moj"/> laptop, accessories and mobile phones</q> for details.
+              Please see the Knowledge Base article on "Returning your <ph conref="conrefs.dita#conrefs/moj"/> laptop, accessories and mobile phones" for details.
               Removal of access to local systems should be arranged with local IT teams.</li>
           </ul></p>
           <note>When a Dom1 account is deactivated,
             its data is recoverable for up to 12 months.
-            See the Knowledge Base article on <q>How to Re-instate a Deactivated Email Account or Mailbox</q>.</note>
+            See the Knowledge Base article on "How to Re-instate a Deactivated Email Account or Mailbox".</note>
         </body>
       </topic>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

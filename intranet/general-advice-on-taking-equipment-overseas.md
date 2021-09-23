@@ -18,7 +18,7 @@ Be aware that voice calls and SMS messages are not secure and voice calls can be
 * Never leave the device unattended - not even for a moment.
 * If it is not practical to keep the device with you securely at all times (for instance, you are at the swimming pool or gym), consider storing the device in the hotel safe.
 
-**Note:** Standard hotel safes are not entirely secure and it is normally possible for hotel staff to override controls to gain access. In addition therefore you should also store your device in a tamper proof envelope. You should ensure you have a sufficient number to last the duration of your period of travel. If the tamper evident seals show signs of disturbance or the device exhibits strange behaviour, it should be considered compromised. In either case, you must discontinue use of the device and contact your Service Desk immediately and report the device as potentially compromised.
+**Note:** Standard hotel safes are not entirely secure and it is normally possible for hotel staff to override controls to gain access. In addition therefore you should also store your device in a tamper proof envelope. You should ensure you have a sufficient number to last the duration of your period of travel. If the tamper evident seals show signs of disturbance or the device exhibits strange behaviour, it should be considered compromised. In either case, you must discontinue use of the device and contact your IT Service Desk immediately and report the device as potentially compromised.
 
 ##Guidance on using mobile phones
 
@@ -49,9 +49,9 @@ If you are on official business:
 * Produce a letter of introduction from the overseas organisation or individual you are visiting.
 * Carry the names and telephone numbers of the officials to be visited in your destination and invite the official(s) to contact them to confirm that you are who you claim to be.
 
-In the event that a device is removed out of your sight (such as by a customs official) then it should be considered compromised. You must [contact the Technology Service Desk immediately](#contacts) and report the device as potentially compromised.
+In the event that a device is removed out of your sight (such as by a customs official) then it should be considered compromised. You must [contact the IT Service Desk immediately](#contacts) and report the device as potentially compromised.
 
-The Technology Service Desk will disable your ability to connect to the MoJ network from your device. Be aware that although the device will still work as a mobile phone, it should be treated as compromised and not used for any MoJ business.
+The IT Service Desk will disable your ability to connect to the MoJ network from your device. Be aware that although the device will still work as a mobile phone, it should be treated as compromised and not used for any MoJ business.
 
 ##Contacts
 
@@ -61,16 +61,12 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 ##General enquiries, including theft and loss
 
-**Dom1/Quantum - Technology Service Desk**
+**Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
 * Tel: 0800 917 5148
+* [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
 
-**Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
-
-**Digital & Technology - Digital Service Desk**
-
-* Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
-* Slack: `#digitalservicedesk`
+**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel (`#digitalservicedesk`), are no longer being monitored.
 
 **HMPPS Information & security:**
 
@@ -90,5 +86,5 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 ##Feedback
 
-If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

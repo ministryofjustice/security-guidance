@@ -38,7 +38,7 @@
     <title>Dealing with issues preventing you from switching off your computer</title>
     <body>
       <p>If there are any issues preventing you from switching off your desktop computer overnight,
-        then please raise this with the <xref href="#general-enquiries-including-theft-and-loss" format="dita">IT Service Desk</xref> immediately
+        then please raise this with the <xref href="#general-enquiries-including-theft-and-loss" format="dita"><ph conref="conrefs.dita#conrefs/servicedesk"/></xref> immediately
         as there could be an underlying fault that needs resolving.</p>
       <p>If you require any further information regarding this policy,
         <xref href="#contact-details" format="dita">ask for help</xref>.</p>
@@ -103,5 +103,5 @@
   </topic>
   <topic id="general-enquiries-including-theft-and-loss" conref="conrefs.dita#conrefs/general-enquiries-including-theft-and-loss"><title/></topic>
   <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

@@ -8,21 +8,21 @@ This policy applies to all staff and contractors who work for the Ministry of Ju
 
 ### Who does it apply to?
 
-All Users of the “\[ORGANISATION\]” Information and Communications Technology \(IT\) systems.
+All Users of the "\[ORGANISATION\]" Information and Communications Technology \(IT\) systems.
 
-This document is designed to help Users utilise and access “\[ORGANISATION\]” IT systems in a safe and secure manner. Everyone using “\[ORGANISATION\]” IT systems must follow these procedures.
+This document is designed to help Users utilise and access "\[ORGANISATION\]" IT systems in a safe and secure manner. Everyone using "\[ORGANISATION\]" IT systems must follow these procedures.
 
 ### When and how should these procedures be used?
 
 Users' Security Awareness training will cover these procedures.
 
-Users must read this document prior to using any “\[ORGANISATION\]” IT Systems for the first time, and revisit it every six \(6\) months to remind themselves of the procedures. Regular audits will be performed to check that these procedures are being followed.
+Users must read this document prior to using any "\[ORGANISATION\]" IT Systems for the first time, and revisit it every six \(6\) months to remind themselves of the procedures. Regular audits will be performed to check that these procedures are being followed.
 
-Users must understand that they are responsible for maintaining the security of “\[ORGANISATION\]” systems, and that failure to comply with these SyOPs could lead to compromise of the “\[ORGANISATION\]”'s infrastructure or even the entire GSI. Users must note further that either failure to comply with this SyOPs or failure to return the security sign off form would be considered a breach of the “\[ORGANISATION\]” [IT Security Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/).
+Users must understand that they are responsible for maintaining the security of "\[ORGANISATION\]" systems, and that failure to comply with these SyOPs could lead to compromise of the "\[ORGANISATION\]"'s infrastructure or even the entire GSI. Users must note further that either failure to comply with this SyOPs or failure to return the security sign off form would be considered a breach of the "\[ORGANISATION\]" [IT Security Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/).
 
 For further all the security related information required, please refer to:
 
--   The “\[ORGANISATION\]” staff [intranet Security homepage](https://intranet.justice.gov.uk/guidance/security/)
+-   The "\[ORGANISATION\]" staff [intranet Security homepage](https://intranet.justice.gov.uk/guidance/security/)
 
 -   Remote User Security Operating Procedures \(SyOPs\) \(if applicable\)
 
@@ -58,7 +58,7 @@ For further all the security related information required, please refer to:
 
 ||
 |Resetting user passwords|-   To change a password, Users must hold down Ctrl + Alt + Delete on their keyboard and select 'Change Password'.
--   If the password requires resetting, contact the [Service Desk](#general-enquiries-including-theft-and-loss).
+-   If the password requires resetting, contact the [IT Service Desk](#general-enquiries-including-theft-and-loss).
 
 |
 |System Use|-   Users must not exceed \(or attempt to exceed\) their given access privileges, amend the system configuration or plug in any unauthorised devices.
@@ -81,7 +81,7 @@ For further all the security related information required, please refer to:
 |Anti virus|In the event of a User suspecting a virus attack on the network, they must carry out the following steps: -   If operationally possible, leave the system switched on in its infected condition;
 -   Disconnect the affected workstation from the network \(where possible\);
 -   Mark the system and any associate storage media with a label stating that the machine has a suspected virus;
--   Inform the [Information Technology \(IT\) Helpdesk](#general-enquiries-including-theft-and-loss) who will provide assistance.
+-   Inform the [IT Service Desk](#general-enquiries-including-theft-and-loss) who will provide assistance.
 
 |
 |Removable media|-   No System media or document is to be removed from the building without prior authorisation from the Information Asset Owner.
@@ -98,7 +98,7 @@ For further all the security related information required, please refer to:
 -   Further instructions can be found on the \[ORGANISATION\] Intranet, Confidential Waste Disposal page.
 
 |
-|Security Incident and General Reporting Procedures|-   All requests for IT support and all reports of IT failures must be logged with the IT Helpdesk.
+|Security Incident and General Reporting Procedures|-   All requests for IT support and all reports of IT failures must be logged with the IT Service Desk.
 -   Any incident involving a suspected or known security breach involving personnel, hardware, software, communications, document or physical security must be reported immediately to the IT System Manager and the \[ORGANISATION\] Operational Security Team \(OST\).
 -   Any loss of IT equipment, \[ORGANISATION\] or personal data should be [reported](#incidents). Report also to the Users' line manager, the OST \([OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)\)and to the Data Access & Compliance Unit \(DACU\).
 
@@ -124,16 +124,12 @@ By signing below I acknowledge that I have read the Security Operating Procedure
 
 ## General enquiries, including theft and loss
 
-**Dom1/Quantum - Technology Service Desk**
+**Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
 -   Tel: 0800 917 5148
+-   [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
 
-**Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
-
-**Digital & Technology - Digital Service Desk**
-
--   Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
--   Slack: `#digitalservicedesk`
+**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
 
 **HMPPS Information & security:**
 

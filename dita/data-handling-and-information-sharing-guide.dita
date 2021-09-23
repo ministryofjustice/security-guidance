@@ -110,7 +110,7 @@
         <li>Data in transit.</li>
         <li>Data at rest.</li>
       </ul></p>
-      <p>For the purposes of this guide, the term <q>sensitive</q> data or
+      <p>For the purposes of this guide, the term "sensitive" data or
       information refers to data or information which attracts a handling caveat
       of <codeph>SENSITIVE</codeph>.
       <ph audience="audience-tech"> See the <xref
@@ -154,7 +154,7 @@
       <topic id="data-in-transit">
         <title>Data in transit</title>
         <body>
-          <p>The term <q>data in transit</q> covers all electronic moves or
+          <p>The term "data in transit" covers all electronic moves or
           transfers of data from one IT system to another,
             where either the sender or the recipient system is an
             <ph conref="conrefs.dita#conrefs/moj"/> IT system.
@@ -180,7 +180,7 @@
             <ul>
               <li>The amount of data being transferred.</li>
               <li>Frequency.</li>
-              <li>Any <q>need-to-know</q> considerations.
+              <li>Any "need-to-know" considerations.
               <ph audience="audience-suppliers audience-tech">
               See the <xref href="access-control-guide.dita" format="dita">Access
               Control Guide</xref> for further information.</ph></li>
@@ -224,7 +224,7 @@
         <title>Data at rest on <ph conref="conrefs.dita#conrefs/moj"/>-issued
         laptops</title>
         <body>
-          <p><q>Data at rest</q> is a term used to refer to all data in computer
+          <p>"Data at rest" is a term used to refer to all data in computer
           storage.
             This excludes data that is traversing a network,
             or temporarily residing in computer memory to be read or updated.
@@ -444,7 +444,7 @@
               Encrypted files should be given innocuous names for transmission.
               If the data is contained in numerous small files,
               these should be collected together into a single archive
-              (<q>zip</q>) file.
+              ("zip") file.
               This archive should then be encrypted.
               Each file or archive should be sent separately,
               rather than attaching multiple encrypted files to a single e-mail.</note>
@@ -469,22 +469,49 @@
   <topic id="data-movement-form-dmf">
     <title>Data Movement Form (DMF)</title>
     <body>
+      <p>The Data Movement Form (DMF) is available <xref href="file:///./gs/data-movement-form.docx"
+        format="docx" scope="external" platform="html">here</xref><xref href="https://security-guidance.service.justice.gov.uk/gs/data-movement-form.docx"
+          format="docx" platform="epub pdf" scope="external">here</xref>.</p>
       <p>The purpose of the DMF is to ensure that the movement of information
         assets is secure,
         and in compliance with the <ph conref="conrefs.dita#conrefs/gov007"/>.</p>
       <p>Failure to fulfil or comply with the controls and measures identified
         within the DMF will lead to unnecessary risk or exposure for the
-        <ph conref="conrefs.dita#conrefs/moj"/> or the relevant Information Asset
-        Owner (IAO) or Senior Information Risk Owner (SIRO).</p>
+        <ph conref="conrefs.dita#conrefs/moj"/>,
+        or the relevant Information Asset Owner (IAO),
+        or the Senior Information Risk Owner (SIRO).</p>
       <p>A DMF <ph conref="conrefs.dita#conrefs/policyshall"/> be completed,
         and approval received from the <ph conref="conrefs.dita#conrefs/ostemailtext"/>,
         for the following scenarios:
         <ul>
-          <li>Data is being moved or shared by transferring a physical device,
-          for example using a storage array, USB drive, or other removable media.</li>
+          <li>Data is being moved or shared by using a physical storage device to
+            transfer the information.
+          An example is where you use a "memory stick",
+          a USB drive,
+          a storage array,
+          or some other removable media.
+        The DMF in this scenario focuses on the data being moved or shared.</li>
           <li>Data is being moved or shared by electronic (network) communication,
             where the movement is from an <ph conref="conrefs.dita#conrefs/moj"/>
-            IT system to an external party.</li>
+            IT system to an external party.
+          An example is using secure file transfer or approved email to transfer
+        the information.
+      The DMF in this scenario focuses on the data being moved or shared.</li>
+          <li>An asset (a "data bearing asset") is being moved to,
+          or transported by,
+          an external party.
+          This might be as a result of an office move,
+          or because the asset is being decommissioned.
+            The asset might contain or process <ph conref="conrefs.dita#conrefs/moj"/>
+            information.
+            Examples of data bearing assets include laptops,
+            servers,
+            multi-functional devices,
+            and any other data bearing peripherals.
+          The DMF in this scenario focuses on the asset being moved or
+          transported,
+          rather than the <ph conref="conrefs.dita#conrefs/moj"/> information
+          that the asset might contain or process.</li>
         </ul></p>
         <p>A DMF <ph conref="conrefs.dita#conrefs/policyshall"/>
         be submitted to the <ph conref="conrefs.dita#conrefs/ostemailtext"/>
@@ -496,6 +523,11 @@
               <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</li>
             <li>Data is being moved in full compliance with the already-approved
               service design and operation specification and procedures.</li>
+                  <li>An asset (a "data bearing asset") is being moved
+                  but remains within the <ph conref="conrefs.dita#conrefs/moj"/>
+                  or its supplier-provided and
+                  <ph conref="conrefs.dita#conrefs/moj"/>-approved facilities at
+                  all times.</li>
           </ul>
         <note>In the informational scenarios,
         a DMF is only expected the first time a data movement or sharing takes
@@ -524,7 +556,7 @@
       <p>SecureZip is a compression and encryption product which can be used to
         encrypt sensitive data for use in removable media and e-mail based
         information transfers.</p>
-      <note>SecureZip can produce <q>self-extracting</q> encrypted files that are
+      <note>SecureZip can produce "self-extracting" encrypted files that are
       executable programs which are likely to be blocked by network firewalls or
       e-mail content checkers.</note>
       <p>The general rules for transmitting a password to a recipient are:
@@ -547,5 +579,5 @@
     </body>
   </topic>
   <topic id="reporting-data-loss" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

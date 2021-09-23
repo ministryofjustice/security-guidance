@@ -14,17 +14,11 @@
       <note>You can help reduce problems by making sure that devices used for <ph conref="conrefs.dita#conrefs/moj"/> tasks are always shut down before leaving Government premises. Locking a laptop, or 'putting it to sleep' is not completely secure. A lost or stolen laptop can be accessed more easily if it is only locked or sleeping. A shut down makes sure that all security measures are in place, such as full disk encryption.</note>
       <p>If you think your device is lost, stolen, 'hacked', or in some way compromised, you must:
       <ol>
-        <li>Contact your Technology Service Desk. The analyst will ask the relevant questions and note responses on the ticket.
+        <li>Contact your <ph conref="conrefs.dita#conrefs/servicedesk"/>. The analyst will ask the relevant questions and note responses on the ticket.
        <p conref="conrefs.dita#general-enquiries-including-theft-and-loss/dom1"/>
-       <p> </p>
-       <p conref="conrefs.dita#general-enquiries-including-theft-and-loss/dandt"/>
        </li>
-        <li>
-          <p>Tell your line manager as soon as possible.</p>
-        </li>
-        <li>
-          <p>For a lost or stolen device, contact the Police and make sure you get the incident reference number.</p>
-        </li>
+        <li>Tell your line manager as soon as possible.</li>
+        <li>For a lost or stolen device, contact the Police and make sure you get the incident reference number.</li>
       </ol></p>
     </body>
   </topic>
@@ -35,5 +29,5 @@
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

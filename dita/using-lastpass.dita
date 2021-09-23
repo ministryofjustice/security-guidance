@@ -87,7 +87,7 @@
     <topic id="sharing-passwords">
       <title>Sharing passwords</title>
       <body>
-        <p>To share a password <xref href="https://support.logmeininc.com/lastpass/help/manage-lastpass-teams-shared-folders-users-lp010061" format="html" scope="external">create a <q>shared folder</q> in the LastPass Vault</xref>.</p>
+        <p>To share a password <xref href="https://support.logmeininc.com/lastpass/help/manage-lastpass-teams-shared-folders-users-lp010061" format="html" scope="external">create a "shared folder" in the LastPass Vault</xref>.</p>
         <p>You should make sure the credentials you're sharing are only available to the people who need to access them for <ph conref="conrefs.dita#conrefs/moj"/> work. It is your responsibility to remove items or people from shared folders when access to the credential(s) is no longer required.</p>
         <p>You must not share your LastPass main password with anyone, even your line manager or <ph conref="conrefs.dita#conrefs/moj"/> security.</p>
       </body>
@@ -109,10 +109,10 @@
     <topic id="need-help">
       <title>Need help?</title>
       <body>
-        <p>If you need help <i>installing</i> LastPass contact the relevant <ph conref="conrefs.dita#conrefs/moj"/> IT Service Desk.</p>
+        <p>If you need help <i>installing</i> LastPass contact the relevant <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/servicedesk"/>.</p>
         <p>If you need help using LastPass such as getting access to shared folders or resetting your primary password as you have forgotten it, contact <xref href="mailto:lastpass-admins@digital.justice.gov.uk" format="email" scope="external">lastpass-admins@digital.justice.gov.uk</xref></p>
       </body>
     </topic>
   </topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

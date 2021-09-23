@@ -22,7 +22,7 @@ The way you use IT is important, because it indicates your approach to work, and
 
 ##What is meant by IT?
 
-IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices (such as laptops, 'phones, mobile Wi-Fi hotspots (MiFi), iPads, tablets, printers, USB memory sticks) through to online services (citizen-facing online services, staff tools, corporate email).
+IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices (such as laptops, 'phones, mobile Wi-Fi hotspots (MiFi), iPads, tablets, printers, USB "memory sticks") through to online services (citizen-facing online services, staff tools, corporate email).
 
 ##Acceptable use of MoJ IT
 
@@ -43,9 +43,11 @@ There are many unacceptable uses of IT, making it impossible to provide a comple
 * Storing sensitive information where it could easily be lost or stolen.
 * Using unapproved tools or processes to store sensitive information, such as passwords or credit card details.
 * Using your work email address for personal tasks.
-* Using a personal account or personal email address for work tasks.
+* Using your personal devices or your personal email address for work tasks.
 * Excessive private use during working time.
 * Installing unlicensed or unauthorised software.
+* Redirecting print jobs from MoJ printers to a personal printer.
+* Sending your work material to your personal devices or your personal email accounts. (It is of course acceptable and necessary from time-to-time to send work material to someone else's email address when they are directly involved with that work, for example someone in the Office of the Public Guardian (OPG) emailing someone regarding Lasting Power of Attorney (LPA).)
 
 ##Why unacceptable use is a problem
 
@@ -66,7 +68,7 @@ Unacceptable use might also affect you, too:
 
 You are responsible for protecting your MoJ IT resources. This includes keeping your usernames and passwords safe and secure.
 
-It also means looking after MoJ equipment, especially when working away from MoJ locations. You are responsible for protecting MoJ equipment issued to you. Any theft of MoJ equipment, or deliberate or willful damage to MoJ equipment, should normally be [reported](lost-devices-incidents.md) to the Police and to the Service Desk.
+It also means looking after MoJ equipment, especially when working away from MoJ locations. You are responsible for protecting MoJ equipment issued to you. Any theft of MoJ equipment, or deliberate or willful damage to MoJ equipment, should normally be [reported](lost-devices-incidents.md) to the Police and to the IT Service Desk.
 
 **Note:** You should normally report instances of theft or damage to authorities as indicated. However, there might be additional circumstances which mean a sensitive handling of the situation is appropriate. It is acceptable to consider the context of the situation when making a report. Ensure you can justify your actions. In cases of uncertainty, don't hesitate to ask your line manager, or other responsible authority for advice.
 
@@ -77,7 +79,7 @@ If you get an email from anyone or anywhere that you are not sure about, remembe
 * Don't open any attachments.
 * Don't click on any links in the email.
 
-If there is any doubt, or you are worried that the [email might be malicious](/news/ntk-phishing-dont-take-the-bait/) or inappropriate, [report it immediately](/guidance/security/report-a-security-incident/) as an IT security incident.
+If there is any doubt, or you are worried that the [email might be malicious](/news/ntk-phishing-dont-take-the-bait/) or inappropriate, [report it immediately](reporting-an-incident.md) as an IT security incident.
 
 ##Personal use of MoJ IT
 
@@ -98,9 +100,9 @@ Examples of unacceptable MoJ mobile phone use include:
 * Making charitable donations from the mobile phone account.
 * Signing up for premium rate text services.
 * Calling premium rate telephone services.
-* Voting in reality TV popularity contests - these usually involve premium rate services.
+* Voting in "reality TV" popularity contests - these usually involve premium rate services.
 * Downloading, uploading, or streaming media files that are not work-related, such as music or movies.
-* Tethering another device to the MoJ mobile phone, and then using the other device for any of the above activities.
+* "Tethering" another device to the MoJ mobile phone, and then using the other device for any of the above activities.
 
 ... as well as any other activities that are not obviously work-related.
 
@@ -110,7 +112,7 @@ All use of MoJ IT resources is monitored and logged. This includes mobile phone 
 
 Some IT resources might be usable [away from your usual workplace](/documents/2017/12/remote-working-and-mobile-computing-security-guide-november-2017.pdf), such as a laptop. Even outside the office, you must continue to ensure acceptable use of the IT resources.
 
-You should also [ask](/guidance/security/it-computer-security/accessing-moj-it-systems-from-overseas/) before taking MoJ IT equipment outside the UK.
+You should also ask before taking MoJ IT equipment outside the UK.
 
 ##Avoid using removable media
 
@@ -120,13 +122,13 @@ Removable media like memory sticks are portable and easy-to-use. Unfortunately, 
 
 A popular trend is to adorn laptops with stickers. This is acceptable as long as the material does not cause problems such as upset, offence, or embarrassment. The same applies if you customise the desktop environment of your equipment, for example by changing the desktop image.
 
-##Contacts
+##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 
 ##Feedback
 
-If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 
