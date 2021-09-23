@@ -761,10 +761,6 @@ has made for the products we operate, and our relationships with suppliers.</p>
 					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 				</row>
 				<row audience="audience-tech">
-					<entry colname="col1" align="left"><xref href="system-administrators-policy.dita" format="dita">System Administrators Policy</xref></entry>
-					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-				</row>
-				<row audience="audience-tech">
 					<entry colname="col1" align="left"><xref href="system-users-and-application-administrators.dita" format="dita">System User and Application Administrators</xref></entry>
 					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 				</row>
