@@ -76,7 +76,7 @@
         <ul>
           <!-- FIXME -->
           <li><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/" format="html" scope="external">IT Security Operating Procedures - System Administrators</xref>.</li>
-          <li><xref href="system-users-and-application-administrators.dita" format="dita" audience="audience-tech">System Users and Application Administrators</xref>.</li>
+          <li audience="audience-tech"><xref href="system-users-and-application-administrators.dita" format="dita">System Users and Application Administrators</xref>.</li>
           <li audience="audience-basic audience-tech"><xref href="remote-working.dita" format="dita">Remote Working</xref>.</li>
           <li>IT Security Operating Procedures - ICT Equipment: Desktop – Corporate.</li>
           <li>IT Security Operating Procedures - ICT Equipment: Mobile Devices - RAS Laptop.</li>
@@ -99,7 +99,7 @@
       <body>
         <p>Removable storage media include devices such as USB memory sticks, writeable CDs/DVDs, floppy discs and external hard drives.
           These devices can potential contain large amounts of protectively marked data and pose a significant risk to the Confidentiality of data held on them.
-          As such, the <ph conref="conrefs.dita#conrefs/moj"/> controls the use of removable media through SyOPs, technical security controls, and requiring movements of bulk data to be authorised by <ph conref="conrefs.dita#conrefs/moj"/> ICT IA, this includes completing a <xref href="data-handling-and-information-sharing-guide.dita" format="dita" platform="html">Data Movement Form</xref><xref href="data-handling-and-information-sharing-guide.dita#data-movement-form-dmf" format="dita" platform="epub pdf">Data Movement Form</xref>.</p>
+          As such, the <ph conref="conrefs.dita#conrefs/moj"/> controls the use of removable media through SyOPs, technical security controls, and requiring movements of bulk data to be authorised by <ph conref="conrefs.dita#conrefs/moj"/> ICT IA<ph audience="audience-tech">, this includes completing a <xref href="data-handling-and-information-sharing-guide.dita" format="dita" platform="html">Data Movement Form</xref><xref href="data-handling-and-information-sharing-guide.dita#data-movement-form-dmf" format="dita" platform="epub pdf">Data Movement Form</xref></ph>.</p>
           <dl>
             <dlentry>
               <dt>POL.ITAUP.009</dt>
