@@ -107,26 +107,27 @@
           or public transport,
           offer 'public' wifi or internet access.</p>
         <p>The services are usually offered for free.
-          They only require you to agree to some terms of service.</p>
+          They only need you to agree to some terms of service.</p>
         <p>While apparently convenient,
-          these services have a number of serious problems:
+          these services have some serious problems:
           <ul>
             <li>They have no security appropriate for protecting <ph conref="conrefs.dita#conrefs/moj"/> information.</li>
-            <li>There is no guarantee that any information transmitted through them is kept private or confidential.</li>
-            <li>They are usually shared,
-              which means that performance can often be very slow and unreliable.</li>
+            <li>There is no guarantee about keeping information transmitted through them private or confidential.</li>
+            <li>They are usually shared.
+              This means that performance can often be very slow and unreliable.</li>
           </ul></p>
-        <p>For this reason,
+        <p>For these reasons,
           you <ph conref="conrefs.dita#conrefs/policyshouldnot"/> use public wifi or internet services for <ph conref="conrefs.dita#conrefs/moj"/> business.
           You <ph conref="conrefs.dita#conrefs/policyshould"/> avoid connecting <ph conref="conrefs.dita#conrefs/moj"/> equipment to public wifi or internet services.</p>
         <p>If you need network access,
           but cannot connect to an <ph conref="conrefs.dita#conrefs/moj"/> network,
-          you <ph conref="conrefs.dita#conrefs/policyshould"/> use a network hotspot provided on your <ph conref="conrefs.dita#conrefs/moj"/>-issued mobile device.
+          you <ph conref="conrefs.dita#conrefs/policyshould"/> use an <ph conref="conrefs.dita#conrefs/moj"/>  hotspot.
+          This is usually provided on your <ph conref="conrefs.dita#conrefs/moj"/>-issued mobile device.
         </p>
-        <p>If it is essential that you use a public wifi or internet service with your <ph conref="conrefs.dita#conrefs/moj"/> equipment,
+        <p>If you need to use a public wifi or internet service with your <ph conref="conrefs.dita#conrefs/moj"/> equipment,
           then you <ph conref="conrefs.dita#conrefs/policyshall"/> use an <ph conref="conrefs.dita#conrefs/moj"/>-issued VPN.
-          This means that before doing any work on your <ph conref="conrefs.dita#conrefs/moj"/> equipment,
-          you <ph conref="conrefs.dita#conrefs/policyshall"/> check and ensure that the <ph conref="conrefs.dita#conrefs/moj"/>-issued VPN is operational and functioning correctly.</p>
+          Before doing any work,
+          check that the <ph conref="conrefs.dita#conrefs/moj"/>-issued VPN is working correctly.</p>
       </body>
     </topic>
   </topic>

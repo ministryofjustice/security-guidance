@@ -200,7 +200,7 @@
         gateway,
         where two checks occur:
       <ol>
-        <li>Determine if the link is denylisted by the
+        <li>Determine if the link is deny-listed by the
           <ph conref="conrefs.dita#conrefs/moj"/> or has been previously
           identified as malicious.</li>
         <li>Scan downloadable content available at the link address.</li>

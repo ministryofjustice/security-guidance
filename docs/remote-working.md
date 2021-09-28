@@ -70,19 +70,19 @@ Even when working remotely, you must still follow the security policies and oper
 
 Some locations, such as hotels, coffee shops, or public transport, offer 'public' wifi or internet access.
 
-The services are usually offered for free. They only require you to agree to some terms of service.
+The services are usually offered for free. They only need you to agree to some terms of service.
 
-While apparently convenient, these services have a number of serious problems:
+While apparently convenient, these services have some serious problems:
 
 -   They have no security appropriate for protecting MoJ information.
--   There is no guarantee that any information transmitted through them is kept private or confidential.
--   They are usually shared, which means that performance can often be very slow and unreliable.
+-   There is no guarantee about keeping information transmitted through them private or confidential.
+-   They are usually shared. This means that performance can often be very slow and unreliable.
 
-For this reason, you **SHOULD NOT** use public wifi or internet services for MoJ business. You **SHOULD** avoid connecting MoJ equipment to public wifi or internet services.
+For these reasons, you **SHOULD NOT** use public wifi or internet services for MoJ business. You **SHOULD** avoid connecting MoJ equipment to public wifi or internet services.
 
-If you need network access, but cannot connect to an MoJ network, you **SHOULD** use a network hotspot provided on your MoJ-issued mobile device.
+If you need network access, but cannot connect to an MoJ network, you **SHOULD** use an MoJ hotspot. This is usually provided on your MoJ-issued mobile device.
 
-If it is essential that you use a public wifi or internet service with your MoJ equipment, then you **SHALL** use an MoJ-issued VPN. This means that before doing any work on your MoJ equipment, you **SHALL** check and ensure that the MoJ-issued VPN is operational and functioning correctly.
+If you need to use a public wifi or internet service with your MoJ equipment, then you **SHALL** use an MoJ-issued VPN. Before doing any work, check that the MoJ-issued VPN is working correctly.
 
 ## Using your own equipment
 
