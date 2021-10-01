@@ -17,10 +17,14 @@
         <li>Be professional, and help keep <ph conref="conrefs.dita#conrefs/mojlong"/> information and resources safe and secure at all times.</li>
         <li>Think about where you are working, for example - can other people or family see what you are working on? Be thoughtful about information privacy.</li>
         <li>Never send work material to personal email accounts.</li>
+        <li>Do not use personal devices or accounts for work purposes - the exception is that a home wifi connection may be used to connect <ph conref="conrefs.dita#conrefs/moj"/> equipment.</li>
         <li>Keep <ph conref="conrefs.dita#conrefs/moj"/> accounts and password information secure.</li>
         <li>Take care of your equipment. Devices are more likely to be stolen or lost when working away from the office or home.</li>
         <li>Do not leave <ph conref="conrefs.dita#conrefs/moj"/> equipment unattended.</li>
         <li>Get in touch quickly to report problems or security questions.</li>
+        <li>If you are handling sensitive <ph conref="conrefs.dita#conrefs/moj"/> information,
+          or connecting to <ph conref="conrefs.dita#conrefs/moj"/> systems from a remote location,
+          you <ph conref="conrefs.dita#conrefs/policyshould"/> use the VPN.</li>
       </ul>
     </body>
   </topic>
@@ -74,7 +78,9 @@
         <li>Let family or other unauthorised people use <ph conref="conrefs.dita#conrefs/moj"/> equipment.</li>
         <li>Leave equipment unattended.</li>
         <li>Work on sensitive information in public spaces, or where your equipment can be overlooked by others.</li>
-        <li>Advertise the fact that you work with <ph conref="conrefs.dita#conrefs/moj"/> materials.</li>
+        <li>Advertise the fact that you work with <ph conref="conrefs.dita#conrefs/moj"/> materials.
+        However,
+        pre-installed materials such as backgrounds provided as standard with <ph conref="conrefs.dita#conrefs/moj"/> equipment are acceptable.</li>
         <li>Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.</li>
         <li>Send your work material to your personal devices or your personal email address.</li>
         <li>Redirect print jobs from <ph conref="conrefs.dita#conrefs/moj"/> printers to a personal printer.</li>
@@ -98,34 +104,37 @@
       </ul>
       <p>Even when working remotely, you must still follow the security policies and operating procedures for <ph conref="conrefs.dita#conrefs/moj"/> systems you access and work with.</p>
     </body>
-    <topic id="using-public-wifi-or-internet">
-      <title>Using public wifi or internet</title>
+    <topic id="using-public-wifi-or-internet-and-home-broadband">
+      <title>Using public wifi or internet, and home broadband</title>
       <body>
         <p>Some locations,
           such as hotels,
           coffee shops,
           or public transport,
           offer 'public' wifi or internet access.</p>
-        <p>The services are usually offered for free.
+        <p>The public services are usually offered for free.
           They only need you to agree to some terms of service.</p>
         <p>While apparently convenient,
-          these services have some serious problems:
+          these services can have some serious problems:
           <ul>
             <li>They have no security appropriate for protecting <ph conref="conrefs.dita#conrefs/moj"/> information.</li>
             <li>There is no guarantee about keeping information transmitted through them private or confidential.</li>
-            <li>They are usually shared.
+            <li>Public services are usually shared.
               This means that performance can often be very slow and unreliable.</li>
           </ul></p>
         <p>For these reasons,
           you <ph conref="conrefs.dita#conrefs/policyshouldnot"/> use public wifi or internet services for <ph conref="conrefs.dita#conrefs/moj"/> business.
           You <ph conref="conrefs.dita#conrefs/policyshould"/> avoid connecting <ph conref="conrefs.dita#conrefs/moj"/> equipment to public wifi or internet services.</p>
         <p>If you need network access,
-          but cannot connect to an <ph conref="conrefs.dita#conrefs/moj"/> network,
-          you <ph conref="conrefs.dita#conrefs/policyshould"/> use an <ph conref="conrefs.dita#conrefs/moj"/>  hotspot.
+          but cannot connect to an <ph conref="conrefs.dita#conrefs/moj"/> network or home broadband service,
+          you <ph conref="conrefs.dita#conrefs/policyshould"/> use an <ph conref="conrefs.dita#conrefs/moj"/> hotspot.
           This is usually provided on your <ph conref="conrefs.dita#conrefs/moj"/>-issued mobile device.
         </p>
-        <p>If you need to use a public wifi or internet service with your <ph conref="conrefs.dita#conrefs/moj"/> equipment,
-          then you <ph conref="conrefs.dita#conrefs/policyshall"/> use an <ph conref="conrefs.dita#conrefs/moj"/>-issued VPN.
+        <p>If you need to use a public wifi or internet service,
+          or home broadband,
+          with your <ph conref="conrefs.dita#conrefs/moj"/> equipment,
+          because you do not have  an <ph conref="conrefs.dita#conrefs/moj"/> hotspot,
+          then you <ph conref="conrefs.dita#conrefs/policyshall"/> connect using an <ph conref="conrefs.dita#conrefs/moj"/>-issued VPN.
           Before doing any work,
           check that the <ph conref="conrefs.dita#conrefs/moj"/>-issued VPN is working correctly.</p>
       </body>
@@ -155,7 +164,9 @@
           an <ph conref="conrefs.dita#conrefs/moj"/> printer to a personal printer.</li>
         <li><ph conref="conrefs.dita#conrefs/policyshould"/> consult the information asset owner or line manager before printing the information.</li>
         <li><ph conref="conrefs.dita#conrefs/policyshall"/> store any and all printed materials safely and securely until you return to <ph conref="conrefs.dita#conrefs/moj"/> premises, when they must be disposed of or filed appropriately.</li>
-        <li><ph conref="conrefs.dita#conrefs/policyshallnot"/> dispose of <ph conref="conrefs.dita#conrefs/moj"/> information in your home rubbish or recycling.</li>
+        <li><ph conref="conrefs.dita#conrefs/policyshallnot"/> dispose of unshredded <ph conref="conrefs.dita#conrefs/moj"/> information in your home rubbish or recycling.
+        Use a cross-cut shredder to destroy printed materials securely,
+      before disposal at non-<ph conref="conrefs.dita#conrefs/moj"/> locations.</li>
       </ul>
       <p>Basically, think before you print.</p>
     </body>
