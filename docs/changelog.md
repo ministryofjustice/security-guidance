@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-10-01 15:07 BST [Personal device attachment](https://security-guidance.service.justice.gov.uk/personal-devices/)**
+
+    Clarifying the connection of personal peripherals, and the charging of personal devices from USB ports.
+
 -   **2021-09-13 17:21 BST [Government Security Standard 007 V2](https://security-guidance.service.justice.gov.uk/#background)**
 
     Updates following the release of V2 of the Gov007 security standard.
