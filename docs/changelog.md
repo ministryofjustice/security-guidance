@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-10-05 14:28 BST [Client certificates](https://security-guidance.service.justice.gov.uk/automated-certificate-renewal/#using-public-wifi-or-internet-and-home-broadband)**
+
+    Added notes about obtaining client certificates.
+
 -   **2021-10-01 15:24 BST [Connection to public wifi](https://security-guidance.service.justice.gov.uk/remote-working/#using-public-wifi-or-internet-and-home-broadband)**
 
     Clarification about connecting to public wifi spots, such as hotels or coffee shops, or home broadband. Also extra details for remote working securely.

@@ -8,3 +8,4 @@
 "202109131721","Government Security Standard 007 V2","Updates following the release of V2 of the Gov007 security standard.","#background","2021-09-13 17:21 BST"
 "202110011507","Personal device attachment","Clarifying the connection of personal peripherals, and the charging of personal devices from USB ports.","personal-devices/","2021-10-01 15:07 BST"
 "202110011524","Connection to public wifi","Clarification about connecting to public wifi spots, such as hotels or coffee shops, or home broadband. Also extra details for remote working securely.","remote-working/#using-public-wifi-or-internet-and-home-broadband","2021-10-01 15:24 BST"
+"202110051428","Client certificates","Added notes about obtaining client certificates.","automated-certificate-renewal/#using-public-wifi-or-internet-and-home-broadband","2021-10-05 14:28 BST"
