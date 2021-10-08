@@ -2,6 +2,26 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-10-08 09:56 BST [Wifi policy](https://security-guidance.service.justice.gov.uk/wifi-security-policy/)**
+
+    Added policy information about wifi.
+
+-   **2021-10-05 14:28 BST [Client certificates](https://security-guidance.service.justice.gov.uk/automated-certificate-renewal/#using-public-wifi-or-internet-and-home-broadband)**
+
+    Added notes about obtaining client certificates.
+
+-   **2021-10-01 15:24 BST [Connection to public wifi](https://security-guidance.service.justice.gov.uk/remote-working/#using-public-wifi-or-internet-and-home-broadband)**
+
+    Clarification about connecting to public wifi spots, such as hotels or coffee shops, or home broadband. Also extra details for remote working securely.
+
+-   **2021-10-01 15:07 BST [Personal device attachment](https://security-guidance.service.justice.gov.uk/personal-devices/)**
+
+    Clarifying the connection of personal peripherals, and the charging of personal devices from USB ports.
+
+-   **2021-09-13 17:21 BST [Government Security Standard 007 V2](https://security-guidance.service.justice.gov.uk/#background)**
+
+    Updates following the release of V2 of the Gov007 security standard.
+
 -   **2021-09-06 09:21 BST [National Security Vetting contacts.](https://security-guidance.service.justice.gov.uk/national-security-vetting-contact/)**
 
     Information on the role and registration process.

@@ -4,7 +4,7 @@
 # (https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid).
 
 # Run from within the buildUtils folder:
-# sh ./detectAvoidWords.sh
+# bash ./detectAvoidWords.sh
 
 # Also added avoid words, to improve accessibility:
 #  above

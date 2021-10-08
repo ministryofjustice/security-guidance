@@ -14,7 +14,7 @@
         -   [Information classification, handling and security guide](information-classification-handling-and-security-guide.md)
         -   [Guidance on IT Accounts and Assets for Long Term Leave](long-term-leave.md)
         -   [OFFICIAL, OFFICIAL-SENSITIVE](official-official-sensitive.md)
-        -   [Personal device use](personal-devices.md)
+        -   [Personal devices](personal-devices.md)
         -   [Protecting social media accounts](protecting-social-media-accounts.md)
         -   [Protect yourself online](protect-yourself-online.md)
         -   [Ransomware](ransomware.md)

@@ -30,6 +30,7 @@
 	<property name="intranet" location="intranet"/>
 	<property name="images" location="images"/>
 	<property name="jekyll-baseline" location="jekyll-baseline"/>
+	<property name="hmcts" location="hmcts"/>
 	<property name="ost" location="ost"/>
 	<!--
 	<property name="ostbuild" location="${docs}/ost"/>
@@ -78,7 +79,9 @@
 			<mapper type="glob" from="*.md" to="*.dita"/>
 		</move>
 		-->
-
+		<copy todir="${ditabuild}/hmcts" >
+			<fileset dir="${hmcts}"/>
+		</copy>
 		<!-- Create the time stamp -->
 		<tstamp>
 			<format property="TODAY_GB" pattern="d MMMM yyyy" locale="en,GB"/>
@@ -211,6 +214,7 @@
 		</replaceregexp>
 		<replaceregexp match="\(downloads" replace="\(../downloads" flags="g" >
 			<fileset dir="${build}/ost" includes="**/*.md"/>
+			<fileset dir="${build}/hmcts" includes="**/*.md"/>
 		</replaceregexp>
 	</target>
 
