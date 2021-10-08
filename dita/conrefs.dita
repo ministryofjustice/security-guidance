@@ -34,6 +34,7 @@
 			<ph id="cpnilong">Centre for the Protection of National Infrastructure (CPNI)</ph>
 			<ph id="cpni">CPNI</ph>
 			<ph id="dacuemail"><xref href="mailto:Data.access@justice.gov.uk" format="email" scope="external">Data.access@justice.gov.uk</xref></ph>
+			<ph id="domainsemail"><xref href="mailto:domains@digital.justice.gov.uk" format="email" scope="external">domains@digital.justice.gov.uk</xref></ph>
 			<ph id="gcloud"><xref href="https://www.digitalmarketplace.service.gov.uk/g-cloud" format="html" scope="external">Digital Marketplace (GCloud)</xref></ph>
 			<ph id="giaaemail"><xref href="mailto:correspondence@giaa.gov.uk" format="email" scope="external">correspondence@giaa.gov.uk</xref></ph> <!-- Government Internal Audit Agency -->
 			<ph id="gov007"><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></ph>
@@ -50,6 +51,7 @@
 			<ph id="ncsc">NCSC</ph>
 			<ph id="nsvc-contact">If you don't know who your NSVC is,
 				see the download <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external">here</xref>.</ph>
+			<ph id="operationsengineering"><xref href="https://operations-engineering.service.justice.gov.uk/" format="html" scope="external">Operations Engineering</xref></ph>
 			<ph id="ostemail"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
 			<ph id="ostemailtext"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">Operational Security Team</xref></ph>
 			<ph id="policyterms">In policy documents,
