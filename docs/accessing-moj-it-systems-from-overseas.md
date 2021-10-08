@@ -1,4 +1,4 @@
-# Accessing Ministry of Justice \(MoJ\) IT systems overseas
+# Accessing Ministry of Justice \(MoJ\) IT systems from overseas
 
 This guidance information applies to all staff, contractors and agency staff who work for the MoJ.
 
