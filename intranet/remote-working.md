@@ -7,10 +7,12 @@ Remote working means you are working away from the office. This could be from ho
 * Be professional, and help keep Ministry of Justice (MoJ) information and resources safe and secure at all times.
 * Think about where you are working, for example - can other people or family see what you are working on? Be thoughtful about information privacy.
 * Never send work material to personal email accounts.
+* Do not use personal devices or accounts for work purposes - the exception is that a home wifi connection may be used to connect MoJ equipment.
 * Keep MoJ accounts and password information secure.
 * Take care of your equipment. Devices are more likely to be stolen or lost when working away from the office or home.
 * Do not leave MoJ equipment unattended.
 * Get in touch quickly to report problems or security questions.
+* If you are handling sensitive MoJ information, or connecting to MoJ systems from a remote location, you **SHOULD** use the VPN.
 
 ##Overview
 
@@ -44,7 +46,7 @@ Remote working is when you work from any non-MoJ location, for example, working 
 * Let family or other unauthorised people use MoJ equipment.
 * Leave equipment unattended.
 * Work on sensitive information in public spaces, or where your equipment can be overlooked by others.
-* Advertise the fact that you work with MoJ materials.
+* Advertise the fact that you work with MoJ materials. However, pre-installed materials such as backgrounds provided as standard with MoJ equipment are acceptable.
 * Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.
 * Send your work material to your personal devices or your personal email address.
 * Redirect print jobs from MoJ printers to a personal printer.
@@ -61,6 +63,24 @@ It's important to consider the security of how you work remotely.
 * Keep MoJ **equipment and information**, including printouts and documents, safe and secure.
 
 Even when working remotely, you must still follow the security policies and operating procedures for MoJ systems you access and work with.
+
+##Using public wifi or internet, and home broadband
+
+Some locations, such as hotels, coffee shops, or public transport, offer 'public' wifi or internet access.
+
+The public services are usually offered for free. They only need you to agree to some terms of service.
+
+While apparently convenient, these services can have some serious problems:
+
+* They have no security appropriate for protecting MoJ information.
+* There is no guarantee about keeping information transmitted through them private or confidential.
+* Public services are usually shared. This means that performance can often be very slow and unreliable.
+
+For these reasons, you **SHOULD NOT** use public wifi or internet services for MoJ business. You **SHOULD** avoid connecting MoJ equipment to public wifi or internet services.
+
+If you need network access, but cannot connect to an MoJ network or home broadband service, you **SHOULD** use an MoJ hotspot. This is usually provided on your MoJ-issued mobile device.
+
+If you need to use a public wifi or internet service, or home broadband, with your MoJ equipment, because you do not have an MoJ hotspot, then you **SHALL** connect using an MoJ-issued VPN. Before doing any work, check that the MoJ-issued VPN is working correctly.
 
 ##Using your own equipment
 
@@ -83,7 +103,7 @@ However, if you really must print MoJ information, you:
 * **SHOULD NOT** redirect print jobs from an MoJ printer to a personal printer.
 * **SHOULD** consult the information asset owner or line manager before printing the information.
 * **SHALL** store any and all printed materials safely and securely until you return to MoJ premises, when they must be disposed of or filed appropriately.
-* **SHALL NOT** dispose of MoJ information in your home rubbish or recycling.
+* **SHALL NOT** dispose of unshredded MoJ information in your home rubbish or recycling. Use a cross-cut shredder to destroy printed materials securely, before disposal at non-MoJ locations.
 
 Basically, think before you print.
 

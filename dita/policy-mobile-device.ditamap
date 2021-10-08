@@ -5,4 +5,5 @@
 	<topicref href="conrefs.dita" type="topic" processing-role="resource-only"/>
 	<topicref href="mobile-device-and-remote-working-policy.dita" type="topic"/>
 	<topicref href="personal-devices.dita" type="topic"/>
+	<topicref href="bluetooth.dita" type="topic"/>
 </map>

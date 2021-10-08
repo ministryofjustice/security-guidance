@@ -19,7 +19,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
             <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">General app guidance</xref></li>
             <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements Guide</xref></li>
             <li><xref href="official-official-sensitive.dita" format="dita">OFFICIAL, OFFICIAL-SENSITIVE</xref> classifications and handling</li>
-            <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From overseas</xref></li>
+            <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref></li>
             <li><xref href="remote-working.dita" format="dita">Remote Working</xref></li>
           </ul>
         </p>
@@ -449,7 +449,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
-                <entry colname="col1" align="left"><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From overseas</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/accessing-moj-it-systems-overseas/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
+                <entry colname="col1" align="left"><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/accessing-moj-it-systems-overseas/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
@@ -1108,26 +1108,30 @@ has made for the products we operate, and our relationships with suppliers.</p>
 								<entry colname="col1" align="left"><xref href="email-security-guide.dita" format="dita">Email Security Guide</xref></entry>
 								<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 							</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita" type="topic">General Apps Guidance</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/apps/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="secure-data-transfer-guide.dita" format="dita">Secure Data Transfer Guide</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row audience="audience-tech">
-					<entry colname="col1" align="left"><xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref></entry>
-					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-				</row>
-				<row audience="audience-tech">
-					<entry colname="col1" align="left"><xref href="spam-and-phishing-guide.dita" format="dita">Spam and Phishing Guide</xref></entry>
-					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="web-browsing-security-policy-profiles.dita" format="dita" type="topic">Web browsing security policy profiles</xref></entry>
-					<entry colname="col2" align="right">All users (Policy)</entry>
-				</row>
+              <row>
+                <entry colname="col1" align="left"><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita" type="topic">General Apps Guidance</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/apps/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="secure-data-transfer-guide.dita" format="dita">Secure Data Transfer Guide</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1" align="left"><xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1" align="left"><xref href="spam-and-phishing-guide.dita" format="dita">Spam and Phishing Guide</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="web-browsing-security-policy-profiles.dita" format="dita" type="topic">Web browsing security policy profiles</xref></entry>
+                <entry colname="col2" align="right">All users (Policy)</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="wifi-security-policy.dita" format="dita" type="topic">Wifi security policy</xref></entry>
+                <entry colname="col2" align="right">All users (Policy)</entry>
+              </row>
             </tbody></tgroup></table>
           </body>
         </topic>

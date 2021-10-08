@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 21 September 2021.
+**Note:** This guidance is dated: 8 October 2021.
 
 ### Popular links
 
@@ -15,7 +15,7 @@ Popular links for all users:
 -   [General app guidance](general-user-video-and-messaging-apps-guidance.md)
 -   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
 -   [OFFICIAL, OFFICIAL-SENSITIVE](official-official-sensitive.md) classifications and handling
--   [Accessing MoJ IT Systems From overseas](accessing-moj-it-systems-from-overseas.md)
+-   [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
 -   [Remote Working](remote-working.md)
 
 ### Change log
@@ -34,7 +34,7 @@ For convenience, offline versions of this guidance are available.
 |Group Security. Contains Group Security policy and guidance.|[PDF](moj-guidance-gs.pdf)|[EPUB](moj-guidance-gs.epub)|
 |Technical users. Includes lots of technical detail. This document contains all content, including for 'All users' and from Group Security. Download this document if you want the complete set of published MoJ security policy and guidance.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 21 October 2021.
+The offline versions of this guidance are time-limited, and are not valid after 8 November 2021.
 
 ### Getting in touch
 
@@ -117,7 +117,7 @@ The documents have been developed and defined within this taxonomy, and are list
 
 #### Teleworking
 
-|[Accessing MoJ IT Systems From overseas](accessing-moj-it-systems-from-overseas.md)|All users|
+|[Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)|All users|
 |[General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md)|All users|
 |[Personal Devices](personal-devices.md)|All users|
 
@@ -317,6 +317,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Secure Email Transfer Guide](secure-email-transfer-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Spam and Phishing Guide](spam-and-phishing-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Web browsing security policy profiles](web-browsing-security-policy-profiles.md)|All users \(Policy\)|
+|[Wifi security policy](wifi-security-policy.md)|All users \(Policy\)|
 
 ### System acquisition, development and maintenance
 

@@ -82,7 +82,7 @@ For further guidance on implementing sandboxing, including which products you mi
 
 URL link rewriting is a technique used to detect malicious links in emails. Links in emails are actively scanned. They are then rewritten to point to an Advanced Threat Protection gateway, where two checks occur:
 
-1.  Determine if the link is denylisted by the MoJ or has been previously identified as malicious.
+1.  Determine if the link is deny-listed by the MoJ or has been previously identified as malicious.
 2.  Scan downloadable content available at the link address.
 
 After the checks have completed, the user continues to the URL or is blocked from access, depending on the results of the checks. If access is blocked, URL rewriting is used to provide an explanation and contact details for additional help.
