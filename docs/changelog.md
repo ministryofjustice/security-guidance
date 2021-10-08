@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-10-08 09:56 BST [Wifi policy](https://security-guidance.service.justice.gov.uk/wifi-security-policy/)**
+
+    Added policy information about wifi.
+
 -   **2021-10-05 14:28 BST [Client certificates](https://security-guidance.service.justice.gov.uk/automated-certificate-renewal/#using-public-wifi-or-internet-and-home-broadband)**
 
     Added notes about obtaining client certificates.
