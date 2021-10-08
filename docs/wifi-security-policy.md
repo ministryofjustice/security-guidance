@@ -58,62 +58,63 @@ This policy applies to all MoJ owned or managed wifi networks provided for any p
 
 The following statements apply to all MoJ-provided wifi networks.
 
-`POLWIFI004:` Wifi networks **SHALL NOT** be treated as extensions of trusted LANs or WANs.
+`POLWIFI003:` Wifi networks **SHALL NOT** be treated as extensions of trusted LANs or WANs.
 
-`POLWIFI005:` Wifi networks **SHALL** be treated as untrusted bearers for the purposes of application security.
+`POLWIFI004:` Wifi networks **SHALL** be treated as untrusted bearers for the purposes of application security.
 
-`POLWIFI006:` All products used in an MoJ wifi network **SHALL** support WPA2-Enterprise.
+`POLWIFI005:` All products used in an MoJ wifi network **SHALL** support WPA2-Enterprise.
 
-`POLWIFI007:` CCMP **SHALL** be used to protect the confidentiality and integrity of information transmitted over the wifi network.
+`POLWIFI006:` CCMP **SHALL** be used to protect the confidentiality and integrity of information transmitted over the wifi network.
 
-`POLWIFI008:` Other wifi security modes \(such as WEP\) **SHALL NOT** be enabled.
+`POLWIFI007:` Other wifi security modes \(such as WEP\) **SHALL NOT** be enabled.
 
-`POLWIFI009:` All products used in MoJ wifi networks **SHALL** support certificate-based authentication.
+`POLWIFI008:` All products used in MoJ wifi networks **SHALL** support certificate-based authentication.
 
-`POLWIFI010:` On MoJ wireless networks, isolation between wifi clients **SHOULD** be enabled. Where there is no requirement for devices to communicate directly it **SHALL** be enabled.
+`POLWIFI009:` On MoJ wireless networks, isolation between wifi clients **SHOULD** be enabled. Where there is no requirement for devices to communicate directly, isolation **SHALL** be enabled.
 
-`POLWIFI011:` MoJ wireless networks **SHOULD** use a DNS resolver that chains to the [Protective Domain Name Service \(PDNS\)](https://www.ncsc.gov.uk/information/pdns) service.
+`POLWIFI010:` MoJ wireless networks **SHOULD** use a DNS resolver that chains to the [Protective Domain Name Service \(PDNS\)](https://www.ncsc.gov.uk/information/pdns) service.
 
-`POLWIFI012:` All MoJ wireless networking equipment **SHALL** be kept [patched and secure](vulnerability-scanning-and-patch-management-guide.md), whether connecting to MoJ wifi services or GovWifi.
+`POLWIFI011:` All MoJ wireless networking equipment **SHALL** be kept [patched and secure](vulnerability-scanning-and-patch-management-guide.md), whether connecting to MoJ wifi services or GovWifi.
 
-`POLWIFI013:` All management of MoJ Wireless networking equipment **SHALL** be undertaken in compliance with the [Privileged User Access Guide](privileged-account-management-guide.md) and any relevant Security Operating Procedures \(SyOPS\).
+`POLWIFI012:` All management of MoJ Wireless networking equipment **SHALL** be undertaken in compliance with the [Privileged User Access Guide](privileged-account-management-guide.md) and any relevant Security Operating Procedures \(SyOPS\).
 
 ## MoJ enterprise wifi networks
 
 **Note:** MoJ enterprise wifi networks are those used solely for MoJ users and devices.
 
-`POLWIFI014:` Pre-Shared Keys \(PSKs\) **MAY** be used for user or device authentication.
+`POLWIFI013:` Pre-Shared Keys \(PSKs\) **MAY** be used for user or device authentication.
 
-`POLWIFI015:` PSKs **SHALL** be unique per user or device.
+`POLWIFI014:` PSKs **SHALL** be unique per user or device.
 
-`POLWIFI016:` PSKs **SHALL** only be implemented with prior agreement from the cyber security team
+`POLWIFI015:` PSKs **SHALL** only be implemented with prior agreement from the cyber security team
 
-`POLWIFI017:` PSKs **SHALL** be changed at least once a year.
+`POLWIFI016:` PSKs **SHALL** be changed at least once a year.
 
-`POLWIFI018:` EAP-PSK **SHOULD** be used.
+`POLWIFI017:` EAP-PSK **SHOULD** be used.
 
-`POLWIFI019:` In higher-threat situations such as in a prison location where any unauthorised use of the Wireless network would constitute a security incident, mutually-authenticated authentication based on certificates **SHALL** be used.
+`POLWIFI018:` In higher-threat situations such as in a prison location where any unauthorised use of the Wireless network would constitute a security incident, mutually-authenticated authentication based on certificates **SHALL** be used.
 
-`POLWIFI020:` EAP-TLS or EAP-TTLS **SHOULD** be used.
+`POLWIFI019:` EAP-TLS or EAP-TTLS **SHOULD** be used.
 
-`POLWIFI021:` Where user or device groups have differing functions, PKI trust domains **SHOULD** be defined and used to maintain functional separation.
+`POLWIFI020:` Where user or device groups have differing functions, PKI trust domains **SHOULD** be defined and used to maintain functional separation.
 
 ## MoJ special-purpose wifi networks
 
-`POLWIFI022:` If MoJ devices, including IoT or legacy devices, cannot meet the general security policy requirements, or if there are non-security reasons for segregating traffic onto different SSIDs, then dedicated MoJ wifi networks **MAY** be created.
+`POLWIFI021:` If MoJ devices, including IoT or legacy devices, cannot meet the general security policy requirements, or if there are non-security reasons for segregating traffic onto different SSIDs, then dedicated MoJ wifi networks **MAY** be created.
 
-`POLWIFI023:` These dedicated networks **MAY** have reduced authentication controls, for example a shared PSK or a reduced ability to rotate PSKs due to form-factor limitations.
+`POLWIFI022:` These dedicated networks **MAY** have reduced authentication controls, for example a shared PSK or a reduced ability to rotate PSKs due to form-factor limitations.
 
-`POLWIFI024:` In such circumstances, special care **SHALL** be taken to ensure that the general network architecture and other security controls constrain network connectivity for clients. The constraints limit network connectivity to the minimum required for them to function properly.
+`POLWIFI023:` In such circumstances, special care **SHALL** be taken to ensure that the general network architecture and other security controls constrain network connectivity for clients. The constraints limit network connectivity to the minimum required for them to function properly.
 
-`POLWIFI025:` Other mechanisms such as MAC filtering **SHOULD** be used to reduce the chance of misuse.
+`POLWIFI024:` Other mechanisms such as MAC filtering **SHOULD** be used to reduce the chance of misuse.
 
-## MoJ guest WifFi networks
-Due to complexities and management effort involved in running wifi solutions, the MoJ preference is to utilise the cross-Government GovWifi service \([https://www.wifi.service.gov.uk/](https://www.wifi.service.gov.uk/)\).
+## MoJ guest wifi networks
+
+Due to complexities and management effort involved in running wifi solutions, the MoJ preference is to utilise the cross-Government GovWifi service: [https://www.wifi.service.gov.uk/](https://www.wifi.service.gov.uk/).
 
 This also has the benefit of being available across HMG Departments and Agencies. GovWifi has a level of pre-registration, monitoring and filtering in place to protect the users. However, GovWifi does not provide enterprise level security functions. GovWifi users are required to maintain their own security controls. For MoJ users of GovWifi connections, this means using the MoJ-provided VPN services when accessing protected MoJ services.
 
-`POLWIFI003:` Any considerations for not using GovWifi in an MoJ guest WiFi network **SHALL** be discussed and agreed beforehand with the cyber security team.
+`POLWIFI025:` Any considerations for not using GovWifi in an MoJ guest WiFi network **SHALL** be discussed and agreed beforehand with the cyber security team.
 
 `POLWIFI026:` Where GovWifi cannot be used, or where an existing guest wifi service exists,the following **SHALL** be in place:
 
@@ -142,13 +143,13 @@ This also has the benefit of being available across HMG Departments and Agencies
 
 `POLWIFI033:` Staff **MAY** use work-provided mobile phones to 'tether' their MoJ-provided devices for connectivity.
 
-`POLWIFI033:` Tethered connections **SHALL** be password protected using unique and complex passwords.
+`POLWIFI034:` Tethered connections **SHALL** be password protected using unique and complex passwords.
 
-`POLWIFI034:` Tethering passwords for MoJ devices **SHALL NOT** be shared with non-MoJ users.
+`POLWIFI035:` Tethering passwords for MoJ devices **SHALL NOT** be shared with non-MoJ users.
 
-`POLWIFI035:` Public wifi networks or guest wifi provided at third-party sites **SHALL** only be used by devices which have suitable encryption for MoJ `OFFICIAL` information - either an 'always-on full-take' VPN or appropriate application-level encryption for all services. This is currently limited to Dom1 and PTTP/MoJO laptops and mobile devices.
+`POLWIFI036:` Public wifi networks or guest wifi provided at third-party sites **SHALL** only be used by devices which have suitable encryption for MoJ `OFFICIAL` information. Here, 'suitable' means either an 'always-on full-take' VPN, or that provides appropriate application-level encryption for all services. This is currently \(October 2021\) limited to Dom1 and PTTP/MoJO laptops and mobile devices.
 
-`POLWIFI036:` Staff travelling overseas **SHALL** follow the guidance on [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md) and [taking equipment overseas](general-advice-on-taking-equipment-overseas.md) regarding the use of wifi or other networks.
+`POLWIFI037:` Staff travelling overseas **SHALL** follow the guidance on [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md) and [taking equipment overseas](general-advice-on-taking-equipment-overseas.md) regarding the use of wifi or other networks.
 
 ## Enforcement
 
