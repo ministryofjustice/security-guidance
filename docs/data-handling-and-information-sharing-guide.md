@@ -2,6 +2,11 @@
 
 This guide is designed to help protect Ministry of Justice \(MoJ\) information held on MoJ IT systems, by providing guidance on how it should be handled and shared in a safe and secure manner.
 
+**Related information**  
+
+
+[Email blocking policy](email-blocklist-policy.md)
+
 ## Overview
 
 ### Introduction

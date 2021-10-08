@@ -8,6 +8,11 @@ If you have any concerns about email delivery, contact your email service provid
 
 **Parent topic:** [Email Security Guide](email-security-guide.md)
 
+**Related information**  
+
+
+[Email blocking policy](email-blocklist-policy.md)
+
 ## Definitions
 
 Within this guidance, 'email' might refer to individual user mailboxes, shared or group mailboxes, or distribution lists and mailing lists.

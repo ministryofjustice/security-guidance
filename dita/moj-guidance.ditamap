@@ -425,5 +425,17 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="privileged-user-logging-and-protective-monitoring-guide.dita"/>
 			</relcell>
 		</relrow>
+		<relrow audience="audience-tech">
+			<relcell>
+				<topicref href="email-blocklist-policy.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="acceptable-use.dita"/>
+				<topicref href="data-security-and-privacy.dita"/>
+				<topicref href="email-blocklist-process.dita"/>
+				<topicref href="malware-protection-guide-introduction.dita"/>
+				<topicref href="data-handling-and-information-sharing-guide.dita"/>
+			</relcell>
+		</relrow>
 	</reltable>
 </map>
