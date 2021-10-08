@@ -259,6 +259,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta><navtitle>Network security management</navtitle></topicmeta>
 			<topicref href="code-of-connection-standard.dita" type="topic"/>
 			<topicref href="defensive-domain-registration.dita" type="topic"/>
+			<topicref href="domain-names-policy.dita" type="topic"/>
 			<topicref href="internet-v-psn.dita" type="topic"/>
 			<topicref href="ip-dns-diagram-handling.dita" type="topic"/>
 			<topicref href="multiple-consecutive-back-to-back-firewalls.dita" type="topic"/>

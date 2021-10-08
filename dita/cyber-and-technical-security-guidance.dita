@@ -1054,6 +1054,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
+                <entry colname="col1" align="left"><xref href="domain-names-policy.dita" format="dita">Domain names and Domain Name System (DNS) security policy</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
                 <entry colname="col1" align="left"><xref href="internet-v-psn.dita" format="dita">Internet v. PSN</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
