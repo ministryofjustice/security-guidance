@@ -56,11 +56,7 @@ This policy applies to all MoJ owned or managed wifi networks provided for any p
 
 ## General security requirements
 
-Due to complexities and management effort involved in running wifi solutions, the MoJ preference is to utilise the cross-Government GovWifi service \([https://www.wifi.service.gov.uk/](https://www.wifi.service.gov.uk/)\) wherever possible. This has the advantage of being a known entity within other Government Departments, has regular Security audits and provides a high level of Security controls and filtering to internet traffic.
-
-`POLWIFI003:` Any considerations for NOT using GovWifi in an architecture, solution, or service **SHALL** be discussed and agreed beforehand with the cyber security team.
-
-The following statements apply to all MoJ wifi networks.
+The following statements apply to all MoJ-provided wifi networks.
 
 `POLWIFI004:` Wifi networks **SHALL NOT** be treated as extensions of trusted LANs or WANs.
 
@@ -74,7 +70,7 @@ The following statements apply to all MoJ wifi networks.
 
 `POLWIFI009:` All products used in MoJ wifi networks **SHALL** support certificate-based authentication.
 
-`POLWIFI010:` On MoJ wireless networks, isolation between wifi clients **SHALL** be enabled.
+`POLWIFI010:` On MoJ wireless networks, isolation between wifi clients **SHOULD** be enabled. Where there is no requirement for devices to communicate directly it **SHALL** be enabled.
 
 `POLWIFI011:` MoJ wireless networks **SHOULD** use a DNS resolver that chains to the [Protective Domain Name Service \(PDNS\)](https://www.ncsc.gov.uk/information/pdns) service.
 
@@ -112,9 +108,12 @@ The following statements apply to all MoJ wifi networks.
 
 `POLWIFI025:` Other mechanisms such as MAC filtering **SHOULD** be used to reduce the chance of misuse.
 
-## MoJ guest wifi networks
+## MoJ guest WifFi networks
+Due to complexities and management effort involved in running wifi solutions, the MoJ preference is to utilise the cross-Government GovWifi service \([https://www.wifi.service.gov.uk/](https://www.wifi.service.gov.uk/)\).
 
-The preferred method for providing guest wifi services is to implement GovWifi at the relevant sites. This also has the benefit of being available across HMG Departments and Agencies. GovWifi has a level of pre-registration, monitoring and filtering in place to protect the users. However, GovWifi does not provide enterprise level security functions. GovWifi users are required to maintain their own security controls. For MoJ users of GovWifi connections, this means using the MoJ provided VPN services such as AnyConnect or Global Protect when accessing protected MoJ services.
+This also has the benefit of being available across HMG Departments and Agencies. GovWifi has a level of pre-registration, monitoring and filtering in place to protect the users. However, GovWifi does not provide enterprise level security functions. GovWifi users are required to maintain their own security controls. For MoJ users of GovWifi connections, this means using the MoJ-provided VPN services when accessing protected MoJ services.
+
+`POLWIFI003:` Any considerations for not using GovWifi in an MoJ guest WiFi network **SHALL** be discussed and agreed beforehand with the cyber security team.
 
 `POLWIFI026:` Where GovWifi cannot be used, or where an existing guest wifi service exists,the following **SHALL** be in place:
 
@@ -147,7 +146,7 @@ The preferred method for providing guest wifi services is to implement GovWifi a
 
 `POLWIFI034:` Tethering passwords for MoJ devices **SHALL NOT** be shared with non-MoJ users.
 
-`POLWIFI035:` Public wifi networks or guest wifi provided at third-party sites **SHALL** only be used by devices which have 'always-on' encryption for MoJ `OFFICIAL` information. This is limited to Dom1 and PTTP/MoJO laptops and mobile devices.
+`POLWIFI035:` Public wifi networks or guest wifi provided at third-party sites **SHALL** only be used by devices which have suitable encryption for MoJ `OFFICIAL` information - either an 'always-on full-take' VPN or appropriate application-level encryption for all services. This is currently limited to Dom1 and PTTP/MoJO laptops and mobile devices.
 
 `POLWIFI036:` Staff travelling overseas **SHALL** follow the guidance on [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md) and [taking equipment overseas](general-advice-on-taking-equipment-overseas.md) regarding the use of wifi or other networks.
 
