@@ -36,7 +36,7 @@ The following are the minimum requirements for usage of Azure.
 
 ### Identity and access management \(IAM\)
 
-Utilise [Identity and access management \(IAM\)](https://azure.microsoft.com/en-gb/product-categories/identity/) to defend against malicious login attempts and safeguard credentials with risk-based access controls, identity protection tools and strong authentication options – without disrupting productivity and use IAM for Joiners, Movers and Leavers \(JML\) within Azure. Ensure Services / Subscriptions that legitimately exist are well protected.
+Utilise [Identity and access management \(IAM\)](https://azure.microsoft.com/en-gb/product-categories/identity/) to defend against malicious login attempts and safeguard credentials with risk-based access controls, identity protection tools and strong authentication options – without disrupting productivity and use IAM for Joiners, Movers and Leavers \(JML\) within Azure. Ensure Services or Subscriptions that legitimately exist are well protected.
 
 |What **SHALL** be in place|Monitoring|Resolution or escalation if baseline is broken or violated|
 |--------------------------|----------|----------------------------------------------------------|
