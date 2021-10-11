@@ -80,7 +80,7 @@ To minimise the number of SyOPs in circulation and standardise procedures, the S
 
 ### Removable Media
 
-Removable storage media include devices such as USB memory sticks, writeable CDs/DVDs, floppy discs and external hard drives. These devices can potential contain large amounts of protectively marked data and pose a significant risk to the Confidentiality of data held on them. As such, the MoJ controls the use of removable media through SyOPs, technical security controls, and requiring movements of bulk data to be authorised by MoJ ICT IA, this includes completing an Information Asset Movement Form.
+Removable storage media include devices such as USB memory sticks, writeable CDs/DVDs, floppy discs and external hard drives. These devices can potential contain large amounts of protectively marked data and pose a significant risk to the Confidentiality of data held on them. As such, the MoJ controls the use of removable media through SyOPs, technical security controls, and requiring movements of bulk data to be authorised by MoJ ICT IA, this includes completing a [Data Movement Form](data-handling-and-information-sharing-guide.md).
 
 -   **POL.ITAUP.009**
 

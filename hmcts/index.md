@@ -1,5 +1,5 @@
 # HMCTS documentation
 
-## Sample heading
+## Vetting and clearance
 
-- [Sample file](sample.md)
+- [Vetting and clearance policy](vetting-and-clearance-policy.md)

@@ -1,0 +1,17 @@
+---
+name: Request Approval to Publish
+about: Request review and formal approval to publish new or modified content.
+title: "[Raise RAP]"
+labels: ''
+assignees: ''
+---
+
+Hello *XYZ*
+
+Please may I request approval to publish *subject*.
+
+A preview of the new content can be seen [here]().
+
+A full set of the changes introduced in this publication can be seen [here]().
+
+Many thanks.

@@ -253,19 +253,19 @@ if an audience attribute is present, then only matching content is included.
 		-->
 	</topichead>
 
-	<topichead audience="audience-basic audience-tech">
-		<topicmeta audience="audience-basic audience-tech"><navtitle>Communications security</navtitle></topicmeta>
+	<topichead audience="audience-basic audience-suppliers audience-tech">
+		<topicmeta><navtitle>Communications security</navtitle></topicmeta>
 		<topichead audience="audience-tech">
-			<topicmeta audience="audience-tech"><navtitle>Network security management</navtitle></topicmeta>
-			<topicref href="code-of-connection-standard.dita" type="topic" audience="audience-tech"/>
-			<topicref href="defensive-domain-registration.dita" type="topic" audience="audience-tech"/>
-			<topicref href="internet-v-psn.dita" type="topic" audience="audience-tech"/>
-			<topicref href="ip-dns-diagram-handling.dita" type="topic" audience="audience-tech"/>
-			<topicref href="multiple-consecutive-back-to-back-firewalls.dita" type="topic" audience="audience-tech"/>
-			<topicref href="networks-bearers-not-trust.dita" type="topic" audience="audience-tech"/>
+			<topicmeta><navtitle>Network security management</navtitle></topicmeta>
+			<topicref href="code-of-connection-standard.dita" type="topic"/>
+			<topicref href="defensive-domain-registration.dita" type="topic"/>
+			<topicref href="internet-v-psn.dita" type="topic"/>
+			<topicref href="ip-dns-diagram-handling.dita" type="topic"/>
+			<topicref href="multiple-consecutive-back-to-back-firewalls.dita" type="topic"/>
+			<topicref href="networks-bearers-not-trust.dita" type="topic"/>
 		</topichead>
-		<topichead audience="audience-basic audience-suppliers audience-tech">
-			<topicmeta audience="audience-basic audience-tech"><navtitle>Information transfer</navtitle></topicmeta>
+		<topichead>
+			<topicmeta><navtitle>Information transfer</navtitle></topicmeta>
 			<topicref href="bluetooth.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="cjsm.dita" type="topic" audience="audience-tech"/>
 			<topicref href="data-sovereignty.dita" type="topic" audience="audience-tech"/>
@@ -280,6 +280,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="web-browsing.dita" type="topic" audience="audience-basic audience-tech">
 				<topicref href="web-browsing-security-policy-profiles.dita" type="topic" audience="audience-basic audience-tech"/>
 			</topicref>
+			<topicref href="wifi-security-policy.dita" type="topic"/>
 		</topichead>
 	</topichead>
 
@@ -399,6 +400,7 @@ if an audience attribute is present, then only matching content is included.
 		<topicmeta><navtitle>HMCTS</navtitle></topicmeta>
         <topicref href="hmcts/index.md" type="topic" format="markdown"/>
         <topicref href="hmcts/sample.md" type="topic" format="markdown"/>
+        <topicref href="hmcts/vetting-and-clearance-policy.md" type="topic" format="markdown"/>
 	</topichead>
 
 	<reltable>
