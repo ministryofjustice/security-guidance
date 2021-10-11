@@ -40,7 +40,7 @@ This policy aligns to industry standards and frameworks and is divided into two 
 
 Effective domain name registration encompasses the following five principles, which include:
 
--   `POLDOM001:` The MoJ **SHALL** secure domain name management aligning this to its [Cyber security guidance](https://security-guidance.service.justice.gov.uk/), specifically [multi-factor authentication](access-control-policy.md#) \(MFA\), [least privilege](access-control-policy.md#) and [review of user access rights](access-control-policy.md#).
+-   `POLDOM001:` The MoJ **SHALL** secure domain name management aligning this to its [Cyber security guidance](https://security-guidance.service.justice.gov.uk/), specifically [multi-factor authentication](https://security-guidance.service.justice.gov.uk/access-control-policy/#access-control-policy) \(MFA\), [least privilege](https://security-guidance.service.justice.gov.uk/access-control-policy/#access-control-policy) and [review of user access rights](https://security-guidance.service.justice.gov.uk/access-control-policy/#access-control-policy).
 
 -   `POLDOM002:` The MoJ **SHALL** manage domain name portfolio growth, that is, their inherent value, before assessing their expiration.
 
@@ -61,7 +61,7 @@ This policy's statement elements are outlined below:
 
 ### Standards, guidance and technology
 
--   `POLDOM006:` To improve clarity and security hardening, all MoJ domain name registrations and usage **SHALL** adhere to the MoJ's [domain naming standards](https://ministryofjustice.github.io/technical-guidance/documentation/standards/naming-domains.html#naming-domains.Guidance) and [system hardening standards](system-lockdown-and-hardening-standard.md#).
+-   `POLDOM006:` To improve clarity and security hardening, all MoJ domain name registrations and usage **SHALL** adhere to the MoJ's [domain naming standards](https://ministryofjustice.github.io/technical-guidance/documentation/standards/naming-domains.html#naming-domains.Guidance) and [system hardening standards](https://security-guidance.service.justice.gov.uk/system-lockdown-and-hardening-standard/#system-lockdown-and-hardening-standard).
 
 -   `POLDOM007:` This policy's related security guidance **SHALL** clearly describe why defensive domain registration is essential and why not doing it creates cyber risk.
 
