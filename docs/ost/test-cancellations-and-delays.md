@@ -1,5 +1,7 @@
 # Tests cancellations and delays
 
+**Parent topic:** [What is an IT Health Check, and why is it important?](../ost/ithc.md)
+
 ## Internal test team
 
 |Days before test start|Event|Charge|Cross charge|

@@ -4,6 +4,9 @@ An IT Health Check \(ITHC\), also known as a Penetration \(Pen\) Test, is an imp
 
 An ITHC is a series of controlled ethical hacking tests and actions designed to deliberately identify and expose security vulnerabilities that might be present in IT solutions. The objective of scrutinising an IT solution in this manner allows the project and business teams to understand the risk exposure should it become compromised and formulate a remediation plan to mitigate and protect the systems and data that might reside in it.
 
+-   **[Tests cancellations and delays](../ost/test-cancellations-and-delays.md)**  
+
+
 # When should an ITHC be considered?
 
 There are 3 primary scenarios when an ITHC might be undertaken:
