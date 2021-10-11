@@ -11,8 +11,8 @@
 
 ## External test team
 
-|Days before test start|Event|Charge|Cross charge|
-|----------------------|-----|------|------------|
-|30||50% of total testing cost scheduled|£900/resource/day|
-|14||100% of total testing cost scheduled|£900/resource/day|
+|Days before test start|Charge|Cross charge|
+|----------------------|------|------------|
+|30|50% of total testing cost scheduled|£900/resource/day|
+|14|100% of total testing cost scheduled|£900/resource/day|
 

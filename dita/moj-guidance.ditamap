@@ -202,6 +202,8 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 		<topichead audience="audience-basic audience-tech">
 			<topicmeta audience="audience-basic audience-tech"><navtitle>Protection from malware</navtitle></topicmeta>
+			<topicref href="ost/ithc.md" type="topic" format="markdown"/>
+			<topicref href="ost/test-cancellations-and-delays.md" type="topic" format="markdown"/>
 			<topicref href="malware-protection-guide-introduction.dita" type="topic" audience="audience-tech">
 				<topicref href="malware-protection-guidance-defensive-layer-1.dita" type="topic" audience="audience-tech"/>
 				<topicref href="malware-protection-guidance-defensive-layer-2.dita" type="topic" audience="audience-tech"/>
@@ -396,7 +398,6 @@ if an audience attribute is present, then only matching content is included.
 
 	<topichead audience="audience-basic audience-tech" platform="html">
 		<topicmeta><navtitle>Operational Security Team</navtitle></topicmeta>
-        <topicref href="ost/index.md" type="topic" format="markdown"/>
         <topicref href="ost/ithc.md" type="topic" format="markdown"/>
         <topicref href="ost/test-cancellations-and-delays.md" type="topic" format="markdown"/>
 	</topichead>
