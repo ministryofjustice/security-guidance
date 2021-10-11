@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="baseline-for-azure-accounts">
-  <title>Baseline for Azure accounts</title>
+  <title>Baseline for Azure Subscriptions</title>
   <body>
     <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> has a 'lowest common denominator' approach to
 apply to the largest possible number of people for security-related
-promises, capabilities and configurations of <ph conref="conrefs.dita#conrefs/moj"/> Azure accounts.</p>
+promises, capabilities and configurations of <ph conref="conrefs.dita#conrefs/moj"/> Azure Subscriptions.</p>
     <p>The baseline is not a holistic list of dos and don'ts, but a minimum
 line in the sand for what 'at least' <ph conref="conrefs.dita#conrefs/policymust"/> be done.</p>
-<p>This guidance is Version 1.2, September 13th 2021.</p>
+<p>This guidance is Version 1.3, September 16th 2021.</p>
   </body>
   <topic id="the-base-principle">
     <title>The base principle</title>
     <body>
-      <p>All <ph conref="conrefs.dita#conrefs/moj"/> Azure accounts
+      <p>All <ph conref="conrefs.dita#conrefs/moj"/> Azure Subscriptions
         <ph conref="conrefs.dita#conrefs/policymust"/> utilise a series of agreed
-configurations to enable and support good tenancy within Azure,
+configurations to enable and support good tenancy within Azure accounts,
 and a
 suitable cyber security posture.</p>
     </body>
@@ -64,12 +64,7 @@ Incidents need to be managed internally, for example using an Intranet page.</p>
     <topic id="identity-and-access-management-iam">
       <title>Identity and access management (IAM)</title>
       <body>
-        <p>Utilise <xref href="https://azure.microsoft.com/en-gb/product-categories/identity/" format="html" scope="external">Identity and access management (IAM)</xref>
-to defend against malicious login attempts and safeguard credentials
-with risk-based access controls, identity protection tools and strong
-authentication options – without disrupting productivity and use IAM for
-Joiners, Movers and Leavers (JML) within Azure. Ensure
-accounts that legitimately exist are well protected.</p>
+        <p>Utilise <xref href="https://azure.microsoft.com/en-gb/product-categories/identity/" format="html" scope="external">Identity and access management (IAM)</xref> to defend against malicious login attempts and safeguard credentials with risk-based access controls, identity protection tools and strong authentication options – without disrupting productivity and use IAM for Joiners, Movers and Leavers (JML) within Azure. Ensure Services or Subscriptions that legitimately exist are well protected.</p>
         <table>
           <tgroup cols="3">
             <colspec colname="col1" colnum="1"/>
