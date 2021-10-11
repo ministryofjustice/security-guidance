@@ -1,14 +1,14 @@
-# Baseline for Azure accounts
+# Baseline for Azure Subscriptions
 
-The Ministry of Justice \(MoJ\) has a 'lowest common denominator' approach to apply to the largest possible number of people for security-related promises, capabilities and configurations of MoJ Azure accounts.
+The Ministry of Justice \(MoJ\) has a 'lowest common denominator' approach to apply to the largest possible number of people for security-related promises, capabilities and configurations of MoJ Azure Subscriptions.
 
 The baseline is not a holistic list of dos and don'ts, but a minimum line in the sand for what 'at least' **SHALL** be done.
 
-This guidance is Version 1.2, September 13th 2021.
+This guidance is Version 1.3, September 16th 2021.
 
 ## The base principle
 
-All MoJ Azure accounts **SHALL** utilise a series of agreed configurations to enable and support good tenancy within Azure, and a suitable cyber security posture.
+All MoJ Azure Subscriptions **SHALL** utilise a series of agreed configurations to enable and support good tenancy within Azure accounts, and a suitable cyber security posture.
 
 ### Anti-solutionising
 
@@ -36,7 +36,7 @@ The following are the minimum requirements for usage of Azure.
 
 ### Identity and access management \(IAM\)
 
-Utilise [Identity and access management \(IAM\)](https://azure.microsoft.com/en-gb/product-categories/identity/) to defend against malicious login attempts and safeguard credentials with risk-based access controls, identity protection tools and strong authentication options – without disrupting productivity and use IAM for Joiners, Movers and Leavers \(JML\) within Azure. Ensure accounts that legitimately exist are well protected.
+Utilise [Identity and access management \(IAM\)](https://azure.microsoft.com/en-gb/product-categories/identity/) to defend against malicious login attempts and safeguard credentials with risk-based access controls, identity protection tools and strong authentication options – without disrupting productivity and use IAM for Joiners, Movers and Leavers \(JML\) within Azure. Ensure Services / Subscriptions that legitimately exist are well protected.
 
 |What **SHALL** be in place|Monitoring|Resolution or escalation if baseline is broken or violated|
 |--------------------------|----------|----------------------------------------------------------|
