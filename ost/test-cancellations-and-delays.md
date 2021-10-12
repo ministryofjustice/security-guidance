@@ -1,21 +1,27 @@
-# IT Health Check - Tests cancellations and delays
+# IT Health Check - Test cancellations and delays
 
-Once ITHC execution dates are agreed it is assumed that all parties
-have a baselined scope, delivery timeline and resource plans finalised
-(or very close too)
-whilst in addition,
-any ITHC risks / issues / dependencies are known and action plans in place.
-It is understood however that on occasion, even the best laid plans are challenged when unknown
+Once IT Health Check (ITHC) execution dates are agreed,
+it is expected that all parties have:
+
+-   A baselined scope.
+-   A delivery timeline.
+-   Finalised (or nearly finalised) resource plans.
+
+In addition,
+any ITHC risks, issues, and dependencies are known and action plans in place.
+
+It is understood, however, that on occasion, even the best laid plans are challenged when unknown
 and last-minute issues arise.
-In these scenario's it is important and recommended that all parties collaborate
-to discuss the potential impact to ITHC and work together to
-resolve/reduce that impact.
 
-However, project teams should be aware that, if the issue originates from within the project
-and, after collaboration the ITHC dates are impacted, delay / cancellation charges that will apply
-and cross-charged back to the project team.
+In these scenarios, it is important and recommended that all parties collaborate
+to discuss the potential impact to the ITHC, and work together to
+resolve or reduce the impact.
 
-For guidance and illustrative purposes, please see the tables below:
+Project teams should be aware that, if the issue originates from within the project
+and that ITHC dates are impacted, then delay or cancellation charges apply
+and are cross-charged back to the project team.
+
+For guidance purposes, indicative information is provided in the following tables.
 
 ## External Vendor test team delay / cancellation charge table
 

@@ -114,7 +114,7 @@ and end quote price.
 
 In scenarios where the formally agreed test dates are impacted,
 charges might be incurred for delays and cancellations.
-This is detailed within the Delayed/Cancellation Charges table on the [Tests cancellations and delays](test-cancellations-and-delays.md) page.
+This is detailed within the Delayed/Cancellation Charges table on the [Test cancellations and delays](test-cancellations-and-delays.md) page.
 
 It is strongly recommended that ITHC scope is understood
 and confirmed as much as possible,

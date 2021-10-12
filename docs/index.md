@@ -396,7 +396,7 @@ The documents have been developed and defined within this taxonomy, and are list
 
 |[Infrastructure and system accreditation](infrastructure-system-accreditation.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[IT Health Checks](ost/ithc.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[IT Health Check cancellations and delays](ost/test-cancellations-and-delays.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[IT Health Check - Test cancellations and delays](ost/test-cancellations-and-delays.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 #### Risk Assessment Process
 
