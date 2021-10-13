@@ -6,7 +6,7 @@ Once IT Health Check \(ITHC\) execution dates are agreed, it is expected that al
 
 -   A delivery timeline.
 
--   Finalised \(or nearly finalised\) resource plans.
+-   Finalised resource plans.
 
 
 In addition, any ITHC risks, issues, and dependencies are known and action plans in place.
