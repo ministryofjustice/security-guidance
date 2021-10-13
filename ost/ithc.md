@@ -69,7 +69,7 @@ and uses human interaction and human ingenuity to discover flaws that automated 
 
 # Primary Points of Contact
 
-The Cyber Assistance Team (CAT) Consultants are the primary points of contacts 
+The Cyber Assistance Team (CAT) Consultants are the primary points of contact 
 for projects and Product/Service owners.
 The Consultants will work with the team to help ascertain the ITHC requirement and scope,
 as well as any forward schedule for ongoing ITHC requirements.
@@ -123,3 +123,10 @@ and prior to submission.
 The following workflow aims to provide an overview as to the primary roles and action owners involved in the ITHC process:
 
 ![IT Health Check Process workflow](images/workflow.jpg)
+
+# How to reach us
+
+Should you have any further queries about the ITHC process
+then please don't hesitate to contact the Cyber Security team:
+
+[CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
