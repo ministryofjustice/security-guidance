@@ -53,7 +53,7 @@ declare -a avoidList=(
 )
 
 function changedFiles {
-  find ../docs ../ktt -iname "*.md"
+  find ../docs ../intranet/ost ../ktt -iname "*.md"
 }
 
 function check {

@@ -79,4 +79,9 @@
 * Physical security
     * [Personal mail and parcel delivery policy and procedure](personal-mail-and-parcel-delivery-policy-and-procedure.md)
     * [Physical Security Policy](physical-security-policy.md)
+* Operational Security Team
+    * [Operational Security Team documentation](ost/index.md)
+    * [What is an IT Health Check, and why is it important?](ost/ithc.md)
+    * [What is a penetration test?](ost/pentest.md)
+    * [Tests cancellations and delays](ost/test-cancellations-and-delays.md)
 

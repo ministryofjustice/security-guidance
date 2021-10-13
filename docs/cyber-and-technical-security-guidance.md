@@ -241,6 +241,10 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Policies for MacBook Users](policies-for-macbook-users.md)|All users|
 |[System Lockdown and Hardening Standard](system-lockdown-and-hardening-standard.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
+### Operational security team
+
+|[Documentation landing page](ost)|All users|
+
 ### Operations security
 
 #### Operational procedures and responsibilities
@@ -391,6 +395,8 @@ The documents have been developed and defined within this taxonomy, and are list
 #### Risk Management
 
 |[Infrastructure and system accreditation](infrastructure-system-accreditation.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[IT Health Checks](ost/ithc.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[IT Health Check - Test cancellations and delays](ost/test-cancellations-and-delays.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 #### Risk Assessment Process
 
