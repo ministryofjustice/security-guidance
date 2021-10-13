@@ -52,7 +52,7 @@ A vulnerability scan is automated and is entirely software whereas an ITHC is co
 
 # Primary Points of Contact
 
-The Cyber Assistance Team \(CAT\) Consultants are the primary points of contacts for projects and Product/Service owners. The Consultants will work with the team to help ascertain the ITHC requirement and scope, as well as any forward schedule for ongoing ITHC requirements. You can contact the CAT Team directly to request Consultation support if one is not already working with your project already:
+The Cyber Assistance Team \(CAT\) Consultants are the primary points of contact for projects and Product/Service owners. The Consultants will work with the team to help ascertain the ITHC requirement and scope, as well as any forward schedule for ongoing ITHC requirements. You can contact the CAT Team directly to request Consultation support if one is not already working with your project already:
 
 [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
 
@@ -84,3 +84,9 @@ The following workflow aims to provide an overview as to the primary roles and a
 
 ![IT Health Check Process workflow](images/workflow.jpg)
 
+# How to reach us
+
+Should you have any further queries about the ITHC process
+then please don't hesitate to contact the Cyber Security, Privacy and Live Service Delivery Team on:
+
+[CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
