@@ -39,8 +39,8 @@
 * Remote working
     * [Remote Working](remote-working.md)
     * Overseas travel
-        -   [Accessing Ministry of Justice (MoJ) IT systems overseas](accessing-moj-it-systems-from-overseas.md)
-        -   [Taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
+        -   [Accessing Ministry of Justice (MoJ) IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
+        -   [General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
         -   [Overseas travel](overseas-travel.md)
 * Risk assessment
     * [Risk assessment](risk-reviews.md)
@@ -79,9 +79,4 @@
 * Physical security
     * [Personal mail and parcel delivery policy and procedure](personal-mail-and-parcel-delivery-policy-and-procedure.md)
     * [Physical Security Policy](physical-security-policy.md)
-* Operational Security Team
-    * [Operational Security Team documentation](ost/index.md)
-    * [What is an IT Health Check, and why is it important?](ost/ithc.md)
-    * [What is a penetration test?](ost/pentest.md)
-    * [Tests cancellations and delays](ost/test-cancellations-and-delays.md)
 

@@ -38,16 +38,6 @@ The MoJ HQ and Executive Agencies might have additional, specific requirements f
 
 Please contact the Cyber Assistance Team and refer to the [Vetting Policy](/guidance/hr/recruitment/security-vetting/) for further information.
 
-##Checking someone's clearance status
-
-To check someone's clearance status, collect the following information:
-
-* Their first name.
-* Their last name.
-* Their date of birth.
-
-Send this information to the MoJ Group Security Team, by emailing: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk). The team will check with the Cluster, to determine the individual's clearance status, if any. If you are authorised to receive the answer, the team will reply to you with the answer.
-
 ##Contact details
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).

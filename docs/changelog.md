@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-10-13 15:50 BST [IT Health Checks](https://security-guidance.service.justice.gov.uk/ost/ithc/)**
+
+    Added guidance on requesting and managing IT Health Checks.
+
 -   **2021-10-13 09:26 BST [User clearance requirements](https://security-guidance.service.justice.gov.uk/minimum-user-clearance-requirements-guide/)**
 
     Clarification to minimum user clearance requirements.
