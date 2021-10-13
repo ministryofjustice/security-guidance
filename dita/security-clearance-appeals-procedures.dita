@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "dita.dtd">
-<dita>
-  <topic id="security-clearance-appeals-procedure">
-    <title>Security clearance appeals procedure</title>
-    <body>
-      <p>These procedures provide an overview of the requirements for appealing a decision by the Cluster 2 Security Unit Head of Personnel Security, or their representatives in the Decision Making or Personnel Risk Management Teams, to refuse or withdraw national security clearance for Civil Service and Government employees and contractors working on Cluster 2 business.</p>
-      <p>There is an internal appeal to the <ph conref="conrefs.dita#conrefs/mojlong"/> Permanent Secretary, and if the decision to refuse or withdraw clearance is upheld, a subsequent external appeal to the Security Vetting Appeals Panel (SVAP).</p>
-      <p>More detailed guidance on the processes and timescales for internal and external appeals can be found at <xref href="#annex-a-cluster-2-security-unit-security-clearance-appeals-procedures" format="dita">Annex A: Cluster 2 Security Unit Security Clearance Appeals Procedures</xref>.</p>
-      <p>In this document the term <ph conref="conrefs.dita#conrefs/policymust"/> is used to indicate an absolute requirement.</p>
-      <p>If you have any queries on the content of this document contact <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>.</p>
-    </body>
-  </topic>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="security-clearance-appeals-procedures">
+  <title>Security clearance appeals procedures</title>
+  <body>
+    <p>These procedures provide an overview of the requirements for appealing a decision by the Cluster 2 Security Unit Head of Personnel Security, or their representatives in the Decision Making or Personnel Risk Management Teams, to refuse or withdraw national security clearance for Civil Service and Government employees and contractors working on Cluster 2 business.</p>
+    <p>There is an internal appeal to the <ph conref="conrefs.dita#conrefs/mojlong"/> Permanent Secretary, and if the decision to refuse or withdraw clearance is upheld, a subsequent external appeal to the Security Vetting Appeals Panel (SVAP).</p>
+    <p>More detailed guidance on the processes and timescales for internal and external appeals can be found at <xref href="#annex-a-cluster-2-security-unit-security-clearance-appeals-procedures" format="dita">Annex A: Cluster 2 Security Unit Security Clearance Appeals Procedures</xref>.</p>
+    <p>In this document the term <ph conref="conrefs.dita#conrefs/policymust"/> is used to indicate an absolute requirement.</p>
+    <p>If you have any queries on the content of this document contact <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>.</p>
+  </body>
   <topic id="scope-and-aim">
     <title>Scope and aim</title>
     <body>
@@ -27,8 +25,7 @@
           <p>Existing contractors' employees already engaged on government work in other departments and organisations who have applied for a security clearance with the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
         </li>
       </ul>
-      <lq>
-        <p>It does not apply to individuals on initial recruitment to the Civil Service seeking a first security clearance for permanent employment or contractual work with the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+      <lq>It does not apply to individuals on initial recruitment to the Civil Service seeking a first security clearance for permanent employment or contractual work with the <ph conref="conrefs.dita#conrefs/moj"/>.
         <p>These procedures apply to existing employees of a contractor who are newly deployed to contracted work for the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
       </lq>
     </body>
@@ -37,11 +34,7 @@
     <title>The Government functional standard for security</title>
     <body>
       <p><ph conref="conrefs.dita#conrefs/gov007"/> sets the expectations for protecting the government's people, information and assets. In respect of personnel security, it states that government organisations <ph conref="conrefs.dita#conrefs/policyshall"/> deliver the appropriate combination of recruitment checks, vetting and on-going personnel security aftercare to reduce the risk from insider threat. Furthermore, GovS 007 states that government organisations <ph conref="conrefs.dita#conrefs/policyshall"/> have:</p>
-      <ul>
-        <li>
-          <p>A process in place which defines the approach to handling the refusal or withdrawal of clearances for both candidates at the recruitment stage and those already in employment.</p>
-        </li>
-      </ul>
+      <lq>A process in place which defines the approach to handling the refusal or withdrawal of clearances for both candidates at the recruitment stage and those already in employment.</lq>
     </body>
   </topic>
   <topic id="data-sharing">
@@ -293,4 +286,6 @@
       </body>
     </topic>
   </topic>
-</dita>
+  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

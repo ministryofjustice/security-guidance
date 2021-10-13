@@ -1,4 +1,4 @@
-# Security clearance appeals procedure
+# Security clearance appeals procedures
 
 These procedures provide an overview of the requirements for appealing a decision by the Cluster 2 Security Unit Head of Personnel Security, or their representatives in the Decision Making or Personnel Risk Management Teams, to refuse or withdraw national security clearance for Civil Service and Government employees and contractors working on Cluster 2 business.
 
@@ -10,7 +10,7 @@ In this document the term **SHALL** is used to indicate an absolute requirement.
 
 If you have any queries on the content of this document contact [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk).
 
-# Scope and aim
+## Scope and aim
 
 These procedures apply to permanent members of staff and contractors' employees employed on the work of MoJ, and those organisations for which the Cluster 2 Security Unit holds the responsibility for vetting, including non-departmental public bodies \(NDPBs\).
 
@@ -27,14 +27,13 @@ It also applies to:
 
 > These procedures apply to existing employees of a contractor who are newly deployed to contracted work for the MoJ.
 
-# The Government functional standard for security
+## The Government functional standard for security
 
 [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) sets the expectations for protecting the government's people, information and assets. In respect of personnel security, it states that government organisations **SHALL** deliver the appropriate combination of recruitment checks, vetting and on-going personnel security aftercare to reduce the risk from insider threat. Furthermore, GovS 007 states that government organisations **SHALL** have:
 
--   A process in place which defines the approach to handling the refusal or withdrawal of clearances for both candidates at the recruitment stage and those already in employment.
+> A process in place which defines the approach to handling the refusal or withdrawal of clearances for both candidates at the recruitment stage and those already in employment.
 
-
-# Data sharing
+## Data sharing
 
 As part of the processing of the appeal, there may be circumstances which require the Appeal Team to discuss aspects of the case with third parties. The team always balances the need to limit the disclosure of sensitive information with the need to progress the case with individuals or departments that are crucial to obtaining a fair and balanced appeal process.
 
@@ -54,15 +53,15 @@ The final decision to uphold the appeal or the decision to refuse or withdraw is
 
 Where necessary, data **CAN** also be shared with the appellant's line manager, or the originator of material gathered in the course of national security vetting which has a bearing on the decision to refuse or withdraw clearance. In so doing, consent is always sought from the individual to share data, subject to considerations of national security.
 
-# Contacts
+## Contacts
 
 For general advice or guidance regarding the National Security Vetting process, contact [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk).
 
 To declare relevant changes in your personal circumstances, contact the Cluster 2 Personnel Risk Management Team by emailing [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk).
 
-# Annex A: Cluster 2 Security Unit Security Clearance Appeals Procedures
+## Annex A: Cluster 2 Security Unit Security Clearance Appeals Procedures
 
-## Internal appeals
+### Internal appeals
 
 Enclosed with the vetting decision letter to refuse or withdraw CTC \(Counter Terrorist Check\), SC \(Security Check\) or DV \(Developed Vetting\) security clearance **SHOULD** be the appeal documents comprising:
 
@@ -115,7 +114,7 @@ On receipt of the report, the Permanent Secretary is responsible for making the 
 
 The Permanent Secretary informs the appellant of the outcome of their appeal in writing, giving the full reasons for their decision, related to the relevant facts, unless considerations of national security and confidentiality prohibit this. Where an appeal is rejected, the appellant is informed of their further right of external appeal to the Security Vetting Appeals Panel \(SVAP\). This concludes the internal appeal process.
 
-## External appeals
+### External appeals
 
 If an individual wishes to appeal against the outcome of the internal appeal, they **CAN** write to the Security Vetting Appeals Panel \(SVAP\), an independent advisory body which provides a final means of challenging a decision to refuse or withdraw a national security vetting clearance once an internal appeal has been dismissed. In such circumstances, the appellant is advised that if they wish to exercise a further right of appeal to SVAP, they **SHALL** notify the SVAP secretariat within 28 days of the decision of the internal appeal and provide contact details.
 
@@ -132,7 +131,7 @@ The SVAP makes recommendations to the Head of Organisation in the light of its f
 
 The SVAP **CAN** also comment on the vetting procedures and the adequacy of the internal appeals process and make recommendations. The Permanent Secretary takes the final decision on whether to accept any recommendations to grant or restore a security clearance. Depending on the SVAP's findings, which are not binding, the Permanent Secretary **MIGHT** choose to consult with Cluster 2 Security Unit regarding next steps.
 
-# Annex B: Internal appeal form following refusal or withdrawal of security clearance
+## Annex B: Internal appeal form following refusal or withdrawal of security clearance
 
 -   **Who should complete this form?**
 
@@ -149,7 +148,7 @@ The SVAP **CAN** also comment on the vetting procedures and the adequacy of the 
     Send completed forms to the Permanent Secretary, at the address provided to you in the letter which formally notified that your security clearance was refused or withdrawn. Appeals submitted by a third party on your behalf are not accepted.
 
 
-## PART A: Your details
+### PART A: Your details
 
 -   **Surname:**
 
@@ -216,11 +215,11 @@ If yes, please provide details of the individual who will accompany you:
 
      
 
-## PART B: Details of your appeal
+### PART B: Details of your appeal
 
 For your appeal, you **SHOULD** provide a full rationale, with supporting facts if necessary, and include any information or documentation that **MIGHT** assist your appeal. Typically, an appeal submission **MIGHT** include information that was not previously available when the original clearance decision was made, where this information is materially relevant to your case. Use a continuation sheet if necessary.
 
-## PART C: Declaration
+### PART C: Declaration
 
 I declare the information given above is true and complete to the best of my knowledge and belief.
 
@@ -228,9 +227,9 @@ Signature of appellant:
 
      
 
-# Annex C: Framework of staff legal obligations in relation to HMG and Home Office material
+## Annex C: Framework of staff legal obligations in relation to HMG and Home Office material
 
-## Official Secrets Act
+### Official Secrets Act
 
 The Home Office **SHALL** adhere to the Official Secrets Act 1989 which came into force in 1990. It replaced section 2 of the Official Secrets Act 1911, under which it was a criminal offence to disclose any official information without lawful authority. Under the 1989 act, it is an offence to disclose official information. The act applies to:
 
@@ -245,15 +244,23 @@ The Home Office **SHALL** adhere to the Official Secrets Act 1989 which came int
 -   Government contractors, including anyone who is not a Crown servant but who provides or is employed in the provision of goods or services for the purposes of a minister.
 
 
-## Data Protection Act 2018 and UK General Data Protection Regulations
+### Data Protection Act 2018 and UK General Data Protection Regulations
 
 The handling of personal data must comply with UK Data Protection legislation. Departments and agencies should also have regard to UK Data Protection legislation, including any relevant exemptions, when sharing personal data with other departments and agencies or pursuant to international agreements.
 
-## Freedom of Information Act 2000
+### Freedom of Information Act 2000
 
 Classification markings can assist in assessing whether exemptions to the Freedom of Information Act 2000 \(FOI\) may apply. However, each FOI request **SHALL** be considered on its own merits as the classification is not a justifiable reason for exemption. It is therefore important that staff \(including contractors\) who handle, or are likely to handle sensitive assets, understand fully the impact of such legislation and how it relates to their role.
 
-## Public Records Act 1967
+### Public Records Act 1967
 
 Records selected for preservation may be retained under Section 3\(4\) of the 1958 Act or closed under an exemption provided by the Freedom of Information Act 2000. Decisions over retention or closure are driven by perception of residual sensitivities at the time that release is being contemplated.
+
+## Contact details
+
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 
