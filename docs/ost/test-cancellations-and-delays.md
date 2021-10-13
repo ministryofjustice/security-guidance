@@ -19,8 +19,6 @@ Project teams should be aware that, if the issue originates from within the proj
 
 For guidance purposes, indicative information is provided in the following tables.
 
-**Parent topic:** [What is an IT Health Check, and why is it important?](../ost/ithc.md)
-
 ## External Vendor test team delay / cancellation charge table
 
 |Days before test start|Charge|Cross charge|
