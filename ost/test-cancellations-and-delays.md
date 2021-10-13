@@ -5,7 +5,7 @@ it is expected that all parties have:
 
 -   A baselined scope.
 -   A delivery timeline.
--   Finalised (or nearly finalised) resource plans.
+-   Finalised resource plans.
 
 In addition,
 any ITHC risks, issues, and dependencies are known and action plans in place.
