@@ -866,6 +866,18 @@ has made for the products we operate, and our relationships with suppliers.</p>
         </topic>
       </topic>
 
+		<topic id="operational-security-team" platform="html">
+			<title>Operational security team</title>
+			<body>
+				<table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
+					<row>
+						<entry colname="col1" align="left"><xref href="ost" format="html" scope="external">Documentation landing page</xref></entry>
+						<entry colname="col2" align="right">All users</entry>
+					</row>
+				</tbody></tgroup></table>
+			</body>
+		</topic>
+
       <topic id="operations-security">
         <title>Operations security</title>
         <topic id="operational-procedures-and-responsibilities" audience="audience-tech">
@@ -1220,7 +1232,15 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
+                <entry colname="col1" align="left"><xref href="azure-account-baseline-templates.dita" format="dita">Azure Account Baseline Templates</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
                 <entry colname="col1" align="left"><xref href="baseline-aws-accounts.dita" format="dita">Baseline for Amazon Web Services accounts</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="baseline-for-azure-accounts.dita" format="dita">Baseline for Azure Subscriptions</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
             </tbody></tgroup></table>
@@ -1363,6 +1383,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
                 <entry colname="col1" align="left"><xref href="infrastructure-system-accreditation.dita" format="dita">Infrastructure and system accreditation</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+				      <row>
+                <entry colname="col1" align="left"><xref href="ost/ithc.md" format="markdown">IT Health Checks</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+				      <row>
+                <entry colname="col1" align="left"><xref href="ost/test-cancellations-and-delays.md" format="markdown">IT Health Check - Test cancellations and delays</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
             </tbody></tgroup></table>
