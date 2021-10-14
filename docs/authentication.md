@@ -8,7 +8,7 @@ Any access to any data **must** employ adequate authentication techniques to ide
 
 Where appropriate, passwords should be used as a knowledge-based factor for authentication.
 
-The Ministry of Justice \(MoJ\) has published the [MoJ Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/).
+The Ministry of Justice \(MoJ\) has published [password guidance](passwords.md).
 
 ## Named individual accounts
 
