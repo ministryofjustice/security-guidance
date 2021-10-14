@@ -133,6 +133,8 @@ The SVAP **CAN** also comment on the vetting procedures and the adequacy of the 
 
 ## Annex B: Internal appeal form following refusal or withdrawal of security clearance
 
+> The Internal Appeal Form \(DMF\) is available for download [here](./gs/internal-appeal-form.docx).
+
 -   **Who should complete this form?**
 
     This form should be completed by individuals engaged in work for the MoJ who:
@@ -218,6 +220,8 @@ If yes, please provide details of the individual who will accompany you:
 ### PART B: Details of your appeal
 
 For your appeal, you **SHOULD** provide a full rationale, with supporting facts if necessary, and include any information or documentation that **MIGHT** assist your appeal. Typically, an appeal submission **MIGHT** include information that was not previously available when the original clearance decision was made, where this information is materially relevant to your case. Use a continuation sheet if necessary.
+
+     
 
 ### PART C: Declaration
 

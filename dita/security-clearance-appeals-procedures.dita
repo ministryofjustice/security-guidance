@@ -148,6 +148,9 @@
   <topic id="annex-b-internal-appeal-form-following-refusal-of-withdrawal-of-security-clearance">
     <title>Annex B: Internal appeal form following refusal or withdrawal of security clearance</title>
     <body>
+      <lq>The Internal Appeal Form (DMF) is available for download <xref href="file:///./gs/internal-appeal-form.docx"
+        format="docx" scope="external" platform="html">here</xref><xref href="https://security-guidance.service.justice.gov.uk/gs/internal-appeal-form.docx"
+          format="docx" platform="epub pdf" scope="external">here</xref>.</lq>
       <dl>
         <dlentry>
           <dt>Who should complete this form?</dt>
@@ -230,6 +233,7 @@
       <title>PART B: Details of your appeal</title>
       <body>
         <p>For your appeal, you <ph conref="conrefs.dita#conrefs/policyshould"/> provide a full rationale, with supporting facts if necessary, and include any information or documentation that <ph conref="conrefs.dita#conrefs/policymight"/> assist your appeal. Typically, an appeal submission <ph conref="conrefs.dita#conrefs/policymight"/> include information that was not previously available when the original clearance decision was made, where this information is materially relevant to your case. Use a continuation sheet if necessary.</p>
+        <p conref="#part-a-your-details/blank-space"/>
       </body>
     </topic>
     <topic id="part-c-declaration">
