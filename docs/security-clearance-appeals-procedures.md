@@ -133,7 +133,7 @@ The SVAP **CAN** also comment on the vetting procedures and the adequacy of the 
 
 ## Annex B: Internal appeal form following refusal or withdrawal of security clearance
 
-> The Internal Appeal Form \(DMF\) is available for download [here](./gs/internal-appeal-form.docx).
+> The Internal Appeal Form is available for download [here](./gs/internal-appeal-form.docx).
 
 -   **Who should complete this form?**
 
