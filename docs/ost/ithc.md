@@ -83,7 +83,7 @@ The following workflow aims to provide an overview as to the primary roles and a
 
 # How to reach us
 
-Should you have any further queries about the ITHC process then please don't hesitate to contact the Cyber Security team:
+Should you have any further queries about the ITHC process then please don't hesitate to contact the Cyber Security, Privacy, and Live Service Delivery Team:
 
-[CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
+[security@justice.gov.uk](mailto:security@justice.gov.uk)
 
