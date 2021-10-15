@@ -77,7 +77,4 @@
     * [Avoiding too much security](setecastronomy.md)
 * Training and education
     * [Training and Education](training-and-education.md)
-* Physical security
-    * [Personal mail and parcel delivery policy and procedure](personal-mail-and-parcel-delivery-policy-and-procedure.md)
-    * [Physical Security Policy](physical-security-policy.md)
 
