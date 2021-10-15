@@ -59,6 +59,7 @@
         -   [Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)
         -   [Reporting personal circumstance changes](reporting-personal-circumstance-changes.md)
         -   [Security clearance appeals policy](security-clearance-appeals-policy.md)
+        -   [Security clearance appeals procedures](security-clearance-appeals-procedures.md)
         -   [Security vetting assessment of need](security-vetting-assessment-need.md)
         -   [Voluntary drug testing policy](voluntary-drug-testing-policy.md)
         -   [Voluntary drug testing policy procedures](voluntary-drug-testing-policy-procedures.md)
