@@ -13,8 +13,9 @@ In particular:
 -   Don't use MoJ email or other messaging systems for anything other than appropriate business purposes.
 -   Don't make statements that defame, slander or lower the reputation of the MoJ, any person or organisation.
 -   Don't forward email [chain letters](#chain-letters) to your contacts. Instead, report them to [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   Avoid excessive use of email. Be aware of unsuitable attachments, for example video clips, images, or executable files.
--   Avoid sending email to large numbers of recipients. Ask yourself if it really makes sense to "Reply All"?
+-   Be aware of unsuitable attachments, for example video clips, images, or executable files. MoJ email automatically filters many unapproved attachment types, particularly those that can contain executable files. Emails containing those attachments are likely to be quarantined and not delivered.
+-   Avoid excessive use of email, and sending email to large numbers of recipients. Ask yourself if it really makes sense to "Reply All"?
+-   Any recipients in the "To" or "Cc" fields can see the addresses of all other recipients in those fields. If you are sending an email to a list of people outside MoJ, where privacy of individuals might be relevant, place your list of recipients in the "Bcc" field and set the "To" field to your own address. This ensures that none of the recipients can see the identities of the other recipients.
 -   Keep your operating systems up to date to prevent susceptibility to viruses.
 -   Scan email attachments to detect viruses and other malware.
 
