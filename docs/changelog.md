@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-10-15 16:27 BST [Email best practices](https://security-guidance.service.justice.gov.uk/email/)**
+
+    Added guidance regarding attachments and the use of 'cc' and 'bcc' fields in emails.
+
 -   **2021-10-15 13:39 BST [Security clearance appeals procedures](https://security-guidance.service.justice.gov.uk/security-clearance-appeals-procedures/)**
 
     Added guidance for appealing a security clearance decision.
