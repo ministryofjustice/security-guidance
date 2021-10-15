@@ -1,4 +1,4 @@
-#Taking equipment overseas
+#General advice on taking equipment overseas
 
 As a government official travelling overseas, you should consider that you are highly likely to be of interest to a range of hostile parties, regardless of your role or seniority. Laptops, tablets and phones are very desirable pieces of equipment to steal and travelling overseas with it puts you at a greater security risk of being a victim of theft.
 
@@ -66,9 +66,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 * Tel: 0800 917 5148
 * [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
 
-**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
-
-**Note:** Use of the Digital & Technology Digital Service Desk Slack channel (`#digitalservicedesk`) is being withdrawn, and should be avoided.
+**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel (`#digitalservicedesk`), are no longer being monitored.
 
 **HMPPS Information & security:**
 
@@ -88,5 +86,5 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 ##Feedback
 
-If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

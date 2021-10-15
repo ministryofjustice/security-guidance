@@ -14,7 +14,7 @@ This guidance applies to all staff and contractors who work for the Ministry of 
 
 The `SENSITIVE` handling caveat is a *reminder* as opposed to a requirement for a minimum set of additional controls.
 
-It **SHOULD** be possible to show who has access to `OFFICIAL-SENSITIVE` material. It **SHOULD** also be possible to show who has accessed `OFFICIAL-SENSITIVE` material. Storing or sharing `OFFICIAL-SENSITIVE` **SHOULD** take place in a manner or form that supports the more careful handling and access auditing of the information. For this reason, `OFFICIAL-SENSITIVE` material **SHOULD NOT** be stored on the MoJ Intranet.
+It **SHOULD** be possible to show who has access to `OFFICIAL-SENSITIVE` material. It **SHOULD** also be possible to show who has accessed `OFFICIAL-SENSITIVE` material. Storing or sharing `OFFICIAL-SENSITIVE` **SHOULD** take place in a manner or form that supports the more careful handling and access auditing of the information. For this reason, `OFFICIAL-SENSITIVE` material **SHOULD NOT** be stored on the Ministry of Justice (MoJ) Intranet.
 
 You **SHOULD NOT** email `OFFICIAL-SENSITIVE` material from your MoJ email account to your personal email account.
 
@@ -47,13 +47,13 @@ The Cabinet Office maintains the following list of core descriptors to ensure a 
 
 **Note:** Descriptors are not code words or classifications.
 
-##Contacts
+##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 
 ##Feedback
 
-If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

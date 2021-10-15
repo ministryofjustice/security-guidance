@@ -4,17 +4,17 @@
 * Equipment
     * [Equipment](equipment.md)
     * Clear screen and desk
-        -   [Clear Screen and Desk](clear-screen-and-desk.md)
+        -   [Clear screen and desk](clear-screen-and-desk.md)
     * Data and equipment management
         -   [Equipment management](equipment-management.md)
         -   [Bluetooth](bluetooth.md)
         -   [Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md)
         -   [Email](email.md)
         -   [Equipment Reassignment Guide](equipment-reassignment-guide.md)
-        -   [Information classification, handling & security guide](information-classification-handling-and-security-guide.md)
+        -   [Information classification, handling and security guide](information-classification-handling-and-security-guide.md)
         -   [Guidance on IT Accounts and Assets for Long Term Leave](long-term-leave.md)
         -   [OFFICIAL, OFFICIAL-SENSITIVE](official-official-sensitive.md)
-        -   [Personal device use](personal-devices.md)
+        -   [Personal devices](personal-devices.md)
         -   [Protecting social media accounts](protecting-social-media-accounts.md)
         -   [Protect yourself online](protect-yourself-online.md)
         -   [Ransomware](ransomware.md)
@@ -35,8 +35,8 @@
 * Remote working
     * [Remote Working](remote-working.md)
     * Overseas travel
-        -   [Accessing MoJ IT systems overseas](accessing-moj-it-systems-from-overseas.md)
-        -   [Taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
+        -   [Accessing Ministry of Justice (MoJ) IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
+        -   [General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
         -   [Overseas travel](overseas-travel.md)
 * Risk assessment
     * [Risk assessment](risk-reviews.md)
@@ -45,8 +45,9 @@
         -   [End or change of employment](end-or-change-of-employment.md)
         -   [Entry and exit search policy](entry-and-exit-search-policy.md)
         -   [Leavers with NSC and NSVCs](leavers-with-nsc-and-nscvs.md)
-        -   [Minimum user clearance](minimum-user-clearance-requirements-guide.md)
+        -   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
         -   [National Security Vetting for External Candidates FAQ](national-security-vetting-for-external-candidates-faq.md)
+        -   [National security vetting contact](national-security-vetting-contact.md)
         -   [National Security Vetting questions](national-security-vetting-questions.md)
         -   [Ongoing Personnel Security](ongoing-personnel-security.md)
         -   [Personnel risk assessment](personnel-risk-assessment.md)
@@ -54,12 +55,14 @@
         -   [Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)
         -   [Reporting personal circumstance changes](reporting-personal-circumstance-changes.md)
         -   [Security clearance appeals policy](security-clearance-appeals-policy.md)
+        -   [Security clearance appeals procedures](security-clearance-appeals-procedures.md)
+        -   [Security vetting assessment of need](security-vetting-assessment-need.md)
         -   [Voluntary drug testing policy](voluntary-drug-testing-policy.md)
         -   [Voluntary drug testing policy procedures](voluntary-drug-testing-policy-procedures.md)
 * User access
     * [User access](acceptable-use.md)
     * [Data Security and Privacy](data-security-and-privacy.md)
-    * [Apps](general-user-video-and-messaging-apps-guidance.md)
+    * [General app guidance](general-user-video-and-messaging-apps-guidance.md)
     * [Government Classification Scheme](government-classification-scheme.md)
     * [Open internet tools](guidance-for-using-open-internet-tools.md)
     * [IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](identify-protect-detect-respond-recover.md)

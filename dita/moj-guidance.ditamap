@@ -11,6 +11,7 @@ if an audience attribute is present, then only matching content is included.
 	<title><ph conref="conrefs.dita#conrefs/mojlong"/> Cyber Security Guidance<ph platform="epub pdf">: <ph audience="audience-basic">General</ph><ph audience="audience-suppliers">Supplier</ph><ph audience="audience-tech">Technical User</ph> Edition</ph></title>
 	<topicref href="conrefs.dita" type="topic" processing-role="resource-only"/>
 	<topicref href="cyber-and-technical-security-guidance.dita" type="topic" audience="audience-basic audience-tech"/>
+	<topicref href="changelog.dita" type="topic" audience="audience-basic audience-tech"/>
 	<topichead audience="audience-basic audience-suppliers audience-tech">
 		<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Getting in contact</navtitle></topicmeta>
 		<topicref href="reporting-an-incident.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
@@ -63,12 +64,13 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta><navtitle>Prior to employment</navtitle></topicmeta>
 			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
 			<topicref href="national-security-vetting-for-external-candidates-faq.dita" type="topic"/>
+			<topicref href="national-security-vetting-contact.dita" type="topic"/>
 			<topicref href="national-security-vetting-questions.dita" type="topic"/>
 			<topicref href="pre-employment-screening.dita" type="topic"/>
 			<topicref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" type="topic"/>
 			<topicref href="security-clearance-appeals-policy.dita" type="topic"/>
-			<!-- The security vetting assessment need webpage is not required, only the download document. -->
-			<topicref href="security-vetting-assessment-need.dita" type="topic" processing-role="resource-only"/>
+			<topicref href="security-clearance-appeals-procedures.dita" type="topic"/>
+			<topicref href="security-vetting-assessment-need.dita" type="topic"/>
 		</topichead>
 		<topichead>
 			<topicmeta><navtitle>During employment</navtitle></topicmeta>
@@ -253,19 +255,19 @@ if an audience attribute is present, then only matching content is included.
 		-->
 	</topichead>
 
-	<topichead audience="audience-basic audience-tech">
-		<topicmeta audience="audience-basic audience-tech"><navtitle>Communications security</navtitle></topicmeta>
+	<topichead audience="audience-basic audience-suppliers audience-tech">
+		<topicmeta><navtitle>Communications security</navtitle></topicmeta>
 		<topichead audience="audience-tech">
-			<topicmeta audience="audience-tech"><navtitle>Network security management</navtitle></topicmeta>
-			<topicref href="code-of-connection-standard.dita" type="topic" audience="audience-tech"/>
-			<topicref href="defensive-domain-registration.dita" type="topic" audience="audience-tech"/>
-			<topicref href="internet-v-psn.dita" type="topic" audience="audience-tech"/>
-			<topicref href="ip-dns-diagram-handling.dita" type="topic" audience="audience-tech"/>
-			<topicref href="multiple-consecutive-back-to-back-firewalls.dita" type="topic" audience="audience-tech"/>
-			<topicref href="networks-bearers-not-trust.dita" type="topic" audience="audience-tech"/>
+			<topicmeta><navtitle>Network security management</navtitle></topicmeta>
+			<topicref href="code-of-connection-standard.dita" type="topic"/>
+			<topicref href="defensive-domain-registration.dita" type="topic"/>
+			<topicref href="internet-v-psn.dita" type="topic"/>
+			<topicref href="ip-dns-diagram-handling.dita" type="topic"/>
+			<topicref href="multiple-consecutive-back-to-back-firewalls.dita" type="topic"/>
+			<topicref href="networks-bearers-not-trust.dita" type="topic"/>
 		</topichead>
-		<topichead audience="audience-basic audience-suppliers audience-tech">
-			<topicmeta audience="audience-basic audience-tech"><navtitle>Information transfer</navtitle></topicmeta>
+		<topichead>
+			<topicmeta><navtitle>Information transfer</navtitle></topicmeta>
 			<topicref href="bluetooth.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="cjsm.dita" type="topic" audience="audience-tech"/>
 			<topicref href="data-sovereignty.dita" type="topic" audience="audience-tech"/>
@@ -280,6 +282,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="web-browsing.dita" type="topic" audience="audience-basic audience-tech">
 				<topicref href="web-browsing-security-policy-profiles.dita" type="topic" audience="audience-basic audience-tech"/>
 			</topicref>
+			<topicref href="wifi-security-policy.dita" type="topic"/>
 		</topichead>
 	</topichead>
 
@@ -316,7 +319,9 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 		<topichead audience="audience-suppliers audience-tech">
 			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Supplier service delivery management</navtitle></topicmeta>
+			<topicref href="azure-account-baseline-templates.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="baseline-aws-accounts.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="baseline-for-azure-accounts.dita" type="topic" audience="audience-suppliers audience-tech"/>
 		</topichead>
 	</topichead>
 
@@ -381,6 +386,8 @@ if an audience attribute is present, then only matching content is included.
 		<topichead audience="audience-suppliers audience-tech">
 			<topicmeta><navtitle>Risk Management</navtitle></topicmeta>
 			<topicref href="infrastructure-system-accreditation.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="ost/ithc.md" type="topic" format="markdown" audience="audience-tech"/>
+			<topicref href="ost/test-cancellations-and-delays.md" type="topic" format="markdown"/>
 		</topichead>
 		<topichead audience="audience-basic audience-tech">
 			<topicmeta><navtitle>Risk Assessment Process</navtitle></topicmeta>
@@ -391,6 +398,19 @@ if an audience attribute is present, then only matching content is included.
 	<topichead audience="audience-basic audience-suppliers audience-tech">
 		<topicmeta><navtitle>Glossary and Acronyms</navtitle></topicmeta>
 		<topicref href="glossary.dita" type="topic"/>
+	</topichead>
+
+	<topichead audience="audience-basic audience-tech" platform="html">
+		<topicmeta><navtitle>Operational Security Team</navtitle></topicmeta>
+        <topicref href="ost/ithc.md" type="topic" format="markdown"/>
+        <topicref href="ost/test-cancellations-and-delays.md" type="topic" format="markdown"/>
+	</topichead>
+
+	<topichead platform="html">
+		<topicmeta><navtitle>HMCTS</navtitle></topicmeta>
+        <topicref href="hmcts/index.md" type="topic" format="markdown"/>
+        <topicref href="hmcts/sample.md" type="topic" format="markdown"/>
+        <topicref href="hmcts/vetting-and-clearance-policy.md" type="topic" format="markdown"/>
 	</topichead>
 
 	<reltable>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="information-classification-handling-and-security-guide">
-  <title><ph platform="github">Information Classification, Handling and Security Guide</ph><ph platform="intranet">Information classification, handling &amp; security guide</ph></title>
+  <title>Information classification, handling and security guide</title>
   <body>
     <p>All <ph conref="conrefs.dita#conrefs/mojlong"/> employees interact with information,
       and are responsible for its protection.
@@ -562,5 +562,5 @@
     </topic>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

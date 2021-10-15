@@ -12,7 +12,7 @@
     <title>Passwords</title>
     <body>
       <p>Where appropriate, passwords should be used as a knowledge-based factor for authentication.</p>
-      <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> has published the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Password Standard</xref>.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> has published <xref href="passwords.dita" format="dita">password guidance</xref>.</p>
     </body>
   </topic>
   <topic id="named-individual-accounts">
@@ -82,5 +82,5 @@
       </body>
     </topic>
   </topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

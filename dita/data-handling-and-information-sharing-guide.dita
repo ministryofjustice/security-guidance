@@ -469,11 +469,9 @@
   <topic id="data-movement-form-dmf">
     <title>Data Movement Form (DMF)</title>
     <body>
-      <p>The Data Movement Form (DMF) is available <ph platform="intranet">on the
-      <xref href="file:///./gs/data-movement-form.docx"
-        format="docx" scope="external"><ph conref="conrefs.dita#conrefs/moj"/>
-        Intranet</xref></ph><xref href="https://security-guidance.service.justice.gov.uk/gs/data-movement-form.docx"
-          format="docx" platform="github" scope="external">here</xref>.</p>
+      <p>The Data Movement Form (DMF) is available <xref href="file:///./gs/data-movement-form.docx"
+        format="docx" scope="external" platform="html">here</xref><xref href="https://security-guidance.service.justice.gov.uk/gs/data-movement-form.docx"
+          format="docx" platform="epub pdf" scope="external">here</xref>.</p>
       <p>The purpose of the DMF is to ensure that the movement of information
         assets is secure,
         and in compliance with the <ph conref="conrefs.dita#conrefs/gov007"/>.</p>
@@ -581,5 +579,5 @@
     </body>
   </topic>
   <topic id="reporting-data-loss" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

@@ -97,6 +97,7 @@
 		</p>
 		</body>
 	</topic>
+	<!--
 	<topic id="data-privacy-considerations">
 		<title>Data Privacy considerations</title>
 		<body>
@@ -121,7 +122,7 @@
 		</ul></p>
 		<p>If live data is being used for test purposes within the Production environment, then backups are key and the testing to make sure that backups can be quickly restored is a must. There needs to be a good rollback plan in place. There also has to be an appetite for risk acceptance.</p>
 		</body>
-		<!--  <topic id="gdpr">
+		<!__  <topic id="gdpr">
 			<title>GDPR</title>
 			<body>
 			<p>There are 6 lawful grounds for processing personal data:
@@ -135,7 +136,7 @@
 			</ol></p>
 			<p>Data used for test purposes must still comply with all applicable GDPR constraints.</p>
 			</body>
-		</topic>  -->
+		</topic>  __>
 		<topic id="ensuring-test-data-is-gdpr-compliant">
 			<title>Ensuring test data is GDPR compliant</title>
 			<body>
@@ -152,6 +153,7 @@
 			</body>
 		</topic>
 	</topic>
+-->
 	<topic id="if-testing-is-to-go-ahead">
 		<title>If testing is to go ahead</title>
 		<topic id="developer-access">
@@ -179,5 +181,5 @@
 			</body>
 		</topic>
 	</topic>
-	<topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+	<topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

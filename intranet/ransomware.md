@@ -30,15 +30,12 @@ With your help, the IT team attempt to determine which systems have been impacte
 
 For help with incidents, including theft and loss, contact:
 
-* **DOM1/Quantum - Technology Service Desk**
+* **Technology Service Desk - including DOM1, Quantum, and the Digital & Technology Service Desk**
 
     Tel: 0800 917 5148
 
-    **Note:** The previous `itservicedesk@justice.gov.uk` email address is no longer being monitored.
+    **Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
 
-* **Digital and Technology - Digital Service Desk**
-    * Email: [servicedesk@digital.justice.gov.uk](mailto:servicedesk@digital.justice.gov.uk)
-    * Slack: `#digitalservicedesk`
 * **HMPPS Information and security**
     * Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
     * Tel: 0203 334 0324
@@ -58,5 +55,5 @@ For any further questions relating to security, contact: [security@justice.gov.u
 
 ##Feedback
 
-If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

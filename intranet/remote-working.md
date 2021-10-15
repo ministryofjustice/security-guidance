@@ -7,10 +7,12 @@ Remote working means you are working away from the office. This could be from ho
 * Be professional, and help keep Ministry of Justice (MoJ) information and resources safe and secure at all times.
 * Think about where you are working, for example - can other people or family see what you are working on? Be thoughtful about information privacy.
 * Never send work material to personal email accounts.
+* Do not use personal devices or accounts for work purposes - the exception is that a home wifi connection may be used to connect MoJ equipment.
 * Keep MoJ accounts and password information secure.
 * Take care of your equipment. Devices are more likely to be stolen or lost when working away from the office or home.
 * Do not leave MoJ equipment unattended.
 * Get in touch quickly to report problems or security questions.
+* If you are handling sensitive MoJ information, or connecting to MoJ systems from a remote location, you **SHOULD** use the VPN.
 
 ##Overview
 
@@ -31,19 +33,26 @@ Remote working is when you work from any non-MoJ location, for example, working 
 * Keep MoJ equipment and information safe and secure.
 * Protect MoJ information from accidental access by unauthorised people.
 * Lock or log off your device when leaving it unattended. For long periods of non-use, shut down your device.
-* Keep your workspace clear and tidy - follow a 'clean desk policy', including paperwork, to ensure MoJ information isn't seen by unauthorised people.
+* Ensure that your devices are powered off when you first enter a country when travelling outside the UK.
+* Keep your workspace clear and tidy. Follow a '[clear desk policy](clear-screen-and-desk.md)' for information, including paperwork, to ensure MoJ information isn't seen by unauthorised people.
 * Use MoJ IT equipment for business purposes in preference to your own equipment such as laptops or printers.
-* Be wary of anyone overlooking or eavesdropping what you are doing.
+* Be wary of anyone overlooking or eavesdropping what you are doing. Consider whether you, or the MoJ information, might be Overseen, Overheard, or Overshared.
+* Protect chargers and other computer accessories, especially MoJ equipment, when travelling. This is to prevent them from being tampered with. Keep them secure and out of sight as much as possible, for example in your hand luggage or on your person.
+* Avoid using Hotel or other public wifi spots. They are not secure and can potentially monitor your equipment and information. Instead, you should use a mobile data (4G) connection.
+* Ensure that a laptop BitLocker PIN or similar access control is enabled.
 
 **Never:**
 
 * Let family or other unauthorised people use MoJ equipment.
 * Leave equipment unattended.
 * Work on sensitive information in public spaces, or where your equipment can be overlooked by others.
-* Advertise the fact that you work with MoJ materials.
+* Advertise the fact that you work with MoJ materials. However, pre-installed materials such as backgrounds provided as standard with MoJ equipment are acceptable.
 * Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.
 * Send your work material to your personal devices or your personal email address.
 * Redirect print jobs from MoJ printers to a personal printer.
+* Use public 'charging stations' provided at airports, conference venues, hotels, or similar public locations. They might be used to upload malicious software onto your device.
+* Connect MoJ equipment to vehicles, using either USB or Bluetooth. These connections can download information from the device or upload malicious software.
+* Connect to MoJ systems or services through Hotel or other public wifi spots without using a VPN.
 
 ##Working securely
 
@@ -55,26 +64,46 @@ It's important to consider the security of how you work remotely.
 
 Even when working remotely, you must still follow the security policies and operating procedures for MoJ systems you access and work with.
 
+##Using public wifi or internet, and home broadband
+
+Some locations, such as hotels, coffee shops, or public transport, offer 'public' wifi or internet access.
+
+The public services are usually offered for free. They only need you to agree to some terms of service.
+
+While apparently convenient, these services can have some serious problems:
+
+* They have no security appropriate for protecting MoJ information.
+* There is no guarantee about keeping information transmitted through them private or confidential.
+* Public services are usually shared. This means that performance can often be very slow and unreliable.
+
+For these reasons, you **SHOULD NOT** use public wifi or internet services for MoJ business. You **SHOULD** avoid connecting MoJ equipment to public wifi or internet services.
+
+If you need network access, but cannot connect to an MoJ network or home broadband service, you **SHOULD** use an MoJ hotspot. This is usually provided on your MoJ-issued mobile device.
+
+If you need to use a public wifi or internet service, or home broadband, with your MoJ equipment, because you do not have an MoJ hotspot, then you **SHALL** connect using an MoJ-issued VPN. Before doing any work, check that the MoJ-issued VPN is working correctly.
+
 ##Using your own equipment
 
-The main guidance is available [here](/guidance/security/it-computer-security/using-a-personal-device/).
+The main guidance is available [here](personal-devices.md).
 
-Wherever possible, you should always use official MoJ equipment for business purposes.
+Wherever possible, you **SHOULD** always use official MoJ equipment for business purposes.
 
 Never send your work material to your personal devices or your email accounts.
 
 If you are working remotely, or do not have access to MoJ equipment, it might be tempting to use your own equipment, especially printers. Avoid doing this.
 
-The advice is to avoid printing anything, and in particular not to use personal printers.
+##Printing
+
+The advice is to avoid printing anything when working remotely, and in particular not to use personal printers.
 
 However, if you really must print MoJ information, you:
 
-* Should connect directly to the printer using USB, not wifi.
-* Should not print out personal information relating to others.
-* Should not redirect print jobs from an MoJ printer to a personal printer.
-* Should consult the information asset owner or line manager before printing the information.
-* Must store any and all printed materials safely and securely until you return to MoJ premises, when they must be disposed of or filed appropriately.
-* **Must never** dispose of MoJ information in your home rubbish or recycling.
+* **SHOULD** connect directly to the printer using USB, not wifi.
+* **SHOULD NOT** print out personal information relating to others.
+* **SHOULD NOT** redirect print jobs from an MoJ printer to a personal printer.
+* **SHOULD** consult the information asset owner or line manager before printing the information.
+* **SHALL** store any and all printed materials safely and securely until you return to MoJ premises, when they must be disposed of or filed appropriately.
+* **SHALL NOT** dispose of unshredded MoJ information in your home rubbish or recycling. Use a cross-cut shredder to destroy printed materials securely, before disposal at non-MoJ locations.
 
 Basically, think before you print.
 
@@ -101,9 +130,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 * Tel: 0800 917 5148
 * [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
 
-**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
-
-**Note:** Use of the Digital & Technology Digital Service Desk Slack channel (`#digitalservicedesk`) is being withdrawn, and should be avoided.
+**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel (`#digitalservicedesk`), are no longer being monitored.
 
 **HMPPS Information & security:**
 
@@ -160,5 +187,5 @@ To access the following link, you'll need to be connected to the HMPPS Intranet.
 
 ##Feedback
 
-If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [IT policy content](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

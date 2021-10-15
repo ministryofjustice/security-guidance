@@ -29,7 +29,7 @@
       the more careful handling and access auditing of the information.
       For this reason,
       <codeph>OFFICIAL-SENSITIVE</codeph> material <ph conref="conrefs.dita#conrefs/policyshouldnot"/> be
-      stored on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.</p>
+      stored on the <ph conref="conrefs.dita#conrefs/mojlong"/> Intranet.</p>
       <p>You <ph conref="conrefs.dita#conrefs/policyshouldnot"/> email
         <codeph>OFFICIAL-SENSITIVE</codeph> material from your
         <ph conref="conrefs.dita#conrefs/moj"/> email account to your personal email account.</p>
@@ -91,5 +91,5 @@
     </topic>
   </topic>
 	<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

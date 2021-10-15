@@ -6,5 +6,5 @@
     <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> embeds data governance and security-related clauses and schedules with contracts.</p>
     <p>The <ph conref="conrefs.dita#conrefs/moj"/> is in the process of standardising and commoditising comprehensive clauses and schedules and will implement them over time.</p>
   </body>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

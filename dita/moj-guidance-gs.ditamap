@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+
+<!--
+Content is included by default.
+if an audience attribute is present, then only matching content is included.
+
+ -->
+
+<map>
+	<title><ph conref="conrefs.dita#conrefs/mojlong"/> Cyber Security Guidance: Group Security Edition</title>
+	<topicref href="conrefs.dita" type="topic" processing-role="resource-only"/>
+	<topicref href="gs-landing-page.dita" type="topic"/>
+
+	<topichead>
+		<topicmeta><navtitle>Mobile devices and teleworking</navtitle></topicmeta>
+		<topichead>
+			<topicmeta><navtitle>Teleworking</navtitle></topicmeta>
+			<topicref href="accessing-moj-it-systems-from-overseas.dita" type="topic"/>
+			<topicref href="general-advice-on-taking-equipment-overseas.dita" type="topic"/>
+			<topicref href="overseas-travel.dita" type="topic"/>
+			<topicref href="personal-devices.dita" type="topic"/>
+		</topichead>
+	</topichead>
+
+	<topichead>
+		<topicmeta><navtitle>Human resource security</navtitle></topicmeta>
+		<topichead>
+			<topicmeta><navtitle>Prior to employment</navtitle></topicmeta>
+			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
+			<topicref href="national-security-vetting-for-external-candidates-faq.dita" type="topic"/>
+			<topicref href="national-security-vetting-contact.dita" type="topic"/>
+			<topicref href="national-security-vetting-questions.dita" type="topic"/>
+			<topicref href="pre-employment-screening.dita" type="topic"/>
+			<topicref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" type="topic"/>
+			<topicref href="security-clearance-appeals-policy.dita" type="topic"/>
+			<topicref href="security-vetting-assessment-need.dita" type="topic"/>
+		</topichead>
+		<topichead>
+			<topicmeta><navtitle>During employment</navtitle></topicmeta>
+			<topicref href="ongoing-personnel-security.dita" type="topic"/>
+			<topicref href="personnel-risk-assessment.dita" type="topic"/>
+			<topicref href="reporting-personal-circumstance-changes.dita" type="topic"/>
+			<topicref href="training-and-education.dita" type="topic"/>
+			<topicref href="voluntary-drug-testing-policy.dita" type="topic"/>
+			<topicref href="voluntary-drug-testing-policy-procedures.dita" type="topic"/>
+		</topichead>
+		<topichead>
+			<topicmeta><navtitle>Termination and change of employment</navtitle></topicmeta>
+			<topicref href="end-or-change-of-employment.dita" type="topic"/>
+			<topicref href="leavers-with-nsc-and-nscvs.dita" type="topic"/>
+		</topichead>
+	</topichead>
+
+
+	<topichead>
+		<topicmeta><navtitle>Physical and environmental security</navtitle></topicmeta>
+		<topichead>
+			<topicmeta><navtitle>Secure areas</navtitle></topicmeta>
+			<topicref href="cctv-policy.dita" type="topic"/>
+			<topicref href="entry-and-exit-search-policy.dita" type="topic"/>
+			<topicref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" type="topic"/>
+			<topicref href="physical-security-policy.dita" type="topic"/>
+		</topichead>
+	</topichead>
+
+</map>

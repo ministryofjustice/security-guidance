@@ -1,32 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="general-user-video-and-messaging-apps-guidance">
-	<title><ph platform="github">General Apps Guidance</ph><ph platform="intranet">Apps</ph></title>
-	<body platform="intranet">
-			<!-- The following two paragraphs are duplicated below.
-			Yes, this probably should be conref -->
-			<p>When working from home, you still need to communicate with <ph conref="conrefs.dita#conrefs/mojlong"/> colleagues.
+	<title>General app guidance</title>
+	<body>
+		<p>When working, you need to communicate with <ph conref="conrefs.dita#conrefs/mojlong"/> colleagues
+			and use business tools ('apps').
 			You'll also need to work with people outside the <ph conref="conrefs.dita#conrefs/moj"/>.
 			There are various tools you might use, besides the standard email and telephone tools.
 			This document tells you about the tools you can, and cannot, use for business purposes.
 			This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
 		<p>Some ALBs, Agencies, or other large groups within the <ph conref="conrefs.dita#conrefs/moj"/> might have their own,
-			specific guidance regarding how to use certain Video and Messaging apps for different purposes.</p>
+			specific guidance regarding how to use certain  apps for different purposes.</p>
 	</body>
-	<topic id="overview" platform="github">
-		<title>Overview</title>
-		<body>
-			<!-- The following two paragraphs are duplicates from above.
-			Yes, this probably should be conref -->
-			<p>When working from home, you still need to communicate with <ph conref="conrefs.dita#conrefs/mojlong"/> colleagues.
-			You'll also need to work with people outside the <ph conref="conrefs.dita#conrefs/moj"/>.
-			There are various tools you might use, besides the standard email and telephone tools.
-			This document tells you about the tools you can, and cannot, use for business purposes.
-			This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
-			<p>Some ALBs, Agencies, or other large groups within the <ph conref="conrefs.dita#conrefs/moj"/> might have their own,
-			specific guidance regarding how to use certain Video and Messaging apps for different purposes.</p>
-		</body>
-	</topic>
 	<topic id="access-to-tools">
 		<title>Access to tools</title>
 		<body>
@@ -231,14 +216,14 @@
 						<row>
 							<entry colname="col1">Google Meet (was Google Hangouts)</entry>
 							<entry colname="col2">Communication tool: Video and/or voice</entry>
-							<entry colname="col3"><ph conref="conrefs.dita#conrefs/moj"/> use approved</entry>
+							<entry colname="col3"><ph id="approved"><ph conref="conrefs.dita#conrefs/moj"/> use approved for <codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></ph></entry>
 							<entry colname="col4"><ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
 							<entry colname="col5">Internal/External</entry>
 						</row>
 						<row>
 							<entry colname="col1">Microsoft Teams</entry>
 							<entry colname="col2">Communication and collaboration tool: Video and/or voice</entry>
-							<entry colname="col3"><ph conref="conrefs.dita#conrefs/moj"/> use approved</entry>
+							<entry colname="col3"><ph conref="#approved-tools/approved"/></entry>
 							<entry colname="col4">Dom1 Software centre, <ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
 							<entry colname="col5">Internal/External</entry>
 						</row>
@@ -252,7 +237,7 @@
 						<row>
 							<entry colname="col1">Skype for Business</entry>
 							<entry colname="col2">Communication tool: Video and/or voice</entry>
-							<entry colname="col3"><ph conref="conrefs.dita#conrefs/moj"/> use approved</entry>
+							<entry colname="col3"><ph conref="#approved-tools/approved"/></entry>
 							<entry colname="col4">Dom1 Software centre, <ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
 							<entry colname="col5">Internal/External</entry>
 						</row>
@@ -268,6 +253,19 @@
 							<entry colname="col2">Q&amp;A tool during presentations</entry>
 							<entry colname="col3">Avoid personal or sensitive data</entry>
 							<entry colname="col4">Web browser.</entry>
+							<entry colname="col5">Internal</entry>
+						</row>
+						<row>
+							<entry colname="col1">Trello</entry>
+							<entry colname="col2">Project management tool, 'Kanban' cards</entry>
+							<entry colname="col3">Avoid personal or sensitive data.
+								An enterprise-wide <ph conref="conrefs.dita#conrefs/moj"/> licence is available.
+								Ensure you create Trello boards in the <ph conref="conrefs.dita#conrefs/moj"/> workspace.
+								Do not use a personal Trello account.</entry>
+							<entry colname="col4">Web browser based use.
+							Log in using your <ph conref="conrefs.dita#conrefs/moj"/> single sign-on account,
+								for example a Digital &amp; Technology Google account,
+								or a Microsoft Office 365 account.</entry>
 							<entry colname="col5">Internal</entry>
 						</row>
 						<row>
@@ -302,8 +300,8 @@
 							<entry colname="col1">Zoom</entry>
 							<entry colname="col2">Communication tool: Video, voice and chat</entry>
 							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Web browser based use</entry>
-							<entry colname="col5">External meetings</entry>
+							<entry colname="col4">Web browser based use, or dedicated and installed app by approval</entry>
+							<entry colname="col5">External meetings. For Internal meetings, use Microsoft Teams.</entry>
 						</row>
 					</tbody>
 				</tgroup>
@@ -365,5 +363,5 @@
 			</body>
 		</topic>
 	</topic>
-	<topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+	<topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

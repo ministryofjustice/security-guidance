@@ -35,7 +35,7 @@ When speaking to an individual, remember:
 -   Do not put off talking to an individual for fear of not knowing what to do or say.
 -   Unusual behaviour might be nothing to do with security issues, but might be for several reasons. Listen to the person, and, if possible, offer your support. It might be appropriate to refer them to a [support group available within](https://intranet.justice.gov.uk/guidance/hr/support-and-wellbeing/employee-assistance-programme/) the MoJ.
 
-> For more information, see the MoJ [Support and wellbeing](https://intranet.justice.gov.uk/guidance/hr/support-and-wellbeing/) resources.
+**Note:** For more information, see the MoJ [Support and wellbeing](https://intranet.justice.gov.uk/guidance/hr/support-and-wellbeing/) resources.
 
 Managing security clearances requires active conversations between managers and individuals throughout the year, and prompt reporting of any issues of concern: [Reporting personal circumstance changes](reporting-personal-circumstance-changes.md). Whilst there are formal renewal periods, clearances may be reviewed, suspended, or withdrawn at any time.
 

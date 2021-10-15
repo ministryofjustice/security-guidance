@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="minimum-user-clearance-requirements-guide">
-  <title>Minimum <ph platform="github">User Clearance Requirements Guide</ph><ph platform="intranet">user clearance</ph></title>
-  <body platform="intranet">
-    <p>Minimum User Clearance Requirements Guide</p>
-    <p>This Minimum User Clearance Requirements Guide outlines the level of security clearance required
-for staff in order to access specific account types.<ph audience="audience-tech"> This is a sub-page to the <xref href="access-control-guide.dita" format="dita" type="topic">Access Control Guide</xref>.</ph></p>
-  </body>
-  <topic id="introduction" platform="github">
+  <title>Minimum User Clearance Requirements Guide</title>
+  <topic id="introduction">
     <title>Introduction</title>
     <body>
       <p>This Minimum User Clearance Requirements Guide outlines the level of security clearance required
-for staff in order to access specific account types.<ph audience="audience-tech"> This is a sub-page to the <xref href="access-control-guide.dita" format="dita" type="topic">Access Control Guide</xref>.</ph></p>
+for staff in order to access specific account types.<ph audience="audience-tech"> This is a sub-page to the <xref href="access-control-guide.dita" format="dita" platform="html">Access Control Guide</xref><xref href="https://security-guidance.service.justice.gov.uk/access-control-guide/" format="html" scope="external" platform="epub pdf">Access Control Guide</xref>.</ph></p>
     </body>
   </topic>
   <topic id="security-clearance-levels">
@@ -52,23 +47,6 @@ granted access rights to view <codeph>OFFICIAL</codeph> information. Some roles 
       <p>Please contact the Cyber Assistance Team and refer to the <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/" format="html" scope="external">Vetting Policy</xref> for further information.</p>
     </body>
   </topic>
-  <topic id="checking-someones-clearance-status">
-  	<title>Checking someone's clearance status</title>
-  	<body>
-  		<p>To check someone's clearance status, collect the following information:
-  		<ul>
-  			<li>Their first name.</li>
-  			<li>Their last name.</li>
-  			<li>Their date of birth.</li>
- 		</ul></p>
- 		<p>Send this information to the <ph conref="conrefs.dita#conrefs/moj"/> Group Security Team, by emailing: <ph conref="conrefs.dita#conrefs/groupsecurityemail" platform="github"/><ph conref="conrefs.dita#conrefs/groupsecurityemailtext" platform="intranet"/>.
-      The team will check with the Cluster,
-      to determine the individual's clearance status,
-      if any.
-      If you are authorised to receive the answer,
-      the team will reply to you with the answer.</p>
-  	</body>
-  </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
-  <topic id="feedback" platform="html epub" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

@@ -30,7 +30,7 @@ This guide is split into three sections:
 -   [Information sharing](#information-sharing).
 -   [Reporting data loss](#reporting-data-loss).
 
-**Note:** This document provides guidance for handling and sharing of information and data up to and including `OFFICIAL` and `OFFICIAL-SENSITIVE`, or the older Impact Level \(IL\) 3. Where information attracts a high protective marking or IL, advice **SHALL** be sought from the MoJ [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) and the MoJ Chief Information Security Office \(CISO\).
+**Note:** This document provides guidance for handling and sharing of information and data up to and including `OFFICIAL` and `OFFICIAL-SENSITIVE`, or the older Impact Level \(IL\) 3. Where information attracts a high protective marking or IL, advice **SHALL** be sought from the MoJ [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) and the MoJ Chief Information Security Officer \(CISO\).
 
 ### Demonstration of Compliance
 
@@ -77,7 +77,7 @@ As these networks can support data up to and including `OFFICIAL-SENSITIVE`, a b
 -   Frequency.
 -   Any "need-to-know" considerations. See the [Access Control Guide](access-control-guide.md) for further information.
 
-Any additional controls **SHALL** be captured on the DMF \(see [Data Movement Form](#data-movement-form-dmf), where advice should be obtained from the MoJ Chief Information Security Office \(CISO\) when required.
+Any additional controls **SHALL** be captured on the DMF \(see [Data Movement Form](#data-movement-form-dmf), where advice should be obtained from the MoJ Chief Information Security Officer \(CISO\) when required.
 
 ##### USB mass storage device
 
@@ -175,7 +175,7 @@ Where there is a business requirement to share information classified higher tha
 
 ## Data Movement Form \(DMF\)
 
-The Data Movement Form \(DMF\) is available [here](https://security-guidance.service.justice.gov.uk/gs/data-movement-form.docx).
+The Data Movement Form \(DMF\) is available [here](./gs/data-movement-form.docx).
 
 The purpose of the DMF is to ensure that the movement of information assets is secure, and in compliance with the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 
@@ -219,9 +219,7 @@ More guidance on password best practices is [available](passwords.md).
 -   Tel: 0800 917 5148
 -   [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
 
-**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
-
-**Note:** Use of the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\) is being withdrawn, and should be avoided.
+**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
 
 **HMPPS Information & security:**
 
