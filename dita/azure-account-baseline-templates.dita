@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="azure-account-baseline-templates">
+  <title>Azure Account Baseline Templates</title>
+  <body>
+    <p>The lowest acceptable common denominator to appeal to the largest
+possible number of people for security-related promises, capabilities
+and configurations of <ph conref="conrefs.dita#conrefs/mojlong"/> Azure accounts.</p>
+  </body>
+  <topic id="baseline">
+    <title>Baseline</title>
+    <body>
+      <p>The baseline for Azure accounts is formally published as part of the
+Security Guidance from the <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology Security and Privacy
+team.</p>
+    </body>
+  </topic>
+  <topic id="background">
+    <title>Background</title>
+    <body>
+      <p>As an organization expands its use of Azure services, there is often a
+conversation about the need to create multiple Azure subscriptions to
+ensure separation of business processes or for security, compliance, and
+billing. We tend to use separate Azure subscriptions for each business
+unit so that it can meet the different needs of the organization.
+Although creating multiple subscriptions has simplified operational
+issues and provided benefits like security and resource isolation, a
+smaller blast radius, and simplified billing, it results in widely
+varying security posture across the subscriptions and there is the need
+to align all of these subscriptions to a baseline secure standard.</p>
+    </body>
+  </topic>
+  <topic id="areas-of-concern">
+    <title>Areas of Concern</title>
+    <body>
+      <p><xref href="#azure-security-centre" format="dita">Azure Security Center</xref>.</p>
+      <p><xref href="#azure-identity-management-pim" format="dita">Azure Identity Management (PIM)</xref>.</p>
+      <p><xref href="#azure-defender" format="dita">Azure Defender</xref>.</p>
+      <p><xref href="#web-application-firewall" format="dita">Web Application Firewall</xref>.</p>
+      <p><xref href="#monitor" format="dita">Monitor</xref>.</p>
+      <p><xref href="#advisor" format="dita">Advisor</xref>.</p>
+      <p><xref href="#regions" format="dita">Regions</xref>.</p>
+      <p><xref href="#azure-storage-encryption" format="dita">Azure Storage Encryption</xref>.</p>
+      <p><xref href="#key-vault" format="dita">Key Vault</xref>.</p>
+      <p><xref href="#tagging" format="dita">Tagging</xref>.</p>
+      <p>This section provides the definition of baseline controls and list of
+templates that cover the baseline and governance guardrails that can be
+deployed to new accounts.</p>
+    </body>
+    <topic id="azure-security-centre">
+      <title>Azure Security Centre</title>
+      <body>
+        <p>Leverage Azure Security Centre to ensure workloads are secure and to
+strengthen the security posture of the Azure estate. With continuous
+assessment,
+newly deployed resources are assessed and scored based on
+recommendations against Azure Security Benchmark.</p>
+      </body>
+    </topic>
+    <topic id="azure-identity-management-pim">
+      <title>Azure Identity Management (PIM)</title>
+      <body>
+        <p>Enabling PIM helps to mitigate the risk of excessive, unnecessary or
+misused access rights by allowing administrators to discover, restrict
+and monitor access to Azure Active Directory resources. Essentially, it
+means that any user with access to the <ph conref="conrefs.dita#conrefs/moj"/> data is only allowed
+access to certain files or services, assigned by the global and
+privileged role administrators.</p>
+<p>Recommendations to improve overall Azure
+security posture by monitoring at a minimum include:
+<ul>
+  <li>Block or secure risky user accounts.</li>
+  <li>Require users to register for
+    <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-Factor Authentication (MFA)</xref>.</li>
+    <li>Enable the use of Just-in-Time access, so that administrators can create
+privileged access for a specific timeframe.</li>
+</ul></p>
+        <p>See also:
+          <ul>
+            <li><xref href="https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure" format="html" scope="external">Azure AD Privileged Identity Management</xref>.</li>
+            <li><xref href="https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-activate-role" format="html" scope="external">Activate my Azure AD roles in PIM</xref>.</li>
+          </ul>
+        </p>
+      </body>
+    </topic>
+    <topic id="azure-defender">
+      <title>Azure Defender</title>
+      <body>
+        <p>By enabling Azure Defender and integrating with Azure Security Center, you
+get an additional layer of security with which you can protect workloads
+hosted in Azure. Defender provides protection from most advanced
+threats, such as brute force, remote desktop protocol (RDP) or SQL
+injection attacks.</p>
+        <p> See also:
+          <ul>
+            <li><xref href="https://docs.microsoft.com/en-us/azure/security-center/security-center-wdatp?tabs=windows" format="html" scope="external">Enable Azure Defender</xref>.</li>
+            <li><xref href="https://docs.microsoft.com/en-us/azure/security-center/defender-for-key-vault-introduction" format="html" scope="external">Enable Defender for Key Vault</xref>.</li>
+            <li><xref href="https://docs.microsoft.com/en-us/azure/azure-sql/database/azure-defender-for-sql" format="html" scope="external">Enable Defender for SQL</xref>.</li>
+          </ul></p>
+      </body>
+    </topic>
+    <topic id="web-application-firewall">
+      <title>Web Application Firewall</title>
+      <body>
+        <p>Azure Web Application Firewall (WAF) on Azure Application Gateway is a
+cloud-native service that provides centralised protection to web
+applications from common cyber attacks. Azure WAF protects against
+crawlers and scanners, SQL and command injection, cross-site scripting,
+HTTP protocol violations, anomalies, and other common web attacks. A WAF
+can support configurable request size limits and custom rules, exclusion
+lists, and geo-filtration of traffic.</p>
+        <p>See also:
+          <ul>
+            <li><xref href="https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview" format="html" scope="external">Azure WAF
+deployment</xref>.</li>
+          </ul></p>
+      </body>
+    </topic>
+    <topic id="monitor">
+      <title>Monitor</title>
+      <body>
+        <p>Azure Monitor is the centralised console where you can create alerts
+around various resources in your subscription and also manage them.
+Alerting in Azure Monitor includes creating and managing alert rules,
+and creating and managing action groups.</p>
+        <p>See also:
+          <ul>
+            <li><xref href="https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-activity-log" format="html" scope="external">Create, view, and manage activity log alerts by using Azure Monitor</xref>.</li>
+          </ul></p>
+      </body>
+    </topic>
+    <topic id="advisor">
+      <title>Advisor</title>
+      <body>
+        <p>Azure Advisor takes the guesswork out of optimising your Azure
+deployments. Specifically, providing highly-personalised recommendations
+and best practices which are both actionable and proactive. Azure
+Advisor helps you find ways to reduce costs related to Azure service
+subscriptions, improve the performance, security, and availability of
+resources that are in use.</p>
+        <p>See also:
+          <ul>
+            <li><xref href="https://docs.microsoft.com/en-us/azure/advisor/advisor-overview" format="html" scope="external">Azure Advisor</xref>.</li>
+          </ul></p>
+      </body>
+    </topic>
+    <topic id="regions">
+      <title>Regions</title>
+      <body>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/> does not use non-EU Azure regions,
+          for strategic compliance and
+performance reasons. For more information on regions, see <xref href="https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-policy-location" format="html" scope="external">Conditional Access : Block by region</xref>.</p>
+      </body>
+    </topic>
+    <topic id="azure-storage-encryption">
+      <title>Azure Storage Encryption</title>
+      <body>
+        <p>Azure Storage data encryption and decryption is transparently done using
+256-bit AES. Azure Storage encryption is for all storage accounts,
+including both Resource Manager and classic storage accounts. This
+cannot be disabled, as the data is secured by default. All Azure Storage
+resources, such as blobs, disks, files, queues, and tables, including all
+object metadata, are also encrypted at rest.</p>
+        <p>See also:
+          <ul>
+            <li><xref href="https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption" format="html" scope="external">Azure Storage encryption for data at rest</xref>.</li>
+          </ul></p>
+      </body>
+    </topic>
+    <topic id="key-vault">
+      <title>Key Vault</title>
+      <body>
+        <p>Azure Key Vault protects encryption keys and secrets stored in Azure.
+          The material might be certificates, connection strings, and passwords. However,
+steps should be taken to maximize the security of your vaults and the
+data stored within them while storing sensitive data, including enabling
+Defender for Key Vault to safeguard your data.</p>
+        <p>See also:
+          <ul>
+            <li><xref href="https://docs.microsoft.com/en-us/azure/key-vault/general/best-practices" format="html" scope="external">Best practices to use Key Vault</xref>.</li>
+              <li><xref href="https://docs.microsoft.com/en-us/azure/security-center/defender-for-key-vault-introduction" format="html" scope="external">Defender for Key Vault</xref>.</li>
+          </ul></p>
+      </body>
+    </topic>
+    <topic id="tagging">
+      <title>Tagging</title>
+      <body>
+        <p>Assigning tags to Azure resources is essential in creating a
+well-organised and transparent classification, and achieving significant
+cloud cost optimisation. When implemented, this practice can provide a
+consistent basis for applying policies across the organisation.</p>
+        <p>See also:
+          <ul>
+            <li><xref href="https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-policies" format="html" scope="external">Assign policy definitions for tag compliance</xref>.</li>
+          </ul></p>
+      </body>
+    </topic>
+  </topic>
+	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

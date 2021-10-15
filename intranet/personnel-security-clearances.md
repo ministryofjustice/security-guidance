@@ -30,6 +30,8 @@ The [Baseline Personnel Security Standard (BPSS) is published on GOV.UK](https:/
 
 * **[Security clearance appeals policy](security-clearance-appeals-policy.md)**  
 
+* **[Security clearance appeals procedures](security-clearance-appeals-procedures.md)**  
+
 * **[Security vetting assessment of need](security-vetting-assessment-need.md)**  
 
 * **[Voluntary drug testing policy](voluntary-drug-testing-policy.md)**  

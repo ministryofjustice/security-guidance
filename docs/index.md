@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 13 October 2021.
+**Note:** This guidance is dated: 15 October 2021.
 
 ### Popular links
 
@@ -34,7 +34,7 @@ For convenience, offline versions of this guidance are available.
 |Group Security. Contains Group Security policy and guidance.|[PDF](moj-guidance-gs.pdf)|[EPUB](moj-guidance-gs.epub)|
 |Technical users. Includes lots of technical detail. This document contains all content, including for 'All users' and from Group Security. Download this document if you want the complete set of published MoJ security policy and guidance.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 13 November 2021.
+The offline versions of this guidance are time-limited, and are not valid after 15 November 2021.
 
 ### Getting in touch
 
@@ -132,6 +132,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Pre-employment screening](pre-employment-screening.md)|All users|
 |[Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)|All users|
 |[Security clearance appeals policy](security-clearance-appeals-policy.md)|All users|
+|[Security clearance appeals procedures](security-clearance-appeals-procedures.md)|All users|
 |[Security vetting assessment of need](security-vetting-assessment-need.md)|All users|
 
 #### During employment
@@ -351,7 +352,9 @@ The documents have been developed and defined within this taxonomy, and are list
 
 #### Supplier service delivery management
 
+|[Azure Account Baseline Templates](azure-account-baseline-templates.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Baseline for Amazon Web Services accounts](baseline-aws-accounts.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Baseline for Azure Subscriptions](baseline-for-azure-accounts.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 ### Information security incident management
 

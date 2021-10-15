@@ -1,4 +1,4 @@
-#Taking equipment overseas
+#General advice on taking equipment overseas
 
 As a government official travelling overseas, you should consider that you are highly likely to be of interest to a range of hostile parties, regardless of your role or seniority. Laptops, tablets and phones are very desirable pieces of equipment to steal and travelling overseas with it puts you at a greater security risk of being a victim of theft.
 
