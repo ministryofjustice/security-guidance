@@ -5,7 +5,7 @@
   <body>
     <p>These procedures provide an overview of the requirements for appealing a decision by the Cluster 2 Security Unit Head of Personnel Security, or their representatives in the Decision Making or Personnel Risk Management Teams, to refuse or withdraw national security clearance for Civil Service and Government employees and contractors working on Cluster 2 business.</p>
     <p>There is an internal appeal to the <ph conref="conrefs.dita#conrefs/mojlong"/> Permanent Secretary, and if the decision to refuse or withdraw clearance is upheld, a subsequent external appeal to the Security Vetting Appeals Panel (SVAP).</p>
-    <p>More detailed guidance on the processes and timescales for internal and external appeals can be found at <xref href="#annex-a-cluster-2-security-unit-security-clearance-appeals-procedures" format="dita">Annex A: Cluster 2 Security Unit Security Clearance Appeals Procedures</xref>.</p>
+    <p>More detailed guidance on the processes and timescales for internal and external appeals can be found at <xref href="#annex-a-cluster-2-security-unit-security-clearance-appeals-procedures" format="dita" scope="local">Annex A: Cluster 2 Security Unit Security Clearance Appeals Procedures</xref>.</p>
     <p>In this document the term <ph conref="conrefs.dita#conrefs/policymust"/> is used to indicate an absolute requirement.</p>
     <p>If you have any queries on the content of this document contact <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>.</p>
   </body>
@@ -70,11 +70,11 @@
             <p>An explanation of the internal vetting appeals policy and process and of the entitlement, should that appeal fail, to appeal to the independent Security Vetting Appeals Panel (SVAP).</p>
           </li>
           <li>
-            <p>An internal appeal form (<xref href="#annex-b-internal-appeal-form-following-refusal-of-withdrawal-of-security-clearance" format="dita">Annex B</xref>) to be completed by the individual, and guidance as to what is required of the individual when lodging an appeal, for example provision of any additional information, identification of the reason(s) for the appeal as well as any alleged 'inaccuracy' or 'misunderstanding' in the decision letter.</p>
+            <p>An internal appeal form (<xref href="#annex-b-internal-appeal-form-following-refusal-or-withdrawal-of-security-clearance" format="dita">Annex B</xref>) to be completed by the individual, and guidance as to what is required of the individual when lodging an appeal, for example provision of any additional information, identification of the reason(s) for the appeal as well as any alleged 'inaccuracy' or 'misunderstanding' in the decision letter.</p>
           </li>
         </ul>
         <p>The vetting decision letter <ph conref="conrefs.dita#conrefs/policyshould"/> also provide clear details of where the appeal notice <ph conref="conrefs.dita#conrefs/policyshould"/> be sent.</p>
-        <p>Appeals <ph conref="conrefs.dita#conrefs/policymust"/> be made by the appellant and sent to the Permanent Secretary using the "Internal appeal form following refusal or withdrawal of security clearance" (<xref href="#annex-b-internal-appeal-form-following-refusal-of-withdrawal-of-security-clearance" format="dita">Annex B</xref>) within 15 working days of receiving the vetting decision.</p>
+        <p>Appeals <ph conref="conrefs.dita#conrefs/policymust"/> be made by the appellant and sent to the Permanent Secretary using the "Internal appeal form following refusal or withdrawal of security clearance" (<xref href="#annex-b-internal-appeal-form-following-refusal-or-withdrawal-of-security-clearance" format="dita">Annex B</xref>) within 15 working days of receiving the vetting decision.</p>
         <p>In lodging an appeal, the appellant <ph conref="conrefs.dita#conrefs/policyshould"/> provide as full a rationale as they able, based on the reasons provided in the decision letter, with supporting facts where applicable and including any further information or documentation that <ph conref="conrefs.dita#conrefs/policymight"/> assist their appeal. An appeal submission <ph conref="conrefs.dita#conrefs/policymight"/> include information that was not previously available when the original clearance decision was made, where this information is materially relevant to the case.</p>
         <p>On receipt of an appeal, the Permanent Secretary <ph conref="conrefs.dita#conrefs/policycan"/> delegate the handling of it to an appeal officer, usually the Head of Vetting Appeals in the Cluster 2 Security Unit. The appeal officer is independent: they <ph conref="conrefs.dita#conrefs/policymustnot"/> have had any prior involvement or interest in the original decision-making process. The Permanent Secretary reserves the right to hear an appeal internally at their home department in any circumstances if they consider it appropriate.</p>
         <p>The Senior Security Advisor (SSA) of the <ph conref="conrefs.dita#conrefs/moj"/> acts as liaison between the Appeals Team and their department throughout the appeal process. The appeal officer conducts the appeal on behalf of the Permanent Secretary and provides a report and recommendation to the Permanent Secretary. In all cases, the Permanent Secretary makes the final decision.</p>
@@ -145,7 +145,7 @@
       </body>
     </topic>
   </topic>
-  <topic id="annex-b-internal-appeal-form-following-refusal-of-withdrawal-of-security-clearance">
+  <topic id="annex-b-internal-appeal-form-following-refusal-or-withdrawal-of-security-clearance">
     <title>Annex B: Internal appeal form following refusal or withdrawal of security clearance</title>
     <body>
       <lq>The Internal Appeal Form is available for download <xref href="file:///./gs/internal-appeal-form.docx"
