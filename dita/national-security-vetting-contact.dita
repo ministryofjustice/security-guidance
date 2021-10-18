@@ -24,7 +24,7 @@
           <p>NSVCs <ph conref="conrefs.dita#conrefs/policyshall"/> provide the authorisation and complete the SSCL <xref href="https://moj.myhub.sscl.com/fast-forms/forms-a-z" format="html" scope="external">Clearance Request Form</xref> that confirms the level of clearance required for that person. SSCL will not process an application if an NSV matrix code is not supplied by the NSVC.</p>
         </li>
         <li>
-          <p>NSVCs act as a single point of contact for their business area fo SSCL and <ph conref="conrefs.dita#conrefs/moj"/> security to speed up the NSV process.</p>
+          <p>NSVCs act as a single point of contact for their business area for SSCL and <ph conref="conrefs.dita#conrefs/moj"/> security to speed up the NSV process.</p>
         </li>
       </ul>
       <p>For further information regarding roles, responsibilities and necessary security clearances, contact <ph conref="conrefs.dita#conrefs/groupsecurityemail"/>.</p>
@@ -35,7 +35,7 @@
     <body>
       <ul>
         <li>
-          <p>To register with <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>, complete the <xref href="#downloads" format="dita">registration form</xref>, and return it to the email address provided in the form.</p>
+          <p>To register with <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>, complete the <xref href="#downloads" format="dita">Registration Form in the Downloads section</xref> at the bottom of this page, and return it to the email address provided in the form.</p>
         </li>
         <li>
           <p>On registration, <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/> provides the NSVC with the documents they need to manage the process and confirm registration with SSCL.</p>

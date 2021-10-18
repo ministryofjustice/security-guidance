@@ -16,14 +16,14 @@ Some business areas employ large number of NSV-cleared people and those clearanc
 
 -   NSVCs **SHALL** provide the authorisation and complete the SSCL [Clearance Request Form](https://moj.myhub.sscl.com/fast-forms/forms-a-z) that confirms the level of clearance required for that person. SSCL will not process an application if an NSV matrix code is not supplied by the NSVC.
 
--   NSVCs act as a single point of contact for their business area fo SSCL and MoJ security to speed up the NSV process.
+-   NSVCs act as a single point of contact for their business area for SSCL and MoJ security to speed up the NSV process.
 
 
 For further information regarding roles, responsibilities and necessary security clearances, contact [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk).
 
 ## Registration
 
--   To register with [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk), complete the [registration form](#downloads), and return it to the email address provided in the form.
+-   To register with [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk), complete the [Registration Form in the Downloads section](#downloads) at the bottom of this page, and return it to the email address provided in the form.
 
 -   On registration, [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk) provides the NSVC with the documents they need to manage the process and confirm registration with SSCL.
 
