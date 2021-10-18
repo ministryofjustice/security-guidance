@@ -34,7 +34,7 @@ The following downloads are available from the MoJ Intranet.
 
 -   [National security vetting contact guide](https://intranet.justice.gov.uk/documents/2016/08/national-security-vetting-contact-guide.doc).
 
--   [National security vetting contact registration form](https://intranet.justice.gov.uk/documents/2016/08/national-security-vetting-contact-form.pdf).
+-   [National security vetting contact registration form](./gs/NSVC_Registration_Form.docx)
 
 -   [National security vetting contacts register](https://intranet.justice.gov.uk/documents/2019/08/national-security-vetting-contacts-register.xlsx).
 
