@@ -39,8 +39,8 @@
 * Remote working
     * [Remote Working](remote-working.md)
     * Overseas travel
-        -   [Accessing Ministry of Justice (MoJ) IT systems overseas](accessing-moj-it-systems-from-overseas.md)
-        -   [Taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
+        -   [Accessing Ministry of Justice (MoJ) IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
+        -   [General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
         -   [Overseas travel](overseas-travel.md)
 * Risk assessment
     * [Risk assessment](risk-reviews.md)
@@ -59,6 +59,7 @@
         -   [Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)
         -   [Reporting personal circumstance changes](reporting-personal-circumstance-changes.md)
         -   [Security clearance appeals policy](security-clearance-appeals-policy.md)
+        -   [Security clearance appeals procedures](security-clearance-appeals-procedures.md)
         -   [Security vetting assessment of need](security-vetting-assessment-need.md)
         -   [Voluntary drug testing policy](voluntary-drug-testing-policy.md)
         -   [Voluntary drug testing policy procedures](voluntary-drug-testing-policy-procedures.md)
@@ -76,7 +77,4 @@
     * [Avoiding too much security](setecastronomy.md)
 * Training and education
     * [Training and Education](training-and-education.md)
-* Physical security
-    * [Personal mail and parcel delivery policy and procedure](personal-mail-and-parcel-delivery-policy-and-procedure.md)
-    * [Physical Security Policy](physical-security-policy.md)
 

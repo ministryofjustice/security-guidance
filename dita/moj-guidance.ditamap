@@ -68,6 +68,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="pre-employment-screening.dita" type="topic"/>
 			<topicref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" type="topic"/>
 			<topicref href="security-clearance-appeals-policy.dita" type="topic"/>
+			<topicref href="security-clearance-appeals-procedures.dita" type="topic"/>
 			<topicref href="security-vetting-assessment-need.dita" type="topic"/>
 		</topichead>
 		<topichead>
@@ -319,7 +320,9 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 		<topichead audience="audience-suppliers audience-tech">
 			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Supplier service delivery management</navtitle></topicmeta>
+			<topicref href="azure-account-baseline-templates.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="baseline-aws-accounts.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="baseline-for-azure-accounts.dita" type="topic" audience="audience-suppliers audience-tech"/>
 		</topichead>
 	</topichead>
 
@@ -384,6 +387,8 @@ if an audience attribute is present, then only matching content is included.
 		<topichead audience="audience-suppliers audience-tech">
 			<topicmeta><navtitle>Risk Management</navtitle></topicmeta>
 			<topicref href="infrastructure-system-accreditation.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="ost/ithc.md" type="topic" format="markdown" audience="audience-tech"/>
+			<topicref href="ost/test-cancellations-and-delays.md" type="topic" format="markdown"/>
 		</topichead>
 		<topichead audience="audience-basic audience-tech">
 			<topicmeta><navtitle>Risk Assessment Process</navtitle></topicmeta>
@@ -394,6 +399,12 @@ if an audience attribute is present, then only matching content is included.
 	<topichead audience="audience-basic audience-suppliers audience-tech">
 		<topicmeta><navtitle>Glossary and Acronyms</navtitle></topicmeta>
 		<topicref href="glossary.dita" type="topic"/>
+	</topichead>
+
+	<topichead audience="audience-basic audience-tech" platform="html">
+		<topicmeta><navtitle>Operational Security Team</navtitle></topicmeta>
+        <topicref href="ost/ithc.md" type="topic" format="markdown"/>
+        <topicref href="ost/test-cancellations-and-delays.md" type="topic" format="markdown"/>
 	</topichead>
 
 	<topichead platform="html">

@@ -16,10 +16,9 @@
             <li>Don't make statements that defame, slander or lower the reputation of the <ph conref="conrefs.dita#conrefs/moj"/>, any person or organisation.</li>
             <li>Don't forward email <xref href="#chain-letters" format="dita">chain letters</xref> to your contacts.
             Instead, report them to <ph conref="conrefs.dita#conrefs/securityemail"/>.</li>
-            <li>Avoid excessive use of email.
-              Be aware of unsuitable attachments, for example video clips, images, or executable files.</li>
-            <li>Avoid sending email to large numbers of recipients.
-              Ask yourself if it really makes sense to "Reply All"?</li>
+            <li>Be aware of unsuitable attachments, for example video clips, images, or executable files. <ph conref="conrefs.dita#conrefs/moj"/> email automatically filters many unapproved attachment types, particularly those that can contain executable files. Emails containing those attachments are likely to be quarantined and not delivered.</li>
+            <li>Avoid excessive use of email, and sending email to large numbers of recipients. Ask yourself if it really makes sense to "Reply All"?</li>
+            <li>Any recipients in the "To" or "Cc" fields can see the addresses of all other recipients in those fields. If you are sending an email to a list of people outside <ph conref="conrefs.dita#conrefs/moj"/>, where privacy of individuals might be relevant, place your list of recipients in the "Bcc" field and set the "To" field to your own address. This ensures that none of the recipients can see the identities of the other recipients.</li>
             <li>Keep your operating systems up to date to prevent susceptibility to viruses.</li>
             <li>Scan email attachments to detect viruses and other malware.</li>
           </ul></p>
@@ -30,7 +29,7 @@
       <topic id="monitoring">
         <title>Monitoring</title>
         <body>
-          <p>The <ph conref="conrefs.dita#conrefs/moj"/> monitors all email  for security purposes.</p>
+          <p>The <ph conref="conrefs.dita#conrefs/moj"/> monitors all email for security purposes.</p>
           <p>Specifically, communications may be monitored without notice and on a continual basis for a number of reasons including compliance with legal obligations, effective maintenance of IT systems, preventing or detecting unauthorised use or criminal activities (including cyber-intrusion), monitoring of service or performance standards, providing evidence of business transactions, and checking adherence to policies, procedures, and contracts.</p>
       <p>In general, the <ph conref="conrefs.dita#conrefs/moj"/> monitors telephone usage, network, email and Internet traffic data (including sender, receiver, subject, attachments to an e-mail, numbers called, duration of calls, domain names of websites visited, duration of visits, and files uploaded or downloaded from the Internet) at a network level.</p>
         </body>
