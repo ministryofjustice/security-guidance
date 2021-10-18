@@ -34,6 +34,8 @@
 			<ph id="cpnilong">Centre for the Protection of National Infrastructure (CPNI)</ph>
 			<ph id="cpni">CPNI</ph>
 			<ph id="dacuemail"><xref href="mailto:Data.access@justice.gov.uk" format="email" scope="external">Data.access@justice.gov.uk</xref></ph>
+			<ph id="do"><b>Do:</b></ph>
+			<ph id="donot"><b>Do not:</b></ph>
 			<ph id="gcloud"><xref href="https://www.digitalmarketplace.service.gov.uk/g-cloud" format="html" scope="external">Digital Marketplace (GCloud)</xref></ph>
 			<ph id="giaaemail"><xref href="mailto:correspondence@giaa.gov.uk" format="email" scope="external">correspondence@giaa.gov.uk</xref></ph> <!-- Government Internal Audit Agency -->
 			<ph id="gov007"><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></ph>
