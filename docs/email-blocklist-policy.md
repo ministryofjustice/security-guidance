@@ -76,7 +76,7 @@ Email types considered for blocking or removal include:
 
 `POLEBL015:` The MoJ has no responsibility to delete emails from unmanaged MoJ mailboxes.
 
-`POLEBL016:` Automatic deletion of emails for users **SHOULD** be done through automated processes. The [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) **SHALL NOT** have access to the mailbox from which unwanted emails are purged.
+`POLEBL016:` Automatic deletion of emails for users **SHOULD** be done through automated processes. The [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) **SHALL** minimise access to the mailbox from which unwanted emails are purged.
 
 ## Automated blocking tools
 

@@ -18,7 +18,7 @@
   <topic id="scope">
     <title>Scope</title>
     <body>
-      <p>This policy applies to all email domains and gateways managed by the <ph conref="conrefs.dita#conrefs/moj"/>, across all the applicable email services. Specifically,           this policy applies to both email traffic inbound (before it reaches the <ph conref="conrefs.dita#conrefs/moj"/>), and outbound (before it leaves the <ph conref="conrefs.dita#conrefs/moj"/>).</p>
+      <p>This policy applies to all email domains and gateways managed by the <ph conref="conrefs.dita#conrefs/moj"/>, across all the applicable email services. Specifically, this policy applies to both email traffic inbound (before it reaches the <ph conref="conrefs.dita#conrefs/moj"/>), and outbound (before it leaves the <ph conref="conrefs.dita#conrefs/moj"/>).</p>
     </body>
   </topic>
   <topic id="blocklist-definition">
@@ -69,7 +69,7 @@
       <p><codeph>POLEBL013:</codeph> Deletion of emails <ph conref="conrefs.dita#conrefs/policyshould"/> be done in such a way that the email could be recovered if required. If this is not possible, the email <ph conref="conrefs.dita#conrefs/policyshould"/> be moved to the users 'junk' folder rather than simply being deleted.</p>
       <p><codeph>POLEBL014:</codeph> Users <ph conref="conrefs.dita#conrefs/policyshould"/> be made aware of the deletion of emails. However, this is not mandatory.</p>
       <p><codeph>POLEBL015:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> has no responsibility to delete emails from unmanaged <ph conref="conrefs.dita#conrefs/moj"/> mailboxes.</p>
-      <p><codeph>POLEBL016:</codeph> Automatic deletion of emails for users <ph conref="conrefs.dita#conrefs/policyshould"/> be done through automated processes. The <ph conref="conrefs.dita#conrefs/ostemailtext"/> <ph conref="conrefs.dita#conrefs/policymustnot"/> have access to the mailbox from which unwanted emails are purged.</p>
+      <p><codeph>POLEBL016:</codeph> Automatic deletion of emails for users <ph conref="conrefs.dita#conrefs/policyshould"/> be done through automated processes. The <ph conref="conrefs.dita#conrefs/ostemailtext"/> <ph conref="conrefs.dita#conrefs/policyshall"/> minimise access to the mailbox from which unwanted emails are purged.</p>
     </body>
   </topic>
   <topic id="automated-blocking-tools">
