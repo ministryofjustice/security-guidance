@@ -55,35 +55,21 @@
         <li><ph conref="conrefs.dita#conrefs/do"/> Protect <ph conref="conrefs.dita#conrefs/moj"/> information from accidental access by unauthorised people.</li>
         <li><ph conref="conrefs.dita#conrefs/do"/> Lock or log off your device when leaving it unattended. For long periods of non-use, shut down your device.</li>
         <li><ph conref="conrefs.dita#conrefs/do"/> Ensure that your devices are powered off when you first enter a country when travelling outside the UK.</li>
-        <li><ph conref="conrefs.dita#conrefs/do"/> Keep your workspace clear and tidy.
-          Follow a '<xref href="clear-screen-and-desk.dita" format="dita">clear desk policy</xref>' for information,
-          including paperwork,
-          to ensure <ph conref="conrefs.dita#conrefs/moj"/> information isn't seen by unauthorised people.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Keep your workspace clear and tidy. Follow a '<xref href="clear-screen-and-desk.dita" format="dita">clear desk policy</xref>' for information, including paperwork, to ensure <ph conref="conrefs.dita#conrefs/moj"/> information isn't seen by unauthorised people.</li>
         <li><ph conref="conrefs.dita#conrefs/do"/> Use <ph conref="conrefs.dita#conrefs/moj"/> IT equipment for business purposes in preference to your own equipment such as laptops or printers.</li>
-        <li><ph conref="conrefs.dita#conrefs/do"/> Be wary of anyone overlooking or eavesdropping what you are doing.
-        Consider whether you, or the <ph conref="conrefs.dita#conrefs/moj"/> information,
-          might be Overseen, Overheard, or Overshared.</li>
-        <li><ph conref="conrefs.dita#conrefs/do"/> Protect chargers and other computer accessories, especially <ph conref="conrefs.dita#conrefs/moj"/> equipment,
-          when travelling. This is to prevent them from being tampered with.
-          Keep them secure and out of sight as much as possible, for example in your hand luggage or on your person.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Be wary of anyone overlooking or eavesdropping what you are doing. Consider whether you, or the <ph conref="conrefs.dita#conrefs/moj"/> information, might be Overseen, Overheard, or Overshared.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Protect chargers and other computer accessories, especially <ph conref="conrefs.dita#conrefs/moj"/> equipment, when travelling. This is to prevent them from being tampered with. Keep them secure and out of sight as much as possible, for example in your hand luggage or on your person.</li>
         <li><ph conref="conrefs.dita#conrefs/do"/> Ensure that a laptop BitLocker PIN or similar access control is enabled.</li>
-        <li><ph conref="conrefs.dita#conrefs/donot"/> Use Hotel or other public wifi spots.
-          They are not secure and can potentially monitor your equipment and information.
-          Instead, you should use a mobile data (4G) connection.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Avoid using <xref href="#using-public-wifi-or-internet-and-home-broadband" format="dita">Hotel or other public wifi spots</xref>. They are not secure and can potentially monitor your equipment and information. Instead, you should use an <ph conref="conrefs.dita#conrefs/moj"/>-provided mobile data (4G) connection.</li>
         <li><ph conref="conrefs.dita#conrefs/donot"/> Let family or other unauthorised people use <ph conref="conrefs.dita#conrefs/moj"/> equipment.</li>
         <li><ph conref="conrefs.dita#conrefs/donot"/> Leave equipment unattended.</li>
         <li><ph conref="conrefs.dita#conrefs/donot"/> Work on sensitive information in public spaces, or where your equipment can be seen by others.</li>
-        <li><ph conref="conrefs.dita#conrefs/donot"/> Advertise the fact that you work with <ph conref="conrefs.dita#conrefs/moj"/> materials.
-        However,
-        pre-installed materials such as backgrounds provided as standard with <ph conref="conrefs.dita#conrefs/moj"/> equipment are acceptable.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Advertise the fact that you work with <ph conref="conrefs.dita#conrefs/moj"/> materials. However, pre-installed materials such as backgrounds provided as standard with <ph conref="conrefs.dita#conrefs/moj"/> equipment are acceptable.</li>
         <li><ph conref="conrefs.dita#conrefs/donot"/> Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.</li>
         <li><ph conref="conrefs.dita#conrefs/donot"/> Send your work material to your personal devices or your personal email address.</li>
         <li><ph conref="conrefs.dita#conrefs/donot"/> Redirect print jobs from <ph conref="conrefs.dita#conrefs/moj"/> printers to a personal printer.</li>
-        <li><ph conref="conrefs.dita#conrefs/donot"/> Use public 'charging stations' provided at airports, conference venues, hotels, or similar public locations.
-          They might be used to upload malicious software onto your device.</li>
-        <li><ph conref="conrefs.dita#conrefs/donot"/> Connect <ph conref="conrefs.dita#conrefs/moj"/> equipment to vehicles,
-          using either USB or Bluetooth.
-          These connections can download information from the device or upload malicious software.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Use public 'charging stations' provided at airports, conference venues, hotels, or similar public locations. They might be used to upload malicious software onto your device.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Connect <ph conref="conrefs.dita#conrefs/moj"/> equipment to vehicles, using either USB or Bluetooth. These connections can download information from the device or upload malicious software.</li>
       </ul>
     </body>
   </topic>
@@ -101,36 +87,24 @@
     <topic id="using-public-wifi-or-internet-and-home-broadband">
       <title>Using public wifi or internet, and home broadband</title>
       <body>
-        <p>Some locations,
-          such as hotels,
-          coffee shops,
-          or public transport,
-          offer 'public' wifi or internet access.</p>
-        <p>The public services are usually offered for free.
-          They only need you to agree to some terms of service.</p>
-        <p>While apparently convenient,
-          these services can have some serious problems:
+        <p>Some locations, such as hotels, coffee shops, or public transport, offer 'public' wifi or internet access.</p>
+        <p>The public services are usually offered for free. They only need you to agree to some terms of service.</p>
+        <p>While apparently convenient, these services can have some serious problems:
           <ul>
             <li>They have no security appropriate for protecting <ph conref="conrefs.dita#conrefs/moj"/> information.</li>
             <li>There is no guarantee about keeping information transmitted through them private or confidential.</li>
-            <li>Public services are usually shared.
-              This means that performance can often be very slow and unreliable.</li>
+            <li>Public services are usually shared. This means that performance can often be very slow and unreliable.</li>
           </ul></p>
         <p>For these reasons:</p>
         <ul>
-          <li><ph conref="conrefs.dita#conrefs/donot"/> Use public wifi or internet services for <ph conref="conrefs.dita#conrefs/moj"/> business.</li>
-          <li><ph conref="conrefs.dita#conrefs/donot"/> Connect <ph conref="conrefs.dita#conrefs/moj"/> equipment to public wifi or internet services.</li>
+          <li><ph conref="conrefs.dita#conrefs/do"/> Avoid using public wifi or internet services for <ph conref="conrefs.dita#conrefs/moj"/> business.</li>
+          <li><ph conref="conrefs.dita#conrefs/do"/> Avoid connecting <ph conref="conrefs.dita#conrefs/moj"/> equipment to public wifi or internet services.</li>
         </ul>
-        <p>If you need network access,
-          but cannot connect to an <ph conref="conrefs.dita#conrefs/moj"/> network or home broadband service:</p>
+        <p>If you need network access, but cannot connect to an <ph conref="conrefs.dita#conrefs/moj"/> network or home broadband service:</p>
         <ul>
           <li><ph conref="conrefs.dita#conrefs/do"/> Use an <ph conref="conrefs.dita#conrefs/moj"/> hotspot. This is usually provided on your <ph conref="conrefs.dita#conrefs/moj"/>-issued mobile device.</li>
         </ul>
-        <p>If you need to use a public wifi or internet service,
-          or home broadband,
-          with your <ph conref="conrefs.dita#conrefs/moj"/> equipment,
-          because you do not have  an <ph conref="conrefs.dita#conrefs/moj"/> hotspot,
-          then:</p>
+        <p>If you need to use a public wifi or internet service, or home broadband, with your <ph conref="conrefs.dita#conrefs/moj"/> equipment, because you do not have  an <ph conref="conrefs.dita#conrefs/moj"/> hotspot, then:</p>
         <ul>
           <li><ph conref="conrefs.dita#conrefs/do"/> Connect using an <ph conref="conrefs.dita#conrefs/moj"/>-issued VPN. Before doing any work, check that the <ph conref="conrefs.dita#conrefs/moj"/>-issued VPN is working correctly.</li>
         </ul>
@@ -145,15 +119,13 @@
         <li><ph conref="conrefs.dita#conrefs/do"/> Use official <ph conref="conrefs.dita#conrefs/moj"/> equipment for business purposes.</li>
         <li><ph conref="conrefs.dita#conrefs/donot"/> Send your work material to your personal devices or your email accounts.</li>
       </ul>
-      <p>If you are working remotely, or do not have access to <ph conref="conrefs.dita#conrefs/moj"/> equipment, it might be tempting to use your own equipment, especially printers.
-        Avoid doing this.</p>
+      <p>If you are working remotely, or do not have access to <ph conref="conrefs.dita#conrefs/moj"/> equipment, it might be tempting to use your own equipment, especially printers. Avoid doing this.</p>
     </body>
   </topic>
   <topic id="printing">
     <title>Printing</title>
     <body>
-      <p>The advice is to avoid printing anything when working remotely,
-        and in particular not to use personal printers.</p>
+      <p>The advice is to avoid printing anything when working remotely, and in particular not to use personal printers.</p>
       <p>However, if you really must print <ph conref="conrefs.dita#conrefs/moj"/> information:</p>
       <ul>
         <li><ph conref="conrefs.dita#conrefs/do"/> Connect directly to the printer using USB, not wifi.</li>

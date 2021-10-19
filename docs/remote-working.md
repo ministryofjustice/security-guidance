@@ -41,7 +41,7 @@ Remote working is when you work from any non-MoJ location, for example, working 
 -   **Do:** Be wary of anyone overlooking or eavesdropping what you are doing. Consider whether you, or the MoJ information, might be Overseen, Overheard, or Overshared.
 -   **Do:** Protect chargers and other computer accessories, especially MoJ equipment, when travelling. This is to prevent them from being tampered with. Keep them secure and out of sight as much as possible, for example in your hand luggage or on your person.
 -   **Do:** Ensure that a laptop BitLocker PIN or similar access control is enabled.
--   **Do not:** Use Hotel or other public wifi spots. They are not secure and can potentially monitor your equipment and information. Instead, you should use a mobile data \(4G\) connection.
+-   **Do:** Avoid using [Hotel or other public wifi spots](#using-public-wifi-or-internet-and-home-broadband). They are not secure and can potentially monitor your equipment and information. Instead, you should use an MoJ-provided mobile data \(4G\) connection.
 -   **Do not:** Let family or other unauthorised people use MoJ equipment.
 -   **Do not:** Leave equipment unattended.
 -   **Do not:** Work on sensitive information in public spaces, or where your equipment can be seen by others.
@@ -76,8 +76,8 @@ While apparently convenient, these services can have some serious problems:
 
 For these reasons:
 
--   **Do not:** Use public wifi or internet services for MoJ business.
--   **Do not:** Connect MoJ equipment to public wifi or internet services.
+-   **Do:** Avoid using public wifi or internet services for MoJ business.
+-   **Do:** Avoid connecting MoJ equipment to public wifi or internet services.
 
 If you need network access, but cannot connect to an MoJ network or home broadband service:
 
