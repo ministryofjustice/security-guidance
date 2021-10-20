@@ -1,4 +1,4 @@
-#National security vetting contact
+#National Security Vetting contact
 
 All business areas in the Ministry of Justice (MoJ) **SHALL** enrol or appoint a National Security Vetting Contact (NSVC) to help business areas progress and monitor applications for security clearance.
 
@@ -34,11 +34,11 @@ For further information regarding roles, responsibilities and necessary security
 
 The following downloads are available from the MoJ Intranet.
 
-* [National security vetting contact guide](/documents/2016/08/national-security-vetting-contact-guide.doc).
+* [National Security Vetting contact guide](/documents/2016/08/national-security-vetting-contact-guide.doc).
 
-* [National security vetting contact registration form](./gs/NSVC_Registration_Form.docx)
+* [National Security Vetting contact registration form](./gs/NSVC_Registration_Form.docx)
 
-* [National security vetting contacts register](/documents/2019/08/national-security-vetting-contacts-register.xlsx).
+* [National Security Vetting contacts register](/documents/2019/08/national-security-vetting-contacts-register.xlsx).
 
 
 ---

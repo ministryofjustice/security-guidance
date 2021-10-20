@@ -51,7 +51,7 @@
         -   [Leavers with NSC and NSVCs](leavers-with-nsc-and-nscvs.md)
         -   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
         -   [National Security Vetting for External Candidates FAQ](national-security-vetting-for-external-candidates-faq.md)
-        -   [National security vetting contact](national-security-vetting-contact.md)
+        -   [National Security Vetting contact](national-security-vetting-contact.md)
         -   [National Security Vetting questions](national-security-vetting-questions.md)
         -   [Ongoing Personnel Security](ongoing-personnel-security.md)
         -   [Personnel risk assessment](personnel-risk-assessment.md)
