@@ -4,11 +4,11 @@ The processes described in this document are under review as part of Ministry of
 
 A downloadable version of this document is available [here](./gs/national-security-vetting-questions.docx).
 
-## National security vetting
+## National Security Vetting
 
-### What is national security vetting?
+### What is National Security Vetting?
 
-There are three levels of national security vetting \(NSV\) or clearance:
+There are three levels of National Security Vetting \(NSV\) or clearance:
 
 -   Counter Terrorist Check \(CTC\).
 -   Security Check \(SC\)
