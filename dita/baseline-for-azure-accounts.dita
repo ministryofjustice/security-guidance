@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="baseline-for-azure-accounts">
+  <title>Baseline for Azure Subscriptions</title>
+  <body>
+    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> has a 'lowest common denominator' approach to
+apply to the largest possible number of people for security-related
+promises, capabilities and configurations of <ph conref="conrefs.dita#conrefs/moj"/> Azure Subscriptions.</p>
+    <p>The baseline is not a holistic list of dos and don'ts, but a minimum
+line in the sand for what 'at least' <ph conref="conrefs.dita#conrefs/policymust"/> be done.</p>
+<p>This guidance is Version 1.3, September 16th 2021.</p>
+  </body>
+  <topic id="the-base-principle">
+    <title>The base principle</title>
+    <body>
+      <p>All <ph conref="conrefs.dita#conrefs/moj"/> Azure Subscriptions
+        <ph conref="conrefs.dita#conrefs/policymust"/> utilise a series of agreed
+configurations to enable and support good tenancy within Azure accounts,
+and a
+suitable cyber security posture.</p>
+    </body>
+    <topic id="anti-solutionising">
+      <title>Anti-solutionising</title>
+      <body>
+        <p>This baseline discusses outcomes, not how the baseline is achieved or implemented.</p>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security team strongly encourages the use of the highest
+abstraction level of services available from Azure to achieve these
+goals, and minimising the amount of custom code and configuration which
+needs to be developed (and thereafter, maintained) to satisfy each
+baseline.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="initial-considerations">
+    <title>Initial Considerations</title>
+    <body>
+      <p>The type of hosting is the first consideration.
+        AWS is the
+preferred Cloud Service Provider but we understand that Azure sometimes
+is a technical requirement.</p>
+      <p>Legacy applications <ph conref="conrefs.dita#conrefs/policyshould"/> be hosted via the <xref href="https://ministryofjustice.github.io/modernisation-platform/user-guide/cloud-platform-or-modernisation-platform.html#should-i-use-the-cloud-platform-or-the-modernisation-platform" format="html" scope="external">Modernisation Platform</xref>.</p>
+      <p>The requirement to use Azure <ph conref="conrefs.dita#conrefs/policyshould"/> also include basing new services or
+subscriptions on existing or predefined settings and policies.</p>
+      <p>For <xref href="https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/ukofficial-uknhs" format="html" scope="external">UK Government Services</xref>,
+there are
+<xref href="https://portal.azure.com/#blade/Microsoft_Azure_Policy/BlueprintsMenuBlade/GetStarted" format="html" scope="external">Blueprints</xref>
+available to ensure compliance with meeting Standards and Policies. If
+these exist, they <ph conref="conrefs.dita#conrefs/policycan"/> be replicated and applied to new services or subscriptions.</p>
+    </body>
+  </topic>
+  <topic id="security-incidents">
+    <title>Security incidents</title>
+    <body>
+      <p>The CyberSecurity team <ph conref="conrefs.dita#conrefs/policyshould"/> be added as a security contact for all
+Information or Cyber Security incidents. The contact details for raising
+Incidents need to be managed internally, for example using an Intranet page.</p>
+    </body>
+  </topic>
+  <topic id="baseline">
+    <title>Baseline</title>
+    <body>
+      <p>The following are the minimum requirements for usage of Azure.</p>
+    </body>
+    <topic id="identity-and-access-management-iam">
+      <title>Identity and access management (IAM)</title>
+      <body>
+        <p>Utilise <xref href="https://azure.microsoft.com/en-gb/product-categories/identity/" format="html" scope="external">Identity and access management (IAM)</xref> to defend against malicious login attempts and safeguard credentials with risk-based access controls, identity protection tools and strong authentication options – without disrupting productivity and use IAM for Joiners, Movers and Leavers (JML) within Azure. Ensure Services or Subscriptions that legitimately exist are well protected.</p>
+        <table>
+          <tgroup cols="3">
+            <colspec colname="col1" colnum="1"/>
+            <colspec colname="col2" colnum="2"/>
+            <colspec colname="col3" colnum="3"/>
+            <thead>
+              <row>
+                <entry colname="col1">What <ph conref="conrefs.dita#conrefs/policymust"/> be in place</entry>
+                <entry colname="col2">Monitoring</entry>
+                <entry colname="col3">Resolution or escalation if baseline is broken or violated</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1"><xref format="html" scope="external" href="https://azure.microsoft.com/en-gb/services/active-directory/">Azure Active Directory</xref> is enabled on all accounts, in all used tenants or subscriptions, all of the time.</entry>
+                <entry colname="col2">Alerts fire for new findings.</entry>
+                <entry colname="col3">Findings are archived (if intended) or resolved (if unintended) within 7 days.</entry>
+              </row>
+              <row>
+                <entry colname="col1">Azure user accounts have a defined and peer reviewed method for request or creation. Viable, authoritative and 'single source of truth' documentation exists to describe each Azure account and who should and should not have access based upon Role Based Access Control (RBAC). Idle Azure user accounts are suspended. MFA is always required and always enforced by policy. Root user account usage is considered abnormal. Passphrases or MFA seeds are cycled on every Azure root account.</entry>
+                <entry colname="col2">Azure group account owners are alerted when new Azure accounts are created. Idle (30 or more consecutive days of non-activity) Azure user accounts issue suspension notices to Azure group account owners and target users. Where an account does not have MFA, the user and Azure group account owners are notified after 7 consecutive days. Any login or use of an Azure root account issues login alerts to the Azure group account owners.</entry>
+                <entry colname="col3">Idle Azure user accounts are automatically suspended past threshold. Non-MFA Azure user accounts are automatically suspended past the threshold. Alerts fire when an Azure root user account is used but the credentials are not updated within 7 days of utilisation.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p>For more information on MFA, see the <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-Factor Authentication
+guidance</xref>.</p>
+      </body>
+    </topic>
+    <topic id="advanced-threat-protection">
+      <title>Advanced threat protection</title>
+      <body>
+        <p>Leverage Azure to identify and resolve vulnerabilities, assess threats
+efficiently, and ultimately focus on real threats.</p>
+        <table>
+          <tgroup cols="3">
+            <colspec colname="col1" colnum="1"/>
+            <colspec colname="col2" colnum="2"/>
+            <colspec colname="col3" colnum="3"/>
+            <thead>
+              <row>
+                <entry colname="col1">What <ph conref="conrefs.dita#conrefs/policymust"/> be in place</entry>
+                <entry colname="col2">Monitoring</entry>
+                <entry colname="col3">Resolution or escalation if baseline is broken or violated</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1"><xref format="html" scope="external" href="https://azure.microsoft.com/en-gb/services/security-center/#overview">Azure Security Center</xref> is enabled.</entry>
+                <entry colname="col2">Security management system that strengthens the security posture of your data centers, and provides advanced threat protection across your Azure workloads in the cloud.</entry>
+                <entry colname="col3">Protection is automatically re-enabled.</entry>
+              </row>
+              <row>
+                <entry colname="col1"><xref format="html" scope="external" href="https://docs.microsoft.com/en-us/azure/security-center/azure-defender">Azure Defender</xref> is part of the Azure Security Center and <ph conref="conrefs.dita#conrefs/policyshould"/> also be enabled.</entry>
+                <entry colname="col2">Alerts fire when Defender for Identity is not enabled in an <ph conref="conrefs.dita#conrefs/moj"/> Azure account.</entry>
+                <entry colname="col3">Protection is automatically re-enabled.</entry>
+              </row>
+              <row>
+                <entry colname="col1">Enable Azure Bastion or Just in Time (JIT) for VM access for new services.</entry>
+                <entry colname="col2">Requests are logged in Azure Activity Log, to monitor and audit access.</entry>
+                <entry colname="col3">Protection is automatically re-enabled.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </body>
+    </topic>
+    <topic id="firewall">
+      <title>Firewall</title>
+      <body>
+        <p>Leverage Azure for protection of your web applications from common
+exploits and vulnerabilities.</p>
+        <table>
+          <tgroup cols="3">
+            <colspec colname="col1" colnum="1"/>
+            <colspec colname="col2" colnum="2"/>
+            <colspec colname="col3" colnum="3"/>
+            <thead>
+              <row>
+                <entry colname="col1">What <ph conref="conrefs.dita#conrefs/policymust"/> be in place</entry>
+                <entry colname="col2">Monitoring</entry>
+                <entry colname="col3">Resolution or escalation if baseline is broken or violated</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">Web Application Firewall (<xref format="html" scope="external" href="https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview">WAF</xref>) is enabled.</entry>
+                <entry colname="col2">Web applications are increasingly targeted by malicious attacks that exploit commonly known vulnerabilities. SQL injection and cross-site scripting are among the most common attacks.</entry>
+                <entry colname="col3">Protection is automatically re-enabled.</entry>
+              </row>
+              <row>
+                <entry colname="col1"><xref format="html" scope="external" href="https://docs.microsoft.com/en-us/azure/firewall/overview">Azure Firewall</xref> is a managed, cloud-based network security service that protects your Azure Virtual Network resources.</entry>
+                <entry colname="col2">Centrally create, enforce, and log application and network connectivity policies across subscriptions and virtual networks.</entry>
+                <entry colname="col3">Protection is automatically re-enabled.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </body>
+    </topic>
+    <topic id="monitor">
+      <title>Monitor</title>
+      <body>
+        <p>Leverage the Azure solution for collecting, analyzing, and acting on
+telemetry from your cloud and on-premises environments.</p>
+        <table>
+          <tgroup cols="3">
+            <colspec colname="col1" colnum="1"/>
+            <colspec colname="col2" colnum="2"/>
+            <colspec colname="col3" colnum="3"/>
+            <thead>
+              <row>
+                <entry colname="col1">What <ph conref="conrefs.dita#conrefs/policymust"/> be in place</entry>
+                <entry colname="col2">Monitoring</entry>
+                <entry colname="col3">Resolution or escalation if baseline is broken or violated</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1"><xref href="https://azure.microsoft.com/en-gb/services/monitor/" format="html" scope="external">Monitor</xref> is enabled within all subscriptions, all of the time.</entry>
+                <entry colname="col2">Alerts fire when Monitor is not enabled in an <ph conref="conrefs.dita#conrefs/moj"/> Azure resource.</entry>
+                <entry colname="col3">Monitor is automatically re-enabled.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </body>
+    </topic>
+    <topic id="advisor">
+      <title>Advisor</title>
+      <body>
+        <p>Leverage Azure's native configuration activity audit platform to capture
+what changes are being made to Azure configurations.</p>
+        <table>
+          <tgroup cols="3">
+            <colspec colname="col1" colnum="1"/>
+            <colspec colname="col2" colnum="2"/>
+            <colspec colname="col3" colnum="3"/>
+            <thead>
+              <row>
+                <entry colname="col1">What <ph conref="conrefs.dita#conrefs/policymust"/> be in place</entry>
+                <entry colname="col2">Monitoring</entry>
+                <entry colname="col3">Resolution or escalation if baseline is broken or violated</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1"><xref href="https://azure.microsoft.com/en-gb/services/advisor/" format="html" scope="external">Advisor</xref> is enabled within all accounts, all of the time.</entry>
+                <entry colname="col2">Alerts fire when it identifies new and available recommendations.</entry>
+                <entry colname="col3">Advisor is automatically scanning the estate for vulnerabilities and areas of concern. Monitor them and review. Security or high impact alerts should be remediated and escalated to senior management.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </body>
+    </topic>
+    <topic id="regions">
+      <title>Regions</title>
+      <body>
+        <p>Do not use Non-UK Azure regions for strategic compliance and performance
+reasons.</p>
+        <table>
+          <tgroup cols="3">
+            <colspec colname="col1" colnum="1"/>
+            <colspec colname="col2" colnum="2"/>
+            <colspec colname="col3" colnum="3"/>
+            <thead>
+              <row>
+                <entry colname="col1">What <ph conref="conrefs.dita#conrefs/policymust"/> be in place</entry>
+                <entry colname="col2">Monitoring</entry>
+                <entry colname="col3">Resolution or escalation if baseline is broken or violated</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">An Azure subscription <ph conref="conrefs.dita#conrefs/policyshallnot"/> create resources outside of Azure UK regions.</entry>
+                <entry colname="col2">Alerts fire when non-UK resources are created, to both the infrastructure teams and resource creator.</entry>
+                <entry colname="col3">Non-UK resources are automatically and forcefully shut down after 12 hours.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </body>
+    </topic>
+    <topic id="encryption">
+      <title>Encryption</title>
+      <body>
+        <p>Leverage native Azure configuration options to make reasonable efforts
+to protect data.</p>
+        <table>
+          <tgroup cols="3">
+            <colspec colname="col1" colnum="1"/>
+            <colspec colname="col2" colnum="2"/>
+            <colspec colname="col3" colnum="3"/>
+            <thead>
+              <row>
+                <entry colname="col1">What <ph conref="conrefs.dita#conrefs/policymust"/> be in place</entry>
+                <entry colname="col2">Monitoring</entry>
+                <entry colname="col3">Resolution or escalation if baseline is broken or violated</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1"><xref format="html" scope="external" href="https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption">Azure Storage Service Encryption</xref> - protect and safeguard your data and meet your organizational security and compliance commitments.</entry>
+                <entry colname="col2">Blob Storage without suitable encryption enabled are alerted to the resource creator and account owner.</entry>
+                <entry colname="col3">After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting, <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security and <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security.</entry>
+              </row>
+              <row>
+                <entry colname="col1">Manage <xref format="html" scope="external" href="https://docs.microsoft.com/en-us/azure/virtual-machines/disk-encryption-overview">Encryption</xref> for data storage.</entry>
+                <entry colname="col2">Storage without suitable encryption enabled is alerted to the resource owner and account owner.</entry>
+                <entry colname="col3">After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting, <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security and <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security.</entry>
+              </row>
+              <row>
+                <entry colname="col1"><xref format="html" scope="external" href="https://azure.microsoft.com/en-gb/services/key-vault/">Key Vault</xref> - Provides security solution and works with other services by providing a way to manage, create, and control encryption keys.</entry>
+                <entry colname="col2">Azure Key vault triggers events when the status of a secret stored in the key vault has changed.</entry>
+                <entry colname="col3">After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting, <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security and <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </body>
+    </topic>
+    <topic id="public--world-access">
+      <title>Public / 'World' Access</title>
+      <body>
+        <p>Ensure that public access to Azure data storage and compute is
+intentional, to avoid the 'leaky bucket' problem, and to aid attack
+surface minimisation.</p>
+        <table>
+          <tgroup cols="3">
+            <colspec colname="col1" colnum="1"/>
+            <colspec colname="col2" colnum="2"/>
+            <colspec colname="col3" colnum="3"/>
+            <thead>
+              <row>
+                <entry colname="col1">What <ph conref="conrefs.dita#conrefs/policymust"/> be in place</entry>
+                <entry colname="col2">Monitoring</entry>
+                <entry colname="col3">Resolution or escalation if baseline is broken or violated</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">All Azure Data Storage objects should be not world (public) readable unless specifically intended to do so.</entry>
+                <entry colname="col2">Data Storage objects are programmatically reviewed (including 'open' ones) against the source infrastructure-as-code, if there is a mismatch the resource creator and the Azure account owner are notified.</entry>
+                <entry colname="col3">After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security. After 7 days, the Data Storage object permissions are forcefully and automatically changed to remove 'world' access.</entry>
+              </row>
+              <row>
+                <entry colname="col1">Compute instances should not be directly accessible from public networks unless through specific intentional design and should be behind a firewall (Azure based technology). It <ph conref="conrefs.dita#conrefs/policymust"/> be truly exceptional for common service ports (for example, TCP80 or TCP443) to be served directly from compute resources.</entry>
+                <entry colname="col2">Compute instances are programmatically reviewed to ensure they are not internet-accessible unless explicitly designed and documented to be so. If there is a mismatch the resource creator and the Azure account owner are notified.</entry>
+                <entry colname="col3">After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting and <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security. After 7 days, the relevant security groups are forcefully and automatically changed to remove 'world' access.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </body>
+    </topic>
+  </topic>
+  <topic id="implementation">
+    <title>Implementation</title>
+    <body>
+      <p><xref href="https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-as-code" format="html" scope="external">Infrastructure as Code</xref>
+(IaC) is the preferred method for initiating Services to encourage swift
+and predefined deployment.</p>
+      <table>
+        <tgroup cols="3">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col3" colnum="3"/>
+          <thead>
+            <row>
+              <entry colname="col1">What <ph conref="conrefs.dita#conrefs/policymust"/> be in place</entry>
+              <entry colname="col2">Monitoring</entry>
+              <entry colname="col3">Resolution or escalation if baseline is broken or violated</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">All Azure Services <ph conref="conrefs.dita#conrefs/policymust"/> be defined in a IaC format.</entry>
+              <entry colname="col2">Ensure IaC is maintained as reflects the current service.</entry>
+              <entry colname="col3">7 days to correct and replace IaC data.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </body>
+  </topic>
+  <topic id="tagging">
+    <title>Tagging</title>
+    <body>
+      <p>Assigning tags to Azure resources is essential in creating a
+well-organised and transparent classification, and achieving significant
+cloud cost optimisation. When implemented, this practice can provide a
+consistent basis for applying policies across the organisation.</p>
+      <table>
+        <tgroup cols="3">
+          <colspec colname="col1" colnum="1"/>
+          <colspec colname="col2" colnum="2"/>
+          <colspec colname="col3" colnum="3"/>
+          <thead>
+            <row>
+              <entry colname="col1">What <ph conref="conrefs.dita#conrefs/policymust"/> be in place</entry>
+              <entry colname="col2">Monitoring</entry>
+              <entry colname="col3">Resolution or escalation if baseline is broken or violated</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">All Azure Assets <ph conref="conrefs.dita#conrefs/policymust"/> be <xref href="https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources?tabs=json" format="html" scope="external">Tagged</xref>.</entry>
+              <entry colname="col2">Report created to show missing Tags for relaying to Service Owners</entry>
+              <entry colname="col3">Best Practice to apply.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </body>
+  </topic>
+	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

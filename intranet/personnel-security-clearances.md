@@ -14,7 +14,7 @@ The [Baseline Personnel Security Standard (BPSS) is published on GOV.UK](https:/
 
 * **[National Security Vetting for External Candidates FAQ](national-security-vetting-for-external-candidates-faq.md)**  
 
-* **[National security vetting contact](national-security-vetting-contact.md)**  
+* **[National Security Vetting contact](national-security-vetting-contact.md)**  
 
 * **[National Security Vetting questions](national-security-vetting-questions.md)**  
 
@@ -29,6 +29,8 @@ The [Baseline Personnel Security Standard (BPSS) is published on GOV.UK](https:/
 * **[Reporting personal circumstance changes](reporting-personal-circumstance-changes.md)**  
 
 * **[Security clearance appeals policy](security-clearance-appeals-policy.md)**  
+
+* **[Security clearance appeals procedures](security-clearance-appeals-procedures.md)**  
 
 * **[Security vetting assessment of need](security-vetting-assessment-need.md)**  
 

@@ -90,6 +90,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" type="topic"/>
 			<topicref href="reporting-personal-circumstance-changes.dita" type="topic"/>
 			<topicref href="security-clearance-appeals-policy.dita" type="topic"/>
+			<topicref href="security-clearance-appeals-procedures.dita" type="topic"/>
 			<topicref href="security-vetting-assessment-need.dita" type="topic"/>
 			<topicref href="voluntary-drug-testing-policy.dita" type="topic"/>
 			<topicref href="voluntary-drug-testing-policy-procedures.dita" type="topic"/>
@@ -112,10 +113,5 @@ if an audience attribute is present, then only matching content is included.
 	<topichead>
 		<topicmeta><navtitle>Training and education</navtitle></topicmeta>
 		<topicref href="training-and-education.dita" type="topic"/>
-	</topichead>
-	<topichead>
-		<topicmeta><navtitle>Physical security</navtitle></topicmeta>
-		<topicref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" type="topic"/>
-		<topicref href="physical-security-policy.dita" type="topic"/>
 	</topichead>
 </map>

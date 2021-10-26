@@ -4,7 +4,7 @@
 # (https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid).
 
 # Run from within the buildUtils folder:
-# sh ./detectAvoidWords.sh
+# bash ./detectAvoidWords.sh
 
 # Also added avoid words, to improve accessibility:
 #  above
@@ -53,7 +53,7 @@ declare -a avoidList=(
 )
 
 function changedFiles {
-  find ../docs ../ktt -iname "*.md"
+  find ../docs ../intranet/ost ../ktt -iname "*.md"
 }
 
 function check {

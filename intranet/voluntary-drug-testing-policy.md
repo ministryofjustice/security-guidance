@@ -10,7 +10,7 @@ This policy **SHOULD** be read in conjunction with the [Voluntary Drug Testing P
 
 ##Purpose
 
-Substance misuse threatens the efficiency and delivery of business. It might impair judgment and affect an employee's ability to carry out their role and responsibilities effectively and to the standard expected from HMG and the public.
+Substance misuse threatens the efficiency and delivery of business. It might impair judgement and affect an employee's ability to carry out their role and responsibilities effectively and to the standard expected from HMG and the public.
 
 Additionally, it might make an individual vulnerable by leaving them open to pressure, inducement, or blackmail. It might also affect their suitability to continue to hold security clearance.
 

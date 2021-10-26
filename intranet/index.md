@@ -14,7 +14,7 @@
         -   [Information classification, handling and security guide](information-classification-handling-and-security-guide.md)
         -   [Guidance on IT Accounts and Assets for Long Term Leave](long-term-leave.md)
         -   [OFFICIAL, OFFICIAL-SENSITIVE](official-official-sensitive.md)
-        -   [Personal device use](personal-devices.md)
+        -   [Personal devices](personal-devices.md)
         -   [Protecting social media accounts](protecting-social-media-accounts.md)
         -   [Protect yourself online](protect-yourself-online.md)
         -   [Ransomware](ransomware.md)
@@ -39,8 +39,8 @@
 * Remote working
     * [Remote Working](remote-working.md)
     * Overseas travel
-        -   [Accessing Ministry of Justice (MoJ) IT systems overseas](accessing-moj-it-systems-from-overseas.md)
-        -   [Taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
+        -   [Accessing Ministry of Justice (MoJ) IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
+        -   [General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
         -   [Overseas travel](overseas-travel.md)
 * Risk assessment
     * [Risk assessment](risk-reviews.md)
@@ -51,7 +51,7 @@
         -   [Leavers with NSC and NSVCs](leavers-with-nsc-and-nscvs.md)
         -   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
         -   [National Security Vetting for External Candidates FAQ](national-security-vetting-for-external-candidates-faq.md)
-        -   [National security vetting contact](national-security-vetting-contact.md)
+        -   [National Security Vetting contact](national-security-vetting-contact.md)
         -   [National Security Vetting questions](national-security-vetting-questions.md)
         -   [Ongoing Personnel Security](ongoing-personnel-security.md)
         -   [Personnel risk assessment](personnel-risk-assessment.md)
@@ -59,6 +59,7 @@
         -   [Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)
         -   [Reporting personal circumstance changes](reporting-personal-circumstance-changes.md)
         -   [Security clearance appeals policy](security-clearance-appeals-policy.md)
+        -   [Security clearance appeals procedures](security-clearance-appeals-procedures.md)
         -   [Security vetting assessment of need](security-vetting-assessment-need.md)
         -   [Voluntary drug testing policy](voluntary-drug-testing-policy.md)
         -   [Voluntary drug testing policy procedures](voluntary-drug-testing-policy-procedures.md)
@@ -76,7 +77,4 @@
     * [Avoiding too much security](setecastronomy.md)
 * Training and education
     * [Training and Education](training-and-education.md)
-* Physical security
-    * [Personal mail and parcel delivery policy and procedure](personal-mail-and-parcel-delivery-policy-and-procedure.md)
-    * [Physical Security Policy](physical-security-policy.md)
 

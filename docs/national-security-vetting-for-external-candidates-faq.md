@@ -1,6 +1,6 @@
 # National Security Vetting for External Candidates FAQ
 
-This document provides recruiting managers with answers to frequently-asked questions regarding national security vetting for external candidates.
+This document provides recruiting managers with answers to frequently-asked questions regarding National Security Vetting for external candidates.
 
 The processes described in this document are under continual review as part of the Ministry of Justice \(MoJ\) "simpler processes" activities. These FAQs will be updated as required.
 
