@@ -29,6 +29,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta><navtitle>Prior to employment</navtitle></topicmeta>
 			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
 			<topicref href="national-security-vetting-for-external-candidates-faq.dita" type="topic"/>
+			<topicref href="national-security-vetting-contact.dita" type="topic"/>
 			<topicref href="national-security-vetting-questions.dita" type="topic"/>
 			<topicref href="pre-employment-screening.dita" type="topic"/>
 			<topicref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" type="topic"/>

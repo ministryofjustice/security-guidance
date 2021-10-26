@@ -5,15 +5,15 @@
   <body>
     <p>The processes described in this document are under review as part of <ph conref="conrefs.dita#conrefs/mojlong"/>
       "simpler processes" activities and these FAQs will be updated as required.</p>
-    <p>A downloadable version of this document is available <xref href="file:///./gs/national-security-vetting-questions.docx" format="docx" scope="external">here</xref>.</p>
+    <p>A downloadable version of this document is available <xref href="file:///./gs/national-security-vetting-questions.docx" format="docx" scope="external" platform="html">here</xref><xref href="https://security-guidance.service.justice.gov.uk/gs/national-security-vetting-questions.docx" format="docx" scope="external" platform="epub pdf">here</xref>.</p>
   </body>
   <topic id="national-security-vetting">
-    <title>National security vetting</title>
+    <title>National Security Vetting</title>
     <body/>
     <topic id="what-is-national-security-vetting">
-      <title>What is national security vetting?</title>
+      <title>What is National Security Vetting?</title>
       <body>
-        <p>There are three levels of national security vetting (NSV) or clearance:
+        <p>There are three levels of National Security Vetting (NSV) or clearance:
         <ul>
           <li>Counter Terrorist Check (CTC).</li>
           <li>Security Check (SC)</li>

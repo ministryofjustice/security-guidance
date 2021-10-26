@@ -14,7 +14,7 @@ This guidance applies to all staff and contractors who work for the Ministry of 
 
 The `SENSITIVE` handling caveat is a *reminder* as opposed to a requirement for a minimum set of additional controls.
 
-It **SHOULD** be possible to show who has access to `OFFICIAL-SENSITIVE` material. It **SHOULD** also be possible to show who has accessed `OFFICIAL-SENSITIVE` material. Storing or sharing `OFFICIAL-SENSITIVE` **SHOULD** take place in a manner or form that supports the more careful handling and access auditing of the information. For this reason, `OFFICIAL-SENSITIVE` material **SHOULD NOT** be stored on the MoJ Intranet.
+It **SHOULD** be possible to show who has access to `OFFICIAL-SENSITIVE` material. It **SHOULD** also be possible to show who has accessed `OFFICIAL-SENSITIVE` material. Storing or sharing `OFFICIAL-SENSITIVE` **SHOULD** take place in a manner or form that supports the more careful handling and access auditing of the information. For this reason, `OFFICIAL-SENSITIVE` material **SHOULD NOT** be stored on the Ministry of Justice \(MoJ\) Intranet.
 
 You **SHOULD NOT** email `OFFICIAL-SENSITIVE` material from your MoJ email account to your personal email account.
 

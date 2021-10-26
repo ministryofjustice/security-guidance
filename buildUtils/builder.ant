@@ -30,8 +30,9 @@
 	<property name="intranet" location="intranet"/>
 	<property name="images" location="images"/>
 	<property name="jekyll-baseline" location="jekyll-baseline"/>
-	<!--
+	<property name="hmcts" location="hmcts"/>
 	<property name="ost" location="ost"/>
+	<!--
 	<property name="ostbuild" location="${docs}/ost"/>
 	<property name="culture" location="culture"/>
 	<property name="culturebuild" location="${docs}/culture"/>
@@ -45,6 +46,7 @@
 			description="clean up">
 		<!-- Delete all the output folders, to ensure clean output. -->
 		<delete dir="${ditabuild}"/>
+		<delete dir="${build}"/>
 		<delete dir="${docs}"/>
 		<delete dir="${intranet}"/>
 	</target>
@@ -54,6 +56,31 @@
 		<mkdir dir="${ditabuild}"/>
 		<copy todir="${ditabuild}" >
 			<fileset dir="${ditasrc}"/>
+		</copy>
+		<copy todir="${ditabuild}/ost" >
+			<fileset dir="${ost}"/>
+		</copy>
+		<!--
+		<ant antfile="${dita.dir}/build.xml">
+			<property name="args.input" value="${ost}/ost.ditamap"/>
+			<!__
+			<property name="args.filter" value="${ditabuild}/github.ditaval:${ditabuild}/html.ditaval:${ditabuild}/audience-tech.ditaval"/>
+			__>
+			<property name="output.dir" location="${ditabuild}/ost"/>
+			<property name="transtype" value="dita"/>
+		</ant>
+		<replaceregexp match=' specializations=""' replace="" flags="g" >
+			<fileset dir="${ditabuild}/ost" includes="**/*.md"/>
+		</replaceregexp>
+		<move todir="${ditabuild}/ost">
+			<fileset dir="${ditabuild}/ost">
+				<exclude name="**/*dita*"/>
+			</fileset>
+			<mapper type="glob" from="*.md" to="*.dita"/>
+		</move>
+		-->
+		<copy todir="${ditabuild}/hmcts" >
+			<fileset dir="${hmcts}"/>
 		</copy>
 		<!-- Create the time stamp -->
 		<tstamp>
@@ -184,6 +211,10 @@
 		</replaceregexp>
 		<replaceregexp match="file\:///" replace="" flags="g" >
 			<fileset dir="${build}" includes="**/*.md"/>
+		</replaceregexp>
+		<replaceregexp match="\(downloads" replace="\(../downloads" flags="g" >
+			<fileset dir="${build}/ost" includes="**/*.md"/>
+			<fileset dir="${build}/hmcts" includes="**/*.md"/>
 		</replaceregexp>
 	</target>
 

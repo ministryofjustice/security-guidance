@@ -14,13 +14,16 @@
     <title>Key points</title>
     <body>
       <ul>
-        <li>Be professional, and help keep <ph conref="conrefs.dita#conrefs/mojlong"/> information and resources safe and secure at all times.</li>
-        <li>Think about where you are working, for example - can other people or family see what you are working on? Be thoughtful about information privacy.</li>
-        <li>Never send work material to personal email accounts.</li>
-        <li>Keep <ph conref="conrefs.dita#conrefs/moj"/> accounts and password information secure.</li>
-        <li>Take care of your equipment. Devices are more likely to be stolen or lost when working away from the office or home.</li>
-        <li>Do not leave <ph conref="conrefs.dita#conrefs/moj"/> equipment unattended.</li>
-        <li>Get in touch quickly to report problems or security questions.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Be professional, and help keep <ph conref="conrefs.dita#conrefs/mojlong"/> information and resources safe and secure at all times.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Think about where you are working, for example - can other people or family see what you are working on? Be thoughtful about information privacy.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Keep <ph conref="conrefs.dita#conrefs/moj"/> accounts and password information secure.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Take care of your equipment. Devices are more likely to be stolen or lost when working away from the office or home.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Get in touch quickly to report problems or security questions.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Use the VPN if you are handling sensitive <ph conref="conrefs.dita#conrefs/moj"/> information,
+          or connecting to <ph conref="conrefs.dita#conrefs/moj"/> systems from a remote location.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Send work material to personal email accounts.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Use personal devices or accounts for work purposes - the exception is that a home wifi connection may be used to connect <ph conref="conrefs.dita#conrefs/moj"/> equipment.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Leave <ph conref="conrefs.dita#conrefs/moj"/> equipment unattended.</li>
       </ul>
     </body>
   </topic>
@@ -47,44 +50,27 @@
     <title>Protecting your workspace and equipment</title>
     <body>
       <p>Remote working is when you work from any non-<ph conref="conrefs.dita#conrefs/moj"/> location, for example, working at home. It's important to think about confidentiality, integrity and availability aspects as you work. This means protecting equipment, and the area where you work.</p>
-      <p><b>Always:</b>
       <ul>
-        <li>Keep <ph conref="conrefs.dita#conrefs/moj"/> equipment and information safe and secure.</li>
-        <li>Protect <ph conref="conrefs.dita#conrefs/moj"/> information from accidental access by unauthorised people.</li>
-        <li>Lock or log off your device when leaving it unattended. For long periods of non-use, shut down your device.</li>
-        <li>Ensure that your devices are powered off when you first enter a country when travelling outside the UK.</li>
-        <li>Keep your workspace clear and tidy.
-          Follow a '<xref href="clear-screen-and-desk.dita" format="dita">clear desk policy</xref>' for information,
-          including paperwork,
-          to ensure <ph conref="conrefs.dita#conrefs/moj"/> information isn't seen by unauthorised people.</li>
-        <li>Use <ph conref="conrefs.dita#conrefs/moj"/> IT equipment for business purposes in preference to your own equipment such as laptops or printers.</li>
-        <li>Be wary of anyone overlooking or eavesdropping what you are doing.
-        Consider whether you, or the <ph conref="conrefs.dita#conrefs/moj"/> information,
-          might be Overseen, Overheard, or Overshared.</li>
-        <li>Protect chargers and other computer accessories, especially <ph conref="conrefs.dita#conrefs/moj"/> equipment,
-          when travelling. This is to prevent them from being tampered with.
-          Keep them secure and out of sight as much as possible, for example in your hand luggage or on your person.</li>
-        <li>Avoid using Hotel or other public wifi spots.
-          They are not secure and can potentially monitor your equipment and information.
-          Instead, you should use a mobile data (4G) connection.</li>
-        <li>Ensure that a laptop BitLocker PIN or similar access control is enabled.</li>
-      </ul></p>
-      <p><b>Never:</b>
-      <ul>
-        <li>Let family or other unauthorised people use <ph conref="conrefs.dita#conrefs/moj"/> equipment.</li>
-        <li>Leave equipment unattended.</li>
-        <li>Work on sensitive information in public spaces, or where your equipment can be overlooked by others.</li>
-        <li>Advertise the fact that you work with <ph conref="conrefs.dita#conrefs/moj"/> materials.</li>
-        <li>Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.</li>
-        <li>Send your work material to your personal devices or your personal email address.</li>
-        <li>Redirect print jobs from <ph conref="conrefs.dita#conrefs/moj"/> printers to a personal printer.</li>
-        <li>Use public 'charging stations' provided at airports, conference venues, hotels, or similar public locations.
-          They might be used to upload malicious software onto your device.</li>
-        <li>Connect <ph conref="conrefs.dita#conrefs/moj"/> equipment to vehicles,
-          using either USB or Bluetooth.
-          These connections can download information from the device or upload malicious software.</li>
-        <li>Connect to <ph conref="conrefs.dita#conrefs/moj"/> systems or services through Hotel or other public wifi spots without using a VPN.</li>
-      </ul></p>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Keep <ph conref="conrefs.dita#conrefs/moj"/> equipment and information safe and secure.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Protect <ph conref="conrefs.dita#conrefs/moj"/> information from accidental access by unauthorised people.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Lock or log off your device when leaving it unattended. For long periods of non-use, shut down your device.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Ensure that your devices are powered off when you first enter a country when travelling outside the UK.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Keep your workspace clear and tidy. Follow a '<xref href="clear-screen-and-desk.dita" format="dita">clear desk policy</xref>' for information, including paperwork, to ensure <ph conref="conrefs.dita#conrefs/moj"/> information isn't seen by unauthorised people.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Use <ph conref="conrefs.dita#conrefs/moj"/> IT equipment for business purposes in preference to your own equipment such as laptops or printers.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Be wary of anyone overlooking or eavesdropping what you are doing. Consider whether you, or the <ph conref="conrefs.dita#conrefs/moj"/> information, might be Overseen, Overheard, or Overshared.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Protect chargers and other computer accessories, especially <ph conref="conrefs.dita#conrefs/moj"/> equipment, when travelling. This is to prevent them from being tampered with. Keep them secure and out of sight as much as possible, for example in your hand luggage or on your person.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Ensure that a laptop BitLocker PIN or similar access control is enabled.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Avoid using <xref href="#using-public-wifi-or-internet-and-home-broadband" format="dita">Hotel or other public wifi spots</xref>. They are not secure and can potentially monitor your equipment and information. Instead, you should use an <ph conref="conrefs.dita#conrefs/moj"/>-provided mobile data (4G) connection.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Let family or other unauthorised people use <ph conref="conrefs.dita#conrefs/moj"/> equipment.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Leave equipment unattended.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Work on sensitive information in public spaces, or where your equipment can be seen by others.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Advertise the fact that you work with <ph conref="conrefs.dita#conrefs/moj"/> materials. However, pre-installed materials such as backgrounds provided as standard with <ph conref="conrefs.dita#conrefs/moj"/> equipment are acceptable.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Take part in conference or video calls when you are in public or shared spaces such as cafes or waiting rooms.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Send your work material to your personal devices or your personal email address.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Redirect print jobs from <ph conref="conrefs.dita#conrefs/moj"/> printers to a personal printer.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Use public 'charging stations' provided at airports, conference venues, hotels, or similar public locations. They might be used to upload malicious software onto your device.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Connect <ph conref="conrefs.dita#conrefs/moj"/> equipment to vehicles, using either USB or Bluetooth. These connections can download information from the device or upload malicious software.</li>
+      </ul>
     </body>
   </topic>
   <topic id="working-securely">
@@ -98,32 +84,56 @@
       </ul>
       <p>Even when working remotely, you must still follow the security policies and operating procedures for <ph conref="conrefs.dita#conrefs/moj"/> systems you access and work with.</p>
     </body>
+    <topic id="using-public-wifi-or-internet-and-home-broadband">
+      <title>Using public wifi or internet, and home broadband</title>
+      <body>
+        <p>Some locations, such as hotels, coffee shops, or public transport, offer 'public' wifi or internet access.</p>
+        <p>The public services are usually offered for free. They only need you to agree to some terms of service.</p>
+        <p>While apparently convenient, these services can have some serious problems:
+          <ul>
+            <li>They have no security appropriate for protecting <ph conref="conrefs.dita#conrefs/moj"/> information.</li>
+            <li>There is no guarantee about keeping information transmitted through them private or confidential.</li>
+            <li>Public services are usually shared. This means that performance can often be very slow and unreliable.</li>
+          </ul></p>
+        <p>For these reasons:</p>
+        <ul>
+          <li><ph conref="conrefs.dita#conrefs/do"/> Avoid using public wifi or internet services for <ph conref="conrefs.dita#conrefs/moj"/> business.</li>
+          <li><ph conref="conrefs.dita#conrefs/do"/> Avoid connecting <ph conref="conrefs.dita#conrefs/moj"/> equipment to public wifi or internet services.</li>
+        </ul>
+        <p>If you need network access, but cannot connect to an <ph conref="conrefs.dita#conrefs/moj"/> network or home broadband service:</p>
+        <ul>
+          <li><ph conref="conrefs.dita#conrefs/do"/> Use an <ph conref="conrefs.dita#conrefs/moj"/> hotspot. This is usually provided on your <ph conref="conrefs.dita#conrefs/moj"/>-issued mobile device.</li>
+        </ul>
+        <p>If you need to use a public wifi or internet service, or home broadband, with your <ph conref="conrefs.dita#conrefs/moj"/> equipment, because you do not have  an <ph conref="conrefs.dita#conrefs/moj"/> hotspot, then:</p>
+        <ul>
+          <li><ph conref="conrefs.dita#conrefs/do"/> Connect using an <ph conref="conrefs.dita#conrefs/moj"/>-issued VPN. Before doing any work, check that the <ph conref="conrefs.dita#conrefs/moj"/>-issued VPN is working correctly.</li>
+        </ul>
+      </body>
+    </topic>
   </topic>
   <topic id="using-your-own-equipment">
     <title>Using your own equipment</title>
     <body>
       <p>The main guidance is available <xref href="personal-devices.dita" format="dita">here</xref>.</p>
-      <p>Wherever possible,
-        you <ph conref="conrefs.dita#conrefs/policyshould"/> always use official <ph conref="conrefs.dita#conrefs/moj"/> equipment for business purposes.</p>
-      <p>Never send your work material to your personal devices or your email accounts.</p>
-      <p>If you are working remotely, or do not have access to <ph conref="conrefs.dita#conrefs/moj"/> equipment, it might be tempting to use your own equipment, especially printers.
-        Avoid doing this.</p>
+      <ul>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Use official <ph conref="conrefs.dita#conrefs/moj"/> equipment for business purposes.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Send your work material to your personal devices or your email accounts.</li>
+      </ul>
+      <p>If you are working remotely, or do not have access to <ph conref="conrefs.dita#conrefs/moj"/> equipment, it might be tempting to use your own equipment, especially printers. Avoid doing this.</p>
     </body>
   </topic>
   <topic id="printing">
     <title>Printing</title>
     <body>
-      <p>The advice is to avoid printing anything when working remotely,
-        and in particular not to use personal printers.</p>
-      <p>However, if you really must print <ph conref="conrefs.dita#conrefs/moj"/> information, you:</p>
+      <p>The advice is to avoid printing anything when working remotely, and in particular not to use personal printers.</p>
+      <p>However, if you really must print <ph conref="conrefs.dita#conrefs/moj"/> information:</p>
       <ul>
-        <li><ph conref="conrefs.dita#conrefs/policyshould"/> connect directly to the printer using USB, not wifi.</li>
-        <li><ph conref="conrefs.dita#conrefs/policyshouldnot"/> print out personal information relating to others.</li>
-        <li><ph conref="conrefs.dita#conrefs/policyshouldnot"/> redirect print jobs from
-          an <ph conref="conrefs.dita#conrefs/moj"/> printer to a personal printer.</li>
-        <li><ph conref="conrefs.dita#conrefs/policyshould"/> consult the information asset owner or line manager before printing the information.</li>
-        <li><ph conref="conrefs.dita#conrefs/policyshall"/> store any and all printed materials safely and securely until you return to <ph conref="conrefs.dita#conrefs/moj"/> premises, when they must be disposed of or filed appropriately.</li>
-        <li><ph conref="conrefs.dita#conrefs/policyshallnot"/> dispose of <ph conref="conrefs.dita#conrefs/moj"/> information in your home rubbish or recycling.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Connect directly to the printer using USB, not wifi.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Consult the information asset owner or line manager before printing the information.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Store any and all printed materials safely and securely until you return to <ph conref="conrefs.dita#conrefs/moj"/> premises, when they must be disposed of or filed appropriately.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Print out personal information relating to others.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Redirect print jobs from an <ph conref="conrefs.dita#conrefs/moj"/> printer to a personal printer.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Dispose of unshredded <ph conref="conrefs.dita#conrefs/moj"/> information in your home rubbish or recycling. Use a cross-cut shredder to destroy printed materials securely, before disposal at non-<ph conref="conrefs.dita#conrefs/moj"/> locations.</li>
       </ul>
       <p>Basically, think before you print.</p>
     </body>
@@ -135,9 +145,9 @@
       <p>Be aware of your working environment when you work with <ph conref="conrefs.dita#conrefs/moj"/> information. If anyone might see the data, or hear you talk about it as you use it, that could cause privacy problems. Be aware of SMART devices around your remote location, and ensure they are switched off if conducting video or voice communications.</p>
       <p>Guidance and suggestions for improving Privacy appear throughout this guide, but it's worthwhile highlighting these points:</p>
       <ul>
-        <li>Lock your computer, even when unattended for short periods.</li>
-        <li>Think about whether an unauthorised person, such as a family member, might see the information you are working with.</li>
-        <li>Don't write down passwords. Use a password manager.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Lock your computer, even when unattended for short periods.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Think about whether an unauthorised person, such as a family member, might see the information you are working with.</li>
+        <li><ph conref="conrefs.dita#conrefs/donot"/> Write down passwords. Use a password manager.</li>
       </ul>
     </body>
   </topic>

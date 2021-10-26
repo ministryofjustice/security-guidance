@@ -31,7 +31,7 @@ Evidence is analysed to determine confidence that the evidence demonstrates the 
 
 The MCSS/CSPs have been distilled into 39 objectives. The Assessor \(normally a cyber security professional\) completes the SAT by evaluating the target system against the objectives.
 
-The [categories used within the MCSS](identify-protect-detect-respond-recover.md) are discussed seperately.
+The [categories used within the MCSS](identify-protect-detect-respond-recover.md) are discussed separately.
 
 Objectives are templated. This means they can be added to but existing objectives must not be deleted or edit in-place.
 
@@ -164,7 +164,7 @@ Using the [categories used within the MCSS](identify-protect-detect-respond-reco
 
 -   How does the system, and accompanying operational support teams, know/detect when the system is under attack?
 
--   How is access to the system \(both authorsed and unauthorised\) logged so retrospective investigations can take place to determine 'who did what when'?
+-   How is access to the system \(both authorised and unauthorised\) logged so retrospective investigations can take place to determine 'who did what when'?
 
 -   How is the required level of detail in logs determined? How long are log files retained?
 
