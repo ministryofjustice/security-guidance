@@ -1128,6 +1128,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="sending-information-securely.dita" format="dita">Sending information securely</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="spam-and-phishing-guide.dita" format="dita">Spam and Phishing Guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>

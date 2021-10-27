@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="sending-information-securely">
+  <title>Sending information securely</title>
+  <body/>
+  <topic id="audience">
+    <title>Audience</title>
+    <body>
+      <p>This guidance complements the <ph conref="conrefs.dita#conrefs/mojlong"/> overall security policy.</p>
+      <p>This working securely with paper document and files guidance applies to all employees, contractors, partners and service providers, including those on co-located sites and sites owned by other public bodies. This also includes employees of other organisations who are based in, or work at, <ph conref="conrefs.dita#conrefs/moj"/> occupied premises.</p>
+      <p>Agencies and arm's length bodies (ALBs) are expected to comply with this corporate framework but may establish their own arrangements tailored to operational needs and should supplement it with local policy or guidance for any business-specific risk.</p>
+    </body>
+  </topic>
+  <topic id="objective">
+    <title>Objective</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> requires employees and contractors to get into the habit of looking after the information that they work with, whether it's on paper or stored electronically, in the same way they would take care of their valuables.</p>
+    </body>
+  </topic>
+  <topic id="scope-and-definition">
+    <title>Scope and Definition</title>
+    <body>
+      <p>This guidance helps you understand the risks involved in sending information. It covers any information that relates to the business of the <ph conref="conrefs.dita#conrefs/moj"/>, its stakeholders and partners that have been printed out or written down on paper and information that has been downloaded from IT systems onto 'removable media'.</p>
+      <p>This guidance outlines the all the basic guidance on sending information using email, post, courier services and fax.</p>
+    </body>
+  </topic>
+  <topic id="context">
+    <title>Context</title>
+    <body>
+      <p>All <ph conref="conrefs.dita#conrefs/moj"/> information is valuable, and staff are expected to protect everything that relates to the department's business, including information provided others. This applies to all information, not just information that is covered by the Data Protection Act or classified under the government-wide security classification system.</p>
+      <p>There are different rules for managing and protecting different kinds of paper-based information. You need to know how to:</p>
+      <ul>
+        <li>
+          <p>Identify the correct security level for the information you work with.</p>
+        </li>
+        <li>
+          <p>Handle it according to the relevant rules.</p>
+        </li>
+      </ul>
+    </body>
+    <topic id="responsibilities">
+      <title>Responsibilities</title>
+      <body>
+        <p>All employees, contractors, partners, service providers and employees of other organisations who are on <ph conref="conrefs.dita#conrefs/moj"/> premises and co-located sites remain accountable for the security, health and safety of themselves, colleagues and the protection of departmental assets.</p>
+      </body>
+    </topic>
+    <topic id="policy-statements">
+      <title>Policy statements</title>
+      <body/>
+      <topic id="using-email">
+        <title>Using email</title>
+        <body>
+          <p>Email is the preferred option for securely transferring information between yourself and another civil servant. You <ph conref="conrefs.dita#conrefs/policymust"/> use departmental equipment and transfer between <ph conref="conrefs.dita#conrefs/official"/> or CJSM email accounts. If the person or organisation you are sending the information to is outside departmental <ph conref="conrefs.dita#conrefs/official"/> or CJSM networks, you <ph conref="conrefs.dita#conrefs/policymust"/> consider the sensitivity of the information. It might be safer to send it on encrypted removable media or in hardcopy.</p>
+        </body>
+      </topic>
+      <topic id="sending-bulk-information">
+        <title>Sending bulk information</title>
+        <body>
+          <p>Transferring bulk data <ph conref="conrefs.dita#conrefs/policymust"/> be authorised by a senior manager. The definition of bulk or high volume is not specific. Removable media such as laptops, disks or memory sticks can hold thousands of records. They have the benefit of encryption to prevent access to data accessed, but the damage if they are lost and the information cannot be retrieved remains high. However, information is immediately accessible if even a single paper files is lost, so the risks need to be managed differently. As an indication, datasets containing the electronic records of 1,000 or more people would count as bulk, whilst decisions on using more secure forms of movement might apply to much smaller volumes of case files. It might also apply to lesser volumes where names and addresses are combined with sensitive information that might lead to identification. In all cases, consideration <ph conref="conrefs.dita#conrefs/policymust"/> be given to the risk and impact of causing individuals or the <ph conref="conrefs.dita#conrefs/moj"/> to suffer harm or loss, service disruption, or reputational damage.</p>
+        </body>
+      </topic>
+      <topic id="using-post-and-couriers">
+        <title>Using post and couriers</title>
+        <body>
+          <p>There are a range of methods of sending documents, depending on the potential harm that result from loss. This relates to their security classification and the volumes involved. Following is a guide of the methods to use for certain types of information:</p>
+          <ul>
+            <li>
+              <p>For normal inter-office transit, use DX delivery services or agreed contracts for the movement of papers or files. Royal Mail letter post is otherwise acceptable for standard non-sensitive material or letters at <ph conref="conrefs.dita#conrefs/official"/>.</p>
+            </li>
+            <li>
+              <p>The classification and any caveat such as <ph conref="conrefs.dita#conrefs/official-sensitive"/> <ph conref="conrefs.dita#conrefs/policymustnot"/> be shown on the outer envelope. If the contents are sensitive, particularly if they contain personal details intended for an individual, the envelope should be marked <codeph>ADDRESSEE ONLY</codeph>. Post rooms <ph conref="conrefs.dita#conrefs/policymust"/> check addressee details and <ph conref="conrefs.dita#conrefs/policymustnot"/> not open any envelope marked in this way.</p>
+            </li>
+            <li>
+              <p>If more security is needed, either because material is being sent in bulk or the contents are more sensitive, tracked options including tracked DX or special delivery <ph conref="conrefs.dita#conrefs/policyshould"/> be used.</p>
+            </li>
+            <li>
+              <p>Material marked <ph conref="conrefs.dita#conrefs/official-sensitive"/> <ph conref="conrefs.dita#conrefs/policycan"/> be sent using any of the previous methods, with a return address and no protection marking on the outer envelope.</p>
+            </li>
+            <li>
+              <p>Double enveloping might also provide additional protection, especially if there is a risk the package might burst or if it is being sent to a non-<ph conref="conrefs.dita#conrefs/moj"/> location where the <codeph>ADDRESSEE ONLY</codeph> instruction might not be recognised.</p>
+            </li>
+          </ul>
+        </body>
+      </topic>
+      <topic id="confirming-delivery">
+        <title>Confirming delivery</title>
+        <body>
+          <p>If you are sending sensitive or bulk information, you <ph conref="conrefs.dita#conrefs/policymust"/> ensure that the recipient is expecting it and get confirmation of receipt. Consider a solution that allows you to track delivery. If you need to transfer or send personal data to or outside of the European area, discuss if first with the <ph conref="conrefs.dita#conrefs/privacyemailtext"/>.</p>
+        </body>
+      </topic>
+    </topic>
+    <topic id="faxing-documents-between-sites">
+      <title>Faxing documents between sites</title>
+      <body>
+        <p>Office faxes <ph conref="conrefs.dita#conrefs/policymust"/> only be used for transmission and exchange of <ph conref="conrefs.dita#conrefs/moj"/> information where other more secure means of communication, for example <ph conref="conrefs.dita#conrefs/official"/> government email are not possible. Where use of fax machines (including Goldfax where available) remains the best option, it <ph conref="conrefs.dita#conrefs/policyshall"/> only be for information classified at <ph conref="conrefs.dita#conrefs/official"/> and that is not especially sensitive. The reason is that fax material is sent over public networks. Faxed information might be individual items, including personal data. Bulk transmission of personal data and information marked <ph conref="conrefs.dita#conrefs/official-sensitive"/> <ph conref="conrefs.dita#conrefs/policyshall"/> only be allowed following a risk assessment and approval from the Information Asset Owner.</p>
+        <p>The following controls and procedures <ph conref="conrefs.dita#conrefs/policymust"/> also be applied by staff:</p>
+        <ul>
+          <li>
+            <p>Ensure that the recipient has a legitimate need to access department information for official business purposes.</p>
+          </li>
+          <li>
+            <p>Take care to ensure that the correct number has been dialled and that the authorised recipient is attending the receiving fax terminal at the time the information is being faxed.</p>
+          </li>
+          <li>
+            <p>Immediately contact the authorised recipient to authenticate that they have received the information, verifying the quantity (the number of pages) and content of the information.</p>
+          </li>
+          <li>
+            <p>If the recipient's fax line is busy and a transmission is not possible, wait until it is free. Do not leave the fax machine unattended. Always confirm that the authorised recipient has received all the information.</p>
+          </li>
+          <li>
+            <p>Each transmission should carry the following:</p>
+            <ul>
+              <li>
+                <p>A unique reference number.</p>
+              </li>
+              <li>
+                <p>The identity of the originator.</p>
+              </li>
+              <li>
+                <p>The identity of the intended recipient.</p>
+              </li>
+              <li>
+                <p>A record of the number of pages transmitted.</p>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <p>Ensure that the authorised recipient is aware of the handling requirements for <ph conref="conrefs.dita#conrefs/official"/> information, including preventing information being viewed or accessed by unauthorised persons in their business.</p>
+          </li>
+          <li>
+            <p>If the fax is configured to produce a confirmation of transmission report, including a copy of the first page of the transmission, ensure that you retain this hardcopy information and that it is not left on the fax machine where it might be seen by those who do not 'need to know'.</p>
+          </li>
+          <li>
+            <p>Ensure that the fax is configured correctly and that functions such as polling reception (programming to send messages to specific numbers), redirection, forwarding and remote control are disabled.</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="overview-of-threats-and-vulnerabilities">
+      <title>Overview of threats and vulnerabilities</title>
+      <body>
+        <p>The public service telephone networks through which fax messages are transmitted are exposed to several significant security vulnerabilities and threats. These include:</p>
+        <ul>
+          <li>
+            <p>The potential that even UK to UK transmission is routed to overseas networks, increasing risks.</p>
+          </li>
+          <li>
+            <p>Transmission within the UK may be intercepted at several places along the route.</p>
+          </li>
+        </ul>
+        <p>In addition, the risks associated with fax machines are as follows:</p>
+        <ul>
+          <li>
+            <p>Unauthorised access to the built-in message stores to retrieve messages.</p>
+          </li>
+          <li>
+            <p>Deliberate or accidental programming of machines to send messages to specific numbers.</p>
+          </li>
+          <li>
+            <p>Sending documents and messages to the wrong number either by misdialling or using the wrong stored message.</p>
+          </li>
+          <li>
+            <p>Viewing of protectively marked messages by unauthorised persons, for example copies left unattended and unsecured on fax machines and traffic logs, and copies of fax messages retained on the machine's memory being accessed.</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="what-to-do-if-you-think-there-has-been-a-security-breach">
+      <title>What to do if you think there has been a security breach</title>
+      <body>
+        <p>If you suspect that the security of the information you work with has been compromised in any way, you <ph conref="conrefs.dita#conrefs/policyshould"/> <xref href="reporting-an-incident.dita" format="dita">report it immediately</xref>. A security breach doesn't have to involve the actual loss of information. The potential loss of information also counts.</p>
+        <p>For example, if a security cabinet has been left unsecured, there might be no evidence that any information has been lost or interfered with, but there is a clear potential for loss or damage.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="compliance">
+    <title>Compliance</title>
+    <body>
+      <p>The level of risk and potential impact to <ph conref="conrefs.dita#conrefs/moj"/> assets and most importantly physical harm to our people and the public determines the controls to be applied and the degree of assurance required. The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> ensure a baseline of physical security measures are in place at each site and receive annual assurance that such measures are in place to provide appropriate protection to all occupants and assets, and that these measures can be strengthened when required, for example in response to a security incident or change in the Government Response Level.</p>
+      <p>The implementation of all security measures <ph conref="conrefs.dita#conrefs/policymust"/> be able to provide evidence that the selection was been made in accordance with the appropriate information security standards ISO27001/27002, Physical Security advice taken from the <ph conref="conrefs.dita#conrefs/cpnilong"/> and <ph conref="conrefs.dita#conrefs/gov007"/> (link is external).</p>
+      <p>The constantly changing security landscape has necessarily dictated that Physical Security measures be constantly re-evaluated and tested in order to meet new threats and other emerging vulnerabilities. This policy and subsequent supporting standards are subject to annual review or more frequently if warranted.</p>
+    </body>
+  </topic>
+  <topic id="physical-security-advice">
+    <title>Physical security advice</title>
+    <!-- HERE -->
+    <body>
+      <p>Physical security advice can be obtained by contacting MoJ Group
+Security: <xref href="mailto:mojgroupsecurity@justice.gov.uk" format="email" scope="external"/>.</p>
+        </li>
+      </ol>
+      <p>
+        <b>Annex A – Suitable carriers</b>
+      </p>
+      <p>This guidance does not provide an exhaustive list of suitable carriers
+but does identify recommended options. The following notes provide
+further details:</p>
+      <p>
+        <b>Royal Mail</b>
+      </p>
+      <p>Ordinary letter post is acceptable for OFFICIAL correspondence with
+members of the public or items that must be sent to private addresses.
+To prevent inappropriate opening of personal letters with sensitive
+personal data sent internally or to other business addresses, you may
+mark the envelope 'addresses only'; this may require double enveloping
+to protect the contents in transit and inappropriate opening on
+delivery.</p>
+      <p>
+        <i>
+          <b>Recorded delivery</b>
+        </i>
+      </p>
+      <p>Recorded delivery should be used if the letter particularly sensitive
+information or identity documentation. The sender is given a reference
+and can confirm delivery and obtain a copy of the signature via Royal
+Mail website.</p>
+      <p>
+        <i>
+          <b>Special delivery</b>
+        </i>
+      </p>
+      <p>Like recorded delivery but requires named signature for receipt and
+earlier delivery can be arranged (9am or 1pm). This also allows online
+tracking of the item, suitable for more sensitive documents.</p>
+      <p>Please reference to the <xref href="https://moj.myhub.sscl.com/__search/s/redirect?collection=ssclhub-meta-moj-search&amp;url=https%3A%2F%2Fmoj.myhub.sscl.com%2F__data%2Fassets%2Fword_doc%2F0018%2F28710%2FCourier-and-postal-services-Royal-Mail.doc&amp;index_url=https%3A%2F%2Fmoj.myhub.sscl.com%2F__data%2Fassets%2Fword_doc%2F0018%2F28710%2FCourier-and-postal-services-Royal-Mail.doc&amp;auth=BU%2B%2B6R3iZQXLaXTJsfI9aA&amp;profile=_default&amp;rank=1&amp;query=royal+mail" format="html" scope="external">courier and postal services Royal
+Mail</xref>
+for further information.</p>
+      <p>
+        <b>DX</b>
+      </p>
+      <p>Ordinary DX services are acceptable for sending low volumes of files or
+enveloped papers between sites and other justice agency partners with
+registered DX addresses. When sending any volume or sensitive papers,
+managers should ensure that the receiving office is expecting the
+delivery and check receipt.</p>
+      <p>
+        <i>
+          <b>Tracked DX</b>
+        </i>
+      </p>
+      <p>This is recommended when a more formal tracking is required either
+because of the volumes of files or because they contain particularly
+sensitive case information.</p>
+      <p>There two further DX options which give add security.</p>
+      <p>
+        <b>Courier Tracked</b>
+      </p>
+      <p>
+        <b>Secure DX</b>
+      </p>
+      <p>Please reference to the <xref href="https://moj.myhub.sscl.com/__data/assets/word_doc/0017/24560/Courier-Services-Document-Exchange-and-Next-Day-DX-Network-Services.doc" format="doc" scope="external">Courier Services Document exchange and next day
+– DX Network
+Services</xref>
+for further information.</p>
+      <p>You can also use tracked courier services provided by
+<xref href="https://moj.myhub.sscl.com/__data/assets/word_doc/0025/24559/Courier-Services-Tracked-next-day-FedEx.doc" format="doc" scope="external">FedEX</xref>.</p>
+    </body>
+  </topic>
+  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
