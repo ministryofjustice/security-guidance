@@ -106,9 +106,9 @@
 	<topic id="legacyreferences">
 		<title>Legacy information</title>
 			<body>
-				<note>This document is Legacy IA Policy material.<ph conref="#conrefs/securityemail"/>
+				<note>This document is Legacy IA Policy material.
 					It is under review and likely to be withdrawn or substantially revised soon.
-					Before using this content for a project, contact <ph conref="#conrefs/catemail"/>.</note>
+					Before using this content for a project, contact <ph conref="#conrefs/securityemail"/>.</note>
 				<note>This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
 					<ul>
 						<li>CESG (Communications-Electronics Security Group),

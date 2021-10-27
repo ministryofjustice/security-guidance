@@ -4,7 +4,7 @@
 
 ## Legacy information
 
-**Note:** This document is Legacy IA Policy material.[security@justice.gov.uk](mailto:security@justice.gov.uk) It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+**Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 **Note:** This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
 
