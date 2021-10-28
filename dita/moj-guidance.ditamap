@@ -435,5 +435,13 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="privileged-user-logging-and-protective-monitoring-guide.dita"/>
 			</relcell>
 		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="sending-information-securely.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="it-security-policy-overview.dita" linking="targetonly"/>
+			</relcell>
+		</relrow>
 	</reltable>
 </map>
