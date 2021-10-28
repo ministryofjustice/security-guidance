@@ -36,7 +36,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="secure-data-transfer-guide.dita" type="topic"/>
 			<topicref href="secure-disposal-of-it-equipment.dita" type="topic"/>
 			<topicref href="secure-disposal-of-it-physical-and-on-premise.dita" type="topic"/>
-			<topicref href="sending-information-securely.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="sending-information-securely.dita" type="topic"/>
 			<topicref href="web-browsing.dita" type="topic"/>
 		</topichead>
 		<topichead>
@@ -100,11 +100,15 @@ if an audience attribute is present, then only matching content is included.
 	<topichead>
 		<topicmeta><navtitle>User access</navtitle></topicmeta>
 		<topicref href="acceptable-use.dita" type="topic"/>
+		<topicref href="acceptable-use-policy.dita" type="topic"/>
 		<topicref href="data-security-and-privacy.dita" type="topic"/>
 		<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic"/>
 		<topicref href="government-classification-scheme.dita" type="topic"/>
 		<topicref href="guidance-for-using-open-internet-tools.dita" type="topic"/>
 		<topicref href="identify-protect-detect-respond-recover.dita" type="topic"/>
+		<topicref href="it-acceptable-use-policy.dita" type="topic"/>
+		<topicref href="it-security-all-users-policy.dita" type="topic"/>
+		<topicref href="it-security-policy-overview.dita" type="topic"/>
 		<topicref href="line-manager-approval.dita" type="topic"/>
 		<topicref href="passwords.dita" type="topic"/>
 		<topicref href="password-managers.dita" type="topic"/>
