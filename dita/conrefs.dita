@@ -44,6 +44,8 @@
 			<ph id="gsuite">Google Workspace</ph>
 			<ph id="helpdesk"><ph conref="#conrefs/servicedesk"/></ph>
 			<ph id="hmggovernmentsecurityclassifications"><xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">HMG Government Security Classifications Policy</xref></ph>
+			<ph id="icolong">Information Commissioner's Office (<ph conref="#conrefs/ico"/>)</ph>
+			<ph id="ico">ICO</ph>
 			<ph id="itpolicycontentemail"><xref href="mailto:itpolicycontent@digital.justice.gov.uk" format="email" scope="external">itpolicycontent@digital.justice.gov.uk</xref></ph>
 			<ph id="itpolicycontentemailtext"><xref href="mailto:itpolicycontent@digital.justice.gov.uk" format="email" scope="external">IT policy content</xref></ph>
 			<ph id="mojlong">Ministry of Justice (MoJ)</ph>
