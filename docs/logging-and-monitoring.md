@@ -20,7 +20,7 @@ This is why the MoJ can log and monitor external interactions with its services,
 
 At the same time, the MoJ is careful not to "over-retain" log information, or to share it with those who do not need to see it, without lawful justification. The MoJ must always act in a proportionate way with this data.
 
-The MoJ Chief Information Security Office \(CISO\) is ultimately responsible for all logging and monitoring systems which have been implemented for cyber security purposes. This means that the CISO is also the Information Asset Owner for all logging and monitoring data.
+The MoJ Chief Information Security Officer \(CISO\) is ultimately responsible for all logging and monitoring systems which have been implemented for cyber security purposes. This means that the CISO is also the Information Asset Owner for all logging and monitoring data.
 
 ## Log retention
 

@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-10-20 09:53 BST [National Security Vetting contacts](https://security-guidance.service.justice.gov.uk/national-security-vetting-contact/)**
+
+    Updates to the process and information for National Security Vetting contacts.
+
 -   **2021-10-19 13:06 BST [Remote working](https://security-guidance.service.justice.gov.uk/remote-working/)**
 
     Simplified the guidance regarding remote working.
