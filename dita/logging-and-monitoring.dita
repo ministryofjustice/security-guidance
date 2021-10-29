@@ -2,30 +2,26 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="logging-and-monitoring">
   <title>Logging and monitoring</title>
-  <body/>
-  <topic id="overview">
-    <title>Overview</title>
-    <body>
-      <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> monitors the use of services,
-        by recording (logging) event information.</p>
-      <p>This is permitted under data protection legislation,
-        to help defend <ph conref="conrefs.dita#conrefs/moj"/> services against cyber security attacks, and misuse (such as fraud).
-        General Data Protection Regulation (GDPR) <xref href="https://www.privacy-regulation.eu/en/recital-49-GDPR.htm" format="htm" scope="external">Recital 49</xref> notes that the processing of personal data (to the extent that is strictly necessary and proportionate) to ensure the security of a system which forms the underlying lawful basis for why the <ph conref="conrefs.dita#conrefs/moj"/> processes this type of data for this purpose.</p>
-      <p>This is why the <ph conref="conrefs.dita#conrefs/moj"/> can log and monitor external interactions with its services,
-        looking for evidence of cyber security attacks.
-        It also allows the <ph conref="conrefs.dita#conrefs/moj"/> to act to protect those services.
-        For example,
-        the <ph conref="conrefs.dita#conrefs/moj"/> can block an IP address associated with known malware,
-        or which is trying to perform a denial of service attack.</p>
-      <p>At the same time,
-        the <ph conref="conrefs.dita#conrefs/moj"/> is careful not to "over-retain" log information,
-        or to share it with those who do not need to see it,
-        without lawful justification.
-        The <ph conref="conrefs.dita#conrefs/moj"/> must always act in a proportionate way with this data.</p>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> Chief Information Security Officer (CISO) is ultimately responsible for all logging and monitoring systems which have been implemented for cyber security purposes.
-        This means that the CISO is also the Information Asset Owner for all logging and monitoring data.</p>
-    </body>
-  </topic>
+  <body>
+    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> monitors the use of services,
+      by recording (logging) event information.</p>
+    <p>This is permitted under data protection legislation,
+      to help defend <ph conref="conrefs.dita#conrefs/moj"/> services against cyber security attacks, and misuse (such as fraud).
+      General Data Protection Regulation (GDPR) <xref href="https://www.privacy-regulation.eu/en/recital-49-GDPR.htm" format="htm" scope="external">Recital 49</xref> notes that the processing of personal data (to the extent that is strictly necessary and proportionate) to ensure the security of a system which forms the underlying lawful basis for why the <ph conref="conrefs.dita#conrefs/moj"/> processes this type of data for this purpose.</p>
+    <p>This is why the <ph conref="conrefs.dita#conrefs/moj"/> can log and monitor external interactions with its services,
+      looking for evidence of cyber security attacks.
+      It also allows the <ph conref="conrefs.dita#conrefs/moj"/> to act to protect those services.
+      For example,
+      the <ph conref="conrefs.dita#conrefs/moj"/> can block an IP address associated with known malware,
+      or which is trying to perform a denial of service attack.</p>
+    <p>At the same time,
+      the <ph conref="conrefs.dita#conrefs/moj"/> is careful not to "over-retain" log information,
+      or to share it with those who do not need to see it,
+      without lawful justification.
+      The <ph conref="conrefs.dita#conrefs/moj"/> must always act in a proportionate way with this data.</p>
+    <p>The <ph conref="conrefs.dita#conrefs/moj"/> Chief Information Security Officer (CISO) is ultimately responsible for all logging and monitoring systems which have been implemented for cyber security purposes.
+      This means that the CISO is also the Information Asset Owner for all logging and monitoring data.</p>
+  </body>
     <topic id="log-retention">
       <title>Log retention</title>
       <body>

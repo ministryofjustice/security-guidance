@@ -1,17 +1,5 @@
 # Logging and monitoring
 
--   **[Online identifiers in security logging and monitoring](online-identifiers.md)**  
-
-
-**Related information**  
-
-
-[Security Log Collection](security-log-collection.md)
-
-[Privileged User Logging and Protective Monitoring Guide](privileged-user-logging-and-protective-monitoring-guide.md)
-
-## Overview
-
 The Ministry of Justice \(MoJ\) monitors the use of services, by recording \(logging\) event information.
 
 This is permitted under data protection legislation, to help defend MoJ services against cyber security attacks, and misuse \(such as fraud\). General Data Protection Regulation \(GDPR\) [Recital 49](https://www.privacy-regulation.eu/en/recital-49-GDPR.htm) notes that the processing of personal data \(to the extent that is strictly necessary and proportionate\) to ensure the security of a system which forms the underlying lawful basis for why the MoJ processes this type of data for this purpose.
@@ -21,6 +9,20 @@ This is why the MoJ can log and monitor external interactions with its services,
 At the same time, the MoJ is careful not to "over-retain" log information, or to share it with those who do not need to see it, without lawful justification. The MoJ must always act in a proportionate way with this data.
 
 The MoJ Chief Information Security Officer \(CISO\) is ultimately responsible for all logging and monitoring systems which have been implemented for cyber security purposes. This means that the CISO is also the Information Asset Owner for all logging and monitoring data.
+
+-   **[Online identifiers in security logging and monitoring](online-identifiers.md)**  
+
+
+**Related information**  
+
+
+[CCTV policy](cctv-policy.md)
+
+[Online identifiers in security logging and monitoring](online-identifiers.md)
+
+[Privileged User Logging and Protective Monitoring Guide](privileged-user-logging-and-protective-monitoring-guide.md)
+
+[Security Log Collection](security-log-collection.md)
 
 ## Log retention
 

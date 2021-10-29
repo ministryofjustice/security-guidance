@@ -425,13 +425,15 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="lost-devices-incidents.dita"/>
 			</relcell>
 		</relrow>
-		<relrow>
+		<relrow audience="audience-suppliers audience-tech">
 			<relcell>
 				<topicref href="logging-and-monitoring.dita"/>
 			</relcell>
 			<relcell>
-				<topicref href="security-log-collection.dita"/>
+				<topicref href="cctv-policy.dita"/>
+				<topicref href="online-identifiers.dita"/>
 				<topicref href="privileged-user-logging-and-protective-monitoring-guide.dita"/>
+				<topicref href="security-log-collection.dita"/>
 			</relcell>
 		</relrow>
 	</reltable>
