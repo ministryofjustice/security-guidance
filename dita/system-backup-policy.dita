@@ -7,7 +7,7 @@
     <title>System recovery</title>
     <body>
       <p>Backing up is an essential part of protecting <ph conref="conrefs.dita#conrefs/mojlong"/> Information and Communication Technology (ICT or IT) resources. Backing up provides a means of recovering a system or data to a known state, or point in time. In other words, backups enable you to restore a system or data to be effectively indistinguishable from how it was on a particular date and time.</p>
-      <p>All systems MUST comply with the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/" format="html" scope="external">HMG Security Policy Framework</xref>. To address this need, these statements from the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/" format="html" scope="external">Technical Controls Policy</xref> apply:
+      <p>All systems MUST comply with the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/" format="html" scope="external">HMG Security Policy Framework</xref>. To address this need, these statements from the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="technical-controls-policy.dita" format="dita">Technical Controls Policy</xref> apply:
       <dl>
         <dlentry>
           <dt>POL.TCP.108</dt>
