@@ -1,6 +1,6 @@
 #Minimum User Clearance Requirements Guide
 
-**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##Introduction
 

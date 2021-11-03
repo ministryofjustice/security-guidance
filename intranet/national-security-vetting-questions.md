@@ -4,7 +4,7 @@ The processes described in this document are under review as part of Ministry of
 
 A downloadable version of this document is available [here](./gs/national-security-vetting-questions.docx).
 
-**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##National Security Vetting
 

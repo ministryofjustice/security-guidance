@@ -2,7 +2,7 @@
 
 There are many helpful policies and best practices that improve Ministry of Justice (MoJ) safety and security.
 
-**Note:** In addition to this advice in this document, you should review and follow the guidance in the [remote working](remote-working.md) guidance, for example [thinking before you print](remote-working.md#printing).
+**Note:** In addition to this advice in this document, you should review and follow the guidance in the [remote working](https://security-guidance.service.justice.gov.uk/remote-working/) guidance, for example [thinking before you print](https://security-guidance.service.justice.gov.uk/remote-working/#printing).
 
 ##Clear screen
 
@@ -26,10 +26,10 @@ Users **SHALL** comply with the following:
 
 * Where possible, paper and computer media **SHALL** be stored in suitable locked safes, cabinets or other forms of security furniture when not in use, particularly outside working hours.
 * Where lockable safes, filing cabinets, drawers, cupboards, or similar secure storage areas are not available, doors **SHALL** be locked if rooms are left unattended. At the end of each session all `OFFICIAL` and `OFFICIAL-SENSITIVE` information **SHALL** be removed from the work place and stored in a locked area.
-* When handling `OFFICIAL` documents security **SHALL** follow the requirements laid down in the [Government Classification Scheme (GCS)](information-classification-handling-and-security-guide.md).
+* When handling `OFFICIAL` documents security **SHALL** follow the requirements laid down in the [Government Classification Scheme (GCS)](https://security-guidance.service.justice.gov.uk/information-classification-handling-and-security-guide/).
 * `OFFICIAL` or `OFFICIAL-SENSITIVE` information, when printed, **SHOULD** be cleared from printers immediately.
 
-[Think before you print](remote-working.md#printing).
+[Think before you print](https://security-guidance.service.justice.gov.uk/remote-working/#printing).
 
 It is good practice to lock all rooms and office areas when they are not in use.
 

@@ -6,7 +6,7 @@ It answers Frequently Asked Questions (FAQs) for recruiting managers.
 
 A downloadable version of this information is available [here](./gs/pre-employment-screening-and-vetting-of-external-candidates-faqs.docx).
 
-**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##Section 1: Pre-employment screening for directly employed staff
 

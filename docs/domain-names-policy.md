@@ -107,7 +107,7 @@ This policy's statement elements are outlined below:
 
 ## Enforcement
 
--   `POLDOM021:` MoJ domains discovered that do not abide by the statements set out in this policy **SHALL** be treated as suspicious, reported to NCSC, and blocked automatically.
+-   `POLDOM021:` MoJ domains discovered that do not abide by the statements set out in this policy **SHOULD** be treated as suspicious, reported to NCSC, and blocked automatically.
 
 -   This policy is enforced by lower-level policies, standards, procedures and guidance.
 

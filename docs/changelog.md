@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-10-29 11:52 BST [Domain names](https://security-guidance.service.justice.gov.uk/domain-names-policy/)**
+
+    An overview of domain name registration and monitoring principles and responsibilities within the MoJ.
+
 -   **2021-10-29 11:52 BST [Logging retention](https://security-guidance.service.justice.gov.uk/logging-and-monitoring/)**
 
     Information about keeping logging information.

@@ -6,7 +6,7 @@ Most applications for National Security Vetting (NSV) clearance including Counte
 
 Some business areas employ large number of NSV-cleared people and those clearances need to be managed and monitored. The MoJ recognises that many personnel are contractors and agency staff, often with clearances held elsewhere. The NSVC **SHALL** facilitate the process and provide the business with a single point of contact and liaison with the National Security Vetting Team and Shared Services Connected Limited (SSCL).
 
-**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##Roles and responsibilities
 

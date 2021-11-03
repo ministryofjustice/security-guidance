@@ -4,7 +4,7 @@
 
 This document provides you with guidance for safe and secure use of email within the Ministry of Justice (MoJ).
 
-In general, always use email in an [acceptable way](acceptable-use.md).
+In general, always use email in an [acceptable way](https://security-guidance.service.justice.gov.uk/acceptable-use/).
 
 In particular:
 
@@ -55,7 +55,7 @@ The MoJ scans approximately 14 million messages a month for threats (figures fro
 * Avoid sharing your business email address on the internet. These might be collected and used by automatic 'harvesting' software programs.
 * Never use your MoJ email address to register for non-work related sites.
 
-If you think you've received a scam email, or a virus, [report it immediately](reporting-an-incident.md). Do not click on any link or forward it to anyone. Only delete it from your inbox when you have been told to do so.
+If you think you've received a scam email, or a virus, [report it immediately](https://security-guidance.service.justice.gov.uk/reporting-an-incident/). Do not click on any link or forward it to anyone. Only delete it from your inbox when you have been told to do so.
 
 ##Further reading from the NCSC
 
@@ -140,7 +140,7 @@ In general:
 * If possible, note the details and incoming telephone number of the caller.
 * Do not go to any external site if directed from an unsolicited call.
 * Never give any information about your computer to the caller.
-* Check if the call is genuine with your IT Service Desk. [Report the call](reporting-an-incident.md) as a security incident if it is not. Use a different phone from that used to take the original call.
+* Check if the call is genuine with your IT Service Desk. [Report the call](https://security-guidance.service.justice.gov.uk/reporting-an-incident/) as a security incident if it is not. Use a different phone from that used to take the original call.
 
 ##Hoaxes
 

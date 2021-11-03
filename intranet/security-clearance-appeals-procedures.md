@@ -10,7 +10,7 @@ In this document the term **SHALL** is used to indicate an absolute requirement.
 
 If you have any queries on the content of this document contact [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk).
 
-**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##Scope and aim
 

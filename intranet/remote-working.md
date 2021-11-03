@@ -32,7 +32,7 @@ Remote working is when you work from any non-MoJ location, for example, working 
 * **Do:** Protect MoJ information from accidental access by unauthorised people.
 * **Do:** Lock or log off your device when leaving it unattended. For long periods of non-use, shut down your device.
 * **Do:** Ensure that your devices are powered off when you first enter a country when travelling outside the UK.
-* **Do:** Keep your workspace clear and tidy. Follow a '[clear desk policy](clear-screen-and-desk.md)' for information, including paperwork, to ensure MoJ information isn't seen by unauthorised people.
+* **Do:** Keep your workspace clear and tidy. Follow a '[clear desk policy](https://security-guidance.service.justice.gov.uk/clear-screen-and-desk/)' for information, including paperwork, to ensure MoJ information isn't seen by unauthorised people.
 * **Do:** Use MoJ IT equipment for business purposes in preference to your own equipment such as laptops or printers.
 * **Do:** Be wary of anyone overlooking or eavesdropping what you are doing. Consider whether you, or the MoJ information, might be Overseen, Overheard, or Overshared.
 * **Do:** Protect chargers and other computer accessories, especially MoJ equipment, when travelling. This is to prevent them from being tampered with. Keep them secure and out of sight as much as possible, for example in your hand luggage or on your person.
@@ -85,7 +85,7 @@ If you need to use a public wifi or internet service, or home broadband, with yo
 
 ##Using your own equipment
 
-The main guidance is available [here](personal-devices.md).
+The main guidance is available [here](https://security-guidance.service.justice.gov.uk/personal-devices/).
 
 * **Do:** Use official MoJ equipment for business purposes.
 * **Do not:** Send your work material to your personal devices or your email accounts.

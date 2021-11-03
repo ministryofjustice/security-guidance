@@ -4,7 +4,7 @@ This document provides recruiting managers with answers to frequently-asked ques
 
 The processes described in this document are under continual review as part of the Ministry of Justice (MoJ) "simpler processes" activities. These FAQs will be updated as required.
 
-**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##Section 1: Directly employed staff
 

@@ -79,7 +79,7 @@ Any additional controls **SHALL** be captured on the DMF (see [Data Movement For
 
 If using a secure network is not feasible, the next preferred option is to use an encrypted removable media, such as an approved USB mass storage device.
 
-For more information, see the [Removable Media](removable-media.md) guidance.
+For more information, see the [Removable Media](https://security-guidance.service.justice.gov.uk/removable-media/) guidance.
 
 The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice **SHALL** be sought from the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk), or CISO on the best option to use when completing the DMF (see [Data Movement Form](#data-movement-form-dmf)).
 
@@ -97,7 +97,7 @@ Sensitive data **SHALL NOT** be kept for longer than is needed. The IAO **SHALL*
 
 Physical media containing sensitive data **SHALL** be disposed of securely, even if that data is encrypted. The reason is that an attacker could potentially make unlimited attempts to crack the encryption used if the media comes into their possession.
 
-Further information on disposal and decommissioning can be found in the [Secure Disposal of IT Equipment](secure-disposal-of-it-equipment.md) guidance.
+Further information on disposal and decommissioning can be found in the [Secure Disposal of IT Equipment](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-equipment/) guidance.
 
 ##Information sharing
 
@@ -123,7 +123,7 @@ MoJ staff, including contractors and agency staff, **SHALL** make sure they obse
 * Ensure that the confidentiality of the sensitive information is protected during transit, for example by encrypting the data.
 * Ensure copies of sensitive information are not kept beyond when they are actually required, for example by keeping information "just in case" it might be needed in the future.
 
-All MoJ staff **SHALL** avoid exposing sensitive data to unnecessary risks, in particular by observing all aspects of MoJ [Acceptable Use](acceptable-use.md).
+All MoJ staff **SHALL** avoid exposing sensitive data to unnecessary risks, in particular by observing all aspects of MoJ [Acceptable Use](https://security-guidance.service.justice.gov.uk/acceptable-use/).
 
 Authorisation **SHALL** be sought from the IAO before sensitive information can be moved or shared with a 3rd party. The authorisation itself is captured within the [Data Movement Form](#data-movement-form-dmf). the following sub-sections provide guidance on particular types of information sharing common across the MoJ, and to help you complete a DMF.
 
@@ -204,7 +204,7 @@ The general rules for transmitting a password to a recipient are:
 * Avoid detailing the purpose of a password when it is sent.
 * Avoid re-using passwords and demonstrate good security discipline to 3rd parties by creating a completely new password or phrase for each transmission.
 
-More guidance on password best practices is [available](passwords.md).
+More guidance on password best practices is [available](https://security-guidance.service.justice.gov.uk/passwords/).
 
 ##General enquiries, including theft and loss
 

@@ -6,7 +6,7 @@ This guidance information applies to all staff, contractors and agency staff who
 
 As a government official travelling overseas, you should consider that you may be of interest to hostile parties regardless of your role. By following MoJ policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.
 
-Essential guidance is provided in the [overseas travel information](overseas-travel.md).
+Essential guidance is provided in the [overseas travel information](https://security-guidance.service.justice.gov.uk/overseas-travel/).
 
 In general, it is acceptable for MoJ users to access MoJ services from overseas, and to do this using their MoJ equipment. But before you travel, consider:
 
@@ -72,11 +72,11 @@ If any security-related incident occurs overseas, regardless of whether it invol
 
 If there is a problem with your MoJ equipment, it might be necessary to disable your ability to connect to the MoJ network or services from your device. The IT Service Desk will do this if required. MoJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MoJ business.
 
-**Note:** Do not be tempted to use non-MoJ equipment for MoJ business purposes. If you are having problems with MoJ equipment, you might wonder about using non-MoJ devices to progress a particularly important task, or to respond to an urgent email. This is not [acceptable](acceptable-use.md).
+**Note:** Do not be tempted to use non-MoJ equipment for MoJ business purposes. If you are having problems with MoJ equipment, you might wonder about using non-MoJ devices to progress a particularly important task, or to respond to an urgent email. This is not [acceptable](https://security-guidance.service.justice.gov.uk/acceptable-use/).
 
 ##Related pages
 
-* [General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
+* [General advice on taking equipment overseas](https://security-guidance.service.justice.gov.uk/general-advice-on-taking-equipment-overseas/)
 * [Overseas travel](/guidance/security/travelling-abroad-business-or-personal/)
 * [Staff security and responsibilities during employment](/guidance/security/staff-security-and-responsibilities/during-employment)
 
