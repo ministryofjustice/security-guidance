@@ -4,6 +4,7 @@
   <title>Technical Controls Policy</title>
   <body>
     <note conref="conrefs.dita#legacyreferences/listofreferences"/>
+    <p>To help identify formal policy statements, each is prefixed with an identifier of the form: <codeph>POL.TCP.xxx</codeph>, where xxx is a unique ID number.</p>
   </body>
   <topic id="approach-to-technical-controls">
     <title>Approach to technical controls</title>
@@ -248,9 +249,9 @@
       <p><codeph>POL.TCP.067</codeph>: All audit logs <ph conref="conrefs.dita#conrefs/policymust"/> be securely stored to protect the confidentiality of the data contained.</p>
       <p><codeph>POL.TCP.068</codeph>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> implement controls to protect the integrity of audit and accounting logs.</p>
       <p><codeph>POL.TCP.069</codeph>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> synchronise all IT devices with a consistent time source.</p>
-      <p><codeph>POL.TCP.070</codeph>: All audit and accounting logs <ph conref="conrefs.dita#conrefs/policymust"/> be retained in accordance with stated data retention period as expressed by Information Asset Owner (IAO) and recorded in the system risk management documentation (see note below).</p>
+      <p><codeph>POL.TCP.070</codeph>: All audit and accounting logs <ph conref="conrefs.dita#conrefs/policymust"/> be retained in accordance with stated data retention period as expressed by Information Asset Owner (IAO) and recorded in the system risk management documentation (see the <xref href="logging-and-monitoring.dita#log-retention" format="dita">logging and monitoring</xref> information).</p>
       <p><codeph>POL.TCP.071</codeph>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> follow the <xref href="protective-monitoring.dita" format="dita">Protective Monitoring Guide</xref>, where further guidance is provided.</p>
-      <!-- FIXME -->
+      <!--
       <note> The default retention period is as follows:
       <ul>
         <li>
@@ -263,12 +264,12 @@
           <p>Retain all Accounting Logs for a minimum of eighteen (18) months for monitored IT Environments operating at 'Defend'.</p>
         </li>
       </ul></note>
-      <p>See HMG Information Assurance Standard No.1 and 2 for the details on the definition for 'Aware', 'Deter', 'Detect and Resist' and 'Defend'.</p>
+      <p>See HMG Information Assurance Standard No.1 and 2 for the details on the definition for 'Aware', 'Deter', 'Detect and Resist' and 'Defend'.</p> -->
     </body>
     <topic id="interface-with-operational-security">
       <title>Interface with Operational Security</title>
       <body>
-        <p>The Operational Security Team (OST) at the <ph conref="conrefs.dita#conrefs/moj"/> is responsible for managing security incidents involving <ph conref="conrefs.dita#conrefs/moj"/> IT systems and information assets. As such, they are the primary consumer of any protective monitoring solution as it is a key feed of information and mechanism for raising security incidents.</p>
+        <p>The <ph conref="conrefs.dita#conrefs/ostemailtext"/> (OST) at the <ph conref="conrefs.dita#conrefs/moj"/> is responsible for managing security incidents involving <ph conref="conrefs.dita#conrefs/moj"/> IT systems and information assets. As such, they are the primary consumer of any protective monitoring solution as it is a key feed of information and mechanism for raising security incidents.</p>
         <p><codeph>POL.TCP.072</codeph>: All protective monitoring solutions <ph conref="conrefs.dita#conrefs/policymust"/> provide the capability to report security incident (or the audit and log data which can be used to generate security incidents) to the <ph conref="conrefs.dita#conrefs/moj"/> Operational Security team.</p>
         <p><codeph>POL.TCP.073</codeph>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> provide their audit logs to the <ph conref="conrefs.dita#conrefs/moj"/> Operational Security Team (OST) upon request.</p>
         <p>Further information on IT incident management is available in <xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref>.</p>
