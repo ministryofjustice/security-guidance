@@ -274,6 +274,8 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="email.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="email-security-guide.dita" type="topic" audience="audience-suppliers audience-tech">
 				<topicref href="email-authentication-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
+				<topicref href="email-blocklist-policy.dita" type="topic" audience="audience-tech"/>
+				<topicref href="email-blocklist-process.dita" type="topic" audience="audience-tech"/>
 				<topicref href="secure-email-transfer-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
 				<topicref href="spam-and-phishing-guide.dita" type="topic" audience="audience-tech"/>
 			</topicref>
@@ -435,6 +437,18 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="online-identifiers.dita"/>
 				<topicref href="privileged-user-logging-and-protective-monitoring-guide.dita"/>
 				<topicref href="security-log-collection.dita"/>
+			</relcell>
+		</relrow>
+		<relrow audience="audience-tech">
+			<relcell>
+				<topicref href="email-blocklist-policy.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="acceptable-use.dita"/>
+				<topicref href="data-security-and-privacy.dita"/>
+				<topicref href="email-blocklist-process.dita"/>
+				<topicref href="malware-protection-guide-introduction.dita"/>
+				<topicref href="data-handling-and-information-sharing-guide.dita"/>
 			</relcell>
 		</relrow>
 	</reltable>

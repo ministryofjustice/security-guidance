@@ -1104,6 +1104,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
 								<entry colname="col1" align="left"><xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref></entry>
 								<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 							</row>
+				<row audience="audience-tech">
+					<entry colname="col1" align="left"><xref href="email-blocklist-policy.dita" format="dita">Email Blocklist Policy</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row audience="audience-tech">
+					<entry colname="col1" align="left"><xref href="email-blocklist-process.dita" format="dita">Email Blocklist Process</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
 							<row audience="audience-tech">
 								<entry colname="col1" align="left"><xref href="email-security-guide.dita" format="dita">Email Security Guide</xref></entry>
 								<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>

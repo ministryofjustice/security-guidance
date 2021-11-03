@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="email-blocking-process">
+  <title>Email blocking process</title>
+  <body>
+      <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> manages a number of different mail platforms,
+          including infrastructure in <ph conref="conrefs.dita#conrefs/gsuite"/>,
+          as well as Microsoft Exchange (on-premise) and Microsoft Cloud platforms.</p>
+    <p>There are numerous reasons that email might be blocked.
+        An email matching the criteria on a blocklist is only one reason.</p>
+      <p>If you have any concerns about email delivery,
+          contact your email service provider or Infrastructure exchange team.</p>
+  </body>
+  <topic id="definitions">
+    <title>Definitions</title>
+    <body>
+        <p>Within this guidance,
+            'email' might refer to individual user mailboxes,
+            shared or group mailboxes,
+            or distribution lists and mailing lists.</p>
+        <p>More specifically,
+            a recipient or mailbox is any functional <ph conref="conrefs.dita#conrefs/moj"/> email account,
+            for example <ph conref="conrefs.dita#conrefs/securityemail"/>.</p>
+      <p>Throughout this guidance,
+          references to malicious emails include the following specific threats:
+      <ul>
+        <li>
+          <p>Emails which contain malware.</p>
+        </li>
+        <li>
+          <p>Phishing emails.</p>
+        </li>
+        <li>
+          <p>Spoofed or impersonal emails.</p>
+        </li>
+        <li>
+          <p>Harmful emails.</p>
+        </li>
+        <li>
+          <p>General spam emails.</p>
+        </li>
+      </ul></p>
+        <p>There are a number of different email threats that exist in information technology.
+            Each threat varies in complexity,
+            and the impact it might have on the <ph conref="conrefs.dita#conrefs/moj"/> and its employees.</p>
+        <dl>
+            <dlentry>
+                <dt>Spam</dt>
+                <dd>Spam emails,
+                    also called junk emails,
+                    involve the sending of nearly identical messages to numerous recipients.
+                    They are high volume,
+                    unsolicited messages.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Malicious or malware</dt>
+                <dd>These emails are specifically designed to damage operational systems or disrupt business operations.
+                    While the email itself may not be malicious,
+                    it might contain URLs or file attachments which are malicious.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Phishing</dt>
+                <dd>This is an email-based attempt to acquire sensitive information such as credentials
+                    including IDs and passwords for malicious purposes.
+                    Phishing emails typically masquerade as a trustworthy person supposedly taking part in electronic
+                    communications.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Spoofed or impersonation emails</dt>
+                <dd>These emails are from a forged sender address.
+                    At first glance,
+                    the email seems to be from a respected or reputable email sender,
+                    or an individual you know or trust.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Harmful emails</dt>
+                <dd>These are emails that are not necessarily classified as malicious,
+                    but might cause distress or harm to users.
+                    Examples include threatening emails, or Denial of Service (DoS) attacks.</dd>
+            </dlentry>
+            <!-- Legitimate/Genuine Emails -->
+        </dl>
+    </body>
+  </topic>
+  <topic id="email-blocklist">
+    <title>Email blocklist</title>
+    <body>
+      <p>The purpose of any email blocklist is to prevent malicious emails entering or leaving the
+          <ph conref="conrefs.dita#conrefs/moj"/> email infrastructure.</p>
+      <p>A blocklist consists of some or all of the following elements:
+          <ul>
+              <li>IP address.</li>
+              <li>Network range.</li>
+              <li>Domain name.</li>
+              <li>Email address.</li>
+              <li>URL.</li>
+              <li>Other email characteristics.</li>
+          </ul></p>
+        <p>Each element helps identify more precisely where the sender is suspected of delivering malicious emails.</p>
+      <p>Throughout this document,
+          any item on the email blocklist is referred to as a 'blocklist object'.</p>
+      <p>Each individual mail platform has its own set of objects that can be added to the blocklist.
+          These obects vary from product to product.</p>
+      <note>Users <ph conref="conrefs.dita#conrefs/policyshouldnot"/> interact with any unsolicited or unwanted emails.
+          Instead,
+          follow email spam handling processes.
+          For more information on this,
+          contact your local <ph conref="conrefs.dita#conrefs/servicedesk"/>.</note>
+      <p>All email platforms in use by the <ph conref="conrefs.dita#conrefs/moj"/>
+          <ph conref="conrefs.dita#conrefs/policymust"/> have the ability to add items to the blocklist.
+          The <ph conref="conrefs.dita#conrefs/moj"/> security team <ph conref="conrefs.dita#conrefs/policymust"/> have
+          appropriate permissions to update and review items on this list.</p>
+    </body>
+    <topic id="internal-blocklist">
+      <title>Internal blocklist</title>
+      <body>
+        <p>There are two specific types of blocklists:
+        <ul>
+          <li>
+            <p>Individual mailbox blocklist.</p>
+          </li>
+          <li>
+            <p>Global blocklist.</p>
+          </li>
+        </ul></p>
+        <p>Each mail platform that the <ph conref="conrefs.dita#conrefs/moj"/> manages has its own internal blocklist.
+            Any object added to an internal blocklist is blocked from reaching mailboxes or recipients in that mail
+            platform.
+            Where possible,
+            when a specific object is added to an internal blocklist in one platform,
+            it <ph conref="conrefs.dita#conrefs/policyshould"/> be replicated to other email environments.</p>
+        <p>The criteria for adding items to the internal blocklist are outlined in this policy.</p>
+        <note>Individual mailboxes might have their own internal blocklist.
+            This is a preferred route for requests to add domains to the global blocklist.
+            Owners of individual mailboxes are responsible for managing their own individual mailbox blocklists.</note>
+        <p>If a user has multiple email addresses spanning different email platforms,
+            then it's the users responsibility to keep their personal blocklists synchronized between the platforms.</p>
+      </body>
+    </topic>
+    <topic id="external-blocklist">
+      <title>External blockList</title>
+      <body>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/> Security team use a number of commercial products which provide
+        estate-wide or 'global' blocking,
+            rather than individual blocking.</p>
+        <p>By default,
+            external email blocklists are applied at the global level,
+            meaning that they are applied to all mailboxes in an email environment.</p>
+      </body>
+    </topic>
+      <!--
+    <topic id="reputation-blocklists">
+      <title>Reputation blocklists</title>
+      <body/>
+    </topic>
+    -->
+  </topic>
+  <topic id="auditing">
+    <title>Auditing</title>
+    <body>
+      <p>All emails that are received into the <ph conref="conrefs.dita#conrefs/moj"/> email platforms
+          <ph conref="conrefs.dita#conrefs/policyshould"/> have AntiVirus scanning in place.
+          The scanning includes automatic detection,
+          classification,
+          and actioning of suspicious emails.</p>
+      <p>Be aware that email filtering and blocking can not be 100% effective.
+          This means any suspicious or unsolicited emails <ph conref="conrefs.dita#conrefs/policyshould"/> always be
+          treated with caution.
+          Similarly,
+          an e-mail might be incorrectly marked as infected or "spam".
+          This might result in some emails being blocked unnecessarily.</p>
+    </body>
+  </topic>
+  <topic id="freedom-of-information-foi-requests">
+    <title>Freedom of Information (FOI) requests</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> is a public sector organisation.
+          This means that any member of the public has the right to make an request for information about any item of
+          public interest.
+          General information about FOI is available on the
+          <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/providing-information-to-the-public/freedom-of-information/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Intranet</xref>.
+          Security-specific considerations are outlined in the
+          <xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Handling and Information
+              Sharing Guide</xref>.</p>
+      <p>The Security team applies vendor processes delisting an object or item from the external blocklist,
+          where appropriate.</p>
+      <note>The <ph conref="conrefs.dita#conrefs/moj"/> Security team cannot assist with troubleshooting generic
+          email delivery issues.</note>
+    </body>
+    <topic id="requests-to-remove-objects-from-a-blocklist">
+      <title>Requests to remove objects from a blocklist</title>
+      <body>
+        <p>If you have concerns about the use of a blocklist,
+            you need to provide relevant information about the problem,
+            such as:
+            <ul>
+                <li>Sending IP address.</li>
+                <li>Time and date,
+                    including timezone information.</li>
+                <li>Error messages,
+                    such as undeliverable mail notifications.</li>
+            </ul></p>
+          <p>You might also be asked to provide other information to help determine the specific reason why the email
+              has not been delivered.
+              In response,
+              the <ph conref="conrefs.dita#conrefs/moj"/> reviews internal and external blocklists,
+              and determines if the email was indeed blocked by an object on the blocklist.</p>
+        <p>If you believe that you cannot access justice services due to a blocklist,
+            then you can request that a review of blocklist by the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+        <p>Requests for review are assessed on an individual basis,
+            working with the nformation disclosure team,
+            to determine resolution steps.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="impact-assessment">
+    <title>Impact assessment</title>
+    <body>
+      <p>Any blocklist object <ph conref="conrefs.dita#conrefs/policyshould"/> be defined so as to not result in
+          widespread email failures.
+          For example,
+          it would not be helpful to block the whole of <codeph>@gmail.com</codeph>.
+          Each blocklist object <ph conref="conrefs.dita#conrefs/policyshould"/> be examined,
+          taking into account the characteristics of the specific blocklist,
+          and relevant intelligence sources.</p>
+      <p>Senders that have an established history of clean or legitimate emails,
+          but have recently been sending emails of concern,
+          <ph conref="conrefs.dita#conrefs/policyshouldnot"/> be added automatically or instantly to the blocklist.
+          Instead,
+          the sender <ph conref="conrefs.dita#conrefs/policyshould"/> be 'quarantined' by the affected email system.</p>
+    </body>
+  </topic>
+  <topic id="avoiding-the-use-of-blocklists">
+    <title>Avoiding the use of blocklists</title>
+    <body>
+      <p>Requests are sometimes made to block individual senders based on repeat,
+          vexatious,
+          or otherwise undesirable content.
+          Take care when determining whether the sender truly has malicious intent,
+          or whether they are a simply a member of the public with a genuine grievance but lacking the skills to air
+          their concerns more constructively.
+          Consider the risk of 'denying access to the criminal justice system' to an individual.
+          If in doubt,
+          refer to the <ph conref="conrefs.dita#conrefs/privacyemailtext"/>
+          or <ph conref="conrefs.dita#conrefs/cisolong"/>.</p>
+    </body>
+    <topic id="documentation-for-internal-blocklists">
+      <title>Documentation for internal blocklists</title>
+      <body>
+        <p>Use the <ph conref="conrefs.dita#conrefs/moj"/> incident management and change management process to add
+            emails to internal blocklists.
+            This includes documenting expected impact,
+            and other relevant information.</p>
+        <p>As part of the documentation steps,
+            the assessment and justifications for blocking specific objects
+            <ph conref="conrefs.dita#conrefs/policyshould"/> be included.
+            Ensure the information is brief but contains sufficient relevant information.
+            The relevant information <ph conref="conrefs.dita#conrefs/policyshould"/> include:
+        <ul>
+          <li>
+            <p>The specific items to be added to the internal blocklist.</p>
+          </li>
+          <li>
+            <p>The classification of the email,
+                and justification for blocking.</p>
+          </li>
+          <li>
+            <p>Summary outcomes from the impact assessment.</p>
+          </li>
+          <li>
+            <p>Summary actions taken to triage and resolve the incident,
+                before resorting to blocking.</p>
+          </li>
+        </ul></p>
+        <p>One ticket might contain multiple different blocking objects.</p>
+        <p>If an item is blocked without a corresponding ticket and justification as described in this guidance,
+            then that object <ph conref="conrefs.dita#conrefs/policyshall"/> be removed from the internal blocklist
+            with immediate effect.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="review-of-existing-blocks">
+    <title>Review of existing blocks</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> review items
+          manually added to the internal blocklist,
+          on a regular basis,
+          to determine if they are relevant or not.
+          Regular means at least every quarter.
+          Any item included in the list and which is considered irrelevant
+          <ph conref="conrefs.dita#conrefs/policyshould"/> be removed.
+          An irrelevant item is one that blocks legitimate emails from entering the
+          <ph conref="conrefs.dita#conrefs/moj"/> email system.</p>
+      <p>A review of internal blocklist <ph conref="conrefs.dita#conrefs/policyshould"/> also be done frequently,
+          in line with the time for which blocked email messages are kept.
+          This ensures the <ph conref="conrefs.dita#conrefs/moj"/> is able to recover incorrectly-blocked emails,
+          and avoid them being deleted automatically.</p>
+        <!--
+      <p>
+        <b>Guidance:</b>
+      </p>
+      <p>Unexpected side effects.</p>
+      -->
+    </body>
+  </topic>
+  <topic id="spam-emails">
+    <title>Spam emails</title>
+    <body>
+      <p>The <xref href="https://ico.org.uk/" scope="external" format="dita">ICO website</xref> provides general
+          information about spam,
+          and gives advice about the steps to reduce spam.</p>
+      <p>A spam email does not necessarily require automatice and instant inclusion on the internal blocklist,
+          although it might be included as part of the external blocklists,
+          as highlighted in this policy.</p>
+    </body>
+  </topic>
+  <topic id="blocklist-listing-policies">
+    <title>Blocklist listing policies</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> email platforms <ph conref="conrefs.dita#conrefs/policyshould"/>
+          have the ability to deploy automatic blocking of traffic.
+          This includes blocking the following email classifications:
+      <ul>
+        <li>
+          <p>Spam traffic.</p>
+        </li>
+        <li>
+          <p>Malware traffic.</p>
+        </li>
+        <li>
+          <p>Open proxy or open relays.</p>
+        </li>
+        <li>
+          <p>Shared cyber threat intelligence.</p>
+        </li>
+        <li>
+          <p>Spoofed domains.</p>
+        </li>
+      </ul></p>
+    </body>
+      <!--
+    <topic id="spam-traffic">
+      <title>Spam Traffic</title>
+      <body/>
+    </topic>
+    -->
+  </topic>
+  <topic id="reporting-incidents-to-external-companies">
+    <title>Reporting incidents to external companies</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> reserves the right to forward any email suspected of being
+          added to the blocklist to external organisations for verification.</p>
+      <p>Organisation that are trusted by the <ph conref="conrefs.dita#conrefs/moj"/> for this purpose include:
+      <ul>
+          <li>
+              <p>Google.</p>
+          </li>
+          <li>
+              <p>ICO</p>
+          </li>
+        <li>
+          <p>Microsoft.</p>
+        </li>
+        <li>
+          <p>Netcraft.</p>
+        </li>
+        <li>
+          <p>NCSC.</p>
+        </li>
+      </ul></p>
+      <p>In such cases,
+          after forwarding,
+          the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policycan"/> delete email
+          messages from affected mailboxes.</p>
+    </body>
+  </topic>
+    <!--
+  <topic id="email-header-analysis">
+    <title>Email header analysis</title>
+    <body>
+      <p>Do we want to include in this document specific information about what
+sites we use for email analysis and determining the classification of
+emails?
+[https://medium.com/@kylebubp/analyzing-malicious-emails-fb4ddcf0663e]</p>
+    </body>
+  </topic>
+  -->
+    <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+    <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

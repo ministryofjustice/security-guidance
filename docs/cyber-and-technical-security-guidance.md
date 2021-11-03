@@ -311,6 +311,8 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Data Sovereignty](data-sovereignty.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Email](email.md)|All users|
 |[Email Authentication Guide](email-authentication-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Email Blocklist Policy](email-blocklist-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Email Blocklist Process](email-blocklist-process.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Email Security Guide](email-security-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
 |[Secure Data Transfer Guide](secure-data-transfer-guide.md)|All users|
