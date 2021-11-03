@@ -870,18 +870,6 @@ has made for the products we operate, and our relationships with suppliers.</p>
         </topic>
       </topic>
 
-		<topic id="operational-security-team" platform="html">
-			<title>Operational security team</title>
-			<body>
-				<table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-					<row>
-						<entry colname="col1" align="left"><xref href="ost" format="html" scope="external">Documentation landing page</xref></entry>
-						<entry colname="col2" align="right">All users</entry>
-					</row>
-				</tbody></tgroup></table>
-			</body>
-		</topic>
-
       <topic id="operations-security">
         <title>Operations security</title>
         <topic id="operational-procedures-and-responsibilities" audience="audience-tech">
