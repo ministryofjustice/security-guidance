@@ -163,7 +163,7 @@
     <body>
       <ul>
         <li>
-          <p><codeph>POLDOM021:</codeph> <ph conref="conrefs.dita#conrefs/moj"/> domains discovered that do not abide by the statements set out in this policy <ph conref="conrefs.dita#conrefs/policyshall"/> be treated as suspicious, reported to NCSC, and blocked automatically.</p>
+          <p><codeph>POLDOM021:</codeph> <ph conref="conrefs.dita#conrefs/moj"/> domains discovered that do not abide by the statements set out in this policy <ph conref="conrefs.dita#conrefs/policyshould"/> be treated as suspicious, reported to NCSC, and blocked automatically.</p>
         </li>
         <li>
           <p>This policy is enforced by lower-level policies, standards, procedures and guidance.</p>
