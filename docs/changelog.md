@@ -2,7 +2,11 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
--   **2021-10-29 11:52 BST [Domain names](https://security-guidance.service.justice.gov.uk/domain-names-policy/)**
+-   **2021-11-03 17:12 GMT [Email blocking](https://security-guidance.service.justice.gov.uk/email-blocklist-policy/)**
+
+    The policy and processes for blocking emails, and deleting emails through administrative processes, across email services across the MoJ.
+
+-   **2021-11-03 17:00 GMT [Domain names](https://security-guidance.service.justice.gov.uk/domain-names-policy/)**
 
     An overview of domain name registration and monitoring principles and responsibilities within the MoJ.
 
