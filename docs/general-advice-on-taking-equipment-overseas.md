@@ -38,9 +38,9 @@ The extent to which an individual wishes to prevent the customs or security staf
 -   Try to establish your official status and good faith from the outset.
 -   Remain calm and polite at all times.
 -   Carry the names and telephone numbers of a relevant departmental contact and invite the official\(s\) to contact them to confirm that you are who you claim to be.
--   If the official continues to insist on the user inputting his/her password, repeat the above steps.
+-   If the official continues to insist on the user inputting his/her password, repeat the previous steps.
 -   State that you are carrying official UK government property that is sensitive and that you cannot allow access.
--   Ask to see a senior officer or supervisor. You may want to take the names and/or contact details of any officials involved in the event that you wish to pursue a complaint, or an investigation is required, even at a later date.
+-   Ask for a discussion with a senior officer or supervisor. You may want to take the names and/or contact details of any officials involved in the event that you wish to pursue a complaint, or an investigation is required, even at a later date.
 
 If you are on official business:
 

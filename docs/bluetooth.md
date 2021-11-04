@@ -53,7 +53,7 @@ A Bluetooth device might be at risk from any of the following:
 -   Insecure data transmission
 -   Phishing
 
-An example of a Bluetooth problem is 'Bluetooth marketing'. As you walk around with your mobile phone, it is continuously looking for Bluetooth devices and wifi access points. It does this to help with accurate location tracking. But other devices can also see your mobile phone. These devices might report tracking information about where you were at any time. This guidance will help you understand more about the problem, and suggest things you can do to reduce the risks.
+An example of a Bluetooth problem is 'Bluetooth marketing'. As you walk around with your mobile phone, it is continuously looking for Bluetooth devices and wifi access points. It does this to help with accurate location tracking. But other devices can also find your mobile phone. These devices might report tracking information about where you were at any time. This guidance will help you understand more about the problem, and suggest things you can do to reduce the risks.
 
 ## Best practices for using Bluetooth
 
@@ -67,7 +67,7 @@ Before using a Bluetooth device in a work context, consider the following:
 -   Are the Bluetooth devices 'discoverable'?
 -   Have you connected to any other 'public' Bluetooth devices?
 -   Are all the devices password protected?
--   Might someone be able to see what Bluetooth devices you are using?
+-   Might someone be able to find out what Bluetooth devices you are using?
 -   Is the material you are working with `OFFICIAL-SENSITIVE` or higher?
 
 The best way to ensure your Bluetooth device is as up-to-date as possible is to apply all patches and fixes for all hardware devices as soon as you can.
@@ -78,11 +78,11 @@ Many Bluetooth devices try and make connection as easy as possible by enabling '
 
 Some Bluetooth devices allow you to choose whether they are 'discoverable'. For example, on Android 'phones, you can go to the `Settings -> Connected devices -> Connection preferences -> Bluetooth visibility` or similar. The best advice is to change the Bluetooth settings to not discoverable if you can. Only make the device discoverable when you need to connect to a trusted device.
 
-At regular intervals, check to see what Bluetooth devices are 'known' to your devices. Remove any you don't recognise.
+At regular intervals, check to find out what Bluetooth devices are 'known' to your devices. Remove any you don't recognise.
 
 When in public places, make sure you only connect to known devices. Always ensure you are in a secure and safe location such as home, office, or a known isolated place before switching on your Bluetooth.
 
-If someone can see what Bluetooth devices you have, or are using, they might try and use one of their device to intercept or monitor the connection. Try to keep Bluetooth devices out of sight so that no-one knows which ones you might actually be using. Even the bright blue light Bluetooth devices illuminate when they are connected might draw unwanted attention.
+If someone can find what Bluetooth devices you have, or are using, they might try and use one of their device to intercept or monitor the connection. Try to keep Bluetooth devices out of sight so that no-one knows which ones you might actually be using. Even the bright blue light Bluetooth devices illuminate when they are connected might draw unwanted attention.
 
 Generally speaking, Bluetooth devices do not present extra problems when working with `OFFICIAL` material. However, the whole point of Bluetooth is to enable and simplify communications, so you need to be extra careful when using Bluetooth devices while working on `OFFICIAL-SENSITIVE` or higher material.
 

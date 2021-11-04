@@ -29,11 +29,11 @@ If there is any way to tie an online identifier to an individual, then that iden
 
 The way this mapping might be achieved is unimportant.
 
-It could be because the user later provides personal data to the MoJ as part of using a service, and in doing so providesa link between all of the activities that their IP or session cookie has done with their identity.
+It could be because the user later provides personal data to the MoJ as part of using a service, and in doing so provides a link between all of the activities that their IP or session cookie has done with their identity.
 
 There might also be a legal route available to the MoJ to determine the identity behind an identifier. For example, by making a lawful request to an ISP to uncover the person associated with a dynamic IP address at a particular time.
 
-For more information on this, see the Information Commissioner's Office \(ICO\) [key definitions](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/key-definitions/), and "[Recital 30](https://www.privacy-regulation.eu/en/recital-30-GDPR.htm)" from the [Article 29 Working Group](https://en.wikipedia.org/wiki/Article_29_Data_Protection_Working_Party). There is also an informative article [here](https://www.fieldfisher.com/en/services/privacy-security-and-information/privacy-security-and-information-law-blog/can-a-dynamic-ip-address-constitute-personal-data).
+For more information on this, refer to the Information Commissioner's Office \(ICO\) [key definitions](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/key-definitions/), and "[Recital 30](https://www.privacy-regulation.eu/en/recital-30-GDPR.htm)" from the [Article 29 Working Group](https://en.wikipedia.org/wiki/Article_29_Data_Protection_Working_Party). There is also an informative article [here](https://www.fieldfisher.com/en/services/privacy-security-and-information/privacy-security-and-information-law-blog/can-a-dynamic-ip-address-constitute-personal-data).
 
 ## What does this mean for MoJ services?
 

@@ -65,7 +65,7 @@ If you become aware of a change in circumstance for another member of security c
 
 You must alert your line manager or [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk) if you become aware of any other issues which might increase your security vulnerability, or the security vulnerability of a security cleared colleague. All staff **SHOULD** be mindful of circumstances and behaviours that might render staff susceptible to pressure, or improper influence, or could otherwise indicate unreliability.
 
-Other obvious changes in circumstances, aside from those already listed above are:
+Other obvious changes in circumstances, aside from those already listed previously, are:
 
 -   Serious financial problems.
 -   Substance and drug abuse.
@@ -73,7 +73,7 @@ Other obvious changes in circumstances, aside from those already listed above ar
 -   Illegal or injudicious behaviour, including when living or travelling overseas.
 -   Compulsive gambling.
 -   Involvement with extreme political groups or inappropriate associations.
--   Sexual behaviour is a security concern if it involves a criminal activity, indicates a personality or emotional disorder, subjects the individual to coercion, exploitation, or duress, or reflects lack of judgment or discretion. Sexual orientation or preference are not in themselves disqualifying factors, and are not used as a basis for clearance decisions.
+-   Sexual behaviour is a security concern if it involves a criminal activity, indicates a personality or emotional disorder, subjects the individual to coercion, exploitation, or duress, or reflects lack of judgement or discretion. Sexual orientation or preference are not in themselves disqualifying factors, and are not used as a basis for clearance decisions.
 
 All reports are treated in strict confidence. It is always better to alert a line manager or contact [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk) directly, rather than to ignore an issue or take no action.
 

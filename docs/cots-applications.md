@@ -18,7 +18,7 @@ User directories within application environments can be rich and diverse, such t
 -   Amazon Web Services \(Accounts and Incognito\)
 -   Okta
 -   Auth0
--   Github.com \(acting as an identity provider\)
+-   github.com \(acting as an identity provider\)
 -   Google Workspace \(acting as an identity provider\)
 -   Oracle identity stores
 -   Local user stores within operating systems leveraged by tenant applications

@@ -16,11 +16,11 @@ We use `/.well-known/` to house `security.txt` as [RFC5785](https://tools.ietf.o
 
 ## Internal-facing domains
 
-Internal-facing domains resolvable from the public Internet \(for example, `intranet.justice.gov.uk` is based on `.gov.uk` with a publicly routeable IP address\) should also implement `security.txt` as described above.
+Internal-facing domains resolvable from the public Internet \(for example, `intranet.justice.gov.uk` is based on `.gov.uk` with a publicly routeable IP address\) should also implement `security.txt` as described previously.
 
 ## Non-production domains
 
-Non-production domains resolvable from the public Internet \(for example, a demo deployment of a MoJ digital service or prototype\) should also implement `security.txt` as described above.
+Non-production domains resolvable from the public Internet \(for example, a demo deployment of a MoJ digital service or prototype\) should also implement `security.txt` as described previously.
 
 ## Feedback
 

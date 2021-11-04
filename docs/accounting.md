@@ -14,7 +14,7 @@ Log data can include Personal Data or inadvertent sensitive data \(when an appli
 
 Log data created and processed for information security purposes should be retained for no longer than 2 \(two\) years by default \(this is subject to any legislative or regulative compliance requirements\) but for a minimum of 6 months.
 
-These times are generalistic as a guide, and require contextual analysis particularly where Personal Data is involved.
+These times are general as a guide, and require contextual analysis particularly where Personal Data is involved.
 
 ## Feedback
 

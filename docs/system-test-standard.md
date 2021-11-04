@@ -9,17 +9,17 @@
 -   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   `CONFIDENTIAL`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   `CONFIDENTIAL`, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 -   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS2 \(HMG Infosec Standard 2 Information Risk Management\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS2 \(HMG Infosec Standard 2 Information Risk Management\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   ITSO \(Information Technology Security Officer\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   `RESTRICTED`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
+-   `RESTRICTED`, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## About this document
 
@@ -92,7 +92,7 @@ The rest of this document is split into four sections:
 
 HMG IS 1 and 2 require that assurance evidence is provided covering an IT system's business systems design, implementation, and operation.
 
-Security testing of an IT system to obtain the assurance evidence required can occur at various points throughout the system development and deployment lifecycle \(see [Table 1](#security-consideration)\). For example:
+Security testing of an IT system to obtain the assurance evidence required can occur at various points throughout the system development and deployment lifecycle \(refer to [Table 1](#security-consideration)\). For example:
 
 -   **Commercial off the Shelf \(COTS\) product assurance**
 
@@ -117,13 +117,13 @@ To protect system test data, the following principles should be followed:
 
 In exceptional circumstances, the use of live system data might be permitted. Permission to use live data is by exception only. A valid business case must be approved by the MoJ IT Security Officer \(ITSO\), system assurer, and Information Asset Owner \(IAO\). Further information can be obtained from the MoJ Data Access and Compliance Unit \(DACU\) who maintain the policy on the use of live personal data.
 
-**Note:** The risk associated with the use of live personal data for testing might require Senior Information Risk Owner \(SIRO\) approval. See [this information](using-live-data-for-testing-purposes.md) for further details.
+**Note:** The risk associated with the use of live personal data for testing might require Senior Information Risk Owner \(SIRO\) approval. Refer to [this information](using-live-data-for-testing-purposes.md) for further details.
 
 ### Risk assessment and management
 
 As expressed at the start of this section, the rigour of any security tests must be commensurate with the impact of a security failure. This means that a risk based approach must be taken when considering what types of security tests to execute.
 
-The decision on what security tests to include in the overall system test plan must be based on the system IS1 risk assessment, and agreed with the system assurer. The section below \([Types of security tests](#types-of-security-tests)\) provides an overview of the types of security tests which must be considered. Further details on the assurance process can be found in the [Accreditation Framework](https://intranet.justice.gov.uk/documents/2015/04/accreditation-framework.pdf).
+The decision on what security tests to include in the overall system test plan must be based on the system IS1 risk assessment, and agreed with the system assurer. The following section \([Types of security tests](#types-of-security-tests)\) provides an overview of the types of security tests which must be considered. Further details on the assurance process can be found in the [Accreditation Framework](https://intranet.justice.gov.uk/documents/2015/04/accreditation-framework.pdf).
 
 When a security test has been conducted, it is likely to highlight several risks and issues which need to be remediated and managed appropriately. This remediation is usually captured in a Risk Treatment Plan \(RTP\) which outlines what the issue or vulnerability identified is, the risk associated with it, and the planned risk mitigation. The RTP needs to be agreed with the system Accreditor prior to being implemented. Further details on this process can be found in the [Accreditation Framework](https://intranet.justice.gov.uk/documents/2015/04/accreditation-framework.pdf).
 
@@ -180,14 +180,14 @@ In principle, good software development practices and the application of a compr
 
 #### Security consideration
 
-Table 1 below provides a high level overview of the security testing which should be considered against each of the main testing activities typically conducted during the development and deployment phases of an IT system.
+Table 1 following provides a high level overview of the security testing which should be considered against each of the main testing activities typically conducted during the development and deployment phases of an IT system.
 
 |Testing activity|Description|Security testing consideration|
 |----------------|-----------|------------------------------|
-|Unit, Module, or Package Testing|This is aimed at verifying that individual modules/packages comply with their design.|See [Secure code review](#secure-code-review).|
-|Component Testing|Units or Modules combined into components then tested. This is aimed at verifying that the individual components meet their design and specification requirements. Third party software may also be introduced at this point and tested.|See [Secure code review](#secure-code-review). Functional testing and enhanced secure code review of security enforcing components.|
+|Unit, Module, or Package Testing|This is aimed at verifying that individual modules/packages comply with their design.|Refer to [Secure code review](#secure-code-review).|
+|Component Testing|Units or Modules combined into components then tested. This is aimed at verifying that the individual components meet their design and specification requirements. Third party software may also be introduced at this point and tested.|Refer to [Secure code review](#secure-code-review). Functional testing and enhanced secure code review of security enforcing components.|
 |Integration Testing|Involves combining system components together into a complete system release, then testing as a whole.|Functional testing of security enforcing components. Functional testing of the integration of components with security enforcing functions.|
-|Acceptance Testing \(FAT and SAT\)|The set of tests to be run to demonstrate the suitability of the system to the client. These will typically be a subset of the tests used for system testing in the integration phase.|Testing of both functional and non-functional security requirements. Penetration test or ITHC \(see [System Configuration Tests](#system-configuration-tests)\). Vulnerability scan \(see [Vulnerability Scanning](#vulnerability-scanning)\). Compliance scan \(see [Compliance Scanning](#compliance-scanning)\).|
+|Acceptance Testing \(FAT and SAT\)|The set of tests to be run to demonstrate the suitability of the system to the client. These will typically be a subset of the tests used for system testing in the integration phase.|Testing of both functional and non-functional security requirements. Penetration test or ITHC \(refer to [System Configuration Tests](#system-configuration-tests)\). Vulnerability scan \(refer to [Vulnerability Scanning](#vulnerability-scanning)\). Compliance scan \(refer to [Compliance Scanning](#compliance-scanning)\).|
 
 #### Testing failure
 

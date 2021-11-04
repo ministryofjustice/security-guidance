@@ -6,7 +6,7 @@ This is permitted under data protection legislation, to help defend MoJ services
 
 This is why the MoJ can log and monitor external interactions with its services, looking for evidence of cyber security attacks. It also allows the MoJ to act to protect those services. For example, the MoJ can block an IP address associated with known malware, or which is trying to perform a denial of service attack.
 
-At the same time, the MoJ is careful not to "over-retain" log information, or to share it with those who do not need to see it, without lawful justification. The MoJ must always act in a proportionate way with this data.
+At the same time, the MoJ is careful not to "over-retain" log information, or to share it with those who do not need to access it, without lawful justification. The MoJ must always act in a proportionate way with this data.
 
 The MoJ Chief Information Security Officer \(CISO\) is ultimately responsible for all logging and monitoring systems which have been implemented for cyber security purposes. This means that the CISO is also the Information Asset Owner for all logging and monitoring data.
 

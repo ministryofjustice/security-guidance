@@ -57,7 +57,7 @@ To identify the right security level for information, think about:
 
 -   What the consequences might be if the information was compromised or misused.
 
--   Whether the information is likely to be under threat from anyone with a high intercept capability. If so, the information might require marking at a higher classification than `OFFICIAL`. If you are working with information or documentation above the `OFFICIAL` classification level, contact [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk) for specific guidance.
+-   Whether the information is likely to be under threat from anyone with a high intercept capability. If so, the information might require marking at a higher classification than `OFFICIAL`. If you are working with information or documentation higher than the `OFFICIAL` classification level, contact [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk) for specific guidance.
 
 
 If you are in any doubt, ask your line manager or contact [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk).
@@ -66,7 +66,7 @@ If you are in any doubt, ask your line manager or contact [MoJ Group Security](m
 
 `POLPPR004`: If you are generating original information, you **SHOULD** apply the [standard rules](government-classification-scheme.md) to decide which classification to use. Do not set security levels higher than necessary. Set the classification that is appropriate at the time. Classification can be altered later if circumstances change, such as when material is no longer embargoed or has been released intentionally for consultation.
 
-`POLPPR005`: For material at `OFFICIAL-SENSITIVE` or higher classifications, the classification **SHALL** be written in capitals at the top and bottom of each page of the document. You **SHOULD** use the header and footer facility if creating electronically, and include page numbers by using the format `Page x of y`. You **SHOULD** only create documents at classification levels above `OFFICIAL` on approved IT systems. If you are working with information or documentation above the `OFFICIAL` classification level, contact [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk) for specific guidance. Files and documents **SHOULD** be marked according to the most sensitive piece of information included.
+`POLPPR005`: For material at `OFFICIAL-SENSITIVE` or higher classifications, the classification **SHALL** be written in capitals at the top and bottom of each page of the document. You **SHOULD** use the header and footer facility if creating electronically, and include page numbers by using the format `Page x of y`. You **SHOULD** only create documents at classification levels higher than `OFFICIAL` on approved IT systems. If you are working with information or documentation higher than the `OFFICIAL` classification level, contact [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk) for specific guidance. Files and documents **SHOULD** be marked according to the most sensitive piece of information included.
 
 ### Data Protection Act
 
@@ -102,11 +102,11 @@ Occasionally, you might need to take MoJ information outside MoJ premises. Examp
 -   Material marked `OFFICIAL-SENSITIVE`.
 
 
-`POLPPR008`: You **SHALL** get permission from a head of division, or from a member of the Senior Civil Service \(SCS\) if the information is marked at a level above `OFFICIAL-SENSITIVE`. Removal or relocation of information marked at a level above `OFFICIAL-SENSITIVE` **SHALL** be noted and recorded on a register, and a record kept of when the material is logged back in.
+`POLPPR008`: You **SHALL** get permission from a head of division, or from a member of the Senior Civil Service \(SCS\) if the information is marked at a level higher than `OFFICIAL-SENSITIVE`. Removal or relocation of information marked at a level higher than `OFFICIAL-SENSITIVE` **SHALL** be noted and recorded on a register, and a record kept of when the material is logged back in.
 
 `POLPPR009`: If you are carrying papers out of the office, you **SHALL** protect them against accidental loss such as an accident or distraction, causing you to drop or misplace them.
 
-`POLPPR010`: Ideally, carry papers in an unmarked case. For papers marked `OFFICIAL-SENSITIVE` or above, or when using public transport, you **SHALL** use a lockable case.
+`POLPPR010`: Ideally, carry papers in an unmarked case. For papers marked `OFFICIAL-SENSITIVE` or higher, or when using public transport, you **SHALL** use a lockable case.
 
 `POLPPR011`: For short journeys, such as on foot, and where you are not stopping or using public transport, it is acceptable to carry `OFFICIAL` papers in a plain envelope, marked only with your name and office address.
 
@@ -141,7 +141,7 @@ MoJ offices have bins or bags that are specifically intended for secure waste di
 
 ### Long-term storage
 
-The MoJ has arrangements for the secure long-term storage of paper documents and files. If you want to keep paper-based information, but no longer need to regular access to it, see the information on the MoJ Intranet regarding [keeping, deleting, and disclosing information](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/keeping-deleting-disclosing-info/paper-other-formats/). The [Records and Retention team](mailto:Records_Retention_@justice.gov.uk) can provide additional guidance.
+The MoJ has arrangements for the secure long-term storage of paper documents and files. If you want to keep paper-based information, but no longer need to regular access to it, refer to the information on the MoJ Intranet regarding [keeping, deleting, and disclosing information](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/keeping-deleting-disclosing-info/paper-other-formats/). The [Records and Retention team](mailto:Records_Retention_@justice.gov.uk) can provide additional guidance.
 
 ### What to do if you think there has been a security breach
 

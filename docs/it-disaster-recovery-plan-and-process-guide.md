@@ -9,17 +9,17 @@
 -   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   `CONFIDENTIAL`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   `CONFIDENTIAL`, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 -   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS2 \(HMG Infosec Standard 2 Information Risk Management\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS2 \(HMG Infosec Standard 2 Information Risk Management\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   ITSO \(Information Technology Security Officer\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   `RESTRICTED`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
+-   `RESTRICTED`, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## About this document
 
@@ -162,7 +162,7 @@ Internal dependencies are those which may materialise as part of the recovery ac
 
 #### External Dependencies
 
-External dependencies are those which may affect the success of an ITDR plan and lie beyond the area of control of the ITDR Team Lead \(see [IT Security – IT Disaster Recovery Policy](it-disaster-recovery-policy.md) for a role description\).
+External dependencies are those which may affect the success of an ITDR plan and lie beyond the area of control of the ITDR Team Lead \(refer to the [IT Security – IT Disaster Recovery Policy](it-disaster-recovery-policy.md) for a role description\).
 
 For example:
 
@@ -193,13 +193,13 @@ IT supplier staff may require a different form of notification, and therefore th
 
 #### Key Contacts
 
-This section of the ITDR plan should detail the individuals who currently hold the roles listed in the previous section. As mentioned above, this information may be better kept in an annex.
+This section of the ITDR plan should detail the individuals who currently hold the roles listed in the previous section. As mentioned previously, this information may be better kept in an annex.
 
 ### Recovery procedures
 
 This section of the ITDR plan must list the functions of the IT system and the business processes it supports, and relate them to a specific set of recovery actions. Functions should be categorised \(into primary and secondary functions\) allowing for critical business processes to be restored ahead of others.
 
-A generic set of ITDR incident management steps is [provided](#itdr-incident-management) which should be used as the basis to structure the more granular recovery actions \(see [here](#recovery-actions) \).
+A generic set of ITDR incident management steps is [provided](#itdr-incident-management) which should be used as the basis to structure the more granular recovery actions \(refer [here](#recovery-actions) \).
 
 #### Primary functions
 
@@ -267,7 +267,7 @@ The main objectives of testing an ITDR plan are to determine whether:
 
 The test results must show:
 
--   Gaps in the level of service compared to the ITDR requirements \(see [here](#itdr-requirements) \).
+-   Gaps in the level of service compared to the ITDR requirements \(refer [here](#itdr-requirements) \).
 
 -   Actions to address these gaps must be identified and assigned to responsible staff.
 
@@ -282,7 +282,7 @@ A test can only be declared a success if the following conditions are met:
 
 -   The business processes which are covered by the ITDR plan are proven to be recovered to working use at the end of the test period.
 
--   The entire IT system, including data, can be accessed by users within the period of time specified by the agreed RTO limit \(see [here](#recovery-time-objective-rto) \).
+-   The entire IT system, including data, can be accessed by users within the period of time specified by the agreed RTO limit \(refer [here](#recovery-time-objective-rto) \).
 
 -   Where applicable, users can access the IT system from a necessary site after the failover has been tested.
 
@@ -343,38 +343,38 @@ The following table defines several categories of staff and outlines the recomme
 |IT Disaster Recovery Plan|
 |Overview|
 |MoJ Business Group|\[Enter the name of the MoJ Business Group.\]|
-|System Description and Scope|\[This section must describe the scope of the ITDR plan. Diagrams may prove useful where there is a complex interaction between systems and business processes covered by this plan. See [here](#it-system-description) for further details\]|
-|Site List|\[See [here](#site-list)\]|
-|Definition of a 'Disaster'|\[See [here](#definition-of-a-disaster)\]|
-|Authorised to invoke the plan|\[See [here](#invocation)\]|
-|Staff notification|\[Include details of how staff and IT suppliers are notified that ITDR plan has been invoked, see [here](#staff-notification)\]|
+|System Description and Scope|\[This section must describe the scope of the ITDR plan. Diagrams may prove useful where there is a complex interaction between systems and business processes covered by this plan. Refer [here](#it-system-description) for further details\]|
+|Site List|\[Refer [here](#site-list)\]|
+|Definition of a 'Disaster'|\[Refer [here](#definition-of-a-disaster)\]|
+|Authorised to invoke the plan|\[Refer [here](#invocation)\]|
+|Staff notification|\[Include details of how staff and IT suppliers are notified that ITDR plan has been invoked, refer [here](#staff-notification)\]|
 |Roles and responsibilities|\[For each role outlined in the [IT Security – IT Disaster Recovery Policy](it-disaster-recovery-policy.md), a named individual must be entered here.\]|
 |Dependencies|
 |Internal Dependencies|\[Include each dependency, recommend the following format: -   Dependency ID;
 -   Description;
 -   Impact \(time, resource, effort\).
 
- See [here](#internal-dependencies)\]|
+ Refer [here](#internal-dependencies)\]|
 |External Dependencies|\[Include each dependency, recommend the following format: -   Dependency ID;
 -   Description;
 -   Impact \(time, resource, effort\).
 
- See [here](#external-dependencies)\]|
+ Refer [here](#external-dependencies)\]|
 |Recovery Procedures|
 |Primary Functions|\[Include each primary function, recommend the following format: -   Function ID;
 -   Function;
 -   Description.
 
- See [here](#primary-functions)\]|
+ Refer [here](#primary-functions)\]|
 |Secondary Functions|\[Include each primary function, recommend the following format: -   Function ID;
 -   Function;
 -   Description.
 
- See [here](#secondary-functions)\]|
-|Step \[X\]|\[For each step outlined in [ITDR Incident Management](#itdr-incident-management), list the corresponding recovery procedures in this section; see [Recovery procedures](#recovery-procedures) for further details.\]|
+ Refer [here](#secondary-functions)\]|
+|Step \[X\]|\[For each step outlined in [ITDR Incident Management](#itdr-incident-management), list the corresponding recovery procedures in this section; refer to the [Recovery procedures](#recovery-procedures) for further details.\]|
 |Recovery Actions and Review|
-|Recovery Actions|\[See [here](#recovery-actions)\]|
-|Review|\[See [here](#review)\]|
+|Recovery Actions|\[Refer [here](#recovery-actions)\]|
+|Review|\[Refer [here](#review)\]|
 |Plan Approval|
 |Business Group SIRO|\[Enter the name of the Business Group SIRO\] \[DATE OF APPROVAL\]|
 |IT Security Officer|\[Enter the name of the IT Security Officer \(ITSO\)\] \[DATE OF APPROVAL\]|

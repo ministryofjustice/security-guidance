@@ -72,7 +72,7 @@ Each element helps identify more precisely where the sender is suspected of deli
 
 Throughout this document, any item on the email blocklist is referred to as a 'blocklist object'.
 
-Each individual mail platform has its own set of objects that can be added to the blocklist. These obects vary from product to product.
+Each individual mail platform has its own set of objects that can be added to the blocklist. These objects vary from product to product.
 
 **Note:** Users **SHOULD NOT** interact with any unsolicited or unwanted emails. Instead, follow email spam handling processes. For more information on this, contact your local IT Service Desk.
 
@@ -93,7 +93,7 @@ The criteria for adding items to the internal blocklist are outlined in this pol
 
 **Note:** Individual mailboxes might have their own internal blocklist. This is a preferred route for requests to add domains to the global blocklist. Owners of individual mailboxes are responsible for managing their own individual mailbox blocklists.
 
-If a user has multiple email addresses spanning different email platforms, then it's the users responsibility to keep their personal blocklists synchronized between the platforms.
+If a user has multiple email addresses spanning different email platforms, then it's the users responsibility to keep their personal blocklists synchronised between the platforms.
 
 ### External blockList
 
@@ -103,7 +103,7 @@ By default, external email blocklists are applied at the global level, meaning t
 
 ## Auditing
 
-All emails that are received into the MoJ email platforms **SHOULD** have AntiVirus scanning in place. The scanning includes automatic detection, classification, and actioning of suspicious emails.
+All emails that are received into the MoJ email platforms **SHOULD** have AntiVirus scanning in place. The scanning includes automatic detection, classification, and responding to suspicious emails.
 
 Be aware that email filtering and blocking can not be 100% effective. This means any suspicious or unsolicited emails **SHOULD** always be treated with caution. Similarly, an e-mail might be incorrectly marked as infected or "spam". This might result in some emails being blocked unnecessarily.
 
@@ -111,7 +111,7 @@ Be aware that email filtering and blocking can not be 100% effective. This means
 
 The MoJ is a public sector organisation. This means that any member of the public has the right to make an request for information about any item of public interest. General information about FOI is available on the [MoJ Intranet](https://intranet.justice.gov.uk/guidance/knowledge-information/providing-information-to-the-public/freedom-of-information/). Security-specific considerations are outlined in the [Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md).
 
-The Security team applies vendor processes delisting an object or item from the external blocklist, where appropriate.
+The Security team applies vendor processes to remove an object or item from the external blocklist, where appropriate.
 
 **Note:** The MoJ Security team cannot assist with troubleshooting generic email delivery issues.
 
@@ -127,7 +127,7 @@ You might also be asked to provide other information to help determine the speci
 
 If you believe that you cannot access justice services due to a blocklist, then you can request that a review of blocklist by the MoJ.
 
-Requests for review are assessed on an individual basis, working with the nformation disclosure team, to determine resolution steps.
+Requests for review are assessed on an individual basis, working with the information disclosure team, to determine resolution steps.
 
 ## Impact assessment
 
@@ -168,7 +168,7 @@ A review of internal blocklist **SHOULD** also be done frequently, in line with 
 
 The [ICO website](ICO websitehttps://ico.org.uk/) provides general information about spam, and gives advice about the steps to reduce spam.
 
-A spam email does not necessarily require automatice and instant inclusion on the internal blocklist, although it might be included as part of the external blocklists, as highlighted in this policy.
+A spam email does not necessarily require automatic and instant inclusion on the internal blocklist, although it might be included as part of the external blocklists, as highlighted in this policy.
 
 ## Blocklist listing policies
 

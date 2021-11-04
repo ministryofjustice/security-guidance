@@ -45,7 +45,7 @@ The required outcome is to ensure that MoJ data is inaccessible by any reasonabl
 
 ## Supplier declaration
 
-*Please sign the declaration below and return this letter to the MoJ, keeping a copy for your own records. Should you have any queries, please contact the MoJ CISO via [security@justice.gov.uk](mailto:security@justice.gov.uk).*
+*Please sign the following declaration and return this letter to the MoJ, keeping a copy for your own records. Should you have any queries, please contact the MoJ CISO via [security@justice.gov.uk](mailto:security@justice.gov.uk).*
 
 *Return electronically. Electronic signatures or otherwise positive confirmation are accepted.*
 

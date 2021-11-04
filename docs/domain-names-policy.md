@@ -23,7 +23,7 @@ This policy is aimed at:
     All other staff working for the MoJ.
 
 
-'All MoJ users' refers to General users, Technical users and Service Providers as defined above.
+'All MoJ users' refers to General users, Technical users and Service Providers as defined previously.
 
 ## Policy sections
 
@@ -57,7 +57,7 @@ Effective domain name registration encompasses the following five principles, wh
 
 ## Domain name registration statements
 
-This policy's statement elements are outlined below:
+This policy's statement elements are outlined as follows:
 
 ### Standards, guidance and technology
 
@@ -87,7 +87,7 @@ This policy's statement elements are outlined below:
 
 -   `POLDOM015:` The MoJ **SHALL** follow when a domain is hijacked or used maliciously.
 
--   `POLDOM016:` MoJ departments, ALBs and third parties **SHALL** report domain variants and domains used within the MoJ but which are not owned by the MoJ. See [contact details](#contact-details).
+-   `POLDOM016:` MoJ departments, ALBs and third parties **SHALL** report domain variants and domains used within the MoJ but which are not owned by the MoJ. Refer to the [contact details](#contact-details).
 
 
 **Note:** Contact the TVM group through the [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk).
