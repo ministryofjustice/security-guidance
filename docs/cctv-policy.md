@@ -6,6 +6,11 @@ The CCTV Policy applies to all employees, contractors, partners and service prov
 
 Agencies and arm's length bodies \(ALBs\) are expected to comply with the corporate framework, but **MAY** establish their own arrangements tailored to operational needs and **SHOULD** supplement the framework with local policy or guidance for any business-specific risk.
 
+**Related information**  
+
+
+[Logging and monitoring](logging-and-monitoring.md)
+
 ## Objective
 
 The MoJ has in place several CCTV surveillance systems installed within its core buildings. This policy details the purpose, usage, and management of the CCTV systems, and the procedures to be followed to ensure the MoJ complies with relevant legislation and the current Information Commissioner's Office \(ICO\) Code of Practice.
@@ -19,11 +24,6 @@ This policy and the procedures it details apply to the MoJ CCTV systems, includi
 The policy is applicable to all buildings owned or occupied by the MoJ, where MoJ monitored CCTV is installed.
 
 The policy is available for download [here](/gs/MoJ_CCTV_Policy.docx).
-
-**Related information**  
-
-
-[Logging and monitoring](logging-and-monitoring.md)
 
 ## Contact details
 
