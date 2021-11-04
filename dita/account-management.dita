@@ -6,7 +6,7 @@
 		<title>Introduction</title>
 		<body>
 			<p>This guide provides help on account management, for example when passwords should be changed or when user accounts should be locked.
-			For more information, see the <xref href="password-management-guide.dita" format="dita" type="topic">Password Management Guide</xref>.</p>
+			For more information, refer to the <xref href="password-management-guide.dita" format="dita" type="topic">Password Management Guide</xref>.</p>
 			<p>The information is aimed at two audiences:
 			<ul>
 				<li>The in-house  Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the <xref href="https://peoplefinder.service.gov.uk/teams/epic" format="html" scope="external">Event, Problem, Incident, CSI and Knowledge (EPIC) team</xref>.</li>
@@ -54,7 +54,7 @@
 				<li>The system prompts you to change a password.</li>
 				<li>You suspect an account might have been compromised.</li>
 			</ul></p>
-			<p>Password changes must be made within the following timeframes:
+			<p>Password changes must be made within the following time frames:
 			<table>
 				<tgroup cols="2">
 					<colspec colname="col1" colnum="1" colwidth="1*" align="left"/>

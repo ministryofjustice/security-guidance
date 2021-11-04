@@ -72,7 +72,7 @@
     <topic id="general-security-operating-procedures-syops">
       <title>General Security Operating Procedures (SyOPs)</title>
       <body>
-        <p>The policy refers to a key set of general SyOPs which are listed below:
+        <p>The policy refers to a key set of general SyOPs which are listed as follows:
         <ul>
           <!-- FIXME -->
           <li><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/" format="html" scope="external">IT Security Operating Procedures - System Administrators</xref>.</li>
@@ -82,16 +82,16 @@
           <li>IT Security Operating Procedures - ICT Equipment: Mobile Devices - RAS Laptop.</li>
           <li>IT Security Operating Procedures - ICT Equipment: Mobile Devices – Blackberry.</li>
         </ul></p>
-        <p>To minimise the number of SyOPs in circulation and standardise procedures, the SyOPs listed above act as the primary set where individual ICT systems are expected to conform to in terms of their own SyOPs.
+        <p>To minimise the number of SyOPs in circulation and standardise procedures, the SyOPs listed previously act as the primary set where individual ICT systems are expected to conform to in terms of their own SyOPs.
           Any deviations or additions are at the discretion of the system Accreditor.</p>
         <dl>
           <dlentry>
             <dt>POL.ITAUP.008</dt>
-            <dd>All ICT systems <b>must have</b> documented SyOPs which comply with the general SyOPs listed in this policy (see <xref href="#general-security-operating-procedures-syops" format="dita">here</xref> ).
+            <dd>All ICT systems <b>must have</b> documented SyOPs which comply with the general SyOPs listed in this policy (refer <xref href="#general-security-operating-procedures-syops" format="dita">here</xref> ).
             Any deviations or additions must be recorded in separate SyOPs which form an addendum to one of the SyOPs listed <xref href="#general-security-operating-procedures-syops" format="dita">here</xref>.</dd>
           </dlentry>
         </dl>
-        <p><b>Note</b> – An ICT system may make use of, in their entirety, one or more of the SyOPs listed above as the procedures of that IT system do not deviate from those described in these general SyOPs.</p>
+        <p><b>Note</b> – An ICT system may make use of, in their entirety, one or more of the SyOPs listed previously as the procedures of that IT system do not deviate from those described in these general SyOPs.</p>
       </body>
     </topic>
     <topic id="removable-media">
@@ -183,7 +183,7 @@
     <title>Personal use</title>
     <body>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/> permits limited personal use of its ICT systems provided this does not conflict or interfere with normal business activities.
-      The <ph conref="conrefs.dita#conrefs/moj"/> monitors the use of its IT systems and any personal use is subject to monitoring and auditing (see <xref href="#monitoring-of-communications" format="dita">here</xref> ), and may also be retained in backup format even after deletion from live systems.</p>
+      The <ph conref="conrefs.dita#conrefs/moj"/> monitors the use of its IT systems and any personal use is subject to monitoring and auditing (refer <xref href="#monitoring-of-communications" format="dita">here</xref> ), and may also be retained in backup format even after deletion from live systems.</p>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/> reserves the right to restrict personal use of its ICT systems. The main methods employed are:
       <ul>
         <li>Filtering of Internet and e-mail traffic – All Internet and e-mail traffic is filtered and analysed, further details are provided <xref href="#electronic-messaging-and-use-of-the-internet" format="dita">here</xref>.</li>

@@ -80,7 +80,7 @@
     <title>Understanding the Objectives, gathering evidence for the assessor</title>
     <body>
       <p>Teams/individuals responsible for the design, creation, implementation, support and maintenance of systems should have viable written evidence (regardless of format) that should be made available to various teams on request, for example, security or to internal audit.</p>
-      <p>Using the <xref href="identify-protect-detect-respond-recover.dita" format="dita" type="topic">categories used within the MCSS</xref> as a basis, some indicative questions and documentation expectations are discussed below.</p>
+      <p>Using the <xref href="identify-protect-detect-respond-recover.dita" format="dita" type="topic">categories used within the MCSS</xref> as a basis, some indicative questions and documentation expectations are discussed in this guidance.</p>
     </body>
     <topic id="identify">
       <title>IDENTIFY</title>

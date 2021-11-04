@@ -25,7 +25,7 @@
   <topic id="related-guides">
     <title>Related guides</title>
     <body>
-      <p>Further guidance on how to manage user access can be found in the guides below.</p>
+      <p>Further guidance on how to manage user access can be found in the following guides.</p>
       <ul>
         <li>
           <p><xref href="privileged-account-management-guide.dita" format="dita">Privileged Accounts</xref>.</p>
@@ -69,12 +69,12 @@
     <body>
       <p>Effective access control should be implemented by following these four principles.</p>
       <ol>
-        <li><b>Identification:</b> The <ph conref="conrefs.dita#conrefs/moj"/> should provide a single, unique ID assigned, named and linked to a private account for each user. For example, Lesley is issued a user account that only Lesley uses, and only Lesley can access. This is important so that logging information is accurate (see the <xref format="dita" href="#access-control-principles/accounting">Accounting section below</xref> for further information).</li>
+        <li><b>Identification:</b> The <ph conref="conrefs.dita#conrefs/moj"/> should provide a single, unique ID assigned, named and linked to a private account for each user. For example, Lesley is issued a user account that only Lesley uses, and only Lesley can access. This is important so that logging information is accurate (refer to the following <xref format="dita" href="#access-control-principles/accounting">Accounting section</xref> for further information).</li>
         <li><b>Authentication:</b> To access <ph conref="conrefs.dita#conrefs/moj"/> systems, users must authenticate themselves. They can do so using:
 <ul><li>something they know (such as a password - the primary authentication method used at the <ph conref="conrefs.dita#conrefs/moj"/>)</li><li>something they have (such as a smart card)</li><li>something they are (biometric authentication such as a fingerprint, voice recognition, iris scan and others)</li></ul>
-Systems holding sensitive information, or systems that are mission critical to the <ph conref="conrefs.dita#conrefs/moj"/>, must use Multi-Factor Authentication (MFA) to prove user identity. See the <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-Factor Authentication Guide</xref><ph audience="audience-basic audience-tech"> and <xref href="password-managers.dita" format="dita">Password Management Guide</xref></ph> for further information. If you wish to use an additional method of authentication you should review the National Cyber Security Center's (NCSC) guidance and contact the Cyber Assistance Team (CAT). For information on authentication methods including OAuth, refer to the <xref href="managing-user-access-guide.dita" format="dita">Managing User Access Guide</xref>.</li>
+Systems holding sensitive information, or systems that are mission critical to the <ph conref="conrefs.dita#conrefs/moj"/>, must use Multi-Factor Authentication (MFA) to prove user identity. Refer to the <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-Factor Authentication Guide</xref><ph audience="audience-basic audience-tech"> and <xref href="password-managers.dita" format="dita">Password Management Guide</xref></ph> for further information. If you wish to use an additional method of authentication you should review the National Cyber Security Centre (NCSC) guidance and contact the Cyber Assistance Team (CAT). For information on authentication methods including OAuth, refer to the <xref href="managing-user-access-guide.dita" format="dita">Managing User Access Guide</xref>.</li>
         <li><b>Authorisation:</b> Authorisation is the function of specifying access rights/privileges and resources to users, which should be granted in line with the principle of least privilege. Reducing access privileges reduces the "attack surface" of IT systems. This helps to prevent malware and hackers from moving laterally across the network if they compromise a user account.</li>
-        <li id="accounting"><b>Accounting:</b> Successful and unsuccessful attempts to access systems, and user activities conducted while using systems must be recorded in logs. Please see the <xref href="security-log-collection-maturity-tiers.dita" format="dita">Security Log Collection Guide</xref> for more information. This will help to attribute security events or suspicious activities to users who can be supported to improve their behaviours or held accountable for their actions.</li>
+        <li id="accounting"><b>Accounting:</b> Successful and unsuccessful attempts to access systems, and user activities conducted while using systems must be recorded in logs. Please refer to the <xref href="security-log-collection-maturity-tiers.dita" format="dita">Security Log Collection Guide</xref> for more information. This will help to attribute security events or suspicious activities to users who can be supported to improve their behaviours or held accountable for their actions.</li>
       </ol>
       <p>Consider the following points when creating activity logs.</p>
       <p>Logs should be:</p>
@@ -95,13 +95,13 @@ Systems holding sensitive information, or systems that are mission critical to t
       <p>Logs should not be:</p>
       <ul>
         <li>
-          <p>retained for longer than 2 years unless otherwise stipulated. Retention rules may vary on a case by case basis so check with the Data Privacy Team, the Cyber Assistance team, and the <ph conref="conrefs.dita#conrefs/moj"/> Data Protection Officer if a Log involves personal information. See the <xref href="accounting.dita" format="dita">Accounting Guide</xref> for further information.</p>
+          <p>retained for longer than 2 years unless otherwise stipulated. Retention rules may vary on a case by case basis so check with the Data Privacy Team, the Cyber Assistance team, and the <ph conref="conrefs.dita#conrefs/moj"/> Data Protection Officer if a Log involves personal information. Refer to the <xref href="accounting.dita" format="dita">Accounting Guide</xref> for further information.</p>
         </li>
         <li>
           <p>tampered with under any circumstances, for example through modification or removal.</p>
         </li>
       </ul>
-      <p>See the <xref href="security-log-collection-maturity-tiers.dita" format="dita">Security Log Collection Guide</xref> for more information.</p>
+      <p>Refer to the <xref href="security-log-collection-maturity-tiers.dita" format="dita">Security Log Collection Guide</xref> for more information.</p>
     </body>
   </topic>
   <topic id="segregation-of-duties">

@@ -139,7 +139,7 @@ If you have any questions or comments, get in touch: <ph conref="conrefs.dita#co
             <p>a: All log data must be sent to the <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security owned log platform unless all principles have already been met through the deployment of a holistic locally deployed and monitored Security Information and Event Management (SIEM) solution.</p>
           </li>
         </ul>
-        <p>Where 7(a) above is true, the <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security team will advise in context what information must be sent from the in-place SIEM to the <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security Logging Platform.</p>
+        <p>Where 7(a) is true, the <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security team will advise in context what information must be sent from the in-place SIEM to the <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security Logging Platform.</p>
       </body>
     </topic>
   </topic>

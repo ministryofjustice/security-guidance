@@ -206,7 +206,7 @@ This guide is split up into four sections:</p>
       <topic id="external-dependencies">
         <title>External Dependencies</title>
         <body>
-          <p>External dependencies are those which may affect the success of an ITDR plan and lie beyond the area of control of the ITDR Team Lead (see <xref href="it-disaster-recovery-policy.dita" format="dita">IT Security – IT Disaster Recovery Policy</xref> for a role description).</p>
+          <p>External dependencies are those which may affect the success of an ITDR plan and lie beyond the area of control of the ITDR Team Lead (refer to the <xref href="it-disaster-recovery-policy.dita" format="dita">IT Security – IT Disaster Recovery Policy</xref> for a role description).</p>
           <p>For example:</p>
           <ul>
             <li>
@@ -245,7 +245,7 @@ This guide is split up into four sections:</p>
       <topic id="key-contacts">
         <title>Key Contacts</title>
         <body>
-          <p>This section of the ITDR plan should detail the individuals who currently hold the roles listed in the previous section. As mentioned above, this information may be better kept in an annex.</p>
+          <p>This section of the ITDR plan should detail the individuals who currently hold the roles listed in the previous section. As mentioned previously, this information may be better kept in an annex.</p>
         </body>
       </topic>
     </topic>
@@ -253,7 +253,7 @@ This guide is split up into four sections:</p>
       <title>Recovery procedures</title>
       <body>
         <p>This section of the ITDR plan must list the functions of the IT system and the business processes it supports, and relate them to a specific set of recovery actions.  Functions should be categorised (into primary and secondary functions) allowing for critical business processes to be restored ahead of others.</p>
-        <p>A generic set of ITDR incident management steps is <xref href="#itdr-incident-management" format="dita">provided</xref> which should be used as the basis to structure the more granular recovery actions (see <xref href="#recovery-actions" format="dita">here</xref> ).</p>
+        <p>A generic set of ITDR incident management steps is <xref href="#itdr-incident-management" format="dita">provided</xref> which should be used as the basis to structure the more granular recovery actions (refer <xref href="#recovery-actions" format="dita">here</xref> ).</p>
       </body>
       <topic id="primary-functions">
         <title>Primary functions</title>
@@ -372,7 +372,7 @@ This guide is split up into four sections:</p>
           <p>The test results must show:</p>
           <ul>
             <li>
-              <p>Gaps in the level of service compared to the ITDR requirements (see <xref href="#itdr-requirements" format="dita">here</xref> ).</p>
+              <p>Gaps in the level of service compared to the ITDR requirements (refer <xref href="#itdr-requirements" format="dita">here</xref> ).</p>
             </li>
             <li>
               <p>Actions to address these gaps must be identified and assigned to responsible staff.</p>
@@ -395,7 +395,7 @@ This guide is split up into four sections:</p>
               <p>The business processes which are covered by the ITDR plan are proven to be recovered to working use at the end of the test period.</p>
             </li>
             <li>
-              <p>The entire IT system, including data, can be accessed by users within the period of time specified by the agreed RTO limit (see <xref href="#recovery-time-objective-rto" format="dita">here</xref> ).</p>
+              <p>The entire IT system, including data, can be accessed by users within the period of time specified by the agreed RTO limit (refer <xref href="#recovery-time-objective-rto" format="dita">here</xref> ).</p>
             </li>
             <li>
               <p>Where applicable, users can access the IT system from a necessary site after the failover has been tested.</p>
@@ -544,24 +544,24 @@ It is important that any unexpected results arising from the test, which have no
             </row>
             <row>
               <entry>System Description and Scope</entry>
-              <entry>[This section must describe the scope of the ITDR plan. Diagrams may prove useful where there is a complex interaction between systems and business processes covered by this plan. See <xref format="dita" href="#it-system-description">here</xref> for further details]</entry>
+              <entry>[This section must describe the scope of the ITDR plan. Diagrams may prove useful where there is a complex interaction between systems and business processes covered by this plan. Refer <xref format="dita" href="#it-system-description">here</xref> for further details]</entry>
             </row>
             <row>
               <entry>Site List</entry>
-              <entry>[See <xref format="dita" href="#site-list">here</xref>]</entry>
+              <entry>[Refer <xref format="dita" href="#site-list">here</xref>]</entry>
             </row>
             <row>
               <entry>Definition of a 'Disaster'</entry>
-              <entry>[See <xref format="dita" href="#definition-of-a-disaster">here</xref>]</entry>
+              <entry>[Refer <xref format="dita" href="#definition-of-a-disaster">here</xref>]</entry>
             </row>
             <row>
               <entry>Authorised to invoke the plan</entry>
-              <entry>[See <xref format="dita" href="#invocation">here</xref>]</entry>
+              <entry>[Refer <xref format="dita" href="#invocation">here</xref>]</entry>
             </row>
             <row>
               <entry>Staff notification</entry>
               <entry>[Include details of how staff and IT suppliers are notified that ITDR plan has been invoked,
-                see <xref format="dita" href="#staff-notification">here</xref>]</entry>
+                refer <xref format="dita" href="#staff-notification">here</xref>]</entry>
             </row>
             <row>
               <entry>Roles and responsibilities</entry>
@@ -575,13 +575,13 @@ It is important that any unexpected results arising from the test, which have no
               <entry>Internal Dependencies</entry>
               <entry>[Include each dependency, recommend the following format:
 <ul><li>Dependency ID;</li><li>Description;</li><li>Impact (time, resource, effort).</li></ul>
-See <xref format="dita" href="#internal-dependencies">here</xref>]</entry>
+Refer <xref format="dita" href="#internal-dependencies">here</xref>]</entry>
             </row>
             <row>
               <entry>External Dependencies</entry>
               <entry>[Include each dependency, recommend the following format:
 <ul><li>Dependency ID;</li><li>Description;</li><li>Impact (time, resource, effort).</li></ul>
-See <xref format="dita" href="#external-dependencies">here</xref>]</entry>
+Refer <xref format="dita" href="#external-dependencies">here</xref>]</entry>
             </row>
             <row>
               <entry align="center" namest="col1" nameend="col2">Recovery Procedures</entry>
@@ -590,30 +590,30 @@ See <xref format="dita" href="#external-dependencies">here</xref>]</entry>
               <entry>Primary Functions</entry>
               <entry>[Include each primary function, recommend the following format:
 <ul><li>Function ID;</li><li>Function;</li><li>Description.</li></ul>
-See <xref format="dita" href="#primary-functions">here</xref>]</entry>
+Refer <xref format="dita" href="#primary-functions">here</xref>]</entry>
             </row>
             <row>
               <entry>Secondary Functions</entry>
               <entry>[Include each primary function, recommend the following format:
 <ul><li>Function ID;</li><li>Function;</li><li>Description.</li></ul>
-See <xref format="dita" href="#secondary-functions">here</xref>]</entry>
+Refer <xref format="dita" href="#secondary-functions">here</xref>]</entry>
             </row>
             <row>
               <entry>Step [X]</entry>
               <entry>[For each step outlined in <xref format="dita" href="#itdr-incident-management">ITDR Incident Management</xref>,
               list the corresponding recovery procedures in this section;
-              see <xref format="dita" href="#recovery-procedures">Recovery procedures</xref> for further details.]</entry>
+              refer to the <xref format="dita" href="#recovery-procedures">Recovery procedures</xref> for further details.]</entry>
             </row>
             <row>
               <entry align="center" namest="col1" nameend="col2">Recovery Actions and Review</entry>
             </row>
             <row>
               <entry>Recovery Actions</entry>
-              <entry>[See <xref format="dita" href="#recovery-actions">here</xref>]</entry>
+              <entry>[Refer <xref format="dita" href="#recovery-actions">here</xref>]</entry>
             </row>
             <row>
               <entry>Review</entry>
-              <entry>[See <xref format="dita" href="#review">here</xref>]</entry>
+              <entry>[Refer <xref format="dita" href="#review">here</xref>]</entry>
             </row>
             <row>
               <entry align="center" namest="col1" nameend="col2">Plan Approval</entry>

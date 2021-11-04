@@ -28,7 +28,7 @@
           <dd>All other staff working for the <ph conref="conrefs.dita#conrefs/moj"/>.</dd>
         </dlentry>
       </dl>
-      <p>'All <ph conref="conrefs.dita#conrefs/moj"/> users' refers to General users, Technical users and Service Providers as defined above.</p>
+      <p>'All <ph conref="conrefs.dita#conrefs/moj"/> users' refers to General users, Technical users and Service Providers as defined previously.</p>
     </body>
   </topic>
   <topic id="policy-sections">
@@ -80,7 +80,7 @@
   <topic id="domain-name-registration-statements">
     <title>Domain name registration statements</title>
     <body>
-      <p>This policy's statement elements are outlined below:</p>
+      <p>This policy's statement elements are outlined as follows:</p>
     </body>
     <topic id="standards-guidance-and-technology">
       <title>Standards, guidance and technology</title>
@@ -131,7 +131,7 @@
             <p><codeph>POLDOM015:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> follow <xref href="https://www.ncsc.gov.uk/news/ongoing-dns-hijacking-and-mitigation-advice)" format="html" audience="external">NCSC Guidance</xref> when a domain is hijacked or used maliciously.</p>
           </li>
           <li>
-            <p><codeph>POLDOM016:</codeph> <ph conref="conrefs.dita#conrefs/moj"/> departments, ALBs and third parties <ph conref="conrefs.dita#conrefs/policyshall"/> report domain variants and domains used within the <ph conref="conrefs.dita#conrefs/moj"/> but which are not owned by the <ph conref="conrefs.dita#conrefs/moj"/>. See <xref href="#contact-details" format="dita">contact details</xref>.</p>
+            <p><codeph>POLDOM016:</codeph> <ph conref="conrefs.dita#conrefs/moj"/> departments, ALBs and third parties <ph conref="conrefs.dita#conrefs/policyshall"/> report domain variants and domains used within the <ph conref="conrefs.dita#conrefs/moj"/> but which are not owned by the <ph conref="conrefs.dita#conrefs/moj"/>. Refer to the <xref href="#contact-details" format="dita">contact details</xref>.</p>
           </li>
         </ul>
         <note>Contact the TVM group through the <ph conref="conrefs.dita#conrefs/ostemail"/>.</note>

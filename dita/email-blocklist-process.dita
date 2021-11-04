@@ -100,7 +100,7 @@
       <p>Throughout this document,
           any item on the email blocklist is referred to as a 'blocklist object'.</p>
       <p>Each individual mail platform has its own set of objects that can be added to the blocklist.
-          These obects vary from product to product.</p>
+          These objects vary from product to product.</p>
       <note>Users <ph conref="conrefs.dita#conrefs/policyshouldnot"/> interact with any unsolicited or unwanted emails.
           Instead,
           follow email spam handling processes.
@@ -134,7 +134,7 @@
             This is a preferred route for requests to add domains to the global blocklist.
             Owners of individual mailboxes are responsible for managing their own individual mailbox blocklists.</note>
         <p>If a user has multiple email addresses spanning different email platforms,
-            then it's the users responsibility to keep their personal blocklists synchronized between the platforms.</p>
+            then it's the users responsibility to keep their personal blocklists synchronised between the platforms.</p>
       </body>
     </topic>
     <topic id="external-blocklist">
@@ -162,7 +162,7 @@
           <ph conref="conrefs.dita#conrefs/policyshould"/> have AntiVirus scanning in place.
           The scanning includes automatic detection,
           classification,
-          and actioning of suspicious emails.</p>
+          and responding to suspicious emails.</p>
       <p>Be aware that email filtering and blocking can not be 100% effective.
           This means any suspicious or unsolicited emails <ph conref="conrefs.dita#conrefs/policyshould"/> always be
           treated with caution.
@@ -182,7 +182,7 @@
           Security-specific considerations are outlined in the
           <xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Handling and Information
               Sharing Guide</xref>.</p>
-      <p>The Security team applies vendor processes delisting an object or item from the external blocklist,
+      <p>The Security team applies vendor processes to remove an object or item from the external blocklist,
           where appropriate.</p>
       <note>The <ph conref="conrefs.dita#conrefs/moj"/> Security team cannot assist with troubleshooting generic
           email delivery issues.</note>
@@ -208,7 +208,7 @@
         <p>If you believe that you cannot access justice services due to a blocklist,
             then you can request that a review of blocklist by the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
         <p>Requests for review are assessed on an individual basis,
-            working with the nformation disclosure team,
+            working with the information disclosure team,
             to determine resolution steps.</p>
       </body>
     </topic>
@@ -309,7 +309,7 @@
       <p>The <xref href="https://ico.org.uk/" scope="external" format="dita">ICO website</xref> provides general
           information about spam,
           and gives advice about the steps to reduce spam.</p>
-      <p>A spam email does not necessarily require automatice and instant inclusion on the internal blocklist,
+      <p>A spam email does not necessarily require automatic and instant inclusion on the internal blocklist,
           although it might be included as part of the external blocklists,
           as highlighted in this policy.</p>
     </body>

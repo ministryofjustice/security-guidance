@@ -74,8 +74,8 @@
       <body>
     <p>To determine the data disposal and the media's destruction method,
       based on the type of equipment and its security classification,
-      use the table below.</p>
-      <p>The table below contains two columns,
+      use the following table.</p>
+      <p>The table contains two columns,
         called <q>Data deletion method</q> and <q>Destruction method</q>,
         which are defined as:
         <dl>
@@ -95,7 +95,7 @@
         </dl></p>
         <note>If the data is encrypted,
           then only the key needs to be deleted or erased,
-          and the table below does not need to be followed.</note>
+          and the table does not need to be followed.</note>
         <p>If the table does not cover your exact requirement,
       contact the Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/></p>
     <note importance="high">When disposing of <codeph>SECRET</codeph> or <codeph>TOP SECRET</codeph> equipment or materials,
@@ -126,7 +126,7 @@
               verifying that only the data used to perform the overwrite can be read back.</entry>
             <entry colname="col3">Break the platters into at least four pieces.
               This can be carried out either manually or by using a commercially available destruction product suitable for use with hard disks.
-              Alternatively, apply a lower level degauss (see explanation after this table),
+              Alternatively, apply a lower level degauss (refer to the explanation after this table),
               and then apply a destructive procedure that prevents the disk from turning.
               For example,
               punch holes into the platters,
@@ -144,7 +144,7 @@
           <row>
             <entry colname="col1">Optical media</entry>
             <entry colname="col2">Data deletion is not possible.
-              <ph audience="audience-tech">See also the note about RW-capable media after this table.</ph></entry>
+              <ph audience="audience-tech">Refer also to the note about RW-capable media after this table.</ph></entry>
             <entry colname="col3">Shred or disintegrate using equipment that meets a recognised international destruction standard.
               Particles should be no larger than 6 mm in any direction.
               A high capacity CD and DVD shredder is available at 102 Petty France,
@@ -187,7 +187,7 @@
       It is recommended that staff located in Petty France and Clive House and who
       need to destroy any CD/DVD <ph conref="conrefs.dita#conrefs/policyshould"/> use this machine.
       Contact <ph conref="conrefs.dita#conrefs/ostemail"/> for help with this option.</p>
-    <p>Owners of the data storage devices are responsible for procuring services that meet the necessary destruction outcomes as described above.</p>
+    <p>Owners of the data storage devices are responsible for procuring services that meet the necessary destruction outcomes as described previously.</p>
     <p>Wherever possible and appropriate,
       managers should pool together equipment with that of local colleagues to share service costs.</p>
     </body>
@@ -202,7 +202,7 @@
           This includes:
           <ol>
             <li>The <ph conref="conrefs.dita#conrefs/moj"/> or supplier scans the hard drive or physical media asset tags or barcodes.</li>
-            <li>The <ph conref="conrefs.dita#conrefs/moj"/> or supplier carries out data destruction (as per the table above).</li>
+            <li>The <ph conref="conrefs.dita#conrefs/moj"/> or supplier carries out data destruction (as per the previous table).</li>
             <li>The <ph conref="conrefs.dita#conrefs/moj"/> or supplier confirms hard drive or physical media data destruction
               by providing reasonable proof.
             This can include:
@@ -212,7 +212,7 @@
             <li>A witness in attendance to sign a destruction certificate that is be stored in a secure space or network share.</li>
           </ol></li>
           </ol></p>
-          <note>An alternative to the above steps is to use a leading enterprise erasure tool that provides a certificate aligned to
+          <note>An alternative to the previous steps is to use a leading enterprise erasure tool that provides a certificate aligned to
             <xref href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-88r1.pdf"
             format="pdf" scope="external">NIST 800-88 Guidelines for Media Sanitization</xref>.
             Such a tool verifies:
@@ -240,7 +240,7 @@
     <p>Guidance on the transportation of secure data is located in the CPNI guidance:
       <q><xref href="https://www.cpni.gov.uk/system/files/documents/c5/e1/2017_01_20_CPNI_Secure_Destruction_Standard.pdf"
         format="pdf" scope="external">10. Transport of sensitive items</xref></q>.</p>
-    <p>The above guidance is also referenced in the CAS Sanitisation Service Requirement,
+    <p>The previous guidance is also referenced in the CAS Sanitisation Service Requirement,
       under section <q><xref href="https://www.ncsc.gov.uk/files/CAS-Sanitisation_Service_Requirement_2-1.pdf"
         format="pdf" scope="external">MIT001 – Keep items secure during transportation</xref></q> on page 9.</p>
     <p></p>

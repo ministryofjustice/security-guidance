@@ -55,7 +55,7 @@
       <p>"All <ph conref="conrefs.dita#conrefs/moj"/> users" refers to General users,
         Technical users,
         and Service Providers,
-        as defined above.</p>
+        as defined previously.</p>
     </body>
   </topic>
   <topic id="policy-sections">
@@ -142,10 +142,10 @@
         <ul>
           <li>Authorisation procedures for showing who (role-based) is allowed to access what,
             and when.
-            See subsections <xref href="#information-access-restrictions" format="dita">Information Access Restrictions</xref> and
+            Refer to subsections <xref href="#information-access-restrictions" format="dita">Information Access Restrictions</xref> and
             <xref href="#management-of-privileged-access-rights" format="dita">Management of Privileged Access Rights</xref>.</li>
           <li>Management controls and procedures to prevent access and real-time monitoring.
-            See the categories called <xref href="#system-and-application-access-control" format="dita">System and Application Access Control</xref>
+            Refer to the categories called <xref href="#system-and-application-access-control" format="dita">System and Application Access Control</xref>
             and <xref href="#user-access-management" format="dita">User Access Management</xref>,
             with monitoring covered in the subsections called <xref href="#password-management-system" format="dita">Password Management System</xref>
             and <xref href="#management-of-privileged-access-rights" format="dita">Management of Privileged Access Rights</xref>.</li>
@@ -169,7 +169,7 @@
           System Designers and Administrators <ph conref="conrefs.dita#conrefs/policymust"/> use adequate authentication techniques
           to identify with confidence user access to their system or data,
           using the principle of "least privilege".
-          See the guidance on <xref href="authorisation.dita" format="dita">Authorisation</xref> for more detail.</p>
+          Refer to the guidance on <xref href="authorisation.dita" format="dita">Authorisation</xref> for more detail.</p>
       </body>
     </topic>
     <topic id="secure-log-on-procedures">
@@ -181,16 +181,16 @@
         <ul>
           <li><codeph>POLACP011:</codeph> Multi-user (MU) accounts <ph conref="conrefs.dita#conrefs/policymust"/> be managed carefully using PAM or a Bastion server,
             to avoid accountability type security risks.
-            <ph audience="audience-tech">See the <xref href="multi-user-accounts-and-public-facing-service-accounts-guide.dita"
+            <ph audience="audience-tech">Refer to the <xref href="multi-user-accounts-and-public-facing-service-accounts-guide.dita"
               format="dita">Multi-user Accounts and Public-Facing Service Accounts</xref> guidance.</ph></li>
           <li audience="audience-tech"><codeph>POLACP012:</codeph> Front-end users accessing the <ph conref="conrefs.dita#conrefs/moj"/>'s public services
             <ph conref="conrefs.dita#conrefs/policymust"/> authenticate via the GOV.UK Verify Service.
-            See the <xref href="passwords.dita" format="dita">User Facing Services</xref> guidance.</li>
+            Refer to the <xref href="passwords.dita" format="dita">User Facing Services</xref> guidance.</li>
           <li><codeph>POLACP013:</codeph> System Designers for internal systems <ph conref="conrefs.dita#conrefs/policymust"/> use the <ph conref="conrefs.dita#conrefs/moj"/>'s
             single sign-on (SSO) solution to authenticate via an Identity and Access system.</li>
           <li><codeph>POLACP014:</codeph> Passwords <ph conref="conrefs.dita#conrefs/policymustnot"/> be stored or transmitted over the network in clear text,
             nor be protected with encryption that has known security weaknesses.
-            <ph audience="audience-tech">See the
+            <ph audience="audience-tech">Refer to the
               <xref href="password-management-guide.dita"
               format="dita">Password Management Guide</xref>.</ph></li>
         </ul></p>
@@ -215,14 +215,14 @@
           <li><codeph>POLACP019:</codeph> Strong passwords,
             separate and unique for each account or service,
             <ph conref="conrefs.dita#conrefs/policymust"/> be created and maintained by all users.
-            See the <ph audience="audience-tech"><xref href="password-management-guide.dita" format="dita">Password Management Guide, Roles and Responsibilities section</xref>, </ph>
+            Refer to the <ph audience="audience-tech"><xref href="password-management-guide.dita" format="dita">Password Management Guide, Roles and Responsibilities section</xref>, </ph>
               <xref href="passwords.dita" format="dita">Passwords</xref> and
               <xref href="https://www.ncsc.gov.uk/cyberaware/home#action-2" format="html" scope="external">CyberAware advice</xref>.</li>
           <li><codeph>POLACP020:</codeph> Users <ph conref="conrefs.dita#conrefs/policymust"/> change a password initially received by a system or support team
             before carrying out <ph conref="conrefs.dita#conrefs/moj"/> tasks.
-            See <xref href="passwords.dita" format="dita">Passwords</xref>.</li>
+            Refer to <xref href="passwords.dita" format="dita">Passwords</xref>.</li>
           <li><codeph>POLACP021:</codeph> Password history and blocking of commonly guessed passwords <ph conref="conrefs.dita#conrefs/policymust"/> be enabled in a system.
-            <ph audience="audience-tech">See the
+            <ph audience="audience-tech">Refer to the
               <xref href="password-creation-and-authentication-guide.dita"
               format="dita">Password Creation and Authentication Guide</xref>.</ph></li>
           <li>Regular password change is not required,
@@ -230,7 +230,7 @@
             scope="external">outdated and ineffective practice</xref>.</li>
           <li><codeph>POLACP022:</codeph> Password managers or vaults used at the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> align to
             industry standards to securely store and transmit passwords in a protected form.
-            <ph audience="audience-tech">See <xref href="password-managers.dita" format="dita">Password Managers</xref> and
+            <ph audience="audience-tech">Refer to <xref href="password-managers.dita" format="dita">Password Managers</xref> and
             <xref href="password-storage-and-management-guide.dita" format="dita">Password Vaults and
               Managers</xref>.</ph></li>
         </ul></p>
@@ -265,7 +265,7 @@
         <ul>
           <li><codeph>POLACP025:</codeph> Multi-User (MU) or shared ID accounts <ph conref="conrefs.dita#conrefs/policymust"/> only be used directly
             if there is no alternative.
-            <ph audience="audience-tech">See <xref href="multi-user-accounts-and-public-facing-service-accounts-guide.dita"
+            <ph audience="audience-tech">Refer to <xref href="multi-user-accounts-and-public-facing-service-accounts-guide.dita"
               format="dita">Multi-user Accounts and
               Public-Facing Service Accounts</xref>.</ph></li>
           <li><codeph>POLACP026:</codeph> The identity of the new user <ph conref="conrefs.dita#conrefs/policymust"/> be confirmed.
@@ -273,7 +273,7 @@
             this is established as part of pre-employment screening and vetting using the Baseline Personnel Security Standard (BPSS),
             which is the joint responsibility of HR (performed on their behalf by Shared Services Connected Ltd),
             and a line manager.
-            See <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/" format="html" scope="external">Security
+            Refer to <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/" format="html" scope="external">Security
               Vetting</xref> and the
               <xref href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/714002/HMG_Baseline_Personnel_Security_Standard_-_May_2018.pdf" format="pdf" scope="external">BPSS</xref> information.</li>
           <li><codeph>POLACP027:</codeph> The hiring line manager <ph conref="conrefs.dita#conrefs/policymust"/> submit a ServiceNow
@@ -292,7 +292,7 @@
             format="html" scope="external">United Kingdom Security Vetting</xref> (UKSV) to recruit new staff (civil servants,
             armed forces and temporary staff),
             or staff changing their <ph conref="conrefs.dita#conrefs/moj"/> roles.
-            See <xref href="https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels"
+            Refer to <xref href="https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels"
             format="html" scope="external">Clearance Levels</xref>.</li>
         </ul></p>
         <note>For Contractors or Agency staff,
@@ -321,7 +321,7 @@
             and those no longer required removed.</li>
         </ul></p>
         <p>For further information on user de-registration,
-          see the <xref href="enterprise-access-control-policy.dita" format="dita"><ph conref="conrefs.dita#conrefs/moj"/> Enterprise Access Control Policy</xref>.</p>
+          refer to the <xref href="enterprise-access-control-policy.dita" format="dita"><ph conref="conrefs.dita#conrefs/moj"/> Enterprise Access Control Policy</xref>.</p>
       </body>
     </topic>
     <topic id="user-access-provisioning">
@@ -337,14 +337,14 @@
               UK security clearance levels</xref>,
               as per requirements such as <xref href="https://security-guidance.service.justice.gov.uk/access-control-guide/#segregation-of-duties"
               format="html" scope="external">segregation of duties</xref>.
-              See <xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels</xref> guidance.</li>
+              Refer to <xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels</xref> guidance.</li>
           <li><codeph>POLACP038:</codeph> MFA <ph conref="conrefs.dita#conrefs/policymust"/> be used to ensure access to <ph conref="conrefs.dita#conrefs/moj"/> Information,
             and is only granted to users once their identity is confirmed.
-            See the <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-Factor Authentication</xref> guidance.</li>
+            Refer to the <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-Factor Authentication</xref> guidance.</li>
           <li><codeph>POLACP039:</codeph> All <ph conref="conrefs.dita#conrefs/moj"/> data access <ph conref="conrefs.dita#conrefs/policymust"/> employ adequate authentication techniques
             to identify the system or user with confidence,
             where that system or user requires access to <ph conref="conrefs.dita#conrefs/moj"/> systems or data.
-            <ph audience="audience-tech">See the <xref href="authentication.dita" format="dita">Authentication</xref> guidance.</ph></li>
+            <ph audience="audience-tech">Refer to the <xref href="authentication.dita" format="dita">Authentication</xref> guidance.</ph></li>
           <li><codeph>POLACP040:</codeph> System Administrators <ph conref="conrefs.dita#conrefs/policymust"/> maintain the <ph conref="conrefs.dita#conrefs/moj"/>'s systems' security,
             with failure to comply compromising the organisational infrastructure.</li>
           <li><codeph>POLACP041:</codeph> System Administrators <ph conref="conrefs.dita#conrefs/policymust"/> maintain an active list of all active and suspended users,
@@ -358,7 +358,7 @@
               <li>Any taking ownership of user accounts.</li>
             </ul></li>
           <li><codeph>POLACP043:</codeph> A user leaving <ph conref="conrefs.dita#conrefs/policymust"/> move their data to a shared folder if needed for retention.
-            See the <xref href="https://mojprod.service-now.com/moj_sp?id=sc_cat_item&amp;sys_id=c195e78edb73e7441b4ffc45ae9619f2"
+            Refer to the <xref href="https://mojprod.service-now.com/moj_sp?id=sc_cat_item&amp;sys_id=c195e78edb73e7441b4ffc45ae9619f2"
             format="html" scope="external">Account Deletion</xref> process.</li>
           <li><codeph>POLACP044:</codeph> If anyone with an <ph conref="conrefs.dita#conrefs/moj"/> account leaves the organisation,
             system administrators <ph conref="conrefs.dita#conrefs/policymust"/> retrieve the user's equipment and suspend the account.</li>
@@ -369,11 +369,11 @@
             and raise a security incident,
             with the following <xref href="https://intranet.justice.gov.uk/documents/2015/04/security-incident-report-form.xls"
             format="xls" scope="external">form</xref> completed and emailed to <ph conref="conrefs.dita#conrefs/securityemail"/>.
-            See the <xref href="https://intranet.justice.gov.uk/documents/2015/04/leavers-checklist-for-managers.docx"
+            Refer to the <xref href="https://intranet.justice.gov.uk/documents/2015/04/leavers-checklist-for-managers.docx"
             format="docx" scope="external">Leavers checklist for managers</xref> for more information.</li>
         </ul></p>
         <!-- FIXME -->
-        <note audience="audience-tech">The above points are covered by the
+        <note audience="audience-tech">The previous points are covered by the
           <xref href="system-users-and-application-administrators.dita" format="dita">System Administrators</xref> guidance.</note>
       </body>
     </topic>
@@ -390,12 +390,12 @@
           <li><codeph>POLACP049:</codeph> Default passwords <ph conref="conrefs.dita#conrefs/policymust"/> be managed securely
             and safely by privileged account users<ph audience="audience-tech">,
             described in the <xref href="password-managers.dita" format="dita">Password Manager</xref> guidance</ph>.
-            See the <xref href="privileged-account-management-guide.dita" format="dita">Privileged Account Management</xref> guidance for more information.</li>
+            Refer to the <xref href="privileged-account-management-guide.dita" format="dita">Privileged Account Management</xref> guidance for more information.</li>
           <li><codeph>POLACP050:</codeph> All users with ownership and use of privileged accounts <ph conref="conrefs.dita#conrefs/policymust"/> have these secured,
             controlled,
             monitored,
             and audited by System Administrators every month using an industry-standard Privileged Access Management (PAM) tool.
-            See the <xref href="privileged-account-management-guide.dita" format="dita">Privileged Account Management</xref> guidance for more information.</li>
+            Refer to the <xref href="privileged-account-management-guide.dita" format="dita">Privileged Account Management</xref> guidance for more information.</li>
         </ul></p>
         <note>Privileged access rights provide a Technical user or a Service Provider
           with an enhanced level of access to the <ph conref="conrefs.dita#conrefs/moj"/>'s information systems,
@@ -414,12 +414,12 @@
         <ul>
           <li><codeph>POLACP052:</codeph> User password management <ph conref="conrefs.dita#conrefs/policymust"/> be configured,
             so a password is changed after the initial log-on and invalid if not used in a specified time.
-            <ph audience="audience-tech">See the <xref href="passwords.dita" format="dita">Passwords</xref> guidance.</ph></li>
+            <ph audience="audience-tech">Refer to the <xref href="passwords.dita" format="dita">Passwords</xref> guidance.</ph></li>
           <li><codeph>POLACP053:</codeph> System Administrators and systems <ph conref="conrefs.dita#conrefs/policymust"/> never send passwords by email,
             as it is an unsecured channel.
             <p><codeph>POLACP054:</codeph> Instead,
             users <ph conref="conrefs.dita#conrefs/policymust"/> receive a time-limited password-reset link or code to their registered email address or phone number.
-            See the Government guidance "<xref href="https://design-system.service.gov.uk/patterns/passwords/" format="html" scope="external">Send a link
+            Refer to the Government guidance "<xref href="https://design-system.service.gov.uk/patterns/passwords/" format="html" scope="external">Send a link
               to trigger password resets</xref>".</p></li>
         </ul></p>
       </body>

@@ -5,7 +5,7 @@
   <topic id="the-base-principle">
     <title>The base principle</title>
     <body>
-      <p>IP networks <b>must</b> be considered commodity bearers for technical connectivity to faciliate the movement of data.</p>
+      <p>IP networks <b>must</b> be considered commodity bearers for technical connectivity to facilitate the movement of data.</p>
       <p>Network characteristics (such as hardware port, VLAN tag or IP address) should not be solely relied upon as part of authorisation to confer trust or privilege.</p>
       <p>h/t <xref href="https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20" format="html" scope="external">https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20</xref></p>
     </body>

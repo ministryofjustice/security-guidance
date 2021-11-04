@@ -124,7 +124,7 @@
           implementation,
           and operation.</p>
         <p>Security testing of an IT system to obtain the assurance evidence required can occur at various points
-          throughout the system development and deployment lifecycle (see <xref href="#security-consideration" format="dita">Table 1</xref>).
+          throughout the system development and deployment lifecycle (refer to <xref href="#security-consideration" format="dita">Table 1</xref>).
           For example:
           <dl>
             <dlentry>
@@ -165,7 +165,7 @@
             and Information Asset Owner (IAO).
             Further information can be obtained from the <ph conref="conrefs.dita#conrefs/moj"/> Data Access and Compliance Unit (DACU) who maintain the policy on the use of live personal data.</p>
             <note>The risk associated with the use of live personal data for testing might require Senior Information Risk Owner (SIRO) approval.
-              See <xref href="using-live-data-for-testing-purposes.dita" format="dita">this information</xref> for further details.</note>
+              Refer to <xref href="using-live-data-for-testing-purposes.dita" format="dita">this information</xref> for further details.</note>
         </body>
       </topic>
     </topic>
@@ -178,7 +178,7 @@
           <!-- FIXME -->
         <p>The decision on what security tests to include in the overall system test plan must be based on the system IS1 risk assessment,
           and agreed with the system assurer.
-          The section below (<xref href="#types-of-security-tests" format="dita">Types of security tests</xref>)
+          The following section (<xref href="#types-of-security-tests" format="dita">Types of security tests</xref>)
           provides an overview of the types of security tests which must be considered.
           Further details on the assurance process can be found in the <xref href="https://intranet.justice.gov.uk/documents/2015/04/accreditation-framework.pdf" format="pdf" scope="external">Accreditation Framework</xref>.</p>
           <!-- FIXME -->
@@ -289,7 +289,7 @@
       <topic id="security-consideration">
         <title>Security consideration</title>
         <body>
-          <p>Table 1 below provides a high level overview of the security testing which should be considered against
+          <p>Table 1 following provides a high level overview of the security testing which should be considered against
             each of the main testing activities typically conducted during the development and deployment phases of an IT system.</p>
           <table>
             <title>Table 1 – Security consideration</title>
@@ -308,14 +308,14 @@
                 <row>
                   <entry colname="col1">Unit, Module, or Package Testing</entry>
                   <entry colname="col2">This is aimed at verifying that individual modules/packages comply with their design.</entry>
-                  <entry colname="col3">See <xref href="#secure-code-review" format="dita">Secure code review</xref>.</entry>
+                  <entry colname="col3">Refer to <xref href="#secure-code-review" format="dita">Secure code review</xref>.</entry>
                 </row>
                 <row>
                   <entry colname="col1">Component Testing</entry>
                   <entry colname="col2">Units or Modules combined into components then tested.
                     This is aimed at verifying that the individual components meet their design and specification requirements.
                     Third party software may also be introduced at this point and tested.</entry>
-                  <entry colname="col3">See <xref href="#secure-code-review" format="dita">Secure code review</xref>.
+                  <entry colname="col3">Refer to <xref href="#secure-code-review" format="dita">Secure code review</xref>.
                     Functional testing and enhanced secure code review of security enforcing components.</entry>
                 </row>
                 <row>
@@ -330,9 +330,9 @@
                   <entry colname="col2">The set of tests to be run to demonstrate the suitability of the system to the client.
                     These will typically be a subset of the tests used for system testing in the integration phase.</entry>
                   <entry colname="col3">Testing of both functional and non-functional security requirements.
-                    Penetration test or ITHC (see <xref href="#system-configuration-tests" format="dita">System Configuration Tests</xref>).
-                    Vulnerability scan (see <xref href="#vulnerability-scanning" format="dita">Vulnerability Scanning</xref>).
-                    Compliance scan (see <xref href="#compliance-scanning" format="dita">Compliance Scanning</xref>).</entry>
+                    Penetration test or ITHC (refer to <xref href="#system-configuration-tests" format="dita">System Configuration Tests</xref>).
+                    Vulnerability scan (refer to <xref href="#vulnerability-scanning" format="dita">Vulnerability Scanning</xref>).
+                    Compliance scan (refer to <xref href="#compliance-scanning" format="dita">Compliance Scanning</xref>).</entry>
                 </row>
               </tbody>
             </tgroup>

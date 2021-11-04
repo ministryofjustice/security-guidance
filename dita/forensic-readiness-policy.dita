@@ -11,7 +11,7 @@
     <topic id="how-to-use-this-document">
       <title>How to use this document</title>
       <body>
-        <p>Each policy statement outlines a security requirement and where applicable, a reference is provided to further material. A unique identify is associated with each statement for easy reference. The format of each statement is illustrated below:
+        <p>Each policy statement outlines a security requirement and where applicable, a reference is provided to further material. A unique identify is associated with each statement for easy reference. The format of each statement is as follows:
           <dl>
             <dlentry>
               <dt>POL.FRP.XXX</dt>
