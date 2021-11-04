@@ -16,7 +16,7 @@ and
 
 The policy on data handling and information sharing is covered in the Information Classification and Handling Policy, whilst this document sets out the MoJ guidance sharing information within the MoJ and externally with other Government departments and 3rd parties.
 
-**Note:** Other guidance might refer to information classified as being `IL3 REST*`. This is an older classification standard. In general, `IL3 REST*` is approximately equivalent to `OFFICIAL` with the `SENSITIVE` handling caveat, often written as `OFFICIAL-SENSITIVE`. While this approximate correspondance might be helpful, you should always review classification where older terms are used, to ensure that the correct current classification is used.
+**Note:** Other guidance might refer to information classified as being `IL3 REST*`. This is an older classification standard. In general, `IL3 REST*` is approximately equivalent to `OFFICIAL` with the `SENSITIVE` handling caveat, often written as `OFFICIAL-SENSITIVE`. While this approximate alignment might be helpful, you should always review classification where older terms are used, to ensure that the correct current classification is used.
 
 ##Scope
 
@@ -73,13 +73,13 @@ As these networks can support data up to and including `OFFICIAL-SENSITIVE`, a b
 * Frequency.
 * Any "need-to-know" considerations.
 
-Any additional controls **SHALL** be captured on the DMF (see [Data Movement Form](#data-movement-form-dmf), where advice should be obtained from the MoJ Chief Information Security Officer (CISO) when required.
+Any additional controls **SHALL** be captured on the DMF (refer to the [Data Movement Form](#data-movement-form-dmf), where advice should be obtained from the MoJ Chief Information Security Officer (CISO) when required.
 
 ##USB mass storage device
 
 If using a secure network is not feasible, the next preferred option is to use an encrypted removable media, such as an approved USB mass storage device.
 
-For more information, see the [Removable Media](https://security-guidance.service.justice.gov.uk/removable-media/) guidance.
+For more information, refer to the [Removable Media](https://security-guidance.service.justice.gov.uk/removable-media/) guidance.
 
 The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice **SHALL** be sought from the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk), or CISO on the best option to use when completing the DMF (see [Data Movement Form](#data-movement-form-dmf)).
 
@@ -163,7 +163,7 @@ Where there is a business requirement to do so, sensitive information may be sha
 
 **Note:** File encryption does not protect the name of the file. This could reveal clues as to the nature and importance of the encrypted data. Encrypted files should be given innocuous names for transmission. If the data is contained in numerous small files, these should be collected together into a single archive ("zip") file. This archive should then be encrypted. Each file or archive should be sent separately, rather than attaching multiple encrypted files to a single e-mail.
 
-##Sharing information above `OFFICIAL`
+##Sharing information higher than `OFFICIAL`
 
 Where there is a business requirement to share information classified higher than `OFFICIAL`, advice **SHALL** be sought from the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk) or CISO prior to completing a [Data Movement Form](#data-movement-form-dmf).
 

@@ -30,7 +30,7 @@ Acceptable use of IT is when you use it to do your work.
 
 IT helps you complete your tasks as efficiently and effectively as possible. Sometimes, you might need account details such as passwords to use the IT. Acceptable use means protecting this kind of information, too.
 
-Acceptable use can also vary according to context. For example, checking sensitive personal details might be perfectly normal within a secured office, but is not acceptable in a public space where anyone else might see those details.
+Acceptable use can also vary according to context. For example, checking sensitive personal details might be perfectly normal within a secured office, but is not acceptable in a public space where anyone else might access those details.
 
 ##Unacceptable use of MoJ IT
 
@@ -68,7 +68,7 @@ Unacceptable use might also affect you, too:
 
 You are responsible for protecting your MoJ IT resources. This includes keeping your usernames and passwords safe and secure.
 
-It also means looking after MoJ equipment, especially when working away from MoJ locations. You are responsible for protecting MoJ equipment issued to you. Any theft of MoJ equipment, or deliberate or willful damage to MoJ equipment, should normally be [reported](https://security-guidance.service.justice.gov.uk/lost-devices-incidents/) to the Police and to the IT Service Desk.
+It also means looking after MoJ equipment, especially when working away from MoJ locations. You are responsible for protecting MoJ equipment issued to you. Any theft of MoJ equipment, or deliberate or wilful damage to MoJ equipment, should normally be [reported](https://security-guidance.service.justice.gov.uk/lost-devices-incidents/) to the Police and to the IT Service Desk.
 
 **Note:** You should normally report instances of theft or damage to authorities as indicated. However, there might be additional circumstances which mean a sensitive handling of the situation is appropriate. It is acceptable to consider the context of the situation when making a report. Ensure you can justify your actions. In cases of uncertainty, don't hesitate to ask your line manager, or other responsible authority for advice.
 
@@ -102,11 +102,11 @@ Examples of unacceptable MoJ mobile phone use include:
 * Calling premium rate telephone services.
 * Voting in "reality TV" popularity contests - these usually involve premium rate services.
 * Downloading, uploading, or streaming media files that are not work-related, such as music or movies.
-* "Tethering" another device to the MoJ mobile phone, and then using the other device for any of the above activities.
+* "Tethering" another device to the MoJ mobile phone, and then using the other device for any of the previously mentioned activities.
 
 ... as well as any other activities that are not obviously work-related.
 
-All use of MoJ IT resources is monitored and logged. This includes mobile phone usage listed in account bills. It is possible to see if you used a work-issued mobile phone for unacceptable activities. Unacceptable use is reported to your Line Manager for further appropriate action. Assessing your behaviour and performance takes this kind of activity into account.
+All use of MoJ IT resources is monitored and logged. This includes mobile phone usage listed in account bills. It is possible to find out if you used a work-issued mobile phone for unacceptable activities. Unacceptable use is reported to your Line Manager for further appropriate action. Assessing your behaviour and performance takes this kind of activity into account.
 
 ##Using MoJ IT outside your usual workplace
 

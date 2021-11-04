@@ -12,7 +12,7 @@ Some business areas employ large number of NSV-cleared people and those clearanc
 
 * NSVCs are a mandatory role and one **SHALL** be appointed if there are National Security Vetted staff in any business area.
 
-* NSVCs **SHALL** undergo the Baseline Personnel Security Standard (BPSS) check as a minimum, and be registered with [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). How many NSVCs a business area needs is for Senior Managers to determine, based on how they are organised. For example, how many NSV clearances need processing and maintainance.
+* NSVCs **SHALL** undergo the Baseline Personnel Security Standard (BPSS) check as a minimum, and be registered with [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). How many NSVCs a business area needs is for Senior Managers to determine, based on how they are organised. For example, how many NSV clearances need processing and maintenance.
 
 * NSVCs monitor the progress of all applications for an NSV clearance and **SHALL** maintain a register of all active NSV personnel within their business area.
 

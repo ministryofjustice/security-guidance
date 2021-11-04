@@ -8,7 +8,7 @@ Not everyone has access to an MoJ device for remote use. If you need equipment, 
 
 In unusual circumstances, it might not be possible to organise provision of equipment. In such cases, you **CAN** request access to an MoJ [virtual environment](#virtual-environment).
 
-Except when connecting to an MoJ [virtual environment](#virtual-environment), or with documented approval in exceptional circumstances as described [below](#guidance), you **SHALL NOT** use a personal device for work purposes.
+Except when connecting to an MoJ [virtual environment](#virtual-environment), or with documented approval in exceptional circumstances as described [in this guidance](#guidance), you **SHALL NOT** use a personal device for work purposes.
 
 Avoid connecting peripherals to MoJ devices, unless those peripherals are supplied or approved by the MoJ. Examples of peripheral devices include USB, wireless, or [Bluetooth](https://security-guidance.service.justice.gov.uk/bluetooth/) keyboards or mice.
 
