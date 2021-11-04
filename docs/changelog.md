@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-11-04 09:05 GMT [Working securely with paper documents and files](https://security-guidance.service.justice.gov.uk/working-securely-with-paper-documents-and-files/)**
+
+    This guidance helps you understand the risks involved in working with, sharing, and moving paper documents both inside and outside the office.
+
 -   **2021-11-03 17:12 GMT [Email blocking](https://security-guidance.service.justice.gov.uk/email-blocklist-policy/)**
 
     The policy and processes for blocking emails, and deleting emails through administrative processes, across email services across the MoJ.
