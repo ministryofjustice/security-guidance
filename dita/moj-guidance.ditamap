@@ -113,6 +113,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="secure-disposal-of-it-equipment.dita" type="topic">
 				<topicref href="secure-disposal-of-it-physical-and-on-premise.dita" type="topic"/>
 			</topicref>
+			<topicref href="working-securely-with-paper-documents-and-files.dita" type="topic"/>
 		</topichead>
 	</topichead>
 

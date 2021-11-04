@@ -1,6 +1,6 @@
 # CCTV policy
 
-The policy compliments the Ministry of Justice \(MoJ\)'s overall security policy.
+The policy complements the Ministry of Justice \(MoJ\)'s overall security policy.
 
 The CCTV Policy applies to all employees, contractors, partners and service providers, including those on co-located sites and sites owned by other public bodies. This also includes employees of other organisations who are based in, or work at, MoJ occupied premises.
 
