@@ -25,7 +25,10 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="data-handling-and-information-sharing-guide.dita" type="topic"/>
 			<topicref href="email.dita" type="topic"/>
 			<topicref href="equipment-reassignment-guide.dita" type="topic"/>
+			<topicref href="information-classification-and-handling-policy.dita" type="topic"/>
 			<topicref href="information-classification-handling-and-security-guide.dita" type="topic"/>
+			<topicref href="it-security-all-users-policy.dita" type="topic"/>
+			<topicref href="it-security-policy-overview.dita" type="topic"/>
 			<topicref href="long-term-leave.dita" type="topic"/>
 			<topicref href="official-official-sensitive.dita" type="topic"/>
 			<topicref href="personal-devices.dita" type="topic"/>
@@ -100,6 +103,7 @@ if an audience attribute is present, then only matching content is included.
 	<topichead>
 		<topicmeta><navtitle>User access</navtitle></topicmeta>
 		<topicref href="acceptable-use.dita" type="topic"/>
+		<topicref href="acceptable-use-policy.dita" type="topic"/>
 		<topicref href="data-security-and-privacy.dita" type="topic"/>
 		<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic"/>
 		<topicref href="government-classification-scheme.dita" type="topic"/>
@@ -108,8 +112,8 @@ if an audience attribute is present, then only matching content is included.
 		<topicref href="line-manager-approval.dita" type="topic"/>
 		<topicref href="passwords.dita" type="topic"/>
 		<topicref href="password-managers.dita" type="topic"/>
-		<topicref href="using-lastpass.dita" type="topic"/>
 		<topicref href="setecastronomy.dita" type="topic"/>
+		<topicref href="using-lastpass.dita" type="topic"/>
 	</topichead>
 	<topichead>
 		<topicmeta><navtitle>Training and education</navtitle></topicmeta>
