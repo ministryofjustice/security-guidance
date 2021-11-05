@@ -45,7 +45,7 @@
     <topic id="general-security-operating-procedures-syops">
       <title>General Security Operating Procedures (SyOPs)</title>
       <body>
-        <p>The policy refers to a key set of general SyOPs which are listed below:
+        <p>The policy refers to a key set of general SyOPs, as follows:
         <ul>
           <!-- FIXME -->
           <li audience="audience-tech"><xref href="privileged-user-guide.dita" format="dita">Privileged User Guide</xref>.</li>
@@ -57,7 +57,7 @@
           <li>Legacy: IT Security Operating Procedures - ICT Equipment: Mobile Devices – Blackberry.</li>
           -->
         </ul></p>
-        <p>To minimise the number of SyOPs in circulation and standardise procedures, the SyOPs listed above act as the primary set, which individual IT systems are expected to conform to, in terms of their own SyOPs. Any deviations or additions are dependent upon approval through the assurance process.</p>
+        <p>To minimise the number of SyOPs in circulation and standardise procedures, the SyOPs listed previously act as the primary set, which individual IT systems are expected to conform to, in terms of their own SyOPs. Any deviations or additions are dependent upon approval through the assurance process.</p>
         <p><codeph>POL.ITAUP.008</codeph>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> have documented SyOPs which comply with the general SyOPs <xref href="#general-security-operating-procedures-syops" format="dita">listed in this policy</xref>. Any deviations or additions <ph conref="conrefs.dita#conrefs/policymust"/> be recorded in separate SyOPs which form an addendum to one of the SyOPs <xref href="#general-security-operating-procedures-syops" format="dita">listed</xref>.</p>
         <note>An IT system <ph conref="conrefs.dita#conrefs/policymay"/> make use of, in their entirety, one or more of the SyOPs listed in this policy if the procedures of that IT system do not deviate from those described in the general SyOPs.</note>
       </body>

@@ -50,13 +50,13 @@ For most Users, access to MoJ IT systems and information held on them is through
 
 ### General Security Operating Procedures \(SyOPs\)
 
-The policy refers to a key set of general SyOPs which are listed below:
+The policy refers to a key set of general SyOPs, as follows:
 
 -   [Privileged User Guide](privileged-user-guide.md).
 -   [System Users and Application Administrators](system-users-and-application-administrators.md).
 -   [Remote Working](remote-working.md).
 
-To minimise the number of SyOPs in circulation and standardise procedures, the SyOPs listed above act as the primary set, which individual IT systems are expected to conform to, in terms of their own SyOPs. Any deviations or additions are dependent upon approval through the assurance process.
+To minimise the number of SyOPs in circulation and standardise procedures, the SyOPs listed previously act as the primary set, which individual IT systems are expected to conform to, in terms of their own SyOPs. Any deviations or additions are dependent upon approval through the assurance process.
 
 `POL.ITAUP.008`: All IT systems **SHALL** have documented SyOPs which comply with the general SyOPs [listed in this policy](#general-security-operating-procedures-syops). Any deviations or additions **SHALL** be recorded in separate SyOPs which form an addendum to one of the SyOPs [listed](#general-security-operating-procedures-syops).
 
