@@ -60,6 +60,10 @@ Any changes you want to suggest must be created in a branch, and submitted using
 
 The **tolerated** way of making changes is by editing an existing Markdown file in the `docs` directory. Be aware that changes made in the `docs` directory are non-persistent, and are overwritten by the build process.
 
+For more information about contributing content,
+see [this description](buildUtils/contributingContent.md).
+Please ask if you have questions or would like help - issues are the best way to contact the content team.
+
 ## Previewing
 
 We can preview content in the `docs` directory, locally, by running this command:

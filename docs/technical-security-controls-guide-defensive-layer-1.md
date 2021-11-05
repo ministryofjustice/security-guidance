@@ -8,7 +8,7 @@
 
 The following security controls should be implemented to create a baseline security environment.
 
-✔ Enforce access control through using [Multi-Factor Authentication \(MFA\)](multi-factor-authentication-mfa-guide.md), security attributes and enforcing the 'need to know' principle. Dual authorisation must also be used to conduct sensitive system changes. For more information, see the [Access Control](access-control-guide.md) guide.
+✔ Enforce access control through using [Multi-Factor Authentication \(MFA\)](multi-factor-authentication-mfa-guide.md), security attributes and enforcing the 'need to know' principle. Dual authorisation must also be used to conduct sensitive system changes. For more information, refer to the [Access Control](access-control-guide.md) guide.
 
 ✔ Implement host-based protection such as host firewalls and host based intrusion detection.
 
@@ -58,7 +58,7 @@ The following security controls should be implemented to create a baseline secur
 
 ✔ When connecting to external networks and systems, ensure those network and systems provide secure connection, processing, storage, service controls and physical locations.
 
-✔ Make provision for exceptional \(excess\) capacity or bandwidth demands, above what is required for 'typical' business as usual operations, and implement monitoring and detection tools for denial of service attempts.
+✔ Make provision for exceptional \(excess\) capacity or bandwidth demands, exceeding what is required for 'typical' business as usual operations, and implement monitoring and detection tools for denial of service attempts.
 
 ✔ Where possible, ensure a redundant secondary system or other resilience controls are in place, using alternative security mechanisms and communication protocols.
 

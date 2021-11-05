@@ -100,21 +100,21 @@
         <p>The three categories are:</p>
         <ul>
           <li>
-            <p>Low Impact (see <xref href="#low-impact-incident" format="html">here</xref> );</p>
+            <p>Low Impact (refer <xref href="#low-impact-incident" format="html">here</xref> );</p>
           </li>
           <li>
-            <p>Medium Impact (see <xref href="#medium-impact-incident" format="html">here</xref> );</p>
+            <p>Medium Impact (refer <xref href="#medium-impact-incident" format="html">here</xref> );</p>
           </li>
           <li>
-            <p>High Impact (see <xref href="#high-impact-incident" format="html">here</xref> ).</p>
+            <p>High Impact (refer <xref href="#high-impact-incident" format="html">here</xref> ).</p>
           </li>
         </ul>
         <p>
           <b>POL.IMP.005:</b>
         </p>
         <p>All IT Security incidents <b>must be</b> categorised in accordance with this policy.</p>
-        <p>The nature of an incident may not be immediately obvious when it is first reported; further assessments of its categorisation need to be made as more information is gathered. For example, through conducting an investigation (see Figure 2 which outlines this process flow).</p>
-        <p>The sub-sections below provide an overview of the three categories with further guidance on its practical application provided in <xref href="incident-management-plan-and-process-guide.dita" format="dita">IT Security – Incident Management Plan and Process Guide</xref>.</p>
+        <p>The nature of an incident may not be immediately obvious when it is first reported; further assessments of its categorisation need to be made as more information is gathered. For example, through conducting an investigation (refer to Figure 2 which outlines this process flow).</p>
+        <p>The following sub-sections provide an overview of the three categories with further guidance on its practical application provided in <xref href="incident-management-plan-and-process-guide.dita" format="dita">IT Security – Incident Management Plan and Process Guide</xref>.</p>
       </body>
       <topic id="low-impact-incident">
         <title>Low impact incident</title>
@@ -177,7 +177,7 @@
       <topic id="further-escalation-requirements">
         <title>Further escalation requirements</title>
         <body>
-          <p>The decisions to escalate an incident irrespective of its impact up through the chain from ITSO, <ph conref="conrefs.dita#conrefs/moj"/> SIRO, DSO, and above (possible to Ministerial level) may include the following factors:</p>
+          <p>The decisions to escalate an incident irrespective of its impact up through the chain from ITSO, <ph conref="conrefs.dita#conrefs/moj"/> SIRO, DSO, and higher (possible to Ministerial level) may include the following factors:</p>
           <ul>
             <li>
               <p>Issues of national security;</p>
@@ -298,7 +298,7 @@
     <topic id="escalation-path">
       <title>Escalation Path</title>
       <body>
-        <p>As a rule, all IT Security incidents are reported to OST. As depicted in Figure 2, OST then progress the incident according to its categorisation (see <xref href="#categorisation-of-incidents" format="dita">here</xref> ). Depending on the category and nature of the incident, this can involve escalating the incident to other stakeholders.</p>
+        <p>As a rule, all IT Security incidents are reported to OST. As depicted in Figure 2, OST then progress the incident according to its categorisation (refer <xref href="#categorisation-of-incidents" format="dita">here</xref> ). Depending on the category and nature of the incident, this can involve escalating the incident to other stakeholders.</p>
         <p>
           <b>POL.IMP.015:</b>
         </p>
@@ -345,7 +345,7 @@
         <p>
           <b>POL.ITSEC.018:</b>
         </p>
-        <p>An IT system which has a significant compromise (Medium or High impact, see <xref href="#categorisation-of-incidents" format="dita">here</xref> ) <b>must be</b> reported to the system Accreditor and a review of that system's risk assessment and accreditation must be conducted.</p>
+        <p>An IT system which has a significant compromise (Medium or High impact, refer <xref href="#categorisation-of-incidents" format="dita">here</xref> ) <b>must be</b> reported to the system Accreditor and a review of that system's risk assessment and accreditation must be conducted.</p>
         <p>
           <b>POL.ITSEC.019:</b>
         </p>
@@ -361,7 +361,7 @@
           <b>POL.ITSEC.020:</b>
         </p>
         <p>The IT Security Incident Management Plan for an IT System or overarching IT Domain <b>must include</b> details on how that system or IT domain IT services are restored (or recovered) following an IT Security incident.</p>
-        <p audience="audience-suppliers audience-tech"><b>Note</b> – The detail of how an IT system recovers from an incident event should be captured in that systems disaster recovery plan. See <xref href="it-disaster-recovery-policy.dita" format="dita">IT Security – Disaster Recovery Policy</xref> for further information.</p>
+        <p audience="audience-suppliers audience-tech"><b>Note</b> – The detail of how an IT system recovers from an incident event should be captured in that systems disaster recovery plan. Refer to the <xref href="it-disaster-recovery-policy.dita" format="dita">IT Security – Disaster Recovery Policy</xref> for further information.</p>
       </body>
     </topic>
   </topic>
@@ -378,7 +378,7 @@
         <p>
           <b>POL.ITSEC.021:</b>
         </p>
-        <p>For each Medium and High impact (see <xref href="#categorisation-of-incidents" format="dita">here</xref> ) IT Security incident, a management report <b>must be</b> prepared covering:</p>
+        <p>For each Medium and High impact (refer <xref href="#categorisation-of-incidents" format="dita">here</xref> ) IT Security incident, a management report <b>must be</b> prepared covering:</p>
         <ul>
           <li>
             <p>A description of the incident;</p>

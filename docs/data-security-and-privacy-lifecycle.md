@@ -1,6 +1,6 @@
 # Data Security & Privacy Lifecycle Expectations
 
-Below are a series of data security and privacy expectations of Ministry of Justice \(MoJ\) projects at various stages in their lifecycle.
+Following are a series of data security and privacy expectations of Ministry of Justice \(MoJ\) projects at various stages in their lifecycle.
 
 These measures can help simplify and ease the burden of embedding data security and privacy at the heart of projects.
 

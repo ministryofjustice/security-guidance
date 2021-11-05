@@ -34,7 +34,7 @@ Hard drive failures can lead to the irrecoverable loss of data. Any data loss ca
 
 If you experience any issues with your laptop or IT service, [ask for help](#general-enquiries-including-theft-and-loss).
 
-For more information about the main security issues that are likely to affect remote and mobile workers, refer to the [remote working guide](remote-working.md).
+For more information about the main security issues that are likely to affect remote and mobile workers, refer to the [remote working guide](https://security-guidance.service.justice.gov.uk/remote-working/).
 
 ##How to reset your password
 

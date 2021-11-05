@@ -26,7 +26,7 @@ MoJ is permitted to use the service for free as a central government organisatio
 
 ### Get started
 
-Contact the MoJ Cybersecurity team to be added into MoJ's subscription of the service.
+Contact the MoJ Cyber Security team to be added into MoJ's subscription of the service.
 
 ## Feedback
 

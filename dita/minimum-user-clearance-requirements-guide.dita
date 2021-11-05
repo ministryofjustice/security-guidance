@@ -42,27 +42,10 @@ granted access rights to view <codeph>OFFICIAL</codeph> information. Some roles 
           </ul>
         </li>
       </ul>
-      <p>If an individual does not need to perform any of the above tasks, then BPSS, DBS or Enhanced Check is sufficient.</p>
+      <p>If an individual does not need to perform any of the previous tasks, then BPSS, DBS or Enhanced Check is sufficient.</p>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/> HQ and Executive Agencies might have additional, specific requirements for DV/DV STRAP clearance for individual systems. These requirements should be followed where applicable.</p>
       <p>Please contact the Cyber Assistance Team and refer to the <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/" format="html" scope="external">Vetting Policy</xref> for further information.</p>
     </body>
-  </topic>
-  <topic id="checking-someones-clearance-status">
-  	<title>Checking someone's clearance status</title>
-  	<body>
-  		<p>To check someone's clearance status, collect the following information:
-  		<ul>
-  			<li>Their first name.</li>
-  			<li>Their last name.</li>
-  			<li>Their date of birth.</li>
- 		</ul></p>
- 		<p>Send this information to the <ph conref="conrefs.dita#conrefs/moj"/> Group Security Team, by emailing: <ph conref="conrefs.dita#conrefs/groupsecurityemail"/>.
-      The team will check with the Cluster,
-      to determine the individual's clearance status,
-      if any.
-      If you are authorised to receive the answer,
-      the team will reply to you with the answer.</p>
-  	</body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>

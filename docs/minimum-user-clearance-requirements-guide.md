@@ -35,21 +35,11 @@ For an individual to perform any of the following tasks, clearance higher than B
     -   Obtain credentials for another user.
     -   Directly access other users' data.
 
-If an individual does not need to perform any of the above tasks, then BPSS, DBS or Enhanced Check is sufficient.
+If an individual does not need to perform any of the previous tasks, then BPSS, DBS or Enhanced Check is sufficient.
 
 The MoJ HQ and Executive Agencies might have additional, specific requirements for DV/DV STRAP clearance for individual systems. These requirements should be followed where applicable.
 
 Please contact the Cyber Assistance Team and refer to the [Vetting Policy](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/) for further information.
-
-## Checking someone's clearance status
-
-To check someone's clearance status, collect the following information:
-
--   Their first name.
--   Their last name.
--   Their date of birth.
-
-Send this information to the MoJ Group Security Team, by emailing: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk). The team will check with the Cluster, to determine the individual's clearance status, if any. If you are authorised to receive the answer, the team will reply to you with the answer.
 
 ## Contact details
 

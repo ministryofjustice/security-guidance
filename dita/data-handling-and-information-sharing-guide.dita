@@ -50,7 +50,7 @@
         <codeph>OFFICIAL</codeph>
         with the <codeph>SENSITIVE</codeph> handling caveat,
         often written as <codeph>OFFICIAL-SENSITIVE</codeph>.
-        While this approximate correspondance might be helpful,
+        While this approximate alignment might be helpful,
         you should always review classification where older terms are used,
         to ensure that the correct current classification is used.</note>
       </body>
@@ -113,7 +113,7 @@
       <p>For the purposes of this guide, the term "sensitive" data or
       information refers to data or information which attracts a handling caveat
       of <codeph>SENSITIVE</codeph>.
-      <ph audience="audience-tech"> See the <xref
+      <ph audience="audience-tech"> Refer to the <xref
         href="information-classification-and-handling-policy.dita"
         format="dita">Information Classification and Handling Policy</xref> for
         further details.</ph></p>
@@ -182,12 +182,12 @@
               <li>Frequency.</li>
               <li>Any "need-to-know" considerations.
               <ph audience="audience-suppliers audience-tech">
-              See the <xref href="access-control-guide.dita" format="dita">Access
+              Refer to the <xref href="access-control-guide.dita" format="dita">Access
               Control Guide</xref> for further information.</ph></li>
             </ul></p>
             <p>Any additional controls
               <ph conref="conrefs.dita#conrefs/policyshall"/> be captured on the
-              DMF (see <xref href="#data-movement-form-dmf" format="dita">Data Movement
+              DMF (refer to the <xref href="#data-movement-form-dmf" format="dita">Data Movement
                 Form</xref>, where advice should be obtained from the
                 <ph conref="conrefs.dita#conrefs/moj"/>
                 <ph conref="conrefs.dita#conrefs/cisolong"/> when required.</p>
@@ -199,7 +199,7 @@
             <p>If using a secure network is not feasible, the next preferred
               option is to use an encrypted removable media,
               such as an approved USB mass storage device.</p>
-            <p>For more information, see the <xref href="removable-media.dita"
+            <p>For more information, refer to the <xref href="removable-media.dita"
               format="dita">Removable Media</xref> guidance.</p>
             <p>The type of device selected is normally dependant on the
               sensitivity of the data and the amount of data being transferred.
@@ -451,8 +451,8 @@
           </body>
         </topic>
       </topic>
-      <topic id="sharing-information-above-official">
-        <title>Sharing information above <codeph>OFFICIAL</codeph></title>
+      <topic id="sharing-information-higher-than-official">
+        <title>Sharing information higher than <codeph>OFFICIAL</codeph></title>
         <body>
           <p>Where there is a business requirement to share information classified
             higher than <codeph>OFFICIAL</codeph>,

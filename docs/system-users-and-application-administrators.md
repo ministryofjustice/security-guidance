@@ -39,11 +39,11 @@ For further all the security related information required, please refer to:
 |Physical access controls|-   Only authorised members of staff with registered user accounts are permitted access to the system.
 -   The equipment used to access the system must be checked on a daily basis for evidence of tampering or suspicious devices attached to it, for example unknown Universal Serial Bus \(USB\) devices attached to the rear of the main workstation.
 -   Protectively marked and sensitive hardcopy material must be securely stored away under lock and key following the \[ORGANISATION\] [Clear Desk Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/clear-screen-and-desk-policy/), published on the \[ORGANISATION\] intranet.
--   When accessing the system from portable computing devices, access is only to be made in approved area \(see the SyOPs for Remote Access use.
+-   When accessing the system from portable computing devices, access is only to be made in approved area \(refer to the SyOPs for Remote Access use.
 -   Visitors must be supervised during working hours, and any sensitive documentation being worked on is to be hidden from line of sight as much as possible.
 
 |
-|Awareness|-   When visitors are present, ensure that they are only able to see information for which they have a need-to-know.
+|Awareness|-   When visitors are present, ensure that they are only able to access information for which they have a need-to-know.
 -   Users must be aware of anyone 'shoulder surfing' and viewing information for which they do not have a need-to-know.
 -   Users must not hold conversations over any telephone or send communications via fax or email if the information being discussed is protectively marked RESTRICTED.
 
@@ -107,7 +107,7 @@ To ensure a quick response all emails must be marked Urgent and have 'Data Incid
 
 |
 
-By signing below I acknowledge that I have read the Security Operating Procedures \(SyOPs\) and agree to be bound by them.
+By signing I acknowledge that I have read the Security Operating Procedures \(SyOPs\) and agree to be bound by them.
 
 |Name:||
 |Date:||

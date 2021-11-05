@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="general-advice-on-taking-equipment-overseas">
-  <title><ph platform="github">General advice on taking</ph><ph platform="intranet">Taking</ph> equipment overseas</title>
+  <title>General advice on taking equipment overseas</title>
   <body>
     <p>As a government official travelling overseas, you should consider that you are highly likely to be of interest to a range of hostile parties, regardless of your role or seniority. Laptops, tablets and phones are very desirable pieces of equipment to steal and travelling overseas with it puts you at a greater security risk of being a victim of theft.</p>
     <p>You should never put yourself in any danger to protect the security of an IT device, as the level of impact to the <ph conref="conrefs.dita#conrefs/mojlong"/> of a compromise does not warrant the risk of injury or loss of liberty. By following your department policies and the advice issued, you can help reduce the risk to yourself and your colleagues.</p>
@@ -50,9 +50,9 @@
         <li>Try to establish your official status and good faith from the outset.</li>
         <li>Remain calm and polite at all times.</li>
         <li>Carry the names and telephone numbers of a relevant departmental contact and invite the official(s) to contact them to confirm that you are who you claim to be.</li>
-        <li>If the official continues to insist on the user inputting his/her password, repeat the above steps.</li>
+        <li>If the official continues to insist on the user inputting his/her password, repeat the previous steps.</li>
         <li>State that you are carrying official UK government property that is sensitive and that you cannot allow access.</li>
-        <li>Ask to see a senior officer or supervisor. You may want to take the names and/or contact details of any officials involved in the event that you wish to pursue a complaint, or an investigation is required, even at a later date.</li>
+        <li>Ask for a discussion with a senior officer or supervisor. You may want to take the names and/or contact details of any officials involved in the event that you wish to pursue a complaint, or an investigation is required, even at a later date.</li>
       </ul>
       <p>If you are on official business:
       <ul>

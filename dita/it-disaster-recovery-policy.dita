@@ -152,7 +152,7 @@
     <title>Invocation and escalation</title>
     <body>
       <p>The invocation of an IT Disaster Recovery Plan is closely aligned to corresponding IT Incident Management Plan.</p>
-      <p>In general, an incident categorised as High impact (see <xref href="it-incident-management-policy.dita" format="dita">here</xref> for more details) may in turn constitute a disaster event. Each individual IT Disaster Recovery Plan needs to outline the particular circumstances in which the plan is invoked.</p>
+      <p>In general, an incident categorised as High impact (refer <xref href="it-incident-management-policy.dita" format="dita">here</xref> for more details) may in turn constitute a disaster event. Each individual IT Disaster Recovery Plan needs to outline the particular circumstances in which the plan is invoked.</p>
       <p>
         <b>POL.ITDR.010:</b>
       </p>

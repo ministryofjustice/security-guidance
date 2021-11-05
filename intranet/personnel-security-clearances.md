@@ -4,37 +4,39 @@ Unless otherwise agreed formally by the Ministry of Justice (MoJ) in writing, an
 
 The [Baseline Personnel Security Standard (BPSS) is published on GOV.UK](https://www.gov.uk/government/publications/government-baseline-personnel-security-standard).
 
-* **[End or change of employment](end-or-change-of-employment.md)**  
+* **[End or change of employment](https://security-guidance.service.justice.gov.uk/end-or-change-of-employment/)**  
 
-* **[Entry and exit search policy](entry-and-exit-search-policy.md)**  
+* **[Entry and exit search policy](https://security-guidance.service.justice.gov.uk/entry-and-exit-search-policy/)**  
 
-* **[Leavers with NSC and NSVCs](leavers-with-nsc-and-nscvs.md)**  
+* **[Leavers with NSC and NSVCs](https://security-guidance.service.justice.gov.uk/leavers-with-nsc-and-nscvs/)**  
 
-* **[Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)**  
+* **[Minimum User Clearance Requirements Guide](https://security-guidance.service.justice.gov.uk/minimum-user-clearance-requirements-guide/)**  
 
-* **[National Security Vetting for External Candidates FAQ](national-security-vetting-for-external-candidates-faq.md)**  
+* **[National Security Vetting for External Candidates FAQ](https://security-guidance.service.justice.gov.uk/national-security-vetting-for-external-candidates-faq/)**  
 
-* **[National security vetting contact](national-security-vetting-contact.md)**  
+* **[National Security Vetting contact](https://security-guidance.service.justice.gov.uk/national-security-vetting-contact/)**  
 
-* **[National Security Vetting questions](national-security-vetting-questions.md)**  
+* **[National Security Vetting questions](https://security-guidance.service.justice.gov.uk/national-security-vetting-questions/)**  
 
-* **[Ongoing Personnel Security](ongoing-personnel-security.md)**  
+* **[Ongoing Personnel Security](https://security-guidance.service.justice.gov.uk/ongoing-personnel-security/)**  
 
-* **[Personnel risk assessment](personnel-risk-assessment.md)**  
+* **[Personnel risk assessment](https://security-guidance.service.justice.gov.uk/personnel-risk-assessment/)**  
 
-* **[Pre-employment screening](pre-employment-screening.md)**  
+* **[Pre-employment screening](https://security-guidance.service.justice.gov.uk/pre-employment-screening/)**  
 
-* **[Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)**  
+* **[Pre-Employment Screening and Vetting of External Candidates - FAQs](https://security-guidance.service.justice.gov.uk/pre-employment-screening-and-vetting-of-external-candidates-faqs/)**  
 
-* **[Reporting personal circumstance changes](reporting-personal-circumstance-changes.md)**  
+* **[Reporting personal circumstance changes](https://security-guidance.service.justice.gov.uk/reporting-personal-circumstance-changes/)**  
 
-* **[Security clearance appeals policy](security-clearance-appeals-policy.md)**  
+* **[Security clearance appeals policy](https://security-guidance.service.justice.gov.uk/security-clearance-appeals-policy/)**  
 
-* **[Security vetting assessment of need](security-vetting-assessment-need.md)**  
+* **[Security clearance appeals procedures](https://security-guidance.service.justice.gov.uk/security-clearance-appeals-procedures/)**  
 
-* **[Voluntary drug testing policy](voluntary-drug-testing-policy.md)**  
+* **[Security vetting assessment of need](https://security-guidance.service.justice.gov.uk/security-vetting-assessment-need/)**  
 
-* **[Voluntary drug testing policy procedures](voluntary-drug-testing-policy-procedures.md)**  
+* **[Voluntary drug testing policy](https://security-guidance.service.justice.gov.uk/voluntary-drug-testing-policy/)**  
+
+* **[Voluntary drug testing policy procedures](https://security-guidance.service.justice.gov.uk/voluntary-drug-testing-policy-procedures/)**  
 
 
 ##National Security Clearances

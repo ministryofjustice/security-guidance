@@ -200,7 +200,7 @@
         gateway,
         where two checks occur:
       <ol>
-        <li>Determine if the link is denylisted by the
+        <li>Determine if the link is deny-listed by the
           <ph conref="conrefs.dita#conrefs/moj"/> or has been previously
           identified as malicious.</li>
         <li>Scan downloadable content available at the link address.</li>
@@ -258,7 +258,7 @@
     <body>
       <p>If you think your email service provision has been susceptible to spam or a virus,
         report it immediately to the <ph conref="conrefs.dita#conrefs/servicedesk"/> as an IT security incident.
-        Please refer to the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/" format="html" scope="external">IT Incident Management Policy</xref> for further guidance.</p>
+        Please refer to the <xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref> for further guidance.</p>
     </body>
   </topic>
   <topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>

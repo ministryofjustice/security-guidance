@@ -19,7 +19,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
             <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">General app guidance</xref></li>
             <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements Guide</xref></li>
             <li><xref href="official-official-sensitive.dita" format="dita">OFFICIAL, OFFICIAL-SENSITIVE</xref> classifications and handling</li>
-            <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From overseas</xref></li>
+            <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref></li>
             <li><xref href="remote-working.dita" format="dita">Remote Working</xref></li>
           </ul>
         </p>
@@ -30,8 +30,8 @@ has made for the products we operate, and our relationships with suppliers.</p>
 		<body>
 			<p>A 'change log' is <xref href="changelog.dita" format="dita">available</xref>.
 			It details the most recent changes to this information.</p>
-			<p>The changes are also available as <xref href="rss.xml" format="xml" platform="html">RSS</xref><xref href="https://security-guidance.service.justice.gov.uk/rss.xml" format="xml" scope="external" platform="epub pdf">RSS</xref>
-				or <xref href="atom.xml" format="xml" platform="html">Atom</xref><xref href="https://security-guidance.service.justice.gov.uk/atom.xml" format="xml" scope="external" platform="epub pdf">Atom</xref> feeds.</p>
+			<p>The changes are also available as <xref href="rss.xml" format="xml" scope="external" platform="html">RSS</xref><xref href="https://security-guidance.service.justice.gov.uk/rss.xml" format="xml" scope="external" platform="epub pdf">RSS</xref>
+				or <xref href="atom.xml" format="xml" scope="external" platform="html">Atom</xref><xref href="https://security-guidance.service.justice.gov.uk/atom.xml" format="xml" scope="external" platform="epub pdf">Atom</xref> feeds.</p>
 		</body>
 	</topic>
     <topic id="offline-content">
@@ -81,7 +81,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
             </tgroup>
           </table>
         The offline versions of this guidance are time-limited, and are <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
-        <p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, see <xref href="https://security-guidance.service.justice.gov.uk/" format="html" scope="external">here</xref>.</p>
+        <p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, refer to the <xref href="https://security-guidance.service.justice.gov.uk/" format="html" scope="external">security guidance site</xref>.</p>
       </body>
       </topic>
 		<topic id="searching" platform="epub pdf">
@@ -112,16 +112,28 @@ has made for the products we operate, and our relationships with suppliers.</p>
 		<topic id="background" audience="audience-tech">
 			<title>Background</title>
 			<body>
-				<p><ph conref="conrefs.dita#conrefs/gov007"/> replaces the <xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">HMG Security Policy Framework (SPF)</xref>, last published in May 2018.
-				It also incorporates the <xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">Minimum Cyber Security Standard (MCSS)</xref> which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.</p>
+				<p><ph conref="conrefs.dita#conrefs/gov007"/> replaces the <xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">HMG Security Policy Framework (SPF)</xref>.
+          The policies which sit within that framework remain in effect,
+          but are now in support of this standard.
+				<!-- It also incorporates the <xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">Minimum Cyber Security Standard (MCSS)</xref> which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations. --></p>
 				<image platform="html epub" href="images/gov007overview.png" placement="break" scope="local"><alt>A diagram showing a hierarchy of the key components within the Government Functional Standard. It is in three sections. In the first section, at the top is a triangle labelled Principles. This stands on a block marked Content, which itself stands on a block marked Governance, showing that governance and content underpin the principles. The second section is called Security Life Cycle. It shows a flow from left to right. To the left of the section is a large arrow entitled Security Strategy and Planning. This arrow splits on the right hand side into two small arrows. The top small arrow is labelled Prevention and Detection. The bottom small arrow is labelled Security Incident Management. A small line arrow drops down from the top Prevention and Detection arrow to the bottom Security Incident Management arrow. To the right hand side of this section of the diagram, the Prevention and Detection and the Security Incident Management arrows converge into a final large arrow, entitled Review and Learn from Experience. A dotted line arrow, labelled Improvement, goes back from the Review and Learn arrow over to the beginning of this section of the diagram, linking to the Security Strategy and Planning arrow. Underneath these arrow diagrams is the third and final section. This is a summary text, called Security Practices. Many practices are listed using three columns in this section. The left column list includes: Critical Assets and Services, Risk Management, and Access to information. The middle column list includes: Capability, capacity and resources, Security culture, Security education and awareness, and Physical security. The right column list includes: Personnel security, Cyber security, and Technical security.</alt></image>
 				<image platform="pdf" href="images/gov007overview-small.png" placement="break" scope="local"><alt>A diagram showing a hierarchy of the key components within the Government Functional Standard. It is in three sections. In the first section, at the top is a triangle labelled Principles. This stands on a block marked Content, which itself stands on a block marked Governance, showing that governance and content underpin the principles. The second section is called Security Life Cycle. It shows a flow from left to right. To the left of the section is a large arrow entitled Security Strategy and Planning. This arrow splits on the right hand side into two small arrows. The top small arrow is labelled Prevention and Detection. The bottom small arrow is labelled Security Incident Management. A small line arrow drops down from the top Prevention and Detection arrow to the bottom Security Incident Management arrow. To the right hand side of this section of the diagram, the Prevention and Detection and the Security Incident Management arrows converge into a final large arrow, entitled Review and Learn from Experience. A dotted line arrow, labelled Improvement, goes back from the Review and Learn arrow over to the beginning of this section of the diagram, linking to the Security Strategy and Planning arrow. Underneath these arrow diagrams is the third and final section. This is a summary text, called Security Practices. Many practices are listed using three columns in this section. The left column list includes: Critical Assets and Services, Risk Management, and Access to information. The middle column list includes: Capability, capacity and resources, Security culture, Security education and awareness, and Physical security. The right column list includes: Personnel security, Cyber security, and Technical security.</alt></image>
 
-				<p>Sections 6.9 Cyber security and 6.10 Technical security of the standard state:</p>
+				<p>Sections 6.3 Cyber security and 6.4 Technical security of the standard state:</p>
 				<lq>
 					<ul>
-						<li>The security of information and data is essential to good government and public confidence. To operate effectively, HMG needs to maintain the confidentiality, integrity and availability of its information, systems and infrastructure, and the services it provides. Any organisation that handles government information shall meet the standards expected of HM Government.</li>
-						<li>Technical security relates to the protection of security systems from compromise and/or external interference that may have occurred as a result of an attack.</li>
+						<li>The purpose of cyber security is to ensure the security of data and information.
+              To operate effectively,
+              the UK government needs to maintain the confidentiality,
+              integrity and availability of its information,
+              systems and infrastructure,
+              and the services it provides.</li>
+						<li>The purpose of technical security measures is to holistically protect
+              sensitive information and technology from close access acquisition or exploitation
+              by hostile actors,
+              as well as any other form of technical manipulation.
+              Technical security also relates to the protection of security systems
+              from compromise and/or external interference.</li>
 					</ul>
 				</lq>
 			</body>
@@ -437,7 +449,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
-                <entry colname="col1" align="left"><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From overseas</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/accessing-moj-it-systems-overseas/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
+                <entry colname="col1" align="left"><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/accessing-moj-it-systems-overseas/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
@@ -485,6 +497,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="security-clearance-appeals-policy.dita" format="dita" type="topic">Security clearance appeals policy</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="security-clearance-appeals-procedures.dita" format="dita" type="topic">Security clearance appeals procedures</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
@@ -618,6 +634,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
 				</row>
 				<row>
 					<entry colname="col1" align="left"><xref href="secure-disposal-of-it-physical-and-on-premise.dita" format="dita">Secure disposal of IT - physical and on-premise</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row>
+					<entry colname="col1" align="left"><xref href="working-securely-with-paper-documents-and-files.dita" format="dita">Working securely with paper documents and files</xref></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
             </tbody></tgroup></table>
@@ -1038,6 +1058,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
+                <entry colname="col1" align="left"><xref href="domain-names-policy.dita" format="dita">Domain names and Domain Name System (DNS) security policy</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
                 <entry colname="col1" align="left"><xref href="internet-v-psn.dita" format="dita">Internet v. PSN</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -1080,30 +1104,42 @@ has made for the products we operate, and our relationships with suppliers.</p>
 								<entry colname="col1" align="left"><xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref></entry>
 								<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 							</row>
+				<row audience="audience-tech">
+					<entry colname="col1" align="left"><xref href="email-blocklist-policy.dita" format="dita">Email Blocklist Policy</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row audience="audience-tech">
+					<entry colname="col1" align="left"><xref href="email-blocklist-process.dita" format="dita">Email Blocklist Process</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
 							<row audience="audience-tech">
 								<entry colname="col1" align="left"><xref href="email-security-guide.dita" format="dita">Email Security Guide</xref></entry>
 								<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 							</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita" type="topic">General Apps Guidance</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/apps/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="secure-data-transfer-guide.dita" format="dita">Secure Data Transfer Guide</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row audience="audience-tech">
-					<entry colname="col1" align="left"><xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref></entry>
-					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-				</row>
-				<row audience="audience-tech">
-					<entry colname="col1" align="left"><xref href="spam-and-phishing-guide.dita" format="dita">Spam and Phishing Guide</xref></entry>
-					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="web-browsing-security-policy-profiles.dita" format="dita" type="topic">Web browsing security policy profiles</xref></entry>
-					<entry colname="col2" align="right">All users (Policy)</entry>
-				</row>
+              <row>
+                <entry colname="col1" align="left"><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita" type="topic">General Apps Guidance</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/apps/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="secure-data-transfer-guide.dita" format="dita">Secure Data Transfer Guide</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1" align="left"><xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1" align="left"><xref href="spam-and-phishing-guide.dita" format="dita">Spam and Phishing Guide</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="web-browsing-security-policy-profiles.dita" format="dita" type="topic">Web browsing security policy profiles</xref></entry>
+                <entry colname="col2" align="right">All users (Policy)</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="wifi-security-policy.dita" format="dita" type="topic">Wifi security policy</xref></entry>
+                <entry colname="col2" align="right">All users (Policy)</entry>
+              </row>
             </tbody></tgroup></table>
           </body>
         </topic>
@@ -1196,7 +1232,15 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
+                <entry colname="col1" align="left"><xref href="azure-account-baseline-templates.dita" format="dita">Azure Account Baseline Templates</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
                 <entry colname="col1" align="left"><xref href="baseline-aws-accounts.dita" format="dita">Baseline for Amazon Web Services accounts</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="baseline-for-azure-accounts.dita" format="dita">Baseline for Azure Subscriptions</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
             </tbody></tgroup></table>
@@ -1339,6 +1383,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
                 <entry colname="col1" align="left"><xref href="infrastructure-system-accreditation.dita" format="dita">Infrastructure and system accreditation</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+				      <row>
+                <entry colname="col1" align="left"><xref href="ost/ithc.md" format="markdown">IT Health Checks</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+				      <row>
+                <entry colname="col1" align="left"><xref href="ost/test-cancellations-and-delays.md" format="markdown">IT Health Check - Test cancellations and delays</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
             </tbody></tgroup></table>

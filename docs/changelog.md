@@ -1,6 +1,74 @@
-# Change log for MoJ Security Guidance
+# Change log for Ministry of Justice \(MoJ\) Security Guidance
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
+
+-   **2021-11-04 10:28 GMT [CCTV Policy](https://security-guidance.service.justice.gov.uk/cctv-policy/)**
+
+    This policy details the purpose, usage, and management of the CCTV systems within the MoJ.
+
+-   **2021-11-04 09:05 GMT [Working securely with paper documents and files](https://security-guidance.service.justice.gov.uk/working-securely-with-paper-documents-and-files/)**
+
+    This guidance helps you understand the risks involved in working with, sharing, and moving paper documents both inside and outside the office.
+
+-   **2021-11-03 17:12 GMT [Email blocking](https://security-guidance.service.justice.gov.uk/email-blocklist-policy/)**
+
+    The policy and processes for blocking emails, and deleting emails through administrative processes, across email services across the MoJ.
+
+-   **2021-11-03 17:00 GMT [Domain names](https://security-guidance.service.justice.gov.uk/domain-names-policy/)**
+
+    An overview of domain name registration and monitoring principles and responsibilities within the MoJ.
+
+-   **2021-10-29 11:52 BST [Logging retention](https://security-guidance.service.justice.gov.uk/logging-and-monitoring/)**
+
+    Information about keeping logging information.
+
+-   **2021-10-20 09:53 BST [National Security Vetting contacts](https://security-guidance.service.justice.gov.uk/national-security-vetting-contact/)**
+
+    Updates to the process and information for National Security Vetting contacts.
+
+-   **2021-10-19 13:06 BST [Remote working](https://security-guidance.service.justice.gov.uk/remote-working/)**
+
+    Simplified the guidance regarding remote working.
+
+-   **2021-10-15 16:27 BST [Email best practices](https://security-guidance.service.justice.gov.uk/email/)**
+
+    Added guidance regarding attachments and the use of 'cc' and 'bcc' fields in emails.
+
+-   **2021-10-15 13:39 BST [Security clearance appeals procedures](https://security-guidance.service.justice.gov.uk/security-clearance-appeals-procedures/)**
+
+    Added guidance for appealing a security clearance decision.
+
+-   **2021-10-14 13:47 BST [Azure subscription baselines](https://security-guidance.service.justice.gov.uk/baseline-for-azure-accounts/)**
+
+    Added guidance on baselines and templates for Azure subscriptions.
+
+-   **2021-10-13 15:50 BST [IT Health Checks](https://security-guidance.service.justice.gov.uk/ost/ithc/)**
+
+    Added guidance on requesting and managing IT Health Checks.
+
+-   **2021-10-13 09:26 BST [User clearance requirements](https://security-guidance.service.justice.gov.uk/minimum-user-clearance-requirements-guide/)**
+
+    Clarification to minimum user clearance requirements.
+
+-   **2021-10-08 09:56 BST [Wifi policy](https://security-guidance.service.justice.gov.uk/wifi-security-policy/)**
+
+    Added policy information about wifi.
+
+-   **2021-10-05 14:28 BST [Client certificates](https://security-guidance.service.justice.gov.uk/automated-certificate-renewal/#using-public-wifi-or-internet-and-home-broadband)**
+
+    Added notes about obtaining client certificates.
+
+-   **2021-10-01 15:24 BST [Connection to public wifi](https://security-guidance.service.justice.gov.uk/remote-working/#using-public-wifi-or-internet-and-home-broadband)**
+
+    Clarification about connecting to public wifi spots, such as hotels or coffee shops, or home broadband. Also extra details for remote working securely.
+
+-   **2021-10-01 15:07 BST [Personal device attachment](https://security-guidance.service.justice.gov.uk/personal-devices/)**
+
+    Clarifying the connection of personal peripherals, and the charging of personal devices from USB ports.
+
+-   **2021-09-13 17:21 BST [Government Security Standard 007 V2](https://security-guidance.service.justice.gov.uk/#background)**
+
+    Updates following the release of V2 of the Gov007 security standard.
 
 -   **2021-09-06 09:21 BST [National Security Vetting contacts.](https://security-guidance.service.justice.gov.uk/national-security-vetting-contact/)**
 

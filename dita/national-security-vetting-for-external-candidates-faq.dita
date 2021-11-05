@@ -4,7 +4,7 @@
   <title>National Security Vetting for External Candidates FAQ</title>
     <body>
       <p>This document provides recruiting managers with answers to
-      frequently-asked questions regarding national security vetting
+      frequently-asked questions regarding National Security Vetting
       for external candidates.</p>
       <p>The processes described in this document are under continual
         review as part of the <ph conref="conrefs.dita#conrefs/mojlong"/>
@@ -72,7 +72,7 @@
             to complete the required security checks on the NSVS portal.</li>
         </ul></p>
         <p><b>Non-directly employed staff</b></p>
-        <p>See <xref href="#section-2-staff-recruited-from-external-sources-non-directly-employed"
+        <p>Refer to <xref href="#section-2-staff-recruited-from-external-sources-non-directly-employed"
           format="dita">Section 2</xref>.</p>
       </body>
     </topic>
@@ -164,7 +164,7 @@
     <topic id="q2-how-long-does-national-security-vetting-take">
       <title>Q2. How long does national security vetting take?</title>
       <body>
-        <p>See <xref href="#q3-how-long-do-the-pre-employment-and-vetting-checks-take" format="dita">Q3, Section 1</xref>.</p>
+        <p>Refer to <xref href="#q3-how-long-do-the-pre-employment-and-vetting-checks-take" format="dita">Q3, Section 1</xref>.</p>
       </body>
     </topic>
     <topic id="q3-national-security-vetting-takes-too-long-can-the-candidate-start-at-bpss-and-apply-for-nsv-once-they-are-in-post">
@@ -193,7 +193,7 @@
     <body/>
     <topic id="q1-i-submitted-an-nsv-request-several-weeks-ago-how-do-i-see-its-status">
       <title>Q1. I submitted an NSV request several weeks ago,
-        how do I see its status?</title>
+        how do I find out its status?</title>
       <body>
         <p>If you require confirmation of the security clearance level,
           ask your NSVC who will make enquiries for you.

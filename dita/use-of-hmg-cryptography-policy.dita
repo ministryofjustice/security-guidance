@@ -11,7 +11,7 @@
     <topic id="how-to-use-this-document" >
       <title>How to use this document</title>
       <body>
-        <p>Each policy statement outlines a security requirement and where applicable, a reference is provided to further material. A unique identifier is associated with each statement for easy reference. The format of each statement is illustrated below:</p>
+        <p>Each policy statement outlines a security requirement and where applicable, a reference is provided to further material. A unique identifier is associated with each statement for easy reference. The format of each statement is illustrated as follows:</p>
           <dl>
               <dlentry>
                   <dt>POL.CRYPTO.XXX</dt>
@@ -50,7 +50,7 @@
     <topic id="audience" >
       <title>Audience</title>
       <body>
-        <p>Anyone who wants to obtain encryption from CESG and everyone who is, or needs to be, CRYPTO or ACCSEC authorised (see glossary) to handle Key Variables (KV) or hardware.</p>
+        <p>Anyone who wants to obtain encryption from CESG and everyone who is, or needs to be, CRYPTO or ACCSEC authorised (refer to the glossary) to handle Key Variables (KV) or hardware.</p>
         <p>In accordance with HMG IAS4 [Ref, 2] encryption is only provided for fully accredited systems. There are long lead times to obtain encryption products from CESG (which fluctuate between 8-12 weeks and are always subject to change). It is recognised that there needs to be some flexibility in the process to order encryption and this guide helps meet that requirement.</p>
       </body>
     </topic>
@@ -92,7 +92,7 @@
             <note>The applicant is responsible for ensuring that the product is suitable and meets the desired business requirement.</note></p>
         <p>If the solution requiring encryption has not yet been Accredited (at the time the application is being drafted), or if the current RMADS need to be updated to accommodate this requirement, a timetable must be set out for the delivery of draft RMADS and SyOPs, this <b>must be</b> attached to the application form.</p>
         <p>The COMSO and Accreditor must both approve and notify the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian in order for the form to be sent to CESG for processing.</p>
-        <p>If any of the conditions above have not been met the form cannot be processed and this may cause delays.</p>
+        <p>If any of the previous conditions have not been met the form cannot be processed and this may cause delays.</p>
         <p>Further processing is required by the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian and upon dispatch to CESG the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian will give the applicant a reference number (hereafter referred to as the IAB account number) which must be referred to in any future communications regarding the requirement.</p>
       </body>
     </topic>

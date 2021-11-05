@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 6 September 2021.
+**Note:** This guidance is dated: 4 November 2021.
 
 ### Popular links
 
@@ -15,7 +15,7 @@ Popular links for all users:
 -   [General app guidance](general-user-video-and-messaging-apps-guidance.md)
 -   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
 -   [OFFICIAL, OFFICIAL-SENSITIVE](official-official-sensitive.md) classifications and handling
--   [Accessing MoJ IT Systems From overseas](accessing-moj-it-systems-from-overseas.md)
+-   [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
 -   [Remote Working](remote-working.md)
 
 ### Change log
@@ -34,7 +34,7 @@ For convenience, offline versions of this guidance are available.
 |Group Security. Contains Group Security policy and guidance.|[PDF](moj-guidance-gs.pdf)|[EPUB](moj-guidance-gs.epub)|
 |Technical users. Includes lots of technical detail. This document contains all content, including for 'All users' and from Group Security. Download this document if you want the complete set of published MoJ security policy and guidance.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 6 October 2021.
+The offline versions of this guidance are time-limited, and are not valid after 4 December 2021.
 
 ### Getting in touch
 
@@ -45,14 +45,14 @@ The offline versions of this guidance are time-limited, and are not valid after 
 
 ### Background
 
-[Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) replaces the [HMG Security Policy Framework \(SPF\)](https://www.gov.uk/government/publications/security-policy-framework), last published in May 2018. It also incorporates the [Minimum Cyber Security Standard \(MCSS\)](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard) which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations.
+[Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) replaces the [HMG Security Policy Framework \(SPF\)](https://www.gov.uk/government/publications/security-policy-framework). The policies which sit within that framework remain in effect, but are now in support of this standard.
 
 ![A diagram showing a hierarchy of the key components within the Government Functional Standard. It is in three sections. In the first section, at the top is a triangle labelled Principles. This stands on a block marked Content, which itself stands on a block marked Governance, showing that governance and content underpin the principles. The second section is called Security Life Cycle. It shows a flow from left to right. To the left of the section is a large arrow entitled Security Strategy and Planning. This arrow splits on the right hand side into two small arrows. The top small arrow is labelled Prevention and Detection. The bottom small arrow is labelled Security Incident Management. A small line arrow drops down from the top Prevention and Detection arrow to the bottom Security Incident Management arrow. To the right hand side of this section of the diagram, the Prevention and Detection and the Security Incident Management arrows converge into a final large arrow, entitled Review and Learn from Experience. A dotted line arrow, labelled Improvement, goes back from the Review and Learn arrow over to the beginning of this section of the diagram, linking to the Security Strategy and Planning arrow. Underneath these arrow diagrams is the third and final section. This is a summary text, called Security Practices. Many practices are listed using three columns in this section. The left column list includes: Critical Assets and Services, Risk Management, and Access to information. The middle column list includes: Capability, capacity and resources, Security culture, Security education and awareness, and Physical security. The right column list includes: Personnel security, Cyber security, and Technical security.](images/gov007overview.png)
 
-Sections 6.9 Cyber security and 6.10 Technical security of the standard state:
+Sections 6.3 Cyber security and 6.4 Technical security of the standard state:
 
--   > The security of information and data is essential to good government and public confidence. To operate effectively, HMG needs to maintain the confidentiality, integrity and availability of its information, systems and infrastructure, and the services it provides. Any organisation that handles government information shall meet the standards expected of HM Government.
--   > Technical security relates to the protection of security systems from compromise and/or external interference that may have occurred as a result of an attack.
+-   > The purpose of cyber security is to ensure the security of data and information. To operate effectively, the UK government needs to maintain the confidentiality, integrity and availability of its information, systems and infrastructure, and the services it provides.
+-   > The purpose of technical security measures is to holistically protect sensitive information and technology from close access acquisition or exploitation by hostile actors, as well as any other form of technical manipulation. Technical security also relates to the protection of security systems from compromise and/or external interference.
 
 ## Information structure
 
@@ -117,7 +117,7 @@ The documents have been developed and defined within this taxonomy, and are list
 
 #### Teleworking
 
-|[Accessing MoJ IT Systems From overseas](accessing-moj-it-systems-from-overseas.md)|All users|
+|[Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)|All users|
 |[General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md)|All users|
 |[Personal Devices](personal-devices.md)|All users|
 
@@ -132,6 +132,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Pre-employment screening](pre-employment-screening.md)|All users|
 |[Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)|All users|
 |[Security clearance appeals policy](security-clearance-appeals-policy.md)|All users|
+|[Security clearance appeals procedures](security-clearance-appeals-procedures.md)|All users|
 |[Security vetting assessment of need](security-vetting-assessment-need.md)|All users|
 
 #### During employment
@@ -172,6 +173,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Removable media](removable-media.md)|All users|
 |[Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)|All users|
 |[Secure disposal of IT - physical and on-premise](secure-disposal-of-it-physical-and-on-premise.md)|All users|
+|[Working securely with paper documents and files](working-securely-with-paper-documents-and-files.md)|All users|
 
 ### Access control
 
@@ -296,6 +298,7 @@ The documents have been developed and defined within this taxonomy, and are list
 
 |[Code of Connection Standard](code-of-connection-standard.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Defensive domain registrations](defensive-domain-registration.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Domain names and Domain Name System \(DNS\) security policy](domain-names-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Internet v. PSN](internet-v-psn.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[IP DNS Diagram Handling](ip-dns-diagram-handling.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Multiple Back-to-back Consecutive Firewalls](multiple-consecutive-back-to-back-firewalls.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
@@ -308,12 +311,15 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Data Sovereignty](data-sovereignty.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Email](email.md)|All users|
 |[Email Authentication Guide](email-authentication-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Email Blocklist Policy](email-blocklist-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Email Blocklist Process](email-blocklist-process.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Email Security Guide](email-security-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
 |[Secure Data Transfer Guide](secure-data-transfer-guide.md)|All users|
 |[Secure Email Transfer Guide](secure-email-transfer-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Spam and Phishing Guide](spam-and-phishing-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Web browsing security policy profiles](web-browsing-security-policy-profiles.md)|All users \(Policy\)|
+|[Wifi security policy](wifi-security-policy.md)|All users \(Policy\)|
 
 ### System acquisition, development and maintenance
 
@@ -345,7 +351,9 @@ The documents have been developed and defined within this taxonomy, and are list
 
 #### Supplier service delivery management
 
+|[Azure Account Baseline Templates](azure-account-baseline-templates.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Baseline for Amazon Web Services accounts](baseline-aws-accounts.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Baseline for Azure Subscriptions](baseline-for-azure-accounts.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 ### Information security incident management
 
@@ -389,6 +397,8 @@ The documents have been developed and defined within this taxonomy, and are list
 #### Risk Management
 
 |[Infrastructure and system accreditation](infrastructure-system-accreditation.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[IT Health Checks](ost/ithc.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[IT Health Check - Test cancellations and delays](ost/test-cancellations-and-delays.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 #### Risk Assessment Process
 

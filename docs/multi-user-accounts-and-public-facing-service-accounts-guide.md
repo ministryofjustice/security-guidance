@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This guide sets out when multi-user accounts should be used, although this is discouraged and should be avoided if possible. The guide also explains how public-facing service accounts should be authenticated. For more information, see the [Password Management Guide](password-management-guide.md).
+This guide sets out when multi-user accounts should be used, although this is discouraged and should be avoided if possible. The guide also explains how public-facing service accounts should be authenticated. For more information, refer to the [Password Management Guide](password-management-guide.md).
 
 This guide has been written in alignment with [NCSC guidance](https://www.ncsc.gov.uk/collection/passwords/updating-your-approach).
 
@@ -19,7 +19,7 @@ The multi-user account checklist requires that you:
     **Note:** The BIA provides details on how the business views the impact to their information assets and services following a loss of Confidentiality, Integrity or Availability. This is useful because it provides a steer on what types of incidents result in the highest impact to the business and how tolerant the business is to a loss of service provision. For help on creating a BIA, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 -   Create a pre-defined and authorised list of users.
--   Implement using the 'need to know' access principle on the PAM. Alternatively, if using a bastion host, see what options there are to enforce this principle.
+-   Implement using the 'need to know' access principle on the PAM. Alternatively, if using a bastion host, find out what options there are to enforce this principle.
 -   Regularly check for redundant user IDs and accounts on either the PAM or bastion hosts. These should then be blocked or removed.
 
 ## Public-facing services

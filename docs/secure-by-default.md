@@ -33,7 +33,7 @@ The [National Cyber Security Centre \(NCSC\)](https://www.ncsc.gov.uk) describe 
 
 ### Context is important
 
-The principles above can generally be applied in most scenarios however interpretation and applicability in context can vary - the Ministry of Justice \(MoJ\) Cybersecurity team are here to help and advise.
+The previous principles can generally be applied in most scenarios however interpretation and applicability in context can vary - the Ministry of Justice \(MoJ\) Cyber Security team are here to help and advise.
 
 NCSC also have a set of whitepapers which help explain some approaches to building products which align with these principles \(and they add to them over time\):
 
