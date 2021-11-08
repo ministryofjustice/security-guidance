@@ -352,6 +352,7 @@
 		<!-- Report results -->
 		<loadfile property="epub-tech" srcFile="build-tech.txt" />
 		<echo message="${epub-tech}" />
+		<echo message="Completed EPUB: Technical users."/>
 		<delete file="build-tech.txt"/>
 		<!-- Rename this file to be Tech users guide.
 		<move file="${build}/moj-guidance.epub" tofile="${build}/moj-guidance-tech.epub" overwrite="true"/>
@@ -373,6 +374,7 @@
 		<!-- Report results -->
 		<loadfile property="epub-gs" srcFile="build-gs.txt" />
 		<echo message="${epub-gs}" />
+		<echo message="Completed EPUB: Group Security."/>
 		<delete file="build-gs.txt"/>
 
 		<!-- Next build the Suppliers EPUB, containing just their content. -->
@@ -411,6 +413,7 @@
 		<!-- Report results -->
 		<loadfile property="epub-basic" srcFile="build-basic.txt" />
 		<echo message="${epub-basic}" />
+		<echo message="Completed EPUB: all users, no technical detail."/>
 		<delete file="build-basic.txt"/>
 	</target>
 

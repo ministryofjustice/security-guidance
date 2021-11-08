@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="it-security-policy-overview">
-  <title>IT Security Policy (Overview)</title>
-  <body/>
-  <topic id="introduction">
-    <title>Introduction</title>
-    <body>
-      <p>This policy gives an overview of information security principles and responsibilities within the <ph conref="conrefs.dita#conrefs/mojlong"/>
-        and provides a summary of the <ph conref="conrefs.dita#conrefs/moj"/>'s related security policies and guides.</p>
-    </body>
-  </topic>
+<title>IT Security Policy (Overview)</title>
+  <body>
+    <p>This policy gives an overview of information security principles and responsibilities within the <ph conref="conrefs.dita#conrefs/mojlong"/>
+      and provides a summary of the <ph conref="conrefs.dita#conrefs/moj"/>'s related security policies and guides.</p>
+  </body>
   <topic id="audience">
     <title>Audience</title>
     <body>

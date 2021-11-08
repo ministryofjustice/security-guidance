@@ -263,7 +263,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 							<entry colname="col2"><xref href="#protection-from-malware" format="dita">Protection from malware</xref></entry>
 						</row>
 <!--   Backup -->
-						<row>
+						<row audience="audience-tech">
 							<entry colname="col1"> </entry>
 							<entry colname="col2"><xref href="#backup" format="dita">Backup</xref></entry>
 						</row>
@@ -807,7 +807,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="public-key-infrastructure-policy.dita" format="dita">Public Key Infrastructure Policy</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="use-of-hmg-cryptography-policy.dita" format="dita">Use of HMG Cryptography Policy</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -1190,7 +1190,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="source-code-publishing.dita" format="dita">Source Code Publishing</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="system-test-standard.dita" format="dita">System Test Standard</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>

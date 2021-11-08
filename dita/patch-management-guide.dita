@@ -2,8 +2,6 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="patch-management-guide">
   <title>Patch Management Guide</title>
-  <topic id="introduction">
-    <title>Introduction</title>
     <body>
       <p>This guide explains the patching requirements for <ph conref="conrefs.dita#conrefs/mojlong"/>
         systems once a vulnerability has been identified.</p>
@@ -12,7 +10,6 @@
       <p>The intent is to avoid compromise of <ph conref="conrefs.dita#conrefs/moj"/> systems
         because of vulnerabilities.</p>
     </body>
-  </topic>
   <topic id="patching-of-moj-systems-and-equipment">
     <title>Patching of <ph conref="conrefs.dita#conrefs/moj"/> systems and equipment</title>
     <body>

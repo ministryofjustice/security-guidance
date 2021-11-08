@@ -1,5 +1,12 @@
 # System Backup Guidance
 
+**Related information**  
+
+
+[System Backup Policy](system-backup-policy.md)
+
+[System Backup Standard](system-backup-standard.md)
+
 ## Legacy information
 
 **Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
@@ -108,6 +115,10 @@ Some backups contain data that is sensitive. Evaluate the data that is to be bac
 ## How long is a backup kept?
 
 Keeping all backups forever on physical media is not practical or desirable. It is usually necessary to delete data and any backups after a defined period of time.
+
+## Contact details
+
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

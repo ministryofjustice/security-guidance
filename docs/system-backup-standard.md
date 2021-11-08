@@ -1,5 +1,12 @@
 # System Backup Standard
 
+**Related information**  
+
+
+[System Backup Guidance](system-backup-guidance.md)
+
+[System Backup Policy](system-backup-policy.md)
+
 ## Legacy information
 
 **Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
@@ -270,6 +277,10 @@ If the medium is reusable, it must be securely erased in accordance with NCSC gu
 If the medium is not reusable, it must be taken out of stock and marked with a `To Be Decommissioned` status in the system backup register until secure disposal takes place. The status is also updated in the CMDB.
 
 Disposing of any medium must be in accordance with the relevant disposal plan.
+
+## Contact details
+
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

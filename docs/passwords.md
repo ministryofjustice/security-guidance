@@ -10,6 +10,11 @@ This guidance is for all users. It also includes more detail for system administ
 
 **Note:** Except where stated, the guidance in this article applies to both passwords and PINs.
 
+**Related information**  
+
+
+[Technical Controls Policy](technical-controls-policy.md)
+
 ## General best practices
 
 **Note:** This section applies to passwords and PINs.

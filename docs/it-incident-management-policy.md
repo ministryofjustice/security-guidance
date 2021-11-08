@@ -1,5 +1,20 @@
 # IT Incident Management Policy
 
+Incident management is the ability to react to security incidents in a controlled, pre-planned manner. Preparation and planning are key factors to successful information security management and all Ministry of Justice \(MoJ\) systems rely on Incident Management Plans for safe and secure operations.
+
+The aim of this policy is to ensure best practice is followed by all IT systems when dealing with security incidents, in particular, those pertaining to data loss, in a timely and efficient manner.
+
+**POL.IMP.001:**
+
+Each MoJ Business Group **must have** an IT Security Incident Management Plan which aligns to this policy. This plan must be common to all IT systems within a particular business group.
+
+A template plan and guidance on the construction of an IT Security Incident Management Plan is provided in [IT Security – Incident Management Plan and Process guide](incident-management-plan-and-process-guide.md).
+
+**Related information**  
+
+
+[Technical Controls Policy](technical-controls-policy.md)
+
 ## Legacy information
 
 **Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
@@ -21,23 +36,11 @@
 -   `RESTRICTED`, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 -   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
-## Introduction
-
-Incident management is the ability to react to security incidents in a controlled, pre-planned manner. Preparation and planning are key factors to successful information security management and all Ministry of Justice \(MoJ\) systems rely on Incident Management Plans for safe and secure operations.
-
-The aim of this policy is to ensure best practice is followed by all IT systems when dealing with security incidents, in particular, those pertaining to data loss, in a timely and efficient manner.
-
-**POL.IMP.001:**
-
-Each MoJ Business Group **must have** an IT Security Incident Management Plan which aligns to this policy. This plan must be common to all IT systems within a particular business group.
-
-A template plan and guidance on the construction of an IT Security Incident Management Plan is provided in [IT Security – Incident Management Plan and Process guide](incident-management-plan-and-process-guide.md).
-
-### Scope
+## Scope
 
 This policy is concerned with IT related security incidents outlining the roles and responsibilities, escalation path and criteria for escalation.
 
-### Relationship with wider MoJ functions
+## Relationship with wider MoJ functions
 
 An IT system is one element of a number of supporting elements which sustain MoJ business functions and delivery of services. The MoJ [Corporate Security and Business Continuity Branch](https://intranet.justice.gov.uk/guidance/security/) is responsible for overall MoJ Incident Management policy and plan. This policy is designed to sit within the overall MoJ incident management structure.
 

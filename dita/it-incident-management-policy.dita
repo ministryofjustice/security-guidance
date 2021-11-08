@@ -2,30 +2,27 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="it-incident-management-policy">
   <title>IT Incident Management Policy</title>
+  <body>
+    <p>Incident management is the ability to react to security incidents in a controlled, pre-planned manner. Preparation and planning are key factors to successful information security management and all <ph conref="conrefs.dita#conrefs/mojlong"/> systems rely on Incident Management Plans for safe and secure operations.</p>
+    <p>The aim of this policy is to ensure best practice is followed by all IT systems when dealing with security incidents, in particular, those pertaining to data loss, in a timely and efficient manner.</p>
+    <p>
+      <b>POL.IMP.001:</b>
+    </p>
+    <p>Each <ph conref="conrefs.dita#conrefs/moj"/> Business Group <b>must have</b> an IT Security Incident Management Plan which aligns to this policy. This plan must be common to all IT systems within a particular business group.</p>
+    <p>A template plan and guidance on the construction of an IT Security Incident Management Plan is provided in <xref href="incident-management-plan-and-process-guide.dita" format="dita">IT Security – Incident Management Plan and Process guide</xref>.</p>
+  </body>
   <topic id="legacyreferences" conref="conrefs.dita#legacyreferences"><title/></topic>
-  <topic id="introduction">
-    <title>Introduction</title>
+  <topic id="scope">
+    <title>Scope</title>
     <body>
-      <p>Incident management is the ability to react to security incidents in a controlled, pre-planned manner. Preparation and planning are key factors to successful information security management and all <ph conref="conrefs.dita#conrefs/mojlong"/> systems rely on Incident Management Plans for safe and secure operations.</p>
-      <p>The aim of this policy is to ensure best practice is followed by all IT systems when dealing with security incidents, in particular, those pertaining to data loss, in a timely and efficient manner.</p>
-      <p>
-        <b>POL.IMP.001:</b>
-      </p>
-      <p>Each <ph conref="conrefs.dita#conrefs/moj"/> Business Group <b>must have</b> an IT Security Incident Management Plan which aligns to this policy. This plan must be common to all IT systems within a particular business group.</p>
-      <p>A template plan and guidance on the construction of an IT Security Incident Management Plan is provided in <xref href="incident-management-plan-and-process-guide.dita" format="dita">IT Security – Incident Management Plan and Process guide</xref>.</p>
+      <p>This policy is concerned with IT related security incidents outlining the roles and responsibilities, escalation path and criteria for escalation.</p>
     </body>
-    <topic id="scope">
-      <title>Scope</title>
-      <body>
-        <p>This policy is concerned with IT related security incidents outlining the roles and responsibilities, escalation path and criteria for escalation.</p>
-      </body>
-    </topic>
-    <topic id="relationship-with-wider-moj-functions">
-      <title>Relationship with wider <ph conref="conrefs.dita#conrefs/moj"/> functions</title>
-      <body>
-        <p>An IT system is one element of a number of supporting elements which sustain <ph conref="conrefs.dita#conrefs/moj"/> business functions and delivery of services. The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external">Corporate Security and Business Continuity Branch</xref> is responsible for overall <ph conref="conrefs.dita#conrefs/moj"/> Incident Management policy and plan. This policy is designed to sit within the overall <ph conref="conrefs.dita#conrefs/moj"/> incident management structure.</p>
-      </body>
-    </topic>
+  </topic>
+  <topic id="relationship-with-wider-moj-functions">
+    <title>Relationship with wider <ph conref="conrefs.dita#conrefs/moj"/> functions</title>
+    <body>
+      <p>An IT system is one element of a number of supporting elements which sustain <ph conref="conrefs.dita#conrefs/moj"/> business functions and delivery of services. The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external">Corporate Security and Business Continuity Branch</xref> is responsible for overall <ph conref="conrefs.dita#conrefs/moj"/> Incident Management policy and plan. This policy is designed to sit within the overall <ph conref="conrefs.dita#conrefs/moj"/> incident management structure.</p>
+    </body>
   </topic>
   <topic id="incident-management-process">
     <title>Incident Management Process</title>

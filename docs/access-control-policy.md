@@ -1,10 +1,13 @@
 # Access Control Policy
 
-## Introduction
-
 This policy gives an overview of access control security principles and responsibilities within the Ministry of Justice \(MoJ\). It provides a summary of the policies and guides that apply to MoJ access management.
 
 To help identify formal policy statements, each is prefixed with an identifier of the form: `POLACPxxx`, where xxx is a unique ID number.
+
+**Related information**  
+
+
+[Technical Controls Policy](technical-controls-policy.md)
 
 ## Audience
 

@@ -2,17 +2,14 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="access-control-policy">
   <title>Access Control Policy</title>
-  <topic id="introduction">
-    <title>Introduction</title>
-    <body>
-      <p>This policy gives an overview of access control security principles and responsibilities within the <ph conref="conrefs.dita#conrefs/mojlong"/>.
-        It provides a summary of the  policies and guides that apply to <ph conref="conrefs.dita#conrefs/moj"/> access management.</p>
-      <p>To help identify formal policy statements,
-        each is prefixed with an identifier of the form:
-        <codeph>POLACPxxx</codeph>,
-        where xxx is a unique ID number.</p>
-    </body>
-  </topic>
+  <body>
+    <p>This policy gives an overview of access control security principles and responsibilities within the <ph conref="conrefs.dita#conrefs/mojlong"/>.
+      It provides a summary of the  policies and guides that apply to <ph conref="conrefs.dita#conrefs/moj"/> access management.</p>
+    <p>To help identify formal policy statements,
+      each is prefixed with an identifier of the form:
+      <codeph>POLACPxxx</codeph>,
+      where xxx is a unique ID number.</p>
+  </body>
   <topic id="audience">
     <title>Audience</title>
     <body>
