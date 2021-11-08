@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-11-08 17:30 GMT [System backup policy](https://security-guidance.service.justice.gov.uk/system-backup-policy/)**
+
+    Corrected broken links within the content, also some structural changes for easier cross-referencing with related topics.
+
 -   **2021-11-04 10:28 GMT [CCTV Policy](https://security-guidance.service.justice.gov.uk/cctv-policy/)**
 
     This policy details the purpose, usage, and management of the CCTV systems within the MoJ.

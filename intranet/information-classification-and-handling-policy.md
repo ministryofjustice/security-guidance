@@ -1,7 +1,5 @@
 #Information Classification and Handling Policy
 
-##Introduction
-
 This document provides the core set of IT security principles and expectations on the handling and classification of information on Ministry of Justice (MoJ) IT systems.
 
 The MoJ stores and processes a wide variety of information, some of which attracts an HMG protective marking or contains personal information. The MoJ has a duty to protect all the information stored and processed on its IT systems.
