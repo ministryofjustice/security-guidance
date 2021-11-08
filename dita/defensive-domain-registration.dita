@@ -101,7 +101,7 @@
   <topic id="registering-and-maintaining-a-defensive-domain">
     <title>Registering and maintaining a defensive domain</title>
     <body>
-      <p><ph conref="conrefs.dita#conrefs/moj"/> organisations should contact <xref href="mailto://domains@digital.justice.gov.uk" format="html" scope="external">domains@digital.justice.gov.uk</xref> for assistance with defensive doman registrations and operations.</p>
+      <p><ph conref="conrefs.dita#conrefs/moj"/> organisations should contact <xref href="mailto://domains@digital.justice.gov.uk" format="html" scope="external">domains@digital.justice.gov.uk</xref> for assistance with defensive domain registrations and operations.</p>
     </body>
   </topic>
   <topic id="decommissioning-a-domain">

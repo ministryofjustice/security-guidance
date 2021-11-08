@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 29 October 2021.
+**Note:** This guidance is dated: 4 November 2021.
 
 ### Popular links
 
@@ -34,7 +34,7 @@ For convenience, offline versions of this guidance are available.
 |Group Security. Contains Group Security policy and guidance.|[PDF](moj-guidance-gs.pdf)|[EPUB](moj-guidance-gs.epub)|
 |Technical users. Includes lots of technical detail. This document contains all content, including for 'All users' and from Group Security. Download this document if you want the complete set of published MoJ security policy and guidance.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 29 November 2021.
+The offline versions of this guidance are time-limited, and are not valid after 4 December 2021.
 
 ### Getting in touch
 
@@ -174,6 +174,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Removable media](removable-media.md)|All users|
 |[Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)|All users|
 |[Secure disposal of IT - physical and on-premise](secure-disposal-of-it-physical-and-on-premise.md)|All users|
+|[Working securely with paper documents and files](working-securely-with-paper-documents-and-files.md)|All users|
 
 ### Access control
 
@@ -242,10 +243,6 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Policies for MacBook Users](policies-for-macbook-users.md)|All users|
 |[System Lockdown and Hardening Standard](system-lockdown-and-hardening-standard.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
-### Operational security team
-
-|[Documentation landing page](ost)|All users|
-
 ### Operations security
 
 #### Operational procedures and responsibilities
@@ -302,6 +299,7 @@ The documents have been developed and defined within this taxonomy, and are list
 
 |[Code of Connection Standard](code-of-connection-standard.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Defensive domain registrations](defensive-domain-registration.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Domain names and Domain Name System \(DNS\) security policy](domain-names-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Internet v. PSN](internet-v-psn.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[IP DNS Diagram Handling](ip-dns-diagram-handling.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Multiple Back-to-back Consecutive Firewalls](multiple-consecutive-back-to-back-firewalls.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
@@ -314,6 +312,8 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Data Sovereignty](data-sovereignty.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Email](email.md)|All users|
 |[Email Authentication Guide](email-authentication-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Email Blocklist Policy](email-blocklist-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Email Blocklist Process](email-blocklist-process.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Email Security Guide](email-security-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
 |[Secure Data Transfer Guide](secure-data-transfer-guide.md)|All users|

@@ -86,7 +86,7 @@ Mail services/redirects must **not** be functional or available for defensively 
 
 ## Registering and maintaining a defensive domain
 
-MoJ organisations should contact [domains@digital.justice.gov.uk](mailto://domains@digital.justice.gov.uk) for assistance with defensive doman registrations and operations.
+MoJ organisations should contact [domains@digital.justice.gov.uk](mailto://domains@digital.justice.gov.uk) for assistance with defensive domain registrations and operations.
 
 ## Decommissioning a domain
 

@@ -35,6 +35,7 @@
 			<ph id="cpni">CPNI</ph>
 			<ph id="dacuemail"><xref href="mailto:Data.access@justice.gov.uk" format="email" scope="external">Data.access@justice.gov.uk</xref></ph>
 			<ph id="do"><b>Do:</b></ph>
+			<ph id="domainsemail"><xref href="mailto:domains@digital.justice.gov.uk" format="email" scope="external">domains@digital.justice.gov.uk</xref></ph>
 			<ph id="donot"><b>Do not:</b></ph>
 			<ph id="gcloud"><xref href="https://www.digitalmarketplace.service.gov.uk/g-cloud" format="html" scope="external">Digital Marketplace (GCloud)</xref></ph>
 			<ph id="giaaemail"><xref href="mailto:correspondence@giaa.gov.uk" format="email" scope="external">correspondence@giaa.gov.uk</xref></ph> <!-- Government Internal Audit Agency -->
@@ -43,16 +44,20 @@
 			<ph id="groupsecurityemailtext"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="email" scope="external"><ph conref="#conrefs/moj"/> Group Security</xref></ph>
 			<ph id="gsuite">Google Workspace</ph>
 			<ph id="helpdesk"><ph conref="#conrefs/servicedesk"/></ph>
+			<ph id="higherclassification">If you are working with information or documentation higher than the <codeph>OFFICIAL</codeph> classification level, contact <ph conref="#conrefs/groupsecurityemailtext"/> for specific guidance.</ph>
 			<ph id="hmggovernmentsecurityclassifications"><xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">HMG Government Security Classifications Policy</xref></ph>
+			<ph id="icolong">Information Commissioner's Office (<ph conref="#conrefs/ico"/>)</ph>
+			<ph id="ico">ICO</ph>
 			<ph id="itpolicycontentemail"><xref href="mailto:itpolicycontent@digital.justice.gov.uk" format="email" scope="external">itpolicycontent@digital.justice.gov.uk</xref></ph>
 			<ph id="itpolicycontentemailtext"><xref href="mailto:itpolicycontent@digital.justice.gov.uk" format="email" scope="external">IT policy content</xref></ph>
-			<ph id="mojlong">Ministry of Justice (MoJ)</ph>
+			<ph id="mojlong">Ministry of Justice (<ph conref="#conrefs/moj"/>)</ph>
 			<ph id="moj">MoJ</ph>
 			<ph id="ncsclong">National Cyber Security Centre (NCSC)</ph>
 			<ph id="ncsc">NCSC</ph>
 			<ph id="nsvc-contact">If you don't know who your NSVC is,
-				see the download <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external">here</xref>.</ph>
+				refer to the download <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external">here</xref>.</ph>
 			<ph id="official-sensitive"><codeph>OFFICIAL-SENSITIVE</codeph></ph>
+			<ph id="operationsengineering"><xref href="https://operations-engineering.service.justice.gov.uk/" format="html" scope="external">Operations Engineering</xref></ph>
 			<ph id="ostemail"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
 			<ph id="ostemailtext"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">Operational Security Team</xref></ph>
 			<ph id="policyterms">In policy documents,
@@ -76,6 +81,7 @@
 			<ph id="privacyemail"><xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">privacy@justice.gov.uk</xref></ph>
 			<ph id="privacyemailtext"><xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">Data Privacy Team</xref></ph>
 			<ph id="recordsretentionemail"><xref href="mailto:Records_Retention_@justice.gov.uk" format="email" scope="external">Records_Retention_@justice.gov.uk</xref></ph>
+			<ph id="recordsretentionemailtext"><xref href="mailto:Records_Retention_@justice.gov.uk" format="email" scope="external">Records and Retention team</xref></ph>
 			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></ph>
 			<ph id="servicedesk">IT Service Desk</ph>
 			<ph id="softwareassetemail"><xref href="mailto:SoftwareAssetManagement@justice.gov.uk" format="email" scope="external">SoftwareAssetManagement@justice.gov.uk</xref></ph>
@@ -122,7 +128,7 @@
 							contact the <ph conref="#conrefs/cisolong"/> (<ph conref="#conrefs/securityemail"/>).</li>
 						<li><codeph>CONFIDENTIAL</codeph>,
 							an older information classification marking,
-							see <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>.</li>
+							refer to <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>.</li>
 						<li>CPNI (<xref href="https://www.cpni.gov.uk/" scope="external" format="html">Centre for the Protection of the National Infrastructure</xref>),
 							contact the <ph conref="#conrefs/ciso"/> (<ph conref="#conrefs/securityemail"/>).</li>
 						<li>DSO (Departmental Security Officer),
@@ -131,20 +137,20 @@
 							refer to the <ph conref="#conrefs/ncsc"/>,
 							contact <ph conref="#conrefs/securityemail"/>.</li>
 						<li>IS1 (HMG Infosec Standard 1 Technical Risk Assessment),
-							see the <ph conref="#conrefs/gov007"/>.</li>
+							refer to the <ph conref="#conrefs/gov007"/>.</li>
 						<li>IS2 (HMG Infosec Standard 2 Information Risk Management),
-							see the <ph conref="#conrefs/gov007"/>.</li>
+							refer to the <ph conref="#conrefs/gov007"/>.</li>
 						<li>IS4 (HMG Infosec Standard 4 Communications Security and Cryptography),
-							see the <ph conref="#conrefs/gov007"/>.</li>
+							refer to the <ph conref="#conrefs/gov007"/>.</li>
 						<li>IS6 (HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk),
-							see the <ph conref="#conrefs/gov007"/>.</li>
+							refer to the <ph conref="#conrefs/gov007"/>.</li>
 						<li>ITSO (Information Technology Security Officer),
 							contact the <ph conref="#conrefs/ciso"/> (<ph conref="#conrefs/securityemail"/>).</li>
 						<li><codeph>RESTRICTED</codeph>,
 							an older information classification marking,
-							see <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>.</li>
+							refer to <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>.</li>
 						<li>SPF (<xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">Security Policy Framework</xref>),
-							see the <ph conref="#conrefs/gov007"/>,
+							refer to the <ph conref="#conrefs/gov007"/>,
 							contact <ph conref="#conrefs/securityemail"/>.</li>
 					</ul>
 				</note>

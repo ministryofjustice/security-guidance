@@ -42,7 +42,7 @@
         Sometimes, you might need account details such as passwords to use the IT.
         Acceptable use means protecting this kind of information, too.</p>
       <p>Acceptable use can also vary according to context.
-        For example, checking sensitive personal details might be perfectly normal within a secured office, but is not acceptable in a public space where anyone else might see those details.</p>
+        For example, checking sensitive personal details might be perfectly normal within a secured office, but is not acceptable in a public space where anyone else might access those details.</p>
     </body>
   </topic>
   <topic id="unacceptable-use-of-moj-it">
@@ -99,7 +99,7 @@
       You are responsible for protecting <ph conref="conrefs.dita#conrefs/moj"/>
       equipment issued to you.
       Any theft of <ph conref="conrefs.dita#conrefs/moj"/> equipment,
-      or deliberate or willful damage to <ph conref="conrefs.dita#conrefs/moj"/> equipment,
+      or deliberate or wilful damage to <ph conref="conrefs.dita#conrefs/moj"/> equipment,
       should normally be <xref href="lost-devices-incidents.dita" format="dita">reported</xref>
       to the Police and to the <ph conref="conrefs.dita#conrefs/servicedesk"/>.
       <note>You should normally report instances of theft or damage to authorities
@@ -146,12 +146,12 @@
           <li>Calling premium rate telephone services.</li>
           <li>Voting in "reality TV" popularity contests - these usually involve premium rate services.</li>
           <li>Downloading, uploading, or streaming media files that are not work-related, such as music or movies.</li>
-          <li>"Tethering" another device to the <ph conref="conrefs.dita#conrefs/moj"/> mobile phone, and then using the other device for any of the above activities.</li>
+          <li>"Tethering" another device to the <ph conref="conrefs.dita#conrefs/moj"/> mobile phone, and then using the other device for any of the previously mentioned activities.</li>
         </ul></p>
         <p>... as well as any other activities that are not obviously work-related.</p>
         <p>All use of <ph conref="conrefs.dita#conrefs/moj"/> IT resources is monitored and logged.
         This includes mobile phone usage listed in account bills.
-        It is possible to see if you used a work-issued mobile phone for unacceptable activities.
+        It is possible to find out if you used a work-issued mobile phone for unacceptable activities.
         Unacceptable use is reported to your Line Manager for further appropriate action.
         Assessing your behaviour and performance takes this kind of activity into account.</p>
       </body>

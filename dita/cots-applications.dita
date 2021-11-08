@@ -20,7 +20,7 @@
           <li>Amazon Web Services (Accounts and Incognito)</li>
           <li>Okta</li>
           <li>Auth0</li>
-          <li>Github.com (acting as an identity provider)</li>
+          <li>github.com (acting as an identity provider)</li>
           <li><ph conref="conrefs.dita#conrefs/gsuite"/> (acting as an identity provider)</li>
           <li>Oracle identity stores</li>
           <li>Local user stores within operating systems leveraged by tenant applications</li>

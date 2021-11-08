@@ -16,7 +16,7 @@
       or which is trying to perform a denial of service attack.</p>
     <p>At the same time,
       the <ph conref="conrefs.dita#conrefs/moj"/> is careful not to "over-retain" log information,
-      or to share it with those who do not need to see it,
+      or to share it with those who do not need to access it,
       without lawful justification.
       The <ph conref="conrefs.dita#conrefs/moj"/> must always act in a proportionate way with this data.</p>
     <p>The <ph conref="conrefs.dita#conrefs/moj"/> Chief Information Security Officer (CISO) is ultimately responsible for all logging and monitoring systems which have been implemented for cyber security purposes.

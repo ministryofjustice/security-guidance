@@ -6,13 +6,13 @@ Most applications for National Security Vetting (NSV) clearance including Counte
 
 Some business areas employ large number of NSV-cleared people and those clearances need to be managed and monitored. The MoJ recognises that many personnel are contractors and agency staff, often with clearances held elsewhere. The NSVC **SHALL** facilitate the process and provide the business with a single point of contact and liaison with the National Security Vetting Team and Shared Services Connected Limited (SSCL).
 
-**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##Roles and responsibilities
 
 * NSVCs are a mandatory role and one **SHALL** be appointed if there are National Security Vetted staff in any business area.
 
-* NSVCs **SHALL** undergo the Baseline Personnel Security Standard (BPSS) check as a minimum, and be registered with [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). How many NSVCs a business area needs is for Senior Managers to determine, based on how they are organised. For example, how many NSV clearances need processing and maintainance.
+* NSVCs **SHALL** undergo the Baseline Personnel Security Standard (BPSS) check as a minimum, and be registered with [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). How many NSVCs a business area needs is for Senior Managers to determine, based on how they are organised. For example, how many NSV clearances need processing and maintenance.
 
 * NSVCs monitor the progress of all applications for an NSV clearance and **SHALL** maintain a register of all active NSV personnel within their business area.
 

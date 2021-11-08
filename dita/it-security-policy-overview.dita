@@ -50,14 +50,14 @@
       <p>Within this policy,
         "all <ph conref="conrefs.dita#conrefs/moj"/> users" refers to General users,
         Technical users,
-        and Service Providers as defined above.</p>
+        and Service Providers as defined previously.</p>
     </body>
   </topic>
   <topic id="associated-documentation">
     <title>Associated documentation</title>
     <body>
       <p>For further guidance on IT Security,
-        see the <ph audience="audience-suppliers audience-tech">policies</ph><ph audience="audience-basic">policy</ph> below.
+        refer to the following <ph audience="audience-suppliers audience-tech">policies</ph><ph audience="audience-basic">policy</ph>.
       <ul>
         <li><xref href="it-security-all-users-policy.dita" format="dita">IT Security All Users Policy</xref>: which provides further details of the responsibilities of all <ph conref="conrefs.dita#conrefs/moj"/> users at the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
         <li audience="audience-suppliers audience-tech"><xref href="it-security-technical-users-policy.dita" format="dita">IT Security Technical Users Policy</xref>: which provides the details of where users can find more technical and service provider related information on IT Security within the <ph conref="conrefs.dita#conrefs/moj"/>.</li>

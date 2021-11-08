@@ -23,7 +23,7 @@ This policy is aimed at:
     All other staff working for the MoJ.
 
 
-"All MoJ users" refers to General users, Technical users, and Service Providers, as defined above.
+"All MoJ users" refers to General users, Technical users, and Service Providers, as defined previously.
 
 ## Purpose
 

@@ -73,7 +73,7 @@ The data point is currently a unique number to assist with future automated anal
 
 Teams/individuals responsible for the design, creation, implementation, support and maintenance of systems should have viable written evidence \(regardless of format\) that should be made available to various teams on request, for example, security or to internal audit.
 
-Using the [categories used within the MCSS](identify-protect-detect-respond-recover.md) as a basis, some indicative questions and documentation expectations are discussed below.
+Using the [categories used within the MCSS](identify-protect-detect-respond-recover.md) as a basis, some indicative questions and documentation expectations are discussed in this guidance.
 
 ### IDENTIFY
 

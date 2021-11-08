@@ -60,7 +60,7 @@ For most Users, access to MoJ ICT systems and information held on them is throug
 
 ### General Security Operating Procedures \(SyOPs\)
 
-The policy refers to a key set of general SyOPs which are listed below:
+The policy refers to a key set of general SyOPs which are listed as follows:
 
 -   [IT Security Operating Procedures - System Administrators](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/).
 -   [System Users and Application Administrators](system-users-and-application-administrators.md).
@@ -69,14 +69,14 @@ The policy refers to a key set of general SyOPs which are listed below:
 -   IT Security Operating Procedures - ICT Equipment: Mobile Devices - RAS Laptop.
 -   IT Security Operating Procedures - ICT Equipment: Mobile Devices – Blackberry.
 
-To minimise the number of SyOPs in circulation and standardise procedures, the SyOPs listed above act as the primary set where individual ICT systems are expected to conform to in terms of their own SyOPs. Any deviations or additions are at the discretion of the system Accreditor.
+To minimise the number of SyOPs in circulation and standardise procedures, the SyOPs listed previously act as the primary set where individual ICT systems are expected to conform to in terms of their own SyOPs. Any deviations or additions are at the discretion of the system Accreditor.
 
 -   **POL.ITAUP.008**
 
-    All ICT systems **must have** documented SyOPs which comply with the general SyOPs listed in this policy \(see [here](#general-security-operating-procedures-syops) \). Any deviations or additions must be recorded in separate SyOPs which form an addendum to one of the SyOPs listed [here](#general-security-operating-procedures-syops).
+    All ICT systems **must have** documented SyOPs which comply with the general SyOPs listed in this policy \(refer [here](#general-security-operating-procedures-syops) \). Any deviations or additions must be recorded in separate SyOPs which form an addendum to one of the SyOPs listed [here](#general-security-operating-procedures-syops).
 
 
-**Note** – An ICT system may make use of, in their entirety, one or more of the SyOPs listed above as the procedures of that IT system do not deviate from those described in these general SyOPs.
+**Note** – An ICT system may make use of, in their entirety, one or more of the SyOPs listed previously as the procedures of that IT system do not deviate from those described in these general SyOPs.
 
 ### Removable Media
 
@@ -141,7 +141,7 @@ The MoJ has a duty of care to all staff and to provide a positive working enviro
 
 ## Personal use
 
-The MoJ permits limited personal use of its ICT systems provided this does not conflict or interfere with normal business activities. The MoJ monitors the use of its IT systems and any personal use is subject to monitoring and auditing \(see [here](#monitoring-of-communications) \), and may also be retained in backup format even after deletion from live systems.
+The MoJ permits limited personal use of its ICT systems provided this does not conflict or interfere with normal business activities. The MoJ monitors the use of its IT systems and any personal use is subject to monitoring and auditing \(refer [here](#monitoring-of-communications) \), and may also be retained in backup format even after deletion from live systems.
 
 The MoJ reserves the right to restrict personal use of its ICT systems. The main methods employed are:
 

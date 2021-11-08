@@ -5,7 +5,7 @@
 ## Key points
 
 -   **Do:** Be professional, and help keep Ministry of Justice \(MoJ\) information and resources safe and secure at all times.
--   **Do:** Think about where you are working, for example - can other people or family see what you are working on? Be thoughtful about information privacy.
+-   **Do:** Think about where you are working, for example - can other people or family access what you are working on? Be thoughtful about information privacy.
 -   **Do:** Keep MoJ accounts and password information secure.
 -   **Do:** Take care of your equipment. Devices are more likely to be stolen or lost when working away from the office or home.
 -   **Do:** Get in touch quickly to report problems or security questions.
@@ -56,7 +56,7 @@ Remote working is when you work from any non-MoJ location, for example, working 
 
 It's important to consider the security of how you work remotely.
 
--   **Work locations** - as with home working above, you need to be equally, if not more, vigilant when working in public spaces.
+-   **Work locations** - as with home working discussed previously, you need to be equally, if not more, vigilant when working in public spaces.
 -   **Confidentiality** - be aware of others eavesdropping or shoulder surfing, both what you are working on and what you are saying eg conference and video calls.
 -   Keep MoJ **equipment and information**, including printouts and documents, safe and secure.
 
@@ -115,12 +115,12 @@ Basically, think before you print.
 
 It is important to protect privacy: yours and that of the MoJ. Events like the Covid-19 \(Coronavirus\) pandemic are often exploited by people wanting to get access to sensitive or valuable information. This often results in an increase in attempts to get access to personal information or MoJ accounts, using phishing and email scams. Be extra vigilant whenever you get an unexpected communication.
 
-Be aware of your working environment when you work with MoJ information. If anyone might see the data, or hear you talk about it as you use it, that could cause privacy problems. Be aware of SMART devices around your remote location, and ensure they are switched off if conducting video or voice communications.
+Be aware of your working environment when you work with MoJ information. If anyone might access the data, or hear you talk about it as you use it, that could cause privacy problems. Be aware of SMART devices around your remote location, and ensure they are switched off if conducting video or voice communications.
 
 Guidance and suggestions for improving Privacy appear throughout this guide, but it's worthwhile highlighting these points:
 
 -   **Do:** Lock your computer, even when unattended for short periods.
--   **Do:** Think about whether an unauthorised person, such as a family member, might see the information you are working with.
+-   **Do:** Think about whether an unauthorised person, such as a family member, might access the information you are working with.
 -   **Do not:** Write down passwords. Use a password manager.
 
 ## Contacts for getting help

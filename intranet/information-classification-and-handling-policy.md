@@ -14,7 +14,7 @@ This policy covers all staff (including contractors and agency staff) who use Mo
 
 The overarching policy on information classification and handling is maintained by [MoJ Security](/guidance/security/). This document only contains IT specific policies which are in addition to the overarching policy.
 
-The overarching policy can be found [here](government-classification-scheme.md).
+The overarching policy can be found [here](https://security-guidance.service.justice.gov.uk/government-classification-scheme/).
 
 All Users **must be** made aware of the Information Classification and Handling Policy, and provided with security awareness training which covers this policy.
 

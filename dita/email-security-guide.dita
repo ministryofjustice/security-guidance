@@ -49,7 +49,7 @@
   <topic id="related-guides">
     <title>Related guides</title>
     <body>
-      <p>Further guidance on email security at the <ph conref="conrefs.dita#conrefs/moj"/> can be found in the guides below.</p>
+      <p>Further guidance on email security at the <ph conref="conrefs.dita#conrefs/moj"/> can be found in the following guides.</p>
       <ul>
         <li><xref href="spam-and-phishing-guide.md" format="dita" type="topic">Spam and Phishing Guide</xref> - provides guidance on how you can protect against and report email security threats like phishing and spamming.</li>
         <li><xref href="secure-email-transfer-guide.md" format="dita">Secure Email Transfer Guide</xref> - provides guidance on the security tools you can use to securely transfer information via email.</li>

@@ -2,7 +2,7 @@
 
 **Note:** If you want client certificates, contact [SoftwareAssetManagement@justice.gov.uk](mailto:SoftwareAssetManagement@justice.gov.uk).
 
-Where technically suitable, all new Ministry of Justice \(MoJ\) domains **must** use automated certificate techniques and services, such as [AWS Certificate Manager](https://aws.amazon.com/certificate-manager/) \(most preferred\) or [LetsEncrypt](https://letsencrypt.org/) \(uses [ACME](https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment)\)
+Where technically suitable, all new Ministry of Justice \(MoJ\) domains **must** use automated certificate techniques and services, such as [AWS Certificate Manager](https://aws.amazon.com/certificate-manager/) \(most preferred\) or [Let's Encrypt](https://letsencrypt.org/) \(uses [ACME](https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment)\)
 
 Over time, existing MoJ domains **must** also be considered for migration to automated certificate provisioning and management techniques \(preferably on their next certificate renewal cycle in advance of expiry\) in order to reduce the consequences and management overheads of manual certificate renewal.
 

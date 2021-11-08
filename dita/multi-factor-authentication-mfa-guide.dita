@@ -24,7 +24,7 @@
         </li>
       </ul>
       <p>MFA can be used as a possession-based factor for authentication, by checking for something 'you have'. MFA is sometimes referred to as Two-Factor Authentication (2FA) if it involves a second form of authentication. MFA is referred to as 3, 4, or 5 Factor Authentication if it includes additional authentication requirements. Different methods of additional authentication identify users with varying degrees of accuracy.  Care should be taken to ensure true MFA. For example, password and security questions are both dependent 'something the user knows' and therefore are just one factor of authentication.</p>
-      <p>The list below identifies the <ph conref="conrefs.dita#conrefs/moj"/>'s preference for MFA methods, with 1 ranked the highest. These methods can be used for 2, 3, 4, or 5 Factor Authentication as required.</p>
+      <p>The following list identifies the <ph conref="conrefs.dita#conrefs/moj"/>'s preference for MFA methods, with 1 ranked the highest. These methods can be used for 2, 3, 4, or 5 Factor Authentication as required.</p>
       <note>
       <ul>
         <li>MFA Type 1 may not be suitable for all systems.

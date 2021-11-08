@@ -94,9 +94,9 @@ In general, recommendations for anonymising data include:
 
 ### Developer access
 
-In a normal working environment, developers working on an application, platform or service would be segregated away from access to live/production data. They would never be able to see or manipulate this data. The use of live data for test purposes would potentially negate or bypass these controls.
+In a normal working environment, developers working on an application, platform or service would be segregated away from access to live/production data. They would never be able to access or manipulate this data. The use of live data for test purposes would potentially negate or bypass these controls.
 
-Also, developer roles are often specified as not requiring [SC clearance or above](minimum-user-clearance-requirements-guide.md). This applies also to external \(3rd party\) software suppliers generating bespoke applications or services. The expectation is that the developers do not ever have access to live data.
+Also, developer roles are often specified as not requiring [SC clearance or higher](minimum-user-clearance-requirements-guide.md). This applies also to external \(3rd party\) software suppliers generating bespoke applications or services. The expectation is that the developers do not ever have access to live data.
 
 The use of live data for testing may mean that the clearance levels for developers on a given project would need to be reviewed.
 

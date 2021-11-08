@@ -2,6 +2,22 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-11-04 10:28 GMT [CCTV Policy](https://security-guidance.service.justice.gov.uk/cctv-policy/)**
+
+    This policy details the purpose, usage, and management of the CCTV systems within the MoJ.
+
+-   **2021-11-04 09:05 GMT [Working securely with paper documents and files](https://security-guidance.service.justice.gov.uk/working-securely-with-paper-documents-and-files/)**
+
+    This guidance helps you understand the risks involved in working with, sharing, and moving paper documents both inside and outside the office.
+
+-   **2021-11-03 17:12 GMT [Email blocking](https://security-guidance.service.justice.gov.uk/email-blocklist-policy/)**
+
+    The policy and processes for blocking emails, and deleting emails through administrative processes, across email services across the MoJ.
+
+-   **2021-11-03 17:00 GMT [Domain names](https://security-guidance.service.justice.gov.uk/domain-names-policy/)**
+
+    An overview of domain name registration and monitoring principles and responsibilities within the MoJ.
+
 -   **2021-10-29 11:52 BST [Logging retention](https://security-guidance.service.justice.gov.uk/logging-and-monitoring/)**
 
     Information about keeping logging information.

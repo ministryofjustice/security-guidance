@@ -10,7 +10,7 @@ The processes described in this document are under continual review as part of t
 
 Vacancy managers **SHALL** always advertise their roles with the correct level of clearance required. Levels of clearance are defined by the requirements of the role being filled, not by the level of clearance the candidate already possesses. Your National Security Vetting Contact \(NSVC\) can confirm whether your role requires national security vetting in addition to pre-employment checks. Wrongly classifying roles at advert stage leads to delays in on-boarding.
 
-If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+If you don't know who your NSVC is, refer to the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
 ### Q2. What is the pre-employment check process?
 
@@ -34,7 +34,7 @@ This depends on how the candidate is being recruited and their level in the orga
 
 **Non-directly employed staff**
 
-See [Section 2](#section-2-staff-recruited-from-external-sources-non-directly-employed).
+Refer to [Section 2](#section-2-staff-recruited-from-external-sources-non-directly-employed).
 
 ### Q3. How long do the pre-employment and vetting checks take?
 
@@ -67,7 +67,7 @@ Managers **SHALL** ensure that these applicants undergo the mandatory BPSS check
 For posts that require NSV:
 
 -   The vacancy manager **SHALL** discuss this with their NSVC and obtain a code which needs to be entered on the CRF submitted to SSCL.
--   If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+-   If you don't know who your NSVC is, refer to the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 -   SSCL only accepts requests with a valid vetting reference code provided on the CRF.
 -   SSCL sends a link to the candidate so they can complete their on-line security questionnaire on the NSVS portal.
 
@@ -92,7 +92,7 @@ You need the appropriate level of national security clearance if:
 
 ### Q2. How long does national security vetting take?
 
-See [Q3, Section 1](#q3-how-long-do-the-pre-employment-and-vetting-checks-take).
+Refer to [Q3, Section 1](#q3-how-long-do-the-pre-employment-and-vetting-checks-take).
 
 ### Q3. National Security Vetting takes too long, can the candidate start at BPSS and apply for NSV once they are in post?
 
@@ -100,13 +100,13 @@ If NSV is required for a position, candidates **SHOULD NOT** start until their N
 
 In exceptional circumstances, a policy dispensation request can be made to [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk), who will give a recommendation on whether to grant or refuse the request. Any risk mitigation measures deemed to be required will also be provided for the Senior Security Advisor and the business unit to sign-up to.
 
-Contractors and Agency staff, who **SHALL** have their NSV in place before they start, should contact their NSVC in the first instance. If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+Contractors and Agency staff, who **SHALL** have their NSV in place before they start, should contact their NSVC in the first instance. If you don't know who your NSVC is, refer to the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
 ## Section 4: National Security Vetting Applications
 
-### Q1. I submitted an NSV request several weeks ago, how do I see its status?
+### Q1. I submitted an NSV request several weeks ago, how do I find out its status?
 
-If you require confirmation of the security clearance level, ask your NSVC who will make enquiries for you. If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+If you require confirmation of the security clearance level, ask your NSVC who will make enquiries for you. If you don't know who your NSVC is, refer to the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
 ### Q2. SSCL have told me that they have completed sponsors' actions, what does that mean?
 
@@ -130,7 +130,7 @@ It is crucial that accurate information is provided. It really helps vet people 
 
 SC/CTC each take a minimum of six weeks, with an average of nine weeks. DV takes at least 18 weeks. If this time frame has passed, contact the NSVC who requested the clearance. They can contact SSCL for an update.
 
-If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+If you don't know who your NSVC is, refer to the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
 ### Q7. Why can't candidates use Apple products to submit the security questionnaire?
 
@@ -144,11 +144,11 @@ This section contains information for managers and staff who are already in the 
 
 ### Q1. I am a manager and I think a member of my team needs a national security vetting clearance to do a new piece of work. What should I do?
 
-Talk to your National Security Vetting Contact \(NSVC\). All business areas that have at least one member of staff who holds Security Clearance should have one. If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+Talk to your National Security Vetting Contact \(NSVC\). All business areas that have at least one member of staff who holds Security Clearance should have one. If you don't know who your NSVC is, refer to the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
 ### Q2. My national security vetting clearance is going to expire soon, what should I do?
 
-Speak to your national security vetting contact \(NSVC\), they will decide if it needs to be renewed and help you start the process off. If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+Speak to your national security vetting contact \(NSVC\), they will decide if it needs to be renewed and help you start the process off. If you don't know who your NSVC is, refer to the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
 ### Q3. My personal circumstances have changed, who should I advise?
 

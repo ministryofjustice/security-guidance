@@ -38,7 +38,7 @@ Patching might include recompiling applications to incorporate security updates.
 
 Always apply patches as soon as possible. Where this guidance mentions a time limit, you should apply patches no later than the time given. Some important or sensitive systems might need more urgent patching. For example, a system might need you to apply 'critical' or 'high risk' patches within 7 days.
 
-Where patching or other mitigation is required, it must be applied in compliance with the Patching Schedule in this guide, described [below](#patching-schedule).
+Where patching or other mitigation is required, it must be applied in compliance with the [Patching Schedule](#patching-schedule) in this guide.
 
 Operating systems and applications installed on systems must be:
 

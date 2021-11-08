@@ -196,8 +196,10 @@
 		<exec dir="buildUtils" executable="python3">
 			<arg line="generateRSS.py"/>
 		</exec>
-		<move file="${buildUtils}/rss.xml" todir="${ditabuild}" overwrite="true"/>
+		<copy file="${buildUtils}/atom.xml" todir="${build}" overwrite="true"/>
 		<move file="${buildUtils}/atom.xml" todir="${ditabuild}" overwrite="true"/>
+		<copy file="${buildUtils}/rss.xml" todir="${build}" overwrite="true"/>
+		<move file="${buildUtils}/rss.xml" todir="${ditabuild}" overwrite="true"/>
 		<move file="${buildUtils}/changelog.dita" todir="${ditabuild}" overwrite="true"/>
 		<echo message="RSS, Atom, and ChangeLog generation complete."/>
 		<ant antfile="${dita.dir}/build.xml">

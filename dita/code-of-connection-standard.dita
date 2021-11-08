@@ -42,14 +42,14 @@
       <title>Context</title>
       <body>
         <p>A Code of Connection (CoCo) is designed to provide evidence to the <ph conref="conrefs.dita#conrefs/moj"/> that a connecting 3rd party understands the security controls and procedures required to connect to a <ph conref="conrefs.dita#conrefs/moj"/> IT system and that those controls and procedures have been implemented. The aim here is to ensure that the risks associated with connecting IT systems together are sufficiently mitigated in the technical solution and managed on an ongoing basis during live operation.</p>
-        <p><b>Note:</b> This standard is based on connecting a RESTRICTED-IL3 <ph conref="conrefs.dita#conrefs/moj"/> IT system with an Accredited 3rd party RESTRICTED-IL3 IT system where all electronic communication is over an Accredited RESTRICTED-IL3 network/s and/or RESTRICTED-IL3 communications channel. Where this is not the case, advice must be sort from the IT Security Officer (ITSO) and system Accreditor.</p>
-        <p>A generic CoCo (based on the note above) is provided in Appendix A; it is split into two sections:</p>
+        <note> This standard is based on connecting a RESTRICTED-IL3 <ph conref="conrefs.dita#conrefs/moj"/> IT system with an Accredited 3rd party RESTRICTED-IL3 IT system where all electronic communication is over an Accredited RESTRICTED-IL3 network/s and/or RESTRICTED-IL3 communications channel. Where this is not the case, advice must be sort from the IT Security Officer (ITSO) and system Accreditor.</note>
+        <p>A generic CoCo (based on the previous note) is provided in Appendix A; it is split into two sections:</p>
         <ul>
           <li>
-            <p>basic requirement (see section A.1) – The section outlines the base set of CoCo requirement which need to be met by the connecting 3rd party</p>
+            <p>basic requirement (refer to section A.1) – The section outlines the base set of CoCo requirement which need to be met by the connecting 3rd party</p>
           </li>
           <li>
-            <p>supporting compliance statement (see section A.2) – This section contains a series of compliance statements based on ISO 27001 and the <xref href="https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2" format="html" scope="external">IAS 1&amp;2 Baseline Controls Set (BCS)</xref>. It is designed to provide a mechanism for a connecting 3rd party to supply compliance evidence to the system Accreditor.  Section 3.2 provides details on how this compliance statement should be applied.</p>
+            <p>supporting compliance statement (refer to section A.2) – This section contains a series of compliance statements based on ISO 27001 and the <xref href="https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2" format="html" scope="external">IAS 1&amp;2 Baseline Controls Set (BCS)</xref>. It is designed to provide a mechanism for a connecting 3rd party to supply compliance evidence to the system Accreditor.  Section 3.2 provides details on how this compliance statement should be applied.</p>
           </li>
         </ul>
         <p><b>Note:</b> A signed CoCo between the <ph conref="conrefs.dita#conrefs/moj"/> and the connecting 3rd party is required before the connection can go into live operation.</p>
@@ -60,7 +60,7 @@
       <body>
         <p>In order to ensure that the connectivity and sharing of electronic data between a <ph conref="conrefs.dita#conrefs/moj"/> IT system and a 3rd party IT system does not cause undue risk from one participating organisation to another, each organisation must reasonably comply with the code of connection to ensure any risks are managed effectively.</p>
         <p>The need for a CoCo and its application will be determined by the <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor who will consider the risks involved, this may require the production of a technical risk assessment and/or RMADS for the connection (further details on RMADS can be found in the <xref href="infrastructure-system-accreditation.dita" format="dita">Accreditation Framework</xref> ).</p>
-        <p>The CoCo condition and compliance statement contained within the generic CoCo document (see A.1.3) provide a good platform to judge whether the assurance level of the connecting 3rd party IT system is sufficient rather than just relying on its accreditation status. A risk based approach must be taken to the application of security controls associated with the connection. The generic CoCo (see Appendix A) provides a baseline by which a 3rd party IT system's connection to a <ph conref="conrefs.dita#conrefs/moj"/> IT system will be assessed. The <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor will provide a steer as to how this should be applied, where the default steer is that the guidance provided in <xref href="https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2" format="html" scope="external">IAS 1&amp;2 Baseline Controls Set (BCS)</xref> at the DETER level should be applied.</p>
+        <p>The CoCo condition and compliance statement contained within the generic CoCo document (refer to A.1.3) provide a good platform to judge whether the assurance level of the connecting 3rd party IT system is sufficient rather than just relying on its accreditation status. A risk based approach must be taken to the application of security controls associated with the connection. The generic CoCo (refer to Appendix A) provides a baseline by which a 3rd party IT system's connection to a <ph conref="conrefs.dita#conrefs/moj"/> IT system will be assessed. The <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor will provide a steer as to how this should be applied, where the default steer is that the guidance provided in <xref href="https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2" format="html" scope="external">IAS 1&amp;2 Baseline Controls Set (BCS)</xref> at the DETER level should be applied.</p>
         <p>It is highly likely that the connection between the two systems will be over the GSi.  If so, the 3rd party organisation is likely to have completed the GSi Code of Connection for that system connection. The information requested in the generic CoCo is similar to that required for the GSi CoCo and as such should be readily available.</p>
         <p><b>Note:</b> Depending on the protocols being used, the GSi authority may need to be contacted.</p>
       </body>
@@ -144,7 +144,7 @@ If any aspects of the data to be exchanged require special handling measures or 
               <tbody>
                 <row>
                   <entry colname="col1">CoCo-1</entry>
-                  <entry colname="col2">The minimum standards applicable to the "NAME of 3rd PARTY IT SYSTEM" shall be the equivalent to application of the IAS 1&amp;2 Baseline Controls Set (BCS) at the DETER level and ISO27001. The supporting compliance statement (see A.2) has been derived from IAS 1&amp;2 Baseline Controls Set (BCS) and ISO27001 and provides a check list that "ORGANISATION NAME FOR 3rd PARTY IT SYSTEM" should use to document their compliance to this CoCo. The completed compliance statement will allow the <ph conref="conrefs.dita#conrefs/moj"/> to determine whether the "NAME of 3rd PARTY IT SYSTEM"'s level of compliance is sufficient to meet the requirements outlined in this CoCo.</entry>
+                  <entry colname="col2">The minimum standards applicable to the "NAME of 3rd PARTY IT SYSTEM" shall be the equivalent to application of the IAS 1&amp;2 Baseline Controls Set (BCS) at the DETER level and ISO27001. The supporting compliance statement (refer to A.2) has been derived from IAS 1&amp;2 Baseline Controls Set (BCS) and ISO27001 and provides a check list that "ORGANISATION NAME FOR 3rd PARTY IT SYSTEM" should use to document their compliance to this CoCo. The completed compliance statement will allow the <ph conref="conrefs.dita#conrefs/moj"/> to determine whether the "NAME of 3rd PARTY IT SYSTEM"'s level of compliance is sufficient to meet the requirements outlined in this CoCo.</entry>
                 </row>
                 <row>
                   <entry colname="col1">CoCo-2</entry>
@@ -152,11 +152,11 @@ If any aspects of the data to be exchanged require special handling measures or 
                 </row>
                 <row>
                   <entry colname="col1">CoCo-3</entry>
-                  <entry colname="col2">All existing and planned onward connections to or from the "NAME of 3rd PARTY IT SYSTEM" must be brought to the attention of the <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor prior to any live connection to the "NAME of 3rd PARTY IT SYSTEM" as this may represent a risk to the "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM" and its onward connections. All such connections must be identified in this document (see A.1.2.1). The information provided will be kept confidential and only used for the purpose of assuring the security of this connection.</entry>
+                  <entry colname="col2">All existing and planned onward connections to or from the "NAME of 3rd PARTY IT SYSTEM" must be brought to the attention of the <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor prior to any live connection to the "NAME of 3rd PARTY IT SYSTEM" as this may represent a risk to the "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM" and its onward connections. All such connections must be identified in this document (refer to A.1.2.1). The information provided will be kept confidential and only used for the purpose of assuring the security of this connection.</entry>
                 </row>
                 <row>
                   <entry colname="col1">CoCo-4</entry>
-                  <entry colname="col2">No data Protectively Marked above RESTRICTED should be exchanged over this connection.</entry>
+                  <entry colname="col2">No data Protectively Marked higher than RESTRICTED should be exchanged over this connection.</entry>
                 </row>
                 <row>
                   <entry colname="col1">CoCo-5</entry>
@@ -164,7 +164,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                 </row>
                 <row>
                   <entry colname="col1">CoCo-6</entry>
-                  <entry colname="col2">All users (including administrative users) who connect to the "NAME of 3rd PARTY IT SYSTEM" have been subject to a formal user registration process (section A.11.2.1 in the compliance statement, see A.2) and all have individual unique user accounts.</entry>
+                  <entry colname="col2">All users (including administrative users) who connect to the "NAME of 3rd PARTY IT SYSTEM" have been subject to a formal user registration process (section A.11.2.1 in the compliance statement, refer to A.2) and all have individual unique user accounts.</entry>
                 </row>
                 <row>
                   <entry colname="col1">CoCo-7</entry>
@@ -172,7 +172,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                 </row>
                 <row>
                   <entry colname="col1">CoCo-8</entry>
-                  <entry colname="col2">Data may only be exchanged over this connection using the permitted types of business connection defined in relevant Interchange Sharing Agreement and/or Risk Management &amp; Accreditation Document Set (RMADS) and is limited to the protocols defined in this document (see A.1.2.1).</entry>
+                  <entry colname="col2">Data may only be exchanged over this connection using the permitted types of business connection defined in relevant Interchange Sharing Agreement and/or Risk Management &amp; Accreditation Document Set (RMADS) and is limited to the protocols defined in this document (refer to A.1.2.1).</entry>
                 </row>
                 <row>
                   <entry colname="col1">CoCo-9</entry>
@@ -833,7 +833,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col2"><b>Information Handling Procedures</b> - What procedures are in place for the handling and storage of <ph conref="conrefs.dita#conrefs/moj"/> information in order to protect such information from unauthorised disclosure or misuse?</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
-                  <entry colname="col5">*Describe your information handling procedures.  How does this map to A.7.2.1 above (Information Classification).</entry>
+                  <entry colname="col5">*Describe your information handling procedures.  How does this map to A.7.2.1 (Information Classification).</entry>
                 </row>
                 <row>
                   <entry colname="col1">
@@ -1024,7 +1024,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                   <entry colname="col1">
                     <b>A.11.4.2</b>
                   </entry>
-                  <entry colname="col2"><b>User Authentication for External Connections</b> - Does "NAME of 3rd PARTY IT SYSTEM" ensure any remote access is subject to authentication of the same standard as for normal users? See Control A.11.2.3 above.</entry>
+                  <entry colname="col2"><b>User Authentication for External Connections</b> - Does "NAME of 3rd PARTY IT SYSTEM" ensure any remote access is subject to authentication of the same standard as for normal users? Refer to Control A.11.2.3.</entry>
                   <entry colname="col3"> </entry>
                   <entry colname="col4"> </entry>
                   <entry colname="col5">

@@ -34,13 +34,13 @@ This guidance applies to assets, defined as being laptops, desktops, or mobile p
 Before the staff member goes on leave, review their access to data and information systems, to ensure that this meets an ongoing need. This means that:
 
 * If the staff member's role is planned to change on their return to the MoJ, consider removing access now to data and information systems which they will no longer need. If their role is not planned to change on their return, you might consider leaving access "as-is" currently.
-* Consider removing access to data or information systems which are `OFFICIAL-SENSITIVE`. This is in line with the necessity rigorously to apply the "need to know" principle for `OFFICIAL-SENSITIVE` information. See the guidance on classifying information for more detail [/guidance/knowledge-information/protecting-information/classifying-information/](/guidance/knowledge-information/protecting-information/classifying-information/)
+* Consider removing access to data or information systems which are `OFFICIAL-SENSITIVE`. This is in line with the necessity rigorously to apply the "need to know" principle for `OFFICIAL-SENSITIVE` information. Refer to the guidance on classifying information for more detail [/guidance/knowledge-information/protecting-information/classifying-information/](/guidance/knowledge-information/protecting-information/classifying-information/)
 
 ##When to remove access and return assets
 
 In a number of circumstances assets should be returned and access should be removed. This is where:
 
-* The leave is longer in duration, and there is no business need or individual need for the user to keep assets and access. This should be considered for any leave above 12 months in duration. This is likely to be for Career Breaks or Loans.
+* The leave is longer in duration, and there is no business need or individual need for the user to keep assets and access. This should be considered for any leave more than 12 months in duration. This is likely to be for Career Breaks or Loans.
 * The staff member has no means of securely storing the asset, for example locking it securely in their home.
 * Staff members going on leave for less than 12 months may return their assets and have access removed if they choose to do so.
 * Line managers are empowered to determine whether the staff member should keep assets and access, as long as there is appropriate business justification, and staff members are appropriately supported. For example, a communication mechanism for keeping in touch is agreed.
@@ -48,9 +48,9 @@ In a number of circumstances assets should be returned and access should be remo
 
 ##How to remove access and return assets
 
-* Access to systems and return of assets can be organised through the appropriate items in the [MoJ Technology Portal](https://mojprod.service-now.com/moj_sp). Please see the Knowledge Base article on "Returning your MoJ laptop, accessories and mobile phones" for details. Removal of access to local systems should be arranged with local IT teams.
+* Access to systems and return of assets can be organised through the appropriate items in the [MoJ Technology Portal](https://mojprod.service-now.com/moj_sp). Please refer to the Knowledge Base article on "Returning your MoJ laptop, accessories and mobile phones" for details. Removal of access to local systems should be arranged with local IT teams.
 
-**Note:** When a Dom1 account is deactivated, its data is recoverable for up to 12 months. See the Knowledge Base article on "How to Re-instate a Deactivated Email Account or Mailbox".
+**Note:** When a Dom1 account is deactivated, its data is recoverable for up to 12 months. Refer to the Knowledge Base article on "How to Re-instate a Deactivated Email Account or Mailbox".
 
 ##Contact details
 

@@ -35,7 +35,7 @@ For an individual to perform any of the following tasks, clearance higher than B
     -   Obtain credentials for another user.
     -   Directly access other users' data.
 
-If an individual does not need to perform any of the above tasks, then BPSS, DBS or Enhanced Check is sufficient.
+If an individual does not need to perform any of the previous tasks, then BPSS, DBS or Enhanced Check is sufficient.
 
 The MoJ HQ and Executive Agencies might have additional, specific requirements for DV/DV STRAP clearance for individual systems. These requirements should be followed where applicable.
 
