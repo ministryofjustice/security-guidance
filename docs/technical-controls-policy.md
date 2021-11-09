@@ -24,7 +24,7 @@ To help identify formal policy statements, each is prefixed with an identifier o
 
 [System Backup Policy](system-backup-policy.md)
 
-[Acceptable use policy](acceptable-use-policy.md)
+[Acceptable Use Policy](acceptable-use-policy.md)
 
 [Access Control Policy](access-control-policy.md)
 

@@ -11,7 +11,10 @@
         -   [Data Handling and Information Sharing Guide](https://security-guidance.service.justice.gov.uk/data-handling-and-information-sharing-guide/)
         -   [Email](https://security-guidance.service.justice.gov.uk/email/)
         -   [Equipment Reassignment Guide](https://security-guidance.service.justice.gov.uk/equipment-reassignment-guide/)
+        -   [Information Classification and Handling Policy](https://security-guidance.service.justice.gov.uk/information-classification-and-handling-policy/)
         -   [Information classification, handling and security guide](https://security-guidance.service.justice.gov.uk/information-classification-handling-and-security-guide/)
+        -   [IT Security All Users Policy](https://security-guidance.service.justice.gov.uk/it-security-all-users-policy/)
+        -   [IT Security Policy (Overview)](https://security-guidance.service.justice.gov.uk/it-security-policy-overview/)
         -   [Guidance on IT Accounts and Assets for Long Term Leave](https://security-guidance.service.justice.gov.uk/long-term-leave/)
         -   [OFFICIAL, OFFICIAL-SENSITIVE](https://security-guidance.service.justice.gov.uk/official-official-sensitive/)
         -   [Personal devices](https://security-guidance.service.justice.gov.uk/personal-devices/)
@@ -66,6 +69,7 @@
         -   [Voluntary drug testing policy procedures](https://security-guidance.service.justice.gov.uk/voluntary-drug-testing-policy-procedures/)
 * User access
     * [User access](https://security-guidance.service.justice.gov.uk/acceptable-use/)
+    * [Acceptable Use Policy](https://security-guidance.service.justice.gov.uk/acceptable-use-policy/)
     * [Data Security and Privacy](https://security-guidance.service.justice.gov.uk/data-security-and-privacy/)
     * [General app guidance](https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/)
     * [Government Classification Scheme](https://security-guidance.service.justice.gov.uk/government-classification-scheme/)
@@ -74,8 +78,8 @@
     * [Line Manager approval](https://security-guidance.service.justice.gov.uk/line-manager-approval/)
     * [Passwords](https://security-guidance.service.justice.gov.uk/passwords/)
     * [Password Managers](https://security-guidance.service.justice.gov.uk/password-managers/)
-    * [Using LastPass Enterprise](https://security-guidance.service.justice.gov.uk/using-lastpass/)
     * [Avoiding too much security](https://security-guidance.service.justice.gov.uk/setecastronomy/)
+    * [Using LastPass Enterprise](https://security-guidance.service.justice.gov.uk/using-lastpass/)
 * Training and education
     * [Training and Education](https://security-guidance.service.justice.gov.uk/training-and-education/)
 

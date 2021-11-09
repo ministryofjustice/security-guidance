@@ -1,7 +1,5 @@
 #IT Security Policy (Overview)
 
-##Introduction
-
 This policy gives an overview of information security principles and responsibilities within the Ministry of Justice (MoJ) and provides a summary of the MoJ's related security policies and guides.
 
 ##Audience

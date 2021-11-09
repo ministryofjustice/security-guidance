@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-11-09 15:37 GMT [Acceptable use policy](https://security-guidance.service.justice.gov.uk/acceptable-use-policy/)**
+
+    Provide more detail on monitoring of systems and information, and to clarify the situation regarding Data Protection and the storage or processing of information outside the UK.
+
 -   **2021-11-08 17:30 GMT [System backup policy](https://security-guidance.service.justice.gov.uk/system-backup-policy/)**
 
     Corrected broken links within the content, also some structural changes for easier cross-referencing with related topics.
