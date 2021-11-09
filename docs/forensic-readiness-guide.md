@@ -75,15 +75,15 @@ The MoJ intends to use a mix of internal and external resources to ensure that i
 
 #### Evidence collection and storage
 
-The responsibility for the collection and management of evidence is likely to be split between the MoJ, IT service providers and an external forensics provider. At all stages of a forensic investigation process \(see [here](#incident-management-and-forensic-investigation-process) \), all evidential items collected from MoJ sites \(or from MoJ IT equipment\) must be managed and under the control of the Forensic Investigation Owner. Using [CESG GPG No.18](https://www.ncsc.gov.uk/guidance/forensic-readiness-good-practice-guide-18), it is important to ensure that the procedures are laid out in the Forensic Readiness Plan.
+The responsibility for the collection and management of evidence is likely to be split between the MoJ, IT service providers and an external forensics provider. At all stages of a forensic investigation process \(refer [here](#incident-management-and-forensic-investigation-process) \), all evidential items collected from MoJ sites \(or from MoJ IT equipment\) must be managed and under the control of the Forensic Investigation Owner. Using [CESG GPG No.18](https://www.ncsc.gov.uk/guidance/forensic-readiness-good-practice-guide-18), it is important to ensure that the procedures are laid out in the Forensic Readiness Plan.
 
 #### Internal and external reporting and communication
 
-The [Forensic Readiness Policy](forensic-readiness-policy.md) outlines the need to ensure appropriate internal and external reporting. To ensure consistency of approach, as the Forensic Readiness Plan sits within IT Security Incident Management, the trigger points for internal and external reporting must align with the relevant Incident Management Plan; see [Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md) for further details.
+The [Forensic Readiness Policy](forensic-readiness-policy.md) outlines the need to ensure appropriate internal and external reporting. To ensure consistency of approach, as the Forensic Readiness Plan sits within IT Security Incident Management, the trigger points for internal and external reporting must align with the relevant Incident Management Plan; refer to the [Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md) for further details.
 
 **Note:** Responsibility for escalation normally resides with the Information Asset Owner \(IAO\) and/or the Forensic Investigation Owner. Where responsibility for an investigation has been escalated to the Departmental Security Officer \(DSO\) or Senior Information Risk Owner \(SIRO\), further escalation responsibility will also reside with them.
 
-The impact upon any ongoing operational activity must be considered before external reporting and escalation is invoked. The forensic investigation process \(see [here](#incident-management-and-forensic-investigation-process) \) must allow for the chain of evidence to be passed to any authorised outside agencies \(e.g. Law Enforcement\) where applicable.
+The impact upon any ongoing operational activity must be considered before external reporting and escalation is invoked. The forensic investigation process \(refer [here](#incident-management-and-forensic-investigation-process) \) must allow for the chain of evidence to be passed to any authorised outside agencies \(e.g. Law Enforcement\) where applicable.
 
 ### Building an evidence-based case
 
@@ -113,22 +113,22 @@ Table 1 provides a list scenario class types which are detailed in [CESG Impleme
 |Class 4 – Civil Dispute|Scenarios involving civil disputes \(e.g. over a contract\).|
 |Class 5 – Regulatory Compliance|Scenarios where information is to be provided in compliance with a regulatory requirement \(e.g. under the Freedom of Information Act\).|
 
-Each scenario should be documented in full with a summary contained in the Forensic Readiness Plan \(see Appendix D\). Table 2 provides an outline for how each scenario should be documented. It is recommended that this is included as an appendix to the Forensic Readiness Plan.
+Each scenario should be documented in full with a summary contained in the Forensic Readiness Plan \(refer to Appendix D\). Table 2 provides an outline for how each scenario should be documented. It is recommended that this is included as an appendix to the Forensic Readiness Plan.
 
 |Section|Description|
 |-------|-----------|
 |Scenario|Scenario name and brief description.|
 |Typical Synopsis|Provide an example\(s\) of the scenario type. This is not meant to be exhaustive and there can be many variations on a theme.|
-|Typical Diagnostic Indicators|Produce a list of possible sources that may first raise suspicion that an incident of that scenario type has occurred. See Appendix A for possible incidents.|
-|Typical Digital Evidence Sources|Generate a checklist of potential initial sources \(in approximate order of significance\) of evidence that would be useful to an investigation in that scenario type. See Appendix B for guidance on digital evidence sources.|
-|Typical Workflow|Generate a workflow checklist of activities which should be followed. This does not need to be a precise list as each incident may have unique characteristics and take the investigation in unpredictable directions. See [here](#incident-management-and-forensic-investigation-process) for further details.|
+|Typical Diagnostic Indicators|Produce a list of possible sources that may first raise suspicion that an incident of that scenario type has occurred. Refer to Appendix A for possible incidents.|
+|Typical Digital Evidence Sources|Generate a checklist of potential initial sources \(in approximate order of significance\) of evidence that would be useful to an investigation in that scenario type. Refer to Appendix B for guidance on digital evidence sources.|
+|Typical Workflow|Generate a workflow checklist of activities which should be followed. This does not need to be a precise list as each incident may have unique characteristics and take the investigation in unpredictable directions. Refer [here](#incident-management-and-forensic-investigation-process) for further details.|
 |Typical Desired Outcomes|A checklist of the outcomes / outputs of conducting a forensic investigation.|
 
 ### Criteria for conducting a forensic investigation
 
 The decision to conduct a forensic investigation is a risk management decision, set against a cost/benefit analysis and any obligations stemming from any legal or regulatory requirements.
 
-Developing forensic scenarios \(see [here](#scenario-based-planning)\) plays an important role in understanding the inputs into the decision making process. Table 3 outlines the decision making criteria along with the considerations which should be applied.
+Developing forensic scenarios \(refer [here](#scenario-based-planning)\) plays an important role in understanding the inputs into the decision making process. Table 3 outlines the decision making criteria along with the considerations which should be applied.
 
 |Criteria|Consideration|
 |--------|-------------|
@@ -141,7 +141,7 @@ Developing forensic scenarios \(see [here](#scenario-based-planning)\) plays an 
 
 The [IT Incident Management Policy](it-incident-management-policy.md) sets out the MoJ requirement for incident management where forensics investigation form part of the incident management process. As such, the forensic incident management process is an extension of the overall incident management process.
 
-[CESG Implementation Guide No. 18](https://www.ncsc.gov.uk/guidance/forensic-readiness-planning-implementation-guide-18) provides a generic forensic investigation process flow. Table 4 lists the step-by-step forensic investigation activities which are expected to be included in the Forensic Readiness Plan \(see Appendix D\), along with the role/s responsible for completing each activity.
+[CESG Implementation Guide No. 18](https://www.ncsc.gov.uk/guidance/forensic-readiness-planning-implementation-guide-18) provides a generic forensic investigation process flow. Table 4 lists the step-by-step forensic investigation activities which are expected to be included in the Forensic Readiness Plan \(refer to Appendix D\), along with the role/s responsible for completing each activity.
 
 |Step|Activity|Role/s responsible|
 |----|--------|------------------|
@@ -167,7 +167,7 @@ The [IT Incident Management Policy](it-incident-management-policy.md) sets out t
 
 When the decision is made to conduct a forensic investigation or preserve evidence in a manor which does not preclude a forensic investigation, it is vital that a clear set of procedures are included within the Forensic Readiness Plan to ensure evidence is not lost or tampered with.
 
-Appendix C contains a generic set of procedures which are designed to be enacted during the first stages of a forensic investigation \(steps 1 to 4 in Table 4\) to ensure information is stored in a forensically safe manner. Each Forensic Readiness Plan \(see Appendix D\) must contain a set of forensic procedures.
+Appendix C contains a generic set of procedures which are designed to be enacted during the first stages of a forensic investigation \(steps 1 to 4 in Table 4\) to ensure information is stored in a forensically safe manner. Each Forensic Readiness Plan \(refer to Appendix D\) must contain a set of forensic procedures.
 
 ### Performance monitoring
 
@@ -200,7 +200,7 @@ Table 5 provides some examples of incidents which may require a forensic investi
 |-----------------|------------------|
 |Creation or planting of viruses or malware|The deliberate introduction of these files could pose a major threat to MoJ information security. Infiltration of systems in this way potentially causes issues such as downtime, unpredictable behaviour and/or data non-availability.|
 |Damage or modifications to computer equipment or data|The deliberate or incidental damage of a computer system may disguise unauthorised activity previously carried out on that device. Examining modifications of equipment may reveal planted devices, such as key loggers or modems used to bypass normal security mechanisms.|
-|Disciplinary issues through inappropriate use of MoJ IT systems|This could include: the storage of pornographic or other images or files; email abuse such as SPAM; connecting systems to unofficial networks; attempted unauthorised access to computer data or programs; or unapproved upload/download of information to the Internet. See [Acceptable Use Policy](acceptable-use-policy.md) for further details.|
+|Disciplinary issues through inappropriate use of MoJ IT systems|This could include: the storage of pornographic or other images or files; email abuse such as SPAM; connecting systems to unofficial networks; attempted unauthorised access to computer data or programs; or unapproved upload/download of information to the Internet. Refer to the [Acceptable Use Policy](acceptable-use-policy.md) for further details.|
 |Email SPAM/Denial of Service Attacks|Internal connections may be used to attack other internal or external targets. An investigation may look for evidence of the tools used by hackers.|
 |Financial crimes, identity theft, fraud, forgery, theft of funds, blackmail or extortion|The misuse of a computer to steal people's identity for financial or other gain may leave evidence in IT systems or on portable media. A forensic study of disks, equipment, logs and email records plus other devices \(e.g. mobile phones\) and non-digital evidence \(e.g. printed documents, written notes\) may provide investigators with evidence to prosecute individuals.|
 |External|Many outside parties, from teenagers acting alone to hostile foreign governments, may attempt to compromise the security of MoJ IT systems.|
@@ -213,7 +213,7 @@ Table 5 provides some examples of incidents which may require a forensic investi
 
 ## Appendix B. Guidance on sources and forms of digital evidence
 
-Computers, networks, storage devices and their peripherals may be used in the commission of various incidents or crimes, or can themselves be the target of an attack. As a result, digital evidence may be collected from a variety of sources. Table 6 and Table 7 below provide a set of examples:
+Computers, networks, storage devices and their peripherals may be used in the commission of various incidents or crimes, or can themselves be the target of an attack. As a result, digital evidence may be collected from a variety of sources. Table 6 and Table 7 following provide a set of examples:
 
 ### Hardware artefacts:
 
@@ -304,13 +304,13 @@ For computer equipment which is switched off, the following process must be appl
 |System Description and Scope|\[This section should describe the name and purpose of the system, including the protective marking level of the information it holds. Diagrams may prove useful where there is a complex interaction between systems covered in this statement/standard. It is important to include notes of where a part of a system is excluded from the scope of this plan e.g. an application which is managed by another function.\]|
 |Responsibilities and Ownership|\[Complete a statement detailing who has ownership and who will be responsible for the administration of this plan. Where a third-party or managed service provider is responsible for all or just a component of the plan, a clear reference should be made to contractual responsibilities. Points of contact regarding forensic readiness should also be noted.\] \[**Note:** Each role outlined [here](#incident-management-and-forensic-investigation-process) must be named in this section.\]|
 |Forensic scenarios|
-|\[Name of Scenario 1\]|\[A summary of each scenario developed must be contained in this section, with full details provided as an appendix to the plan. See [here](#scenario-based-planning) for further details.\]|
+|\[Name of Scenario 1\]|\[A summary of each scenario developed must be contained in this section, with full details provided as an appendix to the plan. Refer [here](#scenario-based-planning) for further details.\]|
 |Process and procedures|
-|Process|\[This section must contain a step-by-step plan of activities to be followed during a forensic investigation. See [here](#incident-management-and-forensic-investigation-process) for further details.\]|
-|Procedures|\[This section must contain details on the initial forensic procedures which should be followed once the decision to undertake a forensic investigation has been made. See [here](#procedures) for further details\]|
+|Process|\[This section must contain a step-by-step plan of activities to be followed during a forensic investigation. Refer [here](#incident-management-and-forensic-investigation-process) for further details.\]|
+|Procedures|\[This section must contain details on the initial forensic procedures which should be followed once the decision to undertake a forensic investigation has been made. Refer [here](#procedures) for further details\]|
 |Performance Monitoring|
-|KPIs / Performance measures|\[Include details on the KPIs and SLAs associated with this plan. See [here](#performance-monitoring) for further details\]|
-|Continuous improvement|\[Include details on the continuous improvement measures associated with this plan. See [here](#performance-monitoring) for further details\]|
+|KPIs / Performance measures|\[Include details on the KPIs and SLAs associated with this plan. Refer [here](#performance-monitoring) for further details\]|
+|Continuous improvement|\[Include details on the continuous improvement measures associated with this plan. Refer [here](#performance-monitoring) for further details\]|
 |Training and awareness|
 |Capability and staff training|\[Include details of how staff training measure outlined [here](#staff-education-training-and-awareness) are met.\]|
 |Plan Approval|

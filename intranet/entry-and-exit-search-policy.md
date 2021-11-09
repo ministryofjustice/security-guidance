@@ -8,7 +8,7 @@ The policy defines the access controls that are in place when entering and exiti
 
 The policy is available for download [here](/gs/MoJ_Entry_and_Exit_Search_Policy_(Redacted).docx).
 
-**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##Physical security advice
 

@@ -9,6 +9,11 @@ However, there are also other physical and virtual resources across the MoJ esta
 -   **[Secure disposal of IT - physical and on-premise](secure-disposal-of-it-physical-and-on-premise.md)**  
 
 
+**Related information**  
+
+
+[Technical Controls Policy](technical-controls-policy.md)
+
 ## Contact details
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).

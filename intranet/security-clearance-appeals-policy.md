@@ -16,7 +16,7 @@ It *does not apply* to individuals on initial recruitment to the Civil Service s
 
 It *does* include existing employees of a contractor who are newly deployed to contracted work for the MoJ.
 
-**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##Policy
 

@@ -5,7 +5,7 @@
   <topic id="audience">
     <title>Audience</title>
     <body>
-      <p>This policy compliments the <ph conref="conrefs.dita#conrefs/mojlong"/> overall security policy.</p>
+      <p>This policy complements the <ph conref="conrefs.dita#conrefs/mojlong"/> overall security policy.</p>
       <p>Physical security is the practice of protecting elements of government infrastructure,
           estates and personnel against attacks or compromises in the physical
           (tangible, real-world) environment.</p>

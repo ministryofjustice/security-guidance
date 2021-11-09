@@ -1,13 +1,16 @@
 # IT Security Policy \(Overview\)
 
+This policy gives an overview of information security principles and responsibilities within the Ministry of Justice \(MoJ\) and provides a summary of the MoJ's related security policies and guides.
+
 -   **[IT Security All Users Policy](it-security-all-users-policy.md)**  
 
 -   **[IT Security Technical Users Policy](it-security-technical-users-policy.md)**  
 
 
-## Introduction
+**Related information**  
 
-This policy gives an overview of information security principles and responsibilities within the Ministry of Justice \(MoJ\) and provides a summary of the MoJ's related security policies and guides.
+
+[Technical Controls Policy](technical-controls-policy.md)
 
 ## Audience
 
@@ -26,11 +29,11 @@ This policy is aimed at three audiences:
     All other staff working for the MoJ.
 
 
-Within this policy, "all MoJ users" refers to General users, Technical users, and Service Providers as defined above.
+Within this policy, "all MoJ users" refers to General users, Technical users, and Service Providers as defined previously.
 
 ## Associated documentation
 
-For further guidance on IT Security, see the policies below.
+For further guidance on IT Security, refer to the following policies.
 
 -   [IT Security All Users Policy](it-security-all-users-policy.md): which provides further details of the responsibilities of all MoJ users at the MoJ.
 -   [IT Security Technical Users Policy](it-security-technical-users-policy.md): which provides the details of where users can find more technical and service provider related information on IT Security within the MoJ.

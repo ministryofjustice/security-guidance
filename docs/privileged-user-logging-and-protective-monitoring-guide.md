@@ -25,9 +25,9 @@ Privileged users are responsible for maintaining system logs \(syslogs\) for the
 -   Establishing the baseline activities for systems they are responsible for. This is essential to ensure that monitoring systems are able to detect when there is unusual activity.
 -   Ensuring that systems are synchronised to the centralised MoJ timing source, to enable effective malware detection.
 -   Ensuring that audits and compliance checks of IT systems do not adversely affect business operations.
--   Documenting and reporting anomalies in log settings, configurations, and processes to the OST \(contact details [below](#incidents-and-contact-details)\) and the Cyber Assistance Team \(contact details [below](#incidents-and-contact-details)\).
+-   Documenting and reporting anomalies in log settings, configurations, and processes to the OST \([contact details](#incidents-and-contact-details)\) and the Cyber Assistance Team \([contact details](#incidents-and-contact-details)\).
 -   Managing long-term storage of system log data, monitoring log rotation, and the archival and deletion of log data.
--   Any suspicious activity must be [reported](#incidents-and-contact-details). See further details in the [IT Incident Management Policy](it-incident-management-policy.md).
+-   Any suspicious activity must be [reported](#incidents-and-contact-details). Refer to the details in the [IT Incident Management Policy](it-incident-management-policy.md).
 
 ## Protection of log data
 

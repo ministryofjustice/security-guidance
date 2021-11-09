@@ -2,6 +2,10 @@
 
 -   **[Email Authentication Guide](email-authentication-guide.md)**  
 
+-   **[Email blocking policy](email-blocklist-policy.md)**  
+
+-   **[Email blocking process](email-blocklist-process.md)**  
+
 -   **[Secure Email Transfer Guide](secure-email-transfer-guide.md)**  
 
 -   **[Spam and Phishing Guide](spam-and-phishing-guide.md)**  

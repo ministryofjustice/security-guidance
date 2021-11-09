@@ -1,6 +1,6 @@
 # Long format appendix
 
-The current draft of the Ministry of Justice \(MoJ\) commodity long format data destruction appendix. The appendix is a dependancy of the long format clause itself.
+The current draft of the Ministry of Justice \(MoJ\) commodity long format data destruction appendix. The appendix is a dependency of the long format clause itself.
 
 `Highlighted` words indicate potential requirement for contextual change, requirement of definition and so on.
 
@@ -28,7 +28,7 @@ Data Destruction for electronic/magnetic storage **must** include, unless otherw
 
 Data Destruction for printed materials **must** include, unless otherwise superseded by NCSC or specific `Authority` guidance:
 
--   paper cross-shredding methods to satisfy at least the DIN 66399 Level 4 standard with a maximum cross cut particle surface area 160 \(one hundred and sixty\) millimeters squared with a maximum strip width of 6 \(six\) millimeters
+-   paper cross-shredding methods to satisfy at least the DIN 66399 Level 4 standard with a maximum cross cut particle surface area 160 \(one hundred and sixty\) millimetres squared with a maximum strip width of 6 \(six\) millimetres
 
 
 The required outcome is to ensure that `Authority` data is inaccessible by any reasonable commercial and resourced means \(such as commercially available data recovery services\).

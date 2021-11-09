@@ -4,11 +4,11 @@ The processes described in this document are under review as part of Ministry of
 
 A downloadable version of this document is available [here](./gs/national-security-vetting-questions.docx).
 
-## National security vetting
+## National Security Vetting
 
-### What is national security vetting?
+### What is National Security Vetting?
 
-There are three levels of national security vetting \(NSV\) or clearance:
+There are three levels of National Security Vetting \(NSV\) or clearance:
 
 -   Counter Terrorist Check \(CTC\).
 -   Security Check \(SC\)
@@ -52,7 +52,7 @@ If NSV is required for a position, candidates **SHOULD NOT** start until their N
 
 In exceptional circumstances, a policy dispensation request can be made to [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk), who will provide a request form and then give a recommendation on whether to grant or refuse the request. Any risk mitigation measures deemed to be required \(such as plans to segregate the candidate from data that they don't have clearance to see\) will also be provided for the Senior Security Advisor and the business unit to sign-up to.
 
-As a minimum requirement, a candidate **SHALL** have submitted their Security Questionnaire on the NSVS portal. This does not extend to Contractors and Agency staff, who **SHALL** have their NSV in place before they start. If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+As a minimum requirement, a candidate **SHALL** have submitted their Security Questionnaire on the NSVS portal. This does not extend to Contractors and Agency staff, who **SHALL** have their NSV in place before they start. If you don't know who your NSVC is, refer to the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
 ## Directly employed staff
 
@@ -60,7 +60,7 @@ As a minimum requirement, a candidate **SHALL** have submitted their Security Qu
 
 Vacancy managers must always advertise their roles with the correct level of clearance required. Levels of clearance are defined by the requirements of the role being filled, and not by the level of clearance the candidate already possesses. Your NSVC can confirm whether your role requires national security vetting in addition to the usual pre-employment checks. Wrongly classifying roles at advert stage will lead to delays in on-boarding.
 
-If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+If you don't know who your NSVC is, refer to the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
 ### What is the pre-employment check process?
 
@@ -124,7 +124,7 @@ Non-directly employed workers include the following:
 For posts that require NSV:
 
 -   The vacancy manager must discuss this with their NSVC and obtain a code which needs to be entered on the CRF submitted to SSCL.
--   If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+-   If you don't know who your NSVC is, refer to the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 -   SSCL will only accept requests with a valid vetting reference code provided on the CRF.
 -   SSCL will send a link to the candidate so they can complete their on-line security questionnaire on the NSVS portal.
 
@@ -158,11 +158,11 @@ This section contains information for managers and staff who are already in the 
 
 ### How do I decide if a new piece of work requires staff to have NSV?
 
-If you need to decide if a new piece of work requires clearance, talk to your NSVC. All business areas that have at least one member of staff who holds Security Clearance should have one. If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+If you need to decide if a new piece of work requires clearance, talk to your NSVC. All business areas that have at least one member of staff who holds Security Clearance should have one. If you don't know who your NSVC is, refer to the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
 ### How do I renew NSC?
 
-If your, or one of your staff's, NSC is due to expire soon, speak to your NSVC, they will decide if it needs to be renewed and help you start the process off. If you don't know who your NSVC is, see the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+If your, or one of your staff's, NSC is due to expire soon, speak to your NSVC, they will decide if it needs to be renewed and help you start the process off. If you don't know who your NSVC is, refer to the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
 ### If my personal circumstances change, who do I tell?
 

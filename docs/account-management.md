@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This guide provides help on account management, for example when passwords should be changed or when user accounts should be locked. For more information, see the [Password Management Guide](password-management-guide.md).
+This guide provides help on account management, for example when passwords should be changed or when user accounts should be locked. For more information, refer to the [Password Management Guide](password-management-guide.md).
 
 The information is aimed at two audiences:
 
@@ -42,7 +42,7 @@ When designing and developing systems for use within the MoJ, password changes m
 -   The system prompts you to change a password.
 -   You suspect an account might have been compromised.
 
-Password changes must be made within the following timeframes:
+Password changes must be made within the following time frames:
 
 |Type of system|Maximum time allowed for a change|
 |:-------------|:--------------------------------|

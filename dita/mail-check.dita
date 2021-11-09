@@ -30,7 +30,7 @@
     <topic id="get-started">
       <title>Get started</title>
       <body>
-        <p>Contact the <ph conref="conrefs.dita#conrefs/moj"/> Cybersecurity team to be added into <ph conref="conrefs.dita#conrefs/moj"/>'s subscription of the service.</p>
+        <p>Contact the <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security team to be added into <ph conref="conrefs.dita#conrefs/moj"/>'s subscription of the service.</p>
       </body>
     </topic>
   </topic>

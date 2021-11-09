@@ -24,13 +24,13 @@
   <topic id="internal-facing-domains">
     <title>Internal-facing domains</title>
     <body>
-      <p>Internal-facing domains resolvable from the public Internet (for example, <codeph>intranet.justice.gov.uk</codeph> is based on <codeph>.gov.uk</codeph> with a publicly routeable IP address) should also implement <codeph>security.txt</codeph> as described above.</p>
+      <p>Internal-facing domains resolvable from the public Internet (for example, <codeph>intranet.justice.gov.uk</codeph> is based on <codeph>.gov.uk</codeph> with a publicly routeable IP address) should also implement <codeph>security.txt</codeph> as described previously.</p>
     </body>
   </topic>
   <topic id="non-production-domains">
     <title>Non-production domains</title>
     <body>
-      <p>Non-production domains resolvable from the public Internet (for example, a demo deployment of a <ph conref="conrefs.dita#conrefs/moj"/> digital service or prototype) should also implement <codeph>security.txt</codeph> as described above.</p>
+      <p>Non-production domains resolvable from the public Internet (for example, a demo deployment of a <ph conref="conrefs.dita#conrefs/moj"/> digital service or prototype) should also implement <codeph>security.txt</codeph> as described previously.</p>
     </body>
   </topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>

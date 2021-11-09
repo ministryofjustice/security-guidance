@@ -2,16 +2,13 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="information-classification-and-handling-policy">
   <title>Information Classification and Handling Policy</title>
-  <topic id="introduction">
-    <title>Introduction</title>
-    <body>
-      <p>This document provides the core set of IT security principles and expectations on the handling and classification of information on <ph conref="conrefs.dita#conrefs/mojlong"/> IT systems.</p>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> stores and processes a wide variety of information,
-        some of which attracts an HMG protective marking or contains personal information.
-        The <ph conref="conrefs.dita#conrefs/moj"/> has a duty to protect all the information stored and processed on its IT systems.</p>
-      <p>This policy outlines the Information Classification and Handling Policy for all information held on <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</p>
-    </body>
-  </topic>
+  <body>
+    <p>This document provides the core set of IT security principles and expectations on the handling and classification of information on <ph conref="conrefs.dita#conrefs/mojlong"/> IT systems.</p>
+    <p>The <ph conref="conrefs.dita#conrefs/moj"/> stores and processes a wide variety of information,
+      some of which attracts an HMG protective marking or contains personal information.
+      The <ph conref="conrefs.dita#conrefs/moj"/> has a duty to protect all the information stored and processed on its IT systems.</p>
+    <p>This policy outlines the Information Classification and Handling Policy for all information held on <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</p>
+  </body>
   <topic id="scope">
     <title>Scope</title>
     <body>

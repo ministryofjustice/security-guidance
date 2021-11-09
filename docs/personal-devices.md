@@ -1,36 +1,48 @@
-# Personal Devices
+# Personal devices
 
 This guidance applies to all staff and contractors who work for the Ministry of Justice \(MoJ\). It provides advice about using personal devices for work purposes.
 
 A personal device is any desktop, laptop, tablet, phone, external drive or similar device that the MoJ does not own.
 
-Not everyone has access to an MoJ device for remote use. If you need equipment, you can request it. It can be provided quickly. Contact your Line Manager for details, and to raise a request through the IT Service Desk.
+Not everyone has access to an MoJ device for remote use. If you need equipment, you can request it. It can be provided quickly. Contact your Line Manager for details. A request can then be raised through the IT Service Desk.
 
-In unusual circumstances, it might not be possible to organise provision of equipment. In such cases, you can request access to an MoJ virtual environment.
+In unusual circumstances, it might not be possible to organise provision of equipment. In such cases, you **CAN** request access to an MoJ [virtual environment](#virtual-environment).
 
-**Note:** Except when connecting to an MoJ [virtual environment](#virtual-environment), or with documented approval in exceptional circumstances as described [below](#guidance), you must not use a personal device for work purposes.
+Except when connecting to an MoJ [virtual environment](#virtual-environment), or with documented approval in exceptional circumstances as described [in this guidance](#guidance), you **SHALL NOT** use a personal device for work purposes.
+
+Avoid connecting peripherals to MoJ devices, unless those peripherals are supplied or approved by the MoJ. Examples of peripheral devices include USB, wireless, or [Bluetooth](bluetooth.md) keyboards or mice.
+
+**Note:** Exemptions are possible for connecting peripherals where [accessibility support](bluetooth.md#accessibility) is required. Contact your Line Manager for documented approval before connecting a peripheral device.
+
+Personal devices **SHALL NOT** be charged from the USB ports of an MoJ device.
+
+**Note:** Specifically: a personal mobile phone **SHALL NOT** be charged from the USB ports of an MoJ device.
 
 ## Guidance
 
--   If you have an MoJ-issued device or virtual environment, you must use that.
--   You must not use a personal device to access Office 365 tools \(email, calendar, Word, Excel, Powerpoint, etc.\) for work purposes.
--   You must not use a personal device to access Google Workspace tools \(Gmail, Docs, Slides, Sheets, Drive, Meet, Hangouts, etc.\) for work purposes.
+-   If you have an MoJ-issued device or virtual environment, you **SHALL** use that.
+-   You **SHALL NOT** use a personal device to access Office 365 tools such as Outlook email or calendar, Word, Excel, or Powerpoint for work purposes.
+-   You **SHALL NOT** use a personal device to access Google Workspace tools such as Gmail, Docs, Slides, Sheets, Drive, Meet, or Hangouts for work purposes.
 -   This guidance applies to all tools accessed through a web browser or installed client applications.
--   Do not send MoJ information to your personal email account.
--   Do not use personal accounts for work purposes.
--   Do not store work files or information on a personal device \(desktop, laptop, tablet or phone\).
--   Do not store work files or information on a personal storage device or memory stick \(external drive, thumb drive, USB stick, etc.\).
--   Some teams within the MoJ might have permission to use personal devices for some tasks. This permission continues, but is being reviewed on an on-going basis. Ensure that you have documented approval recording your permission. Ensure that the permission is no more than 12 months old. To request or refresh permission, ask your Line Manager to seek approval by checking with the Operational Security Team: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+-   You **SHALL NOT** send MoJ information to your personal email account.
+-   You **SHALL NOT** use personal accounts for work purposes.
+-   You **SHALL NOT** store work files or information on a personal device such as a desktop, laptop, tablet or phone.
+-   You **SHALL NOT** store work files or information on a personal storage device or memory stick, such as an external drive, thumb drive, or USB stick.
+-   Some teams within the MoJ **MIGHT** have permission to use personal devices for some tasks. This permission continues, but is being reviewed on an on-going basis. Ensure that you have documented approval recording your permission. Ensure that the permission is no more than 12 months old. To request or refresh permission, ask your Line Manager to seek approval by checking with the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk).
 
-**Note:** You are not asked or required to use your own devices for work purposes. If you have access to MoJ devices for work purposes, you must use them by default.
+**Note:** You are not asked or required to use your own devices for work purposes. If you have access to MoJ devices for work purposes, you **SHALL** use them by default.
 
 ## Virtual environment
 
-The MoJ can enable access to a Virtual Environment to help with exceptional circumstances. This is where suitable provision of a physical device is not possible.
+The MoJ provides access to a Virtual Environment to help with exceptional circumstances. This is where suitable provision of a physical device is not possible.
 
 Request a virtual environment through the `Creation of WVD instances` product offering within the Service Catalogue in MoJ Service Now.
 
 **Note:** A virtual environment does not offer the same capabilities or performance as a physical MoJ-issued device. Using an MoJ-issued device is always preferable.
+
+## Contact details
+
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

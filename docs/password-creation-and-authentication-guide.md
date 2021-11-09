@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This guide sets out considerations for creating passwords and authenticating users for access to Ministry of Justice \(MoJ\) systems. This includes ensuring that there are appropriate authentication methods for information, accounts and systems. For more information, see the [Password Management Guide](password-management-guide.md).
+This guide sets out considerations for creating passwords and authenticating users for access to Ministry of Justice \(MoJ\) systems. This includes ensuring that there are appropriate authentication methods for information, accounts and systems. For more information, refer to the [Password Management Guide](password-management-guide.md).
 
 This guide has been written to align with [NCSC guidance](https://www.ncsc.gov.uk/collection/passwords/updating-your-approach).
 
@@ -20,9 +20,9 @@ Best practice for creating a strong password is to create a passphrase consistin
 -   It is used alongside system monitoring tools such as last login attempt notifications, rather than enforcing regular password expiry.
 -   You have alternative or additional authentication options, such as Single-Sign On \(SSO\) and Multi-Factor Authentication \(MFA\), depending on a system's security classification or where otherwise required.
 
-Stronger passwords typically at least one instance of each of the following character types: upper case, lower case, numbers, and special characters. Special characters include: `@`, `&`, `$`, `%` or `^`. However, there is no specific obligation to include special characters for a password to be acceptable.
+Stronger passwords typically contain at least one instance of each of the following character types: upper case, lower case, numbers, and special characters. Special characters include: `@`, `&`, `$`, `%` or `^`. However, there is no specific obligation to include special characters for a password to be acceptable.
 
-For more details about passwords for service accounts, see the [Passwords](passwords.md) guidance.
+For more details about passwords for service accounts, refer to the [Passwords](passwords.md) guidance.
 
 ## Password history and block listing
 

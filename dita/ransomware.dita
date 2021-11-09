@@ -3,7 +3,7 @@
 <topic id="ransomware">
   <title>Ransomware</title>
   <body>
-    <p>Ransomware is a type of malicious software created or used by cybercriminals.
+    <p>Ransomware is a type of malicious software created or used by cyber criminals.
       It prevents people or businesses from accessing their own data.
       The software takes hold of the data,
       holding it "hostage",
@@ -31,7 +31,7 @@
           Most <ph conref="conrefs.dita#conrefs/moj"/> systems support MFA,
           but you might have to enable it yourself.</li>
         <li>Do not provide any personal information to unknown contacts.</li>
-        <li>Avoid unsecure apps or websites.</li>
+        <li>Avoid insecure apps or websites.</li>
       </ul>
     </body>
   </topic>

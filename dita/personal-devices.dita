@@ -1,56 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="personal-devices">
-  <title><ph platform="github">Personal Devices</ph><ph platform="intranet">Personal device use</ph></title>
+  <title>Personal devices</title>
   <body>
     <p>This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/mojlong"/>.
       It provides advice about using personal devices for work purposes.</p>
-    <p>A personal device is any desktop, laptop, tablet, phone, external drive or similar device that the <ph conref="conrefs.dita#conrefs/moj"/> does not own.</p>
+    <p>A personal device is any desktop, laptop, tablet, phone, external drive or similar device that
+      the <ph conref="conrefs.dita#conrefs/moj"/> does not own.</p>
     <p>Not everyone has access to an <ph conref="conrefs.dita#conrefs/moj"/> device for remote use.
       If you need equipment, you can request it.
       It can be provided quickly.
-      Contact your Line Manager for details,
-      and to raise a request through the <ph conref="conrefs.dita#conrefs/servicedesk"/>.</p>
+      Contact your Line Manager for details.
+      A request can then be raised through the <ph conref="conrefs.dita#conrefs/servicedesk"/>.</p>
     <p>In unusual circumstances,
       it might not be possible to organise provision of equipment.
       In such cases,
-      you can request access to an <ph conref="conrefs.dita#conrefs/moj"/> virtual environment.</p>
-    <note>Except when connecting to an  <ph conref="conrefs.dita#conrefs/moj"/>
+      you <ph conref="conrefs.dita#conrefs/policycan"/> request access to an <ph conref="conrefs.dita#conrefs/moj"/> <xref href="#virtual-environment" format="dita">virtual environment</xref>.</p>
+    <p>Except when connecting to an  <ph conref="conrefs.dita#conrefs/moj"/>
       <xref href="#virtual-environment" format="dita">virtual environment</xref>,
       or with documented approval in exceptional circumstances as described
-      <xref href="#guidance" format="dita">below</xref>,
-      you must not use a personal device for work purposes.</note>
+      <xref href="#guidance" format="dita">in this guidance</xref>,
+      you <ph conref="conrefs.dita#conrefs/policyshallnot"/> use a personal device for work purposes.</p>
+    <p>Avoid connecting peripherals to <ph conref="conrefs.dita#conrefs/moj"/> devices,
+      unless those peripherals are supplied or approved by the <ph conref="conrefs.dita#conrefs/moj"/>.
+      Examples of peripheral devices include USB, wireless, or <xref href="bluetooth.dita" format="dita" audience="audience-basic audience-suppliers audience-tech">Bluetooth</xref><ph audience="audience-gs">Bluetooth</ph> keyboards or mice.</p>
+    <note>Exemptions are possible for connecting peripherals where
+      <ph audience="audience-basic audience-suppliers audience-tech"><xref href="bluetooth.dita#accessibility/accessibility" format="dita" platform="html">accessibility support</xref><xref href="bluetooth.dita#accessibility" format="dita" platform="epub pdf">accessibility support</xref></ph><ph audience="audience-gs">accessibility support</ph> is required.
+    Contact your Line Manager for documented approval before connecting a peripheral device.</note>
+    <p>Personal devices <ph conref="conrefs.dita#conrefs/policyshallnot"/> be charged from
+      the USB ports of an <ph conref="conrefs.dita#conrefs/moj"/> device.</p>
+    <note>Specifically: a personal mobile phone <ph conref="conrefs.dita#conrefs/policyshallnot"/> be charged from
+      the USB ports of an <ph conref="conrefs.dita#conrefs/moj"/> device.</note>
   </body>
   <topic id="guidance">
     <title>Guidance</title>
     <body>
       <ul>
-        <li>If you have an <ph conref="conrefs.dita#conrefs/moj"/>-issued device or virtual environment, you must use that.</li>
-        <li>You must not use a personal device to access Office 365 tools (email, calendar, Word, Excel, Powerpoint, etc.) for work purposes.</li>
-        <li>You must not use a personal device to access <ph conref="conrefs.dita#conrefs/gsuite"/> tools (Gmail, Docs, Slides, Sheets, Drive, Meet, Hangouts, etc.) for work purposes.</li>
+        <li>If you have an <ph conref="conrefs.dita#conrefs/moj"/>-issued device or virtual environment,
+          you <ph conref="conrefs.dita#conrefs/policyshall"/> use that.</li>
+        <li>You <ph conref="conrefs.dita#conrefs/policyshallnot"/> use a personal device to access Office 365 tools such as Outlook email or calendar,
+          Word, Excel, or Powerpoint for work purposes.</li>
+        <li>You <ph conref="conrefs.dita#conrefs/policyshallnot"/> use a personal device to access <ph conref="conrefs.dita#conrefs/gsuite"/> tools such as
+          Gmail, Docs, Slides, Sheets, Drive, Meet, or Hangouts for work purposes.</li>
         <li>This guidance applies to all tools accessed through a web browser or installed client applications.</li>
-        <li>Do not send <ph conref="conrefs.dita#conrefs/moj"/> information to your personal email account.</li>
-        <li>Do not use personal accounts for work purposes.</li>
-        <li>Do not store work files or information on a personal device (desktop, laptop, tablet or phone).</li>
-        <li>Do not store work files or information on a personal storage device or memory stick (external drive, thumb drive, USB stick, etc.).</li>
+        <li>You <ph conref="conrefs.dita#conrefs/policyshallnot"/> send <ph conref="conrefs.dita#conrefs/moj"/> information to your personal email account.</li>
+        <li>You <ph conref="conrefs.dita#conrefs/policyshallnot"/> use personal accounts for work purposes.</li>
+        <li>You <ph conref="conrefs.dita#conrefs/policyshallnot"/> store work files or information on a personal device such as a desktop, laptop, tablet or phone.</li>
+        <li>You <ph conref="conrefs.dita#conrefs/policyshallnot"/> store work files or information on a personal storage device or memory stick,
+          such as an external drive, thumb drive, or USB stick.</li>
         <li>Some teams within the <ph conref="conrefs.dita#conrefs/moj"/>
-            might have permission to use personal devices for some tasks.
+          <ph conref="conrefs.dita#conrefs/policymight"/> have permission to use personal devices for some tasks.
             This permission continues,
             but is being reviewed on an on-going basis.
             Ensure that you have documented approval recording your permission.
             Ensure that the permission is no more than 12 months old.
             To request or refresh permission,
-            ask your Line Manager to seek approval by checking with the Operational Security Team: <ph conref="conrefs.dita#conrefs/securityemail"/>.</li>
+            ask your Line Manager to seek approval by checking with
+          the <ph conref="conrefs.dita#conrefs/ostemailtext"/>.</li>
       </ul>
       <note>You are not asked or required to use your own devices for work purposes.
         If you have access to <ph conref="conrefs.dita#conrefs/moj"/> devices for work purposes,
-        you must use them by default.</note>
+        you <ph conref="conrefs.dita#conrefs/policyshall"/> use them by default.</note>
     </body>
   </topic>
   <topic id="virtual-environment">
     <title>Virtual environment</title>
     <body>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> can enable access to a Virtual Environment
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> provides access to a Virtual Environment
         to help with exceptional circumstances.
         This is where suitable provision of a physical device is not possible.</p>
       <p>Request a virtual environment through the <codeph>Creation of WVD instances</codeph>
@@ -60,5 +76,6 @@
       Using an <ph conref="conrefs.dita#conrefs/moj"/>-issued device is always preferable.</note>
     </body>
   </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

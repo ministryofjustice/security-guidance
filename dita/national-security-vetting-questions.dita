@@ -5,15 +5,15 @@
   <body>
     <p>The processes described in this document are under review as part of <ph conref="conrefs.dita#conrefs/mojlong"/>
       "simpler processes" activities and these FAQs will be updated as required.</p>
-    <p>A downloadable version of this document is available <xref href="file:///./gs/national-security-vetting-questions.docx" format="docx" scope="external">here</xref>.</p>
+    <p>A downloadable version of this document is available <xref href="file:///./gs/national-security-vetting-questions.docx" format="docx" scope="external" platform="html">here</xref><xref href="https://security-guidance.service.justice.gov.uk/gs/national-security-vetting-questions.docx" format="docx" scope="external" platform="epub pdf">here</xref>.</p>
   </body>
   <topic id="national-security-vetting">
-    <title>National security vetting</title>
+    <title>National Security Vetting</title>
     <body/>
     <topic id="what-is-national-security-vetting">
-      <title>What is national security vetting?</title>
+      <title>What is National Security Vetting?</title>
       <body>
-        <p>There are three levels of national security vetting (NSV) or clearance:
+        <p>There are three levels of National Security Vetting (NSV) or clearance:
         <ul>
           <li>Counter Terrorist Check (CTC).</li>
           <li>Security Check (SC)</li>
@@ -106,7 +106,7 @@
           Your NSVC can confirm whether your role requires national security vetting in addition to the usual pre-employment checks.
           Wrongly classifying roles at advert stage will lead to delays in on-boarding.</p>
         <p><ph conref="conrefs.dita#conrefs/nsvc-contact"/><!--If you don't know who your NSVC contact is,
-          see the download available
+          refer to the download available
           <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external">here</xref>.--></p>
       </body>
     </topic>
@@ -213,7 +213,7 @@
       <ul>
         <li>The vacancy manager must discuss this with their NSVC and obtain a code which needs to be entered on the CRF submitted to SSCL.</li>
         <li><ph conref="conrefs.dita#conrefs/nsvc-contact"/><!--If you don't know who your NSVC is,
-          see <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external">here</xref>.--></li>
+          refer to <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external">here</xref>.--></li>
         <li>SSCL will only accept requests with a valid vetting reference code provided on the CRF.</li>
         <li>SSCL will send a link to the candidate so they can complete their on-line security questionnaire on the NSVS portal.</li>
       </ul></p>
@@ -292,7 +292,7 @@
           talk to your NSVC.
           All business areas that have at least one member of staff who holds Security Clearance should have one.
           <ph conref="conrefs.dita#conrefs/nsvc-contact"/><!--If you don't know who it is,
-          see the download
+          refer to the download
           <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external">here</xref>.--></p>
       </body>
     </topic>
@@ -305,7 +305,7 @@
           speak to your NSVC,
           they will decide if it needs to be renewed and help you start the process off.
           <ph conref="conrefs.dita#conrefs/nsvc-contact"/><!--If you don't know who it is,
-          see the download
+          refer to the download
           <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external">here</xref>.--></p>
       </body>
     </topic>

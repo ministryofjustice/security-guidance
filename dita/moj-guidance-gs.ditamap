@@ -29,6 +29,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta><navtitle>Prior to employment</navtitle></topicmeta>
 			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
 			<topicref href="national-security-vetting-for-external-candidates-faq.dita" type="topic"/>
+			<topicref href="national-security-vetting-contact.dita" type="topic"/>
 			<topicref href="national-security-vetting-questions.dita" type="topic"/>
 			<topicref href="pre-employment-screening.dita" type="topic"/>
 			<topicref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" type="topic"/>
@@ -60,7 +61,10 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="entry-and-exit-search-policy.dita" type="topic"/>
 			<topicref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" type="topic"/>
 			<topicref href="physical-security-policy.dita" type="topic"/>
-			<topicref href="public-protest-and-demonstrations-policy.dita" type="topic"/>
+		</topichead>
+		<topichead>
+			<topicmeta><navtitle>Media handling</navtitle></topicmeta>
+			<topicref href="working-securely-with-paper-documents-and-files.dita" type="topic"/>
 		</topichead>
 	</topichead>
 

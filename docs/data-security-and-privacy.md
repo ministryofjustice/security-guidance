@@ -22,6 +22,11 @@ To follow the data regulation/legislation, we **must** ensure that:
 -   we collect data only for described, lawful purposes
 -   we use data only for the described, lawful purposes
 
+**Related information**  
+
+
+[Email blocking policy](email-blocklist-policy.md)
+
 ## Why are security and privacy important?
 
 Breaches can have an adverse effect the relationship between citizen and government.

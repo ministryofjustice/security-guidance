@@ -1,7 +1,5 @@
 #Information Classification and Handling Policy
 
-##Introduction
-
 This document provides the core set of IT security principles and expectations on the handling and classification of information on Ministry of Justice (MoJ) IT systems.
 
 The MoJ stores and processes a wide variety of information, some of which attracts an HMG protective marking or contains personal information. The MoJ has a duty to protect all the information stored and processed on its IT systems.
@@ -14,7 +12,7 @@ This policy covers all staff (including contractors and agency staff) who use Mo
 
 The overarching policy on information classification and handling is maintained by [MoJ Security](/guidance/security/). This document only contains IT specific policies which are in addition to the overarching policy.
 
-The overarching policy can be found [here](government-classification-scheme.md).
+The overarching policy can be found [here](https://security-guidance.service.justice.gov.uk/government-classification-scheme/).
 
 All Users **must be** made aware of the Information Classification and Handling Policy, and provided with security awareness training which covers this policy.
 
@@ -64,7 +62,7 @@ The Government classification scheme defines how information should be labelled 
 
 All IT hardware and removable media assets **must** be labelled with the highest classification from among each of the individual information assets stored or processed on it.
 
-**Note:** This classification might be reduced if sufficient security controls are applied, for example whole disk encryption, and if there is agreement with the system assurer or Chief Information Security Office (CISO).
+**Note:** This classification might be reduced if sufficient security controls are applied, for example whole disk encryption, and if there is agreement with the system assurer or Chief Information Security Officer (CISO).
 
 All output from an IT system **must** be given the classification of the highest of each of the individual information assets contained within that output.
 

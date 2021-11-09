@@ -3,7 +3,7 @@
 <topic id="data-security-and-privacy-lifecycle">
   <title>Data Security &amp; Privacy Lifecycle Expectations</title>
   <body>
-    <p>Below are a series of data security and privacy expectations of <ph conref="conrefs.dita#conrefs/mojlong"/> projects at various stages in their lifecycle.</p>
+    <p>Following are a series of data security and privacy expectations of <ph conref="conrefs.dita#conrefs/mojlong"/> projects at various stages in their lifecycle.</p>
     <p>These measures can help simplify and ease the burden of embedding data security and privacy at the heart of projects.</p>
   </body>
   <topic id="pre-discovery-and-discovery">

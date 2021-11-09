@@ -9,7 +9,7 @@
       <p>The following security controls should be implemented to create a baseline security environment.</p>
       <p>✔ Enforce access control through using <xref href="multi-factor-authentication-mfa-guide.dita" format="dita" type="topic">Multi-Factor Authentication (MFA)</xref>, security attributes and enforcing the 'need to know' principle.
       Dual authorisation must also be used to conduct sensitive system changes.
-      For more information, see the <xref href="access-control-guide.dita" format="dita" type="topic">Access Control</xref> guide.</p>
+      For more information, refer to the <xref href="access-control-guide.dita" format="dita" type="topic">Access Control</xref> guide.</p>
       <p>✔ Implement host-based protection such as host firewalls and host based intrusion detection.</p>
       <p>✔ Restrict the use of remote access connections, using the following controls:
         <ul>
@@ -52,7 +52,7 @@
           <li>Detection of indicators of compromise.</li>
         </ul></p>
       <p>✔ When connecting to external networks and systems, ensure those network and systems provide secure connection, processing, storage, service controls and physical locations.</p>
-      <p>✔ Make provision for exceptional (excess) capacity or bandwidth demands, above what is required for 'typical' business as usual operations, and implement monitoring and detection tools for denial of service attempts.</p>
+      <p>✔ Make provision for exceptional (excess) capacity or bandwidth demands, exceeding what is required for 'typical' business as usual operations, and implement monitoring and detection tools for denial of service attempts.</p>
       <p>✔ Where possible, ensure a redundant secondary system or other resilience controls are in place, using alternative security mechanisms and communication protocols.</p>
       <p><b>DO NOT</b></p>
       <p>The following list identifies what should not be done, and what activities should be limited, to improve baseline security controls.</p>

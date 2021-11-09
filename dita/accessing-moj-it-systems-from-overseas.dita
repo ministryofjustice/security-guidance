@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="accessing-moj-it-systems-from-overseas">
-	<title>Accessing <ph conref="conrefs.dita#conrefs/mojlong"/> IT systems overseas</title>
+	<title>Accessing <ph conref="conrefs.dita#conrefs/mojlong"/> IT systems from overseas</title>
 	<body>
 		<p>This guidance information applies to all staff, contractors and agency staff who work for the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
 		<note importance="high">If you are national security cleared to SC or DV levels,
@@ -47,7 +47,7 @@
 						<ph conref="conrefs.dita#conrefs/moj"/> IT equipment overseas and access
 						<ph conref="conrefs.dita#conrefs/moj"/> services.
 						Keep a note of the answers you get.</li>
-					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process below
+					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process
 						if you are travelling to or passing through one of the following countries
 						<b>and</b> are intending to take any <ph conref="conrefs.dita#conrefs/moj"/> IT equipment or
 						device:
@@ -57,9 +57,9 @@
 								the northern area of the Republic of Cyprus,
 								North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey,
 								Turkmenistan, UAE, Ukraine, Uzbekistan.</lq></li>
-					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process below
+					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process
 						if you are national security cleared to SC or DV levels,
-						<b>and</b> are planning to travel to or pass through one of the listed countries above,
+						<b>and</b> are planning to travel to or pass through one of the listed countries previously,
 						even if you are not taking <ph conref="conrefs.dita#conrefs/moj"/> IT equipment or planning to
 						access <ph conref="conrefs.dita#conrefs/moj"/> systems or services.</li>
 					<li>If you are subject to STRAP briefing and intend to travel to or through countries not in
@@ -69,15 +69,14 @@
 						or New Zealand,
 						notify the STRAP team at <ph conref="conrefs.dita#conrefs/strapteamemail"/>
 						<b>and</b> proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this
-						process below.</li>
+						process.</li>
 					<li>If you have reached this step,
 						you do not need to seek further formal approval for your trip.</li>
 					<li>Take a <b>non-physical copy</b> of this guidance;
 						it includes useful contact details that help in the event of a problem while travelling.</li>
 					<li>Check if you need to do anything to prepare for
 						<xref href="#international-roaming" format="dita">International Roaming</xref>.
-						See the <xref href="#international-roaming" format="dita">International Roaming</xref> section
-						below.</li>
+						Refer to the <xref href="#international-roaming" format="dita">International Roaming</xref> section.</li>
 				</ol>
 			</body>
 		</topic>
@@ -152,8 +151,7 @@
 						-->
 					<li>Check if you need to do anything to prepare
 						for <xref href="#international-roaming" format="dita">International Roaming</xref>.
-						See the <xref href="#international-roaming" format="dita">International Roaming</xref> section
-						below.</li>
+						Refer to the <xref href="#international-roaming" format="dita">International Roaming</xref> section.</li>
 					<li>Take a <b>non-physical copy</b> of this guidance;
 						it includes useful contact details that help in the event of a problem while travelling.</li>
 				</ol>
@@ -200,7 +198,7 @@
 			<p>If any security-related incident occurs overseas,
 				regardless of whether it involves <ph conref="conrefs.dita#conrefs/moj"/> equipment,
 				you should contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/> as soon as possible.
-				See the <xref href="#contacts" format="dita">Contacts</xref> section below,
+				Refer to the following <xref href="#contacts" format="dita">Contacts</xref> section,
 				and the guidance on
 				<xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/"
 				format="html" scope="external">Reporting a Security Incident</xref>
@@ -208,7 +206,7 @@
 				This includes information on reporting an incident outside of UK working hours.
 				For convenience,
 				the out-of-hours telephone number for reporting incidents is repeated
-				<xref href="#information-incident-reporting-line" format="dita">below</xref>.</p>
+				<xref href="#information-incident-reporting-line" format="dita">in this guidance</xref>.</p>
 			<p>If there is a problem with your <ph conref="conrefs.dita#conrefs/moj"/> equipment,
 				it might be necessary to disable your ability
 				to connect to the <ph conref="conrefs.dita#conrefs/moj"/> network or services from your device.
@@ -220,7 +218,7 @@
 			<note>Do not be tempted to use non-<ph conref="conrefs.dita#conrefs/moj"/>
 				equipment for <ph conref="conrefs.dita#conrefs/moj"/> business purposes.
 				If you are having problems with <ph conref="conrefs.dita#conrefs/moj"/> equipment,
-				you might wonder about using non-<ph conref="conrefs.dita#conrefs/moj"/> devices to progress
+				you might wonder about using non-<ph conref="conrefs.dita#conrefs/moj"/> devices to carry out
 				a particularly important task,
 				or to respond to an urgent email.
 				This is not <xref href="acceptable-use.dita" format="dita" platform="html">acceptable</xref><xref href="https://security-guidance.service.justice.gov.uk/acceptable-use/" format="html" scope="external" platform="epub pdf">acceptable</xref>.</note>

@@ -16,7 +16,7 @@ and
 
 The policy on data handling and information sharing is covered in the Information Classification and Handling Policy, whilst this document sets out the MoJ guidance sharing information within the MoJ and externally with other Government departments and 3rd parties.
 
-**Note:** Other guidance might refer to information classified as being `IL3 REST*`. This is an older classification standard. In general, `IL3 REST*` is approximately equivalent to `OFFICIAL` with the `SENSITIVE` handling caveat, often written as `OFFICIAL-SENSITIVE`. While this approximate correspondance might be helpful, you should always review classification where older terms are used, to ensure that the correct current classification is used.
+**Note:** Other guidance might refer to information classified as being `IL3 REST*`. This is an older classification standard. In general, `IL3 REST*` is approximately equivalent to `OFFICIAL` with the `SENSITIVE` handling caveat, often written as `OFFICIAL-SENSITIVE`. While this approximate alignment might be helpful, you should always review classification where older terms are used, to ensure that the correct current classification is used.
 
 ##Scope
 
@@ -30,7 +30,7 @@ This guide is split into three sections:
 * [Information sharing](#information-sharing).
 * [Reporting data loss](#reporting-data-loss).
 
-**Note:** This document provides guidance for handling and sharing of information and data up to and including `OFFICIAL` and `OFFICIAL-SENSITIVE`, or the older Impact Level (IL) 3. Where information attracts a high protective marking or IL, advice **SHALL** be sought from the MoJ [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) and the MoJ Chief Information Security Office (CISO).
+**Note:** This document provides guidance for handling and sharing of information and data up to and including `OFFICIAL` and `OFFICIAL-SENSITIVE`, or the older Impact Level (IL) 3. Where information attracts a high protective marking or IL, advice **SHALL** be sought from the MoJ [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) and the MoJ Chief Information Security Officer (CISO).
 
 ##Handling data on MoJ IT systems
 
@@ -73,13 +73,13 @@ As these networks can support data up to and including `OFFICIAL-SENSITIVE`, a b
 * Frequency.
 * Any "need-to-know" considerations.
 
-Any additional controls **SHALL** be captured on the DMF (see [Data Movement Form](#data-movement-form-dmf), where advice should be obtained from the MoJ Chief Information Security Office (CISO) when required.
+Any additional controls **SHALL** be captured on the DMF (refer to the [Data Movement Form](#data-movement-form-dmf), where advice should be obtained from the MoJ Chief Information Security Officer (CISO) when required.
 
 ##USB mass storage device
 
 If using a secure network is not feasible, the next preferred option is to use an encrypted removable media, such as an approved USB mass storage device.
 
-For more information, see the [Removable Media](removable-media.md) guidance.
+For more information, refer to the [Removable Media](https://security-guidance.service.justice.gov.uk/removable-media/) guidance.
 
 The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice **SHALL** be sought from the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk), or CISO on the best option to use when completing the DMF (see [Data Movement Form](#data-movement-form-dmf)).
 
@@ -97,7 +97,7 @@ Sensitive data **SHALL NOT** be kept for longer than is needed. The IAO **SHALL*
 
 Physical media containing sensitive data **SHALL** be disposed of securely, even if that data is encrypted. The reason is that an attacker could potentially make unlimited attempts to crack the encryption used if the media comes into their possession.
 
-Further information on disposal and decommissioning can be found in the [Secure Disposal of IT Equipment](secure-disposal-of-it-equipment.md) guidance.
+Further information on disposal and decommissioning can be found in the [Secure Disposal of IT Equipment](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-equipment/) guidance.
 
 ##Information sharing
 
@@ -123,7 +123,7 @@ MoJ staff, including contractors and agency staff, **SHALL** make sure they obse
 * Ensure that the confidentiality of the sensitive information is protected during transit, for example by encrypting the data.
 * Ensure copies of sensitive information are not kept beyond when they are actually required, for example by keeping information "just in case" it might be needed in the future.
 
-All MoJ staff **SHALL** avoid exposing sensitive data to unnecessary risks, in particular by observing all aspects of MoJ [Acceptable Use](acceptable-use.md).
+All MoJ staff **SHALL** avoid exposing sensitive data to unnecessary risks, in particular by observing all aspects of MoJ [Acceptable Use](https://security-guidance.service.justice.gov.uk/acceptable-use/).
 
 Authorisation **SHALL** be sought from the IAO before sensitive information can be moved or shared with a 3rd party. The authorisation itself is captured within the [Data Movement Form](#data-movement-form-dmf). the following sub-sections provide guidance on particular types of information sharing common across the MoJ, and to help you complete a DMF.
 
@@ -163,7 +163,7 @@ Where there is a business requirement to do so, sensitive information may be sha
 
 **Note:** File encryption does not protect the name of the file. This could reveal clues as to the nature and importance of the encrypted data. Encrypted files should be given innocuous names for transmission. If the data is contained in numerous small files, these should be collected together into a single archive ("zip") file. This archive should then be encrypted. Each file or archive should be sent separately, rather than attaching multiple encrypted files to a single e-mail.
 
-##Sharing information above `OFFICIAL`
+##Sharing information higher than `OFFICIAL`
 
 Where there is a business requirement to share information classified higher than `OFFICIAL`, advice **SHALL** be sought from the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk) or CISO prior to completing a [Data Movement Form](#data-movement-form-dmf).
 
@@ -204,7 +204,7 @@ The general rules for transmitting a password to a recipient are:
 * Avoid detailing the purpose of a password when it is sent.
 * Avoid re-using passwords and demonstrate good security discipline to 3rd parties by creating a completely new password or phrase for each transmission.
 
-More guidance on password best practices is [available](passwords.md).
+More guidance on password best practices is [available](https://security-guidance.service.justice.gov.uk/passwords/).
 
 ##General enquiries, including theft and loss
 

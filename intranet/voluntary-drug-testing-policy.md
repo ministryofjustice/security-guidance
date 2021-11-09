@@ -1,16 +1,16 @@
 #Voluntary drug testing policy
 
-**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##Scope
 
 This policy covers access to a range of government assets at risk from a wide range of national security threats. These threats may be related to terrorism, espionage, sabotage, or serious organised crime. Vulnerabilities may also arise from disaffected employees (known as "insiders") who could seek to exploit their level of access.
 
-This policy **SHOULD** be read in conjunction with the [Voluntary Drug Testing Policy Procedures](voluntary-drug-testing-policy-procedures.md).
+This policy **SHOULD** be read in conjunction with the [Voluntary Drug Testing Policy Procedures](https://security-guidance.service.justice.gov.uk/voluntary-drug-testing-policy-procedures/).
 
 ##Purpose
 
-Substance misuse threatens the efficiency and delivery of business. It might impair judgment and affect an employee's ability to carry out their role and responsibilities effectively and to the standard expected from HMG and the public.
+Substance misuse threatens the efficiency and delivery of business. It might impair judgement and affect an employee's ability to carry out their role and responsibilities effectively and to the standard expected from HMG and the public.
 
 Additionally, it might make an individual vulnerable by leaving them open to pressure, inducement, or blackmail. It might also affect their suitability to continue to hold security clearance.
 
