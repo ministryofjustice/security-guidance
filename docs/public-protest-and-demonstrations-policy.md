@@ -1,18 +1,18 @@
 # Public protest and demonstrations policy
 
+This policy provides Ministry of Justice \(MoJ\) employees, contractors, partners, and other interested parties with enough guidance to take proportionate measures in case of public protest or demonstration.
+
+To help identify formal policy statements, each is prefixed with an identifier of the form: `POL.PPD.xxx`, where xxx is a unique ID number.
+
 ## Audience
 
-This policy compliments the Ministry of Justice \(MoJ\) overall security policy.
+This policy complements the MoJ overall security policy.
 
 This Public Protest Policy applies to all employees, contractors, partners and service providers, including those on co-located sites and sites owned by other public bodies. This includes employees of other organisations who are based in, or work at, MoJ occupied premises.
 
-Agencies and arm's length bodies \(ALBs\) **SHALL** comply with this corporate framework but **CAN** establish their own arrangements tailored to operational needs and **SHOULD** supplement the framework with local policy or guidance for any business-specific risk.
+`POL.PPD.001`: Agencies and arm's length bodies \(ALBs\) **SHALL** comply with this corporate framework but **CAN** establish their own arrangements tailored to operational needs and **SHOULD** supplement the framework with local policy or guidance for any business-specific risk.
 
-## Objective
-
-To provide MoJ employees, contractors, partners, and other interested parties with enough guidance to take proportionate measures in case of public protest or demonstration.
-
-## Scope and Definition:
+## Scope and Definition
 
 Protests take different forms, ranging from action by one person acting alone to a demonstration attended by thousands of people. In some instances, the MoJ might have advance notice of a public protest, in other instances the protests might be unannounced or spontaneous. This policy aims to ensure that the response to all protests are managed proportionately and consistently.
 
@@ -43,7 +43,7 @@ The MoJ **MIGHT** be the subject of protests and demonstration by various activi
 
 All employees, contractors, partners, service providers and employees of other organisations who are on MoJ premises and co-located sites remain accountable for the security, health and safety of themselves, colleagues and the protection of Departmental Assets.
 
-The building's security team **SHOULD** adapt their process and procedures in line with the advice given to organisations and businesses in central London by the Metropolitan Police Service or their local police force.
+`POL.PPD.002`: The building's security team **SHOULD** adapt their process and procedures in line with the advice given to organisations and businesses in central London by the Metropolitan Police Service or their local police force.
 
 Buildings located in Central London, within the Government Security Zone \(GSZ\), receive information from the GSZ control room about proposed protests – either from information provided by the organisers or through monitoring social media.
 
@@ -62,43 +62,46 @@ Following any public protest or demonstration, the most senior grade based at th
 
 ## Policy Statements
 
-The buildings' incident control plan **SHOULD** be reviewed regularly to ensure that it is up-to-date with good communication systems for the Incident Control Officer or Deputy Incident Control Officer to direct matters.
+`POL.PPD.003`: The buildings' incident control plan **SHOULD** be reviewed regularly to ensure that it is up-to-date with good communication systems for the Incident Control Officer or Deputy Incident Control Officer to direct matters.
 
 ### Managing the site, including security detail
 
-Minimise the number of entry points to the building.
+`POL.PPD.004`: The following aspects of site management **SHOULD** be addressed:
 
-Ensure the outside areas are clear of debris, dustbins, ladders, tools, or equipment.
+-   Minimise the number of entry points to the building.
 
-Check that emergency equipment, grab bags, first aid supplies, and personal radios are in place, easily accessible and working properly. It is advisable to test them beforehand.
+-   Ensure the outside areas are clear of debris, dustbins, ladders, tools, or equipment.
 
-Check and test building security and emergency systems.
+-   Check that emergency equipment, grab bags, first aid supplies, and personal radios are in place, easily accessible and working properly. It is advisable to test them beforehand.
 
-Ensure CCTV coverage is fully operational and can provide the highest recording resolution possible.
+-   Check and test building security and emergency systems.
 
-If your building has scaffolding erected or is near scaffolding, let your security staff know.
+-   Ensure [CCTV coverage](cctv-policy.md) is fully operational and can provide the highest recording resolution possible.
 
-Report any suspicious activity to police by dialling 999 in an emergency, or call 101 if not an emergency.
+-   If your building has scaffolding erected or is near scaffolding, let your security staff know.
+
+-   Report any suspicious activity to police by dialling 999 in an emergency, or call 101 if not an emergency.
+
 
 ### People management and communication
 
-In the days leading up to a planned event, ensure all employees are fully briefed.
+`POL.PPD.005`: In the days leading up to a planned event, all employees **SHOULD** be fully briefed.
 
-The building **SHOULD** have a strong, visible management presence who **SHOULD** identify themselves to the police in the event of any trespassing or damage.
+`POL.PPD.006`: The building **SHOULD** have a strong, visible management presence who **SHOULD** identify themselves to the police in the event of any trespassing or damage.
 
-Security officers, where possible, **SHOULD** be highly visible.
+`POL.PPD.007`: Security officers, where possible, **SHOULD** be highly visible.
 
-All staff **SHOULD** remain vigilant and report any suspicious activity to security or the police.
+`POL.PPD.008`: All staff **SHOULD** remain vigilant and report any suspicious activity to security or the police.
 
-Ensure all members of staff are fully aware of any emergency and evacuation procedures.
+`POL.PPD.009`: All members of staff **SHOULD** be fully aware of any emergency and evacuation procedures.
 
 ## Compliance
 
-The level of risk and potential impact to MoJ assets and most importantly physical harm to our people and the public determines the controls to be applied and the degree of assurance required. The MoJ **SHALL** ensure a baseline of physical security measures are in place at each site and receive annual assurance that such measures are in place to provide appropriate protection to all occupants and assets, and that these measures can be strengthened when required, such as in response to a security incident or change in the Government Response Level.
+`POL.PPD.010`: The level of risk and potential impact to MoJ assets and most importantly physical harm to our people and the public determines the controls to be applied and the degree of assurance required. The MoJ **SHALL** ensure a baseline of physical security measures are in place at each site and receive annual assurance that such measures are in place to provide appropriate protection to all occupants and assets, and that these measures can be strengthened when required, such as in response to a security incident or change in the Government Response Level.
 
-The implementation of all security measures **SHALL** be able to provide evidence that the selection has been made in accordance with the appropriate information security standards ISO27001/27002, Physical Security advice taken from the Centre for the Protection of National Infrastructure \(CPNI\), and [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+`POL.PPD.011`: The implementation of all security measures **SHALL** be able to provide evidence that the selection has been made in accordance with the appropriate information security standards ISO27001/27002, Physical Security advice taken from the Centre for the Protection of National Infrastructure \(CPNI\), and [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 
-The constantly changing security landscape has necessarily dictated that Physical Security measures be constantly re-evaluated and tested in order to meet new threats and other emerging vulnerabilities. This policy and subsequent supporting standards **SHALL** be subject to annual review, or more frequently if warranted.
+`POL.PPD.012`: The constantly changing security landscape has necessarily dictated that Physical Security measures be constantly re-evaluated and tested in order to meet new threats and other emerging vulnerabilities. This policy and subsequent supporting standards **SHALL** be subject to annual review, or more frequently if warranted.
 
 ## Physical security advice
 
