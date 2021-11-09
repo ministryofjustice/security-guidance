@@ -2,7 +2,7 @@
 
 This guidance applies to all staff and contractors who work for the Ministry of Justice \(MoJ\).
 
-Everyone working at the MoJ has access to MoJ Information Technology \(IT\) resources. You must use them in an acceptable way. This guidance explains what that means. The definitive list of Acceptable Use Policy statements is [here](it-acceptable-use-policy.md).
+Everyone working at the MoJ has access to MoJ Information Technology \(IT\) resources. You must use them in an acceptable way. This guidance explains what that means. The definitive list of Acceptable Use Policy statements is [here](acceptable-use-policy.md).
 
 **Related information**  
 

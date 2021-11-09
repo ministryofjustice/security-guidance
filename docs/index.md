@@ -157,7 +157,6 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Acceptable use](acceptable-use.md)|All users|
 |[Acceptable use policy](acceptable-use-policy.md)|All users \(Policy\)|
 |[Guidance on IT Accounts and Assets for Long Term Leave](long-term-leave.md)|All users|
-|[IT Acceptable Use Policy](it-acceptable-use-policy.md)|All users \(Policy\)|
 |[Protect Yourself Online](protect-yourself-online.md)|All users|
 |[Web browsing security](web-browsing.md)|All users|
 

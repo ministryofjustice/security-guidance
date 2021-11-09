@@ -161,7 +161,7 @@ Ideally, both sender and recipient should check the integrity of data before and
 
 Where there is a business requirement to do so, sensitive information may be shared with a 3rd party using a commercial grade encryption product such as SecureZip. Further information on the use of SecureZip can be found in [Using SecureZIP](#using-securezip).
 
-**Note:** File encryption does not protect the name of the file. This could reveal clues as to the nature and importance of the encrypted data. Encrypted files should be given innocuous names for transmission. If the data is contained in numerous small files, these should be collected together into a single archive ("zip") file. This archive should then be encrypted. Each file or archive should be sent separately, rather than attaching multiple encrypted files to a single e-mail.
+**Note:** File encryption does not protect the name of the file. This could reveal clues as to the nature and importance of the encrypted data. Encrypted files should be given innocuous names for transmission. If the data is contained in numerous small files, these should be collected together into a single archive ("zip") file. This archive should then be encrypted. Each file or archive should be sent separately, rather than attaching multiple encrypted files to a single email.
 
 ##Sharing information higher than `OFFICIAL`
 
@@ -193,9 +193,9 @@ In any case of doubt, it is always advisable to complete a DMF and await approva
 
 ##Using SecureZIP
 
-SecureZip is a compression and encryption product which can be used to encrypt sensitive data for use in removable media and e-mail based information transfers.
+SecureZip is a compression and encryption product which can be used to encrypt sensitive data for use in removable media and email based information transfers.
 
-**Note:** SecureZip can produce "self-extracting" encrypted files that are executable programs which are likely to be blocked by network firewalls or e-mail content checkers.
+**Note:** SecureZip can produce "self-extracting" encrypted files that are executable programs which are likely to be blocked by network firewalls or email content checkers.
 
 The general rules for transmitting a password to a recipient are:
 
