@@ -159,7 +159,7 @@
       data is wiped when it is returned.
       <ph audience="audience-suppliers audience-tech">For an example of a data
         destruction clause,
-        see the Modern Security Clause for formal
+        refer to the Modern Security Clause for formal
         <ph conref="conrefs.dita#conrefs/moj"/> promises (Contracts).
         This is available from the
         <ph conref="conrefs.dita#conrefs/catemailtext"/>.</ph></p>

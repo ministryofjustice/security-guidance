@@ -66,7 +66,7 @@
         This includes protecting data at rest,
         and data in transit.</p>
       <p audience="audience-tech">For further guidance on TLS,
-        see the <xref href="cryptography.dita" format="dita">Cryptography</xref>
+        refer to the <xref href="cryptography.dita" format="dita">Cryptography</xref>
         guidance.</p>
     </body>
   </topic>

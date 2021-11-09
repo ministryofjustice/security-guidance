@@ -161,7 +161,7 @@ To reduce the likelihood of false alerts on the app, turn off the app's Bluetoot
 
 Some tools, such as Facebook, Instagram and LinkedIn, are approved for specific corporate accounts to use, for corporate communications messages. General use of these tools for work purposes is not permitted.
 
-If you wish to use a tool that is not listed above, please consult our [Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md) and [speak to us for help](mailto:security@justice.gov.uk).
+If you wish to use a tool that is not listed in this guidance, please consult our [Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md) and [speak to us for help](mailto:security@justice.gov.uk).
 
 ## Requesting that an app be approved for use
 

@@ -28,7 +28,7 @@ Ensure that any service capable of sending and receiving email uses enforced TLS
 
 The [Information Classification Handling and Security Guide](information-classification-handling-and-security-guide.md) offers further advice on encrypting email communications. This includes protecting data at rest, and data in transit.
 
-For further guidance on TLS, see the [Cryptography](cryptography.md) guidance.
+For further guidance on TLS, refer to the [Cryptography](cryptography.md) guidance.
 
 ## End-to-end encryption
 

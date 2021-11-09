@@ -6,24 +6,24 @@ Access control mechanisms provide the ability for MoJ IT systems to control the 
 
 ## Legacy information
 
-**Note:** This document is Legacy IA Policy material.[security@justice.gov.uk](mailto:security@justice.gov.uk) It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+**Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 **Note:** This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
 
 -   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   `CONFIDENTIAL`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   `CONFIDENTIAL`, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 -   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS2 \(HMG Infosec Standard 2 Information Risk Management\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS2 \(HMG Infosec Standard 2 Information Risk Management\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   ITSO \(Information Technology Security Officer\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   `RESTRICTED`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
+-   `RESTRICTED`, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## User and Information Access management
 
@@ -38,7 +38,7 @@ Access control is primarily about enforcing three information security principle
 
 At a high level, access control in MoJ is based on Role Based Access Control \(RBAC\). Each user is assigned a role \(or set of roles\) and access to a piece of information is granted on a per role basis. In general, information will either be subject to RBAC or classified as open access \(for example, a HR policy document made available on the MoJ intranet\).
 
-Information made available on an open access basis \(i.e. not subject to any RBAC restrictions\) must be treated as an exception to general access control rules. It is important to ensure any information made available in this way has been validated by the Information Asset Owner \(IAO\) to ensure that the information does not have 'need-to-know' constraints that impede it's sharing beyond a defined RBAC group \(see [here](#it-system-owner-information-asset-owner-responsibilities)for further details on the role of the IAO\).
+Information made available on an open access basis \(i.e. not subject to any RBAC restrictions\) must be treated as an exception to general access control rules. It is important to ensure any information made available in this way has been validated by the Information Asset Owner \(IAO\) to ensure that the information does not have 'need-to-know' constraints that impede it's sharing beyond a defined RBAC group \(refer [here](#it-system-owner-information-asset-owner-responsibilities)for further details on the role of the IAO\).
 
 ## Management of User access control
 
@@ -58,7 +58,7 @@ The following activities must be undertaken for each new User registration:
 
 -   The access rights required must be supplied \(for example, the list of RBAC groups and/or applications\);
 
--   Confirmation of clearance level \(see [here](#minimum-user-clearance-requirements) for further details\);
+-   Confirmation of clearance level \(refer [here](#minimum-user-clearance-requirements) for further details\);
 
 -   The application for User registration must be authorised by a MoJ senior manager.
 
@@ -146,7 +146,7 @@ Remote access to a MoJ IT system requires the use of an authentication token \(s
 
 An individual's User account and any associated access rights must be removed once that individual has either left the organisation or no longer requires access to the IT system \(or application\) that the account was created for.
 
-It is the responsibility of the line manager to request account removal. The leavers process can be found on the HR intranet page \(see: [https://intranet.justice.gov.uk/guidance/hr/end-change-of-employment/](https://intranet.justice.gov.uk/guidance/hr/end-change-of-employment/) \). As part of the HR process, the line manager must inform all relevant IT service providers when a member of staff leaves the organisation and as such instruct them to deactivate and remove their user account. The leavers guidance linked above gives detail on how to contact IT service providers.
+It is the responsibility of the line manager to request account removal. The leavers process can be found on the HR intranet page \(see: [https://intranet.justice.gov.uk/guidance/hr/end-change-of-employment/](https://intranet.justice.gov.uk/guidance/hr/end-change-of-employment/) \). As part of the HR process, the line manager must inform all relevant IT service providers when a member of staff leaves the organisation and as such instruct them to deactivate and remove their user account. The leavers guidance linked previously gives detail on how to contact IT service providers.
 
 ## Review of User privileges and accounts schedule
 

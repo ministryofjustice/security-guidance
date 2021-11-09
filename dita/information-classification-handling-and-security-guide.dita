@@ -118,7 +118,7 @@
           Within this,
           some personal data might be classified as <codeph>SECRET</codeph> information if it meets the risk threshold defined.</li>
       </ul>
-        <p>The table below sets out the definitions for each security classification,
+        <p>The following table sets out the definitions for each security classification,
           as well as whether it is necessary to explicitly "mark" a piece of information with its classification type.
         <table>
           <tgroup cols="3">
@@ -171,7 +171,7 @@
           the <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/" format="html" scope="external">Information Asset Management Policy</xref>.</p>
         <p>Information security classification may change throughout the information lifecycle.
           It is important to apply appropriate security classifications and continually evaluate them.</p>
-        <p>The consequences of not classifying information correctly are outlined below:
+        <p>The consequences of not classifying information correctly are outlined as follows:
         <ul>
           <li>Applying too high a marking can inhibit business operations,
             such as collaboration,

@@ -13,7 +13,7 @@ Whether moving data to the Cloud or accepting data from third parties, removable
 -   Any data transferred from removable media to the MoJ systems should be scanned for malware before being uploaded to MoJ systems. One option is to adopt a "sheep dip". This is a segregated system with anti-virus and other security tools. It is used to conduct security scans before data is introduced to the MoJ systems. This reduces, but does not eliminate, the risk that removable media is used as a threat vector for malware.
 -   The origin of any removable media must be established to understand the risk it poses.
 -   If removable media is required for standard system operations, privileged users must ensure data is encrypted at rest, and has suitable physical security controls in place. These include locking rooms where data is stored or using safes for storing removable media.
--   Removable media must not be used for a system's operation unless it is approved by the Senior Information Risk Officer \(SIRO\). Advice should be sought from a risk advisor in the Cyber Assistance Team, contact details given [below](#incidents-and-contact-details).
+-   Removable media must not be used for a system's operation unless it is approved by the Senior Information Risk Officer \(SIRO\). Advice should be sought from a risk advisor in the Cyber Assistance Team, using the [contact details](#incidents-and-contact-details).
 
 ## System backups
 

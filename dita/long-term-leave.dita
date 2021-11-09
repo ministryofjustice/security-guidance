@@ -72,7 +72,7 @@
               <li>Consider removing access to data or information systems which are <codeph>OFFICIAL-SENSITIVE</codeph>.
                 This is in line with the necessity rigorously to apply the "need to know" principle
                 for <codeph>OFFICIAL-SENSITIVE</codeph> information.
-                See the guidance on classifying information for more detail <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/" format="html"
+                Refer to the guidance on classifying information for more detail <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/" format="html"
                 scope="external">https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/</xref></li>
           </ul></p>
         </body>
@@ -85,7 +85,7 @@
           <ul>
             <li>The leave is longer in duration,
               and there is no business need or individual need for the user to keep assets and access.
-              This should be considered for any leave above 12 months in duration.
+              This should be considered for any leave more than 12 months in duration.
               This is likely to be for Career Breaks or Loans.</li>
             <li>The staff member has no means of securely storing the asset,
               for example locking it securely in their home.</li>
@@ -112,12 +112,12 @@
           <p><ul>
             <li>Access to systems and return of assets can be organised through the appropriate items
               in the <xref href="https://mojprod.service-now.com/moj_sp" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Technology Portal</xref>.
-              Please see the Knowledge Base article on "Returning your <ph conref="conrefs.dita#conrefs/moj"/> laptop, accessories and mobile phones" for details.
+              Please refer to the Knowledge Base article on "Returning your <ph conref="conrefs.dita#conrefs/moj"/> laptop, accessories and mobile phones" for details.
               Removal of access to local systems should be arranged with local IT teams.</li>
           </ul></p>
           <note>When a Dom1 account is deactivated,
             its data is recoverable for up to 12 months.
-            See the Knowledge Base article on "How to Re-instate a Deactivated Email Account or Mailbox".</note>
+            Refer to the Knowledge Base article on "How to Re-instate a Deactivated Email Account or Mailbox".</note>
         </body>
       </topic>
   </topic>

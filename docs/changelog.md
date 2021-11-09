@@ -2,6 +2,38 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-11-09 15:37 GMT [Acceptable use policy](https://security-guidance.service.justice.gov.uk/acceptable-use-policy/)**
+
+    Provide more detail on monitoring of systems and information, and to clarify the situation regarding Data Protection and the storage or processing of information outside the UK.
+
+-   **2021-11-08 17:30 GMT [System backup policy](https://security-guidance.service.justice.gov.uk/system-backup-policy/)**
+
+    Corrected broken links within the content, also some structural changes for easier cross-referencing with related topics.
+
+-   **2021-11-04 10:28 GMT [CCTV Policy](https://security-guidance.service.justice.gov.uk/cctv-policy/)**
+
+    This policy details the purpose, usage, and management of the CCTV systems within the MoJ.
+
+-   **2021-11-04 09:05 GMT [Working securely with paper documents and files](https://security-guidance.service.justice.gov.uk/working-securely-with-paper-documents-and-files/)**
+
+    This guidance helps you understand the risks involved in working with, sharing, and moving paper documents both inside and outside the office.
+
+-   **2021-11-03 17:12 GMT [Email blocking](https://security-guidance.service.justice.gov.uk/email-blocklist-policy/)**
+
+    The policy and processes for blocking emails, and deleting emails through administrative processes, across email services across the MoJ.
+
+-   **2021-11-03 17:00 GMT [Domain names](https://security-guidance.service.justice.gov.uk/domain-names-policy/)**
+
+    An overview of domain name registration and monitoring principles and responsibilities within the MoJ.
+
+-   **2021-10-29 11:52 BST [Logging retention](https://security-guidance.service.justice.gov.uk/logging-and-monitoring/)**
+
+    Information about keeping logging information.
+
+-   **2021-10-20 09:53 BST [National Security Vetting contacts](https://security-guidance.service.justice.gov.uk/national-security-vetting-contact/)**
+
+    Updates to the process and information for National Security Vetting contacts.
+
 -   **2021-10-19 13:06 BST [Remote working](https://security-guidance.service.justice.gov.uk/remote-working/)**
 
     Simplified the guidance regarding remote working.

@@ -8,7 +8,7 @@ When staff are inducted, they are advised of their security responsibilities. Li
 
 -   Brief your staff, including contractors, on local and departmental security arrangements and policies as part of their induction.
 -   Get to know your staff, including contractors who might only be employed for a temporary basis. This is so you can recognise any changes in their behaviour which might impact on the security of the organisation.
--   Do not ignore any concerns you have for fear of not knowing what to do. See elsewhere in this guidance for further details.
+-   Do not ignore any concerns you have for fear of not knowing what to do. Refer to the information in this guidance for further details.
 -   Where appropriate, deal with any concerns by talking to the individual, your manager, or HR.
 -   Create a positive climate in which security is given priority, and individuals are encouraged to discuss any concerns before they become security problems.
 -   Be a good role model for all your staff, and display good security behaviours.
@@ -35,7 +35,7 @@ When speaking to an individual, remember:
 -   Do not put off talking to an individual for fear of not knowing what to do or say.
 -   Unusual behaviour might be nothing to do with security issues, but might be for several reasons. Listen to the person, and, if possible, offer your support. It might be appropriate to refer them to a [support group available within](https://intranet.justice.gov.uk/guidance/hr/support-and-wellbeing/employee-assistance-programme/) the MoJ.
 
-**Note:** For more information, see the MoJ [Support and wellbeing](https://intranet.justice.gov.uk/guidance/hr/support-and-wellbeing/) resources.
+**Note:** For more information, refer to the MoJ [Support and wellbeing](https://intranet.justice.gov.uk/guidance/hr/support-and-wellbeing/) resources.
 
 Managing security clearances requires active conversations between managers and individuals throughout the year, and prompt reporting of any issues of concern: [Reporting personal circumstance changes](reporting-personal-circumstance-changes.md). Whilst there are formal renewal periods, clearances may be reviewed, suspended, or withdrawn at any time.
 

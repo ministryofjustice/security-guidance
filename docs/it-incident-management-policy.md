@@ -1,28 +1,5 @@
 # IT Incident Management Policy
 
-## Legacy information
-
-**Note:** This document is Legacy IA Policy material.[security@justice.gov.uk](mailto:security@justice.gov.uk) It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
-
-**Note:** This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
-
--   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   `CONFIDENTIAL`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS2 \(HMG Infosec Standard 2 Information Risk Management\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   ITSO \(Information Technology Security Officer\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   `RESTRICTED`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Introduction
-
 Incident management is the ability to react to security incidents in a controlled, pre-planned manner. Preparation and planning are key factors to successful information security management and all Ministry of Justice \(MoJ\) systems rely on Incident Management Plans for safe and secure operations.
 
 The aim of this policy is to ensure best practice is followed by all IT systems when dealing with security incidents, in particular, those pertaining to data loss, in a timely and efficient manner.
@@ -33,11 +10,37 @@ Each MoJ Business Group **must have** an IT Security Incident Management Plan wh
 
 A template plan and guidance on the construction of an IT Security Incident Management Plan is provided in [IT Security – Incident Management Plan and Process guide](incident-management-plan-and-process-guide.md).
 
-### Scope
+**Related information**  
+
+
+[Technical Controls Policy](technical-controls-policy.md)
+
+## Legacy information
+
+**Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
+
+**Note:** This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
+
+-   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
+-   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
+-   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
+-   `CONFIDENTIAL`, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
+-   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
+-   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
+-   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS2 \(HMG Infosec Standard 2 Information Risk Management\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   ITSO \(Information Technology Security Officer\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
+-   `RESTRICTED`, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
+
+## Scope
 
 This policy is concerned with IT related security incidents outlining the roles and responsibilities, escalation path and criteria for escalation.
 
-### Relationship with wider MoJ functions
+## Relationship with wider MoJ functions
 
 An IT system is one element of a number of supporting elements which sustain MoJ business functions and delivery of services. The MoJ [Corporate Security and Business Continuity Branch](https://intranet.justice.gov.uk/guidance/security/) is responsible for overall MoJ Incident Management policy and plan. This policy is designed to sit within the overall MoJ incident management structure.
 
@@ -55,32 +58,20 @@ Such events will result in the MoJ, individuals or IT systems and/or the informa
 
 #### Types of Incidents
 
-IT Security related incidents include \(but not limited to\):
+IT Security related incidents include \(but are not limited to\):
 
--   Breaches of the [IT Security - Acceptable Use Policy](it-acceptable-use-policy.md);
-
+-   Breaches of the [Acceptable Use Policy](acceptable-use-policy.md);
 -   Detection of malicious code \(e.g. viruses and malware\);
-
 -   Network attacks or Denial of Service \(DOS\) attacks;
-
 -   Scanning and probing of a network \(where significant network resources are consumed\);
-
--   In appropriate use of MoJ IT assets as defined in the [IT Security - Acceptable Use Policy](it-acceptable-use-policy.md);
-
+-   Inappropriate use of MoJ IT assets as defined in the [Acceptable Use Policy](acceptable-use-policy.md);
 -   The discovery of a new network vulnerability or release of a patch or software update which is considered critical or an emergency;
-
 -   The results of a penetration test on a live operational IT system that reveals critical vulnerabilities;
-
 -   Unauthorised access to an IT system;
-
 -   Accidental loss of personal or other information assets;
-
 -   Deliberate release of personal or other information assets;
-
--   Compromise of integrity;
-
--   Any alerts or suspicious activity report generated by an IT system that proves to be a real security alert;
-
+-   Compromise of integrity; or
+-   Any alerts or suspicious activity report generated by an IT system that proves to be a real security alert.
 
 ### Incident Detection and Recording
 
@@ -119,20 +110,20 @@ Security incidents are categorised in order to assess their impact and required 
 
 The three categories are:
 
--   Low Impact \(see [here](#low-impact-incident) \);
+-   Low Impact \(refer [here](#low-impact-incident) \);
 
--   Medium Impact \(see [here](#medium-impact-incident) \);
+-   Medium Impact \(refer [here](#medium-impact-incident) \);
 
--   High Impact \(see [here](#high-impact-incident) \).
+-   High Impact \(refer [here](#high-impact-incident) \).
 
 
 **POL.IMP.005:**
 
 All IT Security incidents **must be** categorised in accordance with this policy.
 
-The nature of an incident may not be immediately obvious when it is first reported; further assessments of its categorisation need to be made as more information is gathered. For example, through conducting an investigation \(see Figure 2 which outlines this process flow\).
+The nature of an incident may not be immediately obvious when it is first reported; further assessments of its categorisation need to be made as more information is gathered. For example, through conducting an investigation \(refer to Figure 2 which outlines this process flow\).
 
-The sub-sections below provide an overview of the three categories with further guidance on its practical application provided in [IT Security – Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md).
+The following sub-sections provide an overview of the three categories with further guidance on its practical application provided in [IT Security – Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md).
 
 #### Low impact incident
 
@@ -142,38 +133,23 @@ A low impact personal data incident would typically include an incident where no
 
 #### Medium impact incident
 
-Examples of a medium level impact event include \(but not limited to\):
+Examples of a medium level impact event include \(but are not limited to\):
 
--   Deliberate disregard for the MoJ [IT Security Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/) leading to minor breach in security or the potential of data loss;
-
--   Inappropriate use of MoJ IT assets as defined in [IT Security - Acceptable Use Policy](it-acceptable-use-policy.md);
-
+-   Deliberate disregard for the MoJ [IT Security Policy](it-security-policy-overview.md) leading to minor breach in security or the potential of data loss;
+-   Inappropriate use of MoJ IT assets as defined in [Acceptable Use Policy](acceptable-use-policy.md);
 -   Loss of data or IT asset \(where the data or asset does not contain any personal data and is not protectively marked\);
-
 -   Theft of data or IT asset \(where the data or asset is does not contain any personal data and is not protectively marked\);
-
 -   Damage to any MoJ IT asset;
-
 -   Connecting unauthorised equipment to an IT system \(where there is no intent or suspicion of malicious activity\);
-
 -   Prolonged or permanent failure of an IT system;
-
 -   Prolonged set of unsuccessfully attempts to scan an IT network or instigate a denial of service attack;
-
 -   Any alert or reported suspicious activity on an IT system \(note this may need to be escalated to High Impact upon investigation\);
-
 -   Compromise of integrity;
-
 -   The recognition of a new critical security vulnerability in an IT system \(this may be the result of a penetration test\);
-
 -   The release of a critical patch by an application or IT equipment vendor;
-
 -   Localised report of malicious code \(e.g. the detection of a virus or malware of a desktop terminal\);
-
--   Serious case of equipment theft;
-
+-   Serious case of equipment theft; or
 -   The theft or loss of HMG cryptographic material.
-
 
 #### High Impact Incident
 
@@ -198,7 +174,7 @@ Examples of incidents at the level include \(but are not limited to\):
 
 #### Further escalation requirements
 
-The decisions to escalate an incident irrespective of its impact up through the chain from ITSO, MoJ SIRO, DSO, and above \(possible to Ministerial level\) may include the following factors:
+The decisions to escalate an incident irrespective of its impact up through the chain from ITSO, MoJ SIRO, DSO, and higher \(possible to Ministerial level\) may include the following factors:
 
 -   Issues of national security;
 
@@ -288,7 +264,7 @@ Where the IT Service Desk receives a report of a security incident, this **must 
 
 ### Escalation Path
 
-As a rule, all IT Security incidents are reported to OST. As depicted in Figure 2, OST then progress the incident according to its categorisation \(see [here](#categorisation-of-incidents) \). Depending on the category and nature of the incident, this can involve escalating the incident to other stakeholders.
+As a rule, all IT Security incidents are reported to OST. As depicted in Figure 2, OST then progress the incident according to its categorisation \(refer [here](#categorisation-of-incidents) \). Depending on the category and nature of the incident, this can involve escalating the incident to other stakeholders.
 
 **POL.IMP.015:**
 
@@ -327,7 +303,7 @@ Based on the investigation of an IT Security incident, remedial action may be re
 
 **POL.ITSEC.018:**
 
-An IT system which has a significant compromise \(Medium or High impact, see [here](#categorisation-of-incidents) \) **must be** reported to the system Accreditor and a review of that system's risk assessment and accreditation must be conducted.
+An IT system which has a significant compromise \(Medium or High impact, refer [here](#categorisation-of-incidents) \) **must be** reported to the system Accreditor and a review of that system's risk assessment and accreditation must be conducted.
 
 **POL.ITSEC.019:**
 
@@ -343,7 +319,7 @@ Checks must be made to ensure the IT system being restored pre-dates the inciden
 
 The IT Security Incident Management Plan for an IT System or overarching IT Domain **must include** details on how that system or IT domain IT services are restored \(or recovered\) following an IT Security incident.
 
-**Note** – The detail of how an IT system recovers from an incident event should be captured in that systems disaster recovery plan. See [IT Security – Disaster Recovery Policy](it-disaster-recovery-policy.md) for further information.
+**Note** – The detail of how an IT system recovers from an incident event should be captured in that systems disaster recovery plan. Refer to the [IT Security – Disaster Recovery Policy](it-disaster-recovery-policy.md) for further information.
 
 ## Preventing re-occurrences
 
@@ -357,7 +333,7 @@ Copies of the report must be sent to the ITSO who has a responsibility for forwa
 
 **POL.ITSEC.021:**
 
-For each Medium and High impact \(see [here](#categorisation-of-incidents) \) IT Security incident, a management report **must be** prepared covering:
+For each Medium and High impact \(refer [here](#categorisation-of-incidents) \) IT Security incident, a management report **must be** prepared covering:
 
 -   A description of the incident;
 

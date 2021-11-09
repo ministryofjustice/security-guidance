@@ -17,7 +17,7 @@
   <topic id="automated-diagnostic-data-collection">
     <title>Automated diagnostic data collection</title>
     <body>
-      <p>It should be exceptional to directly administer a server/node when adequate diagnositic data collection sends underlying technical data to a place where it can be correlated and analysed.</p>
+      <p>It should be exceptional to directly administer a server/node when adequate diagnostic data collection sends underlying technical data to a place where it can be correlated and analysed.</p>
     </body>
   </topic>
   <topic id="pre-defined-pre-audited">
@@ -31,14 +31,14 @@
     <body>
       <p>Use of bastion or 'jump' boxes for access into systems is a useful technical security design that also helps 'choke' and control such sessions.</p>
       <p>Through immutable infrastructure and server design, state-less cluster expansion/contraction and automated diagnostic data capture the need to SSH into a server/node should be increasingly less common.</p>
-      <p>It should be exceptional for an individual to login to a server/node via SSH and execute commands with elevated privledges (typically, <codeph>root</codeph>).</p>
+      <p>It should be exceptional for an individual to login to a server/node via SSH and execute commands with elevated privileges (typically, <codeph>root</codeph>).</p>
     </body>
     <topic id="using-ssh">
       <title>Using SSH</title>
       <body>
         <p>SSH must be strictly controlled, and environments should be segregated so that no single bastion or 'jump' SSH server can access both production and non-production accounts.</p>
         <p>SSH shells must be limited to users who need shell (by comparison to users who will use SSH as a port forwarding tunnel).</p>
-        <p>Joiners/Movers/Leavers processes must be strictly enforced (optimally, automated) on SSH servers as they are a critical and priviledged access method.</p>
+        <p>Joiners/Movers/Leavers processes must be strictly enforced (optimally, automated) on SSH servers as they are a critical and privileged access method.</p>
         <p>SSH should not be password-based, and should use individually created and purposed SSH keypairs. <i>Private keys must not be shared or re-used</i>.</p>
       </body>
     </topic>

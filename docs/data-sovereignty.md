@@ -27,7 +27,7 @@ For example, Microsoft Azure's data centre is in the UK but the system administr
 
 For example, Amazon Web Services has UK data centres but is nevertheless is a US company with global support staff.
 
-The 'where' data is processed is the combination of the answers to the questions above and is much more than just where the servers and hard drives are physically located \(data hosting\).
+The 'where' data is processed is the combination of the answers to the previous questions, and is much more than just where the servers and hard drives are physically located \(data hosting\).
 
 As part of routine due diligence, including fulfilling legal obligations under the General Data Protection Regulation \(GDPR\) and the Data Protection Act \(2018\), where data is processed in other legal jurisdictions the MoJ is to ensure that adequate safeguards, including where relevant Data Protection Impact Assessments \(DPIAs\), are in place to ensure data is secure and that the rights and freedoms of any Data Subjects are maintained.
 

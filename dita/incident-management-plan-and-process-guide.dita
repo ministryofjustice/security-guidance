@@ -127,7 +127,7 @@
               <row>
                 <entry colname="col1">Senior Information Risk Owner (SIRO)</entry>
                 <entry colname="col2"><ph conref="conrefs.dita#conrefs/moj"/> Business Group SIROs are responsible for implementing and managing information risk in their respective business groups and, reviewing the application of policy and guidance regularly thereafter to ensure it remains appropriate to their business objectives and risk environment.
-                <p>In the context of ITSIM, the SIRO forms part of the escalation path where incidents which are categorised as having a high impact or involve personal data (see <xref format="dita" href="#categorisation-of-incidents">here</xref>) are reported to the SIRO as a matter of course. They are also responsible for ensuring that their business group has an ITSIM plan.</p></entry>
+                <p>In the context of ITSIM, the SIRO forms part of the escalation path where incidents which are categorised as having a high impact or involve personal data (refer <xref format="dita" href="#categorisation-of-incidents">here</xref>) are reported to the SIRO as a matter of course. They are also responsible for ensuring that their business group has an ITSIM plan.</p></entry>
               </row>
               <row>
                 <entry colname="col1">Information Asset Owner (IAO)</entry>
@@ -161,7 +161,7 @@
     <topic id="lifecycle">
       <title>Lifecycle</title>
       <body>
-        <p>ITSIM follows a typical risk management lifecycle (see Figure 1) based around:</p>
+        <p>ITSIM follows a typical risk management lifecycle (refer to Figure 1) based around:</p>
         <ul>
           <li>
             <p>Preparation and planning;</p>
@@ -184,7 +184,7 @@
   <topic id="preparation-and-planning">
     <title>Preparation and planning</title>
     <body>
-      <p>The core of ITSIM is preparation and planning, the plan itself needs to be developed mindful of the environment an IT system operates in including the business context. Figure 2 below represents the flow required to develop and implement an ITSIM plan.</p>
+      <p>The core of ITSIM is preparation and planning, the plan itself needs to be developed mindful of the environment an IT system operates in including the business context. Figure 2 following represents the flow required to develop and implement an ITSIM plan.</p>
       <image href="images/incident-management-plan-and-process-guide-diagram-2.png" placement="break" scope="local">
         <alt>Preparation and Planning</alt>
       </image>
@@ -209,8 +209,8 @@
               </row>
               <row>
                 <entry colname="col1">Incident Categorisation </entry>
-                <entry colname="col2">The <xref format="dita" href="it-incident-management-policy.dita">IT Security – IT Incident Management Policy</xref> and this guide (see <xref format="dita" href="#categorisation-of-incidents">here</xref>) provides a generic incident categorisation schema. This generic scheme should be used to develop final schema contained within the ITSIM plan. The aim at this phase of developing the ITSIM plan is to:
-<ul><li>Explore the different types of incidents which could or have occurred. For example a good starting point is a review of relevant system RMADS to identify possible incident types.</li><li>Compare the incident types identified with the information assets and services which could be impacted and broadly align each type to impact category (high impact, medium impact or low impact, see <xref format="dita" href="#categorisation-of-incidents">here</xref> for further details on the response level for each category).</li></ul></entry>
+                <entry colname="col2">The <xref format="dita" href="it-incident-management-policy.dita">IT Security – IT Incident Management Policy</xref> and this guide (refer <xref format="dita" href="#categorisation-of-incidents">here</xref>) provides a generic incident categorisation schema. This generic scheme should be used to develop final schema contained within the ITSIM plan. The aim at this phase of developing the ITSIM plan is to:
+<ul><li>Explore the different types of incidents which could or have occurred. For example a good starting point is a review of relevant system RMADS to identify possible incident types.</li><li>Compare the incident types identified with the information assets and services which could be impacted and broadly align each type to impact category (high impact, medium impact or low impact, refer <xref format="dita" href="#categorisation-of-incidents">here</xref> for further details on the response level for each category).</li></ul></entry>
               </row>
               <row>
                 <entry colname="col1">Incident Detection</entry>
@@ -235,7 +235,7 @@
     <topic id="implementing-the-plan">
       <title>Implementing the plan</title>
       <body>
-        <p>Table 3 below provides a list of the main outputs required to implement an ITSIM plan.</p>
+        <p>Table 3 following provides a list of the main outputs required to implement an ITSIM plan.</p>
         <table>
           <tgroup cols="2">
             <colspec colname="col1" colnum="1"/>
@@ -399,14 +399,14 @@ For those who perform specific roles within the plan such as a Senior Manager, t
       <title>Categorisation of Incidents</title>
       <body>
         <p>Incidents need to be categorised to assess their impact and the required level of escalation and reporting. This is mainly done to manage resources and make investigations cost effective. The initial assessment for all IT security incidents will be made by the OST with support from the ITSO and the relevant system Accreditor as required. The assessment will be in terms of the potential impact of the incident with each incident categorised in terms of Low, Medium or High impact.</p>
-        <p>The three sub-sections below provides a description for each category, it is expected that the business group ITSIM plan will contain a tailored version of this description and confirm the escalation route which will be followed.</p>
+        <p>The three following sub-sections provide a description for each category. It is expected that the business group ITSIM plan will contain a tailored version of this description and confirm the escalation route which will be followed.</p>
       </body>
       <topic id="low-impact-incident">
         <title>Low Impact Incident</title>
         <body>
           <p>These would typically be minor such as low level breaches in security through an accident or carelessness, or a minor loss of service from a service provider e.g. temporary loss of power or connectivity.</p>
           <p>A low impact personal data incident would typically include an incident where no loss has occurred but a weakness in a system may potentially have led to a loss, and with a small amount of remedial action the weakness in a process can easily be addressed.</p>
-          <p>Incident categorised as low will be typically managed by the <ph conref="conrefs.dita#conrefs/moj"/> OST who will engage with the relevant parties within the business and IT supplier community to resolve the incident. Any escalation (see Figure 4) will be predominantly to the level of the <ph conref="conrefs.dita#conrefs/moj"/> ITSO and relevant system Accreditor.</p>
+          <p>Incident categorised as low will be typically managed by the <ph conref="conrefs.dita#conrefs/moj"/> OST who will engage with the relevant parties within the business and IT supplier community to resolve the incident. Any escalation (refer to Figure 4) will be predominantly to the level of the <ph conref="conrefs.dita#conrefs/moj"/> ITSO and relevant system Accreditor.</p>
         </body>
       </topic>
       <topic id="medium-impact-incident">
@@ -494,7 +494,7 @@ For those who perform specific roles within the plan such as a Senior Manager, t
               <p>The loss of a <ph conref="conrefs.dita#conrefs/moj"/>, or suppliers, site at which processing and storage of <ph conref="conrefs.dita#conrefs/moj"/> information takes place for more than one working day;</p>
             </li>
             <li>
-              <p>The theft or loss of <ph conref="conrefs.dita#conrefs/moj"/> protectively marked information which could include CONFIDENTIAL and above, or a significant quantity of RESTRICTED material.</p>
+              <p>The theft or loss of <ph conref="conrefs.dita#conrefs/moj"/> protectively marked information which could include CONFIDENTIAL and higher, or a significant quantity of RESTRICTED material.</p>
             </li>
           </ul>
           <p>It is highly likely that an incident of this magnitude would require the <ph conref="conrefs.dita#conrefs/moj"/> ITSO to instigate a forensic investigation and start collecting evidence.</p>
@@ -612,7 +612,7 @@ For those who perform specific roles within the plan such as a Senior Manager, t
             <row>
               <entry colname="col1" namest="col1" nameend="col2">Escalation Path</entry>
               <entry colname="col3">[This section must describe the escalation path for an IT security
-incident (see Figure 4).]</entry>
+incident (refer to Figure 4).]</entry>
             </row>
             <row>
               <entry colname="col1" namest="col1" nameend="col3" align="center">Incident Categorisation</entry>
@@ -620,7 +620,7 @@ incident (see Figure 4).]</entry>
             <row>
               <entry colname="col1">Low Impact Incident</entry>
               <entry colname="col2">Description</entry>
-              <entry colname="col3">[Provide a description of what a Low impact incident constitutes; see <xref format="dita" href="#low-impact-incident">here</xref> for further details.]</entry>
+              <entry colname="col3">[Provide a description of what a Low impact incident constitutes; refer <xref format="dita" href="#low-impact-incident">here</xref> for further details.]</entry>
             </row>
             <row>
               <entry colname="col1"> </entry>
@@ -630,7 +630,7 @@ incident (see Figure 4).]</entry>
             <row>
               <entry colname="col1">Medium Impact Incident</entry>
               <entry colname="col2">Description</entry>
-              <entry colname="col3">[Provide a description of what a Medium impact incident constitutes; see <xref format="dita" href="#medium-impact-incident">here</xref> for further details.]</entry>
+              <entry colname="col3">[Provide a description of what a Medium impact incident constitutes; refer <xref format="dita" href="#medium-impact-incident">here</xref> for further details.]</entry>
             </row>
             <row>
               <entry colname="col1"> </entry>
@@ -640,7 +640,7 @@ incident (see Figure 4).]</entry>
             <row>
               <entry colname="col1">High Impact Incident</entry>
               <entry colname="col2">Description</entry>
-              <entry colname="col3">[Provide a description of what a High impact incident constitutes; see <xref format="dita" href="#high-impact-incident">here</xref> for further details.]</entry>
+              <entry colname="col3">[Provide a description of what a High impact incident constitutes; refer <xref format="dita" href="#high-impact-incident">here</xref> for further details.]</entry>
             </row>
             <row>
               <entry colname="col1"> </entry>

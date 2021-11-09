@@ -91,15 +91,15 @@
       <topic id="evidence-collection-and-storage">
         <title>Evidence collection and storage</title>
         <body>
-          <p>The responsibility for the collection and management of evidence is likely to be split between the <ph conref="conrefs.dita#conrefs/moj"/>, IT service providers and an external forensics provider. At all stages of a forensic investigation process (see <xref href="#incident-management-and-forensic-investigation-process" format="dita">here</xref> ), all evidential items collected from <ph conref="conrefs.dita#conrefs/moj"/> sites (or from <ph conref="conrefs.dita#conrefs/moj"/> IT equipment) must be managed and under the control of the Forensic Investigation Owner. Using <xref href="https://www.ncsc.gov.uk/guidance/forensic-readiness-good-practice-guide-18" format="html" scope="external">CESG GPG No.18</xref>, it is important to ensure that the procedures are laid out in the Forensic Readiness Plan.</p>
+          <p>The responsibility for the collection and management of evidence is likely to be split between the <ph conref="conrefs.dita#conrefs/moj"/>, IT service providers and an external forensics provider. At all stages of a forensic investigation process (refer <xref href="#incident-management-and-forensic-investigation-process" format="dita">here</xref> ), all evidential items collected from <ph conref="conrefs.dita#conrefs/moj"/> sites (or from <ph conref="conrefs.dita#conrefs/moj"/> IT equipment) must be managed and under the control of the Forensic Investigation Owner. Using <xref href="https://www.ncsc.gov.uk/guidance/forensic-readiness-good-practice-guide-18" format="html" scope="external">CESG GPG No.18</xref>, it is important to ensure that the procedures are laid out in the Forensic Readiness Plan.</p>
         </body>
       </topic>
       <topic id="internal-and-external-reporting-and-communication">
         <title>Internal and external reporting and communication</title>
         <body>
-          <p>The <xref href="forensic-readiness-policy.dita" format="dita">Forensic Readiness Policy</xref> outlines the need to ensure appropriate internal and external reporting. To ensure consistency of approach, as the Forensic Readiness Plan sits within IT Security Incident Management, the trigger points for internal and external reporting must align with the relevant Incident Management Plan; see <xref href="incident-management-plan-and-process-guide.dita" format="dita">Incident Management Plan and Process Guide</xref> for further details.</p>
+          <p>The <xref href="forensic-readiness-policy.dita" format="dita">Forensic Readiness Policy</xref> outlines the need to ensure appropriate internal and external reporting. To ensure consistency of approach, as the Forensic Readiness Plan sits within IT Security Incident Management, the trigger points for internal and external reporting must align with the relevant Incident Management Plan; refer to the <xref href="incident-management-plan-and-process-guide.dita" format="dita">Incident Management Plan and Process Guide</xref> for further details.</p>
           <p><b>Note:</b> Responsibility for escalation normally resides with the Information Asset Owner (IAO) and/or the Forensic Investigation Owner. Where responsibility for an investigation has been escalated to the Departmental Security Officer (DSO) or Senior Information Risk Owner (SIRO), further escalation responsibility will also reside with them.</p>
-          <p>The impact upon any ongoing operational activity must be considered before external reporting and escalation is invoked. The forensic investigation process (see <xref href="#incident-management-and-forensic-investigation-process" format="dita">here</xref> ) must allow for the chain of evidence to be passed to any authorised outside agencies (e.g. Law Enforcement) where applicable.</p>
+          <p>The impact upon any ongoing operational activity must be considered before external reporting and escalation is invoked. The forensic investigation process (refer <xref href="#incident-management-and-forensic-investigation-process" format="dita">here</xref> ) must allow for the chain of evidence to be passed to any authorised outside agencies (e.g. Law Enforcement) where applicable.</p>
         </body>
       </topic>
     </topic>
@@ -159,7 +159,7 @@
             </tbody>
           </tgroup>
         </table>
-        <p>Each scenario should be documented in full with a summary contained in the Forensic Readiness Plan (see Appendix D). Table 2 provides an outline for how each scenario should be documented. It is recommended that this is included as an appendix to the Forensic Readiness Plan.</p>
+        <p>Each scenario should be documented in full with a summary contained in the Forensic Readiness Plan (refer to Appendix D). Table 2 provides an outline for how each scenario should be documented. It is recommended that this is included as an appendix to the Forensic Readiness Plan.</p>
         <table>
           <title>Table 2 – Layout for a forensic investigation scenario</title>
           <tgroup cols="2">
@@ -182,15 +182,15 @@
               </row>
               <row>
                 <entry colname="col1">Typical Diagnostic Indicators</entry>
-                <entry colname="col2">Produce a list of possible sources that may first raise suspicion that an incident of that scenario type has occurred. See Appendix A for possible incidents.</entry>
+                <entry colname="col2">Produce a list of possible sources that may first raise suspicion that an incident of that scenario type has occurred. Refer to Appendix A for possible incidents.</entry>
               </row>
               <row>
                 <entry colname="col1">Typical Digital Evidence Sources</entry>
-                <entry colname="col2">Generate a checklist of potential initial sources (in approximate order of significance) of evidence that would be useful to an investigation in that scenario type. See Appendix B for guidance on digital evidence sources.</entry>
+                <entry colname="col2">Generate a checklist of potential initial sources (in approximate order of significance) of evidence that would be useful to an investigation in that scenario type. Refer to Appendix B for guidance on digital evidence sources.</entry>
               </row>
               <row>
                 <entry colname="col1">Typical Workflow</entry>
-                <entry colname="col2">Generate a workflow checklist of activities which should be followed. This does not need to be a precise list as each incident may have unique characteristics and take the investigation in unpredictable directions. See <xref href="#incident-management-and-forensic-investigation-process" format="dita">here</xref> for further details.</entry>
+                <entry colname="col2">Generate a workflow checklist of activities which should be followed. This does not need to be a precise list as each incident may have unique characteristics and take the investigation in unpredictable directions. Refer <xref href="#incident-management-and-forensic-investigation-process" format="dita">here</xref> for further details.</entry>
               </row>
               <row>
                 <entry colname="col1">Typical Desired Outcomes</entry>
@@ -205,7 +205,7 @@
       <title>Criteria for conducting a forensic investigation</title>
       <body>
         <p>The decision to conduct a forensic investigation is a risk management decision, set against a cost/benefit analysis and any obligations stemming from any legal or regulatory requirements.</p>
-        <p>Developing forensic scenarios (see <xref href="#scenario-based-planning" format="dita">here</xref>) plays an important role in understanding the inputs into the decision making process. Table 3 outlines the decision making criteria along with the considerations which should be applied.</p>
+        <p>Developing forensic scenarios (refer <xref href="#scenario-based-planning" format="dita">here</xref>) plays an important role in understanding the inputs into the decision making process. Table 3 outlines the decision making criteria along with the considerations which should be applied.</p>
         <table>
           <title>Table 3 – Criteria for conducting a forensic investigation</title>
           <tgroup cols="2">
@@ -243,7 +243,7 @@
       <title>Incident management and forensic investigation process</title>
       <body>
         <p>The <xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref> sets out the <ph conref="conrefs.dita#conrefs/moj"/> requirement for incident management where forensics investigation form part of the incident management process. As such, the forensic incident management process is an extension of the overall incident management process.</p>
-        <p><xref href="https://www.ncsc.gov.uk/guidance/forensic-readiness-planning-implementation-guide-18" format="html" scope="external">CESG Implementation Guide No. 18</xref> provides a generic forensic investigation process flow. Table 4 lists the step-by-step forensic investigation activities which are expected to be included in the Forensic Readiness Plan (see Appendix D), along with the role/s responsible for completing each activity.</p>
+        <p><xref href="https://www.ncsc.gov.uk/guidance/forensic-readiness-planning-implementation-guide-18" format="html" scope="external">CESG Implementation Guide No. 18</xref> provides a generic forensic investigation process flow. Table 4 lists the step-by-step forensic investigation activities which are expected to be included in the Forensic Readiness Plan (refer to Appendix D), along with the role/s responsible for completing each activity.</p>
         <table>
           <title>Table 4 – Forensic investigation activities</title>
           <tgroup cols="3">
@@ -343,7 +343,7 @@
       <title>Procedures</title>
       <body>
         <p>When the decision is made to conduct a forensic investigation or preserve evidence in a manor which does not preclude a forensic investigation, it is vital that a clear set of procedures are included within the Forensic Readiness Plan to ensure evidence is not lost or tampered with.</p>
-        <p>Appendix C contains a generic set of procedures which are designed to be enacted during the first stages of a forensic investigation (steps 1 to 4 in Table 4) to ensure information is stored in a forensically safe manner.  Each Forensic Readiness Plan (see Appendix D) must contain a set of forensic procedures.</p>
+        <p>Appendix C contains a generic set of procedures which are designed to be enacted during the first stages of a forensic investigation (steps 1 to 4 in Table 4) to ensure information is stored in a forensically safe manner.  Each Forensic Readiness Plan (refer to Appendix D) must contain a set of forensic procedures.</p>
       </body>
     </topic>
     <topic id="performance-monitoring">
@@ -397,7 +397,7 @@
             </row>
             <row>
               <entry colname="col1">Disciplinary issues through inappropriate use of <ph conref="conrefs.dita#conrefs/moj"/> IT systems</entry>
-              <entry colname="col2">This could include: the storage of pornographic or other images or files; email abuse such as SPAM; connecting systems to unofficial networks; attempted unauthorised access to computer data or programs; or unapproved upload/download of information to the Internet. See <xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref> for further details.</entry>
+              <entry colname="col2">This could include: the storage of pornographic or other images or files; email abuse such as SPAM; connecting systems to unofficial networks; attempted unauthorised access to computer data or programs; or unapproved upload/download of information to the Internet. Refer to the <xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref> for further details.</entry>
             </row>
             <row>
               <entry colname="col1">Email SPAM/Denial of Service Attacks</entry>
@@ -443,7 +443,7 @@
   <topic id="appendix-b-guidance-on-sources-and-forms-of-digital-evidence">
     <title>Appendix B. Guidance on sources and forms of digital evidence</title>
     <body>
-      <p>Computers, networks, storage devices and their peripherals may be used in the commission of various incidents or crimes, or can themselves be the target of an attack. As a result, digital evidence may be collected from a variety of sources. Table 6 and Table 7 below provide a set of examples:</p>
+      <p>Computers, networks, storage devices and their peripherals may be used in the commission of various incidents or crimes, or can themselves be the target of an attack. As a result, digital evidence may be collected from a variety of sources. Table 6 and Table 7 following provide a set of examples:</p>
     </body>
     <topic id="hardware-artefacts">
       <title>Hardware artefacts:</title>
@@ -646,29 +646,29 @@
             </row>
             <row>
               <entry colname="col1">[Name of Scenario 1]</entry>
-              <entry>[A summary of each scenario developed must be contained in this section, with full details provided as an appendix to the plan. See <xref format="dita" href="#scenario-based-planning">here</xref> for further details.]</entry>
+              <entry>[A summary of each scenario developed must be contained in this section, with full details provided as an appendix to the plan. Refer <xref format="dita" href="#scenario-based-planning">here</xref> for further details.]</entry>
             </row>
             <row>
               <entry colname="col1" namest="col1" nameend="col2">Process and procedures</entry>
             </row>
             <row>
               <entry colname="col1">Process</entry>
-              <entry>[This section must contain a step-by-step plan of activities to be followed during a forensic investigation. See <xref format="dita" href="#incident-management-and-forensic-investigation-process">here</xref> for further details.]</entry>
+              <entry>[This section must contain a step-by-step plan of activities to be followed during a forensic investigation. Refer <xref format="dita" href="#incident-management-and-forensic-investigation-process">here</xref> for further details.]</entry>
             </row>
             <row>
               <entry colname="col1">Procedures</entry>
-              <entry>[This section must contain details on the initial forensic procedures which should be followed once the decision to undertake a forensic investigation has been made. See <xref format="dita" href="#procedures">here</xref> for further details]</entry>
+              <entry>[This section must contain details on the initial forensic procedures which should be followed once the decision to undertake a forensic investigation has been made. Refer <xref format="dita" href="#procedures">here</xref> for further details]</entry>
             </row>
             <row>
               <entry colname="col1" namest="col1" nameend="col2">Performance Monitoring</entry>
             </row>
             <row>
               <entry colname="col1">KPIs / Performance measures</entry>
-              <entry>[Include details on the KPIs and SLAs associated with this plan. See <xref format="dita" href="#performance-monitoring">here</xref> for further details]</entry>
+              <entry>[Include details on the KPIs and SLAs associated with this plan. Refer <xref format="dita" href="#performance-monitoring">here</xref> for further details]</entry>
             </row>
             <row>
               <entry colname="col1">Continuous improvement</entry>
-              <entry>[Include details on the continuous improvement measures associated with this plan. See <xref format="dita" href="#performance-monitoring">here</xref> for further details]</entry>
+              <entry>[Include details on the continuous improvement measures associated with this plan. Refer <xref format="dita" href="#performance-monitoring">here</xref> for further details]</entry>
             </row>
             <row>
               <entry colname="col1" namest="col1" nameend="col2">Training and awareness</entry>

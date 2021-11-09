@@ -51,6 +51,11 @@ for line in inFile:
     working = working.replace("file:///", "")
     # Remove hard-coded intranet link.
     working = working.replace("https://intranet.justice.gov.uk", "")
+    # Redirect links to security-guidance.
+    while(".md" in working):
+        # print "Found: "+working
+        working = re.sub('\]\((\S+)\.md','](https://security-guidance.service.justice.gov.uk/\g<1>/',working);
+        # print "Now:   "+working
     # Convert markdown heading tag to level 2 (always).
     # working = re.sub("^(?P<hashes>#+)\s+", "\g<hashes>", working)
     # Best practice is to leave a space after the hashes:

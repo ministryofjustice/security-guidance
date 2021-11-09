@@ -106,7 +106,7 @@ The [Email Authentication Guide](email-authentication-guide.md) provides further
 
 ## Reporting spam or malicious emails
 
-If you think your email service provision has been susceptible to spam or a virus, report it immediately to the IT Service Desk as an IT security incident. Please refer to the [IT Incident Management Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/) for further guidance.
+If you think your email service provision has been susceptible to spam or a virus, report it immediately to the IT Service Desk as an IT security incident. Please refer to the [IT Incident Management Policy](it-incident-management-policy.md) for further guidance.
 
 ## Incidents
 

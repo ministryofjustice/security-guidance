@@ -19,7 +19,7 @@
     <p>Except when connecting to an  <ph conref="conrefs.dita#conrefs/moj"/>
       <xref href="#virtual-environment" format="dita">virtual environment</xref>,
       or with documented approval in exceptional circumstances as described
-      <xref href="#guidance" format="dita">below</xref>,
+      <xref href="#guidance" format="dita">in this guidance</xref>,
       you <ph conref="conrefs.dita#conrefs/policyshallnot"/> use a personal device for work purposes.</p>
     <p>Avoid connecting peripherals to <ph conref="conrefs.dita#conrefs/moj"/> devices,
       unless those peripherals are supplied or approved by the <ph conref="conrefs.dita#conrefs/moj"/>.

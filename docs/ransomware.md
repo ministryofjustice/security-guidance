@@ -1,6 +1,6 @@
 # Ransomware
 
-Ransomware is a type of malicious software created or used by cybercriminals. It prevents people or businesses from accessing their own data. The software takes hold of the data, holding it "hostage", until a ransom payment is made to release it.
+Ransomware is a type of malicious software created or used by cyber criminals. It prevents people or businesses from accessing their own data. The software takes hold of the data, holding it "hostage", until a ransom payment is made to release it.
 
 ## Preventing Ransomware from taking hold of information
 
@@ -10,7 +10,7 @@ Ransomware is a type of malicious software created or used by cybercriminals. It
 -   Ensure your laptop computer is updated regularly. All official MoJ systems do this for you automatically, as standard.
 -   Use multi-factor authentication \(MFA\) methods. Most MoJ systems support MFA, but you might have to enable it yourself.
 -   Do not provide any personal information to unknown contacts.
--   Avoid unsecure apps or websites.
+-   Avoid insecure apps or websites.
 
 ## Things to look out for if you suspect you have become victim to a ransomware attack
 

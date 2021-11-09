@@ -11,7 +11,7 @@ This guidance aims to help risk management practitioners to:
 * Evaluate existing countermeasures, and identify appropriate countermeasures to mitigate those risks.
 * Allocate security resources, which might be personnel, physical or informational in nature, in a way which is cost-effective and proportionate to the risk posed.
 
-**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##Personnel security
 
