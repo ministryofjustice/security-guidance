@@ -4,7 +4,7 @@
 	<title>Accessing <ph conref="conrefs.dita#conrefs/mojlong"/> IT systems from overseas</title>
 	<body>
 		<p>This guidance information applies to all staff, contractors and agency staff who work for the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
-		<note importance="high">You need to have business and HR approval before you can perform <ph conref="conrefs.dita#conrefs/moj"/> work from overseas. Before addressing the security requirements, ensure you have first reviewed and followed the overall business and HR requirements. More information about these can be found on the <xref href="https://intranet.justice.gov.uk/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Intranet</xref>.</note>
+		<note importance="high">You need to have business and HR approval before you can perform <ph conref="conrefs.dita#conrefs/moj"/> work from overseas. Before addressing the security requirements, ensure you have first reviewed and followed the overall business and HR requirements. More information about these can be found on the <xref href="https://intranet.justice.gov.uk/guidance/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Intranet</xref>.</note>
 		<note importance="high">If you are national security cleared to SC or DV levels,
 			or subject to STRAP briefing,
 			follow this security guidance process for all your trips,
@@ -48,6 +48,7 @@
 						<ph conref="conrefs.dita#conrefs/moj"/> IT equipment overseas and access
 						<ph conref="conrefs.dita#conrefs/moj"/> services.
 						Keep a note of the answers you get.</li>
+					<li>If you are national security cleared to SC or DV levels, or are subject to STRAP briefing, you should tell the <ph conref="conrefs.dita#conrefs/strapteamemailtext"/> that you are planning to travel outside the UK.</li>
 					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process
 						if you are travelling to or passing through one of the following countries
 						<b>and</b> are intending to take any <ph conref="conrefs.dita#conrefs/moj"/> IT equipment or

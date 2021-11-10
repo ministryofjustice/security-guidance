@@ -2,7 +2,7 @@
 
 This guidance information applies to all staff, contractors and agency staff who work for the MoJ.
 
-**Note:** You need to have business and HR approval before you can perform MoJ work from overseas. Before addressing the security requirements, ensure you have first reviewed and followed the overall business and HR requirements. More information about these can be found on the [MoJ Intranet](https://intranet.justice.gov.uk/).
+**Note:** You need to have business and HR approval before you can perform MoJ work from overseas. Before addressing the security requirements, ensure you have first reviewed and followed the overall business and HR requirements. More information about these can be found on the [MoJ Intranet](https://intranet.justice.gov.uk/guidance/).
 
 **Note:** If you are national security cleared to SC or DV levels, or subject to STRAP briefing, follow this security guidance process for all your trips, regardless of whether they are for business or personal reasons.
 
@@ -22,15 +22,16 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 ### Part One
 
 1.  Get confirmation from your Senior Line Manager \(Head of your immediate team\) that there is a business need for you to take MoJ IT equipment overseas and access MoJ services. Keep a note of the answers you get.
-2.  Proceed directly to [Part Two](#part-two) of this process if you are travelling to or passing through one of the following countries **and** are intending to take any MoJ IT equipment or device:
+2.  If you are national security cleared to SC or DV levels, or are subject to STRAP briefing, you should tell the [Cluster 2 STRAP team](mailto:STRAPTeam@cluster2security.gov.uk) that you are planning to travel outside the UK.
+3.  Proceed directly to [Part Two](#part-two) of this process if you are travelling to or passing through one of the following countries **and** are intending to take any MoJ IT equipment or device:
 
     > Argentina, Armenia, Azerbaijan, Belarus, China \(including Hong Kong\), Egypt, Estonia, Georgia, India, Indonesia, Iran, Israel, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, the northern area of the Republic of Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey, Turkmenistan, UAE, Ukraine, Uzbekistan.
 
-3.  Proceed directly to [Part Two](#part-two) of this process if you are national security cleared to SC or DV levels, **and** are planning to travel to or pass through one of the listed countries previously, even if you are not taking MoJ IT equipment or planning to access MoJ systems or services.
-4.  If you are subject to STRAP briefing and intend to travel to or through countries not in Western Europe, North America, Australia, or New Zealand, notify the STRAP team at [STRAPTeam@cluster2security.gov.uk](mailto:STRAPTeam@cluster2security.gov.uk) **and** proceed directly to [Part Two](#part-two) of this process.
-5.  If you have reached this step, you do not need to seek further formal approval for your trip.
-6.  Take a **non-physical copy** of this guidance; it includes useful contact details that help in the event of a problem while travelling.
-7.  Check if you need to do anything to prepare for [International Roaming](#international-roaming). Refer to the [International Roaming](#international-roaming) section.
+4.  Proceed directly to [Part Two](#part-two) of this process if you are national security cleared to SC or DV levels, **and** are planning to travel to or pass through one of the listed countries previously, even if you are not taking MoJ IT equipment or planning to access MoJ systems or services.
+5.  If you are subject to STRAP briefing and intend to travel to or through countries not in Western Europe, North America, Australia, or New Zealand, notify the STRAP team at [STRAPTeam@cluster2security.gov.uk](mailto:STRAPTeam@cluster2security.gov.uk) **and** proceed directly to [Part Two](#part-two) of this process.
+6.  If you have reached this step, you do not need to seek further formal approval for your trip.
+7.  Take a **non-physical copy** of this guidance; it includes useful contact details that help in the event of a problem while travelling.
+8.  Check if you need to do anything to prepare for [International Roaming](#international-roaming). Refer to the [International Roaming](#international-roaming) section.
 
 ### Part Two
 
