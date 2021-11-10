@@ -185,6 +185,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="physical-security-policy.dita" type="topic"/>
 			<topicref href="public-protest-and-demonstrations-policy.dita" type="topic"/>
 			<topicref href="security-in-the-office.dita" type="topic"/>
+			<topicref href="visitor-access-policy.dita" type="topic"/>
 		</topichead>
 		<topichead>
 			<topicmeta><navtitle>Equipment</navtitle></topicmeta>
