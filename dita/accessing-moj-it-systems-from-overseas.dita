@@ -4,9 +4,10 @@
 	<title>Accessing <ph conref="conrefs.dita#conrefs/mojlong"/> IT systems from overseas</title>
 	<body>
 		<p>This guidance information applies to all staff, contractors and agency staff who work for the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+		<note importance="high">You need to have business and HR approval before you can perform <ph conref="conrefs.dita#conrefs/moj"/> work from overseas. Before addressing the security requirements, ensure you have first reviewed and followed the overall business and HR requirements. More information about these can be found on the <xref href="https://intranet.justice.gov.uk/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Intranet</xref>.</note>
 		<note importance="high">If you are national security cleared to SC or DV levels,
 			or subject to STRAP briefing,
-			follow this process for all your trips,
+			follow this security guidance process for all your trips,
 			regardless of whether they are for business or personal reasons.</note>
 		<p>As a government official travelling overseas,
 			you should consider that you may be of interest to hostile parties regardless of your role.

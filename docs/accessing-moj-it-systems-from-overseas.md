@@ -2,7 +2,9 @@
 
 This guidance information applies to all staff, contractors and agency staff who work for the MoJ.
 
-**Note:** If you are national security cleared to SC or DV levels, or subject to STRAP briefing, follow this process for all your trips, regardless of whether they are for business or personal reasons.
+**Note:** You need to have business and HR approval before you can perform MoJ work from overseas. Before addressing the security requirements, ensure you have first reviewed and followed the overall business and HR requirements. More information about these can be found on the [MoJ Intranet](https://intranet.justice.gov.uk/).
+
+**Note:** If you are national security cleared to SC or DV levels, or subject to STRAP briefing, follow this security guidance process for all your trips, regardless of whether they are for business or personal reasons.
 
 As a government official travelling overseas, you should consider that you may be of interest to hostile parties regardless of your role. By following MoJ policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.
 
