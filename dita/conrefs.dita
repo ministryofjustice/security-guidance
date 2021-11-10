@@ -69,6 +69,7 @@
 			<ph id="policycannot"><b>CAN NOT</b></ph>
 			<ph id="policymandatory"><b>MANDATORY</b></ph>
 			<ph id="policymay"><b>MAY</b></ph>
+			<ph id="policymaynot"><b>MAY NOT</b></ph>
 			<ph id="policymight"><b>MIGHT</b></ph>
 			<ph id="policymust"><b>SHALL</b></ph>
 			<ph id="policymustnot"><b>SHALL NOT</b></ph>
