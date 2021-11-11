@@ -2,8 +2,6 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="patch-management-guide">
   <title>Patch Management Guide</title>
-  <topic id="introduction">
-    <title>Introduction</title>
     <body>
       <p>This guide explains the patching requirements for <ph conref="conrefs.dita#conrefs/mojlong"/>
         systems once a vulnerability has been identified.</p>
@@ -12,7 +10,6 @@
       <p>The intent is to avoid compromise of <ph conref="conrefs.dita#conrefs/moj"/> systems
         because of vulnerabilities.</p>
     </body>
-  </topic>
   <topic id="patching-of-moj-systems-and-equipment">
     <title>Patching of <ph conref="conrefs.dita#conrefs/moj"/> systems and equipment</title>
     <body>
@@ -52,8 +49,7 @@
         Some important or sensitive systems might need more urgent patching.
         For example, a system might need you to apply 'critical' or 'high risk' patches within 7 days.</p>
       <p>Where patching or other mitigation is required,
-        it must be applied in compliance with the Patching Schedule in this guide,
-        described <xref href="#patching-schedule" format="dita">below</xref>.</p>
+        it must be applied in compliance with the <xref href="#patching-schedule" format="dita">Patching Schedule</xref> in this guide.</p>
       <p>Operating systems and applications installed on systems must be:
         <ul>
           <li>Licensed and supported.</li>
@@ -101,11 +97,11 @@
       <ul>
         <li>The Beta development stage must include a mechanism or process for
           a new or updated service to track and apply patches.<!--
-          See the Software Development Lifecycle Guide for further details.--></li>
+          Refer to the Software Development Lifecycle Guide for further details.--></li>
         <li>Sufficient logs must be available from the new or updated service,
           so that security problems can be tracked from identification through to rectification.</li>
         <li>The patching process must also describe how to triage and action any problems.<!--
-          Please see the Software Development Lifecycle Guide for further details.--></li>
+          Please refer to the Software Development Lifecycle Guide for further details.--></li>
       </ul></p>
     </body>
   </topic>
@@ -297,11 +293,10 @@
         you must patch any vulnerabilities and common configuration errors identified,
         either through the <ph conref="conrefs.dita#conrefs/moj"/>'s
         <xref href="web-check.dita" format="dita">Web Check</xref> account
-        (see the <xref href="vulnerability-scanning-guide.dita" format="dita">Vulnerability
+        (refer to the <xref href="vulnerability-scanning-guide.dita" format="dita">Vulnerability
           Scanning Guide</xref> for details) or by any other means.
         You need to ensure that any vulnerabilities identified are remediated according to
-        Service Level Agreements (SLAs) in this guide
-        <xref href="#patching-schedule-service-level-agreement" format="dita">below</xref>.</p>
+        <xref href="#patching-schedule-service-level-agreement" format="dita">Service Level Agreements</xref> (SLAs) in this guide.</p>
     </body>
   </topic>
   <topic id="end-user-clients">
@@ -325,7 +320,7 @@
         Any infrastructure devices that are no longer licensed
         or whose vendors do not provide ongoing support,
         should be reviewed in line with the <ph conref="conrefs.dita#conrefs/moj"/>
-        patch management processes outlined below,
+        patch management processes outlined in this guidance,
         and where possible removed.
         If devices cannot be removed,
         then the issue should be raised through the patching exemptions process
@@ -343,15 +338,15 @@
         Applications include both traditional applications (tools) and services.</p>
         <p>Applications that are no longer licensed or whose vendors do not provide
           ongoing support should be reviewed and possibly removed.
-          Please see the <xref href="#patching-exemptions" format="dita">Patching
-            Exemptions section</xref> below for further information.</p>
+          Please refer to the following <xref href="#patching-exemptions" format="dita">Patching
+            Exemptions section</xref> for further information.</p>
         <p>Applications should be access-controlled to help prevent exploitation of
           any vulnerabilities.
           The level of access control must be matched to the level of risk to the
           service provided.
           For example,
           a finance server might have stronger access control than an email server.
-          See the <xref href="access-control-guide.dita" format="dita">Access
+          Refer to the <xref href="access-control-guide.dita" format="dita">Access
             Control Guide</xref> for further information.</p>
     </body>
   </topic>

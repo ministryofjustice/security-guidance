@@ -32,7 +32,7 @@
         For a comprehensive list of individual responsibilities,
         privileged users should refer to the system specific documentation.</p>
       <p>This page is the first in a series of guides for privileged users within the <ph conref="conrefs.dita#conrefs/moj"/>;
-        see related guides below.</p>
+        refer also to the related guides.</p>
     </body>
   </topic>
   <topic id="who-is-this-for">
@@ -65,7 +65,7 @@
   <topic id="related-guides">
     <title>Related guides</title>
     <body>
-      <p>For further details about privileged user responsibilities, see the guides below.</p>
+      <p>For further details about privileged user responsibilities, refer to the following guides.</p>
       <ul>
         <li>The <xref href="privileged-account-management-guide.dita" format="dita">Privileged Account Management Guide</xref>
           provides the guidelines to ensure that privileged accounts are securely managed.
@@ -99,12 +99,12 @@
         <li>The password for a privileged user account must not be re-used for another privileged user account or a normal user account.</li>
         <li>Privileged user passwords must be deleted along with the account when a privileged user leaves the <ph conref="conrefs.dita#conrefs/moj"/> or changes role.</li>
         <li>Multi Factor Authentication (MFA) must be used for privileged user accounts where possible.
-          See the <xref href="password-creation-and-authentication-guide.dita" format="dita">Password Guide</xref> for further details.</li>
+          Refer to the <xref href="password-creation-and-authentication-guide.dita" format="dita">Password Guide</xref> for further details.</li>
         <li>Privileged user accounts must only be used when carrying out administrative tasks such as creating new user accounts or implementing software updates. At all other times a normal user account must be used, e.g. for tasks such as searching the internet and reading emails.</li>
         <li>Privileged user accounts on depreciated systems must be reviewed quarterly by system owners for breach as aging systems frequently cannot be, or are not, patched leaving them vulnerable to take over.</li>
         <li>Privileged users must not abuse the privileges they are given, such as circumventing controls put in place to protect the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
       </ul></p>
-      <p>For further information on managing privileged user accounts see the <xref href="privileged-user-configuration-patching-and-change-management-guide.dita" format="dita">Privileged User Configuration, Patching and Change Management Guide</xref>.</p>
+      <p>For further information on managing privileged user accounts refer to the <xref href="privileged-user-configuration-patching-and-change-management-guide.dita" format="dita">Privileged User Configuration, Patching and Change Management Guide</xref>.</p>
     </body>
   </topic>
   <topic id="resource-monitoring">
@@ -143,7 +143,7 @@
         <li>Identify the root cause of excessive resource use and rectifying the issue when possible.
           If an issue cannot be rectified quickly,
           it should be reported to the system owner.</li>
-        <li>Notify the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/servicedesk"/> if there is a suspected incident (see <xref href="#incidents-and-contact-details" format="dita">below</xref> for contact details).</li>
+        <li>Notify the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/servicedesk"/> if there is a suspected incident (refer to the <xref href="#incidents-and-contact-details" format="dita">contact details</xref>).</li>
       </ul></p>
     </body>
   </topic>
@@ -160,7 +160,7 @@
         <li>Review user account usage every 90 days.
           If an account is dormant,
           the privileged user must investigate its status and suspend the account if appropriate.
-          See the <xref href="access-control-guide.dita" format="dita">Access Control Guide</xref> for details.</li>
+          Refer to the <xref href="access-control-guide.dita" format="dita">Access Control Guide</xref> for details.</li>
         <li>Disable all user and privileged user accounts when staff members leave the <ph conref="conrefs.dita#conrefs/moj"/>,
           or where the account is not required due to a change of role.
           Privileged users will be automatically notified by HR when access changes or revocations are required.</li>

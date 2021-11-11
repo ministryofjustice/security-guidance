@@ -108,7 +108,7 @@
             <p>The appeal officer provides a report and recommendation to the Permanent Secretary within 15 working days of all enquiries being completed.</p>
           </li>
           <li>
-            <p>Where, for operational or management reasons, any of the above timescales cannot be met, the appellant <ph conref="conrefs.dita#conrefs/policyshould"/> be notified and, where possible, a revised timescale <ph conref="conrefs.dita#conrefs/policyshould"/> be set. Similarly, where the appellant is unable to meet the timescales, the appeal officer <ph conref="conrefs.dita#conrefs/policyshould"/> be notified and, where possible, a revised timescale <ph conref="conrefs.dita#conrefs/policycan"/> be agreed.</p>
+            <p>Where, for operational or management reasons, any of the previous timescales cannot be met, the appellant <ph conref="conrefs.dita#conrefs/policyshould"/> be notified and, where possible, a revised timescale <ph conref="conrefs.dita#conrefs/policyshould"/> be set. Similarly, where the appellant is unable to meet the timescales, the appeal officer <ph conref="conrefs.dita#conrefs/policyshould"/> be notified and, where possible, a revised timescale <ph conref="conrefs.dita#conrefs/policycan"/> be agreed.</p>
           </li>
         </ol>
         <p>On receipt of the report, the Permanent Secretary is responsible for making the final decision. In reaching a final decision, they <ph conref="conrefs.dita#conrefs/policyshould"/> consider:</p>
@@ -164,7 +164,7 @@
               </li>
             </ol>
           </dd>
-          <dd>If you are not sure that you have a right to appeal, see the Vetting Appeals Guidance.</dd>
+          <dd>If you are not sure that you have a right to appeal, refer to the Vetting Appeals Guidance.</dd>
         </dlentry>
         <dlentry>
           <dt>Where should the form be sent?</dt>
@@ -213,7 +213,7 @@
             <dd> </dd>
           </dlentry>
         </dl>
-        <p>Please confirm you are content to receive correspondence by email at the email address you have provided above:</p>
+        <p>Please confirm you are content to receive correspondence by email at the email address you have provided here:</p>
         <p id="yes-no">YES / NO</p>
         <p>If no, please let us know where you would like correspondence sent?</p>
         <p id="blank-space">     </p>
@@ -239,7 +239,7 @@
     <topic id="part-c-declaration">
       <title>PART C: Declaration</title>
       <body>
-        <p>I declare the information given above is true and complete to the best of my knowledge and belief.</p>
+        <p>I declare the information given here is true and complete to the best of my knowledge and belief.</p>
         <p>Signature of appellant:</p>
         <p conref="#part-a-your-details/blank-space"/>
       </body>

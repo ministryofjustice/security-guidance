@@ -11,7 +11,7 @@ Pre-employment screening procedures are required for all people applying for pos
 * [Directly employed staff](/guidance/hr/recruitment/security-vetting/directly-employed-staff/).
 * [Staff transferring from Other Government Departments (OGD Transfers)](/guidance/hr/recruitment/ogd-transfers-within-civil-service/).
 
-**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##FAQs
 

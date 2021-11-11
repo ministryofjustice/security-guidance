@@ -44,6 +44,17 @@
       <p>A Data Protection Impact Assessment (DPIA, formerly commonly known as a Privacy Impact Assessment or PIA) is required for all projects. There are some <xref href="https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/exemptions/" format="html" scope="external">exceptions described by the ICO</xref>.</p>
     </body>
   </topic>
-	<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="data-privacy">
+    <title>Data privacy</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/privacyemailtext"/> provides
+      services,
+      guidance,
+      and support for all aspects of data privacy and protection.</p>
+      <p>For example,
+      they have <xref href="acceptable-use-policy.dita#data-protection-acceptable-use-protocols-and-standard-operating-procedures/data-protection-acceptable-use-protocols-and-standard-operating-procedures" format="dita" platform="html">protocols and procedures</xref><xref href="acceptable-use-policy.dita#data-protection-acceptable-use-protocols-and-standard-operating-procedures" format="dita" platform="pdf epub">protocols and procedures</xref> to help ensure acceptable use of personal information.</p>
+    </body>
+  </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

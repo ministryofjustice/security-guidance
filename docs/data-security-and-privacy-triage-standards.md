@@ -1,6 +1,6 @@
 # Data Security & Privacy Triage Standards
 
-Below are a series of common area guides from Ministry of Justice \(MoJ\) Digital & Technology Triage Standards.
+Following are a series of common area guides from Ministry of Justice \(MoJ\) Digital & Technology Triage Standards.
 
 ## Purposeful Capture of Data
 

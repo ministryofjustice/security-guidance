@@ -9,17 +9,17 @@
 -   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   `CONFIDENTIAL`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   `CONFIDENTIAL`, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 -   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS2 \(HMG Infosec Standard 2 Information Risk Management\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS2 \(HMG Infosec Standard 2 Information Risk Management\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   ITSO \(Information Technology Security Officer\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   `RESTRICTED`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
+-   `RESTRICTED`, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## About this document
 
@@ -103,7 +103,7 @@ ITSIM is a combination of people, plans and predefined processes which enables t
 |MoJ Senior Managers|MoJ Senior Managers hold a position of responsibility and can form part of the decision making process during the management of a live IT security incident. MoJ Senior Managers must ensure that all IT security incidents or personal data breaches are taken seriously and sufficiently investigated, and where necessary, corrective, disciplinary and or legal proceedings are actively pursued.
 
 |
-|Senior Information Risk Owner \(SIRO\)|MoJ Business Group SIROs are responsible for implementing and managing information risk in their respective business groups and, reviewing the application of policy and guidance regularly thereafter to ensure it remains appropriate to their business objectives and risk environment. In the context of ITSIM, the SIRO forms part of the escalation path where incidents which are categorised as having a high impact or involve personal data \(see [here](#categorisation-of-incidents)\) are reported to the SIRO as a matter of course. They are also responsible for ensuring that their business group has an ITSIM plan.
+|Senior Information Risk Owner \(SIRO\)|MoJ Business Group SIROs are responsible for implementing and managing information risk in their respective business groups and, reviewing the application of policy and guidance regularly thereafter to ensure it remains appropriate to their business objectives and risk environment. In the context of ITSIM, the SIRO forms part of the escalation path where incidents which are categorised as having a high impact or involve personal data \(refer [here](#categorisation-of-incidents)\) are reported to the SIRO as a matter of course. They are also responsible for ensuring that their business group has an ITSIM plan.
 
 |
 |Information Asset Owner \(IAO\)|IAOs are senior individuals involved in running business units. Their role is to understand what information is held, what is added and what is removed, how information is moved, and who has access and why. MoJ IAOs must understand and address risks to the information, and ensure that information is fully used within the relevant laws, and provide written input and assurance to the SIRO annually on the security and use of their asset. They will be informed of any security incidents which compromise any information assets under their ownership.|
@@ -122,7 +122,7 @@ ITSIM is a combination of people, plans and predefined processes which enables t
 
 ### Lifecycle
 
-ITSIM follows a typical risk management lifecycle \(see Figure 1\) based around:
+ITSIM follows a typical risk management lifecycle \(refer to Figure 1\) based around:
 
 -   Preparation and planning;
 
@@ -139,7 +139,7 @@ The remainder of this guide explores each of these three components and provides
 
 ## Preparation and planning
 
-The core of ITSIM is preparation and planning, the plan itself needs to be developed mindful of the environment an IT system operates in including the business context. Figure 2 below represents the flow required to develop and implement an ITSIM plan.
+The core of ITSIM is preparation and planning, the plan itself needs to be developed mindful of the environment an IT system operates in including the business context. Figure 2 following represents the flow required to develop and implement an ITSIM plan.
 
 ![Preparation and Planning](images/incident-management-plan-and-process-guide-diagram-2.png)
 
@@ -151,8 +151,8 @@ A good ITSIM plan requires a good understanding of the business, the information
 
 |Input|Role|
 |Business Impact Assessment \(BIA\)|The BIA provides the core rational on how the business views the impact to their information assets and services from a loss of Confidentiality, Integrity or Availability. Where this is useful in the development of an ITSIM plan is that the BIA provides a steer on what types of incidents result in the highest impact to the business and how tolerant the business is to a loss of service provision.|
-|Incident Categorisation|The [IT Security – IT Incident Management Policy](it-incident-management-policy.md) and this guide \(see [here](#categorisation-of-incidents)\) provides a generic incident categorisation schema. This generic scheme should be used to develop final schema contained within the ITSIM plan. The aim at this phase of developing the ITSIM plan is to: -   Explore the different types of incidents which could or have occurred. For example a good starting point is a review of relevant system RMADS to identify possible incident types.
--   Compare the incident types identified with the information assets and services which could be impacted and broadly align each type to impact category \(high impact, medium impact or low impact, see [here](#categorisation-of-incidents) for further details on the response level for each category\).
+|Incident Categorisation|The [IT Security – IT Incident Management Policy](it-incident-management-policy.md) and this guide \(refer [here](#categorisation-of-incidents)\) provides a generic incident categorisation schema. This generic scheme should be used to develop final schema contained within the ITSIM plan. The aim at this phase of developing the ITSIM plan is to: -   Explore the different types of incidents which could or have occurred. For example a good starting point is a review of relevant system RMADS to identify possible incident types.
+-   Compare the incident types identified with the information assets and services which could be impacted and broadly align each type to impact category \(high impact, medium impact or low impact, refer [here](#categorisation-of-incidents) for further details on the response level for each category\).
 
 |
 |Incident Detection|It is unlikely that an ITSIM plan will be developed in isolation and the IT systems which fall under the scope of the plan will have security controls and procedures which directly or in-directly support incident detections, for example an anti-virus client or intrusion detection system \(IDS\).|
@@ -166,7 +166,7 @@ Before implementing an ITSIM plan, it is generally good practice to test out as 
 
 ### Implementing the plan
 
-Table 3 below provides a list of the main outputs required to implement an ITSIM plan.
+Table 3 following provides a list of the main outputs required to implement an ITSIM plan.
 
 |Outputs|Role|
 |IT Security Incident Management Plan|Though obvious, a final released version of the ITSIM plan is the primary output. It must be approved by the business group SIRO and ITSO. It must be released to all Users and stakeholders identified in the plan.|
@@ -272,7 +272,7 @@ This database and the effective reporting of security incidents which populate i
 
 Incidents need to be categorised to assess their impact and the required level of escalation and reporting. This is mainly done to manage resources and make investigations cost effective. The initial assessment for all IT security incidents will be made by the OST with support from the ITSO and the relevant system Accreditor as required. The assessment will be in terms of the potential impact of the incident with each incident categorised in terms of Low, Medium or High impact.
 
-The three sub-sections below provides a description for each category, it is expected that the business group ITSIM plan will contain a tailored version of this description and confirm the escalation route which will be followed.
+The three following sub-sections provide a description for each category. It is expected that the business group ITSIM plan will contain a tailored version of this description and confirm the escalation route which will be followed.
 
 #### Low Impact Incident
 
@@ -280,7 +280,7 @@ These would typically be minor such as low level breaches in security through an
 
 A low impact personal data incident would typically include an incident where no loss has occurred but a weakness in a system may potentially have led to a loss, and with a small amount of remedial action the weakness in a process can easily be addressed.
 
-Incident categorised as low will be typically managed by the MoJ OST who will engage with the relevant parties within the business and IT supplier community to resolve the incident. Any escalation \(see Figure 4\) will be predominantly to the level of the MoJ ITSO and relevant system Accreditor.
+Incident categorised as low will be typically managed by the MoJ OST who will engage with the relevant parties within the business and IT supplier community to resolve the incident. Any escalation \(refer to Figure 4\) will be predominantly to the level of the MoJ ITSO and relevant system Accreditor.
 
 #### Medium Impact Incident
 
@@ -341,7 +341,7 @@ Examples of incidents requiring this level include \(but are not limited to\):
 
 -   The loss of a MoJ, or suppliers, site at which processing and storage of MoJ information takes place for more than one working day;
 
--   The theft or loss of MoJ protectively marked information which could include CONFIDENTIAL and above, or a significant quantity of RESTRICTED material.
+-   The theft or loss of MoJ protectively marked information which could include CONFIDENTIAL and higher, or a significant quantity of RESTRICTED material.
 
 
 It is highly likely that an incident of this magnitude would require the MoJ ITSO to instigate a forensic investigation and start collecting evidence.
@@ -415,13 +415,13 @@ IT security incident statistics must be presented in conjunction with an assessm
 |Overview|
 |MoJ Business Group|\[Enter the name of the MoJ Business Group.\]|
 |System Description and Scope|\[This section must describe the scope of the ITSIM plan. Diagrams may prove useful where there is a complex interaction between systems and business processes covered by this plan.\]|
-|Escalation Path|\[This section must describe the escalation path for an IT security incident \(see Figure 4\).\]|
+|Escalation Path|\[This section must describe the escalation path for an IT security incident \(refer to Figure 4\).\]|
 |Incident Categorisation|
-|Low Impact Incident|Description|\[Provide a description of what a Low impact incident constitutes; see [here](#low-impact-incident) for further details.\]|
+|Low Impact Incident|Description|\[Provide a description of what a Low impact incident constitutes; refer [here](#low-impact-incident) for further details.\]|
 ||Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
-|Medium Impact Incident|Description|\[Provide a description of what a Medium impact incident constitutes; see [here](#medium-impact-incident) for further details.\]|
+|Medium Impact Incident|Description|\[Provide a description of what a Medium impact incident constitutes; refer [here](#medium-impact-incident) for further details.\]|
 ||Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
-|High Impact Incident|Description|\[Provide a description of what a High impact incident constitutes; see [here](#high-impact-incident) for further details.\]|
+|High Impact Incident|Description|\[Provide a description of what a High impact incident constitutes; refer [here](#high-impact-incident) for further details.\]|
 ||Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
 |Plan Approval|
 |Business Group SIRO|\[Enter the name of the Business Group SIRO\] \[DATE OF APPROVAL\]|

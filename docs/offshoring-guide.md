@@ -1,5 +1,10 @@
 # Offshoring Guide
 
+**Related information**  
+
+
+[Technical Controls Policy](technical-controls-policy.md)
+
 ## Legacy information
 
 **Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
@@ -9,17 +14,17 @@
 -   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   `CONFIDENTIAL`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   `CONFIDENTIAL`, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 -   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS2 \(HMG Infosec Standard 2 Information Risk Management\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS2 \(HMG Infosec Standard 2 Information Risk Management\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   ITSO \(Information Technology Security Officer\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   `RESTRICTED`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
+-   `RESTRICTED`, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Introduction
 
@@ -49,7 +54,7 @@ Offshore projects may also fall foul of more pedestrian but no less severe risks
 
 #### Risk to "UK PLC"
 
-Many MoJ information systems handle HMG Protectively Marked and/or personal and sensitive personal data. These add a number of specific risks over-and-above the more usual project risks. Local data protection laws may not provide an appropriate level of legal protection, for the data or data subjects involved, against rogue individuals and criminal groups who misappropriate personal data. This may be more of a problem for countries outside of the European Economic Area \(EEA\), where the legal framework may not be familiar. Commercially sensitive information may be similarly at risk. Political instability may lead to facilities being over-run, which as well as having business continuity implications may also have severe consequences from potential disclosure of Protectively Marked information. Also, organised criminals are able to operate more actively and openly in some overseas jurisdictions. Such activity may be driven by political or economic advantage. It is not only the physical site but also application development that can present a risk to data. A vulnerability or backdoor, engineered into an application either maliciously or inadvertently, could be used to leak information over an extended period or even indefinitely without being identified. The [Open Web Application Security Project \(OWASP\)](http://www.owasp.org) presents a list of common vulnerabilities that occur due to careless programming and ineffectual testing. Deliberately engineered vulnerabilities and backdoors are considerably more difficult to identify and address.
+Many MoJ information systems handle HMG Protectively Marked and/or personal and sensitive personal data. These add a number of specific risks exceeding the more usual project risks. Local data protection laws may not provide an appropriate level of legal protection, for the data or data subjects involved, against rogue individuals and criminal groups who misappropriate personal data. This may be more of a problem for countries outside of the European Economic Area \(EEA\), where the legal framework may not be familiar. Commercially sensitive information may be similarly at risk. Political instability may lead to facilities being over-run, which as well as having business continuity implications may also have severe consequences from potential disclosure of Protectively Marked information. Also, organised criminals are able to operate more actively and openly in some overseas jurisdictions. Such activity may be driven by political or economic advantage. It is not only the physical site but also application development that can present a risk to data. A vulnerability or backdoor, engineered into an application either maliciously or inadvertently, could be used to leak information over an extended period or even indefinitely without being identified. The [Open Web Application Security Project \(OWASP\)](http://www.owasp.org) presents a list of common vulnerabilities that occur due to careless programming and ineffectual testing. Deliberately engineered vulnerabilities and backdoors are considerably more difficult to identify and address.
 
 #### Personnel Risks
 
@@ -66,7 +71,7 @@ The scope of offshoring is a broad one. This may involve, for example:
 -   Remote managed services for wholesale provision of MoJ capabilities from non-UK locations and/or by non-UK Nationals.
 -   Other provision of support to the MoJ from non-UK locations and/or by non-UK Nationals.
 
-The scenarios which are to be treated as offshoring are set out in the bulleted list below. This is not necessarily an exhaustive list; in case of uncertainty please contact MoJ IT IA for advice: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+The scenarios which are to be treated as offshoring are set out in the following bulleted list. This is not necessarily an exhaustive list; in case of uncertainty please contact MoJ IT IA for advice: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 -   **Captive centres**
 
@@ -146,7 +151,7 @@ The requirement for early and ongoing engagement with the MoJ Accreditor and MoJ
 
 Before any sensible dialogue can be had around whether or not offshoring is acceptable, the value of the assets to be offshored and the threats for the offshore location and/or personnel must be properly understood. Asset valuation and threat assessment must therefore be conducted as an upfront activity for any proposal, and will require early engagement with all interested parties. Risk assessment must be conducted as an initial activity, and regularly revisited as the project progresses. All threat assessment and risk assessment activities will need to be conducted in collaboration between the supplier as risk manager, and the MoJ as the owner of the threat and the risk.
 
-[REQUIREMENT 3](#requirement-3): All MoJ assets and/or activities to be offshored must be identified, and a Threat Assessment for those assets/activities at the proposed offshore location carried out. This includes not only physical and software assets but also information and service assets. The value and business impact of compromise for each information asset must be determined against the [HMG Business Impact Table and MoJ Business Impact guidelines](https://www.ncsc.gov.uk/guidance/technical-risk-assessment-and-risk-treatment-is1-2-supplement); valuations must be agreed with the Information Asset Owner for each asset. A Privacy Impact Assessment \(PIA\) is also required, as discussed further in [REQUIREMENT 5](#requirement-4-and-requirement-5) below.
+[REQUIREMENT 3](#requirement-3): All MoJ assets and/or activities to be offshored must be identified, and a Threat Assessment for those assets/activities at the proposed offshore location carried out. This includes not only physical and software assets but also information and service assets. The value and business impact of compromise for each information asset must be determined against the [HMG Business Impact Table and MoJ Business Impact guidelines](https://www.ncsc.gov.uk/guidance/technical-risk-assessment-and-risk-treatment-is1-2-supplement); valuations must be agreed with the Information Asset Owner for each asset. A Privacy Impact Assessment \(PIA\) is also required, as discussed further in the following [REQUIREMENT 5](#requirement-4-and-requirement-5).
 
 The set of assets to be offshored not only includes any specific capabilities to be developed or managed, but will also include any incidental assets which are required to support these activities. For example:
 
@@ -154,7 +159,7 @@ The set of assets to be offshored not only includes any specific capabilities to
 
 -   Some development activities may be deemed to require real or anonymised data, rather than fully synthetic test data, to ensure the robustness of critical applications or to test revised applications against historical data from extant capabilities.
 
-    Wherever it is considered that there may be a requirement to use real or anonymised data, rather than synthetic data, the MoJ "Policy on the use of live personal data for the testing of IT systems, processes or procedures" must be complied with. For more information, see [this guidance](using-live-data-for-testing-purposes.md).
+    Wherever it is considered that there may be a requirement to use real or anonymised data, rather than synthetic data, the MoJ "Policy on the use of live personal data for the testing of IT systems, processes or procedures" must be complied with. For more information, refer to [this guidance](using-live-data-for-testing-purposes.md).
 
 -   Effective application development may require knowledge of real configuration information to support pre-integration-testing activities, or of broader MoJ network infrastructure designs in order to tailor and optimise development. Some of this information may attract a Protective Marking or have other particular sensitivities. The information shared with offshore developers should be minimised to the fullest extent that is possible.
 
@@ -165,13 +170,13 @@ The set of assets to be offshored not only includes any specific capabilities to
 
 It is the policy of the MoJ that Protectively Marked or otherwise sensitive MoJ assets, and development or support activities relating to these assets, should not be offshored to Countries where Special Security Regulations Apply, or to Countries in which there is a Substantial Security Threat to British Interests. The MoJ ITSO can provide further details of these, on a need-to-know basis, in response to specific requests. It is the policy of the MoJ that activities involving Protectively Marked or otherwise sensitive MoJ information should not be offshored to these locations. In cases where there is an exceptionally compelling business case for offshoring to one of these locations, the MoJ ITSO must be consulted and will advise the business on suitability, weighing up all of the relevant factors and assessing the extent to which the proposed compensating controls mitigate the risk.
 
-[REQUIREMENT 5](#requirement-4-and-requirement-5): MoJ assets and/or activities should not be offshored to countries where political stability, practical considerations and/or legal issues \(e.g. compliance with the DPA\) may result in a significantly-above-baseline risk to the confidentiality, integrity and/or availability of Protectively Marked or other sensitive data, or where there is not an adequate level of protection for the rights of data subjects in relation to their personal data.
+[REQUIREMENT 5](#requirement-4-and-requirement-5): MoJ assets and/or activities should not be offshored to countries where political stability, practical considerations and/or legal issues \(e.g. compliance with the DPA\) may result in a significantly-beyond-baseline risk to the confidentiality, integrity and/or availability of Protectively Marked or other sensitive data, or where there is not an adequate level of protection for the rights of data subjects in relation to their personal data.
 
-Not all countries which have issues with political and/or economic instability are listed as CSSRA or Substantial Security Threat countries. There are several other countries that are not on the list which nonetheless present a high risk for offshore development and operations. These countries should be avoided on the general principle of avoiding development environments where the local threat is significantly above baseline. Also, as discussed above, the CSSRA and the list of Substantial Security Threat countries change from time to time. By not offshoring in unstable locations, the risk of outsourcing to a country that subsequently ends up on one of these lists is reduced.
+Not all countries which have issues with political and/or economic instability are listed as CSSRA or Substantial Security Threat countries. There are several other countries that are not on the list which nonetheless present a high risk for offshore development and operations. These countries should be avoided on the general principle of avoiding development environments where the local threat is significantly more than baseline. Also, as discussed previously, the CSSRA and the list of Substantial Security Threat countries change from time to time. By not offshoring in unstable locations, the risk of outsourcing to a country that subsequently ends up on one of these lists is reduced.
 
-In addition to the above, there are some politically stable locations where it is nonetheless difficult or impossible to meet other essential requirements for the handling of Protectively Marked or other sensitive data \(e.g. personal data\). Inability to assure the identity and history of personnel, and local legislation on disclosure of data \(for example, in response to local FoI or law enforcement obligations\), are common examples which can lead to issues with screening and with retaining control of information.
+In addition to the previous points, there are some politically stable locations where it is nonetheless difficult or impossible to meet other essential requirements for the handling of Protectively Marked or other sensitive data \(e.g. personal data\). Inability to assure the identity and history of personnel, and local legislation on disclosure of data \(for example, in response to local FoI or law enforcement obligations\), are common examples which can lead to issues with screening and with retaining control of information.
 
-In addition to countries with political and/or economic issues, as discussed above, there may also be threats and risks as a result of other nations' legal systems. Legal constraints in some countries may:
+In addition to countries with political and/or economic issues, as discussed previously, there may also be threats and risks as a result of other nations' legal systems. Legal constraints in some countries may:
 
 -   Conflict with IA requirements under the HMG SPF and supporting guidance;
 
@@ -204,7 +209,7 @@ The MoJ is responsible for all offshore activities that are being conducted on i
 
 Ownership of all information assets, and all Intellectual Property Rights, developed as part of MoJ contracts must flow up to the MoJ. All MoJ information, including vestidual information, which is held on a supplier's physical assets, must be erased and/or disposed of to the satisfaction of MoJ IT IA during decommissioning. Again, legal limitations on the enforceability of contractual conditions in some locations must be taken into account and specialist legal advice will be required to ensure that all necessary contractual conditions are enforceable at offshore development locations.
 
-The above issues with contractual flow-down of responsibilities and flow-up of ownership are best managed if the MoJ retains control of the subcontract chain. Ideally, wherever practicable, MoJ supplier contracts should only allow further subcontracts to be let with the explicit permission of the MoJ. This enables the cost and complexity of due-diligence checking and contractual enforcement, not just for offshoring considerations but also more generally, to be more effectually bounded and controlled.
+The previous issues with contractual flow-down of responsibilities and flow-up of ownership are best managed if the MoJ retains control of the subcontract chain. Ideally, wherever practicable, MoJ supplier contracts should only allow further subcontracts to be let with the explicit permission of the MoJ. This enables the cost and complexity of due-diligence checking and contractual enforcement, not just for offshoring considerations but also more generally, to be more effectually bounded and controlled.
 
 [REQUIREMENT 8](#requirement-8): Suppliers must ensure that offshore development is conducted according to UK and other relevant IA standards and legislation.
 
@@ -220,7 +225,7 @@ Testing, including security testing, must be conducted at every stage of the dev
 
 Some applications which are deemed to be relatively low value in themselves may be used to handle information with a significantly higher value, or may be able to easily access sensitive information \(for example, other information within the same business domain or information that is directly accessible from connections to servers in other business domains\). Additional code review must also be conducted as part of the development testing of these applications, with particular emphasis on Security Enforcing elements of the application. In some cases, the MoJ Accreditor and the IA Team may require the use of automated test tools and/or line-by-line code review for elements of the application to be conducted by UK Security Cleared personnel at onshore locations.
 
-In some cases, the additional testing overhead required will outweigh the benefits gained by offshoring. This is most likely for particularly complex and/or sensitive applications. Back-doors and vulnerabilities become increasingly easy to engineer \(either deliberately or accidentally\) for complex applications, and increasingly difficult to identify. Based on experience, it is likely that suppliers will underestimate the true time and expense that would be necessary to test complex applications. It is important that supplier proposals are realistic about the benefits of any offshoring elements of the proposals, and have accommodated realistic costs for testing to address offshoring risks. Where test costs are not realistic, this does not represent a cost saving for the MoJ. If the supplier is not making an acceptable profit on a contract, then relationships between the supplier and the MoJ will undoubtedly deteriorate. The supplier is likely to try to recoup losses by streamlining test processes \(driving operational risk\); by reclaiming costs from elsewhere \(driving project cost\); or by delivering below expectations or not at all \(driving project risk\). Such unrealistic proposals should be either corrected or rejected during supplier selection and contract award.
+In some cases, the additional testing overhead required will outweigh the benefits gained by offshoring. This is most likely for particularly complex and/or sensitive applications. Back-doors and vulnerabilities become increasingly easy to engineer \(either deliberately or accidentally\) for complex applications, and increasingly difficult to identify. Based on experience, it is likely that suppliers will underestimate the true time and expense that would be necessary to test complex applications. It is important that supplier proposals are realistic about the benefits of any offshoring elements of the proposals, and have accommodated realistic costs for testing to address offshoring risks. Where test costs are not realistic, this does not represent a cost saving for the MoJ. If the supplier is not making an acceptable profit on a contract, then relationships between the supplier and the MoJ will undoubtedly deteriorate. The supplier is likely to try to recoup losses by streamlining test processes \(driving operational risk\); by reclaiming costs from elsewhere \(driving project cost\); or by delivering less than expected or not at all \(driving project risk\). Such unrealistic proposals should be either corrected or rejected during supplier selection and contract award.
 
 ### Use of Landed Resources
 
@@ -234,7 +239,7 @@ Even confirming an individual's true identity may be problematic in some non-EU 
 
 Personal and employers' references are used, partly to support confirmation of identity, and partly to enable checking of an individual's reliability, integrity and honesty. Criminal records declarations and supporting criminal records checks are also used as part of BPSS clearance. Criminal record checks for UK citizens are generally comprehensive and accurate. However, the accuracy of police and criminal records checks varies widely between different countries. The CPNI has compiled [information on such checks for a reasonably broad set of overseas jurisdictions](https://www.cpni.gov.uk/search?query=criminal%20record%20check%20overseas). The CPNI documentation also provides useful information on the reliability of identify checks overseas. A risk-balance decision by the SIRO is likely to be required on whether to accept the additional BPSS vetting risk for the offshore workforce.
 
-To compensate for any shortcomings or uncertainty in vetting, landed resources brought to the UK are likely to require a heightened level of monitoring and supervision, as well as additional technical measures to limit and audit their physical and logical access to HMG information systems. HMG information systems to which landed resources have access must be locked down and supported by tight access controls over-and-above the usual HMG baseline.
+To compensate for any shortcomings or uncertainty in vetting, landed resources brought to the UK are likely to require a heightened level of monitoring and supervision, as well as additional technical measures to limit and audit their physical and logical access to HMG information systems. HMG information systems to which landed resources have access must be locked down and supported by tight access controls exceeding the usual HMG baseline.
 
 Where higher levels of clearance such as SC are required it may not be possible for a specific landed resource to achieve the required level of clearance, or there may be prohibitive conditions on the individual's clearance. In those cases, the specific landed resource must not be used. For example, a non-UK National who has been within the UK for a sufficiently long period of time may be able to obtain an SC clearance. However, if a role requires handling of UK Eyes Only material, then the prohibitions on the SC clearance for that non-UK national would make them inappropriate to use for that role.
 
@@ -242,7 +247,7 @@ In exceptional circumstances, the use of landed resources from countries where S
 
 ## Assessment Activities
 
-Every offshoring decision must be made on a case-by-case basis, after balancing all of the facts of the situation. The project activities required to ensure this are set out below.
+Every offshoring decision must be made on a case-by-case basis, after balancing all of the facts of the situation. The project activities required to ensure this are set out as follows.
 
 ### REQUIREMENT 1 and REQUIREMENT 2
 
@@ -260,7 +265,7 @@ MoJ Project Team:
 
 -   Understand and advise the SIRO of any requirement that may exist for a submission to the Cabinet Office IA Delivery Group. Prepare any required submission on behalf of the SIRO, for approval.
 
--   Ensure that the operational assessment and investment appraisal of competing supplier proposals factors in the additional MoJ IT IA effort requirement to address offshore elements of the proposal, as per [Requirement 11](#requirement-11) below.
+-   Ensure that the operational assessment and investment appraisal of competing supplier proposals factors in the additional MoJ IT IA effort requirement to address offshore elements of the proposal, as per the following [Requirement 11](#requirement-11).
 
 -   Reject any bids that do not meet IA, DACU or Legal requirements for offshoring.
 
@@ -673,14 +678,14 @@ MoJ Procurement:
 
 All:
 
--   As per [Requirement 7](#requirement-7), above.
+-   As per the previous [Requirement 7](#requirement-7).
 
 
 #### In-Service & Beyond
 
 All:
 
--   As per [Requirement 7](#requirement-7), above.
+-   As per the previous [Requirement 7](#requirement-7).
 
 
 ### REQUIREMENT 9 and REQUIREMENT 10
@@ -850,7 +855,7 @@ MoJ Service Management:
 
 [http://www.owasp.org](http://www.owasp.org)
 
-Wherever it is considered that there may be a requirement to use real or anonymised data, rather than synthetic data, the MoJ "Policy on the use of live personal data for the testing of IT systems, processes or procedures" must be complied with. For more information, see [this guidance](using-live-data-for-testing-purposes.md).
+Wherever it is considered that there may be a requirement to use real or anonymised data, rather than synthetic data, the MoJ "Policy on the use of live personal data for the testing of IT systems, processes or procedures" must be complied with. For more information, refer to [this guidance](using-live-data-for-testing-purposes.md).
 
 A particular consideration for offshoring is DPA Principle 8: "Personal data shall not be transferred to a country or territory outside the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data."
 

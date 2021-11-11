@@ -1,5 +1,10 @@
 # System Lockdown and Hardening Standard
 
+**Related information**  
+
+
+[Technical Controls Policy](technical-controls-policy.md)
+
 ## Legacy information
 
 **Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
@@ -9,17 +14,17 @@
 -   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   `CONFIDENTIAL`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   `CONFIDENTIAL`, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 -   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS2 \(HMG Infosec Standard 2 Information Risk Management\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS2 \(HMG Infosec Standard 2 Information Risk Management\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
+-   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   ITSO \(Information Technology Security Officer\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   `RESTRICTED`, an older information classification marking, see [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), see the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
+-   `RESTRICTED`, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Overview
 
@@ -45,9 +50,9 @@ The CESG Information Assurance Maturity Model \(IAMM\) sets out the minimum matu
 
 ## Generic hardening standard
 
-Table 1 below provides a generic set of hardening procedures designed to guide IT system development and supplement the [IT Security – Technical Controls Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/).
+Table 1 following provides a generic set of hardening procedures designed to guide IT system development and supplement the [IT Security – Technical Controls Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/).
 
-Those configuring MoJ IT systems must consider additional sources of reference such as the Government Assurance Pack \(GAP\) for MS Windows based systems; Microsoft TechNet and NIST to ensure that specific systems \(e.g. SQL server or a UNIX based server\) are built to a secure standard. A selection of external reference sources can be found below.
+Those configuring MoJ IT systems must consider additional sources of reference such as the Government Assurance Pack \(GAP\) for MS Windows based systems; Microsoft TechNet and NIST to ensure that specific systems \(e.g. SQL server or a UNIX based server\) are built to a secure standard. A selection of external reference sources can be found in this guidance.
 
 Where this standard provides a generic set of hardening procedures, The MoJ Security Architecture Framework provides a set of vendor and system specific hardening guides which have been approved for use in MoJ IT systems.
 
@@ -105,7 +110,7 @@ Table 1 is split into 5 sections:
 |Login failure logging|Failed logins must be logged after the 1st failed attempt.|
 |Automatic log in|Any automatic log in feature must be disabled. This does not include Single Sign On functionality where a User has already authenticated themselves to the system.|
 |User list|The option to display a set of usernames list or the previous logged in User's username at logon must be disabled.|
-|Logon Banner|The standard MoJ login banner must be displayed at login, both locally and remotely, see [Appendix A](#appendix-a-login-banner).|
+|Logon Banner|The standard MoJ login banner must be displayed at login, both locally and remotely, refer to [Appendix A](#appendix-a-login-banner).|
 
 #### Services, security and networking applications
 
@@ -120,7 +125,7 @@ Table 1 is split into 5 sections:
 |Cisco Discovery Protocol \(CDP\)|CDP must be disabled.|
 |Telnet based administration interface|Telnet access must be disabled.|
 |SSH based administration interface|SSH access must be disabled.|
-|HTTP based administration interface|All web based administration interfaces which are accessible over a network \(in other words, not restricted to a localhost\) must be encrypted for the entire session using SSL version 3 or TLS version 1.0 or above.|
+|HTTP based administration interface|All web based administration interfaces which are accessible over a network \(in other words, not restricted to a localhost\) must be encrypted for the entire session using SSL version 3 or TLS version 1.0 or higher.|
 |Connection Timeouts|Idle connections must be dropped after a default period.|
 |ICMP Redirects|ICMP redirects must be disabled.|
 |Clear text authentication protocols|All plain-text authentication protocols must be disabled and their functionality replaced with encrypted alternatives.|

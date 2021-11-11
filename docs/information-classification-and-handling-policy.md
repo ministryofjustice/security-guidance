@@ -1,14 +1,17 @@
 # Information Classification and Handling Policy
 
-**Parent topic:** [Information classification, handling and security guide](information-classification-handling-and-security-guide.md)
-
-## Introduction
-
 This document provides the core set of IT security principles and expectations on the handling and classification of information on Ministry of Justice \(MoJ\) IT systems.
 
 The MoJ stores and processes a wide variety of information, some of which attracts an HMG protective marking or contains personal information. The MoJ has a duty to protect all the information stored and processed on its IT systems.
 
 This policy outlines the Information Classification and Handling Policy for all information held on MoJ IT systems.
+
+**Parent topic:** [Information classification, handling and security guide](information-classification-handling-and-security-guide.md)
+
+**Related information**  
+
+
+[Technical Controls Policy](technical-controls-policy.md)
 
 ## Scope
 
@@ -62,7 +65,7 @@ The exception is where the asset might need a higher classification than that as
 
 ## Application of Government classification
 
-The Government classification scheme defines how information should be labelled and handled. Output from IT systems containing information that is classified must carry classification labels where it is `OFFICIAL` or higher. This includes, but is not limited to, printed reports, removable media, electronic messages \(such as e-mail\) and file transfers.
+The Government classification scheme defines how information should be labelled and handled. Output from IT systems containing information that is classified must carry classification labels where it is `OFFICIAL` or higher. This includes, but is not limited to, printed reports, removable media, electronic messages \(such as email\) and file transfers.
 
 All IT hardware and removable media assets **must** be labelled with the highest classification from among each of the individual information assets stored or processed on it.
 

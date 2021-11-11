@@ -30,8 +30,8 @@ has made for the products we operate, and our relationships with suppliers.</p>
 		<body>
 			<p>A 'change log' is <xref href="changelog.dita" format="dita">available</xref>.
 			It details the most recent changes to this information.</p>
-			<p>The changes are also available as <xref href="rss.xml" format="xml" platform="html">RSS</xref><xref href="https://security-guidance.service.justice.gov.uk/rss.xml" format="xml" scope="external" platform="epub pdf">RSS</xref>
-				or <xref href="atom.xml" format="xml" platform="html">Atom</xref><xref href="https://security-guidance.service.justice.gov.uk/atom.xml" format="xml" scope="external" platform="epub pdf">Atom</xref> feeds.</p>
+			<p>The changes are also available as <xref href="rss.xml" format="xml" scope="external" platform="html">RSS</xref><xref href="https://security-guidance.service.justice.gov.uk/rss.xml" format="xml" scope="external" platform="epub pdf">RSS</xref>
+				or <xref href="atom.xml" format="xml" scope="external" platform="html">Atom</xref><xref href="https://security-guidance.service.justice.gov.uk/atom.xml" format="xml" scope="external" platform="epub pdf">Atom</xref> feeds.</p>
 		</body>
 	</topic>
     <topic id="offline-content">
@@ -81,7 +81,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
             </tgroup>
           </table>
         The offline versions of this guidance are time-limited, and are <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
-        <p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, see <xref href="https://security-guidance.service.justice.gov.uk/" format="html" scope="external">here</xref>.</p>
+        <p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, refer to the <xref href="https://security-guidance.service.justice.gov.uk/" format="html" scope="external">security guidance site</xref>.</p>
       </body>
       </topic>
 		<topic id="searching" platform="epub pdf">
@@ -263,7 +263,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 							<entry colname="col2"><xref href="#protection-from-malware" format="dita">Protection from malware</xref></entry>
 						</row>
 <!--   Backup -->
-						<row>
+						<row audience="audience-tech">
 							<entry colname="col1"> </entry>
 							<entry colname="col2"><xref href="#backup" format="dita">Backup</xref></entry>
 						</row>
@@ -411,6 +411,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="shared-responsibility-models.dita" format="dita">Shared Responsibility Models</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row audience="audience-tech">
+                <entry colname="col1" align="left"><xref href="technical-controls-policy.dita" format="dita">Technical Controls Policy</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
             </tbody></tgroup></table>
@@ -567,7 +571,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
 				<row>
-					<entry colname="col1" align="left"><xref href="acceptable-use.dita" format="dita">Acceptable use</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
+					<entry colname="col1" align="left"><xref href="acceptable-use.dita" format="dita">Acceptable use</xref></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
 				<row>
@@ -577,10 +581,6 @@ has made for the products we operate, and our relationships with suppliers.</p>
 				<row>
 					<entry colname="col1" align="left"><xref href="long-term-leave.dita" format="dita">Guidance on IT Accounts and Assets for Long Term Leave</xref></entry>
 					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="it-acceptable-use-policy.dita" format="dita">IT Acceptable Use Policy</xref></entry>
-					<entry colname="col2" align="right">All users (Policy)</entry>
 				</row>
 				<row>
 					<entry colname="col1" align="left"><xref href="protect-yourself-online.dita" format="dita">Protect Yourself Online</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/protect-yourself-online/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
@@ -638,6 +638,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
 				</row>
 				<row>
 					<entry colname="col1" align="left"><xref href="secure-disposal-of-it-physical-and-on-premise.dita" format="dita">Secure disposal of IT - physical and on-premise</xref></entry>
+					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row>
+					<entry colname="col1" align="left"><xref href="working-securely-with-paper-documents-and-files.dita" format="dita">Working securely with paper documents and files</xref></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
             </tbody></tgroup></table>
@@ -799,7 +803,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="public-key-infrastructure-policy.dita" format="dita">Public Key Infrastructure Policy</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="use-of-hmg-cryptography-policy.dita" format="dita">Use of HMG Cryptography Policy</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -865,18 +869,6 @@ has made for the products we operate, and our relationships with suppliers.</p>
           </body>
         </topic>
       </topic>
-
-		<topic id="operational-security-team" platform="html">
-			<title>Operational security team</title>
-			<body>
-				<table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-					<row>
-						<entry colname="col1" align="left"><xref href="ost" format="html" scope="external">Documentation landing page</xref></entry>
-						<entry colname="col2" align="right">All users</entry>
-					</row>
-				</tbody></tgroup></table>
-			</body>
-		</topic>
 
       <topic id="operations-security">
         <title>Operations security</title>
@@ -1070,6 +1062,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
+                <entry colname="col1" align="left"><xref href="domain-names-policy.dita" format="dita">Domain names and Domain Name System (DNS) security policy</xref></entry>
+                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+              </row>
+              <row>
                 <entry colname="col1" align="left"><xref href="internet-v-psn.dita" format="dita">Internet v. PSN</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
@@ -1112,6 +1108,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
 								<entry colname="col1" align="left"><xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref></entry>
 								<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 							</row>
+				<row audience="audience-tech">
+					<entry colname="col1" align="left"><xref href="email-blocklist-policy.dita" format="dita">Email Blocklist Policy</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
+				<row audience="audience-tech">
+					<entry colname="col1" align="left"><xref href="email-blocklist-process.dita" format="dita">Email Blocklist Process</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+				</row>
 							<row audience="audience-tech">
 								<entry colname="col1" align="left"><xref href="email-security-guide.dita" format="dita">Email Security Guide</xref></entry>
 								<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
@@ -1186,7 +1190,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="source-code-publishing.dita" format="dita">Source Code Publishing</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
-              <row>
+              <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="system-test-standard.dita" format="dita">System Test Standard</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>

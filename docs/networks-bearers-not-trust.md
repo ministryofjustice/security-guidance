@@ -6,7 +6,7 @@ redirect_from:
 
 ## The base principle
 
-IP networks **must** be considered commodity bearers for technical connectivity to faciliate the movement of data.
+IP networks **must** be considered commodity bearers for technical connectivity to facilitate the movement of data.
 
 Network characteristics \(such as hardware port, VLAN tag or IP address\) should not be solely relied upon as part of authorisation to confer trust or privilege.
 

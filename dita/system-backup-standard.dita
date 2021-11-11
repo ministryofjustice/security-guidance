@@ -13,9 +13,9 @@
         <li>how backups are managed</li>
         <li>the process for backing up</li>
       </ul>
-      <p>For an overview of backup concepts, and why backup is important for the <ph conref="conrefs.dita#conrefs/moj"/>, see the <xref href="system-backup-guidance.dita" format="dita">IT Security - System Backup Guide</xref>.</p>
-      <p>For details of what backups must do, see the <xref href="#system-backup-requirements" format="dita">System backup requirements</xref> section.</p>
-      <p>For details of how backups are implemented, see the <xref href="#system-backup-procedures" format="dita">System backup procedures</xref> section.</p>
+      <p>For an overview of backup concepts, and why backup is important for the <ph conref="conrefs.dita#conrefs/moj"/>, refer to the <xref href="system-backup-guidance.dita" format="dita">IT Security - System Backup Guide</xref>.</p>
+      <p>For details of what backups must do, refer to the <xref href="#system-backup-requirements" format="dita">System backup requirements</xref> section.</p>
+      <p>For details of how backups are implemented, refer to the <xref href="#system-backup-procedures" format="dita">System backup procedures</xref> section.</p>
     </body>
   </topic>
   <topic id="foundation">
@@ -167,7 +167,7 @@
           <p>The backup retention period should never be shorter than the schedule requires. If the available technology cannot support the prescribed backup retention period, then an exception must be sought and documented in the relevant system Risk Management and Accreditation Document Set (RMADS).</p>
           <p>Retention schedule checklist:</p>
           <ol>
-            <li>Is a retention period defined in the system BIA or BCP? If not, identify the kind of data backed up by the system. Use this to determine the default retention period based on the table above.</li>
+            <li>Is a retention period defined in the system BIA or BCP? If not, identify the kind of data backed up by the system. Use this to determine the default retention period based on the previous table.</li>
             <li>If multiple data types are backed up, use the longest applicable retention schedule.</li>
             <li>If you cannot determine or implement the retention period, seek guidance or an exception through the RMADS for the system.</li>
             <li>Detail the retention period, and the process for moving backups into and out of the retention state.</li>
@@ -304,5 +304,6 @@
       </topic>
     </topic>
   </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

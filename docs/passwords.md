@@ -1,6 +1,6 @@
 # Passwords
 
-This article provides guidance on passwords and Personal Identification Numbers \(PINs\) within the Ministry of Justice \(MoJ\). It helps you protect MoJ IT systems by telling you about choosing and using passwords and PINs. Whenever you see the word "system" here, it applies to:
+This article provides guidance on passwords and Personal Identification Numbers \(PINs\) within the Ministry of Justice \(MoJ\). It helps you protect MoJ IT systems by telling you about choosing and using passwords and PINs. Whenever you encounter the word "system" here, it applies to:
 
 -   Hardware, such as laptops, PCs, servers, mobile devices, and any IT equipment.
 -   Software, such as the Operating System, or applications installed on hardware, or mobile device applications \(apps\).
@@ -9,6 +9,11 @@ This article provides guidance on passwords and Personal Identification Numbers 
 This guidance is for all users. It also includes more detail for system administrators or developers.
 
 **Note:** Except where stated, the guidance in this article applies to both passwords and PINs.
+
+**Related information**  
+
+
+[Technical Controls Policy](technical-controls-policy.md)
 
 ## General best practices
 
@@ -148,7 +153,7 @@ If it is not possible to use GOV.UK Verify, follow the advice presented here to 
 -   Do force password changes when required. For example, after [exceeding a count of unsuccessful password entry attempts](#password-access-attempts).
 -   Make the process of [resetting a password](#password-reset) like providing a password for the first time. Include a way to [prevent attackers using the reset process](#distributing-passwords-to-users) to conduct an attack.
 
-For more information, see the [Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
+For more information, refer to the [Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
 
 ## Service Accounts
 
@@ -164,7 +169,7 @@ Service account passwords **SHALL**:
 -   Not be stored in the clear in any systems or applications.
 -   Not be used by standard or administrative users for any purpose.
 
-For more information, see the [Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
+For more information, refer to the [Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
 
 ## Default passwords
 
@@ -186,7 +191,7 @@ Use [Time-based One-Time Password Algorithm \(TOTP\)](https://en.wikipedia.org/w
 
 Systems **SHALL** offer MFA alternatives to users where they are available. For example, MFA codes sent by SMS are not suitable if mobile devices are not allowed in the room or building where the privileged task is being performed.
 
-For more information, see the [Multi-Factor Authentication \(MFA\) Guide](multi-factor-authentication-mfa-guide.md).
+For more information, refer to the [Multi-Factor Authentication \(MFA\) Guide](multi-factor-authentication-mfa-guide.md).
 
 ## Extra measures
 
@@ -194,7 +199,7 @@ Check that a system, service, or information protected by a password is not [cla
 
 Check which other systems have access to the system or service. Make sure that the access control suits the material at both ends of the connection.
 
-Appropriate extra measures might include tokens or other multi-factor authentication devices. Think about using an existing authentication system other than passwords. Avoid creating new authentication systems. Try to reduce what a user needs to remember. For more information about authentication, see the [Authentication](authentication.md) guide.
+Appropriate extra measures might include tokens or other multi-factor authentication devices. Think about using an existing authentication system other than passwords. Avoid creating new authentication systems. Try to reduce what a user needs to remember. For more information about authentication, refer to the [Authentication](authentication.md) guide.
 
 A technical risk assessment helps identifies extra controls for systems. This is mandatory for systems that need formal assurance. Multi-user systems are also subject to a Business Impact Assessment \(BIA\). For example, an assessment might find that you need extra checks for logging in to an account or service. The checks might depend on various factors such as:
 
@@ -237,7 +242,7 @@ There are times when a system needs to send a password to a user. An example is 
 
 Passwords created for a user should always be [single-use](#single-use-passwords). Use an out-of-band channel to send the password to the user. For example, send the password to the user's line manager who will give it to the user.
 
-For more information, see the [Password Storage and Management Guide](password-storage-and-management-guide.md).
+For more information, refer to the [Password Storage and Management Guide](password-storage-and-management-guide.md).
 
 ## Single-use passwords
 
@@ -260,7 +265,7 @@ The [Access Control Guide](access-control-guide.md) discusses the management and
 
 If someone is no longer allowed to access a system, check for and change any shared account or common password they might still have.
 
-For more information, see the [Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
+For more information, refer to the [Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
 
 ## Identity Providers and Single Sign-On
 
@@ -270,13 +275,13 @@ This helps reduce the need to design, create, deploy and manage yet another solu
 
 SSO integration in existing IdP solutions improves the user experience. This is because you can authenticate to systems using existing MoJ credentials.
 
-For more information, see the [Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
+For more information, refer to the [Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md).
 
 ## Account management
 
 This guidance on passwords is separate from the guidance on account management. You should still follow the rules and processes for managing accounts. In particular, while you don't need to [change passwords after a period of time](#password-expiry), you should still expire accounts promptly. Examples would be when accounts are no longer required, or have fallen out of use.
 
-For more information, see the [Account management](account-management.md) guide.
+For more information, refer to the [Account management](account-management.md) guide.
 
 ## Contact details
 

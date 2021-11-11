@@ -11,7 +11,7 @@
     <topic id="how-to-use-this-document">
       <title>How to use this document</title>
       <body>
-        <p>Each policy statement outlines a security requirement and where applicable, a reference is provided to further material. A unique identify is associated with each statement for easy reference. The format of each statement is illustrated below:
+        <p>Each policy statement outlines a security requirement and where applicable, a reference is provided to further material. A unique identify is associated with each statement for easy reference. The format of each statement is as follows:
           <dl>
             <dlentry>
               <dt>POL.FRP.XXX</dt>
@@ -79,7 +79,7 @@
       <topic id="deterrence">
         <title>Deterrence</title>
         <body>
-          <p>IT Security awareness training ensures staff are aware of the <xref href="it-acceptable-use-policy.dita" format="dita">IT Security Acceptable Use Policy</xref> and that the <ph conref="conrefs.dita#conrefs/moj"/> has the right and ability to monitor all IT systems for conformance to this policy. This may deter staff from inappropriate, illegal or malicious actions. Additionally, external awareness of <ph conref="conrefs.dita#conrefs/moj"/> system monitoring capability may also deter unauthorised users from attempting to access or attack <ph conref="conrefs.dita#conrefs/moj"/> facilities and IT systems.</p>
+          <p>IT Security awareness training ensures staff are aware of the <xref href="acceptable-use-policy.dita" format="dita">IT Security Acceptable Use Policy</xref> and that the <ph conref="conrefs.dita#conrefs/moj"/> has the right and ability to monitor all IT systems for conformance to this policy. This may deter staff from inappropriate, illegal or malicious actions. Additionally, external awareness of <ph conref="conrefs.dita#conrefs/moj"/> system monitoring capability may also deter unauthorised users from attempting to access or attack <ph conref="conrefs.dita#conrefs/moj"/> facilities and IT systems.</p>
           <dl>
             <dlentry>
               <dt>POL.FRP.003</dt>
@@ -167,7 +167,7 @@
           <dl>
             <dlentry>
               <dt>POL.FRP.013</dt>
-              <dd>All investigations <b>must be</b> conducted in line with <ph conref="conrefs.dita#conrefs/moj"/> IT Security Policies, specifically <xref format="dita" href="it-acceptable-use-policy.dita">IT Security - Acceptable Use Policy</xref>.</dd>
+              <dd>All investigations <b>must be</b> conducted in line with <ph conref="conrefs.dita#conrefs/moj"/> IT Security Policies, specifically the <xref format="dita" href="acceptable-use-policy.dita">Acceptable Use Policy</xref>.</dd>
             </dlentry>
             <dlentry>
               <dt>POL.FRP.014</dt>
@@ -178,7 +178,7 @@
               <dd>All IT systems <b>must consider</b>, in their design, the need to capture evidence in an evidential way following <xref format="html" scope="external" href="https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/">BS 10008</xref>.</dd>
             </dlentry>
           </dl>
-          <note>Guidance on evidential capture in accordance to <xref href="https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/" format="html" scope="external">BS 10008</xref> is provided in <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/forensic-readiness-guide/" format="html" scope="external">IT Security - Forensics Readiness Guide</xref>.</note>
+          <note>Guidance on evidential capture in accordance to <xref href="https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/" format="html" scope="external">BS 10008</xref> is provided in the <xref href="forensic-readiness-guide.dita" format="dita">Forensics Readiness Guide</xref>.</note>
         </body>
       </topic>
     </topic>

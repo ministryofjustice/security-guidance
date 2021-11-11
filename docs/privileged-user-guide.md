@@ -13,7 +13,7 @@ This guide outlines the security procedures and advice that privileged users sho
 
 Specific responsibilities of individual privileged users are likely to vary depending on the systems they manage. The system's Information Risk Assessment Report documents the security controls \([MoJ Information Assurance Framework Process](https://docs.google.com/document/d/1vQOlnD1Xixlw20p7OuO8nleV8qt0BfvVWvXkPQurZ3A/edit?usp=sharing)\). The [IRAR](https://docs.google.com/document/d/1MeJJtfHpwR1XM_okk3Pi4gW0bpcnLDdt5OXwddB7-Bk/edit?ts=5e25c004) should be completed as part of this process. For a comprehensive list of individual responsibilities, privileged users should refer to the system specific documentation.
 
-This page is the first in a series of guides for privileged users within the MoJ; see related guides below.
+This page is the first in a series of guides for privileged users within the MoJ; refer also to the related guides.
 
 ## Who is this for?
 
@@ -24,7 +24,7 @@ This guide is aimed at two audiences, both technical.
 
 ## Related guides
 
-For further details about privileged user responsibilities, see the guides below.
+For further details about privileged user responsibilities, refer to the following guides.
 
 -   The [Privileged Account Management Guide](privileged-account-management-guide.md) provides the guidelines to ensure that privileged accounts are securely managed. It is part of the [Access Control Guide](access-control-guide.md).
 -   The [Logging and Protective Monitoring Guide](privileged-user-logging-and-protective-monitoring-guide.md) provides information about security procedures privileged users should implement to conduct logging activities.
@@ -41,12 +41,12 @@ Privileged user accounts have a high degree of risk associated with them due to 
 -   Privileged user passwords must be created in line with the MoJ's [Password Guide](password-creation-and-authentication-guide.md).
 -   The password for a privileged user account must not be re-used for another privileged user account or a normal user account.
 -   Privileged user passwords must be deleted along with the account when a privileged user leaves the MoJ or changes role.
--   Multi Factor Authentication \(MFA\) must be used for privileged user accounts where possible. See the [Password Guide](password-creation-and-authentication-guide.md) for further details.
+-   Multi Factor Authentication \(MFA\) must be used for privileged user accounts where possible. Refer to the [Password Guide](password-creation-and-authentication-guide.md) for further details.
 -   Privileged user accounts must only be used when carrying out administrative tasks such as creating new user accounts or implementing software updates. At all other times a normal user account must be used, e.g. for tasks such as searching the internet and reading emails.
 -   Privileged user accounts on depreciated systems must be reviewed quarterly by system owners for breach as aging systems frequently cannot be, or are not, patched leaving them vulnerable to take over.
 -   Privileged users must not abuse the privileges they are given, such as circumventing controls put in place to protect the MoJ.
 
-For further information on managing privileged user accounts see the [Privileged User Configuration, Patching and Change Management Guide](privileged-user-configuration-patching-and-change-management-guide.md).
+For further information on managing privileged user accounts refer to the [Privileged User Configuration, Patching and Change Management Guide](privileged-user-configuration-patching-and-change-management-guide.md).
 
 ## Resource monitoring
 
@@ -64,7 +64,7 @@ Privileged users are responsible for monitoring their systems to ensure that the
         -   Monitoring storage resources and processes that are provisioned to virtual machines, services, databases, and applications.
         -   Virtual network monitoring.
 -   Identify the root cause of excessive resource use and rectifying the issue when possible. If an issue cannot be rectified quickly, it should be reported to the system owner.
--   Notify the MoJ IT Service Desk if there is a suspected incident \(see [below](#incidents-and-contact-details) for contact details\).
+-   Notify the MoJ IT Service Desk if there is a suspected incident \(refer to the [contact details](#incidents-and-contact-details)\).
 
 ## Identification and authentication
 
@@ -72,7 +72,7 @@ Privileged users are responsible for managing user access to systems to enable e
 
 -   Only create user accounts once authorisation has been received from that user's line manager.
 -   Only grant permissions that are in line with the user's business role within the MoJ.
--   Review user account usage every 90 days. If an account is dormant, the privileged user must investigate its status and suspend the account if appropriate. See the [Access Control Guide](access-control-guide.md) for details.
+-   Review user account usage every 90 days. If an account is dormant, the privileged user must investigate its status and suspend the account if appropriate. Refer to the [Access Control Guide](access-control-guide.md) for details.
 -   Disable all user and privileged user accounts when staff members leave the MoJ, or where the account is not required due to a change of role. Privileged users will be automatically notified by HR when access changes or revocations are required.
 -   Retain a record of all authorised users, approvals, and changes of access rights and privileges for any network, system or application, for which privileged users are responsible.
 

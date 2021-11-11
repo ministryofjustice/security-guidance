@@ -4,7 +4,7 @@ This form should be completed by a line manager or contract manager. Completion 
 
 The assessment of need document is available [here](./gs/security-vetting-assessment-need.doc).
 
-**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##Contact details
 

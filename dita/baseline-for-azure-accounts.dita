@@ -6,9 +6,9 @@
     <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> has a 'lowest common denominator' approach to
 apply to the largest possible number of people for security-related
 promises, capabilities and configurations of <ph conref="conrefs.dita#conrefs/moj"/> Azure Subscriptions.</p>
-    <p>The baseline is not a holistic list of dos and don'ts, but a minimum
+    <p id="holisticddn">The baseline is not a holistic 'do' and 'do not' list, but a minimum
 line in the sand for what 'at least' <ph conref="conrefs.dita#conrefs/policymust"/> be done.</p>
-<p>This guidance is Version 1.3, September 16th 2021.</p>
+<p>This guidance is Version 1.3, September 16, 2021.</p>
   </body>
   <topic id="the-base-principle">
     <title>The base principle</title>
@@ -51,7 +51,7 @@ these exist, they <ph conref="conrefs.dita#conrefs/policycan"/> be replicated an
   <topic id="security-incidents">
     <title>Security incidents</title>
     <body>
-      <p>The CyberSecurity team <ph conref="conrefs.dita#conrefs/policyshould"/> be added as a security contact for all
+      <p>The Cyber Security team <ph conref="conrefs.dita#conrefs/policyshould"/> be added as a security contact for all
 Information or Cyber Security incidents. The contact details for raising
 Incidents need to be managed internally, for example using an Intranet page.</p>
     </body>
@@ -91,7 +91,7 @@ Incidents need to be managed internally, for example using an Intranet page.</p>
             </tbody>
           </tgroup>
         </table>
-        <p>For more information on MFA, see the <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-Factor Authentication
+        <p>For more information on MFA, refer to the <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-Factor Authentication
 guidance</xref>.</p>
       </body>
     </topic>
@@ -115,7 +115,7 @@ efficiently, and ultimately focus on real threats.</p>
             <tbody>
               <row>
                 <entry colname="col1"><xref format="html" scope="external" href="https://azure.microsoft.com/en-gb/services/security-center/#overview">Azure Security Center</xref> is enabled.</entry>
-                <entry colname="col2">Security management system that strengthens the security posture of your data centers, and provides advanced threat protection across your Azure workloads in the cloud.</entry>
+                <entry colname="col2">Security management system that strengthens the security posture of your data centres, and provides advanced threat protection across your Azure workloads in the cloud.</entry>
                 <entry colname="col3">Protection is automatically re-enabled.</entry>
               </row>
               <row>
@@ -169,7 +169,7 @@ exploits and vulnerabilities.</p>
     <topic id="monitor">
       <title>Monitor</title>
       <body>
-        <p>Leverage the Azure solution for collecting, analyzing, and acting on
+        <p>Leverage the Azure solution for collecting, analysing, and acting on
 telemetry from your cloud and on-premises environments.</p>
         <table>
           <tgroup cols="3">
@@ -269,7 +269,7 @@ to protect data.</p>
             </thead>
             <tbody>
               <row>
-                <entry colname="col1"><xref format="html" scope="external" href="https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption">Azure Storage Service Encryption</xref> - protect and safeguard your data and meet your organizational security and compliance commitments.</entry>
+                <entry colname="col1"><xref format="html" scope="external" href="https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption">Azure Storage Service Encryption</xref> - protect and safeguard your data and meet your organisational security and compliance commitments.</entry>
                 <entry colname="col2">Blob Storage without suitable encryption enabled are alerted to the resource creator and account owner.</entry>
                 <entry colname="col3">After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting, <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security and <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security.</entry>
               </row>

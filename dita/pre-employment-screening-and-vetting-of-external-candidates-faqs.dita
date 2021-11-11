@@ -41,7 +41,7 @@
         <p>National Security Vetting (NSV) might be required but only
         where the role requires Counter Terrorist Check (CTC),
         Security Clearance (SC) or Developed Vetting (DV) clearance.
-        See <xref format="dita" platform="github"
+        Refer to <xref format="dita" platform="github"
         href="#section-2-staff-recruited-from-external-sources-non-directly-employed">Section
         2</xref><ph platform="intranet">Section 2</ph> for more information.
         <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/"
@@ -141,7 +141,7 @@
       <topic id="non-directly-employed-staff">
         <title>Non-directly employed staff</title>
         <body>
-          <p>See <xref href="#section-2-staff-recruited-from-external-sources-non-directly-employed"
+          <p>Refer to <xref href="#section-2-staff-recruited-from-external-sources-non-directly-employed"
             format="dita">Section 2</xref>.</p>
         </body>
       </topic>

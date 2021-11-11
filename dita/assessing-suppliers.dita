@@ -4,7 +4,7 @@
   <title>Assessing suppliers</title>
   <body>
     <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> assesses suppliers as a responsible public body managing public funds and data. These assessments range from commercial and legal for the purposes of contract through to risk assessments for the purposes of information security.</p>
-    <p>The <ph conref="conrefs.dita#conrefs/moj"/> utilises a range of <xref href="https://www.ncsc.gov.uk/guidance/risk-management-collection" format="html" scope="external">risk management</xref> techniques including <xref href="https://www.ncsc.gov.uk/guidance/summary-risk-methods-and-frameworks" format="html" scope="external">information risk assessments</xref>.</p>
+    <p>The <ph conref="conrefs.dita#conrefs/moj"/> uses a range of <xref href="https://www.ncsc.gov.uk/guidance/risk-management-collection" format="html" scope="external">risk management</xref> techniques including <xref href="https://www.ncsc.gov.uk/guidance/summary-risk-methods-and-frameworks" format="html" scope="external">information risk assessments</xref>.</p>
     <p>Suppliers are expected to create, maintain and demonstrate a mature and considered approach to risk management when engaged with the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
   </body>
   <topic id="accreditation">
@@ -17,7 +17,7 @@
   <topic id="commodity-digital-technology">
     <title>Commodity digital technology</title>
     <body>
-      <p><ph conref="conrefs.dita#conrefs/moj"/> assesses commodity digital technology supply chain such as Software-as-a-Service (SaaS) tools such as <ph conref="conrefs.dita#conrefs/gsuite"/>, Microsoft Office 365, Trello and AtlassianCloud based on the <xref href="https://www.ncsc.gov.uk/guidance/implementing-cloud-security-principles" format="html" scope="external">Cloud Security Principles</xref>, information risk assessment techniques and shared data within HMG.</p>
+      <p><ph conref="conrefs.dita#conrefs/moj"/> assesses commodity digital technology supply chain such as Software-as-a-Service (SaaS) tools such as <ph conref="conrefs.dita#conrefs/gsuite"/>, Microsoft Office 365, Trello and Atlassian Cloud based on the <xref href="https://www.ncsc.gov.uk/guidance/implementing-cloud-security-principles" format="html" scope="external">Cloud Security Principles</xref>, information risk assessment techniques and shared data within HMG.</p>
     </body>
   </topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
