@@ -23,7 +23,7 @@ This guidance outlines the all the basic guidance on sending information using e
 
 ## Context
 
-All MoJ information is valuable, and staff are expected to protect everything that relates to the department's business, including information provided by others. This applies to all information, not just information that is covered by the Data Protection Act or classified under the government-wide security classification system.
+All MoJ information is valuable, and staff are expected to protect everything that relates to the department's business, including information provided by others. This applies to all information, not just information that is covered by the Data Protection Act or classified under the [Government Classification Scheme](government-classification-scheme.md).
 
 There are different rules for managing and protecting different kinds of paper-based information. You need to know how to:
 
@@ -56,7 +56,7 @@ In all cases, consideration **SHALL** be given to the risk and impact of causing
 
 #### Using post and couriers
 
-There are a range of methods of sending documents, depending on the potential harm that result from loss. This relates to their security classification and the volumes involved. Use a method that is appropriate for the type of information:
+There are a range of methods of sending documents, depending on the potential harm that result from loss. This relates to their [security classification](government-classification-scheme.md) and the volumes involved. Use a method that is appropriate for the type of information:
 
 -   For normal inter-office transit, use DX delivery services or agreed contracts for the movement of papers or files. Royal Mail letter post is otherwise acceptable for standard non-sensitive material, or letters at `OFFICIAL`.
 

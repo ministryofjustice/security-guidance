@@ -23,7 +23,7 @@
   <topic id="context">
     <title>Context</title>
     <body>
-      <p>All <ph conref="conrefs.dita#conrefs/moj"/> information is valuable, and staff are expected to protect everything that relates to the department's business, including information provided by others. This applies to all information, not just information that is covered by the Data Protection Act or classified under the government-wide security classification system.</p>
+      <p>All <ph conref="conrefs.dita#conrefs/moj"/> information is valuable, and staff are expected to protect everything that relates to the department's business, including information provided by others. This applies to all information, not just information that is covered by the Data Protection Act or classified under the <xref href="government-classification-scheme.dita" format="dita">Government Classification Scheme</xref>.</p>
       <p>There are different rules for managing and protecting different kinds of paper-based information. You need to know how to:</p>
       <ul>
         <li>
@@ -62,7 +62,7 @@
       <topic id="using-post-and-couriers">
         <title>Using post and couriers</title>
         <body>
-          <p>There are a range of methods of sending documents, depending on the potential harm that result from loss. This relates to their security classification and the volumes involved. Use a method that is appropriate for the type of information:</p>
+          <p>There are a range of methods of sending documents, depending on the potential harm that result from loss. This relates to their <xref href="government-classification-scheme.dita" format="dita">security classification</xref> and the volumes involved. Use a method that is appropriate for the type of information:</p>
           <ul>
             <li>
               <p>For normal inter-office transit, use DX delivery services or agreed contracts for the movement of papers or files. Royal Mail letter post is otherwise acceptable for standard non-sensitive material, or letters at <ph conref="conrefs.dita#conrefs/official"/>.</p>

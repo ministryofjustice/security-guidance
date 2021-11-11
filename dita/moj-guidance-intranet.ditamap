@@ -110,7 +110,6 @@ if an audience attribute is present, then only matching content is included.
 		<topicref href="government-classification-scheme.dita" type="topic"/>
 		<topicref href="guidance-for-using-open-internet-tools.dita" type="topic"/>
 		<topicref href="identify-protect-detect-respond-recover.dita" type="topic"/>
-		<topicref href="it-acceptable-use-policy.dita" type="topic"/>
 		<topicref href="it-security-all-users-policy.dita" type="topic"/>
 		<topicref href="it-security-policy-overview.dita" type="topic"/>
 		<topicref href="line-manager-approval.dita" type="topic"/>
