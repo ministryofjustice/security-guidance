@@ -6,7 +6,6 @@
 	<prop action="exclude" att="audience" val="audience-basic"/>
 	<prop action="exclude" att="audience" val="audience-gs"/>
 	<prop action="exclude" att="audience" val="audience-suppliers"/>
-	<prop action="exclude" att="audience" val="audience-basic audience-suppliers"/>
 	<prop action="include" att="audience" val="audience-tech"/>
 	<prop action="exclude" att="platform" val="intranet"/>
 	<prop action="include" att="platform" val="github"/>

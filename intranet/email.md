@@ -4,7 +4,7 @@
 
 This document provides you with guidance for safe and secure use of email within the Ministry of Justice (MoJ).
 
-In general, always use email in an [acceptable way](acceptable-use.md).
+In general, always use email in an [acceptable way](https://security-guidance.service.justice.gov.uk/acceptable-use/).
 
 In particular:
 
@@ -15,7 +15,7 @@ In particular:
 * Don't forward email [chain letters](#chain-letters) to your contacts. Instead, report them to [security@justice.gov.uk](mailto:security@justice.gov.uk).
 * Be aware of unsuitable attachments, for example video clips, images, or executable files. MoJ email automatically filters many unapproved attachment types, particularly those that can contain executable files. Emails containing those attachments are likely to be quarantined and not delivered.
 * Avoid excessive use of email, and sending email to large numbers of recipients. Ask yourself if it really makes sense to "Reply All"?
-* Any recipients in the "To" or "Cc" fields can see the addresses of all other recipients in those fields. If you are sending an email to a list of people outside MoJ, where privacy of individuals might be relevant, place your list of recipients in the "Bcc" field and set the "To" field to your own address. This ensures that none of the recipients can see the identities of the other recipients.
+* Any recipients in the "To" or "Cc" fields can retrieve the addresses of all other recipients in those fields. If you are sending an email to a list of people outside MoJ, where privacy of individuals might be relevant, place your list of recipients in the "Bcc" field and set the "To" field to your own address. This ensures that none of the recipients can retrieve the identities of the other recipients.
 * Keep your operating systems up to date to prevent susceptibility to viruses.
 * Scan email attachments to detect viruses and other malware.
 
@@ -29,7 +29,7 @@ The MoJ monitors all email for security purposes.
 
 Specifically, communications may be monitored without notice and on a continual basis for a number of reasons including compliance with legal obligations, effective maintenance of IT systems, preventing or detecting unauthorised use or criminal activities (including cyber-intrusion), monitoring of service or performance standards, providing evidence of business transactions, and checking adherence to policies, procedures, and contracts.
 
-In general, the MoJ monitors telephone usage, network, email and Internet traffic data (including sender, receiver, subject, attachments to an e-mail, numbers called, duration of calls, domain names of websites visited, duration of visits, and files uploaded or downloaded from the Internet) at a network level.
+In general, the MoJ monitors telephone usage, network, email and Internet traffic data (including sender, receiver, subject, attachments to an email, numbers called, duration of calls, domain names of websites visited, duration of visits, and files uploaded or downloaded from the Internet) at a network level.
 
 ##Email threats
 
@@ -55,7 +55,7 @@ The MoJ scans approximately 14 million messages a month for threats (figures fro
 * Avoid sharing your business email address on the internet. These might be collected and used by automatic 'harvesting' software programs.
 * Never use your MoJ email address to register for non-work related sites.
 
-If you think you've received a scam email, or a virus, [report it immediately](reporting-an-incident.md). Do not click on any link or forward it to anyone. Only delete it from your inbox when you have been told to do so.
+If you think you've received a scam email, or a virus, [report it immediately](https://security-guidance.service.justice.gov.uk/reporting-an-incident/). Do not click on any link or forward it to anyone. Only delete it from your inbox when you have been told to do so.
 
 ##Further reading from the NCSC
 
@@ -140,7 +140,7 @@ In general:
 * If possible, note the details and incoming telephone number of the caller.
 * Do not go to any external site if directed from an unsolicited call.
 * Never give any information about your computer to the caller.
-* Check if the call is genuine with your IT Service Desk. [Report the call](reporting-an-incident.md) as a security incident if it is not. Use a different phone from that used to take the original call.
+* Check if the call is genuine with your IT Service Desk. [Report the call](https://security-guidance.service.justice.gov.uk/reporting-an-incident/) as a security incident if it is not. Use a different phone from that used to take the original call.
 
 ##Hoaxes
 
@@ -166,7 +166,7 @@ If the warning uses technical language, most people, including technologically s
 
 There may be credibility by association. If the janitor at a large technological organisation sends a warning to someone outside of that organisation, people on the outside tend to believe the warning because the company should know about those things. Even though the person sending the warning may not have a clue what he is talking about, the prestige of the company backs the warning, making it appear real.
 
-These make it very difficult to be certain a warning is a hoax. Check to see if the claims are real, and if the person sending out the warning is a real person. Ask yourself if they are someone who would know what they are talking about.
+These make it very difficult to be certain a warning is a hoax. Check if the claims are real, and if the person sending out the warning is a real person. Ask yourself if they are someone who would know what they are talking about.
 
 ##Type of hoaxes
 

@@ -2,9 +2,9 @@
 
 The Ministry of Justice \(MoJ\) has a 'lowest common denominator' approach to apply to the largest possible number of people for security-related promises, capabilities and configurations of MoJ Azure Subscriptions.
 
-The baseline is not a holistic list of dos and don'ts, but a minimum line in the sand for what 'at least' **SHALL** be done.
+The baseline is not a holistic 'do' and 'do not' list, but a minimum line in the sand for what 'at least' **SHALL** be done.
 
-This guidance is Version 1.3, September 16th 2021.
+This guidance is Version 1.3, September 16, 2021.
 
 ## The base principle
 
@@ -28,7 +28,7 @@ For [UK Government Services](https://docs.microsoft.com/en-us/azure/governance/b
 
 ## Security incidents
 
-The CyberSecurity team **SHOULD** be added as a security contact for all Information or Cyber Security incidents. The contact details for raising Incidents need to be managed internally, for example using an Intranet page.
+The Cyber Security team **SHOULD** be added as a security contact for all Information or Cyber Security incidents. The contact details for raising Incidents need to be managed internally, for example using an Intranet page.
 
 ## Baseline
 
@@ -43,7 +43,7 @@ Utilise [Identity and access management \(IAM\)](https://azure.microsoft.com/en-
 |[Azure Active Directory](https://azure.microsoft.com/en-gb/services/active-directory/) is enabled on all accounts, in all used tenants or subscriptions, all of the time.|Alerts fire for new findings.|Findings are archived \(if intended\) or resolved \(if unintended\) within 7 days.|
 |Azure user accounts have a defined and peer reviewed method for request or creation. Viable, authoritative and 'single source of truth' documentation exists to describe each Azure account and who should and should not have access based upon Role Based Access Control \(RBAC\). Idle Azure user accounts are suspended. MFA is always required and always enforced by policy. Root user account usage is considered abnormal. Passphrases or MFA seeds are cycled on every Azure root account.|Azure group account owners are alerted when new Azure accounts are created. Idle \(30 or more consecutive days of non-activity\) Azure user accounts issue suspension notices to Azure group account owners and target users. Where an account does not have MFA, the user and Azure group account owners are notified after 7 consecutive days. Any login or use of an Azure root account issues login alerts to the Azure group account owners.|Idle Azure user accounts are automatically suspended past threshold. Non-MFA Azure user accounts are automatically suspended past the threshold. Alerts fire when an Azure root user account is used but the credentials are not updated within 7 days of utilisation.|
 
-For more information on MFA, see the [Multi-Factor Authentication guidance](multi-factor-authentication-mfa-guide.md).
+For more information on MFA, refer to the [Multi-Factor Authentication guidance](multi-factor-authentication-mfa-guide.md).
 
 ### Advanced threat protection
 
@@ -51,7 +51,7 @@ Leverage Azure to identify and resolve vulnerabilities, assess threats efficient
 
 |What **SHALL** be in place|Monitoring|Resolution or escalation if baseline is broken or violated|
 |--------------------------|----------|----------------------------------------------------------|
-|[Azure Security Center](https://azure.microsoft.com/en-gb/services/security-center/#overview) is enabled.|Security management system that strengthens the security posture of your data centers, and provides advanced threat protection across your Azure workloads in the cloud.|Protection is automatically re-enabled.|
+|[Azure Security Center](https://azure.microsoft.com/en-gb/services/security-center/#overview) is enabled.|Security management system that strengthens the security posture of your data centres, and provides advanced threat protection across your Azure workloads in the cloud.|Protection is automatically re-enabled.|
 |[Azure Defender](https://docs.microsoft.com/en-us/azure/security-center/azure-defender) is part of the Azure Security Center and **SHOULD** also be enabled.|Alerts fire when Defender for Identity is not enabled in an MoJ Azure account.|Protection is automatically re-enabled.|
 |Enable Azure Bastion or Just in Time \(JIT\) for VM access for new services.|Requests are logged in Azure Activity Log, to monitor and audit access.|Protection is automatically re-enabled.|
 
@@ -66,7 +66,7 @@ Leverage Azure for protection of your web applications from common exploits and 
 
 ### Monitor
 
-Leverage the Azure solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments.
+Leverage the Azure solution for collecting, analysing, and acting on telemetry from your cloud and on-premises environments.
 
 |What **SHALL** be in place|Monitoring|Resolution or escalation if baseline is broken or violated|
 |--------------------------|----------|----------------------------------------------------------|
@@ -94,7 +94,7 @@ Leverage native Azure configuration options to make reasonable efforts to protec
 
 |What **SHALL** be in place|Monitoring|Resolution or escalation if baseline is broken or violated|
 |--------------------------|----------|----------------------------------------------------------|
-|[Azure Storage Service Encryption](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption) - protect and safeguard your data and meet your organizational security and compliance commitments.|Blob Storage without suitable encryption enabled are alerted to the resource creator and account owner.|After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting, MoJ Cyber Security and MoJ Cyber Security.|
+|[Azure Storage Service Encryption](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption) - protect and safeguard your data and meet your organisational security and compliance commitments.|Blob Storage without suitable encryption enabled are alerted to the resource creator and account owner.|After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting, MoJ Cyber Security and MoJ Cyber Security.|
 |Manage [Encryption](https://docs.microsoft.com/en-us/azure/virtual-machines/disk-encryption-overview) for data storage.|Storage without suitable encryption enabled is alerted to the resource owner and account owner.|After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting, MoJ Cyber Security and MoJ Cyber Security.|
 |[Key Vault](https://azure.microsoft.com/en-gb/services/key-vault/) - Provides security solution and works with other services by providing a way to manage, create, and control encryption keys.|Azure Key vault triggers events when the status of a secret stored in the key vault has changed.|After 7 days of non-action, alerts are sent to central hosting infrastructure teams, Head of Hosting, MoJ Cyber Security and MoJ Cyber Security.|
 

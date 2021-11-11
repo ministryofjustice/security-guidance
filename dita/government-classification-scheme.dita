@@ -70,7 +70,7 @@
       <p>Controls should be consistent with the minimum controls set out in the Handling Rules. These must be applied to all information within <ph conref="conrefs.dita#conrefs/official"/> and are adequate for most information, providing defence against the sort of threats faced by a major company. These threats include, but are not limited to, 'hacktivists', single issue pressure groups, investigative journalists, competent individual hackers, potentially aggrieved participants or users of the justice system, and the majority of criminal individuals and groups.</p>
       <p>Business areas or Information Asset Owners (IAOs) should review risks to their information, and ensure local procedures are in place, adopting additional controls where needed.</p>
       <p>The Handling Rules document identifies additional considerations for some aspects of control. Business areas or IAOs might decide to adopt more robust controls in these areas, particularly for material marked <ph conref="conrefs.dita#conrefs/official-sensitive"/> or where information is moved, transmitted or otherwise communicated outside of the secure office environment.</p>
-      <p>Controls should be applied proportionately for information which would previously have been 'unclassified. Such information still needs looking after if it is required for the job, but might not require controls designed to provide confidentiality.</p>
+      <p>Controls should be applied proportionately for information which would previously have been 'unclassified'. Such information still needs looking after if it is required for the job, but might not require controls designed to provide confidentiality.</p>
       <p>If IAOs or staff are considering classifying any new assets or reclassifying any existing assets as <ph conref="conrefs.dita#conrefs/secret"/> or <ph conref="conrefs.dita#conrefs/topsecret"/>, they should consult their IA lead and security adviser, or with <ph conref="conrefs.dita#conrefs/moj"/> security in relation to technical threats, to determine whether a heightened threat might be present, and to agree necessary controls.</p>
     </body>
   </topic>
@@ -134,8 +134,13 @@
             </row>
             <row>
               <entry colname="col1"><codeph>RESTRICTED</codeph>.</entry>
-              <entry colname="col2">If it relates to general administration, there should be a presumption that it can be treated as <ph conref="conrefs.dita#conrefs/official"/> (unmarked). You need to consider whether the subject matter is particularly sensitive and there is a need to rigorously enforce access controls, in which case material may additionally require handling or marking as <ph conref="conrefs.dita#conrefs/official-sensitive"/>. Anything with this level of sensitivity might already have agreed handling constraints. If in doubt, discuss with the Information Asset Owner.</entry>
-              <entry colname="col3">General administration, policy documents, commercial documents, case records, or particularly sensitive case records, contentious policy drafts and advice, and sensitive negotiations.</entry>
+              <entry colname="col2">If it relates to general administration, there should be a presumption that it can be treated as <ph conref="conrefs.dita#conrefs/official"/> (unmarked).</entry>
+              <entry colname="col3">General administration, policy documents, commercial documents, or case records.</entry>
+            </row>
+            <row>
+              <entry colname="col1"> </entry>
+              <entry colname="col2">You need to consider whether the subject matter is particularly sensitive and there is a need to rigorously enforce access controls, in which case material may additionally require handling or marking as <ph conref="conrefs.dita#conrefs/official-sensitive"/>. Anything with this level of sensitivity might already have agreed handling constraints. If in doubt, discuss with the Information Asset Owner.</entry>
+              <entry colname="col3">Particularly sensitive case records, contentious policy drafts and advice, and sensitive negotiations.</entry>
             </row>
             <row>
               <entry colname="col1"><codeph>CONFIDENTIAL</codeph> hard copy previously received from another Department.</entry>

@@ -110,7 +110,7 @@ Some examples of satisfactory approaches include, but are not limited to:
 
 -   Email systems meeting the ['Securing government email' guidance](https://www.gov.uk/guidance/securing-government-email)
 
--   Transport Level Encryption \(TLS\) version 1.2 and above aligned to NCSC recommended configuration\(s\)
+-   Transport Level Encryption \(TLS\) version 1.2 and higher, aligned to NCSC recommended configuration\(s\)
 
 -   Internet Protocol Security \(IPSec\) aligned to NCSC recommendation configuration\(s\)
 
@@ -139,7 +139,7 @@ Yours sincerely,
 
 `<ORGANISATION SHORTNAME>` will be required to return a declaration.
 
-*Please sign the declaration below and return this letter to the Authority, keeping a copy for your own records. Should you have any queries, please contact the Authority via your point of contact and/or the contact details located within the SAL.*
+*Please sign the following declaration and return this letter to the Authority, keeping a copy for your own records. Should you have any queries, please contact the Authority via your point of contact and/or the contact details located within the SAL.*
 
 **Supplier Declaration**
 

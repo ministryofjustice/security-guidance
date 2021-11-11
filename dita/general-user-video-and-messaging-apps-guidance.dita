@@ -342,7 +342,7 @@
 		<body>
 			<p>Some tools, such as Facebook, Instagram and LinkedIn, are approved for specific corporate accounts to use, for corporate communications messages.
 				General use of these tools for work purposes is not permitted.</p>
-			<p>If you wish to use a tool that is not listed above, please consult our <xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref> and <xref href="mailto:security@justice.gov.uk" format="email" scope="external">speak to us for help</xref>.</p>
+			<p>If you wish to use a tool that is not listed in this guidance, please consult our <xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref> and <xref href="mailto:security@justice.gov.uk" format="email" scope="external">speak to us for help</xref>.</p>
 		</body>
 	</topic>
 	<topic id="thirdpartyapp" conref="conrefs.dita#thirdpartyapp"><title/></topic>

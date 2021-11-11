@@ -15,7 +15,7 @@
     <body>
       <ul>
         <li><ph conref="conrefs.dita#conrefs/do"/> Be professional, and help keep <ph conref="conrefs.dita#conrefs/mojlong"/> information and resources safe and secure at all times.</li>
-        <li><ph conref="conrefs.dita#conrefs/do"/> Think about where you are working, for example - can other people or family see what you are working on? Be thoughtful about information privacy.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Think about where you are working, for example - can other people or family access what you are working on? Be thoughtful about information privacy.</li>
         <li><ph conref="conrefs.dita#conrefs/do"/> Keep <ph conref="conrefs.dita#conrefs/moj"/> accounts and password information secure.</li>
         <li><ph conref="conrefs.dita#conrefs/do"/> Take care of your equipment. Devices are more likely to be stolen or lost when working away from the office or home.</li>
         <li><ph conref="conrefs.dita#conrefs/do"/> Get in touch quickly to report problems or security questions.</li>
@@ -78,7 +78,7 @@
     <body>
       <p>It's important to consider the security of how you work remotely.</p>
       <ul>
-        <li><b>Work locations</b> - as with home working above, you need to be equally, if not more, vigilant when working in public spaces.</li>
+        <li><b>Work locations</b> - as with home working discussed previously, you need to be equally, if not more, vigilant when working in public spaces.</li>
         <li><b>Confidentiality</b> - be aware of others eavesdropping or shoulder surfing, both what you are working on and what you are saying eg conference and video calls.</li>
         <li>Keep <ph conref="conrefs.dita#conrefs/moj"/> <b>equipment and information</b>, including printouts and documents, safe and secure.</li>
       </ul>
@@ -142,11 +142,11 @@
     <title>Privacy</title>
     <body>
       <p>It is important to protect privacy: yours and that of the <ph conref="conrefs.dita#conrefs/moj"/>. Events like the Covid-19 (Coronavirus) pandemic are often exploited by people wanting to get access to sensitive or valuable information. This often results in an increase in attempts to get access to personal information or <ph conref="conrefs.dita#conrefs/moj"/> accounts, using phishing and email scams. Be extra vigilant whenever you get an unexpected communication.</p>
-      <p>Be aware of your working environment when you work with <ph conref="conrefs.dita#conrefs/moj"/> information. If anyone might see the data, or hear you talk about it as you use it, that could cause privacy problems. Be aware of SMART devices around your remote location, and ensure they are switched off if conducting video or voice communications.</p>
+      <p>Be aware of your working environment when you work with <ph conref="conrefs.dita#conrefs/moj"/> information. If anyone might access the data, or hear you talk about it as you use it, that could cause privacy problems. Be aware of SMART devices around your remote location, and ensure they are switched off if conducting video or voice communications.</p>
       <p>Guidance and suggestions for improving Privacy appear throughout this guide, but it's worthwhile highlighting these points:</p>
       <ul>
         <li><ph conref="conrefs.dita#conrefs/do"/> Lock your computer, even when unattended for short periods.</li>
-        <li><ph conref="conrefs.dita#conrefs/do"/> Think about whether an unauthorised person, such as a family member, might see the information you are working with.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Think about whether an unauthorised person, such as a family member, might access the information you are working with.</li>
         <li><ph conref="conrefs.dita#conrefs/donot"/> Write down passwords. Use a password manager.</li>
       </ul>
     </body>

@@ -41,7 +41,7 @@
     <topic id="out-of-scope">
       <title>Out of Scope</title>
       <body>
-        <p>Any information or component, which operates at SECRET or TOP SECRET (e.g. Private Keys with a classification above OFFICIAL-SENSITIVE) fall outside of the scope of this policy</p>
+        <p>Any information or component, which operates at SECRET or TOP SECRET (e.g. Private Keys with a classification higher than OFFICIAL-SENSITIVE) fall outside of the scope of this policy</p>
         <p>Certificates used for authentication of users or organisations used in token or PKI based authentications systems other than 802.1x are out of scope.</p>
       </body>
     </topic>
@@ -471,7 +471,7 @@
               <p>The Trust Anchor shall only be used for signing Sub-CA or Issuing CA certificates and related CRLs.</p>
             </li>
             <li>
-              <p>Assurance of the Trust Anchor CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For OFFICIAL and OFFICIAL-SENSITIVE material, recognised assurances are stated below:</p>
+              <p>Assurance of the Trust Anchor CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For OFFICIAL and OFFICIAL-SENSITIVE material, recognised assurances are stated as follows:</p>
             </li>
           </ol>
           <ul>
@@ -541,13 +541,13 @@
         <body>
           <ol>
             <li>
-              <p>This section is applicable to root and subordinate CAs. For policy that is specific to Trust Anchor CAs, see <xref href="#general-operational-policy" format="html">here</xref>.</p>
+              <p>This section is applicable to root and subordinate CAs. For policy that is specific to Trust Anchor CAs, refer <xref href="#general-operational-policy" format="html">here</xref>.</p>
             </li>
             <li>
               <p>Any CA shall be patched against all known vulnerabilities for which a vendor-published patch is available, in accordance with the Authority's patching policy. The operating system supporting the CA must be less than five (5) years old and must have three (3) or more years of vendor support remaining (5/3 rule).</p>
             </li>
             <li>
-              <p>Assurance of CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For OFFICIAL and OFFICIAL-SENSITIVE material, assurance preferences are stated below:</p>
+              <p>Assurance of CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For OFFICIAL and OFFICIAL-SENSITIVE material, assurance preferences are stated as follows:</p>
             </li>
           </ol>
           <ul>

@@ -15,7 +15,7 @@ Passwords are the main protection on our accounts, hence ensuring they are secur
 
 ##Check your email details are up-to-date
 
-Most of the time, the first indication you'll have that something is wrong is when an email is sent to you. This could be to let you know that someone is attempting to log into your account, or that someone is trying to reset your password, or more worringly, that a new device has logged into your account. Hence it is important that you ensure that your email details are up-to-date, and that your email is secure.
+Most of the time, the first indication you'll have that something is wrong is when an email is sent to you. This could be to let you know that someone is attempting to log into your account, or that someone is trying to reset your password, or more worryingly, that a new device has logged into your account. Hence it is important that you ensure that your email details are up-to-date, and that your email is secure.
 
 ##Enable Two Factor Authentication
 
@@ -46,7 +46,7 @@ Only use applications that are trusted and approved for use with your social med
 
 ##Remove 'unused' applications
 
-People tend not to be very good at removing old or rarely used applications. Older applications should be checked regularly to see if there are any updates.
+People tend not to be very good at removing old or rarely used applications. Older applications should be checked regularly to find out if there are any updates.
 
 A good habit is to check your applications once a month or so, and consider:
 

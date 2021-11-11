@@ -63,7 +63,7 @@
           <p>SSH access should not be password-based. It should use individually created and purposed SSH key pairs. Private keys must not be shared or re-used.</p>
         </li>
       </ul>
-      <p>The Government Digital Service (GDS) recommends the use of the open authorisation standard '<xref href="https://oauth.net/2/" format="html" scope="external">OAuth2</xref>' as a means to authenticate users. See the <xref href="https://www.gov.uk/guidance/gds-api-technical-and-data-standards" format="html" scope="external">GDS guide</xref> for more information.</p>
+      <p>The Government Digital Service (GDS) recommends the use of the open authorisation standard '<xref href="https://oauth.net/2/" format="html" scope="external">OAuth2</xref>' as a means to authenticate users. Refer to the <xref href="https://www.gov.uk/guidance/gds-api-technical-and-data-standards" format="html" scope="external">GDS guide</xref> for more information.</p>
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>

@@ -56,7 +56,7 @@
   <topic id="protection-of-key-variables">
     <title>Protection of Key Variables</title>
     <body>
-      <p>All encryption is stored in a <xref href="https://www.cpni.gov.uk/" format="html" scope="external">CPNI (Centre for the Protection of the National Infrastructure)</xref> Class 4 safe which also has a certified 2 hour burning time. Above the safe is a fire suppressant sprinkler system.</p>
+      <p>All encryption is stored in a <xref href="https://www.cpni.gov.uk/" format="html" scope="external">CPNI (Centre for the Protection of the National Infrastructure)</xref> Class 4 safe which also has a certified 2 hour burning time. Protecting the safe is a fire suppressant sprinkler system.</p>
       <p>Access to the safe is strictly limited to the <ph conref="conrefs.dita#conrefs/moj"/> Crypto Custodian and the Alternate Crypto Custodian. A copy of the master code for the safe is stored with the Departmental Security Officer. Only the DSO or ITSO are permitted to open the safe in the event of an emergency.</p>
     </body>
     <topic id="work-ethic-with-key-variables">

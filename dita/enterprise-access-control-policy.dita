@@ -23,7 +23,7 @@
         </li>
       </ul>
       <p>At a high level, access control in <ph conref="conrefs.dita#conrefs/moj"/> is based on Role Based Access Control (RBAC). Each user is assigned a role (or set of roles) and access to a piece of information is granted on a per role basis. In general, information will either be subject to RBAC or classified as open access (for example, a HR policy document made available on the <ph conref="conrefs.dita#conrefs/moj"/> intranet).</p>
-      <p>Information made available on an open access basis (i.e. not subject to any RBAC restrictions) must be treated as an exception to general access control rules. It is important to ensure any information made available in this way has been validated by the Information Asset Owner (IAO) to ensure that the information does not have 'need-to-know' constraints that impede it's sharing beyond a defined RBAC group (see <xref href="#it-system-owner-information-asset-owner-responsibilities" format="dita">here</xref>for further details on the role of the IAO).</p>
+      <p>Information made available on an open access basis (i.e. not subject to any RBAC restrictions) must be treated as an exception to general access control rules. It is important to ensure any information made available in this way has been validated by the Information Asset Owner (IAO) to ensure that the information does not have 'need-to-know' constraints that impede it's sharing beyond a defined RBAC group (refer <xref href="#it-system-owner-information-asset-owner-responsibilities" format="dita">here</xref>for further details on the role of the IAO).</p>
     </body>
   </topic>
   <topic id="management-of-user-access-control">
@@ -65,7 +65,7 @@
             <p>The access rights required must be supplied (for example, the list of RBAC groups and/or applications);</p>
           </li>
           <li>
-            <p>Confirmation of clearance level (see <xref href="#minimum-user-clearance-requirements" format="dita">here</xref> for further details);</p>
+            <p>Confirmation of clearance level (refer <xref href="#minimum-user-clearance-requirements" format="dita">here</xref> for further details);</p>
           </li>
           <li>
             <p>The application for User registration must be authorised by a <ph conref="conrefs.dita#conrefs/moj"/> senior manager.
@@ -209,7 +209,7 @@
         As part of the HR process,
         the line manager must inform all relevant IT service providers when a member of staff leaves the organisation
         and as such instruct them to deactivate and remove their user account.
-        The leavers guidance linked above gives detail on how to contact IT service providers.</p>
+        The leavers guidance linked previously gives detail on how to contact IT service providers.</p>
     </body>
   </topic>
   <topic id="review-of-user-privileges-and-accounts-schedule">

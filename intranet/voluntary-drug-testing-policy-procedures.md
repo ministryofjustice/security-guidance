@@ -1,6 +1,6 @@
 #Voluntary drug testing policy procedures
 
-**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##Introduction
 
@@ -21,7 +21,7 @@ If you have any queries about this information, contact [MoJ Group Security](mai
 
 ##Procedures
 
-These policy procedures support and underpin the [Voluntary Drug Testing Policy](voluntary-drug-testing-policy.md). Unless otherwise noted, these procedures **SHALL** be complied with fully.
+These policy procedures support and underpin the [Voluntary Drug Testing Policy](https://security-guidance.service.justice.gov.uk/voluntary-drug-testing-policy/). Unless otherwise noted, these procedures **SHALL** be complied with fully.
 
 ##Aftercare arrangements: Use of Voluntary Drug Testing
 

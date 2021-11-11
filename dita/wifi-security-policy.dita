@@ -31,7 +31,7 @@ identifier of the form: POLWIFIxxx, where xxx is a unique ID number.</p>
         </dlentry>
       </dl>
       <p>"All <ph conref="conrefs.dita#conrefs/moj"/> users" refers to General users, Technical users, and Service
-Providers, as defined above.</p>
+Providers, as defined previously.</p>
     </body>
   </topic>
   <topic id="purpose">

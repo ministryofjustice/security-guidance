@@ -32,11 +32,11 @@
         <li>If removable media is required for standard system operations,
           privileged users must ensure data is encrypted at rest,
           and has suitable physical security controls in place.
-          These include locking rooms where data is stored or using safes for storing removable media.<!--See the <xref href="information-and-data-security-policy.dita" format="dita">Information and Data Security Policy</xref> for further information.--></li>
+          These include locking rooms where data is stored or using safes for storing removable media.<!--Refer to the <xref href="information-and-data-security-policy.dita" format="dita">Information and Data Security Policy</xref> for further information.--></li>
         <li>Removable media must not be used for a system's operation
           unless it is approved by the Senior Information Risk Officer (SIRO).
           Advice should be sought from a risk advisor in the Cyber Assistance Team,
-          contact details given <xref href="#incidents-and-contact-details" format="dita">below</xref>.</li>
+          using the <xref href="#incidents-and-contact-details" format="dita">contact details</xref>.</li>
       </ul></p>
     </body>
   </topic>

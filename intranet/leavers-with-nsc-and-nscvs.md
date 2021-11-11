@@ -6,7 +6,7 @@ Staff or contractors that hold clearance of any level **SHALL** attend an exit i
 
 If the leaver holds Developed Vetting (DV) or SC enhanced level, and has been STRAP inducted, they **SHALL** attend a mandatory STRAP debriefing interview with [Cluster 2 STRAP team](mailto:STRAPTeam@cluster2security.gov.uk). They **SHALL** also sign a confidentiality agreement and a "Declaration of Cessation of `TOP SECRET` STRAP Access".
 
-**Parent topic:** [Personnel security clearances](personnel-security-clearances.md)
+**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##NSVCs who leave
 
@@ -24,7 +24,7 @@ When a member of staff with clearance leaves their department, the manager **SHA
 
 ##Related information
 
-* [End or change employment](end-or-change-of-employment.md).
+* [End or change employment](https://security-guidance.service.justice.gov.uk/end-or-change-of-employment/).
 
 ##Contact details
 

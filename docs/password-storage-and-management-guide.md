@@ -4,7 +4,7 @@
 
 Do not attempt to implement your own password storage mechanism. Always use an existing, approved Ministry of Justice \(MoJ\) password storage solution.
 
-This guide sets out how passwords must be stored securely to prevent unauthorised access or compromise. The MoJ encourages the use of password managers to reduce the burden on users for maintaining password security. For more information, see the [Password Management Guide](password-management-guide.md).
+This guide sets out how passwords must be stored securely to prevent unauthorised access or compromise. The MoJ encourages the use of password managers to reduce the burden on users for maintaining password security. For more information, refer to the [Password Management Guide](password-management-guide.md).
 
 This guide has been written in alignment with [NCSC guidance](https://www.ncsc.gov.uk/collection/passwords/updating-your-approach).
 
@@ -54,7 +54,7 @@ Some teams, particularly service development and administration, have specialise
 -   Hashicorp Vault
 -   Kubernetes Secrets
 
-For further guidance on password strength, see the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md). Contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk) if you have a specialised need to use a different password manager or vault.
+For further guidance on password strength, refer to the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md). Contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk) if you have a specialised need to use a different password manager or vault.
 
 ## Contact details
 

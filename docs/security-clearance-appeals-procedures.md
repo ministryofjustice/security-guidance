@@ -100,7 +100,7 @@ The appeal officer conducts the internal appeal according to the following guide
 
 9.  The appeal officer provides a report and recommendation to the Permanent Secretary within 15 working days of all enquiries being completed.
 
-10. Where, for operational or management reasons, any of the above timescales cannot be met, the appellant **SHOULD** be notified and, where possible, a revised timescale **SHOULD** be set. Similarly, where the appellant is unable to meet the timescales, the appeal officer **SHOULD** be notified and, where possible, a revised timescale **CAN** be agreed.
+10. Where, for operational or management reasons, any of the previous timescales cannot be met, the appellant **SHOULD** be notified and, where possible, a revised timescale **SHOULD** be set. Similarly, where the appellant is unable to meet the timescales, the appeal officer **SHOULD** be notified and, where possible, a revised timescale **CAN** be agreed.
 
 
 On receipt of the report, the Permanent Secretary is responsible for making the final decision. In reaching a final decision, they **SHOULD** consider:
@@ -143,7 +143,7 @@ The SVAP **CAN** also comment on the vetting procedures and the adequacy of the 
 
     2.  Have a right to appeal this decision.
 
-    If you are not sure that you have a right to appeal, see the Vetting Appeals Guidance.
+    If you are not sure that you have a right to appeal, refer to the Vetting Appeals Guidance.
 
 -   **Where should the form be sent?**
 
@@ -189,7 +189,7 @@ The SVAP **CAN** also comment on the vetting procedures and the adequacy of the 
 
 
 
-Please confirm you are content to receive correspondence by email at the email address you have provided above:
+Please confirm you are content to receive correspondence by email at the email address you have provided here:
 
 YES / NO
 
@@ -225,7 +225,7 @@ For your appeal, you **SHOULD** provide a full rationale, with supporting facts 
 
 ### PART C: Declaration
 
-I declare the information given above is true and complete to the best of my knowledge and belief.
+I declare the information given here is true and complete to the best of my knowledge and belief.
 
 Signature of appellant:
 

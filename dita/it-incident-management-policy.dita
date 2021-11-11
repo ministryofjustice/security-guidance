@@ -2,30 +2,27 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="it-incident-management-policy">
   <title>IT Incident Management Policy</title>
+  <body>
+    <p>Incident management is the ability to react to security incidents in a controlled, pre-planned manner. Preparation and planning are key factors to successful information security management and all <ph conref="conrefs.dita#conrefs/mojlong"/> systems rely on Incident Management Plans for safe and secure operations.</p>
+    <p>The aim of this policy is to ensure best practice is followed by all IT systems when dealing with security incidents, in particular, those pertaining to data loss, in a timely and efficient manner.</p>
+    <p>
+      <b>POL.IMP.001:</b>
+    </p>
+    <p>Each <ph conref="conrefs.dita#conrefs/moj"/> Business Group <b>must have</b> an IT Security Incident Management Plan which aligns to this policy. This plan must be common to all IT systems within a particular business group.</p>
+    <p>A template plan and guidance on the construction of an IT Security Incident Management Plan is provided in <xref href="incident-management-plan-and-process-guide.dita" format="dita">IT Security – Incident Management Plan and Process guide</xref>.</p>
+  </body>
   <topic id="legacyreferences" conref="conrefs.dita#legacyreferences"><title/></topic>
-  <topic id="introduction">
-    <title>Introduction</title>
+  <topic id="scope">
+    <title>Scope</title>
     <body>
-      <p>Incident management is the ability to react to security incidents in a controlled, pre-planned manner. Preparation and planning are key factors to successful information security management and all <ph conref="conrefs.dita#conrefs/mojlong"/> systems rely on Incident Management Plans for safe and secure operations.</p>
-      <p>The aim of this policy is to ensure best practice is followed by all IT systems when dealing with security incidents, in particular, those pertaining to data loss, in a timely and efficient manner.</p>
-      <p>
-        <b>POL.IMP.001:</b>
-      </p>
-      <p>Each <ph conref="conrefs.dita#conrefs/moj"/> Business Group <b>must have</b> an IT Security Incident Management Plan which aligns to this policy. This plan must be common to all IT systems within a particular business group.</p>
-      <p>A template plan and guidance on the construction of an IT Security Incident Management Plan is provided in <xref href="incident-management-plan-and-process-guide.dita" format="dita">IT Security – Incident Management Plan and Process guide</xref>.</p>
+      <p>This policy is concerned with IT related security incidents outlining the roles and responsibilities, escalation path and criteria for escalation.</p>
     </body>
-    <topic id="scope">
-      <title>Scope</title>
-      <body>
-        <p>This policy is concerned with IT related security incidents outlining the roles and responsibilities, escalation path and criteria for escalation.</p>
-      </body>
-    </topic>
-    <topic id="relationship-with-wider-moj-functions">
-      <title>Relationship with wider <ph conref="conrefs.dita#conrefs/moj"/> functions</title>
-      <body>
-        <p>An IT system is one element of a number of supporting elements which sustain <ph conref="conrefs.dita#conrefs/moj"/> business functions and delivery of services. The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external">Corporate Security and Business Continuity Branch</xref> is responsible for overall <ph conref="conrefs.dita#conrefs/moj"/> Incident Management policy and plan. This policy is designed to sit within the overall <ph conref="conrefs.dita#conrefs/moj"/> incident management structure.</p>
-      </body>
-    </topic>
+  </topic>
+  <topic id="relationship-with-wider-moj-functions">
+    <title>Relationship with wider <ph conref="conrefs.dita#conrefs/moj"/> functions</title>
+    <body>
+      <p>An IT system is one element of a number of supporting elements which sustain <ph conref="conrefs.dita#conrefs/moj"/> business functions and delivery of services. The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external">Corporate Security and Business Continuity Branch</xref> is responsible for overall <ph conref="conrefs.dita#conrefs/moj"/> Incident Management policy and plan. This policy is designed to sit within the overall <ph conref="conrefs.dita#conrefs/moj"/> incident management structure.</p>
+    </body>
   </topic>
   <topic id="incident-management-process">
     <title>Incident Management Process</title>
@@ -42,45 +39,21 @@
       <topic id="types-of-incidents">
         <title>Types of Incidents</title>
         <body>
-          <p>IT Security related incidents include (but not limited to):</p>
+          <p>IT Security related incidents include (but are not limited to):
           <ul>
-            <li>
-              <p>Breaches of the <xref href="it-acceptable-use-policy.dita" format="dita">IT Security - Acceptable Use Policy</xref>;</p>
-            </li>
-            <li>
-              <p>Detection of malicious code (e.g. viruses and malware);</p>
-            </li>
-            <li>
-              <p>Network attacks or Denial of Service (DOS) attacks;</p>
-            </li>
-            <li>
-              <p>Scanning and probing of a network (where significant network resources are consumed);</p>
-            </li>
-            <li>
-              <p>In appropriate use of <ph conref="conrefs.dita#conrefs/moj"/> IT assets as defined in the <xref href="it-acceptable-use-policy.dita" format="dita">IT Security - Acceptable Use Policy</xref>;</p>
-            </li>
-            <li>
-              <p>The discovery of a new network vulnerability or release of a patch or software update which is considered critical or an emergency;</p>
-            </li>
-            <li>
-              <p>The results of a penetration test on a live operational IT system that reveals critical vulnerabilities;</p>
-            </li>
-            <li>
-              <p>Unauthorised access to an IT system;</p>
-            </li>
-            <li>
-              <p>Accidental loss of personal or other information assets;</p>
-            </li>
-            <li>
-              <p>Deliberate release of personal or other information assets;</p>
-            </li>
-            <li>
-              <p>Compromise of integrity;</p>
-            </li>
-            <li>
-              <p>Any alerts or suspicious activity report generated by an IT system that proves to be a real security alert;</p>
-            </li>
-          </ul>
+            <li>Breaches of the <xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref>;</li>
+            <li>Detection of malicious code (e.g. viruses and malware);</li>
+            <li>Network attacks or Denial of Service (DOS) attacks;</li>
+            <li>Scanning and probing of a network (where significant network resources are consumed);</li>
+            <li>Inappropriate use of <ph conref="conrefs.dita#conrefs/moj"/> IT assets as defined in the <xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref>;</li>
+            <li>The discovery of a new network vulnerability or release of a patch or software update which is considered critical or an emergency;</li>
+            <li>The results of a penetration test on a live operational IT system that reveals critical vulnerabilities;</li>
+            <li>Unauthorised access to an IT system;</li>
+            <li>Accidental loss of personal or other information assets;</li>
+            <li>Deliberate release of personal or other information assets;</li>
+            <li>Compromise of integrity; or</li>
+            <li>Any alerts or suspicious activity report generated by an IT system that proves to be a real security alert.</li>
+          </ul></p>
         </body>
       </topic>
     </topic>
@@ -124,21 +97,21 @@
         <p>The three categories are:</p>
         <ul>
           <li>
-            <p>Low Impact (see <xref href="#low-impact-incident" format="html">here</xref> );</p>
+            <p>Low Impact (refer <xref href="#low-impact-incident" format="html">here</xref> );</p>
           </li>
           <li>
-            <p>Medium Impact (see <xref href="#medium-impact-incident" format="html">here</xref> );</p>
+            <p>Medium Impact (refer <xref href="#medium-impact-incident" format="html">here</xref> );</p>
           </li>
           <li>
-            <p>High Impact (see <xref href="#high-impact-incident" format="html">here</xref> ).</p>
+            <p>High Impact (refer <xref href="#high-impact-incident" format="html">here</xref> ).</p>
           </li>
         </ul>
         <p>
           <b>POL.IMP.005:</b>
         </p>
         <p>All IT Security incidents <b>must be</b> categorised in accordance with this policy.</p>
-        <p>The nature of an incident may not be immediately obvious when it is first reported; further assessments of its categorisation need to be made as more information is gathered. For example, through conducting an investigation (see Figure 2 which outlines this process flow).</p>
-        <p>The sub-sections below provide an overview of the three categories with further guidance on its practical application provided in <xref href="incident-management-plan-and-process-guide.dita" format="dita">IT Security – Incident Management Plan and Process Guide</xref>.</p>
+        <p>The nature of an incident may not be immediately obvious when it is first reported; further assessments of its categorisation need to be made as more information is gathered. For example, through conducting an investigation (refer to Figure 2 which outlines this process flow).</p>
+        <p>The following sub-sections provide an overview of the three categories with further guidance on its practical application provided in <xref href="incident-management-plan-and-process-guide.dita" format="dita">IT Security – Incident Management Plan and Process Guide</xref>.</p>
       </body>
       <topic id="low-impact-incident">
         <title>Low impact incident</title>
@@ -150,54 +123,24 @@
       <topic id="medium-impact-incident">
         <title>Medium impact incident</title>
         <body>
-          <p>Examples of a medium level impact event include (but not limited to):</p>
+          <p>Examples of a medium level impact event include (but are not limited to):
           <ul>
-            <li>
-              <p>Deliberate disregard for the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/" format="html" scope="external">IT Security Policy</xref> leading to minor breach in security or the potential of data loss;</p>
-            </li>
-            <li>
-              <p>Inappropriate use of <ph conref="conrefs.dita#conrefs/moj"/> IT assets as defined in <xref href="it-acceptable-use-policy.dita" format="dita">IT Security - Acceptable Use Policy</xref>;</p>
-            </li>
-            <li>
-              <p>Loss of data or IT asset (where the data or asset does not contain any personal data and is not protectively marked);</p>
-            </li>
-            <li>
-              <p>Theft of data or IT asset (where the data or asset is does not contain any personal data and is not protectively marked);</p>
-            </li>
-            <li>
-              <p>Damage to any <ph conref="conrefs.dita#conrefs/moj"/> IT asset;</p>
-            </li>
-            <li>
-              <p>Connecting unauthorised equipment to an IT system (where there is no intent or suspicion of malicious activity);</p>
-            </li>
-            <li>
-              <p>Prolonged or permanent failure of an IT system;</p>
-            </li>
-            <li>
-              <p>Prolonged set of unsuccessfully attempts to scan an IT network or instigate a denial of service attack;</p>
-            </li>
-            <li>
-              <p>Any alert or reported suspicious activity on an IT system (note this may need to be escalated to High Impact upon investigation);</p>
-            </li>
-            <li>
-              <p>Compromise of integrity;</p>
-            </li>
-            <li>
-              <p>The recognition of a new critical security vulnerability in an IT system (this may be the result of a penetration test);</p>
-            </li>
-            <li>
-              <p>The release of a critical patch by an application or IT equipment vendor;</p>
-            </li>
-            <li>
-              <p>Localised report of malicious code (e.g. the detection of a virus or malware of a desktop terminal);</p>
-            </li>
-            <li>
-              <p>Serious case of equipment theft;</p>
-            </li>
-            <li>
-              <p>The theft or loss of HMG cryptographic material.</p>
-            </li>
-          </ul>
+            <li>Deliberate disregard for the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="it-security-policy-overview.dita" format="dita">IT Security Policy</xref> leading to minor breach in security or the potential of data loss;</li>
+            <li>Inappropriate use of <ph conref="conrefs.dita#conrefs/moj"/> IT assets as defined in <xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref>;</li>
+            <li>Loss of data or IT asset (where the data or asset does not contain any personal data and is not protectively marked);</li>
+            <li>Theft of data or IT asset (where the data or asset is does not contain any personal data and is not protectively marked);</li>
+            <li>Damage to any <ph conref="conrefs.dita#conrefs/moj"/> IT asset;</li>
+            <li>Connecting unauthorised equipment to an IT system (where there is no intent or suspicion of malicious activity);</li>
+            <li>Prolonged or permanent failure of an IT system;</li>
+            <li>Prolonged set of unsuccessfully attempts to scan an IT network or instigate a denial of service attack;</li>
+            <li>Any alert or reported suspicious activity on an IT system (note this may need to be escalated to High Impact upon investigation);</li>
+            <li>Compromise of integrity;</li>
+            <li>The recognition of a new critical security vulnerability in an IT system (this may be the result of a penetration test);</li>
+            <li>The release of a critical patch by an application or IT equipment vendor;</li>
+            <li>Localised report of malicious code (e.g. the detection of a virus or malware of a desktop terminal);</li>
+            <li>Serious case of equipment theft; or</li>
+            <li>The theft or loss of HMG cryptographic material.</li>
+          </ul></p>
         </body>
       </topic>
       <topic id="high-impact-incident">
@@ -231,7 +174,7 @@
       <topic id="further-escalation-requirements">
         <title>Further escalation requirements</title>
         <body>
-          <p>The decisions to escalate an incident irrespective of its impact up through the chain from ITSO, <ph conref="conrefs.dita#conrefs/moj"/> SIRO, DSO, and above (possible to Ministerial level) may include the following factors:</p>
+          <p>The decisions to escalate an incident irrespective of its impact up through the chain from ITSO, <ph conref="conrefs.dita#conrefs/moj"/> SIRO, DSO, and higher (possible to Ministerial level) may include the following factors:</p>
           <ul>
             <li>
               <p>Issues of national security;</p>
@@ -352,7 +295,7 @@
     <topic id="escalation-path">
       <title>Escalation Path</title>
       <body>
-        <p>As a rule, all IT Security incidents are reported to OST. As depicted in Figure 2, OST then progress the incident according to its categorisation (see <xref href="#categorisation-of-incidents" format="dita">here</xref> ). Depending on the category and nature of the incident, this can involve escalating the incident to other stakeholders.</p>
+        <p>As a rule, all IT Security incidents are reported to OST. As depicted in Figure 2, OST then progress the incident according to its categorisation (refer <xref href="#categorisation-of-incidents" format="dita">here</xref> ). Depending on the category and nature of the incident, this can involve escalating the incident to other stakeholders.</p>
         <p>
           <b>POL.IMP.015:</b>
         </p>
@@ -399,7 +342,7 @@
         <p>
           <b>POL.ITSEC.018:</b>
         </p>
-        <p>An IT system which has a significant compromise (Medium or High impact, see <xref href="#categorisation-of-incidents" format="dita">here</xref> ) <b>must be</b> reported to the system Accreditor and a review of that system's risk assessment and accreditation must be conducted.</p>
+        <p>An IT system which has a significant compromise (Medium or High impact, refer <xref href="#categorisation-of-incidents" format="dita">here</xref> ) <b>must be</b> reported to the system Accreditor and a review of that system's risk assessment and accreditation must be conducted.</p>
         <p>
           <b>POL.ITSEC.019:</b>
         </p>
@@ -415,7 +358,7 @@
           <b>POL.ITSEC.020:</b>
         </p>
         <p>The IT Security Incident Management Plan for an IT System or overarching IT Domain <b>must include</b> details on how that system or IT domain IT services are restored (or recovered) following an IT Security incident.</p>
-        <p audience="audience-suppliers audience-tech"><b>Note</b> – The detail of how an IT system recovers from an incident event should be captured in that systems disaster recovery plan. See <xref href="it-disaster-recovery-policy.dita" format="dita">IT Security – Disaster Recovery Policy</xref> for further information.</p>
+        <p audience="audience-suppliers audience-tech"><b>Note</b> – The detail of how an IT system recovers from an incident event should be captured in that systems disaster recovery plan. Refer to the <xref href="it-disaster-recovery-policy.dita" format="dita">IT Security – Disaster Recovery Policy</xref> for further information.</p>
       </body>
     </topic>
   </topic>
@@ -432,7 +375,7 @@
         <p>
           <b>POL.ITSEC.021:</b>
         </p>
-        <p>For each Medium and High impact (see <xref href="#categorisation-of-incidents" format="dita">here</xref> ) IT Security incident, a management report <b>must be</b> prepared covering:</p>
+        <p>For each Medium and High impact (refer <xref href="#categorisation-of-incidents" format="dita">here</xref> ) IT Security incident, a management report <b>must be</b> prepared covering:</p>
         <ul>
           <li>
             <p>A description of the incident;</p>

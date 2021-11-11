@@ -19,7 +19,7 @@
     <title>Security-related log data retention</title>
     <body>
       <p>Log data created and processed for information security purposes should be retained for no longer than 2 (two) years by default (this is subject to any legislative or regulative compliance requirements) but for a minimum of 6 months.</p>
-      <p>These times are generalistic as a guide, and require contextual analysis particularly where Personal Data is involved.</p>
+      <p>These times are general as a guide, and require contextual analysis particularly where Personal Data is involved.</p>
     </body>
   </topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>

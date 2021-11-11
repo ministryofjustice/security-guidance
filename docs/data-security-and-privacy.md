@@ -22,6 +22,11 @@ To follow the data regulation/legislation, we **must** ensure that:
 -   we collect data only for described, lawful purposes
 -   we use data only for the described, lawful purposes
 
+**Related information**  
+
+
+[Email blocking policy](email-blocklist-policy.md)
+
 ## Why are security and privacy important?
 
 Breaches can have an adverse effect the relationship between citizen and government.
@@ -45,6 +50,12 @@ You can design your product to handle personal information correctly. There are 
 The [Information Commissioner's Office \(ICO\)](https://ico.org.uk) - the UK's independent regulatory office for data protection - has published [guidance on how to determine what is personal data](https://ico.org.uk/media/for-organisations/documents/1554/determining-what-is-personal-data.pdf).
 
 A Data Protection Impact Assessment \(DPIA, formerly commonly known as a Privacy Impact Assessment or PIA\) is required for all projects. There are some [exceptions described by the ICO](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/exemptions/).
+
+## Data privacy
+
+The MoJ [Data Privacy Team](mailto:privacy@justice.gov.uk) provides services, guidance, and support for all aspects of data privacy and protection.
+
+For example, they have [protocols and procedures](acceptable-use-policy.md#data-protection-acceptable-use-protocols-and-standard-operating-procedures) to help ensure acceptable use of personal information.
 
 ## Contact details
 

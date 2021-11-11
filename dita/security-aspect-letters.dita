@@ -113,7 +113,7 @@
           <p>Email systems meeting the <xref href="https://www.gov.uk/guidance/securing-government-email" format="html" scope="external">'Securing government email' guidance</xref></p>
         </li>
         <li>
-          <p>Transport Level Encryption (TLS) version 1.2 and above aligned to NCSC recommended configuration(s)</p>
+          <p>Transport Level Encryption (TLS) version 1.2 and higher, aligned to NCSC recommended configuration(s)</p>
         </li>
         <li>
           <p>Internet Protocol Security (IPSec) aligned to NCSC recommendation configuration(s)</p>
@@ -147,7 +147,7 @@
     <body>
       <p><codeph>&lt;ORGANISATION SHORTNAME&gt;</codeph> will be required to return a declaration.</p>
       <p>
-        <i>Please sign the declaration below and return this letter to the Authority, keeping a copy for your own records. Should you have any queries, please contact the Authority via your point of contact and/or the contact details located within the SAL.</i>
+        <i>Please sign the following declaration and return this letter to the Authority, keeping a copy for your own records. Should you have any queries, please contact the Authority via your point of contact and/or the contact details located within the SAL.</i>
       </p>
       <p>
         <b>

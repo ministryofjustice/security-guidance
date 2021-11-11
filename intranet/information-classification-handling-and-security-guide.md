@@ -31,7 +31,7 @@ It is the responsibility of the Data Owner to classify the data.
 * Most production data is `OFFICIAL` information. Within this, some production data might be classified as `SECRET` information.
 * Most personal data is `OFFICIAL` information. Within this, some personal data might be classified as `SECRET` information if it meets the risk threshold defined.
 
-The table below sets out the definitions for each security classification, as well as whether it is necessary to explicitly "mark" a piece of information with its classification type.
+The following table sets out the definitions for each security classification, as well as whether it is necessary to explicitly "mark" a piece of information with its classification type.
 
 |Classification|Definition|Marking|
 |--------------|----------|-------|
@@ -45,7 +45,7 @@ Additional information on how to manage information is described in the [Informa
 
 Information security classification may change throughout the information lifecycle. It is important to apply appropriate security classifications and continually evaluate them.
 
-The consequences of not classifying information correctly are outlined below:
+The consequences of not classifying information correctly are outlined as follows:
 
 * Applying too high a marking can inhibit business operations, such as collaboration, and lead to unnecessary and expensive protective controls being applied.
 * Applying too low a marking may result in inappropriate controls, and may put sensitive assets at greater risk of compromise.
