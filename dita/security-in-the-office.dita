@@ -19,7 +19,7 @@
           <p>Always use a privacy screen.</p>
         </li>
         <li>
-          <p>Be mindful of being overseen from outside. Position your monitor where it cannot be seen by anyone looking in.</p>
+          <p>Be mindful of being overseen from outside. Position computer screens so that they cannot be seen by anyone looking in. Ensure that whiteboards are cleaned at the end of meetings, and cannot be read from outside the building while in use. Ensure that noticeboards cannot be read from outside the building.</p>
         </li>
         <li>
           <p>Where there is insufficient lockable storage space, you <ph conref="conrefs.dita#conrefs/policymust"/> secure the premises where sensitive information or documents are held. If you are uncertain, talk to your manager.</p>
@@ -63,7 +63,7 @@
           <p>Ideally memorise the combination setting, but if you must keep a local record, make it cryptic and store it in a secure location. Treat the combination like a <xref href="passwords.dita" format="dita">password</xref> and protect it accordingly.</p>
         </li>
         <li>
-          <p>Forward a written cryptic record of the settings of combination locks for secure cabinets or safes (but not key safes) to <ph conref="conrefs.dita#conrefs/securityemail"/>. For example, you might conceal the combination within a telephone number.</p>
+          <p>Forward a written cryptic record of the settings of combination locks for secure cabinets or safes (but not key safes) to <xref href="mailto:security@justice.cg.gov.uk" format="email" scope="external">security@justice.cg.gov.uk</xref>. For example, you might conceal the combination within a telephone number.</p>
         </li>
         <li>
           <p>Change combinations at least every 6 months. Always change the combinations whenever a staff member who knew the combination leaves.</p>

@@ -29,7 +29,7 @@ This document is a summary of the key security points for working in a Ministry 
 
 -   Always use a privacy screen.
 
--   Be mindful of being overseen from outside. Position your monitor where it cannot be seen by anyone looking in.
+-   Be mindful of being overseen from outside. Position computer screens so that they cannot be seen by anyone looking in. Ensure that whiteboards are cleaned at the end of meetings, and cannot be read from outside the building while in use. Ensure that noticeboards cannot be read from outside the building.
 
 -   Where there is insufficient lockable storage space, you **SHALL** secure the premises where sensitive information or documents are held. If you are uncertain, talk to your manager.
 
@@ -56,7 +56,7 @@ Compromising a security key or a combination setting may have more widespread ef
 
 -   Ideally memorise the combination setting, but if you must keep a local record, make it cryptic and store it in a secure location. Treat the combination like a [password](passwords.md) and protect it accordingly.
 
--   Forward a written cryptic record of the settings of combination locks for secure cabinets or safes \(but not key safes\) to [security@justice.gov.uk](mailto:security@justice.gov.uk). For example, you might conceal the combination within a telephone number.
+-   Forward a written cryptic record of the settings of combination locks for secure cabinets or safes \(but not key safes\) to [security@justice.cg.gov.uk](mailto:security@justice.cg.gov.uk). For example, you might conceal the combination within a telephone number.
 
 -   Change combinations at least every 6 months. Always change the combinations whenever a staff member who knew the combination leaves.
 
