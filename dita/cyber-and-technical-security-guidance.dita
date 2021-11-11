@@ -18,7 +18,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <ul>
             <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">General app guidance</xref></li>
             <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements Guide</xref></li>
-            <li><xref href="official-official-sensitive.dita" format="dita">OFFICIAL, OFFICIAL-SENSITIVE</xref> classifications and handling</li>
+            <li><xref href="government-classification-scheme.dita" format="dita">Government classification scheme</xref></li>
             <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref></li>
             <li><xref href="remote-working.dita" format="dita">Remote Working</xref></li>
           </ul>
@@ -613,10 +613,12 @@ has made for the products we operate, and our relationships with suppliers.</p>
 					<entry colname="col1" align="left"><xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref></entry>
 					<entry colname="col2" align="right">All users (Policy)</entry>
 				</row>
+        <!--
               <row>
-                <entry colname="col1" align="left"><xref href="official-official-sensitive.dita" format="dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/official-official-sensitive/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
+                <entry colname="col1" align="left"><xref href="official-official-sensitive.dita" format="dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
+            -->
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="secrets-management.dita" format="dita">Secrets management</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
