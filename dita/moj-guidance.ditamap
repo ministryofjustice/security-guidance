@@ -181,6 +181,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="entry-and-exit-search-policy.dita" type="topic"/>
 			<topicref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" type="topic"/>
 			<topicref href="physical-security-policy.dita" type="topic"/>
+			<topicref href="security-in-the-office.dita" type="topic"/>
 		</topichead>
 		<topichead>
 			<topicmeta><navtitle>Equipment</navtitle></topicmeta>
@@ -501,6 +502,21 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="system-lockdown-and-hardening-standard.dita"/>
 				<topicref href="system-test-standard.dita"/>
 				<topicref href="use-of-hmg-cryptography-policy.dita"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="security-in-the-office.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="clear-screen-and-desk.dita"/>
+				<topicref href="mobile-device-and-remote-working-policy.dita"/>
+				<topicref href="passwords.dita"/>
+				<topicref href="physical-security-policy.dita"/>
+				<topicref href="remote-working.dita"/>
+				<topicref href="removable-media.dita"/>
+				<topicref href="reporting-an-incident.dita"/>
+				<topicref href="working-securely-with-paper-documents-and-files.dita"/>
 			</relcell>
 		</relrow>
 	</reltable>

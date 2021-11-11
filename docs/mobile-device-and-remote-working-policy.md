@@ -3,6 +3,11 @@
 -   **[Remote Working](remote-working.md)**  
 
 
+**Related information**  
+
+
+[Security in the office](security-in-the-office.md)
+
 ## Introduction
 
 This policy gives an overview of mobile devices and remote working security principles and responsibilities within the Ministry of Justice \(MoJ\). It provides a summary of the MoJ's related policies and guides in relation to mobile devices and remote working.

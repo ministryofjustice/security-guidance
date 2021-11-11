@@ -4,6 +4,11 @@ There are many helpful policies and best practices that improve Ministry of Just
 
 **Note:** In addition to this advice in this document, you should review and follow the guidance in the [remote working](remote-working.md) guidance, for example [thinking before you print](remote-working.md#printing).
 
+**Related information**  
+
+
+[Security in the office](security-in-the-office.md)
+
 ## Clear screen
 
 Users **SHALL** comply with the following:
