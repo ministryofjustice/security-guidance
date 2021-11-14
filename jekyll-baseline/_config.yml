@@ -1,6 +1,8 @@
 title: "Security Guidance"
 show_govuk_logo: true
 
+include: [".well-known"]
+
 plugins:
   - jekyll-redirect-from
 
