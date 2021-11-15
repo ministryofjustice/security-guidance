@@ -8,15 +8,15 @@ An ITHC is a series of controlled ethical hacking tests and actions designed to 
 
 There are 3 primary scenarios when an ITHC might be undertaken:
 
-## Introduction of new IT services
+### Introduction of new IT services
 
 An ITHC at this phase of a project life cycle helps to establish the security baseline before the solution is made available for wider use. It provides the ability to act on any risks and issues identified whilst in a safe environment and reduces impact on others \(users as well as systems\) overall.
 
-## Changes to an existing IT baseline
+### Changes to an existing IT baseline
 
 Any major design change to an existing IT service should include a review for a new ITHC to determine that the baseline change does not introduce security risks. ITHC's are normally performed prior to formal release/rollout of the changes being made and therefore identification and mitigation plans can be established and undertaken in a safe environment.
 
-## Scheduled ITHC for existing IT services
+### Scheduled ITHC for existing IT services
 
 As technology continues to evolve, it is important to understand the impact that this might have on existing solutions. Therefore, is it recommended that Product and Service owners work with the CAT Team \(Cyber Assistance Team\) to review existing IT solutions and plan to undertake an ITHC on an agreed schedule. This helps to re-assess the security baseline, remediate any risks and issues as agreed, and therefore provide ongoing protection of systems and data.
 
@@ -40,12 +40,24 @@ There are many types of penetration tests that can be applied, including but not
 
 -   Build configuration
 
+## Cloud Platforms
+
+If the application / service you intend to test is hosted within a cloud platform service offering, such as Azure and AWS (Amazon Web Service), there are Rules of Engagement that you should be aware of.  Information can be found for the following:
+
+-   Microsoft Azure: https://www.microsoft.com/en-us/msrc/pentest-rules-of-engagement
+-   AWS: https://aws.amazon.com/security/penetration-testing/
+
+Further to this, the MoJ AWS Cloud Platform Team have produced additional guidance that can be access here:
+https://user-guide.cloud-platform.service.justice.gov.uk/documentation/other-topics/security-testing-and-ithc.html#security-testing-and-ithc
+
 
 ## Vulnerability Scanning
 
 A vulnerability scan is not the same as an ITHC however, it can be performed and used to help build on the overarching story of the product being tested.
 
 A vulnerability scan is automated and is entirely software whereas an ITHC is conducted by trained, qualified professionals, and uses human interaction and human ingenuity to discover flaws that automated tools often miss.
+
+Further information and guidance about vulnerability scanning can be found here: https://security-guidance.service.justice.gov.uk/vulnerability-scanning-guide/#roles-and-responsibilities
 
 # Primary Points of Contact
 
@@ -65,11 +77,11 @@ The Cyber Security, Privacy and Live Service Delivery Team manage the engagement
 
 # Governance, workflow and timeline considerations
 
-## Timeline Consideration
+### Timeline Consideration
 
 It is recommended that an approximate timeline of 8 weeks is considered in your project plan to enable the planning and undertaking of the ITHC. Maturity, size, and complexity of the scope will influence this.
 
-## Scope Changes
+### Scope Changes
 
 Changes to scope can be reviewed and considered. However, there is a risk that this will affect delivery dates, ITHC Provider availability, and end quote price.
 
