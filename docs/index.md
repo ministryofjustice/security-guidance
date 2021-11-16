@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 9 November 2021.
+**Note:** This guidance is dated: 16 November 2021.
 
 ### Popular links
 
@@ -34,7 +34,7 @@ For convenience, offline versions of this guidance are available.
 |Group Security. Contains Group Security policy and guidance.|[PDF](moj-guidance-gs.pdf)|[EPUB](moj-guidance-gs.epub)|
 |Technical users. Includes lots of technical detail. This document contains all content, including for 'All users' and from Group Security. Download this document if you want the complete set of published MoJ security policy and guidance.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 9 December 2021.
+The offline versions of this guidance are time-limited, and are not valid after 16 December 2021.
 
 ### Getting in touch
 
@@ -407,15 +407,19 @@ The documents have been developed and defined within this taxonomy, and are list
 
 ## Other Guidance
 
+The [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) provides the base material for all security guidance in the MoJ.
+
+### Glossary
+
 A glossary of some terms used in this guidance is available [here](glossary.md).
+
+### Acronyms
 
 A more extensive list of acronyms is available [here](https://ministryofjustice.github.io/acronyms/).
 
 ### Technical Guidance
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) should be read together with this security-focused guidance.
-
-The [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) provides the base material for all security guidance in the MoJ.
 
 ## Feedback
 
