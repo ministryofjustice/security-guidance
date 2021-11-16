@@ -2,36 +2,33 @@
 
 This guidance information applies to all staff, contractors and agency staff who work for the MoJ.
 
-**Note:** You need to have business and HR approval before you can perform MoJ work from overseas. Before addressing the security requirements, ensure you have first reviewed and followed the overall business and HR requirements. More information about these can be found on the [MoJ Intranet](https://intranet.justice.gov.uk/guidance/).
+**Note:** If you are national security cleared to SC or DV levels, or subject to STRAP briefing, follow this process for all your trips, regardless of whether they are for business or personal reasons.
 
-**Note:** If you are national security cleared to SC or DV levels, or subject to STRAP briefing, follow this security guidance process for all your trips, regardless of whether they are for business or personal reasons.
-
-As a government official travelling overseas, you should consider that you may be of interest to hostile parties regardless of your role. By following MoJ policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.
+As a government official travelling overseas, you might be of interest to hostile parties, regardless of your role. By following MoJ policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.
 
 Essential guidance is provided in the [overseas travel information](overseas-travel.md).
 
-In general, from a security perspective it is acceptable for MoJ users to access MoJ services from overseas, and to do this using their MoJ equipment, if you have the necessary permissions and approvals. But before you travel, consider:
+In general, from a security perspective it is acceptable for MoJ users to access MoJ services from overseas, and to do this using their MoJ equipment But before you travel, consider:
 
 -   Do you need to take MoJ IT equipment overseas or access MoJ IT systems to do your job?
 -   Can the business need be met in another way or by someone else?
 -   If you just need to manage your inbox while away, can you delegate permissions to your inbox to a colleague to manage on your behalf?
--   Have you left enough time to check and obtain necessary approvals? The process can take several weeks, depending on the circumstances. This is because it may be necessary to apply additional technical controls to protect you, your devices, and any data the devices can access.
+-   Have you left enough time to check and obtain necessary approvals? The process can take several weeks, depending on the circumstances. This is because it might be necessary to apply additional technical controls to protect you, your devices, and any data the devices can access.
 
 ## Steps to follow before travelling
 
 ### Part One
 
 1.  Get confirmation from your Senior Line Manager \(Head of your immediate team\) that there is a business need for you to take MoJ IT equipment overseas and access MoJ services. Keep a note of the answers you get.
-2.  If you are national security cleared to SC or DV levels, or are subject to STRAP briefing, you should tell the [Cluster 2 STRAP team](mailto:STRAPTeam@cluster2security.gov.uk) that you are planning to travel outside the UK.
-3.  Proceed directly to [Part Two](#part-two) of this process if you are travelling to or passing through one of the following countries:
+2.  Proceed directly to [Part Two](#part-two) of this process if you are travelling to or passing through one of the following countries **and** are intending to take any MoJ equipment or devices:
 
     > Argentina, Armenia, Azerbaijan, Belarus, China \(including Hong Kong\), Egypt, Estonia, Georgia, India, Indonesia, Iran, Israel, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, the northern area of the Republic of Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey, Turkmenistan, UAE, Ukraine, Uzbekistan.
 
-4.  Proceed directly to [Part Two](#part-two) of this process if you are national security cleared to SC or DV levels, **and** are planning to travel to or pass through one of the listed countries previously, even if you are not taking MoJ IT equipment or planning to access MoJ systems or services.
-5.  If you are subject to STRAP briefing and intend to travel to or through countries not in Western Europe, North America, Australia, or New Zealand, notify the STRAP team at [STRAPTeam@cluster2security.gov.uk](mailto:STRAPTeam@cluster2security.gov.uk) **and** proceed directly to [Part Two](#part-two) of this process.
-6.  If you have reached this step, you do not need to seek further formal approval from security for your trip.
-7.  Take a **non-physical copy** of this guidance; it includes useful contact details that help in the event of a problem while travelling.
-8.  Check if you need to do anything to prepare for [International Roaming](#international-roaming). Refer to the [International Roaming](#international-roaming) section.
+3.  Proceed directly to [Part Two](#part-two) of this process if you are national security cleared to SC or DV levels, **and** are planning to travel to or pass through one of the listed countries previously, regardless of whether or not you are taking MoJ IT equipment or planning to access MoJ systems or services.
+4.  If you are subject to STRAP briefing and intend to travel to or through countries not in Western Europe, North America, Australia, or New Zealand, notify the STRAP team at [STRAPTeam@cluster2security.gov.uk](mailto:STRAPTeam@cluster2security.gov.uk) **and** proceed directly to [Part Two](#part-two) of this process.
+5.  If you have reached this step, you do not need to seek further formal approval from security for your trip.
+6.  Take **physical** and **non-physical** copies of this guidance; it includes useful contact details that help in the event of a problem while travelling.
+7.  Check if you need to do anything to prepare for [International Roaming](#international-roaming). Refer to the [International Roaming](#international-roaming) section.
 
 ### Part Two
 
@@ -62,8 +59,8 @@ In general, from a security perspective it is acceptable for MoJ users to access
     -   Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
 3.  Fill in the [overseas travel form](/gs/overseas-travel-form.docx).
 4.  Send the completed form to [security@justice.gov.uk](mailto:security@justice.gov.uk), including the answers obtained from the earlier parts of this process.
-5.  Your request will be considered, and an answer provided, as quickly as possible.
-6.  Take a **non-physical copy** of this guidance; it includes useful contact details that help in the event of a problem while travelling.
+5.  Your request is considered, and an answer provided, as quickly as possible.
+6.  Take **physical** and **non-physical** copies of this guidance; it includes useful contact details that help in the event of a problem while travelling.
 7.  Check if you need to do anything to prepare for [International Roaming](accessing-moj-it-systems-from-overseas.md#). Refer to the [International Roaming](accessing-moj-it-systems-from-overseas.md#) section.
 
 ## International Roaming

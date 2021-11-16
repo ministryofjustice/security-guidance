@@ -4,16 +4,18 @@
 	<title>Accessing <ph conref="conrefs.dita#conrefs/mojlong"/> IT systems from overseas</title>
 	<body>
 		<p>This guidance information applies to all staff, contractors and agency staff who work for the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+		<!--
 		<note importance="high">You need to have business and HR approval before you can perform <ph conref="conrefs.dita#conrefs/moj"/> work from overseas. Before addressing the security requirements, ensure you have first reviewed and followed the overall business and HR requirements. More information about these can be found on the <xref href="https://intranet.justice.gov.uk/guidance/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Intranet</xref>.</note>
-		<note importance="high">If you are national security cleared to SC or DV levels, or subject to STRAP briefing, follow this security guidance process for all your trips, regardless of whether they are for business or personal reasons.</note>
-		<p>As a government official travelling overseas, you should consider that you may be of interest to hostile parties regardless of your role. By following <ph conref="conrefs.dita#conrefs/moj"/> policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.</p>
+		-->
+		<note importance="high">If you are national security cleared to SC or DV levels, or subject to STRAP briefing, follow this process for all your trips, regardless of whether they are for business or personal reasons.</note>
+		<p>As a government official travelling overseas, you might be of interest to hostile parties, regardless of your role. By following <ph conref="conrefs.dita#conrefs/moj"/> policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.</p>
 		<p>Essential guidance is provided in the <xref href="overseas-travel.dita" format="dita">overseas travel information</xref>.</p>
-		<p>In general, from a security perspective it is acceptable for <ph conref="conrefs.dita#conrefs/moj"/> users to access <ph conref="conrefs.dita#conrefs/moj"/> services from overseas, and to do this using their <ph conref="conrefs.dita#conrefs/moj"/> equipment, if you have the necessary permissions and approvals. But before you travel, consider:
+		<p>In general, from a security perspective it is acceptable for <ph conref="conrefs.dita#conrefs/moj"/> users to access <ph conref="conrefs.dita#conrefs/moj"/> services from overseas, and to do this using their <ph conref="conrefs.dita#conrefs/moj"/> equipment But before you travel, consider:
 		<ul>
 			<li>Do you need to take <ph conref="conrefs.dita#conrefs/moj"/> IT equipment overseas or access <ph conref="conrefs.dita#conrefs/moj"/> IT systems to do your job?</li>
 			<li>Can the business need be met in another way or by someone else?</li>
 			<li>If you just need to manage your inbox while away, can you delegate permissions to your inbox to a colleague to manage on your behalf?</li>
-			<li>Have you left enough time to check and obtain necessary approvals? The process can take several weeks, depending on the circumstances. This is because it may be necessary to apply additional technical controls to protect you, your devices, and any data the devices can access.</li>
+			<li>Have you left enough time to check and obtain necessary approvals? The process can take several weeks, depending on the circumstances. This is because it might be necessary to apply additional technical controls to protect you, your devices, and any data the devices can access.</li>
 		</ul></p>
 	</body>
 	<topic id="steps-to-follow-before-travelling">
@@ -24,13 +26,15 @@
 			<body>
 				<ol>
 					<li>Get confirmation from your Senior Line Manager (Head of your immediate team) that there is a business need for you to take <ph conref="conrefs.dita#conrefs/moj"/> IT equipment overseas and access <ph conref="conrefs.dita#conrefs/moj"/> services. Keep a note of the answers you get.</li>
+					<!--
 					<li>If you are national security cleared to SC or DV levels, or are subject to STRAP briefing, you should tell the <ph conref="conrefs.dita#conrefs/strapteamemailtext"/> that you are planning to travel outside the UK.</li>
-					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process if you are travelling to or passing through one of the following countries:
+					-->
+					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process if you are travelling to or passing through one of the following countries <b>and</b> are intending to take any <ph conref="conrefs.dita#conrefs/moj"/> equipment or devices:
 						<lq>Argentina, Armenia, Azerbaijan, Belarus, China (including Hong Kong), Egypt, Estonia, Georgia, India, Indonesia, Iran, Israel, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, the northern area of the Republic of Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey, Turkmenistan, UAE, Ukraine, Uzbekistan.</lq></li>
-					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process if you are national security cleared to SC or DV levels, <b>and</b> are planning to travel to or pass through one of the listed countries previously, even if you are not taking <ph conref="conrefs.dita#conrefs/moj"/> IT equipment or planning to access <ph conref="conrefs.dita#conrefs/moj"/> systems or services.</li>
+					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process if you are national security cleared to SC or DV levels, <b>and</b> are planning to travel to or pass through one of the listed countries previously, regardless of whether or not you are taking <ph conref="conrefs.dita#conrefs/moj"/> IT equipment or planning to access <ph conref="conrefs.dita#conrefs/moj"/> systems or services.</li>
 					<li>If you are subject to STRAP briefing and intend to travel to or through countries not in Western Europe, North America, Australia, or New Zealand, notify the STRAP team at <ph conref="conrefs.dita#conrefs/strapteamemail"/> <b>and</b> proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process.</li>
 					<li>If you have reached this step, you do not need to seek further formal approval from security for your trip.</li>
-					<li id="tip-1">Take a <b>non-physical copy</b> of this guidance; it includes useful contact details that help in the event of a problem while travelling.</li>
+					<li id="tip-1">Take <b>physical</b> and <b>non-physical</b> copies of this guidance; it includes useful contact details that help in the event of a problem while travelling.</li>
 					<li id="tip-2">Check if you need to do anything to prepare for <xref href="#international-roaming" format="dita">International Roaming</xref>. Refer to the <xref href="#international-roaming" format="dita">International Roaming</xref> section.</li>
 				</ol>
 			</body>
@@ -78,7 +82,7 @@
 					</li>
 					<li>Fill in the <xref href="/gs/overseas-travel-form.docx" format="docx" scope="external" platform="html">overseas travel form</xref><xref href="https://security-guidance.service.justice.gov.uk/gs/overseas-travel-form.docx" format="docx" scope="external" platform="epub pdf">overseas travel form</xref>.</li>
 					<li>Send the completed form to <ph conref="conrefs.dita#conrefs/securityemail"/>, including the answers obtained from the earlier parts of this process.</li>
-					<li>Your request will be considered, and an answer provided, as quickly as possible.</li>
+					<li>Your request is considered, and an answer provided, as quickly as possible.</li>
 					<li conref="#part-one/tip-1"/>
 					<li conref="#part-one/tip-2"/>
 				</ol>
