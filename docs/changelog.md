@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-11-17 17:07 GMT [Personal devices](https://security-guidance.service.justice.gov.uk/personal-devices/#guidance)**
+
+    Updated guidance about using a personal device to connect to a business Teams meeting as a Guest.
+
 -   **2021-11-09 15:37 GMT [Acceptable use policy](https://security-guidance.service.justice.gov.uk/acceptable-use-policy/)**
 
     Provide more detail on monitoring of systems and information, and to clarify the situation regarding Data Protection and the storage or processing of information outside the UK.
