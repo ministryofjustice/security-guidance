@@ -21,8 +21,10 @@ Personal devices **SHALL NOT** be charged from the USB ports of an MoJ device.
 ##Guidance
 
 * If you have an MoJ-issued device or virtual environment, you **SHALL** use that.
-* You **SHALL NOT** use a personal device to access Office 365 tools such as Outlook email or calendar, Word, Excel, or Powerpoint for work purposes.
 * You **SHALL NOT** use a personal device to access Google Workspace tools such as Gmail, Docs, Slides, Sheets, Drive, Meet, or Hangouts for work purposes.
+* You **SHALL NOT** use a personal device to access Office 365 tools such as Outlook email or calendar, Word, Excel, or Powerpoint for work purposes.
+    * Wherever possible, an MoJ work device **SHOULD** be used to join business Teams calls, either via video or dial in.
+    * In cases where staff have not been provided with a work phone or laptop or any other work device which allows them to join or dial into Teams, staff **MAY** join from their personal devices as a Guest. The chair of the meeting **SHALL** confirm the identity of each and every person joining their call as a Guest.
 * This guidance applies to all tools accessed through a web browser or installed client applications.
 * You **SHALL NOT** send MoJ information to your personal email account.
 * You **SHALL NOT** use personal accounts for work purposes.
