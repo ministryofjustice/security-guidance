@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-11-18 17:03 GMT [Protests and demonstrations](https://security-guidance.service.justice.gov.uk/public-protest-and-demonstrations-policy/)**
+
+    Policy and guidance on public protests and demonstrations.
+
 -   **2021-11-17 17:07 GMT [Personal devices](https://security-guidance.service.justice.gov.uk/personal-devices/#guidance)**
 
     Updated guidance about using a personal device to connect to a business Teams meeting as a Guest.

@@ -36,6 +36,7 @@
         -   [Entry and exit search policy](https://security-guidance.service.justice.gov.uk/entry-and-exit-search-policy/)
         -   [Personal mail and parcel delivery policy and procedure](https://security-guidance.service.justice.gov.uk/personal-mail-and-parcel-delivery-policy-and-procedure/)
         -   [Physical Security Policy](https://security-guidance.service.justice.gov.uk/physical-security-policy/)
+        -   [Public protest and demonstrations policy](https://security-guidance.service.justice.gov.uk/public-protest-and-demonstrations-policy/)
         -   [Working securely with paper documents and files](https://security-guidance.service.justice.gov.uk/working-securely-with-paper-documents-and-files/)
 * Incident management
     * [Reporting an incident](https://security-guidance.service.justice.gov.uk/reporting-an-incident/)
