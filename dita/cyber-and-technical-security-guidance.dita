@@ -1437,14 +1437,24 @@ has made for the products we operate, and our relationships with suppliers.</p>
 		</topic>
     -->
     <body>
-      <p>A glossary of some terms used in this guidance is available <xref href="glossary.dita" format="dita">here</xref>.</p>
-      <p conref="conrefs.dita#conrefs/acronyms"></p>
+      <p>The <ph conref="conrefs.dita#conrefs/gov007"/> provides the base material for all security guidance in the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
     </body>
+    <topic id="glossary">
+      <title>Glossary</title>
+      <body>
+        <p>A glossary of some terms used in this guidance is available <xref href="glossary.dita" format="dita">here</xref>.</p>
+      </body>
+    </topic>
+    <topic id="acronyms">
+      <title>Acronyms</title>
+      <body>
+        <p conref="conrefs.dita#conrefs/acronyms"/>
+      </body>
+    </topic>
 		<topic id="technical-guidance">
 			<title>Technical Guidance</title>
 			<body>
 				<p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> should be read together with this security-focused guidance.</p>
-				<p>The <ph conref="conrefs.dita#conrefs/gov007"/> provides the base material for all security guidance in the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
 			</body>
 		</topic>
   </topic>

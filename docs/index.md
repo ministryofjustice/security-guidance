@@ -410,15 +410,19 @@ The documents have been developed and defined within this taxonomy, and are list
 
 ## Other Guidance
 
+The [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) provides the base material for all security guidance in the MoJ.
+
+### Glossary
+
 A glossary of some terms used in this guidance is available [here](glossary.md).
+
+### Acronyms
 
 A more extensive list of acronyms is available [here](https://ministryofjustice.github.io/acronyms/).
 
 ### Technical Guidance
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) should be read together with this security-focused guidance.
-
-The [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) provides the base material for all security guidance in the MoJ.
 
 ## Feedback
 
