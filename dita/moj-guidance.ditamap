@@ -283,6 +283,7 @@ if an audience attribute is present, then only matching content is included.
 			</topicref>
 			<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="secure-data-transfer-guide.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="sending-information-securely.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="web-browsing.dita" type="topic" audience="audience-basic audience-tech">
 				<topicref href="web-browsing-security-policy-profiles.dita" type="topic" audience="audience-basic audience-tech"/>
 			</topicref>
@@ -502,6 +503,14 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="system-lockdown-and-hardening-standard.dita"/>
 				<topicref href="system-test-standard.dita"/>
 				<topicref href="use-of-hmg-cryptography-policy.dita"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="sending-information-securely.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="it-security-policy-overview.dita" linking="targetonly"/>
 			</relcell>
 		</relrow>
 	</reltable>

@@ -56,6 +56,8 @@
 			<ph id="ncsc">NCSC</ph>
 			<ph id="nsvc-contact">If you don't know who your NSVC is,
 				refer to the download <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external">here</xref>.</ph>
+			<ph id="official"><codeph>OFFICIAL</codeph></ph>
+			<ph id="officialsensitive"><ph conref="#conrefs/official-sensitive"/></ph>
 			<ph id="official-sensitive"><codeph>OFFICIAL-SENSITIVE</codeph></ph>
 			<ph id="operationsengineering"><xref href="https://operations-engineering.service.justice.gov.uk/" format="html" scope="external">Operations Engineering</xref></ph>
 			<ph id="ostemail"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="email" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
@@ -82,12 +84,14 @@
 			<ph id="privacyemailtext"><xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">Data Privacy Team</xref></ph>
 			<ph id="recordsretentionemail"><xref href="mailto:Records_Retention_@justice.gov.uk" format="email" scope="external">Records_Retention_@justice.gov.uk</xref></ph>
 			<ph id="recordsretentionemailtext"><xref href="mailto:Records_Retention_@justice.gov.uk" format="email" scope="external">Records and Retention team</xref></ph>
+			<ph id="secret"><codeph>SECRET</codeph></ph>
 			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></ph>
 			<ph id="servicedesk">IT Service Desk</ph>
 			<ph id="softwareassetemail"><xref href="mailto:SoftwareAssetManagement@justice.gov.uk" format="email" scope="external">SoftwareAssetManagement@justice.gov.uk</xref></ph>
 			<ph id="strapteamemail"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="email" scope="external">STRAPTeam@cluster2security.gov.uk</xref></ph>
 			<ph id="strapteamemailtext"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="email" scope="external">Cluster 2 STRAP team</xref></ph>
 			<ph id="tablenote"><b>Note:</b></ph>
+			<ph id="topsecret"><codeph>TOP SECRET</codeph></ph>
 			<ph id="vettingaftercareemail"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="email" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>			
 			<ph id="vettingaftercareemailtext"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="email" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>
 		</p>

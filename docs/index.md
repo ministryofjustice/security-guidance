@@ -319,6 +319,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |[General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
 |[Secure Data Transfer Guide](secure-data-transfer-guide.md)|All users|
 |[Secure Email Transfer Guide](secure-email-transfer-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Sending information securely](sending-information-securely.md)|All users|
 |[Spam and Phishing Guide](spam-and-phishing-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Web browsing security policy profiles](web-browsing-security-policy-profiles.md)|All users \(Policy\)|
 |[Wifi security policy](wifi-security-policy.md)|All users \(Policy\)|
