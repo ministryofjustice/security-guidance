@@ -232,7 +232,8 @@ The documents have been developed and defined within this taxonomy, and are list
 |[CCTV policy](cctv-policy.md)|All users|
 |[Entry and exit search policy](entry-and-exit-search-policy.md)|All users|
 |[Personal mail and parcel delivery policy and procedure](personal-mail-and-parcel-delivery-policy-and-procedure.md)|All users|
-|[Physical Security Policy](physical-security-policy.md)|All users|
+|[Physical security policy](physical-security-policy.md)|All users|
+|[Public protest and demonstrations policy](public-protest-and-demonstrations-policy.md)|All users|
 |[Security in the office](security-in-the-office.md)|All users|
 
 #### Equipment

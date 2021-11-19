@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-11-19 14:29 GMT [Security in the office](https://security-guidance.service.justice.gov.uk/security-in-the-office/)**
+
+    Key security points for working in a Ministry of Justice location.
+
 -   **2021-11-19 10:09 GMT [Sending information securely](https://security-guidance.service.justice.gov.uk/sending-information-securely/)**
 
     Guidance on working securely with paper documents and files.
