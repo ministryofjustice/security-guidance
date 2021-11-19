@@ -15,6 +15,8 @@ This guidance is for all users. It also includes more detail for system administ
 
 [Technical Controls Policy](technical-controls-policy.md)
 
+[Security in the office](security-in-the-office.md)
+
 ## General best practices
 
 **Note:** This section applies to passwords and PINs.

@@ -2,6 +2,11 @@
 
 To help identify formal policy statements, each is prefixed with an identifier of the form: `POLPPRxxx`, where xxx is a unique ID number.
 
+**Related information**  
+
+
+[Security in the office](security-in-the-office.md)
+
 ## Audience
 
 This guidance complements the Ministry of Justice \(MoJ\) overall security policy.

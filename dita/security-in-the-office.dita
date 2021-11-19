@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="security-in-the-office">
+  <title>Security in the office</title>
+  <body>
+    <p>This document is a summary of the key security points for working in a <ph conref="conrefs.dita#conrefs/mojlong"/> location.</p>
+  </body>
+  <topic id="clear-desk-and-clear-screen-policy">
+    <title>Clear desk and clear screen policy</title>
+    <body>
+      <ul>
+        <li>
+          <p>Lock away information securely when not in use.</p>
+        </li>
+        <li>
+          <p>Where you have visitors or non-security vetted guests, please ensure they are not able to see your work, either hard copy or on your computer screen.</p>
+        </li>
+        <li>
+          <p>Always use a privacy screen.</p>
+        </li>
+        <li>
+          <p>Be mindful of being overseen from outside. Position computer screens so that they cannot be seen by anyone looking in. Ensure that whiteboards are cleaned at the end of meetings, and cannot be read from outside the building while in use. Ensure that noticeboards cannot be read from outside the building.</p>
+        </li>
+        <li>
+          <p>Where there is insufficient lockable storage space, you <ph conref="conrefs.dita#conrefs/policymust"/> secure the premises where sensitive information or documents are held. If you are uncertain, talk to your manager.</p>
+        </li>
+      </ul>
+      <p>More information is available in the <xref href="clear-screen-and-desk.dita" format="dita">clear screen and desk guidance</xref>.</p>
+    </body>
+  </topic>
+  <topic id="ensure-your-privacy">
+    <title>Ensure your privacy</title>
+    <body>
+      <ul>
+        <li>
+          <p>Make sure that your private conversations are indeed private, and cannot be overheard by anyone else, especially if you are not in an official work environment.</p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="removing-equipment-or-hard-copy-information-from-moj-offices">
+    <title>Removing equipment or hard copy information from <ph conref="conrefs.dita#conrefs/moj"/> offices</title>
+    <body>
+      <ul>
+        <li>
+          <p>If you are planning to remove or take information out of an office, whether on IT equipment or removable media, or as hard copy, consult your line manager.</p>
+        </li>
+        <li>
+          <p>If you have concerns about the risk of overlooking or overhearing from neighbouring buildings, ask for help: <ph conref="conrefs.dita#conrefs/securityemail"/>.</p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="security-keys-and-combination-locks">
+    <title>Security keys and combination locks</title>
+    <body>
+      <p>Compromising a security key or a combination setting may have more widespread effects than the loss of a document. Here are some basic rules.</p>
+      <ul>
+        <li>
+          <p>'Scramble' combination locks by turning the dial anti-clockwise at least five times.</p>
+        </li>
+        <li>
+          <p>Ideally memorise the combination setting, but if you must keep a local record, make it cryptic and store it in a secure location. Treat the combination like a <xref href="passwords.dita" format="dita">password</xref> and protect it accordingly.</p>
+        </li>
+        <li>
+          <p>Forward a written cryptic record of the settings of combination locks for secure cabinets or safes (but not key safes) to <xref href="mailto:security@justice.cg.gov.uk" format="email" scope="external">security@justice.cg.gov.uk</xref>. For example, you might conceal the combination within a telephone number.</p>
+        </li>
+        <li>
+          <p>Change combinations at least every 6 months. Always change the combinations whenever a staff member who knew the combination leaves.</p>
+        </li>
+        <li>
+          <p>Always report the loss or compromise of a security key or code immediately using the <xref href="reporting-an-incident.dita" format="dita">security incident reporting arrangements</xref>.</p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="protecting-equipment">
+    <title>Protecting equipment</title>
+    <body>
+      <ul>
+        <li>
+          <p>If you use IT equipment away from the office, do so in accordance with the <xref href="mobile-device-and-remote-working-policy.dita" format="dita" platform="github">Mobile Device and Remote Working Policy</xref><xref href="https://security-guidance.service.justice.gov.uk/mobile-device-and-remote-working-policy/" format="html" scope="external" platform="intranet">Mobile Device and Remote Working Policy</xref>.</p>
+        </li>
+        <li>
+          <p>Lock all portable equipment such as laptop computers away when not in use. Do not leave equipment unattended on desks or in unlocked cupboards.</p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="remote-working">
+    <title>Remote working</title>
+    <body>
+      <p>For further guidance on working outside of the office environment, refer to the guidance in the <xref href="mobile-device-and-remote-working-policy.dita" format="dita" platform="github">Mobile Device and Remote Working Policy</xref><xref href="https://security-guidance.service.justice.gov.uk/mobile-device-and-remote-working-policy/" format="html" scope="external" platform="intranet">Mobile Device and Remote Working Policy</xref>.</p>
+    </body>
+  </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
