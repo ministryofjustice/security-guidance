@@ -218,6 +218,9 @@
 			<fileset dir="${build}/ost" includes="**/*.md"/>
 			<fileset dir="${build}/hmcts" includes="**/*.md"/>
 		</replaceregexp>
+		<mkdir dir="${build}/.well-known"/>
+		<copy file="${basedir}/contact/vulnerability-disclosure-security.txt" tofile="${build}/security.txt" overwrite="true"/>
+		<copy file="${basedir}/contact/vulnerability-disclosure-security.txt" tofile="${build}/.well-known/security.txt" overwrite="true"/>
 	</target>
 
 	<!--
