@@ -25,6 +25,7 @@
         -   [Secure Data Transfer Guide](https://security-guidance.service.justice.gov.uk/secure-data-transfer-guide/)
         -   [Secure disposal of IT equipment](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-equipment/)
         -   [Secure disposal of IT - physical and on-premise](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-physical-and-on-premise/)
+        -   [Sending information securely](https://security-guidance.service.justice.gov.uk/sending-information-securely/)
         -   [Web Browsing](https://security-guidance.service.justice.gov.uk/web-browsing/)
     * Laptops
         -   [Laptops](https://security-guidance.service.justice.gov.uk/laptops/)
@@ -76,6 +77,8 @@
     * [Government Classification Scheme](https://security-guidance.service.justice.gov.uk/government-classification-scheme/)
     * [Open internet tools](https://security-guidance.service.justice.gov.uk/guidance-for-using-open-internet-tools/)
     * [IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](https://security-guidance.service.justice.gov.uk/identify-protect-detect-respond-recover/)
+    * [IT Security All Users Policy](https://security-guidance.service.justice.gov.uk/it-security-all-users-policy/)
+    * [IT Security Policy (Overview)](https://security-guidance.service.justice.gov.uk/it-security-policy-overview/)
     * [Line Manager approval](https://security-guidance.service.justice.gov.uk/line-manager-approval/)
     * [Passwords](https://security-guidance.service.justice.gov.uk/passwords/)
     * [Password Managers](https://security-guidance.service.justice.gov.uk/password-managers/)

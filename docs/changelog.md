@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-11-19 10:09 GMT [Sending information securely](https://security-guidance.service.justice.gov.uk/sending-information-securely/)**
+
+    Guidance on working securely with paper documents and files.
+
 -   **2021-11-18 17:03 GMT [Protests and demonstrations](https://security-guidance.service.justice.gov.uk/public-protest-and-demonstrations-policy/)**
 
     Policy and guidance on public protests and demonstrations.
