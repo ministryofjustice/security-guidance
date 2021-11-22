@@ -16,7 +16,6 @@
         -   [IT Security All Users Policy](https://security-guidance.service.justice.gov.uk/it-security-all-users-policy/)
         -   [IT Security Policy (Overview)](https://security-guidance.service.justice.gov.uk/it-security-policy-overview/)
         -   [Guidance on IT Accounts and Assets for Long Term Leave](https://security-guidance.service.justice.gov.uk/long-term-leave/)
-        -   [OFFICIAL, OFFICIAL-SENSITIVE](https://security-guidance.service.justice.gov.uk/official-official-sensitive/)
         -   [Personal devices](https://security-guidance.service.justice.gov.uk/personal-devices/)
         -   [Protecting social media accounts](https://security-guidance.service.justice.gov.uk/protecting-social-media-accounts/)
         -   [Protect yourself online](https://security-guidance.service.justice.gov.uk/protect-yourself-online/)

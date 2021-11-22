@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-11-22 14:14 GMT [Government Classification Scheme](https://security-guidance.service.justice.gov.uk/government-classification-scheme/)**
+
+    Updated and consolidated guidance on classification of Government information.
+
 -   **2021-11-19 15:22 GMT [Other guidance and security.txt](https://security-guidance.service.justice.gov.uk/#other-guidance)**
 
     Improved structure for other guidance information, and added security.txt file.

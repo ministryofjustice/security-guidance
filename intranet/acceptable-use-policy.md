@@ -136,7 +136,7 @@ External email and the Internet are, in general, insecure services where it is p
 
 Users are responsible for ensuring that all information is handled in line with the protective marking of that information, in accordance with the [Information Classification and Handling Policy](https://security-guidance.service.justice.gov.uk/information-classification-and-handling-policy/).
 
-The MoJ is connected to the Government network, which provides a secure environment for sending or receiving emails between Government departments. This allows Users with an MoJ email account (normally with the suffix '`@justice.gov.uk`') to send `OFFICIAL` emails with [handling caveats](https://security-guidance.service.justice.gov.uk/official-official-sensitive/) such as `SENSITIVE` to another MoJ or government User, where their email suffix ends in '`gov.uk`'.
+The MoJ is connected to the Government network, which provides a secure environment for sending or receiving emails between Government departments. This allows Users with an MoJ email account (normally with the suffix '`@justice.gov.uk`') to send `OFFICIAL` emails with [handling caveats](https://security-guidance.service.justice.gov.uk/government-classification-scheme/) such as `SENSITIVE` to another MoJ or government User, where their email suffix ends in '`gov.uk`'.
 
 `POL.ITAUP.021`: All Users **SHALL** ensure that information contained within or attached to an email is handled in accordance with the [Information Classification and Handling Policy](https://security-guidance.service.justice.gov.uk/information-classification-and-handling-policy/).
 
