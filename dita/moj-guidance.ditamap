@@ -104,7 +104,9 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="information-classification-handling-and-security-guide.dita" type="topic" audience="audience-basic audience-suppliers audience-tech">
 				<topicref href="information-classification-and-handling-policy.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			</topicref>
+			<!--
 			<topicref href="official-official-sensitive.dita" type="topic" audience="audience-basic audience-tech"/>
+			-->
 			<topicref href="secrets-management.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 		<topichead audience="audience-basic audience-suppliers audience-tech">

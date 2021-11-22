@@ -30,7 +30,6 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="it-security-all-users-policy.dita" type="topic"/>
 			<topicref href="it-security-policy-overview.dita" type="topic"/>
 			<topicref href="long-term-leave.dita" type="topic"/>
-			<topicref href="official-official-sensitive.dita" type="topic"/>
 			<topicref href="personal-devices.dita" type="topic"/>
 			<topicref href="protecting-social-media-accounts.dita" type="topic"/>
 			<topicref href="protect-yourself-online.dita" type="topic"/>

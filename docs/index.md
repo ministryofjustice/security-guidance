@@ -14,7 +14,7 @@ Popular links for all users:
 
 -   [General app guidance](general-user-video-and-messaging-apps-guidance.md)
 -   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
--   [OFFICIAL, OFFICIAL-SENSITIVE](official-official-sensitive.md) classifications and handling
+-   [Government classification scheme](government-classification-scheme.md)
 -   [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
 -   [Remote Working](remote-working.md)
 
@@ -166,7 +166,6 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Government Classification Scheme](government-classification-scheme.md)|All users|
 |[Information Classification and Handling Guide](information-classification-handling-and-security-guide.md)|All users|
 |[Information Classification and Handling Policy](information-classification-and-handling-policy.md)|All users \(Policy\)|
-|[`OFFICIAL` and `OFFICIAL-SENSITIVE`](official-official-sensitive.md)|All users|
 |[Secrets management](secrets-management.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 #### Media handling
