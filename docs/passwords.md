@@ -17,6 +17,8 @@ This guidance is for all users. It also includes more detail for system administ
 
 [Security in the office](security-in-the-office.md)
 
+[Access Control guide](access-control-guide.md)
+
 ## General best practices
 
 **Note:** This section applies to passwords and PINs.

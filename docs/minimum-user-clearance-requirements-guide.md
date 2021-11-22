@@ -5,9 +5,12 @@ redirect_from:
 ---
 # Minimum User Clearance Requirements Guide
 
-## Introduction
+This Minimum User Clearance Requirements Guide outlines the level of security clearance required for staff in order to access specific account types. This is a sub-page to the [Access Control Guide](access-control-guide.md).
 
-This Minimum User Clearance Requirements Guide outlines the level of security clearance required for staff in order to access specific account types.This is a sub-page to the [Access Control Guide](access-control-guide.md).
+**Related information**  
+
+
+[Access Control guide](access-control-guide.md)
 
 ## Security clearance levels
 

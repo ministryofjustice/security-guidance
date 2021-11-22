@@ -1,5 +1,10 @@
 # Managing User Access Guide
 
+**Related information**  
+
+
+[Access Control guide](access-control-guide.md)
+
 ## Introduction
 
 This guide provides information on the authentication methods which should be used to manage user access to systems and information in the Ministry of Justice \(MoJ\). This is a sub-page to the [Access Control Guide](access-control-guide.md).

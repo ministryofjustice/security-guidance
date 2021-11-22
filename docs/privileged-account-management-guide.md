@@ -2,6 +2,11 @@
 
 **Parent topic:** [Access Control guide](access-control-guide.md)
 
+**Related information**  
+
+
+[Access Control guide](access-control-guide.md)
+
 ## Introduction
 
 This guide explains how to manage privileged accounts in order to minimise the security risks associated with their use. This is a sub-page to the [Access Control Guide](access-control-guide.md).
