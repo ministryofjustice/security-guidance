@@ -1,10 +1,8 @@
 #Minimum User Clearance Requirements Guide
 
-**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
-
-##Introduction
-
 This Minimum User Clearance Requirements Guide outlines the level of security clearance required for staff in order to access specific account types.
+
+**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##Security clearance levels
 
