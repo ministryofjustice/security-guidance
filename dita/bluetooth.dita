@@ -100,8 +100,8 @@
 							<entry colname="col2">N</entry>
 						</row>
 						<row>
-							<entry colname="col1">Connected cars</entry>
-							<entry colname="col2">N - Connected cars are effectively Bluetooth-connected storage devices.</entry>
+							<entry colname="col1">Connected vehicles</entry>
+							<entry colname="col2">N - Connected vehicles are effectively Bluetooth-connected storage devices.</entry>
 						</row>
 						</tbody>
 					</tgroup>

@@ -49,7 +49,7 @@ Examples of Bluetooth devices, and whether they might be used for business purpo
 |Smart TVs|N - requires authorisation|
 |Storage devices \(similar to USB 'thumb' drives\)|N|
 |Internet-of-things 'Smart speakers'|N|
-|Connected cars|N - Connected cars are effectively Bluetooth-connected storage devices.|
+|Connected vehicles|N - Connected vehicles are effectively Bluetooth-connected storage devices.|
 
 A Bluetooth device might be at risk from any of the following:
 
