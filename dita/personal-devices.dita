@@ -5,33 +5,21 @@
   <body>
     <p>This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/mojlong"/>.
       It provides advice about using personal devices for work purposes.</p>
-    <p>A personal device is any desktop, laptop, tablet, phone, external drive or similar device that
-      the <ph conref="conrefs.dita#conrefs/moj"/> does not own.</p>
-    <p>Not everyone has access to an <ph conref="conrefs.dita#conrefs/moj"/> device for remote use.
-      If you need equipment, you can request it.
-      It can be provided quickly.
-      Contact your Line Manager for details.
-      A request can then be raised through the <ph conref="conrefs.dita#conrefs/servicedesk"/>.</p>
-    <p>In unusual circumstances,
-      it might not be possible to organise provision of equipment.
-      In such cases,
-      you <ph conref="conrefs.dita#conrefs/policycan"/> request access to an <ph conref="conrefs.dita#conrefs/moj"/> <xref href="#virtual-environment" format="dita">virtual environment</xref>.</p>
-    <p>Except when connecting to an  <ph conref="conrefs.dita#conrefs/moj"/>
-      <xref href="#virtual-environment" format="dita">virtual environment</xref>,
-      or with documented approval in exceptional circumstances as described
-      <xref href="#guidance" format="dita">in this guidance</xref>,
-      you <ph conref="conrefs.dita#conrefs/policyshallnot"/> use a personal device for work purposes.</p>
-    <p>Avoid connecting peripherals to <ph conref="conrefs.dita#conrefs/moj"/> devices,
-      unless those peripherals are supplied or approved by the <ph conref="conrefs.dita#conrefs/moj"/>.
-      Examples of peripheral devices include USB, wireless, or <xref href="bluetooth.dita" format="dita" audience="audience-basic audience-suppliers audience-tech">Bluetooth</xref><ph audience="audience-gs">Bluetooth</ph> keyboards or mice.</p>
-    <note>Exemptions are possible for connecting peripherals where
-      <ph audience="audience-basic audience-suppliers audience-tech"><xref href="bluetooth.dita#accessibility/accessibility" format="dita" platform="html">accessibility support</xref><xref href="bluetooth.dita#accessibility" format="dita" platform="epub pdf">accessibility support</xref></ph><ph audience="audience-gs">accessibility support</ph> is required.
-    Contact your Line Manager for documented approval before connecting a peripheral device.</note>
-    <p>Personal devices <ph conref="conrefs.dita#conrefs/policyshallnot"/> be charged from
-      the USB ports of an <ph conref="conrefs.dita#conrefs/moj"/> device.</p>
-    <note>Specifically: a personal mobile phone <ph conref="conrefs.dita#conrefs/policyshallnot"/> be charged from
-      the USB ports of an <ph conref="conrefs.dita#conrefs/moj"/> device.</note>
   </body>
+  <topic id="overview">
+    <title>Overview</title>
+    <body>
+      <p>A personal device is any desktop, laptop, tablet, phone, external drive, or similar device that the <ph conref="conrefs.dita#conrefs/moj"/> does not own.</p>
+      <note>'Personal devices' include all personally-owned devices with processing ability or Internet connectivity. This includes all types of assistance, organisational or Internet of Things (IoT) devices. Connected vehicles are a special case <xref href="#connected-vehicles" format="dita">discussed in this guidance</xref>. In case of any doubt, <xref href="#contact-details" format="dita">ask for help</xref> about specific examples.</note>
+      <p>Not everyone has access to an <ph conref="conrefs.dita#conrefs/moj"/> device for remote use. If you need equipment, you can request it. It can be provided quickly. Contact your Line Manager for details. A request can then be raised through the <ph conref="conrefs.dita#conrefs/servicedesk"/>.</p>
+      <p>In unusual circumstances, it might not be possible to organise provision of equipment. In such cases, you <ph conref="conrefs.dita#conrefs/policycan"/> request access to an <ph conref="conrefs.dita#conrefs/moj"/> <xref href="#virtual-environment" format="dita">virtual environment</xref>.</p>
+      <p>Except when connecting to an  <ph conref="conrefs.dita#conrefs/moj"/> <xref href="#virtual-environment" format="dita">virtual environment</xref>, or with documented approval in exceptional circumstances as described <xref href="#guidance" format="dita">in this guidance</xref>, you <ph conref="conrefs.dita#conrefs/policyshallnot"/> use a personal device for work purposes.</p>
+      <p>Avoid connecting peripherals to <ph conref="conrefs.dita#conrefs/moj"/> devices, unless those peripherals are supplied or approved by the <ph conref="conrefs.dita#conrefs/moj"/>. Examples of peripheral devices include USB, wireless, or <xref href="bluetooth.dita" format="dita" audience="audience-basic audience-suppliers audience-tech">Bluetooth</xref><ph audience="audience-gs">Bluetooth</ph> keyboards or mice.</p>
+      <note>Exemptions are possible for connecting peripherals where <ph audience="audience-basic audience-suppliers audience-tech"><xref href="bluetooth.dita#accessibility/accessibility" format="dita" platform="html">accessibility support</xref><xref href="bluetooth.dita#accessibility" format="dita" platform="epub pdf">accessibility support</xref></ph><ph audience="audience-gs">accessibility support</ph> is required. Contact your Line Manager for documented approval before connecting a peripheral device.</note>
+      <p>Personal devices <ph conref="conrefs.dita#conrefs/policyshallnot"/> be charged from the USB ports of an <ph conref="conrefs.dita#conrefs/moj"/> device.</p>
+      <note>Specifically: a personal mobile phone <ph conref="conrefs.dita#conrefs/policyshallnot"/> be charged from the USB ports of an <ph conref="conrefs.dita#conrefs/moj"/> device.</note>
+    </body>
+  </topic>
   <topic id="guidance">
     <title>Guidance</title>
     <body>
@@ -78,6 +66,15 @@
       <note>A virtual environment does not offer the same capabilities or performance
         as a physical <ph conref="conrefs.dita#conrefs/moj"/>-issued device.
       Using an <ph conref="conrefs.dita#conrefs/moj"/>-issued device is always preferable.</note>
+    </body>
+  </topic>
+  <topic id="connected-vehicles">
+    <title>Connected vehicles</title>
+    <body>
+      <p>Connected vehicles are effectively Bluetooth-connected storage devices. They are considered personal devices for the purposes of this guidance, regardless of whether they are owned, leased or rented.</p>
+      <p>Automatic transfer of contact information and calendar events might be initiated during the pairing process. The resulting transferred data is accessible to any third party who subsequently pairs their mobile device to the vehicle.</p>
+      <p>Additionally, although such platforms usually offer an option to delete paired profiles, there is currently no confirmation that the data is actually erased to a satifactory level. The usual claim is only that the transferred data is deemed inaccessible to the platform menu.</p>
+      <p>For these reasons, <ph conref="conrefs.dita#conrefs/moj"/> devices <ph conref="conrefs.dita#conrefs/policyshallnot"/> be paired with Bluetooth-enabled vehicles.</p>
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>

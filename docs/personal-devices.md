@@ -2,7 +2,16 @@
 
 This guidance applies to all staff and contractors who work for the Ministry of Justice \(MoJ\). It provides advice about using personal devices for work purposes.
 
-A personal device is any desktop, laptop, tablet, phone, external drive or similar device that the MoJ does not own.
+**Related information**  
+
+
+[Bluetooth](bluetooth.md)
+
+## Overview
+
+A personal device is any desktop, laptop, tablet, phone, external drive, or similar device that the MoJ does not own.
+
+**Note:** 'Personal devices' include all personally-owned devices with processing ability or Internet connectivity. This includes all types of assistance, organisational or Internet of Things \(IoT\) devices. Connected vehicles are a special case [discussed in this guidance](#connected-vehicles). In case of any doubt, [ask for help](#contact-details) about specific examples.
 
 Not everyone has access to an MoJ device for remote use. If you need equipment, you can request it. It can be provided quickly. Contact your Line Manager for details. A request can then be raised through the IT Service Desk.
 
@@ -41,6 +50,16 @@ The MoJ provides access to a Virtual Environment to help with exceptional circum
 Request a virtual environment through the `Creation of WVD instances` product offering within the Service Catalogue in MoJ Service Now.
 
 **Note:** A virtual environment does not offer the same capabilities or performance as a physical MoJ-issued device. Using an MoJ-issued device is always preferable.
+
+## Connected vehicles
+
+Connected vehicles are effectively Bluetooth-connected storage devices. They are considered personal devices for the purposes of this guidance, regardless of whether they are owned, leased or rented.
+
+Automatic transfer of contact information and calendar events might be initiated during the pairing process. The resulting transferred data is accessible to any third party who subsequently pairs their mobile device to the vehicle.
+
+Additionally, although such platforms usually offer an option to delete paired profiles, there is currently no confirmation that the data is actually erased to a satifactory level. The usual claim is only that the transferred data is deemed inaccessible to the platform menu.
+
+For these reasons, MoJ devices **SHALL NOT** be paired with Bluetooth-enabled vehicles.
 
 ## Contact details
 

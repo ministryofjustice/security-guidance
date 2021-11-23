@@ -543,5 +543,13 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="privileged-account-management-guide.dita"/>
 			</relcell>
 		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="bluetooth.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="personal-devices.dita"/>
+			</relcell>
+		</relrow>
 	</reltable>
 </map>
