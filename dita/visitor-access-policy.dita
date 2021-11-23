@@ -212,7 +212,7 @@
     <topic id="physical-security-advice">
       <title>Physical security advice</title>
       <body>
-        <p>Physical security advice <ph conref="conrefs.dita#conrefs/policymay"/> be obtained by contacting <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>.</p>
+        <p>For more physical security advice, contact <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>.</p>
       </body>
     </topic>
   </topic>
@@ -230,7 +230,7 @@
     <topic id="definition-of-a-kirpan">
       <title>Definition of a Kirpan</title>
       <body>
-        <p>The Sikh faith follows a dress code which encompasses the 5 Ks. The Kirpan is one of the 5 Ks. As is the case with all faiths, people follow tenets of their faith to different degrees. Not all Sikhs make a commitment to live by the full Sikh religious code. Therefore, not all Sikhs wear the turban or carry the Kirpan. However, it <ph conref="conrefs.dita#conrefs/policyshould"/> be noted that all baptised Sikhs (Amritdharis) who live by the code are required to wear all 5 Ks. Both men and women can be baptised, and the code is the same.</p>
+        <p>The Sikh faith follows a dress code which encompasses the 5 Ks. The Kirpan is one of the 5 Ks. As is the case with all faiths, people follow tenets of their faith to different degrees. Not all Sikhs make a commitment to live by the full Sikh religious code. Therefore, not all Sikhs wear the turban or carry the Kirpan. However, all baptised Sikhs (Amritdharis) who live by the code are required to wear all 5 Ks. Both men and women can be baptised, and the code is the same.</p>
         <p>The 5 Ks are defined as follows:</p>
         <ol>
           <li>
@@ -256,11 +256,11 @@
     <topic id="procedures">
       <title>Procedures</title>
       <body>
-        <p>A Sikh visitor <ph conref="conrefs.dita#conrefs/policyshouldnot"/> be denied entry into the building for genuinely wearing any article of their faith.</p>
-        <p>The previous information about the <xref href="#definition-of-a-kirpan" format="dita">Kirpan</xref> <ph conref="conrefs.dita#conrefs/policyshould"/> be used as a reference guide to enable security guards to satisfy themselves of the visitors' Sikh faith.</p>
-        <p>There is no requirement for the removal or confiscation of any articles, particularly the Kirpan, and under normal circumstances, guards <ph conref="conrefs.dita#conrefs/policyshouldnot"/> ask to inspect items that are not visible.</p>
-        <p>It <ph conref="conrefs.dita#conrefs/policyshould"/> be noted that when a Sikh is required to remove their Kirpan, they must make an immediate visit to the temple for the Kirpan to be blessed. Therefore, Sikh visitors <ph conref="conrefs.dita#conrefs/policyshould"/> only be subject to searches and inspections of their Kirpans in exceptional circumstances, where there is a genuine cause for concern to security.</p>
-        <p>Where a search and inspection are required, guards <ph conref="conrefs.dita#conrefs/policyshould"/> note that it might take the Sikh visitor a few moments to pull their Kirpan from underneath their clothes. This could involve pulling the outer clothes out from their trousers and for women this could be more problematic. To accommodate for this, permission <ph conref="conrefs.dita#conrefs/policyshould"/> be sought from the Sikh visitor to feel the Kirpan while still underneath the clothes; or to take the visitor to one side to provide some privacy during the search. Female Sikh visitors <ph conref="conrefs.dita#conrefs/policyshould"/> be searched in private by a female security guard.</p>
+        <p><codeph>POL.VAP.038</codeph>: A Sikh visitor <ph conref="conrefs.dita#conrefs/policyshouldnot"/> be denied entry into the building for genuinely wearing any article of their faith.</p>
+        <p><codeph>POL.VAP.039</codeph>: The previous information about the <xref href="#definition-of-a-kirpan" format="dita">Kirpan</xref> <ph conref="conrefs.dita#conrefs/policyshould"/> be used as a reference guide to enable security guards to satisfy themselves of the visitors' Sikh faith.</p>
+        <p><codeph>POL.VAP.040</codeph>: There is no requirement for the removal or confiscation of any articles, particularly the Kirpan, and under normal circumstances, guards <ph conref="conrefs.dita#conrefs/policyshouldnot"/> ask to inspect items that are not visible.</p>
+        <p><codeph>POL.VAP.041</codeph>: It <ph conref="conrefs.dita#conrefs/policyshould"/> be noted that when a Sikh is required to remove their Kirpan, they must make an immediate visit to the temple for the Kirpan to be blessed. Therefore, Sikh visitors <ph conref="conrefs.dita#conrefs/policyshould"/> only be subject to searches and inspections of their Kirpans in exceptional circumstances, where there is a genuine cause for concern to security.</p>
+        <p><codeph>POL.VAP.042</codeph>: Where a search and inspection are required, guards <ph conref="conrefs.dita#conrefs/policyshould"/> note that it might take the Sikh visitor a few moments to pull their Kirpan from underneath their clothes. This could involve pulling the outer clothes out from their trousers and for women this could be more problematic. To accommodate for this, permission <ph conref="conrefs.dita#conrefs/policyshould"/> be sought from the Sikh visitor to feel the Kirpan while still underneath the clothes; or to take the visitor to one side to provide some privacy during the search. Female Sikh visitors <ph conref="conrefs.dita#conrefs/policyshould"/> be searched in private by a female security guard.</p>
       </body>
     </topic>
   </topic>
