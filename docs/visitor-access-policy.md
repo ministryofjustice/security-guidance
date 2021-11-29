@@ -38,7 +38,7 @@ All employees, contractors, partners, service providers and employees of other o
 
 -   Inform colleagues of any expected visitors.
 
--   If a visitor is categorised as requiring an escort, they **SHALL** always be escorted by a member of staff.
+-   Ensure that a visitor categorised as requiring an escort **SHALL** always be accompanied by a member of staff.
 
 -   Challenge any escorted visitor found to be unaccompanied and seek assistance if required. The unescorted visitor **SHOULD** be returned to reception.
 
@@ -46,7 +46,7 @@ All employees, contractors, partners, service providers and employees of other o
 
 -   Be mindful of any sensitive conversations that might be subject to unauthorised overhearing. Staff **SHOULD** hold such conversations away from any visitors.
 
--   Visitors **SHOULD NOT** have access to any sensitive or high profile areas of the business, unless specifically authorised. Where such access is authorised, staff working in these areas **SHOULD** apply more stringent controls to avoid disclosure of any information.
+-   Ensure that visitors do not have access to any sensitive or high profile areas of the business, unless specifically authorised. Where such access is authorised, staff working in these areas **SHOULD** apply more stringent controls to avoid disclosure of any information.
 
 -   Be aware that noncompliance with hosting duties is regarded as a breach of security.
 
@@ -70,6 +70,8 @@ This policy has been tailored to reflect the outcomes detailed in [Government Fu
 
 ### Visitor access procedure
 
+**Note:** The MoJ uses two colours to distinguish visitor passes. A **red** visitor pass means that the visitor requires escorting by an authorised MoJ individual at all times, and in all locations within the MoJ premises. A **green** visitor pass means that the visitor does not require escorting while on MoJ premises.
+
 `POL.VAP.008`: The following procedures **SHOULD** be implemented and followed to manage visitor access appropriately:
 
 -   `POL.VAP.009`: Provide at least 24 hours' notice of any planned visits to MoJ premises.
@@ -78,9 +80,9 @@ This policy has been tailored to reflect the outcomes detailed in [Government Fu
 
 -   `POL.VAP.011`: All visitors **SHALL** be sponsored by a MoJ permanent member of staff \(Civil Servant\) who assumes full responsibility for the visit. Clearance checks **SHOULD** be conducted if required, for example when unescorted passes are required. Confirmation of clearance is required for those buildings which specify a minimum clearance requirement.
 
--   `POL.VAP.012`: Hosts **SHALL** always accompany **red** escort pass visitors when inside the building. If colleagues see a holder of a **red** escort pass visitor without an escort, they **SHALL** be escorted back to reception, who **SHALL** contact the host and ask them to collect their visitor.
+-   `POL.VAP.012`: Hosts **SHALL** always accompany **red** escort pass visitors when inside the building. If colleagues see a holder of a **red** escort pass visitor without an escort, the visitor **SHALL** be escorted back to reception, who **SHALL** contact the host and ask them to collect their visitor.
 
--   `POL.VAP.013`: Hosts are responsible for ensuring that **red** escort pass visitors are escorted back to reception and return their pass. Hosts **SHOULD** also remind the holders of unescorted **green** passes to return their pass to reception when leaving the building at the end of their visit.
+-   `POL.VAP.013`: Hosts are responsible for ensuring that **red** escort pass visitors are escorted back to reception and return their pass. Hosts **SHOULD** also remind the holders of **green** unescorted passes to return their pass to reception when leaving the building at the end of their visit.
 
 -   `POL.VAP.014`: Host are responsible for advising their visitors to clearly display their pass at all times whilst inside the building, and that they **SHALL** remove and conceal their pass when outside the building.
 
@@ -88,15 +90,15 @@ This policy has been tailored to reflect the outcomes detailed in [Government Fu
 
 -   `POL.VAP.016`: Visitors from Other Government Departments \(OGDs\) **SHALL NOT** act as hosts in MoJ buildings.
 
--   `POL.VAP.017`: Holders of either a valid HMCTS or HMPPS pass **MAY** request an unescorted **green** pass from reception. There is no need to arrange visitor access or have them met in reception, but security **MAY**request further identification.
+-   `POL.VAP.017`: Holders of either a valid HMCTS or HMPPS pass **MAY** request a **green** unescorted pass from reception. There is no need to arrange visitor access or have them met in reception, but security **MAY** request further identification.
 
--   `POL.VAP.018`: Civil Servants from OGDs who hold a Common Civil Service Pass \(CCSP\) **CAN** be issued with an unescorted **green** pass, but security **MAY** request further identification.
+-   `POL.VAP.018`: Civil Servants from OGDs who hold a Common Civil Service Pass \(CCSP\) **CAN** be issued with a **green** unescorted pass, but security **MAY** request further identification.
 
--   `POL.VAP.019`: Contractors from OGDs who hold a CCSP and a national security vetting at CTC, SC or DV **CAN** receive an unescorted green pass, but security **MAY** request further identification.
+-   `POL.VAP.019`: Contractors from OGDs who hold a CCSP and a national security vetting at CTC, SC or DV **CAN** receive a **green** unescorted pass, but security **MAY** request further identification.
 
 -   `POL.VAP.020`: Contractors from OGDs who hold a CCSP at BPSS **MAY NOT** use their CCSP to access MoJ building. They **SHALL** be treated as visitors.
 
--   `POL.VAP.021`: Searches, including the use of scanners where available, **SHOULD** be considered for all visitors.
+-   `POL.VAP.021`: Searches, including the use of scanners where available, **SHOULD** be considered for all visitors. [Annex B](#annex-b) provides additional guidance and policy statements for accommodating the religious obligations of Sikh visitors.
 
 -   `POL.VAP.022`: For health and safety purposes, a register **SHOULD** be maintained by reception to record the details of the visitor. This applies to security manned sites only. The register **SHOULD** include the visitor name, host unit or contact, date and time of entry, date and time of departure, and a contact number.
 
@@ -106,9 +108,9 @@ This policy has been tailored to reflect the outcomes detailed in [Government Fu
 
 -   `POL.VAP.025`: A visitor's pass **SHALL NOT** be used as a substitute or way to circumvent the issuing of a permanent building pass.
 
-    **Note:** This does not including waiting for the replacement of a lost or stolen pass.
+    **Note:** This does not include waiting for the replacement of a lost or stolen pass.
 
--   `POL.VAP.026`: Where a staff member or contractor has forgotten their building pass on the day, they **CAN** be issued with a temporary visitor day pass with unescorted access, on the proviso that another member of staff can vouch for them. If a staff member or contractor has forgotten their pass on two or more consecutive days, the pass **SHALL** be deemed lost or stolen. The staff member or contractor **SHALL** report to building Security Team.
+-   `POL.VAP.026`: Where a staff member or contractor has forgotten their building pass on the day, they **CAN** be issued with a temporary **green** unescorted visitor day pass, on the proviso that another member of staff can vouch for them. If a staff member or contractor has forgotten their pass on two or more consecutive days, the pass **SHALL** be deemed lost or stolen. The staff member or contractor **SHALL** report to building Security Team before issue of a temporary pass is approved.
 
 
 ### International delegations or visits
@@ -117,11 +119,11 @@ This policy has been tailored to reflect the outcomes detailed in [Government Fu
 
 ### Prisoners on licence visiting MoJ premises
 
-`POL.VAP.028`: Where it is necessary for any prisoner who is subject to licence conditions to visit MoJ premises, it is the responsibility of the Offender Manager to undertake a thorough risk assessment well in advance of the planned visit. The assessment **SHOULD** be shared with the host. The risk assessment **SHOULD** be referenced by the visit host on their own risk assessment for the visit in question, and shared with [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). Advice on completing risk assessments is available on the [MoJ Intranet](https://intranet.justice.gov.uk/guidance/fire-health-safety/risk-assessment/).
+`POL.VAP.028`: Where it is necessary for any prisoner who is subject to licence conditions to visit MoJ offices, it is the responsibility of the Offender Manager to undertake a thorough risk assessment well in advance of the planned visit. The assessment **SHOULD** be shared with the host. The risk assessment **SHOULD** be referenced by the visit host on their own risk assessment for the visit in question, and shared with [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). Advice on completing risk assessments is available on the [MoJ Intranet](https://intranet.justice.gov.uk/guidance/fire-health-safety/risk-assessment/).
 
 ### Common Civil Service Pass \(CCSP\)
 
-`POL.VAP.029`: Staff from other government departments who hold a CCSP **CAN** access and visit the MoJ building unescorted. They **SHALL** present their pass to reception staff, and are then issued with an unescorted **green** visitor pass.
+`POL.VAP.029`: Staff from other government departments who hold a CCSP **CAN** access and visit the MoJ building unescorted. They **SHALL** present their pass to reception staff, and are then issued with a **green** unescorted visitor pass.
 
 For further information regarding the Common Civil Service Pass, refer to [Annex A](#annex-a).
 
@@ -143,7 +145,7 @@ For further information regarding the Common Civil Service Pass, refer to [Annex
 
 -   Current passport.
 
--   Current international driving licence.
+-   Current UK or other internationally-recognised driving licence.
 
 -   UK Government Department ID as recognised by MoJ Group Security.
 

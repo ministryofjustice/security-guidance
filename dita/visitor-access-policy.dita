@@ -47,7 +47,7 @@
           <p>Inform colleagues of any expected visitors.</p>
         </li>
         <li>
-          <p>If a visitor is categorised as requiring an escort, they <ph conref="conrefs.dita#conrefs/policymust"/> always be escorted by a member of staff.</p>
+          <p>Ensure that a visitor categorised as requiring an escort <ph conref="conrefs.dita#conrefs/policymust"/> always be accompanied by a member of staff.</p>
         </li>
         <li>
           <p>Challenge any escorted visitor found to be unaccompanied and seek assistance if required. The unescorted visitor <ph conref="conrefs.dita#conrefs/policyshould"/> be returned to reception.</p>
@@ -59,7 +59,7 @@
           <p>Be mindful of any sensitive conversations that might be subject to unauthorised overhearing. Staff <ph conref="conrefs.dita#conrefs/policyshould"/> hold such conversations away from any visitors.</p>
         </li>
         <li>
-          <p>Visitors <ph conref="conrefs.dita#conrefs/policyshouldnot"/> have access to any sensitive or high profile areas of the business, unless specifically authorised. Where such access is authorised, staff working in these areas <ph conref="conrefs.dita#conrefs/policyshould"/> apply more stringent controls to avoid disclosure of any information.</p>
+          <p>Ensure that visitors do not have access to any sensitive or high profile areas of the business, unless specifically authorised. Where such access is authorised, staff working in these areas <ph conref="conrefs.dita#conrefs/policyshould"/> apply more stringent controls to avoid disclosure of any information.</p>
         </li>
         <li>
           <p>Be aware that noncompliance with hosting duties is regarded as a breach of security.</p>
@@ -91,6 +91,7 @@
     <topic id="visitor-access-procedure">
       <title>Visitor access procedure</title>
       <body>
+        <note>The <ph conref="conrefs.dita#conrefs/moj"/> uses two colours to distinguish visitor passes. A <b>red</b> visitor pass means that the visitor requires escorting by an authorised <ph conref="conrefs.dita#conrefs/moj"/> individual at all times, and in all locations within the <ph conref="conrefs.dita#conrefs/moj"/> premises. A <b>green</b> visitor pass means that the visitor does not require escorting while on <ph conref="conrefs.dita#conrefs/moj"/> premises.</note>
         <p><codeph>POL.VAP.008</codeph>: The following procedures <ph conref="conrefs.dita#conrefs/policyshould"/> be implemented and followed to manage visitor access appropriately:</p>
         <ul>
           <li>
@@ -103,10 +104,10 @@
             <p><codeph>POL.VAP.011</codeph>: All visitors <ph conref="conrefs.dita#conrefs/policymust"/> be sponsored by a <ph conref="conrefs.dita#conrefs/moj"/> permanent member of staff (Civil Servant) who assumes full responsibility for the visit. Clearance checks <ph conref="conrefs.dita#conrefs/policyshould"/> be conducted if required, for example when unescorted passes are required. Confirmation of clearance is required for those buildings which specify a minimum clearance requirement.</p>
           </li>
           <li>
-            <p><codeph>POL.VAP.012</codeph>: Hosts <ph conref="conrefs.dita#conrefs/policymust"/> always accompany <b>red</b> escort pass visitors when inside the building. If colleagues see a holder of a <b>red</b> escort pass visitor without an escort, they <ph conref="conrefs.dita#conrefs/policymust"/> be escorted back to reception, who <ph conref="conrefs.dita#conrefs/policyshall"/> contact the host and ask them to collect their visitor.</p>
+            <p><codeph>POL.VAP.012</codeph>: Hosts <ph conref="conrefs.dita#conrefs/policymust"/> always accompany <b>red</b> escort pass visitors when inside the building. If colleagues see a holder of a <b>red</b> escort pass visitor without an escort, the visitor <ph conref="conrefs.dita#conrefs/policymust"/> be escorted back to reception, who <ph conref="conrefs.dita#conrefs/policyshall"/> contact the host and ask them to collect their visitor.</p>
           </li>
           <li>
-            <p><codeph>POL.VAP.013</codeph>: Hosts are responsible for ensuring that <b>red</b> escort pass visitors are escorted back to reception and return their pass. Hosts <ph conref="conrefs.dita#conrefs/policyshould"/> also remind the holders of unescorted <b>green</b> passes to return their pass to reception when leaving the building at the end of their visit.</p>
+            <p><codeph>POL.VAP.013</codeph>: Hosts are responsible for ensuring that <b>red</b> escort pass visitors are escorted back to reception and return their pass. Hosts <ph conref="conrefs.dita#conrefs/policyshould"/> also remind the holders of <b>green</b> unescorted passes to return their pass to reception when leaving the building at the end of their visit.</p>
           </li>
           <li>
             <p><codeph>POL.VAP.014</codeph>: Host are responsible for advising their visitors to clearly display their pass at all times whilst inside the building, and that they <ph conref="conrefs.dita#conrefs/policyshall"/> remove and conceal their pass when outside the building.</p>
@@ -118,19 +119,19 @@
             <p><codeph>POL.VAP.016</codeph>: Visitors from Other Government Departments (OGDs) <ph conref="conrefs.dita#conrefs/policyshallnot"/> act as hosts in <ph conref="conrefs.dita#conrefs/moj"/> buildings.</p>
           </li>
           <li>
-            <p><codeph>POL.VAP.017</codeph>: Holders of either a valid HMCTS or HMPPS pass <ph conref="conrefs.dita#conrefs/policymay"/> request an unescorted <b>green</b> pass from reception. There is no need to arrange visitor access or have them met in reception, but security <ph conref="conrefs.dita#conrefs/policymay"/>request further identification.</p>
+            <p><codeph>POL.VAP.017</codeph>: Holders of either a valid HMCTS or HMPPS pass <ph conref="conrefs.dita#conrefs/policymay"/> request a <b>green</b> unescorted pass from reception. There is no need to arrange visitor access or have them met in reception, but security <ph conref="conrefs.dita#conrefs/policymay"/> request further identification.</p>
           </li>
           <li>
-            <p><codeph>POL.VAP.018</codeph>: Civil Servants from OGDs who hold a Common Civil Service Pass (CCSP) <ph conref="conrefs.dita#conrefs/policycan"/> be issued with an unescorted <b>green</b> pass, but security <ph conref="conrefs.dita#conrefs/policymay"/> request further identification.</p>
+            <p><codeph>POL.VAP.018</codeph>: Civil Servants from OGDs who hold a Common Civil Service Pass (CCSP) <ph conref="conrefs.dita#conrefs/policycan"/> be issued with a <b>green</b> unescorted pass, but security <ph conref="conrefs.dita#conrefs/policymay"/> request further identification.</p>
           </li>
           <li>
-            <p><codeph>POL.VAP.019</codeph>: Contractors from OGDs who hold a CCSP <u>and</u> a national security vetting at CTC, SC or DV <ph conref="conrefs.dita#conrefs/policycan"/> receive an unescorted green pass, but security <ph conref="conrefs.dita#conrefs/policymay"/> request further identification.</p>
+            <p><codeph>POL.VAP.019</codeph>: Contractors from OGDs who hold a CCSP <u>and</u> a national security vetting at CTC, SC or DV <ph conref="conrefs.dita#conrefs/policycan"/> receive a <b>green</b> unescorted pass, but security <ph conref="conrefs.dita#conrefs/policymay"/> request further identification.</p>
           </li>
           <li>
             <p><codeph>POL.VAP.020</codeph>: Contractors from OGDs who hold a CCSP at BPSS <ph conref="conrefs.dita#conrefs/policymaynot"/> use their CCSP to access <ph conref="conrefs.dita#conrefs/moj"/> building. They <ph conref="conrefs.dita#conrefs/policyshall"/> be treated as visitors.</p>
           </li>
           <li>
-            <p><codeph>POL.VAP.021</codeph>: Searches, including the use of scanners where available, <ph conref="conrefs.dita#conrefs/policyshould"/> be considered for all visitors.</p>
+            <p><codeph>POL.VAP.021</codeph>: Searches, including the use of scanners where available, <ph conref="conrefs.dita#conrefs/policyshould"/> be considered for all visitors. <xref href="#annex-b" format="dita">Annex B</xref> provides additional guidance and policy statements for accommodating the religious obligations of Sikh visitors.</p>
           </li>
           <li>
             <p><codeph>POL.VAP.022</codeph>: For health and safety purposes, a register <ph conref="conrefs.dita#conrefs/policyshould"/> be maintained by reception to record the details of the visitor. This applies to security manned sites only. The register <ph conref="conrefs.dita#conrefs/policyshould"/> include the visitor name, host unit or contact, date and time of entry, date and time of departure, and a contact number.</p>
@@ -142,10 +143,10 @@
             <p><codeph>POL.VAP.024</codeph>: Visitor passes are intended for temporary use only, and <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used as permanent means to allow for routine daily escorted or unescorted access to the <ph conref="conrefs.dita#conrefs/moj"/> estate.</p>
           </li>
           <li>
-            <p><codeph>POL.VAP.025</codeph>: A visitor's pass <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used as a substitute or way to circumvent the issuing of a permanent building pass. <note>This does not including waiting for the replacement of a lost or stolen pass.</note></p>
+            <p><codeph>POL.VAP.025</codeph>: A visitor's pass <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used as a substitute or way to circumvent the issuing of a permanent building pass. <note>This does not include waiting for the replacement of a lost or stolen pass.</note></p>
           </li>
           <li>
-            <p><codeph>POL.VAP.026</codeph>: Where a staff member or contractor has forgotten their building pass on the day, they <ph conref="conrefs.dita#conrefs/policycan"/> be issued with a temporary visitor day pass with unescorted access, on the proviso that another member of staff can vouch for them. If a staff member or contractor has forgotten their pass on two or more consecutive days, the pass <ph conref="conrefs.dita#conrefs/policyshall"/> be deemed lost or stolen. The staff member or contractor <ph conref="conrefs.dita#conrefs/policymust"/> report to building Security Team.</p>
+            <p><codeph>POL.VAP.026</codeph>: Where a staff member or contractor has forgotten their building pass on the day, they <ph conref="conrefs.dita#conrefs/policycan"/> be issued with a temporary <b>green</b> unescorted visitor day pass, on the proviso that another member of staff can vouch for them. If a staff member or contractor has forgotten their pass on two or more consecutive days, the pass <ph conref="conrefs.dita#conrefs/policyshall"/> be deemed lost or stolen. The staff member or contractor <ph conref="conrefs.dita#conrefs/policymust"/> report to building Security Team before issue of a temporary pass is approved.</p>
           </li>
         </ul>
       </body>
@@ -159,13 +160,13 @@
     <topic id="prisoners-on-licence-visiting-moj-premises">
       <title>Prisoners on licence visiting <ph conref="conrefs.dita#conrefs/moj"/> premises</title>
       <body>
-          <p><codeph>POL.VAP.028</codeph>: Where it is necessary for any prisoner who is subject to licence conditions to visit <ph conref="conrefs.dita#conrefs/moj"/> premises, it is the responsibility of the Offender Manager to undertake a thorough risk assessment well in advance of the planned visit. The assessment <ph conref="conrefs.dita#conrefs/policyshould"/> be shared with the host. The risk assessment <ph conref="conrefs.dita#conrefs/policyshould"/> be referenced by the visit host on their own risk assessment for the visit in question, and shared with <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>. Advice on completing risk assessments is available on the <xref href="https://intranet.justice.gov.uk/guidance/fire-health-safety/risk-assessment/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Intranet</xref>.</p>
+          <p><codeph>POL.VAP.028</codeph>: Where it is necessary for any prisoner who is subject to licence conditions to visit <ph conref="conrefs.dita#conrefs/moj"/> offices, it is the responsibility of the Offender Manager to undertake a thorough risk assessment well in advance of the planned visit. The assessment <ph conref="conrefs.dita#conrefs/policyshould"/> be shared with the host. The risk assessment <ph conref="conrefs.dita#conrefs/policyshould"/> be referenced by the visit host on their own risk assessment for the visit in question, and shared with <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>. Advice on completing risk assessments is available on the <xref href="https://intranet.justice.gov.uk/guidance/fire-health-safety/risk-assessment/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Intranet</xref>.</p>
       </body>
     </topic>
     <topic id="common-civil-service-pass-ccsp">
       <title>Common Civil Service Pass (CCSP)</title>
       <body>
-        <p><codeph>POL.VAP.029</codeph>: Staff from other government departments who hold a CCSP <ph conref="conrefs.dita#conrefs/policycan"/> access and visit the <ph conref="conrefs.dita#conrefs/moj"/> building unescorted. They <ph conref="conrefs.dita#conrefs/policyshall"/> present their pass to reception staff, and are then issued with an unescorted <b>green</b> visitor pass.</p>
+        <p><codeph>POL.VAP.029</codeph>: Staff from other government departments who hold a CCSP <ph conref="conrefs.dita#conrefs/policycan"/> access and visit the <ph conref="conrefs.dita#conrefs/moj"/> building unescorted. They <ph conref="conrefs.dita#conrefs/policyshall"/> present their pass to reception staff, and are then issued with a <b>green</b> unescorted visitor pass.</p>
         <p>For further information regarding the Common Civil Service Pass, refer to <xref href="#annex-a" format="dita">Annex A</xref>.</p>
       </body>
     </topic>
@@ -192,7 +193,7 @@
             <p>Current passport.</p>
           </li>
           <li>
-            <p>Current international driving licence.</p>
+            <p>Current UK or other internationally-recognised driving licence.</p>
           </li>
           <li>
             <p>UK Government Department ID as recognised by <ph conref="conrefs.dita#conrefs/moj"/> Group Security.</p>
