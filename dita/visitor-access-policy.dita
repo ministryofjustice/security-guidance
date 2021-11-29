@@ -110,7 +110,7 @@
             <p><codeph>POL.VAP.013</codeph>: Hosts are responsible for ensuring that <b>red</b> escort pass visitors are escorted back to reception and return their pass. Hosts <ph conref="conrefs.dita#conrefs/policyshould"/> also remind the holders of <b>green</b> unescorted passes to return their pass to reception when leaving the building at the end of their visit.</p>
           </li>
           <li>
-            <p><codeph>POL.VAP.014</codeph>: Host are responsible for advising their visitors to clearly display their pass at all times whilst inside the building, and that they <ph conref="conrefs.dita#conrefs/policyshall"/> remove and conceal their pass when outside the building.</p>
+            <p><codeph>POL.VAP.014</codeph>: Hosts are responsible for advising their visitors to clearly display their pass at all times whilst inside the building, and that they <ph conref="conrefs.dita#conrefs/policyshall"/> remove and conceal their pass when outside the building.</p>
           </li>
           <li>
             <p><codeph>POL.VAP.015</codeph>: Hosts are responsible for the health and safety of their visitors, and <ph conref="conrefs.dita#conrefs/policyshould"/> brief them on the <ph conref="conrefs.dita#conrefs/moj"/> evacuation and invacuation procedures.</p>
@@ -131,7 +131,7 @@
             <p><codeph>POL.VAP.020</codeph>: Contractors from OGDs who hold a CCSP at BPSS <ph conref="conrefs.dita#conrefs/policymaynot"/> use their CCSP to access <ph conref="conrefs.dita#conrefs/moj"/> building. They <ph conref="conrefs.dita#conrefs/policyshall"/> be treated as visitors.</p>
           </li>
           <li>
-            <p><codeph>POL.VAP.021</codeph>: Searches, including the use of scanners where available, <ph conref="conrefs.dita#conrefs/policyshould"/> be considered for all visitors. <xref href="#annex-b" format="dita">Annex B</xref> provides additional guidance and policy statements for accommodating the religious obligations of Sikh visitors.</p>
+            <p><codeph>POL.VAP.021</codeph>: Searches, including the use of scanners where available, <ph conref="conrefs.dita#conrefs/policyshould"/> be considered for all visitors. <xref href="#annex-b---sikh-visitors" format="dita">Annex B</xref> provides additional guidance and policy statements for accommodating the religious obligations of Sikh visitors.</p>
           </li>
           <li>
             <p><codeph>POL.VAP.022</codeph>: For health and safety purposes, a register <ph conref="conrefs.dita#conrefs/policyshould"/> be maintained by reception to record the details of the visitor. This applies to security manned sites only. The register <ph conref="conrefs.dita#conrefs/policyshould"/> include the visitor name, host unit or contact, date and time of entry, date and time of departure, and a contact number.</p>
@@ -167,7 +167,7 @@
       <title>Common Civil Service Pass (CCSP)</title>
       <body>
         <p><codeph>POL.VAP.029</codeph>: Staff from other government departments who hold a CCSP <ph conref="conrefs.dita#conrefs/policycan"/> access and visit the <ph conref="conrefs.dita#conrefs/moj"/> building unescorted. They <ph conref="conrefs.dita#conrefs/policyshall"/> present their pass to reception staff, and are then issued with a <b>green</b> unescorted visitor pass.</p>
-        <p>For further information regarding the Common Civil Service Pass, refer to <xref href="#annex-a" format="dita">Annex A</xref>.</p>
+        <p>For further information regarding the Common Civil Service Pass, refer to <xref href="#annex-a---common-civil-service-pass-information-sheet" format="dita">Annex A</xref>.</p>
       </body>
     </topic>
     <topic id="other-government-departments-or-private-estates">
@@ -181,7 +181,7 @@
       <body>
         <p><codeph>POL.VAP.031</codeph>: Security guards <ph conref="conrefs.dita#conrefs/policyshould"/> check all passes every time any person enters a secure building via reception. This is a means of identifying the person presenting the pass. It also ensures that the passes have not been lost and possibly fallen into the hands of unauthorised persons who make improper use of them.</p>
         <p><codeph>POL.VAP.032</codeph>: When a valid pass is not presented but scanners are available, security <ph conref="conrefs.dita#conrefs/policyshould"/> refuse access and direct the individual through scanners and subsequent searches before reporting to reception to obtain a valid building pass.</p>
-        <p><codeph>POL.VAP.033</codeph>: <xref href="#annex-b" format="dita">Annex B</xref> refers to specific entry search procedures that <ph conref="conrefs.dita#conrefs/policyshall"/> apply for Sikh visitors wearing the Kirpan.</p>
+        <p><codeph>POL.VAP.033</codeph>: <xref href="#annex-b---sikh-visitors" format="dita">Annex B</xref> refers to specific entry search procedures that <ph conref="conrefs.dita#conrefs/policyshall"/> apply for Sikh visitors wearing the Kirpan.</p>
       </body>
     </topic>
     <topic id="types-of-accepted-identification">
@@ -217,13 +217,13 @@
       </body>
     </topic>
   </topic>
-  <topic id="annex-a">
+  <topic id="annex-a---common-civil-service-pass-information-sheet">
     <title>Annex A - Common Civil Service Pass Information Sheet</title>
     <body>
       <p>For access to this information, contact <ph conref="conrefs.dita#conrefs/groupsecurityemail"/>.</p>
     </body>
   </topic>
-  <topic id="annex-b">
+  <topic id="annex-b---sikh-visitors">
     <title>Annex B - Sikh Visitors</title>
     <body>
       <p>This guidance provides for reasonable accommodation for religious freedoms as defined by United Kingdom Equalities legislation and the Human Rights Act, while clearly identifying the conditions under which the Kirpan may be worn.</p>

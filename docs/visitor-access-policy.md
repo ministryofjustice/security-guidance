@@ -84,7 +84,7 @@ This policy has been tailored to reflect the outcomes detailed in [Government Fu
 
 -   `POL.VAP.013`: Hosts are responsible for ensuring that **red** escort pass visitors are escorted back to reception and return their pass. Hosts **SHOULD** also remind the holders of **green** unescorted passes to return their pass to reception when leaving the building at the end of their visit.
 
--   `POL.VAP.014`: Host are responsible for advising their visitors to clearly display their pass at all times whilst inside the building, and that they **SHALL** remove and conceal their pass when outside the building.
+-   `POL.VAP.014`: Hosts are responsible for advising their visitors to clearly display their pass at all times whilst inside the building, and that they **SHALL** remove and conceal their pass when outside the building.
 
 -   `POL.VAP.015`: Hosts are responsible for the health and safety of their visitors, and **SHOULD** brief them on the MoJ evacuation and invacuation procedures.
 
@@ -98,7 +98,7 @@ This policy has been tailored to reflect the outcomes detailed in [Government Fu
 
 -   `POL.VAP.020`: Contractors from OGDs who hold a CCSP at BPSS **MAY NOT** use their CCSP to access MoJ building. They **SHALL** be treated as visitors.
 
--   `POL.VAP.021`: Searches, including the use of scanners where available, **SHOULD** be considered for all visitors. [Annex B](#annex-b) provides additional guidance and policy statements for accommodating the religious obligations of Sikh visitors.
+-   `POL.VAP.021`: Searches, including the use of scanners where available, **SHOULD** be considered for all visitors. [Annex B](#annex-b---sikh-visitors) provides additional guidance and policy statements for accommodating the religious obligations of Sikh visitors.
 
 -   `POL.VAP.022`: For health and safety purposes, a register **SHOULD** be maintained by reception to record the details of the visitor. This applies to security manned sites only. The register **SHOULD** include the visitor name, host unit or contact, date and time of entry, date and time of departure, and a contact number.
 
@@ -125,7 +125,7 @@ This policy has been tailored to reflect the outcomes detailed in [Government Fu
 
 `POL.VAP.029`: Staff from other government departments who hold a CCSP **CAN** access and visit the MoJ building unescorted. They **SHALL** present their pass to reception staff, and are then issued with a **green** unescorted visitor pass.
 
-For further information regarding the Common Civil Service Pass, refer to [Annex A](#annex-a).
+For further information regarding the Common Civil Service Pass, refer to [Annex A](#annex-a---common-civil-service-pass-information-sheet).
 
 ### Other Government Departments or Private Estates
 
@@ -137,7 +137,7 @@ For further information regarding the Common Civil Service Pass, refer to [Annex
 
 `POL.VAP.032`: When a valid pass is not presented but scanners are available, security **SHOULD** refuse access and direct the individual through scanners and subsequent searches before reporting to reception to obtain a valid building pass.
 
-`POL.VAP.033`: [Annex B](#annex-b) refers to specific entry search procedures that **SHALL** apply for Sikh visitors wearing the Kirpan.
+`POL.VAP.033`: [Annex B](#annex-b---sikh-visitors) refers to specific entry search procedures that **SHALL** apply for Sikh visitors wearing the Kirpan.
 
 ### Types of accepted identification
 
