@@ -31,7 +31,7 @@ Personal devices **SHALL NOT** be charged from the USB ports of an MoJ device.
 
 -   If you have an MoJ-issued device or virtual environment, you **SHALL** use that.
 -   You **SHALL NOT** use a personal device to access Google Workspace tools such as Gmail, Docs, Slides, Sheets, Drive, Meet, or Hangouts for work purposes.
--   You **SHALL NOT** use a personal device to access Office 365 tools such as Outlook email or calendar, Word, Excel, or Powerpoint for work purposes.
+-   You **SHALL NOT** use a personal device to access Office 365 tools such as Outlook email or calendar, Word, Excel, or PowerPoint for work purposes.
     -   Wherever possible, an MoJ work device **SHOULD** be used to join business Teams calls, either via video or dial in.
     -   In cases where staff have not been provided with a work phone or laptop or any other work device which allows them to join or dial into Teams, staff **MAY** join from their personal devices as a Guest. The chair of the meeting **SHALL** confirm the identity of each and every person joining their call as a Guest.
 -   This guidance applies to all tools accessed through a web browser or installed client applications.
@@ -55,9 +55,9 @@ Request a virtual environment through the `Creation of WVD instances` product of
 
 Connected vehicles are effectively Bluetooth-connected storage devices. They are considered personal devices for the purposes of this guidance, regardless of whether they are owned, leased or rented.
 
-Automatic transfer of contact information and calendar events might be initiated during the pairing process. The resulting transferred data is accessible to any third party who subsequently pairs their mobile device to the vehicle.
+Automatic transfer of contact information and calendar events might happen during the pairing process. The resulting transferred data is accessible to any third party who subsequently pairs their mobile device to the vehicle.
 
-Additionally, although such platforms usually offer an option to delete paired profiles, there is currently no confirmation that the data is actually erased to a satifactory level. The usual claim is only that the transferred data is deemed inaccessible to the platform menu.
+Additionally, although such platforms usually offer an option to delete paired profiles, there is currently no confirmation that the data is actually erased to a satisfactory level. The usual claim is only that the transferred data is deemed inaccessible to the platform menu.
 
 For these reasons, MoJ devices **SHALL NOT** be paired with Bluetooth-enabled vehicles.
 
