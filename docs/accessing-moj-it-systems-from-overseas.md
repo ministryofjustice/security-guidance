@@ -53,7 +53,7 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 3.  Fill in the [overseas travel form](/gs/overseas-travel-form.docx).
 4.  Send the completed form to [security@justice.gov.uk](mailto:security@justice.gov.uk), including the answers obtained from the earlier parts of this process.
 5.  Your request will be considered, and an answer provided, as quickly as possible.
-6.  When you receive approval for your trip, you might need to schedule a [debrief with your line manager or security representative](#on-your-return) for when you return. Travel approval might be conditional on having a debrief after the trip.
+6.  When you receive approval for your trip, you might need to schedule a [debrief with your line manager or security representative](#on-your-return) for when you return. Travel approval might be conditional on having a debrief after the trip. If your trip involved visiting a 'special attention' country listed in [Part One](#part-one), a debrief when you return is mandatory.
 7.  Check if you need to do anything to prepare for [International Roaming](#international-roaming). Refer to the [International Roaming](#international-roaming) section.
 8.  Take a **non-physical copy** of this guidance; it includes useful contact details that help in the event of a problem while travelling.
 
@@ -72,6 +72,8 @@ In addition to confirming the dates and countries visited, the debrief asks ques
 -   Were you the victim of any criminal act, or detained or arrested?
 -   Did you lose or misplace any official material or personal items?
 -   Did you require medical treatment or legal assistance during your travel?
+
+Remain vigilant. In particular, [report](#contacts) any approaches or foreign contacts if they occur in the future.
 
 ## International Roaming
 
