@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="visitor-access-policy" >
+  <title>Visitor Access Policy</title>
+  <body>
+    <p>This policy complements the <ph conref="conrefs.dita#conrefs/mojlong"/> overall security policy.</p>
+    <p>This Visitor Access Control and Escorting Policy applies to all employees, contractors, partners and service providers, including those on co-located sites and sites owned by other public bodies. This also includes employees of other organisations who are based in, or work at, <ph conref="conrefs.dita#conrefs/moj"/> occupied premises.</p>
+    <p>Agencies and Arm's Length Bodies (ALBs) are expected to comply with this corporate framework but <ph conref="conrefs.dita#conrefs/policymay"/> establish their own arrangements tailored to operational needs and <ph conref="conrefs.dita#conrefs/policyshould"/> supplement it with local policy or guidance for any business-specific risk.</p>
+    <p>To help identify formal policy statements, each is prefixed with an identifier of the form: <codeph>POL.VAP.xxx</codeph>, where xxx is a unique ID number.</p>
+  </body>
+  <topic id="objective" >
+    <title>Objective</title>
+    <body>
+      <p>This policy outlines the access and security management controls that are in place for all visitors to <ph conref="conrefs.dita#conrefs/moj"/> buildings, along with requirements to be completed for escorted or unescorted visitors.</p>
+    </body>
+  </topic>
+  <topic id="scope-and-definition" >
+    <title>Scope and Definition</title>
+    <body>
+      <p>For the purpose of this policy, visitor control and escorting procedures are physical security controls that are intended to protect the <ph conref="conrefs.dita#conrefs/moj"/> from those wishing to gain unauthorised access or cause surreptitious or forced attack.</p>
+      <p><codeph>POL.VAP.001</codeph>: Government organisations <ph conref="conrefs.dita#conrefs/policymust"/> have mechanisms to implement internal and external security controls in a layered fashion that deter or prevent unauthorised access and protect assets, especially those that are critical or sensitive, against forcible or surreptitious attacks.</p>
+    </body>
+  </topic>
+  <topic id="context" >
+    <title>Context</title>
+    <body>
+      <p><codeph>POL.VAP.002</codeph>: The work of the <ph conref="conrefs.dita#conrefs/moj"/> involves a level of risk that is susceptible to physical threats, including crime and national security threats such as terrorism and espionage. Security risks <ph conref="conrefs.dita#conrefs/policymust"/> be managed effectively, collectively and proportionately to achieve a secure and confident working environment.</p>
+      <p><codeph>POL.VAP.003</codeph>: The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> implement effective and proportionate security controls to reduce physical risks (including crime, natural hazards and terrorism) to our assets (people, information and infrastructure) to an acceptable level.</p>
+    </body>
+  </topic>
+  <topic id="responsibilities" >
+    <title>Responsibilities</title>
+    <body>
+      <p>All employees, contractors, partners, service providers and employees of other organisations who are on <ph conref="conrefs.dita#conrefs/moj"/> premises and co-located sites remain accountable for the security, health and safety of themselves, colleagues and the protection of Departmental Assets.</p>
+      <p><codeph>POL.VAP.004</codeph>: Staff <ph conref="conrefs.dita#conrefs/policyshould"/>:</p>
+      <ul>
+        <li>
+          <p>Comply with the visitor access procedure when sponsoring a visit.</p>
+        </li>
+        <li>
+          <p>Notify the <ph conref="conrefs.dita#conrefs/moj"/> of any <xref href="#international-delegations-or-visits" format="dita">foreign delegates or visitors</xref> well in advance of the visit taking place.</p>
+        </li>
+        <li>
+          <p>Advise visitors of any requirements they need to fulfil prior to the visit, including providing confirmation of clearance if required, and bringing <xref href="#types-of-accepted-identification" format="dita">valid ID</xref>. Inform them of any searches they <ph conref="conrefs.dita#conrefs/policymay"/> be subjected to.</p>
+        </li>
+        <li>
+          <p>Inform colleagues of any expected visitors.</p>
+        </li>
+        <li>
+          <p>Ensure that a visitor categorised as requiring an escort <ph conref="conrefs.dita#conrefs/policymust"/> always be accompanied by a member of staff.</p>
+        </li>
+        <li>
+          <p>Challenge any escorted visitor found to be unaccompanied and seek assistance if required. The unescorted visitor <ph conref="conrefs.dita#conrefs/policyshould"/> be returned to reception.</p>
+        </li>
+        <li>
+          <p>Ensure visitors remove their pass when leaving the building and that they return the pass to reception at the end of their visit.</p>
+        </li>
+        <li>
+          <p>Be mindful of any sensitive conversations that might be subject to unauthorised overhearing. Staff <ph conref="conrefs.dita#conrefs/policyshould"/> hold such conversations away from any visitors.</p>
+        </li>
+        <li>
+          <p>Ensure that visitors do not have access to any sensitive or high profile areas of the business, unless specifically authorised. Where such access is authorised, staff working in these areas <ph conref="conrefs.dita#conrefs/policyshould"/> apply more stringent controls to avoid disclosure of any information.</p>
+        </li>
+        <li>
+          <p>Be aware that noncompliance with hosting duties is regarded as a breach of security.</p>
+        </li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="policy-statements" >
+    <title>Policy Statements</title>
+    <body>
+      <p><codeph>POL.VAP.005</codeph>: The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/>:</p>
+      <ul>
+        <li>
+          <p>Put in place arrangements to control and monitor access to our estate, including Visitor Control and Escorting policy.</p>
+        </li>
+        <li>
+          <p>Have effective plans or procedures in place for dealing with and intercepting unauthorised visitors, intruders or suspicious items. These plans <ph conref="conrefs.dita#conrefs/policymust"/> include the ability to search and cordon off areas of the establishment systemically.</p>
+        </li>
+      </ul>
+      <p>This policy has been tailored to reflect the outcomes detailed in <ph conref="conrefs.dita#conrefs/gov007"/>, and sets out the processes to be completed when organising and overseeing visitor access to the <ph conref="conrefs.dita#conrefs/moj"/> estate.</p>
+    </body>
+    <topic id="determining-visitor-access-controls">
+      <title>Determining Visitor Access Controls</title>
+      <body>
+        <p><codeph>POL.VAP.006</codeph>: <ph conref="conrefs.dita#conrefs/moj"/> Estates should refer to the government response levels and their individual threat assessments to determine the level and appropriate visitors control required to manage the security risks to their estate. These controls <ph conref="conrefs.dita#conrefs/policyshould"/> form part of a layered defence approach.</p>
+        <p><codeph>POL.VAP.007</codeph>: For high risk estates which contain sensitive information or other valuable assets, there <ph conref="conrefs.dita#conrefs/policyshould"/> be a robust pass system to identify the type of visitor and a sign-in procedure. The use of x-ray scanners and searches to minimise the risk of unauthorised and external access to the estate <ph conref="conrefs.dita#conrefs/policyshould"/> also be considered.</p>
+      </body>
+    </topic>
+    <topic id="visitor-access-procedure">
+      <title>Visitor access procedure</title>
+      <body>
+        <note>The <ph conref="conrefs.dita#conrefs/moj"/> uses two colours to distinguish visitor passes. A <b>red</b> visitor pass means that the visitor requires escorting by an authorised <ph conref="conrefs.dita#conrefs/moj"/> individual at all times, and in all locations within the <ph conref="conrefs.dita#conrefs/moj"/> premises. A <b>green</b> visitor pass means that the visitor does not require escorting while on <ph conref="conrefs.dita#conrefs/moj"/> premises.</note>
+        <p><codeph>POL.VAP.008</codeph>: The following procedures <ph conref="conrefs.dita#conrefs/policyshould"/> be implemented and followed to manage visitor access appropriately:</p>
+        <ul>
+          <li>
+            <p><codeph>POL.VAP.009</codeph>: Provide at least 24 hours' notice of any planned visits to <ph conref="conrefs.dita#conrefs/moj"/> premises.</p>
+          </li>
+          <li>
+            <p><codeph>POL.VAP.010</codeph>: If visitors arrive without notice and cannot provide the name or telephone number of the person they are visiting, security <ph conref="conrefs.dita#conrefs/policyshall"/> refuse them entry to the building.</p>
+          </li>
+          <li>
+            <p><codeph>POL.VAP.011</codeph>: All visitors <ph conref="conrefs.dita#conrefs/policymust"/> be sponsored by a <ph conref="conrefs.dita#conrefs/moj"/> permanent member of staff (Civil Servant) who assumes full responsibility for the visit. Clearance checks <ph conref="conrefs.dita#conrefs/policyshould"/> be conducted if required, for example when unescorted passes are required. Confirmation of clearance is required for those buildings which specify a minimum clearance requirement.</p>
+          </li>
+          <li>
+            <p><codeph>POL.VAP.012</codeph>: Hosts <ph conref="conrefs.dita#conrefs/policymust"/> always accompany <b>red</b> escort pass visitors when inside the building. If colleagues see a holder of a <b>red</b> escort pass visitor without an escort, the visitor <ph conref="conrefs.dita#conrefs/policymust"/> be escorted back to reception, who <ph conref="conrefs.dita#conrefs/policyshall"/> contact the host and ask them to collect their visitor.</p>
+          </li>
+          <li>
+            <p><codeph>POL.VAP.013</codeph>: Hosts are responsible for ensuring that <b>red</b> escort pass visitors are escorted back to reception and return their pass. Hosts <ph conref="conrefs.dita#conrefs/policyshould"/> also remind the holders of <b>green</b> unescorted passes to return their pass to reception when leaving the building at the end of their visit.</p>
+          </li>
+          <li>
+            <p><codeph>POL.VAP.014</codeph>: Hosts are responsible for advising their visitors to clearly display their pass at all times whilst inside the building, and that they <ph conref="conrefs.dita#conrefs/policyshall"/> remove and conceal their pass when outside the building.</p>
+          </li>
+          <li>
+            <p><codeph>POL.VAP.015</codeph>: Hosts are responsible for the health and safety of their visitors, and <ph conref="conrefs.dita#conrefs/policyshould"/> brief them on the <ph conref="conrefs.dita#conrefs/moj"/> evacuation and invacuation procedures.</p>
+          </li>
+          <li>
+            <p><codeph>POL.VAP.016</codeph>: Visitors from Other Government Departments (OGDs) <ph conref="conrefs.dita#conrefs/policyshallnot"/> act as hosts in <ph conref="conrefs.dita#conrefs/moj"/> buildings.</p>
+          </li>
+          <li>
+            <p><codeph>POL.VAP.017</codeph>: Holders of either a valid HMCTS or HMPPS pass <ph conref="conrefs.dita#conrefs/policymay"/> request a <b>green</b> unescorted pass from reception. There is no need to arrange visitor access or have them met in reception, but security <ph conref="conrefs.dita#conrefs/policymay"/> request further identification.</p>
+          </li>
+          <li>
+            <p><codeph>POL.VAP.018</codeph>: Civil Servants from OGDs who hold a Common Civil Service Pass (CCSP) <ph conref="conrefs.dita#conrefs/policycan"/> be issued with a <b>green</b> unescorted pass, but security <ph conref="conrefs.dita#conrefs/policymay"/> request further identification.</p>
+          </li>
+          <li>
+            <p><codeph>POL.VAP.019</codeph>: Contractors from OGDs who hold a CCSP <u>and</u> a national security vetting at CTC, SC or DV <ph conref="conrefs.dita#conrefs/policycan"/> receive a <b>green</b> unescorted pass, but security <ph conref="conrefs.dita#conrefs/policymay"/> request further identification.</p>
+          </li>
+          <li>
+            <p><codeph>POL.VAP.020</codeph>: Contractors from OGDs who hold a CCSP at BPSS <ph conref="conrefs.dita#conrefs/policymaynot"/> use their CCSP to access <ph conref="conrefs.dita#conrefs/moj"/> building. They <ph conref="conrefs.dita#conrefs/policyshall"/> be treated as visitors.</p>
+          </li>
+          <li>
+            <p><codeph>POL.VAP.021</codeph>: Searches, including the use of scanners where available, <ph conref="conrefs.dita#conrefs/policyshould"/> be considered for all visitors. <xref href="#annex-b---sikh-visitors" format="dita">Annex B</xref> provides additional guidance and policy statements for accommodating the religious obligations of Sikh visitors.</p>
+          </li>
+          <li>
+            <p><codeph>POL.VAP.022</codeph>: For health and safety purposes, a register <ph conref="conrefs.dita#conrefs/policyshould"/> be maintained by reception to record the details of the visitor. This applies to security manned sites only. The register <ph conref="conrefs.dita#conrefs/policyshould"/> include the visitor name, host unit or contact, date and time of entry, date and time of departure, and a contact number.</p>
+          </li>
+          <li>
+            <p><codeph>POL.VAP.023</codeph>: Visitor passes are exclusively for the use of visitors. Contractors or consultants working for and paid by the <ph conref="conrefs.dita#conrefs/moj"/> are not visitors, and therefore <ph conref="conrefs.dita#conrefs/policymust"/> be security cleared before starting work at or for the Department, and issued with a valid building pass. In the rare case of an individual being employed on a very short-term contract not involving access Departmental assets or information, the business unit <ph conref="conrefs.dita#conrefs/policyshall"/> approach <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/> beforehand to obtain approval for the usual clearance requirements to be waived for specific individuals on specific dates.</p>
+          </li>
+          <li>
+            <p><codeph>POL.VAP.024</codeph>: Visitor passes are intended for temporary use only, and <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used as permanent means to allow for routine daily escorted or unescorted access to the <ph conref="conrefs.dita#conrefs/moj"/> estate.</p>
+          </li>
+          <li>
+            <p><codeph>POL.VAP.025</codeph>: A visitor's pass <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used as a substitute or way to circumvent the issuing of a permanent building pass. <note>This does not include waiting for the replacement of a lost or stolen pass.</note></p>
+          </li>
+          <li>
+            <p><codeph>POL.VAP.026</codeph>: Where a staff member or contractor has forgotten their building pass on the day, they <ph conref="conrefs.dita#conrefs/policycan"/> be issued with a temporary <b>green</b> unescorted visitor day pass, on the proviso that another member of staff can vouch for them. If a staff member or contractor has forgotten their pass on two or more consecutive days, the pass <ph conref="conrefs.dita#conrefs/policyshall"/> be deemed lost or stolen. The staff member or contractor <ph conref="conrefs.dita#conrefs/policymust"/> report to building Security Team before issue of a temporary pass is approved.</p>
+          </li>
+        </ul>
+      </body>
+    </topic>
+    <topic id="international-delegations-or-visits">
+      <title>International delegations or visits</title>
+      <body>
+        <p><codeph>POL.VAP.027</codeph>: In the case of international delegations visiting the <ph conref="conrefs.dita#conrefs/moj"/>, advice <ph conref="conrefs.dita#conrefs/policyshould"/> be obtained in advance from the <xref href="mailto:international.visits@justice.gov.uk" format="email" scope="external">International Relations and Strategy Team</xref>.</p>
+      </body>
+    </topic>
+    <topic id="prisoners-on-licence-visiting-moj-premises">
+      <title>Prisoners on licence visiting <ph conref="conrefs.dita#conrefs/moj"/> premises</title>
+      <body>
+          <p><codeph>POL.VAP.028</codeph>: Where it is necessary for any prisoner who is subject to licence conditions to visit <ph conref="conrefs.dita#conrefs/moj"/> offices, it is the responsibility of the Offender Manager to undertake a thorough risk assessment well in advance of the planned visit. The assessment <ph conref="conrefs.dita#conrefs/policyshould"/> be shared with the host. The risk assessment <ph conref="conrefs.dita#conrefs/policyshould"/> be referenced by the visit host on their own risk assessment for the visit in question, and shared with <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>. Advice on completing risk assessments is available on the <xref href="https://intranet.justice.gov.uk/guidance/fire-health-safety/risk-assessment/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Intranet</xref>.</p>
+      </body>
+    </topic>
+    <topic id="common-civil-service-pass-ccsp">
+      <title>Common Civil Service Pass (CCSP)</title>
+      <body>
+        <p><codeph>POL.VAP.029</codeph>: Staff from other government departments who hold a CCSP <ph conref="conrefs.dita#conrefs/policycan"/> access and visit the <ph conref="conrefs.dita#conrefs/moj"/> building unescorted. They <ph conref="conrefs.dita#conrefs/policyshall"/> present their pass to reception staff, and are then issued with a <b>green</b> unescorted visitor pass.</p>
+        <p>For further information regarding the Common Civil Service Pass, refer to <xref href="#annex-a---common-civil-service-pass-information-sheet" format="dita">Annex A</xref>.</p>
+      </body>
+    </topic>
+    <topic id="other-government-departments-or-private-estates">
+      <title>Other Government Departments or Private Estates</title>
+      <body>
+        <p><codeph>POL.VAP.030</codeph>: <ph conref="conrefs.dita#conrefs/moj"/> staff occupying buildings with other government departments or accommodated in privately leased buildings <ph conref="conrefs.dita#conrefs/policyshould"/> refer to and follow internal policies and procedures regarding visitor access.</p>
+      </body>
+    </topic>
+    <topic id="guarding-responsibilities">
+      <title>Guarding responsibilities</title>
+      <body>
+        <p><codeph>POL.VAP.031</codeph>: Security guards <ph conref="conrefs.dita#conrefs/policyshould"/> check all passes every time any person enters a secure building via reception. This is a means of identifying the person presenting the pass. It also ensures that the passes have not been lost and possibly fallen into the hands of unauthorised persons who make improper use of them.</p>
+        <p><codeph>POL.VAP.032</codeph>: When a valid pass is not presented but scanners are available, security <ph conref="conrefs.dita#conrefs/policyshould"/> refuse access and direct the individual through scanners and subsequent searches before reporting to reception to obtain a valid building pass.</p>
+        <p><codeph>POL.VAP.033</codeph>: <xref href="#annex-b---sikh-visitors" format="dita">Annex B</xref> refers to specific entry search procedures that <ph conref="conrefs.dita#conrefs/policyshall"/> apply for Sikh visitors wearing the Kirpan.</p>
+      </body>
+    </topic>
+    <topic id="types-of-accepted-identification">
+      <title>Types of accepted identification</title>
+      <body>
+        <p><codeph>POL.VAP.034</codeph>: Visitors <ph conref="conrefs.dita#conrefs/policycan"/> be asked to present ID. The following are the only recognised forms of ID accepted by the <ph conref="conrefs.dita#conrefs/moj"/>:</p>
+        <ul>
+          <li>
+            <p>Current passport.</p>
+          </li>
+          <li>
+            <p>Current UK or other internationally-recognised driving licence.</p>
+          </li>
+          <li>
+            <p>UK Government Department ID as recognised by <ph conref="conrefs.dita#conrefs/moj"/> Group Security.</p>
+          </li>
+        </ul>
+        <p>Only original forms of the recognised ID are accepted. No copies are acceptable.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="compliance" >
+    <title>Compliance</title>
+    <body>
+      <p><codeph>POL.VAP.035</codeph>: The level of risk and potential impact to <ph conref="conrefs.dita#conrefs/moj"/> information, assets and people determines the controls to be applied and the degree of assurance required. The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> ensure a baseline of physical security measures are in place at each site, and receive annual assurance that such measures are in place to provide appropriate protection to all occupants and assets, and that these measures can be strengthened when required, for example in response to a security incident or change in the Government Response Level.</p>
+      <p><codeph>POL.VAP.036</codeph>: The implementation of all security measures <ph conref="conrefs.dita#conrefs/policymust"/> be able to provide evidence that the selection has been made in accordance with the appropriate information security standards ISO27001/27002, Physical Security advice taken from the <ph conref="conrefs.dita#conrefs/cpnilong"/> and <ph conref="conrefs.dita#conrefs/gov007"/>.</p>
+      <p><codeph>POL.VAP.037</codeph>: The constantly changing security landscape has necessarily dictated that Physical Security measures be constantly re-evaluated and tested in order to meet new threats and other emerging vulnerabilities. This policy and subsequent supporting standards is subject to annual review, or more frequently if warranted.</p>
+    </body>
+    <topic id="physical-security-advice">
+      <title>Physical security advice</title>
+      <body>
+        <p>For more physical security advice, contact <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="annex-a---common-civil-service-pass-information-sheet">
+    <title>Annex A - Common Civil Service Pass Information Sheet</title>
+    <body>
+      <p>For access to this information, contact <ph conref="conrefs.dita#conrefs/groupsecurityemail"/>.</p>
+    </body>
+  </topic>
+  <topic id="annex-b---sikh-visitors">
+    <title>Annex B - Sikh Visitors</title>
+    <body>
+      <p>This guidance provides for reasonable accommodation for religious freedoms as defined by United Kingdom Equalities legislation and the Human Rights Act, while clearly identifying the conditions under which the Kirpan may be worn.</p>
+    </body>
+    <topic id="definition-of-a-kirpan">
+      <title>Definition of a Kirpan</title>
+      <body>
+        <p>The Sikh faith follows a dress code which encompasses the 5 Ks. The Kirpan is one of the 5 Ks. As is the case with all faiths, people follow tenets of their faith to different degrees. Not all Sikhs make a commitment to live by the full Sikh religious code. Therefore, not all Sikhs wear the turban or carry the Kirpan. However, all baptised Sikhs (Amritdharis) who live by the code are required to wear all 5 Ks. Both men and women can be baptised, and the code is the same.</p>
+        <p>The 5 Ks are defined as follows:</p>
+        <ol>
+          <li>
+            <p>Kesh: Uncut hair, which includes keeping a beard. Baptised Sikhs have an untrimmed beard which is either rolled up and tied, or free flowing. A turban is usually worn on their heads to cover the uncut hair. Whilst the turban is mandatory for baptised Sikhs, it is considered to be an integral part of the makeup of the Sikh identity and therefore might be worn by many non-baptised Sikhs.</p>
+          </li>
+          <li>
+            <p>Kara: Steel bangle, predominantly worn on the right wrist. Most Sikhs wear a Kara.</p>
+          </li>
+          <li>
+            <p>Kanga: A small wooden comb in the hair underneath the turban.</p>
+          </li>
+          <li>
+            <p>Kachera (or kachh or kaccha): Cotton loose boxer style shorts with a draw string waist.</p>
+          </li>
+          <li>
+            <p id="kirpan">Kirpan: Ceremonial sword. There is no fixed style of Kirpan, and it can be anything from a few inches to three feet long. It is kept in a sheath, which is attached to a fabric belt and can be worn over or under clothing. The Kirpan signifies that the wearer is blessed with honour. The Kirpan is worn by baptised Sikhs only.</p>
+          </li>
+        </ol>
+        <image href="images/visitor-access-policy-01.jpg" placement="break" scope="local"><alt>A picture of a Sikh Kirpan. This is a curved ceremonial sword or dagger, and may be any size or shape.</alt></image>
+        <image href="images/visitor-access-policy-02.jpg" placement="break" scope="local"><alt>A picture of four different Sikh Kirpans. It shows that the ceremonial sword or dagger may be any size or shape.</alt></image>
+      </body>
+    </topic>
+    <topic id="procedures">
+      <title>Procedures</title>
+      <body>
+        <p><codeph>POL.VAP.038</codeph>: A Sikh visitor <ph conref="conrefs.dita#conrefs/policyshouldnot"/> be denied entry into the building for genuinely wearing any article of their faith.</p>
+        <p><codeph>POL.VAP.039</codeph>: The previous information about the <xref href="#definition-of-a-kirpan" format="dita">Kirpan</xref> <ph conref="conrefs.dita#conrefs/policyshould"/> be used as a reference guide to enable security guards to satisfy themselves of the visitors' Sikh faith.</p>
+        <p><codeph>POL.VAP.040</codeph>: There is no requirement for the removal or confiscation of any articles, particularly the Kirpan, and under normal circumstances, guards <ph conref="conrefs.dita#conrefs/policyshouldnot"/> ask to inspect items that are not visible.</p>
+        <p><codeph>POL.VAP.041</codeph>: It <ph conref="conrefs.dita#conrefs/policyshould"/> be noted that when a Sikh is required to remove their Kirpan, they must make an immediate visit to the temple for the Kirpan to be blessed. Therefore, Sikh visitors <ph conref="conrefs.dita#conrefs/policyshould"/> only be subject to searches and inspections of their Kirpans in exceptional circumstances, where there is a genuine cause for concern to security.</p>
+        <p><codeph>POL.VAP.042</codeph>: Where a search and inspection are required, guards <ph conref="conrefs.dita#conrefs/policyshould"/> note that it might take the Sikh visitor a few moments to pull their Kirpan from underneath their clothes. This could involve pulling the outer clothes out from their trousers and for women this could be more problematic. To accommodate for this, permission <ph conref="conrefs.dita#conrefs/policyshould"/> be sought from the Sikh visitor to feel the Kirpan while still underneath the clothes; or to take the visitor to one side to provide some privacy during the search. Female Sikh visitors <ph conref="conrefs.dita#conrefs/policyshould"/> be searched in private by a female security guard.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

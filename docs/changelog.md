@@ -2,6 +2,14 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-12-03 13:39 GMT [Visitor Access Policy](https://security-guidance.service.justice.gov.uk/visitor-access-policy/)**
+
+    Policy regarding the access and security management controls that are in place for all visitors to MoJ buildings.
+
+-   **2021-12-02 16:54 GMT [National Security Vetting Contact](https://security-guidance.service.justice.gov.uk/national-security-vetting-contact/)**
+
+    Updated application form for candidacy to be an NSVC.
+
 -   **2021-11-30 13:54 GMT [Personal Devices](https://security-guidance.service.justice.gov.uk/personal-devices/)**
 
     Clarified guidance on connecting personal devices using Bluetooth, and added new section on connected vehicles.
