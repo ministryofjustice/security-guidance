@@ -72,6 +72,7 @@ In addition to confirming the dates and countries visited, the debrief asks ques
 -   Were you the victim of any criminal act, or detained or arrested?
 -   Did you lose or misplace any official material or personal items?
 -   Did you require medical treatment or legal assistance during your travel?
+-   Were there any technical difficulties during your travel?
 
 Remain vigilant. In particular, [report](#contacts) any approaches or foreign contacts if they occur in the future.
 
