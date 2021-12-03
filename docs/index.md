@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 2 December 2021.
+**Note:** This guidance is dated: 3 December 2021.
 
 ### Popular links
 
@@ -34,7 +34,7 @@ For convenience, offline versions of this guidance are available.
 |Group Security. Contains Group Security policy and guidance.|[PDF](moj-guidance-gs.pdf)|[EPUB](moj-guidance-gs.epub)|
 |Technical users. Includes lots of technical detail. This document contains all content, including for 'All users' and from Group Security. Download this document if you want the complete set of published MoJ security policy and guidance.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 2 January 2022.
+The offline versions of this guidance are time-limited, and are not valid after 3 January 2022.
 
 ### Getting in touch
 
@@ -234,6 +234,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Physical security policy](physical-security-policy.md)|All users|
 |[Public protest and demonstrations policy](public-protest-and-demonstrations-policy.md)|All users|
 |[Security in the office](security-in-the-office.md)|All users|
+|[Visitor access policy](visitor-access-policy.md)|All users|
 
 #### Equipment
 
