@@ -2,7 +2,9 @@
 
 This guide identifies the security controls that **SHALL** or **SHOULD** be implemented at the domain layer to verify sender's domains and mitigate spoofing attacks.
 
-The controls consist of:
+It is Ministry of Justice \(MoJ\) policy to follow and comply with [HMG Email Security policy](https://www.gov.uk/guidance/securing-government-email).
+
+This means that the MoJ implements a number of controls for email systems:
 
 -   [Sender Policy Framework](#sender-policy-framework)
 -   [Domain Keys Identified Mail](#domain-keys-identified-mail)
@@ -10,7 +12,10 @@ The controls consist of:
 -   [Mail Transfer Agent Strict Transport Security](#mail-transfer-agent-strict-transport-security)
 -   [TLS Reporting](#tls-reporting)
 
-**Parent topic:** [Email Security Guide](email-security-guide.md)
+**Related information**  
+
+
+[Email Security Guide](email-security-guide.md)
 
 ## Sender Policy Framework
 
@@ -18,7 +23,7 @@ The controls consist of:
 
 SPF is verified by checking a specific `TXT` DNS entry in emails. Emails are flagged if they are not sent from the domains and IP addresses published in the DNS record.
 
-The Ministry of Justice \(MoJ\) enforces SPF controls to help users spot spoofed or unknown email addresses. Suspicious emails are sent directly to the "spam" folder, instead of to the user's inbox.
+The MoJ enforces SPF controls to help users spot spoofed or unknown email addresses. Suspicious emails are sent directly to the "spam" folder, instead of to the user's inbox.
 
 When creating an SPF record in the public DNS, use all the IP addresses or address ranges from which an email might be sent. You can use both IPv4 and IPv6 addresses. An SPF record might look like the following:
 
@@ -89,6 +94,8 @@ Mail Transfer Agent Strict Transport Security \(MTA-STS\) is a protocol which te
 The MoJ **SHALL** implement and use MTA-STS for MoJ email systems.
 
 To 'enable' MTA-STS, publish a text file containing the MoJ MTA-STS policy. Before sending an email to the MoJ, the sending email service checks the Domain Name System \(DNS\) record of the MoJ email service for an MTA-STS policy.
+
+It is MoJ policy to follow HMG Email Security policy for MTA-STS. The MoJ **SHALL** deploy an MTA-STS policy with `enforce` mode specified.
 
 For more information on UK Government configuration and use of MTA-STS, refer to the [published guidance](https://www.gov.uk/government/publications/email-security-standards/using-the-mail-transfer-agent-strict-transport-security-mta-sts-protocol-in-your-organisation).
 

@@ -6,12 +6,12 @@ There are numerous reasons that email might be blocked. An email matching the cr
 
 If you have any concerns about email delivery, contact your email service provider or Infrastructure exchange team.
 
-**Parent topic:** [Email Security Guide](email-security-guide.md)
-
 **Related information**  
 
 
 [Email blocking policy](email-blocklist-policy.md)
+
+[Email Security Guide](email-security-guide.md)
 
 ## Definitions
 

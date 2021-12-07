@@ -4,7 +4,8 @@
   <title>Email Authentication Guide</title>
   <body>
     <p>This guide identifies the security controls that <ph conref="conrefs.dita#conrefs/policyshall"/> or <ph conref="conrefs.dita#conrefs/policyshould"/> be implemented at the domain layer to verify sender's domains and mitigate spoofing attacks.</p>
-    <p>The controls consist of:
+    <p>It is <ph conref="conrefs.dita#conrefs/mojlong"/> policy to follow and comply with <xref href="https://www.gov.uk/guidance/securing-government-email" format="html" scope="external">HMG Email Security policy</xref>.</p>
+    <p>This means that the <ph conref="conrefs.dita#conrefs/moj"/> implements a number of controls for email systems:
       <ul>
         <li><xref href="#sender-policy-framework" format="dita">Sender Policy Framework</xref></li>
         <li><xref href="#domain-keys-identified-mail" format="dita">Domain Keys Identified Mail</xref></li>
@@ -19,7 +20,7 @@
     <body>
       <p><xref href="https://en.wikipedia.org/wiki/Sender_Policy_Framework" scope="external" format="html">Sender Policy Framework (SPF)</xref> <ph conref="conrefs.dita#conrefs/policyshould"/> be implemented for email domains. SPF enables organisations to publish a Domain Name System (DNS) record of all the domains and IP addresses which are trusted for sending and receiving email.</p>
       <p>SPF is verified by checking a specific <codeph>TXT</codeph> DNS entry in emails. Emails are flagged if they are not sent from the domains and IP addresses published in the DNS record.</p>
-      <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> enforces SPF controls to help users spot spoofed or unknown email addresses. Suspicious emails are sent directly to the "spam" folder, instead of to the user's inbox.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> enforces SPF controls to help users spot spoofed or unknown email addresses. Suspicious emails are sent directly to the "spam" folder, instead of to the user's inbox.</p>
       <p>When creating an SPF record in the public DNS, use all the IP addresses or address ranges from which an email might be sent. You can use both IPv4 and IPv6 addresses. An SPF record might look like the following:
       <ul>
         <li>An example of a basic SPF record to be added to an organisation's public DNS, where it uses Google, might be:
@@ -106,6 +107,7 @@
       <p>Mail Transfer Agent Strict Transport Security (MTA-STS) is a protocol which tells services that are sending email to your organisation that your domain supports Transport Layer Security (TLS) 1.2 or higher. This protocol makes email less vulnerable to middle-person attacks, and allows the receiving email service to enforce encryption, without the risk of delivery failing.</p>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> implement and use MTA-STS for <ph conref="conrefs.dita#conrefs/moj"/> email systems.</p>
       <p>To 'enable' MTA-STS, publish a text file containing the <ph conref="conrefs.dita#conrefs/moj"/> MTA-STS policy. Before sending an email to the <ph conref="conrefs.dita#conrefs/moj"/>, the sending email service checks the Domain Name System (DNS) record of the <ph conref="conrefs.dita#conrefs/moj"/> email service for an MTA-STS policy.</p>
+      <p>It is <ph conref="conrefs.dita#conrefs/moj"/> policy to follow HMG Email Security policy for MTA-STS. The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> deploy an MTA-STS policy with <codeph>enforce</codeph> mode specified.</p>
       <p>For more information on UK Government configuration and use of MTA-STS, refer to the <xref href="https://www.gov.uk/government/publications/email-security-standards/using-the-mail-transfer-agent-strict-transport-security-mta-sts-protocol-in-your-organisation" format="html" scope="external">published guidance</xref>.</p>
     </body>
   </topic>

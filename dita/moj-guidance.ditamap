@@ -278,16 +278,15 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="cjsm.dita" type="topic" audience="audience-tech"/>
 			<topicref href="data-sovereignty.dita" type="topic" audience="audience-tech"/>
 			<topicref href="email.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
-			<topicref href="email-security-guide.dita" type="topic" audience="audience-suppliers audience-tech">
-				<topicref href="email-authentication-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
-				<topicref href="email-blocklist-policy.dita" type="topic" audience="audience-tech"/>
-				<topicref href="email-blocklist-process.dita" type="topic" audience="audience-tech"/>
-				<topicref href="secure-email-transfer-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
-				<topicref href="spam-and-phishing-guide.dita" type="topic" audience="audience-tech"/>
-			</topicref>
+			<topicref href="email-authentication-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="email-blocklist-policy.dita" type="topic" audience="audience-tech"/>
+			<topicref href="email-blocklist-process.dita" type="topic" audience="audience-tech"/>
+			<topicref href="email-security-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="secure-data-transfer-guide.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="secure-email-transfer-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="sending-information-securely.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="spam-and-phishing-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="web-browsing.dita" type="topic" audience="audience-basic audience-tech">
 				<topicref href="web-browsing-security-policy-profiles.dita" type="topic" audience="audience-basic audience-tech"/>
 			</topicref>
@@ -550,6 +549,18 @@ if an audience attribute is present, then only matching content is included.
 			</relcell>
 			<relcell>
 				<topicref href="personal-devices.dita"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="email-security-guide.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="email-authentication-guide.dita"/>
+				<topicref href="email-blocklist-policy.dita"/>
+				<topicref href="email-blocklist-process.dita"/>
+				<topicref href="secure-email-transfer-guide.dita"/>
+				<topicref href="spam-and-phishing-guide.dita"/>
 			</relcell>
 		</relrow>
 	</reltable>
