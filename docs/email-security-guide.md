@@ -44,9 +44,10 @@ All technical users are responsible for maintaining and using the MoJ's email co
 
 By default, users **SHALL NOT** access the email accounts of any other users, unless they are authorised to do so as required by their role. Access is authorised on a case-by-case basis only, and is normally aligned to the following circumstances:
 
--   During a criminal investigation by a law enforcement agency.
--   During an employee investigation relating to misconduct or a security incident, for example IT misuse.
+-   After a criminal investigation has been opened by a law enforcement agency.
+-   After an employee investigation has been opened relating to misconduct or a security incident, for example IT misuse.
 -   Upon the death or unexpected exit of an employee, for example to enable retrieval of business information or closing down an account.
+-   For long-term archiving of information no longer in current use.
 
 Anyone required to enable or carry out authorised access to a user account should follow the guidance in the [Privileged User Guide](privileged-user-guide.md).
 
