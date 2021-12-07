@@ -41,7 +41,7 @@ The [Baseline Personnel Security Standard (BPSS) is published on GOV.UK](https:/
 
 ##National Security Clearances
 
-The MoJ will advise on a case-by-case basis if an individual requires a [national security vetting and clearance](https://www.gov.uk/guidance/security-vetting-and-clearance#applicant).
+The MoJ will advise on a case-by-case basis if an individual requires a [national security vetting and clearance](https://www.gov.uk/government/organisations/united-kingdom-security-vetting).
 
 ##Contact details
 
