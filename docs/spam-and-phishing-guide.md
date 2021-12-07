@@ -1,10 +1,11 @@
 # Spam and Phishing Guide
 
-**Parent topic:** [Email Security Guide](email-security-guide.md)
-
-## Introduction
-
 This guide outlines the technical implementations that technical users should make to keep Ministry of Justice \(MoJ\) systems secure.
+
+**Related information**  
+
+
+[Email Security Guide](email-security-guide.md)
 
 ## Common email threats
 

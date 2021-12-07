@@ -1,19 +1,19 @@
 # Email Security Guide
 
--   **[Email Authentication Guide](email-authentication-guide.md)**  
-
--   **[Email blocking policy](email-blocklist-policy.md)**  
-
--   **[Email blocking process](email-blocklist-process.md)**  
-
--   **[Secure Email Transfer Guide](secure-email-transfer-guide.md)**  
-
--   **[Spam and Phishing Guide](spam-and-phishing-guide.md)**  
-
-
-## Introduction
-
 This guide sets out the requirements for implementing and maintaining email security across the Ministry of Justice \(MoJ\).
+
+**Related information**  
+
+
+[Email Authentication Guide](email-authentication-guide.md)
+
+[Email blocking policy](email-blocklist-policy.md)
+
+[Email blocking process](email-blocklist-process.md)
+
+[Secure Email Transfer Guide](secure-email-transfer-guide.md)
+
+[Spam and Phishing Guide](spam-and-phishing-guide.md)
 
 ## Who is this for?
 

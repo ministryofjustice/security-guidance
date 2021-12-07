@@ -2,15 +2,11 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="spam-and-phishing-guide">
   <title>Spam and Phishing Guide</title>
-  <body/>
-  <topic id="introduction">
-    <title>Introduction</title>
-    <body>
-      <p>This guide outlines the technical implementations that technical users
-        should make to keep
-        <ph conref="conrefs.dita#conrefs/mojlong"/> systems secure.</p>
-    </body>
-  </topic>
+  <body>
+    <p>This guide outlines the technical implementations that technical users
+      should make to keep
+      <ph conref="conrefs.dita#conrefs/mojlong"/> systems secure.</p>
+  </body>
   <topic id="common-email-threats">
     <title>Common email threats</title>
     <body/>
@@ -104,7 +100,7 @@
         <p>Report any account takeovers or email compromise
           <xref href="reporting-an-incident.dita" format="dita">as an
             incident</xref>.</p>
-        <p conref="conrefs.dita#conrefs/incidentmanager"/>
+        <p conref="conrefs.dita#conrefs/incidentmanager" audience="audience-suppliers audience-tech"/>
       </body>
     </topic>
     <topic id="accidental-disclosure">
@@ -116,7 +112,7 @@
           Report these
           <xref href="reporting-an-incident.dita" format="dita">as an
           incident</xref>.</p>
-          <p conref="conrefs.dita#conrefs/incidentmanager"/>
+          <p conref="conrefs.dita#conrefs/incidentmanager" audience="audience-suppliers audience-tech"/>
       </body>
     </topic>
     <topic id="man-in-the-middle-attacks">

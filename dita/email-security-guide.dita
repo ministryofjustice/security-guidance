@@ -2,14 +2,10 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="email-security-guide">
   <title>Email Security Guide</title>
-  <body/>
-  <topic id="introduction">
-    <title>Introduction</title>
-    <body>
-      <p>This guide sets out the requirements for implementing and maintaining
-        email security across the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
-    </body>
-  </topic>
+  <body>
+    <p>This guide sets out the requirements for implementing and maintaining
+      email security across the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
+  </body>
   <topic id="who-is-this-for">
     <title>Who is this for?</title>
     <body>
@@ -45,19 +41,6 @@
       <p>These audiences are referred to as "technical users".</p>
     </body>
   </topic>
-  <!--
-  <topic id="related-guides">
-    <title>Related guides</title>
-    <body>
-      <p>Further guidance on email security at the <ph conref="conrefs.dita#conrefs/moj"/> can be found in the following guides.</p>
-      <ul>
-        <li><xref href="spam-and-phishing-guide.md" format="dita" type="topic">Spam and Phishing Guide</xref> - provides guidance on how you can protect against and report email security threats like phishing and spamming.</li>
-        <li><xref href="secure-email-transfer-guide.md" format="dita">Secure Email Transfer Guide</xref> - provides guidance on the security tools you can use to securely transfer information via email.</li>
-        <li><xref href="email-authentication-guide.md" format="dita" type="topic">Email Authentication Guide</xref> - provides guidance on the authentication mechanisms that should be used at the domain layer to maintain security.</li>
-      </ul>
-    </body>
-  </topic>
--->
   <topic id="roles-and-responsibilities">
     <title>Roles and responsibilities</title>
     <body>

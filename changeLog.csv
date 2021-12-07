@@ -34,3 +34,4 @@
 "202111301354","Personal Devices","Clarified guidance on connecting personal devices using Bluetooth, and added new section on connected vehicles.","personal-devices/","2021-11-30 13:54 GMT"
 "202112021654","National Security Vetting Contact","Updated application form for candidacy to be an NSVC.","national-security-vetting-contact/","2021-12-02 16:54 GMT"
 "202112031339","Visitor Access Policy","Policy regarding the access and security management controls that are in place for all visitors to MoJ buildings.","visitor-access-policy/","2021-12-03 13:39 GMT"
+"202112071518","Email Authentication","Added guidance requiring the use of MTA-SLS and TLS-RPT in MoJ email systems.","email-authentication-guide/","2021-12-07 15:18 GMT"
