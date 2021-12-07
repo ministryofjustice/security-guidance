@@ -1,12 +1,14 @@
-# Accessing Ministry of Justice \(MoJ\) IT systems from overseas
+# Accessing MoJ IT systems from overseas
 
-This guidance information applies to all staff, contractors and agency staff who work for the MoJ.
+This guidance information applies to all staff, contractors and agency staff who work for the Ministry of Justice \(MoJ\).
 
 **Note:** If you are national security cleared to SC or DV levels, or subject to STRAP briefing, follow this process for all your trips, regardless of whether they are for business or personal reasons.
 
 As a government official travelling overseas, you should consider that you may be of interest to hostile parties regardless of your role. By following MoJ policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.
 
 Essential guidance is provided in the [overseas travel information](overseas-travel.md).
+
+Additional guidance is provided on the MoJ Intranet, regarding [working remotely overseas](https://intranet.justice.gov.uk/guidance/security/emergencies/coronavirus-guidance/working-remotely/working-remotely-overseas/).
 
 In general, it is acceptable for MoJ users to access MoJ services from overseas, and to do this using their MoJ equipment. But before you travel, consider:
 

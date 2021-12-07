@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="accessing-moj-it-systems-from-overseas">
-	<title>Accessing <ph conref="conrefs.dita#conrefs/mojlong"/> IT systems from overseas</title>
+	<title>Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</title>
 	<body>
-		<p>This guidance information applies to all staff, contractors and agency staff who work for the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+		<p>This guidance information applies to all staff, contractors and agency staff who work for the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
 		<note importance="high">If you are national security cleared to SC or DV levels,
 			or subject to STRAP briefing,
 			follow this process for all your trips,
@@ -14,6 +14,7 @@
 			you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.</p>
 		<p>Essential guidance is provided in the
 			<xref href="overseas-travel.dita" format="dita">overseas travel information</xref>.</p>
+		<p>Additional guidance is provided on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet, regarding <xref href="https://intranet.justice.gov.uk/guidance/security/emergencies/coronavirus-guidance/working-remotely/working-remotely-overseas/" format="html" scope="external">working remotely overseas</xref>.</p>
 		<p>In general,
 			it is acceptable for <ph conref="conrefs.dita#conrefs/moj"/> users to access
 			<ph conref="conrefs.dita#conrefs/moj"/> services from overseas,
