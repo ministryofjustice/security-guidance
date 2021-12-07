@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-12-07 15:18 GMT [Email Authentication](https://security-guidance.service.justice.gov.uk/email-authentication-guide/)**
+
+    Added guidance requiring the use of MTA-SLS and TLS-RPT in MoJ email systems.
+
 -   **2021-12-03 13:39 GMT [Visitor Access Policy](https://security-guidance.service.justice.gov.uk/visitor-access-policy/)**
 
     Policy regarding the access and security management controls that are in place for all visitors to MoJ buildings.
