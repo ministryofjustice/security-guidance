@@ -2,14 +2,11 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="domain-names-policy">
   <title>Domain names and Domain Name System (DNS) security policy</title>
-  <body/>
-  <topic id="introduction">
-    <title>Introduction</title>
-    <body>
-      <p>This policy gives an overview of domain name registration and monitoring principles and responsibilities within the <ph conref="conrefs.dita#conrefs/mojlong"/> and summarises the <ph conref="conrefs.dita#conrefs/moj"/>'s related compliance policies and guides.</p>
-      <p>To help identify formal policy statements, each is prefixed with an identifier of the form: <codeph>POLDOMxxx</codeph>, where <codeph>xxx</codeph> is a unique ID number.</p>
-    </body>
-  </topic>
+  <body>
+    <p>This policy gives an overview of domain name registration and monitoring principles and responsibilities within the <ph conref="conrefs.dita#conrefs/mojlong"/> and summarises the <ph conref="conrefs.dita#conrefs/moj"/>'s related compliance policies and guides.</p>
+    <p>To help identify formal policy statements, each is prefixed with an identifier of the form: <codeph>POLDOMxxx</codeph>, where <codeph>xxx</codeph> is a unique ID number.</p>
+    <note conref="conrefs.dita#conrefs/colleagues"/>
+  </body>
   <topic id="who-is-it-for">
     <title>Who is it for?</title>
     <body>
@@ -169,7 +166,7 @@
           <p>This policy is enforced by lower-level policies, standards, procedures and guidance.</p>
         </li>
         <li>
-          <p>Non-conformance with this policy could result in disciplinary action taken as per the department's disciplinary procedures. This could result in penalties up to and including dismissal. If an employee commits a criminal offence, they might also be prosecuted. In such cases, the department always cooperates with the relevant authorities and provides appropriate evidence.</p>
+          <p>Non-conformance with this policy could result in disciplinary action taken as per the department's disciplinary procedures. This could result in penalties up to and including dismissal. If an <ph conref="conrefs.dita#conrefs/moj"/> colleague commits a criminal offence, they might also be prosecuted. In such cases, the department always cooperates with the relevant authorities and provides appropriate evidence.</p>
         </li>
       </ul>
     </body>

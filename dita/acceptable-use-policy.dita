@@ -5,6 +5,7 @@
   <body>
     <p>This document is the <ph conref="conrefs.dita#conrefs/mojlong"/> Acceptable Use Policy. It provides the core set of security principles and expectations on the acceptable use of <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</p>
     <p>To help identify formal policy statements, each is prefixed with an identifier of the form: <codeph>POL.ITAUP.xxx</codeph>, where xxx is a unique ID number.</p>
+    <note conref="conrefs.dita#conrefs/colleagues"/>
   </body>
   <topic id="introduction">
     <title>Introduction</title>
@@ -21,7 +22,7 @@
       <p>Failure to adhere to this policy <ph conref="conrefs.dita#conrefs/policymight"/> result in:
       <ul>
         <li>Suspension of access to <ph conref="conrefs.dita#conrefs/moj"/> IT systems and services.</li>
-        <li>For <ph conref="conrefs.dita#conrefs/moj"/> employees, disciplinary proceedings up to and including dismissal.</li>
+        <li>For <ph conref="conrefs.dita#conrefs/moj"/> colleagues, disciplinary proceedings up to and including dismissal.</li>
         <li>For others with access to <ph conref="conrefs.dita#conrefs/moj"/> IT systems and services, including specifically contractors and agency staff, termination of contract.</li>
       </ul></p>
       <p><codeph>POL.ITAUP.001</codeph>: All Users <ph conref="conrefs.dita#conrefs/policymust"/> be made aware of the Acceptable Use Policy (this document), and provided with security awareness training which covers this policy.</p>
@@ -96,15 +97,15 @@
   <topic id="moj-corporate-image">
     <title><ph conref="conrefs.dita#conrefs/moj"/> Corporate Image</title>
     <body>
-      <p>Communications sent from <ph conref="conrefs.dita#conrefs/moj"/> systems, or products developed using them, such as <ph conref="conrefs.dita#conrefs/moj"/> branded documents or presentations, <ph conref="conrefs.dita#conrefs/policymight"/> damage the public image of the <ph conref="conrefs.dita#conrefs/moj"/> if they are for purposes not in the interest of the <ph conref="conrefs.dita#conrefs/moj"/>, or they are abusive, offensive, defamatory, obscene, or indecent, or of such a nature as to bring the <ph conref="conrefs.dita#conrefs/moj"/> or any its employees into disrepute.</p>
-      <p><codeph>POL.ITAUP.015</codeph>: All Users <ph conref="conrefs.dita#conrefs/policymust"/> ensure that <ph conref="conrefs.dita#conrefs/moj"/> systems are not used in an abusive, offensive, defamatory, obscene, or indecent way, or are of such a nature as to bring the <ph conref="conrefs.dita#conrefs/moj"/> or any its employees into disrepute.</p>
+      <p>Communications sent from <ph conref="conrefs.dita#conrefs/moj"/> systems, or products developed using them, such as <ph conref="conrefs.dita#conrefs/moj"/> branded documents or presentations, <ph conref="conrefs.dita#conrefs/policymight"/> damage the public image of the <ph conref="conrefs.dita#conrefs/moj"/> if they are for purposes not in the interest of the <ph conref="conrefs.dita#conrefs/moj"/>, or they are abusive, offensive, defamatory, obscene, or indecent, or of such a nature as to bring the <ph conref="conrefs.dita#conrefs/moj"/> or any its colleagues into disrepute.</p>
+      <p><codeph>POL.ITAUP.015</codeph>: All Users <ph conref="conrefs.dita#conrefs/policymust"/> ensure that <ph conref="conrefs.dita#conrefs/moj"/> systems are not used in an abusive, offensive, defamatory, obscene, or indecent way, or are of such a nature as to bring the <ph conref="conrefs.dita#conrefs/moj"/> or any its colleagues into disrepute.</p>
     </body>
   </topic>
   <topic id="potential-to-cause-offence-and-harm">
     <title>Potential to cause offence and harm</title>
     <body>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/> has a duty of care to all staff, and to provide a positive working environment. Part of this duty involves ensuring all staff maintain a high standard of behaviour and conduct.</p>
-      <p><codeph>POL.ITAUP.016</codeph>: <ph conref="conrefs.dita#conrefs/moj"/> systems <ph conref="conrefs.dita#conrefs/policymustnot"/> be used for any activity that causes offence to <ph conref="conrefs.dita#conrefs/moj"/> employees, customers, suppliers, partners, or visitors, or used in a way that violates the <xref href="https://intranet.justice.gov.uk/guidance/hr/conduct-behaviour/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Code of Conduct</xref>.</p>
+      <p><codeph>POL.ITAUP.016</codeph>: <ph conref="conrefs.dita#conrefs/moj"/> systems <ph conref="conrefs.dita#conrefs/policymustnot"/> be used for any activity that causes offence to <ph conref="conrefs.dita#conrefs/moj"/> colleagues, customers, service users, suppliers, partners, or visitors, or used in a way that violates the <xref href="https://intranet.justice.gov.uk/guidance/hr/conduct-behaviour/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Code of Conduct</xref>.</p>
     </body>
   </topic>
   <topic id="personal-use">
@@ -184,7 +185,7 @@
         <li>Countries with an <xref href="https://ico.org.uk/for-organisations/dp-at-the-end-of-the-transition-period/data-protection-and-the-eu-in-detail/adequacy/" format="html" scope="external">Adequacy Decision</xref> (an 'Adequacy Decision Country' or ADC).</li>
       </ul></p>
       <p><codeph>POL.ITAUP.029</codeph>: The default position is that <ph conref="conrefs.dita#conrefs/moj"/> personal data <ph conref="conrefs.dita#conrefs/policyshallnot"/> be transferred to or through, or stored, in the US or elsewhere outside the UK, EEA, or an ADC, other than in exceptional circumstances.</p>
-      <p>This position also applies where a supplier uses cloud storage facilities in the UK, EEA, or an ADC, but their employees outside the UK, EEA, or the ADC are able to view the information for activities such as maintenance or trouble-shooting. The effect of this access is equivalent to the personal data being held outside the UK, EEA, or an ADC.</p>
+      <p>This position also applies where a supplier uses cloud storage facilities in the UK, EEA, or an ADC, but the supplier employees outside the UK, EEA, or the ADC are able to view the information for activities such as maintenance or trouble-shooting. The effect of this access is equivalent to the personal data being held outside the UK, EEA, or an ADC.</p>
       <p>The reason for this position is that even with additional contractual clauses, the <ph conref="conrefs.dita#conrefs/moj"/> cannot ensure protection of its personal data stored outside the UK, EEA, or an ADC, due to some government surveillance laws.</p>
       <p><codeph>POL.ITAUP.030</codeph>: A supplier based in the UK, EEA, or an ADC, and which stores client data in the UK, EEA, or an ADC, <ph conref="conrefs.dita#conrefs/policyshould"/> be considered first and preferred where possible.</p>
       <p><codeph>POL.ITAUP.031</codeph>: If an alternative supplier cannot be sourced, then a Standard Contractual Clause (SCC) and a Transfer Impact Assessment (TIA) <ph conref="conrefs.dita#conrefs/policyshall"/> be completed.</p>

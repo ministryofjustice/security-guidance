@@ -4,7 +4,8 @@
   <title>CCTV policy</title>
   <body>
       <p>The policy complements the <ph conref="conrefs.dita#conrefs/mojlong"/>'s overall security policy.</p>
-      <p>The CCTV Policy applies to all employees, contractors, partners and service providers, including those on co-located sites and sites owned by other public bodies. This also includes employees of other organisations who are based in, or work at, <ph conref="conrefs.dita#conrefs/moj"/> occupied premises.</p>
+      <p>The CCTV Policy applies to all <ph conref="conrefs.dita#conrefs/moj"/> colleagues.</p>
+      <note conref="conrefs.dita#conrefs/colleagues"/>
       <p>Agencies and arm's length bodies (ALBs) are expected to comply with the corporate framework, but <ph conref="conrefs.dita#conrefs/policymay"/> establish their own arrangements tailored to operational needs and <ph conref="conrefs.dita#conrefs/policyshould"/> supplement the framework with local policy or guidance for any business-specific risk.</p>
   </body>
   <topic id="objective">

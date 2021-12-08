@@ -97,22 +97,7 @@
   <topic id="authorised-access-to-user-accounts">
     <title>Authorised access to user accounts</title>
     <body>
-      <p>By default,
-        users <ph conref="conrefs.dita#conrefs/policymustnot"/> access the email
-        accounts of any other users,
-        unless they are authorised to do so as required by their role.
-        Access is authorised on a case-by-case basis only,
-        and is normally aligned to the following circumstances:
-      <ul>
-        <li>After a criminal investigation has been opened by a law enforcement agency.</li>
-        <li>After an employee investigation has been opened relating to misconduct or a
-          security incident,
-          for example IT misuse.</li>
-        <li>Upon the death or unexpected exit of an employee,
-          for example to enable retrieval of business information or closing down an
-          account.</li>
-        <li>For long-term archiving of information no longer in current use.</li>
-      </ul></p>
+      <p conref="email.dita#authorised-access-to-user-email-accounts/circumstances-for-email-access"/>
       <p>Anyone required to enable or carry out authorised access to a user
         account should follow the guidance in the
         <xref href="privileged-user-guide.dita" format="dita">Privileged User Guide</xref>.</p>

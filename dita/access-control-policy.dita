@@ -9,6 +9,7 @@
       each is prefixed with an identifier of the form:
       <codeph>POLACPxxx</codeph>,
       where xxx is a unique ID number.</p>
+    <note conref="conrefs.dita#conrefs/colleagues"/>
   </body>
   <topic id="audience">
     <title>Audience</title>
@@ -434,7 +435,7 @@
     <topic id="removal-or-adjustment-of-access-rights">
       <title>Removal or Adjustment of Access Rights</title>
       <body>
-        <p><codeph>POLACP056:</codeph> All employees and external party user's access rights to information and information processing facilities <ph conref="conrefs.dita#conrefs/policymust"/>
+        <p><codeph>POLACP056:</codeph> All <ph conref="conrefs.dita#conrefs/moj"/> colleagues and external party user's access rights to information and information processing facilities <ph conref="conrefs.dita#conrefs/policymust"/>
           be removed upon termination of their employment,
           contract or agreement,
           or adjusted when changing their role:
@@ -470,12 +471,12 @@
           standards,
           procedures,
           and guidance.</li>
-        <li>Non-conformance with this policy could result in disciplinary action per the department's disciplinary procedures.
-          This could result in penalties up to and including dismissal.
-          If an employee commits a criminal offence,
-          they may also be prosecuted.
+        <li>Non-conformance with this policy might result in disciplinary action according to the department's disciplinary procedures.
+          This might result in penalties up to and including dismissal.
+          If an <ph conref="conrefs.dita#conrefs/moj"/> colleague commits a criminal offence,
+          they might also be prosecuted.
           In such cases,
-          the department will always cooperate with the relevant authorities and provide appropriate evidence.</li>
+          the department always cooperates with the relevant authorities and provide appropriate evidence.</li>
       </ul>
     </body>
   </topic>

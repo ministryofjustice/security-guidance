@@ -111,6 +111,7 @@
 			<xref href="incident-management-plan-and-process-guide.dita"
 			format="dita">Incident Management Plan and Process Guide</xref> for
 			further guidance.</p>
+		<note id="colleagues">In this guidance, the phrase '<ph conref="#conrefs/moj"/> colleague' refers to <ph conref="#conrefs/moj"/> employees, contractors, partners and service providers, including those on co-located sites and sites owned by other public bodies. This also includes employees of other organisations who are based in, or work at, <ph conref="#conrefs/moj"/> occupied premises.</note>
 		<note id="noteexternalemail">An external email service is any service that
 			is outside the <codeph>gov.uk</codeph> domain.</note>
 	</body>

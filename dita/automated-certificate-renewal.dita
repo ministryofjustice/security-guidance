@@ -13,7 +13,8 @@
     <title>Manual certificate requests</title>
     <body>
       <p>Where automated certificate renewal is not possible, new certificates <b>must</b> be acquired through the <ph conref="conrefs.dita#conrefs/moj"/> Certificates team.</p>
-      <p>To request a manually issued certificate, complete the <xref href="https://docs.google.com/document/d/14XbWoudZd-t4-J3mDBcrAeafAbqxwvdkV-u3Zf8eLOs/edit?usp=sharing" format="html" scope="external">certificate request form</xref> and send it, with a <xref href="https://docs.gandi.net/en/ssl/common_operations/csr.html#generate-csr" format="html" scope="external">Certificate Signing Request (CSR)</xref> (and an authority email approval if not an <ph conref="conrefs.dita#conrefs/moj"/> employee e.g. 3rd party supplier), to <ph conref="conrefs.dita#conrefs/certificatesemail"/>.</p>
+      <p>To request a manually issued certificate, complete the <xref href="https://docs.google.com/document/d/14XbWoudZd-t4-J3mDBcrAeafAbqxwvdkV-u3Zf8eLOs/edit?usp=sharing" format="html" scope="external">certificate request form</xref> and send it, with a <xref href="https://docs.gandi.net/en/ssl/common_operations/csr.html#generate-csr" format="html" scope="external">Certificate Signing Request (CSR)</xref> (and an authority email approval if not an <ph conref="conrefs.dita#conrefs/moj"/> colleague, to <ph conref="conrefs.dita#conrefs/certificatesemail"/>.</p>
+      <note conref="conrefs.dita#conrefs/colleagues"/>
       <note conref="#automated-certificate-renewal/client-certificates"/>
     </body>
   </topic>

@@ -42,7 +42,8 @@
       </ul></p>
         <p>There are a number of different email threats that exist in information technology.
             Each threat varies in complexity,
-            and the impact it might have on the <ph conref="conrefs.dita#conrefs/moj"/> and its employees.</p>
+            and the impact it might have on the <ph conref="conrefs.dita#conrefs/moj"/> and its colleagues.</p>
+        <note conref="conrefs.dita#conrefs/colleagues"/>
         <dl>
             <dlentry>
                 <dt>Spam</dt>
