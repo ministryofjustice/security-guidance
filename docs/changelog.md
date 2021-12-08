@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-12-08 09:15 GMT [Email access](https://security-guidance.service.justice.gov.uk/email-security-guide/#authorised-access-to-user-accounts)**
+
+    Added clarification regarding when access is permitted to a user's business email account.
+
 -   **2021-12-07 15:18 GMT [Email Authentication](https://security-guidance.service.justice.gov.uk/email-authentication-guide/)**
 
     Added guidance requiring the use of MTA-SLS and TLS-RPT in MoJ email systems.
