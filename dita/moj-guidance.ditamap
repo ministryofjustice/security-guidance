@@ -114,6 +114,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="removable-media.dita" type="topic"/>
 			<topicref href="secure-disposal-of-it-equipment.dita" type="topic">
 				<topicref href="secure-disposal-of-it-physical-and-on-premise.dita" type="topic"/>
+				<topicref href="secure-disposal-of-it-public-and-private-cloud.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			</topicref>
 			<topicref href="working-securely-with-paper-documents-and-files.dita" type="topic"/>
 		</topichead>
@@ -503,6 +504,8 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="patch-management-guide.dita"/>
 				<topicref href="protective-monitoring.dita"/>
 				<topicref href="secure-disposal-of-it-equipment.dita"/>
+				<topicref href="secure-disposal-of-it-physical-and-on-premise.dita"/>
+				<topicref href="secure-disposal-of-it-public-and-private-cloud.dita"/>
 				<topicref href="system-backup-policy.dita"/>
 				<topicref href="system-lockdown-and-hardening-standard.dita"/>
 				<topicref href="system-test-standard.dita"/>
