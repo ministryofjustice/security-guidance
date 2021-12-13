@@ -36,3 +36,6 @@
 "202112031339","Visitor Access Policy","Policy regarding the access and security management controls that are in place for all visitors to MoJ buildings.","visitor-access-policy/","2021-12-03 13:39 GMT"
 "202112071518","Email Authentication","Added guidance requiring the use of MTA-SLS and TLS-RPT in MoJ email systems.","email-authentication-guide/","2021-12-07 15:18 GMT"
 "202112080915","Email access","Added clarification regarding when access is permitted to a user's business email account.","email-security-guide/#authorised-access-to-user-accounts","2021-12-08 09:15 GMT"
+"202112131124","Accessing MoJ systems from overseas","Added link to supplementary information on the MoJ Intranet.","accessing-moj-it-systems-from-overseas/","2021-12-13 11:24 GMT"
+"202112131127","Debrief on return from travel","Added description of a security debrief that is mandatory after some travel or where other security conditions apply.","accessing-moj-it-systems-from-overseas/#on-your-return","2021-12-13 11:27 GMT"
+"202112131144","Security threat level guidance","New security threat Level guidance, and associated procedures.","security-threat-level-and-emergency-procedures/","2021-12-13 11:44 GMT"

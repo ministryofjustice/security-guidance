@@ -2,6 +2,18 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-12-13 11:44 GMT [Security threat level guidance](https://security-guidance.service.justice.gov.uk/security-threat-level-and-emergency-procedures/)**
+
+    New security threat Level guidance, and associated procedures.
+
+-   **2021-12-13 11:27 GMT [Debrief on return from travel](https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/#on-your-return)**
+
+    Added description of a security debrief that is mandatory after some travel or where other security conditions apply.
+
+-   **2021-12-13 11:24 GMT [Accessing MoJ systems from overseas](https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/)**
+
+    Added link to supplementary information on the MoJ Intranet.
+
 -   **2021-12-08 09:15 GMT [Email access](https://security-guidance.service.justice.gov.uk/email-security-guide/#authorised-access-to-user-accounts)**
 
     Added clarification regarding when access is permitted to a user's business email account.
