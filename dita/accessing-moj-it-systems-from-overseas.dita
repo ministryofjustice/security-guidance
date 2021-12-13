@@ -150,12 +150,34 @@
 					<li>When Operational Security have acknowledged receipt of the request and approvals,
 						the formal process is complete.</li>
 						-->
+					<li>When you receive approval for your trip, you might need to schedule a <xref href="#on-your-return" format="dita">debrief with your line manager or security representative</xref> for when you return. Travel approval might be conditional on having a debrief after the trip. If your trip involved visiting a 'special attention' country listed in <xref href="#part-one" format="dita">Part One</xref>, a debrief when you return is mandatory.</li>
 					<li>Check if you need to do anything to prepare
 						for <xref href="#international-roaming" format="dita">International Roaming</xref>.
 						Refer to the <xref href="#international-roaming" format="dita">International Roaming</xref> section.</li>
 					<li>Take a <b>non-physical copy</b> of this guidance;
 						it includes useful contact details that help in the event of a problem while travelling.</li>
 				</ol>
+			</body>
+		</topic>
+		<topic id="on-your-return">
+			<title>On your return</title>
+			<body>
+				<p>When you return from your trip, you might need to attend a debrief with your line manager or security representative. The purpose of the meeting is to review events and identify anything that needs further attention or action from a security perspective.</p>
+				<p>In addition to confirming the dates and countries visited, the debrief asks questions such as:
+					<ul>
+						<li>Did you have any problems arriving at or departing from each country visited?</li>
+						<li>Did you have any unusual experiences while travelling, for example actual or suspected surveillance, customs inspections, or removal or disturbance of property?</li>
+						<li>Did you have to make any changes to your planned travel arrangements?</li>
+						<li>Were you asked unusual or detailed questions about your role, your work, or the <ph conref="conrefs.dita#conrefs/moj"/>?</li>
+						<li>Were there any attempts to bribe, influence, or in some way compromise you, your family, or your colleagues?</li>
+						<li>Were you invited to make or maintain on-going contact with a foreign national?</li>
+						<li>Were you the victim of any criminal act, or detained or arrested?</li>
+						<li>Did you lose or misplace any official material or personal items?</li>
+						<li>Did you require medical treatment or legal assistance during your travel?</li>
+						<li>Were there any technical difficulties during your travel?</li>
+					</ul>
+				</p>
+				<p>Remain vigilant. In particular, <xref href="#contacts" format="dita">report</xref> any approaches or foreign contacts if they occur in the future.</p>
 			</body>
 		</topic>
 	</topic>
