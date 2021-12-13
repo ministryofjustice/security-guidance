@@ -12,17 +12,10 @@
       <p>The response level across the government estate is currently at <codeph>HEIGHTENED</codeph>. This means there is no perception that the threat has altered, but it remains under review.</p>
       <p>If you become aware of an incident that threatens the physical security of <ph conref="conrefs.dita#conrefs/mojlong"/> staff or premises: </p>
       <ul>
-        <li>
-          <p>In situations that present an immediate threat call <ph conref="conrefs.dita#conrefs/moj"/> Group Security  on 07583035594, including out of hours (24/7).</p>
-        </li>
-        <li>
-          <p>In non-urgent cases, create a <xref href="https://intranet.justice.gov.uk/documents/2015/04/security-incident-report-form.xls" format="xls" scope="external">security incident report</xref>, and email it to <ph conref="conrefs.dita#conrefs/securityemail"/>.</p>
-        </li>
-        <li>
-          <p>Dial 999 in an emergency. </p>
-        </li>
+        <li>In situations that present an immediate threat call <ph conref="conrefs.dita#conrefs/moj"/> Group Security  on 07583035594, including out of hours (24/7).</li>
+        <li>In non-urgent cases, create a <xref href="https://intranet.justice.gov.uk/documents/2015/04/security-incident-report-form.xls" format="xls" scope="external">security incident report</xref>, and email it to <ph conref="conrefs.dita#conrefs/securityemail"/>.</li>
+        <li>Dial 999 in an emergency.</li>
       </ul>
-      <p> </p>
       <p>We are constantly reviewing our security operations and contingency planning across the <ph conref="conrefs.dita#conrefs/moj"/> estate. It is essential that staff support us by remaining vigilant and cooperating with <xref href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/" format="html" scope="external">security policies</xref>.</p>
       <p>You can help by <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external">reporting any suspicious behaviour around <ph conref="conrefs.dita#conrefs/moj"/> buildings</xref>, for example cars parked strangely or moving slowly, or people observing, loitering or asking unusual questions.</p>
       <p>Wear your pass at all times within the building, and challenge those without one. Never wear your pass outside, as it draws attention to you as a civil servant.</p>
@@ -30,6 +23,5 @@
       <p>For further support or advice contact <ph conref="conrefs.dita#conrefs/securityemail"/>.</p>
     </body>
   </topic>
-  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
