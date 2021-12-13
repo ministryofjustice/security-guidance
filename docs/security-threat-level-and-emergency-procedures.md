@@ -22,7 +22,9 @@ Wear your pass at all times within the building, and challenge those without 
 
 View our [top tips for keeping the MoJ safe](https://intranet.justice.gov.uk/blog/ntk-my-5-top-tips-to-keep-moj-a-safe-place-to-work/) for further information and our [counter-terrorism intranet page](https://intranet.justice.gov.uk/guidance/security/emergencies/counter-terrorism/). 
 
-For further support or advice contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
+## Contact details
+
+For any further questions, advice, or help relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

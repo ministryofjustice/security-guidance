@@ -20,8 +20,8 @@
       <p>You can help by <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external">reporting any suspicious behaviour around <ph conref="conrefs.dita#conrefs/moj"/> buildings</xref>, for example cars parked strangely or moving slowly, or people observing, loitering or asking unusual questions.</p>
       <p>Wear your pass at all times within the building, and challenge those without one. Never wear your pass outside, as it draws attention to you as a civil servant.</p>
       <p>View our <xref href="https://intranet.justice.gov.uk/blog/ntk-my-5-top-tips-to-keep-moj-a-safe-place-to-work/" format="html" scope="external">top tips for keeping the <ph conref="conrefs.dita#conrefs/moj"/> safe</xref> for further information and our <xref href="https://intranet.justice.gov.uk/guidance/security/emergencies/counter-terrorism/" format="html" scope="external">counter-terrorism intranet page</xref>. </p>
-      <p>For further support or advice contact <ph conref="conrefs.dita#conrefs/securityemail"/>.</p>
     </body>
   </topic>
+	<topic id="contact-details-security-only" conref="conrefs.dita#conrefs/contact-details-security-only"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

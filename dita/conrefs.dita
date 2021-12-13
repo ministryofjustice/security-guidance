@@ -281,6 +281,13 @@
 		</body>
 	</topic>
 
+	<topic id="contact-details-security-only">
+		<title>Contact details</title>
+		<body>
+			<p>For any further questions, advice, or help relating to security, contact: <ph conref="#conrefs/securityemail"/>.</p>
+		</body>
+	</topic>
+
 	<topic id="incidents-and-contact-details">
 		<title>Incidents and contact details</title>
 		<body>
