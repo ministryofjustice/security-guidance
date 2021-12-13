@@ -16,6 +16,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <body>
         <p>Popular links for all users:
           <ul>
+            <li><xref href="security-threat-level-and-emergency-procedures.dita" format="dita">Security threat level and emergency procedures</xref></li>
             <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">General app guidance</xref></li>
             <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements Guide</xref></li>
             <li><xref href="government-classification-scheme.dita" format="dita">Government classification scheme</xref></li>
@@ -842,6 +843,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="security-in-the-office.dita" format="dita">Security in the office</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="security-threat-level-and-emergency-procedures.dita" format="dita">Security threat level and emergency procedures</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
