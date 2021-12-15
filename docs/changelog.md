@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-12-15 15:09 GMT [Use DuckDuckGo search engine](https://security-guidance.service.justice.gov.uk/)**
+
+    Default to using DDG for content search.
+
 -   **2021-12-13 11:44 GMT [Security threat level guidance](https://security-guidance.service.justice.gov.uk/security-threat-level-and-emergency-procedures/)**
 
     New security threat Level guidance, and associated procedures.
