@@ -2,7 +2,7 @@
 
 This section includes material created or provided by the Ministry of Justice \(MoJ\) to help improve awareness and best practices for security within the organisation.
 
-**Note:** The advice in this material cannot guarantee to protect you from problems. The range of security threats is huge, and increasing all the time
+**Note:** The advice in this material cannot guarantee to protect you from problems. The range of security threats is huge, and increasing all the time.
 
 ## Who is this for?
 
@@ -10,11 +10,15 @@ This material is for anyone who implements, administers, supports, uses or deliv
 
 ## Christmas SMS delivery scams
 
-A common trick used at seasonal times of the year involves sending fake messages to people about deliveries. The messages are intended to try and capture personal account details. Once captured, this information might also be used by the bad actor to order items, and have them sent to an address that is nothing to do with the account owner.
+Seasonal celebrations are fun, but can also suffer from scams. A common scam involves sending fake parcel delivery text messages. The messages contain fake links. The links capture personal information and bank account details. Bad actors then use these details to steal money from individuals.
 
-This leaflet provides hints and tips about best practices to help you avoid getting caught by an SMS delivery scam.
+Some SMS messages get people to install malware. An example is Flubot, which steals personal and banking details. Flubot also uses your contact lists to send more fake texts.
 
-The leaflet is available [here](./culture/christmas-sms-delivery-scams.pdf)
+This poster shows you examples of typical scam SMS messages. It explains what FluBot is and how to remove it. It tells you about the best practices for avoiding being a victim of these scams.
+
+The best way to avoid SMS scams is to contact parcel delivery companies directly. Go to their website and tracking your parcel there. Never click on a link in a text message.
+
+The leaflet is available [here](./culture/christmas-sms-delivery-scams.pdf).
 
 ## Contact details
 

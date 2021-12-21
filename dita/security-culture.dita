@@ -4,7 +4,7 @@
   <title>Security culture</title>
   <body>
     <p>This section includes material created or provided by the <ph conref="conrefs.dita#conrefs/mojlong"/> to help improve awareness and best practices for security within the organisation.</p>
-    <note>The advice in this material cannot guarantee to protect you from problems. The range of security threats is huge, and increasing all the time</note>
+    <note>The advice in this material cannot guarantee to protect you from problems. The range of security threats is huge, and increasing all the time.</note>
   </body>
   <topic id="who-is-this-for">
     <title>Who is this for?</title>
@@ -15,11 +15,13 @@
   <topic id="christmas-sms-delivery-scams">
     <title>Christmas SMS delivery scams</title>
     <body>
-      <p>A common trick used at seasonal times of the year involves sending fake messages to people about deliveries. The messages are intended to try and capture personal account details. Once captured, this information might also be used by the bad actor to order items, and have them sent to an address that is nothing to do with the account owner.</p>
-      <p>This leaflet provides hints and tips about best practices to help you avoid getting caught by an SMS delivery scam.</p>
+      <p>Seasonal celebrations are fun, but can also suffer from scams. A common scam involves sending fake parcel delivery text messages. The messages contain fake links. The links capture personal information and bank account details. Bad actors then use these details to steal money from individuals.</p>
+      <p>Some SMS messages get people to install malware. An example is Flubot, which steals personal and banking details. Flubot also uses your contact lists to send more fake texts.</p>
+      <p>This poster shows you examples of typical scam SMS messages. It explains what FluBot is and how to remove it. It tells you about the best practices for avoiding being a victim of these scams.</p>
+      <p>The best way to avoid SMS scams is to contact parcel delivery companies directly. Go to their website and tracking your parcel there. Never click on a link in a text message.</p>
       <p>The leaflet is available <xref href="file:///./culture/christmas-sms-delivery-scams.pdf"
         format="pdf" scope="external" platform="html">here</xref><xref href="https://security-guidance.service.justice.gov.uk/culture/christmas-sms-delivery-scams.pdf"
-          format="pdf" platform="epub pdf" scope="external">here</xref></p>
+          format="pdf" platform="epub pdf" scope="external">here</xref>.</p>
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
