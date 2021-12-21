@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2021-12-21 13:18 GMT [Provide seasonal SMS scam advice](https://security-guidance.service.justice.gov.uk/security-culture/)**
+
+    Material to help improve awareness and best practices for security.
+
 -   **2021-12-15 15:09 GMT [Use DuckDuckGo search engine](https://security-guidance.service.justice.gov.uk/)**
 
     Default to using DDG for content search.
