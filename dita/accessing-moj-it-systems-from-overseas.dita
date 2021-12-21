@@ -4,35 +4,17 @@
 	<title>Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</title>
 	<body>
 		<p>This guidance information applies to all staff, contractors and agency staff who work for the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
-		<note importance="high">If you are national security cleared to SC or DV levels,
-			or subject to STRAP briefing,
-			follow this process for all your trips,
-			regardless of whether they are for business or personal reasons.</note>
-		<p>As a government official travelling overseas,
-			you should consider that you may be of interest to hostile parties regardless of your role.
-			By following <ph conref="conrefs.dita#conrefs/moj"/> policies and processes,
-			you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.</p>
-		<p>Essential guidance is provided in the
-			<xref href="overseas-travel.dita" format="dita">overseas travel information</xref>.</p>
-		<p>Additional guidance is provided on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet, regarding <xref href="https://intranet.justice.gov.uk/guidance/security/emergencies/coronavirus-guidance/working-remotely/working-remotely-overseas/" format="html" scope="external">working remotely overseas</xref>.</p>
-		<p>In general,
-			it is acceptable for <ph conref="conrefs.dita#conrefs/moj"/> users to access
-			<ph conref="conrefs.dita#conrefs/moj"/> services from overseas,
-			and to do this using their <ph conref="conrefs.dita#conrefs/moj"/> equipment.
-			But before you travel,
-			consider:
+		<note importance="high">If you are national security cleared to SC or DV levels, or subject to STRAP briefing, follow this process for all your trips, regardless of whether they are for business or personal reasons.</note>
+		<p>As a government official travelling overseas, you should consider that you may be of interest to hostile parties regardless of your role. By following <ph conref="conrefs.dita#conrefs/moj"/> policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.</p>
+		<p>Essential guidance is provided in the <xref href="overseas-travel.dita" format="dita">overseas travel information</xref>.</p>
+		<!--
+		<p>Additional guidance is provided on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet, regarding <xref href="https://intranet.justice.gov.uk/guidance/security/emergencies/coronavirus-guidance/working-remotely/working-remotely-overseas/" format="html" scope="external">working remotely overseas</xref>.</p> -->
+		<p>In general, it is acceptable for <ph conref="conrefs.dita#conrefs/moj"/> users to access <ph conref="conrefs.dita#conrefs/moj"/> services from overseas, and to do this using their <ph conref="conrefs.dita#conrefs/moj"/> equipment. But before you travel, consider:
 			<ul>
-				<li>Do you need to take <ph conref="conrefs.dita#conrefs/moj"/> IT equipment overseas or access
-					<ph conref="conrefs.dita#conrefs/moj"/> IT systems to do your job?</li>
+				<li>Do you need to take <ph conref="conrefs.dita#conrefs/moj"/> IT equipment overseas or access <ph conref="conrefs.dita#conrefs/moj"/> IT systems to do your job?</li>
 				<li>Can the business need be met in another way or by someone else?</li>
-				<li>If you just need to manage your inbox while away,
-					can you delegate permissions to your inbox to a colleague to manage on your behalf?</li>
-				<li>Have you left enough time to check and obtain necessary approvals?
-					The process can take several weeks,
-					depending on the circumstances.
-					This is because it may be necessary to apply additional technical controls to protect you,
-					your devices,
-					and any data the devices can access.</li>
+				<li>If you just need to manage your inbox while away, can you delegate permissions to your inbox to a colleague to manage on your behalf?</li>
+				<li>Have you left enough time to check and obtain necessary approvals? The process can take several weeks, depending on the circumstances. This is because it may be necessary to apply additional technical controls to protect you, your devices, and any data the devices can access.</li>
 			</ul></p>
 	</body>
 	<topic id="steps-to-follow-before-travelling">
@@ -42,22 +24,11 @@
 			<title>Part One</title>
 			<body>
 				<ol>
-					<li>Get confirmation from your Senior Line Manager
-						(Head of your immediate team)
-						that there is a business need for you to take
-						<ph conref="conrefs.dita#conrefs/moj"/> IT equipment overseas and access
-						<ph conref="conrefs.dita#conrefs/moj"/> services.
-						Keep a note of the answers you get.</li>
-					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process
-						if you are travelling to or passing through one of the following countries
-						<b>and</b> are intending to take any <ph conref="conrefs.dita#conrefs/moj"/> IT equipment or
-						device:
-						<lq>Argentina, Armenia, Azerbaijan, Belarus, China (including Hong Kong),
-								Egypt, Estonia, Georgia, India, Indonesia, Iran, Israel,
-								Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova,
-								the northern area of the Republic of Cyprus,
-								North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey,
-								Turkmenistan, UAE, Ukraine, Uzbekistan.</lq></li>
+					<li>Get confirmation from your Senior Line Manager (Head of your immediate team) that there is a business need for you to take <ph conref="conrefs.dita#conrefs/moj"/> IT equipment overseas and access <ph conref="conrefs.dita#conrefs/moj"/> services. Keep a note of the answers you get.</li>
+					<li>Your Senior Line Manager <ph conref="conrefs.dita#conrefs/policyshould"/> inform your HR Business Partner (HRBP) of your request to work overseas. The HRBP <ph conref="conrefs.dita#conrefs/policyshall"/> advise your Senior Line Manager of any HR considerations concerning your request.</li>
+					<li>If you are subject to STRAP briefing and intend to travel to or through any country not in Western Europe, North America, Australia, or New Zealand, then you <ph conref="conrefs.dita#conrefs/policyshall"/> notify the STRAP team at <ph conref="conrefs.dita#conrefs/strapteamemail"/> <b>and</b> proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process.</li>
+					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process if you are travelling to or passing through one of the following countries <b>and</b> are intending to take any <ph conref="conrefs.dita#conrefs/moj"/> IT equipment or device:<lq>Argentina, Armenia, Azerbaijan, Belarus, China (including Hong Kong, Macau, and Tibet), Cuba, Egypt, Estonia, Georgia, India, Indonesia, Iran, Iraq, Israel (including Palestinian territories), Kazakhstan, Kyrgyzstan, Latvia, Lebanon, Libya, Lithuania, Moldova, the northern area of the Republic of Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, Serbia, South Africa, South Korea, Syria, Taiwan, Tajikistan, Turkey, Turkmenistan, UAE, Ukraine, Uzbekistan, Vietnam.</lq></li>
+					<!--
 					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process
 						if you are national security cleared to SC or DV levels,
 						<b>and</b> are planning to travel to or pass through one of the listed countries previously,
@@ -70,10 +41,10 @@
 						or New Zealand,
 						notify the STRAP team at <ph conref="conrefs.dita#conrefs/strapteamemail"/>
 						<b>and</b> proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this
-						process.</li>
+						process.</li>-->
 					<li>If you have reached this step,
 						you do not need to seek further formal approval for your trip.</li>
-					<li>Take a <b>non-physical copy</b> of this guidance;
+					<li><b>Take a copy of this guidance</b>;
 						it includes useful contact details that help in the event of a problem while travelling.</li>
 					<li>Check if you need to do anything to prepare for
 						<xref href="#international-roaming" format="dita">International Roaming</xref>.
@@ -90,60 +61,28 @@
 							<li>Email address.</li>
 							<li>Your business area.</li>
 							<li>Your Security Clearance.</li>
-							<li>The network you use to access <ph conref="conrefs.dita#conrefs/moj"/> data,
-								services,
-								or applications,
-								for example DOM1 or Quantum/MoJO,
-								or online services such as AWS or <ph conref="conrefs.dita#conrefs/gsuite"/>.</li>
+							<li>The network you use to access <ph conref="conrefs.dita#conrefs/moj"/> data, services, or applications, for example DOM1 or Quantum/MoJO, or online services such as AWS or <ph conref="conrefs.dita#conrefs/gsuite"/>.</li>
 							<li>The make/type of equipment you want to take with you.</li>
 							<li>Asset Tag details.</li>
 							<li>Countries you'll be visiting or passing through.</li>
 							<li>Dates of travel.</li>
-							<li>Transport details where possible,
-								for example flights or rail journeys.</li>
-							<li>Proposed methods of connecting to <ph conref="conrefs.dita#conrefs/moj"/> systems or
-								services,
-								for example <ph conref="conrefs.dita#conrefs/moj"/> VPN,
-								Global Protect VPN (for Macs),
-								wifi, or Mobile Data (3G/4G/5G).</li>
+							<li>Transport details where possible, for example flights or rail journeys.</li>
+							<li>Proposed methods of connecting to <ph conref="conrefs.dita#conrefs/moj"/> systems or services, for example <ph conref="conrefs.dita#conrefs/moj"/> VPN, Global Protect VPN (for Macs), wifi, or Mobile Data (3G/4G/5G).</li>
 							<li>Reason for maintaining access while overseas.</li>
-							<li>The <ph conref="conrefs.dita#conrefs/moj"/> data,
-								applications,
-								or services you expect to access during your trip.</li>
+							<li>The <ph conref="conrefs.dita#conrefs/moj"/> data, applications, or services you expect to access during your trip.</li>
 							<li>Who you are travelling with.</li>
 						</ul>
 					</li>
 					<li>The next step depends on your <ph conref="conrefs.dita#conrefs/moj"/> business area:
 						<ul>
-							<li>If you are part of <ph conref="conrefs.dita#conrefs/moj"/> HQ,
-								HMPPS HQ,
-								HMCTS,
-								or NPS,
-								contact your Senior Line Manager and ask for approval to take
-								<ph conref="conrefs.dita#conrefs/moj"/> equipment overseas
-								and access <ph conref="conrefs.dita#conrefs/moj"/> services.
-								Ask for any special details or considerations that apply
-								to your proposed travel arrangements.
-								Keep a note of the answers you get.</li>
-							<li>If you are part of HMPPS (but <i>not</i> HQ),
-								contact your Governor and ask for approval to take
-								<ph conref="conrefs.dita#conrefs/moj"/> equipment overseas
-								and access <ph conref="conrefs.dita#conrefs/moj"/> services.
-								Ask for any special details or considerations that apply
-								to your proposed travel arrangements.
-								Keep a note of the answers you get.</li>
+							<li>If you are part of <ph conref="conrefs.dita#conrefs/moj"/> HQ, HMPPS HQ, HMCTS, or NPS, contact your Senior Line Manager and ask for approval to take <ph conref="conrefs.dita#conrefs/moj"/> equipment overseas and access <ph conref="conrefs.dita#conrefs/moj"/> services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.</li>
+							<li>If you are part of HMPPS (but <i>not</i> HQ), contact your Governor and ask for approval to take <ph conref="conrefs.dita#conrefs/moj"/> equipment overseas and access <ph conref="conrefs.dita#conrefs/moj"/> services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.</li>
 						</ul>
 					</li>
 					<li>Fill in the
-						<xref href="/gs/overseas-travel-form.docx" format="docx" scope="external" platform="html">overseas
-							travel form</xref><xref href="https://security-guidance.service.justice.gov.uk/gs/overseas-travel-form.docx"
-													format="docx" scope="external" platform="epub pdf">overseas
-							travel form</xref>.</li>
-					<li>Send the completed form to <ph conref="conrefs.dita#conrefs/securityemail"/>,
-						including the answers obtained from the earlier parts of this process.</li>
-					<li>Your request will be considered,
-						and an answer provided,
-						as quickly as possible.</li>
+						<xref href="/gs/overseas-travel-form.docx" format="docx" scope="external" platform="html">overseas travel form</xref><xref href="https://security-guidance.service.justice.gov.uk/gs/overseas-travel-form.docx" format="docx" scope="external" platform="epub pdf">overseas travel form</xref>.</li>
+					<li>Send the completed form to <ph conref="conrefs.dita#conrefs/securityemail"/>, including the answers obtained from the earlier parts of this process.</li>
+					<li>Your request will be considered, and an answer provided, as quickly as possible.</li>
 					<!--
 					<li>When you have received all the approvals,
 						send a copy of your request and the approvals to <ph conref="conrefs.dita#conrefs/ostemail"/>.</li>
@@ -151,11 +90,8 @@
 						the formal process is complete.</li>
 						-->
 					<li>When you receive approval for your trip, you might need to schedule a <xref href="#on-your-return" format="dita">debrief with your line manager or security representative</xref> for when you return. Travel approval might be conditional on having a debrief after the trip. If your trip involved visiting a 'special attention' country listed in <xref href="#part-one" format="dita">Part One</xref>, a debrief when you return is mandatory.</li>
-					<li>Check if you need to do anything to prepare
-						for <xref href="#international-roaming" format="dita">International Roaming</xref>.
-						Refer to the <xref href="#international-roaming" format="dita">International Roaming</xref> section.</li>
-					<li>Take a <b>non-physical copy</b> of this guidance;
-						it includes useful contact details that help in the event of a problem while travelling.</li>
+					<li>Check if you need to do anything to prepare for <xref href="#international-roaming" format="dita">International Roaming</xref>. Refer to the <xref href="#international-roaming" format="dita">International Roaming</xref> section.</li>
+					<li><b>Take a copy of this guidance</b>; it includes useful contact details that help in the event of a problem while travelling.</li>
 				</ol>
 			</body>
 		</topic>
@@ -184,21 +120,9 @@
 	<topic id="international-roaming">
 		<title>International Roaming</title>
 		<body>
-			<p>While travelling,
-				you might incur roaming charges when using your <ph conref="conrefs.dita#conrefs/moj"/> equipment
-				for calls or accessing services.
-				These charges must be paid by your Business Unit.
-				This is another reason for having a good business need
-				to take <ph conref="conrefs.dita#conrefs/moj"/> equipment overseas.</p>
-			<p>By default,
-				<ph conref="conrefs.dita#conrefs/moj"/> equipment is not enabled for use overseas.
-				Before travelling,
-				request the ServiceNow Catalogue item for International Roaming,
-				and the remote wipe function.
-				This helps protect the <ph conref="conrefs.dita#conrefs/moj"/> equipment
-				in case of loss or theft.</p>
-			<note>International Roaming can be found on
-				<xref href="https://mojprod.service-now.com/moj_sp/?id=home" format="html" scope="external">Service Now</xref> using:
+			<p>While travelling, you might incur roaming charges when using your <ph conref="conrefs.dita#conrefs/moj"/> equipment for calls or accessing services. These charges must be paid by your Business Unit. This is another reason for having a good business need to take <ph conref="conrefs.dita#conrefs/moj"/> equipment overseas.</p>
+			<p>By default, <ph conref="conrefs.dita#conrefs/moj"/> equipment is not enabled for use overseas. Before travelling, request the ServiceNow Catalogue item for International Roaming, and the remote wipe function. This helps protect the <ph conref="conrefs.dita#conrefs/moj"/> equipment in case of loss or theft.</p>
+			<note>International Roaming can be found on <xref href="https://mojprod.service-now.com/moj_sp/?id=home" format="html" scope="external">Service Now</xref> using:
 				<menucascade>
 					<uicontrol>Home</uicontrol>
 					<uicontrol>Order IT</uicontrol>
@@ -211,40 +135,10 @@
 	<topic id="if-you-have-any-problem-when-using-moj-equipment-overseas">
 		<title>If you have any problem when using <ph conref="conrefs.dita#conrefs/moj"/> equipment overseas</title>
 		<body>
-			<p>Contact the <xref href="#contacts" format="dita"><ph conref="conrefs.dita#conrefs/servicedesk"/></xref>
-				immediately.
-				Tell them if the <ph conref="conrefs.dita#conrefs/moj"/> equipment is lost,
-				stolen,
-				or was potentially compromised.
-				This includes any time the equipment is deliberately removed out of your sight,
-				such as by a customs official.</p>
-			<p>If any security-related incident occurs overseas,
-				regardless of whether it involves <ph conref="conrefs.dita#conrefs/moj"/> equipment,
-				you should contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/> as soon as possible.
-				Refer to the following <xref href="#contacts" format="dita">Contacts</xref> section,
-				and the guidance on
-				<xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/"
-				format="html" scope="external">Reporting a Security Incident</xref>
-				on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.
-				This includes information on reporting an incident outside of UK working hours.
-				For convenience,
-				the out-of-hours telephone number for reporting incidents is repeated
-				<xref href="#information-incident-reporting-line" format="dita">in this guidance</xref>.</p>
-			<p>If there is a problem with your <ph conref="conrefs.dita#conrefs/moj"/> equipment,
-				it might be necessary to disable your ability
-				to connect to the <ph conref="conrefs.dita#conrefs/moj"/> network or services from your device.
-				The <ph conref="conrefs.dita#conrefs/servicedesk"/> will do this if required.
-				<ph conref="conrefs.dita#conrefs/moj"/>-issued phones might still have some functionality,
-				to let you make phone calls,
-				but the device should be treated as compromised
-				and not used any more for any <ph conref="conrefs.dita#conrefs/moj"/> business.</p>
-			<note>Do not be tempted to use non-<ph conref="conrefs.dita#conrefs/moj"/>
-				equipment for <ph conref="conrefs.dita#conrefs/moj"/> business purposes.
-				If you are having problems with <ph conref="conrefs.dita#conrefs/moj"/> equipment,
-				you might wonder about using non-<ph conref="conrefs.dita#conrefs/moj"/> devices to carry out
-				a particularly important task,
-				or to respond to an urgent email.
-				This is not <xref href="acceptable-use.dita" format="dita" platform="html">acceptable</xref><xref href="https://security-guidance.service.justice.gov.uk/acceptable-use/" format="html" scope="external" platform="epub pdf">acceptable</xref>.</note>
+			<p>Contact the <xref href="#contacts" format="dita"><ph conref="conrefs.dita#conrefs/servicedesk"/></xref> immediately. Tell them if the <ph conref="conrefs.dita#conrefs/moj"/> equipment is lost, stolen, or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.</p>
+			<p>If any security-related incident occurs overseas, regardless of whether it involves <ph conref="conrefs.dita#conrefs/moj"/> equipment, you should contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/> as soon as possible. Refer to the following <xref href="#contacts" format="dita">Contacts</xref> section, and the guidance on <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">Reporting a Security Incident</xref> on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet. This includes information on reporting an incident outside of UK working hours. For convenience, the out-of-hours telephone number for reporting incidents is repeated <xref href="#information-incident-reporting-line" format="dita">in this guidance</xref>.</p>
+			<p>If there is a problem with your <ph conref="conrefs.dita#conrefs/moj"/> equipment, it might be necessary to disable your ability to connect to the <ph conref="conrefs.dita#conrefs/moj"/> network or services from your device. The <ph conref="conrefs.dita#conrefs/servicedesk"/> will do this if required. <ph conref="conrefs.dita#conrefs/moj"/>-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any <ph conref="conrefs.dita#conrefs/moj"/> business.</p>
+			<note>Do not be tempted to use non-<ph conref="conrefs.dita#conrefs/moj"/> equipment for <ph conref="conrefs.dita#conrefs/moj"/> business purposes. If you are having problems with <ph conref="conrefs.dita#conrefs/moj"/> equipment, you might wonder about using non-<ph conref="conrefs.dita#conrefs/moj"/> devices to carry out a particularly important task, or to respond to an urgent email. This is not <xref href="acceptable-use.dita" format="dita" platform="html">acceptable</xref><xref href="https://security-guidance.service.justice.gov.uk/acceptable-use/" format="html" scope="external" platform="epub pdf">acceptable</xref>.</note>
 		</body>
 	</topic>
 	<topic id="related-pages">
@@ -252,7 +146,7 @@
 		<body>
 			<ul>
 				<li><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita">General advice on taking equipment overseas</xref></li>
-				<li><xref href="https://intranet.justice.gov.uk/guidance/security/travelling-abroad-business-or-personal/" format="html" scope="external">Overseas travel</xref></li>
+				<li><xref href="overseas-travel.dita" format="dita">Overseas travel</xref></li>
 				<li><xref href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment" format="html" scope="external">Staff security and responsibilities during employment</xref></li>
 			</ul>
 		</body>
@@ -322,7 +216,7 @@
 			<title><ph conref="conrefs.dita#conrefs/moj"/> Security</title>
 			<body>
 				<ul>
-					<li>Email: <xref href="mailto:security@Justice.gov.uk" format="email" scope="external">security@Justice.gov.uk</xref></li>
+					<li>Email: <ph conref="conrefs.dita#conrefs/securityemail"/></li>
 				</ul>
 			</body>
 		</topic>
