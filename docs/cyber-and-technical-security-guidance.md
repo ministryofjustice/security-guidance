@@ -37,6 +37,14 @@ For convenience, offline versions of this guidance are available.
 
 The offline versions of this guidance are time-limited, and are not valid after 21 January 2022.
 
+### Security culture
+
+In addition to the obvious security resources such as policies, controls, and software and hardware tools, all organisations need employees, suppliers and other colleagues to behave in a way that helps ensure good security at all times. A simple example is where someone will act in a way that maintains good security, even if they don't know exactly what the formal process is. The extent to which an organisation has good security in indicated by its security culture.
+
+Security culture refers to the set of values, shared by everyone in an organisation, that determines how people are expected to think about and approach security. Getting security culture right helps develop a security conscious workforce, and promotes the desired security behaviours expected from everyone working in or for the organisation.​
+
+The MoJ is creating a portfolio of security culture resources to help supplement the formal policy and guidance material. Initial security culture material is available for preview [here](security-culture.md).
+
 ### Getting in touch
 
 -   [To report an incident](reporting-an-incident.md).
