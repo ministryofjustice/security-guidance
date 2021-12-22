@@ -24,7 +24,7 @@ Mobile roaming should be requested via the [Service-Now IT Catalogue](https://mo
 
 ## External websites
 
--   [FCO Foreign and Commonwealth Office](http://www.fco.gov.uk/en/travel-and-living-abroad)
+-   [Foreign, Commonwealth and Development Office (FCDO)](https://www.gov.uk/government/organisations/foreign-commonwealth-office)
 
 ## Contacts
 
