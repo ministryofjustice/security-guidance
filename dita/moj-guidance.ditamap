@@ -18,6 +18,11 @@ if an audience attribute is present, then only matching content is included.
 		<topicref href="user-guide.dita" type="topic" audience="audience-basic audience-tech"/>
 	</topichead>
 
+	<topichead audience="audience-basic audience-tech">
+		<topicmeta><navtitle>Security culture</navtitle></topicmeta>
+		<topicref href="security-culture.dita" type="topic"/>
+	</topichead>
+
 	<topichead audience="audience-basic audience-suppliers audience-tech">
 		<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Information security policies</navtitle></topicmeta>
 		<topichead audience="audience-basic audience-suppliers audience-tech">
@@ -185,6 +190,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="physical-security-policy.dita" type="topic"/>
 			<topicref href="public-protest-and-demonstrations-policy.dita" type="topic"/>
 			<topicref href="security-in-the-office.dita" type="topic"/>
+			<topicref href="security-threat-level-and-emergency-procedures.dita" type="topic"/>
 			<topicref href="visitor-access-policy.dita" type="topic"/>
 		</topichead>
 		<topichead>

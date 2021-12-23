@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/security-culture/</loc>
+  <lastmod>2021-12-21T13:18:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/security-threat-level-and-emergency-procedures/</loc>
+  <lastmod>2021-12-13T11:44:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/minimum-user-clearance-requirements-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/government-classification-scheme/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/</loc>
+  <lastmod>2021-12-23T13:50:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/remote-working/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/changelog/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/moj-guidance.pdf</loc>
+  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-gs.pdf</loc>
+  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-tech.pdf</loc>
+  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/reporting-an-incident/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/user-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/setecastronomy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/identify-protect-detect-respond-recover/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/it-security-all-users-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/it-security-policy-overview/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/it-security-technical-users-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/line-manager-approval/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/shared-responsibility-models/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/technical-controls-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/mobile-device-and-remote-working-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/general-advice-on-taking-equipment-overseas/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/personal-devices/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/national-security-vetting-contact/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/national-security-vetting-questions/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/national-security-vetting-for-external-candidates-faq/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/pre-employment-screening/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/pre-employment-screening-and-vetting-of-external-candidates-faqs/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/security-clearance-appeals-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/security-clearance-appeals-procedures/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/security-vetting-assessment-need/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/ongoing-personnel-security/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/personnel-risk-assessment/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/reporting-personal-circumstance-changes/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/training-and-education/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/voluntary-drug-testing-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/voluntary-drug-testing-policy-procedures/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/end-or-change-of-employment/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/leavers-with-nsc-and-nscvs/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/acceptable-use/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/acceptable-use-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/long-term-leave/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/protect-yourself-online/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/web-browsing/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/data-handling-and-information-sharing-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/information-classification-handling-and-security-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/information-classification-and-handling-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/secrets-management/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/removable-media/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-equipment/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-physical-and-on-premise/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/working-securely-with-paper-documents-and-files/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/access-control-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/access-control-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/enterprise-access-control-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/privileged-account-management-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/authentication/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/management-access/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/managing-user-access-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/multi-factor-authentication-mfa-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/privileged-user-backups-removable-media-and-incident-management-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/privileged-user-configuration-patching-and-change-management-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/privileged-user-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/privileged-user-logging-and-protective-monitoring-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/protecting-social-media-accounts/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/account-management/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/authorisation/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/multi-user-accounts-and-public-facing-service-accounts-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/password-creation-and-authentication-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/password-management-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/password-managers/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/passwords/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/password-storage-and-management-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/policies-for-google-apps-administrators/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/policies-for-macbook-administrators/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/system-users-and-application-administrators/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/using-lastpass/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/automated-certificate-renewal/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/cryptography/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/hmg-cryptography-business-continuity-management-standard/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/public-key-infrastructure-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/use-of-hmg-cryptography-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/cctv-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/entry-and-exit-search-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/personal-mail-and-parcel-delivery-policy-and-procedure/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/physical-security-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/public-protest-and-demonstrations-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/security-in-the-office/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/visitor-access-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/clear-screen-and-desk/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/equipment-reassignment-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/laptops/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/locking-and-shutdown/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/policies-for-macbook-users/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/system-lockdown-and-hardening-standard/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/mail-check/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/public-sector-dns/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/web-check/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/offshoring-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/malware-protection-guide-introduction/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/malware-protection-guidance-defensive-layer-1/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/malware-protection-guidance-defensive-layer-2/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/malware-protection-guidance-defensive-layer-3/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/ransomware/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/system-backup-guidance/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/system-backup-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/system-backup-standard/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/accounting/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/cots-applications/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/custom-applications/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/logging-and-monitoring/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/online-identifiers/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/protective-monitoring/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/security-log-collection/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/enterprise-it-infrastructure/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/enterprise-it-mobile-devices/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/hosting-platforms/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/log-entry-metadata/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/security-log-collection-maturity-tiers/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/guidance-for-using-open-internet-tools/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/patch-management-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/vulnerability-disclosure-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/implement-security-txt/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/vulnerability-scanning-and-patch-management-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/vulnerability-scanning-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/code-of-connection-standard/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/defensive-domain-registration/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/domain-names-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/internet-v-psn/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/ip-dns-diagram-handling/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/multiple-consecutive-back-to-back-firewalls/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/networks-bearers-not-trust/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/bluetooth/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/cjsm/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/data-sovereignty/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/email/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/email-authentication-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/email-blocklist-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/email-blocklist-process/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/email-security-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/secure-data-transfer-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/secure-email-transfer-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/sending-information-securely/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/spam-and-phishing-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/web-browsing-security-policy-profiles/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/wifi-security-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/technical-security-controls-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/technical-security-controls-guide-defensive-layer-1/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/technical-security-controls-guide-defensive-layer-2/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/maintained-by-default/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/secure-by-default/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/source-code-publishing/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/system-test-standard/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/using-live-data-for-testing-purposes/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/assessing-suppliers/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/contracts/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/security-aspect-letters/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/supplier-corporate-it/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/azure-account-baseline-templates/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/baseline-aws-accounts/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/baseline-for-azure-accounts/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/forensic-principles/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/forensic-readiness-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/forensic-readiness-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/incident-management-plan-and-process-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/it-incident-management-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/lost-devices-incidents/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/it-disaster-recovery-plan-and-process-guide/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/it-disaster-recovery-policy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/data-destruction/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/data-destruction-contract-clauses-definitions/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/data-destruction-contract-clauses-long-format/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/data-destruction-contract-clauses-long-format-appendix/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/data-destruction-contract-clauses-short-format/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/data-destruction-instruction-and-confirmation-letter/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/data-security-and-privacy/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/data-security-and-privacy-lifecycle/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/data-security-and-privacy-triage-standards/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/standards-assurance-tables/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/infrastructure-system-accreditation/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/ost/ithc/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/ost/test-cancellations-and-delays/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/risk-reviews/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/glossary/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/overseas-travel/</loc>
+  <lastmod>2021-12-22T16:55:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/gs/overseas-travel-form.docx</loc>
+  <lastmod>2021-12-22T16:55:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/gs/data-movement-form.docx</loc>
+  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/gs/national-security-vetting-contact-form.pdf</loc>
+  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/gs/national-security-vetting-questions.docx</loc>
+  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/gs/pre-employment-screening-and-vetting-of-external-candidates-faqs.docx</loc>
+  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/gs/internal-appeal-form.docx</loc>
+  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/gs/security-vetting-assessment-need.doc</loc>
+  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/</loc>
+  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/gs/end-or-change-of-employment.docx</loc>
+  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/gs/MoJ_CCTV_Policy.docx</loc>
+  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/gs/MoJ_Entry_and_Exit_Search_Policy_(Redacted).docx</loc>
+  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/gs/overseas-travel-guide-v1-4-dec-2021.docx</loc>
+  <lastmod>2021-12-22T16:55:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>

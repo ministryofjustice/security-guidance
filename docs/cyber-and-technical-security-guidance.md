@@ -6,16 +6,17 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 8 December 2021.
+**Note:** This guidance is dated: 23 December 2021.
 
 ### Popular links
 
 Popular links for all users:
 
+-   [Security threat level and emergency procedures](security-threat-level-and-emergency-procedures.md)
+-   [Overseas travel](overseas-travel.md) and [accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
 -   [General app guidance](general-user-video-and-messaging-apps-guidance.md)
 -   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
 -   [Government classification scheme](government-classification-scheme.md)
--   [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
 -   [Remote Working](remote-working.md)
 
 ### Change log
@@ -34,7 +35,15 @@ For convenience, offline versions of this guidance are available.
 |Group Security. Contains Group Security policy and guidance.|[PDF](moj-guidance-gs.pdf)|[EPUB](moj-guidance-gs.epub)|
 |Technical users. Includes lots of technical detail. This document contains all content, including for 'All users' and from Group Security. Download this document if you want the complete set of published MoJ security policy and guidance.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 8 January 2022.
+The offline versions of this guidance are time-limited, and are not valid after 23 January 2022.
+
+### Security culture
+
+In addition to the obvious security resources such as policies, controls, and software and hardware tools, all organisations need employees, suppliers and other colleagues to behave in a way that helps ensure good security at all times. A simple example is where someone will act in a way that maintains good security, even if they don't know exactly what the formal process is. The extent to which an organisation has good security in indicated by its security culture.
+
+Security culture refers to the set of values, shared by everyone in an organisation, that determines how people are expected to think about and approach security. Getting security culture right helps develop a security conscious workforce, and promotes the desired security behaviours expected from everyone working in or for the organisation.​
+
+The MoJ is creating a portfolio of security culture resources to help supplement the formal policy and guidance material. Initial security culture material is available for preview [here](security-culture.md).
 
 ### Getting in touch
 
@@ -234,6 +243,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Physical security policy](physical-security-policy.md)|All users|
 |[Public protest and demonstrations policy](public-protest-and-demonstrations-policy.md)|All users|
 |[Security in the office](security-in-the-office.md)|All users|
+|[Security threat level and emergency procedures](security-threat-level-and-emergency-procedures.md)|All users|
 |[Visitor access policy](visitor-access-policy.md)|All users|
 
 #### Equipment

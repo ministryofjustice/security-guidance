@@ -16,10 +16,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <body>
         <p>Popular links for all users:
           <ul>
+            <li><xref href="security-threat-level-and-emergency-procedures.dita" format="dita">Security threat level and emergency procedures</xref></li>
+            <li><xref href="overseas-travel.dita" format="dita">Overseas travel</xref> and <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref></li>
             <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">General app guidance</xref></li>
             <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements Guide</xref></li>
             <li><xref href="government-classification-scheme.dita" format="dita">Government classification scheme</xref></li>
-            <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref></li>
             <li><xref href="remote-working.dita" format="dita">Remote Working</xref></li>
           </ul>
         </p>
@@ -98,6 +99,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
 				</ol></p>
 			</body>
 		</topic>
+    <topic id="security-culture">
+      <title>Security culture</title>
+      <body>
+        <p>In addition to the obvious security resources such as policies, controls, and software and hardware tools, all organisations need employees, suppliers and other colleagues to behave in a way that helps ensure good security at all times. A simple example is where someone will act in a way that maintains good security, even if they don't know exactly what the formal process is. The extent to which an organisation has good security in indicated by its security culture.</p>
+        <p>Security culture refers to the set of values, shared by everyone in an organisation, that determines how people are expected to think about and approach security. Getting security culture right helps develop a security conscious workforce, and promotes the desired security behaviours expected from everyone working in or for the organisation.​</p>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/> is creating a portfolio of security culture resources to help supplement the formal policy and guidance material. Initial security culture material is available for preview <xref href="security-culture.dita" format="dita">here</xref>.</p>
+      </body>
+    </topic>
 		<topic id="getting-in-touch">
 			<title>Getting in touch</title>
 			<body>
@@ -842,6 +851,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="security-in-the-office.dita" format="dita">Security in the office</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="security-threat-level-and-emergency-procedures.dita" format="dita">Security threat level and emergency procedures</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>

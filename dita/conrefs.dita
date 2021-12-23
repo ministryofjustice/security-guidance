@@ -226,7 +226,7 @@
 	<topic id="cyber-security-advice">
 		<title>Cyber Security Advice</title>
 		<body>
-			<p><b>Cyber Consultants &amp; Risk Advisors</b>
+			<p><b>Cyber Consultants and Risk Advisors</b>
 				<ul>
 					<li>Email: <ph conref="#conrefs/securityemail"/></li>
 					<li>Slack: <codeph>#security</codeph></li>
@@ -267,7 +267,7 @@
 				contact: <ph conref="#conrefs/groupsecurityemail"/>.
 				For general security questions or concerns,
 				contact: <ph conref="#conrefs/securityemail"/>,
-			or for security advice,
+			or for cyber security advice,
 			contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
 		</body>
 	</topic>
@@ -276,8 +276,15 @@
 		<title>Contact details</title>
 		<body>
 			<p>For any further questions relating to security, contact: <ph conref="#conrefs/securityemail"/>,
-			or for security advice,
-			contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
+			or for cyber security advice,
+			contact the Cyber Assistance Team: <ph conref="#conrefs/catemail"/>.</p>
+		</body>
+	</topic>
+
+	<topic id="contact-details-security-only">
+		<title>Contact details</title>
+		<body>
+			<p>For any further questions, advice, or help relating to security, contact: <ph conref="#conrefs/securityemail"/>.</p>
 		</body>
 	</topic>
 
@@ -329,7 +336,7 @@
 				</ul>
 			</p>
 			<p>For any further questions relating to security, contact: <ph conref="#conrefs/securityemail"/>,
-			or for security advice, contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
+			or for cyber security advice, contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
 		</body>
 	</topic>
 

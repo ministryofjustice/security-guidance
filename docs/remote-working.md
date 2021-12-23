@@ -165,7 +165,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 ### Cyber Security Advice
 
-**Cyber Consultants & Risk Advisors**
+**Cyber Consultants and Risk Advisors**
 
 -   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 -   Slack: `#security`
