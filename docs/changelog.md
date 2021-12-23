@@ -2,7 +2,7 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
--   **2021-12-22 16:55 GMT [Update overseas travel guidance](https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/)**
+-   **2021-12-23 13:50 GMT [Update overseas travel guidance](https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/)**
 
     Updates to information on overseas travel and accessing MoJ IT systems from overseas.
 
