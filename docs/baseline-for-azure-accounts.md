@@ -18,7 +18,9 @@ The MoJ Cyber Security team strongly encourages the use of the highest abstracti
 
 ## Initial Considerations
 
-The type of hosting is the first consideration. AWS is the preferred Cloud Service Provider but we understand that Azure sometimes is a technical requirement.
+The type of hosting is the first consideration. MoJ service developers **SHALL** utilise Cloud Platform for new services. Anyone developing new services **SHOULD** refer to the [How to host services](https://technical-guidance.service.justice.gov.uk/documentation/standards/hosting.html#how-to-host-services) page which provides initial guidance.
+
+AWS is the preferred Cloud Service Provider but we understand that Azure sometimes is a technical requirement.
 
 Legacy applications **SHOULD** be hosted via the [Modernisation Platform](https://ministryofjustice.github.io/modernisation-platform/user-guide/cloud-platform-or-modernisation-platform.html#should-i-use-the-cloud-platform-or-the-modernisation-platform).
 

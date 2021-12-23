@@ -34,11 +34,11 @@ baseline.</p>
   <topic id="initial-considerations">
     <title>Initial Considerations</title>
     <body>
-      <p>The type of hosting is the first consideration.
-        AWS is the
+      <p id="type-of-hosting">The type of hosting is the first consideration. <ph conref="conrefs.dita#conrefs/moj"/> service developers <ph conref="conrefs.dita#conrefs/policyshall"/> utilise Cloud Platform for new services. Anyone developing new services <ph conref="conrefs.dita#conrefs/policyshould"/> refer to the <xref href="https://technical-guidance.service.justice.gov.uk/documentation/standards/hosting.html#how-to-host-services" format="html" scope="external">How to host services</xref> page which provides initial guidance.</p>
+      <p>AWS is the
 preferred Cloud Service Provider but we understand that Azure sometimes
 is a technical requirement.</p>
-      <p>Legacy applications <ph conref="conrefs.dita#conrefs/policyshould"/> be hosted via the <xref href="https://ministryofjustice.github.io/modernisation-platform/user-guide/cloud-platform-or-modernisation-platform.html#should-i-use-the-cloud-platform-or-the-modernisation-platform" format="html" scope="external">Modernisation Platform</xref>.</p>
+      <p id="legacy-applications">Legacy applications <ph conref="conrefs.dita#conrefs/policyshould"/> be hosted via the <xref href="https://ministryofjustice.github.io/modernisation-platform/user-guide/cloud-platform-or-modernisation-platform.html#should-i-use-the-cloud-platform-or-the-modernisation-platform" format="html" scope="external">Modernisation Platform</xref>.</p>
       <p>The requirement to use Azure <ph conref="conrefs.dita#conrefs/policyshould"/> also include basing new services or
 subscriptions on existing or predefined settings and policies.</p>
       <p>For <xref href="https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/ukofficial-uknhs" format="html" scope="external">UK Government Services</xref>,
