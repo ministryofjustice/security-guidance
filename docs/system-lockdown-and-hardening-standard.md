@@ -85,6 +85,7 @@ Details provided in this standard address:
 #### Services, security, and networking applications
 
 |Name|Description|
+|----|-----------|
 |Firewalls|An application firewall **SHALL** be installed. The firewall **SHALL** be configured to 'allow only essential services', log firewall activity, and operate in 'stealth mode' \(undiscoverable\).|
 |Anonymous FTP|Anonymous FTP **SHALL** be disabled. Where there is a business requirement for file transfer between systems, FTP\(S\) or SFTP **SHALL** be used.|
 |Simple Network Management Protocol \(SNMP\)|Where SNMP is required, version 2.0 or a more recent version **SHALL** be used.|

@@ -190,11 +190,13 @@
             <tgroup cols="2">
               <colspec colname="col1" colnum="1"/>
               <colspec colname="col2" colnum="2"/>
-              <tbody>
+              <thead>
                 <row>
                   <entry colname="col1">Name</entry>
                   <entry colname="col2">Description</entry>
                 </row>
+              </thead>
+              <tbody>
                 <row>
                   <entry colname="col1">Firewalls</entry>
                   <entry colname="col2">An application firewall <ph conref="conrefs.dita#conrefs/policyshall"/> be installed. The firewall <ph conref="conrefs.dita#conrefs/policyshall"/> be configured to 'allow only essential services', log firewall activity, and operate in 'stealth mode' (undiscoverable).</entry>
