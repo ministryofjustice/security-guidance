@@ -200,7 +200,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="laptops.dita" type="topic"/>
 			<topicref href="locking-and-shutdown.dita" type="topic"/>
 			<topicref href="policies-for-macbook-users.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="system-lockdown-and-hardening-standard.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="system-lockdown-and-hardening-standard.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 	</topichead>
 
