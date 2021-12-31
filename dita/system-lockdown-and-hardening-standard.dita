@@ -2,36 +2,34 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="system-lockdown-and-hardening-standard">
   <title>System Lockdown and Hardening Standard</title>
-  <topic id="legacyreferences" conref="conrefs.dita#legacyreferences"><title/></topic>
-  <topic id="overview">
-    <title>Overview</title>
+  <body>
+    <p>This standard is designed to help protect <ph conref="conrefs.dita#conrefs/mojlong"/> IT systems by providing basic configuration details for how IT systems should be hardened to defend against malicious attack.</p>
+    <p>The <ph conref="conrefs.dita#conrefs/mcsslong"/> describes mandatory requirements for security controls. To comply with the <ph conref="conrefs.dita#conrefs/mcss"/>, the <ph conref="conrefs.dita#conrefs/moj"/> requires that IT systems and services are:</p>
+    <ul>
+      <li>Locked-down: All unnecessary or non-essential services or capabilities are switched off, or restricted to the bare minimum of functionality.</li>
+      <li>Hardened: All system options and capabilities are configured for maximum possible resistance to attack or unauthorised use.</li>
+    </ul>
+    <p>Specifics of the lockdown policy are covered in the <xref href="technical-controls-policy.dita#lockdown-policy" format="dita">Technical Controls Policy</xref>. This document provides more information about the implementation of the lockdown policy.</p>
+  </body>
+  <topic id="scope">
+    <title>Scope</title>
     <body>
-      <p>This standard is designed to help protect <ph conref="conrefs.dita#conrefs/mojlong"/> IT systems by providing basis configuration details for how IT systems should be hardened to defend against malicious attack.</p>
-      <p><xref href="https://www.gov.uk/government/publications/security-policy-framework/hmg-security-policy-framework" format="html" scope="external">HMG Security Policy Framework</xref> mandatory requirement (MR) 9 concerns technical security controls. To comply with MR 7, the <ph conref="conrefs.dita#conrefs/moj"/> needs to ensure that it has:</p>
-      <lq>
-        <p>Lockdown policy to restrict unnecessary services;</p>
-      </lq>
-      <p>The lockdown policy itself is covered in the IT Security – Technical Controls Policy whilst this document sets out the <ph conref="conrefs.dita#conrefs/moj"/> standard for its application.</p>
+      <p>This standard provides some high level guidance on IT system hardening. It applies to all <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</p>
+      <note>This standard is a generic standard, designed to provide high level direction. It does not replace platform- or system-specific hardening guidance, such as vendor advisory or best practice recommendations.</note>
+      <p>This standard must be read in conjunction with the <ph conref="conrefs.dita#conrefs/spflong"/>, <ph conref="conrefs.dita#conrefs/gov007"/>, and the <ph conref="conrefs.dita#conrefs/mcss"/> .</p>
     </body>
-    <topic id="scope">
-      <title>Scope</title>
-      <body>
-        <p>This standard provides some high level guidance on IT system hardening with which applied to all <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</p>
-        <p><b>Note:</b> This standard is a generic standard designed to provide high level direction. This standard does not replace the Government Assurance Pack (GAP) which must be considered for MS Windows based systems. The hardening of an IT system will be considered during the Accreditation process where the exact specification for the system will be considered and agreed. For further details on the Accreditation process see.</p>
-        <p>This standard must be read in conjunction with CESG GPG No.35 and the <ph conref="conrefs.dita#conrefs/moj"/> Security Architecture Framework.</p>
-      </body>
-    </topic>
-    <topic id="demonstration-of-compliance">
-      <title>Demonstration of Compliance</title>
-      <body>
-        <p>The CESG Information Assurance Maturity Model (IAMM) sets out the minimum maturity level Government departments should attain. Providing secure IT systems captured as a basic requirement in Level 1 and the <ph conref="conrefs.dita#conrefs/moj"/> will need to demonstrate compliance against this requirement.</p>
-      </body>
-    </topic>
+  </topic>
+  <!-- HERE -->
+  <topic id="demonstration-of-compliance">
+    <title>Demonstration of Compliance</title>
+    <body>
+      <p>The <xref href="https://www.ncsc.gov.uk/information/hmg-ia-maturity-model-iamm" format="html" scope="external">NCSC GPG40 Information Assurance Maturity Model (IAMM)</xref> provides useful guidance on the security levels expected for <ph conref="conrefs.dita#conrefs/moj"/> systems and services. All <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> demonstrate compliance that meets or exceeds maturity Level 1, or equivalent.</p>
+    </body>
   </topic>
   <topic id="generic-hardening-standard">
     <title>Generic hardening standard</title>
     <body>
-      <p>Table 1 following provides a generic set of hardening procedures designed to guide IT system development and supplement the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/" format="html" scope="external">IT Security – Technical Controls Policy</xref>.</p>
+      <p>Table 1 following provides a generic set of hardening procedures designed to guide IT system development and supplement the <xref href="technical-controls-policy.dita" format="dita">Technical Controls Policy</xref>.</p>
       <p>Those configuring <ph conref="conrefs.dita#conrefs/moj"/> IT systems must consider additional sources of reference such as the Government Assurance Pack (GAP) for MS Windows based systems; Microsoft TechNet and NIST to ensure that specific systems (e.g. SQL server or a UNIX based server) are built to a secure standard. A selection of external reference sources can be found in this guidance.</p>
       <p>Where this standard provides a generic set of hardening procedures, The <ph conref="conrefs.dita#conrefs/moj"/> Security Architecture Framework provides a set of vendor and system specific hardening guides which have been approved for use in <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</p>
       <p>The secure configuration of an IT system will be examined during the Accreditation process for further details). This may include an IT Health Check (ITHC) and a review of the system's build configuration.</p>
