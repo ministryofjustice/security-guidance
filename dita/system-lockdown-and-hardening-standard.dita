@@ -237,6 +237,10 @@
                   <entry colname="col1">Clear text authentication protocols</entry>
                   <entry colname="col2">All plain-text authentication protocols <ph conref="conrefs.dita#conrefs/policyshall"/> be disabled and their functionality replaced with encrypted alternatives.</entry>
                 </row>
+                <row>
+                  <entry colname="col1">Initiating outbound connections</entry>
+                  <entry colname="col2">An <ph conref="conrefs.dita#conrefs/moj"/> system or service <ph conref="conrefs.dita#conrefs/policyshallnot"/> initiate a connection to a non-<ph conref="conrefs.dita#conrefs/moj"/> system or service, unless such outbound connections have been reviewed and approved as a standard part of their design. Firewall rules and other network configuration <ph conref="conrefs.dita#conrefs/policyshall"/> prevent unapproved outbound connections.</entry>
+                </row>
               </tbody>
             </tgroup>
           </table>
