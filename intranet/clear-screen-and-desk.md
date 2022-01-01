@@ -4,6 +4,11 @@ There are many helpful policies and best practices that improve Ministry of Just
 
 **Note:** In addition to this advice in this document, you should review and follow the guidance in the [remote working](https://security-guidance.service.justice.gov.uk/remote-working/) guidance, for example [thinking before you print](https://security-guidance.service.justice.gov.uk/remote-working/#printing).
 
+**Related information**  
+
+
+[Security in the office](https://security-guidance.service.justice.gov.uk/security-in-the-office/)
+
 ##Clear screen
 
 Users **SHALL** comply with the following:

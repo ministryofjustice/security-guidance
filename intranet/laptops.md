@@ -2,6 +2,11 @@
 
 The guidance applies to all Ministry of Justice (MoJ) staff.
 
+**Related information**  
+
+
+[Lost devices or other IT security incidents](https://security-guidance.service.justice.gov.uk/lost-devices-incidents/)
+
 ##Storing data on laptops
 
 If you need to store data on your computer you should always remember to move it into:

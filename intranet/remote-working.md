@@ -2,6 +2,11 @@
 
 Remote working means you are working away from the office. This could be from home, at another MoJ or government office, whilst travelling, at a conference, or in a hotel.
 
+**Related information**  
+
+
+[Security in the office](https://security-guidance.service.justice.gov.uk/security-in-the-office/)
+
 ##Key points
 
 * **Do:** Be professional, and help keep Ministry of Justice (MoJ) information and resources safe and secure at all times.
