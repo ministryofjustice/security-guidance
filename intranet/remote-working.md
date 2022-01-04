@@ -156,7 +156,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 **Privacy Team**
 
 * Email: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
-* Slack: `#securityprivacyteam`
+* Slack: `#security_privacy_and_live_service_team`
 * Intranet: [/guidance/knowledge-information/protecting-information/](/guidance/knowledge-information/protecting-information/)
 
 ##Cyber Security Advice
