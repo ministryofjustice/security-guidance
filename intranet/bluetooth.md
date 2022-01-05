@@ -2,6 +2,11 @@
 
 This guidance helps you use Bluetooth enabled devices and peripheral devices.
 
+**Related information**  
+
+
+[Personal devices](https://security-guidance.service.justice.gov.uk/personal-devices/)
+
 ##Overview
 
 [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) is a very short range wifi technology. In everyday terms, Bluetooth devices can 'talk to each other' if they are very close, for example in the same room. This makes Bluetooth really good for wireless devices, for example a telephone headset, or a mouse or keyboard.

@@ -2,6 +2,11 @@
 
 This guidance applies to all staff and contractors who work for the Ministry of Justice (MoJ). It provides advice about using personal devices for work purposes.
 
+**Related information**  
+
+
+[Bluetooth](https://security-guidance.service.justice.gov.uk/bluetooth/)
+
 ##Overview
 
 A personal device is any desktop, laptop, tablet, phone, external drive, or similar device that the MoJ does not own.

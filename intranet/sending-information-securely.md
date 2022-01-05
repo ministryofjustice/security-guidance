@@ -6,6 +6,11 @@ This guidance on working securely with paper documents and files applies to all 
 
 Agencies and arm's length bodies (ALBs) are expected to comply with this corporate framework but may establish their own arrangements tailored to operational needs and should supplement it with local policy or guidance for any business-specific risk.
 
+**Related information**  
+
+
+[IT Security Policy (Overview)](https://security-guidance.service.justice.gov.uk/it-security-policy-overview/)
+
 ##Objective
 
 The MoJ requires employees and contractors to get into the habit of looking after the information that they work with, whether it's on paper or stored electronically, in the same way they would take care of their personal valuables.

@@ -2,6 +2,11 @@
 
 Remote working means you are working away from the office. This could be from home, at another MoJ or government office, whilst travelling, at a conference, or in a hotel.
 
+**Related information**  
+
+
+[Security in the office](https://security-guidance.service.justice.gov.uk/security-in-the-office/)
+
 ##Key points
 
 * **Do:** Be professional, and help keep Ministry of Justice (MoJ) information and resources safe and secure at all times.
@@ -151,7 +156,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 **Privacy Team**
 
 * Email: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
-* Slack: `#securityprivacyteam`
+* Slack: `#security_privacy_and_live_service_team`
 * Intranet: [/guidance/knowledge-information/protecting-information/](/guidance/knowledge-information/protecting-information/)
 
 ##Cyber Security Advice
