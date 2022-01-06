@@ -12,6 +12,11 @@
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://security-guidance.service.justice.gov.uk/system-lockdown-and-hardening-standard/</loc>
+  <lastmod>2022-01-06T09:36:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://security-guidance.service.justice.gov.uk/ost/ithc/</loc>
   <lastmod>2022-01-04T16:27:00+00:00</lastmod>
   <priority>0.80</priority>
@@ -488,11 +493,6 @@
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/policies-for-macbook-users/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/system-lockdown-and-hardening-standard/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
