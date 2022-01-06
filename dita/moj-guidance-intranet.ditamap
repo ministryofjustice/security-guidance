@@ -30,7 +30,6 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="it-security-all-users-policy.dita" type="topic"/>
 			<topicref href="it-security-policy-overview.dita" type="topic"/>
 			<topicref href="long-term-leave.dita" type="topic"/>
-			<topicref href="official-official-sensitive.dita" type="topic"/>
 			<topicref href="personal-devices.dita" type="topic"/>
 			<topicref href="protecting-social-media-accounts.dita" type="topic"/>
 			<topicref href="protect-yourself-online.dita" type="topic"/>
@@ -39,6 +38,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="secure-data-transfer-guide.dita" type="topic"/>
 			<topicref href="secure-disposal-of-it-equipment.dita" type="topic"/>
 			<topicref href="secure-disposal-of-it-physical-and-on-premise.dita" type="topic"/>
+			<topicref href="sending-information-securely.dita" type="topic"/>
 			<topicref href="web-browsing.dita" type="topic"/>
 		</topichead>
 		<topichead>
@@ -56,6 +56,10 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="entry-and-exit-search-policy.dita" type="topic"/>
 			<topicref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" type="topic"/>
             <topicref href="physical-security-policy.dita" type="topic"/>
+            <topicref href="public-protest-and-demonstrations-policy.dita" type="topic"/>
+			<topicref href="security-in-the-office.dita" type="topic"/>
+			<topicref href="security-threat-level-and-emergency-procedures.dita" type="topic"/>
+			<topicref href="visitor-access-policy.dita" type="topic"/>
 			<topicref href="working-securely-with-paper-documents-and-files.dita" type="topic"/>
         </topichead>
 	</topichead>
@@ -110,6 +114,8 @@ if an audience attribute is present, then only matching content is included.
 		<topicref href="government-classification-scheme.dita" type="topic"/>
 		<topicref href="guidance-for-using-open-internet-tools.dita" type="topic"/>
 		<topicref href="identify-protect-detect-respond-recover.dita" type="topic"/>
+		<topicref href="it-security-all-users-policy.dita" type="topic"/>
+		<topicref href="it-security-policy-overview.dita" type="topic"/>
 		<topicref href="line-manager-approval.dita" type="topic"/>
 		<topicref href="passwords.dita" type="topic"/>
 		<topicref href="password-managers.dita" type="topic"/>
@@ -120,4 +126,85 @@ if an audience attribute is present, then only matching content is included.
 		<topicmeta><navtitle>Training and education</navtitle></topicmeta>
 		<topicref href="training-and-education.dita" type="topic"/>
 	</topichead>
+
+	<reltable>
+		<relheader>
+			<relcolspec type="topic"/>
+			<relcolspec type="topic"/>
+		</relheader>
+		<relrow audience="audience-basic audience-tech">
+			<relcell>
+				<topicref href="laptops.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="lost-devices-incidents.dita"/>
+			</relcell>
+		</relrow>
+		<relrow audience="audience-tech">
+			<relcell>
+				<topicref href="acceptable-use.dita"/>
+				<topicref href="data-security-and-privacy.dita"/>
+				<topicref href="data-handling-and-information-sharing-guide.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="acceptable-use.dita"/>
+				<topicref href="data-security-and-privacy.dita"/>
+				<topicref href="data-handling-and-information-sharing-guide.dita"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="acceptable-use-policy.dita"/>
+				<topicref href="information-classification-and-handling-policy.dita"/>
+				<topicref href="it-security-policy-overview.dita"/>
+				<topicref href="passwords.dita"/>
+				<topicref href="secure-disposal-of-it-equipment.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="acceptable-use-policy.dita"/>
+				<topicref href="information-classification-and-handling-policy.dita"/>
+				<topicref href="it-security-policy-overview.dita"/>
+				<topicref href="passwords.dita"/>
+				<topicref href="secure-disposal-of-it-equipment.dita"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="sending-information-securely.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="it-security-policy-overview.dita" linking="targetonly"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="security-in-the-office.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="clear-screen-and-desk.dita"/>
+				<topicref href="passwords.dita"/>
+				<topicref href="physical-security-policy.dita"/>
+				<topicref href="remote-working.dita"/>
+				<topicref href="removable-media.dita"/>
+				<topicref href="reporting-an-incident.dita"/>
+				<topicref href="working-securely-with-paper-documents-and-files.dita"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="bluetooth.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="personal-devices.dita"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="secure-disposal-of-it-equipment.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="secure-disposal-of-it-physical-and-on-premise.dita"/>
+			</relcell>
+		</relrow>
+	</reltable>
 </map>

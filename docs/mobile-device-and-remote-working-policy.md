@@ -3,6 +3,11 @@
 -   **[Remote Working](remote-working.md)**  
 
 
+**Related information**  
+
+
+[Security in the office](security-in-the-office.md)
+
 ## Introduction
 
 This policy gives an overview of mobile devices and remote working security principles and responsibilities within the Ministry of Justice \(MoJ\). It provides a summary of the MoJ's related policies and guides in relation to mobile devices and remote working.
@@ -113,7 +118,7 @@ Non-conformance with this policy could result in disciplinary action taken in ac
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

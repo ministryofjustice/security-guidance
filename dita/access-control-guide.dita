@@ -2,12 +2,9 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="access-control-guide">
   <title>Access Control guide</title>
-  <topic id="introduction">
-    <title>Introduction</title>
-    <body>
-      <p>This guide explains how the <ph conref="conrefs.dita#conrefs/mojlong"/> manages access to its IT systems so that users have access only to the material they need to see. This guide has sub-pages which provide in-depth Access Control guidance.</p>
-    </body>
-  </topic>
+  <body>
+    <p>This guide explains how the <ph conref="conrefs.dita#conrefs/mojlong"/> manages access to its IT systems so that users have access only to the material they need to see. This guide has sub-pages which provide in-depth Access Control guidance.</p>
+  </body>
   <topic id="who-is-this-for">
     <title>Who is this for?</title>
     <body>
@@ -20,28 +17,6 @@
           <p>Any other <ph conref="conrefs.dita#conrefs/moj"/> business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services (including processing, transmitting and storing data) for, or on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
         </li>
       </ol>
-    </body>
-  </topic>
-  <topic id="related-guides">
-    <title>Related guides</title>
-    <body>
-      <p>Further guidance on how to manage user access can be found in the following guides.</p>
-      <ul>
-        <li>
-          <p><xref href="privileged-account-management-guide.dita" format="dita">Privileged Accounts</xref>.</p>
-        </li>
-        <li>
-          <p><xref href="managing-user-access-guide.dita" format="dita">Management Access</xref>.</p>
-        </li>
-      </ul>
-      <ul>
-        <li>
-          <p><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements</xref>.</p>
-        </li>
-        <li>
-          <p><xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-Factor Authentication (MFA)</xref>.</p>
-        </li>
-      </ul>
     </body>
   </topic>
   <topic id="information-security-principles-for-access-control">

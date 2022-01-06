@@ -6,6 +6,19 @@ The MoJ stores and processes a wide variety of information, some of which attrac
 
 This policy outlines the Information Classification and Handling Policy for all information held on MoJ IT systems.
 
+**Related information**  
+
+
+[Acceptable Use Policy](https://security-guidance.service.justice.gov.uk/acceptable-use-policy/)
+
+[Information Classification and Handling Policy](https://security-guidance.service.justice.gov.uk/information-classification-and-handling-policy/)
+
+[IT Security Policy (Overview)](https://security-guidance.service.justice.gov.uk/it-security-policy-overview/)
+
+[Passwords](https://security-guidance.service.justice.gov.uk/passwords/)
+
+[Secure disposal of IT equipment](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-equipment/)
+
 ##Scope
 
 This policy covers all staff (including contractors and agency staff) who use MoJ IT systems.
@@ -76,7 +89,7 @@ The MoJ policy for handling classified material applies to all MoJ IT assets and
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 

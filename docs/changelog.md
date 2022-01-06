@@ -2,6 +2,90 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2022-01-06 09:36 GMT [System lockdown and hardening](https://security-guidance.service.justice.gov.uk/system-lockdown-and-hardening-standard/)**
+
+    Guidance added to prevent outbound connections to random internet systems, unless this is a core part of their design. Firewall rules and other network configuration must prevent this.
+
+-   **2022-01-04 16:27 GMT [IT Health Check](https://security-guidance.service.justice.gov.uk/ost/ithc/#cloud-platforms)**
+
+    Updated guidance with a new section on Cloud platforms.
+
+-   **2022-01-04 16:10 GMT [Update Slack channel for privacy team](https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/#privacy-and-personal-information-data-protection)**
+
+    Provide revised channel details for contact privacy team through Slack IM.
+
+-   **2021-12-23 13:50 GMT [Update overseas travel guidance](https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/)**
+
+    Updates to information on overseas travel and accessing MoJ IT systems from overseas.
+
+-   **2021-12-21 13:18 GMT [Provide seasonal SMS scam advice](https://security-guidance.service.justice.gov.uk/security-culture/)**
+
+    Material to help improve awareness and best practices for security.
+
+-   **2021-12-15 15:09 GMT [Use DuckDuckGo search engine](https://security-guidance.service.justice.gov.uk/)**
+
+    Default to using DDG for content search.
+
+-   **2021-12-13 11:44 GMT [Security threat level guidance](https://security-guidance.service.justice.gov.uk/security-threat-level-and-emergency-procedures/)**
+
+    New security threat Level guidance, and associated procedures.
+
+-   **2021-12-13 11:27 GMT [Debrief on return from travel](https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/#on-your-return)**
+
+    Added description of a security debrief that is mandatory after some travel or where other security conditions apply.
+
+-   **2021-12-13 11:24 GMT [Accessing MoJ systems from overseas](https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/)**
+
+    Added link to supplementary information on the MoJ Intranet.
+
+-   **2021-12-08 09:15 GMT [Email access](https://security-guidance.service.justice.gov.uk/email-security-guide/#authorised-access-to-user-accounts)**
+
+    Added clarification regarding when access is permitted to a user's business email account.
+
+-   **2021-12-07 15:18 GMT [Email Authentication](https://security-guidance.service.justice.gov.uk/email-authentication-guide/)**
+
+    Added guidance requiring the use of MTA-SLS and TLS-RPT in MoJ email systems.
+
+-   **2021-12-03 13:39 GMT [Visitor Access Policy](https://security-guidance.service.justice.gov.uk/visitor-access-policy/)**
+
+    Policy regarding the access and security management controls that are in place for all visitors to MoJ buildings.
+
+-   **2021-12-02 16:54 GMT [National Security Vetting Contact](https://security-guidance.service.justice.gov.uk/national-security-vetting-contact/)**
+
+    Updated application form for candidacy to be an NSVC.
+
+-   **2021-11-30 13:54 GMT [Personal Devices](https://security-guidance.service.justice.gov.uk/personal-devices/)**
+
+    Clarified guidance on connecting personal devices using Bluetooth, and added new section on connected vehicles.
+
+-   **2021-11-22 16:23 GMT [MFA](https://security-guidance.service.justice.gov.uk/multi-factor-authentication-mfa-guide/#mfa)**
+
+    Clarified guidance on sending one-time MFA codes only to individual devices or accounts, not to shared devices or accounts.
+
+-   **2021-11-22 14:14 GMT [Government Classification Scheme](https://security-guidance.service.justice.gov.uk/government-classification-scheme/)**
+
+    Updated and consolidated guidance on classification of Government information.
+
+-   **2021-11-19 15:22 GMT [Other guidance and security.txt](https://security-guidance.service.justice.gov.uk/#other-guidance)**
+
+    Improved structure for other guidance information, and added security.txt file.
+
+-   **2021-11-19 14:29 GMT [Security in the office](https://security-guidance.service.justice.gov.uk/security-in-the-office/)**
+
+    Key security points for working in a Ministry of Justice location.
+
+-   **2021-11-19 10:09 GMT [Sending information securely](https://security-guidance.service.justice.gov.uk/sending-information-securely/)**
+
+    Guidance on working securely with paper documents and files.
+
+-   **2021-11-18 17:03 GMT [Protests and demonstrations](https://security-guidance.service.justice.gov.uk/public-protest-and-demonstrations-policy/)**
+
+    Policy and guidance on public protests and demonstrations.
+
+-   **2021-11-17 17:07 GMT [Personal devices](https://security-guidance.service.justice.gov.uk/personal-devices/#guidance)**
+
+    Updated guidance about using a personal device to connect to a business Teams meeting as a Guest.
+
 -   **2021-11-09 15:37 GMT [Acceptable use policy](https://security-guidance.service.justice.gov.uk/acceptable-use-policy/)**
 
     Provide more detail on monitoring of systems and information, and to clarify the situation regarding Data Protection and the storage or processing of information outside the UK.
@@ -109,7 +193,7 @@ This document summarises what changes were made, and when, to MoJ Security polic
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

@@ -32,10 +32,10 @@
 	<property name="jekyll-baseline" location="jekyll-baseline"/>
 	<property name="hmcts" location="hmcts"/>
 	<property name="ost" location="ost"/>
+	<property name="culture" location="culture"/>
+	<property name="culturebuild" location="${ditabuild}/culture"/>
 	<!--
 	<property name="ostbuild" location="${docs}/ost"/>
-	<property name="culture" location="culture"/>
-	<property name="culturebuild" location="${docs}/culture"/>
 	-->
 	<property name="redirects" location="redirects"/>
 	<!-- Ensure that environment variable DITA_DIR is set to
@@ -95,6 +95,10 @@
 		<mkdir dir="${build}"/>
 		<!-- Create the docs directory structure used for publication -->
 		<mkdir dir="${docs}"/>
+		<!-- Copy across culture deliverables into the landing page area. -->
+		<copy todir="${culturebuild}" >
+			<fileset dir="${culture}"/>
+		</copy>
 	</target>
 
 	<target name="policy_builder"
@@ -218,6 +222,9 @@
 			<fileset dir="${build}/ost" includes="**/*.md"/>
 			<fileset dir="${build}/hmcts" includes="**/*.md"/>
 		</replaceregexp>
+		<mkdir dir="${build}/.well-known"/>
+		<copy file="${basedir}/contact/vulnerability-disclosure-security.txt" tofile="${build}/security.txt" overwrite="true"/>
+		<copy file="${basedir}/contact/vulnerability-disclosure-security.txt" tofile="${build}/.well-known/security.txt" overwrite="true"/>
 	</target>
 
 	<!--
@@ -477,6 +484,9 @@
 		</copy>
 		<copy todir="${docs}/images" >
 			<fileset dir="${images}"/>
+		</copy>
+		<copy todir="${docs}/culture" >
+			<fileset dir="${culture}"/>
 		</copy>
 		<copy todir="${docs}" >
 			<fileset dir="${build}"/>

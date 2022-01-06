@@ -1,9 +1,5 @@
 # Secure Email Transfer Guide
 
-**Parent topic:** [Email Security Guide](email-security-guide.md)
-
-## Introduction
-
 This guide provides technical users with information about the services and encryption tools for transferring information securely using email. Ensure that email communication is sufficiently secured before transferring sensitive information. Examples of sensitive information include:
 
 -   `OFFICIAL-SENSITIVE` classified information such as personal data.
@@ -13,6 +9,11 @@ This guide provides technical users with information about the services and encr
 -   Private certificates for secure communication, transmitting, or receiving data using protocols such as TLS or SSL.
 -   Private encryption keys.
 -   RSA and other single-use password information.
+
+**Related information**  
+
+
+[Email Security Guide](email-security-guide.md)
 
 ## Transport Layer Security
 
@@ -115,7 +116,7 @@ Ensure that auto-forwarding is used responsibly, and in line with the MoJ's [Inf
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

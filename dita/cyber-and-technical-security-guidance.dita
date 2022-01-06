@@ -16,10 +16,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
       <body>
         <p>Popular links for all users:
           <ul>
+            <li><xref href="security-threat-level-and-emergency-procedures.dita" format="dita">Security threat level and emergency procedures</xref></li>
+            <li><xref href="overseas-travel.dita" format="dita">Overseas travel</xref> and <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref></li>
             <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">General app guidance</xref></li>
             <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements Guide</xref></li>
-            <li><xref href="official-official-sensitive.dita" format="dita">OFFICIAL, OFFICIAL-SENSITIVE</xref> classifications and handling</li>
-            <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref></li>
+            <li><xref href="government-classification-scheme.dita" format="dita">Government classification scheme</xref></li>
             <li><xref href="remote-working.dita" format="dita">Remote Working</xref></li>
           </ul>
         </p>
@@ -98,6 +99,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
 				</ol></p>
 			</body>
 		</topic>
+    <topic id="security-culture">
+      <title>Security culture</title>
+      <body>
+        <p>In addition to the obvious security resources such as policies, controls, and software and hardware tools, all organisations need employees, suppliers and other colleagues to behave in a way that helps ensure good security at all times. A simple example is where someone will act in a way that maintains good security, even if they don't know exactly what the formal process is. The extent to which an organisation has good security in indicated by its security culture.</p>
+        <p>Security culture refers to the set of values, shared by everyone in an organisation, that determines how people are expected to think about and approach security. Getting security culture right helps develop a security conscious workforce, and promotes the desired security behaviours expected from everyone working in or for the organisation.​</p>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/> is creating a portfolio of security culture resources to help supplement the formal policy and guidance material. Initial security culture material is available for preview <xref href="security-culture.dita" format="dita">here</xref>.</p>
+      </body>
+    </topic>
 		<topic id="getting-in-touch">
 			<title>Getting in touch</title>
 			<body>
@@ -617,10 +626,12 @@ has made for the products we operate, and our relationships with suppliers.</p>
 					<entry colname="col1" align="left"><xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref></entry>
 					<entry colname="col2" align="right">All users (Policy)</entry>
 				</row>
+        <!--
               <row>
-                <entry colname="col1" align="left"><xref href="official-official-sensitive.dita" format="dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/official-official-sensitive/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
+                <entry colname="col1" align="left"><xref href="official-official-sensitive.dita" format="dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
+            -->
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="secrets-management.dita" format="dita">Secrets management</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
@@ -822,22 +833,38 @@ has made for the products we operate, and our relationships with suppliers.</p>
           <title>Secure areas</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-				<row>
-					<entry colname="col1" align="left"><xref href="cctv-policy.dita" format="dita">CCTV policy</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="entry-and-exit-search-policy.dita" format="dita">Entry and exit search policy</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
+              <row>
+                <entry colname="col1" align="left"><xref href="cctv-policy.dita" format="dita">CCTV policy</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="entry-and-exit-search-policy.dita" format="dita">Entry and exit search policy</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
               <row>
                 <entry colname="col1" align="left"><xref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" format="dita">Personal mail and parcel delivery policy and procedure</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
-				<row>
-					<entry colname="col1" align="left"><xref href="physical-security-policy.dita" format="dita">Physical Security Policy</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
+              <row>
+                <entry colname="col1" align="left"><xref href="physical-security-policy.dita" format="dita">Physical security policy</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="public-protest-and-demonstrations-policy.dita" format="dita">Public protest and demonstrations policy</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="security-in-the-office.dita" format="dita">Security in the office</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="security-threat-level-and-emergency-procedures.dita" format="dita">Security threat level and emergency procedures</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="visitor-access-policy.dita" format="dita">Visitor access policy</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
             </tbody></tgroup></table>
           </body>
         </topic>
@@ -1136,6 +1163,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col1" align="left"><xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="sending-information-securely.dita" format="dita">Sending information securely</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="spam-and-phishing-guide.dita" format="dita">Spam and Phishing Guide</xref></entry>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
@@ -1429,14 +1460,24 @@ has made for the products we operate, and our relationships with suppliers.</p>
 		</topic>
     -->
     <body>
-      <p>A glossary of some terms used in this guidance is available <xref href="glossary.dita" format="dita">here</xref>.</p>
-      <p conref="conrefs.dita#conrefs/acronyms"></p>
+      <p>The <ph conref="conrefs.dita#conrefs/gov007"/> provides the base material for all security guidance in the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
     </body>
+    <topic id="glossary">
+      <title>Glossary</title>
+      <body>
+        <p>A glossary of some terms used in this guidance is available <xref href="glossary.dita" format="dita">here</xref>.</p>
+      </body>
+    </topic>
+    <topic id="acronyms">
+      <title>Acronyms</title>
+      <body>
+        <p conref="conrefs.dita#conrefs/acronyms"/>
+      </body>
+    </topic>
 		<topic id="technical-guidance">
 			<title>Technical Guidance</title>
 			<body>
 				<p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> should be read together with this security-focused guidance.</p>
-				<p>The <ph conref="conrefs.dita#conrefs/gov007"/> provides the base material for all security guidance in the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
 			</body>
 		</topic>
   </topic>

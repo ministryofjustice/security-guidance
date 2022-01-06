@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - /guides/standards-assurance-tables/
+---
 # Standards Assurance Tables
 
 The Ministry of Justice \(MoJ\) Cyber Security team have developed a 'Standards Assurance Table' \(SAT\) in the form of a Google Sheet template.

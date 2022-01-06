@@ -16,7 +16,6 @@
         -   [IT Security All Users Policy](https://security-guidance.service.justice.gov.uk/it-security-all-users-policy/)
         -   [IT Security Policy (Overview)](https://security-guidance.service.justice.gov.uk/it-security-policy-overview/)
         -   [Guidance on IT Accounts and Assets for Long Term Leave](https://security-guidance.service.justice.gov.uk/long-term-leave/)
-        -   [OFFICIAL, OFFICIAL-SENSITIVE](https://security-guidance.service.justice.gov.uk/official-official-sensitive/)
         -   [Personal devices](https://security-guidance.service.justice.gov.uk/personal-devices/)
         -   [Protecting social media accounts](https://security-guidance.service.justice.gov.uk/protecting-social-media-accounts/)
         -   [Protect yourself online](https://security-guidance.service.justice.gov.uk/protect-yourself-online/)
@@ -25,6 +24,7 @@
         -   [Secure Data Transfer Guide](https://security-guidance.service.justice.gov.uk/secure-data-transfer-guide/)
         -   [Secure disposal of IT equipment](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-equipment/)
         -   [Secure disposal of IT - physical and on-premise](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-physical-and-on-premise/)
+        -   [Sending information securely](https://security-guidance.service.justice.gov.uk/sending-information-securely/)
         -   [Web Browsing](https://security-guidance.service.justice.gov.uk/web-browsing/)
     * Laptops
         -   [Laptops](https://security-guidance.service.justice.gov.uk/laptops/)
@@ -36,6 +36,10 @@
         -   [Entry and exit search policy](https://security-guidance.service.justice.gov.uk/entry-and-exit-search-policy/)
         -   [Personal mail and parcel delivery policy and procedure](https://security-guidance.service.justice.gov.uk/personal-mail-and-parcel-delivery-policy-and-procedure/)
         -   [Physical Security Policy](https://security-guidance.service.justice.gov.uk/physical-security-policy/)
+        -   [Public protest and demonstrations policy](https://security-guidance.service.justice.gov.uk/public-protest-and-demonstrations-policy/)
+        -   [Security in the office](https://security-guidance.service.justice.gov.uk/security-in-the-office/)
+        -   [Security threat level and emergency procedures](https://security-guidance.service.justice.gov.uk/security-threat-level-and-emergency-procedures/)
+        -   [Visitor Access Policy](https://security-guidance.service.justice.gov.uk/visitor-access-policy/)
         -   [Working securely with paper documents and files](https://security-guidance.service.justice.gov.uk/working-securely-with-paper-documents-and-files/)
 * Incident management
     * [Reporting an incident](https://security-guidance.service.justice.gov.uk/reporting-an-incident/)
@@ -43,7 +47,7 @@
 * Remote working
     * [Remote Working](https://security-guidance.service.justice.gov.uk/remote-working/)
     * Overseas travel
-        -   [Accessing Ministry of Justice (MoJ) IT systems from overseas](https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/)
+        -   [Accessing MoJ IT systems from overseas](https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/)
         -   [General advice on taking equipment overseas](https://security-guidance.service.justice.gov.uk/general-advice-on-taking-equipment-overseas/)
         -   [Overseas travel](https://security-guidance.service.justice.gov.uk/overseas-travel/)
 * Risk assessment
@@ -75,6 +79,8 @@
     * [Government Classification Scheme](https://security-guidance.service.justice.gov.uk/government-classification-scheme/)
     * [Open internet tools](https://security-guidance.service.justice.gov.uk/guidance-for-using-open-internet-tools/)
     * [IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](https://security-guidance.service.justice.gov.uk/identify-protect-detect-respond-recover/)
+    * [IT Security All Users Policy](https://security-guidance.service.justice.gov.uk/it-security-all-users-policy/)
+    * [IT Security Policy (Overview)](https://security-guidance.service.justice.gov.uk/it-security-policy-overview/)
     * [Line Manager approval](https://security-guidance.service.justice.gov.uk/line-manager-approval/)
     * [Passwords](https://security-guidance.service.justice.gov.uk/passwords/)
     * [Password Managers](https://security-guidance.service.justice.gov.uk/password-managers/)

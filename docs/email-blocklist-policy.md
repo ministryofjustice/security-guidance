@@ -4,8 +4,6 @@ This document outlines the policy for blocking emails, and deleting emails throu
 
 To help identify formal policy statements, each is prefixed with an identifier of the form: `POLEBLxxx`, where `xxx` is a unique ID number.
 
-**Parent topic:** [Email Security Guide](email-security-guide.md)
-
 **Related information**  
 
 
@@ -18,6 +16,8 @@ To help identify formal policy statements, each is prefixed with an identifier o
 [Malware Protection Guide - Overview](malware-protection-guide-introduction.md)
 
 [Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md)
+
+[Email Security Guide](email-security-guide.md)
 
 ## Scope
 
@@ -112,7 +112,7 @@ The Cyber Security Team encourages the integration with 3rd party threat intelli
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

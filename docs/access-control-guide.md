@@ -4,12 +4,23 @@ redirect_from:
 ---
 # Access Control guide
 
+This guide explains how the Ministry of Justice \(MoJ\) manages access to its IT systems so that users have access only to the material they need to see. This guide has sub-pages which provide in-depth Access Control guidance.
+
 -   **[Privileged Account Management Guide](privileged-account-management-guide.md)**  
 
 
-## Introduction
+**Related information**  
 
-This guide explains how the Ministry of Justice \(MoJ\) manages access to its IT systems so that users have access only to the material they need to see. This guide has sub-pages which provide in-depth Access Control guidance.
+
+[Managing User Access Guide](managing-user-access-guide.md)
+
+[Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
+
+[Multi-Factor Authentication \(MFA\) Guide](multi-factor-authentication-mfa-guide.md)
+
+[Passwords](passwords.md)
+
+[Privileged Account Management Guide](privileged-account-management-guide.md)
 
 ## Who is this for?
 
@@ -18,20 +29,6 @@ This guide is aimed at two audiences:
 1.  The in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation.
 
 2.  Any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services \(including processing, transmitting and storing data\) for, or on behalf of the MoJ.
-
-
-## Related guides
-
-Further guidance on how to manage user access can be found in the following guides.
-
--   [Privileged Accounts](privileged-account-management-guide.md).
-
--   [Management Access](managing-user-access-guide.md).
-
-
--   [Minimum User Clearance Requirements](minimum-user-clearance-requirements-guide.md).
-
--   [Multi-Factor Authentication \(MFA\)](multi-factor-authentication-mfa-guide.md).
 
 
 ## Information security principles for access control
@@ -111,7 +108,7 @@ You can segregate duties in various ways, including:
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

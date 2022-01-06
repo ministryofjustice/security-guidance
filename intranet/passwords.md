@@ -10,6 +10,21 @@ This guidance is for all users.
 
 **Note:** Except where stated, the guidance in this article applies to both passwords and PINs.
 
+**Related information**  
+
+
+[Acceptable Use Policy](https://security-guidance.service.justice.gov.uk/acceptable-use-policy/)
+
+[Information Classification and Handling Policy](https://security-guidance.service.justice.gov.uk/information-classification-and-handling-policy/)
+
+[IT Security Policy (Overview)](https://security-guidance.service.justice.gov.uk/it-security-policy-overview/)
+
+[Passwords](https://security-guidance.service.justice.gov.uk/passwords/)
+
+[Secure disposal of IT equipment](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-equipment/)
+
+[Security in the office](https://security-guidance.service.justice.gov.uk/security-in-the-office/)
+
 ##General best practices
 
 **Note:** This section applies to passwords and PINs.
@@ -143,7 +158,7 @@ The following table shows the valid lifetime of a single-use password:
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 

@@ -1,5 +1,10 @@
 # Physical Security Policy
 
+**Related information**  
+
+
+[Security in the office](security-in-the-office.md)
+
 ## Audience
 
 This policy complements the Ministry of Justice \(MoJ\) overall security policy.
