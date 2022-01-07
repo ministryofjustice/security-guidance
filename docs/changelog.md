@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2022-01-07 14:36 GMT [Contact details for AWS](https://security-guidance.service.justice.gov.uk/baseline-aws-accounts/#security-incidents)**
+
+    Updated contact details for Baseline AWS accounts.
+
 -   **2022-01-06 09:36 GMT [System lockdown and hardening](https://security-guidance.service.justice.gov.uk/system-lockdown-and-hardening-standard/)**
 
     Guidance added to prevent outbound connections to random internet systems, unless this is a core part of their design. Firewall rules and other network configuration must prevent this.
