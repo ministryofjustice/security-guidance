@@ -2,6 +2,11 @@
 
 **Parent topic:** [Mobile Device and Remote Working Policy](mobile-device-and-remote-working-policy.md)
 
+**Related information**  
+
+
+[Security in the office](security-in-the-office.md)
+
 ## Key points
 
 -   **Do:** Be professional, and help keep Ministry of Justice \(MoJ\) information and resources safe and secure at all times.
@@ -155,12 +160,12 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 **Privacy Team**
 
 -   Email: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
--   Slack: `#securityprivacyteam`
+-   Slack: `#security_privacy_and_live_service_team`
 -   Intranet: [https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/)
 
 ### Cyber Security Advice
 
-**Cyber Consultants & Risk Advisors**
+**Cyber Consultants and Risk Advisors**
 
 -   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 -   Slack: `#security`

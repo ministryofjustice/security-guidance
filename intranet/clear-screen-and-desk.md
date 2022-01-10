@@ -4,6 +4,11 @@ There are many helpful policies and best practices that improve Ministry of Just
 
 **Note:** In addition to this advice in this document, you should review and follow the guidance in the [remote working](https://security-guidance.service.justice.gov.uk/remote-working/) guidance, for example [thinking before you print](https://security-guidance.service.justice.gov.uk/remote-working/#printing).
 
+**Related information**  
+
+
+[Security in the office](https://security-guidance.service.justice.gov.uk/security-in-the-office/)
+
 ##Clear screen
 
 Users **SHALL** comply with the following:
@@ -37,7 +42,7 @@ Information left on desks is also more likely to be damaged or destroyed in a di
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 

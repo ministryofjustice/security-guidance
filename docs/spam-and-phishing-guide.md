@@ -1,10 +1,11 @@
 # Spam and Phishing Guide
 
-**Parent topic:** [Email Security Guide](email-security-guide.md)
-
-## Introduction
-
 This guide outlines the technical implementations that technical users should make to keep Ministry of Justice \(MoJ\) systems secure.
+
+**Related information**  
+
+
+[Email Security Guide](email-security-guide.md)
 
 ## Common email threats
 
@@ -119,7 +120,7 @@ If you think your email service provision has been susceptible to spam or a viru
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

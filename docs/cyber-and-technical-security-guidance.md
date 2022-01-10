@@ -6,16 +6,17 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 9 November 2021.
+**Note:** This guidance is dated: 7 January 2022.
 
 ### Popular links
 
 Popular links for all users:
 
+-   [Security threat level and emergency procedures](security-threat-level-and-emergency-procedures.md)
+-   [Overseas travel](overseas-travel.md) and [accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
 -   [General app guidance](general-user-video-and-messaging-apps-guidance.md)
 -   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
--   [OFFICIAL, OFFICIAL-SENSITIVE](official-official-sensitive.md) classifications and handling
--   [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
+-   [Government classification scheme](government-classification-scheme.md)
 -   [Remote Working](remote-working.md)
 
 ### Change log
@@ -34,7 +35,15 @@ For convenience, offline versions of this guidance are available.
 |Group Security. Contains Group Security policy and guidance.|[PDF](moj-guidance-gs.pdf)|[EPUB](moj-guidance-gs.epub)|
 |Technical users. Includes lots of technical detail. This document contains all content, including for 'All users' and from Group Security. Download this document if you want the complete set of published MoJ security policy and guidance.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 9 December 2021.
+The offline versions of this guidance are time-limited, and are not valid after 7 February 2022.
+
+### Security culture
+
+In addition to the obvious security resources such as policies, controls, and software and hardware tools, all organisations need employees, suppliers and other colleagues to behave in a way that helps ensure good security at all times. A simple example is where someone will act in a way that maintains good security, even if they don't know exactly what the formal process is. The extent to which an organisation has good security in indicated by its security culture.
+
+Security culture refers to the set of values, shared by everyone in an organisation, that determines how people are expected to think about and approach security. Getting security culture right helps develop a security conscious workforce, and promotes the desired security behaviours expected from everyone working in or for the organisation.​
+
+The MoJ is creating a portfolio of security culture resources to help supplement the formal policy and guidance material. Initial security culture material is available for preview [here](security-culture.md).
 
 ### Getting in touch
 
@@ -166,7 +175,6 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Government Classification Scheme](government-classification-scheme.md)|All users|
 |[Information Classification and Handling Guide](information-classification-handling-and-security-guide.md)|All users|
 |[Information Classification and Handling Policy](information-classification-and-handling-policy.md)|All users \(Policy\)|
-|[`OFFICIAL` and `OFFICIAL-SENSITIVE`](official-official-sensitive.md)|All users|
 |[Secrets management](secrets-management.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 
 #### Media handling
@@ -232,7 +240,11 @@ The documents have been developed and defined within this taxonomy, and are list
 |[CCTV policy](cctv-policy.md)|All users|
 |[Entry and exit search policy](entry-and-exit-search-policy.md)|All users|
 |[Personal mail and parcel delivery policy and procedure](personal-mail-and-parcel-delivery-policy-and-procedure.md)|All users|
-|[Physical Security Policy](physical-security-policy.md)|All users|
+|[Physical security policy](physical-security-policy.md)|All users|
+|[Public protest and demonstrations policy](public-protest-and-demonstrations-policy.md)|All users|
+|[Security in the office](security-in-the-office.md)|All users|
+|[Security threat level and emergency procedures](security-threat-level-and-emergency-procedures.md)|All users|
+|[Visitor access policy](visitor-access-policy.md)|All users|
 
 #### Equipment
 
@@ -318,6 +330,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |[General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
 |[Secure Data Transfer Guide](secure-data-transfer-guide.md)|All users|
 |[Secure Email Transfer Guide](secure-email-transfer-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Sending information securely](sending-information-securely.md)|All users|
 |[Spam and Phishing Guide](spam-and-phishing-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Web browsing security policy profiles](web-browsing-security-policy-profiles.md)|All users \(Policy\)|
 |[Wifi security policy](wifi-security-policy.md)|All users \(Policy\)|
@@ -407,15 +420,19 @@ The documents have been developed and defined within this taxonomy, and are list
 
 ## Other Guidance
 
+The [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) provides the base material for all security guidance in the MoJ.
+
+### Glossary
+
 A glossary of some terms used in this guidance is available [here](glossary.md).
+
+### Acronyms
 
 A more extensive list of acronyms is available [here](https://ministryofjustice.github.io/acronyms/).
 
 ### Technical Guidance
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) should be read together with this security-focused guidance.
-
-The [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) provides the base material for all security guidance in the MoJ.
 
 ## Feedback
 

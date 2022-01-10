@@ -36,7 +36,7 @@ The following downloads are available from the MoJ Intranet.
 
 * [National Security Vetting contact guide](/documents/2016/08/national-security-vetting-contact-guide.doc).
 
-* [National Security Vetting contact registration form](./gs/NSVC_Registration_Form.docx)
+* [National Security Vetting contact registration form](./gs/national-security-vetting-contact-form.pdf)
 
 * [National Security Vetting contacts register](/documents/2019/08/national-security-vetting-contacts-register.xlsx).
 

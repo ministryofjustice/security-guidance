@@ -2,6 +2,13 @@
 
 This guidance helps you use Bluetooth enabled devices and peripheral devices.
 
+**Related information**  
+
+
+[Personal devices](https://security-guidance.service.justice.gov.uk/personal-devices/)
+
+##Overview
+
 [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) is a very short range wifi technology. In everyday terms, Bluetooth devices can 'talk to each other' if they are very close, for example in the same room. This makes Bluetooth really good for wireless devices, for example a telephone headset, or a mouse or keyboard.
 
 Bluetooth works by 'pairing' devices. This makes it quick and simple to use. The problem is that Bluetooth, and the pairing process, is not very secure. This means that attackers might get unauthenticated access to devices. As an example, an attacker 'listening' to the Bluetooth connection between a computer and a keyboard could possibly intercept passwords or other sensitive information as the details are typed on the keyboard.
@@ -42,6 +49,7 @@ Examples of Bluetooth devices, and whether they might be used for business purpo
 |Smart TVs|N - requires authorisation|
 |Storage devices (similar to USB 'thumb' drives)|N|
 |Internet-of-things 'Smart speakers'|N|
+|Connected vehicles|N - Connected vehicles are effectively Bluetooth-connected storage devices.|
 
 A Bluetooth device might be at risk from any of the following:
 
@@ -88,7 +96,7 @@ Generally speaking, Bluetooth devices do not present extra problems when working
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 

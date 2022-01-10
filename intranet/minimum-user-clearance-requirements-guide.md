@@ -1,10 +1,8 @@
 #Minimum User Clearance Requirements Guide
 
-**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
-
-##Introduction
-
 This Minimum User Clearance Requirements Guide outlines the level of security clearance required for staff in order to access specific account types.
+
+**Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##Security clearance levels
 
@@ -40,7 +38,7 @@ Please contact the Cyber Assistance Team and refer to the [Vetting Policy](/guid
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 

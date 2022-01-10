@@ -4,6 +4,10 @@
 	<title>Bluetooth</title>
 	<body>
 		<p>This guidance helps you use Bluetooth enabled devices and peripheral devices.</p>
+	</body>
+	<topic id="overview">
+		<title>Overview</title>
+		<body>
 		<p><xref href="https://en.wikipedia.org/wiki/Bluetooth" format="html" scope="external">Bluetooth</xref> is a very short range wifi technology. In everyday terms, Bluetooth devices can 'talk to each other' if they are very close, for example in the same room. This makes Bluetooth really good for wireless devices, for example a telephone headset, or a mouse or keyboard.</p>
 		<p>Bluetooth works by 'pairing' devices. This makes it quick and simple to use. The problem is that Bluetooth, and the pairing process, is not very secure. This means that attackers might get unauthenticated access to devices. As an example, an attacker 'listening' to the Bluetooth connection between a computer and a keyboard could possibly intercept passwords or other sensitive information as the details are typed on the keyboard.</p>
 		<p>This guidance tells you more about the <ph conref="conrefs.dita#conrefs/mojlong"/> view of Bluetooth, from a security perspective. It also gives you hints and tips on how to use Bluetooth more safely.</p>
@@ -15,7 +19,8 @@
 		</ul>
 		</p>
 		<note importance="high">Remember that there might be local rules that apply regarding the use of Bluetooth devices. A good example is in Prisons, where use of Bluetooth would not be available by default. Ensure that you check with local requirements.</note>
-	</body>
+		</body>
+	</topic>
 	<topic id="accessibility">
 		<title>Accessibility</title>
 		<body>
@@ -93,6 +98,10 @@
 						<row>
 							<entry colname="col1">Internet-of-things 'Smart speakers'</entry>
 							<entry colname="col2">N</entry>
+						</row>
+						<row>
+							<entry colname="col1">Connected vehicles</entry>
+							<entry colname="col2">N - Connected vehicles are effectively Bluetooth-connected storage devices.</entry>
 						</row>
 						</tbody>
 					</tgroup>

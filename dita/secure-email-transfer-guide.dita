@@ -2,29 +2,25 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="secure-email-transfer-guide">
   <title>Secure Email Transfer Guide</title>
-  <body/>
-  <topic id="introduction">
-    <title>Introduction</title>
-    <body>
-      <p>This guide provides technical users with information about the services
-        and encryption tools for transferring information securely using email.
-        Ensure that email communication is sufficiently secured before
-        transferring sensitive information.
-        Examples of sensitive information include:
-      <ul>
-        <li><codeph>OFFICIAL-SENSITIVE</codeph> classified information such as personal data.</li>
-        <li>API and other application keys or credentials,
-          including within containers.</li>
-        <li>SSH keys.</li>
-        <li>Database and other system-to-system passwords.</li>
-        <li>Private certificates for secure communication,
-          transmitting,
-          or receiving data using protocols such as TLS or SSL.</li>
-        <li>Private encryption keys.</li>
-        <li>RSA and other single-use password information.</li>
-      </ul></p>
-    </body>
-  </topic>
+  <body>
+    <p>This guide provides technical users with information about the services
+      and encryption tools for transferring information securely using email.
+      Ensure that email communication is sufficiently secured before
+      transferring sensitive information.
+      Examples of sensitive information include:
+    <ul>
+      <li><codeph>OFFICIAL-SENSITIVE</codeph> classified information such as personal data.</li>
+      <li>API and other application keys or credentials,
+        including within containers.</li>
+      <li>SSH keys.</li>
+      <li>Database and other system-to-system passwords.</li>
+      <li>Private certificates for secure communication,
+        transmitting,
+        or receiving data using protocols such as TLS or SSL.</li>
+      <li>Private encryption keys.</li>
+      <li>RSA and other single-use password information.</li>
+    </ul></p>
+  </body>
   <topic id="transport-layer-security">
     <title>Transport Layer Security</title>
     <body>

@@ -1,5 +1,10 @@
 # Managing User Access Guide
 
+**Related information**  
+
+
+[Access Control guide](access-control-guide.md)
+
 ## Introduction
 
 This guide provides information on the authentication methods which should be used to manage user access to systems and information in the Ministry of Justice \(MoJ\). This is a sub-page to the [Access Control Guide](access-control-guide.md).
@@ -35,7 +40,7 @@ The Government Digital Service \(GDS\) recommends the use of the open authorisat
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

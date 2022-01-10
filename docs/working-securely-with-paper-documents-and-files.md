@@ -2,6 +2,11 @@
 
 To help identify formal policy statements, each is prefixed with an identifier of the form: `POLPPRxxx`, where xxx is a unique ID number.
 
+**Related information**  
+
+
+[Security in the office](security-in-the-office.md)
+
 ## Audience
 
 This guidance complements the Ministry of Justice \(MoJ\) overall security policy.
@@ -163,7 +168,7 @@ Physical security advice can be obtained by contacting [MoJ Group Security](mail
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

@@ -18,6 +18,11 @@ if an audience attribute is present, then only matching content is included.
 		<topicref href="user-guide.dita" type="topic" audience="audience-basic audience-tech"/>
 	</topichead>
 
+	<topichead audience="audience-basic audience-tech">
+		<topicmeta><navtitle>Security culture</navtitle></topicmeta>
+		<topicref href="security-culture.dita" type="topic"/>
+	</topichead>
+
 	<topichead audience="audience-basic audience-suppliers audience-tech">
 		<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Information security policies</navtitle></topicmeta>
 		<topichead audience="audience-basic audience-suppliers audience-tech">
@@ -104,7 +109,9 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="information-classification-handling-and-security-guide.dita" type="topic" audience="audience-basic audience-suppliers audience-tech">
 				<topicref href="information-classification-and-handling-policy.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			</topicref>
+			<!--
 			<topicref href="official-official-sensitive.dita" type="topic" audience="audience-basic audience-tech"/>
+			-->
 			<topicref href="secrets-management.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 		<topichead audience="audience-basic audience-suppliers audience-tech">
@@ -181,6 +188,10 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="entry-and-exit-search-policy.dita" type="topic"/>
 			<topicref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" type="topic"/>
 			<topicref href="physical-security-policy.dita" type="topic"/>
+			<topicref href="public-protest-and-demonstrations-policy.dita" type="topic"/>
+			<topicref href="security-in-the-office.dita" type="topic"/>
+			<topicref href="security-threat-level-and-emergency-procedures.dita" type="topic"/>
+			<topicref href="visitor-access-policy.dita" type="topic"/>
 		</topichead>
 		<topichead>
 			<topicmeta><navtitle>Equipment</navtitle></topicmeta>
@@ -189,7 +200,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="laptops.dita" type="topic"/>
 			<topicref href="locking-and-shutdown.dita" type="topic"/>
 			<topicref href="policies-for-macbook-users.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="system-lockdown-and-hardening-standard.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="system-lockdown-and-hardening-standard.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 	</topichead>
 
@@ -273,15 +284,15 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="cjsm.dita" type="topic" audience="audience-tech"/>
 			<topicref href="data-sovereignty.dita" type="topic" audience="audience-tech"/>
 			<topicref href="email.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
-			<topicref href="email-security-guide.dita" type="topic" audience="audience-suppliers audience-tech">
-				<topicref href="email-authentication-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
-				<topicref href="email-blocklist-policy.dita" type="topic" audience="audience-tech"/>
-				<topicref href="email-blocklist-process.dita" type="topic" audience="audience-tech"/>
-				<topicref href="secure-email-transfer-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
-				<topicref href="spam-and-phishing-guide.dita" type="topic" audience="audience-tech"/>
-			</topicref>
+			<topicref href="email-authentication-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="email-blocklist-policy.dita" type="topic" audience="audience-tech"/>
+			<topicref href="email-blocklist-process.dita" type="topic" audience="audience-tech"/>
+			<topicref href="email-security-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="secure-data-transfer-guide.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="secure-email-transfer-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="sending-information-securely.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="spam-and-phishing-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="web-browsing.dita" type="topic" audience="audience-basic audience-tech">
 				<topicref href="web-browsing-security-policy-profiles.dita" type="topic" audience="audience-basic audience-tech"/>
 			</topicref>
@@ -501,6 +512,61 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="system-lockdown-and-hardening-standard.dita"/>
 				<topicref href="system-test-standard.dita"/>
 				<topicref href="use-of-hmg-cryptography-policy.dita"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="sending-information-securely.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="it-security-policy-overview.dita" linking="targetonly"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="security-in-the-office.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="clear-screen-and-desk.dita"/>
+				<topicref href="mobile-device-and-remote-working-policy.dita"/>
+				<topicref href="passwords.dita"/>
+				<topicref href="physical-security-policy.dita"/>
+				<topicref href="remote-working.dita"/>
+				<topicref href="removable-media.dita"/>
+				<topicref href="reporting-an-incident.dita"/>
+				<topicref href="working-securely-with-paper-documents-and-files.dita"/>
+			</relcell>
+		</relrow>
+		<relrow audience="audience-tech">
+			<relcell>
+				<topicref href="access-control-guide.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="managing-user-access-guide.dita"/>
+				<topicref href="minimum-user-clearance-requirements-guide.dita"/>
+				<topicref href="multi-factor-authentication-mfa-guide.dita"/>
+				<topicref href="passwords.dita"/>
+				<topicref href="privileged-account-management-guide.dita"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="bluetooth.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="personal-devices.dita"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="email-security-guide.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="email-authentication-guide.dita"/>
+				<topicref href="email-blocklist-policy.dita"/>
+				<topicref href="email-blocklist-process.dita"/>
+				<topicref href="secure-email-transfer-guide.dita"/>
+				<topicref href="spam-and-phishing-guide.dita"/>
 			</relcell>
 		</relrow>
 	</reltable>

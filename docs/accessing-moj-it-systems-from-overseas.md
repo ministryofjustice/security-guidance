@@ -1,6 +1,6 @@
-# Accessing Ministry of Justice \(MoJ\) IT systems from overseas
+# Accessing MoJ IT systems from overseas
 
-This guidance information applies to all staff, contractors and agency staff who work for the MoJ.
+This guidance information applies to all staff, contractors and agency staff who work for the Ministry of Justice \(MoJ\).
 
 **Note:** If you are national security cleared to SC or DV levels, or subject to STRAP briefing, follow this process for all your trips, regardless of whether they are for business or personal reasons.
 
@@ -22,7 +22,7 @@ In general, from a security perspective it is acceptable for MoJ users to access
 1.  Get confirmation from your Senior Line Manager \(Head of your immediate team\) that there is a business need for you to take MoJ IT equipment overseas and access MoJ services. Keep a note of the answers you get.
 2.  Proceed directly to [Part Two](#part-two) of this process if you are travelling to or passing through one of the following countries **and** are intending to take any MoJ equipment or devices:
 
-    > Argentina, Armenia, Azerbaijan, Belarus, China \(including Hong Kong\), Egypt, Estonia, Georgia, India, Indonesia, Iran, Israel, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, the northern area of the Republic of Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey, Turkmenistan, UAE, Ukraine, Uzbekistan.
+    > Argentina, Armenia, Azerbaijan, Belarus, China \(including Hong Kong, Macau, and Tibet\), Cuba, Egypt, Estonia, France, Georgia, Germany, India, Indonesia, Iran, Iraq, Israel \(including Palestinian territories\), Kazakhstan, Kyrgyzstan, Latvia, Lebanon, Libya, Lithuania, Moldova, the northern area of the Republic of Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, Serbia, South Africa, South Korea, Syria, Taiwan, Tajikistan, Turkey, Turkmenistan, UAE, Ukraine, Uzbekistan, Vietnam.
 
 3.  Proceed directly to [Part Two](#part-two) of this process if you are national security cleared to SC or DV levels, **and** are planning to travel to or pass through one of the listed countries previously, regardless of whether or not you are taking MoJ IT equipment or planning to access MoJ systems or services.
 4.  If you are subject to STRAP briefing and intend to travel to or through countries not in Western Europe, North America, Australia, or New Zealand, notify the STRAP team at [STRAPTeam@cluster2security.gov.uk](mailto:STRAPTeam@cluster2security.gov.uk) **and** proceed directly to [Part Two](#part-two) of this process.
@@ -95,7 +95,7 @@ If there is a problem with your MoJ equipment, it might be necessary to disable 
 
 ### Operational Security Team
 
--   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
+-   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 -   Slack: `#security`
 
 ### IT Service Desk
@@ -116,7 +116,7 @@ During UK working hours, MoJ \(but not HMPPS\) staff should follow the process o
 
 ### MoJ Security
 
--   Email: [security@Justice.gov.uk](mailto:security@Justice.gov.uk)
+-   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 
 ## Feedback
 

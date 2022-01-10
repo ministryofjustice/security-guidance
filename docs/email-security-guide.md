@@ -1,19 +1,19 @@
 # Email Security Guide
 
--   **[Email Authentication Guide](email-authentication-guide.md)**  
-
--   **[Email blocking policy](email-blocklist-policy.md)**  
-
--   **[Email blocking process](email-blocklist-process.md)**  
-
--   **[Secure Email Transfer Guide](secure-email-transfer-guide.md)**  
-
--   **[Spam and Phishing Guide](spam-and-phishing-guide.md)**  
-
-
-## Introduction
-
 This guide sets out the requirements for implementing and maintaining email security across the Ministry of Justice \(MoJ\).
+
+**Related information**  
+
+
+[Email Authentication Guide](email-authentication-guide.md)
+
+[Email blocking policy](email-blocklist-policy.md)
+
+[Email blocking process](email-blocklist-process.md)
+
+[Secure Email Transfer Guide](secure-email-transfer-guide.md)
+
+[Spam and Phishing Guide](spam-and-phishing-guide.md)
 
 ## Who is this for?
 
@@ -44,9 +44,10 @@ All technical users are responsible for maintaining and using the MoJ's email co
 
 By default, users **SHALL NOT** access the email accounts of any other users, unless they are authorised to do so as required by their role. Access is authorised on a case-by-case basis only, and is normally aligned to the following circumstances:
 
--   During a criminal investigation by a law enforcement agency.
--   During an employee investigation relating to misconduct or a security incident, for example IT misuse.
+-   After a criminal investigation has been opened by a law enforcement agency.
+-   After an employee investigation has been opened relating to misconduct or a security incident, for example IT misuse.
 -   Upon the death or unexpected exit of an employee, for example to enable retrieval of business information or closing down an account.
+-   For long-term archiving of information no longer in current use.
 
 Anyone required to enable or carry out authorised access to a user account should follow the guidance in the [Privileged User Guide](privileged-user-guide.md).
 
@@ -78,7 +79,7 @@ For further details, refer to the [Privileged User Guide](privileged-user-guide.
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 

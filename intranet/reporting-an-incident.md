@@ -2,6 +2,11 @@
 
 Ministry of Justice (MoJ) colleagues should visit [/guidance/security/report-a-security-incident/](/guidance/security/report-a-security-incident/) on the MoJ Intranet. Alternatively, if the incident is of a cyber security nature then use [Report a cyber security incident](https://goo.gl/forms/frsB1h8AGv3Zefwq2).
 
+**Related information**  
+
+
+[Security in the office](https://security-guidance.service.justice.gov.uk/security-in-the-office/)
+
 ---
 
 ##Feedback

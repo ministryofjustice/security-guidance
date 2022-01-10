@@ -4,6 +4,19 @@ This document is the Ministry of Justice (MoJ) Acceptable Use Policy. It provide
 
 To help identify formal policy statements, each is prefixed with an identifier of the form: `POL.ITAUP.xxx`, where xxx is a unique ID number.
 
+**Related information**  
+
+
+[Acceptable Use Policy](https://security-guidance.service.justice.gov.uk/acceptable-use-policy/)
+
+[Information Classification and Handling Policy](https://security-guidance.service.justice.gov.uk/information-classification-and-handling-policy/)
+
+[IT Security Policy (Overview)](https://security-guidance.service.justice.gov.uk/it-security-policy-overview/)
+
+[Passwords](https://security-guidance.service.justice.gov.uk/passwords/)
+
+[Secure disposal of IT equipment](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-equipment/)
+
 ##Introduction
 
 MoJ IT systems and services are first and foremost provided to support the delivery of the MoJ's business services. To achieve this, most MoJ users are provided with an appropriate general purpose computer environment, and access to services and communication tools such as email and the Internet.
@@ -136,7 +149,7 @@ External email and the Internet are, in general, insecure services where it is p
 
 Users are responsible for ensuring that all information is handled in line with the protective marking of that information, in accordance with the [Information Classification and Handling Policy](https://security-guidance.service.justice.gov.uk/information-classification-and-handling-policy/).
 
-The MoJ is connected to the Government network, which provides a secure environment for sending or receiving emails between Government departments. This allows Users with an MoJ email account (normally with the suffix '`@justice.gov.uk`') to send `OFFICIAL` emails with [handling caveats](https://security-guidance.service.justice.gov.uk/official-official-sensitive/) such as `SENSITIVE` to another MoJ or government User, where their email suffix ends in '`gov.uk`'.
+The MoJ is connected to the Government network, which provides a secure environment for sending or receiving emails between Government departments. This allows Users with an MoJ email account (normally with the suffix '`@justice.gov.uk`') to send `OFFICIAL` emails with [handling caveats](https://security-guidance.service.justice.gov.uk/government-classification-scheme/) such as `SENSITIVE` to another MoJ or government User, where their email suffix ends in '`gov.uk`'.
 
 `POL.ITAUP.021`: All Users **SHALL** ensure that information contained within or attached to an email is handled in accordance with the [Information Classification and Handling Policy](https://security-guidance.service.justice.gov.uk/information-classification-and-handling-policy/).
 
@@ -228,7 +241,7 @@ For more information on these protocols and procedures, contact the [Data Privac
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 
