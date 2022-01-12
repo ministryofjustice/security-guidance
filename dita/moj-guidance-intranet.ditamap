@@ -67,7 +67,6 @@ if an audience attribute is present, then only matching content is included.
 		<topicmeta><navtitle>Incident management</navtitle></topicmeta>
 		<topicref href="reporting-an-incident.dita" type="topic"/>
 		<topicref href="lost-devices-incidents.dita" type="topic"/>
-		<topicref href="security-breach-guidance.dita" type="topic"/>
 	</topichead>
 	<topichead>
 		<topicmeta><navtitle>Remote working</navtitle></topicmeta>

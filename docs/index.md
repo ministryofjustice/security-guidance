@@ -115,7 +115,6 @@ The documents have been developed and defined within this taxonomy, and are list
 |[IT Security Policy \(Overview\)](it-security-policy-overview.md)|All users \(Policy\)|
 |[IT Security Technical Users Policy](it-security-technical-users-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer \(Policy\)|
 |[Line Manager approval](line-manager-approval.md)|All users|
-|[Security breach guidance](security-breach-guidance.md)|All users|
 |[Shared Responsibility Models](shared-responsibility-models.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Technical Controls Policy](technical-controls-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 

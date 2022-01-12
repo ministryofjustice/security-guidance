@@ -87,14 +87,5 @@
     * [Avoiding too much security](https://security-guidance.service.justice.gov.uk/setecastronomy/)
     * [Using LastPass Enterprise](https://security-guidance.service.justice.gov.uk/using-lastpass/)
 * Training and education
-<<<<<<< HEAD
-    * [Training and Education](training-and-education.md)
-* Physical security
-    * [CCTV policy](cctv-policy.md)
-    * [Entry and exit search policy](entry-and-exit-search-policy.md)
-    * [Personal mail and parcel delivery policy and procedure](personal-mail-and-parcel-delivery-policy-and-procedure.md)
-    * [Physical Security Policy](physical-security-policy.md)
-=======
     * [Training and Education](https://security-guidance.service.justice.gov.uk/training-and-education/)
->>>>>>> main
 
