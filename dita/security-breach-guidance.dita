@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="security-breach-policy">
-  <title>Security breach policy</title>
+<topic id="security-breach-guidance">
+  <title>Security breach guidance</title>
   <body>
-      <p>This document provides an overview of the <ph conref="conrefs.dita#conrefs/mojlong"/> Security Breach Policy, which applies across the entire estate, including <ph conref="conrefs.dita#conrefs/moj"/> agencies and other related offices.</p>
-      <p>To help identify formal policy statements, each is prefixed with an identifier of the form: <codeph>POLSBPxxx</codeph>, where <codeph>xxx</codeph> is a unique ID number.</p>
+      <p>This document provides an overview of the <ph conref="conrefs.dita#conrefs/mojlong"/> Security Breach guidance, which applies across the entire estate, including <ph conref="conrefs.dita#conrefs/moj"/> agencies and other related offices.</p>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/> takes its responsibilities for security seriously.
           All <ph conref="conrefs.dita#conrefs/moj"/> employees,
           including contractors and agency staff,
@@ -28,7 +27,7 @@
           <note>This list is not comprehensive.</note></p>
       <p>Such behaviour constitutes a form of misconduct that <ph conref="conrefs.dita#conrefs/policycan"/> then result
           in disciplinary action being taken against an employee,
-          in accordance with <ph conref="conrefs.dita#conrefs/moj"/> Disciplinary Policy.
+          in accordance with <xref href="https://intranet.justice.gov.uk/documents/2015/04/discipline-policy-and-guidance.pdf" format="pdf" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Disciplinary Policy</xref>.
           Failure of a contractor to comply <ph conref="conrefs.dita#conrefs/policymight"/> lead to the cancellation of
           a contract.
           In certain circumstances,
@@ -37,25 +36,26 @@
     <topic id="scope">
         <title>Scope</title>
         <body>
-            <p>Each agency and business area within the <ph conref="conrefs.dita#conrefs/moj"/> is responsible for developing arrangements to comply with the principles of this policy.</p>
+            <p>Each agency and business area within the <ph conref="conrefs.dita#conrefs/moj"/> is responsible for developing arrangements to comply with the principles of this guidance.</p>
         </body>
     </topic>
     <topic id="principles">
         <title>Principles</title>
         <body>
             <ol>
-                <li><codeph>POLSBP001</codeph>: All employees,
+                <li>All employees,
                     including contractors and agency staff,
+                    and also including interims, secondees, fixed term contractors, and temporary staff from third party providers,
                     <ph conref="conrefs.dita#conrefs/policyshall"/> observe security policies.
                     This includes adherence to the requirements of the Official Secrets Act, the <xref href="https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code" format="html" scope="external">Civil Service Code</xref>, <ph conref="conrefs.dita#conrefs/moj"/> <ph platform="github"><xref href="cyber-and-technical-security-guidance.dita" format="dita" platform="html">security</xref><xref href="https://security-guidance.service.justice.gov.uk/" format="html" platform="epub pdf" scope="external">security</xref></ph><ph platform="intranet"><xref href="https://security-guidance.service.justice.gov.uk/" format="html" scope="external">security</xref></ph> and <xref href="information-classification-handling-and-security-guide.dita" format="dita" platform="html">IT</xref><xref href="https://security-guidance.service.justice.gov.uk/information-classification-handling-and-security-guide/" format="html" platform="epub pdf" scope="external">IT</xref> policies, and any local or agency level security instructions.</li>
-                <li><codeph>POLSBP002</codeph>: Across the <ph conref="conrefs.dita#conrefs/moj"/> estate,
+                <li>Across the <ph conref="conrefs.dita#conrefs/moj"/> estate,
                     there <ph conref="conrefs.dita#conrefs/policyshall"/> be arrangements in place to ensure the
                     effective identification and investigation of security breaches,
                     whether committed by employees or other persons.
                     These <ph conref="conrefs.dita#conrefs/policyshall"/> be recorded centrally as security incidents to
                     ensure trends are identified,
                     and if necessary analysed to ensure adequacy of controls.</li>
-                <li><codeph>POLSBP003</codeph>: Each organisation across the <ph conref="conrefs.dita#conrefs/moj"/> estate
+                <li>Each organisation across the <ph conref="conrefs.dita#conrefs/moj"/> estate
                     <ph conref="conrefs.dita#conrefs/policyshould"/> publish specific guidance to ensure its managers
                     and all employees clearly understand that a breach of their security responsibilities
                     <ph conref="conrefs.dita#conrefs/policyshall"/> constitute a form of misconduct.
@@ -79,7 +79,7 @@
     <topic id="roles-and-responsibilities">
         <title>Roles and Responsibilities</title>
         <body>
-            <p><codeph>POLSBP004</codeph>: Everyone has a role to play in ensuring that we work in a safe and secure environment,
+            <p>Everyone has a role to play in ensuring that we work in a safe and secure environment,
                 and that the data and other sensitive assets we manage are correctly protected.
                 Security procedures <ph conref="conrefs.dita#conrefs/policyshall"/> apply equally to all who work in the <ph conref="conrefs.dita#conrefs/moj"/>,
                 including ministers,
@@ -93,14 +93,14 @@
     <topic id="security-breaches-and-the-discipline-policy">
         <title>Security breaches and the discipline policy</title>
         <body>
-            <p><codeph>POLSBP005</codeph>: The disciplinary policy exists to maintain good working practices and standards of conduct throughout the
+            <p>The <xref href="https://intranet.justice.gov.uk/documents/2015/04/discipline-policy-and-guidance.pdf" format="pdf" scope="external">disciplinary policy</xref> exists to maintain good working practices and standards of conduct throughout the
                 <ph conref="conrefs.dita#conrefs/moj"/>.
                 Its principal objective is to encourage improvements in personal conduct rather than to impose penalties
                 on individuals.
                 This policy applies to all employees,
                 although those on probation <ph conref="conrefs.dita#conrefs/policyshall"/> have disciplinary matters
                 dealt with under the probation policy.</p>
-            <p><codeph>POLSBP006</codeph>: Security breaches resulting from an infringement of the security policy
+            <p>Security breaches resulting from an infringement of the security policy
                 <ph conref="conrefs.dita#conrefs/policycan"/> lead to the issue of a breach notice.
                 Subject to the circumstances, issuing a breach notice <ph conref="conrefs.dita#conrefs/policymight"/>
                 then initiate the commencement of disciplinary procedures.
@@ -111,7 +111,7 @@
                 Each case <ph conref="conrefs.dita#conrefs/policyshould"/> be judged according to the level of
                 misconduct,
                 particularly where the behavior is repeated or considered to be deliberate.
-                Advice on when it is appropriate to use the Discipline Policy can be obtained by contacting the
+                Advice on when it is appropriate to use the <xref href="https://intranet.justice.gov.uk/documents/2015/04/discipline-policy-and-guidance.pdf" format="pdf" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Disciplinary Policy</xref> can be obtained by contacting the
                 <xref href="mailto:Moj-hr-enquiries@gov.sscl.com" format="html" scope="external">Human Resources
                     Directorate</xref>.</p>
         </body>
@@ -138,8 +138,8 @@
                         particularly Palace of Westminster passes or those that gain access to sensitive areas.
                     <note>Some <ph conref="conrefs.dita#conrefs/moj"/> staff have Palace of Westminster passes in order to perform their Private Office or Policy roles.</note></li>
                     <li>Unauthorised password or account sharing.</li>
-                    <li>Failure to secure documents classified at <codeph>OFFICIAL</codeph> level.</li>
-                    <li>Negligence leading to the loss of classified documents or assets at <codeph>OFFICIAL</codeph> level.</li>
+                    <li>Failure to secure documents classified at <ph conref="conrefs.dita#conrefs/official"/> level.</li>
+                    <li>Negligence leading to the loss of classified documents or assets at <ph conref="conrefs.dita#conrefs/official"/> level.</li>
                     <li>Non-compliance leading to the loss or unauthorised release of significant amounts of personal data.</li>
                     <li>Failure to lock security cabinets.</li>
                     <li>Negligence leading to the loss of portable assets,
@@ -163,8 +163,8 @@
             <body>
                 <ul>
                     <li>Unauthorised disclosure of classified material to third parties.</li>
-                    <li>Negligence and non-compliance leading to breach of security related to <codeph>SECRET</codeph>,
-                        <codeph>TOP SECRET</codeph> and <codeph>STRAP</codeph> material.</li>
+                    <li>Negligence and non-compliance leading to breach of security related to <ph conref="conrefs.dita#conrefs/secret"/>,
+                        <ph conref="conrefs.dita#conrefs/topsecret"/> and <codeph>STRAP</codeph> material.</li>
                     <li>Any criminal act,
                         including fraud,
                         theft,
