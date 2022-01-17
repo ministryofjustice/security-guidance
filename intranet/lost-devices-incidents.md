@@ -2,6 +2,11 @@
 
 **This guidance applies to all staff and contractors who work for the Ministry of Justice (MoJ).**
 
+**Related information**  
+
+
+[Laptops](https://security-guidance.service.justice.gov.uk/laptops/)
+
 ##What to do if your device is lost, stolen, or compromised
 
 If MoJ data or information is lost or compromised, you should always [report it as a data incident](/guidance/security/report-a-security-incident/).
@@ -27,7 +32,7 @@ Find out more about how to [report a security incident](/guidance/security/repor
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 

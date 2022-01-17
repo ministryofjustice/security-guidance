@@ -160,12 +160,12 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 **Privacy Team**
 
 -   Email: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
--   Slack: `#securityprivacyteam`
+-   Slack: `#security_privacy_and_live_service_team`
 -   Intranet: [https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/)
 
 ### Cyber Security Advice
 
-**Cyber Consultants & Risk Advisors**
+**Cyber Consultants and Risk Advisors**
 
 -   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 -   Slack: `#security`

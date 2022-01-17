@@ -4,6 +4,19 @@ This document is the Ministry of Justice (MoJ) Acceptable Use Policy. It provide
 
 To help identify formal policy statements, each is prefixed with an identifier of the form: `POL.ITAUP.xxx`, where xxx is a unique ID number.
 
+**Related information**  
+
+
+[Acceptable Use Policy](https://security-guidance.service.justice.gov.uk/acceptable-use-policy/)
+
+[Information Classification and Handling Policy](https://security-guidance.service.justice.gov.uk/information-classification-and-handling-policy/)
+
+[IT Security Policy (Overview)](https://security-guidance.service.justice.gov.uk/it-security-policy-overview/)
+
+[Passwords](https://security-guidance.service.justice.gov.uk/passwords/)
+
+[Secure disposal of IT equipment](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-equipment/)
+
 ##Introduction
 
 MoJ IT systems and services are first and foremost provided to support the delivery of the MoJ's business services. To achieve this, most MoJ users are provided with an appropriate general purpose computer environment, and access to services and communication tools such as email and the Internet.
@@ -228,7 +241,7 @@ For more information on these protocols and procedures, contact the [Data Privac
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 

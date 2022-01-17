@@ -11,13 +11,8 @@ The response level across the government estate is currently at `HEIGHTENED`. T
 If you become aware of an incident that threatens the physical security of Ministry of Justice \(MoJ\) staff or premises: 
 
 -   In situations that present an immediate threat call MoJ Group Security on 07583035594, including out of hours \(24/7\).
-
 -   In non-urgent cases, create a [security incident report](https://intranet.justice.gov.uk/documents/2015/04/security-incident-report-form.xls), and email it to [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
--   Dial 999 in an emergency. 
-
-
- 
+-   Dial 999 in an emergency.
 
 We are constantly reviewing our security operations and contingency planning across the MoJ estate. It is essential that staff support us by remaining vigilant and cooperating with [security policies](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/).
 
@@ -27,11 +22,9 @@ Wear your pass at all times within the building, and challenge those without 
 
 View our [top tips for keeping the MoJ safe](https://intranet.justice.gov.uk/blog/ntk-my-5-top-tips-to-keep-moj-a-safe-place-to-work/) for further information and our [counter-terrorism intranet page](https://intranet.justice.gov.uk/guidance/security/emergencies/counter-terrorism/). 
 
-For further support or advice contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions, advice, or help relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

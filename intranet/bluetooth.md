@@ -2,6 +2,11 @@
 
 This guidance helps you use Bluetooth enabled devices and peripheral devices.
 
+**Related information**  
+
+
+[Personal devices](https://security-guidance.service.justice.gov.uk/personal-devices/)
+
 ##Overview
 
 [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) is a very short range wifi technology. In everyday terms, Bluetooth devices can 'talk to each other' if they are very close, for example in the same room. This makes Bluetooth really good for wireless devices, for example a telephone headset, or a mouse or keyboard.
@@ -91,7 +96,7 @@ Generally speaking, Bluetooth devices do not present extra problems when working
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 

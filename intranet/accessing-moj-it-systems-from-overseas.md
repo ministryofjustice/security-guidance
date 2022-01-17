@@ -8,8 +8,6 @@ As a government official travelling overseas, you should consider that you may b
 
 Essential guidance is provided in the [overseas travel information](https://security-guidance.service.justice.gov.uk/overseas-travel/).
 
-Additional guidance is provided on the MoJ Intranet, regarding [working remotely overseas](/guidance/security/emergencies/coronavirus-guidance/working-remotely/working-remotely-overseas/).
-
 In general, it is acceptable for MoJ users to access MoJ services from overseas, and to do this using their MoJ equipment. But before you travel, consider:
 
 * Do you need to take MoJ IT equipment overseas or access MoJ IT systems to do your job?
@@ -22,14 +20,14 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 ##Part One
 
 1.  Get confirmation from your Senior Line Manager (Head of your immediate team) that there is a business need for you to take MoJ IT equipment overseas and access MoJ services. Keep a note of the answers you get.
-2.  Proceed directly to [Part Two](#part-two) of this process if you are travelling to or passing through one of the following countries **and** are intending to take any MoJ IT equipment or device:
+2.  Your Senior Line Manager **SHOULD** inform your HR Business Partner (HRBP) of your request to work overseas. The HRBP **SHALL** advise your Senior Line Manager of any HR considerations concerning your request.
+3.  If you are subject to STRAP briefing and intend to travel to or through any country not in Western Europe, North America, Australia, or New Zealand, then you **SHALL** notify the STRAP team at [STRAPTeam@cluster2security.gov.uk](mailto:STRAPTeam@cluster2security.gov.uk) **and** proceed directly to [Part Two](#part-two) of this process.
+4.  Proceed directly to [Part Two](#part-two) of this process if you are travelling to or passing through one of the following countries:
 
-    > Argentina, Armenia, Azerbaijan, Belarus, China (including Hong Kong), Egypt, Estonia, Georgia, India, Indonesia, Iran, Israel, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, the northern area of the Republic of Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey, Turkmenistan, UAE, Ukraine, Uzbekistan.
+    > Argentina, Armenia, Azerbaijan, Belarus, China (including Hong Kong, Macau, and Tibet), Cuba, Egypt, Estonia, France, Georgia, Germany, India, Indonesia, Iran, Iraq, Israel (including Palestinian territories), Kazakhstan, Kyrgyzstan, Latvia, Lebanon, Libya, Lithuania, Moldova, the northern area of the Republic of Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, Serbia, South Africa, South Korea, Syria, Taiwan, Tajikistan, Turkey, Turkmenistan, UAE, Ukraine, Uzbekistan, Vietnam.
 
-3.  Proceed directly to [Part Two](#part-two) of this process if you are national security cleared to SC or DV levels, **and** are planning to travel to or pass through one of the listed countries previously, even if you are not taking MoJ IT equipment or planning to access MoJ systems or services.
-4.  If you are subject to STRAP briefing and intend to travel to or through countries not in Western Europe, North America, Australia, or New Zealand, notify the STRAP team at [STRAPTeam@cluster2security.gov.uk](mailto:STRAPTeam@cluster2security.gov.uk) **and** proceed directly to [Part Two](#part-two) of this process.
 5.  If you have reached this step, you do not need to seek further formal approval for your trip.
-6.  Take a **non-physical copy** of this guidance; it includes useful contact details that help in the event of a problem while travelling.
+6.  **Take a copy of this guidance**; it includes useful contact details that help in the event of a problem while travelling.
 7.  Check if you need to do anything to prepare for [International Roaming](#international-roaming). Refer to the [International Roaming](#international-roaming) section.
 
 ##Part Two
@@ -57,7 +55,7 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 5.  Your request will be considered, and an answer provided, as quickly as possible.
 6.  When you receive approval for your trip, you might need to schedule a [debrief with your line manager or security representative](#on-your-return) for when you return. Travel approval might be conditional on having a debrief after the trip. If your trip involved visiting a 'special attention' country listed in [Part One](#part-one), a debrief when you return is mandatory.
 7.  Check if you need to do anything to prepare for [International Roaming](#international-roaming). Refer to the [International Roaming](#international-roaming) section.
-8.  Take a **non-physical copy** of this guidance; it includes useful contact details that help in the event of a problem while travelling.
+8.  **Take a copy of this guidance**; it includes useful contact details that help in the event of a problem while travelling.
 
 ##On your return
 
@@ -90,7 +88,7 @@ By default, MoJ equipment is not enabled for use overseas. Before travelling, re
 
 Contact the [IT Service Desk](#contacts) immediately. Tell them if the MoJ equipment is lost, stolen, or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.
 
-If any security-related incident occurs overseas, regardless of whether it involves MoJ equipment, you should contact the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) as soon as possible. Refer to the following [Contacts](#contacts) section, and the guidance on [Reporting a Security Incident](/guidance/security/report-a-security-incident/) on the MoJ Intranet. This includes information on reporting an incident outside of UK working hours. For convenience, the out-of-hours telephone number for reporting incidents is repeated [in this guidance](#information-incident-reporting-line).
+If any security-related incident occurs overseas, regardless of whether it involves MoJ equipment, you should contact [security@justice.gov.uk](mailto:security@justice.gov.uk) as soon as possible. Refer to the following [Contacts](#contacts) section, and the guidance on [Reporting a Security Incident](/guidance/security/report-a-security-incident/) on the MoJ Intranet. This includes information on reporting an incident outside of UK working hours. For convenience, the out-of-hours telephone number for reporting incidents is repeated [in this guidance](#information-incident-reporting-line).
 
 If there is a problem with your MoJ equipment, it might be necessary to disable your ability to connect to the MoJ network or services from your device. The IT Service Desk will do this if required. MoJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MoJ business.
 
@@ -99,7 +97,7 @@ If there is a problem with your MoJ equipment, it might be necessary to disable 
 ##Related pages
 
 * [General advice on taking equipment overseas](https://security-guidance.service.justice.gov.uk/general-advice-on-taking-equipment-overseas/)
-* [Overseas travel](/guidance/security/travelling-abroad-business-or-personal/)
+* [Overseas travel](https://security-guidance.service.justice.gov.uk/overseas-travel/)
 * [Staff security and responsibilities during employment](/guidance/security/staff-security-and-responsibilities/during-employment)
 
 ##External websites
@@ -110,7 +108,7 @@ If there is a problem with your MoJ equipment, it might be necessary to disable 
 
 ##Operational Security Team
 
-* Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
+* Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 * Slack: `#security`
 
 ##IT Service Desk
@@ -131,7 +129,7 @@ During UK working hours, MoJ (but not HMPPS) staff should follow the process on 
 
 ##MoJ Security
 
-* Email: [security@Justice.gov.uk](mailto:security@Justice.gov.uk)
+* Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 
 ---
 

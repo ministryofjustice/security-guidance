@@ -18,6 +18,11 @@ if an audience attribute is present, then only matching content is included.
 		<topicref href="user-guide.dita" type="topic" audience="audience-basic audience-tech"/>
 	</topichead>
 
+	<topichead audience="audience-basic audience-tech">
+		<topicmeta><navtitle>Security culture</navtitle></topicmeta>
+		<topicref href="security-culture.dita" type="topic"/>
+	</topichead>
+
 	<topichead audience="audience-basic audience-suppliers audience-tech">
 		<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Information security policies</navtitle></topicmeta>
 		<topichead audience="audience-basic audience-suppliers audience-tech">
@@ -196,7 +201,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="laptops.dita" type="topic"/>
 			<topicref href="locking-and-shutdown.dita" type="topic"/>
 			<topicref href="policies-for-macbook-users.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="system-lockdown-and-hardening-standard.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="system-lockdown-and-hardening-standard.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 	</topichead>
 

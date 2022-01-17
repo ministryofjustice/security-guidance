@@ -50,6 +50,8 @@
 			<ph id="ico">ICO</ph>
 			<ph id="itpolicycontentemail"><xref href="mailto:itpolicycontent@digital.justice.gov.uk" format="email" scope="external">itpolicycontent@digital.justice.gov.uk</xref></ph>
 			<ph id="itpolicycontentemailtext"><xref href="mailto:itpolicycontent@digital.justice.gov.uk" format="email" scope="external">IT policy content</xref></ph>
+			<ph id="mcss"><xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">MCSS</xref></ph>
+			<ph id="mcsslong"><xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">Minimum Cyber Security Standard (MCSS)</xref></ph>
 			<ph id="mojlong">Ministry of Justice (<ph conref="#conrefs/moj"/>)</ph>
 			<ph id="moj">MoJ</ph>
 			<ph id="ncsclong">National Cyber Security Centre (NCSC)</ph>
@@ -89,6 +91,8 @@
 			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></ph>
 			<ph id="servicedesk">IT Service Desk</ph>
 			<ph id="softwareassetemail"><xref href="mailto:SoftwareAssetManagement@justice.gov.uk" format="email" scope="external">SoftwareAssetManagement@justice.gov.uk</xref></ph>
+			<ph id="spf"><xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">SPF</xref></ph>
+			<ph id="spflong"><xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">Security Policy Framework (SPF)</xref></ph>
 			<ph id="strapteamemail"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="email" scope="external">STRAPTeam@cluster2security.gov.uk</xref></ph>
 			<ph id="strapteamemailtext"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="email" scope="external">Cluster 2 STRAP team</xref></ph>
 			<ph id="tablenote"><b>Note:</b></ph>
@@ -216,7 +220,7 @@
 			<p><b>Privacy Team</b>
 				<ul>
 					<li>Email: <xref href="mailto:privacy@justice.gov.uk" format="email" scope="external">privacy@justice.gov.uk</xref></li>
-					<li>Slack: <codeph>#securityprivacyteam</codeph></li>
+					<li>Slack: <codeph>#security_privacy_and_live_service_team</codeph></li>
 					<li>Intranet: <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/</xref></li>
 				</ul>
 			</p>
@@ -226,7 +230,7 @@
 	<topic id="cyber-security-advice">
 		<title>Cyber Security Advice</title>
 		<body>
-			<p><b>Cyber Consultants &amp; Risk Advisors</b>
+			<p><b>Cyber Consultants and Risk Advisors</b>
 				<ul>
 					<li>Email: <ph conref="#conrefs/securityemail"/></li>
 					<li>Slack: <codeph>#security</codeph></li>
@@ -267,7 +271,7 @@
 				contact: <ph conref="#conrefs/groupsecurityemail"/>.
 				For general security questions or concerns,
 				contact: <ph conref="#conrefs/securityemail"/>,
-			or for security advice,
+			or for cyber security advice,
 			contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
 		</body>
 	</topic>
@@ -276,8 +280,15 @@
 		<title>Contact details</title>
 		<body>
 			<p>For any further questions relating to security, contact: <ph conref="#conrefs/securityemail"/>,
-			or for security advice,
-			contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
+			or for cyber security advice,
+			contact the Cyber Assistance Team: <ph conref="#conrefs/catemail"/>.</p>
+		</body>
+	</topic>
+
+	<topic id="contact-details-security-only">
+		<title>Contact details</title>
+		<body>
+			<p>For any further questions, advice, or help relating to security, contact: <ph conref="#conrefs/securityemail"/>.</p>
 		</body>
 	</topic>
 
@@ -329,7 +340,7 @@
 				</ul>
 			</p>
 			<p>For any further questions relating to security, contact: <ph conref="#conrefs/securityemail"/>,
-			or for security advice, contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
+			or for cyber security advice, contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
 		</body>
 	</topic>
 

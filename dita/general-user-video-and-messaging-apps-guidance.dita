@@ -99,7 +99,7 @@
 				<p>Complying with personal information requirements can be complex. Don't hesitate to ask for advice:</p>
 				<ul>
 					<li>Email: <ph conref="conrefs.dita#conrefs/privacyemail"/></li>
-					<li>Slack: <codeph>#securityprivacyteam</codeph></li>
+					<li>Slack: <codeph>#security_privacy_and_live_service_team</codeph></li>
 					<li>Intranet: <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/</xref></li>
 				</ul>
 			</body>
