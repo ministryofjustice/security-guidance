@@ -8,8 +8,33 @@
 
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
+  <lastmod>2022-01-12T20:55:00+00:00</lastmod>
   <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/</loc>
+  <lastmod>2022-01-12T20:55:00+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/baseline-aws-accounts/</loc>
+  <lastmod>2022-01-07T14:36:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/system-lockdown-and-hardening-standard/</loc>
+  <lastmod>2022-01-06T09:36:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/ost/ithc/</loc>
+  <lastmod>2022-01-04T16:27:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/</loc>
+  <lastmod>2022-01-04T16:10:00+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/security-culture/</loc>
@@ -19,11 +44,6 @@
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/security-threat-level-and-emergency-procedures/</loc>
   <lastmod>2021-12-13T11:44:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -487,11 +507,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/system-lockdown-and-hardening-standard/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/mail-check/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
@@ -812,11 +827,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/baseline-aws-accounts/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/baseline-for-azure-accounts/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
@@ -917,11 +927,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/ost/ithc/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/ost/test-cancellations-and-delays/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
@@ -974,11 +979,6 @@
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/gs/security-vetting-assessment-need.doc</loc>
   <lastmod>2021-12-08T09:25:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>

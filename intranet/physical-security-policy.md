@@ -1,5 +1,10 @@
 #Physical Security Policy
 
+**Related information**  
+
+
+[Security in the office](https://security-guidance.service.justice.gov.uk/security-in-the-office/)
+
 ##Audience
 
 This policy complements the Ministry of Justice (MoJ) overall security policy.

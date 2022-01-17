@@ -62,7 +62,7 @@ Data protection legislation makes you responsible for personal information you w
 Complying with personal information requirements can be complex. Don't hesitate to ask for advice:
 
 * Email: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
-* Slack: `#securityprivacyteam`
+* Slack: `#security_privacy_and_live_service_team`
 * Intranet: [/guidance/knowledge-information/protecting-information/](/guidance/knowledge-information/protecting-information/)
 
 ##Information Management

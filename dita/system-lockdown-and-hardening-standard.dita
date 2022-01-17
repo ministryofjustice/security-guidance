@@ -2,106 +2,92 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="system-lockdown-and-hardening-standard">
   <title>System Lockdown and Hardening Standard</title>
-  <topic id="legacyreferences" conref="conrefs.dita#legacyreferences"><title/></topic>
-  <topic id="overview">
-    <title>Overview</title>
+  <body>
+    <p>This standard is designed to help protect <ph conref="conrefs.dita#conrefs/mojlong"/> IT systems by providing basic configuration details for how IT systems should be hardened to defend against malicious attack.</p>
+    <p>The <ph conref="conrefs.dita#conrefs/mcsslong"/> describes mandatory requirements for security controls. To comply with the <ph conref="conrefs.dita#conrefs/mcss"/>, the <ph conref="conrefs.dita#conrefs/moj"/> requires that IT systems and services are:</p>
+    <ul>
+      <li>Locked-down: All unnecessary or non-essential services or capabilities are switched off, or restricted to the bare minimum of functionality.</li>
+      <li>Hardened: All system options and capabilities are configured for maximum possible resistance to attack or unauthorised use.</li>
+    </ul>
+    <p>Specifics of the lockdown policy are covered in the <xref href="technical-controls-policy.dita#lockdown-policy" format="dita">Technical Controls Policy</xref>. This document provides more information about the implementation of the lockdown policy.</p>
+  </body>
+  <topic id="scope">
+    <title>Scope</title>
     <body>
-      <p>This standard is designed to help protect <ph conref="conrefs.dita#conrefs/mojlong"/> IT systems by providing basis configuration details for how IT systems should be hardened to defend against malicious attack.</p>
-      <p><xref href="https://www.gov.uk/government/publications/security-policy-framework/hmg-security-policy-framework" format="html" scope="external">HMG Security Policy Framework</xref> mandatory requirement (MR) 9 concerns technical security controls. To comply with MR 7, the <ph conref="conrefs.dita#conrefs/moj"/> needs to ensure that it has:</p>
-      <lq>
-        <p>Lockdown policy to restrict unnecessary services;</p>
-      </lq>
-      <p>The lockdown policy itself is covered in the IT Security – Technical Controls Policy whilst this document sets out the <ph conref="conrefs.dita#conrefs/moj"/> standard for its application.</p>
+      <p>This standard provides some high level guidance on IT system hardening. It applies to all <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</p>
+      <note>This standard is a generic standard, designed to provide high level direction. It does not replace platform- or system-specific hardening guidance, such as vendor advisory or best practice recommendations.</note>
+      <p>This standard <ph conref="conrefs.dita#conrefs/policyshall"/> be read in conjunction with the <ph conref="conrefs.dita#conrefs/spflong"/>, the <ph conref="conrefs.dita#conrefs/gov007"/>, and the <ph conref="conrefs.dita#conrefs/mcss"/> .</p>
     </body>
-    <topic id="scope">
-      <title>Scope</title>
-      <body>
-        <p>This standard provides some high level guidance on IT system hardening with which applied to all <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</p>
-        <p><b>Note:</b> This standard is a generic standard designed to provide high level direction. This standard does not replace the Government Assurance Pack (GAP) which must be considered for MS Windows based systems. The hardening of an IT system will be considered during the Accreditation process where the exact specification for the system will be considered and agreed. For further details on the Accreditation process see.</p>
-        <p>This standard must be read in conjunction with CESG GPG No.35 and the <ph conref="conrefs.dita#conrefs/moj"/> Security Architecture Framework.</p>
-      </body>
-    </topic>
-    <topic id="demonstration-of-compliance">
-      <title>Demonstration of Compliance</title>
-      <body>
-        <p>The CESG Information Assurance Maturity Model (IAMM) sets out the minimum maturity level Government departments should attain. Providing secure IT systems captured as a basic requirement in Level 1 and the <ph conref="conrefs.dita#conrefs/moj"/> will need to demonstrate compliance against this requirement.</p>
-      </body>
-    </topic>
+  </topic>
+  <topic id="demonstration-of-compliance">
+    <title>Demonstration of Compliance</title>
+    <body>
+      <p>The <xref href="https://www.ncsc.gov.uk/information/hmg-ia-maturity-model-iamm" format="html" scope="external">NCSC GPG40 Information Assurance Maturity Model (IAMM)</xref> provides useful guidance on the security levels expected for <ph conref="conrefs.dita#conrefs/moj"/> systems and services. All <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> demonstrate compliance that meets or exceeds maturity Level 1, or equivalent.</p>
+    </body>
   </topic>
   <topic id="generic-hardening-standard">
     <title>Generic hardening standard</title>
     <body>
-      <p>Table 1 following provides a generic set of hardening procedures designed to guide IT system development and supplement the <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/" format="html" scope="external">IT Security – Technical Controls Policy</xref>.</p>
-      <p>Those configuring <ph conref="conrefs.dita#conrefs/moj"/> IT systems must consider additional sources of reference such as the Government Assurance Pack (GAP) for MS Windows based systems; Microsoft TechNet and NIST to ensure that specific systems (e.g. SQL server or a UNIX based server) are built to a secure standard. A selection of external reference sources can be found in this guidance.</p>
-      <p>Where this standard provides a generic set of hardening procedures, The <ph conref="conrefs.dita#conrefs/moj"/> Security Architecture Framework provides a set of vendor and system specific hardening guides which have been approved for use in <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</p>
-      <p>The secure configuration of an IT system will be examined during the Accreditation process for further details). This may include an IT Health Check (ITHC) and a review of the system's build configuration.</p>
-      <p>Table 1 is split into 5 sections:</p>
+      <p>This standard provides a generic set of hardening details, designed to guide IT system development and to supplement the <xref href="technical-controls-policy.dita" format="dita">Technical Controls Policy</xref>.</p>
+      <p>Those configuring <ph conref="conrefs.dita#conrefs/moj"/> IT systems <ph conref="conrefs.dita#conrefs/policyshall"/> consider additional sources of reference such as vendor-supplied platform-specific materials to ensure that specific systems, such as SQL server or UNIX-based servers, are built and configured to a secure standard. A selection of external reference sources can be found in this guidance.</p>
+      <p>Where this standard provides a generic set of hardening procedures, other material in the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="cyber-and-technical-security-guidance.dita" format="dita">security guidance</xref> provides vendor- and system-specific hardening guides which have been approved for use in <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</p>
+      <p>The secure configuration of an IT system <ph conref="conrefs.dita#conrefs/policyshall"/> be examined during the assurance process. This might include an IT Health Check (ITHC), and a review of the system's build configuration.</p>
+      <p>Details provided in this standard address:</p>
       <ul>
         <li>
-          <p>General – Procedures which can be commonly applied to most IT systems;</p>
+          <p><xref href="#general-procedures" format="dita">General procedures</xref> which can be commonly applied to most IT systems.</p>
         </li>
         <li>
-          <p>External devices;</p>
+          <p><xref href="#external-devices" format="dita">External devices</xref>.</p>
         </li>
         <li>
-          <p>Account log-on;</p>
+          <p><xref href="#account-log-on" format="dita">Account log-on</xref>.</p>
         </li>
         <li>
-          <p>Services, security and networking applications;</p>
+          <p><xref href="#services-security-and-networking-applications" format="dita">Services, security and networking applications</xref>.</p>
         </li>
         <li>
-          <p>Server specific – Procedures which can be commonly applied to servers.</p>
+          <p><xref href="#server-specific" format="dita">Server-specific</xref> procedures which can be commonly applied to servers.</p>
         </li>
       </ul>
     </body>
-    <topic id="general">
-      <title>General</title>
+    <topic id="general-procedures">
+      <title>General procedures</title>
       <body>
         <table>
           <tgroup cols="2">
             <colspec colname="col1" colnum="1"/>
             <colspec colname="col2" colnum="2"/>
-            <tbody>
+            <thead>
               <row>
                 <entry colname="col1">Name</entry>
                 <entry colname="col2">Description</entry>
               </row>
+            </thead>
+            <tbody>
               <row>
                 <entry colname="col1">BIOS Lockdown</entry>
-                <entry colname="col2">Access to the BIOS must be restricted to system administrators only.</entry>
+                <entry colname="col2">Access to the BIOS <ph conref="conrefs.dita#conrefs/policyshall"/> be restricted to system administrators only.</entry>
               </row>
               <row>
                 <entry colname="col1">Removal of unnecessary applications and services</entry>
-                <entry colname="col2">All applications and system services which are not required must be uninstalled or disabled.</entry>
+                <entry colname="col2">All applications and system services which are not required <ph conref="conrefs.dita#conrefs/policyshall"/> be uninstalled or disabled.</entry>
               </row>
               <row>
                 <entry colname="col1">Auto-run of data on remote media devices</entry>
-                <entry colname="col2">Auto-run must be disabled.</entry>
+                <entry colname="col2">Auto-run <ph conref="conrefs.dita#conrefs/policyshall"/> be disabled.</entry>
               </row>
               <row>
                 <entry colname="col1">Screen lockout</entry>
-                <entry colname="col2">Desktops and servers must be configured to lock after 5 minutes of inactivity. Unlock must be by password only.</entry>
+                <entry colname="col2">Desktops and servers <ph conref="conrefs.dita#conrefs/policyshall"/> be configured to lock after 5 minutes of inactivity. Unlock <ph conref="conrefs.dita#conrefs/policyshall"/> be by password only.</entry>
               </row>
               <row>
                 <entry colname="col1">Time and Date</entry>
-                <entry colname="col2">The Time and Date setting must be configured to central synchronisation servers which synchronises with the GSi time server.</entry>
+                <entry colname="col2">The Time and Date setting <ph conref="conrefs.dita#conrefs/policyshall"/> be configured to central synchronisation servers, which themselves synchronise with the UK Government time server.</entry>
               </row>
               <row>
                 <entry colname="col1">System Preferences</entry>
-                <entry colname="col2">Non-system administrative Users must not have access to change:
-                  <ul>
-                    <li>The desktop background or screensaver setting;</li>
-                    <li>The date or time;</li>
-                    <li>Network settings or internet browser settings;</li>
-                    <li>System security settings or group policy settings.</li>
-                  </ul>
-                  Non-system administrative Users must not have access to the following system settings / utilities:
-                  <ul>
-                    <li>The system registry;</li>
-                    <li>Access to operating system directories and files;</li>
-                    <li>Access to CMD / Command Line Prompt and local system utilities such as disk defragmenter and disk cleanup.</li>
-                  </ul>
-                </entry>
+                <entry colname="col2">Users without system administration privileges <ph conref="conrefs.dita#conrefs/policyshallnot"/> have access to change the desktop background or screensaver setting, the date or time, network settings or internet browser settings, and system security settings or group policy settings. Users without system administration privileges <ph conref="conrefs.dita#conrefs/policyshallnot"/> have access to the system settings or utilities including the system registry or administrative equivalent, access to operating system directories and files, access to CMD or Command Line Prompt, access to terminal commands or tools, or access to local system utilities such as disk defragmenter and disk cleanup.</entry>
               </row>
             </tbody>
           </tgroup>
@@ -123,26 +109,26 @@
               <tbody>
                 <row>
                   <entry colname="col1">Bluetooth</entry>
-                  <entry colname="col2">Bluetooth must be disabled by default.
-                    If required due to business need, Bluetooth devices must be set to not be 'discoverable'.</entry>
+                  <entry colname="col2">Bluetooth <ph conref="conrefs.dita#conrefs/policyshall"/> be disabled by default.
+                    If required due to business need, Bluetooth devices <ph conref="conrefs.dita#conrefs/policyshallnot"/> be set as 'discoverable'.</entry>
                 </row>
                 <row>
                   <entry colname="col1">Webcam</entry>
-                  <entry colname="col2">The webcam lens must be obstructed when not in use.</entry>
+                  <entry colname="col2">The webcam lens <ph conref="conrefs.dita#conrefs/policyshall"/> be obstructed when not in use.</entry>
                 </row>
                 <row>
                   <entry colname="col1">Infrared receiver</entry>
-                  <entry colname="col2">The IR receiver must be disabled, ideally at the hardware level (by physically disconnecting the component).</entry>
+                  <entry colname="col2">The IR receiver <ph conref="conrefs.dita#conrefs/policyshall"/> be disabled, ideally at the hardware level by physically disconnecting the component.</entry>
                 </row>
                 <row>
                   <entry colname="col1">Sound input (microphone)</entry>
-                  <entry colname="col2">Sound input from a microphone must be kept at zero level when not in use.</entry>
+                  <entry colname="col2">Sound input from a microphone <ph conref="conrefs.dita#conrefs/policyshall"/> be kept at zero level when not in use.</entry>
                 </row>
                 <row>
-                  <entry colname="col1">Media drives and external data ports (e.g. USB, FireWire, CD/DVD drive, ...)</entry>
-                  <entry colname="col2">All media drives and external data ports must be disabled.
+                  <entry colname="col1">Media drives and external data ports, such as USB, FireWire, CD/DVD drive, and similar</entry>
+                  <entry colname="col2">All media drives and external data ports <ph conref="conrefs.dita#conrefs/policyshall"/> be disabled by default.
                     Where there is a business justification to allow access,
-                    that access must be audited and restricted to an individual User (for example using a technical control such as Lumension).</entry>
+                    that access <ph conref="conrefs.dita#conrefs/policyshall"/> be audited and restricted to an individual user, for example when using an approved tool for an approved business purpose.</entry>
                 </row>
               </tbody>
             </tgroup>
@@ -152,10 +138,10 @@
       <topic id="account-log-on">
         <title>Account Log-on</title>
         <body>
-          <table rowheader="firstcol">
+          <table>
             <tgroup cols="2">
-              <colspec colname="col1" colnum="1" colwidth="1*" />
-              <colspec colname="col2" colnum="2" colwidth="3*"/>
+              <colspec colname="col1" colnum="1"/>
+              <colspec colname="col2" colnum="2"/>
               <thead>
                 <row>
                   <entry colname="col1">Name</entry>
@@ -165,32 +151,32 @@
               <tbody>
                 <row>
                   <entry colname="col1">Passwords</entry>
-                  <entry colname="col2">All passwords must conform to the <xref href="passwords.dita" format="dita">password guidance</xref>.</entry>
+                  <entry colname="col2">All passwords <ph conref="conrefs.dita#conrefs/policyshall"/> conform to the <xref href="passwords.dita" format="dita">password guidance</xref>.</entry>
                 </row>
                 <row>
                   <entry colname="col1">Guest and 'null' accounts</entry>
-                  <entry colname="col2">Guest and 'null' accounts (accounts with a blank username and password) must be disabled and removed where possible.</entry>
+                  <entry colname="col2">Guest and 'null' accounts (accounts with a blank username or password) <ph conref="conrefs.dita#conrefs/policyshall"/> be disabled and removed where possible.</entry>
                 </row>
                 <row>
                   <entry colname="col1">Fast User Switching</entry>
-                  <entry colname="col2">Fast User Switching must be disabled.</entry>
+                  <entry colname="col2">Fast User Switching <ph conref="conrefs.dita#conrefs/policyshall"/> be disabled.</entry>
                 </row>
                 <row>
                   <entry colname="col1">Login failure logging</entry>
-                  <entry colname="col2">Failed logins must be logged after the 1st failed attempt.</entry>
+                  <entry colname="col2">Failed logins <ph conref="conrefs.dita#conrefs/policyshall"/> be logged after the 1st failed attempt.</entry>
                 </row>
                 <row>
                   <entry colname="col1">Automatic log in</entry>
-                  <entry colname="col2">Any automatic log in feature must be disabled. This does not include Single Sign On functionality where a User has already authenticated themselves to the system.</entry>
+                  <entry colname="col2">Any automatic log in feature <ph conref="conrefs.dita#conrefs/policyshall"/> be disabled. This does not include Single Sign On functionality, where a user has already authenticated themselves to the system.</entry>
                 </row>
                 <row>
                   <entry colname="col1">User list</entry>
-                  <entry colname="col2">The option to display a set of usernames list or the previous logged in User's username at logon must be disabled.</entry>
+                  <entry colname="col2">During logon, the option to display a set of possible usernames, or the previous usernames that logged on successfully, <ph conref="conrefs.dita#conrefs/policyshall"/> be disabled.</entry>
                 </row>
                 <row>
                   <entry colname="col1">Logon Banner</entry>
-                  <entry colname="col2">The standard <ph conref="conrefs.dita#conrefs/moj"/> login banner must be displayed at login,
-                    both locally and remotely, refer to <xref href="#appendix-a-login-banner" format="dita">Appendix A</xref>.</entry>
+                  <entry colname="col2">The standard <ph conref="conrefs.dita#conrefs/moj"/> login banner <ph conref="conrefs.dita#conrefs/policyshall"/> be displayed at login,
+                    both locally and remotely. The standard banner is provided in <xref href="#appendix-a-login-banner" format="dita">Appendix A</xref>.</entry>
                 </row>
               </tbody>
             </tgroup>
@@ -198,64 +184,64 @@
         </body>
       </topic>
       <topic id="services-security-and-networking-applications">
-        <title>Services, security and networking applications</title>
+        <title>Services, security, and networking applications</title>
         <body>
           <table>
             <tgroup cols="2">
               <colspec colname="col1" colnum="1"/>
               <colspec colname="col2" colnum="2"/>
-              <tbody>
+              <thead>
                 <row>
                   <entry colname="col1">Name</entry>
                   <entry colname="col2">Description</entry>
                 </row>
+              </thead>
+              <tbody>
                 <row>
                   <entry colname="col1">Firewalls</entry>
-                  <entry colname="col2">An Application Firewall should be installed which:
-                    <ul>
-                      <li>Must be configured to 'allow only essential services';</li>
-                      <li>Must log Firewall activity;</li>
-                      <li>Must operate in 'stealth mode' (undiscoverable).</li>
-                    </ul>
-                  </entry>
+                  <entry colname="col2">An application firewall <ph conref="conrefs.dita#conrefs/policyshall"/> be installed. The firewall <ph conref="conrefs.dita#conrefs/policyshall"/> be configured to 'allow only essential services', log firewall activity, and operate in 'stealth mode' (undiscoverable).</entry>
                 </row>
                 <row>
                   <entry colname="col1">Anonymous FTP</entry>
-                  <entry colname="col2">Anonymous FTP must be disabled. Where there is a business requirement for FTP, FTP(S) or SFTP must be used.</entry>
+                  <entry colname="col2">Anonymous FTP <ph conref="conrefs.dita#conrefs/policyshall"/> be disabled. Where there is a business requirement for file transfer between systems, FTP(S) or SFTP <ph conref="conrefs.dita#conrefs/policyshall"/> be used.</entry>
                 </row>
                 <row>
                   <entry colname="col1">Simple Network Management Protocol (SNMP)</entry>
-                  <entry colname="col2">Where SNMP is required, v2.0 must be used.</entry>
+                  <entry colname="col2">Where SNMP is required, version 2.0 or a more recent version <ph conref="conrefs.dita#conrefs/policyshall"/> be used.</entry>
                 </row>
                 <row>
                   <entry colname="col1">Cisco Discovery Protocol (CDP)</entry>
-                  <entry colname="col2">CDP must be disabled.</entry>
+                  <entry colname="col2">CDP <ph conref="conrefs.dita#conrefs/policyshall"/> be disabled.</entry>
                 </row>
                 <row>
                   <entry colname="col1">Telnet based administration interface</entry>
-                  <entry colname="col2">Telnet access must be disabled.</entry>
+                  <entry colname="col2">Telnet access <ph conref="conrefs.dita#conrefs/policyshall"/> be disabled.</entry>
                 </row>
                 <row>
                   <entry colname="col1">SSH based administration interface</entry>
-                  <entry colname="col2">SSH access must be disabled.</entry>
+                  <entry colname="col2">SSH access direct into an administrative account or service <ph conref="conrefs.dita#conrefs/policyshall"/> be disabled.</entry>
                 </row>
                 <row>
                   <entry colname="col1">HTTP based administration interface</entry>
                   <entry colname="col2">All web based administration interfaces which are accessible over a
-                    network (in other words, not restricted to a localhost) must be encrypted for the entire session
-                    using SSL version 3 or TLS version 1.0 or higher.</entry>
+                    network (in other words, not restricted to a localhost) <ph conref="conrefs.dita#conrefs/policyshall"/> be encrypted for the entire session
+                    using SSL version 3, or TLS version 1.2, or higher.</entry>
                 </row>
                 <row>
                   <entry colname="col1">Connection Timeouts</entry>
-                  <entry colname="col2">Idle connections must be dropped after a default period.</entry>
+                  <entry colname="col2">Idle connections <ph conref="conrefs.dita#conrefs/policyshall"/> be disconnected after a default period; normally less than 30 minutes.</entry>
                 </row>
                 <row>
                   <entry colname="col1">ICMP Redirects</entry>
-                  <entry colname="col2">ICMP redirects must be disabled.</entry>
+                  <entry colname="col2">ICMP redirects <ph conref="conrefs.dita#conrefs/policyshall"/> be disabled.</entry>
                 </row>
                 <row>
                   <entry colname="col1">Clear text authentication protocols</entry>
-                  <entry colname="col2">All plain-text authentication protocols must be disabled and their functionality replaced with encrypted alternatives.</entry>
+                  <entry colname="col2">All plain-text authentication protocols <ph conref="conrefs.dita#conrefs/policyshall"/> be disabled and their functionality replaced with encrypted alternatives.</entry>
+                </row>
+                <row>
+                  <entry colname="col1">Initiating outbound connections</entry>
+                  <entry colname="col2">An <ph conref="conrefs.dita#conrefs/moj"/> system or service <ph conref="conrefs.dita#conrefs/policyshallnot"/> initiate a connection to a non-<ph conref="conrefs.dita#conrefs/moj"/> system or service, unless such outbound connections have been reviewed and approved as a standard part of their design. Firewall rules and other network configuration <ph conref="conrefs.dita#conrefs/policyshall"/> prevent unapproved outbound connections.</entry>
                 </row>
               </tbody>
             </tgroup>
@@ -265,7 +251,7 @@
       <topic id="server-specific">
         <title>Server specific</title>
         <body>
-          <table rowheader="firstcol">
+          <table>
             <tgroup cols="2">
               <colspec colname="col1" colnum="1"/>
               <colspec colname="col2" colnum="2"/>
@@ -278,15 +264,15 @@
               <tbody>
                 <row>
                   <entry colname="col1">Internet access from web browsers</entry>
-                  <entry colname="col2">External Internet access from web browsers must be disabled.</entry>
+                  <entry colname="col2">External Internet access from web browsers on a server <ph conref="conrefs.dita#conrefs/policyshall"/> be disabled.</entry>
                 </row>
                 <row>
                   <entry colname="col1">Example, test and temporary installation files.</entry>
-                  <entry colname="col2">All example, test and temporary installation files must be deleted when no longer required.</entry>
+                  <entry colname="col2">All example, test and temporary installation files <ph conref="conrefs.dita#conrefs/policyshall"/> be deleted when no longer required.</entry>
                 </row>
                 <row>
                   <entry colname="col1">File share access control</entry>
-                  <entry colname="col2">Server file shares must be subject to access control restrictions.</entry>
+                  <entry colname="col2">Server file shares <ph conref="conrefs.dita#conrefs/policyshall"/> be subject to access control restrictions.</entry>
                 </row>
               </tbody>
             </tgroup>
@@ -298,8 +284,7 @@
   <topic id="external-reference-sources">
     <title>External reference sources</title>
     <body>
-      <p>In addition to CESG GPG No.35,
-        the following external reference sources provide a good source of information on IT system hardening and secure system configuration.</p>
+      <p>The following external reference sources provide a good source of information on IT system hardening and secure system configuration.</p>
     </body>
     <topic id="cpni">
       <title>CPNI</title>
@@ -332,16 +317,17 @@
     </topic>
   </topic>
   <topic id="appendix-a-login-banner">
-    <title>Appendix A – Login banner</title>
+    <title>Appendix A: Login banner</title>
     <body>
-      <p>The standard <ph conref="conrefs.dita#conrefs/moj"/> login banner must be displayed at login. A copy of the banner is as follows:
+      <p>The standard <ph conref="conrefs.dita#conrefs/moj"/> login banner <ph conref="conrefs.dita#conrefs/policyshall"/> be displayed at login:
       <lq>
         THIS SYSTEM IS FOR AUTHORISED USERS ONLY.
         <p>This is a private system; only use this system if you have specific authority to do so.
           Otherwise you are liable to prosecution under the Computer Misuse Act 1990.
-          If you do not have the express permission of the operator or owner of this system, switch off now to avoid prosecution.</p>
+          If you do not have the express permission of the operator or owner of this system, switch off or disconnect now to avoid prosecution.</p>
       </lq></p>
     </body>
   </topic>
+  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

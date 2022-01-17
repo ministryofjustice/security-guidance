@@ -2,6 +2,11 @@
 
 This document is the Ministry of Justice (MoJ) guidance covering disposal of physical and on-premise media and data. It is intended to ensure that the confidentiality and integrity of MoJ data is maintained when physical hardware is decommissioned.
 
+**Related information**  
+
+
+[Secure disposal of IT equipment](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-equipment/)
+
 ##Physical Media and Associated Data
 
 The MoJ and its Executive Agencies and Arms Length Bodies use a wide variety of equipment, including photocopiers and printers, data centre hard and tape drives, desktop computers, laptops, USB memory sticks, and generic mobile devices. Some equipment might be the responsibility of a supplier to decommission and dispose of it safely and securely. Check asset tags or similar identifiers to determine and validate responsibility.

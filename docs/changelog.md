@@ -2,6 +2,22 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2022-01-07 14:36 GMT [Contact details for AWS](https://security-guidance.service.justice.gov.uk/baseline-aws-accounts/#security-incidents)**
+
+    Updated contact details for Baseline AWS accounts.
+
+-   **2022-01-06 09:36 GMT [System lockdown and hardening](https://security-guidance.service.justice.gov.uk/system-lockdown-and-hardening-standard/)**
+
+    Guidance added to prevent outbound connections to random internet systems, unless this is a core part of their design. Firewall rules and other network configuration must prevent this.
+
+-   **2022-01-04 16:27 GMT [IT Health Check](https://security-guidance.service.justice.gov.uk/ost/ithc/#cloud-platforms)**
+
+    Updated guidance with a new section on Cloud platforms.
+
+-   **2022-01-04 16:10 GMT [Update Slack channel for privacy team](https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/#privacy-and-personal-information-data-protection)**
+
+    Provide revised channel details for contact privacy team through Slack IM.
+
 -   **2021-12-23 13:50 GMT [Update overseas travel guidance](https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/)**
 
     Updates to information on overseas travel and accessing MoJ IT systems from overseas.
