@@ -18,17 +18,23 @@ This information is part of the MoJ asset management policies and guidance on [m
 **Related information**  
 
 
+[Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)
+
+[Secure disposal of IT - physical and on-premise](secure-disposal-of-it-physical-and-on-premise.md)
+
+[Secure disposal of IT - public and private cloud](secure-disposal-of-it-public-and-private-cloud.md)
+
 [Technical Controls Policy](technical-controls-policy.md)
 
 ## MoJ cloud environments overview
 
-The MoJ consumes a number of public \(shared cloud\) and private cloud platforms, operating over 900 different technology systems ranging from internal IT tools or solutions to case management solutions.
+The MoJ consumes several public \(shared cloud\) and private cloud platforms, operating over 900 different technology systems ranging from internal IT tools or solutions to case management solutions.
 
 Public cloud service environments are delivered through the internet. They are shared across organisations using a "multi-tenant" model. For example, a service provider hosts a public environment that gives the MoJ and other customers a portion of the same physical server hardware to run their website or application.
 
-Private cloud environments differ, as they are dedicated to a single tenant. The are intended to address concerns on data security. They may also offer greater control, because resources are not shared with other tenants.
+Private cloud environments differ, as they are dedicated to a single tenant. They are intended to address concerns on data security. They may also offer greater control because resources are not shared with other tenants.
 
-Public and private clouds both have different ways of ensuring compliance. Compliance should be evaluated using the government's [Cloud Security Principles](https://www.ncsc.gov.uk/collection/cloud-security/implementing-the-cloud-security-principles). In addition, these principles should be assessed against several other factors outlined in the government's technical guidance on [securing your cloud environment](https://www.gov.uk/service-manual/technology/securing-your-cloud-environment#finding-a-secure-cloud-provider). The compiance evaluation also includes ensuring the cloud services are [configured correctly](https://www.gov.uk/service-manual/technology/securing-your-cloud-environment#configure-your-cloud-environment-for-security), and that there are [regular audits](https://www.gov.uk/service-manual/technology/securing-your-cloud-environment#auditing-the-cloud-environment).
+Public and private clouds both have different ways of ensuring compliance. Therefore, compliance should be evaluated using the government's [Cloud Security Principles](https://www.ncsc.gov.uk/collection/cloud-security/implementing-the-cloud-security-principles). In addition, these principles should be assessed against several other factors outlined in the government's technical guidance on [securing your cloud environment](https://www.gov.uk/service-manual/technology/securing-your-cloud-environment#finding-a-secure-cloud-provider).
 
 ## NCSC on sanitisation and disposal of cloud assets
 
@@ -45,9 +51,9 @@ MoJ asset owners or administrators **SHOULD** be confident that:
 
 MoJ asset owners or administrators **SHALL** ensure that for all data stored in a cloud service:
 
--   All equipment containing MoJ data, credentials, or configuration information for the service is identified at the end of its life, and before it is recycled.
+-   All equipment containing MoJ data, credentials, or configuration information for the service is identified at the end of its life and before it is recycled.
 
--   Any components containing sensitive data are sanitised, removed or destroyed.
+-   Any components containing sensitive data are sanitised, removed, or destroyed.
 
 -   Accounts or credentials specific to redundant equipment are revoked to reduce their value to an attacker.
 
@@ -67,19 +73,19 @@ Due to the possible lack of control of physical infrastructure, a checklist of q
 
 **Note:** The Data Security Lifecycle Management concept is described in the Cloud Security Alliance's Security Guidance for Critical Areas of Focus in Cloud Computing v4.0 \([CCA CSM v4.0](https://downloads.cloudsecurityalliance.org/assets/research/security-guidance/security-guidance-v4-FINAL.pdf)\). Refer to section 5.1.2: The Data Security Lifecycle on page 62.
 
-**Note:** To ensure that MoJ data in the cloud is sanitised sufficiently, and that the devices or hard drives they are stored in meet data management security standards when destroyed, it might require specific clauses in the contract with the cloud provider.
+**Note:** To ensure that MoJ data in the cloud is sanitised sufficiently and that the devices or hard drives they are stored in meet data management security standards when destroyed, it might require specific clauses in the contract with the cloud provider.
 
-**Note:** If the cloud provider has a mechanism for resilience or redundancy that duplicates MoJ data, this duplicated data **SHALL** also be sanitised or destroyed using the checklist provided. All duplicated data **SHALL** be sanitised at the same time. To ensure this occurs, the MoJ destroys all decryption keys held in their possession. This makes all the duplicated cloud data unreadable. This method is called [crypto-shredding](https://en.wikipedia.org/wiki/Crypto-shredding).
+**Note:** If the cloud provider has a mechanism for resilience or redundancy that duplicates MoJ data, this duplicated data **SHALL** also be sanitised or destroyed using the checklist provided. All duplicated data **SHALL** be sanitised at the same time. The MoJ destroys all decryption keys held in their possession to ensure this occurs. This makes all the duplicated cloud data unreadable. This method is called [crypto-shredding](https://en.wikipedia.org/wiki/Crypto-shredding).
 
-When duplicates of data cannot be destroyed immediately, there **SHALL** be methods in place for protecting, then securely destroying, the data, until data destruction is assured. This includes the supplier providing a formal [declaration](data-destruction-instruction-and-confirmation-letter.md#) of destruction. If any destruction tasks are delayed, a confirmation date of final data destruction **SHALL** be provided.
+When duplicates of data cannot be destroyed immediately, there **SHALL** be methods in place for protecting and controlling the data until data destruction is assured. This includes the supplier providing a formal [declaration](data-destruction-instruction-and-confirmation-letter.md#) of destruction. If any destruction tasks are delayed, a confirmation date of final data destruction **SHALL** be provided.
 
 ## Data deletion - Verification for virtual devices and SAN allocations \(public cloud or on-prem\)
 
-When working on an MoJ public cloud or on-premise virtual infrastructure, obtaining a decommissioning or destruction certificate cannot be carried out according to the method used for the MoJ's [on-premise physical servers and disk arrays](secure-disposal-of-it-physical-and-on-premise.md#) when they are wiped, blanked, destroyed, or overwritten. This is because these MoJ infrastructures might be needed to support other services or infrastructure that are still in use.
+When working on an MoJ public cloud or on-premise virtual infrastructure, obtaining a decommissioning or destruction certificate cannot be carried out according to the method used for the MoJ's [on-premise physical servers and disk arrays](secure-disposal-of-it-physical-and-on-premise.md#) when they are wiped, blanked, destroyed, or overwritten. This is because these MoJ infrastructures might be needed to support other services or infrastructure still in use.
 
 For example, a single on-premise physical server might host eight virtual servers providing various services. If three of these virtual servers are deleted, the other five need to continue to operate. Similarly, an on-premise firewall might have a virtual context or a subset of rules that need to be removed, but the physical equipment is still required to provide services to other devices.
 
-A soft and hard decommissioning approach for MoJ on-prem virtual devices might also be required. A soft decommissioning involves switching off the resource, ensuring that it cannot restart on a scheduled basis. This means stopping all hosted service or application, powering down the resource, and setting any remaining firewall rules to block all traffic to or from the resource. Once this soft decommissioning is complete, a hard decommissioning can take place. Hard decomissioning involves deleting the configuration, images, and storage that the virtual devices used, and returning the resources to a resource pool.
+A soft and hard decommissioning approach for MoJ on-prem virtual devices might also be required. A soft decommissioning involves switching off the resource, ensuring that it cannot restart on a scheduled basis. This means stopping all hosted service or application, powering down the resource, and setting any remaining firewall rules to block all traffic to or from the resource. Once this soft decommissioning is complete, a hard decommissioning can take place. Hard decommissioning involves deleting the configuration, images, and storage that the virtual devices used and returning the resources to a resource pool.
 
 The process used for SAN or VM items destruction and decommissioning is described next.
 
@@ -87,15 +93,15 @@ The process used for SAN or VM items destruction and decommissioning is describe
 
 1.  Install a screen recording tool on the operator's terminal. In cases where it is impossible to install a recording tool on a device, screenshots showing before and after states are acceptable if agreed in advance.
 
-2.  Ideally, have a witness sit next to the operator and start the screen recording tool. If this is not possible, then the witness can view the screen recording after the decommissioning activity.
+2.  Ideally, have a witness sit next to the operator and start the screen recording tool. If this is not possible, the witness can view the screen recording after the decommissioning activity.
 
 3.  Encryption keys for the solution **SHOULD** be archived for backup retention purposes, if necessary, onto a secure storage space.
 
 4.  For each of the given technologies, the operator **SHOULD** create an initial listing of the resource, then run the decommissioning task, then finish by creating another listing to show that the change has occurred.
 
-    1.  Depending on the process used to create or maintain backups, some jobs might need to be removed. However, backups **SHOULD NOT** be deleted without consulting the retention policy and confirming that deletion is compliant with polict. This check applies to all decommissioning steps.
+    1.  Depending on the process used to create or maintain backups, some jobs might need to be removed. However, backups **SHOULD NOT** be deleted without consulting the retention policy and confirming that deletion is compliant with policy. This check applies to all decommissioning steps.
 
-    2.  The operator, if possible, formats the SAN areas used for the files and "zero's" them by overwriting all storage with binary 0 data. The operator then deletes the various SAN [LUNs](https://en.wikipedia.org/wiki/Logical_unit_number), Arrays, Volumes, and any other storage units in the SAN. Each of the storage units is reallocated to free space. This is then verified with listings of the SAN structure.
+    2.  The operator, if possible, formats the SAN areas used for the files and "zero's" them by overwriting all storage with binary 0 data. The operator then deletes the various SAN [LUNs](https://en.wikipedia.org/wiki/Logical_unit_number), Arrays, Volumes, and other storage units in the SAN. Each of the storage units is reallocated to free space. This is then verified with listings of the SAN structure.
 
     3.  Any virtual machines are permanently deleted in the virtual machine control panel. An attempt **SHOULD** be made to list and restart the machine; this should provide evidence that the virtual machine has been permanently removed.
 
@@ -112,7 +118,7 @@ The process used for SAN or VM items destruction and decommissioning is describe
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 
