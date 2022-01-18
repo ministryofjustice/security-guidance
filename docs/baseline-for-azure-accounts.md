@@ -4,7 +4,7 @@ The Ministry of Justice \(MoJ\) has a 'lowest common denominator' approach to ap
 
 The baseline is not a holistic 'do' and 'do not' list, but a minimum line in the sand for what 'at least' **SHALL** be done.
 
-This guidance is Version 1.3, September 16, 2021.
+This guidance is Version 1.4, January 17, 2022.
 
 ## The base principle
 
@@ -18,7 +18,7 @@ The MoJ Cyber Security team strongly encourages the use of the highest abstracti
 
 ## Initial Considerations
 
-The type of hosting is the first consideration. AWS is the preferred Cloud Service Provider but we understand that Azure sometimes is a technical requirement.
+The type of hosting is the first consideration. MoJ service developers **SHALL** utilise Cloud Platform for new services. Anyone developing new services **SHOULD** refer to the [How to host services](https://technical-guidance.service.justice.gov.uk/documentation/standards/hosting.html#how-to-host-services) page which provides initial guidance.
 
 Legacy applications **SHOULD** be hosted via the [Modernisation Platform](https://ministryofjustice.github.io/modernisation-platform/user-guide/cloud-platform-or-modernisation-platform.html#should-i-use-the-cloud-platform-or-the-modernisation-platform).
 
