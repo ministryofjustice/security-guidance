@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2022-01-18 09:13 GMT [Updated Overseas Travel Form](https://security-guidance.service.justice.gov.uk/gs/overseas-travel-form.docx)**
+
+    Updated Overseas Travel Form.
+
 -   **2022-01-07 14:36 GMT [Contact details for AWS](https://security-guidance.service.justice.gov.uk/baseline-aws-accounts/#security-incidents)**
 
     Updated contact details for Baseline AWS accounts.
