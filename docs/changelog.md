@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2022-01-18 17:06 GMT [Updated guidance for hosting platforms.](https://security-guidance.service.justice.gov.uk/baseline-for-azure-accounts/)**
+
+    Updated baseline guidance for AWS and Azure platforms.
+
 -   **2022-01-18 09:13 GMT [Updated Overseas Travel Form](https://security-guidance.service.justice.gov.uk/gs/overseas-travel-form.docx)**
 
     Updated Overseas Travel Form.
