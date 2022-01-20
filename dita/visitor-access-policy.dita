@@ -14,6 +14,12 @@
       <p>This policy outlines the access and security management controls that are in place for all visitors to <ph conref="conrefs.dita#conrefs/moj"/> buildings, along with requirements to be completed for escorted or unescorted visitors.</p>
     </body>
   </topic>
+  <topic id="international-delegation-visits">
+    <title>International delegation visits</title>
+    <body>
+      <p>Additional considerations might apply for international officials or diplomats visiting the <ph conref="conrefs.dita#conrefs/moj"/>. Guidance for these visits may be found on the <xref href="https://intranet.justice.gov.uk/guidance/security/international-delegation-visits/" scope="external" format="html">Intranet</xref>.</p>
+    </body>
+  </topic>
   <topic id="scope-and-definition" >
     <title>Scope and Definition</title>
     <body>

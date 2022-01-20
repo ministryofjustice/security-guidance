@@ -12,6 +12,10 @@ To help identify formal policy statements, each is prefixed with an identifier o
 
 This policy outlines the access and security management controls that are in place for all visitors to MoJ buildings, along with requirements to be completed for escorted or unescorted visitors.
 
+## International delegation visits
+
+Additional considerations might apply for international officials or diplomats visiting the MoJ. Guidance for these visits may be found on the [Intranet](https://intranet.justice.gov.uk/guidance/security/international-delegation-visits/).
+
 ## Scope and Definition
 
 For the purpose of this policy, visitor control and escorting procedures are physical security controls that are intended to protect the MoJ from those wishing to gain unauthorised access or cause surreptitious or forced attack.
