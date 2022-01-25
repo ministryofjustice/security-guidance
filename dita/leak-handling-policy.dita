@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="leak-handling-policy">
+  <title>Leak handling policy</title>
+  <body>
+    <p>This document describes the leak handling policy for the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
+    <p>To help identify formal policy statements, each is prefixed with an identifier of the form: POLLEAKxxx, where xxx is a unique ID number.</p>
+  </body>
+  <topic id="audience">
+    <title>Audience</title>
+    <body>
+      <p>This policy is aimed at all other staff working for, or supplying services to, the <ph conref="conrefs.dita#conrefs/moj"/>. This includes General users, Technical users, contractors, third parties, and Service Providers.</p>
+    </body>
+  </topic>
+  <topic id="purpose">
+    <title>Purpose</title>
+    <body>
+      <p>The purpose of this document is to define the requirements and policy for handling leaks associated with or affecting the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+      <p><codeph>POLLEAK001:</codeph> Any exceptions to the policy <ph conref="conrefs.dita#conrefs/policymust"/> be managed through the <ph conref="conrefs.dita#conrefs/moj"/>'s security risk management process.</p>
+    </body>
+  </topic>
+  <topic id="applicability">
+    <title>Applicability</title>
+    <body>
+      <p>This policy applies to all <ph conref="conrefs.dita#conrefs/moj"/> owned or managed services or information, provided or used for any business purpose.</p>
+    </body>
+  </topic>
+  <topic id="enforcement">
+    <title>Enforcement</title>
+    <body>
+      <p>This policy is enforced by lower level policies, standards, procedures, and guidance.</p>
+      <p>Non-conformance with this policy could result in disciplinary action taken in accordance with the <ph conref="conrefs.dita#conrefs/moj"/>'s disciplinary procedures. This could result in penalties up to and including dismissal. If an employee commits a criminal offence, they might also be prosecuted. In such cases, the department always cooperates with the relevant authorities, and provides appropriate evidence.</p>
+    </body>
+  </topic>
+  <topic id="definition">
+    <title>Definition</title>
+    <body>
+      <p>A leak is an unauthorised disclosure of information into the public domain by an official.</p>
+      <p>A useful test is to consider whether the person or system receiving the information is authorised to do so. Do they have a "need to know for business purposes"? If there is no authorisation or need to know, then the disclosure is probably a leak.</p>
+      <p>A leak often takes place, but not always, with the intention of furthering the private interests of the person leaking the information, or of others. Such leaks are considered to be malicious.</p>
+      <p>Leaks can also be accidental or unintentional, for example as a result of security vulnerabilities, or someone leaving a document uncollected in a printer.</p>
+      <p>A leak is different to a data breach, although there are some similarities. The distinction is that in a data breach, specific data is sought to answer a malicious objective. An attack is planned and targeted at obtaining the corresponding data. Specific tools or techniques are deployed and used to gain access to the data. These tools or techniques can be detected by security tooling and processes.</p>
+      <p>By contrast, a leak is less controlled or targeted. It typically takes place using existing business tools or processes, making it harder to detect.</p>
+    </body>
+  </topic>
+  <topic id="information-classification">
+    <title>Information classification</title>
+    <body>
+      <p>The amount of data or information being leaked can vary, from entire documents or reports, down to single sentences or diagrams.</p>
+      <p><codeph>POLLEAK002:</codeph> This policy <ph conref="conrefs.dita#conrefs/policyshall"/> apply to all leaks, regardless of the quantity of data or information involved.</p>
+      <p>It is important to take into account the <xref href="information-classification-handling-and-security-guide.dita" format="dita">information classification</xref> of the data, information, service or system.</p>
+      <p><codeph>POLLEAK003:</codeph> A leak situation cannot apply to any data or information containing only <ph conref="conrefs.dita#conrefs/official"/> material that does not have a handling caveat such as <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
+      <p><codeph>POLLEAK004:</codeph> A leak situation can apply to any data or information containing <ph conref="conrefs.dita#conrefs/official"/> material that does have a handling caveat such as <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
+      <p><codeph>POLLEAK005:</codeph> A leak situation can apply to any data or information containing <ph conref="conrefs.dita#conrefs/secret"/> or <ph conref="conrefs.dita#conrefs/topsecret"/> material.</p>
+      <p><codeph>POLLEAK006:</codeph> A leak situation might apply to the access rights for a system where data or information is located. For example, if a URL link of an <ph conref="conrefs.dita#conrefs/official"/> document that is located on an <ph conref="conrefs.dita#conrefs/official-sensitive"/> system or above is sent to a user or third party, but they do not have access rights to the system to open it, it is a leak of the system but not the content.</p>
+      <note>If someone has the correct access rights to both some information, and the system hosting the information, prints a copy and gives it to a user or a third party. In that case, it is not considered a leak of the system because the access is authorised. However, the disclosure of the information to the third party might be a leak.</note>
+    </body>
+  </topic>
+  <topic id="draft-information">
+    <title>Draft information</title>
+    <body>
+      <p><codeph>POLLEAK007:</codeph> Draft content <ph conref="conrefs.dita#conrefs/policyshall"/> be labelled correctly to confirm the security classification or the security handling requirements that apply to it.</p>
+      <p>For example, someone might be unsure of a draft document's security classification. It might be prudent to classify the draft as <ph conref="conrefs.dita#conrefs/official-sensitive"/> or higher, until the document is approved and a final classification determined.</p>
+    </body>
+  </topic>
+  <topic id="other-applicable-policy">
+    <title>Other applicable policy</title>
+    <body>
+      <p><codeph>POLLEAK008:</codeph> To minimise the possibility of a leak occurring, all users <ph conref="conrefs.dita#conrefs/policyshall"/> comply with <ph conref="conrefs.dita#conrefs/moj"/> policy, in particular the <xref href="acceptable-use-policy.dita" format="dita">acceptable use policy</xref>, user access management as part of the <xref href="access-control-policy.dita" format="dita">access control policy</xref>, and the <xref href="information-classification-handling-and-security-guide.dita" format="dita">information classification, handling and security guide</xref>.</p>
+    </body>
+  </topic>
+  <topic id="harm-that-leaks-cause">
+    <title>Harm that leaks cause</title>
+    <body/>
+    <topic id="accidental-leaks">
+      <title>Accidental leaks</title>
+      <body>
+        <p>A lack of due diligence in an environment <ph conref="conrefs.dita#conrefs/policymight"/> lead to sensitive <ph conref="conrefs.dita#conrefs/moj"/> information being Overseen, Overheard, or Overshared. An example would be publication of sensitive information to an unintended audience, by clicking 'reply all' on an email, or having email auto forwarding active on your account.</p>
+        <p>
+          * 
+          Impact
+          * Reputational damage undermines trust and good government.
+          * A leak that adversely affects the UK Government policies or relationships with other countries.
+          * The sharing of market sensitive-information, critical to the UK economy.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
