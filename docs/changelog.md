@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2022-01-25 10:37 GMT [Publication of ransomware information leaflet.](https://security-guidance.service.justice.gov.uk/ransomware/)**
+
+    Useful leaflet explaining what Ransomware is, and tips on protecting your work and your systems.
+
 -   **2022-01-18 17:06 GMT [Updated guidance for hosting platforms.](https://security-guidance.service.justice.gov.uk/baseline-for-azure-accounts/)**
 
     Updated baseline guidance for AWS and Azure platforms.
