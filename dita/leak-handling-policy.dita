@@ -59,6 +59,7 @@
   <topic id="draft-information">
     <title>Draft information</title>
     <body>
+      <p>Work in progress activities, or draft information, might also be the subject of a leak.</p>
       <p><codeph>POLLEAK007:</codeph> Draft content <ph conref="conrefs.dita#conrefs/policyshall"/> be labelled correctly to confirm the security classification or the security handling requirements that apply to it.</p>
       <p>For example, someone might be unsure of a draft document's security classification. It might be prudent to classify the draft as <ph conref="conrefs.dita#conrefs/official-sensitive"/> or higher, until the document is approved and a final classification determined.</p>
     </body>
@@ -75,11 +76,8 @@
     <topic id="accidental-leaks">
       <title>Accidental leaks</title>
       <body>
-        <p>A lack of due diligence in an environment <ph conref="conrefs.dita#conrefs/policymight"/> lead to sensitive <ph conref="conrefs.dita#conrefs/moj"/> information being Overseen, Overheard, or Overshared. An example would be publication of sensitive information to an unintended audience, by clicking 'reply all' on an email, or having email auto forwarding active on your account.</p>
-        <p>
-          * 
-          Impact
-          * Reputational damage undermines trust and good government.
+        <p>A lack of due diligence in an environment <ph conref="conrefs.dita#conrefs/policymight"/> lead to sensitive <ph conref="conrefs.dita#conrefs/moj"/> information being Overseen, Overheard, or Overshared. An example would be publication of sensitive information to an unintended audience, by clicking "reply all" on an email, or having the "email auto forward" capability active on your account.</p>
+        <p>A leak might always result in Reputational damage undermines trust and good government.
           * A leak that adversely affects the UK Government policies or relationships with other countries.
           * The sharing of market sensitive-information, critical to the UK economy.</p>
       </body>
