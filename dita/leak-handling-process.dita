@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="leak-handling-process">
+  <title>Leak handling process</title>
+  <body>
+    <p>This document describes the leak handling process for the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
+    <p>It should be read in conjunction with the associated <xref href="leak-handling-policy.dita" format="dita">leak handling policy</xref>.</p>
+  </body>
+  <topic id="audience">
+    <title>Audience</title>
+    <body>
+      <p>This process is aimed at all other staff working for, or supplying services to, the <ph conref="conrefs.dita#conrefs/moj"/>. This includes General users, Technical users, contractors, third parties, and Service Providers.</p>
+    </body>
+  </topic>
+<topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

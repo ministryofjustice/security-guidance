@@ -349,10 +349,13 @@ if an audience attribute is present, then only matching content is included.
 			</topicref>
 			<topicref href="incident-management-plan-and-process-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="it-incident-management-policy.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="leak-handling-policy.dita" type="topic"/>
+			<topicref href="leak-handling-process.dita" type="topic"/>
 			<topicref href="lost-devices-incidents.dita" type="topic" audience="audience-basic audience-tech"/>
 			<!--
 			<topicref href="moj-forensic-readiness-policy.dita" type="topic" audience="audience-tech"/>
 			-->
+			<topicref href="reporting-an-incident.dita" type="topic"/>
 		</topichead>
 	</topichead>
 
@@ -567,6 +570,14 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="email-blocklist-process.dita"/>
 				<topicref href="secure-email-transfer-guide.dita"/>
 				<topicref href="spam-and-phishing-guide.dita"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="leak-handling-policy.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="leak-handling-process.dita"/>
 			</relcell>
 		</relrow>
 	</reltable>

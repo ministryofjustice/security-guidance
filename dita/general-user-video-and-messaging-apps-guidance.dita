@@ -48,7 +48,7 @@
 			including social media.
 			To access this information you'll need to be connected to the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.</p>
 			<p>In particular,
-			follow the <xref href="https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code" format="html" scope="external">Civil Service Code of Conduct</xref>.</p>
+			follow the <ph conref="conrefs.dita#conrefs/civilservicecode"/>.</p>
 		</body>
 	</topic>
 	<topic id="using-video-conference-tools-safely">
@@ -271,7 +271,7 @@
 						<row>
 							<entry colname="col1">Twitter</entry>
 							<entry colname="col2">Text Messaging, Video transmission</entry>
-							<entry colname="col3">Approved for <ph conref="conrefs.dita#conrefs/moj"/> Corporate account. Using a personal account to comment on work related issues is encouraged, as long as you follow the <xref href="https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code" format="html" scope="external">Civil Service Code of Conduct</xref>.</entry>
+							<entry colname="col3">Approved for <ph conref="conrefs.dita#conrefs/moj"/> Corporate account. Using a personal account to comment on work related issues is encouraged, as long as you follow the <ph conref="conrefs.dita#conrefs/civilservicecode"/>.</entry>
 							<entry colname="col4">Web browser, Windows 10 App, Smartphone App.</entry>
 							<entry colname="col5">Internal/External</entry>
 						</row>

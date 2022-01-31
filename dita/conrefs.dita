@@ -28,6 +28,7 @@
 			<ph id="certificatesemail"><xref href="mailto:certificates@digital.justice.gov.uk" format="email" scope="external">certificates@digital.justice.gov.uk</xref></ph>
 			<ph id="cisolong">Chief Information Security Officer (CISO)</ph>
 			<ph id="ciso">CISO</ph>
+			<ph id="civilservicecode"><xref href="https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code" scope="external" format="html">Civil Service Code of Conduct</xref></ph>
 			<ph id="cjsmemail"><xref href="mailto:cjsm.helpdesk@egress.com" format="email" scope="external">cjsm.helpdesk@egress.com</xref></ph>
 			<ph id="cjsmemailtext"><xref href="mailto:cjsm.helpdesk@egress.com" format="email" scope="external">CJSM Helpdesk</xref></ph>
 			<ph id="cluster2securityunittext"><xref href="mailto:contactus@cluster2security.gov.uk" format="email" scope="external">Cluster 2 Security Unit</xref></ph>
@@ -58,7 +59,8 @@
 			<ph id="ncsc">NCSC</ph>
 			<ph id="nsvc-contact">If you don't know who your NSVC is,
 				refer to the download <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external">here</xref>.</ph>
-			<ph id="official"><codeph>OFFICIAL</codeph></ph>
+				<ph id="official"><codeph>OFFICIAL</codeph></ph>
+				<ph id="officialsecretsact"><xref href="https://www.legislation.gov.uk/ukpga/1989/6/contents" scope="external" format="html">Official Secrets Act 1989</xref></ph>
 			<ph id="officialsensitive"><ph conref="#conrefs/official-sensitive"/></ph>
 			<ph id="official-sensitive"><codeph>OFFICIAL-SENSITIVE</codeph></ph>
 			<ph id="operationsengineering"><xref href="https://operations-engineering.service.justice.gov.uk/" format="html" scope="external">Operations Engineering</xref></ph>

@@ -5,6 +5,7 @@
   <body>
     <p>This document describes the leak handling policy for the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
     <p>To help identify formal policy statements, each is prefixed with an identifier of the form: POLLEAKxxx, where xxx is a unique ID number.</p>
+    <p>Information on following the policy may be found in the associated <xref href="leak-handling-process.dita" format="dita">leak handling process</xref>.</p>
   </body>
   <topic id="audience">
     <title>Audience</title>
@@ -67,23 +68,58 @@
   <topic id="other-applicable-policy">
     <title>Other applicable policy</title>
     <body>
-      <p><codeph>POLLEAK008:</codeph> To minimise the possibility of a leak occurring, all users <ph conref="conrefs.dita#conrefs/policyshall"/> comply with <ph conref="conrefs.dita#conrefs/moj"/> policy, in particular the <xref href="acceptable-use-policy.dita" format="dita">acceptable use policy</xref>, user access management as part of the <xref href="access-control-policy.dita" format="dita">access control policy</xref>, and the <xref href="information-classification-handling-and-security-guide.dita" format="dita">information classification, handling and security guide</xref>.</p>
+      <p><codeph>POLLEAK008:</codeph> To minimise the possibility of a leak occurring, all users <ph conref="conrefs.dita#conrefs/policyshall"/> comply with <ph conref="conrefs.dita#conrefs/moj"/> policy, in particular the <xref href="acceptable-use-policy.dita" format="dita">acceptable use policy</xref>, user access management as part of the <ph audience="audience-suppliers audience-tech"><xref href="access-control-policy.dita" format="dita">access control policy</xref></ph><ph audience="audience-basic"><xref href="https://security-guidance.service.justice.gov.uk/access-control-policy/" format="html" scope="external">access control policy</xref></ph>,
+        and the <xref href="information-classification-handling-and-security-guide.dita" format="dita">information classification, handling and security guide</xref>.</p>
     </body>
   </topic>
   <topic id="harm-that-leaks-cause">
     <title>Harm that leaks cause</title>
-    <body/>
-    <topic id="accidental-leaks">
-      <title>Accidental leaks</title>
-      <body>
-        <p>A lack of due diligence in an environment <ph conref="conrefs.dita#conrefs/policymight"/> lead to sensitive <ph conref="conrefs.dita#conrefs/moj"/> information being Overseen, Overheard, or Overshared. An example would be publication of sensitive information to an unintended audience, by clicking "reply all" on an email, or having the "email auto forward" capability active on your account.</p>
-        <p>A leak might always result in Reputational damage undermines trust and good government.
-          * A leak that adversely affects the UK Government policies or relationships with other countries.
-          * The sharing of market sensitive-information, critical to the UK economy.</p>
-      </body>
-    </topic>
+    <body>
+      <p>Examples of harm caused by leaks include:
+        <ul>
+          <li>A leak might result in reputational damage, undermining trust and good government.</li>
+          <li>A leak might adversely affect UK Government policies, or relationships with other countries.</li>
+          <li>A leak might include market-sensitive information that is critical to the UK economy.</li>
+        </ul>
+      </p>
+    </body>
   </topic>
-  <topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
+  <topic id="accidental-leaks">
+    <title>Accidental leaks</title>
+    <body>
+      <p>A lack of due diligence in an environment <ph conref="conrefs.dita#conrefs/policymight"/> lead to sensitive <ph conref="conrefs.dita#conrefs/moj"/> information being Overseen, Overheard, or Overshared.</p>
+      <p>An example would be publication of sensitive information to an unintended audience, by clicking "reply all" on an email, or having the "email auto forward" capability active on your account.</p>
+    </body>
+  </topic>
+  <topic id="malicious-leaks">
+    <title>Malicious leaks</title>
+    <body>
+      <p>Malicious leaks are intentional. They are planned. They are deliberate. They will often bypass controls and mechanisms intended to prevent accidental leaks.</p>
+      <p>Examples of malicious leaks would include:
+        <ul>
+          <li>Someone within the <ph conref="conrefs.dita#conrefs/moj"/> sharing confidential <ph conref="conrefs.dita#conrefs/moj"/> information through the web, using email, or using mobile data storage devices such as optical media, USB keys, and laptops.</li>
+          <li>Deliberately sending confidential information to any unauthorised audience, by knowingly including that audience in an email reply, or setting up the "email auto forward" capability on your account to include that audience.</li>
+        </ul>
+      </p>
+    </body>
+  </topic>
+  <topic id="consequences">
+    <title>Consequences</title>
+    <body>
+      <p>Any civil servant found to have perpetrated a leak could face disciplinary proceedings, with consequences up to and including dismissal. In addition, in extreme cases where an offence has been committed under the <ph conref="conrefs.dita#conrefs/officialsecretsact"/>, there might be a police investigation that could result in a criminal conviction.</p>
+      <p>This leak handling policy complements the <xref href="https://intranet.justice.gov.uk/documents/2015/04/conduct-policy.pdf" scope="external" format="pdf"><ph conref="conrefs.dita#conrefs/moj"/> Conduct Policy</xref>, which states:
+        <lq>You will not release official information unless you are authorised to do so. If you release official information without authority, your manager may take action under the disciplinary procedure.</lq>
+      </p>
+      <p>This leak handling guidance is based upon:
+        <ul>
+          <li>The <ph conref="conrefs.dita#conrefs/civilservicecode"/>, which sets out values for all civil servants.</li>
+          <li>Rules that affect civil servants, such as confidentiality and appropriate behaviour.</li>
+          <li>Conduct that meets the <ph conref="conrefs.dita#conrefs/moj"/> organisational values.</li>
+        </ul>
+      </p>
+    </body>
+  </topic>
+<topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

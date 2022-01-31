@@ -1310,6 +1310,14 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
+                <entry colname="col1" align="left"><xref href="leak-handling-policy.dita" format="dita">Leak handling policy</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
+                <entry colname="col1" align="left"><xref href="leak-handling-process.dita" format="dita">Leak handling process</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
                 <entry colname="col1" align="left"><xref href="lost-devices-incidents.dita" format="dita">Lost devices or other IT security incidents</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/incident-management/lost-devices/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
