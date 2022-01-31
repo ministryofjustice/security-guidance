@@ -13,18 +13,20 @@ should be submitted for inclusion in the appropriate source folder.
 If you are not sure which format or folder to use,
 please [open an issue](https://github.com/ministryofjustice/security-guidance/issues).
 
+All contributions into GitHub must be [signed.](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
+
 # Step-by-step
 
 The basic process is as follows:
 
 1.  Fork a copy of the [MoJ Security Guidance repository](https://github.com/ministryofjustice/security-guidance) within GitHub.
-2.  Create a [feature branch](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) from the `main` branch.
-3.  Make your suggested changes.
+2.  Create a [feature branch](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) from the `main-preproduction` branch.
+3.  Make your suggested changes, making sure that all commits are [signed](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
 4.  Submit the changes as a [GitHub Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (PR).
 
 When the PR is received, your suggestions are reviewed.
-If they are accepted, the PR is accepted and merged into the content.
-This places you suggested content into the source folder,
+If they are accepted, the PR is accepted and merged into the `main-preproduction` content.
+This places your suggested content into the source folder,
 but does *not* immediately result in any changes to the published content.
 
 Behind the scenes,
