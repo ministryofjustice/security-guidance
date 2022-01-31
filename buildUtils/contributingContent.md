@@ -24,7 +24,7 @@ The basic process is as follows:
 
 When the PR is received, your suggestions are reviewed.
 If they are accepted, the PR is accepted and merged into the content.
-This places you suggested content into the source folder,
+This places your suggested content into the source folder,
 but does *not* immediately result in any changes to the published content.
 
 Behind the scenes,
