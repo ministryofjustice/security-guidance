@@ -3,8 +3,12 @@
 <topic id="leak-handling-process">
   <title>Leak handling process</title>
   <body>
-    <p>This document describes the leak handling process for the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
+    <p>This document provides a high-level overview of the leak handling process for the <ph conref="conrefs.dita#conrefs/mojlong"/>. It includes the roles, responsibilities, and major steps performed as part of leak handling.</p>
     <p>It should be read in conjunction with the associated <xref href="leak-handling-policy.dita" format="dita">leak handling policy</xref>.</p>
+    <p>Send all leak questions or requests for help to <ph conref="conrefs.dita#conrefs/securityemail"/>. This applies to all leaks, suspected or otherwise. Your message is evaluated promptly, and normally passed to <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>. Depending on the circumstances, the <ph conref="conrefs.dita#conrefs/ostemailtext"/> might also provide direct advice on a case-by-case basis.</p>
+    <note>Normally, the <xref href="it-incident-management-policy.dita" format="dita" audience="audience-suppliers audience-tech"><ph conref="conrefs.dita#conrefs/moj"/> incident management process</xref><xref href="https://security-guidance.service.justice.gov.uk/it-incident-management-policy/" format="html" scope="external" audience="audience-basic"><ph conref="conrefs.dita#conrefs/moj"/> incident management process</xref> is followed at the start of a leak investigation.</note>
+    <note>If a leak investigation indicates that physical examination of evidence is required, then <ph conref="conrefs.dita#conrefs/ostemailtext"/> involvement will involve a Team Lead as a minimum.</note>
+    <note>An informal leak investigation takes place entirely within the <ph conref="conrefs.dita#conrefs/moj"/>. A formal leak investigation takes place with involvement from outside the <ph conref="conrefs.dita#conrefs/moj"/>, typically Cabinet Office.</note>
   </body>
   <topic id="audience">
     <title>Audience</title>
@@ -12,7 +16,77 @@
       <p>This process is aimed at all other staff working for, or supplying services to, the <ph conref="conrefs.dita#conrefs/moj"/>. This includes General users, Technical users, contractors, third parties, and Service Providers.</p>
     </body>
   </topic>
-<topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
+  <topic id="roles-and-responsibilities">
+    <title>Roles and responsibilities</title>
+    <body>
+      <dl>
+        <dlentry>
+          <dt>All parties</dt>
+          <dd>For each leak investigation, all parties agree on the scale, the scope, the expectations, and the limitations.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Chief Security Officer</dt>
+          <dd>Notifies and continues to update the <ph conref="conrefs.dita#conrefs/moj"/> Permanent Secretary regarding the incident. Obtains authorisation for a leak investigation if approved.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Group Security</dt>
+          <dd>Following authorisation from the <ph conref="conrefs.dita#conrefs/moj"/> Permanent Secretary, Group Security:
+            <ol>
+              <li>Reviews the information available.</li>
+              <li>Defines the scope of the informal investigation (internal to the <ph conref="conrefs.dita#conrefs/moj"/>).</li>
+              <li>Provides the Cyber Security Team with the defined investigation scope, and requests an electronic investigation if required.</li>
+              <li>Issues the leak questions to those known to have had access to the leaked information.</li>
+              <li>Reviews all evidence gathered, and prepares the informal leak report.</li>
+            </ol>
+          </dd>
+        </dlentry>
+        <dlentry>
+          <dt>IA Lead, Case Manager or Requestor</dt>
+          <dd>Provides all investigation requirements. Provides governance sign-off. Communicates with Operational Security team on case status, including case closure notification or retention date.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Operational Security 'Front Door' team</dt>
+          <dd>Triages and formally logs incidents using ServiceNow. Works closely with all other security teams to resolve or escalate as required. The Front Door team ensures that the Chief Security Officer is notified and kept informed of all suspected leak incidents.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Operational Security team</dt>
+          <dd>Has ownership of all data acquisition, preservation, analysis and reporting. This includes verification of sign-off. Provides regular feedback case review as needed. Tracks incidents using Service-Now and team internal tracker tools.</dd>
+        </dlentry>
+      </dl>
+    </body>
+  </topic>
+  <topic id="process">
+    <title>Process</title>
+    <body/>
+    <topic id="identify-leak">
+      <title>1. Identify leak</title>
+      <body>
+        <p>A leak investigation is requested. The request might come from any of:
+          <ul>
+            <li>Chief Information Security Officer (CISO).</li>
+            <li>Departmental office.</li>
+            <li>Executive office.</li>
+            <li>HMPPS.</li>
+            <li>Ministerial office.</li>
+            <li><ph conref="conrefs.dita#conrefs/moj"/> agencies.</li>
+            <li>Permanent Secretary.</li>
+            <li>Senior Civil Servant (SCS).</li>
+            <li>Other cross-government source.</li>
+          </ul>
+        </p>
+        <p>The request indicates that a leak investigation is required. The request is submitted to the security 'Front Door': <ph conref="conrefs.dita#conrefs/securityemail"/>.</p>
+        <p>Proceed to <xref href="#is-it-a-leak" format="dita">the next step</xref>.</p>
+      </body>
+    </topic>
+    <topic id="is-it-a-leak">
+      <title>2. Is it a leak?</title>
+      <body>
+        <p>The security team eavluates the request.</p>
+        <p>If the situation is indeed a leak, the request is sent to <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>. Proceed to step 2.1.</p>
+        <p>If the situation is not a leak, or it is not clear whether the situation is a leak, the request is sent to <ph conref="conrefs.dita#conrefs/ostemailtext"/>. Proceed to step 2.2.</p>
+      </body>
+    </topic>
+  </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
