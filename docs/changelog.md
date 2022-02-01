@@ -2,6 +2,10 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+-   **2022-02-01 11:51 GMT [Update to passwords guidance.](https://security-guidance.service.justice.gov.uk/passwords/#general-best-practices)**
+
+    A reminder not to share passwords or other account details.
+
 -   **2022-01-25 10:37 GMT [Publication of ransomware information leaflet.](https://security-guidance.service.justice.gov.uk/ransomware/)**
 
     Useful leaflet explaining what Ransomware is, and tips on protecting your work and your systems.
