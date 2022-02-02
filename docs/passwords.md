@@ -23,6 +23,8 @@ This guidance is for all users. It also includes more detail for system administ
 
 **Note:** This section applies to passwords and PINs.
 
+You **SHALL NOT** share your password or account details with anyone, unless you have documented approval to share from your Line Manager or higher senior manager.
+
 If a system or another person provides you with a password, change it before doing any MoJ work on that system. Examples of 'single-use' passwords include:
 
 -   Your own account on a work-provided laptop.
