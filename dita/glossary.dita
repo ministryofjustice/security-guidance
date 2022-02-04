@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<!-- DITA build of definition lists does not produce Markdown/HTML targets by default.
+     The content build runs a script (dlTarget.py) to parse the generated Markdown,
+     and generate HTML targets for DL entries. -->
 <topic id="glossary">
   <title>Glossary</title>
   <body>
@@ -13,7 +16,7 @@
       <dl>
         <dlentry>
           <dt>2FA</dt>
-          <dd>Refer to <xref href="#terms/mfa" format="dita">Multi-factor authentication</xref>.</dd>
+          <dd>Refer to <xref href="#terms/multi-factor-authentication-mfa" format="dita">Multi-factor authentication</xref>.</dd>
         </dlentry>
         <dlentry>
           <dt>Authorised User</dt>
@@ -25,9 +28,9 @@
         </dlentry>
         <dlentry>
           <dt>Brute Force Attack</dt>
-          <dd>The application of lots of computer power, to try and perform a task using a huge number of values. Typically used to try out passwords to gain access to systems.</dd>
+          <dd>The application of lots of computer power, to try and perform a task using a huge number of values. Typically used to try out many passwords, to gain access to systems.</dd>
         </dlentry>
-        <dlentry id="bcp">
+        <dlentry id="business-continuity-plan-bcp">
           <dt>Business Continuity Plan (BCP)</dt>
           <dd>A document that outlines the procedures in place for a business to continue to operate, despite an unexpected disruption to services. These disruptions might be things such as cyber attacks, pandemics, or natural disasters.</dd>
         </dlentry>
@@ -61,11 +64,15 @@
         </dlentry>
         <dlentry>
           <dt>Digital footprint</dt>
-          <dd>A collection of digital traces left behind by a user, as they do activities online.</dd>
+          <dd>A collection of data and information traces left behind by a user, as they do activities online. For example, all the things you've ever searched for on Google.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Double encryption ransomware</dt>
+          <dd>Refer to <xref href="#terms/ransomware" format="dita">ransomware</xref>.</dd>
         </dlentry>
         <dlentry id="encryption">
           <dt>Encryption</dt>
-          <dd>The process of converting human-readable text into unreadable 'disguised' information, or 'ciphertext'. You can see it, but you can't understand it. Only someone with a decryption key can convert ('decrypt') the unreadable information back into human-readable form again.</dd>
+          <dd>The process of converting human-readable text into unreadable 'disguised' information, or 'ciphertext'. You can see it, but you can't understand it. Only someone with a <xref href="#terms/decryption" format="dita">decryption</xref> key can convert ('decrypt') the unreadable information back into human-readable form again.</dd>
         </dlentry>
         <dlentry id="exfiltrate">
           <dt>Exfiltrate</dt>
@@ -95,13 +102,13 @@
           <dt>Malware</dt>
           <dd>Malicious software. This includes things like viruses, trojans, worms, or any code that can have a negative impact on an a system.</dd>
         </dlentry>
-        <dlentry id="mfa">
+        <dlentry id="multi-factor-authentication-mfa">
           <dt>Multi-factor authentication (MFA)</dt>
           <dd>Use of two or more different components to verify a user's claimed identity. Typically an extra component, in addition to a <xref href="#terms/password" format="dita">password</xref>. MFA often uses an authenticator app or SMS text to deliver a single use code. Also Two-factor authentication (2FA).</dd>
         </dlentry>
         <dlentry>
           <dt>Open Source Intelligence (OSINT)</dt>
-          <dd>Information gathered from public information including data from public social network accounts, company websites, and other openly available information sources.</dd>
+          <dd>Information gathered from public information. This includes data from social network accounts, company websites, and other openly available information sources.</dd>
         </dlentry>
         <dlentry>
           <dt>Operational Security Team (OST)</dt>
@@ -109,7 +116,7 @@
         </dlentry>
         <dlentry>
           <dt>Out of band check</dt>
-          <dd>An additional check performed using a different communication channel, to verify identity or intent. For example, if you receive an email from a senior manager, asking you to perform an unusual task, you would want to check that the request is genuine. If you reply by email to the original request, that's an 'in band' check, and can't be trusted because it's possible the manager's email has been compromised. But if you called the manager by mobile phone to check the request, that's using a different communication technology, so it's an out of band check. A <xref href="#terms/threat-actor" format="dita">threat actor</xref> would have to compromise the manager's email and mobile phone account to succeed in tricking you.</dd>
+          <dd>An additional check performed using a different communication channel, to verify identity or intent. The check helps prevent <xref href="#terms/phishing" format="dita">phishing</xref> or <xref href="#terms/social-engineering" format="dita">social engineering</xref> attacks. For example, if you receive an email from a senior manager, asking you to perform an unusual task, you should want to check that the request is genuine. If you reply by email to the original request, that's an 'in band' check, and can't be trusted, because it's possible the manager's email has been compromised. But if you called the manager by mobile phone to check the request, that's using a different communication technology, so it's an out of band check. A <xref href="#terms/threat-actor" format="dita">threat actor</xref> would have to compromise both the manager's email and their mobile phone account to succeed in tricking you.</dd>
         </dlentry>
         <dlentry id="password">
           <dt>Password</dt>
@@ -119,7 +126,7 @@
           <dt>Patching</dt>
           <dd>Applying updates to software or firmware to improve security and enhance functionality.</dd>
         </dlentry>
-        <dlentry>
+        <dlentry id="phishing">
           <dt>Phishing</dt>
           <dd>Untargeted mass emails sent to many individuals. The email typically asks for sensitive information, or encourages you to visit fake websites, or to send money.</dd>
         </dlentry>
@@ -135,13 +142,13 @@
           <dt>Process</dt>
           <dd>A structured set of activities designed to accomplish a specific objective. A process takes one or more defined inputs and turns them into defined outputs. A process might include any of the roles, responsibilities, tools, and management controls required to deliver the outputs reliably. A process might define policies, standards, guidelines, activities, and work instructions if they are needed.</dd>
         </dlentry>
-        <dlentry>
+        <dlentry id="ransomware">
           <dt>Ransomware</dt>
           <dd>Malicious software that makes data or systems unusable by <xref href="#terms/encryption" format="dita">encrypting</xref> it and then demanding a payment from the victim to <xref href="#terms/decryption" format="dita">decrypt</xref> it. Double Extortion Ransomware <xref href="#terms/exfiltrate" format="dita">exfiltrates</xref> the data before encryption and demands a ransom payment to stop the <xref href="#terms/threat-actor" format="dita">threat actor</xref> releasing the data to the public, as well as for decrypting the system.</dd>
         </dlentry>
         <dlentry>
           <dt>Red team</dt>
-          <dd>This is an internal or external team that tests organisational security by simulating cyber attacks as realistically as possible. Together with the <xref href="#terms/blue-team" format="dita">Blue Team</xref>, this helps to improve the cyber defences of the organisation.</dd>
+          <dd>This is an internal or external team that tests organisational security by simulating cyber attacks as realistically as possible. Together with the <xref href="#terms/blue-team" format="dita">Blue Team</xref>, the team helps to improve the cyber defences of the organisation.</dd>
         </dlentry>
         <dlentry>
           <dt>Resolution</dt>
@@ -155,17 +162,17 @@
           <dt>Service Desk</dt>
           <dd>The single point of contact between the service provider and the users. A typical Service Desk manages <xref href="#terms/incident" format="dita">incidents</xref> and service requests, and handles communication with the users.</dd>
         </dlentry>
-        <dlentry>
+        <dlentry id="social-engineering">
           <dt>Social engineering</dt>
           <dd>Manipulating people into doing things or divulging information that is of use to a <xref href="#terms/threat-actor" format="dita">threat actor</xref>.</dd>
         </dlentry>
         <dlentry>
           <dt>Tabletop</dt>
-          <dd>An exercise created to try out <xref href="#terms/bcp" format="dita">Business Continuity Plans (BCPs)</xref>. They create a realistic scenario and play through a number of obstacles to ensure organisations have robust BCPs.</dd>
+          <dd>An exercise created to try out <xref href="#terms/business-continuity-plan-bcp" format="dita">Business Continuity Plans (BCPs)</xref>. These exercises create realistic scenarios, and play through a number of obstacles, to ensure organisations have robust BCPs.</dd>
         </dlentry>
         <dlentry>
           <dt>Tailgating</dt>
-          <dd>An unauthorised individual forcefully or stealthily gaining access to a building by entering immediately behind an authorised user.</dd>
+          <dd>An unauthorised individual forcefully or stealthily gaining access to a building, typically by entering immediately behind an authorised user.</dd>
         </dlentry>
         <dlentry id="threat-actor">
           <dt>Threat actor</dt>
