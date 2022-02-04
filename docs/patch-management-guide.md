@@ -78,7 +78,7 @@ The following Patching Schedule defines the indicative severity ratings and cons
 
 **Note:** The default is for patches to be applied as soon as possible. You should not normally delay patching because of concerns about possible issues with the patches themselves.
 
-Patches and updates for security related devices must be treated as High Risk \(3\) at least, and implemented in accordance with this rating.
+Patches and updates for security related devices must be treated as High Risk \(3\) at least, and implemented in accordance with this rating. For more details on risk ratings, refer to the [vulnerability risk ratings](vulnerability-scanning-guide.md#vulnerability-risk-ratings) information.
 
 For ratings of High Risk \(3\) or Critical \(4\), the [Risk Advisor Team](#contact-details) must evaluate the probability and impact, and use this to guide a 'tolerance' period, at the end of which a patch must be applied.
 
@@ -90,8 +90,8 @@ An IRAR is normally completed by Security Architects and Risk Assessors, in conv
 
 |Rating \(Severity\)|Infrastructure Devices; Server Applications; Digital Services|End User Client Devices|Web Check Reporting|
 |-------------------|-------------------------------------------------------------|-----------------------|-------------------|
-|Critical \(4\)|3-7 days after vulnerability alert released.|14 days after vulnerability alert released.|**Urgent:** Serious configuration problems that you should fix without delay and no later than 28 days after the vulnerability alert is released.|
-|High Risk \(3\)|3-7 days after vulnerability alert released.|14 days after vulnerability alert released.|**Advisory:** Configuration problems that leave the site vulnerable. Patches should be implemented no later than 28 days after the vulnerability alert is released.|
+|Critical \(4\)|1-2 days after vulnerability alert released.|3-4 days after vulnerability alert released.|**Urgent:** Serious configuration problems that you should fix without delay and no later than 1-2 days after the vulnerability alert is released.|
+|High Risk \(3\)|3-7 days after vulnerability alert released.|14 days after vulnerability alert released.|**Advisory:** Configuration problems that leave the site vulnerable. Patches should be implemented no later than 14 days after the vulnerability alert is released.|
 |Medium \(2\)|28 days after vulnerability alert released.|28 days after vulnerability alert released.|**Informational:** Configurations that you could optimise, or information that you may find useful.|
 |Low \(1\)|Next scheduled system upgrade \(not to exceed 90 days\).|Next scheduled system upgrade \(not to exceed 90 days\).|**N/A**|
 |Positive \(0\)|N/A|N/A|**Positive:** Site configurations that conform to best practices.|
