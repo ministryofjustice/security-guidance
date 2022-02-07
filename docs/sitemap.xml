@@ -8,13 +8,18 @@
 
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/</loc>
-  <lastmod>2022-02-01T11:51:00+00:00</lastmod>
+  <lastmod>2022-02-07T15:49:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/</loc>
-  <lastmod>2022-02-01T11:51:00+00:00</lastmod>
+  <lastmod>2022-02-07T15:49:00+00:00</lastmod>
   <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/glossary/</loc>
+  <lastmod>2022-02-07T15:49:00+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance.pdf</loc>
@@ -944,11 +949,6 @@
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/risk-reviews/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/glossary/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
