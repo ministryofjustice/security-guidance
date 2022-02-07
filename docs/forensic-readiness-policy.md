@@ -31,6 +31,8 @@ This document is the Ministry of Justice \(MoJ\) IT Security – Forensic Readin
 
 Each policy statement outlines a security requirement and where applicable, a reference is provided to further material. A unique identify is associated with each statement for easy reference. The format of each statement is as follows:
 
+<a name="pol.frp.xxx"></a>
+
 -   **POL.FRP.XXX**
 
     Policy statement text.
@@ -59,6 +61,8 @@ The use of IT forensics as a course of action is linked to decisions made during
 
 This policy outlines the requirements to collect, preserve and analyse data in a systematic, standardised and legally compliant fashion to ensure the admissibility of evidence in a legal case, dispute or disciplinary hearing relating to an incident.
 
+<a name="pol.frp.001"></a>
+
 -   **POL.FRP.001**
 
     Each IT system or IT domain **must have** \(or be explicitly covered by\) a Forensic Readiness Plan which implements this policy.
@@ -78,6 +82,8 @@ This Policy applies to all users of MoJ IT systems; this includes contractors an
 
 Skilled perpetrators may attempt to cover up their unauthorised or malicious actions. An investigator, using IT forensic tools, can detect these actions and take suitable actions to limit the risk exposure from an incident.
 
+<a name="pol.frp.002"></a>
+
 -   **POL.FRP.002**
 
     The MoJ **must have** the capacity to conduct a forensic investigation \(as required\), whether it involves the use of internal or external capability and resource.
@@ -86,6 +92,8 @@ Skilled perpetrators may attempt to cover up their unauthorised or malicious act
 #### Deterrence
 
 IT Security awareness training ensures staff are aware of the [IT Security Acceptable Use Policy](acceptable-use-policy.md) and that the MoJ has the right and ability to monitor all IT systems for conformance to this policy. This may deter staff from inappropriate, illegal or malicious actions. Additionally, external awareness of MoJ system monitoring capability may also deter unauthorised users from attempting to access or attack MoJ facilities and IT systems.
+
+<a name="pol.frp.003"></a>
 
 -   **POL.FRP.003**
 
@@ -96,9 +104,13 @@ IT Security awareness training ensures staff are aware of the [IT Security Accep
 
 An IT Security Incident Management Plan documents a set of pre-planned procedures and methods for instigating and conducting an investigation. Part of this plan is concerned with the criteria for forensic monitoring and investigation. This is to ensure that all forensic investigations are conducted in a consistent, repeatable fashion.
 
+<a name="pol.frp.004"></a>
+
 -   **POL.FRP.004**
 
     Each IT security incident management plan **must outline** the criteria for initiating a forensic investigation.
+
+<a name="pol.frp.005"></a>
 
 -   **POL.FRP.005**
 
@@ -109,6 +121,8 @@ An IT Security Incident Management Plan documents a set of pre-planned procedure
 
 It is essential that the MoJ is able to resume or continue business operations after an IT security incident event. It is therefore important that a forensic investigation is conducted in a manner that supports the restoration of IT services. For example, a forensic investigation may involve the removal of hardware assets; steps should be taken to inform the relevant IT supplier to ensure replacement assets are installed.
 
+<a name="pol.frp.006"></a>
+
 -   **POL.FRP.006**
 
     The procedures and methods outlined in a Forensic Readiness Plan **must consider** the business continuity arrangements required to support the restoration of IT services.
@@ -118,21 +132,31 @@ It is essential that the MoJ is able to resume or continue business operations a
 
 Digital evidence can be exceptionally fragile and must be handled extremely carefully to remain admissible. It is essential that at all stages of an incident's investigation, there is a clearly documented chain of custody for all evidential items, including a clear record of who was responsible for carrying out actions upon these evidential items.
 
+<a name="pol.frp.007"></a>
+
 -   **POL.FRP.007**
 
     For all stages of a forensic investigation, there **must be** a clearly documented chain of custody for all evidential items captured.
+
+<a name="pol.frp.008"></a>
 
 -   **POL.FRP.008**
 
     Each forensic investigation **must have** a named forensic investigation owner who is responsible for conducting the investigation and the integrity of any evidence captured.
 
+<a name="pol.frp.009"></a>
+
 -   **POL.FRP.009**
 
     Any investigative action taken on an evidential item \(e.g. an analysis of a hard drive\) **must be** captured and recorded. This record **must include** details of the action taken and the person responsible for undertaking that action. Responsibility for the integrity of evidence resides with the Forensic Investigation Owner and MoJ Operational Security Team \(OST\). In addition, responsibility for any evidence captured, by or passed to an external forensic provider at the start of an investigation, resides with the MoJ and the Forensic Investigation Owner.
 
+<a name="pol.frp.010"></a>
+
 -   **POL.FRP.010**
 
     Admissibility of evidence in a court of law varies with the method of capture. Advice **must be** sought from the MoJ legal team and forensic investigation provider prior to capture if required.
+
+<a name="pol.frp.011"></a>
 
 -   **POL.FRP.011**
 
@@ -142,6 +166,8 @@ Digital evidence can be exceptionally fragile and must be handled extremely care
 #### Enforcement and escalation
 
 Forensic investigations are closely related to MoJ IT security incident management processes. Clear, predefined roles and escalation points will assist in reducing the impact of an incident and allow the business to recover more quickly.
+
+<a name="pol.frp.012"></a>
 
 -   **POL.FRP.012**
 
@@ -156,13 +182,19 @@ Consideration must be taken in account of the legal and regulatory constraints w
 
 [BS 10008](https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/) is the British Standard regarding legal admissibility of evidence. This standard provides the foundation for the capture of evidential data \(including capture from IT systems\).
 
+<a name="pol.frp.013"></a>
+
 -   **POL.FRP.013**
 
     All investigations **must be** conducted in line with MoJ IT Security Policies, specifically the [Acceptable Use Policy](acceptable-use-policy.md).
 
+<a name="pol.frp.014"></a>
+
 -   **POL.FRP.014**
 
     The capture of evidence during a forensic investigation **must be** in accordance to [BS 10008](https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/).
+
+<a name="pol.frp.015"></a>
 
 -   **POL.FRP.015**
 
@@ -180,6 +212,8 @@ It is necessary, as part of incident management, to have the ability to collect 
 ### The decision to conduct a forensic investigation
 
 Other than as required by the MoJ's obligations under UK law, all decisions to forensically monitor or investigate a potential security incident must be justified by a risk analysis relating to the need to obtain forensically sound evidence, followed by a cost benefit analysis of how much the required evidence will cost to collect, and what benefit it provides.
+
+<a name="pol.frp.016"></a>
 
 -   **POL.FRP.016**
 
@@ -204,6 +238,8 @@ Forensic investigations are only to be carried out under the following circumsta
 -   A forensic investigation is requested by the DSO as part of a leak investigation. Results of an investigation under these circumstances will be reported back to the DSO, who will report to the Permanent Secretary. Further information is available from the [Corporate Security and Business Continuity Branch](https://intranet.justice.gov.uk/guidance/security/).
 
 
+<a name="pol.frp.017"></a>
+
 -   **POL.FRP.017**
 
     Each Forensic Readiness Plan **must include**, in the criteria for conducting an investigation:
@@ -211,6 +247,8 @@ Forensic investigations are only to be carried out under the following circumsta
     -   An assessment of the risk management benefits;
     -   The investigation has been authorised by the ITSO, DSO or business group SIRO;
     -   The consideration of a forensic investigation is in line with the corresponding IT security incident management plan process.
+<a name="pol.frp.018"></a>
+
 -   **POL.FRP.018**
 
     Where a forensic investigation has been requested in response to a leak investigation. This investigation **must be** requested by the DSO where the DSO is responsible for that investigation.
@@ -233,6 +271,8 @@ The following forensic principles are based on [ACPO guidelines](https://www.app
 -   Conformance - Investigations need to be conducted in a manner which is inline with MoJ policies \(this includes all MoJ corporate policies, not just IT Security policies\).
 
 
+<a name="pol.frp.019"></a>
+
 -   **POL.FRP.019**
 
     Each forensic investigation **must be** guided by the following principles \(further detail is provided in section 4.1\):
@@ -245,6 +285,8 @@ The following forensic principles are based on [ACPO guidelines](https://www.app
 ### Evidence collection and storage
 
 Collection and management of evidence is the responsibility of the Forensic Investigation Owner for any particular investigation. This may involve the use of an external organisation to conduct the investigation, from the point of capture until presentation back to the MoJ. At all stages of an investigation, all evidential items collected from MoJ sites or IT systems need to be managed according to the applicable Forensic Readiness Plan.
+
+<a name="pol.frp.020"></a>
 
 -   **POL.FRP.020**
 
@@ -270,9 +312,13 @@ For all incidents it is necessary to consider the internal reporting and communi
 -   MoJ Data Access and Compliance Unit \(DACU\) – where an incident involves personal data.
 
 
+<a name="pol.frp.021"></a>
+
 -   **POL.FRP.021**
 
     Each Forensic Readiness Plan **must include** the reporting structure and escalation path which outlines the roles involved and what communications is passed. This must be consistent with reporting structure in the corresponding IT Security Incident Management Plan.
+
+<a name="pol.frp.022"></a>
 
 -   **POL.FRP.022**
 
@@ -297,6 +343,8 @@ For major incidents it is necessary to consider escalating the forensic investig
 Responsibility for escalation normally resides with the Information Asset Owner \(IAO\) who may also be in charge of the incident investigation. Where responsibility for an investigation has been escalated to the DSO or SIRO, further escalation responsibility will also reside with them.
 
 The impact upon any relevant ongoing operational activity has to be considered before external reporting and escalation is invoked. The forensic investigation process needs to allow for the chain of evidence to be passed to outside agencies \(e.g. a law enforcement agency\).
+
+<a name="pol.frp.023"></a>
 
 -   **POL.FRP.023**
 

@@ -6,6 +6,8 @@ However, there are also other physical and virtual resources across the MoJ esta
 
 **Note:** When disposing of `SECRET` or `TOP SECRET` equipment, materials, or resources, you **SHALL** contact the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
 
+<a name="[secure-disposal-of-it-physical-and-on-premise](secure-disposal-of-it-physical-and-on-premise.md)"></a>
+
 -   **[Secure disposal of IT - physical and on-premise](secure-disposal-of-it-physical-and-on-premise.md)**  
 
 

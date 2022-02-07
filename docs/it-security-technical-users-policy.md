@@ -10,9 +10,13 @@ This policy provides more information on the actions expected of Technical and S
 
 This policy is aimed at:
 
+<a name="technical-users"></a>
+
 -   **Technical users**
 
     These are in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration, and operation. This includes DevOps, Software Developers, Technical Architects, and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge \(EPICK\) Team.
+
+<a name="service-providers"></a>
 
 -   **Service Providers**
 

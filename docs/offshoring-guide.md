@@ -73,21 +73,31 @@ The scope of offshoring is a broad one. This may involve, for example:
 
 The scenarios which are to be treated as offshoring are set out in the following bulleted list. This is not necessarily an exhaustive list; in case of uncertainty please contact MoJ IT IA for advice: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
+<a name="captive-centres"></a>
+
 -   **Captive centres**
 
     Refers to an office that forms part of a Government department but is physically located outside the UK.
+
+<a name="far-shoring"></a>
 
 -   **Far-shoring**
 
     Covers scenarios where development is to be transferred to locations outside of the EEA. Far-shoring may enable more cost-effective development than near-shoring, or may enable access to specific technical skills. However, far-shoring may require additional National Security and/or legislative considerations to be taken into account relative to near-shoring.
 
+<a name="landed-resources"></a>
+
 -   **Landed resources**
 
     Covers scenarios where resources from outside the UK are brought to the UK. This may be, for example, to provide: low-cost labour, specialised skill-sets, and/or support for peak loads. Use of landed resources makes it possible to obtain considerably more control over the working environment of non-UK Nationals on HMG programmes, and can enable a more robust screening and aftercare regime for personnel, traded off against increased development costs.
 
+<a name="near-shoring"></a>
+
 -   **Near-shoring**
 
     Covers scenarios where development is to be transferred to other countries within the European Economic Area \(EEA\), where legislation on key issues such as data protection, electronic communications and human rights is broadly aligned with UK legislation. It should be noted that although key legislation is broadly aligned across the EEA by a requirement to meet common EU Directives, the legislation that has been implemented by different EEC nations in order to comply with these directives has some important differences.
+
+<a name="other"></a>
 
 -   **Other**
 
