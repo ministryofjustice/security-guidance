@@ -34,21 +34,31 @@ Throughout this guidance, references to malicious emails include the following s
 
 There are a number of different email threats that exist in information technology. Each threat varies in complexity, and the impact it might have on the MoJ and its employees.
 
+<a name="spam"></a>
+
 -   **Spam**
 
     Spam emails, also called junk emails, involve the sending of nearly identical messages to numerous recipients. They are high volume, unsolicited messages.
+
+<a name="malicious-or-malware"></a>
 
 -   **Malicious or malware**
 
     These emails are specifically designed to damage operational systems or disrupt business operations. While the email itself may not be malicious, it might contain URLs or file attachments which are malicious.
 
+<a name="phishing"></a>
+
 -   **Phishing**
 
     This is an email-based attempt to acquire sensitive information such as credentials including IDs and passwords for malicious purposes. Phishing emails typically masquerade as a trustworthy person supposedly taking part in electronic communications.
 
+<a name="spoofed-or-impersonation-emails"></a>
+
 -   **Spoofed or impersonation emails**
 
     These emails are from a forged sender address. At first glance, the email seems to be from a respected or reputable email sender, or an individual you know or trust.
+
+<a name="harmful-emails"></a>
 
 -   **Harmful emails**
 

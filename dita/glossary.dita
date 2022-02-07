@@ -1,122 +1,220 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<!-- DITA build of definition lists does not produce Markdown/HTML targets by default.
+     The content build runs a script (dlTarget.py) to parse the generated Markdown,
+     and generate HTML targets for DL entries. -->
 <topic id="glossary">
   <title>Glossary</title>
   <body>
     <p>This information is a reference list of <ph conref="conrefs.dita#conrefs/mojlong"/> terms and abbreviations.</p>
     <p conref="conrefs.dita#conrefs/acronyms"></p>
+    <p>The NCSC has a comprehensive <xref href="https://www.ncsc.gov.uk/information/ncsc-glossary" format="html" scope="external">cybersecurity glossary available on its website</xref>.</p>
   </body>
   <topic id="terms">
     <title>Terms</title>
     <body>
-			<table>
-				<tgroup cols="2">
-					<colspec colname="col1" colnum="1" colwidth="1*" align="left"/>
-					<colspec colname="col2" colnum="2" colwidth="5*" align="left"/>
-					<thead>
-						<row>
-							<entry colname="col1">Term</entry>
-							<entry colname="col2">Explanation</entry>
-						</row>
-					</thead>
-					<tbody>
-            <row>
-              <entry colname="col1">Authorised User</entry>
-              <entry colname="col2">Any user of services covered as authorised by the <ph conref="conrefs.dita#conrefs/moj"/>.</entry>
-            </row>
-            <row>
-              <entry colname="col1">Customer</entry>
-              <entry colname="col2">Someone who buys goods or services.
-                The customer of an IT service provider is the person or group
-                who defines and agrees the service level targets.
-                The term customers is also sometimes informally used to mean users,
-                for example "this is a customer focused organisation".</entry>
-            </row>
-            <row>
-              <entry colname="col1">Incident</entry>
-              <entry colname="col2">Any event which is not part of the standard operation of a service,
-                and which causes,
-                or might cause,
-                an interruption to,
-                or a reduction in,
-                the quality of that service.</entry>
-            </row>
-            <row>
-              <entry colname="col1">Incident Management</entry>
-              <entry colname="col2">The process responsible
-                for managing the lifecycle of all incidents.
-                The primary objective of incident management is to
-                return the IT service to users as quickly as possible.</entry>
-            </row>
-            <row>
-							<entry colname="col1">Problem</entry>
-							<entry colname="col2">A cause of one or more incidents.
-                The cause is not usually known at the time
-                a problem record is created,
-                and the Problem Management process is
-                responsible for further investigation.</entry>
-						</row>
-						<row>
-							<entry colname="col1">Problem Management</entry>
-							<entry colname="col2">The process responsible for managing the lifecycle
-                of all problems.
-                The primary objectives of Problem Management are
-                to prevent incidents from happening,
-                and to minimise the impact of incidents which cannot be prevented.</entry>
-						</row>
-						<row>
-							<entry colname="col1">Process</entry>
-							<entry colname="col2">A structured set of activities designed
-                to accomplish a specific objective.
-                A process takes one or more defined inputs
-                and turns them into defined outputs.
-                A process might include any of the roles,
-                responsibilities,
-                tools,
-                and management controls required to deliver the outputs reliably.
-                A process might define policies,
-                standards,
-                guidelines,
-                activities,
-                and work instructions if they are needed.</entry>
-						</row>
-            <row>
-              <entry colname="col1">Resolution</entry>
-              <entry colname="col2">Action taken to repair
-                the root cause of an incident or problem,
-                or to implement a workaround.</entry>
-            </row>
-            <row>
-              <entry colname="col1">Resolver Group</entry>
-              <entry colname="col2">May include a wide range of IT teams,
-                including support and development personnel,
-                other Service Management Functions (SMFs),
-                other units within the organisation,
-                outsourcing providers,
-                partners,
-                and other third parties.</entry>
-            </row>
-            <row>
-              <entry colname="col1">Service Desk</entry>
-              <entry colname="col2">The single point of contact
-                between the service provider and the users.
-                A typical Service Desk manages incidents and service requests,
-                and handles communication with the users.</entry>
-            </row>
-            <row>
-              <entry colname="col1">Trend Analysis</entry>
-              <entry colname="col2">Analysis of data
-                to identify time related patterns.
-                Trend analysis is used in Problem Management
-                to identify common failures or fragile configuration items,
-                and in Capacity Management as a modelling tool
-                to predict future behaviour.
-                It is also used as a management tool for identifying deficiencies
-                in IT Service Management Processes.</entry>
-            </row>
-          </tbody>
-				</tgroup>
-			</table></body>
+      <dl>
+        <dlentry>
+          <dt>2FA</dt>
+          <dd>Refer to <xref href="#terms/multi-factor-authentication-mfa" format="dita">Multi-factor authentication</xref>.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Authorised User</dt>
+          <dd>Any user of services covered as authorised by the <ph conref="conrefs.dita#conrefs/moj"/>.</dd>
+        </dlentry>
+        <dlentry id="blue-team">
+          <dt>Blue Team</dt>
+          <dd>The internal security defence team in an organisation. Within the <ph conref="conrefs.dita#conrefs/moj"/>, this work is performed by the <xref href="#terms/operational-security-team-ost" format="dita">Operational Security Team (OST)</xref>.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Brute Force Attack</dt>
+          <dd>The application of lots of computer power, to try and perform a task using a huge number of values. Typically used to try out many passwords, to gain access to systems.</dd>
+        </dlentry>
+        <dlentry id="business-continuity-plan-bcp">
+          <dt>Business Continuity Plan (BCP)</dt>
+          <dd>A document that outlines the procedures in place for a business to continue to operate, despite an unexpected disruption to services. These disruptions might be things such as cyber attacks, pandemics, or natural disasters.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Credentials</dt>
+          <dd>Information used to prove someone's identity, to confirm that they really are who they say they are. Typically includes passwords, tokens, and certificates.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Critical infrastructure attack</dt>
+          <dd>Critical infrastructure refers to the physical and cyber structures, facilities, and systems that are essential for a country to function. Attacks on these resources would harm the physical security, economic security, or public health of the country.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Customer</dt>
+          <dd>Someone who buys goods or services. The customer of an IT service provider is the person or group who defines and agrees the service level targets. The term customers is also sometimes informally used to mean users, for example "this is a customer focused organisation".</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Dark web</dt>
+          <dd>Generic name for encrypted online content that is not indexed by search engines. The information is only accessible with special software or tools.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Data breach</dt>
+          <dd>An <xref href="#terms/incident" format="dita">incident</xref> where data is accessed in a non-authorised way.</dd>
+        </dlentry>
+        <dlentry id="decryption">
+          <dt>Decryption</dt>
+          <dd>The reverse of an <xref href="#terms/encryption" format="dita">encryption</xref> process.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Distributed Denial of Service (DDoS) attack</dt>
+          <dd>Legitimate users cannot access computer services, because <xref href="#terms/threat-actor" format="dita">threat actors</xref> are overloading the service with requests. Also referred to as a Denial of Service (DoS) attack.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Digital footprint</dt>
+          <dd>A collection of data and information traces left behind by a user, as they do activities online. For example, all the things you've ever searched for on Google.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Double encryption ransomware</dt>
+          <dd>Refer to <xref href="#terms/ransomware" format="dita">ransomware</xref>.</dd>
+        </dlentry>
+        <dlentry id="encryption">
+          <dt>Encryption</dt>
+          <dd>The process of converting human-readable text into unreadable 'disguised' information, or 'ciphertext'. You can see it, but you can't understand it. Only someone with a <xref href="#terms/decryption" format="dita">decryption</xref> key can convert ('decrypt') the unreadable information back into human-readable form again.</dd>
+        </dlentry>
+        <dlentry id="exfiltrate">
+          <dt>Exfiltrate</dt>
+          <dd>The formal name for a technique used by <xref href="#terms/threat-actor" format="dita">threat actors</xref> and <xref href="#terms/malware" format="dita">malware</xref> to surreptitiously copy and transfer data out of a system. This is data theft.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Exploit</dt>
+          <dd>A program or process that takes advantage of a vulnerability in a system to cause system problems, or to access or modify information without authorisation.</dd>
+        </dlentry>
+        <dlentry id="incident">
+          <dt>Incident</dt>
+          <dd>Any event which is not part of the standard operation of a service, and which causes, or might cause, an interruption to, or a reduction in, the quality of that service. A breach of the security rules for a system or service.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Incident Management</dt>
+          <dd>The process responsible for managing the lifecycle of all incidents. The primary objective of incident management is to return the IT service to users as quickly as possible.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Insider threat</dt>
+          <dd>Any threat from current or former employees of an organisation who have inside information or authorised credentials that might be used to cause harm to the organisation, accidentally or maliciously.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Macro</dt>
+          <dd>A small program or script that automates tasks in an application, such as Microsoft Office. Might be used by attackers can use to gain access to, or harm, a system.</dd>
+        </dlentry>
+        <dlentry id="malware">
+          <dt>Malware</dt>
+          <dd>Malicious software. This includes things like viruses, trojans, worms, or any code that can have a negative impact on an a system.</dd>
+        </dlentry>
+        <dlentry id="multi-factor-authentication-mfa">
+          <dt>Multi-factor authentication (MFA)</dt>
+          <dd>Use of two or more different components to verify a user's claimed identity. Typically an extra component, in addition to a <xref href="#terms/password" format="dita">password</xref>. MFA often uses an authenticator app or SMS text to deliver a single use code. Also Two-factor authentication (2FA).</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Open Source Intelligence (OSINT)</dt>
+          <dd>Information gathered from public information. This includes data from social network accounts, company websites, and other openly available information sources.</dd>
+        </dlentry>
+        <dlentry id="operational-security-team-ost">
+          <dt>Operational Security Team (OST)</dt>
+          <dd>A security team within the <ph conref="conrefs.dita#conrefs/moj"/>. They help protect against cyber attacks, and help manage <xref href="#terms/incident" format="dita">incidents</xref>. Sometimes referred to as the <xref href="#terms/blue-team" format="dita">Blue Team</xref>. They can be contacted through email: <ph conref="conrefs.dita#conrefs/securityemail"/>.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Out of band check</dt>
+          <dd>An additional check performed using a different communication channel, to verify identity or intent. The check helps prevent <xref href="#terms/phishing" format="dita">phishing</xref> or <xref href="#terms/social-engineering" format="dita">social engineering</xref> attacks. For example, if you receive an email from a senior manager, asking you to perform an unusual task, you should want to check that the request is genuine. If you reply by email to the original request, that's an 'in band' check, and can't be trusted, because it's possible the manager's email has been compromised. But if you called the manager by mobile phone to check the request, that's using a different communication technology, so it's an out of band check. A <xref href="#terms/threat-actor" format="dita">threat actor</xref> would have to compromise both the manager's email and their mobile phone account to succeed in tricking you. For more detail on out of band checks, refer to <xref href="#out-of-band-checks" format="dita">this additional information</xref>.</dd>
+        </dlentry>
+        <dlentry id="password">
+          <dt>Password</dt>
+          <dd>A secret string of characters, numbers, and often symbols. When used with a valid user ID, a password enables access to an account.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Patching</dt>
+          <dd>Applying updates to software or firmware to improve security and enhance functionality.</dd>
+        </dlentry>
+        <dlentry id="phishing">
+          <dt>Phishing</dt>
+          <dd>Untargeted mass emails sent to many individuals. The email typically asks for sensitive information, or encourages you to visit fake websites, or to send money.</dd>
+        </dlentry>
+        <dlentry id="problem">
+          <dt>Problem</dt>
+          <dd>A cause of one or more <xref href="#terms/incident" format="dita">incidents</xref>. The cause is not usually known at the time a problem record is created, and the <xref href="#terms/problem-management" format="dita">Problem Management</xref> process is responsible for further investigation.</dd>
+        </dlentry>
+        <dlentry id="problem-management">
+          <dt>Problem Management</dt>
+          <dd>The process responsible for managing the lifecycle of all <xref href="#terms/problem" format="dita">problems</xref>. The primary objectives of Problem Management are to prevent <xref href="#terms/incident" format="dita">incidents</xref> from happening, and to minimise the impact of incidents which cannot be prevented.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Process</dt>
+          <dd>A structured set of activities designed to accomplish a specific objective. A process takes one or more defined inputs and turns them into defined outputs. A process might include any of the roles, responsibilities, tools, and management controls required to deliver the outputs reliably. A process might define policies, standards, guidelines, activities, and work instructions if they are needed.</dd>
+        </dlentry>
+        <dlentry id="ransomware">
+          <dt>Ransomware</dt>
+          <dd>Malicious software that makes data or systems unusable by <xref href="#terms/encryption" format="dita">encrypting</xref> it and then demanding a payment from the victim to <xref href="#terms/decryption" format="dita">decrypt</xref> it. Double Extortion Ransomware <xref href="#terms/exfiltrate" format="dita">exfiltrates</xref> the data before encryption and demands a ransom payment to stop the <xref href="#terms/threat-actor" format="dita">threat actor</xref> releasing the data to the public, as well as for decrypting the system.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Red team</dt>
+          <dd>This is an internal or external team that tests organisational security by simulating cyber attacks as realistically as possible. Together with the <xref href="#terms/blue-team" format="dita">Blue Team</xref>, the team helps to improve the cyber defences of the organisation.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Resolution</dt>
+          <dd>Action taken to repair the fundamental cause of an <xref href="#terms/incident" format="dita">incident</xref> or <xref href="#terms/problem" format="dita">problem</xref>, or to implement a workaround.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Resolver Group</dt>
+          <dd>May include a wide range of IT teams, including support and development personnel, other Service Management Functions (SMFs), other units within the organisation, outsourcing providers, partners, and other third parties.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Service Desk</dt>
+          <dd>The single point of contact between the service provider and the users. A typical Service Desk manages <xref href="#terms/incident" format="dita">incidents</xref> and service requests, and handles communication with the users.</dd>
+        </dlentry>
+        <dlentry id="social-engineering">
+          <dt>Social engineering</dt>
+          <dd>Manipulating people into doing things or divulging information that is of use to a <xref href="#terms/threat-actor" format="dita">threat actor</xref>.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Tabletop</dt>
+          <dd>An exercise created to try out <xref href="#terms/business-continuity-plan-bcp" format="dita">Business Continuity Plans (BCPs)</xref>. These exercises create realistic scenarios, and play through a number of obstacles, to ensure organisations have robust BCPs.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Tailgating</dt>
+          <dd>An unauthorised individual forcefully or stealthily gaining access to a building, typically by entering immediately behind an authorised user.</dd>
+        </dlentry>
+        <dlentry id="threat-actor">
+          <dt>Threat actor</dt>
+          <dd>A general term that encompasses all types of individuals and groups that use cyber methods to cause harm. This includes competitors seeking to steal information, cyber criminals attacking for political or monetary gain, accidental or malicious insider threats, spies, social and political activists, and assorted hackers.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Trend Analysis</dt>
+          <dd>Analysis of data to identify time related patterns. Trend analysis is used in <xref href="#terms/problem-management" format="dita">Problem Management</xref> to identify common failures or fragile configuration items, and in Capacity Management as a modelling tool to predict future behaviour. It is also used as a management tool for identifying deficiencies in IT Service Management Processes.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Virtual Private Network (VPN)</dt>
+          <dd>An <xref href="#terms/encryption" format="dita">encrypted</xref> network created to allow secure connections for remote users.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Vulnerability</dt>
+          <dd>A weakness in software, a system, or process. A <xref href="#terms/threat-actor" format="dita">threat actor</xref> might seek to exploit a vulnerability to gain unauthorised access to a system.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Zero day (0day)</dt>
+          <dd>A vulnerability in a system that few people know about. <xref href="#terms/threat-actor" format="dita">threat actors</xref> can exploit an 0day to attack or affect data and systems. </dd>
+        </dlentry>
+        <dlentry>
+          <dt>Zero trust</dt>
+          <dd>The assumption that all requests and connections are potential breaches, and so must be verified and authenticated before being allowed.</dd>
+        </dlentry>
+      </dl>
+    </body>
+  </topic>
+  <topic id="out-of-band-checks">
+    <title>Out of band checks</title>
+    <body>
+      <p>Out of band checks are an easy method to confirm the legitimacy of communications and requests. They can confirm the identity behind a message or request, and they can confirm the validity of the message or request itself. Social engineering techniques and phishing tactics take advantage of people who do not use out of band checks. By doing an out of band check, these sorts of attacks can be stopped very easily.</p>
+      <p>An out of band check is when an individual uses a different method of communication than the one the message came from. This method means that if one communication method is compromised, you quickly find out by using a different communication method to confirm validity. The likelihood of multiple communication methods for the same person or team being compromised is low.</p>
+      <p><b>Example 1</b>: You receive an email request for an urgent review of an invoice, and immediate payment. The email comes from someone unexpected. You should find the official contact details of that person, and contact them using a phone call - but not email - to confirm that they did indeed send the original email. If they did send the email, you can proceed with the request. If they did not send the email, you can report the email as a phish, and also alert the owner of the email address that their email address might have been compromised.</p>
+      <p><b>Example 2</b>: You receive a phone call from someone claiming to be your bank, or HMRC, or HMCTS. You hang up the call, and locate the official website for the company. You should be able to find multiple official contact details there. Use one of these to contact the place the caller claimed to be from. If, for example, the claim was that your bank was calling, you can call the direct number and speak to the switchboard about the reason for the initial call. They will forward you to the correct department. You can then confirm the validity of the original call, and so confirm whether the original caller was actually from your bank or not.</p>
+      <p><b>Example 3</b>: Someone enters your place of work, and claims to have a meeting with a specific person. Unfortunately, there is no record of this on the expected visitor list. You can call or email the person within your place of work to confirm the visitor is legitimate. This check also works if tradespeople arrive unexpectedly, because you can contact both the relevant person within your place of work and also contact the company they claim to be from,  using the company's official website contact details.</p>
+      <p><b>Example 4</b>: You receive an email requesting that you reset your password immediately. The email contains a link to perform the password reset. You have not attempted to login to that account recently. You should use an internet search for the website or type the URL directly if you know exactly what it should be. When you attempt to login, the website will let you know if you need to reset your password. If not, you know someone else has attempted to gain access to your account. That would mean the password reset request was not legitimate, and most likely a phishing attempt hoping to get your username and password through the reset link in the original email. Similarly, if you get an <xref href="#terms/multi-factor-authentication-mfa" format="dita">MFA request</xref> unexpectedly, do not confirm it unless you were indeed attempting to access that account immediately before the request came through. If you get an MFA request, but had not been trying to connect using the account, you should change the account password as soon as possible, because it might have been compromised.</p>
+      <p>When doing an out of band check, be sure to pick a different method of communication to the one used to contact you originally. If someone emails you unexpectedly, perform an out of band check by making a phone call. If someone calls you, perform an out of band check by using the Internet. It is very unlikely that multiple communication channels have been compromised.</p>
+      <p>Be sure to get official contact details for companies only from their official websites. Never be afraid to hang up on someone and check their identity through another method, especially if they are asking for sensitive or personal information or credentials. Never be afraid to check the legitimacy of unusual email requests. by contacting the sender through a different communication channel.</p>
+      <p>Doing an out of band check lets you confirm that the messages come from the person they claim to be, and that the requests are valid. This helps prevent you or your company from losing money to fake invoices, from accidentally giving up sensitive information or credentials, and from having unauthorised individuals in your place of work. Doing an out of band check is fast and easy.</p>
+      <p>All members of your workplace should be happy to receive such a check. It shows that you take security seriously, and that you are helping to protect them as well as yourself.</p>
+    </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>

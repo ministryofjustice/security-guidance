@@ -129,6 +129,19 @@
 		<!-- <move file="${theFile}.new" tofile="${theFile}" overwrite="true"/> -->
 	</target>
 
+	<target name="dlTarget">
+		<echo message="Adding definition list link targets in file: ${theFile}"/>
+		<exec dir="${buildUtils}" executable="python" output="dlTarget.txt">
+			<arg line="dlTarget.py ${theFile}"/>
+		</exec>
+		<!-- Report results -->
+		<loadfile property="dlTarget" srcFile="dlTarget.txt" />
+		<echo message="${dlTarget}" />
+		<delete file="dlTarget.txt"/>
+		<!-- Tidy up. -->
+		<!-- <move file="${theFile}.new" tofile="${theFile}" overwrite="true"/> -->
+	</target>
+
 	<!--
 	<target name="compile_ost" depends="init, compile_intranet"
 				description="Compile OST content into production Markdown">
@@ -225,6 +238,12 @@
 		<mkdir dir="${build}/.well-known"/>
 		<copy file="${basedir}/contact/vulnerability-disclosure-security.txt" tofile="${build}/security.txt" overwrite="true"/>
 		<copy file="${basedir}/contact/vulnerability-disclosure-security.txt" tofile="${build}/.well-known/security.txt" overwrite="true"/>
+		<echo message="Convert definition lists to targets in markdown"/>
+		<foreach target="dlTarget" param="theFile">
+			<path>
+				<fileset dir="${build}" includes="**/*.md"/>
+			</path>
+		</foreach>
 	</target>
 
 	<!--
