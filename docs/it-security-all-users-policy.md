@@ -12,13 +12,19 @@ This policy provides more information on the actions expected of all Ministry of
 
 This policy is aimed at three audiences:
 
+<a name="technical-users"></a>
+
 -   **Technical users**
 
     These are in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration, and operation. This includes DevOps, Software Developers, Technical Architects, and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge \(EPICK\) Team.
 
+<a name="service-providers"></a>
+
 -   **Service Providers**
 
     Defined as any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services \(including processing, transmitting and storing data\) for, or on behalf of, the MoJ.
+
+<a name="general-users"></a>
 
 -   **General users**
 
@@ -31,13 +37,19 @@ Within this policy, "all MoJ users" refers to General users, Technical users, an
 
 The MoJ ensures that IT security controls are designed and implemented to protect MoJ data, IT Assets, and reputation, based around the following requirements:
 
+<a name="confidentiality"></a>
+
 -   **Confidentiality**
 
     Knowing and ensuring that data can only be accessed by those authorised to do so.
 
+<a name="integrity"></a>
+
 -   **Integrity**
 
     Knowing and ensuring the accuracy and completeness of data, and that it has not been deliberately or inadvertently modified from a previous version.
+
+<a name="availability"></a>
 
 -   **Availability**
 

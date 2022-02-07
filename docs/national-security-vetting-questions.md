@@ -27,17 +27,23 @@ Candidates cannot choose to transfer their NSV clearance, which lapses on their 
 
 Three scenarios are given here:
 
+<a name="scenario-1:-the-level-of-clearance-required-for-the-new-role-is-the-same-level-the-exporting-department-held-for-the-individual."></a>
+
 -   **Scenario 1: The level of clearance required for the new role is the same level the exporting department held for the individual.**
 
     For example, the new role requires SC clearance, and the candidate's exporting department held valid SC clearance for them.
 
     Answer: Transfer can take place provided the exporting department confirms a valid NSV clearance **and** agrees to transfer it to the MoJ. In most cases these transfers can take place. In some exceptional circumstances, departments may refuse to transfer clearance to the MoJ. Where this happens, the candidate is required to complete NSV again.
 
+<a name="scenario-2:-the-level-of-clearance-required-for-the-new-role-is-higher-than-the-level-the-individual-possesses-in-their-current-department."></a>
+
 -   **Scenario 2: The level of clearance required for the new role is higher than the level the individual possesses in their current department.**
 
     For example, the role requires SC clearance and the current department holds CTC.
 
     Answer: As the level of clearance is higher, the employee is required to complete an application for the new level on the NSV portal. A link is sent to them by SSCL once they have accepted a provisional offer.
+
+<a name="scenario-3:-the-level-of-clearance-required-for-the-role-is-lower-than-the-current-department-holds."></a>
 
 -   **Scenario 3: The level of clearance required for the role is lower than the current department holds.**
 

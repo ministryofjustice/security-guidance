@@ -1,6 +1,10 @@
 # Forensic Principles
 
+<a name="[forensic-readiness-guide](forensic-readiness-guide.md)"></a>
+
 -   **[Forensic Readiness Guide](forensic-readiness-guide.md)**  
+
+<a name="[forensic-readiness-policy](forensic-readiness-policy.md)"></a>
 
 -   **[Forensic Readiness Policy](forensic-readiness-policy.md)**  
 

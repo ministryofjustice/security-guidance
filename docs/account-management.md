@@ -13,17 +13,25 @@ The information is aimed at two audiences:
 
 Account lockouts must be implemented within MoJ systems for the following reasons:
 
+<a name="failure-to-change-passwords-within-the-allocated-time."></a>
+
 -   **Failure to change passwords within the allocated time.**
 
     Systems must have a "change password" function to recover the account or contact information for the IT Service Desk.
+
+<a name="unsuccessful-connection-attempts."></a>
 
 -   **Unsuccessful connection attempts.**
 
     Allow no more than 10 consecutive login attempts before lockout.
 
+<a name="forgotten-passwords."></a>
+
 -   **Forgotten passwords.**
 
     All MoJ systems must have a forgotten password link on the login page, enabling the user to change the password on their own. Ensure this uses multi-factor authentication for user verification.
+
+<a name="removed-or-revoked-access."></a>
 
 -   **Removed or revoked access.**
 

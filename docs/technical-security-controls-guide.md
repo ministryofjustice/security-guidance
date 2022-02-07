@@ -1,6 +1,10 @@
 # Technical Security Controls Guide
 
+<a name="[technical-security-controls-guide:-defensive-layer-1](technical-security-controls-guide-defensive-layer-1.md)"></a>
+
 -   **[Technical Security Controls Guide: Defensive Layer 1](technical-security-controls-guide-defensive-layer-1.md)**  
+
+<a name="[technical-security-controls-guide:-defensive-layer-2](technical-security-controls-guide-defensive-layer-2.md)"></a>
 
 -   **[Technical Security Controls Guide: Defensive Layer 2](technical-security-controls-guide-defensive-layer-2.md)**  
 
