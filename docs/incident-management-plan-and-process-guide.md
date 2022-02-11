@@ -73,21 +73,31 @@ The [CESG Information Assurance Maturity Model \(IAMM\)](https://www.ncsc.gov.uk
 
 ITSIM is a combination of people, plans and predefined processes which enables the MoJ to deal with the consequences of an IT security incident. ITSIM at the MoJ follows the following principles:
 
+<a name="consistency"></a>
+
 -   **Consistency**
 
     The use of dependable, documented methods ensures that incidents, and the reaction to them, are dealt with systematically and cost-effectively.
+
+<a name="business-continuity"></a>
 
 -   **Business Continuity**
 
     It is essential that the business is able to resume or continue operations as soon as possible after a security incident.
 
+<a name="ownership-and-responsibility"></a>
+
 -   **Ownership and Responsibility**
 
     IT security incidents can be very distressing times but reacting on impulse often does more damage than the initial incident itself. The purpose of incident management is to ensure that people with the right level of expertise and experience are consulted and take responsibility for decisions made.
 
+<a name="escalation"></a>
+
 -   **Escalation**
 
     IT security incidents may require coordination with external agencies such as law enforcement or computer forensic capabilities. Internally, different functions within the MoJ may need to be involved in incident management. ITSIM ensures that communication channels are predefined and appropriate for the categorisation of an incident.
+
+<a name="preservation-of-mojs-reputation"></a>
 
 -   **Preservation of MoJ's reputation**
 

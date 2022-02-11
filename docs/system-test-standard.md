@@ -56,9 +56,13 @@ This standard is concerned with the security testing of all MoJ IT systems inclu
 
 For the purposes of this standard, the following definitions apply:
 
+<a name="system-testing"></a>
+
 -   **System testing**
 
     Tests conducted against an application or IT system to ascertain whether that application or IT system has implemented the desired functional and non-functional requirements.
+
+<a name="security-testing"></a>
 
 -   **Security testing**
 
@@ -99,9 +103,13 @@ HMG IS 1 and 2 require that assurance evidence is provided covering an IT system
 
 Security testing of an IT system to obtain the assurance evidence required can occur at various points throughout the system development and deployment lifecycle \(refer to [Table 1](#security-consideration)\). For example:
 
+<a name="commercial-off-the-shelf-cots-product-assurance"></a>
+
 -   **Commercial off the Shelf \(COTS\) product assurance**
 
     Test assurance obtained through the use of a security evaluated, either by CESG or via the Common Criteria scheme COTS product. This assurance can be obtained during the system design phase.
+
+<a name="system-configuration-tests"></a>
 
 -   **System configuration tests**
 

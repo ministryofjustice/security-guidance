@@ -13,13 +13,19 @@ To help identify formal policy statements, each is prefixed with an identifier o
 
 This policy is aimed at:
 
+<a name="technical-users"></a>
+
 -   **Technical users**
 
     These are in-house MoJ Digital and Technology staff responsible for implementing controls throughout technical design, development, system integration, and operation. This includes DevOps, Software Developers, Technical Architects, and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI, and Knowledge \(EPICK\) Team.
 
+<a name="service-providers"></a>
+
 -   **Service Providers**
 
     Defined as any other MoJ business group, agency, contractor, IT supplier, and partner who in any way designs, develops or supplies services \(including processing, transmitting and storing data\), for or on behalf of the MoJ.
+
+<a name="general-users"></a>
 
 -   **General users**
 
@@ -41,17 +47,25 @@ This policy aligns to industry standards and frameworks, and is divided into fou
 
 Identification, Authentication, Authorisation, and Accounting \(IAAA\) are the core principles of an Access Control Policy. The principles apply to all security categories described in this policy, as follows:
 
+<a name="identification"></a>
+
 -   **Identification**
 
     `POLACP001:` The MoJ **SHALL** provide a unique ID that is assigned, named, and linked to a private account, for each user.
+
+<a name="authentication"></a>
 
 -   **Authentication**
 
     `POLACP002:` To access MoJ systems, users **SHALL** authenticate themselves.
 
+<a name="authorisation"></a>
+
 -   **Authorisation**
 
     `POLACP003:` Specifying access rights, privileges, and resources to users **SHALL** be granted in line with the principle of least privilege.
+
+<a name="accounting"></a>
 
 -   **Accounting**
 

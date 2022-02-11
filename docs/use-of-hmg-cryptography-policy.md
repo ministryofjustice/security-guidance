@@ -34,6 +34,8 @@ This document is the Ministry of Justice \(MoJ\) IT Security – Use of HMG Cryp
 
 Each policy statement outlines a security requirement and where applicable, a reference is provided to further material. A unique identifier is associated with each statement for easy reference. The format of each statement is illustrated as follows:
 
+<a name="pol.crypto.xxx"></a>
+
 -   **POL.CRYPTO.XXX**
 
     Policy statement text.
@@ -44,6 +46,8 @@ The policies outlined in this document form the baseline standard. However this 
 ## Use of HMG Cryptography Policy
 
 ### Introduction
+
+<a name="pol.crypto.001"></a>
 
 -   **POL.CRYPTO.001**
 
@@ -66,12 +70,16 @@ In accordance with HMG IAS4 \[Ref, 2\] encryption is only provided for fully acc
 
 ### Definitions
 
+<a name="trusted-hand"></a>
+
 -   **Trusted Hand**
 
     An individual who is at least BPSS cleared and recognised as a member of staff of a supplier.
 
 
 ### Communication
+
+<a name="pol.crypto.002"></a>
 
 -   **POL.CRYPTO.002**
 
@@ -85,6 +93,8 @@ Acceptable secure email methods are GSi, xGSi and CJSM accounts. All queries tow
 As soon as the need for encryption is identified the system Accreditor, the COMSO must be informed by the Project Manager and agreement sought for the need for the hardware, software and encryption from CESG.
 
 The process requires that an applicant is appointed and that applicant is responsible for ensuring that the product is suitable for the requirement and it is their responsibility to familiarise themselves with the CESG Security Operating Procedures \(SyOPs\) for that product. The applicant can delegate this element to someone else but that person must be identified to the other parties of this approval process.
+
+<a name="pol.crypto.003"></a>
 
 -   **POL.CRYPTO.003**
 
@@ -107,9 +117,13 @@ Further processing is required by the MoJ Crypto Custodian and upon dispatch to 
 
 When it is necessary to increase the number of licences, changes to hardware or otherwise change how Crypto used, the applicant must obtain the latest form from the vendor and send the form to the Accreditor and COMSO for approval. The applicant must refer to the CESG X reference which can be found in the documentation that the supplier holds.
 
+<a name="pol.crypto.004"></a>
+
 -   **POL.CRYPTO.004**
 
     The applicant **must determine** whether or not a change to the RMADS or SyOPs are necessary and confirm this on application. If changes are required it must be declared how and when this will happen.
+
+<a name="pol.crypto.005"></a>
 
 -   **POL.CRYPTO.005**
 
@@ -130,6 +144,8 @@ If there is a requirement to store Key Variables locally, the supplier must appo
 
 Any subject who handles Key Variables for the MoJ must be SC cleared and CRYPTO or ACCSEC authorised initially by the MoJ Crypto Custodian. The subject must provide the details on the Crypto Authorisation form through secure channels and provide the contact details of the vetting office which approved their clearance.
 
+<a name="pol.crypto.006"></a>
+
 -   **POL.CRYPTO.006**
 
     Every 12 months the LCC and LACC **must re-authorise** each other and check that their clearances are still valid and this must be evidenced and recorded with the authorisation form for audit purposes.
@@ -147,9 +163,13 @@ All Key Variables is stored and managed centrally by the MoJ with some exception
 
 There are special arrangements for the local storage of Key Variables which must be agreed with the COMSO.
 
+<a name="pol.crypto.007"></a>
+
 -   **POL.CRYPTO.007**
 
     Key Variables **must not** be deployed unless the encryption solution is accredited or the timetable has been set out and agreed on its delivery, draft RMADS and final SyOPs must be made available to the MoJ Crypto Custodian.
+
+<a name="pol.crypto.008"></a>
 
 -   **POL.CRYPTO.008**
 
@@ -167,6 +187,8 @@ Key Variables distribution as follows \(in order of preference\);
 
 ### Key Variables Management
 
+<a name="pol.crypto.009"></a>
+
 -   **POL.CRYPTO.009**
 
     The management of Key Variables **must be** in accordance with HMG IAS4 Supplement 7 \[Ref, 3\].
@@ -174,12 +196,16 @@ Key Variables distribution as follows \(in order of preference\);
 
 ### Key Variables Destruction
 
+<a name="pol.crypto.010"></a>
+
 -   **POL.CRYPTO.010**
 
     Suppliers **must not** under any circumstances destroy Key Variables. All Key Variables must be returned to the MoJ Crypto Custodian for destruction.
 
 
 ### Business continuity
+
+<a name="pol.crypto.011"></a>
 
 -   **POL.CRYPTO.011**
 

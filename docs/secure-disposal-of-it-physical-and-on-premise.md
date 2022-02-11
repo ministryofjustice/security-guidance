@@ -34,9 +34,13 @@ To determine the data disposal and the media's destruction method, based on the 
 
 The table contains two columns, called “Data deletion method” and “Destruction method”, which are defined as:
 
+<a name="data-deletion-method"></a>
+
 -   **Data deletion method**
 
     Covers assets if they remain within the MoJ, and have not reached end of life. For example, the device can be re-used or reallocated to a different user, or repurposed for a different function.
+
+<a name="destruction-method"></a>
 
 -   **Destruction method**
 
