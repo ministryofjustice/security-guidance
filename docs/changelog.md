@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-02-15-12:18-gmt-[various-minor-corrections.](https:-security-guidance.service.justice.gov.uk-secure-disposal-of-it-physical-and-on-premise-)"></a>
+
+-   **2022-02-15 12:18 GMT [Various minor corrections.](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-physical-and-on-premise/)**
+
+    Corrected contact details, fixed an incorrect link, and updated secure disposal information.
+
 <a name="2022-02-07-15:49-gmt-[updated-glossary.](https:-security-guidance.service.justice.gov.uk-glossary-)"></a>
 
 -   **2022-02-07 15:49 GMT [Updated glossary.](https://security-guidance.service.justice.gov.uk/glossary/)**
