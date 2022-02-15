@@ -97,9 +97,9 @@
           then only the key needs to be deleted or erased,
           and the table does not need to be followed.</note>
         <p>If the table does not cover your exact requirement,
-      contact the Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/></p>
+      contact security: <ph conref="conrefs.dita#conrefs/securityemail"/></p>
     <note importance="high">When disposing of <codeph>SECRET</codeph> or <codeph>TOP SECRET</codeph> equipment or materials,
-      always contact the Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/></note>
+      always contact security: <ph conref="conrefs.dita#conrefs/securityemail"/></note>
     <table>
       <tgroup cols="3">
         <colspec colname="col1" colnum="1" colwidth="1*"/>
@@ -146,10 +146,7 @@
             <entry colname="col2">Data deletion is not possible.
               <ph audience="audience-tech">Refer also to the note about RW-capable media after this table.</ph></entry>
             <entry colname="col3">Shred or disintegrate using equipment that meets a recognised international destruction standard.
-              Particles should be no larger than 6 mm in any direction.
-              A high capacity CD and DVD shredder is available at 102 Petty France,
-              suitable for items up to <codeph>TOP SECRET</codeph>.
-              Contact <ph conref="conrefs.dita#conrefs/ostemail"/> for help with this option.</entry>
+              Particles should be no larger than 6 mm in any direction.</entry>
           </row>
           <row>
             <entry colname="col1">Monitors</entry>
@@ -182,11 +179,6 @@
       For simplicity,
       however,
       the safer assumption is that rewriting and therefore data deletion is not possible on optical media.</note>
-    <p>A high capacity CD and DVD shredder is available at 102 Petty France,
-      suitable for items up to <codeph>TOP SECRET</codeph>.
-      It is recommended that staff located in Petty France and Clive House and who
-      need to destroy any CD/DVD <ph conref="conrefs.dita#conrefs/policyshould"/> use this machine.
-      Contact <ph conref="conrefs.dita#conrefs/ostemail"/> for help with this option.</p>
     <p>Owners of the data storage devices are responsible for procuring services that meet the necessary destruction outcomes as described previously.</p>
     <p>Wherever possible and appropriate,
       managers should pool together equipment with that of local colleagues to share service costs.</p>
@@ -236,7 +228,7 @@
     <title>Transporting data between sites securely</title>
     <body>
     <p>If you have any concerns about moving items between sites securely,
-      contact the Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/></p>
+      contact security: <ph conref="conrefs.dita#conrefs/securityemail"/></p>
     <p>Guidance on the transportation of secure data is located in the CPNI guidance:
       <q><xref href="https://www.cpni.gov.uk/system/files/documents/c5/e1/2017_01_20_CPNI_Secure_Destruction_Standard.pdf"
         format="pdf" scope="external">10. Transport of sensitive items</xref></q>.</p>
