@@ -180,7 +180,7 @@ The NCSC has a comprehensive [cybersecurity glossary available on its website](h
 
 -   **Phishing**
 
-    Untargeted mass emails sent to many individuals. The email typically asks for sensitive information, or encourages you to visit fake websites, or to send money.
+    Untargeted mass emails sent to many individuals. The email typically asks for sensitive information, or encourages you to visit fake websites, or to send money. For more information, refer to the [phishing guide](phishing-guide.md).
 
 <a name="problem"></a>
 

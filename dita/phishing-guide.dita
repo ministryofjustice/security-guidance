@@ -4,7 +4,7 @@
   <title>Phishing Guide</title>
   <body>
     <p>This guide provides information explaining that 'phishing' is, how it happens, and what you can do to protect yourself and keep <ph conref="conrefs.dita#conrefs/mojlong"/> systems secure.</p>
-    <p>There is also information on <xref href="#what-to-do-if-phished" format="dita">what to do if you think you have been phished</xref>.</p>
+    <p>There is also information on <xref href="#what-to-do-if-you-are-phished" format="dita">what to do if you think you have been phished</xref>.</p>
   </body>
   <topic id="what-is-a-phish">
     <title>What is a phish?</title>
@@ -21,7 +21,7 @@
           <li>Providing a final demand about a very overdue invoice that, if unpaid, will see you taken to court.</li>
           <li>A 'last warning' about resetting your password, otherwise you will lose account access.</li>
         </ul></p>
-      <p>Any message that creates a sense of urgency or a heightened emotional state - positive or negative - should be treated with suspicion. Validate it before you take any action. Unexpected messages with attachments are also common. Never open the attachment until you have done an <xref href="glossary.dita#out-of-band-checks" format="dita">out of band check</xref>.</p>
+      <p>Any message that creates a sense of urgency or a heightened emotional state - positive or negative - should be treated with suspicion. Validate it before you take any action. Unexpected messages with attachments are also common. Never open the attachment until you have done an <xref href="#out-of-band-checks" format="dita">out of band check</xref>.</p>
     </body>
   </topic>
   <topic id="common-types-of-phish">
@@ -81,7 +81,7 @@
     </body>
   </topic>
   <topic id="out-of-band-checks" conref="glossary.dita#out-of-band-checks"><title/></topic>
-  <topic id="what-to-do-if-phished">
+  <topic id="what-to-do-if-you-are-phished">
     <title>What to do if you are phished</title>
     <body>
       <p><b>Don't panic.</b></p>
