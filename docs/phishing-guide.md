@@ -1,6 +1,6 @@
 # Phishing Guide
 
-This guide provides information explaining that 'phishing' is, how it happens, and what you can do to protect yourself and keep Ministry of Justice \(MoJ\) systems secure.
+This guide provides information about 'phishing' is. It describes what phishing is, and how it happens. It tells you what you can do to protect yourself, and to keep Ministry of Justice \(MoJ\) systems secure.
 
 There is also information on [what to do if you think you have been phished](#what-to-do-if-you-are-phished).
 
@@ -8,11 +8,16 @@ There is also information on [what to do if you think you have been phished](#wh
 
 Phishing attacks are when [threat actors](glossary.md#threat-actor) pretend to be legitimate parties. They do this to steal money, credentials, or sensitive information. There are a variety of phishing attacks that you might come across. Some are more sophisticated or targeted than others.
 
-Phishes often use heightened emotional states to create a sense of urgency. This urgency makes users want to do the actions requested as quickly as possible. The combination of urgency and emotional manipulation leaves users feeling panicked and worried, or filled with a sense of euphoria. By heightening emotion and attaching a tight deadline, the threat actors are more able to convince users to do what they have requested, and to do so without taking the time to think carefully about whether it's a sensible or valid request.
+Phishes often use two techniques:
+
+-   They affect emotional states.
+-   They create a sense of urgency.
+
+Urgency makes users want to do the actions requested as quickly as possible. The combination of urgency and emotional manipulation leaves users feeling panicked and worried. It might fill them with a sense of euphoria. Threat actors use emotion and deadlines to convince users to act. The user doesn't take the time to think about whether it's a sensible or valid request.
 
 Most phishes are emails, but they can also use other technology, such as SMS texts or telephone calls.
 
-Threat actors might use phishes to request payments. They might ask you to click links and log in to an account or change a password. They might instruct you to buy items for them, or require you to provide some personal details before you can claim a supposed prize.
+Threat actors might use phishes to request payments. They might ask you to click links and log in to an account or change a password. They might instruct you to buy items for them. They might get you to provide some personal details before you can claim a supposed prize.
 
 Threat actors utilise a variety of methods in phishes. They often take advantage of seasonal events to appear more legitimate. They use emotional and urgent triggers such as:
 
@@ -23,43 +28,43 @@ Threat actors utilise a variety of methods in phishes. They often take advantage
 -   Providing a final demand about a very overdue invoice that, if unpaid, will see you taken to court.
 -   A 'last warning' about resetting your password, otherwise you will lose account access.
 
-Any message that creates a sense of urgency or a heightened emotional state - positive or negative - should be treated with suspicion. Validate it before you take any action. Unexpected messages with attachments are also common. Never open the attachment until you have done an [out of band check](#out-of-band-checks).
+Beware of messages that create a sense of urgency or a heightened emotional state - good or bad. Treat such messages with suspicion. Check the message before you take any action. Unexpected messages with attachments are also common. Never open the attachment until you have done an [out of band check](#out-of-band-checks).
 
 ## Common types of phish
 
-There are many different types of phish. All of them can be spotted, but the more sophisticated the phishing attack, the harder it is to spot it. Out of band checks are the best way to stop a phishing attack. They use a second, different method of communication to validate the authenticity of the contact and the requested action.
+There are many different types of phish. You might recognise many of them. But the more sophisticated the phishing attack, the harder it is to spot. Out of band checks are the best way to stop a phishing attack. They use a second, different method of communication to check the authenticity of the contact and the requested action.
 
 ### Email phishing
 
-These are emails that request actions, such as clicking on links to change passwords or requesting money.
+These are emails that request actions. Examples include clicking on links to change passwords, or requesting money.
 
 ### SMS phishing \(smishing\)
 
-These are text messages that ask you to click links to access services or to pay for things. They often take advantage of seasonal events to appear more legitimate. Examples include Christmas delivery phishing texts, texts around tax return time, and using news items like Covid to encourage payments or requests for personal information.
+These are text messages that ask you to click links to access services or to pay for things. They often take advantage of seasonal events to appear more legitimate. Examples include Christmas delivery phishing texts, or texts around tax return time. Other recent examples use Covid news items to demand payments or personal information.
 
 ### Voice phishing \(vishing\)
 
-These are phone calls that ask you for sensitive information, or payments, or to provide remote access to your devices. Threat actors commonly pretend to be from banks and other official organisations or technology companies such as Microsoft, or from jails requesting bail money.
+These are phone calls that ask you for sensitive information, or payments, or remote access to your devices. Threat actors might pretend to be from banks and other official organisations. Others might claim to be technology companies such as Microsoft. Another vishing example might claim to be from a jail, requesting bail money.
 
 ### Spear phishing
 
-These are targeted phishing attacks. Threat actors use [OSINT](glossary.md#open-source-intelligence-osint) to gather data about an individual. They can then create a custom phish specifically intended to be interesting for the target. The target is then more likely to respond to the phish. Examples include real names or work-related jargon. These are often very sophisticated phishes. The use of personal data makes the phish more likely to succeed.
+Some phishing attacks focus on specific targets. Threat actors use [OSINT](glossary.md#open-source-intelligence-osint) to gather data about an individual. They can then create a 'custom phish'. It is interesting for the target. The target is then more likely to respond to the phish. Examples include real names or work-related jargon. These are often very sophisticated phishes. The use of personal data makes the phish more likely to succeed.
 
 ### Whale phishing \(whaling\)
 
-These are targeted at high level individuals such as CEOs and Director level and above staff. Whaling uses a variety of phishing methods to contact high profile targets, to steal large sums of money, or access high level credentials, intellectual property, and sensitive information.
+These target at high level individuals such as CEOs and Director level and above staff. Whaling uses a variety of phishing methods to contact high profile targets. The goal is to steal large sums of money, or access high level credentials, intellectual property, and sensitive information.
 
 ### Business email compromise \(BEC\)
 
-This type of phishing attack targets high level staff to steal money or reveal sensitive information. Threat actors pretend to be another high-level staff member by using their name or email address to seem legitimate. They often create a sense of urgency to convince junior staff to do the requested action. These emails often come from a compromised staff member's email account, so the email system doesn't block the sender.
+This type of phishing attack targets high level staff to steal money or reveal sensitive information. Threat actors pretend to be another high-level staff member. They do this by using their name or email address to seem legitimate. They often create a sense of urgency to convince junior staff to do the requested action. These emails often come from a compromised staff member's email account. This means the email system doesn't block the sender.
 
 ### Watering hole attack
 
-This is a very sophisticated supply chain attack. It uses research from an organisation's frequently used websites to identify a target. Targeted websites are then compromised and infected with malware. When users visit the websites, the malware is downloaded onto their systems. These attacks are sophisticated because the user is visiting an official and legitimate website. It is the website itself that has been compromised.
+This is a very sophisticated supply chain attack. It uses research from an organisation's frequently used websites to identify a target. Targeted websites are then compromised and infected with malware. When users visit the websites, the malware downloads onto their systems. These are sophisticated attacks. The user is visiting an official and legitimate website. It is the website itself that has been compromised.
 
 ## Multi-factor authentication \(MFA\)
 
-Multi-factor authentication \(MFA\) is an excellent way to reduce the risk of having your account compromised by a phishing attack. MFA provides an extra layer of defence for the account. If you have MFA set up, threat actors will be unable to access your account even if you accidentally reveal your credentials.
+Multi-factor authentication \(MFA\) is a great way to reduce the risk of account compromise by a phishing attack. MFA provides an extra layer of defence for the account. If you have MFA set up, threat actors cannot access your account. It's safe, even if you accidentally reveal your credentials.
 
 Never give MFA to codes to anyone. Companies, banks, government departments, and social media sites will never contact you and ask for your MFA code.
 
