@@ -9,7 +9,8 @@
   <topic id="what-is-a-phish">
     <title>What is a phish?</title>
     <body>
-      <p>Phishing attacks are when <xref href="glossary.dita#terms/threat-actor" format="dita">threat actors</xref> pretend to be legitimate parties. They do this to steal money, credentials, or sensitive information. There are a variety of phishing attacks that you might come across. Some are more sophisticated or targeted than others. Phishes use emotional states to create a sense of urgency. This urgency makes users want to do the actions requested. The combination of urgency and emotional manipulation leaves users feeling panicked and worried, or filled with a sense of euphoria. By heightening emotion and attaching a tight deadline, the threat actors are more able to convince users to do what they have requested.</p>
+      <p>Phishing attacks are when <xref href="glossary.dita#terms/threat-actor" format="dita">threat actors</xref> pretend to be legitimate parties. They do this to steal money, credentials, or sensitive information. There are a variety of phishing attacks that you might come across. Some are more sophisticated or targeted than others.</p>
+      <p>Phishes often use heightened emotional states to create a sense of urgency. This urgency makes users want to do the actions requested as quickly as possible. The combination of urgency and emotional manipulation leaves users feeling panicked and worried, or filled with a sense of euphoria. By heightening emotion and attaching a tight deadline, the threat actors are more able to convince users to do what they have requested, and to do so without taking the time to think carefully about whether it's a sensible or valid request.</p>
       <p>Most phishes are emails, but they can also use other technology, such as SMS texts or telephone calls.</p>
       <p>Threat actors might use phishes to request payments. They might ask you to click links and log in to an account or change a password. They might instruct you to buy items for them, or require you to provide some personal details before you can claim a supposed prize.</p>
       <p>Threat actors utilise a variety of methods in phishes. They often take advantage of seasonal events to appear more legitimate. They use emotional and urgent triggers such as:
@@ -77,7 +78,11 @@
     <body>
       <p>Multi-factor authentication (MFA) is an excellent way to reduce the risk of having your account compromised by a phishing attack. MFA provides an extra layer of defence for the account. If you have MFA set up, threat actors will be unable to access your account even if you accidentally reveal your credentials.</p>
       <p>Never give MFA to codes to anyone. Companies, banks, government departments, and social media sites will never contact you and ask for your MFA code.</p>
-      <p>MFA also provides an early warning system for credential compromise. If you ever receive an MFA code for an account that you are not actively logging into, then someone other than you is trying to access the account. This means your credentials might have been compromised, so you should change your password as quickly as possible.</p>
+      <p>MFA also provides an early warning system for credential compromise. If you ever receive an MFA code for an account that you are not actively logging into, then someone other than you is trying to access the account. This means your credentials might have been compromised, so as quickly as possible, you should:
+        <ul>
+          <li>Report the problem to security.</li>
+          <li>Change your password.</li>
+        </ul></p>
     </body>
   </topic>
   <topic id="out-of-band-checks" conref="glossary.dita#out-of-band-checks"><title/></topic>
@@ -85,6 +90,7 @@
     <title>What to do if you are phished</title>
     <body>
       <p><b>Don't panic.</b></p>
+      <p>You will not be punished if you fall for a phish - it can happen to anyone. You will not be punished for reporting a phish, even if it turns out to be a false alarm.</p>
       <p>If you think you have been phished:
         <ol>
           <li>Report it immediately.</li>
@@ -99,11 +105,17 @@
   <topic id="reporting-phishes">
     <title>Reporting phishes</title>
     <body>
-      <p>If you think you have spotted a phish, report it as quickly as possible. If you think you have spotted a more targeted phish that claims to be from a vendor or another staff member then do an out of band check to determine if it is legitimate. If it is not, then please report the email as a phish.</p>
-      <p>You can forward on all spam and phishing text messages to 7726 for free. Reporting phishing attempts helps improve the filters that catch them before they get to your inbox.  They also help protect other colleagues and the <ph conref="conrefs.dita#conrefs/moj"/> from being compromised, or having data or money stolen.</p>
-      <p>Reporting a phishing attempt is quick and easy. Simply forward the suspected phish to <ph conref="conrefs.dita#conrefs/securityemail"/> with the subject line: 'suspected phish report'.</p>
+      <p>Reporting phishing attempts helps improve the filters that catch them before they get to your inbox.  They also help protect other colleagues and the <ph conref="conrefs.dita#conrefs/moj"/> from being compromised, or having data or money stolen.</p>
+      <p>If you think you have spotted a phish, or you think you have been phished, report it as quickly as possible. If you think you have spotted a more targeted phish that claims to be from a vendor or another staff member, do an out of band check to determine if it is legitimate. If it is not, then please report the email as a phish.</p>
+      <p>Reporting a phishing attempt is quick and easy. Do one or both of the following:
+        <ul>
+          <li>Call the <ph conref="conrefs.dita#conrefs/servicedesk"/> on <ph conref="conrefs.dita#conrefs/servicedesknumber"/>.</li>
+          <li>Forward the suspected phish to <ph conref="conrefs.dita#conrefs/securityemail"/> with the subject line: 'suspected phish report'.</li>
+        </ul></p>
+      <p>You can forward on all spam and phishing text messages to 7726 for free.</p>
     </body>
   </topic>
+  <!--
   <topic id="incidents">
     <title>Incidents</title>
     <body>
@@ -111,6 +123,7 @@
       <p>When a phish is reported, the security team can deal with the incident. Reports also provide useful information about the number of attempted phishes happening in the <ph conref="conrefs.dita#conrefs/moj"/>, and what sort they are. This in turn helps improve defences against phishing attempts.</p>
     </body>
   </topic>
+  -->
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

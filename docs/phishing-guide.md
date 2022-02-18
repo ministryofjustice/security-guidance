@@ -6,7 +6,9 @@ There is also information on [what to do if you think you have been phished](#wh
 
 ## What is a phish?
 
-Phishing attacks are when [threat actors](glossary.md#threat-actor) pretend to be legitimate parties. They do this to steal money, credentials, or sensitive information. There are a variety of phishing attacks that you might come across. Some are more sophisticated or targeted than others. Phishes use emotional states to create a sense of urgency. This urgency makes users want to do the actions requested. The combination of urgency and emotional manipulation leaves users feeling panicked and worried, or filled with a sense of euphoria. By heightening emotion and attaching a tight deadline, the threat actors are more able to convince users to do what they have requested.
+Phishing attacks are when [threat actors](glossary.md#threat-actor) pretend to be legitimate parties. They do this to steal money, credentials, or sensitive information. There are a variety of phishing attacks that you might come across. Some are more sophisticated or targeted than others.
+
+Phishes often use heightened emotional states to create a sense of urgency. This urgency makes users want to do the actions requested as quickly as possible. The combination of urgency and emotional manipulation leaves users feeling panicked and worried, or filled with a sense of euphoria. By heightening emotion and attaching a tight deadline, the threat actors are more able to convince users to do what they have requested, and to do so without taking the time to think carefully about whether it's a sensible or valid request.
 
 Most phishes are emails, but they can also use other technology, such as SMS texts or telephone calls.
 
@@ -61,7 +63,10 @@ Multi-factor authentication \(MFA\) is an excellent way to reduce the risk of ha
 
 Never give MFA to codes to anyone. Companies, banks, government departments, and social media sites will never contact you and ask for your MFA code.
 
-MFA also provides an early warning system for credential compromise. If you ever receive an MFA code for an account that you are not actively logging into, then someone other than you is trying to access the account. This means your credentials might have been compromised, so you should change your password as quickly as possible.
+MFA also provides an early warning system for credential compromise. If you ever receive an MFA code for an account that you are not actively logging into, then someone other than you is trying to access the account. This means your credentials might have been compromised, so as quickly as possible, you should:
+
+-   Report the problem to security.
+-   Change your password.
 
 ## Out of band checks
 
@@ -89,6 +94,8 @@ All members of your workplace should be happy to receive such a check. It shows 
 
 **Don't panic.**
 
+You will not be punished if you fall for a phish - it can happen to anyone. You will not be punished for reporting a phish, even if it turns out to be a false alarm.
+
 If you think you have been phished:
 
 1.  Report it immediately.
@@ -103,17 +110,16 @@ Any phishing emails that get through the filters and into your inbox will be ver
 
 ## Reporting phishes
 
-If you think you have spotted a phish, report it as quickly as possible. If you think you have spotted a more targeted phish that claims to be from a vendor or another staff member then do an out of band check to determine if it is legitimate. If it is not, then please report the email as a phish.
+Reporting phishing attempts helps improve the filters that catch them before they get to your inbox. They also help protect other colleagues and the MoJ from being compromised, or having data or money stolen.
 
-You can forward on all spam and phishing text messages to 7726 for free. Reporting phishing attempts helps improve the filters that catch them before they get to your inbox. They also help protect other colleagues and the MoJ from being compromised, or having data or money stolen.
+If you think you have spotted a phish, or you think you have been phished, report it as quickly as possible. If you think you have spotted a more targeted phish that claims to be from a vendor or another staff member, do an out of band check to determine if it is legitimate. If it is not, then please report the email as a phish.
 
-Reporting a phishing attempt is quick and easy. Simply forward the suspected phish to [security@justice.gov.uk](mailto:security@justice.gov.uk) with the subject line: 'suspected phish report'.
+Reporting a phishing attempt is quick and easy. Do one or both of the following:
 
-## Incidents
+-   Call the IT Service Desk on 0800 917 5148.
+-   Forward the suspected phish to [security@justice.gov.uk](mailto:security@justice.gov.uk) with the subject line: 'suspected phish report'.
 
-If you get phished, this must be reported as soon as possible, as an incident. The reason is that threat actors might have gained access to credentials, sensitive information, or have stolen money.
-
-When a phish is reported, the security team can deal with the incident. Reports also provide useful information about the number of attempted phishes happening in the MoJ, and what sort they are. This in turn helps improve defences against phishing attempts.
+You can forward on all spam and phishing text messages to 7726 for free.
 
 ## Contact details
 
