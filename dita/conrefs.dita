@@ -37,6 +37,7 @@
 			<ph id="do"><b>Do:</b></ph>
 			<ph id="domainsemail"><xref href="mailto:domains@digital.justice.gov.uk" format="email" scope="external">domains@digital.justice.gov.uk</xref></ph>
 			<ph id="donot"><b>Do not:</b></ph>
+			<ph id="dont-click-link"><b>Never</b> use the link in an email asking you to change a password. Use an out-of-band method such as going directly to the website to change a password. Be cautious when following password actions requested in emails or texts.</ph>
 			<ph id="gcloud"><xref href="https://www.digitalmarketplace.service.gov.uk/g-cloud" format="html" scope="external">Digital Marketplace (GCloud)</xref></ph>
 			<ph id="giaaemail"><xref href="mailto:correspondence@giaa.gov.uk" format="email" scope="external">correspondence@giaa.gov.uk</xref></ph> <!-- Government Internal Audit Agency -->
 			<ph id="gov007"><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></ph>

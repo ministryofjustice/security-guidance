@@ -2,7 +2,7 @@
 
 This guide provides information about 'phishing' is. It describes what phishing is, and how it happens. It tells you what you can do to protect yourself, and to keep Ministry of Justice \(MoJ\) systems secure.
 
-There is also information on [what to do if you think you have been phished](#what-to-do-if-you-are-phished).
+There is also information on [what to do if you think you have been phished](#if-you-think-youve-been-phished).
 
 ## What is a phish?
 
@@ -17,13 +17,13 @@ Urgency makes users want to do the actions requested as quickly as possible. The
 
 Most phishes are emails, but they can also use other technology, such as SMS texts or telephone calls.
 
-Threat actors might use phishes to request payments. They might ask you to click links and log in to an account or change a password. They might instruct you to buy items for them. They might get you to provide some personal details before you can claim a supposed prize.
+Threat actors might use phishes to request payments. They might ask you to click links and log in to an account or change a password. They might instruct you to buy items for them. They might get you to provide some personal details before you can claim a supposed prize. **Never** use the link in an email asking you to change a password. Use an out-of-band method such as going directly to the website to change a password. Be cautious when following password actions requested in emails or texts.
 
 Threat actors utilise a variety of methods in phishes. They often take advantage of seasonal events to appear more legitimate. They use emotional and urgent triggers such as:
 
 -   Telling you that your tax return is overdue.
 -   Threatening to share access to your personal sensitive photos unless you pay.
--   A request to pay money to bail a family member out of jail.
+-   A request to send money urgently to a family member in trouble.
 -   Telling you 'good news' ,for example that you have won a big prize or are due a tax rebate.
 -   Providing a final demand about a very overdue invoice that, if unpaid, will see you taken to court.
 -   A 'last warning' about resetting your password, otherwise you will lose account access.
@@ -36,7 +36,7 @@ There are many different types of phish. You might recognise many of them. But t
 
 ### Email phishing
 
-These are emails that request actions. Examples include clicking on links to change passwords, or requesting money.
+These are emails that request actions. Examples include clicking on links to change passwords, or requesting money. **Never** use the link in an email asking you to change a password. Use an out-of-band method such as going directly to the website to change a password. Be cautious when following password actions requested in emails or texts.
 
 ### SMS phishing \(smishing\)
 
@@ -66,12 +66,12 @@ This is a very sophisticated supply chain attack. It uses research from an organ
 
 Multi-factor authentication \(MFA\) is a great way to reduce the risk of account compromise by a phishing attack. MFA provides an extra layer of defence for the account. If you have MFA set up, threat actors cannot access your account. It's safe, even if you accidentally reveal your credentials.
 
-Never give MFA to codes to anyone. Companies, banks, government departments, and social media sites will never contact you and ask for your MFA code.
+Never give MFA to codes to anyone. Genuine companies, banks, government departments, and social media sites will never contact you and ask you to tell them an MFA code. They will never offer to input it for you, or request you give the code to them over the phone. MFA codes should only ever be entered by you, directly into the account login.
 
 MFA also provides an early warning system for credential compromise. If you ever receive an MFA code for an account that you are not actively logging into, then someone other than you is trying to access the account. This means your credentials might have been compromised, so as quickly as possible, you should:
 
 -   Report the problem to security.
--   Change your password.
+-   Change your password. **Never** use the link in an email asking you to change a password. Use an out-of-band method such as going directly to the website to change a password. Be cautious when following password actions requested in emails or texts.
 
 ## Out of band checks
 
@@ -95,7 +95,7 @@ Doing an out of band check lets you confirm that the messages come from the pers
 
 All members of your workplace should be happy to receive such a check. It shows that you take security seriously, and that you are helping to protect them as well as yourself.
 
-## What to do if you are phished
+## If you think you've been phished
 
 **Don't panic.**
 
@@ -105,7 +105,7 @@ If you think you have been phished:
 
 1.  Report it immediately.
 2.  If your credentials were phished, highlight that in the report.
-3.  Change the password for affected accounts as soon as possible.
+3.  Change the password for affected accounts as soon as possible. **Never** use the link in an email asking you to change a password. Use an out-of-band method such as going directly to the website to change a password. Be cautious when following password actions requested in emails or texts.
 
 MoJ firewalls and antivirus systems should catch the majority of malware before they can affect systems. By reporting the incident as quickly as possible, the security team will be alerted and on the lookout for any more sophisticated malware.
 
