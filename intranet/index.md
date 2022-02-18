@@ -17,6 +17,7 @@
         -   [IT Security Policy (Overview)](https://security-guidance.service.justice.gov.uk/it-security-policy-overview/)
         -   [Guidance on IT Accounts and Assets for Long Term Leave](https://security-guidance.service.justice.gov.uk/long-term-leave/)
         -   [Personal devices](https://security-guidance.service.justice.gov.uk/personal-devices/)
+        -   [Phishing Guide](https://security-guidance.service.justice.gov.uk/phishing-guide/)
         -   [Protecting social media accounts](https://security-guidance.service.justice.gov.uk/protecting-social-media-accounts/)
         -   [Protect yourself online](https://security-guidance.service.justice.gov.uk/protect-yourself-online/)
         -   [Ransomware](https://security-guidance.service.justice.gov.uk/ransomware/)
@@ -87,5 +88,6 @@
     * [Avoiding too much security](https://security-guidance.service.justice.gov.uk/setecastronomy/)
     * [Using LastPass Enterprise](https://security-guidance.service.justice.gov.uk/using-lastpass/)
 * Training and education
+    * [Glossary](https://security-guidance.service.justice.gov.uk/glossary/)
     * [Training and Education](https://security-guidance.service.justice.gov.uk/training-and-education/)
 

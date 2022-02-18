@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="phishing-guide">
+  <title>Phishing Guide</title>
+  <body>
+    <p>This guide provides information about 'phishing' is. It describes what phishing is, and how it happens. It tells you what you can do to protect yourself, and to keep <ph conref="conrefs.dita#conrefs/mojlong"/> systems secure.</p>
+    <p>There is also information on <xref href="#if-you-think-youve-been-phished" format="dita">what to do if you think you have been phished</xref>.</p>
+  </body>
+  <topic id="what-is-a-phish">
+    <title>What is a phish?</title>
+    <body>
+      <p>Phishing attacks are when <xref href="glossary.dita#terms/threat-actor" format="dita">threat actors</xref> pretend to be legitimate parties. They do this to steal money, credentials, or sensitive information. There are a variety of phishing attacks that you might come across. Some are more sophisticated or targeted than others.</p>
+      <p>Phishes often use two techniques:
+        <ul>
+          <li>They affect emotional states.</li>
+          <li>They create a sense of urgency.</li>
+        </ul></p>
+        <p>Urgency makes users want to do the actions requested as quickly as possible. The combination of urgency and emotional manipulation leaves users feeling panicked and worried. It might fill them with a sense of euphoria. Threat actors use emotion and deadlines to convince users to act. The user doesn't take the time to think about whether it's a sensible or valid request.</p>
+      <p>Most phishes are emails, but they can also use other technology, such as SMS texts or telephone calls.</p>
+      <p>Threat actors might use phishes to request payments. They might ask you to click links and log in to an account or change a password. They might instruct you to buy items for them. They might get you to provide some personal details before you can claim a supposed prize. <ph conref="conrefs.dita#conrefs/dont-click-link"/></p>
+      <p>Threat actors utilise a variety of methods in phishes. They often take advantage of seasonal events to appear more legitimate. They use emotional and urgent triggers such as:
+        <ul>
+          <li>Telling you that your tax return is overdue.</li>
+          <li>Threatening to share access to your personal sensitive photos unless you pay.</li>
+          <li>A request to send money urgently to a family member in trouble.</li>
+          <li>Telling you 'good news' ,for example that you have won a big prize or are due a tax rebate.</li>
+          <li>Providing a final demand about a very overdue invoice that, if unpaid, will see you taken to court.</li>
+          <li>A 'last warning' about resetting your password, otherwise you will lose account access.</li>
+        </ul></p>
+      <p>Beware of messages that create a sense of urgency or a heightened emotional state - good or bad. Treat such messages with suspicion. Check the message before you take any action. Unexpected messages with attachments are also common. Never open the attachment until you have done an <xref href="#out-of-band-checks" format="dita">out of band check</xref>.</p>
+    </body>
+  </topic>
+  <topic id="common-types-of-phish">
+    <title>Common types of phish</title>
+    <body>
+      <p>There are many different types of phish. You might recognise many of them. But the more sophisticated the phishing attack, the harder it is to spot. Out of band checks are the best way to stop a phishing attack. They use a second, different method of communication to check the authenticity of the contact and the requested action.</p>
+    </body>
+    <topic id="email-phishing">
+      <title>Email phishing</title>
+      <body>
+        <p>These are emails that request actions. Examples include clicking on links to change passwords, or requesting money. <ph conref="conrefs.dita#conrefs/dont-click-link"/></p>
+      </body>
+    </topic>
+    <topic id="sms-phishing-smishing">
+      <title>SMS phishing (smishing)</title>
+      <body>
+        <p>These are text messages that ask you to click links to access services or to pay for things. They often take advantage of seasonal events to appear more legitimate. Examples include Christmas delivery phishing texts, or texts around tax return time. Other recent examples use Covid news items to demand payments or personal information.</p>
+      </body>
+    </topic>
+    <topic id="voice-phishing-vishing">
+      <title>Voice phishing (vishing)</title>
+      <body>
+        <p>These are phone calls that ask you for sensitive information, or payments, or remote access to your devices. Threat actors  might pretend to be from banks and other official organisations. Others might claim to be technology companies such as Microsoft. Another vishing example might claim to be from a jail, requesting bail money.</p>
+      </body>
+    </topic>
+    <topic id="spear-phishing">
+      <title>Spear phishing</title>
+      <body>
+        <p>Some phishing attacks focus on specific targets. Threat actors use <xref href="glossary.dita#terms/open-source-intelligence-osint" format="dita">OSINT</xref> to gather data about an individual. They can then create a 'custom phish'. It is interesting for the target. The target is then more likely to respond to the phish. Examples include real names or work-related jargon. These are often very sophisticated phishes. The use of personal data makes the phish more likely to succeed.</p>
+      </body>
+    </topic>
+    <topic id="whale-phishing-whaling">
+      <title>Whale phishing (whaling)</title>
+      <body>
+        <p>These target at high level individuals such as CEOs and Director level and above staff. Whaling uses a variety of phishing methods to contact high profile targets. The goal is to steal large sums of money, or access high level credentials, intellectual property, and sensitive information.</p>
+      </body>
+    </topic>
+    <topic id="business-email-compromise-bec">
+      <title>Business email compromise (BEC)</title>
+      <body>
+        <p>This type of phishing attack targets high level staff to steal money or reveal sensitive information. Threat actors pretend to be another high-level staff member. They do this by using their name or email address to seem legitimate. They often create a sense of urgency to convince junior staff to do the requested action. These emails often come from a compromised staff member's email account. This means the email system doesn't block the sender.</p>
+      </body>
+    </topic>
+    <topic id="watering-hole-attack">
+      <title>Watering hole attack</title>
+      <body>
+        <p>This is a very sophisticated supply chain attack. It uses research from an organisation's frequently used websites to identify a target. Targeted websites are then compromised and infected with malware. When users visit the websites, the malware downloads onto their systems. These are sophisticated attacks. The user is visiting an official and legitimate website. It is the website itself that has been compromised.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="multi-factor-authentication-mfa">
+    <title>Multi-factor authentication (MFA)</title>
+    <body>
+      <p>Multi-factor authentication (MFA) is a great way to reduce the risk of account compromise by a phishing attack. MFA provides an extra layer of defence for the account. If you have MFA set up, threat actors cannot access your account. It's safe, even if you accidentally reveal your credentials.</p>
+      <p>Never give MFA to codes to anyone. Genuine companies, banks, government departments, and social media sites will never contact you and ask you to tell them an MFA code. They will never offer to input it for you, or request you give the code to them over the phone. MFA codes should only ever be entered by you, directly into the account login.</p>
+      <p>MFA also provides an early warning system for credential compromise. If you ever receive an MFA code for an account that you are not actively logging into, then someone other than you is trying to access the account. This means your credentials might have been compromised, so as quickly as possible, you should:
+        <ul>
+          <li>Report the problem to security.</li>
+          <li>Change your password. <ph conref="conrefs.dita#conrefs/dont-click-link"/></li>
+        </ul></p>
+    </body>
+  </topic>
+  <topic id="out-of-band-checks" conref="glossary.dita#out-of-band-checks"><title/></topic>
+  <topic id="if-you-think-youve-been-phished">
+    <title>If you think you've been phished</title>
+    <body>
+      <p><b>Don't panic.</b></p>
+      <p>You will not be punished if you fall for a phish - it can happen to anyone. You will not be punished for reporting a phish, even if it turns out to be a false alarm.</p>
+      <p>If you think you have been phished:
+        <ol>
+          <li>Report it immediately.</li>
+          <li>If your credentials were phished, highlight that in the report.</li>
+          <li>Change the password for affected accounts as soon as possible. <ph conref="conrefs.dita#conrefs/dont-click-link"/></li>
+        </ol></p>
+      <p><ph conref="conrefs.dita#conrefs/moj"/> firewalls and antivirus systems should catch the  majority of malware before they can affect systems. By reporting the incident as quickly as possible, the security team will be alerted and on the lookout for any more sophisticated malware.</p>
+      <p>If your credentials have been phished, reporting it immediately and resetting your password quickly greatly reduces the risks.</p>
+      <p>Any phishing emails that get through the filters and into your inbox will be very sophisticated. This makes them much harder for you or anyone to spot. Never feel guilty or ashamed for being phished.</p>
+    </body>
+  </topic>
+  <topic id="reporting-phishes">
+    <title>Reporting phishes</title>
+    <body>
+      <p>Reporting phishing attempts helps improve the filters that catch them before they get to your inbox.  They also help protect other colleagues and the <ph conref="conrefs.dita#conrefs/moj"/> from being compromised, or having data or money stolen.</p>
+      <p>If you think you have spotted a phish, or you think you have been phished, report it as quickly as possible. If you think you have spotted a more targeted phish that claims to be from a vendor or another staff member, do an out of band check to determine if it is legitimate. If it is not, then please report the email as a phish.</p>
+      <p>Reporting a phishing attempt is quick and easy. Do one or both of the following:
+        <ul>
+          <li>Call the <ph conref="conrefs.dita#conrefs/servicedesk"/> on <ph conref="conrefs.dita#conrefs/servicedesknumber"/>.</li>
+          <li>Forward the suspected phish to <ph conref="conrefs.dita#conrefs/securityemail"/> with the subject line: 'suspected phish report'.</li>
+        </ul></p>
+      <p>You can forward on all spam and phishing text messages to 7726 for free.</p>
+    </body>
+  </topic>
+  <!--
+  <topic id="incidents">
+    <title>Incidents</title>
+    <body>
+      <p>If you get phished, this must be reported as soon as possible, as an incident. The reason is that threat actors might have gained access to credentials, sensitive information, or have stolen money.</p>
+      <p>When a phish is reported, the security team can deal with the incident. Reports also provide useful information about the number of attempted phishes happening in the <ph conref="conrefs.dita#conrefs/moj"/>, and what sort they are. This in turn helps improve defences against phishing attempts.</p>
+    </body>
+  </topic>
+  -->
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

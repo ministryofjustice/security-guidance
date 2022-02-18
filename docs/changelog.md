@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-02-18-18:35-gmt-[added-phishing-guide.](https:-security-guidance.service.justice.gov.uk-phishing-guide-)"></a>
+
+-   **2022-02-18 18:35 GMT [Added phishing guide.](https://security-guidance.service.justice.gov.uk/phishing-guide/)**
+
+    New topic, providing advice on dealing with phishing threats.
+
 <a name="2022-02-16-11:19-gmt-[updated-security.txt-file.](https:-security-guidance.service.justice.gov.uk-.well-known-security.txt)"></a>
 
 -   **2022-02-16 11:19 GMT [Updated security.txt file.](https://security-guidance.service.justice.gov.uk/.well-known/security.txt)**

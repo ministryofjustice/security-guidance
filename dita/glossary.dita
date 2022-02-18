@@ -106,7 +106,7 @@
           <dt>Multi-factor authentication (MFA)</dt>
           <dd>Use of two or more different components to verify a user's claimed identity. Typically an extra component, in addition to a <xref href="#terms/password" format="dita">password</xref>. MFA often uses an authenticator app or SMS text to deliver a single use code. Also Two-factor authentication (2FA).</dd>
         </dlentry>
-        <dlentry>
+        <dlentry id="open-source-intelligence-osint">
           <dt>Open Source Intelligence (OSINT)</dt>
           <dd>Information gathered from public information. This includes data from social network accounts, company websites, and other openly available information sources.</dd>
         </dlentry>
@@ -128,7 +128,7 @@
         </dlentry>
         <dlentry id="phishing">
           <dt>Phishing</dt>
-          <dd>Untargeted mass emails sent to many individuals. The email typically asks for sensitive information, or encourages you to visit fake websites, or to send money.</dd>
+          <dd>Untargeted mass emails sent to many individuals. The email typically asks for sensitive information, or encourages you to visit fake websites, or to send money. For more information, refer to the <xref href="phishing-guide.dita" format="dita">phishing guide</xref>.</dd>
         </dlentry>
         <dlentry id="problem">
           <dt>Problem</dt>
