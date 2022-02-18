@@ -3,7 +3,7 @@
 <topic id="phishing-guide">
   <title>Phishing Guide</title>
   <body>
-    <p>This guide provides information explaining that 'phishing' is, how it happens, and what you can do to protect yourself and keep <ph conref="conrefs.dita#conrefs/mojlong"/> systems secure.</p>
+    <p>This guide provides information explaining what 'phishing' is, how it happens, and what you can do to protect yourself and keep <ph conref="conrefs.dita#conrefs/mojlong"/> systems secure.</p>
     <p>There is also information on <xref href="#what-to-do-if-you-are-phished" format="dita">what to do if you think you have been phished</xref>.</p>
   </body>
   <topic id="what-is-a-phish">
