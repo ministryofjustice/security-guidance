@@ -77,6 +77,13 @@ For individual accounts, the IT Service Desk can configure delegate access. Admi
 
 For further details, refer to the [Privileged User Guide](privileged-user-guide.md).
 
+
+## Phishing / Spoofing of MoJ Users
+
+It is **NOT** permitted for MoJ staff, contractors, suppliers or other partner organisations to deliberately send spoof or phishing emails (or other messages) to MoJ users for any purpose. 
+
+If it is believed that sending faked messages is required - such as to test the resilience of an end-to-end MoJ business process against subversion - then prior approval **MUST** be obtained from the departmental CISO via [security@justice.gov.uk](mailto:security@justice.gov.uk).
+
 ## Contact details
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
