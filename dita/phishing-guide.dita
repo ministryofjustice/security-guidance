@@ -78,6 +78,20 @@
       </body>
     </topic>
   </topic>
+  <topic id="qr-codes">
+    <title>QR codes</title>
+    <body>
+      <p>Quick response codes (QR Codes) are a form of matrix (two-dimensional) barcode. They are machine-readable links. A QR code reader on a mobile device sends the user to a website or app. You don't need to click or type a link.</p>
+      <p>Some devices have QR code readers built into their camera app. Other devices need a dedicated app.</p>
+      <p>When you scan the QR code, the app asks you if you wish to go to the website or app described by the QR code.</p>
+      <note>QR codes are not human readable. This means it is important to verify that the codes are legitimate and have not been tampered with.</note>
+      <p>You'll see QR codes in many situations. They give easy access to restaurant menus. They link to charity donation pages or surveys. Banks use them to link to services.</p>
+      <p>A QR code in an official context should be as safe to scan as an ordinary web link. For example, a QR code on an official notice in an <ph conref="conrefs.dita#conrefs/moj"/> building.</p>
+      <p>If the QR code is not labelled, or is from an unknown person, be suspicious. For example, a QR code stuck on a lamppost, or a QR code on a non-official flyer on a wall in a public location. These are  not safe to scan.</p>
+      <p>It's possible that even a QR code in a safe, official place might be tampered with. Someone might draw over it. They might cover it with a sticker and a fresh QR code. If a QR code looks 'contaminated', don't scan it. <xref href="#reporting-phishes" format="dita">Report it</xref> to security.</p>
+      <p>In summary, the risk associated with QR codes is currently considered low. They are simply barcode versions of web links. When deciding whether to scan a QR code or not, follow the same procedure as receiving an unexpected message .</p>
+    </body>
+  </topic>
   <topic id="multi-factor-authentication-mfa">
     <title>Multi-factor authentication (MFA)</title>
     <body>
