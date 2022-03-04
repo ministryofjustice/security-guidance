@@ -8,13 +8,18 @@
 
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/</loc>
-  <lastmod>2022-02-18T18:35:00+00:00</lastmod>
+  <lastmod>2022-03-04T09:16:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/</loc>
-  <lastmod>2022-02-18T18:35:00+00:00</lastmod>
+  <lastmod>2022-03-04T09:16:00+00:00</lastmod>
   <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/email-security-guide/</loc>
+  <lastmod>2022-03-04T09:16:00+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/phishing-guide/</loc>
@@ -754,11 +759,6 @@
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/email-blocklist-process/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/email-security-guide/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
