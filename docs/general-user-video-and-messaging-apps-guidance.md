@@ -138,6 +138,21 @@ The bottom line is:
 |YouTube|Video sharing tool: Video, streaming and chat|Avoid personal or sensitive data|Web browser based use.|Internal/External|
 |Zoom|Communication tool: Video, voice and chat|Avoid personal or sensitive data|Web browser based use, or dedicated and installed app by approval|External meetings. For Internal meetings, use Microsoft Teams.|
 
+## Tools for sharing information internally and externally
+
+For secure sharing and transfer of materials within MoJ bodies, the MoJ installation of Microsoft Teams is approved for use with data up to and including `OFFICIAL-SENSITIVE`.
+
+For secure sharing and transfer of materials with external organisations, Criminal Justice Secure Exchange \(CJSE\) and Criminal Justice Secure Messaging \(CJSM\) are the preferred solution for data up to and including `OFFICIAL-SENSITIVE`.
+
+For secure sharing and transfer of materials with external organisations where the use of CJSE or CJSM is not practicable, the following tools are approved for data up to and including `OFFICIAL-SENSITIVE`:
+
+-   [Egress](https://www.egress.com/) \([NCSC certified](https://www.ncsc.gov.uk/products/egress-email-and-file-protection)\)
+-   [Galaxkey](https://www.galaxkey.com/) \([NCSC certified](https://www.ncsc.gov.uk/products/galaxkey)\)
+
+For use within MoJ bodies, these products may only be installed on MoJ-issued devices. For advice on installation and configuration of these products, consult the team responsible for the supply and configuration of your devices.
+
+Always follow the guidance in the [Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md) when making such transfers. This applies particularly with regard to the sharing of data classified higher than `OFFICIAL`.
+
 ## NHS Track and Trace
 
 The official [NHS Covid-19](https://www.nhs.uk/apps-library/nhs-covid-19/) app was designed by the NHS. Both NCSC and Cabinet Office have been involved in the security of the system. The app provides contact tracing, local area alerts and venue check-in. It enables you to protect yourself and your loved ones. Installation is optional, but recommended.
