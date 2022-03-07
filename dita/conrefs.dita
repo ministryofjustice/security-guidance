@@ -37,6 +37,7 @@
 			<ph id="do"><b>Do:</b></ph>
 			<ph id="domainsemail"><xref href="mailto:domains@digital.justice.gov.uk" format="email" scope="external">domains@digital.justice.gov.uk</xref></ph>
 			<ph id="donot"><b>Do not:</b></ph>
+			<ph id="dont-click-link"><b>Never</b> use the link in an email asking you to change a password. Use an out-of-band method such as going directly to the website to change a password. Be cautious when following password actions requested in emails or texts.</ph>
 			<ph id="gcloud"><xref href="https://www.digitalmarketplace.service.gov.uk/g-cloud" format="html" scope="external">Digital Marketplace (GCloud)</xref></ph>
 			<ph id="giaaemail"><xref href="mailto:correspondence@giaa.gov.uk" format="email" scope="external">correspondence@giaa.gov.uk</xref></ph> <!-- Government Internal Audit Agency -->
 			<ph id="gov007"><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></ph>
@@ -90,6 +91,7 @@
 			<ph id="secret"><codeph>SECRET</codeph></ph>
 			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="email" scope="external">security@justice.gov.uk</xref></ph>
 			<ph id="servicedesk">IT Service Desk</ph>
+			<ph id="servicedesknumber">0800 917 5148</ph>
 			<ph id="softwareassetemail"><xref href="mailto:SoftwareAssetManagement@justice.gov.uk" format="email" scope="external">SoftwareAssetManagement@justice.gov.uk</xref></ph>
 			<ph id="spf"><xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">SPF</xref></ph>
 			<ph id="spflong"><xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">Security Policy Framework (SPF)</xref></ph>
@@ -173,7 +175,7 @@
 				and Digital &amp; Technology Digital Service Desk.
 				Use one of the following two methods for contacting service desk:
 				<ul>
-					<li>Tel: 0800 917 5148</li>
+					<li>Tel: <ph conref="#conrefs/servicedesknumber"/></li>
 					<li><xref href="https://mojprod.service-now.com/moj_sp"
 						format="html" scope="external"><ph conref="#conrefs/moj"/> Service Portal</xref></li>
 				</ul>
@@ -302,7 +304,7 @@
 				<dl>
 					<dlentry>
 						<dt>Technology Service Desk - including DOM1, Quantum, and the Digital &amp; Technology Service Desk</dt>
-						<dd>Tel: 0800 917 5148
+						<dd>Tel: <ph conref="#conrefs/servicedesknumber"/>
 							<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph>
 								and <codeph>servicedesk@digital.justice.gov.uk</codeph> email addresses
 								are no longer being monitored.</note></dd>

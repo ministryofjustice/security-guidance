@@ -31,6 +31,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="it-security-policy-overview.dita" type="topic"/>
 			<topicref href="long-term-leave.dita" type="topic"/>
 			<topicref href="personal-devices.dita" type="topic"/>
+			<topicref href="phishing-guide.dita" type="topic"/>
 			<topicref href="protecting-social-media-accounts.dita" type="topic"/>
 			<topicref href="protect-yourself-online.dita" type="topic"/>
 			<topicref href="ransomware.dita" type="topic"/>
@@ -123,6 +124,7 @@ if an audience attribute is present, then only matching content is included.
 	</topichead>
 	<topichead>
 		<topicmeta><navtitle>Training and education</navtitle></topicmeta>
+		<topicref href="glossary.dita" type="topic"/>
 		<topicref href="training-and-education.dita" type="topic"/>
 	</topichead>
 
