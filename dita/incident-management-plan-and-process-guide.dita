@@ -55,7 +55,7 @@
             <p>Capturing lessons learnt.</p>
           </li>
         </ul>
-        <p>A template ITSIM plan is provided <xref href="#appendix-a" format="dita">here</xref>, this is not designed to be a rigid template and can be flexed to meet the needs of the business.</p>
+        <p>A template ITSIM plan is provided <xref href="#appendix-a-it-security-incident-management-plan-template" format="dita">here</xref>. It is not designed to be a rigid template and can be flexed to meet the needs of the business.</p>
       </body>
     </topic>
     <topic id="demonstration-of-compliance">
@@ -585,8 +585,8 @@
       <p>IT security incident statistics must be presented in conjunction with an assessment of top security risks and details of any significant compliance gaps on a monthly basis to the ITSO to assist risk management. Each ITSIM plan must be reviewed on a yearly basis and re-approved by the SIRO and ITSO.</p>
     </body>
   </topic>
-  <topic id="appendix-a">
-    <title>Appendix A – IT Security Incident Management Plan - Template</title>
+  <topic id="appendix-a-it-security-incident-management-plan-template">
+    <title>Appendix A: IT Security Incident Management Plan Template</title>
     <body>
       <p><table>
         <tgroup cols="3">
@@ -664,7 +664,7 @@ incident (refer to Figure 4).]</entry>
     </body>
   </topic>
   <topic id="appendix-b-escalation-path">
-    <title>Appendix B – Escalation path</title>
+    <title>Appendix B: Escalation path</title>
     <body>
       <image href="images/incident-management-plan-and-process-guide-diagram-4.png" placement="break" scope="local">
         <alt>ITSIM Escalation path</alt>
