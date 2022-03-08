@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-03-04-09:16-gmt-[updated-email-security-guide.](https:-security-guidance.service.justice.gov.uk-email-security-guide-#phishing-or-spoofing-of-moj-users)"></a>
+
+-   **2022-03-04 09:16 GMT [Updated email security guide.](https://security-guidance.service.justice.gov.uk/email-security-guide/#phishing-or-spoofing-of-moj-users)**
+
+    Clarification that phishing or spoofing of MoJ colleagues, by MoJ colleagues, is not permitted other than with formal approval in advance, justified by a good business case.
+
 <a name="2022-02-18-18:35-gmt-[added-phishing-guide.](https:-security-guidance.service.justice.gov.uk-phishing-guide-)"></a>
 
 -   **2022-02-18 18:35 GMT [Added phishing guide.](https://security-guidance.service.justice.gov.uk/phishing-guide/)**
