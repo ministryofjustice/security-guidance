@@ -72,7 +72,7 @@ When you scan the QR code, the app asks you if you wish to go to the website or 
 
 **Note:** QR codes are not human readable. This means it is important to verify that the codes are legitimate and have not been tampered with.
 
-You'll see QR codes in many situations. They give easy access to restaurant menus. They link to charity donation pages or surveys. Banks use them to link to services. They can be used to join WiFi hotspots. They can be used to add contacts directly to your contacts list.
+You'll see QR codes in many situations. They give easy access to restaurant menus. They link to charity donation pages or surveys. Banks use them to link to services. They can be used to join wifi hotspots. They can be used to add contacts directly to your contacts list.
 
 A QR code in an official context should be as safe to scan as an ordinary web link. For example, a QR code on an official notice in an MoJ building.
 
