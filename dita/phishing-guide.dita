@@ -85,7 +85,7 @@
       <p>Some devices have QR code readers built into their camera app. Other devices need a dedicated app.</p>
       <p>When you scan the QR code, the app asks you if you wish to go to the website or app described by the QR code.</p>
       <note>QR codes are not human readable. This means it is important to verify that the codes are legitimate and have not been tampered with.</note>
-      <p>You'll see QR codes in many situations. They give easy access to restaurant menus. They link to charity donation pages or surveys. Banks use them to link to services.</p>
+      <p>You'll see QR codes in many situations. They give easy access to restaurant menus. They link to charity donation pages or surveys. Banks use them to link to services. They can be used to join wifi hotspots. They can be used to add contacts directly to your contacts list.</p>
       <p>A QR code in an official context should be as safe to scan as an ordinary web link. For example, a QR code on an official notice in an <ph conref="conrefs.dita#conrefs/moj"/> building.</p>
       <p>If the QR code is not labelled, or is from an unknown person, be suspicious. For example, a QR code stuck on a lamppost, or a QR code on a non-official flyer on a wall in a public location. These are  not safe to scan.</p>
       <p>It's possible that even a QR code in a safe, official place might be tampered with. Someone might draw over it. They might cover it with a sticker and a fresh QR code. If a QR code looks 'contaminated', don't scan it. <xref href="#reporting-phishes" format="dita">Report it</xref> to security.</p>
