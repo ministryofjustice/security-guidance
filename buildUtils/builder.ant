@@ -460,9 +460,11 @@
 		<copy file="${temp.file}" tofile="${docs}/${theFileName}.md" overwrite="true"/>
 	</target>
 
-	<target name="dist_local" depends="compile_md,compile_intranet"
+	<target name="dist_local" depends="compile_md"
 		description="generate minimal set to test local build">
 	<!--
+		<target name="dist_local" depends="compile_md,compile_intranet"
+			description="generate minimal set to test local build">
 	<target name="dist_local" depends="compile_md,compile_intranet,compile_ost"
 		description="generate minimal set to test local build">
 	<target name="dist_local" depends="compile_md,compile_intranet,compile_word"
@@ -477,6 +479,9 @@
 		</copy>
 		<copy todir="${docs}/images" >
 			<fileset dir="${images}"/>
+		</copy>
+		<copy todir="${docs}/culture" >
+			<fileset dir="${culture}"/>
 		</copy>
 		<copy todir="${docs}" >
 			<fileset dir="${build}"/>

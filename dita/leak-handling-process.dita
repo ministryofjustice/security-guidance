@@ -5,7 +5,7 @@
   <body>
     <p>This document provides a high-level overview of the leak handling process for the <ph conref="conrefs.dita#conrefs/mojlong"/>. It includes the roles, responsibilities, and major steps performed as part of leak handling.</p>
     <p>It should be read in conjunction with the associated <xref href="leak-handling-policy.dita" format="dita">leak handling policy</xref>.</p>
-    <p><ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/> owns the leak handling process. However, the <ph conref="conrefs.dita#conrefs/securityemailtext"/> provides tech support as required, for example performing searches. The analysis and reporting from these teams is an essential security management component in assessing and mitigating current and future leaks that affect <ph conref="conrefs.dita#conrefs/moj"/> data, systems, networks and solutions.</p>
+    <p><ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/> owns the leak handling process. However, the <ph conref="conrefs.dita#conrefs/ostemailtext"/> provides tech support as required, for example performing searches. The analysis and reporting from these teams is an essential security management component in assessing and mitigating current and future leaks that affect <ph conref="conrefs.dita#conrefs/moj"/> data, systems, networks and solutions.</p>
     <p>Send all leak questions or requests for help to <ph conref="conrefs.dita#conrefs/securityemail"/>. This applies to all leaks, suspected or otherwise. Your message is evaluated promptly, and normally passed to <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>. Depending on the circumstances, the <ph conref="conrefs.dita#conrefs/ostemailtext"/> might also provide direct advice on a case-by-case basis.</p>
     <note>Normally, the <xref href="it-incident-management-policy.dita" format="dita" audience="audience-suppliers audience-tech"><ph conref="conrefs.dita#conrefs/moj"/> incident management process</xref><xref href="https://security-guidance.service.justice.gov.uk/it-incident-management-policy/" format="html" scope="external" audience="audience-basic"><ph conref="conrefs.dita#conrefs/moj"/> incident management process</xref> is followed at the start of a leak investigation.</note>
     <note>If a leak investigation indicates that physical examination of evidence is required, then <ph conref="conrefs.dita#conrefs/ostemailtext"/> involvement will involve a Team Lead as a minimum.</note>
@@ -43,7 +43,7 @@
         </dlentry>
         <dlentry>
           <dt>IA Lead, Case Manager or Requestor</dt>
-          <dd>Provides all investigation requirements. Provides governance sign-off. Communicates with Operational Security team on case status, including case closure notification or retention date.</dd>
+          <dd>Addresses all investigation requirements. Provides governance sign-off. Communicates with Operational Security team on case status, including case closure notification or retention date.</dd>
         </dlentry>
         <dlentry>
           <dt>Operational Security 'Front Door' team</dt>
@@ -56,11 +56,11 @@
       </dl>
     </body>
   </topic>
-  <topic id="process">
-    <title>Process</title>
+  <topic id="process-steps">
+    <title>Process steps</title>
     <body/>
-    <topic id="identify-leak">
-      <title>1. Identify leak</title>
+    <topic id="step-1-identify-leak">
+      <title>Step 1: Identify leak</title>
       <body>
         <p>A leak investigation is requested. The request might come from any of:
           <ul>
@@ -76,16 +76,36 @@
           </ul>
         </p>
         <p>The request indicates that a leak investigation is required. The request is submitted to the security 'Front Door': <ph conref="conrefs.dita#conrefs/securityemail"/>.</p>
-        <p>Proceed to <xref href="#is-it-a-leak" format="dita">the next step</xref>.</p>
+        <p>Proceed to <xref href="#step-2-is-it-a-leak" format="dita">step 2</xref>.</p>
       </body>
     </topic>
-    <topic id="is-it-a-leak">
-      <title>2. Is it a leak?</title>
+    <topic id="step-2-is-it-a-leak">
+      <title>Step 2: Is it a leak?</title>
       <body>
-        <p>The security team eavluates the request.</p>
-        <p>If the situation is indeed a leak, the request is sent to <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>. Proceed to step 2.1.</p>
+        <p>The security team evaluates the request.</p>
+        <p>If the situation is indeed a leak, the request is sent to <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>. Proceed to <xref href="#step-21-require-informal-leak-investigation" format="dita">Require informal leak investigation</xref>.</p>
         <p>If the situation is not a leak, or it is not clear whether the situation is a leak, the request is sent to <ph conref="conrefs.dita#conrefs/ostemailtext"/>. Proceed to step 2.2.</p>
       </body>
+      <topic id="step-21-require-informal-leak-investigation">
+        <title>Step 2.1: Require informal leak investigation</title>
+        <body>
+          <p>Group Security reviews the request to determine if a leak investigation is required.</p>
+          <p>If a leak investigation is needed, go to step <xref href="#step-211-produce-informal-investigation-report" format="dita">2.1.1</xref>.</p>
+          <p>If a leak investigation is not needed, go to step <xref href="#step-212-a-leak-investigation-is-not-needed" format="dita">2.1.2</xref></p>
+        </body>
+        <topic id="step-211-produce-informal-investigation-report">
+          <title>Step 2.1.1: Produce informal investigation report</title>
+          <body>
+            <p>With input from the Cyber Security Team, Group Security produces an informal investigation report. The report describes the findings and recommendations. The report is sent to the Requestor.</p>
+          </body>
+        </topic>
+        <topic id="step-212-a-leak-investigation-is-not-needed">
+          <title>Step 2.1.2: A leak investigation is not needed</title>
+          <body>
+
+          </body>
+        </topic>
+      </topic>
     </topic>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
