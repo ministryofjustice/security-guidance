@@ -14,7 +14,7 @@
       <title>Who should use it?</title>
       <body>
         <p><ph conref="conrefs.dita#conrefs/moj"/> LastPass accounts can be requested by anyone in <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology.</p>
-        <p>At the moment, rollout is limited to technical service/operation teams but we're working on license funding to make it available to everyone.</p>
+        <p>At the moment, rollout is limited to technical service or operation teams that have a need for shared passwords.</p>
       </body>
     </topic>
   </topic>
@@ -25,20 +25,19 @@
       <p>Make sure you include in the email:
       <ul>
         <li>which team you're in</li>
-        <li>your role in your team / why you need access</li>
-        <li>if there were any credentials within Rattic that you need access to based on this <xref href="https://docs.google.com/spreadsheets/d/1xkjXApSI1yw4gSuE9-izOBjvD5MK895wt1GJ9unQdU8/edit?usp=sharing" format="html" scope="external">shared spreadsheet of old Rattic credentials</xref></li>
+        <li>your role in your team</li>
+        <li>why you need access</li>
       </ul></p>
     </body>
     <topic id="what-it-can-be-used-for">
       <title>What it can be used for</title>
       <body>
-        <p>LastPass can be used for storing usernames and passwords that are specific to you (for example, your <ph conref="conrefs.dita#conrefs/moj"/> Google account details).</p>
-        <p>LastPass can also be used for sharing passwords within a team when individual named accounts cannot be created in the service. A good example is running a shared Twitter account.</p>
+        <p>LastPass can be used for sharing passwords within a team, when individual named accounts cannot be created in the service. A good example is running a shared Twitter account.</p>
       </body>
       <topic id="personal-use">
         <title>Personal use</title>
         <body>
-          <p>You could use your <ph conref="conrefs.dita#conrefs/moj"/> LastPass account to store personal non-work information but as it is a work account belonging to the <ph conref="conrefs.dita#conrefs/moj"/> you may lose access if you change role and will lose access entirely if you leave the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+          <p>You <ph conref="conrefs.dita#conrefs/policyshouldnot"/> use your <ph conref="conrefs.dita#conrefs/moj"/> LastPass account to store personal non-work information as it is a work account belonging to the <ph conref="conrefs.dita#conrefs/moj"/>. You may lose access if you change role. You will lose access entirely if you leave the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
           <p><ph conref="conrefs.dita#conrefs/moj"/> LastPass administrators cannot routinely access the contents of LastPass Vaults but can reset accounts to gain access if there is a good reason to do so.</p>
         </body>
       </topic>
@@ -46,8 +45,8 @@
     <topic id="what-it-shouldnt-be-used-for">
       <title>What it shouldn't be used for</title>
       <body>
-        <p>LastPass should not be used for storing <ph conref="conrefs.dita#conrefs/moj"/> documents - you must use existing <ph conref="conrefs.dita#conrefs/moj"/> services such as Office 365 or <ph conref="conrefs.dita#conrefs/gsuite"/> for that.</p>
-        <p>You shouldn't use LastPass for 'secrets' that belong to systems, only credentials to be used by humans.<ph audience="audience-tech"> There is separate guidance on how to handle <xref href="secrets-management.dita" format="dita" type="topic">secrets</xref>.</ph></p>
+        <p>LastPass <ph conref="conrefs.dita#conrefs/policyshouldnot"/> be used for storing personal passwords, or for storing <ph conref="conrefs.dita#conrefs/moj"/> documents. Use existing approved <ph conref="conrefs.dita#conrefs/moj"/> services such as Office 365 or <ph conref="conrefs.dita#conrefs/gsuite"/> for storing <ph conref="conrefs.dita#conrefs/moj"/> documents.</p>
+        <p>You shouldn't use LastPass for 'secrets' that belong to systems, only credentials to be used by humans.<ph audience="audience-tech">. There is separate guidance on how to handle <xref href="secrets-management.dita" format="dita" type="topic">secrets</xref>.</ph></p>
       </body>
     </topic>
   </topic>

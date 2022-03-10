@@ -14,7 +14,7 @@ The Ministry of Justice \(MoJ\) has the Enterprise tier of LastPass.
 
 MoJ LastPass accounts can be requested by anyone in MoJ Digital and Technology.
 
-At the moment, rollout is limited to technical service/operation teams but we're working on license funding to make it available to everyone.
+At the moment, rollout is limited to technical service or operation teams that have a need for shared passwords.
 
 ## How to get it
 
@@ -23,26 +23,24 @@ Email [lastpass-admins@digital.justice.gov.uk](mailto:lastpass-admins@digital.ju
 Make sure you include in the email:
 
 -   which team you're in
--   your role in your team / why you need access
--   if there were any credentials within Rattic that you need access to based on this [shared spreadsheet of old Rattic credentials](https://docs.google.com/spreadsheets/d/1xkjXApSI1yw4gSuE9-izOBjvD5MK895wt1GJ9unQdU8/edit?usp=sharing)
+-   your role in your team
+-   why you need access
 
 ### What it can be used for
 
-LastPass can be used for storing usernames and passwords that are specific to you \(for example, your MoJ Google account details\).
-
-LastPass can also be used for sharing passwords within a team when individual named accounts cannot be created in the service. A good example is running a shared Twitter account.
+LastPass can be used for sharing passwords within a team, when individual named accounts cannot be created in the service. A good example is running a shared Twitter account.
 
 #### Personal use
 
-You could use your MoJ LastPass account to store personal non-work information but as it is a work account belonging to the MoJ you may lose access if you change role and will lose access entirely if you leave the MoJ.
+You **SHOULD NOT** use your MoJ LastPass account to store personal non-work information as it is a work account belonging to the MoJ. You may lose access if you change role. You will lose access entirely if you leave the MoJ.
 
 MoJ LastPass administrators cannot routinely access the contents of LastPass Vaults but can reset accounts to gain access if there is a good reason to do so.
 
 ### What it shouldn't be used for
 
-LastPass should not be used for storing MoJ documents - you must use existing MoJ services such as Office 365 or Google Workspace for that.
+LastPass **SHOULD NOT** be used for storing personal passwords, or for storing MoJ documents. Use existing approved MoJ services such as Office 365 or Google Workspace for storing MoJ documents.
 
-You shouldn't use LastPass for 'secrets' that belong to systems, only credentials to be used by humans.There is separate guidance on how to handle [secrets](secrets-management.md).
+You shouldn't use LastPass for 'secrets' that belong to systems, only credentials to be used by humans.. There is separate guidance on how to handle [secrets](secrets-management.md).
 
 ## How to use it
 
