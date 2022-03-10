@@ -14,7 +14,7 @@ The Ministry of Justice \(MoJ\) has the Enterprise tier of LastPass.
 
 MoJ LastPass accounts can be requested by anyone in MoJ Digital and Technology.
 
-At the moment, rollout is limited to technical service or operation teams that have a need for shared passwords.
+At the moment, rollout is limited to technical service or operations teams that have a need for shared passwords.
 
 ## How to get it
 
@@ -29,6 +29,8 @@ Make sure you include in the email:
 ### What it can be used for
 
 LastPass can be used for sharing passwords within a team, when individual named accounts cannot be created in the service. A good example is running a shared Twitter account.
+
+**Note:** If you have a business need for a shared Twitter account, consider using a more enterprise-orientated tool for social media posting, such as [TweetDeck](https://tweetdeck.twitter.com/) or [Hootsuite](https://www.hootsuite.com/). You need [formal approval](general-user-video-and-messaging-apps-guidance.md) to use tools like these.
 
 #### Personal use
 
