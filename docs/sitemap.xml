@@ -8,30 +8,35 @@
 
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/</loc>
-  <lastmod>2022-03-10T13:09:00+00:00</lastmod>
+  <lastmod>2022-03-10T17:01:41+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/</loc>
-  <lastmod>2022-03-10T13:09:00+00:00</lastmod>
+  <lastmod>2022-03-10T17:01:41+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance.pdf</loc>
-  <lastmod>2022-03-10T13:09:00+00:00</lastmod>
+  <lastmod>2022-03-10T17:01:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-gs.pdf</loc>
-  <lastmod>2022-03-10T13:09:00+00:00</lastmod>
+  <lastmod>2022-03-10T17:01:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-tech.pdf</loc>
-  <lastmod>2022-03-10T13:09:00+00:00</lastmod>
+  <lastmod>2022-03-10T17:01:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/using-lastpass/</loc>
+  <lastmod>2022-03-10T17:01:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/incident-management-plan-and-process-guide/</loc>
   <lastmod>2022-03-10T13:09:00+00:00</lastmod>
@@ -474,11 +479,6 @@
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/system-users-and-application-administrators/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/using-lastpass/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
