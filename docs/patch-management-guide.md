@@ -80,7 +80,7 @@ The following Patching Schedule defines the indicative severity ratings and cons
 
 Patches and updates for security related devices must be treated as High Risk \(3\) at least, and implemented in accordance with this rating.
 
-For ratings of High Risk \(3\) or Critical \(4\), the [Risk Advisor Team](#contact-details) must evaluate the probability and impact, and use this to guide a 'tolerance' period, at the end of which a patch must be applied.
+For ratings of High Risk \(3\) or Critical \(4\), the Risk Advisor team \([contact through email](#contact-details)\) must evaluate the probability and impact, and use this to guide a 'tolerance' period, at the end of which a patch must be applied.
 
 Where the rating is Medium \(2\) or lower, the patch can be deferred to the next scheduled maintenance or patching activity.
 
@@ -104,7 +104,7 @@ There are two patching and change management approaches in the MoJ.
 
 Where services and infrastructure are provided by MSPs, the vendor is normally responsible for developing and implementing patches to identified vulnerabilities. Patches or a workaround must be provided by vendors to ensure the MoJ is able to meet the schedule for implementing patches.
 
-If this is not possible, vendors must provide a firm statement that the patch or workaround cannot be made available within the timescale mandated for addressing the vulnerability. The vulnerability alert must then be escalated to the Risk Advisor team \(contacted through email: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)\) for help with acceptance, transfer, mitigation or avoidance.
+If this is not possible, vendors must provide a firm statement that the patch or workaround cannot be made available within the timescale mandated for addressing the vulnerability. The vulnerability alert must then be escalated to the Risk Advisor team \([contact through email](#contact-details)\) for help with acceptance, transfer, mitigation or avoidance.
 
 Any patches to be deployed must go through the normal change management and approval process, and the changes recorded in the Service Management Tool.
 
@@ -116,7 +116,7 @@ The patch review and approval is normally managed within the project team. If as
 
 If changes are urgent because a major security risk has been identified, the product, system, or service owner should ask a competent developer to investigate, and if possible create and implement a patch quickly. If the issue is more complex, Technical Architects, Security Architects and the [Cyber Assistance Team](#contact-details) might need to assist in the development of appropriate remediation plans.
 
-Patches must be implemented according to the schedule in this guide. If this is not possible, the project team must provide an indication that the patch or workaround cannot be implemented within the timescale mandated for addressing the vulnerability. This delay must be escalated to the Risk Advisor team \(contact through email: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)\) for help with acceptance, transfer, mitigation or avoidance.
+Patches must be implemented according to the schedule in this guide. If this is not possible, the project team must provide an indication that the patch or workaround cannot be implemented within the timescale mandated for addressing the vulnerability. This delay must be escalated to the Risk Advisor team \([contact through email](#contact-details)\) for help with acceptance, transfer, mitigation or avoidance.
 
 ## Removal of equipment
 
