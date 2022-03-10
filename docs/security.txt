@@ -7,7 +7,7 @@ Contact: mailto:security@justice.gov.uk
 
 Contact: https://hackerone.com/c532d916-6529-4495-a241-eb7431cfd134/embedded_submissions/new
 
-Expires: 2021-12-31T23:59:00.000Z
+Expires: 2022-12-31T23:59:00.000Z
 
 Encryption: https://github.com/ministryofjustice/security-guidance/blob/main/contact/vulnerability-disclosure-public-encryption.pub
 

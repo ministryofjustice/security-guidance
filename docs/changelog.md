@@ -2,6 +2,30 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-03-04-09:16-gmt-[updated-email-security-guide.](https:-security-guidance.service.justice.gov.uk-email-security-guide-#phishing-or-spoofing-of-moj-users)"></a>
+
+-   **2022-03-04 09:16 GMT [Updated email security guide.](https://security-guidance.service.justice.gov.uk/email-security-guide/#phishing-or-spoofing-of-moj-users)**
+
+    Clarification that phishing or spoofing of MoJ colleagues, by MoJ colleagues, is not permitted other than with formal approval in advance, justified by a good business case.
+
+<a name="2022-02-18-18:35-gmt-[added-phishing-guide.](https:-security-guidance.service.justice.gov.uk-phishing-guide-)"></a>
+
+-   **2022-02-18 18:35 GMT [Added phishing guide.](https://security-guidance.service.justice.gov.uk/phishing-guide/)**
+
+    New topic, providing advice on dealing with phishing threats.
+
+<a name="2022-02-16-11:19-gmt-[updated-security.txt-file.](https:-security-guidance.service.justice.gov.uk-.well-known-security.txt)"></a>
+
+-   **2022-02-16 11:19 GMT [Updated security.txt file.](https://security-guidance.service.justice.gov.uk/.well-known/security.txt)**
+
+    Provided new expiry date for security.txt file.
+
+<a name="2022-02-15-12:18-gmt-[various-minor-corrections.](https:-security-guidance.service.justice.gov.uk-secure-disposal-of-it-physical-and-on-premise-)"></a>
+
+-   **2022-02-15 12:18 GMT [Various minor corrections.](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-physical-and-on-premise/)**
+
+    Corrected contact details, fixed an incorrect link, and updated secure disposal information.
+
 <a name="2022-02-07-15:49-gmt-[updated-glossary.](https:-security-guidance.service.justice.gov.uk-glossary-)"></a>
 
 -   **2022-02-07 15:49 GMT [Updated glossary.](https://security-guidance.service.justice.gov.uk/glossary/)**
