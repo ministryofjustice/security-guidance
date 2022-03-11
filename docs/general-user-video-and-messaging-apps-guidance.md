@@ -140,18 +140,18 @@ The bottom line is:
 
 ## Tools for sharing information internally and externally
 
-For secure sharing and transfer of materials within MoJ bodies, the MoJ installation of Microsoft Teams is approved for use with data up to and including `OFFICIAL-SENSITIVE`.
+For secure sharing and transfer of materials within MoJ bodies or external organisations including other government departments, the MoJ installation of Microsoft Teams is approved for use with data up to and including `OFFICIAL-SENSITIVE`.
 
-For secure sharing and transfer of materials with external organisations, Criminal Justice Secure Exchange \(CJSE\) and Criminal Justice Secure Messaging \(CJSM\) are the preferred solution for data up to and including `OFFICIAL-SENSITIVE`.
+For secure sharing and transfer of materials with external organisations that cannot use Teams, the Criminal Justice Secure Exchange \(CJSE\) and Criminal Justice Secure Messaging \(CJSM\) tools are the preferred solution for data up to and including `OFFICIAL-SENSITIVE`.
 
-For secure sharing and transfer of materials with external organisations where the use of CJSE or CJSM is not practicable, the following tools are approved for data up to and including `OFFICIAL-SENSITIVE`:
+For secure sharing and transfer of materials with external organisations where the use of Teams, CJSE, or CJSM is not practicable, the following tools are approved for data up to and including `OFFICIAL-SENSITIVE`:
 
 -   [Egress](https://www.egress.com/) \([NCSC certified](https://www.ncsc.gov.uk/products/egress-email-and-file-protection)\)
 -   [Galaxkey](https://www.galaxkey.com/) \([NCSC certified](https://www.ncsc.gov.uk/products/galaxkey)\)
 
 For use within MoJ bodies, these products may only be installed on MoJ-issued devices. For advice on installation and configuration of these products, consult the team responsible for the supply and configuration of your devices.
 
-For secure sharing and transfer of materials with other government bodies, where the use of CJSE, CJSM, Egress, or Galaxkey is not possible, the use of official MoJ email systems is approved for data up to and including `OFFICIAL-SENSITIVE`.
+For secure sharing and transfer of materials with other government bodies, where the use of Teams, CJSE, CJSM, Egress, or Galaxkey is not possible, the use of official MoJ email systems is approved for data up to and including `OFFICIAL-SENSITIVE`.
 
 Always follow the guidance in the [Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md) when making such transfers. This applies particularly with regard to the sharing of data classified higher than `OFFICIAL`.
 

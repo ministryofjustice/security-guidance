@@ -311,15 +311,15 @@
 	<topic id="tools-for-sharing-information-internally-and-externally">
 		<title>Tools for sharing information internally and externally</title>
 		<body>
-			<p>For secure sharing and transfer of materials within <ph conref="conrefs.dita#conrefs/moj"/> bodies, the <ph conref="conrefs.dita#conrefs/moj"/> installation of Microsoft Teams is approved for use with data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
-			<p>For secure sharing and transfer of materials with external organisations, Criminal Justice Secure Exchange (CJSE) and Criminal Justice Secure Messaging (CJSM) are the preferred solution for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
-			<p>For secure sharing and transfer of materials with external organisations where the use of CJSE or CJSM is not practicable, the following tools are approved for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>:
+			<p>For secure sharing and transfer of materials within <ph conref="conrefs.dita#conrefs/moj"/> bodies or external organisations including other government departments, the <ph conref="conrefs.dita#conrefs/moj"/> installation of Microsoft Teams is approved for use with data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
+			<p>For secure sharing and transfer of materials with external organisations that cannot use Teams, the Criminal Justice Secure Exchange (CJSE) and Criminal Justice Secure Messaging (CJSM) tools are the preferred solution for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
+			<p>For secure sharing and transfer of materials with external organisations where the use of Teams, CJSE, or CJSM is not practicable, the following tools are approved for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>:
 				<ul>
 					<li><xref href="https://www.egress.com/" format="html" scope="external">Egress</xref> (<xref href="https://www.ncsc.gov.uk/products/egress-email-and-file-protection" format="html" scope="external">NCSC certified</xref>)</li>
 					<li><xref href="https://www.galaxkey.com/" format="html" scope="external">Galaxkey</xref> (<xref href="https://www.ncsc.gov.uk/products/galaxkey" format="html" scope="external">NCSC certified</xref>)</li>
 				</ul>
 				For use within <ph conref="conrefs.dita#conrefs/moj"/> bodies, these products may only be installed on <ph conref="conrefs.dita#conrefs/moj"/>-issued devices. For advice on installation and configuration of these products, consult the team responsible for the supply and configuration of your devices.</p>
-			<p>For secure sharing and transfer of materials with other government bodies, where the use of CJSE, CJSM, Egress, or Galaxkey is not possible, the use of official <ph conref="conrefs.dita#conrefs/moj"/> email systems is approved for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
+			<p>For secure sharing and transfer of materials with other government bodies, where the use of Teams, CJSE, CJSM, Egress, or Galaxkey is not possible, the use of official <ph conref="conrefs.dita#conrefs/moj"/> email systems is approved for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
 			<p>Always follow the guidance in the <xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Handling and Information Sharing Guide</xref> when making such transfers. This applies particularly with regard to the sharing of data classified higher than <ph conref="conrefs.dita#conrefs/official"/>.</p>
 			<p>If you need clarification or further assistance in selecting the appropriate tool, <xref href="#contact-details" format="">ask for help</xref>.</p>
 		</body>
