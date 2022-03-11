@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-03-11-15:31-gmt-[updates-to-ransomware-information-leaflet.](https:-security-guidance.service.justice.gov.uk-ransomware-)"></a>
+
+-   **2022-03-11 15:31 GMT [Updates to ransomware information leaflet.](https://security-guidance.service.justice.gov.uk/ransomware/)**
+
+    Updates to correct typos and improve style.
+
 <a name="2022-03-10-17:01-gmt-[updates-to-lastpass-guidance.](https:-security-guidance.service.justice.gov.uk-using-lastpass-)"></a>
 
 -   **2022-03-10 17:01 GMT [Updates to LastPass guidance.](https://security-guidance.service.justice.gov.uk/using-lastpass/)**
