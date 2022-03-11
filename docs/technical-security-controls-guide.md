@@ -11,7 +11,7 @@
 
 ## Introduction
 
-This guide explains the technical security controls that should be implemented on information systems developed, procured or operated by the Ministry of Justice \(MoJ\) or on its behalf. This guide aligns with [NIST 800-53](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf) and the NCSC [Cyber Assessment Framework \(CAF\)](https://www.ncsc.gov.uk/collection/caf/cyber-safety-introduction). The guidance provides the MoJ with 3 phases or layers of defence. These controls must be implemented to ensure the MoJ's network infrastructure is secure.
+This guide explains the technical security controls that should be implemented on information systems developed, procured or operated by the Ministry of Justice \(MoJ\) or on its behalf. This guide aligns with [NIST 800-53](https://doi.org/10.6028/NIST.SP.800-53r5) and the NCSC [Cyber Assessment Framework \(CAF\)](https://www.ncsc.gov.uk/collection/caf/cyber-safety-introduction). The guidance provides the MoJ with 3 phases or layers of defence. These controls must be implemented to ensure the MoJ's network infrastructure is secure.
 
 ## Who is this guide for?
 
