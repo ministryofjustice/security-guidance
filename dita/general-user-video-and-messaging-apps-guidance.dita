@@ -319,7 +319,23 @@
 					<li><xref href="https://www.galaxkey.com/" format="html" scope="external">Galaxkey</xref> (<xref href="https://www.ncsc.gov.uk/products/galaxkey" format="html" scope="external">NCSC certified</xref>)</li>
 				</ul>
 				For use within <ph conref="conrefs.dita#conrefs/moj"/> bodies, these products may only be installed on <ph conref="conrefs.dita#conrefs/moj"/>-issued devices. For advice on installation and configuration of these products, consult the team responsible for the supply and configuration of your devices.</p>
+			<p>For secure sharing and transfer of materials with other government bodies, where the use of CJSE, CJSM, Egress, or Galaxkey is not possible, the use of official <ph conref="conrefs.dita#conrefs/moj"/> email systems is approved for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
 			<p>Always follow the guidance in the <xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Handling and Information Sharing Guide</xref> when making such transfers. This applies particularly with regard to the sharing of data classified higher than <ph conref="conrefs.dita#conrefs/official"/>.</p>
+			<p>If you need clarification or further assistance in selecting the appropriate tool, <xref href="#contact-details" format="">ask for help</xref>.</p>
+		</body>
+	</topic>
+	<topic id="proctoring-software">
+		<title>Proctoring software</title>
+		<body>
+			<lq>You <ph conref="conrefs.dita#conrefs/policyshallnot"/> install proctoring software onto <ph conref="conrefs.dita#conrefs/moj"/> equipment.</lq>
+			<p>Some certification or examination organisations enable people to take assessments remotely. They do this by having 'supervision' software installed on the user's computer. This software is often referred to as 'proctoring software'. The tools make sure that the assessment is as fair as possible, by installing a variety of controls. For example, the software can take control of the camera and microphone of the device it is installed on.</p>
+			<p>The problem is that the controls give the proctoring software extensive access to the computer. This means that the tools could inspect information or other applications on the computer. In effect, the proctoring software might have uncontrolled access to <ph conref="conrefs.dita#conrefs/moj"/> information or materials on the computer. This is not acceptable.</p>
+			<p>If you need to use proctoring software, your options are:
+				<ul>
+					<li>Install the proctoring software on a personal device.</li>
+					<li>Contact the assessment organisation asking for alternative options.</li>
+				</ul>
+			</p>
 		</body>
 	</topic>
 	<topic id="nhs-track-and-trace">
@@ -356,7 +372,7 @@
 		<body>
 			<p>Some tools, such as Facebook, Instagram and LinkedIn, are approved for specific corporate accounts to use, for corporate communications messages.
 				General use of these tools for work purposes is not permitted.</p>
-			<p>If you wish to use a tool that is not listed in this guidance, please consult our <xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref> and <xref href="mailto:security@justice.gov.uk" format="email" scope="external">speak to us for help</xref>.</p>
+			<p>If you wish to use a tool that is not listed in this guidance, please consult our <xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref> and <xref href="#contact-details" format="">ask for help</xref>.</p>
 		</body>
 	</topic>
 	<topic id="thirdpartyapp" conref="conrefs.dita#thirdpartyapp"><title/></topic>
@@ -377,5 +393,6 @@
 			</body>
 		</topic>
 	</topic>
+	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
 	<topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

@@ -151,7 +151,24 @@ For secure sharing and transfer of materials with external organisations where t
 
 For use within MoJ bodies, these products may only be installed on MoJ-issued devices. For advice on installation and configuration of these products, consult the team responsible for the supply and configuration of your devices.
 
+For secure sharing and transfer of materials with other government bodies, where the use of CJSE, CJSM, Egress, or Galaxkey is not possible, the use of official MoJ email systems is approved for data up to and including `OFFICIAL-SENSITIVE`.
+
 Always follow the guidance in the [Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md) when making such transfers. This applies particularly with regard to the sharing of data classified higher than `OFFICIAL`.
+
+If you need clarification or further assistance in selecting the appropriate tool, [ask for help](#contact-details).
+
+## Proctoring software
+
+> You **SHALL NOT** install proctoring software onto MoJ equipment.
+
+Some certification or examination organisations enable people to take assessments remotely. They do this by having 'supervision' software installed on the user's computer. This software is often referred to as 'proctoring software'. The tools make sure that the assessment is as fair as possible, by installing a variety of controls. For example, the software can take control of the camera and microphone of the device it is installed on.
+
+The problem is that the controls give the proctoring software extensive access to the computer. This means that the tools could inspect information or other applications on the computer. In effect, the proctoring software might have uncontrolled access to MoJ information or materials on the computer. This is not acceptable.
+
+If you need to use proctoring software, your options are:
+
+-   Install the proctoring software on a personal device.
+-   Contact the assessment organisation asking for alternative options.
 
 ## NHS Track and Trace
 
@@ -176,7 +193,7 @@ To reduce the likelihood of false alerts on the app, turn off the app's Bluetoot
 
 Some tools, such as Facebook, Instagram and LinkedIn, are approved for specific corporate accounts to use, for corporate communications messages. General use of these tools for work purposes is not permitted.
 
-If you wish to use a tool that is not listed in this guidance, please consult our [Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md) and [speak to us for help](mailto:security@justice.gov.uk).
+If you wish to use a tool that is not listed in this guidance, please consult our [Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md) and [ask for help](#contact-details).
 
 ## Requesting that an app be approved for use
 
@@ -188,7 +205,7 @@ When you submit the form, it is passed to the security team. The app is reviewed
 
 **Note:** You should submit the request, and wait for a formal "approval" response, *before* you install or use the app on MoJ equipment or information.
 
-If you have any questions about the process, contact the security team: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+If you have any questions about the process, ask for help.
 
 ## Other information
 
@@ -203,6 +220,10 @@ If you have any questions about the process, contact the security team: [securit
 [Secure communications principles](https://www.ncsc.gov.uk/guidance/secure-communication-principles-alpha-release)
 
 [Using third-party applications](https://www.ncsc.gov.uk/collection/mobile-device-guidance/using-third-party-applications)
+
+## Contact details
+
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ## Feedback
 
