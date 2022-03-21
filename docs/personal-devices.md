@@ -41,7 +41,15 @@ Personal devices **SHALL NOT** be charged from the USB ports of an MoJ device.
 -   You **SHALL NOT** store work files or information on a personal storage device or memory stick, such as an external drive, thumb drive, or USB stick.
 -   Some teams within the MoJ **MIGHT** have permission to use personal devices for some tasks. This permission continues, but is being reviewed on an on-going basis. Ensure that you have documented approval recording your permission. Ensure that the permission is no more than 12 months old. To request or refresh permission, ask your Line Manager to seek approval by checking with the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk).
 
-**Note:** You are not asked or required to use your own devices for work purposes. If you have access to MoJ devices for work purposes, you **SHALL** use them by default.
+**Note:** You are not asked or required to use your own devices for work purposes. Statement `POLMOB009` of the [mobile device and remote working policy](mobile-device-and-remote-working-policy.md#) makes clear that you **SHOULD NOT** use personal devices for MoJ work purposes. If you have access to MoJ devices for work purposes, you **SHALL** use them by default.
+
+## Using Slack on personal devices
+
+In accordance with other policy on the use of personal devices, and the use of mobile devices specifically, you **SHALL NOT** use personal devices to access MoJ Slack workspaces.
+
+You **SHOULD NOT** use personal devices for MoJ work purposes. Slack workspaces are official MoJ workspaces and should only be accessed using MoJ devices.
+
+Personal devices are not allowed to access services or content containing `OFFICIAL-SENSITIVE` data. Work devices **SHALL** be used to access services such as Slack. If you do not have a work mobile device, and need to access services such as slack on a mobile device, you **SHOULD** request one using [Service Now](https://mojprod.service-now.com/moj_sp/?id=home).
 
 ## Virtual environment
 

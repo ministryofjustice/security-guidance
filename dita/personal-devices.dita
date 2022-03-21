@@ -50,9 +50,15 @@
             ask your Line Manager to seek approval by checking with
           the <ph conref="conrefs.dita#conrefs/ostemailtext"/>.</li>
       </ul>
-      <note>You are not asked or required to use your own devices for work purposes.
-        If you have access to <ph conref="conrefs.dita#conrefs/moj"/> devices for work purposes,
-        you <ph conref="conrefs.dita#conrefs/policyshall"/> use them by default.</note>
+      <note>You are not asked or required to use your own devices for work purposes. Statement <codeph>POLMOB009</codeph> of the <xref href="mobile-device-and-remote-working-policy.dita#use-of-private-equipment" format="dita" audience="audience-basic audience-suppliers audience-tech">mobile device and remote working policy</xref><ph audience="audience-gs">mobile device and remote working policy</ph> makes clear that you <ph conref="conrefs.dita#conrefs/policyshouldnot"/> use personal devices for <ph conref="conrefs.dita#conrefs/moj"/> work purposes. If you have access to <ph conref="conrefs.dita#conrefs/moj"/> devices for work purposes, you <ph conref="conrefs.dita#conrefs/policyshall"/> use them by default.</note>
+    </body>
+  </topic>
+  <topic id="using-slack-on-personal-devices">
+    <title>Using Slack on personal devices</title>
+    <body>
+      <p>In accordance with other policy on the use of personal devices, and the use of mobile devices specifically, you <ph conref="conrefs.dita#conrefs/policyshallnot"/> use personal devices to access <ph conref="conrefs.dita#conrefs/moj"/> Slack workspaces.</p>
+      <p>You <ph conref="conrefs.dita#conrefs/policyshouldnot"/> use personal devices for <ph conref="conrefs.dita#conrefs/moj"/> work purposes. Slack workspaces are official <ph conref="conrefs.dita#conrefs/moj"/> workspaces and should only be accessed using <ph conref="conrefs.dita#conrefs/moj"/> devices.</p>
+      <p>Personal devices are not allowed to access services or content containing <ph conref="conrefs.dita#conrefs/official-sensitive"/> data. Work devices <ph conref="conrefs.dita#conrefs/policyshall"/> be used to access services such as Slack. If you do not have a work mobile device, and need to access services such as slack on a mobile device, you <ph conref="conrefs.dita#conrefs/policyshould"/> request one using <xref href="https://mojprod.service-now.com/moj_sp/?id=home" format="html" scope="external">Service Now</xref>.</p>
     </body>
   </topic>
   <topic id="virtual-environment">
