@@ -386,8 +386,7 @@
 			<note>You should submit the request,
 				and wait for a formal "approval" response,
 				<i>before</i> you install or use the app on  <ph conref="#conrefs/moj"/> equipment or information.</note>
-			<p>If you have any questions about the process,
-				contact the security team: <ph conref="#conrefs/securityemail"/>.</p>
+			<p>If you have any questions about the process, ask for help.</p>
 		</body>
 	</topic>
 
