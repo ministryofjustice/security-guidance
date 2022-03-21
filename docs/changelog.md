@@ -2,6 +2,18 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-03-21-10:35-gmt-[add-guidance-on-sharing-information.](https:-security-guidance.service.justice.gov.uk-general-user-video-and-messaging-apps-guidance-#tools-for-sharing-information-internally-and-externally)"></a>
+
+-   **2022-03-21 10:35 GMT [Add guidance on sharing information.](https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/#tools-for-sharing-information-internally-and-externally)**
+
+    Added extra information on sharing information internally and externally.
+
+<a name="2022-03-21-10:22-gmt-[add-guidance-on-qr-codes.](https:-security-guidance.service.justice.gov.uk-phishing-guide-#qr-codes)"></a>
+
+-   **2022-03-21 10:22 GMT [Add guidance on QR codes.](https://security-guidance.service.justice.gov.uk/phishing-guide/#qr-codes)**
+
+    Added information on QR codes; currently considered low risk.
+
 <a name="2022-03-11-15:31-gmt-[updates-to-ransomware-information-leaflet.](https:-security-guidance.service.justice.gov.uk-ransomware-)"></a>
 
 -   **2022-03-11 15:31 GMT [Updates to ransomware information leaflet.](https://security-guidance.service.justice.gov.uk/ransomware/)**
