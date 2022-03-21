@@ -120,7 +120,7 @@ Due to complexities and management effort involved in running wifi solutions, th
 
 This also has the benefit of being available across HMG Departments and Agencies. GovWifi has a level of pre-registration, monitoring and filtering in place to protect the users. However, GovWifi does not provide enterprise level security functions. GovWifi users are required to maintain their own security controls. For MoJ users of GovWifi connections, this means using the MoJ-provided VPN services when accessing protected MoJ services.
 
-`POLWIFI025:` Any considerations for not using GovWifi in an MoJ guest WiFi network **SHALL** be discussed and agreed beforehand with the cyber security team.
+`POLWIFI025:` Any considerations for not using GovWifi in an MoJ guest wifi network **SHALL** be discussed and agreed beforehand with the cyber security team.
 
 `POLWIFI026:` Where GovWifi cannot be used, or where an existing guest wifi service exists,the following **SHALL** be in place:
 
