@@ -61,9 +61,9 @@ It is important to take into account the [information classification](informatio
 
 `POLLEAK006:` A leak situation might apply to the access rights for a system where data or information is located. For example, if a URL link of an `OFFICIAL` document that is located on an `OFFICIAL-SENSITIVE` system or above is sent to a user or third party, but they do not have access rights to the system to open it, it is a leak of the system but not the content.
 
-**Note:** If someone has the correct access rights to both some information, and the system hosting the information, prints a copy and gives it to a user or a third party. In that case, it is not considered a leak of the system because the access is authorised. However, the disclosure of the information to the third party might be a leak.
+**Note:** Consider the case of someone who has the correct access rights to both some information, and the system hosting the information. They then print a copy of the information and gives it to another user or a third party. In this case, it is not considered a leak of the system, because the initial access to the information was by someone who was authorised to access both the information and the system hosting the information. However, the disclosure of the information to the other user or the third party might be an information leak, depending on whether the recipients of the information were authorised to receive the information.
 
-## Draft information
+### Classifying draft information
 
 Work in progress activities, or draft information, might also be the subject of a leak.
 
@@ -79,9 +79,9 @@ For example, someone might be unsure of a draft document's security classificati
 
 Examples of harm caused by leaks include:
 
--   A leak might result in reputational damage, undermining trust and good government.
--   A leak might adversely affect UK Government policies, or relationships with other countries.
--   A leak might include market-sensitive information that is critical to the UK economy.
+-   Reputational damage, undermining trust and good government.
+-   Adverse effects on UK Government policies, or relationships with other countries.
+-   Financial problems involving market-sensitive information that is critical to the UK economy.
 
 ## Accidental leaks
 

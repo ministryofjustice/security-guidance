@@ -31,9 +31,9 @@ This process is aimed at all other staff working for, or supplying services to, 
 
     For each leak investigation, all parties agree on the scale, the scope, the expectations, and the limitations.
 
-<a name="chief-security-officer"></a>
+<a name="chief-information-security-officer-ciso"></a>
 
--   **Chief Security Officer**
+-   **Chief Information Security Officer \(CISO\)**
 
     Notifies and continues to update the MoJ Permanent Secretary regarding the incident. Obtains authorisation for a leak investigation if approved.
 
@@ -46,7 +46,7 @@ This process is aimed at all other staff working for, or supplying services to, 
     1.  Reviews the information available.
     2.  Defines the scope of the informal investigation \(internal to the MoJ\).
     3.  Provides the Cyber Security Team with the defined investigation scope, and requests an electronic investigation if required.
-    4.  Issues the leak questions to those known to have had access to the leaked information.
+    4.  Issues the leak questionnaire to those known to have had access to the leaked information.
     5.  Reviews all evidence gathered, and prepares the informal leak report.
 <a name="ia-lead-case-manager-or-requestor"></a>
 
@@ -71,37 +71,130 @@ This process is aimed at all other staff working for, or supplying services to, 
 
 ### Step 1: Identify leak
 
-A leak investigation is requested. The request might come from any of:
+1.  A leak investigation is requested. The request might come from any of:
 
--   Chief Information Security Officer \(CISO\).
--   Departmental office.
--   Executive office.
--   HMPPS.
--   Ministerial office.
--   MoJ agencies.
--   Permanent Secretary.
--   Senior Civil Servant \(SCS\).
--   Other cross-government source.
+    -   CISO.
+    -   Departmental office.
+    -   Executive office.
+    -   HMPPS.
+    -   Ministerial office.
+    -   MoJ agencies.
+    -   Permanent Secretary.
+    -   Senior Civil Servant \(SCS\).
+    -   Other cross-government source.
+2.  The request indicates that a leak investigation is required. The request is submitted to the security 'Front Door': [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
-The request indicates that a leak investigation is required. The request is submitted to the security 'Front Door': [security@justice.gov.uk](mailto:security@justice.gov.uk).
+3.  Proceed to [step 2](#step-2-is-it-a-leak).
 
-Proceed to [step 2](#step-2-is-it-a-leak).
 
 ### Step 2: Is it a leak?
 
-The security team evaluates the request.
+1.  The 'front door' security team evaluates the request.
 
-If the situation is indeed a leak, the request is sent to [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). Proceed to [Require informal leak investigation](#require-informal-leak-investigation).
+2.  If the situation is indeed a leak, the request is sent to [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). Proceed to [Require informal leak investigation](#step-21-require-informal-leak-investigation).
 
-If the situation is not a leak, or it is not clear whether the situation is a leak, the request is sent to [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk). Proceed to step 2.2.
+3.  If the situation is not a leak, or it is not clear whether the situation is a leak, the request is sent to [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk). Proceed to step 2.2.
+
 
 ### Step 2.1: Require informal leak investigation
 
-Group Security reviews the request to determine if a leak investigation is required.
+1.  Group Security reviews the request to determine if a leak investigation is required.
 
-If a leak investigation is needed, go to step 2.1.1.
+2.  If a leak investigation is needed, go to step [2.1.1](#step-211-produce-informal-investigation-report).
 
-If a leak investigation is not needed, go to step 2.1.2
+3.  If a leak investigation is not needed, the 'front door' team notifies the Requestor that a leak investigation is not required, based on the rationale provided by Group Security. The leak process ends. No further action is required.
+
+
+### Step 2.1.1: Produce informal investigation report
+
+1.  With input from the Cyber Security Team, Group Security produces an informal investigation report. The report describes the findings and recommendations.
+
+2.  The report is sent to the Requestor.
+
+3.  Proceed to step [2.1.2](#step-212-receive-investigation-report).
+
+
+### Step 2.1.2: Receive investigation report
+
+1.  The Requestor receives the informal leak report.
+
+2.  If the report is satisfactory, and no escalation is required or requested, then the process ends. No further action is required.
+
+3.  If the report is not satisfactory, or an escalation is required or requested, proceed to step [2.1.3](#step-213-escalate-leak-request).
+
+
+### Step 2.1.3: Escalate leak request
+
+1.  Group Security re-evaluates the leak request.
+
+2.  If Group Security confirm that the report is satisfactory, and no escalation is required or requested, then the process ends. Process ends. No further action is required.
+
+3.  If escalation is required, Group Security confirms this by signing off the request. Proceed to step [2.2](#step-22-information-and-sign-off-check).
+
+
+### Step 2.2: Information and sign off check
+
+1.  The OST Lead checks that the leak investigation request is complete with all required information and the required sign-off. This confirms legitimacy of the investigation.
+
+2.  If the request is incomplete or not signed off, the OST Lead connects back to the Requestor to provide this information. The process returns back to step [2.1.2](#step-212-receive-investigation-report).
+
+3.  If the request is complete and signed off, go to step [2.2.1](#step-221-create-incident).
+
+
+### Step 2.2.1: Create incident
+
+1.  The OST Lead assigns an OST Analyst to the request.
+
+2.  The OST Analyst creates a ServiceNow 'place holder' incident using the Technology Portal. In all cases, the title of the place holder **SHALL** be "An investigation carried out by OST."
+
+3.  Proceed to step [2.2.2](#step-222-collect-evidence).
+
+
+**Note:** **Do not include any case details within the ServiceNow incident.** Use the ServiceNow incident number, plus any Requester case reference numbers or descriptions, for all correspondence, case notes or tracker updates.
+
+### Step 2.2.2: Collect evidence
+
+1.  The OST Analyst starts the leak investigation, using tools appropriate to the platform, system, or location from which the data was leaked.
+
+2.  Evidence is collected, secured and validated with checksums, following forensic best practices.
+
+3.  Proceed to step [2.2.3](#step-223-process-evidence-and-produce-report).
+
+
+**Note:** The OST Analyst **SHALL** record all the steps taken for each request in OneNote. These contemporaneous notes **SHALL** include supporting data, such as photos, screenshots and images. In addition, each entry **SHALL** by supported by the Analyst's comments.
+
+### Step 2.2.3: Process evidence and produce report
+
+1.  The OST Analyst processes or analyses the data as needed, and produces a report.
+
+2.  Proceed to step [2.2.4](#step-224-close-servicenow-incident).
+
+
+### Step 2.2.4: Close ServiceNow incident
+
+1.  The OST Analyst confirms with the Requestor that the leak investigation request can be closed.
+
+2.  When confirmation is received, the OST Analyst provides the Requestor with a concluding report, outlining the findings and recommendations established during step [2.1.4](#step-212-receive-investigation-report).
+
+3.  The OST Analyst updates and closes the ServiceNow Incident.
+
+4.  Proceed to step [2.2.5](#step-225-update-tracker-and-onenote).
+
+
+### Step 2.2.5: Update Tracker and OneNote
+
+1.  The OST Analyst updates the Tracker spreadsheet in Teams, and the OneNote record.
+
+2.  The process ends.
+
+
+**Note:** Information **SHALL** be retained and recorded as set out in the MoJ information retention policy. Guidance on what to keep is [available](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/keeping-deleting-disclosing-info/).
+
+## Who to contact if a leak is suspected
+
+Contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
+
+**Note:** To log a security incidents during UK working hours, it must be reported by you using the process on the [Reporting a Security Incident](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) page of the MoJ Intranet.
 
 ## Contact details
 

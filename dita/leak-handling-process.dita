@@ -26,7 +26,7 @@
           <dd>For each leak investigation, all parties agree on the scale, the scope, the expectations, and the limitations.</dd>
         </dlentry>
         <dlentry>
-          <dt>Chief Security Officer</dt>
+          <dt><ph conref="conrefs.dita#conrefs/cisolong"/></dt>
           <dd>Notifies and continues to update the <ph conref="conrefs.dita#conrefs/moj"/> Permanent Secretary regarding the incident. Obtains authorisation for a leak investigation if approved.</dd>
         </dlentry>
         <dlentry>
@@ -36,7 +36,7 @@
               <li>Reviews the information available.</li>
               <li>Defines the scope of the informal investigation (internal to the <ph conref="conrefs.dita#conrefs/moj"/>).</li>
               <li>Provides the Cyber Security Team with the defined investigation scope, and requests an electronic investigation if required.</li>
-              <li>Issues the leak questions to those known to have had access to the leaked information.</li>
+              <li>Issues the leak questionnaire to those known to have had access to the leaked information.</li>
               <li>Reviews all evidence gathered, and prepares the informal leak report.</li>
             </ol>
           </dd>
@@ -62,51 +62,144 @@
     <topic id="step-1-identify-leak">
       <title>Step 1: Identify leak</title>
       <body>
-        <p>A leak investigation is requested. The request might come from any of:
-          <ul>
-            <li>Chief Information Security Officer (CISO).</li>
-            <li>Departmental office.</li>
-            <li>Executive office.</li>
-            <li>HMPPS.</li>
-            <li>Ministerial office.</li>
-            <li><ph conref="conrefs.dita#conrefs/moj"/> agencies.</li>
-            <li>Permanent Secretary.</li>
-            <li>Senior Civil Servant (SCS).</li>
-            <li>Other cross-government source.</li>
-          </ul>
-        </p>
-        <p>The request indicates that a leak investigation is required. The request is submitted to the security 'Front Door': <ph conref="conrefs.dita#conrefs/securityemail"/>.</p>
-        <p>Proceed to <xref href="#step-2-is-it-a-leak" format="dita">step 2</xref>.</p>
+        <ol>
+          <li><p>A leak investigation is requested. The request might come from any of:
+            <ul>
+              <li><ph conref="conrefs.dita#conrefs/ciso"/>.</li>
+              <li>Departmental office.</li>
+              <li>Executive office.</li>
+              <li>HMPPS.</li>
+              <li>Ministerial office.</li>
+              <li><ph conref="conrefs.dita#conrefs/moj"/> agencies.</li>
+              <li>Permanent Secretary.</li>
+              <li>Senior Civil Servant (SCS).</li>
+              <li>Other cross-government source.</li>
+            </ul>
+          </p></li>
+          <li><p>The request indicates that a leak investigation is required. The request is submitted to the security 'Front Door': <ph conref="conrefs.dita#conrefs/securityemail"/>.</p></li>
+          <li><p>Proceed to <xref href="#step-2-is-it-a-leak" format="dita">step 2</xref>.</p></li>
+        </ol>
       </body>
     </topic>
     <topic id="step-2-is-it-a-leak">
       <title>Step 2: Is it a leak?</title>
       <body>
-        <p>The security team evaluates the request.</p>
-        <p>If the situation is indeed a leak, the request is sent to <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>. Proceed to <xref href="#step-21-require-informal-leak-investigation" format="dita">Require informal leak investigation</xref>.</p>
-        <p>If the situation is not a leak, or it is not clear whether the situation is a leak, the request is sent to <ph conref="conrefs.dita#conrefs/ostemailtext"/>. Proceed to step 2.2.</p>
+        <ol>
+          <li><p>The 'front door' security team evaluates the request.</p></li>
+          <li><p>If the situation is indeed a leak, the request is sent to <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>. Proceed to <xref href="#step-21-require-informal-leak-investigation" format="dita">Require informal leak investigation</xref>.</p></li>
+          <li><p>If the situation is not a leak, or it is not clear whether the situation is a leak, the request is sent to <ph conref="conrefs.dita#conrefs/ostemailtext"/>. Proceed to step 2.2.</p></li>
+        </ol>
       </body>
-      <topic id="step-21-require-informal-leak-investigation">
-        <title>Step 2.1: Require informal leak investigation</title>
-        <body>
-          <p>Group Security reviews the request to determine if a leak investigation is required.</p>
-          <p>If a leak investigation is needed, go to step <xref href="#step-211-produce-informal-investigation-report" format="dita">2.1.1</xref>.</p>
-          <p>If a leak investigation is not needed, go to step <xref href="#step-212-a-leak-investigation-is-not-needed" format="dita">2.1.2</xref></p>
-        </body>
-        <topic id="step-211-produce-informal-investigation-report">
-          <title>Step 2.1.1: Produce informal investigation report</title>
-          <body>
-            <p>With input from the Cyber Security Team, Group Security produces an informal investigation report. The report describes the findings and recommendations. The report is sent to the Requestor.</p>
-          </body>
-        </topic>
-        <topic id="step-212-a-leak-investigation-is-not-needed">
-          <title>Step 2.1.2: A leak investigation is not needed</title>
-          <body>
-
-          </body>
-        </topic>
-      </topic>
     </topic>
+    <topic id="step-21-require-informal-leak-investigation">
+      <title>Step 2.1: Require informal leak investigation</title>
+      <body>
+        <ol>
+          <li><p>Group Security reviews the request to determine if a leak investigation is required.</p></li>
+          <li><p>If a leak investigation is needed, go to step <xref href="#step-211-produce-informal-investigation-report" format="dita">2.1.1</xref>.</p></li>
+          <li><p>If a leak investigation is not needed, the 'front door' team notifies the Requestor that a leak investigation is not required, based on the rationale provided by Group Security. The leak process ends. No further action is required.</p></li>
+        </ol>
+      </body>
+    </topic>
+    <topic id="step-211-produce-informal-investigation-report">
+      <title>Step 2.1.1: Produce informal investigation report</title>
+      <body>
+        <ol>
+          <li><p>With input from the Cyber Security Team, Group Security produces an informal investigation report. The report describes the findings and recommendations.</p></li>
+          <li><p>The report is sent to the Requestor.</p></li>
+          <li><p>Proceed to step <xref href="#step-212-receive-investigation-report" format="dita">2.1.2</xref>.</p></li>
+        </ol>
+      </body>
+    </topic>
+    <topic id="step-212-receive-investigation-report">
+      <title>Step 2.1.2: Receive investigation report</title>
+      <body>
+        <ol>
+          <li><p>The Requestor receives the informal leak report.</p></li>
+          <li><p>If the report is satisfactory, and no escalation is required or requested, then the process ends. No further action is required.</p></li>
+          <li><p>If the report is not satisfactory, or an escalation is required or requested, proceed to step <xref href="#step-213-escalate-leak-request" format="dita">2.1.3</xref>.</p></li>
+        </ol>
+      </body>
+    </topic>
+    <topic id="step-213-escalate-leak-request">
+      <title>Step 2.1.3: Escalate leak request</title>
+      <body>
+        <ol>
+          <li><p>Group Security re-evaluates the leak request.</p></li>
+          <li><p>If Group Security confirm that the report is satisfactory, and no escalation is required or requested, then the process ends. Process ends. No further action is required.</p></li>
+          <li><p>If escalation is required, Group Security confirms this by signing off the request. Proceed to step <xref href="#step-22-information-and-sign-off-check" format="dita">2.2</xref>.</p></li>
+        </ol>
+      </body>
+    </topic>
+    <topic id="step-22-information-and-sign-off-check">
+      <title>Step 2.2: Information and sign off check</title>
+      <body>
+        <ol>
+          <li><p>The OST Lead checks that the leak investigation request is complete with all required information and the required sign-off. This confirms legitimacy of the investigation.</p></li>
+          <li><p>If the request is incomplete or not signed off, the OST Lead connects back to the Requestor to provide this information. The process returns back to step <xref href="#step-212-receive-investigation-report" format="dita">2.1.2</xref>.</p></li>
+          <li><p>If the request is complete and signed off, go to step <xref href="#step-221-create-incident" format="dita">2.2.1</xref>.</p></li>
+        </ol>
+      </body>
+    </topic>
+    <topic id="step-221-create-incident">
+      <title>Step 2.2.1: Create incident</title>
+      <body>
+        <ol>
+          <li><p>The OST Lead assigns an OST Analyst to the request.</p></li>
+          <li><p>The OST Analyst creates a ServiceNow 'place holder' incident using the Technology Portal. In all cases, the title of the place holder <ph conref="conrefs.dita#conrefs/policyshall"/> be "An investigation carried out by OST."</p></li>
+          <li><p>Proceed to step <xref href="#step-222-collect-evidence" format="dita">2.2.2</xref>.</p></li>
+        </ol>
+        <note><b>Do not include any case details within the ServiceNow incident.</b> Use the ServiceNow incident number, plus any Requester case reference numbers or descriptions, for all correspondence, case notes or tracker updates.</note>
+      </body>
+    </topic>
+    <topic id="step-222-collect-evidence">
+      <title>Step 2.2.2: Collect evidence</title>
+      <body>
+        <ol>
+          <li><p>The OST Analyst starts the leak investigation, using tools appropriate to the platform, system, or location from which the data was leaked.</p></li>
+          <li><p>Evidence is collected, secured and validated with checksums, following forensic best practices.</p></li>
+          <li><p>Proceed to step <xref href="#step-223-process-evidence-and-produce-report" format="dita">2.2.3</xref>.</p></li>
+        </ol>
+        <note>The OST Analyst <ph conref="conrefs.dita#conrefs/policyshall"/> record all the steps taken for each request in OneNote. These contemporaneous notes <ph conref="conrefs.dita#conrefs/policyshall"/> include supporting data, such as photos, screenshots and images. In addition, each entry <ph conref="conrefs.dita#conrefs/policyshall"/> by supported by the Analyst's comments.</note>
+      </body>
+    </topic>
+    <topic id="step-223-process-evidence-and-produce-report">
+      <title>Step 2.2.3: Process evidence and produce report</title>
+      <body>
+        <ol>
+          <li><p>The OST Analyst processes or analyses the data as needed, and produces a report.</p></li>
+          <li><p>Proceed to step <xref href="#step-224-close-servicenow-incident" format="dita">2.2.4</xref>.</p></li>
+        </ol>
+      </body>
+    </topic>
+    <topic id="step-224-close-servicenow-incident">
+      <title>Step 2.2.4: Close ServiceNow incident</title>
+      <body>
+        <ol>
+          <li><p>The OST Analyst confirms with the Requestor that the leak investigation request can be closed.</p></li>
+          <li><p>When confirmation is received, the OST Analyst provides the Requestor with a concluding report, outlining the findings and recommendations established during step <xref href="#step-212-receive-investigation-report" format="dita">2.1.4</xref>.</p></li>
+          <li><p>The OST Analyst updates and closes the ServiceNow Incident.</p></li>
+          <li><p>Proceed to step <xref href="#step-225-update-tracker-and-onenote" format="dita">2.2.5</xref>.</p></li>
+        </ol>
+      </body>
+    </topic>
+    <topic id="step-225-update-tracker-and-onenote">
+      <title>Step 2.2.5: Update Tracker and OneNote</title>
+      <body>
+        <ol>
+          <li><p>The OST Analyst updates the Tracker spreadsheet in Teams, and the OneNote record.</p></li>
+          <li><p>The process ends.</p></li>
+        </ol>
+        <note>Information <ph conref="conrefs.dita#conrefs/policyshall"/> be retained and recorded as set out in the <ph conref="conrefs.dita#conrefs/moj"/> information retention policy. Guidance on what to keep is <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/keeping-deleting-disclosing-info/" format="html" scope="external">available</xref>.</note>
+      </body>
+    </topic>
+  </topic>
+  <topic id="who-to-contact-if-a-leak-is-suspected">
+    <title>Who to contact if a leak is suspected</title>
+    <body>
+      <p>Contact <ph conref="conrefs.dita#conrefs/securityemail"/>.</p>
+      <note>To log a security incidents during UK working hours, it must be reported by you using the process on the <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">Reporting a Security Incident</xref> page of the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.</note>   
+    </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
