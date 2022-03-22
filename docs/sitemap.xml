@@ -8,13 +8,59 @@
 
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/</loc>
-  <lastmod>2022-03-04T09:16:00+00:00</lastmod>
+  <lastmod>2022-03-11T15:31:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/</loc>
-  <lastmod>2022-03-04T09:16:00+00:00</lastmod>
+  <lastmod>2022-03-11T15:31:00+00:00</lastmod>
   <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/moj-guidance.pdf</loc>
+  <lastmod>2022-03-11T15:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-gs.pdf</loc>
+  <lastmod>2022-03-11T15:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-tech.pdf</loc>
+  <lastmod>2022-03-11T15:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/culture/ransomware-information-leaflet.pdf</loc>
+  <lastmod>2022-01-25T13:27:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/using-lastpass/</loc>
+  <lastmod>2022-03-10T17:01:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/incident-management-plan-and-process-guide/</loc>
+  <lastmod>2022-03-10T13:09:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/patch-management-guide/</loc>
+  <lastmod>2022-03-10T13:09:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/technical-security-controls-guide/</loc>
+  <lastmod>2022-03-10T13:09:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/vulnerability-scanning-and-patch-management-guide/</loc>
+  <lastmod>2022-03-10T13:09:00+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/email-security-guide/</loc>
@@ -47,22 +93,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/moj-guidance.pdf</loc>
-  <lastmod>2022-02-01T11:51:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-gs.pdf</loc>
-  <lastmod>2022-02-01T11:51:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-tech.pdf</loc>
-  <lastmod>2022-02-01T11:51:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/passwords/</loc>
   <lastmod>2022-02-01T11:51:00+00:00</lastmod>
   <priority>0.80</priority>
@@ -70,11 +100,6 @@
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/ransomware/</loc>
   <lastmod>2022-01-25T10:37:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/culture/ransomware-information-leaflet.pdf</loc>
-  <lastmod>2022-01-25T13:27:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -458,11 +483,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/using-lastpass/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/automated-certificate-renewal/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
@@ -668,22 +688,12 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/patch-management-guide/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/vulnerability-disclosure-policy/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/implement-security-txt/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/vulnerability-scanning-and-patch-management-guide/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -788,11 +798,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/technical-security-controls-guide/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/technical-security-controls-guide-defensive-layer-1/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
@@ -864,11 +869,6 @@
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/forensic-readiness-policy/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/incident-management-plan-and-process-guide/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
