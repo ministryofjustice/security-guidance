@@ -2,18 +2,21 @@
 
 ## Audience
 
-1.  This policy compliments the MoJ overall security policy.
+1.  This policy complements the MoJ overall security policy.
 
-2.  This Filming and Photography Policy applies to all employees, contractors, partners and service providers, including those on co-located sites and sites owned by other public bodies. This will also include employees of other organisations who are based in, or work at, MoJ occupied premises.
+2.  This Filming and Photography Policy applies to all employees, contractors, partners and service providers, including those on co-located sites and sites owned by other public bodies. This also includes employees of other organisations who are based in, or work at, MoJ occupied premises.
 
-3.  Agencies and arm's length bodies \(ALBs\) are expected to comply with this corporate framework but may establish their own arrangements tailored to operational needs and should supplement it with local policy or guidance for any business-specific risk.
+3.  Agencies and arm's length bodies \(ALBs\) are expected to comply with this corporate framework, but may establish their own arrangements to fit operational needs, and should supplement this material with local policy or guidance for any business-specific risk.
 
 
 ## Objective
 
-1.  This document sets out the policy on filming and photography on MoJ premises, who is permitted to film or take photographs within the MoJ, and the circumstances under which this activity is permitted.
+1.  This document describes:
 
-2.  This policy outlines the requirements that must be followed by staff considering this activity or requests from external companies to film in or near MoJ premises. Before a request from an external company can be considered, they are required to provide all of:
+    -   The policy on filming and photography on MoJ premises.
+    -   Who is permitted to film or take photographs within the MoJ.
+    -   The circumstances under which filming or photography activity is permitted.
+2.  The policy outlines the requirements that **SHALL** be followed by staff considering this activity, or handling requests from external parties to film or photograph in or near MoJ premises. Before a request from an external party can be considered, the corresponding MoJ sponsor is required to provide all of:
 
     -   An application in writing.
 
@@ -21,19 +24,19 @@
 
     -   Approval from Press Office from a reputation perspective.
 
-3.  These requirements are designed to protect MoJ staff, the estate and sensitive government assets from unauthorised access, harm or attack.
+3.  These requirements are designed to protect MoJ staff, and the estate and sensitive government assets from unauthorised access, harm or attack.
 
 
 ## Scope and Definition
 
-1.  This policy outlines the basis for the authorisation of filming and photography on any MoJ premises. The policy does not cover members of the public or media photographing or filming staff outside of MoJ buildings. This policy also extends to any visitors accessing the site and all Government Departments residing within the MoJ estate.
+1.  This policy outlines the basis for the authorisation of filming and photography on any MoJ premises. The policy does not cover members of the public or media photographing or filming staff outside of MoJ buildings. This policy also extends to any visitors accessing the site, and all Government Departments residing within the MoJ estate.
 
 2.  Where employees, contractors and third-party staff are hosting visitors to MoJ sites, it is their responsibility to ensure visitors comply with this policy.
 
 
 ## Context
 
-1.  The MoJ Filming and Photography Policy aligns to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), which states that appropriate physical security measures will ensure a safe and secure working environment for staff that can protect against a wide range of threats \(including theft, terrorism or espionage\). Specifically, government organisations must have mechanisms to implement internal and external security controls in a layered fashion that detect or prevent unauthorised access and protect assets, especially those that are critical or sensitive, against forcible or surreptitious attack.
+1.  This MoJ Filming and Photography Policy aligns to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), which states that appropriate physical security measures will be in place to ensure a safe and secure working environment for staff that can protect against a wide range of threats \(including theft, terrorism or espionage\). Specifically, government organisations must have mechanisms to implement internal and external security controls in a layered fashion that detect or prevent unauthorised access, and protect assets, especially those that are critical or sensitive, against forcible or surreptitious attack.
 
 2.  To achieve this outcome, the MoJ **SHALL** put in place arrangements to restrict photography and filming on MoJ premises.
 
@@ -62,7 +65,7 @@ All employees, contractors, partners, service providers and employees of other o
 
         -   CCTV camera positions.
 
-        -   Security guard patrols routes.
+        -   Security guard patrol routes.
 
         -   Door access controls.
 

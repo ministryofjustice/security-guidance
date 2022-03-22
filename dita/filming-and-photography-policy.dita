@@ -9,13 +9,13 @@
     <body>
       <ol>
         <li>
-          <p>This policy compliments the <ph conref="conrefs.dita#conrefs/moj"/> overall security policy.</p>
+          <p>This policy complements the <ph conref="conrefs.dita#conrefs/moj"/> overall security policy.</p>
         </li>
         <li>
-          <p>This Filming and Photography Policy applies to all employees, contractors, partners and service providers, including those on co-located sites and sites owned by other public bodies. This will also include employees of other organisations who are based in, or work at, <ph conref="conrefs.dita#conrefs/moj"/> occupied premises.</p>
+          <p>This Filming and Photography Policy applies to all employees, contractors, partners and service providers, including those on co-located sites and sites owned by other public bodies. This also includes employees of other organisations who are based in, or work at, <ph conref="conrefs.dita#conrefs/moj"/> occupied premises.</p>
         </li>
         <li>
-          <p>Agencies and arm's length bodies (ALBs) are expected to comply with this corporate framework but may establish their own arrangements tailored to operational needs and should supplement it with local policy or guidance for any business-specific risk.</p>
+          <p>Agencies and arm's length bodies (ALBs) are expected to comply with this corporate framework, but may establish their own arrangements to fit operational needs, and should supplement this material with local policy or guidance for any business-specific risk.</p>
         </li>
       </ol>
     </body>
@@ -25,10 +25,16 @@
     <body>
       <ol>
         <li>
-          <p>This document sets out the policy on filming and photography on <ph conref="conrefs.dita#conrefs/moj"/> premises, who is permitted to film or take photographs within the <ph conref="conrefs.dita#conrefs/moj"/>, and the circumstances under which this activity is permitted.</p>
+          <p>This document describes:
+            <ul>
+              <li>The policy on filming and photography on <ph conref="conrefs.dita#conrefs/moj"/> premises.</li>
+              <li>Who is permitted to film or take photographs within the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+              <li>The circumstances under which filming or photography activity is permitted.</li>
+            </ul>
+          </p>
         </li>
         <li>
-          <p>This policy outlines the requirements that must be followed by staff considering this activity or requests from external companies to film in or near <ph conref="conrefs.dita#conrefs/moj"/> premises. Before a request from an external company can be considered, they are required to provide all of:</p>
+          <p>The policy outlines the requirements that <ph conref="conrefs.dita#conrefs/policyshall"/> be followed by staff considering this activity, or handling requests from external parties to film or photograph in or near <ph conref="conrefs.dita#conrefs/moj"/> premises. Before a request from an external party can be considered, the corresponding <ph conref="conrefs.dita#conrefs/moj"/> sponsor is required to provide all of:</p>
           <ul>
             <li>
               <p>An application in writing.</p>
@@ -42,7 +48,7 @@
           </ul>
         </li>
         <li>
-          <p>These requirements are designed to protect <ph conref="conrefs.dita#conrefs/moj"/> staff, the estate and sensitive government assets from unauthorised access, harm or attack.</p>
+          <p>These requirements are designed to protect <ph conref="conrefs.dita#conrefs/moj"/> staff, and the estate and sensitive government assets from unauthorised access, harm or attack.</p>
         </li>
       </ol>
     </body>
@@ -52,7 +58,7 @@
     <body>
       <ol>
         <li>
-          <p>This policy outlines the basis for the authorisation of filming and photography on any <ph conref="conrefs.dita#conrefs/moj"/> premises. The policy does not cover members of the public or media photographing or filming staff outside of <ph conref="conrefs.dita#conrefs/moj"/> buildings. This policy also extends to any visitors accessing the site and all Government Departments residing within the <ph conref="conrefs.dita#conrefs/moj"/> estate.</p>
+          <p>This policy outlines the basis for the authorisation of filming and photography on any <ph conref="conrefs.dita#conrefs/moj"/> premises. The policy does not cover members of the public or media photographing or filming staff outside of <ph conref="conrefs.dita#conrefs/moj"/> buildings. This policy also extends to any visitors accessing the site, and all Government Departments residing within the <ph conref="conrefs.dita#conrefs/moj"/> estate.</p>
         </li>
         <li>
           <p>Where employees, contractors and third-party staff are hosting visitors to <ph conref="conrefs.dita#conrefs/moj"/> sites, it is their responsibility to ensure visitors comply with this policy.</p>
@@ -65,7 +71,7 @@
     <body>
       <ol>
         <li>
-          <p>The <ph conref="conrefs.dita#conrefs/moj"/> Filming and Photography Policy aligns to the <ph conref="conrefs.dita#conrefs/gov007"/>, which states that appropriate physical security measures will ensure a safe and secure working environment for staff that can protect against a wide range of threats (including theft, terrorism or espionage). Specifically, government organisations must have mechanisms to implement internal and external security controls in a layered fashion that detect or prevent unauthorised access and protect assets, especially those that are critical or sensitive, against forcible or surreptitious attack.</p>
+          <p>This <ph conref="conrefs.dita#conrefs/moj"/> Filming and Photography Policy aligns to the <ph conref="conrefs.dita#conrefs/gov007"/>, which states that appropriate physical security measures will be in place to ensure a safe and secure working environment for staff that can protect against a wide range of threats (including theft, terrorism or espionage). Specifically, government organisations must have mechanisms to implement internal and external security controls in a layered fashion that detect or prevent unauthorised access, and protect assets, especially those that are critical or sensitive, against forcible or surreptitious attack.</p>
         </li>
         <li>
           <p>To achieve this outcome, the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> put in place arrangements to restrict photography and filming on <ph conref="conrefs.dita#conrefs/moj"/> premises.</p>
@@ -113,7 +119,7 @@
                       <p>CCTV camera positions.</p>
                     </li>
                     <li>
-                      <p>Security guard patrols routes.</p>
+                      <p>Security guard patrol routes.</p>
                     </li>
                     <li>
                       <p>Door access controls.</p>
@@ -169,9 +175,7 @@
             <p>There will be circumstances when there is a business need for filming or photography to take place on <ph conref="conrefs.dita#conrefs/moj"/> premises. In such cases:</p>
             <ul>
               <li>
-                <p>A <xref href="file:///./gs/business-requirement-form-filming-and-photography.docx"
-                  format="docx" scope="external" platform="html">business requirement form</xref><xref href="https://security-guidance.service.justice.gov.uk/gs/business-requirement-form-filming-and-photography.docx"
-                    format="docx" platform="epub pdf" scope="external">business requirement form</xref> for filming and photography <ph conref="conrefs.dita#conrefs/policyshall"/> be completed and sent to <ph conref="conrefs.dita#conrefs/groupsecurityemail"/>.</p>
+                <p>A <xref href="file:///./gs/business-requirement-form-filming-and-photography.docx" format="docx" scope="external" platform="html">business requirement form</xref><xref href="https://security-guidance.service.justice.gov.uk/gs/business-requirement-form-filming-and-photography.docx" format="docx" platform="epub pdf" scope="external">business requirement form</xref> for filming and photography <ph conref="conrefs.dita#conrefs/policyshall"/> be completed and sent to <ph conref="conrefs.dita#conrefs/groupsecurityemail"/>.</p>
               </li>
               <li>
                 <p><ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/> <ph conref="conrefs.dita#conrefs/policyshall"/> assess the request on a case-by-case basis before deciding whether to grant permission or not.</p>
@@ -209,7 +213,7 @@
                 <p><ph conref="conrefs.dita#conrefs/moj"/> sponsors or requesters, who have received permission for filming or photography to take place, <ph conref="conrefs.dita#conrefs/policyshall"/> ensure adherence to this policy.</p>
               </li>
               <li>
-                <p><ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/> <ph conref="conrefs.dita#conrefs/policymay"/> oversee photography and filming   activities, and retain the right to cancel the filming or photography at any stage where security risks are identified.</p>
+                <p><ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/> <ph conref="conrefs.dita#conrefs/policymay"/> oversee photography and filming activities, and retain the right to cancel the filming or photography at any stage where security risks are identified.</p>
               </li>
               <li>
                 <p><ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/> <ph conref="conrefs.dita#conrefs/policymay"/> request sight of footage or photography at any stage where security risks are identified.</p>
@@ -246,10 +250,10 @@
             <p>Unmanned Aerial Vehicles (UAV), commonly referred to as 'drones', are aircraft that operate without a pilot on-board.</p>
           </li>
           <li>
-            <p>The availability of UAVs is developing and, in some cases, represent security risks. This is because they can facilitate a wide range of hostile   activity, including the unauthorised capturing of images and video footage.</p>
+            <p>The availability of UAVs is developing and, in some cases, represent security risks. This is because they can facilitate a wide range of hostile activity, including the unauthorised capturing of images and video footage.</p>
           </li>
           <li>
-            <p>The use of UAVs <ph conref="conrefs.dita#conrefs/policyshallnot"/> be permitted on, in, or around <ph conref="conrefs.dita#conrefs/moj"/> premises, unless express and explicit permission is granted. Any sightings of UAVs on, in, or around <ph conref="conrefs.dita#conrefs/moj"/>   premises <ph conref="conrefs.dita#conrefs/policyshall"/> be reported immediately to Security Guarding Services. For further information, refer to the <ph conref="conrefs.dita#conrefs/moj"/> Unmanned Aerial Systems Policy.</p>
+            <p>The use of UAVs <ph conref="conrefs.dita#conrefs/policyshallnot"/> be permitted on, in, or around <ph conref="conrefs.dita#conrefs/moj"/> premises, unless express and explicit permission is granted. Any sightings of UAVs on, in, or around <ph conref="conrefs.dita#conrefs/moj"/> premises <ph conref="conrefs.dita#conrefs/policyshall"/> be reported immediately to Security Guarding Services. For further information, refer to the <ph conref="conrefs.dita#conrefs/moj"/> Unmanned Aerial Systems Policy.</p>
           </li>
         </ol>
         </body>
