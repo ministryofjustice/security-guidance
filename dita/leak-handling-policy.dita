@@ -10,7 +10,7 @@
   <topic id="audience">
     <title>Audience</title>
     <body>
-      <p>This policy is aimed at all other staff working for, or supplying services to, the <ph conref="conrefs.dita#conrefs/moj"/>. This includes General users, Technical users, contractors, third parties, and Service Providers.</p>
+      <p>This policy is aimed at all other staff working for or supplying services to the <ph conref="conrefs.dita#conrefs/moj"/>. This includes General users, Technical users, contractors, third parties, and Service Providers.</p>
     </body>
   </topic>
   <topic id="purpose">
@@ -23,14 +23,14 @@
   <topic id="applicability">
     <title>Applicability</title>
     <body>
-      <p>This policy applies to all <ph conref="conrefs.dita#conrefs/moj"/> owned or managed services or information, provided or used for any business purpose.</p>
+      <p>This policy applies to all <ph conref="conrefs.dita#conrefs/moj"/> owned or managed services or information provided or used for any business purpose.</p>
     </body>
   </topic>
   <topic id="enforcement">
     <title>Enforcement</title>
     <body>
-      <p>This policy is enforced by lower level policies, standards, procedures, and guidance.</p>
-      <p>Non-conformance with this policy could result in disciplinary action taken in accordance with the <ph conref="conrefs.dita#conrefs/moj"/>'s disciplinary procedures. This could result in penalties up to and including dismissal. If an employee commits a criminal offence, they might also be prosecuted. In such cases, the department always cooperates with the relevant authorities, and provides appropriate evidence.</p>
+      <p>This policy is enforced by lower-level policies, standards, procedures, and guidance.</p>
+      <p>Non-conformance with this policy could result in disciplinary action taken in accordance with the <ph conref="conrefs.dita#conrefs/moj"/>'s disciplinary procedures. This could result in penalties up to and including dismissal. If an employee commits a criminal offence, they might also be prosecuted. In such cases, the department always cooperates with the relevant authorities and provides appropriate evidence.</p>
     </body>
   </topic>
   <topic id="definition">
@@ -39,7 +39,7 @@
       <p>A leak is an unauthorised disclosure of information into the public domain by an official.</p>
       <p>A useful test is to consider whether the person or system receiving the information is authorised to do so. Do they have a "need to know for business purposes"? If there is no authorisation or need to know, then the disclosure is probably a leak.</p>
       <p>A leak often takes place, but not always, with the intention of furthering the private interests of the person leaking the information, or of others. Such leaks are considered to be malicious.</p>
-      <p>Leaks can also be accidental or unintentional, for example as a result of security vulnerabilities, or someone leaving a document uncollected in a printer.</p>
+      <p>Leaks can also be accidental or unintentional, for example, as a result of security vulnerabilities or someone leaving a document uncollected in a printer.</p>
       <p>A leak is different to a data breach, although there are some similarities. The distinction is that in a data breach, specific data is sought to answer a malicious objective. An attack is planned and targeted at obtaining the corresponding data. Specific tools or techniques are deployed and used to gain access to the data. These tools or techniques can be detected by security tooling and processes.</p>
       <p>By contrast, a leak is less controlled or targeted. It typically takes place using existing business tools or processes, making it harder to detect.</p>
     </body>
@@ -50,25 +50,25 @@
       <p>The amount of data or information being leaked can vary, from entire documents or reports, down to single sentences or diagrams.</p>
       <p><codeph>POLLEAK002:</codeph> This policy <ph conref="conrefs.dita#conrefs/policyshall"/> apply to all leaks, regardless of the quantity of data or information involved.</p>
       <p>It is important to take into account the <xref href="information-classification-handling-and-security-guide.dita" format="dita">information classification</xref> of the data, information, service or system.</p>
-      <p><codeph>POLLEAK003:</codeph> A leak situation cannot apply to any data or information containing only <ph conref="conrefs.dita#conrefs/official"/> material that does not have a handling caveat such as <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
-      <p><codeph>POLLEAK004:</codeph> A leak situation can apply to any data or information containing <ph conref="conrefs.dita#conrefs/official"/> material that does have a handling caveat such as <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
-      <p><codeph>POLLEAK005:</codeph> A leak situation can apply to any data or information containing <ph conref="conrefs.dita#conrefs/secret"/> or <ph conref="conrefs.dita#conrefs/topsecret"/> material.</p>
-      <p><codeph>POLLEAK006:</codeph> A leak situation might apply to the access rights for a system where data or information is located. For example, if a URL link of an <ph conref="conrefs.dita#conrefs/official"/> document that is located on an <ph conref="conrefs.dita#conrefs/official-sensitive"/> system or above is sent to a user or third party, but they do not have access rights to the system to open it, it is a leak of the system but not the content.</p>
-      <note>Consider the case of someone who has the correct access rights to both some information, and the system hosting the information. They then print a copy of the information and gives it to another user or a third party. In this case, it is not considered a leak of the system, because the initial access to the information was by someone who was authorised to access both the information and the system hosting the information. However, the disclosure of the information to the other user or the third party might be an information leak, depending on whether the recipients of the information were authorised to receive the information.</note>
+      <p><codeph>POLLEAK003:</codeph> A leak situation <ph conref="conrefs.dita#conrefs/policycannot"/> apply to any data or information containing only <ph conref="conrefs.dita#conrefs/official"/> material that does not have a handling caveat such as <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
+      <p><codeph>POLLEAK004:</codeph> A leak situation <ph conref="conrefs.dita#conrefs/policycan"/> apply to any data or information containing <ph conref="conrefs.dita#conrefs/official"/> material that does have a handling caveat such as <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
+      <p><codeph>POLLEAK005:</codeph> A leak situation <ph conref="conrefs.dita#conrefs/policycan"/> apply to any data or information containing <ph conref="conrefs.dita#conrefs/secret"/> or <ph conref="conrefs.dita#conrefs/topsecret"/> material.</p>
+      <p><codeph>POLLEAK006:</codeph> A leak situation <ph conref="conrefs.dita#conrefs/policymight"/> apply to the access rights for a system where data or information is located. For example, if a URL link of an <ph conref="conrefs.dita#conrefs/official"/> document that is located on an <ph conref="conrefs.dita#conrefs/official-sensitive"/> system or above is sent to a user or third party, but they do not have access rights to the system to open it, it is a leak of the system but not the content.</p>
+      <note>Consider the case of someone who has the correct access rights to both some information and the system hosting the information. They then print a copy of the information and gives it to another user or a third party. In this case, it is not considered a leak of the system because the initial access to the information was by someone who was authorised to access both the information and the system hosting the information. However, the disclosure of the information to the other user or the third party might be an information leak, depending on whether the recipients of the information were authorised to receive the information.</note>
     </body>
     <topic id="classifying-draft-information">
       <title>Classifying draft information</title>
       <body>
         <p>Work in progress activities, or draft information, might also be the subject of a leak.</p>
         <p><codeph>POLLEAK007:</codeph> Draft content <ph conref="conrefs.dita#conrefs/policyshall"/> be labelled correctly to confirm the security classification or the security handling requirements that apply to it.</p>
-        <p>For example, someone might be unsure of a draft document's security classification. It might be prudent to classify the draft as <ph conref="conrefs.dita#conrefs/official-sensitive"/> or higher, until the document is approved and a final classification determined.</p>
+        <p>For example, someone might be unsure of a draft document's security classification. It might be prudent to classify the draft as <ph conref="conrefs.dita#conrefs/official-sensitive"/> or higher until the document is approved and a final classification determined.</p>
       </body>
     </topic>
   </topic>
   <topic id="other-applicable-policy">
     <title>Other applicable policy</title>
     <body>
-      <p><codeph>POLLEAK008:</codeph> To minimise the possibility of a leak occurring, all users <ph conref="conrefs.dita#conrefs/policyshall"/> comply with <ph conref="conrefs.dita#conrefs/moj"/> policy, in particular the <xref href="acceptable-use-policy.dita" format="dita">acceptable use policy</xref>, user access management as part of the <ph audience="audience-suppliers audience-tech"><xref href="access-control-policy.dita" format="dita">access control policy</xref></ph><ph audience="audience-basic"><xref href="https://security-guidance.service.justice.gov.uk/access-control-policy/" format="html" scope="external">access control policy</xref></ph>,
+      <p><codeph>POLLEAK008:</codeph> To minimise the possibility of a leak occurring, all users <ph conref="conrefs.dita#conrefs/policyshall"/> comply with <ph conref="conrefs.dita#conrefs/moj"/> policy, in particular, the <xref href="acceptable-use-policy.dita" format="dita">acceptable use policy</xref>, user access management as part of the <ph audience="audience-suppliers audience-tech"><xref href="access-control-policy.dita" format="dita">access control policy</xref></ph><ph audience="audience-basic"><xref href="https://security-guidance.service.justice.gov.uk/access-control-policy/" format="html" scope="external">access control policy</xref></ph>,
         and the <xref href="information-classification-handling-and-security-guide.dita" format="dita">information classification, handling and security guide</xref>.</p>
     </body>
   </topic>
@@ -88,7 +88,7 @@
     <title>Accidental leaks</title>
     <body>
       <p>A lack of due diligence in an environment <ph conref="conrefs.dita#conrefs/policymight"/> lead to sensitive <ph conref="conrefs.dita#conrefs/moj"/> information being Overseen, Overheard, or Overshared.</p>
-      <p>An example would be publication of sensitive information to an unintended audience, by clicking "reply all" on an email, or having the "email auto forward" capability active on your account.</p>
+      <p>An example would be the publication of sensitive information to an unintended audience by clicking "reply all" on an email, or having the "email auto-forward" capability active on your account.</p>
     </body>
   </topic>
   <topic id="malicious-leaks">
@@ -97,8 +97,8 @@
       <p>Malicious leaks are intentional. They are planned. They are deliberate. They will often bypass controls and mechanisms intended to prevent accidental leaks.</p>
       <p>Examples of malicious leaks would include:
         <ul>
-          <li>Someone within the <ph conref="conrefs.dita#conrefs/moj"/> sharing confidential <ph conref="conrefs.dita#conrefs/moj"/> information through the web, using email, or using mobile data storage devices such as optical media, USB keys, and laptops.</li>
-          <li>Deliberately sending confidential information to any unauthorised audience, by knowingly including that audience in an email reply, or setting up the "email auto forward" capability on your account to include that audience.</li>
+          <li>Someone within the <ph conref="conrefs.dita#conrefs/moj"/> shares confidential <ph conref="conrefs.dita#conrefs/moj"/> information through the web, using email, or using mobile data storage devices such as optical media, USB keys, and laptops.</li>
+          <li>Deliberately sending confidential information to any unauthorised audience, by knowingly including that audience in an email reply, or setting up the "email auto-forward" capability on your account to include that audience.</li>
         </ul>
       </p>
     </body>
