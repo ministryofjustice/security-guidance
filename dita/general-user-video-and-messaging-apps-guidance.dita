@@ -308,6 +308,12 @@
 			</table>
 		</body>
 	</topic>
+	<topic id="password-managers">
+		<title>Password managers</title>
+		<body>
+			<p><ph conref="conrefs.dita#conrefs/moj"/> <xref href="password-managers.dita" format="dita">guidance</xref> encourages the use of password managers where possible. To establish what options are available for an <ph conref="conrefs.dita#conrefs/moj"/>-issued device, check the official <ph conref="conrefs.dita#conrefs/moj"/> software and application installation tool provided with the device, to see whether it includes a facility to install optional software and whether a password manager is among the options.</p>
+		</body>
+	</topic>
 	<topic id="nhs-track-and-trace">
 		<title>NHS Track and Trace</title>
 		<body>
