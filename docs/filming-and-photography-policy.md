@@ -16,13 +16,7 @@
     -   The policy on filming and photography on MoJ premises.
     -   Who is permitted to film or take photographs within the MoJ.
     -   The circumstances under which filming or photography activity is permitted.
-2.  The policy outlines the requirements that **SHALL** be followed by staff considering this activity, or handling requests from external parties to film or photograph in or near MoJ premises. Before a request from an external party can be considered, the corresponding MoJ sponsor is required to provide all of:
-
-    -   An application in writing.
-
-    -   Approval from security perspective.
-
-    -   Approval from Press Office from a reputation perspective.
+2.  The policy outlines the requirements that **SHALL** be followed by staff considering this activity, or handling requests from external parties to film or photograph in or near MoJ premises. Before a request from an external party can be considered, the corresponding MoJ sponsor is required to provide an application in writing that **SHALL** be approved by both [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk) and Press Office. The latter provides a reputational perspective on the request.
 
 3.  These requirements are designed to protect MoJ staff, and the estate and sensitive government assets from unauthorised access, harm or attack.
 
