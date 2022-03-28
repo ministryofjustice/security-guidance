@@ -10,7 +10,7 @@
       <li>A <xref href="#quick-checklist" format="html">quick checklist</xref> to help you decide if you can use an OIT.</li>
       <li>Reasons why you <xref href="#why-oits-are-an-opportunity" format="html">might</xref>, or <xref href="#why-oits-are-a-risk" format="html">might not</xref>, want to use an OIT.</li>
       <li>Things you <xref href="#using-oits" format="html">must think about</xref> when using an OIT, such as <xref href="#privacy-and-personal-information" format="html">data protection</xref>.</li>
-      <li>Information on <xref href="#getting-help" format="html">who to contact</xref> if you would like help or advice.</li>
+      <li>Information on <xref href="#contact-details" format="html">who to contact</xref> if you would like help or advice.</li>
     </ul>
     <note>To access some of the links in this guide you'll need to be connected to the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.</note>
     </p>
@@ -161,7 +161,7 @@
     </body>
   </topic>
 	<topic id="thirdpartyapp" conref="conrefs.dita#thirdpartyapp"><title/></topic>
-  <topic id="getting-help">
+  <topic id="contact-details">
     <title>Getting help</title>
     <body>
       <p>For further help about aspects of using OITs within the <ph conref="conrefs.dita#conrefs/moj"/>, contact:</p>

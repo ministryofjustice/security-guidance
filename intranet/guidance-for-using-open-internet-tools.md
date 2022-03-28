@@ -144,7 +144,7 @@ When you submit the form, it is passed to the security team. The app is reviewed
 
 **Note:** You should submit the request, and wait for a formal "approval" response, *before* you install or use the app on MoJ equipment or information.
 
-If you have any questions about the process, contact the security team: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+If you have any questions about the process, ask for help.
 
 ##Getting help
 
