@@ -8,30 +8,40 @@
 
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/</loc>
-  <lastmod>2022-03-11T15:31:00+00:00</lastmod>
+  <lastmod>2022-03-21T10:35:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/</loc>
-  <lastmod>2022-03-11T15:31:00+00:00</lastmod>
+  <lastmod>2022-03-21T10:35:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance.pdf</loc>
-  <lastmod>2022-03-11T15:31:00+00:00</lastmod>
+  <lastmod>2022-03-21T10:35:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-gs.pdf</loc>
-  <lastmod>2022-03-11T15:31:00+00:00</lastmod>
+  <lastmod>2022-03-21T10:35:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-tech.pdf</loc>
-  <lastmod>2022-03-11T15:31:00+00:00</lastmod>
+  <lastmod>2022-03-21T10:35:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/</loc>
+  <lastmod>2022-03-21T10:35:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/phishing-guide/</loc>
+  <lastmod>2022-03-21T10:22:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/culture/ransomware-information-leaflet.pdf</loc>
   <lastmod>2022-01-25T13:27:00+00:00</lastmod>
@@ -65,11 +75,6 @@
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/email-security-guide/</loc>
   <lastmod>2022-03-04T09:16:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/phishing-guide/</loc>
-  <lastmod>2022-02-18T18:35:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -125,11 +130,6 @@
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/ost/ithc/</loc>
   <lastmod>2022-01-04T16:27:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/</loc>
-  <lastmod>2022-01-04T16:10:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
