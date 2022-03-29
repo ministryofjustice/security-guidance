@@ -11,6 +11,7 @@
       <p>This Filming and Photography Policy applies to all employees, contractors, partners and service providers, including those on co-located sites and sites owned by other public bodies. This also includes employees of other organisations who are based in, or work at, <ph conref="conrefs.dita#conrefs/moj"/> occupied premises.</p>
       <p>Agencies and arm's length bodies (ALBs) are expected to comply with this corporate framework, but may establish their own arrangements to fit operational needs, and should supplement this material with local policy or guidance for any business-specific risk.</p>
       <p>To help identify formal policy statements, each is prefixed with an identifier of the form: <codeph>POLFLMxxx</codeph>, where <codeph>xxx</codeph> is a unique ID number.</p>
+      <note>While this policy explicitly discusses filming and photography activities, the principles in this policy apply to all media types, for example audio recordings</note>
     </body>
   </topic>
   <topic id="objective" >
@@ -57,10 +58,10 @@
       <topic id="corporate-devices">
         <title>Corporate devices</title>
         <body>
-          <p>Corporate issued devices, including smartphones, tablets and laptops or other camera and video enabled equipment:</p>
+          <p>'Corporate devices' includes all corporate issued devices, including smartphones, tablets and laptops or other camera and video enabled equipment.</p>
           <ul>
             <li>
-              <p><codeph>POLFLM004:</codeph> <ph conref="conrefs.dita#conrefs/policymay"/> be used for capturing photographs or video footage for legitimate business purposes only. Examples include:</p>
+              <p><codeph>POLFLM004:</codeph> Corporate devices <ph conref="conrefs.dita#conrefs/policymay"/> be used for capturing photographs or video footage for legitimate business purposes only. Examples include:</p>
               <ul>
                 <li>
                   <p>Photographs for immigration applications.</p>
@@ -74,7 +75,7 @@
               </ul>
             </li>
             <li>
-              <p><codeph>POLFLM005:</codeph> <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used to take photographs or video footage of building security features. Examples include:</p>
+              <p><codeph>POLFLM005:</codeph> Corporate devices <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used to take photographs or video footage of building security features. Examples include:</p>
               <ul>
                 <li>
                   <p>CCTV camera positions.</p>
@@ -88,7 +89,7 @@
               </ul>
             </li>
             <li>
-              <p><codeph>POLFLM006:</codeph> <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used for taking photographs or footage that identifies internal structures of <ph conref="conrefs.dita#conrefs/moj"/> sites. This includes:</p>
+              <p><codeph>POLFLM006:</codeph> Corporate devices <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used for taking photographs or footage that identifies internal structures of <ph conref="conrefs.dita#conrefs/moj"/> sites. This includes:</p>
               <ul>
                 <li>
                   <p>Building entrance or exit controls.</p>
@@ -102,10 +103,10 @@
               </ul>
             </li>
             <li>
-              <p><codeph>POLFLM007:</codeph> <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used for taking photographs or video footage of other employees without their express permission.</p>
+              <p><codeph>POLFLM007:</codeph> Corporate devices <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used for taking photographs or video footage of other employees without their express permission.</p>
             </li>
             <li>
-              <p><codeph>POLFLM008:</codeph> <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used to take photographs or video footage of members of the public, visitors, or attendees at events unless prior notification has been provided.</p>
+              <p><codeph>POLFLM008:</codeph> Corporate devices <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used to take photographs or video footage of members of the public, visitors, or attendees at events unless prior notification has been provided.</p>
             </li>
           </ul>
         </body>
@@ -196,12 +197,19 @@
       <p>The implementation of all security measures must be able to provide evidence that the selection was been made in accordance with the appropriate information security standards ISO27001/27002, Physical Security advice taken from the <ph conref="conrefs.dita#conrefs/cpnilong"/> and <ph conref="conrefs.dita#conrefs/gov007"/>.</p>
       <p>The constantly changing security landscape has necessarily dictated that Physical Security measures be constantly re-evaluated and tested in order to meet new threats and other emerging vulnerabilities. This policy and subsequent supporting standards are subject to annual review, or more frequently if warranted.</p>
     </body>
-    <topic id="physical-security-advice">
-      <title>Physical security advice</title>
-      <body>
-        <p>Physical security advice can be obtained by contacting <ph conref="conrefs.dita#conrefs/moj"/> Group Security: <ph conref="conrefs.dita#conrefs/groupsecurityemail"/>.</p>
-      </body>
-    </topic>
+  </topic>
+  <topic id="copyright-and-intellectual-property">
+    <title>Copyright and intellectual property</title>
+    <body>
+      <p>This policy information applies to the security aspects of <ph conref="conrefs.dita#conrefs/moj"/> policy; in particular physical security. It does not address any copyright or intellectual property aspects of material created in or on <ph conref="conrefs.dita#conrefs/moj"/> premises or using <ph conref="conrefs.dita#conrefs/moj"/> resources.</p>
+      <note>You are strongly advised to seek and follow legal advice regarding copyright or intellectual property rights or similar considerations that might apply to filming or photography or other media activities.</note>
+    </body>
+  </topic>
+  <topic id="physical-security-advice">
+    <title>Physical security advice</title>
+    <body>
+      <p>Physical security advice can be obtained by contacting <ph conref="conrefs.dita#conrefs/moj"/> Group Security: <ph conref="conrefs.dita#conrefs/groupsecurityemail"/>.</p>
+    </body>
   </topic>
 	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
 	<topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>

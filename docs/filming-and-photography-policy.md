@@ -10,6 +10,8 @@ Agencies and arm's length bodies \(ALBs\) are expected to comply with this corpo
 
 To help identify formal policy statements, each is prefixed with an identifier of the form: `POLFLMxxx`, where `xxx` is a unique ID number.
 
+**Note:** While this policy explicitly discusses filming and photography activities, the principles in this policy apply to all media types, for example audio recordings
+
 ## Objective
 
 This document describes:
@@ -46,9 +48,9 @@ All employees, contractors, partners, service providers and employees of other o
 
 #### Corporate devices
 
-Corporate issued devices, including smartphones, tablets and laptops or other camera and video enabled equipment:
+'Corporate devices' includes all corporate issued devices, including smartphones, tablets and laptops or other camera and video enabled equipment.
 
--   `POLFLM004:` **MAY** be used for capturing photographs or video footage for legitimate business purposes only. Examples include:
+-   `POLFLM004:` Corporate devices **MAY** be used for capturing photographs or video footage for legitimate business purposes only. Examples include:
 
     -   Photographs for immigration applications.
 
@@ -56,7 +58,7 @@ Corporate issued devices, including smartphones, tablets and laptops or other ca
 
     -   Recording non-sensitive meeting notes from a whiteboard.
 
--   `POLFLM005:` **SHALL NOT** be used to take photographs or video footage of building security features. Examples include:
+-   `POLFLM005:` Corporate devices **SHALL NOT** be used to take photographs or video footage of building security features. Examples include:
 
     -   CCTV camera positions.
 
@@ -64,7 +66,7 @@ Corporate issued devices, including smartphones, tablets and laptops or other ca
 
     -   Door access controls.
 
--   `POLFLM006:` **SHALL NOT** be used for taking photographs or footage that identifies internal structures of MoJ sites. This includes:
+-   `POLFLM006:` Corporate devices **SHALL NOT** be used for taking photographs or footage that identifies internal structures of MoJ sites. This includes:
 
     -   Building entrance or exit controls.
 
@@ -72,9 +74,9 @@ Corporate issued devices, including smartphones, tablets and laptops or other ca
 
     -   Security offices and storage areas.
 
--   `POLFLM007:` **SHALL NOT** be used for taking photographs or video footage of other employees without their express permission.
+-   `POLFLM007:` Corporate devices **SHALL NOT** be used for taking photographs or video footage of other employees without their express permission.
 
--   `POLFLM008:` **SHALL NOT** be used to take photographs or video footage of members of the public, visitors, or attendees at events unless prior notification has been provided.
+-   `POLFLM008:` Corporate devices **SHALL NOT** be used to take photographs or video footage of members of the public, visitors, or attendees at events unless prior notification has been provided.
 
 
 #### Personal devices
@@ -141,7 +143,13 @@ The implementation of all security measures must be able to provide evidence tha
 
 The constantly changing security landscape has necessarily dictated that Physical Security measures be constantly re-evaluated and tested in order to meet new threats and other emerging vulnerabilities. This policy and subsequent supporting standards are subject to annual review, or more frequently if warranted.
 
-### Physical security advice
+## Copyright and intellectual property
+
+This policy information applies to the security aspects of MoJ policy; in particular physical security. It does not address any copyright or intellectual property aspects of material created in or on MoJ premises or using MoJ resources.
+
+**Note:** You are strongly advised to seek and follow legal advice regarding copyright or intellectual property rights or similar considerations that might apply to filming or photography or other media activities.
+
+## Physical security advice
 
 Physical security advice can be obtained by contacting MoJ Group Security: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk).
 
