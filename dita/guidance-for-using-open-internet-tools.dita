@@ -179,13 +179,13 @@
             <row>
               <entry colname="col1">Classification and Security</entry>
               <entry colname="col2">
-                <xref href="mailto:security@justice.gov.uk" format="email" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Cyber Security team</xref>
+                <xref href="mailto:security@justice.gov.uk" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Cyber Security team</xref>
               </entry>
             </row>
             <row>
               <entry colname="col1">Storage and Data Retention</entry>
               <entry colname="col2">
-                <xref href="mailto:kim@justice.gov.uk" format="email" scope="external">Departmental Library &amp; Records Management Services (DLRMS)</xref>
+                <xref href="mailto:kim@justice.gov.uk" format="html" scope="external">Departmental Library &amp; Records Management Services (DLRMS)</xref>
               </entry>
             </row>
             <row>
@@ -197,7 +197,7 @@
             <row>
               <entry colname="col1">Personal Data</entry>
               <entry colname="col2">
-                <xref href="mailto:data.access@justice.gov.uk" format="email" scope="external">Disclosure Team</xref>
+                <xref href="mailto:data.access@justice.gov.uk" format="html" scope="external">Disclosure Team</xref>
               </entry>
             </row>
           </tbody>
