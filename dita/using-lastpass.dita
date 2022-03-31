@@ -21,7 +21,7 @@
   <topic id="how-to-get-it">
     <title>How to get it</title>
     <body>
-      <p>Email <xref href="mailto:lastpass-admins@digital.justice.gov.uk" format="email" scope="external">lastpass-admins@digital.justice.gov.uk</xref> to request access.</p>
+      <p>Email <xref href="mailto:lastpass-admins@digital.justice.gov.uk" format="html" scope="external">lastpass-admins@digital.justice.gov.uk</xref> to request access.</p>
       <p>Make sure you include in the email:
       <ul>
         <li>which team you're in</li>
@@ -110,7 +110,7 @@
       <title>Need help?</title>
       <body>
         <p>If you need help <i>installing</i> LastPass contact the relevant <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/servicedesk"/>.</p>
-        <p>If you need help using LastPass such as getting access to shared folders or resetting your primary password as you have forgotten it, contact <xref href="mailto:lastpass-admins@digital.justice.gov.uk" format="email" scope="external">lastpass-admins@digital.justice.gov.uk</xref></p>
+        <p>If you need help using LastPass such as getting access to shared folders or resetting your primary password as you have forgotten it, contact <xref href="mailto:lastpass-admins@digital.justice.gov.uk" format="html" scope="external">lastpass-admins@digital.justice.gov.uk</xref></p>
       </body>
     </topic>
   </topic>
