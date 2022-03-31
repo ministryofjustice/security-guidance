@@ -69,7 +69,7 @@
     <title>If things go wrong...</title>
     <body>
       <p>If you disagree with our decision about your request, or there is some other problem, contact us again: <ph conref="conrefs.dita#conrefs/catemail"/>.</p>
-      <p>If you'd prefer a different escalation route, contact <xref href="mailto:ciso@digital.justice.gov.uk" format="email" scope="external">ciso@digital.justice.gov.uk</xref>.</p>
+      <p>If you'd prefer a different escalation route, contact <xref href="mailto:ciso@digital.justice.gov.uk" format="html" scope="external">ciso@digital.justice.gov.uk</xref>.</p>
     </body>
   </topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>

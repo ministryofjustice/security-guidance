@@ -38,8 +38,8 @@
     <p>The following organisations are approved to help you with
       secure disposal of equipment:
       <ul>
-        <li>Euro-Recycling: <xref href="mailto:info@euro-recycling.co.uk" format="email" scope="external">info@euro-recycling.co.uk</xref></li>
-        <li>Data Eliminate: <xref href="mailto:info@dataeliminate.com" format="email" scope="external">info@dataeliminate.com</xref></li>
+        <li>Euro-Recycling: <xref href="mailto:info@euro-recycling.co.uk" format="html" scope="external">info@euro-recycling.co.uk</xref></li>
+        <li>Data Eliminate: <xref href="mailto:info@dataeliminate.com" format="html" scope="external">info@dataeliminate.com</xref></li>
       </ul>
    </p>
   </body>
@@ -221,7 +221,7 @@
               This can be done using the technical portal to <q>Bulk upload CIs - update</q>,
               or alternatively by emailing the details to:
               <xref href="mailto:MoJITAssetManagementTeam@justice.gov.uk"
-              format="email" scope="external">MoJITAssetManagementTeam@justice.gov.uk</xref>.</note>
+              format="html" scope="external">MoJITAssetManagementTeam@justice.gov.uk</xref>.</note>
       </body>
     </topic>
   <topic id="transporting-data-between-sites-securely">
