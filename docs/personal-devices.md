@@ -43,13 +43,17 @@ Personal devices **SHALL NOT** be charged from the USB ports of an MoJ device.
 
 **Note:** You are not asked or required to use your own devices for work purposes. Statement `POLMOB009` of the [mobile device and remote working policy](mobile-device-and-remote-working-policy.md#) makes clear that you **SHOULD NOT** use personal devices for MoJ work purposes. If you have access to MoJ devices for work purposes, you **SHALL** use them by default.
 
-## Using Slack on personal devices
+## Using MoJ tools on personal devices
 
-In accordance with other policy on the use of personal devices, and the use of mobile devices specifically, you **SHALL NOT** use personal devices to access MoJ Slack workspaces.
+In accordance with other policy on the use of personal devices, and the use of mobile devices specifically, you **SHALL NOT** use personal devices to access MoJ tools, such as MoJ Slack workspaces.
 
-You **SHOULD NOT** use personal devices for MoJ work purposes. Slack workspaces are official MoJ workspaces and should only be accessed using MoJ devices.
+**Note:** The rest of this section refers to Slack workspaces, but applies equally to other MoJ tools, such as Teams, Trello, Jira, and so on.
 
-Personal devices are not allowed to access services or content containing `OFFICIAL-SENSITIVE` data. Work devices **SHALL** be used to access services such as Slack. If you do not have a work mobile device, and need to access services such as slack on a mobile device, you **SHOULD** request one using [Service Now](https://mojprod.service-now.com/moj_sp/?id=home).
+You could of course use personal devices to access other \(non-MoJ\) Slack communities.
+
+The point is that you **SHOULD NOT** use personal devices for MoJ work purposes. Slack workspaces are official MoJ workspaces and **SHOULD** only be accessed using MoJ devices.
+
+Personal devices are not allowed to access services or content containing `OFFICIAL-SENSITIVE` data. Work devices **SHALL** be used to access MoJ services such as MoJ Slack communities. If you do not have a work mobile device, and need to access services such as Slack on a mobile device, you **SHOULD** request one using [Service Now](https://mojprod.service-now.com/moj_sp/?id=home).
 
 ## Virtual environment
 
