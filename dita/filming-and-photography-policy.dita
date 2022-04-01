@@ -115,6 +115,7 @@
         <title>Personal devices</title>
         <body>
           <p><codeph>POLFLM009:</codeph> Employee and visitor personal devices, including smartphones, tablets, laptops, smart watches, cameras or any other equipment with camera and video capabilities <ph conref="conrefs.dita#conrefs/policyshallnot"/>, under any circumstances, be used to capture photographs or video footage whilst on <ph conref="conrefs.dita#conrefs/moj"/> premises.</p>
+          <note>The reason for this ban is because of the risk of a poorly framed picture unintentionally including something sensitive inside the building.</note>
         </body>
       </topic>
     </topic>
@@ -139,6 +140,7 @@
             <p><codeph>POLFLM014:</codeph> Access <ph conref="conrefs.dita#conrefs/policyshallnot"/> be permitted to film or photograph sensitive work areas and sensitive documents, including information displayed on computer screens, desks, or displays in the background.</p>
           </li>
         </ul>
+        <note>Some <ph conref="conrefs.dita#conrefs/moj"/> teams will have an on-going filming and photography requirement, for example when creating communications materials or taking photographs of people for ID badges. An initial business requirement form is still required, but should highlight the business-as-usual aspect of the request. Afterwards, there is no need for the team to request approval repeatedly, except where there is an unusual or one-off scenario, in which case they can contact <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/> again for approval. In cases of doubt, it's always correct to seek approval.</note>
         <p>Where permission to take photographs or capture video has been granted:</p>
         <ul>
           <li>

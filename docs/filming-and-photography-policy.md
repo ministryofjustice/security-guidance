@@ -83,6 +83,8 @@ All employees, contractors, partners, service providers and employees of other o
 
 `POLFLM009:` Employee and visitor personal devices, including smartphones, tablets, laptops, smart watches, cameras or any other equipment with camera and video capabilities **SHALL NOT**, under any circumstances, be used to capture photographs or video footage whilst on MoJ premises.
 
+**Note:** The reason for this ban is because of the risk of a poorly framed picture unintentionally including something sensitive inside the building.
+
 ### Legitimate photography and video footage requests
 
 There will be circumstances when there is a business need for filming or photography to take place on MoJ premises. In such cases:
@@ -97,6 +99,8 @@ There will be circumstances when there is a business need for filming or photogr
 
 -   `POLFLM014:` Access **SHALL NOT** be permitted to film or photograph sensitive work areas and sensitive documents, including information displayed on computer screens, desks, or displays in the background.
 
+
+**Note:** Some MoJ teams will have an on-going filming and photography requirement, for example when creating communications materials or taking photographs of people for ID badges. An initial business requirement form is still required, but should highlight the business-as-usual aspect of the request. Afterwards, there is no need for the team to request approval repeatedly, except where there is an unusual or one-off scenario, in which case they can contact [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk) again for approval. In cases of doubt, it's always correct to seek approval.
 
 Where permission to take photographs or capture video has been granted:
 
