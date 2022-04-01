@@ -154,7 +154,7 @@
     <topic id="international-delegations-or-visits">
       <title>International delegations or visits</title>
       <body>
-        <p><codeph>POL.VAP.027</codeph>: In the case of international delegations visiting the <ph conref="conrefs.dita#conrefs/moj"/>, advice <ph conref="conrefs.dita#conrefs/policyshould"/> be obtained in advance from the <xref href="mailto:international.visits@justice.gov.uk" format="email" scope="external">International Relations and Strategy Team</xref>.</p>
+        <p><codeph>POL.VAP.027</codeph>: In the case of international delegations visiting the <ph conref="conrefs.dita#conrefs/moj"/>, advice <ph conref="conrefs.dita#conrefs/policyshould"/> be obtained in advance from the <xref href="mailto:international.visits@justice.gov.uk" format="html" scope="external">International Relations and Strategy Team</xref>.</p>
       </body>
     </topic>
     <topic id="prisoners-on-licence-visiting-moj-premises">

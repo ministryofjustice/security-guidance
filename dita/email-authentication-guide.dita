@@ -156,7 +156,7 @@
             </row>
             <row>
               <entry colname="col1"><codeph>*.cjsm.net</codeph></entry>
-              <entry colname="col2"><xref href="mailto:cjsm.helpdesk@egress.com" format="email" scope="external">Egress</xref></entry>
+              <entry colname="col2"><xref href="mailto:cjsm.helpdesk@egress.com" format="html" scope="external">Egress</xref></entry>
             </row>
           </tbody>
         </tgroup>
@@ -185,7 +185,7 @@
 <topic id="dns-contact-details">
   <title>DNS contact details</title>
   <body>
-    <p>For DNS changes and associated advice, contact the Platforms and Architecture team: <xref href="mailto:domains@digital.justice.gov.uk" format="email" scope="external">domains@digital.justice.gov.uk</xref></p>
+    <p>For DNS changes and associated advice, contact the Platforms and Architecture team: <xref href="mailto:domains@digital.justice.gov.uk" format="html" scope="external">domains@digital.justice.gov.uk</xref></p>
   </body>
 </topic>
 <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
