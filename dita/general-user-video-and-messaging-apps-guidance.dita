@@ -74,13 +74,13 @@
 	<topic id="moj-policy-and-guidance">
 		<title><ph conref="conrefs.dita#conrefs/moj"/> Policy and guidance</title>
 		<topic id="official-and-official-sensitive-information">
-			<title><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph> Information</title>
+			<title><ph conref="conrefs.dita#conrefs/official"/> and <ph conref="conrefs.dita#conrefs/official-sensitive"/> Information</title>
 			<body>
-				<p><codeph>OFFICIAL</codeph> information is the majority of information that is created or processed by the public sector.
+				<p><ph conref="conrefs.dita#conrefs/official"/> information is the majority of information that is created or processed by the public sector.
 				This includes routine business operations and services,
 				some of which could have damaging consequences if lost, stolen or published in the media, but are not subject to a heightened threat profile.</p>
-				<p><codeph>OFFICIAL-SENSITIVE</codeph> is not a classification.
-				<codeph>SENSITIVE</codeph> is a handling caveat for a small subset of information marked <codeph>OFFICIAL</codeph> that requires special handling by staff.
+				<p><ph conref="conrefs.dita#conrefs/official-sensitive"/> is not a classification.
+				<codeph>SENSITIVE</codeph> is a handling caveat for a small subset of information marked <ph conref="conrefs.dita#conrefs/official"/> that requires special handling by staff.
 				You should apply the handling caveat where you wish to control access to that information,
 				whether in a document, email, or other form.</p>
 			</body>
@@ -108,7 +108,7 @@
 			<title>Information Management</title>
 			<body>
 				<p>Many of the tools are only used for your day-to-day communication with colleagues.
-					The information you work with is typically <xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">classified</xref> at <codeph>OFFICIAL</codeph>.</p>
+					The information you work with is typically <xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">classified</xref> at <ph conref="conrefs.dita#conrefs/official"/>.</p>
 				<p>Think about the <ph conref="conrefs.dita#conrefs/moj"/> information you work with when using these tools.
 				What would happen if you lost your mobile device, or it's stolen?
 				Suppose the voice or video call was overheard in a cafe, or read from your screen on a crowded train.
@@ -116,7 +116,7 @@
 				If the answer is 'No', then it's probably OK to use the tool to communicate that information with colleagues.</p>
 				<p>You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access.
 					This is <xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">Principle 2</xref> of the Government Security Classifications.
-					The <ph conref="conrefs.dita#conrefs/moj"/> trusts you to work with <codeph>OFFICIAL</codeph> information.
+					The <ph conref="conrefs.dita#conrefs/moj"/> trusts you to work with <ph conref="conrefs.dita#conrefs/official"/> information.
 					You're trusted to make a reasoned judgement about whether it's safe to use an approved tool,
 					or whether you should use a different <ph conref="conrefs.dita#conrefs/moj"/>-provided work tool.</p>
 				<p>Never send work material to your personal devices or email accounts.</p>
@@ -216,7 +216,7 @@
 						<row>
 							<entry colname="col1">Google Meet (was Google Hangouts)</entry>
 							<entry colname="col2">Communication tool: Video and/or voice</entry>
-							<entry colname="col3"><ph id="approved"><ph conref="conrefs.dita#conrefs/moj"/> use approved for <codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></ph></entry>
+							<entry colname="col3"><ph id="approved"><ph conref="conrefs.dita#conrefs/moj"/> use approved for <ph conref="conrefs.dita#conrefs/official"/> and <ph conref="conrefs.dita#conrefs/official-sensitive"/></ph></entry>
 							<entry colname="col4"><ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
 							<entry colname="col5">Internal/External</entry>
 						</row>
@@ -308,6 +308,36 @@
 			</table>
 		</body>
 	</topic>
+	<topic id="tools-for-sharing-information-internally-and-externally">
+		<title>Tools for sharing information internally and externally</title>
+		<body>
+			<p>For secure sharing and transfer of materials within <ph conref="conrefs.dita#conrefs/moj"/> bodies or external organisations including other government departments, the <ph conref="conrefs.dita#conrefs/moj"/> installation of Microsoft Teams is approved for use with data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
+			<p>For secure sharing and transfer of materials with external organisations that cannot use Teams, the Criminal Justice Secure Exchange (CJSE) and Criminal Justice Secure Messaging (CJSM) tools are the preferred solution for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
+			<p>For secure sharing and transfer of materials with external organisations where the use of Teams, CJSE, or CJSM is not practicable, the following tools are approved for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>:
+				<ul>
+					<li><xref href="https://www.egress.com/" format="html" scope="external">Egress</xref> (<xref href="https://www.ncsc.gov.uk/products/egress-email-and-file-protection" format="html" scope="external">NCSC certified</xref>)</li>
+					<li><xref href="https://www.galaxkey.com/" format="html" scope="external">Galaxkey</xref> (<xref href="https://www.ncsc.gov.uk/products/galaxkey" format="html" scope="external">NCSC certified</xref>)</li>
+				</ul>
+				For use within <ph conref="conrefs.dita#conrefs/moj"/> bodies, these products may only be installed on <ph conref="conrefs.dita#conrefs/moj"/>-issued devices. For advice on installation and configuration of these products, consult the team responsible for the supply and configuration of your devices.</p>
+			<p>For secure sharing and transfer of materials with other government bodies, where the use of Teams, CJSE, CJSM, Egress, or Galaxkey is not possible, the use of official <ph conref="conrefs.dita#conrefs/moj"/> email systems is approved for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
+			<p>Always follow the guidance in the <xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Handling and Information Sharing Guide</xref> when making such transfers. This applies particularly with regard to the sharing of data classified higher than <ph conref="conrefs.dita#conrefs/official"/>.</p>
+			<p>If you need clarification or further assistance in selecting the appropriate tool, <xref href="#contact-details" format="">ask for help</xref>.</p>
+		</body>
+	</topic>
+	<topic id="proctoring-software">
+		<title>Proctoring software</title>
+		<body>
+			<lq>You <ph conref="conrefs.dita#conrefs/policyshallnot"/> install proctoring software onto <ph conref="conrefs.dita#conrefs/moj"/> equipment.</lq>
+			<p>Some certification or examination organisations enable people to take assessments remotely. They do this by having 'supervision' software installed on the user's computer. This software is often referred to as 'proctoring software'. The tools make sure that the assessment is as fair as possible, by installing a variety of controls. For example, the software can take control of the camera and microphone of the device it is installed on.</p>
+			<p>The problem is that the controls give the proctoring software extensive access to the computer. This means that the tools could inspect information or other applications on the computer. In effect, the proctoring software might have uncontrolled access to <ph conref="conrefs.dita#conrefs/moj"/> information or materials on the computer. This is not acceptable.</p>
+			<p>If you need to use proctoring software, your options are:
+				<ul>
+					<li>Install the proctoring software on a personal device.</li>
+					<li>Contact the assessment organisation asking for alternative options.</li>
+				</ul>
+			</p>
+		</body>
+	</topic>
 	<topic id="nhs-track-and-trace">
 		<title>NHS Track and Trace</title>
 		<body>
@@ -342,7 +372,7 @@
 		<body>
 			<p>Some tools, such as Facebook, Instagram and LinkedIn, are approved for specific corporate accounts to use, for corporate communications messages.
 				General use of these tools for work purposes is not permitted.</p>
-			<p>If you wish to use a tool that is not listed in this guidance, please consult our <xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref> and <xref href="mailto:security@justice.gov.uk" format="email" scope="external">speak to us for help</xref>.</p>
+			<p>If you wish to use a tool that is not listed in this guidance, please consult our <xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref> and <xref href="#contact-details" format="">ask for help</xref>.</p>
 		</body>
 	</topic>
 	<topic id="thirdpartyapp" conref="conrefs.dita#thirdpartyapp"><title/></topic>
@@ -363,5 +393,6 @@
 			</body>
 		</topic>
 	</topic>
+	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
 	<topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

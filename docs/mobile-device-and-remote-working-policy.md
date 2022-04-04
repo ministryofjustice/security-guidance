@@ -89,7 +89,7 @@ Remote working refers to all forms of business activity that takes place outside
 -   The existing physical security of the remote working site, taking into account the physical security of the building and the local environment.
 -   The communications security requirements, taking into account the need for remote access to the MoJ's internal systems, the sensitivity of the information that will be accessed and passed over the communication link, and the sensitivity of the internal systems being accessed.
 -   Any threat of unauthorised access to information or resources from other persons using the remote working location, for example family or friends.
--   The implementation of home networks, and requirements or restrictions on the configuration of wireless network services \(WiFi\).
+-   The implementation of home networks, and requirements or restrictions on the configuration of wireless network services \(wifi\).
 -   Malware protection and firewall requirements.
 
 `POLMOB011:` The guidelines and arrangements for remote working **SHOULD** be considered, including:

@@ -12,7 +12,7 @@ This guidance gives you:
 -   A [quick checklist](#quick-checklist) to help you decide if you can use an OIT.
 -   Reasons why you [might](#why-oits-are-an-opportunity), or [might not](#why-oits-are-a-risk), want to use an OIT.
 -   Things you [must think about](#using-oits) when using an OIT, such as [data protection](#privacy-and-personal-information).
--   Information on [who to contact](#getting-help) if you would like help or advice.
+-   Information on [who to contact](#contact-details) if you would like help or advice.
 
 **Note:** To access some of the links in this guide you'll need to be connected to the MoJ Intranet.
 
@@ -158,7 +158,7 @@ When you submit the form, it is passed to the security team. The app is reviewed
 
 **Note:** You should submit the request, and wait for a formal "approval" response, *before* you install or use the app on MoJ equipment or information.
 
-If you have any questions about the process, contact the security team: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+If you have any questions about the process, ask for help.
 
 ## Getting help
 
