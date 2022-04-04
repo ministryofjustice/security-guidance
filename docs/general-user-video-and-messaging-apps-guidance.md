@@ -138,6 +138,10 @@ The bottom line is:
 |YouTube|Video sharing tool: Video, streaming and chat|Avoid personal or sensitive data|Web browser based use.|Internal/External|
 |Zoom|Communication tool: Video, voice and chat|Avoid personal or sensitive data|Web browser based use, or dedicated and installed app by approval|External meetings. For Internal meetings, use Microsoft Teams.|
 
+## Password managers
+
+MoJ [guidance](password-managers.md) encourages the use of password managers where possible. To establish what options are available for an MoJ-issued device, check the official MoJ software and application installation tool provided with the device, to see whether it includes a facility to install optional software and whether a password manager is among the options.
+
 ## Tools for sharing information internally and externally
 
 For secure sharing and transfer of materials within MoJ bodies or external organisations including other government departments, the MoJ installation of Microsoft Teams is approved for use with data up to and including `OFFICIAL-SENSITIVE`.
