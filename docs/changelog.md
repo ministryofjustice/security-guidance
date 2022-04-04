@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-04-04-10:50-bst-[add-password-manager-guidance.](https:-security-guidance.service.justice.gov.uk-general-user-video-and-messaging-apps-guidance-#password-managers)"></a>
+
+-   **2022-04-04 10:50 BST [Add password manager guidance.](https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/#password-managers)**
+
+    Added extra information on the use of password manager apps in the MoJ.
+
 <a name="2022-03-21-10:35-gmt-[add-guidance-on-sharing-information.](https:-security-guidance.service.justice.gov.uk-general-user-video-and-messaging-apps-guidance-#tools-for-sharing-information-internally-and-externally)"></a>
 
 -   **2022-03-21 10:35 GMT [Add guidance on sharing information.](https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/#tools-for-sharing-information-internally-and-externally)**
