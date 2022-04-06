@@ -109,6 +109,9 @@
             <p><codeph>POLDOM010:</codeph> Departmental teams and ALBs <ph conref="conrefs.dita#conrefs/policyshall"/> be directed to the <ph conref="conrefs.dita#conrefs/operationsengineering"/> team to carry out domain registration on the user or department's behalf.</p>
           </li>
           <li>
+            <p><codeph>POLDOM010-220406:</codeph> Departmental teams and ALBs <ph conref="conrefs.dita#conrefs/policyshall"/> first direct all <ph conref="conrefs.dita#conrefs/moj"/> Domain Name requests for 3rd Party services to <ph conref="conrefs.dita#conrefs/securityemail"/> for approval. Once the service or application request is authorised, it <ph conref="conrefs.dita#conrefs/policyshall"/> then be actioned by the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/operationsengineering"/> team.</p>
+          </li>
+          <li>
             <p><codeph>POLDOM011:</codeph> All departments and ALBs <ph conref="conrefs.dita#conrefs/policyshall"/> ensure that they transfer ownership of non-GOV.UK domains to the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/operationsengineering"/> team, with a list of transfers and registration managed by the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/operationsengineering"/> team.</p>
           </li>
         </ul>

@@ -152,7 +152,7 @@ There are already many OITs used across the MoJ. Permission to use an OIT might 
 
 If there is an application or service that is not currently approved, but which you would like to use, you can request a security review.
 
-Begin the request by filling in the [Request a Security Review of a third-party service](https://docs.google.com/forms/d/e/1FAIpQLSeEEBDS1HBF7meUk3SjgkqxbXBQlKAiBAezJIbKHnEjfNjBTg/viewform?gxids=7628) form, as best you can. The more information you provide, the better. But don't worry if you have to leave some bits of the form blank.
+Begin the request by filling in the [Request a Security Review of a third-party service](https://docs.google.com/forms/d/e/1FAIpQLSeEEBDS1HBF7meUk3SjgkqxbXBQlKAiBAezJIbKHnEjfNjBTg/viewform?gxids=7628) form, as best you can. Use the same form to request MoJ Domain Names for 3rd Party services. The more information you provide, the better. But don't worry if you have to leave some bits of the form blank.
 
 When you submit the form, it is passed to the security team. The app is reviewed, to check things like how safe it is to use, and whether there are any Data Privacy implications. The security team will respond to you with an answer as quickly as possible.
 
