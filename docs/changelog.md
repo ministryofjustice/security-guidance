@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-04-06-15:53-bst-[update-security.txt-link.](https:-security-guidance.service.justice.gov.uk-implement-security-txt-)"></a>
+
+-   **2022-04-06 15:53 BST [Update security.txt link.](https://security-guidance.service.justice.gov.uk/implement-security-txt/)**
+
+    Corrected link to the standard security.txt file.
+
 <a name="2022-04-04-10:50-bst-[add-password-manager-guidance.](https:-security-guidance.service.justice.gov.uk-general-user-video-and-messaging-apps-guidance-#password-managers)"></a>
 
 -   **2022-04-04 10:50 BST [Add password manager guidance.](https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/#password-managers)**
