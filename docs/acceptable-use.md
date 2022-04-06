@@ -125,6 +125,8 @@ Removable media like memory sticks are portable and easy-to-use. Unfortunately, 
 
 A popular trend is to adorn laptops with stickers. This is acceptable as long as the material does not cause problems such as upset, offence, or embarrassment. The same applies if you customise the desktop environment of your equipment, for example by changing the desktop image.
 
+**Note:** Never add anything to a mobile device or laptop that identifies it as a government device. Official 'property of...' tags applied as part of equipment provisioning are acceptable. Personalisation stickers that make a government connection clear \("I work for the Department of Administrative Affairs!"\) are not acceptable.
+
 ## Contact details
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
