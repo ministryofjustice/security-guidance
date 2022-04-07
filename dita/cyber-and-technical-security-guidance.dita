@@ -1156,6 +1156,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
+                <entry colname="col1" align="left"><xref href="phishing-guide.dita" format="dita">Phishing Guide</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
                 <entry colname="col1" align="left"><xref href="secure-data-transfer-guide.dita" format="dita">Secure Data Transfer Guide</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>

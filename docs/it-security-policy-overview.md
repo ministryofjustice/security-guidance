@@ -2,7 +2,11 @@
 
 This policy gives an overview of information security principles and responsibilities within the Ministry of Justice \(MoJ\) and provides a summary of the MoJ's related security policies and guides.
 
+<a name="[it-security-all-users-policy](it-security-all-users-policy.md)"></a>
+
 -   **[IT Security All Users Policy](it-security-all-users-policy.md)**  
+
+<a name="[it-security-technical-users-policy](it-security-technical-users-policy.md)"></a>
 
 -   **[IT Security Technical Users Policy](it-security-technical-users-policy.md)**  
 
@@ -16,13 +20,19 @@ This policy gives an overview of information security principles and responsibil
 
 This policy is aimed at three audiences:
 
+<a name="technical-users"></a>
+
 -   **Technical users**
 
     These are in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration, and operation. This includes DevOps, Software Developers, Technical Architects, and Service Owners. It also includes Incident Managers from the Event, Problem, Incident, CSI and Knowledge \(EPICK\) Team.
 
+<a name="service-providers"></a>
+
 -   **Service Providers**
 
     Defined as any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services \(including processing, transmitting and storing data\) for, or on behalf of, the MoJ.
+
+<a name="general-users"></a>
 
 -   **General users**
 

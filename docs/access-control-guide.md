@@ -6,6 +6,8 @@ redirect_from:
 
 This guide explains how the Ministry of Justice \(MoJ\) manages access to its IT systems so that users have access only to the material they need to see. This guide has sub-pages which provide in-depth Access Control guidance.
 
+<a name="[privileged-account-management-guide](privileged-account-management-guide.md)"></a>
+
 -   **[Privileged Account Management Guide](privileged-account-management-guide.md)**  
 
 

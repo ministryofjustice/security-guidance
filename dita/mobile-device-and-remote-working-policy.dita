@@ -189,7 +189,7 @@
          <li>Any threat of unauthorised access to information or resources from other persons using the remote working location,
           for example family or friends.</li>
         <li>The implementation of home networks,
-          and requirements or restrictions on the configuration of wireless network services (WiFi).</li>
+          and requirements or restrictions on the configuration of wireless network services (wifi).</li>
         <li>Malware protection and firewall requirements.</li>
       </ul></p>
       <p><codeph>POLMOB011:</codeph> The guidelines and arrangements for remote working <ph conref="conrefs.dita#conrefs/policyshould"/> be considered,

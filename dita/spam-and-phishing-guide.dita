@@ -16,7 +16,7 @@
         <p>To protect against spam and phishing attacks,
           the <ph conref="conrefs.dita#conrefs/moj"/> makes use of Government
           services such as National Cyber Security Centre's
-          <xref href="mailto:report@phishing.gov.uk" format="email"
+          <xref href="mailto:report@phishing.gov.uk" format="html"
             scope="external">Suspicious Email Reporting Service</xref> and any
             other services that are appropriate.</p>
       </body>
@@ -141,7 +141,7 @@
   <topic id="mail-check">
     <title>Mail Check</title>
     <body>
-      <p><xref href="https://www.ncsc.gov.uk/information/web-check"
+      <p><xref href="https://www.ncsc.gov.uk/information/mailcheck"
         format="html" scope="external">Mail Check</xref> is an NCSC cyber
         defence service.
         It enables email administrators to improve and maintain the security of
@@ -159,7 +159,7 @@
       <p>To add domains to the <ph conref="conrefs.dita#conrefs/moj"/>'s Mail
       Check service subscription,
       contact the <xref href="mailto:mailcheck@digital.ncsc.gov.uk"
-      format="email" scope="external">NCSC Mail Check team</xref>.</p>
+      format="html" scope="external">NCSC Mail Check team</xref>.</p>
     </body>
   </topic>
   <topic id="email-sandboxing">

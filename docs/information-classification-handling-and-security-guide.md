@@ -4,6 +4,8 @@ All Ministry of Justice \(MoJ\) employees interact with information, and are res
 
 However, not all information warrants the strictest levels of protection. This is why information classification is so important to the MoJ – to ensure that the department can focus its security efforts on its most sensitive information. Information security must be proportionate to the security classification of the information, and must be considered throughout the information lifecycle to maintain its confidentiality, integrity, and availability.
 
+<a name="[information-classification-and-handling-policy](information-classification-and-handling-policy.md)"></a>
+
 -   **[Information Classification and Handling Policy](information-classification-and-handling-policy.md)**  
 
 

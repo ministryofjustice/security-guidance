@@ -1,8 +1,14 @@
 # Privileged User Guide
 
+<a name="[privileged-user-backups-removable-media-and-incident-management-guide](privileged-user-backups-removable-media-and-incident-management-guide.md)"></a>
+
 -   **[Privileged User Backups, Removable Media and Incident Management Guide](privileged-user-backups-removable-media-and-incident-management-guide.md)**  
 
+<a name="[privileged-user-configuration-patching-and-change-management-guide](privileged-user-configuration-patching-and-change-management-guide.md)"></a>
+
 -   **[Privileged User Configuration, Patching and Change Management Guide](privileged-user-configuration-patching-and-change-management-guide.md)**  
+
+<a name="[privileged-user-logging-and-protective-monitoring-guide](privileged-user-logging-and-protective-monitoring-guide.md)"></a>
 
 -   **[Privileged User Logging and Protective Monitoring Guide](privileged-user-logging-and-protective-monitoring-guide.md)**  
 
@@ -92,11 +98,15 @@ Access to the VPN requires 2 Factor Authentication \(2FA\). The [IT Security Pol
 
 For help with incidents, including theft and loss, contact:
 
+<a name="technology-service-desk-including-dom1-quantum-and-the-digital-technology-service-desk"></a>
+
 -   **Technology Service Desk - including DOM1, Quantum, and the Digital & Technology Service Desk**
 
     Tel: 0800 917 5148
 
     **Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
+
+<a name="hmpps-information-and-security"></a>
 
 -   **HMPPS Information and security**
     -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)

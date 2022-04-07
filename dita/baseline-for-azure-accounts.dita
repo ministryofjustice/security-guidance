@@ -3,57 +3,37 @@
 <topic id="baseline-for-azure-accounts">
   <title>Baseline for Azure Subscriptions</title>
   <body>
-    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> has a 'lowest common denominator' approach to
-apply to the largest possible number of people for security-related
-promises, capabilities and configurations of <ph conref="conrefs.dita#conrefs/moj"/> Azure Subscriptions.</p>
-    <p id="holisticddn">The baseline is not a holistic 'do' and 'do not' list, but a minimum
-line in the sand for what 'at least' <ph conref="conrefs.dita#conrefs/policymust"/> be done.</p>
-<p>This guidance is Version 1.3, September 16, 2021.</p>
+    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> has a 'lowest common denominator' approach to apply to the largest possible number of people for security-related promises, capabilities and configurations of <ph conref="conrefs.dita#conrefs/moj"/> Azure Subscriptions.</p>
+    <p id="holisticddn">The baseline is not a holistic 'do' and 'do not' list, but a minimum line in the sand for what 'at least' <ph conref="conrefs.dita#conrefs/policyshall"/> be done.</p>
+    <p>This guidance is Version 1.4, January 17, 2022.</p>
   </body>
   <topic id="the-base-principle">
     <title>The base principle</title>
     <body>
       <p>All <ph conref="conrefs.dita#conrefs/moj"/> Azure Subscriptions
-        <ph conref="conrefs.dita#conrefs/policymust"/> utilise a series of agreed
-configurations to enable and support good tenancy within Azure accounts,
-and a
-suitable cyber security posture.</p>
+        <ph conref="conrefs.dita#conrefs/policyshall"/> utilise a series of agreed configurations to enable and support good tenancy within Azure accounts, and a suitable cyber security posture.</p>
     </body>
     <topic id="anti-solutionising">
       <title>Anti-solutionising</title>
       <body>
         <p>This baseline discusses outcomes, not how the baseline is achieved or implemented.</p>
-        <p>The <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security team strongly encourages the use of the highest
-abstraction level of services available from Azure to achieve these
-goals, and minimising the amount of custom code and configuration which
-needs to be developed (and thereafter, maintained) to satisfy each
-baseline.</p>
+        <p>The <ph conref="conrefs.dita#conrefs/moj"/> Cyber Security team strongly encourages the use of the highest abstraction level of services available from Azure to achieve these goals, and minimising the amount of custom code and configuration which needs to be developed (and thereafter, maintained) to satisfy each baseline.</p>
       </body>
     </topic>
   </topic>
   <topic id="initial-considerations">
     <title>Initial Considerations</title>
     <body>
-      <p>The type of hosting is the first consideration.
-        AWS is the
-preferred Cloud Service Provider but we understand that Azure sometimes
-is a technical requirement.</p>
-      <p>Legacy applications <ph conref="conrefs.dita#conrefs/policyshould"/> be hosted via the <xref href="https://ministryofjustice.github.io/modernisation-platform/user-guide/cloud-platform-or-modernisation-platform.html#should-i-use-the-cloud-platform-or-the-modernisation-platform" format="html" scope="external">Modernisation Platform</xref>.</p>
-      <p>The requirement to use Azure <ph conref="conrefs.dita#conrefs/policyshould"/> also include basing new services or
-subscriptions on existing or predefined settings and policies.</p>
-      <p>For <xref href="https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/ukofficial-uknhs" format="html" scope="external">UK Government Services</xref>,
-there are
-<xref href="https://portal.azure.com/#blade/Microsoft_Azure_Policy/BlueprintsMenuBlade/GetStarted" format="html" scope="external">Blueprints</xref>
-available to ensure compliance with meeting Standards and Policies. If
-these exist, they <ph conref="conrefs.dita#conrefs/policycan"/> be replicated and applied to new services or subscriptions.</p>
+      <p id="type-of-hosting">The type of hosting is the first consideration. <ph conref="conrefs.dita#conrefs/moj"/> service developers <ph conref="conrefs.dita#conrefs/policyshall"/> utilise Cloud Platform for new services. Anyone developing new services <ph conref="conrefs.dita#conrefs/policyshould"/> refer to the <xref href="https://technical-guidance.service.justice.gov.uk/documentation/standards/hosting.html#how-to-host-services" format="html" scope="external">How to host services</xref> page which provides initial guidance.</p>
+      <p id="legacy-applications">Legacy applications <ph conref="conrefs.dita#conrefs/policyshould"/> be hosted via the <xref href="https://ministryofjustice.github.io/modernisation-platform/user-guide/cloud-platform-or-modernisation-platform.html#should-i-use-the-cloud-platform-or-the-modernisation-platform" format="html" scope="external">Modernisation Platform</xref>.</p>
+      <p>The requirement to use Azure <ph conref="conrefs.dita#conrefs/policyshould"/> also include basing new services or subscriptions on existing or predefined settings and policies.</p>
+      <p>For <xref href="https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/ukofficial-uknhs" format="html" scope="external">UK Government Services</xref>, there are <xref href="https://portal.azure.com/#blade/Microsoft_Azure_Policy/BlueprintsMenuBlade/GetStarted" format="html" scope="external">Blueprints</xref> available to ensure compliance with meeting Standards and Policies. If these exist, they <ph conref="conrefs.dita#conrefs/policycan"/> be replicated and applied to new services or subscriptions.</p>
     </body>
   </topic>
   <topic id="security-incidents">
     <title>Security incidents</title>
     <body>
-      <p>The Cyber Security team <ph conref="conrefs.dita#conrefs/policyshould"/> be added as a security contact for all
-Information or Cyber Security incidents. The contact details for raising
-Incidents need to be managed internally, for example using an Intranet page.</p>
+      <p>The Cyber Security team <ph conref="conrefs.dita#conrefs/policyshould"/> be added as a security contact for all Information or Cyber Security incidents. The contact details for raising Incidents need to be managed internally, for example using an Intranet page.</p>
     </body>
   </topic>
   <topic id="baseline">
@@ -91,15 +71,13 @@ Incidents need to be managed internally, for example using an Intranet page.</p>
             </tbody>
           </tgroup>
         </table>
-        <p>For more information on MFA, refer to the <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-Factor Authentication
-guidance</xref>.</p>
+        <p>For more information on MFA, refer to the <xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-Factor Authentication guidance</xref>.</p>
       </body>
     </topic>
     <topic id="advanced-threat-protection">
       <title>Advanced threat protection</title>
       <body>
-        <p>Leverage Azure to identify and resolve vulnerabilities, assess threats
-efficiently, and ultimately focus on real threats.</p>
+        <p>Leverage Azure to identify and resolve vulnerabilities, assess threats efficiently, and ultimately focus on real threats.</p>
         <table>
           <tgroup cols="3">
             <colspec colname="col1" colnum="1"/>
@@ -136,8 +114,7 @@ efficiently, and ultimately focus on real threats.</p>
     <topic id="firewall">
       <title>Firewall</title>
       <body>
-        <p>Leverage Azure for protection of your web applications from common
-exploits and vulnerabilities.</p>
+        <p>Leverage Azure for protection of your web applications from common exploits and vulnerabilities.</p>
         <table>
           <tgroup cols="3">
             <colspec colname="col1" colnum="1"/>
@@ -169,8 +146,7 @@ exploits and vulnerabilities.</p>
     <topic id="monitor">
       <title>Monitor</title>
       <body>
-        <p>Leverage the Azure solution for collecting, analysing, and acting on
-telemetry from your cloud and on-premises environments.</p>
+        <p>Leverage the Azure solution for collecting, analysing, and acting on telemetry from your cloud and on-premises environments.</p>
         <table>
           <tgroup cols="3">
             <colspec colname="col1" colnum="1"/>
@@ -197,8 +173,7 @@ telemetry from your cloud and on-premises environments.</p>
     <topic id="advisor">
       <title>Advisor</title>
       <body>
-        <p>Leverage Azure's native configuration activity audit platform to capture
-what changes are being made to Azure configurations.</p>
+        <p>Leverage Azure's native configuration activity audit platform to capture what changes are being made to Azure configurations.</p>
         <table>
           <tgroup cols="3">
             <colspec colname="col1" colnum="1"/>
@@ -225,8 +200,7 @@ what changes are being made to Azure configurations.</p>
     <topic id="regions">
       <title>Regions</title>
       <body>
-        <p>Do not use Non-UK Azure regions for strategic compliance and performance
-reasons.</p>
+        <p>Do not use Non-UK Azure regions for strategic compliance and performance reasons.</p>
         <table>
           <tgroup cols="3">
             <colspec colname="col1" colnum="1"/>
@@ -253,8 +227,7 @@ reasons.</p>
     <topic id="encryption">
       <title>Encryption</title>
       <body>
-        <p>Leverage native Azure configuration options to make reasonable efforts
-to protect data.</p>
+        <p>Leverage native Azure configuration options to make reasonable efforts to protect data.</p>
         <table>
           <tgroup cols="3">
             <colspec colname="col1" colnum="1"/>
@@ -291,9 +264,7 @@ to protect data.</p>
     <topic id="public--world-access">
       <title>Public / 'World' Access</title>
       <body>
-        <p>Ensure that public access to Azure data storage and compute is
-intentional, to avoid the 'leaky bucket' problem, and to aid attack
-surface minimisation.</p>
+        <p>Ensure that public access to Azure data storage and compute is intentional, to avoid the 'leaky bucket' problem, and to aid attack surface minimisation.</p>
         <table>
           <tgroup cols="3">
             <colspec colname="col1" colnum="1"/>
@@ -326,9 +297,7 @@ surface minimisation.</p>
   <topic id="implementation">
     <title>Implementation</title>
     <body>
-      <p><xref href="https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-as-code" format="html" scope="external">Infrastructure as Code</xref>
-(IaC) is the preferred method for initiating Services to encourage swift
-and predefined deployment.</p>
+      <p><xref href="https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-as-code" format="html" scope="external">Infrastructure as Code</xref> (IaC) is the preferred method for initiating Services to encourage swift and predefined deployment.</p>
       <table>
         <tgroup cols="3">
           <colspec colname="col1" colnum="1"/>
@@ -355,10 +324,7 @@ and predefined deployment.</p>
   <topic id="tagging">
     <title>Tagging</title>
     <body>
-      <p>Assigning tags to Azure resources is essential in creating a
-well-organised and transparent classification, and achieving significant
-cloud cost optimisation. When implemented, this practice can provide a
-consistent basis for applying policies across the organisation.</p>
+      <p>Assigning tags to Azure resources is essential in creating a well-organised and transparent classification, and achieving significant cloud cost optimisation. When implemented, this practice can provide a consistent basis for applying policies across the organisation.</p>
       <table>
         <tgroup cols="3">
           <colspec colname="col1" colnum="1"/>

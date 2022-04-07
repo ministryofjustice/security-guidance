@@ -64,7 +64,7 @@ Mitigate MITM attacks by:
 
 ## Mail Check
 
-[Mail Check](https://www.ncsc.gov.uk/information/web-check) is an NCSC cyber defence service. It enables email administrators to improve and maintain the security of email domains by preventing spoofing attacks. All domains operated by, or on behalf of, the MoJ, **SHALL** be added to Mail Check, regardless of whether the domain is expected to send or receive emails. All future contracts and agreements with third party suppliers **SHALL** make this a requirement.
+[Mail Check](https://www.ncsc.gov.uk/information/mailcheck) is an NCSC cyber defence service. It enables email administrators to improve and maintain the security of email domains by preventing spoofing attacks. All domains operated by, or on behalf of, the MoJ, **SHALL** be added to Mail Check, regardless of whether the domain is expected to send or receive emails. All future contracts and agreements with third party suppliers **SHALL** make this a requirement.
 
 Mail Check **SHOULD** be used only if the email domain name provided is publicly routable from the Internet using the Simple Mail Transfer Protocol \(SMTP\).
 

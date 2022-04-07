@@ -10,13 +10,19 @@ To help identify formal policy statements, each is prefixed with an identifier o
 
 This policy is aimed at:
 
+<a name="technical-users"></a>
+
 -   **Technical users**
 
     These are in-house MoJ Digital and Technology staff responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects, Service Owners and the [EPICK](https://ministryofjustice.github.io/acronyms/) Team.
 
+<a name="service-providers"></a>
+
 -   **Service providers**
 
     Defined as any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services \(including processing, transmitting and storing data\) for or on behalf of the MoJ.
+
+<a name="general-users"></a>
 
 -   **General users**
 
@@ -124,11 +130,15 @@ MoJ organisations should contact [domains@digital.justice.gov.uk](mailto:domains
 
 For help with incidents, including theft and loss, contact:
 
+<a name="technology-service-desk-including-dom1-quantum-and-the-digital-technology-service-desk"></a>
+
 -   **Technology Service Desk - including DOM1, Quantum, and the Digital & Technology Service Desk**
 
     Tel: 0800 917 5148
 
     **Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
+
+<a name="hmpps-information-and-security"></a>
 
 -   **HMPPS Information and security**
     -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
