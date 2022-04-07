@@ -121,7 +121,8 @@
         <p>Patches and updates for security related devices must be treated as
           High Risk (3) at least, and implemented in accordance with this rating. For more details on risk ratings, refer to the <xref href="vulnerability-scanning-guide.dita#vulnerability-risk-ratings/vulnerability-risk-ratings" format="dita" platform="html">vulnerability risk ratings</xref><xref href="vulnerability-scanning-guide.dita#vulnerability-risk-ratings" format="dita" platform="epub pdf">vulnerability risk ratings</xref> information.</p>
         <p>For ratings of High Risk (3) or Critical (4),
-          the <xref href="#contact-details" format="dita">Risk Advisor Team</xref> must evaluate the probability and impact,
+          the Risk Advisor
+          team (<xref href="#contact-details" format="dita">contact through email</xref>) must evaluate the probability and impact,
           and use this to guide a 'tolerance' period,
           at the end of which a patch must be applied.</p>
         <p>Where the rating is Medium (2) or lower,
@@ -209,7 +210,7 @@
           vendors must provide a firm statement that the patch or workaround cannot
           be made available within the timescale mandated for addressing the vulnerability.
           The vulnerability alert must then be escalated to the Risk Advisor
-          team (contacted through email: <ph conref="conrefs.dita#conrefs/catemail"/>) for help with acceptance,
+          team (<xref href="#contact-details" format="dita">contact through email</xref>) for help with acceptance,
           transfer, mitigation or avoidance.</p>
         <p>Any patches to be deployed must go through the normal change management and approval process,
           and the changes recorded in the Service Management Tool.</p>
@@ -244,8 +245,8 @@
           the project team must provide an indication that the patch or workaround
           cannot be implemented within the timescale mandated for addressing
           the vulnerability.
-          This delay must be escalated to the Risk Advisor team
-          (contact through email: <ph conref="conrefs.dita#conrefs/catemail"/>) for help with acceptance,
+          This delay must be escalated to the Risk Advisor
+          team (<xref href="#contact-details" format="dita">contact through email</xref>) for help with acceptance,
           transfer, mitigation or avoidance.</p>
         </body>
     </topic>

@@ -46,7 +46,9 @@ The [HMG Security Policy Framework](https://www.gov.uk/government/publications/s
 
 > Departments and Agencies must have robust and well tested policies, procedures and management arrangements in place to respond to, investigate and recover from security incidents or other disruptions to core business.
 
-The policy on IT Security Incident Management is covered in [IT Security Policy - IT Incident Management Policy](it-incident-management-policy.md) while this document set outs the MoJ guidance for creating an ITSIM plan. This guide must be read in conjunction with [CESG GPG No. 24 – Security Incident Management](https://www.ncsc.gov.uk/guidance/security-incident-management-good-practice-guide-24-0).
+The policy on IT Security Incident Management is covered in [IT Security Policy - IT Incident Management Policy](it-incident-management-policy.md) while this document set outs the MoJ guidance for creating an ITSIM plan.
+
+**Note:** Previous guidance advised that this document should be read in conjunction with the CESG Good Practice Guide No. 24 \(GPG24\) – Security Incident Management. GPG24 has been withdrawn. For help with best practice in incident management, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ### Aim of this guide
 
@@ -63,7 +65,7 @@ This guide is split up into four sections:
 -   Capturing lessons learnt.
 
 
-A template ITSIM plan is provided [here](#appendix-a), this is not designed to be a rigid template and can be flexed to meet the needs of the business.
+A template ITSIM plan is provided [here](#appendix-a-it-security-incident-management-plan-template). It is not designed to be a rigid template and can be flexed to meet the needs of the business.
 
 ### Demonstration of Compliance
 
@@ -73,21 +75,31 @@ The [CESG Information Assurance Maturity Model \(IAMM\)](https://www.ncsc.gov.uk
 
 ITSIM is a combination of people, plans and predefined processes which enables the MoJ to deal with the consequences of an IT security incident. ITSIM at the MoJ follows the following principles:
 
+<a name="consistency"></a>
+
 -   **Consistency**
 
     The use of dependable, documented methods ensures that incidents, and the reaction to them, are dealt with systematically and cost-effectively.
+
+<a name="business-continuity"></a>
 
 -   **Business Continuity**
 
     It is essential that the business is able to resume or continue operations as soon as possible after a security incident.
 
+<a name="ownership-and-responsibility"></a>
+
 -   **Ownership and Responsibility**
 
     IT security incidents can be very distressing times but reacting on impulse often does more damage than the initial incident itself. The purpose of incident management is to ensure that people with the right level of expertise and experience are consulted and take responsibility for decisions made.
 
+<a name="escalation"></a>
+
 -   **Escalation**
 
     IT security incidents may require coordination with external agencies such as law enforcement or computer forensic capabilities. Internally, different functions within the MoJ may need to be involved in incident management. ITSIM ensures that communication channels are predefined and appropriate for the categorisation of an incident.
+
+<a name="preservation-of-mojs-reputation"></a>
 
 -   **Preservation of MoJ's reputation**
 
@@ -409,7 +421,7 @@ Adequate information relating to security incidents, such as types, volumes and 
 
 IT security incident statistics must be presented in conjunction with an assessment of top security risks and details of any significant compliance gaps on a monthly basis to the ITSO to assist risk management. Each ITSIM plan must be reviewed on a yearly basis and re-approved by the SIRO and ITSO.
 
-## Appendix A – IT Security Incident Management Plan - Template
+## Appendix A: IT Security Incident Management Plan Template
 
 |IT Security Incident Management Plan|
 |Overview|
@@ -429,7 +441,7 @@ IT security incident statistics must be presented in conjunction with an assessm
 
 Completing this plan can form part of the Accreditation process and must be included and maintained as part of the relevant RMADS.
 
-## Appendix B – Escalation path
+## Appendix B: Escalation path
 
 ![ITSIM Escalation path](images/incident-management-plan-and-process-guide-diagram-4.png)
 

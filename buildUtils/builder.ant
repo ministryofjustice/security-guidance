@@ -24,11 +24,13 @@
 	<property name="build" location="${ditabuild}/out"/>
 	<property name="buildhtml" location="${ditabuild}/outhtml"/>
 	<property name="buildUtils" location="buildUtils"/>
-	<property name="images.output.dir" location="${ditabuild}/out/images"/>
+	<!-- <property name="images.output.dir" location="${ditabuild}/out/images"/>  22020331 -->
 	<property name="docs" location="docs"/>
 	<property name="worddocs" location="worddocs"/>
 	<property name="intranet" location="intranet"/>
+	<!--
 	<property name="images" location="images"/>
+	 22020331 -->
 	<property name="jekyll-baseline" location="jekyll-baseline"/>
 	<property name="hmcts" location="hmcts"/>
 	<property name="ost" location="ost"/>
@@ -129,6 +131,19 @@
 		<!-- <move file="${theFile}.new" tofile="${theFile}" overwrite="true"/> -->
 	</target>
 
+	<target name="dlTarget">
+		<echo message="Adding definition list link targets in file: ${theFile}"/>
+		<exec dir="${buildUtils}" executable="python" output="dlTarget.txt">
+			<arg line="dlTarget.py ${theFile}"/>
+		</exec>
+		<!-- Report results -->
+		<loadfile property="dlTarget" srcFile="dlTarget.txt" />
+		<echo message="${dlTarget}" />
+		<delete file="dlTarget.txt"/>
+		<!-- Tidy up. -->
+		<!-- <move file="${theFile}.new" tofile="${theFile}" overwrite="true"/> -->
+	</target>
+
 	<!--
 	<target name="compile_ost" depends="init, compile_intranet"
 				description="Compile OST content into production Markdown">
@@ -225,6 +240,12 @@
 		<mkdir dir="${build}/.well-known"/>
 		<copy file="${basedir}/contact/vulnerability-disclosure-security.txt" tofile="${build}/security.txt" overwrite="true"/>
 		<copy file="${basedir}/contact/vulnerability-disclosure-security.txt" tofile="${build}/.well-known/security.txt" overwrite="true"/>
+		<echo message="Convert definition lists to targets in markdown"/>
+		<foreach target="dlTarget" param="theFile">
+			<path>
+				<fileset dir="${build}" includes="**/*.md"/>
+			</path>
+		</foreach>
 	</target>
 
 	<!--
@@ -338,10 +359,11 @@
 
 	<target name="compile_epub" depends="init"
 			description="compile the source into EPUB">
-		<!-- Get the images ready to use -->
+		<!-- Get the images ready to use
 		<copy todir="${images.output.dir}" >
 			<fileset dir="${images}"/>
 		</copy>
+		20220331 -->
 
 		<!-- First build the Technical users EPUB, containing their content. -->
 		<echo message="Build EPUB: Technical users."/>
@@ -457,7 +479,7 @@
 			<fileset dir="${jekyll-baseline}"/>
 		</copy>
 		<copy todir="${docs}/images" >
-			<fileset dir="${images}"/>
+			<fileset dir="${ditasrc}/images"/>
 		</copy>
 		<copy todir="${docs}" >
 			<fileset dir="${build}"/>
@@ -483,7 +505,7 @@
 			<fileset dir="${jekyll-baseline}"/>
 		</copy>
 		<copy todir="${docs}/images" >
-			<fileset dir="${images}"/>
+			<fileset dir="${ditasrc}/images"/>
 		</copy>
 		<copy todir="${docs}/culture" >
 			<fileset dir="${culture}"/>
@@ -510,7 +532,7 @@
 			<fileset dir="${jekyll-baseline}"/>
 		</copy>
 		<copy todir="${docs}/images" >
-			<fileset dir="${images}"/>
+			<fileset dir="${ditasrc}/images"/>
 		</copy>
 		<copy todir="${docs}" >
 			<fileset dir="${build}"/>

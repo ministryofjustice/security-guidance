@@ -104,7 +104,7 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 		<topichead audience="audience-basic audience-suppliers audience-tech">
 			<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Information classification</navtitle></topicmeta>
-			<topicref href="data-handling-and-information-sharing-guide.dita" type="topic" audience="audience-tech"/>
+			<topicref href="data-handling-and-information-sharing-guide.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="government-classification-scheme.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="information-classification-handling-and-security-guide.dita" type="topic" audience="audience-basic audience-suppliers audience-tech">
 				<topicref href="information-classification-and-handling-policy.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
@@ -289,6 +289,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="email-blocklist-process.dita" type="topic" audience="audience-tech"/>
 			<topicref href="email-security-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="general-user-video-and-messaging-apps-guidance.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="phishing-guide.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="secure-data-transfer-guide.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="secure-email-transfer-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="sending-information-securely.dita" type="topic" audience="audience-basic audience-tech"/>

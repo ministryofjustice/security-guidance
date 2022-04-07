@@ -17,8 +17,8 @@
     <note importance="high">When disposing of <codeph>SECRET</codeph> or <codeph>TOP SECRET</codeph> equipment,
       materials,
       or resources,
-      you <ph conref="conrefs.dita#conrefs/policyshall"/> contact the
-      Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/></note>
+      you <ph conref="conrefs.dita#conrefs/policyshall"/> contact
+      security: <ph conref="conrefs.dita#conrefs/securityemail"/></note>
   </body>
   <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>

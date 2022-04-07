@@ -132,6 +132,42 @@ The bottom line is: If there is doubt, there is no doubt - ask for help!
 |YouTube|Video sharing tool: Video, streaming and chat|Avoid personal or sensitive data|Web browser based use.|Internal/External|
 |Zoom|Communication tool: Video, voice and chat|Avoid personal or sensitive data|Web browser based use, or dedicated and installed app by approval|External meetings. For Internal meetings, use Microsoft Teams.|
 
+##Password managers
+
+MoJ [guidance](https://security-guidance.service.justice.gov.uk/password-managers/) encourages the use of password managers where possible. To establish what options are available for an MoJ-issued device, check the official MoJ software and application installation tool provided with the device, to see whether it includes a facility to install optional software and whether a password manager is among the options.
+
+##Tools for sharing information internally and externally
+
+For secure sharing and transfer of materials within MoJ bodies or external organisations including other government departments, the MoJ installation of Microsoft Teams is approved for use with data up to and including `OFFICIAL-SENSITIVE`.
+
+For secure sharing and transfer of materials with external organisations that cannot use Teams, the Criminal Justice Secure Exchange (CJSE) and Criminal Justice Secure Messaging (CJSM) tools are the preferred solution for data up to and including `OFFICIAL-SENSITIVE`.
+
+For secure sharing and transfer of materials with external organisations where the use of Teams, CJSE, or CJSM is not practicable, the following tools are approved for data up to and including `OFFICIAL-SENSITIVE`:
+
+* [Egress](https://www.egress.com/) ([NCSC certified](https://www.ncsc.gov.uk/products/egress-email-and-file-protection))
+* [Galaxkey](https://www.galaxkey.com/) ([NCSC certified](https://www.ncsc.gov.uk/products/galaxkey))
+
+For use within MoJ bodies, these products may only be installed on MoJ-issued devices. For advice on installation and configuration of these products, consult the team responsible for the supply and configuration of your devices.
+
+For secure sharing and transfer of materials with other government bodies, where the use of Teams, CJSE, CJSM, Egress, or Galaxkey is not possible, the use of official MoJ email systems is approved for data up to and including `OFFICIAL-SENSITIVE`.
+
+Always follow the guidance in the [Data Handling and Information Sharing Guide](https://security-guidance.service.justice.gov.uk/data-handling-and-information-sharing-guide/) when making such transfers. This applies particularly with regard to the sharing of data classified higher than `OFFICIAL`.
+
+If you need clarification or further assistance in selecting the appropriate tool, [ask for help](#contact-details).
+
+##Proctoring software
+
+> You **SHALL NOT** install proctoring software onto MoJ equipment.
+
+Some certification or examination organisations enable people to take assessments remotely. They do this by having 'supervision' software installed on the user's computer. This software is often referred to as 'proctoring software'. The tools make sure that the assessment is as fair as possible, by installing a variety of controls. For example, the software can take control of the camera and microphone of the device it is installed on.
+
+The problem is that the controls give the proctoring software extensive access to the computer. This means that the tools could inspect information or other applications on the computer. In effect, the proctoring software might have uncontrolled access to MoJ information or materials on the computer. This is not acceptable.
+
+If you need to use proctoring software, your options are:
+
+* Install the proctoring software on a personal device.
+* Contact the assessment organisation asking for alternative options.
+
 ##NHS Track and Trace
 
 The official [NHS Covid-19](https://www.nhs.uk/apps-library/nhs-covid-19/) app was designed by the NHS. Both NCSC and Cabinet Office have been involved in the security of the system. The app provides contact tracing, local area alerts and venue check-in. It enables you to protect yourself and your loved ones. Installation is optional, but recommended.
@@ -155,7 +191,7 @@ To reduce the likelihood of false alerts on the app, turn off the app's Bluetoot
 
 Some tools, such as Facebook, Instagram and LinkedIn, are approved for specific corporate accounts to use, for corporate communications messages. General use of these tools for work purposes is not permitted.
 
-If you wish to use a tool that is not listed in this guidance, please consult our [Guidance for using Open Internet Tools](https://security-guidance.service.justice.gov.uk/guidance-for-using-open-internet-tools/) and [speak to us for help](mailto:security@justice.gov.uk).
+If you wish to use a tool that is not listed in this guidance, please consult our [Guidance for using Open Internet Tools](https://security-guidance.service.justice.gov.uk/guidance-for-using-open-internet-tools/) and [ask for help](#contact-details).
 
 ##Requesting that an app be approved for use
 
@@ -167,7 +203,7 @@ When you submit the form, it is passed to the security team. The app is reviewed
 
 **Note:** You should submit the request, and wait for a formal "approval" response, *before* you install or use the app on MoJ equipment or information.
 
-If you have any questions about the process, contact the security team: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+If you have any questions about the process, ask for help.
 
 ##Other information
 
@@ -182,6 +218,10 @@ If you have any questions about the process, contact the security team: [securit
 [Secure communications principles](https://www.ncsc.gov.uk/guidance/secure-communication-principles-alpha-release)
 
 [Using third-party applications](https://www.ncsc.gov.uk/collection/mobile-device-guidance/using-third-party-applications)
+
+##Contact details
+
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
 
 ---
 

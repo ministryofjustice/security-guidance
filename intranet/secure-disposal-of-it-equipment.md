@@ -4,7 +4,7 @@ The Ministry of Justice (MoJ) and its Executive Agencies and Arms Length Bodies 
 
 However, there are also other physical and virtual resources across the MoJ estate which might have been procured and managed locally. It is crucial that they are disposed of in a secure manner, to prevent data being leaked.
 
-**Note:** When disposing of `SECRET` or `TOP SECRET` equipment, materials, or resources, you **SHALL** contact the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
+**Note:** When disposing of `SECRET` or `TOP SECRET` equipment, materials, or resources, you **SHALL** contact security: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 
 **Related information**  
 
