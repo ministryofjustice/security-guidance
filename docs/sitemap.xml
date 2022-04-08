@@ -8,30 +8,45 @@
 
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/</loc>
-  <lastmod>2022-04-06T14:53:00+00:00</lastmod>
+  <lastmod>2022-04-08T09:09:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/</loc>
-  <lastmod>2022-04-06T14:53:00+00:00</lastmod>
+  <lastmod>2022-04-08T09:09:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance.pdf</loc>
-  <lastmod>2022-04-06T14:53:00+00:00</lastmod>
+  <lastmod>2022-04-08T09:09:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-gs.pdf</loc>
-  <lastmod>2022-04-06T14:53:00+00:00</lastmod>
+  <lastmod>2022-04-08T09:09:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-tech.pdf</loc>
-  <lastmod>2022-04-06T14:53:00+00:00</lastmod>
+  <lastmod>2022-04-08T09:09:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/system-lockdown-and-hardening-standard/</loc>
+  <lastmod>2022-04-08T09:09:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-equipment/</loc>
+  <lastmod>2022-04-08T09:09:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-public-and-private-cloud/</loc>
+  <lastmod>2022-04-08T09:09:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/implement-security-txt/</loc>
   <lastmod>2022-04-06T14:53:00+00:00</lastmod>
@@ -93,11 +108,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-equipment/</loc>
-  <lastmod>2022-02-15T12:18:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-physical-and-on-premise/</loc>
   <lastmod>2022-02-15T12:18:00+00:00</lastmod>
   <priority>0.80</priority>
@@ -131,11 +141,6 @@
   <loc>https://security-guidance.service.justice.gov.uk/gs/overseas-travel-form.docx</loc>
   <lastmod>2022-01-18T09:13:00+00:00</lastmod>
   <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/system-lockdown-and-hardening-standard/</loc>
-  <lastmod>2022-01-06T09:36:00+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/ost/ithc/</loc>

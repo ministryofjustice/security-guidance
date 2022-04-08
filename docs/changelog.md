@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-04-08-10:09-bst-[add-guidance-on-secure-disposal-of-cloud-materials.](https:-security-guidance.service.justice.gov.uk-secure-disposal-of-it-public-and-private-cloud-)"></a>
+
+-   **2022-04-08 10:09 BST [Add guidance on secure disposal of cloud materials.](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-public-and-private-cloud/)**
+
+    New guidance to ensure the confidentiality of MoJ data remains when a cloud service is decommissioned.
+
 <a name="2022-04-06-15:53-bst-[update-security.txt-link.](https:-security-guidance.service.justice.gov.uk-implement-security-txt-)"></a>
 
 -   **2022-04-06 15:53 BST [Update security.txt link.](https://security-guidance.service.justice.gov.uk/implement-security-txt/)**
