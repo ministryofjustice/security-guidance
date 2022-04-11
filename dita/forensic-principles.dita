@@ -27,7 +27,7 @@
     <title>People and resources</title>
     <body>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/> Operational Security Team (OST) is responsible for the IT Security Incident Management Process and charged with responding to all IT security incidents.
-      The team can be contacted by email: <ph conref="conrefs.dita#conrefs/ostemail"/>.</p>
+      The team can be contacted by email: <ph conref="conrefs.dita#conrefs/securityemail"/>.</p>
       <p>The <ph conref="conrefs.dita#conrefs/moj"/> intends to use a mix of internal and external resources to ensure that its forensic investigation capability can quickly and efficiently react to potentially incidents thereby minimising disruption to business.</p>
       <note>The <xref href="forensic-readiness-policy.dita" format="dita">Forensic Readiness Policy</xref> states that each forensic investigation must have a named Forensic Investigation Owner.</note>
     </body>

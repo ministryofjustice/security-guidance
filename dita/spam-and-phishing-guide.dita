@@ -183,7 +183,7 @@
       </ul></p>
       <p>For further guidance on implementing sandboxing,
         including which products you might use,
-        contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/>.</p>
+        contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
     </body>
   </topic>
   <topic id="url-link-rewriting">
@@ -253,7 +253,7 @@
     <title>Reporting spam or malicious emails</title>
     <body>
       <p>If you think your email service provision has been susceptible to spam or a virus,
-        report it immediately to the <ph conref="conrefs.dita#conrefs/servicedesk"/> as an IT security incident.
+        report it immediately to the <ph conref="conrefs.dita#conrefs/servicedesk"/> on <ph conref="conrefs.dita#conrefs/servicedesknumber"/> as an IT security incident.
         Please refer to the <xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref> for further guidance.</p>
     </body>
   </topic>

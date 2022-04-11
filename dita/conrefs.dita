@@ -55,6 +55,7 @@
 			<ph id="mcsslong"><xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">Minimum Cyber Security Standard (MCSS)</xref></ph>
 			<ph id="mojlong">Ministry of Justice (<ph conref="#conrefs/moj"/>)</ph>
 			<ph id="moj">MoJ</ph>
+			<ph id="mojsecurityemailtext"><ph conref="#conrefs/moj"/> <ph conref="#conrefs/securityemailtext"/></ph>
 			<ph id="ncsclong">National Cyber Security Centre (NCSC)</ph>
 			<ph id="ncsc">NCSC</ph>
 			<ph id="nsvc-contact">If you don't know who your NSVC is,
@@ -200,7 +201,7 @@
 			<note>If you work for an agency or ALB, refer to your local incident reporting guidance.</note>
 			<p><b>Security Team</b>
 				<ul>
-					<li>Email: <ph conref="#conrefs/ostemailtext"/></li>
+					<li>Email: <ph conref="#conrefs/securityemail"/></li>
 					<li>Slack: <codeph>#security</codeph></li>
 				</ul>
 			</p>

@@ -42,7 +42,6 @@
       <ul>
         <li><ph conref="conrefs.dita#conrefs/securityemail"/></li>
         <li><ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/></li>
-        <li><ph conref="conrefs.dita#conrefs/ostemail"/></li>
       </ul>
     </body>
   </topic>

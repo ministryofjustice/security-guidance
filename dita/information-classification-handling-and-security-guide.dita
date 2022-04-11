@@ -460,7 +460,7 @@
               <row>
                 <entry colname="col1"><b><codeph>TECHNICAL</codeph></b></entry>
                 <entry colname="col2"><ph conref="conrefs.dita#conrefs/secret"/> information at rest should be protected with very strong encryption.
-                  Contact the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/securityemailtext"/> for more information.</entry>
+                  Contact the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> for more information.</entry>
                 <entry colname="col3"> </entry>
               </row>
               <row>
@@ -470,7 +470,7 @@
               </row>
               <row>
                 <entry colname="col1"> </entry>
-                <entry colname="col2"><ph conref="conrefs.dita#conrefs/secret"/> information should be processed on IT systems which have been approved for the <ph conref="conrefs.dita#conrefs/secret"/> threat model. Advice on what commercial IT systems meet this requirement is available from the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</entry>
+                <entry colname="col2"><ph conref="conrefs.dita#conrefs/secret"/> information should be processed on IT systems which have been approved for the <ph conref="conrefs.dita#conrefs/secret"/> threat model. Advice on what commercial IT systems meet this requirement is available from the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/>.</entry>
                 <entry colname="col3"> </entry>
               </row>
             </tbody>
@@ -534,7 +534,7 @@
                 <entry colname="col1"><b><codeph>TECHNICAL</codeph></b></entry>
                 <entry colname="col2">When physical security measures cannot be used,
                   <ph conref="conrefs.dita#conrefs/topsecret"/> information at rest should be protected with extremely strong encryption.
-                  Contact the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/securityemailtext"/> in these circumstances.</entry>
+                  Contact the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> in these circumstances.</entry>
                 <entry colname="col3"> </entry>
               </row>
               <row>
