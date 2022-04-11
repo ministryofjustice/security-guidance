@@ -27,7 +27,7 @@
         <li>Reviewing results from automated real-time analysis quarterly to ensure its relevance.</li>
         <li>Where real-time log analysis has not been implemented,
           then manual log analysis must be performed at least weekly.</li>
-        <li>Working closely with the Operational Security Team (OST) to define requirements and ensure that when possible,
+        <li>Working closely with the Security Team to define requirements and ensure that when possible,
           automated log analysis and alerting is integrated with the <ph conref="conrefs.dita#conrefs/moj"/>'s Security Operations Centre (SOC)
           which provides the <ph conref="conrefs.dita#conrefs/moj"/>'s central monitoring function.</li>
         <li>Establishing the baseline activities for systems they are responsible for.
@@ -37,8 +37,7 @@
         <li>Ensuring that audits and compliance checks of IT systems do not adversely affect business operations.</li>
         <li>Documenting and reporting anomalies in log settings,
           configurations,
-          and processes to the OST (<xref href="#incidents-and-contact-details" format="dita">contact details</xref>)
-          and the Cyber Assistance Team (<xref href="#incidents-and-contact-details" format="dita">contact details</xref>).</li>
+          and processes to the Security team (<xref href="#incidents-and-contact-details" format="dita">contact details</xref>).</li>
         <li>Managing long-term storage of system log data, monitoring log rotation, and the archival and deletion of log data.</li>
         <li>Any suspicious activity must be <xref href="#incidents-and-contact-details" format="dita">reported</xref>.
           Refer to the details in the <xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref>.</li>

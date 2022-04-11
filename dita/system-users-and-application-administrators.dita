@@ -4,7 +4,7 @@
   <title>System Users and Application Administrators</title>
   <body>
     <note>This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon.
-      Before using this content for a project, contact <ph conref="conrefs.dita#conrefs/catemail"/>.</note>
+      Before using this content for a project, contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</note>
   </body>
   <topic id="how-to-use-this-document">
     <title>How to use this document</title>

@@ -67,7 +67,7 @@
       <p>If there was a system error or fault,
         remedial action will restore access.</p>
       <p>If the block is due to an access rule,
-        Operational Security reviews whether to change the rule.</p>
+        the Security team reviews whether to change the rule.</p>
     </body>
   </topic>
   <topic id="what-to-do-if-you-are-able-to-access-a-website-that-you-think-should-be-blocked">
@@ -90,7 +90,7 @@
         <li>HMPPS Prison - All requests should be directed to the <ph conref="conrefs.dita#conrefs/servicedesk"/> via a local or area IT Manager.</li>
         <li>HMPPS Probation - Log an incident with your <xref href="#general-enquiries-including-theft-and-loss"
           format="dita" platform="github"><ph conref="conrefs.dita#conrefs/servicedesk"/></xref><ph platform="intranet"><ph conref="conrefs.dita#conrefs/servicedesk"/></ph>.</li>
-        <li>All other teams, contact the Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/></li>
+        <li>All other teams, contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</li>
       </ul>
     </body>
   </topic>

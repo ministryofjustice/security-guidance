@@ -57,7 +57,7 @@
       <title>Protecting log files and log data</title>
       <body>
         <p>Default permissions must be set on logging and monitoring systems such that only ops staff for that service,
-          and the <ph conref="conrefs.dita#conrefs/moj"/>'s security operations team (<ph conref="conrefs.dita#conrefs/ostemail"/>),
+          and the <ph conref="conrefs.dita#conrefs/moj"/>'s Security team (<ph conref="conrefs.dita#conrefs/securityemail"/>),
           have access to the data in them.
           All access to the raw logging and monitoring data must also be logged.</p>
         <p>Bulk exporting from such logging systems is prohibited by default.
