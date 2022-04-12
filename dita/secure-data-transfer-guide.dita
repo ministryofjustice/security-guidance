@@ -273,7 +273,7 @@
             <ph conref="#data-transfer-by-email/alternative-channel"/></p>
             <p>If you think you have no other option for copying or moving data,
               and have to use removable media,
-              contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/>.</p>
+              contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
             <p>Ownership of any removable media used
               <ph conref="conrefs.dita#conrefs/policymust"/> be established.
               The removable media <ph conref="conrefs.dita#conrefs/policymust"/>
@@ -295,7 +295,7 @@
               An email confirming receipt is acceptable.</p>
             <p>Report any issues to your line manager and in the case of
               missing or corrupt data to the
-              <ph conref="conrefs.dita#conrefs/ostemailtext"/> immediately.</p>
+              <ph conref="conrefs.dita#conrefs/securityemailtext"/> immediately.</p>
         </body>
         <topic id="data-transfers-by-post-or-courier">
           <title>Data transfers by post or courier</title>

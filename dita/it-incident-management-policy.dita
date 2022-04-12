@@ -66,16 +66,16 @@
         <p>
           <b>POL.IMP.002:</b>
         </p>
-        <p>All IT Security incidents or suspected incidents <b>must be</b> reported to the <ph conref="conrefs.dita#conrefs/moj"/> Operational Security Team (OST) within 60 minutes of detection.</p>
+        <p>All IT Security incidents or suspected incidents <b>must be</b> reported to the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> within 60 minutes of detection.</p>
         <p>
           <b>POL.IMP.003:</b>
         </p>
-        <p>For all incidents involving an IT Security incident, an IT Security Incident Report Form <b>must be</b> completed and submitted to the OST (<xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">Reporting an incident or breach</xref> ). This is irrespective of the reporting route (i.e. a User direct with OST or a user via the <ph conref="conrefs.dita#conrefs/servicedesk"/>).</p>
+        <p>For all incidents involving an IT Security incident, an IT Security Incident Report Form <b>must be</b> completed and submitted to the <ph conref="conrefs.dita#conrefs/securityemailtext"/> (<xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">Reporting an incident or breach</xref> ). This is irrespective of the reporting route (i.e. a User direct with <ph conref="conrefs.dita#conrefs/securityemailtext"/> or a user via the <ph conref="conrefs.dita#conrefs/servicedesk"/>).</p>
         <p>
           <b>POL.IMP.004:</b>
         </p>
         <p>All IT Security incidents involving personal data (or other information assets) <b>must be</b> reported to the <ph conref="conrefs.dita#conrefs/moj"/> Data Access and Compliance Unit: <ph conref="conrefs.dita#conrefs/dacuemail"/>.</p>
-        <p>The <ph conref="conrefs.dita#conrefs/moj"/> Operation Security Team (OST) is responsible for maintaining a centralised database and view of all IT Security incidents across any <ph conref="conrefs.dita#conrefs/moj"/> IT system. This database contains information on:</p>
+        <p>The <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> is responsible for maintaining a centralised database and view of all IT Security incidents across any <ph conref="conrefs.dita#conrefs/moj"/> IT system. This database contains information on:</p>
         <ul>
           <li>
             <p>Security incident reports;</p>
@@ -146,7 +146,7 @@
       <topic id="high-impact-incident">
         <title>High Impact Incident</title>
         <body>
-          <p>IT Security incidents at this level require immediate escalation to the relevant <ph conref="conrefs.dita#conrefs/moj"/> Business Group Senior Information Risk Owner (SIRO) in addition to the OST and where applicable, the <ph conref="conrefs.dita#conrefs/moj"/> Data Access and Compliance Unit: <ph conref="conrefs.dita#conrefs/dacuemail"/>.</p>
+          <p>IT Security incidents at this level require immediate escalation to the relevant <ph conref="conrefs.dita#conrefs/moj"/> Business Group Senior Information Risk Owner (SIRO) in addition to the <ph conref="conrefs.dita#conrefs/securityemailtext"/> and where applicable, the <ph conref="conrefs.dita#conrefs/moj"/> Data Access and Compliance Unit: <ph conref="conrefs.dita#conrefs/dacuemail"/>.</p>
           <p>Incident at this impact may warrant forensic investigation.</p>
           <p>Examples of incidents at the level include (but are not limited to):</p>
           <ul>
@@ -256,10 +256,10 @@
         <p>All IT Security incidents involving the loss, theft or compromise of an Information Asset <b>must be</b> reported to the asset's IAO.</p>
       </body>
     </topic>
-    <topic id="moj-operational-security-team-ost">
-      <title><ph conref="conrefs.dita#conrefs/moj"/> Operational Security Team (OST)</title>
+    <topic id="moj-security-team">
+      <title><ph conref="conrefs.dita#conrefs/moj"/> Security Team</title>
       <body>
-        <p>The OST are responsible for:</p>
+        <p>The <ph conref="conrefs.dita#conrefs/securityemailtext"/> are responsible for:</p>
         <ul>
           <li>
             <p>Incident ownership, monitoring, tracking and communication</p>
@@ -285,17 +285,17 @@
     <topic id="it-service-desk">
       <title><ph conref="conrefs.dita#conrefs/servicedesk"/></title>
       <body>
-        <p>The <ph conref="conrefs.dita#conrefs/servicedesk"/> plays a crucial role in ensuring security incidents are correctly reported and escalated to the OST in a timely manner. The majority of IT Security incident will be reported to the <ph conref="conrefs.dita#conrefs/servicedesk"/> first. Also, the <ph conref="conrefs.dita#conrefs/servicedesk"/> can help identify where a user reporting an issue is actually an IT Security incident. It is therefore important that the <ph conref="conrefs.dita#conrefs/servicedesk"/> recognise this and report it to the OST.</p>
+        <p>The <ph conref="conrefs.dita#conrefs/servicedesk"/> plays a crucial role in ensuring security incidents are correctly reported and escalated to the <ph conref="conrefs.dita#conrefs/securityemailtext"/> in a timely manner. The majority of IT Security incident will be reported to the <ph conref="conrefs.dita#conrefs/servicedesk"/> first. Also, the <ph conref="conrefs.dita#conrefs/servicedesk"/> can help identify where a user reporting an issue is actually an IT Security incident. It is therefore important that the <ph conref="conrefs.dita#conrefs/servicedesk"/> recognise this and report it to the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
         <p>
           <b>POL.IMP.014:</b>
         </p>
-        <p>Where the <ph conref="conrefs.dita#conrefs/servicedesk"/> receives a report of a security incident, this <b>must be</b> reported and escalated to the OST immediately.</p>
+        <p>Where the <ph conref="conrefs.dita#conrefs/servicedesk"/> receives a report of a security incident, this <b>must be</b> reported and escalated to the <ph conref="conrefs.dita#conrefs/securityemailtext"/> immediately.</p>
       </body>
     </topic>
     <topic id="escalation-path">
       <title>Escalation Path</title>
       <body>
-        <p>As a rule, all IT Security incidents are reported to OST. As depicted in Figure 2, OST then progress the incident according to its categorisation (refer <xref href="#categorisation-of-incidents" format="dita">here</xref> ). Depending on the category and nature of the incident, this can involve escalating the incident to other stakeholders.</p>
+        <p>As a rule, all IT Security incidents are reported to <ph conref="conrefs.dita#conrefs/securityemailtext"/>. As depicted in Figure 2, <ph conref="conrefs.dita#conrefs/securityemailtext"/> then progress the incident according to its categorisation (refer <xref href="#categorisation-of-incidents" format="dita">here</xref> ). Depending on the category and nature of the incident, this can involve escalating the incident to other stakeholders.</p>
         <p>
           <b>POL.IMP.015:</b>
         </p>
@@ -307,8 +307,8 @@
   <topic id="investigation-and-diagnosis-capability">
     <title>Investigation and Diagnosis capability</title>
     <body>
-      <p>The OST is responsible for the investigation of all IT Security incidents. Where evidence gathering is required for possible disciplinary or legal proceedings, a forensic investigation may be required, further details are provided in the <xref href="forensic-readiness-policy.dita" format="dita">Forensic Readiness Policy</xref>.</p>
-      <p>In the course of investigation, the OST may:</p>
+      <p>The <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> is responsible for the investigation of all IT Security incidents. Where evidence gathering is required for possible disciplinary or legal proceedings, a forensic investigation may be required, further details are provided in the <xref href="forensic-readiness-policy.dita" format="dita">Forensic Readiness Policy</xref>.</p>
+      <p>In the course of investigation, the <ph conref="conrefs.dita#conrefs/securityemailtext"/> may:</p>
       <ul>
         <li>
           <p>Investigate incidents at the direction of the ITSO;</p>
@@ -329,7 +329,7 @@
       <p>
         <b>POL.ITSEC.016:</b>
       </p>
-      <p>The OST <b>must maintain</b> files on any investigation undertaken.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> <b>must maintain</b> files on any investigation undertaken.</p>
       <p>
         <b>POL.ITSEC.017:</b>
       </p>

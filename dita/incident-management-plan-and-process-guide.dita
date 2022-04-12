@@ -139,9 +139,9 @@
                 <entry colname="col2">The <ph conref="conrefs.dita#conrefs/moj"/> ITSO is responsible for IT security across the <ph conref="conrefs.dita#conrefs/moj"/> and is the first point of escalation. The ITSO performs two functions with regards to ITSIM; Firstly, a source of advice and guidance on <ph conref="conrefs.dita#conrefs/moj"/> IT security policy and secondly, forms part of the decision making process during the investigation and resolution phase of an IT security incident.</entry>
               </row>
               <row>
-                <entry colname="col1"><ph conref="conrefs.dita#conrefs/moj"/> Operational Security Team (OST)</entry>
-                <entry colname="col2">The <ph conref="conrefs.dita#conrefs/moj"/> OST forms the core of the <ph conref="conrefs.dita#conrefs/moj"/> ITSIM response mechanism. They act as a co-ordinator managing all IT security incidents across the <ph conref="conrefs.dita#conrefs/moj"/> estate.
-                <p>The OST are responsible for:
+                <entry colname="col1"><ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/></entry>
+                <entry colname="col2">The <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> forms the core of the <ph conref="conrefs.dita#conrefs/moj"/> ITSIM response mechanism. They act as a co-ordinator managing all IT security incidents across the <ph conref="conrefs.dita#conrefs/moj"/> estate.
+                <p>The Security team are responsible for:
                   <ul>
                     <li>Incident ownership, monitoring, tracking and communication</li>
                     <li>Sanctioning enhanced monitoring on IT systems where appropriate</li>
@@ -152,7 +152,7 @@
               </row>
               <row>
                 <entry colname="col1"><ph conref="conrefs.dita#conrefs/servicedesk"/></entry>
-                <entry colname="col2">The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/servicedesk"/> acts as the first point of contact for <ph conref="conrefs.dita#conrefs/moj"/> IT Users reporting an IT security event. Their function is to ensure that the details of the incident are captured and the OST are informed.</entry>
+                <entry colname="col2">The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/servicedesk"/> acts as the first point of contact for <ph conref="conrefs.dita#conrefs/moj"/> IT Users reporting an IT security event. Their function is to ensure that the details of the incident are captured and the Security team are informed.</entry>
               </row>
             </tbody>
           </tgroup>
@@ -256,7 +256,7 @@
               </row>
               <row>
                 <entry colname="col1">Monitoring Services</entry>
-                <entry colname="col2">For an ITSIM plan to be effective, a consummate incident detection and monitoring service must be in place and active. For most <ph conref="conrefs.dita#conrefs/moj"/> ITSIM plans, this will involve the <ph conref="conrefs.dita#conrefs/moj"/> Operations Security Team (OST) acting as the centralised monitoring and management service where incident reports are fed to them, for example, from automated security controls (such as virus detection alerts from an anti-virus client) or manually by a User reporting the loss of a <ph conref="conrefs.dita#conrefs/moj"/> laptop to the <ph conref="conrefs.dita#conrefs/servicedesk"/>.</entry>
+                <entry colname="col2">For an ITSIM plan to be effective, a consummate incident detection and monitoring service must be in place and active. For most <ph conref="conrefs.dita#conrefs/moj"/> ITSIM plans, this will involve the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> acting as the centralised monitoring and management service where incident reports are fed to them, for example, from automated security controls (such as virus detection alerts from an anti-virus client) or manually by a User reporting the loss of a <ph conref="conrefs.dita#conrefs/moj"/> laptop to the <ph conref="conrefs.dita#conrefs/servicedesk"/>.</entry>
               </row>
               <row>
                 <entry colname="col1">Training and Awareness</entry>
@@ -283,7 +283,7 @@
           <p>Incident reporting – This is shown as a source of incident information on Figure 3. Generally there are three sources, <ph conref="conrefs.dita#conrefs/moj"/> Users reporting incidents using an IT Security Incident Report Form, alerts from other government bodies such as GovCERT and incident detection controls such as an IT supplier reporting the release of an emergency critical patch or an automated alert from an Intrusion Detection System (IDS).</p>
         </li>
         <li>
-          <p>Incident management – This is a function perform by the <ph conref="conrefs.dita#conrefs/moj"/> Operational Security Team (OST), it involves conducting an initial assessment of the incident, incident categorisation and management of the incident escalating where appropriate. Note that the process continually examines the categorisation of an incident as it is being investigated. An incident may move up or down the impact scale as more information is discovered.</p>
+          <p>Incident management – This is a function perform by the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/>; it involves conducting an initial assessment of the incident, incident categorisation and management of the incident escalating where appropriate. Note that the process continually examines the categorisation of an incident as it is being investigated. An incident may move up or down the impact scale as more information is discovered.</p>
         </li>
         <li>
           <p>Incident resolution – Where an incident has been through the management process and resolved.</p>
@@ -376,10 +376,10 @@
     <topic id="incident-detection-and-recording">
       <title>Incident Detection and Recording</title>
       <body>
-        <p>Security incidents may come to light from a variety of sources, including through active system monitoring and the <ph conref="conrefs.dita#conrefs/moj"/> staff reporting suspicious activity or security incidents. All IT security incidents must be reported to the OST, who will conduct an initial assessment and manage the incident through to resolution.</p>
+        <p>Security incidents may come to light from a variety of sources, including through active system monitoring and the <ph conref="conrefs.dita#conrefs/moj"/> staff reporting suspicious activity or security incidents. All IT security incidents must be reported to the <ph conref="conrefs.dita#conrefs/securityemailtext"/>, who will conduct an initial assessment and manage the incident through to resolution.</p>
         <p><b>Note</b> – All incidents involving personal data must also be reported to the <ph conref="conrefs.dita#conrefs/moj"/> Data Access and Compliance Unit (DACU).</p>
         <p>The <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> IT Security Policy</xref> defines the requirements for capturing and recording security events and monitoring them for suspected malicious activity or breaches of security.</p>
-        <p>The <ph conref="conrefs.dita#conrefs/moj"/> Operational Security Team (OST) is responsible for maintaining a centralised database and view of all IT security incidents across all <ph conref="conrefs.dita#conrefs/moj"/> IT systems. This database contains information on:</p>
+        <p>The <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> is responsible for maintaining a centralised database and view of all IT security incidents across all <ph conref="conrefs.dita#conrefs/moj"/> IT systems. This database contains information on:</p>
         <ul>
           <li>
             <p>Security incident reports;</p>
@@ -397,7 +397,7 @@
     <topic id="categorisation-of-incidents">
       <title>Categorisation of Incidents</title>
       <body>
-        <p>Incidents need to be categorised to assess their impact and the required level of escalation and reporting. This is mainly done to manage resources and make investigations cost effective. The initial assessment for all IT security incidents will be made by the OST with support from the ITSO and the relevant system Accreditor as required. The assessment will be in terms of the potential impact of the incident with each incident categorised in terms of Low, Medium or High impact.</p>
+        <p>Incidents need to be categorised to assess their impact and the required level of escalation and reporting. This is mainly done to manage resources and make investigations cost effective. The initial assessment for all IT security incidents will be made by the <ph conref="conrefs.dita#conrefs/securityemailtext"/> with support from the ITSO and the relevant system Accreditor as required. The assessment will be in terms of the potential impact of the incident with each incident categorised in terms of Low, Medium or High impact.</p>
         <p>The three following sub-sections provide a description for each category. It is expected that the business group ITSIM plan will contain a tailored version of this description and confirm the escalation route which will be followed.</p>
       </body>
       <topic id="low-impact-incident">
@@ -405,7 +405,7 @@
         <body>
           <p>These would typically be minor such as low level breaches in security through an accident or carelessness, or a minor loss of service from a service provider e.g. temporary loss of power or connectivity.</p>
           <p>A low impact personal data incident would typically include an incident where no loss has occurred but a weakness in a system may potentially have led to a loss, and with a small amount of remedial action the weakness in a process can easily be addressed.</p>
-          <p>Incident categorised as low will be typically managed by the <ph conref="conrefs.dita#conrefs/moj"/> OST who will engage with the relevant parties within the business and IT supplier community to resolve the incident. Any escalation (refer to Figure 4) will be predominantly to the level of the <ph conref="conrefs.dita#conrefs/moj"/> ITSO and relevant system Accreditor.</p>
+          <p>Incident categorised as low will be typically managed by the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> who will engage with the relevant parties within the business and IT supplier community to resolve the incident. Any escalation (refer to Figure 4) will be predominantly to the level of the <ph conref="conrefs.dita#conrefs/moj"/> ITSO and relevant system Accreditor.</p>
         </body>
       </topic>
       <topic id="medium-impact-incident">
@@ -522,7 +522,7 @@
             <p>If the incident involves (or is suspected to involve) Foreign Intelligence Services (FIS) or Organised Crime;</p>
           </li>
           <li>
-            <p>Where there is a HMG requirement to report to central incident management bodies, the OST will co-ordinate reporting for example, the reporting of network security incidents to GovCERT;</p>
+            <p>Where there is a HMG requirement to report to central incident management bodies, the <ph conref="conrefs.dita#conrefs/securityemailtext"/> will co-ordinate reporting for example, the reporting of network security incidents to GovCERT;</p>
           </li>
           <li>
             <p>Where there is a significant, actual or possible loss of personal data, the Information Commissioner's Office and the Cabinet Office Central Sponsor for Information Assurance need to be informed via the SIRO and ITSO</p>
@@ -533,7 +533,7 @@
     <topic id="investigation-and-diagnosis-capability">
       <title>Investigation and Diagnosis Capability:</title>
       <body>
-        <p>The <ph conref="conrefs.dita#conrefs/moj"/> Operational Security Team (OST) is responsible for organising the investigation of all IT security incidents. Where there is a need for evidence to be gathered for possible disciplinary or legal proceedings, a forensic investigation may be required. Each impact category should have its own associated management process which consists of the following activities:</p>
+        <p>The <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> is responsible for organising the investigation of all IT security incidents. Where there is a need for evidence to be gathered for possible disciplinary or legal proceedings, a forensic investigation may be required. Each impact category should have its own associated management process which consists of the following activities:</p>
         <ul>
           <li>
             <p>Investigating an incident as directed by the ITSO or SIRO;</p>
@@ -624,7 +624,7 @@ incident (refer to Figure 4).]</entry>
             <row>
               <entry colname="col1"> </entry>
               <entry colname="col2">Priority and escalation</entry>
-              <entry colname="col3">[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.]</entry>
+              <entry colname="col3">[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consult the <ph conref="conrefs.dita#conrefs/securityemailtext"/> and ITSO when completing this section.]</entry>
             </row>
             <row>
               <entry colname="col1">Medium Impact Incident</entry>
@@ -634,7 +634,7 @@ incident (refer to Figure 4).]</entry>
             <row>
               <entry colname="col1"> </entry>
               <entry colname="col2">Priority and escalation</entry>
-              <entry colname="col3">[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.]</entry>
+              <entry colname="col3">[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consult the <ph conref="conrefs.dita#conrefs/securityemailtext"/> and ITSO when completing this section.]</entry>
             </row>
             <row>
               <entry colname="col1">High Impact Incident</entry>
@@ -644,7 +644,7 @@ incident (refer to Figure 4).]</entry>
             <row>
               <entry colname="col1"> </entry>
               <entry colname="col2">Priority and escalation</entry>
-              <entry colname="col3">[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.]</entry>
+              <entry colname="col3">[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consult the <ph conref="conrefs.dita#conrefs/securityemailtext"/> and ITSO when completing this section.]</entry>
             </row>
             <row>
               <entry colname="col1" namest="col1" nameend="col3" align="center">Plan Approval</entry>

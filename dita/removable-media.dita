@@ -43,7 +43,7 @@
         </ul>
         Additional guidance information is available about
           the <xref href="https://intranet.justice.gov.uk/documents/2015/04/data-movement-form-guide.doc" format="doc" scope="external">Data Movement form</xref>.
-          When the form is ready, send it to: <ph conref="conrefs.dita#conrefs/ostemail"/>.</li>
+          When the form is ready, send it to: <ph conref="conrefs.dita#conrefs/securityemail"/>.</li>
         <li>Each request is evaluated by <ph conref="conrefs.dita#conrefs/moj"/> Operational Security,
         with a view to recommending the safest and most appropriate method to contain risk of loss.</li>
         <li>Normally, you'll get a response within 5 working days.</li>

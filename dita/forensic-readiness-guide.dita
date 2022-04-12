@@ -83,7 +83,7 @@
       <topic id="people-and-resources">
         <title>People and resources</title>
         <body>
-          <p>The <ph conref="conrefs.dita#conrefs/moj"/> IT Operational Security Team (OST) is responsible for the IT Security Incident Management Process and charged with responding to all IT security incidents.</p>
+          <p>The <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> is responsible for the IT Security Incident Management Process and charged with responding to all IT security incidents.</p>
           <p>The <ph conref="conrefs.dita#conrefs/moj"/> intends to use a mix of internal and external resources to ensure that its forensic investigation capability can quickly and efficiently react to potentially incidents thereby minimising disruption to business.</p>
           <p><b>Note:</b> The <xref href="forensic-readiness-policy.dita" format="dita">Forensic Readiness Policy</xref> states that each forensic investigation must have named Forensic Investigation Owner.</p>
         </body>
@@ -261,7 +261,7 @@
               <row>
                 <entry colname="col1">1</entry>
                 <entry colname="col2">Decision to conduct a Forensic Investigation</entry>
-                <entry colname="col3"><ph conref="conrefs.dita#conrefs/moj"/> OST / <ph conref="conrefs.dita#conrefs/moj"/> ITSO</entry>
+                <entry colname="col3"><ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> / <ph conref="conrefs.dita#conrefs/moj"/> ITSO</entry>
               </row>
               <row>
                 <entry colname="col1">2</entry>
@@ -311,7 +311,7 @@
               <row>
                 <entry colname="col1">11</entry>
                 <entry colname="col2">External reporting and liaising</entry>
-                <entry colname="col3"><ph conref="conrefs.dita#conrefs/moj"/> OST / <ph conref="conrefs.dita#conrefs/moj"/> ITSO</entry>
+                <entry colname="col3"><ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> / <ph conref="conrefs.dita#conrefs/moj"/> ITSO</entry>
               </row>
               <row>
                 <entry colname="col1">12</entry>
@@ -356,7 +356,7 @@
           <li>Status of the plan and associated scenarios;</li>
           <li>Status of any exercise and feedback from those exercises;</li>
           <li>Status of staff or external provider competency levels (including register of formal certifications);</li>
-          <li>Current and past investigation knowledgebase and active issues (to be managed by <ph conref="conrefs.dita#conrefs/moj"/> OST);</li>
+          <li>Current and past investigation knowledgebase and active issues (to be managed by the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/>);</li>
           <li>Status of the current review cycle.</li>
         </ul>
       </body>

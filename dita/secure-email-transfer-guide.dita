@@ -155,7 +155,7 @@
         the message is sent in plain text using Simple Mail Transfer Protocol
         (SMTP).
         If TLS must be applied,
-        contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/> for help.
+        contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/> for help.
         In this configuration,
         certificate verification is required whenever mail is sent from a third
         party to the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
