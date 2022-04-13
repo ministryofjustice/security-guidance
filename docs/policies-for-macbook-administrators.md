@@ -1,6 +1,6 @@
 # Policies for MacBook Administrators
 
-**Note:** This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+**Note:** This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact the [Security team](mailto:security@justice.gov.uk).
 
 All User accounts are created as 'Admin' to allow for software installation as part of normal business requirements.
 
@@ -32,7 +32,7 @@ Actions:
 ## Things you must do
 
 1.  Maintain the active list of all active users.
-2.  Raise an incident with the Operational Security Team \([OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)\) and inform MoJ security \([security@justice.gov.uk](mailto:security@justice.gov.uk)\) and the MoJ CISO when leaving Staff have not returned all MoJ assets in their possession.
+2.  Raise an incident with the [Security team](mailto:security@justice.gov.uk) and inform the MoJ CISO when leaving Staff have not returned all MoJ assets in their possession.
 3.  If anyone who has a MacBook account leaves the organisation for any reason.
 4.  Retrieve the Users equipment and suspend the account.
 5.  If requested by a Head of Profession, transfer user's data to a user decided on by their line manager. This also requires a request from the business area Service Manager.

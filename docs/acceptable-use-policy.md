@@ -49,7 +49,7 @@ It is important that all Users of an IT system, including support and system adm
 
 `POL.ITAUP.006`: Any change to an IT system's SyOPs **SHALL** be approved through an assured change control process, before the change is made.
 
-`POL.ITAUP.007`: Any request to perform an action on an IT system which contravenes its SyOPs **SHALL** be approved by the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk) and the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk), or the MoJ Chief Information Security Officer \(CISO\), before the action is taken.
+`POL.ITAUP.007`: Any request to perform an action on an IT system which contravenes its SyOPs **SHALL** be approved by the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk) and the [Security team](mailto:security@justice.gov.uk), or the MoJ Chief Information Security Officer \(CISO\), before the action is taken.
 
 For most Users, access to MoJ IT systems and information held on them is through a desktop device, a laptop, or a mobile or remote device. These devices have the capacity to store large amounts of potentially sensitive information assets. It is important that Users follow Information Management processes and handling guidelines to ensure information is stored and accessed appropriately. Further information on information handling is provided in the [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 
@@ -75,7 +75,7 @@ Removable storage media include devices such as USB memory sticks, writeable CDs
 
 `POL.ITAUP.010`: All Users **SHALL** ensure that all data stored on or transported by removable media is in accordance with the applicable system SyOPs.
 
-`POL.ITAUP.011`: All Users **SHALL** seek approval from the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) prior to any bulk transfer of protectively marked data using removable media. MoJ security advises on any technical and procedural requirements, such as data encryption and handling arrangements.
+`POL.ITAUP.011`: All Users **SHALL** seek approval from the [Security team](mailto:security@justice.gov.uk) prior to any bulk transfer of protectively marked data using removable media. MoJ security advises on any technical and procedural requirements, such as data encryption and handling arrangements.
 
 ### Passwords
 
@@ -135,7 +135,7 @@ Due to the risks associated with electronic communications such as email and the
 
 IT systems are designed to protect the MoJ from Internet-borne attacks, to reduce the risk of MoJ information being leaked or compromised, and to support the MoJ in providing a safe working environment. This is mainly achieved through the filtering and monitoring of all Internet and email traffic.
 
-Also, the use of any high bandwidth services, such as video streaming websites, **MIGHT** create network capacity issues, causing poor performance affecting important MoJ services. Therefore, the MoJ restricts access to the Internet, based on job role. Amendments can be made on the submissions of a business case for approval by MoJ [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk).
+Also, the use of any high bandwidth services, such as video streaming websites, **MIGHT** create network capacity issues, causing poor performance affecting important MoJ services. Therefore, the MoJ restricts access to the Internet, based on job role. Amendments can be made on the submissions of a business case for approval by the MoJ [Security team](mailto:security@justice.gov.uk).
 
 The MoJ regards as a disciplinary offence any usage of electric communications, such as email and other methods including instant messaging and the Internet, which breaks the law, contravenes MoJ HR policies, or involves unauthorised access to or handling of material that is deemed to be inappropriate, abusive, offensive, defamatory, obscene, or indecent.
 
@@ -239,7 +239,7 @@ For more information on these protocols and procedures, contact the [Data Privac
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

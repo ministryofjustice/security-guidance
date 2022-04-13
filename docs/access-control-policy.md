@@ -130,7 +130,7 @@ This subsection aligns to the principle of least access, to protect a network an
 -   Regular password change is not required, as it is an [outdated and ineffective practice](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date).
 -   `POLACP022:` Password managers or vaults used at the MoJ **SHALL** align to industry standards to securely store and transmit passwords in a protected form. Refer to [Password Managers](password-managers.md) and [Password Vaults and Managers](password-storage-and-management-guide.md).
 
-**Note:** Contact the [Cyber Assistance Team](#contact-details) if you have specialised needs when selecting or using a storage tool.
+**Note:** Contact the [Security team](#contact-details) if you have specialised needs when selecting or using a storage tool.
 
 ### Access Control to Program Source Code
 
@@ -225,20 +225,20 @@ Users are required to follow the MoJ's practices in the use of secret authentica
 ## Enforcement
 
 -   This policy is enforced by lower-level policies, standards, procedures, and guidance.
--   Non-conformance with this policy could result in disciplinary action per the department's disciplinary procedures. This could result in penalties up to and including dismissal. If an employee commits a criminal offence, they may also be prosecuted. In such cases, the department will always cooperate with the relevant authorities and provide appropriate evidence.
+-   Non-conformance with this policy could result in disciplinary action per the department's disciplinary procedures. This could result in penalties up to and including dismissal. If an employee commits a criminal offence, they may also be prosecuted. In such cases, the department will always co-operate with the relevant authorities and provide appropriate evidence.
 
 ## Incidents
 
 **Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
 
-**Operational Security Team**
+**Security Team**
 
--   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
+-   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 -   Slack: `#security`
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

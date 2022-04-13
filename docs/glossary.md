@@ -24,7 +24,7 @@ The NCSC has a comprehensive [cybersecurity glossary available on its website](h
 
 -   **Blue Team**
 
-    The internal security defence team in an organisation. Within the MoJ, this work is performed by the [Operational Security Team \(OST\)](#operational-security-team-ost).
+    The internal security defence team in an organisation. Within the MoJ, this work is performed by the [Security Team](#operational-security-team-ost).
 
 <a name="brute-force-attack"></a>
 
@@ -156,7 +156,7 @@ The NCSC has a comprehensive [cybersecurity glossary available on its website](h
 
 -   **Operational Security Team \(OST\)**
 
-    A security team within the MoJ. They help protect against cyber attacks, and help manage [incidents](#incident). Sometimes referred to as the [Blue Team](#blue-team). They can be contacted through email: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+    Deprecated name for the Security Team within the MoJ. The Security Team help protect against cyber attacks, and help manage [incidents](#incident). Sometimes referred to as the [Blue Team](#blue-team). They can be contacted through email: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 <a name="out-of-band-check"></a>
 
@@ -309,7 +309,7 @@ All members of your workplace should be happy to receive such a check. It shows 
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

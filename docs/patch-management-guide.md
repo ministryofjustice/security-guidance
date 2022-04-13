@@ -112,9 +112,9 @@ Any patches to be deployed must go through the normal change management and appr
 
 Where services and applications are developed by MoJ in-house project teams, patching and change management is addressed on a project-by-project basis. Changes are identified through awareness channels and scanning activities. These identify operational and security issues. A change management ticket must be created, detailing the change required. The project manager follows the change management process to determine how and when to implement the change, based on the security risk rating.
 
-The patch review and approval is normally managed within the project team. If assistance is required, contact the [Cyber Assistance Team](#contact-details).
+The patch review and approval is normally managed within the project team. If assistance is required, contact the [Security Team](#contact-details).
 
-If changes are urgent because a major security risk has been identified, the product, system, or service owner should ask a competent developer to investigate, and if possible create and implement a patch quickly. If the issue is more complex, Technical Architects, Security Architects and the [Cyber Assistance Team](#contact-details) might need to assist in the development of appropriate remediation plans.
+If changes are urgent because a major security risk has been identified, the product, system, or service owner should ask a competent developer to investigate, and if possible create and implement a patch quickly. If the issue is more complex, Technical Architects, Security Architects and the [Security Team](#contact-details) might need to assist in the development of appropriate remediation plans.
 
 Patches must be implemented according to the schedule in this guide. If this is not possible, the project team must provide an indication that the patch or workaround cannot be implemented within the timescale mandated for addressing the vulnerability. This delay must be escalated to the Risk Advisor team \([contact through email](#contact-details)\) for help with acceptance, transfer, mitigation or avoidance.
 
@@ -130,8 +130,7 @@ In exceptional cases where patching of systems is not possible, other mitigation
 
 ## Contact details
 
--   Contact the Cyber Assistance Team for advice on risk, scanning and patching: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
--   Contact the Operational Security Team to report a vulnerability alert, or to add a URL to the MoJ Web Check system: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk).
+Contact the Security Team for advice on risk, scanning and patching, to report a vulnerability alert, or to add a URL to the MoJ Web Check system: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

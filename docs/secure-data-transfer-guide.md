@@ -85,7 +85,7 @@ The MoJ strongly discourages the use of removable storage devices such as USB de
 
 Any data being transferred by removable media such as a USB memory stick **SHALL** be encrypted. Encrypted portable storage devices **SHALL** be password protected with a [strong password](password-management-guide.md). All passwords **SHALL** be transferred using an alternative method of communication to get to the recipient. Examples includes post, a telephone call to an agreed number, or by SMS text message.
 
-If you think you have no other option for copying or moving data, and have to use removable media, contact the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk).
+If you think you have no other option for copying or moving data, and have to use removable media, contact the [Security team](mailto:security@justice.gov.uk).
 
 Ownership of any removable media used **SHALL** be established. The removable media **SHALL** be returned to the owner on completion of the transfer. The transferred data **SHALL** be securely erased from the storage device after transfer.
 
@@ -93,7 +93,7 @@ Clear instructions of the recipient's responsibilities, and instructions on what
 
 Any accompanying message or filename **SHALL NOT** reveal the contents of the encrypted file. The sender **SHALL** check, at an appropriate time, that the transfer has been successful, and obtain a receipt. An email confirming receipt is acceptable.
 
-Report any issues to your line manager and in the case of missing or corrupt data to the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) immediately.
+Report any issues to your line manager and in the case of missing or corrupt data to the [Security team](mailto:security@justice.gov.uk) immediately.
 
 ### Data transfers by post or courier
 
@@ -143,12 +143,12 @@ For non-technology incidents, contact the MoJ Group Security Team: [mojgroupsecu
 
 Contact the Privacy Team for information on Data Protection Impact Assessments: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
 
-If you are not sure who to contact, ask the Operational Security Team:
+If you are not sure who to contact, ask the Security Team:
 
--   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
+-   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 -   Slack: `#security`
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 
