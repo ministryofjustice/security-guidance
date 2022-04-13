@@ -58,7 +58,7 @@ The following list describes what actions should **not** be undertaken when impl
 
 ✖ Allow connections between internal and external systems without carrying out security checks.
 
-✖ Allow the use of unauthorised software. Software must be approved by the MoJ. Contact the Cyber Assistance Team \(CAT\) for advice at [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+✖ Allow the use of unauthorised software. Software must be approved by the MoJ. Contact the Security team for advice at [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ✖ Allow general users to execute code on their mobile devices. Your devices should be able to:
 

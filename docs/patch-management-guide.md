@@ -86,7 +86,7 @@ Where the rating is Medium \(2\) or lower, the patch can be deferred to the next
 
 This schedule outline is considered a baseline. Some systems might require different patching schedules. These different schedules must be identified in the system's Information Risk Assessment Report \(IRAR\).
 
-An IRAR is normally completed by Security Architects and Risk Assessors, in conversation with the system architects, designers and developers. The IRAR document must also be agreed with the Business Continuity Team. For more information regarding IRARs, and how to create and maintain them, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+An IRAR is normally completed by Security Architects and Risk Assessors, in conversation with the system architects, designers and developers. The IRAR document must also be agreed with the Business Continuity Team. For more information regarding IRARs, and how to create and maintain them, contact the [Security team](mailto:security@justice.gov.uk).
 
 |Rating \(Severity\)|Infrastructure Devices; Server Applications; Digital Services|End User Client Devices|Web Check Reporting|
 |-------------------|-------------------------------------------------------------|-----------------------|-------------------|

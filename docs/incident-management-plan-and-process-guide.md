@@ -48,7 +48,7 @@ The [HMG Security Policy Framework](https://www.gov.uk/government/publications/s
 
 The policy on IT Security Incident Management is covered in [IT Security Policy - IT Incident Management Policy](it-incident-management-policy.md) while this document set outs the MoJ guidance for creating an ITSIM plan.
 
-**Note:** Previous guidance advised that this document should be read in conjunction with the CESG Good Practice Guide No. 24 \(GPG24\) – Security Incident Management. GPG24 has been withdrawn. For help with best practice in incident management, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+**Note:** Previous guidance advised that this document should be read in conjunction with the CESG Good Practice Guide No. 24 \(GPG24\) – Security Incident Management. GPG24 has been withdrawn. For help with best practice in incident management, contact the [Security team](mailto:security@justice.gov.uk).
 
 ### Aim of this guide
 

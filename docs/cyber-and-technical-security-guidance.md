@@ -49,7 +49,7 @@ The MoJ is creating a portfolio of security culture resources to help supplement
 
 -   [To report an incident](reporting-an-incident.md).
 -   For general assistance on MoJ security matters, email [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   For Cyber Security assistance or consulting, email [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk). More information about the Cyber Security Consultancy Team is [available](user-guide.md).
+-   For Cyber Security assistance or consulting, email [security@justice.gov.uk](mailto:security@justice.gov.uk). More information about the Security Team is [available](user-guide.md).
 -   Suppliers to the MoJ should first communicate with their usual MoJ points of contact.
 
 ### Background

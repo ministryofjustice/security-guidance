@@ -259,8 +259,6 @@ In practice, all sorts of things can go wrong with email from time-to-time. Don'
 
 For general assistance on MoJ security matters, email [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
-For Cyber Security assistance or consulting, email [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
-
 Suppliers to the MoJ should primarily contact your usual MoJ points of contact.
 
 ### General enquiries, including theft and loss

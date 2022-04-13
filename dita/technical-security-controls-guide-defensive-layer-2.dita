@@ -52,7 +52,7 @@
       <p>✖ Allow connections between internal and external systems without carrying out security checks.</p>
       <p>✖ Allow the use of unauthorised software.
         Software must be approved by the <ph conref="conrefs.dita#conrefs/moj"/>.
-        Contact the Cyber Assistance Team (CAT) for advice at <ph conref="conrefs.dita#conrefs/catemail"/>.</p>
+        Contact the Security team for advice at <ph conref="conrefs.dita#conrefs/securityemail"/>.</p>
       <p>✖ Allow general users to execute code on their mobile devices.
         Your devices should be able to:
         <ul>

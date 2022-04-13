@@ -33,7 +33,7 @@
           <p>Departments and Agencies must have robust and well tested policies, procedures and management arrangements in place to respond to, investigate and recover from security incidents or other disruptions to core business.</p>
         </lq>
         <p>The policy on IT Security Incident Management is covered in <xref href="it-incident-management-policy.dita" format="dita">IT Security Policy - IT Incident Management Policy</xref> while this document set outs the <ph conref="conrefs.dita#conrefs/moj"/> guidance for creating an ITSIM plan.</p>
-        <note>Previous guidance advised that this document should be read in conjunction with the CESG Good Practice Guide No. 24 (GPG24) – Security Incident Management. GPG24 has been withdrawn. For help with best practice in incident management, contact the <ph conref="conrefs.dita#conrefs/catemailtext"/>.</note>
+        <note>Previous guidance advised that this document should be read in conjunction with the CESG Good Practice Guide No. 24 (GPG24) – Security Incident Management. GPG24 has been withdrawn. For help with best practice in incident management, contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</note>
       </body>
     </topic>
     <topic id="aim-of-this-guide">

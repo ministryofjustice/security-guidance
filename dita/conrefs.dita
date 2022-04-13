@@ -23,8 +23,10 @@
 				 -->
 		<p>
 			<ph id="allstaff">This guidance applies to all staff and contractors who work for the <ph conref="#conrefs/mojlong"/>.</ph>
+			<!--
 			<ph id="catemail"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="html" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></ph>
 			<ph id="catemailtext"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="html" scope="external">Cyber Assistance Team</xref></ph>
+			-->
 			<ph id="certificatesemail"><xref href="mailto:certificates@digital.justice.gov.uk" format="html" scope="external">certificates@digital.justice.gov.uk</xref></ph>
 			<ph id="cisolong">Chief Information Security Officer (CISO)</ph>
 			<ph id="ciso">CISO</ph>
@@ -108,14 +110,14 @@
 		</p>
 		<p id="acronyms">A more extensive list of acronyms is available
 			<xref href="https://ministryofjustice.github.io/acronyms/" format="html" scope="external">here</xref>.</p>
-		<p id="contactcatbyemail">Contact the Cyber Assistance Team by email: <ph conref="#conrefs/catemail"/></p>
+		<p id="contactcatbyemail">Contact the Security team by email: <ph conref="#conrefs/securityemail"/></p>
 		<image id="intraneticon" href="images/gov-uk-logotype-crown.png"><alt>A small UK Government Crown, to indicate that the link is to the <ph conref="#conrefs/moj"/> Intranet.</alt></image>
 		<p id="irardefinition">An IRAR is normally completed by Security Architects and Risk Assessors,
             in conversation with the system architects, designers and developers.
             The IRAR document must also be agreed with the Business Continuity Team.
             For more information regarding IRARs,
             and how to create and maintain them,
-            contact the Cyber Assistance Team: <ph conref="conrefs.dita#conrefs/catemail"/>.</p>
+            contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
 		<p id="incidentmanager" audience="audience-suppliers audience-tech">Following a report,
 			incident managers should refer to the
 			<xref href="incident-management-plan-and-process-guide.dita"
@@ -169,6 +171,13 @@
 							contact <ph conref="#conrefs/securityemail"/>.</li>
 					</ul>
 				</note>
+			</body>
+	</topic>
+
+	<topic id="legacywarningshort">
+		<title>Legacy information</title>
+			<body>
+				<note>This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact the <ph conref="#conrefs/securityemailtext"/>.</note>
 			</body>
 	</topic>
 

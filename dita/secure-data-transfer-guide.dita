@@ -161,7 +161,7 @@
             <ph conref="conrefs.dita#conrefs/policymay"/> use
             <ph conref="conrefs.dita#conrefs/gsuite"/> to transfer data.</p>
             <p>For more details on the actual process for a transfer,
-              contact the <ph conref="conrefs.dita#conrefs/catemailtext"/>.</p>
+              contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
           </body>
         </topic>
         <topic id="data-transfer-by-email">

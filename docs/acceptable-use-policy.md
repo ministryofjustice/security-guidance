@@ -49,7 +49,7 @@ It is important that all Users of an IT system, including support and system adm
 
 `POL.ITAUP.006`: Any change to an IT system's SyOPs **SHALL** be approved through an assured change control process, before the change is made.
 
-`POL.ITAUP.007`: Any request to perform an action on an IT system which contravenes its SyOPs **SHALL** be approved by the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk) and the [Security team](mailto:security@justice.gov.uk), or the MoJ Chief Information Security Officer \(CISO\), before the action is taken.
+`POL.ITAUP.007`: Any request to perform an action on an IT system which contravenes its SyOPs **SHALL** be approved by the [Security team](mailto:security@justice.gov.uk) and the [Security team](mailto:security@justice.gov.uk), or the MoJ Chief Information Security Officer \(CISO\), before the action is taken.
 
 For most Users, access to MoJ IT systems and information held on them is through a desktop device, a laptop, or a mobile or remote device. These devices have the capacity to store large amounts of potentially sensitive information assets. It is important that Users follow Information Management processes and handling guidelines to ensure information is stored and accessed appropriately. Further information on information handling is provided in the [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 

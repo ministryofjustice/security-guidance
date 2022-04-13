@@ -55,7 +55,7 @@ The MoJ's preferred method of data sharing is to use Microsoft Teams via Sharepo
 
 Due to the diverse nature of the MoJ's architecture, using Teams might not always be possible. Those in the MoJ Digital and Technology team who do not have access to Microsoft Teams **MAY** use Google Workspace to transfer data.
 
-For more details on the actual process for a transfer, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+For more details on the actual process for a transfer, contact the [Security team](mailto:security@justice.gov.uk).
 
 ### Data Transfer by email
 
