@@ -42,7 +42,7 @@
     <body>
       <ol>
         <li>Maintain the active list of all active users.</li>
-        <li>Raise an incident with the <ph conref="conrefs.dita#conrefs/securityemailtext"/> and inform the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/ciso"/> when leaving Staff have not returned all <ph conref="conrefs.dita#conrefs/moj"/> assets in their possession.</li>
+        <li>Raise an incident with the <ph conref="conrefs.dita#conrefs/securityemailtext"/> when leaving Staff have not returned all <ph conref="conrefs.dita#conrefs/moj"/> assets in their possession.</li>
         <li>If anyone who has a MacBook account leaves the organisation for any reason.</li>
         <li>Retrieve the Users equipment and suspend the account.</li>
         <li>If requested by a Head of Profession, transfer user's data to a user decided on by their line manager.

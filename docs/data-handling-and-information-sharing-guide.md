@@ -90,7 +90,7 @@ If using a secure network is not feasible, the next preferred option is to use a
 
 For more information, refer to the [Removable Media](removable-media.md) guidance.
 
-The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice **SHALL** be sought from the [Security team](mailto:security@justice.gov.uk), or CISO on the best option to use when completing the DMF \(see [Data Movement Form](#data-movement-form-dmf)\).
+The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice **SHALL** be sought from the [Security team](mailto:security@justice.gov.uk) on the best option to use when completing the DMF \(see [Data Movement Form](#data-movement-form-dmf)\).
 
 ##### Optical media
 
@@ -176,7 +176,7 @@ Where there is a business requirement to do so, sensitive information may be sha
 
 #### Sharing information higher than `OFFICIAL`
 
-Where there is a business requirement to share information classified higher than `OFFICIAL`, advice **SHALL** be sought from the [Security team](mailto:security@justice.gov.uk) or CISO prior to completing a [Data Movement Form](#data-movement-form-dmf).
+Where there is a business requirement to share information classified higher than `OFFICIAL`, advice **SHALL** be sought from the [Security team](mailto:security@justice.gov.uk) prior to completing a [Data Movement Form](#data-movement-form-dmf).
 
 ## Data Movement Form \(DMF\)
 

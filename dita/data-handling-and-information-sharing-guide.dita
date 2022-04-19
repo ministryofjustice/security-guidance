@@ -205,8 +205,7 @@
               sensitivity of the data and the amount of data being transferred.
               Advice <ph conref="conrefs.dita#conrefs/policyshall"/>
               be sought from the
-              <ph conref="conrefs.dita#conrefs/securityemailtext"/>,
-              or <ph conref="conrefs.dita#conrefs/ciso"/> on the best option to
+              <ph conref="conrefs.dita#conrefs/securityemailtext"/> on the best option to
               use when completing the DMF (see
               <xref href="#data-movement-form-dmf" format="dita">Data Movement
                 Form</xref>).</p>
@@ -458,8 +457,7 @@
             higher than <ph conref="conrefs.dita#conrefs/official"/>,
             advice <ph conref="conrefs.dita#conrefs/policyshall"/>
             be sought from the
-            <ph conref="conrefs.dita#conrefs/securityemailtext"/>
-            or <ph conref="conrefs.dita#conrefs/ciso"/> prior to completing a
+            <ph conref="conrefs.dita#conrefs/securityemailtext"/> prior to completing a
             <xref href="#data-movement-form-dmf" format="dita">Data Movement
               Form</xref>.</p>
         </body>
