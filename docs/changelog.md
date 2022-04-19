@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-04-19-17:45-bst-[update-links-for-contacting-security-team.](https:-security-guidance.service.justice.gov.uk-)"></a>
+
+-   **2022-04-19 17:45 BST [Update links for contacting security team.](https://security-guidance.service.justice.gov.uk/)**
+
+    Standardise on security@justice.gov.uk email address for contacting security team.
+
 <a name="2022-04-08-10:09-bst-[add-guidance-on-secure-disposal-of-cloud-materials.](https:-security-guidance.service.justice.gov.uk-secure-disposal-of-it-public-and-private-cloud-)"></a>
 
 -   **2022-04-08 10:09 BST [Add guidance on secure disposal of cloud materials.](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-public-and-private-cloud/)**
