@@ -188,9 +188,8 @@
             <p>Any additional controls
               <ph conref="conrefs.dita#conrefs/policyshall"/> be captured on the
               DMF (refer to the <xref href="#data-movement-form-dmf" format="dita">Data Movement
-                Form</xref>, where advice should be obtained from the
-                <ph conref="conrefs.dita#conrefs/moj"/>
-                <ph conref="conrefs.dita#conrefs/cisolong"/> when required.</p>
+                Form</xref>). Advice should be obtained from the
+                <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> when required.</p>
           </body>
         </topic>
         <topic id="usb-mass-storage-device">
@@ -206,7 +205,7 @@
               Advice <ph conref="conrefs.dita#conrefs/policyshall"/>
               be sought from the
               <ph conref="conrefs.dita#conrefs/securityemailtext"/> on the best option to
-              use when completing the DMF (see
+              use when completing the DMF (refer to the
               <xref href="#data-movement-form-dmf" format="dita">Data Movement
                 Form</xref>).</p>
           </body>
@@ -411,9 +410,8 @@
             <ph conref="conrefs.dita#conrefs/policyshall"/> be undertaken with appropriate
             security controls in place,
             using the guidance from this document,
-            and seeking advice from Information Assurance and the
-            <ph conref="conrefs.dita#conrefs/moj"/>
-            <ph conref="conrefs.dita#conrefs/ciso"/> as required.</p>
+            and seeking advice from the
+            <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> as required.</p>
         </body>
         <topic id="sharing-across-an-unsecured-network">
           <title>Sharing across an unsecured network</title>

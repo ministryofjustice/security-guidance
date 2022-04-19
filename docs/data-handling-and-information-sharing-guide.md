@@ -82,7 +82,7 @@ As these networks can support data up to and including `OFFICIAL-SENSITIVE`, a b
 -   Frequency.
 -   Any "need-to-know" considerations. Refer to the [Access Control Guide](access-control-guide.md) for further information.
 
-Any additional controls **SHALL** be captured on the DMF \(refer to the [Data Movement Form](#data-movement-form-dmf), where advice should be obtained from the MoJ Chief Information Security Officer \(CISO\) when required.
+Any additional controls **SHALL** be captured on the DMF \(refer to the [Data Movement Form](#data-movement-form-dmf)\). Advice should be obtained from the MoJ [Security team](mailto:security@justice.gov.uk) when required.
 
 ##### USB mass storage device
 
@@ -90,7 +90,7 @@ If using a secure network is not feasible, the next preferred option is to use a
 
 For more information, refer to the [Removable Media](removable-media.md) guidance.
 
-The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice **SHALL** be sought from the [Security team](mailto:security@justice.gov.uk) on the best option to use when completing the DMF \(see [Data Movement Form](#data-movement-form-dmf)\).
+The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice **SHALL** be sought from the [Security team](mailto:security@justice.gov.uk) on the best option to use when completing the DMF \(refer to the [Data Movement Form](#data-movement-form-dmf)\).
 
 ##### Optical media
 
@@ -160,7 +160,7 @@ It might also be appropriate to establish a [Security Aspects Letter \(SAL\)](se
 
 Where the information is `OFFICIAL-SENSITIVE`, it **SHALL** be transferred to an assured system, assured to the same level as the data being transferred, provided by the external 3rd party, using one of the [data in transit](#data-in-transit) options.
 
-Any transfer to a 3rd party **SHALL** be undertaken with appropriate security controls in place, using the guidance from this document, and seeking advice from Information Assurance and the MoJ CISO as required.
+Any transfer to a 3rd party **SHALL** be undertaken with appropriate security controls in place, using the guidance from this document, and seeking advice from the MoJ [Security team](mailto:security@justice.gov.uk) as required.
 
 ##### Sharing across an unsecured network
 
