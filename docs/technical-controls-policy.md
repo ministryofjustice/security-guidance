@@ -48,6 +48,10 @@ To help identify formal policy statements, each is prefixed with an identifier o
 
 [Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)
 
+[Secure disposal of IT - physical and on-premise](secure-disposal-of-it-physical-and-on-premise.md)
+
+[Secure disposal of IT - public and private cloud](secure-disposal-of-it-public-and-private-cloud.md)
+
 [System Lockdown and Hardening Standard](system-lockdown-and-hardening-standard.md)
 
 [System Test Standard](system-test-standard.md)

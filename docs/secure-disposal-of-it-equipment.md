@@ -10,9 +10,19 @@ However, there are also other physical and virtual resources across the MoJ esta
 
 -   **[Secure disposal of IT - physical and on-premise](secure-disposal-of-it-physical-and-on-premise.md)**  
 
+<a name="[secure-disposal-of-it-public-and-private-cloud](secure-disposal-of-it-public-and-private-cloud.md)"></a>
+
+-   **[Secure disposal of IT - public and private cloud](secure-disposal-of-it-public-and-private-cloud.md)**  
+
 
 **Related information**  
 
+
+[Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)
+
+[Secure disposal of IT - physical and on-premise](secure-disposal-of-it-physical-and-on-premise.md)
+
+[Secure disposal of IT - public and private cloud](secure-disposal-of-it-public-and-private-cloud.md)
 
 [Technical Controls Policy](technical-controls-policy.md)
 
