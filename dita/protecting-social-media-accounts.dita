@@ -127,6 +127,14 @@
 				This change means that only people you know (your contacts) can add you to a group.</p>
 			</body>
 		</topic>
+		<topic id="sharing-pictures-online">
+			<title>Sharing pictures online</title>
+			<body>
+				<p>Before sharing pictures on social media, consider whether the picture is appropriate and necessary for the audience. Check the background for any identifiable information, such as private documents or location features that could reveal location or other confidential details.</p>
+				<p>Consider posing sensitive individuals so that their face is either not visible or cropped out. If a sensitive individual has distinctive features - for example a distinguishing tattoo or scar that could help identify them - ensure that these are not visible.</p>
+				<note>The process of blurring parts of the image is not sufficient. It is surprisingly easy for readily-available software tools to 'deblur' images. Do not rely on 'blurring' to protect image information.</note>
+			</body>
+		</topic>
 		<topic id="limit-access-to-your-accounts">
 			<title>Limit access to your accounts</title>
 			<body>

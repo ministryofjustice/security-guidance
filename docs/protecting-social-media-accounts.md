@@ -81,6 +81,14 @@ A good habit is to check your account privacy settings once a month or so. Infor
 
 For example, in WhatsApp, to prevent someone adding you a group without your knowledge, change your settings: **Settings** \> **Account** \> **Privacy** \> **Groups** \> **My Contacts**. This change means that only people you know \(your contacts\) can add you to a group.
 
+### Sharing pictures online
+
+Before sharing pictures on social media, consider whether the picture is appropriate and necessary for the audience. Check the background for any identifiable information, such as private documents or location features that could reveal location or other confidential details.
+
+Consider posing sensitive individuals so that their face is either not visible or cropped out. If a sensitive individual has distinctive features - for example a distinguishing tattoo or scar that could help identify them - ensure that these are not visible.
+
+**Note:** The process of blurring parts of the image is not sufficient. It is surprisingly easy for readily-available software tools to 'deblur' images. Do not rely on 'blurring' to protect image information.
+
 ### Limit access to your accounts
 
 You might be tempted to share access to your social media account, for example if you want to have postings regularly, even while you are away.
