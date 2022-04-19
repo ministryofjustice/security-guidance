@@ -7,7 +7,7 @@ Some MoJ IT Policy documents need you to get a review or approval from a Line Ma
 Examples include:
 
 -   [General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md).
--   [Personal Devices](personal-devices.md)[Personal device use](https://intranet.justice.gov.uk/guidance/security/it-computer-security/using-a-personal-device).
+-   [Personal Devices](personal-devices.md).
 
 This guidance describes what you should do. The guidance contains steps to follow for [Line Managers](#steps-to-follow-line-managers), and their [Direct Reports](#steps-to-follow-direct-reports).
 
@@ -23,7 +23,7 @@ This guidance describes what you should do. The guidance contains steps to follo
 6.  If they are able to follow the applicable MoJ IT Policies, send a formal approval to the DR. An email is enough for this.
 7.  If you don't think they can follow the Policies, or there's a weak business case for the request, refuse it.
 8.  Keep a copy of your formal reply, in accord with Data Retention requirements.
-9.  Some MoJ IT Policies need a copy of formal approval for other parties. For example, before your DR travels to some countries on MoJ business, send a copy of your approval to Operational Security: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk).
+9.  Some MoJ IT Policies need a copy of formal approval for other parties. For example, before your DR travels to some countries on MoJ business, send a copy of your approval to [Security team](mailto:security@justice.gov.uk).
 
 ## Steps to follow \(Direct Reports\)
 
@@ -44,7 +44,7 @@ This guidance describes what you should do. The guidance contains steps to follo
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

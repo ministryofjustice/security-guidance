@@ -328,13 +328,13 @@ All IT systems are monitored to detect non-conformance to policy and record audi
 
 `POL.TCP.071`: All IT systems **SHALL** follow the [Protective Monitoring Guide](protective-monitoring.md), where further guidance is provided.
 
-### Interface with Operational Security
+### Interface with Security
 
-The [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) \(OST\) at the MoJ is responsible for managing security incidents involving MoJ IT systems and information assets. As such, they are the primary consumer of any protective monitoring solution as it is a key feed of information and mechanism for raising security incidents.
+The MoJ [Security team](mailto:security@justice.gov.uk) is responsible for managing security incidents involving MoJ IT systems and information assets. As such, they are the primary consumer of any protective monitoring solution as it is a key feed of information and mechanism for raising security incidents.
 
-`POL.TCP.072`: All protective monitoring solutions **SHALL** provide the capability to report security incident \(or the audit and log data which can be used to generate security incidents\) to the MoJ Operational Security team.
+`POL.TCP.072`: All protective monitoring solutions **SHALL** provide the capability to report security incident \(or the audit and log data which can be used to generate security incidents\) to the MoJ [Security team](mailto:security@justice.gov.uk).
 
-`POL.TCP.073`: All IT systems **SHALL** provide their audit logs to the MoJ Operational Security Team \(OST\) upon request.
+`POL.TCP.073`: All IT systems **SHALL** provide their audit logs to the MoJ [Security team](mailto:security@justice.gov.uk) upon request.
 
 Further information on IT incident management is available in [IT Incident Management Policy](it-incident-management-policy.md).
 
@@ -462,7 +462,7 @@ Software and information processing facilities are vulnerable to the introductio
 
 `POL.TCP.103`: All imports and exports to an IT system received from an external network or via removable media must be scanned for viruses and malware prior to being loaded on that system. This includes e-mails as well as system-to-system transfers.
 
-`POL.TCP.104`: All IT systems **SHALL** have a procedure to report any virus or malware instances. As standards, this must be an alert to the User and to MoJ Operational Security \(OST\).
+`POL.TCP.104`: All IT systems **SHALL** have a procedure to report any virus or malware instances. As standard, this must be an alert to the User and to the MoJ [Security team](mailto:security@justice.gov.uk).
 
 `POL.TCP.105`: All IT systems **SHALL** refer to the [Malware Protection Guide](malware-protection-guide-introduction.md) when selecting security controls to protect against malicious code and threats from mobile code.
 
@@ -565,7 +565,7 @@ Applicable pieces of legislation may include \(but is not limited to\):
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

@@ -16,7 +16,7 @@ Passwords must be securely stored within MoJ approved storage tools. The followi
 
 Do not store sensitive information, such as passwords or credit card details, in unapproved tools. In particular, do not use "Autofill" tools to help fill in forms, unless the tools are provided and approved by the MoJ.
 
-Contact the Cyber Assistance Team \([CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)\) if you have a specialist need to use a different storage tool.
+Contact the [Security team](mailto:security@justice.gov.uk) if you have a specialist need to use a different storage tool.
 
 ## Sharing passwords
 
@@ -54,11 +54,11 @@ Some teams, particularly service development and administration, have specialise
 -   Hashicorp Vault
 -   Kubernetes Secrets
 
-For further guidance on password strength, refer to the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md). Contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk) if you have a specialised need to use a different password manager or vault.
+For further guidance on password strength, refer to the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md). Contact the [Security team](mailto:security@justice.gov.uk) if you have a specialised need to use a different password manager or vault.
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

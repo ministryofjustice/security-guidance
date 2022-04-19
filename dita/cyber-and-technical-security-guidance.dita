@@ -113,7 +113,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 				<ul>
 					<li><xref href="reporting-an-incident.dita" format="dita">To report an incident</xref>.</li>
 					<li>For general assistance on <ph conref="conrefs.dita#conrefs/moj"/> security matters, email <ph conref="conrefs.dita#conrefs/securityemail"/>.</li>
-					<li>For Cyber Security assistance or consulting, email <ph conref="conrefs.dita#conrefs/catemail"/>. More information about the Cyber Security Consultancy Team is <xref href="user-guide.dita" format="dita">available</xref>.</li>
+					<li>For Cyber Security assistance or consulting, email <ph conref="conrefs.dita#conrefs/securityemail"/>. More information about the Security Team is <xref href="user-guide.dita" format="dita">available</xref>.</li>
 					<li>Suppliers to the <ph conref="conrefs.dita#conrefs/moj"/> should first communicate with their usual <ph conref="conrefs.dita#conrefs/moj"/> points of contact.</li>
 				</ul>
 			</body>

@@ -79,7 +79,7 @@ Use `OFFICIAL-SENSITIVE` when you want to remind users to be careful when handli
 
 The threshold for classifying information as `SECRET` information is very high. It is unlikely that you will encounter `SECRET` information in your day-to-day job.
 
-`SECRET` information should not usually be handled unless you have sufficient and valid clearance. If you have gained access to information that you believe is `SECRET`, contact the Cyber Assistance Team \(CAT\) immediately: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+`SECRET` information should not usually be handled unless you have sufficient and valid clearance. If you have gained access to information that you believe is `SECRET`, contact the [Security team](mailto:security@justice.gov.uk) immediately.
 
 To help decide whether some information should be classified as `SECRET`, ask yourself a simple question:
 
@@ -91,7 +91,7 @@ The answer is most likely "No". In that case, you should consider using the `OFF
 
 If the threshold for classifying information as `SECRET` is very high, the threshold for classifying information as `TOP SECRET` is extremely high. It is very unlikely that you will encounter `TOP SECRET` information in your day-to-day job.
 
-`TOP SECRET` information should not be handled unless you have sufficient and valid clearance. If you have gained access to information that you believe is `TOP SECRET`, contact the Cyber Assistance Team \(CAT\) immediately: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+`TOP SECRET` information should not be handled unless you have sufficient and valid clearance. If you have gained access to information that you believe is `TOP SECRET`, contact the [Security team](mailto:security@justice.gov.uk) immediately.
 
 To help decide whether some information should be classified as `TOP SECRET`, ask yourself a simple question:
 
@@ -103,7 +103,7 @@ The answer is most likely "No". In that case, you should consider using the `OFF
 
 The asset owner has responsibility for reclassifying an asset. If another user has reason to believe that an asset is incorrectly classified or has an incorrect handling caveat, they should normally discuss this with the asset owner. The other user cannot unilaterally reclassify the asset.
 
-The exception is where the asset might need a higher classification than that assigned by the asset owner. The reclassification must still be communicated to the asset owner, for consistency. If it is agreed that the classification should be increased, check with the Operational Security Team \([OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)\) whether additional actions are required to protect the material.
+The exception is where the asset might need a higher classification than that assigned by the asset owner. The reclassification must still be communicated to the asset owner, for consistency. If it is agreed that the classification should be increased, check with the Security Team \([security@justice.gov.uk](mailto:security@justice.gov.uk)\) whether additional actions are required to protect the material.
 
 ## Reclassification examples
 
@@ -162,9 +162,9 @@ The following sections set out the minimum measures you need to consider when ha
 |**`PERSONNEL`**|Make sure employees and contractors undergo Security Check \(SC\).|A contractor working with the MoJ Security Team must have at least SC before being allowed to access `SECRET` information.|
 |**`PHYSICAL`**|Consider using multiple layers of security to protect `SECRET` information. `SECRET` information should be held on a secure computer network which is physically isolated from unsecured networks and the internet.|Imagine you are moving locations for a server used to host `SECRET` information. The encrypted server is secured in a locked and monitored room in 102 Petty France. You have now decided to move it to 10 South Colonnade. This should only be done after relevant parties, including the data owner, line manager, and the system owner, have reviewed and accepted the risks associated with this transfer. The transfer should then be handled by two SC-cleared individuals, for example, employees of a specialised commercial courier company.|
 ||Transferring `SECRET` information from one location to another requires planning and preparation, including the completion of a Risk Assessment and the use of SC-cleared personnel. More information on this is available in the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) and from your manager.||
-|**`TECHNICAL`**|`SECRET` information at rest should be protected with very strong encryption. Contact the MoJ Security Team for more information: [security@justice.gov.uk](mailto:security@justice.gov.uk).||
+|**`TECHNICAL`**|`SECRET` information at rest should be protected with very strong encryption. Contact the MoJ [Security team](mailto:security@justice.gov.uk) for more information.||
 ||Care should be taken to ensure that `SECRET` information in transit is only shared with defined recipient users through assured shared infrastructure or using very strong encryption.||
-||`SECRET` information should be processed on IT systems which have been approved for the `SECRET` threat model. Advice on what commercial IT systems meet this requirement is available from the MoJ Security Team: [security@justice.gov.uk](mailto:security@justice.gov.uk)||
+||`SECRET` information should be processed on IT systems which have been approved for the `SECRET` threat model. Advice on what commercial IT systems meet this requirement is available from the MoJ [Security team](mailto:security@justice.gov.uk).||
 
 **Note:** Different information security measures might be applicable throughout the information lifecycle. It is important continually to evaluate security classifications and their corresponding measures. Refer to the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) for further guidance.
 
@@ -176,9 +176,9 @@ The following sections set out the minimum measures you need to consider when ha
 |**`PHYSICAL`**|Handling and storing `TOP SECRET` information requires exceptional planning, monitoring, and record-keeping.|Imagine you are moving locations for a server used to host `TOP SECRET` information. The encrypted server is secured in a locked and continuously monitored room in 102 Petty France. You have now decided to move it to 10 South Colonnade. This should only be done after you, your manager, and senior managers have reviewed and accepted the risks associated with this transfer. The transfer should then be handled by two DV-cleared individuals, for example, employees of a specialised commercial courier company. When it happens, local police may need to be informed and involved in providing an additional layer of security.|
 ||Working remotely with `TOP SECRET` is not permitted due to the extreme sensitivity of the information.||
 ||Transferring `TOP SECRET` information from one location to another requires even greater planning and preparation than for `SECRET` information, including the completion of a Risk Assessment by senior management and the use of DV-cleared personnel. More information on this is available in the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) and from your manager.||
-|**`TECHNICAL`**|When physical security measures cannot be used, `TOP SECRET` information at rest should be protected with extremely strong encryption. Contact the MoJ Security Team in these circumstances: [security@justice.gov.uk](mailto:security@justice.gov.uk).||
+|**`TECHNICAL`**|When physical security measures cannot be used, `TOP SECRET` information at rest should be protected with extremely strong encryption. Contact the MoJ [Security team](mailto:security@justice.gov.uk) in these circumstances.||
 ||Care should be taken to ensure that `TOP SECRET` information in transit is only shared with defined recipient users through accredited shared infrastructure or using extremely strong encryption.||
-||`TOP SECRET` information should be processed on IT systems which have been approved the `TOP SECRET` threat model. Advice on what commercial IT systems meet this requirement is available from the MoJ Security Team: [security@justice.gov.uk](mailto:security@justice.gov.uk).||
+||`TOP SECRET` information should be processed on IT systems which have been approved the `TOP SECRET` threat model. Advice on what commercial IT systems meet this requirement is available from the MoJ [Security team](mailto:security@justice.gov.uk).||
 
 **Note:** Different information security measures might be applicable throughout the information lifecycle. It is important continually to evaluate security classifications and their corresponding measures. Refer to the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) for further guidance.
 
@@ -186,7 +186,7 @@ The following sections set out the minimum measures you need to consider when ha
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

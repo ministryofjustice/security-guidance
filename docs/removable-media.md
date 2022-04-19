@@ -25,7 +25,7 @@ This guidance is intended to ensure that MoJ data remains secure, and to mitigat
 
     -   [Removable media business case form](https://intranet.justice.gov.uk/documents/2015/04/removable-media-business-case-form-for-usb-sticks.doc)
     -   [Data Movement form](https://intranet.justice.gov.uk/documents/2015/04/data-movement-form.doc)
-    Additional guidance information is available about the [Data Movement form](https://intranet.justice.gov.uk/documents/2015/04/data-movement-form-guide.doc). When the form is ready, send it to: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk).
+    Additional guidance information is available about the [Data Movement form](https://intranet.justice.gov.uk/documents/2015/04/data-movement-form-guide.doc). When the form is ready, send it to: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 4.  Each request is evaluated by MoJ Operational Security, with a view to recommending the safest and most appropriate method to contain risk of loss.
 5.  Normally, you'll get a response within 5 working days.
@@ -43,7 +43,7 @@ Keeping MoJ information safe is everyone's responsibility. Anyone using portable
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 
