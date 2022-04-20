@@ -1,5 +1,9 @@
 # IASME Certification scheme
 
+This material is for organisations that want to work with the Ministry of Justice (MoJ) to provide services or share data.
+
+Specifically, the MoJ Dynamic Framework requires that all suppliers demonstrate cyber security to a level that meets or exceeds the [Information Assurance for Small and Medium Enterprises (IASME)](https://iasme.co.uk/) Governance standard.
+
 ## Certification Guide
 
 Reference material for Cyber Essentials Plus and IASME Gold.
