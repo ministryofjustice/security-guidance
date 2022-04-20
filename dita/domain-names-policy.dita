@@ -17,7 +17,7 @@
       <dl>
         <dlentry>
           <dt>Technical users</dt>
-          <dd>These are in-house <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology staff responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects, Service Owners and the <xref href="https://ministryofjustice.github.io/acronyms/" format="html" scope="external">EPICK</xref> Team.</dd>
+          <dd>These are in-house <ph conref="conrefs.dita#conrefs/moj"/> Digital and Technology staff responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects, Service Owners and the <xref href="https://ministry-of-justice-acronyms.service.justice.gov.uk/" format="html" scope="external">EPICK</xref> Team.</dd>
         </dlentry>
         <dlentry>
           <dt>Service providers</dt>
@@ -134,7 +134,7 @@
             <p><codeph>POLDOM016:</codeph> <ph conref="conrefs.dita#conrefs/moj"/> departments, ALBs and third parties <ph conref="conrefs.dita#conrefs/policyshall"/> report domain variants and domains used within the <ph conref="conrefs.dita#conrefs/moj"/> but which are not owned by the <ph conref="conrefs.dita#conrefs/moj"/>. Refer to the <xref href="#contact-details" format="dita">contact details</xref>.</p>
           </li>
         </ul>
-        <note>Contact the TVM group through the <ph conref="conrefs.dita#conrefs/ostemail"/>.</note>
+        <note>Contact the TVM team through the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</note>
         <note>Security contacts in the event of an incident are located on the <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Intranet</xref>.</note>
       </body>
     </topic>

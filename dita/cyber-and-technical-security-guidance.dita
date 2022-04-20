@@ -113,7 +113,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 				<ul>
 					<li><xref href="reporting-an-incident.dita" format="dita">To report an incident</xref>.</li>
 					<li>For general assistance on <ph conref="conrefs.dita#conrefs/moj"/> security matters, email <ph conref="conrefs.dita#conrefs/securityemail"/>.</li>
-					<li>For Cyber Security assistance or consulting, email <ph conref="conrefs.dita#conrefs/catemail"/>. More information about the Cyber Security Consultancy Team is <xref href="user-guide.dita" format="dita">available</xref>.</li>
+					<li>For Cyber Security assistance or consulting, email <ph conref="conrefs.dita#conrefs/securityemail"/>. More information about the Security Team is <xref href="user-guide.dita" format="dita">available</xref>.</li>
 					<li>Suppliers to the <ph conref="conrefs.dita#conrefs/moj"/> should first communicate with their usual <ph conref="conrefs.dita#conrefs/moj"/> points of contact.</li>
 				</ul>
 			</body>
@@ -650,6 +650,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
 				<row>
 					<entry colname="col1" align="left"><xref href="secure-disposal-of-it-physical-and-on-premise.dita" format="dita">Secure disposal of IT - physical and on-premise</xref></entry>
 					<entry colname="col2" align="right">All users</entry>
+				</row>
+				<row audience="audience-suppliers audience-tech">
+					<entry colname="col1" align="left"><xref href="secure-disposal-of-it-public-and-private-cloud.dita" format="dita">Secure disposal of IT - public and private cloud</xref></entry>
+					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 				</row>
 				<row>
 					<entry colname="col1" align="left"><xref href="working-securely-with-paper-documents-and-files.dita" format="dita">Working securely with paper documents and files</xref></entry>

@@ -47,11 +47,11 @@ Regrettably, for security reasons, redundant IT equipment **SHOULD NOT** be dona
 
 ## Leased equipment
 
-Managers **SHOULD** ensure that any equipment that is leased has a data destruction clause written into the contract. Under such an arrangement, the supplier **SHALL** ensure that data is wiped when it is returned. For an example of a data destruction clause, refer to the Modern Security Clause for formal MoJ promises \(Contracts\). This is available from the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+Managers **SHOULD** ensure that any equipment that is leased has a data destruction clause written into the contract. Under such an arrangement, the supplier **SHALL** ensure that data is wiped when it is returned. For an example of a data destruction clause, refer to the Modern Security Clause for formal MoJ promises \(Contracts\). This is available from the [Security team](mailto:security@justice.gov.uk).
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

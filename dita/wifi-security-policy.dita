@@ -124,7 +124,7 @@ Providers, as defined previously.</p>
           <p><codeph>POLWIFI026:</codeph> Where GovWifi cannot be used, or where an existing guest wifi service exists,the following <ph conref="conrefs.dita#conrefs/policymust"/> be in place:</p>
           <ul>
             <li>
-              <p>Regular rotation of the passphrase, with agreement from the <ph conref="conrefs.dita#conrefs/ostemailtext"/>. Normally, this requires a fresh and unique passphrase each day.</p>
+              <p>Regular rotation of the passphrase, with agreement from the <ph conref="conrefs.dita#conrefs/securityemailtext"/>. Normally, this requires a fresh and unique passphrase each day.</p>
             </li>
             <li>
               <p>Filtering and Monitoring for known 'bad-sites' and threats <ph conref="conrefs.dita#conrefs/policymust"/> be in place at the network level.</p>

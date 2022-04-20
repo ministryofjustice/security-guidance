@@ -9,7 +9,7 @@
       <li>Locked-down: All unnecessary or non-essential services or capabilities are switched off, or restricted to the bare minimum of functionality.</li>
       <li>Hardened: All system options and capabilities are configured for maximum possible resistance to attack or unauthorised use.</li>
     </ul>
-    <p>Specifics of the lockdown policy are covered in the <xref href="technical-controls-policy.dita#lockdown-policy" format="dita">Technical Controls Policy</xref>. This document provides more information about the implementation of the lockdown policy.</p>
+    <p>Specifics of the lockdown policy are covered in the <xref href="technical-controls-policy.dita#lockdown-policy/lockdown-policy" format="dita" platform="html">Technical Controls Policy</xref><xref href="technical-controls-policy.dita#lockdown-policy" format="dita" platform="epub pdf">Technical Controls Policy</xref>. This document provides more information about the implementation of the lockdown policy.</p>
   </body>
   <topic id="scope">
     <title>Scope</title>

@@ -90,7 +90,7 @@ If there has been any damage to any of the encryption stored at the MoJ:
 
 -   A CINRAS report must be generated and issued to: cinras@cesg.gsi.gov.uk
 
-    and a copy to the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
+    and a copy to the Security Team: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 
 -   A muster of all key variables and a check against the record of holding list undertaken and an order to CESG raised of any replacement key variables.
 -   Upon receipt of a replacement key variable emergency plans to change the key variable of the associated product must begin.

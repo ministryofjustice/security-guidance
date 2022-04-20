@@ -232,12 +232,12 @@
           based on the security risk rating.</p>
         <p>The patch review and approval is normally managed within the project team.
           If assistance is required,
-          contact the <xref href="#contact-details" format="dita">Cyber Assistance Team</xref>.</p>
+          contact the <xref href="#contact-details" format="dita">Security Team</xref>.</p>
         <p>If changes are urgent because a major security risk has been identified,
           the product, system, or service owner should ask a competent developer to investigate,
           and if possible create and implement a patch quickly.
           If the issue is more complex, Technical Architects, Security Architects
-          and the <xref href="#contact-details" format="dita">Cyber Assistance Team</xref>
+          and the <xref href="#contact-details" format="dita">Security Team</xref>
           might need to assist in the development of
           appropriate remediation plans.</p>
         <p>Patches must be implemented according to the schedule in this guide.
