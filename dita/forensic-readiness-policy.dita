@@ -132,7 +132,7 @@
             <dlentry>
               <dt>POL.FRP.009</dt>
               <dd>Any investigative action taken on an evidential item (e.g. an analysis of a hard drive) <b>must be</b> captured and recorded. This record <b>must include</b> details of the action taken and the person responsible for undertaking that action.
-                Responsibility for the integrity of evidence resides with the Forensic Investigation Owner and <ph conref="conrefs.dita#conrefs/moj"/> Operational Security Team (OST).
+                Responsibility for the integrity of evidence resides with the Forensic Investigation Owner and the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/>.
                 In addition, responsibility for any evidence captured, by or passed to an external forensic provider at the start of an investigation, resides with the <ph conref="conrefs.dita#conrefs/moj"/> and the Forensic Investigation Owner.</dd>
             </dlentry>
             <dlentry>

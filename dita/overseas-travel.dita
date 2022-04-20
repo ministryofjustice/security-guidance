@@ -4,7 +4,7 @@
   <title>Overseas travel</title>
   <body>
     <p><b>If you are going on a work trip or holiday overseas and you need to take your <ph conref="conrefs.dita#conrefs/mojlong"/> IT devices, you must remain vigilant especially when visiting high risk countries.</b></p>
-    <p>As a government worker with access to sensitive information, you are at risk from espionage, intellectual property theft and a range of other threats from hostile third parties as well as foreign intelligence services. These risks can increase when you are overseas, as detailed in the <ph id="overseas-travel-guide"><ph platform="html"><ph platform="github"><xref href="file:///./gs/overseas-travel-guide-v1-4-dec-2021.docx" scope="external" format="docx">Overseas Travel Guide</xref></ph><ph platform="intranet"><xref href="https://security-guidance.service.justice.gov.uk/gs/overseas-travel-guide-v1-4-dec-2021.docx" scope="external" format="docx">Overseas Travel Guide</xref></ph></ph><ph platform="epub pdf"><xref href="https://security-guidance.service.justice.gov.uk/gs/overseas-travel-guide-v1-4-dec-2021.docx" scope="external" format="docx"><ph conref="conrefs.dita#conrefs/moj"/> Overseas Travel Guide</xref></ph></ph>.</p>
+    <p>As a government worker with access to sensitive information, you are at risk from espionage, intellectual property theft and a range of other threats from hostile third parties as well as foreign intelligence services. These risks can increase when you are overseas, as detailed in the <ph id="overseas-travel-guide"><ph platform="html"><ph platform="github"><xref href="file:///./gs/overseas-travel-guide-v1-5-apr-2022.docx" scope="external" format="docx">Overseas Travel Guide</xref></ph><ph platform="intranet"><xref href="https://security-guidance.service.justice.gov.uk/gs/overseas-travel-guide-v1-5-apr-2022.docx" scope="external" format="docx">Overseas Travel Guide</xref></ph></ph><ph platform="epub pdf"><xref href="https://security-guidance.service.justice.gov.uk/gs/overseas-travel-guide-v1-5-apr-2022.docx" scope="external" format="docx"><ph conref="conrefs.dita#conrefs/moj"/> Overseas Travel Guide</xref></ph></ph>.</p>
     <p>Before you travel on business, you must seek approval from your Senior Line Manager. You must also inform the security team fifteen days before either a holiday or business trip if you are travelling to or through high-risk countries.</p>
     <p>If you are subject to a STRAP briefing you must notify the security team of your intended travel to or through any country (excluding countries in Western Europe, North America, Australia or New Zealand).</p>
     <p>The <ph conref="#overseas-travel/overseas-travel-guide"/> provides detailed guidance before you travel.</p>
@@ -42,7 +42,6 @@
       <ul>
         <li><ph conref="conrefs.dita#conrefs/securityemail"/></li>
         <li><ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/></li>
-        <li><ph conref="conrefs.dita#conrefs/ostemail"/></li>
       </ul>
     </body>
   </topic>

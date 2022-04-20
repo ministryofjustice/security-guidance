@@ -224,7 +224,7 @@ Examples of these extra mechanisms include:
 
 Never store, display or print passwords [in the clear](https://en.wikipedia.org/wiki/Plaintext). If you need to store them, do so by using [salted](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet#Use_a_cryptographically_strong_credential-specific_salt) [hashes](https://en.wikipedia.org/wiki/Hash_function).
 
-Ensure the password storage security matches the [classification](government-classification-scheme.md) of the system or data. For help with the appropriate strength of hashing, contact the Cyber consulting team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk), or the security team: [security@justice.gov.uk](mailto:security@justice.gov.uk)
+Ensure the password storage security matches the [classification](government-classification-scheme.md) of the system or data. For help with the appropriate strength of hashing, contact the [Security team](mailto:security@justice.gov.uk).
 
 Extra information on handling and protecting passwords is in the [Password Storage and Management](password-storage-and-management-guide.md) guide.
 
@@ -291,7 +291,7 @@ For more information, refer to the [Account management](account-management.md) g
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

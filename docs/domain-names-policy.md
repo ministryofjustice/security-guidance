@@ -14,7 +14,7 @@ This policy is aimed at:
 
 -   **Technical users**
 
-    These are in-house MoJ Digital and Technology staff responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects, Service Owners and the [EPICK](https://ministryofjustice.github.io/acronyms/) Team.
+    These are in-house MoJ Digital and Technology staff responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects, Service Owners and the [EPICK](https://ministry-of-justice-acronyms.service.justice.gov.uk/) Team.
 
 <a name="service-providers"></a>
 
@@ -96,7 +96,7 @@ This policy's statement elements are outlined as follows:
 -   `POLDOM016:` MoJ departments, ALBs and third parties **SHALL** report domain variants and domains used within the MoJ but which are not owned by the MoJ. Refer to the [contact details](#contact-details).
 
 
-**Note:** Contact the TVM group through the [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk).
+**Note:** Contact the TVM team through the [Security team](mailto:security@justice.gov.uk).
 
 **Note:** Security contacts in the event of an incident are located on the [MoJ Intranet](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/).
 
@@ -148,12 +148,12 @@ For non-technology incidents, contact the MoJ Group Security Team: [mojgroupsecu
 
 Contact the Privacy Team for information on Data Protection Impact Assessments: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
 
-If you are not sure who to contact, ask the Operational Security Team:
+If you are not sure who to contact, ask the Security Team:
 
--   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
+-   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 -   Slack: `#security`
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

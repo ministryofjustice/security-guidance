@@ -27,7 +27,7 @@ The policy on data handling and information sharing is covered in the [Informati
 
 This document provides guidance on handling or sharing information stored on MoJ IT systems, or exchanged electronically within the MoJ, or with external parties.
 
-The MoJ [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk) can help you with more guidance on the handling of protectively marked data.
+The MoJ [Security team](mailto:security@justice.gov.uk) can help you with more guidance on the handling of protectively marked data.
 
 This guide is split into three sections:
 
@@ -35,7 +35,7 @@ This guide is split into three sections:
 -   [Information sharing](#information-sharing).
 -   [Reporting data loss](#reporting-data-loss).
 
-**Note:** This document provides guidance for handling and sharing of information and data up to and including `OFFICIAL` and `OFFICIAL-SENSITIVE`, or the older Impact Level \(IL\) 3. Where information attracts a high protective marking or IL, advice **SHALL** be sought from the MoJ [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) and the MoJ Chief Information Security Officer \(CISO\).
+**Note:** This document provides guidance for handling and sharing of information and data up to and including `OFFICIAL` and `OFFICIAL-SENSITIVE`, or the older Impact Level \(IL\) 3. Where information attracts a high protective marking or IL, advice **SHALL** be sought from the MoJ [Security team](mailto:security@justice.gov.uk) and the MoJ Chief Information Security Officer \(CISO\).
 
 ### Demonstration of Compliance
 
@@ -82,7 +82,7 @@ As these networks can support data up to and including `OFFICIAL-SENSITIVE`, a b
 -   Frequency.
 -   Any "need-to-know" considerations. Refer to the [Access Control Guide](access-control-guide.md) for further information.
 
-Any additional controls **SHALL** be captured on the DMF \(refer to the [Data Movement Form](#data-movement-form-dmf), where advice should be obtained from the MoJ Chief Information Security Officer \(CISO\) when required.
+Any additional controls **SHALL** be captured on the DMF \(refer to the [Data Movement Form](#data-movement-form-dmf)\). Advice should be obtained from the MoJ [Security team](mailto:security@justice.gov.uk) when required.
 
 ##### USB mass storage device
 
@@ -90,7 +90,7 @@ If using a secure network is not feasible, the next preferred option is to use a
 
 For more information, refer to the [Removable Media](removable-media.md) guidance.
 
-The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice **SHALL** be sought from the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk), or CISO on the best option to use when completing the DMF \(see [Data Movement Form](#data-movement-form-dmf)\).
+The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice **SHALL** be sought from the [Security team](mailto:security@justice.gov.uk) on the best option to use when completing the DMF \(refer to the [Data Movement Form](#data-movement-form-dmf)\).
 
 ##### Optical media
 
@@ -160,7 +160,7 @@ It might also be appropriate to establish a [Security Aspects Letter \(SAL\)](se
 
 Where the information is `OFFICIAL-SENSITIVE`, it **SHALL** be transferred to an assured system, assured to the same level as the data being transferred, provided by the external 3rd party, using one of the [data in transit](#data-in-transit) options.
 
-Any transfer to a 3rd party **SHALL** be undertaken with appropriate security controls in place, using the guidance from this document, and seeking advice from Information Assurance and the MoJ CISO as required.
+Any transfer to a 3rd party **SHALL** be undertaken with appropriate security controls in place, using the guidance from this document, and seeking advice from the MoJ [Security team](mailto:security@justice.gov.uk) as required.
 
 ##### Sharing across an unsecured network
 
@@ -176,7 +176,7 @@ Where there is a business requirement to do so, sensitive information may be sha
 
 #### Sharing information higher than `OFFICIAL`
 
-Where there is a business requirement to share information classified higher than `OFFICIAL`, advice **SHALL** be sought from the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk) or CISO prior to completing a [Data Movement Form](#data-movement-form-dmf).
+Where there is a business requirement to share information classified higher than `OFFICIAL`, advice **SHALL** be sought from the [Security team](mailto:security@justice.gov.uk) prior to completing a [Data Movement Form](#data-movement-form-dmf).
 
 ## Data Movement Form \(DMF\)
 
@@ -186,21 +186,21 @@ The purpose of the DMF is to ensure that the movement of information assets is s
 
 Failure to fulfil or comply with the controls and measures identified within the DMF will lead to unnecessary risk or exposure for the MoJ, or the relevant Information Asset Owner \(IAO\), or the Senior Information Risk Owner \(SIRO\).
 
-A DMF **SHALL** be completed, and approval received from the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk), for the following scenarios:
+A DMF **SHALL** be completed, and approval received from the [Security team](mailto:security@justice.gov.uk), for the following scenarios:
 
 -   Data is being moved or shared by using a physical storage device to transfer the information. An example is where you use a "memory stick", a USB drive, a storage array, or some other removable media. The DMF in this scenario focuses on the data being moved or shared.
 -   Data is being moved or shared by electronic \(network\) communication, where the movement is from an MoJ IT system to an external party. An example is using secure file transfer or approved email to transfer the information. The DMF in this scenario focuses on the data being moved or shared.
 -   An asset \(a "data bearing asset"\) is being moved to, or transported by, an external party. This might be as a result of an office move, or because the asset is being decommissioned. The asset might contain or process MoJ information. Examples of data bearing assets include laptops, servers, multi-functional devices, and any other data bearing peripherals. The DMF in this scenario focuses on the asset being moved or transported, rather than the MoJ information that the asset might contain or process.
 
-A DMF **SHALL** be submitted to the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) for information purposes, in the following scenarios:
+A DMF **SHALL** be submitted to the [Security team](mailto:security@justice.gov.uk) for information purposes, in the following scenarios:
 
 -   Data is being moved or shared by electronic \(network\) communication, where the movement is entirely within or between MoJ IT systems.
 -   Data is being moved in full compliance with the already-approved service design and operation specification and procedures.
 -   An asset \(a "data bearing asset"\) is being moved but remains within the MoJ or its supplier-provided and MoJ-approved facilities at all times.
 
-**Note:** In the informational scenarios, a DMF is only expected the first time a data movement or sharing takes place. Subsequent, repeat instances of the movement or sharing, do not require a re-submission of the DMF. For example, when setting up a backup process as part of an approved service design, a DMF is created and submitted to the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) for information purposes, but does not need to be re-created or re-submitted for each backup occurrence. If the implementation or process for the data movement or sharing changes, for example a new new backup technology or process is deployed, then a fresh informational DMF is required.
+**Note:** In the informational scenarios, a DMF is only expected the first time a data movement or sharing takes place. Subsequent, repeat instances of the movement or sharing, do not require a re-submission of the DMF. For example, when setting up a backup process as part of an approved service design, a DMF is created and submitted to the [Security team](mailto:security@justice.gov.uk) for information purposes, but does not need to be re-created or re-submitted for each backup occurrence. If the implementation or process for the data movement or sharing changes, for example a new new backup technology or process is deployed, then a fresh informational DMF is required.
 
-In any case of doubt, it is always advisable to complete a DMF and await approval or other feedback from the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk).
+In any case of doubt, it is always advisable to complete a DMF and await approval or other feedback from the [Security team](mailto:security@justice.gov.uk).
 
 ## Using SecureZIP
 

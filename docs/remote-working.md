@@ -150,9 +150,9 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 **Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
 
-**Operational Security Team**
+**Security Team**
 
--   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
+-   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 -   Slack: `#security`
 
 ### Privacy Advice

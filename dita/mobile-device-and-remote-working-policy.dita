@@ -133,7 +133,7 @@
           devices should be physically locked away.
           If this is not possible,
           approved locks should be used to secure the devices.
-        Contact the Group Security (<ph conref="conrefs.dita#conrefs/groupsecurityemail"/>) or Operational Security (<ph conref="conrefs.dita#conrefs/ostemail"/>) teams for advice and guidance on suitable locking technologies.</p>
+        Contact the Group Security (<ph conref="conrefs.dita#conrefs/groupsecurityemail"/>) or Security (<ph conref="conrefs.dita#conrefs/securityemail"/>) teams for advice and guidance on suitable locking technologies.</p>
         <note>The difference between this policy statement and <xref href="#theft-or-loss/polmob007" format="dita"><codeph>POLMOB007</codeph></xref> is that
           <codeph>POLMOB007</codeph> refers to protecting assets against theft or loss (which is easily detected),
         whereas <codeph>POLMOB009</codeph> refers to protecting assets against unauthorised observation or copying,
@@ -148,7 +148,7 @@
         <p>Exceptions are possible on a case-by-case basis,
           for example to accommodate Accessibility requirements.
           To discuss whether you have a case for exemption,
-          <xref href="#contact-details" format="dita">contact the Cyber Assistance Team</xref> in the first instance,
+          <xref href="#contact-details" format="dita">contact the Security team</xref> in the first instance,
           <i>before</i> using a personal device for work purposes.
         If an exception is permitted,
       use of the personal device <ph conref="conrefs.dita#conrefs/policyshall"/> be in compliance with
