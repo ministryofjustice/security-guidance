@@ -1,6 +1,6 @@
 # IASME templates
 
-(Return to [IASME Certification Guide](..).)
+(Return to [IASME Certification information](..).)
 
 - [Acceptable Use Policy TEMPLATE](Acceptable_Use_Policy_TEMPLATE_V1.docx)
 - [Acquisition of New Software or Hardware Policy TEMPLATE](Acquisition_of_New_Software_or_Hardware_Policy_TEMPLATE_V1.docx)
@@ -27,3 +27,12 @@
 - [Social Media Policy TEMPLATE](Social_Media_Policy_TEMPLATE_V1.docx)
 - [User Access Control Policy TEMPLATE](User_Access_Control_Policy_TEMPLATE_V1.odt)
 - [Virus and Malware Prevention Policy TEMPLATE](Virus_and_Malware_Prevention_Policy_TEMPLATE_V1.docx)
+
+## Contact details
+
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+
+## Feedback
+
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+
