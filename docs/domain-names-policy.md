@@ -46,7 +46,7 @@ This policy aligns to industry standards and frameworks and is divided into two 
 
 Effective domain name registration encompasses the following five principles, which include:
 
--   `POLDOM001:` The MoJ **SHALL** secure domain name management aligning this to its [Cyber security guidance](https://security-guidance.service.justice.gov.uk/), specifically [multi-factor authentication](access-control-policy.md#) \(MFA\), [least privilege](access-control-policy.md#) and [review of user access rights](access-control-policy.md#).
+-   `POLDOM001:` The MoJ **SHALL** secure domain name management aligning this to its [Cyber security guidance](https://security-guidance.service.justice.gov.uk/), specifically [multi-factor authentication](user-access-control-policy.md#) \(MFA\), [least privilege](user-access-control-policy.md#) and [review of user access rights](user-access-control-policy.md#).
 
 -   `POLDOM002:` The MoJ **SHALL** manage domain name portfolio growth, that is, their inherent value, before assessing their expiration.
 

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="device-access-control-policy">
+  <title>Device Access Control Policy</title>
+  <body>
+    <p>This policy gives an overview of device access control security principles and responsibilities within the <ph conref="conrefs.dita#conrefs/mojlong"/>.
+      It provides a summary of the policies and guides that apply to <ph conref="conrefs.dita#conrefs/moj"/> device access management.</p>
+    <p>To help identify formal policy statements,
+      each is prefixed with an identifier of the form:
+      <codeph>POLDACPxxx</codeph>,
+      where xxx is a unique ID number.</p>
+    <note>For the purposes of this policy, "network" or "networks" refers to <ph conref="conrefs.dita#conrefs/moj"/> protected networks.</note>
+  </body>
+  <topic id="audience" conref="user-access-control-policy.dita#audience"><title/></topic>
+  <topic id="policy-sections">
+    <title>Policy Sections</title>
+    <body>
+      <p>This policy aligns to industry standards and frameworks, and is divided into three security categories (and subsections describing the controls) addressing:
+      <ol>
+        <li>Business Requirements of Device Access Controls.</li>
+        <li>Relevant Device Controls.</li>
+        <li>Device Access Control Management.</li>
+      </ol></p>
+    </body>
+  </topic>
+  <topic id="best-practice-framework---iaaa">
+    <title>Best Practice Framework - IAAA</title>
+    <body>
+      <p>Identification, Authentication, Authorisation, and Accounting (IAAA) are the core principles of an Access Control Policy. The principles apply to all security categories described in this policy, as follows:
+        <dl>
+          <dlentry>
+            <dt>Identification</dt>
+            <dd><codeph>POLDACP001:</codeph> Devices <ph conref="conrefs.dita#conrefs/policymust"/> provide a unique ID that is presented on access to networks.</dd>
+          </dlentry>
+          <dlentry>
+            <dt>Authentication</dt>
+            <dd><codeph>POLDACP002:</codeph> To access <ph conref="conrefs.dita#conrefs/moj"/> networks,
+              devices <ph conref="conrefs.dita#conrefs/policymust"/> be authenticated.</dd>
+          </dlentry>
+          <dlentry>
+            <dt>Authorisation</dt>
+            <dd><codeph>POLDACP003:</codeph> Specifying access rights to devices <ph conref="conrefs.dita#conrefs/policymust"/> be in accordance with the <xref href="#device-access-provisioning" format="dita">Device Access Provisioning</xref> guidance.</dd>
+          </dlentry>
+          <dlentry>
+            <dt>Accounting</dt>
+            <dd><codeph>POLDACP004:</codeph> Successful and unsuccessful device attempts to access networks <ph conref="conrefs.dita#conrefs/policymust"/> be recorded in logs.</dd>
+          </dlentry>
+        </dl></p>
+        <note conref="user-access-control-policy.dita#best-practice-framework---iaaa/risk-register"/>
+    </body>
+  </topic>
+  <topic id="business-requirements-of-device-access-control">
+    <title>Business Requirements of Device Access Control</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s business or strategic requirements are to control, limit, and manage access to <ph conref="conrefs.dita#conrefs/moj"/> networks as described in the following subsections.</p>
+    </body>
+    <topic id="device-access-control-policy-1">
+      <title>Device Access Control Policy</title>
+      <body>
+        <p><codeph>POLDACP005:</codeph> This device access control policy <ph conref="conrefs.dita#conrefs/policymust"/> be established and maintained, based on business and information security requirements, to inform associated standards, configurations, and guidance, for all devices.</p>
+        <p><codeph>POLDACP006:</codeph> The policy <ph conref="conrefs.dita#conrefs/policymust"/> also follow the additional principles of:
+          <ul>
+            <li>"Need-to-know".</li>
+            <li>Least privilege.</li>
+            <li>Device Access Control.</li>
+          </ul></p>
+      </body>
+    </topic>
+    <topic id="access-to-protected-networks">
+      <title>Access to Protected Networks</title>
+      <body>
+        <p>This subsection aligns to the principle of least access, to protect a network which is covered in other areas of this policy, specifically:
+        <ul>
+          <li>Authorisation procedures for showing which device is allowed to access  which network.</li>
+          <li>Management controls and procedures to prevent access and provision of real-time monitoring.</li>
+        </ul></p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="device-access-control">
+    <title>Device Access Control</title>
+    <body>
+      <p><codeph>POLDACP007:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> strive to prevent unauthorised access by devices to networks, as described in the following subsections.</p>
+    </body>
+    <topic id="authentication-procedures">
+      <title>Authentication Procedures</title>
+      <body>
+        <p><codeph>POLDACP008:</codeph> Where required by the access control policy, device access to networks <ph conref="conrefs.dita#conrefs/policyshall"/> be controlled by a secure device authentication procedure.</p>
+        <p><codeph>POLDACP009:</codeph> Multiple devices <ph conref="conrefs.dita#conrefs/policyshallnot"/> share the same authentication certificate.</p>
+      </body>
+    </topic>
+    <topic id="credential-management-system">
+      <title>Credential Management System</title>
+      <body>
+        <p><codeph>POLDACP010:</codeph> Device credentials <ph conref="conrefs.dita#conrefs/policyshall"/> expire after a period of time.</p>
+        <p><codeph>POLDACP011:</codeph> The maximum allowable lifetime for a device certificate <ph conref="conrefs.dita#conrefs/policyshall"/> be defined.</p>
+        <p><codeph>POLDACP012:</codeph> If credentials expire or are revoked, access <ph conref="conrefs.dita#conrefs/policyshall"/> be disallowed until new credentials are obtained.<note>By exception, a device <ph conref="conrefs.dita#conrefs/policymay"/> be allowed to connect in order to renew credentials.</note></p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="device-access-management">
+    <title>Device Access Management</title>
+    <body>
+      <p>Device access management ensures authorised device access and prevents unauthorised access to networks. These are described in the following subsections.</p>
+    </body>
+    <topic id="device-registration-and-de-registration">
+      <title>Device Registration and de-registration</title>
+      <body>
+        <p><codeph>POLDACP013:</codeph> A formal device registration and de-registration process <ph conref="conrefs.dita#conrefs/policyshall"/> be implemented to enable device access.</p>
+      </body>
+    </topic>
+    <topic id="device-access-provisioning">
+      <title>Device Access Provisioning</title>
+      <body>
+        <p><codeph>POLDACP014:</codeph> A formal device access provisioning process <ph conref="conrefs.dita#conrefs/policyshall"/> be implemented to assign or revoke access rights for all devices to all networks.</p>
+        <p>Specifically, for the <ph conref="conrefs.dita#conrefs/moj"/>, this includes:
+        <ul>
+          <li><codeph>POLDACP015:</codeph> All <ph conref="conrefs.dita#conrefs/moj"/> network access <ph conref="conrefs.dita#conrefs/policyshall"/> employ adequate authentication techniques to identify the connecting device with confidence, where that device requires access to <ph conref="conrefs.dita#conrefs/moj"/> networks. Refer to the <xref href="authentication.dita" format="dita">Authentication</xref> guidance.</li>
+          <li><codeph>POLDACP016:</codeph> Administrators <ph conref="conrefs.dita#conrefs/policyshall"/> maintain the device access service, with failure to manage successfully leading to potential compromise of the network.<note>Administrators consist of all those involved in the provision of the device, or network services and capabilities, including third parties contracted to the <ph conref="conrefs.dita#conrefs/moj"/> such as Service Providers.</note></li>
+          <li><codeph>POLDACP017:</codeph> Administrators <ph conref="conrefs.dita#conrefs/policyshall"/> maintain an active list of all active and suspended devices, and maintain their access control to networks.</li>
+          <li><codeph>POLDACP018:</codeph> Access provisioning <ph conref="conrefs.dita#conrefs/policyshall"/> be implemented, adjusted, and revoked as described in associated Device Provisioning Guides for each class of network subject to access control under this Policy.</li>
+        </ul></p>
+      </body>
+    </topic>
+    <topic id="management-of-device-certificates">
+      <title>Management of Device Certificates</title>
+      <body>
+        <p><codeph>POLDACP019:</codeph> The allocation of certificates <ph conref="conrefs.dita#conrefs/policyshall"/> be controlled through a formal management process.</p>
+      </body>
+    </topic>
+    <topic id="removal-or-adjustment-of-device-access-rights">
+      <title>Removal or Adjustment of Device Access Rights</title>
+      <body>
+        <p>The removal or adjustment of device access rights is covered in this policy under <xref href="#device-access-provisioning" format="dita">Device Access Provisioning</xref>.</p>
+      </body>
+    </topic>
+  </topic>
+  <topic id="enforcement" conref="user-access-control-policy.dita#enforcement"><title/></topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

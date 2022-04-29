@@ -132,8 +132,11 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="access-control-guide.dita" type="topic" audience="audience-suppliers audience-tech">
 				<topicref href="privileged-account-management-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			</topicref>
-			<topicref href="access-control-policy.dita" type="topic" audience="audience-suppliers audience-tech"/>
-			<topicref href="enterprise-access-control-policy.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="access-control-policy.dita" type="topic" audience="audience-suppliers audience-tech">
+				<topicref href="device-access-control-policy.dita" type="topic"/>
+				<topicref href="enterprise-access-control-policy.dita" type="topic"/>
+				<topicref href="user-access-control-policy.dita" type="topic"/>
+			</topicref>
 		</topichead>
 		<topichead audience="audience-suppliers audience-tech">
 			<topicmeta audience="audience-suppliers audience-tech"><navtitle>User access management</navtitle></topicmeta>
@@ -583,6 +586,33 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="email-blocklist-process.dita"/>
 				<topicref href="secure-email-transfer-guide.dita"/>
 				<topicref href="spam-and-phishing-guide.dita"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="device-access-control-policy.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="enterprise-access-control-policy.dita"/>
+				<topicref href="user-access-control-policy.dita"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="enterprise-access-control-policy.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="device-access-control-policy.dita"/>
+				<topicref href="user-access-control-policy.dita"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="user-access-control-policy.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="device-access-control-policy.dita"/>
+				<topicref href="enterprise-access-control-policy.dita"/>
 			</relcell>
 		</relrow>
 	</reltable>

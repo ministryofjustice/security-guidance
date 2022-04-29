@@ -4,6 +4,15 @@ All Ministry of Justice \(MoJ\) staff \(including contractors and agency staff\)
 
 Access control mechanisms provide the ability for MoJ IT systems to control the levels of access granted to an individual User or defined groups of individual Users. This section outlines the process for managing User access to MoJ IT systems starting from when a User is initially registered through to the revocation of access rights and removal of their User account.
 
+**Parent topic:** [Access Control Policy](access-control-policy.md)
+
+**Related information**  
+
+
+[Device Access Control Policy](device-access-control-policy.md)
+
+[User Access Control Policy](user-access-control-policy.md)
+
 ## Legacy information
 
 **Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
