@@ -50,13 +50,13 @@ These requirements are defined and required by legislation, regulation such as t
 
 ## Protecting log files and log data
 
-Default permissions must be set on logging and monitoring systems such that only ops staff for that service, and the MoJ's security operations team \([OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)\), have access to the data in them. All access to the raw logging and monitoring data must also be logged.
+Default permissions must be set on logging and monitoring systems such that only ops staff for that service, and the MoJ's Security team \([security@justice.gov.uk](mailto:security@justice.gov.uk)\), have access to the data in them. All access to the raw logging and monitoring data must also be logged.
 
 Bulk exporting from such logging systems is prohibited by default. Where analysis is required using sensitive logs, it must be performed "in-situ". Bulk exporting should be prevented by default, using technical or other access controls where possible. If a bulk extract from a logging system is required, for example, into a more complex analytical system or as part of a wider migration, this requires the prior approval of the MoJ CISO.
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

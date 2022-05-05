@@ -48,7 +48,7 @@
             Ensure that the permission is no more than 12 months old.
             To request or refresh permission,
             ask your Line Manager to seek approval by checking with
-          the <ph conref="conrefs.dita#conrefs/ostemailtext"/>.</li>
+          the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</li>
       </ul>
       <note>You are not asked or required to use your own devices for work purposes.
         If you have access to <ph conref="conrefs.dita#conrefs/moj"/> devices for work purposes,

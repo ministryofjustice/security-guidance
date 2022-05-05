@@ -27,7 +27,7 @@ The aim is to help you maintain the Confidentiality, Integrity and Availability 
 
 Some types of Bluetooth devices are not allowed, by default. However, where there is a good reason for requiring a Bluetooth device, such as for Accessibility reasons, then a request for an exception to use the device will be treated sympathetically and permitted wherever possible.
 
-Contact the Cyber Assistance Team by email: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
+Contact the Security team by email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 
 ## Bluetooth devices and risks
 
@@ -96,7 +96,7 @@ Generally speaking, Bluetooth devices do not present extra problems when working
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

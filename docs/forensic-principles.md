@@ -20,7 +20,7 @@ The [Forensic Readiness Policy](forensic-readiness-policy.md) states the Ministr
 
 ## People and resources
 
-The MoJ Operational Security Team \(OST\) is responsible for the IT Security Incident Management Process and charged with responding to all IT security incidents. The team can be contacted by email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk).
+The MoJ [Security team](mailto:security@justice.gov.uk) is responsible for the IT Security Incident Management Process and charged with responding to all IT security incidents. The team can be contacted by email: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 The MoJ intends to use a mix of internal and external resources to ensure that its forensic investigation capability can quickly and efficiently react to potentially incidents thereby minimising disruption to business.
 
@@ -32,7 +32,7 @@ The [IT Incident Management Policy](it-incident-management-policy.md) sets out t
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

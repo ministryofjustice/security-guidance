@@ -120,11 +120,11 @@ Providers, as defined previously.</p>
         <body>
           <p>Due to complexities and management effort involved in running wifi solutions, the <ph conref="conrefs.dita#conrefs/moj"/> preference is to utilise the cross-Government GovWifi service: <xref href="https://www.wifi.service.gov.uk/" format="html" scope="external">https://www.wifi.service.gov.uk/</xref>.</p>
           <p>This also has the benefit of being available across HMG Departments and Agencies. GovWifi has a level of pre-registration, monitoring and filtering in place to protect the users. However, GovWifi does not provide enterprise level security functions. GovWifi users are required to maintain their own security controls. For <ph conref="conrefs.dita#conrefs/moj"/> users of GovWifi connections, this means using the <ph conref="conrefs.dita#conrefs/moj"/>-provided VPN services when accessing protected <ph conref="conrefs.dita#conrefs/moj"/> services.</p>
-          <p><codeph>POLWIFI025:</codeph> Any considerations for not using GovWifi in an <ph conref="conrefs.dita#conrefs/moj"/> guest WiFi network <ph conref="conrefs.dita#conrefs/policymust"/> be discussed and agreed beforehand with the cyber security team.</p>
+          <p><codeph>POLWIFI025:</codeph> Any considerations for not using GovWifi in an <ph conref="conrefs.dita#conrefs/moj"/> guest wifi network <ph conref="conrefs.dita#conrefs/policymust"/> be discussed and agreed beforehand with the cyber security team.</p>
           <p><codeph>POLWIFI026:</codeph> Where GovWifi cannot be used, or where an existing guest wifi service exists,the following <ph conref="conrefs.dita#conrefs/policymust"/> be in place:</p>
           <ul>
             <li>
-              <p>Regular rotation of the passphrase, with agreement from the <ph conref="conrefs.dita#conrefs/ostemailtext"/>. Normally, this requires a fresh and unique passphrase each day.</p>
+              <p>Regular rotation of the passphrase, with agreement from the <ph conref="conrefs.dita#conrefs/securityemailtext"/>. Normally, this requires a fresh and unique passphrase each day.</p>
             </li>
             <li>
               <p>Filtering and Monitoring for known 'bad-sites' and threats <ph conref="conrefs.dita#conrefs/policymust"/> be in place at the network level.</p>

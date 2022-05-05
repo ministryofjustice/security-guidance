@@ -62,6 +62,26 @@ This type of phishing attack targets high level staff to steal money or reveal s
 
 This is a very sophisticated supply chain attack. It uses research from an organisation's frequently used websites to identify a target. Targeted websites are then compromised and infected with malware. When users visit the websites, the malware downloads onto their systems. These are sophisticated attacks. The user is visiting an official and legitimate website. It is the website itself that has been compromised.
 
+##QR codes
+
+Quick response codes (QR Codes) are a form of matrix (two-dimensional) barcode. They are machine-readable links. A QR code reader on a mobile device sends the user to a website or app. You don't need to click or type a link.
+
+Some devices have QR code readers built into their camera app. Other devices need a dedicated app.
+
+When you scan the QR code, the app asks you if you wish to go to the website or app described by the QR code.
+
+**Note:** QR codes are not human readable. This means it is important to verify that the codes are legitimate and have not been tampered with.
+
+You'll see QR codes in many situations. They give easy access to restaurant menus. They link to charity donation pages or surveys. Banks use them to link to services. They can be used to join wifi hotspots. They can be used to add contacts directly to your contacts list.
+
+A QR code in an official context should be as safe to scan as an ordinary web link. For example, a QR code on an official notice in an MoJ building.
+
+If the QR code is not labelled, or is from an unknown person, be suspicious. For example, a QR code stuck on a lamppost, or a QR code on a non-official flyer on a wall in a public location. These are not safe to scan.
+
+It's possible that even a QR code in a safe, official place might be tampered with. Someone might draw over it. They might cover it with a sticker and a fresh QR code. If a QR code looks 'contaminated', don't scan it. [Report it](#reporting-phishes) to security.
+
+In summary, the risk associated with QR codes is currently considered low. They are simply barcode versions of web links. When deciding whether to scan a QR code or not, follow the same procedure as receiving an unexpected message .
+
 ##Multi-factor authentication (MFA)
 
 Multi-factor authentication (MFA) is a great way to reduce the risk of account compromise by a phishing attack. MFA provides an extra layer of defence for the account. If you have MFA set up, threat actors cannot access your account. It's safe, even if you accidentally reveal your credentials.
@@ -128,7 +148,7 @@ You can forward on all spam and phishing text messages to 7726 for free.
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ---
 

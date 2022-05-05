@@ -1,6 +1,6 @@
 # Policies for Google Apps administrators
 
-**Note:** This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+**Note:** This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact the [Security team](mailto:security@justice.gov.uk).
 
 These policies must be adhered to by all Google Administrators, including Super Administrators. All Administrator activity is recorded, auditable and notified to all other Administrators.
 

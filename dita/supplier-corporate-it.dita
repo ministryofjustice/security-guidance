@@ -24,8 +24,8 @@
       controls and governance processes.
       The assurance <ph conref="conrefs.dita#conrefs/policyshall"/> be appropriate
       to the information sensitivity.
-    Contact the <ph conref="conrefs.dita#conrefs/catemailtext"/> for assistance
-  regarding acceptable security assurance for <codeph>OFFICIAL-SENSITIVE</codeph>
+    Contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/> for assistance
+  regarding acceptable security assurance for <ph conref="conrefs.dita#conrefs/official-sensitive"/>
   <ph conref="conrefs.dita#conrefs/moj"/> data.</p>
   </body>
   <topic id="technical-security">
@@ -106,7 +106,7 @@
             it might be appropriate to use secondary,
             temporary accounts,
             to avoid primary account compromise.
-            Contact the <ph conref="conrefs.dita#conrefs/catemailtext"/> for assistance
+            Contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/> for assistance
           regarding acceptable security assurance when working overseas.</p>
         </body>
       </topic>

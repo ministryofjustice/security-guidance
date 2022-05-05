@@ -148,7 +148,7 @@ Digital evidence can be exceptionally fragile and must be handled extremely care
 
 -   **POL.FRP.009**
 
-    Any investigative action taken on an evidential item \(e.g. an analysis of a hard drive\) **must be** captured and recorded. This record **must include** details of the action taken and the person responsible for undertaking that action. Responsibility for the integrity of evidence resides with the Forensic Investigation Owner and MoJ Operational Security Team \(OST\). In addition, responsibility for any evidence captured, by or passed to an external forensic provider at the start of an investigation, resides with the MoJ and the Forensic Investigation Owner.
+    Any investigative action taken on an evidential item \(e.g. an analysis of a hard drive\) **must be** captured and recorded. This record **must include** details of the action taken and the person responsible for undertaking that action. Responsibility for the integrity of evidence resides with the Forensic Investigation Owner and the MoJ [Security team](mailto:security@justice.gov.uk). In addition, responsibility for any evidence captured, by or passed to an external forensic provider at the start of an investigation, resides with the MoJ and the Forensic Investigation Owner.
 
 <a name="pol.frp.010"></a>
 

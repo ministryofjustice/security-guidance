@@ -120,11 +120,11 @@ Due to complexities and management effort involved in running wifi solutions, th
 
 This also has the benefit of being available across HMG Departments and Agencies. GovWifi has a level of pre-registration, monitoring and filtering in place to protect the users. However, GovWifi does not provide enterprise level security functions. GovWifi users are required to maintain their own security controls. For MoJ users of GovWifi connections, this means using the MoJ-provided VPN services when accessing protected MoJ services.
 
-`POLWIFI025:` Any considerations for not using GovWifi in an MoJ guest WiFi network **SHALL** be discussed and agreed beforehand with the cyber security team.
+`POLWIFI025:` Any considerations for not using GovWifi in an MoJ guest wifi network **SHALL** be discussed and agreed beforehand with the cyber security team.
 
 `POLWIFI026:` Where GovWifi cannot be used, or where an existing guest wifi service exists,the following **SHALL** be in place:
 
--   Regular rotation of the passphrase, with agreement from the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk). Normally, this requires a fresh and unique passphrase each day.
+-   Regular rotation of the passphrase, with agreement from the [Security team](mailto:security@justice.gov.uk). Normally, this requires a fresh and unique passphrase each day.
 
 -   Filtering and Monitoring for known 'bad-sites' and threats **SHALL** be in place at the network level.
 
@@ -167,14 +167,14 @@ Non-conformance with this policy could result in disciplinary action taken in ac
 
 **Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
 
-**Operational Security Team**
+**Security Team**
 
--   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
+-   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 -   Slack: `#security`
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

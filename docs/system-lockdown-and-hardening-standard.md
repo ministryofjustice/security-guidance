@@ -7,7 +7,7 @@ The [Minimum Cyber Security Standard \(MCSS\)](https://www.gov.uk/government/pub
 -   Locked-down: All unnecessary or non-essential services or capabilities are switched off, or restricted to the bare minimum of functionality.
 -   Hardened: All system options and capabilities are configured for maximum possible resistance to attack or unauthorised use.
 
-Specifics of the lockdown policy are covered in the [Technical Controls Policy](technical-controls-policy.md#). This document provides more information about the implementation of the lockdown policy.
+Specifics of the lockdown policy are covered in the [Technical Controls Policy](technical-controls-policy.md#lockdown-policy). This document provides more information about the implementation of the lockdown policy.
 
 **Related information**  
 
@@ -136,7 +136,7 @@ The standard MoJ login banner **SHALL** be displayed at login:
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

@@ -156,11 +156,10 @@
 	<topic id="contacts">
 		<title>Contacts</title>
 		<body />
-		<topic id="operational-security-team">
-			<title>Operational Security Team</title>
+		<topic id="security-team">
+			<title>Security Team</title>
 			<body>
 				<ul>
-					<!-- <li>Email: <ph conref="conrefs.dita#conrefs/ostemail"/></li> -->
 					<li>Email: <ph conref="conrefs.dita#conrefs/securityemail"/></li>
 					<li>Slack: <codeph>#security</codeph></li>
 				</ul>
@@ -177,7 +176,7 @@
 			<title>Digital &amp; Technology - <ph conref="conrefs.dita#conrefs/servicedesk"/></title>
 			<body>
 				<ul>
-					<li>Email: <xref href="mailto:servicedesk@digital.justice.gov.uk" format="email" scope="external">servicedesk@digital.justice.gov.uk</xref></li>
+					<li>Email: <xref href="mailto:servicedesk@digital.justice.gov.uk" format="html" scope="external">servicedesk@digital.justice.gov.uk</xref></li>
 					<li>Slack: <codeph>#digitalservicedesk</codeph></li>
 				</ul>
 			</body>
@@ -202,7 +201,7 @@
 			<title><ph conref="conrefs.dita#conrefs/moj"/> Phone and Mobile Devices</title>
 			<body>
 				<ul>
-					<li>Email: <xref href="mailto:MoJ_Phone_and_Mobi@justice.gov.uk" format="email" scope="external">MoJ_Phone_and_Mobi@justice.gov.uk</xref></li>
+					<li>Email: <xref href="mailto:MoJ_Phone_and_Mobi@justice.gov.uk" format="html" scope="external">MoJ_Phone_and_Mobi@justice.gov.uk</xref></li>
 				</ul>
 			</body>
 		</topic>
