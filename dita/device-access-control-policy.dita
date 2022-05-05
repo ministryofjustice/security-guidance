@@ -52,7 +52,7 @@
   <topic id="business-requirements-of-device-access-control">
     <title>Business Requirements of Device Access Control</title>
     <body>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s business or strategic requirements are to control, limit, and manage access to <ph conref="conrefs.dita#conrefs/moj"/> networks as described in the following subsections.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s business or strategic requirements are to control, limit, and manage device access to <ph conref="conrefs.dita#conrefs/moj"/> networks as described in the following subsections.</p>
     </body>
     <topic id="device-access-control-policy-1">
       <title>Device Access Control Policy</title>
@@ -62,7 +62,7 @@
           <ul>
             <li>"Need-to-know".</li>
             <li>Least privilege.</li>
-            <li>Device Access Control.</li>
+            <li>Device access control.</li>
           </ul></p>
       </body>
     </topic>
@@ -72,7 +72,7 @@
         <p>This subsection aligns to the principle of least access, to protect a network which is covered in other areas of this policy, specifically:
         <ul>
           <li>Authorisation procedures for showing which device is allowed to access  which network.</li>
-          <li>Management controls and procedures to prevent access and provision of real-time monitoring.</li>
+          <li>Management controls and procedures to prevent unauthorised access, and for the provision of real-time monitoring.</li>
         </ul></p>
       </body>
     </topic>

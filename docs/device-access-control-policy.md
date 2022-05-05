@@ -15,6 +15,8 @@ To help identify formal policy statements, each is prefixed with an identifier o
 
 [User Access Control Policy](user-access-control-policy.md)
 
+[Technical Controls Policy](technical-controls-policy.md)
+
 ## Audience
 
 This policy is aimed at:
@@ -81,7 +83,7 @@ Identification, Authentication, Authorisation, and Accounting \(IAAA\) are the c
 
 ## Business Requirements of Device Access Control
 
-The MoJ's business or strategic requirements are to control, limit, and manage access to MoJ networks as described in the following subsections.
+The MoJ's business or strategic requirements are to control, limit, and manage device access to MoJ networks as described in the following subsections.
 
 ### Device Access Control Policy
 
@@ -91,14 +93,14 @@ The MoJ's business or strategic requirements are to control, limit, and manage a
 
 -   "Need-to-know".
 -   Least privilege.
--   Device Access Control.
+-   Device access control.
 
 ### Access to Protected Networks
 
 This subsection aligns to the principle of least access, to protect a network which is covered in other areas of this policy, specifically:
 
 -   Authorisation procedures for showing which device is allowed to access which network.
--   Management controls and procedures to prevent access and provision of real-time monitoring.
+-   Management controls and procedures to prevent unauthorised access, and for the provision of real-time monitoring.
 
 ## Device Access Control
 

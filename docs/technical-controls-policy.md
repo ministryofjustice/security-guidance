@@ -58,6 +58,10 @@ To help identify formal policy statements, each is prefixed with an identifier o
 
 [Use of HMG Cryptography Policy](use-of-hmg-cryptography-policy.md)
 
+[Device Access Control Policy](device-access-control-policy.md)
+
+[User Access Control Policy](user-access-control-policy.md)
+
 ## Approach to technical controls
 
 The Ministry of Justice \(MoJ\) relies heavily upon IT systems to support service delivery in all MoJ business groups. This policy covers the technical security controls required for all IT systems.

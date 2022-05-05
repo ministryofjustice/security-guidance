@@ -1,6 +1,6 @@
 # User Access Control Policy
 
-This policy gives an overview of access control security principles and responsibilities within the Ministry of Justice \(MoJ\). It provides a summary of the policies and guides that apply to MoJ access management.
+This policy gives an overview of user access control security principles and responsibilities within the Ministry of Justice \(MoJ\). It provides a summary of the policies and guides that apply to MoJ user access management.
 
 To help identify formal policy statements, each is prefixed with an identifier of the form: `POLACPxxx`, where xxx is a unique ID number.
 
@@ -12,6 +12,8 @@ To help identify formal policy statements, each is prefixed with an identifier o
 [Device Access Control Policy](device-access-control-policy.md)
 
 [Enterprise Access Control Policy](enterprise-access-control-policy.md)
+
+[Technical Controls Policy](technical-controls-policy.md)
 
 ## Audience
 
@@ -84,7 +86,7 @@ The MoJ's business or strategic requirements limit access to MoJ information and
 
 ### Access Control Policy
 
-`POLACP005:` This access control policy **SHALL** be established and maintained, based on business and information security requirements, to inform associated standards and guidance, for all users.
+`POLACP005:` This user access control policy **SHALL** be established and maintained, based on business and information security requirements, to inform associated standards and guidance, for all users.
 
 `POLACP006:` The policy **SHALL** also follow the additional principles of:
 
@@ -93,7 +95,7 @@ The MoJ's business or strategic requirements limit access to MoJ information and
 -   Least privilege.
 -   User access management.
 
-### User access to Networks and network services
+### User access to networks and network services
 
 This subsection aligns to the principle of least access, to protect a network and network services which are covered in other areas of this policy, specifically:
 
@@ -102,11 +104,11 @@ This subsection aligns to the principle of least access, to protect a network an
 
 ## System and Application Access Control
 
-`POLACP007:` The MoJ **SHALL** strive to prevent unauthorised access to systems and applications, as described in the following subsections.
+`POLACP007:` The MoJ **SHALL** strive to prevent unauthorised user access to systems and applications, as described in the following subsections.
 
 ### Information Access Restrictions
 
-`POLACP008:` Access to information and application system functions **SHALL** be restricted by following access control policies and procedures.
+`POLACP008:` User access to information and application system functions **SHALL** be restricted by following access control policies and procedures.
 
 `POLACP009:` In particular, System Designers and Administrators **SHALL** use adequate authentication techniques to identify with confidence user access to their system or data, using the principle of "least privilege". Refer to the guidance on [Authorisation](authorisation.md) for more detail.
 
@@ -116,7 +118,7 @@ This subsection aligns to the principle of least access, to protect a network an
 
 -   `POLACP011:` Multi-user \(MU\) accounts **SHALL** be managed carefully using PAM or a Bastion server, to avoid accountability type security risks. Refer to the [Multi-user Accounts and Public-Facing Service Accounts](multi-user-accounts-and-public-facing-service-accounts-guide.md) guidance.
 -   `POLACP012:` Front-end users accessing the MoJ's public services **SHALL** authenticate via the GOV.UK Verify Service. Refer to the [User Facing Services](passwords.md) guidance.
--   `POLACP013:` System Designers for internal systems **SHALL** use the MoJ's single sign-on \(SSO\) solution to authenticate via an Identity and Access system.
+-   `POLACP013:` System Designers for internal systems **SHALL** use the MoJ's single sign-on \(SSO\) solution to authenticate users via an Identity and Access system.
 -   `POLACP014:` Passwords **SHALL NOT** be stored or transmitted over the network in clear text, nor be protected with encryption that has known security weaknesses. Refer to the [Password Management Guide](password-management-guide.md).
 
 ### Password Management System
@@ -136,7 +138,7 @@ This subsection aligns to the principle of least access, to protect a network an
 
 **Note:** Contact the [Security team](#contact-details) if you have specialised needs when selecting or using a storage tool.
 
-### User access Control to Program Source Code
+### Controlling user access to program source code
 
 -   `POLACP023:` When coding in the open, MoJ Technical users and Service Providers **SHALL** follow coding best practices and keep code separate from configuration and data.
 
@@ -144,7 +146,7 @@ This subsection aligns to the principle of least access, to protect a network an
 
 User access management ensures authorised user access, and prevents unauthorised access to systems and services. These are described in the following subsections.
 
-### User Registration and de-registration
+### User registration and de-registration
 
 `POLACP024:` A formal user registration and de-registration process **SHALL** be implemented to enable the assignment of access rights, specifically:
 
@@ -166,7 +168,7 @@ User access management ensures authorised user access, and prevents unauthorised
 
 For further information on user de-registration, refer to the [MoJ Enterprise Access Control Policy](enterprise-access-control-policy.md).
 
-### User Access Provisioning
+### User access provisioning
 
 `POLACP036:` A formal user access provisioning process **SHALL** be implemented to assign or revoke access rights for all users to all systems and services. Specifically for MoJ, this includes:
 

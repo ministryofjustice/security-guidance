@@ -3,8 +3,8 @@
 <topic id="user-access-control-policy">
   <title>User Access Control Policy</title>
   <body>
-    <p>This policy gives an overview of access control security principles and responsibilities within the <ph conref="conrefs.dita#conrefs/mojlong"/>.
-      It provides a summary of the policies and guides that apply to <ph conref="conrefs.dita#conrefs/moj"/> access management.</p>
+    <p>This policy gives an overview of user access control security principles and responsibilities within the <ph conref="conrefs.dita#conrefs/mojlong"/>.
+      It provides a summary of the policies and guides that apply to <ph conref="conrefs.dita#conrefs/moj"/> user access management.</p>
     <p>To help identify formal policy statements,
       each is prefixed with an identifier of the form:
       <codeph>POLACPxxx</codeph>,
@@ -117,7 +117,7 @@
     <topic id="access-control-policy-1">
       <title>Access Control Policy</title>
       <body>
-        <p><codeph>POLACP005:</codeph> This access control policy <ph conref="conrefs.dita#conrefs/policymust"/> be established and maintained,
+        <p><codeph>POLACP005:</codeph> This user access control policy <ph conref="conrefs.dita#conrefs/policymust"/> be established and maintained,
           based on business and information security requirements,
           to inform associated standards and guidance,
           for all users.</p>
@@ -131,7 +131,7 @@
       </body>
     </topic>
     <topic id="user-access-to-networks-and-network-services">
-      <title>User access to Networks and network services</title>
+      <title>User access to networks and network services</title>
       <body>
         <p>This subsection aligns to the principle of least access,
           to protect a network and network services which are covered in other areas of this policy,
@@ -153,14 +153,14 @@
   <topic id="system-and-application-access-control">
     <title>System and Application Access Control</title>
     <body>
-      <p><codeph>POLACP007:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> strive to prevent unauthorised access
+      <p><codeph>POLACP007:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> strive to prevent unauthorised user access
         to systems and applications,
         as described in the following subsections.</p>
     </body>
     <topic id="information-access-restrictions">
       <title>Information Access Restrictions</title>
       <body>
-        <p><codeph>POLACP008:</codeph> Access to information and application system functions <ph conref="conrefs.dita#conrefs/policymust"/> be restricted
+        <p><codeph>POLACP008:</codeph> User access to information and application system functions <ph conref="conrefs.dita#conrefs/policymust"/> be restricted
           by following access control policies and procedures.</p>
         <p><codeph>POLACP009:</codeph> In particular,
           System Designers and Administrators <ph conref="conrefs.dita#conrefs/policymust"/> use adequate authentication techniques
@@ -184,7 +184,7 @@
             <ph conref="conrefs.dita#conrefs/policymust"/> authenticate via the GOV.UK Verify Service.
             Refer to the <xref href="passwords.dita" format="dita">User Facing Services</xref> guidance.</li>
           <li><codeph>POLACP013:</codeph> System Designers for internal systems <ph conref="conrefs.dita#conrefs/policymust"/> use the <ph conref="conrefs.dita#conrefs/moj"/>'s
-            single sign-on (SSO) solution to authenticate via an Identity and Access system.</li>
+            single sign-on (SSO) solution to authenticate users via an Identity and Access system.</li>
           <li><codeph>POLACP014:</codeph> Passwords <ph conref="conrefs.dita#conrefs/policymustnot"/> be stored or transmitted over the network in clear text,
             nor be protected with encryption that has known security weaknesses.
             <ph audience="audience-tech">Refer to the
@@ -235,8 +235,8 @@
           if you have specialised needs when selecting or using a storage tool.</note>
       </body>
     </topic>
-    <topic id="user-access-control-to-program-source-code">
-      <title>User access Control to Program Source Code</title>
+    <topic id="controlling-user-access-to-program-source-code">
+      <title>Controlling user access to program source code</title>
       <body>
         <ul>
           <li><codeph>POLACP023:</codeph> When coding in the open,
@@ -254,7 +254,7 @@
         These are described in the following subsections.</p>
     </body>
     <topic id="user-registration-and-de-registration">
-      <title>User Registration and de-registration</title>
+      <title>User registration and de-registration</title>
       <body>
         <p><codeph>POLACP024:</codeph> A formal user registration and de-registration process <ph conref="conrefs.dita#conrefs/policymust"/> be implemented
           to enable the assignment of access rights,
@@ -322,7 +322,7 @@
       </body>
     </topic>
     <topic id="user-access-provisioning">
-      <title>User Access Provisioning</title>
+      <title>User access provisioning</title>
       <body>
         <p><codeph>POLACP036:</codeph> A formal user access provisioning process <ph conref="conrefs.dita#conrefs/policymust"/> be implemented
           to assign or revoke access rights for all users to all systems and services.
