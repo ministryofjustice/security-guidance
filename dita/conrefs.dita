@@ -100,6 +100,7 @@
 			<ph id="securityemailtext"><xref href="mailto:security@justice.gov.uk" format="html" scope="external">Security team</xref></ph>
 			<ph id="servicedesk">IT Service Desk</ph>
 			<ph id="servicedesknumber">0800 917 5148</ph>
+			<ph id="sharedsecurityteamtext"><xref href="mailto:security@justice.gov.uk" format="html" scope="external">Shared Security Team</xref></ph>
 			<ph id="softwareassetemail"><xref href="mailto:SoftwareAssetManagement@justice.gov.uk" format="html" scope="external">SoftwareAssetManagement@justice.gov.uk</xref></ph>
 			<ph id="spf"><xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">SPF</xref></ph>
 			<ph id="spflong"><xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">Security Policy Framework (SPF)</xref></ph>

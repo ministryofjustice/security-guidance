@@ -4,13 +4,13 @@ This document provides a high-level overview of the leak handling process for th
 
 It should be read in conjunction with the associated [leak handling policy](leak-handling-policy.md).
 
-[MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk) owns the leak handling process. However, the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) provides tech support as required, for example performing searches. The analysis and reporting from these teams is an essential security management component in assessing and mitigating current and future leaks that affect MoJ data, systems, networks and solutions.
+[MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk) owns the leak handling process. However, the Investigations SOC Team provides tech support as required, for example performing searches. The analysis and reporting from these teams is an essential security management component in assessing and mitigating current and future leaks that affect MoJ data, systems, networks and solutions.
 
-Send all leak questions or requests for help to [security@justice.gov.uk](mailto:security@justice.gov.uk). This applies to all leaks, suspected or otherwise. Your message is evaluated promptly and normally passed to [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). Depending on the circumstances, the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) might also provide direct advice on a case-by-case basis.
+Send all leak questions or requests for help to [security@justice.gov.uk](mailto:security@justice.gov.uk). This applies to all leaks, suspected or otherwise. Your message is evaluated promptly and normally passed to [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). Depending on the circumstances, the Investigations SOC Team might also provide direct advice on a case-by-case basis.
 
 **Note:** Normally, the [MoJ incident management process](it-incident-management-policy.md) is followed at the start of a leak investigation.
 
-**Note:** If a leak investigation indicates that physical examination of evidence is required, then [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) involvement will involve a Team Lead as a minimum.
+**Note:** If a leak investigation indicates that physical examination of evidence is required, then Investigations SOC Team involvement will include a Team Lead as a minimum.
 
 **Note:** An informal leak investigation takes place entirely within the MoJ. A formal leak investigation takes place with involvement from outside the MoJ, typically Cabinet Office.
 
@@ -52,19 +52,19 @@ This process is aimed at all staff working for, or supplying services to, the Mo
 
 -   **IA Lead, Case Manager or Requestor**
 
-    Addresses all investigation requirements. Provides governance sign-off. Communicates with the Operational Security team on case status, including case closure notification or retention date.
+    Addresses all investigation requirements. Provides governance sign-off. Communicates with the Investigations SOC Team on case status, including case closure notification or retention date.
 
-<a name="operational-security-front-door-team"></a>
+<a name="investigations-soc-team"></a>
 
--   **Operational Security 'Front Door' team**
-
-    Triages and formally logs incidents using ServiceNow. Works closely with all other security teams to resolve or escalate as required. The Front Door team ensures that the Chief Security Officer is notified and informed of all suspected leak incidents.
-
-<a name="operational-security-team"></a>
-
--   **Operational Security team**
+-   **Investigations SOC Team**
 
     Has ownership of all data acquisition, preservation, analysis and reporting. This includes verification of sign-off. Provides regular feedback case review as needed. Tracks incidents using Service-Now and team internal tracker tools.
+
+<a name="shared-security-team"></a>
+
+-   **Shared Security Team**
+
+    Triages and formally logs incidents using ServiceNow. Works closely with all other security teams to resolve or escalate as required. The [Shared Security Team](mailto:security@justice.gov.uk) ensures that the Chief Security Officer is notified and informed of all suspected leak incidents.
 
 
 ## Process steps
@@ -84,18 +84,18 @@ This process is aimed at all staff working for, or supplying services to, the Mo
     -   Permanent Secretary.
     -   Senior Civil Servant \(SCS\).
     -   Other cross-government source.
-2.  The request indicates that a leak investigation is required. The request is submitted to the security 'Front Door': [security@justice.gov.uk](mailto:security@justice.gov.uk).
+2.  The request indicates that a leak investigation is required. The request is submitted to the [Shared Security Team](mailto:security@justice.gov.uk).
 
 3.  Proceed to [step 2](#step-2-is-it-a-leak).
 
 
 ### Step 2: Is it a leak?
 
-1.  The 'front door' security team evaluates the request.
+1.  The [Shared Security Team](mailto:security@justice.gov.uk) evaluates the request.
 
 2.  If the situation is indeed a leak, the request is sent to [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). Proceed to step [2.1](#step-21-require-informal-leak-investigation).
 
-3.  If the situation is not a leak, or it is not clear whether the situation is a leak, the request is sent to the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk). Proceed to step [2.2](#step-22-information-and-sign-off-check).
+3.  If the situation is not a leak, or it is not clear whether the situation is a leak, the request is sent to the Investigations SOC Team. Proceed to step [2.2](#step-22-information-and-sign-off-check).
 
 
 ### Step 2.1: Require informal leak investigation
@@ -104,7 +104,7 @@ This process is aimed at all staff working for, or supplying services to, the Mo
 
 2.  If a leak investigation is needed, go to step [2.1.1](#step-211-produce-informal-investigation-report).
 
-3.  If a leak investigation is not needed, the 'front door' team notifies the Requestor that a leak investigation is not required, based on the rationale provided by Group Security. The leak process ends. No further action is required.
+3.  If a leak investigation is not needed, the [Shared Security Team](mailto:security@justice.gov.uk) notifies the Requestor that a leak investigation is not required, based on the rationale provided by Group Security. The leak process ends. No further action is required.
 
 
 ### Step 2.1.1: Produce informal investigation report
@@ -138,18 +138,18 @@ This process is aimed at all staff working for, or supplying services to, the Mo
 
 ### Step 2.2: Information and sign off check
 
-1.  The OST Lead checks that the leak investigation request is complete with all required information and the required sign-off. This confirms the legitimacy of the investigation.
+1.  The Investigations SOC Team Lead checks that the leak investigation request is complete with all required information and the required sign-off. This confirms the legitimacy of the investigation.
 
-2.  If the request is incomplete or not signed off, the OST Lead connects back to the Requestor to provide this information. The process returns to step [2.1.2](#step-212-receive-investigation-report).
+2.  If the request is incomplete or not signed off, the Investigations SOC Team Lead connects back to the Requestor to provide this information. The process returns to step [2.1.2](#step-212-receive-investigation-report).
 
 3.  If the request is complete and signed off, go to step [2.2.1](#step-221-create-incident).
 
 
 ### Step 2.2.1: Create incident
 
-1.  The OST Lead assigns an OST Analyst to the request.
+1.  The Investigations SOC Team Lead assigns an Investigations SOC Team Analyst to the request.
 
-2.  The OST Analyst creates a ServiceNow 'placeholder' incident using the Technology Portal. In all cases, the title of the placeholder **SHALL** be "An investigation carried out by OST."
+2.  The Investigations SOC Team Analyst creates a ServiceNow 'placeholder' incident using the Technology Portal. In all cases, the title of the placeholder **SHALL** be "An investigation carried out by the SOC."
 
 3.  Proceed to step [2.2.2](#step-222-collect-evidence).
 
@@ -158,36 +158,36 @@ This process is aimed at all staff working for, or supplying services to, the Mo
 
 ### Step 2.2.2: Collect evidence
 
-1.  The OST Analyst starts the leak investigation, using tools appropriate to the platform, system, or location from which the data was leaked.
+1.  The Investigations SOC Team Analyst starts the leak investigation, using tools appropriate to the platform, system, or location from which the data was leaked.
 
 2.  Evidence is collected, secured and validated with checksums, following forensic best practices.
 
 3.  Proceed to step [2.2.3](#step-223-process-evidence-and-produce-report).
 
 
-**Note:** The OST Analyst **SHALL** record all the steps taken for each request in OneNote. These contemporaneous notes **SHALL** include supporting data, such as photos, screenshots and images. In addition, each entry **SHALL** be supported by the Analyst's comments.
+**Note:** The Investigations SOC Team Analyst **SHALL** record all the steps taken for each request in OneNote. These contemporaneous notes **SHALL** include supporting data, such as photos, screenshots and images. In addition, each entry **SHALL** be supported by the Analyst's comments.
 
 ### Step 2.2.3: Process evidence and produce report
 
-1.  The OST Analyst processes or analyses the data as needed and produces a report.
+1.  The Investigations SOC Team Analyst processes or analyses the data as needed and produces a report.
 
 2.  Proceed to step [2.2.4](#step-224-close-servicenow-incident).
 
 
 ### Step 2.2.4: Close ServiceNow incident
 
-1.  The OST Analyst confirms that the leak investigation request can be closed with the Requestor.
+1.  The Investigations SOC Team Analyst confirms that the leak investigation request can be closed with the Requestor.
 
-2.  When confirmation is received, the OST Analyst provides the Requestor with a concluding report outlining the findings and recommendations established during step [2.1.2](#step-212-receive-investigation-report).
+2.  When confirmation is received, the Investigations SOC Team Analyst provides the Requestor with a concluding report outlining the findings and recommendations established during step [2.1.2](#step-212-receive-investigation-report).
 
-3.  The OST Analyst updates and closes the ServiceNow Incident.
+3.  The Investigations SOC Team Analyst updates and closes the ServiceNow Incident.
 
 4.  Proceed to step [2.2.5](#step-225-update-tracker-and-onenote).
 
 
 ### Step 2.2.5: Update Tracker and OneNote
 
-1.  The OST Analyst updates the Tracker spreadsheet in Teams and the OneNote record.
+1.  The Investigations SOC Team Analyst updates the Tracker spreadsheet in Teams and the OneNote record.
 
 2.  The process ends.
 
@@ -202,7 +202,7 @@ Contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 
