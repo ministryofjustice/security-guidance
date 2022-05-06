@@ -2,6 +2,18 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-05-06-12:30-bst-[minor-restructure-to-phishing-information.](https:-security-guidance.service.justice.gov.uk-phishing-guide-#out-of-band-checks)"></a>
+
+-   **2022-05-06 12:30 BST [Minor restructure to Phishing information.](https://security-guidance.service.justice.gov.uk/phishing-guide/#out-of-band-checks)**
+
+    The section on Out Of Band Checks has been slightly reordered, to improve readability.
+
+<a name="2022-05-06-12:18-bst-[added-link-to-password-poster.](https:-security-guidance.service.justice.gov.uk-passwords-)"></a>
+
+-   **2022-05-06 12:18 BST [Added link to Password Poster.](https://security-guidance.service.justice.gov.uk/passwords/)**
+
+    An information poster about how to make strong passwords is now available for download.
+
 <a name="2022-04-19-17:45-bst-[update-links-for-contacting-security-team.](https:-security-guidance.service.justice.gov.uk-)"></a>
 
 -   **2022-04-19 17:45 BST [Update links for contacting security team.](https://security-guidance.service.justice.gov.uk/)**
