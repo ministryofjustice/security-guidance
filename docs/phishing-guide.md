@@ -139,11 +139,12 @@ Reporting phishing attempts helps improve the filters that catch them before the
 
 If you think you have spotted a phish, or you think you have been phished, report it as quickly as possible. If you think you have spotted a more targeted phish that claims to be from a vendor or another staff member, do an out of band check to determine if it is legitimate. If it is not, then please report the email as a phish.
 
-Reporting a phishing attempt is quick and easy:
+Reporting a phishing attempt is quick and easy. Contact one of the following:
 
--   Call the IT Service Desk on 0800 917 5148.
+-   Tel: 0800 917 5148
+-   [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
 
-You can forward on all spam and phishing text messages to 7726 for free.
+You can also forward on all spam and phishing text messages to 7726 for free.
 
 ## Contact details
 

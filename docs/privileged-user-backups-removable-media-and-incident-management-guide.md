@@ -42,7 +42,7 @@ Privileged users play a front-line role in detecting and responding to incidents
 **Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
 -   Tel: 0800 917 5148
--   [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
+-   [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
 
 **Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
 
@@ -55,25 +55,23 @@ Privileged users play a front-line role in detecting and responding to incidents
 
 **Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
 
-For help with incidents, including theft and loss, contact:
+For help with incidents, including theft and loss, contact one of the following:
 
-<a name="technology-service-desk-including-dom1-quantum-and-the-digital-technology-service-desk"></a>
+**Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
--   **Technology Service Desk - including DOM1, Quantum, and the Digital & Technology Service Desk**
+-   Tel: 0800 917 5148
+-   [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
 
-    Tel: 0800 917 5148
+**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
 
-    **Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
+**HMPPS Information & security:**
 
-<a name="hmpps-information-and-security"></a>
-
--   **HMPPS Information and security**
-    -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
-    -   Tel: 0203 334 0324
+-   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
+-   Tel: 0203 334 0324
 
 For non-technology incidents, contact the MoJ Group Security Team: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk)
 
-Contact the Privacy Team for information on Data Protection Impact Assessments: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
+Contact the Data Protection Team for information on Data Protection Impact Assessments: [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk)
 
 If you are not sure who to contact, ask the Security Team:
 

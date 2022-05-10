@@ -89,8 +89,8 @@
 			<ph id="policyshould"><b>SHOULD</b></ph>
 			<ph id="policyshouldnot"><b>SHOULD NOT</b></ph>
 			<ph id="policywill"><b>SHALL</b></ph>
-			<ph id="privacyemail"><xref href="mailto:privacy@justice.gov.uk" format="html" scope="external">privacy@justice.gov.uk</xref></ph>
-			<ph id="privacyemailtext"><xref href="mailto:privacy@justice.gov.uk" format="html" scope="external">Data Privacy Team</xref></ph>
+			<ph id="privacyemail"><xref href="mailto:DataProtection@justice.gov.uk" format="html" scope="external">DataProtection@justice.gov.uk</xref></ph>
+			<ph id="privacyemailtext"><xref href="mailto:DataProtection@justice.gov.uk" format="html" scope="external">Data Protection Team</xref></ph>
 			<ph id="recordsretentionemail"><xref href="mailto:Records_Retention_@justice.gov.uk" format="html" scope="external">Records_Retention_@justice.gov.uk</xref></ph>
 			<ph id="recordsretentionemailtext"><xref href="mailto:Records_Retention_@justice.gov.uk" format="html" scope="external">Records and Retention team</xref></ph>
 			<ph id="secret"><codeph>SECRET</codeph></ph>
@@ -187,10 +187,10 @@
 			<p id="dom1"><b>Technology Service Desk</b> - including DOM1/Quantum,
 				and Digital &amp; Technology Digital Service Desk.
 				Use one of the following two methods for contacting service desk:
-				<ul>
+				<ul id="contact-service-desk">
 					<li>Tel: <ph conref="#conrefs/servicedesknumber"/></li>
 					<li><xref href="https://mojprod.service-now.com/moj_sp"
-						format="html" scope="external"><ph conref="#conrefs/moj"/> Service Portal</xref></li>
+						format="html" scope="external"><ph conref="#conrefs/moj"/> Service Portal and Live Chat</xref></li>
 				</ul>
 				<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph>
 					and <codeph>servicedesk@digital.justice.gov.uk</codeph> email addresses,
@@ -232,9 +232,9 @@
 	<topic id="privacy-advice">
 		<title>Privacy Advice</title>
 		<body>
-			<p><b>Privacy Team</b>
+			<p><b>Data Protection Team</b>
 				<ul>
-					<li>Email: <xref href="mailto:privacy@justice.gov.uk" format="html" scope="external">privacy@justice.gov.uk</xref></li>
+					<li>Email: <ph conref="#conrefs/privacyemail"/>></li>
 					<li>Slack: <codeph>#security_privacy_and_live_service_team</codeph></li>
 					<li>Intranet: <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/</xref></li>
 				</ul>
@@ -309,40 +309,12 @@
 			<note>If you work for an agency or ALB, refer to your local incident reporting guidance.</note>
 			<p>For help with incidents,
 				including theft and loss,
-				contact:
-				<dl>
-					<dlentry>
-						<dt>Technology Service Desk - including DOM1, Quantum, and the Digital &amp; Technology Service Desk</dt>
-						<dd>Tel: <ph conref="#conrefs/servicedesknumber"/>
-							<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph>
-								and <codeph>servicedesk@digital.justice.gov.uk</codeph> email addresses
-								are no longer being monitored.</note></dd>
-					</dlentry>
-					<!--
-					<dlentry>
-						<dt>Digital and Technology - Digital Service Desk</dt>
-						<dd>
-							<ul>
-								<li>Email: <xref href="mailto:servicedesk@digital.justice.gov.uk" format="html" scope="external">servicedesk@digital.justice.gov.uk</xref></li>
-								<li>Slack: <codeph>#digitalservicedesk</codeph></li>
-							</ul>
-						</dd>
-					</dlentry>
-					-->
-					<dlentry>
-						<dt>HMPPS Information and security</dt>
-						<dd>
-							<ul>
-								<li>Email: <xref href="mailto:informationmgmtsecurity@justice.gov.uk" format="html" scope="external">informationmgmtsecurity@justice.gov.uk</xref></li>
-								<li>Tel: 0203 334 0324</li>
-							</ul>
-						</dd>
-					</dlentry>
-				</dl>
-			</p>
+				contact one of the following:</p>
+			<p conref="#general-enquiries-including-theft-and-loss/dom1"/>
+			<p conref="#general-enquiries-including-theft-and-loss/hmppsinfosec"/>
 			<p>For non-technology incidents,
 				contact the <ph conref="#conrefs/moj"/> Group Security Team: <ph conref="#conrefs/groupsecurityemail"/></p>
-			<p>Contact the Privacy Team for information on Data Protection Impact Assessments: <ph conref="#conrefs/privacyemail"/></p>
+			<p>Contact the Data Protection Team for information on Data Protection Impact Assessments: <ph conref="#conrefs/privacyemail"/></p>
 			<p>If you are not sure who to contact,
 				ask the Security Team:
 				<ul>

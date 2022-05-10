@@ -147,7 +147,7 @@ Senders that have an established history of clean or legitimate emails, but have
 
 ## Avoiding the use of blocklists
 
-Requests are sometimes made to block individual senders based on repeat, vexatious, or otherwise undesirable content. Take care when determining whether the sender truly has malicious intent, or whether they are a simply a member of the public with a genuine grievance but lacking the skills to air their concerns more constructively. Consider the risk of 'denying access to the criminal justice system' to an individual. If in doubt, refer to the [Data Privacy Team](mailto:privacy@justice.gov.uk).
+Requests are sometimes made to block individual senders based on repeat, vexatious, or otherwise undesirable content. Take care when determining whether the sender truly has malicious intent, or whether they are a simply a member of the public with a genuine grievance but lacking the skills to air their concerns more constructively. Consider the risk of 'denying access to the criminal justice system' to an individual. If in doubt, refer to the [Data Protection Team](mailto:DataProtection@justice.gov.uk).
 
 ### Documentation for internal blocklists
 
