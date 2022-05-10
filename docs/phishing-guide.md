@@ -139,10 +139,9 @@ Reporting phishing attempts helps improve the filters that catch them before the
 
 If you think you have spotted a phish, or you think you have been phished, report it as quickly as possible. If you think you have spotted a more targeted phish that claims to be from a vendor or another staff member, do an out of band check to determine if it is legitimate. If it is not, then please report the email as a phish.
 
-Reporting a phishing attempt is quick and easy. Do one or both of the following:
+Reporting a phishing attempt is quick and easy:
 
 -   Call the IT Service Desk on 0800 917 5148.
--   Forward the suspected phish to [security@justice.gov.uk](mailto:security@justice.gov.uk) with the subject line: 'suspected phish report'.
 
 You can forward on all spam and phishing text messages to 7726 for free.
 
