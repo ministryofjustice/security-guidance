@@ -157,6 +157,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="authorisation.dita" type="topic" audience="audience-tech"/>
 			<topicref href="multi-user-accounts-and-public-facing-service-accounts-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="password-creation-and-authentication-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="password-education.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="password-management-guide.dita" type="topic" audience="audience-tech"/>
 			<topicref href="password-managers.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="passwords.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
@@ -583,6 +584,14 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="email-blocklist-process.dita"/>
 				<topicref href="secure-email-transfer-guide.dita"/>
 				<topicref href="spam-and-phishing-guide.dita"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref href="passwords.dita"/>
+			</relcell>
+			<relcell>
+				<topicref href="password-education.dita"/>
 			</relcell>
 		</relrow>
 	</reltable>

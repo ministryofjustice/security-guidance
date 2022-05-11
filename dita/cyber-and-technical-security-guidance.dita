@@ -759,6 +759,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
 							<entry colname="col1" align="left"><xref href="password-creation-and-authentication-guide.dita" format="dita">Password Creation and Authentication Guide</xref></entry>
 							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
 						</row>
+						<row>
+							<entry colname="col1" align="left"><xref href="password-education.dita" format="dita">Password Education</xref></entry>
+							<entry colname="col2" align="right">All users</entry>
+						</row>
 						<row audience="audience-tech">
 							<entry colname="col1" align="left"><xref href="password-management-guide.dita" format="dita">Password Management Guide</xref></entry>
 							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>

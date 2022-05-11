@@ -23,6 +23,8 @@ A useful information leaflet on strong passwords is available for download [here
 
 [Access Control guide](access-control-guide.md)
 
+[Password Education](password-education.md)
+
 ## General best practices
 
 **Note:** This section applies to passwords and PINs.
