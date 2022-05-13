@@ -5,7 +5,7 @@
 
 [Passwords](passwords.md)
 
-## monkey, chocolate, liverpool
+## liverpool, monkey, chocolate
 
 What a strange title for an article. These words are all in the top 20 most common passwords used in the UK in 2020. The number 1 most common password, both globally and in the UK, is `123456`. The passwords in the title are the 3rd most common UK password \(`liverpool`\), the 15th \(`monkey`\), and the 18th \(`chocolate`\).
 
@@ -106,6 +106,8 @@ Short passwords are easy for hackers to guess. Short passwords - no matter how c
 > Length is Strength.
 
 You can add complexity once you have a long password by putting numbers or special characters between your random words.
+
+We have a [very short micro survey](https://forms.office.com/r/Q4Ck9d8vXC) where you get to rate the strength of passwords. It takes less than two minutes!
 
 ![A thumbnail of the strong password information poster.](images/how-to-make-strong-passwords.png)
 
