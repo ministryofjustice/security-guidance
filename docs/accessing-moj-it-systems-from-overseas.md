@@ -11,9 +11,15 @@ Essential guidance is provided in the [overseas travel information](overseas-tra
 In general, it is acceptable for MoJ users to access MoJ services from overseas, and to do this using their MoJ equipment. But before you travel, consider:
 
 -   Do you need to take MoJ IT equipment overseas or access MoJ IT systems to do your job?
+
 -   Can the business need be met in another way or by someone else?
+
 -   If you just need to manage your inbox while away, can you delegate permissions to your inbox to a colleague to manage on your behalf?
--   Have you left enough time to check and obtain necessary approvals? The process can take several weeks, depending on the circumstances. This is because it may be necessary to apply additional technical controls to protect you, your devices, and any data the devices can access.
+
+-   Have you left enough time to check and obtain necessary approvals? You should ensure that your request is submitted using the [Overseas Travel Form](/gs/overseas-travel-form.docx) a minimum of fifteen working days before you intend to travel, or if you are subject to STRAP briefing a minimum of twenty working days before you intend to travel. This is because it may be necessary to apply additional technical controls to protect you, your devices, and any data the devices can access.
+
+-   Be aware that some countries only consider a passport as valid for a maximum of ten years from its issue date, regardless of the expiry date printed on it. Before travelling, make sure you understand the passport acceptance rules of all the countries you may travel to or through.
+
 
 ## Steps to follow before travelling
 
@@ -50,7 +56,7 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 2.  The next step depends on your MoJ business area:
     -   If you are part of MoJ HQ, HMPPS HQ, HMCTS, or NPS, contact your Senior Line Manager and ask for approval to take MoJ equipment overseas and access MoJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
     -   If you are part of HMPPS \(but *not* HQ\), contact your Governor and ask for approval to take MoJ equipment overseas and access MoJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
-3.  Fill in the [overseas travel form](/gs/overseas-travel-form.docx).
+3.  Fill in the [Overseas Travel Form](/gs/overseas-travel-form.docx).
 4.  Send the completed form to [security@justice.gov.uk](mailto:security@justice.gov.uk), including the answers obtained from the earlier parts of this process.
 5.  Your request will be considered, and an answer provided, as quickly as possible.
 6.  When you receive approval for your trip, you might need to schedule a [debrief with your line manager or security representative](#on-your-return) for when you return. Travel approval might be conditional on having a debrief after the trip. If your trip involved visiting a 'special attention' country listed in [Part One](#part-one), a debrief when you return is mandatory.
