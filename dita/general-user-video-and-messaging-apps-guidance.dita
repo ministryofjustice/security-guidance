@@ -221,6 +221,20 @@
 							<entry colname="col5">Internal/External</entry>
 						</row>
 						<row>
+							<entry colname="col1"><ph conref="conrefs.dita#conrefs/gsuite"/></entry>
+							<entry colname="col2">Office productivity tools, including Google Mail (Gmail), Google Drive, Google Docs, Google Sheets, and Google Slides</entry>
+							<entry colname="col3"><ph conref="#approved-tools/approved"/></entry>
+							<entry colname="col4">Web browser.</entry>
+							<entry colname="col5">Internal/External</entry>
+						</row>
+						<row>
+							<entry colname="col1">Microsoft Office and Office 365 (O365)</entry>
+							<entry colname="col2">Office productivity tools, including Excel, OneDrive, Outlook, PowerPoint, and Word</entry>
+							<entry colname="col3"><ph conref="#approved-tools/approved"/></entry>
+							<entry colname="col4">Dom1 Software centre, <ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
+							<entry colname="col5">Internal/External</entry>
+						</row>
+						<row>
 							<entry colname="col1">Microsoft Teams</entry>
 							<entry colname="col2">Communication and collaboration tool: Video and/or voice</entry>
 							<entry colname="col3"><ph conref="#approved-tools/approved"/></entry>
@@ -272,7 +286,14 @@
 							<entry colname="col1">Twitter</entry>
 							<entry colname="col2">Text Messaging, Video transmission</entry>
 							<entry colname="col3">Approved for <ph conref="conrefs.dita#conrefs/moj"/> Corporate account. Using a personal account to comment on work related issues is encouraged, as long as you follow the <xref href="https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code" format="html" scope="external">Civil Service Code of Conduct</xref>.</entry>
-							<entry colname="col4">Web browser, Windows 10 App, Smartphone App.</entry>
+							<entry colname="col4">Web browser, Smartphone App.</entry>
+							<entry colname="col5">Internal/External</entry>
+						</row>
+						<row>
+							<entry colname="col1">Vimeo</entry>
+							<entry colname="col2">Video sharing tool</entry>
+							<entry colname="col3">Avoid personal or sensitive data</entry>
+							<entry colname="col4">Web browser.</entry>
 							<entry colname="col5">Internal/External</entry>
 						</row>
 						<row>
