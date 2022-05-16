@@ -5,15 +5,13 @@
     <body>
       <p>This guide explains the patching requirements for <ph conref="conrefs.dita#conrefs/mojlong"/>
         systems once a vulnerability has been identified.</p>
-      <p>This guide is a sub-page to the
-        <xref href="vulnerability-scanning-and-patch-management-guide.dita" format="dita">Vulnerability Scanning and Patch Management Guide</xref></p>
       <p>The intent is to avoid compromise of <ph conref="conrefs.dita#conrefs/moj"/> systems
         because of vulnerabilities.</p>
     </body>
   <topic id="patching-of-moj-systems-and-equipment">
     <title>Patching of <ph conref="conrefs.dita#conrefs/moj"/> systems and equipment</title>
     <body>
-      <p>This guidance must be followed for all systems and services developed
+      <p>This guidance <ph conref="conrefs.dita#conrefs/policyshall"/> be followed for all systems and services developed
         or procured by the <ph conref="conrefs.dita#conrefs/moj"/>.
         It applies to all asset types including, but not limited to:
       <ul>
@@ -23,16 +21,6 @@
         <li>Applications.</li>
         <li>Internet-of-Things (IoT) devices.</li>
       </ul></p>
-      <p>In general,
-        there are three options for patching:
-        <ol>
-          <li>The problem is serious or urgent, and must be mitigated as soon as possible.</li>
-          <li>The problem is important but not urgent; mitigation can wait until the next scheduled patching cycle.</li>
-          <li>The problem does not require mitigation in advance of changes introduced as part of normal system upgrades.</li>
-        </ol>
-        <note>The nature of the patching cycle will depend on what is agreed during development,
-          deployment,
-          and subsequent maintenance of the system or service.</note></p>
       <p>Patching is the application of a vendor-supplied security patch.
         It can also refer to other ways of achieving the same goal.
         Examples include:
@@ -43,14 +31,25 @@
         </ul></p>
       <p>Patching might include recompiling applications to incorporate security updates.
         The updates might be in third party libraries or other code.</p>
-      <p>Always apply patches as soon as possible.
+      <p>In general,
+        there are three options for patching:
+        <ul>
+          <li>'Now': The problem is serious or urgent, and <ph conref="conrefs.dita#conrefs/policyshall"/> be mitigated as soon as possible. It is a priority to get this security mitigation deployed, the problem is being utilised in the wild, immediate action is required.</li>
+          <li>'Next': The problem is important but not urgent; mitigation can wait until the next scheduled patching cycle. This patch <ph conref="conrefs.dita#conrefs/policyshall"/> be picked up in the next regular patching cycle for affected systems, for example at their monthly or quarterly update.</li>
+          <li>'Never': The problem does not require mitigation in advance of changes introduced as part of normal system upgrades. This patch is not relevant or is too complex to deploy, for too little benefit, so <ph conref="conrefs.dita#conrefs/policyshould"/> be applied at system rebuild time.</li>
+        </ul>
+        <note>The nature of the patching cycle depends on what is agreed during development,
+          deployment,
+          and subsequent maintenance of the system or service.</note></p>
+      <p>By default, all security updates require 'Next' scheduling. The urgency might be increased to 'Now' for security reasons. Conversely, there might be operational or development reasons for revising the urgency down to 'Never'. If agreement cannot be reached about the urgency, then the problem requires risk escalation.</p>
+      <p>In general, always apply patches as soon as possible.
         Where this guidance mentions a time limit,
-        you should apply patches no later than the time given.
+        you <ph conref="conrefs.dita#conrefs/policyshould"/> apply patches no later than the time given.
         Some important or sensitive systems might need more urgent patching.
-        For example, a system might need you to apply 'critical' or 'high risk' patches within 7 days.</p>
+        For example, a system might need you to apply 'critical' or 'high risk' patches within 2 days.</p>
       <p>Where patching or other mitigation is required,
-        it must be applied in compliance with the <xref href="#patching-schedule" format="dita">Patching Schedule</xref> in this guide.</p>
-      <p>Operating systems and applications installed on systems must be:
+        it <ph conref="conrefs.dita#conrefs/policyshall"/> be applied in compliance with the <xref href="#patching-schedule" format="dita">Patching Schedule</xref> in this guide.</p>
+      <p>Operating systems and applications installed on systems <ph conref="conrefs.dita#conrefs/policyshall"/> be:
         <ul>
           <li>Licensed and supported.</li>
           <li>Removed from devices when no longer licensed or supported.</li>
@@ -58,7 +57,7 @@
           <li>Patched within no more than 14 days of an update being released,
             where the fix is for a 'critical' or 'high risk' vulnerability.</li>
         </ul></p>
-      <p>To ensure that patches are implemented on systems, you must either:
+      <p>To ensure that patches are implemented on systems, you <ph conref="conrefs.dita#conrefs/policyshall"/> either:
         <ul>
           <li>Enable and use any vendor-provided automatic patch deployment mechanisms for the system.</li>
           <li>If automatic patch deployment is not available,
@@ -67,23 +66,23 @@
       <p>If a system or service,
         or a component it depends on,
         can no longer be licensed or supported,
-        it should be reviewed within the timescale of the vulnerability scanning lifecycle,
+        it <ph conref="conrefs.dita#conrefs/policyshould"/> be reviewed within the timescale of the vulnerability scanning lifecycle,
         to determine what action to take.
         If the required license or support cannot be obtained,
-        the system or service should be replaced by an alternative,
+        the system or service <ph conref="conrefs.dita#conrefs/policyshould"/> be replaced by an alternative,
         or removed.
         If the system or service cannot be removed,
-        then the issue should be raised through the patching exemptions process
+        then the issue <ph conref="conrefs.dita#conrefs/policyshould"/> be raised through the patching exemptions process
         outlined in the <xref href="#patching-exemptions" format="dita">Patching Exemptions section</xref> in this guide.</p>
       <p>In summary:
         <ul>
-          <li>It must be possible to patch or mitigate an <ph conref="conrefs.dita#conrefs/moj"/> system or service.
-          A clear, documented process must exist explaining how to patch or mitigate.</li>
-          <li>Wherever possible, patching should be automated,
+          <li>It <ph conref="conrefs.dita#conrefs/policyshall"/> be possible to patch or mitigate an <ph conref="conrefs.dita#conrefs/moj"/> system or service.
+          A clear, documented process <ph conref="conrefs.dita#conrefs/policyshall"/> exist explaining how to patch or mitigate.</li>
+          <li>Wherever possible, patching <ph conref="conrefs.dita#conrefs/policyshould"/> be automated,
             or at least have minimum possible dependency on manual intervention.</li>
           <li>If a patch is not available, or cannot be deployed, then a suitable risk mitigation might be acceptable.</li>
           <li>Patching or mitigating a system or service might impact or be affected by other systemic components.
-            These must be identified and addressed as part of the patch or mitigation process.</li>
+            These <ph conref="conrefs.dita#conrefs/policyshall"/> be identified and addressed as part of the patch or mitigation process.</li>
         </ul>
       </p>
     </body>
@@ -92,15 +91,15 @@
     <title><ph conref="conrefs.dita#conrefs/moj"/> Digital services</title>
     <body>
       <p>For systems or services developed by the <ph conref="conrefs.dita#conrefs/moj"/>,
-        it must be possible to patch or mitigate in order to address any vulnerabilities.
+        it <ph conref="conrefs.dita#conrefs/policyshall"/> be possible to patch or mitigate in order to address any vulnerabilities.
         To ensure this is possible:
       <ul>
-        <li>The Beta development stage must include a mechanism or process for
+        <li>The Beta development stage <ph conref="conrefs.dita#conrefs/policyshall"/> include a mechanism or process for
           a new or updated service to track and apply patches.<!--
           Refer to the Software Development Lifecycle Guide for further details.--></li>
-        <li>Sufficient logs must be available from the new or updated service,
+        <li>Sufficient logs <ph conref="conrefs.dita#conrefs/policyshall"/> be available from the new or updated service,
           so that security problems can be tracked from identification through to rectification.</li>
-        <li>The patching process must also describe how to triage and action any problems.<!--
+        <li>The patching process <ph conref="conrefs.dita#conrefs/policyshall"/> also describe how to triage and action any problems.<!--
           Please refer to the Software Development Lifecycle Guide for further details.--></li>
       </ul></p>
     </body>
@@ -110,7 +109,7 @@
     <body>
       <p>The following Patching Schedule defines the indicative severity
         ratings and consequent timescales.
-        All vulnerabilities must be remediated or patched in line with this schedule.
+        All vulnerabilities <ph conref="conrefs.dita#conrefs/policyshall"/> be remediated or patched in line with this schedule.
         By agreement and formal approval,
         alternative timescales for system patching,
         on a case-by-case basis,
@@ -118,21 +117,24 @@
         <note>The default is for patches to be applied as soon as possible.
           You should not normally delay patching because of concerns about
           possible issues with the patches themselves.</note></p>
-        <p>Patches and updates for security related devices must be treated as
+        <p>Patches and updates for security related devices <ph conref="conrefs.dita#conrefs/policyshall"/> be treated as
           High Risk (3) at least, and implemented in accordance with this rating. For more details on risk ratings, refer to the <xref href="vulnerability-scanning-guide.dita#vulnerability-risk-ratings/vulnerability-risk-ratings" format="dita" platform="html">vulnerability risk ratings</xref><xref href="vulnerability-scanning-guide.dita#vulnerability-risk-ratings" format="dita" platform="epub pdf">vulnerability risk ratings</xref> information.</p>
+        <p>All 'zero-day' issues and problems should be treated as 'Critical' by default.</p>
         <p>For ratings of High Risk (3) or Critical (4),
           the Risk Advisor
-          team (<xref href="#contact-details" format="dita">contact through email</xref>) must evaluate the probability and impact,
+          team (<xref href="#contact-details" format="dita">contact through email</xref>) <ph conref="conrefs.dita#conrefs/policyshall"/> evaluate the probability and impact,
           and use this to guide a 'tolerance' period,
-          at the end of which a patch must be applied.</p>
+          at the end of which a patch <ph conref="conrefs.dita#conrefs/policyshall"/> be applied.</p>
         <p>Where the rating is Medium (2) or lower,
           the patch can be deferred to the next scheduled maintenance
           or patching activity.</p>
         <p>This schedule outline is considered a baseline.
-          Some systems might require different patching schedules.
-          These different schedules must be identified in the system's
+          Some systems or services might require different patching schedules.
+          These different schedules <ph conref="conrefs.dita#conrefs/policyshall"/> be identified in the system's
           Information Risk Assessment Report (IRAR).</p>
         <p conref="conrefs.dita#conrefs/irardefinition"/>
+        <p>The number of days for a patch indicates the timescale within which patching <ph conref="conrefs.dita#conrefs/policyshall"/> be started, and <ph conref="conrefs.dita#conrefs/policyshould"/> be finished. For example, patching an End User Client Device to mitigate a 'Critical' vulnerability <ph conref="conrefs.dita#conrefs/policyshall"/> be started no more than 1-2 days after the fix is available, and <ph conref="conrefs.dita#conrefs/policyshould"/> be finished no more than 1-2 days after the fix is available</p>
+        <note>The 'number of days' measure is a simple calendar count, and reflects the support nature of the system or service. For example, if the system or service is expected to be available 24x7, as evidenced by a 24x7 support contract, then the count of workdays would be one day for each 24x7 period of time.</note>
         <table>
           <title>Patching Schedule</title>
           <tgroup cols="4">
@@ -154,7 +156,7 @@
                 <entry>Critical (4)</entry>
                 <entry>1-2 days after vulnerability alert released.</entry>
                 <entry>3-4 days after vulnerability alert released.</entry>
-                <entry><b>Urgent:</b> Serious configuration problems that you should
+                <entry><b>Urgent:</b> Serious configuration problems that you <ph conref="conrefs.dita#conrefs/policyshould"/>
                   fix without delay and no later than 1-2 days
                   after the vulnerability alert is released.</entry>
               </row>
@@ -164,7 +166,7 @@
                 <entry>14 days after vulnerability alert released.</entry>
                 <entry><b>Advisory:</b> Configuration problems that leave the site
                   vulnerable.
-                  Patches should be implemented no later than 14 days after the
+                  Patches <ph conref="conrefs.dita#conrefs/policyshould"/> be implemented no later than 14 days after the
                   vulnerability alert is released.</entry>
               </row>
               <row>
@@ -190,6 +192,12 @@
             </tbody>
           </tgroup>
         </table>
+        <p>Any rollback requests require two activities:
+          <ul>
+            <li>Review and approval by the system or service risk owner, as the rollback will put the system or service back into an unpatched (unmitigated) state.</li>
+            <li>Invocation of and compliance with the normal change management process for the system or service.</li>
+          </ul>
+        </p>
     </body>
   </topic>
   <topic id="patch-management-processes">
@@ -203,16 +211,16 @@
         <p>Where services and infrastructure are provided by MSPs,
           the vendor is normally responsible for developing and implementing patches
           to identified vulnerabilities.
-          Patches or a workaround must be provided by vendors to ensure the
+          Patches or a workaround <ph conref="conrefs.dita#conrefs/policyshall"/> be provided by vendors to ensure the
           <ph conref="conrefs.dita#conrefs/moj"/> is able to meet the schedule
           for implementing patches.</p>
         <p>If this is not possible,
-          vendors must provide a firm statement that the patch or workaround cannot
+          vendors <ph conref="conrefs.dita#conrefs/policyshall"/> provide a firm statement that the patch or workaround cannot
           be made available within the timescale mandated for addressing the vulnerability.
-          The vulnerability alert must then be escalated to the Risk Advisor
+          The vulnerability alert <ph conref="conrefs.dita#conrefs/policyshall"/> then be escalated to the Risk Advisor
           team (<xref href="#contact-details" format="dita">contact through email</xref>) for help with acceptance,
           transfer, mitigation or avoidance.</p>
-        <p>Any patches to be deployed must go through the normal change management and approval process,
+        <p>Any patches to be deployed <ph conref="conrefs.dita#conrefs/policyshall"/> go through the normal change management and approval process,
           and the changes recorded in the Service Management Tool.</p>
       </body>
     </topic>
@@ -225,7 +233,7 @@
           patching and change management is addressed on a project-by-project basis.
           Changes are identified through awareness channels and scanning activities.
           These identify operational and security issues.
-          A change management ticket must be created,
+          A change management ticket <ph conref="conrefs.dita#conrefs/policyshall"/> be created,
           detailing the change required.
           The project manager follows the change management process to determine
           how and when to implement the change,
@@ -240,12 +248,12 @@
           and the <xref href="#contact-details" format="dita">Security Team</xref>
           might need to assist in the development of
           appropriate remediation plans.</p>
-        <p>Patches must be implemented according to the schedule in this guide.
+        <p>Patches <ph conref="conrefs.dita#conrefs/policyshall"/> be implemented according to the schedule in this guide.
           If this is not possible,
-          the project team must provide an indication that the patch or workaround
+          the project team <ph conref="conrefs.dita#conrefs/policyshall"/> provide an indication that the patch or workaround
           cannot be implemented within the timescale mandated for addressing
           the vulnerability.
-          This delay must be escalated to the Risk Advisor
+          This delay <ph conref="conrefs.dita#conrefs/policyshall"/> be escalated to the Risk Advisor
           team (<xref href="#contact-details" format="dita">contact through email</xref>) for help with acceptance,
           transfer, mitigation or avoidance.</p>
         </body>
@@ -257,7 +265,7 @@
       <p>If a system or service vulnerability cannot be patched or mitigated,
         it might be necessary to remove that system or service.</p>
       <p>Before the removal of any system or service,
-        a fresh Business Impact Assessment must be conducted
+        a fresh Business Impact Assessment <ph conref="conrefs.dita#conrefs/policyshall"/> be conducted
         and the business process owner consulted.
         The removal of a system or service is likely to come under the emergency
         and major change process.</p>
@@ -267,17 +275,17 @@
     <title>Patching exemptions</title>
     <body>
       <p>In exceptional cases where patching of systems is not possible,
-        other mitigations (such as logical separation) must be identified
+        other mitigations (such as logical separation) <ph conref="conrefs.dita#conrefs/policyshall"/> be identified
         and evaluated for efficacy prior to enablement.
-        The circumstances must be discussed with the affected
+        The circumstances <ph conref="conrefs.dita#conrefs/policyshall"/> be discussed with the affected
         Information Asset Owners (IAO) and System Owners.
         If the IAOs agree with the deviation,
-        System Owners must request formal approval by the
+        System Owners <ph conref="conrefs.dita#conrefs/policyshall"/> request formal approval by the
         Senior Information Risk Owner (SIRO) for the exemption.
-        Approval must be sought and obtained within a comparable timescale
+        Approval <ph conref="conrefs.dita#conrefs/policyshall"/> be sought and obtained within a comparable timescale
         to applying a patch.
         If a critical patch cannot be applied,
-        the approval to be exempt must be obtained within
+        the approval to be exempt <ph conref="conrefs.dita#conrefs/policyshall"/> be obtained within
         the same number of days allowed for applying a critical patch.</p>
     </body>
   </topic>

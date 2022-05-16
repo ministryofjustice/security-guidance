@@ -114,7 +114,7 @@
 		<image id="intraneticon" href="images/gov-uk-logotype-crown.png"><alt>A small UK Government Crown, to indicate that the link is to the <ph conref="#conrefs/moj"/> Intranet.</alt></image>
 		<p id="irardefinition">An IRAR is normally completed by Security Architects and Risk Assessors,
             in conversation with the system architects, designers and developers.
-            The IRAR document must also be agreed with the Business Continuity Team.
+            The IRAR document <ph conref="conrefs.dita#conrefs/policyshall"/> also be agreed with the Business Continuity Team.
             For more information regarding IRARs,
             and how to create and maintain them,
             contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
