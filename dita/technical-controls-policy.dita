@@ -266,12 +266,12 @@
       </ul></note>
       <p>Refer to HMG Information Assurance Standard No.1 and 2 for the details on the definition for 'Aware', 'Deter', 'Detect and Resist' and 'Defend'.</p> -->
     </body>
-    <topic id="interface-with-operational-security">
-      <title>Interface with Operational Security</title>
+    <topic id="interface-with-security">
+      <title>Interface with Security</title>
       <body>
-        <p>The <ph conref="conrefs.dita#conrefs/ostemailtext"/> (OST) at the <ph conref="conrefs.dita#conrefs/moj"/> is responsible for managing security incidents involving <ph conref="conrefs.dita#conrefs/moj"/> IT systems and information assets. As such, they are the primary consumer of any protective monitoring solution as it is a key feed of information and mechanism for raising security incidents.</p>
-        <p><codeph>POL.TCP.072</codeph>: All protective monitoring solutions <ph conref="conrefs.dita#conrefs/policymust"/> provide the capability to report security incident (or the audit and log data which can be used to generate security incidents) to the <ph conref="conrefs.dita#conrefs/moj"/> Operational Security team.</p>
-        <p><codeph>POL.TCP.073</codeph>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> provide their audit logs to the <ph conref="conrefs.dita#conrefs/moj"/> Operational Security Team (OST) upon request.</p>
+        <p>The <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> is responsible for managing security incidents involving <ph conref="conrefs.dita#conrefs/moj"/> IT systems and information assets. As such, they are the primary consumer of any protective monitoring solution as it is a key feed of information and mechanism for raising security incidents.</p>
+        <p><codeph>POL.TCP.072</codeph>: All protective monitoring solutions <ph conref="conrefs.dita#conrefs/policymust"/> provide the capability to report security incident (or the audit and log data which can be used to generate security incidents) to the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/>.</p>
+        <p><codeph>POL.TCP.073</codeph>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> provide their audit logs to the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> upon request.</p>
         <p>Further information on IT incident management is available in <xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref>.</p>
       </body>
     </topic>
@@ -393,7 +393,7 @@
         <p><codeph>POL.TCP.101</codeph>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> have an anti-virus client installed on each desktop and/or server configured to conduct regular anti-virus scans with real-time scanning activated.</p>
         <p><codeph>POL.TCP.102</codeph>: All anti-virus clients <ph conref="conrefs.dita#conrefs/policymust"/> be updated with the latest virus definitions to a schedule outlined in the <xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide</xref>. The default limit is within 4 hours of release by the anti-virus client vendor.</p>
         <p><codeph>POL.TCP.103</codeph>: All imports and exports to an IT system received from an external network or via removable media must be scanned for viruses and malware prior to being loaded on that system. This includes e-mails as well as system-to-system transfers.</p>
-        <p><codeph>POL.TCP.104</codeph>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> have a procedure to report any virus or malware instances. As standards, this must be an alert to the User and to <ph conref="conrefs.dita#conrefs/moj"/> Operational Security (OST).</p>
+        <p><codeph>POL.TCP.104</codeph>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> have a procedure to report any virus or malware instances. As standard, this must be an alert to the User and to the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/>.</p>
         <p><codeph>POL.TCP.105</codeph>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> refer to the <xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide</xref> when selecting security controls to protect against malicious code and threats from mobile code.</p>
         <note> All malicious code instances must be recorded as an IT Security incident. Further details are provided in <xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref>.</note>
       </body>

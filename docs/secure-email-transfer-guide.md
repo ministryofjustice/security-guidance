@@ -33,7 +33,7 @@ For further guidance on TLS, refer to the [Cryptography](cryptography.md) guidan
 
 ## End-to-end encryption
 
-End-to-end email encryption ensures that only the sender and intended receiver can read email messages. Data is encrypted on the sender's system. Only the intended recipient is able to decrypt and read it. Many but not all email tools support end-to-end encryption for email communications. You might need to implement transit encryption for your users with a third party app that provides end-to-end encryption. Contact the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) for advice.
+End-to-end email encryption ensures that only the sender and intended receiver can read email messages. Data is encrypted on the sender's system. Only the intended recipient is able to decrypt and read it. Many but not all email tools support end-to-end encryption for email communications. You might need to implement transit encryption for your users with a third party app that provides end-to-end encryption. Contact the [Security team](mailto:security@justice.gov.uk) for advice.
 
 ## Secure email transfer options
 
@@ -52,11 +52,11 @@ These are tools that are configured to the [Government secure standard](https://
 
 ## Google mail
 
-Google mail is part of the Google Workspace service. It uses Transport Layer Security \(TLS\) to encrypt incoming and outgoing emails automatically. However, the email providers of both the sender and the recipient must always use TLS, otherwise the email transfer cannot be assured as secure. If required, S/MIME encryption might be suitable. To get help with this, contact the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk).
+Google mail is part of the Google Workspace service. It uses Transport Layer Security \(TLS\) to encrypt incoming and outgoing emails automatically. However, the email providers of both the sender and the recipient must always use TLS, otherwise the email transfer cannot be assured as secure. If required, S/MIME encryption might be suitable. To get help with this, contact the [Security team](mailto:security@justice.gov.uk).
 
 ## Office 365
 
-By default, all emails in Office 365 are sent using Opportunistic TLS. If a TLS connection cannot be established, the message is sent in plain text using Simple Mail Transfer Protocol \(SMTP\). If TLS must be applied, contact the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) for help. In this configuration, certificate verification is required whenever mail is sent from a third party to the MoJ.
+By default, all emails in Office 365 are sent using Opportunistic TLS. If a TLS connection cannot be established, the message is sent in plain text using Simple Mail Transfer Protocol \(SMTP\). If TLS must be applied, contact the [Security team](mailto:security@justice.gov.uk) for help. In this configuration, certificate verification is required whenever mail is sent from a third party to the MoJ.
 
 Outlook supports two other encryption options:
 
@@ -65,7 +65,7 @@ Outlook supports two other encryption options:
 
 Microsoft currently provides additional tools to [secure information via email](https://www.microsoft.com/en-us/microsoft-365/blog/2018/04/05/defend-yourself-from-cybercrime-with-new-office-365-capabilities/).
 
-If either of these additional encryption methods is required, please contact the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk).
+If either of these additional encryption methods is required, please contact the [Security team](mailto:security@justice.gov.uk).
 
 ## Criminal Justice Secure Mail
 
@@ -116,7 +116,7 @@ Ensure that auto-forwarding is used responsibly, and in line with the MoJ's [Inf
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

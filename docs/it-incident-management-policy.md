@@ -83,17 +83,17 @@ This section of the policy is concerned with taking those security events and en
 
 **POL.IMP.002:**
 
-All IT Security incidents or suspected incidents **must be** reported to the MoJ Operational Security Team \(OST\) within 60 minutes of detection.
+All IT Security incidents or suspected incidents **must be** reported to the MoJ [Security team](mailto:security@justice.gov.uk) within 60 minutes of detection.
 
 **POL.IMP.003:**
 
-For all incidents involving an IT Security incident, an IT Security Incident Report Form **must be** completed and submitted to the OST \([Reporting an incident or breach](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) \). This is irrespective of the reporting route \(i.e. a User direct with OST or a user via the IT Service Desk\).
+For all incidents involving an IT Security incident, an IT Security Incident Report Form **must be** completed and submitted to the [Security team](mailto:security@justice.gov.uk) \([Reporting an incident or breach](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) \). This is irrespective of the reporting route \(i.e. a User direct with [Security team](mailto:security@justice.gov.uk) or a user via the IT Service Desk\).
 
 **POL.IMP.004:**
 
 All IT Security incidents involving personal data \(or other information assets\) **must be** reported to the MoJ Data Access and Compliance Unit: [Data.access@justice.gov.uk](mailto:Data.access@justice.gov.uk).
 
-The MoJ Operation Security Team \(OST\) is responsible for maintaining a centralised database and view of all IT Security incidents across any MoJ IT system. This database contains information on:
+The MoJ [Security team](mailto:security@justice.gov.uk) is responsible for maintaining a centralised database and view of all IT Security incidents across any MoJ IT system. This database contains information on:
 
 -   Security incident reports;
 
@@ -153,7 +153,7 @@ Examples of a medium level impact event include \(but are not limited to\):
 
 #### High Impact Incident
 
-IT Security incidents at this level require immediate escalation to the relevant MoJ Business Group Senior Information Risk Owner \(SIRO\) in addition to the OST and where applicable, the MoJ Data Access and Compliance Unit: [Data.access@justice.gov.uk](mailto:Data.access@justice.gov.uk).
+IT Security incidents at this level require immediate escalation to the relevant MoJ Business Group Senior Information Risk Owner \(SIRO\) in addition to the [Security team](mailto:security@justice.gov.uk) and where applicable, the MoJ Data Access and Compliance Unit: [Data.access@justice.gov.uk](mailto:Data.access@justice.gov.uk).
 
 Incident at this impact may warrant forensic investigation.
 
@@ -237,9 +237,9 @@ The role of an IAO is to understand what information is held, how it's adapted, 
 
 All IT Security incidents involving the loss, theft or compromise of an Information Asset **must be** reported to the asset's IAO.
 
-### MoJ Operational Security Team \(OST\)
+### MoJ Security Team
 
-The OST are responsible for:
+The [Security team](mailto:security@justice.gov.uk) are responsible for:
 
 -   Incident ownership, monitoring, tracking and communication
 
@@ -256,15 +256,15 @@ The OST are responsible for:
 
 ### IT Service Desk
 
-The IT Service Desk plays a crucial role in ensuring security incidents are correctly reported and escalated to the OST in a timely manner. The majority of IT Security incident will be reported to the IT Service Desk first. Also, the IT Service Desk can help identify where a user reporting an issue is actually an IT Security incident. It is therefore important that the IT Service Desk recognise this and report it to the OST.
+The IT Service Desk plays a crucial role in ensuring security incidents are correctly reported and escalated to the [Security team](mailto:security@justice.gov.uk) in a timely manner. The majority of IT Security incident will be reported to the IT Service Desk first. Also, the IT Service Desk can help identify where a user reporting an issue is actually an IT Security incident. It is therefore important that the IT Service Desk recognise this and report it to the [Security team](mailto:security@justice.gov.uk).
 
 **POL.IMP.014:**
 
-Where the IT Service Desk receives a report of a security incident, this **must be** reported and escalated to the OST immediately.
+Where the IT Service Desk receives a report of a security incident, this **must be** reported and escalated to the [Security team](mailto:security@justice.gov.uk) immediately.
 
 ### Escalation Path
 
-As a rule, all IT Security incidents are reported to OST. As depicted in Figure 2, OST then progress the incident according to its categorisation \(refer [here](#categorisation-of-incidents) \). Depending on the category and nature of the incident, this can involve escalating the incident to other stakeholders.
+As a rule, all IT Security incidents are reported to [Security team](mailto:security@justice.gov.uk). As depicted in Figure 2, [Security team](mailto:security@justice.gov.uk) then progress the incident according to its categorisation \(refer [here](#categorisation-of-incidents) \). Depending on the category and nature of the incident, this can involve escalating the incident to other stakeholders.
 
 **POL.IMP.015:**
 
@@ -274,9 +274,9 @@ A generic escalation path is provided [here](#it-security-incident-escalation-pa
 
 ## Investigation and Diagnosis capability
 
-The OST is responsible for the investigation of all IT Security incidents. Where evidence gathering is required for possible disciplinary or legal proceedings, a forensic investigation may be required, further details are provided in the [Forensic Readiness Policy](forensic-readiness-policy.md).
+The MoJ [Security team](mailto:security@justice.gov.uk) is responsible for the investigation of all IT Security incidents. Where evidence gathering is required for possible disciplinary or legal proceedings, a forensic investigation may be required, further details are provided in the [Forensic Readiness Policy](forensic-readiness-policy.md).
 
-In the course of investigation, the OST may:
+In the course of investigation, the [Security team](mailto:security@justice.gov.uk) may:
 
 -   Investigate incidents at the direction of the ITSO;
 
@@ -291,7 +291,7 @@ In the course of investigation, the OST may:
 
 **POL.ITSEC.016:**
 
-The OST **must maintain** files on any investigation undertaken.
+The MoJ [Security team](mailto:security@justice.gov.uk) **must maintain** files on any investigation undertaken.
 
 **POL.ITSEC.017:**
 

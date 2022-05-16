@@ -44,7 +44,7 @@ Email types considered for blocking or removal include:
 
 ## Blocking policy
 
-`POLEBL001:` All email services used by the MoJ **SHALL** have the ability to add items to the blocklist. The MoJ [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) **SHALL** have the appropriate permissions to update and review each MoJ email service blocklist.
+`POLEBL001:` All email services used by the MoJ **SHALL** have the ability to add items to the blocklist. The MoJ [Security team](mailto:security@justice.gov.uk) **SHALL** have the appropriate permissions to update and review each MoJ email service blocklist.
 
 `POLEBL002:` Any item added to an email service blocklist **SHOULD** be replicated across the different services in use across the MoJ estate.
 
@@ -60,13 +60,13 @@ Email types considered for blocking or removal include:
 
 ## Deletion of existing emails in scope for blocking
 
-`POLEBL008:` As part of the blocking procedure, the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) **SHOULD** have the ability to delete or purge emails across the estate which match the blocking criteria listed in the blocklist. This is an optional step, done at the discretion of the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk).
+`POLEBL008:` As part of the blocking procedure, the [Security team](mailto:security@justice.gov.uk) **SHOULD** have the ability to delete or purge emails across the estate which match the blocking criteria listed in the blocklist. This is an optional step, done at the discretion of the [Security team](mailto:security@justice.gov.uk).
 
 `POLEBL009:` Purging of existing emails which have been added to the blocklist **SHALL** be done under peer review. Peer review **SHOULD** be completed by an independent member of the team who is not involved directly in the analysis or investigation of the email. Peer review takes place only if there is a further threat of users interacting with the newly classified email.
 
 `POLEBL010:` If deletion of emails takes place, then details of the criteria **SHOULD** be included as part of the documentation process recorded as part of change or incident management.
 
-`POLEBL011:` Where appropriate, users are encouraged to delete for themselves any emails confirmed to be in scope for blocking or deletion. Deletion of emails by the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) **SHOULD** take place only where there is a significant number of users who received the newly classified email.
+`POLEBL011:` Where appropriate, users are encouraged to delete for themselves any emails confirmed to be in scope for blocking or deletion. Deletion of emails by the [Security team](mailto:security@justice.gov.uk) **SHOULD** take place only where there is a significant number of users who received the newly classified email.
 
 `POLEBL012:` Removing emails from recipient mailboxes is a viable alternative to adding emails to an email blocklist. This **SHOULD** be the preferred option to prevent users from interacting with emails considered for blocking or removal.
 
@@ -76,7 +76,7 @@ Email types considered for blocking or removal include:
 
 `POLEBL015:` The MoJ has no responsibility to delete emails from unmanaged MoJ mailboxes.
 
-`POLEBL016:` Automatic deletion of emails for users **SHOULD** be done through automated processes. The [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) **SHALL** minimise access to the mailbox from which unwanted emails are purged.
+`POLEBL016:` Automatic deletion of emails for users **SHOULD** be done through automated processes. The [Security team](mailto:security@justice.gov.uk) **SHALL** minimise access to the mailbox from which unwanted emails are purged.
 
 ## Automated blocking tools
 
@@ -90,9 +90,9 @@ The Cyber Security Team encourages the integration with 3rd party threat intelli
 
 `POLEBL019:` Any MoJ user who receives an email suspected to be one of the [types described previously](#blocklist-definition) **CAN** request that the email be blocked, preventing future similar emails from being received. On receipt of this, the MoJ reviews the evidence and determines if addition to a blocklist is appropriate. Further actions taken follow the policy statements in this guidance.
 
-`POLEBL020:` Addition of emails to the blocklist is completed by either the local email service management team, or by the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk). If the former, then approval **SHALL** be obtained from the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk).
+`POLEBL020:` Addition of emails to the blocklist is completed by either the local email service management team, or by the [Security team](mailto:security@justice.gov.uk). If the former, then approval **SHALL** be obtained from the [Security team](mailto:security@justice.gov.uk).
 
-`POLEBL021:` In the event that an email is causing widespread disruptions or impacting business, then the individual email administration team responsible for the email platforms **CAN** delete emails or place blocks on emails without prior approval. This **SHOULD** be done under change and incident management, with notifications sent to the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk).
+`POLEBL021:` In the event that an email is causing widespread disruptions or impacting business, then the individual email administration team responsible for the email platforms **CAN** delete emails or place blocks on emails without prior approval. This **SHOULD** be done under change and incident management, with notifications sent to the [Security team](mailto:security@justice.gov.uk).
 
 `POLEBL022:` The MoJ **SHALL** provide a way for users to request emails for review by the relevant teams.
 
@@ -112,7 +112,7 @@ The Cyber Security Team encourages the integration with 3rd party threat intelli
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

@@ -8,6 +8,10 @@ This article provides guidance on passwords and Personal Identification Numbers 
 
 This guidance is for all users.
 
+![A thumbnail of the strong password information poster.](images/how-to-make-strong-passwords.png)
+
+A useful information leaflet on strong passwords is available for download [here](./culture/how-to-make-strong-passwords.pdf).
+
 **Note:** Except where stated, the guidance in this article applies to both passwords and PINs.
 
 **Related information**  
@@ -160,7 +164,7 @@ The following table shows the valid lifetime of a single-use password:
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ---
 

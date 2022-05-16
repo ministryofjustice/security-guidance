@@ -50,7 +50,7 @@ The IT Service Desk will investigate the reason why you cannot access the websit
 
 If there was a system error or fault, remedial action will restore access.
 
-If the block is due to an access rule, Operational Security reviews whether to change the rule.
+If the block is due to an access rule, the Security team reviews whether to change the rule.
 
 ##What to do if you are able to access a website that you think should be blocked
 
@@ -66,7 +66,7 @@ Provide the following details:
 
 * HMPPS Prison - All requests should be directed to the IT Service Desk via a local or area IT Manager.
 * HMPPS Probation - Log an incident with your IT Service Desk.
-* All other teams, contact the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
+* All other teams, contact the [Security team](mailto:security@justice.gov.uk).
 
 ##General enquiries, including theft and loss
 

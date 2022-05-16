@@ -67,7 +67,7 @@ Most MoJ IT systems attract a BIL of 3 for Confidentially, Integrity and Availab
 
 #### People and resources
 
-The MoJ IT Operational Security Team \(OST\) is responsible for the IT Security Incident Management Process and charged with responding to all IT security incidents.
+The MoJ [Security team](mailto:security@justice.gov.uk) is responsible for the IT Security Incident Management Process and charged with responding to all IT security incidents.
 
 The MoJ intends to use a mix of internal and external resources to ensure that its forensic investigation capability can quickly and efficiently react to potentially incidents thereby minimising disruption to business.
 
@@ -145,7 +145,7 @@ The [IT Incident Management Policy](it-incident-management-policy.md) sets out t
 
 |Step|Activity|Role/s responsible|
 |----|--------|------------------|
-|1|Decision to conduct a Forensic Investigation|MoJ OST / MoJ ITSO|
+|1|Decision to conduct a Forensic Investigation|MoJ [Security team](mailto:security@justice.gov.uk) / MoJ ITSO|
 |2|Agree the scope of the forensic investigation|MoJ ITSO|
 |3|Provide a Single Point of Contact \(SPOC\) for incident management and co-ordinate forensic activities|Forensic Investigation Owner|
 |4|Establish a forensic investigation|Forensic Investigation Owner / MoJ IT System Manager / External Forensics provider|
@@ -155,7 +155,7 @@ The [IT Incident Management Policy](it-incident-management-policy.md) sets out t
 |8|Approval of forensic reports|SIRO / IAO / MoJ ITSO|
 |9|Long term storage of evidence if required|MoJ IT System Manager / MoJ ITSO|
 |10|Provide specialist digital forensics legal advice to investigations|External Forensics provider|
-|11|External reporting and liaising|MoJ OST / MoJ ITSO|
+|11|External reporting and liaising|MoJ [Security team](mailto:security@justice.gov.uk) / MoJ ITSO|
 |12|Act as Expert Witness for legal proceedings \(if required\)|External Forensics provider|
 |13|Post incident remediation analysis including production of lessons learned|Forensic Investigation Owner / External Forensics provider|
 |14|Approval of post incident remediation|SIRO / IAO / MoJ ITSO|
@@ -179,7 +179,7 @@ To support continuous improvement, the Forensic Readiness Plan must be updated a
 -   Status of the plan and associated scenarios;
 -   Status of any exercise and feedback from those exercises;
 -   Status of staff or external provider competency levels \(including register of formal certifications\);
--   Current and past investigation knowledgebase and active issues \(to be managed by MoJ OST\);
+-   Current and past investigation knowledgebase and active issues \(to be managed by the MoJ [Security team](mailto:security@justice.gov.uk)\);
 -   Status of the current review cycle.
 
 ## Staff, education, training and awareness

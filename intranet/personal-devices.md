@@ -39,7 +39,7 @@ Personal devices **SHALL NOT** be charged from the USB ports of an MoJ device.
 * You **SHALL NOT** use personal accounts for work purposes.
 * You **SHALL NOT** store work files or information on a personal device such as a desktop, laptop, tablet or phone.
 * You **SHALL NOT** store work files or information on a personal storage device or memory stick, such as an external drive, thumb drive, or USB stick.
-* Some teams within the MoJ **MIGHT** have permission to use personal devices for some tasks. This permission continues, but is being reviewed on an on-going basis. Ensure that you have documented approval recording your permission. Ensure that the permission is no more than 12 months old. To request or refresh permission, ask your Line Manager to seek approval by checking with the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk).
+* Some teams within the MoJ **MIGHT** have permission to use personal devices for some tasks. This permission continues, but is being reviewed on an on-going basis. Ensure that you have documented approval recording your permission. Ensure that the permission is no more than 12 months old. To request or refresh permission, ask your Line Manager to seek approval by checking with the [Security team](mailto:security@justice.gov.uk).
 
 **Note:** You are not asked or required to use your own devices for work purposes. If you have access to MoJ devices for work purposes, you **SHALL** use them by default.
 
@@ -63,7 +63,7 @@ For these reasons, MoJ devices **SHALL NOT** be paired with Bluetooth-enabled ve
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ---
 

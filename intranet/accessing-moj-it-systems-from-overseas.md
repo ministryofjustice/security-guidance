@@ -106,7 +106,7 @@ If there is a problem with your MoJ equipment, it might be necessary to disable 
 
 ##Contacts
 
-##Operational Security Team
+##Security Team
 
 * Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 * Slack: `#security`

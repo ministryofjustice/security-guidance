@@ -156,11 +156,10 @@
 	<topic id="contacts">
 		<title>Contacts</title>
 		<body />
-		<topic id="operational-security-team">
-			<title>Operational Security Team</title>
+		<topic id="security-team">
+			<title>Security Team</title>
 			<body>
 				<ul>
-					<!-- <li>Email: <ph conref="conrefs.dita#conrefs/ostemail"/></li> -->
 					<li>Email: <ph conref="conrefs.dita#conrefs/securityemail"/></li>
 					<li>Slack: <codeph>#security</codeph></li>
 				</ul>

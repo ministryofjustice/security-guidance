@@ -20,9 +20,9 @@
   <topic id="classifying-information">
     <title>Classifying information</title>
     <body>
-      <p>The three information security classifications the <ph conref="conrefs.dita#conrefs/moj"/> uses are <codeph>OFFICIAL</codeph>,
-        <codeph>SECRET</codeph>,
-        and <codeph>TOP SECRET</codeph>.
+      <p>The three information security classifications the <ph conref="conrefs.dita#conrefs/moj"/> uses are <ph conref="conrefs.dita#conrefs/official"/>,
+        <ph conref="conrefs.dita#conrefs/secret"/>,
+        and <ph conref="conrefs.dita#conrefs/topsecret"/>.
         This follows the <ph conref="conrefs.dita#conrefs/hmggovernmentsecurityclassifications"/>.</p>
       <p>Each information security classification has a minimum set of security measures associated with it that need to be applied.
         These security measures might change,
@@ -39,7 +39,7 @@
           </thead>
           <tbody>
             <row>
-              <entry colname="col1"><b><codeph>OFFICIAL</codeph></b></entry>
+              <entry colname="col1"><b><ph conref="conrefs.dita#conrefs/official"/></b></entry>
               <entry colname="col2">All information related to routine business,
                 operations,
                 and services.
@@ -49,11 +49,11 @@
                 it could have damaging consequences,
                 but is not subject to a heightened threat profile.
                 For regular,
-                unsupervised access to <codeph>OFFICIAL</codeph> information,
+                unsupervised access to <ph conref="conrefs.dita#conrefs/official"/> information,
                 someone would be expected to have achieved <xref href="https://www.gov.uk/government/publications/government-baseline-personnel-security-standard" format="html" scope="external">Baseline Personnel Security Standard (BPSS)</xref> assessment.</entry>
             </row>
             <row>
-              <entry colname="col1"><b><codeph>SECRET</codeph></b></entry>
+              <entry colname="col1"><b><ph conref="conrefs.dita#conrefs/secret"/></b></entry>
               <entry colname="col2">Very sensitive information that requires protection against highly sophisticated,
                 well-resourced,
                 and determined threat actors.
@@ -62,14 +62,14 @@
                 international relations,
                 or the investigation of a serious crime.
                 For regular,
-                unsupervised access to <codeph>SECRET</codeph> information,
+                unsupervised access to <ph conref="conrefs.dita#conrefs/secret"/> information,
                 someone would be expected to have passed <xref href="https://www.gov.uk/guidance/security-vetting-and-clearance#applicant" format="html" scope="external">National Security Vetting</xref> Security Check (SC) clearance.
                 In exceptional circumstances,
-                someone with BPSS might be granted occasional supervised access to UK <codeph>SECRET</codeph> assets,
-                or be required to work in areas where <codeph>SECRET</codeph> or <codeph>TOP SECRET</codeph> information might be overheard.</entry>
+                someone with BPSS might be granted occasional supervised access to UK <ph conref="conrefs.dita#conrefs/secret"/> assets,
+                or be required to work in areas where <ph conref="conrefs.dita#conrefs/secret"/> or <ph conref="conrefs.dita#conrefs/topsecret"/> information might be overheard.</entry>
             </row>
             <row>
-              <entry colname="col1"><b><codeph>TOP SECRET</codeph></b></entry>
+              <entry colname="col1"><b><ph conref="conrefs.dita#conrefs/topsecret"/></b></entry>
               <entry colname="col2">Exceptionally sensitive information that directly supports,
                 or threatens,
                 the national security of the UK or its allies,
@@ -111,12 +111,12 @@
         and not by the type of information.</p>
       <p>It is the responsibility of the Data Owner to classify the data.</p>
       <ul>
-        <li>Most production data is <codeph>OFFICIAL</codeph> information.
+        <li>Most production data is <ph conref="conrefs.dita#conrefs/official"/> information.
           Within this,
-          some production data might be classified as <codeph>SECRET</codeph> information.</li>
-        <li>Most personal data is <codeph>OFFICIAL</codeph> information.
+          some production data might be classified as <ph conref="conrefs.dita#conrefs/secret"/> information.</li>
+        <li>Most personal data is <ph conref="conrefs.dita#conrefs/official"/> information.
           Within this,
-          some personal data might be classified as <codeph>SECRET</codeph> information if it meets the risk threshold defined.</li>
+          some personal data might be classified as <ph conref="conrefs.dita#conrefs/secret"/> information if it meets the risk threshold defined.</li>
       </ul>
         <p>The following table sets out the definitions for each security classification,
           as well as whether it is necessary to explicitly "mark" a piece of information with its classification type.
@@ -134,33 +134,33 @@
             </thead>
             <tbody>
               <row>
-                <entry colname="col1"><b><codeph>OFFICIAL</codeph></b></entry>
+                <entry colname="col1"><b><ph conref="conrefs.dita#conrefs/official"/></b></entry>
                 <entry colname="col2">All information related to routine public sector business,
                   operations and services.</entry>
                 <entry colname="col3"> </entry>
               </row>
               <row>
                 <entry colname="col1"> </entry>
-                <entry colname="col2">Almost all personal information falls within the <codeph>OFFICIAL</codeph> classification.</entry>
+                <entry colname="col2">Almost all personal information falls within the <ph conref="conrefs.dita#conrefs/official"/> classification.</entry>
                 <entry colname="col3"> </entry>
               </row>
               <row>
                 <entry colname="col1"> </entry>
-                <entry colname="col2"><codeph>OFFICIAL-SENSITIVE</codeph> is not a separate security classification.
+                <entry colname="col2"><ph conref="conrefs.dita#conrefs/official-sensitive"/> is not a separate security classification.
                   It should be used to reinforce the "need to know" principle,
-                  beyond the baseline for <codeph>OFFICIAL</codeph>.</entry>
-                <entry colname="col3"><codeph>OFFICIAL</codeph> data does not need to be marked except where <codeph>SENSITIVE</codeph>,
-                  and must be marked <codeph>OFFICIAL-SENSITIVE</codeph>.</entry>
+                  beyond the baseline for <ph conref="conrefs.dita#conrefs/official"/>.</entry>
+                <entry colname="col3"><ph conref="conrefs.dita#conrefs/official"/> data does not need to be marked except where <codeph>SENSITIVE</codeph>,
+                  and must be marked <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</entry>
               </row>
               <row>
-                <entry colname="col1"><b><codeph>SECRET</codeph></b></entry>
+                <entry colname="col1"><b><ph conref="conrefs.dita#conrefs/secret"/></b></entry>
                 <entry colname="col2">Very sensitive information that requires protection against highly sophisticated,
                   well-resourced and determined threat actors,
                   for example serious and organised crime.</entry>
                 <entry colname="col3">Must be marked</entry>
               </row>
               <row>
-                <entry colname="col1"><b><codeph>TOP SECRET</codeph></b></entry>
+                <entry colname="col1"><b><ph conref="conrefs.dita#conrefs/topsecret"/></b></entry>
                 <entry colname="col2">Exceptionally sensitive information that directly supports (or threatens) the national security of the UK or its allies and requires extremely high assurance of protection from all threats.</entry>
                 <entry colname="col3">Must be marked</entry>
               </row>
@@ -186,12 +186,12 @@
         </body>
     </topic>
     <topic id="official-and-official-sensitive">
-      <title><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></title>
+      <title><ph conref="conrefs.dita#conrefs/official"/> and <ph conref="conrefs.dita#conrefs/official-sensitive"/></title>
       <body>
         <p>All of the <ph conref="conrefs.dita#conrefs/moj"/>'s information is,
           at a minimum,
-          <codeph>OFFICIAL</codeph> information.
-          It is very likely that the information you create and use in your <ph conref="conrefs.dita#conrefs/moj"/> day-to-day job is <codeph>OFFICIAL</codeph> information.</p>
+          <ph conref="conrefs.dita#conrefs/official"/> information.
+          It is very likely that the information you create and use in your <ph conref="conrefs.dita#conrefs/moj"/> day-to-day job is <ph conref="conrefs.dita#conrefs/official"/> information.</p>
         <p>Examples include:
         <ul>
           <li>Routine emails you send to your colleagues.</li>
@@ -204,49 +204,49 @@
           <li>Most production data.</li>
           <li>Most non-production data.</li>
         </ul></p>
-        <p><codeph>OFFICIAL</codeph> means that the <ph conref="conrefs.dita#conrefs/moj"/>'s typical security measures are regarded as sufficient.</p>
-        <p><codeph>OFFICIAL-SENSITIVE</codeph> whilst not a formal classification,
+        <p><ph conref="conrefs.dita#conrefs/official"/> means that the <ph conref="conrefs.dita#conrefs/moj"/>'s typical security measures are regarded as sufficient.</p>
+        <p><ph conref="conrefs.dita#conrefs/official-sensitive"/> whilst not a formal classification,
           should be used sparingly,
           so that its effectiveness is not weakened.
-          This is especially important when you consider that <codeph>OFFICIAL</codeph> is already well-protected.</p>
-        <p>Use <codeph>OFFICIAL-SENSITIVE</codeph> when you want to remind users to be careful when handling information.
+          This is especially important when you consider that <ph conref="conrefs.dita#conrefs/official"/> is already well-protected.</p>
+        <p>Use <ph conref="conrefs.dita#conrefs/official-sensitive"/> when you want to remind users to be careful when handling information.
           This asks them to use extra care,
-          beyond what is expected for the baseline <codeph>OFFICIAL</codeph> classification.</p>
+          beyond what is expected for the baseline <ph conref="conrefs.dita#conrefs/official"/> classification.</p>
       </body>
     </topic>
     <topic id="secret">
-      <title><codeph>SECRET</codeph></title>
+      <title><ph conref="conrefs.dita#conrefs/secret"/></title>
       <body>
-        <p>The threshold for classifying information as <codeph>SECRET</codeph> information is very high.
-          It is unlikely that you will encounter <codeph>SECRET</codeph> information in your day-to-day job.</p>
-        <p><codeph>SECRET</codeph> information should not usually be handled unless you have sufficient and valid clearance.
-          If you have gained access to information that you believe is <codeph>SECRET</codeph>,
-          contact the Cyber Assistance Team (CAT) immediately: <ph conref="conrefs.dita#conrefs/catemail"/>.</p>
-        <p>To help decide whether some information should be classified as <codeph>SECRET</codeph>,
+        <p>The threshold for classifying information as <ph conref="conrefs.dita#conrefs/secret"/> information is very high.
+          It is unlikely that you will encounter <ph conref="conrefs.dita#conrefs/secret"/> information in your day-to-day job.</p>
+        <p><ph conref="conrefs.dita#conrefs/secret"/> information should not usually be handled unless you have sufficient and valid clearance.
+          If you have gained access to information that you believe is <ph conref="conrefs.dita#conrefs/secret"/>,
+          contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/> immediately.</p>
+        <p>To help decide whether some information should be classified as <ph conref="conrefs.dita#conrefs/secret"/>,
           ask yourself a simple question:
           <lq>If a hacker gained unauthorised access to the information,
             could it compromise the security or prosperity of the country?</lq></p>
         <p>The answer is most likely "No".
           In that case,
-          you should consider using the <codeph>OFFICIAL</codeph> classification.</p>
+          you should consider using the <ph conref="conrefs.dita#conrefs/official"/> classification.</p>
       </body>
     </topic>
     <topic id="top-secret">
-      <title><codeph>TOP SECRET</codeph></title>
+      <title><ph conref="conrefs.dita#conrefs/topsecret"/></title>
       <body>
-        <p>If the threshold for classifying information as <codeph>SECRET</codeph> is very high,
-          the threshold for classifying information as <codeph>TOP SECRET</codeph> is extremely high.
-          It is very unlikely that you will encounter <codeph>TOP SECRET</codeph> information in your day-to-day job.</p>
-        <p><codeph>TOP SECRET</codeph> information should not be handled unless you have sufficient and valid clearance.
-          If you have gained access to information that you believe is <codeph>TOP SECRET</codeph>,
-          contact the Cyber Assistance Team (CAT) immediately: <ph conref="conrefs.dita#conrefs/catemail"/>.</p>
-        <p>To help decide whether some information should be classified as <codeph>TOP SECRET</codeph>,
+        <p>If the threshold for classifying information as <ph conref="conrefs.dita#conrefs/secret"/> is very high,
+          the threshold for classifying information as <ph conref="conrefs.dita#conrefs/topsecret"/> is extremely high.
+          It is very unlikely that you will encounter <ph conref="conrefs.dita#conrefs/topsecret"/> information in your day-to-day job.</p>
+        <p><ph conref="conrefs.dita#conrefs/topsecret"/> information should not be handled unless you have sufficient and valid clearance.
+          If you have gained access to information that you believe is <ph conref="conrefs.dita#conrefs/topsecret"/>,
+          contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/> immediately.</p>
+        <p>To help decide whether some information should be classified as <ph conref="conrefs.dita#conrefs/topsecret"/>,
           ask yourself a simple question:
           <lq>If a hacker gained unauthorised access to the information,
             would it directly and immediately threaten the national security of the country?</lq></p>
         <p>The answer is most likely "No".
           In that case,
-          you should consider using the <codeph>OFFICIAL</codeph> or <codeph>SECRET</codeph> classification,
+          you should consider using the <ph conref="conrefs.dita#conrefs/official"/> or <ph conref="conrefs.dita#conrefs/secret"/> classification,
           as appropriate.</p>
       </body>
     </topic>
@@ -258,7 +258,7 @@
           a useful model is to consider what audience might get value from accessing the information.
           For example,
           if a hostile country might want the information,
-          then the information might well be best classified as <codeph>SECRET</codeph>.
+          then the information might well be best classified as <ph conref="conrefs.dita#conrefs/secret"/>.
           Alternatively,
           a reclassification decision might be required as a result of changing threat advice from intelligence agencies.</p>
       </body>
@@ -267,7 +267,7 @@
         <body>
           <p>An asset owner creates a report.
             The report contains potentially private information about individuals.
-            The asset owner decides that the report should be classified as <codeph>OFFICIAL</codeph>,
+            The asset owner decides that the report should be classified as <ph conref="conrefs.dita#conrefs/official"/>,
             with the <codeph>SENSITIVE</codeph> handling caveat.</p>
           <p>A user wishes to share a copy of the report "as-is" with their team.
             They cannot remove the handling caveat without prior discussion and agreement from the asset owner.</p>
@@ -278,7 +278,7 @@
         <body>
           <p>An asset owner creates a report.
             The report contains potentially private information about individuals.
-            The asset owner decides that the report should be classified as <codeph>OFFICIAL</codeph>,
+            The asset owner decides that the report should be classified as <ph conref="conrefs.dita#conrefs/official"/>,
             with the <codeph>SENSITIVE</codeph> handling caveat.</p>
           <p>A user wishes to share a subset of the report with their team.
             In particular,
@@ -286,7 +286,7 @@
             The user becomes the owner of this new asset.
             They are responsible for this new asset.
             They can decide that the <codeph>SENSITIVE</codeph> handling caveat is not required.</p>
-            <p>The original report retains its <codeph>OFFICIAL</codeph> classification and <codeph>SENSITIVE</codeph> handling caveat.</p>
+            <p>The original report retains its <ph conref="conrefs.dita#conrefs/official"/> classification and <codeph>SENSITIVE</codeph> handling caveat.</p>
         </body>
       </topic>
       <topic id="example-3">
@@ -294,12 +294,12 @@
         <body>
           <p>An asset owner creates a report.
             The report contains information about plans to handle a pandemic.
-            The asset owner decides that the report should be classified as <codeph>OFFICIAL</codeph>,
+            The asset owner decides that the report should be classified as <ph conref="conrefs.dita#conrefs/official"/>,
             with the <codeph>SENSITIVE</codeph> handling caveat.</p>
           <p>A user reviews the report.
             They realise that the information could potentially compromise the security or prosperity of the country.
             They decide to increase the classification of the report,
-            and treat it as <codeph>SECRET</codeph>.
+            and treat it as <ph conref="conrefs.dita#conrefs/secret"/>.
             They discuss this decision with the asset owner,
             so that the original report is correctly reclassified.</p>
         </body>
@@ -319,7 +319,7 @@
       <p>The following sections set out the minimum measures you need to consider when handling and securing information within the different levels of classification.</p>
     </body>
     <topic id="handling-and-securing-official-and-official-sensitive-information">
-      <title>Handling and securing <codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph> information</title>
+      <title>Handling and securing <ph conref="conrefs.dita#conrefs/official"/> and <ph conref="conrefs.dita#conrefs/official-sensitive"/> information</title>
       <body>
         <table>
           <tgroup cols="3">
@@ -393,7 +393,7 @@
               </row>
               <row>
                 <entry colname="col1"> </entry>
-                <entry colname="col2"><ph conref="conrefs.dita#conrefs/gcloud"/> services can be used for <codeph>OFFICIAL</codeph> information.</entry>
+                <entry colname="col2"><ph conref="conrefs.dita#conrefs/gcloud"/> services can be used for <ph conref="conrefs.dita#conrefs/official"/> information.</entry>
                 <entry colname="col3"> </entry>
               </row>
               <row>
@@ -414,7 +414,7 @@
       </body>
     </topic>
     <topic id="handling-and-securing-secret-information">
-      <title>Handling and securing <codeph>SECRET</codeph> information</title>
+      <title>Handling and securing <ph conref="conrefs.dita#conrefs/secret"/> information</title>
       <body>
         <table>
           <tgroup cols="3">
@@ -432,13 +432,13 @@
               <row>
                 <entry colname="col1"><b><codeph>PERSONNEL</codeph></b></entry>
                 <entry colname="col2">Make sure employees and contractors undergo Security Check (SC).</entry>
-                <entry colname="col3">A contractor working with the <ph conref="conrefs.dita#conrefs/moj"/> Security Team must have at least SC before being allowed to access <codeph>SECRET</codeph> information.</entry>
+                <entry colname="col3">A contractor working with the <ph conref="conrefs.dita#conrefs/moj"/> Security Team must have at least SC before being allowed to access <ph conref="conrefs.dita#conrefs/secret"/> information.</entry>
               </row>
               <row>
                 <entry colname="col1"><b><codeph>PHYSICAL</codeph></b></entry>
-                <entry colname="col2">Consider using multiple layers of security to protect <codeph>SECRET</codeph> information.
-                  <codeph>SECRET</codeph> information should be held on a secure computer network which is physically isolated from unsecured networks and the internet.</entry>
-                <entry colname="col3">Imagine you are moving locations for a server used to host <codeph>SECRET</codeph> information.
+                <entry colname="col2">Consider using multiple layers of security to protect <ph conref="conrefs.dita#conrefs/secret"/> information.
+                  <ph conref="conrefs.dita#conrefs/secret"/> information should be held on a secure computer network which is physically isolated from unsecured networks and the internet.</entry>
+                <entry colname="col3">Imagine you are moving locations for a server used to host <ph conref="conrefs.dita#conrefs/secret"/> information.
                   The encrypted server is secured in a locked and monitored room in 102 Petty France.
                   You have now decided to move it to 10 South Colonnade.
                   This should only be done after relevant parties,
@@ -452,26 +452,25 @@
               </row>
               <row>
                 <entry colname="col1"> </entry>
-                <entry colname="col2">Transferring <codeph>SECRET</codeph> information from one location to another requires planning and preparation,
+                <entry colname="col2">Transferring <ph conref="conrefs.dita#conrefs/secret"/> information from one location to another requires planning and preparation,
                   including the completion of a Risk Assessment and the use of SC-cleared personnel.
                   More information on this is available in the <ph conref="conrefs.dita#conrefs/hmggovernmentsecurityclassifications"/> and from your manager.</entry>
                 <entry colname="col3"> </entry>
               </row>
               <row>
                 <entry colname="col1"><b><codeph>TECHNICAL</codeph></b></entry>
-                <entry colname="col2"><codeph>SECRET</codeph> information at rest should be protected with very strong encryption.
-                  Contact the <ph conref="conrefs.dita#conrefs/moj"/> Security Team for more information: <ph conref="conrefs.dita#conrefs/securityemail"/>.</entry>
+                <entry colname="col2"><ph conref="conrefs.dita#conrefs/secret"/> information at rest should be protected with very strong encryption.
+                  Contact the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> for more information.</entry>
                 <entry colname="col3"> </entry>
               </row>
               <row>
                 <entry colname="col1"> </entry>
-                <entry colname="col2">Care should be taken to ensure that <codeph>SECRET</codeph> information in transit is only shared with defined recipient users through assured shared infrastructure or using very strong encryption.</entry>
+                <entry colname="col2">Care should be taken to ensure that <ph conref="conrefs.dita#conrefs/secret"/> information in transit is only shared with defined recipient users through assured shared infrastructure or using very strong encryption.</entry>
                 <entry colname="col3"> </entry>
               </row>
               <row>
                 <entry colname="col1"> </entry>
-                <entry colname="col2"><codeph>SECRET</codeph> information should be processed on IT systems which have been approved for the <codeph>SECRET</codeph> threat model. Advice on what commercial IT systems meet this requirement is available from the <ph conref="conrefs.dita#conrefs/moj"/> Security Team:
-                  <ph conref="conrefs.dita#conrefs/securityemail"/></entry>
+                <entry colname="col2"><ph conref="conrefs.dita#conrefs/secret"/> information should be processed on IT systems which have been approved for the <ph conref="conrefs.dita#conrefs/secret"/> threat model. Advice on what commercial IT systems meet this requirement is available from the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/>.</entry>
                 <entry colname="col3"> </entry>
               </row>
             </tbody>
@@ -481,7 +480,7 @@
       </body>
     </topic>
     <topic id="handling-and-securing-top-secret-information">
-      <title>Handling and securing <codeph>TOP SECRET</codeph> information</title>
+      <title>Handling and securing <ph conref="conrefs.dita#conrefs/topsecret"/> information</title>
       <body>
         <table>
           <tgroup cols="3">
@@ -500,14 +499,14 @@
                 <entry colname="col1"><b><codeph>PERSONNEL</codeph></b></entry>
                 <entry colname="col2">Ensure employees and contractors undergo Developed Vetting (DV) security clearance checks.</entry>
                 <entry colname="col3">A contractor working with the <ph conref="conrefs.dita#conrefs/moj"/> Security Team should have at least DV clearance
-                  before being allowed to access <codeph>TOP SECRET</codeph> information.</entry>
+                  before being allowed to access <ph conref="conrefs.dita#conrefs/topsecret"/> information.</entry>
               </row>
               <row>
                 <entry colname="col1"><b><codeph>PHYSICAL</codeph></b></entry>
-                <entry colname="col2">Handling and storing <codeph>TOP SECRET</codeph> information requires exceptional planning,
+                <entry colname="col2">Handling and storing <ph conref="conrefs.dita#conrefs/topsecret"/> information requires exceptional planning,
                   monitoring,
                   and record-keeping.</entry>
-                <entry colname="col3">Imagine you are moving locations for a server used to host <codeph>TOP SECRET</codeph> information.
+                <entry colname="col3">Imagine you are moving locations for a server used to host <ph conref="conrefs.dita#conrefs/topsecret"/> information.
                   The encrypted server is secured in a locked and continuously monitored room in 102 Petty France.
                   You have now decided to move it to 10 South Colonnade.
                   This should only be done after you,
@@ -520,13 +519,13 @@
               </row>
               <row>
                 <entry colname="col1"> </entry>
-                <entry colname="col2">Working remotely with <codeph>TOP SECRET</codeph> is not permitted due to the extreme sensitivity of the information.</entry>
+                <entry colname="col2">Working remotely with <ph conref="conrefs.dita#conrefs/topsecret"/> is not permitted due to the extreme sensitivity of the information.</entry>
                 <entry colname="col3"> </entry>
               </row>
               <row>
                 <entry colname="col1"> </entry>
-                <entry colname="col2">Transferring <codeph>TOP SECRET</codeph> information from one location to another
-                  requires even greater planning and preparation than for <codeph>SECRET</codeph> information,
+                <entry colname="col2">Transferring <ph conref="conrefs.dita#conrefs/topsecret"/> information from one location to another
+                  requires even greater planning and preparation than for <ph conref="conrefs.dita#conrefs/secret"/> information,
                   including the completion of a Risk Assessment by senior management and the use of DV-cleared personnel.
                   More information on this is available in the <ph conref="conrefs.dita#conrefs/hmggovernmentsecurityclassifications"/> and from your manager.</entry>
                 <entry colname="col3"> </entry>
@@ -534,22 +533,22 @@
               <row>
                 <entry colname="col1"><b><codeph>TECHNICAL</codeph></b></entry>
                 <entry colname="col2">When physical security measures cannot be used,
-                  <codeph>TOP SECRET</codeph> information at rest should be protected with extremely strong encryption.
-                  Contact the <ph conref="conrefs.dita#conrefs/moj"/> Security Team in these circumstances: <ph conref="conrefs.dita#conrefs/securityemail"/>.</entry>
+                  <ph conref="conrefs.dita#conrefs/topsecret"/> information at rest should be protected with extremely strong encryption.
+                  Contact the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> in these circumstances.</entry>
                 <entry colname="col3"> </entry>
               </row>
               <row>
                 <entry colname="col1"> </entry>
-                <entry colname="col2">Care should be taken to ensure that <codeph>TOP SECRET</codeph> information in transit
+                <entry colname="col2">Care should be taken to ensure that <ph conref="conrefs.dita#conrefs/topsecret"/> information in transit
                   is only shared with defined recipient users through accredited shared infrastructure or using extremely strong encryption.</entry>
                 <entry colname="col3"> </entry>
               </row>
               <row>
                 <entry colname="col1"> </entry>
-                <entry colname="col2"><codeph>TOP SECRET</codeph> information should be processed on IT systems
-                  which have been approved <foreign></foreign>the <codeph>TOP SECRET</codeph> threat model.
-                  Advice on what commercial IT systems meet this requirement is available from the <ph conref="conrefs.dita#conrefs/moj"/> Security Team:
-                  <ph conref="conrefs.dita#conrefs/securityemail"/>.</entry>
+                <entry colname="col2"><ph conref="conrefs.dita#conrefs/topsecret"/> information should be processed on IT systems
+                  which have been approved <foreign></foreign>the <ph conref="conrefs.dita#conrefs/topsecret"/> threat model.
+                  Advice on what commercial IT systems meet this requirement is available from the <ph conref="conrefs.dita#conrefs/moj"/>
+                  <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</entry>
                 <entry colname="col3"> </entry>
               </row>
             </tbody>
