@@ -135,7 +135,7 @@ The bottom line is:
 |Slido|Q&A tool during presentations|Avoid personal or sensitive data|Web browser.|Internal|
 |Trello|Project management tool, 'Kanban' cards|Avoid personal or sensitive data. An enterprise-wide MoJ licence is available. Ensure you create Trello boards in the MoJ workspace. Do not use a personal Trello account.|Web browser based use. Log in using your MoJ single sign-on account, for example a Digital & Technology Google account, or a Microsoft Office 365 account.|Internal|
 |Twitter|Text Messaging, Video transmission|Approved for MoJ Corporate account. Using a personal account to comment on work related issues is encouraged, as long as you follow the [Civil Service Code of Conduct](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code).|Web browser, Smartphone App.|Internal/External|
-|Vimeo|Video sharing tool|Avoid personal or sensitive data|Web browser.|Internal/External|
+|Vimeo|Video sharing tool|Avoid personal or sensitive data|Web browser.|Internal|
 |WhatsApp|Text messaging, Voice/Video calls|Avoid personal or sensitive data|Dedicated app on device, also web browser.|Internal/External|
 |Yammer|Text messaging|Avoid personal or sensitive data|Dedicated app on device|Internal|
 |YouTube|Video sharing tool: Video, streaming and chat|Avoid personal or sensitive data|Web browser based use.|Internal/External|
