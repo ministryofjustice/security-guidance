@@ -194,7 +194,7 @@ For further information on user de-registration, refer to the [MoJ Enterprise Ac
 -   `POLACP049:` Default passwords **SHALL** be managed securely and safely by privileged account users, described in the [Password Manager](password-managers.md) guidance. Refer to the [Privileged Account Management](privileged-account-management-guide.md) guidance for more information.
 -   `POLACP050:` All users with ownership and use of privileged accounts **SHALL** have these secured, controlled, monitored, and audited by System Administrators every month using an industry-standard Privileged Access Management \(PAM\) tool. Refer to the [Privileged Account Management](privileged-account-management-guide.md) guidance for more information.
 
-**Note:** Privileged access rights provide a Technical user or a Service Provider with an enhanced level of access to the MoJ's information systems, compared to a General user. This can include the authorisation to configure networks or systems, provision and configure accounts and cloud instances, and so on.
+**Note:** Privileged user access rights provide a Technical user or a Service Provider with an enhanced level of access to the MoJ's information systems, compared to a General user. This can include the authorisation to configure networks or systems, provision and configure accounts and cloud instances, and so on.
 
 ### Management of Secret Authentication Information of Users
 
@@ -212,7 +212,7 @@ For further information on user de-registration, refer to the [MoJ Enterprise Ac
 
 -   The review of user access rights is covered in this policy under [User Access Provisioning](#user-access-provisioning).
 
-### Removal or Adjustment of Access Rights
+### Removal or Adjustment of User Access Rights
 
 `POLACP056:` All employees and external party user's access rights to information and information processing facilities **SHALL** be removed upon termination of their employment, contract or agreement, or adjusted when changing their role:
 

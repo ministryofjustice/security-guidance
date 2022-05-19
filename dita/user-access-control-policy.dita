@@ -394,7 +394,7 @@
             and audited by System Administrators every month using an industry-standard Privileged Access Management (PAM) tool.
             Refer to the <xref href="privileged-account-management-guide.dita" format="dita">Privileged Account Management</xref> guidance for more information.</li>
         </ul></p>
-        <note>Privileged access rights provide a Technical user or a Service Provider
+        <note>Privileged user access rights provide a Technical user or a Service Provider
           with an enhanced level of access to the <ph conref="conrefs.dita#conrefs/moj"/>'s information systems,
           compared to a General user.
           This can include the authorisation to configure networks or systems,
@@ -431,8 +431,8 @@
         </ul></p>
       </body>
     </topic>
-    <topic id="removal-or-adjustment-of-access-rights">
-      <title>Removal or Adjustment of Access Rights</title>
+    <topic id="removal-or-adjustment-of-user-access-rights">
+      <title>Removal or Adjustment of User Access Rights</title>
       <body>
         <p><codeph>POLACP056:</codeph> All employees and external party user's access rights to information and information processing facilities <ph conref="conrefs.dita#conrefs/policymust"/>
           be removed upon termination of their employment,
