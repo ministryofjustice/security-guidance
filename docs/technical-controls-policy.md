@@ -26,7 +26,7 @@ To help identify formal policy statements, each is prefixed with an identifier o
 
 [Acceptable Use Policy](acceptable-use-policy.md)
 
-[Access Control Policy](access-control-policy.md)
+[Access Control Policies](access-control-policy.md)
 
 [Code of connection standard](code-of-connection-standard.md)
 
@@ -57,10 +57,6 @@ To help identify formal policy statements, each is prefixed with an identifier o
 [System Test Standard](system-test-standard.md)
 
 [Use of HMG Cryptography Policy](use-of-hmg-cryptography-policy.md)
-
-[Device Access Control Policy](device-access-control-policy.md)
-
-[User Access Control Policy](user-access-control-policy.md)
 
 ## Approach to technical controls
 

@@ -1,8 +1,8 @@
-# Access Control Policy
+# Access Control Policies
 
-The Ministry of Justice \(MoJ\) Access Control Policy describes the access control security principles and responsibilities that apply within the MoJ. It consists of policies and guides that apply to MoJ access management.
+The Ministry of Justice \(MoJ\) Access Control policies describes the access control security principles and responsibilities that apply within the MoJ. They consist of policies and guides that apply to MoJ access management.
 
-The overall policy comprises three main documents:
+The overall policies consist of three main documents:
 
 <a name="[device-access-control-policy](device-access-control-policy.md)"></a>
 

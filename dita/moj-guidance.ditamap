@@ -595,7 +595,6 @@ if an audience attribute is present, then only matching content is included.
 			<relcell>
 				<topicref href="enterprise-access-control-policy.dita"/>
 				<topicref href="user-access-control-policy.dita"/>
-				<topicref href="technical-controls-policy.dita" type="topic" audience="audience-tech"/>
 			</relcell>
 		</relrow>
 		<relrow>
@@ -614,7 +613,6 @@ if an audience attribute is present, then only matching content is included.
 			<relcell>
 				<topicref href="device-access-control-policy.dita"/>
 				<topicref href="enterprise-access-control-policy.dita"/>
-				<topicref href="technical-controls-policy.dita" type="topic" audience="audience-tech"/>
 			</relcell>
 		</relrow>
 	</reltable>

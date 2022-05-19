@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="access-control-policy">
-  <title>Access Control Policy</title>
+  <title>Access Control Policies</title>
   <body>
-    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> Access Control Policy describes the access control security principles and responsibilities that apply within the <ph conref="conrefs.dita#conrefs/moj"/>.
-      It consists of policies and guides that apply to <ph conref="conrefs.dita#conrefs/moj"/> access management.</p>
-    <p>The overall policy comprises three main documents:</p>
+    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> Access Control policies describes the access control security principles and responsibilities that apply within the <ph conref="conrefs.dita#conrefs/moj"/>.
+      They consist of policies and guides that apply to <ph conref="conrefs.dita#conrefs/moj"/> access management.</p>
+    <p>The overall policies consist of three main documents:</p>
     <!-- The list of sub-documents is generated because they are nested in the ditamap. --> 
   </body>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>

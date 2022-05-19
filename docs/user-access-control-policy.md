@@ -4,7 +4,7 @@ This policy gives an overview of user access control security principles and res
 
 To help identify formal policy statements, each is prefixed with an identifier of the form: `POLACPxxx`, where xxx is a unique ID number.
 
-**Parent topic:** [Access Control Policy](access-control-policy.md)
+**Parent topic:** [Access Control Policies](access-control-policy.md)
 
 **Related information**  
 
@@ -12,8 +12,6 @@ To help identify formal policy statements, each is prefixed with an identifier o
 [Device Access Control Policy](device-access-control-policy.md)
 
 [Enterprise Access Control Policy](enterprise-access-control-policy.md)
-
-[Technical Controls Policy](technical-controls-policy.md)
 
 ## Audience
 

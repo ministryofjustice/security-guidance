@@ -6,7 +6,7 @@ To help identify formal policy statements, each is prefixed with an identifier o
 
 **Note:** For the purposes of this policy, "network" or "networks" refers to MoJ protected networks.
 
-**Parent topic:** [Access Control Policy](access-control-policy.md)
+**Parent topic:** [Access Control Policies](access-control-policy.md)
 
 **Related information**  
 
@@ -14,8 +14,6 @@ To help identify formal policy statements, each is prefixed with an identifier o
 [Enterprise Access Control Policy](enterprise-access-control-policy.md)
 
 [User Access Control Policy](user-access-control-policy.md)
-
-[Technical Controls Policy](technical-controls-policy.md)
 
 ## Audience
 
