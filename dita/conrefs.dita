@@ -60,6 +60,7 @@
 			<ph id="mojsecurityemailtext"><ph conref="#conrefs/moj"/> <ph conref="#conrefs/securityemailtext"/></ph>
 			<ph id="ncsclong">National Cyber Security Centre (NCSC)</ph>
 			<ph id="ncsc">NCSC</ph>
+			<ph id="notify"><xref href="https://www.notifications.service.gov.uk/" format="html" scope="external">GOV.UK Notify</xref></ph>
 			<ph id="nsvc-contact">If you don't know who your NSVC is,
 				refer to the download <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external">here</xref>.</ph>
 			<ph id="official"><codeph>OFFICIAL</codeph></ph>
