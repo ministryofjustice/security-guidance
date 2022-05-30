@@ -2,6 +2,18 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-05-27-16:09-bst-[add-iasme-certification-information-and-templates.](https:-security-guidance.service.justice.gov.uk-iasme-)"></a>
+
+-   **2022-05-27 16:09 BST [Add IASME certification information and templates.](https://security-guidance.service.justice.gov.uk/iasme/)**
+
+    Added material to assist suppliers in seeking security certification, particularly regarding the IASME Governance standard.
+
+<a name="2022-05-20-15:37-bst-[updates-to-overseas-travel-information.](https:-security-guidance.service.justice.gov.uk-accessing-moj-it-systems-from-overseas-)"></a>
+
+-   **2022-05-20 15:37 BST [Updates to overseas travel information.](https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/)**
+
+    More information about applying with sufficient advance notice, and a reminder about passport validity dates.
+
 <a name="2022-05-06-12:30-bst-[minor-restructure-to-phishing-information.](https:-security-guidance.service.justice.gov.uk-phishing-guide-#out-of-band-checks)"></a>
 
 -   **2022-05-06 12:30 BST [Minor restructure to Phishing information.](https://security-guidance.service.justice.gov.uk/phishing-guide/#out-of-band-checks)**

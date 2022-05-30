@@ -5,8 +5,10 @@
   <body>
     <p><b>If you are going on a work trip or holiday overseas and you need to take your <ph conref="conrefs.dita#conrefs/mojlong"/> IT devices, you must remain vigilant especially when visiting high risk countries.</b></p>
     <p>As a government worker with access to sensitive information, you are at risk from espionage, intellectual property theft and a range of other threats from hostile third parties as well as foreign intelligence services. These risks can increase when you are overseas, as detailed in the <ph id="overseas-travel-guide"><ph platform="html"><ph platform="github"><xref href="file:///./gs/overseas-travel-guide-v1-5-apr-2022.docx" scope="external" format="docx">Overseas Travel Guide</xref></ph><ph platform="intranet"><xref href="https://security-guidance.service.justice.gov.uk/gs/overseas-travel-guide-v1-5-apr-2022.docx" scope="external" format="docx">Overseas Travel Guide</xref></ph></ph><ph platform="epub pdf"><xref href="https://security-guidance.service.justice.gov.uk/gs/overseas-travel-guide-v1-5-apr-2022.docx" scope="external" format="docx"><ph conref="conrefs.dita#conrefs/moj"/> Overseas Travel Guide</xref></ph></ph>.</p>
-    <p>Before you travel on business, you must seek approval from your Senior Line Manager. You must also inform the security team fifteen days before either a holiday or business trip if you are travelling to or through high-risk countries.</p>
+    <p>Before you travel on business, you must seek approval from your Senior Line Manager. You <ph conref="conrefs.dita#conrefs/policyshall"/> also inform the security team a minimum of fifteen working days (twenty working days if subject to STRAP briefing) before either a holiday or business trip if you are travelling to or through the high-risk countries listed <xref href="accessing-moj-it-systems-from-overseas.dita#part-one" format="dita" scope="external">here</xref>.</p>
     <p>If you are subject to a STRAP briefing you must notify the security team of your intended travel to or through any country (excluding countries in Western Europe, North America, Australia or New Zealand).</p>
+    <p conref="conrefs.dita#conrefs/passport-validity"/>
+    <p>If you are proposing to take <ph conref="conrefs.dita#conrefs/moj"/>-issued devices with you, or access <ph conref="conrefs.dita#conrefs/moj"/> systems while overseas, you <ph conref="conrefs.dita#conrefs/policyshould"/> ensure you comply with the guidance on <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref>.</p>
     <p>The <ph conref="#overseas-travel/overseas-travel-guide"/> provides detailed guidance before you travel.</p>
     <p>Mobile roaming should be requested via the <xref href="https://mojprod.service-now.com/moj_sp" format="html" scope="external">Service-Now IT Catalogue</xref>.</p>
   </body>
@@ -47,6 +49,6 @@
   </topic>
   <!--
   <topic id="cyber-security-advice" conref="conrefs.dita#cyber-security-advice"><title/></topic>
-  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
   -->
+	<topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
