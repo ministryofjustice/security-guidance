@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-05-31-14:01-bst-[overseas-travel](https:-security-guidance.service.justice.gov.uk-overseas-travel-)"></a>
+
+-   **2022-05-31 14:01 BST [Overseas travel](https://security-guidance.service.justice.gov.uk/overseas-travel/)**
+
+    Corrected broken link within the content.
+
 <a name="2022-05-27-16:09-bst-[add-iasme-certification-information-and-templates.](https:-security-guidance.service.justice.gov.uk-iasme-)"></a>
 
 -   **2022-05-27 16:09 BST [Add IASME certification information and templates.](https://security-guidance.service.justice.gov.uk/iasme/)**
