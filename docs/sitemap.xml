@@ -8,30 +8,50 @@
 
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/</loc>
-  <lastmod>2022-05-06T12:30:00+00:00</lastmod>
+  <lastmod>2022-05-31T14:01:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/</loc>
-  <lastmod>2022-05-06T12:30:00+00:00</lastmod>
+  <lastmod>2022-05-31T14:01:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance.pdf</loc>
-  <lastmod>2022-05-06T12:30:00+00:00</lastmod>
+  <lastmod>2022-05-31T14:01:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-gs.pdf</loc>
-  <lastmod>2022-05-06T12:30:00+00:00</lastmod>
+  <lastmod>2022-05-31T14:01:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-tech.pdf</loc>
-  <lastmod>2022-05-06T12:30:00+00:00</lastmod>
+  <lastmod>2022-05-31T14:01:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/overseas-travel/</loc>
+  <lastmod>2022-05-31T14:01:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/iasme/</loc>
+  <lastmod>2022-05-27T16:09:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/iasme/Policy_Templates/</loc>
+  <lastmod>2022-05-27T16:09:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/</loc>
+  <lastmod>2022-05-20T15:37:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/phishing-guide/</loc>
   <lastmod>2022-05-06T12:30:00+00:00</lastmod>
@@ -54,11 +74,6 @@
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/access-control-policy/</loc>
-  <lastmod>2022-04-19T16:45:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/</loc>
   <lastmod>2022-04-19T16:45:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -171,11 +186,6 @@
   <loc>https://security-guidance.service.justice.gov.uk/multi-user-accounts-and-public-facing-service-accounts-guide/</loc>
   <lastmod>2022-04-19T16:45:00+00:00</lastmod>
   <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/overseas-travel/</loc>
-  <lastmod>2022-04-19T16:45:00+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/password-storage-and-management-guide/</loc>
