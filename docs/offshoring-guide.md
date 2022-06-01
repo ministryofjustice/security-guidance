@@ -106,7 +106,7 @@ The scenarios which are to be treated as offshoring are set out in the following
 
 ### Exclusions from Scope
 
-Exclusion 1: This document does not address UK or overseas legislation. The MoJ legal team, the MoJ Data Access and Compliance Unit \(DACU\), and the MoJ Data Protection EU and International Policy Teams must be consulted on legal issues. Contact [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk) for assistance.
+Exclusion 1: This document does not address UK or overseas legislation. The MoJ legal team, the MoJ Data Access and Compliance Unit \(DACU\), and the MoJ Data Protection EU and International Policy Teams must be consulted on legal issues. Contact [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk) for assistance.
 
 Exclusion 2: This document also does not address protection of individuals' personal data, except within the context of HMG Security Policy. The Data Access and Compliance Unit \(DACU\) must be consulted on personal data, the DPA, and related issues.
 

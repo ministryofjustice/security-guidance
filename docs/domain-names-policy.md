@@ -46,7 +46,7 @@ This policy aligns to industry standards and frameworks and is divided into two 
 
 Effective domain name registration encompasses the following five principles, which include:
 
--   `POLDOM001:` The MoJ **SHALL** secure domain name management aligning this to its [Cyber security guidance](https://security-guidance.service.justice.gov.uk/), specifically [multi-factor authentication](access-control-policy.md#) \(MFA\), [least privilege](access-control-policy.md#) and [review of user access rights](access-control-policy.md#).
+-   `POLDOM001:` The MoJ **SHALL** secure domain name management aligning this to its [Cyber security guidance](https://security-guidance.service.justice.gov.uk/), specifically [multi-factor authentication](access-control-policy.md#user-registration-and-de-registration) \(MFA\), [least privilege](access-control-policy.md#access-control-policy-1) and [review of user access rights](access-control-policy.md#review-of-user-access-rights).
 
 -   `POLDOM002:` The MoJ **SHALL** manage domain name portfolio growth, that is, their inherent value, before assessing their expiration.
 
@@ -67,7 +67,7 @@ This policy's statement elements are outlined as follows:
 
 ### Standards, guidance and technology
 
--   `POLDOM006:` To improve clarity and security hardening, all MoJ domain name registrations and usage **SHALL** adhere to the MoJ's [domain naming standards](https://ministryofjustice.github.io/technical-guidance/documentation/standards/naming-domains.html#naming-domains.Guidance) and [system hardening standards](system-lockdown-and-hardening-standard.md#).
+-   `POLDOM006:` To improve clarity and security hardening, all MoJ domain name registrations and usage **SHALL** adhere to the MoJ's [domain naming standards](https://ministryofjustice.github.io/technical-guidance/documentation/standards/naming-domains.html#naming-domains.Guidance) and [system hardening standards](system-lockdown-and-hardening-standard.md#scope).
 
 -   `POLDOM007:` This policy's related security guidance **SHALL** clearly describe why defensive domain registration is essential and why not doing it creates cyber risk.
 
@@ -128,25 +128,23 @@ MoJ organisations should contact [domains@digital.justice.gov.uk](mailto:domains
 
 **Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
 
-For help with incidents, including theft and loss, contact:
+For help with incidents, including theft and loss, contact one of the following:
 
-<a name="technology-service-desk-including-dom1-quantum-and-the-digital-technology-service-desk"></a>
+**Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
--   **Technology Service Desk - including DOM1, Quantum, and the Digital & Technology Service Desk**
+-   Tel: 0800 917 5148
+-   [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
 
-    Tel: 0800 917 5148
+**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
 
-    **Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
+**HMPPS Information & security:**
 
-<a name="hmpps-information-and-security"></a>
-
--   **HMPPS Information and security**
-    -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
-    -   Tel: 0203 334 0324
+-   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
+-   Tel: 0203 334 0324
 
 For non-technology incidents, contact the MoJ Group Security Team: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk)
 
-Contact the Privacy Team for information on Data Protection Impact Assessments: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
+Contact the Data Protection Team for information on Data Protection Impact Assessments: [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk)
 
 If you are not sure who to contact, ask the Security Team:
 

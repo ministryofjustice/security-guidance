@@ -39,7 +39,7 @@ The MoJ has no plans to inshore data \(i.e. limiting and / or returning data to 
 
 ## Where to get help
 
-In the first instance, contact the MoJ's Data Protection Officer - [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk).
+In the first instance, contact the MoJ's Data Protection Officer - [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk).
 
 ## Contact details
 

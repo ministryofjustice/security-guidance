@@ -9,7 +9,7 @@ This document is the Ministry of Justice \(MoJ\) IT Disposal of Equipment Guidan
 
 It is designed to ensure the confidentiality of MoJ data remains when a cloud service is decommissioned.
 
-This information is part of the MoJ asset management policies and guidance on [media handling](cyber-and-technical-security-guidance.md#).
+This information is part of the MoJ asset management policies and guidance on [media handling](cyber-and-technical-security-guidance.md#media-handling).
 
 **Note:** For disposal of physical on-premise media and data, refer to the [Secure disposal of IT - physical and on-premise](secure-disposal-of-it-physical-and-on-premise.md) guidance.
 

@@ -137,7 +137,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 **Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
 -   Tel: 0800 917 5148
--   [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
+-   [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
 
 **Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
 
@@ -157,9 +157,9 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 ### Privacy Advice
 
-**Privacy Team**
+**Data Protection Team**
 
--   Email: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
+-   Email: [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk)\>
 -   Slack: `#security_privacy_and_live_service_team`
 -   Intranet: [https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/)
 

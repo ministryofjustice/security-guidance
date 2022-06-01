@@ -94,7 +94,7 @@ Data protection legislation might also limit *where* you can process personal da
 
 Be sure you can fulfil your data protection responsibilities when using an OIT. It might be helpful to complete a [Privacy Impact Assessment \(PIA\)](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/privacy-reform/data-protection-impact-assessments-dpias/).
 
-Complying with personal information requirements can be complex. Don't hesitate to ask for advice: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
+Complying with personal information requirements can be complex. Don't hesitate to ask for advice: [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk)
 
 ### Classification and security
 

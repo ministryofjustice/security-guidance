@@ -71,7 +71,7 @@ There are a range of methods of sending documents, depending on the potential ha
 
 #### Confirming delivery
 
-If you are sending sensitive or bulk information, you **SHALL** ensure that the recipient is expecting it and get confirmation of receipt. Consider a solution that allows you to track delivery. If you need to transfer or send personal data to or outside of the European area, discuss it first with the [Data Privacy Team](mailto:privacy@justice.gov.uk).
+If you are sending sensitive or bulk information, you **SHALL** ensure that the recipient is expecting it and get confirmation of receipt. Consider a solution that allows you to track delivery. If you need to transfer or send personal data to or outside of the European area, discuss it first with the [Data Protection Team](mailto:DataProtection@justice.gov.uk).
 
 ### Faxing documents between sites
 
