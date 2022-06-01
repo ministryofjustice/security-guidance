@@ -176,7 +176,7 @@ A review of internal blocklist **SHOULD** also be done frequently, in line with 
 
 ## Spam emails
 
-The [ICO website](ICO websitehttps://ico.org.uk/) provides general information about spam, and gives advice about the steps to reduce spam.
+The [ICO website](https://ico.org.uk/) provides general information about spam, and gives advice about the steps to reduce spam.
 
 A spam email does not necessarily require automatic and instant inclusion on the internal blocklist, although it might be included as part of the external blocklists, as highlighted in this policy.
 

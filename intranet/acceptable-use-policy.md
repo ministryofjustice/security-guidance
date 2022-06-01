@@ -206,7 +206,7 @@ The reason for this position is that even with additional contractual clauses, t
 
 `POL.ITAUP.031`: If an alternative supplier cannot be sourced, then a Standard Contractual Clause (SCC) and a Transfer Impact Assessment (TIA) **SHALL** be completed.
 
-These documents are reviewed by the [Data Privacy Team](mailto:privacy@justice.gov.uk), after which the transfer **MIGHT** be approved. A template for these documents can be requested from [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
+These documents are reviewed by the [Data Protection Team](mailto:DataProtection@justice.gov.uk), after which the transfer **MIGHT** be approved. A template for these documents can be requested from [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk)
 
 `POL.ITAUP.032`: If the outcome of the assessment does not support the transfer and storage of information outside the UK, EEA, or an ADC, the Information Security and Risk (ISR) Board **SHALL** review the case, and if appropriate, accept the risks in order for the supplier to be used.
 
@@ -217,9 +217,9 @@ These documents are reviewed by the [Data Privacy Team](mailto:privacy@justice.g
 
 ##Data protection acceptable use protocols and standard operating procedures
 
-The [Data Privacy Team](mailto:privacy@justice.gov.uk) has produced a number of Acceptable Use protocol documents, providing specific data protection guidance.
+The [Data Protection Team](mailto:DataProtection@justice.gov.uk) has produced a number of Acceptable Use protocol documents, providing specific data protection guidance.
 
-The documents are available on the MoJ Intranet, or by contacting the [Data Privacy Team](mailto:privacy@justice.gov.uk).
+The documents are available on the MoJ Intranet, or by contacting the [Data Protection Team](mailto:DataProtection@justice.gov.uk).
 
 The documents are as follows:
 
@@ -237,7 +237,7 @@ There are also a number of Standard Operating Procedures (SOP)s, including:
 * [Data protection impact assessment guidance](/documents/2018/05/data-protection-impact-assessment-guidance.pdf)
 * [Data sharing agreement assessment](/documents/2021/04/data-sharing-agreement-assessment.pdf)
 
-For more information on these protocols and procedures, contact the [Data Privacy Team](mailto:privacy@justice.gov.uk).
+For more information on these protocols and procedures, contact the [Data Protection Team](mailto:DataProtection@justice.gov.uk).
 
 ##Contact details
 
