@@ -80,7 +80,7 @@
 				This includes routine business operations and services,
 				some of which could have damaging consequences if lost, stolen or published in the media, but are not subject to a heightened threat profile.</p>
 				<p><ph conref="conrefs.dita#conrefs/official-sensitive"/> is not a classification.
-				<codeph>SENSITIVE</codeph> is a handling caveat for a small subset of information marked <ph conref="conrefs.dita#conrefs/official"/> that requires special handling by staff.
+				<ph conref="conrefs.dita#conrefs/sensitive"/> is a handling caveat for a small subset of information marked <ph conref="conrefs.dita#conrefs/official"/> that requires special handling by staff.
 				You should apply the handling caveat where you wish to control access to that information,
 				whether in a document, email, or other form.</p>
 			</body>

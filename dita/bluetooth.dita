@@ -134,7 +134,7 @@
 				<li>Have you connected to any other 'public' Bluetooth devices?</li>
 				<li>Are all the devices password protected?</li>
 				<li>Might someone be able to find out what Bluetooth devices you are using?</li>
-				<li>Is the material you are working with <codeph>OFFICIAL-SENSITIVE</codeph> or higher?</li>
+				<li>Is the material you are working with <ph conref="conrefs.dita#conrefs/official-sensitive"/> or higher?</li>
 			</ul>
 			</p>
 			<p>The best way to ensure your Bluetooth device is as up-to-date as possible is to apply all patches and fixes for all hardware devices as soon as you can.</p>
@@ -144,7 +144,7 @@
 			<p>At regular intervals, check to find out what Bluetooth devices are 'known' to your devices. Remove any you don't recognise.</p>
 			<p>When in public places, make sure you only connect to known devices. Always ensure you are in a secure and safe location such as home, office, or a known isolated place before switching on your Bluetooth.</p>
 			<p>If someone can find what Bluetooth devices you have, or are using, they might try and use one of their device to intercept or monitor the connection. Try to keep Bluetooth devices out of sight so that no-one knows which ones you might actually be using. Even the bright blue light Bluetooth devices illuminate when they are connected might draw unwanted attention.</p>
-			<p>Generally speaking, Bluetooth devices do not present extra problems when working with <codeph>OFFICIAL</codeph> material. However, the whole point of Bluetooth is to enable and simplify communications, so you need to be extra careful when using Bluetooth devices while working on <codeph>OFFICIAL-SENSITIVE</codeph> or higher material.</p>
+			<p>Generally speaking, Bluetooth devices do not present extra problems when working with <ph conref="conrefs.dita#conrefs/official"/> material. However, the whole point of Bluetooth is to enable and simplify communications, so you need to be extra careful when using Bluetooth devices while working on <ph conref="conrefs.dita#conrefs/official-sensitive"/> or higher material.</p>
 		</body>
 	</topic>
 	<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>

@@ -624,7 +624,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 				</row>
         <!--
               <row>
-                <entry colname="col1" align="left"><xref href="official-official-sensitive.dita" format="dita"><codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph></xref></entry>
+                <entry colname="col1" align="left"><xref href="official-official-sensitive.dita" format="dita"><ph conref="conrefs.dita#conrefs/official"/> and <ph conref="conrefs.dita#conrefs/official-sensitive"/></xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
             -->
