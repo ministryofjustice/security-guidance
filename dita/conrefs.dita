@@ -30,8 +30,12 @@
 			<ph id="certificatesemail"><xref href="mailto:certificates@digital.justice.gov.uk" format="html" scope="external">certificates@digital.justice.gov.uk</xref></ph>
 			<ph id="cisolong">Chief Information Security Officer (CISO)</ph>
 			<ph id="ciso">CISO</ph>
+			<ph id="cjselong">Criminal Justice Secure Exchange (CJSE)</ph>
+			<ph id="cjse">CJSE</ph>
+			<ph id="cjsmlong">Criminal Justice Secure Mail (CJSM)</ph>
+			<ph id="cjsm">CJSM</ph>
 			<ph id="cjsmemail"><xref href="mailto:cjsm.helpdesk@egress.com" format="html" scope="external">cjsm.helpdesk@egress.com</xref></ph>
-			<ph id="cjsmemailtext"><xref href="mailto:cjsm.helpdesk@egress.com" format="html" scope="external">CJSM Helpdesk</xref></ph>
+			<ph id="cjsmemailtext"><xref href="mailto:cjsm.helpdesk@egress.com" format="html" scope="external"><ph conref="#conrefs/cjsm"/> Helpdesk</xref></ph>
 			<ph id="cluster2securityunittext"><xref href="mailto:contactus@cluster2security.gov.uk" format="html" scope="external">Cluster 2 Security Unit</xref></ph>
 			<ph id="cpnilong">Centre for the Protection of National Infrastructure (CPNI)</ph>
 			<ph id="cpni">CPNI</ph>
@@ -53,6 +57,7 @@
 			<ph id="ico">ICO</ph>
 			<ph id="itpolicycontentemail"><xref href="mailto:itpolicycontent@digital.justice.gov.uk" format="html" scope="external">itpolicycontent@digital.justice.gov.uk</xref></ph>
 			<ph id="itpolicycontentemailtext"><xref href="mailto:itpolicycontent@digital.justice.gov.uk" format="html" scope="external">IT policy content</xref></ph>
+			<ph id="jdsoclong"><xref href="mailto:security@justice.gov.uk" format="html" scope="external">Justice Digital Security Operations Centre (SOC)</xref></ph>
 			<ph id="mcss"><xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">MCSS</xref></ph>
 			<ph id="mcsslong"><xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">Minimum Cyber Security Standard (MCSS)</xref></ph>
 			<ph id="mojlong">Ministry of Justice (<ph conref="#conrefs/moj"/>)</ph>

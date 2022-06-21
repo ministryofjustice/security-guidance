@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+
+<!-- To highlight some command sequences, the DITA <uicontrol> element is used. -->
+
+<topic id="secure-file-transfer">
+  <title>Secure file transfer</title>
+  <body/>
+  <topic id="introduction">
+    <title>Introduction</title>
+    <body>
+      <p>This procedure document assists users who need to share <xref href="data-handling-and-information-sharing-guide.dita#electronic-data-transfer-and-storage/electronic-data-transfer-and-storage" format="dita" platform="html"><ph conref="conrefs.dita#conrefs/official-sensitive"/></xref><xref href="data-handling-and-information-sharing-guide.dita#electronic-data-transfer-and-storage" format="dita" platform="epub pdf"><ph conref="conrefs.dita#conrefs/official-sensitive"/></xref> information through a secure encrypted method to partners or external users outside the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
+      <p>There are several methods <xref href="general-user-video-and-messaging-apps-guidance.dita#tools-for-sharing-information-internally-and-externally/tools-for-sharing-information-internally-and-externally" format="dita" platform="html">available</xref><xref href="general-user-video-and-messaging-apps-guidance.dita#tools-for-sharing-information-internally-and-externally" format="dita" platform="epub pdf">available</xref> for sending files if the preferred <ph conref="conrefs.dita#conrefs/cjselong"/> method is not possible.</p>
+      <note>Regardless of whether the <ph conref="conrefs.dita#conrefs/official-sensitive"/> information is shared with or received from an external party, <xref href="glossary.dita#out-of-band-checks/out-of-band-checks" format="dita" platform="html">out of band checks</xref><xref href="glossary.dita#out-of-band-checks" format="dita" platform="epub pdf">out of band checks</xref> <ph conref="conrefs.dita#conrefs/policyshould"/> be carried out to confirm the legitimacy of the communications and requests.</note>
+      <note>You <ph conref="conrefs.dita#conrefs/policyshall"/> comply with <ph conref="conrefs.dita#conrefs/moj"/> <xref href="cyber-and-technical-security-guidance.dita" format="dita">security policies</xref>, and refer to guidance on <ph conref="conrefs.dita#conrefs/moj"/> approved <xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">applications</xref>.</note>
+    </body>
+  </topic>
+  <topic id="methods-of-sharing-documents">
+    <title>Methods of sharing documents</title>
+    <body>
+      <table>
+				<tgroup cols="5">
+					<colspec colname="col1" colnum="1"/>
+					<colspec colname="col2" colnum="2"/>
+					<colspec colname="col3" colnum="3"/>
+					<colspec colname="col4" colnum="4"/>
+					<colspec colname="col5" colnum="5"/>
+					<thead>
+						<row>
+							<entry colname="col1">Domain</entry>
+							<entry colname="col2">Applications</entry>
+							<entry colname="col3">File size</entry>
+							<entry colname="col4">Internal or external</entry>
+							<entry colname="col5">Examples</entry>
+						</row>
+					</thead>
+					<tbody>
+						<row>
+							<entry colname="col1"><codeph id="justiceemail">*.*@justice.gov.uk</codeph></entry>
+							<entry colname="col2">SharePoint, MS Teams, or OneDrive</entry>
+							<entry colname="col3"><ph id="largefiles">Over 25MB</ph></entry>
+							<entry colname="col4"><ph id="externalonly">External, including third-party suppliers, legal teams, or other government departments outside of the <ph conref="conrefs.dita#conrefs/moj"/>.</ph></entry>
+							<entry colname="col5">Multiple files more than 25MB each.</entry>
+						</row>
+						<row>
+							<entry colname="col1"><codeph conref="#methods-of-sharing-documents/justiceemail"/></entry>
+							<entry colname="col2">Outlook encrypted email</entry>
+							<entry colname="col3"><ph id="smallfiles">Under 25MB</ph></entry>
+							<entry colname="col4">Internal and external.</entry>
+							<entry colname="col5">Sending a few documents less than 25MB each.</entry>
+						</row>
+						<row>
+							<entry colname="col1"><codeph id="digitalemail">*.*@digital.justice.gov.uk</codeph></entry>
+							<entry colname="col2"><ph conref="conrefs.dita#conrefs/gsuite"/></entry>
+							<entry colname="col3"><ph conref="#methods-of-sharing-documents/smallfiles"/></entry>
+							<entry colname="col4">Internal and external.</entry>
+							<entry colname="col5">Sending a few documents less than 25MB each.</entry>
+						</row>
+						<row>
+							<entry colname="col1"><codeph conref="#methods-of-sharing-documents/digitalemail"/></entry>
+							<entry colname="col2">Google Drive (part of <ph conref="conrefs.dita#conrefs/gsuite"/>)</entry>
+							<entry colname="col3"><ph conref="#methods-of-sharing-documents/largefiles"/></entry>
+							<entry colname="col4"><ph conref="#methods-of-sharing-documents/externalonly"/></entry>
+							<entry colname="col5">Multiple files more than 25MB each</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+      <note>The term <ph conref="conrefs.dita#conrefs/gsuite"/> rather than Google "GSuite" is used now, with Google Drive (Drive) included as part of the <ph conref="conrefs.dita#conrefs/gsuite"/> integrated tools.</note>
+      <note>For further information on the controls in place when sharing sensitive information, refer to the <xref href="data-handling-and-information-sharing-guide.dita#information-sharing/information-sharing" format="dita" platform="html">information sharing</xref><xref href="data-handling-and-information-sharing-guide.dita#information-sharing" format="dita" platform="epub pdf">information sharing</xref> section of the Data Handling and Information Sharing Guide.</note>
+    </body>
+  </topic>
+  <topic id="objectives-of-this-procedure">
+    <title>Objectives of this procedure</title>
+    <body>
+      <ul>
+        <li>To provide step-by-step instructions on how to transfer files externally.</li>
+        <li>Follow policies and procedures to ensure <ph conref="conrefs.dita#conrefs/moj"/> information and services are protected.</li>
+        <li>To share information with interested parties on a need-to-know basis only.</li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="alternative-methods-and-processes">
+    <title>Alternative methods and processes</title>
+    <body>
+      <dl>
+        <dlentry>
+          <dt><ph conref="conrefs.dita#conrefs/cjsmlong"/></dt>
+          <dd><xref href="cjsm.dita" format="dita" audience="audience-tech"><ph conref="conrefs.dita#conrefs/cjsm"/></xref><ph conref="conrefs.dita#conrefs/cjsm" audience="audience-basic"/> is the approved secure email solution.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Data Movement Form (DMF)</dt>
+          <dd>A <xref href="data-handling-and-information-sharing-guide.dita#data-movement-form-dmf/data-movement-form-dmf" format="dita" platform="html">DMF</xref><xref href="data-handling-and-information-sharing-guide.dita#data-movement-form-dmf" format="dita" platform="epub pdf">DMF</xref> is required for all bulk file transfers. All requests <ph conref="conrefs.dita#conrefs/policyshall"/> be reviewed and approved by the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/jdsoclong"/>.</dd>
+        </dlentry>
+      </dl>
+      <note importance="high">You <ph conref="conrefs.dita#conrefs/policyshallnot"/> use personal accounts for work purposes. This includes using personal systems such as Gmail, Hotmail, or Yahoo mail to send or receive emails for work purposes. You <ph conref="conrefs.dita#conrefs/policyshall"/> use your officially-issued <codeph conref="#methods-of-sharing-documents/justiceemail"/> or <codeph conref="#methods-of-sharing-documents/digitalemail"/> email address for <ph conref="conrefs.dita#conrefs/moj"/> business.</note>
+    </body>
+  </topic>
+  <topic id="receiving-password-protected-files">
+    <title>Receiving password protected files</title>
+    <body>
+        <p>It is acceptable to receive password protected files from external parties or from the public. However, you <ph conref="conrefs.dita#conrefs/policyshall"/> carry out the following checks:
+        <ul>
+            <li>Confirm that the file was received from a known and reputable source or sender. Do this by performing an <xref href="glossary.dita#out-of-band-checks/out-of-band-checks" format="dita" platform="html">out of band check</xref><xref href="glossary.dita#out-of-band-checks" format="dita" platform="epub pdf">out of band check</xref>.</li>
+            <li>The password needed to access the file <ph conref="conrefs.dita#conrefs/policyshall"/> be shared separately from the file, and <ph conref="conrefs.dita#conrefs/policyshallnot"/> be provided using the same method as was used to send the file. In other words, if the password protected file is received by email, the password <ph conref="conrefs.dita#conrefs/policyshall"/> be received through another method, not by email.</li>
+            <li>The contents of a password protected file cannot always be scanned during entry into <ph conref="conrefs.dita#conrefs/moj"/> systems. In such cases, the password protected file <ph conref="conrefs.dita#conrefs/policyshall"/> go through an isolated local folder or computer disconnected from the network, where it is decrypted and then scanned before progressing further or being uploaded into <ph conref="conrefs.dita#conrefs/moj"/> systems.</li>
+        </ul></p>
+    </body>
+  </topic>
+  <topic id="sharing-files-using-microsoft-onedrive-or-sharepoint">
+      <title>Sharing files using Microsoft OneDrive or SharePoint</title>
+      <body>
+        <note>A tutorial on Microsoft OneDrive is <xref href="https://support.microsoft.com/en-us/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07" format="html" scope="external">available</xref>. A tutorial on Microsoft SharePoint is also <xref href="https://support.microsoft.com/en-us/office/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c" format="html" scope="external">available</xref>.</note>
+          <ol>
+              <li>Go to <xref href="https://justiceuk-my.sharepoint.com/" format="html" scope="external">https://justiceuk-my.sharepoint.com/</xref>.</li>
+              <li>Log in with your <ph conref="conrefs.dita#conrefs/moj"/> <codeph conref="#methods-of-sharing-documents/justiceemail"/> email account.</li>
+              <li>Click on the menu dots and select OneDrive.<image href="images/sft001.png" placement="break" scope="local"><alt>The image shows a list of Microsoft applications. The 3 by 3 menu grid is highighted. The OneDrive icon and application name is also highlighted.</alt></image></li>
+              <li>Next, create a new folder. To do this, click on the <uicontrol>New</uicontrol> drop-down arrow, and select the option to create a new folder.<image href="images/sft002.png" placement="break" scope="local"><alt>The image shows the file and folder management view. The option to create a new object is highighted, and the new folder item is selected.</alt></image></li>
+              <li>Give the new folder a unique name.<image href="images/sft003.png" placement="break" scope="local"><alt>The image shows the Document management view. The field to enter the new folder name is highlighted. The new folder is about to be given a unique name.</alt></image></li>
+              <li>Upload the file to the newly named folder.<image href="images/sft004.png" placement="break" scope="local"><alt>The image shows the file and folder upload view. The new folder has been selected. The upload option has been chosen, and the new file is about to be uploaded.</alt></image></li>
+              <li>Next, share the file. To do this, click on the <uicontrol>Share</uicontrol> option in the menu. Then in the <uicontrol>Send link</uicontrol> box, click on <uicontrol>People in Ministry of Justice with the link can edit</uicontrol>, which takes you to the <uicontrol>Link settings</uicontrol> box.<image href="images/sft005.png" placement="break" scope="local"><alt>The image shows the Share view. The Link Settings menu is presented. The choice is made to allow Specific People to work with the link. In the Other Settings options, Allow editing is selected. The option to Block downloads is enabled - this prevents anyone from downloading the information.</alt></image></li>
+              <li>Select the option for <uicontrol>Specific people</uicontrol>, ensure <uicontrol>Allow editing</uicontrol> is unticked, and the <uicontrol>Block download</uicontrol> option is activated. Finally, click on <uicontrol>Apply</uicontrol>. This returns you to the <uicontrol>Send link</uicontrol> box.<image href="images/sft006.png" placement="break" scope="local"><alt>The image shows the send file view. The method used to send a link has been highlighted. The option to allow People in Ministry of Justice with the link to edit is selected.</alt></image></li>
+              <li>Next, add all the email accounts that should be able to <uicontrol>view</uicontrol> the file. Click the <uicontrol>Send</uicontrol> button.<image href="images/sft007.png" placement="break" scope="local"><alt>The image shows the Send link view. The field to add email addresses is selected. Email addresses are being added. The Send button is highighted.</alt></image></li>
+              <li>When you click the <uicontrol>Send</uicontrol> button, an email is sent from your<codeph conref="#methods-of-sharing-documents/justiceemail"/> email account to the selected recipients. The email contains a link to the document.</li>
+          </ol>
+      </body>
+      <topic id="recipient-receives-an-email-with-a-link-to-the-file">
+          <title>Recipient receives an email with a link to the file</title>
+          <body>
+              <ol>
+                  <li>Each recipient receives a link to the file within the email. They initiate access by clicking on the <uicontrol>Open</uicontrol> button.<image href="images/sft008.png" placement="break" scope="local"><alt>The image shows the email received by the recipient. The email tells them that a file is being shared with them. In addition to the name of the file, there is an 'Open' button for the recipient to access the file.</alt></image></li>
+                  <li>The recipient also receives a separate email to the same registered email address. This secondary email enables access to the file by providing a PIN Code to open the file.<image href="images/sft009.png" placement="break" scope="local"><alt>The image shows the PIN email received by the recipient. The email includes an 'Account Verification Code', which is a multi-digit number.</alt></image></li>
+                  <li>When the recipient clicks the <uicontrol>Open</uicontrol> button in the 'file share' email, they are asked to provide the account verification code before they can access the file content.</li>
+              </ol>
+          </body>
+      </topic>
+  </topic>
+  <topic id="sharing-files-using-microsoft-teams">
+      <title>Sharing Files Using Microsoft Teams</title>
+      <body>
+        <note>A tutorial on Microsoft Teams is <xref href="https://support.microsoft.com/en-us/office/microsoft-teams-video-training-4f108e54-240b-4351-8084-b1089f0d21d7" format="html" scope="external">available</xref>.</note>
+        <ol>
+            <li>Open MS Teams. Click on the Teams icon within the Left Panel. Click on the icon at the bottom of the app called <uicontrol>Join or Create a Team</uicontrol>.<image href="images/sft010.png" placement="break" scope="local"><alt>The image shows the Teams membership panel. The option to join or create a team is selected.</alt></image></li>
+            <li>Select the <uicontrol>Create a team</uicontrol> applet, and then click the <uicontrol>Create team</uicontrol> button.<image href="images/sft011.png" placement="break" scope="local"><alt>The image shows the 'Create a Team' panel. The panel has a button called 'Create team'.</alt></image></li>
+            <li>Select the tab called <uicontrol>From scratch</uicontrol>.<note>From SharePoint, OneDrive or in a Teams <uicontrol>File</uicontrol> tab right-click, and share.</note><image href="images/sft012.png" placement="break" scope="local"><alt>The image shows the 'Create a Team' panel with several tab options. The tab called 'From scratch' is highlighted.</alt></image></li>
+            <li>In the window called <uicontrol>What kind of team will this be?</uicontrol>, select the <uicontrol>Private</uicontrol> option.<image href="images/sft013.png" placement="break" scope="local"><alt>The image shows the 'What type of team will this be?' panel with several tab options. The tab called 'Private' is highlighted.</alt></image></li>
+            <li>You are invited to provide some quick details about the private team. Enter a team name for the <uicontrol>Give your team a name</uicontrol> field. Since the team is not going to be used for a lot of activity, a simple option is to provide a name that includes the current date and time, to make the name unique. For example, you might use a temporary name such as <codeph>ProjectAmberFile2022June08</codeph>.<image href="images/sft014.png" placement="break" scope="local"><alt>The image shows the panel to provide quick details about the private team. The details include two fields: the team name, and its description.</alt></image></li>
+            <li>You can either add members to your new team now, or skip the step and do it later.<image href="images/sft015.png" placement="break" scope="local"><alt>The image shows the panel to add members to the team. There is a single field, where you can enter a name, a distribution list, or an email enabled security group. When a value is entered into the field, an 'Add' button is enabled.</alt></image><note>The team is now available within the left panel. It has a <uicontrol>General</uicontrol> tab by default. Within the right panel, you can either start a conversation in the <uicontrol>General</uicontrol> tab, or click on the <uicontrol>Files</uicontrol> tab on the right to upload content for sharing by the team.</note></li>
+            <li>You can add external recipients as members of the team by adding their email addresses using the 'triple dot' menu.<image href="images/sft016.png" placement="break" scope="local"><alt>The image shows part of the list of teams. Next to the team name is a 'triple dot' menu. The team name and the menu are highlighted.</alt></image></li>
+            <li>A Welcome Message is displayed to confirm the team has been created.<image href="images/sft017.png" placement="break" scope="local"><alt>The image shows the 'Welcome to the team' message.</alt></image></li>
+            <li>To add members to the team at any time, click the triple dot menu on the channel name and select <uicontrol>Add members</uicontrol>.<note>External team members - anyone who does not have an <ph conref="conrefs.dita#conrefs/moj"/> email account - is added to the team as a 'guest'.</note><image href="images/sft018.png" placement="break" scope="local"><alt>The image shows part of the list of teams with the 'triple dot' menu. The menu has been selected, and a sub-menu presented. The sub-menu options include 'Add member', which is highlighted.</alt></image><image href="images/sft019.png" placement="break" scope="local"><alt>The image shows the panel to add a member to the team or channel.</alt></image></li>
+            <li>You can add members to the team, including external users. Use the <uicontrol>Manage Team</uicontrol> option to review user access, modify permissions, and add files to the team 'file share'.</li>
+        </ol>
+        <p>When a recipient is added to a shared folder, they receive an email inviting them to <uicontrol>Join a Teams Folder</uicontrol>. They should use their email address to log in and access the shared information. The email address is the same one used to receive the invitation.</p>
+    </body>
+  </topic>
+  <topic id="sharing-files-using-microsoft-outlook">
+      <title>Sharing files using Microsoft Outlook</title>
+      <body>
+          <ol>
+              <li>If you are using a Mac client laptop, once you have completed the content of your Outlook email, from the email menu bar, select <uicontrol>Options</uicontrol> and then click on <uicontrol>Encrypt</uicontrol>.<image href="images/sft020.png" placement="break" scope="local"><alt>The image shows the Outlook client application on a Mac. The 'Encrypt' option is selected.</alt></image> If you are using a Windows client laptop, once you have completed the content of your Outlook email, from the email menu bar, select <uicontrol>Options</uicontrol> and then click on <uicontrol>Encrypt</uicontrol>.<image href="images/sft021.png" placement="break" scope="local"><alt>The image shows the Outlook client application on Windows. The 'Encrypt' option is selected.</alt></image></li>
+              <li>When an authorised recipient receives the message, to read it they select <uicontrol>Options</uicontrol> and then click on the <uicontrol>Read the message</uicontrol> tab.<image href="images/sft022.png" placement="break" scope="local"><alt>The image shows the email received by the recipient. The email tells them that a protected file has been sent to them. In addition to the name of the file, there is a 'Read the message' button for the recipient to access the file.</alt></image></li>
+              <li>The recipient clicks on the <uicontrol>Sign in with a One-time passcode</uicontrol> button.<image href="images/sft023.png" placement="break" scope="local"><alt>The image shows that the recipient has clicked the 'Read the message' button. They are asked to sign into prove they are authorised to view the email. There are two options. One is to sign in using a Yahoo! ID. The other option is highlighted, and allows the recipient to sign in using a One-time passcode.</alt></image></li>
+              <li>When the recipient clicks the <uicontrol>Sign in with a One-time passcode</uicontrol> button, a passcode email is  automatically sent to the recipient's email address.<image href="images/sft024.png" placement="break" scope="local"><alt>The image shows that the recipient has clicked the 'Sign in with a One-time passcode' button. A message tells them that a one-time passcode has been sent to  their email address.</alt></image></li>
+              <li>The recipient notes the passcode.<image href="images/sft025.png" placement="break" scope="local"><alt>The image shows that an example email containing a one-time passcode, which is highlighted.</alt></image></li>
+              <li>The recipient pastes the passcode into the original email they received.<image href="images/sft026.png" placement="break" scope="local"><alt>The image shows a form with a field containing the newly-received one-time passcode.</alt></image></li>
+              <li>The result is that the email is unlocked, and can be read by the recipient.<image href="images/sft027.png" placement="break" scope="local"><alt>The image shows the normal email display page, containing the email that has now been successfully accessed by the authorised recipient.</alt></image></li>
+          </ol>
+      </body>
+  </topic>
+  <topic id="sharing-files-using-google-workspace">
+      <title>Sharing files using <ph conref="conrefs.dita#conrefs/gsuite"/></title>
+      <body>
+          <p>Pre-requisite: Ensure you have a current and correct mobile phone telephone number for each of your recipients. This contact number is used to send them a unique PIN code to unlock shared files.</p>
+          <ol>
+              <li>When your email is ready to send, select the encrypt icon at the bottom of the toolbar. In <ph conref="conrefs.dita#conrefs/gsuite"/> email, this button is called <uicontrol>Toggle confidential mode</uicontrol>.<image href="images/sft028.png" placement="break" scope="local"><alt>The image shows a <ph conref="conrefs.dita#conrefs/gsuite"/> email composition page. The email has been created as normal. At the bottom of the page, a 'padlock' icon is selected.</alt></image></li>
+              <li>Select the Radio Button for <uicontrol>SMS Passcode</uicontrol>.</li>
+              <li>Click the <uicontrol>Save</uicontrol> button.</li>
+              <li>Add the mobile telephone numbers for each of the recipients. Click the <uicontrol>Send</uicontrol> button.</li>
+          </ol>
+          <p>The result is that an email is sent to each recipient.</p>
+      </body>
+      <topic id="recipient-receives-the-encrypted-email">
+          <title>Recipient receives the encrypted email</title>
+      </topic>
+  </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
+
+<!-- 
+
+## **.**
+
+1.  The recipient will receive an email such as the following and must
+    click on the \`'\`View the email" tab.
+
+<img src="media/image34.png" style="width:3.8975in;height:2.46723in"
+alt="Graphical user interface, text, application, Teams Description automatically generated" />
+
+2.  Next, the recipient must click on the "Send Passcode" tab.
+
+<img src="media/image35.png" style="width:3.91111in;height:1.52381in"
+alt="Graphical user interface, text, application Description automatically generated" />
+
+3.  The recipient receives the passcode by SMS text message onto their
+    mobile telephone.
+
+<img src="media/image36.png" style="width:3.89873in;height:2.12658in"
+alt="Graphical user interface, text, application Description automatically generated" />
+
+4.  They will need to enter the SMS passcode into the online message and
+    click on the "Submit" tab.
+
+<img src="media/image37.png" style="width:3.96181in;height:2.48883in"
+alt="Graphical user interface, text, application, chat or text message Description automatically generated" />
+
+5.  The email is unlocked and viewable by the recipient.
+
+<img src="media/image38.png" style="width:3.91139in;height:2.99915in"
+alt="Graphical user interface Description automatically generated" />
+
+# **Very Large File – Google Drive (NB. This is only for GSuite – digital.justice.gov.uk users.)**
+
+1.  Go to your Google Drive, and right-click the large file to be
+    shared.
+
+<img src="media/image39.png" style="width:3.92405in;height:2.23027in"
+alt="Graphical user interface, application Description automatically generated" />
+
+2.  Choose the “Share” option, add the user’s email address you want to
+    share with, add the required rights (Viewer, Commenter and Editor)
+    from the top right-hand corner, and then click on the “Send” tab.
+
+<img src="media/image40.png" style="width:3.92361in;height:2.5491in"
+alt="Graphical user interface, application, Teams Description automatically generated" />
+
+3.  Before the large file is shared, you will receive a dialogue box
+    confirming you want to “Share outside organisation?” Read the
+    message and then click on the “Share anyway” tab.
+
+<img src="media/image41.png" style="width:3.92361in;height:2.22458in"
+alt="Graphical user interface, text, application, chat or text message Description automatically generated" />
+
+## **Recipient receives the shared Google Drive file email.**
+
+4.  The recipient will receive an email stating that a file on Google
+    Drive has been shared. They then need to click on the "Open” tab.
+
+<img src="media/image42.png" style="width:3.92405in;height:3.2596in"
+alt="Graphical user interface, application, Teams Description automatically generated" />
+
+5.  They should then be able to view the large file based on the
+    permissions you have given.
+
+<img src="media/image43.png" style="width:3.9375in;height:0.96381in"
+alt="Graphical user interface, application Description automatically generated" />
+
+
+-->

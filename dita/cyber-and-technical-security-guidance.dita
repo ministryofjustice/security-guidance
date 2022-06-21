@@ -1168,6 +1168,10 @@ has made for the products we operate, and our relationships with suppliers.</p>
                 <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
               </row>
               <row>
+                <entry colname="col1" align="left"><xref href="secure-file-transfer.dita" format="dita">Secure File Transfer</xref></entry>
+                <entry colname="col2" align="right">All users</entry>
+              </row>
+              <row>
                 <entry colname="col1" align="left"><xref href="sending-information-securely.dita" format="dita">Sending information securely</xref></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
