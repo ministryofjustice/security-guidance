@@ -83,7 +83,7 @@
               and availability.</li>
             <li>The <ph conref="conrefs.dita#conrefs/moj"/>'s IT Teams are not directly responsible for the physical security and environment of the <ph conref="conrefs.dita#conrefs/moj"/> sites.</li>
             <li>Physical security controls and the environment in which the <ph conref="conrefs.dita#conrefs/moj"/> IT systems operate form part of a system's overall risk landscape.
-              All <ph conref="conrefs.dita#conrefs/moj"/> users <b>MUST</b> ensure they adhere to the security controls and requirements set out in this policy.</li>
+              All <ph conref="conrefs.dita#conrefs/moj"/> users <ph conref="conrefs.dita#conrefs/policymust"/> ensure they adhere to the security controls and requirements set out in this policy.</li>
             <li>Unless otherwise formally agreed by the <ph conref="conrefs.dita#conrefs/moj"/>,
               all <ph conref="conrefs.dita#conrefs/moj"/> users,
               including agency staff and contractors who have access to <ph conref="conrefs.dita#conrefs/moj"/> data,

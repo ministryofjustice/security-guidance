@@ -76,7 +76,7 @@ The Physical Security Policy defines how physical access to assets must be contr
 
 -   All MoJ IT systems and services must be assessed against environmental risks, for example flood or fire, to maintain the asset's confidentiality, integrity, and availability.
 -   The MoJ's IT Teams are not directly responsible for the physical security and environment of the MoJ sites.
--   Physical security controls and the environment in which the MoJ IT systems operate form part of a system's overall risk landscape. All MoJ users **MUST** ensure they adhere to the security controls and requirements set out in this policy.
+-   Physical security controls and the environment in which the MoJ IT systems operate form part of a system's overall risk landscape. All MoJ users **shall** ensure they adhere to the security controls and requirements set out in this policy.
 -   Unless otherwise formally agreed by the MoJ, all MoJ users, including agency staff and contractors who have access to MoJ data, require [Baseline Personnel Security Standard \(BPSS\)](https://www.gov.uk/government/publications/government-baseline-personnel-security-standard) assessment, as a minimum.
 -   [National Security Vetting](https://www.gov.uk/guidance/security-vetting-and-clearance#applicant) should only be applied for where it is necessary, proportionate, and adds real value.
 -   The MoJ does not have a standing requirement for system administrators or application developers to maintain Security Check \(SC\) clearance.
