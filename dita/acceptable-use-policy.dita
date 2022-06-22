@@ -4,7 +4,7 @@
   <title>Acceptable Use Policy</title>
   <body>
     <p>This document is the <ph conref="conrefs.dita#conrefs/mojlong"/> Acceptable Use Policy. It provides the core set of security principles and expectations on the acceptable use of <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</p>
-    <p>To help identify formal policy statements, each is prefixed with an identifier of the form: <b>POL.ITAUP.xxx</b>, where xxx is a unique ID number.</p>
+    <p>To help identify formal policy statements, each is prefixed with an identifier of the form: <b>POL.ITAUP.xxx</b>, where <b>xxx</b> is a unique ID number.</p>
   </body>
   <topic id="introduction">
     <title>Introduction</title>

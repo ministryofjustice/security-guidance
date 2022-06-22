@@ -113,7 +113,7 @@ Any request to take MoJ IT equipment overseas must follow the guidance provided 
 
 ## Malware protection
 
-The MoJ [Malware Protection Guide](malware-protection-guide-introduction.md) specifies the controls and processes that **SHALL** be used to protect all systems against malware. Malware might enter the MoJ by employee email, through the internet, mobile computers, or removable media devices.
+The MoJ [Malware Protection Guide](malware-protection-guide-introduction.md) specifies the controls and processes that **shall** be used to protect all systems against malware. Malware might enter the MoJ by employee email, through the internet, mobile computers, or removable media devices.
 
 The MoJ [Malware Protection Guide](malware-protection-guide-introduction.md) addresses the following relevant domains:
 
@@ -125,9 +125,9 @@ The MoJ [Malware Protection Guide](malware-protection-guide-introduction.md) add
 
 All MoJ users are responsible for ensuring the confidentiality, integrity, and availability of data within the MoJ. This includes all MoJ data and assets. These responsibilities extend to all assets referenced in this policy.
 
-All MoJ users **SHALL** comply with the roles and responsibilities outlined in the Information Assurance Framework Process.
+All MoJ users **shall** comply with the roles and responsibilities outlined in the Information Assurance Framework Process.
 
-Specific roles and responsibilities are described within each sub-page. All MoJ users **SHALL** comply with these roles and responsibilities, and understand these as being a part of their ultimate responsibility for information security within the MoJ.
+Specific roles and responsibilities are described within each sub-page. All MoJ users **shall** comply with these roles and responsibilities, and understand these as being a part of their ultimate responsibility for information security within the MoJ.
 
 For the purpose of this Information Security Policy, the following roles are described. They have specific responsibilities in the implementation and monitoring of different provisions of the policy.
 

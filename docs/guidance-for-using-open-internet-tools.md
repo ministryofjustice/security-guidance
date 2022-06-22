@@ -30,7 +30,7 @@ Open Internet Tools \(OITs\) are applications or services from suppliers outside
 To help you decide if you can use an OIT to work on an MoJ task, consider the following questions:
 
 -   is the task information subject to specific rules or requirements in your part of the MoJ?
--   is the task information classified as anything other than `OFFICIAL` or `OFFICIAL-SENSITIVE`?
+-   is the task information classified as anything other than **Official** or**Official-Sensitive**?
 -   does the task information include any data identifiable as being about someone?
 -   is this the first time anyone has used the tool for MoJ business?
 -   does the tool need access to your account or other data you can access? For example, does it ask to use your MoJ Google or Microsoft Office account?
@@ -98,7 +98,7 @@ Complying with personal information requirements can be complex. Don't hesitate 
 
 ### Classification and security
 
-An OIT can only store or process information [classified](https://www.gov.uk/government/publications/government-security-classifications) at `OFFICIAL` level.
+An OIT can only store or process information [classified](https://www.gov.uk/government/publications/government-security-classifications) at **Official** level.
 
 Think about the MoJ information you work with. What would happen if you lost it, or it's stolen, or published in the media? Suppose the information was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is "No", then it's probably OK to use OITs to store or send that information.
 
@@ -106,7 +106,7 @@ Think also about information moving across the Internet. The data might be safe 
 
 ![The image shows a small section from a web browser URL bar. The word 'secure' appears in a green colour, to show that the connection is safe. There is also a padlock icon in a closed state, again to show that the connection is safe.](images/guidance-for-using-open-internet-tools-01.png)
 
-You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is [Principle 2](https://www.gov.uk/government/publications/government-security-classifications) of the Government Security Classifications. The MoJ trusts you to work with `OFFICIAL` information. In the same way, you're trusted to make a reasoned judgement about whether it's safe to use an OIT.
+You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is [Principle 2](https://www.gov.uk/government/publications/government-security-classifications) of the Government Security Classifications. The MoJ trusts you to work with **Official** information. In the same way, you're trusted to make a reasoned judgement about whether it's safe to use an OIT.
 
 Useful help for deciding what is OK is in [existing social media guidance](https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf). While it's more about how to act online, the principles are helpful for OITs.
 

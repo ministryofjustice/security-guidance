@@ -16,9 +16,9 @@
       the <ph conref="conrefs.dita#conrefs/moj"/> does not require suppliers to
       create or maintain dedicated or segregated IT solutions for processing
       <ph conref="conrefs.dita#conrefs/moj"/> data classified at
-      <codeph>OFFICIAL</codeph>.</p>
+      <ph conref="conrefs.dita#conrefs/official"/>.</p>
     <p>For <ph conref="conrefs.dita#conrefs/moj"/> data classified at
-      <codeph>OFFICIAL-SENSITIVE</codeph>,
+      <ph conref="conrefs.dita#conrefs/official-sensitive"/>,
       additional comprehensive security assurance is required.
       The assurance <ph conref="conrefs.dita#conrefs/policyshall"/> include
       controls and governance processes.
@@ -90,7 +90,7 @@
         <title>Working overseas</title>
         <body>
           <p>Supplier staff are not prohibited from working overseas while
-            processing <codeph>OFFICIAL</codeph>
+            processing <ph conref="conrefs.dita#conrefs/official"/>
             <ph conref="conrefs.dita#conrefs/moj"/> data,
             subject to implementing and maintaining acceptable information
             controls and governance.

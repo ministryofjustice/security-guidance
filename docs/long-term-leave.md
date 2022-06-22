@@ -34,7 +34,7 @@ This guidance applies to assets, defined as being laptops, desktops, or mobile p
 Before the staff member goes on leave, review their access to data and information systems, to ensure that this meets an ongoing need. This means that:
 
 -   If the staff member's role is planned to change on their return to the MoJ, consider removing access now to data and information systems which they will no longer need. If their role is not planned to change on their return, you might consider leaving access "as-is" currently.
--   Consider removing access to data or information systems which are `OFFICIAL-SENSITIVE`. This is in line with the necessity rigorously to apply the "need to know" principle for `OFFICIAL-SENSITIVE` information. Refer to the guidance on classifying information for more detail [https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/)
+-   Consider removing access to data or information systems which are **Official-Sensitive**. This is in line with the necessity rigorously to apply the "need to know" principle for **Official-Sensitive** information. Refer to the guidance on classifying information for more detail [https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/)
 
 ### When to remove access and return assets
 

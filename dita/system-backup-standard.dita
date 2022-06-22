@@ -270,7 +270,7 @@
             <li>offsite, where the media is stored in a secure place that is geographically remote from the backed-up system</li>
           </ul>
           <p>The storage site must meet both location and retrieval requirements of the Disaster Recovery Team.</p>
-          <p>The technical, physical and procedural security controls for storing backup media must meet or exceed the requirements for the highest protective marking of the backed up information. In other words, even if just one part of the backup data are classified as <codeph>SECRET</codeph>, then the entire backup medium must be protected to meet <codeph>SECRET</codeph> requirements.</p>
+          <p>The technical, physical and procedural security controls for storing backup media must meet or exceed the requirements for the highest protective marking of the backed up information. In other words, even if just one part of the backup data are classified as <ph conref="conrefs.dita#conrefs/secret"/>, then the entire backup medium must be protected to meet <ph conref="conrefs.dita#conrefs/secret"/> requirements.</p>
           <p>The <xref href="#identification-and-tracking" format="dita">protective marking level</xref> for a backup is determined during the BIA process, and is described in the <ph conref="conrefs.dita#conrefs/moj"/> Accreditation Framework (this document). The precise selection of security controls for a system backup is established as part of the system risk assessment.</p>
           <p>The handling and transportation of backup media among system and storage sites must also be in line with the highest protective marking. More information about handling protectively marked information is in the <xref href="data-handling-and-information-sharing-guide.dita" format="dita">IT Security - Data Handling and Information Sharing Guide</xref>. The sharing guide provides details on the procedures and approvals that are required before any movement of any protectively marked information takes place.</p>
         </body>
@@ -278,7 +278,7 @@
       <topic id="identification-and-tracking">
         <title>Identification and tracking</title>
         <body>
-          <p>Backups, and the media each one is stored on, must be identifiable for tracking and reporting purposes. This means that each media item that holds backup data must have a unique media and job ID, and a formal indication of the information held; the Protective Marking, for example <codeph>SECRET</codeph>.</p>
+          <p>Backups, and the media each one is stored on, must be identifiable for tracking and reporting purposes. This means that each media item that holds backup data must have a unique media and job ID, and a formal indication of the information held; the Protective Marking, for example <ph conref="conrefs.dita#conrefs/secret"/>.</p>
           <p>If a single backup medium, such as a solid-state storage device, is used to hold several backups, each unique media and job ID must be recorded and associated with the hardware device in the relevant configuration management database (CMDB).</p>
           <p>All of the following details must be recorded in the system backup register, for each unique media and job ID:</p>
           <ul>

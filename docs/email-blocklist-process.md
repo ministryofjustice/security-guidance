@@ -84,9 +84,9 @@ Throughout this document, any item on the email blocklist is referred to as a 'b
 
 Each individual mail platform has its own set of objects that can be added to the blocklist. These objects vary from product to product.
 
-**Note:** Users **SHOULD NOT** interact with any unsolicited or unwanted emails. Instead, follow email spam handling processes. For more information on this, contact your local IT Service Desk.
+**Note:** Users **should not** interact with any unsolicited or unwanted emails. Instead, follow email spam handling processes. For more information on this, contact your local IT Service Desk.
 
-All email platforms in use by the MoJ **SHALL** have the ability to add items to the blocklist. The MoJ security team **SHALL** have appropriate permissions to update and review items on this list.
+All email platforms in use by the MoJ **shall** have the ability to add items to the blocklist. The MoJ security team **shall** have appropriate permissions to update and review items on this list.
 
 ### Internal blocklist
 
@@ -97,7 +97,7 @@ There are two specific types of blocklists:
 -   Global blocklist.
 
 
-Each mail platform that the MoJ manages has its own internal blocklist. Any object added to an internal blocklist is blocked from reaching mailboxes or recipients in that mail platform. Where possible, when a specific object is added to an internal blocklist in one platform, it **SHOULD** be replicated to other email environments.
+Each mail platform that the MoJ manages has its own internal blocklist. Any object added to an internal blocklist is blocked from reaching mailboxes or recipients in that mail platform. Where possible, when a specific object is added to an internal blocklist in one platform, it **should** be replicated to other email environments.
 
 The criteria for adding items to the internal blocklist are outlined in this policy.
 
@@ -113,9 +113,9 @@ By default, external email blocklists are applied at the global level, meaning t
 
 ## Auditing
 
-All emails that are received into the MoJ email platforms **SHOULD** have AntiVirus scanning in place. The scanning includes automatic detection, classification, and responding to suspicious emails.
+All emails that are received into the MoJ email platforms **should** have AntiVirus scanning in place. The scanning includes automatic detection, classification, and responding to suspicious emails.
 
-Be aware that email filtering and blocking can not be 100% effective. This means any suspicious or unsolicited emails **SHOULD** always be treated with caution. Similarly, an e-mail might be incorrectly marked as infected or "spam". This might result in some emails being blocked unnecessarily.
+Be aware that email filtering and blocking can not be 100% effective. This means any suspicious or unsolicited emails **should** always be treated with caution. Similarly, an e-mail might be incorrectly marked as infected or "spam". This might result in some emails being blocked unnecessarily.
 
 ## Freedom of Information \(FOI\) requests
 
@@ -141,9 +141,9 @@ Requests for review are assessed on an individual basis, working with the inform
 
 ## Impact assessment
 
-Any blocklist object **SHOULD** be defined so as to not result in widespread email failures. For example, it would not be helpful to block the whole of `@gmail.com`. Each blocklist object **SHOULD** be examined, taking into account the characteristics of the specific blocklist, and relevant intelligence sources.
+Any blocklist object **should** be defined so as to not result in widespread email failures. For example, it would not be helpful to block the whole of `@gmail.com`. Each blocklist object **should** be examined, taking into account the characteristics of the specific blocklist, and relevant intelligence sources.
 
-Senders that have an established history of clean or legitimate emails, but have recently been sending emails of concern, **SHOULD NOT** be added automatically or instantly to the blocklist. Instead, the sender **SHOULD** be 'quarantined' by the affected email system.
+Senders that have an established history of clean or legitimate emails, but have recently been sending emails of concern, **should not** be added automatically or instantly to the blocklist. Instead, the sender **should** be 'quarantined' by the affected email system.
 
 ## Avoiding the use of blocklists
 
@@ -153,7 +153,7 @@ Requests are sometimes made to block individual senders based on repeat, vexatio
 
 Use the MoJ incident management and change management process to add emails to internal blocklists. This includes documenting expected impact, and other relevant information.
 
-As part of the documentation steps, the assessment and justifications for blocking specific objects **SHOULD** be included. Ensure the information is brief but contains sufficient relevant information. The relevant information **SHOULD** include:
+As part of the documentation steps, the assessment and justifications for blocking specific objects **should** be included. Ensure the information is brief but contains sufficient relevant information. The relevant information **should** include:
 
 -   The specific items to be added to the internal blocklist.
 
@@ -166,13 +166,13 @@ As part of the documentation steps, the assessment and justifications for blocki
 
 One ticket might contain multiple different blocking objects.
 
-If an item is blocked without a corresponding ticket and justification as described in this guidance, then that object **SHALL** be removed from the internal blocklist with immediate effect.
+If an item is blocked without a corresponding ticket and justification as described in this guidance, then that object **shall** be removed from the internal blocklist with immediate effect.
 
 ## Review of existing blocks
 
-The MoJ **SHALL** review items manually added to the internal blocklist, on a regular basis, to determine if they are relevant or not. Regular means at least every quarter. Any item included in the list and which is considered irrelevant **SHOULD** be removed. An irrelevant item is one that blocks legitimate emails from entering the MoJ email system.
+The MoJ **shall** review items manually added to the internal blocklist, on a regular basis, to determine if they are relevant or not. Regular means at least every quarter. Any item included in the list and which is considered irrelevant **should** be removed. An irrelevant item is one that blocks legitimate emails from entering the MoJ email system.
 
-A review of internal blocklist **SHOULD** also be done frequently, in line with the time for which blocked email messages are kept. This ensures the MoJ is able to recover incorrectly-blocked emails, and avoid them being deleted automatically.
+A review of internal blocklist **should** also be done frequently, in line with the time for which blocked email messages are kept. This ensures the MoJ is able to recover incorrectly-blocked emails, and avoid them being deleted automatically.
 
 ## Spam emails
 
@@ -182,7 +182,7 @@ A spam email does not necessarily require automatic and instant inclusion on the
 
 ## Blocklist listing policies
 
-The MoJ email platforms **SHOULD** have the ability to deploy automatic blocking of traffic. This includes blocking the following email classifications:
+The MoJ email platforms **should** have the ability to deploy automatic blocking of traffic. This includes blocking the following email classifications:
 
 -   Spam traffic.
 
@@ -212,7 +212,7 @@ Organisation that are trusted by the MoJ for this purpose include:
 -   NCSC.
 
 
-In such cases, after forwarding, the MoJ **CAN** delete email messages from affected mailboxes.
+In such cases, after forwarding, the MoJ **can** delete email messages from affected mailboxes.
 
 ## Contact details
 

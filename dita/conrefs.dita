@@ -96,7 +96,7 @@
 			<ph id="secret"><b>Secret</b></ph>
 			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="html" scope="external">security@justice.gov.uk</xref></ph>
 			<ph id="securityemailtext"><xref href="mailto:security@justice.gov.uk" format="html" scope="external">Security team</xref></ph>
-			<ph id="sensitive"><ph conref="conrefs.dita#conrefs/sensitive"/></ph>
+			<ph id="sensitive"><b>Sensitive</b></ph>
 			<ph id="servicedesk">IT Service Desk</ph>
 			<ph id="servicedesknumber">0800 917 5148</ph>
 			<ph id="softwareassetemail"><xref href="mailto:SoftwareAssetManagement@justice.gov.uk" format="html" scope="external">SoftwareAssetManagement@justice.gov.uk</xref></ph>
@@ -105,7 +105,8 @@
 			<ph id="strapteamemail"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="html" scope="external">STRAPTeam@cluster2security.gov.uk</xref></ph>
 			<ph id="strapteamemailtext"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="html" scope="external">Cluster 2 STRAP team</xref></ph>
 			<ph id="tablenote"><b>Note:</b></ph>
-			<ph id="topsecret"><b>Top Secret</b></ph>
+			<ph id="topsecret"><ph conref="#conrefs/top-secret"/></ph>
+			<ph id="top-secret"><b>Top Secret</b></ph>
 			<ph id="vettingaftercareemail"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="html" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>			
 			<ph id="vettingaftercareemailtext"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="html" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>
 		</p>
