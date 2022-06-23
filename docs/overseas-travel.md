@@ -4,13 +4,13 @@
 
 As a government worker with access to sensitive information, you are at risk from espionage, intellectual property theft and a range of other threats from hostile third parties as well as foreign intelligence services. These risks can increase when you are overseas, as detailed in the [Overseas Travel Guide](./gs/overseas-travel-guide-v1-5-apr-2022.docx).
 
-Before you travel on business, you must seek approval from your Senior Line Manager. You **SHALL** also inform the security team a minimum of fifteen working days \(twenty working days if subject to STRAP briefing\) before either a holiday or business trip if you are travelling to or through the high-risk countries listed [here](accessing-moj-it-systems-from-overseas.md#part-one).
+Before you travel on business, you must seek approval from your Senior Line Manager. You **shall** also inform the security team a minimum of fifteen working days \(twenty working days if subject to STRAP briefing\) before either a holiday or business trip if you are travelling to or through the high-risk countries listed [here](accessing-moj-it-systems-from-overseas.md#part-one).
 
 If you are subject to a STRAP briefing you must notify the security team of your intended travel to or through any country \(excluding countries in Western Europe, North America, Australia or New Zealand\).
 
 Be aware that some countries only consider a passport as valid for a maximum of ten years from its issue date, regardless of the expiry date printed on it. Before travelling, make sure you understand the passport acceptance rules of all the countries you may travel to or through.
 
-If you are proposing to take MoJ-issued devices with you, or access MoJ systems while overseas, you **SHOULD** ensure you comply with the guidance on [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md).
+If you are proposing to take MoJ-issued devices with you, or access MoJ systems while overseas, you **should** ensure you comply with the guidance on [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md).
 
 The [Overseas Travel Guide](./gs/overseas-travel-guide-v1-5-apr-2022.docx) provides detailed guidance before you travel.
 

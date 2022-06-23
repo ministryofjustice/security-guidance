@@ -62,7 +62,7 @@ Remote working is when you work from any non-MoJ location, for example, working 
 It's important to consider the security of how you work remotely.
 
 -   **Work locations** - as with home working discussed previously, you need to be equally, if not more, vigilant when working in public spaces.
--   **Confidentiality** - be aware of others eavesdropping or shoulder surfing, both what you are working on and what you are saying eg conference and video calls.
+-   **Confidentiality** - be aware of others eavesdropping or shoulder surfing, both what you are working on and what you are saying, for example during conference and video calls.
 -   Keep MoJ **equipment and information**, including printouts and documents, safe and secure.
 
 Even when working remotely, you must still follow the security policies and operating procedures for MoJ systems you access and work with.

@@ -48,8 +48,8 @@
         In general,
         <codeph>IL3 REST*</codeph> is approximately equivalent to
         <ph conref="conrefs.dita#conrefs/official"/>
-        with the <codeph>SENSITIVE</codeph> handling caveat,
-        often written as <codeph>OFFICIAL-SENSITIVE</codeph>.
+        with the <ph conref="conrefs.dita#conrefs/sensitive"/> handling caveat,
+        often written as<ph conref="conrefs.dita#conrefs/official-sensitive"/>.
         While this approximate alignment might be helpful,
         you should always review classification where older terms are used,
         to ensure that the correct current classification is used.</note>
@@ -77,7 +77,7 @@
         </ul></p>
         <note>This document provides guidance for handling and sharing of
           information and data up to and including <ph conref="conrefs.dita#conrefs/official"/> and
-          <codeph>OFFICIAL-SENSITIVE</codeph>, or the older Impact Level (IL) 3.
+          <ph conref="conrefs.dita#conrefs/official-sensitive"/>, or the older Impact Level (IL) 3.
           Where information attracts a high protective marking or IL,
           advice <ph conref="conrefs.dita#conrefs/policyshall"/>
           be sought from the <ph conref="conrefs.dita#conrefs/moj"/>
@@ -112,7 +112,7 @@
       </ul></p>
       <p>For the purposes of this guide, the term "sensitive" data or
       information refers to data or information which attracts a handling caveat
-      of <codeph>SENSITIVE</codeph>.
+      of <ph conref="conrefs.dita#conrefs/sensitive"/>.
       <ph audience="audience-tech"> Refer to the <xref
         href="information-classification-and-handling-policy.dita"
         format="dita">Information Classification and Handling Policy</xref> for
@@ -172,7 +172,7 @@
             network (e.g. DISC, ONMI, Quantum or MINT) or the Government Secure
             Intranet (GSi).</p>
             <p>As these networks can support data up to and including
-              <codeph>OFFICIAL-SENSITIVE</codeph>,
+              <ph conref="conrefs.dita#conrefs/official-sensitive"/>,
               a base level of assurance is provided.
               However, consideration will need to be given to the following
               factors to ascertain if any additional security controls are
@@ -333,7 +333,7 @@
         <title>Internally within the <ph conref="conrefs.dita#conrefs/moj"/></title>
         <body>
           <p>Information marked up to and including
-            <codeph>OFFICIAL-SENSITIVE</codeph> can be transferred in bulk within
+            <ph conref="conrefs.dita#conrefs/official-sensitive"/> can be transferred in bulk within
             an <ph conref="conrefs.dita#conrefs/moj"/> IT system or domain such
             as DOM1,
             without additional controls required to preserve the confidentiality
@@ -399,7 +399,7 @@
               <xref href="security-aspect-letters.dita" format="dita">Security
                 Aspects Letter (SAL)</xref> and Codes of Connection (CoCo)
                 agreement.</p>
-          <p>Where the information is <codeph>OFFICIAL-SENSITIVE</codeph>,
+          <p>Where the information is <ph conref="conrefs.dita#conrefs/official-sensitive"/>,
             it <ph conref="conrefs.dita#conrefs/policyshall"/>
             be transferred to an assured system,
             assured to the same level as the data being transferred,

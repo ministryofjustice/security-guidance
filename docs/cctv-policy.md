@@ -4,7 +4,7 @@ The policy complements the Ministry of Justice \(MoJ\)'s overall security policy
 
 The CCTV Policy applies to all employees, contractors, partners and service providers, including those on co-located sites and sites owned by other public bodies. This also includes employees of other organisations who are based in, or work at, MoJ occupied premises.
 
-Agencies and arm's length bodies \(ALBs\) are expected to comply with the corporate framework, but **MAY** establish their own arrangements tailored to operational needs and **SHOULD** supplement the framework with local policy or guidance for any business-specific risk.
+Agencies and arm's length bodies \(ALBs\) are expected to comply with the corporate framework, but **may** establish their own arrangements tailored to operational needs and **should** supplement the framework with local policy or guidance for any business-specific risk.
 
 **Related information**  
 

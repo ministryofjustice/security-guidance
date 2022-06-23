@@ -7,7 +7,7 @@
     <title>Introduction</title>
     <body>
       <p>This policy gives an overview of domain name registration and monitoring principles and responsibilities within the <ph conref="conrefs.dita#conrefs/mojlong"/> and summarises the <ph conref="conrefs.dita#conrefs/moj"/>'s related compliance policies and guides.</p>
-      <p>To help identify formal policy statements, each is prefixed with an identifier of the form: <codeph>POLDOMxxx</codeph>, where <codeph>xxx</codeph> is a unique ID number.</p>
+      <p>To help identify formal policy statements, each is prefixed with an identifier of the form: <b>POL.DOM.xxx</b>, where <b>xxx</b> is a unique ID number.</p>
     </body>
   </topic>
   <topic id="who-is-it-for">
@@ -52,19 +52,19 @@
       <p>Effective domain name registration encompasses the following five principles, which include:</p>
       <ul>
         <li>
-          <p><codeph>POLDOM001:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> secure domain name management aligning this to its <xref href="https://security-guidance.service.justice.gov.uk/" format="html" scope="external">Cyber security guidance</xref>, specifically <xref href="access-control-policy.dita#user-registration-and-de-registration/user-registration-and-de-registration" format="dita" platform="html">multi-factor authentication</xref><xref href="access-control-policy.dita#user-registration-and-de-registration" format="dita" platform="epub pdf">multi-factor authentication</xref> (MFA), <xref href="access-control-policy.dita#access-control-policy-1/access-control-policy-1" format="dita" platform="html">least privilege</xref><xref href="access-control-policy.dita#access-control-policy-1" format="dita" platform="epub pdf">least privilege</xref> and <xref href="access-control-policy.dita#review-of-user-access-rights/review-of-user-access-rights" format="dita" platform="html">review of user access rights</xref><xref href="access-control-policy.dita#review-of-user-access-rights" format="dita" platform="epub pdf">review of user access rights</xref>.</p>
+          <p><b>POL.DOM.001:</b> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> secure domain name management aligning this to its <xref href="https://security-guidance.service.justice.gov.uk/" format="html" scope="external">Cyber security guidance</xref>, specifically <xref href="access-control-policy.dita#user-registration-and-de-registration/user-registration-and-de-registration" format="dita" platform="html">multi-factor authentication</xref><xref href="access-control-policy.dita#user-registration-and-de-registration" format="dita" platform="epub pdf">multi-factor authentication</xref> (MFA), <xref href="access-control-policy.dita#access-control-policy-1/access-control-policy-1" format="dita" platform="html">least privilege</xref><xref href="access-control-policy.dita#access-control-policy-1" format="dita" platform="epub pdf">least privilege</xref> and <xref href="access-control-policy.dita#review-of-user-access-rights/review-of-user-access-rights" format="dita" platform="html">review of user access rights</xref><xref href="access-control-policy.dita#review-of-user-access-rights" format="dita" platform="epub pdf">review of user access rights</xref>.</p>
         </li>
         <li>
-          <p><codeph>POLDOM002:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> manage domain name portfolio growth, that is, their inherent value, before assessing their expiration.</p>
+          <p><b>POL.DOM.002:</b> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> manage domain name portfolio growth, that is, their inherent value, before assessing their expiration.</p>
         </li>
         <li>
-          <p><codeph>POLDOM003:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> ensure non-core or defensively registered domains point to relevant content.</p>
+          <p><b>POL.DOM.003:</b> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> ensure non-core or defensively registered domains point to relevant content.</p>
         </li>
         <li>
-          <p><codeph>POLDOM004:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> ensure all <ph conref="conrefs.dita#conrefs/moj"/> "Technical users" and "Service Providers" are reminded of the processes for requesting new registrations, auto-renewal, and decommissioning domains.</p>
+          <p><b>POL.DOM.004:</b> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> ensure all <ph conref="conrefs.dita#conrefs/moj"/> "Technical users" and "Service Providers" are reminded of the processes for requesting new registrations, auto-renewal, and decommissioning domains.</p>
         </li>
         <li>
-          <p><codeph>POLDOM005:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> apply domain name specific technologies such as (list not exhaustive):</p>
+          <p><b>POL.DOM.005:</b> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> apply domain name specific technologies such as (list not exhaustive):</p>
           <ul>
             <li>
               <p>Domain Name System Security Extensions (<xref href="https://www.ncsc.gov.uk/guidance/managing-public-domain-names#section_6" format="html" scope="external">DNSSEC</xref>), which protects against cache poisoning.</p>
@@ -87,13 +87,13 @@
       <body>
         <ul>
           <li>
-            <p><codeph>POLDOM006:</codeph> To improve clarity and security hardening, all <ph conref="conrefs.dita#conrefs/moj"/> domain name registrations and usage <ph conref="conrefs.dita#conrefs/policyshall"/> adhere to the <ph conref="conrefs.dita#conrefs/moj"/>'s <xref href="https://ministryofjustice.github.io/technical-guidance/documentation/standards/naming-domains.html#naming-domains.Guidance" format="html" scope="external">domain naming standards</xref> and <xref href="system-lockdown-and-hardening-standard.dita#scope/scope" format="dita" platform="html">system hardening standards</xref><xref href="system-lockdown-and-hardening-standard.dita#scope" format="dita" platform="epub pdf">system hardening standards</xref>.</p>
+            <p><b>POL.DOM.006:</b> To improve clarity and security hardening, all <ph conref="conrefs.dita#conrefs/moj"/> domain name registrations and usage <ph conref="conrefs.dita#conrefs/policyshall"/> adhere to the <ph conref="conrefs.dita#conrefs/moj"/>'s <xref href="https://ministryofjustice.github.io/technical-guidance/documentation/standards/naming-domains.html#naming-domains.Guidance" format="html" scope="external">domain naming standards</xref> and <xref href="system-lockdown-and-hardening-standard.dita#scope/scope" format="dita" platform="html">system hardening standards</xref><xref href="system-lockdown-and-hardening-standard.dita#scope" format="dita" platform="epub pdf">system hardening standards</xref>.</p>
           </li>
           <li>
-            <p><codeph>POLDOM007:</codeph> This policy's related security guidance <ph conref="conrefs.dita#conrefs/policyshall"/> clearly describe why defensive domain registration is essential and why not doing it creates cyber risk.</p>
+            <p><b>POL.DOM.007:</b> This policy's related security guidance <ph conref="conrefs.dita#conrefs/policyshall"/> clearly describe why defensive domain registration is essential and why not doing it creates cyber risk.</p>
           </li>
           <li>
-            <p><codeph>POLDOM008:</codeph> This policy's related guidance on <xref href="https://technical-guidance.service.justice.gov.uk/documentation/standards/how-to-get-a-domain-name.html" format="html" scope="external">How to get, register or manage a domain name</xref> clearly describes defensive domain names solutions.</p>
+            <p><b>POL.DOM.008:</b> This policy's related guidance on <xref href="https://technical-guidance.service.justice.gov.uk/documentation/standards/how-to-get-a-domain-name.html" format="html" scope="external">How to get, register or manage a domain name</xref> clearly describes defensive domain names solutions.</p>
           </li>
         </ul>
       </body>
@@ -103,13 +103,13 @@
       <body>
         <ul>
           <li>
-            <p><codeph>POLDOM009:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/operationsengineering"/> team <ph conref="conrefs.dita#conrefs/policyshall"/> manage the registration of all domain names, including defensive domain names.</p>
+            <p><b>POL.DOM.009:</b> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/operationsengineering"/> team <ph conref="conrefs.dita#conrefs/policyshall"/> manage the registration of all domain names, including defensive domain names.</p>
           </li>
           <li>
-            <p><codeph>POLDOM010:</codeph> Departmental teams and ALBs <ph conref="conrefs.dita#conrefs/policyshall"/> be directed to the <ph conref="conrefs.dita#conrefs/operationsengineering"/> team to carry out domain registration on the user or department's behalf.</p>
+            <p><b>POL.DOM.010:</b> Departmental teams and ALBs <ph conref="conrefs.dita#conrefs/policyshall"/> be directed to the <ph conref="conrefs.dita#conrefs/operationsengineering"/> team to carry out domain registration on the user or department's behalf.</p>
           </li>
           <li>
-            <p><codeph>POLDOM011:</codeph> All departments and ALBs <ph conref="conrefs.dita#conrefs/policyshall"/> ensure that they transfer ownership of non-GOV.UK domains to the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/operationsengineering"/> team, with a list of transfers and registration managed by the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/operationsengineering"/> team.</p>
+            <p><b>POL.DOM.011:</b> All departments and ALBs <ph conref="conrefs.dita#conrefs/policyshall"/> ensure that they transfer ownership of non-GOV.UK domains to the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/operationsengineering"/> team, with a list of transfers and registration managed by the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/operationsengineering"/> team.</p>
           </li>
         </ul>
       </body>
@@ -119,19 +119,19 @@
       <body>
         <ul>
           <li>
-            <p><codeph>POLDOM012:</codeph> The Threat Vulnerability Management team (TVM) <ph conref="conrefs.dita#conrefs/policyshall"/> be responsible for identifying, detecting, reporting, and helping prioritise domain monitoring issues, including squatting or hijacking.</p>
+            <p><b>POL.DOM.012:</b> The Threat Vulnerability Management team (TVM) <ph conref="conrefs.dita#conrefs/policyshall"/> be responsible for identifying, detecting, reporting, and helping prioritise domain monitoring issues, including squatting or hijacking.</p>
           </li>
           <li>
-            <p><codeph>POLDOM013:</codeph> The TVM team <ph conref="conrefs.dita#conrefs/policyshall"/> also be responsible for detecting and reporting on external domain name hijackings.</p>
+            <p><b>POL.DOM.013:</b> The TVM team <ph conref="conrefs.dita#conrefs/policyshall"/> also be responsible for detecting and reporting on external domain name hijackings.</p>
           </li>
           <li>
-            <p><codeph>POLDOM014:</codeph> The <ph conref="conrefs.dita#conrefs/operationsengineering"/> team and TVM team <ph conref="conrefs.dita#conrefs/policyshall"/> be responsible for resolving domain issues raised by the TVM team, domain owners and teams, by implementing any required changes.</p>
+            <p><b>POL.DOM.014:</b> The <ph conref="conrefs.dita#conrefs/operationsengineering"/> team and TVM team <ph conref="conrefs.dita#conrefs/policyshall"/> be responsible for resolving domain issues raised by the TVM team, domain owners and teams, by implementing any required changes.</p>
           </li>
           <li>
-            <p><codeph>POLDOM015:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> follow <xref href="https://www.ncsc.gov.uk/news/ongoing-dns-hijacking-and-mitigation-advice)" format="html" audience="external">NCSC Guidance</xref> when a domain is hijacked or used maliciously.</p>
+            <p><b>POL.DOM.015:</b> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> follow <xref href="https://www.ncsc.gov.uk/news/ongoing-dns-hijacking-and-mitigation-advice)" format="html" audience="external">NCSC Guidance</xref> when a domain is hijacked or used maliciously.</p>
           </li>
           <li>
-            <p><codeph>POLDOM016:</codeph> <ph conref="conrefs.dita#conrefs/moj"/> departments, ALBs and third parties <ph conref="conrefs.dita#conrefs/policyshall"/> report domain variants and domains used within the <ph conref="conrefs.dita#conrefs/moj"/> but which are not owned by the <ph conref="conrefs.dita#conrefs/moj"/>. Refer to the <xref href="#contact-details" format="dita">contact details</xref>.</p>
+            <p><b>POL.DOM.016:</b> <ph conref="conrefs.dita#conrefs/moj"/> departments, ALBs and third parties <ph conref="conrefs.dita#conrefs/policyshall"/> report domain variants and domains used within the <ph conref="conrefs.dita#conrefs/moj"/> but which are not owned by the <ph conref="conrefs.dita#conrefs/moj"/>. Refer to the <xref href="#contact-details" format="dita">contact details</xref>.</p>
           </li>
         </ul>
         <note>Contact the TVM team through the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</note>
@@ -143,16 +143,16 @@
       <body>
         <ul>
           <li>
-            <p><codeph>POLDOM017:</codeph> Any decommissioned domain <ph conref="conrefs.dita#conrefs/policyshall"/> be transferred to the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/operationsengineering"/> team. Contact them at <ph conref="conrefs.dita#conrefs/domainsemail"/> on behalf of departmental teams or ALBs, and providing appropriate HTTP redirections to a suitable URL, for example, <codeph>301</codeph> or <codeph>302</codeph>.</p>
+            <p><b>POL.DOM.017:</b> Any decommissioned domain <ph conref="conrefs.dita#conrefs/policyshall"/> be transferred to the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/operationsengineering"/> team. Contact them at <ph conref="conrefs.dita#conrefs/domainsemail"/> on behalf of departmental teams or ALBs, and providing appropriate HTTP redirections to a suitable URL, for example, <codeph>301</codeph> or <codeph>302</codeph>.</p>
           </li>
           <li>
-            <p><codeph>POLDOM018:</codeph> Domains registered pre-policy <ph conref="conrefs.dita#conrefs/policyshall"/> be moved to the <ph conref="conrefs.dita#conrefs/operationsengineering"/> team.</p>
+            <p><b>POL.DOM.018:</b> Domains registered pre-policy <ph conref="conrefs.dita#conrefs/policyshall"/> be moved to the <ph conref="conrefs.dita#conrefs/operationsengineering"/> team.</p>
           </li>
           <li>
-            <p><codeph>POLDOM019:</codeph> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> allow decommissioned domains to expire if there is no risk to the <ph conref="conrefs.dita#conrefs/moj"/> via "Domain Squatting" or "Phishing" attacks, or value in registering them defensively.</p>
+            <p><b>POL.DOM.019:</b> The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> allow decommissioned domains to expire if there is no risk to the <ph conref="conrefs.dita#conrefs/moj"/> via "Domain Squatting" or "Phishing" attacks, or value in registering them defensively.</p>
           </li>
           <li>
-            <p><codeph>POLDOM020:</codeph> Any decommissioned domains <ph conref="conrefs.dita#conrefs/policyshall"/> be added and managed in a risk register.</p>
+            <p><b>POL.DOM.020:</b> Any decommissioned domains <ph conref="conrefs.dita#conrefs/policyshall"/> be added and managed in a risk register.</p>
           </li>
         </ul>
       </body>
@@ -163,7 +163,7 @@
     <body>
       <ul>
         <li>
-          <p><codeph>POLDOM021:</codeph> <ph conref="conrefs.dita#conrefs/moj"/> domains discovered that do not abide by the statements set out in this policy <ph conref="conrefs.dita#conrefs/policyshould"/> be treated as suspicious, reported to NCSC, and blocked automatically.</p>
+          <p><b>POL.DOM.021:</b> <ph conref="conrefs.dita#conrefs/moj"/> domains discovered that do not abide by the statements set out in this policy <ph conref="conrefs.dita#conrefs/policyshould"/> be treated as suspicious, reported to NCSC, and blocked automatically.</p>
         </li>
         <li>
           <p>This policy is enforced by lower-level policies, standards, procedures and guidance.</p>

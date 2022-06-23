@@ -4,9 +4,9 @@ The Ministry of Justice \(MoJ\) Senior Security Adviser, Chief Information Secur
 
 ## Summary
 
-At `OFFICIAL` level, subject to adequate, proportionate and standard information security controls, the Department is content to process, and allow third-party partners to process, data \(including personal data\) outside the UK.
+At **Official** level, subject to adequate, proportionate and standard information security controls, the Department is content to process, and allow third-party partners to process, data \(including personal data\) outside the UK.
 
-This statement includes the `SENSITIVE` \(marked as `OFFICIAL-SENSITIVE`\) handling caveat advising that additional care may be required; it is not a separate classification and any data / information is subject to the same rules as `OFFICIAL`.
+This statement includes the **Sensitive** \(marked as **Official-Sensitive**\) handling caveat advising that additional care may be required; it is not a separate classification and any data / information is subject to the same rules as **Official**.
 
 The MoJ does not by default or routine require 'UK only hosting' or 'UK only services' for data privacy, data protection or information security reasons.
 

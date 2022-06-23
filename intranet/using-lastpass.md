@@ -34,13 +34,13 @@ LastPass can be used for sharing passwords within a team, when individual named 
 
 ##Personal use
 
-You **SHOULD NOT** use your MoJ LastPass account to store personal non-work information as it is a work account belonging to the MoJ. You may lose access if you change role. You will lose access entirely if you leave the MoJ.
+You **should not** use your MoJ LastPass account to store personal non-work information as it is a work account belonging to the MoJ. You may lose access if you change role. You will lose access entirely if you leave the MoJ.
 
 MoJ LastPass administrators cannot routinely access the contents of LastPass Vaults but can reset accounts to gain access if there is a good reason to do so.
 
 ##What it shouldn't be used for
 
-LastPass **SHOULD NOT** be used for storing personal passwords, or for storing MoJ documents. Use existing approved MoJ services such as Office 365 or Google Workspace for storing MoJ documents.
+LastPass **should not** be used for storing personal passwords, or for storing MoJ documents. Use existing approved MoJ services such as Office 365 or Google Workspace for storing MoJ documents.
 
 You shouldn't use LastPass for 'secrets' that belong to systems, only credentials to be used by humans.
 

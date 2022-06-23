@@ -40,7 +40,7 @@
         When followed completely,
         this baseline for data destruction is considered sufficient to comply
         with data decommissioning and disposable tasks (and corresponding
-        supplier assurances) for material classified as <codeph>OFFICIAL</codeph>
+        supplier assurances) for material classified as <ph conref="conrefs.dita#conrefs/official"/>
         under the <xref
         href="https://www.gov.uk/government/publications/government-security-classifications"
         format="html" scope="external">UK HMG Government Security Classifications

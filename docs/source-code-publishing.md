@@ -4,7 +4,7 @@
 
 MoJ policy about making source code developed by the MoJ available complies with [UK Government guidance](https://www.gov.uk/service-manual/service-standard).
 
-By default, MoJ developers **SHALL** develop source code in a way that means it can be stored and published in the open. There are exceptions, for example sensitive material such as encryption keys.
+By default, MoJ developers **shall** develop source code in a way that means it can be stored and published in the open. There are exceptions, for example sensitive material such as encryption keys.
 
 This document is not about the use of existing open source materials.
 

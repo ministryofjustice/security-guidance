@@ -47,7 +47,7 @@
 			<ph id="groupsecurityemailtext"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="html" scope="external"><ph conref="#conrefs/moj"/> Group Security</xref></ph>
 			<ph id="gsuite">Google Workspace</ph>
 			<ph id="helpdesk"><ph conref="#conrefs/servicedesk"/></ph>
-			<ph id="higherclassification">If you are working with information or documentation higher than the <codeph>OFFICIAL</codeph> classification level, contact <ph conref="#conrefs/groupsecurityemailtext"/> for specific guidance.</ph>
+			<ph id="higherclassification">If you are working with information or documentation higher than the <ph conref="#conrefs/official"/> classification level, contact <ph conref="#conrefs/groupsecurityemailtext"/> for specific guidance.</ph>
 			<ph id="hmggovernmentsecurityclassifications"><xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">HMG Government Security Classifications Policy</xref></ph>
 			<ph id="icolong">Information Commissioner's Office (<ph conref="#conrefs/ico"/>)</ph>
 			<ph id="ico">ICO</ph>
@@ -62,9 +62,9 @@
 			<ph id="ncsc">NCSC</ph>
 			<ph id="nsvc-contact">If you don't know who your NSVC is,
 				refer to the download <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external">here</xref>.</ph>
-			<ph id="official"><codeph>OFFICIAL</codeph></ph>
+			<ph id="official"><b>Official</b></ph>
 			<ph id="officialsensitive"><ph conref="#conrefs/official-sensitive"/></ph>
-			<ph id="official-sensitive"><codeph>OFFICIAL-SENSITIVE</codeph></ph>
+			<ph id="official-sensitive"><b>Official-Sensitive</b></ph>
 			<ph id="operationsengineering"><xref href="https://operations-engineering.service.justice.gov.uk/" format="html" scope="external">Operations Engineering</xref></ph>
 			<!--
 			<ph id="ostemail"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="html" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
@@ -75,27 +75,28 @@
 			or "<ph conref="#conrefs/policyshould"/>",
 			are as defined in the UK Government "Orange Book"
 			<xref href="https://www.gov.uk/government/publications/orange-book" format="html" scope="external">Management of Risk - Principles and Concepts</xref>.</ph>
-			<ph id="policycan"><b>CAN</b></ph>
-			<ph id="policycannot"><b>CAN NOT</b></ph>
-			<ph id="policymandatory"><b>MANDATORY</b></ph>
-			<ph id="policymay"><b>MAY</b></ph>
-			<ph id="policymaynot"><b>MAY NOT</b></ph>
-			<ph id="policymight"><b>MIGHT</b></ph>
-			<ph id="policymust"><b>SHALL</b></ph>
-			<ph id="policymustnot"><b>SHALL NOT</b></ph>
-			<ph id="policyonly"><b>ONLY</b></ph>
-			<ph id="policyshall"><b>SHALL</b></ph>
-			<ph id="policyshallnot"><b>SHALL NOT</b></ph>
-			<ph id="policyshould"><b>SHOULD</b></ph>
-			<ph id="policyshouldnot"><b>SHOULD NOT</b></ph>
-			<ph id="policywill"><b>SHALL</b></ph>
+			<ph id="policycan"><b>can</b></ph>
+			<ph id="policycannot"><b>can not</b></ph>
+			<ph id="policymandatory"><b>mandatory</b></ph>
+			<ph id="policymay"><b>may</b></ph>
+			<ph id="policymaynot"><b>may not</b></ph>
+			<ph id="policymight"><b>might</b></ph>
+			<ph id="policymust"><b>shall</b></ph>
+			<ph id="policymustnot"><b>shall not</b></ph>
+			<ph id="policyonly"><b>only</b></ph>
+			<ph id="policyshall"><b>shall</b></ph>
+			<ph id="policyshallnot"><b>shall not</b></ph>
+			<ph id="policyshould"><b>should</b></ph>
+			<ph id="policyshouldnot"><b>should not</b></ph>
+			<ph id="policywill"><b>shall</b></ph>
 			<ph id="privacyemail"><xref href="mailto:DataProtection@justice.gov.uk" format="html" scope="external">DataProtection@justice.gov.uk</xref></ph>
 			<ph id="privacyemailtext"><xref href="mailto:DataProtection@justice.gov.uk" format="html" scope="external">Data Protection Team</xref></ph>
 			<ph id="recordsretentionemail"><xref href="mailto:Records_Retention_@justice.gov.uk" format="html" scope="external">Records_Retention_@justice.gov.uk</xref></ph>
 			<ph id="recordsretentionemailtext"><xref href="mailto:Records_Retention_@justice.gov.uk" format="html" scope="external">Records and Retention team</xref></ph>
-			<ph id="secret"><codeph>SECRET</codeph></ph>
+			<ph id="secret"><b>Secret</b></ph>
 			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="html" scope="external">security@justice.gov.uk</xref></ph>
 			<ph id="securityemailtext"><xref href="mailto:security@justice.gov.uk" format="html" scope="external">Security team</xref></ph>
+			<ph id="sensitive"><b>Sensitive</b></ph>
 			<ph id="servicedesk">IT Service Desk</ph>
 			<ph id="servicedesknumber">0800 917 5148</ph>
 			<ph id="softwareassetemail"><xref href="mailto:SoftwareAssetManagement@justice.gov.uk" format="html" scope="external">SoftwareAssetManagement@justice.gov.uk</xref></ph>
@@ -104,7 +105,8 @@
 			<ph id="strapteamemail"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="html" scope="external">STRAPTeam@cluster2security.gov.uk</xref></ph>
 			<ph id="strapteamemailtext"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="html" scope="external">Cluster 2 STRAP team</xref></ph>
 			<ph id="tablenote"><b>Note:</b></ph>
-			<ph id="topsecret"><codeph>TOP SECRET</codeph></ph>
+			<ph id="topsecret"><ph conref="#conrefs/top-secret"/></ph>
+			<ph id="top-secret"><b>Top Secret</b></ph>
 			<ph id="vettingaftercareemail"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="html" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>			
 			<ph id="vettingaftercareemailtext"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="html" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>
 		</p>
@@ -144,7 +146,7 @@
 							contact <ph conref="#conrefs/securityemail"/>.</li>
 						<li>ComSO (Communications Security Officer),
 							contact the <ph conref="#conrefs/cisolong"/> (<ph conref="#conrefs/securityemail"/>).</li>
-						<li><codeph>CONFIDENTIAL</codeph>,
+						<li><b>Confidential</b>,
 							an older information classification marking,
 							refer to <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>.</li>
 						<li>CPNI (<xref href="https://www.cpni.gov.uk/" scope="external" format="html">Centre for the Protection of the National Infrastructure</xref>),
@@ -164,7 +166,7 @@
 							refer to the <ph conref="#conrefs/gov007"/>.</li>
 						<li>ITSO (Information Technology Security Officer),
 							contact the <ph conref="#conrefs/ciso"/> (<ph conref="#conrefs/securityemail"/>).</li>
-						<li><codeph>RESTRICTED</codeph>,
+						<li><b>Restricted</b>,
 							an older information classification marking,
 							refer to <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>.</li>
 						<li>SPF (<xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">Security Policy Framework</xref>),

@@ -6,7 +6,7 @@ redirect_from:
 
 The Ministry of Justice \(MoJ\) has a 'lowest common denominator' for security-related promises, capabilities and configurations of MoJ Amazon Web Services \(AWS\) accounts.
 
-The baseline is not a holistic 'do' and 'do not' list, but a minimum line in the sand for what 'at least' **SHALL** be done.
+The baseline is not a holistic 'do' and 'do not' list, but a minimum line in the sand for what 'at least' **shall** be done.
 
 ## The base principle
 
@@ -20,9 +20,9 @@ The MoJ Security team strongly encourage the use of the highest abstraction leve
 
 ## Initial considerations
 
-The type of hosting is the first consideration. MoJ service developers **SHALL** utilise Cloud Platform for new services. Anyone developing new services **SHOULD** refer to the [How to host services](https://technical-guidance.service.justice.gov.uk/documentation/standards/hosting.html#how-to-host-services) page which provides initial guidance.
+The type of hosting is the first consideration. MoJ service developers **shall** utilise Cloud Platform for new services. Anyone developing new services **should** refer to the [How to host services](https://technical-guidance.service.justice.gov.uk/documentation/standards/hosting.html#how-to-host-services) page which provides initial guidance.
 
-Legacy applications **SHOULD** be hosted via the [Modernisation Platform](https://ministryofjustice.github.io/modernisation-platform/user-guide/cloud-platform-or-modernisation-platform.html#should-i-use-the-cloud-platform-or-the-modernisation-platform).
+Legacy applications **should** be hosted via the [Modernisation Platform](https://ministryofjustice.github.io/modernisation-platform/user-guide/cloud-platform-or-modernisation-platform.html#should-i-use-the-cloud-platform-or-the-modernisation-platform).
 
 ## Security incidents
 
