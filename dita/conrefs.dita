@@ -54,8 +54,10 @@
 			<ph id="ico">ICO</ph>
 			<ph id="itpolicycontentemail"><xref href="mailto:itpolicycontent@digital.justice.gov.uk" format="html" scope="external">itpolicycontent@digital.justice.gov.uk</xref></ph>
 			<ph id="itpolicycontentemailtext"><xref href="mailto:itpolicycontent@digital.justice.gov.uk" format="html" scope="external">IT policy content</xref></ph>
-			<ph id="jdsoclong">Justice Digital Security Operations Centre (SOC)</ph>
 			<ph id="jdsoc">Justice Digital SOC</ph>
+			<ph id="jdsocemail"><xref href="mailto:MisuseInvestigationTeam@justice.gov.uk" format="html" scope="external"><ph conref="#conrefs/jdsoc"/></xref></ph>
+			<ph id="jdsoclong">Justice Digital Security Operations Centre (SOC)</ph>
+			<ph id="jdsoclongemail"><xref href="mailto:MisuseInvestigationTeam@justice.gov.uk" format="html" scope="external"><ph conref="#conrefs/jdsoclong"/></xref></ph>
 			<ph id="mcss"><xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">MCSS</xref></ph>
 			<ph id="mcsslong"><xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">Minimum Cyber Security Standard (MCSS)</xref></ph>
 			<ph id="mojlong">Ministry of Justice (<ph conref="#conrefs/moj"/>)</ph>

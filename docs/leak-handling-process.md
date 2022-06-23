@@ -4,13 +4,13 @@ This document provides a high-level overview of the leak handling process for th
 
 It should be read in conjunction with the associated [leak handling policy](leak-handling-policy.md).
 
-[MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk) owns the leak handling process. However, the Justice Digital Security Operations Centre \(SOC\) provides tech support as required, for example performing searches. The analysis and reporting from these teams is an essential security management component in assessing and mitigating current and future leaks that affect MoJ data, systems, networks and solutions.
+[MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk) owns the leak handling process. However, the [Justice Digital Security Operations Centre \(SOC\)](mailto:MisuseInvestigationTeam@justice.gov.uk) provides tech support as required, for example performing searches. The analysis and reporting from these teams is an essential security management component in assessing and mitigating current and future leaks that affect MoJ data, systems, networks and solutions.
 
-Send all leak questions or requests for help to [security@justice.gov.uk](mailto:security@justice.gov.uk). This applies to all leaks, suspected or otherwise. Your message is evaluated promptly and normally passed to [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). Depending on the circumstances, the Justice Digital SOC might also provide direct advice on a case-by-case basis.
+Send all leak questions or requests for help to [security@justice.gov.uk](mailto:security@justice.gov.uk). This applies to all leaks, suspected or otherwise. Your message is evaluated promptly and normally passed to [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). Depending on the circumstances, the [Justice Digital SOC](mailto:MisuseInvestigationTeam@justice.gov.uk) might also provide direct advice on a case-by-case basis.
 
 **Note:** Normally, the [MoJ incident management process](it-incident-management-policy.md) is followed at the start of a leak investigation.
 
-**Note:** If a leak investigation indicates that physical examination of evidence is required, then Justice Digital SOC involvement will include a Team Lead as a minimum.
+**Note:** If a leak investigation indicates that physical examination of evidence is required, then [Justice Digital SOC](mailto:MisuseInvestigationTeam@justice.gov.uk) involvement includes a Team Lead as a minimum.
 
 **Note:** An informal leak investigation takes place entirely within the MoJ. A formal leak investigation takes place with involvement from outside the MoJ, typically Cabinet Office.
 
@@ -101,7 +101,7 @@ This process is aimed at all staff working for, or supplying services to, the Mo
 
 2.  If it is decided that the situation is indeed a leak, then proceed to step [3.1](#step-31-require-informal-leak-investigation).
 
-3.  If it is decided that the situation is not a leak, or it is not clear whether the situation is a leak, the request is sent to the Justice Digital SOC. Proceed to step [3.2](#step-32-information-and-sign-off-check).
+3.  If it is decided that the situation is not a leak, or it is not clear whether the situation is a leak, the request is sent to the [Justice Digital SOC](mailto:MisuseInvestigationTeam@justice.gov.uk). Proceed to step [3.2](#step-32-information-and-sign-off-check).
 
 
 ### Step 3.1: Require informal leak investigation
@@ -155,7 +155,7 @@ This process is aimed at all staff working for, or supplying services to, the Mo
 
 1.  The Justice Digital SOC Lead assigns an Justice Digital SOC Analyst to the request.
 
-2.  The Justice Digital SOC Analyst creates a ServiceNow 'placeholder' incident using the Technology Portal. In all cases, the title of the placeholder **SHALL** be "An investigation carried out by the SOC."
+2.  The Justice Digital SOC Analyst creates a ServiceNow 'placeholder' incident using the Technology Portal. In all cases, the title of the placeholder **shall** be "An investigation carried out by the SOC."
 
 3.  Proceed to step [3.2.2](#step-322-collect-evidence).
 
@@ -171,7 +171,7 @@ This process is aimed at all staff working for, or supplying services to, the Mo
 3.  Proceed to step [3.2.3](#step-323-process-evidence-and-produce-report).
 
 
-**Note:** The Justice Digital SOC Analyst **SHALL** record all the steps taken for each request in OneNote. These contemporaneous notes **SHALL** include supporting data, such as photos, screenshots and images. In addition, each entry **SHALL** be supported by the Analyst's comments.
+**Note:** The Justice Digital SOC Analyst **shall** record all the steps taken for each request in OneNote. These contemporaneous notes **shall** include supporting data, such as photos, screenshots and images. In addition, each entry **shall** be supported by the Analyst's comments.
 
 ### Step 3.2.3: Process evidence and produce report
 
@@ -198,7 +198,7 @@ This process is aimed at all staff working for, or supplying services to, the Mo
 2.  The process ends.
 
 
-**Note:** Information **SHALL** be retained and recorded as set out in the MoJ information retention policy. Guidance on what to keep is [available](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/keeping-deleting-disclosing-info/).
+**Note:** Information **shall** be retained and recorded as set out in the MoJ information retention policy. Guidance on what to keep is [available](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/keeping-deleting-disclosing-info/).
 
 ## Who to contact if a leak is suspected
 

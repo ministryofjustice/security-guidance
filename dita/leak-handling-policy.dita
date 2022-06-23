@@ -4,7 +4,7 @@
   <title>Leak handling policy</title>
   <body>
     <p>This document describes the leak handling policy for the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
-    <p>To help identify formal policy statements, each is prefixed with an identifier of the form: POLLEAKxxx, where xxx is a unique ID number.</p>
+    <p>To help identify formal policy statements, each is prefixed with an identifier of the form: <b>POL.LEAK.xxx</b>, where <b>xxx</b> is a unique ID number.</p>
     <p>Information on following the policy may be found in the associated <xref href="leak-handling-process.dita" format="dita">leak handling process</xref>.</p>
   </body>
   <topic id="audience">
@@ -17,7 +17,7 @@
     <title>Purpose</title>
     <body>
       <p>The purpose of this document is to define the requirements and policy for handling leaks associated with or affecting the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
-      <p><codeph>POLLEAK001:</codeph> Any exceptions to the policy <ph conref="conrefs.dita#conrefs/policymust"/> be managed through the <ph conref="conrefs.dita#conrefs/moj"/>'s security risk management process.</p>
+      <p><b>POL.LEAK.001:</b> Any exceptions to the policy <ph conref="conrefs.dita#conrefs/policymust"/> be managed through the <ph conref="conrefs.dita#conrefs/moj"/>'s security risk management process.</p>
     </body>
   </topic>
   <topic id="applicability">
@@ -48,19 +48,19 @@
     <title>Information classification</title>
     <body>
       <p>The amount of data or information being leaked can vary, from entire documents or reports, down to single sentences or diagrams.</p>
-      <p><codeph>POLLEAK002:</codeph> This policy <ph conref="conrefs.dita#conrefs/policyshall"/> apply to all leaks, regardless of the quantity of data or information involved.</p>
+      <p><b>POL.LEAK.002:</b> This policy <ph conref="conrefs.dita#conrefs/policyshall"/> apply to all leaks, regardless of the quantity of data or information involved.</p>
       <p>It is important to take into account the <xref href="information-classification-handling-and-security-guide.dita" format="dita">information classification</xref> of the data, information, service or system.</p>
-      <p><codeph>POLLEAK003:</codeph> A leak situation <ph conref="conrefs.dita#conrefs/policycannot"/> apply to any data or information containing only <ph conref="conrefs.dita#conrefs/official"/> material that does not have a handling caveat such as <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
-      <p><codeph>POLLEAK004:</codeph> A leak situation <ph conref="conrefs.dita#conrefs/policycan"/> apply to any data or information containing <ph conref="conrefs.dita#conrefs/official"/> material that does have a handling caveat such as <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
-      <p><codeph>POLLEAK005:</codeph> A leak situation <ph conref="conrefs.dita#conrefs/policycan"/> apply to any data or information containing <ph conref="conrefs.dita#conrefs/secret"/> or <ph conref="conrefs.dita#conrefs/topsecret"/> material.</p>
-      <p><codeph>POLLEAK006:</codeph> A leak situation <ph conref="conrefs.dita#conrefs/policymight"/> apply to the access rights for a system where data or information is located. For example, if a URL link of an <ph conref="conrefs.dita#conrefs/official"/> document that is located on an <ph conref="conrefs.dita#conrefs/official-sensitive"/> system or above is sent to a user or third party, but they do not have access rights to the system to open it, it is a leak of the system but not the content.</p>
+      <p><b>POL.LEAK.003:</b> A leak situation <ph conref="conrefs.dita#conrefs/policycannot"/> apply to any data or information containing only <ph conref="conrefs.dita#conrefs/official"/> material that does not have a handling caveat such as <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
+      <p><b>POL.LEAK.004:</b> A leak situation <ph conref="conrefs.dita#conrefs/policycan"/> apply to any data or information containing <ph conref="conrefs.dita#conrefs/official"/> material that does have a handling caveat such as <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
+      <p><b>POL.LEAK.005:</b> A leak situation <ph conref="conrefs.dita#conrefs/policycan"/> apply to any data or information containing <ph conref="conrefs.dita#conrefs/secret"/> or <ph conref="conrefs.dita#conrefs/topsecret"/> material.</p>
+      <p><b>POL.LEAK.006:</b> A leak situation <ph conref="conrefs.dita#conrefs/policymight"/> apply to the access rights for a system where data or information is located. For example, if a URL link of an <ph conref="conrefs.dita#conrefs/official"/> document that is located on an <ph conref="conrefs.dita#conrefs/official-sensitive"/> system or above is sent to a user or third party, but they do not have access rights to the system to open it, it is a leak of the system but not the content.</p>
       <note>Consider the case of someone who has the correct access rights to both some information and the system hosting the information. They then print a copy of the information and gives it to another user or a third party. In this case, it is not considered a leak of the system because the initial access to the information was by someone who was authorised to access both the information and the system hosting the information. However, the disclosure of the information to the other user or the third party might be an information leak, depending on whether the recipients of the information were authorised to receive the information.</note>
     </body>
     <topic id="classifying-draft-information">
       <title>Classifying draft information</title>
       <body>
         <p>Work in progress activities, or draft information, might also be the subject of a leak.</p>
-        <p><codeph>POLLEAK007:</codeph> Draft content <ph conref="conrefs.dita#conrefs/policyshall"/> be labelled correctly to confirm the security classification or the security handling requirements that apply to it.</p>
+        <p><b>POL.LEAK.007:</b> Draft content <ph conref="conrefs.dita#conrefs/policyshall"/> be labelled correctly to confirm the security classification or the security handling requirements that apply to it.</p>
         <p>For example, someone might be unsure of a draft document's security classification. It might be prudent to classify the draft as <ph conref="conrefs.dita#conrefs/official-sensitive"/> or higher until the document is approved and a final classification determined.</p>
       </body>
     </topic>
@@ -68,7 +68,7 @@
   <topic id="other-applicable-policy">
     <title>Other applicable policy</title>
     <body>
-      <p><codeph>POLLEAK008:</codeph> To minimise the possibility of a leak occurring, all users <ph conref="conrefs.dita#conrefs/policyshall"/> comply with <ph conref="conrefs.dita#conrefs/moj"/> policy, in particular, the <xref href="acceptable-use-policy.dita" format="dita">acceptable use policy</xref>, user access management as part of the <ph audience="audience-suppliers audience-tech"><xref href="access-control-policy.dita" format="dita">access control policy</xref></ph><ph audience="audience-basic"><xref href="https://security-guidance.service.justice.gov.uk/access-control-policy/" format="html" scope="external">access control policy</xref></ph>,
+      <p><b>POL.LEAK.008:</b> To minimise the possibility of a leak occurring, all users <ph conref="conrefs.dita#conrefs/policyshall"/> comply with <ph conref="conrefs.dita#conrefs/moj"/> policy, in particular, the <xref href="acceptable-use-policy.dita" format="dita">acceptable use policy</xref>, user access management as part of the <ph audience="audience-suppliers audience-tech"><xref href="access-control-policy.dita" format="dita">access control policy</xref></ph><ph audience="audience-basic"><xref href="https://security-guidance.service.justice.gov.uk/access-control-policy/" format="html" scope="external">access control policy</xref></ph>,
         and the <xref href="information-classification-handling-and-security-guide.dita" format="dita">information classification, handling and security guide</xref>.</p>
     </body>
   </topic>

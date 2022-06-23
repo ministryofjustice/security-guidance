@@ -5,10 +5,10 @@
   <body>
     <p>This document provides a high-level overview of the leak handling process for the <ph conref="conrefs.dita#conrefs/mojlong"/>. It includes the roles, responsibilities, and major steps performed as part of leak handling.</p>
     <p>It should be read in conjunction with the associated <xref href="leak-handling-policy.dita" format="dita">leak handling policy</xref>.</p>
-    <p><ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/> owns the leak handling process. However, the <ph conref="conrefs.dita#conrefs/jdsoclong"/> provides tech support as required, for example performing searches. The analysis and reporting from these teams is an essential security management component in assessing and mitigating current and future leaks that affect <ph conref="conrefs.dita#conrefs/moj"/> data, systems, networks and solutions.</p>
-    <p>Send all leak questions or requests for help to <ph conref="conrefs.dita#conrefs/securityemail"/>. This applies to all leaks, suspected or otherwise. Your message is evaluated promptly and normally passed to <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>. Depending on the circumstances, the <ph conref="conrefs.dita#conrefs/jdsoc"/> might also provide direct advice on a case-by-case basis.</p>
+    <p><ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/> owns the leak handling process. However, the <ph conref="conrefs.dita#conrefs/jdsoclongemail"/> provides tech support as required, for example performing searches. The analysis and reporting from these teams is an essential security management component in assessing and mitigating current and future leaks that affect <ph conref="conrefs.dita#conrefs/moj"/> data, systems, networks and solutions.</p>
+    <p>Send all leak questions or requests for help to <ph conref="conrefs.dita#conrefs/securityemail"/>. This applies to all leaks, suspected or otherwise. Your message is evaluated promptly and normally passed to <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>. Depending on the circumstances, the <ph conref="conrefs.dita#conrefs/jdsocemail"/> might also provide direct advice on a case-by-case basis.</p>
     <note>Normally, the <xref href="it-incident-management-policy.dita" format="dita" audience="audience-suppliers audience-tech"><ph conref="conrefs.dita#conrefs/moj"/> incident management process</xref><xref href="https://security-guidance.service.justice.gov.uk/it-incident-management-policy/" format="html" scope="external" audience="audience-basic"><ph conref="conrefs.dita#conrefs/moj"/> incident management process</xref> is followed at the start of a leak investigation.</note>
-    <note>If a leak investigation indicates that physical examination of evidence is required, then <ph conref="conrefs.dita#conrefs/jdsoc"/> involvement will include a Team Lead as a minimum.</note>
+    <note>If a leak investigation indicates that physical examination of evidence is required, then <ph conref="conrefs.dita#conrefs/jdsocemail"/> involvement includes a Team Lead as a minimum.</note>
     <note>An informal leak investigation takes place entirely within the <ph conref="conrefs.dita#conrefs/moj"/>. A formal leak investigation takes place with involvement from outside the <ph conref="conrefs.dita#conrefs/moj"/>, typically Cabinet Office.</note>
   </body>
   <topic id="audience">
@@ -98,7 +98,7 @@
         <ol>
           <li><p><ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/> evaluates the request.</p></li>
           <li><p>If it is decided that the situation is indeed a leak, then proceed to step <xref href="#step-31-require-informal-leak-investigation" format="dita">3.1</xref>.</p></li>
-          <li><p>If it is decided that the situation is not a leak, or it is not clear whether the situation is a leak, the request is sent to the <ph conref="conrefs.dita#conrefs/jdsoc"/>. Proceed to step <xref href="#step-32-information-and-sign-off-check" format="dita">3.2</xref>.</p></li>
+          <li><p>If it is decided that the situation is not a leak, or it is not clear whether the situation is a leak, the request is sent to the <ph conref="conrefs.dita#conrefs/jdsocemail"/>. Proceed to step <xref href="#step-32-information-and-sign-off-check" format="dita">3.2</xref>.</p></li>
         </ol>
       </body>
     </topic>
