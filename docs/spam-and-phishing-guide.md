@@ -23,7 +23,7 @@ To mitigate spoofing attacks, use techniques such as:
 
 ## Protecting a parked domain
 
-DMARC **SHALL** also be implemented on non-email sending domains. This is because the domains might be used for email spoofing and phishing.
+DMARC **shall** also be implemented on non-email sending domains. This is because the domains might be used for email spoofing and phishing.
 
 Once parked domains are protected, configure them to renew automatically by default.
 
@@ -64,9 +64,9 @@ Mitigate MITM attacks by:
 
 ## Mail Check
 
-[Mail Check](https://www.ncsc.gov.uk/information/mailcheck) is an NCSC cyber defence service. It enables email administrators to improve and maintain the security of email domains by preventing spoofing attacks. All domains operated by, or on behalf of, the MoJ, **SHALL** be added to Mail Check, regardless of whether the domain is expected to send or receive emails. All future contracts and agreements with third party suppliers **SHALL** make this a requirement.
+[Mail Check](https://www.ncsc.gov.uk/information/mailcheck) is an NCSC cyber defence service. It enables email administrators to improve and maintain the security of email domains by preventing spoofing attacks. All domains operated by, or on behalf of, the MoJ, **shall** be added to Mail Check, regardless of whether the domain is expected to send or receive emails. All future contracts and agreements with third party suppliers **shall** make this a requirement.
 
-Mail Check **SHOULD** be used only if the email domain name provided is publicly routable from the Internet using the Simple Mail Transfer Protocol \(SMTP\).
+Mail Check **should** be used only if the email domain name provided is publicly routable from the Internet using the Simple Mail Transfer Protocol \(SMTP\).
 
 To add domains to the MoJ's Mail Check service subscription, contact the [NCSC Mail Check team](mailto:mailcheck@digital.ncsc.gov.uk).
 

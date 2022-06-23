@@ -2,7 +2,7 @@
 
 This personal mail and parcel delivery policy applies to all Ministry of Justice \(MoJ\) employees, contractors, partners and service providers, including those on co-located sites and sites owned by other public bodies. This also includes employees of other organisations who are based in, or work at, MoJ occupied premises.
 
-Agencies and Arms Length Bodies \(ALBs\) are expected to comply with this corporate framework but **MAY** establish their own arrangements tailored to operational needs and **SHOULD** supplement it with local policy or guidance for any business-specific risk.
+Agencies and Arms Length Bodies \(ALBs\) are expected to comply with this corporate framework but **may** establish their own arrangements tailored to operational needs and **should** supplement it with local policy or guidance for any business-specific risk.
 
 ## Objective
 
@@ -28,17 +28,17 @@ All employees, contractors, partners, service providers, and employees of other 
 
 ## Policy Statements
 
-Items required for a legitimate business need **CAN** be delivered to the office, provided reception have been notified by email from a verifiable email account \(for example a Civil Service or Government contractor\) 48 hours before the parcel is to be delivered, or as soon as practicable in the case of next-day or same-day deliveries. The email notification **SHOULD** provide all of the following information:
+Items required for a legitimate business need **can** be delivered to the office, provided reception have been notified by email from a verifiable email account \(for example a Civil Service or Government contractor\) 48 hours before the parcel is to be delivered, or as soon as practicable in the case of next-day or same-day deliveries. The email notification **should** provide all of the following information:
 
 -   Estimated date of delivery.
 -   Name of Courier.
 -   Contact details of the recipient\(s\), who can sign for the parcel and collect it from reception.
 
-MoJ reception produces a list of scheduled deliveries. Before accepting parcels from the courier, reception confirms who the parcel is for, and that it is a pre-approved delivery. Failure to follow this procedure **MAY** result in the need to have the parcel scanned, or it being treated as suspicious and the suspicious package process being adopted; disciplinary action **MAY** be taken.
+MoJ reception produces a list of scheduled deliveries. Before accepting parcels from the courier, reception confirms who the parcel is for, and that it is a pre-approved delivery. Failure to follow this procedure **may** result in the need to have the parcel scanned, or it being treated as suspicious and the suspicious package process being adopted; disciplinary action **may** be taken.
 
 ## Compliance
 
-The level of risk and potential impact to MoJ information, assets, and people determines the controls to be applied, and the degree of assurance required. The MoJ **SHALL** ensure a baseline of physical security measures are in place at each site, and receive annual assurance that such measures are in place to provide appropriate protection to all occupants and assets, and that these measures **CAN** be strengthened when required, for example in response to a security incident or a change in the [Government Response Level](https://www.mi5.gov.uk/threat-levels).
+The level of risk and potential impact to MoJ information, assets, and people determines the controls to be applied, and the degree of assurance required. The MoJ **shall** ensure a baseline of physical security measures are in place at each site, and receive annual assurance that such measures are in place to provide appropriate protection to all occupants and assets, and that these measures **can** be strengthened when required, for example in response to a security incident or a change in the [Government Response Level](https://www.mi5.gov.uk/threat-levels).
 
 The implementation of all security measures must be able to provide evidence that the selection has been made in accordance with the appropriate information security standards ISO27001/27002, physical security advice taken from the Centre for the Protection of National Infrastructure \(CPNI\), and [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 

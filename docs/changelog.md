@@ -2,6 +2,18 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-06-23-12:02-bst-[accessibility-updates](https:-security-guidance.service.justice.gov.uk-acceptable-use-policy-)"></a>
+
+-   **2022-06-23 12:02 BST [Accessibility updates](https://security-guidance.service.justice.gov.uk/acceptable-use-policy/)**
+
+    Improved the content tagging following guidance on accessibility improvements. Affects all pages, the link in this notification is to an example page.
+
+<a name="2022-06-01-13:36-bst-[reporting-phishing](https:-security-guidance.service.justice.gov.uk-phishing-guide-#reporting-phishes)"></a>
+
+-   **2022-06-01 13:36 BST [Reporting phishing](https://security-guidance.service.justice.gov.uk/phishing-guide/#reporting-phishes)**
+
+    Clarified process for reporting phishing attempts.
+
 <a name="2022-05-31-14:01-bst-[overseas-travel](https:-security-guidance.service.justice.gov.uk-overseas-travel-)"></a>
 
 -   **2022-05-31 14:01 BST [Overseas travel](https://security-guidance.service.justice.gov.uk/overseas-travel/)**

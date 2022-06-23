@@ -149,7 +149,7 @@
                 <entry colname="col2"><ph conref="conrefs.dita#conrefs/official-sensitive"/> is not a separate security classification.
                   It should be used to reinforce the "need to know" principle,
                   beyond the baseline for <ph conref="conrefs.dita#conrefs/official"/>.</entry>
-                <entry colname="col3"><ph conref="conrefs.dita#conrefs/official"/> data does not need to be marked except where <codeph>SENSITIVE</codeph>,
+                <entry colname="col3"><ph conref="conrefs.dita#conrefs/official"/> data does not need to be marked except where <ph conref="conrefs.dita#conrefs/sensitive"/>,
                   and must be marked <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</entry>
               </row>
               <row>
@@ -268,7 +268,7 @@
           <p>An asset owner creates a report.
             The report contains potentially private information about individuals.
             The asset owner decides that the report should be classified as <ph conref="conrefs.dita#conrefs/official"/>,
-            with the <codeph>SENSITIVE</codeph> handling caveat.</p>
+            with the <ph conref="conrefs.dita#conrefs/sensitive"/> handling caveat.</p>
           <p>A user wishes to share a copy of the report "as-is" with their team.
             They cannot remove the handling caveat without prior discussion and agreement from the asset owner.</p>
         </body>
@@ -279,14 +279,14 @@
           <p>An asset owner creates a report.
             The report contains potentially private information about individuals.
             The asset owner decides that the report should be classified as <ph conref="conrefs.dita#conrefs/official"/>,
-            with the <codeph>SENSITIVE</codeph> handling caveat.</p>
+            with the <ph conref="conrefs.dita#conrefs/sensitive"/> handling caveat.</p>
           <p>A user wishes to share a subset of the report with their team.
             In particular,
             the report is substantially re-worked to remove all the private information.
             The user becomes the owner of this new asset.
             They are responsible for this new asset.
-            They can decide that the <codeph>SENSITIVE</codeph> handling caveat is not required.</p>
-            <p>The original report retains its <ph conref="conrefs.dita#conrefs/official"/> classification and <codeph>SENSITIVE</codeph> handling caveat.</p>
+            They can decide that the <ph conref="conrefs.dita#conrefs/sensitive"/> handling caveat is not required.</p>
+            <p>The original report retains its <ph conref="conrefs.dita#conrefs/official"/> classification and <ph conref="conrefs.dita#conrefs/sensitive"/> handling caveat.</p>
         </body>
       </topic>
       <topic id="example-3">
@@ -295,7 +295,7 @@
           <p>An asset owner creates a report.
             The report contains information about plans to handle a pandemic.
             The asset owner decides that the report should be classified as <ph conref="conrefs.dita#conrefs/official"/>,
-            with the <codeph>SENSITIVE</codeph> handling caveat.</p>
+            with the <ph conref="conrefs.dita#conrefs/sensitive"/> handling caveat.</p>
           <p>A user reviews the report.
             They realise that the information could potentially compromise the security or prosperity of the country.
             They decide to increase the classification of the report,

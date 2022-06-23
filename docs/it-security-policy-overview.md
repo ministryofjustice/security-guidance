@@ -50,7 +50,7 @@ For further guidance on IT Security, refer to the following policies.
 
 ## Principles
 
-All MoJ users **SHALL**:
+All MoJ users **shall**:
 
 -   Comply with the MoJ's [Acceptable Use Policy](acceptable-use-policy.md) wherever they work.
 -   Report all security incidents promptly and in line with MoJ's [IT Incident Management Policy](it-incident-management-policy.md).
@@ -62,11 +62,11 @@ Further information can be found in the [IT Security All Users Policy](it-securi
 
 ### Technical users
 
-Technical users **SHALL** follow the guidance set out for all MoJ users in [IT Security All Users Policy](it-security-all-users-policy.md) **AND** also comply with the [IT Security Technical Users Policy](it-security-technical-users-policy.md).
+Technical users **shall** follow the guidance set out for all MoJ users in [IT Security All Users Policy](it-security-all-users-policy.md) **AND** also comply with the [IT Security Technical Users Policy](it-security-technical-users-policy.md).
 
 ### Service Providers
 
-Service Providers **SHALL** follow the guidance set out for all MoJ users in [IT Security All Users Policy](it-security-all-users-policy.md) **AND** also comply with the [IT Security Technical Users Policy](it-security-technical-users-policy.md).
+Service Providers **shall** follow the guidance set out for all MoJ users in [IT Security All Users Policy](it-security-all-users-policy.md) **AND** also comply with the [IT Security Technical Users Policy](it-security-technical-users-policy.md).
 
 ## Enforcement
 

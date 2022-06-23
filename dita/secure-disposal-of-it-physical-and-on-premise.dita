@@ -98,7 +98,7 @@
           and the table does not need to be followed.</note>
         <p>If the table does not cover your exact requirement,
       contact security: <ph conref="conrefs.dita#conrefs/securityemail"/></p>
-    <note importance="high">When disposing of <codeph>SECRET</codeph> or <codeph>TOP SECRET</codeph> equipment or materials,
+    <note importance="high">When disposing of <ph conref="conrefs.dita#conrefs/secret"/> or <ph conref="conrefs.dita#conrefs/top-secret"/> equipment or materials,
       always contact security: <ph conref="conrefs.dita#conrefs/securityemail"/></note>
     <table>
       <tgroup cols="3">

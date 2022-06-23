@@ -1,22 +1,22 @@
 #National Security Vetting contact
 
-All business areas in the Ministry of Justice (MoJ) **SHALL** enrol or appoint a National Security Vetting Contact (NSVC) to help business areas progress and monitor applications for security clearance.
+All business areas in the Ministry of Justice (MoJ) **shall** enrol or appoint a National Security Vetting Contact (NSVC) to help business areas progress and monitor applications for security clearance.
 
 Most applications for National Security Vetting (NSV) clearance including Counter Terrorist Clearance (CTC), Security Check (SC), and Developed Vetting (DV) come through recruitment campaigns or are agency staff or contractors.
 
-Some business areas employ large number of NSV-cleared people and those clearances need to be managed and monitored. The MoJ recognises that many personnel are contractors and agency staff, often with clearances held elsewhere. The NSVC **SHALL** facilitate the process and provide the business with a single point of contact and liaison with the National Security Vetting Team and Shared Services Connected Limited (SSCL).
+Some business areas employ large number of NSV-cleared people and those clearances need to be managed and monitored. The MoJ recognises that many personnel are contractors and agency staff, often with clearances held elsewhere. The NSVC **shall** facilitate the process and provide the business with a single point of contact and liaison with the National Security Vetting Team and Shared Services Connected Limited (SSCL).
 
 **Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
 ##Roles and responsibilities
 
-* NSVCs are a mandatory role and one **SHALL** be appointed if there are National Security Vetted staff in any business area.
+* NSVCs are a mandatory role and one **shall** be appointed if there are National Security Vetted staff in any business area.
 
-* NSVCs **SHALL** undergo the Baseline Personnel Security Standard (BPSS) check as a minimum, and be registered with [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). How many NSVCs a business area needs is for Senior Managers to determine, based on how they are organised. For example, how many NSV clearances need processing and maintenance.
+* NSVCs **shall** undergo the Baseline Personnel Security Standard (BPSS) check as a minimum, and be registered with [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). How many NSVCs a business area needs is for Senior Managers to determine, based on how they are organised. For example, how many NSV clearances need processing and maintenance.
 
-* NSVCs monitor the progress of all applications for an NSV clearance and **SHALL** maintain a register of all active NSV personnel within their business area.
+* NSVCs monitor the progress of all applications for an NSV clearance and **shall** maintain a register of all active NSV personnel within their business area.
 
-* NSVCs **SHALL** provide the authorisation and complete the SSCL [Clearance Request Form](https://moj.myhub.sscl.com/fast-forms/forms-a-z) that confirms the level of clearance required for that person. SSCL will not process an application if an NSV matrix code is not supplied by the NSVC.
+* NSVCs **shall** provide the authorisation and complete the SSCL [Clearance Request Form](https://moj.myhub.sscl.com/fast-forms/forms-a-z) that confirms the level of clearance required for that person. SSCL will not process an application if an NSV matrix code is not supplied by the NSVC.
 
 * NSVCs act as a single point of contact for their business area for SSCL and MoJ security to speed up the NSV process.
 

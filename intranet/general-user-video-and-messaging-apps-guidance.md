@@ -47,11 +47,11 @@ Key things to remember for *every* call include:
 
 ##MoJ Policy and guidance
 
-##`OFFICIAL` and `OFFICIAL-SENSITIVE` Information
+##**Official** and **Official-Sensitive** Information
 
-`OFFICIAL` information is the majority of information that is created or processed by the public sector. This includes routine business operations and services, some of which could have damaging consequences if lost, stolen or published in the media, but are not subject to a heightened threat profile.
+**Official** information is the majority of information that is created or processed by the public sector. This includes routine business operations and services, some of which could have damaging consequences if lost, stolen or published in the media, but are not subject to a heightened threat profile.
 
-`OFFICIAL-SENSITIVE` is not a classification. `SENSITIVE` is a handling caveat for a small subset of information marked `OFFICIAL` that requires special handling by staff. You should apply the handling caveat where you wish to control access to that information, whether in a document, email, or other form.
+**Official-Sensitive** is not a classification. **Sensitive** is a handling caveat for a small subset of information marked **Official** that requires special handling by staff. You should apply the handling caveat where you wish to control access to that information, whether in a document, email, or other form.
 
 ##Privacy and personal information (Data Protection)
 
@@ -61,17 +61,17 @@ Data protection legislation makes you responsible for personal information you w
 
 Complying with personal information requirements can be complex. Don't hesitate to ask for advice:
 
-* Email: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
+* Email: [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk)
 * Slack: `#security_privacy_and_live_service_team`
 * Intranet: [/guidance/knowledge-information/protecting-information/](/guidance/knowledge-information/protecting-information/)
 
 ##Information Management
 
-Many of the tools are only used for your day-to-day communication with colleagues. The information you work with is typically [classified](https://www.gov.uk/government/publications/government-security-classifications) at `OFFICIAL`.
+Many of the tools are only used for your day-to-day communication with colleagues. The information you work with is typically [classified](https://www.gov.uk/government/publications/government-security-classifications) at **Official**.
 
 Think about the MoJ information you work with when using these tools. What would happen if you lost your mobile device, or it's stolen? Suppose the voice or video call was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is 'No', then it's probably OK to use the tool to communicate that information with colleagues.
 
-You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is [Principle 2](https://www.gov.uk/government/publications/government-security-classifications) of the Government Security Classifications. The MoJ trusts you to work with `OFFICIAL` information. You're trusted to make a reasoned judgement about whether it's safe to use an approved tool, or whether you should use a different MoJ-provided work tool.
+You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is [Principle 2](https://www.gov.uk/government/publications/government-security-classifications) of the Government Security Classifications. The MoJ trusts you to work with **Official** information. You're trusted to make a reasoned judgement about whether it's safe to use an approved tool, or whether you should use a different MoJ-provided work tool.
 
 Never send work material to your personal devices or email accounts.
 
@@ -119,10 +119,10 @@ The bottom line is: If there is doubt, there is no doubt - ask for help!
 |---------|---------|------------------------------|--------------------------|--------|
 |Apple Facetime|Communication tool: Video|Avoid personal or sensitive data|Smartphone App|Internal/External|
 |Apple iMessage|Text messaging|Avoid personal or sensitive data|Smartphone App|Internal/External|
-|Google Meet (was Google Hangouts)|Communication tool: Video and/or voice|MoJ use approved for `OFFICIAL` and `OFFICIAL-SENSITIVE`|IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
-|Microsoft Teams|Communication and collaboration tool: Video and/or voice|MoJ use approved for `OFFICIAL` and `OFFICIAL-SENSITIVE`|Dom1 Software centre, IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
+|Google Meet (was Google Hangouts)|Communication tool: Video and/or voice|MoJ use approved for **Official** and **Official-Sensitive**|IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
+|Microsoft Teams|Communication and collaboration tool: Video and/or voice|MoJ use approved for **Official** and **Official-Sensitive**|Dom1 Software centre, IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Miro|Collaboration tool: Whiteboarding|Avoid personal or sensitive data|Web browser.|Internal/External|
-|Skype for Business|Communication tool: Video and/or voice|MoJ use approved for `OFFICIAL` and `OFFICIAL-SENSITIVE`|Dom1 Software centre, IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
+|Skype for Business|Communication tool: Video and/or voice|MoJ use approved for **Official** and **Official-Sensitive**|Dom1 Software centre, IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Slack|Text messaging, Voice/Video calls, etc.|Avoid personal or sensitive data|IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
 |Slido|Q&A tool during presentations|Avoid personal or sensitive data|Web browser.|Internal|
 |Trello|Project management tool, 'Kanban' cards|Avoid personal or sensitive data. An enterprise-wide MoJ licence is available. Ensure you create Trello boards in the MoJ workspace. Do not use a personal Trello account.|Web browser based use. Log in using your MoJ single sign-on account, for example a Digital & Technology Google account, or a Microsoft Office 365 account.|Internal|
@@ -138,26 +138,26 @@ MoJ [guidance](https://security-guidance.service.justice.gov.uk/password-manager
 
 ##Tools for sharing information internally and externally
 
-For secure sharing and transfer of materials within MoJ bodies or external organisations including other government departments, the MoJ installation of Microsoft Teams is approved for use with data up to and including `OFFICIAL-SENSITIVE`.
+For secure sharing and transfer of materials within MoJ bodies or external organisations including other government departments, the MoJ installation of Microsoft Teams is approved for use with data up to and including **Official-Sensitive**.
 
-For secure sharing and transfer of materials with external organisations that cannot use Teams, the Criminal Justice Secure Exchange (CJSE) and Criminal Justice Secure Messaging (CJSM) tools are the preferred solution for data up to and including `OFFICIAL-SENSITIVE`.
+For secure sharing and transfer of materials with external organisations that cannot use Teams, the Criminal Justice Secure Exchange (CJSE) and Criminal Justice Secure Messaging (CJSM) tools are the preferred solution for data up to and including **Official-Sensitive**.
 
-For secure sharing and transfer of materials with external organisations where the use of Teams, CJSE, or CJSM is not practicable, the following tools are approved for data up to and including `OFFICIAL-SENSITIVE`:
+For secure sharing and transfer of materials with external organisations where the use of Teams, CJSE, or CJSM is not practicable, the following tools are approved for data up to and including **Official-Sensitive**:
 
 * [Egress](https://www.egress.com/) ([NCSC certified](https://www.ncsc.gov.uk/products/egress-email-and-file-protection))
 * [Galaxkey](https://www.galaxkey.com/) ([NCSC certified](https://www.ncsc.gov.uk/products/galaxkey))
 
 For use within MoJ bodies, these products may only be installed on MoJ-issued devices. For advice on installation and configuration of these products, consult the team responsible for the supply and configuration of your devices.
 
-For secure sharing and transfer of materials with other government bodies, where the use of Teams, CJSE, CJSM, Egress, or Galaxkey is not possible, the use of official MoJ email systems is approved for data up to and including `OFFICIAL-SENSITIVE`.
+For secure sharing and transfer of materials with other government bodies, where the use of Teams, CJSE, CJSM, Egress, or Galaxkey is not possible, the use of official MoJ email systems is approved for data up to and including **Official-Sensitive**.
 
-Always follow the guidance in the [Data Handling and Information Sharing Guide](https://security-guidance.service.justice.gov.uk/data-handling-and-information-sharing-guide/) when making such transfers. This applies particularly with regard to the sharing of data classified higher than `OFFICIAL`.
+Always follow the guidance in the [Data Handling and Information Sharing Guide](https://security-guidance.service.justice.gov.uk/data-handling-and-information-sharing-guide/) when making such transfers. This applies particularly with regard to the sharing of data classified higher than **Official**.
 
 If you need clarification or further assistance in selecting the appropriate tool, [ask for help](#contact-details).
 
 ##Proctoring software
 
-> You **SHALL NOT** install proctoring software onto MoJ equipment.
+> You **shall not** install proctoring software onto MoJ equipment.
 
 Some certification or examination organisations enable people to take assessments remotely. They do this by having 'supervision' software installed on the user's computer. This software is often referred to as 'proctoring software'. The tools make sure that the assessment is as fair as possible, by installing a variety of controls. For example, the software can take control of the camera and microphone of the device it is installed on.
 

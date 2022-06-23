@@ -195,7 +195,7 @@ Log Collection Principle\(s\): 3, 5
 
 Where VPN services are in use, connection-related log data must be created and forwarded.
 
-1.  Success or unsuccess status
+1.  Success or unsuccessful status
 2.  User/certificate identifier
 3.  Client IP address
 4.  Concentrator identifier

@@ -27,7 +27,7 @@ The team provides help and guidance around cyber security matters, such as:
 
 If you need help dealing with a cyber security task or problem, send an email to: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 
-Some requests are better handled by other teams. For urgent matters such as incidents, or to get help about physical or personnel security, contact [security@justice.gov.uk](mailto:security@justice.gov.uk). For help with data protection, contact [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk).
+Some requests are better handled by other teams. For urgent matters such as incidents, or to get help about physical or personnel security, contact [security@justice.gov.uk](mailto:security@justice.gov.uk). For help with data protection, contact [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk).
 
 The security team keep an eye open for email requests. Normally, you'll get an acknowledgement or more detailed reply within two working days.
 

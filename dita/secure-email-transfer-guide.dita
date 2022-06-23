@@ -9,7 +9,7 @@
       transferring sensitive information.
       Examples of sensitive information include:
     <ul>
-      <li><codeph>OFFICIAL-SENSITIVE</codeph> classified information such as personal data.</li>
+      <li><ph conref="conrefs.dita#conrefs/official-sensitive"/> classified information such as personal data.</li>
       <li>API and other application keys or credentials,
         including within containers.</li>
       <li>SSH keys.</li>
@@ -217,7 +217,7 @@
       over CJSM by adding <codeph>.CJSM.net</codeph> to the end of their
       <ph conref="conrefs.dita#conrefs/moj"/> email address.</p>
       <p>CJSM <ph conref="conrefs.dita#conrefs/policyshall"/> only be used to
-      share information up to and including <codeph>OFFICIAL-SENSITIVE</codeph>.</p>
+      share information up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
       <p>CJSM <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used with
       multi-client mail relay services such as Mailgun,
       Mailchimp,
