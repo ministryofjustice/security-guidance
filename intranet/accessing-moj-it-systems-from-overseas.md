@@ -26,8 +26,8 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 ##Part One
 
 1.  Get confirmation from your Senior Line Manager (Head of your immediate team) that there is a business need for you to take MoJ IT equipment overseas and access MoJ services. Keep a note of the answers you get.
-2.  Your Senior Line Manager **SHOULD** inform your HR Business Partner (HRBP) of your request to work overseas. The HRBP **SHALL** advise your Senior Line Manager of any HR considerations concerning your request.
-3.  If you are subject to STRAP briefing and intend to travel to or through any country not in Western Europe, North America, Australia, or New Zealand, then you **SHALL** notify the STRAP team at [STRAPTeam@cluster2security.gov.uk](mailto:STRAPTeam@cluster2security.gov.uk) **and** proceed directly to [Part Two](#part-two) of this process.
+2.  Your Senior Line Manager **should** inform your HR Business Partner (HRBP) of your request to work overseas. The HRBP **shall** advise your Senior Line Manager of any HR considerations concerning your request.
+3.  If you are subject to STRAP briefing and intend to travel to or through any country not in Western Europe, North America, Australia, or New Zealand, then you **shall** notify the STRAP team at [STRAPTeam@cluster2security.gov.uk](mailto:STRAPTeam@cluster2security.gov.uk) **and** proceed directly to [Part Two](#part-two) of this process.
 4.  Proceed directly to [Part Two](#part-two) of this process if you are travelling to or passing through one of the following countries:
 
     > Argentina, Armenia, Azerbaijan, Belarus, China (including Hong Kong, Macau, and Tibet), Cuba, Egypt, Estonia, France, Georgia, Germany, India, Indonesia, Iran, Iraq, Israel (including Palestinian territories), Kazakhstan, Kyrgyzstan, Latvia, Lebanon, Libya, Lithuania, Moldova, the northern area of the Republic of Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, Serbia, South Africa, South Korea, Syria, Taiwan, Tajikistan, Turkey, Turkmenistan, UAE, Ukraine, Uzbekistan, Vietnam.

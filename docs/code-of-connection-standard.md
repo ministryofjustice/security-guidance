@@ -127,7 +127,7 @@ The "NAME of 3rd PARTY IT SYSTEM" must provide a gateway at the edge of their sy
 
 -   Have front-end firewall\(s\) to be a minimum of EAL4 certified or CAPS approved;
 
--   rovide a minimum of EAL4 separation on front-end firewall\(s\) between the port used for connection to the NAME OF MoJ IT SYSTEM\] and ports used for other connections.
+-   Provide a minimum of EAL4 separation on front-end firewall\(s\) between the port used for connection to the NAME OF MoJ IT SYSTEM\] and ports used for other connections.
 
 
 #### A.1.3 Conditions
