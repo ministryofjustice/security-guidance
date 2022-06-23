@@ -6,7 +6,7 @@
     <title>Purpose</title>
     <body>
       <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> will issue a Security Aspect Letter (SAL) where appropriate.</p>
-      <p>SALs are generally not required at <codeph>OFFICIAL</codeph> but <ph conref="conrefs.dita#conrefs/moj"/> may issue a SAL where it is optimal to do so or to supersede existing SALs from the previous classification scheme.</p>
+      <p>SALs are generally not required at <ph conref="conrefs.dita#conrefs/official"/> but <ph conref="conrefs.dita#conrefs/moj"/> may issue a SAL where it is optimal to do so or to supersede existing SALs from the previous classification scheme.</p>
       <p>This page was last updated on 2018-12-21</p>
     </body>
   </topic>
@@ -33,22 +33,22 @@
           <u>Markings</u>
         </b>
       </p>
-      <p>This SAL has been developed under the premise that all information assets will be classified OFFICIAL under the <xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">UK Government Security Classifications Policy (GSCP)</xref> and that some may carry additional descriptors (for example, <codeph>COMMERCIAL</codeph>) to re-enforce handling requirements (such as 'need to know' principles) through the use of the <codeph>SENSITIVE</codeph> handling caveat.</p>
-      <p>All information must be considered <codeph>OFFICIAL</codeph> whether it bears a marking or not.</p>
+      <p>This SAL has been developed under the premise that all information assets will be classified OFFICIAL under the <xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">UK Government Security Classifications Policy (GSCP)</xref> and that some may carry additional descriptors (for example, <codeph>COMMERCIAL</codeph>) to re-enforce handling requirements (such as 'need to know' principles) through the use of the <ph conref="conrefs.dita#conrefs/sensitive"/> handling caveat.</p>
+      <p>All information must be considered <ph conref="conrefs.dita#conrefs/official"/> whether it bears a marking or not.</p>
       <p>
         <b>
           <u>Handling Instructions</u>
         </b>
       </p>
-      <p>It should be noted that assigning an appropriate classification to information remains the responsibility of the creator or owner of the asset. Information marked with the <codeph>SENSITIVE</codeph> handling caveat may state, or otherwise be accompanied by, additional handling requirements (for example to limit distribution or define additional access controls) which all recipients including the <codeph>&lt;ORGANISATION SHORTNAME&gt;</codeph> must comply with.</p>
+      <p>It should be noted that assigning an appropriate classification to information remains the responsibility of the creator or owner of the asset. Information marked with the <ph conref="conrefs.dita#conrefs/sensitive"/> handling caveat may state, or otherwise be accompanied by, additional handling requirements (for example to limit distribution or define additional access controls) which all recipients including the <codeph>&lt;ORGANISATION SHORTNAME&gt;</codeph> must comply with.</p>
       <p>In general, the Authority expects <codeph>&lt;ORGANISATION SHORTNAME&gt;</codeph> to apply the need-to-know principle to information related to Authority systems, and restrict access to such material to those within <codeph>&lt;ORGANISATION SHORTNAME&gt;</codeph> (and its supply chain) who genuinely need it to perform their duties. General system information such as system names, IP addresses, high-level designs, etc does not require special handling protections.</p>
       <p>
         <b>
           <u>Legacy Material</u>
         </b>
       </p>
-      <p>Information marked under the previous classification scheme(s) (such as UNCLASSIFIED, PROTECT, RESTRICTED or CONFIDENTIAL) should be effectively considered <codeph>OFFICIAL</codeph> unless otherwise stated.</p>
-      <p>Information marked under previous classification schemes should be reviewed as to whether the information within requires handling caveat markings and/or particular handling guidance before being re-marked as <codeph>OFFICIAL</codeph>.</p>
+      <p>Information marked under the previous classification scheme(s) (such as UNCLASSIFIED, PROTECT, RESTRICTED or CONFIDENTIAL) should be effectively considered <ph conref="conrefs.dita#conrefs/official"/> unless otherwise stated.</p>
+      <p>Information marked under previous classification schemes should be reviewed as to whether the information within requires handling caveat markings and/or particular handling guidance before being re-marked as <ph conref="conrefs.dita#conrefs/official"/>.</p>
       <p>
         <b>
           <u>Data Aggregation</u>
@@ -106,7 +106,7 @@
         <b>Data transfer protections (data-in-transit)</b>
       </p>
       <p>All Authority, or Authority related data (such as professional work product pertaining to or on behalf of the Authority), must be protected against negative events (such as interception, misdirection, manipulation or otherwise unintended outcome) while in transit.</p>
-      <p>The Authority considers application or transport level encryption to be sufficient at <codeph>OFFICIAL</codeph> subject to configuration guidance from the UK National Cyber Security Centre (NCSC) having been met.</p>
+      <p>The Authority considers application or transport level encryption to be sufficient at <ph conref="conrefs.dita#conrefs/official"/> subject to configuration guidance from the UK National Cyber Security Centre (NCSC) having been met.</p>
       <p>Some examples of satisfactory approaches include, but are not limited to:</p>
       <ul>
         <li>

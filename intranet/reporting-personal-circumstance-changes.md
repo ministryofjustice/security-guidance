@@ -6,7 +6,7 @@ National Security Vetting decisions are made based on information available at t
 
 To maintain your security clearance, it is your responsibility to declare relevant changes in your personal circumstances to [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk). Failure to report relevant changes could result in withdrawal of clearance.
 
-You **SHALL** contact [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk) if there is any significant change in your personal circumstances and **SHALL** alert your line manager or contact the [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk) directly if you become aware of any other issue which might increase your security vulnerability.
+You **shall** contact [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk) if there is any significant change in your personal circumstances and **shall** alert your line manager or contact the [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk) directly if you become aware of any other issue which might increase your security vulnerability.
 
 Please contact [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk) if you have any of the following changes to your personal circumstances.
 
@@ -63,9 +63,9 @@ In some cases where further checks need to be conducted, you are asked to comple
 
 ##Changes in circumstances for another member of SC cleared staff
 
-If you become aware of a change in circumstance for another member of security cleared staff, you **SHOULD** remind them of their responsibility to report this to [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk).
+If you become aware of a change in circumstance for another member of security cleared staff, you **should** remind them of their responsibility to report this to [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk).
 
-You must alert your line manager or [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk) if you become aware of any other issues which might increase your security vulnerability, or the security vulnerability of a security cleared colleague. All staff **SHOULD** be mindful of circumstances and behaviours that might render staff susceptible to pressure, or improper influence, or could otherwise indicate unreliability.
+You must alert your line manager or [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk) if you become aware of any other issues which might increase your security vulnerability, or the security vulnerability of a security cleared colleague. All staff **should** be mindful of circumstances and behaviours that might render staff susceptible to pressure, or improper influence, or could otherwise indicate unreliability.
 
 Other obvious changes in circumstances, aside from those already listed previously, are:
 

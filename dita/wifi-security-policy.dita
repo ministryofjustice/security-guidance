@@ -9,7 +9,7 @@
       <p>This policy gives an overview of wireless networking (wifi) security
 principles and responsibilities within the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
       <p>To help identify formal policy statements, each is prefixed with an
-identifier of the form: POLWIFIxxx, where xxx is a unique ID number.</p>
+identifier of the form: <b>POL.WIFI.xxx</b>, where <b>xxx</b> is a unique ID number.</p>
     </body>
   </topic>
   <topic id="audience">
@@ -38,19 +38,19 @@ Providers, as defined previously.</p>
     <title>Purpose</title>
     <body>
       <p>The purpose of this document is to define a set of security requirements for <ph conref="conrefs.dita#conrefs/moj"/> wifi networks, based on industry good practices and our local requirements.</p>
-      <p><codeph>POLWIFI001:</codeph> Any exceptions to the policy <ph conref="conrefs.dita#conrefs/policymust"/> be managed through the <ph conref="conrefs.dita#conrefs/moj"/>'s security risk management process.</p>
+      <p><b>POL.WIFI.001:</b> Any exceptions to the policy <ph conref="conrefs.dita#conrefs/policymust"/> be managed through the <ph conref="conrefs.dita#conrefs/moj"/>'s security risk management process.</p>
     </body>
   </topic>
   <topic id="applicability">
     <title>Applicability</title>
     <body>
-      <p>This policy applies to all <ph conref="conrefs.dita#conrefs/moj"/> owned or managed wifi networks provided for any purpose. It also applies to the use of third-party wifi networks by <ph conref="conrefs.dita#conrefs/moj"/> devices which handle <codeph>OFFICIAL</codeph> information, for example staff end user computing devices.</p>
+      <p>This policy applies to all <ph conref="conrefs.dita#conrefs/moj"/> owned or managed wifi networks provided for any purpose. It also applies to the use of third-party wifi networks by <ph conref="conrefs.dita#conrefs/moj"/> devices which handle <ph conref="conrefs.dita#conrefs/official"/> information, for example staff end user computing devices.</p>
     </body>
   </topic>
   <topic id="moj-wifi-networks">
     <title><ph conref="conrefs.dita#conrefs/moj"/> wifi networks</title>
     <body>
-      <p><codeph>POLWIFI002:</codeph> Each <ph conref="conrefs.dita#conrefs/moj"/> wifi network <ph conref="conrefs.dita#conrefs/policymust"/> have a defined policy which is reviewed at least annually, that describes:</p>
+      <p><b>POL.WIFI.002:</b> Each <ph conref="conrefs.dita#conrefs/moj"/> wifi network <ph conref="conrefs.dita#conrefs/policymust"/> have a defined policy which is reviewed at least annually, that describes:</p>
       <ul>
         <li>
           <p>The purpose of the wifi network.</p>
@@ -80,39 +80,39 @@ Providers, as defined previously.</p>
       <title>General security requirements</title>
       <body>
         <p>The following statements apply to all <ph conref="conrefs.dita#conrefs/moj"/>-provided wifi networks.</p>
-        <p><codeph>POLWIFI003:</codeph> Wifi networks <ph conref="conrefs.dita#conrefs/policymustnot"/> be treated as extensions of trusted LANs or WANs.</p>
-        <p><codeph>POLWIFI004:</codeph> Wifi networks <ph conref="conrefs.dita#conrefs/policymust"/> be treated as untrusted bearers for the purposes of application security.</p>
-        <p><codeph>POLWIFI005:</codeph> All products used in an <ph conref="conrefs.dita#conrefs/moj"/> wifi network <ph conref="conrefs.dita#conrefs/policymust"/> support WPA2-Enterprise.</p>
-        <p><codeph>POLWIFI006:</codeph> CCMP <ph conref="conrefs.dita#conrefs/policymust"/> be used to protect the confidentiality and integrity of information transmitted over the wifi network.</p>
-        <p><codeph>POLWIFI007:</codeph> Other wifi security modes (such as WEP) <ph conref="conrefs.dita#conrefs/policymustnot"/> be enabled.</p>
-        <p><codeph>POLWIFI008:</codeph> All products used in <ph conref="conrefs.dita#conrefs/moj"/> wifi networks <ph conref="conrefs.dita#conrefs/policyshall"/> support certificate-based authentication.</p>
-        <p><codeph>POLWIFI009:</codeph> On <ph conref="conrefs.dita#conrefs/moj"/> wireless networks, isolation between wifi clients <ph conref="conrefs.dita#conrefs/policyshould"/> be enabled. Where there is no requirement for devices to communicate directly, isolation <ph conref="conrefs.dita#conrefs/policymust"/> be enabled.</p>
-        <p><codeph>POLWIFI010:</codeph> <ph conref="conrefs.dita#conrefs/moj"/> wireless networks <ph conref="conrefs.dita#conrefs/policyshould"/> use a DNS resolver that chains to the <xref href="https://www.ncsc.gov.uk/information/pdns" format="html" scope="external">Protective Domain Name Service (PDNS)</xref> service.</p>
-        <p><codeph>POLWIFI011:</codeph> All <ph conref="conrefs.dita#conrefs/moj"/> wireless networking equipment <ph conref="conrefs.dita#conrefs/policymust"/> be kept <xref href="vulnerability-scanning-and-patch-management-guide.dita" format="dita" audience="audience-supplier audience-tech">patched and secure</xref><ph audience="audience-basic">patched and secure</ph>, whether connecting to <ph conref="conrefs.dita#conrefs/moj"/> wifi services or GovWifi.</p>
-        <p><codeph>POLWIFI012:</codeph> All management of <ph conref="conrefs.dita#conrefs/moj"/> Wireless networking equipment <ph conref="conrefs.dita#conrefs/policymust"/> be undertaken in compliance with the <xref href="privileged-account-management-guide.dita" format="dita" audience="audience-supplier audience-tech">Privileged User Access Guide</xref><ph audience="audience-basic">Privileged User Access Guide</ph> and any relevant Security Operating Procedures (SyOPS).</p>
+        <p><b>POL.WIFI.003:</b> Wifi networks <ph conref="conrefs.dita#conrefs/policymustnot"/> be treated as extensions of trusted LANs or WANs.</p>
+        <p><b>POL.WIFI.004:</b> Wifi networks <ph conref="conrefs.dita#conrefs/policymust"/> be treated as untrusted bearers for the purposes of application security.</p>
+        <p><b>POL.WIFI.005:</b> All products used in an <ph conref="conrefs.dita#conrefs/moj"/> wifi network <ph conref="conrefs.dita#conrefs/policymust"/> support WPA2-Enterprise.</p>
+        <p><b>POL.WIFI.006:</b> CCMP <ph conref="conrefs.dita#conrefs/policymust"/> be used to protect the confidentiality and integrity of information transmitted over the wifi network.</p>
+        <p><b>POL.WIFI.007:</b> Other wifi security modes (such as WEP) <ph conref="conrefs.dita#conrefs/policymustnot"/> be enabled.</p>
+        <p><b>POL.WIFI.008:</b> All products used in <ph conref="conrefs.dita#conrefs/moj"/> wifi networks <ph conref="conrefs.dita#conrefs/policyshall"/> support certificate-based authentication.</p>
+        <p><b>POL.WIFI.009:</b> On <ph conref="conrefs.dita#conrefs/moj"/> wireless networks, isolation between wifi clients <ph conref="conrefs.dita#conrefs/policyshould"/> be enabled. Where there is no requirement for devices to communicate directly, isolation <ph conref="conrefs.dita#conrefs/policymust"/> be enabled.</p>
+        <p><b>POL.WIFI.010:</b> <ph conref="conrefs.dita#conrefs/moj"/> wireless networks <ph conref="conrefs.dita#conrefs/policyshould"/> use a DNS resolver that chains to the <xref href="https://www.ncsc.gov.uk/information/pdns" format="html" scope="external">Protective Domain Name Service (PDNS)</xref> service.</p>
+        <p><b>POL.WIFI.011:</b> All <ph conref="conrefs.dita#conrefs/moj"/> wireless networking equipment <ph conref="conrefs.dita#conrefs/policymust"/> be kept <xref href="vulnerability-scanning-and-patch-management-guide.dita" format="dita" audience="audience-supplier audience-tech">patched and secure</xref><ph audience="audience-basic">patched and secure</ph>, whether connecting to <ph conref="conrefs.dita#conrefs/moj"/> wifi services or GovWifi.</p>
+        <p><b>POL.WIFI.012:</b> All management of <ph conref="conrefs.dita#conrefs/moj"/> Wireless networking equipment <ph conref="conrefs.dita#conrefs/policymust"/> be undertaken in compliance with the <xref href="privileged-account-management-guide.dita" format="dita" audience="audience-supplier audience-tech">Privileged User Access Guide</xref><ph audience="audience-basic">Privileged User Access Guide</ph> and any relevant Security Operating Procedures (SyOPS).</p>
       </body>
     </topic>
     <topic id="moj-enterprise-wifi-networks">
       <title><ph conref="conrefs.dita#conrefs/moj"/> enterprise wifi networks</title>
         <body>
           <note><ph conref="conrefs.dita#conrefs/moj"/> enterprise wifi networks are those used solely for <ph conref="conrefs.dita#conrefs/moj"/> users and devices.</note>
-          <p><codeph>POLWIFI013:</codeph> Pre-Shared Keys (PSKs) <ph conref="conrefs.dita#conrefs/policymay"/> be used for user or device authentication.</p>
-          <p><codeph>POLWIFI014:</codeph> PSKs <ph conref="conrefs.dita#conrefs/policymust"/> be unique per user or device.</p>
-          <p><codeph>POLWIFI015:</codeph> PSKs <ph conref="conrefs.dita#conrefs/policymust"/> only be implemented with prior agreement from the cyber security team</p>
-          <p><codeph>POLWIFI016:</codeph> PSKs <ph conref="conrefs.dita#conrefs/policymust"/> be changed at least once a year.</p>
-          <p><codeph>POLWIFI017:</codeph> EAP-PSK <ph conref="conrefs.dita#conrefs/policyshould"/> be used.</p>
-          <p><codeph>POLWIFI018:</codeph> In higher-threat situations such as in a prison location where any unauthorised use of the Wireless network would constitute a security incident, mutually-authenticated authentication based on certificates <ph conref="conrefs.dita#conrefs/policymust"/> be used.</p>
-          <p><codeph>POLWIFI019:</codeph> EAP-TLS or EAP-TTLS <ph conref="conrefs.dita#conrefs/policyshould"/> be used.</p>
-          <p><codeph>POLWIFI020:</codeph> Where user or device groups have differing functions, PKI trust domains <ph conref="conrefs.dita#conrefs/policyshould"/> be defined and used to maintain functional separation.</p>
+          <p><b>POL.WIFI.013:</b> Pre-Shared Keys (PSKs) <ph conref="conrefs.dita#conrefs/policymay"/> be used for user or device authentication.</p>
+          <p><b>POL.WIFI.014:</b> PSKs <ph conref="conrefs.dita#conrefs/policymust"/> be unique per user or device.</p>
+          <p><b>POL.WIFI.015:</b> PSKs <ph conref="conrefs.dita#conrefs/policymust"/> only be implemented with prior agreement from the cyber security team</p>
+          <p><b>POL.WIFI.016:</b> PSKs <ph conref="conrefs.dita#conrefs/policymust"/> be changed at least once a year.</p>
+          <p><b>POL.WIFI.017:</b> EAP-PSK <ph conref="conrefs.dita#conrefs/policyshould"/> be used.</p>
+          <p><b>POL.WIFI.018:</b> In higher-threat situations such as in a prison location where any unauthorised use of the Wireless network would constitute a security incident, mutually-authenticated authentication based on certificates <ph conref="conrefs.dita#conrefs/policymust"/> be used.</p>
+          <p><b>POL.WIFI.019:</b> EAP-TLS or EAP-TTLS <ph conref="conrefs.dita#conrefs/policyshould"/> be used.</p>
+          <p><b>POL.WIFI.020:</b> Where user or device groups have differing functions, PKI trust domains <ph conref="conrefs.dita#conrefs/policyshould"/> be defined and used to maintain functional separation.</p>
         </body>
       </topic>
       <topic id="moj-special-purpose-wifi-networks">
         <title><ph conref="conrefs.dita#conrefs/moj"/> special-purpose wifi networks</title>
         <body>
-          <p><codeph>POLWIFI021:</codeph> If <ph conref="conrefs.dita#conrefs/moj"/> devices, including IoT or legacy devices, cannot meet the general security policy requirements, or if there are non-security reasons for segregating traffic onto different SSIDs, then dedicated <ph conref="conrefs.dita#conrefs/moj"/> wifi networks <ph conref="conrefs.dita#conrefs/policymay"/> be created.</p>
-          <p><codeph>POLWIFI022:</codeph> These dedicated networks <ph conref="conrefs.dita#conrefs/policymay"/> have reduced authentication controls, for example a shared PSK or a reduced ability to rotate PSKs due to form-factor limitations.</p>
-          <p><codeph>POLWIFI023:</codeph> In such circumstances, special care <ph conref="conrefs.dita#conrefs/policymust"/> be taken to ensure that the general network architecture and other security controls constrain network connectivity for clients. The constraints limit network connectivity to the minimum required for them to function properly.</p>
-          <p><codeph>POLWIFI024:</codeph> Other mechanisms such as MAC filtering <ph conref="conrefs.dita#conrefs/policyshould"/> be used to reduce the chance of misuse.</p>
+          <p><b>POL.WIFI.021:</b> If <ph conref="conrefs.dita#conrefs/moj"/> devices, including IoT or legacy devices, cannot meet the general security policy requirements, or if there are non-security reasons for segregating traffic onto different SSIDs, then dedicated <ph conref="conrefs.dita#conrefs/moj"/> wifi networks <ph conref="conrefs.dita#conrefs/policymay"/> be created.</p>
+          <p><b>POL.WIFI.022:</b> These dedicated networks <ph conref="conrefs.dita#conrefs/policymay"/> have reduced authentication controls, for example a shared PSK or a reduced ability to rotate PSKs due to form-factor limitations.</p>
+          <p><b>POL.WIFI.023:</b> In such circumstances, special care <ph conref="conrefs.dita#conrefs/policymust"/> be taken to ensure that the general network architecture and other security controls constrain network connectivity for clients. The constraints limit network connectivity to the minimum required for them to function properly.</p>
+          <p><b>POL.WIFI.024:</b> Other mechanisms such as MAC filtering <ph conref="conrefs.dita#conrefs/policyshould"/> be used to reduce the chance of misuse.</p>
         </body>
       </topic>
       <topic id="moj-guest-wifi-networks">
@@ -120,8 +120,8 @@ Providers, as defined previously.</p>
         <body>
           <p>Due to complexities and management effort involved in running wifi solutions, the <ph conref="conrefs.dita#conrefs/moj"/> preference is to utilise the cross-Government GovWifi service: <xref href="https://www.wifi.service.gov.uk/" format="html" scope="external">https://www.wifi.service.gov.uk/</xref>.</p>
           <p>This also has the benefit of being available across HMG Departments and Agencies. GovWifi has a level of pre-registration, monitoring and filtering in place to protect the users. However, GovWifi does not provide enterprise level security functions. GovWifi users are required to maintain their own security controls. For <ph conref="conrefs.dita#conrefs/moj"/> users of GovWifi connections, this means using the <ph conref="conrefs.dita#conrefs/moj"/>-provided VPN services when accessing protected <ph conref="conrefs.dita#conrefs/moj"/> services.</p>
-          <p><codeph>POLWIFI025:</codeph> Any considerations for not using GovWifi in an <ph conref="conrefs.dita#conrefs/moj"/> guest wifi network <ph conref="conrefs.dita#conrefs/policymust"/> be discussed and agreed beforehand with the cyber security team.</p>
-          <p><codeph>POLWIFI026:</codeph> Where GovWifi cannot be used, or where an existing guest wifi service exists,the following <ph conref="conrefs.dita#conrefs/policymust"/> be in place:</p>
+          <p><b>POL.WIFI.025:</b> Any considerations for not using GovWifi in an <ph conref="conrefs.dita#conrefs/moj"/> guest wifi network <ph conref="conrefs.dita#conrefs/policymust"/> be discussed and agreed beforehand with the cyber security team.</p>
+          <p><b>POL.WIFI.026:</b> Where GovWifi cannot be used, or where an existing guest wifi service exists,the following <ph conref="conrefs.dita#conrefs/policymust"/> be in place:</p>
           <ul>
             <li>
               <p>Regular rotation of the passphrase, with agreement from the <ph conref="conrefs.dita#conrefs/securityemailtext"/>. Normally, this requires a fresh and unique passphrase each day.</p>
@@ -138,22 +138,22 @@ Providers, as defined previously.</p>
       <topic id="logging-and-monitoring">
         <title>Logging and monitoring</title>
         <body>
-          <p><codeph>POLWIFI027:</codeph> Security monitoring for <ph conref="conrefs.dita#conrefs/moj"/> wireless networks <ph conref="conrefs.dita#conrefs/policymust"/> be implemented, in accordance with the <xref href="logging-and-monitoring.dita" format="dita" audience="audience-supplier audience-tech"><ph conref="conrefs.dita#conrefs/moj"/> security monitoring policy</xref><ph audience="audience-basic"><ph conref="conrefs.dita#conrefs/moj"/> security monitoring policy</ph>.</p>
-          <p><codeph>POLWIFI028:</codeph> Security logging <ph conref="conrefs.dita#conrefs/policymust"/> be enabled to record activity such as client access events, authentication successes and failures, client association history, and relevant information about devices and users attempting to connect to the wireless network.</p>
-          <p><codeph>POLWIFI029:</codeph> In higher threat environments, security logging <ph conref="conrefs.dita#conrefs/policyshould"/> also include identification of rogue access points, and logging of all attempted associations with the wifi network.</p>
-          <p><codeph>POLWIFI030:</codeph> For <ph conref="conrefs.dita#conrefs/moj"/> guest wifi networks, but not including GovWifi, audit logs of sites accessed <ph conref="conrefs.dita#conrefs/policymust"/> be retained for at least 6 months, including authentication details. This data is held to allow forensic analysis of data in the case of a security incident. No personal information except that required to conduct the analysis is logged or retained.</p>
+          <p><b>POL.WIFI.027:</b> Security monitoring for <ph conref="conrefs.dita#conrefs/moj"/> wireless networks <ph conref="conrefs.dita#conrefs/policymust"/> be implemented, in accordance with the <xref href="logging-and-monitoring.dita" format="dita" audience="audience-supplier audience-tech"><ph conref="conrefs.dita#conrefs/moj"/> security monitoring policy</xref><ph audience="audience-basic"><ph conref="conrefs.dita#conrefs/moj"/> security monitoring policy</ph>.</p>
+          <p><b>POL.WIFI.028:</b> Security logging <ph conref="conrefs.dita#conrefs/policymust"/> be enabled to record activity such as client access events, authentication successes and failures, client association history, and relevant information about devices and users attempting to connect to the wireless network.</p>
+          <p><b>POL.WIFI.029:</b> In higher threat environments, security logging <ph conref="conrefs.dita#conrefs/policyshould"/> also include identification of rogue access points, and logging of all attempted associations with the wifi network.</p>
+          <p><b>POL.WIFI.030:</b> For <ph conref="conrefs.dita#conrefs/moj"/> guest wifi networks, but not including GovWifi, audit logs of sites accessed <ph conref="conrefs.dita#conrefs/policymust"/> be retained for at least 6 months, including authentication details. This data is held to allow forensic analysis of data in the case of a security incident. No personal information except that required to conduct the analysis is logged or retained.</p>
     </body>
   </topic>
   <topic id="using-third-party-wifi">
     <title>Using third-party wifi</title>
     <body>
-      <p><codeph>POLWIFI031:</codeph> <ph conref="conrefs.dita#conrefs/moj"/> staff <ph conref="conrefs.dita#conrefs/policymust"/> ensure they have permission from the network owner before using wifi that is not operated by the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
-      <p><codeph>POLWIFI032:</codeph> Staff <ph conref="conrefs.dita#conrefs/policyshould"/> take <xref href="https://ico.org.uk/your-data-matters/online/wifi-security/" format="html" scope="external">reasonable precautions</xref> to check that their home wifi network is secure.</p>
-      <p><codeph>POLWIFI033:</codeph> Staff <ph conref="conrefs.dita#conrefs/policymay"/> use work-provided mobile phones to 'tether' their <ph conref="conrefs.dita#conrefs/moj"/>-provided devices for connectivity.</p>
-      <p><codeph>POLWIFI034:</codeph> Tethered connections <ph conref="conrefs.dita#conrefs/policymust"/> be password protected using unique and complex passwords.</p>
-      <p><codeph>POLWIFI035:</codeph> Tethering passwords for <ph conref="conrefs.dita#conrefs/moj"/> devices <ph conref="conrefs.dita#conrefs/policymustnot"/> be shared with non-<ph conref="conrefs.dita#conrefs/moj"/> users.</p>
-      <p><codeph>POLWIFI036:</codeph> Public wifi networks or guest wifi provided at third-party sites <ph conref="conrefs.dita#conrefs/policymust"/> only be used by devices which have suitable encryption for <ph conref="conrefs.dita#conrefs/moj"/> <codeph>OFFICIAL</codeph> information. Here, 'suitable' means either an 'always-on full-take' VPN, or that provides appropriate application-level encryption for all services. This is currently (October 2021) limited to Dom1 and PTTP/MoJO laptops and mobile devices.</p>
-      <p><codeph>POLWIFI037:</codeph> Staff travelling overseas <ph conref="conrefs.dita#conrefs/policymust"/> follow the guidance on <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref> and <xref href="general-advice-on-taking-equipment-overseas.dita" format="dita">taking equipment overseas</xref> regarding the use of wifi or other networks.</p>
+      <p><b>POL.WIFI.031:</b> <ph conref="conrefs.dita#conrefs/moj"/> staff <ph conref="conrefs.dita#conrefs/policymust"/> ensure they have permission from the network owner before using wifi that is not operated by the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+      <p><b>POL.WIFI.032:</b> Staff <ph conref="conrefs.dita#conrefs/policyshould"/> take <xref href="https://ico.org.uk/your-data-matters/online/wifi-security/" format="html" scope="external">reasonable precautions</xref> to check that their home wifi network is secure.</p>
+      <p><b>POL.WIFI.033:</b> Staff <ph conref="conrefs.dita#conrefs/policymay"/> use work-provided mobile phones to 'tether' their <ph conref="conrefs.dita#conrefs/moj"/>-provided devices for connectivity.</p>
+      <p><b>POL.WIFI.034:</b> Tethered connections <ph conref="conrefs.dita#conrefs/policymust"/> be password protected using unique and complex passwords.</p>
+      <p><b>POL.WIFI.035:</b> Tethering passwords for <ph conref="conrefs.dita#conrefs/moj"/> devices <ph conref="conrefs.dita#conrefs/policymustnot"/> be shared with non-<ph conref="conrefs.dita#conrefs/moj"/> users.</p>
+      <p><b>POL.WIFI.036:</b> Public wifi networks or guest wifi provided at third-party sites <ph conref="conrefs.dita#conrefs/policymust"/> only be used by devices which have suitable encryption for <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/official"/> information. Here, 'suitable' means either an 'always-on full-take' VPN, or that provides appropriate application-level encryption for all services. This is currently (October 2021) limited to Dom1 and PTTP/MoJO laptops and mobile devices.</p>
+      <p><b>POL.WIFI.037:</b> Staff travelling overseas <ph conref="conrefs.dita#conrefs/policymust"/> follow the guidance on <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref> and <xref href="general-advice-on-taking-equipment-overseas.dita" format="dita">taking equipment overseas</xref> regarding the use of wifi or other networks.</p>
     </body>
   </topic>
   <topic id="enforcement">

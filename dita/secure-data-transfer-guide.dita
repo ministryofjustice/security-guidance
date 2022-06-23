@@ -146,7 +146,7 @@
           <body>
             <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s preferred method of
             data sharing is to use Microsoft Teams via Sharepoint.
-            Teams has been authorised to hold <codeph>OFFICIAL-SENSITIVE</codeph>
+            Teams has been authorised to hold <ph conref="conrefs.dita#conrefs/official-sensitive"/>
             information.
             It is configured to provide greater granular protection through tools
             such as Azure Information Protection (AIP).
@@ -241,7 +241,7 @@
                 <ph conref="conrefs.dita#conrefs/moj"/> email accounts</li>
               <li>This method <ph conref="conrefs.dita#conrefs/policycan"/> be
               used to send or receive files classified as
-              <codeph>OFFICIAL</codeph>.
+              <ph conref="conrefs.dita#conrefs/official"/>.
               It is normally used with external partners,
               agencies,
               or individuals who cannot be contacted using CJSM email.</li>

@@ -42,7 +42,7 @@ For further guidance on IT Security, refer to the following policy.
 
 ##Principles
 
-All MoJ users **SHALL**:
+All MoJ users **shall**:
 
 * Comply with the MoJ's [Acceptable Use Policy](https://security-guidance.service.justice.gov.uk/acceptable-use-policy/) wherever they work.
 * Report all security incidents promptly and in line with MoJ's IT Incident Management Policy.

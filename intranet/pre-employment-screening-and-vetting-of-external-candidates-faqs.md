@@ -18,7 +18,7 @@ Pre-employment screening involves a series of checks to help us make informed de
 * That applicants are who they say they are.
 * The integrity of the applicant, the organisation, and the safety of staff and others in our care.
 
-All individuals working with the MoJ **SHALL** be required to complete a Baseline Personnel Security Standard (BPSS) check prior to taking up their role.
+All individuals working with the MoJ **shall** be required to complete a Baseline Personnel Security Standard (BPSS) check prior to taking up their role.
 
 In addition, Disclosure and Barring Service (DBS) clearances might be required but only where the role involves interaction with children or vulnerable adults. These clearances are carried out through either a Standard or an Enhanced check.
 
@@ -38,7 +38,7 @@ Baseline Personnel Security Standard (BPSS) is the minimum level of clearance fo
 
 ##Q3. How does the vacancy manager know what level of clearance a role requires?
 
-Vacancy managers **SHALL** always advertise their roles at the correct level of clearance required. Levels of clearance are defined by the requirements of the role being filled, not by the level of clearance the candidate already possesses. Your National Security Vetting Contact (NSVC) can confirm whether the role requires national security vetting in addition to pre-employment checks. Wrongly classifying roles at advert stage leads to delays in on-boarding.
+Vacancy managers **shall** always advertise their roles at the correct level of clearance required. Levels of clearance are defined by the requirements of the role being filled, not by the level of clearance the candidate already possesses. Your National Security Vetting Contact (NSVC) can confirm whether the role requires national security vetting in addition to pre-employment checks. Wrongly classifying roles at advert stage leads to delays in on-boarding.
 
 If you don't know who your NSVC is, refer to the download [here](/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
@@ -48,9 +48,9 @@ This depends on how the candidate is being recruited, and their level in the org
 
 ##Bands A-F (non-SCS) recruited through fair and open recruitment
 
-* All candidates **SHALL** undergo pre-employment checks relevant to the role.
+* All candidates **shall** undergo pre-employment checks relevant to the role.
 * SSCL ask applicants to bring their Right to Work (RTW), ID, and address documentation to interview.
-* Line managers **SHALL** check these documents, make a note of the document reference numbers, and input these into Oleeo (the recruitment website), at the Interview Scores Entered stage.
+* Line managers **shall** check these documents, make a note of the document reference numbers, and input these into Oleeo (the recruitment website), at the Interview Scores Entered stage.
 * If the applicant is successful at interview, SSCL makes a provisional offer, and asks the candidate to upload copies of the same RTW, ID, and address documents into Oleeo.
 * If NSV is required for the role (as indicated by the vacancy manager in the advert), SSCL also sends a link to the candidate so they can complete an on-line security questionnaire on the NSVS portal.
 
@@ -92,7 +92,7 @@ Non-directly employed workers include the following:
 * Agency staff.
 * Fee-Paid workers.
 
-Managers **SHALL** ensure that these applicants undergo the mandatory BPSS checks covering identity, nationality, immigration, right to work, employment history, and criminal records checks. They can check the results on the BPSS Verification Record form, which employers **SHALL** complete to verify that the checks have been made.
+Managers **shall** ensure that these applicants undergo the mandatory BPSS checks covering identity, nationality, immigration, right to work, employment history, and criminal records checks. They can check the results on the BPSS Verification Record form, which employers **shall** complete to verify that the checks have been made.
 
 **Note:** SSCL do not conduct these checks.
 
@@ -100,7 +100,7 @@ Further guidance, and a link to the BPSS Verification Form, can be found on the 
 
 ##If you have posts that require NSV
 
-If NSV is required for the role, the vacancy manager **SHALL** discuss this with their National Security Vetting Contact (NSVC), and obtain a code that is entered on the Clearance Request Form (CRF) prior to submission to SSCL.
+If NSV is required for the role, the vacancy manager **shall** discuss this with their National Security Vetting Contact (NSVC), and obtain a code that is entered on the Clearance Request Form (CRF) prior to submission to SSCL.
 
 If you don't know who your NSVC is, refer to the download [here](/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
@@ -136,11 +136,11 @@ Typical timings from completion of application are
 
 ##Q3. NSV takes too long, can the candidate start at BPSS and apply for NSV once they are in post?
 
-If NSV is required for a position, candidates **SHOULD NOT** start until their NSV is confirmed.
+If NSV is required for a position, candidates **should not** start until their NSV is confirmed.
 
-In exceptional circumstances, a policy dispensation request **CAN** be made to the Cluster 2 Security Unit (C2SU). Do this by emailing [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). C2SU recommend whether to grant or refuse the request. Any required risk mitigation measures will be provided by C2SU and **SHALL** require the Senior Security Advisor and the business unit to sign-up to these required measures.
+In exceptional circumstances, a policy dispensation request **can** be made to the Cluster 2 Security Unit (C2SU). Do this by emailing [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk). C2SU recommend whether to grant or refuse the request. Any required risk mitigation measures will be provided by C2SU and **shall** require the Senior Security Advisor and the business unit to sign-up to these required measures.
 
-Contractors and Agency staff **SHALL** have their NSV in place before they start. For help, contact your NSVC in the first instance. If you don't know who your NSVC is, refer to the download [here](/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+Contractors and Agency staff **shall** have their NSV in place before they start. For help, contact your NSVC in the first instance. If you don't know who your NSVC is, refer to the download [here](/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
 ##Section 4: Applying for NSV
 
