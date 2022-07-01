@@ -101,7 +101,7 @@ The MoJ risk assessment and information assurance is defined in the Information 
 
 A security audit is a systematic evaluation of the MoJ's IT security management system. It is performed to maintain effective security policies and practices. These checks are subject to self or peer audit by operational line management, contract managers or MoJ HQ managers, as judged to be appropriate by the managers with responsibility for delivery. For instance, checks on Information Asset Registers and Information Risk Registers **should** be carried out quarterly, but other information assurance checks might be carried out less frequently, or triggered by events such as contract renewals.
 
-Third party audits will be carried out by the [Government Internal Audit Agency](https://www.gov.uk/government/organisations/government-internal-audit-agency) \(GIAA\) to provide an external evaluation of policies and practices. For more information, contact the Government Internal Audit Agency: [correspondence@giaa.gov.uk](mailto:correspondence@giaa.gov.uk)
+Third party audits will be carried out by the [Government Internal Audit Agency](https://www.gov.uk/government/organisations/government-internal-audit-agency) \(GIAA\) to provide an external evaluation of policies and practices. For more information, contact the Government Internal Audit Agency: Government Internal Audit Agency via [Security team](mailto:security@justice.gov.uk)
 
 When conducting an audit:
 

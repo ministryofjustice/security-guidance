@@ -11,7 +11,7 @@ This guide outlines the technical implementations that technical users should ma
 
 ### Spam and phishing
 
-To protect against spam and phishing attacks, the MoJ makes use of Government services such as National Cyber Security Centre's [Suspicious Email Reporting Service](mailto:report@phishing.gov.uk) and any other services that are appropriate.
+To protect against spam and phishing attacks, the MoJ makes use of Government services such as National Cyber Security Centre's Suspicious Email Reporting Service and any other services that are appropriate.
 
 ### Spoofing attacks
 
@@ -68,7 +68,7 @@ Mitigate MITM attacks by:
 
 Mail Check **should** be used only if the email domain name provided is publicly routable from the Internet using the Simple Mail Transfer Protocol \(SMTP\).
 
-To add domains to the MoJ's Mail Check service subscription, contact the [NCSC Mail Check team](mailto:mailcheck@digital.ncsc.gov.uk).
+To add domains to the MoJ's Mail Check service subscription, contact the NCSC Mail Check team via [Security team](mailto:security@justice.gov.uk).
 
 ## Email sandboxing
 

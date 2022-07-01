@@ -57,7 +57,7 @@ Where necessary, data **can** also be shared with the appellant's line manager, 
 
 For general advice or guidance regarding the National Security Vetting process, contact [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk).
 
-To declare relevant changes in your personal circumstances, contact the Cluster 2 Personnel Risk Management Team by emailing [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk).
+To declare relevant changes in your personal circumstances, contact the Cluster 2 Personnel Risk Management Team by emailing Vetting team via [Security team](mailto:security@justice.gov.uk).
 
 ## Annex A: Cluster 2 Security Unit Security Clearance Appeals Procedures
 
