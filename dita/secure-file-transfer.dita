@@ -174,14 +174,34 @@
           <p>Pre-requisite: Ensure you have a current and correct mobile phone telephone number for each of your recipients. This contact number is used to send them a unique PIN code to unlock shared files.</p>
           <ol>
               <li>When your email is ready to send, select the encrypt icon at the bottom of the toolbar. In <ph conref="conrefs.dita#conrefs/gsuite"/> email, this button is called <uicontrol>Toggle confidential mode</uicontrol>.<image href="images/sft028.png" placement="break" scope="local"><alt>The image shows a <ph conref="conrefs.dita#conrefs/gsuite"/> email composition page. The email has been created as normal. At the bottom of the page, a 'padlock' icon is selected.</alt></image></li>
-              <li>Select the Radio Button for <uicontrol>SMS Passcode</uicontrol>.</li>
-              <li>Click the <uicontrol>Save</uicontrol> button.</li>
-              <li>Add the mobile telephone numbers for each of the recipients. Click the <uicontrol>Send</uicontrol> button.</li>
+              <li>On the Confidential mode panel, select the Radio Button for <uicontrol>SMS Passcode</uicontrol>.<image href="images/sft029.png" placement="break" scope="local"><alt>The image shows the Confidential mode panel. A section of the panel allows you to choose between requiring a passcode or not. The choice is made using radio buttons. In the image, the 'No SMS passcode' option is currently selected. The option to use an SMS passcode is highlighted, ready to select that option in preference.</alt></image></li>
+              <li>Click the <uicontrol>Save</uicontrol> button.<image href="images/sft030.png" placement="break" scope="local"><alt>The image shows the Confidential mode panel. In the image, the 'SMS passcode' option is currently selected. 'Save' button is highlighted, ready to be clicked.</alt></image></li>
+              <li>Add the mobile telephone numbers for each of the recipients. Click the <uicontrol>Send</uicontrol> button.<image href="images/sft031.png" placement="break" scope="local"><alt>The image shows the Confirm phone numbers panel. In the image, the area for entering recipient phone numbers is highlighted. There is a 'Send' button.</alt></image></li>
+              <li>The result is that an email is sent to each recipient.<image href="images/sft032.png" placement="break" scope="local"><alt>The image shows an example of an encrypted email sent to the recipient. At the bottom of the email, there is a warning panel advising that the content has an expiry date, after which recipients will not be able to forward, copy, print, or download the email.</alt></image></li>
           </ol>
-          <p>The result is that an email is sent to each recipient.</p>
       </body>
       <topic id="recipient-receives-the-encrypted-email">
           <title>Recipient receives the encrypted email</title>
+          <body>
+            <ol>
+              <li>The recipient receives a notification email from <ph conref="conrefs.dita#conrefs/gsuite"/>, advising that they have been sent an email which can only be accessed by the authorised recipient. Click the <uicontrol>View the email</uicontrol> button.<image href="images/sft033.png" placement="break" scope="local"><alt>The image shows an example of an encrypted email notification sent to the recipient. It confirms when the email was sent, and that it can only be opened by the authorised recipient. A 'View the email' button on the page is highlighted.</alt></image></li>
+              <li>To view the email, the recipient requires a passcode. To get the passcode, click the <uicontrol>Send Passcode</uicontrol> button.<image href="images/sft034.png" placement="break" scope="local"><alt>The image shows a panel inviting the recipient to request an access passcode. The panel confirms that the passcode will be sent to a specific phone number as an SMS code. The button to request the passcode is highlighted.</alt></image></li>
+              <li>The recipient receives the passcode by SMS text message on their mobile telephone.<image href="images/sft035.png" placement="break" scope="local"><alt>The image shows an example SMS message received on a phone. The message states what the verification code is. In the example image, the code number is highlighted.</alt></image></li>
+              <li>After clicking the <uicontrol>Send Passcode</uicontrol> button, a form appears notifying the recipient that the Passcode has been sent to the indicated phone number. The recipient enters the Passcode from the SMS message into the form, and clicks the <uicontrol>Submit</uicontrol> button.<image href="images/sft036.png" placement="break" scope="local"><alt>The image shows a form where the recipient can enter the Passcode from an SMS message received on their phone. The example Passcode has been entered into the 'Enter passcode' field. A 'Submit' button appears on the form for the recipient to click.</alt></image></li>
+              <li>The email is unlocked and viewable by the recipient.<image href="images/sft037.png" placement="break" scope="local"><alt>The image shows a newly-unlocked email after the recipient successfully entered the correct Passcode.</alt></image></li>
+            </ol>
+          </body>
+      </topic>
+      <topic id="very-large-file-using-google-workspace">
+        <title>Very large file using <ph conref="conrefs.dita#conrefs/gsuite"/></title>
+        <body>
+          <note>This option is only for <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/gsuite"/> users, with <codeph conref="#methods-of-sharing-documents/digitalemail"/> accounts.</note>
+          <ol>
+            <li>Using Google Drive, locate the large file you want to share. Right click on the file.<image href="images/sft038.png" placement="break" scope="local"><alt>The image shows a Google Drive window. A file has been selected, and righ-click used to bring up a menu. Within the menu, the 'Share' option has been highighted.</alt></image></li>
+            
+            <li>Choose the <uicontrol>Share</uicontrol> option. A form appears, where you can add the user's email address you want to share to. You can also choose what sort of link will be provided. The default is <uicontrol>Restricted</uicontrol>, which means only the specific named recipients can access the file. Leave the default unchanged.<image href="images/sft040.png" placement="break" scope="local"><alt>The image shows a Google Drive window. A file has been selected, and righ-click used to bring up a menu. Within the menu, the 'Share' option has been highighted.</alt></image></li>
+          </ol>
+        </body>
       </topic>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
@@ -190,50 +210,8 @@
 
 <!-- 
 
-## **.**
 
-1.  The recipient will receive an email such as the following and must
-    click on the \`'\`View the email" tab.
 
-<img src="media/image34.png" style="width:3.8975in;height:2.46723in"
-alt="Graphical user interface, text, application, Teams Description automatically generated" />
-
-2.  Next, the recipient must click on the "Send Passcode" tab.
-
-<img src="media/image35.png" style="width:3.91111in;height:1.52381in"
-alt="Graphical user interface, text, application Description automatically generated" />
-
-3.  The recipient receives the passcode by SMS text message onto their
-    mobile telephone.
-
-<img src="media/image36.png" style="width:3.89873in;height:2.12658in"
-alt="Graphical user interface, text, application Description automatically generated" />
-
-4.  They will need to enter the SMS passcode into the online message and
-    click on the "Submit" tab.
-
-<img src="media/image37.png" style="width:3.96181in;height:2.48883in"
-alt="Graphical user interface, text, application, chat or text message Description automatically generated" />
-
-5.  The email is unlocked and viewable by the recipient.
-
-<img src="media/image38.png" style="width:3.91139in;height:2.99915in"
-alt="Graphical user interface Description automatically generated" />
-
-# **Very Large File – Google Drive (NB. This is only for GSuite – digital.justice.gov.uk users.)**
-
-1.  Go to your Google Drive, and right-click the large file to be
-    shared.
-
-<img src="media/image39.png" style="width:3.92405in;height:2.23027in"
-alt="Graphical user interface, application Description automatically generated" />
-
-2.  Choose the “Share” option, add the user’s email address you want to
-    share with, add the required rights (Viewer, Commenter and Editor)
-    from the top right-hand corner, and then click on the “Send” tab.
-
-<img src="media/image40.png" style="width:3.92361in;height:2.5491in"
-alt="Graphical user interface, application, Teams Description automatically generated" />
 
 3.  Before the large file is shared, you will receive a dialogue box
     confirming you want to “Share outside organisation?” Read the
