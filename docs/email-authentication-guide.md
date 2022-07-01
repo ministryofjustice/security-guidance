@@ -133,7 +133,7 @@ GSI is no longer used, but the following addresses still route through to `@just
 |-----------|-------|
 |`*.gsi.gov.uk`, `*.gsx.gov.uk`, `*.gse.gov.uk`, `*.gcsx.gov.uk`, `*.x.gsi.gov.uk`|[Vodafone Contact GDS](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185)|
 |`*.gov.uk` or any other domains|Your registrar, DNS provider or Internal System Admin|
-|`*.cjsm.net`|[Egress](mailto:cjsm.helpdesk@egress.com)|
+|`*.cjsm.net`|Egress via [Security team](mailto:security@justice.gov.uk)|
 
 ### DMARC example
 
@@ -141,7 +141,7 @@ Record type: `TXT`
 
 Host or record name: `dmarc`
 
-Record value: `v=DMARC1;p=none;fo=1;rua=mailto:dmarc-rua@dmarc.service.gov.uk,mailto:dmarc@<yourdomain.gov.uk>`
+Record value: `v=DMARC1;p=none;fo=1;rua=mailto:<example dmarc email address>,mailto:dmarc@<yourdomain.gov.uk>`
 
 Create the email address and put your domain in place of `<yourdomain.gov.uk>`.
 

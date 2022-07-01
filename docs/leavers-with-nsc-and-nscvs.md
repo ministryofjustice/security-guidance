@@ -4,7 +4,7 @@ This information applies to people leaving the Ministry of Justice \(MoJ\), who 
 
 Staff or contractors that hold clearance of any level **shall** attend an exit interview with their manager before they leave the MoJ. Although these interviews are available for all staff, they are compulsory for those with Counter Terrorist Clearance \(CTC\) or Security Check \(SC\).
 
-If the leaver holds Developed Vetting \(DV\) or SC enhanced level, and has been STRAP inducted, they **shall** attend a mandatory STRAP debriefing interview with [Cluster 2 STRAP team](mailto:STRAPTeam@cluster2security.gov.uk). They **shall** also sign a confidentiality agreement and a "Declaration of Cessation of **Top Secret** STRAP Access".
+If the leaver holds Developed Vetting \(DV\) or SC enhanced level, and has been STRAP inducted, they **shall** attend a mandatory STRAP debriefing interview with Cluster 2 STRAP team via [Security team](mailto:security@justice.gov.uk). They **shall** also sign a confidentiality agreement and a "Declaration of Cessation of **Top Secret** STRAP Access".
 
 ## NSVCs who leave
 
@@ -12,7 +12,7 @@ The post of National Security Vetting Contact \(NSVC\) **should not** be left em
 
 ## Manager responsibilities
 
-When a member of staff with clearance leaves their department, the manager **shall** inform their NSVC, so that the NSVC can update their records and remove the staff member from the list of cleared personnel. The NSVC passes the leaver's details on to [Cluster 2 Security Unit](mailto:contactus@cluster2security.gov.uk). Managers **should** also use this as an opportunity to take another look at the role, and confirm whether it still needs clearance and, if it does, to what level. The NSVC can advise managers on this analysis.
+When a member of staff with clearance leaves their department, the manager **shall** inform their NSVC, so that the NSVC can update their records and remove the staff member from the list of cleared personnel. The NSVC passes the leaver's details on to Cluster 2 Security Unit via [Security team](mailto:security@justice.gov.uk). Managers **should** also use this as an opportunity to take another look at the role, and confirm whether it still needs clearance and, if it does, to what level. The NSVC can advise managers on this analysis.
 
 ## Downloads
 

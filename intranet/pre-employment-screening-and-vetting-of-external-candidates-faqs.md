@@ -188,7 +188,7 @@ Speak to your NSVC. They decide if it needs to be renewed and help you start the
 
 ##Q3. My personal circumstances have changed, who should I advise?
 
-For all changes in personal circumstances, contact Cluster 2 Personnel Risk Management by emailing [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk).
+For all changes in personal circumstances, contact Cluster 2 Personnel Risk Management by emailing Vetting team via [Security team](mailto:security@justice.gov.uk).
 
 You can find more information [here](/guidance/hr/recruitment/security-vetting/reporting-personal-circumstance-changes/).
 

@@ -25,8 +25,8 @@ However, other devices across the MoJ estate might have been procured and manage
 
 The following organisations are approved to help you with secure disposal of equipment:
 
--   Euro-Recycling: [info@euro-recycling.co.uk](mailto:info@euro-recycling.co.uk)
--   Data Eliminate: [info@dataeliminate.com](mailto:info@dataeliminate.com)
+-   Euro-Recycling \(contact via [Security team](mailto:security@justice.gov.uk)\)
+-   Data Eliminate \(contact via [Security team](mailto:security@justice.gov.uk)\)
 
 ## NCSC and CPNI on Secure Disposal
 

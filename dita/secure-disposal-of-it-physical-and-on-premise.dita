@@ -38,8 +38,8 @@
     <p>The following organisations are approved to help you with
       secure disposal of equipment:
       <ul>
-        <li>Euro-Recycling: <xref href="mailto:info@euro-recycling.co.uk" format="html" scope="external">info@euro-recycling.co.uk</xref></li>
-        <li>Data Eliminate: <xref href="mailto:info@dataeliminate.com" format="html" scope="external">info@dataeliminate.com</xref></li>
+        <li>Euro-Recycling (contact via <ph conref="conrefs.dita#conrefs/securityemailtext"/>)</li>
+        <li>Data Eliminate (contact via <ph conref="conrefs.dita#conrefs/securityemailtext"/>)</li>
       </ul>
    </p>
   </body>

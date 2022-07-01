@@ -30,9 +30,9 @@
 			<ph id="certificatesemail"><xref href="mailto:certificates@digital.justice.gov.uk" format="html" scope="external">certificates@digital.justice.gov.uk</xref></ph>
 			<ph id="cisolong">Chief Information Security Officer (CISO)</ph>
 			<ph id="ciso">CISO</ph>
-			<ph id="cjsmemail"><xref href="mailto:cjsm.helpdesk@egress.com" format="html" scope="external">cjsm.helpdesk@egress.com</xref></ph>
-			<ph id="cjsmemailtext"><xref href="mailto:cjsm.helpdesk@egress.com" format="html" scope="external">CJSM Helpdesk</xref></ph>
-			<ph id="cluster2securityunittext"><xref href="mailto:contactus@cluster2security.gov.uk" format="html" scope="external">Cluster 2 Security Unit</xref></ph>
+			<ph id="cjsmemail">CJSM Helpdesk via <ph conref="#conrefs/securityemailtext"/></ph>
+			<ph id="cjsmemailtext">CJSM Helpdesk via <ph conref="#conrefs/securityemailtext"/></ph>
+			<ph id="cluster2securityunittext">Cluster 2 Security Unit via <ph conref="#conrefs/securityemailtext"/></ph>
 			<ph id="cpnilong">Centre for the Protection of National Infrastructure (CPNI)</ph>
 			<ph id="cpni">CPNI</ph>
 			<ph id="dacuemail"><xref href="mailto:Data.access@justice.gov.uk" format="html" scope="external">Data.access@justice.gov.uk</xref></ph>
@@ -41,7 +41,7 @@
 			<ph id="donot"><b>Do not:</b></ph>
 			<ph id="dont-click-link"><b>Never</b> use the link in an email asking you to change a password. Use an out-of-band method such as going directly to the website to change a password. Be cautious when following password actions requested in emails or texts.</ph>
 			<ph id="gcloud"><xref href="https://www.digitalmarketplace.service.gov.uk/g-cloud" format="html" scope="external">Digital Marketplace (GCloud)</xref></ph>
-			<ph id="giaaemail"><xref href="mailto:correspondence@giaa.gov.uk" format="html" scope="external">correspondence@giaa.gov.uk</xref></ph> <!-- Government Internal Audit Agency -->
+			<ph id="giaaemail">Government Internal Audit Agency via <ph conref="#conrefs/securityemailtext"/></ph>
 			<ph id="gov007"><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></ph>
 			<ph id="groupsecurityemail"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="html" scope="external">mojgroupsecurity@justice.gov.uk</xref></ph>
 			<ph id="groupsecurityemailtext"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="html" scope="external"><ph conref="#conrefs/moj"/> Group Security</xref></ph>
@@ -102,13 +102,13 @@
 			<ph id="softwareassetemail"><xref href="mailto:SoftwareAssetManagement@justice.gov.uk" format="html" scope="external">SoftwareAssetManagement@justice.gov.uk</xref></ph>
 			<ph id="spf"><xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">SPF</xref></ph>
 			<ph id="spflong"><xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">Security Policy Framework (SPF)</xref></ph>
-			<ph id="strapteamemail"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="html" scope="external">STRAPTeam@cluster2security.gov.uk</xref></ph>
-			<ph id="strapteamemailtext"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="html" scope="external">Cluster 2 STRAP team</xref></ph>
+			<ph id="strapteamemail">Cluster 2 STRAP team via <ph conref="#conrefs/securityemailtext"/></ph>
+			<ph id="strapteamemailtext">Cluster 2 STRAP team via <ph conref="#conrefs/securityemailtext"/></ph>
 			<ph id="tablenote"><b>Note:</b></ph>
 			<ph id="topsecret"><ph conref="#conrefs/top-secret"/></ph>
 			<ph id="top-secret"><b>Top Secret</b></ph>
-			<ph id="vettingaftercareemail"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="html" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>			
-			<ph id="vettingaftercareemailtext"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="html" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>
+			<ph id="vettingaftercareemail">Vetting team via <ph conref="#conrefs/securityemailtext"/></ph>			
+			<ph id="vettingaftercareemailtext">Vetting team via <ph conref="#conrefs/securityemailtext"/></ph>
 		</p>
 		<p id="acronyms">A more extensive list of acronyms is available
 			<xref href="https://ministryofjustice.github.io/acronyms/" format="html" scope="external">here</xref>.</p>

@@ -172,7 +172,7 @@ If your, or one of your staff's, NSC is due to expire soon, speak to your NSVC, 
 
 ### If my personal circumstances change, who do I tell?
 
-For all changes in personal circumstances please contact Cluster 2 Personnel Risk Management by emailing: [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk). Failure to report relevant changes could result in withdrawal of clearance.
+For all changes in personal circumstances please contact Cluster 2 Personnel Risk Management by emailing Vetting team via [Security team](mailto:security@justice.gov.uk). Failure to report relevant changes could result in withdrawal of clearance.
 
 You can find more information [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/reporting-personal-circumstance-changes/).
 
