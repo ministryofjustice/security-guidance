@@ -96,7 +96,7 @@ CJSM **shall** only be used to share information up to and including **Official-
 
 CJSM **shall not** be used with multi-client mail relay services such as Mailgun, Mailchimp, or AWS SES.
 
-For further guidance contact the [CJSM Helpdesk](mailto:cjsm.helpdesk@egress.com). Alternatively, further information is available at: [https://www.cjsm.justice.gov.uk/training/index.html](https://www.cjsm.justice.gov.uk/training/index.html).
+For further guidance contact the CJSM Helpdesk via [Security team](mailto:security@justice.gov.uk). Alternatively, further information is available at: [https://www.cjsm.justice.gov.uk/training/index.html](https://www.cjsm.justice.gov.uk/training/index.html).
 
 ## External emails
 
