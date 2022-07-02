@@ -159,9 +159,8 @@
             Those in the <ph conref="conrefs.dita#conrefs/moj"/> Digital and
             Technology team who do not have access to Microsoft Teams
             <ph conref="conrefs.dita#conrefs/policymay"/> use
-            <ph conref="conrefs.dita#conrefs/gsuite"/> to transfer data.</p>
-            <p>For more details on the actual process for a transfer,
-              contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
+            <ph conref="conrefs.dita#conrefs/gsuite"/> to transfer data. Further details on setting up secure transfers with these tools are provided in the <xref href="secure-file-transfer.dita" format="dita">Secure File Transfer</xref> information.</p>
+            <p>For more information on tools that can be used to transfer data securely, see the General App Guidance sections on <xref href="general-user-video-and-messaging-apps-guidance.dita#approved-tools/approved-tools" format="dita" platform="html">Approved tools</xref><xref href="general-user-video-and-messaging-apps-guidance.dita#approved-tools" format="dita" platform="epub pdf">Approved tools</xref> and <xref href="general-user-video-and-messaging-apps-guidance.dita#tools-for-sharing-information-internally-and-externally/tools-for-sharing-information-internally-and-externally" format="dita" platform="html">Tools for sharing information internally and externally</xref><xref href="general-user-video-and-messaging-apps-guidance.dita#tools-for-sharing-information-internally-and-externally" format="dita" platform="epub pdf">Tools for sharing information internally and externally</xref>.</p>
           </body>
         </topic>
         <topic id="data-transfer-by-email">
@@ -225,7 +224,7 @@
           <body>
             <ul>
               <li>The Criminal Justice Secure email Service (CJSM) is provided
-                for criminal justice agencies and practitioners to communicate
+                for criminal justice agencies, practitioners, and providers of services to the justice system to communicate
                 with each other.</li>
               <li>As a general rule,
                 it <ph conref="conrefs.dita#conrefs/policymust"/> only be used

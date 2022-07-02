@@ -197,9 +197,19 @@
         <body>
           <note>This option is only for <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/gsuite"/> users, with <codeph conref="#methods-of-sharing-documents/digitalemail"/> accounts.</note>
           <ol>
-            <li>Using Google Drive, locate the large file you want to share. Right click on the file.<image href="images/sft038.png" placement="break" scope="local"><alt>The image shows a Google Drive window. A file has been selected, and righ-click used to bring up a menu. Within the menu, the 'Share' option has been highighted.</alt></image></li>
-            
-            <li>Choose the <uicontrol>Share</uicontrol> option. A form appears, where you can add the user's email address you want to share to. You can also choose what sort of link will be provided. The default is <uicontrol>Restricted</uicontrol>, which means only the specific named recipients can access the file. Leave the default unchanged.<image href="images/sft040.png" placement="break" scope="local"><alt>The image shows a Google Drive window. A file has been selected, and righ-click used to bring up a menu. Within the menu, the 'Share' option has been highighted.</alt></image></li>
+            <li>Using Google Drive, locate the large file you want to share. Right click on the file.<image href="images/sft038.png" placement="break" scope="local"><alt>The image shows a Google Drive window. A file has been selected, and right-click used to bring up a menu. Within the menu, the 'Share' option has been highighted.</alt></image></li>
+            <li>Choose the <uicontrol>Share</uicontrol> option. A form appears, where you can add the user's email address you want to share to. You can also choose what sort of link will be provided. The default is <uicontrol>Restricted</uicontrol>, which means only the specific named recipients can access the file. Leave the default unchanged.<image href="images/sft040.png" placement="break" scope="local"><alt>The image shows a Google Share window. The name of the file to be shared provides the title for the window. There is a field for adding more people or groups to receive the file. Underneath the field is a list of people who will have access to the file. The permissions they have when accessing the file is listed alongside their name. Underneath the list of people with access is a General access section, which allows selection of the sort of access permitted. The setting is shown as Restricted, meaning that only people granted access can open the file using the link. At the bottom of the window are two buttons. One is to copy the link to the file with the current access permissions. The other is a 'Done' button, which is used when all the desired recipients have been added.</alt></image></li>
+            <li>When you add the first recipient, the window changes to a notification window, confirming which file will be sent to the recipients. You can add more recipients to the list. You can also enter an information message that will be included in the email to the recipients.<image href="images/sft041.png" placement="break" scope="local"><alt>The image shows an updated Google Share window. The name of the file to be shared provides the title for the window. There is a field listing each of the people or groups to receive the file. The permissions they have when accessing the file is listed alongside their name. Underneath the list of people with access is a 'Notify people' checkbox. Underneath the checkbox is a field to enter a notification message that will be sent to the recipients. At the bottom of the window are three buttons. One is to copy the link to the file with the current access permissions. The middle button is a 'Cancel' button, used to abandon the file sharing task. The third button is the 'Send' button, positioned on the right hand side. It is highlighted, indicating that the user is about to send the file share link and message to the list of recipients.</alt></image></li>
+            <li>Before the large file is shared, a dialogue box appears, asking you to confirm that  you want to "Share outside organisation?" Read the message and then click on the <uicontrol>Share anyway</uicontrol> button.<image href="images/sft042.png" placement="break" scope="local"><alt>The image shows a 'Share outside organisation' confirmation dialogue box. The name of the file to be shared is included in a warning message, advising that you are about to share the file with one or more recipients who are outside the MoJ. At the bottom of the window are two buttons. One button is a 'Cancel' button, used to abandon the file sharing task. The other button is the 'Share anyway' button, positioned on the right hand side. It is highlighted, indicating that the user is satisfied that it is correct to send the file share link and message to the list of recipients.</alt></image></li>
+          </ol>
+        </body>
+      </topic>
+      <topic id="recipient-receives-the-shared-google-workspace-file-email">
+        <title>Recipient receives the shared <ph conref="conrefs.dita#conrefs/gsuite"/> file email</title>
+        <body>
+          <ol>
+            <li>The recipient receives an email stating that a file on <ph conref="conrefs.dita#conrefs/gsuite"/> has been shared with them. They click on the <uicontrol>Open</uicontrol> button.<image href="images/sft043.png" placement="break" scope="local"><alt>The image shows an email received by a recipient, advising that a named user is inviting them to access a shared file or folder. The name of the file to be shared is included in the message. Underneath the name of the shared file is a notification area, displaying an information message from the user who is sharing the file. At the bottom of the window is a highlighted <uicontrol>Open</uicontrol> button.</alt></image></li>
+            <li>Ater clicking the <uicontrol>Open</uicontrol> button, the shared file or folder now appears in the recipients file storage area. They have access permissions that correspond to what was specified by the user sharing the file.<image href="images/sft044.png" placement="break" scope="local"><alt>The image shows a portion of the recipients file storage area. It now includes an entry for the shared file. Next to the file name is a small icon of two people side by side, indicating that this is a shared file.</alt></image></li>
           </ol>
         </body>
       </topic>
@@ -207,32 +217,3 @@
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
-
-<!-- 
-
-
-
-
-3.  Before the large file is shared, you will receive a dialogue box
-    confirming you want to “Share outside organisation?” Read the
-    message and then click on the “Share anyway” tab.
-
-<img src="media/image41.png" style="width:3.92361in;height:2.22458in"
-alt="Graphical user interface, text, application, chat or text message Description automatically generated" />
-
-## **Recipient receives the shared Google Drive file email.**
-
-4.  The recipient will receive an email stating that a file on Google
-    Drive has been shared. They then need to click on the "Open” tab.
-
-<img src="media/image42.png" style="width:3.92405in;height:3.2596in"
-alt="Graphical user interface, application, Teams Description automatically generated" />
-
-5.  They should then be able to view the large file based on the
-    permissions you have given.
-
-<img src="media/image43.png" style="width:3.9375in;height:0.96381in"
-alt="Graphical user interface, application Description automatically generated" />
-
-
--->

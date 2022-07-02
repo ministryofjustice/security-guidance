@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 1 July 2022.
+**Note:** This guidance is dated: 2 July 2022.
 
 ### Popular links
 
@@ -35,7 +35,7 @@ For convenience, offline versions of this guidance are available.
 |Group Security. Contains Group Security policy and guidance.|[PDF](moj-guidance-gs.pdf)|[EPUB](moj-guidance-gs.epub)|
 |Technical users. Includes lots of technical detail. This document contains all content, including for 'All users' and from Group Security. Download this document if you want the complete set of published MoJ security policy and guidance.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 1 August 2022.
+The offline versions of this guidance are time-limited, and are not valid after 2 August 2022.
 
 ### Security culture
 
@@ -332,6 +332,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Phishing Guide](phishing-guide.md)|All users|
 |[Secure Data Transfer Guide](secure-data-transfer-guide.md)|All users|
 |[Secure Email Transfer Guide](secure-email-transfer-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+|[Secure File Transfer](secure-file-transfer.md)|All users|
 |[Sending information securely](sending-information-securely.md)|All users|
 |[Spam and Phishing Guide](spam-and-phishing-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Web browsing security policy profiles](web-browsing-security-policy-profiles.md)|All users \(Policy\)|

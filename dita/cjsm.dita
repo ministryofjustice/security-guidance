@@ -3,8 +3,9 @@
 <topic id="cjsm">
   <title>Criminal Justice Secure Mail</title>
   <body>
-    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> operates the CJSM service to enable those people working in the Justice system who do not have access to a suitable email service to exchange information in a safer way.</p>
+    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> operates the <xref href="https://cjsm.justice.gov.uk/" format="html" scope="external">CJSM service</xref> to enable those people working in the Justice system who do not have access to a suitable email service to exchange information in a safer way.</p>
     <p>The <ph conref="conrefs.dita#conrefs/moj"/> does <b>not</b> require the use of CJSM where other suitably secure and efficient means can be used. It is considered a safe option to enable communication but it is only an option.</p>
+    <p>More information on alternative services is provided in the <xref href="secure-data-transfer-guide.dita" format="dita">Secure Data Transfer</xref> guide. Application-specific information is provided in the General App Guidance sections on <xref href="general-user-video-and-messaging-apps-guidance.dita#approved-tools/approved-tools" format="dita" platform="html">Approved tools</xref><xref href="general-user-video-and-messaging-apps-guidance.dita#approved-tools" format="dita" platform="epub pdf">Approved tools</xref> and <xref href="general-user-video-and-messaging-apps-guidance.dita#tools-for-sharing-information-internally-and-externally/tools-for-sharing-information-internally-and-externally" format="dita" platform="html">Tools for sharing information internally and externally</xref><xref href="general-user-video-and-messaging-apps-guidance.dita#tools-for-sharing-information-internally-and-externally" format="dita" platform="epub pdf">Tools for sharing information internally and externally</xref>.</p>
   </body>
   <topic id="government-secure-email-policy">
     <title>Government secure email policy</title>

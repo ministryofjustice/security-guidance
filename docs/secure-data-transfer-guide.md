@@ -53,9 +53,9 @@ Normally, files **should not** be transferred by email. Normally, files **should
 
 The MoJ's preferred method of data sharing is to use Microsoft Teams via Sharepoint. Teams has been authorised to hold **Official-Sensitive** information. It is configured to provide greater granular protection through tools such as Azure Information Protection \(AIP\). Where possible, data **should** be transferred using Teams.
 
-Due to the diverse nature of the MoJ's architecture, using Teams might not always be possible. Those in the MoJ Digital and Technology team who do not have access to Microsoft Teams **may** use Google Workspace to transfer data.
+Due to the diverse nature of the MoJ's architecture, using Teams might not always be possible. Those in the MoJ Digital and Technology team who do not have access to Microsoft Teams **may** use Google Workspace to transfer data. Further details on setting up secure transfers with these tools are provided in the [Secure File Transfer](secure-file-transfer.md) information.
 
-For more details on the actual process for a transfer, contact the [Security team](mailto:security@justice.gov.uk).
+For more information on tools that can be used to transfer data securely, see the General App Guidance sections on [Approved tools](general-user-video-and-messaging-apps-guidance.md#approved-tools) and [Tools for sharing information internally and externally](general-user-video-and-messaging-apps-guidance.md#tools-for-sharing-information-internally-and-externally).
 
 ### Data Transfer by email
 
@@ -70,7 +70,7 @@ Where it is not possible to use Microsoft Teams or Google Workspace, **AND** the
 
 ### CJSM email
 
--   The Criminal Justice Secure email Service \(CJSM\) is provided for criminal justice agencies and practitioners to communicate with each other.
+-   The Criminal Justice Secure email Service \(CJSM\) is provided for criminal justice agencies, practitioners, and providers of services to the justice system to communicate with each other.
 -   As a general rule, it **shall** only be used for purposes relating to the criminal justice service.
 
 ### Microsoft 365 Encrypted email

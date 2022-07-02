@@ -1,60 +1,56 @@
-# Secure file transfer
+#Secure file transfer
 
-## Introduction
+##Introduction
 
-This procedure document assists users who need to share [**Official-Sensitive**](data-handling-and-information-sharing-guide.md#electronic-data-transfer-and-storage) information through a secure encrypted method to partners or external users outside the Ministry of Justice \(MoJ\).
+This procedure document assists users who need to share [**Official-Sensitive**](https://security-guidance.service.justice.gov.uk/data-handling-and-information-sharing-guide/#electronic-data-transfer-and-storage) information through a secure encrypted method to partners or external users outside the Ministry of Justice (MoJ).
 
-There are several methods [available](general-user-video-and-messaging-apps-guidance.md#tools-for-sharing-information-internally-and-externally) for sending files if the preferred Criminal Justice Secure Exchange \(CJSE\) method is not possible.
+There are several methods [available](https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/#tools-for-sharing-information-internally-and-externally) for sending files if the preferred Criminal Justice Secure Exchange (CJSE) method is not possible.
 
-**Note:** Regardless of whether the **Official-Sensitive** information is shared with or received from an external party, [out of band checks](glossary.md#out-of-band-checks) **should** be carried out to confirm the legitimacy of the communications and requests.
+**Note:** Regardless of whether the **Official-Sensitive** information is shared with or received from an external party, [out of band checks](https://security-guidance.service.justice.gov.uk/glossary/#out-of-band-checks) **should** be carried out to confirm the legitimacy of the communications and requests.
 
-**Note:** You **shall** comply with MoJ [security policies](cyber-and-technical-security-guidance.md), and refer to guidance on MoJ approved [applications](general-user-video-and-messaging-apps-guidance.md).
+**Note:** You **shall** comply with MoJ [security policies](https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/), and refer to guidance on MoJ approved [applications](https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/).
 
-## Methods of sharing documents
+##Methods of sharing documents
 
 |Domain|Applications|File size|Internal or external|Examples|
 |------|------------|---------|--------------------|--------|
 |`*.*@justice.gov.uk`|SharePoint, MS Teams, or OneDrive|Over 25MB|External, including third-party suppliers, legal teams, or other government departments outside of the MoJ.|Multiple files more than 25MB each.|
 |`*.*@justice.gov.uk`|Outlook encrypted email|Under 25MB|Internal and external.|Sending a few documents less than 25MB each.|
 |`*.*@digital.justice.gov.uk`|Google Workspace|Under 25MB|Internal and external.|Sending a few documents less than 25MB each.|
-|`*.*@digital.justice.gov.uk`|Google Drive \(part of Google Workspace\)|Over 25MB|External, including third-party suppliers, legal teams, or other government departments outside of the MoJ.|Multiple files more than 25MB each|
+|`*.*@digital.justice.gov.uk`|Google Drive (part of Google Workspace)|Over 25MB|External, including third-party suppliers, legal teams, or other government departments outside of the MoJ.|Multiple files more than 25MB each|
 
-**Note:** The term Google Workspace rather than Google "GSuite" is used now, with Google Drive \(Drive\) included as part of the Google Workspace integrated tools.
+**Note:** The term Google Workspace rather than Google "GSuite" is used now, with Google Drive (Drive) included as part of the Google Workspace integrated tools.
 
-**Note:** For further information on the controls in place when sharing sensitive information, refer to the [information sharing](data-handling-and-information-sharing-guide.md#information-sharing) section of the Data Handling and Information Sharing Guide.
+**Note:** For further information on the controls in place when sharing sensitive information, refer to the [information sharing](https://security-guidance.service.justice.gov.uk/data-handling-and-information-sharing-guide/#information-sharing) section of the Data Handling and Information Sharing Guide.
 
-## Objectives of this procedure
+##Objectives of this procedure
 
--   To provide step-by-step instructions on how to transfer files externally.
--   Follow policies and procedures to ensure MoJ information and services are protected.
--   To share information with interested parties on a need-to-know basis only.
+* To provide step-by-step instructions on how to transfer files externally.
+* Follow policies and procedures to ensure MoJ information and services are protected.
+* To share information with interested parties on a need-to-know basis only.
 
-## Alternative methods and processes
+##Alternative methods and processes
 
-<a name="criminal-justice-secure-mail-cjsm"></a>
+* **Criminal Justice Secure Mail (CJSM)**
 
--   **Criminal Justice Secure Mail \(CJSM\)**
+    CJSM is the approved secure email solution.
 
-    [CJSM](cjsm.md) is the approved secure email solution.
+* **Data Movement Form (DMF)**
 
-<a name="data-movement-form-dmf"></a>
-
--   **Data Movement Form \(DMF\)**
-
-    A [DMF](data-handling-and-information-sharing-guide.md#data-movement-form-dmf) is required for all bulk file transfers. All requests **shall** be reviewed and approved by the MoJ [Justice Digital Security Operations Centre \(SOC\)](mailto:security@justice.gov.uk).
+    A [DMF](https://security-guidance.service.justice.gov.uk/data-handling-and-information-sharing-guide/#data-movement-form-dmf) is required for all bulk file transfers. All requests **shall** be reviewed and approved by the MoJ [Justice Digital Security Operations Centre (SOC)](mailto:security@justice.gov.uk).
 
 
 **Note:** You **shall not** use personal accounts for work purposes. This includes using personal systems such as Gmail, Hotmail, or Yahoo mail to send or receive emails for work purposes. You **shall** use your officially-issued `*.*@justice.gov.uk` or `*.*@digital.justice.gov.uk` email address for MoJ business.
 
-## Receiving password protected files
+##Receiving password protected files
 
 It is acceptable to receive password protected files from external parties or from the public. However, you **shall** carry out the following checks:
 
--   Confirm that the file was received from a known and reputable source or sender. Do this by performing an [out of band check](glossary.md#out-of-band-checks).
--   The password needed to access the file **shall** be shared separately from the file, and **shall not** be provided using the same method as was used to send the file. In other words, if the password protected file is received by email, the password **shall** be received through another method, not by email.
--   The contents of a password protected file cannot always be scanned during entry into MoJ systems. In such cases, the password protected file **shall** go through an isolated local folder or computer disconnected from the network, where it is decrypted and then scanned before progressing further or being uploaded into MoJ systems.
+* Confirm that the file was received from a known and reputable source or sender. Do this by performing an [out of band check](https://security-guidance.service.justice.gov.uk/glossary/#out-of-band-checks).
+* The password needed to access the file **shall** be shared separately from the file, and **shall not** be provided using the same method as was used to send the file. In other words, if the password protected file is received by email, the password **shall** be received through another method, not by email.
+* The contents of a password protected file cannot always be scanned during entry into MoJ systems. In such cases, the password protected file **shall** go through an isolated local folder or computer disconnected from the network, where it is decrypted and then scanned before progressing further or being uploaded into MoJ systems.
 
-## Sharing files using Microsoft OneDrive or SharePoint
+##Sharing files using Microsoft OneDrive or SharePoint
 
 **Note:** A tutorial on Microsoft OneDrive is [available](https://support.microsoft.com/en-us/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07). A tutorial on Microsoft SharePoint is also [available](https://support.microsoft.com/en-us/office/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c).
 
@@ -90,7 +86,7 @@ It is acceptable to receive password protected files from external parties or fr
 
 10. When you click the **Send** button, an email is sent from your`*.*@justice.gov.uk` email account to the selected recipients. The email contains a link to the document.
 
-### Recipient receives an email with a link to the file
+##Recipient receives an email with a link to the file
 
 1.  Each recipient receives a link to the file within the email. They initiate access by clicking on the **Open** button.
 
@@ -102,7 +98,7 @@ It is acceptable to receive password protected files from external parties or fr
 
 3.  When the recipient clicks the **Open** button in the 'file share' email, they are asked to provide the account verification code before they can access the file content.
 
-## Sharing Files Using Microsoft Teams
+##Sharing Files Using Microsoft Teams
 
 **Note:** A tutorial on Microsoft Teams is [available](https://support.microsoft.com/en-us/office/microsoft-teams-video-training-4f108e54-240b-4351-8084-b1089f0d21d7).
 
@@ -154,7 +150,7 @@ It is acceptable to receive password protected files from external parties or fr
 
 When a recipient is added to a shared folder, they receive an email inviting them to **Join a Teams Folder**. They should use their email address to log in and access the shared information. The email address is the same one used to receive the invitation.
 
-## Sharing files using Microsoft Outlook
+##Sharing files using Microsoft Outlook
 
 1.  If you are using a Mac client laptop, once you have completed the content of your Outlook email, from the email menu bar, select **Options** and then click on **Encrypt**.
 
@@ -189,7 +185,7 @@ When a recipient is added to a shared folder, they receive an email inviting the
     ![The image shows the normal email display page, containing the email that has now been successfully accessed by the authorised recipient.](images/sft027.png)
 
 
-## Sharing files using Google Workspace
+##Sharing files using Google Workspace
 
 Pre-requisite: Ensure you have a current and correct mobile phone telephone number for each of your recipients. This contact number is used to send them a unique PIN code to unlock shared files.
 
@@ -214,7 +210,7 @@ Pre-requisite: Ensure you have a current and correct mobile phone telephone numb
     ![The image shows an example of an encrypted email sent to the recipient. At the bottom of the email, there is a warning panel advising that the content has an expiry date, after which recipients will not be able to forward, copy, print, or download the email.](images/sft032.png)
 
 
-### Recipient receives the encrypted email
+##Recipient receives the encrypted email
 
 1.  The recipient receives a notification email from Google Workspace, advising that they have been sent an email which can only be accessed by the authorised recipient. Click the **View the email** button.
 
@@ -237,7 +233,7 @@ Pre-requisite: Ensure you have a current and correct mobile phone telephone numb
     ![The image shows a newly-unlocked email after the recipient successfully entered the correct Passcode.](images/sft037.png)
 
 
-### Very large file using Google Workspace
+##Very large file using Google Workspace
 
 **Note:** This option is only for MoJ Google Workspace users, with `*.*@digital.justice.gov.uk` accounts.
 
@@ -258,7 +254,7 @@ Pre-requisite: Ensure you have a current and correct mobile phone telephone numb
     ![The image shows a 'Share outside organisation' confirmation dialogue box. The name of the file to be shared is included in a warning message, advising that you are about to share the file with one or more recipients who are outside the MoJ. At the bottom of the window are two buttons. One button is a 'Cancel' button, used to abandon the file sharing task. The other button is the 'Share anyway' button, positioned on the right hand side. It is highlighted, indicating that the user is satisfied that it is correct to send the file share link and message to the list of recipients.](images/sft042.png)
 
 
-### Recipient receives the shared Google Workspace file email
+##Recipient receives the shared Google Workspace file email
 
 1.  The recipient receives an email stating that a file on Google Workspace has been shared with them. They click on the **Open** button.
 
@@ -269,11 +265,13 @@ Pre-requisite: Ensure you have a current and correct mobile phone telephone numb
     ![The image shows a portion of the recipients file storage area. It now includes an entry for the shared file. Next to the file name is a small icon of two people side by side, indicating that this is a shared file.](images/sft044.png)
 
 
-## Contact details
+##Contact details
 
 For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
-## Feedback
+---
+
+##Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

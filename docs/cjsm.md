@@ -1,8 +1,10 @@
 # Criminal Justice Secure Mail
 
-The Ministry of Justice \(MoJ\) operates the CJSM service to enable those people working in the Justice system who do not have access to a suitable email service to exchange information in a safer way.
+The Ministry of Justice \(MoJ\) operates the [CJSM service](https://cjsm.justice.gov.uk/) to enable those people working in the Justice system who do not have access to a suitable email service to exchange information in a safer way.
 
 The MoJ does **not** require the use of CJSM where other suitably secure and efficient means can be used. It is considered a safe option to enable communication but it is only an option.
+
+More information on alternative services is provided in the [Secure Data Transfer](secure-data-transfer-guide.md) guide. Application-specific information is provided in the General App Guidance sections on [Approved tools](general-user-video-and-messaging-apps-guidance.md#approved-tools) and [Tools for sharing information internally and externally](general-user-video-and-messaging-apps-guidance.md#tools-for-sharing-information-internally-and-externally).
 
 ## Government secure email policy
 
