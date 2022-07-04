@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-07-04-14:23-bst-[correct-broken-links](https:-security-guidance.service.justice.gov.uk-security-log-collection-)"></a>
+
+-   **2022-07-04 14:23 BST [Correct broken links](https://security-guidance.service.justice.gov.uk/security-log-collection/)**
+
+    Internal links on a page were broken; now fixed.
+
 <a name="2022-06-23-12:02-bst-[accessibility-updates](https:-security-guidance.service.justice.gov.uk-acceptable-use-policy-)"></a>
 
 -   **2022-06-23 12:02 BST [Accessibility updates](https://security-guidance.service.justice.gov.uk/acceptable-use-policy/)**
