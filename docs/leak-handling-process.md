@@ -71,7 +71,7 @@ This process is aimed at all staff working for, or supplying services to, the Mo
 
 **Note:** These process steps apply to an informal leak investigation that is internal to the MoJ. If a formal leak investigation is required, it will be identified and initiated as part of the informal leak investigation process.
 
-### Step 1: Identify leak
+### 1. Identify leak
 
 1.  A leak investigation is requested. The request might come from any of:
 
@@ -86,52 +86,52 @@ This process is aimed at all staff working for, or supplying services to, the Mo
     -   Other cross-government source.
 2.  The request indicates that a leak investigation is required. The request is submitted to the [Shared Security Team](mailto:security@justice.gov.uk).
 
-3.  Proceed to [step 2](#step-2-forward-leak-request).
+3.  Proceed to [step 2](#2-forward-leak-request).
 
 
-### Step 2: Forward leak request
+### 2. Forward leak request
 
 1.  The [Shared Security Team](mailto:security@justice.gov.uk) forwards all received requests to [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk).
-2.  Proceed to [step 3](#step-3-is-it-a-leak).
+2.  Proceed to [step 3](#3-is-it-a-leak).
 
 
-### Step 3: Is it a leak?
+### 3. Is it a leak?
 
 1.  [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk) evaluates the request.
 
-2.  If it is decided that the situation is indeed a leak, then proceed to step [3.1](#step-31-require-informal-leak-investigation).
+2.  If it is decided that the situation is indeed a leak, then proceed to step [3.1](#31-require-informal-leak-investigation).
 
-3.  If it is decided that the situation is not a leak, or it is not clear whether the situation is a leak, the request is sent to the [Justice Digital SOC](mailto:MisuseInvestigationTeam@justice.gov.uk). Proceed to step [3.2](#step-32-information-and-sign-off-check).
+3.  If it is decided that the situation is not a leak, or it is not clear whether the situation is a leak, the request is sent to the [Justice Digital SOC](mailto:MisuseInvestigationTeam@justice.gov.uk). Proceed to step [3.2](#32-information-and-sign-off-check).
 
 
-### Step 3.1: Require informal leak investigation
+### 3.1. Require informal leak investigation
 
 1.  Group Security reviews the request to determine if a leak investigation is required.
 
-2.  If a leak investigation is needed, go to step [3.1.1](#step-311-produce-informal-investigation-report).
+2.  If a leak investigation is needed, go to step [3.1.1](#311-produce-informal-investigation-report).
 
 3.  If a leak investigation is not needed, the [Shared Security Team](mailto:security@justice.gov.uk) notifies the Requestor that a leak investigation is not required, based on the rationale provided by Group Security. The leak process ends. No further action is required.
 
 
-### Step 3.1.1: Produce informal investigation report
+### 3.1.1. Produce informal investigation report
 
 1.  Group Security produces an informal investigation report with input from the Cyber Security Team. The report describes the findings and recommendations.
 
 2.  The report is sent to the Requestor.
 
-3.  Proceed to step [3.1.2](#step-312-receive-investigation-report).
+3.  Proceed to step [3.1.2](#312-receive-investigation-report).
 
 
-### Step 3.1.2: Receive investigation report
+### 3.1.2. Receive investigation report
 
 1.  The Requestor receives the informal leak report.
 
 2.  If the report is satisfactory, and no escalation is required or requested, the process ends. No further action is required.
 
-3.  If the report is not satisfactory, or an escalation is required or requested, proceed to step [3.1.3](#step-313-escalate-leak-request).
+3.  If the report is not satisfactory, or an escalation is required or requested, proceed to step [3.1.3](#313-escalate-leak-request).
 
 
-### Step 3.1.3: Escalate leak request
+### 3.1.3. Escalate leak request
 
 1.  Group Security re-evaluates the leak request, in the light of the informal leak report.
 
@@ -139,59 +139,59 @@ This process is aimed at all staff working for, or supplying services to, the Mo
 
 3.  If an escalation is required or requested, Group Security begins the process of requesting formal leak investigation.
 
-4.  Proceed to step [3.2](#step-32-information-and-sign-off-check) to continue and complete the informal leak investigation.
+4.  Proceed to step [3.2](#32-information-and-sign-off-check) to continue and complete the informal leak investigation.
 
 
-### Step 3.2: Information and sign off check
+### 3.2. Information and sign off check
 
 1.  The Justice Digital SOC Lead checks that the leak investigation request is complete with all required information and the required sign-off. This confirms the legitimacy of the investigation.
 
-2.  If the request is incomplete or not signed off, the Justice Digital SOC Lead connects back to the Requestor to provide this information. The process returns to step [3.1.2](#step-312-receive-investigation-report).
+2.  If the request is incomplete or not signed off, the Justice Digital SOC Lead connects back to the Requestor to provide this information. The process returns to step [3.1.2](#312-receive-investigation-report).
 
-3.  If the request is complete and signed off, go to step [3.2.1](#step-321-create-incident).
+3.  If the request is complete and signed off, go to step [3.2.1](#321-create-incident).
 
 
-### Step 3.2.1: Create incident
+### 3.2.1. Create incident
 
 1.  The Justice Digital SOC Lead assigns an Justice Digital SOC Analyst to the request.
 
 2.  The Justice Digital SOC Analyst creates a ServiceNow 'placeholder' incident using the Technology Portal. In all cases, the title of the placeholder **shall** be "An investigation carried out by the SOC."
 
-3.  Proceed to step [3.2.2](#step-322-collect-evidence).
+3.  Proceed to step [3.2.2](#322-collect-evidence).
 
 
 **Note:** **Do not include any case details within the ServiceNow incident.** Use the ServiceNow incident number, plus any Requester case reference numbers or descriptions, for all correspondence, case notes or tracker updates.
 
-### Step 3.2.2: Collect evidence
+### 3.2.2. Collect evidence
 
 1.  The Justice Digital SOC Analyst starts the leak investigation, using tools appropriate to the platform, system, or location from which the data was leaked.
 
 2.  Evidence is collected, secured and validated with checksums, following forensic best practices.
 
-3.  Proceed to step [3.2.3](#step-323-process-evidence-and-produce-report).
+3.  Proceed to step [3.2.3](#323-process-evidence-and-produce-report).
 
 
 **Note:** The Justice Digital SOC Analyst **shall** record all the steps taken for each request in OneNote. These contemporaneous notes **shall** include supporting data, such as photos, screenshots and images. In addition, each entry **shall** be supported by the Analyst's comments.
 
-### Step 3.2.3: Process evidence and produce report
+### 3.2.3. Process evidence and produce report
 
 1.  The Justice Digital SOC Analyst processes or analyses the data as needed and produces a report.
 
-2.  Proceed to step [3.2.4](#step-324-close-servicenow-incident).
+2.  Proceed to step [3.2.4](#324-close-servicenow-incident).
 
 
-### Step 3.2.4: Close ServiceNow incident
+### 3.2.4. Close ServiceNow incident
 
 1.  The Justice Digital SOC Analyst confirms that the leak investigation request can be closed with the Requestor.
 
-2.  When confirmation is received, the Justice Digital SOC Analyst provides the Requestor with a concluding report outlining the findings and recommendations established during step [3.1.2](#step-312-receive-investigation-report).
+2.  When confirmation is received, the Justice Digital SOC Analyst provides the Requestor with a concluding report outlining the findings and recommendations established during step [3.1.2](#312-receive-investigation-report).
 
 3.  The Justice Digital SOC Analyst updates and closes the ServiceNow Incident.
 
-4.  Proceed to step [3.2.5](#step-325-update-tracker-and-onenote).
+4.  Proceed to step [3.2.5](#325-update-tracker-and-onenote).
 
 
-### Step 3.2.5: Update Tracker and OneNote
+### 3.2.5. Update Tracker and OneNote
 
 1.  The Justice Digital SOC Analyst updates the Tracker spreadsheet in Teams and the OneNote record.
 
