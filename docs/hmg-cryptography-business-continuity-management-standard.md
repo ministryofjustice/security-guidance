@@ -88,7 +88,7 @@ If there has been any damage to any of the encryption stored at the MoJ:
 
     notifying them of the event and request an immediate record of holdings list.
 
--   A CINRAS report must be generated and issued to: cinras@cesg.gsi.gov.uk
+-   A CINRAS report must be generated and issued to CINRAS \(contact via Security Team\)
 
     and a copy to the Security Team: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 

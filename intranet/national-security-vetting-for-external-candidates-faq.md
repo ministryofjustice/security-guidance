@@ -154,7 +154,7 @@ Speak to your national security vetting contact (NSVC), they will decide if it n
 
 ##Q3. My personal circumstances have changed, who should I advise?
 
-For all changes in personal circumstances, please contact Cluster 2 Personnel Risk Management by emailing: [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk). Failure to report relevant changes could result in withdrawal of clearance.
+For all changes in personal circumstances, please contact Cluster 2 Personnel Risk Management by emailing Vetting team via [Security team](mailto:security@justice.gov.uk). Failure to report relevant changes could result in withdrawal of clearance.
 
 ##Contact details
 

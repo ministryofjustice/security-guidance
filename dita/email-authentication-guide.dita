@@ -156,7 +156,7 @@
             </row>
             <row>
               <entry colname="col1"><codeph>*.cjsm.net</codeph></entry>
-              <entry colname="col2"><xref href="mailto:cjsm.helpdesk@egress.com" format="html" scope="external">Egress</xref></entry>
+              <entry colname="col2">Egress via <ph conref="conrefs.dita#conrefs/securityemailtext"/></entry>
             </row>
           </tbody>
         </tgroup>
@@ -168,7 +168,7 @@
     <body>
       <p>Record type: <codeph>TXT</codeph></p>
       <p>Host or record name: <codeph>dmarc</codeph></p>
-      <p>Record value: <codeph>v=DMARC1;p=none;fo=1;rua=mailto:dmarc-rua@dmarc.service.gov.uk,mailto:dmarc@&lt;yourdomain.gov.uk&gt;</codeph></p>
+      <p>Record value: <codeph>v=DMARC1;p=none;fo=1;rua=mailto:&lt;example dmarc email address&gt;,mailto:dmarc@&lt;yourdomain.gov.uk&gt;</codeph></p>
       <p>Create the email address and put your domain in place of <codeph>&lt;yourdomain.gov.uk&gt;</codeph>.</p>
     </body>
   </topic>
