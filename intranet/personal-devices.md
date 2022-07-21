@@ -41,7 +41,19 @@ Personal devices **shall not** be charged from the USB ports of an MoJ device.
 * You **shall not** store work files or information on a personal storage device or memory stick, such as an external drive, thumb drive, or USB stick.
 * Some teams within the MoJ **might** have permission to use personal devices for some tasks. This permission continues, but is being reviewed on an on-going basis. Ensure that you have documented approval recording your permission. Ensure that the permission is no more than 12 months old. To request or refresh permission, ask your Line Manager to seek approval by checking with the [Security team](mailto:security@justice.gov.uk).
 
-**Note:** You are not asked or required to use your own devices for work purposes. If you have access to MoJ devices for work purposes, you **shall** use them by default.
+**Note:** You are not asked or required to use your own devices for work purposes. Statement **POL.MOB.009** of the [mobile device and remote working policy](https://security-guidance.service.justice.gov.uk/mobile-device-and-remote-working-policy/#use-of-private-equipment) makes clear that you **should not** use personal devices for MoJ work purposes. If you have access to MoJ devices for work purposes, you **shall** use them by default.
+
+##Using MoJ tools on personal devices
+
+In accordance with other policy on the use of personal devices, and the use of mobile devices specifically, you **shall not** use personal devices to access MoJ tools, such as MoJ Slack workspaces.
+
+**Note:** The rest of this section refers to Slack workspaces, but applies equally to other MoJ tools, such as Teams, Trello, Jira, and so on.
+
+You could of course use personal devices to access other (non-MoJ) Slack communities.
+
+The point is that you **should not** use personal devices for MoJ work purposes. Slack workspaces are official MoJ workspaces and **should** only be accessed using MoJ devices.
+
+Personal devices are not allowed to access services or content containing **Official-Sensitive** data. Work devices **shall** be used to access MoJ services such as MoJ Slack communities. If you do not have a work mobile device, and need to access services such as Slack on a mobile device, you **should** request one using [Service Now](https://mojprod.service-now.com/moj_sp/?id=home).
 
 ##Virtual environment
 

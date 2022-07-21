@@ -50,9 +50,18 @@
             ask your Line Manager to seek approval by checking with
           the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</li>
       </ul>
-      <note>You are not asked or required to use your own devices for work purposes.
-        If you have access to <ph conref="conrefs.dita#conrefs/moj"/> devices for work purposes,
-        you <ph conref="conrefs.dita#conrefs/policyshall"/> use them by default.</note>
+      <note>You are not asked or required to use your own devices for work purposes. Statement <b>POL.MOB.009</b> of the
+        <xref href="mobile-device-and-remote-working-policy.dita#use-of-private-equipment/use-of-private-equipment" format="dita" audience="audience-basic audience-suppliers audience-tech" platform="html">mobile device and remote working policy</xref><xref href="mobile-device-and-remote-working-policy.dita#use-of-private-equipment" format="dita" audience="audience-basic audience-suppliers audience-tech" platform="epub pdf">mobile device and remote working policy</xref><ph audience="audience-gs">mobile device and remote working policy</ph> makes clear that you <ph conref="conrefs.dita#conrefs/policyshouldnot"/> use personal devices for <ph conref="conrefs.dita#conrefs/moj"/> work purposes. If you have access to <ph conref="conrefs.dita#conrefs/moj"/> devices for work purposes, you <ph conref="conrefs.dita#conrefs/policyshall"/> use them by default.</note>
+    </body>
+  </topic>
+  <topic id="using-moj-tools-on-personal-devices">
+    <title>Using <ph conref="conrefs.dita#conrefs/moj"/> tools on personal devices</title>
+    <body>
+      <p>In accordance with other policy on the use of personal devices, and the use of mobile devices specifically, you <ph conref="conrefs.dita#conrefs/policyshallnot"/> use personal devices to access <ph conref="conrefs.dita#conrefs/moj"/> tools, such as <ph conref="conrefs.dita#conrefs/moj"/> Slack workspaces.</p>
+      <note>The rest of this section refers to Slack workspaces, but applies equally to other <ph conref="conrefs.dita#conrefs/moj"/> tools, such as Teams, Trello, Jira, and so on.</note>
+      <p>You could of course use personal devices to access other (non-<ph conref="conrefs.dita#conrefs/moj"/>) Slack communities.</p>
+      <p>The point is that you <ph conref="conrefs.dita#conrefs/policyshouldnot"/> use personal devices for <ph conref="conrefs.dita#conrefs/moj"/> work purposes. Slack workspaces are official <ph conref="conrefs.dita#conrefs/moj"/> workspaces and <ph conref="conrefs.dita#conrefs/policyshould"/> only be accessed using <ph conref="conrefs.dita#conrefs/moj"/> devices.</p>
+      <p>Personal devices are not allowed to access services or content containing <ph conref="conrefs.dita#conrefs/official-sensitive"/> data. Work devices <ph conref="conrefs.dita#conrefs/policyshall"/> be used to access <ph conref="conrefs.dita#conrefs/moj"/> services such as <ph conref="conrefs.dita#conrefs/moj"/> Slack communities. If you do not have a work mobile device, and need to access services such as Slack on a mobile device, you <ph conref="conrefs.dita#conrefs/policyshould"/> request one using <xref href="https://mojprod.service-now.com/moj_sp/?id=home" format="html" scope="external">Service Now</xref>.</p>
     </body>
   </topic>
   <topic id="virtual-environment">
