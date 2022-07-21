@@ -9,7 +9,7 @@
     <p audience="audience-basic audience-tech">Examples include:
     <ul>
       <li><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita" platform="github">General advice on taking equipment overseas</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/accessing-moj-it-systems-overseas/taking-equipment-overseas/" format="html" scope="external" platform="intranet">Taking equipment overseas</xref>.</li>
-      <li><xref href="personal-devices.dita" format="dita" platform="github">Personal Devices</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/using-a-personal-device" format="html" scope="external" platform="github">Personal device use</xref>.</li>
+      <li><xref href="personal-devices.dita" format="dita" platform="github">Personal Devices</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/using-a-personal-device" format="html" scope="external" platform="intranet">Personal device use</xref>.</li>
     </ul></p>
     <p>This guidance describes what you should do. The guidance contains steps to follow for <xref href="#steps-to-follow-line-managers" format="dita">Line Managers</xref>, and their <xref href="#steps-to-follow-direct-reports" format="dita">Direct Reports</xref>.</p>
   </body>
@@ -30,7 +30,7 @@
         An email is enough for this.</li>
         <li id="step7">If you don't think they can follow the Policies, or there's a weak business case for the request, refuse it.</li>
         <li>Keep a copy of your formal reply, in accord with Data Retention requirements.</li>
-        <li>Some <ph conref="conrefs.dita#conrefs/moj"/> IT Policies need a copy of formal approval for other parties. For example, before your DR travels to some countries on <ph conref="conrefs.dita#conrefs/moj"/> business, send a copy of your approval to Operational Security: <ph conref="conrefs.dita#conrefs/ostemail"/>.</li>
+        <li>Some <ph conref="conrefs.dita#conrefs/moj"/> IT Policies need a copy of formal approval for other parties. For example, before your DR travels to some countries on <ph conref="conrefs.dita#conrefs/moj"/> business, send a copy of your approval to <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</li>
       </ol>
     </body>
   </topic>

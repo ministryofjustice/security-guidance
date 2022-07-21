@@ -4,11 +4,11 @@
 
 National Security Vetting decisions are made based on information available at the point of clearance. However, people's lives change over the course of a clearance. It is important that relevant changes are reported so that any risks can be assessed and managed.
 
-To maintain your security clearance, it is your responsibility to declare relevant changes in your personal circumstances to [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk). Failure to report relevant changes could result in withdrawal of clearance.
+To maintain your security clearance, it is your responsibility to declare relevant changes in your personal circumstances to Vetting team via [Security team](mailto:security@justice.gov.uk). Failure to report relevant changes could result in withdrawal of clearance.
 
-You **SHALL** contact [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk) if there is any significant change in your personal circumstances and **SHALL** alert your line manager or contact the [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk) directly if you become aware of any other issue which might increase your security vulnerability.
+You **shall** contact Vetting team via [Security team](mailto:security@justice.gov.uk) if there is any significant change in your personal circumstances and **shall** alert your line manager or contact the Vetting team via [Security team](mailto:security@justice.gov.uk) directly if you become aware of any other issue which might increase your security vulnerability.
 
-Please contact [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk) if you have any of the following changes to your personal circumstances.
+Please contact Vetting team via [Security team](mailto:security@justice.gov.uk) if you have any of the following changes to your personal circumstances.
 
 **Parent topic:** [Personnel security clearances](https://security-guidance.service.justice.gov.uk/personnel-security-clearances/)
 
@@ -63,9 +63,9 @@ In some cases where further checks need to be conducted, you are asked to comple
 
 ##Changes in circumstances for another member of SC cleared staff
 
-If you become aware of a change in circumstance for another member of security cleared staff, you **SHOULD** remind them of their responsibility to report this to [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk).
+If you become aware of a change in circumstance for another member of security cleared staff, you **should** remind them of their responsibility to report this to Vetting team via [Security team](mailto:security@justice.gov.uk).
 
-You must alert your line manager or [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk) if you become aware of any other issues which might increase your security vulnerability, or the security vulnerability of a security cleared colleague. All staff **SHOULD** be mindful of circumstances and behaviours that might render staff susceptible to pressure, or improper influence, or could otherwise indicate unreliability.
+You must alert your line manager or Vetting team via [Security team](mailto:security@justice.gov.uk) if you become aware of any other issues which might increase your security vulnerability, or the security vulnerability of a security cleared colleague. All staff **should** be mindful of circumstances and behaviours that might render staff susceptible to pressure, or improper influence, or could otherwise indicate unreliability.
 
 Other obvious changes in circumstances, aside from those already listed previously, are:
 
@@ -77,11 +77,11 @@ Other obvious changes in circumstances, aside from those already listed previous
 * Involvement with extreme political groups or inappropriate associations.
 * Sexual behaviour is a security concern if it involves a criminal activity, indicates a personality or emotional disorder, subjects the individual to coercion, exploitation, or duress, or reflects lack of judgement or discretion. Sexual orientation or preference are not in themselves disqualifying factors, and are not used as a basis for clearance decisions.
 
-All reports are treated in strict confidence. It is always better to alert a line manager or contact [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk) directly, rather than to ignore an issue or take no action.
+All reports are treated in strict confidence. It is always better to alert a line manager or contact Vetting team via [Security team](mailto:security@justice.gov.uk) directly, rather than to ignore an issue or take no action.
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ---
 

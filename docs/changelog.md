@@ -2,6 +2,72 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-07-21-13:45-bst-[guidance-on-use-of-personal-devices](https:-security-guidance.service.justice.gov.uk-personal-devices-#using-moj-tools-on-personal-devices)"></a>
+
+-   **2022-07-21 13:45 BST [Guidance on use of personal devices](https://security-guidance.service.justice.gov.uk/personal-devices/#using-moj-tools-on-personal-devices)**
+
+    Added clarification and emphasis that personal devices must not be used for work purposes. This includes accessing MoJ Slack channels using personal devices.
+
+<a name="2022-07-04-14:23-bst-[correct-broken-links](https:-security-guidance.service.justice.gov.uk-security-log-collection-)"></a>
+
+-   **2022-07-04 14:23 BST [Correct broken links](https://security-guidance.service.justice.gov.uk/security-log-collection/)**
+
+    Internal links on a page were broken; now fixed.
+
+<a name="2022-06-23-12:02-bst-[accessibility-updates](https:-security-guidance.service.justice.gov.uk-acceptable-use-policy-)"></a>
+
+-   **2022-06-23 12:02 BST [Accessibility updates](https://security-guidance.service.justice.gov.uk/acceptable-use-policy/)**
+
+    Improved the content tagging following guidance on accessibility improvements. Affects all pages, the link in this notification is to an example page.
+
+<a name="2022-06-01-13:36-bst-[reporting-phishing](https:-security-guidance.service.justice.gov.uk-phishing-guide-#reporting-phishes)"></a>
+
+-   **2022-06-01 13:36 BST [Reporting phishing](https://security-guidance.service.justice.gov.uk/phishing-guide/#reporting-phishes)**
+
+    Clarified process for reporting phishing attempts.
+
+<a name="2022-05-31-14:01-bst-[overseas-travel](https:-security-guidance.service.justice.gov.uk-overseas-travel-)"></a>
+
+-   **2022-05-31 14:01 BST [Overseas travel](https://security-guidance.service.justice.gov.uk/overseas-travel/)**
+
+    Corrected broken link within the content.
+
+<a name="2022-05-27-16:09-bst-[add-iasme-certification-information-and-templates.](https:-security-guidance.service.justice.gov.uk-iasme-)"></a>
+
+-   **2022-05-27 16:09 BST [Add IASME certification information and templates.](https://security-guidance.service.justice.gov.uk/iasme/)**
+
+    Added material to assist suppliers in seeking security certification, particularly regarding the IASME Governance standard.
+
+<a name="2022-05-20-15:37-bst-[updates-to-overseas-travel-information.](https:-security-guidance.service.justice.gov.uk-accessing-moj-it-systems-from-overseas-)"></a>
+
+-   **2022-05-20 15:37 BST [Updates to overseas travel information.](https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/)**
+
+    More information about applying with sufficient advance notice, and a reminder about passport validity dates.
+
+<a name="2022-05-06-12:30-bst-[minor-restructure-to-phishing-information.](https:-security-guidance.service.justice.gov.uk-phishing-guide-#out-of-band-checks)"></a>
+
+-   **2022-05-06 12:30 BST [Minor restructure to Phishing information.](https://security-guidance.service.justice.gov.uk/phishing-guide/#out-of-band-checks)**
+
+    The section on Out Of Band Checks has been slightly reordered, to improve readability.
+
+<a name="2022-05-06-12:18-bst-[added-link-to-password-poster.](https:-security-guidance.service.justice.gov.uk-passwords-)"></a>
+
+-   **2022-05-06 12:18 BST [Added link to Password Poster.](https://security-guidance.service.justice.gov.uk/passwords/)**
+
+    An information poster about how to make strong passwords is now available for download.
+
+<a name="2022-04-19-17:45-bst-[update-links-for-contacting-security-team.](https:-security-guidance.service.justice.gov.uk-)"></a>
+
+-   **2022-04-19 17:45 BST [Update links for contacting security team.](https://security-guidance.service.justice.gov.uk/)**
+
+    Standardise on security@justice.gov.uk email address for contacting security team.
+
+<a name="2022-04-08-10:09-bst-[add-guidance-on-secure-disposal-of-cloud-materials.](https:-security-guidance.service.justice.gov.uk-secure-disposal-of-it-public-and-private-cloud-)"></a>
+
+-   **2022-04-08 10:09 BST [Add guidance on secure disposal of cloud materials.](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-public-and-private-cloud/)**
+
+    New guidance to ensure the confidentiality of MoJ data remains when a cloud service is decommissioned.
+
 <a name="2022-04-06-15:53-bst-[update-security.txt-link.](https:-security-guidance.service.justice.gov.uk-implement-security-txt-)"></a>
 
 -   **2022-04-06 15:53 BST [Update security.txt link.](https://security-guidance.service.justice.gov.uk/implement-security-txt/)**
@@ -389,7 +455,7 @@ This document summarises what changes were made, and when, to MoJ Security polic
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

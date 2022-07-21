@@ -15,33 +15,45 @@ A personal device is any desktop, laptop, tablet, phone, external drive, or simi
 
 Not everyone has access to an MoJ device for remote use. If you need equipment, you can request it. It can be provided quickly. Contact your Line Manager for details. A request can then be raised through the IT Service Desk.
 
-In unusual circumstances, it might not be possible to organise provision of equipment. In such cases, you **CAN** request access to an MoJ [virtual environment](#virtual-environment).
+In unusual circumstances, it might not be possible to organise provision of equipment. In such cases, you **can** request access to an MoJ [virtual environment](#virtual-environment).
 
-Except when connecting to an MoJ [virtual environment](#virtual-environment), or with documented approval in exceptional circumstances as described [in this guidance](#guidance), you **SHALL NOT** use a personal device for work purposes.
+Except when connecting to an MoJ [virtual environment](#virtual-environment), or with documented approval in exceptional circumstances as described [in this guidance](#guidance), you **shall not** use a personal device for work purposes.
 
 Avoid connecting peripherals to MoJ devices, unless those peripherals are supplied or approved by the MoJ. Examples of peripheral devices include USB, wireless, or [Bluetooth](bluetooth.md) keyboards or mice.
 
 **Note:** Exemptions are possible for connecting peripherals where [accessibility support](bluetooth.md#accessibility) is required. Contact your Line Manager for documented approval before connecting a peripheral device.
 
-Personal devices **SHALL NOT** be charged from the USB ports of an MoJ device.
+Personal devices **shall not** be charged from the USB ports of an MoJ device.
 
-**Note:** Specifically: a personal mobile phone **SHALL NOT** be charged from the USB ports of an MoJ device.
+**Note:** Specifically: a personal mobile phone **shall not** be charged from the USB ports of an MoJ device.
 
 ## Guidance
 
--   If you have an MoJ-issued device or virtual environment, you **SHALL** use that.
--   You **SHALL NOT** use a personal device to access Google Workspace tools such as Gmail, Docs, Slides, Sheets, Drive, Meet, or Hangouts for work purposes.
--   You **SHALL NOT** use a personal device to access Office 365 tools such as Outlook email or calendar, Word, Excel, or PowerPoint for work purposes.
-    -   Wherever possible, an MoJ work device **SHOULD** be used to join business Teams calls, either via video or dial in.
-    -   In cases where staff have not been provided with a work phone or laptop or any other work device which allows them to join or dial into Teams, staff **MAY** join from their personal devices as a Guest. The chair of the meeting **SHALL** confirm the identity of each and every person joining their call as a Guest.
+-   If you have an MoJ-issued device or virtual environment, you **shall** use that.
+-   You **shall not** use a personal device to access Google Workspace tools such as Gmail, Docs, Slides, Sheets, Drive, Meet, or Hangouts for work purposes.
+-   You **shall not** use a personal device to access Office 365 tools such as Outlook email or calendar, Word, Excel, or PowerPoint for work purposes.
+    -   Wherever possible, an MoJ work device **should** be used to join business Teams calls, either via video or dial in.
+    -   In cases where staff have not been provided with a work phone or laptop or any other work device which allows them to join or dial into Teams, staff **may** join from their personal devices as a Guest. The chair of the meeting **shall** confirm the identity of each and every person joining their call as a Guest.
 -   This guidance applies to all tools accessed through a web browser or installed client applications.
--   You **SHALL NOT** send MoJ information to your personal email account.
--   You **SHALL NOT** use personal accounts for work purposes.
--   You **SHALL NOT** store work files or information on a personal device such as a desktop, laptop, tablet or phone.
--   You **SHALL NOT** store work files or information on a personal storage device or memory stick, such as an external drive, thumb drive, or USB stick.
--   Some teams within the MoJ **MIGHT** have permission to use personal devices for some tasks. This permission continues, but is being reviewed on an on-going basis. Ensure that you have documented approval recording your permission. Ensure that the permission is no more than 12 months old. To request or refresh permission, ask your Line Manager to seek approval by checking with the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk).
+-   You **shall not** send MoJ information to your personal email account.
+-   You **shall not** use personal accounts for work purposes.
+-   You **shall not** store work files or information on a personal device such as a desktop, laptop, tablet or phone.
+-   You **shall not** store work files or information on a personal storage device or memory stick, such as an external drive, thumb drive, or USB stick.
+-   Some teams within the MoJ **might** have permission to use personal devices for some tasks. This permission continues, but is being reviewed on an on-going basis. Ensure that you have documented approval recording your permission. Ensure that the permission is no more than 12 months old. To request or refresh permission, ask your Line Manager to seek approval by checking with the [Security team](mailto:security@justice.gov.uk).
 
-**Note:** You are not asked or required to use your own devices for work purposes. If you have access to MoJ devices for work purposes, you **SHALL** use them by default.
+**Note:** You are not asked or required to use your own devices for work purposes. Statement **POL.MOB.009** of the [mobile device and remote working policy](mobile-device-and-remote-working-policy.md#use-of-private-equipment) makes clear that you **should not** use personal devices for MoJ work purposes. If you have access to MoJ devices for work purposes, you **shall** use them by default.
+
+## Using MoJ tools on personal devices
+
+In accordance with other policy on the use of personal devices, and the use of mobile devices specifically, you **shall not** use personal devices to access MoJ tools, such as MoJ Slack workspaces.
+
+**Note:** The rest of this section refers to Slack workspaces, but applies equally to other MoJ tools, such as Teams, Trello, Jira, and so on.
+
+You could of course use personal devices to access other \(non-MoJ\) Slack communities.
+
+The point is that you **should not** use personal devices for MoJ work purposes. Slack workspaces are official MoJ workspaces and **should** only be accessed using MoJ devices.
+
+Personal devices are not allowed to access services or content containing **Official-Sensitive** data. Work devices **shall** be used to access MoJ services such as MoJ Slack communities. If you do not have a work mobile device, and need to access services such as Slack on a mobile device, you **should** request one using [Service Now](https://mojprod.service-now.com/moj_sp/?id=home).
 
 ## Virtual environment
 
@@ -59,11 +71,11 @@ Automatic transfer of contact information and calendar events might happen durin
 
 Additionally, although such platforms usually offer an option to delete paired profiles, there is currently no confirmation that the data is actually erased to a satisfactory level. The usual claim is only that the transferred data is deemed inaccessible to the platform menu.
 
-For these reasons, MoJ devices **SHALL NOT** be paired with Bluetooth-enabled vehicles.
+For these reasons, MoJ devices **shall not** be paired with Bluetooth-enabled vehicles.
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

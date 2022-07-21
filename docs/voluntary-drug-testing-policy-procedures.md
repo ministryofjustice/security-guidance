@@ -19,7 +19,7 @@ If you have any queries about this information, contact [MoJ Group Security](mai
 
 ## Procedures
 
-These policy procedures support and underpin the [Voluntary Drug Testing Policy](voluntary-drug-testing-policy.md). Unless otherwise noted, these procedures **SHALL** be complied with fully.
+These policy procedures support and underpin the [Voluntary Drug Testing Policy](voluntary-drug-testing-policy.md). Unless otherwise noted, these procedures **shall** be complied with fully.
 
 ### Aftercare arrangements: Use of Voluntary Drug Testing
 
@@ -105,11 +105,11 @@ There is no Right of Appeal for individuals on recruitment to the Civil Service 
 
 ### Appealing a positive drug test
 
-Any disputed drug test **SHALL** be appealed to C2SU, in writing, within five days of receiving confirmation of a test result.
+Any disputed drug test **shall** be appealed to C2SU, in writing, within five days of receiving confirmation of a test result.
 
-An appeal **SHALL** detail the reason or reasons why the positive result is being disputed. This information **SHALL** be shared with the approved drug testing provider and the positive test results **SHALL** be subject to further scientific expert analysis to decide the probability of the positive test result being incorrect. The results of any secondary testing **SHALL** be treated as final.
+An appeal **shall** detail the reason or reasons why the positive result is being disputed. This information **shall** be shared with the approved drug testing provider and the positive test results **shall** be subject to further scientific expert analysis to decide the probability of the positive test result being incorrect. The results of any secondary testing **shall** be treated as final.
 
 ### Review of drug testing arrangements
 
-The requirement for drug testing individual cases **SHALL** be subject to ongoing review, on a case-by-case basis, by C2SU. The individual **SHALL** be formally notified by C2SU if this aftercare arrangement is withdrawn.
+The requirement for drug testing individual cases **shall** be subject to ongoing review, on a case-by-case basis, by C2SU. The individual **shall** be formally notified by C2SU if this aftercare arrangement is withdrawn.
 

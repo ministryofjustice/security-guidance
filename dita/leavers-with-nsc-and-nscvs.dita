@@ -21,7 +21,7 @@
         <ph conref="conrefs.dita#conrefs/strapteamemailtext"/>.
         They <ph conref="conrefs.dita#conrefs/policyshall"/> also sign a
         confidentiality agreement and a "Declaration of Cessation
-        of <codeph>TOP SECRET</codeph> STRAP Access".</p>
+        of <ph conref="conrefs.dita#conrefs/top-secret"/> STRAP Access".</p>
   </body>
   <topic id="nsvcs-who-leave">
     <title>NSVCs who leave</title>

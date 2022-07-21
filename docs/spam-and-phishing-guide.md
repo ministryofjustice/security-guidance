@@ -11,7 +11,7 @@ This guide outlines the technical implementations that technical users should ma
 
 ### Spam and phishing
 
-To protect against spam and phishing attacks, the MoJ makes use of Government services such as National Cyber Security Centre's [Suspicious Email Reporting Service](mailto:report@phishing.gov.uk) and any other services that are appropriate.
+To protect against spam and phishing attacks, the MoJ makes use of Government services such as National Cyber Security Centre's Suspicious Email Reporting Service and any other services that are appropriate.
 
 ### Spoofing attacks
 
@@ -23,7 +23,7 @@ To mitigate spoofing attacks, use techniques such as:
 
 ## Protecting a parked domain
 
-DMARC **SHALL** also be implemented on non-email sending domains. This is because the domains might be used for email spoofing and phishing.
+DMARC **shall** also be implemented on non-email sending domains. This is because the domains might be used for email spoofing and phishing.
 
 Once parked domains are protected, configure them to renew automatically by default.
 
@@ -64,11 +64,11 @@ Mitigate MITM attacks by:
 
 ## Mail Check
 
-[Mail Check](https://www.ncsc.gov.uk/information/mailcheck) is an NCSC cyber defence service. It enables email administrators to improve and maintain the security of email domains by preventing spoofing attacks. All domains operated by, or on behalf of, the MoJ, **SHALL** be added to Mail Check, regardless of whether the domain is expected to send or receive emails. All future contracts and agreements with third party suppliers **SHALL** make this a requirement.
+[Mail Check](https://www.ncsc.gov.uk/information/mailcheck) is an NCSC cyber defence service. It enables email administrators to improve and maintain the security of email domains by preventing spoofing attacks. All domains operated by, or on behalf of, the MoJ, **shall** be added to Mail Check, regardless of whether the domain is expected to send or receive emails. All future contracts and agreements with third party suppliers **shall** make this a requirement.
 
-Mail Check **SHOULD** be used only if the email domain name provided is publicly routable from the Internet using the Simple Mail Transfer Protocol \(SMTP\).
+Mail Check **should** be used only if the email domain name provided is publicly routable from the Internet using the Simple Mail Transfer Protocol \(SMTP\).
 
-To add domains to the MoJ's Mail Check service subscription, contact the [NCSC Mail Check team](mailto:mailcheck@digital.ncsc.gov.uk).
+To add domains to the MoJ's Mail Check service subscription, contact the NCSC Mail Check team via [Security team](mailto:security@justice.gov.uk).
 
 ## Email sandboxing
 
@@ -77,7 +77,7 @@ Sandboxing provides an additional layer of protection. Any email that contains U
 -   Mirrors the end user's computer, and provides a secure space to interact with and analyse potentially harmful communications.
 -   Allows developers and technical architects to be proactive in minimising the effect of a threat.
 
-For further guidance on implementing sandboxing, including which products you might use, contact the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk).
+For further guidance on implementing sandboxing, including which products you might use, contact the [Security team](mailto:security@justice.gov.uk).
 
 ## URL link rewriting
 
@@ -107,20 +107,20 @@ The [Email Authentication Guide](email-authentication-guide.md) provides further
 
 ## Reporting spam or malicious emails
 
-If you think your email service provision has been susceptible to spam or a virus, report it immediately to the IT Service Desk as an IT security incident. Please refer to the [IT Incident Management Policy](it-incident-management-policy.md) for further guidance.
+If you think your email service provision has been susceptible to spam or a virus, report it immediately to the IT Service Desk on 0800 917 5148 as an IT security incident. Please refer to the [IT Incident Management Policy](it-incident-management-policy.md) for further guidance.
 
 ## Incidents
 
 **Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
 
-**Operational Security Team**
+**Security Team**
 
--   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
+-   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 -   Slack: `#security`
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

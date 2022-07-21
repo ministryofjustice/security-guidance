@@ -61,7 +61,7 @@ Systems holding sensitive information, or systems that are mission critical to t
           <p>backed up, so that data are not lost if there is a system unavailability</p>
         </li>
         <li>
-          <p>managed according to the sensitivity of the data they hold, for example personal information. Contact the Data Privacy Team for advice on protecting sensitive personal information - <xref href="mailto:privacy@justice.gov.uk" format="html" scope="external">privacy@justice.gov.uk</xref>.</p>
+          <p>managed according to the sensitivity of the data they hold, for example personal information. Contact the Data Protection Team for advice on protecting sensitive personal information - <ph conref="conrefs.dita#conrefs/privacyemail"/>.</p>
         </li>
         <li>
           <p>stored for a minimum of 6 months</p>

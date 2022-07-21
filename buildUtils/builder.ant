@@ -32,6 +32,7 @@
 	<property name="images" location="images"/>
 	 22020331 -->
 	<property name="jekyll-baseline" location="jekyll-baseline"/>
+	<property name="iasme" location="iasme"/>
 	<property name="hmcts" location="hmcts"/>
 	<property name="ost" location="ost"/>
 	<property name="culture" location="culture"/>
@@ -474,9 +475,13 @@
 	<!-- Create the distribution directory -->
 		<mkdir dir="${docs}"/>
 		<mkdir dir="${docs}/images"/>
+		<mkdir dir="${docs}/iasme"/>
 		<mkdir dir="${docs}/gs"/>
 		<copy todir="${docs}" >
 			<fileset dir="${jekyll-baseline}"/>
+		</copy>
+		<copy todir="${docs}/iasme" >
+			<fileset dir="${iasme}"/>
 		</copy>
 		<copy todir="${docs}/images" >
 			<fileset dir="${ditasrc}/images"/>
@@ -500,9 +505,13 @@
 		<!-- Create the distribution directory -->
 		<mkdir dir="${docs}"/>
 		<mkdir dir="${docs}/images"/>
+		<mkdir dir="${docs}/iasme"/>
 		<mkdir dir="${docs}/gs"/>
 		<copy todir="${docs}" >
 			<fileset dir="${jekyll-baseline}"/>
+		</copy>
+		<copy todir="${docs}/iasme">
+			<fileset dir="${iasme}"/>
 		</copy>
 		<copy todir="${docs}/images" >
 			<fileset dir="${ditasrc}/images"/>
@@ -528,8 +537,12 @@
 		<delete dir="${docs}"/>
 		<mkdir dir="${docs}"/>
 		<mkdir dir="${docs}/images"/>
+		<mkdir dir="${docs}/iasme"/>
 		<copy todir="${docs}" >
 			<fileset dir="${jekyll-baseline}"/>
+		</copy>
+		<copy todir="${docs}/iasme" >
+			<fileset dir="${iasme}"/>
 		</copy>
 		<copy todir="${docs}/images" >
 			<fileset dir="${ditasrc}/images"/>

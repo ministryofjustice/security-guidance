@@ -22,9 +22,9 @@ for staff in order to access specific account types. <ph audience="audience-tech
   <topic id="minimum-user-clearance-requirements">
     <title>Minimum user clearance requirements</title>
     <body>
-      <p>Most of the <ph conref="conrefs.dita#conrefs/moj"/> IT systems are able to process <codeph>OFFICIAL</codeph> information. Therefore all roles in the <ph conref="conrefs.dita#conrefs/moj"/>
+      <p>Most of the <ph conref="conrefs.dita#conrefs/moj"/> IT systems are able to process <ph conref="conrefs.dita#conrefs/official"/> information. Therefore all roles in the <ph conref="conrefs.dita#conrefs/moj"/>
 require staff to attain BPSS clearance as a minimum to be
-granted access rights to view <codeph>OFFICIAL</codeph> information. Some roles require staff to have higher clearance.</p>
+granted access rights to view <ph conref="conrefs.dita#conrefs/official"/> information. Some roles require staff to have higher clearance.</p>
       <p>For an individual to perform any of the following tasks, clearance higher than BPSS is required:</p>
       <ul>
         <li>Has long term, regular, unsupervised access to data centres or communications rooms.</li>

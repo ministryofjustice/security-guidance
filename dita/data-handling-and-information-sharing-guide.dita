@@ -47,9 +47,9 @@
         This is an older classification standard.
         In general,
         <codeph>IL3 REST*</codeph> is approximately equivalent to
-        <codeph>OFFICIAL</codeph>
-        with the <codeph>SENSITIVE</codeph> handling caveat,
-        often written as <codeph>OFFICIAL-SENSITIVE</codeph>.
+        <ph conref="conrefs.dita#conrefs/official"/>
+        with the <ph conref="conrefs.dita#conrefs/sensitive"/> handling caveat,
+        often written as<ph conref="conrefs.dita#conrefs/official-sensitive"/>.
         While this approximate alignment might be helpful,
         you should always review classification where older terms are used,
         to ensure that the correct current classification is used.</note>
@@ -63,7 +63,7 @@
           or exchanged electronically within the <ph conref="conrefs.dita#conrefs/moj"/>,
           or with external parties.</p>
         <p>The <ph conref="conrefs.dita#conrefs/moj"/>
-        <ph conref="conrefs.dita#conrefs/catemailtext"/> can help you with more
+        <ph conref="conrefs.dita#conrefs/securityemailtext"/> can help you with more
         guidance on the handling of protectively marked data.</p>
         <p>This guide is split into three sections:
         <ul>
@@ -76,12 +76,12 @@
             format="dita">Reporting data loss</xref>.</li>
         </ul></p>
         <note>This document provides guidance for handling and sharing of
-          information and data up to and including <codeph>OFFICIAL</codeph> and
-          <codeph>OFFICIAL-SENSITIVE</codeph>, or the older Impact Level (IL) 3.
+          information and data up to and including <ph conref="conrefs.dita#conrefs/official"/> and
+          <ph conref="conrefs.dita#conrefs/official-sensitive"/>, or the older Impact Level (IL) 3.
           Where information attracts a high protective marking or IL,
           advice <ph conref="conrefs.dita#conrefs/policyshall"/>
           be sought from the <ph conref="conrefs.dita#conrefs/moj"/>
-          <ph conref="conrefs.dita#conrefs/ostemailtext"/> and the
+          <ph conref="conrefs.dita#conrefs/securityemailtext"/> and the
           <ph conref="conrefs.dita#conrefs/moj"/>
           <ph conref="conrefs.dita#conrefs/cisolong"/>.</note>
       </body>
@@ -112,7 +112,7 @@
       </ul></p>
       <p>For the purposes of this guide, the term "sensitive" data or
       information refers to data or information which attracts a handling caveat
-      of <codeph>SENSITIVE</codeph>.
+      of <ph conref="conrefs.dita#conrefs/sensitive"/>.
       <ph audience="audience-tech"> Refer to the <xref
         href="information-classification-and-handling-policy.dita"
         format="dita">Information Classification and Handling Policy</xref> for
@@ -172,7 +172,7 @@
             network (e.g. DISC, ONMI, Quantum or MINT) or the Government Secure
             Intranet (GSi).</p>
             <p>As these networks can support data up to and including
-              <codeph>OFFICIAL-SENSITIVE</codeph>,
+              <ph conref="conrefs.dita#conrefs/official-sensitive"/>,
               a base level of assurance is provided.
               However, consideration will need to be given to the following
               factors to ascertain if any additional security controls are
@@ -188,9 +188,8 @@
             <p>Any additional controls
               <ph conref="conrefs.dita#conrefs/policyshall"/> be captured on the
               DMF (refer to the <xref href="#data-movement-form-dmf" format="dita">Data Movement
-                Form</xref>, where advice should be obtained from the
-                <ph conref="conrefs.dita#conrefs/moj"/>
-                <ph conref="conrefs.dita#conrefs/cisolong"/> when required.</p>
+                Form</xref>). Advice should be obtained from the
+                <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> when required.</p>
           </body>
         </topic>
         <topic id="usb-mass-storage-device">
@@ -204,10 +203,9 @@
             <p>The type of device selected is normally dependant on the
               sensitivity of the data and the amount of data being transferred.
               Advice <ph conref="conrefs.dita#conrefs/policyshall"/>
-              be sought from the Operational Security Team:
-              <ph conref="conrefs.dita#conrefs/ostemail"/>,
-              or <ph conref="conrefs.dita#conrefs/ciso"/> on the best option to
-              use when completing the DMF (see
+              be sought from the
+              <ph conref="conrefs.dita#conrefs/securityemailtext"/> on the best option to
+              use when completing the DMF (refer to the
               <xref href="#data-movement-form-dmf" format="dita">Data Movement
                 Form</xref>).</p>
           </body>
@@ -335,7 +333,7 @@
         <title>Internally within the <ph conref="conrefs.dita#conrefs/moj"/></title>
         <body>
           <p>Information marked up to and including
-            <codeph>OFFICIAL-SENSITIVE</codeph> can be transferred in bulk within
+            <ph conref="conrefs.dita#conrefs/official-sensitive"/> can be transferred in bulk within
             an <ph conref="conrefs.dita#conrefs/moj"/> IT system or domain such
             as DOM1,
             without additional controls required to preserve the confidentiality
@@ -401,7 +399,7 @@
               <xref href="security-aspect-letters.dita" format="dita">Security
                 Aspects Letter (SAL)</xref> and Codes of Connection (CoCo)
                 agreement.</p>
-          <p>Where the information is <codeph>OFFICIAL-SENSITIVE</codeph>,
+          <p>Where the information is <ph conref="conrefs.dita#conrefs/official-sensitive"/>,
             it <ph conref="conrefs.dita#conrefs/policyshall"/>
             be transferred to an assured system,
             assured to the same level as the data being transferred,
@@ -412,9 +410,8 @@
             <ph conref="conrefs.dita#conrefs/policyshall"/> be undertaken with appropriate
             security controls in place,
             using the guidance from this document,
-            and seeking advice from Information Assurance and the
-            <ph conref="conrefs.dita#conrefs/moj"/>
-            <ph conref="conrefs.dita#conrefs/ciso"/> as required.</p>
+            and seeking advice from the
+            <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> as required.</p>
         </body>
         <topic id="sharing-across-an-unsecured-network">
           <title>Sharing across an unsecured network</title>
@@ -452,14 +449,13 @@
         </topic>
       </topic>
       <topic id="sharing-information-higher-than-official">
-        <title>Sharing information higher than <codeph>OFFICIAL</codeph></title>
+        <title>Sharing information higher than <ph conref="conrefs.dita#conrefs/official"/></title>
         <body>
           <p>Where there is a business requirement to share information classified
-            higher than <codeph>OFFICIAL</codeph>,
+            higher than <ph conref="conrefs.dita#conrefs/official"/>,
             advice <ph conref="conrefs.dita#conrefs/policyshall"/>
-            be sought from the Operational Security Team:
-            <ph conref="conrefs.dita#conrefs/ostemail"/>
-            or <ph conref="conrefs.dita#conrefs/ciso"/> prior to completing a
+            be sought from the
+            <ph conref="conrefs.dita#conrefs/securityemailtext"/> prior to completing a
             <xref href="#data-movement-form-dmf" format="dita">Data Movement
               Form</xref>.</p>
         </body>
@@ -481,7 +477,7 @@
         or the relevant Information Asset Owner (IAO),
         or the Senior Information Risk Owner (SIRO).</p>
       <p>A DMF <ph conref="conrefs.dita#conrefs/policyshall"/> be completed,
-        and approval received from the <ph conref="conrefs.dita#conrefs/ostemailtext"/>,
+        and approval received from the <ph conref="conrefs.dita#conrefs/securityemailtext"/>,
         for the following scenarios:
         <ul>
           <li>Data is being moved or shared by using a physical storage device to
@@ -514,7 +510,7 @@
           that the asset might contain or process.</li>
         </ul></p>
         <p>A DMF <ph conref="conrefs.dita#conrefs/policyshall"/>
-        be submitted to the <ph conref="conrefs.dita#conrefs/ostemailtext"/>
+        be submitted to the <ph conref="conrefs.dita#conrefs/securityemailtext"/>
         for information purposes,
         in the following scenarios:
           <ul>
@@ -537,7 +533,7 @@
         do not require a re-submission of the DMF.
         For example,
         when setting up a backup process as part of an approved service design,
-        a DMF is created and submitted to the <ph conref="conrefs.dita#conrefs/ostemailtext"/>
+        a DMF is created and submitted to the <ph conref="conrefs.dita#conrefs/securityemailtext"/>
         for information purposes,
         but does not need to be re-created or re-submitted for each backup occurrence.
         If the implementation or process for the data movement or sharing changes,
@@ -547,7 +543,7 @@
       <p>In any case of doubt,
         it is always advisable to complete a DMF
         and await approval or other feedback from the
-        <ph conref="conrefs.dita#conrefs/ostemailtext"/>.</p>
+        <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
     </body>
   </topic>
   <topic id="using-securezip">

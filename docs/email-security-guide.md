@@ -38,11 +38,11 @@ All technical users are responsible for maintaining and using the MoJ's email co
 -   Ensure secure email messaging services, and, where necessary, encryption tools, are used to transfer sensitive information and system secrets. Refer to the [Secure Email Transfer Guide](secure-email-transfer-guide.md) for further information.
 -   Ensure that email configuration is secure, and that all necessary technical controls, including those set out in the [Malware Protection Guide](malware-protection-guide-introduction.md), are implemented and kept up to date.
 
-**Note:** Suppliers **MAY** use their own email services if agreed by the MoJ but, as a minimum, they must meet the MoJ security requirements.
+**Note:** Suppliers **may** use their own email services if agreed by the MoJ but, as a minimum, they must meet the MoJ security requirements.
 
 ## Authorised access to user accounts
 
-By default, users **SHALL NOT** access the email accounts of any other users, unless they are authorised to do so as required by their role. Access is authorised on a case-by-case basis only, and is normally aligned to the following circumstances:
+By default, users **shall not** access the email accounts of any other users, unless they are authorised to do so as required by their role. Access is authorised on a case-by-case basis only, and is normally aligned to the following circumstances:
 
 -   After a criminal investigation has been opened by a law enforcement agency.
 -   After an employee investigation has been opened relating to misconduct or a security incident, for example IT misuse.
@@ -64,7 +64,7 @@ Examples would be where a mailbox owner has a legitimate requirement for another
 -   Read, send, or delete messages on their behalf.
 -   Manage their calendar.
 
-In this situation, the user **SHALL** first seek permission from their line manager. When permission is granted, technical users **SHALL** ensure secure delegation by:
+In this situation, the user **shall** first seek permission from their line manager. When permission is granted, technical users **shall** ensure secure delegation by:
 
 -   Enforcing mailbox owners to limit delegate access to pre-defined periods of time.
 -   Enabling mailbox owners to manage and revoke access themselves.
@@ -79,13 +79,13 @@ For further details, refer to the [Privileged User Guide](privileged-user-guide.
 
 ## Phishing or spoofing of MoJ users
 
-MoJ staff, contractors, suppliers or other partner organisations **SHALL NOT** deliberately send phishing or spoof emails, or similar malware communications, to any MoJ users for any purpose.
+MoJ staff, contractors, suppliers or other partner organisations **shall not** deliberately send phishing or spoof emails, or similar malware communications, to any MoJ users for any purpose.
 
-If there is a valid business need to send a fake message, for example to test the resilience of an end-to-end MoJ business process against an attack, then prior approval for the fake message **SHALL** be obtained from the MoJ Chief Information Security Officer \(CISO\). Do this by contacting [security@justice.gov.uk](mailto:security@justice.gov.uk).
+If there is a valid business need to send a fake message, for example to test the resilience of an end-to-end MoJ business process against an attack, then prior approval for the fake message **shall** be obtained from the MoJ Chief Information Security Officer \(CISO\). Do this by contacting [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

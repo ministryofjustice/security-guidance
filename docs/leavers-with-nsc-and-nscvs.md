@@ -2,17 +2,17 @@
 
 This information applies to people leaving the Ministry of Justice \(MoJ\), who have National Security Vetting \(NSV\), or who are National Security Vetting Contacts \(NSVCs\).
 
-Staff or contractors that hold clearance of any level **SHALL** attend an exit interview with their manager before they leave the MoJ. Although these interviews are available for all staff, they are compulsory for those with Counter Terrorist Clearance \(CTC\) or Security Check \(SC\).
+Staff or contractors that hold clearance of any level **shall** attend an exit interview with their manager before they leave the MoJ. Although these interviews are available for all staff, they are compulsory for those with Counter Terrorist Clearance \(CTC\) or Security Check \(SC\).
 
-If the leaver holds Developed Vetting \(DV\) or SC enhanced level, and has been STRAP inducted, they **SHALL** attend a mandatory STRAP debriefing interview with [Cluster 2 STRAP team](mailto:STRAPTeam@cluster2security.gov.uk). They **SHALL** also sign a confidentiality agreement and a "Declaration of Cessation of `TOP SECRET` STRAP Access".
+If the leaver holds Developed Vetting \(DV\) or SC enhanced level, and has been STRAP inducted, they **shall** attend a mandatory STRAP debriefing interview with Cluster 2 STRAP team via [Security team](mailto:security@justice.gov.uk). They **shall** also sign a confidentiality agreement and a "Declaration of Cessation of **Top Secret** STRAP Access".
 
 ## NSVCs who leave
 
-The post of National Security Vetting Contact \(NSVC\) **SHOULD NOT** be left empty. NSVCs **SHOULD** work with [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk) to ensure that a replacement has been selected, and trained, to take over once they have left.
+The post of National Security Vetting Contact \(NSVC\) **should not** be left empty. NSVCs **should** work with [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk) to ensure that a replacement has been selected, and trained, to take over once they have left.
 
 ## Manager responsibilities
 
-When a member of staff with clearance leaves their department, the manager **SHALL** inform their NSVC, so that the NSVC can update their records and remove the staff member from the list of cleared personnel. The NSVC passes the leaver's details on to [Cluster 2 Security Unit](mailto:contactus@cluster2security.gov.uk). Managers **SHOULD** also use this as an opportunity to take another look at the role, and confirm whether it still needs clearance and, if it does, to what level. The NSVC can advise managers on this analysis.
+When a member of staff with clearance leaves their department, the manager **shall** inform their NSVC, so that the NSVC can update their records and remove the staff member from the list of cleared personnel. The NSVC passes the leaver's details on to Cluster 2 Security Unit via [Security team](mailto:security@justice.gov.uk). Managers **should** also use this as an opportunity to take another look at the role, and confirm whether it still needs clearance and, if it does, to what level. The NSVC can advise managers on this analysis.
 
 ## Downloads
 
@@ -26,7 +26,7 @@ When a member of staff with clearance leaves their department, the manager **SHA
 
 ## Contact details
 
-For any further questions relating to group security matters, contact: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk). For general security questions or concerns, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to group security matters, contact: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk). For general security questions or concerns, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

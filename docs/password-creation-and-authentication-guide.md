@@ -34,7 +34,7 @@ The MoJ requires password history management, to prevent an old password being r
 
 MFA provides an additional layer of security for login and access controls. Two-Factor Authentication \(2FA\), Time-based One-Time Password Algorithm \(TOTP\), and hardware and software tokens and biometric authentication are all forms of MFA that might be used within MoJ systems. The [Access Control Guide](access-control-guide.md) provides further information.
 
-If a service supports MFA, it must be enabled and used by default. An MFA prompt must appear when attempting to access an `OFFICIAL` system, where:
+If a service supports MFA, it must be enabled and used by default. An MFA prompt must appear when attempting to access an **Official** system, where:
 
 -   The system relies upon 'cloud' applications, cloud-based APIs, or other internet-connected services.
 -   A new device is used to log on to the service.
@@ -51,7 +51,7 @@ MoJ SSO solutions include Office 365, and Digital and Technology G-Suite. SSO so
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

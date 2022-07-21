@@ -95,9 +95,9 @@ MFA also provides an early warning system for credential compromise. If you ever
 
 ##Out of band checks
 
-Out of band checks are an easy method to confirm the legitimacy of communications and requests. They can confirm the identity behind a message or request, and they can confirm the validity of the message or request itself. Social engineering techniques and phishing tactics take advantage of people who do not use out of band checks. By doing an out of band check, these sorts of attacks can be stopped very easily.
-
 An out of band check is when an individual uses a different method of communication than the one the message came from. This method means that if one communication method is compromised, you quickly find out by using a different communication method to confirm validity. The likelihood of multiple communication methods for the same person or team being compromised is low.
+
+Out of band checks are an easy method to confirm the legitimacy of communications and requests. They can confirm the identity behind a message or request, and they can confirm the validity of the message or request itself. Social engineering techniques and phishing tactics take advantage of people who do not use out of band checks. By doing an out of band check, these sorts of attacks can be stopped very easily.
 
 **Example 1**: You receive an email request for an urgent review of an invoice, and immediate payment. The email comes from someone unexpected. You should find the official contact details of that person, and contact them using a phone call - but not email - to confirm that they did indeed send the original email. If they did send the email, you can proceed with the request. If they did not send the email, you can report the email as a phish, and also alert the owner of the email address that their email address might have been compromised.
 
@@ -139,16 +139,16 @@ Reporting phishing attempts helps improve the filters that catch them before the
 
 If you think you have spotted a phish, or you think you have been phished, report it as quickly as possible. If you think you have spotted a more targeted phish that claims to be from a vendor or another staff member, do an out of band check to determine if it is legitimate. If it is not, then please report the email as a phish.
 
-Reporting a phishing attempt is quick and easy. Do one or both of the following:
+Reporting a phishing attempt is quick and easy. Contact service desk using one of these two options:
 
-* Call the IT Service Desk on 0800 917 5148.
-* Forward the suspected phish to [security@justice.gov.uk](mailto:security@justice.gov.uk) with the subject line: 'suspected phish report'.
+* Tel: 0800 917 5148
+* [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
 
-You can forward on all spam and phishing text messages to 7726 for free.
+You can also forward on all spam and phishing text messages to 7726 for free.
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ---
 

@@ -21,11 +21,11 @@ Privileged users are responsible for maintaining system logs \(syslogs\) for the
 -   Implementing automated real-time log analysis where possible.
 -   Reviewing results from automated real-time analysis quarterly to ensure its relevance.
 -   Where real-time log analysis has not been implemented, then manual log analysis must be performed at least weekly.
--   Working closely with the Operational Security Team \(OST\) to define requirements and ensure that when possible, automated log analysis and alerting is integrated with the MoJ's Security Operations Centre \(SOC\) which provides the MoJ's central monitoring function.
+-   Working closely with the Security Team to define requirements and ensure that when possible, automated log analysis and alerting is integrated with the MoJ's Security Operations Centre \(SOC\) which provides the MoJ's central monitoring function.
 -   Establishing the baseline activities for systems they are responsible for. This is essential to ensure that monitoring systems are able to detect when there is unusual activity.
 -   Ensuring that systems are synchronised to the centralised MoJ timing source, to enable effective malware detection.
 -   Ensuring that audits and compliance checks of IT systems do not adversely affect business operations.
--   Documenting and reporting anomalies in log settings, configurations, and processes to the OST \([contact details](#incidents-and-contact-details)\) and the Cyber Assistance Team \([contact details](#incidents-and-contact-details)\).
+-   Documenting and reporting anomalies in log settings, configurations, and processes to the Security team \([contact details](#incidents-and-contact-details)\).
 -   Managing long-term storage of system log data, monitoring log rotation, and the archival and deletion of log data.
 -   Any suspicious activity must be [reported](#incidents-and-contact-details). Refer to the details in the [IT Incident Management Policy](it-incident-management-policy.md).
 
@@ -42,32 +42,30 @@ To ensure that there is an audit trail for log data, privileged users must:
 
 **Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
 
-For help with incidents, including theft and loss, contact:
+For help with incidents, including theft and loss, contact one of the following:
 
-<a name="technology-service-desk-including-dom1-quantum-and-the-digital-technology-service-desk"></a>
+**Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
--   **Technology Service Desk - including DOM1, Quantum, and the Digital & Technology Service Desk**
+-   Tel: 0800 917 5148
+-   [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
 
-    Tel: 0800 917 5148
+**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
 
-    **Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses are no longer being monitored.
+**HMPPS Information & security:**
 
-<a name="hmpps-information-and-security"></a>
-
--   **HMPPS Information and security**
-    -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
-    -   Tel: 0203 334 0324
+-   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
+-   Tel: 0203 334 0324
 
 For non-technology incidents, contact the MoJ Group Security Team: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk)
 
-Contact the Privacy Team for information on Data Protection Impact Assessments: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
+Contact the Data Protection Team for information on Data Protection Impact Assessments: [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk)
 
-If you are not sure who to contact, ask the Operational Security Team:
+If you are not sure who to contact, ask the Security Team:
 
--   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
+-   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 -   Slack: `#security`
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

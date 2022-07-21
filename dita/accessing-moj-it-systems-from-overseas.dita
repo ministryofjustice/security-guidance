@@ -11,10 +11,11 @@
 		<p>Additional guidance is provided on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet, regarding <xref href="https://intranet.justice.gov.uk/guidance/security/emergencies/coronavirus-guidance/working-remotely/working-remotely-overseas/" format="html" scope="external">working remotely overseas</xref>.</p> -->
 		<p>In general, it is acceptable for <ph conref="conrefs.dita#conrefs/moj"/> users to access <ph conref="conrefs.dita#conrefs/moj"/> services from overseas, and to do this using their <ph conref="conrefs.dita#conrefs/moj"/> equipment. But before you travel, consider:
 			<ul>
-				<li>Do you need to take <ph conref="conrefs.dita#conrefs/moj"/> IT equipment overseas or access <ph conref="conrefs.dita#conrefs/moj"/> IT systems to do your job?</li>
-				<li>Can the business need be met in another way or by someone else?</li>
-				<li>If you just need to manage your inbox while away, can you delegate permissions to your inbox to a colleague to manage on your behalf?</li>
-				<li>Have you left enough time to check and obtain necessary approvals? The process can take several weeks, depending on the circumstances. This is because it may be necessary to apply additional technical controls to protect you, your devices, and any data the devices can access.</li>
+				<li><p>Do you need to take <ph conref="conrefs.dita#conrefs/moj"/> IT equipment overseas or access <ph conref="conrefs.dita#conrefs/moj"/> IT systems to do your job?</p></li>
+				<li><p>Can the business need be met in another way or by someone else?</p></li>
+				<li><p>If you just need to manage your inbox while away, can you delegate permissions to your inbox to a colleague to manage on your behalf?</p></li>
+				<li><p>Have you left enough time to check and obtain necessary approvals? You should ensure that your request is submitted using the <ph id="otflink"><xref href="/gs/overseas-travel-form.docx" format="docx" scope="external" platform="html">Overseas Travel Form</xref><xref href="https://security-guidance.service.justice.gov.uk/gs/overseas-travel-form.docx" format="docx" scope="external" platform="epub pdf">Overseas Travel Form</xref></ph> a minimum of fifteen working days before you intend to travel, or if you are subject to STRAP briefing a minimum of twenty working days before you intend to travel. This is because it may be necessary to apply additional technical controls to protect you, your devices, and any data the devices can access.</p></li>
+				<li><p conref="conrefs.dita#conrefs/passport-validity"/></li>
 			</ul></p>
 	</body>
 	<topic id="steps-to-follow-before-travelling">
@@ -79,8 +80,7 @@
 							<li>If you are part of HMPPS (but <i>not</i> HQ), contact your Governor and ask for approval to take <ph conref="conrefs.dita#conrefs/moj"/> equipment overseas and access <ph conref="conrefs.dita#conrefs/moj"/> services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.</li>
 						</ul>
 					</li>
-					<li>Fill in the
-						<xref href="/gs/overseas-travel-form.docx" format="docx" scope="external" platform="html">overseas travel form</xref><xref href="https://security-guidance.service.justice.gov.uk/gs/overseas-travel-form.docx" format="docx" scope="external" platform="epub pdf">overseas travel form</xref>.</li>
+					<li>Fill in the <ph conref="#accessing-moj-it-systems-from-overseas/otflink"/>.</li>
 					<li>Send the completed form to <ph conref="conrefs.dita#conrefs/securityemail"/>, including the answers obtained from the earlier parts of this process.</li>
 					<li>Your request will be considered, and an answer provided, as quickly as possible.</li>
 					<li>When you receive approval for your trip, you might need to schedule a <xref href="#on-your-return" format="dita">debrief with your line manager or security representative</xref> for when you return. Travel approval might be conditional on having a debrief after the trip. If your trip involved visiting a 'special attention' country listed in <xref href="#part-one" format="dita">Part One</xref>, a debrief when you return is mandatory.</li>
@@ -156,11 +156,10 @@
 	<topic id="contacts">
 		<title>Contacts</title>
 		<body />
-		<topic id="operational-security-team">
-			<title>Operational Security Team</title>
+		<topic id="security-team">
+			<title>Security Team</title>
 			<body>
 				<ul>
-					<!-- <li>Email: <ph conref="conrefs.dita#conrefs/ostemail"/></li> -->
 					<li>Email: <ph conref="conrefs.dita#conrefs/securityemail"/></li>
 					<li>Slack: <codeph>#security</codeph></li>
 				</ul>

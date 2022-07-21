@@ -24,7 +24,7 @@ The NCSC has a comprehensive [cybersecurity glossary available on its website](h
 
 -   **Blue Team**
 
-    The internal security defence team in an organisation. Within the MoJ, this work is performed by the [Operational Security Team \(OST\)](#operational-security-team-ost).
+    The internal security defence team in an organisation. Within the MoJ, this work is performed by the [Security Team](#operational-security-team-ost).
 
 <a name="brute-force-attack"></a>
 
@@ -156,7 +156,7 @@ The NCSC has a comprehensive [cybersecurity glossary available on its website](h
 
 -   **Operational Security Team \(OST\)**
 
-    A security team within the MoJ. They help protect against cyber attacks, and help manage [incidents](#incident). Sometimes referred to as the [Blue Team](#blue-team). They can be contacted through email: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+    Deprecated name for the Security Team within the MoJ. The Security Team help protect against cyber attacks, and help manage [incidents](#incident). Sometimes referred to as the [Blue Team](#blue-team). They can be contacted through email: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 <a name="out-of-band-check"></a>
 
@@ -287,9 +287,9 @@ The NCSC has a comprehensive [cybersecurity glossary available on its website](h
 
 ## Out of band checks
 
-Out of band checks are an easy method to confirm the legitimacy of communications and requests. They can confirm the identity behind a message or request, and they can confirm the validity of the message or request itself. Social engineering techniques and phishing tactics take advantage of people who do not use out of band checks. By doing an out of band check, these sorts of attacks can be stopped very easily.
-
 An out of band check is when an individual uses a different method of communication than the one the message came from. This method means that if one communication method is compromised, you quickly find out by using a different communication method to confirm validity. The likelihood of multiple communication methods for the same person or team being compromised is low.
+
+Out of band checks are an easy method to confirm the legitimacy of communications and requests. They can confirm the identity behind a message or request, and they can confirm the validity of the message or request itself. Social engineering techniques and phishing tactics take advantage of people who do not use out of band checks. By doing an out of band check, these sorts of attacks can be stopped very easily.
 
 **Example 1**: You receive an email request for an urgent review of an invoice, and immediate payment. The email comes from someone unexpected. You should find the official contact details of that person, and contact them using a phone call - but not email - to confirm that they did indeed send the original email. If they did send the email, you can proceed with the request. If they did not send the email, you can report the email as a phish, and also alert the owner of the email address that their email address might have been compromised.
 
@@ -309,7 +309,7 @@ All members of your workplace should be happy to receive such a check. It shows 
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

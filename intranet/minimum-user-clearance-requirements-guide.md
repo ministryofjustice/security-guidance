@@ -17,7 +17,7 @@ Where appropriate, Enhanced checks apply, for example Enhanced Security Check (e
 
 ##Minimum user clearance requirements
 
-Most of the MoJ IT systems are able to process `OFFICIAL` information. Therefore all roles in the MoJ require staff to attain BPSS clearance as a minimum to be granted access rights to view `OFFICIAL` information. Some roles require staff to have higher clearance.
+Most of the MoJ IT systems are able to process **Official** information. Therefore all roles in the MoJ require staff to attain BPSS clearance as a minimum to be granted access rights to view **Official** information. Some roles require staff to have higher clearance.
 
 For an individual to perform any of the following tasks, clearance higher than BPSS is required:
 
@@ -38,7 +38,7 @@ Please contact the Cyber Assistance Team and refer to the [Vetting Policy](/guid
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ---
 

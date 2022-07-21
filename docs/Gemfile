@@ -17,3 +17,5 @@ gem 'nokogiri', '>= 1.12.5'
 gem 'rb-fsevent', '>= 0.11.0'
 
 gem "addressable", ">= 2.8.0"
+
+gem "webrick", "~> 1.7"

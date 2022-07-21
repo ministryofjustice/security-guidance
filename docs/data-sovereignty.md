@@ -4,9 +4,9 @@ The Ministry of Justice \(MoJ\) Senior Security Adviser, Chief Information Secur
 
 ## Summary
 
-At `OFFICIAL` level, subject to adequate, proportionate and standard information security controls, the Department is content to process, and allow third-party partners to process, data \(including personal data\) outside the UK.
+At **Official** level, subject to adequate, proportionate and standard information security controls, the Department is content to process, and allow third-party partners to process, data \(including personal data\) outside the UK.
 
-This statement includes the `SENSITIVE` \(marked as `OFFICIAL-SENSITIVE`\) handling caveat advising that additional care may be required; it is not a separate classification and any data / information is subject to the same rules as `OFFICIAL`.
+This statement includes the **Sensitive** \(marked as **Official-Sensitive**\) handling caveat advising that additional care may be required; it is not a separate classification and any data / information is subject to the same rules as **Official**.
 
 The MoJ does not by default or routine require 'UK only hosting' or 'UK only services' for data privacy, data protection or information security reasons.
 
@@ -39,11 +39,11 @@ The MoJ has no plans to inshore data \(i.e. limiting and / or returning data to 
 
 ## Where to get help
 
-In the first instance, contact the MoJ's Data Protection Officer - [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk).
+In the first instance, contact the MoJ's Data Protection Officer - [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk).
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

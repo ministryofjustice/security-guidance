@@ -16,16 +16,16 @@
       the <ph conref="conrefs.dita#conrefs/moj"/> does not require suppliers to
       create or maintain dedicated or segregated IT solutions for processing
       <ph conref="conrefs.dita#conrefs/moj"/> data classified at
-      <codeph>OFFICIAL</codeph>.</p>
+      <ph conref="conrefs.dita#conrefs/official"/>.</p>
     <p>For <ph conref="conrefs.dita#conrefs/moj"/> data classified at
-      <codeph>OFFICIAL-SENSITIVE</codeph>,
+      <ph conref="conrefs.dita#conrefs/official-sensitive"/>,
       additional comprehensive security assurance is required.
       The assurance <ph conref="conrefs.dita#conrefs/policyshall"/> include
       controls and governance processes.
       The assurance <ph conref="conrefs.dita#conrefs/policyshall"/> be appropriate
       to the information sensitivity.
-    Contact the <ph conref="conrefs.dita#conrefs/catemailtext"/> for assistance
-  regarding acceptable security assurance for <codeph>OFFICIAL-SENSITIVE</codeph>
+    Contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/> for assistance
+  regarding acceptable security assurance for <ph conref="conrefs.dita#conrefs/official-sensitive"/>
   <ph conref="conrefs.dita#conrefs/moj"/> data.</p>
   </body>
   <topic id="technical-security">
@@ -90,7 +90,7 @@
         <title>Working overseas</title>
         <body>
           <p>Supplier staff are not prohibited from working overseas while
-            processing <codeph>OFFICIAL</codeph>
+            processing <ph conref="conrefs.dita#conrefs/official"/>
             <ph conref="conrefs.dita#conrefs/moj"/> data,
             subject to implementing and maintaining acceptable information
             controls and governance.
@@ -106,7 +106,7 @@
             it might be appropriate to use secondary,
             temporary accounts,
             to avoid primary account compromise.
-            Contact the <ph conref="conrefs.dita#conrefs/catemailtext"/> for assistance
+            Contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/> for assistance
           regarding acceptable security assurance when working overseas.</p>
         </body>
       </topic>

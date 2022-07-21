@@ -257,8 +257,6 @@ In practice, all sorts of things can go wrong with email from time-to-time. Don'
 
 For general assistance on MoJ security matters, email [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
-For Cyber Security assistance or consulting, email [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
-
 Suppliers to the MoJ should primarily contact your usual MoJ points of contact.
 
 ##General enquiries, including theft and loss
@@ -266,7 +264,7 @@ Suppliers to the MoJ should primarily contact your usual MoJ points of contact.
 **Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
 * Tel: 0800 917 5148
-* [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
+* [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
 
 **Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel (`#digitalservicedesk`), are no longer being monitored.
 

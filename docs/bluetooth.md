@@ -27,7 +27,7 @@ The aim is to help you maintain the Confidentiality, Integrity and Availability 
 
 Some types of Bluetooth devices are not allowed, by default. However, where there is a good reason for requiring a Bluetooth device, such as for Accessibility reasons, then a request for an exception to use the device will be treated sympathetically and permitted wherever possible.
 
-Contact the Cyber Assistance Team by email: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk)
+Contact the Security team by email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 
 ## Bluetooth devices and risks
 
@@ -76,7 +76,7 @@ Before using a Bluetooth device in a work context, consider the following:
 -   Have you connected to any other 'public' Bluetooth devices?
 -   Are all the devices password protected?
 -   Might someone be able to find out what Bluetooth devices you are using?
--   Is the material you are working with `OFFICIAL-SENSITIVE` or higher?
+-   Is the material you are working with **Official-Sensitive** or higher?
 
 The best way to ensure your Bluetooth device is as up-to-date as possible is to apply all patches and fixes for all hardware devices as soon as you can.
 
@@ -92,11 +92,11 @@ When in public places, make sure you only connect to known devices. Always ensur
 
 If someone can find what Bluetooth devices you have, or are using, they might try and use one of their device to intercept or monitor the connection. Try to keep Bluetooth devices out of sight so that no-one knows which ones you might actually be using. Even the bright blue light Bluetooth devices illuminate when they are connected might draw unwanted attention.
 
-Generally speaking, Bluetooth devices do not present extra problems when working with `OFFICIAL` material. However, the whole point of Bluetooth is to enable and simplify communications, so you need to be extra careful when using Bluetooth devices while working on `OFFICIAL-SENSITIVE` or higher material.
+Generally speaking, Bluetooth devices do not present extra problems when working with **Official** material. However, the whole point of Bluetooth is to enable and simplify communications, so you need to be extra careful when using Bluetooth devices while working on **Official-Sensitive** or higher material.
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

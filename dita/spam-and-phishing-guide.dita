@@ -15,9 +15,7 @@
       <body>
         <p>To protect against spam and phishing attacks,
           the <ph conref="conrefs.dita#conrefs/moj"/> makes use of Government
-          services such as National Cyber Security Centre's
-          <xref href="mailto:report@phishing.gov.uk" format="html"
-            scope="external">Suspicious Email Reporting Service</xref> and any
+          services such as National Cyber Security Centre's Suspicious Email Reporting Service and any
             other services that are appropriate.</p>
       </body>
     </topic>
@@ -158,8 +156,7 @@
       Internet using the Simple Mail Transfer Protocol (SMTP).</p>
       <p>To add domains to the <ph conref="conrefs.dita#conrefs/moj"/>'s Mail
       Check service subscription,
-      contact the <xref href="mailto:mailcheck@digital.ncsc.gov.uk"
-      format="html" scope="external">NCSC Mail Check team</xref>.</p>
+      contact the NCSC Mail Check team via <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
     </body>
   </topic>
   <topic id="email-sandboxing">
@@ -183,7 +180,7 @@
       </ul></p>
       <p>For further guidance on implementing sandboxing,
         including which products you might use,
-        contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/>.</p>
+        contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
     </body>
   </topic>
   <topic id="url-link-rewriting">
@@ -253,7 +250,7 @@
     <title>Reporting spam or malicious emails</title>
     <body>
       <p>If you think your email service provision has been susceptible to spam or a virus,
-        report it immediately to the <ph conref="conrefs.dita#conrefs/servicedesk"/> as an IT security incident.
+        report it immediately to the <ph conref="conrefs.dita#conrefs/servicedesk"/> on <ph conref="conrefs.dita#conrefs/servicedesknumber"/> as an IT security incident.
         Please refer to the <xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref> for further guidance.</p>
     </body>
   </topic>

@@ -31,7 +31,7 @@
           For example,
           having a file on your desk top called <codeph>MyPasswords.docx</codeph> is a bad idea,
           for several reasons!</li>
-        <li>Avoid having files or information labelled <codeph>SENSITIVE</codeph> displayed or stored on your desk top.</li>
+        <li>Avoid having files or information labelled <ph conref="conrefs.dita#conrefs/sensitive"/> displayed or stored on your desk top.</li>
       </ul></p>
     </body>
   </topic>
@@ -44,12 +44,12 @@
           cabinets or other forms of security furniture when not in use, particularly outside working hours.</li>
         <li>Where lockable safes, filing cabinets, drawers, cupboards, or similar secure storage areas are not available,
           doors <ph conref="conrefs.dita#conrefs/policyshall"/> be locked if rooms are left unattended.
-          At the end of each session all <codeph>OFFICIAL</codeph> and <codeph>OFFICIAL-SENSITIVE</codeph>
+          At the end of each session all <ph conref="conrefs.dita#conrefs/official"/> and <ph conref="conrefs.dita#conrefs/official-sensitive"/>
           information <ph conref="conrefs.dita#conrefs/policyshall"/> be
           removed from the work place and stored in a locked area.</li>
-        <li>When handling <codeph>OFFICIAL</codeph> documents security <ph conref="conrefs.dita#conrefs/policyshall"/>
+        <li>When handling <ph conref="conrefs.dita#conrefs/official"/> documents security <ph conref="conrefs.dita#conrefs/policyshall"/>
           follow the requirements laid down in the <xref href="information-classification-handling-and-security-guide.dita" format="dita">Government Classification Scheme (GCS)</xref>.</li>
-        <li><codeph>OFFICIAL</codeph> or <codeph>OFFICIAL-SENSITIVE</codeph> information, when printed,
+        <li><ph conref="conrefs.dita#conrefs/official"/> or <ph conref="conrefs.dita#conrefs/official-sensitive"/> information, when printed,
           <ph conref="conrefs.dita#conrefs/policyshould"/> be cleared from printers immediately.</li>
       </ul>
       <p><xref href="remote-working.dita#printing/printing" format="dita" platform="html">Think before you print</xref><xref href="remote-working.dita#printing" format="dita" platform="epub pdf">Think before you print</xref>.</p>

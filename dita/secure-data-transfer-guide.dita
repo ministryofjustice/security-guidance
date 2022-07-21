@@ -146,7 +146,7 @@
           <body>
             <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s preferred method of
             data sharing is to use Microsoft Teams via Sharepoint.
-            Teams has been authorised to hold <codeph>OFFICIAL-SENSITIVE</codeph>
+            Teams has been authorised to hold <ph conref="conrefs.dita#conrefs/official-sensitive"/>
             information.
             It is configured to provide greater granular protection through tools
             such as Azure Information Protection (AIP).
@@ -161,7 +161,7 @@
             <ph conref="conrefs.dita#conrefs/policymay"/> use
             <ph conref="conrefs.dita#conrefs/gsuite"/> to transfer data.</p>
             <p>For more details on the actual process for a transfer,
-              contact the <ph conref="conrefs.dita#conrefs/catemailtext"/>.</p>
+              contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
           </body>
         </topic>
         <topic id="data-transfer-by-email">
@@ -241,7 +241,7 @@
                 <ph conref="conrefs.dita#conrefs/moj"/> email accounts</li>
               <li>This method <ph conref="conrefs.dita#conrefs/policycan"/> be
               used to send or receive files classified as
-              <codeph>OFFICIAL</codeph>.
+              <ph conref="conrefs.dita#conrefs/official"/>.
               It is normally used with external partners,
               agencies,
               or individuals who cannot be contacted using CJSM email.</li>
@@ -273,7 +273,7 @@
             <ph conref="#data-transfer-by-email/alternative-channel"/></p>
             <p>If you think you have no other option for copying or moving data,
               and have to use removable media,
-              contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/>.</p>
+              contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
             <p>Ownership of any removable media used
               <ph conref="conrefs.dita#conrefs/policymust"/> be established.
               The removable media <ph conref="conrefs.dita#conrefs/policymust"/>
@@ -295,7 +295,7 @@
               An email confirming receipt is acceptable.</p>
             <p>Report any issues to your line manager and in the case of
               missing or corrupt data to the
-              <ph conref="conrefs.dita#conrefs/ostemailtext"/> immediately.</p>
+              <ph conref="conrefs.dita#conrefs/securityemailtext"/> immediately.</p>
         </body>
         <topic id="data-transfers-by-post-or-courier">
           <title>Data transfers by post or courier</title>
