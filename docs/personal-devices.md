@@ -41,7 +41,7 @@ Personal devices **shall not** be charged from the USB ports of an MoJ device.
 -   You **shall not** store work files or information on a personal storage device or memory stick, such as an external drive, thumb drive, or USB stick.
 -   Some teams within the MoJ **might** have permission to use personal devices for some tasks. This permission continues, but is being reviewed on an on-going basis. Ensure that you have documented approval recording your permission. Ensure that the permission is no more than 12 months old. To request or refresh permission, ask your Line Manager to seek approval by checking with the [Security team](mailto:security@justice.gov.uk).
 
-**Note:** You are not asked or required to use your own devices for work purposes. Statement **POL.MOB.009** of the [mobile device and remote working policy](mobile-device-and-remote-working-policy.md#use-of-private-equipment) makes clear that you **should not** use personal devices for MoJ work purposes. If you have access to MoJ devices for work purposes, you **shall** use them by default.
+**Note:** You are not asked or required to use your own devices for work purposes. Statement **POL.MOB.009** of the [mobile device and remote working policy](mobile-device-and-remote-working-policy.md#use-of-private-equipment) makes clear that you **should not** use personal devices for MoJ work purposes. If you have access to MoJ devices for work purposes, you **shall** use them by default. A special case is that if you do not have an MoJ-issued mobile phone, you **may** use a personal device to receive [Multi-factor authentication \(MFA\)](glossary.md#multi-factor-authentication-mfa) codes or messages which authorise access by MoJ devices to MoJ systems.
 
 ## Using MoJ tools on personal devices
 
