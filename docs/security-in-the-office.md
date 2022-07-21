@@ -31,7 +31,7 @@ This document is a summary of the key security points for working in a Ministry 
 
 -   Be mindful of being overseen from outside. Position computer screens so that they cannot be seen by anyone looking in. Ensure that whiteboards are cleaned at the end of meetings, and cannot be read from outside the building while in use. Ensure that noticeboards cannot be read from outside the building.
 
--   Where there is insufficient lockable storage space, you **SHALL** secure the premises where sensitive information or documents are held. If you are uncertain, talk to your manager.
+-   Where there is insufficient lockable storage space, you **shall** secure the premises where sensitive information or documents are held. If you are uncertain, talk to your manager.
 
 
 More information is available in the [clear screen and desk guidance](clear-screen-and-desk.md).

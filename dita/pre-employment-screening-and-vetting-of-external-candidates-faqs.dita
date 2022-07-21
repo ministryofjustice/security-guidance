@@ -414,8 +414,7 @@
       <body>
         <p>For all changes in personal circumstances,
           contact Cluster 2 Personnel Risk Management by emailing
-          <xref href="mailto:VettingAftercare@cluster2security.gov.uk"
-            format="html" scope="external">VettingAftercare@cluster2security.gov.uk</xref>.</p>
+          <ph conref="conrefs.dita#conrefs/vettingaftercareemailtext"/>.</p>
         <p>You can find more information <xref
           href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/reporting-personal-circumstance-changes/"
           format="html" scope="external">here</xref>.</p>

@@ -267,7 +267,7 @@
         <p>Log Collection Principle(s): 3, 5</p>
         <p>Where VPN services are in use, connection-related log data must be created and forwarded.
         <ol>
-          <li>Success or unsuccess status</li>
+          <li>Success or unsuccessful status</li>
           <li>User/certificate identifier</li>
           <li>Client IP address</li>
           <li>Concentrator identifier</li>

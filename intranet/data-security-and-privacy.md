@@ -46,7 +46,7 @@ A Data Protection Impact Assessment (DPIA, formerly commonly known as a Privacy 
 
 ##Data privacy
 
-The MoJ [Data Privacy Team](mailto:privacy@justice.gov.uk) provides services, guidance, and support for all aspects of data privacy and protection.
+The MoJ [Data Protection Team](mailto:DataProtection@justice.gov.uk) provides services, guidance, and support for all aspects of data privacy and protection.
 
 For example, they have [protocols and procedures](https://security-guidance.service.justice.gov.uk/acceptable-use-policy/#data-protection-acceptable-use-protocols-and-standard-operating-procedures) to help ensure acceptable use of personal information.
 

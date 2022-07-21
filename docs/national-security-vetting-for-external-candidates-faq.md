@@ -8,7 +8,7 @@ The processes described in this document are under continual review as part of t
 
 ### Q1. How does the vacancy manager know what level of clearance a role requires?
 
-Vacancy managers **SHALL** always advertise their roles with the correct level of clearance required. Levels of clearance are defined by the requirements of the role being filled, not by the level of clearance the candidate already possesses. Your National Security Vetting Contact \(NSVC\) can confirm whether your role requires national security vetting in addition to pre-employment checks. Wrongly classifying roles at advert stage leads to delays in on-boarding.
+Vacancy managers **shall** always advertise their roles with the correct level of clearance required. Levels of clearance are defined by the requirements of the role being filled, not by the level of clearance the candidate already possesses. Your National Security Vetting Contact \(NSVC\) can confirm whether your role requires national security vetting in addition to pre-employment checks. Wrongly classifying roles at advert stage leads to delays in on-boarding.
 
 If you don't know who your NSVC is, refer to the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
@@ -18,9 +18,9 @@ This depends on how the candidate is being recruited and their level in the orga
 
 **Bands A-F \(non-SCS\) recruited through fair and open recruitment**
 
--   All candidates **SHALL** undergo pre-employment checks relevant to the role.
+-   All candidates **shall** undergo pre-employment checks relevant to the role.
 -   SSCL will inform applicants to bring their Right To Work \(RTW\), ID and address documentation to interview.
--   Line managers **SHALL** check these documents, make a note of the document reference numbers and input these into Oleeo at the Interview Scores Entered stage.
+-   Line managers **shall** check these documents, make a note of the document reference numbers and input these into Oleeo at the Interview Scores Entered stage.
 -   If the applicant is successful at interview, SSCL will make a provisional offer and ask the candidate to upload copies of the same RTW, ID and address documents into Oleeo.
 -   If NSV is required for the role \(as indicated by the vacancy manager in the advert\), SSCL will also send a link to the candidate so they can complete an on-line security questionnaire on the NSVS portal.
 
@@ -62,11 +62,11 @@ Non-directly employed workers include the following:
 -   Agency staff.
 -   Fee-Paid workers.
 
-Managers **SHALL** ensure that these applicants undergo the mandatory BPSS checks covering: identity, nationality, immigration, Right To Work \(RTW\), employment history, and criminal records checks. SSCL will not conduct these checks.
+Managers **shall** ensure that these applicants undergo the mandatory BPSS checks covering: identity, nationality, immigration, Right To Work \(RTW\), employment history, and criminal records checks. SSCL will not conduct these checks.
 
 For posts that require NSV:
 
--   The vacancy manager **SHALL** discuss this with their NSVC and obtain a code which needs to be entered on the CRF submitted to SSCL.
+-   The vacancy manager **shall** discuss this with their NSVC and obtain a code which needs to be entered on the CRF submitted to SSCL.
 -   If you don't know who your NSVC is, refer to the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 -   SSCL only accepts requests with a valid vetting reference code provided on the CRF.
 -   SSCL sends a link to the candidate so they can complete their on-line security questionnaire on the NSVS portal.
@@ -96,11 +96,11 @@ Refer to [Q3, Section 1](#q3-how-long-do-the-pre-employment-and-vetting-checks-t
 
 ### Q3. National Security Vetting takes too long, can the candidate start at BPSS and apply for NSV once they are in post?
 
-If NSV is required for a position, candidates **SHOULD NOT** start until their NSV is confirmed.
+If NSV is required for a position, candidates **should not** start until their NSV is confirmed.
 
 In exceptional circumstances, a policy dispensation request can be made to [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk), who will give a recommendation on whether to grant or refuse the request. Any risk mitigation measures deemed to be required will also be provided for the Senior Security Advisor and the business unit to sign-up to.
 
-Contractors and Agency staff, who **SHALL** have their NSV in place before they start, should contact their NSVC in the first instance. If you don't know who your NSVC is, refer to the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
+Contractors and Agency staff, who **shall** have their NSV in place before they start, should contact their NSVC in the first instance. If you don't know who your NSVC is, refer to the download [here](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/).
 
 ## Section 4: National Security Vetting Applications
 
@@ -118,7 +118,7 @@ NSV is a separate process and is not HR-related. For legal reasons, we often ask
 
 ### Q4. What if the candidate doesn't complete specific dates and details for the Security Questionnaire?
 
-All information declared on the Security Questionnaire **SHALL** be completed in full and to the best of the candidate's knowledge. If certain dates or information are not known, they should include an explanation in the information box provided. Missing or incorrect data delays the application, as the file is referred to a vetting officer who needs to investigate and find the missing data.
+All information declared on the Security Questionnaire **shall** be completed in full and to the best of the candidate's knowledge. If certain dates or information are not known, they should include an explanation in the information box provided. Missing or incorrect data delays the application, as the file is referred to a vetting officer who needs to investigate and find the missing data.
 
 ### Q5. What happens if the candidate misses information out?
 
@@ -152,7 +152,7 @@ Speak to your national security vetting contact \(NSVC\), they will decide if it
 
 ### Q3. My personal circumstances have changed, who should I advise?
 
-For all changes in personal circumstances, please contact Cluster 2 Personnel Risk Management by emailing: [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk). Failure to report relevant changes could result in withdrawal of clearance.
+For all changes in personal circumstances, please contact Cluster 2 Personnel Risk Management by emailing Vetting team via [Security team](mailto:security@justice.gov.uk). Failure to report relevant changes could result in withdrawal of clearance.
 
 ## Contact details
 

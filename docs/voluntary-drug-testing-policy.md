@@ -4,7 +4,7 @@
 
 This policy covers access to a range of government assets at risk from a wide range of national security threats. These threats may be related to terrorism, espionage, sabotage, or serious organised crime. Vulnerabilities may also arise from disaffected employees \(known as "insiders"\) who could seek to exploit their level of access.
 
-This policy **SHOULD** be read in conjunction with the [Voluntary Drug Testing Policy Procedures](voluntary-drug-testing-policy-procedures.md).
+This policy **should** be read in conjunction with the [Voluntary Drug Testing Policy Procedures](voluntary-drug-testing-policy-procedures.md).
 
 ## Purpose
 
@@ -25,11 +25,11 @@ The [Government Functional Standard - GovS 007: Security](https://www.gov.uk/gov
 
 ## Policy Statement
 
-To achieve this security outcome, the following **SHALL** be followed by the MoJ.
+To achieve this security outcome, the following **shall** be followed by the MoJ.
 
 -   Determine the need for voluntary drug testing using a threat and risk management approach, based on evidence supplied throughout the National Security Vetting \(NSV\) process.
--   Individuals **SHOULD** co-operate fully with any request to provide a voluntary sample collection for drug testing.
--   Confirmation of test results, and any subsequent decision making made, **SHALL** be held on the individual's vetting file, and stored in accordance with the organisation's retention periods.
--   Test results **SHALL NOT** be used for any other purpose than deciding suitability to hold NSV. Exceptions to this include legal obligations \(for example Court order, or Police warrant\), or the transfer of records to another Vetting Authority, as part of clearance confirmation procedures, or where there is an overriding corporate duty of care to the vetting subject.
--   Any new information or concerns affecting the reliability of an individual **SHALL** be reported to, and dealt with by, [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk), in conjunction with the Senior Security Advisor.
+-   Individuals **should** co-operate fully with any request to provide a voluntary sample collection for drug testing.
+-   Confirmation of test results, and any subsequent decision making made, **shall** be held on the individual's vetting file, and stored in accordance with the organisation's retention periods.
+-   Test results **shall not** be used for any other purpose than deciding suitability to hold NSV. Exceptions to this include legal obligations \(for example Court order, or Police warrant\), or the transfer of records to another Vetting Authority, as part of clearance confirmation procedures, or where there is an overriding corporate duty of care to the vetting subject.
+-   Any new information or concerns affecting the reliability of an individual **shall** be reported to, and dealt with by, [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk), in conjunction with the Senior Security Advisor.
 

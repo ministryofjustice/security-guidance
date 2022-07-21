@@ -2,7 +2,7 @@
 
 Managers must ensure that all employees, contractors and third-party users return all assets within their possession and that all access rights (including building passes, access to buildings, IT systems, applications and directories) are removed at the point of termination or change of employment.
 
-If the leaver has security clearance, managers should contact the [Cluster 2 Security Unit](mailto:contactus@cluster2security.gov.uk) to advise that the person has resigned and tell them their leaving date or the date on which they will be moving to a different department.
+If the leaver has security clearance, managers should contact the Cluster 2 Security Unit via [Security team](mailto:security@justice.gov.uk) to advise that the person has resigned and tell them their leaving date or the date on which they will be moving to a different department.
 
 Leavers should read the HR guidance at [End or change employment](/guidance/hr/end-change-of-employment/).
 

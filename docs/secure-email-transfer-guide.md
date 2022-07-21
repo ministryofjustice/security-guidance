@@ -2,7 +2,7 @@
 
 This guide provides technical users with information about the services and encryption tools for transferring information securely using email. Ensure that email communication is sufficiently secured before transferring sensitive information. Examples of sensitive information include:
 
--   `OFFICIAL-SENSITIVE` classified information such as personal data.
+-   **Official-Sensitive** classified information such as personal data.
 -   API and other application keys or credentials, including within containers.
 -   SSH keys.
 -   Database and other system-to-system passwords.
@@ -19,13 +19,13 @@ This guide provides technical users with information about the services and encr
 
 Ensure that any service capable of sending and receiving email uses enforced TLS to encrypt messages:
 
--   The Ministry of Justice \(MoJ\) **SHOULD** always use the latest version of TLS.
--   TLS **SHALL** always be used when sending to `gov.uk` domains.
--   Any MoJ domains that do not support TLS **SHALL** be documented in an exceptions list, and an exception rule authorised by the DNS provider. Refer to the [Email Authentication Guide](email-authentication-guide.md) for DNS provider contact details.
+-   The Ministry of Justice \(MoJ\) **should** always use the latest version of TLS.
+-   TLS **shall** always be used when sending to `gov.uk` domains.
+-   Any MoJ domains that do not support TLS **shall** be documented in an exceptions list, and an exception rule authorised by the DNS provider. Refer to the [Email Authentication Guide](email-authentication-guide.md) for DNS provider contact details.
 -   Where mandatory TLS encryption is not suitable:
     -   Use certificates from Certificate Authorities, making sure they are always valid and use strong encryption, algorithms, and key lengths.
     -   Use [Secure Multipurpose Internet Mail Extension \(S/MIME\)](https://en.wikipedia.org/wiki/S/MIME), as it signs and encrypts email data before it is transmitted.
--   If you operate an internet-facing email service, you **SHALL** buy and manage appropriate TLS certificates from the [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/).
+-   If you operate an internet-facing email service, you **shall** buy and manage appropriate TLS certificates from the [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/).
 
 The [Information Classification Handling and Security Guide](information-classification-handling-and-security-guide.md) offers further advice on encrypting email communications. This includes protecting data at rest, and data in transit.
 
@@ -39,7 +39,7 @@ End-to-end email encryption ensures that only the sender and intended receiver c
 
 Select the most suitable system for service users, and configure it appropriately. This section provides guidance on the various options available.
 
-**Note:** Remember that only MoJ email systems may be used for business purposes. Personal email accounts **SHALL NOT** be used for business purposes.
+**Note:** Remember that only MoJ email systems may be used for business purposes. Personal email accounts **shall not** be used for business purposes.
 
 |Secure Messaging Options|Examples|
 |------------------------|--------|
@@ -69,7 +69,7 @@ If either of these additional encryption methods is required, please contact the
 
 ## Criminal Justice Secure Mail
 
-Criminal Justice Secure Mail \(CJSM\) provides a closed email service between Criminal Justice Agencies \(CJAs\), and Criminal Justice Practitioners \(CJPs\). CJSM **SHALL NOT** be used from public or personal computers. CJSM **SHOULD** be used only for legitimate business purposes relating to the Criminal Justice System.
+Criminal Justice Secure Mail \(CJSM\) provides a closed email service between Criminal Justice Agencies \(CJAs\), and Criminal Justice Practitioners \(CJPs\). CJSM **shall not** be used from public or personal computers. CJSM **should** be used only for legitimate business purposes relating to the Criminal Justice System.
 
 Examples of CJAs within the GSC are:
 
@@ -92,17 +92,17 @@ The CJSM offers two mechanisms for connection:
 
 All MoJ users can send or receive over CJSM by adding `.CJSM.net` to the end of their MoJ email address.
 
-CJSM **SHALL** only be used to share information up to and including `OFFICIAL-SENSITIVE`.
+CJSM **shall** only be used to share information up to and including **Official-Sensitive**.
 
-CJSM **SHALL NOT** be used with multi-client mail relay services such as Mailgun, Mailchimp, or AWS SES.
+CJSM **shall not** be used with multi-client mail relay services such as Mailgun, Mailchimp, or AWS SES.
 
-For further guidance contact the [CJSM Helpdesk](mailto:cjsm.helpdesk@egress.com). Alternatively, further information is available at: [https://www.cjsm.justice.gov.uk/training/index.html](https://www.cjsm.justice.gov.uk/training/index.html).
+For further guidance contact the CJSM Helpdesk via [Security team](mailto:security@justice.gov.uk). Alternatively, further information is available at: [https://www.cjsm.justice.gov.uk/training/index.html](https://www.cjsm.justice.gov.uk/training/index.html).
 
 ## External emails
 
 Ensure that all outgoing emails are automatically appended with a disclaimer.
 
-If you are exchanging email with an outside organisation with which the **SHALL NOT** could be bound contractually, the following text must be appended:
+If you are exchanging email with an outside organisation with which the **shall not** could be bound contractually, the following text must be appended:
 
 > I am not authorised to bind the Ministry of Justice contractually, nor to make representations or other statements which may bind the Ministry of Justice in any way via electronic means.
 
@@ -110,9 +110,9 @@ If you are exchanging email with an outside organisation with which the **SHALL 
 
 Ensure that auto-forwarding is used responsibly, and in line with the MoJ's [Information Classification Handling and Security Guide](information-classification-handling-and-security-guide.md). In particular:
 
--   Disable auto-forward to external domains. If auto-forwarding to an external domain is required, it **SHOULD** be controlled by creating custom Role Based Access Control \(RBAC\) roles.
+-   Disable auto-forward to external domains. If auto-forwarding to an external domain is required, it **should** be controlled by creating custom Role Based Access Control \(RBAC\) roles.
 -   Advise users to only forward emails from an MoJ email address to an email address that provides the same or higher security standards.
--   Do not provide auto-forward capability when any MoJ standard, policy, or guidance states that additional controls or protection **SHALL** be implemented before sending an email.
+-   Do not provide auto-forward capability when any MoJ standard, policy, or guidance states that additional controls or protection **shall** be implemented before sending an email.
 
 ## Contact details
 

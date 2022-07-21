@@ -6,7 +6,7 @@ The MoJ does **not** require the use of CJSM where other suitably secure and eff
 
 ## Government secure email policy
 
-Email services that are materially aligned to the [UK government secure email policy](https://www.gov.uk/guidance/securing-government-email) are suitable for the movement of `OFFICIAL` data, including where the `SENSITIVE` handling caveat has been applied.
+Email services that are materially aligned to the [UK government secure email policy](https://www.gov.uk/guidance/securing-government-email) are suitable for the movement of **Official** data, including where the **Sensitive** handling caveat has been applied.
 
 ## Feedback
 

@@ -40,7 +40,7 @@ There must be a [DMARC record](https://en.wikipedia.org/wiki/DMARC) configured i
 
 Example 'reject' policy record:
 
-`v=DMARC1;p=reject;rua=mailto:dmarc-rua@dmarc.service.gov.uk;`
+`v=DMARC1;p=reject;rua=mailto:<example dmarc email address>;`
 
 ### Mail Exchanger \(MX\)
 

@@ -42,7 +42,7 @@
         <p>There must be a <xref href="https://en.wikipedia.org/wiki/DMARC" format="html" scope="external">DMARC record</xref> configured in line with <xref href="https://www.gov.uk/government/publications/email-security-standards/domain-based-message-authentication-reporting-and-conformance-dmarc" format="html" scope="external">published DMARC guidance</xref> on GOV.UK.</p>
         <p>Example 'reject' policy record:</p>
         <p>
-          <codeph>v=DMARC1;p=reject;rua=mailto:dmarc-rua@dmarc.service.gov.uk;</codeph>
+          <codeph>v=DMARC1;p=reject;rua=mailto:&lt;example dmarc email address&gt;;</codeph>
         </p>
       </body>
     </topic>

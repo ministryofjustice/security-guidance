@@ -20,9 +20,9 @@ It *does* include existing employees of a contractor who are newly deployed to c
 
 ##Policy
 
-The MoJ provides a right of internal appeal to the Permanent Secretary where an individual who falls within the scope of this policy has a security clearance refused or withdrawn by the Cluster 2 Security Unit. The appeal **SHOULD** be submitted within 15 working days of notification of the refusal or withdrawal decision.
+The MoJ provides a right of internal appeal to the Permanent Secretary where an individual who falls within the scope of this policy has a security clearance refused or withdrawn by the Cluster 2 Security Unit. The appeal **should** be submitted within 15 working days of notification of the refusal or withdrawal decision.
 
-Where the Permanent Secretary upholds the vetting decision to refuse or withdraw security clearance, there is a further avenue of appeal to the independent Security Vetting Appeals Panel (SVAP). This appeal **SHOULD** be submitted within 28 days of notification that the vetting decision has been upheld.
+Where the Permanent Secretary upholds the vetting decision to refuse or withdraw security clearance, there is a further avenue of appeal to the independent Security Vetting Appeals Panel (SVAP). This appeal **should** be submitted within 28 days of notification that the vetting decision has been upheld.
 
 To achieve this requirement, the Cluster 2 Security Unit must:
 

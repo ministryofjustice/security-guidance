@@ -65,7 +65,7 @@ The exception is where the asset might need a higher classification than that as
 
 ## Application of Government classification
 
-The Government classification scheme defines how information should be labelled and handled. Output from IT systems containing information that is classified must carry classification labels where it is `OFFICIAL` or higher. This includes, but is not limited to, printed reports, removable media, electronic messages \(such as email\) and file transfers.
+The Government classification scheme defines how information should be labelled and handled. Output from IT systems containing information that is classified must carry classification labels where it is **Official** or higher. This includes, but is not limited to, printed reports, removable media, electronic messages \(such as email\) and file transfers.
 
 All IT hardware and removable media assets **must** be labelled with the highest classification from among each of the individual information assets stored or processed on it.
 
