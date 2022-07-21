@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-07-21-15:40-bst-[policy-on-moj-like-domain-names](https:-security-guidance.service.justice.gov.uk-domain-names-policy-#domain-operations-operations-engineering-team)"></a>
+
+-   **2022-07-21 15:40 BST [Policy on MoJ-like domain names](https://security-guidance.service.justice.gov.uk/domain-names-policy/#domain-operations-operations-engineering-team)**
+
+    any requests from 3rd parties for MoJ-like domain names must first be approved by security.
+
 <a name="2022-07-21-13:45-bst-[guidance-on-use-of-personal-devices](https:-security-guidance.service.justice.gov.uk-personal-devices-#using-moj-tools-on-personal-devices)"></a>
 
 -   **2022-07-21 13:45 BST [Guidance on use of personal devices](https://security-guidance.service.justice.gov.uk/personal-devices/#using-moj-tools-on-personal-devices)**

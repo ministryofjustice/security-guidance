@@ -73,3 +73,4 @@
 "202206231202","Accessibility updates","Improved the content tagging following guidance on accessibility improvements. Affects all pages, the link in this notification is to an example page.","acceptable-use-policy/","2022-06-23 12:02 BST"
 "202207041423","Correct broken links","Internal links on a page were broken; now fixed.","security-log-collection/","2022-07-04 14:23 BST"
 "202207211345","Guidance on use of personal devices","Added clarification and emphasis that personal devices must not be used for work purposes. This includes accessing MoJ Slack channels using personal devices.","personal-devices/#using-moj-tools-on-personal-devices","2022-07-21 13:45 BST"
+"202207211540","Policy on MoJ-like domain names","any requests from 3rd parties for MoJ-like domain names must first be approved by security.","domain-names-policy/#domain-operations-operations-engineering-team","2022-07-21 15:40 BST"
