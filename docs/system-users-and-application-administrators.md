@@ -1,6 +1,6 @@
 # System Users and Application Administrators
 
-**Note:** This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+**Note:** This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact the [Security team](mailto:security@justice.gov.uk).
 
 ## How to use this document
 
@@ -94,13 +94,13 @@ For further all the security related information required, please refer to:
 |
 |Secure Disposal of Protectively Marked material|-   Protectively Marked material must be disposed separately from general waste. Such waste should not be accessible to those without the proper authority.
 -   PROTECT and RESTRICTED classified information can be disposed via standard office provided shred bins allocated to hold material up to and including RESTRICTED.
--   For CONFIDENTIAL, SECRET OR TOP SECRET information, Corporate Security Team must be contacted when securely disposing of paper documents, and \[ORGANISATION\] OST must be contacted for the secure disposal of IT devices.
+-   For CONFIDENTIAL, SECRET OR TOP SECRET information, Corporate Security Team must be contacted when securely disposing of paper documents, and \[ORGANISATION\] Security Team must be contacted for the secure disposal of IT devices.
 -   Further instructions can be found on the \[ORGANISATION\] Intranet, Confidential Waste Disposal page.
 
 |
 |Security Incident and General Reporting Procedures|-   All requests for IT support and all reports of IT failures must be logged with the IT Service Desk.
--   Any incident involving a suspected or known security breach involving personnel, hardware, software, communications, document or physical security must be reported immediately to the IT System Manager and the \[ORGANISATION\] Operational Security Team \(OST\).
--   Any loss of IT equipment, \[ORGANISATION\] or personal data should be [reported](#incidents). Report also to the Users' line manager, the OST \([OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)\)and to the Data Access & Compliance Unit \(DACU\).
+-   Any incident involving a suspected or known security breach involving personnel, hardware, software, communications, document or physical security must be reported immediately to the IT System Manager and the \[ORGANISATION\] Security Team.
+-   Any loss of IT equipment, \[ORGANISATION\] or personal data should be [reported](#incidents). Report also to the Users' line manager, the [Security team](mailto:security@justice.gov.uk) and to the Data Access & Compliance Unit \(DACU\).
 
 To ensure a quick response all emails must be marked Urgent and have 'Data Incident' in the title/subject heading.
 
@@ -117,9 +117,9 @@ By signing I acknowledge that I have read the Security Operating Procedures \(Sy
 
 **Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
 
-**Operational Security Team**
+**Security Team**
 
--   Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
+-   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 -   Slack: `#security`
 
 ## General enquiries, including theft and loss
@@ -127,7 +127,7 @@ By signing I acknowledge that I have read the Security Operating Procedures \(Sy
 **Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
 -   Tel: 0800 917 5148
--   [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
+-   [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
 
 **Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
 

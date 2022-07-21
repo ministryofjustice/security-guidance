@@ -6,7 +6,7 @@ There is an internal appeal to the Ministry of Justice (MoJ) Permanent Secretary
 
 More detailed guidance on the processes and timescales for internal and external appeals can be found at [Annex A: Cluster 2 Security Unit Security Clearance Appeals Procedures](#annex-a-cluster-2-security-unit-security-clearance-appeals-procedures).
 
-In this document the term **SHALL** is used to indicate an absolute requirement.
+In this document the term **shall** is used to indicate an absolute requirement.
 
 If you have any queries on the content of this document contact [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk).
 
@@ -31,7 +31,7 @@ It also applies to:
 
 ##The Government functional standard for security
 
-[Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) sets the expectations for protecting the government's people, information and assets. In respect of personnel security, it states that government organisations **SHALL** deliver the appropriate combination of recruitment checks, vetting and on-going personnel security aftercare to reduce the risk from insider threat. Furthermore, GovS 007 states that government organisations **SHALL** have:
+[Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) sets the expectations for protecting the government's people, information and assets. In respect of personnel security, it states that government organisations **shall** deliver the appropriate combination of recruitment checks, vetting and on-going personnel security aftercare to reduce the risk from insider threat. Furthermore, GovS 007 states that government organisations **shall** have:
 
 > A process in place which defines the approach to handling the refusal or withdrawal of clearances for both candidates at the recruitment stage and those already in employment.
 
@@ -53,32 +53,32 @@ The final decision to uphold the appeal or the decision to refuse or withdraw is
 
 **Note:** The appellant is defined as the individual who has had their security clearance refused or withdrawn, and wishes to appeal this decision.
 
-Where necessary, data **CAN** also be shared with the appellant's line manager, or the originator of material gathered in the course of national security vetting which has a bearing on the decision to refuse or withdraw clearance. In so doing, consent is always sought from the individual to share data, subject to considerations of national security.
+Where necessary, data **can** also be shared with the appellant's line manager, or the originator of material gathered in the course of national security vetting which has a bearing on the decision to refuse or withdraw clearance. In so doing, consent is always sought from the individual to share data, subject to considerations of national security.
 
 ##Contacts
 
 For general advice or guidance regarding the National Security Vetting process, contact [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk).
 
-To declare relevant changes in your personal circumstances, contact the Cluster 2 Personnel Risk Management Team by emailing [VettingAftercare@cluster2security.gov.uk](mailto:VettingAftercare@cluster2security.gov.uk).
+To declare relevant changes in your personal circumstances, contact the Cluster 2 Personnel Risk Management Team by emailing Vetting team via [Security team](mailto:security@justice.gov.uk).
 
 ##Annex A: Cluster 2 Security Unit Security Clearance Appeals Procedures
 
 ##Internal appeals
 
-Enclosed with the vetting decision letter to refuse or withdraw CTC (Counter Terrorist Check), SC (Security Check) or DV (Developed Vetting) security clearance **SHOULD** be the appeal documents comprising:
+Enclosed with the vetting decision letter to refuse or withdraw CTC (Counter Terrorist Check), SC (Security Check) or DV (Developed Vetting) security clearance **should** be the appeal documents comprising:
 
 * An explanation of the internal vetting appeals policy and process and of the entitlement, should that appeal fail, to appeal to the independent Security Vetting Appeals Panel (SVAP).
 
 * An internal appeal form ([Annex B](#annex-b-internal-appeal-form-following-refusal-or-withdrawal-of-security-clearance)) to be completed by the individual, and guidance as to what is required of the individual when lodging an appeal, for example provision of any additional information, identification of the reason(s) for the appeal as well as any alleged 'inaccuracy' or 'misunderstanding' in the decision letter.
 
 
-The vetting decision letter **SHOULD** also provide clear details of where the appeal notice **SHOULD** be sent.
+The vetting decision letter **should** also provide clear details of where the appeal notice **should** be sent.
 
-Appeals **SHALL** be made by the appellant and sent to the Permanent Secretary using the "Internal appeal form following refusal or withdrawal of security clearance" ([Annex B](#annex-b-internal-appeal-form-following-refusal-or-withdrawal-of-security-clearance)) within 15 working days of receiving the vetting decision.
+Appeals **shall** be made by the appellant and sent to the Permanent Secretary using the "Internal appeal form following refusal or withdrawal of security clearance" ([Annex B](#annex-b-internal-appeal-form-following-refusal-or-withdrawal-of-security-clearance)) within 15 working days of receiving the vetting decision.
 
-In lodging an appeal, the appellant **SHOULD** provide as full a rationale as they able, based on the reasons provided in the decision letter, with supporting facts where applicable and including any further information or documentation that **MIGHT** assist their appeal. An appeal submission **MIGHT** include information that was not previously available when the original clearance decision was made, where this information is materially relevant to the case.
+In lodging an appeal, the appellant **should** provide as full a rationale as they able, based on the reasons provided in the decision letter, with supporting facts where applicable and including any further information or documentation that **might** assist their appeal. An appeal submission **might** include information that was not previously available when the original clearance decision was made, where this information is materially relevant to the case.
 
-On receipt of an appeal, the Permanent Secretary **CAN** delegate the handling of it to an appeal officer, usually the Head of Vetting Appeals in the Cluster 2 Security Unit. The appeal officer is independent: they **SHALL NOT** have had any prior involvement or interest in the original decision-making process. The Permanent Secretary reserves the right to hear an appeal internally at their home department in any circumstances if they consider it appropriate.
+On receipt of an appeal, the Permanent Secretary **can** delegate the handling of it to an appeal officer, usually the Head of Vetting Appeals in the Cluster 2 Security Unit. The appeal officer is independent: they **shall not** have had any prior involvement or interest in the original decision-making process. The Permanent Secretary reserves the right to hear an appeal internally at their home department in any circumstances if they consider it appropriate.
 
 The Senior Security Advisor (SSA) of the MoJ acts as liaison between the Appeals Team and their department throughout the appeal process. The appeal officer conducts the appeal on behalf of the Permanent Secretary and provides a report and recommendation to the Permanent Secretary. In all cases, the Permanent Secretary makes the final decision.
 
@@ -92,20 +92,20 @@ The appeal officer conducts the internal appeal according to the following guide
 
 4.  The appeal officer usually invites the appellant to present their case in person at an appeal hearing. Where this is agreed, the appellant is expected to make themselves available for the hearing as directed. If the appellant chooses not to attend the hearing in person, the appeal is considered on papers alone. If the appellant fails to agree a date for the hearing within six weeks of receiving their papers, or fails to attend the agreed hearing without good reason, a further date is set. If the appellant does not attend, the appeal is considered on papers alone.
 
-5.  Where appropriate, and with the agreement of the appellant, the appeal hearing **CAN** be conducted via Skype or another secure communications facility. In such circumstances, those attending **SHALL** ensure the appropriate levels of security and privacy are in place for the duration of the hearing.
+5.  Where appropriate, and with the agreement of the appellant, the appeal hearing **can** be conducted via Skype or another secure communications facility. In such circumstances, those attending **shall** ensure the appropriate levels of security and privacy are in place for the duration of the hearing.
 
-6.  At the appeal hearing, the appellant **MAY** be accompanied by a work colleague from their respective organisation, who may be a trade union representative. Their role is confined to helping the appellant present their representations. They **SHALL NOT** answer questions directly on the appellant's behalf. Formal legal representation is not permitted. If there are any special requirements that the appeal officer needs to be aware of, this **SHOULD** be drawn to their attention in advance of the hearing so that necessary arrangements can be made.
+6.  At the appeal hearing, the appellant **may** be accompanied by a work colleague from their respective organisation, who may be a trade union representative. Their role is confined to helping the appellant present their representations. They **shall not** answer questions directly on the appellant's behalf. Formal legal representation is not permitted. If there are any special requirements that the appeal officer needs to be aware of, this **should** be drawn to their attention in advance of the hearing so that necessary arrangements can be made.
 
-7.  The appellant **SHOULD** be provided with a written record of the hearing within 5 working days of the hearing taking place, to allow for their comments and to confirm or dispute the accuracy of the record. In the case of a dispute, both records should be retained.
+7.  The appellant **should** be provided with a written record of the hearing within 5 working days of the hearing taking place, to allow for their comments and to confirm or dispute the accuracy of the record. In the case of a dispute, both records should be retained.
 
-8.  If the appeal officer requires any further information during the appeals process, they **CAN** request this from either party at any time.
+8.  If the appeal officer requires any further information during the appeals process, they **can** request this from either party at any time.
 
 9.  The appeal officer provides a report and recommendation to the Permanent Secretary within 15 working days of all enquiries being completed.
 
-10. Where, for operational or management reasons, any of the previous timescales cannot be met, the appellant **SHOULD** be notified and, where possible, a revised timescale **SHOULD** be set. Similarly, where the appellant is unable to meet the timescales, the appeal officer **SHOULD** be notified and, where possible, a revised timescale **CAN** be agreed.
+10. Where, for operational or management reasons, any of the previous timescales cannot be met, the appellant **should** be notified and, where possible, a revised timescale **should** be set. Similarly, where the appellant is unable to meet the timescales, the appeal officer **should** be notified and, where possible, a revised timescale **can** be agreed.
 
 
-On receipt of the report, the Permanent Secretary is responsible for making the final decision. In reaching a final decision, they **SHOULD** consider:
+On receipt of the report, the Permanent Secretary is responsible for making the final decision. In reaching a final decision, they **should** consider:
 
 * The statement of HMG personnel security and national security vetting policy, consideration of the interests of national security and the rights and interests of the individual.
 
@@ -118,20 +118,20 @@ The Permanent Secretary informs the appellant of the outcome of their appeal in 
 
 ##External appeals
 
-If an individual wishes to appeal against the outcome of the internal appeal, they **CAN** write to the Security Vetting Appeals Panel (SVAP), an independent advisory body which provides a final means of challenging a decision to refuse or withdraw a national security vetting clearance once an internal appeal has been dismissed. In such circumstances, the appellant is advised that if they wish to exercise a further right of appeal to SVAP, they **SHALL** notify the SVAP secretariat within 28 days of the decision of the internal appeal and provide contact details.
+If an individual wishes to appeal against the outcome of the internal appeal, they **can** write to the Security Vetting Appeals Panel (SVAP), an independent advisory body which provides a final means of challenging a decision to refuse or withdraw a national security vetting clearance once an internal appeal has been dismissed. In such circumstances, the appellant is advised that if they wish to exercise a further right of appeal to SVAP, they **shall** notify the SVAP secretariat within 28 days of the decision of the internal appeal and provide contact details.
 
 The SVAP is available to hear appeals from individuals in government departments and other organisations, or contractors' employees working for those departments and organisations, who have exhausted the internal appeals process and remain dissatisfied with the outcome. It is convened to hear cases as they arise, and consists of a Chairman and two members. The Chairman (and Deputy Chairman) is a senior member of the judiciary.
 
-The SSA **MIGHT** be required to attend the SVAP hearing as well as the appeal officer.
+The SSA **might** be required to attend the SVAP hearing as well as the appeal officer.
 
 The SVAP makes recommendations to the Head of Organisation in the light of its findings. It can recommend either:
 
-* That the decision to refuse or withdraw security clearance **SHOULD** stand.
+* That the decision to refuse or withdraw security clearance **should** stand.
 
 * That security clearance should be granted or restored.
 
 
-The SVAP **CAN** also comment on the vetting procedures and the adequacy of the internal appeals process and make recommendations. The Permanent Secretary takes the final decision on whether to accept any recommendations to grant or restore a security clearance. Depending on the SVAP's findings, which are not binding, the Permanent Secretary **MIGHT** choose to consult with Cluster 2 Security Unit regarding next steps.
+The SVAP **can** also comment on the vetting procedures and the adequacy of the internal appeals process and make recommendations. The Permanent Secretary takes the final decision on whether to accept any recommendations to grant or restore a security clearance. Depending on the SVAP's findings, which are not binding, the Permanent Secretary **might** choose to consult with Cluster 2 Security Unit regarding next steps.
 
 ##Annex B: Internal appeal form following refusal or withdrawal of security clearance
 
@@ -221,7 +221,7 @@ If yes, please provide details of the individual who will accompany you:
 
 ##PART B: Details of your appeal
 
-For your appeal, you **SHOULD** provide a full rationale, with supporting facts if necessary, and include any information or documentation that **MIGHT** assist your appeal. Typically, an appeal submission **MIGHT** include information that was not previously available when the original clearance decision was made, where this information is materially relevant to your case. Use a continuation sheet if necessary.
+For your appeal, you **should** provide a full rationale, with supporting facts if necessary, and include any information or documentation that **might** assist your appeal. Typically, an appeal submission **might** include information that was not previously available when the original clearance decision was made, where this information is materially relevant to your case. Use a continuation sheet if necessary.
 
      
 
@@ -237,7 +237,7 @@ Signature of appellant:
 
 ##Official Secrets Act
 
-The Home Office **SHALL** adhere to the Official Secrets Act 1989 which came into force in 1990. It replaced section 2 of the Official Secrets Act 1911, under which it was a criminal offence to disclose any official information without lawful authority. Under the 1989 act, it is an offence to disclose official information. The act applies to:
+The Home Office **shall** adhere to the Official Secrets Act 1989 which came into force in 1990. It replaced section 2 of the Official Secrets Act 1911, under which it was a criminal offence to disclose any official information without lawful authority. Under the 1989 act, it is an offence to disclose official information. The act applies to:
 
 * Crown servants, including Government ministers.
 
@@ -256,7 +256,7 @@ The handling of personal data must comply with UK Data Protection legislation. D
 
 ##Freedom of Information Act 2000
 
-Classification markings can assist in assessing whether exemptions to the Freedom of Information Act 2000 (FOI) may apply. However, each FOI request **SHALL** be considered on its own merits as the classification is not a justifiable reason for exemption. It is therefore important that staff (including contractors) who handle, or are likely to handle sensitive assets, understand fully the impact of such legislation and how it relates to their role.
+Classification markings can assist in assessing whether exemptions to the Freedom of Information Act 2000 (FOI) may apply. However, each FOI request **shall** be considered on its own merits as the classification is not a justifiable reason for exemption. It is therefore important that staff (including contractors) who handle, or are likely to handle sensitive assets, understand fully the impact of such legislation and how it relates to their role.
 
 ##Public Records Act 1967
 
@@ -264,7 +264,7 @@ Records selected for preservation may be retained under Section 3(4) of the 1958
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ---
 

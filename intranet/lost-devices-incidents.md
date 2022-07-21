@@ -20,7 +20,7 @@ If you think your device is lost, stolen, 'hacked', or in some way compromised, 
     **Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
     * Tel: 0800 917 5148
-    * [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
+    * [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
     **Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel (`#digitalservicedesk`), are no longer being monitored.
 
 2.  Tell your line manager as soon as possible.
@@ -32,7 +32,7 @@ Find out more about how to [report a security incident](/guidance/security/repor
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ---
 

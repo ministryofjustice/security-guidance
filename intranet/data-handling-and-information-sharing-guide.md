@@ -8,21 +8,21 @@ This guide is designed to help protect Ministry of Justice (MoJ) information hel
 
 The [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) identifies mandatory requirements about the value and classification of information assets. To comply with these requirements, the MoJ needs to ensure that:
 
-> Where information is shared for business purposes, departments and agencies **SHALL** ensure the receiving party understands the obligations and protects the assets appropriately.
+> Where information is shared for business purposes, departments and agencies **shall** ensure the receiving party understands the obligations and protects the assets appropriately.
 
 and
 
-> All staff handling sensitive government assets are briefed about how legislation (particularly regarding Freedom of Information and Data Protection) specifically relates to their role, including the potential disciplinary or criminal penalties that may result from failure to comply with security policies. Appropriate management structures **SHALL** be in place to ensure the proper handling, control and (if appropriate) managed disclosure of sensitive assets.
+> All staff handling sensitive government assets are briefed about how legislation (particularly regarding Freedom of Information and Data Protection) specifically relates to their role, including the potential disciplinary or criminal penalties that may result from failure to comply with security policies. Appropriate management structures **shall** be in place to ensure the proper handling, control and (if appropriate) managed disclosure of sensitive assets.
 
 The policy on data handling and information sharing is covered in the Information Classification and Handling Policy, whilst this document sets out the MoJ guidance sharing information within the MoJ and externally with other Government departments and 3rd parties.
 
-**Note:** Other guidance might refer to information classified as being `IL3 REST*`. This is an older classification standard. In general, `IL3 REST*` is approximately equivalent to `OFFICIAL` with the `SENSITIVE` handling caveat, often written as `OFFICIAL-SENSITIVE`. While this approximate alignment might be helpful, you should always review classification where older terms are used, to ensure that the correct current classification is used.
+**Note:** Other guidance might refer to information classified as being `IL3 REST*`. This is an older classification standard. In general, `IL3 REST*` is approximately equivalent to **Official** with the **Sensitive** handling caveat, often written as**Official-Sensitive**. While this approximate alignment might be helpful, you should always review classification where older terms are used, to ensure that the correct current classification is used.
 
 ##Scope
 
 This document provides guidance on handling or sharing information stored on MoJ IT systems, or exchanged electronically within the MoJ, or with external parties.
 
-The MoJ [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk) can help you with more guidance on the handling of protectively marked data.
+The MoJ [Security team](mailto:security@justice.gov.uk) can help you with more guidance on the handling of protectively marked data.
 
 This guide is split into three sections:
 
@@ -30,16 +30,16 @@ This guide is split into three sections:
 * [Information sharing](#information-sharing).
 * [Reporting data loss](#reporting-data-loss).
 
-**Note:** This document provides guidance for handling and sharing of information and data up to and including `OFFICIAL` and `OFFICIAL-SENSITIVE`, or the older Impact Level (IL) 3. Where information attracts a high protective marking or IL, advice **SHALL** be sought from the MoJ [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) and the MoJ Chief Information Security Officer (CISO).
+**Note:** This document provides guidance for handling and sharing of information and data up to and including **Official** and **Official-Sensitive**, or the older Impact Level (IL) 3. Where information attracts a high protective marking or IL, advice **shall** be sought from the MoJ [Security team](mailto:security@justice.gov.uk) and the MoJ Chief Information Security Officer (CISO).
 
 ##Handling data on MoJ IT systems
 
-This section covers how data **SHALL** be handled on MoJ IT systems, this includes both:
+This section covers how data **shall** be handled on MoJ IT systems, this includes both:
 
 * Data in transit.
 * Data at rest.
 
-For the purposes of this guide, the term "sensitive" data or information refers to data or information which attracts a handling caveat of `SENSITIVE`.
+For the purposes of this guide, the term "sensitive" data or information refers to data or information which attracts a handling caveat of **Sensitive**.
 
 ##Ownership of information
 
@@ -53,11 +53,11 @@ All MoJ information is assigned an individual who has overall responsibility for
 * Deleting, destroying or returning data and media.
 * Ensuring that any applicable legal, regulatory or contractual obligations are adhered to.
 
-This individual is the Information Asset Owner (IAO). The IAO **SHALL** ensure that information for which they are responsible for is appropriately handled, and where there is a business requirement to share it with a 3rd party, that it is shared in a safe and secure manner.
+This individual is the Information Asset Owner (IAO). The IAO **shall** ensure that information for which they are responsible for is appropriately handled, and where there is a business requirement to share it with a 3rd party, that it is shared in a safe and secure manner.
 
 ##Electronic data transfer and storage
 
-Data **SHALL** be stored only on managed accredited networks, with transfers onto remote access laptops or other mobile devices or media minimised. No sensitive data should be stored solely on non-networked devices or media unless specifically approved by the IAO.
+Data **shall** be stored only on managed accredited networks, with transfers onto remote access laptops or other mobile devices or media minimised. No sensitive data should be stored solely on non-networked devices or media unless specifically approved by the IAO.
 
 ##Data in transit
 
@@ -67,13 +67,13 @@ The term "data in transit" covers all electronic moves or transfers of data from
 
 The MoJ preference for transferring data is to use a secure accredited government network whether that is a MoJ owner network (e.g. DISC, ONMI, Quantum or MINT) or the Government Secure Intranet (GSi).
 
-As these networks can support data up to and including `OFFICIAL-SENSITIVE`, a base level of assurance is provided. However, consideration will need to be given to the following factors to ascertain if any additional security controls are required:
+As these networks can support data up to and including **Official-Sensitive**, a base level of assurance is provided. However, consideration will need to be given to the following factors to ascertain if any additional security controls are required:
 
 * The amount of data being transferred.
 * Frequency.
 * Any "need-to-know" considerations.
 
-Any additional controls **SHALL** be captured on the DMF (refer to the [Data Movement Form](#data-movement-form-dmf), where advice should be obtained from the MoJ Chief Information Security Officer (CISO) when required.
+Any additional controls **shall** be captured on the DMF (refer to the [Data Movement Form](#data-movement-form-dmf)). Advice should be obtained from the MoJ [Security team](mailto:security@justice.gov.uk) when required.
 
 ##USB mass storage device
 
@@ -81,7 +81,7 @@ If using a secure network is not feasible, the next preferred option is to use a
 
 For more information, refer to the [Removable Media](https://security-guidance.service.justice.gov.uk/removable-media/) guidance.
 
-The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice **SHALL** be sought from the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk), or CISO on the best option to use when completing the DMF (see [Data Movement Form](#data-movement-form-dmf)).
+The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice **shall** be sought from the [Security team](mailto:security@justice.gov.uk) on the best option to use when completing the DMF (refer to the [Data Movement Form](#data-movement-form-dmf)).
 
 ##Optical media
 
@@ -93,9 +93,9 @@ The use of optical media (i.e. CD/DVD) is not recommended for data transfer.
 
 ##Disposal and decommissioning
 
-Sensitive data **SHALL NOT** be kept for longer than is needed. The IAO **SHALL** check for compliance, including any mandatory retention period.
+Sensitive data **shall not** be kept for longer than is needed. The IAO **shall** check for compliance, including any mandatory retention period.
 
-Physical media containing sensitive data **SHALL** be disposed of securely, even if that data is encrypted. The reason is that an attacker could potentially make unlimited attempts to crack the encryption used if the media comes into their possession.
+Physical media containing sensitive data **shall** be disposed of securely, even if that data is encrypted. The reason is that an attacker could potentially make unlimited attempts to crack the encryption used if the media comes into their possession.
 
 Further information on disposal and decommissioning can be found in the [Secure Disposal of IT Equipment](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-equipment/) guidance.
 
@@ -103,7 +103,7 @@ Further information on disposal and decommissioning can be found in the [Secure 
 
 ##General principles
 
-Where there is a business need to transfer sensitive data, it **SHALL** be appropriately secured or encrypted using an approved mechanism prior to electronic transmission or export to removable media devices.
+Where there is a business need to transfer sensitive data, it **shall** be appropriately secured or encrypted using an approved mechanism prior to electronic transmission or export to removable media devices.
 
 Transferring sensitive data with the appropriate security controls may be achieved by:
 
@@ -113,23 +113,23 @@ Transferring sensitive data with the appropriate security controls may be achiev
 
 **Note:** Only the minimum amount of sensitive data necessary to meet the business requirement should be transferred and not the entire data set.
 
-The sender **SHALL** ensure that any data shared can be adequately secured by the recipient. The sensitivity of data **SHALL** never be downgraded in order to send it over inadequately protected channels, or to send it to a recipient who does not have an appropriate facility to protect it after it arrives.
+The sender **shall** ensure that any data shared can be adequately secured by the recipient. The sensitivity of data **shall** never be downgraded in order to send it over inadequately protected channels, or to send it to a recipient who does not have an appropriate facility to protect it after it arrives.
 
 ##Sharing sensitive information
 
-MoJ staff, including contractors and agency staff, **SHALL** make sure they observe the following measures when sharing sensitive information:
+MoJ staff, including contractors and agency staff, **shall** make sure they observe the following measures when sharing sensitive information:
 
 * Check that all recipients are authorised and cleared to receive sensitive information before sending it to them.
 * Ensure that the confidentiality of the sensitive information is protected during transit, for example by encrypting the data.
 * Ensure copies of sensitive information are not kept beyond when they are actually required, for example by keeping information "just in case" it might be needed in the future.
 
-All MoJ staff **SHALL** avoid exposing sensitive data to unnecessary risks, in particular by observing all aspects of MoJ [Acceptable Use](https://security-guidance.service.justice.gov.uk/acceptable-use/).
+All MoJ staff **shall** avoid exposing sensitive data to unnecessary risks, in particular by observing all aspects of MoJ [Acceptable Use](https://security-guidance.service.justice.gov.uk/acceptable-use/).
 
-Authorisation **SHALL** be sought from the IAO before sensitive information can be moved or shared with a 3rd party. The authorisation itself is captured within the [Data Movement Form](#data-movement-form-dmf). the following sub-sections provide guidance on particular types of information sharing common across the MoJ, and to help you complete a DMF.
+Authorisation **shall** be sought from the IAO before sensitive information can be moved or shared with a 3rd party. The authorisation itself is captured within the [Data Movement Form](#data-movement-form-dmf). the following sub-sections provide guidance on particular types of information sharing common across the MoJ, and to help you complete a DMF.
 
 ##Internally within the MoJ
 
-Information marked up to and including `OFFICIAL-SENSITIVE` can be transferred in bulk within an MoJ IT system or domain such as DOM1, without additional controls required to preserve the confidentiality of that information.
+Information marked up to and including **Official-Sensitive** can be transferred in bulk within an MoJ IT system or domain such as DOM1, without additional controls required to preserve the confidentiality of that information.
 
 Where information is transferred between MoJ IT systems or domains, additional controls might be required to:
 
@@ -141,19 +141,19 @@ Information transferred between two MoJ IT systems requires a completed and auth
 
 ##Information sharing with another HMG department
 
-Information shared with another government department **SHALL** be transferred to an assured system. This means the system **SHALL** be assured to the same level as the data being transferred. The transfer **SHALL** take place using one of the [data in transit](#data-in-transit) options. The preference is for information to be transferred using a secure network. However, for low frequency bulk transfers of data, MoJ approved removable media might be more suitable. A completed and authorised [Data Movement Form](#data-movement-form-dmf) is required.
+Information shared with another government department **shall** be transferred to an assured system. This means the system **shall** be assured to the same level as the data being transferred. The transfer **shall** take place using one of the [data in transit](#data-in-transit) options. The preference is for information to be transferred using a secure network. However, for low frequency bulk transfers of data, MoJ approved removable media might be more suitable. A completed and authorised [Data Movement Form](#data-movement-form-dmf) is required.
 
 ##Information sharing with external 3rd parties
 
-Any transfer of sensitive data to a 3rd party, including sub-contractors or service providers, **SHALL** be authorised by the relevant IAO. An appropriate contract, [Data Movement Form](#data-movement-form-dmf), and Non-disclosure Agreement (NDA) **SHALL** be in place prior to the transfer.
+Any transfer of sensitive data to a 3rd party, including sub-contractors or service providers, **shall** be authorised by the relevant IAO. An appropriate contract, [Data Movement Form](#data-movement-form-dmf), and Non-disclosure Agreement (NDA) **shall** be in place prior to the transfer.
 
-Where the information is `OFFICIAL-SENSITIVE`, it **SHALL** be transferred to an assured system, assured to the same level as the data being transferred, provided by the external 3rd party, using one of the [data in transit](#data-in-transit) options.
+Where the information is **Official-Sensitive**, it **shall** be transferred to an assured system, assured to the same level as the data being transferred, provided by the external 3rd party, using one of the [data in transit](#data-in-transit) options.
 
-Any transfer to a 3rd party **SHALL** be undertaken with appropriate security controls in place, using the guidance from this document, and seeking advice from Information Assurance and the MoJ CISO as required.
+Any transfer to a 3rd party **shall** be undertaken with appropriate security controls in place, using the guidance from this document, and seeking advice from the MoJ [Security team](mailto:security@justice.gov.uk) as required.
 
 ##Sharing across an unsecured network
 
-Sensitive data **SHALL** be encrypted prior to being transmitted over an unsecured network such as the Internet. The encrypted data may then be sent via file transfer or as an email attachment.
+Sensitive data **shall** be encrypted prior to being transmitted over an unsecured network such as the Internet. The encrypted data may then be sent via file transfer or as an email attachment.
 
 Ideally, both sender and recipient should check the integrity of data before and after transmission. This includes checking for malicious content, and for evidence of tampering during transit.
 
@@ -163,9 +163,9 @@ Where there is a business requirement to do so, sensitive information may be sha
 
 **Note:** File encryption does not protect the name of the file. This could reveal clues as to the nature and importance of the encrypted data. Encrypted files should be given innocuous names for transmission. If the data is contained in numerous small files, these should be collected together into a single archive ("zip") file. This archive should then be encrypted. Each file or archive should be sent separately, rather than attaching multiple encrypted files to a single email.
 
-##Sharing information higher than `OFFICIAL`
+##Sharing information higher than **Official**
 
-Where there is a business requirement to share information classified higher than `OFFICIAL`, advice **SHALL** be sought from the Operational Security Team: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk) or CISO prior to completing a [Data Movement Form](#data-movement-form-dmf).
+Where there is a business requirement to share information classified higher than **Official**, advice **shall** be sought from the [Security team](mailto:security@justice.gov.uk) prior to completing a [Data Movement Form](#data-movement-form-dmf).
 
 ##Data Movement Form (DMF)
 
@@ -175,21 +175,21 @@ The purpose of the DMF is to ensure that the movement of information assets is s
 
 Failure to fulfil or comply with the controls and measures identified within the DMF will lead to unnecessary risk or exposure for the MoJ, or the relevant Information Asset Owner (IAO), or the Senior Information Risk Owner (SIRO).
 
-A DMF **SHALL** be completed, and approval received from the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk), for the following scenarios:
+A DMF **shall** be completed, and approval received from the [Security team](mailto:security@justice.gov.uk), for the following scenarios:
 
 * Data is being moved or shared by using a physical storage device to transfer the information. An example is where you use a "memory stick", a USB drive, a storage array, or some other removable media. The DMF in this scenario focuses on the data being moved or shared.
 * Data is being moved or shared by electronic (network) communication, where the movement is from an MoJ IT system to an external party. An example is using secure file transfer or approved email to transfer the information. The DMF in this scenario focuses on the data being moved or shared.
 * An asset (a "data bearing asset") is being moved to, or transported by, an external party. This might be as a result of an office move, or because the asset is being decommissioned. The asset might contain or process MoJ information. Examples of data bearing assets include laptops, servers, multi-functional devices, and any other data bearing peripherals. The DMF in this scenario focuses on the asset being moved or transported, rather than the MoJ information that the asset might contain or process.
 
-A DMF **SHALL** be submitted to the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) for information purposes, in the following scenarios:
+A DMF **shall** be submitted to the [Security team](mailto:security@justice.gov.uk) for information purposes, in the following scenarios:
 
 * Data is being moved or shared by electronic (network) communication, where the movement is entirely within or between MoJ IT systems.
 * Data is being moved in full compliance with the already-approved service design and operation specification and procedures.
 * An asset (a "data bearing asset") is being moved but remains within the MoJ or its supplier-provided and MoJ-approved facilities at all times.
 
-**Note:** In the informational scenarios, a DMF is only expected the first time a data movement or sharing takes place. Subsequent, repeat instances of the movement or sharing, do not require a re-submission of the DMF. For example, when setting up a backup process as part of an approved service design, a DMF is created and submitted to the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk) for information purposes, but does not need to be re-created or re-submitted for each backup occurrence. If the implementation or process for the data movement or sharing changes, for example a new new backup technology or process is deployed, then a fresh informational DMF is required.
+**Note:** In the informational scenarios, a DMF is only expected the first time a data movement or sharing takes place. Subsequent, repeat instances of the movement or sharing, do not require a re-submission of the DMF. For example, when setting up a backup process as part of an approved service design, a DMF is created and submitted to the [Security team](mailto:security@justice.gov.uk) for information purposes, but does not need to be re-created or re-submitted for each backup occurrence. If the implementation or process for the data movement or sharing changes, for example a new new backup technology or process is deployed, then a fresh informational DMF is required.
 
-In any case of doubt, it is always advisable to complete a DMF and await approval or other feedback from the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gov.uk).
+In any case of doubt, it is always advisable to complete a DMF and await approval or other feedback from the [Security team](mailto:security@justice.gov.uk).
 
 ##Using SecureZIP
 
@@ -211,7 +211,7 @@ More guidance on password best practices is [available](https://security-guidanc
 **Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
 * Tel: 0800 917 5148
-* [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
+* [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
 
 **Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel (`#digitalservicedesk`), are no longer being monitored.
 

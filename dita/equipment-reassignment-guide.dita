@@ -162,7 +162,7 @@
         refer to the Modern Security Clause for formal
         <ph conref="conrefs.dita#conrefs/moj"/> promises (Contracts).
         This is available from the
-        <ph conref="conrefs.dita#conrefs/catemailtext"/>.</ph></p>
+        <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</ph></p>
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>

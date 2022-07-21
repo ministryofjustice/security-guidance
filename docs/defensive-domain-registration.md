@@ -40,7 +40,7 @@ There must be a [DMARC record](https://en.wikipedia.org/wiki/DMARC) configured i
 
 Example 'reject' policy record:
 
-`v=DMARC1;p=reject;rua=mailto:dmarc-rua@dmarc.service.gov.uk;`
+`v=DMARC1;p=reject;rua=mailto:<example dmarc email address>;`
 
 ### Mail Exchanger \(MX\)
 
@@ -86,7 +86,7 @@ Mail services/redirects must **not** be functional or available for defensively 
 
 ## Registering and maintaining a defensive domain
 
-MoJ organisations should contact [domains@digital.justice.gov.uk](mailto://domains@digital.justice.gov.uk) for assistance with defensive domain registrations and operations.
+MoJ organisations should contact [domains@digital.justice.gov.uk](mailto:domains@digital.justice.gov.uk) for assistance with defensive domain registrations and operations.
 
 ## Decommissioning a domain
 

@@ -8,6 +8,10 @@ This article provides guidance on passwords and Personal Identification Numbers 
 
 This guidance is for all users.
 
+![A thumbnail of the strong password information poster.](images/how-to-make-strong-passwords.png)
+
+A useful information leaflet on strong passwords is available for download [here](./culture/how-to-make-strong-passwords.pdf).
+
 **Note:** Except where stated, the guidance in this article applies to both passwords and PINs.
 
 **Related information**  
@@ -29,7 +33,7 @@ This guidance is for all users.
 
 **Note:** This section applies to passwords and PINs.
 
-You **SHALL NOT** share your password or account details with anyone, unless you have documented approval to share from your Line Manager or higher senior manager.
+You **shall not** share your password or account details with anyone, unless you have documented approval to share from your Line Manager or higher senior manager.
 
 If a system or another person provides you with a password, change it before doing any MoJ work on that system. Examples of 'single-use' passwords include:
 
@@ -37,13 +41,13 @@ If a system or another person provides you with a password, change it before doi
 * A shared account for accessing a data analytics service.
 * All supplier or vendor supplied accounts.
 
-You **SHALL** change a password whenever:
+You **shall** change a password whenever:
 
 * There has been a security incident involving your account or password. For example, someone guessed your password, or you used it on another account.
 * There was a security incident with the service that you access using the password. For example, if someone broke into the system that provides the service you use.
 * Your line manager or other authorised person tells you to do so.
 
-When required to change a password, you **SHALL** do so as soon as possible. If you don't change the password soon enough, you might be locked out of your account automatically. The following table shows the maximum time allowed:
+When required to change a password, you **shall** do so as soon as possible. If you don't change the password soon enough, you might be locked out of your account automatically. The following table shows the maximum time allowed:
 
 |Type of system|Maximum time to change a password|
 |--------------|---------------------------------|
@@ -72,9 +76,9 @@ The most important points to remember are that passwords should be:
 
 Some devices, especially mobile devices, only support numerical passwords, or Personal Identification Numbers (PINs).
 
-If the device supports passwords, then passwords **SHOULD** be used rather than PINs.
+If the device supports passwords, then passwords **should** be used rather than PINs.
 
-If the device supports only PINs, you **SHOULD**:
+If the device supports only PINs, you **should**:
 
 * Always use a separate and unique PIN for each account or service.
 * Ensure the PIN is at least 4 characters long.
@@ -91,14 +95,14 @@ While these app-based password protection mechanisms are better than nothing, th
 2.  It is tempting to use a standard password for protecting a file within the app, so that other people can share and work with the file. Changing the password becomes "inconvenient". The result is that many versions of the data file are all protected with the same password. Also, if anyone has ever been given the password to access the file, they will always be able to access the file.
 3.  If you forget the app-based password, there might not be a recovery process available to you.
 
-For these reasons, MoJ advice is that you **SHOULD NOT** use password tools within an app to protect data files that are processed by the app. For example, you **SHOULD NOT** use the password tools with Microsoft Word, Excel, or Powerpoint, to protect MoJ information within files. Instead, either:
+For these reasons, MoJ advice is that you **should not** use password tools within an app to protect data files that are processed by the app. For example, you **should not** use the password tools with Microsoft Word, Excel, or Powerpoint, to protect MoJ information within files. Instead, either:
 
 1.  Store the data files in a shared but secure area, such as the MoJ SharePoint storage facility.
 2.  Use separate encryption tools to protect data files, separate from the app that works with the data files.
 
 Of these two options, storing data files in a shared but secure area is strongly preferred. The reason is that you can add, modify, or revoke access permissions to the storage area easily.
 
-If you have no choice, and have to use app-based password protection, ensure that the same password is not used indefinitely for a data file. You **SHOULD** use a different password for:
+If you have no choice, and have to use app-based password protection, ensure that the same password is not used indefinitely for a data file. You **should** use a different password for:
 
 * Each major version of a data file, for example version 2.x is different to version 3.x.
 * Any data file where the password is more than three months old.
@@ -131,7 +135,7 @@ You can find additional useful information about password manager tools [here](/
 
 Change all default passwords when a new, modified, or replacement system arrives. Complete the changes before making the system available for any MoJ work.
 
-When preparing devices or services for first use, system developers or system administrators **SHALL** configure the default password on the device or service so that it can be used once only. The “first use” of a password forces the user to change the password before the device or service can be used.
+When preparing devices or services for first use, system developers or system administrators **shall** configure the default password on the device or service so that it can be used once only. The “first use” of a password forces the user to change the password before the device or service can be used.
 
 ##Password access attempts
 
@@ -147,9 +151,9 @@ You should not try and use [obvious passwords](https://en.wikipedia.org/wiki/Lis
 
 ##Single-use passwords
 
-Some passwords are 'one time' or single-use. Administrators and developers use these to grant access to a service for the first time. After using the password once, the user **SHALL** immediately change the password.
+Some passwords are 'one time' or single-use. Administrators and developers use these to grant access to a service for the first time. After using the password once, the user **shall** immediately change the password.
 
-Single-use passwords are time limited. If they are not used within a specific time after generation, they **SHALL** become invalid.
+Single-use passwords are time limited. If they are not used within a specific time after generation, they **shall** become invalid.
 
 The following table shows the valid lifetime of a single-use password:
 
@@ -160,7 +164,7 @@ The following table shows the valid lifetime of a single-use password:
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ---
 

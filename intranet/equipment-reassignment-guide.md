@@ -16,7 +16,7 @@ This guidance applies to:
 
 ##Returning Equipment
 
-When a project completes, or a colleague leaves or moves to a new role, equipment no longer required **SHALL** be returned. The Line Manager (LM) is responsible for using the Service Catalogue to request a return of the item. The equipment might then become available for use by other employees. It might not be cost-effective to consider reusing or reassigning the equipment. Possible reasons include:
+When a project completes, or a colleague leaves or moves to a new role, equipment no longer required **shall** be returned. The Line Manager (LM) is responsible for using the Service Catalogue to request a return of the item. The equipment might then become available for use by other employees. It might not be cost-effective to consider reusing or reassigning the equipment. Possible reasons include:
 
 * Older technology that might have been heavily used.
 * The likelihood of operating problems and failures.
@@ -25,33 +25,33 @@ When a project completes, or a colleague leaves or moves to a new role, equipmen
 
 As a result, it might be preferable to use a new machine, rather than repurposing a reassigned device. The decision depends on the expected use of the reassigned device.
 
-The LM is responsible for ensuring a review of the equipment. This is to ensure that sensitive data **SHALL NOT** be lost by erasing the contents of the device. This task **CAN** be delegated to the team member most familiar with the data. The LM remains responsible. Any sensitive data identified **SHALL** be copied and relocated to a secure location. This can be the MoJ Teams facility or to Sharepoint. This **SHALL** happen before the device is made ready for reuse or destroyed.
+The LM is responsible for ensuring a review of the equipment. This is to ensure that sensitive data **shall not** be lost by erasing the contents of the device. This task **can** be delegated to the team member most familiar with the data. The LM remains responsible. Any sensitive data identified **shall** be copied and relocated to a secure location. This can be the MoJ Teams facility or to Sharepoint. This **shall** happen before the device is made ready for reuse or destroyed.
 
-Any IT equipment which is no longer needed, or has reached its "end of life" **SHALL** have its data securely deleted and confirmed to be unreadable and unrecoverable before destruction, redistribution, or reuse of the equipment.
+Any IT equipment which is no longer needed, or has reached its "end of life" **shall** have its data securely deleted and confirmed to be unreadable and unrecoverable before destruction, redistribution, or reuse of the equipment.
 
 ##Equipment Reassignment
 
-Equipment **CAN NOT** be passed from one user to another without being formally reassigned.
+Equipment **can not** be passed from one user to another without being formally reassigned.
 
-Equipment **SHALL** be completely "cleaned" to an "as-new" state before it is reused or reassigned. This means that all storage media in the device **SHALL** be fully erased. A sufficiently secure method for "wiping" equipment **SHALL** be used. Deleting visible files, emptying files from the "Recycle Bin" of a computer, or reformatting a device are not considered sufficiently secure methods for wiping equipment. The reason is that data recovery software might be used by a new owner to "undelete" files or "unformat" a device.
+Equipment **shall** be completely "cleaned" to an "as-new" state before it is reused or reassigned. This means that all storage media in the device **shall** be fully erased. A sufficiently secure method for "wiping" equipment **shall** be used. Deleting visible files, emptying files from the "Recycle Bin" of a computer, or reformatting a device are not considered sufficiently secure methods for wiping equipment. The reason is that data recovery software might be used by a new owner to "undelete" files or "unformat" a device.
 
 To erase data securely, use appropriate "data-shredding" tools for the media being erased. Typically, these tools do not simply delete data, they overwrite it multiple times. The overwriting erases all traces of the data, making it almost impossible for any retrieval. Another option is to re-encrypt the device using a different password, then delete the data to free up space.
 
-Equipment reassignment **SHALL** be recorded by the LM in the appropriate asset register.
+Equipment reassignment **shall** be recorded by the LM in the appropriate asset register.
 
 ##Equipment that cannot be reused
 
-If IT assets are no longer needed by the MoJ, and cannot be securely wiped, then the equipment **MIGHT** need to be destroyed physically. More information can be found at [Secure disposal of IT equipment](/guidance/security/it-computer-security/secure-disposal-of-it-equipment/)
+If IT assets are no longer needed by the MoJ, and cannot be securely wiped, then the equipment **might** need to be destroyed physically. More information can be found at [Secure disposal of IT equipment](/guidance/security/it-computer-security/secure-disposal-of-it-equipment/)
 
-Regrettably, for security reasons, redundant IT equipment **SHOULD NOT** be donated to charities, schools, or similar organisations.
+Regrettably, for security reasons, redundant IT equipment **should not** be donated to charities, schools, or similar organisations.
 
 ##Leased equipment
 
-Managers **SHOULD** ensure that any equipment that is leased has a data destruction clause written into the contract. Under such an arrangement, the supplier **SHALL** ensure that data is wiped when it is returned.
+Managers **should** ensure that any equipment that is leased has a data destruction clause written into the contract. Under such an arrangement, the supplier **shall** ensure that data is wiped when it is returned.
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ---
 

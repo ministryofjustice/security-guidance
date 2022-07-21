@@ -9,7 +9,7 @@
       transferring sensitive information.
       Examples of sensitive information include:
     <ul>
-      <li><codeph>OFFICIAL-SENSITIVE</codeph> classified information such as personal data.</li>
+      <li><ph conref="conrefs.dita#conrefs/official-sensitive"/> classified information such as personal data.</li>
       <li>API and other application keys or credentials,
         including within containers.</li>
       <li>SSH keys.</li>
@@ -77,7 +77,7 @@
         communications.
         You might need to implement transit encryption for your users with a
         third party app that provides end-to-end encryption.
-        Contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/> for advice.</p>
+        Contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/> for advice.</p>
     </body>
   </topic>
   <topic id="secure-email-transfer-options">
@@ -143,7 +143,7 @@
       If required,
       S/MIME encryption might be suitable.
       To get help with this,
-      contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/>.</p>
+      contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
     </body>
   </topic>
   <topic id="office-365">
@@ -155,7 +155,7 @@
         the message is sent in plain text using Simple Mail Transfer Protocol
         (SMTP).
         If TLS must be applied,
-        contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/> for help.
+        contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/> for help.
         In this configuration,
         certificate verification is required whenever mail is sent from a third
         party to the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
@@ -174,7 +174,7 @@
         <xref href="https://www.microsoft.com/en-us/microsoft-365/blog/2018/04/05/defend-yourself-from-cybercrime-with-new-office-365-capabilities/"
           format="html" scope="external">secure information via email</xref>.</p>
       <p>If either of these additional encryption methods is required,
-        please contact the <ph conref="conrefs.dita#conrefs/ostemailtext"/>.</p>
+        please contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
     </body>
   </topic>
   <topic id="criminal-justice-secure-mail">
@@ -217,7 +217,7 @@
       over CJSM by adding <codeph>.CJSM.net</codeph> to the end of their
       <ph conref="conrefs.dita#conrefs/moj"/> email address.</p>
       <p>CJSM <ph conref="conrefs.dita#conrefs/policyshall"/> only be used to
-      share information up to and including <codeph>OFFICIAL-SENSITIVE</codeph>.</p>
+      share information up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
       <p>CJSM <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used with
       multi-client mail relay services such as Mailgun,
       Mailchimp,

@@ -126,12 +126,9 @@
     <body>
       <p>Reporting phishing attempts helps improve the filters that catch them before they get to your inbox.  They also help protect other colleagues and the <ph conref="conrefs.dita#conrefs/moj"/> from being compromised, or having data or money stolen.</p>
       <p>If you think you have spotted a phish, or you think you have been phished, report it as quickly as possible. If you think you have spotted a more targeted phish that claims to be from a vendor or another staff member, do an out of band check to determine if it is legitimate. If it is not, then please report the email as a phish.</p>
-      <p>Reporting a phishing attempt is quick and easy. Do one or both of the following:
-        <ul>
-          <li>Call the <ph conref="conrefs.dita#conrefs/servicedesk"/> on <ph conref="conrefs.dita#conrefs/servicedesknumber"/>.</li>
-          <li>Forward the suspected phish to <ph conref="conrefs.dita#conrefs/securityemail"/> with the subject line: 'suspected phish report'.</li>
-        </ul></p>
-      <p>You can forward on all spam and phishing text messages to 7726 for free.</p>
+      <p>Reporting a phishing attempt is quick and easy. Contact service desk using one of these two options:
+        <ul conref="conrefs.dita#general-enquiries-including-theft-and-loss/contact-service-desk"><li/></ul></p>
+      <p>You can also forward on all spam and phishing text messages to 7726 for free.</p>
     </body>
   </topic>
   <!--

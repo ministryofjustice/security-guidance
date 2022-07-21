@@ -58,7 +58,7 @@ Remote working is when you work from any non-MoJ location, for example, working 
 It's important to consider the security of how you work remotely.
 
 * **Work locations** - as with home working discussed previously, you need to be equally, if not more, vigilant when working in public spaces.
-* **Confidentiality** - be aware of others eavesdropping or shoulder surfing, both what you are working on and what you are saying eg conference and video calls.
+* **Confidentiality** - be aware of others eavesdropping or shoulder surfing, both what you are working on and what you are saying, for example during conference and video calls.
 * Keep MoJ **equipment and information**, including printouts and documents, safe and secure.
 
 Even when working remotely, you must still follow the security policies and operating procedures for MoJ systems you access and work with.
@@ -133,7 +133,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 **Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
 * Tel: 0800 917 5148
-* [MoJ Service Portal](https://mojprod.service-now.com/moj_sp)
+* [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
 
 **Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel (`#digitalservicedesk`), are no longer being monitored.
 
@@ -146,16 +146,16 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 **Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
 
-**Operational Security Team**
+**Security Team**
 
-* Email: [OperationalSecurityTeam@justice.gov.uk](mailto:OperationalSecurityTeam@justice.gov.uk)
+* Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 * Slack: `#security`
 
 ##Privacy Advice
 
-**Privacy Team**
+**Data Protection Team**
 
-* Email: [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk)
+* Email: [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk)>
 * Slack: `#security_privacy_and_live_service_team`
 * Intranet: [/guidance/knowledge-information/protecting-information/](/guidance/knowledge-information/protecting-information/)
 

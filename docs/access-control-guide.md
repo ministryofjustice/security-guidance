@@ -69,7 +69,7 @@ Logs should be:
 
 -   backed up, so that data are not lost if there is a system unavailability
 
--   managed according to the sensitivity of the data they hold, for example personal information. Contact the Data Privacy Team for advice on protecting sensitive personal information - [privacy@justice.gov.uk](mailto:privacy@justice.gov.uk).
+-   managed according to the sensitivity of the data they hold, for example personal information. Contact the Data Protection Team for advice on protecting sensitive personal information - [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk).
 
 -   stored for a minimum of 6 months
 
@@ -110,7 +110,7 @@ You can segregate duties in various ways, including:
 
 ## Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

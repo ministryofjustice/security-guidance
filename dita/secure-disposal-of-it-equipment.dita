@@ -14,7 +14,7 @@
       which might have been procured and managed locally.
       It is crucial that they are disposed of in a secure manner,
       to prevent data being leaked.</p>
-    <note importance="high">When disposing of <codeph>SECRET</codeph> or <codeph>TOP SECRET</codeph> equipment,
+    <note importance="high">When disposing of <ph conref="conrefs.dita#conrefs/secret"/> or <ph conref="conrefs.dita#conrefs/top-secret"/> equipment,
       materials,
       or resources,
       you <ph conref="conrefs.dita#conrefs/policyshall"/> contact

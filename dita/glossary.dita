@@ -24,7 +24,7 @@
         </dlentry>
         <dlentry id="blue-team">
           <dt>Blue Team</dt>
-          <dd>The internal security defence team in an organisation. Within the <ph conref="conrefs.dita#conrefs/moj"/>, this work is performed by the <xref href="#terms/operational-security-team-ost" format="dita">Operational Security Team (OST)</xref>.</dd>
+          <dd>The internal security defence team in an organisation. Within the <ph conref="conrefs.dita#conrefs/moj"/>, this work is performed by the <xref href="#terms/operational-security-team-ost" format="dita">Security Team</xref>.</dd>
         </dlentry>
         <dlentry>
           <dt>Brute Force Attack</dt>
@@ -112,7 +112,7 @@
         </dlentry>
         <dlentry id="operational-security-team-ost">
           <dt>Operational Security Team (OST)</dt>
-          <dd>A security team within the <ph conref="conrefs.dita#conrefs/moj"/>. They help protect against cyber attacks, and help manage <xref href="#terms/incident" format="dita">incidents</xref>. Sometimes referred to as the <xref href="#terms/blue-team" format="dita">Blue Team</xref>. They can be contacted through email: <ph conref="conrefs.dita#conrefs/securityemail"/>.</dd>
+          <dd>Deprecated name for the Security Team within the <ph conref="conrefs.dita#conrefs/moj"/>. The Security Team help protect against cyber attacks, and help manage <xref href="#terms/incident" format="dita">incidents</xref>. Sometimes referred to as the <xref href="#terms/blue-team" format="dita">Blue Team</xref>. They can be contacted through email: <ph conref="conrefs.dita#conrefs/securityemail"/>.</dd>
         </dlentry>
         <dlentry>
           <dt>Out of band check</dt>
@@ -204,8 +204,8 @@
   <topic id="out-of-band-checks">
     <title>Out of band checks</title>
     <body>
-      <p>Out of band checks are an easy method to confirm the legitimacy of communications and requests. They can confirm the identity behind a message or request, and they can confirm the validity of the message or request itself. Social engineering techniques and phishing tactics take advantage of people who do not use out of band checks. By doing an out of band check, these sorts of attacks can be stopped very easily.</p>
       <p>An out of band check is when an individual uses a different method of communication than the one the message came from. This method means that if one communication method is compromised, you quickly find out by using a different communication method to confirm validity. The likelihood of multiple communication methods for the same person or team being compromised is low.</p>
+      <p>Out of band checks are an easy method to confirm the legitimacy of communications and requests. They can confirm the identity behind a message or request, and they can confirm the validity of the message or request itself. Social engineering techniques and phishing tactics take advantage of people who do not use out of band checks. By doing an out of band check, these sorts of attacks can be stopped very easily.</p>
       <p><b>Example 1</b>: You receive an email request for an urgent review of an invoice, and immediate payment. The email comes from someone unexpected. You should find the official contact details of that person, and contact them using a phone call - but not email - to confirm that they did indeed send the original email. If they did send the email, you can proceed with the request. If they did not send the email, you can report the email as a phish, and also alert the owner of the email address that their email address might have been compromised.</p>
       <p><b>Example 2</b>: You receive a phone call from someone claiming to be your bank, or HMRC, or HMCTS. You hang up the call, and locate the official website for the company. You should be able to find multiple official contact details there. Use one of these to contact the place the caller claimed to be from. If, for example, the claim was that your bank was calling, you can call the direct number and speak to the switchboard about the reason for the initial call. They will forward you to the correct department. You can then confirm the validity of the original call, and so confirm whether the original caller was actually from your bank or not.</p>
       <p><b>Example 3</b>: Someone enters your place of work, and claims to have a meeting with a specific person. Unfortunately, there is no record of this on the expected visitor list. You can call or email the person within your place of work to confirm the visitor is legitimate. This check also works if tradespeople arrive unexpectedly, because you can contact both the relevant person within your place of work and also contact the company they claim to be from,  using the company's official website contact details.</p>

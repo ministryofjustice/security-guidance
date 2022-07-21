@@ -241,8 +241,7 @@
           their concerns more constructively.
           Consider the risk of 'denying access to the criminal justice system' to an individual.
           If in doubt,
-          refer to the <ph conref="conrefs.dita#conrefs/privacyemailtext"/>
-          or <ph conref="conrefs.dita#conrefs/cisolong"/>.</p>
+          refer to the <ph conref="conrefs.dita#conrefs/privacyemailtext"/>.</p>
     </body>
     <topic id="documentation-for-internal-blocklists">
       <title>Documentation for internal blocklists</title>
@@ -306,7 +305,7 @@
   <topic id="spam-emails">
     <title>Spam emails</title>
     <body>
-      <p>The <xref href="https://ico.org.uk/" scope="external" format="dita">ICO website</xref> provides general
+      <p>The <xref href="https://ico.org.uk/" scope="external" format="html">ICO website</xref> provides general
           information about spam,
           and gives advice about the steps to reduce spam.</p>
       <p>A spam email does not necessarily require automatic and instant inclusion on the internal blocklist,

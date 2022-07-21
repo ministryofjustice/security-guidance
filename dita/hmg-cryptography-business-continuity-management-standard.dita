@@ -91,8 +91,8 @@
       <ul>
         <li>Notify CESG immediately on: 01242 221491 extension 31950
           <p>notifying them of the event and request an immediate record of holdings list.</p></li>
-        <li>A CINRAS report must be generated and issued to: cinras@cesg.gsi.gov.uk
-          <p>and a copy to the Operational Security Team: <ph conref="conrefs.dita#conrefs/ostemail"/></p></li>
+        <li>A CINRAS report must be generated and issued to CINRAS (contact via Security Team)
+          <p>and a copy to the Security Team: <ph conref="conrefs.dita#conrefs/securityemail"/></p></li>
         <li>A muster of all key variables and a check against the record of holding list undertaken and an order to CESG raised of any replacement key variables.</li>
         <li>Upon receipt of a replacement key variable emergency plans to change the key variable of the associated product must begin.</li>
       </ul>

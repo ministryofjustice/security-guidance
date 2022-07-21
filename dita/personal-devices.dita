@@ -48,7 +48,7 @@
             Ensure that the permission is no more than 12 months old.
             To request or refresh permission,
             ask your Line Manager to seek approval by checking with
-          the <ph conref="conrefs.dita#conrefs/ostemailtext"/>.</li>
+          the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</li>
       </ul>
       <note>You are not asked or required to use your own devices for work purposes. Statement <codeph>POLMOB009</codeph> of the <xref href="mobile-device-and-remote-working-policy.dita#use-of-private-equipment" format="dita" audience="audience-basic audience-suppliers audience-tech">mobile device and remote working policy</xref><ph audience="audience-gs">mobile device and remote working policy</ph> makes clear that you <ph conref="conrefs.dita#conrefs/policyshouldnot"/> use personal devices for <ph conref="conrefs.dita#conrefs/moj"/> work purposes. If you have access to <ph conref="conrefs.dita#conrefs/moj"/> devices for work purposes, you <ph conref="conrefs.dita#conrefs/policyshall"/> use them by default.</note>
     </body>

@@ -56,7 +56,9 @@ A good password manager will have:
 
 In the [NCSC article](https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers), they are very careful not to identify or recommend a password manager. This ... caution ... is the reason why we don't say much about password managers within the MoJ guidance.
 
-There are several password managers used within the MoJ. [LastPass](https://www.lastpass.com/) and [1Password](https://1password.com/) are probably the most popular for personal or team passwords. Example password vaults would be Hashicorp Vault, Kubernetes Secrets or AWS Key Management.
+There are several password managers used within the MoJ. [LastPass](https://www.lastpass.com/), [KeePass](https://keepass.info/), and [1Password](https://1password.com/) are probably the most popular for personal or team passwords. To determine whether a particular password manager is suitable for work usage, check the [General app guidance](https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/#password-managers).
+
+Example password vaults would be Hashicorp Vault, Kubernetes Secrets or AWS Key Management.
 
 For individual use, have a look at LastPass and 1Password. Consider which one you like best, and try it out. When you decide on a password manager, request approval from your line manager to install and use it: "I'm planning to install and use XYZ to manage my passwords, is that OK?".
 
@@ -64,7 +66,7 @@ Refer also to the [Using LastPass Enterprise](https://security-guidance.service.
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ---
 

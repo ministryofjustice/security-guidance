@@ -4,15 +4,15 @@
   <title>System Backup Policy</title>
   <body>
     <p>Backing up is an essential part of protecting <ph conref="conrefs.dita#conrefs/mojlong"/> Information and Communication Technology (ICT or IT) resources. Backing up provides a means of recovering a system or data to a known state, or point in time. In other words, backups enable you to restore a system or data to be effectively indistinguishable from how it was on a particular date and time.</p>
-    <p>To help identify formal policy statements, each is prefixed with an identifier of the form: <codeph>POL.SBP.xxx</codeph>, where xxx is a unique ID number.</p>
+    <p>To help identify formal policy statements, each is prefixed with an identifier of the form: <b>POL.SBP.xxx</b>, where <b>xxx</b> is a unique ID number.</p>
     <note>Use of the word <ph conref="conrefs.dita#conrefs/policymust"/> in this document complies with the usage defined in <ph conref="conrefs.dita#conrefs/gov007"/>.</note>
   </body>
   <topic id="system-recovery">
     <title>System recovery</title>
     <body>
-      <p><codeph>POL.SBP.001</codeph>: All systems <ph conref="conrefs.dita#conrefs/policymust"/> comply with the <xref href="it-security-policy-overview.dita" format="dita"><ph conref="conrefs.dita#conrefs/moj"/> Security Policy</xref>.</p>
-      <p><codeph>POL.SBP.002</codeph>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> conform to the <xref href="system-backup-standard.dita" format="dita">IT Security - System Backup Standard</xref>.</p>
-      <p><codeph>POL.SBP.003</codeph>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> be evaluated to determine if a backup schedule is required. This depends on the data stored, and on legal or other regulatory requirements. The evaluation and resulting decision regarding backup requirement <ph conref="conrefs.dita#conrefs/policymust"/> be documented for the system.</p>
+      <p><b>POL.SBP.001</b>: All systems <ph conref="conrefs.dita#conrefs/policymust"/> comply with the <xref href="it-security-policy-overview.dita" format="dita"><ph conref="conrefs.dita#conrefs/moj"/> Security Policy</xref>.</p>
+      <p><b>POL.SBP.002</b>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> conform to the <xref href="system-backup-standard.dita" format="dita">IT Security - System Backup Standard</xref>.</p>
+      <p><b>POL.SBP.003</b>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> be evaluated to determine if a backup schedule is required. This depends on the data stored, and on legal or other regulatory requirements. The evaluation and resulting decision regarding backup requirement <ph conref="conrefs.dita#conrefs/policymust"/> be documented for the system.</p>
       <p>The <xref href="system-backup-standard.dita" format="dita">IT Security - System Backup Standard</xref> provides details of the tasks, configurations, and processes required for an IT system backup to comply with this policy.</p>
     </body>
   </topic>

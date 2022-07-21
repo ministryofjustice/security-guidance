@@ -9,7 +9,7 @@
 -   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   `CONFIDENTIAL`, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   **Confidential**, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 -   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
@@ -18,7 +18,7 @@
 -   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   ITSO \(Information Technology Security Officer\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   `RESTRICTED`, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+-   **Restricted**, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 -   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## About this document
@@ -48,7 +48,7 @@ The [HMG Security Policy Framework](https://www.gov.uk/government/publications/s
 
 The policy on IT Security Incident Management is covered in [IT Security Policy - IT Incident Management Policy](it-incident-management-policy.md) while this document set outs the MoJ guidance for creating an ITSIM plan.
 
-**Note:** Previous guidance advised that this document should be read in conjunction with the CESG Good Practice Guide No. 24 \(GPG24\) – Security Incident Management. GPG24 has been withdrawn. For help with best practice in incident management, contact the [Cyber Assistance Team](mailto:CyberConsultancy@digital.justice.gov.uk).
+**Note:** Previous guidance advised that this document should be read in conjunction with the CESG Good Practice Guide No. 24 \(GPG24\) – Security Incident Management. GPG24 has been withdrawn. For help with best practice in incident management, contact the [Security team](mailto:security@justice.gov.uk).
 
 ### Aim of this guide
 
@@ -120,7 +120,7 @@ ITSIM is a combination of people, plans and predefined processes which enables t
 |
 |Information Asset Owner \(IAO\)|IAOs are senior individuals involved in running business units. Their role is to understand what information is held, what is added and what is removed, how information is moved, and who has access and why. MoJ IAOs must understand and address risks to the information, and ensure that information is fully used within the relevant laws, and provide written input and assurance to the SIRO annually on the security and use of their asset. They will be informed of any security incidents which compromise any information assets under their ownership.|
 |MoJ IT Security Officer \(ITSO\)|The MoJ ITSO is responsible for IT security across the MoJ and is the first point of escalation. The ITSO performs two functions with regards to ITSIM; Firstly, a source of advice and guidance on MoJ IT security policy and secondly, forms part of the decision making process during the investigation and resolution phase of an IT security incident.|
-|MoJ Operational Security Team \(OST\)|The MoJ OST forms the core of the MoJ ITSIM response mechanism. They act as a co-ordinator managing all IT security incidents across the MoJ estate. The OST are responsible for:
+|MoJ [Security team](mailto:security@justice.gov.uk)|The MoJ [Security team](mailto:security@justice.gov.uk) forms the core of the MoJ ITSIM response mechanism. They act as a co-ordinator managing all IT security incidents across the MoJ estate. The Security team are responsible for:
 
 -   Incident ownership, monitoring, tracking and communication
 -   Sanctioning enhanced monitoring on IT systems where appropriate
@@ -130,7 +130,7 @@ ITSIM is a combination of people, plans and predefined processes which enables t
 -   Providing progress reports on specific incidents to relevant parties.
 
 |
-|IT Service Desk|The MoJ IT Service Desk acts as the first point of contact for MoJ IT Users reporting an IT security event. Their function is to ensure that the details of the incident are captured and the OST are informed.|
+|IT Service Desk|The MoJ IT Service Desk acts as the first point of contact for MoJ IT Users reporting an IT security event. Their function is to ensure that the details of the incident are captured and the Security team are informed.|
 
 ### Lifecycle
 
@@ -183,7 +183,7 @@ Table 3 following provides a list of the main outputs required to implement an I
 |Outputs|Role|
 |IT Security Incident Management Plan|Though obvious, a final released version of the ITSIM plan is the primary output. It must be approved by the business group SIRO and ITSO. It must be released to all Users and stakeholders identified in the plan.|
 |Security Controls|The development of an ITSIM plan may lead to the requirement for further security controls to be introduced. For example the ability to collate anti-virus detections centrally.|
-|Monitoring Services|For an ITSIM plan to be effective, a consummate incident detection and monitoring service must be in place and active. For most MoJ ITSIM plans, this will involve the MoJ Operations Security Team \(OST\) acting as the centralised monitoring and management service where incident reports are fed to them, for example, from automated security controls \(such as virus detection alerts from an anti-virus client\) or manually by a User reporting the loss of a MoJ laptop to the IT Service Desk.|
+|Monitoring Services|For an ITSIM plan to be effective, a consummate incident detection and monitoring service must be in place and active. For most MoJ ITSIM plans, this will involve the MoJ [Security team](mailto:security@justice.gov.uk) acting as the centralised monitoring and management service where incident reports are fed to them, for example, from automated security controls \(such as virus detection alerts from an anti-virus client\) or manually by a User reporting the loss of a MoJ laptop to the IT Service Desk.|
 |Training and Awareness|All Users must be provided with awareness training which covers the ITSIM plan and their role in incident detection, reporting and management. For those who perform specific roles within the plan such as a Senior Manager, they should undertake additional training to ensure they are prepared to fill their aspects of the plan.|
 
 Table 3 – Outputs from implementing the IT Security Incident Management plan
@@ -200,7 +200,7 @@ The ITSIM process essentially consists of three elements:
 
 -   Incident reporting – This is shown as a source of incident information on Figure 3. Generally there are three sources, MoJ Users reporting incidents using an IT Security Incident Report Form, alerts from other government bodies such as GovCERT and incident detection controls such as an IT supplier reporting the release of an emergency critical patch or an automated alert from an Intrusion Detection System \(IDS\).
 
--   Incident management – This is a function perform by the MoJ Operational Security Team \(OST\), it involves conducting an initial assessment of the incident, incident categorisation and management of the incident escalating where appropriate. Note that the process continually examines the categorisation of an incident as it is being investigated. An incident may move up or down the impact scale as more information is discovered.
+-   Incident management – This is a function perform by the MoJ [Security team](mailto:security@justice.gov.uk); it involves conducting an initial assessment of the incident, incident categorisation and management of the incident escalating where appropriate. Note that the process continually examines the categorisation of an incident as it is being investigated. An incident may move up or down the impact scale as more information is discovered.
 
 -   Incident resolution – Where an incident has been through the management process and resolved.
 
@@ -263,13 +263,13 @@ Business related IT security incidents include \(but is not limited to\):
 
 ### Incident Detection and Recording
 
-Security incidents may come to light from a variety of sources, including through active system monitoring and the MoJ staff reporting suspicious activity or security incidents. All IT security incidents must be reported to the OST, who will conduct an initial assessment and manage the incident through to resolution.
+Security incidents may come to light from a variety of sources, including through active system monitoring and the MoJ staff reporting suspicious activity or security incidents. All IT security incidents must be reported to the [Security team](mailto:security@justice.gov.uk), who will conduct an initial assessment and manage the incident through to resolution.
 
 **Note** – All incidents involving personal data must also be reported to the MoJ Data Access and Compliance Unit \(DACU\).
 
 The [MoJ IT Security Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/) defines the requirements for capturing and recording security events and monitoring them for suspected malicious activity or breaches of security.
 
-The MoJ Operational Security Team \(OST\) is responsible for maintaining a centralised database and view of all IT security incidents across all MoJ IT systems. This database contains information on:
+The MoJ [Security team](mailto:security@justice.gov.uk) is responsible for maintaining a centralised database and view of all IT security incidents across all MoJ IT systems. This database contains information on:
 
 -   Security incident reports;
 
@@ -282,7 +282,7 @@ This database and the effective reporting of security incidents which populate i
 
 ### Categorisation of Incidents
 
-Incidents need to be categorised to assess their impact and the required level of escalation and reporting. This is mainly done to manage resources and make investigations cost effective. The initial assessment for all IT security incidents will be made by the OST with support from the ITSO and the relevant system Accreditor as required. The assessment will be in terms of the potential impact of the incident with each incident categorised in terms of Low, Medium or High impact.
+Incidents need to be categorised to assess their impact and the required level of escalation and reporting. This is mainly done to manage resources and make investigations cost effective. The initial assessment for all IT security incidents will be made by the [Security team](mailto:security@justice.gov.uk) with support from the ITSO and the relevant system Accreditor as required. The assessment will be in terms of the potential impact of the incident with each incident categorised in terms of Low, Medium or High impact.
 
 The three following sub-sections provide a description for each category. It is expected that the business group ITSIM plan will contain a tailored version of this description and confirm the escalation route which will be followed.
 
@@ -292,7 +292,7 @@ These would typically be minor such as low level breaches in security through an
 
 A low impact personal data incident would typically include an incident where no loss has occurred but a weakness in a system may potentially have led to a loss, and with a small amount of remedial action the weakness in a process can easily be addressed.
 
-Incident categorised as low will be typically managed by the MoJ OST who will engage with the relevant parties within the business and IT supplier community to resolve the incident. Any escalation \(refer to Figure 4\) will be predominantly to the level of the MoJ ITSO and relevant system Accreditor.
+Incident categorised as low will be typically managed by the MoJ [Security team](mailto:security@justice.gov.uk) who will engage with the relevant parties within the business and IT supplier community to resolve the incident. Any escalation \(refer to Figure 4\) will be predominantly to the level of the MoJ ITSO and relevant system Accreditor.
 
 #### Medium Impact Incident
 
@@ -374,14 +374,14 @@ Incidents that require this type of escalation include \(but are not limited to\
 
 -   If the incident involves \(or is suspected to involve\) Foreign Intelligence Services \(FIS\) or Organised Crime;
 
--   Where there is a HMG requirement to report to central incident management bodies, the OST will co-ordinate reporting for example, the reporting of network security incidents to GovCERT;
+-   Where there is a HMG requirement to report to central incident management bodies, the [Security team](mailto:security@justice.gov.uk) will co-ordinate reporting for example, the reporting of network security incidents to GovCERT;
 
 -   Where there is a significant, actual or possible loss of personal data, the Information Commissioner's Office and the Cabinet Office Central Sponsor for Information Assurance need to be informed via the SIRO and ITSO
 
 
 ### Investigation and Diagnosis Capability:
 
-The MoJ Operational Security Team \(OST\) is responsible for organising the investigation of all IT security incidents. Where there is a need for evidence to be gathered for possible disciplinary or legal proceedings, a forensic investigation may be required. Each impact category should have its own associated management process which consists of the following activities:
+The MoJ [Security team](mailto:security@justice.gov.uk) is responsible for organising the investigation of all IT security incidents. Where there is a need for evidence to be gathered for possible disciplinary or legal proceedings, a forensic investigation may be required. Each impact category should have its own associated management process which consists of the following activities:
 
 -   Investigating an incident as directed by the ITSO or SIRO;
 
@@ -430,11 +430,11 @@ IT security incident statistics must be presented in conjunction with an assessm
 |Escalation Path|\[This section must describe the escalation path for an IT security incident \(refer to Figure 4\).\]|
 |Incident Categorisation|
 |Low Impact Incident|Description|\[Provide a description of what a Low impact incident constitutes; refer [here](#low-impact-incident) for further details.\]|
-||Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
+||Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consult the [Security team](mailto:security@justice.gov.uk) and ITSO when completing this section.\]|
 |Medium Impact Incident|Description|\[Provide a description of what a Medium impact incident constitutes; refer [here](#medium-impact-incident) for further details.\]|
-||Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
+||Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consult the [Security team](mailto:security@justice.gov.uk) and ITSO when completing this section.\]|
 |High Impact Incident|Description|\[Provide a description of what a High impact incident constitutes; refer [here](#high-impact-incident) for further details.\]|
-||Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]|
+||Priority and escalation|\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consult the [Security team](mailto:security@justice.gov.uk) and ITSO when completing this section.\]|
 |Plan Approval|
 |Business Group SIRO|\[Enter the name of the Business Group SIRO\] \[DATE OF APPROVAL\]|
 |IT Security Officer|\[Enter the name of the ITSO\] \[DATE OF APPROVAL\]|

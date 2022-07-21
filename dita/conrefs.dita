@@ -23,14 +23,16 @@
 				 -->
 		<p>
 			<ph id="allstaff">This guidance applies to all staff and contractors who work for the <ph conref="#conrefs/mojlong"/>.</ph>
+			<!--
 			<ph id="catemail"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="html" scope="external">CyberConsultancy@digital.justice.gov.uk</xref></ph>
 			<ph id="catemailtext"><xref href="mailto:CyberConsultancy@digital.justice.gov.uk" format="html" scope="external">Cyber Assistance Team</xref></ph>
+			-->
 			<ph id="certificatesemail"><xref href="mailto:certificates@digital.justice.gov.uk" format="html" scope="external">certificates@digital.justice.gov.uk</xref></ph>
 			<ph id="cisolong">Chief Information Security Officer (CISO)</ph>
 			<ph id="ciso">CISO</ph>
-			<ph id="cjsmemail"><xref href="mailto:cjsm.helpdesk@egress.com" format="html" scope="external">cjsm.helpdesk@egress.com</xref></ph>
-			<ph id="cjsmemailtext"><xref href="mailto:cjsm.helpdesk@egress.com" format="html" scope="external">CJSM Helpdesk</xref></ph>
-			<ph id="cluster2securityunittext"><xref href="mailto:contactus@cluster2security.gov.uk" format="html" scope="external">Cluster 2 Security Unit</xref></ph>
+			<ph id="cjsmemail">CJSM Helpdesk via <ph conref="#conrefs/securityemailtext"/></ph>
+			<ph id="cjsmemailtext">CJSM Helpdesk via <ph conref="#conrefs/securityemailtext"/></ph>
+			<ph id="cluster2securityunittext">Cluster 2 Security Unit via <ph conref="#conrefs/securityemailtext"/></ph>
 			<ph id="cpnilong">Centre for the Protection of National Infrastructure (CPNI)</ph>
 			<ph id="cpni">CPNI</ph>
 			<ph id="dacuemail"><xref href="mailto:Data.access@justice.gov.uk" format="html" scope="external">Data.access@justice.gov.uk</xref></ph>
@@ -39,13 +41,13 @@
 			<ph id="donot"><b>Do not:</b></ph>
 			<ph id="dont-click-link"><b>Never</b> use the link in an email asking you to change a password. Use an out-of-band method such as going directly to the website to change a password. Be cautious when following password actions requested in emails or texts.</ph>
 			<ph id="gcloud"><xref href="https://www.digitalmarketplace.service.gov.uk/g-cloud" format="html" scope="external">Digital Marketplace (GCloud)</xref></ph>
-			<ph id="giaaemail"><xref href="mailto:correspondence@giaa.gov.uk" format="html" scope="external">correspondence@giaa.gov.uk</xref></ph> <!-- Government Internal Audit Agency -->
+			<ph id="giaaemail">Government Internal Audit Agency via <ph conref="#conrefs/securityemailtext"/></ph>
 			<ph id="gov007"><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></ph>
 			<ph id="groupsecurityemail"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="html" scope="external">mojgroupsecurity@justice.gov.uk</xref></ph>
 			<ph id="groupsecurityemailtext"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="html" scope="external"><ph conref="#conrefs/moj"/> Group Security</xref></ph>
 			<ph id="gsuite">Google Workspace</ph>
 			<ph id="helpdesk"><ph conref="#conrefs/servicedesk"/></ph>
-			<ph id="higherclassification">If you are working with information or documentation higher than the <codeph>OFFICIAL</codeph> classification level, contact <ph conref="#conrefs/groupsecurityemailtext"/> for specific guidance.</ph>
+			<ph id="higherclassification">If you are working with information or documentation higher than the <ph conref="#conrefs/official"/> classification level, contact <ph conref="#conrefs/groupsecurityemailtext"/> for specific guidance.</ph>
 			<ph id="hmggovernmentsecurityclassifications"><xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">HMG Government Security Classifications Policy</xref></ph>
 			<ph id="icolong">Information Commissioner's Office (<ph conref="#conrefs/ico"/>)</ph>
 			<ph id="ico">ICO</ph>
@@ -55,63 +57,69 @@
 			<ph id="mcsslong"><xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">Minimum Cyber Security Standard (MCSS)</xref></ph>
 			<ph id="mojlong">Ministry of Justice (<ph conref="#conrefs/moj"/>)</ph>
 			<ph id="moj">MoJ</ph>
+			<ph id="mojsecurityemailtext"><ph conref="#conrefs/moj"/> <ph conref="#conrefs/securityemailtext"/></ph>
 			<ph id="ncsclong">National Cyber Security Centre (NCSC)</ph>
 			<ph id="ncsc">NCSC</ph>
 			<ph id="nsvc-contact">If you don't know who your NSVC is,
 				refer to the download <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external">here</xref>.</ph>
-			<ph id="official"><codeph>OFFICIAL</codeph></ph>
+			<ph id="official"><b>Official</b></ph>
 			<ph id="officialsensitive"><ph conref="#conrefs/official-sensitive"/></ph>
-			<ph id="official-sensitive"><codeph>OFFICIAL-SENSITIVE</codeph></ph>
+			<ph id="official-sensitive"><b>Official-Sensitive</b></ph>
 			<ph id="operationsengineering"><xref href="https://operations-engineering.service.justice.gov.uk/" format="html" scope="external">Operations Engineering</xref></ph>
+			<!--
 			<ph id="ostemail"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="html" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
 			<ph id="ostemailtext"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="html" scope="external">Operational Security Team</xref></ph>
+			-->
 			<ph id="policyterms">In policy documents,
 			formal terms such as "<ph conref="#conrefs/policyshall"/>",
 			or "<ph conref="#conrefs/policyshould"/>",
 			are as defined in the UK Government "Orange Book"
 			<xref href="https://www.gov.uk/government/publications/orange-book" format="html" scope="external">Management of Risk - Principles and Concepts</xref>.</ph>
-			<ph id="policycan"><b>CAN</b></ph>
-			<ph id="policycannot"><b>CAN NOT</b></ph>
-			<ph id="policymandatory"><b>MANDATORY</b></ph>
-			<ph id="policymay"><b>MAY</b></ph>
-			<ph id="policymaynot"><b>MAY NOT</b></ph>
-			<ph id="policymight"><b>MIGHT</b></ph>
-			<ph id="policymust"><b>SHALL</b></ph>
-			<ph id="policymustnot"><b>SHALL NOT</b></ph>
-			<ph id="policyonly"><b>ONLY</b></ph>
-			<ph id="policyshall"><b>SHALL</b></ph>
-			<ph id="policyshallnot"><b>SHALL NOT</b></ph>
-			<ph id="policyshould"><b>SHOULD</b></ph>
-			<ph id="policyshouldnot"><b>SHOULD NOT</b></ph>
-			<ph id="policywill"><b>SHALL</b></ph>
-			<ph id="privacyemail"><xref href="mailto:privacy@justice.gov.uk" format="html" scope="external">privacy@justice.gov.uk</xref></ph>
-			<ph id="privacyemailtext"><xref href="mailto:privacy@justice.gov.uk" format="html" scope="external">Data Privacy Team</xref></ph>
+			<ph id="policycan"><b>can</b></ph>
+			<ph id="policycannot"><b>can not</b></ph>
+			<ph id="policymandatory"><b>mandatory</b></ph>
+			<ph id="policymay"><b>may</b></ph>
+			<ph id="policymaynot"><b>may not</b></ph>
+			<ph id="policymight"><b>might</b></ph>
+			<ph id="policymust"><b>shall</b></ph>
+			<ph id="policymustnot"><b>shall not</b></ph>
+			<ph id="policyonly"><b>only</b></ph>
+			<ph id="policyshall"><b>shall</b></ph>
+			<ph id="policyshallnot"><b>shall not</b></ph>
+			<ph id="policyshould"><b>should</b></ph>
+			<ph id="policyshouldnot"><b>should not</b></ph>
+			<ph id="policywill"><b>shall</b></ph>
+			<ph id="privacyemail"><xref href="mailto:DataProtection@justice.gov.uk" format="html" scope="external">DataProtection@justice.gov.uk</xref></ph>
+			<ph id="privacyemailtext"><xref href="mailto:DataProtection@justice.gov.uk" format="html" scope="external">Data Protection Team</xref></ph>
 			<ph id="recordsretentionemail"><xref href="mailto:Records_Retention_@justice.gov.uk" format="html" scope="external">Records_Retention_@justice.gov.uk</xref></ph>
 			<ph id="recordsretentionemailtext"><xref href="mailto:Records_Retention_@justice.gov.uk" format="html" scope="external">Records and Retention team</xref></ph>
-			<ph id="secret"><codeph>SECRET</codeph></ph>
+			<ph id="secret"><b>Secret</b></ph>
 			<ph id="securityemail"><xref href="mailto:security@justice.gov.uk" format="html" scope="external">security@justice.gov.uk</xref></ph>
+			<ph id="securityemailtext"><xref href="mailto:security@justice.gov.uk" format="html" scope="external">Security team</xref></ph>
+			<ph id="sensitive"><b>Sensitive</b></ph>
 			<ph id="servicedesk">IT Service Desk</ph>
 			<ph id="servicedesknumber">0800 917 5148</ph>
 			<ph id="softwareassetemail"><xref href="mailto:SoftwareAssetManagement@justice.gov.uk" format="html" scope="external">SoftwareAssetManagement@justice.gov.uk</xref></ph>
 			<ph id="spf"><xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">SPF</xref></ph>
 			<ph id="spflong"><xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">Security Policy Framework (SPF)</xref></ph>
-			<ph id="strapteamemail"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="html" scope="external">STRAPTeam@cluster2security.gov.uk</xref></ph>
-			<ph id="strapteamemailtext"><xref href="mailto:STRAPTeam@cluster2security.gov.uk" format="html" scope="external">Cluster 2 STRAP team</xref></ph>
+			<ph id="strapteamemail">Cluster 2 STRAP team via <ph conref="#conrefs/securityemailtext"/></ph>
+			<ph id="strapteamemailtext">Cluster 2 STRAP team via <ph conref="#conrefs/securityemailtext"/></ph>
 			<ph id="tablenote"><b>Note:</b></ph>
-			<ph id="topsecret"><codeph>TOP SECRET</codeph></ph>
-			<ph id="vettingaftercareemail"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="html" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>			
-			<ph id="vettingaftercareemailtext"><xref href="mailto:VettingAftercare@cluster2security.gov.uk" format="html" scope="external">VettingAftercare@cluster2security.gov.uk</xref></ph>
+			<ph id="topsecret"><ph conref="#conrefs/top-secret"/></ph>
+			<ph id="top-secret"><b>Top Secret</b></ph>
+			<ph id="vettingaftercareemail">Vetting team via <ph conref="#conrefs/securityemailtext"/></ph>			
+			<ph id="vettingaftercareemailtext">Vetting team via <ph conref="#conrefs/securityemailtext"/></ph>
 		</p>
 		<p id="acronyms">A more extensive list of acronyms is available
 			<xref href="https://ministryofjustice.github.io/acronyms/" format="html" scope="external">here</xref>.</p>
-		<p id="contactcatbyemail">Contact the Cyber Assistance Team by email: <ph conref="#conrefs/catemail"/></p>
+		<p id="contactcatbyemail">Contact the Security team by email: <ph conref="#conrefs/securityemail"/></p>
 		<image id="intraneticon" href="images/gov-uk-logotype-crown.png"><alt>A small UK Government Crown, to indicate that the link is to the <ph conref="#conrefs/moj"/> Intranet.</alt></image>
 		<p id="irardefinition">An IRAR is normally completed by Security Architects and Risk Assessors,
             in conversation with the system architects, designers and developers.
             The IRAR document must also be agreed with the Business Continuity Team.
             For more information regarding IRARs,
             and how to create and maintain them,
-            contact the Cyber Assistance Team: <ph conref="conrefs.dita#conrefs/catemail"/>.</p>
+            contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
 		<p id="incidentmanager" audience="audience-suppliers audience-tech">Following a report,
 			incident managers should refer to the
 			<xref href="incident-management-plan-and-process-guide.dita"
@@ -119,6 +127,7 @@
 			further guidance.</p>
 		<note id="noteexternalemail">An external email service is any service that
 			is outside the <codeph>gov.uk</codeph> domain.</note>
+		<p id="passport-validity">Be aware that some countries only consider a passport as valid for a maximum of ten years from its issue date, regardless of the expiry date printed on it. Before travelling, make sure you understand the passport acceptance rules of all the countries you may travel to or through.</p>
 	</body>
 
 	<topic id="legacyreferences">
@@ -137,7 +146,7 @@
 							contact <ph conref="#conrefs/securityemail"/>.</li>
 						<li>ComSO (Communications Security Officer),
 							contact the <ph conref="#conrefs/cisolong"/> (<ph conref="#conrefs/securityemail"/>).</li>
-						<li><codeph>CONFIDENTIAL</codeph>,
+						<li><b>Confidential</b>,
 							an older information classification marking,
 							refer to <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>.</li>
 						<li>CPNI (<xref href="https://www.cpni.gov.uk/" scope="external" format="html">Centre for the Protection of the National Infrastructure</xref>),
@@ -157,7 +166,7 @@
 							refer to the <ph conref="#conrefs/gov007"/>.</li>
 						<li>ITSO (Information Technology Security Officer),
 							contact the <ph conref="#conrefs/ciso"/> (<ph conref="#conrefs/securityemail"/>).</li>
-						<li><codeph>RESTRICTED</codeph>,
+						<li><b>Restricted</b>,
 							an older information classification marking,
 							refer to <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>.</li>
 						<li>SPF (<xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">Security Policy Framework</xref>),
@@ -168,16 +177,23 @@
 			</body>
 	</topic>
 
+	<topic id="legacywarningshort">
+		<title>Legacy information</title>
+			<body>
+				<note>This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact the <ph conref="#conrefs/securityemailtext"/>.</note>
+			</body>
+	</topic>
+
 	<topic id="general-enquiries-including-theft-and-loss">
 		<title>General enquiries, including theft and loss</title>
 		<body>
 			<p id="dom1"><b>Technology Service Desk</b> - including DOM1/Quantum,
 				and Digital &amp; Technology Digital Service Desk.
 				Use one of the following two methods for contacting service desk:
-				<ul>
+				<ul id="contact-service-desk">
 					<li>Tel: <ph conref="#conrefs/servicedesknumber"/></li>
 					<li><xref href="https://mojprod.service-now.com/moj_sp"
-						format="html" scope="external"><ph conref="#conrefs/moj"/> Service Portal</xref></li>
+						format="html" scope="external"><ph conref="#conrefs/moj"/> Service Portal and Live Chat</xref></li>
 				</ul>
 				<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph>
 					and <codeph>servicedesk@digital.justice.gov.uk</codeph> email addresses,
@@ -197,9 +213,9 @@
 		<title>Incidents</title>
 		<body>
 			<note>If you work for an agency or ALB, refer to your local incident reporting guidance.</note>
-			<p><b>Operational Security Team</b>
+			<p><b>Security Team</b>
 				<ul>
-					<li>Email: <ph conref="#conrefs/ostemail"/></li>
+					<li>Email: <ph conref="#conrefs/securityemail"/></li>
 					<li>Slack: <codeph>#security</codeph></li>
 				</ul>
 			</p>
@@ -219,9 +235,9 @@
 	<topic id="privacy-advice">
 		<title>Privacy Advice</title>
 		<body>
-			<p><b>Privacy Team</b>
+			<p><b>Data Protection Team</b>
 				<ul>
-					<li>Email: <xref href="mailto:privacy@justice.gov.uk" format="html" scope="external">privacy@justice.gov.uk</xref></li>
+					<li>Email: <ph conref="#conrefs/privacyemail"/>></li>
 					<li>Slack: <codeph>#security_privacy_and_live_service_team</codeph></li>
 					<li>Intranet: <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/</xref></li>
 				</ul>
@@ -272,18 +288,14 @@
 			<p>For any further questions relating to group security matters,
 				contact: <ph conref="#conrefs/groupsecurityemail"/>.
 				For general security questions or concerns,
-				contact: <ph conref="#conrefs/securityemail"/>,
-			or for cyber security advice,
-			contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
+				contact: <ph conref="#conrefs/securityemail"/>.</p>
 		</body>
 	</topic>
 
 	<topic id="contact-details">
 		<title>Contact details</title>
 		<body>
-			<p>For any further questions relating to security, contact: <ph conref="#conrefs/securityemail"/>,
-			or for cyber security advice,
-			contact the Cyber Assistance Team: <ph conref="#conrefs/catemail"/>.</p>
+			<p>For any further questions or advice relating to security, contact: <ph conref="#conrefs/securityemail"/>.</p>
 		</body>
 	</topic>
 
@@ -300,49 +312,20 @@
 			<note>If you work for an agency or ALB, refer to your local incident reporting guidance.</note>
 			<p>For help with incidents,
 				including theft and loss,
-				contact:
-				<dl>
-					<dlentry>
-						<dt>Technology Service Desk - including DOM1, Quantum, and the Digital &amp; Technology Service Desk</dt>
-						<dd>Tel: <ph conref="#conrefs/servicedesknumber"/>
-							<note>The previous <codeph>itservicedesk@justice.gov.uk</codeph>
-								and <codeph>servicedesk@digital.justice.gov.uk</codeph> email addresses
-								are no longer being monitored.</note></dd>
-					</dlentry>
-					<!--
-					<dlentry>
-						<dt>Digital and Technology - Digital Service Desk</dt>
-						<dd>
-							<ul>
-								<li>Email: <xref href="mailto:servicedesk@digital.justice.gov.uk" format="html" scope="external">servicedesk@digital.justice.gov.uk</xref></li>
-								<li>Slack: <codeph>#digitalservicedesk</codeph></li>
-							</ul>
-						</dd>
-					</dlentry>
-					-->
-					<dlentry>
-						<dt>HMPPS Information and security</dt>
-						<dd>
-							<ul>
-								<li>Email: <xref href="mailto:informationmgmtsecurity@justice.gov.uk" format="html" scope="external">informationmgmtsecurity@justice.gov.uk</xref></li>
-								<li>Tel: 0203 334 0324</li>
-							</ul>
-						</dd>
-					</dlentry>
-				</dl>
-			</p>
+				contact one of the following:</p>
+			<p conref="#general-enquiries-including-theft-and-loss/dom1"/>
+			<p conref="#general-enquiries-including-theft-and-loss/hmppsinfosec"/>
 			<p>For non-technology incidents,
 				contact the <ph conref="#conrefs/moj"/> Group Security Team: <ph conref="#conrefs/groupsecurityemail"/></p>
-			<p>Contact the Privacy Team for information on Data Protection Impact Assessments: <ph conref="#conrefs/privacyemail"/></p>
+			<p>Contact the Data Protection Team for information on Data Protection Impact Assessments: <ph conref="#conrefs/privacyemail"/></p>
 			<p>If you are not sure who to contact,
-				ask the Operational Security Team:
+				ask the Security Team:
 				<ul>
-					<li>Email: <ph conref="#conrefs/ostemail"/></li>
+					<li>Email: <ph conref="#conrefs/securityemail"/></li>
 					<li>Slack: <codeph>#security</codeph></li>
 				</ul>
 			</p>
-			<p>For any further questions relating to security, contact: <ph conref="#conrefs/securityemail"/>,
-			or for cyber security advice, contact the Cyber Assistance Team <ph conref="#conrefs/catemail"/>.</p>
+			<p>For any further questions relating to security, contact: <ph conref="#conrefs/securityemail"/>.</p>
 		</body>
 	</topic>
 
@@ -401,7 +384,7 @@
 			The reclassification must still be communicated to the asset owner,
 			for consistency.
 		  If it is agreed that the classification should be increased,
-		  check with the Operational Security Team (<ph conref="conrefs.dita#conrefs/ostemail"/>) whether additional actions are required to protect the material.</p>
+		  check with the Security Team (<ph conref="conrefs.dita#conrefs/securityemail"/>) whether additional actions are required to protect the material.</p>
 		</body>
 	  </topic>
 

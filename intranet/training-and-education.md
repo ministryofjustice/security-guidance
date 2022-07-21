@@ -12,18 +12,18 @@ The MoJ's Information Security awareness programme plays an essential part in ma
 
 ##Requirements
 
-All staff starting or returning to work within the MoJ **SHALL** receive mandatory security training.
+All staff starting or returning to work within the MoJ **shall** receive mandatory security training.
 
 The objective is to ensure that all new and current staff members are aware of their security responsibilities whilst working at the MoJ.
 
 Full details of the mandatory training are provided in the Joiner, Mover, and Leaver pages on the MoJ [Intranet](/guidance/security/).
 
-In summary, as a minimum everyone **SHALL**:
+In summary, as a minimum everyone **shall**:
 
 * Have taken and completed an MoJ Security [induction](/guidance/hr/induction/).
 * Have completed the [Civil Service Learning](https://learn.civilservice.gov.uk/home) course on "Responsible for Information (RfI)", or an approved equivalent.
 
-Normally, this training **SHALL** be completed successfully before accessing MoJ information, resources, or assets.
+Normally, this training **shall** be completed successfully before accessing MoJ information, resources, or assets.
 
 ##Further information
 
@@ -31,7 +31,7 @@ More details are provided to staff on the MoJ Intranet, [/](/).
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ---
 

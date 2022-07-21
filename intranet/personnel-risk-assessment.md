@@ -47,7 +47,7 @@ Much of the value of the risk management process comes from the systematic explo
 
 The MoJ uses the risk management process developed by the Centre for Protection of National Infrastructure (CPNI). A copy of the CPNI's guide can be found [here](https://www.cpni.gov.uk/ongoing-personnel-security).
 
-Managers and other risk management professionals **SHALL** follow the process set out in the guide, and maintain detailed records. These **SHOULD** be made available when requested by Audit, Group Security, or HR.
+Managers and other risk management professionals **shall** follow the process set out in the guide, and maintain detailed records. These **should** be made available when requested by Audit, Group Security, or HR.
 
 ##Downloads
 
@@ -56,7 +56,7 @@ Managers and other risk management professionals **SHALL** follow the process se
 
 ##Contact details
 
-For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk), or for cyber security advice, contact the Cyber Assistance Team: [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk).
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ---
 

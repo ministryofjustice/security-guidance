@@ -2,7 +2,7 @@
 
 A 'secret' is defined here as a sensitive piece of information that should be kept private. A secret usually has a technical system or user focus, for example a password, OAuth token or 'private key'. Private keys are secrets associated with SSH network connections, certificates, etc.
 
-A 'secret' **not** the same as a `SECRET` classification.
+A 'secret' **not** the same as a **Secret** classification.
 
 ## The base principle
 

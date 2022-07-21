@@ -6,7 +6,7 @@ This site documents some of the security decisions that the [Ministry of Justice
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 21 March 2022.
+**Note:** This guidance is dated: 4 July 2022.
 
 ### Popular links
 
@@ -35,7 +35,7 @@ For convenience, offline versions of this guidance are available.
 |Group Security. Contains Group Security policy and guidance.|[PDF](moj-guidance-gs.pdf)|[EPUB](moj-guidance-gs.epub)|
 |Technical users. Includes lots of technical detail. This document contains all content, including for 'All users' and from Group Security. Download this document if you want the complete set of published MoJ security policy and guidance.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
 
-The offline versions of this guidance are time-limited, and are not valid after 21 April 2022.
+The offline versions of this guidance are time-limited, and are not valid after 4 August 2022.
 
 ### Security culture
 
@@ -49,7 +49,7 @@ The MoJ is creating a portfolio of security culture resources to help supplement
 
 -   [To report an incident](reporting-an-incident.md).
 -   For general assistance on MoJ security matters, email [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   For Cyber Security assistance or consulting, email [CyberConsultancy@digital.justice.gov.uk](mailto:CyberConsultancy@digital.justice.gov.uk). More information about the Cyber Security Consultancy Team is [available](user-guide.md).
+-   For Cyber Security assistance or consulting, email [security@justice.gov.uk](mailto:security@justice.gov.uk). More information about the Security Team is [available](user-guide.md).
 -   Suppliers to the MoJ should first communicate with their usual MoJ points of contact.
 
 ### Background
@@ -182,6 +182,7 @@ The documents have been developed and defined within this taxonomy, and are list
 |[Removable media](removable-media.md)|All users|
 |[Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)|All users|
 |[Secure disposal of IT - physical and on-premise](secure-disposal-of-it-physical-and-on-premise.md)|All users|
+|[Secure disposal of IT - public and private cloud](secure-disposal-of-it-public-and-private-cloud.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
 |[Working securely with paper documents and files](working-securely-with-paper-documents-and-files.md)|All users|
 
 ### Access control

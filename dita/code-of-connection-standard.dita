@@ -122,7 +122,7 @@ If any aspects of the data to be exchanged require special handling measures or 
                 <p>Have front-end firewall(s) to be a minimum of EAL4 certified or CAPS approved;</p>
               </li>
               <li>
-                <p>rovide a minimum of EAL4 separation on front-end firewall(s) between the port used for connection to the NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM] and ports used for other connections.</p>
+                <p>Provide a minimum of EAL4 separation on front-end firewall(s) between the port used for connection to the NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM] and ports used for other connections.</p>
               </li>
             </ul>
           </body>
