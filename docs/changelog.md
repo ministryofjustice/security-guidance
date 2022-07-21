@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-07-21-13:45-bst-[guidance-on-use-of-personal-devices](https:-security-guidance.service.justice.gov.uk-personal-devices-#using-moj-tools-on-personal-devices)"></a>
+
+-   **2022-07-21 13:45 BST [Guidance on use of personal devices](https://security-guidance.service.justice.gov.uk/personal-devices/#using-moj-tools-on-personal-devices)**
+
+    Added clarification and emphasis that personal devices must not be used for work purposes. This includes accessing MoJ Slack channels using personal devices.
+
 <a name="2022-07-04-14:23-bst-[correct-broken-links](https:-security-guidance.service.justice.gov.uk-security-log-collection-)"></a>
 
 -   **2022-07-04 14:23 BST [Correct broken links](https://security-guidance.service.justice.gov.uk/security-log-collection/)**
