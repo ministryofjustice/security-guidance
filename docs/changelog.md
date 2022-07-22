@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-07-22-13:14-bst-[use-of-personal-devices-to-receive-mfa-codes](https:-security-guidance.service.justice.gov.uk-personal-devices-#guidance)"></a>
+
+-   **2022-07-22 13:14 BST [Use of personal devices to receive MFA codes](https://security-guidance.service.justice.gov.uk/personal-devices/#guidance)**
+
+    Added clarification that personal devices may be used to receive MFA authentication codes if an MoJ-issued device is not available.
+
 <a name="2022-07-21-13:45-bst-[guidance-on-use-of-personal-devices](https:-security-guidance.service.justice.gov.uk-personal-devices-#using-moj-tools-on-personal-devices)"></a>
 
 -   **2022-07-21 13:45 BST [Guidance on use of personal devices](https://security-guidance.service.justice.gov.uk/personal-devices/#using-moj-tools-on-personal-devices)**
