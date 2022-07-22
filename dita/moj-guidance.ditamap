@@ -411,7 +411,7 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 	</topichead>
 
-	<topichead audience="audience-basic audience-suppliers audience-tech">
+	<topichead>
 		<topicmeta><navtitle>Glossary and Acronyms</navtitle></topicmeta>
 		<topicref href="glossary.dita" type="topic"/>
 	</topichead>
