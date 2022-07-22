@@ -80,8 +80,6 @@ This policy's statement elements are outlined as follows:
 
 -   **POL.DOM.010:** Departmental teams and ALBs **shall** be directed to the [Operations Engineering](https://operations-engineering.service.justice.gov.uk/) team to carry out domain registration on the user or department's behalf.
 
--   **POL.DOM.010-220406:** Departmental teams and ALBs **shall** first direct all MoJ Domain Name requests for 3rd Party services to [security@justice.gov.uk](mailto:security@justice.gov.uk) for approval. Once the service or application request is authorised, it **shall** then be actioned by the MoJ [Operations Engineering](https://operations-engineering.service.justice.gov.uk/) team.
-
 -   **POL.DOM.011:** All departments and ALBs **shall** ensure that they transfer ownership of non-GOV.UK domains to the MoJ [Operations Engineering](https://operations-engineering.service.justice.gov.uk/) team, with a list of transfers and registration managed by the MoJ [Operations Engineering](https://operations-engineering.service.justice.gov.uk/) team.
 
 
