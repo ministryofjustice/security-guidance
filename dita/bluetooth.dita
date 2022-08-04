@@ -100,7 +100,7 @@
 							<entry colname="col2">N</entry>
 						</row>
 						<row>
-							<entry colname="col1">Connected vehicles</entry>
+							<entry colname="col1"><xref href="#connected-vehicles" format="dita">Connected vehicles</xref></entry>
 							<entry colname="col2">N - Connected vehicles are effectively Bluetooth-connected storage devices.</entry>
 						</row>
 						</tbody>
@@ -119,6 +119,9 @@
 			</p>
 			<p>An example of a Bluetooth problem is 'Bluetooth marketing'. As you walk around with your mobile phone, it is continuously looking for Bluetooth devices and wifi access points. It does this to help with accurate location tracking. But other devices can also find your mobile phone. These devices might report tracking information about where you were at any time. This guidance will help you understand more about the problem, and suggest things you can do to reduce the risks.</p>
 		</body>
+	</topic>
+	<topic id="connected-vehicles" conref="personal-devices.dita#connected-vehicles">
+		<title/>
 	</topic>
 	<topic id="best-practices-for-using-bluetooth">
 		<title>Best practices for using Bluetooth</title>
