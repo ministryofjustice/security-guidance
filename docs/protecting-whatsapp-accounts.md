@@ -4,25 +4,25 @@ The Ministry of Justice \(MoJ\) [permits](general-user-video-and-messaging-apps-
 
 You **should** always keep WhatsApp account details safe and secure. Accounts are normally associated with specific devices. When you register your device with a WhatsApp account, that provides some protection. Only the registered device can send or receive messages associated with you.
 
-Unfortunately, device registration is a tempting target for [threat actors](glossary.md#threat-actor). It is seen as a way for potential compromise of user data, including backups of conversations, and contact lists.
+Unfortunately, device registration is a tempting target for attackers. It is seen as a way for potential compromise of user data, including backups of conversations, and contact lists.
 
-A compromised account might also be used to attack other people. A threat actor can pretend to be a user, and so target other contacts. Eventually, they might make their way to compromise a high-value target.
+A compromised account might also be used to attack other people. An attacker might pretend to be a user, and so target other contacts. Eventually, they might make their way to compromise a high-value target.
 
-An example scenario might be where an attack is made on the WhatsApp account belonging to a family member of an MoJ employee. After compromising the victim's WhatsApp account, the threat actor can pretend to be the family member and so contact the MoJ employee through the contact list. Naturally, the employee would be likely to trust the message as having come from the family member.
+An example scenario might be where an attack is made on the WhatsApp account belonging to a family member of an MoJ employee. After compromising the victim's WhatsApp account, the attacker might pretend to be the family member and so contact the MoJ employee through the contact list. Naturally, the employee would be likely to trust the message as having come from the family member.
 
 ## How a WhatsApp attack works
 
 **Note:** This document does not provide full details of how to attack a WhatsApp account. We just provide enough information to understand what protective steps are required.
 
-Registering a device with a WhatsApp account uses an authentication code \(a PIN code\). The threat actor tricks the victim into revealing the device registration code. They then deregister the victim's device from the WhatsApp account, in favour of the attacker's device.
+Registering a device with a WhatsApp account uses an authentication code \(a PIN code\). The attacker tricks the victim into revealing the device registration code. They then deregister the victim's device from the WhatsApp account, in favour of the attacker's device.
 
 The key point is the authentication code. It's very important to keep this secret, just like a password.
 
 ## Protecting your WhatsApp account
 
-If your WhatsApp account is compromised, you can often recover it by reconnecting to WhatsApp using your device telephone number. A 6-digit SMS verification code is sent to the phone, which you enter into the app. When your device is reauthenticated in this way, the threat actor is automatically disconnected, and cannot reconnect without a fresh authentication code.
+If your WhatsApp account is compromised, you can often recover it by reconnecting to WhatsApp using your device telephone number. A 6-digit SMS verification code is sent to the phone, which you enter into the app. When your device is reauthenticated in this way, the attacker is automatically disconnected, and cannot reconnect without a fresh authentication code.
 
-While recovering an account, you might be asked to provide a two-step verification code. If you don't have this already, it might indicate that the threat actor has enabled two-step verification without your knowledge. Without the code, you must wait 7 days before you can sign in to WhatsApp. However, the threat actor will have been disconnected from the account immediately when the 6-digit SMS verification code was sent. Although you can't get into your account for a week, the threat actor cannot get into your account at all.
+While recovering an account, you might be asked to provide a two-step verification code. If you don't have this already, it might indicate that the attacker has enabled two-step verification without your knowledge. Without the code, you must wait 7 days before you can sign in to WhatsApp. However, the attacker was disconnected from the account immediately when the 6-digit SMS verification code was sent. Although you can't get into your account for a week, the attacker cannot get into your account at all.
 
 When you reconnect into your WhatsApp account, check for and unlink all unknown devices. Do this by checking **Linked Devices** in the WhatsApp settings menu.
 
