@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-08-04-16:22-bst-[add-connected-vehicle-reference-in-bluetooth-guidance](https:-security-guidance.service.justice.gov.uk-bluetooth-#connected-vehicles)"></a>
+
+-   **2022-08-04 16:22 BST [Add connected vehicle reference in bluetooth guidance](https://security-guidance.service.justice.gov.uk/bluetooth/#connected-vehicles)**
+
+    Connected vehicles are discussed in personal devices, but the information also applies in the bluetooth guidance.
+
 <a name="2022-07-22-13:14-bst-[use-of-personal-devices-to-receive-mfa-codes](https:-security-guidance.service.justice.gov.uk-personal-devices-#guidance)"></a>
 
 -   **2022-07-22 13:14 BST [Use of personal devices to receive MFA codes](https://security-guidance.service.justice.gov.uk/personal-devices/#guidance)**

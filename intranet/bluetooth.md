@@ -49,7 +49,7 @@ Examples of Bluetooth devices, and whether they might be used for business purpo
 |Smart TVs|N - requires authorisation|
 |Storage devices (similar to USB 'thumb' drives)|N|
 |Internet-of-things 'Smart speakers'|N|
-|Connected vehicles|N - Connected vehicles are effectively Bluetooth-connected storage devices.|
+|[Connected vehicles](#connected-vehicles)|N - Connected vehicles are effectively Bluetooth-connected storage devices.|
 
 A Bluetooth device might be at risk from any of the following:
 
@@ -62,6 +62,16 @@ A Bluetooth device might be at risk from any of the following:
 * Phishing
 
 An example of a Bluetooth problem is 'Bluetooth marketing'. As you walk around with your mobile phone, it is continuously looking for Bluetooth devices and wifi access points. It does this to help with accurate location tracking. But other devices can also find your mobile phone. These devices might report tracking information about where you were at any time. This guidance will help you understand more about the problem, and suggest things you can do to reduce the risks.
+
+##Connected vehicles
+
+Connected vehicles are effectively Bluetooth-connected storage devices. They are considered personal devices for the purposes of this guidance, regardless of whether they are owned, leased or rented.
+
+Automatic transfer of contact information and calendar events might happen during the pairing process. The resulting transferred data is accessible to any third party who subsequently pairs their mobile device to the vehicle.
+
+Additionally, although such platforms usually offer an option to delete paired profiles, there is currently no confirmation that the data is actually erased to a satisfactory level. Transferred information might not be immediately visible or accessible, but this is not the same as deleting the information from the vehicle.
+
+For these reasons, MoJ devices **shall not** be paired with Bluetooth-enabled vehicles.
 
 ##Best practices for using Bluetooth
 
