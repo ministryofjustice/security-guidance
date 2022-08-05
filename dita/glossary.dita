@@ -128,7 +128,7 @@
         </dlentry>
         <dlentry id="phishing">
           <dt>Phishing</dt>
-          <dd>Untargeted mass emails sent to many individuals. The email typically asks for sensitive information, or encourages you to visit fake websites, or to send money. For more information, refer to the <xref href="phishing-guide.dita" format="dita">phishing guide</xref>.</dd>
+          <dd>Untargeted mass emails sent to many individuals. The email typically asks for sensitive information, or encourages you to visit fake websites, or to send money. For more information, refer to the <xref href="phishing-guide.dita" format="dita" audience="audience-basic audience-suppliers audience-tech">phishing guide</xref><xref href="https://security-guidance.service.justice.gov.uk/phishing-guide/" format="html" scope="external" audience="audience-gs">phishing guide</xref>.</dd>
         </dlentry>
         <dlentry id="problem">
           <dt>Problem</dt>

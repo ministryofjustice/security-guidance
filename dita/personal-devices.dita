@@ -51,8 +51,9 @@
           the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</li>
       </ul>
       <note>You are not asked or required to use your own devices for work purposes. Statement <b>POL.MOB.009</b> of the
-        <xref href="mobile-device-and-remote-working-policy.dita#use-of-private-equipment/use-of-private-equipment" format="dita" audience="audience-basic audience-suppliers audience-tech" platform="html">mobile device and remote working policy</xref><xref href="mobile-device-and-remote-working-policy.dita#use-of-private-equipment" format="dita" audience="audience-basic audience-suppliers audience-tech" platform="epub pdf">mobile device and remote working policy</xref><ph audience="audience-gs">mobile device and remote working policy</ph> makes clear that you <ph conref="conrefs.dita#conrefs/policyshouldnot"/> use personal devices for <ph conref="conrefs.dita#conrefs/moj"/> work purposes. If you have access to <ph conref="conrefs.dita#conrefs/moj"/> devices for work purposes, you <ph conref="conrefs.dita#conrefs/policyshall"/> use them by default.</note>
-    </body>
+        <xref href="mobile-device-and-remote-working-policy.dita#use-of-private-equipment/use-of-private-equipment" format="dita" audience="audience-basic audience-suppliers audience-tech" platform="html">mobile device and remote working policy</xref><xref href="mobile-device-and-remote-working-policy.dita#use-of-private-equipment" format="dita" audience="audience-basic audience-suppliers audience-tech" platform="epub pdf">mobile device and remote working policy</xref><ph audience="audience-gs">mobile device and remote working policy</ph> makes clear that you <ph conref="conrefs.dita#conrefs/policyshouldnot"/> use personal devices for <ph conref="conrefs.dita#conrefs/moj"/> work purposes. If you have access to <ph conref="conrefs.dita#conrefs/moj"/> devices for work purposes, you <ph conref="conrefs.dita#conrefs/policyshall"/> use them by default.
+        A special case is that if you do not have an <ph conref="conrefs.dita#conrefs/moj"/>-issued mobile phone, you <ph conref="conrefs.dita#conrefs/policymay"/> use a personal device to receive <xref href="glossary.dita#terms/multi-factor-authentication-mfa" format="dita" platform="github">Multi-factor authentication (MFA)</xref><ph platform="intranet">Multi-factor authentication (MFA)</ph> codes or messages which authorise access by <ph conref="conrefs.dita#conrefs/moj"/> devices to <ph conref="conrefs.dita#conrefs/moj"/> systems.</note>
+      </body>
   </topic>
   <topic id="using-moj-tools-on-personal-devices">
     <title>Using <ph conref="conrefs.dita#conrefs/moj"/> tools on personal devices</title>
@@ -82,7 +83,7 @@
     <body>
       <p>Connected vehicles are effectively Bluetooth-connected storage devices. They are considered personal devices for the purposes of this guidance, regardless of whether they are owned, leased or rented.</p>
       <p>Automatic transfer of contact information and calendar events might happen during the pairing process. The resulting transferred data is accessible to any third party who subsequently pairs their mobile device to the vehicle.</p>
-      <p>Additionally, although such platforms usually offer an option to delete paired profiles, there is currently no confirmation that the data is actually erased to a satisfactory level. The usual claim is only that the transferred data is deemed inaccessible to the platform menu.</p>
+      <p>Additionally, although such platforms usually offer an option to delete paired profiles, there is currently no confirmation that the data is actually erased to a satisfactory level. Transferred information might not be immediately visible or accessible, but this is not the same as deleting the information from the vehicle.</p>
       <p>For these reasons, <ph conref="conrefs.dita#conrefs/moj"/> devices <ph conref="conrefs.dita#conrefs/policyshallnot"/> be paired with Bluetooth-enabled vehicles.</p>
     </body>
   </topic>
