@@ -69,7 +69,7 @@ Connected vehicles are effectively Bluetooth-connected storage devices. They are
 
 Automatic transfer of contact information and calendar events might happen during the pairing process. The resulting transferred data is accessible to any third party who subsequently pairs their mobile device to the vehicle.
 
-Additionally, although such platforms usually offer an option to delete paired profiles, there is currently no confirmation that the data is actually erased to a satisfactory level. The usual claim is only that the transferred data is deemed inaccessible to the platform menu.
+Additionally, although such platforms usually offer an option to delete paired profiles, there is currently no confirmation that the data is actually erased to a satisfactory level. Transferred information might not be immediately visible or accessible, but this is not the same as deleting the information from the vehicle.
 
 For these reasons, MoJ devices **shall not** be paired with Bluetooth-enabled vehicles.
 
