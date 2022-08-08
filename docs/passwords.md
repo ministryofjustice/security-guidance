@@ -8,8 +8,6 @@ This article provides guidance on passwords and Personal Identification Numbers 
 
 This guidance is for all users. It also includes more detail for system administrators or developers.
 
-![A thumbnail of the strong password information poster.](images/how-to-make-strong-passwords.png)
-
 **Note:** Except where stated, the guidance in this article applies to both passwords and PINs.
 
 **Related information**  
