@@ -33,6 +33,14 @@ Always follow all [MoJ policies and guidelines](https://intranet.justice.gov.uk/
 
 In particular, follow the [Civil Service Code of Conduct](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code).
 
+## Video conference hardware
+
+There are specific security concerns when using video conferencing hardware. The hardware might need extra permissions, involving access to the MoJ network, or involving personally identifiable information.
+
+Video conferencing hardware might also be in a 'constant listening state'. This means that anything said within hearing distance, at any time, is 'heard' by the device. Similarly, anything in the line of sight might be 'seen' by the device. Some video conferencing hardware might record and even store the audio or video data outside the MoJ.
+
+Video conferencing hardware for use within the MoJ **shall** meet the required security standards of the MoJ. Any devices that do not meet the security standards **shall not** be used. The reason is that the hardware might be insecure, and therefore unsafe to use for **Official-Sensitive** conversations.
+
 ## Using video conference tools safely
 
 The NCSC has excellent guidance on [using video conferencing services safely](https://www.ncsc.gov.uk/guidance/video-conferencing-services-using-them-securely).
