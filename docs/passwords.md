@@ -10,8 +10,6 @@ This guidance is for all users. It also includes more detail for system administ
 
 ![A thumbnail of the strong password information poster.](images/how-to-make-strong-passwords.png)
 
-A useful information leaflet on strong passwords is available for download [here](./culture/how-to-make-strong-passwords.pdf).
-
 **Note:** Except where stated, the guidance in this article applies to both passwords and PINs.
 
 **Related information**  

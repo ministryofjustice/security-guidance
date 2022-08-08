@@ -14,11 +14,7 @@ Seasonal celebrations are fun, but can also suffer from scams. A common scam inv
 
 Some SMS messages get people to install malware. An example is Flubot, which steals personal and banking details. Flubot also uses your contact lists to send more fake texts.
 
-This poster shows you examples of typical scam SMS messages. It explains what FluBot is and how to remove it. It tells you about the best practices for avoiding being a victim of these scams.
-
 The best way to avoid SMS scams is to contact parcel delivery companies directly. Go to their website and tracking your parcel there. Never click on a link in a text message.
-
-The leaflet is available [here](./culture/christmas-sms-delivery-scams.pdf).
 
 ## Contact details
 
