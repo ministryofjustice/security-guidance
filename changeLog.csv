@@ -76,3 +76,4 @@
 "202207221314","Use of personal devices to receive MFA codes","Added clarification that personal devices may be used to receive MFA authentication codes if an MoJ-issued device is not available.","personal-devices/#guidance","2022-07-22 13:14 BST"
 "202208041622","Add connected vehicle reference in bluetooth guidance","Connected vehicles are discussed in personal devices, but the information also applies in the bluetooth guidance.","bluetooth/#connected-vehicles","2022-08-04 16:22 BST"
 "202208051208","Add guidance on video conferencing hardware","Provide more details on the use of dedicated hardware for video and conference calls.","general-user-video-and-messaging-apps-guidance/#video-conference-hardware","2022-08-05 12:08 BST"
+"202208091217","Remove links to download leaflets","Remove links to leaflet downloads, ready for later updates.","","2022-08-09 12:17 BST"
