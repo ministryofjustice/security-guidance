@@ -51,6 +51,14 @@
 			follow the <xref href="https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code" format="html" scope="external">Civil Service Code of Conduct</xref>.</p>
 		</body>
 	</topic>
+	<topic id="video-conference-hardware">
+		<title>Video conference hardware</title>
+		<body>
+			<p>There are specific security concerns when using video conferencing hardware. The hardware might need extra permissions, involving access to the <ph conref="conrefs.dita#conrefs/moj"/> network, or involving personally identifiable information.</p>
+			<p>Video conferencing hardware might also be in a 'constant listening state'. This means that anything said within hearing distance, at any time, is 'heard' by the device. Similarly, anything in the line of sight might be 'seen' by the device. Some video conferencing hardware might record and even store the audio or video data outside the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+			<p>Video conferencing hardware for use within the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policyshall"/> meet the required security standards of the <ph conref="conrefs.dita#conrefs/moj"/>. Any devices that do not meet the security standards <ph conref="conrefs.dita#conrefs/policyshallnot"/> be used. The reason is that the hardware might be insecure, and therefore unsafe to use for <ph conref="conrefs.dita#conrefs/official-sensitive"/> conversations.</p>
+		</body>
+	</topic>
 	<topic id="using-video-conference-tools-safely">
 		<title>Using video conference tools safely</title>
 		<body>

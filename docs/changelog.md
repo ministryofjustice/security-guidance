@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-08-05-12:08-bst-[add-guidance-on-video-conferencing-hardware](https:-security-guidance.service.justice.gov.uk-general-user-video-and-messaging-apps-guidance-#video-conference-hardware)"></a>
+
+-   **2022-08-05 12:08 BST [Add guidance on video conferencing hardware](https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/#video-conference-hardware)**
+
+    Provide more details on the use of dedicated hardware for video and conference calls.
+
 <a name="2022-08-04-16:22-bst-[add-connected-vehicle-reference-in-bluetooth-guidance](https:-security-guidance.service.justice.gov.uk-bluetooth-#connected-vehicles)"></a>
 
 -   **2022-08-04 16:22 BST [Add connected vehicle reference in bluetooth guidance](https://security-guidance.service.justice.gov.uk/bluetooth/#connected-vehicles)**
