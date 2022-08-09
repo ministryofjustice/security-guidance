@@ -2,8 +2,6 @@
 
 Ransomware is a type of malicious software created or used by cyber criminals. It prevents people or businesses from accessing their own data. The software takes hold of the data, holding it "hostage", until a ransom payment is made to release it.
 
-A useful information leaflet is available for download [here](./culture/ransomware-information-leaflet.pdf).
-
 ##Preventing Ransomware from taking hold of information
 
 * Store all your information in official Ministry of Justice (MoJ) systems. This is general best practice, and also minimises the risk of the data being accessed by the hackers.
