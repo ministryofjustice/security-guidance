@@ -3,38 +3,38 @@
 <topic id="protecting-whatsapp-accounts">
   <title>Protecting WhatsApp accounts</title>
   <body>
-    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> <xref href="general-user-video-and-messaging-apps-guidance.dita#approved-tools/approved-tools" format="dita" platform="html">permits</xref><xref href="general-user-video-and-messaging-apps-guidance.dita#approved-tools" format="dita" platform="epub pdf">permits</xref> the use of <xref href="https://www.whatsapp.com/" format="html" scope="external">WhatsApp</xref> for text messaging, voice and video calls, as long as you avoid using it for business tasks involving personal or sensitive data.</p>
-    <p>You <ph conref="conrefs.dita#conrefs/policyshould"/> always keep WhatsApp account details safe and secure. Accounts are normally associated with specific devices. When you register your device with a WhatsApp account, that provides some protection. Only the registered device can send or receive messages associated with you.</p>
-    <p>Unfortunately, device registration is a tempting target for attackers. It is seen as a way for potential compromise of user data, including backups of conversations, and contact lists.</p>
-    <p>A compromised account might also be used to attack other people. An attacker might pretend to be a user, and so target other contacts. Eventually, they might make their way to compromise a high-value target.</p>
-    <p>An example scenario might be where an attack is made on the WhatsApp account belonging to a family member of an <ph conref="conrefs.dita#conrefs/moj"/> employee. After compromising the victim's WhatsApp account, the attacker might pretend to be the family member and so contact the <ph conref="conrefs.dita#conrefs/moj"/> employee through the contact list. Naturally, the employee would be likely to trust the message as having come from the family member.</p>
+    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> <xref href="general-user-video-and-messaging-apps-guidance.dita#approved-tools/approved-tools" format="dita" platform="html">permits</xref><xref href="general-user-video-and-messaging-apps-guidance.dita#approved-tools" format="dita" platform="epub pdf">permits</xref> the use of <xref href="https://www.whatsapp.com/" format="html" scope="external">WhatsApp</xref> for text messaging, voice and video calls. You <ph conref="conrefs.dita#conrefs/policyshould"/> avoid using it for business tasks involving personal or sensitive data.</p>
+    <p>You <ph conref="conrefs.dita#conrefs/policyshould"/> always keep WhatsApp account details safe and secure. Accounts link with specific devices. When you register your device with a WhatsApp account, that provides some protection. Only the registered device can send or receive messages associated with you.</p>
+    <p>Unfortunately, device registration is a tempting target for attackers. It is a way for potential compromise of user data. Compromises affect backups of conversations, and contact lists.</p>
+    <p>A compromised account might also attack other people. An attacker might pretend to be a user, and so target other contacts. They might make their way to compromise a high-value target.</p>
+    <p>An example scenario might be an attack on the WhatsApp account of a family member of an <ph conref="conrefs.dita#conrefs/moj"/> employee. The attacker compromises the family member’s WhatsApp account. They then pretend to be the family member. They contact the <ph conref="conrefs.dita#conrefs/moj"/> employee through the contact list. The employee trusts the message: it seems to come from the family member.</p>
   </body>
   <topic id="how-a-whatsapp-attack-works">
     <title>How a WhatsApp attack works</title>
     <body>
-      <note>This document does not provide full details of how to attack a WhatsApp account. We just provide enough information to understand what protective steps are required.</note>
-      <p>Registering a device with a WhatsApp account uses an authentication code (a PIN code). The attacker tricks the victim into revealing the device registration code. They then deregister the victim's device from the WhatsApp account, in favour of the attacker's device.</p>
-      <p>The key point is the authentication code. It's very important to keep this secret, just like a password.</p>
+      <note>This document does not provide full details of how to attack a WhatsApp account. We provide enough information to understand helpful protective steps.</note>
+      <p>Registering a device with a WhatsApp account uses an authentication code (a PIN code). The attacker tricks the victim into revealing the device registration code. They then deregister the victim's device from the WhatsApp account. Next, they register the attacker's device with the WhatsApp account.</p>
+      <p>The key point is the authentication code. It's very important to keep this secret, like a password.</p>
     </body>
   </topic>
-  <topic id="protecting-your-whatsapp-account">
-    <title>Protecting your WhatsApp account</title>
+  <topic id="recovering-and-protecting-your-whatsapp-account">
+    <title>Recovering and protecting your WhatsApp account</title>
     <body>
-      <p>If your WhatsApp account is compromised, you can often recover it by reconnecting to WhatsApp using your device telephone number. A 6-digit SMS verification code is sent to the phone, which you enter into the app. When your device is reauthenticated in this way, the attacker is automatically disconnected, and cannot reconnect without a fresh authentication code.</p>
-      <p>While recovering an account, you might be asked to provide a two-step verification code. If you don't have this already, it might indicate that the attacker has enabled two-step verification without your knowledge. Without the code, you must wait 7 days before you can sign in to WhatsApp. However, the attacker was disconnected from the account immediately when the 6-digit SMS verification code was sent. Although you can't get into your account for a week, the attacker cannot get into your account at all.</p>
-      <p>When you reconnect into your WhatsApp account, check for and unlink all unknown devices. <ph id="how2check">Do this by checking <uicontrol>Linked Devices</uicontrol> in the WhatsApp settings menu.</ph></p>
-      <p>Enable two-step verification on your account, so that any future attempt to register device will require a PIN to enable the app. <ph id="enable2fa">Do this by going into the <uicontrol>Settings</uicontrol> then <uicontrol>Account</uicontrol> menu on the app, and selecting the <uicontrol>Two-step verification option</uicontrol>.</ph></p>
-      <p>If you think something is suspicious about your <ph conref="conrefs.dita#conrefs/moj"/> account, or the messages sent or received using that account, contact the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/securityemailtext"/> and ask for help as soon as possible.</p>
-      <p>Always follow <ph conref="conrefs.dita#conrefs/moj"/> policy regarding applications for conducting official business or storing business-related information. In particular, do not use unapproved applications for conducting <ph conref="conrefs.dita#conrefs/moj"/> official business, and do not use unapproved applications for storing <ph conref="conrefs.dita#conrefs/moj"/> business-related data. Always use <xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">approved applications</xref> and <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/" format="html" scope="external">storage tools</xref>.</p>
+      <p>You can often recover a compromised WhatsApp account. A good way is to use your device telephone number. Use the app to ask for a 6-digit SMS verification code. When the code gets to your phone,  enter it into the app. After re-authenticating your phone, the attacker is automatically disconnected. They cannot reconnect without a fresh authentication code.</p>
+      <p>While recovering an account, you might have to provide a two-step verification PIN. If you don't have this code, it suggests the attacker enabled two-step verification. Without the code, you must wait 7 days before you can sign in to WhatsApp. But the attacker is disconnected from the account immediately when the code is sent. Although you can't get into your account for a week, the attacker cannot get into your account at all.</p>
+      <p>When you reconnect into your WhatsApp account, check for any unknown devices. <ph id="how2check">Do this by checking <uicontrol>Linked Devices</uicontrol> in the WhatsApp settings menu.</ph></p>
+      <p>Always enable two-step verification on your account. Any future attempt to register a device needs a PIN to enable the app. <ph id="enable2fa">Do this by going into the <uicontrol>Settings</uicontrol> then <uicontrol>Account</uicontrol> menu on the app. Select the <uicontrol>Two-step verification option</uicontrol>.</ph></p>
+      <p>If there's something suspicious about your <ph conref="conrefs.dita#conrefs/moj"/> account, or the messages in the account, contact the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/securityemailtext"/>. Ask for help as soon as possible.</p>
+      <p>Always follow <ph conref="conrefs.dita#conrefs/moj"/> policy about applications for official business or storing business-related information. Don't use unapproved applications for <ph conref="conrefs.dita#conrefs/moj"/> official business. Don't use unapproved applications for storing <ph conref="conrefs.dita#conrefs/moj"/> business-related data. Always use <xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">approved applications</xref> and <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/" format="html" scope="external">storage tools</xref>.</p>
     </body>
   </topic>
   <topic id="whatsapp-account-dos-and-donts">
     <title>WhatsApp account do's and dont's</title>
     <body>
       <p><b>Do</b> ask <ph conref="conrefs.dita#conrefs/securityemailtext"/> for help if you think your WhatsApp account has been compromised.</p>
-      <p><b>Do</b> enable two-step verification on your account. <ph conref="#protecting-your-whatsapp-account/enable2fa"/></p>
-      <p><b>Do</b> advise everyone on your contact list if you think your WhatsApp account has been compromised.</p>
-      <p><b>Do</b> check the list of linked devices at regular intervals, looking for unknown or unexpected devices. <ph conref="#protecting-your-whatsapp-account/how2check"/></p>
+      <p><b>Do</b> enable two-step verification on your account. <ph conref="#recovering-and-protecting-your-whatsapp-account/enable2fa"/></p>
+      <p><b>Do</b> tell everyone on your contact list if you think your WhatsApp account has been compromised.</p>
+      <p><b>Do</b> check the list of linked devices at regular intervals. Look for unknown or unexpected devices. <ph conref="#recovering-and-protecting-your-whatsapp-account/how2check"/></p>
       <p><b>Do not</b> share a WhatsApp one time passcode, password, or authentication code with anyone.</p>
       <p><b>Do not</b> use unapproved or unauthorised applications for work purposes.</p>
       <p><b>Do not</b> use personal accounts for work purposes.</p>
