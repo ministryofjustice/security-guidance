@@ -41,7 +41,19 @@ Personal devices **shall not** be charged from the USB ports of an MoJ device.
 -   You **shall not** store work files or information on a personal storage device or memory stick, such as an external drive, thumb drive, or USB stick.
 -   Some teams within the MoJ **might** have permission to use personal devices for some tasks. This permission continues, but is being reviewed on an on-going basis. Ensure that you have documented approval recording your permission. Ensure that the permission is no more than 12 months old. To request or refresh permission, ask your Line Manager to seek approval by checking with the [Security team](mailto:security@justice.gov.uk).
 
-**Note:** You are not asked or required to use your own devices for work purposes. If you have access to MoJ devices for work purposes, you **shall** use them by default.
+**Note:** You are not asked or required to use your own devices for work purposes. Statement **POL.MOB.009** of the [mobile device and remote working policy](mobile-device-and-remote-working-policy.md#use-of-private-equipment) makes clear that you **should not** use personal devices for MoJ work purposes. If you have access to MoJ devices for work purposes, you **shall** use them by default. A special case is that if you do not have an MoJ-issued mobile phone, you **may** use a personal device to receive [Multi-factor authentication \(MFA\)](glossary.md#multi-factor-authentication-mfa) codes or messages which authorise access by MoJ devices to MoJ systems.
+
+## Using MoJ tools on personal devices
+
+In accordance with other policy on the use of personal devices, and the use of mobile devices specifically, you **shall not** use personal devices to access MoJ tools, such as MoJ Slack workspaces.
+
+**Note:** The rest of this section refers to Slack workspaces, but applies equally to other MoJ tools, such as Teams, Trello, Jira, and so on.
+
+You could of course use personal devices to access other \(non-MoJ\) Slack communities.
+
+The point is that you **should not** use personal devices for MoJ work purposes. Slack workspaces are official MoJ workspaces and **should** only be accessed using MoJ devices.
+
+Personal devices are not allowed to access services or content containing **Official-Sensitive** data. Work devices **shall** be used to access MoJ services such as MoJ Slack communities. If you do not have a work mobile device, and need to access services such as Slack on a mobile device, you **should** request one using [Service Now](https://mojprod.service-now.com/moj_sp/?id=home).
 
 ## Virtual environment
 
@@ -57,7 +69,7 @@ Connected vehicles are effectively Bluetooth-connected storage devices. They are
 
 Automatic transfer of contact information and calendar events might happen during the pairing process. The resulting transferred data is accessible to any third party who subsequently pairs their mobile device to the vehicle.
 
-Additionally, although such platforms usually offer an option to delete paired profiles, there is currently no confirmation that the data is actually erased to a satisfactory level. The usual claim is only that the transferred data is deemed inaccessible to the platform menu.
+Additionally, although such platforms usually offer an option to delete paired profiles, there is currently no confirmation that the data is actually erased to a satisfactory level. Transferred information might not be immediately visible or accessible, but this is not the same as deleting the information from the vehicle.
 
 For these reasons, MoJ devices **shall not** be paired with Bluetooth-enabled vehicles.
 

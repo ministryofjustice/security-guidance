@@ -17,11 +17,13 @@
     <body>
       <p>Seasonal celebrations are fun, but can also suffer from scams. A common scam involves sending fake parcel delivery text messages. The messages contain fake links. The links capture personal information and bank account details. Bad actors then use these details to steal money from individuals.</p>
       <p>Some SMS messages get people to install malware. An example is Flubot, which steals personal and banking details. Flubot also uses your contact lists to send more fake texts.</p>
-      <p>This poster shows you examples of typical scam SMS messages. It explains what FluBot is and how to remove it. It tells you about the best practices for avoiding being a victim of these scams.</p>
+      <!--
+      <p>This poster shows you examples of typical scam SMS messages. It explains what FluBot is and how to remove it. It tells you about the best practices for avoiding being a victim of these scams.</p> -->
       <p>The best way to avoid SMS scams is to contact parcel delivery companies directly. Go to their website and tracking your parcel there. Never click on a link in a text message.</p>
+      <!--
       <p>The leaflet is available <xref href="file:///./culture/christmas-sms-delivery-scams.pdf"
         format="pdf" scope="external" platform="html">here</xref><xref href="https://security-guidance.service.justice.gov.uk/culture/christmas-sms-delivery-scams.pdf"
-          format="pdf" platform="epub pdf" scope="external">here</xref>.</p>
+          format="pdf" platform="epub pdf" scope="external">here</xref>.</p> -->
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>

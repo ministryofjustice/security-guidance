@@ -2,6 +2,42 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-08-09-12:17-bst-[remove-links-to-download-leaflets](https:-security-guidance.service.justice.gov.uk-)"></a>
+
+-   **2022-08-09 12:17 BST [Remove links to download leaflets](https://security-guidance.service.justice.gov.uk/)**
+
+    Remove links to leaflet downloads, ready for later updates.
+
+<a name="2022-08-05-12:08-bst-[add-guidance-on-video-conferencing-hardware](https:-security-guidance.service.justice.gov.uk-general-user-video-and-messaging-apps-guidance-#video-conference-hardware)"></a>
+
+-   **2022-08-05 12:08 BST [Add guidance on video conferencing hardware](https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/#video-conference-hardware)**
+
+    Provide more details on the use of dedicated hardware for video and conference calls.
+
+<a name="2022-08-04-16:22-bst-[add-connected-vehicle-reference-in-bluetooth-guidance](https:-security-guidance.service.justice.gov.uk-bluetooth-#connected-vehicles)"></a>
+
+-   **2022-08-04 16:22 BST [Add connected vehicle reference in bluetooth guidance](https://security-guidance.service.justice.gov.uk/bluetooth/#connected-vehicles)**
+
+    Connected vehicles are discussed in personal devices, but the information also applies in the bluetooth guidance.
+
+<a name="2022-07-22-13:14-bst-[use-of-personal-devices-to-receive-mfa-codes](https:-security-guidance.service.justice.gov.uk-personal-devices-#guidance)"></a>
+
+-   **2022-07-22 13:14 BST [Use of personal devices to receive MFA codes](https://security-guidance.service.justice.gov.uk/personal-devices/#guidance)**
+
+    Added clarification that personal devices may be used to receive MFA authentication codes if an MoJ-issued device is not available.
+
+<a name="2022-07-21-13:45-bst-[guidance-on-use-of-personal-devices](https:-security-guidance.service.justice.gov.uk-personal-devices-#using-moj-tools-on-personal-devices)"></a>
+
+-   **2022-07-21 13:45 BST [Guidance on use of personal devices](https://security-guidance.service.justice.gov.uk/personal-devices/#using-moj-tools-on-personal-devices)**
+
+    Added clarification and emphasis that personal devices must not be used for work purposes. This includes accessing MoJ Slack channels using personal devices.
+
+<a name="2022-07-04-14:23-bst-[correct-broken-links](https:-security-guidance.service.justice.gov.uk-security-log-collection-)"></a>
+
+-   **2022-07-04 14:23 BST [Correct broken links](https://security-guidance.service.justice.gov.uk/security-log-collection/)**
+
+    Internal links on a page were broken; now fixed.
+
 <a name="2022-06-23-12:02-bst-[accessibility-updates](https:-security-guidance.service.justice.gov.uk-acceptable-use-policy-)"></a>
 
 -   **2022-06-23 12:02 BST [Accessibility updates](https://security-guidance.service.justice.gov.uk/acceptable-use-policy/)**
