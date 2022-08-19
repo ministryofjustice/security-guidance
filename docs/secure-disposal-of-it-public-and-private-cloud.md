@@ -18,11 +18,7 @@ This information is part of the MoJ asset management policies and guidance on [m
 **Related information**  
 
 
-[Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)
-
 [Secure disposal of IT - physical and on-premise](secure-disposal-of-it-physical-and-on-premise.md)
-
-[Secure disposal of IT - public and private cloud](secure-disposal-of-it-public-and-private-cloud.md)
 
 [Technical Controls Policy](technical-controls-policy.md)
 

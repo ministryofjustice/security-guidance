@@ -495,13 +495,9 @@ if an audience attribute is present, then only matching content is included.
 		</relrow>
 		<relrow audience="audience-tech">
 			<relcell>
-				<topicref href="secure-disposal-of-it-equipment.dita"/>
 				<topicref href="secure-disposal-of-it-physical-and-on-premise.dita"/>
-				<topicref href="secure-disposal-of-it-public-and-private-cloud.dita"/>
 			</relcell>
 			<relcell>
-				<topicref href="secure-disposal-of-it-equipment.dita"/>
-				<topicref href="secure-disposal-of-it-physical-and-on-premise.dita"/>
 				<topicref href="secure-disposal-of-it-public-and-private-cloud.dita"/>
 			</relcell>
 		</relrow>

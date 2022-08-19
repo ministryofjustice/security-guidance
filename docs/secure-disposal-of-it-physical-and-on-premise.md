@@ -7,10 +7,6 @@ This document is the Ministry of Justice \(MoJ\) guidance covering disposal of p
 **Related information**  
 
 
-[Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)
-
-[Secure disposal of IT - physical and on-premise](secure-disposal-of-it-physical-and-on-premise.md)
-
 [Secure disposal of IT - public and private cloud](secure-disposal-of-it-public-and-private-cloud.md)
 
 [Technical Controls Policy](technical-controls-policy.md)
@@ -21,12 +17,11 @@ The MoJ and its Executive Agencies and Arms Length Bodies use a wide variety of 
 
 However, other devices across the MoJ estate might have been procured and managed locally. They **shall** be disposed of securely, to prevent MoJ information from being “leaked”.
 
-## Approved organisations
+## Data disposal service providers
 
-The following organisations are approved to help you with secure disposal of equipment:
+To help with secure data disposal, you might wish to call on assistance from data disposal supplier organisations or teams. The disposal **shall** be to a level certified by the [NCSC](#ncsc-and-cpni-on-secure-disposal). The disposal process **shall** be able to provide the necessary certification. Where appropriate, [data destruction verification](#data-destruction-verification) **shall** be carried out.
 
--   Euro-Recycling \(contact via [Security team](mailto:security@justice.gov.uk)\)
--   Data Eliminate \(contact via [Security team](mailto:security@justice.gov.uk)\)
+For more help and guidance on data disposal service providers, contact security: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 
 ## NCSC and CPNI on Secure Disposal
 
@@ -66,8 +61,9 @@ If the table does not cover your exact requirement, contact security: [security@
 
 |Equipment or asset type|Data deletion method|Destruction method|
 |-----------------------|--------------------|------------------|
-|Flash \(USB\)|Delete the data, or erase using manufacturer instructions.|Destroy using commercially available disintegration equipment, to produce particles of a maximum of 6 mm in any direction.|
-|Hard disk drive. **Note:** This includes data centre disk drives.|Overwrite the entire storage space with random or garbage data, verifying that only the data used to perform the overwrite can be read back.|Break the platters into at least four pieces. This can be carried out either manually or by using a commercially available destruction product suitable for use with hard disks. Alternatively, apply a lower level degauss \(refer to the explanation after this table\), and then apply a destructive procedure that prevents the disk from turning. For example, punch holes into the platters, or twist or bend them.|
+|Flash \(USB\) and removable Solid State Drives \(SSD\)|Delete the data, or erase using manufacturer instructions.|Destroy using commercially available disintegration equipment, to produce particles of a maximum of 6 mm in any direction.|
+|Removable Hard Disk Drive \(HDD\). **Note:** This includes data centre disk drives.|Overwrite the entire storage space with random or garbage data, verifying that only the data used to perform the overwrite can be read back.|Break the platters into at least four pieces. This can be carried out either manually or by using a commercially available destruction product suitable for use with hard disks. Alternatively, apply a lower level degauss \(refer to the explanation after this table\), and then apply a destructive procedure that prevents the disk from turning. For example, punch holes into the platters, or twist or bend them.|
+|Non-removable HDD and SSD|Delete the data, or erase using manufacturer instructions.|Where the storage device cannot be removed, for example because the drive is built-in to a laptop, [certified data deletion](#data-disposal-service-providers) performed to an [appropriate standard](#ncsc-and-cpni-on-secure-disposal) is sufficient and acceptable.|
 |Magnetic tapes and floppy disks **Note:** This includes data centre tape drives.|Overwrite the entire storage space with random or garbage data, verifying that only the data used to perform the overwrite can be read back.|Destroy using a commercially available shredder that meets a recognised international destruction standard. Particles of tape should be no larger than 6 x 15 mm. Alternatively, apply a lower level degauss and then cut the tape to no larger than 20 mm in any direction.|
 |Optical media|Data deletion is not possible. Refer also to the note about RW-capable media after this table.|Shred or disintegrate using equipment that meets a recognised international destruction standard. Particles should be no larger than 6 mm in any direction.|
 |Monitors|Overwrite on-board storage by displaying non-sensitive data on the screen for a few minutes before powering off. **Note:** If a monitor screen has legible “burn-in” of sensitive information it **shall not** be re-sold or donated.|Monitors can be disposed of by: \(1\) Returning the product to the manufacturer who **shall** align to [formal waste disposal responsibilities](https://www.gov.uk/electricalwaste-producer-supplier-responsibilities), or \(2\) taking the item to a professional waste disposal facility, or \(3\) reselling or donating to a non-profit organisation, once basic sanitation procedures have been performed. Ensure there is no “burn-in” of sensitive information, and that the device has not reached its end of life. **Note:** If the end of life monitor contains mercury, it is considered hazardous waste and its disposal **shall** align to [WEEE 2013 Regulations](https://www.hse.gov.uk/waste/waste-electrical.htm) using specialist methods such as disassembly to remove the mercury containing backlights for specialist treatment and the separation of the remaining material streams.|
