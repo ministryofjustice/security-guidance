@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="protecting-whatsapp-accounts">
+  <title>Protecting WhatsApp accounts</title>
+  <body>
+    <p>The <ph conref="conrefs.dita#conrefs/mojlong"/> <xref href="general-user-video-and-messaging-apps-guidance.dita#approved-tools/approved-tools" format="dita" platform="html">permits</xref><xref href="general-user-video-and-messaging-apps-guidance.dita#approved-tools" format="dita" platform="epub pdf">permits</xref> the use of <xref href="https://www.whatsapp.com/" format="html" scope="external">WhatsApp</xref> for text messaging, voice and video calls. You <ph conref="conrefs.dita#conrefs/policyshould"/> avoid using it for business tasks involving personal or sensitive data.</p>
+    <p>You <ph conref="conrefs.dita#conrefs/policyshould"/> always keep WhatsApp account details safe and secure. Accounts link with specific devices. When you register your device with a WhatsApp account, that provides some protection. Only the registered device can send or receive messages associated with you.</p>
+    <p>Unfortunately, device registration is a tempting target for attackers. It is a way for potential compromise of user data. Compromises affect backups of conversations, and contact lists.</p>
+    <p>A compromised account might also attack other people. An attacker might pretend to be a user, and so target other contacts. They might make their way to compromise a high-value target.</p>
+    <p>An example scenario might be an attack on the WhatsApp account of a family member of an <ph conref="conrefs.dita#conrefs/moj"/> employee. The attacker compromises the family member’s WhatsApp account. They then pretend to be the family member. They contact the <ph conref="conrefs.dita#conrefs/moj"/> employee through the contact list. The employee trusts the message: it seems to come from the family member.</p>
+  </body>
+  <topic id="how-a-whatsapp-attack-works">
+    <title>How a WhatsApp attack works</title>
+    <body>
+      <note>This document does not provide full details of how to attack a WhatsApp account. We provide enough information to understand helpful protective steps.</note>
+      <p>Registering a device with a WhatsApp account uses an authentication code (a PIN code). The attacker tricks the victim into revealing the device registration code. They then deregister the victim's device from the WhatsApp account. Next, they register the attacker's device with the WhatsApp account.</p>
+      <p>The key point is the authentication code. It's very important to keep this secret, like a password.</p>
+    </body>
+  </topic>
+  <topic id="recovering-and-protecting-your-whatsapp-account">
+    <title>Recovering and protecting your WhatsApp account</title>
+    <body>
+      <p>You can often recover a compromised WhatsApp account. A good way is to use your device telephone number. Use the app to ask for a 6-digit SMS verification code. When the code gets to your phone,  enter it into the app. After re-authenticating your phone, the attacker is automatically disconnected. They cannot reconnect without a fresh authentication code.</p>
+      <p>While recovering an account, you might have to provide a two-step verification PIN. If you don't have this code, it suggests the attacker enabled two-step verification. Without the code, you must wait 7 days before you can sign in to WhatsApp. But the attacker is disconnected from the account immediately when the code is sent. Although you can't get into your account for a week, the attacker cannot get into your account at all.</p>
+      <p>When you reconnect into your WhatsApp account, check for any unknown devices. <ph id="how2check">Do this by checking <uicontrol>Linked Devices</uicontrol> in the WhatsApp settings menu.</ph></p>
+      <p>Always enable two-step verification on your account. Any future attempt to register a device needs a PIN to enable the app. <ph id="enable2fa">Do this by going into the <uicontrol>Settings</uicontrol> then <uicontrol>Account</uicontrol> menu on the app. Select the <uicontrol>Two-step verification option</uicontrol>.</ph></p>
+      <p>If there's something suspicious about your <ph conref="conrefs.dita#conrefs/moj"/> account, or the messages in the account, contact the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/securityemailtext"/>. Ask for help as soon as possible.</p>
+      <p>Always follow <ph conref="conrefs.dita#conrefs/moj"/> policy about applications for official business or storing business-related information. Don't use unapproved applications for <ph conref="conrefs.dita#conrefs/moj"/> official business. Don't use unapproved applications for storing <ph conref="conrefs.dita#conrefs/moj"/> business-related data. Always use <xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">approved applications</xref> and <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/" format="html" scope="external">storage tools</xref>.</p>
+    </body>
+  </topic>
+  <topic id="whatsapp-account-dos-and-donts">
+    <title>WhatsApp account do's and dont's</title>
+    <body>
+      <p><b>Do</b> ask <ph conref="conrefs.dita#conrefs/securityemailtext"/> for help if you think your WhatsApp account has been compromised.</p>
+      <p><b>Do</b> enable two-step verification on your account. <ph conref="#recovering-and-protecting-your-whatsapp-account/enable2fa"/></p>
+      <p><b>Do</b> tell everyone on your contact list if you think your WhatsApp account has been compromised.</p>
+      <p><b>Do</b> check the list of linked devices at regular intervals. Look for unknown or unexpected devices. <ph conref="#recovering-and-protecting-your-whatsapp-account/how2check"/></p>
+      <p><b>Do not</b> share a WhatsApp one time passcode, password, or authentication code with anyone.</p>
+      <p><b>Do not</b> use unapproved or unauthorised applications for work purposes.</p>
+      <p><b>Do not</b> use personal accounts for work purposes.</p>
+    </body>
+  </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+</topic>
