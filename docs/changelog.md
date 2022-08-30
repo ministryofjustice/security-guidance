@@ -2,9 +2,9 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
-<a name="2022-08-30-10:43-bst-[added-guidance-on-protecting-whatsapp-accounts](https:-security-guidance.service.justice.gov.uk-)"></a>
+<a name="2022-08-30-10:43-bst-[added-guidance-on-protecting-whatsapp-accounts](https:-security-guidance.service.justice.gov.uk-protecting-whatsapp-accounts-)"></a>
 
--   **2022-08-30 10:43 BST [Added guidance on protecting WhatsApp accounts](https://security-guidance.service.justice.gov.uk/)**
+-   **2022-08-30 10:43 BST [Added guidance on protecting WhatsApp accounts](https://security-guidance.service.justice.gov.uk/protecting-whatsapp-accounts/)**
 
     Extra information on how WhatsApp accounts might be attacked, and how to protect your accounts.
 
