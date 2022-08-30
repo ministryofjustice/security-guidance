@@ -121,7 +121,7 @@
 
 	<target name="addLinkTarget">
 		<echo message="Adding link targets in file: ${theFile}"/>
-		<exec dir="${buildUtils}" executable="python" output="addLinkTarget.txt">
+		<exec dir="${buildUtils}" executable="python3" output="addLinkTarget.txt">
 			<arg line="addLinkTarget.py ${theFile}"/>
 		</exec>
 		<!-- Report results -->
@@ -134,7 +134,7 @@
 
 	<target name="dlTarget">
 		<echo message="Adding definition list link targets in file: ${theFile}"/>
-		<exec dir="${buildUtils}" executable="python" output="dlTarget.txt">
+		<exec dir="${buildUtils}" executable="python3" output="dlTarget.txt">
 			<arg line="dlTarget.py ${theFile}"/>
 		</exec>
 		<!-- Report results -->
