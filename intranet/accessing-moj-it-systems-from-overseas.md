@@ -27,11 +27,12 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 
 1.  Get confirmation from your Senior Line Manager (Head of your immediate team) that there is a business need for you to take MoJ IT equipment overseas and access MoJ services. Keep a note of the answers you get.
 2.  Your Senior Line Manager **should** inform your HR Business Partner (HRBP) of your request to work overseas. The HRBP **shall** advise your Senior Line Manager of any HR considerations concerning your request.
-3.  If you are subject to STRAP briefing and intend to travel to or through any country not in Western Europe, North America, Australia, or New Zealand, then you **shall** notify the STRAP team at Cluster 2 STRAP team via [Security team](mailto:security@justice.gov.uk) **and** proceed directly to [Part Two](#part-two) of this process.
-4.  Proceed directly to [Part Two](#part-two) of this process if you are travelling to or passing through one of the following countries:
-
-    > Argentina, Armenia, Azerbaijan, Belarus, China (including Hong Kong, Macau, and Tibet), Cuba, Egypt, Estonia, France, Georgia, Germany, India, Indonesia, Iran, Iraq, Israel (including Palestinian territories), Kazakhstan, Kyrgyzstan, Latvia, Lebanon, Libya, Lithuania, Moldova, the northern area of the Republic of Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, Serbia, South Africa, South Korea, Syria, Taiwan, Tajikistan, Turkey, Turkmenistan, UAE, Ukraine, Uzbekistan, Vietnam.
-
+3.  Proceed directly to [Part Two](#part-two) of this process if you are travelling to or passing through one or more countries that are **not** in the following regions:
+    * Western Europe
+    * North America
+    * Australia
+    * New Zealand
+4.  If you are unsure whether a country you are travelling to or through is considered part of the Western Europe, North America, Australia, or New Zealand regions, then proceed to [Part Two](#part-two) of this process.
 5.  If you have reached this step, you do not need to seek further formal approval for your trip.
 6.  **Take a copy of this guidance**; it includes useful contact details that help in the event of a problem while travelling.
 7.  Check if you need to do anything to prepare for [International Roaming](#international-roaming). Refer to the [International Roaming](#international-roaming) section.
@@ -53,6 +54,7 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
     * Reason for maintaining access while overseas.
     * The MoJ data, applications, or services you expect to access during your trip.
     * Who you are travelling with.
+    * Whether you are subject to STRAP briefing.
 2.  The next step depends on your MoJ business area:
     * If you are part of MoJ HQ, HMPPS HQ, HMCTS, or NPS, contact your Senior Line Manager and ask for approval to take MoJ equipment overseas and access MoJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
     * If you are part of HMPPS (but *not* HQ), contact your Governor and ask for approval to take MoJ equipment overseas and access MoJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
