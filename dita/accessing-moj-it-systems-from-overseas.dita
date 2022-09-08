@@ -27,9 +27,16 @@
 				<ol>
 					<li>Get confirmation from your Senior Line Manager (Head of your immediate team) that there is a business need for you to take <ph conref="conrefs.dita#conrefs/moj"/> IT equipment overseas and access <ph conref="conrefs.dita#conrefs/moj"/> services. Keep a note of the answers you get.</li>
 					<li>Your Senior Line Manager <ph conref="conrefs.dita#conrefs/policyshould"/> inform your HR Business Partner (HRBP) of your request to work overseas. The HRBP <ph conref="conrefs.dita#conrefs/policyshall"/> advise your Senior Line Manager of any HR considerations concerning your request.</li>
-					<li>If you are subject to STRAP briefing and intend to travel to or through any country not in Western Europe, North America, Australia, or New Zealand, then you <ph conref="conrefs.dita#conrefs/policyshall"/> notify the STRAP team at <ph conref="conrefs.dita#conrefs/strapteamemail"/> <b>and</b> proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process.</li>
-					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process if you are travelling to or passing through one of the following countries:<lq>Argentina, Armenia, Azerbaijan, Belarus, China (including Hong Kong, Macau, and Tibet), Cuba, Egypt, Estonia, France, Georgia, Germany, India, Indonesia, Iran, Iraq, Israel (including Palestinian territories), Kazakhstan, Kyrgyzstan, Latvia, Lebanon, Libya, Lithuania, Moldova, the northern area of the Republic of Cyprus, North Korea, Pakistan, Russia, Saudi Arabia, Serbia, South Africa, South Korea, Syria, Taiwan, Tajikistan, Turkey, Turkmenistan, UAE, Ukraine, Uzbekistan, Vietnam.</lq></li>
+					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process if you are travelling to or passing through one or more countries that are <b>not</b> in the following regions:
+						<ul>
+							<li>Western Europe</li>
+							<li>North America</li>
+							<li>Australia</li>
+							<li>New Zealand</li>
+						</ul></li>
+					<li>If you are unsure whether a country you are travelling to or through is considered part of the Western Europe, North America, Australia, or New Zealand regions, then proceed to <xref href="#part-two" format="dita">Part Two</xref> of this process.</li>
 					<!--
+					<li>If you are subject to STRAP briefing and intend to travel to or through any country not in Western Europe, North America, Australia, or New Zealand, then you <ph conref="conrefs.dita#conrefs/policyshall"/> notify the STRAP team at <ph conref="conrefs.dita#conrefs/strapteamemail"/> <b>and</b> proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process.</li>
 					<li>Proceed directly to <xref href="#part-two" format="dita">Part Two</xref> of this process
 						if you are national security cleared to SC or DV levels,
 						<b>and</b> are planning to travel to or pass through one of the listed countries previously,
@@ -72,6 +79,7 @@
 							<li>Reason for maintaining access while overseas.</li>
 							<li>The <ph conref="conrefs.dita#conrefs/moj"/> data, applications, or services you expect to access during your trip.</li>
 							<li>Who you are travelling with.</li>
+							<li>Whether you are subject to STRAP briefing.</li>
 						</ul>
 					</li>
 					<li>The next step depends on your <ph conref="conrefs.dita#conrefs/moj"/> business area:
