@@ -2,7 +2,7 @@
 redirect_from:
   - /official-official-sensitive/
 ---
-# Government Classification Scheme
+# Government classification scheme
 
 The Government Security Classification \(GSC\) system has three levels: **Official**, **Secret**, and **Top Secret**.
 
