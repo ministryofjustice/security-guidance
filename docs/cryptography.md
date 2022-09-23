@@ -51,7 +51,13 @@ In some circumstances, it *may* be reasonable to self-managed encryption keys bu
 
 ### End-User Device based
 
-Native at-rest encryption such as [Apple macOS FileVault](https://en.wikipedia.org/wiki/FileVault), [Apple APFS](https://en.wikipedia.org/wiki/Apple_File_System) or [Microsoft Windows BitLocker](https://en.wikipedia.org/wiki/BitLocker) **must** be used, preferably controlled by central enterprise device management and key management systems.
+Portable end-user devices such as laptops, tablets and smart phones must utilised at-rest encryption to protect on-board data \(and subsequent configured accounts\) while the device is 'locked' or powered down.
+
+The [NCSC End-user Device Security Collection](https://www.ncsc.gov.uk/guidance/end-user-device-security) discusses per-platform configuration advice.
+
+Summarily, native at-rest encryption must be enabled with a suitable and proportional decryption code \(typically, a password\) and hardware-backed cryptography is preferred.
+
+Native at-rest encryption such as [Apple macOS FileVault](https://support.apple.com/en-us/HT204837), [Apple APFS](https://support.apple.com/en-gb/guide/disk-utility/dsku19ed921c/mac) or [Microsoft Windows BitLocker](https://learn.microsoft.com/en-us/microsoft-desktop-optimization-pack/mbam-v2/using-your-pin-or-password) **must** be used, preferably controlled by central enterprise device management and key management systems.
 
 The NCSC have published [end-user device guidance](https://www.ncsc.gov.uk/index/guidance?f%5B0%5D=field_topics%253Aname%3AEnd%20user%20technology) that discusses such technologies.
 
@@ -65,18 +71,9 @@ While the following certifications are preferred, they may not be required based
 
 -   [NCSC CPA](https://www.ncsc.gov.uk/scheme/commercial-product-assurance-cpa)
 
--   [NATO Restricted Level Certified](https://www.ia.nato.int/NIAPC/)
-
 
 The Ministry of Justice \(MoJ\) prefers the use of network-based transfers compared to the use of portable storage \(even if the portable storage is encrypted\).
 
-### Portable end-user devices
-
-Portable end-user devices such as laptops, tablets and smart phones must utilised at-rest encryption to protect on-board data \(and subsequent configured accounts\) while the device is 'locked' or powered down.
-
-The [NCSC End-user Device Security Collection](https://www.ncsc.gov.uk/guidance/end-user-device-security) discusses per-platform configuration advice.
-
-Summarily, native at-rest encryption must be enabled with a suitable and proportional decryption code \(typically, a password\) and hardware-backed cryptography is preferred.
 
 ### Hashing
 
