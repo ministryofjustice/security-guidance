@@ -1,6 +1,12 @@
 # Enterprise IT - Mobile Devices
 
-We have developed a series of logging requirements for Mobile Devices \(also known as End-user Devices\), such as thin-clients, desktops, laptops, tablets and mobile smart phones at different maturity tiers in order to support defensive cyber security, such as detecting breaches.
+We have developed a series of logging requirements for Mobile Devices \(also known as End-user Devices\). For exmaple, at different maturity tiers for
+thin-clients
+desktops
+laptops
+tablets
+mobile smart phones 
+This is in order to support defensive cyber security, such as detecting breaches.
 
 ## Baseline Maturity Tier
 
@@ -23,7 +29,7 @@ Log Collection Principle\(s\): 1, 2
 
 Devices must create and forward local Authentication and Authorisation events.
 
-These event types must be logged and forward:
+These event types must be logged and forwarded:
 
 -   a: account creation
 
@@ -83,7 +89,7 @@ Log Collection Principle\(s\): 6
 
 Any additional security-related logs, as defined by [NCSC's Logging Made Easy template](https://github.com/ukncsc/), from all end-user devices operating a Microsoft Windows operating system must be created and forwarded.
 
-Comparable events from other operating systems \(for example, Apple macOS or QubesOS\) to that described by NCSC's Logging Made Easy template must also be created and forwarded.
+Comparable events from other operating systems \(for example, Apple macOS or QubesOS\) that are described by NCSC's Logging Made Easy template, must also be created and forwarded.
 
 ### 5. Security-related software event logs
 
