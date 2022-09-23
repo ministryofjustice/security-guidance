@@ -6,7 +6,7 @@ The current draft of the definitions that are required by the current draft shor
 
 Data Destruction - Data destruction is the process of erasing or otherwise destroying data or information whether in physical form \(such as printed paper\) or stored on virtual/electronic or physical mediums such as, but not limited to, tapes and hard disks; the purpose is to render data completely irretrievable and inaccessible, and therefore void.
 
-Supplier - ?
+Supplier - ? 
 
 Authority - ?
 
