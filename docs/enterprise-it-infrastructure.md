@@ -1,6 +1,10 @@
 # Enterprise IT - Infrastructure
 
-We have developed a series of logging requirements for Enterprise IT infrastructure, such as underlying networks, network services and directory services at different maturity tiers in order to support defensive cyber security, such as detecting breaches.
+We have developed a series of logging requirements for Enterprise IT infrastructure. For example, at different maturity tiers. 
+underlying networks
+network services
+directory services
+This is in order to support defensive cyber security, such as detecting breaches.
 
 ## Baseline Maturity Tier
 
@@ -8,7 +12,7 @@ We have developed a series of logging requirements for Enterprise IT infrastruct
 
 Log Collection Principle\(s\): 1, 2
 
-User directory services \(such as Active Directory \(AD\), Azure Active Directory or OpenLDAP must create and forward Authentication and Authorisation events from the directory service itself. \(Normal authentication and authorisation events for the underlying operating system and server should be forwarded as appropriate.\)
+User directory services \(such as Active Directory \(AD\), Azure Active Directory or OpenLDAP) must create and forward Authentication and Authorisation events from the directory service itself. \(Normal authentication and authorisation events for the underlying operating system and server should be forwarded as appropriate.\)
 
 For example:
 
@@ -37,9 +41,9 @@ These event types must be logged and forward:
 
 Log Collection Principle\(s\): 1, 2, 3, 6
 
-Productivity suites \(such as Google Workspace or Microsoft Office 365\) must create and forward all security-related log data \(as defined by the vendor\), including unsuccessful Authentication and Authorisation events.
+Productivity suites \(such as Google Workspace or Microsoft Office 365\) must create and forward all security-related log data \(as defined by the vendor\). This includes unsuccessful Authentication and Authorisation events.
 
-For example, within an Office 365 tenancy with Conditional Access enabled and set to require multi-factor authentication when a user device is perceived to be outside of the corporate network and such prompt is made and the outcome of that challenge.
+For example, within an Office 365 tenancy with Conditional Access enabled and set to require multi-factor authentication when a user device is perceived to be outside of the corporate network. A prompt is made and the outcome of that challenge.
 
 ### 3. Domain name service query logs
 
@@ -61,7 +65,7 @@ This remains true for where nodes \(for example, servers\) may bypass internal D
 
 Log Collection Principle\(s\): 5
 
-Where web traffic proxies exist, access logs must be created and forward and must, include the following variables:
+Where web traffic proxies exist, access logs must be created and forwarded. It must include the following variables:
 
 1.  Authenticated user name
 2.  Client IP address
@@ -74,7 +78,7 @@ Where web traffic proxies exist, access logs must be created and forward and mus
 
 Log Collection Principle\(s\): 6
 
-Where file service exist, sufficient log data must be created and forwarded, including sufficient data to satisfy the following:
+Where file service exist, sufficient log data must be created and forwarded. It must include sufficient data to satisfy the following:
 
 1.  Detect permission changes and the user who changed such
 2.  Detect all file/folder changes and the user who changed such
@@ -86,7 +90,7 @@ Log Collection Principle\(s\): 6
 
 Security-related event logs from all servers \(whether virtualised or physical\) operating in a 'server' role:
 
--   \[additional information pending\]
+-   \[additional information pending\]??
 
 ### 7. Allocation of IP address leases from DHCP services
 
