@@ -20,7 +20,7 @@ The following standards and guidelines are the *minimum* basis for data decommis
 
 -   Payment Card Industry Data Security Standard \(PCI-DSS\) \(Data Destruction\): [https://www.pcisecuritystandards.org](https://www.pcisecuritystandards.org)
 
--   DIN: [http://www.din-66399.com/index.php/en/securitylevels](http://www.din-66399.com/index.php/en/securitylevels)
+-   DIN: [http://www.din-66399.com/index.php/en/securitylevels](https://www.din.de/en/meta/search/61764!search?query=66399&submit-btn=Submit)
 
 
 Data Destruction for electronic/magnetic storage **must** include, unless otherwise superseded by NCSC, PCI-DSS or specific Ministry of Justice \(MoJ\) guidance:
