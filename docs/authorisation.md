@@ -32,7 +32,7 @@ IP addresses in and of themselves do not constitute authentication but may be co
 
 For example, traffic originating from a perceived known IP address/range does not automatically mean it is the perceived user\(s\) however it could be used as an indicator to *reduce* \(not eliminate\) how often [MFA](multi-factor-authentication-mfa-guide.md) is requested *within* an existing session.
 
-H/T [https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20](https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20)
+
 
 ## Feedback
 
