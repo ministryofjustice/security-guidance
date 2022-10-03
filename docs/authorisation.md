@@ -28,11 +28,54 @@ Where possible, IAM Roles should be used.
 
 ## IP addresses
 
+The purpose of IP addresses in this context, are to help determine origin. Thus, grant trust and offer privileges as a result.  
+
 IP addresses in and of themselves do not constitute authentication but may be considered a minor authentication *indicator* when combined with other authentication and authorisation techniques.
 
 For example, traffic originating from a perceived known IP address/range does not automatically mean it is the perceived user\(s\) however it could be used as an indicator to *reduce* \(not eliminate\) how often [MFA](multi-factor-authentication-mfa-guide.md) is requested *within* an existing session.
 
-H/T [https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20](https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20)
+Where applicable, maintain a single source of truth. Automatically apply confirmed changes when trying to identify the IP address ranges. There is an importance of advance change notification as well as the consequences if not up kept.  
+
+### Implement defensive depth  
+
+With less trust in IP addresses as a filtration method, the below is required to be carried out:  
+
+log access/activity  
+
+monitor access/activity  
+
+actual authentication  
+
+such as client certificates 
+
+magic links 
+
+usernames/password 
+
+single/same sign-on 
+
+multi-factor authentication 
+
+build in defences against denial-of-service attacks, brute force attempts, and credential stuffing  
+
+### External IP addresses  
+
+External IP address access control lists are useful as part of a wider set of controls.  
+
+Introducing external IP address ACLs can filter out tertiary noise. First, assure your use-cases are quite airtight and other defensive and AAA measures are in place. This will ensure protection from random port scans or brute force attempts.  
+
+Two real life examples are:  
+
+Reducing MFA prompts  
+
+Depending on whether the corporate staff Wi-Fi is appropriately access controlled. As well as having a clear egress rang of IP addresses. To reduce the number of time MFA prompts, leverage the proximity probability of individuals/ devices.  
+
+
+Making sessions longer  
+
+Similarly to the above, you could allow sessions/tokens to last for 30 days instead of 7. If the session is only active from this predictably and ‘known’ location. 
+
+This [medium article](https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20) provides more details regarding IP address access control lists. 
 
 ## Feedback
 
