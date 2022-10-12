@@ -26,15 +26,13 @@ This allows IAM accounts to be grouped based on role and purpose. This avoids in
 
 Where possible, IAM Roles should be used.
 
-## IP addresses
+## Maintain IP address lists
 
-The purpose of IP addresses in this context, are to help determine origin. Thus, grant trust and offer privileges as a result.  
+Where applicable, maintain a single source of truth with meaningful labels to describe each IP address range.
 
-IP addresses in and of themselves do not constitute authentication but may be considered a minor authentication *indicator* when combined with other authentication and authorisation techniques.
+The use of infrastructure as code to both store and apply IP address lists will help reduce errors, and aid with change management.
 
-For example, traffic originating from a perceived known IP address/range does not automatically mean it is the perceived user\(s\) however it could be used as an indicator to *reduce* \(not eliminate\) how often [MFA](multi-factor-authentication-mfa-guide.md) is requested *within* an existing session.
-
-Where applicable, maintain a single source of truth. Automatically apply confirmed changes when trying to identify the IP address ranges. There is an importance of advance change notification as well as the consequences if not up kept.  
+Where practical, periodically check the IP addresses with the team responsible for those IP addresses, to cater for upcoming changes in IP spacing or change of use/scope. 
 
 ### Implement defensive depth  
 
