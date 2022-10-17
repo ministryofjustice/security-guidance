@@ -1,3 +1,7 @@
+---
+redirect_from:
+  - /standards/authentication/
+---
 # Authentication
 
 ## The base principle

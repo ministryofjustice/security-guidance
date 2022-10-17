@@ -42,7 +42,7 @@ Please contact Vetting team via [Security team](mailto:security@justice.gov.uk) 
 -   Any political, religious, or other organisation holding extreme views, for example advocating violence, or rejecting parliamentary democracy.
 -   Any organisation requiring exceptional or exclusive loyalty.
 -   Any organisation which is unusually secretive about its affairs.
--   Any organisation whose aims, beliefs, or activities might conflict with working for Her Majesty's Government.
+-   Any organisation whose aims, beliefs, or activities might conflict with working for His Majesty's Government.
 
 ## Overseas links or inappropriate associations
 
