@@ -9,7 +9,7 @@ The information ranges from formal content, such as 'you must'-style documents, 
 The content is used to help build and operate products and services at the MoJ.
 
 The work is performed in the open by intent, and for compliance with principle.
-There is no specific aim or expectation of re-use of these materials outside of MoJ purposes - but people are welcome to do so if they wish in accordance with the published license.
+Re-use of these materials outside of MoJ purposes must be in accordance with the published license.
 
 *Note:* As a vibrant, dynamic, work-in progress, this material should not necessarily be treated as formal, finished, definitive, or accurate.
 
