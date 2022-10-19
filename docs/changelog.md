@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-10-19-14:34-bst-[updated-project-readme](https:-security-guidance.service.justice.gov.uk-)"></a>
+
+-   **2022-10-19 14:34 BST [Updated project README](https://security-guidance.service.justice.gov.uk/)**
+
+    An update to the README and refresh of the content.
+
 <a name="2022-08-31-09:50-bst-[overseas-travel](https:-security-guidance.service.justice.gov.uk-accessing-moj-it-systems-from-overseas-)"></a>
 
 -   **2022-08-31 09:50 BST [Overseas travel](https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/)**
