@@ -45,7 +45,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
     <topic id="offline-content">
       <title>Offline content</title>
       <body>
-        <p platform="html">For convenience, offline versions of this guidance are available.
+        <p platform="html">Versions of this guidance are available offline.
           <table>
             <tgroup cols="3">
               <colspec colname="col1" colnum="1" colwidth="3*"/>
@@ -60,7 +60,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
               </thead>
               <tbody>
                 <row>
-                  <entry colname="col1">All users. Does not include lots of technical detail.</entry>
+                  <entry colname="col1">All users. Contains general guidance with some technical information.</entry>
                   <entry colname="col2"><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></entry>
                   <entry colname="col3"><xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref></entry>
                 </row>
@@ -70,11 +70,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
 					  <entry colname="col3"><xref href="moj-guidance-gs.epub" format="epub" scope="peer">EPUB</xref></entry>
 				  </row>
 				  <row>
-					  <entry colname="col1">Technical users. Includes lots of technical detail.
-						  This document contains all content,
-					  including for 'All users' and from Group Security.
-					  Download this document if you want the complete set of published
-						  <ph conref="conrefs.dita#conrefs/moj"/> security policy and guidance.</entry>
+					  <entry colname="col1">Technical users. Contains detailed technical information, together with all users and Group Security content.</entry>
 					  <entry colname="col2"><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></entry>
 					  <entry colname="col3"><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></entry>
 				  </row>
