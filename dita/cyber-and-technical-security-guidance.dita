@@ -115,12 +115,14 @@ to ensure that an organisation can create and maintain a good cyber security cul
 		<topic id="getting-in-touch">
 			<title>Getting in touch</title>
 			<body>
+				<p> Contact the <ph conref="conrefs.dita#conrefs/moj"/>:</p>
 				<ul>
-					<li><xref href="reporting-an-incident.dita" format="dita">To report an incident</xref>.</li>
-					<li>For general assistance on <ph conref="conrefs.dita#conrefs/moj"/> security matters, email <ph conref="conrefs.dita#conrefs/securityemail"/>.</li>
-					<li>For Cyber Security assistance or consulting, email <ph conref="conrefs.dita#conrefs/securityemail"/>. More information about the Security Team is <xref href="user-guide.dita" format="dita">available</xref>.</li>
-					<li>Suppliers to the <ph conref="conrefs.dita#conrefs/moj"/> should first communicate with their usual <ph conref="conrefs.dita#conrefs/moj"/> points of contact.</li>
+					<li><xref href="reporting-an-incident.dita" format="dita">to report an incident</xref></li>
+					<li>for general assistance on <ph conref="conrefs.dita#conrefs/moj"/> security matters, email <ph conref="conrefs.dita#conrefs/securityemail"/></li>
+					<li>for Cyber Security assistance or consulting, email <ph conref="conrefs.dita#conrefs/securityemail"/>.</li>
 				</ul>
+					<p><xref href="user-guide.dita" format="dita">More information is available here.</xref>.</p>
+					<p>Suppliers to the <ph conref="conrefs.dita#conrefs/moj"/> should get in touch with their usual <ph conref="conrefs.dita#conrefs/moj"/> points of contact.</p>
 			</body>
 		</topic>
 		<topic id="background" audience="audience-tech">
