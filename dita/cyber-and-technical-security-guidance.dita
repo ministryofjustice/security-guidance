@@ -5,10 +5,18 @@
 	<topic id="summary">
 		<title>Summary</title>
 		<body>
-			<p>This site documents some of the security decisions that the
+			<p>This site describes the guidance given by the
 <xref href="https://www.gov.uk/government/organisations/ministry-of-justice" format="html" scope="external"><ph conref="conrefs.dita#conrefs/mojlong"/></xref>
-has made for the products we operate, and our relationships with suppliers.</p>
-			<p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> covers technical decisions in the <ph conref="conrefs.dita#conrefs/moj"/> more widely.</p>
+to ensure that an organisation maintains a good cyber security culture.</p>
+			<p>Guidance shown here is intended for technical users and non-technical users (referred to as all users).</p>
+			<p>Technical users may be:</p>
+			<ul>
+				<li>technical architects</li>
+				<li>DevOps</li>
+				<li>IT service managers</li>
+				<li>software developers</li>
+			</ul>
+			<p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> site contains further guidance for technical users.</p>
 			<note>This guidance is dated: <ph conref="tstamp.dita#tstamp/tstamp"/>.</note>
     </body>
     <topic id="popular-links" platform="html">
@@ -29,8 +37,7 @@ has made for the products we operate, and our relationships with suppliers.</p>
 	<topic id="change-log">
 		<title>Change log</title>
 		<body>
-			<p>A 'change log' is <xref href="changelog.dita" format="dita">available</xref>.
-			It details the most recent changes to this information.</p>
+			<p><xref href="changelog.dita" format="dita">The change log lists the most recent changes to this information</xref>.</p>
 			<p>The changes are also available as <xref href="rss.xml" format="xml" scope="external" platform="html">RSS</xref><xref href="https://security-guidance.service.justice.gov.uk/rss.xml" format="xml" scope="external" platform="epub pdf">RSS</xref>
 				or <xref href="atom.xml" format="xml" scope="external" platform="html">Atom</xref><xref href="https://security-guidance.service.justice.gov.uk/atom.xml" format="xml" scope="external" platform="epub pdf">Atom</xref> feeds.</p>
 		</body>
@@ -102,9 +109,11 @@ has made for the products we operate, and our relationships with suppliers.</p>
     <topic id="security-culture">
       <title>Security culture</title>
       <body>
-        <p>In addition to the obvious security resources such as policies, controls, and software and hardware tools, all organisations need employees, suppliers and other colleagues to behave in a way that helps ensure good security at all times. A simple example is where someone will act in a way that maintains good security, even if they don't know exactly what the formal process is. The extent to which an organisation has good security in indicated by its security culture.</p>
-        <p>Security culture refers to the set of values, shared by everyone in an organisation, that determines how people are expected to think about and approach security. Getting security culture right helps develop a security conscious workforce, and promotes the desired security behaviours expected from everyone working in or for the organisation.​</p>
-        <p>The <ph conref="conrefs.dita#conrefs/moj"/> is creating a portfolio of security culture resources to help supplement the formal policy and guidance material. Initial security culture material is available for preview <xref href="security-culture.dita" format="dita">here</xref>.</p>
+        <p>Security culture refers to the set of values that determines how people within an organisation are expected to think about and approach security. The extent to which an organisation has good security is indicated by its security culture.</p>
+        <p>All organisations need employees, suppliers and other colleagues to behave in a way that helps ensure good security at all times.</p>
+	<p>Getting security culture right promotes the desired security behaviours that helps develop a security-conscious workforce.</p>
+	<p>The <ph conref="conrefs.dita#conrefs/moj"/> is creating a portfolio of security culture resources to help supplement the formal policy and guidance material.</p>
+	<p><xref href="security-culture.dita" format="dita">Initial security culture material is available for preview here</xref>.</p>
       </body>
     </topic>
 		<topic id="getting-in-touch">
