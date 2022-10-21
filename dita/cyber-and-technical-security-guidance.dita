@@ -158,7 +158,17 @@ to ensure that an organisation can create and maintain a good cyber security cul
 	<topic id="taxonomy">
 		<title>Information structure</title>
 		<body>
-			<p audience="audience-tech">The <ph conref="conrefs.dita#conrefs/moj"/> has developed our cyber and technical security taxonomy as follows:
+			<p audience="audience-tech"><ph conref="conrefs.dita#conrefs/moj"/> policy documents are listed beneath the following headings:</p>
+			<ul>
+				<li><xref href="#information-security-policies" format="dita">Information security policies</xref></li>
+				<li><xref href="#mobile-devices-and-teleworking" format="dita">Mobile devices and teleworking</xref></li>
+				<li><xref href="#human-resource-security" format="dita">Human resource security</xref></li>
+				<li><xref href="#asset-management" format="dita">Asset management</xref></li>
+				<li><xref href="#access-control" format="dita">Access control</xref></li>
+				<li><xref href="#cryptography" format="dita">Cryptography</xref></li>
+				<li><xref href="#physical-and-environmental-security" format="dita">Physical and environmental security</xref></li>
+				<li><xref href="#physical-and-environmental-security" format="dita">Physical and environmental security</xref></li>
+			</ul>
 			<table>
 				<tgroup cols="2">
 					<colspec colname="col1" colnum="1" colwidth="1*"/>
