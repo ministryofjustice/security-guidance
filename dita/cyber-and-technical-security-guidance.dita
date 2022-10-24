@@ -439,7 +439,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="it-security-technical-users-policy.dita" format="dita">IT Security Technical Users Policy</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer (Policy)</entry>
+                <entry colname="col2" align="right">Technical users (Policy)</entry>
               </row>
 				<row>
 					<entry colname="col1" align="left"><xref href="line-manager-approval.dita" format="dita">Line Manager approval</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph> --></entry>
@@ -447,11 +447,11 @@ to ensure that an organisation can create and maintain a good cyber security cul
 				</row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="shared-responsibility-models.dita" format="dita">Shared Responsibility Models</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="technical-controls-policy.dita" format="dita">Technical Controls Policy</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
             </tbody></tgroup></table>
           </body>
@@ -635,7 +635,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Handling and Information Sharing Guide</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
 				<row>
 					<entry colname="col1" align="left"><xref href="government-classification-scheme.dita" format="dita">Government Classification Scheme</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/government-classification-scheme/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
@@ -657,7 +657,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
             -->
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="secrets-management.dita" format="dita">Secrets management</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
             </tbody></tgroup></table>
           </body>
@@ -680,7 +680,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
 				</row>
 				<row audience="audience-suppliers audience-tech">
 					<entry colname="col1" align="left"><xref href="secure-disposal-of-it-public-and-private-cloud.dita" format="dita">Secure disposal of IT - public and private cloud</xref></entry>
-					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+					<entry colname="col2" align="right">Technical users</entry>
 				</row>
 				<row>
 					<entry colname="col1" align="left"><xref href="working-securely-with-paper-documents-and-files.dita" format="dita">Working securely with paper documents and files</xref></entry>
@@ -699,19 +699,19 @@ to ensure that an organisation can create and maintain a good cyber security cul
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
                 <entry colname="col1" align="left"><xref href="access-control-guide.dita" format="dita" type="topic">Access Control Guide</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="access-control-policy.dita" format="dita" type="topic">Access Control Policy</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="enterprise-access-control-policy.dita" format="dita">Enterprise Access Control Policy</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="privileged-account-management-guide.dita" format="dita" type="topic">Privileged Account Management Guide</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
             </tbody></tgroup></table>
           </body>
@@ -722,35 +722,35 @@ to ensure that an organisation can create and maintain a good cyber security cul
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="authentication.dita" format="dita">Authentication</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="management-access.dita" format="dita">Management access</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="managing-user-access-guide.dita" format="dita">Managing User Access Guide</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="multi-factor-authentication-mfa-guide.dita" format="dita" type="topic">Multi-Factor Authentication</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="privileged-user-backups-removable-media-and-incident-management-guide.dita" format="dita" type="topic">Privileged User Backups, Removable Media and Incident Management Guide</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="privileged-user-configuration-patching-and-change-management-guide.dita" format="dita" type="topic">Privileged User Configuration, Patching and Change Management Guide</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="privileged-user-guide.dita" format="dita" type="topic">Privileged User Guide</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="privileged-user-logging-and-protective-monitoring-guide.dita" format="dita" type="topic">Privileged User Logging and Protective Monitoring Guide</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
             </tbody></tgroup></table>
           </body>
@@ -772,23 +772,23 @@ to ensure that an organisation can create and maintain a good cyber security cul
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
 						<row audience="audience-tech">
 							<entry colname="col1" align="left"><xref href="account-management.dita" format="dita">Account management</xref></entry>
-							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							<entry colname="col2" align="right">Technical users</entry>
 						</row>
 						<row audience="audience-tech">
 							<entry colname="col1" align="left"><xref href="authorisation.dita" format="dita">Authorisation</xref></entry>
-							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							<entry colname="col2" align="right">Technical users</entry>
 						</row>
 						<row audience="audience-tech">
 							<entry colname="col1" align="left"><xref href="multi-user-accounts-and-public-facing-service-accounts-guide.dita" format="dita">Multi-user accounts and Public-Facing Service Accounts Guide</xref></entry>
-							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							<entry colname="col2" align="right">Technical users</entry>
 						</row>
 						<row audience="audience-tech">
 							<entry colname="col1" align="left"><xref href="password-creation-and-authentication-guide.dita" format="dita">Password Creation and Authentication Guide</xref></entry>
-							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							<entry colname="col2" align="right">Technical users</entry>
 						</row>
 						<row audience="audience-tech">
 							<entry colname="col1" align="left"><xref href="password-management-guide.dita" format="dita">Password Management Guide</xref></entry>
-							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							<entry colname="col2" align="right">Technical users</entry>
 						</row>
 						<row>
 							<entry colname="col1" align="left"><xref href="password-managers.dita" format="dita">Password Managers</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/passwords/password-managers/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
@@ -800,19 +800,19 @@ to ensure that an organisation can create and maintain a good cyber security cul
 						</row>
 						<row audience="audience-tech">
 							<entry colname="col1" align="left"><xref href="password-storage-and-management-guide.dita" format="dita">Password Storage and Management Guide</xref></entry>
-							<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+							<entry colname="col2" align="right">Technical users</entry>
 						</row>
 				<row audience="audience-tech">
 					<entry colname="col1" align="left"><xref href="policies-for-google-apps-administrators.dita" format="dita">Policies for Google Apps administrators</xref></entry>
-					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+					<entry colname="col2" align="right">Technical users</entry>
 				</row>
 				<row audience="audience-tech">
 					<entry colname="col1" align="left"><xref href="policies-for-macbook-administrators.dita" format="dita">Policies for MacBook Administrators</xref></entry>
-					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+					<entry colname="col2" align="right">Technical users</entry>
 				</row>
 				<row audience="audience-tech">
 					<entry colname="col1" align="left"><xref href="system-users-and-application-administrators.dita" format="dita">System User and Application Administrators</xref></entry>
-					<entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+					<entry colname="col2" align="right">Technical users</entry>
 				</row>
               <row>
                 <entry colname="col1" align="left"><xref href="using-lastpass.dita" format="dita">Using LastPass Enterprise</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/passwords/password-managers/using-lastpass-enterprise/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
@@ -831,23 +831,23 @@ to ensure that an organisation can create and maintain a good cyber security cul
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
                 <entry colname="col1" align="left"><xref href="automated-certificate-renewal.dita" format="dita">Automated certificate renewal</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="cryptography.dita" format="dita" type="topic">Cryptography</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="hmg-cryptography-business-continuity-management-standard.dita" format="dita">HMG Cryptography Business Continuity Management Standard</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="public-key-infrastructure-policy.dita" format="dita">Public Key Infrastructure Policy</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="use-of-hmg-cryptography-policy.dita" format="dita">Use of HMG Cryptography Policy</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
             </tbody></tgroup></table>
           </body>
@@ -921,7 +921,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="system-lockdown-and-hardening-standard.dita" format="dita">System Lockdown and Hardening Standard</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
             </tbody></tgroup></table>
           </body>
@@ -936,19 +936,19 @@ to ensure that an organisation can create and maintain a good cyber security cul
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
                 <entry colname="col1" align="left"><xref href="mail-check.dita" format="dita">Active Cyber Defence: Mail Check</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="public-sector-dns.dita" format="dita">Active Cyber Defence: Public Sector DNS</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="web-check.dita" format="dita">Active Cyber Defence: Web Check</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="offshoring-guide.dita" format="dita">Offshoring Guide</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
             </tbody></tgroup></table>
           </body>
@@ -959,19 +959,19 @@ to ensure that an organisation can create and maintain a good cyber security cul
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide (Overview)</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="malware-protection-guidance-defensive-layer-1.dita" format="dita">Malware Protection Guide: Defensive Layer 1</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="malware-protection-guidance-defensive-layer-2.dita" format="dita">Malware Protection Guide: Defensive Layer 2</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="malware-protection-guidance-defensive-layer-3.dita" format="dita">Malware Protection Guide: Defensive Layer 3</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="ransomware.dita" format="dita">Ransomware</xref></entry>
@@ -986,15 +986,15 @@ to ensure that an organisation can create and maintain a good cyber security cul
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
                 <entry colname="col1" align="left"><xref href="system-backup-guidance.dita" format="dita">System backup guidance</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="system-backup-policy.dita" format="dita">System backup policy</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="system-backup-standard.dita" format="dita">System backup standard</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
             </tbody></tgroup></table>
           </body>
@@ -1005,15 +1005,15 @@ to ensure that an organisation can create and maintain a good cyber security cul
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
                 <entry colname="col1" align="left"><xref href="accounting.dita" format="dita" type="topic">Accounting</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="cots-applications.dita" format="dita">Commercial off-the-shelf applications</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="custom-applications.dita" format="dita">Custom Applications</xref></entry>
-                <entry colname="col2" align="right">Technical Architect, DevOps, IT Service Manager, Software Developer</entry>
+                <entry colname="col2" align="right">Technical users</entry>
               </row>
               <row>
                 <entry colname="col1" align="left"><xref href="logging-and-monitoring.dita" format="dita">Logging and monitoring</xref></entry>
