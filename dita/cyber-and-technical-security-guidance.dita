@@ -169,6 +169,11 @@ to ensure that an organisation can create and maintain a good cyber security cul
 				<li><xref href="#physical-and-environmental-security" format="dita">Physical and environmental security</xref></li>
 				<li><xref href="#physical-and-environmental-security" format="dita">Physical and environmental security</xref></li>
 				<li><xref href="#operations-security" format="dita">Operations security</xref></li>
+				<li><xref href="#communications-security" format="dita">Communications security</xref></li>
+				<li><xref href="#system-acquisition-development-and-maintenance" format="dita">System acquisition, development and maintenance</xref></li>
+				<li><xref href="#supplier-relationships" format="dita">Supplier relationships</xref></li>
+				<li><xref href="#information-security-incident-management" format="dita">Information security incident management</xref></li>
+				
 			</ul>
 			<table>
 				<tgroup cols="2">
