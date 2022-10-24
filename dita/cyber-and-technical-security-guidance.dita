@@ -178,6 +178,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
 				<li><xref href="#risk-assessment" format="dita">Risk Assessment</xref></li>
 				
 			</ul>
+			<p>The documents <ph audience="audience-tech">have been developed and defined within this taxonomy, and</ph> are listed in the next section<ph audience="audience-tech">, together with their suggested target audiences</ph>.</p>
 			<table>
 				<tgroup cols="2">
 					<colspec colname="col1" colnum="1" colwidth="1*"/>
