@@ -25,8 +25,8 @@ However, other devices across the MoJ estate might have been procured and manage
 
 The following organisations are approved to help you with secure disposal of equipment:
 
--   Euro-Recycling \(contact via [Security team](mailto:security@justice.gov.uk)\)
--   Data Eliminate \(contact via [Security team](mailto:security@justice.gov.uk)\)
+-   Euro-Recycling \(contact via Helpdesk on 0800 917 5148.\)
+-   Data Eliminate \(contact via Helpdesk on 0800 917 5148.\)
 
 ## NCSC and CPNI on Secure Disposal
 
@@ -60,9 +60,9 @@ The table contains two columns, called “Data deletion method” and “Destruc
 
 **Note:** If the data is encrypted, then only the key needs to be deleted or erased, and the table does not need to be followed.
 
-If the table does not cover your exact requirement, contact security: [security@justice.gov.uk](mailto:security@justice.gov.uk)
+If the table does not cover your exact requirement, contact Helpdesk on 0800 917 5148.
 
-**Note:** When disposing of **Secret** or **Top Secret** equipment or materials, always contact security: [security@justice.gov.uk](mailto:security@justice.gov.uk)
+**Note:** When disposing of **Secret** or **Top Secret** equipment or materials, always contact Helpdesk on 0800 917 5148.
 
 |Equipment or asset type|Data deletion method|Destruction method|
 |-----------------------|--------------------|------------------|
@@ -102,7 +102,7 @@ If you are based in a London HQ site the Accommodation Team coordinates bulk sec
 
 ## Transporting data between sites securely
 
-If you have any concerns about moving items between sites securely, contact security: [security@justice.gov.uk](mailto:security@justice.gov.uk)
+If you have any concerns about moving items between sites securely, contact Helpdesk on 0800 917 5148.
 
 Guidance on the transportation of secure data is located in the CPNI guidance: “[10. Transport of sensitive items](https://www.cpni.gov.uk/system/files/documents/c5/e1/2017_01_20_CPNI_Secure_Destruction_Standard.pdf)”.
 
@@ -110,7 +110,7 @@ The previous guidance is also referenced in the CAS Sanitisation Service Require
 
 ## Contact details
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+For any further questions or advice, contact: Helpdesk on 0800 917 5148.
 
 ## Feedback
 
