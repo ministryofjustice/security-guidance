@@ -258,6 +258,11 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="mobile-device-policy">
           <title>Mobile device policy</title>
           <body>
+		  <p>These policies are for all users:</p>
+		 <ul>
+			 <li><xref href="mobile-device-and-remote-working-policy.dita" format="dita">Mobile Device and Remote Working Policy</xref></li>
+			 <li><xref href="remote-working.dita" format="dita">Remote Working</xref></li>
+		 </ul>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
                 <entry colname="col1" align="left"><xref href="mobile-device-and-remote-working-policy.dita" format="dita">Mobile Device and Remote Working Policy</xref></entry>
