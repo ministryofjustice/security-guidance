@@ -186,6 +186,24 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="information-security-policies">
         <title>Information security policies</title>
         <topic id="management-direction-for-information-security">
+		<body>
+		<p>These are the policies for all users:</p>
+		<ul>
+			<li><xref href="setecastronomy.dita" format="dita">Avoiding too much security</xref></li>
+			<li><xref href="identify-protect-detect-respond-recover.dita" format="dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref></li>
+			<li><xref href="it-security-all-users-policy.dita" format="dita">IT Security All Users Policy</xref></li>
+			<li><xref href="it-security-policy-overview.dita" format="dita">IT Security Policy (Overview)</xref></li>
+			<li><xref href="line-manager-approval.dita" format="dita">Line Manager approval</xref></li>
+		</ul>
+		<p>These are the policies for technical users:</p>
+		<ul>
+			<li><xref href="it-security-technical-users-policy.dita" format="dita">IT Security Technical Users Policy</xref></li>
+			<li><xref href="shared-responsibility-models.dita" format="dita">Shared Responsibility Models</xref></li>
+			<li><xref href="technical-controls-policy.dita" format="dita">Technical Controls Policy</xref></li>
+		</ul>
+		</body>
+			
+			
           <title>Management direction for information security</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
