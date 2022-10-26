@@ -188,7 +188,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="management-direction-for-information-security">
 	<title>Management direction for information security</title>
 		<body>
-		<p>These are the policies for all users:</p>
+		<p>These policies are for all users:</p>
 		<ul>
 			<li><xref href="setecastronomy.dita" format="dita">Avoiding too much security</xref></li>
 			<li><xref href="identify-protect-detect-respond-recover.dita" format="dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref></li>
@@ -196,7 +196,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
 			<li><xref href="it-security-policy-overview.dita" format="dita">IT Security Policy (Overview)</xref></li>
 			<li><xref href="line-manager-approval.dita" format="dita">Line Manager approval</xref></li>
 		</ul>
-		<p>These are the policies for technical users:</p>
+		<p>These policies are for technical users:</p>
 		<ul>
 			<li audience="audience-tech"><xref href="it-security-technical-users-policy.dita" format="dita">IT Security Technical Users Policy</xref></li>
 			<li audience="audience-tech"><xref href="shared-responsibility-models.dita" format="dita">Shared Responsibility Models</xref></li>
@@ -434,41 +434,19 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="secure-areas">
           <title>Secure areas</title>
           <body>
+		  <p>These policies are for all users:</p>
+		  <ul>
+			  <li><xref href="cctv-policy.dita" format="dita">CCTV policy</xref></li>
+			  <li><xref href="entry-and-exit-search-policy.dita" format="dita">Entry and exit search policy</xref></li>
+			  <li><xref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" format="dita">Personal mail and parcel delivery policy and procedure</xref></li>
+			  <li><xref href="physical-security-policy.dita" format="dita">Physical security policy</xref></li>
+			  <li><xref href="public-protest-and-demonstrations-policy.dita" format="dita">Public protest and demonstrations policy</xref></li>
+			  <li><xref href="security-in-the-office.dita" format="dita">Security in the office</xref></li>
+			  <li><xref href="security-threat-level-and-emergency-procedures.dita" format="dita">Security threat level and emergency procedures</xref></li>
+			  <li><xref href="visitor-access-policy.dita" format="dita">Visitor access policy</xref></li>
+		  </ul>
 		  
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="cctv-policy.dita" format="dita">CCTV policy</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="entry-and-exit-search-policy.dita" format="dita">Entry and exit search policy</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" format="dita">Personal mail and parcel delivery policy and procedure</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="physical-security-policy.dita" format="dita">Physical security policy</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="public-protest-and-demonstrations-policy.dita" format="dita">Public protest and demonstrations policy</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="security-in-the-office.dita" format="dita">Security in the office</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="security-threat-level-and-emergency-procedures.dita" format="dita">Security threat level and emergency procedures</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="visitor-access-policy.dita" format="dita">Visitor access policy</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-            </tbody></tgroup></table>
+            
           </body>
         </topic>
         <topic id="equipment">
