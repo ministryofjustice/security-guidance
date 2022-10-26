@@ -434,6 +434,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="secure-areas">
           <title>Secure areas</title>
           <body>
+		  
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
                 <entry colname="col1" align="left"><xref href="cctv-policy.dita" format="dita">CCTV policy</xref></entry>
