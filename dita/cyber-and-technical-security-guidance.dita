@@ -313,6 +313,16 @@ to ensure that an organisation can create and maintain a good cyber security cul
           <body>
 		  <p>These policies are for all users:</p>
 		  <ul>
+			  <li><xref href="government-classification-scheme.dita" format="dita">Government Classification Scheme</xref></li>
+			  <li><xref href="information-classification-handling-and-security-guide.dita" format="dita">Information Classification and Handling Guide</xref></li>
+			  <li><xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref></li>
+		  </ul>
+		  <p>These policies are for technical users:</p>
+		  <ul>
+			  <li audience="audience-tech"><xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Handling and Information Sharing Guide</xref></li>
+			  <li audience="audience-tech">xref href="secrets-management.dita" format="dita">Secrets management</xref></li>
+		  </ul>
+	  </body>
 			  
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row audience="audience-tech">
