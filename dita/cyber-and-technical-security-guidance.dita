@@ -452,32 +452,19 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="equipment">
           <title>Equipment</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="clear-screen-and-desk.dita" format="dita">Clear Screen and Desk Policy</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/clear-screen-and-desk/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="equipment-reassignment-guide.dita" format="dita">Equipment Reassignment Guide</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="laptops.dita" format="dita">Laptops</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/laptops/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="locking-and-shutdown.dita" format="dita">Locking and shutdown</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/laptops/locking-and-shutdown/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="policies-for-macbook-users.dita" format="dita">Policies for MacBook Users</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/macbook/policies-for-macbook-users/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="system-lockdown-and-hardening-standard.dita" format="dita">System Lockdown and Hardening Standard</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+		  <p>These policies are for all users:</p>
+		  <ul>
+			  <li><xref href="clear-screen-and-desk.dita" format="dita">Clear Screen and Desk Policy</xref></li>
+			  <li><xref href="equipment-reassignment-guide.dita" format="dita">Equipment Reassignment Guide</xref></li>
+			  <li><xref href="laptops.dita" format="dita">Laptops</xref></li>
+			  <li><xref href="locking-and-shutdown.dita" format="dita">Locking and shutdown</xref></li>
+			  <li><xref href="policies-for-macbook-users.dita" format="dita">Policies for MacBook Users</xref></li>
+		  </ul>
+		  <p>This policy is for technical users:</p>
+		  <ul>
+			  <li><xref href="system-lockdown-and-hardening-standard.dita" format="dita">System Lockdown and Hardening Standard</xref></li>
+		  </ul>
+            
           </body>
         </topic>
       </topic>
