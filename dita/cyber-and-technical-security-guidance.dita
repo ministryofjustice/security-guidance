@@ -311,6 +311,9 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="information-classification">
           <title>Information classification</title>
           <body>
+		  <p>These policies are for all users:</p>
+		  <ul>
+			  
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row audience="audience-tech">
                 <entry colname="col1" align="left"><xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Handling and Information Sharing Guide</xref></entry>
