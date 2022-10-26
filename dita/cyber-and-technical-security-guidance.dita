@@ -322,41 +322,19 @@ to ensure that an organisation can create and maintain a good cyber security cul
 			  <li audience="audience-tech"><xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Handling and Information Sharing Guide</xref></li>
 			  <li audience="audience-tech">xref href="secrets-management.dita" format="dita">Secrets management</xref></li>
 		  </ul>
-	  </body>
-			  
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Handling and Information Sharing Guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-				<row>
-					<entry colname="col1" align="left"><xref href="government-classification-scheme.dita" format="dita">Government Classification Scheme</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/government-classification-scheme/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="information-classification-handling-and-security-guide.dita" format="dita">Information Classification and Handling Guide</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref></entry>
-					<entry colname="col2" align="right">All users (Policy)</entry>
-				</row>
-        <!--
-              <row>
-                <entry colname="col1" align="left"><xref href="official-official-sensitive.dita" format="dita"><ph conref="conrefs.dita#conrefs/official"/> and <ph conref="conrefs.dita#conrefs/official-sensitive"/></xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-            -->
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="secrets-management.dita" format="dita">Secrets management</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+	    
+            
           </body>
         </topic>
         <topic id="media-handling">
           <title>Media handling</title>
           <body>
+		  <p>These policies are for all users:</p>
+		  <ul>
+			  <li><xref href="removable-media.dita" format="dita">Removable media</xref></li>
+			  <li><xref href="secure-disposal-of-it-equipment.dita" format="dita">Secure disposal of IT equipment</xref></li>
+			  <li><xref href="secure-disposal-of-it-physical-and-on-premise.dita" format="dita">Secure disposal of IT - physical and on-premise</xref></li>
+			  
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
 				<row>
 					<entry colname="col1" align="left"><xref href="removable-media.dita" format="dita">Removable media</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
