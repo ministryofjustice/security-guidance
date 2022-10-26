@@ -474,51 +474,32 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="operational-procedures-and-responsibilities" audience="audience-tech">
           <title>Operational procedures and responsibilities</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="mail-check.dita" format="dita">Active Cyber Defence: Mail Check</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="public-sector-dns.dita" format="dita">Active Cyber Defence: Public Sector DNS</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="web-check.dita" format="dita">Active Cyber Defence: Web Check</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="offshoring-guide.dita" format="dita">Offshoring Guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+		  <p>These policies are for technical users:</p>
+		  <ul>
+			  <li audience="audience-tech"><xref href="mail-check.dita" format="dita">Active Cyber Defence: Mail Check</xref></li>
+			  <li audience="audience-tech"><xref href="public-sector-dns.dita" format="dita">Active Cyber Defence: Public Sector DNS</xref></li>
+			  <li audience="audience-tech"><xref href="web-check.dita" format="dita">Active Cyber Defence: Web Check</xref></li>
+			  <li audience="audience-tech"><xref href="offshoring-guide.dita" format="dita">Offshoring Guide</xref></li>
+		  </ul>
+		  
+          
           </body>
         </topic>
         <topic id="protection-from-malware" audience="audience-basic audience-tech">
           <title>Protection from malware</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide (Overview)</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="malware-protection-guidance-defensive-layer-1.dita" format="dita">Malware Protection Guide: Defensive Layer 1</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="malware-protection-guidance-defensive-layer-2.dita" format="dita">Malware Protection Guide: Defensive Layer 2</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="malware-protection-guidance-defensive-layer-3.dita" format="dita">Malware Protection Guide: Defensive Layer 3</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="ransomware.dita" format="dita">Ransomware</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-            </tbody></tgroup></table>
+		  <p>These policies are for technical users:</p>
+		  <ul>
+			  <li audience="audience-tech"><xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide (Overview)</xref></li>
+			  <li audience="audience-tech"><xref href="malware-protection-guidance-defensive-layer-1.dita" format="dita">Malware Protection Guide: Defensive Layer 1</xref></li>
+			  <li audience="audience-tech"><xref href="malware-protection-guidance-defensive-layer-2.dita" format="dita">Malware Protection Guide: Defensive Layer 2</xref></li>
+			  <li audience="audience-tech"><xref href="malware-protection-guidance-defensive-layer-3.dita" format="dita">Malware Protection Guide: Defensive Layer 3</xref></li>
+		  </ul>
+		  <p>This policy is for all users:</p>
+		  <ul>
+			  <li><xref href="ransomware.dita" format="dita">Ransomware</xref></li>
+		  </ul>	  
+           
           </body>
         </topic>
         <topic id="backup" audience="audience-tech">
