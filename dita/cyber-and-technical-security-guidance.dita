@@ -45,46 +45,24 @@ to ensure that an organisation can create and maintain a good cyber security cul
     <topic id="offline-content">
       <title>Offline content</title>
       <body>
-        <p platform="html">Versions of this guidance are available offline.
-          <table>
-            <tgroup cols="3">
-              <colspec colname="col1" colnum="1" colwidth="3*"/>
-              <colspec colname="col2" colnum="2" colwidth="1*"/>
-              <colspec colname="col3" colnum="3" colwidth="1*"/>
-              <thead>
-                <row>
-                  <entry colname="col1">Audience</entry>
-                  <entry colname="col2">PDF format</entry>
-                  <entry colname="col3">EPUB format</entry>
-                </row>
-              </thead>
-              <tbody>
-                <row>
-                  <entry colname="col1">All users. Contains general guidance with some technical information.</entry>
-                  <entry colname="col2"><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></entry>
-                  <entry colname="col3"><xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref></entry>
-                </row>
-				  <row>
-					  <entry colname="col1">Group Security. Contains Group Security policy and guidance.</entry>
-					  <entry colname="col2"><xref href="moj-guidance-gs.pdf" format="pdf" scope="peer">PDF</xref></entry>
-					  <entry colname="col3"><xref href="moj-guidance-gs.epub" format="epub" scope="peer">EPUB</xref></entry>
-				  </row>
-				  <row>
-					  <entry colname="col1">Technical users. Contains detailed technical information, together with all users and Group Security content.</entry>
-					  <entry colname="col2"><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></entry>
-					  <entry colname="col3"><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></entry>
-				  </row>
-                <!--
-                <row>
-                  <entry colname="col1">Suppliers. Includes just the details of primary interest to suppliers.</entry>
-                  <entry colname="col2"><xref href="moj-guidance-suppliers.pdf" format="pdf" scope="peer">PDF</xref></entry>
-                  <entry colname="col3"><xref href="moj-guidance-suppliers.epub" format="epub" scope="peer">EPUB</xref></entry>
-                </row>
-              -->
-              </tbody>
-            </tgroup>
-          </table>
-        The offline versions of this guidance are time-limited, and are <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
+        <p platform="html">This guidance is available in PDF and EPUB formats.</p>
+        <p>All users. Contains general guidance with some technical information:</p>
+          <ul>
+            <li><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></li>
+            <li><xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref></li>
+          </ul>
+          <p>Group Security. Contains Group Security policy and guidance:</p>
+          <ul>
+            <li><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></li>
+            <li><xref href="moj-guidance-gs.epub" format="epub" scope="peer">EPUB</xref></li>
+          </ul>
+          <p>Technical users. Contains detailed technical information, together with all users and Group Security content:</p>
+          <ul>
+            <li><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></li>
+            <li><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></li>
+          </ul>
+          
+        <p>The offline versions of this guidance are time-limited, and are <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
         <p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, refer to the <xref href="https://security-guidance.service.justice.gov.uk/" format="html" scope="external">security guidance site</xref>.</p>
       </body>
       </topic>
@@ -158,22 +136,21 @@ to ensure that an organisation can create and maintain a good cyber security cul
 	<topic id="taxonomy">
 		<title>Information structure</title>
 		<body>
-			<p audience="audience-tech"><ph conref="conrefs.dita#conrefs/moj"/> policy documents are listed beneath the following headings:</p>
+			<p><ph conref="conrefs.dita#conrefs/moj"/> policy documents are listed beneath the following headings:</p>
 			<ul>
 				<li><xref href="#information-security-policies" format="dita">Information security policies</xref></li>
 				<li><xref href="#mobile-devices-and-teleworking" format="dita">Mobile devices and teleworking</xref></li>
 				<li><xref href="#human-resource-security" format="dita">Human resource security</xref></li>
 				<li><xref href="#asset-management" format="dita">Asset management</xref></li>
 				<li><xref href="#access-control" format="dita">Access control</xref></li>
-				<li><xref href="#cryptography" format="dita">Cryptography</xref></li>
-				<li><xref href="#physical-and-environmental-security" format="dita">Physical and environmental security</xref></li>
+				<li audience="audience-tech"><xref href="#cryptography" format="dita">Cryptography</xref></li>
 				<li><xref href="#physical-and-environmental-security" format="dita">Physical and environmental security</xref></li>
 				<li><xref href="#operations-security" format="dita">Operations security</xref></li>
 				<li><xref href="#communications-security" format="dita">Communications security</xref></li>
-				<li><xref href="#system-acquisition-development-and-maintenance" format="dita">System acquisition, development and maintenance</xref></li>
-				<li><xref href="#supplier-relationships" format="dita">Supplier relationships</xref></li>
+				<li audience="audience-tech"><xref href="#system-acquisition-development-and-maintenance" format="dita">System acquisition, development and maintenance</xref></li>
+				<li audience="audience-tech"><xref href="#supplier-relationships" format="dita">Supplier relationships</xref></li>
 				<li><xref href="#information-security-incident-management" format="dita">Information security incident management</xref></li>
-				<li><xref href="#information-security-aspects-of-business-continuity-management" format="dita">Information security aspects of business continuity management</xref></li>
+				<li audience="audience-tech"><xref href="#information-security-aspects-of-business-continuity-management" format="dita">Information security aspects of business continuity management</xref></li>
 				<li><xref href="#compliance" format="dita">Compliance</xref></li>
 				<li><xref href="#risk-assessment" format="dita">Risk Assessment</xref></li>
 				
@@ -185,7 +162,9 @@ to ensure that an organisation can create and maintain a good cyber security cul
 
         <topic id="information-security-policies">
         <title>Information security policies</title>
+        <body></body>
         <topic id="management-direction-for-information-security">
+          <title>Management direction for information security</title>
 		<body>
 		<p>These are the policies for all users:</p>
 		<ul>
@@ -195,24 +174,24 @@ to ensure that an organisation can create and maintain a good cyber security cul
 			<li><xref href="it-security-policy-overview.dita" format="dita">IT Security Policy (Overview)</xref></li>
 			<li><xref href="line-manager-approval.dita" format="dita">Line Manager approval</xref></li>
 		</ul>
-		<p>These are the policies for technical users:</p>
-		<ul>
-			<li audience="audience-tech"><xref href="it-security-technical-users-policy.dita" format="dita">IT Security Technical Users Policy</xref></li>
+		<p audience="audience-tech">These are the policies for technical users:</p>
+		<ul audience="audience-tech">
+			<li><xref href="it-security-technical-users-policy.dita" format="dita">IT Security Technical Users Policy</xref></li>
 			<li><xref href="shared-responsibility-models.dita" format="dita">Shared Responsibility Models</xref></li>
 			<li><xref href="technical-controls-policy.dita" format="dita">Technical Controls Policy</xref></li>
 		</ul>
 		</body>
 			
-			
+			<!-- 
           <title>Management direction for information security</title>
           <body>
             <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
               <row>
-                <entry colname="col1" align="left"><xref href="setecastronomy.dita" format="dita">Avoiding too much security</xref><!-- <ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/avoiding-too-much-security/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
+                <entry colname="col1" align="left"><xref href="setecastronomy.dita" format="dita">Avoiding too much security</xref><!__ <ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/avoiding-too-much-security/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>__></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
-                <entry colname="col1" align="left"><xref href="identify-protect-detect-respond-recover.dita" format="dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/identify-protect-detect-respond-recover/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
+                <entry colname="col1" align="left"><xref href="identify-protect-detect-respond-recover.dita" format="dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref><!__<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/identify-protect-detect-respond-recover/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>__></entry>
                 <entry colname="col2" align="right">All users</entry>
               </row>
               <row>
@@ -228,7 +207,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
                 <entry colname="col2" align="right">Technical users (Policy)</entry>
               </row>
 				<row>
-					<entry colname="col1" align="left"><xref href="line-manager-approval.dita" format="dita">Line Manager approval</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph> --></entry>
+					<entry colname="col1" align="left"><xref href="line-manager-approval.dita" format="dita">Line Manager approval</xref><!__<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph> __></entry>
 					<entry colname="col2" align="right">All users</entry>
 				</row>
               <row audience="audience-tech">
@@ -241,6 +220,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
               </row>
             </tbody></tgroup></table>
           </body>
+        -->
         </topic>
       </topic>
 
@@ -263,36 +243,19 @@ to ensure that an organisation can create and maintain a good cyber security cul
 			 <li><xref href="mobile-device-and-remote-working-policy.dita" format="dita">Mobile Device and Remote Working Policy</xref></li>
 			 <li><xref href="remote-working.dita" format="dita">Remote Working</xref></li>
 		 </ul>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="mobile-device-and-remote-working-policy.dita" format="dita">Mobile Device and Remote Working Policy</xref></entry>
-                <entry colname="col2" align="right">All users (Policy)</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="remote-working.dita" format="dita">Remote Working</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-            </tbody></tgroup></table>
+            
           </body>
         </topic>
         <topic id="teleworking">
           <title>Teleworking</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/accessing-moj-it-systems-overseas/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita">General advice on taking equipment overseas</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/accessing-moj-it-systems-overseas/taking-equipment-overseas/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="personal-devices.dita" format="dita">Personal Devices</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/using-a-personal-device/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-            </tbody></tgroup></table>
-          </body>
+            <p>These policies are for all users:</p>
+            <ul>
+              <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref></li>
+			        <li><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita">General advice on taking equipment overseas</xref></li>
+			        <li><xref href="personal-devices.dita" format="dita">Personal Devices</xref></li>
+            </ul>
+            </body>
         </topic>
       </topic>
 
@@ -301,92 +264,44 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="prior-to-employment">
           <title>Prior to employment</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels Guide</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/personnel-security-clearances/minimum-user-clearance/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-				<row>
-					<entry colname="col1" align="left"><xref href="national-security-vetting-contact.dita" format="dita" type="topic">National Security Vetting contact</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="national-security-vetting-questions.dita" format="dita" type="topic">National Security Vetting questions</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-              <row>
-                <entry colname="col1" align="left"><xref href="national-security-vetting-for-external-candidates-faq.dita" format="dita" type="topic">National Security Vetting for External Candidates FAQ</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="pre-employment-screening.dita" format="dita" type="topic">Pre-employment screening</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" format="dita" type="topic">Pre-Employment Screening and Vetting of External Candidates - FAQs</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="security-clearance-appeals-policy.dita" format="dita" type="topic">Security clearance appeals policy</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="security-clearance-appeals-procedures.dita" format="dita" type="topic">Security clearance appeals procedures</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="security-vetting-assessment-need.dita" format="dita" type="topic">Security vetting assessment of need</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>These policies are for all users:</p>
+            <ul>
+            <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels Guide</xref></li>
+            <li><xref href="national-security-vetting-contact.dita" format="dita" type="topic">National Security Vetting contact</xref></li>
+            <li><xref href="national-security-vetting-questions.dita" format="dita" type="topic">National Security Vetting questions</xref></li>
+            <li><xref href="national-security-vetting-for-external-candidates-faq.dita" format="dita" type="topic">National Security Vetting for External Candidates FAQ</xref></li>
+            <li><xref href="pre-employment-screening.dita" format="dita" type="topic">Pre-employment screening</xref></li>	
+            <li><xref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" format="dita" type="topic">Pre-Employment Screening and Vetting of External Candidates - FAQs</xref></li>
+            <li><xref href="security-clearance-appeals-policy.dita" format="dita" type="topic">Security clearance appeals policy</xref></li>
+            <li><xref href="security-clearance-appeals-procedures.dita" format="dita" type="topic">Security clearance appeals procedures</xref></li>
+            <li><xref href="security-vetting-assessment-need.dita" format="dita" type="topic">Security vetting assessment of need</xref></li>
+          </ul>
+            
           </body>
         </topic>
         <topic id="during-employment">
           <title>During employment</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="ongoing-personnel-security.dita" format="dita">Ongoing Personnel Security</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                
-                <entry colname="col1" align="left"><xref href="personnel-risk-assessment.dita" format="dita">Personnel risk assessment</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                
-                <entry colname="col1" align="left"><xref href="reporting-personal-circumstance-changes.dita" format="dita">Reporting personal circumstance changes</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="training-and-education.dita" format="dita">Training and Education</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/training-education/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="voluntary-drug-testing-policy.dita" format="dita">Voluntary drug testing policy</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="voluntary-drug-testing-policy-procedures.dita" format="dita">Voluntary drug testing policy procedures</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>These policies are for all users:</p>
+            <ul>
+              <li><xref href="ongoing-personnel-security.dita" format="dita">Ongoing Personnel Security</xref></li>
+              <li><xref href="personnel-risk-assessment.dita" format="dita">Personnel risk assessment</xref></li>
+              <li><xref href="reporting-personal-circumstance-changes.dita" format="dita">Reporting personal circumstance changes</xref></li>
+              <li><xref href="training-and-education.dita" format="dita">Training and Education</xref></li>
+              <li><xref href="voluntary-drug-testing-policy.dita" format="dita">Voluntary drug testing policy</xref></li>
+              <li><xref href="voluntary-drug-testing-policy-procedures.dita" format="dita">Voluntary drug testing policy procedures</xref></li>
+            </ul> 
           </body>
         </topic>
         <topic id="termination-and-change-of-employment">
           <title>Termination and change of employment</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="end-or-change-of-employment.dita" format="dita" type="topic">End or change of employment</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="leavers-with-nsc-and-nscvs.dita" format="dita" type="topic">Leavers with NSC and NSVCs</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>These policies are for all users:</p>
+            <ul>
+              <li><xref href="end-or-change-of-employment.dita" format="dita" type="topic">End or change of employment</xref></li>
+              <li><xref href="leavers-with-nsc-and-nscvs.dita" format="dita" type="topic">Leavers with NSC and NSVCs</xref></li>
+            </ul>
+            
           </body>
         </topic>
       </topic>
@@ -396,88 +311,49 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="responsibility-for-assets">
           <title>Responsibility for assets</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-				<row>
-					<entry colname="col1" align="left"><xref href="acceptable-use.dita" format="dita">Acceptable use</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="acceptable-use-policy.dita" format="dita">Acceptable use policy</xref></entry>
-					<entry colname="col2" align="right">All users (Policy)</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="long-term-leave.dita" format="dita">Guidance on IT Accounts and Assets for Long Term Leave</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="protect-yourself-online.dita" format="dita">Protect Yourself Online</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/protect-yourself-online/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="web-browsing.dita" format="dita" type="topic">Web browsing security</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/web-browsing/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-            </tbody></tgroup></table>
+            <p>These policies are for all users:</p>
+        <ul>
+            <li><xref href="acceptable-use.dita" format="dita">Acceptable use</xref></li>
+            <li><xref href="acceptable-use-policy.dita" format="dita">Acceptable use policy</xref></li>
+            <li><xref href="long-term-leave.dita" format="dita">Guidance on IT Accounts and Assets for Long Term Leave</xref></li>
+            <li><xref href="protect-yourself-online.dita" format="dita">Protect Yourself Online</xref></li>
+            <li><xref href="web-browsing.dita" format="dita" type="topic">Web browsing security</xref></li>
+        </ul> 
+            
           </body>
         </topic>
         <topic id="information-classification">
           <title>Information classification</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Handling and Information Sharing Guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-				<row>
-					<entry colname="col1" align="left"><xref href="government-classification-scheme.dita" format="dita">Government Classification Scheme</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/government-classification-scheme/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="information-classification-handling-and-security-guide.dita" format="dita">Information Classification and Handling Guide</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref></entry>
-					<entry colname="col2" align="right">All users (Policy)</entry>
-				</row>
-        <!--
-              <row>
-                <entry colname="col1" align="left"><xref href="official-official-sensitive.dita" format="dita"><ph conref="conrefs.dita#conrefs/official"/> and <ph conref="conrefs.dita#conrefs/official-sensitive"/></xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-            -->
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="secrets-management.dita" format="dita">Secrets management</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>These policies are for all users:</p>
+		  <ul>
+			  <li><xref href="government-classification-scheme.dita" format="dita">Government Classification Scheme</xref></li>
+			  <li><xref href="information-classification-handling-and-security-guide.dita" format="dita">Information Classification and Handling Guide</xref></li>
+			  <li><xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref></li>
+		  </ul>
+		  <p>These policies are for technical users:</p>
+		  <ul>
+			  <li audience="audience-tech"><xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Handling and Information Sharing Guide</xref></li>
+			  <li audience="audience-tech"><xref href="secrets-management.dita" format="dita">Secrets management</xref></li>
+		  </ul>
+            
           </body>
         </topic>
         <topic id="media-handling">
           <title>Media handling</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-				<row>
-					<entry colname="col1" align="left"><xref href="removable-media.dita" format="dita">Removable media</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="secure-disposal-of-it-equipment.dita" format="dita">Secure disposal of IT equipment</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="secure-disposal-of-it-physical-and-on-premise.dita" format="dita">Secure disposal of IT - physical and on-premise</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-				<row audience="audience-suppliers audience-tech">
-					<entry colname="col1" align="left"><xref href="secure-disposal-of-it-public-and-private-cloud.dita" format="dita">Secure disposal of IT - public and private cloud</xref></entry>
-					<entry colname="col2" align="right">Technical users</entry>
-				</row>
-				<row>
-					<entry colname="col1" align="left"><xref href="working-securely-with-paper-documents-and-files.dita" format="dita">Working securely with paper documents and files</xref></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-            </tbody></tgroup></table>
+            <p>These policies are for all users:</p>
+		  <ul>
+			  <li><xref href="removable-media.dita" format="dita">Removable media</xref></li>
+			  <li><xref href="secure-disposal-of-it-equipment.dita" format="dita">Secure disposal of IT equipment</xref></li>
+			  <li><xref href="secure-disposal-of-it-physical-and-on-premise.dita" format="dita">Secure disposal of IT - physical and on-premise</xref></li>
+			  <li><xref href="working-securely-with-paper-documents-and-files.dita" format="dita">Working securely with paper documents and files</xref></li>
+		  </ul>
+		  <p>This policy is for technical users:</p>
+		  <ul>
+			  <li audience="audience-tech"><xref href="secure-disposal-of-it-public-and-private-cloud.dita" format="dita">Secure disposal of IT - public and private cloud</xref></li>
+	    </ul>
+            
           </body>
         </topic>
       </topic>
@@ -487,129 +363,61 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="business-requirements-of-access-control" audience="audience-tech">
           <title>Business requirements of access control</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="access-control-guide.dita" format="dita" type="topic">Access Control Guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="access-control-policy.dita" format="dita" type="topic">Access Control Policy</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="enterprise-access-control-policy.dita" format="dita">Enterprise Access Control Policy</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="privileged-account-management-guide.dita" format="dita" type="topic">Privileged Account Management Guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>These policies are for technical users:</p>
+              <ul>
+               <li audience="audience-tech"><xref href="access-control-guide.dita" format="dita" type="topic">Access Control Guide</xref></li>
+               <li audience="audience-tech"><xref href="access-control-policy.dita" format="dita" type="topic">Access Control Policy</xref></li>
+               <li audience="audience-tech"><xref href="enterprise-access-control-policy.dita" format="dita">Enterprise Access Control Policy</xref></li>
+               <li audience="audience-tech"><xref href="privileged-account-management-guide.dita" format="dita" type="topic">Privileged Account Management Guide</xref></li>
+             </ul>
+            
           </body>
         </topic>
         <topic id="user-access-management">
           <title>User access management</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="authentication.dita" format="dita">Authentication</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="management-access.dita" format="dita">Management access</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="managing-user-access-guide.dita" format="dita">Managing User Access Guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="multi-factor-authentication-mfa-guide.dita" format="dita" type="topic">Multi-Factor Authentication</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="privileged-user-backups-removable-media-and-incident-management-guide.dita" format="dita" type="topic">Privileged User Backups, Removable Media and Incident Management Guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="privileged-user-configuration-patching-and-change-management-guide.dita" format="dita" type="topic">Privileged User Configuration, Patching and Change Management Guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="privileged-user-guide.dita" format="dita" type="topic">Privileged User Guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="privileged-user-logging-and-protective-monitoring-guide.dita" format="dita" type="topic">Privileged User Logging and Protective Monitoring Guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>These policies are for technical users:</p>
+              <ul>
+                <li audience="audience-tech"><xref href="authentication.dita" format="dita">Authentication</xref></li>
+                <li audience="audience-tech"><xref href="management-access.dita" format="dita">Management access</xref></li>
+                <li audience="audience-tech"><xref href="managing-user-access-guide.dita" format="dita">Managing User Access Guide</xref></li>
+                <li audience="audience-tech"><xref href="multi-factor-authentication-mfa-guide.dita" format="dita" type="topic">Multi-Factor Authentication</xref></li>
+                <li audience="audience-tech"><xref href="privileged-user-backups-removable-media-and-incident-management-guide.dita" format="dita" type="topic">Privileged User Backups, Removable Media and Incident Management Guide</xref></li>
+                <li audience="audience-tech"><xref href="privileged-user-configuration-patching-and-change-management-guide.dita" format="dita" type="topic">Privileged User Configuration, Patching and Change Management Guide</xref></li>
+                <li audience="audience-tech"><xref href="privileged-user-guide.dita" format="dita" type="topic">Privileged User Guide</xref></li>
+                <li audience="audience-tech"><xref href="privileged-user-logging-and-protective-monitoring-guide.dita" format="dita" type="topic">Privileged User Logging and Protective Monitoring Guide</xref></li>
+              </ul>
+            
           </body>
         </topic>
         <topic id="user-responsibilities">
           <title>User responsibilities</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="protecting-social-media-accounts.dita" format="dita" type="topic">Protecting Social Media Accounts</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/protecting-social-media-accounts/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>This policy is for all users:</p>
+            <ul>
+              <li><xref href="protecting-social-media-accounts.dita" format="dita" type="topic">Protecting Social Media Accounts</xref></li>
+            </ul>      
           </body>
         </topic>
         <topic id="system-and-application-access-control">
           <title>System and application access control</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-						<row audience="audience-tech">
-							<entry colname="col1" align="left"><xref href="account-management.dita" format="dita">Account management</xref></entry>
-							<entry colname="col2" align="right">Technical users</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1" align="left"><xref href="authorisation.dita" format="dita">Authorisation</xref></entry>
-							<entry colname="col2" align="right">Technical users</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1" align="left"><xref href="multi-user-accounts-and-public-facing-service-accounts-guide.dita" format="dita">Multi-user accounts and Public-Facing Service Accounts Guide</xref></entry>
-							<entry colname="col2" align="right">Technical users</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1" align="left"><xref href="password-creation-and-authentication-guide.dita" format="dita">Password Creation and Authentication Guide</xref></entry>
-							<entry colname="col2" align="right">Technical users</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1" align="left"><xref href="password-management-guide.dita" format="dita">Password Management Guide</xref></entry>
-							<entry colname="col2" align="right">Technical users</entry>
-						</row>
-						<row>
-							<entry colname="col1" align="left"><xref href="password-managers.dita" format="dita">Password Managers</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/passwords/password-managers/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-							<entry colname="col2" align="right">All users</entry>
-						</row>
-						<row>
-							<entry colname="col1" align="left"><xref href="passwords.dita" format="dita">Passwords</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/passwords/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-							<entry colname="col2" align="right">All users</entry>
-						</row>
-						<row audience="audience-tech">
-							<entry colname="col1" align="left"><xref href="password-storage-and-management-guide.dita" format="dita">Password Storage and Management Guide</xref></entry>
-							<entry colname="col2" align="right">Technical users</entry>
-						</row>
-				<row audience="audience-tech">
-					<entry colname="col1" align="left"><xref href="policies-for-google-apps-administrators.dita" format="dita">Policies for Google Apps administrators</xref></entry>
-					<entry colname="col2" align="right">Technical users</entry>
-				</row>
-				<row audience="audience-tech">
-					<entry colname="col1" align="left"><xref href="policies-for-macbook-administrators.dita" format="dita">Policies for MacBook Administrators</xref></entry>
-					<entry colname="col2" align="right">Technical users</entry>
-				</row>
-				<row audience="audience-tech">
-					<entry colname="col1" align="left"><xref href="system-users-and-application-administrators.dita" format="dita">System User and Application Administrators</xref></entry>
-					<entry colname="col2" align="right">Technical users</entry>
-				</row>
-              <row>
-                <entry colname="col1" align="left"><xref href="using-lastpass.dita" format="dita">Using LastPass Enterprise</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/passwords/password-managers/using-lastpass-enterprise/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>These policies are for technical users:</p>
+              <ul>
+                <li audience="audience-tech"><xref href="account-management.dita" format="dita">Account management</xref></li>
+                <li audience="audience-tech"><xref href="authorisation.dita" format="dita">Authorisation</xref></li>
+                <li audience="audience-tech"><xref href="multi-user-accounts-and-public-facing-service-accounts-guide.dita" format="dita">Multi-user accounts and Public-Facing Service Accounts Guide</xref></li>
+                <li audience="audience-tech"><xref href="password-creation-and-authentication-guide.dita" format="dita">Password Creation and Authentication Guide</xref></li>
+                <li audience="audience-tech"><xref href="password-management-guide.dita" format="dita">Password Management Guide</xref></li>
+                <li audience="audience-tech"><xref href="password-managers.dita" format="dita">Password Managers</xref></li>
+                <li audience="audience-tech"><xref href="passwords.dita" format="dita">Passwords</xref></li>
+                <li audience="audience-tech"><xref href="password-storage-and-management-guide.dita" format="dita">Password Storage and Management Guide</xref></li>
+                <li audience="audience-tech"><xref href="policies-for-google-apps-administrators.dita" format="dita">Policies for Google Apps administrators</xref></li>
+                <li audience="audience-tech"><xref href="policies-for-macbook-administrators.dita" format="dita">Policies for MacBook Administrators</xref></li>
+                <li audience="audience-tech"><xref href="system-users-and-application-administrators.dita" format="dita">System User and Application Administrators</xref></li>
+                <li audience="audience-tech"><xref href="using-lastpass.dita" format="dita">Using LastPass Enterprise</xref></li>
+              </ul>
+            
           </body>
         </topic>
       </topic>
@@ -619,28 +427,15 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="cryptographic-controls">
           <title>Cryptographic controls</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="automated-certificate-renewal.dita" format="dita">Automated certificate renewal</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="cryptography.dita" format="dita" type="topic">Cryptography</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="hmg-cryptography-business-continuity-management-standard.dita" format="dita">HMG Cryptography Business Continuity Management Standard</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="public-key-infrastructure-policy.dita" format="dita">Public Key Infrastructure Policy</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="use-of-hmg-cryptography-policy.dita" format="dita">Use of HMG Cryptography Policy</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>These policies are for technical users:</p>
+              <ul>
+              <li audience="audience-tech"><xref href="automated-certificate-renewal.dita" format="dita">Automated certificate renewal</xref></li>
+              <li audience="audience-tech"><xref href="cryptography.dita" format="dita">Cryptography</xref></li>			
+              <li audience="audience-tech"><xref href="hmg-cryptography-business-continuity-management-standard.dita" format="dita">HMG Cryptography Business Continuity Management Standard</xref></li>
+              <li audience="audience-tech"><xref href="public-key-infrastructure-policy.dita" format="dita">Public Key Infrastructure Policy</xref></li>
+              <li audience="audience-tech"><xref href="use-of-hmg-cryptography-policy.dita" format="dita">Use of HMG Cryptography Policy</xref></li>
+              </ul>
+            
           </body>
         </topic>
       </topic>
@@ -650,71 +445,36 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="secure-areas">
           <title>Secure areas</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="cctv-policy.dita" format="dita">CCTV policy</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="entry-and-exit-search-policy.dita" format="dita">Entry and exit search policy</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" format="dita">Personal mail and parcel delivery policy and procedure</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="physical-security-policy.dita" format="dita">Physical security policy</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="public-protest-and-demonstrations-policy.dita" format="dita">Public protest and demonstrations policy</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="security-in-the-office.dita" format="dita">Security in the office</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="security-threat-level-and-emergency-procedures.dita" format="dita">Security threat level and emergency procedures</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="visitor-access-policy.dita" format="dita">Visitor access policy</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>These policies are for all users:</p>
+              <ul>
+                <li><xref href="cctv-policy.dita" format="dita">CCTV policy</xref></li>
+                <li><xref href="entry-and-exit-search-policy.dita" format="dita">Entry and exit search policy</xref></li>
+                <li><xref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" format="dita">Personal mail and parcel delivery policy and procedure</xref></li>
+                <li><xref href="physical-security-policy.dita" format="dita">Physical security policy</xref></li>
+                <li><xref href="public-protest-and-demonstrations-policy.dita" format="dita">Public protest and demonstrations policy</xref></li>
+                <li><xref href="security-in-the-office.dita" format="dita">Security in the office</xref></li>
+                <li><xref href="security-threat-level-and-emergency-procedures.dita" format="dita">Security threat level and emergency procedures</xref></li>
+                <li><xref href="visitor-access-policy.dita" format="dita">Visitor access policy</xref></li>
+              </ul>
+            
           </body>
         </topic>
         <topic id="equipment">
           <title>Equipment</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="clear-screen-and-desk.dita" format="dita">Clear Screen and Desk Policy</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/clear-screen-and-desk/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="equipment-reassignment-guide.dita" format="dita">Equipment Reassignment Guide</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="laptops.dita" format="dita">Laptops</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/laptops/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="locking-and-shutdown.dita" format="dita">Locking and shutdown</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/laptops/locking-and-shutdown/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="policies-for-macbook-users.dita" format="dita">Policies for MacBook Users</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/macbook/policies-for-macbook-users/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="system-lockdown-and-hardening-standard.dita" format="dita">System Lockdown and Hardening Standard</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>These policies are for all users:</p>
+            <ul>
+              <li><xref href="clear-screen-and-desk.dita" format="dita">Clear Screen and Desk Policy</xref></li>
+              <li><xref href="equipment-reassignment-guide.dita" format="dita">Equipment Reassignment Guide</xref></li>
+              <li><xref href="laptops.dita" format="dita">Laptops</xref></li>
+              <li><xref href="locking-and-shutdown.dita" format="dita">Locking and shutdown</xref></li>
+              <li><xref href="policies-for-macbook-users.dita" format="dita">Policies for MacBook Users</xref></li>
+            </ul>
+            <p audience="audience-tech">This policy is for technical users:</p>
+            <ul audience="audience-tech">
+              <li><xref href="system-lockdown-and-hardening-standard.dita" format="dita">System Lockdown and Hardening Standard</xref></li>
+            </ul>
+            
           </body>
         </topic>
       </topic>
@@ -724,169 +484,89 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="operational-procedures-and-responsibilities" audience="audience-tech">
           <title>Operational procedures and responsibilities</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="mail-check.dita" format="dita">Active Cyber Defence: Mail Check</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="public-sector-dns.dita" format="dita">Active Cyber Defence: Public Sector DNS</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="web-check.dita" format="dita">Active Cyber Defence: Web Check</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="offshoring-guide.dita" format="dita">Offshoring Guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>These policies are for technical users:</p>
+              <ul>
+                <li audience="audience-tech"><xref href="mail-check.dita" format="dita">Active Cyber Defence: Mail Check</xref></li>
+                <li audience="audience-tech"><xref href="public-sector-dns.dita" format="dita">Active Cyber Defence: Public Sector DNS</xref></li>
+                <li audience="audience-tech"><xref href="web-check.dita" format="dita">Active Cyber Defence: Web Check</xref></li>
+                <li audience="audience-tech"><xref href="offshoring-guide.dita" format="dita">Offshoring Guide</xref></li>
+              </ul>
+            
           </body>
         </topic>
         <topic id="protection-from-malware" audience="audience-basic audience-tech">
           <title>Protection from malware</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide (Overview)</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="malware-protection-guidance-defensive-layer-1.dita" format="dita">Malware Protection Guide: Defensive Layer 1</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="malware-protection-guidance-defensive-layer-2.dita" format="dita">Malware Protection Guide: Defensive Layer 2</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="malware-protection-guidance-defensive-layer-3.dita" format="dita">Malware Protection Guide: Defensive Layer 3</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="ransomware.dita" format="dita">Ransomware</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p audience="audience-tech">These policies are for technical users:</p>
+            <ul audience="audience-tech">
+              <li audience="audience-tech"><xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide (Overview)</xref></li>
+              <li audience="audience-tech"><xref href="malware-protection-guidance-defensive-layer-1.dita" format="dita">Malware Protection Guide: Defensive Layer 1</xref></li>
+              <li audience="audience-tech"><xref href="malware-protection-guidance-defensive-layer-2.dita" format="dita">Malware Protection Guide: Defensive Layer 2</xref></li>
+              <li audience="audience-tech"><xref href="malware-protection-guidance-defensive-layer-3.dita" format="dita">Malware Protection Guide: Defensive Layer 3</xref></li>
+            </ul>
+            <p>This policy is for all users:</p>
+            <ul>
+              <li><xref href="ransomware.dita" format="dita">Ransomware</xref></li>
+            </ul>
+            
           </body>
         </topic>
         <topic id="backup" audience="audience-tech">
           <title>Backup</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="system-backup-guidance.dita" format="dita">System backup guidance</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="system-backup-policy.dita" format="dita">System backup policy</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="system-backup-standard.dita" format="dita">System backup standard</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p audience="audience-tech">These policies are for technical users:</p>
+            <ul>
+              <li><xref href="system-backup-guidance.dita" format="dita">System backup guidance</xref></li>
+              <li><xref href="system-backup-policy.dita" format="dita">System backup policy</xref></li>
+              <li><xref href="system-backup-standard.dita" format="dita">System backup standard</xref></li>
+            </ul>
+            
           </body>
         </topic>
         <topic id="logging-and-monitoring" audience="audience-tech">
           <title>Logging and monitoring</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="accounting.dita" format="dita" type="topic">Accounting</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="cots-applications.dita" format="dita">Commercial off-the-shelf applications</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="custom-applications.dita" format="dita">Custom Applications</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="logging-and-monitoring.dita" format="dita">Logging and monitoring</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="online-identifiers.dita" format="dita">Online identifiers in security logging and monitoring</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="protective-monitoring.dita" format="dita">Protective Monitoring</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="security-log-collection.dita" format="dita">Security Log Collection</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="enterprise-it-infrastructure.dita" format="dita">Security Log Collection: Enterprise IT - Infrastructure</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="enterprise-it-mobile-devices.dita" format="dita">Security Log Collection: Enterprise IT - Mobile Devices</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="hosting-platforms.dita" format="dita">Security Log Collection: Hosting Platforms</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="log-entry-metadata.dita" format="dita">Security Log Collection: Log entry metadata</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="security-log-collection-maturity-tiers.dita" format="dita">Security Log Collection: Maturity Tiers</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p audience="audience-tech">These policies are for technical users:</p>
+            <ul>
+              <li><xref href="accounting.dita" format="dita" type="topic">Accounting</xref></li>
+              <li><xref href="cots-applications.dita" format="dita">Commercial off-the-shelf applications</xref></li>
+              <li><xref href="custom-applications.dita" format="dita">Custom Applications</xref></li>
+              <li><xref href="logging-and-monitoring.dita" format="dita">Logging and monitoring</xref></li>
+              <li><xref href="online-identifiers.dita" format="dita">Online identifiers in security logging and monitoring</xref></li>
+              <li><xref href="protective-monitoring.dita" format="dita">Protective Monitoring</xref></li>
+              <li><xref href="security-log-collection.dita" format="dita">Security Log Collection</xref></li>
+              <li><xref href="enterprise-it-infrastructure.dita" format="dita">Security Log Collection: Enterprise IT - Infrastructure</xref></li>
+              <li><xref href="enterprise-it-mobile-devices.dita" format="dita">Security Log Collection: Enterprise IT - Mobile Devices</xref></li>
+              <li><xref href="hosting-platforms.dita" format="dita">Security Log Collection: Hosting Platforms</xref></li>
+              <li><xref href="log-entry-metadata.dita" format="dita">Security Log Collection: Log entry metadata</xref></li>
+              <li><xref href="security-log-collection-maturity-tiers.dita" format="dita">Security Log Collection: Maturity Tiers</xref></li>
+
+            </ul>
+            
           </body>
         </topic>
         <topic id="control-of-operational-software">
           <title>Control of operational software</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/open-internet-tools/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>This policy is for all users:</p>
+            <ul>
+              <li><xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref></li>
+            </ul>
+            
           </body>
         </topic>
         <topic id="technical-vulnerability-management" audience="audience-tech">
           <title>Technical vulnerability management</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="patch-management-guide.dita" format="dita">Patch management guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <!--
-              <row>
-                <entry colname="col1" align="left"><image conref="conrefs.dita#conrefs/intraneticon"/> <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/patch-management-standard/" format="html" scope="external">Patch Management Standard</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              -->
-              <row>
-                <entry colname="col1" align="left"><xref href="vulnerability-disclosure-policy.dita" format="dita">Vulnerability Disclosure</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="implement-security-txt.dita" format="dita">Vulnerability Disclosure: Implementing <codeph>security.txt</codeph></xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="vulnerability-scanning-and-patch-management-guide.dita" format="dita">Vulnerability scanning and patch management guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="vulnerability-scanning-guide.dita" format="dita">Vulnerability scanning guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p audience="audience-tech">These policies are for technical users:</p>
+            <ul>
+              <li><xref href="patch-management-guide.dita" format="dita">Patch management guide</xref></li>
+              <li><xref href="vulnerability-disclosure-policy.dita" format="dita">Vulnerability Disclosure</xref></li>
+              <li><xref href="implement-security-txt.dita" format="dita">Vulnerability Disclosure: Implementing <codeph>security.txt</codeph></xref></li>
+              <li><xref href="vulnerability-scanning-and-patch-management-guide.dita" format="dita">Vulnerability scanning and patch management guide</xref></li>
+              <li><xref href="vulnerability-scanning-guide.dita" format="dita">Vulnerability scanning guide</xref></li>              
+            </ul>
+            
           </body>
         </topic>
 <!--
@@ -901,111 +581,46 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="network-security-management" audience="audience-tech">
           <title>Network security management</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="code-of-connection-standard.dita" format="dita">Code of Connection Standard</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="defensive-domain-registration.dita" format="dita">Defensive domain registrations</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="domain-names-policy.dita" format="dita">Domain names and Domain Name System (DNS) security policy</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="internet-v-psn.dita" format="dita">Internet v. PSN</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="ip-dns-diagram-handling.dita" format="dita">IP DNS Diagram Handling</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="multiple-consecutive-back-to-back-firewalls.dita" format="dita">Multiple Back-to-back Consecutive Firewalls</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="networks-bearers-not-trust.dita" format="dita">Networks are just bearers</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p audience="audience-tech">These policies are for technical users:</p>
+            <ul>
+            <li><xref href="code-of-connection-standard.dita" format="dita">Code of Connection Standard</xref></li>
+            <li><xref href="defensive-domain-registration.dita" format="dita">Defensive domain registrations</xref></li>
+            <li><xref href="domain-names-policy.dita" format="dita">Domain names and Domain Name System (DNS) security policy</xref></li>
+            <li><xref href="internet-v-psn.dita" format="dita">Internet v. PSN</xref></li>
+            <li><xref href="ip-dns-diagram-handling.dita" format="dita">IP DNS Diagram Handling</xref></li>
+            <li><xref href="multiple-consecutive-back-to-back-firewalls.dita" format="dita">Multiple Back-to-back Consecutive Firewalls</xref></li>
+            <li><xref href="networks-bearers-not-trust.dita" format="dita">Networks are just bearers</xref></li>
+            </ul>
+            
           </body>
         </topic>
         <topic id="information-transfer">
           <title>Information transfer</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="bluetooth.dita" format="dita" type="topic">Bluetooth</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/bluetooth/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="cjsm.dita" format="dita">Criminal Justice Secure Mail (CJSM)</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="data-sovereignty.dita" format="dita">Data Sovereignty</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="email.dita" format="dita">Email</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/email/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-							<row audience="audience-tech">
-								<entry colname="col1" align="left"><xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref></entry>
-								<entry colname="col2" align="right">Technical users</entry>
-							</row>
-				<row audience="audience-tech">
-					<entry colname="col1" align="left"><xref href="email-blocklist-policy.dita" format="dita">Email Blocklist Policy</xref></entry>
-					<entry colname="col2" align="right">Technical users</entry>
-				</row>
-				<row audience="audience-tech">
-					<entry colname="col1" align="left"><xref href="email-blocklist-process.dita" format="dita">Email Blocklist Process</xref></entry>
-					<entry colname="col2" align="right">Technical users</entry>
-				</row>
-							<row audience="audience-tech">
-								<entry colname="col1" align="left"><xref href="email-security-guide.dita" format="dita">Email Security Guide</xref></entry>
-								<entry colname="col2" align="right">Technical users</entry>
-							</row>
-              <row>
-                <entry colname="col1" align="left"><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita" type="topic">General Apps Guidance</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/apps/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="phishing-guide.dita" format="dita">Phishing Guide</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="protecting-whatsapp-accounts.dita" format="dita" type="topic">Protecting WhatsApp accounts</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="secure-data-transfer-guide.dita" format="dita">Secure Data Transfer Guide</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="sending-information-securely.dita" format="dita">Sending information securely</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="spam-and-phishing-guide.dita" format="dita">Spam and Phishing Guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="web-browsing-security-policy-profiles.dita" format="dita" type="topic">Web browsing security policy profiles</xref></entry>
-                <entry colname="col2" align="right">All users (Policy)</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="wifi-security-policy.dita" format="dita" type="topic">Wifi security policy</xref></entry>
-                <entry colname="col2" align="right">All users (Policy)</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>These policies are for all users:</p>
+            <ul>
+              <li><xref href="bluetooth.dita" format="dita" type="topic">Bluetooth</xref></li>
+              <li><xref href="email.dita" format="dita">Email</xref></li>
+              <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita" type="topic">General Apps Guidance</xref></li>
+              <li><xref href="phishing-guide.dita" format="dita">Phishing Guide</xref></li>
+              <li><xref href="protecting-whatsapp-accounts.dita" format="dita" type="topic">Protecting WhatsApp accounts</xref></li>
+              <li><xref href="secure-data-transfer-guide.dita" format="dita">Secure Data Transfer Guide</xref></li>
+              <li><xref href="sending-information-securely.dita" format="dita">Sending information securely</xref></li>
+              <li><xref href="web-browsing-security-policy-profiles.dita" format="dita" type="topic">Web browsing security policy profiles</xref></li>
+              <li><xref href="wifi-security-policy.dita" format="dita" type="topic">Wifi security policy</xref></li>
+
+            </ul>
+            <p audience="audience-tech">These polices are for technical users:</p>
+            <ul audience="audience-tech">
+              <li><xref href="cjsm.dita" format="dita">Criminal Justice Secure Mail (CJSM)</xref></li>
+              <li><xref href="data-sovereignty.dita" format="dita">Data Sovereignty</xref></li>
+              <li><xref href="email-authentication-guide.dita" format="dita">Email Authentication Guide</xref></li>
+              <li><xref href="email-blocklist-policy.dita" format="dita">Email Blocklist Policy</xref></li>
+              <li><xref href="email-blocklist-process.dita" format="dita">Email Blocklist Process</xref></li>
+              <li><xref href="email-security-guide.dita" format="dita">Email Security Guide</xref></li>
+              <li><xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref></li>
+            </ul>
+            
           </body>
         </topic>
       </topic>
@@ -1015,54 +630,36 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="security-requirements-of-information-systems">
           <title>Security requirements of information systems</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="technical-security-controls-guide.dita" format="dita">Technical Security Controls Guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="technical-security-controls-guide-defensive-layer-1.dita" format="dita">Technical Security Controls Guide: Defensive Layer 1</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="technical-security-controls-guide-defensive-layer-2.dita" format="dita">Technical Security Controls Guide: Defensive Layer 2</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p audience="audience-tech">These policies are for technical users:</p>
+            <ul>
+              <li><xref href="technical-security-controls-guide.dita" format="dita">Technical Security Controls Guide</xref></li>
+              <li><xref href="technical-security-controls-guide-defensive-layer-1.dita" format="dita">Technical Security Controls Guide: Defensive Layer 1</xref></li>
+              <li><xref href="technical-security-controls-guide-defensive-layer-2.dita" format="dita">Technical Security Controls Guide: Defensive Layer 2</xref></li>
+            </ul>
+            
           </body>
         </topic>
         <topic id="security-in-development-and-support-processes">
           <title>Security in development and support processes</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="maintained-by-default.dita" format="dita">Maintained by Default</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="secure-by-default.dita" format="dita">Secure by Default</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="source-code-publishing.dita" format="dita">Source Code Publishing</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="system-test-standard.dita" format="dita">System Test Standard</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p audience="audience-tech">These policies are for technical users:</p>
+            <ul>
+              <li><xref href="maintained-by-default.dita" format="dita">Maintained by Default</xref></li>
+              <li><xref href="secure-by-default.dita" format="dita">Secure by Default</xref></li>
+              <li><xref href="source-code-publishing.dita" format="dita">Source Code Publishing</xref></li>
+              <li><xref href="system-test-standard.dita" format="dita">System Test Standard</xref></li>
+            </ul>
+            
           </body>
         </topic>
         <topic id="test-data">
           <title>Test data</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="using-live-data-for-testing-purposes.dita" format="dita">Using Live Data for Testing purposes</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p audience="Audience-tech">This policy is for technical users:</p>
+            <ul>
+            <li><xref href="using-live-data-for-testing-purposes.dita" format="dita">Using Live Data for Testing purposes</xref></li>
+            </ul>
+            
           </body>
         </topic>
       </topic>
@@ -1072,43 +669,26 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="information-security-in-supplier-relationships">
           <title>Information security in supplier relationships</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="assessing-suppliers.dita" format="dita">Suppliers to <ph conref="conrefs.dita#conrefs/moj"/>: Assessing Suppliers</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="contracts.dita" format="dita">Suppliers to <ph conref="conrefs.dita#conrefs/moj"/>: Contracts</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="security-aspect-letters.dita" format="dita">Suppliers to <ph conref="conrefs.dita#conrefs/moj"/>: Security Aspect Letters</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="supplier-corporate-it.dita" format="dita">Suppliers to <ph conref="conrefs.dita#conrefs/moj"/>: Supplier Corporate IT</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p audience="audience-tech">These policies are for technical users:</p>
+            <ul>
+              <li><xref href="assessing-suppliers.dita" format="dita">Suppliers to <ph conref="conrefs.dita#conrefs/moj"/>: Assessing Suppliers</xref></li>
+              <li><xref href="contracts.dita" format="dita">Suppliers to <ph conref="conrefs.dita#conrefs/moj"/>: Contracts</xref></li>
+              <li><xref href="security-aspect-letters.dita" format="dita">Suppliers to <ph conref="conrefs.dita#conrefs/moj"/>: Security Aspect Letters</xref></li>
+              <li><xref href="supplier-corporate-it.dita" format="dita">Suppliers to <ph conref="conrefs.dita#conrefs/moj"/>: Supplier Corporate IT</xref></li>
+            </ul>
+            
           </body>
         </topic>
         <topic id="supplier-service-delivery-management">
           <title>Supplier service delivery management</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="azure-account-baseline-templates.dita" format="dita">Azure Account Baseline Templates</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="baseline-aws-accounts.dita" format="dita">Baseline for Amazon Web Services accounts</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="baseline-for-azure-accounts.dita" format="dita">Baseline for Azure Subscriptions</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p audience="audience-tech">These policies are for technical users:</p>
+            <ul>
+              <li><xref href="azure-account-baseline-templates.dita" format="dita">Azure Account Baseline Templates</xref></li>
+              <li><xref href="baseline-aws-accounts.dita" format="dita">Baseline for Amazon Web Services accounts</xref></li>
+              <li><xref href="baseline-for-azure-accounts.dita" format="dita">Baseline for Azure Subscriptions</xref></li>
+            </ul>
+            
           </body>
         </topic>
       </topic>
@@ -1118,42 +698,20 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="management-of-information-security-incidents-and-lost-devices">
           <title>Management of information security incidents and lost devices</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="forensic-principles.dita" format="dita">Forensic Principles</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="forensic-readiness-guide.dita" format="dita">Forensic Readiness Guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="forensic-readiness-policy.dita" format="dita">Forensic Readiness Policy</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="incident-management-plan-and-process-guide.dita" format="dita">Incident Management Plan and Process Guide</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="lost-devices-incidents.dita" format="dita">Lost devices or other IT security incidents</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/incident-management/lost-devices/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <!--
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="moj-forensic-readiness-policy.dita" format="dita"><ph conref="conrefs.dita#conrefs/moj"/> Forensic Readiness Policy</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              -->
-              <row>
-                <entry colname="col1" align="left"><xref href="reporting-an-incident.dita" format="dita">Reporting an incident</xref></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>These policies are for all users:</p>
+            <ul>
+              <li><xref href="lost-devices-incidents.dita" format="dita">Lost devices or other IT security incidents</xref></li>
+              <li><xref href="reporting-an-incident.dita" format="dita">Reporting an incident</xref></li>
+            </ul>
+            <p audience="audience-tech">These policies are for technical users:</p>
+            <ul audience="audience-tech">
+              <li><xref href="forensic-principles.dita" format="dita">Forensic Principles</xref></li>
+              <li><xref href="forensic-readiness-guide.dita" format="dita">Forensic Readiness Guide</xref></li>
+              <li><xref href="forensic-readiness-policy.dita" format="dita">Forensic Readiness Policy</xref></li>
+              <li><xref href="incident-management-plan-and-process-guide.dita" format="dita">Incident Management Plan and Process Guide</xref></li>
+              <li><xref href="lost-devices-incidents.dita" format="dita">Lost devices or other IT security incidents</xref></li>
+            </ul>
+            
           </body>
         </topic>
       </topic>
@@ -1163,16 +721,12 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="information-security-continuity">
           <title>Information security continuity</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="it-disaster-recovery-plan-and-process-guide.dita" format="dita">IT Disaster Recovery Plan and Process Guide</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-disaster-recovery-plan-and-process-guide/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="it-disaster-recovery-policy.dita" format="dita">IT Disaster Recovery Policy</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p audience="audience-tech">These policies are for technical users:</p>
+            <ul>
+              <li><xref href="it-disaster-recovery-plan-and-process-guide.dita" format="dita">IT Disaster Recovery Plan and Process Guide</xref></li>
+              <li><xref href="it-disaster-recovery-policy.dita" format="dita">IT Disaster Recovery Policy</xref></li>
+            </ul>
+            
           </body>
         </topic>
 				<!--
@@ -1187,55 +741,34 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="compliance-with-legal-and-contractual-requirements">
           <title>Compliance with legal and contractual requirements</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="data-destruction.dita" format="dita">Data Destruction</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="data-destruction-contract-clauses-definitions.dita" format="dita">Data Destruction: Contract Clauses - Definitions</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="data-destruction-contract-clauses-long-format.dita" format="dita">Data Destruction: Contract Clauses - Long Format</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="data-destruction-contract-clauses-long-format-appendix.dita" format="dita">Data Destruction: Contract Clauses - Long Format (Appendix)</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="data-destruction-contract-clauses-short-format.dita" format="dita">Data Destruction: Contract Clauses - Short Format</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="data-destruction-instruction-and-confirmation-letter.dita" format="dita">Data Destruction: Instruction and Confirmation Letter</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="data-security-and-privacy.dita" format="dita">Data Security and Privacy</xref><!--<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/data-security-privacy/history" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="data-security-and-privacy-lifecycle.dita" format="dita">Data Security &amp; Privacy Lifecycle Expectations</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="data-security-and-privacy-triage-standards.dita" format="dita">Data Security &amp; Privacy Triage Standards</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>This policy is for all users:</p>
+            <ul>
+            <li><xref href="data-security-and-privacy.dita" format="dita">Data Security and Privacy</xref></li>
+            </ul>
+
+            <p audience="audience-tech">These policies are for technical users:</p>
+            <ul audience="audience-tech">
+              <li><xref href="data-destruction.dita" format="dita">Data Destruction</xref></li>
+              <li><xref href="data-destruction-contract-clauses-definitions.dita" format="dita">Data Destruction: Contract Clauses - Definitions</xref></li>
+              <li><xref href="data-destruction-contract-clauses-long-format.dita" format="dita">Data Destruction: Contract Clauses - Long Format</xref></li>
+              <li><xref href="data-destruction-contract-clauses-long-format-appendix.dita" format="dita">Data Destruction: Contract Clauses - Long Format (Appendix)</xref></li>
+              <li><xref href="data-destruction-contract-clauses-short-format.dita" format="dita">Data Destruction: Contract Clauses - Short Format</xref></li>
+              <li><xref href="data-destruction-instruction-and-confirmation-letter.dita" format="dita">Data Destruction: Instruction and Confirmation Letter</xref></li>
+              <li><xref href="data-security-and-privacy-lifecycle.dita" format="dita">Data Security &amp; Privacy Lifecycle Expectations</xref></li>
+              <li><xref href="data-security-and-privacy-triage-standards.dita" format="dita">Data Security &amp; Privacy Triage Standards</xref></li>
+            </ul>
+
+            
           </body>
         </topic>
         <topic id="information-security-reviews" audience="audience-tech">
           <title>Information security reviews</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="standards-assurance-tables.dita" format="dita">Standards Assurance Tables</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>This policy is for technical users:</p>
+            <ul>
+              <li><xref href="standards-assurance-tables.dita" format="dita">Standards Assurance Tables</xref></li>
+            </ul>
+            
           </body>
         </topic>
       </topic>
@@ -1245,31 +778,24 @@ to ensure that an organisation can create and maintain a good cyber security cul
         <topic id="risk-management" audience="audience-tech">
           <title>Risk Management</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="infrastructure-system-accreditation.dita" format="dita">Infrastructure and system accreditation</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-				      <row>
-                <entry colname="col1" align="left"><xref href="ost/ithc.md" format="markdown">IT Health Checks</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-				      <row>
-                <entry colname="col1" align="left"><xref href="ost/test-cancellations-and-delays.md" format="markdown">IT Health Check - Test cancellations and delays</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>These policies are for technical users:</p>
+            <ul>
+              <li><xref href="infrastructure-system-accreditation.dita" format="dita">Infrastructure and system accreditation</xref></li>
+              <li><xref href="ost/ithc.md" format="markdown">IT Health Checks</xref></li>
+              <li><xref href="ost/test-cancellations-and-delays.md" format="markdown">IT Health Check - Test cancellations and delays</xref></li>
+            </ul>
+            
           </body>
         </topic>
         <topic id="risk-assessment-process">
           <title>Risk Assessment Process</title>
           <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="risk-reviews.dita" format="dita">Risk reviews</xref><!-- (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/risk-reviews/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)--></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-            </tbody></tgroup></table>
+            <p>This policy is for all users:</p>
+            <ul>
+              <li><xref href="risk-reviews.dita" format="dita">Risk reviews</xref></li>
+            </ul>
+            
+            
           </body>
         </topic>
       </topic>
@@ -1291,7 +817,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
     <topic id="glossary">
       <title>Glossary</title>
       <body>
-        <p>A glossary of some terms used in this guidance is available <xref href="glossary.dita" format="dita">here</xref>.</p>
+        <p><xref href="glossary.dita" format="dita">A glossary of some of the terms used in this guidance is available here</xref></p>
       </body>
     </topic>
     <topic id="acronyms">
