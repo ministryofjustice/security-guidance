@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2022-12-15-13:03-gmt-[service-owner-responsibilities](https:-security-guidance.service.justice.gov.uk-service-owner-responsibilities-)"></a>
+
+-   **2022-12-15 13:03 GMT [Service Owner Responsibilities](https://security-guidance.service.justice.gov.uk/service-owner-responsibilities/)**
+
+    Addition of Service Owner Responsibilities policy.
+
 <a name="2022-10-27-15:17-bst-[updated-landing-page](https:-security-guidance.service.justice.gov.uk-)"></a>
 
 -   **2022-10-27 15:17 BST [Updated landing page](https://security-guidance.service.justice.gov.uk/)**

@@ -15,7 +15,11 @@ Technical users may be:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 12 December 2022.
+**Note:** This guidance is dated: 15 December 2022.
+
+## What's New
+
+Updates to this page include:
 
 -   a change to the layout and structure to make it easier to find the policy you're looking for
 -   [a new policy document describing the responsibilities of Service Owners](service-owner-responsibilities.md)
@@ -59,7 +63,11 @@ The documents have been developed and defined within this taxonomy, and are list
 
 These are the policies for all users:
 
-The offline versions of this guidance are time-limited, and are not valid after 12 January 2023.
+-   [Avoiding too much security](setecastronomy.md)
+-   [IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](identify-protect-detect-respond-recover.md)
+-   [IT Security All Users Policy](it-security-all-users-policy.md)
+-   [IT Security Policy \(Overview\)](it-security-policy-overview.md)
+-   [Line Manager approval](line-manager-approval.md)
 
 These are the policies for technical users:
 
@@ -476,7 +484,7 @@ Technical users. Contains detailed technical information, together with all user
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 9 January 2023.
+The offline versions of this guidance are time-limited, and are not valid after 15 January 2023.
 
 #### Other Guidance
 
