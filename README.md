@@ -86,6 +86,8 @@ in a pull request, no matter how minor, and we've enabled [branch protection][] 
 
 [branch protection]: https://help.github.com/articles/about-protected-branches/
 
+Remember, all commits must be signed.
+
 ## Publishing on the Intranet
 
 Every time a build run takes place, a working copy of the
