@@ -34,7 +34,13 @@ Information about contributing is provided [here](#making-changes).
 
 ## Getting started
 
-To preview the site locally, we need to use the terminal.
+Information about setting up the build environment,
+and building content,
+is [here](buildUtils/BuildEnvironment.md).
+
+You must set up the build environment to work with this repository.
+
+To preview the site locally, after it is built, we need to use the terminal.
 
 Install Ruby and [Bundler][bundler], preferably with a [Ruby version
 manager][rbenv].
