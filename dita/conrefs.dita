@@ -47,6 +47,7 @@
 			<ph id="groupsecurityemailtext"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="html" scope="external"><ph conref="#conrefs/moj"/> Group Security</xref></ph>
 			<ph id="gsuite">Google Workspace</ph>
 			<ph id="helpdesk"><ph conref="#conrefs/servicedesk"/></ph>
+			<ph id="helpdesknumber"><ph conref="#conrefs/servicedesk"/> (<ph conref="#conrefs/servicedesknumber"/>)</ph>
 			<ph id="higherclassification">If you are working with information or documentation higher than the <ph conref="#conrefs/official"/> classification level, contact <ph conref="#conrefs/groupsecurityemailtext"/> for specific guidance.</ph>
 			<ph id="hmggovernmentsecurityclassifications"><xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">HMG Government Security Classifications Policy</xref></ph>
 			<ph id="icolong">Information Commissioner's Office (<ph conref="#conrefs/ico"/>)</ph>
@@ -296,6 +297,13 @@
 		<title>Contact details</title>
 		<body>
 			<p>For any further questions or advice relating to security, contact: <ph conref="#conrefs/securityemail"/>.</p>
+		</body>
+	</topic>
+
+	<topic id="contact-details-helpdesk">
+		<title>Contact details</title>
+		<body>
+			<p>For any further questions or advice, contact <ph conref="conrefs.dita#conrefs/helpdesknumber"/>.</p>
 		</body>
 	</topic>
 

@@ -219,7 +219,7 @@ Every 12 months the COMSO will inspect the arrangements for sites locally storin
 ## References
 
 |ID|Title|Version / Issue|
-|--|-----|---------------|
+|---|-----|---------------|
 |1|IT Security Policy|V1-00|
 |2|HMG IS4 - Management of Cryptographic Systems|Issue 5.1, Apr 2011|
 |3|HMG IS4 - Supplement No.7 - Accounting of Cryptographic Items|Issue 1.0, Apr 2011|

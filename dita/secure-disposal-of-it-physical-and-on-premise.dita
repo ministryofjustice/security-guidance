@@ -38,8 +38,8 @@
     <p>The following organisations are approved to help you with
       secure disposal of equipment:
       <ul>
-        <li>Euro-Recycling (contact via <ph conref="conrefs.dita#conrefs/securityemailtext"/>)</li>
-        <li>Data Eliminate (contact via <ph conref="conrefs.dita#conrefs/securityemailtext"/>)</li>
+        <li>Euro-Recycling - contact via <ph conref="conrefs.dita#conrefs/helpdesknumber"/>.</li>
+        <li>Data Eliminate - contact via <ph conref="conrefs.dita#conrefs/helpdesknumber"/>.</li>
       </ul>
    </p>
   </body>
@@ -97,9 +97,9 @@
           then only the key needs to be deleted or erased,
           and the table does not need to be followed.</note>
         <p>If the table does not cover your exact requirement,
-      contact security: <ph conref="conrefs.dita#conrefs/securityemail"/></p>
+      contact <ph conref="conrefs.dita#conrefs/helpdesknumber"/>.</p>
     <note importance="high">When disposing of <ph conref="conrefs.dita#conrefs/secret"/> or <ph conref="conrefs.dita#conrefs/top-secret"/> equipment or materials,
-      always contact security: <ph conref="conrefs.dita#conrefs/securityemail"/></note>
+      always contact <ph conref="conrefs.dita#conrefs/helpdesknumber"/>.</note>
     <table>
       <tgroup cols="3">
         <colspec colname="col1" colnum="1" colwidth="1*"/>
@@ -228,7 +228,7 @@
     <title>Transporting data between sites securely</title>
     <body>
     <p>If you have any concerns about moving items between sites securely,
-      contact security: <ph conref="conrefs.dita#conrefs/securityemail"/></p>
+      contact <ph conref="conrefs.dita#conrefs/helpdesknumber"/>.</p>
     <p>Guidance on the transportation of secure data is located in the CPNI guidance:
       <q><xref href="https://www.cpni.gov.uk/system/files/documents/c5/e1/2017_01_20_CPNI_Secure_Destruction_Standard.pdf"
         format="pdf" scope="external">10. Transport of sensitive items</xref></q>.</p>
@@ -238,6 +238,6 @@
     <p></p>
     </body>
   </topic>
-  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details-helpdesk"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>
