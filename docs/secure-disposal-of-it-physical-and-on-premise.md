@@ -23,10 +23,7 @@ However, other devices across the MoJ estate might have been procured and manage
 
 ## Approved organisations
 
-The following organisations are approved to help you with secure disposal of equipment:
-
--   Euro-Recycling - contact via IT Service Desk \(0800 917 5148\).
--   Data Eliminate - contact via IT Service Desk \(0800 917 5148\).
+For help to arrange secure disposal by an approved organisation, contact IT Service Desk \(0800 917 5148\).
 
 ## NCSC and CPNI on Secure Disposal
 
