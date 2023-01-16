@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2023-01-10-18:04-gmt-[updated-contact-details-for-secure-disposal](https:-security-guidance.service.justice.gov.uk-secure-disposal-of-it-physical-and-on-premise-)"></a>
+
+-   **2023-01-10 18:04 GMT [Updated contact details for secure disposal](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-physical-and-on-premise/)**
+
+    When seeking help for secure disposal, contact IT Service Desk in the first instance.
+
 <a name="2022-10-19-14:34-bst-[updated-project-readme](https:-security-guidance.service.justice.gov.uk-)"></a>
 
 -   **2022-10-19 14:34 BST [Updated project README](https://security-guidance.service.justice.gov.uk/)**

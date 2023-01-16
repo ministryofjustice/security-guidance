@@ -1,3 +1,5 @@
+# vetting and clearance policy
+
 **Vetting and Clearance Policy**
 
 Information Security - HMCTS
@@ -41,7 +43,7 @@ Version 1.0 – 2nd June 2021
 ## Authorisation
 
 |Version|Name|17|Approval Date|
-|-------|----|--|-------------|
+|-------|----|---|-------------|
 |1.0|Mahbubul Islam|HMCTS CISO|02/06/2021|
 |||||
 |||||
