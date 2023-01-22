@@ -71,6 +71,7 @@
           <li>Make connection sessions longer. This is where you allow sessions and tokens to last for a longer period, such as 30 days instead of 7. These longer sessions are enabled only they take place from predictable and 'known' locations.</li>
         </ul>
       </p>
+      <p>This <xref href="https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20" format="html" scope="external">Medium article</xref> provides more details regarding IP address access control lists. </p>
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
