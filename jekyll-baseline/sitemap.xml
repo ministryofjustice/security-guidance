@@ -8,30 +8,45 @@
 
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/</loc>
-  <lastmod>2023-01-10T18:04:00+00:00</lastmod>
+  <lastmod>2023-01-22T17:41:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/</loc>
-  <lastmod>2023-01-10T18:04:00+00:00</lastmod>
+  <lastmod>2023-01-22T17:41:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance.pdf</loc>
-  <lastmod>2023-01-10T18:04:00+00:00</lastmod>
+  <lastmod>2023-01-22T17:41:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-gs.pdf</loc>
-  <lastmod>2023-01-10T18:04:00+00:00</lastmod>
+  <lastmod>2023-01-22T17:41:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-tech.pdf</loc>
-  <lastmod>2023-01-10T18:04:00+00:00</lastmod>
+  <lastmod>2023-01-22T17:41:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/reporting-an-incident/</loc>
+  <lastmod>2023-01-22T17:41:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/authorisation/</loc>
+  <lastmod>2023-01-22T17:41:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/training-and-education/</loc>
+  <lastmod>2023-01-22T17:41:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-physical-and-on-premise/</loc>
   <lastmod>2023-01-10T18:04:00+00:00</lastmod>
@@ -408,11 +423,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/reporting-an-incident/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/setecastronomy/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
@@ -499,11 +509,6 @@
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/reporting-personal-circumstance-changes/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/training-and-education/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -614,11 +619,6 @@
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/account-management/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/authorisation/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>

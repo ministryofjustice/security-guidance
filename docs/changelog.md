@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2023-01-22-17:41-gmt-[updated-authorisation-information](https:-security-guidance.service.justice.gov.uk-authorisation-)"></a>
+
+-   **2023-01-22 17:41 GMT [Updated authorisation information](https://security-guidance.service.justice.gov.uk/authorisation/)**
+
+    More details on implementing defensive depth and dealing with external IP addresses.
+
 <a name="2023-01-10-18:04-gmt-[updated-contact-details-for-secure-disposal](https:-security-guidance.service.justice.gov.uk-secure-disposal-of-it-physical-and-on-premise-)"></a>
 
 -   **2023-01-10 18:04 GMT [Updated contact details for secure disposal](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-physical-and-on-premise/)**

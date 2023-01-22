@@ -26,13 +26,44 @@ This allows IAM accounts to be grouped based on role and purpose. This avoids in
 
 Where possible, IAM Roles should be used.
 
-## IP addresses
+## Maintain IP address lists
 
-IP addresses in and of themselves do not constitute authentication but may be considered a minor authentication *indicator* when combined with other authentication and authorisation techniques.
+Where applicable, maintain a single source of truth with meaningful labels to describe each IP address range.
 
-For example, traffic originating from a perceived known IP address/range does not automatically mean it is the perceived user\(s\) however it could be used as an indicator to *reduce* \(not eliminate\) how often [MFA](multi-factor-authentication-mfa-guide.md) is requested *within* an existing session.
+The use of infrastructure as code to both store and apply IP address lists helps reduce errors, and aids with change management.
 
-H/T [https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20](https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20)
+Where practical, periodically check the IP addresses with the team responsible for those IP addresses, to cater for upcoming changes in IP spacing or change of use or scope.
+
+## Implement defensive depth
+
+When you depend less on IP addresses as a filtration method, other activities become more important. These include:
+
+-   Monitor accesses and activity.
+-   Log accesses and activity.
+-   Perform actual authentication, using techniques such as:
+    -   Use of client certificates.
+    -   'Magic' links.
+    -   Usernames and passwords.
+    -   Single or same sign-on.
+    -   [Multi-factor authentication \(MFA\)](multi-factor-authentication-mfa-guide.md).
+-   Including defences against denial-of-service attacks, brute force attempts, and credential stuffing.
+
+## External IP addresses
+
+External IP address access control lists are useful as part of a wider set of controls.
+
+Introducing external IP address access control lists \(ACLs\) can filter out tertiary noise. Ensure that your use cases are rigorous, and that other defensive and authentication, authorisation, and accounting \(AAA\) measures are in place. This helps ensure protection from random port scans or brute force attempts.
+
+Two real-life examples are:
+
+-   Reducing MFA prompts. Do this by ensuring that corporate and staff wifi is appropriately access controlled. This includes having a clear egress range of IP addresses. It is important also to analyse and use the proximity probability of individuals and devices.
+-   Make connection sessions longer. This is where you allow sessions and tokens to last for a longer period, such as 30 days instead of 7. These longer sessions are enabled only they take place from predictable and 'known' locations.
+
+This [Medium article](https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20) provides more details regarding IP address access control lists.
+
+## Contact details
+
+For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 
