@@ -25,13 +25,10 @@ In summary, as a minimum everyone **shall**:
 
 Normally, this training **shall** be completed successfully before accessing MoJ information, resources, or assets.
 
-## Further information
-
-More details are provided to staff on the MoJ Intranet, [https://intranet.justice.gov.uk/](https://intranet.justice.gov.uk/).
 
 ## Contact details
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+For any further questions or advice relating to security or security training, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 
