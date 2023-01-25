@@ -32,12 +32,48 @@
     </body>
   </topic>
   <topic id="ip-addresses" audience="audience-tech">
-    <title>IP addresses</title>
+    <title>Maintain IP address lists</title>
     <body>
-      <p>IP addresses in and of themselves do not constitute authentication but may be considered a minor authentication <i>indicator</i> when combined with other authentication and authorisation techniques.</p>
-      <p>For example, traffic originating from a perceived known IP address/range does not automatically mean it is the perceived user(s) however it could be used as an indicator to <i>reduce</i> (not eliminate) how often <xref href="multi-factor-authentication-mfa-guide.dita" format="dita" type="topic">MFA</xref> is requested <i>within</i> an existing session.</p>
-      <p>H/T <xref href="https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20" format="html" scope="external">https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20</xref></p>
+      <p>Where applicable, maintain a single source of truth with meaningful labels to describe each IP address range.</p>
+      <p>The use of infrastructure as code to both store and apply IP address lists helps reduce errors, and aids with change management.</p>
+      <p>Where practical, periodically check the IP addresses with the team responsible for those IP addresses, to cater for upcoming changes in IP spacing or change of use or scope.</p>
     </body>
   </topic>
+  <topic id="implement-defensive-depth" audience="audience-tech">
+    <title>Implement defensive depth</title>
+    <body>
+      <p>When you depend less on IP addresses as a filtration method, other activities become more important. These include:
+        <ul>
+          <li>Monitor accesses and activity.</li>
+          <li>Log accesses and activity.</li>
+          <li>Perform actual authentication, using techniques such as:
+            <ul>
+              <li>Use of client certificates.</li>
+              <li>'Magic' links.</li>
+              <li>Usernames and passwords.</li>
+              <li>Single or same sign-on.</li>
+              <li><xref href="multi-factor-authentication-mfa-guide.dita" format="dita">Multi-factor authentication (MFA)</xref>.</li>
+            </ul>
+          </li>
+          <li>Including defences against denial-of-service attacks, brute force attempts, and credential stuffing.</li>
+        </ul>
+      </p>
+    </body>
+  </topic>
+  <topic id="external-ip-addresses" audience="audience-tech">
+    <title>External IP addresses</title>
+    <body>
+      <p>External IP address access control lists are useful as part of a wider set of controls.</p>
+      <p>Introducing external IP address access control lists (ACLs) can filter out tertiary noise. Ensure that your use cases are rigorous, and that other defensive and authentication, authorisation, and accounting (AAA) measures are in place. This helps ensure protection from random port scans or brute force attempts.</p>
+      <p>Two real-life examples are:
+        <ul>
+          <li>Reducing MFA prompts. Do this by ensuring that corporate and staff wifi is appropriately access controlled. This includes having a clear egress range of IP addresses. It is important also to analyse and use the proximity probability of individuals and devices.</li>
+          <li>Make connection sessions longer. This is where you allow sessions and tokens to last for a longer period, such as 30 days instead of 7. These longer sessions are enabled only they take place from predictable and 'known' locations.</li>
+        </ul>
+      </p>
+      <p>This <xref href="https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20" format="html" scope="external">Medium article</xref> provides more details regarding IP address access control lists. </p>
+    </body>
+  </topic>
+  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

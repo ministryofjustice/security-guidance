@@ -314,6 +314,13 @@
 		</body>
 	</topic>
 
+	<topic id="contact-details-training">
+		<title>Contact details</title>
+		<body>
+			<p>For any further questions or advice relating to security or security training, contact: <ph conref="#conrefs/securityemail"/>.</p>
+		</body>
+	</topic>
+
 	<topic id="incidents-and-contact-details">
 		<title>Incidents and contact details</title>
 		<body>
