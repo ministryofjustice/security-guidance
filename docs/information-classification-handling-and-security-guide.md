@@ -17,9 +17,9 @@ Each information security classification has a minimum set of security measures 
 
 |Classification|Description|
 |--------------|-----------|
-|**__Official__**|All information related to routine business, operations, and services. If this information is lost, stolen, or published, it could have damaging consequences, but is not subject to a heightened threat profile. For regular, unsupervised access to **Official** information, someone would be expected to have achieved [Baseline Personnel Security Standard \(BPSS\)](https://www.gov.uk/government/publications/government-baseline-personnel-security-standard) assessment.|
-|**__Secret__**|Very sensitive information that requires protection against highly sophisticated, well-resourced, and determined threat actors. For example, where compromise could seriously damage military capabilities, international relations, or the investigation of a serious crime. For regular, unsupervised access to **Secret** information, someone would be expected to have passed [National Security Vetting](https://www.gov.uk/guidance/security-vetting-and-clearance#applicant) Security Check \(SC\) clearance. In exceptional circumstances, someone with BPSS might be granted occasional supervised access to UK **Secret** assets, or be required to work in areas where **Secret** or **Top Secret** information might be overheard.|
-|**__Top Secret__**|Exceptionally sensitive information that directly supports, or threatens, the national security of the UK or its allies, and requires extremely high assurance of protection from all threats.|
+|****Official****|All information related to routine business, operations, and services. If this information is lost, stolen, or published, it could have damaging consequences, but is not subject to a heightened threat profile. For regular, unsupervised access to **Official** information, someone would be expected to have achieved [Baseline Personnel Security Standard \(BPSS\)](https://www.gov.uk/government/publications/government-baseline-personnel-security-standard) assessment.|
+|****Secret****|Very sensitive information that requires protection against highly sophisticated, well-resourced, and determined threat actors. For example, where compromise could seriously damage military capabilities, international relations, or the investigation of a serious crime. For regular, unsupervised access to **Secret** information, someone would be expected to have passed [National Security Vetting](https://www.gov.uk/guidance/security-vetting-and-clearance#applicant) Security Check \(SC\) clearance. In exceptional circumstances, someone with BPSS might be granted occasional supervised access to UK **Secret** assets, or be required to work in areas where **Secret** or **Top Secret** information might be overheard.|
+|****Top Secret****|Exceptionally sensitive information that directly supports, or threatens, the national security of the UK or its allies, and requires extremely high assurance of protection from all threats.|
 
 Securing the MoJ's information must be done with a combination of information security measures:
 
@@ -40,11 +40,11 @@ The following table sets out the definitions for each security classification, a
 
 |Classification|Definition|Marking|
 |--------------|----------|-------|
-|**__Official__**|All information related to routine public sector business, operations and services.||
+|****Official****|All information related to routine public sector business, operations and services.||
 ||Almost all personal information falls within the **Official** classification.||
 ||**Official-Sensitive** is not a separate security classification. It should be used to reinforce the "need to know" principle, beyond the baseline for **Official**.|**Official** data does not need to be marked except where **Sensitive**, and must be marked **Official-Sensitive**.|
-|**__Secret__**|Very sensitive information that requires protection against highly sophisticated, well-resourced and determined threat actors, for example serious and organised crime.|Must be marked|
-|**__Top Secret__**|Exceptionally sensitive information that directly supports \(or threatens\) the national security of the UK or its allies and requires extremely high assurance of protection from all threats.|Must be marked|
+|****Secret****|Very sensitive information that requires protection against highly sophisticated, well-resourced and determined threat actors, for example serious and organised crime.|Must be marked|
+|****Top Secret****|Exceptionally sensitive information that directly supports \(or threatens\) the national security of the UK or its allies and requires extremely high assurance of protection from all threats.|Must be marked|
 
 Additional information on how to manage information is described in the [Information Asset Management Policy](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/).
 

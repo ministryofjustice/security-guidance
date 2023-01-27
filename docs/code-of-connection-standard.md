@@ -177,7 +177,7 @@ On the basis of the information made available to them, and to the best of their
 **Note:** Any major change \(as defined in A.1.5\) to the connecting "NAME of 3rd PARTY IT SYSTEM" may invalidate this CoCo and a new submission may be required.
 
 ||||
-|---|---|---|
+|--|--|--|
 |NAME|Signature||
 |JOB TITLE|||
 |NAME OF 3rd PARTY CONNECTING ORGANISATION|Date||
