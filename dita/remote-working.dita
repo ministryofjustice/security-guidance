@@ -60,7 +60,7 @@
         <li><ph conref="conrefs.dita#conrefs/do"/> Be wary of anyone overlooking or eavesdropping what you are doing. Consider whether you, or the <ph conref="conrefs.dita#conrefs/moj"/> information, might be Overseen, Overheard, or Overshared.</li>
         <li><ph conref="conrefs.dita#conrefs/do"/> Protect chargers and other computer accessories, especially <ph conref="conrefs.dita#conrefs/moj"/> equipment, when travelling. This is to prevent them from being tampered with. Keep them secure and out of sight as much as possible, for example in your hand luggage or on your person.</li>
         <li><ph conref="conrefs.dita#conrefs/do"/> Ensure that a laptop BitLocker PIN or similar access control is enabled.</li>
-        <li><ph conref="conrefs.dita#conrefs/do"/> Use an <ph conref="conrefs.dita#conrefs/moj"/>-issued VPN when connecting to <xref href="#using-public-wifi-or-internet-and-home-broadband" format="dita">Hotel or other public wifi spots</xref>. An alternative option is to use an <ph conref="conrefs.dita#conrefs/moj"/>-provided mobile data (4G) connection.</li>
+        <li><ph conref="conrefs.dita#conrefs/do"/> Use an <ph conref="conrefs.dita#conrefs/moj"/>-issued VPN when connecting to <xref href="#using-public-wifi-or-internet-and-home-broadband" format="dita">Hotel or other public wifi spots</xref>.</li>
         <li><ph conref="conrefs.dita#conrefs/donot"/> Let family or other unauthorised people use <ph conref="conrefs.dita#conrefs/moj"/> equipment.</li>
         <li><ph conref="conrefs.dita#conrefs/donot"/> Leave equipment unattended.</li>
         <li><ph conref="conrefs.dita#conrefs/donot"/> Work on sensitive information in public spaces, or where your equipment can be seen by others.</li>
