@@ -2,9 +2,9 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
-<a name="2023-01-27-17:45-gmt-[updated-remote-working-guidance](https:-security-guidance.service.justice.gov.uk-remote-working-)"></a>
+<a name="2023-02-08-17:35-gmt-[updated-remote-working-guidance](https:-security-guidance.service.justice.gov.uk-remote-working-)"></a>
 
--   **2023-01-27 17:45 GMT [Updated remote working guidance](https://security-guidance.service.justice.gov.uk/remote-working/)**
+-   **2023-02-08 17:35 GMT [Updated remote working guidance](https://security-guidance.service.justice.gov.uk/remote-working/)**
 
     Clarification on using hotel or other public wifi spots.
 
