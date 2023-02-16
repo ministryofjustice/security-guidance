@@ -354,7 +354,7 @@ The impact upon any relevant ongoing operational activity has to be considered b
 ## References
 
 |ID|Title|Version / Issue|
-|--|-----|---------------|
+|---|-----|---------------|
 |1|IT Security - Technical Controls Policy|V1-00|
 |2|IT Security - Acceptable Use Policy|V1-00|
 |3|IT Security - Information Classification and Handling Policy|V1-00|

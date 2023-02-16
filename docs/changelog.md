@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2023-02-16-17:35-gmt-[corrected-typo-in-template](https:-security-guidance.service.justice.gov.uk-iasme-policy_templates-)"></a>
+
+-   **2023-02-16 17:35 GMT [Corrected typo in template](https://security-guidance.service.justice.gov.uk/iasme/Policy_Templates/)**
+
+    Fixed minor typo in Asset template.
+
 <a name="2023-02-08-17:35-gmt-[updated-remote-working-guidance](https:-security-guidance.service.justice.gov.uk-remote-working-)"></a>
 
 -   **2023-02-08 17:35 GMT [Updated remote working guidance](https://security-guidance.service.justice.gov.uk/remote-working/)**
