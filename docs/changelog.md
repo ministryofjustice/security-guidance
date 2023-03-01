@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2023-02-28-17:35-gmt-[corrected-policy-reference-number](https:-security-guidance.service.justice.gov.uk-acceptable-use-policy-#managing-email-use)"></a>
+
+-   **2023-02-28 17:35 GMT [Corrected policy reference number](https://security-guidance.service.justice.gov.uk/acceptable-use-policy/#managing-email-use)**
+
+    Policy number POL.ITAUP.022 in the Acceptable Use Policy was incorrectly listed as number 021.
+
 <a name="2023-02-16-17:35-gmt-[corrected-typo-in-template](https:-security-guidance.service.justice.gov.uk-iasme-policy_templates-)"></a>
 
 -   **2023-02-16 17:35 GMT [Corrected typo in template](https://security-guidance.service.justice.gov.uk/iasme/Policy_Templates/)**
