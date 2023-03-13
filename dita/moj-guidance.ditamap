@@ -318,6 +318,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="secure-by-default.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="source-code-publishing.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="system-test-standard.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			<topicref href="service-owner-responsibilities.dita" type="topic" audience="audience-suppliers audience-tech"/>
 		</topichead>
 		<topichead audience="audience-suppliers audience-tech">
 			<topicmeta audience="audience-suppliers audience-tech"><navtitle>Test data</navtitle></topicmeta>

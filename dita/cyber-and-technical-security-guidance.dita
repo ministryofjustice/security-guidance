@@ -5,20 +5,33 @@
 	<topic id="summary">
 		<title>Summary</title>
 		<body>
-			<p>This site describes the guidance given by the
+			<p>This site lists the
 <xref href="https://www.gov.uk/government/organisations/ministry-of-justice" format="html" scope="external"><ph conref="conrefs.dita#conrefs/mojlong"/></xref>
-to ensure that an organisation can create and maintain a good cyber security culture.</p>
-			<p>Guidance shown here is intended for technical users and non-technical users (referred to as all users).</p>
-			<p>Technical users may be:</p>
+Information Security policies. It contains important guidance on how to keep MoJ information safe and secure. </p>
+			<p>Policies shown here are listed for technical users and non-technical users (referred to as all users).</p>
+			<p>Technical users may be:
 			<ul>
 				<li>technical architects</li>
 				<li>DevOps</li>
 				<li>IT service managers</li>
 				<li>software developers</li>
 			</ul>
-			<p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> site contains further guidance for technical users.</p>
+			</p>
+			<p>The <ph conref="conrefs.dita#conrefs/moj"/> <xref href="https://ministryofjustice.github.io/technical-guidance/" format="html" scope="external">Technical Guidance</xref> covers technical decisions in the <ph conref="conrefs.dita#conrefs/moj"/> more widely.</p>
 			<note>This guidance is dated: <ph conref="tstamp.dita#tstamp/tstamp"/>.</note>
     </body>
+    </topic>
+    <topic id="whats-new" platform="html">
+      <title>What's New</title>
+      <body>
+        <p>Updates to this page include:
+          <ul>
+            <li>a change to the layout and structure to make it easier to find the policy you're looking for</li>
+            <li><xref href="service-owner-responsibilities.dita" format="dita">a new policy document describing the responsibilities of Service Owners</xref></li>
+          </ul>
+	  </p>
+      </body>
+    </topic>
     <topic id="popular-links" platform="html">
       <title>Popular links</title>
       <body>
@@ -30,42 +43,10 @@ to ensure that an organisation can create and maintain a good cyber security cul
             <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements Guide</xref></li>
             <li><xref href="government-classification-scheme.dita" format="dita">Government classification scheme</xref></li>
             <li><xref href="remote-working.dita" format="dita">Remote Working</xref></li>
-          </ul>
-        </p>
+		</ul>
+	  </p>
       </body>
     </topic>
-	<topic id="change-log">
-		<title>Change log</title>
-		<body>
-			<p><xref href="changelog.dita" format="dita">The change log lists the most recent changes to this information</xref>.</p>
-			<p>The changes are also available as <xref href="rss.xml" format="xml" scope="external" platform="html">RSS</xref><xref href="https://security-guidance.service.justice.gov.uk/rss.xml" format="xml" scope="external" platform="epub pdf">RSS</xref>
-				or <xref href="atom.xml" format="xml" scope="external" platform="html">Atom</xref><xref href="https://security-guidance.service.justice.gov.uk/atom.xml" format="xml" scope="external" platform="epub pdf">Atom</xref> feeds.</p>
-		</body>
-	</topic>
-    <topic id="offline-content">
-      <title>Offline content</title>
-      <body>
-        <p platform="html">This guidance is available in PDF and EPUB formats.</p>
-        <p>All users. Contains general guidance with some technical information:</p>
-          <ul>
-            <li><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></li>
-            <li><xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref></li>
-          </ul>
-          <p>Group Security. Contains Group Security policy and guidance:</p>
-          <ul>
-            <li><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></li>
-            <li><xref href="moj-guidance-gs.epub" format="epub" scope="peer">EPUB</xref></li>
-          </ul>
-          <p>Technical users. Contains detailed technical information, together with all users and Group Security content:</p>
-          <ul>
-            <li><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></li>
-            <li><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></li>
-          </ul>
-          
-        <p>The offline versions of this guidance are time-limited, and are <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
-        <p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, refer to the <xref href="https://security-guidance.service.justice.gov.uk/" format="html" scope="external">security guidance site</xref>.</p>
-      </body>
-      </topic>
 		<topic id="searching" platform="epub pdf">
 			<title>Searching this content</title>
 			<body>
@@ -80,60 +61,8 @@ to ensure that an organisation can create and maintain a good cyber security cul
 				</ol></p>
 			</body>
 		</topic>
-    <topic id="security-culture">
-      <title>Security culture</title>
-      <body>
-        <p>Security culture refers to the set of values that determines how people within an organisation are expected to think about and approach security. The extent to which an organisation has good security is indicated by its security culture.</p>
-        <p>All organisations need employees, suppliers and other colleagues to behave in a way that helps ensure good security at all times.</p>
-	<p>Getting security culture right promotes the desired security behaviours that helps develop a security-conscious workforce.</p>
-	<p>The <ph conref="conrefs.dita#conrefs/moj"/> is creating a portfolio of security culture resources to help supplement the formal policy and guidance material.</p>
-	<p><xref href="security-culture.dita" format="dita">Initial security culture material is available for preview here</xref>.</p>
-      </body>
-    </topic>
-		<topic id="getting-in-touch">
-			<title>Getting in touch</title>
-			<body>
-				<p> Contact the <ph conref="conrefs.dita#conrefs/moj"/>:</p>
-				<ul>
-					<li><xref href="reporting-an-incident.dita" format="dita">to report an incident</xref></li>
-					<li>for general assistance on <ph conref="conrefs.dita#conrefs/moj"/> security matters, email <ph conref="conrefs.dita#conrefs/securityemail"/></li>
-					<li>for Cyber Security assistance or consulting, email <ph conref="conrefs.dita#conrefs/securityemail"/>.</li>
-				</ul>
-					<p><xref href="user-guide.dita" format="dita">More information is available here.</xref>.</p>
-					<p>Suppliers to the <ph conref="conrefs.dita#conrefs/moj"/> should get in touch with their usual <ph conref="conrefs.dita#conrefs/moj"/> points of contact.</p>
-			</body>
-		</topic>
-		<topic id="background" audience="audience-tech">
-			<title>Background</title>
-			<body>
-				<p><ph conref="conrefs.dita#conrefs/gov007"/> replaces the <xref href="https://www.gov.uk/government/publications/security-policy-framework" format="html" scope="external">HMG Security Policy Framework (SPF)</xref>.
-          The policies which sit within that framework remain in effect,
-          but are now in support of this standard.
-				<!-- It also incorporates the <xref href="https://www.gov.uk/government/publications/the-minimum-cyber-security-standard" format="html" scope="external">Minimum Cyber Security Standard (MCSS)</xref> which defines the minimum security measures that departments implement with regards to protecting their information, technology and digital services to meet their SPF and National Cyber Security Strategy obligations. --></p>
-				<image platform="html epub" href="images/gov007overview.png" placement="break" scope="local"><alt>A diagram showing a hierarchy of the key components within the Government Functional Standard. It is in three sections. In the first section, at the top is a triangle labelled Principles. This stands on a block marked Content, which itself stands on a block marked Governance, showing that governance and content underpin the principles. The second section is called Security Life Cycle. It shows a flow from left to right. To the left of the section is a large arrow entitled Security Strategy and Planning. This arrow splits on the right hand side into two small arrows. The top small arrow is labelled Prevention and Detection. The bottom small arrow is labelled Security Incident Management. A small line arrow drops down from the top Prevention and Detection arrow to the bottom Security Incident Management arrow. To the right hand side of this section of the diagram, the Prevention and Detection and the Security Incident Management arrows converge into a final large arrow, entitled Review and Learn from Experience. A dotted line arrow, labelled Improvement, goes back from the Review and Learn arrow over to the beginning of this section of the diagram, linking to the Security Strategy and Planning arrow. Underneath these arrow diagrams is the third and final section. This is a summary text, called Security Practices. Many practices are listed using three columns in this section. The left column list includes: Critical Assets and Services, Risk Management, and Access to information. The middle column list includes: Capability, capacity and resources, Security culture, Security education and awareness, and Physical security. The right column list includes: Personnel security, Cyber security, and Technical security.</alt></image>
-				<image platform="pdf" href="images/gov007overview-small.png" placement="break" scope="local"><alt>A diagram showing a hierarchy of the key components within the Government Functional Standard. It is in three sections. In the first section, at the top is a triangle labelled Principles. This stands on a block marked Content, which itself stands on a block marked Governance, showing that governance and content underpin the principles. The second section is called Security Life Cycle. It shows a flow from left to right. To the left of the section is a large arrow entitled Security Strategy and Planning. This arrow splits on the right hand side into two small arrows. The top small arrow is labelled Prevention and Detection. The bottom small arrow is labelled Security Incident Management. A small line arrow drops down from the top Prevention and Detection arrow to the bottom Security Incident Management arrow. To the right hand side of this section of the diagram, the Prevention and Detection and the Security Incident Management arrows converge into a final large arrow, entitled Review and Learn from Experience. A dotted line arrow, labelled Improvement, goes back from the Review and Learn arrow over to the beginning of this section of the diagram, linking to the Security Strategy and Planning arrow. Underneath these arrow diagrams is the third and final section. This is a summary text, called Security Practices. Many practices are listed using three columns in this section. The left column list includes: Critical Assets and Services, Risk Management, and Access to information. The middle column list includes: Capability, capacity and resources, Security culture, Security education and awareness, and Physical security. The right column list includes: Personnel security, Cyber security, and Technical security.</alt></image>
-
-				<p>Sections 6.3 Cyber security and 6.4 Technical security of the standard state:</p>
-				<lq>
-					<ul>
-						<li>The purpose of cyber security is to ensure the security of data and information.
-              To operate effectively,
-              the UK government needs to maintain the confidentiality,
-              integrity and availability of its information,
-              systems and infrastructure,
-              and the services it provides.</li>
-						<li>The purpose of technical security measures is to holistically protect
-              sensitive information and technology from close access acquisition or exploitation
-              by hostile actors,
-              as well as any other form of technical manipulation.
-              Technical security also relates to the protection of security systems
-              from compromise and/or external interference.</li>
-					</ul>
-				</lq>
-			</body>
-		</topic>
-	</topic>
-	<topic id="taxonomy">
+    
+<topic id="taxonomy">
 		<title>Information structure</title>
 		<body>
 			<p><ph conref="conrefs.dita#conrefs/moj"/> policy documents are listed beneath the following headings:</p>
@@ -181,48 +110,9 @@ to ensure that an organisation can create and maintain a good cyber security cul
 			<li><xref href="technical-controls-policy.dita" format="dita">Technical Controls Policy</xref></li>
 		</ul>
 		</body>
-			
-			<!-- 
-          <title>Management direction for information security</title>
-          <body>
-            <table><tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="1*"/><colspec colname="col2" colnum="2" colwidth="1*"/><tbody>
-              <row>
-                <entry colname="col1" align="left"><xref href="setecastronomy.dita" format="dita">Avoiding too much security</xref><!__ <ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/avoiding-too-much-security/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>__></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="identify-protect-detect-respond-recover.dita" format="dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref><!__<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/equipment/equipment-management/user-access/identify-protect-detect-respond-recover/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph>__></entry>
-                <entry colname="col2" align="right">All users</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="it-security-all-users-policy.dita" format="dita">IT Security All Users Policy</xref></entry>
-                <entry colname="col2" align="right">All users (Policy)</entry>
-              </row>
-              <row>
-                <entry colname="col1" align="left"><xref href="it-security-policy-overview.dita" format="dita">IT Security Policy (Overview)</xref></entry>
-                <entry colname="col2" align="right">All users (Policy)</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="it-security-technical-users-policy.dita" format="dita">IT Security Technical Users Policy</xref></entry>
-                <entry colname="col2" align="right">Technical users (Policy)</entry>
-              </row>
-				<row>
-					<entry colname="col1" align="left"><xref href="line-manager-approval.dita" format="dita">Line Manager approval</xref><!__<ph platform="html"> (<xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/" format="html" scope="external"><image conref="conrefs.dita#conrefs/intraneticon"/></xref>)</ph> __></entry>
-					<entry colname="col2" align="right">All users</entry>
-				</row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="shared-responsibility-models.dita" format="dita">Shared Responsibility Models</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-              <row audience="audience-tech">
-                <entry colname="col1" align="left"><xref href="technical-controls-policy.dita" format="dita">Technical Controls Policy</xref></entry>
-                <entry colname="col2" align="right">Technical users</entry>
-              </row>
-            </tbody></tgroup></table>
-          </body>
-        -->
-        </topic>
-      </topic>
+	
+
+        
 
       <!--
       <topic id="organisation-of-information-security">
@@ -305,7 +195,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
           </body>
         </topic>
       </topic>
-
+       
       <topic id="asset-management">
         <title>Asset management</title>
         <topic id="responsibility-for-assets">
@@ -421,7 +311,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
           </body>
         </topic>
       </topic>
-
+        
       <topic id="cryptography" audience="audience-tech">
         <title>Cryptography</title>
         <topic id="cryptographic-controls">
@@ -648,6 +538,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
               <li><xref href="secure-by-default.dita" format="dita">Secure by Default</xref></li>
               <li><xref href="source-code-publishing.dita" format="dita">Source Code Publishing</xref></li>
               <li><xref href="system-test-standard.dita" format="dita">System Test Standard</xref></li>
+              <li><xref href="service-owner-responsibilities.dita" format="dita">Service Owners Responsibilities</xref></li>
             </ul>
             
           </body>
@@ -801,6 +692,44 @@ to ensure that an organisation can create and maintain a good cyber security cul
       </topic>
 
 	</topic>
+	<topic id="offline-content">
+      <title>Offline content</title>
+      <body>
+        <p platform="html">This guidance is available in PDF and EPUB formats.</p>
+        <p>All users. Contains general guidance with some technical information:</p>
+          <ul>
+            <li><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></li>
+            <li><xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref></li>
+          </ul>
+          <p>Group Security. Contains Group Security policy and guidance:</p>
+          <ul>
+            <li><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></li>
+            <li><xref href="moj-guidance-gs.epub" format="epub" scope="peer">EPUB</xref></li>
+          </ul>
+          <p>Technical users. Contains detailed technical information, together with all users and Group Security content:</p>
+          <ul>
+            <li><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></li>
+            <li><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></li>
+          </ul>
+          
+        <p>The offline versions of this guidance are time-limited, and are <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
+        <p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, refer to the <xref href="https://security-guidance.service.justice.gov.uk/" format="html" scope="external">security guidance site</xref>.</p>
+      </body>
+      </topic>
+		<topic id="searching-this-content" platform="epub pdf">
+			<title>Searching this content</title>
+			<body>
+				<p>The <ph conref="conrefs.dita#conrefs/moj"/> security guidance is searchable in two ways:
+				<ol>
+					<li>By searching for the word or phrase on your preferred search engine,
+            and specifying this site:
+						<pre>site:https://security-guidance.service.justice.gov.uk/</pre>
+						For example, to search for information about passwords, you might use the following search expression:
+						<pre>password site:https://security-guidance.service.justice.gov.uk/</pre></li>
+					<li>By downloading one of the offline versions and using the inbuilt search capability of your offline reader.</li>
+				</ol></p>
+			</body>
+		</topic>
 	<topic id="other-guidance">
 		<title>Other Guidance</title>
     <!--
@@ -817,7 +746,7 @@ to ensure that an organisation can create and maintain a good cyber security cul
     <topic id="glossary">
       <title>Glossary</title>
       <body>
-        <p><xref href="glossary.dita" format="dita">A glossary of some of the terms used in this guidance is available here</xref></p>
+        <p>A glossary of some terms used in this guidance is available <xref href="glossary.dita" format="dita">here</xref>.</p>
       </body>
     </topic>
     <topic id="acronyms">
@@ -833,5 +762,14 @@ to ensure that an organisation can create and maintain a good cyber security cul
 			</body>
 		</topic>
   </topic>
+<topic id="change-log">
+		<title>Change log</title>
+		<body>
+			<p>A 'change log' is <xref href="changelog.dita" format="dita">available</xref>.
+			It details the most recent changes to this information.</p>
+			<p>The changes are also available as <xref href="rss.xml" format="xml" scope="external" platform="html">RSS</xref><xref href="https://security-guidance.service.justice.gov.uk/rss.xml" format="xml" scope="external" platform="epub pdf">RSS</xref>
+				or <xref href="atom.xml" format="xml" scope="external" platform="html">Atom</xref><xref href="https://security-guidance.service.justice.gov.uk/atom.xml" format="xml" scope="external" platform="epub pdf">Atom</xref> feeds.</p>
+		</body>
+	</topic>	
   <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
-</topic>
+</topic></topic></topic>

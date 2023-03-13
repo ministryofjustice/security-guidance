@@ -2,9 +2,9 @@
 
 ## Summary
 
-This site describes the guidance given by the [Ministry of Justice \(MoJ\)](https://www.gov.uk/government/organisations/ministry-of-justice) to ensure that an organisation can create and maintain a good cyber security culture.
+This site lists the [Ministry of Justice \(MoJ\)](https://www.gov.uk/government/organisations/ministry-of-justice) Information Security policies. It contains important guidance on how to keep MoJ information safe and secure.
 
-Guidance shown here is intended for technical users and non-technical users \(referred to as all users\).
+Policies shown here are listed for technical users and non-technical users \(referred to as all users\).
 
 Technical users may be:
 
@@ -13,11 +13,18 @@ Technical users may be:
 -   IT service managers
 -   software developers
 
-The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) site contains further guidance for technical users.
+The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 27 October 2022.
+**Note:** This guidance is dated: 23 December 2022.
 
-### Popular links
+## What's New
+
+Updates to this page include:
+
+-   a change to the layout and structure to make it easier to find the policy you're looking for
+-   [a new policy document describing the responsibilities of Service Owners](service-owner-responsibilities.md)
+
+## Popular links
 
 Popular links for all users:
 
@@ -27,68 +34,6 @@ Popular links for all users:
 -   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
 -   [Government classification scheme](government-classification-scheme.md)
 -   [Remote Working](remote-working.md)
-
-### Change log
-
-[The change log lists the most recent changes to this information](changelog.md).
-
-The changes are also available as [RSS](rss.xml) or [Atom](atom.xml) feeds.
-
-### Offline content
-
-This guidance is available in PDF and EPUB formats.
-
-All users. Contains general guidance with some technical information:
-
--   [PDF](moj-guidance.pdf)
--   [EPUB](moj-guidance.epub)
-
-Group Security. Contains Group Security policy and guidance:
-
--   [PDF](moj-guidance.pdf)
--   [EPUB](moj-guidance-gs.epub)
-
-Technical users. Contains detailed technical information, together with all users and Group Security content:
-
--   [PDF](moj-guidance-tech.pdf)
--   [EPUB](moj-guidance-tech.epub)
-
-The offline versions of this guidance are time-limited, and are not valid after 27 November 2022.
-
-### Security culture
-
-Security culture refers to the set of values that determines how people within an organisation are expected to think about and approach security. The extent to which an organisation has good security is indicated by its security culture.
-
-All organisations need employees, suppliers and other colleagues to behave in a way that helps ensure good security at all times.
-
-Getting security culture right promotes the desired security behaviours that helps develop a security-conscious workforce.
-
-The MoJ is creating a portfolio of security culture resources to help supplement the formal policy and guidance material.
-
-[Initial security culture material is available for preview here](security-culture.md).
-
-### Getting in touch
-
-Contact the MoJ:
-
--   [to report an incident](reporting-an-incident.md)
--   for general assistance on MoJ security matters, email [security@justice.gov.uk](mailto:security@justice.gov.uk)
--   for Cyber Security assistance or consulting, email [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-[More information is available here.](user-guide.md).
-
-Suppliers to the MoJ should get in touch with their usual MoJ points of contact.
-
-### Background
-
-[Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) replaces the [HMG Security Policy Framework \(SPF\)](https://www.gov.uk/government/publications/security-policy-framework). The policies which sit within that framework remain in effect, but are now in support of this standard.
-
-![A diagram showing a hierarchy of the key components within the Government Functional Standard. It is in three sections. In the first section, at the top is a triangle labelled Principles. This stands on a block marked Content, which itself stands on a block marked Governance, showing that governance and content underpin the principles. The second section is called Security Life Cycle. It shows a flow from left to right. To the left of the section is a large arrow entitled Security Strategy and Planning. This arrow splits on the right hand side into two small arrows. The top small arrow is labelled Prevention and Detection. The bottom small arrow is labelled Security Incident Management. A small line arrow drops down from the top Prevention and Detection arrow to the bottom Security Incident Management arrow. To the right hand side of this section of the diagram, the Prevention and Detection and the Security Incident Management arrows converge into a final large arrow, entitled Review and Learn from Experience. A dotted line arrow, labelled Improvement, goes back from the Review and Learn arrow over to the beginning of this section of the diagram, linking to the Security Strategy and Planning arrow. Underneath these arrow diagrams is the third and final section. This is a summary text, called Security Practices. Many practices are listed using three columns in this section. The left column list includes: Critical Assets and Services, Risk Management, and Access to information. The middle column list includes: Capability, capacity and resources, Security culture, Security education and awareness, and Physical security. The right column list includes: Personnel security, Cyber security, and Technical security.](images/gov007overview.png)
-
-Sections 6.3 Cyber security and 6.4 Technical security of the standard state:
-
--   > The purpose of cyber security is to ensure the security of data and information. To operate effectively, the UK government needs to maintain the confidentiality, integrity and availability of its information, systems and infrastructure, and the services it provides.
--   > The purpose of technical security measures is to holistically protect sensitive information and technology from close access acquisition or exploitation by hostile actors, as well as any other form of technical manipulation. Technical security also relates to the protection of security systems from compromise and/or external interference.
 
 ## Information structure
 
@@ -130,16 +75,16 @@ These are the policies for technical users:
 -   [Shared Responsibility Models](shared-responsibility-models.md)
 -   [Technical Controls Policy](technical-controls-policy.md)
 
-### Mobile devices and teleworking
+##### Mobile devices and teleworking
 
-#### Mobile device policy
+###### Mobile device policy
 
 These policies are for all users:
 
 -   [Mobile Device and Remote Working Policy](mobile-device-and-remote-working-policy.md)
 -   [Remote Working](remote-working.md)
 
-#### Teleworking
+###### Teleworking
 
 These policies are for all users:
 
@@ -147,9 +92,9 @@ These policies are for all users:
 -   [General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
 -   [Personal Devices](personal-devices.md)
 
-### Human resource security
+##### Human resource security
 
-#### Prior to employment
+###### Prior to employment
 
 These policies are for all users:
 
@@ -163,7 +108,7 @@ These policies are for all users:
 -   [Security clearance appeals procedures](security-clearance-appeals-procedures.md)
 -   [Security vetting assessment of need](security-vetting-assessment-need.md)
 
-#### During employment
+###### During employment
 
 These policies are for all users:
 
@@ -174,16 +119,16 @@ These policies are for all users:
 -   [Voluntary drug testing policy](voluntary-drug-testing-policy.md)
 -   [Voluntary drug testing policy procedures](voluntary-drug-testing-policy-procedures.md)
 
-#### Termination and change of employment
+###### Termination and change of employment
 
 These policies are for all users:
 
 -   [End or change of employment](end-or-change-of-employment.md)
 -   [Leavers with NSC and NSVCs](leavers-with-nsc-and-nscvs.md)
 
-### Asset management
+##### Asset management
 
-#### Responsibility for assets
+###### Responsibility for assets
 
 These policies are for all users:
 
@@ -193,7 +138,7 @@ These policies are for all users:
 -   [Protect Yourself Online](protect-yourself-online.md)
 -   [Web browsing security](web-browsing.md)
 
-#### Information classification
+###### Information classification
 
 These policies are for all users:
 
@@ -206,7 +151,7 @@ These policies are for technical users:
 -   [Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md)
 -   [Secrets management](secrets-management.md)
 
-#### Media handling
+###### Media handling
 
 These policies are for all users:
 
@@ -219,9 +164,9 @@ This policy is for technical users:
 
 -   [Secure disposal of IT - public and private cloud](secure-disposal-of-it-public-and-private-cloud.md)
 
-### Access control
+##### Access control
 
-#### Business requirements of access control
+###### Business requirements of access control
 
 These policies are for technical users:
 
@@ -230,7 +175,7 @@ These policies are for technical users:
 -   [Enterprise Access Control Policy](enterprise-access-control-policy.md)
 -   [Privileged Account Management Guide](privileged-account-management-guide.md)
 
-#### User access management
+###### User access management
 
 These policies are for technical users:
 
@@ -243,13 +188,13 @@ These policies are for technical users:
 -   [Privileged User Guide](privileged-user-guide.md)
 -   [Privileged User Logging and Protective Monitoring Guide](privileged-user-logging-and-protective-monitoring-guide.md)
 
-#### User responsibilities
+###### User responsibilities
 
 This policy is for all users:
 
 -   [Protecting Social Media Accounts](protecting-social-media-accounts.md)
 
-#### System and application access control
+###### System and application access control
 
 These policies are for technical users:
 
@@ -266,9 +211,9 @@ These policies are for technical users:
 -   [System User and Application Administrators](system-users-and-application-administrators.md)
 -   [Using LastPass Enterprise](using-lastpass.md)
 
-### Cryptography
+##### Cryptography
 
-#### Cryptographic controls
+###### Cryptographic controls
 
 These policies are for technical users:
 
@@ -278,9 +223,9 @@ These policies are for technical users:
 -   [Public Key Infrastructure Policy](public-key-infrastructure-policy.md)
 -   [Use of HMG Cryptography Policy](use-of-hmg-cryptography-policy.md)
 
-### Physical and environmental security
+##### Physical and environmental security
 
-#### Secure areas
+###### Secure areas
 
 These policies are for all users:
 
@@ -293,7 +238,7 @@ These policies are for all users:
 -   [Security threat level and emergency procedures](security-threat-level-and-emergency-procedures.md)
 -   [Visitor access policy](visitor-access-policy.md)
 
-#### Equipment
+###### Equipment
 
 These policies are for all users:
 
@@ -307,9 +252,9 @@ This policy is for technical users:
 
 -   [System Lockdown and Hardening Standard](system-lockdown-and-hardening-standard.md)
 
-### Operations security
+##### Operations security
 
-#### Operational procedures and responsibilities
+###### Operational procedures and responsibilities
 
 These policies are for technical users:
 
@@ -318,7 +263,7 @@ These policies are for technical users:
 -   [Active Cyber Defence: Web Check](web-check.md)
 -   [Offshoring Guide](offshoring-guide.md)
 
-#### Protection from malware
+###### Protection from malware
 
 These policies are for technical users:
 
@@ -331,7 +276,7 @@ This policy is for all users:
 
 -   [Ransomware](ransomware.md)
 
-#### Backup
+###### Backup
 
 These policies are for technical users:
 
@@ -339,7 +284,7 @@ These policies are for technical users:
 -   [System backup policy](system-backup-policy.md)
 -   [System backup standard](system-backup-standard.md)
 
-#### Logging and monitoring
+###### Logging and monitoring
 
 These policies are for technical users:
 
@@ -356,13 +301,13 @@ These policies are for technical users:
 -   [Security Log Collection: Log entry metadata](log-entry-metadata.md)
 -   [Security Log Collection: Maturity Tiers](security-log-collection-maturity-tiers.md)
 
-#### Control of operational software
+###### Control of operational software
 
 This policy is for all users:
 
 -   [Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md)
 
-#### Technical vulnerability management
+###### Technical vulnerability management
 
 These policies are for technical users:
 
@@ -372,9 +317,9 @@ These policies are for technical users:
 -   [Vulnerability scanning and patch management guide](vulnerability-scanning-and-patch-management-guide.md)
 -   [Vulnerability scanning guide](vulnerability-scanning-guide.md)
 
-### Communications security
+##### Communications security
 
-#### Network security management
+###### Network security management
 
 These policies are for technical users:
 
@@ -386,7 +331,7 @@ These policies are for technical users:
 -   [Multiple Back-to-back Consecutive Firewalls](multiple-consecutive-back-to-back-firewalls.md)
 -   [Networks are just bearers](networks-bearers-not-trust.md)
 
-#### Information transfer
+###### Information transfer
 
 These policies are for all users:
 
@@ -410,9 +355,9 @@ These polices are for technical users:
 -   [Email Security Guide](email-security-guide.md)
 -   [Secure Email Transfer Guide](secure-email-transfer-guide.md)
 
-### System acquisition, development and maintenance
+##### System acquisition, development and maintenance
 
-#### Security requirements of information systems
+###### Security requirements of information systems
 
 These policies are for technical users:
 
@@ -420,7 +365,7 @@ These policies are for technical users:
 -   [Technical Security Controls Guide: Defensive Layer 1](technical-security-controls-guide-defensive-layer-1.md)
 -   [Technical Security Controls Guide: Defensive Layer 2](technical-security-controls-guide-defensive-layer-2.md)
 
-#### Security in development and support processes
+###### Security in development and support processes
 
 These policies are for technical users:
 
@@ -428,14 +373,15 @@ These policies are for technical users:
 -   [Secure by Default](secure-by-default.md)
 -   [Source Code Publishing](source-code-publishing.md)
 -   [System Test Standard](system-test-standard.md)
+-   [Service Owners Responsibilities](service-owner-responsibilities.md)
 
-#### Test data
+###### Test data
 
 -   [Using Live Data for Testing purposes](using-live-data-for-testing-purposes.md)
 
-### Supplier relationships
+##### Supplier relationships
 
-#### Information security in supplier relationships
+###### Information security in supplier relationships
 
 These policies are for technical users:
 
@@ -444,7 +390,7 @@ These policies are for technical users:
 -   [Suppliers to MoJ: Security Aspect Letters](security-aspect-letters.md)
 -   [Suppliers to MoJ: Supplier Corporate IT](supplier-corporate-it.md)
 
-#### Supplier service delivery management
+###### Supplier service delivery management
 
 These policies are for technical users:
 
@@ -452,9 +398,9 @@ These policies are for technical users:
 -   [Baseline for Amazon Web Services accounts](baseline-aws-accounts.md)
 -   [Baseline for Azure Subscriptions](baseline-for-azure-accounts.md)
 
-### Information security incident management
+##### Information security incident management
 
-#### Management of information security incidents and lost devices
+###### Management of information security incidents and lost devices
 
 These policies are for all users:
 
@@ -469,18 +415,18 @@ These policies are for technical users:
 -   [Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md)
 -   [Lost devices or other IT security incidents](lost-devices-incidents.md)
 
-### Information security aspects of business continuity management
+##### Information security aspects of business continuity management
 
-#### Information security continuity
+###### Information security continuity
 
 These policies are for technical users:
 
 -   [IT Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md)
 -   [IT Disaster Recovery Policy](it-disaster-recovery-policy.md)
 
-### Compliance
+##### Compliance
 
-#### Compliance with legal and contractual requirements
+###### Compliance with legal and contractual requirements
 
 This policy is for all users:
 
@@ -497,15 +443,15 @@ These policies are for technical users:
 -   [Data Security & Privacy Lifecycle Expectations](data-security-and-privacy-lifecycle.md)
 -   [Data Security & Privacy Triage Standards](data-security-and-privacy-triage-standards.md)
 
-#### Information security reviews
+###### Information security reviews
 
 This policy is for technical users:
 
 -   [Standards Assurance Tables](standards-assurance-tables.md)
 
-### Risk Assessment
+##### Risk Assessment
 
-#### Risk Management
+###### Risk Management
 
 These policies are for technical users:
 
@@ -513,29 +459,56 @@ These policies are for technical users:
 -   [IT Health Checks](ost/ithc.md)
 -   [IT Health Check - Test cancellations and delays](ost/test-cancellations-and-delays.md)
 
-#### Risk Assessment Process
+###### Risk Assessment Process
 
 This policy is for all users:
 
 -   [Risk reviews](risk-reviews.md)
 
-## Other Guidance
+#### Offline content
+
+This guidance is available in PDF and EPUB formats.
+
+All users. Contains general guidance with some technical information:
+
+-   [PDF](moj-guidance.pdf)
+-   [EPUB](moj-guidance.epub)
+
+Group Security. Contains Group Security policy and guidance:
+
+-   [PDF](moj-guidance.pdf)
+-   [EPUB](moj-guidance-gs.epub)
+
+Technical users. Contains detailed technical information, together with all users and Group Security content:
+
+-   [PDF](moj-guidance-tech.pdf)
+-   [EPUB](moj-guidance-tech.epub)
+
+The offline versions of this guidance are time-limited, and are not valid after 23 January 2023.
+
+#### Other Guidance
 
 The [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) provides the base material for all security guidance in the MoJ.
 
-### Glossary
+##### Glossary
 
-[A glossary of some of the terms used in this guidance is available here](glossary.md)
+A glossary of some terms used in this guidance is available [here](glossary.md).
 
-### Acronyms
+##### Acronyms
 
 A more extensive list of acronyms is available [here](https://ministryofjustice.github.io/acronyms/).
 
-### Technical Guidance
+##### Technical Guidance
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) should be read together with this security-focused guidance.
 
-## Feedback
+#### Change log
+
+A 'change log' is [available](changelog.md). It details the most recent changes to this information.
+
+The changes are also available as [RSS](rss.xml) or [Atom](atom.xml) feeds.
+
+#### Feedback
 
 > If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 
