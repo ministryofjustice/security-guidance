@@ -1,10 +1,10 @@
 # Security clearance appeals policy
 
-The Cluster 2 Security Unit \(C2SU\) forms part of the Transforming Government Security programme, which aims to standardise and strengthen operational security across Government.
+The Protective Security Centre (PSC) Operations Unit forms part of the Transforming Government Security programme, which aims to standardise and strengthen operational security across Government.
 
-The Ministry of Justice \(MoJ\) is part of Cluster 2, and so must adhere to this policy.
+The Ministry of Justice \(MoJ\) is part of PSC Operations, and so must adhere to this policy.
 
-This policy applies to permanent members of staff and contractors' employees employed on the work of the MoJ, and those organisations for which the Cluster 2 Security Unit holds the responsibility for vetting, including non-departmental public bodies \(NDPBs\).
+This policy applies to permanent members of staff and contractors' employees employed on the work of the MoJ, and those organisations for which the PSC Operations Unit holds the responsibility for vetting, including non-departmental public bodies \(NDPBs\).
 
 It also applies to:
 
@@ -18,11 +18,11 @@ It *does* include existing employees of a contractor who are newly deployed to c
 
 ## Policy
 
-The MoJ provides a right of internal appeal to the Permanent Secretary where an individual who falls within the scope of this policy has a security clearance refused or withdrawn by the Cluster 2 Security Unit. The appeal **should** be submitted within 15 working days of notification of the refusal or withdrawal decision.
+The MoJ provides a right of internal appeal to the Permanent Secretary where an individual who falls within the scope of this policy has a security clearance refused or withdrawn by the PSC Operations Unit. The appeal **should** be submitted within 15 working days of notification of the refusal or withdrawal decision.
 
 Where the Permanent Secretary upholds the vetting decision to refuse or withdraw security clearance, there is a further avenue of appeal to the independent Security Vetting Appeals Panel \(SVAP\). This appeal **should** be submitted within 28 days of notification that the vetting decision has been upheld.
 
-To achieve this requirement, the Cluster 2 Security Unit must:
+To achieve this requirement, the PSC Operations Unit must:
 
 -   Ensure that the decision to refuse or withdraw national security clearance for an existing permanent or contracted employee \(as identified previously\) is communicated to the individual promptly and in writing.
 -   Ensure that the individual is given the full reasons for the decision, and the relevant facts upon which it was based, as far as considerations of security and confidentiality allow.
