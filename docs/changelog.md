@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2023-03-20-17:35-gmt-[updated-overseas-travel-form](https:-security-guidance.service.justice.gov.uk-gs-overseas-travel-form.docx)"></a>
+
+-   **2023-03-20 17:35 GMT [Updated overseas travel form](https://security-guidance.service.justice.gov.uk/gs/overseas-travel-form.docx)**
+
+    The form to request security review of overseas travel has been updated.
+
 <a name="2023-02-28-17:35-gmt-[corrected-policy-reference-number](https:-security-guidance.service.justice.gov.uk-acceptable-use-policy-#managing-email-use)"></a>
 
 -   **2023-02-28 17:35 GMT [Corrected policy reference number](https://security-guidance.service.justice.gov.uk/acceptable-use-policy/#managing-email-use)**
