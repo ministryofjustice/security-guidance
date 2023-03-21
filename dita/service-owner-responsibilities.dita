@@ -79,7 +79,7 @@
         <topic id="cryptographic-and-secrets-management">
             <title>Cryptographic and Secrets Management</title>
             <body>
-                <p>Where relevant, issuing, managing, and revoking cryptographic credentials via Private Public Key Infrastructure (PKI). Also, management of shared secrets where required.</p>
+                <p>Where relevant, issuing, managing, and revoking cryptographic credentials via <xref href="public-key-infrastructure-policy.dita" format="dita">Public Key Infrastructure (PKI)</xref>. Also, management of shared secrets where required.</p>
             </body>
         </topic>
 
@@ -100,7 +100,7 @@
         <topic id="incident-management-and-response">
             <title>Incident Management and Response</title>
             <body>
-                <p>Developing security incident playbooks, supporting security incident triage; and Data Protection incident investigations, response, and handling to ensure security events cause minimal harm to the organisation, and that evidence is captured for any wider analysis.<xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident" format="html" scope="external">Report a security incident - Ministry of Justice HQ Intranet.</xref></p>
+                <p>Developing security incident playbooks, supporting security incident triage; and Data Protection incident investigations, response, and handling to ensure security events cause minimal harm to the organisation, and that evidence is captured for any wider analysis. For more information, refer to the <xref href="reporting-an-incident.dita" format="dita">Report a security incident</xref> guidance.</p>
             </body>
         </topic>
 

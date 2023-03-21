@@ -53,6 +53,29 @@
           </ol></p>
       </body>
   </topic>
+  <topic id="offline-content">
+    <title>Offline content</title>
+    <body>
+      <p platform="html">This guidance is available in PDF and EPUB formats.</p>
+      <p platform="html">All users. Contains general guidance with some technical information:</p>
+      <ul platform="html">
+        <li><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></li>
+        <li><xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref></li>
+      </ul>
+      <p platform="html">Group Security. Contains Group Security policy and guidance:</p>
+      <ul platform="html">
+        <li><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></li>
+        <li><xref href="moj-guidance-gs.epub" format="epub" scope="peer">EPUB</xref></li>
+      </ul>
+      <p platform="html">Technical users. Contains detailed technical information, together with all users and Group Security content:</p>
+      <ul platform="html">
+        <li><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></li>
+        <li><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></li>
+      </ul>
+      <p platform="html">The offline versions of this guidance are time-limited, and are <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
+      <p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, refer to the <xref href="https://security-guidance.service.justice.gov.uk/" format="html" scope="external">security guidance site</xref>.</p>
+    </body>
+  </topic>
   <topic id="taxonomy">
     <title>Information structure</title>
     <body>
@@ -261,23 +284,26 @@
       <topic id="system-and-application-access-control" audience="audience-tech">
         <title>System and application access control</title>
         <body>
-        <p>These policies are for technical users:</p>
-        <ul>
-          <li audience="audience-tech"><xref href="account-management.dita" format="dita">Account management</xref></li>
-          <li audience="audience-tech"><xref href="authorisation.dita" format="dita">Authorisation</xref></li>
-          <li audience="audience-tech"><xref href="multi-user-accounts-and-public-facing-service-accounts-guide.dita" format="dita">Multi-user accounts and Public-Facing Service Accounts Guide</xref></li>
-          <li audience="audience-tech"><xref href="password-creation-and-authentication-guide.dita" format="dita">Password Creation and Authentication Guide</xref></li>
-          <li audience="audience-tech"><xref href="password-management-guide.dita" format="dita">Password Management Guide</xref></li>
-          <li audience="audience-tech"><xref href="password-managers.dita" format="dita">Password Managers</xref></li>
-          <li audience="audience-tech"><xref href="passwords.dita" format="dita">Passwords</xref></li>
-          <li audience="audience-tech"><xref href="password-storage-and-management-guide.dita" format="dita">Password Storage and Management Guide</xref></li>
-          <li audience="audience-tech"><xref href="policies-for-google-apps-administrators.dita" format="dita">Policies for Google Apps administrators</xref></li>
-          <li audience="audience-tech"><xref href="policies-for-macbook-administrators.dita" format="dita">Policies for MacBook Administrators</xref></li>
-          <li audience="audience-tech"><xref href="system-users-and-application-administrators.dita" format="dita">System User and Application Administrators</xref></li>
-          <li audience="audience-tech"><xref href="using-lastpass.dita" format="dita">Using LastPass Enterprise</xref></li>
-        </ul>
-      </body>
-    </topic>
+          <p>These policies are for all users:</p>
+          <ul>
+            <li><xref href="password-managers.dita" format="dita">Password Managers</xref></li>
+            <li><xref href="passwords.dita" format="dita">Passwords</xref></li>
+            <li><xref href="using-lastpass.dita" format="dita">Using LastPass Enterprise</xref></li>
+          </ul>
+          <p audience="audience-tech">These policies are for technical users:</p>
+          <ul audience="audience-tech">
+            <li><xref href="account-management.dita" format="dita">Account management</xref></li>
+            <li><xref href="authorisation.dita" format="dita">Authorisation</xref></li>
+            <li><xref href="multi-user-accounts-and-public-facing-service-accounts-guide.dita" format="dita">Multi-user accounts and Public-Facing Service Accounts Guide</xref></li>
+            <li><xref href="password-creation-and-authentication-guide.dita" format="dita">Password Creation and Authentication Guide</xref></li>
+            <li><xref href="password-management-guide.dita" format="dita">Password Management Guide</xref></li>
+            <li><xref href="password-storage-and-management-guide.dita" format="dita">Password Storage and Management Guide</xref></li>
+            <li><xref href="policies-for-google-apps-administrators.dita" format="dita">Policies for Google Apps administrators</xref></li>
+            <li><xref href="policies-for-macbook-administrators.dita" format="dita">Policies for MacBook Administrators</xref></li>
+            <li><xref href="system-users-and-application-administrators.dita" format="dita">System User and Application Administrators</xref></li>
+          </ul>
+        </body>
+      </topic>
     </topic>
     <topic id="cryptography" audience="audience-tech">
       <title>Cryptography</title>
@@ -465,6 +491,7 @@
             <li><xref href="email-blocklist-process.dita" format="dita">Email Blocklist Process</xref></li>
             <li><xref href="email-security-guide.dita" format="dita">Email Security Guide</xref></li>
             <li><xref href="secure-email-transfer-guide.dita" format="dita">Secure Email Transfer Guide</xref></li>
+            <li><xref href="spam-and-phishing-guide.dita" format="dita">Spam and Phishing Guide</xref></li>
           </ul>
         </body>
       </topic>
@@ -490,9 +517,9 @@
           <ul>
             <li><xref href="maintained-by-default.dita" format="dita">Maintained by Default</xref></li>
             <li><xref href="secure-by-default.dita" format="dita">Secure by Default</xref></li>
+            <li><xref href="service-owner-responsibilities.dita" format="dita">Service Owners Responsibilities</xref></li>
             <li><xref href="source-code-publishing.dita" format="dita">Source Code Publishing</xref></li>
             <li><xref href="system-test-standard.dita" format="dita">System Test Standard</xref></li>
-            <li><xref href="service-owner-responsibilities.dita" format="dita">Service Owners Responsibilities</xref></li>
           </ul>
         </body>
       </topic>
@@ -633,42 +660,6 @@
     </topic>
   </topic>
 
-  <topic id="offline-content">
-    <title>Offline content</title>
-    <body>
-      <p platform="html">This guidance is available in PDF and EPUB formats.</p>
-      <p platform="html">All users. Contains general guidance with some technical information:</p>
-      <ul platform="html">
-        <li><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></li>
-        <li><xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref></li>
-      </ul>
-      <p platform="html">Group Security. Contains Group Security policy and guidance:</p>
-      <ul platform="html">
-        <li><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></li>
-        <li><xref href="moj-guidance-gs.epub" format="epub" scope="peer">EPUB</xref></li>
-      </ul>
-      <p platform="html">Technical users. Contains detailed technical information, together with all users and Group Security content:</p>
-      <ul platform="html">
-        <li><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></li>
-        <li><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></li>
-      </ul>
-      <p platform="html">The offline versions of this guidance are time-limited, and are <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>.</p>
-      <p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, refer to the <xref href="https://security-guidance.service.justice.gov.uk/" format="html" scope="external">security guidance site</xref>.</p>
-    </body>
-  </topic>
-  <topic id="searching-this-content" platform="epub pdf">
-    <title>Searching this content</title>
-    <body>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> security guidance is searchable in two ways:</p>
-      <ol>
-        <li>By searching for the word or phrase on your preferred search engine, and specifying this site:
-          <pre>site:https://security-guidance.service.justice.gov.uk/</pre>
-          For example, to search for information about passwords, you might use the following search expression:
-          <pre>password site:https://security-guidance.service.justice.gov.uk/</pre></li>
-        <li>By downloading one of the offline versions and using the inbuilt search capability of your offline reader.</li>
-      </ol>
-    </body>
-  </topic>
   <topic id="other-guidance">
     <title>Other Guidance</title>
   <!--

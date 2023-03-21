@@ -70,7 +70,7 @@
         <p>
           <b>POL.IMP.003:</b>
         </p>
-        <p>For all incidents involving an IT Security incident, an IT Security Incident Report Form <b>must be</b> completed and submitted to the <ph conref="conrefs.dita#conrefs/securityemailtext"/> (<xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">Reporting an incident or breach</xref> ). This is irrespective of the reporting route (i.e. a User direct with <ph conref="conrefs.dita#conrefs/securityemailtext"/> or a user via the <ph conref="conrefs.dita#conrefs/servicedesk"/>).</p>
+        <p>For all incidents involving an IT Security incident, an IT Security Incident Report Form <ph conref="conrefs.dita#conrefs/policymust"/> be completed and submitted to the <ph conref="conrefs.dita#conrefs/securityemailtext"/> (<xref href="reporting-an-incident.dita" format="dita">Report a security incident</xref>). This is irrespective of the reporting route (i.e. a User direct with <ph conref="conrefs.dita#conrefs/securityemailtext"/> or a user via the <ph conref="conrefs.dita#conrefs/servicedesk"/>).</p>
         <p>
           <b>POL.IMP.004:</b>
         </p>
