@@ -2,106 +2,86 @@
 
 ## Summary
 
-This site documents some of the security decisions that the [Ministry of Justice \(MoJ\)](https://www.gov.uk/government/organisations/ministry-of-justice) has made for the products we operate, and our relationships with suppliers.
+This site lists the [Ministry of Justice \(MoJ\)](https://www.gov.uk/government/organisations/ministry-of-justice) Information Security policies. It contains important guidance on how to keep MoJ information safe and secure.
+
+Policies shown here are listed for technical users and non-technical users \(referred to as all users\).
+
+Technical users include:
+
+-   Technical architects
+-   DevOps specialists
+-   IT service managers
+-   Software developers
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 20 March 2023.
+**Note:** This guidance is dated: 21 March 2023.
 
-### Popular links
+## Change log
+
+A 'change log' is [available](changelog.md). It details the most recent changes to this information.
+
+The changes are also available as [RSS](rss.xml) or [Atom](atom.xml) feeds.
+
+## Popular links
 
 Popular links for all users:
 
--   [Security threat level and emergency procedures](security-threat-level-and-emergency-procedures.md)
+-   [Security threat level and emergency procedures](security-threat-level-and-emergency-procedures.md)
 -   [Overseas travel](overseas-travel.md) and [accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
 -   [General app guidance](general-user-video-and-messaging-apps-guidance.md)
 -   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
 -   [Government classification scheme](government-classification-scheme.md)
 -   [Remote Working](remote-working.md)
 
-### Change log
+## Offline content
 
-A 'change log' is [available](changelog.md). It details the most recent changes to this information.
+This guidance is available in PDF and EPUB formats.
 
-The changes are also available as [RSS](rss.xml) or [Atom](atom.xml) feeds.
+All users. Contains general guidance with some technical information:
 
-### Offline content
+-   [PDF](moj-guidance.pdf)
+-   [EPUB](moj-guidance.epub)
 
-For convenience, offline versions of this guidance are available.
+Group Security. Contains Group Security policy and guidance:
 
-|Audience|PDF format|EPUB format|
-|--------|----------|-----------|
-|All users. Does not include lots of technical detail.|[PDF](moj-guidance.pdf)|[EPUB](moj-guidance.epub)|
-|Group Security. Contains Group Security policy and guidance.|[PDF](moj-guidance-gs.pdf)|[EPUB](moj-guidance-gs.epub)|
-|Technical users. Includes lots of technical detail. This document contains all content, including for 'All users' and from Group Security. Download this document if you want the complete set of published MoJ security policy and guidance.|[PDF](moj-guidance-tech.pdf)|[EPUB](moj-guidance-tech.epub)|
+-   [PDF](moj-guidance.pdf)
+-   [EPUB](moj-guidance-gs.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 20 April 2023.
+Technical users. Contains detailed technical information, together with all users and Group Security content:
 
-### Security culture
+-   [PDF](moj-guidance-tech.pdf)
+-   [EPUB](moj-guidance-tech.epub)
+
+The offline versions of this guidance are time-limited, and are not valid after 21 April 2023.
+
+## Security culture
 
 In addition to the obvious security resources such as policies, controls, and software and hardware tools, all organisations need employees, suppliers and other colleagues to behave in a way that helps ensure good security at all times. A simple example is where someone will act in a way that maintains good security, even if they don't know exactly what the formal process is. The extent to which an organisation has good security in indicated by its security culture.
 
-Security culture refers to the set of values, shared by everyone in an organisation, that determines how people are expected to think about and approach security. Getting security culture right helps develop a security conscious workforce, and promotes the desired security behaviours expected from everyone working in or for the organisation.​
+Security culture refers to the set of values, shared by everyone in an organisation, that determines how people are expected to think about and approach security. Getting security culture right helps develop a security conscious workforce, and promotes the desired security behaviours expected from everyone working in or for the organisation.
 
-The MoJ is creating a portfolio of security culture resources to help supplement the formal policy and guidance material. Initial security culture material is available for preview [here](security-culture.md).
-
-### Getting in touch
-
--   [To report an incident](reporting-an-incident.md).
--   For general assistance on MoJ security matters, email [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   For Cyber Security assistance or consulting, email [security@justice.gov.uk](mailto:security@justice.gov.uk). More information about the Security Team is [available](user-guide.md).
--   Suppliers to the MoJ should first communicate with their usual MoJ points of contact.
-
-### Background
-
-[Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) replaces the [HMG Security Policy Framework \(SPF\)](https://www.gov.uk/government/publications/security-policy-framework). The policies which sit within that framework remain in effect, but are now in support of this standard.
-
-![A diagram showing a hierarchy of the key components within the Government Functional Standard. It is in three sections. In the first section, at the top is a triangle labelled Principles. This stands on a block marked Content, which itself stands on a block marked Governance, showing that governance and content underpin the principles. The second section is called Security Life Cycle. It shows a flow from left to right. To the left of the section is a large arrow entitled Security Strategy and Planning. This arrow splits on the right hand side into two small arrows. The top small arrow is labelled Prevention and Detection. The bottom small arrow is labelled Security Incident Management. A small line arrow drops down from the top Prevention and Detection arrow to the bottom Security Incident Management arrow. To the right hand side of this section of the diagram, the Prevention and Detection and the Security Incident Management arrows converge into a final large arrow, entitled Review and Learn from Experience. A dotted line arrow, labelled Improvement, goes back from the Review and Learn arrow over to the beginning of this section of the diagram, linking to the Security Strategy and Planning arrow. Underneath these arrow diagrams is the third and final section. This is a summary text, called Security Practices. Many practices are listed using three columns in this section. The left column list includes: Critical Assets and Services, Risk Management, and Access to information. The middle column list includes: Capability, capacity and resources, Security culture, Security education and awareness, and Physical security. The right column list includes: Personnel security, Cyber security, and Technical security.](images/gov007overview.png)
-
-Sections 6.3 Cyber security and 6.4 Technical security of the standard state:
-
--   > The purpose of cyber security is to ensure the security of data and information. To operate effectively, the UK government needs to maintain the confidentiality, integrity and availability of its information, systems and infrastructure, and the services it provides.
--   > The purpose of technical security measures is to holistically protect sensitive information and technology from close access acquisition or exploitation by hostile actors, as well as any other form of technical manipulation. Technical security also relates to the protection of security systems from compromise and/or external interference.
+The MoJ is creating a portfolio of security culture resources to help supplement the formal policy and guidance material. Initial security culture material is available for [preview](security-culture.md).
 
 ## Information structure
 
-The MoJ has developed our cyber and technical security taxonomy as follows:
+MoJ policy documents are listed beneath the following headings:
 
-|Level 1|Level 2|
-|-------|-------|
-|[Information security policies](#information-security-policies)|[Management direction for information security](#management-direction-for-information-security)|
-|[Mobile devices and teleworking](#mobile-devices-and-teleworking)|[Mobile device policy](#mobile-device-policy)|
-||[Teleworking](#teleworking)|
-|[Human resource security](#human-resource-security)|[Prior to employment](#prior-to-employment)|
-||[During employment](#during-employment)|
-|[Asset management](#asset-management)|[Responsibility for assets](#responsibility-for-assets)|
-||[Information classification](#information-classification)|
-||[Media handling](#media-handling)|
-|[Access control](#access-control)|[Business requirements of access control](#business-requirements-of-access-control)|
-||[User access management](#user-access-management)|
-||[User responsibilities](#user-responsibilities)|
-||[System and application access control](#system-and-application-access-control)|
-|[Cryptography](#cryptography)|[Cryptographic controls](#cryptographic-controls)|
-|[Physical and environmental security](#physical-and-environmental-security)|[Secure areas](#secure-areas)|
-||[Equipment](#equipment)|
-|[Operations security](#operations-security)|[Operational procedures and responsibilities](#operational-procedures-and-responsibilities)|
-||[Protection from malware](#protection-from-malware)|
-||[Backup](#backup)|
-||[Logging and monitoring](#logging-and-monitoring)|
-||[Control of operational software](#control-of-operational-software)|
-||[Technical vulnerability management](#technical-vulnerability-management)|
-|[Communications security](#communications-security)|[Network security management](#network-security-management)|
-||[Information transfer](#information-transfer)|
-|[System acquisition, development and maintenance](#system-acquisition-development-and-maintenance)|[Security requirements of information systems](#security-requirements-of-information-systems)|
-||[Security in development and support processes](#security-in-development-and-support-processes)|
-||[Test data](#test-data)|
-|[Supplier relationships](#supplier-relationships)|[Information security in supplier relationships](#information-security-in-supplier-relationships)|
-||[Supplier service delivery management](#supplier-service-delivery-management)|
-|[Information security incident management](#information-security-incident-management)|[Management of information security incidents and lost devices](#management-of-information-security-incidents-and-lost-devices)|
-|[Information security aspects of business continuity management](#information-security-aspects-of-business-continuity-management)|[Information security continuity](#information-security-continuity)|
-|[Compliance](#compliance)|[Compliance with legal and contractual requirements](#compliance-with-legal-and-contractual-requirements)|
-||[Information security reviews](#information-security-reviews)|
-|[Risk Assessment](#risk-assessment)|[Risk Assessment Process](#risk-assessment-process)|
+-   [Information security policies](#information-security-policies)
+-   [Mobile devices and teleworking](#mobile-devices-and-teleworking)
+-   [Human resource security](#human-resource-security)
+-   [Asset management](#asset-management)
+-   [Access control](#access-control)
+-   [Cryptography](#cryptography)
+-   [Physical and environmental security](#physical-and-environmental-security)
+-   [Operations security](#operations-security)
+-   [Communications security](#communications-security)
+-   [System acquisition, development and maintenance](#system-acquisition-development-and-maintenance)
+-   [Supplier relationships](#supplier-relationships)
+-   [Information security incident management](#information-security-incident-management)
+-   [Information security aspects of business continuity management](#information-security-aspects-of-business-continuity-management)
+-   [Compliance](#compliance)
+-   [Risk Assessment](#risk-assessment)
 
 The documents have been developed and defined within this taxonomy, and are listed in the next section, together with their suggested target audiences.
 
@@ -109,317 +89,415 @@ The documents have been developed and defined within this taxonomy, and are list
 
 #### Management direction for information security
 
-|[Avoiding too much security](setecastronomy.md)|All users|
-|[IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](identify-protect-detect-respond-recover.md)|All users|
-|[IT Security All Users Policy](it-security-all-users-policy.md)|All users \(Policy\)|
-|[IT Security Policy \(Overview\)](it-security-policy-overview.md)|All users \(Policy\)|
-|[IT Security Technical Users Policy](it-security-technical-users-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer \(Policy\)|
-|[Line Manager approval](line-manager-approval.md)|All users|
-|[Shared Responsibility Models](shared-responsibility-models.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Technical Controls Policy](technical-controls-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+These are the policies for all users:
+
+-   [Avoiding too much security](setecastronomy.md)
+-   [IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](identify-protect-detect-respond-recover.md)
+-   [IT Security All Users Policy](it-security-all-users-policy.md)
+-   [IT Security Policy \(Overview\)](it-security-policy-overview.md)
+-   [Line Manager approval](line-manager-approval.md)
+
+These are the policies for technical users:
+
+-   [IT Security Technical Users Policy](it-security-technical-users-policy.md)
+-   [Shared Responsibility Models](shared-responsibility-models.md)
+-   [Technical Controls Policy](technical-controls-policy.md)
 
 ### Mobile devices and teleworking
 
 #### Mobile device policy
 
-|[Mobile Device and Remote Working Policy](mobile-device-and-remote-working-policy.md)|All users \(Policy\)|
-|[Remote Working](remote-working.md)|All users|
+These policies are for all users:
+
+-   [Mobile Device and Remote Working Policy](mobile-device-and-remote-working-policy.md)
+-   [Remote Working](remote-working.md)
 
 #### Teleworking
 
-|[Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)|All users|
-|[General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md)|All users|
-|[Personal Devices](personal-devices.md)|All users|
+These policies are for all users:
+
+-   [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
+-   [General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
+-   [Personal Devices](personal-devices.md)
 
 ### Human resource security
 
 #### Prior to employment
 
-|[Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)|All users|
-|[National Security Vetting contact](national-security-vetting-contact.md)|All users|
-|[National Security Vetting questions](national-security-vetting-questions.md)|All users|
-|[National Security Vetting for External Candidates FAQ](national-security-vetting-for-external-candidates-faq.md)|All users|
-|[Pre-employment screening](pre-employment-screening.md)|All users|
-|[Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)|All users|
-|[Security clearance appeals policy](security-clearance-appeals-policy.md)|All users|
-|[Security clearance appeals procedures](security-clearance-appeals-procedures.md)|All users|
-|[Security vetting assessment of need](security-vetting-assessment-need.md)|All users|
+These policies are for all users:
+
+-   [Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)
+-   [National Security Vetting contact](national-security-vetting-contact.md)
+-   [National Security Vetting questions](national-security-vetting-questions.md)
+-   [National Security Vetting for External Candidates FAQ](national-security-vetting-for-external-candidates-faq.md)
+-   [Pre-employment screening](pre-employment-screening.md)
+-   [Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)
+-   [Security clearance appeals policy](security-clearance-appeals-policy.md)
+-   [Security clearance appeals procedures](security-clearance-appeals-procedures.md)
+-   [Security vetting assessment of need](security-vetting-assessment-need.md)
 
 #### During employment
 
-|[Ongoing Personnel Security](ongoing-personnel-security.md)|All users|
-|[Personnel risk assessment](personnel-risk-assessment.md)|All users|
-|[Reporting personal circumstance changes](reporting-personal-circumstance-changes.md)|All users|
-|[Training and Education](training-and-education.md)|All users|
-|[Voluntary drug testing policy](voluntary-drug-testing-policy.md)|All users|
-|[Voluntary drug testing policy procedures](voluntary-drug-testing-policy-procedures.md)|All users|
+These policies are for all users:
+
+-   [Ongoing Personnel Security](ongoing-personnel-security.md)
+-   [Personnel risk assessment](personnel-risk-assessment.md)
+-   [Reporting personal circumstance changes](reporting-personal-circumstance-changes.md)
+-   [Training and Education](training-and-education.md)
+-   [Voluntary drug testing policy](voluntary-drug-testing-policy.md)
+-   [Voluntary drug testing policy procedures](voluntary-drug-testing-policy-procedures.md)
 
 #### Termination and change of employment
 
-|[End or change of employment](end-or-change-of-employment.md)|All users|
-|[Leavers with NSC and NSVCs](leavers-with-nsc-and-nscvs.md)|All users|
+These policies are for all users:
+
+-   [End or change of employment](end-or-change-of-employment.md)
+-   [Leavers with NSC and NSVCs](leavers-with-nsc-and-nscvs.md)
 
 ### Asset management
 
 #### Responsibility for assets
 
-|[Acceptable use](acceptable-use.md)|All users|
-|[Acceptable use policy](acceptable-use-policy.md)|All users \(Policy\)|
-|[Guidance on IT Accounts and Assets for Long Term Leave](long-term-leave.md)|All users|
-|[Protect Yourself Online](protect-yourself-online.md)|All users|
-|[Web browsing security](web-browsing.md)|All users|
+These policies are for all users:
+
+-   [Acceptable use](acceptable-use.md)
+-   [Acceptable use policy](acceptable-use-policy.md)
+-   [Guidance on IT Accounts and Assets for Long Term Leave](long-term-leave.md)
+-   [Protect Yourself Online](protect-yourself-online.md)
+-   [Web browsing security](web-browsing.md)
 
 #### Information classification
 
-|[Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Government Classification Scheme](government-classification-scheme.md)|All users|
-|[Information Classification and Handling Guide](information-classification-handling-and-security-guide.md)|All users|
-|[Information Classification and Handling Policy](information-classification-and-handling-policy.md)|All users \(Policy\)|
-|[Secrets management](secrets-management.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+These policies are for all users:
+
+-   [Government Classification Scheme](government-classification-scheme.md)
+-   [Information Classification and Handling Guide](information-classification-handling-and-security-guide.md)
+-   [Information Classification and Handling Policy](information-classification-and-handling-policy.md)
+
+These policies are for technical users:
+
+-   [Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md)
+-   [Secrets management](secrets-management.md)
 
 #### Media handling
 
-|[Removable media](removable-media.md)|All users|
-|[Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)|All users|
-|[Secure disposal of IT - physical and on-premise](secure-disposal-of-it-physical-and-on-premise.md)|All users|
-|[Secure disposal of IT - public and private cloud](secure-disposal-of-it-public-and-private-cloud.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Working securely with paper documents and files](working-securely-with-paper-documents-and-files.md)|All users|
+These policies are for all users:
+
+-   [Removable media](removable-media.md)
+-   [Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)
+-   [Secure disposal of IT - physical and on-premise](secure-disposal-of-it-physical-and-on-premise.md)
+-   [Working securely with paper documents and files](working-securely-with-paper-documents-and-files.md)
+
+This policy is for technical users:
+
+-   [Secure disposal of IT - public and private cloud](secure-disposal-of-it-public-and-private-cloud.md)
 
 ### Access control
 
 #### Business requirements of access control
 
-|[Access Control Guide](access-control-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Access Control Policy](access-control-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Enterprise Access Control Policy](enterprise-access-control-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Privileged Account Management Guide](privileged-account-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+These policies are for technical users:
+
+-   [Access Control Guide](access-control-guide.md)
+-   [Access Control Policy](access-control-policy.md)
+-   [Enterprise Access Control Policy](enterprise-access-control-policy.md)
+-   [Privileged Account Management Guide](privileged-account-management-guide.md)
 
 #### User access management
 
-|[Authentication](authentication.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Management access](management-access.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Managing User Access Guide](managing-user-access-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Multi-Factor Authentication](multi-factor-authentication-mfa-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Privileged User Backups, Removable Media and Incident Management Guide](privileged-user-backups-removable-media-and-incident-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Privileged User Configuration, Patching and Change Management Guide](privileged-user-configuration-patching-and-change-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Privileged User Guide](privileged-user-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Privileged User Logging and Protective Monitoring Guide](privileged-user-logging-and-protective-monitoring-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+These policies are for technical users:
+
+-   [Authentication](authentication.md)
+-   [Management access](management-access.md)
+-   [Managing User Access Guide](managing-user-access-guide.md)
+-   [Multi-Factor Authentication](multi-factor-authentication-mfa-guide.md)
+-   [Privileged User Backups, Removable Media and Incident Management Guide](privileged-user-backups-removable-media-and-incident-management-guide.md)
+-   [Privileged User Configuration, Patching and Change Management Guide](privileged-user-configuration-patching-and-change-management-guide.md)
+-   [Privileged User Guide](privileged-user-guide.md)
+-   [Privileged User Logging and Protective Monitoring Guide](privileged-user-logging-and-protective-monitoring-guide.md)
 
 #### User responsibilities
 
-|[Protecting Social Media Accounts](protecting-social-media-accounts.md)|All users|
+This policy is for all users:
+
+-   [Protecting Social Media Accounts](protecting-social-media-accounts.md)
 
 #### System and application access control
 
-|[Account management](account-management.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Authorisation](authorisation.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Password Creation and Authentication Guide](password-creation-and-authentication-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Password Management Guide](password-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Password Managers](password-managers.md)|All users|
-|[Passwords](passwords.md)|All users|
-|[Password Storage and Management Guide](password-storage-and-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Policies for Google Apps administrators](policies-for-google-apps-administrators.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Policies for MacBook Administrators](policies-for-macbook-administrators.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[System User and Application Administrators](system-users-and-application-administrators.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Using LastPass Enterprise](using-lastpass.md)|All users|
+These policies are for all users:
+
+-   [Password Managers](password-managers.md)
+-   [Passwords](passwords.md)
+-   [Using LastPass Enterprise](using-lastpass.md)
+
+These policies are for technical users:
+
+-   [Account management](account-management.md)
+-   [Authorisation](authorisation.md)
+-   [Multi-user accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md)
+-   [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md)
+-   [Password Management Guide](password-management-guide.md)
+-   [Password Storage and Management Guide](password-storage-and-management-guide.md)
+-   [Policies for Google Apps administrators](policies-for-google-apps-administrators.md)
+-   [Policies for MacBook Administrators](policies-for-macbook-administrators.md)
+-   [System User and Application Administrators](system-users-and-application-administrators.md)
 
 ### Cryptography
 
 #### Cryptographic controls
 
-|[Automated certificate renewal](automated-certificate-renewal.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Cryptography](cryptography.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[HMG Cryptography Business Continuity Management Standard](hmg-cryptography-business-continuity-management-standard.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Public Key Infrastructure Policy](public-key-infrastructure-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Use of HMG Cryptography Policy](use-of-hmg-cryptography-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+These policies are for technical users:
+
+-   [Automated certificate renewal](automated-certificate-renewal.md)
+-   [Cryptography](cryptography.md)
+-   [HMG Cryptography Business Continuity Management Standard](hmg-cryptography-business-continuity-management-standard.md)
+-   [Public Key Infrastructure Policy](public-key-infrastructure-policy.md)
+-   [Use of HMG Cryptography Policy](use-of-hmg-cryptography-policy.md)
 
 ### Physical and environmental security
 
 #### Secure areas
 
-|[CCTV policy](cctv-policy.md)|All users|
-|[Entry and exit search policy](entry-and-exit-search-policy.md)|All users|
-|[Personal mail and parcel delivery policy and procedure](personal-mail-and-parcel-delivery-policy-and-procedure.md)|All users|
-|[Physical security policy](physical-security-policy.md)|All users|
-|[Public protest and demonstrations policy](public-protest-and-demonstrations-policy.md)|All users|
-|[Security in the office](security-in-the-office.md)|All users|
-|[Security threat level and emergency procedures](security-threat-level-and-emergency-procedures.md)|All users|
-|[Visitor access policy](visitor-access-policy.md)|All users|
+These policies are for all users:
+
+-   [CCTV policy](cctv-policy.md)
+-   [Entry and exit search policy](entry-and-exit-search-policy.md)
+-   [Personal mail and parcel delivery policy and procedure](personal-mail-and-parcel-delivery-policy-and-procedure.md)
+-   [Physical security policy](physical-security-policy.md)
+-   [Public protest and demonstrations policy](public-protest-and-demonstrations-policy.md)
+-   [Security in the office](security-in-the-office.md)
+-   [Security threat level and emergency procedures](security-threat-level-and-emergency-procedures.md)
+-   [Visitor access policy](visitor-access-policy.md)
 
 #### Equipment
 
-|[Clear Screen and Desk Policy](clear-screen-and-desk.md)|All users|
-|[Equipment Reassignment Guide](equipment-reassignment-guide.md)|All users|
-|[Laptops](laptops.md)|All users|
-|[Locking and shutdown](locking-and-shutdown.md)|All users|
-|[Policies for MacBook Users](policies-for-macbook-users.md)|All users|
-|[System Lockdown and Hardening Standard](system-lockdown-and-hardening-standard.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+These policies are for all users:
+
+-   [Clear Screen and Desk Policy](clear-screen-and-desk.md)
+-   [Equipment Reassignment Guide](equipment-reassignment-guide.md)
+-   [Laptops](laptops.md)
+-   [Locking and shutdown](locking-and-shutdown.md)
+-   [Policies for MacBook Users](policies-for-macbook-users.md)
+
+This policy is for technical users:
+
+-   [System Lockdown and Hardening Standard](system-lockdown-and-hardening-standard.md)
 
 ### Operations security
 
 #### Operational procedures and responsibilities
 
-|[Active Cyber Defence: Mail Check](mail-check.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Active Cyber Defence: Public Sector DNS](public-sector-dns.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Active Cyber Defence: Web Check](web-check.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Offshoring Guide](offshoring-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+These policies are for technical users:
+
+-   [Active Cyber Defence: Mail Check](mail-check.md)
+-   [Active Cyber Defence: Public Sector DNS](public-sector-dns.md)
+-   [Active Cyber Defence: Web Check](web-check.md)
+-   [Offshoring Guide](offshoring-guide.md)
 
 #### Protection from malware
 
-|[Malware Protection Guide \(Overview\)](malware-protection-guide-introduction.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Malware Protection Guide: Defensive Layer 1](malware-protection-guidance-defensive-layer-1.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Malware Protection Guide: Defensive Layer 2](malware-protection-guidance-defensive-layer-2.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Malware Protection Guide: Defensive Layer 3](malware-protection-guidance-defensive-layer-3.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Ransomware](ransomware.md)|All users|
+This policy is for all users:
+
+-   [Ransomware](ransomware.md)
+
+These policies are for technical users:
+
+-   [Malware Protection Guide \(Overview\)](malware-protection-guide-introduction.md)
+-   [Malware Protection Guide: Defensive Layer 1](malware-protection-guidance-defensive-layer-1.md)
+-   [Malware Protection Guide: Defensive Layer 2](malware-protection-guidance-defensive-layer-2.md)
+-   [Malware Protection Guide: Defensive Layer 3](malware-protection-guidance-defensive-layer-3.md)
 
 #### Backup
 
-|[System backup guidance](system-backup-guidance.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[System backup policy](system-backup-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[System backup standard](system-backup-standard.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+These policies are for technical users:
+
+-   [System backup guidance](system-backup-guidance.md)
+-   [System backup policy](system-backup-policy.md)
+-   [System backup standard](system-backup-standard.md)
 
 #### Logging and monitoring
 
-|[Accounting](accounting.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Commercial off-the-shelf applications](cots-applications.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Custom Applications](custom-applications.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Logging and monitoring](logging-and-monitoring.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Online identifiers in security logging and monitoring](online-identifiers.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Protective Monitoring](protective-monitoring.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Security Log Collection](security-log-collection.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Security Log Collection: Enterprise IT - Infrastructure](enterprise-it-infrastructure.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Security Log Collection: Enterprise IT - Mobile Devices](enterprise-it-mobile-devices.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Security Log Collection: Hosting Platforms](hosting-platforms.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Security Log Collection: Log entry metadata](log-entry-metadata.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Security Log Collection: Maturity Tiers](security-log-collection-maturity-tiers.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+These policies are for technical users:
+
+-   [Accounting](accounting.md)
+-   [Commercial off-the-shelf applications](cots-applications.md)
+-   [Custom Applications](custom-applications.md)
+-   [Logging and monitoring](logging-and-monitoring.md)
+-   [Online identifiers in security logging and monitoring](online-identifiers.md)
+-   [Protective Monitoring](protective-monitoring.md)
+-   [Security Log Collection](security-log-collection.md)
+-   [Security Log Collection: Enterprise IT - Infrastructure](enterprise-it-infrastructure.md)
+-   [Security Log Collection: Enterprise IT - Mobile Devices](enterprise-it-mobile-devices.md)
+-   [Security Log Collection: Hosting Platforms](hosting-platforms.md)
+-   [Security Log Collection: Log entry metadata](log-entry-metadata.md)
+-   [Security Log Collection: Maturity Tiers](security-log-collection-maturity-tiers.md)
 
 #### Control of operational software
 
-|[Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md)|All users|
+This policy is for all users:
+
+-   [Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md)
 
 #### Technical vulnerability management
 
-|[Patch management guide](patch-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Vulnerability Disclosure](vulnerability-disclosure-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Vulnerability Disclosure: Implementing `security.txt`](implement-security-txt.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Vulnerability scanning and patch management guide](vulnerability-scanning-and-patch-management-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Vulnerability scanning guide](vulnerability-scanning-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+These policies are for technical users:
+
+-   [Patch management guide](patch-management-guide.md)
+-   [Vulnerability Disclosure](vulnerability-disclosure-policy.md)
+-   [Vulnerability Disclosure: Implementing `security.txt`](implement-security-txt.md)
+-   [Vulnerability scanning and patch management guide](vulnerability-scanning-and-patch-management-guide.md)
+-   [Vulnerability scanning guide](vulnerability-scanning-guide.md)
 
 ### Communications security
 
 #### Network security management
 
-|[Code of Connection Standard](code-of-connection-standard.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Defensive domain registrations](defensive-domain-registration.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Domain names and Domain Name System \(DNS\) security policy](domain-names-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Internet v. PSN](internet-v-psn.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[IP DNS Diagram Handling](ip-dns-diagram-handling.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Multiple Back-to-back Consecutive Firewalls](multiple-consecutive-back-to-back-firewalls.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Networks are just bearers](networks-bearers-not-trust.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+These policies are for technical users:
+
+-   [Code of Connection Standard](code-of-connection-standard.md)
+-   [Defensive domain registrations](defensive-domain-registration.md)
+-   [Domain names and Domain Name System \(DNS\) security policy](domain-names-policy.md)
+-   [Internet v. PSN](internet-v-psn.md)
+-   [IP DNS Diagram Handling](ip-dns-diagram-handling.md)
+-   [Multiple Back-to-back Consecutive Firewalls](multiple-consecutive-back-to-back-firewalls.md)
+-   [Networks are just bearers](networks-bearers-not-trust.md)
 
 #### Information transfer
 
-|[Bluetooth](bluetooth.md)|All users|
-|[Criminal Justice Secure Mail \(CJSM\)](cjsm.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Data Sovereignty](data-sovereignty.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Email](email.md)|All users|
-|[Email Authentication Guide](email-authentication-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Email Blocklist Policy](email-blocklist-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Email Blocklist Process](email-blocklist-process.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Email Security Guide](email-security-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)|All users|
-|[Phishing Guide](phishing-guide.md)|All users|
-|[Protecting WhatsApp accounts](protecting-whatsapp-accounts.md)|All users|
-|[Secure Data Transfer Guide](secure-data-transfer-guide.md)|All users|
-|[Secure Email Transfer Guide](secure-email-transfer-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Sending information securely](sending-information-securely.md)|All users|
-|[Spam and Phishing Guide](spam-and-phishing-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Web browsing security policy profiles](web-browsing-security-policy-profiles.md)|All users \(Policy\)|
-|[Wifi security policy](wifi-security-policy.md)|All users \(Policy\)|
+These policies are for all users:
+
+-   [Bluetooth](bluetooth.md)
+-   [Email](email.md)
+-   [General Apps Guidance](general-user-video-and-messaging-apps-guidance.md)
+-   [Phishing Guide](phishing-guide.md)
+-   [Protecting WhatsApp accounts](protecting-whatsapp-accounts.md)
+-   [Secure Data Transfer Guide](secure-data-transfer-guide.md)
+-   [Sending information securely](sending-information-securely.md)
+-   [Web browsing security policy profiles](web-browsing-security-policy-profiles.md)
+-   [Wifi security policy](wifi-security-policy.md)
+
+These polices are for technical users:
+
+-   [Criminal Justice Secure Mail \(CJSM\)](cjsm.md)
+-   [Data Sovereignty](data-sovereignty.md)
+-   [Email Authentication Guide](email-authentication-guide.md)
+-   [Email Blocklist Policy](email-blocklist-policy.md)
+-   [Email Blocklist Process](email-blocklist-process.md)
+-   [Email Security Guide](email-security-guide.md)
+-   [Secure Email Transfer Guide](secure-email-transfer-guide.md)
+-   [Spam and Phishing Guide](spam-and-phishing-guide.md)
 
 ### System acquisition, development and maintenance
 
 #### Security requirements of information systems
 
-|[Technical Security Controls Guide](technical-security-controls-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Technical Security Controls Guide: Defensive Layer 1](technical-security-controls-guide-defensive-layer-1.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Technical Security Controls Guide: Defensive Layer 2](technical-security-controls-guide-defensive-layer-2.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+These policies are for technical users:
+
+-   [Technical Security Controls Guide](technical-security-controls-guide.md)
+-   [Technical Security Controls Guide: Defensive Layer 1](technical-security-controls-guide-defensive-layer-1.md)
+-   [Technical Security Controls Guide: Defensive Layer 2](technical-security-controls-guide-defensive-layer-2.md)
 
 #### Security in development and support processes
 
-|[Maintained by Default](maintained-by-default.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Secure by Default](secure-by-default.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Source Code Publishing](source-code-publishing.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[System Test Standard](system-test-standard.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+These policies are for technical users:
+
+-   [Maintained by Default](maintained-by-default.md)
+-   [Secure by Default](secure-by-default.md)
+-   [Service Owners Responsibilities](service-owner-responsibilities.md)
+-   [Source Code Publishing](source-code-publishing.md)
+-   [System Test Standard](system-test-standard.md)
 
 #### Test data
 
-|[Using Live Data for Testing purposes](using-live-data-for-testing-purposes.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+This policy is for technical users:
+
+-   [Using Live Data for Testing purposes](using-live-data-for-testing-purposes.md)
 
 ### Supplier relationships
 
 #### Information security in supplier relationships
 
-|[Suppliers to MoJ: Assessing Suppliers](assessing-suppliers.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Suppliers to MoJ: Contracts](contracts.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Suppliers to MoJ: Security Aspect Letters](security-aspect-letters.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Suppliers to MoJ: Supplier Corporate IT](supplier-corporate-it.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+These policies are for technical users:
+
+-   [Suppliers to MoJ: Assessing Suppliers](assessing-suppliers.md)
+-   [Suppliers to MoJ: Contracts](contracts.md)
+-   [Suppliers to MoJ: Security Aspect Letters](security-aspect-letters.md)
+-   [Suppliers to MoJ: Supplier Corporate IT](supplier-corporate-it.md)
 
 #### Supplier service delivery management
 
-|[Azure Account Baseline Templates](azure-account-baseline-templates.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Baseline for Amazon Web Services accounts](baseline-aws-accounts.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Baseline for Azure Subscriptions](baseline-for-azure-accounts.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+These policies are for technical users:
+
+-   [Azure Account Baseline Templates](azure-account-baseline-templates.md)
+-   [Baseline for Amazon Web Services accounts](baseline-aws-accounts.md)
+-   [Baseline for Azure Subscriptions](baseline-for-azure-accounts.md)
 
 ### Information security incident management
 
 #### Management of information security incidents and lost devices
 
-|[Forensic Principles](forensic-principles.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Forensic Readiness Guide](forensic-readiness-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Forensic Readiness Policy](forensic-readiness-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[IT Incident Management Policy](it-incident-management-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Lost devices or other IT security incidents](lost-devices-incidents.md)|All users|
-|[Reporting an incident](reporting-an-incident.md)|All users|
+These policies are for all users:
+
+-   [Lost devices or other IT security incidents](lost-devices-incidents.md)
+-   [Reporting an incident](reporting-an-incident.md)
+
+These policies are for technical users:
+
+-   [Forensic Principles](forensic-principles.md)
+-   [Forensic Readiness Guide](forensic-readiness-guide.md)
+-   [Forensic Readiness Policy](forensic-readiness-policy.md)
+-   [Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md)
+-   [Lost devices or other IT security incidents](lost-devices-incidents.md)
 
 ### Information security aspects of business continuity management
 
 #### Information security continuity
 
-|[IT Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[IT Disaster Recovery Policy](it-disaster-recovery-policy.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+These policies are for technical users:
+
+-   [IT Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md)
+-   [IT Disaster Recovery Policy](it-disaster-recovery-policy.md)
 
 ### Compliance
 
 #### Compliance with legal and contractual requirements
 
-|[Data Destruction](data-destruction.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Data Destruction: Contract Clauses - Definitions](data-destruction-contract-clauses-definitions.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Data Destruction: Contract Clauses - Long Format](data-destruction-contract-clauses-long-format.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Data Destruction: Contract Clauses - Long Format \(Appendix\)](data-destruction-contract-clauses-long-format-appendix.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Data Destruction: Contract Clauses - Short Format](data-destruction-contract-clauses-short-format.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Data Destruction: Instruction and Confirmation Letter](data-destruction-instruction-and-confirmation-letter.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Data Security and Privacy](data-security-and-privacy.md)|All users|
-|[Data Security & Privacy Lifecycle Expectations](data-security-and-privacy-lifecycle.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[Data Security & Privacy Triage Standards](data-security-and-privacy-triage-standards.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+This policy is for all users:
+
+-   [Data Security and Privacy](data-security-and-privacy.md)
+
+These policies are for technical users:
+
+-   [Data Destruction](data-destruction.md)
+-   [Data Destruction: Contract Clauses - Definitions](data-destruction-contract-clauses-definitions.md)
+-   [Data Destruction: Contract Clauses - Long Format](data-destruction-contract-clauses-long-format.md)
+-   [Data Destruction: Contract Clauses - Long Format \(Appendix\)](data-destruction-contract-clauses-long-format-appendix.md)
+-   [Data Destruction: Contract Clauses - Short Format](data-destruction-contract-clauses-short-format.md)
+-   [Data Destruction: Instruction and Confirmation Letter](data-destruction-instruction-and-confirmation-letter.md)
+-   [Data Security & Privacy Lifecycle Expectations](data-security-and-privacy-lifecycle.md)
+-   [Data Security & Privacy Triage Standards](data-security-and-privacy-triage-standards.md)
 
 #### Information security reviews
 
-|[Standards Assurance Tables](standards-assurance-tables.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+This policy is for technical users:
+
+-   [Standards Assurance Tables](standards-assurance-tables.md)
 
 ### Risk Assessment
 
 #### Risk Management
 
-|[Infrastructure and system accreditation](infrastructure-system-accreditation.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[IT Health Checks](ost/ithc.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
-|[IT Health Check - Test cancellations and delays](ost/test-cancellations-and-delays.md)|Technical Architect, DevOps, IT Service Manager, Software Developer|
+These policies are for technical users:
+
+-   [Infrastructure and system accreditation](infrastructure-system-accreditation.md)
+-   [IT Health Checks](ost/ithc.md)
+-   [IT Health Check - Test cancellations and delays](ost/test-cancellations-and-delays.md)
 
 #### Risk Assessment Process
 
-|[Risk reviews](risk-reviews.md)|All users|
+This policy is for all users:
+
+-   [Risk reviews](risk-reviews.md)
 
 ## Other Guidance
 

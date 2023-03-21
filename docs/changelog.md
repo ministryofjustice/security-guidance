@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2023-03-21-17:35-gmt-[restructure-landing-page-and-added-service-owners-responsibilities-guidance](https:-security-guidance.service.justice.gov.uk-service-owner-responsibilities-)"></a>
+
+-   **2023-03-21 17:35 GMT [Restructure landing page, and added service owners responsibilities guidance](https://security-guidance.service.justice.gov.uk/service-owner-responsibilities/)**
+
+    New material on service owner responsibilities.
+
 <a name="2023-03-20-17:35-gmt-[updated-overseas-travel-form](https:-security-guidance.service.justice.gov.uk-gs-overseas-travel-form.docx)"></a>
 
 -   **2023-03-20 17:35 GMT [Updated overseas travel form](https://security-guidance.service.justice.gov.uk/gs/overseas-travel-form.docx)**

@@ -76,6 +76,14 @@
       <p platform="epub pdf">This offline version of the guidance is available as <ph platform="epub">an EPUB</ph><ph platform="pdf">a PDF</ph> file for convenience. However, it is time-limited: it is <u>not</u> valid after <ph conref="tstamp.dita#tstamp/tstamp-expiry"/>. For the latest, current version of the guidance, refer to the <xref href="https://security-guidance.service.justice.gov.uk/" format="html" scope="external">security guidance site</xref>.</p>
     </body>
   </topic>
+  <topic id="security-culture">
+    <title>Security culture</title>
+    <body>
+      <p>In addition to the obvious security resources such as policies, controls, and software and hardware tools, all organisations need employees, suppliers and other colleagues to behave in a way that helps ensure good security at all times. A simple example is where someone will act in a way that maintains good security, even if they don't know exactly what the formal process is. The extent to which an organisation has good security in indicated by its security culture.</p>
+      <p>Security culture refers to the set of values, shared by everyone in an organisation, that determines how people are expected to think about and approach security. Getting security culture right helps develop a security conscious workforce, and promotes the desired security behaviours expected from everyone working in or for the organisation.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> is creating a portfolio of security culture resources to help supplement the formal policy and guidance material. Initial security culture material is available for <xref href="security-culture.dita" format="dita">preview</xref>.</p>
+    </body>
+  </topic>
   <topic id="taxonomy">
     <title>Information structure</title>
     <body>
