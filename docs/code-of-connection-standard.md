@@ -105,7 +105,7 @@ This Code of Connection \(CoCo\) covers the connection of the "NAME OF MoJ IT SY
 
 The services to be provided by this connection are defined in section A.1.2.1.
 
-The [MoJ IT Security Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/) and the IT Security Policy for the "ORGANISATION NAME FOR 3rd PARTY IT SYSTEM" are the primary polices which apply to this CoCo.
+The [MoJ IT Security Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/) and the IT Security Policy for the "ORGANISATION NAME FOR 3rd PARTY IT SYSTEM" are the primary policies which apply to this CoCo.
 
 Any 3rd party IT system connecting to a MoJ IT system must have a current and relevant IT Security Policy which is accepted by the MoJ ITSO and system Accreditor. If any aspects of the data to be exchanged require special handling measures or are particularly sensitive, the MoJ system Accreditor must be informed an approach to handling that data must be agreed by both connecting parties in advance.
 

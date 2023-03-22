@@ -20,6 +20,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="general-advice-on-taking-equipment-overseas.dita" type="topic"/>
 			<topicref href="overseas-travel.dita" type="topic"/>
 			<topicref href="personal-devices.dita" type="topic"/>
+			<topicref href="reporting-an-incident.dita" type="topic"/>
 		</topichead>
 	</topichead>
 
