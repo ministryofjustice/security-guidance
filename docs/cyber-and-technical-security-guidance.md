@@ -15,7 +15,7 @@ Technical users include:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 21 March 2023.
+**Note:** This guidance is dated: 22 March 2023.
 
 ## Change log
 
@@ -53,7 +53,7 @@ Technical users. Contains detailed technical information, together with all user
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 21 April 2023.
+The offline versions of this guidance are time-limited, and are not valid after 22 April 2023.
 
 ## Security culture
 
@@ -376,7 +376,7 @@ These policies are for all users:
 -   [Web browsing security policy profiles](web-browsing-security-policy-profiles.md)
 -   [Wifi security policy](wifi-security-policy.md)
 
-These polices are for technical users:
+These policies are for technical users:
 
 -   [Criminal Justice Secure Mail \(CJSM\)](cjsm.md)
 -   [Data Sovereignty](data-sovereignty.md)

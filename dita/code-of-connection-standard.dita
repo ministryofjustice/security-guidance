@@ -91,7 +91,7 @@
         <body>
           <p>This Code of Connection (CoCo) covers the connection of the "NAME OF <ph conref="conrefs.dita#conrefs/moj"/> IT SYSTEM" to "NAME of 3rd PARTY IT SYSTEM".</p>
           <p>The services to be provided by this connection are defined in section A.1.2.1.</p>
-          <p>The <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> IT Security Policy</xref> and the IT Security Policy for the "ORGANISATION NAME FOR 3rd PARTY IT SYSTEM" are the primary polices which apply to this CoCo.</p>
+          <p>The <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> IT Security Policy</xref> and the IT Security Policy for the "ORGANISATION NAME FOR 3rd PARTY IT SYSTEM" are the primary policies which apply to this CoCo.</p>
           <p>Any 3rd party IT system connecting to a <ph conref="conrefs.dita#conrefs/moj"/> IT system must have a current and relevant IT Security Policy which is accepted by the <ph conref="conrefs.dita#conrefs/moj"/> ITSO and system Accreditor.
 If any aspects of the data to be exchanged require special handling measures or are particularly sensitive, the <ph conref="conrefs.dita#conrefs/moj"/> system Accreditor must be informed an approach to handling that data must be agreed by both connecting parties in advance.</p>
         </body>

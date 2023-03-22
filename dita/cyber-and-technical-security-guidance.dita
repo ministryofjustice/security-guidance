@@ -490,7 +490,7 @@
             <li><xref href="web-browsing-security-policy-profiles.dita" format="dita" type="topic">Web browsing security policy profiles</xref></li>
             <li><xref href="wifi-security-policy.dita" format="dita" type="topic">Wifi security policy</xref></li>
           </ul>
-          <p audience="audience-tech">These polices are for technical users:</p>
+          <p audience="audience-tech">These policies are for technical users:</p>
           <ul audience="audience-tech">
             <li><xref href="cjsm.dita" format="dita">Criminal Justice Secure Mail (CJSM)</xref></li>
             <li><xref href="data-sovereignty.dita" format="dita">Data Sovereignty</xref></li>
