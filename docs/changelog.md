@@ -2,17 +2,17 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2023-04-18-17:10-bst-[revise-content](https:-security-guidance.service.justice.gov.uk-)"></a>
+
+-   **2023-04-18 17:10 BST [Revise content](https://security-guidance.service.justice.gov.uk/)**
+
+    Updates to personnel and related information.
+
 <a name="2023-03-21-17:35-gmt-[restructure-landing-page-and-added-service-owners-responsibilities-guidance](https:-security-guidance.service.justice.gov.uk-service-owner-responsibilities-)"></a>
 
 -   **2023-03-21 17:35 GMT [Restructure landing page, and added service owners responsibilities guidance](https://security-guidance.service.justice.gov.uk/service-owner-responsibilities/)**
 
     New material on service owner responsibilities.
-
-<a name="2023-03-20-17:35-gmt-[updated-overseas-travel-form](https:-security-guidance.service.justice.gov.uk-gs-overseas-travel-form.docx)"></a>
-
--   **2023-03-20 17:35 GMT [Updated overseas travel form](https://security-guidance.service.justice.gov.uk/gs/overseas-travel-form.docx)**
-
-    The form to request security review of overseas travel has been updated.
 
 <a name="2023-02-28-17:35-gmt-[corrected-policy-reference-number](https:-security-guidance.service.justice.gov.uk-acceptable-use-policy-#managing-email-use)"></a>
 
@@ -109,12 +109,6 @@ This document summarises what changes were made, and when, to MoJ Security polic
 -   **2022-06-01 13:36 BST [Reporting phishing](https://security-guidance.service.justice.gov.uk/phishing-guide/#reporting-phishes)**
 
     Clarified process for reporting phishing attempts.
-
-<a name="2022-05-31-14:01-bst-[overseas-travel](https:-security-guidance.service.justice.gov.uk-overseas-travel-)"></a>
-
--   **2022-05-31 14:01 BST [Overseas travel](https://security-guidance.service.justice.gov.uk/overseas-travel/)**
-
-    Corrected broken link within the content.
 
 <a name="2022-05-27-16:09-bst-[add-iasme-certification-information-and-templates.](https:-security-guidance.service.justice.gov.uk-iasme-)"></a>
 
@@ -242,12 +236,6 @@ This document summarises what changes were made, and when, to MoJ Security polic
 
     Updated baseline guidance for AWS and Azure platforms.
 
-<a name="2022-01-18-09:13-gmt-[updated-overseas-travel-form](https:-security-guidance.service.justice.gov.uk-gs-overseas-travel-form.docx)"></a>
-
--   **2022-01-18 09:13 GMT [Updated Overseas Travel Form](https://security-guidance.service.justice.gov.uk/gs/overseas-travel-form.docx)**
-
-    Updated Overseas Travel Form.
-
 <a name="2022-01-07-14:36-gmt-[contact-details-for-aws](https:-security-guidance.service.justice.gov.uk-baseline-aws-accounts-#security-incidents)"></a>
 
 -   **2022-01-07 14:36 GMT [Contact details for AWS](https://security-guidance.service.justice.gov.uk/baseline-aws-accounts/#security-incidents)**
@@ -320,18 +308,6 @@ This document summarises what changes were made, and when, to MoJ Security polic
 
     Added guidance requiring the use of MTA-SLS and TLS-RPT in MoJ email systems.
 
-<a name="2021-12-03-13:39-gmt-[visitor-access-policy](https:-security-guidance.service.justice.gov.uk-visitor-access-policy-)"></a>
-
--   **2021-12-03 13:39 GMT [Visitor Access Policy](https://security-guidance.service.justice.gov.uk/visitor-access-policy/)**
-
-    Policy regarding the access and security management controls that are in place for all visitors to MoJ buildings.
-
-<a name="2021-12-02-16:54-gmt-[national-security-vetting-contact](https:-security-guidance.service.justice.gov.uk-national-security-vetting-contact-)"></a>
-
--   **2021-12-02 16:54 GMT [National Security Vetting Contact](https://security-guidance.service.justice.gov.uk/national-security-vetting-contact/)**
-
-    Updated application form for candidacy to be an NSVC.
-
 <a name="2021-11-30-13:54-gmt-[personal-devices](https:-security-guidance.service.justice.gov.uk-personal-devices-)"></a>
 
 -   **2021-11-30 13:54 GMT [Personal Devices](https://security-guidance.service.justice.gov.uk/personal-devices/)**
@@ -368,12 +344,6 @@ This document summarises what changes were made, and when, to MoJ Security polic
 
     Guidance on working securely with paper documents and files.
 
-<a name="2021-11-18-17:03-gmt-[protests-and-demonstrations](https:-security-guidance.service.justice.gov.uk-public-protest-and-demonstrations-policy-)"></a>
-
--   **2021-11-18 17:03 GMT [Protests and demonstrations](https://security-guidance.service.justice.gov.uk/public-protest-and-demonstrations-policy/)**
-
-    Policy and guidance on public protests and demonstrations.
-
 <a name="2021-11-17-17:07-gmt-[personal-devices](https:-security-guidance.service.justice.gov.uk-personal-devices-#guidance)"></a>
 
 -   **2021-11-17 17:07 GMT [Personal devices](https://security-guidance.service.justice.gov.uk/personal-devices/#guidance)**
@@ -391,12 +361,6 @@ This document summarises what changes were made, and when, to MoJ Security polic
 -   **2021-11-08 17:30 GMT [System backup policy](https://security-guidance.service.justice.gov.uk/system-backup-policy/)**
 
     Corrected broken links within the content, also some structural changes for easier cross-referencing with related topics.
-
-<a name="2021-11-04-10:28-gmt-[cctv-policy](https:-security-guidance.service.justice.gov.uk-cctv-policy-)"></a>
-
--   **2021-11-04 10:28 GMT [CCTV Policy](https://security-guidance.service.justice.gov.uk/cctv-policy/)**
-
-    This policy details the purpose, usage, and management of the CCTV systems within the MoJ.
 
 <a name="2021-11-04-09:05-gmt-[working-securely-with-paper-documents-and-files](https:-security-guidance.service.justice.gov.uk-working-securely-with-paper-documents-and-files-)"></a>
 
@@ -422,12 +386,6 @@ This document summarises what changes were made, and when, to MoJ Security polic
 
     Information about keeping logging information.
 
-<a name="2021-10-20-09:53-bst-[national-security-vetting-contacts](https:-security-guidance.service.justice.gov.uk-national-security-vetting-contact-)"></a>
-
--   **2021-10-20 09:53 BST [National Security Vetting contacts](https://security-guidance.service.justice.gov.uk/national-security-vetting-contact/)**
-
-    Updates to the process and information for National Security Vetting contacts.
-
 <a name="2021-10-19-13:06-bst-[remote-working](https:-security-guidance.service.justice.gov.uk-remote-working-)"></a>
 
 -   **2021-10-19 13:06 BST [Remote working](https://security-guidance.service.justice.gov.uk/remote-working/)**
@@ -439,12 +397,6 @@ This document summarises what changes were made, and when, to MoJ Security polic
 -   **2021-10-15 16:27 BST [Email best practices](https://security-guidance.service.justice.gov.uk/email/)**
 
     Added guidance regarding attachments and the use of 'cc' and 'bcc' fields in emails.
-
-<a name="2021-10-15-13:39-bst-[security-clearance-appeals-procedures](https:-security-guidance.service.justice.gov.uk-security-clearance-appeals-procedures-)"></a>
-
--   **2021-10-15 13:39 BST [Security clearance appeals procedures](https://security-guidance.service.justice.gov.uk/security-clearance-appeals-procedures/)**
-
-    Added guidance for appealing a security clearance decision.
 
 <a name="2021-10-14-13:47-bst-[azure-subscription-baselines](https:-security-guidance.service.justice.gov.uk-baseline-for-azure-accounts-)"></a>
 
@@ -494,12 +446,6 @@ This document summarises what changes were made, and when, to MoJ Security polic
 
     Updates following the release of V2 of the Gov007 security standard.
 
-<a name="2021-09-06-09:21-bst-[national-security-vetting-contacts.](https:-security-guidance.service.justice.gov.uk-national-security-vetting-contact-)"></a>
-
--   **2021-09-06 09:21 BST [National Security Vetting contacts.](https://security-guidance.service.justice.gov.uk/national-security-vetting-contact/)**
-
-    Information on the role and registration process.
-
 <a name="2021-09-02-15:16:00-bst-[extra-guidance-on-remote-working.](https:-security-guidance.service.justice.gov.uk-remote-working-)"></a>
 
 -   **2021-09-02 15:16:00 BST [Extra guidance on remote working.](https://security-guidance.service.justice.gov.uk/remote-working/)**
@@ -517,12 +463,6 @@ This document summarises what changes were made, and when, to MoJ Security polic
 -   **2021-08-18 15:17:00 BST [Add change log page.](https://security-guidance.service.justice.gov.uk/changelog/)**
 
     Created a change log page, and associated RSS and Atom feeds, to describe new or changed content.
-
-<a name="2021-08-17-09:26:00-bst-[provide-offline-version-of-group-security-content.](https:-security-guidance.service.justice.gov.uk-#offline-content)"></a>
-
--   **2021-08-17 09:26:00 BST [Provide offline version of Group Security content.](https://security-guidance.service.justice.gov.uk/#offline-content)**
-
-    Created PDF and eBook versions of the security policy and guidance subset for Group Security.
 
 <a name="2021-08-16-17:04:00-bst-[clarification-for-accessing-moj-it-systems-overseas.](https:-security-guidance.service.justice.gov.uk-accessing-moj-it-systems-from-overseas-)"></a>
 

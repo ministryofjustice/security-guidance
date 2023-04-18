@@ -27,7 +27,7 @@ The changes are also available as [RSS](rss.xml) or [Atom](atom.xml) feeds.
 
 Popular links for all users:
 
--   [accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
+-   [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
 -   [General app guidance](general-user-video-and-messaging-apps-guidance.md)
 -   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
 -   [Government classification scheme](government-classification-scheme.md)
@@ -238,7 +238,7 @@ These policies are for technical users:
 
 #### Secure areas
 
-These policies are for all users:
+This policy is for all users:
 
 -   [Security in the office](security-in-the-office.md)
 
