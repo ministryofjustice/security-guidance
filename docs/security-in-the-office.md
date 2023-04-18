@@ -11,8 +11,6 @@ This document is a summary of the key security points for working in a Ministry 
 
 [Passwords](passwords.md)
 
-[Physical Security Policy](physical-security-policy.md)
-
 [Remote Working](remote-working.md)
 
 [Removable media](removable-media.md)

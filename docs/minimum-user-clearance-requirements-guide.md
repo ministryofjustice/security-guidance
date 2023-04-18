@@ -42,7 +42,7 @@ If an individual does not need to perform any of the previous tasks, then BPSS, 
 
 The MoJ HQ and Executive Agencies might have additional, specific requirements for DV/DV STRAP clearance for individual systems. These requirements should be followed where applicable.
 
-Please contact the [Security team](mailto:security@justice.gov.uk) and refer to the [National Security Vetting questions](national-security-vetting-questions.md) for further information.
+Please contact the [Security team](mailto:security@justice.gov.uk) for further information.
 
 ## Contact details
 

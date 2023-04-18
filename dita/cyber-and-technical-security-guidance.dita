@@ -33,8 +33,7 @@
     <body>
       <p>Popular links for all users:
         <ul>
-          <li><xref href="security-threat-level-and-emergency-procedures.dita" format="dita">Security threat level and emergency procedures</xref></li>
-          <li><xref href="overseas-travel.dita" format="dita">Overseas travel</xref> and <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref></li>
+          <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref></li>
           <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">General app guidance</xref></li>
           <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements Guide</xref></li>
           <li><xref href="government-classification-scheme.dita" format="dita">Government classification scheme</xref></li>
@@ -62,12 +61,14 @@
         <li><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></li>
         <li><xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref></li>
       </ul>
+      <!--
       <p platform="html">Group Security. Contains Group Security policy and guidance:</p>
       <ul platform="html">
         <li><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></li>
         <li><xref href="moj-guidance-gs.epub" format="epub" scope="peer">EPUB</xref></li>
       </ul>
-      <p platform="html">Technical users. Contains detailed technical information, together with all users and Group Security content:</p>
+      -->
+      <p platform="html">Technical users. Contains detailed technical information, together with all user content:</p>
       <ul platform="html">
         <li><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></li>
         <li><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></li>
@@ -161,41 +162,27 @@
       <topic id="prior-to-employment">
         <title>Prior to employment</title>
         <body>
-          <p>These policies are for all users:</p>
+          <p>This policy is for all users:</p>
           <ul>
             <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels Guide</xref></li>
-            <li><xref href="national-security-vetting-contact.dita" format="dita" type="topic">National Security Vetting contact</xref></li>
-            <li><xref href="national-security-vetting-questions.dita" format="dita" type="topic">National Security Vetting questions</xref></li>
-            <li><xref href="national-security-vetting-for-external-candidates-faq.dita" format="dita" type="topic">National Security Vetting for External Candidates FAQ</xref></li>
-            <li><xref href="pre-employment-screening.dita" format="dita" type="topic">Pre-employment screening</xref></li>
-            <li><xref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" format="dita" type="topic">Pre-Employment Screening and Vetting of External Candidates - FAQs</xref></li>
-            <li><xref href="security-clearance-appeals-policy.dita" format="dita" type="topic">Security clearance appeals policy</xref></li>
-            <li><xref href="security-clearance-appeals-procedures.dita" format="dita" type="topic">Security clearance appeals procedures</xref></li>
-            <li><xref href="security-vetting-assessment-need.dita" format="dita" type="topic">Security vetting assessment of need</xref></li>
           </ul>
         </body>
       </topic>
       <topic id="during-employment">
         <title>During employment</title>
         <body>
-          <p>These policies are for all users:</p>
+          <p>This policy is for all users:</p>
           <ul>
-            <li><xref href="ongoing-personnel-security.dita" format="dita">Ongoing Personnel Security</xref></li>
-            <li><xref href="personnel-risk-assessment.dita" format="dita">Personnel risk assessment</xref></li>
-            <li><xref href="reporting-personal-circumstance-changes.dita" format="dita">Reporting personal circumstance changes</xref></li>
             <li><xref href="training-and-education.dita" format="dita">Training and Education</xref></li>
-            <li><xref href="voluntary-drug-testing-policy.dita" format="dita">Voluntary drug testing policy</xref></li>
-            <li><xref href="voluntary-drug-testing-policy-procedures.dita" format="dita">Voluntary drug testing policy procedures</xref></li>
           </ul>
         </body>
       </topic>
       <topic id="termination-and-change-of-employment">
         <title>Termination and change of employment</title>
         <body>
-          <p>These policies are for all users:</p>
+          <p>This policy is for all users:</p>
           <ul>
             <li><xref href="end-or-change-of-employment.dita" format="dita" type="topic">End or change of employment</xref></li>
-            <li><xref href="leavers-with-nsc-and-nscvs.dita" format="dita" type="topic">Leavers with NSC and NSVCs</xref></li>
           </ul>
         </body>
       </topic>
@@ -338,14 +325,7 @@
         <body>
           <p>These policies are for all users:</p>
           <ul>
-            <li><xref href="cctv-policy.dita" format="dita">CCTV policy</xref></li>
-            <li><xref href="entry-and-exit-search-policy.dita" format="dita">Entry and exit search policy</xref></li>
-            <li><xref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" format="dita">Personal mail and parcel delivery policy and procedure</xref></li>
-            <li><xref href="physical-security-policy.dita" format="dita">Physical security policy</xref></li>
-            <li><xref href="public-protest-and-demonstrations-policy.dita" format="dita">Public protest and demonstrations policy</xref></li>
             <li><xref href="security-in-the-office.dita" format="dita">Security in the office</xref></li>
-            <li><xref href="security-threat-level-and-emergency-procedures.dita" format="dita">Security threat level and emergency procedures</xref></li>
-            <li><xref href="visitor-access-policy.dita" format="dita">Visitor access policy</xref></li>
           </ul>
         </body>
       </topic>
