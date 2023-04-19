@@ -15,7 +15,7 @@ Technical users include:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 18 April 2023.
+**Note:** This guidance is dated: 19 April 2023.
 
 ## Change log
 
@@ -29,7 +29,6 @@ Popular links for all users:
 
 -   [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
 -   [General app guidance](general-user-video-and-messaging-apps-guidance.md)
--   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
 -   [Government classification scheme](government-classification-scheme.md)
 -   [Remote Working](remote-working.md)
 
@@ -47,7 +46,7 @@ Technical users. Contains detailed technical information, together with all user
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 18 May 2023.
+The offline versions of this guidance are time-limited, and are not valid after 19 May 2023.
 
 ## Security culture
 
@@ -115,12 +114,6 @@ These policies are for all users:
 -   [Personal Devices](personal-devices.md)
 
 ### Human resource security
-
-#### Prior to employment
-
-This policy is for all users:
-
--   [Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)
 
 #### During employment
 
@@ -235,12 +228,6 @@ These policies are for technical users:
 -   [Use of HMG Cryptography Policy](use-of-hmg-cryptography-policy.md)
 
 ### Physical and environmental security
-
-#### Secure areas
-
-This policy is for all users:
-
--   [Security in the office](security-in-the-office.md)
 
 #### Equipment
 

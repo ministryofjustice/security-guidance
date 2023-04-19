@@ -2,11 +2,6 @@
 
 **Parent topic:** [Mobile Device and Remote Working Policy](mobile-device-and-remote-working-policy.md)
 
-**Related information**  
-
-
-[Security in the office](security-in-the-office.md)
-
 ## Key points
 
 -   **Do:** Be professional, and help keep Ministry of Justice \(MoJ\) information and resources safe and secure at all times.

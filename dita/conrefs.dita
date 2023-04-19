@@ -43,12 +43,10 @@
 			<ph id="gcloud"><xref href="https://www.digitalmarketplace.service.gov.uk/g-cloud" format="html" scope="external">Digital Marketplace (GCloud)</xref></ph>
 			<ph id="giaaemail">Government Internal Audit Agency via <ph conref="#conrefs/securityemailtext"/></ph>
 			<ph id="gov007"><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" format="html" scope="external">Government Functional Standard - GovS 007: Security</xref></ph>
-			<ph id="groupsecurityemail"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="html" scope="external">mojgroupsecurity@justice.gov.uk</xref></ph>
-			<ph id="groupsecurityemailtext"><xref href="mailto:mojgroupsecurity@justice.gov.uk" format="html" scope="external"><ph conref="#conrefs/moj"/> Group Security</xref></ph>
 			<ph id="gsuite">Google Workspace</ph>
 			<ph id="helpdesk"><ph conref="#conrefs/servicedesk"/></ph>
 			<ph id="helpdesknumber"><ph conref="#conrefs/servicedesk"/> (<ph conref="#conrefs/servicedesknumber"/>)</ph>
-			<ph id="higherclassification">If you are working with information or documentation higher than the <ph conref="#conrefs/official"/> classification level, contact <ph conref="#conrefs/groupsecurityemailtext"/> for specific guidance.</ph>
+			<ph id="higherclassification">If you are working with information or documentation higher than the <ph conref="#conrefs/official"/> classification level, contact <ph conref="#conrefs/securityemailtext"/> for specific guidance.</ph>
 			<ph id="hmggovernmentsecurityclassifications"><xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">HMG Government Security Classifications Policy</xref></ph>
 			<ph id="icolong">Information Commissioner's Office (<ph conref="#conrefs/ico"/>)</ph>
 			<ph id="ico">ICO</ph>
@@ -229,7 +227,7 @@
 		<p>Physical security advice,
 			including specific advice on this guidance,
 			can be obtained by contacting
-			<ph conref="#conrefs/moj"/> Group Security: <ph conref="#conrefs/groupsecurityemail"/>.</p>
+			<ph conref="#conrefs/securityemailtext"/>.</p>
 	  </body>
 	</topic>
 
@@ -283,16 +281,6 @@
 		</body>
 	</topic>
 
-	<topic id="contact-details-group-security">
-		<title>Contact details</title>
-		<body>
-			<p>For any further questions relating to group security matters,
-				contact: <ph conref="#conrefs/groupsecurityemail"/>.
-				For general security questions or concerns,
-				contact: <ph conref="#conrefs/securityemail"/>.</p>
-		</body>
-	</topic>
-
 	<topic id="contact-details">
 		<title>Contact details</title>
 		<body>
@@ -331,7 +319,7 @@
 			<p conref="#general-enquiries-including-theft-and-loss/dom1"/>
 			<p conref="#general-enquiries-including-theft-and-loss/hmppsinfosec"/>
 			<p>For non-technology incidents,
-				contact the <ph conref="#conrefs/moj"/> Group Security Team: <ph conref="#conrefs/groupsecurityemail"/></p>
+				contact the <ph conref="#conrefs/securityemailtext"/></p>
 			<p>Contact the Data Protection Team for information on Data Protection Impact Assessments: <ph conref="#conrefs/privacyemail"/></p>
 			<p>If you are not sure who to contact,
 				ask the Security Team:

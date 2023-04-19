@@ -332,12 +332,6 @@ This document summarises what changes were made, and when, to MoJ Security polic
 
     Improved structure for other guidance information, and added security.txt file.
 
-<a name="2021-11-19-14:29-gmt-[security-in-the-office](https:-security-guidance.service.justice.gov.uk-security-in-the-office-)"></a>
-
--   **2021-11-19 14:29 GMT [Security in the office](https://security-guidance.service.justice.gov.uk/security-in-the-office/)**
-
-    Key security points for working in a Ministry of Justice location.
-
 <a name="2021-11-19-10:09-gmt-[sending-information-securely](https:-security-guidance.service.justice.gov.uk-sending-information-securely-)"></a>
 
 -   **2021-11-19 10:09 GMT [Sending information securely](https://security-guidance.service.justice.gov.uk/sending-information-securely/)**
@@ -409,12 +403,6 @@ This document summarises what changes were made, and when, to MoJ Security polic
 -   **2021-10-13 15:50 BST [IT Health Checks](https://security-guidance.service.justice.gov.uk/ost/ithc/)**
 
     Added guidance on requesting and managing IT Health Checks.
-
-<a name="2021-10-13-09:26-bst-[user-clearance-requirements](https:-security-guidance.service.justice.gov.uk-minimum-user-clearance-requirements-guide-)"></a>
-
--   **2021-10-13 09:26 BST [User clearance requirements](https://security-guidance.service.justice.gov.uk/minimum-user-clearance-requirements-guide/)**
-
-    Clarification to minimum user clearance requirements.
 
 <a name="2021-10-08-09:56-bst-[wifi-policy](https:-security-guidance.service.justice.gov.uk-wifi-security-policy-)"></a>
 

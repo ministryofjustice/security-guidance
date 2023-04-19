@@ -144,7 +144,7 @@ The constantly changing security landscape has necessarily dictated that Physica
 
 ## Physical security advice
 
-Physical security advice can be obtained by contacting [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk).
+Physical security advice can be obtained by contacting [Security team](mailto:security@justice.gov.uk).
 
 ## Annex A: Suitable carriers
 
