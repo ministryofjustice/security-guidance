@@ -81,7 +81,7 @@ The Physical Security Policy defines how physical access to assets must be contr
 -   [National Security Vetting](https://www.gov.uk/guidance/security-vetting-and-clearance#applicant) should only be applied for where it is necessary, proportionate, and adds real value.
 -   The MoJ does not have a standing requirement for system administrators or application developers to maintain Security Check \(SC\) clearance.
 
-Further information on physical and personnel security is available from MoJGroup Security \([mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk)\) and [CPNI Guidance](https://www.cpni.gov.uk/physical-security).
+Further information on physical and personnel security is available from [Security team](mailto:security@justice.gov.uk) and [CPNI Guidance](https://www.cpni.gov.uk/physical-security).
 
 ## Identity and access control
 

@@ -2,11 +2,6 @@
 
 To help identify formal policy statements, each is prefixed with an identifier of the form: **POL.PPR.xxx**, where **xxx** is a unique ID number.
 
-**Related information**  
-
-
-[Security in the office](security-in-the-office.md)
-
 ## Audience
 
 This guidance complements the Ministry of Justice \(MoJ\) overall security policy.
@@ -62,16 +57,16 @@ To identify the right security level for information, think about:
 
 -   What the consequences might be if the information was compromised or misused.
 
--   Whether the information is likely to be under threat from anyone with a high intercept capability. If so, the information might require marking at a higher classification than **Official**. If you are working with information or documentation higher than the **Official** classification level, contact [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk) for specific guidance.
+-   Whether the information is likely to be under threat from anyone with a high intercept capability. If so, the information might require marking at a higher classification than **Official**. If you are working with information or documentation higher than the **Official** classification level, contact [Security team](mailto:security@justice.gov.uk) for specific guidance.
 
 
-If you are in any doubt, ask your line manager or contact [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk).
+If you are in any doubt, ask your line manager or contact [Security team](mailto:security@justice.gov.uk).
 
 ### Allocating security levels and marking
 
 **POL.PPR.004**: If you are generating original information, you **should** apply the [standard rules](government-classification-scheme.md) to decide which classification to use. Do not set security levels higher than necessary. Set the classification that is appropriate at the time. Classification can be altered later if circumstances change, such as when material is no longer embargoed or has been released intentionally for consultation.
 
-**POL.PPR.005**: For material at **Official-Sensitive** or higher classifications, the classification **shall** be written in capitals at the top and bottom of each page of the document. You **should** use the header and footer facility if creating electronically, and include page numbers by using the format `Page x of y`. You **should** only create documents at classification levels higher than **Official** on approved IT systems. If you are working with information or documentation higher than the **Official** classification level, contact [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk) for specific guidance. Files and documents **should** be marked according to the most sensitive piece of information included.
+**POL.PPR.005**: For material at **Official-Sensitive** or higher classifications, the classification **shall** be written in capitals at the top and bottom of each page of the document. You **should** use the header and footer facility if creating electronically, and include page numbers by using the format `Page x of y`. You **should** only create documents at classification levels higher than **Official** on approved IT systems. If you are working with information or documentation higher than the **Official** classification level, contact [Security team](mailto:security@justice.gov.uk) for specific guidance. Files and documents **should** be marked according to the most sensitive piece of information included.
 
 ### Data Protection Act
 
@@ -164,7 +159,7 @@ The constantly changing security landscape has necessarily dictated that Physica
 
 ### Physical security advice
 
-Physical security advice can be obtained by contacting [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk).
+Physical security advice can be obtained by contacting [Security team](mailto:security@justice.gov.uk).
 
 ## Contact details
 

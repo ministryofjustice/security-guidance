@@ -61,7 +61,7 @@
                     <li><p>What the consequences might be if the information was compromised or misused.</p></li>
                     <li><p>Whether the information is likely to be under threat from anyone with a high intercept capability. If so, the information might require marking at a higher classification than <ph conref="conrefs.dita#conrefs/official"/>. <ph conref="conrefs.dita#conrefs/higherclassification"/></p></li>
                 </ul></p>
-                <p>If you are in any doubt, ask your line manager or contact <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>.</p>
+                <p>If you are in any doubt, ask your line manager or contact <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
             </body>
         </topic>
         <topic id="allocating-security-levels-and-marking">
@@ -155,7 +155,7 @@
       <topic id="physical-security-advice">
           <title>Physical security advice</title>
           <body>
-          <p>Physical security advice can be obtained by contacting <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>.</p>
+          <p>Physical security advice can be obtained by contacting <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
           </body>
       </topic>
   </topic>

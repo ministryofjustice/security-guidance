@@ -6,7 +6,7 @@ This guidance information applies to all staff, contractors and agency staff who
 
 As a government official travelling overseas, you should consider that you may be of interest to hostile parties regardless of your role. By following MoJ policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.
 
-Essential guidance is provided in the [overseas travel information](overseas-travel.md).
+Essential guidance is provided in the overseas travel information available from [Security team](mailto:security@justice.gov.uk).
 
 In general, it is acceptable for MoJ users to access MoJ services from overseas, and to do this using their MoJ equipment. But before you travel, consider:
 
@@ -16,7 +16,7 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 
 -   If you just need to manage your inbox while away, can you delegate permissions to your inbox to a colleague to manage on your behalf?
 
--   Have you left enough time to check and obtain necessary approvals? You should ensure that your request is submitted using the [Overseas Travel Form](/gs/overseas-travel-form.docx) a minimum of fifteen working days before you intend to travel, or if you are subject to STRAP briefing a minimum of twenty working days before you intend to travel. This is because it may be necessary to apply additional technical controls to protect you, your devices, and any data the devices can access.
+-   Have you left enough time to check and obtain necessary approvals? You should ensure that your request is submitted using the Overseas Travel Form available from [Security team](mailto:security@justice.gov.uk), a minimum of fifteen working days before you intend to travel, or if you are subject to STRAP briefing a minimum of twenty working days before you intend to travel. This is because it may be necessary to apply additional technical controls to protect you, your devices, and any data the devices can access.
 
 -   Be aware that some countries only consider a passport as valid for a maximum of ten years from its issue date, regardless of the expiry date printed on it. Before travelling, make sure you understand the passport acceptance rules of all the countries you may travel to or through.
 
@@ -58,7 +58,7 @@ In general, it is acceptable for MoJ users to access MoJ services from overseas,
 2.  The next step depends on your MoJ business area:
     -   If you are part of MoJ HQ, HMPPS HQ, HMCTS, or NPS, contact your Senior Line Manager and ask for approval to take MoJ equipment overseas and access MoJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
     -   If you are part of HMPPS \(but *not* HQ\), contact your Governor and ask for approval to take MoJ equipment overseas and access MoJ services. Ask for any special details or considerations that apply to your proposed travel arrangements. Keep a note of the answers you get.
-3.  Fill in the [Overseas Travel Form](/gs/overseas-travel-form.docx).
+3.  Fill in the Overseas Travel Form available from [Security team](mailto:security@justice.gov.uk).
 4.  Send the completed form to [security@justice.gov.uk](mailto:security@justice.gov.uk), including the answers obtained from the earlier parts of this process.
 5.  Your request will be considered, and an answer provided, as quickly as possible.
 6.  When you receive approval for your trip, you might need to schedule a [debrief with your line manager or security representative](#on-your-return) for when you return. Travel approval might be conditional on having a debrief after the trip. If your trip involved visiting a 'special attention' country listed in [Part One](#part-one), a debrief when you return is mandatory.
@@ -105,7 +105,6 @@ If there is a problem with your MoJ equipment, it might be necessary to disable 
 ## Related pages
 
 -   [General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
--   [Overseas travel](overseas-travel.md)
 -   [Staff security and responsibilities during employment](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment)
 
 ## External websites

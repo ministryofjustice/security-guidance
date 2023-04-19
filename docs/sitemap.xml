@@ -8,27 +8,22 @@
 
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/</loc>
-  <lastmod>2023-03-21T17:35:00+00:00</lastmod>
+  <lastmod>2023-04-19T17:35:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/</loc>
-  <lastmod>2023-03-21T17:35:00+00:00</lastmod>
+  <lastmod>2023-04-19T17:35:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance.pdf</loc>
-  <lastmod>2023-03-21T17:35:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-gs.pdf</loc>
-  <lastmod>2023-03-21T17:35:00+00:00</lastmod>
+  <lastmod>2023-04-19T17:35:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-tech.pdf</loc>
-  <lastmod>2023-03-21T17:35:00+00:00</lastmod>
+  <lastmod>2023-04-19T17:35:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
@@ -36,11 +31,6 @@
   <loc>https://security-guidance.service.justice.gov.uk/service-owner-responsibilities/</loc>
   <lastmod>2023-03-21T17:35:00+00:00</lastmod>
   <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/gs/overseas-travel-form.docx</loc>
-  <lastmod>2023-03-20T17:35:00+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/acceptable-use-policy/</loc>
@@ -73,16 +63,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/gs/overseas-travel-guide-v1-6-aug-2022.docx</loc>
-  <lastmod>2022-08-31T09:50:00+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/overseas-travel/</loc>
-  <lastmod>2022-08-31T09:50:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/accessing-moj-it-systems-from-overseas/</loc>
   <lastmod>2022-08-31T09:50:00+00:00</lastmod>
   <priority>0.80</priority>
@@ -95,11 +75,6 @@
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/general-user-video-and-messaging-apps-guidance/</loc>
   <lastmod>2022-08-05T12:08:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/minimum-user-clearance-requirements-guide/</loc>
-  <lastmod>2022-08-04T16:22:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -413,11 +388,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/security-threat-level-and-emergency-procedures/</loc>
-  <lastmod>2021-12-13T11:44:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/government-classification-scheme/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
@@ -463,77 +433,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/national-security-vetting-contact/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/national-security-vetting-questions/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/national-security-vetting-for-external-candidates-faq/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/pre-employment-screening/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/pre-employment-screening-and-vetting-of-external-candidates-faqs/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/security-clearance-appeals-policy/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/security-clearance-appeals-procedures/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/security-vetting-assessment-need/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/ongoing-personnel-security/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/personnel-risk-assessment/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/reporting-personal-circumstance-changes/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/voluntary-drug-testing-policy/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/voluntary-drug-testing-policy-procedures/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/end-or-change-of-employment/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/leavers-with-nsc-and-nscvs/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -654,41 +554,6 @@
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/use-of-hmg-cryptography-policy/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/cctv-policy/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/entry-and-exit-search-policy/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/personal-mail-and-parcel-delivery-policy-and-procedure/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/physical-security-policy/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/public-protest-and-demonstrations-policy/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/security-in-the-office/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/visitor-access-policy/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -1008,42 +873,7 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/gs/national-security-vetting-contact-form.pdf</loc>
-  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/gs/national-security-vetting-questions.docx</loc>
-  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/gs/pre-employment-screening-and-vetting-of-external-candidates-faqs.docx</loc>
-  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/gs/internal-appeal-form.docx</loc>
-  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/gs/security-vetting-assessment-need.doc</loc>
-  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/gs/end-or-change-of-employment.docx</loc>
-  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/gs/MoJ_CCTV_Policy.docx</loc>
-  <lastmod>2021-12-08T09:25:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/gs/MoJ_Entry_and_Exit_Search_Policy_(Redacted).docx</loc>
   <lastmod>2021-12-08T09:25:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>

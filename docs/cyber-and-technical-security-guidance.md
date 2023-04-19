@@ -15,7 +15,7 @@ Technical users include:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 22 March 2023.
+**Note:** This guidance is dated: 19 April 2023.
 
 ## Change log
 
@@ -27,10 +27,8 @@ The changes are also available as [RSS](rss.xml) or [Atom](atom.xml) feeds.
 
 Popular links for all users:
 
--   [Security threat level and emergency procedures](security-threat-level-and-emergency-procedures.md)
--   [Overseas travel](overseas-travel.md) and [accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
+-   [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
 -   [General app guidance](general-user-video-and-messaging-apps-guidance.md)
--   [Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
 -   [Government classification scheme](government-classification-scheme.md)
 -   [Remote Working](remote-working.md)
 
@@ -43,17 +41,12 @@ All users. Contains general guidance with some technical information:
 -   [PDF](moj-guidance.pdf)
 -   [EPUB](moj-guidance.epub)
 
-Group Security. Contains Group Security policy and guidance:
-
--   [PDF](moj-guidance.pdf)
--   [EPUB](moj-guidance-gs.epub)
-
-Technical users. Contains detailed technical information, together with all users and Group Security content:
+Technical users. Contains detailed technical information, together with all user content:
 
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 22 April 2023.
+The offline versions of this guidance are time-limited, and are not valid after 19 May 2023.
 
 ## Security culture
 
@@ -122,37 +115,17 @@ These policies are for all users:
 
 ### Human resource security
 
-#### Prior to employment
-
-These policies are for all users:
-
--   [Minimum User Clearance Levels Guide](minimum-user-clearance-requirements-guide.md)
--   [National Security Vetting contact](national-security-vetting-contact.md)
--   [National Security Vetting questions](national-security-vetting-questions.md)
--   [National Security Vetting for External Candidates FAQ](national-security-vetting-for-external-candidates-faq.md)
--   [Pre-employment screening](pre-employment-screening.md)
--   [Pre-Employment Screening and Vetting of External Candidates - FAQs](pre-employment-screening-and-vetting-of-external-candidates-faqs.md)
--   [Security clearance appeals policy](security-clearance-appeals-policy.md)
--   [Security clearance appeals procedures](security-clearance-appeals-procedures.md)
--   [Security vetting assessment of need](security-vetting-assessment-need.md)
-
 #### During employment
 
-These policies are for all users:
+This policy is for all users:
 
--   [Ongoing Personnel Security](ongoing-personnel-security.md)
--   [Personnel risk assessment](personnel-risk-assessment.md)
--   [Reporting personal circumstance changes](reporting-personal-circumstance-changes.md)
 -   [Training and Education](training-and-education.md)
--   [Voluntary drug testing policy](voluntary-drug-testing-policy.md)
--   [Voluntary drug testing policy procedures](voluntary-drug-testing-policy-procedures.md)
 
 #### Termination and change of employment
 
-These policies are for all users:
+This policy is for all users:
 
 -   [End or change of employment](end-or-change-of-employment.md)
--   [Leavers with NSC and NSVCs](leavers-with-nsc-and-nscvs.md)
 
 ### Asset management
 
@@ -255,19 +228,6 @@ These policies are for technical users:
 -   [Use of HMG Cryptography Policy](use-of-hmg-cryptography-policy.md)
 
 ### Physical and environmental security
-
-#### Secure areas
-
-These policies are for all users:
-
--   [CCTV policy](cctv-policy.md)
--   [Entry and exit search policy](entry-and-exit-search-policy.md)
--   [Personal mail and parcel delivery policy and procedure](personal-mail-and-parcel-delivery-policy-and-procedure.md)
--   [Physical security policy](physical-security-policy.md)
--   [Public protest and demonstrations policy](public-protest-and-demonstrations-policy.md)
--   [Security in the office](security-in-the-office.md)
--   [Security threat level and emergency procedures](security-threat-level-and-emergency-procedures.md)
--   [Visitor access policy](visitor-access-policy.md)
 
 #### Equipment
 

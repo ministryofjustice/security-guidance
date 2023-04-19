@@ -186,7 +186,7 @@
   <topic id="physical-security-advice">
     <title>Physical security advice</title>
     <body>
-      <p>Physical security advice can be obtained by contacting <ph conref="conrefs.dita#conrefs/groupsecurityemailtext"/>.</p>
+      <p>Physical security advice can be obtained by contacting <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
     </body>
   </topic>
   <topic id="annex-a-suitable-carriers">
