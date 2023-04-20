@@ -39,13 +39,13 @@
         or assets.</p>
     </body>
   </topic>
-  <topic id="further-information">
+  <!-- <topic id="further-information">
     <title>Further information</title>
     <body>
       <p>More details are provided to staff on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet,
       <xref href="https://intranet.justice.gov.uk/" format="html" scope="external">https://intranet.justice.gov.uk/</xref>.</p>
     </body>
-  </topic>
-	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  </topic> -->
+	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details-training"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

@@ -18,8 +18,6 @@ The MoJ Chief Information Security Officer \(CISO\) is ultimately responsible fo
 **Related information**  
 
 
-[CCTV policy](cctv-policy.md)
-
 [Online identifiers in security logging and monitoring](online-identifiers.md)
 
 [Privileged User Logging and Protective Monitoring Guide](privileged-user-logging-and-protective-monitoring-guide.md)

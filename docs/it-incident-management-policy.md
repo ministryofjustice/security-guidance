@@ -87,7 +87,7 @@ All IT Security incidents or suspected incidents **must be** reported to the MoJ
 
 **POL.IMP.003:**
 
-For all incidents involving an IT Security incident, an IT Security Incident Report Form **must be** completed and submitted to the [Security team](mailto:security@justice.gov.uk) \([Reporting an incident or breach](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) \). This is irrespective of the reporting route \(i.e. a User direct with [Security team](mailto:security@justice.gov.uk) or a user via the IT Service Desk\).
+For all incidents involving an IT Security incident, an IT Security Incident Report Form **shall** be completed and submitted to the [Security team](mailto:security@justice.gov.uk) \([Report a security incident](reporting-an-incident.md)\). This is irrespective of the reporting route \(i.e. a User direct with [Security team](mailto:security@justice.gov.uk) or a user via the IT Service Desk\).
 
 **POL.IMP.004:**
 

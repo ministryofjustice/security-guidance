@@ -1,166 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="service-owner-responsibilities">
- <title>Service Owner Responsibilities</title>
- <body></body>
- <topic id="summary">
-  <title>Summary</title>
-  <body>
-       <p>This document sets out the security responsibilities you have as the person ultimately responsible for a bespoke technology or digital service (“the technology owner”) in the Ministry of Justice (MoJ).</p>  
-      <p>The list of items below can look intimidating at first glance. However, depending on the nature of your service or technology, some of these items may be quite small.</p>
-      <p>Every MoJ Service must have an identified person responsible for performing each of the activities listed below.</p>
-      <p>One person may be responsible for multiple items, provided they have the appropriate skills and training to perform each duty satisfactorily. The Product or Service Owner is responsible for ensuring these activities are allocated and carried out.</p>  
-      <p>Whilst these activities might be performed by a supplier or sub-contractor as part of delivering the service, as Product or Service Owner you remain responsible for ensuring that contract(s) require your supplier(s) to perform these activities in accordance with <xref href="cyber-and-technical-security-guidance.dita" format="dita">MoJ Security Policies</xref>.</p>
-      <p>The activities do not necessarily need to be performed within your team – for example, you might ‘outsource’ them to another area such as the Justice Digital Security Operations Centre. You remain responsible for ensuring there is a clear understanding of who is doing what in these relationships.</p>
+    <title>Service Owner Responsibilities</title>
+    <body/>
+    <topic id="summary">
+        <title>Summary</title>
+        <body>
+            <p>This document sets out the security responsibilities you have as the person ultimately responsible for a bespoke technology or digital service ("the technology owner") in the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
+            <p>The list of items below can look intimidating at first glance. However, depending on the nature of your service or technology, some of these items might be quite small.</p>
+            <p>Every <ph conref="conrefs.dita#conrefs/moj"/> Service <ph conref="conrefs.dita#conrefs/policymust"/> have an identified person responsible for performing each of the activities listed below.</p>
+            <p>One person <ph conref="conrefs.dita#conrefs/policymay"/> be responsible for multiple items, provided they have the appropriate skills and training to perform each duty satisfactorily. The Product or Service Owner is responsible for ensuring these activities are allocated and carried out.</p>
+            <p>Whilst these activities might be performed by a supplier or sub-contractor as part of delivering the service, as Product or Service Owner you remain responsible for ensuring that contract(s) require your supplier(s) to perform these activities in accordance with <xref href="cyber-and-technical-security-guidance.dita" format="dita"><ph conref="conrefs.dita#conrefs/moj"/> Security Policies</xref>.</p>
+            <p>The activities do not necessarily need to be performed within your team – for example, you might 'outsource' them to another area such as the Justice Digital Security Operations Centre. You remain responsible for ensuring there is a clear understanding of who is doing what in these relationships.</p>
+        </body>
+    </topic>
 
-</body>
-</topic>
-
-<topic id="activities">
+    <topic id="activities">
         <title>Activities</title>
-        <body></body>
+        <body/>
         <topic id="security-risk-management">
           <title>Security Risk Management</title>
-  <body>
-  <p>Ensuring that security risks in the service are managed in accordance with wider departmental policies and escalated as necessary to senior management.</p>
-         <p>This also includes ensuring that there is a security improvement plan to address any risks and vulnerabilities that emerge in the service.</p>
-  </body>
- </topic>
+          <body>
+            <p>Ensuring that security risks in the service are managed in accordance with wider departmental policies and escalated as necessary to senior management.</p>
+            <p>This also includes ensuring that there is a security improvement plan to address any risks and vulnerabilities that emerge in the service.</p>
+          </body>
+        </topic>
   
- <topic id="secure-configuration">
-          <title>Secure Configuration</title>
-  <body>
-  <p>Establishing and implementing default secure configurations for all aspects of the service (endpoints, platforms, services, containers etc) and ensuring these always remain current and in-place.</p>
-  </body>
-  
- </topic>
+        <topic id="secure-configuration">
+            <title>Secure Configuration</title>
+            <body>
+                <p>Establishing and implementing default secure configurations for all aspects of the service (for example endpoints, platforms, services, and containers) and ensuring these always remain current and in-place.</p>
+            </body>
+        </topic>
 
- <topic id="asset-management">
-          <title>Asset Management</title>
-  <body>
-  <p>All IT assets used in the delivery of the service will be tracked in an asset management solution, which will be routinely checked for accuracy.</p>
-  </body>
-  
- </topic>
+        <topic id="asset-management">
+            <title>Asset Management</title>
+            <body>
+                <p>All IT assets used in the delivery of the service <ph conref="conrefs.dita#conrefs/policywill"/> be tracked in an asset management solution, which <ph conref="conrefs.dita#conrefs/policywill"/> be routinely checked for accuracy.</p>
+            </body>
+        </topic>
 
- <topic id="id-and-access-management">
-          <title>ID and Access Management</title>
-  <body>
-  <p>Regularly reviewing and ensuring user access and permissions for the service are appropriate and limited to authorised users only (including general user and privileged accounts). Ensuring that robust processes are in place for joiners, movers and leavers (JML)<xref href="end-or-change-of-employment.dita" format="dita">End or change of employment - MoJ Security Guidance</xref></p>
-  </body>
-  
- </topic>
+        <topic id="id-and-access-management">
+            <title>ID and Access Management</title>
+            <body>
+                <p>Regularly reviewing and ensuring user access and permissions for the service are appropriate and limited to authorised users only (including general user and privileged accounts). Ensuring that robust processes are in place for joiners, movers and leavers (JML) <xref href="end-or-change-of-employment.dita" format="dita">End or change of employment - MoJ Security Guidance</xref>.</p>
+            </body>
+        </topic>
 
- <topic id="security-maintenance">
-          <title>Security Maintenance</title>
-  <body>
-  <p>Undertaking regular (automated) activities to ensure the service remains secure – such as regular patching and review.</p>
-  </body>
-  
- </topic>  
+        <topic id="security-maintenance">
+            <title>Security Maintenance</title>
+            <body>
+                <p>Undertaking regular (automated) activities to ensure the service remains secure – such as regular patching and review.</p>
+            </body>
+        </topic>
 
- <topic id="development-security">
-          <title>Development Security</title>
-  <body>
-  <p>Undertaking regular (automated) activities to ensure the service remains secure – such as regular patching and review.</p>
-  </body>
-  
- </topic>
+        <topic id="development-security">
+            <title>Development Security</title>
+            <body>
+                <p>Undertaking regular (automated) activities to ensure the service remains secure – such as regular patching and review.</p>
+            </body>
+        </topic>
 
- <topic id="threat-and-vulnerability-management">
-          <title>Threat and Vulnerability Management</title>
-  <body>
-  <p>Threat and Vulnerability Management - Activities taken to ensure the service remains protected against vulnerabilities, through vulnerability scanning, and remedial actions.</p>
-  <p>This also includes ensuring that all product teams understand their security dependencies on third parties and have effective measures in place to swiftly deploy mitigations as required when new threats emerge.</p>
-  </body>
-  
- </topic>
+        <topic id="threat-and-vulnerability-management">
+            <title>Threat and Vulnerability Management</title>
+            <body>
+                <p>Threat and Vulnerability Management - Activities taken to ensure the service remains protected against vulnerabilities, through vulnerability scanning, and remedial actions.</p>
+                <p>This also includes ensuring that all product teams understand their security dependencies on third parties, and have effective measures in place to deploy mitigations swiftly as required when new threats emerge.</p>
+            </body>
+        </topic>
 
- <topic id="security-testing">
-          <title>Security Testing</title>
-  <body>
-  <p>Organising routine and exceptional testing of security controls within the service to ensure they are continuing to function effectively.</p>
-  </body>
+        <topic id="security-testing">
+            <title>Security Testing</title>
+            <body>
+                <p>Organising routine and exceptional testing of security controls within the service to ensure they are continuing to function effectively.</p>
+            </body>
+        </topic>
 
- </topic>
+        <topic id="cryptographic-and-secrets-management">
+            <title>Cryptographic and Secrets Management</title>
+            <body>
+                <p>Where relevant, issuing, managing, and revoking cryptographic credentials via <xref href="public-key-infrastructure-policy.dita" format="dita">Public Key Infrastructure (PKI)</xref>. Also, management of shared secrets where required.</p>
+            </body>
+        </topic>
 
- <topic id="cryptographic-and-secrets-management">
-          <title>Cryptographic and Secrets Management</title>
-  <body>
-  <p>Where relevant, issuing, managing, and revoking cryptographic credentials via Private Public Key Infrastructure (PKI). Also, management of shared secrets where required.</p>
-  </body>
-  
- </topic>
+        <topic id="event-detection-activities">
+            <title>Event Detection Activities</title>
+            <body>
+                <p>Undertaking specific activities to uncover security-relevant events across the service; including operating canary tokens, honeypots, threat hunting, data loss prevention, network monitoring, SaaS security monitoring, and shadow IT detection as applicable.</p>
+            </body>
+        </topic>
 
- <topic id="event-detection-activities">
-          <title>Event Detection Activities</title>
-  <body>
-  <p>Undertaking specific activities to uncover security-relevant events across the service; including operating canary tokens, honeypots, threat hunting, data loss prevention, network monitoring, SaaS security monitoring, and shadow IT detection as applicable.</p>
-  </body>
-  
- </topic>
+        <topic id="event-source-management-and-maintenance">
+            <title>Event Source Management and Maintenance</title>
+            <body>
+                <p>Ensuring the service is routinely providing agreed security monitoring events to a security event detection solution.</p>
+            </body>
+        </topic>
 
- <topic id="event-source-management-and-maintenance">
-          <title>Event Source Management and Maintenance</title>
-  <body>
-  <p>Ensuring the service is routinely providing agreed security monitoring events to a security event detection solution.</p>
-  </body>
-  
- </topic>
+        <topic id="incident-management-and-response">
+            <title>Incident Management and Response</title>
+            <body>
+                <p>Developing security incident playbooks, supporting security incident triage; and Data Protection incident investigations, response, and handling to ensure security events cause minimal harm to the organisation, and that evidence is captured for any wider analysis. For more information, refer to the <xref href="reporting-an-incident.dita" format="dita">Report a security incident</xref> guidance.</p>
+            </body>
+        </topic>
 
- <topic id="incident-management-and-response">
-          <title>Incident Management and Response</title>
-  <body>
-  <p>Developing security incident playbooks, supporting security incident triage; and Data Protection incident investigations, response, and handling to ensure security events cause minimal harm to the organisation, and that evidence is captured for any wider analysis.<xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident" format="html" scope="external">Report a security incident - Ministry of Justice HQ Intranet.</xref></p>
-  </body>
-  
- </topic>
+        <topic id="supply-chain-security-and-assessment-management">
+            <title>Supply Chain Security and Assessment Management</title>
+            <body>
+                <p>Assessing the suitability of third-party suppliers of the service. Ensuring that the product team understands and undertakes their specific respective security roles and responsibilities with the supplier with respect to the security of the service.</p>
+            </body>
+        </topic>
 
- <topic id="supply-chain-security-and-assessment-management">
-          <title>Supply Chain Security and Assessment Management</title>
-  <body>
-  <p>Assessing the suitability of third-party suppliers of the service. Ensuring that the product team understands and undertakes their specific respective security roles and responsibilities with the supplier with respect to the security of the service.</p>
-  </body>
-  
- </topic>
+        <topic id="backup-and-recovery">
+            <title>Backup and Recovery</title>
+            <body>
+                <p>Ensuring all critical information within the service is backed up regularly; the backups are tested regularly, and the service can be completely recovered in the event of a security incident.</p>
+            </body>
+        </topic>
 
- <topic id="backup-and-recovery">
-          <title>Backup and Recovery</title>
-  <body>
-  <p>Ensuring all critical information within the service is backed up regularly; the backups are tested regularly, and the service can be completely recovered in the event of a security incident.</p>
-  </body>
+        <topic id="data-proteection">
+            <title>Data Protection</title>
+            <body>
+                <p>Ensuring systems processing personal data are compliant with the Department's Data Protection policy and relevant Acceptable Use Protocols for secure processing, transfers, and storage of personal data. Any data protection risks in relation to confidentiality, integrity or availability of personal data have remediation plans in place.<xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/privacy-reform/" format="html" scope="external">Data Protection - Ministry of Justice HQ Intranet.</xref></p>
+            </body>
+        </topic>
   
- </topic>  
+        <topic id="adherence-to-policies">
+            <title>Adherence to Policies</title>
+            <body>
+                <p>Putting in place explicit processes for governance and compliance of security policies, for example how to monitor, report, and maintain compliance.</p>
+            </body>
+        </topic>
 
- <topic id="data-proteection">
-          <title>Data Protection</title>
-  <body>
-  <p>Ensuring systems processing personal data are compliant with the Department’s Data Protection policy and relevant Acceptable Use Protocols for secure processing, transfers, and storage of personal data. Any data protection risks in relation to confidentiality, integrity or availability of personal data have remediation plans in place.<xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/privacy-reform/" format="html" scope="external">Data Protection - Ministry of Justice HQ Intranet.</xref></p>
-  </body>
-  
- </topic>
-  
- <topic id="adherence-to-policies">
-          <title>Adherence to Policies</title>
-  <body>
-  <p>Putting in place explicit processes for governance and compliance of security policies, i.e., how compliance will be monitored, reported and maintained.</p>
-  </body>
-  
- </topic>
-  
- <topic id="secure-use-of-the-service">
-          <title>Secure Use of the Service</title>
-  <body>
-  <p>Supporting and educating users on how they can access and use your service securely. This will be context-dependent and could be as simple as ensuring in-built user guidance helps explain security concepts in your service. For complicated end-user services, this might require eLearning or other targeted training. If you are providing a platform, this might involve specific guidance for other services which are built on it regarding their security responsibilities.</p>
-  </body>
-  
-  </topic>
+        <topic id="secure-use-of-the-service">
+            <title>Secure Use of the Service</title>
+            <body>
+                <p>Supporting and educating users on how they access and use your service securely. This is context-dependent and might be as simple as ensuring that in-built user guidance helps explain security concepts in your service. For complicated end-user services, this might require eLearning or other targeted training. If you provide a platform, this might involve specific guidance for other services built on it, to explain their security responsibilities.</p>
+            </body>
+        </topic>
 
- <topic id="more-information">
-          <title>More Information</title>
-  <body>
-  <p>For assistance, please contact your local cyber consultant in the first instance. For queries on policy and guidance email <ph conref="conrefs.dita#conrefs/securityemail"/></p>
-  </body>
-  
-  </topic>
-</topic></topic>
+        <topic id="more-information">
+            <title>More Information</title>
+            <body>
+                <p>For assistance, please contact your local cyber consultant in the first instance. For queries on policy and guidance email <ph conref="conrefs.dita#conrefs/securityemail"/></p>
+            </body>
+        </topic>
+    </topic>
+</topic>

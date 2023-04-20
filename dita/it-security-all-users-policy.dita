@@ -94,7 +94,7 @@
             and adds real value.</li>
             <li>The <ph conref="conrefs.dita#conrefs/moj"/> does not have a standing requirement for system administrators or application developers to maintain Security Check (SC) clearance.</li>
           </ul></p>
-      <p>Further information on physical and personnel security is available from <ph conref="conrefs.dita#conrefs/moj"/>Group Security (<ph conref="conrefs.dita#conrefs/groupsecurityemail"/>) and <xref href="https://www.cpni.gov.uk/physical-security" format="html" scope="external">CPNI Guidance</xref>.</p>
+      <p>Further information on physical and personnel security is available from <ph conref="conrefs.dita#conrefs/securityemailtext"/> and <xref href="https://www.cpni.gov.uk/physical-security" format="html" scope="external">CPNI Guidance</xref>.</p>
     </body>
   </topic>
   <topic id="identity-and-access-control">

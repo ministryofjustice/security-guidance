@@ -137,7 +137,7 @@ For help with incidents, including theft and loss, contact one of the following:
 -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
 -   Tel: 0203 334 0324
 
-For non-technology incidents, contact the MoJ Group Security Team: [mojgroupsecurity@justice.gov.uk](mailto:mojgroupsecurity@justice.gov.uk)
+For non-technology incidents, contact the [Security team](mailto:security@justice.gov.uk)
 
 Contact the Data Protection Team for information on Data Protection Impact Assessments: [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk)
 

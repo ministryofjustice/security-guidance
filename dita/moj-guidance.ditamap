@@ -58,7 +58,6 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta audience="audience-basic audience-tech"><navtitle>Teleworking</navtitle></topicmeta>
 			<topicref href="accessing-moj-it-systems-from-overseas.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="general-advice-on-taking-equipment-overseas.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="overseas-travel.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="personal-devices.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 	</topichead>
@@ -66,30 +65,12 @@ if an audience attribute is present, then only matching content is included.
 	<topichead audience="audience-basic audience-tech">
 		<topicmeta><navtitle>Human resource security</navtitle></topicmeta>
 		<topichead>
-			<topicmeta><navtitle>Prior to employment</navtitle></topicmeta>
-			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
-			<topicref href="national-security-vetting-for-external-candidates-faq.dita" type="topic"/>
-			<topicref href="national-security-vetting-contact.dita" type="topic"/>
-			<topicref href="national-security-vetting-questions.dita" type="topic"/>
-			<topicref href="pre-employment-screening.dita" type="topic"/>
-			<topicref href="pre-employment-screening-and-vetting-of-external-candidates-faqs.dita" type="topic"/>
-			<topicref href="security-clearance-appeals-policy.dita" type="topic"/>
-			<topicref href="security-clearance-appeals-procedures.dita" type="topic"/>
-			<topicref href="security-vetting-assessment-need.dita" type="topic"/>
-		</topichead>
-		<topichead>
 			<topicmeta><navtitle>During employment</navtitle></topicmeta>
-			<topicref href="ongoing-personnel-security.dita" type="topic"/>
-			<topicref href="personnel-risk-assessment.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="reporting-personal-circumstance-changes.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="training-and-education.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="voluntary-drug-testing-policy.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="voluntary-drug-testing-policy-procedures.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 		<topichead>
 			<topicmeta><navtitle>Termination and change of employment</navtitle></topicmeta>
 			<topicref href="end-or-change-of-employment.dita" type="topic"/>
-			<topicref href="leavers-with-nsc-and-nscvs.dita" type="topic"/>
 		</topichead>
 	</topichead>
 
@@ -183,17 +164,6 @@ if an audience attribute is present, then only matching content is included.
 	<topichead audience="audience-basic audience-suppliers audience-tech">
 
 		<topicmeta><navtitle>Physical and environmental security</navtitle></topicmeta>
-		<topichead>
-			<topicmeta><navtitle>Secure areas</navtitle></topicmeta>
-			<topicref href="cctv-policy.dita" type="topic"/>
-			<topicref href="entry-and-exit-search-policy.dita" type="topic"/>
-			<topicref href="personal-mail-and-parcel-delivery-policy-and-procedure.dita" type="topic"/>
-			<topicref href="physical-security-policy.dita" type="topic"/>
-			<topicref href="public-protest-and-demonstrations-policy.dita" type="topic"/>
-			<topicref href="security-in-the-office.dita" type="topic"/>
-			<topicref href="security-threat-level-and-emergency-procedures.dita" type="topic"/>
-			<topicref href="visitor-access-policy.dita" type="topic"/>
-		</topichead>
 		<topichead>
 			<topicmeta><navtitle>Equipment</navtitle></topicmeta>
 			<topicref href="clear-screen-and-desk.dita" type="topic"/>
@@ -449,7 +419,6 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="logging-and-monitoring.dita"/>
 			</relcell>
 			<relcell>
-				<topicref href="cctv-policy.dita"/>
 				<topicref href="online-identifiers.dita"/>
 				<topicref href="privileged-user-logging-and-protective-monitoring-guide.dita"/>
 				<topicref href="security-log-collection.dita"/>
@@ -540,28 +509,12 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="it-security-policy-overview.dita" linking="targetonly"/>
 			</relcell>
 		</relrow>
-		<relrow>
-			<relcell>
-				<topicref href="security-in-the-office.dita"/>
-			</relcell>
-			<relcell>
-				<topicref href="clear-screen-and-desk.dita"/>
-				<topicref href="mobile-device-and-remote-working-policy.dita"/>
-				<topicref href="passwords.dita"/>
-				<topicref href="physical-security-policy.dita"/>
-				<topicref href="remote-working.dita"/>
-				<topicref href="removable-media.dita"/>
-				<topicref href="reporting-an-incident.dita"/>
-				<topicref href="working-securely-with-paper-documents-and-files.dita"/>
-			</relcell>
-		</relrow>
 		<relrow audience="audience-tech">
 			<relcell>
 				<topicref href="access-control-guide.dita"/>
 			</relcell>
 			<relcell>
 				<topicref href="managing-user-access-guide.dita"/>
-				<topicref href="minimum-user-clearance-requirements-guide.dita"/>
 				<topicref href="multi-factor-authentication-mfa-guide.dita"/>
 				<topicref href="passwords.dita"/>
 				<topicref href="privileged-account-management-guide.dita"/>

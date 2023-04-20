@@ -149,7 +149,7 @@ Users are responsible for ensuring that all information is handled in line with 
 
 The MoJ is connected to the Government network, which provides a secure environment for sending or receiving emails between Government departments. This allows Users with an MoJ email account \(normally with the suffix '`@justice.gov.uk`'\) to send **Official** emails with [handling caveats](government-classification-scheme.md) such as **Sensitive** to another MoJ or government User, where their email suffix ends in '`gov.uk`'.
 
-**POL.ITAUP.021**: All Users **shall** ensure that information contained within or attached to an email is handled in accordance with the [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
+**POL.ITAUP.022**: All Users **shall** ensure that information contained within or attached to an email is handled in accordance with the [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 
 Email is a major source of malware, and a route into the MoJ for criminal organisations. It **might** be used to defraud staff, or to exfiltrate information. All Users **shall** exercise care when handling emails, and [report any suspicious activity as an IT security incident](reporting-an-incident.md).
 

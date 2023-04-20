@@ -5,7 +5,7 @@
 - [Acceptable Use Policy TEMPLATE](Acceptable_Use_Policy_TEMPLATE_V1.docx)
 - [Acquisition of New Software or Hardware Policy TEMPLATE](Acquisition_of_New_Software_or_Hardware_Policy_TEMPLATE_V1.docx)
 - [Assessment and Treatment of Risks TEMPLATE](Assessment_and_Treatment_of_Risks_TEMPLATE_V1.docx)
-- [Asset Register TEMPLATE](Asset_Register_TEMPLATE_V1.ods)
+- [Asset Register TEMPLATE](Asset_Register_TEMPLATE_V1.1.ods)
 - [Audit Logging and Monitoring Policy TEMPLATE](Audit_Logging_and_Monitoring_Policy_TEMPLATE_V1.docx)
 - [Business Continuity and Recovery Plan Creation TEMPLATE](Business_Continuity_and_Recovery_Plan_Creation_GUIDELINES_V1.docx)
 - [Change Management Policy and Procedure TEMPLATE](Change_Management_Policy_and_Procedure_TEMPLATE_V1.docx)
