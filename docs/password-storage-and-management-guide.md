@@ -12,7 +12,7 @@ This guide has been written in alignment with [NCSC guidance](https://www.ncsc.g
 
 Passwords must be securely stored within MoJ approved storage tools. The following tool is approved and preferred for use:
 
--   [LastPass](using-lastpass.md)
+-   [1Password](using-1password.md)
 
 Do not store sensitive information, such as passwords or credit card details, in unapproved tools. In particular, do not use "Autofill" tools to help fill in forms, unless the tools are provided and approved by the MoJ.
 
@@ -45,7 +45,7 @@ A shared password must be:
 
 A password vault is a tool that stores passwords and other high-value secrets or credentials in an encrypted form. A password manager provides extra user-friendly tools for working with a password vault, for example helping you log in to applications or websites using the credentials stored within the vault. Password managers allow you to keep track of multiple passwords and avoid weak passwords.
 
-The MoJ prefers [LastPass](using-lastpass.md) for Team use, or business use by an individual.
+The MoJ prefers [1Passwords](using-1password.md) for Team use, or business use by an individual.
 
 Some teams, particularly service development and administration, have specialised needs that make other password vault tools more suitable. These project-specific tools include:
 
