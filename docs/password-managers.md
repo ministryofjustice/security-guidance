@@ -60,7 +60,7 @@ Example password vaults would be Hashicorp Vault, Kubernetes Secrets or AWS Key 
 
 For individual use, have a look at 1Password. Consider which one you like best, and try it out. When you decide on a password manager, request approval from your line manager to install and use it: "I'm planning to install and use XYZ to manage my passwords, is that OK?".
 
-Refer also to the [Using 1Password](using-1Password.md) guidance.
+Refer also to the [Using 1Password](using-1password.md) guidance.
 
 ## Contact details
 
