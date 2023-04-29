@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2023-04-29-13:54-bst-[add-1password-guidance](https:-security-guidance.service.justice.gov.uk-using-1password-)"></a>
+
+-   **2023-04-29 13:54 BST [Add 1Password guidance](https://security-guidance.service.justice.gov.uk/using-1password/)**
+
+    Add information about using the 1Password tool.
+
 <a name="2023-04-18-17:10-bst-[revise-content](https:-security-guidance.service.justice.gov.uk-)"></a>
 
 -   **2023-04-18 17:10 BST [Revise content](https://security-guidance.service.justice.gov.uk/)**

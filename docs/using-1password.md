@@ -40,7 +40,7 @@ Operations Engineering cannot routinely access the contents of vaults but can re
 
 1Password **should not** be used for storing personal passwords, or for storing MoJ documents. Use existing approved MoJ services such as Office 365 or Google Workspace for storing MoJ documents.
 
-You shouldn't use 1Password for 'secrets' that belong to systems, only credentials to be used by humans.. There is separate guidance on how to handle [secrets](secrets-management.md).
+You **should not** use 1Password for 'secrets' that belong to systems, only credentials to be used by humans. There is separate guidance on how to handle system [secrets](secrets-management.md).
 
 ## How to use it
 
@@ -52,17 +52,17 @@ You will be sent an email to your MoJ work email account inviting you to create 
 
 You need to create a primary password - this is the only password you'll need to remember.
 
-It must be at least 14 characters long \(the longer the better\).
+It **shall** be at least 14 characters long \(the longer the better\).
 
 You can choose to make it pronounceable and memorable \(passphrase\) such as `CyberSecurityRules!` or `Sup3rD00p3rc0Mp3X!`, as long as you're comfortable remembering it and won't need to write it down.
 
 There are password guidance standards [here](passwords.md).
 
-Your primary password **must** be unique and you should **never** use it anywhere else \(including a similar version, for example, by simply adding numbers to the end\)
+Your primary password **shall** be unique and you **should not** use it anywhere else \(including a similar version, for example, by simply adding numbers to the end\)
 
 #### Multi-Factor Authentication
 
-You **must** setup multi-factor authentication \(MFA, sometimes known as 2FA\) for your MoJ account.
+You **shall** setup multi-factor authentication \(MFA, sometimes known as 2FA\) for your MoJ account.
 
 1Password has a [guide on setting up MFA](https://support.1password.com/two-factor-authentication/).
 
@@ -79,9 +79,9 @@ If you don't have an MoJ-issued work smartphone you may use a personal device fo
 
 To share a password, create a [Vault](https://support.1password.com/create-share-vaults/).
 
-You should make sure the credentials you're sharing are only available to the people who need to access them for MoJ work. It is your responsibility to remove items or people from vaults when access to the credential\(s\) is no longer required.
+You **should** make sure the credentials you're sharing are only available to the people who need to access them for MoJ work. It is your responsibility to remove items or people from vaults when access to the credential\(s\) is no longer required.
 
-You must not share your 1Password main password with anyone, even your line manager or MoJ security.
+You **shall not** share your 1Password main password with anyone, even your line manager or MoJ security.
 
 ### Using it overseas
 
@@ -93,7 +93,7 @@ It may be simpler to 'log out' of the 1Password applications or enable [Travel M
 
 ### Keeping 1Password update to date
 
-Like all software, it is important to keep the software up to date \(sometimes known as 'patching'\). 1Password software generally should self-update to the latest version by itself however make sure you approve or apply any updates if 1Password asks you to.
+Like all software, it is important to keep the software up to date \(sometimes known as 'patching'\). 1Password software generally self-updates to the latest version by itself, however make sure you approve or apply any updates if 1Password asks you to.
 
 ### Need help?
 

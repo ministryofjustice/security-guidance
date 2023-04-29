@@ -15,7 +15,7 @@ Technical users include:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 19 April 2023.
+**Note:** This guidance is dated: 29 April 2023.
 
 ## Change log
 
@@ -46,7 +46,7 @@ Technical users. Contains detailed technical information, together with all user
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 19 May 2023.
+The offline versions of this guidance are time-limited, and are not valid after 29 May 2023.
 
 ## Security culture
 
@@ -201,7 +201,7 @@ These policies are for all users:
 
 -   [Password Managers](password-managers.md)
 -   [Passwords](passwords.md)
--   [Using LastPass Enterprise](using-lastpass.md)
+-   [Using 1Password](using-1password.md)
 
 These policies are for technical users:
 

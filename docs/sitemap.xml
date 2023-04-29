@@ -8,25 +8,50 @@
 
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/</loc>
-  <lastmod>2023-04-19T17:35:00+00:00</lastmod>
+  <lastmod>2023-04-29T13:54:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/</loc>
-  <lastmod>2023-04-19T17:35:00+00:00</lastmod>
+  <lastmod>2023-04-29T13:54:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance.pdf</loc>
-  <lastmod>2023-04-19T17:35:00+00:00</lastmod>
+  <lastmod>2023-04-29T13:54:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-tech.pdf</loc>
-  <lastmod>2023-04-19T17:35:00+00:00</lastmod>
+  <lastmod>2023-04-29T13:54:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/using-lastpass/</loc>
+  <lastmod>2023-04-29T13:54:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/password-managers/</loc>
+  <lastmod>2023-04-29T13:54:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/password-storage-and-management-guide/</loc>
+  <lastmod>2023-04-29T13:54:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/passwords/</loc>
+  <lastmod>2023-04-29T13:54:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/using-1password/</loc>
+  <lastmod>2023-04-29T13:54:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/service-owner-responsibilities/</loc>
   <lastmod>2023-03-21T17:35:00+00:00</lastmod>
@@ -105,11 +130,6 @@
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/iasme/Policy_Templates/</loc>
   <lastmod>2022-05-27T16:09:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/passwords/</loc>
-  <lastmod>2022-04-19T16:45:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -233,11 +253,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/password-storage-and-management-guide/</loc>
-  <lastmod>2022-04-19T16:45:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/patch-management-guide/</loc>
   <lastmod>2022-04-19T16:45:00+00:00</lastmod>
   <priority>0.80</priority>
@@ -338,18 +353,8 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/password-managers/</loc>
-  <lastmod>2022-04-04T09:50:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/culture/ransomware-information-leaflet.pdf</loc>
   <lastmod>2022-01-25T13:27:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/using-lastpass/</loc>
-  <lastmod>2022-03-10T17:01:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
