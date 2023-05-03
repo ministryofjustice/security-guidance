@@ -65,6 +65,7 @@
 			<ph id="officialsensitive"><ph conref="#conrefs/official-sensitive"/></ph>
 			<ph id="official-sensitive"><b>Official-Sensitive</b></ph>
 			<ph id="operationsengineering"><xref href="https://operations-engineering.service.justice.gov.uk/" format="html" scope="external">Operations Engineering</xref></ph>
+			<ph id="operationsengineeringteam">Operations Engineering Team through their Slack Channel, <codeph>#Ask-Operations-Engineering</codeph>, or email <xref href="mailto:operations-engineering@digital.justice.gov.uk" format="html" scope="external">Operations Engineering</xref></ph>
 			<!--
 			<ph id="ostemail"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="html" scope="external">OperationalSecurityTeam@justice.gov.uk</xref></ph>
 			<ph id="ostemailtext"><xref href="mailto:OperationalSecurityTeam@justice.gov.uk" format="html" scope="external">Operational Security Team</xref></ph>
