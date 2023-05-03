@@ -273,7 +273,7 @@
           <ul>
             <li><xref href="password-managers.dita" format="dita">Password Managers</xref></li>
             <li><xref href="passwords.dita" format="dita">Passwords</xref></li>
-            <li><xref href="using-lastpass.dita" format="dita">Using LastPass Enterprise</xref></li>
+            <li><xref href="using-1password.dita" format="dita">Using 1Password</xref></li>
           </ul>
           <p audience="audience-tech">These policies are for technical users:</p>
           <ul audience="audience-tech">
