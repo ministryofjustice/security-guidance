@@ -33,8 +33,10 @@
     <body>
       <p>Popular links for all users:
         <ul>
-          <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref></li>
+          <li><xref href="security-threat-level-and-emergency-procedures.dita" format="dita">Security threat level and emergency procedures</xref></li>
+          <li><xref href="overseas-travel.dita" format="dita">Overseas travel</xref> and <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref></li>
           <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">General app guidance</xref></li>
+          <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements Guide</xref></li>
           <li><xref href="government-classification-scheme.dita" format="dita">Government classification scheme</xref></li>
           <li><xref href="remote-working.dita" format="dita">Remote Working</xref></li>
       </ul>
@@ -60,14 +62,8 @@
         <li><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></li>
         <li><xref href="moj-guidance.epub" format="epub" scope="peer">EPUB</xref></li>
       </ul>
-      <!--
-      <p platform="html">Group Security. Contains Group Security policy and guidance:</p>
-      <ul platform="html">
-        <li><xref href="moj-guidance.pdf" format="pdf" scope="peer">PDF</xref></li>
-        <li><xref href="moj-guidance-gs.epub" format="epub" scope="peer">EPUB</xref></li>
-      </ul>
-      -->
-      <p platform="html">Technical users. Contains detailed technical information, together with all user content:</p>
+      
+      <p platform="html">Technical users. Contains detailed technical information, together with all users and Group Security content:</p>
       <ul platform="html">
         <li><xref href="moj-guidance-tech.pdf" format="pdf" scope="peer">PDF</xref></li>
         <li><xref href="moj-guidance-tech.epub" format="epub" scope="peer">EPUB</xref></li>
@@ -158,21 +154,37 @@
     <topic id="human-resource-security">
       <title>Human resource security</title>
       <body/>
+      <topic id="prior-to-employment">
+        <title>Prior to employment</title>
+        <body>
+          <p>These policies are for all users:</p>
+          <ul>
+            <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels Guide</xref></li>
+            <li><xref href="security-clearance-appeals-policy.dita" format="dita" type="topic">Security clearance appeals policy</xref></li>
+            <li><xref href="security-clearance-appeals-procedures.dita" format="dita" type="topic">Security clearance appeals procedures</xref></li>
+          </ul>
+        </body>
+      </topic>
       <topic id="during-employment">
         <title>During employment</title>
         <body>
-          <p>This policy is for all users:</p>
+          <p>These policies are for all users:</p>
           <ul>
+            <li><xref href="personnel-risk-assessment.dita" format="dita">Personnel risk assessment</xref></li>
+            <li><xref href="reporting-personal-circumstance-changes.dita" format="dita">Reporting personal circumstance changes</xref></li>
             <li><xref href="training-and-education.dita" format="dita">Training and Education</xref></li>
+            <li><xref href="voluntary-drug-testing-policy.dita" format="dita">Voluntary drug testing policy</xref></li>
+            <li><xref href="voluntary-drug-testing-policy-procedures.dita" format="dita">Voluntary drug testing policy procedures</xref></li>
           </ul>
         </body>
       </topic>
       <topic id="termination-and-change-of-employment">
         <title>Termination and change of employment</title>
         <body>
-          <p>This policy is for all users:</p>
+          <p>These policies are for all users:</p>
           <ul>
             <li><xref href="end-or-change-of-employment.dita" format="dita" type="topic">End or change of employment</xref></li>
+            <li><xref href="leavers-with-nsc-and-nscvs.dita" format="dita" type="topic">Leavers with NSC and NSVCs</xref></li>
           </ul>
         </body>
       </topic>
@@ -273,7 +285,9 @@
           <ul>
             <li><xref href="password-managers.dita" format="dita">Password Managers</xref></li>
             <li><xref href="passwords.dita" format="dita">Passwords</xref></li>
-            <li><xref href="using-1password.dita" format="dita">Using 1Password</xref></li>
+            <!--
+            <li><xref href="using-lastpass.dita" format="dita">Using LastPass Enterprise</xref></li>
+            -->
           </ul>
           <p audience="audience-tech">These policies are for technical users:</p>
           <ul audience="audience-tech">
@@ -310,6 +324,19 @@
     <topic id="physical-and-environmental-security">
       <title>Physical and environmental security</title>
       <body/>
+      <topic id="secure-areas">
+        <title>Secure areas</title>
+        <body>
+          <p>These policies are for all users:</p>
+          <ul>
+            <li><xref href="physical-security-policy.dita" format="dita">Physical security policy</xref></li>
+            <li><xref href="public-protest-and-demonstrations-policy.dita" format="dita">Public protest and demonstrations policy</xref></li>
+            <li><xref href="security-in-the-office.dita" format="dita">Security in the office</xref></li>
+            <li><xref href="security-threat-level-and-emergency-procedures.dita" format="dita">Security threat level and emergency procedures</xref></li>
+            <li><xref href="visitor-access-policy.dita" format="dita">Visitor access policy</xref></li>
+          </ul>
+        </body>
+      </topic>
       <topic id="equipment">
         <title>Equipment</title>
         <body>
@@ -541,10 +568,12 @@
             <li><xref href="reporting-an-incident.dita" format="dita">Reporting an incident</xref></li>
           </ul>
           <p audience="audience-tech">These policies are for technical users:</p>
-          <ul audience="audience-tech">
+          <ul>
+          <!--
             <li><xref href="forensic-principles.dita" format="dita">Forensic Principles</xref></li>
             <li><xref href="forensic-readiness-guide.dita" format="dita">Forensic Readiness Guide</xref></li>
             <li><xref href="forensic-readiness-policy.dita" format="dita">Forensic Readiness Policy</xref></li>
+            -->
             <li><xref href="incident-management-plan-and-process-guide.dita" format="dita">Incident Management Plan and Process Guide</xref></li>
             <li><xref href="lost-devices-incidents.dita" format="dita">Lost devices or other IT security incidents</xref></li>
           </ul>
