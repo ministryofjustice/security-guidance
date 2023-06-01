@@ -19,25 +19,25 @@
       <ul>
       <li><xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref></li>
       <li><xref href="it-disaster-recovery-policy.dita" format="dita">IT Disaster Recovery Policy</xref></li>
-      <li><xref href="it-investigations-planning-and-operations-policy" format="dita">IT Investigations - Planning and Operations Policy</xref></li>
+      <li><xref href="it-investigations-planning-and-operations-policy.dita" format="dita">IT Investigations - Planning and Operations Policy</xref></li>
       </ul>
       <p> The supporting guides are:</p>
       <ul>
-      <li><xref href="it-incident-response-plan-and-process-guide.dita" format="dita">IT Incident Response Plan and Process Guide</xref></li>
-      <li>IT Disaster Recovery Plan and Process Guide</li>
+      <li><xref href="it-security-incident-response-plan-and-process-guide.dita" format="dita">IT Security Incident Response Plan and Process Guide</xref></li>
+      <li>IT Disaster Recovery Plan and Process Guide (this guide)</li>
       </ul>
-      <p>This guide gives information on how to create and develop an IT Disaster Recovery Plan for your MoJ IT system or service.</p>
-      <p>The National Cyber Security Centre (NCSC) also offers guidance on how to <xref href="https://www.ncsc.gov.uk/collection/incident-management" format="html">effectively detect, respond to and resolve cyber incidents.</xref></p>
+      <p>This guide gives information on how to create and develop an IT Disaster Recovery Plan for your <ph conref="conrefs.dita#conrefs/moj"/> IT system or service.</p>
+      <p>The National Cyber Security Centre (NCSC) also offers guidance on how to <xref href="https://www.ncsc.gov.uk/collection/incident-management" format="html" scope="external">effectively detect, respond to and resolve cyber incidents</xref>.</p>
       </body>
       </topic>
 
       <topic id="business-impact-asssessment">
       <title>Business Impact Assessment</title>
       <body>
-      <p>The service or system owner should carry out a Business Impact Assessment (BIA) in order to:</p>
+      <p>The service or system owner <ph conref="conrefs.dita#conrefs/policyshould"/> carry out a Business Impact Assessment (BIA) in order to:</p>
       <ul>
-      <li>get an overview of the Business as Usual (BAU) functions for the MoJ IT system or service</li>
-      <li>get an understanding of the business criticality of the service the MoJ IT system supports</li>
+      <li>get an overview of the Business as Usual (BAU) functions for the <ph conref="conrefs.dita#conrefs/moj"/> IT system or service</li>
+      <li>get an understanding of the business criticality of the service the <ph conref="conrefs.dita#conrefs/moj"/> IT system supports</li>
       <li>calculate a Recovery Point Objective (RPO), this is the maximum amount of data the business can afford to lose during a disaster</li>
       <li>calculate a Recovery Time Objective (RTO), this is the amount of time before the disaster begins to seriously impede the flow of normal business operations</li>
       </ul>
@@ -48,31 +48,31 @@
       <title>Suggested content</title>
       <body>
       <p>Disaster recovery plans are specific to each individual IT system or service. They are intended to offer guidance to every listed role when responding to an incident.</p>
-      <p>When deciding the content of a Disaster Recovery Plan for an MoJ IT system or service, a useful start is to identify every potential disaster that may affect the system or service, together with procedures to resolve each one.</p>
-      <p>Each Disaster Recovery Plan should include:</p>
+      <p>When deciding the content of a Disaster Recovery Plan for an <ph conref="conrefs.dita#conrefs/moj"/> IT system or service, a useful start is to identify every potential disaster that may affect the system or service, together with procedures to resolve each one.</p>
+      <p>Each Disaster Recovery Plan <ph conref="conrefs.dita#conrefs/policyshould"/> include:</p>
       <ul>
-      <li>the point at which the recovery plan should be used</li>
-      <li>a clear and detailed process to recover the MoJ IT system to BAU</li>
-      <li>a list of key roles and a description of their responsibilities - each role should have at least two sets of contact details</li>
-      <li>a list of internal and external stakeholders to be contacted as soon as the incident happens, each stakeholder should have at least two sets of contact details</li>
-      <li>a communication list of everyone who needs to be contacted, together with the chains of communication that must be followed</li>
+      <li>the point at which the recovery plan <ph conref="conrefs.dita#conrefs/policyshould"/> be used</li>
+      <li>a clear and detailed process to recover the <ph conref="conrefs.dita#conrefs/moj"/> IT system to BAU</li>
+      <li>a list of key roles and a description of their responsibilities - each role <ph conref="conrefs.dita#conrefs/policyshould"/> have at least two sets of contact details</li>
+      <li>a list of internal and external stakeholders to be contacted as soon as the incident happens, each stakeholder <ph conref="conrefs.dita#conrefs/policyshould"/> have at least two sets of contact details</li>
+      <li>a communication list of everyone who needs to be contacted, together with the chains of communication that <ph conref="conrefs.dita#conrefs/policymust"/> be followed</li>
       <li>a list of people who can undertake the role of recovery manager</li>
       <li>a series of steps to follow in order to mitigate the incident</li>
       <li>a list of criteria needed to initiate a forensic investigation, and the role(s) responsible for it</li>
       <li>clear instructions on how to escalate to a higher level of incident response, to include names and contact details and the reason for escalating the incident</li>    
-      <li>methods to maintain business continuity whilst the MoJ IT service is unavailable</li>
+      <li>methods to maintain business continuity whilst the <ph conref="conrefs.dita#conrefs/moj"/> IT service is unavailable</li>
       <li>a process to identify and capture lessons learned during the incident</li>
       <li>the requirement for a written report for medium and high impact incidents</li>
       </ul>
-      <p>All plans should be stored securely both online and offline. Roles and stakeholders mentioned in the plan should know of its location and be able to access it.</p>
+      <p>All plans <ph conref="conrefs.dita#conrefs/policyshould"/> be stored securely both online and offline. Roles and stakeholders mentioned in the plan <ph conref="conrefs.dita#conrefs/policyshould"/> know of its location and be able to access it.</p>
       </body>
       </topic>
 
       <topic id="reviewing-and-testing">
       <title>Reviewing and testing</title>
       <body>
-      <p>Disaster Recovery Plans must be reviewed regularly, and updated if there have been any changes to systems or services, personnel, or communication chains.</p>
-      <p>Plans must be tested and practiced regularly to help familiarise each of the roles with their responsibilities within the response process.</p>
+      <p>Disaster Recovery Plans <ph conref="conrefs.dita#conrefs/policymust"/> be reviewed regularly, and updated if there have been any changes to systems or services, personnel, or communication chains.</p>
+      <p>Plans <ph conref="conrefs.dita#conrefs/policymust"/> be tested and practiced regularly to help familiarise each of the roles with their responsibilities within the response process.</p>
       <p>This is not an exhaustive list. If you need support in creating a plan, please contact the Service Operations Centre (SOC) and the Major Incident Team.</p>
       </body>
       </topic>
