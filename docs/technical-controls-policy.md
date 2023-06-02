@@ -32,7 +32,7 @@ To help identify formal policy statements, each is prefixed with an identifier o
 
 [Information Classification and Handling Policy](information-classification-and-handling-policy.md)
 
-[IT Incident Management Policy](it-incident-management-policy.md)
+[IT Security Incident Management Policy](it-incident-management-policy.md)
 
 [IT Security Policy \(Overview\)](it-security-policy-overview.md)
 

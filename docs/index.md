@@ -15,7 +15,7 @@ Technical users include:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 3 May 2023.
+**Note:** This guidance is dated: 2 June 2023.
 
 ## Change log
 
@@ -41,12 +41,12 @@ All users. Contains general guidance with some technical information:
 -   [PDF](moj-guidance.pdf)
 -   [EPUB](moj-guidance.epub)
 
-Technical users. Contains detailed technical information, together with all user content:
+Technical users. Contains detailed technical information, together with all users and Group Security content:
 
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 3 June 2023.
+The offline versions of this guidance are time-limited, and are not valid after 2 July 2023.
 
 ## Security culture
 
@@ -401,13 +401,9 @@ These policies are for all users:
 -   [Lost devices or other IT security incidents](lost-devices-incidents.md)
 -   [Reporting an incident](reporting-an-incident.md)
 
-These policies are for technical users:
+This policy is for technical users:
 
--   [Forensic Principles](forensic-principles.md)
--   [Forensic Readiness Guide](forensic-readiness-guide.md)
--   [Forensic Readiness Policy](forensic-readiness-policy.md)
 -   [Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md)
--   [Lost devices or other IT security incidents](lost-devices-incidents.md)
 
 ### Information security aspects of business continuity management
 

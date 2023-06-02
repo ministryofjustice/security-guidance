@@ -126,7 +126,7 @@ ITSIM is a combination of people, plans and predefined processes which enables t
 -   Sanctioning enhanced monitoring on IT systems where appropriate
 -   Updating the incident management database with details of all incidents, any investigation conducted and actions undertaken
 -   Carrying out analysis of security incidents as required
--   Initiating a forensic investigation and commissioning forensic analysis \(in accordance with [Forensic Readiness Policy](forensic-readiness-policy.md)\)
+-   Initiating a forensic investigation and commissioning forensic analysis
 -   Providing progress reports on specific incidents to relevant parties.
 
 |
@@ -329,7 +329,7 @@ Examples of medium impact incidents include \(but not limited to\):
 -   The theft or loss of HMG cryptographic material.
 
 
-Medium impact incidents require escalation to the MoJ ITSO who will determine whether the IAO and relevant system Accreditor also need to be informed. In the case of personal or sensitive personal data, the MoJ Data Access and Compliance Unit \(DACU\) also need to be informed. If deemed appropriate, a forensic investigation will be requested by the MoJ ITSO in line with the [Forensic Readiness Policy](forensic-readiness-policy.md).
+Medium impact incidents require escalation to the MoJ ITSO who will determine whether the IAO and relevant system Accreditor also need to be informed. In the case of personal or sensitive personal data, the MoJ Data Access and Compliance Unit \(DACU\) also need to be informed. If deemed appropriate, a forensic investigation will be requested by the MoJ ITSO.
 
 #### High Impact Incident
 
