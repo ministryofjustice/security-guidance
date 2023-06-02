@@ -80,7 +80,7 @@ Note: Converter version 3.11.2 is known to work well for this build environment.
 
 ## Enable Python build tooling
 
-1. Install the PyPDF2 component. Do this by running the following command in a terminal:</br>`pip3 install --user PyPDF2`
+1. Install the PyPDF2 component. Do this by running the following command in a terminal:</br>`pip3 install --user PyPDF2~=2.0` (The command specifies that the older 2.0 version of the PyPDF2 tool should be installed. More recent versions do not include the PdfWriter capability, which is deprecated.)
 2. Install the RSS feedgen component. Do this by running the following command in a terminal:</br>`pip3 install --user feedgen`
 
 ## Running a local DITA build
