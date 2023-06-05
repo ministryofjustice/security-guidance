@@ -2,7 +2,6 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="it-investigations-planning-and-operations-policy">
   <title>IT Investigations - Planning and Operations Policy</title>
-  
   <topic id="how-to-use-this-policy">
       <title>How to use this policy</title>
       <body>
@@ -83,7 +82,7 @@
       <dl>
       <dlentry>
       <dt><b>POL.POP.004</b></dt>
-      <dd>Each forensic investigation <ph conref="conrefs.dita#conrefs/policymust"/> be guided by the principles set out by the <xref href="https://library.college.police.uk/docs/acpo/digital-evidence-2012.pdf" format="html" scope="external">ACPO guidelines</xref>issued by the National Police Chiefs' Council (NPCC).</dd>
+      <dd>Each forensic investigation <ph conref="conrefs.dita#conrefs/policymust"/> be guided by the principles set out by the <xref href="https://library.college.police.uk/docs/acpo/digital-evidence-2012.pdf" format="html" scope="external">ACPO guidelines</xref> issued by the National Police Chiefs' Council (NPCC).</dd>
       </dlentry>
       </dl>
           <p>The integrity of data, which <ph conref="conrefs.dita#conrefs/policymight"/> subsequently relied upon in court, <ph conref="conrefs.dita#conrefs/policymust"/> be maintained throughout the forensic investigation process.</p>

@@ -2,7 +2,6 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="it-disaster-recovery-plan-and-process-guide">
   <title>IT Disaster Recovery Plan and Process Guide</title>
-  
   <topic id="how-to-use-this-plan-and-process-guide">
    <title>How to use this plan and process guide</title>
    <body>
@@ -24,7 +23,7 @@
       <p> The supporting guides are:</p>
       <ul>
       <li><xref href="it-security-incident-response-plan-and-process-guide.dita" format="dita">IT Security Incident Response Plan and Process Guide</xref></li>
-      <li>IT Disaster Recovery Plan and Process Guide (this guide)</li>
+      <li>IT Disaster Recovery Plan and Process Guide</li>
       </ul>
       <p>This guide gives information on how to create and develop an IT Disaster Recovery Plan for your <ph conref="conrefs.dita#conrefs/moj"/> IT system or service.</p>
       <p>The National Cyber Security Centre (NCSC) also offers guidance on how to <xref href="https://www.ncsc.gov.uk/collection/incident-management" format="html" scope="external">effectively detect, respond to and resolve cyber incidents</xref>.</p>

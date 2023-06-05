@@ -8,30 +8,67 @@
 
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/</loc>
-  <lastmod>2023-05-19T14:41:00+00:00</lastmod>
+  <lastmod>2023-06-05T18:13:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/cyber-and-technical-security-guidance/</loc>
-  <lastmod>2023-05-19T14:41:00+00:00</lastmod>
+  <lastmod>2023-06-05T18:13:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance.pdf</loc>
-  <lastmod>2023-05-19T14:41:00+00:00</lastmod>
+  <lastmod>2023-06-05T18:13:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/moj-guidance-tech.pdf</loc>
-  <lastmod>2023-05-19T14:41:00+00:00</lastmod>
+  <lastmod>2023-06-05T18:13:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/technical-controls-policy/</loc>
+  <lastmod>2023-06-05T18:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/incident-management-plan-and-process-guide/</loc>
+  <lastmod>2023-06-05T18:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/it-disaster-recovery-plan-and-process-guide/</loc>
+  <lastmod>2023-06-05T18:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/it-disaster-recovery-policy/</loc>
+  <lastmod>2023-06-05T18:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/it-incident-management-policy/</loc>
+  <lastmod>2023-06-05T18:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/it-investigations-planning-and-operations-policy/</loc>
+  <lastmod>2023-06-05T18:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/it-security-incident-response-plan-and-process-guide/</loc>
+  <lastmod>2023-06-05T18:13:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<!--
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/using-lastpass/</loc>
   <lastmod>2023-04-29T13:54:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+-->
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/password-managers/</loc>
   <lastmod>2023-04-29T13:54:00+00:00</lastmod>
@@ -177,6 +214,7 @@
   <lastmod>2022-04-19T16:45:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+<!--
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/forensic-principles/</loc>
   <lastmod>2022-04-19T16:45:00+00:00</lastmod>
@@ -192,6 +230,7 @@
   <lastmod>2022-04-19T16:45:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+-->
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/glossary/</loc>
   <lastmod>2022-04-19T16:45:00+00:00</lastmod>
@@ -203,17 +242,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/incident-management-plan-and-process-guide/</loc>
-  <lastmod>2022-04-19T16:45:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/information-classification-handling-and-security-guide/</loc>
-  <lastmod>2022-04-19T16:45:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/it-incident-management-policy/</loc>
   <lastmod>2022-04-19T16:45:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -299,11 +328,6 @@
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/system-users-and-application-administrators/</loc>
-  <lastmod>2022-04-19T16:45:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/technical-controls-policy/</loc>
   <lastmod>2022-04-19T16:45:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -794,16 +818,6 @@
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/lost-devices-incidents/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/it-disaster-recovery-plan-and-process-guide/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/it-disaster-recovery-policy/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>

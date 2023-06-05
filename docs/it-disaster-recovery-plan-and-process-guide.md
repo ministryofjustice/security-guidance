@@ -20,7 +20,7 @@ The policies are:
 The supporting guides are:
 
 -   [IT Security Incident Response Plan and Process Guide](it-security-incident-response-plan-and-process-guide.md)
--   IT Disaster Recovery Plan and Process Guide \(this guide\)
+-   IT Disaster Recovery Plan and Process Guide
 
 This guide gives information on how to create and develop an IT Disaster Recovery Plan for your MoJ IT system or service.
 

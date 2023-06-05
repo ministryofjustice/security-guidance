@@ -78,7 +78,7 @@ A forensics investigation **should** be carried out:
 
 -   **__POL.POP.004__**
 
-    Each forensic investigation **shall** be guided by the principles set out by the [ACPO guidelines](https://library.college.police.uk/docs/acpo/digital-evidence-2012.pdf)issued by the National Police Chiefs' Council \(NPCC\).
+    Each forensic investigation **shall** be guided by the principles set out by the [ACPO guidelines](https://library.college.police.uk/docs/acpo/digital-evidence-2012.pdf) issued by the National Police Chiefs' Council \(NPCC\).
 
 
 The integrity of data, which **might** subsequently relied upon in court, **shall** be maintained throughout the forensic investigation process.

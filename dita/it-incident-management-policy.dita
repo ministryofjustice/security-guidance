@@ -2,10 +2,10 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="it-incident-management-policy">
   <title>IT Security Incident Management Policy</title>
-   <topic id="how-to-use-this-guide">
-      <title>How to use this guide</title>
+   <topic id="how-to-use-this-policy">
+      <title>How to use this policy</title>
       <body>
-      <p> This guide is for all users and is part of a set of <ph conref="conrefs.dita#conrefs/mojlong"/> policies and supporting guides that cover various aspects of incident and disaster management and response.</p>
+      <p> This policy is for all users and is part of a set of <ph conref="conrefs.dita#conrefs/mojlong"/> policies and supporting guides that cover various aspects of incident and disaster management and response.</p>
       <p audience="audience-suppliers audience-tech">The policies are:</p>
       <ul audience="audience-suppliers audience-tech">
       <li>IT Security Incident Management Policy</li>

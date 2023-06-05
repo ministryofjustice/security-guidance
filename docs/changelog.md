@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2023-06-05-18:13-bst-[updates-to-incident-management-policy](https:-security-guidance.service.justice.gov.uk-it-incident-management-policy-)"></a>
+
+-   **2023-06-05 18:13 BST [Updates to incident management policy](https://security-guidance.service.justice.gov.uk/it-incident-management-policy/)**
+
+    Refresh and add extra detail about managing security incidents.
+
 <a name="2023-04-29-13:54-bst-[add-1password-guidance](https:-security-guidance.service.justice.gov.uk-using-1password-)"></a>
 
 -   **2023-04-29 13:54 BST [Add 1Password guidance](https://security-guidance.service.justice.gov.uk/using-1password/)**

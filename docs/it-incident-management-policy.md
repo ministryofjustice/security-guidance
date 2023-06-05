@@ -5,9 +5,9 @@
 
 [Technical Controls Policy](technical-controls-policy.md)
 
-## How to use this guide
+## How to use this policy
 
-This guide is for all users and is part of a set of Ministry of Justice \(MoJ\) policies and supporting guides that cover various aspects of incident and disaster management and response.
+This policy is for all users and is part of a set of Ministry of Justice \(MoJ\) policies and supporting guides that cover various aspects of incident and disaster management and response.
 
 The policies are:
 
