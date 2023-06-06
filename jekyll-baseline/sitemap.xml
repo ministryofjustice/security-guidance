@@ -32,11 +32,13 @@
   <lastmod>2023-06-05T18:13:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+<!--
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/incident-management-plan-and-process-guide/</loc>
   <lastmod>2023-06-05T18:13:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+-->
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/it-disaster-recovery-plan-and-process-guide/</loc>
   <lastmod>2023-06-05T18:13:00+00:00</lastmod>
@@ -48,7 +50,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/it-incident-management-policy/</loc>
+  <loc>https://security-guidance.service.justice.gov.uk/it-security-incident-management-policy/</loc>
   <lastmod>2023-06-05T18:13:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>

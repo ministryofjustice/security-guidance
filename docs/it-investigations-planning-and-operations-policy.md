@@ -13,7 +13,7 @@ This policy is part of a set of Ministry of Justice \(MoJ\) policies and support
 
 The policies are:
 
--   [IT Incident Management Policy](it-incident-management-policy.md)
+-   [IT Security Incident Management Policy](it-security-incident-management-policy.md)
 -   [IT Disaster Recovery Policy](it-disaster-recovery-policy.md)
 -   IT Investigations - Planning and Operations Policy
 
@@ -173,7 +173,7 @@ BS 10008:2022 provides information on the collection of electronically stored in
 
 Each IT Security Incident Management Plan contains a communication plan and an escalation plan that **shall** be followed when responding to an IT Security incident.
 
-The [IT Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md) gives more information.
+The [IT Security Incident Response Plan and Process Guide](it-security-incident-response-plan-and-process-guide.md) gives more information.
 
 For major incidents it might be necessary to consider escalating the forensic investigation process to an external body. This might be:
 
@@ -187,29 +187,8 @@ For major incidents it might be necessary to consider escalating the forensic in
 
 -   **__POL.POP.015__**
 
-    Each Forensic Readiness Plan **shall** include the reporting structure and escalation path for internal and external teams and the individual responsible for managing the incident. This **shall** be consistent with the corresponding [IT Security Incident Management Plan](incident-management-plan-and-process-guide.md). The forensic investigation process **shall** enable the chain of evidence to be passed to outside agencies, if required.
+    Each Forensic Readiness Plan **shall** include the reporting structure and escalation path for internal and external teams and the individual responsible for managing the incident. This **shall** be consistent with the corresponding [IT Security Incident Response Plan and Process Guidea](it-security-incident-response-plan-and-process-guide.md). The forensic investigation process **shall** enable the chain of evidence to be passed to outside agencies, if required.
 
-
-### Legacy information
-
-**Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-**Note:** This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
-
--   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   **Confidential**, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS2 \(HMG Infosec Standard 2 Information Risk Management\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   ITSO \(Information Technology Security Officer\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   **Restricted**, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ### Contact details
 

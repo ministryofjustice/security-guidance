@@ -9,7 +9,7 @@
       <p> This guide is for all users and is part of a set of <ph conref="conrefs.dita#conrefs/mojlong"/> policies and supporting guides that cover various aspects of incident and disaster management and response.</p>
       <p>The policies are:</p>
       <ul>
-      <li><xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref></li>
+      <li><xref href="it-security-incident-management-policy.dita" format="dita">IT Security Incident Management Policy</xref></li>
       <li>IT Disaster Recovery Policy</li>
       <li><xref href="it-investigations-planning-and-operations-policy.dita" format="dita">IT Investigations - Planning and Operations Policy</xref></li>
       </ul>
@@ -54,7 +54,6 @@
 <p>This is not an exhaustive list. If you would like support in creating a plan, please contact the Service Operations Centre (SOC) and the Major Incident Team.</p>
 </body>
 </topic>
-<topic id="legacyreferences" conref="conrefs.dita#legacyreferences"><title/></topic>
 <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
 <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

@@ -322,9 +322,9 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="forensic-readiness-guide.dita" type="topic" audience="audience-tech"/>
 				<topicref href="forensic-readiness-policy.dita" type="topic" audience="audience-tech"/>
 			</topicref>
-			-->
 			<topicref href="incident-management-plan-and-process-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
-			<topicref href="it-incident-management-policy.dita" type="topic" audience="audience-suppliers audience-tech"/>
+			-->
+			<topicref href="it-security-incident-management-policy.dita" type="topic" audience="audience-suppliers audience-tech"/>
 			<topicref href="lost-devices-incidents.dita" type="topic" audience="audience-basic audience-tech"/>
 			<!--
 			<topicref href="moj-forensic-readiness-policy.dita" type="topic" audience="audience-tech"/>
@@ -480,7 +480,7 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="secure-disposal-of-it-public-and-private-cloud.dita"/>
 			</relcell>
 		</relrow>
-		<relrow audience="audience-tech">
+		<relrow audience="audience-suppliers audience-tech">
 			<relcell>
 				<topicref href="technical-controls-policy.dita"/>
 			</relcell>
@@ -489,7 +489,7 @@ if an audience attribute is present, then only matching content is included.
 				<topicref href="access-control-policy.dita"/>
 				<topicref href="code-of-connection-standard.dita"/>
 				<topicref href="information-classification-and-handling-policy.dita"/>
-				<topicref href="it-incident-management-policy.dita"/>
+				<topicref href="it-security-incident-management-policy.dita"/>
 				<topicref href="it-security-policy-overview.dita"/>
 				<topicref href="malware-protection-guide-introduction.dita"/>
 				<topicref href="offshoring-guide.dita"/>

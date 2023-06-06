@@ -15,7 +15,7 @@
       <p>This policy is part of a set of <ph conref="conrefs.dita#conrefs/mojlong"/> policies and supporting guides that cover various aspects of incident and disaster management and response.</p>
       <p>The policies are:</p>
       <ul>
-      <li><xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref></li>
+      <li><xref href="it-security-incident-management-policy.dita" format="dita">IT Security Incident Management Policy</xref></li>
       <li><xref href="it-disaster-recovery-policy.dita" format="dita">IT Disaster Recovery Policy</xref></li>
       <li>IT Investigations - Planning and Operations Policy</li>
       </ul>
@@ -162,7 +162,7 @@
             <title>Reporting and Communication</title>
             <body>
             <p>Each IT Security Incident Management Plan contains a communication plan and an escalation plan that <ph conref="conrefs.dita#conrefs/policymust"/> be followed when responding to an IT Security incident.</p>
-            <p>The <xref href="incident-management-plan-and-process-guide.dita" format="dita">IT Incident Management Plan and Process Guide</xref> gives more information.</p>
+            <p>The <xref href="it-security-incident-response-plan-and-process-guide.dita" format="dita">IT Security Incident Response Plan and Process Guide</xref> gives more information.</p>
            <p>For major incidents it might be necessary to consider escalating the forensic investigation process to an external body. This might be:</p>
            <ul>
            <li>Law Enforcement</li>
@@ -175,12 +175,11 @@
  
            <dlentry>
            <dt><b>POL.POP.015</b></dt>
-           <dd>Each Forensic Readiness Plan <ph conref="conrefs.dita#conrefs/policymust"/> include the reporting structure and escalation path for internal and external teams and the individual responsible for managing the incident. This <ph conref="conrefs.dita#conrefs/policymust"/> be consistent with the corresponding <xref href="incident-management-plan-and-process-guide.dita" format="dita">IT Security Incident Management Plan</xref>. The forensic investigation process <ph conref="conrefs.dita#conrefs/policymust"/> enable the chain of evidence to be passed to outside agencies, if required.</dd>
+           <dd>Each Forensic Readiness Plan <ph conref="conrefs.dita#conrefs/policymust"/> include the reporting structure and escalation path for internal and external teams and the individual responsible for managing the incident. This <ph conref="conrefs.dita#conrefs/policymust"/> be consistent with the corresponding <xref href="it-security-incident-response-plan-and-process-guide.dita" format="dita">IT Security Incident Response Plan and  Process Guidea</xref>. The forensic investigation process <ph conref="conrefs.dita#conrefs/policymust"/> enable the chain of evidence to be passed to outside agencies, if required.</dd>
            </dlentry>
            </dl>
            </body>
            </topic>
-           <topic id="legacyreferences" conref="conrefs.dita#legacyreferences"><title/></topic>
            <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
            <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

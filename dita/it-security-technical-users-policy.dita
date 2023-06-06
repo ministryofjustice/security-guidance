@@ -118,8 +118,7 @@
   <topic id="security-incident-management">
     <title>Security incident management</title>
     <body>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="it-incident-management-policy.dita" format="dita">IT
-        Incident Management Policy</xref></ph><ph audience="audience-suppliers">IT Incident Management Policy</ph></ph><ph product="policy">IT Incident Management Policy</ph>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="it-security-incident-management-policy.dita" format="dita">IT Security Incident Management Policy</xref></ph><ph audience="audience-suppliers">IT Security Incident Management Policy</ph></ph><ph product="policy">IT Security Incident Management Policy</ph>
         covers the end-to-end incident lifecycle,
         and provides the guidance for the <ph conref="conrefs.dita#conrefs/moj"/> to respond effectively in the event of an IT Security Incident,
         which includes security incidents.
@@ -129,8 +128,7 @@
         including containment,
         resolution,
         and recovery.</p>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="incident-management-plan-and-process-guide.dita" format="dita">IT
-        Incident Management Guide</xref></ph><ph audience="audience-suppliers">IT Incident Management Guide</ph></ph><ph product="policy">IT Incident Management Guide</ph>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="it-security-incident-response-plan-and-process-guide.dita" format="dita">IT Security Incident Response Plan and Process Guide</xref></ph><ph audience="audience-suppliers">IT Security Incident Response Plan and Process Guide</ph></ph><ph product="policy">IT Security Incident Response Plan and Process Guide</ph>
         provides additional detail to the policy,
         but also further guidance around Incident Response Team assembly and communication channels.</p>
     </body>
