@@ -103,7 +103,7 @@ Secondly, when a breach of security is detected \(or reported\), the work which 
 
 To support an investigation into a security incident, it is important to have a range of flexible reporting tools which allow the investigator to sort through the accounting information collected in a variety of different ways, and allows interconnections to be made between data derived from different sources.
 
-**Note:** When considering what types of information which should be captured and what auditing should be implemented, it is important to ensure that the relevant IT Security Incident Management Plan is factored into the decision making process. This is to ensure that any protective monitoring solution supports the identification, alerting and investigation of security incidents.Further information can be found in the [IT Security Incident Response Plan and Process Guide](it-security-incident-response-plan-and-process-guide.md).
+**Note:** When considering what types of information which should be captured and what auditing should be implemented, it is important to ensure that the relevant IT Security Incident Management Plan is factored into the decision making process. This is to ensure that any protective monitoring solution supports the identification, alerting and investigation of security incidents. Further information can be found in the [IT Security Incident Response Plan and Process Guide](it-security-incident-response-plan-and-process-guide.md).
 
 ## Developing a protective monitoring schema
 

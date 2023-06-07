@@ -95,7 +95,6 @@
         <li audience="audience-tech"><xref href="#system-acquisition-development-and-maintenance" format="dita">System acquisition, development and maintenance</xref></li>
         <li audience="audience-tech"><xref href="#supplier-relationships" format="dita">Supplier relationships</xref></li>
         <li><xref href="#information-security-incident-management" format="dita">Information security incident management</xref></li>
-        <li audience="audience-tech"><xref href="#information-security-aspects-of-business-continuity-management" format="dita">Information security aspects of business continuity management</xref></li>
         <li><xref href="#compliance" format="dita">Compliance</xref></li>
         <li><xref href="#risk-assessment" format="dita">Risk Assessment</xref></li>
       </ul>
@@ -526,44 +525,24 @@
     <topic id="information-security-incident-management">
       <title>Information security incident management</title>
       <body/>
-      <topic id="management-of-information-security-incidents-and-lost-devices">
-        <title>Management of information security incidents and lost devices</title>
+      <topic id="management-of-information-security-incidents">
+        <title>Management of information security incidents</title>
         <body>
           <p>These policies are for all users:</p>
           <ul>
+            <li><xref href="it-security-incident-management-policy.dita" format="dita">IT Security Incident Management Policy</xref></li>
+            <li><xref href="it-security-incident-response-plan-and-process-guide.dita" format="dita">IT Security Incident Response Plan and Process Guide</xref></li>
             <li><xref href="lost-devices-incidents.dita" format="dita">Lost devices or other IT security incidents</xref></li>
             <li><xref href="reporting-an-incident.dita" format="dita">Reporting an incident</xref></li>
           </ul>
-          <!--
-          <p audience="audience-tech">This policy is for technical users:</p>
+          <p audience="audience-tech">These policies are for technical users:</p>
           <ul audience="audience-tech">
-            <li><xref href="forensic-principles.dita" format="dita">Forensic Principles</xref></li>
-            <li><xref href="forensic-readiness-guide.dita" format="dita">Forensic Readiness Guide</xref></li>
-            <li><xref href="forensic-readiness-policy.dita" format="dita">Forensic Readiness Policy</xref></li>
-            <li><xref href="incident-management-plan-and-process-guide.dita" format="dita">Incident Management Plan and Process Guide</xref></li>
-          </ul>
-            -->
-        </body>
-      </topic>
-    </topic>
-    <topic id="information-security-aspects-of-business-continuity-management" audience="audience-tech">
-      <title>Information security aspects of business continuity management</title>
-      <body/>
-      <topic id="information-security-continuity">
-        <title>Information security continuity</title>
-        <body>
-          <p>These policies are for technical users:</p>
-          <ul>
+            <li><xref href="it-investigations-planning-and-operations-policy.dita" format="dita">IT Investigations - Planning and Operations Policy</xref></li>
             <li><xref href="it-disaster-recovery-plan-and-process-guide.dita" format="dita">IT Disaster Recovery Plan and Process Guide</xref></li>
             <li><xref href="it-disaster-recovery-policy.dita" format="dita">IT Disaster Recovery Policy</xref></li>
           </ul>
         </body>
       </topic>
-              <!--
-      <topic id="redundancies">
-        <title>Redundancies</title>
-      </topic>
-          -->
     </topic>
     <topic id="compliance">
       <title>Compliance</title>

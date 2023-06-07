@@ -15,7 +15,7 @@ Technical users include:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 6 June 2023.
+**Note:** This guidance is dated: 7 June 2023.
 
 ## Change log
 
@@ -46,7 +46,7 @@ Technical users. Contains detailed technical information, together with all user
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 6 July 2023.
+The offline versions of this guidance are time-limited, and are not valid after 7 July 2023.
 
 ## Security culture
 
@@ -72,7 +72,6 @@ MoJ policy documents are listed beneath the following headings:
 -   [System acquisition, development and maintenance](#system-acquisition-development-and-maintenance)
 -   [Supplier relationships](#supplier-relationships)
 -   [Information security incident management](#information-security-incident-management)
--   [Information security aspects of business continuity management](#information-security-aspects-of-business-continuity-management)
 -   [Compliance](#compliance)
 -   [Risk Assessment](#risk-assessment)
 
@@ -394,19 +393,18 @@ These policies are for technical users:
 
 ### Information security incident management
 
-#### Management of information security incidents and lost devices
+#### Management of information security incidents
 
 These policies are for all users:
 
+-   [IT Security Incident Management Policy](it-security-incident-management-policy.md)
+-   [IT Security Incident Response Plan and Process Guide](it-security-incident-response-plan-and-process-guide.md)
 -   [Lost devices or other IT security incidents](lost-devices-incidents.md)
 -   [Reporting an incident](reporting-an-incident.md)
 
-### Information security aspects of business continuity management
-
-#### Information security continuity
-
 These policies are for technical users:
 
+-   [IT Investigations - Planning and Operations Policy](it-investigations-planning-and-operations-policy.md)
 -   [IT Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md)
 -   [IT Disaster Recovery Policy](it-disaster-recovery-policy.md)
 

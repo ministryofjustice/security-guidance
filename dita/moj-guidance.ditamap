@@ -313,26 +313,16 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 	</topichead>
 
-	<topichead audience="audience-basic audience-suppliers audience-tech">
-		<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Information security incident management</navtitle></topicmeta>
-		<topichead audience="audience-basic audience-suppliers audience-tech">
+	<topichead>
+		<topicmeta><navtitle>Information security incident management</navtitle></topicmeta>
+		<topichead>
 			<topicmeta><navtitle>Management of information security incidents and improvements</navtitle></topicmeta>
-			<!--
-			<topicref href="forensic-principles.dita" type="topic" audience="audience-tech">
-				<topicref href="forensic-readiness-guide.dita" type="topic" audience="audience-tech"/>
-				<topicref href="forensic-readiness-policy.dita" type="topic" audience="audience-tech"/>
-			</topicref>
-			<topicref href="incident-management-plan-and-process-guide.dita" type="topic" audience="audience-suppliers audience-tech"/>
-			-->
-			<topicref href="it-security-incident-management-policy.dita" type="topic" audience="audience-suppliers audience-tech"/>
-			<topicref href="lost-devices-incidents.dita" type="topic" audience="audience-basic audience-tech"/>
-			<!--
-			<topicref href="moj-forensic-readiness-policy.dita" type="topic" audience="audience-tech"/>
-			-->
+			<topicref href="it-security-incident-management-policy.dita" type="topic"/>
+			<topicref href="lost-devices-incidents.dita" type="topic"/>
 		</topichead>
 	</topichead>
 
-	<topichead audience="audience-suppliers audience-tech">
+	<topichead>
 		<topicmeta><navtitle>Information security aspects of business continuity management</navtitle></topicmeta>
 		<topichead>
 			<topicmeta><navtitle>Information security continuity</navtitle></topicmeta>
@@ -341,10 +331,6 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="it-investigations-planning-and-operations-policy.dita" type="topic"/>
 			<topicref href="it-security-incident-response-plan-and-process-guide.dita" type="topic"/>
 		</topichead>
-	<!--
-		<topichead navtitle="Redundancies">
-		</topichead>
-	-->
 	</topichead>
 
 	<topichead audience="audience-basic audience-suppliers audience-tech">

@@ -175,7 +175,7 @@
  
            <dlentry>
            <dt><b>POL.POP.015</b></dt>
-           <dd>Each Forensic Readiness Plan <ph conref="conrefs.dita#conrefs/policymust"/> include the reporting structure and escalation path for internal and external teams and the individual responsible for managing the incident. This <ph conref="conrefs.dita#conrefs/policymust"/> be consistent with the corresponding <xref href="it-security-incident-response-plan-and-process-guide.dita" format="dita">IT Security Incident Response Plan and  Process Guidea</xref>. The forensic investigation process <ph conref="conrefs.dita#conrefs/policymust"/> enable the chain of evidence to be passed to outside agencies, if required.</dd>
+           <dd>Each Forensic Readiness Plan <ph conref="conrefs.dita#conrefs/policymust"/> include the reporting structure and escalation path for internal and external teams and the individual responsible for managing the incident. This <ph conref="conrefs.dita#conrefs/policymust"/> be consistent with the corresponding <xref href="it-security-incident-response-plan-and-process-guide.dita" format="dita">IT Security Incident Response Plan and Process Guidea</xref>. The forensic investigation process <ph conref="conrefs.dita#conrefs/policymust"/> enable the chain of evidence to be passed to outside agencies, if required.</dd>
            </dlentry>
            </dl>
            </body>
