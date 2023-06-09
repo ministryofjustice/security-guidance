@@ -120,10 +120,10 @@
             For more information regarding IRARs,
             and how to create and maintain them,
             contact the <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</p>
-		<p id="incidentmanager" audience="audience-suppliers audience-tech">Following a report,
+		<p id="incidentmanager">Following a report,
 			incident managers should refer to the
-			<xref href="incident-management-plan-and-process-guide.dita"
-			format="dita">Incident Management Plan and Process Guide</xref> for
+			<xref href="it-security-incident-response-plan-and-process-guide.dita"
+			format="dita">IT Security Incident Response Plan and Process Guide</xref> for
 			further guidance.</p>
 		<note id="noteexternalemail">An external email service is any service that
 			is outside the <codeph>gov.uk</codeph> domain.</note>

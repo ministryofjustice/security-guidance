@@ -15,6 +15,8 @@ To help identify formal policy statements, each is prefixed with an identifier o
 
 [Technical Controls Policy](technical-controls-policy.md)
 
+[Technical Controls Policy](technical-controls-policy.md)
+
 ## System recovery
 
 **POL.SBP.001**: All systems **shall** comply with the [MoJ Security Policy](it-security-policy-overview.md).

@@ -35,7 +35,7 @@ Guidance for system specific privileged users:
 Privileged users play a front-line role in detecting and responding to incidents. To ensure that they are prepared to respond to any incidents, privileged users should:
 
 -   Know and be able to implement the incident management plans and processes required for their systems. For instance, within HMPPS, privileged users should know that the HMPPS Incident Management function operates within the HMPPS Infosec and Service Team, and when they are to be contacted.
--   Ensure that any system-specific incident management controls align with the [MoJ's IT Disaster Recovery Policy](it-disaster-recovery-policy.md) and the [Incident Management Policy and Guide](incident-management-plan-and-process-guide.md).
+-   Ensure that any system-specific incident management controls align with the [MoJ's IT Disaster Recovery Policy](it-disaster-recovery-policy.md) and the [IT Security Incident Management Policy](it-security-incident-management-policy.md).
 
 ## General enquiries, including theft and loss
 

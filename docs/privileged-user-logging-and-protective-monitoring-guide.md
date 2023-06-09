@@ -27,7 +27,7 @@ Privileged users are responsible for maintaining system logs \(syslogs\) for the
 -   Ensuring that audits and compliance checks of IT systems do not adversely affect business operations.
 -   Documenting and reporting anomalies in log settings, configurations, and processes to the Security team \([contact details](#incidents-and-contact-details)\).
 -   Managing long-term storage of system log data, monitoring log rotation, and the archival and deletion of log data.
--   Any suspicious activity must be [reported](#incidents-and-contact-details). Refer to the details in the [IT Incident Management Policy](it-incident-management-policy.md).
+-   Any suspicious activity must be [reported](#incidents-and-contact-details). Refer to the details in the [IT Security Incident Management Policy](it-security-incident-management-policy.md).
 
 ## Protection of log data
 

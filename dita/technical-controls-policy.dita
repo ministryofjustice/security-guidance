@@ -272,7 +272,7 @@
         <p>The <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> is responsible for managing security incidents involving <ph conref="conrefs.dita#conrefs/moj"/> IT systems and information assets. As such, they are the primary consumer of any protective monitoring solution as it is a key feed of information and mechanism for raising security incidents.</p>
         <p><b>POL.TCP.072</b>: All protective monitoring solutions <ph conref="conrefs.dita#conrefs/policymust"/> provide the capability to report security incident (or the audit and log data which can be used to generate security incidents) to the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/>.</p>
         <p><b>POL.TCP.073</b>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> provide their audit logs to the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/> upon request.</p>
-        <p>Further information on IT incident management is available in <xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref>.</p>
+        <p>Further information on IT incident management is available in <xref href="it-security-incident-management-policy.dita" format="dita">IT Security Incident Management Policy</xref>.</p>
       </body>
     </topic>
   </topic>
@@ -395,7 +395,7 @@
         <p><b>POL.TCP.103</b>: All imports and exports to an IT system received from an external network or via removable media must be scanned for viruses and malware prior to being loaded on that system. This includes e-mails as well as system-to-system transfers.</p>
         <p><b>POL.TCP.104</b>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> have a procedure to report any virus or malware instances. As standard, this must be an alert to the User and to the <ph conref="conrefs.dita#conrefs/mojsecurityemailtext"/>.</p>
         <p><b>POL.TCP.105</b>: All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> refer to the <xref href="malware-protection-guide-introduction.dita" format="dita">Malware Protection Guide</xref> when selecting security controls to protect against malicious code and threats from mobile code.</p>
-        <note> All malicious code instances must be recorded as an IT Security incident. Further details are provided in <xref href="it-incident-management-policy.dita" format="dita">IT Incident Management Policy</xref>.</note>
+        <note> All malicious code instances must be recorded as an IT Security incident. Further details are provided in <xref href="it-security-incident-management-policy.dita" format="dita">IT Security Incident Management Policy</xref>.</note>
       </body>
       <topic id="covert-channels-and-trojan-code">
         <title>Covert channels and Trojan code</title>

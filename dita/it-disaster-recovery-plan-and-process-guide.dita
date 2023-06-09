@@ -2,636 +2,80 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="it-disaster-recovery-plan-and-process-guide">
   <title>IT Disaster Recovery Plan and Process Guide</title>
-  <topic id="legacyreferences" conref="conrefs.dita#legacyreferences"><title/></topic>
-  <topic id="about-this-document">
-    <title>About this document</title>
-    <body>
-      <p>This document is the <ph conref="conrefs.dita#conrefs/mojlong"/> IT Security – IT Disaster Recovery Plan and Process Guide. It is designed to help protect the information assets of the <ph conref="conrefs.dita#conrefs/moj"/> through the formal documentation of procedures surrounding the management of IT disaster events.</p>
-    </body>
-    <topic id="how-to-use-this-document">
-      <title>How to use this document</title>
-      <body>
-        <p>This document provides guidance on implementing the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="it-disaster-recovery-policy.dita" format="dita">IT Security – IT Disaster Recovery Policy</xref>. It should be used to guide the development of a <ph conref="conrefs.dita#conrefs/moj"/> business group level IT Security Disaster Recovery Plan whose scope covers all IT systems used to support that business group.</p>
-        <p>For the purposes of this document, the following terms will be used:</p>
-        <ul>
-          <li>
-            <p><b>IT Disaster Recovery</b> will be referred to as <b>ITDR</b>.</p>
-          </li>
-          <li>
-            <p><b>IT Security Incident Management</b> will be referred to as <b>ITSIM</b>.</p>
-          </li>
-        </ul>
+  <topic id="how-to-use-this-plan-and-process-guide">
+   <title>How to use this plan and process guide</title>
+   <body>
+   <p>This guide for technical users. Technical users include:</p>
+   <ul>
+   <li>Technical architects</li>
+   <li>DevOps specialists</li>
+   <li>IT service managers</li>
+   <li>Software developers</li>
+   </ul>
+  
+   <p>This plan and process guide is part of a set of <ph conref="conrefs.dita#conrefs/mojlong"/> policies and supporting guides that cover various aspects of incident and disaster management and response.</p>
+      <p>The policies are:</p>
+      <ul>
+      <li><xref href="it-security-incident-management-policy.dita" format="dita">IT Security Incident Management Policy</xref></li>
+      <li><xref href="it-disaster-recovery-policy.dita" format="dita">IT Disaster Recovery Policy</xref></li>
+      <li><xref href="it-investigations-planning-and-operations-policy.dita" format="dita">IT Investigations - Planning and Operations Policy</xref></li>
+      </ul>
+      <p> The supporting guides are:</p>
+      <ul>
+      <li><xref href="it-security-incident-response-plan-and-process-guide.dita" format="dita">IT Security Incident Response Plan and Process Guide</xref></li>
+      <li>IT Disaster Recovery Plan and Process Guide</li>
+      </ul>
+      <p>This guide gives information on how to create and develop an IT Disaster Recovery Plan for your <ph conref="conrefs.dita#conrefs/moj"/> IT system or service.</p>
+      <p>The National Cyber Security Centre (NCSC) also offers guidance on how to <xref href="https://www.ncsc.gov.uk/collection/incident-management" format="html" scope="external">effectively detect, respond to and resolve cyber incidents</xref>.</p>
       </body>
-    </topic>
-  </topic>
-  <topic id="overview">
-    <title>Overview</title>
-    <topic id="introduction">
-      <title>Introduction</title>
+      </topic>
+
+      <topic id="business-impact-asssessment">
+      <title>Business Impact Assessment</title>
       <body>
-        <p>The ability of the <ph conref="conrefs.dita#conrefs/moj"/> to react quickly to ITDR events will ensure that losses are minimised and the business will be able to resume or continue operations as quickly as possible.</p>
-        <p>ITDR management is the ability to react to ITDR events in a controlled, pre-planned manner. Preparation and planning are key factors to successful incident management and all <ph conref="conrefs.dita#conrefs/moj"/> systems will rely upon the development and implementation of an ITDR plan as described in this guide.</p>
-        <p>The HMG Security Policy Framework (SPF) Mandatory Requirement 4 states that:
-        <lq>"Departments and Agencies must have robust and well tested policies, procedures and management arrangements in place to respond to, investigate and recover from security incidents or other disruptions to core business."</lq></p>
-        <p>The policy on IT Disaster Recovery is covered in <xref href="it-disaster-recovery-policy.dita" format="dita">IT Security Policy – IT Disaster Recovery Policy</xref> while this document sets out the <ph conref="conrefs.dita#conrefs/moj"/> guidance for creating an ITDR plan. This guide must be read in conjunction with CESG GPG No. 24 – Security Incident Management and <xref href="incident-management-plan-and-process-guide.dita" format="dita">IT Security – Incident Management Plan and Process Guide</xref>.</p>
-        <note>The <xref href="it-disaster-recovery-policy.dita" format="dita">IT Security Policy – IT Disaster Recovery Policy</xref> sets out the roles and responsibilities with respect to ITDR. It states that each IT system must fall under the responsibility of an IT Disaster Recovery Team Leader (ITDRTL) who is responsible for maintaining the ITDR plan.</note>
+      <p>The service or system owner <ph conref="conrefs.dita#conrefs/policyshould"/> carry out a Business Impact Assessment (BIA) in order to:</p>
+      <ul>
+      <li>get an overview of the Business as Usual (BAU) functions for the <ph conref="conrefs.dita#conrefs/moj"/> IT system or service</li>
+      <li>get an understanding of the business criticality of the service the <ph conref="conrefs.dita#conrefs/moj"/> IT system supports</li>
+      <li>calculate a Recovery Point Objective (RPO), this is the maximum amount of data the business can afford to lose during a disaster</li>
+      <li>calculate a Recovery Time Objective (RTO), this is the amount of time before the disaster begins to seriously impede the flow of normal business operations</li>
+      </ul>
       </body>
-    </topic>
-    <topic id="aim-of-this-guide">
-      <title>Aim of this guide</title>
+      </topic>
+
+      <topic id="suggested-content">
+      <title>Suggested content</title>
       <body>
-        <p>The aim of this guide is to ensure all <ph conref="conrefs.dita#conrefs/moj"/> business groups develop, implement and maintain an ITDR plan.
-This guide is split up into four sections:</p>
-        <ul>
-          <li>
-            <p>Gathering the requirements needed to shape an ITDR plan;</p>
-          </li>
-          <li>
-            <p>Guidance on writing an ITDR plan;</p>
-          </li>
-          <li>
-            <p>Testing an ITDR plan;</p>
-          </li>
-          <li>
-            <p>Training and awareness.</p>
-          </li>
-        </ul>
-        <p>A template ITDR plan is provided <xref href="#it-disaster-recovery-plan-template" format="dita">here</xref>; this is not designed to be a rigid template and can be flexed to meet the needs of the business.</p>
+      <p>Disaster recovery plans are specific to each individual IT system or service. They are intended to offer guidance to every listed role when responding to an incident.</p>
+      <p>When deciding the content of a Disaster Recovery Plan for an <ph conref="conrefs.dita#conrefs/moj"/> IT system or service, a useful start is to identify every potential disaster that may affect the system or service, together with procedures to resolve each one.</p>
+      <p>Each Disaster Recovery Plan <ph conref="conrefs.dita#conrefs/policyshould"/> include:</p>
+      <ul>
+      <li>the point at which the recovery plan <ph conref="conrefs.dita#conrefs/policyshould"/> be used</li>
+      <li>a clear and detailed process to recover the <ph conref="conrefs.dita#conrefs/moj"/> IT system to BAU</li>
+      <li>a list of key roles and a description of their responsibilities - each role <ph conref="conrefs.dita#conrefs/policyshould"/> have at least two sets of contact details</li>
+      <li>a list of internal and external stakeholders to be contacted as soon as the incident happens, each stakeholder <ph conref="conrefs.dita#conrefs/policyshould"/> have at least two sets of contact details</li>
+      <li>a communication list of everyone who needs to be contacted, together with the chains of communication that <ph conref="conrefs.dita#conrefs/policymust"/> be followed</li>
+      <li>a list of people who can undertake the role of recovery manager</li>
+      <li>a series of steps to follow in order to mitigate the incident</li>
+      <li>a list of criteria needed to initiate a forensic investigation, and the role(s) responsible for it</li>
+      <li>clear instructions on how to escalate to a higher level of incident response, to include names and contact details and the reason for escalating the incident</li>    
+      <li>methods to maintain business continuity whilst the <ph conref="conrefs.dita#conrefs/moj"/> IT service is unavailable</li>
+      <li>a process to identify and capture lessons learned during the incident</li>
+      <li>the requirement for a written report for medium and high impact incidents</li>
+      </ul>
+      <p>All plans <ph conref="conrefs.dita#conrefs/policyshould"/> be stored securely both online and offline. Roles and stakeholders mentioned in the plan <ph conref="conrefs.dita#conrefs/policyshould"/> know of its location and be able to access it.</p>
       </body>
-    </topic>
-    <topic id="demonstration-of-compliance">
-      <title>Demonstration of compliance</title>
+      </topic>
+
+      <topic id="reviewing-and-testing">
+      <title>Reviewing and testing</title>
       <body>
-        <p>The <xref href="https://www.ncsc.gov.uk/information/hmg-ia-maturity-model-iamm" format="html" scope="external">CESG Information Assurance Maturity Model (IAMM)</xref> sets out the minimum maturity level Government departments should attain. IT asset disposal is captured as a basic requirement in Level 1 where the <ph conref="conrefs.dita#conrefs/moj"/> will need to demonstrate compliance against.</p>
+      <p>Disaster Recovery Plans <ph conref="conrefs.dita#conrefs/policymust"/> be reviewed regularly, and updated if there have been any changes to systems or services, personnel, or communication chains.</p>
+      <p>Plans <ph conref="conrefs.dita#conrefs/policymust"/> be tested and practiced regularly to help familiarise each of the roles with their responsibilities within the response process.</p>
+      <p>This is not an exhaustive list. If you need support in creating a plan, please contact the Service Operations Centre (SOC) and the Major Incident Team.</p>
       </body>
-    </topic>
-    <topic id="relationship-to-business-continuity-planning">
-      <title>Relationship to Business Continuity Planning</title>
-      <body>
-        <p>ITDR is distinct from Business Continuity planning; specifically it:</p>
-        <ul>
-          <li>
-            <p>Includes planning for resumption of applications, data, hardware, communications (e.g. IT networks) and other IT infrastructure.</p>
-          </li>
-        </ul>
-        <p>The Business Continuity Plan (BCP) is broader than the ITDR in that it puts in place a plan for the recovery of an entire business group's business operation in the event of a disaster. The <ph conref="conrefs.dita#conrefs/moj"/>'s BCP contains the procedures for building, facilities, transport, people, physical information (e.g. paper) disruption and the communication of critical information to employees.</p>
-        <p>Therefore, an ITDR plans is created:</p>
-        <ul>
-          <li>
-            <p>To aid the business in returning to normal operations as quickly as possible;</p>
-          </li>
-          <li>
-            <p>To ensure the causes of a disastrous event are captured and understood;</p>
-          </li>
-          <li>
-            <p>To help avoid similar incidents in the future; and</p>
-          </li>
-          <li>
-            <p>To aid the improvement of the ITDR policy and planning.</p>
-          </li>
-        </ul>
-      </body>
-    </topic>
-    <topic id="link-to-it-security-incident-management">
-      <title>Link to IT Security Incident Management</title>
-      <body>
-        <p>The ITDR plan sits under an ITSIM plan. It is important to ensure that the steps encapsulated in the ITDR plan align to the ITSIM plan. Further information on the ITSIM plan can be found in <xref href="incident-management-plan-and-process-guide.dita" format="dita">IT Security – Incident Management Plan and Process Guide</xref>.</p>
-      </body>
-    </topic>
-    <topic id="process">
-      <title>Process</title>
-      <body>
-        <p>The process for developing a good ITDR plan can be summarised into two stages:</p>
-        <ul>
-          <li>
-            <p>Firstly a "Requirements and Planning" stage establishes the requirements for the plan.</p>
-          </li>
-          <li>
-            <p>Secondly, during "execution" of the ITDR plan, it is important to ensure that ITDR incidents are managed appropriately, the plan is executed effectively, and that any lessons learned are fed back into the process so that future improvements can be made.</p>
-          </li>
-        </ul>
-        <p>The following diagram illustrates this process.
-        <image href="images/it-disaster-recovery-plan-and-process-guide-diagram.png" placement="break" scope="local"><alt>IT Disaster Recovery flowchart for planning, execution, and feedback.</alt></image></p>
-      </body>
-    </topic>
-  </topic>
-  <topic id="gathering-requirements-for-itdr">
-    <title>Gathering requirements for ITDR</title>
-    <body>
-      <p>The ITDR process is based on understanding the Recovery Time and Point Objectives; these form the basic requirements for ITDR. This section outlines the process to identify a Recovery Time Objective (RTO) and Recovery Point Objective (RPO) and the information gathering activities required in order to create an ITDR plan.</p>
-    </body>
-    <topic id="itdr-requirements">
-      <title>ITDR requirements</title>
-      <topic id="recovery-time-objective-rto">
-        <title>Recovery Time Objective (RTO)</title>
-        <body>
-          <p>The RTO is the maximum business-tolerable time that an IT system can be unavailable. This time must be considered from the business' point of view where the RTO covers the entire period from initial failover to successful restoration of the business operations. Simply taking this time to recover a single server is not sufficient.</p>
-        </body>
       </topic>
-      <topic id="recovery-point-objective-rpo">
-        <title>Recovery Point Objective (RPO)</title>
-        <body>
-          <p>The RPO is the amount of data loss which can be tolerated by the business after a system failover. As such, a business can either re-type or re-generate this amount of information without a significant impact on their business process.</p>
-        </body>
+
+      <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+      <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
       </topic>
-    </topic>
-    <topic id="information-gathering">
-      <title>Information gathering</title>
-      <body>
-        <p>The following table provides details on the base set of information sources required to support the development of an ITDR plan.</p>
-        <table>
-          <title>Information sources</title>
-          <tgroup cols="2">
-            <colspec colname="col1" colnum="1" colwidth="2*"/>
-            <colspec colname="col2" colnum="2" colwidth="3*"/>
-            <thead>
-              <row>
-                <entry colname="col1">Information source</entry>
-                <entry colname="col2">Description</entry>
-              </row>
-            </thead>
-            <tbody>
-              <row>
-                <entry colname="col1">ITDR asset register</entry>
-                <entry colname="col2">The group of IT systems that are subject to the ITDR planning process must be captured in an ITDR asset register. The RTO and RPO for each individual IT system must be less than or equal to the overall business group RTO and RPO.</entry>
-              </row>
-              <row>
-                <entry colname="col1">Business Impact Assessment (BIA)</entry>
-                <entry colname="col2">For each IT system identified on the ITDR asset register, a Business Impact Assessment (BIA) is carried out. A BIA considers what impact would occur to the business in the event that the IT systems were unavailable or data were lost. This BIA may be created as part of the Risk Management and Accreditation Document Set (RMADS).</entry>
-              </row>
-            </tbody>
-          </tgroup>
-        </table>
-      </body>
-    </topic>
-  </topic>
-  <topic id="writing-an-itdr-plan">
-    <title>Writing an ITDR plan</title>
-    <body>
-      <p>This section provides guidance on writing an ITDR plan with a template provided <xref href="#it-disaster-recovery-plan-template" format="dita">here</xref>. Each sub-section is an element of the ITDR plan.</p>
-    </body>
-    <topic id="it-system-description">
-      <title>IT System Description</title>
-      <body>
-        <p>For the purposes of the ITDR plan, an IT system is the collection of applications and supporting infrastructure which provides IT services to a <ph conref="conrefs.dita#conrefs/moj"/> business group. In turn, this business group supports a number of business processes – it is these processes which must be restored, not just the IT system.</p>
-        <p>In order make clear the role of the IT system with relevance to the BCP, this section must clearly list the IT system's constituent components, as well as details of the business processes it supports. This in turn defines the scope of the ITDR plan.</p>
-      </body>
-    </topic>
-    <topic id="site-list">
-      <title>Site List</title>
-      <body>
-        <p>This section of the ITDR plan must contain details of all the physical sites relevant to the recovery process. It must also include details of any secondary business sites, in case the primary site is affected by a disaster and IT system services need to be made available at a secondary site.</p>
-      </body>
-    </topic>
-    <topic id="dependencies">
-      <title>Dependencies</title>
-      <body>
-        <p>A list of dependencies (internal and external) must be included in the ITDR plan. Restoration of a business process may be more complex than restoration of a single IT system, and the bottlenecks or miscommunications which can occur here are often the critical points of failure in the process. The impact of the dependency must be captured, in terms of risk, time and cost.</p>
-        <p>This information can be used in a disaster event to provide an accurate estimate time for recovery.</p>
-      </body>
-      <topic id="internal-dependencies">
-        <title>Internal Dependencies</title>
-        <body>
-          <p>Internal dependencies are those which may materialise as part of the recovery actions of the ITDR plan itself, for example:</p>
-          <ul>
-            <li>
-              <p>When a step in the plan must be completed before a subsequent step can be taken, such as restoring access to a database before conducting login testing.</p>
-            </li>
-            <li>
-              <p>If the data centre is in a remote part of the country, and so it may take time for staff to reach the location.</p>
-            </li>
-          </ul>
-        </body>
-      </topic>
-      <topic id="external-dependencies">
-        <title>External Dependencies</title>
-        <body>
-          <p>External dependencies are those which may affect the success of an ITDR plan and lie beyond the area of control of the ITDR Team Lead (refer to the <xref href="it-disaster-recovery-policy.dita" format="dita">IT Security – IT Disaster Recovery Policy</xref> for a role description).</p>
-          <p>For example:</p>
-          <ul>
-            <li>
-              <p>Where a previous service, such as power, communication or sanitation facilities, must be restored before this system can be restored;</p>
-            </li>
-            <li>
-              <p>Where the recovery of this system must be completed before the Incident Management team can notify staff to return to work at some location.</p>
-            </li>
-          </ul>
-        </body>
-      </topic>
-    </topic>
-    <topic id="invocation">
-      <title>Invocation</title>
-      <topic id="definition-of-a-disaster">
-        <title>Definition of a 'Disaster'</title>
-        <body>
-          <p>The ITDR plan must include a clear statement on what set of incidents constitute a disaster. Certain components of the IT system may be replaceable without invocation of the entire ITDR plan, whereas an apparently 'small' incident may have a wider reach which does require the plan to be invoked. This section must clarify the situations in which the ITDR plan will be invoked; it may be useful to reference incidents which may have occurred in the past.</p>
-          <p><b>Note:</b> This definition must be consistent with corresponding ITSIM plan.</p>
-        </body>
-      </topic>
-      <topic id="invocation-1">
-        <title>Invocation</title>
-        <body>
-          <p>The ITDR plan does not need to be invoked in its entirety. A disaster event may not require the invocation of all the procedures in the plan, and so the level of response must be assessed and clearly communicated and agreed between the business and IT leads before implementation.</p>
-          <p>This section must list those with authority to invoke the ITDR plan.</p>
-        </body>
-      </topic>
-      <topic id="staff-notification">
-        <title>Staff Notification</title>
-        <body>
-          <p>Provisions must be made to inform the correct staff of the need to begin recovery procedures; this should usually be captured in the corresponding ITSIM plan.</p>
-          <p>IT supplier staff may require a different form of notification, and therefore this procedure should be clearly noted in the ITDR plan if they are not contained within the corresponding ITSIM plan.</p>
-        </body>
-      </topic>
-      <topic id="key-contacts">
-        <title>Key Contacts</title>
-        <body>
-          <p>This section of the ITDR plan should detail the individuals who currently hold the roles listed in the previous section. As mentioned previously, this information may be better kept in an annex.</p>
-        </body>
-      </topic>
-    </topic>
-    <topic id="recovery-procedures">
-      <title>Recovery procedures</title>
-      <body>
-        <p>This section of the ITDR plan must list the functions of the IT system and the business processes it supports, and relate them to a specific set of recovery actions.  Functions should be categorised (into primary and secondary functions) allowing for critical business processes to be restored ahead of others.</p>
-        <p>A generic set of ITDR incident management steps is <xref href="#itdr-incident-management" format="dita">provided</xref> which should be used as the basis to structure the more granular recovery actions (refer <xref href="#recovery-actions" format="dita">here</xref> ).</p>
-      </body>
-      <topic id="primary-functions">
-        <title>Primary functions</title>
-        <body>
-          <p>Primary functions are those which <b>must be</b> restored in the event of a disaster. The primary functions are the business-centric and mandated processes which must be restored for the business to successfully complete its work.</p>
-        </body>
-      </topic>
-      <topic id="secondary-functions">
-        <title>Secondary functions</title>
-        <body>
-          <p>Secondary functions are those which <b>should be</b> restored in the event of a disaster. Priority should be aimed at the primary functions; secondary functions should be restored only after all the primary functions are restored.</p>
-        </body>
-      </topic>
-      <topic id="recovery-actions">
-        <title>Recovery actions</title>
-        <body>
-          <p>This section of the ITDR plan should list any actions which are to be used in the recovery effort and where possible should be cross-referenced with the relevant primary and secondary functions. It is recommended that the ITDR plan contains a high level set of actions (e.g. recover file server) with technical details contained in a referenced work instruction or pre-existing operational procedures document.</p>
-        </body>
-      </topic>
-    </topic>
-    <topic id="review">
-      <title>Review</title>
-      <body>
-        <p>The ITDR plan is a constantly evolving document, and therefore must be subject to change control and review. This should be in line with the review schedule for the corresponding ITSIM plan.</p>
-        <p>This section of the ITDR plan must define those responsible for the reviews, as well as the conditions under which the review must be undertaken.</p>
-      </body>
-    </topic>
-  </topic>
-  <topic id="itdr-testing">
-    <title>ITDR testing</title>
-    <body>
-      <p>This section outlines the steps required to develop an effective approach to ITDR testing.</p>
-    </body>
-    <topic id="types-of-test">
-      <title>Types of test</title>
-      <body>
-        <p>There are five main approaches to testing an ITDR plan:</p>
-        <ul>
-          <li>
-            <p>Paper-based testing</p>
-          </li>
-          <li>
-            <p>Walkthrough testing</p>
-          </li>
-          <li>
-            <p>Component testing</p>
-          </li>
-          <li>
-            <p>Parallel testing</p>
-          </li>
-          <li>
-            <p>Cutover testing</p>
-          </li>
-        </ul>
-        <p>Each approach is summarised in the following table.</p>
-        <table>
-          <title>ITDR plan test types</title>
-          <tgroup cols="2">
-            <colspec colname="col1" colnum="1" colwidth="1*"/>
-            <colspec colname="col2" colnum="2" colwidth="4*"/>
-            <thead>
-              <row>
-                <entry colname="col1">Test type</entry>
-                <entry colname="col2">Description</entry>
-              </row>
-            </thead>
-            <tbody>
-              <row>
-                <entry colname="col1">Paper-based Test</entry>
-                <entry colname="col2">A paper-based test collects together all of the available documentation for the system; most importantly, the ITDR plan for the system. An analyst with experience of conducting ITDR will then ascertain from examining the documented processes and interviews with staff, whether all of the necessary provisions exist to meet the recovery requirements for that IT system.</entry>
-              </row>
-              <row>
-                <entry colname="col1">Walkthrough Test</entry>
-                <entry colname="col2">A walkthrough test is a non-technical, real-time test involving a role-play exercise where all relevant stakeholders walk through an ITDR scenario. All resources need to be available and set aside to test a specific scenario; these include business staff, IT staff and accommodation.Where possible it is recommended that the individuals who would be used in a true disaster scenario are used to conduct the test, with the various parties responding as per their role.</entry>
-              </row>
-              <row>
-                <entry colname="col1">Component Testing</entry>
-                <entry colname="col2">Component testing starts to test individual components of processes and technology that will be identified in an ITDR plan. Component testing provides an opportunity to gain confidence that the individual components of the IT system can be restored successfully.This type of testing often takes place before progressing to an end-to-end form of testing.</entry>
-              </row>
-              <row>
-                <entry colname="col1">Parallel Testing</entry>
-                <entry colname="col2">Parallel testing involves the use of hardware which has been sourced or set aside for the purposes of testing. Essentially, this form of test is operating a full restoration of an IT system in a non-live setting. In this type of testing, the ITDR process is run in parallel alongside the live system, ensuring that the business process can continue to function, while identifying hardware-based, physical and practical limitations of the plan.</entry>
-              </row>
-              <row>
-                <entry colname="col1">Cutover Testing</entry>
-                <entry colname="col2">Cutover testing focuses upon putting a disaster recovery system into a live setting. Therefore this involves the complete dependence on the backup system rather than the primary. It is strongly recommended that all previous types of tests are considered and undertaken and reviewed or not taken with formally agreed reasoning to assure confidence before adopting this approach. Care must also be taken to ensure that the live service is not affected during the setup and execution of this test. As with any live service testing, it will be imperative that appropriate service or maintenance windows are identified and agreed with the business, in order to minimise risk to business operations.</entry>
-              </row>
-            </tbody>
-          </tgroup>
-        </table>
-      </body>
-    </topic>
-    <topic id="planning-a-test">
-      <title>Planning a test</title>
-      <topic id="objectives">
-        <title>Objectives</title>
-        <body>
-          <p>The main objectives of testing an ITDR plan are to determine whether:</p>
-          <ul>
-            <li>
-              <p>IT services can be recovered after an incident;</p>
-            </li>
-            <li>
-              <p>IT continuity provisions can minimise the impact to the business and their operations, in response to an incident;</p>
-            </li>
-            <li>
-              <p>The ITDR procedures for a return to 'business as usual' operations are validated;</p>
-            </li>
-            <li>
-              <p>Additional factors, such as communication, and incident and alert management are sufficiently robust; and</p>
-            </li>
-            <li>
-              <p>To allow staff to become familiar with the ITDR plan.</p>
-            </li>
-          </ul>
-          <p>The test results must show:</p>
-          <ul>
-            <li>
-              <p>Gaps in the level of service compared to the ITDR requirements (refer <xref href="#itdr-requirements" format="dita">here</xref> ).</p>
-            </li>
-            <li>
-              <p>Actions to address these gaps must be identified and assigned to responsible staff.</p>
-            </li>
-            <li>
-              <p>A consolidated report for management should be complied, in order to illustrate the results of the tests, along with actions taken to address any issues that arose.</p>
-            </li>
-            <li>
-              <p>The process of examining the results against the requirements should identify 'defects' in the Plan documentation and process. These defects must be identified and fed back into the planning documents.</p>
-            </li>
-          </ul>
-        </body>
-      </topic>
-      <topic id="success-criteria">
-        <title>Success criteria</title>
-        <body>
-          <p>A test can only be declared a success if the following conditions are met:</p>
-          <ul>
-            <li>
-              <p>The business processes which are covered by the ITDR plan are proven to be recovered to working use at the end of the test period.</p>
-            </li>
-            <li>
-              <p>The entire IT system, including data, can be accessed by users within the period of time specified by the agreed RTO limit (refer <xref href="#recovery-time-objective-rto" format="dita">here</xref> ).</p>
-            </li>
-            <li>
-              <p>Where applicable, users can access the IT system from a necessary site after the failover has been tested.</p>
-            </li>
-            <li>
-              <p>The amount of data loss can be specified exactly, and is within the RPO limit.</p>
-            </li>
-          </ul>
-          <p><b>Note:</b> This is not an exhaustive list, this should be discussed and criteria should be reviewed and agreed with the business group Senior Information Risk Owner (SIRO) in advance.</p>
-        </body>
-      </topic>
-      <topic id="review-and-update">
-        <title>Review and update</title>
-        <body>
-          <p>Subsequent review of the test must be undertaken to ensure that all test results are reflected in the ITDR plan. It is recommended that this be undertaken as soon as possible after the test is completed.
-It is important that any unexpected results arising from the test, which have not been rectified or are still outstanding issues, are document in the ITDR plan including any actions to rectify any defects or issues.</p>
-        </body>
-      </topic>
-    </topic>
-  </topic>
-  <topic id="itdr-incident-management">
-    <title>ITDR Incident management</title>
-    <body>
-      <p>The following table provides a generic set of incident management steps which should be followed when the ITDR plan is invoked. As the ITDR plan sits under an ITSIM plan, it is important to ensure that the steps encapsulated in the ITDR plan aligns to the ITSIM plan.</p>
-      <table>
-        <title>Information management steps</title>
-        <tgroup cols="3">
-          <colspec colname="col1" colnum="1" colwidth="1*"/>
-          <colspec colname="col2" colnum="2" colwidth="2*"/>
-          <colspec colname="col3" colnum="3" colwidth="4*"/>
-          <thead>
-            <row>
-              <entry colname="col1">Step</entry>
-              <entry colname="col2">Name</entry>
-              <entry colname="col3">Description</entry>
-            </row>
-          </thead>
-          <tbody>
-            <row>
-              <entry colname="col1">A</entry>
-              <entry colname="col2">Declaring a Disaster</entry>
-              <entry colname="col3">An incident is declared a 'disaster' which requires the ITDR plan to be invoked.</entry>
-            </row>
-            <row>
-              <entry colname="col1">B</entry>
-              <entry colname="col2">Invoking the ITDR plan</entry>
-              <entry colname="col3">The IT Disaster Recovery Team Lead identifies the critical resources required to manage the disaster, and puts forward a communications strategy to ensure that all personnel can co-ordinate actions appropriately.</entry>
-            </row>
-            <row>
-              <entry colname="col1">C</entry>
-              <entry colname="col2">Executing the DR Plan Procedures</entry>
-              <entry colname="col3">The scope and extent of the disaster is assessed and the ITDR plan is executed following the set of recovery procedures set out in the plan.</entry>
-            </row>
-            <row>
-              <entry colname="col1">D</entry>
-              <entry colname="col2">Status Updates</entry>
-              <entry colname="col3">During the recovery process, regular communication points are recommended as part of the ITDR plan to keep the business updated.</entry>
-            </row>
-            <row>
-              <entry colname="col1">E</entry>
-              <entry colname="col2">Incident Resolution</entry>
-              <entry colname="col3">Once the IT system is considered restored to a sufficient level, a final communication to indicate completion should be made to the business. At this point, it is the responsibility of Service Management to declare the system restored.</entry>
-            </row>
-            <row>
-              <entry colname="col1">F</entry>
-              <entry colname="col2">Review Results</entry>
-              <entry colname="col3">After the incident has been closed off the 'lessons learned' from the recovery procedure must be reviewed and addressed. In some cases defects in the procedure or plan may come to light.  The aim and objectives of the invocation and requirements must be analysed in light of the information gathered from conducting the execution of the plan. These results will establish if the aims and objectives were met and whether the response to the outage was sufficient.</entry>
-            </row>
-          </tbody>
-        </tgroup>
-      </table>
-    </body>
-  </topic>
-  <topic id="training-and-awareness">
-    <title>Training and awareness</title>
-    <topic id="introduction-1">
-      <title>Introduction</title>
-      <body>
-        <p>All staff should be subject to training in order to raise an awareness of the ITDR plan and their individual roles within it.</p>
-      </body>
-      <topic id="staff-training-requirements">
-        <title>Staff training requirements</title>
-        <body>
-          <p>The following table defines several categories of staff and outlines the recommended training and awareness requirements.</p>
-          <table>
-            <title>Staff training requirements</title>
-            <tgroup cols="2">
-              <colspec colname="col1" colnum="1" colwidth="2*"/>
-              <colspec colname="col2" colnum="2" colwidth="3*"/>
-              <tbody>
-                <row valign="top">
-                  <entry colname="col1">Category</entry>
-                  <entry colname="col2">Requirements</entry>
-                </row>
-                <row valign="top">
-                  <entry colname="col1">General staff awareness</entry>
-                  <entry colname="col2"><ul>
-                    <li>To know that an ITDR plan exists.</li>
-                  <li>To know how they will be impacted by the range of scenarios covered by the ITDR plan.</li>
-                <li>To know what to do in the event of an incident or invocation.</li>
-              </ul></entry>
-                </row>
-                <row valign="top">
-                  <entry colname="col1">ITDR Representatives</entry>
-                  <entry colname="col2">As for general staff, plus:<ul>
-                    <li>To know the responsibilities of a ITDR representative.</li>
-                  <li>To know how their departments will be impacted by the range of scenarios covered by the ITDR plan.</li>
-                <li>To ensure their business requirements are communicated and accommodated within the ITDR plan.</li></ul></entry>
-                </row>
-                <row valign="top">
-                  <entry colname="col1">Incident management team</entry>
-                  <entry colname="col2">As for general staff, plus:<ul>
-                    <li>To understand the requirements of the ITSIM and ITDR plans.</li>
-                    <li>To know their roles in the ITSIM and ITDR plans.</li></ul></entry>
-                </row>
-                <row valign="top">
-                  <entry colname="col1">ITDR recovery staff</entry>
-                  <entry colname="col2">As for general staff, plus:<ul>
-                    <li>To understand the IT recovery priorities, plans and processes.</li>
-                  <li>To know their roles in the recovery process.</li></ul></entry>
-                </row>
-              </tbody>
-            </tgroup>
-          </table>
-        </body>
-      </topic>
-    </topic>
-  </topic>
-  <topic id="it-disaster-recovery-plan-template">
-    <title>IT Disaster Recovery Plan - Template</title>
-    <body>
-      <table>
-        <tgroup cols="2">
-          <colspec colname="col1" colnum="1"/>
-          <colspec colname="col2" colnum="2"/>
-          <tbody>
-            <row>
-              <entry align="center" namest="col1" nameend="col2">IT Disaster Recovery Plan</entry>
-            </row>
-            <row>
-              <entry align="center" namest="col1" nameend="col2">Overview</entry>
-            </row>
-            <row>
-              <entry><ph conref="conrefs.dita#conrefs/moj"/> Business Group</entry>
-              <entry>[Enter the name of the <ph conref="conrefs.dita#conrefs/moj"/> Business Group.]</entry>
-            </row>
-            <row>
-              <entry>System Description and Scope</entry>
-              <entry>[This section must describe the scope of the ITDR plan. Diagrams may prove useful where there is a complex interaction between systems and business processes covered by this plan. Refer <xref format="dita" href="#it-system-description">here</xref> for further details]</entry>
-            </row>
-            <row>
-              <entry>Site List</entry>
-              <entry>[Refer <xref format="dita" href="#site-list">here</xref>]</entry>
-            </row>
-            <row>
-              <entry>Definition of a 'Disaster'</entry>
-              <entry>[Refer <xref format="dita" href="#definition-of-a-disaster">here</xref>]</entry>
-            </row>
-            <row>
-              <entry>Authorised to invoke the plan</entry>
-              <entry>[Refer <xref format="dita" href="#invocation">here</xref>]</entry>
-            </row>
-            <row>
-              <entry>Staff notification</entry>
-              <entry>[Include details of how staff and IT suppliers are notified that ITDR plan has been invoked,
-                refer <xref format="dita" href="#staff-notification">here</xref>]</entry>
-            </row>
-            <row>
-              <entry>Roles and responsibilities</entry>
-              <entry>[For each role outlined in the <xref format="dita" href="it-disaster-recovery-policy.dita">IT Security – IT Disaster Recovery Policy</xref>,
-              a named individual must be entered here.]</entry>
-            </row>
-            <row>
-              <entry align="center" namest="col1" nameend="col2">Dependencies</entry>
-            </row>
-            <row>
-              <entry>Internal Dependencies</entry>
-              <entry>[Include each dependency, recommend the following format:
-<ul><li>Dependency ID;</li><li>Description;</li><li>Impact (time, resource, effort).</li></ul>
-Refer <xref format="dita" href="#internal-dependencies">here</xref>]</entry>
-            </row>
-            <row>
-              <entry>External Dependencies</entry>
-              <entry>[Include each dependency, recommend the following format:
-<ul><li>Dependency ID;</li><li>Description;</li><li>Impact (time, resource, effort).</li></ul>
-Refer <xref format="dita" href="#external-dependencies">here</xref>]</entry>
-            </row>
-            <row>
-              <entry align="center" namest="col1" nameend="col2">Recovery Procedures</entry>
-            </row>
-            <row>
-              <entry>Primary Functions</entry>
-              <entry>[Include each primary function, recommend the following format:
-<ul><li>Function ID;</li><li>Function;</li><li>Description.</li></ul>
-Refer <xref format="dita" href="#primary-functions">here</xref>]</entry>
-            </row>
-            <row>
-              <entry>Secondary Functions</entry>
-              <entry>[Include each primary function, recommend the following format:
-<ul><li>Function ID;</li><li>Function;</li><li>Description.</li></ul>
-Refer <xref format="dita" href="#secondary-functions">here</xref>]</entry>
-            </row>
-            <row>
-              <entry>Step [X]</entry>
-              <entry>[For each step outlined in <xref format="dita" href="#itdr-incident-management">ITDR Incident Management</xref>,
-              list the corresponding recovery procedures in this section;
-              refer to the <xref format="dita" href="#recovery-procedures">Recovery procedures</xref> for further details.]</entry>
-            </row>
-            <row>
-              <entry align="center" namest="col1" nameend="col2">Recovery Actions and Review</entry>
-            </row>
-            <row>
-              <entry>Recovery Actions</entry>
-              <entry>[Refer <xref format="dita" href="#recovery-actions">here</xref>]</entry>
-            </row>
-            <row>
-              <entry>Review</entry>
-              <entry>[Refer <xref format="dita" href="#review">here</xref>]</entry>
-            </row>
-            <row>
-              <entry align="center" namest="col1" nameend="col2">Plan Approval</entry>
-            </row>
-            <row>
-              <entry>Business Group SIRO</entry>
-              <entry>[Enter the name of the Business Group SIRO] [DATE OF APPROVAL]</entry>
-            </row>
-            <row>
-              <entry>IT Security Officer</entry>
-              <entry>[Enter the name of the IT Security Officer (ITSO)] [DATE OF APPROVAL]</entry>
-            </row>
-          </tbody>
-        </tgroup>
-      </table>
-      <p>Completing this plan can form part of the Accreditation process and must be included and maintained as part of the relevant RMADS.</p>
-    </body>
-  </topic>
-  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
-  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
-</topic>

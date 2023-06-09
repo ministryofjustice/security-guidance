@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="it-security-incident-response-plan-and-process-guide">
+  <title>IT Security Incident Response Plan and Process Guide</title>
+ 
+    <topic id="how-to-use-this-guide">
+      <title>How to use this guide</title>
+      <body>
+      <p> This guide is for all users and is part of a set of <ph conref="conrefs.dita#conrefs/mojlong"/> policies and supporting guides that cover various aspects of incident and disaster management and response.</p>
+      <p>The policies are:</p>
+      <ul>
+      <li><xref href="it-security-incident-management-policy.dita" format="dita">IT Security Incident Management Policy</xref></li>
+      <li>IT Disaster Recovery Policy</li>
+      <li><xref href="it-investigations-planning-and-operations-policy.dita" format="dita">IT Investigations - Planning and Operations Policy</xref></li>
+      </ul>
+      <p> The supporting guides are:</p>
+      <ul>
+      <li>IT Incident Response Plan and Process Guide</li>
+      <li><xref href="it-disaster-recovery-plan-and-process-guide.dita" format="dita">IT Disaster Recovery Plan and Process Guide</xref></li>
+      </ul>
+      
+      <p>This guide gives information to help create and develop an IT Incident Response Plan for your <ph conref="conrefs.dita#conrefs/moj"/> IT system or service.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/ncsclong"/> also offers guidance on how to <xref href="https://www.ncsc.gov.uk/collection/incident-management" format="html" scope="external">effectively detect, respond to and resolve cyber incidents.</xref></p>
+      </body>
+      </topic>
+      
+<topic id="suggested-content">
+<title>Suggested content</title>
+<body>
+<p>Incident response plans are specific to each individual IT system or service.</p>
+<p>When deciding what should go into an Incident Response Plan for an <ph conref="conrefs.dita#conrefs/moj"/> IT system or service, a useful start is to identify every potential incident that might affect the system or service, and list the ways to resolve each one.</p>
+ <p>Each Incident Response Plan <ph conref="conrefs.dita#conrefs/policyshould"/> include:</p>
+ <ul>
+ <li>a list of key roles together with a description of their responsibilities - each role <ph conref="conrefs.dita#conrefs/policyshould"/> have at least two sets of contact details</li>
+ <li>a list of internal and external stakeholders to be contacted as soon as the incident happens, each stakeholder <ph conref="conrefs.dita#conrefs/policyshould"/> have at least two sets of contact details</li>
+ <li>a communication list of everyone who needs to be contacted, together with the chains of communication that <ph conref="conrefs.dita#conrefs/policymust"/> be followed</li>
+ <li>a list of people who can undertake the role of incident manager</li>
+ <li>a series of steps to follow in order to mitigate the incident</li>
+ <li>a method to identify the need for forensic investigation, and the role responsible for invoking it</li>
+ <li>clear instructions on how to escalate to a higher level of incident response, to include names and contact details and the reason for escalating the incident</li>
+ <li>a detailed process to recover the system to business as usual (BAU)</li>
+ <li>a process to identify and capture lessons learned from the incident</li>
+ <li>the requirement for a written report for medium and high impact incidents</li>
+ </ul>
+ <p>All plans <ph conref="conrefs.dita#conrefs/policyshould"/> be stored securely both online and offline. Roles and stakeholders mentioned in the plan <ph conref="conrefs.dita#conrefs/policyshould"/> know of its location and be able to access it.</p>
+ <p>Incident response plans are intended to be flexible guides to help every role listed to respond to an incident.</p>
+</body>
+</topic>
+<topic id="reviewing-and-testing">
+<title>Reviewing and testing</title>
+<body>
+<p>Incident Response Plans <ph conref="conrefs.dita#conrefs/policymust"/> be reviewed regularly, and updated if there have been any changes to systems or services, personnel, or communication chains.</p>
+<p>Plans <ph conref="conrefs.dita#conrefs/policymust"/> be tested and practiced regularly to help familiarise each of the roles with the response process.</p>
+<p>This is not an exhaustive list. If you would like support in creating a plan, please contact the Service Operations Centre (SOC) and the Major Incident Team.</p>
+</body>
+</topic>
+<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+<topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+</topic>

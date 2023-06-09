@@ -43,13 +43,13 @@ Compromised email systems are often used to send spam messages and conduct phish
 
 Report any account takeovers or email compromise [as an incident](reporting-an-incident.md).
 
-Following a report, incident managers should refer to the [Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md) for further guidance.
+Following a report, incident managers should refer to the [IT Security Incident Response Plan and Process Guide](it-security-incident-response-plan-and-process-guide.md) for further guidance.
 
 ## Accidental disclosure
 
 Not all security threats are intentional. Authorised users might accidentally send proprietary information to unintended recipients using email. Report these [as an incident](reporting-an-incident.md).
 
-Following a report, incident managers should refer to the [Incident Management Plan and Process Guide](incident-management-plan-and-process-guide.md) for further guidance.
+Following a report, incident managers should refer to the [IT Security Incident Response Plan and Process Guide](it-security-incident-response-plan-and-process-guide.md) for further guidance.
 
 ## Man-in-the-Middle attacks
 
@@ -107,7 +107,7 @@ The [Email Authentication Guide](email-authentication-guide.md) provides further
 
 ## Reporting spam or malicious emails
 
-If you think your email service provision has been susceptible to spam or a virus, report it immediately to the IT Service Desk on 0800 917 5148 as an IT security incident. Please refer to the [IT Incident Management Policy](it-incident-management-policy.md) for further guidance.
+If you think your email service provision has been susceptible to spam or a virus, report it immediately to the IT Service Desk on 0800 917 5148 as an IT security incident. Please refer to the [IT Security Incident Management Policy](it-security-incident-management-policy.md) for further guidance.
 
 ## Incidents
 

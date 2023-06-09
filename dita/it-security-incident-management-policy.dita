@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="it-incident-management-policy">
+  <title>IT Security Incident Management Policy</title>
+   <topic id="how-to-use-this-policy">
+      <title>How to use this policy</title>
+      <body>
+      <p> This policy is for all users and is part of a set of <ph conref="conrefs.dita#conrefs/mojlong"/> policies and supporting guides that cover various aspects of incident and disaster management and response.</p>
+      <p>The policies are:</p>
+      <ul>
+      <li>IT Security Incident Management Policy</li>
+      <li><xref href="it-disaster-recovery-policy.dita" format="dita">IT Disaster Recovery Policy</xref></li>
+      <li><xref href="it-investigations-planning-and-operations-policy.dita" format="dita">IT Investigations - Planning and Operations Policy</xref></li>
+      </ul>
+      <p>The supporting guides are:</p>
+      <ul>
+      <li><xref href="it-security-incident-response-plan-and-process-guide.dita" format="dita">IT Incident Response Plan and Process Guide</xref></li>
+      <li><xref href="it-disaster-recovery-plan-and-process-guide.dita" format="dita">IT Disaster Recovery Plan and Process Guide</xref></li>
+      </ul>
+      <p>This policy describes what is needed to manage an IT Security Incident.</p>
+      <p>Information is listed beneath the following headings:</p>
+      <ul>
+      <li><xref href="#policy-statements" format="dita">Policy statements</xref></li>
+      <li><xref href="#what-is-it-security-management" format="dita">What is IT Security Management?</xref></li>
+      <li><xref href="#definition-of-an-it-security-incident" format="dita">Definition of an IT Security incident</xref></li>
+      <li><xref href="#types-of-incidents" format="dita">Types of incidents</xref></li>
+      <li><xref href="#incident-detection-and-reporting" format="dita">Incident detection and reporting</xref></li>
+      <li><xref href="#incident-categories" format="dita">Incident categories</xref></li>
+      <li><xref href="#escalations" format="dita">Escalations</xref></li>
+      <li><xref href="#incident-management-stakeholders" format="dita">Incident management stakeholders</xref></li>
+      <li><xref href="#investigations" format="dita">Investigations</xref></li>
+      <li><xref href="#system-recovery" format="dita">System recovery</xref></li>
+      <li><xref href="#lessons-learned" format="dita">Lessons learned</xref></li>
+      </ul>
+      </body>
+      <topic id="moj-security-team">
+
+    <title><ph conref="conrefs.dita#conrefs/moj"/> Security Team</title>
+    <body>
+    <p>In this policy, '<ph conref="conrefs.dita#conrefs/moj"/> Security Team' refers to all the security teams within the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+    <p>The <ph conref="conrefs.dita#conrefs/moj"/> Security Team are responsible for:</p>
+    <ul>
+    <li>incident ownership, monitoring, tracking and communication</li>
+    <li>sanctioning enhanced monitoring where appropriate</li>
+    <li>updating the incident management database</li>
+    <li>analysing security incidents as required</li>
+    <li>initiating a forensic investigation<ph audience="audience-suppliers audience-tech"> (in accordance with the <xref href="it-investigations-planning-and-operations-policy.dita" format="dita">IT Investigations - Planning and Operations Policy</xref>)</ph></li>
+    <li>providing progress reports to relevant parties</li>
+    </ul>
+    <p>To contact the <ph conref="conrefs.dita#conrefs/moj"/> Security Team, send an email to <ph conref="conrefs.dita#conrefs/securityemail"/>.</p>
+
+
+      </body>
+      </topic>
+      </topic>
+      
+      <topic id="policy-statements">
+      <title>Policy statements</title>
+      <body>
+      <p>This policy refers to the Policy Statements, POL.IMP.001 to POL.IMP.014.</p>
+      <p><b>POL.IMP.XXX</b> indicates the specific policy statement to be adhered to.</p>
+      </body>
+      </topic>
+
+      <topic id="what-is-it-security-management">
+      <title>What is IT security management?</title>
+      <body>
+      <p>IT Security Incident management is the ability to react to <ph conref="conrefs.dita#conrefs/moj"/> IT security incidents in a controlled, pre-planned manner.</p>
+      <p>Preparation and planning are key factors to successful information security management. This policy sets out good practice for dealing with IT security incidents.</p>
+      </body>
+      </topic>
+
+      <topic id="definition-of-an-it-security-incident">
+      <title>Definition of an IT Security Incident</title>
+      <body>
+      <p>A security incident is defined by the National Cyber Security Centre (NCSC) as:</p>
+      <ul>
+      <li>a breach of an IT system's security policy in order to affect its integrity or availability</li>
+      <li>the unauthorised access or attempted access to an IT system</li>
+      </ul>
+      <p>An IT incident may result in sensitive information being exposed, which might compromise <ph conref="conrefs.dita#conrefs/moj"/> business delivery or the Data Protection Act.</p>
+      <p>An incident might also cause harm or damage to individuals or organisations and result in operational disruption or reputational damage to the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+      <p>All <ph conref="conrefs.dita#conrefs/moj"/> staff <ph conref="conrefs.dita#conrefs/policymust"/> be aware of the definition of a security incident and how to report it.</p>
+      </body>
+      </topic>
+
+      <topic id="incident-response">
+      <title>Incident Response</title>
+      <body>
+      <p>An incident response is the action taken when a security incident is detected or reported.</p>
+      <p>Responding to an incident requires informed decisions, taken as part of a consistent approach that is designed to reduce the consequences of the incident.</p>
+      <p>The process to respond to an incident <ph conref="conrefs.dita#conrefs/policyshould"/> be described in detail in an Incident Response Plan.</p>
+    <dl>
+    <dlentry>
+    <dt><b>POL.IMP.001</b></dt>
+    <dd>Each <ph conref="conrefs.dita#conrefs/moj"/> IT system and service <ph conref="conrefs.dita#conrefs/policymust"/> have an IT Security Incident Response Plan.</dd>
+    </dlentry>
+    </dl>
+    <p>The <xref href="it-security-incident-response-plan-and-process-guide.dita" format="dita">IT Incident Response Plan and Process Guide</xref> has information on what to include in a Response Plan.</p>
+    </body>
+    </topic>
+
+    <topic id="types-of-incidents">
+    <title>Types of Incidents</title>
+    <body>
+    <p>Types of IT Security related incidents include:</p>
+    <ul>
+    <li>breaches of the <xref href="acceptable-use.dita" format="dita">IT Security Acceptable Use Policy</xref></li>
+    <li>detection of malicious code such as viruses and malware</li>
+    <li>network attacks or Denial of Service (DOS) attacks</li>
+    <li>scanning and probing of a network, which might consume significant network resources</li>
+    <li>the discovery of a new network vulnerability</li>
+    <li>release of a patch or software update which is considered critical or an emergency</li>
+    <li>a penetration test on a live operational IT system that reveals critical vulnerabilities</li>
+    <li>unauthorised access to an <ph conref="conrefs.dita#conrefs/moj"/> IT system</li>
+    <li>personal data incident due to accidental or deliberate loss or release of personal information</li>
+    <li>any alert or activity report generated by an <ph conref="conrefs.dita#conrefs/moj"/> IT system that proves to be a real security alert</li>
+    </ul>
+    </body>
+    </topic>
+
+    <topic id="incident-detection-and-reporting">
+    <title>Incident Detection and Reporting</title>
+    <body>
+    <p>Security incidents may be discovered by:</p>
+    <ul>
+    <li>protective monitoring solutions</li>
+    <li>incident reports by <ph conref="conrefs.dita#conrefs/moj"/> staff</li>
+    <li>third-party reports to the <ph conref="conrefs.dita#conrefs/moj"/></li>
+    <li>breaches of <ph conref="conrefs.dita#conrefs/moj"/> IT Security Policy detected by an IT system</li>
+    <li>data surrounding IT security incidents or suspected IT security incidents can be captured and monitored for suspected malicious activity or breaches of security</li>
+    </ul>
+    <dl>
+    <dlentry>
+    <dt><b>POL.IMP.002</b></dt>
+    <dd>All <ph conref="conrefs.dita#conrefs/moj"/> IT Security incidents or suspected incidents <ph conref="conrefs.dita#conrefs/policymust"/> be reported to the IT Service Desk as soon as they are identified.</dd>
+    </dlentry>
+    <dlentry>
+    <dt><b>POL.IMP.003</b></dt>
+    <dd>All <ph conref="conrefs.dita#conrefs/moj"/> IT Security incidents involving personal data <ph conref="conrefs.dita#conrefs/policymust"/> be reported to the <ph conref="conrefs.dita#conrefs/moj"/> Data Protection Team.</dd> 
+    </dlentry>
+    </dl>
+
+    <p>The <ph conref="conrefs.dita#conrefs/moj"/> Security Team is responsible for maintaining a database of IT Security incidents across <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</p>
+    <p>This database contains:</p>
+    <ul>
+    <li>security incident reports</li>
+    <li>the status of all reported security incidents and any actions taken to mitigate them</li>
+    </ul>
+
+    <p><xref href="reporting-an-incident.dita" format="dita">Further guidance on how to report a security incident.</xref></p>
+    </body>
+    </topic>
+
+    <topic id="incident-categories">
+    <title>Incident Categories</title>
+    <body>
+    <p>Security incidents are categorised to assess their impact and required level of escalation.</p>
+    <p>The three categories are:</p>
+    <ul>
+    <li>Low impact</li>
+    <li>Medium impact</li>
+    <li>High impact</li>
+    </ul>
+    <dl>
+    <dlentry>
+    <dt><b>POL.IMP.004</b></dt>
+    <dd>All IT Security incidents <ph conref="conrefs.dita#conrefs/policymust"/> be categorised by the incident response team.</dd>
+    </dlentry>
+    </dl>
+    <p>An IT incident may need to be recategorised if there are changes to the nature and impact of the incident.</p>
+    </body>
+    <topic id="low-impact-incident">
+    <title>Low impact incident</title>
+    <body>
+    <p>Low impact incidents are typically minor events such as a low-level breach in IT Security or a short-term loss of an IT service.</p>
+    </body>
+    </topic>
+
+    <topic id="medium-impact-incident">
+    <title>Medium impact incident</title>
+    <body>
+    <p>Medium impact incident are typically caused by:</p>
+    <ul>
+    <li>disregard for the <ph conref="conrefs.dita#conrefs/moj"/> IT Security Policy leading to a minor breach in security or the potential of data loss</li>
+    <li>inappropriate use of <ph conref="conrefs.dita#conrefs/moj"/> IT assets</li>
+    <li>theft or loss of data from an IT system that does not contain any personal information and is not protectively marked</li>
+    <li>damage to an <ph conref="conrefs.dita#conrefs/moj"/> IT asset that impacts its usability</li>
+    <li>connecting unauthorised equipment to an <ph conref="conrefs.dita#conrefs/moj"/> IT system</li>
+    <li>prolonged or permanent failure of an <ph conref="conrefs.dita#conrefs/moj"/> IT system</li>
+    <li>prolonged set of unsuccessful attempts to scan an IT network or instigate a denial of service attack</li>
+    <li>a new critical security vulnerability in an IT system</li>
+    <li>localised report of malicious code such as a virus on a terminal</li>
+    </ul>
+    </body>
+    </topic>
+
+    <topic id="high-impact-incident">
+    <title>High impact incident</title>
+    <body>
+    <p>High impact incidents require immediate escalation to the relevant Senior Information Risk Owner (SIRO), the <ph conref="conrefs.dita#conrefs/moj"/> Security Team, and the Data Protection Team if personal data is involved.</p>
+    <p>High impact incidents may require forensic investigation.<ph audience="audience-suppliers audience-tech"> There is more information on this in the <xref href="it-investigations-planning-and-operations-policy.dita" format="dita">IT Investigations - Planning and Operations Policy</xref>.</ph></p>
+    <p>High impact incidents are typically caused by:</p>
+    <ul>
+    <li>malicious activity or espionage</li>
+    <li>an incident that attracts media coverage</li>
+    <li>intrusion into an IT network</li>
+    <li>widespread malicious code attacks</li>
+    <li>the theft or loss of personal or protectively marked data from an IT system</li>
+    </ul>
+    </body>
+    </topic>
+    </topic>
+
+    <topic id="escalations">
+    <title>Escalations</title>
+    <body>
+    <p>If an incident needs to be escalated, it <ph conref="conrefs.dita#conrefs/policymust"/> follow the chain of command through the incident response command structure.</p>
+    <p>The exact chain of escalation <ph conref="conrefs.dita#conrefs/policyshould"/> be outlined in the IT system's Incident Response Plan.</p>
+    <p>A typical command chain might be from the incident manager to the Major Incident Management team, to the relevant SIRO to Departmental Security Officer (DSO) to Ministerial response.</p>
+    <p>Reasons for escalation might include:</p>
+    <ul>
+    <li>issues of national security</li>
+    <li>if the incident is receiving media coverage</li>
+    <li>if the incident has caused harm to a member of staff or public</li>
+    <li>the <ph conref="conrefs.dita#conrefs/moj"/> has suffered reputational damage</li>
+    <li>a requirement to report to another Department or central management function</li>
+    <li>significant actual or potential loss of personal information where the Information Commissioner’s Office and Cabinet Office need to be informed</li>
+    </ul>
+    <dl>
+    <dlentry>
+    <dt><b>POL.IMP.005</b></dt>
+    <dd>Each IT Security Incident Response Plan <ph conref="conrefs.dita#conrefs/policymust"/> include a pre-arranged escalation path, where each stakeholder is named and is aware of their role. Contact the Major Incident Management team if you need help creating documented escalation paths.</dd>
+    </dlentry>
+    </dl>
+    </body>
+    </topic>
+
+    <topic id="incident-management-stakeholders">
+    <title>Incident Management Stakeholders</title>
+    <body>
+    <p>There are likely to be both internal and external stakeholders involved in incident management and response.</p>
+    <p>These will vary depending on the specific IT system or service.</p>
+    <dl>
+    <dlentry>
+    <dt><b>POL.IMP.006</b></dt>
+    <dd>All <ph conref="conrefs.dita#conrefs/moj"/> staff <ph conref="conrefs.dita#conrefs/policymust"/> report any actual or suspected incidents, including breaches of <ph conref="conrefs.dita#conrefs/moj"/> Security Policy, to their line manager and to the IT Service Desk.</dd>
+    </dlentry>
+    <dlentry>
+    <dt><b>POL.IMP.007</b></dt>
+    <dd>As part of operational readiness, Each SIRO <ph conref="conrefs.dita#conrefs/policymust"/> ensure that each IT system or service under their remit has an <xref href="it-security-incident-response-plan-and-process-guide.dita" format="dita">IT Security Incident Response Plan</xref>. A guide for writing a plan is available in the <xref href="it-security-incident-response-plan-and-process-guide.dita" format="dita">IT Security Response Plan and Process Guide</xref>.</dd>
+    </dlentry>
+    <dlentry>
+    <dt><b>POL.IMP.008</b></dt>
+    <dd>All High impact IT Security incidents and any IT Security incident involving personal data <ph conref="conrefs.dita#conrefs/policymust"/> be reported to the SIRO for your business area.</dd>
+    </dlentry>
+    <dlentry>
+    <dt><b>POL.IMP.009</b></dt>
+    <dd>All IT Security incidents involving the suspected or actual loss, theft, or compromise of an Information Asset <ph conref="conrefs.dita#conrefs/policymust"/> be reported to the Information Asset Owner (IAO).</dd>
+    </dlentry>
+    </dl>
+
+    <dl>
+    <dlentry>
+    <dt><b>POL.IMP.010</b></dt>
+    <dd>If the IT Service Desk receives a report of a security incident, this <ph conref="conrefs.dita#conrefs/policymust"/> be reported to the <ph conref="conrefs.dita#conrefs/moj"/> Security Team.</dd>
+
+    </dlentry>
+    </dl>
+    </body>
+    </topic>
+
+    <topic id="investigations">
+    <title>Investigations</title>
+    <body>
+    <p>The <ph conref="conrefs.dita#conrefs/moj"/> Security Team is responsible for the investigation of all <ph conref="conrefs.dita#conrefs/moj"/> IT Security incidents.</p>
+    <p>If legal or disciplinary proceedings require evidence to be gathered, a forensic investigation may be needed.<ph  audience="audience-suppliers audience-tech"> The <xref href="it-investigations-planning-and-operations-policy.dita" format="dita">IT Investigations - Planning and Operations Policy</xref> gives more information.</ph></p>
+    <dl>
+    <dlentry>
+    <dt><b>POL.IMP.011</b></dt>
+    <dd>The <ph conref="conrefs.dita#conrefs/moj"/> Security Team <ph conref="conrefs.dita#conrefs/policymust"/> maintain documentation on investigations undertaken.</dd>
+    </dlentry>
+    <dlentry>
+    <dt><b>POL.IMP.012</b></dt>
+    <dd>Any investigation of an IT Security incident and the events surrounding it <ph conref="conrefs.dita#conrefs/policymust"/> be reported to all relevant stakeholders.</dd>
+    </dlentry>
+    </dl>
+    </body>
+    </topic>
+
+    <topic id="system-recovery">
+    <title>System Recovery</title>
+    <body>
+    <p>Following an IT Security incident, the IT system, services or any compromised assets <ph conref="conrefs.dita#conrefs/policymust"/> be restored to business as usual (BAU).</p>
+    <p>If <ph conref="conrefs.dita#conrefs/moj"/> IT systems or services are restored using backups, the systems or services being restored <ph conref="conrefs.dita#conrefs/policymust"/> pre-date the incident and <ph conref="conrefs.dita#conrefs/policymustnot"/> contain any weaknesses that could be exploited further.</p>
+    <dl>
+    <dlentry>
+    <dt><b>POL.IMP.013</b></dt>
+    <dd>The IT Security Incident Response Plan <ph conref="conrefs.dita#conrefs/policymust"/> show how an <ph conref="conrefs.dita#conrefs/moj"/> IT System or service will be restored or recovered following an IT Security incident. The method used to restore or recover an <ph conref="conrefs.dita#conrefs/moj"/> IT System <ph conref="conrefs.dita#conrefs/policymust"/> be captured in the system's disaster recovery plan.</dd>
+    </dlentry>
+    </dl>
+    <p audience="audience-suppliers audience-tech">The <xref href="it-disaster-recovery-plan-and-process-guide.dita" format="dita"> IT Disaster Recovery Plan and Process Guide</xref> has more information.</p>
+    </body>
+    </topic>
+
+    <topic id="lessons-learned">
+    <title>Lessons Learned</title>
+    <body>
+    <p>Once the cause of an IT Security incident has been identified steps <ph conref="conrefs.dita#conrefs/policymust"/> be taken to make sure it will not happen again.</p>
+    <p>A report <ph conref="conrefs.dita#conrefs/policymust"/> be prepared that describes:</p>
+    <ul>
+    <li>the incident</li>
+    <li>the investigation</li>
+    <li>the actions taken to restore the IT system or service to BAU</li>
+    <li>all lessons learned</li>
+    </ul>
+    <p>Lessons learned <ph conref="conrefs.dita#conrefs/policyshould"/> include action points on how to improve the business systems to reduce the likelihood of the incident re-occurring.</p>
+    <p>This report <ph conref="conrefs.dita#conrefs/policyshould"/> be sent to the SIRO who is responsible for forwarding it to all relevant stakeholders.</p>
+ 
+<dl>
+    <dlentry>
+    <dt><b>POL.IMP.014</b></dt>
+    <dd>For each Medium and High impact IT Security incident, a report <ph conref="conrefs.dita#conrefs/policymust"/> be prepared, to include:
+<ul>
+<li>a description of the incident</li>
+<li>a description of the incident investigation and its outcome</li>
+<li>mitigations and actions taken to resolve the incident</li>
+<li>any lessons learned and recommendations made</li>
+</ul>
+</dd>
+</dlentry>
+</dl>
+</body>
+</topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+  </topic>

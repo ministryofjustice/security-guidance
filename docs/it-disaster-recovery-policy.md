@@ -1,186 +1,210 @@
 # IT Disaster Recovery Policy
 
-## Legacy information
+## How to use this policy
 
-**Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
+This policy is for technical users. Technical users include:
 
-**Note:** This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
+-   Technical architects
+-   DevOps specialists
+-   IT service managers
+-   Software developers
 
--   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   **Confidential**, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS2 \(HMG Infosec Standard 2 Information Risk Management\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   ITSO \(Information Technology Security Officer\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   **Restricted**, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
+This policy is part of a set of Ministry of Justice \(MoJ\) policies and supporting guides that cover various aspects of incident and disaster management and response.
 
-## Introduction
+The policies are:
 
-IT disaster recovery is a crucial element of the Ministry of Justice \(MoJ\) overall business continuity plans.
+-   [IT Security Incident Management Policy](it-security-incident-management-policy.md)
+-   IT Disaster Recovery Policy
+-   [IT Investigations - Planning and Operations Policy](it-investigations-planning-and-operations-policy.md)
 
-### Definition of a disaster event
+The supporting guides are:
 
-An IT 'disaster' event is defined \(for the purposes of this policy\) as any incident which results in an actual or potential loss of availability or integrity of an IT system or a business process supported by an IT system. That event would result in a system being unable to operate in an acceptable manner to the business.
+-   [IT Security Incident Response Plan and Process Guide](it-security-incident-response-plan-and-process-guide.md)
+-   [IT Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md)
 
-**POL.ITDR.001:**
+This policy describes what is needed to recover from an IT Disaster Event.
 
-Each IT system or IT domain **must have** \(or be explicitly covered by\) an IT Disaster Recovery Plan which implements this policy.
+Information is listed beneath the following headings:
 
-A template Disaster Recovery Plan is available in the [IT Security - IT Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md).
+-   [Policy Statements](#policy-statements)
+-   [What is an IT disaster event?](#what-is-an-it-disaster-event)
+-   [What is IT disaster recovery?](#what-is-it-disaster-recovery)
+-   [IT Disaster Recovery Plan](#it-disaster-recovery-plan)
+-   [Roles and responsibilities](#roles-and-responsibilities)
+-   [Planning](#planning)
+-   [Business Impact Assessment](#business-impact-assessment)
+-   [Testing and readiness review](#testing-and-readiness-review)
+-   [Reporting and alerting](#reporting-and-alerting)
+-   [Recovery and review](#recovery-and-review)
 
-**Note:** In general, where an IT system \(or IT domain\) has an IT Security Incident Management Plan, there should be a corresponding IT Disaster Recovery Plan.
+## Policy Statements
 
-## Roles and responsibilities
+This policy refers to Policy Statements, POL.ITDR.001 to POL.ITDR.014.
 
-An effective IT Disaster Recovery Plan requires the clear allocation of responsibility. Defining the roles and responsibilities of those involved with IT disaster recovery is also an important part of the overall recovery effort.
+**POL.ITDR.XXX** indicates the specific policy statement to be adhered to.
 
-**Note** - The roles outlines in this policy are aligned with and support the [IT Security – Incident Management Policy](it-incident-management-policy.md).
+## What is an IT disaster event?
 
-**POL.ITDR.002:**
+An IT disaster event is any incident that causes actual or potential loss of availability or integrity of an MoJ IT system, which results in the MoJ IT system being unable to function during business as usual \(BAU\) operations.
 
-Each IT Disaster Recovery Plan **must outline** how the roles and responsibilities in this policy are fulfilled. This includes recording named individuals \(and associated contact details\) for each role.
+## What is IT disaster recovery?
 
-**POL.ITDR.003:**
+IT disaster recovery is the planned response to a disaster event which will restore an IT system to BAU operations.
 
-All staff **must be** made aware of the relevant IT Disaster Recovery Plan/s and where applicable, their role within it.
+## IT Disaster Recovery Plan
 
-**Note:** Further guidance on training and awareness can be found in [IT Security – Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md).
+An IT Disaster Recovery Plan lists the actions to be taken to recover an IT system from a disaster event, together with a list of key roles and their responsibilities.
 
-### Senior Information Risk Owner \(SIRO\)
+<a name="__pol.itdr.001__"></a>
 
-A SIRO acts as an advocate for managing risk for Business Continuity and IT Disaster recovery.
+-   **__POL.ITDR.001__**
 
-### Departmental Security Officer \(DSO\)
-
-The Departmental Security Officer is responsible to the Permanent Secretary for:
-
--   Assurance of the management and completion of the Department's Business Continuity Plans.
-
--   The MoJ's assessment of the National Threat Assessment in the context of business continuity planning.
-
--   Setting direction for the MoJ's approach to Business Continuity and agreeing the maintenance and creation of plans across the business.
-
--   The DSO has a MoJ wide view of Business Continuity Plans and is able to report on the maturity of these plans. This IT Disaster Recovery Policy supports these Business Continuity Plans.
+    Each MoJ IT system **shall** have an IT Disaster Recovery Plan.
 
 
-### Information Asset Owner \(IAO\)
+The [IT Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md) describes the information to include in a Disaster Recovery Plan.
 
-The IAO's role in IT Disaster Recovery Planning is to understand the risks to the availability of their information assets in the event of a disaster and to ensure that they understand and can execute the relevant IT Disaster Recovery Plan.
+## Roles and Responsibilities
 
-### Business Continuity Team Leader \(BCTL\)
+<a name="__pol.itdr.002__"></a>
 
-The Business Continuity Team Leader is appointed to monitor and manage the MoJ's Business Continuity Plans.
+-   **__POL.ITDR.002__**
 
-### IT Disaster Recovery Team Leader \(ITDRTL\)
+    All Disaster Recovery Plans **shall** contain an up to date list of roles and responsibilities.
 
-The ITDRTL is responsible for the MoJ's IT Disaster Recovery Plans. This role works with the Business Continuity Team Leader to ensure that MoJ IT systems support MoJ's critical business processes.
+    Each role **shall** have a name, with at least two sets of contact details.
 
-The IT Disaster Recovery team leader is responsible for:
+<a name="__pol.itdr.003__"></a>
 
--   Identifying where the IT Disaster Recovery Plan will need to be updated in line with changes to the MoJ Business Continuity Plan;
+-   **__POL.ITDR.003__**
 
--   Administering IT disaster recovery testing in accordance with agreed schedules;
+    All staff who are listed in a Disaster Recovery Plan **shall** be aware of their role and its responsibilities.
 
--   Providing regular reports of the IT disaster recovery status of the MoJ;
+    The list of roles and responsibilities **should** include internal and external stakeholders, together with everyone listed on the communications list.
 
--   Coordinating regular reviews and updates of IT Disaster Recovery Plans.
+    The list of roles and responsibilities **shall** align with the Incident Management Plan \(IMP\).
 
 
-### IT Security Officer \(ITSO\)
+A variety of individuals and teams may be responsible for business and IT service continuity, and escalation in case of a disaster. These may include:
 
-This role is responsible for identifying and managing Corporate-level IT disaster recovery risks, and maintaining the Corporate IT disaster recovery risk register.
+-   Executive Committee
+-   Senior Information Risk Owner \(SIRO\)
+-   Departmental Security Officer \(DSO\)
+-   Information Asset Owner \(IAO\)
+-   Service Operations \(SO\), which includes the Major Incident Management Team and the Security Operations Centre \(SOC\)
+-   IT Service Continuity Management
 
-### System Accreditor
-
-The role of an Accreditor is to act as an impartial assessor of the risks to information systems. Their function is to assure that systems are sufficiently secure to be placed into operational service. They accredit systems on behalf of the SIRO. There is also a role for Head of Accreditation who lead the accreditation team, and may accept the risk on their team's behalf.
+A Disaster Recovery plan **should** include the relevant escalation process through the teams and individuals listed for each MoJ IT system.
 
 ## Planning
 
-The planning and generation of an IT Disaster Recovery Plan as described in the IT Disaster Recovery Guide support decisions and subsequent courses of action that reduce the consequences of any disaster event.
+An IT Disaster Recovery Plan supports the decisions and steps taken to reduce the effects of disasters and identifies the steps needed to recover MoJ IT systems back to BAU.
 
-It is suggested that a Business Impact Assessment \(BIA\) is undertaken in order to identify the disaster recovery requirements of all the assets or business processes supported by a particular IT system:
+An IT Disaster Recovery Plan **shall**:
 
-In particular the BIA should contain:
+-   contain identified risk scenarios and strategies to recover from them
+-   describe the circumstances in which the plan is invoked.
 
-**Recovery Time Objective \(RTO\)** – The time in which the business requires IT services to be restored. I.e. The time between a disaster event occurring and full IT system services being restored.
+## Business Impact Assessment
 
-**Recovery Point Objective \(RPO\)** – The point in time in which an IT system's data asset/s can be rolled back to where the business can tolerate that period of data loss. I.e. How much historic data in the live IT system can the business tolerate losing in a disaster event.
+A Business Impact Assessment \(BIA\) **shall** be undertaken to identify the key disaster recovery requirements of the assets, services, and business processes supported by a specific MoJ IT system.
 
-**POL.ITDR.004:**
+The BIA **should** contain:
 
-The IT Disaster Recovery Plan for an IT system or IT domain **must be** based on a Business Impact Assessment \(BIA\), Recovery Time Objective \(RTO\) and Recovery Point Objective \(RPO\).
+-   a Recovery Time Objective \(RTO\): the time between a disaster event occurring and full IT systems and services being restored
+-   a Recovery Point Objective \(RPO\): the period of time during which the business can tolerate data loss
 
-**POL.ITDR.005:**
+<a name="__pol.itdr.004__"></a>
 
-Any disaster recovery measure outlined in an IT Disaster Recovery Plan **must ensure** the IT system \(or IT domain\) can recover from a disaster event within the stated Recovery Time Objective \(RTO\) as recorded in a BIA.
+-   **__POL.ITDR.004__**
 
-**POL.ITDR.006:**
+    A Disaster Recovery Plan **shall** contain an RTO and RPO. The plan may contain more than one of these depending on the system.
 
-Any disaster recovery measure outlined in an IT Disaster Recovery Plan **must ensure** the IT system \(or IT domain\) can recover from a disaster event within the stated Recovery Point Objective \(RPO\) as recorded in a BIA.
+<a name="__pol.itdr.005__"></a>
 
-## Testing and readiness review
+-   **__POL.ITDR.005__**
 
-An IT system \(or IT domain\) IT Disaster Recovery Plan needs to be tested regularly to ensure the plan is remains fit for purpose and those involves in executing the plan remain familiar with the procedures outlined in it. This increases the MoJ's preparedness in the event of a disaster.
+    Any disaster recovery action **shall** ensure that the IT system can recover from a disaster within the RTO recorded in the BIA.
 
-**POL.ITDR.007:**
+<a name="__pol.itdr.006__"></a>
 
-Prior to the commencement of live operations, an IT system **must have** its IT Disaster Recovery Plan tested where the outcome is supplied to the system Accreditor to form part of the accreditation decision making process.
+-   **__POL.ITDR.006__**
 
-**POL.ITDR.008:**
-
-All IT Disaster Recovery Plans \(whether for an IT system or IT domain\) **must be** tested annually or when a significant change occurs to that IT system. The testing schedule **must be** outlined in the IT Disaster Recovery Plan.
-
-**POL.ITDR.009:**
-
-After each test, a review of the IT Disaster Recovery Plan **must be** conducted and updated where appropriate based on the test finding, outcomes or defects identified.
-
-## Invocation and escalation
-
-The invocation of an IT Disaster Recovery Plan is closely aligned to corresponding IT Incident Management Plan.
-
-In general, an incident categorised as High impact \(refer [here](it-incident-management-policy.md) for more details\) may in turn constitute a disaster event. Each individual IT Disaster Recovery Plan needs to outline the particular circumstances in which the plan is invoked.
-
-**POL.ITDR.010:**
-
-Each IT Disaster Recovery Plan **must define** the situations and circumstances under which the Plan is to be invoked.
-
-## Reporting and alerting
-
-In general, the reporting and alerting structure of an IT Disaster Recovery Plan should align with that of the corresponding IT Security Incident Management Plan. However, depending on the nature of the disaster event, other stakeholders may need to be informed both internally and externally to the MoJ. This is where the MoJ Business Continuity Plan interacts with any individual IT Disaster Recovery Plan for an IT system or IT domain.
-
-**POL.ITDR.011:**
-
-Each IT Disaster Recovery Plan **must define** a reporting and alerting structure which aligns with the relevant IT Security Incident Management Plan and Business Continuity Plan.
-
-Responsibility for business continuity resides with [MoJ Corporate Security and Business Continuity Branch](https://intranet.justice.gov.uk/guidance/security/) where further details can be obtained.
-
-## Recovery and review
-
-Recovering from a disaster event is generally about the speed of restoring services to normal; however it is important to ensure that security vulnerabilities are not introduced \(or re-introduced\) during the restoration process and that any lessons learnt are fed back to appropriate stakeholders.
-
-**POL.ITDR.012:**
-
-Each IT Disaster Recovery Plan **must contain** a pre-defined and tested process and/or set of procedures for restoring the IT systems and services which have been disrupted or disabled during a disaster event.
-
-**POL.ITDR.013:**
-
-After each disaster incident, the following **must be** reviewed and any recommendations considered:
-
--   The IT Disaster Recovery Plan to consider lessons learnt and any improvements;
-
--   The design of the IT system and controls implements to reduce the impact of a disaster event or aid the restoration process;
-
--   Any changes to the relevant IT Security Incident Management Plan.
+    Any disaster recovery action **shall** ensure that the IT system can recover from a disaster within the RPO recorded in the BIA.
 
 
-**Note** – The [IT Security – IT Incident Management Policy](it-incident-management-policy.md) contains the provision for an incident report to be compiled. Any recovery and review work should be done in conjunction with the production of the overall incident report.
+## Testing and Readiness Review
+
+An IT Disaster Recovery Plan **shall** be tested regularly to ensure that:
+
+-   the plan remains fit for purpose
+-   the plan reflects all changes in personnel and updates to system information
+-   everyone with a role in the plan knows their responsibilities
+
+<a name="__pol.itdr.007__"></a>
+
+-   **__POL.ITDR.007__**
+
+    Each MoJ IT system **shall** have its IT Disaster Recovery Plan tested before commencing live operations.
+
+<a name="__pol.itdr.008__"></a>
+
+-   **__POL.ITDR.008__**
+
+    All IT Disaster Recovery Plans **shall** be tested at least annually, and after significant update to an MoJ IT system. The testing schedule **shall** be outlined in the IT Disaster Recovery Plan.
+
+<a name="__pol.itdr.009__"></a>
+
+-   **__POL.ITDR.009__**
+
+    The IT Disaster Recovery Plan **shall** be reviewed after each test and updated as required to ensure it is fit for purpose.
+
+<a name="__pol.itdr.010__"></a>
+
+-   **__POL.ITDR.010__**
+
+    Each IT Disaster Recovery Plan **shall** define the circumstances when the plan is to be invoked.
+
+
+## Reporting and Alerting
+
+The reporting and alerting structure of an IT Disaster Recovery Plan **should** align with that of the corresponding IT Security Incident Response Plan.
+
+Every stakeholder that needs to be informed, **should** be listed as a key contact within the plan.
+
+<a name="__pol.itdr.011__"></a>
+
+-   **__POL.ITDR.011__**
+
+    The reporting and alerting structure within an IT Disaster Recovery Plan **shall** align with the relevant IT Security Incident Management Plan and Business Continuity Plan. Responsibility for business continuity resides with the SO.
+
+
+## Recovery and Review
+
+The process to recover from a disaster event **shall** ensure that security vulnerabilities are not introduced or re-introduced during the restoration process.
+
+<a name="__pol.itdr.012__"></a>
+
+-   **__POL.ITDR.012__**
+
+    Each IT Disaster Recovery Plan **shall** contain pre-defined and tested processes and procedures to restore an MoJ IT system or services, which has been disrupted or disabled during a disaster event.
+
+<a name="__pol.itdr.013__"></a>
+
+-   **__POL.ITDR.013__**
+
+    Each Disaster Recovery Plan **shall** describe in detail the procedures to enable an MoJ IT Security System return from recovery mode to BAU.
+
+    Lessons learned **shall** be collated in an after-action report and be fed back to appropriate stakeholders.
+
+<a name="__pol.itdr.014__"></a>
+
+-   **__POL.ITDR.014__**
+
+    Following a disaster incident, an after-action report **shall** be produced, which contains:
+
+    -   all lessons learned
+    -   actions to be taken to update processes and plans
 
 ## Contact details
 
