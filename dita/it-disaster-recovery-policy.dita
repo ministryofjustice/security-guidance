@@ -46,7 +46,7 @@
 <topic id="policy-statements">
       <title>Policy Statements</title>
       <body>
-      <p>This policy refers to Policy Statements, POL.ITDR.001 to POL.ITDR.014.</p>
+      <p>This policy refers to Policy Statements, <b>POL.ITDR.001</b> to <b>POL.ITDR.014</b>.</p>
       <p><b>POL.ITDR.XXX</b> indicates the specific policy statement to be adhered to.</p>
       </body>
       </topic>
@@ -69,12 +69,7 @@
   <title>IT Disaster Recovery Plan</title>
   <body>
   <p>An IT Disaster Recovery Plan lists the actions to be taken to recover an IT system from a disaster event, together with a list of key roles and their responsibilities.</p>
-  <dl>
-  <dlentry>
-  <dt><b>POL.ITDR.001</b></dt>
-  <dd>Each <ph conref="conrefs.dita#conrefs/moj"/> IT system <ph conref="conrefs.dita#conrefs/policymust"/> have an IT Disaster Recovery Plan.</dd>
-  </dlentry>
-  </dl>
+  <p><b>POL.ITDR.001</b>: Each <ph conref="conrefs.dita#conrefs/moj"/> IT system <ph conref="conrefs.dita#conrefs/policymust"/> have an IT Disaster Recovery Plan.</p>
  
   <p>The <xref href="it-disaster-recovery-plan-and-process-guide.dita" format="dita">IT Disaster Recovery Plan and Process Guide</xref> describes the information to include in a Disaster Recovery Plan.</p>
   </body>
@@ -83,20 +78,11 @@
   <topic id="roles-and-responsibilities">
   <title>Roles and Responsibilities</title>
   <body>
-  <dl>
-  <dlentry>
-  <dt><b>POL.ITDR.002</b></dt>
-  <dd>All Disaster Recovery Plans <ph conref="conrefs.dita#conrefs/policymust"/> contain an up to date list of roles and responsibilities.</dd> 
-  <dd>Each role <ph conref="conrefs.dita#conrefs/policymust"/> have a name, with at least two sets of contact details.</dd>
-</dlentry>
-
-<dlentry>
-<dt><b>POL.ITDR.003</b></dt>
-<dd>All staff who are listed in a Disaster Recovery Plan <ph conref="conrefs.dita#conrefs/policymust"/> be aware of their role and its responsibilities.</dd> 
-<dd>The list of roles and responsibilities <ph conref="conrefs.dita#conrefs/policyshould"/> include internal and external stakeholders, together with everyone listed on the communications list.</dd>
-<dd>The list of roles and responsibilities <ph conref="conrefs.dita#conrefs/policymust"/> align with the Incident Management Plan (IMP).</dd>
-</dlentry>
-</dl>
+  <p><b>POL.ITDR.002</b>: All Disaster Recovery Plans <ph conref="conrefs.dita#conrefs/policymust"/> contain an up to date list of roles and responsibilities.</p> 
+  <p>Each role <ph conref="conrefs.dita#conrefs/policymust"/> have a name, with at least two sets of contact details.</p>
+  <p><b>POL.ITDR.003</b>: All staff who are listed in a Disaster Recovery Plan <ph conref="conrefs.dita#conrefs/policymust"/> be aware of their role and its responsibilities.</p> 
+  <p>The list of roles and responsibilities <ph conref="conrefs.dita#conrefs/policyshould"/> include internal and external stakeholders, together with everyone listed on the communications list.</p>
+  <p>The list of roles and responsibilities <ph conref="conrefs.dita#conrefs/policymust"/> align with the Incident Management Plan (IMP).</p>
 <p>A variety of individuals and teams may be responsible for business and IT service continuity, and escalation in case of a disaster. These may include:</p>
 <ul>
 <li>Executive Committee</li> 
@@ -131,20 +117,9 @@
 <li>a Recovery Time Objective (RTO): the time between a disaster event occurring and full IT systems and services being restored</li>
 <li>a Recovery Point Objective (RPO): the period of time during which the business can tolerate data loss</li> 
 </ul>
-<dl>
-<dlentry>
-<dt><b>POL.ITDR.004</b></dt>
-<dd>A Disaster Recovery Plan <ph conref="conrefs.dita#conrefs/policymust"/> contain an RTO and RPO. The plan may contain more than one of these depending on the system.</dd>
-</dlentry>
-<dlentry>
-<dt><b>POL.ITDR.005</b></dt>  
-<dd>Any disaster recovery action <ph conref="conrefs.dita#conrefs/policymust"/> ensure that the IT system can recover from a disaster within the RTO recorded in the BIA.</dd>
-</dlentry>
-<dlentry>
-<dt><b>POL.ITDR.006</b></dt> 
-<dd>Any disaster recovery action <ph conref="conrefs.dita#conrefs/policymust"/> ensure that the IT system can recover from a disaster within the RPO recorded in the BIA.</dd>
-</dlentry>
-</dl>
+<p><b>POL.ITDR.004</b>: A Disaster Recovery Plan <ph conref="conrefs.dita#conrefs/policymust"/> contain an RTO and RPO. The plan may contain more than one of these depending on the system.</p>
+<p><b>POL.ITDR.005</b>: Any disaster recovery action <ph conref="conrefs.dita#conrefs/policymust"/> ensure that the IT system can recover from a disaster within the RTO recorded in the BIA.</p>
+<p><b>POL.ITDR.006</b>: Any disaster recovery action <ph conref="conrefs.dita#conrefs/policymust"/> ensure that the IT system can recover from a disaster within the RPO recorded in the BIA.</p>
 </body>
 </topic>
 
@@ -157,24 +132,10 @@
 <li>the plan reflects all changes in personnel and updates to system information</li>
 <li>everyone with a role in the plan knows their responsibilities</li>
 </ul>
-<dl>
-<dlentry>
-<dt><b>POL.ITDR.007</b></dt>
-<dd>Each <ph conref="conrefs.dita#conrefs/moj"/> IT system <ph conref="conrefs.dita#conrefs/policymust"/> have its IT Disaster Recovery Plan tested before commencing live operations.</dd>   
-</dlentry>
-<dlentry>
-<dt><b>POL.ITDR.008</b></dt> 
-<dd>All IT Disaster Recovery Plans <ph conref="conrefs.dita#conrefs/policymust"/> be tested at least annually, and after significant update to an <ph conref="conrefs.dita#conrefs/moj"/> IT system. The testing schedule <ph conref="conrefs.dita#conrefs/policymust"/> be outlined in the IT Disaster Recovery Plan.</dd>  
-</dlentry>
-<dlentry>
-<dt><b>POL.ITDR.009</b></dt>
-<dd>The IT Disaster Recovery Plan <ph conref="conrefs.dita#conrefs/policymust"/> be reviewed after each test and updated as required to ensure it is fit for purpose.</dd>  
-</dlentry>
-<dlentry>
-<dt><b>POL.ITDR.010</b></dt> 
-<dd>Each IT Disaster Recovery Plan <ph conref="conrefs.dita#conrefs/policymust"/> define the circumstances when the plan is to be invoked.</dd>
-</dlentry>
-</dl>
+<p><b>POL.ITDR.007</b>: Each <ph conref="conrefs.dita#conrefs/moj"/> IT system <ph conref="conrefs.dita#conrefs/policymust"/> have its IT Disaster Recovery Plan tested before commencing live operations.</p>
+<p><b>POL.ITDR.008</b>: All IT Disaster Recovery Plans <ph conref="conrefs.dita#conrefs/policymust"/> be tested at least annually, and after significant update to an <ph conref="conrefs.dita#conrefs/moj"/> IT system. The testing schedule <ph conref="conrefs.dita#conrefs/policymust"/> be outlined in the IT Disaster Recovery Plan.</p>
+<p><b>POL.ITDR.009</b>: The IT Disaster Recovery Plan <ph conref="conrefs.dita#conrefs/policymust"/> be reviewed after each test and updated as required to ensure it is fit for purpose.</p>
+<p><b>POL.ITDR.010</b>: Each IT Disaster Recovery Plan <ph conref="conrefs.dita#conrefs/policymust"/> define the circumstances when the plan is to be invoked.</p>
 </body>
 </topic>
 
@@ -183,12 +144,7 @@
 <body>
 <p>The reporting and alerting structure of an IT Disaster Recovery Plan <ph conref="conrefs.dita#conrefs/policyshould"/> align with that of the corresponding IT Security Incident Response Plan.</p>
 <p>Every stakeholder that needs to be informed, <ph conref="conrefs.dita#conrefs/policyshould"/> be listed as a key contact within the plan.</p> 
-<dl>
-<dlentry>
-<dt><b>POL.ITDR.011</b></dt> 
-<dd>The reporting and alerting structure within an IT Disaster Recovery Plan <ph conref="conrefs.dita#conrefs/policymust"/> align with the relevant IT Security Incident Management Plan and Business Continuity Plan. Responsibility for business continuity resides with the SO.</dd>
-</dlentry>
-</dl>
+<p><b>POL.ITDR.011</b>: The reporting and alerting structure within an IT Disaster Recovery Plan <ph conref="conrefs.dita#conrefs/policymust"/> align with the relevant IT Security Incident Management Plan and Business Continuity Plan. Responsibility for business continuity resides with the SO.</p>
 </body>
 </topic>
  
@@ -196,25 +152,14 @@
 <title>Recovery and Review</title>
 <body>
 <p>The process to recover from a disaster event <ph conref="conrefs.dita#conrefs/policymust"/> ensure that security vulnerabilities are not introduced or re-introduced during the restoration process.</p> 
-<dl>
-<dlentry>
-<dt><b>POL.ITDR.012</b></dt> 
-<dd>Each IT Disaster Recovery Plan <ph conref="conrefs.dita#conrefs/policymust"/> contain pre-defined and tested processes and procedures to restore an <ph conref="conrefs.dita#conrefs/moj"/> IT system or services, which has been disrupted or disabled during a disaster event.</dd>   
-</dlentry>
-<dlentry>
-<dt><b>POL.ITDR.013</b></dt>
-<dd>Each Disaster Recovery Plan <ph conref="conrefs.dita#conrefs/policymust"/> describe in detail the procedures to enable an <ph conref="conrefs.dita#conrefs/moj"/> IT Security System return from recovery mode to BAU. 
-<p>Lessons learned <ph conref="conrefs.dita#conrefs/policymust"/> be collated in an after-action report and be fed back to appropriate stakeholders.</p></dd>
-</dlentry>
-<dlentry>
-<dt><b>POL.ITDR.014</b></dt> 
-<dd>Following a disaster incident, an after-action report <ph conref="conrefs.dita#conrefs/policymust"/> be produced, which contains:
+<p><b>POL.ITDR.012</b>: Each IT Disaster Recovery Plan <ph conref="conrefs.dita#conrefs/policymust"/> contain pre-defined and tested processes and procedures to restore an <ph conref="conrefs.dita#conrefs/moj"/> IT system or services, which has been disrupted or disabled during a disaster event.</p>
+<p><b>POL.ITDR.013</b>: Each Disaster Recovery Plan <ph conref="conrefs.dita#conrefs/policymust"/> describe in detail the procedures to enable an <ph conref="conrefs.dita#conrefs/moj"/> IT Security System return from recovery mode to BAU.</p>
+<p>Lessons learned <ph conref="conrefs.dita#conrefs/policymust"/> be collated in an after-action report and be fed back to appropriate stakeholders.</p>
+<p><b>POL.ITDR.014</b>: Following a disaster incident, an after-action report <ph conref="conrefs.dita#conrefs/policymust"/> be produced, which contains:
 <ul>
 <li>all lessons learned</li>
 <li>actions to be taken to update processes and plans</li>
-</ul></dd>
-</dlentry>
-</dl>
+</ul></p>
 </body>
 </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
