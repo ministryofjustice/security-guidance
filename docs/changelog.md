@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2023-06-22-17:35-bst-[formatting-and-terminology-updates](https:-security-guidance.service.justice.gov.uk-)"></a>
+
+-   **2023-06-22 17:35 BST [Formatting and terminology updates](https://security-guidance.service.justice.gov.uk/)**
+
+    Minor improvements to formatting, and updates to terminology.
+
 <a name="2023-06-05-18:13-bst-[updates-to-incident-management-policy](https:-security-guidance.service.justice.gov.uk-it-incident-management-policy-)"></a>
 
 -   **2023-06-05 18:13 BST [Updates to incident management policy](https://security-guidance.service.justice.gov.uk/it-incident-management-policy/)**

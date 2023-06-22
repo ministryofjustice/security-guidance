@@ -16,7 +16,7 @@
 -   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   **Confidential**, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 -   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
+-   DSO \(Departmental Security Officer\), contact the Chief Security Officer \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   IS2 \(HMG Infosec Standard 2 Information Risk Management\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
@@ -34,12 +34,7 @@ This document is the Ministry of Justice \(MoJ\) IT Security – Use of HMG Cryp
 
 Each policy statement outlines a security requirement and where applicable, a reference is provided to further material. A unique identifier is associated with each statement for easy reference. The format of each statement is illustrated as follows:
 
-<a name="pol.crypto.xxx"></a>
-
--   **POL.CRYPTO.XXX**
-
-    Policy statement text.
-
+**POL.CRYPTO.XXX**: Policy statement text.
 
 The policies outlined in this document form the baseline standard. However this policy is not a replacement for HMG Information Assurance Standard No. 4 - Management of Cryptographic Systems \[Ref, 2\]. HMG IAS4 remains the primary reference source where this policy provides a supplement to it.
 
@@ -47,12 +42,7 @@ The policies outlined in this document form the baseline standard. However this 
 
 ### Introduction
 
-<a name="pol.crypto.001"></a>
-
--   **POL.CRYPTO.001**
-
-    It is the policy of the MoJ to follow the policy of HMG Information Assurance Standard 4. This document endorses and augments that policy. Where the local policy contained herein, if different to HMG Policy, the local policy overrides HMG policy and must be adhered to.
-
+**POL.CRYPTO.001**: It is the policy of the MoJ to follow the policy of HMG Information Assurance Standard 4. This document endorses and augments that policy. Where the local policy contained herein, if different to HMG Policy, the local policy overrides HMG policy and must be adhered to.
 
 ### Scope
 
@@ -79,12 +69,7 @@ In accordance with HMG IAS4 \[Ref, 2\] encryption is only provided for fully acc
 
 ### Communication
 
-<a name="pol.crypto.002"></a>
-
--   **POL.CRYPTO.002**
-
-    The use of secure email **must be** used a primary method of communication for all and any communications from suppliers in respect of cryptography to the MoJ Crypto Custodian, Communications Security Officer \(COMSO\) and IT Security Officer \(ITSO\) regardless of whether the protective marking is UNCLASSIFIED or NOT PROTECTIVELY MARKED and up to RESTRICTED.
-
+**POL.CRYPTO.002**: The use of secure email **must be** used a primary method of communication for all and any communications from suppliers in respect of cryptography to the MoJ Crypto Custodian, Communications Security Officer \(COMSO\) and IT Security Officer \(ITSO\) regardless of whether the protective marking is UNCLASSIFIED or NOT PROTECTIVELY MARKED and up to RESTRICTED.
 
 Acceptable secure email methods are GSi, xGSi and CJSM accounts. All queries towards CESG must be forwarded to the MoJ Crypto Custodian and/or COMSO. CESG must not be contacted direct.
 
@@ -94,12 +79,7 @@ As soon as the need for encryption is identified the system Accreditor, the COMS
 
 The process requires that an applicant is appointed and that applicant is responsible for ensuring that the product is suitable for the requirement and it is their responsibility to familiarise themselves with the CESG Security Operating Procedures \(SyOPs\) for that product. The applicant can delegate this element to someone else but that person must be identified to the other parties of this approval process.
 
-<a name="pol.crypto.003"></a>
-
--   **POL.CRYPTO.003**
-
-    The Project Manager **must appoint** an applicant. Exceptionally, the applicant can be the Project Manager. The applicant **must contact** the vendor of the encryption product and obtain the latest version of the CESG macro enabled word application form to complete.
-
+**POL.CRYPTO.003**: The Project Manager **must appoint** an applicant. Exceptionally, the applicant can be the Project Manager. The applicant **must contact** the vendor of the encryption product and obtain the latest version of the CESG macro enabled word application form to complete.
 
 This form must be completed by the applicant with a full explanation of the requirement and attached with, if appropriate, a diagram \(e.g. MS Visio diagram\) which explains the solution and this must be sent to the COMSO, Accreditor and MoJ Crypto Custodian for approval with the application form.
 
@@ -117,18 +97,9 @@ Further processing is required by the MoJ Crypto Custodian and upon dispatch to 
 
 When it is necessary to increase the number of licences, changes to hardware or otherwise change how Crypto used, the applicant must obtain the latest form from the vendor and send the form to the Accreditor and COMSO for approval. The applicant must refer to the CESG X reference which can be found in the documentation that the supplier holds.
 
-<a name="pol.crypto.004"></a>
+**POL.CRYPTO.004**: The applicant **must determine** whether or not a change to the RMADS or SyOPs are necessary and confirm this on application. If changes are required it must be declared how and when this will happen.
 
--   **POL.CRYPTO.004**
-
-    The applicant **must determine** whether or not a change to the RMADS or SyOPs are necessary and confirm this on application. If changes are required it must be declared how and when this will happen.
-
-<a name="pol.crypto.005"></a>
-
--   **POL.CRYPTO.005**
-
-    The Accreditor and COMSO **must** both agree and approve the change and advise the MoJ Crypto Custodian.
-
+**POL.CRYPTO.005**: The Accreditor and COMSO **must** both agree and approve the change and advise the MoJ Crypto Custodian.
 
 The MoJ Crypto Custodian will forward the approved form to CESG for processing and any notifications from CESG will be advised by the MoJ Crypto Custodian to the applicant.
 
@@ -144,12 +115,7 @@ If there is a requirement to store Key Variables locally, the supplier must appo
 
 Any subject who handles Key Variables for the MoJ must be SC cleared and CRYPTO or ACCSEC authorised initially by the MoJ Crypto Custodian. The subject must provide the details on the Crypto Authorisation form through secure channels and provide the contact details of the vetting office which approved their clearance.
 
-<a name="pol.crypto.006"></a>
-
--   **POL.CRYPTO.006**
-
-    Every 12 months the LCC and LACC **must re-authorise** each other and check that their clearances are still valid and this must be evidenced and recorded with the authorisation form for audit purposes.
-
+**POL.CRYPTO.006**: Every 12 months the LCC and LACC **must re-authorise** each other and check that their clearances are still valid and this must be evidenced and recorded with the authorisation form for audit purposes.
 
 If the LCC or LACC CRYPTO or ACCSEC authorises anyone else locally, there are responsible for checking the security clearances and maintaining and renewing the authorisation or de-authorisation process and keeping records available for inspection and audit by the MoJ Crypto Custodian or Authority.
 
@@ -163,18 +129,9 @@ All Key Variables is stored and managed centrally by the MoJ with some exception
 
 There are special arrangements for the local storage of Key Variables which must be agreed with the COMSO.
 
-<a name="pol.crypto.007"></a>
+**POL.CRYPTO.007**: Key Variables **must not** be deployed unless the encryption solution is accredited or the timetable has been set out and agreed on its delivery, draft RMADS and final SyOPs must be made available to the MoJ Crypto Custodian.
 
--   **POL.CRYPTO.007**
-
-    Key Variables **must not** be deployed unless the encryption solution is accredited or the timetable has been set out and agreed on its delivery, draft RMADS and final SyOPs must be made available to the MoJ Crypto Custodian.
-
-<a name="pol.crypto.008"></a>
-
--   **POL.CRYPTO.008**
-
-    The applicant **must agree** with the MoJ Crypto Custodian how the Key Variables is to be deployed, or provide the details of the person who will manage this if it is not the applicant. Generally speaking the Key Variables is retained at MoJ HQ and issued out for a short period of time in order to encrypt the system and then returned to MoJ HQ for storage.
-
+**POL.CRYPTO.008**: The applicant **must agree** with the MoJ Crypto Custodian how the Key Variables is to be deployed, or provide the details of the person who will manage this if it is not the applicant. Generally speaking the Key Variables is retained at MoJ HQ and issued out for a short period of time in order to encrypt the system and then returned to MoJ HQ for storage.
 
 Key Variables distribution as follows \(in order of preference\);
 
@@ -187,30 +144,15 @@ Key Variables distribution as follows \(in order of preference\);
 
 ### Key Variables Management
 
-<a name="pol.crypto.009"></a>
-
--   **POL.CRYPTO.009**
-
-    The management of Key Variables **must be** in accordance with HMG IAS4 Supplement 7 \[Ref, 3\].
-
+**POL.CRYPTO.009**: The management of Key Variables **must be** in accordance with HMG IAS4 Supplement 7 \[Ref, 3\].
 
 ### Key Variables Destruction
 
-<a name="pol.crypto.010"></a>
-
--   **POL.CRYPTO.010**
-
-    Suppliers **must not** under any circumstances destroy Key Variables. All Key Variables must be returned to the MoJ Crypto Custodian for destruction.
-
+**POL.CRYPTO.010**: Suppliers **must not** under any circumstances destroy Key Variables. All Key Variables must be returned to the MoJ Crypto Custodian for destruction.
 
 ### Business continuity
 
-<a name="pol.crypto.011"></a>
-
--   **POL.CRYPTO.011**
-
-    The MoJ Crypto Custodian, the Alternate Crypto Custodian and any authorised signatories and or people who have access to the safes where cryptographic material that is managed by the MoJ Crypto Custodian is stored must conform to the IT Security Policy - HMG Cryptography Business Continuity Management Standard \[Ref, 4\].
-
+**POL.CRYPTO.011**: The MoJ Crypto Custodian, the Alternate Crypto Custodian and any authorised signatories and or people who have access to the safes where cryptographic material that is managed by the MoJ Crypto Custodian is stored must conform to the IT Security Policy - HMG Cryptography Business Continuity Management Standard \[Ref, 4\].
 
 ### Annual Audit of Crypto
 

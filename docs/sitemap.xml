@@ -28,27 +28,42 @@
 </url>
 
 <url>
+  <loc>https://security-guidance.service.justice.gov.uk/use-of-hmg-cryptography-policy/</loc>
+  <lastmod>2023-06-22T17:35:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/it-investigations-planning-and-operations-policy/</loc>
+  <lastmod>2023-06-22T17:35:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/public-key-infrastructure-policy/</loc>
+  <lastmod>2023-06-22T17:35:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/offshoring-guide/</loc>
+  <lastmod>2023-06-22T17:35:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/it-security-incident-management-policy/</loc>
+  <lastmod>2023-06-22T17:35:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://security-guidance.service.justice.gov.uk/it-disaster-recovery-policy/</loc>
+  <lastmod>2023-06-22T17:35:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://security-guidance.service.justice.gov.uk/technical-controls-policy/</loc>
   <lastmod>2023-06-07T17:35:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/it-disaster-recovery-plan-and-process-guide/</loc>
-  <lastmod>2023-06-07T17:35:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/it-disaster-recovery-policy/</loc>
-  <lastmod>2023-06-07T17:35:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/it-security-incident-management-policy/</loc>
-  <lastmod>2023-06-07T17:35:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/it-investigations-planning-and-operations-policy/</loc>
   <lastmod>2023-06-07T17:35:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -565,16 +580,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/public-key-infrastructure-policy/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/use-of-hmg-cryptography-policy/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/clear-screen-and-desk/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
@@ -606,11 +611,6 @@
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/web-check/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/offshoring-guide/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>

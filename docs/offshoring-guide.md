@@ -16,7 +16,7 @@
 -   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   **Confidential**, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 -   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
+-   DSO \(Departmental Security Officer\), contact the Chief Security Officer \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   IS2 \(HMG Infosec Standard 2 Information Risk Management\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
@@ -145,7 +145,7 @@ The core function of the MoJ is to deliver services for the general good, rather
 
 The responsibility of the MoJ for its own security and overall delivery is reinforced within the [HMG SPF](https://www.gov.uk/government/publications/security-policy-framework), at Paragraph 7, under Roles and Responsibilities:
 
-> Accounting Officers \(e.g. Head of Department/Permanent Secretary\) have overall responsibility for ensuring that information risks are assessed and mitigated to an acceptable level. This responsibility must be supported by a Senior Information Risk Owner \(SIRO\) and the day-to-day duties may be delegated to the Departmental Security Officer \(DSO\), IT Security Officer \(ITSO\), Information Asset Owners \(IAOs\), supported by the Lead Accreditor.
+> Accounting Officers \(e.g. Head of Department/Permanent Secretary\) have overall responsibility for ensuring that information risks are assessed and mitigated to an acceptable level. This responsibility must be supported by a Senior Information Risk Owner \(SIRO\) and the day-to-day duties may be delegated to the Chief Security Officer \(CSO\), IT Security Officer \(ITSO\), Information Asset Owners \(IAOs\), supported by the Lead Accreditor.
 
 [REQUIREMENT 2](#requirement-1-and-requirement-2): The MoJ SIRO remains accountable for information risks, including risks to Protectively Marked and personal data, in an offshore context. These risks must be documented and presented to the SIRO, and must be explicitly agreed to before any contract with an offshore element is accepted. In some cases, a submission to the Cabinet Office IA Delivery Group may be necessary. The MoJ Accreditor, MoJ IT IA, DACU and Legal experts must be engaged by the project team as soon as a potential offshoring requirement is identified, to enable identification of these information risks. Close engagement with these Special Interest Groups must be maintained for the delivery lifetime. This engagement must be formally set out in the delivery plan.
 
