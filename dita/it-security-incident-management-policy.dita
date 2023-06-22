@@ -199,7 +199,7 @@
     <body>
     <p>If an incident needs to be escalated, it <ph conref="conrefs.dita#conrefs/policymust"/> follow the chain of command through the incident response command structure.</p>
     <p>The exact chain of escalation <ph conref="conrefs.dita#conrefs/policyshould"/> be outlined in the IT system's Incident Response Plan.</p>
-    <p>A typical command chain might be from the incident manager to the Major Incident Management team, to the relevant SIRO to Departmental Security Officer (DSO) to Ministerial response.</p>
+    <p>A typical command chain might be from the incident manager to the Major Incident Management team, to the relevant SIRO to Chief Security Officer (CSO) to Ministerial response.</p>
     <p>Reasons for escalation might include:</p>
     <ul>
     <li>issues of national security</li>

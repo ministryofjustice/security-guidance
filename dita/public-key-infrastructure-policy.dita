@@ -41,7 +41,7 @@
     <topic id="out-of-scope">
       <title>Out of Scope</title>
       <body>
-        <p>Any information or component, which operates at SECRET or TOP SECRET (e.g. Private Keys with a classification higher than OFFICIAL-SENSITIVE) fall outside of the scope of this policy</p>
+        <p>Any information or component, which operates at <ph conref="conrefs.dita#conrefs/secret"/> or <ph conref="conrefs.dita#conrefs/top-secret"/> (e.g. Private Keys with a classification higher than <ph conref="conrefs.dita#conrefs/official-sensitive"/>) fall outside of the scope of this policy</p>
         <p>Certificates used for authentication of users or organisations used in token or PKI based authentications systems other than 802.1x are out of scope.</p>
       </body>
     </topic>
@@ -164,7 +164,7 @@
               <p>Senior Information Risk Owner (SIRO) – Responsible for all risks to do with the PKI Services. Final point of escalation for incidents.</p>
             </li>
             <li>
-              <p>Departmental Security Officer (DSO) – Responsible for the operational governance of the PKI Services and the report line for the ComSO.</p>
+              <p>Chief Security Officer (CSO) – Responsible for the operational governance of the PKI Services and the report line for the ComSO.</p>
             </li>
             <li>
               <p>Communication Security Officer (ComSO) – Responsible for day to day management of the PKI Services, relationship management with CESG and UKKPA (GCHQ's UK key production authority), mustering and other formal processes. First point of escalation for incidents and managing initial incident response.</p>
@@ -214,7 +214,7 @@
           </ul>
           <ol>
             <li>
-              <p>The escalation shall be from the person discovering the incident to the local Crypto Custodian, then the <ph conref="conrefs.dita#conrefs/moj"/> Cypto Custodian, then ComSO, then DSO then SIRO. Escalation to CINRAS and other external bodies shall only be performed by the ComSO, DSO or SIRO.</p>
+              <p>The escalation shall be from the person discovering the incident to the local Crypto Custodian, then the <ph conref="conrefs.dita#conrefs/moj"/> Cypto Custodian, then ComSO, then CSO then SIRO. Escalation to CINRAS and other external bodies shall only be performed by the ComSO, CSO or SIRO.</p>
             </li>
           </ol>
         </body>
@@ -268,7 +268,7 @@
               <p>Where PKI Services are subordinate to external services, e.g. UKKPA or PSNA, then the audit and accounting regime must comply with the policies of the relevant authority.</p>
             </li>
             <li>
-              <p>Audit reports shall be provided to the DSO and SIRO quarterly.</p>
+              <p>Audit reports shall be provided to the CSO and SIRO quarterly.</p>
             </li>
           </ol>
         </body>
@@ -471,7 +471,7 @@
               <p>The Trust Anchor shall only be used for signing Sub-CA or Issuing CA certificates and related CRLs.</p>
             </li>
             <li>
-              <p>Assurance of the Trust Anchor CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For OFFICIAL and OFFICIAL-SENSITIVE material, recognised assurances are stated as follows:</p>
+              <p>Assurance of the Trust Anchor CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For <ph conref="conrefs.dita#conrefs/official"/> and <ph conref="conrefs.dita#conrefs/official-sensitive"/> material, recognised assurances are stated as follows:</p>
             </li>
           </ol>
           <ul>
@@ -547,7 +547,7 @@
               <p>Any CA shall be patched against all known vulnerabilities for which a vendor-published patch is available, in accordance with the Authority's patching policy. The operating system supporting the CA must be less than five (5) years old and must have three (3) or more years of vendor support remaining (5/3 rule).</p>
             </li>
             <li>
-              <p>Assurance of CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For OFFICIAL and OFFICIAL-SENSITIVE material, assurance preferences are stated as follows:</p>
+              <p>Assurance of CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For <ph conref="conrefs.dita#conrefs/official"/> and <ph conref="conrefs.dita#conrefs/official-sensitive"/> material, assurance preferences are stated as follows:</p>
             </li>
           </ol>
           <ul>
@@ -629,7 +629,7 @@
               <p>All patches and other minor changes shall be approved by a Crypto Custodian or ComSO and implemented via the change control process.</p>
             </li>
             <li>
-              <p>All changes to a trust anchor or standalone/offline root CA shall also be witnessed and signed off by any two of: Crypto Custodians, ComSO, DSO.</p>
+              <p>All changes to a trust anchor or standalone/offline root CA shall also be witnessed and signed off by any two of: Crypto Custodians, ComSO, and CSO.</p>
             </li>
           </ol>
         </body>
@@ -639,13 +639,13 @@
         <body>
           <ol>
             <li>
-              <p>The PKI Services shall be located in an HMG Government building or Supplier building with appropriate physical controls for OFFICIAL-SENSITIVE information, as assessed by the Authority's DSO or delegated representative.</p>
+              <p>The PKI Services shall be located in an HMG Government building or Supplier building with appropriate physical controls for <ph conref="conrefs.dita#conrefs/official-sensitive"/> information, as assessed by the Authority's CSO or delegated representative.</p>
             </li>
             <li>
               <p>PKI Services are critical to the security of the information they protect, and therefore should not be housed in open or shared areas. The PKI Services shall be in a room or cage or locked cabinet that has strictly controlled access to named individuals. The strength of the physical controls will depend on the sensitivity of the specific service.</p>
             </li>
             <li>
-              <p>The Trust Anchors and any standalone/offline Root CAs shall be kept in a safe or security cabinet protected by a CPNI Class 2 lock or equivalent when not in use. Only the ComSO and DSO, and their delegated representatives, shall know the combination. The ComSO and DSO shall not have credentials to operate the CA devices.</p>
+              <p>The Trust Anchors and any standalone/offline Root CAs shall be kept in a safe or security cabinet protected by a CPNI Class 2 lock or equivalent when not in use. Only the ComSO and CSO, and their delegated representatives, shall know the combination. The ComSO and CSO shall not have credentials to operate the CA devices.</p>
             </li>
             <li>
               <p>The combination code must be changed at least annually, and immediately on permanent departure of any personnel who know the code.</p>
@@ -658,13 +658,13 @@
         <body>
           <ol>
             <li>
-              <p>The DSO, ComSO, Crypto Custodians, Administrator(s), and individuals holding other key PKI roles shall have been subjected to BPSS checking and shall maintain a current and valid SC clearance as a minimum. Evidence of clearance will be maintained in an up-to-date register in a format agreed with the <ph conref="conrefs.dita#conrefs/moj"/> and made available to the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+              <p>The CSO, ComSO, Crypto Custodians, Administrator(s), and individuals holding other key PKI roles shall have been subjected to BPSS checking and shall maintain a current and valid SC clearance as a minimum. Evidence of clearance will be maintained in an up-to-date register in a format agreed with the <ph conref="conrefs.dita#conrefs/moj"/> and made available to the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
             </li>
             <li>
               <p>The Crypto Custodians shall have formal training from CESG or MoD on key management and PKI operation.</p>
             </li>
             <li>
-              <p>No other person shall have access to the PKI infrastructure without prior written permission of the DSO.</p>
+              <p>No other person shall have access to the PKI infrastructure without prior written permission of the CSO.</p>
             </li>
           </ol>
         </body>
