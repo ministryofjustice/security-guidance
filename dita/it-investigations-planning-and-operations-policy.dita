@@ -29,7 +29,7 @@
       <topic id="policy-statements">
       <title>Policy Statements</title>
       <body>
-      <p>This policy refers to Policy Statements, POL.POP.001 to POL.POP.015.</p>
+      <p>This policy refers to Policy Statements, <b>POL.POP.001</b> to <b>POL.POP.015</b>.</p>
       <p><b>POL.POP.XXX</b> indicates the specific policy statement to be adhered to.</p>
       </body>
       </topic>
@@ -52,39 +52,22 @@
           <li>if an investigation is requested as part of the IT security incident management process</li>
           <li>if requested as part of a leak investigation.</li>
           </ul>
-          <dl>
-          <dlentry>
-            <dt><b>POL.POP.001</b></dt>
-            <dd>Each <ph conref="conrefs.dita#conrefs/moj"/> IT system or IT domain <ph conref="conrefs.dita#conrefs/policymust"/> be covered by a Forensic Readiness Plan.</dd>
-          </dlentry>
-    
-        <dlentry>
-            <dt><b>POL.POP.002</b></dt>
-            <dd>Each Forensic Readiness Plan <ph conref="conrefs.dita#conrefs/policymust"/> include:
+            <p><b>POL.POP.001</b>: Each <ph conref="conrefs.dita#conrefs/moj"/> IT system or IT domain <ph conref="conrefs.dita#conrefs/policymust"/> be covered by a Forensic Readiness Plan.</p>
+            <p><b>POL.POP.002</b>: Each Forensic Readiness Plan <ph conref="conrefs.dita#conrefs/policymust"/> include:
             <ul>
             <li>an assessment of the risk management benefits</li>
             <li>authorisation from the IT Security Team and Senior Information Risk Officer (SIRO)</li>
             <li>a corresponding IT security incident management plan</li>
-            </ul>
-            <p>Risk management benefits include risk assessments and cost-benefit-analysis, which will determine if an investigation is viable from a risk and cost perspective.</p></dd>
-          </dlentry>    
-        <dlentry>
-            <dt><b>POL.POP.003</b></dt>
-            <dd>Forensic investigations in support of leak investigations <ph conref="conrefs.dita#conrefs/policymust"/> be requested by the individual responsible for the leak investigation.</dd>
-          </dlentry>
-          </dl>
+            </ul></p>
+            <p>Risk management benefits include risk assessments and cost-benefit-analysis, which will determine if an investigation is viable from a risk and cost perspective.</p>
+            <p><b>POL.POP.003</b>: Forensic investigations in support of leak investigations <ph conref="conrefs.dita#conrefs/policymust"/> be requested by the individual responsible for the leak investigation.</p>
           </body>    
         </topic>
 
         <topic id="integrity-of-digital-evidence">
       <title>Integrity of Digital Evidence</title>
       <body>
-      <dl>
-      <dlentry>
-      <dt><b>POL.POP.004</b></dt>
-      <dd>Each forensic investigation <ph conref="conrefs.dita#conrefs/policymust"/> be guided by the principles set out by the <xref href="https://library.college.police.uk/docs/acpo/digital-evidence-2012.pdf" format="html" scope="external">ACPO guidelines</xref> issued by the National Police Chiefs' Council (NPCC).</dd>
-      </dlentry>
-      </dl>
+      <p><b>POL.POP.004</b>: Each forensic investigation <ph conref="conrefs.dita#conrefs/policymust"/> be guided by the principles set out by the <xref href="https://library.college.police.uk/docs/acpo/digital-evidence-2012.pdf" format="html" scope="external">ACPO guidelines</xref> issued by the National Police Chiefs' Council (NPCC).</p>
           <p>The integrity of data, which <ph conref="conrefs.dita#conrefs/policymight"/> subsequently relied upon in court, <ph conref="conrefs.dita#conrefs/policymust"/> be maintained throughout the forensic investigation process.</p>
           <p>Any person accessing data as part of an investigation <ph conref="conrefs.dita#conrefs/policymust"/> be competent to do so and able to justify the relevance and implications of their actions.</p>
           <p>Each investigation <ph conref="conrefs.dita#conrefs/policymust"/> be documented clearly and leave an audit trail that will enable a third-party to examine each process and replicate the findings,</p>
@@ -100,46 +83,16 @@
           <p>The Forensic Investigation Owner (FIO) is responsible for the collection and management of digital evidence.</p>
           <p>An external organisation <ph conref="conrefs.dita#conrefs/policymay"/> conduct the investigation on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
           <p>Each item of evidence collected <ph conref="conrefs.dita#conrefs/policymust"/> be managed according to the relevant Forensic Readiness Plan.</p>
-          <dl>
-          <dlentry>
-          <dt><b>POL.POP.005</b></dt>
-          <dd>Each Forensic Readiness Plan <ph conref="conrefs.dita#conrefs/policymust"/> include a process for the collection and storage of digital evidence, to include provision for where this task is conducted by an external organisation.</dd>
-          </dlentry>
-
-       <dlentry>
-            <dt><b>POL.POP.006</b></dt>
-            <dd>All users of an <ph conref="conrefs.dita#conrefs/moj"/> IT system <ph conref="conrefs.dita#conrefs/policymust"/> be made aware that their access is monitored, and that IT forensic techniques <ph conref="conrefs.dita#conrefs/policymay"/> be used to capture evidence as part of an investigation into an IT security incident.</dd>
-         </dlentry>
-         <dlentry>
-         <dt><b>POL.POP.007</b></dt>
-         <dd>A Forensic Readiness Plan <ph conref="conrefs.dita#conrefs/policymust"/> contain clearly defined procedures and methods for conducting a forensic investigation. The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> be able to resume business operations following an IT security incident. Any forensic investigation <ph conref="conrefs.dita#conrefs/policymust"/> be conducted in a manner that enables the restoration of <ph conref="conrefs.dita#conrefs/moj"/> IT services.</dd>
-         </dlentry>
-         <dlentry>
-         <dt><b>POL.POP.008</b></dt>
-         <dd>A Forensic Readiness Plan <ph conref="conrefs.dita#conrefs/policymust"/> consider business continuity arrangements to ensure that essential functions are able to be restored. Digital evidence <ph conref="conrefs.dita#conrefs/policymust"/> be handled carefully in order for it to remain admissible.</dd>
-         </dlentry>
-        <dlentry>
-        <dt><b>POL.POP.009</b></dt>
-         <dd>Each forensic investigation <ph conref="conrefs.dita#conrefs/policymust"/> have a clearly documented chain of custody for all digital evidence.</dd>
-         </dlentry>
-          <dlentry>
-         <dt><b>POL.POP.010</b></dt>
-         <dd>The <ph conref="conrefs.dita#conrefs/moj"/> Security Team is responsible for the integrity of digital evidence. Each forensic investigation <ph conref="conrefs.dita#conrefs/policymust"/> have a named FIO who is responsible for the investigation and management of digital evidence.</dd>
-         </dlentry>
-         <dlentry>
-       <dt><b>POL.POP.011</b></dt>
-       <dd>Any investigative action taken on a piece of evidence <ph conref="conrefs.dita#conrefs/policymust"/> be captured and recorded. This record <ph conref="conrefs.dita#conrefs/policymust"/> include details of the action taken and the person responsible for undertaking that action.</dd>
-       </dlentry>
-       <dlentry>
-       <dt><b>POL.POP.012</b></dt>
-       <dd>Admissibility of evidence in a court of law depends on how the evidence was captured. Before capturing any evidence, advice <ph conref="conrefs.dita#conrefs/policymust"/> be sought from the <ph conref="conrefs.dita#conrefs/moj"/> legal team and forensic investigation provider.</dd>
-       </dlentry>
-       <dlentry>
-       <dt><b>POL.POP.013</b></dt>
-       <dd>Each Forensic Readiness Plan <ph conref="conrefs.dita#conrefs/policymust"/> include details of how to securely dispose of evidence when it is no longer required. This <ph conref="conrefs.dita#conrefs/policymust"/> conform with <xref href="secure-disposal-of-it-equipment.dita" format="dita">Secure disposal of IT equipment</xref>.</dd>
-</dlentry>
-</dl>
-</body>
+          <p><b>POL.POP.005</b>: Each Forensic Readiness Plan <ph conref="conrefs.dita#conrefs/policymust"/> include a process for the collection and storage of digital evidence, to include provision for where this task is conducted by an external organisation.</p>
+          <p><b>POL.POP.006</b>: All users of an <ph conref="conrefs.dita#conrefs/moj"/> IT system <ph conref="conrefs.dita#conrefs/policymust"/> be made aware that their access is monitored, and that IT forensic techniques <ph conref="conrefs.dita#conrefs/policymay"/> be used to capture evidence as part of an investigation into an IT security incident.</p>
+         <p><b>POL.POP.007</b>: A Forensic Readiness Plan <ph conref="conrefs.dita#conrefs/policymust"/> contain clearly defined procedures and methods for conducting a forensic investigation. The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> be able to resume business operations following an IT security incident. Any forensic investigation <ph conref="conrefs.dita#conrefs/policymust"/> be conducted in a manner that enables the restoration of <ph conref="conrefs.dita#conrefs/moj"/> IT services.</p>
+         <p><b>POL.POP.008</b>: A Forensic Readiness Plan <ph conref="conrefs.dita#conrefs/policymust"/> consider business continuity arrangements to ensure that essential functions are able to be restored. Digital evidence <ph conref="conrefs.dita#conrefs/policymust"/> be handled carefully in order for it to remain admissible.</p>
+        <p><b>POL.POP.009</b>: Each forensic investigation <ph conref="conrefs.dita#conrefs/policymust"/> have a clearly documented chain of custody for all digital evidence.</p>
+         <p><b>POL.POP.010</b>: The <ph conref="conrefs.dita#conrefs/moj"/> Security Team is responsible for the integrity of digital evidence. Each forensic investigation <ph conref="conrefs.dita#conrefs/policymust"/> have a named FIO who is responsible for the investigation and management of digital evidence.</p>
+       <p><b>POL.POP.011</b>: Any investigative action taken on a piece of evidence <ph conref="conrefs.dita#conrefs/policymust"/> be captured and recorded. This record <ph conref="conrefs.dita#conrefs/policymust"/> include details of the action taken and the person responsible for undertaking that action.</p>
+       <p><b>POL.POP.012</b>: Admissibility of evidence in a court of law depends on how the evidence was captured. Before capturing any evidence, advice <ph conref="conrefs.dita#conrefs/policymust"/> be sought from the <ph conref="conrefs.dita#conrefs/moj"/> legal team and forensic investigation provider.</p>
+       <p><b>POL.POP.013</b>: Each Forensic Readiness Plan <ph conref="conrefs.dita#conrefs/policymust"/> include details of how to securely dispose of evidence when it is no longer required. This <ph conref="conrefs.dita#conrefs/policymust"/> conform with <xref href="secure-disposal-of-it-equipment.dita" format="dita">Secure disposal of IT equipment</xref>.</p>
+      </body>
        </topic>
        
        <topic id="legal-requirements">
@@ -148,13 +101,7 @@
        
        <p>Investigations of electronically stored information within the <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/policymust"/> conform to the latest legal and regulatory guidelines.</p> 
       <p>BS 10008:2022 provides information on the collection of electronically stored information as evidence.</p> 
-      <dl>
-
-        <dlentry>
-            <dt><b>POL.POP.014</b></dt>
-            <dd>During each forensic investigation, methods used to capture digital evidence <ph conref="conrefs.dita#conrefs/policymust"/> be in accordance with <xref href="https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/" format="html" scope="external">BS 10008:2022</xref>.</dd> 
-            </dlentry>
-            </dl>
+            <p><b>POL.POP.014</b>: During each forensic investigation, methods used to capture digital evidence <ph conref="conrefs.dita#conrefs/policymust"/> be in accordance with <xref href="https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/" format="html" scope="external">BS 10008:2022</xref>.</p>
             </body>
             </topic>
 
@@ -171,13 +118,7 @@
            <li><ph conref="conrefs.dita#conrefs/moj"/> legal advisors</li>
            <li>Other Government Agencies as required</li>
            </ul>
-           <dl>
- 
-           <dlentry>
-           <dt><b>POL.POP.015</b></dt>
-           <dd>Each Forensic Readiness Plan <ph conref="conrefs.dita#conrefs/policymust"/> include the reporting structure and escalation path for internal and external teams and the individual responsible for managing the incident. This <ph conref="conrefs.dita#conrefs/policymust"/> be consistent with the corresponding <xref href="it-security-incident-response-plan-and-process-guide.dita" format="dita">IT Security Incident Response Plan and Process Guidea</xref>. The forensic investigation process <ph conref="conrefs.dita#conrefs/policymust"/> enable the chain of evidence to be passed to outside agencies, if required.</dd>
-           </dlentry>
-           </dl>
+           <p><b>POL.POP.015</b>: Each Forensic Readiness Plan <ph conref="conrefs.dita#conrefs/policymust"/> include the reporting structure and escalation path for internal and external teams and the individual responsible for managing the incident. This <ph conref="conrefs.dita#conrefs/policymust"/> be consistent with the corresponding <xref href="it-security-incident-response-plan-and-process-guide.dita" format="dita">IT Security Incident Response Plan and Process Guidea</xref>. The forensic investigation process <ph conref="conrefs.dita#conrefs/policymust"/> enable the chain of evidence to be passed to outside agencies, if required.</p>
            </body>
            </topic>
            <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>

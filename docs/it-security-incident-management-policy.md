@@ -57,7 +57,7 @@ To contact the MoJ Security Team, send an email to [security@justice.gov.uk](mai
 
 ## Policy statements
 
-This policy refers to the Policy Statements, POL.IMP.001 to POL.IMP.014.
+This policy refers to the Policy Statements, **POL.IMP.001** to **POL.IMP.014**.
 
 **POL.IMP.XXX** indicates the specific policy statement to be adhered to.
 
@@ -88,12 +88,7 @@ Responding to an incident requires informed decisions, taken as part of a consis
 
 The process to respond to an incident **should** be described in detail in an Incident Response Plan.
 
-<a name="__pol.imp.001__"></a>
-
--   **__POL.IMP.001__**
-
-    Each MoJ IT system and service **shall** have an IT Security Incident Response Plan.
-
+**POL.IMP.001**: Each MoJ IT system and service **shall** have an IT Security Incident Response Plan.
 
 The [IT Incident Response Plan and Process Guide](it-security-incident-response-plan-and-process-guide.md) has information on what to include in a Response Plan.
 
@@ -122,18 +117,9 @@ Security incidents may be discovered by:
 -   breaches of MoJ IT Security Policy detected by an IT system
 -   data surrounding IT security incidents or suspected IT security incidents can be captured and monitored for suspected malicious activity or breaches of security
 
-<a name="__pol.imp.002__"></a>
+**POL.IMP.002**: All MoJ IT Security incidents or suspected incidents **shall** be reported to the IT Service Desk as soon as they are identified.
 
--   **__POL.IMP.002__**
-
-    All MoJ IT Security incidents or suspected incidents **shall** be reported to the IT Service Desk as soon as they are identified.
-
-<a name="__pol.imp.003__"></a>
-
--   **__POL.IMP.003__**
-
-    All MoJ IT Security incidents involving personal data **shall** be reported to the MoJ Data Protection Team.
-
+**POL.IMP.003**: All MoJ IT Security incidents involving personal data **shall** be reported to the MoJ Data Protection Team.
 
 The MoJ Security Team is responsible for maintaining a database of IT Security incidents across MoJ IT systems.
 
@@ -154,12 +140,7 @@ The three categories are:
 -   Medium impact
 -   High impact
 
-<a name="__pol.imp.004__"></a>
-
--   **__POL.IMP.004__**
-
-    All IT Security incidents **shall** be categorised by the incident response team.
-
+**POL.IMP.004**: All IT Security incidents **shall** be categorised by the incident response team.
 
 An IT incident may need to be recategorised if there are changes to the nature and impact of the incident.
 
@@ -201,7 +182,7 @@ If an incident needs to be escalated, it **shall** follow the chain of command t
 
 The exact chain of escalation **should** be outlined in the IT system's Incident Response Plan.
 
-A typical command chain might be from the incident manager to the Major Incident Management team, to the relevant SIRO to Departmental Security Officer \(DSO\) to Ministerial response.
+A typical command chain might be from the incident manager to the Major Incident Management team, to the relevant SIRO to Chief Security Officer \(CSO\) to Ministerial response.
 
 Reasons for escalation might include:
 
@@ -212,12 +193,7 @@ Reasons for escalation might include:
 -   a requirement to report to another Department or central management function
 -   significant actual or potential loss of personal information where the Information Commissioner’s Office and Cabinet Office need to be informed
 
-<a name="__pol.imp.005__"></a>
-
--   **__POL.IMP.005__**
-
-    Each IT Security Incident Response Plan **shall** include a pre-arranged escalation path, where each stakeholder is named and is aware of their role. Contact the Major Incident Management team if you need help creating documented escalation paths.
-
+**POL.IMP.005**: Each IT Security Incident Response Plan **shall** include a pre-arranged escalation path, where each stakeholder is named and is aware of their role. Contact the Major Incident Management team if you need help creating documented escalation paths.
 
 ## Incident Management Stakeholders
 
@@ -225,37 +201,15 @@ There are likely to be both internal and external stakeholders involved in incid
 
 These will vary depending on the specific IT system or service.
 
-<a name="__pol.imp.006__"></a>
+**POL.IMP.006**: All MoJ staff **shall** report any actual or suspected incidents, including breaches of MoJ Security Policy, to their line manager and to the IT Service Desk.
 
--   **__POL.IMP.006__**
+**POL.IMP.007**: As part of operational readiness, Each SIRO **shall** ensure that each IT system or service under their remit has an [IT Security Incident Response Plan](it-security-incident-response-plan-and-process-guide.md). A guide for writing a plan is available in the [IT Security Response Plan and Process Guide](it-security-incident-response-plan-and-process-guide.md).
 
-    All MoJ staff **shall** report any actual or suspected incidents, including breaches of MoJ Security Policy, to their line manager and to the IT Service Desk.
+**POL.IMP.008**: All High impact IT Security incidents and any IT Security incident involving personal data **shall** be reported to the SIRO for your business area.
 
-<a name="__pol.imp.007__"></a>
+**POL.IMP.009**: All IT Security incidents involving the suspected or actual loss, theft, or compromise of an Information Asset **shall** be reported to the Information Asset Owner \(IAO\).
 
--   **__POL.IMP.007__**
-
-    As part of operational readiness, Each SIRO **shall** ensure that each IT system or service under their remit has an [IT Security Incident Response Plan](it-security-incident-response-plan-and-process-guide.md). A guide for writing a plan is available in the [IT Security Response Plan and Process Guide](it-security-incident-response-plan-and-process-guide.md).
-
-<a name="__pol.imp.008__"></a>
-
--   **__POL.IMP.008__**
-
-    All High impact IT Security incidents and any IT Security incident involving personal data **shall** be reported to the SIRO for your business area.
-
-<a name="__pol.imp.009__"></a>
-
--   **__POL.IMP.009__**
-
-    All IT Security incidents involving the suspected or actual loss, theft, or compromise of an Information Asset **shall** be reported to the Information Asset Owner \(IAO\).
-
-
-<a name="__pol.imp.010__"></a>
-
--   **__POL.IMP.010__**
-
-    If the IT Service Desk receives a report of a security incident, this **shall** be reported to the MoJ Security Team.
-
+**POL.IMP.010**: If the IT Service Desk receives a report of a security incident, this **shall** be reported to the MoJ Security Team.
 
 ## Investigations
 
@@ -263,18 +217,9 @@ The MoJ Security Team is responsible for the investigation of all MoJ IT Securit
 
 If legal or disciplinary proceedings require evidence to be gathered, a forensic investigation may be needed.The [IT Investigations - Planning and Operations Policy](it-investigations-planning-and-operations-policy.md) gives more information.
 
-<a name="__pol.imp.011__"></a>
+**POL.IMP.011**: The MoJ Security Team **shall** maintain documentation on investigations undertaken.
 
--   **__POL.IMP.011__**
-
-    The MoJ Security Team **shall** maintain documentation on investigations undertaken.
-
-<a name="__pol.imp.012__"></a>
-
--   **__POL.IMP.012__**
-
-    Any investigation of an IT Security incident and the events surrounding it **shall** be reported to all relevant stakeholders.
-
+**POL.IMP.012**: Any investigation of an IT Security incident and the events surrounding it **shall** be reported to all relevant stakeholders.
 
 ## System Recovery
 
@@ -282,12 +227,7 @@ Following an IT Security incident, the IT system, services or any compromised as
 
 If MoJ IT systems or services are restored using backups, the systems or services being restored **shall** pre-date the incident and **shall not** contain any weaknesses that could be exploited further.
 
-<a name="__pol.imp.013__"></a>
-
--   **__POL.IMP.013__**
-
-    The IT Security Incident Response Plan **shall** show how an MoJ IT System or service will be restored or recovered following an IT Security incident. The method used to restore or recover an MoJ IT System **shall** be captured in the system's disaster recovery plan.
-
+**POL.IMP.013**: The IT Security Incident Response Plan **shall** show how an MoJ IT System or service will be restored or recovered following an IT Security incident. The method used to restore or recover an MoJ IT System **shall** be captured in the system's disaster recovery plan.
 
 The [IT Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md) has more information.
 
@@ -306,16 +246,12 @@ Lessons learned **should** include action points on how to improve the business 
 
 This report **should** be sent to the SIRO who is responsible for forwarding it to all relevant stakeholders.
 
-<a name="__pol.imp.014__"></a>
+**POL.IMP.014**: For each Medium and High impact IT Security incident, a report **shall** be prepared, to include:
 
--   **__POL.IMP.014__**
-
-    For each Medium and High impact IT Security incident, a report **shall** be prepared, to include:
-
-    -   a description of the incident
-    -   a description of the incident investigation and its outcome
-    -   mitigations and actions taken to resolve the incident
-    -   any lessons learned and recommendations made
+-   a description of the incident
+-   a description of the incident investigation and its outcome
+-   mitigations and actions taken to resolve the incident
+-   any lessons learned and recommendations made
 
 ## Contact details
 

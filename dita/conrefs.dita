@@ -152,7 +152,7 @@
 						<li>CPNI (<xref href="https://www.cpni.gov.uk/" scope="external" format="html">Centre for the Protection of the National Infrastructure</xref>),
 							contact the <ph conref="#conrefs/ciso"/> (<ph conref="#conrefs/securityemail"/>).</li>
 						<li>DSO (Departmental Security Officer),
-							contact the Senior Security Advisor (<ph conref="#conrefs/securityemail"/>).</li>
+							contact the Chief Security Officer (<ph conref="#conrefs/securityemail"/>).</li>
 						<li>GPG6 (Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks),
 							refer to the <ph conref="#conrefs/ncsc"/>,
 							contact <ph conref="#conrefs/securityemail"/>.</li>

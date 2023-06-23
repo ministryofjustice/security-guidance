@@ -24,7 +24,7 @@ The supporting guides are:
 
 ### Policy Statements
 
-This policy refers to Policy Statements, POL.POP.001 to POL.POP.015.
+This policy refers to Policy Statements, **POL.POP.001** to **POL.POP.015**.
 
 **POL.POP.XXX** indicates the specific policy statement to be adhered to.
 
@@ -48,38 +48,21 @@ A forensics investigation **should** be carried out:
 -   if an investigation is requested as part of the IT security incident management process
 -   if requested as part of a leak investigation.
 
-<a name="__pol.pop.001__"></a>
+**POL.POP.001**: Each MoJ IT system or IT domain **shall** be covered by a Forensic Readiness Plan.
 
--   **__POL.POP.001__**
+**POL.POP.002**: Each Forensic Readiness Plan **shall** include:
 
-    Each MoJ IT system or IT domain **shall** be covered by a Forensic Readiness Plan.
+-   an assessment of the risk management benefits
+-   authorisation from the IT Security Team and Senior Information Risk Officer \(SIRO\)
+-   a corresponding IT security incident management plan
 
-<a name="__pol.pop.002__"></a>
+Risk management benefits include risk assessments and cost-benefit-analysis, which will determine if an investigation is viable from a risk and cost perspective.
 
--   **__POL.POP.002__**
-
-    Each Forensic Readiness Plan **shall** include:
-
-    -   an assessment of the risk management benefits
-    -   authorisation from the IT Security Team and Senior Information Risk Officer \(SIRO\)
-    -   a corresponding IT security incident management plan
-    Risk management benefits include risk assessments and cost-benefit-analysis, which will determine if an investigation is viable from a risk and cost perspective.
-
-<a name="__pol.pop.003__"></a>
-
--   **__POL.POP.003__**
-
-    Forensic investigations in support of leak investigations **shall** be requested by the individual responsible for the leak investigation.
-
+**POL.POP.003**: Forensic investigations in support of leak investigations **shall** be requested by the individual responsible for the leak investigation.
 
 ### Integrity of Digital Evidence
 
-<a name="__pol.pop.004__"></a>
-
--   **__POL.POP.004__**
-
-    Each forensic investigation **shall** be guided by the principles set out by the [ACPO guidelines](https://library.college.police.uk/docs/acpo/digital-evidence-2012.pdf) issued by the National Police Chiefs' Council \(NPCC\).
-
+**POL.POP.004**: Each forensic investigation **shall** be guided by the principles set out by the [ACPO guidelines](https://library.college.police.uk/docs/acpo/digital-evidence-2012.pdf) issued by the National Police Chiefs' Council \(NPCC\).
 
 The integrity of data, which **might** subsequently relied upon in court, **shall** be maintained throughout the forensic investigation process.
 
@@ -101,60 +84,23 @@ An external organisation **may** conduct the investigation on behalf of the MoJ.
 
 Each item of evidence collected **shall** be managed according to the relevant Forensic Readiness Plan.
 
-<a name="__pol.pop.005__"></a>
+**POL.POP.005**: Each Forensic Readiness Plan **shall** include a process for the collection and storage of digital evidence, to include provision for where this task is conducted by an external organisation.
 
--   **__POL.POP.005__**
+**POL.POP.006**: All users of an MoJ IT system **shall** be made aware that their access is monitored, and that IT forensic techniques **may** be used to capture evidence as part of an investigation into an IT security incident.
 
-    Each Forensic Readiness Plan **shall** include a process for the collection and storage of digital evidence, to include provision for where this task is conducted by an external organisation.
+**POL.POP.007**: A Forensic Readiness Plan **shall** contain clearly defined procedures and methods for conducting a forensic investigation. The MoJ **shall** be able to resume business operations following an IT security incident. Any forensic investigation **shall** be conducted in a manner that enables the restoration of MoJ IT services.
 
-<a name="__pol.pop.006__"></a>
+**POL.POP.008**: A Forensic Readiness Plan **shall** consider business continuity arrangements to ensure that essential functions are able to be restored. Digital evidence **shall** be handled carefully in order for it to remain admissible.
 
--   **__POL.POP.006__**
+**POL.POP.009**: Each forensic investigation **shall** have a clearly documented chain of custody for all digital evidence.
 
-    All users of an MoJ IT system **shall** be made aware that their access is monitored, and that IT forensic techniques **may** be used to capture evidence as part of an investigation into an IT security incident.
+**POL.POP.010**: The MoJ Security Team is responsible for the integrity of digital evidence. Each forensic investigation **shall** have a named FIO who is responsible for the investigation and management of digital evidence.
 
-<a name="__pol.pop.007__"></a>
+**POL.POP.011**: Any investigative action taken on a piece of evidence **shall** be captured and recorded. This record **shall** include details of the action taken and the person responsible for undertaking that action.
 
--   **__POL.POP.007__**
+**POL.POP.012**: Admissibility of evidence in a court of law depends on how the evidence was captured. Before capturing any evidence, advice **shall** be sought from the MoJ legal team and forensic investigation provider.
 
-    A Forensic Readiness Plan **shall** contain clearly defined procedures and methods for conducting a forensic investigation. The MoJ **shall** be able to resume business operations following an IT security incident. Any forensic investigation **shall** be conducted in a manner that enables the restoration of MoJ IT services.
-
-<a name="__pol.pop.008__"></a>
-
--   **__POL.POP.008__**
-
-    A Forensic Readiness Plan **shall** consider business continuity arrangements to ensure that essential functions are able to be restored. Digital evidence **shall** be handled carefully in order for it to remain admissible.
-
-<a name="__pol.pop.009__"></a>
-
--   **__POL.POP.009__**
-
-    Each forensic investigation **shall** have a clearly documented chain of custody for all digital evidence.
-
-<a name="__pol.pop.010__"></a>
-
--   **__POL.POP.010__**
-
-    The MoJ Security Team is responsible for the integrity of digital evidence. Each forensic investigation **shall** have a named FIO who is responsible for the investigation and management of digital evidence.
-
-<a name="__pol.pop.011__"></a>
-
--   **__POL.POP.011__**
-
-    Any investigative action taken on a piece of evidence **shall** be captured and recorded. This record **shall** include details of the action taken and the person responsible for undertaking that action.
-
-<a name="__pol.pop.012__"></a>
-
--   **__POL.POP.012__**
-
-    Admissibility of evidence in a court of law depends on how the evidence was captured. Before capturing any evidence, advice **shall** be sought from the MoJ legal team and forensic investigation provider.
-
-<a name="__pol.pop.013__"></a>
-
--   **__POL.POP.013__**
-
-    Each Forensic Readiness Plan **shall** include details of how to securely dispose of evidence when it is no longer required. This **shall** conform with [Secure disposal of IT equipment](secure-disposal-of-it-equipment.md).
-
+**POL.POP.013**: Each Forensic Readiness Plan **shall** include details of how to securely dispose of evidence when it is no longer required. This **shall** conform with [Secure disposal of IT equipment](secure-disposal-of-it-equipment.md).
 
 ### Legal Requirements
 
@@ -162,12 +108,7 @@ Investigations of electronically stored information within the MoJ **shall** con
 
 BS 10008:2022 provides information on the collection of electronically stored information as evidence.
 
-<a name="__pol.pop.014__"></a>
-
--   **__POL.POP.014__**
-
-    During each forensic investigation, methods used to capture digital evidence **shall** be in accordance with [BS 10008:2022](https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/).
-
+**POL.POP.014**: During each forensic investigation, methods used to capture digital evidence **shall** be in accordance with [BS 10008:2022](https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/).
 
 ### Reporting and Communication
 
@@ -183,12 +124,7 @@ For major incidents it might be necessary to consider escalating the forensic in
 -   MoJ legal advisors
 -   Other Government Agencies as required
 
-<a name="__pol.pop.015__"></a>
-
--   **__POL.POP.015__**
-
-    Each Forensic Readiness Plan **shall** include the reporting structure and escalation path for internal and external teams and the individual responsible for managing the incident. This **shall** be consistent with the corresponding [IT Security Incident Response Plan and Process Guidea](it-security-incident-response-plan-and-process-guide.md). The forensic investigation process **shall** enable the chain of evidence to be passed to outside agencies, if required.
-
+**POL.POP.015**: Each Forensic Readiness Plan **shall** include the reporting structure and escalation path for internal and external teams and the individual responsible for managing the incident. This **shall** be consistent with the corresponding [IT Security Incident Response Plan and Process Guidea](it-security-incident-response-plan-and-process-guide.md). The forensic investigation process **shall** enable the chain of evidence to be passed to outside agencies, if required.
 
 ### Contact details
 

@@ -11,7 +11,7 @@
 -   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   **Confidential**, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
 -   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   DSO \(Departmental Security Officer\), contact the Senior Security Advisor \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
+-   DSO \(Departmental Security Officer\), contact the Chief Security Officer \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
 -   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
 -   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
 -   IS2 \(HMG Infosec Standard 2 Information Risk Management\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
@@ -48,7 +48,7 @@ For PKI Services in respect of other functions, including RAS VPNs, contact the 
 
 ### Out of Scope
 
-Any information or component, which operates at SECRET or TOP SECRET \(e.g. Private Keys with a classification higher than OFFICIAL-SENSITIVE\) fall outside of the scope of this policy
+Any information or component, which operates at **Secret** or **Top Secret** \(e.g. Private Keys with a classification higher than **Official-Sensitive**\) fall outside of the scope of this policy
 
 Certificates used for authentication of users or organisations used in token or PKI based authentications systems other than 802.1x are out of scope.
 
@@ -96,7 +96,7 @@ This section describes the common PKI policy that applies regardless of the type
 
 -   Senior Information Risk Owner \(SIRO\) – Responsible for all risks to do with the PKI Services. Final point of escalation for incidents.
 
--   Departmental Security Officer \(DSO\) – Responsible for the operational governance of the PKI Services and the report line for the ComSO.
+-   Chief Security Officer \(CSO\) – Responsible for the operational governance of the PKI Services and the report line for the ComSO.
 
 -   Communication Security Officer \(ComSO\) – Responsible for day to day management of the PKI Services, relationship management with CESG and UKKPA \(GCHQ's UK key production authority\), mustering and other formal processes. First point of escalation for incidents and managing initial incident response.
 
@@ -127,7 +127,7 @@ This section describes the common PKI policy that applies regardless of the type
 -   BC / DR
 
 
-1.  The escalation shall be from the person discovering the incident to the local Crypto Custodian, then the MoJ Cypto Custodian, then ComSO, then DSO then SIRO. Escalation to CINRAS and other external bodies shall only be performed by the ComSO, DSO or SIRO.
+1.  The escalation shall be from the person discovering the incident to the local Crypto Custodian, then the MoJ Cypto Custodian, then ComSO, then CSO then SIRO. Escalation to CINRAS and other external bodies shall only be performed by the ComSO, CSO or SIRO.
 
 
 #### User Registration
@@ -158,7 +158,7 @@ This section describes the common PKI policy that applies regardless of the type
 
 3.  Where PKI Services are subordinate to external services, e.g. UKKPA or PSNA, then the audit and accounting regime must comply with the policies of the relevant authority.
 
-4.  Audit reports shall be provided to the DSO and SIRO quarterly.
+4.  Audit reports shall be provided to the CSO and SIRO quarterly.
 
 
 #### Compliance
@@ -281,7 +281,7 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
 
 1.  The Trust Anchor shall only be used for signing Sub-CA or Issuing CA certificates and related CRLs.
 
-2.  Assurance of the Trust Anchor CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For OFFICIAL and OFFICIAL-SENSITIVE material, recognised assurances are stated as follows:
+2.  Assurance of the Trust Anchor CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For **Official** and **Official-Sensitive** material, recognised assurances are stated as follows:
 
 
 -   CAPS Baseline
@@ -328,7 +328,7 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
 
 2.  Any CA shall be patched against all known vulnerabilities for which a vendor-published patch is available, in accordance with the Authority's patching policy. The operating system supporting the CA must be less than five \(5\) years old and must have three \(3\) or more years of vendor support remaining \(5/3 rule\).
 
-3.  Assurance of CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For OFFICIAL and OFFICIAL-SENSITIVE material, assurance preferences are stated as follows:
+3.  Assurance of CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For **Official** and **Official-Sensitive** material, assurance preferences are stated as follows:
 
 
 -   CAPS Baseline
@@ -377,27 +377,27 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
 
 3.  All patches and other minor changes shall be approved by a Crypto Custodian or ComSO and implemented via the change control process.
 
-4.  All changes to a trust anchor or standalone/offline root CA shall also be witnessed and signed off by any two of: Crypto Custodians, ComSO, DSO.
+4.  All changes to a trust anchor or standalone/offline root CA shall also be witnessed and signed off by any two of: Crypto Custodians, ComSO, and CSO.
 
 
 #### Physical Security Policy
 
-1.  The PKI Services shall be located in an HMG Government building or Supplier building with appropriate physical controls for OFFICIAL-SENSITIVE information, as assessed by the Authority's DSO or delegated representative.
+1.  The PKI Services shall be located in an HMG Government building or Supplier building with appropriate physical controls for **Official-Sensitive** information, as assessed by the Authority's CSO or delegated representative.
 
 2.  PKI Services are critical to the security of the information they protect, and therefore should not be housed in open or shared areas. The PKI Services shall be in a room or cage or locked cabinet that has strictly controlled access to named individuals. The strength of the physical controls will depend on the sensitivity of the specific service.
 
-3.  The Trust Anchors and any standalone/offline Root CAs shall be kept in a safe or security cabinet protected by a CPNI Class 2 lock or equivalent when not in use. Only the ComSO and DSO, and their delegated representatives, shall know the combination. The ComSO and DSO shall not have credentials to operate the CA devices.
+3.  The Trust Anchors and any standalone/offline Root CAs shall be kept in a safe or security cabinet protected by a CPNI Class 2 lock or equivalent when not in use. Only the ComSO and CSO, and their delegated representatives, shall know the combination. The ComSO and CSO shall not have credentials to operate the CA devices.
 
 4.  The combination code must be changed at least annually, and immediately on permanent departure of any personnel who know the code.
 
 
 #### Personnel Security Policy
 
-1.  The DSO, ComSO, Crypto Custodians, Administrator\(s\), and individuals holding other key PKI roles shall have been subjected to BPSS checking and shall maintain a current and valid SC clearance as a minimum. Evidence of clearance will be maintained in an up-to-date register in a format agreed with the MoJ and made available to the MoJ.
+1.  The CSO, ComSO, Crypto Custodians, Administrator\(s\), and individuals holding other key PKI roles shall have been subjected to BPSS checking and shall maintain a current and valid SC clearance as a minimum. Evidence of clearance will be maintained in an up-to-date register in a format agreed with the MoJ and made available to the MoJ.
 
 2.  The Crypto Custodians shall have formal training from CESG or MoD on key management and PKI operation.
 
-3.  No other person shall have access to the PKI infrastructure without prior written permission of the DSO.
+3.  No other person shall have access to the PKI infrastructure without prior written permission of the CSO.
 
 
 ### Process Requirements
