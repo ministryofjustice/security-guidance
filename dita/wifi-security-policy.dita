@@ -153,7 +153,7 @@ Providers, as defined previously.</p>
       <p><b>POL.WIFI.034:</b> Tethered connections <ph conref="conrefs.dita#conrefs/policymust"/> be password protected using unique and complex passwords.</p>
       <p><b>POL.WIFI.035:</b> Tethering passwords for <ph conref="conrefs.dita#conrefs/moj"/> devices <ph conref="conrefs.dita#conrefs/policymustnot"/> be shared with non-<ph conref="conrefs.dita#conrefs/moj"/> users.</p>
       <p><b>POL.WIFI.036:</b> Public wifi networks or guest wifi provided at third-party sites <ph conref="conrefs.dita#conrefs/policymust"/> only be used by devices which have suitable encryption for <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/official"/> information. Here, 'suitable' means either an 'always-on full-take' VPN, or that provides appropriate application-level encryption for all services. This is currently (October 2021) limited to Dom1 and PTTP/MoJO laptops and mobile devices.</p>
-      <p><b>POL.WIFI.037:</b> Staff travelling overseas <ph conref="conrefs.dita#conrefs/policymust"/> follow the guidance on <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref> and <xref href="general-advice-on-taking-equipment-overseas.dita" format="dita">taking equipment overseas</xref> regarding the use of wifi or other networks.</p>
+      <p><b>POL.WIFI.037:</b> Staff travelling overseas <ph conref="conrefs.dita#conrefs/policymust"/> follow the guidance on <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref> regarding the use of wifi or other networks.</p>
     </body>
   </topic>
   <topic id="enforcement">

@@ -102,7 +102,6 @@ Remote working refers to all forms of business activity that takes place outside
 -   [Remote Working](remote-working.md)
 -   [Accessing MoJ IT Systems from Overseas](accessing-moj-it-systems-from-overseas.md)
 -   [Security Guidance for Using a Personal Device](personal-devices.md)
--   [General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
 
 ## Enforcement
 

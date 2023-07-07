@@ -6,9 +6,8 @@
     <p>This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
     <p>Some <ph conref="conrefs.dita#conrefs/moj"/> IT Policy documents need you to get a review or approval from a Line Manager or other senior person.
     Do this before taking an action or working in a particular way.</p>
-    <p audience="audience-basic audience-tech">Examples include:
+    <p audience="audience-basic audience-tech">An example is:
     <ul>
-      <li><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita" platform="github">General advice on taking equipment overseas</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/accessing-moj-it-systems-overseas/taking-equipment-overseas/" format="html" scope="external" platform="intranet">Taking equipment overseas</xref>.</li>
       <li><xref href="personal-devices.dita" format="dita" platform="github">Personal Devices</xref><xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/using-a-personal-device" format="html" scope="external" platform="intranet">Personal device use</xref>.</li>
     </ul></p>
     <p>This guidance describes what you should do. The guidance contains steps to follow for <xref href="#steps-to-follow-line-managers" format="dita">Line Managers</xref>, and their <xref href="#steps-to-follow-direct-reports" format="dita">Direct Reports</xref>.</p>

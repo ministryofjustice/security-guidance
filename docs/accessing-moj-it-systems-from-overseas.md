@@ -102,9 +102,8 @@ If there is a problem with your MoJ equipment, it might be necessary to disable 
 
 **Note:** Do not be tempted to use non-MoJ equipment for MoJ business purposes. If you are having problems with MoJ equipment, you might wonder about using non-MoJ devices to carry out a particularly important task, or to respond to an urgent email. This is not [acceptable](acceptable-use.md).
 
-## Related pages
+## Related page
 
--   [General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md)
 -   [Staff security and responsibilities during employment](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment)
 
 ## External websites

@@ -143,11 +143,10 @@
 			<note>Do not be tempted to use non-<ph conref="conrefs.dita#conrefs/moj"/> equipment for <ph conref="conrefs.dita#conrefs/moj"/> business purposes. If you are having problems with <ph conref="conrefs.dita#conrefs/moj"/> equipment, you might wonder about using non-<ph conref="conrefs.dita#conrefs/moj"/> devices to carry out a particularly important task, or to respond to an urgent email. This is not <xref href="acceptable-use.dita" format="dita" platform="html">acceptable</xref><xref href="https://security-guidance.service.justice.gov.uk/acceptable-use/" format="html" scope="external" platform="epub pdf">acceptable</xref>.</note>
 		</body>
 	</topic>
-	<topic id="related-pages">
-		<title>Related pages</title>
+	<topic id="related-page">
+		<title>Related page</title>
 		<body>
 			<ul>
-				<li><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita">General advice on taking equipment overseas</xref></li>
 				<li><xref href="https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment" format="html" scope="external">Staff security and responsibilities during employment</xref></li>
 			</ul>
 		</body>
