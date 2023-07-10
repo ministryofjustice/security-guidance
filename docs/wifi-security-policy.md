@@ -155,7 +155,7 @@ This also has the benefit of being available across HMG Departments and Agencies
 
 **POL.WIFI.036:** Public wifi networks or guest wifi provided at third-party sites **shall** only be used by devices which have suitable encryption for MoJ **Official** information. Here, 'suitable' means either an 'always-on full-take' VPN, or that provides appropriate application-level encryption for all services. This is currently \(October 2021\) limited to Dom1 and PTTP/MoJO laptops and mobile devices.
 
-**POL.WIFI.037:** Staff travelling overseas **shall** follow the guidance on [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md) and [taking equipment overseas](general-advice-on-taking-equipment-overseas.md) regarding the use of wifi or other networks.
+**POL.WIFI.037:** Staff travelling overseas **shall** follow the guidance on [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md) regarding the use of wifi or other networks.
 
 ## Enforcement
 

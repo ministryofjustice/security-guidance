@@ -142,7 +142,6 @@
           <p>These policies are for all users:</p>
           <ul>
             <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref></li>
-            <li><xref href="general-advice-on-taking-equipment-overseas.dita" format="dita">General advice on taking equipment overseas</xref></li>
             <li><xref href="personal-devices.dita" format="dita">Personal Devices</xref></li>
           </ul>
         </body>

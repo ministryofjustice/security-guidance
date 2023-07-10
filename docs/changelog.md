@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2023-07-07-16:45-bst-[taking-equipment-overseas](https:-security-guidance.service.justice.gov.uk-)"></a>
+
+-   **2023-07-07 16:45 BST [Taking equipment overseas](https://security-guidance.service.justice.gov.uk/)**
+
+    Removed general advice topic on taking equipment overseas.
+
 <a name="2023-06-22-17:35-bst-[formatting-and-terminology-updates](https:-security-guidance.service.justice.gov.uk-)"></a>
 
 -   **2023-06-22 17:35 BST [Formatting and terminology updates](https://security-guidance.service.justice.gov.uk/)**

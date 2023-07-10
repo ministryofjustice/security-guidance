@@ -4,9 +4,8 @@ This guidance applies to all staff and contractors who work for the Ministry of 
 
 Some MoJ IT Policy documents need you to get a review or approval from a Line Manager or other senior person. Do this before taking an action or working in a particular way.
 
-Examples include:
+An example is:
 
--   [General advice on taking equipment overseas](general-advice-on-taking-equipment-overseas.md).
 -   [Personal Devices](personal-devices.md).
 
 This guidance describes what you should do. The guidance contains steps to follow for [Line Managers](#steps-to-follow-line-managers), and their [Direct Reports](#steps-to-follow-direct-reports).
