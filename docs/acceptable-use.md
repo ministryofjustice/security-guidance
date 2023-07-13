@@ -115,7 +115,7 @@ All use of MoJ IT resources is monitored and logged. This includes mobile phone 
 
 Some IT resources might be usable away from your usual workplace, such as a laptop. Even outside the office, you must continue to ensure acceptable use of the IT resources.
 
-You should also [ask](accessing-moj-it-systems-from-overseas.md) before taking MoJ IT equipment outside the UK.
+You should also ask before taking MoJ IT equipment outside the UK.
 
 ## Avoid using removable media
 

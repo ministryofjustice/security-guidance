@@ -109,7 +109,7 @@ The MoJ has in place [Remote Working](remote-working.md) guidance that sets out 
 
 Mobile computing is the use of portable equipment such as mobile phone, laptop or tablet, and which supports remote working. Mobile computing equipment provided by the MoJ must be used in line with the [Acceptable Use Policy](acceptable-use-policy.md).
 
-Any request to take MoJ IT equipment overseas must follow the guidance provided in the [Acceptable Use Policy](acceptable-use-policy.md) and the [Accessing MoJ IT Systems From Overseas](accessing-moj-it-systems-from-overseas.md) information.
+Any request to take MoJ IT equipment overseas must follow the guidance provided in the [Acceptable Use Policy](acceptable-use-policy.md) and the information on accessing IT systems from overseas.
 
 ## Malware protection
 

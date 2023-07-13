@@ -33,7 +33,6 @@
     <body>
       <p>Popular links for all users:
         <ul>
-          <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref></li>
           <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">General app guidance</xref></li>
           <li><xref href="government-classification-scheme.dita" format="dita">Government classification scheme</xref></li>
           <li><xref href="remote-working.dita" format="dita">Remote Working</xref></li>
@@ -139,9 +138,8 @@
       <topic id="teleworking">
         <title>Teleworking</title>
         <body>
-          <p>These policies are for all users:</p>
+          <p>This policy is for all users:</p>
           <ul>
-            <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT systems from overseas</xref></li>
             <li><xref href="personal-devices.dita" format="dita">Personal Devices</xref></li>
           </ul>
         </body>

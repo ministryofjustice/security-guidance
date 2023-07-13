@@ -182,7 +182,7 @@ The minimum audit requirement is specified in [CESG GPG No.13](https://www.ncsc.
 
 ### Baseline Control Set and implementation of controls objectives
 
-Table 2 defines the minimum controls which **must be** implemented to achieve the baseline controls set out in [HMG IA Standard Numbers 1 & 2 – Supplement: Technical Risk Assessment and Risk Treatment](https://www.ncsc.gov.uk/guidance/technical-risk-assessment-and-risk-treatment-is1-2-supplement).
+Table 2 defines the minimum controls which **must be** implemented to achieve the baseline controls set out in [HMG IA Standard Numbers 1 &amp; 2 – Supplement: Technical Risk Assessment and Risk Treatment](https://www.ncsc.gov.uk/guidance/technical-risk-assessment-and-risk-treatment-is1-2-supplement).
 
 |Control|Baseline Control|Notes|
 |-------|----------------|-----|
@@ -449,7 +449,7 @@ The audit regime which forms part of the protective marking solution [must be re
 
 The following table provides a template to capture [all the accounting items to be collected](#baseline-control-set-and-implementation-of-controls-objectives) in an ICT system, its source and alerting details.
 
-|PMC|\#|Cat|Ref|Recordable events|Include in report|Alert on event|Method|Notes in Environment PM policy|Accounting items \(defined in GPG13\)|Sources and notes|Logging application requirement|Tags|Predicate|Specific Events: Audit|Specific Events: Errors & Warnings|Specific Events: Protocol errors|
+|PMC|\#|Cat|Ref|Recordable events|Include in report|Alert on event|Method|Notes in Environment PM policy|Accounting items \(defined in GPG13\)|Sources and notes|Logging application requirement|Tags|Predicate|Specific Events: Audit|Specific Events: Errors &amp; Warnings|Specific Events: Protocol errors|
 | | | | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | | | | |

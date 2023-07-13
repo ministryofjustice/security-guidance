@@ -12,7 +12,7 @@ Version 1.0 – 2nd June 2021
 
 [1.1 Authorisation 3](#authorisation)
 
-[1.2 Distribution & Review 3](#distribution-review)
+[1.2 Distribution &amp; Review 3](#distribution-review)
 
 [1.3 Revision History 3](#revision-history)
 
@@ -49,7 +49,7 @@ Version 1.0 – 2nd June 2021
 |||||
 |||||
 
-## Distribution & Review
+## Distribution &amp; Review
 
 |Name|Role|
 |----|----|
@@ -170,7 +170,7 @@ Policies are subject to annual review with approval and authorisation from the H
  More here [https://www.gov.uk/government/organisations/ministry-of-justice/about](https://www.gov.uk/government/organisations/ministry-of-justice/about)
 
 |
-|HMCTS|HM Courts & Tribunals Service is responsible for the administration of criminal, civil and family courts and tribunals in England and Wales.
+|HMCTS|HM Courts &amp; Tribunals Service is responsible for the administration of criminal, civil and family courts and tribunals in England and Wales.
 
  HMCTS is an executive agency, sponsored by the Ministry of Justice
 

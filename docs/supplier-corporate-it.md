@@ -35,7 +35,7 @@ MoJ data **shall not** be processed within a legal framework that is incompatibl
 
 #### Working overseas
 
-Supplier staff are not prohibited from working overseas while processing **Official** MoJ data, subject to implementing and maintaining acceptable information controls and governance. In particular, the controls and governance **shall** align and comply with MoJ policy on [remote working](remote-working.md) and [working overseas](accessing-moj-it-systems-from-overseas.md).
+Supplier staff are not prohibited from working overseas while processing **Official** MoJ data, subject to implementing and maintaining acceptable information controls and governance. In particular, the controls and governance **shall** align and comply with MoJ policy on [remote working](remote-working.md) and working overseas.
 
 When working overseas, it might be necessary to limit access to information while the user travels. Alternatively, it might be appropriate to use secondary, temporary accounts, to avoid primary account compromise. Contact the [Security team](mailto:security@justice.gov.uk) for assistance regarding acceptable security assurance when working overseas.
 

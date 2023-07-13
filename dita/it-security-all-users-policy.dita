@@ -147,10 +147,7 @@
       <p>Any request to take <ph conref="conrefs.dita#conrefs/moj"/> IT equipment overseas must follow the guidance provided in the
         <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="acceptable-use-policy.dita" format="dita">Acceptable
           Use Policy</xref></ph><ph audience="audience-suppliers">Acceptable Use Policy</ph></ph><ph product="policy">Acceptable Use Policy</ph>
-          and the <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing
-            <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Overseas</xref></ph><ph audience="audience-suppliers">Accessing
-              <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Overseas</ph></ph><ph product="policy">Accessing
-                <ph conref="conrefs.dita#conrefs/moj"/> IT Systems From Overseas</ph> information.</p>
+          and the information on accessing IT systems from overseas.</p>
     </body>
   </topic>
   <topic id="malware-protection" audience="audience-suppliers audience-tech">

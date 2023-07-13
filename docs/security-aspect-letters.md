@@ -159,7 +159,7 @@ Internal within Authority:
 
 Action:
 
--   Authority Security & Privacy
+-   Authority Security &amp; Privacy
 
 
 Information:

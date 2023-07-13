@@ -8,7 +8,7 @@ To ask for help from a security consultant, send an email to: [security@justice.
 
 ## About the team
 
-The Security Team is part of Ministry of Justice \(MoJ\) Security & Privacy. The MoJ Chief Information Security Officer leads the team.
+The Security Team is part of Ministry of Justice \(MoJ\) Security &amp; Privacy. The MoJ Chief Information Security Officer leads the team.
 
 The team provides help and guidance around cyber security matters, such as:
 

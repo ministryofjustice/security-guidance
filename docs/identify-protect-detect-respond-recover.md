@@ -47,15 +47,15 @@ DETECT is the core standard to detect when attacks are taking, or have taken, pl
 
 RESPOND is the core standard to define the minimum of how organisations should respond to attacks and requires:
 
--   development and maintenance of an incident response & management plan \(including reporting, roles and responsibilities\);
+-   development and maintenance of an incident response &amp; management plan \(including reporting, roles and responsibilities\);
 
 -   development and maintenance of communication plans, particularly to relevant supervisory bodies, law enforcement and responsible organisations such as the NCSC;
 
--   regular testing of the incident response & management plan;
+-   regular testing of the incident response &amp; management plan;
 
 -   assessment and implementation of mitigating measures on discovery of an incident \(successful attack\); and
 
--   post-incident reviews to ensure feedback into the iteration of the incident response & management plan.
+-   post-incident reviews to ensure feedback into the iteration of the incident response &amp; management plan.
 
 
 ### RECOVER
@@ -66,7 +66,7 @@ RECOVER is the core standard to define the minimum of how organisations should r
 
 -   timely restoration of the service to normal operation \(a plan to do so, and testing of that plan\);
 
--   from DETECT & RESPOND, immediately implementing controls to ensure the same issue cannot arise in the same way again, ensuring systematic vulnerabilities are proportional remediated.
+-   from DETECT &amp; RESPOND, immediately implementing controls to ensure the same issue cannot arise in the same way again, ensuring systematic vulnerabilities are proportional remediated.
 
 
 ## Contact details

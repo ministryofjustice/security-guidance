@@ -8,7 +8,7 @@ Suppliers are expected to create, maintain and demonstrate a mature and consider
 
 ## Accreditation
 
-The MoJ no longer accredits new systems or suppliers \(as defined by CESG Information Assurance Standard 1&2\).
+The MoJ no longer accredits new systems or suppliers \(as defined by CESG Information Assurance Standard 1&amp;2\).
 
 The MoJ maintains accreditations where committed to by existing contract.
 

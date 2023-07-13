@@ -4,7 +4,7 @@
 
 The [UK Public Sector DNS Service](https://www.gov.uk/guidance/introducing-the-uk-public-sector-dns) from NCSC is part of the [Active Cyber Defence](https://www.ncsc.gov.uk/blog-post/active-cyber-defence-tackling-cyber-attacks-uk) suite of services.
 
-The service acts as a typical DNS resolver however includes a Response Policy Zone \(RPZ\) that is managed by NCSC and blocks resolution attempts to known-bad malicious DNS record \(such as those used for phishing, malware distribution or command & control\).
+The service acts as a typical DNS resolver however includes a Response Policy Zone \(RPZ\) that is managed by NCSC and blocks resolution attempts to known-bad malicious DNS record \(such as those used for phishing, malware distribution or command &amp; control\).
 
 ## Where to use the service
 

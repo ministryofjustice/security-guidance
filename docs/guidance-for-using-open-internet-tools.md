@@ -167,7 +167,7 @@ For further help about aspects of using OITs within the MoJ, contact:
 |Subject|Contact|
 |-------|-------|
 |Classification and Security|[MoJ Cyber Security team](mailto:security@justice.gov.uk)|
-|Storage and Data Retention|[Departmental Library & Records Management Services \(DLRMS\)](mailto:kim@justice.gov.uk)|
+|Storage and Data Retention|[Departmental Library &amp; Records Management Services \(DLRMS\)](mailto:kim@justice.gov.uk)|
 |Information Assurance|[Compliance and Information Assurance Branch](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/)|
 |Personal Data|[Disclosure Team](mailto:data.access@justice.gov.uk)|
 

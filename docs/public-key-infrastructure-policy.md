@@ -446,19 +446,19 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
 
 The following are FITS PKI Policy specific references used within this document.
 
-|Ref:|Title & Location|
+|Ref:|Title &amp; Location|
 |1|HMG Security Policy Framework \(SPF\) v11.0 Nov 2013 [https://www.gov.uk/government/publications/security-policy-framework](https://www.gov.uk/government/publications/security-policy-framework)|
-|2|CESG Cryptographic Standards – Cryptographic Mechanisms, Algorithms & Protocols v1.0 July 2010|
+|2|CESG Cryptographic Standards – Cryptographic Mechanisms, Algorithms &amp; Protocols v1.0 July 2010|
 |3|CESG Good Practice Guide 13 - Protective Monitoring for HMG ICT Systems v1.7 – Oct 2012|
 |4|HMG IA Standard No.4 - Management of Cryptographic Systems v5.3 – Oct 2013|
 |5|HMG IA Standard No.4 - Supplement 1 - Roles and Responsibilities v3.0 - Apr 2013|
 |6|HMG IA Standard No.4 - Supplement 2 - Concepts and Terminology of Cryptography v1.0 - Apr 2011|
 |7|HMG IA Standard No.4 - Supplement 4 - Labelling of Cryptographic Items v2.0 – Nov 2012|
 |8|HMG IA Standard No.4 - Supplement 5 - Account Management v1.0 - Apr 2011|
-|9|HMG IA Standard No.4 - Supplement 6 - Personnel & Physical Security of Crypto Items v3.0 - Nov 2012|
+|9|HMG IA Standard No.4 - Supplement 6 - Personnel &amp; Physical Security of Crypto Items v3.0 - Nov 2012|
 |10|HMG IA Standard No.4 - Supplement 7 - Accounting of Cryptographic Items v1.0 - Apr 2011|
 |11|HMG IA Standard No.4 - Supplement 8 - Movement of Cryptographic Items v1.0 - Apr 2011|
-|12|HMG IA Standard No.4 - Supplement 9 - Destruction & Disposal of Cryptographic Items v2.0 - Apr 2012|
+|12|HMG IA Standard No.4 - Supplement 9 - Destruction &amp; Disposal of Cryptographic Items v2.0 - Apr 2012|
 |13|HMG IA Standard No.4 - Supplement 10 – Compliance v2.0 – Oct 2013|
 |14|HMG IA Standard No.4 - Supplement 11 - Incident Reporting for Cryptographic Items v2.0 - Apr 2012|
 |15|HMG IA Standard No.4 - Supplement 13 - Assurance Standards v4.0 – Oct 2013|
