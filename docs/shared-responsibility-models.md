@@ -22,7 +22,7 @@ MoJ has shared controls which is jointly responsible for with the third-party, f
 
 -   Configuration Management - AWS maintains the configuration of its infrastructure devices, but a customer is responsible for configuring their own guest operating systems, databases, and applications.
 
--   Awareness & Training - AWS trains AWS employees, but a customer must train their own employees.
+-   Awareness &amp; Training - AWS trains AWS employees, but a customer must train their own employees.
 
 
 ### MoJ specific

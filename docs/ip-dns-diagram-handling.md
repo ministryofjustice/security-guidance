@@ -1,4 +1,4 @@
-# IP addresses, DNS information & architecture documentation
+# IP addresses, DNS information &amp; architecture documentation
 
 ## OFFICIAL-SENSITIVE? Not by default
 
@@ -14,7 +14,7 @@ IP addresses of connecting clients \(for example, the IP address of the computer
 
 ### Information via email
 
-IP addresses, DNS information & architecture documentation can generally be sent via email services that enforce adequate in-transit integrity/encryption without any additional security protections such as the use of ZIP files.
+IP addresses, DNS information &amp; architecture documentation can generally be sent via email services that enforce adequate in-transit integrity/encryption without any additional security protections such as the use of ZIP files.
 
 ## Feedback
 

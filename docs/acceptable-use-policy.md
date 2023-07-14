@@ -164,7 +164,7 @@ Email is a major source of malware, and a route into the MoJ for criminal organi
 
 Remote access is provided to MoJ systems and services, allowing Users access from offsite and home locations to connect in. The main methods of access are either via a laptop or other mobile device. Normally, remote access is to a protected MoJ IT system. Users **should** be aware of the security controls and procedures of the devices and systems being used, as well as any applicable general physical security considerations. This includes any restriction on the carriage of such devices, as they **might** contain HMG protectively marked data, or HMG cryptographic material.
 
-MoJ security maintains a [list of countries](accessing-moj-it-systems-from-overseas.md) where carriage and use of remote access devices is permitted.
+MoJ security maintains a list of countries where carriage and use of remote access devices is permitted.
 
 Further details can be found in the [Remote Working](remote-working.md) guidance.
 

@@ -4,4 +4,3 @@
 
 -   [Vetting and clearance policy](vetting-and-clearance-policy.md)
 
-

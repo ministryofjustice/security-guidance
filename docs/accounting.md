@@ -6,7 +6,7 @@ Any access, and subsequent activity, to any system or data **must** employ adequ
 
 Accounting information must be stored in a way that it cannot be readily manipulated, particularly by the authenticated entity.
 
-## Log data security & governance
+## Log data security &amp; governance
 
 Log data can include Personal Data or inadvertent sensitive data \(when an application or system is unexpectedly verbose\) and must be adequately protected and governed in a comparable way to the original system's data.
 

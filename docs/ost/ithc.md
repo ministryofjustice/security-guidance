@@ -46,9 +46,7 @@ There are many types of penetration tests that can be applied, including but not
 If the application or service you intend to test is hosted within a cloud platform service offering, such as Azure and AWS \(Amazon Web Service\), there are Rules of Engagement that you should be aware of. Information can be found for the following:
 
 -   Microsoft Azure: [https://www.microsoft.com/en-us/msrc/pentest-rules-of-engagement](https://www.microsoft.com/en-us/msrc/pentest-rules-of-engagement)
-
 -   AWS: [https://aws.amazon.com/security/penetration-testing/](https://aws.amazon.com/security/penetration-testing/)
-
 
 Further to this, the MoJ AWS Cloud Platform Team have produced additional guidance that can be accessed here: [https://user-guide.cloud-platform.service.justice.gov.uk/documentation/other-topics/security-testing-and-ithc.html\#security-testing-and-ithc](https://user-guide.cloud-platform.service.justice.gov.uk/documentation/other-topics/security-testing-and-ithc.html#security-testing-and-ithc)
 

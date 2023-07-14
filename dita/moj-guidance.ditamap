@@ -56,7 +56,6 @@ if an audience attribute is present, then only matching content is included.
 		</topichead>
 		<topichead audience="audience-basic audience-tech">
 			<topicmeta audience="audience-basic audience-tech"><navtitle>Teleworking</navtitle></topicmeta>
-			<topicref href="accessing-moj-it-systems-from-overseas.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="personal-devices.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
 	</topichead>

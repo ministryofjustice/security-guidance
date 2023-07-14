@@ -162,7 +162,7 @@
     <body>
       <p>Some IT resources might be usable <ph platform="github">away from your usual workplace</ph><xref href="https://intranet.justice.gov.uk/documents/2017/12/remote-working-and-mobile-computing-security-guide-november-2017.pdf" format="pdf" scope="external" platform="intranet">away from your usual workplace</xref>, such as a laptop.
       Even outside the office, you must continue to ensure acceptable use of the IT resources.</p>
-      <p>You should also <xref href="accessing-moj-it-systems-from-overseas.dita" format="dita" platform="github">ask</xref><ph platform="intranet">ask</ph> before taking <ph conref="conrefs.dita#conrefs/moj"/> IT equipment outside the UK.</p>
+      <p>You should also ask before taking <ph conref="conrefs.dita#conrefs/moj"/> IT equipment outside the UK.</p>
     </body>
   </topic>
   <topic id="avoid-using-removable-media">

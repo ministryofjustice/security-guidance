@@ -100,7 +100,7 @@ For further all the security related information required, please refer to:
 |
 |Security Incident and General Reporting Procedures|-   All requests for IT support and all reports of IT failures must be logged with the IT Service Desk.
 -   Any incident involving a suspected or known security breach involving personnel, hardware, software, communications, document or physical security must be reported immediately to the IT System Manager and the \[ORGANISATION\] Security Team.
--   Any loss of IT equipment, \[ORGANISATION\] or personal data should be [reported](#incidents). Report also to the Users' line manager, the [Security team](mailto:security@justice.gov.uk) and to the Data Access & Compliance Unit \(DACU\).
+-   Any loss of IT equipment, \[ORGANISATION\] or personal data should be [reported](#incidents). Report also to the Users' line manager, the [Security team](mailto:security@justice.gov.uk) and to the Data Access &amp; Compliance Unit \(DACU\).
 
 To ensure a quick response all emails must be marked Urgent and have 'Data Incident' in the title/subject heading.
 
@@ -124,14 +124,14 @@ By signing I acknowledge that I have read the Security Operating Procedures \(Sy
 
 ## General enquiries, including theft and loss
 
-**Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
+**Technology Service Desk** - including DOM1/Quantum, and Digital &amp; Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
 -   Tel: 0800 917 5148
 -   [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
 
-**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
+**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital &amp; Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
 
-**HMPPS Information & security:**
+**HMPPS Information &amp; security:**
 
 -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
 -   Tel: 0203 334 0324

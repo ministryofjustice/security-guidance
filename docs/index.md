@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - /accessing-moj-it-systems-from-overseas/
+  - /general-advice-on-taking-equipment-overseas/
+---
 # Cyber and Technical Security Guidance
 
 ## Summary
@@ -15,7 +20,7 @@ Technical users include:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 7 July 2023.
+**Note:** This guidance is dated: 13 July 2023.
 
 ## Change log
 
@@ -27,7 +32,6 @@ The changes are also available as [RSS](rss.xml) or [Atom](atom.xml) feeds.
 
 Popular links for all users:
 
--   [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
 -   [General app guidance](general-user-video-and-messaging-apps-guidance.md)
 -   [Government classification scheme](government-classification-scheme.md)
 -   [Remote Working](remote-working.md)
@@ -46,7 +50,7 @@ Technical users. Contains detailed technical information, together with all user
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 7 August 2023.
+The offline versions of this guidance are time-limited, and are not valid after 13 August 2023.
 
 ## Security culture
 
@@ -106,9 +110,8 @@ These policies are for all users:
 
 #### Teleworking
 
-These policies are for all users:
+This policy is for all users:
 
--   [Accessing MoJ IT systems from overseas](accessing-moj-it-systems-from-overseas.md)
 -   [Personal Devices](personal-devices.md)
 
 ### Human resource security
@@ -423,8 +426,8 @@ These policies are for technical users:
 -   [Data Destruction: Contract Clauses - Long Format \(Appendix\)](data-destruction-contract-clauses-long-format-appendix.md)
 -   [Data Destruction: Contract Clauses - Short Format](data-destruction-contract-clauses-short-format.md)
 -   [Data Destruction: Instruction and Confirmation Letter](data-destruction-instruction-and-confirmation-letter.md)
--   [Data Security & Privacy Lifecycle Expectations](data-security-and-privacy-lifecycle.md)
--   [Data Security & Privacy Triage Standards](data-security-and-privacy-triage-standards.md)
+-   [Data Security &amp; Privacy Lifecycle Expectations](data-security-and-privacy-lifecycle.md)
+-   [Data Security &amp; Privacy Triage Standards](data-security-and-privacy-triage-standards.md)
 
 #### Information security reviews
 

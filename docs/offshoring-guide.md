@@ -32,7 +32,7 @@
 
 This document is the Ministry of Justice \(MoJ\) IT Information Assurance \(IA\) Policy and Guidance for offshoring of MoJ Information Systems, development, or other support services. The document states the IA requirements that must be complied with for offshore developments, and presents considerations to be taken into account when deciding whether to offshore an element of MoJ capability.
 
-This document has not been developed in isolation. It draws heavily and intentionally on other guidance, particularly HMG Good Practice Guide \(GPG\) 6: Outsourcing & Offshoring: Managing the Security Risks. This document collates the high-level points from the CESG and CPNI guidance, and interprets these in the context of the MoJ.
+This document has not been developed in isolation. It draws heavily and intentionally on other guidance, particularly HMG Good Practice Guide \(GPG\) 6: Outsourcing &amp; Offshoring: Managing the Security Risks. This document collates the high-level points from the CESG and CPNI guidance, and interprets these in the context of the MoJ.
 
 The target audience for this document includes MoJ personnel with a requirement to make offshoring decisions; and MoJ suppliers who are considering, or currently engaged in, delivery of MoJ capabilities with an offshore element.
 
@@ -261,7 +261,7 @@ Every offshoring decision must be made on a case-by-case basis, after balancing 
 
 ### REQUIREMENT 1 and REQUIREMENT 2
 
-#### Project Scoping & Supplier Selection
+#### Project Scoping &amp; Supplier Selection
 
 MoJ Project Team:
 
@@ -321,7 +321,7 @@ MoJ Accreditor/IA:
 -   Provide review support, remedial input and recommendations to the MoJ Project Team.
 
 
-#### In-Service & Beyond
+#### In-Service &amp; Beyond
 
 MoJ Service Management:
 
@@ -339,7 +339,7 @@ MoJ Accreditor/IA:
 
 ### REQUIREMENT 3
 
-#### Project Scoping & Supplier Selection
+#### Project Scoping &amp; Supplier Selection
 
 Supplier:
 
@@ -395,7 +395,7 @@ MoJ Accreditor/IA:
 -   Advise physical and logical audit of assets, and remedial activity.
 
 
-#### In-Service & Beyond
+#### In-Service &amp; Beyond
 
 Supplier:
 
@@ -414,7 +414,7 @@ MoJ Accreditor/IA:
 
 ### REQUIREMENT 4 and REQUIREMENT 5
 
-#### Project Scoping & Supplier Selection
+#### Project Scoping &amp; Supplier Selection
 
 Supplier:
 
@@ -473,7 +473,7 @@ MoJ Project Team:
 -   Deal with any emerging requirements on a case-by-case basis, through engagement with the Accreditor, the IA Team, DACU and MoJ Legal advisors, and Information Asset Owners.
 
 
-#### In-Service & Beyond
+#### In-Service &amp; Beyond
 
 Supplier:
 
@@ -487,7 +487,7 @@ MoJ Service Management:
 
 ### REQUIREMENT 6
 
-#### Project Scoping & Supplier Selection
+#### Project Scoping &amp; Supplier Selection
 
 Supplier:
 
@@ -555,7 +555,7 @@ MoJ Accreditor/IA
 -   Provide support for any required review of the supplier risk assessment, including offshoring considerations, in line with contractual requirements.
 
 
-#### In-Service & Beyond
+#### In-Service &amp; Beyond
 
 Supplier:
 
@@ -578,7 +578,7 @@ MoJ Accreditor/IA
 
 ### REQUIREMENT 7
 
-#### Project Scoping & Supplier Selection
+#### Project Scoping &amp; Supplier Selection
 
 Supplier:
 
@@ -630,7 +630,7 @@ MoJ Accreditor/IA:
 -   Provide support to the MoJ Project Team on offshoring, including direction for audit, remediation and emerging requirements as necessary.
 
 
-#### In-Service & Beyond
+#### In-Service &amp; Beyond
 
 Supplier:
 
@@ -649,7 +649,7 @@ MoJ Accreditor/IA:
 
 ### REQUIREMENT 8
 
-#### Project Scoping & Supplier Selection
+#### Project Scoping &amp; Supplier Selection
 
 Supplier:
 
@@ -691,7 +691,7 @@ All:
 -   As per the previous [Requirement 7](#requirement-7).
 
 
-#### In-Service & Beyond
+#### In-Service &amp; Beyond
 
 All:
 
@@ -700,7 +700,7 @@ All:
 
 ### REQUIREMENT 9 and REQUIREMENT 10
 
-#### Project Scoping & Supplier Selection
+#### Project Scoping &amp; Supplier Selection
 
 Supplier:
 
@@ -750,7 +750,7 @@ MoJ Accreditor/IA:
 -   Support test review and remedial activities.
 
 
-#### In-Service & Beyond
+#### In-Service &amp; Beyond
 
 Supplier:
 
@@ -769,7 +769,7 @@ MoJ Accreditor/IA:
 
 ### REQUIREMENT 11
 
-#### Project Scoping & Supplier Selection
+#### Project Scoping &amp; Supplier Selection
 
 Supplier:
 
@@ -836,7 +836,7 @@ MoJ Accreditor/IA
 -   Ensure that the MoJ Project Team are made aware of any change in Threat Assessment relating to Landed Resources, and of how this will impact the project.
 
 
-#### In-Service & Beyond
+#### In-Service &amp; Beyond
 
 Supplier:
 

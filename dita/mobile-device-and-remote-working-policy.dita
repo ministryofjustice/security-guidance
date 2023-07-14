@@ -216,7 +216,6 @@
     <body>
       <ul>
         <li><xref href="remote-working.dita" format="dita">Remote Working</xref></li>
-        <li><xref href="accessing-moj-it-systems-from-overseas.dita" format="dita">Accessing <ph conref="conrefs.dita#conrefs/moj"/> IT Systems from Overseas</xref></li>
         <li><xref href="personal-devices.dita" format="dita">Security Guidance for Using a Personal Device</xref></li>
         <!-- FIXME -->
         <!--

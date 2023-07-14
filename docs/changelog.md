@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2023-07-13-17:00-bst-[accessing-moj-it-systems-from-overseas](https:-security-guidance.service.justice.gov.uk-)"></a>
+
+-   **2023-07-13 17:00 BST [Accessing MoJ IT systems from overseas](https://security-guidance.service.justice.gov.uk/)**
+
+    Removed topic on accessing MoJ IT systems from overseas.
+
 <a name="2023-07-07-16:45-bst-[taking-equipment-overseas](https:-security-guidance.service.justice.gov.uk-)"></a>
 
 -   **2023-07-07 16:45 BST [Taking equipment overseas](https://security-guidance.service.justice.gov.uk/)**

@@ -8,7 +8,7 @@ A 'secret' **not** the same as a **Secret** classification.
 
 All secrets **must** be adequately protected from a loss of confidentiality or integrity. Secrets, much like other confidential data, must be controlled so they can only be viewed or influenced by authorised parties.
 
-## Application & infrastructure secrets
+## Application &amp; infrastructure secrets
 
 All secrets should be adequately protected and suitably stored.
 

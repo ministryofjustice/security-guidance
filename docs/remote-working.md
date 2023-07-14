@@ -124,14 +124,14 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 ### General enquiries, including theft and loss
 
-**Technology Service Desk** - including DOM1/Quantum, and Digital & Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
+**Technology Service Desk** - including DOM1/Quantum, and Digital &amp; Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
 -   Tel: 0800 917 5148
 -   [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
 
-**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital & Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
+**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital &amp; Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
 
-**HMPPS Information & security:**
+**HMPPS Information &amp; security:**
 
 -   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
 -   Tel: 0203 334 0324
@@ -149,7 +149,7 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 **Data Protection Team**
 
--   Email: [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk)\>
+-   Email: [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk)&gt;
 -   Slack: `#security_privacy_and_live_service_team`
 -   Intranet: [https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/)
 

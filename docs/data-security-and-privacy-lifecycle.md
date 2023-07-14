@@ -1,4 +1,4 @@
-# Data Security & Privacy Lifecycle Expectations
+# Data Security &amp; Privacy Lifecycle Expectations
 
 Following are a series of data security and privacy expectations of Ministry of Justice \(MoJ\) projects at various stages in their lifecycle.
 
@@ -20,7 +20,7 @@ During this stage of the project lifecycle, internal and external \(Cabinet Offi
 
 In particular:
 
--   \>That the majority of compliance considerations have been addressed at this stage.
+-   &gt;That the majority of compliance considerations have been addressed at this stage.
 -   That the development team can say how their work ensures compliance.
 -   That the technical architecture choices can be tested against data security and privacy requirements. As an example, blockchain technologies might not be acceptable as they can prevent automated removal of information when it is no longer required.
 

@@ -79,7 +79,7 @@ A good habit is to check your account privacy settings once a month or so. Infor
 -   [Twitter](https://help.twitter.com/en/safety-and-security/how-to-make-twitter-private-and-public)
 -   [WhatsApp](https://faq.whatsapp.com/general/security-and-privacy/how-to-change-your-privacy-settings/?lang=en)
 
-For example, in WhatsApp, to prevent someone adding you a group without your knowledge, change your settings: **Settings** \> **Account** \> **Privacy** \> **Groups** \> **My Contacts**. This change means that only people you know \(your contacts\) can add you to a group.
+For example, in WhatsApp, to prevent someone adding you a group without your knowledge, change your settings: **Settings** &gt; **Account** &gt; **Privacy** &gt; **Groups** &gt; **My Contacts**. This change means that only people you know \(your contacts\) can add you to a group.
 
 ### Limit access to your accounts
 
