@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2023-08-30-17:45-bst-[clearance-requirements](https:-security-guidance.service.justice.gov.uk-)"></a>
+
+-   **2023-08-30 17:45 BST [Clearance requirements](https://security-guidance.service.justice.gov.uk/)**
+
+    Added details about minimum user clearance requirements.
+
 <a name="2023-08-09-17:35-bst-[build-tooling-updates](https:-security-guidance.service.justice.gov.uk-)"></a>
 
 -   **2023-08-09 17:35 BST [Build tooling updates](https://security-guidance.service.justice.gov.uk/)**

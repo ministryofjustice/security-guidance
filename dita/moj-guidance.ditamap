@@ -63,6 +63,10 @@ if an audience attribute is present, then only matching content is included.
 	<topichead audience="audience-basic audience-tech">
 		<topicmeta><navtitle>Human resource security</navtitle></topicmeta>
 		<topichead>
+			<topicmeta><navtitle>Prior to employment</navtitle></topicmeta>
+			<topicref href="minimum-user-clearance-requirements-guide.dita" type="topic"/>
+		</topichead>
+		<topichead>
 			<topicmeta><navtitle>During employment</navtitle></topicmeta>
 			<topicref href="training-and-education.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
@@ -503,6 +507,7 @@ if an audience attribute is present, then only matching content is included.
 			</relcell>
 			<relcell>
 				<topicref href="managing-user-access-guide.dita"/>
+				<topicref href="minimum-user-clearance-requirements-guide.dita"/>
 				<topicref href="multi-factor-authentication-mfa-guide.dita"/>
 				<topicref href="passwords.dita"/>
 				<topicref href="privileged-account-management-guide.dita"/>
