@@ -84,7 +84,7 @@ It is recommended that an approximate timeline of 8 weeks is considered in your 
 
 Changes to scope can be reviewed and considered. However, there is a risk that this will affect delivery dates, ITHC Provider availability, and end quote price.
 
-In scenarios where the formally agreed test dates are impacted, charges might be incurred for delays and cancellations. This is detailed within the Delayed/Cancellation Charges table on the [Test cancellations and delays](test-cancellations-and-delays.md) page.
+In scenarios where the formally agreed test dates are impacted, charges might be incurred for delays and cancellations.
 
 It is strongly recommended that ITHC scope is understood and confirmed as much as possible, and prior to submission.
 
