@@ -35,6 +35,7 @@
         <ul>
           <li><xref href="general-user-video-and-messaging-apps-guidance.dita" format="dita">General app guidance</xref></li>
           <li><xref href="government-classification-scheme.dita" format="dita">Government classification scheme</xref></li>
+          <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Requirements Guide</xref></li>
           <li><xref href="remote-working.dita" format="dita">Remote Working</xref></li>
       </ul>
     </p>
@@ -148,6 +149,15 @@
     <topic id="human-resource-security">
       <title>Human resource security</title>
       <body/>
+      <topic id="prior-to-employment">
+        <title>Prior to employment</title>
+        <body>
+          <p>This policy is for all users:</p>
+          <ul>
+            <li><xref href="minimum-user-clearance-requirements-guide.dita" format="dita">Minimum User Clearance Levels Guide</xref></li>
+          </ul>
+        </body>
+      </topic>
       <topic id="during-employment">
         <title>During employment</title>
         <body>

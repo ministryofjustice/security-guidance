@@ -16,6 +16,8 @@ This guide explains how the Ministry of Justice \(MoJ\) manages access to its IT
 
 [Managing User Access Guide](managing-user-access-guide.md)
 
+[Minimum User Clearance Requirements Guide](minimum-user-clearance-requirements-guide.md)
+
 [Multi-Factor Authentication \(MFA\) Guide](multi-factor-authentication-mfa-guide.md)
 
 [Passwords](passwords.md)
