@@ -594,7 +594,6 @@
           <ul>
             <li><xref href="infrastructure-system-accreditation.dita" format="dita">Infrastructure and system accreditation</xref></li>
             <li><xref href="ost/ithc.md" format="markdown">IT Health Checks</xref></li>
-            <li><xref href="ost/test-cancellations-and-delays.md" format="markdown">IT Health Check - Test cancellations and delays</xref></li>
           </ul>
         </body>
       </topic>

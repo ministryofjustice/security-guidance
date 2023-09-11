@@ -2,9 +2,15 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
-<a name="2023-08-30-17:45-bst-[clearance-requirements](https:-security-guidance.service.justice.gov.uk-)"></a>
+<a name="2023-09-11-17:45-bst-[update-ithc-details](https:-security-guidance.service.justice.gov.uk-ost-ithc-)"></a>
 
--   **2023-08-30 17:45 BST [Clearance requirements](https://security-guidance.service.justice.gov.uk/)**
+-   **2023-09-11 17:45 BST [Update ITHC details](https://security-guidance.service.justice.gov.uk/ost/ithc/)**
+
+    Updates to information about IT Health Checks.
+
+<a name="2023-08-30-17:45-bst-[clearance-requirements](https:-security-guidance.service.justice.gov.uk-minimum-user-clearance-requirements-guide-)"></a>
+
+-   **2023-08-30 17:45 BST [Clearance requirements](https://security-guidance.service.justice.gov.uk/minimum-user-clearance-requirements-guide/)**
 
     Added details about minimum user clearance requirements.
 
