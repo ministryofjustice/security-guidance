@@ -2,6 +2,12 @@
 
 This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
 
+<a name="2023-09-20-17:45-bst-[fixed-broken-link](https:-security-guidance.service.justice.gov.uk-)"></a>
+
+-   **2023-09-20 17:45 BST [Fixed broken link](https://security-guidance.service.justice.gov.uk/)**
+
+    Corrected broken link for more cookie information.
+
 <a name="2023-09-11-17:45-bst-[update-ithc-details](https:-security-guidance.service.justice.gov.uk-ost-ithc-)"></a>
 
 -   **2023-09-11 17:45 BST [Update ITHC details](https://security-guidance.service.justice.gov.uk/ost/ithc/)**
