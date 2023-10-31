@@ -20,7 +20,7 @@ Technical users include:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 11 September 2023.
+**Note:** This guidance is dated: 30 October 2023.
 
 ## Change log
 
@@ -51,7 +51,7 @@ Technical users. Contains detailed technical information, together with all user
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 11 October 2023.
+The offline versions of this guidance are time-limited, and are not valid after 30 November 2023.
 
 ## Security culture
 
