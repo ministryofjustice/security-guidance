@@ -1,14 +1,14 @@
 # Data sovereignty
 
-The Ministry of Justice \(MoJ\) Senior Security Adviser, Chief Information Security Officer \(CISO\), Chief Technical Officer \(CTO\) and Data Protection Officer \(DPO\) have issued this guidance for MoJ business units and third-party partners across the MoJ supported by Digital &amp; Technology and/or within scope of the MoJ Data Protection Officer \(DPO\) to explain the MoJ's position on 'data sovereignty' \(where the processing of data, including personal data, may take place\).
+The Senior Security Adviser, Chief Information Security Officer \(CISO\), Chief Technical Officer \(CTO\) and Data Protection Officer \(DPO\) have issued this guidance for business units and third-party partners across the supported by Digital &amp; Technology and/or within scope of the Data Protection Officer \(DPO\) to explain the 's position on 'data sovereignty' \(where the processing of data, including personal data, may take place\).
 
 ## Summary
 
-At **Official** level, subject to adequate, proportionate and standard information security controls, the Department is content to process, and allow third-party partners to process, data \(including personal data\) outside the UK.
+At level, subject to adequate, proportionate and standard information security controls, the Department is content to process, and allow third-party partners to process, data \(including personal data\) outside the UK.
 
-This statement includes the **Sensitive** \(marked as **Official-Sensitive**\) handling caveat advising that additional care may be required; it is not a separate classification and any data / information is subject to the same rules as **Official**.
+This statement includes the \(marked as \) handling caveat advising that additional care may be required; it is not a separate classification and any data / information is subject to the same rules as .
 
-The MoJ does not by default or routine require 'UK only hosting' or 'UK only services' for data privacy, data protection or information security reasons.
+The does not by default or routine require 'UK only hosting' or 'UK only services' for data privacy, data protection or information security reasons.
 
 ## Data sovereignty questions
 
@@ -29,23 +29,15 @@ For example, Amazon Web Services has UK data centres but is nevertheless is a US
 
 The 'where' data is processed is the combination of the answers to the previous questions, and is much more than just where the servers and hard drives are physically located \(data hosting\).
 
-As part of routine due diligence, including fulfilling legal obligations under the General Data Protection Regulation \(GDPR\) and the Data Protection Act \(2018\), where data is processed in other legal jurisdictions the MoJ is to ensure that adequate safeguards, including where relevant Data Protection Impact Assessments \(DPIAs\), are in place to ensure data is secure and that the rights and freedoms of any Data Subjects are maintained.
+As part of routine due diligence, including fulfilling legal obligations under the General Data Protection Regulation \(GDPR\) and the Data Protection Act \(2018\), where data is processed in other legal jurisdictions the is to ensure that adequate safeguards, including where relevant Data Protection Impact Assessments \(DPIAs\), are in place to ensure data is secure and that the rights and freedoms of any Data Subjects are maintained.
 
 ## UK and the European Union
 
-The departure of the UK from the European Union will not lead to a change in the MoJ's position.
+The departure of the UK from the European Union will not lead to a change in the 's position.
 
-The MoJ has no plans to inshore data \(i.e. limiting and / or returning data to the UK\) for privacy or security reasons, nor is the MoJ asking its partners \(for example, commercial suppliers\) to do so.
+The has no plans to inshore data \(i.e. limiting and / or returning data to the UK\) for privacy or security reasons, nor is the asking its partners \(for example, commercial suppliers\) to do so.
 
 ## Where to get help
 
-In the first instance, contact the MoJ's Data Protection Officer - [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk).
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+In the first instance, contact the 's Data Protection Officer - .
 

@@ -1,6 +1,6 @@
 # Long format clause
 
-The current draft of the Ministry of Justice \(MoJ\) commodity long format data destruction clause.
+The current draft of the commodity long format data destruction clause.
 
 `Highlighted` words indicate potential requirement for contextual change, requirement of definition and so on.
 
@@ -20,8 +20,4 @@ The current draft of the Ministry of Justice \(MoJ\) commodity long format data 
 
     6.  The `Supplier` shall notify the `Authority` within `24 (twenty-four) hours` of identification of unsuccessful or incomplete data destruction.
 
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

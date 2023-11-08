@@ -1,31 +1,10 @@
 # Public Key Infrastructure Policy
 
-## Legacy information
-
-**Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-**Note:** This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
-
--   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   **Confidential**, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   DSO \(Departmental Security Officer\), contact the Chief Security Officer \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS2 \(HMG Infosec Standard 2 Information Risk Management\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   ITSO \(Information Technology Security Officer\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   **Restricted**, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
 ## Introduction
 
 ### Scope
 
-Within the Ministry of Justice \(MoJ\), there are a number of requirements for Public Key Infrastructure \(PKI\) services to support confidentiality, integrity and authentication. This document defines the mandatory policy requirements for PKI use.
+Within the , there are a number of requirements for Public Key Infrastructure \(PKI\) services to support confidentiality, integrity and authentication. This document defines the mandatory policy requirements for PKI use.
 
 The policy contained in this document refers specifically to PKI Services used for the following functions:
 
@@ -44,11 +23,11 @@ The policy contained in this document refers specifically to PKI Services used f
 -   User certificates for digital signature functions
 
 
-For PKI Services in respect of other functions, including RAS VPNs, contact the appropriate system Accreditor or MoJ Crypto Custodian.
+For PKI Services in respect of other functions, including RAS VPNs, contact the appropriate system Accreditor or Crypto Custodian.
 
 ### Out of Scope
 
-Any information or component, which operates at **Secret** or **Top Secret** \(e.g. Private Keys with a classification higher than **Official-Sensitive**\) fall outside of the scope of this policy
+Any information or component, which operates at or \(e.g. Private Keys with a classification higher than \) fall outside of the scope of this policy
 
 Certificates used for authentication of users or organisations used in token or PKI based authentications systems other than 802.1x are out of scope.
 
@@ -106,7 +85,7 @@ This section describes the common PKI policy that applies regardless of the type
 
 -   Administrators – Responsible for configuration, maintenance and support of the PKI services
 
--   Auditors – Internal and external auditors including UKKPA and MoJ Information Assurance who ensure that the PKI Services are running within specification and comply with legal and regulatory requirements, HMG Policy and MoJ Policy.
+-   Auditors – Internal and external auditors including UKKPA and MoJ Information Assurance who ensure that the PKI Services are running within specification and comply with legal and regulatory requirements, HMG Policy and Policy.
 
 
 #### Incident Response
@@ -127,7 +106,7 @@ This section describes the common PKI policy that applies regardless of the type
 -   BC / DR
 
 
-1.  The escalation shall be from the person discovering the incident to the local Crypto Custodian, then the MoJ Cypto Custodian, then ComSO, then CSO then SIRO. Escalation to CINRAS and other external bodies shall only be performed by the ComSO, CSO or SIRO.
+1.  The escalation shall be from the person discovering the incident to the local Crypto Custodian, then the Cypto Custodian, then ComSO, then CSO then SIRO. Escalation to CINRAS and other external bodies shall only be performed by the ComSO, CSO or SIRO.
 
 
 #### User Registration
@@ -136,14 +115,14 @@ This section describes the common PKI policy that applies regardless of the type
 
 2.  **Important:** Interim access pending security clearance must not be allowed under any circumstances. The impact of allowing such access in the event that the individual is not subsequently cleared would be to revoke and reissue all certificates signed by the PKI Services.
 
-3.  When clearance is confirmed and identity is validated by MoJ, the user shall be enrolled in the services required and shall be issued with the relevant credentials for access.
+3.  When clearance is confirmed and identity is validated by , the user shall be enrolled in the services required and shall be issued with the relevant credentials for access.
 
 4.  Users shall be removed from the systems and their credentials revoked as soon as they leave the role related to the PKI Services. The relevant HR Processes must be reviewed, and updated if necessary, to account for this policy.
 
 
 #### Authentication
 
-1.  All Users of the PKI Services shall be authenticated beyond reasonable doubt for the purposes of legal admissibility of evidence in accordance with BS 10008. Password strength, complexity and expiry rules must comply with [MoJ Password requirements](passwords.md).
+1.  All Users of the PKI Services shall be authenticated beyond reasonable doubt for the purposes of legal admissibility of evidence in accordance with BS 10008. Password strength, complexity and expiry rules must comply with [Password requirements](passwords.md).
 
 2.  Access to Root CA Services must be subject to multi-factor authentication and subject to two-man rule.
 
@@ -240,7 +219,7 @@ The design of PKI systems must ensure:
 
 #### General Operational Policy
 
-1.  The MoJ Crypto Custodian must be informed of any IT system deployed in support of PKI Services including:
+1.  The Crypto Custodian must be informed of any IT system deployed in support of PKI Services including:
 
 
 -   Certificate Authority devices and software
@@ -254,9 +233,9 @@ The design of PKI systems must ensure:
 -   Certificate Revocation List services, including OCSP responders
 
 
-1.  The MoJ Crypto Custodian reserves the right to audit equipment and processes used in the delivery of PKI Services. The MoJ Crypto Custodian requires that all cryptographic components are managed and processed in accordance with HMG Standard IAS4.
+1.  The Crypto Custodian reserves the right to audit equipment and processes used in the delivery of PKI Services. The Crypto Custodian requires that all cryptographic components are managed and processed in accordance with HMG Standard IAS4.
 
-2.  Any remedial action required by the MoJ Crypto Custodian, to meet the requirements of HMG IAS4. must be agreed and implemented within reasonable timescales set by the MoJ Crypto Custodian. "Reasonable timescales" means with sufficient time for the supplier to assess the remediation impact, acquire materials for compliance, test the remediation, and to schedule and deploy the remediation on the production equipment with minimum disruption to MoJ business.
+2.  Any remedial action required by the Crypto Custodian, to meet the requirements of HMG IAS4. must be agreed and implemented within reasonable timescales set by the Crypto Custodian. "Reasonable timescales" means with sufficient time for the supplier to assess the remediation impact, acquire materials for compliance, test the remediation, and to schedule and deploy the remediation on the production equipment with minimum disruption to business.
 
 3.  The Crypto Custodian may require key escrow of private keys for lawful purposes. The Crypto Custodian will specify the means by which key material may be exported, stored and transported.
 
@@ -281,7 +260,7 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
 
 1.  The Trust Anchor shall only be used for signing Sub-CA or Issuing CA certificates and related CRLs.
 
-2.  Assurance of the Trust Anchor CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For **Official** and **Official-Sensitive** material, recognised assurances are stated as follows:
+2.  Assurance of the Trust Anchor CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For and material, recognised assurances are stated as follows:
 
 
 -   CAPS Baseline
@@ -305,11 +284,11 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
 
 5.  The PKI Customer shall at all times have at least two nominated representatives registered with the RA that can act on behalf of the Customer and are authorised to submit CSRs, CRRs and perform other formal tasks.
 
-6.  The PKI Customer must notify the RA when any of their nominated representatives are no longer authorised to access the services. Individuals will become unauthorised if their security clearance is expired or revoked, if their employment is terminated, if they are under investigation for malpractice, or if they no longer work on the MoJ account.
+6.  The PKI Customer must notify the RA when any of their nominated representatives are no longer authorised to access the services. Individuals will become unauthorised if their security clearance is expired or revoked, if their employment is terminated, if they are under investigation for malpractice, or if they no longer work on the account.
 
 7.  The RA must notify the appropriate Crypto Custodian for potential escalation in respect of the incidents specified at para 2.4.3.6 or any other relevant security incident.
 
-8.  Certificates issued to PKI Customers must be revoked when the business relationship is ended. It may be permitted to transfer ownership of certificates in some cases where responsibility is transferred to another party, e.g. contract novation, but each case must be individually agreed with the MoJ Crypto Custodian.
+8.  Certificates issued to PKI Customers must be revoked when the business relationship is ended. It may be permitted to transfer ownership of certificates in some cases where responsibility is transferred to another party, e.g. contract novation, but each case must be individually agreed with the Crypto Custodian.
 
 9.  Auditing and accounting of RA functions must be carried out in accordance with HMG Good Practice Guide 13. The integrity and confidentiality of accounting logs must maintained to British Standard BS 10008 as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a court of law.
 
@@ -317,7 +296,7 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
 
 11. The CSR/CRR form shall have fields for all mandatory information and attachment of a public key in PKCS\#10 format.
 
-12. The CSR/CRR shall be approved by one person \(e.g. ComSO\) and actioned by another \(e.g. Crypto Custodian\), except in cases where this process is automated. For automated process, e.g. automated generation of device certificates for EUCS client devices, the MoJ Crypto Custodian and ComSo must approve the automation process.
+12. The CSR/CRR shall be approved by one person \(e.g. ComSO\) and actioned by another \(e.g. Crypto Custodian\), except in cases where this process is automated. For automated process, e.g. automated generation of device certificates for EUCS client devices, the Crypto Custodian and ComSo must approve the automation process.
 
 13. The CA shall distribute certificates in PKCS \#7 format to the requestor and VA as appropriate.
 
@@ -328,7 +307,7 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
 
 2.  Any CA shall be patched against all known vulnerabilities for which a vendor-published patch is available, in accordance with the Authority's patching policy. The operating system supporting the CA must be less than five \(5\) years old and must have three \(3\) or more years of vendor support remaining \(5/3 rule\).
 
-3.  Assurance of CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For **Official** and **Official-Sensitive** material, assurance preferences are stated as follows:
+3.  Assurance of CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For and material, assurance preferences are stated as follows:
 
 
 -   CAPS Baseline
@@ -382,7 +361,7 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
 
 #### Physical Security Policy
 
-1.  The PKI Services shall be located in an HMG Government building or Supplier building with appropriate physical controls for **Official-Sensitive** information, as assessed by the Authority's CSO or delegated representative.
+1.  The PKI Services shall be located in an HMG Government building or Supplier building with appropriate physical controls for information, as assessed by the Authority's CSO or delegated representative.
 
 2.  PKI Services are critical to the security of the information they protect, and therefore should not be housed in open or shared areas. The PKI Services shall be in a room or cage or locked cabinet that has strictly controlled access to named individuals. The strength of the physical controls will depend on the sensitivity of the specific service.
 
@@ -393,7 +372,7 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
 
 #### Personnel Security Policy
 
-1.  The CSO, ComSO, Crypto Custodians, Administrator\(s\), and individuals holding other key PKI roles shall have been subjected to BPSS checking and shall maintain a current and valid SC clearance as a minimum. Evidence of clearance will be maintained in an up-to-date register in a format agreed with the MoJ and made available to the MoJ.
+1.  The CSO, ComSO, Crypto Custodians, Administrator\(s\), and individuals holding other key PKI roles shall have been subjected to BPSS checking and shall maintain a current and valid SC clearance as a minimum. Evidence of clearance will be maintained in an up-to-date register in a format agreed with the and made available to the .
 
 2.  The Crypto Custodians shall have formal training from CESG or MoD on key management and PKI operation.
 
@@ -475,8 +454,4 @@ The following are FITS PKI Policy specific references used within this document.
 |22|HMG IA Standard No. 5 – Secure Sanitisation – v4.0 – April 2011|
 |23|ITU-T Recommendation X.509 – Public-key and Attribute certificate frameworks \[10/2012\) [http://www.itu.int/ITU-T/recommendations/rec.aspx?rec=11735](http://www.itu.int/ITU-T/recommendations/rec.aspx?rec=11735)|
 |24|[RFC 2986 - Certification Request Syntax Specification – November 2000](http://datatracker.ietf.org/doc/rfc2986/)|
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

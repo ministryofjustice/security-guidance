@@ -2,15 +2,15 @@
 
 ## Summary
 
-This document sets out the security responsibilities you have as the person ultimately responsible for a bespoke technology or digital service \("the technology owner"\) in the Ministry of Justice \(MoJ\).
+This document sets out the security responsibilities you have as the person ultimately responsible for a bespoke technology or digital service \("the technology owner"\) in the .
 
 The list of items below can look intimidating at first glance. However, depending on the nature of your service or technology, some of these items might be quite small.
 
-Every MoJ Service **shall** have an identified person responsible for performing each of the activities listed below.
+Every Service have an identified person responsible for performing each of the activities listed below.
 
-One person **may** be responsible for multiple items, provided they have the appropriate skills and training to perform each duty satisfactorily. The Product or Service Owner is responsible for ensuring these activities are allocated and carried out.
+One person be responsible for multiple items, provided they have the appropriate skills and training to perform each duty satisfactorily. The Product or Service Owner is responsible for ensuring these activities are allocated and carried out.
 
-Whilst these activities might be performed by a supplier or sub-contractor as part of delivering the service, as Product or Service Owner you remain responsible for ensuring that contract\(s\) require your supplier\(s\) to perform these activities in accordance with [MoJ Security Policies](cyber-and-technical-security-guidance.md).
+Whilst these activities might be performed by a supplier or sub-contractor as part of delivering the service, as Product or Service Owner you remain responsible for ensuring that contract\(s\) require your supplier\(s\) to perform these activities in accordance with [Security Policies](cyber-and-technical-security-guidance.md).
 
 The activities do not necessarily need to be performed within your team – for example, you might 'outsource' them to another area such as the Justice Digital Security Operations Centre. You remain responsible for ensuring there is a clear understanding of who is doing what in these relationships.
 
@@ -28,7 +28,7 @@ Establishing and implementing default secure configurations for all aspects of t
 
 ### Asset Management
 
-All IT assets used in the delivery of the service **shall** be tracked in an asset management solution, which **shall** be routinely checked for accuracy.
+All IT assets used in the delivery of the service be tracked in an asset management solution, which be routinely checked for accuracy.
 
 ### ID and Access Management
 
@@ -90,5 +90,5 @@ Supporting and educating users on how they access and use your service securely.
 
 ### More Information
 
-For assistance, please contact your local cyber consultant in the first instance. For queries on policy and guidance email [security@justice.gov.uk](mailto:security@justice.gov.uk)
+For assistance, please contact your local cyber consultant in the first instance. For queries on policy and guidance email
 

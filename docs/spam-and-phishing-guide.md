@@ -1,6 +1,6 @@
 # Spam and Phishing Guide
 
-This guide outlines the technical implementations that technical users should make to keep Ministry of Justice \(MoJ\) systems secure.
+This guide outlines the technical implementations that technical users should make to keep systems secure.
 
 **Related information**  
 
@@ -11,7 +11,7 @@ This guide outlines the technical implementations that technical users should ma
 
 ### Spam and phishing
 
-To protect against spam and phishing attacks, the MoJ makes use of Government services such as National Cyber Security Centre's Suspicious Email Reporting Service and any other services that are appropriate.
+To protect against spam and phishing attacks, the makes use of Government services such as National Cyber Security Centre's Suspicious Email Reporting Service and any other services that are appropriate.
 
 ### Spoofing attacks
 
@@ -23,7 +23,7 @@ To mitigate spoofing attacks, use techniques such as:
 
 ## Protecting a parked domain
 
-DMARC **shall** also be implemented on non-email sending domains. This is because the domains might be used for email spoofing and phishing.
+DMARC also be implemented on non-email sending domains. This is because the domains might be used for email spoofing and phishing.
 
 Once parked domains are protected, configure them to renew automatically by default.
 
@@ -43,13 +43,9 @@ Compromised email systems are often used to send spam messages and conduct phish
 
 Report any account takeovers or email compromise [as an incident](reporting-an-incident.md).
 
-Following a report, incident managers should refer to the [IT Security Incident Response Plan and Process Guide](it-security-incident-response-plan-and-process-guide.md) for further guidance.
-
 ## Accidental disclosure
 
 Not all security threats are intentional. Authorised users might accidentally send proprietary information to unintended recipients using email. Report these [as an incident](reporting-an-incident.md).
-
-Following a report, incident managers should refer to the [IT Security Incident Response Plan and Process Guide](it-security-incident-response-plan-and-process-guide.md) for further guidance.
 
 ## Man-in-the-Middle attacks
 
@@ -59,16 +55,16 @@ Mitigate MITM attacks by:
 
 -   Configuring [Secure Multipurpose Internet Mail Extension \(S/MIME\)](https://en.wikipedia.org/wiki/S/MIME) to encrypt emails and provide unique digital certificates.
 -   Implementing certificate based authentication for all end user machines and devices, for example printers with email services enabled.
--   Using TLS certificates which use the HTTPS protocol to provide a secure connection between the MoJ and third parties when using webmail portals.
+-   Using TLS certificates which use the HTTPS protocol to provide a secure connection between the and third parties when using webmail portals.
 -   Using SMTPS \(SMTP encrypted with TLS\) rather than unencrypted SMTP.
 
 ## Mail Check
 
-[Mail Check](https://www.ncsc.gov.uk/information/mailcheck) is an NCSC cyber defence service. It enables email administrators to improve and maintain the security of email domains by preventing spoofing attacks. All domains operated by, or on behalf of, the MoJ, **shall** be added to Mail Check, regardless of whether the domain is expected to send or receive emails. All future contracts and agreements with third party suppliers **shall** make this a requirement.
+[Mail Check](https://www.ncsc.gov.uk/information/mailcheck) is an NCSC cyber defence service. It enables email administrators to improve and maintain the security of email domains by preventing spoofing attacks. All domains operated by, or on behalf of, the , be added to Mail Check, regardless of whether the domain is expected to send or receive emails. All future contracts and agreements with third party suppliers make this a requirement.
 
-Mail Check **should** be used only if the email domain name provided is publicly routable from the Internet using the Simple Mail Transfer Protocol \(SMTP\).
+Mail Check be used only if the email domain name provided is publicly routable from the Internet using the Simple Mail Transfer Protocol \(SMTP\).
 
-To add domains to the MoJ's Mail Check service subscription, contact the NCSC Mail Check team via [Security team](mailto:security@justice.gov.uk).
+To add domains to the 's Mail Check service subscription, contact the NCSC Mail Check team via .
 
 ## Email sandboxing
 
@@ -77,13 +73,13 @@ Sandboxing provides an additional layer of protection. Any email that contains U
 -   Mirrors the end user's computer, and provides a secure space to interact with and analyse potentially harmful communications.
 -   Allows developers and technical architects to be proactive in minimising the effect of a threat.
 
-For further guidance on implementing sandboxing, including which products you might use, contact the [Security team](mailto:security@justice.gov.uk).
+For further guidance on implementing sandboxing, including which products you might use, contact the .
 
 ## URL link rewriting
 
 URL link rewriting is a technique used to detect malicious links in emails. Links in emails are actively scanned. They are then rewritten to point to an Advanced Threat Protection gateway, where two checks occur:
 
-1.  Determine if the link is deny-listed by the MoJ or has been previously identified as malicious.
+1.  Determine if the link is deny-listed by the or has been previously identified as malicious.
 2.  Scan downloadable content available at the link address.
 
 After the checks have completed, the user continues to the URL or is blocked from access, depending on the results of the checks. If access is blocked, URL rewriting is used to provide an explanation and contact details for additional help.
@@ -94,35 +90,16 @@ To provide protection against email security threats, implement the following co
 
 -   Implement anti-malware software. Refer to the [Malware Protection Guidance](malware-protection-guide-introduction.md) for more information.
 -   Install only the minimal mail server services required. Eliminate known vulnerabilities through patches, configuration, and upgrades. Refer to the [Vulnerability Scanning and Patch Management Guide](vulnerability-scanning-and-patch-management-guide.md) for more information.
--   Implement external email warning messages to insert text \(usually in the subject line\) into an email when it is identified as coming from outside of the MoJ.
+-   Implement external email warning messages to insert text \(usually in the subject line\) into an email when it is identified as coming from outside of the .
 -   Develop email security management plans to define best practices for employees.
 -   Use SMTP alert policies to track malware activity and data loss incidents from anti-malware software.
--   Ensure there is no unnecessary detail on the MoJ website or webmail, by considering what visitors need to know with the aim of reducing the threat of spear phishing.
+-   Ensure there is no unnecessary detail on the website or webmail, by considering what visitors need to know with the aim of reducing the threat of spear phishing.
 -   Restrict auto-forwarding. Refer to the [Secure Email Transfer Guide](secure-email-transfer-guide.md) for more information.
 -   Restrict delegate access. Refer to the [Email Security Guide](email-security-guide.md) for more information.
-
-**Note:** An external email service is any service that is outside the `gov.uk` domain.
 
 The [Email Authentication Guide](email-authentication-guide.md) provides further detail on the email authentication controls mentioned in this guide.
 
 ## Reporting spam or malicious emails
 
-If you think your email service provision has been susceptible to spam or a virus, report it immediately to the IT Service Desk on 0800 917 5148 as an IT security incident. Please refer to the [IT Security Incident Management Policy](it-security-incident-management-policy.md) for further guidance.
-
-## Incidents
-
-**Note:** If you work for an agency or ALB, refer to your local incident reporting guidance.
-
-**Security Team**
-
--   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
--   Slack: `#security`
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+If you think your email service provision has been susceptible to spam or a virus, report it immediately to the on as an IT security incident. Please refer to the [IT Security Incident Management Policy](it-security-incident-management-policy.md) for further guidance.
 

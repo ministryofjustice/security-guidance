@@ -1,6 +1,6 @@
 # Data Security &amp; Privacy Triage Standards
 
-Following are a series of common area guides from Ministry of Justice \(MoJ\) Digital &amp; Technology Triage Standards.
+Following are a series of common area guides from Digital &amp; Technology Triage Standards.
 
 ## Purposeful Capture of Data
 
@@ -21,7 +21,7 @@ Ensure that:
 
 ## Amending/Deleting Data
 
-EU GDPR &amp; the UK Data Protection Act \(2018\) requires that individuals agree to the handling and processing of their personal information. Many systems will need processes, to change, prevent, or stop handling personal information. The process might be have to be manual. Quite apart from GDPR/DPA18, these capabilities are generally useful for all MoJ systems.
+EU GDPR &amp; the UK Data Protection Act \(2018\) requires that individuals agree to the handling and processing of their personal information. Many systems will need processes, to change, prevent, or stop handling personal information. The process might be have to be manual. Quite apart from GDPR/DPA18, these capabilities are generally useful for all systems.
 
 Ensure that:
 
@@ -38,7 +38,7 @@ Ensure that:
 
 ## Security / Architecture Considerations
 
-Much of the MoJ estate architecture is ready for GDPR/DPA18, or transformation is already in progress. Current projects must also incorporate data security and privacy mechanisms for GDPR/DPA18 compliance. Guidance from technical architects is essential to help projects. Ensure that:
+Much of the estate architecture is ready for GDPR/DPA18, or transformation is already in progress. Current projects must also incorporate data security and privacy mechanisms for GDPR/DPA18 compliance. Guidance from technical architects is essential to help projects. Ensure that:
 
 -   You know where data for the system is stored. Ask which countries and jurisdictions hold the data. Check that the storage complies with GDPR/DPA18 requirements.
 
@@ -140,8 +140,4 @@ In particular:
 
 -   Schedule and run regular data mapping exercises. These ensure full and current understanding of data flows to and from any organisations or systems that depend on the information.
 
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

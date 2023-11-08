@@ -18,7 +18,7 @@ The following security controls should be implemented to create a baseline secur
 -   Ensuring all remote access methods are encrypted.
 -   Enabling the capability to rapidly disconnect a user from accessing an information system, and/or revoking further remote access.
 
-✔ Implement the following access control and security measures to protect Ministry of Justice \(MoJ\) wired and wireless networks:
+✔ Implement the following access control and security measures to protect wired and wireless networks:
 
 -   Restrict a user's ability to change wired and wireless configurations.
 -   Use strong encryption and authentication on both wired and wireless networks.
@@ -91,7 +91,7 @@ The following list identifies what should not be done, and what activities shoul
 
 **DO**
 
-The following list describes what should be in place to create secure software development and configuration environments within the MoJ.
+The following list describes what should be in place to create secure software development and configuration environments within the .
 
 ✔ If you are developing or maintaining systems or applications, use a development lifecycle and associated tooling which enforces security by design. Examples include:
 
@@ -134,8 +134,4 @@ The following list outlines the actions that should not be undertaken in relatio
 ✖ [Use live data](using-live-data-for-testing-purposes.md), including personal data, in system or application testing. Exceptions must be approved by the relevant SIRO and, if the live data contains personal data, the Data Protection Officer.
 
 ✖ Install or execute off-the-shelf software without ensuring appropriate support and security arrangements and agreements are in place.
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

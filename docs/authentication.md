@@ -8,7 +8,7 @@ Any access to any data **must** employ adequate authentication techniques to ide
 
 Where appropriate, passwords should be used as a knowledge-based factor for authentication.
 
-The Ministry of Justice \(MoJ\) has published [password guidance](passwords.md).
+The has published [password guidance](passwords.md).
 
 ## Named individual accounts
 
@@ -39,7 +39,7 @@ Token-based methods are preferred over static private key methods.
 
 Where appropriate, multi-factor authentication \(MFA\) should be used as a knowledge-based factor for authentication. MFA is sometimes referred to as Two-Factor Authentication \(2FA\).
 
-MoJ guidance on MFA is available [here](multi-factor-authentication-mfa-guide.md).
+guidance on MFA is available [here](multi-factor-authentication-mfa-guide.md).
 
 ### MFA for Administrators
 
@@ -64,8 +64,4 @@ For example, traffic originating from a perceived known IP address/range does no
 IP addresses access control lists \(and/or techniques such as HTTP basic authentication\) should be used to restrict access to non-production systems you do not wish general users to access.
 
 H/T [https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20](https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20)
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

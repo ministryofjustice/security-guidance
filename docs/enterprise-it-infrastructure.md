@@ -37,7 +37,7 @@ These event types must be logged and forward:
 
 Log Collection Principle\(s\): 1, 2, 3, 6
 
-Productivity suites \(such as Google Workspace or Microsoft Office 365\) must create and forward all security-related log data \(as defined by the vendor\), including unsuccessful Authentication and Authorisation events.
+Productivity suites \(such as or Microsoft Office 365\) must create and forward all security-related log data \(as defined by the vendor\), including unsuccessful Authentication and Authorisation events.
 
 For example, within an Office 365 tenancy with Conditional Access enabled and set to require multi-factor authentication when a user device is perceived to be outside of the corporate network and such prompt is made and the outcome of that challenge.
 
@@ -158,8 +158,4 @@ Where a mobile device management solution is used and end-user devices register/
 1.  Enrolment or un-enrolment event type
 2.  End-user device identifier\(s\), such as client IP address and/or MAC address and/or assigned DHCP name
 3.  End-user account name \(if applicable\)
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

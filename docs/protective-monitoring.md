@@ -7,15 +7,15 @@
 
 ## About this document
 
-**Note:** This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk)
+**Note:** This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project:
 
-This policy applies to all staff and contractors who work for the Ministry of Justice \(MoJ\).
+This policy applies to all staff and contractors who work for the .
 
-This document is the MoJ IT Security – Protective Monitoring Guide. It is designed to help protect MoJ ICT systems by providing implementation guidance for a protective monitoring solution.
+This document is the IT Security – Protective Monitoring Guide. It is designed to help protect ICT systems by providing implementation guidance for a protective monitoring solution.
 
 ### How to use this document
 
-The purpose of this document is to provide guidance on developing a protective monitoring schema for a MoJ ICT system. It must be read in conjunction with [CESG Good Practice Guide No.13 - Protective Monitoring for HMG ICT Systems](https://www.ncsc.gov.uk/guidance/protective-monitoring-hmg-ict-systems-gpg-13).
+The purpose of this document is to provide guidance on developing a protective monitoring schema for a ICT system. It must be read in conjunction with [CESG Good Practice Guide No.13 - Protective Monitoring for HMG ICT Systems](https://www.ncsc.gov.uk/guidance/protective-monitoring-hmg-ict-systems-gpg-13).
 
 **Note:** This document is a supplement to [CESG Good Practice Guide No.13 - Protective Monitoring for HMG ICT Systems](https://www.ncsc.gov.uk/guidance/protective-monitoring-hmg-ict-systems-gpg-13), not a replacement.
 
@@ -33,15 +33,15 @@ In order to meet that requirement, the SPF stipulates that ICT systems must:
 
 > Put in place a proportionate risk based suite of technical policies and controls including: ... IV. Protective Monitoring;
 
-Policy statements on protective monitoring are covered in [IT Security – Technical Controls Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/), while this document sets out the MoJ guidance for its implementation.
+Policy statements on protective monitoring are covered in [IT Security – Technical Controls Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/), while this document sets out the guidance for its implementation.
 
 ### Scope
 
-This guide applies to all MoJ ICT systems including ICT systems hosted by third party suppliers on behalf of the MoJ.
+This guide applies to all ICT systems including ICT systems hosted by third party suppliers on behalf of the .
 
 ### Demonstration of Compliance
 
-The [CESG Information Assurance Maturity Model \(IAMM\)](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) sets out the minimum maturity level Government departments should attain. Protective monitoring is captured as a basic requirement in Level 1 of this model, which the MoJ will need to demonstrate compliance with in their IAMM return to the Cabinet Office.
+The [CESG Information Assurance Maturity Model \(IAMM\)](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) sets out the minimum maturity level Government departments should attain. Protective monitoring is captured as a basic requirement in Level 1 of this model, which the will need to demonstrate compliance with in their IAMM return to the Cabinet Office.
 
 ## Basics of protective monitoring
 
@@ -453,12 +453,4 @@ The following table provides a template to capture [all the accounting items to 
 | | | | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | | | | |
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

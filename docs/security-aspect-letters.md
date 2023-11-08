@@ -6,9 +6,9 @@ redirect_from:
 
 ## Purpose
 
-The Ministry of Justice \(MoJ\) will issue a Security Aspect Letter \(SAL\) where appropriate.
+The will issue a Security Aspect Letter \(SAL\) where appropriate.
 
-SALs are generally not required at **Official** but MoJ may issue a SAL where it is optimal to do so or to supersede existing SALs from the previous classification scheme.
+SALs are generally not required at but may issue a SAL where it is optimal to do so or to supersede existing SALs from the previous classification scheme.
 
 This page was last updated on 2018-12-21
 
@@ -34,21 +34,21 @@ The SAL is not a complete and exhaustive list of requirements and conveys the sp
 
 **Markings**
 
-This SAL has been developed under the premise that all information assets will be classified OFFICIAL under the [UK Government Security Classifications Policy \(GSCP\)](https://www.gov.uk/government/publications/government-security-classifications) and that some may carry additional descriptors \(for example, `COMMERCIAL`\) to re-enforce handling requirements \(such as 'need to know' principles\) through the use of the **Sensitive** handling caveat.
+This SAL has been developed under the premise that all information assets will be classified OFFICIAL under the [UK Government Security Classifications Policy \(GSCP\)](https://www.gov.uk/government/publications/government-security-classifications) and that some may carry additional descriptors \(for example, `COMMERCIAL`\) to re-enforce handling requirements \(such as 'need to know' principles\) through the use of the handling caveat.
 
-All information must be considered **Official** whether it bears a marking or not.
+All information must be considered whether it bears a marking or not.
 
 **Handling Instructions**
 
-It should be noted that assigning an appropriate classification to information remains the responsibility of the creator or owner of the asset. Information marked with the **Sensitive** handling caveat may state, or otherwise be accompanied by, additional handling requirements \(for example to limit distribution or define additional access controls\) which all recipients including the `<ORGANISATION SHORTNAME>` must comply with.
+It should be noted that assigning an appropriate classification to information remains the responsibility of the creator or owner of the asset. Information marked with the handling caveat may state, or otherwise be accompanied by, additional handling requirements \(for example to limit distribution or define additional access controls\) which all recipients including the `<ORGANISATION SHORTNAME>` must comply with.
 
 In general, the Authority expects `<ORGANISATION SHORTNAME>` to apply the need-to-know principle to information related to Authority systems, and restrict access to such material to those within `<ORGANISATION SHORTNAME>` \(and its supply chain\) who genuinely need it to perform their duties. General system information such as system names, IP addresses, high-level designs, etc does not require special handling protections.
 
 **Legacy Material**
 
-Information marked under the previous classification scheme\(s\) \(such as UNCLASSIFIED, PROTECT, RESTRICTED or CONFIDENTIAL\) should be effectively considered **Official** unless otherwise stated.
+Information marked under the previous classification scheme\(s\) \(such as UNCLASSIFIED, PROTECT, RESTRICTED or CONFIDENTIAL\) should be effectively considered unless otherwise stated.
 
-Information marked under previous classification schemes should be reviewed as to whether the information within requires handling caveat markings and/or particular handling guidance before being re-marked as **Official**.
+Information marked under previous classification schemes should be reviewed as to whether the information within requires handling caveat markings and/or particular handling guidance before being re-marked as .
 
 **Data Aggregation**
 
@@ -104,7 +104,7 @@ Any remedial activity that may be required by the Authority will be considered u
 
 All Authority, or Authority related data \(such as professional work product pertaining to or on behalf of the Authority\), must be protected against negative events \(such as interception, misdirection, manipulation or otherwise unintended outcome\) while in transit.
 
-The Authority considers application or transport level encryption to be sufficient at **Official** subject to configuration guidance from the UK National Cyber Security Centre \(NCSC\) having been met.
+The Authority considers application or transport level encryption to be sufficient at subject to configuration guidance from the UK National Cyber Security Centre \(NCSC\) having been met.
 
 Some examples of satisfactory approaches include, but are not limited to:
 
@@ -177,8 +177,4 @@ Action:
 
 -   `<ORGANISATION SHORTNAME>`
 
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

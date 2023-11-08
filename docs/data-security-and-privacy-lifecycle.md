@@ -1,6 +1,6 @@
 # Data Security &amp; Privacy Lifecycle Expectations
 
-Following are a series of data security and privacy expectations of Ministry of Justice \(MoJ\) projects at various stages in their lifecycle.
+Following are a series of data security and privacy expectations of projects at various stages in their lifecycle.
 
 These measures can help simplify and ease the burden of embedding data security and privacy at the heart of projects.
 
@@ -53,8 +53,4 @@ In particular:
 -   The final automated tasks are ready. The project cannot close until these are done.
 -   Data security and privacy compliance checks move to an ongoing status. Reporting takes place as required to internal stakeholders or the ICO.
 -   Schedule and run regular data mapping exercises. These ensure full and current understanding of data flows to and from any organisations or systems that depend on the information.
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

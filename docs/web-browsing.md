@@ -1,8 +1,8 @@
 # Web Browsing
 
-The Ministry of Justice \(MoJ\) provides access to the Intranet and Internet for business use. The access helps you to do your job effectively and efficiently.
+The provides access to the Intranet and Internet for business use. The access helps you to do your job effectively and efficiently.
 
-MoJ security policies governs your use of these facilities.
+security policies governs your use of these facilities.
 
 [Reasonable](acceptable-use.md) personal use is allowed, if:
 
@@ -14,7 +14,7 @@ You and your manager are responsible for ensuring that you use these systems res
 If you connect to a website that contains unsuitable, illegal or offensive material:
 
 -   Disconnect from the site immediately.
--   Inform your [IT Service Desk](#general-enquiries-including-theft-and-loss).
+-   Inform your [\#general-enquiries-including-theft-and-loss](#general-enquiries-including-theft-and-loss).
 
 The Department monitors the use of electronic communications and web-browsing activity. If your email use or web browsing seems unacceptable, your manager can request detailed activity reports.
 
@@ -25,11 +25,11 @@ The Department monitors the use of electronic communications and web-browsing ac
 
 ## What websites you can access
 
-The MoJ's approach to website access is continually reviewed and updated. By default, we try to allow access to as much as possible of the internet for all users. Inevitably, there are some restrictions, for the following reasons:
+The 's approach to website access is continually reviewed and updated. By default, we try to allow access to as much as possible of the internet for all users. Inevitably, there are some restrictions, for the following reasons:
 
 **Cyber Security**
 
--   The site is an unacceptable security risk for MoJ systems or users. For example, sites known to host malware are blocked.
+-   The site is an unacceptable security risk for systems or users. For example, sites known to host malware are blocked.
 
 **Technical**
 
@@ -45,7 +45,7 @@ The access rules that apply are described in detail [here](web-browsing-security
 
 ## What to do if you are blocked from a website that you think should be OK
 
-Log an incident with your [IT Service Desk](#general-enquiries-including-theft-and-loss).
+Log an incident with your [\#general-enquiries-including-theft-and-loss](#general-enquiries-including-theft-and-loss).
 
 Provide the following details:
 
@@ -53,7 +53,7 @@ Provide the following details:
 -   The time you visited the site.
 -   The details of any block message that you received.
 
-The IT Service Desk will investigate the reason why you cannot access the website.
+The will investigate the reason why you cannot access the website.
 
 If there was a system error or fault, remedial action will restore access.
 
@@ -61,7 +61,7 @@ If the block is due to an access rule, the Security team reviews whether to chan
 
 ## What to do if you are able to access a website that you think should be blocked
 
-Log an incident with your [IT Service Desk](#general-enquiries-including-theft-and-loss).
+Log an incident with your [\#general-enquiries-including-theft-and-loss](#general-enquiries-including-theft-and-loss).
 
 Provide the following details:
 
@@ -71,25 +71,7 @@ Provide the following details:
 
 ## Other help
 
--   HMPPS Prison - All requests should be directed to the IT Service Desk via a local or area IT Manager.
--   HMPPS Probation - Log an incident with your [IT Service Desk](#general-enquiries-including-theft-and-loss).
--   All other teams, contact the [Security team](mailto:security@justice.gov.uk).
-
-## General enquiries, including theft and loss
-
-**Technology Service Desk** - including DOM1/Quantum, and Digital &amp; Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
-
--   Tel: 0800 917 5148
--   [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
-
-**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital &amp; Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
-
-**HMPPS Information &amp; security:**
-
--   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
--   Tel: 0203 334 0324
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+-   HMPPS Prison - All requests should be directed to the via a local or area IT Manager.
+-   HMPPS Probation - Log an incident with your [\#general-enquiries-including-theft-and-loss](#general-enquiries-including-theft-and-loss).
+-   All other teams, contact the .
 

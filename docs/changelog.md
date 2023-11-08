@@ -1,6 +1,6 @@
-# Change log for Ministry of Justice \(MoJ\) Security Guidance
+# Change log for Security Guidance
 
-This document summarises what changes were made, and when, to MoJ Security policy and guidance. The most recent changes appear at the beginning of the list.
+This document summarises what changes were made, and when, to Security policy and guidance. The most recent changes appear at the beginning of the list.
 
 <a name="2023-09-11-17:45-bst-[update-ithc-details](https:-security-guidance.service.justice.gov.uk-ost-ithc-)"></a>
 
@@ -512,12 +512,4 @@ This document summarises what changes were made, and when, to MoJ Security polic
 
     Data Movement Form updated.
 
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

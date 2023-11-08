@@ -1,6 +1,6 @@
 # Secure disposal of IT - physical and on-premise
 
-This document is the Ministry of Justice \(MoJ\) guidance covering disposal of physical and on-premise media and data. It is intended to ensure that the confidentiality and integrity of MoJ data is maintained when physical hardware is decommissioned.
+This document is the guidance covering disposal of physical and on-premise media and data. It is intended to ensure that the confidentiality and integrity of data is maintained when physical hardware is decommissioned.
 
 **Parent topic:** [Secure disposal of IT equipment](secure-disposal-of-it-equipment.md)
 
@@ -17,23 +17,23 @@ This document is the Ministry of Justice \(MoJ\) guidance covering disposal of p
 
 ## Physical Media and Associated Data
 
-The MoJ and its Executive Agencies and Arms Length Bodies use a wide variety of equipment, including photocopiers and printers, data centre hard and tape drives, desktop computers, laptops, USB memory sticks, and generic mobile devices. Some equipment might be the responsibility of a supplier to decommission and dispose of it safely and securely. Check asset tags or similar identifiers to determine and validate responsibility.
+The and its Executive Agencies and Arms Length Bodies use a wide variety of equipment, including photocopiers and printers, data centre hard and tape drives, desktop computers, laptops, USB memory sticks, and generic mobile devices. Some equipment might be the responsibility of a supplier to decommission and dispose of it safely and securely. Check asset tags or similar identifiers to determine and validate responsibility.
 
-However, other devices across the MoJ estate might have been procured and managed locally. They **shall** be disposed of securely, to prevent MoJ information from being “leaked”.
+However, other devices across the estate might have been procured and managed locally. They be disposed of securely, to prevent information from being “leaked”.
 
 ## Approved organisations
 
-For help to arrange secure disposal by an approved organisation, contact IT Service Desk \(0800 917 5148\).
+For help to arrange secure disposal by an approved organisation, contact .
 
-## NCSC and CPNI on Secure Disposal
+## and on Secure Disposal
 
-The National Cyber Security Centre \(NCSC\) and Centre for the Protection of National Infrastructure \(CPNI\) give critical guidance on the secure sanitisation of storage media [here](https://www.ncsc.gov.uk/guidance/secure-sanitisation-storage-media) and [here](https://www.cpni.gov.uk/secure-destruction-0), respectively, specifically regarding disposal and destruction of media, and the data contained within it.
+The and give critical guidance on the secure sanitisation of storage media [here](https://www.ncsc.gov.uk/guidance/secure-sanitisation-storage-media) and [here](https://www.cpni.gov.uk/secure-destruction-0), respectively, specifically regarding disposal and destruction of media, and the data contained within it.
 
 The situations when sanitising data is required are:
 
 -   Re-use.
 -   Repair.
--   Disposal; sanitising unwanted media and its associated data whilst it is controlled by the MoJ and before it is passed outside the MoJ.
+-   Disposal; sanitising unwanted media and its associated data whilst it is controlled by the and before it is passed outside the .
 -   Destruction; destroying the media, and hence data it contains, onsite or offsite.
 
 ## Determining data deletion and destruction methods
@@ -46,7 +46,7 @@ The table contains two columns, called “Data deletion method” and “Destruc
 
 -   **Data deletion method**
 
-    Covers assets if they remain within the MoJ, and have not reached end of life. For example, the device can be re-used or reallocated to a different user, or repurposed for a different function.
+    Covers assets if they remain within the , and have not reached end of life. For example, the device can be re-used or reallocated to a different user, or repurposed for a different function.
 
 <a name="destruction-method"></a>
 
@@ -57,17 +57,17 @@ The table contains two columns, called “Data deletion method” and “Destruc
 
 **Note:** If the data is encrypted, then only the key needs to be deleted or erased, and the table does not need to be followed.
 
-If the table does not cover your exact requirement, contact IT Service Desk \(0800 917 5148\).
+If the table does not cover your exact requirement, contact .
 
-**Note:** When disposing of **Secret** or **Top Secret** equipment or materials, always contact IT Service Desk \(0800 917 5148\).
+**Note:** When disposing of or equipment or materials, always contact .
 
 |Equipment or asset type|Data deletion method|Destruction method|
 |-----------------------|--------------------|------------------|
 |Flash \(USB\)|Delete the data, or erase using manufacturer instructions.|Destroy using commercially available disintegration equipment, to produce particles of a maximum of 6 mm in any direction.|
-|Hard disk drive. **Note:** This includes data centre disk drives.|Overwrite the entire storage space with random or garbage data, verifying that only the data used to perform the overwrite can be read back.|Break the platters into at least four pieces. This can be carried out either manually or by using a commercially available destruction product suitable for use with hard disks. Alternatively, apply a lower level degauss \(refer to the explanation after this table\), and then apply a destructive procedure that prevents the disk from turning. For example, punch holes into the platters, or twist or bend them.|
-|Magnetic tapes and floppy disks **Note:** This includes data centre tape drives.|Overwrite the entire storage space with random or garbage data, verifying that only the data used to perform the overwrite can be read back.|Destroy using a commercially available shredder that meets a recognised international destruction standard. Particles of tape should be no larger than 6 x 15 mm. Alternatively, apply a lower level degauss and then cut the tape to no larger than 20 mm in any direction.|
+|Hard disk drive. This includes data centre disk drives.|Overwrite the entire storage space with random or garbage data, verifying that only the data used to perform the overwrite can be read back.|Break the platters into at least four pieces. This can be carried out either manually or by using a commercially available destruction product suitable for use with hard disks. Alternatively, apply a lower level degauss \(refer to the explanation after this table\), and then apply a destructive procedure that prevents the disk from turning. For example, punch holes into the platters, or twist or bend them.|
+|Magnetic tapes and floppy disks This includes data centre tape drives.|Overwrite the entire storage space with random or garbage data, verifying that only the data used to perform the overwrite can be read back.|Destroy using a commercially available shredder that meets a recognised international destruction standard. Particles of tape should be no larger than 6 x 15 mm. Alternatively, apply a lower level degauss and then cut the tape to no larger than 20 mm in any direction.|
 |Optical media|Data deletion is not possible. Refer also to the note about RW-capable media after this table.|Shred or disintegrate using equipment that meets a recognised international destruction standard. Particles should be no larger than 6 mm in any direction.|
-|Monitors|Overwrite on-board storage by displaying non-sensitive data on the screen for a few minutes before powering off. **Note:** If a monitor screen has legible “burn-in” of sensitive information it **shall not** be re-sold or donated.|Monitors can be disposed of by: \(1\) Returning the product to the manufacturer who **shall** align to [formal waste disposal responsibilities](https://www.gov.uk/electricalwaste-producer-supplier-responsibilities), or \(2\) taking the item to a professional waste disposal facility, or \(3\) reselling or donating to a non-profit organisation, once basic sanitation procedures have been performed. Ensure there is no “burn-in” of sensitive information, and that the device has not reached its end of life. **Note:** If the end of life monitor contains mercury, it is considered hazardous waste and its disposal **shall** align to [WEEE 2013 Regulations](https://www.hse.gov.uk/waste/waste-electrical.htm) using specialist methods such as disassembly to remove the mercury containing backlights for specialist treatment and the separation of the remaining material streams.|
+|Monitors|Overwrite on-board storage by displaying non-sensitive data on the screen for a few minutes before powering off. If a monitor screen has legible “burn-in” of sensitive information it be re-sold or donated.|Monitors can be disposed of by: \(1\) Returning the product to the manufacturer who align to [formal waste disposal responsibilities](https://www.gov.uk/electricalwaste-producer-supplier-responsibilities), or \(2\) taking the item to a professional waste disposal facility, or \(3\) reselling or donating to a non-profit organisation, once basic sanitation procedures have been performed. Ensure there is no “burn-in” of sensitive information, and that the device has not reached its end of life. If the end of life monitor contains mercury, it is considered hazardous waste and its disposal align to [WEEE 2013 Regulations](https://www.hse.gov.uk/waste/waste-electrical.htm) using specialist methods such as disassembly to remove the mercury containing backlights for specialist treatment and the separation of the remaining material streams.|
 
 **Note:** A lower level degauss is a process using specialised equipment to erase data totally, by eliminating the unwanted magnetic field \(information\) stored on tape and disk media.
 
@@ -79,11 +79,11 @@ Wherever possible and appropriate, managers should pool together equipment with 
 
 ## Data destruction verification
 
-As part of the physical media or data destruction by the MoJ or its suppliers, validation of destruction **shall** be carried out. This is to ensure that data handling processes align with the MoJ Asset Management Lifecycle policies. This includes:
+As part of the physical media or data destruction by the or its suppliers, validation of destruction be carried out. This is to ensure that data handling processes align with the Asset Management Lifecycle policies. This includes:
 
-1.  The MoJ or supplier scans the hard drive or physical media asset tags or barcodes.
-2.  The MoJ or supplier carries out data destruction \(as per the previous table\).
-3.  The MoJ or supplier confirms hard drive or physical media data destruction by providing reasonable proof. This can include:
+1.  The or supplier scans the hard drive or physical media asset tags or barcodes.
+2.  The or supplier carries out data destruction \(as per the previous table\).
+3.  The or supplier confirms hard drive or physical media data destruction by providing reasonable proof. This can include:
     1.  Providing an inventory of physical media in their possession.
     2.  Reconciliation carried out on the physical media scanned/received matching the physical media destroyed.
     3.  A witness in attendance to sign a destruction certificate that is be stored in a secure space or network share.
@@ -95,21 +95,13 @@ As part of the physical media or data destruction by the MoJ or its suppliers, v
 
 If you are based in a London HQ site the Accommodation Team coordinates bulk secure disposal; please contact them in the first instance.
 
-**Note:** All destruction certificates and destroyed assets **shall** be supplied to the MoJ hardware team to update CMDB. This can be done using the technical portal to “Bulk upload CIs - update”, or alternatively by emailing the details to: [MoJITAssetManagementTeam@justice.gov.uk](mailto:MoJITAssetManagementTeam@justice.gov.uk).
+**Note:** All destruction certificates and destroyed assets be supplied to the hardware team to update CMDB. This can be done using the technical portal to “Bulk upload CIs - update”, or alternatively by emailing the details to: [MoJITAssetManagementTeam@justice.gov.uk](mailto:MoJITAssetManagementTeam@justice.gov.uk).
 
 ## Transporting data between sites securely
 
-If you have any concerns about moving items between sites securely, contact IT Service Desk \(0800 917 5148\).
+If you have any concerns about moving items between sites securely, contact .
 
 Guidance on the transportation of secure data is located in the CPNI guidance: “[10. Transport of sensitive items](https://www.cpni.gov.uk/system/files/documents/c5/e1/2017_01_20_CPNI_Secure_Destruction_Standard.pdf)”.
 
 The previous guidance is also referenced in the CAS Sanitisation Service Requirement, under section “[MIT001 – Keep items secure during transportation](https://www.ncsc.gov.uk/files/CAS-Sanitisation_Service_Requirement_2-1.pdf)” on page 9.
-
-## Contact details
-
-For any further questions or advice, contact IT Service Desk \(0800 917 5148\).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

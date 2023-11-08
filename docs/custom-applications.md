@@ -1,6 +1,6 @@
 # Custom Applications
 
-We have developed a series of logging requirements for custom applications, such as digital services, applications materially customised that they can reasonably be considered bespoke/custom for the Ministry of Justice \(MoJ\) and line of business applications at different maturity tiers in order to support defensive cyber security, such as detecting breaches.
+We have developed a series of logging requirements for custom applications, such as digital services, applications materially customised that they can reasonably be considered bespoke/custom for the and line of business applications at different maturity tiers in order to support defensive cyber security, such as detecting breaches.
 
 ## Baseline Maturity Tier
 
@@ -19,7 +19,7 @@ User directories within application environments can be rich and diverse, such t
 -   Okta
 -   Auth0
 -   Github.com \(acting as an identity provider\)
--   Google Workspace \(acting as an identity provider\)
+-   \(acting as an identity provider\)
 -   Oracle identity stores
 -   Local user stores within operating systems leveraged by tenant applications
 
@@ -92,8 +92,4 @@ Temporary data stores \(such as intermediate queues\) and permanent data store \
 3.  Query
 4.  Query response size
 5.  Query response time
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

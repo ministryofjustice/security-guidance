@@ -7,30 +7,9 @@
 
 [System Backup Policy](system-backup-policy.md)
 
-## Legacy information
-
-**Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-**Note:** This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
-
--   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   **Confidential**, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   DSO \(Departmental Security Officer\), contact the Chief Security Officer \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS2 \(HMG Infosec Standard 2 Information Risk Management\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   ITSO \(Information Technology Security Officer\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   **Restricted**, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
 ## Backing up information
 
-Backing up is one of the most important methods of system recovery. It protects Ministry of Justice \(MoJ\) Information and Communication Technology \(ICT or IT\) resources.
+Backing up is one of the most important methods of system recovery. It protects Information and Communication Technology \(ICT or IT\) resources.
 
 The [IT Security - System Backup Policy](system-backup-policy.md) describes the mandatory requirements that system backup meets.
 
@@ -39,7 +18,7 @@ This document provides standards and details of the tasks, configurations, and p
 -   how backups are managed
 -   the process for backing up
 
-For an overview of backup concepts, and why backup is important for the MoJ, refer to the [IT Security - System Backup Guide](system-backup-guidance.md).
+For an overview of backup concepts, and why backup is important for the , refer to the [IT Security - System Backup Guide](system-backup-guidance.md).
 
 For details of what backups must do, refer to the [System backup requirements](#system-backup-requirements) section.
 
@@ -51,7 +30,7 @@ Each system requires:
 
 -   a backup schedule that describes the frequency and kind of backup for the system
 -   a retention schedule that describes how long a backup must be kept, to enable system recovery
--   an archive schedule that describes how long a particular backup should be kept after it is no longer required for recovery purposes, but is still retained to comply with the MoJ Data Retention requirements or other legal needs
+-   an archive schedule that describes how long a particular backup should be kept after it is no longer required for recovery purposes, but is still retained to comply with the Data Retention requirements or other legal needs
 -   a process for deleting or disposing of a backup if it is no longer required for recovery or retention purposes
 -   a process for recovering or restoring some or all data or other backed-up information to a known point-in-time
 -   information so that users understand how data can be restored for the system, if required
@@ -76,7 +55,7 @@ Systems backups should be:
 -   stored safely and ready for restoration when required, for example during a disaster event
 -   recorded in a log, detailing what data was backed up, and when
 
-The amount of data backed up from the system is the 'extent', and how often the data is backed up is the 'frequency'. The extent and frequency of backups must be such that the MoJ is able to tolerate non-availability of the data if becomes unavailable and must be restored.
+The amount of data backed up from the system is the 'extent', and how often the data is backed up is the 'frequency'. The extent and frequency of backups must be such that the is able to tolerate non-availability of the data if becomes unavailable and must be restored.
 
 For any information asset, an assessment should be performed to determine if recovery is required, and if so whether using a backup is an appropriate and sufficient mechanism.
 
@@ -130,7 +109,7 @@ Backup data that is held for longer than the retention period is considered arch
 
 #### Creating a retention schedule
 
-All MoJ system backups must have a defined retention schedule.
+All system backups must have a defined retention schedule.
 
 The retention period is determined by several factors, such as a financial or regulatory requirement to keep data for a specific period of time, but no longer.
 
@@ -148,7 +127,7 @@ For other information assets that do not have an existing defined retention peri
 |Low impact \(RTO is more than one day\)|4 weeks|Within 4 weeks after the end of the retention period.|
 |Email|2 weeks|Within 4 weeks after the end of the retention period.|
 
-The actual data retention schedule for an MoJ system is agreed between the business and the Departmental Library and Records Management Service: [Records\_Retention\_@justice.gov.uk](mailto:Records_Retention_@justice.gov.uk).
+The actual data retention schedule for an system is agreed between the business and the Departmental Library and Records Management Service: .
 
 The Departmental Records Officer has responsibility for the records, and signs off the schedules which the business follows.
 
@@ -245,15 +224,15 @@ Physical media that contains backup data must be stored securely, either:
 
 The storage site must meet both location and retrieval requirements of the Disaster Recovery Team.
 
-The technical, physical and procedural security controls for storing backup media must meet or exceed the requirements for the highest protective marking of the backed up information. In other words, even if just one part of the backup data are classified as **Secret**, then the entire backup medium must be protected to meet **Secret** requirements.
+The technical, physical and procedural security controls for storing backup media must meet or exceed the requirements for the highest protective marking of the backed up information. In other words, even if just one part of the backup data are classified as , then the entire backup medium must be protected to meet requirements.
 
-The [protective marking level](#identification-and-tracking) for a backup is determined during the BIA process, and is described in the MoJ Accreditation Framework \(this document\). The precise selection of security controls for a system backup is established as part of the system risk assessment.
+The [protective marking level](#identification-and-tracking) for a backup is determined during the BIA process, and is described in the Accreditation Framework \(this document\). The precise selection of security controls for a system backup is established as part of the system risk assessment.
 
 The handling and transportation of backup media among system and storage sites must also be in line with the highest protective marking. More information about handling protectively marked information is in the [IT Security - Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md). The sharing guide provides details on the procedures and approvals that are required before any movement of any protectively marked information takes place.
 
 #### Identification and tracking
 
-Backups, and the media each one is stored on, must be identifiable for tracking and reporting purposes. This means that each media item that holds backup data must have a unique media and job ID, and a formal indication of the information held; the Protective Marking, for example **Secret**.
+Backups, and the media each one is stored on, must be identifiable for tracking and reporting purposes. This means that each media item that holds backup data must have a unique media and job ID, and a formal indication of the information held; the Protective Marking, for example .
 
 If a single backup medium, such as a solid-state storage device, is used to hold several backups, each unique media and job ID must be recorded and associated with the hardware device in the relevant configuration management database \(CMDB\).
 
@@ -277,12 +256,4 @@ If the medium is reusable, it must be securely erased in accordance with NCSC gu
 If the medium is not reusable, it must be taken out of stock and marked with a `To Be Decommissioned` status in the system backup register until secure disposal takes place. The status is also updated in the CMDB.
 
 Disposing of any medium must be in accordance with the relevant disposal plan.
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

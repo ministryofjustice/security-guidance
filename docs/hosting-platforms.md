@@ -19,7 +19,7 @@ User directories within hosting environments can be rich and diverse, such techn
 -   Okta
 -   Auth0
 -   Github.com \(acting as an identity provider\)
--   Google Workspace \(acting as an identity provider\)
+-   \(acting as an identity provider\)
 -   Local user stores within operating systems
 
 These event types must be logged and forwarded:
@@ -212,8 +212,4 @@ Continuous integration and continuous deployment pipelines obey instructions to 
 2.  Activity events
     1.  Resource creation
     2.  Resource destruction
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

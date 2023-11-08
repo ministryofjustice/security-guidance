@@ -16,7 +16,7 @@ Day to day examples include: not ordinarily using an 'administrator' login on an
 
 An administrator is much broader than a technical system administrator to a server, network or service \(such as 'domain admin' in Microsoft Active Directory\) but someone has who has higher levels of access or control than a required for day to day operation.
 
-Examples include those with high privileges on a Ministry of Justice \(MoJ\) GitHub repository and credentials to the MoJ communications accounts \(such as social media\).
+Examples include those with high privileges on a GitHub repository and credentials to the communications accounts \(such as social media\).
 
 ## AWS assume-role
 
@@ -60,12 +60,4 @@ Two real-life examples are:
 -   Make connection sessions longer. This is where you allow sessions and tokens to last for a longer period, such as 30 days instead of 7. These longer sessions are enabled only they take place from predictable and 'known' locations.
 
 This [Medium article](https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20) provides more details regarding IP address access control lists.
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

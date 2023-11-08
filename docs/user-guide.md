@@ -4,11 +4,11 @@
 
 This document tells you about the Security Team. It explains how to ask for help, outlines how we handle your requests, and describes what happens next.
 
-To ask for help from a security consultant, send an email to: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+To ask for help from a security consultant, send an email to: .
 
 ## About the team
 
-The Security Team is part of Ministry of Justice \(MoJ\) Security &amp; Privacy. The MoJ Chief Information Security Officer leads the team.
+The Security Team is part of Security &amp; Privacy. The Chief Information Security Officer leads the team.
 
 The team provides help and guidance around cyber security matters, such as:
 
@@ -25,9 +25,9 @@ The team provides help and guidance around cyber security matters, such as:
 
 ## Asking for help
 
-If you need help dealing with a cyber security task or problem, send an email to: [security@justice.gov.uk](mailto:security@justice.gov.uk)
+If you need help dealing with a cyber security task or problem, send an email to:
 
-Some requests are better handled by other teams. For urgent matters such as incidents, or to get help about physical or personnel security, contact [security@justice.gov.uk](mailto:security@justice.gov.uk). For help with data protection, contact [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk).
+Some requests are better handled by other teams. For urgent matters such as incidents, or to get help about physical or personnel security, contact . For help with data protection, contact .
 
 The security team keep an eye open for email requests. Normally, you'll get an acknowledgement or more detailed reply within two working days.
 
@@ -56,11 +56,7 @@ If your request is appropriate for the team, the assigned consultant contacts yo
 
 ## If things go wrong...
 
-If you disagree with our decision about your request, or there is some other problem, contact us again: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+If you disagree with our decision about your request, or there is some other problem, contact us again: .
 
 If you'd prefer a different escalation route, contact [ciso@digital.justice.gov.uk](mailto:ciso@digital.justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

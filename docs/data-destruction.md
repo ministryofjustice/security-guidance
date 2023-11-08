@@ -23,14 +23,14 @@ The following standards and guidelines are the *minimum* basis for data decommis
 -   DIN: [http://www.din-66399.com/index.php/en/securitylevels](http://www.din-66399.com/index.php/en/securitylevels)
 
 
-Data Destruction for electronic/magnetic storage **must** include, unless otherwise superseded by NCSC, PCI-DSS or specific Ministry of Justice \(MoJ\) guidance:
+Data Destruction for electronic/magnetic storage **must** include, unless otherwise superseded by NCSC, PCI-DSS or specific guidance:
 
 -   the revocation or otherwise destruction of decryption keys and/or mechanisms to render data inaccessible or otherwise void through the use of modern cryptography; AND/OR
 
 -   data overwriting methods consisting of at least 3 \(three\) complete overwrite passes of random data.
 
 
-Data Destruction for printed materials **must** include, unless otherwise superseded by NCSC or specific MoJ guidance:
+Data Destruction for printed materials **must** include, unless otherwise superseded by NCSC or specific guidance:
 
 -   paper cross-shredding methods to satisfy at least the DIN 66399 Level 4 standard with a maximum cross cut particle surface area 160 \(one hundred and sixty\) millimeters squared with a maximum strip width of 6 \(six\) millimeters
 
@@ -44,8 +44,4 @@ Examples of such systems are data backup and disaster recovery solutions that ha
 There is generally no need to attempt to manually delete such data prior to the automated retention lapse as long as it is ensured that if the data is restored prior to data destruction it is not processed.
 
 It is important that the final expected data where all data lifecycles will have completed to be readily identifiable with high confidence.
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

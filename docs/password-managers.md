@@ -1,18 +1,18 @@
 # Password Managers
 
-[Ministry of Justice \(MoJ\) guidance](passwords.md) makes clear that you should have different passwords for different services. These passwords must be complex.
+[guidance](passwords.md) makes clear that you should have different passwords for different services. These passwords must be complex.
 
 But how do you remember all these different passwords?
 
 The simplest way is to use a [Password Manager](https://en.wikipedia.org/wiki/Password_manager). If you have lots of different, and complex, passwords for all your accounts, using a password manager makes life much easier.
 
-This article provides guidance on using password managers within the MoJ.
+This article provides guidance on using password managers within the .
 
 ## Password managers and vaults
 
 A password manager stores sensitive information in an encrypted form. Password managers are sometimes called password vaults.
 
-In the MoJ, password managers are tools that you might use for your personal accounts. Password vaults are tools that a team of people might use to look after details for shared accounts.
+In the , password managers are tools that you might use for your personal accounts. Password vaults are tools that a team of people might use to look after details for shared accounts.
 
 Password vaults usually have extra strong access controls, such as hardware tokens.
 
@@ -26,7 +26,7 @@ The following table shows when you might use a password manager or vault:
 |--------|----|-----|
 |Single user, personal accounts|Password manager|For accounts that only you use, or have access to, then you would probably store the details in a password manager. An example would be storing the username and password for your work email account; only you should have access.|
 |Multiple users, shared accounts|Password manager or password vault|Some accounts might be shared between a group of users. For example, a team might need to know the password for an encrypted document. If the access required is for a sensitive or operational system, then a more heavily protected tool such as a password vault might be appropriate.|
-|System access, no human use|Password vault|Some MoJ systems need to 'talk' directly to other systems. No humans are involved in the conversation. The passwords protecting these communications can - and should - be extremely complex. A strongly secured password vault would be ideal for this purpose.|
+|System access, no human use|Password vault|Some systems need to 'talk' directly to other systems. No humans are involved in the conversation. The passwords protecting these communications can - and should - be extremely complex. A strongly secured password vault would be ideal for this purpose.|
 
 ## Best practices
 
@@ -34,7 +34,7 @@ The NCSC is [very clear](https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-
 
 -   "Should I use a password manager? Yes. Password managers are a good thing."
 
-This is helpful for us in the MoJ, as much of our IT Policy and guidance derives from NCSC best practices.
+This is helpful for us in the , as much of our IT Policy and guidance derives from NCSC best practices.
 
 ## Good password managers
 
@@ -52,21 +52,13 @@ A good password manager will have:
 
 ## What password manager to use
 
-In the [NCSC article](https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers), they are very careful not to identify or recommend a password manager. This ... caution ... is the reason why we don't say much about password managers within the MoJ guidance.
+In the [NCSC article](https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers), they are very careful not to identify or recommend a password manager. This ... caution ... is the reason why we don't say much about password managers within the guidance.
 
-There are several password managers used within the MoJ. [KeePass](https://keepass.info/) and [1Password](https://1password.com/) are probably the most popular for personal or team passwords. To determine whether a particular password manager is suitable for work usage, check the [General app guidance](general-user-video-and-messaging-apps-guidance.md#password-managers).
+There are several password managers used within the . [KeePass](https://keepass.info/) and [1Password](https://1password.com/) are probably the most popular for personal or team passwords. To determine whether a particular password manager is suitable for work usage, check the [General app guidance](general-user-video-and-messaging-apps-guidance.md#password-managers).
 
 Example password vaults would be Hashicorp Vault, Kubernetes Secrets or AWS Key Management.
 
 For individual use, have a look at 1Password. Try it out. When you decide on a password manager, request approval from your line manager to install and use it: "I'm planning to install and use XYZ to manage my passwords, is that OK?".
 
 Refer also to the [Using 1Passwords](using-1password.md) guidance.
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

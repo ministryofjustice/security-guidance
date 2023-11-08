@@ -1,10 +1,10 @@
 # Azure Account Baseline Templates
 
-The lowest acceptable common denominator to appeal to the largest possible number of people for security-related promises, capabilities and configurations of Ministry of Justice \(MoJ\) Azure accounts.
+The lowest acceptable common denominator to appeal to the largest possible number of people for security-related promises, capabilities and configurations of Azure accounts.
 
 ## Baseline
 
-The baseline for Azure accounts is formally published as part of the Security Guidance from the MoJ Digital and Technology Security and Privacy team.
+The baseline for Azure accounts is formally published as part of the Security Guidance from the Digital and Technology Security and Privacy team.
 
 ## Background
 
@@ -40,7 +40,7 @@ Use Azure Security Centre to ensure workloads are secure and to strengthen the s
 
 ### Azure Identity Management \(PIM\)
 
-Enabling PIM helps to mitigate the risk of excessive, unnecessary or misused access rights by allowing administrators to discover, restrict and monitor access to Azure Active Directory resources. Essentially, it means that any user with access to the MoJ data is only allowed access to certain files or services, assigned by the global and privileged role administrators.
+Enabling PIM helps to mitigate the risk of excessive, unnecessary or misused access rights by allowing administrators to discover, restrict and monitor access to Azure Active Directory resources. Essentially, it means that any user with access to the data is only allowed access to certain files or services, assigned by the global and privileged role administrators.
 
 Recommendations to improve overall Azure security posture by monitoring at a minimum include:
 
@@ -89,7 +89,7 @@ Refer also:
 
 ### Regions
 
-The MoJ does not use non-EU Azure regions, for strategic compliance and performance reasons. For more information on regions, refer to [Conditional Access : Block by region](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-policy-location).
+The does not use non-EU Azure regions, for strategic compliance and performance reasons. For more information on regions, refer to [Conditional Access : Block by region](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-policy-location).
 
 ### Azure Storage Encryption
 
@@ -115,12 +115,4 @@ Assigning tags to Azure resources is essential in creating a well-organised and 
 Refer also:
 
 -   [Assign policy definitions for tag compliance](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-policies).
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

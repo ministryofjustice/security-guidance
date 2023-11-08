@@ -7,7 +7,7 @@ redirect_from:
 
 ## Summary
 
-This site lists the [Ministry of Justice \(MoJ\)](https://www.gov.uk/government/organisations/ministry-of-justice) Information Security policies. It contains important guidance on how to keep MoJ information safe and secure.
+This site lists the [https://www.gov.uk/government/organisations/ministry-of-justice](https://www.gov.uk/government/organisations/ministry-of-justice) Information Security policies. It contains important guidance on how to keep information safe and secure.
 
 Policies shown here are listed for technical users and non-technical users \(referred to as all users\).
 
@@ -18,9 +18,9 @@ Technical users include:
 -   IT service managers
 -   Software developers
 
-The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
+The [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the more widely.
 
-**Note:** This guidance is dated: 3 November 2023.
+**Note:** This guidance is dated: 8 November 2023.
 
 ## Change log
 
@@ -51,7 +51,7 @@ Technical users. Contains detailed technical information, together with all user
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 3 December 2023.
+The offline versions of this guidance are time-limited, and are not valid after 8 December 2023.
 
 ## Security culture
 
@@ -59,11 +59,11 @@ In addition to the obvious security resources such as policies, controls, and so
 
 Security culture refers to the set of values, shared by everyone in an organisation, that determines how people are expected to think about and approach security. Getting security culture right helps develop a security conscious workforce, and promotes the desired security behaviours expected from everyone working in or for the organisation.
 
-The MoJ is creating a portfolio of security culture resources to help supplement the formal policy and guidance material. Initial security culture material is available for [preview](security-culture.md).
+The is creating a portfolio of security culture resources to help supplement the formal policy and guidance material. Initial security culture material is available for [preview](security-culture.md).
 
 ## Information structure
 
-MoJ policy documents are listed beneath the following headings:
+policy documents are listed beneath the following headings:
 
 -   [Information security policies](#information-security-policies)
 -   [Mobile devices and teleworking](#mobile-devices-and-teleworking)
@@ -387,10 +387,10 @@ This policy is for technical users:
 
 These policies are for technical users:
 
--   [Suppliers to MoJ: Assessing Suppliers](assessing-suppliers.md)
--   [Suppliers to MoJ: Contracts](contracts.md)
--   [Suppliers to MoJ: Security Aspect Letters](security-aspect-letters.md)
--   [Suppliers to MoJ: Supplier Corporate IT](supplier-corporate-it.md)
+-   [Suppliers to : Assessing Suppliers](assessing-suppliers.md)
+-   [Suppliers to : Contracts](contracts.md)
+-   [Suppliers to : Security Aspect Letters](security-aspect-letters.md)
+-   [Suppliers to : Supplier Corporate IT](supplier-corporate-it.md)
 
 #### Supplier service delivery management
 
@@ -459,7 +459,7 @@ This policy is for all users:
 
 ## Other Guidance
 
-The [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) provides the base material for all security guidance in the MoJ.
+The provides the base material for all security guidance in the .
 
 ### Glossary
 
@@ -467,13 +467,7 @@ A glossary of some terms used in this guidance is available [here](glossary.md).
 
 ### Acronyms
 
-A more extensive list of acronyms is available [here](https://ministryofjustice.github.io/acronyms/).
-
 ### Technical Guidance
 
-The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) should be read together with this security-focused guidance.
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+The [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) should be read together with this security-focused guidance.
 

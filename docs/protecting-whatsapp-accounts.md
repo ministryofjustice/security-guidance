@@ -1,14 +1,14 @@
 # Protecting WhatsApp accounts
 
-The Ministry of Justice \(MoJ\) [permits](general-user-video-and-messaging-apps-guidance.md#approved-tools) the use of [WhatsApp](https://www.whatsapp.com/) for text messaging, voice and video calls. You **should** avoid using it for business tasks involving personal or sensitive data.
+The [permits](general-user-video-and-messaging-apps-guidance.md#approved-tools) the use of [WhatsApp](https://www.whatsapp.com/) for text messaging, voice and video calls. You avoid using it for business tasks involving personal or sensitive data.
 
-You **should** always keep WhatsApp account details safe and secure. Accounts link with specific devices. When you register your device with a WhatsApp account, that provides some protection. Only the registered device can send or receive messages associated with you.
+You always keep WhatsApp account details safe and secure. Accounts link with specific devices. When you register your device with a WhatsApp account, that provides some protection. Only the registered device can send or receive messages associated with you.
 
 Unfortunately, device registration is a tempting target for attackers. It is a way for potential compromise of user data. Compromises affect backups of conversations, and contact lists.
 
 A compromised account might also attack other people. An attacker might pretend to be a user, and so target other contacts. They might make their way to compromise a high-value target.
 
-An example scenario might be an attack on the WhatsApp account of a family member of an MoJ employee. The attacker compromises the family member’s WhatsApp account. They then pretend to be the family member. They contact the MoJ employee through the contact list. The employee trusts the message: it seems to come from the family member.
+An example scenario might be an attack on the WhatsApp account of a family member of an employee. The attacker compromises the family member’s WhatsApp account. They then pretend to be the family member. They contact the employee through the contact list. The employee trusts the message: it seems to come from the family member.
 
 ## How a WhatsApp attack works
 
@@ -28,13 +28,13 @@ When you reconnect into your WhatsApp account, check for any unknown devices. Do
 
 Always enable two-step verification on your account. Any future attempt to register a device needs a PIN to enable the app. Do this by going into the **Settings** then **Account** menu on the app. Select the **Two-step verification option**.
 
-If there's something suspicious about your MoJ account, or the messages in the account, contact the MoJ [Security team](mailto:security@justice.gov.uk). Ask for help as soon as possible.
+If there's something suspicious about your account, or the messages in the account, contact the . Ask for help as soon as possible.
 
-Always follow MoJ policy about applications for official business or storing business-related information. Don't use unapproved applications for MoJ official business. Don't use unapproved applications for storing MoJ business-related data. Always use [approved applications](general-user-video-and-messaging-apps-guidance.md) and [storage tools](https://intranet.justice.gov.uk/guidance/knowledge-information/).
+Always follow policy about applications for official business or storing business-related information. Don't use unapproved applications for official business. Don't use unapproved applications for storing business-related data. Always use [approved applications](general-user-video-and-messaging-apps-guidance.md) and [storage tools](https://intranet.justice.gov.uk/guidance/knowledge-information/).
 
 ## WhatsApp account do's and dont's
 
-**Do** ask [Security team](mailto:security@justice.gov.uk) for help if you think your WhatsApp account has been compromised.
+**Do** ask for help if you think your WhatsApp account has been compromised.
 
 **Do** enable two-step verification on your account. Do this by going into the **Settings** then **Account** menu on the app. Select the **Two-step verification option**.
 
@@ -47,12 +47,4 @@ Always follow MoJ policy about applications for official business or storing bus
 **Do not** use unapproved or unauthorised applications for work purposes.
 
 **Do not** use personal accounts for work purposes.
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

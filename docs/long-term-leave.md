@@ -2,7 +2,7 @@
 
 ## Audience and Document Purpose
 
-This document is intended for Ministry of Justice \(MoJ\) line managers who have a staff member going on any type of long-term secondment, loan, or leave. It provides guidance on how to handle the IT accounts and IT assets \(such as desktops, laptops, or mobile phones\) of the staff member while they are on leave.
+This document is intended for line managers who have a staff member going on any type of long-term secondment, loan, or leave. It provides guidance on how to handle the IT accounts and IT assets \(such as desktops, laptops, or mobile phones\) of the staff member while they are on leave.
 
 Long term means longer than 2 months.
 
@@ -23,7 +23,7 @@ For the purpose of this guidance, all of these are examples of "long-term leave"
 
 This guidance applies to assets, defined as being laptops, desktops, or mobile phones.
 
--   A staff member going on any long-term leave may keep their assets while they remain contractually employed by the MoJ, **AND** where the leave is not longer than 12 months in duration.
+-   A staff member going on any long-term leave may keep their assets while they remain contractually employed by the , **AND** where the leave is not longer than 12 months in duration.
 -   Remind your staff member that the Acceptable Usage Policy applies at all times during their leave. The policy can be found [here](acceptable-use.md).
 -   Preparation or return from any type of leave may be accompanied by changes in working patterns. The Remote Working guidance provides useful advice for anyone who may be working remotely for the first time. The policy can be found [here](remote-working.md).
 
@@ -33,8 +33,8 @@ This guidance applies to assets, defined as being laptops, desktops, or mobile p
 
 Before the staff member goes on leave, review their access to data and information systems, to ensure that this meets an ongoing need. This means that:
 
--   If the staff member's role is planned to change on their return to the MoJ, consider removing access now to data and information systems which they will no longer need. If their role is not planned to change on their return, you might consider leaving access "as-is" currently.
--   Consider removing access to data or information systems which are **Official-Sensitive**. This is in line with the necessity rigorously to apply the "need to know" principle for **Official-Sensitive** information. Refer to the guidance on classifying information for more detail [https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/)
+-   If the staff member's role is planned to change on their return to the , consider removing access now to data and information systems which they will no longer need. If their role is not planned to change on their return, you might consider leaving access "as-is" currently.
+-   Consider removing access to data or information systems which are . This is in line with the necessity rigorously to apply the "need to know" principle for information. Refer to the guidance on classifying information for more detail [https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/)
 
 ### When to remove access and return assets
 
@@ -48,15 +48,7 @@ In a number of circumstances assets should be returned and access should be remo
 
 ### How to remove access and return assets
 
--   Access to systems and return of assets can be organised through the appropriate items in the [MoJ Technology Portal](https://mojprod.service-now.com/moj_sp). Please refer to the Knowledge Base article on "Returning your MoJ laptop, accessories and mobile phones" for details. Removal of access to local systems should be arranged with local IT teams.
+-   Access to systems and return of assets can be organised through the appropriate items in the [Technology Portal](https://mojprod.service-now.com/moj_sp). Please refer to the Knowledge Base article on "Returning your laptop, accessories and mobile phones" for details. Removal of access to local systems should be arranged with local IT teams.
 
 **Note:** When a Dom1 account is deactivated, its data is recoverable for up to 12 months. Refer to the Knowledge Base article on "How to Re-instate a Deactivated Email Account or Mailbox".
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

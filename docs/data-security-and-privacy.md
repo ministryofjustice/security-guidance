@@ -11,7 +11,7 @@ Our digital projects contain important information. Serious data breaches might 
 Breaches might cause:
 
 -   harm to individuals
--   financial loss to the Ministry of Justice \(MoJ\)
+-   financial loss to the
 -   a loss of confidence in us as an organisation
 
 For personal data, the EU General Data Protection Regulation \(GDPR\) and UK Data Protection Act \(2018\) apply. These make the consequences of data breaches very clear.
@@ -41,9 +41,9 @@ All our work must follow this ethos.
 
 ## When this applies
 
-This principle applies to **all** MoJ technology projects and business activities.
+This principle applies to **all** technology projects and business activities.
 
-While GDPR applies only to personal information, all MoJ projects and tasks must have excellent data security and privacy characteristics. If they handle personal data, they must do so correctly. Projects must follow MoJ guidelines unless exceptional and approved circumstances apply.
+While GDPR applies only to personal information, all projects and tasks must have excellent data security and privacy characteristics. If they handle personal data, they must do so correctly. Projects must follow guidelines unless exceptional and approved circumstances apply.
 
 You can design your product to handle personal information correctly. There are a small number of extra steps you will have to take. Remember that personal data includes anything which might identify an individual. Even online identifiers, such as cookies, are personal data.
 
@@ -53,15 +53,7 @@ A Data Protection Impact Assessment \(DPIA, formerly commonly known as a Privacy
 
 ## Data privacy
 
-The MoJ [Data Protection Team](mailto:DataProtection@justice.gov.uk) provides services, guidance, and support for all aspects of data privacy and protection.
+The provides services, guidance, and support for all aspects of data privacy and protection.
 
 For example, they have [protocols and procedures](acceptable-use-policy.md#data-protection-acceptable-use-protocols-and-standard-operating-procedures) to help ensure acceptable use of personal information.
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

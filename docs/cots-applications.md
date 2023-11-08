@@ -1,6 +1,6 @@
 # Commercial off-the-shelf applications
 
-We have developed a series of logging requirements for Commercial off-the-shelf \(COTS\) applications, such as Software-as-a-Service \(SaaS\) solutions or where applications are not so customised that they can reasonably be considered bespoke/custom for the Ministry of Justice \(MoJ\).
+We have developed a series of logging requirements for Commercial off-the-shelf \(COTS\) applications, such as Software-as-a-Service \(SaaS\) solutions or where applications are not so customised that they can reasonably be considered bespoke/custom for the .
 
 ## Baseline Maturity Tier
 
@@ -19,7 +19,7 @@ User directories within application environments can be rich and diverse, such t
 -   Okta
 -   Auth0
 -   github.com \(acting as an identity provider\)
--   Google Workspace \(acting as an identity provider\)
+-   \(acting as an identity provider\)
 -   Oracle identity stores
 -   Local user stores within operating systems leveraged by tenant applications
 
@@ -69,7 +69,7 @@ Temporary data stores \(such as intermediate queues\) and permanent data store \
 
 Log Collection Principle\(s\): 6
 
-Where unauthenticated users interact with applications \(for example, a MoJ Google Workspace document available on the general Internet through relaxed access controls\), associated audit information must be created.
+Where unauthenticated users interact with applications \(for example, a document available on the general Internet through relaxed access controls\), associated audit information must be created.
 
 1.  End-client identifier\(s\)
 2.  Query metadata:
@@ -78,8 +78,4 @@ Where unauthenticated users interact with applications \(for example, a MoJ Goog
     3.  Query size
 3.  Response size
 4.  Response time
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

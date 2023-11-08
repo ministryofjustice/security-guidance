@@ -13,9 +13,9 @@ This guidance helps you use Bluetooth enabled devices and peripheral devices.
 
 Bluetooth works by 'pairing' devices. This makes it quick and simple to use. The problem is that Bluetooth, and the pairing process, is not very secure. This means that attackers might get unauthenticated access to devices. As an example, an attacker 'listening' to the Bluetooth connection between a computer and a keyboard could possibly intercept passwords or other sensitive information as the details are typed on the keyboard.
 
-This guidance tells you more about the Ministry of Justice \(MoJ\) view of Bluetooth, from a security perspective. It also gives you hints and tips on how to use Bluetooth more safely.
+This guidance tells you more about the view of Bluetooth, from a security perspective. It also gives you hints and tips on how to use Bluetooth more safely.
 
-The aim is to help you maintain the Confidentiality, Integrity and Availability of MoJ data, applications and services. The results should be that:
+The aim is to help you maintain the Confidentiality, Integrity and Availability of data, applications and services. The results should be that:
 
 -   the information you access is not compromised
 -   you can connect devices using Bluetooth, safely
@@ -27,14 +27,12 @@ The aim is to help you maintain the Confidentiality, Integrity and Availability 
 
 Some types of Bluetooth devices are not allowed, by default. However, where there is a good reason for requiring a Bluetooth device, such as for Accessibility reasons, then a request for an exception to use the device will be treated sympathetically and permitted wherever possible.
 
-Contact the Security team by email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
-
 ## Bluetooth devices and risks
 
 Examples of Bluetooth devices, and whether they might be used for business purposes, are as follows:
 
-|Bluetooth device|Suitable for MoJ work purposes \(Y/N\)|
-|----------------|:------------------------------------:|
+|Bluetooth device|Suitable for work purposes \(Y/N\)|
+|----------------|:--------------------------------:|
 |Keyboards|Y|
 |Mouse|Y|
 |Telephone headsets|Y|
@@ -43,7 +41,7 @@ Examples of Bluetooth devices, and whether they might be used for business purpo
 |Trackpads|N - but exception possible for Accessibility reasons|
 |External speakers|Y - but be aware of other people or devices nearby that might be listening|
 |Gaming joysticks and controllers|N - but exception possible for Accessibility reasons|
-|Laptops|Y - for MoJ-issued devices|
+|Laptops|Y - for -issued devices|
 |Hearing aids|Y|
 |Watches and Fitness bands|N|
 |Smart TVs|N - requires authorisation|
@@ -71,7 +69,7 @@ Automatic transfer of contact information and calendar events might happen durin
 
 Additionally, although such platforms usually offer an option to delete paired profiles, there is currently no confirmation that the data is actually erased to a satisfactory level. Transferred information might not be immediately visible or accessible, but this is not the same as deleting the information from the vehicle.
 
-For these reasons, MoJ devices **shall not** be paired with Bluetooth-enabled vehicles.
+For these reasons, devices be paired with Bluetooth-enabled vehicles.
 
 ## Best practices for using Bluetooth
 
@@ -86,7 +84,7 @@ Before using a Bluetooth device in a work context, consider the following:
 -   Have you connected to any other 'public' Bluetooth devices?
 -   Are all the devices password protected?
 -   Might someone be able to find out what Bluetooth devices you are using?
--   Is the material you are working with **Official-Sensitive** or higher?
+-   Is the material you are working with or higher?
 
 The best way to ensure your Bluetooth device is as up-to-date as possible is to apply all patches and fixes for all hardware devices as soon as you can.
 
@@ -102,13 +100,5 @@ When in public places, make sure you only connect to known devices. Always ensur
 
 If someone can find what Bluetooth devices you have, or are using, they might try and use one of their device to intercept or monitor the connection. Try to keep Bluetooth devices out of sight so that no-one knows which ones you might actually be using. Even the bright blue light Bluetooth devices illuminate when they are connected might draw unwanted attention.
 
-Generally speaking, Bluetooth devices do not present extra problems when working with **Official** material. However, the whole point of Bluetooth is to enable and simplify communications, so you need to be extra careful when using Bluetooth devices while working on **Official-Sensitive** or higher material.
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+Generally speaking, Bluetooth devices do not present extra problems when working with material. However, the whole point of Bluetooth is to enable and simplify communications, so you need to be extra careful when using Bluetooth devices while working on or higher material.
 

@@ -1,10 +1,10 @@
 # Patch Management Guide
 
-This guide explains the patching requirements for Ministry of Justice \(MoJ\) systems once a vulnerability has been identified.
+This guide explains the patching requirements for systems once a vulnerability has been identified.
 
 This guide is a sub-page to the [Vulnerability Scanning and Patch Management Guide](vulnerability-scanning-and-patch-management-guide.md)
 
-The intent is to avoid compromise of MoJ systems because of vulnerabilities.
+The intent is to avoid compromise of systems because of vulnerabilities.
 
 **Parent topic:** [Vulnerability Scanning and Patch Management Guide](vulnerability-scanning-and-patch-management-guide.md)
 
@@ -13,9 +13,9 @@ The intent is to avoid compromise of MoJ systems because of vulnerabilities.
 
 [Technical Controls Policy](technical-controls-policy.md)
 
-## Patching of MoJ systems and equipment
+## Patching of systems and equipment
 
-This guidance must be followed for all systems and services developed or procured by the MoJ. It applies to all asset types including, but not limited to:
+This guidance must be followed for all systems and services developed or procured by the . It applies to all asset types including, but not limited to:
 
 -   Internet facing websites and digital services.
 -   End user client devices, such as Desktop PCs, laptops, tablets, and mobile phones.
@@ -59,14 +59,14 @@ If a system or service, or a component it depends on, can no longer be licensed 
 
 In summary:
 
--   It must be possible to patch or mitigate an MoJ system or service. A clear, documented process must exist explaining how to patch or mitigate.
+-   It must be possible to patch or mitigate an system or service. A clear, documented process must exist explaining how to patch or mitigate.
 -   Wherever possible, patching should be automated, or at least have minimum possible dependency on manual intervention.
 -   If a patch is not available, or cannot be deployed, then a suitable risk mitigation might be acceptable.
 -   Patching or mitigating a system or service might impact or be affected by other systemic components. These must be identified and addressed as part of the patch or mitigation process.
 
-## MoJ Digital services
+## Digital services
 
-For systems or services developed by the MoJ, it must be possible to patch or mitigate in order to address any vulnerabilities. To ensure this is possible:
+For systems or services developed by the , it must be possible to patch or mitigate in order to address any vulnerabilities. To ensure this is possible:
 
 -   The Beta development stage must include a mechanism or process for a new or updated service to track and apply patches.
 -   Sufficient logs must be available from the new or updated service, so that security problems can be tracked from identification through to rectification.
@@ -86,8 +86,6 @@ Where the rating is Medium \(2\) or lower, the patch can be deferred to the next
 
 This schedule outline is considered a baseline. Some systems might require different patching schedules. These different schedules must be identified in the system's Information Risk Assessment Report \(IRAR\).
 
-An IRAR is normally completed by Security Architects and Risk Assessors, in conversation with the system architects, designers and developers. The IRAR document must also be agreed with the Business Continuity Team. For more information regarding IRARs, and how to create and maintain them, contact the [Security team](mailto:security@justice.gov.uk).
-
 |Rating \(Severity\)|Infrastructure Devices; Server Applications; Digital Services|End User Client Devices|Web Check Reporting|
 |-------------------|-------------------------------------------------------------|-----------------------|-------------------|
 |Critical \(4\)|3-7 days after vulnerability alert released.|14 days after vulnerability alert released.|**Urgent:** Serious configuration problems that you should fix without delay and no later than 28 days after the vulnerability alert is released.|
@@ -98,19 +96,19 @@ An IRAR is normally completed by Security Architects and Risk Assessors, in conv
 
 ## Patch management processes
 
-There are two patching and change management approaches in the MoJ.
+There are two patching and change management approaches in the .
 
 ### Infrastructure and services provided by a Managed Service Provider \(MSP\)
 
-Where services and infrastructure are provided by MSPs, the vendor is normally responsible for developing and implementing patches to identified vulnerabilities. Patches or a workaround must be provided by vendors to ensure the MoJ is able to meet the schedule for implementing patches.
+Where services and infrastructure are provided by MSPs, the vendor is normally responsible for developing and implementing patches to identified vulnerabilities. Patches or a workaround must be provided by vendors to ensure the is able to meet the schedule for implementing patches.
 
 If this is not possible, vendors must provide a firm statement that the patch or workaround cannot be made available within the timescale mandated for addressing the vulnerability. The vulnerability alert must then be escalated to the Risk Advisor team \([contact through email](#contact-details)\) for help with acceptance, transfer, mitigation or avoidance.
 
 Any patches to be deployed must go through the normal change management and approval process, and the changes recorded in the Service Management Tool.
 
-### Services and applications developed by MoJ in-house project teams
+### Services and applications developed by in-house project teams
 
-Where services and applications are developed by MoJ in-house project teams, patching and change management is addressed on a project-by-project basis. Changes are identified through awareness channels and scanning activities. These identify operational and security issues. A change management ticket must be created, detailing the change required. The project manager follows the change management process to determine how and when to implement the change, based on the security risk rating.
+Where services and applications are developed by in-house project teams, patching and change management is addressed on a project-by-project basis. Changes are identified through awareness channels and scanning activities. These identify operational and security issues. A change management ticket must be created, detailing the change required. The project manager follows the change management process to determine how and when to implement the change, based on the security risk rating.
 
 The patch review and approval is normally managed within the project team. If assistance is required, contact the [Security Team](#contact-details).
 
@@ -130,9 +128,5 @@ In exceptional cases where patching of systems is not possible, other mitigation
 
 ## Contact details
 
-Contact the Security Team for advice on risk, scanning and patching, to report a vulnerability alert, or to add a URL to the MoJ Web Check system: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+Contact the Security Team for advice on risk, scanning and patching, to report a vulnerability alert, or to add a URL to the Web Check system: .
 

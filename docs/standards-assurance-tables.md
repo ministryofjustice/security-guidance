@@ -4,11 +4,11 @@ redirect_from:
 ---
 # Standards Assurance Tables
 
-The Ministry of Justice \(MoJ\) Cyber Security team have developed a 'Standards Assurance Table' \(SAT\) in the form of a Google Sheet template.
+The Cyber Security team have developed a 'Standards Assurance Table' \(SAT\) in the form of a Google Sheet template.
 
 The SAT measures technology systems \(and surrounding information governance\) against the [UK Cabinet Office](https://www.gov.uk/government/organisations/cabinet-office) [Minimum Cyber Security Standard \(MCSS\)](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard) and [UK National Cyber Security Centre \(NCSC\)](https://www.ncsc.gov.uk/) [Cloud Security Principles \(CSPs\)](https://www.ncsc.gov.uk/collection/cloud-security?curPage=/collection/cloud-security/implementing-the-cloud-security-principles).
 
-For transparency and open-working purposes, a [redacted copy of the Standards Assurance Table](https://docs.google.com/spreadsheets/d/1oO9RAZQ6ETsN2iHZb5zcFM0HROliw18MBv89oF-BPeg/edit?usp=sharing) has been published. Please note, this is not the functional template used within the MoJ.
+For transparency and open-working purposes, a [redacted copy of the Standards Assurance Table](https://docs.google.com/spreadsheets/d/1oO9RAZQ6ETsN2iHZb5zcFM0HROliw18MBv89oF-BPeg/edit?usp=sharing) has been published. Please note, this is not the functional template used within the .
 
 ## SAT Template
 
@@ -214,8 +214,4 @@ Using the [categories used within the MCSS](identify-protect-detect-respond-reco
 
 -   Have these measures been tested in the last 12 months?
 
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

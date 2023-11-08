@@ -1,9 +1,9 @@
 # Locking and shutdown
 
-The Ministry of Justice \(MoJ\) has made a commitment towards sustainable IT. The intentions are:
+The has made a commitment towards sustainable IT. The intentions are:
 
--   To reduce overall power consumption for the MoJ by switching off machines and saving energy.
--   To reduce the MoJ's overall carbon footprint.
+-   To reduce overall power consumption for the by switching off machines and saving energy.
+-   To reduce the 's overall carbon footprint.
 
 ## Shutting down a desktop computer
 
@@ -18,7 +18,7 @@ By switching off our computers at the end of each working day, we are contributi
 
 ## Dealing with issues preventing you from switching off your computer
 
-If there are any issues preventing you from switching off your desktop computer overnight, then please raise this with the [IT Service Desk](#general-enquiries-including-theft-and-loss) immediately as there could be an underlying fault that needs resolving.
+If there are any issues preventing you from switching off your desktop computer overnight, then please raise this with the [\#general-enquiries-including-theft-and-loss](#general-enquiries-including-theft-and-loss) immediately as there could be an underlying fault that needs resolving.
 
 If you require any further information regarding this policy, [ask for help](#contact-details).
 
@@ -26,7 +26,7 @@ If you require any further information regarding this policy, [ask for help](#co
 
 Access to most computer systems is controlled by a user name and password. If you have the correct information, you are able to 'log in' or 'log on'. The user name identifies the user as a valid user of the system and the password authenticates that the user is who they say they are.
 
-You are responsible for what you do with an MoJ system or service. You might be held responsible for any actions carried out using your user name and password. You must therefore not allow any one else to do work on any system using your user name and password. If you leave your computer logged on when you are away from it, it might be possible for sensitive information held on the computer system to be used, read, changed, printed or copied by someone not authorised to access it.
+You are responsible for what you do with an system or service. You might be held responsible for any actions carried out using your user name and password. You must therefore not allow any one else to do work on any system using your user name and password. If you leave your computer logged on when you are away from it, it might be possible for sensitive information held on the computer system to be used, read, changed, printed or copied by someone not authorised to access it.
 
 If you are leaving your computer unattended for a short period of time, 'lock' the computer by activating the password protected screen saver or similar 'locking' facility. A simple and quick way to lock a Windows computer is:
 
@@ -40,7 +40,7 @@ A simple and quick way to lock a Mac computer is:
 
 ## Laptops
 
-All MoJ laptops have hard disk encryption installed. This protects the entire contents of a laptop's hard disk drive to prevent any data stored locally from being accessed in the event the laptop is either lost or stolen.
+All laptops have hard disk encryption installed. This protects the entire contents of a laptop's hard disk drive to prevent any data stored locally from being accessed in the event the laptop is either lost or stolen.
 
 ## Laptop incidents
 
@@ -50,7 +50,7 @@ This is not good security practice.
 
 If a device is lost or stolen whilst the machine is in locked mode, the data on the machine is more vulnerable to a potential security breach.
 
-Leaving the laptop in MoJ premises is not sufficient to guarantee the equipment's security. Laptop losses do sometimes occur within MoJ offices. There is a greater risk of data loss when a laptop is left partially logged on overnight, so you should always fully log off the laptop at the end of your working day.
+Leaving the laptop in premises is not sufficient to guarantee the equipment's security. Laptop losses do sometimes occur within offices. There is a greater risk of data loss when a laptop is left partially logged on overnight, so you should always fully log off the laptop at the end of your working day.
 
 ## Laptop security
 
@@ -58,26 +58,4 @@ Leaving the laptop in MoJ premises is not sufficient to guarantee the equipment'
 -   Do not attach the password to the machine or keep the password with the machine.
 
 If you need further assistance or information about this process, [ask for help](#contact-details).
-
-## General enquiries, including theft and loss
-
-**Technology Service Desk** - including DOM1/Quantum, and Digital &amp; Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
-
--   Tel: 0800 917 5148
--   [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
-
-**Note:** The previous `itservicedesk@justice.gov.uk` and `servicedesk@digital.justice.gov.uk` email addresses, and the Digital &amp; Technology Digital Service Desk Slack channel \(`#digitalservicedesk`\), are no longer being monitored.
-
-**HMPPS Information &amp; security:**
-
--   Email: [informationmgmtsecurity@justice.gov.uk](mailto:informationmgmtsecurity@justice.gov.uk)
--   Tel: 0203 334 0324
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

@@ -1,6 +1,6 @@
 # Short format clause
 
-The current draft of the Ministry of Justice \(MoJ\) commodity short format data destruction clause.
+The current draft of the commodity short format data destruction clause.
 
 `Highlighted` words indicate potential requirement for contextual change, requirement of definition and so on.
 
@@ -17,8 +17,4 @@ Data Destruction must follow applicable guidance from the UK National Cyber Secu
 Data Destruction for electronic/magnetic storage **must** include, unless otherwise superseded by NCSC, PCI-DSS or specific `Authority` guidance: the revocation or otherwise destruction of decryption keys and/or mechanisms to render data inaccessible or otherwise void through the use of modern cryptography; AND/OR data overwriting methods consisting of at least 3 \(three\) complete overwrite passes of random data.
 
 Data Destruction for printed materials **must** include, unless otherwise superseded by NCSC or specific `Authority` guidance: paper cross-shredding methods to satisfy at least the DIN 66399 Level 4 standard with a maximum cross cut particle surface area 160 \(one hundred and sixty\) millimetres squared with a maximum strip width of 6 \(six\) millimetres.
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

@@ -1,8 +1,6 @@
 # Glossary
 
-This information is a reference list of Ministry of Justice \(MoJ\) terms and abbreviations.
-
-A more extensive list of acronyms is available [here](https://ministryofjustice.github.io/acronyms/).
+This information is a reference list of terms and abbreviations.
 
 The NCSC has a comprehensive [cybersecurity glossary available on its website](https://www.ncsc.gov.uk/information/ncsc-glossary).
 
@@ -18,13 +16,13 @@ The NCSC has a comprehensive [cybersecurity glossary available on its website](h
 
 -   **Authorised User**
 
-    Any user of services covered as authorised by the MoJ.
+    Any user of services covered as authorised by the .
 
 <a name="blue-team"></a>
 
 -   **Blue Team**
 
-    The internal security defence team in an organisation. Within the MoJ, this work is performed by the [Security Team](#operational-security-team-ost).
+    The internal security defence team in an organisation. Within the , this work is performed by the [Security Team](#operational-security-team-ost).
 
 <a name="brute-force-attack"></a>
 
@@ -156,7 +154,7 @@ The NCSC has a comprehensive [cybersecurity glossary available on its website](h
 
 -   **Operational Security Team \(OST\)**
 
-    Deprecated name for the Security Team within the MoJ. The Security Team help protect against cyber attacks, and help manage [incidents](#incident). Sometimes referred to as the [Blue Team](#blue-team). They can be contacted through email: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+    Deprecated name for the Security Team within the . The Security Team help protect against cyber attacks, and help manage [incidents](#incident). Sometimes referred to as the [Blue Team](#blue-team). They can be contacted through email: .
 
 <a name="out-of-band-check"></a>
 
@@ -306,12 +304,4 @@ Be sure to get official contact details for companies only from their official w
 Doing an out of band check lets you confirm that the messages come from the person they claim to be, and that the requests are valid. This helps prevent you or your company from losing money to fake invoices, from accidentally giving up sensitive information or credentials, and from having unauthorised individuals in your place of work. Doing an out of band check is fast and easy.
 
 All members of your workplace should be happy to receive such a check. It shows that you take security seriously, and that you are helping to protect them as well as yourself.
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

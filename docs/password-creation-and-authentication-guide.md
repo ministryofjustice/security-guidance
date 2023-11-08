@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This guide sets out considerations for creating passwords and authenticating users for access to Ministry of Justice \(MoJ\) systems. This includes ensuring that there are appropriate authentication methods for information, accounts and systems. For more information, refer to the [Password Management Guide](password-management-guide.md).
+This guide sets out considerations for creating passwords and authenticating users for access to systems. This includes ensuring that there are appropriate authentication methods for information, accounts and systems. For more information, refer to the [Password Management Guide](password-management-guide.md).
 
 This guide has been written to align with [NCSC guidance](https://www.ncsc.gov.uk/collection/passwords/updating-your-approach).
 
@@ -26,15 +26,15 @@ For more details about passwords for service accounts, refer to the [Passwords](
 
 ## Password history and block listing
 
-The MoJ requires a password allow list to help users create strong passwords. This is a list of commonly used passwords, which can be easily guessed or brute forced by threat actors, and so must not be used. To understand trends in bad passwords and set up password allow listing, refer to 'SecLists', found on [GitHub](https://github.com/danielmiessler/SecLists/tree/master/Passwords).
+The requires a password allow list to help users create strong passwords. This is a list of commonly used passwords, which can be easily guessed or brute forced by threat actors, and so must not be used. To understand trends in bad passwords and set up password allow listing, refer to 'SecLists', found on [GitHub](https://github.com/danielmiessler/SecLists/tree/master/Passwords).
 
-The MoJ requires password history management, to prevent an old password being reused. This prevents threat actors using previously compromised passwords in an attack, and helps to enforce MoJ strong password requirements.
+The requires password history management, to prevent an old password being reused. This prevents threat actors using previously compromised passwords in an attack, and helps to enforce strong password requirements.
 
 ## Multi-factor authentication
 
-MFA provides an additional layer of security for login and access controls. Two-Factor Authentication \(2FA\), Time-based One-Time Password Algorithm \(TOTP\), and hardware and software tokens and biometric authentication are all forms of MFA that might be used within MoJ systems. The [Access Control Guide](access-control-guide.md) provides further information.
+MFA provides an additional layer of security for login and access controls. Two-Factor Authentication \(2FA\), Time-based One-Time Password Algorithm \(TOTP\), and hardware and software tokens and biometric authentication are all forms of MFA that might be used within systems. The [Access Control Guide](access-control-guide.md) provides further information.
 
-If a service supports MFA, it must be enabled and used by default. An MFA prompt must appear when attempting to access an **Official** system, where:
+If a service supports MFA, it must be enabled and used by default. An MFA prompt must appear when attempting to access an system, where:
 
 -   The system relies upon 'cloud' applications, cloud-based APIs, or other internet-connected services.
 -   A new device is used to log on to the service.
@@ -44,16 +44,8 @@ Further guidance around the use of Multi-Factor Authentication can be found in t
 
 ## Single-Sign On
 
-MoJ SSO solutions include Office 365, and Digital and Technology G-Suite. SSO solutions must be integrated within the MoJ application development and service delivery environment, to improve user experience by authenticating to systems using existing MoJ credentials. SSO must:
+SSO solutions include Office 365, and Digital and Technology G-Suite. SSO solutions must be integrated within the application development and service delivery environment, to improve user experience by authenticating to systems using existing credentials. SSO must:
 
--   Have a pre-defined identity source for users, such as Active Directory, Google Directory or LDAP. This means a developer or service provider must use an established MoJ SSO solution rather than creating a new one.
+-   Have a pre-defined identity source for users, such as Active Directory, Google Directory or LDAP. This means a developer or service provider must use an established SSO solution rather than creating a new one.
 -   Normally be based on applications rather than groups of people. This means that SSO is to a specific application or service, rather than saying something like 'all administrators of the Widget application have SSO-managed access'. Instead, SSO must be enabled for the 'Widget' application. It can be based on groups of people or roles if these have been defined.
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

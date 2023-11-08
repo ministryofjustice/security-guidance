@@ -4,9 +4,9 @@ redirect_from:
 ---
 # Defensive domain registrations
 
-The Ministry of Justice \(MoJ\) and associated organisations \(Executive agencies, non-departmental public bodies and so on\) maintain varying levels of 'online presence' using domain registrations. This are a fundamental part of the organisation's identity on the public internet. An example is the `justice.gov.uk` email domain used for contacting other government organisations, partners and members of the public.
+The and associated organisations \(Executive agencies, non-departmental public bodies and so on\) maintain varying levels of 'online presence' using domain registrations. This are a fundamental part of the organisation's identity on the public internet. An example is the `justice.gov.uk` email domain used for contacting other government organisations, partners and members of the public.
 
-Each MoJ organisation **must** identify a core set of internet domains it considers critical to its internet identity. Each MoJ organisation must then defensively register a small number of obvious variations \(for example, `justice.gov.uk` may justify `justicegov.uk`, `justice.co.uk` and `justice.uk` where already not used for legitimate purposes\).
+Each organisation **must** identify a core set of internet domains it considers critical to its internet identity. Each organisation must then defensively register a small number of obvious variations \(for example, `justice.gov.uk` may justify `justicegov.uk`, `justice.co.uk` and `justice.uk` where already not used for legitimate purposes\).
 
 These registrations will help protect the organisation, as well as its partners and members of the public, from illegitimate parties pretending to be the organisation when they are not. Failing to register these domains can cause problems, such as phishing emails using what seem to be plausible domains.
 
@@ -86,7 +86,7 @@ Mail services/redirects must **not** be functional or available for defensively 
 
 ## Registering and maintaining a defensive domain
 
-MoJ organisations should contact [domains@digital.justice.gov.uk](mailto:domains@digital.justice.gov.uk) for assistance with defensive domain registrations and operations.
+organisations should contact [domains@digital.justice.gov.uk](mailto:domains@digital.justice.gov.uk) for assistance with defensive domain registrations and operations.
 
 ## Decommissioning a domain
 
@@ -98,7 +98,7 @@ But it's important to check whether the domain is still required, even when the 
 
 The answer depends on how the original domain was used in practice.
 
-For example, if the domain was only used internally within the MoJ, and all references to it have already been updated to point to the new or replacement service, then the old domain name probably does not need to be kept for more than 12 months.
+For example, if the domain was only used internally within the , and all references to it have already been updated to point to the new or replacement service, then the old domain name probably does not need to be kept for more than 12 months.
 
 However, there are circumstances where it is important to keep a domain for longer periods of time. For example:
 
@@ -110,8 +110,4 @@ In general, unless there is a good case for saying that a domain name does not n
 
 -   A domain associated with a decommissioned service **must** be maintained for *at least* five years after the corresponding service is decommissioned.
 -   The domain registration **must** be reviewed again *not less than* 12 months before it is due to expire, to determine if the registration should still be maintained.
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

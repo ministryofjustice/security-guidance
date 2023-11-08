@@ -5,34 +5,13 @@
 
 [Technical Controls Policy](technical-controls-policy.md)
 
-## Legacy information
-
-**Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-**Note:** This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
-
--   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   **Confidential**, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   DSO \(Departmental Security Officer\), contact the Chief Security Officer \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS2 \(HMG Infosec Standard 2 Information Risk Management\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   ITSO \(Information Technology Security Officer\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   **Restricted**, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
 ## About this document
 
-This document is the Ministry of Justice \(MoJ\) System Test Standard. It is designed to help protect MoJ IT systems by providing a common standard for system security testing.
+This document is the System Test Standard. It is designed to help protect IT systems by providing a common standard for system security testing.
 
 ## How to use this document
 
-The purpose of this standard is to provide a process around the security testing of MoJ IT systems and outline what security issues should be considered at each stage of the process.
+The purpose of this standard is to provide a process around the security testing of IT systems and outline what security issues should be considered at each stage of the process.
 
 **Note:** This document focuses on the security aspects of system testing. It is not intended to provide comprehensive information on general system testing.
 
@@ -46,11 +25,11 @@ The purpose of system testing is to ensure all the functional and non-functional
 
 > Departments and Agencies must put in place an appropriate range of technical controls for all IT systems, proportionate to the value, importance and sensitivity of the information held and the requirements of any interconnected systems.
 
-Policy statements on system testing are covered in the [IT Security Technical Users Policy](it-security-technical-users-policy.md). This document sets out the MoJ standard for system test implementation from a security perspective.
+Policy statements on system testing are covered in the [IT Security Technical Users Policy](it-security-technical-users-policy.md). This document sets out the standard for system test implementation from a security perspective.
 
 ### Scope
 
-This standard is concerned with the security testing of all MoJ IT systems including IT systems hosted by third party suppliers on behalf of the MoJ.
+This standard is concerned with the security testing of all IT systems including IT systems hosted by third party suppliers on behalf of the .
 
 ### Definitions
 
@@ -71,11 +50,11 @@ For the purposes of this standard, the following definitions apply:
 
 ### Demonstration of Compliance
 
-The [CESG Information Assurance Maturity Model \(IAMM\)](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) sets out the minimum maturity level Government departments should attain. System testing is captured as a basic requirement in Level 1, which the MoJ will need to demonstrate compliance with in the MoJ IAMM return to Cabinet Office.
+The [CESG Information Assurance Maturity Model \(IAMM\)](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) sets out the minimum maturity level Government departments should attain. System testing is captured as a basic requirement in Level 1, which the will need to demonstrate compliance with in the IAMM return to Cabinet Office.
 
 ## Testing approach
 
-This standard outlines at a high level the security testing which must be applied to all MoJ IT systems to ensure that security vulnerabilities are identified and risk managed appropriately. The aim is for this standard to feed into the overall test requirements and test plan for an IT system.
+This standard outlines at a high level the security testing which must be applied to all IT systems to ensure that security vulnerabilities are identified and risk managed appropriately. The aim is for this standard to feed into the overall test requirements and test plan for an IT system.
 
 System testing, in particular system security testing, must be performed in support of the system assurance process to provide confidence that:
 
@@ -88,7 +67,7 @@ The following three principles must be applied when putting together a test plan
 2.  The tests may need to be repeated to provide assurance that subsequent changes to the system or service have not introduced new vulnerabilities.
 3.  The testing services \(automated or otherwise\) used must generate security compliance/assurance evidence against known threats and current IT security policies. For example, penetration testing \(or ITHC\), ad-hoc scanning, secure code review, and software configuration assurance.
 
-**Note:** It is MoJ policy that system testing **shall not** be conducted in a live environment. System testing should combine tests conducted in a non-live system test environment with tests conducted in a live environment \(e.g. an IT Health Check\).
+**Note:** It is policy that system testing be conducted in a live environment. System testing should combine tests conducted in a non-live system test environment with tests conducted in a live environment \(e.g. an IT Health Check\).
 
 The rest of this document is split into four sections:
 
@@ -128,7 +107,7 @@ To protect system test data, the following principles should be followed:
 -   Test data should be erased from a testing environment immediately after the testing is complete or when no longer required.
 -   The copying and use of test data should be logged to provide an audit trail.
 
-In exceptional circumstances, the use of live system data might be permitted. Permission to use live data is by exception only. A valid business case must be approved by the MoJ IT Security Officer \(ITSO\), system assurer, and Information Asset Owner \(IAO\). Further information can be obtained from the MoJ Data Access and Compliance Unit \(DACU\) who maintain the policy on the use of live personal data.
+In exceptional circumstances, the use of live system data might be permitted. Permission to use live data is by exception only. A valid business case must be approved by the IT Security Officer \(ITSO\), system assurer, and Information Asset Owner \(IAO\). Further information can be obtained from the Data Access and Compliance Unit \(DACU\) who maintain the policy on the use of live personal data.
 
 **Note:** The risk associated with the use of live personal data for testing might require Senior Information Risk Owner \(SIRO\) approval. Refer to [this information](using-live-data-for-testing-purposes.md) for further details.
 
@@ -159,7 +138,7 @@ These tests may include:
 -   Internally conducted tests \(e.g. by the system developer\) to provide informal assurance that there are no unacceptable vulnerabilities.
 -   External and perhaps more rigorous tests to provide formal assurance, for example, a penetration test or social engineering test.
 
-There any many different types of penetration test. For most MoJ IT systems, the most common conducted is an annual [IT Health Check \(ITHC\)](#it-health-check).
+There any many different types of penetration test. For most IT systems, the most common conducted is an annual [IT Health Check \(ITHC\)](#it-health-check).
 
 Internal tests may be performed more regularly to provide informal assurance that on-going changes have not introduced any new vulnerabilities to an IT system, and that existing security controls are operating correctly.
 
@@ -167,7 +146,7 @@ Internal tests may be performed more regularly to provide informal assurance tha
 
 An IT Health Check \(ITHC\) is the penetration test conducted as part of the NCSC specified and managed [CHECK scheme](https://www.ncsc.gov.uk/information/check-penetration-testing). It is intended to provide external assurance that an IT system's setup and configuration meets the desired HMG assurance level.
 
-**Note:** Most systems connected to MoJ or other government networks or systems mandate an ITHC every 12 months.
+**Note:** Most systems connected to or other government networks or systems mandate an ITHC every 12 months.
 
 #### Vulnerability scanning
 
@@ -177,7 +156,7 @@ This type of scanning is intended to provide regular internal assurance to the I
 
 #### Compliance scanning
 
-Besides simply testing for the absence of correctly patched software, some vulnerability scanners can also test when an IT system's settings correspond to an established benchmark, for example, to the MoJ [password requirements](passwords.md), or a commercial security standard such as [PCI DSS](https://www.pcisecuritystandards.org/). The scanner operates by examining the security configuration settings of each IT system client \(through a client installed agent\) against one or more benchmarks \(e.g. PCI DSS or ISO 27001\), producing a compliance report as an output which can be supplied as assurance evidence.
+Besides simply testing for the absence of correctly patched software, some vulnerability scanners can also test when an IT system's settings correspond to an established benchmark, for example, to the [password requirements](passwords.md), or a commercial security standard such as [PCI DSS](https://www.pcisecuritystandards.org/). The scanner operates by examining the security configuration settings of each IT system client \(through a client installed agent\) against one or more benchmarks \(e.g. PCI DSS or ISO 27001\), producing a compliance report as an output which can be supplied as assurance evidence.
 
 ### Pre-live security testing
 
@@ -209,12 +188,4 @@ Should a failure occur in any of the security testing activities undertaken, an 
 #### Acceptance testing
 
 As described in the last row of Table 1, some form of security testing must form part of the acceptance criteria for an IT System.
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

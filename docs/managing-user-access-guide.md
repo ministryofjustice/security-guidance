@@ -7,11 +7,11 @@
 
 ## Introduction
 
-This guide provides information on the authentication methods which should be used to manage user access to systems and information in the Ministry of Justice \(MoJ\). This is a sub-page to the [Access Control Guide](access-control-guide.md).
+This guide provides information on the authentication methods which should be used to manage user access to systems and information in the . This is a sub-page to the [Access Control Guide](access-control-guide.md).
 
-## Managing access to MoJ systems
+## Managing access to systems
 
-The following methods can be used to manage access to the MoJ's systems. They are in order of preference for their use, with 1 providing more secure management features than 3.
+The following methods can be used to manage access to the 's systems. They are in order of preference for their use, with 1 providing more secure management features than 3.
 
 |Rank|Method|Comment|
 |----|------|-------|
@@ -37,12 +37,4 @@ System Admins should only login to a server or node via SSH to execute commands 
 
 
 The Government Digital Service \(GDS\) recommends the use of the open authorisation standard '[OAuth2](https://oauth.net/2/)' as a means to authenticate users. Refer to the [GDS guide](https://www.gov.uk/guidance/gds-api-technical-and-data-standards) for more information.
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

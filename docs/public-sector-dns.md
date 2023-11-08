@@ -16,13 +16,9 @@ The service can be used wherever a typical internet-facing DNS resolver is requi
 
 The service requires IP source address information to be provided to NCSC as while the solution is available on public IP space, it is not publicly available on the Internet for any organisation to use.
 
-The Ministry of Justice \(MoJ\) is permitted to use the service for free as a central government organisation, but suppliers to MoJ currently are not.
+The is permitted to use the service for free as a central government organisation, but suppliers to currently are not.
 
 ### Get started
 
-Contact the MoJ Cyber Security team \([security@justice.gov.uk](mailto:security@justice.gov.uk)\) to be added into MoJ's subscription of the service.
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+Contact the Cyber Security team \(\) to be added into 's subscription of the service.
 

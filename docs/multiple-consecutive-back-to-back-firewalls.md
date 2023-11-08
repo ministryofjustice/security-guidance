@@ -1,6 +1,6 @@
 # Multiple consecutive \(back-to-back\) firewalls
 
-At **Official** the Ministry of Justice \(MoJ\) does **not** require or prefer the use of two or more firewalls in a 'back-to-back' fashion unless they are reasonably required due to segregated role or trust management \(for example, interconnecting two networks which are managed independently\).
+At the does **not** require or prefer the use of two or more firewalls in a 'back-to-back' fashion unless they are reasonably required due to segregated role or trust management \(for example, interconnecting two networks which are managed independently\).
 
 ## Same rules, same management, different vendor
 
@@ -9,8 +9,4 @@ There is a myth that the use of multiple back-to-back firewalls from different v
 ## Two networks, two managers
 
 When interconnecting two networks that have different purposes or trust requirements \(and when they are potentially managed by different parties\) back-to-back firewalls can be used to enforce segregation and ensure managed integration and change control.
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

@@ -9,7 +9,7 @@ This Minimum User Clearance Requirements Guide outlines the level of security cl
 
 ## Security clearance levels
 
-The Ministry of Justice \(MoJ\) uses the [national security vetting clearance levels](https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels):
+The uses the [national security vetting clearance levels](https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels):
 
 -   Baseline Personnel Security Standard \(BPSS\)
 -   Counter Terrorist Check \(CTC\)
@@ -20,12 +20,12 @@ Where appropriate, Enhanced checks apply, for example Enhanced Security Check \(
 
 ## Minimum user clearance requirements
 
-Most of the MoJ IT systems are able to process **Official** information. Therefore all roles in the MoJ require staff to attain BPSS clearance as a minimum to be granted access rights to view **Official** information. Some roles require staff to have higher clearance.
+Most of the IT systems are able to process information. Therefore all roles in the require staff to attain BPSS clearance as a minimum to be granted access rights to view information. Some roles require staff to have higher clearance.
 
 For an individual to perform any of the following tasks, clearance higher than BPSS is required:
 
 -   Has long term, regular, unsupervised access to data centres or communications rooms.
--   Has regular privileged unsupervised and unconstrained access to systems which contain data for multiple MoJ systems, for example backups, or console access to multiple cloud services.
+-   Has regular privileged unsupervised and unconstrained access to systems which contain data for multiple systems, for example backups, or console access to multiple cloud services.
 -   Has cryptography responsibilities and handling, under advice from the Crypto Custodian.
 -   Has access to multiple system security testing outcomes which reveal vulnerabilities in live services.
 -   Has a role such as system support or IT investigation role, such that without further authority or authorisation, an individual might:
@@ -35,15 +35,7 @@ For an individual to perform any of the following tasks, clearance higher than B
 
 If an individual does not need to perform any of the previous tasks, then BPSS, DBS or Enhanced Check is sufficient.
 
-The MoJ HQ and Executive Agencies might have additional, specific requirements for DV/DV STRAP clearance for individual systems. These requirements should be followed where applicable.
+The HQ and Executive Agencies might have additional, specific requirements for DV/DV STRAP clearance for individual systems. These requirements should be followed where applicable.
 
-Please contact the [Security team](mailto:security@justice.gov.uk) for further information.
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+Please contact the for further information.
 

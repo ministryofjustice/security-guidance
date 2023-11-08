@@ -2,16 +2,16 @@
 
 ## Introduction
 
-This guide sets out the roles and requirements for setting and maintaining strong passwords across Ministry of Justice \(MoJ\) systems.
+This guide sets out the roles and requirements for setting and maintaining strong passwords across systems.
 
 The information is aimed at two audiences:
 
--   The in-house MoJ Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the [Event, Problem, Incident, CSI and Knowledge \(EPIC\) team](https://peoplefinder.service.gov.uk/teams/epic).
--   Any other MoJ business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services \(including processing, transmitting and storing data\) for, or on behalf of the MoJ.
+-   The in-house Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the [Event, Problem, Incident, CSI and Knowledge \(EPIC\) team](https://peoplefinder.service.gov.uk/teams/epic).
+-   Any other business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services \(including processing, transmitting and storing data\) for, or on behalf of the .
 
 ## Roles and responsibilities
 
-### All MoJ Digital and Technology users
+### All Digital and Technology users
 
 Everyone must ensure that password creation, distribution and maintenance is done securely.
 
@@ -33,7 +33,7 @@ Make every effort to avoid creating yet another new or modified password-based a
 
 -   Multi-user accounts should be avoided, but if required refer to the [Multi-User Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md) for further guidance.
 -   Technical controls must be implemented to support requirements in the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md).
--   Applications or software must support MFA, and where possible single sign-on \(SSO\) solutions used by the MoJ.
+-   Applications or software must support MFA, and where possible single sign-on \(SSO\) solutions used by the .
 -   Passwords must not be stored in clear text or using encryption algorithms with known security weaknesses.
 -   Passwords must not be transmitted in clear text over networks.
 -   All applications or software must use HTTPS to require authentication.
@@ -43,17 +43,17 @@ Make every effort to avoid creating yet another new or modified password-based a
 
 ### Suppliers and vendors
 
-Suppliers and vendors must ensure that their systems support the password requirements set by the MoJ.
+Suppliers and vendors must ensure that their systems support the password requirements set by the .
 
 Supplier or vendor systems must be able to change, reset and revoke passwords. This must be possible using well-defined processes.
 
-Suppliers and vendors must implement the technical controls in the MoJ guidance, such as locking accounts after repeated access attempts and blocking common password choices, to improve the effectiveness of password-enforcement and compliance.
+Suppliers and vendors must implement the technical controls in the guidance, such as locking accounts after repeated access attempts and blocking common password choices, to improve the effectiveness of password-enforcement and compliance.
 
 Senior Business Owners for Contracts should ensure that when contracts are signed, the supplier receives explicit guidance on password management and it is included in the associated contractual Security Management Plan \(SMP\).
 
 ### System Administrators
 
-System Administrators \(SAs\) must ensure that systems support the password requirements set by the MoJ. When provisioning and maintaining user accounts, SAs must:
+System Administrators \(SAs\) must ensure that systems support the password requirements set by the . When provisioning and maintaining user accounts, SAs must:
 
 -   Require a change of initial or first-time passwords.
 -   Verify a user's identity before resetting a password.
@@ -65,21 +65,4 @@ SAs must also ensure privileged accounts:
 -   Are managed and regularly reviewed for user access, so that access is revoked when a user no longer needs it. This is to prevent unauthorised access.
 -   Use MFA for user authentication.
 -   Have activity logs for the purposes of review and monitoring.
-
-## Related guides
-
-Further guidance around the management of passwords at the MoJ is available:
-
--   The [Account management](account-management.md) guide explains why you might need to change your password. It also addresses when and how you should change your password.
--   The [Multi-User Accounts and Public-Facing Service Accounts Guide](multi-user-accounts-and-public-facing-service-accounts-guide.md) explains when you should use a multi-user account and how you should authenticate a service account.
--   The [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md) helps ensure you choose the correct passwords and authentication tools to protect information in line with its security classifications.
--   The [Password Storage and Management Guide](password-storage-and-management-guide.md) provides help on storing and sharing passwords securely.
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

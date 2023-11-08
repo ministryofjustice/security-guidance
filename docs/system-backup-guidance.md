@@ -7,30 +7,9 @@
 
 [System Backup Standard](system-backup-standard.md)
 
-## Legacy information
-
-**Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-**Note:** This document might refer to several organisations, information sources, or terms that have been replaced or updated, as follows:
-
--   CESG \(Communications-Electronics Security Group\), refer to the National Cyber Security Centre \(NCSC\), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   CINRAS \(Comsec Incident Notification Reporting and Alerting Scheme\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   ComSO \(Communications Security Officer\), contact the Chief Information Security Officer \(CISO\) \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   **Confidential**, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   CPNI \([Centre for the Protection of the National Infrastructure](https://www.cpni.gov.uk/)\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   DSO \(Departmental Security Officer\), contact the Chief Security Officer \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   GPG6 \(Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks\), refer to the NCSC, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
--   IS1 \(HMG Infosec Standard 1 Technical Risk Assessment\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS2 \(HMG Infosec Standard 2 Information Risk Management\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS4 \(HMG Infosec Standard 4 Communications Security and Cryptography\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   IS6 \(HMG Infosec Standard 6 Protecting Personal Data and Managing Information Risk\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security).
--   ITSO \(Information Technology Security Officer\), contact the CISO \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
--   **Restricted**, an older information classification marking, refer to [Information Classification and Handling Policy](information-classification-and-handling-policy.md).
--   SPF \([Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework)\), refer to the [Government Functional Standard - GovS 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security), contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
 ## Backing up information
 
-Backing up is an essential part of protecting Ministry of Justice \(MoJ\) Information and Communication Technology \(IT\) resources. This guide document provides an overview of backup concepts, and why backup is important for the MoJ.
+Backing up is an essential part of protecting Information and Communication Technology \(IT\) resources. This guide document provides an overview of backup concepts, and why backup is important for the .
 
 It is not normally necessary for you as an individual user to do anything about backing up. Most of the time, it is sufficient for you to know that backups take place, and that it is normally possible to request recovery or restoration of data for a system.
 
@@ -54,23 +33,23 @@ These terms usually mean the thing: data is brought back to be the same as it wa
 
 ## Why is backing up important?
 
-A backup helps protect you and the MoJ from accidental or deliberate changes to information, for example when data are deleted or IT hardware fails.
+A backup helps protect you and the from accidental or deliberate changes to information, for example when data are deleted or IT hardware fails.
 
 Depending on the system used, backups can also provide a history of who made changes to data, and when.
 
 Backups are especially important for record retention requirements. Backups for this purpose are often called archival copies, because each is kept for an extended period of time.
 
-Protecting backups is important. The [CESG Information Assurance Maturity Model](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) \(IAMM\) describes the minimum level of information assurance that all Government departments should provide. For example, access control is a basic assurance requirement. The MoJ backup policy and standard both comply with access control assurance.
+Protecting backups is important. The [CESG Information Assurance Maturity Model](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) \(IAMM\) describes the minimum level of information assurance that all Government departments should provide. For example, access control is a basic assurance requirement. The backup policy and standard both comply with access control assurance.
 
-More information about how the MoJ backup policy meets the Security Policy Framework mandatory requirement is provided within the [IT Security - Technical Controls Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/).
+More information about how the backup policy meets the Security Policy Framework mandatory requirement is provided within the [IT Security - Technical Controls Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/).
 
 ## What systems are backed up?
 
-Backup capability is required for all MoJ IT systems, including systems hosted by third party suppliers for the MoJ.
+Backup capability is required for all IT systems, including systems hosted by third party suppliers for the .
 
-To decide if backup is required for a specific system, ask the question: "how long can the MoJ tolerate the system being unavailable?" If there is any time limit, then backup is probably required.
+To decide if backup is required for a specific system, ask the question: "how long can the tolerate the system being unavailable?" If there is any time limit, then backup is probably required.
 
-The Information Asset Owner makes the final decision about whether backup is required for an MoJ system, and what backup schedule should be followed. This is documented within the System Operating Process.
+The Information Asset Owner makes the final decision about whether backup is required for an system, and what backup schedule should be followed. This is documented within the System Operating Process.
 
 ## How often does a backup take place?
 
@@ -78,7 +57,7 @@ It depends on many factors, such as the amount of data, the sensitivity of the d
 
 For example, if some data only changes once a month, backing up the data every day is probably excessive. Similarly, if the data changes every hour, then a daily backup is not enough.
 
-A backup should be taken sufficiently often so that the time required to restore a system to full working state is less than the time for which the MoJ can tolerate the system being unavailable.
+A backup should be taken sufficiently often so that the time required to restore a system to full working state is less than the time for which the can tolerate the system being unavailable.
 
 ## Where does a backup go?
 
@@ -115,12 +94,4 @@ Some backups contain data that is sensitive. Evaluate the data that is to be bac
 ## How long is a backup kept?
 
 Keeping all backups forever on physical media is not practical or desirable. It is usually necessary to delete data and any backups after a defined period of time.
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

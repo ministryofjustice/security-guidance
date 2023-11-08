@@ -1,6 +1,6 @@
 # Phishing Guide
 
-This guide provides information about 'phishing' is. It describes what phishing is, and how it happens. It tells you what you can do to protect yourself, and to keep Ministry of Justice \(MoJ\) systems secure.
+This guide provides information about 'phishing' is. It describes what phishing is, and how it happens. It tells you what you can do to protect yourself, and to keep systems secure.
 
 There is also information on [what to do if you think you have been phished](#if-you-think-youve-been-phished).
 
@@ -17,7 +17,7 @@ Urgency makes users want to do the actions requested as quickly as possible. The
 
 Most phishes are emails, but they can also use other technology, such as SMS texts or telephone calls.
 
-Threat actors might use phishes to request payments. They might ask you to click links and log in to an account or change a password. They might instruct you to buy items for them. They might get you to provide some personal details before you can claim a supposed prize. **Never** use the link in an email asking you to change a password. Use an out-of-band method such as going directly to the website to change a password. Be cautious when following password actions requested in emails or texts.
+Threat actors might use phishes to request payments. They might ask you to click links and log in to an account or change a password. They might instruct you to buy items for them. They might get you to provide some personal details before you can claim a supposed prize.
 
 Threat actors utilise a variety of methods in phishes. They often take advantage of seasonal events to appear more legitimate. They use emotional and urgent triggers such as:
 
@@ -36,7 +36,7 @@ There are many different types of phish. You might recognise many of them. But t
 
 ### Email phishing
 
-These are emails that request actions. Examples include clicking on links to change passwords, or requesting money. **Never** use the link in an email asking you to change a password. Use an out-of-band method such as going directly to the website to change a password. Be cautious when following password actions requested in emails or texts.
+These are emails that request actions. Examples include clicking on links to change passwords, or requesting money.
 
 ### SMS phishing \(smishing\)
 
@@ -74,7 +74,7 @@ When you scan the QR code, the app asks you if you wish to go to the website or 
 
 You'll see QR codes in many situations. They give easy access to restaurant menus. They link to charity donation pages or surveys. Banks use them to link to services. They can be used to join wifi hotspots. They can be used to add contacts directly to your contacts list.
 
-A QR code in an official context should be as safe to scan as an ordinary web link. For example, a QR code on an official notice in an MoJ building.
+A QR code in an official context should be as safe to scan as an ordinary web link. For example, a QR code on an official notice in an building.
 
 If the QR code is not labelled, or is from an unknown person, be suspicious. For example, a QR code stuck on a lamppost, or a QR code on a non-official flyer on a wall in a public location. These are not safe to scan.
 
@@ -91,7 +91,7 @@ Never give MFA to codes to anyone. Genuine companies, banks, government departme
 MFA also provides an early warning system for credential compromise. If you ever receive an MFA code for an account that you are not actively logging into, then someone other than you is trying to access the account. This means your credentials might have been compromised, so as quickly as possible, you should:
 
 -   Report the problem to security.
--   Change your password. **Never** use the link in an email asking you to change a password. Use an out-of-band method such as going directly to the website to change a password. Be cautious when following password actions requested in emails or texts.
+-   Change your password.
 
 ## Check and Verify
 
@@ -123,9 +123,9 @@ If you think you have been phished:
 
 1.  Report it immediately.
 2.  If your credentials were phished, highlight that in the report.
-3.  Change the password for affected accounts as soon as possible. **Never** use the link in an email asking you to change a password. Use an out-of-band method such as going directly to the website to change a password. Be cautious when following password actions requested in emails or texts.Never use the link in an email asking you to change a password. Check and verify by going directly to the website to change a password. Be cautious when following password actions requested in emails or texts.
+3.  Change the password for affected accounts as soon as possible. Never use the link in an email asking you to change a password. Check and verify by going directly to the website to change a password. Be cautious when following password actions requested in emails or texts.
 
-MoJ firewalls and antivirus systems should catch the majority of malware before they can affect systems. By reporting the incident as quickly as possible, the security team will be alerted and on the lookout for any more sophisticated malware.
+firewalls and antivirus systems should catch the majority of malware before they can affect systems. By reporting the incident as quickly as possible, the security team will be alerted and on the lookout for any more sophisticated malware.
 
 If your credentials have been phished, reporting it immediately and resetting your password quickly greatly reduces the risks.
 
@@ -133,22 +133,11 @@ Any phishing emails that get through the filters and into your inbox will be ver
 
 ## Reporting phishes
 
-Reporting phishing attempts helps improve the filters that catch them before they get to your inbox. They also help protect other colleagues and the MoJ from being compromised, or having data or money stolen.
+Reporting phishing attempts helps improve the filters that catch them before they get to your inbox. They also help protect other colleagues and the from being compromised, or having data or money stolen.
 
 If you think you have spotted a phish, or you think you have been phished, report it as quickly as possible. If you think you have spotted a more targeted phish that claims to be from a vendor or another staff member, check and verify to determine if it is legitimate. If it is not, then please report the email as a phish.
 
 Reporting a phishing attempt is quick and easy. Contact service desk using one of these two options:
 
--   Tel: 0800 917 5148
--   [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
-
 You can also forward on all spam and phishing text messages to 7726 for free.
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

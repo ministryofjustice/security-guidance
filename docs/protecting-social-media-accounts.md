@@ -1,6 +1,6 @@
 # Protecting social media accounts
 
-Hostile attacks on Social Media accounts pose a serious threat to the Ministry of Justice \(MoJ\) and its reputation. When attacks happen, they quickly become headline news, and can happen to any account, anywhere in the world.
+Hostile attacks on Social Media accounts pose a serious threat to the and its reputation. When attacks happen, they quickly become headline news, and can happen to any account, anywhere in the world.
 
 Two types of attacks are common:
 
@@ -87,7 +87,7 @@ You might be tempted to share access to your social media account, for example i
 
 Avoid sharing access to your social media account. It's easy to forget who the details are shared with. It's also possible that postings might be made on your behalf that you don't agree with, or are not acceptable.
 
-Any MoJ social media accounts that do need to be shared will have proper access controls in place. You should never need to share your account details for work purposes.
+Any social media accounts that do need to be shared will have proper access controls in place. You should never need to share your account details for work purposes.
 
 If you need more help on this, contact your Line Manager or [Cyber Security](#cyber-security-advice).
 
@@ -97,7 +97,7 @@ Unfortunately, social media postings are a common way of sending you links to ma
 
 In the same way that you should be careful with any links or attachments sent to you using email, you should also be suspicious of links or attachments sent to you though social media. This applies to both general postings and messages sent directly to you \('Direct Messages'\).
 
-For more information, read [this article](https://intranet.justice.gov.uk/news/dont-be-caught-out-by-fraudsters/) on the MoJ Intranet.
+For more information, read [this article](https://intranet.justice.gov.uk/news/dont-be-caught-out-by-fraudsters/) on the Intranet.
 
 ## What to do if your account is bombarded
 
@@ -114,15 +114,4 @@ In a single sentence - "don't feed the trolls".
 ### Feel free to walk away
 
 Dealing with these attacks can be emotionally draining; even just reading the messages can have a far greater impact on you than you realise. Take breaks in the event of an attack, even if it's hard to - consider going for a walk to force yourself away.
-
-## Cyber Security Advice
-
-**Cyber Consultants and Risk Advisors**
-
--   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
--   Slack: `#security`
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

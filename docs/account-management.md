@@ -7,17 +7,17 @@ This guide provides help on account management, for example when passwords shoul
 The information is aimed at two audiences:
 
 -   The in-house Digital and Technology staff who are responsible for implementing controls throughout technical design, development, system integration and operation. This includes DevOps, Software Developers, Technical Architects and Service Owners. It also includes Incident Managers from the [Event, Problem, Incident, CSI and Knowledge \(EPIC\) team](https://peoplefinder.service.gov.uk/teams/epic).
--   Any other Ministry of Justice \(MoJ\) business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services \(including processing, transmitting and storing data\) for, or on behalf of the MoJ.
+-   Any other business group, agency, contractor, IT supplier and partner who in any way designs, develops or supplies services \(including processing, transmitting and storing data\) for, or on behalf of the .
 
 ## Account lockouts
 
-Account lockouts must be implemented within MoJ systems for the following reasons:
+Account lockouts must be implemented within systems for the following reasons:
 
 <a name="failure-to-change-passwords-within-the-allocated-time."></a>
 
 -   **Failure to change passwords within the allocated time.**
 
-    Systems must have a "change password" function to recover the account or contact information for the IT Service Desk.
+    Systems must have a "change password" function to recover the account or contact information for the .
 
 <a name="unsuccessful-connection-attempts."></a>
 
@@ -29,7 +29,7 @@ Account lockouts must be implemented within MoJ systems for the following reason
 
 -   **Forgotten passwords.**
 
-    All MoJ systems must have a forgotten password link on the login page, enabling the user to change the password on their own. Ensure this uses multi-factor authentication for user verification.
+    All systems must have a forgotten password link on the login page, enabling the user to change the password on their own. Ensure this uses multi-factor authentication for user verification.
 
 <a name="removed-or-revoked-access."></a>
 
@@ -42,7 +42,7 @@ Systems should have a way to forcibly revoke an account, and disconnect any acti
 
 ## Password changes
 
-When designing and developing systems for use within the MoJ, password changes must be enforced for these events:
+When designing and developing systems for use within the , password changes must be enforced for these events:
 
 -   A user has forgotten their password or is experiencing login issues.
 -   There has been a security incident involving the account or password.
@@ -59,13 +59,5 @@ Password changes must be made within the following time frames:
 
 ## Revoking accounts
 
-All MoJ user accounts are access controlled according to the user's 'need to know' requirements and their employment status. Accounts should be revoked at contract termination and during long-term absences, such as maternity or long-term sickness leave. The MoJ revokes user accounts in alignment with the [Access Control Guide](access-control-guide.md).
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+All user accounts are access controlled according to the user's 'need to know' requirements and their employment status. Accounts should be revoked at contract termination and during long-term absences, such as maternity or long-term sickness leave. The revokes user accounts in alignment with the [Access Control Guide](access-control-guide.md).
 

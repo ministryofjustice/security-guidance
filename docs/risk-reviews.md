@@ -1,18 +1,18 @@
 # Risk Reviews
 
-Information and the supporting processes, systems and networks are important and valuable Ministry of Justice \(MoJ\) assets. They are central to enabling the MoJ to perform its functions and provide services to the public, the legal professions, and other government departments and organisations.
+Information and the supporting processes, systems and networks are important and valuable assets. They are central to enabling the to perform its functions and provide services to the public, the legal professions, and other government departments and organisations.
 
-Confidentiality, integrity and availability of information is essential to maintain the MoJ's ability to provide efficient and effective services, maintain compliance with legal and regulatory requirements, and maintain its and the Government's reputation.
+Confidentiality, integrity and availability of information is essential to maintain the 's ability to provide efficient and effective services, maintain compliance with legal and regulatory requirements, and maintain its and the Government's reputation.
 
-The MoJ and its information systems and networks are faced with security threats from a wide range of sources, including computer-assisted fraud, sabotage, vandalism, fire and flood. Sources of damage such as computer viruses, computer hacking and denial of service attacks have become more common, more ambitious and increasingly sophisticated.
+The and its information systems and networks are faced with security threats from a wide range of sources, including computer-assisted fraud, sabotage, vandalism, fire and flood. Sources of damage such as computer viruses, computer hacking and denial of service attacks have become more common, more ambitious and increasingly sophisticated.
 
-The MoJ's dependence on its information systems and services means that there is always a possibility of technology-enabled security threats. Connections between the MoJ's computer networks and public and other private networks, and sharing of information resources, further increase the difficulty of achieving and maintaining control.
+The 's dependence on its information systems and services means that there is always a possibility of technology-enabled security threats. Connections between the 's computer networks and public and other private networks, and sharing of information resources, further increase the difficulty of achieving and maintaining control.
 
-It is essential that the MoJ identify its information security requirements. There are three main sources of these requirements.
+It is essential that the identify its information security requirements. There are three main sources of these requirements.
 
--   The legal, statutory, regulatory and contractual requirements that the MoJ, its partners, contractors and service providers have to satisfy.
--   The principles, objectives and requirements for information processing that the MoJ and Government have developed to support their operations, for example the protective marking system and government baseline security standards.
--   Assessed risks to the MoJ. Through risk assessment, threats to assets are identified, the potential business impacts of these threats are estimated, and the vulnerability to and likelihood of occurrence of the threats are evaluated.
+-   The legal, statutory, regulatory and contractual requirements that the , its partners, contractors and service providers have to satisfy.
+-   The principles, objectives and requirements for information processing that the and Government have developed to support their operations, for example the protective marking system and government baseline security standards.
+-   Assessed risks to the . Through risk assessment, threats to assets are identified, the potential business impacts of these threats are estimated, and the vulnerability to and likelihood of occurrence of the threats are evaluated.
 
 ## Assessing information security risk
 
@@ -35,7 +35,7 @@ Countermeasures can act in different ways such as:
 
 Risk management requires a judgement about what is an acceptable level of risk. Although this is a business decision, it does require a thorough understanding of the nature of the risk and the effectiveness of the countermeasures implemented to manage the risk. For some systems or scenarios, specialist advice might be needed.
 
-When taking risk management decisions, consideration must be given to the full implications of the decisions taken. Failure to implement some countermeasures might breach legal or regulatory requirements. This is unlikely to be an acceptable risk management decision. Failure to meet other countermeasures might breach Government information security standards; as a consequence it might not be possible to link the MoJ system with other systems. This might limit the usefulness of the MoJ system.
+When taking risk management decisions, consideration must be given to the full implications of the decisions taken. Failure to implement some countermeasures might breach legal or regulatory requirements. This is unlikely to be an acceptable risk management decision. Failure to meet other countermeasures might breach Government information security standards; as a consequence it might not be possible to link the system with other systems. This might limit the usefulness of the system.
 
 Consideration must also be given to what are tolerable financial losses, political sensitivities and adverse publicity. The cumulative effect of accepting high levels of risk should also be taken into account.
 
@@ -53,20 +53,12 @@ Effective risk management does not end once a risk assessment has been done and 
 
 ## The role of security in risk assessment and risk management
 
-The MoJ security team can provide help in all areas of security risk management for systems. Examples include:
+The security team can provide help in all areas of security risk management for systems. Examples include:
 
 -   Advice on risk assessments.
 -   Help with carrying out risk assessments.
 -   Assist with the risk management decision process.
--   Help with creating and managing documentation compliant with MoJ standards.
+-   Help with creating and managing documentation compliant with standards.
 -   Assisting with mandatory Government risk assessments.
 -   Advice on compliance checking.
-
-## Contact details
-
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 
