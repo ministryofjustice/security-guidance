@@ -27,7 +27,7 @@ Privileged users must ensure that secure configuration and change management pro
 
 For help with incidents, including theft and loss, contact one of the following:
 
-**Technology Service Desk** - including DOM1/Quantum, and Digital &amp; Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
+**Technology Service Desk** - including DOM1, and Digital &amp; Technology Digital Service Desk. Use one of the following two methods for contacting service desk:
 
 -   Tel: 0800 917 5148
 -   [MoJ Service Portal and Live Chat](https://mojprod.service-now.com/moj_sp)
