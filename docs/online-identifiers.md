@@ -33,7 +33,7 @@ It could be because the user later provides personal data to the as part of usin
 
 There might also be a legal route available to the to determine the identity behind an identifier. For example, by making a lawful request to an ISP to uncover the person associated with a dynamic IP address at a particular time.
 
-For more information on this, refer to the Information Commissioner's Office \(ICO\) [key definitions](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/key-definitions/), and "[Recital 30](https://www.privacy-regulation.eu/en/recital-30-GDPR.htm)" from the [Article 29 Working Group](https://en.wikipedia.org/wiki/Article_29_Data_Protection_Working_Party). There is also an informative article [here](https://www.fieldfisher.com/en/services/privacy-security-and-information/privacy-security-and-information-law-blog/can-a-dynamic-ip-address-constitute-personal-data).
+For more information on this, refer to the Information Commissioner's Office \(ICO\) [key definitions](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/), and "[Recital 30](https://www.privacy-regulation.eu/en/recital-30-GDPR.htm)" from the [Article 29 Working Group](https://en.wikipedia.org/wiki/Article_29_Data_Protection_Working_Party). There is also an informative article [here](https://www.fieldfisher.com/en/services/privacy-security-and-information/privacy-security-and-information-law-blog/can-a-dynamic-ip-address-constitute-personal-data).
 
 ## What does this mean for services?
 
