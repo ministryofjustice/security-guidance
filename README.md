@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains best-practice guidance and - where appropriate - policy for Ministry of Justice (MoJ) technology security.
+This  repository contains best-practice guidance and - where appropriate - policy for Ministry of Justice (MoJ) technology security.
 
 The information ranges from formal content, such as 'you must'-style documents, through to more informal help and suggestions, such as checklists.
 
