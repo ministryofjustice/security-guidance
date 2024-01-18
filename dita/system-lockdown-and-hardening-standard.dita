@@ -286,11 +286,11 @@
     <body>
       <p>The following external reference sources provide a good source of information on IT system hardening and secure system configuration.</p>
     </body>
-    <topic id="cpni">
-      <title>CPNI</title>
+    <topic id="nspa">
+      <title>NSPA</title>
       <body>
-        <p>CPNI provides general information on security IT systems including advice on how to build secure
-          systems: <xref href="https://www.cpni.gov.uk/cyber-security" format="html" scope="external">https://www.cpni.gov.uk/cyber-security</xref>.</p>
+        <p>NSPA provides general information on security IT systems including advice on how to build secure
+          systems: <xref href="https://www.npsa.gov.uk/cyber-security" format="html" scope="external">https://www.npsa.gov.uk/cyber-security</xref>.</p>
       </body>
     </topic>
     <topic id="nist">
