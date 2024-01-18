@@ -110,9 +110,9 @@ Details provided in this standard address:
 
 The following external reference sources provide a good source of information on IT system hardening and secure system configuration.
 
-### CPNI
+### NSPA
 
-CPNI provides general information on security IT systems including advice on how to build secure systems: [https://www.cpni.gov.uk/cyber-security](https://www.cpni.gov.uk/cyber-security).
+NSPA provides general information on security IT systems including advice on how to build secure systems: [https://www.npsa.gov.uk/cyber-security](https://www.npsa.gov.uk/cyber-security).
 
 ### NIST
 
