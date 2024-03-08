@@ -107,7 +107,7 @@
       <title>Hashing</title>
       <body>
         <p>Data that should be kept confidential or is worthwhile to otherwise obfuscate should be hashed. This <b>must</b> apply where authentication credentials are stored, such as a password.</p>
-        <p>The published <xref href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Password Standard</xref> has a section on hashing as part of password storage.</p>
+        <p>The published <xref href="https://security-guidance.service.justice.gov.uk/passwords/#password-storage" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Password Standard</xref> has a section on hashing as part of password storage.</p>
       </body>
     </topic>
   </topic>
