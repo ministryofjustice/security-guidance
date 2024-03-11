@@ -137,7 +137,7 @@ For the purpose of this Information Security Policy, the following roles are des
 |||Regularly reviewing the application of policy and guidance to ensure it remains appropriate to their business objectives and risk environment.|
 |||Authorising any exceptions and deviations from the IT Security Policy with consideration of the impact any changes might have to other users.|
 |**Delegated Agency SIROs**|The delegated agency SIRO is responsible for the information risk policy and guidance as it applies to their systems and personnel, and ensures the agency adheres to the MoJ's risk appetite and risk framework.|In line with the MoJ SIRO, but for Agency systems and personnel.|
-|**Information Asset Owners \(IAO\)**|IAOs, also known as IA Leads, must be satisfied that all required technical, personnel, physical and procedural security controls are in place and followed. IAOs are responsible for ensuring the management and security of their information asset over the whole asset lifecycle.|Logging and monitoring.|
+|**Information Asset Owners \(IAO\)**|IAOs must be satisfied that all required technical, personnel, physical and procedural security controls are in place and followed. IAOs are responsible for ensuring the management and security of their information asset over the whole asset lifecycle.|Logging and monitoring.|
 |||Reviewing access permissions.|
 |||Understanding and addressing risks associated to their information assets.|
 |||Ensuring secure disposal of information when it is no longer required.|
