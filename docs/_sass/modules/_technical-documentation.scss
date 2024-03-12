@@ -6,7 +6,7 @@
   
   // Offset headings down on mobile so that linking to anchors they appear after
   // the sticky 'table of contents' element
-  $stickyTocOffset: 20px + $gutter-half + 10px + 1px;
+  $stickyTocOffset: $gutter;
   
   // Pad the heading so that when linking to an anchor there is at most a
   // $gutter-half (mobile) or $gutter (tablet and above) sized gap between the
