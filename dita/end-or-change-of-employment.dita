@@ -8,9 +8,7 @@
       access to buildings,
       IT systems,
       applications and directories) are removed at the point of termination or change of employment.</p>
-    <p>If the leaver has security clearance,
-      managers should contact the <ph conref="conrefs.dita#conrefs/cluster2securityunittext"/>
-      to advise that the person has resigned and tell them their leaving date or the date on which they will be moving to a different department.</p>
+    <p>If the leaver holds a national security vetting (<ph conref="conrefs.dita#conrefs/nsvname"/>) clearance, managers must complete a leavers form which will advise the <ph conref="conrefs.dita#conrefs/nsvname"/> team that the <ph conref="conrefs.dita#conrefs/nsvname"/> clearance holder is leaving, the level of clearance held, the reason for leaving, and the date. The <ph conref="conrefs.dita#conrefs/nsvname"/> team will then inform the Protective Security Centre (PSC) who will inform UKSV and lapse the clearance.</p>
     <p>Leavers should read the HR guidance at
       <xref href="https://intranet.justice.gov.uk/guidance/hr/end-change-of-employment/" format="html" scope="external">End or change employment</xref>.</p>
     <p>Managers must also
@@ -24,6 +22,6 @@
       <p>A downloadable version of the "End or change of employment" document is available <xref href="file:///./gs/end-or-change-of-employment.docx" format="docx" scope="external">here</xref>.</p>
   </body>
   </topic>
-	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+	<topic id="contact-details-nsv" conref="conrefs.dita#conrefs/contact-details-nsv"><title/></topic>
   <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
 </topic>

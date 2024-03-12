@@ -59,6 +59,8 @@
 			<ph id="mojsecurityemailtext"><ph conref="#conrefs/moj"/> <ph conref="#conrefs/securityemailtext"/></ph>
 			<ph id="ncsclong">National Cyber Security Centre (NCSC)</ph>
 			<ph id="ncsc">NCSC</ph>
+			<ph id="nsvname">NSV</ph>
+			<ph id="nsvemail"><xref href="mailto:nsv-team@justice.gov.uk" format="html" scope="external">nsv-team@justice.gov.uk</xref></ph>
 			<ph id="nsvc-contact">If you don't know who your NSVC is,
 				refer to the download <xref href="https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/" format="html" scope="external">here</xref>.</ph>
 			<ph id="official"><b>Official</b></ph>
@@ -286,6 +288,13 @@
 		<title>Contact details</title>
 		<body>
 			<p>For any further questions or advice relating to security, contact: <ph conref="#conrefs/securityemail"/>.</p>
+		</body>
+	</topic>
+
+	<topic id="contact-details-nsv">
+		<title>Contact details</title>
+		<body>
+			<p>For any further questions or advice relating to national security vetting, contact: <ph conref="#conrefs/nsvemail"/>.</p>
 		</body>
 	</topic>
 
