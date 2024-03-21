@@ -169,7 +169,7 @@
             <p>The <ph conref="conrefs.dita#conrefs/moj"/> preference for
             transferring data is to use a secure accredited government network
             whether that is a <ph conref="conrefs.dita#conrefs/moj"/> owner
-            network (e.g. DISC, ONMI, Quantum or MINT) or the Government Secure
+            network (e.g. DISC, ONMI, MoJo or MINT) or the Government Secure
             Intranet (GSi).</p>
             <p>As these networks can support data up to and including
               <ph conref="conrefs.dita#conrefs/official-sensitive"/>,
