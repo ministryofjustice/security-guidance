@@ -74,7 +74,7 @@ The term "data in transit" covers all electronic moves or transfers of data from
 
 ##### Secure network \(system-to-system electronic transfer\)
 
-The MoJ preference for transferring data is to use a secure accredited government network whether that is a MoJ owner network \(e.g. DISC, ONMI, Quantum or MINT\) or the Government Secure Intranet \(GSi\).
+The MoJ preference for transferring data is to use a secure accredited government network whether that is a MoJ owner network \(e.g. DISC, ONMI, MoJo or MINT\) or the Government Secure Intranet \(GSi\).
 
 As these networks can support data up to and including **Official-Sensitive**, a base level of assurance is provided. However, consideration will need to be given to the following factors to ascertain if any additional security controls are required:
 
