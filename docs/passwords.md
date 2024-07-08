@@ -99,7 +99,7 @@ If you have no choice, and have to use app-based password protection, ensure tha
 
 ## Password expiry
 
-You don't have to change a password because it is old. The reason is that time-expiry of passwords is an [...outdated and ineffective practice](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date).
+You don't have to change a password because it is old. The reason is that time-expiry of passwords is an [outdated and ineffective practice](https://www.ncsc.gov.uk/collection/passwords/updating-your-approach#PasswordGuidance:UpdatingYourApproach-Don'tenforceregularpasswordexpiry).
 
 Some current or legacy systems don't allow passwords that follow MoJ guidance. For example, some mobile devices, laptop hard drive encryption tools, or older computers might not be able to support a mix of character types. For such systems, choose passwords that are as close as possible to MoJ guidance.
 
@@ -148,9 +148,7 @@ Further guidance around the management of passwords at the MoJ is available:
 
 ## User facing services
 
-Authenticate people accessing user facing services by using the [GOV.UK Verify](https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify) service. It is not necessary for someone to be a UK Citizen to use the GOV.UK Verify service, but they **shall** have a UK address.
-
-If it is not possible to use GOV.UK Verify, follow the advice presented here to support citizen passwords. Pay extra attention to the following points:
+Follow the advice presented here to support citizen passwords. Pay extra attention to the following points:
 
 -   People should have complex passwords which are different for each service they use. Make it easy for people to have complex passwords by supporting password managers. For example, services should always let users paste passwords into web forms.
 -   Don't force [regular password expiry](#password-expiry). Make it easy to [change passwords](#password-reset) when required.
