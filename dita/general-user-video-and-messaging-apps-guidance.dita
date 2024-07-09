@@ -20,7 +20,7 @@
 				<li>The Software Centre application on your device (for Dom1 equipment).</li>
 				<li>The Self Service application on your Mac (for <ph conref="conrefs.dita#conrefs/servicedesk"/> managed MacBook laptops).</li>
 			</ul>
-			<p>Currently, access to the tools mentioned in this document is not available from Quantum devices.</p>
+			<p>Currently, access to the tools mentioned in this document is not available from MoJo devices.</p>
 			<p>For other <ph conref="conrefs.dita#conrefs/moj"/> provided devices, seek help from your Line Manager in the first instance.</p>
 		</body>
 	</topic>
@@ -367,7 +367,7 @@
 				There are no extra risks for colleagues with security clearance, such as SC and DV.</p>
 			<p>If you wish to install the app, start at the <xref href="https://covid19.nhs.uk/" format="html" scope="external">NHS site</xref>.
 				<note>The NHS app may not work on some older <ph conref="conrefs.dita#conrefs/moj"/> devices.
-					Installation might not be possible, for example on Quantum smartphones.</note></p>
+					Installation might not be possible, for example on MoJo smartphones.</note></p>
 			<p>You might have both a personal and an <ph conref="conrefs.dita#conrefs/moj"/> issued device.
 				Think about which device makes most sense to use with the app.
 				It's best to install on the device that you carry with you and use most of the time.

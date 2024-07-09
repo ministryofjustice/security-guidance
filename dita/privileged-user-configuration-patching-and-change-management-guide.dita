@@ -11,7 +11,7 @@
         change is managed correctly.
         and systems are regularly patched.
         The goal is to provide guidance for both physical environments,
-        such as Dom1 and Quantum,
+        such as Dom1 and MoJo,
         as well as the Cloud estates in AWS,
         Azure and Google Cloud.
         This guide is a sub-page to the <xref href="privileged-user-guide.dita" format="dita">Privileged User Guide</xref>.</p>

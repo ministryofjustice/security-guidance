@@ -68,7 +68,7 @@
         <li>Where responsible for DOM1 systems,
           ensure backups are made to offsite locations such as to Dell EMC SANs in
           the <ph conref="conrefs.dita#conrefs/moj"/> off-site Ark and Ark-F data centres.</li>
-        <li>Where responsible for Quantum systems,
+        <li>Where responsible for MoJo systems,
           ensure backups are made to the redundant data centre.</li>
         <li>Where responsible for end user data,
           ensure data is not stored on or backed up to users' end devices but rather stored on OneDrive or Google Drive.</li>

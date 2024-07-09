@@ -160,7 +160,7 @@
           </tbody>
         </tgroup>
       </table>
-      <note>Electronic records marked <codeph>CONFIDENTIAL</codeph> should not be processed or saved on the <ph conref="conrefs.dita#conrefs/moj"/> existing standard networks such as DOM1 or Quantum, or on electronic document management systems unless or until the originator or Information Asset Owner has issued revised guidance allowing the information to be handled at <ph conref="conrefs.dita#conrefs/official"/>, including <ph conref="conrefs.dita#conrefs/official-sensitive"/>, and the system has been rated to hold material at <ph conref="conrefs.dita#conrefs/official"/>, with any additional access controls, or the system reclassified as <ph conref="conrefs.dita#conrefs/secret"/>.</note>
+      <note>Electronic records marked <codeph>CONFIDENTIAL</codeph> should not be processed or saved on the <ph conref="conrefs.dita#conrefs/moj"/> existing standard networks such as DOM1 or MoJo, or on electronic document management systems unless or until the originator or Information Asset Owner has issued revised guidance allowing the information to be handled at <ph conref="conrefs.dita#conrefs/official"/>, including <ph conref="conrefs.dita#conrefs/official-sensitive"/>, and the system has been rated to hold material at <ph conref="conrefs.dita#conrefs/official"/>, with any additional access controls, or the system reclassified as <ph conref="conrefs.dita#conrefs/secret"/>.</note>
     </body>
   </topic>
 	<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
