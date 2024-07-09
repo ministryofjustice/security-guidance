@@ -27,7 +27,7 @@ Privileged users need to ensure that there are backups of system data in order t
 Guidance for system specific privileged users:
 
 -   Where responsible for DOM1 systems, ensure backups are made to offsite locations such as to Dell EMC SANs in the MoJ off-site Ark and Ark-F data centres.
--   Where responsible for Quantum systems, ensure backups are made to the redundant data centre.
+-   Where responsible for MoJo systems, ensure backups are made to the redundant data centre.
 -   Where responsible for end user data, ensure data is not stored on or backed up to users' end devices but rather stored on OneDrive or Google Drive.
 
 ## Incident management and response
