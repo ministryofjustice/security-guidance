@@ -9,7 +9,7 @@
 
 ## Overview
 
-It can sometimes be counter-intuitive to think of IP addresses, cookies, and log data as personal data. However there are good reasons why it is important fort he Ministry of Justice \(MoJ\) during design, implementation, and operation of MoJ online services. Put simply, it is easiest for the MoJ to assume that any information captured and processed through public-facing services might contain personal information, and to protect this information accordingly.
+It can sometimes be counter-intuitive to think of IP addresses, cookies, and log data as personal data. However there are good reasons why it is important for the Ministry of Justice \(MoJ\) during design, implementation, and operation of MoJ online services. Put simply, it is easiest for the MoJ to assume that any information captured and processed through public-facing services might contain personal information, and to protect this information accordingly.
 
 ## What are online identifiers?
 
