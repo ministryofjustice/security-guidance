@@ -7,7 +7,7 @@ Contact: mailto:security@justice.gov.uk
 
 Contact: https://hackerone.com/c532d916-6529-4495-a241-eb7431cfd134/embedded_submissions/new
 
-Expires: 2023-12-31T23:59:00.000Z
+Expires: 2024-12-31T23:59:00.000Z
 
 Encryption: https://github.com/ministryofjustice/security-guidance/blob/main/contact/vulnerability-disclosure-public-encryption.pub
 
@@ -23,7 +23,7 @@ Canonical: https://github.com/ministryofjustice/security-guidance/blob/main/cont
 Policy: https://mojdigital.blog.gov.uk/vulnerability-disclosure-policy/
 
 # If you’re interested in working at the MoJ (including in our cybersecurity and privacy teams):
-Hiring: https://jobs.jobvite.com/justicedigitalandtechnology/jobs
+Hiring: https://justicejobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-2/brand-2/candidate/jobboard/vacancy/1/adv/
 
 # Please see https://securitytxt.org/ for details of the specification of this file
 # H/T to https://www.bbc.com/backstage/security-disclosure-policy/
