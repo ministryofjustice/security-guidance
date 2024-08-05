@@ -15,7 +15,7 @@ You can access tools that are provided through your MoJ provided devices by down
 -   The Software Centre application on your device \(for Dom1 equipment\).
 -   The Self Service application on your Mac \(for IT Service Desk managed MacBook laptops\).
 
-Currently, access to the tools mentioned in this document is not available from Quantum devices.
+Currently, access to the tools mentioned in this document is not available from MoJo devices.
 
 For other MoJ provided devices, seek help from your Line Manager in the first instance.
 
@@ -192,7 +192,7 @@ From a security perspective, it is safe for you to use the app on your personal 
 
 If you wish to install the app, start at the [NHS site](https://covid19.nhs.uk/).
 
-**Note:** The NHS app may not work on some older MoJ devices. Installation might not be possible, for example on Quantum smartphones.
+**Note:** The NHS app may not work on some older MoJ devices. Installation might not be possible, for example on MoJo smartphones.
 
 You might have both a personal and an MoJ issued device. Think about which device makes most sense to use with the app. It's best to install on the device that you carry with you and use most of the time. You could install on all your devices if you prefer.
 
