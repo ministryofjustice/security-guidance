@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This guide outlines the security procedures and controls privileged users should look to implement in order to ensure that systems are configured securely, change is managed correctly. and systems are regularly patched. The goal is to provide guidance for both physical environments, such as Dom1 and Quantum, as well as the Cloud estates in AWS, Azure and Google Cloud. This guide is a sub-page to the [Privileged User Guide](privileged-user-guide.md).
+This guide outlines the security procedures and controls privileged users should look to implement in order to ensure that systems are configured securely, change is managed correctly. and systems are regularly patched. The goal is to provide guidance for both physical environments, such as Dom1 and MoJo, as well as the Cloud estates in AWS, Azure and Google Cloud. This guide is a sub-page to the [Privileged User Guide](privileged-user-guide.md).
 
 ## Secure configuration and change management
 
