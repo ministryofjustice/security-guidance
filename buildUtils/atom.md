@@ -1,5 +1,9 @@
 # Setting up an Atom development and build environment
 
+The [Atom project](atom.io) was sunset on December 15th, 2022. The setup information is kept for reference, but you should consider using an alternative such as [Pulsar](https://pulsar-edit.dev/).
+
+Setup instructions for using Pulsar with this project are available [here](pulsar.md).
+
 ## Obtain and configure the DITA 1.2 DTDs
 
 1. Download an archive containing the DITA version 1.2 DTDs. This can be found here: [http://docs.oasis-open.org/dita/v1.2/os/DITA1.2-dtds.zip](http://docs.oasis-open.org/dita/v1.2/os/DITA1.2-dtds.zip).
