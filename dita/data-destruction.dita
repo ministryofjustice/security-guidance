@@ -30,7 +30,7 @@
           <p>Payment Card Industry Data Security Standard (PCI-DSS) (Data Destruction): <xref href="https://www.pcisecuritystandards.org" format="html" scope="external">https://www.pcisecuritystandards.org</xref></p>
         </li>
         <li>
-          <p>DIN: <xref href="http://www.din-66399.com/index.php/en/securitylevels" format="html" scope="external">http://www.din-66399.com/index.php/en/securitylevels</xref></p>
+          <p>DIN: <xref href="https://din66399.eu/" format="html" scope="external">https://din66399.eu/</xref></p>
         </li>
       </ul>
       <p>Data Destruction for electronic/magnetic storage <b>must</b> include, unless otherwise superseded by NCSC, PCI-DSS or specific <ph conref="conrefs.dita#conrefs/mojlong"/> guidance:</p>
