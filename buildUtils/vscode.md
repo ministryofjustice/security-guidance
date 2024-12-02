@@ -27,7 +27,7 @@
 5. Restart Visual Studio Code.
 6. In the top menu, select **Code** > **Settings** > **Settings**.
 7. In the settings search bar, type `catalog`.
-8. Click **Add Item** and paste the full pathname for the `catalog-dita.xml` you created earlier, for example: `/Users/edward.prosser/installLocal/dtd1.2/catalog-dita.xml`.
+8. Click **Add Item** and paste the full pathname for the `catalog-dita.xml` you created earlier, for example: `/Users/<user.name>/installLocal/dtd1.2/catalog-dita.xml`.
 9. Click **Ok**.
 10. Restart Visual Studio Code.
 
