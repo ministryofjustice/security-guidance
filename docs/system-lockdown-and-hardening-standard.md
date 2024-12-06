@@ -110,7 +110,7 @@ Details provided in this standard address:
 
 The following external reference sources provide a good source of information on IT system hardening and secure system configuration.
 
-### NPSA
+### National Protective Security Authority \(NPSA\)
 
 NPSA provides general information on security IT systems including advice on how to build secure systems: [https://www.npsa.gov.uk/cyber-security](https://www.npsa.gov.uk/cyber-security).
 
