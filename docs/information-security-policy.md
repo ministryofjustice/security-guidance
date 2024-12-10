@@ -34,15 +34,15 @@ The policies and standards set out the minimum baseline that areas need to achie
 
 The identified responsible officials **SHALL** comply with the following high level policy statements, as well as the lower-level policies in the Information Security Framework:
 
-1.  Staff SHALL properly identify, classify, and protect data in accordance with the MoJ's security policies and standards and with security controls proportionate to the risk to that data.
-2.  Staff, third parties and contractors SHALL identify, manage, and learn from information security incidents in accordance with the relevant policies.
-3.  Staff, third parties and contractors SHALL take all reasonable steps to safeguard the MoJ's information against unauthorised or accidental disclosure.
-4.  Senior Responsible Officers SHALL ensure that Information security be embedded into all projects and formal approval from an appropriate security representative SHALL be mandatory.
-5.  Senior Responsible Officers SHALL ensure that all information is assigned an Information Asset Owner, whose responsibilities are defined in [Guidance on the Information Asset Owner role](https://www.gov.uk/government/publications/information-asset-owner-role-guidance/guidance-on-the-information-asset-owner-role-html).
-6.  Senior Responsible Officers SHALL ensure effective and proportionate security controls are in place to manage any identified risks.
-7.  Senior Business Owners SHALL ensure the compliance of suppliers and partners with relevant MoJ security policies and understand the risk of any deviations.
-8.  Technology Service Owners SHALL protect technology services through security controls as detailed in MoJ policies and standards.
-9.  Technology Service Owners SHALL ensure that disaster recovery, and business continuity plans are implemented and tested in accordance with relevant MoJ standards.
+1.  Staff **SHALL** properly identify, classify, and protect data in accordance with the MoJ's security policies and standards and with security controls proportionate to the risk to that data.
+2.  Staff, third parties and contractors **SHALL** identify, manage, and learn from information security incidents in accordance with the relevant policies.
+3.  Staff, third parties and contractors **SHALL** take all reasonable steps to safeguard the MoJ's information against unauthorised or accidental disclosure.
+4.  Senior Responsible Officers **SHALL** ensure that Information security be embedded into all projects and formal approval from an appropriate security representative **SHALL** be mandatory.
+5.  Senior Responsible Officers **SHALL** ensure that all information is assigned an Information Asset Owner, whose responsibilities are defined in [Guidance on the Information Asset Owner role](https://www.gov.uk/government/publications/information-asset-owner-role-guidance/guidance-on-the-information-asset-owner-role-html).
+6.  Senior Responsible Officers **SHALL** ensure effective and proportionate security controls are in place to manage any identified risks.
+7.  Senior Business Owners **SHALL** ensure the compliance of suppliers and partners with relevant MoJ security policies and understand the risk of any deviations.
+8.  Technology Service Owners **SHALL** protect technology services through security controls as detailed in MoJ policies and standards.
+9.  Technology Service Owners **SHALL** ensure that disaster recovery, and business continuity plans are implemented and tested in accordance with relevant MoJ standards.
 
 ## Compliance
 
@@ -56,9 +56,9 @@ Anyone requesting a policy exemption should contact the relevant Senior Informat
 
 ## Related Information
 
-1.  [GoVS007](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security)
-2.  [HMG Cyber Security Standard](https://www.security.gov.uk/policy-and-guidance/the-cyber-security-standard/)
-3.  [Government Cyber Security Policy Handbook](https://www.security.gov.uk/policy-and-guidance/government-cyber-security-policy-handbook/)
+-   [GoVS007](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security)
+-   [HMG Cyber Security Standard](https://www.security.gov.uk/policy-and-guidance/the-cyber-security-standard/)
+-   [Government Cyber Security Policy Handbook](https://www.security.gov.uk/policy-and-guidance/government-cyber-security-policy-handbook/)
 
 ## Contact details
 

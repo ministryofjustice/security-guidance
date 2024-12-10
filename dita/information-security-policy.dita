@@ -73,11 +73,11 @@
     <title>Related Information</title>
     <body>
         <p>
-        <ol>
+        <ul>
         <li><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" scope="external">GoVS007</xref></li>
         <li><xref href="https://www.security.gov.uk/policy-and-guidance/the-cyber-security-standard/" scope="external">HMG Cyber Security Standard</xref></li>
         <li><xref href="https://www.security.gov.uk/policy-and-guidance/government-cyber-security-policy-handbook/" scope="external">Government Cyber Security Policy Handbook</xref></li>
-        </ol>
+        </ul>
         </p>
     </body>
 </topic>
