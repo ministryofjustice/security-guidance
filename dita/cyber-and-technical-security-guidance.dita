@@ -108,6 +108,7 @@
         <body>
           <p>These are the policies for all users:</p>
           <ul>
+            <li><xref href="information-security-policy.dita" format="dita">Information Security Policy</xref></li>
             <li><xref href="setecastronomy.dita" format="dita">Avoiding too much security</xref></li>
             <li><xref href="identify-protect-detect-respond-recover.dita" format="dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref></li>
             <li><xref href="it-security-all-users-policy.dita" format="dita">IT Security All Users Policy</xref></li>
