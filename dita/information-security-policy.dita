@@ -43,15 +43,15 @@
         <p>The identified responsible officials <b>SHALL</b> comply with the following high level policy statements, as well as the lower-level policies in the Information Security Framework:</p>
         <p>
             <ol>
-            <li>Staff SHALL properly identify, classify, and protect data in accordance with the <ph conref="conrefs.dita#conrefs/moj"/>'s security policies and standards and with security controls proportionate to the risk to that data. </li>
-            <li>Staff, third parties and contractors SHALL identify, manage, and learn from information security incidents in accordance with the relevant policies.</li>
-            <li>Staff, third parties and contractors SHALL take all reasonable steps to safeguard the <ph conref="conrefs.dita#conrefs/moj"/>'s information against unauthorised or accidental disclosure. </li>
-            <li>Senior Responsible Officers SHALL ensure that Information security be embedded into all projects and formal approval from an appropriate security representative SHALL be mandatory.</li>
-            <li>Senior Responsible Officers SHALL ensure that all information is assigned an Information Asset Owner, whose responsibilities are defined in <xref href="https://www.gov.uk/government/publications/information-asset-owner-role-guidance/guidance-on-the-information-asset-owner-role-html" scope="external">Guidance on the Information Asset Owner role</xref>.</li>
-            <li>Senior Responsible Officers SHALL ensure effective and proportionate security controls are in place to manage any identified risks. </li>
-            <li>Senior Business Owners SHALL ensure the compliance of suppliers and partners with relevant <ph conref="conrefs.dita#conrefs/moj"/> security policies and understand the risk of any deviations. </li>
-            <li>Technology Service Owners SHALL protect technology services through security controls as detailed in <ph conref="conrefs.dita#conrefs/moj"/> policies and standards. </li>
-            <li>Technology Service Owners SHALL ensure that disaster recovery, and business continuity plans are implemented and tested in accordance with relevant <ph conref="conrefs.dita#conrefs/moj"/> standards. </li>
+            <li>Staff <b>SHALL</b> properly identify, classify, and protect data in accordance with the <ph conref="conrefs.dita#conrefs/moj"/>'s security policies and standards and with security controls proportionate to the risk to that data. </li>
+            <li>Staff, third parties and contractors <b>SHALL</b> identify, manage, and learn from information security incidents in accordance with the relevant policies.</li>
+            <li>Staff, third parties and contractors <b>SHALL</b> take all reasonable steps to safeguard the <ph conref="conrefs.dita#conrefs/moj"/>'s information against unauthorised or accidental disclosure. </li>
+            <li>Senior Responsible Officers <b>SHALL</b> ensure that Information security be embedded into all projects and formal approval from an appropriate security representative <b>SHALL</b> be mandatory.</li>
+            <li>Senior Responsible Officers <b>SHALL</b> ensure that all information is assigned an Information Asset Owner, whose responsibilities are defined in <xref href="https://www.gov.uk/government/publications/information-asset-owner-role-guidance/guidance-on-the-information-asset-owner-role-html" scope="external">Guidance on the Information Asset Owner role</xref>.</li>
+            <li>Senior Responsible Officers <b>SHALL</b> ensure effective and proportionate security controls are in place to manage any identified risks. </li>
+            <li>Senior Business Owners <b>SHALL</b> ensure the compliance of suppliers and partners with relevant <ph conref="conrefs.dita#conrefs/moj"/> security policies and understand the risk of any deviations. </li>
+            <li>Technology Service Owners <b>SHALL</b> protect technology services through security controls as detailed in <ph conref="conrefs.dita#conrefs/moj"/> policies and standards. </li>
+            <li>Technology Service Owners <b>SHALL</b> ensure that disaster recovery, and business continuity plans are implemented and tested in accordance with relevant <ph conref="conrefs.dita#conrefs/moj"/> standards. </li>
             </ol>
         </p>
     </body>
