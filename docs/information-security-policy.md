@@ -1,6 +1,6 @@
 # Information Security Policy
 
-Security is central to everything we do at the Ministry of Justice \(MoJ\)- without it we cannot effectively deliver our priorities and ensure protection for staff and the public.
+Security is central to everything we do at the Ministry of Justice \(MoJ\) - without it we cannot effectively deliver our priorities and ensure protection for staff and the public.
 
 This policy sets out the formal senior management commitment to information security across the MoJ. This ensures that information is processed in a manner that preserves the confidentiality and integrity of information and meets the security requirements and obligations set out under legislation, regulations, and agreements we have entered.
 
@@ -12,7 +12,7 @@ This policy provides the context for the information security policies and stand
 
 ## Responsibilities
 
-As a government department, the Cabinet Office hold the MoJ accountable for meeting the requirements of the Government Functional Standard for Security: GovS007 and the underpinning technical standard for cyber security. In line with the Government Functional Security Standard \(GovS007\), the MoJ has a board member with the security remit \(Director General Chief Operating Officer Group\) and an MoJ senior officer accountable for security \(Chief Security Officer\).
+As a government department, the Cabinet Office hold the MoJ accountable for meeting the requirements of the [Government Functional Standard for Security: GovS007](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security) and the underpinning technical [standard for cyber security](https://www.security.gov.uk/policy-and-guidance/the-cyber-security-standard/). In line with the Government Functional Security Standard \(GovS007\), the MoJ has a board member with the security remit \(Director General Chief Operating Officer Group\) and an MoJ senior officer accountable for security \(Chief Security Officer\).
 
 All MoJ Public bodies with their own accounting officers \(accountable to the MoJ's principal accounting officer\) must also appoint their own board members with responsibility for information security.
 
@@ -38,7 +38,7 @@ The identified responsible officials **SHALL** comply with the following high le
 2.  Staff, third parties and contractors SHALL identify, manage, and learn from information security incidents in accordance with the relevant policies.
 3.  Staff, third parties and contractors SHALL take all reasonable steps to safeguard the MoJ's information against unauthorised or accidental disclosure.
 4.  Senior Responsible Officers SHALL ensure that Information security be embedded into all projects and formal approval from an appropriate security representative SHALL be mandatory.
-5.  Senior Responsible Officers SHALL ensure that all information is assigned an Information Asset Owner, whose responsibilities are defined in Guidance on the Information Asset Owner role.
+5.  Senior Responsible Officers SHALL ensure that all information is assigned an Information Asset Owner, whose responsibilities are defined in [Guidance on the Information Asset Owner role](https://www.gov.uk/government/publications/information-asset-owner-role-guidance/guidance-on-the-information-asset-owner-role-html).
 6.  Senior Responsible Officers SHALL ensure effective and proportionate security controls are in place to manage any identified risks.
 7.  Senior Business Owners SHALL ensure the compliance of suppliers and partners with relevant MoJ security policies and understand the risk of any deviations.
 8.  Technology Service Owners SHALL protect technology services through security controls as detailed in MoJ policies and standards.
@@ -52,13 +52,13 @@ Where requirements in this policy and the Information Security Framework have no
 
 ## Exceptions
 
-Anyone requesting a policy exemption should contact the relevant Senior Information Risk Owner \(SIRO\), with support and guidance from the MoJ Information Security Team. In the first instance, please contact the MoJ Security Team security@justice.gov.uk to discuss mitigation options.
+Anyone requesting a policy exemption should contact the relevant Senior Information Risk Owner \(SIRO\), with support and guidance from the MoJ Information Security Team. In the first instance, please contact the MoJ Security Team  security@justice.gov.uk to discuss mitigation options.
 
 ## Related Information
 
-1.  GoVS007
-2.  HMG Cyber Security Standard
-3.  Government Cyber Security Policy Handbook
+1.  [GoVS007](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security)
+2.  [HMG Cyber Security Standard](https://www.security.gov.uk/policy-and-guidance/the-cyber-security-standard/)
+3.  [Government Cyber Security Policy Handbook](https://www.security.gov.uk/policy-and-guidance/government-cyber-security-policy-handbook/)
 
 ## Contact details
 
