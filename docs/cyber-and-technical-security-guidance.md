@@ -88,7 +88,7 @@ The documents have been developed and defined within this taxonomy, and are list
 
 These are the policies for all users:
 
--   [Strategic Information Security Policy](strategic-information-security-policy.md)
+-   [Information Security Policy](information-security-policy.md)
 -   [Avoiding too much security](setecastronomy.md)
 -   [IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](identify-protect-detect-respond-recover.md)
 -   [IT Security All Users Policy](it-security-all-users-policy.md)

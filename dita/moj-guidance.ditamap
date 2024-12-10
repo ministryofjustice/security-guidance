@@ -27,7 +27,7 @@ if an audience attribute is present, then only matching content is included.
 		<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Information security policies</navtitle></topicmeta>
 		<topichead audience="audience-basic audience-suppliers audience-tech">
 			<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Management direction for information security</navtitle></topicmeta>
-			<topicref href="strategic-information-security-policy.dita" type="topic" audience="audience-basic audience-tech audience-suppliers"/>
+			<topicref href="information-security-policy.dita" type="topic" audience="audience-basic audience-tech audience-suppliers"/>
 			<topicref href="setecastronomy.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="identify-protect-detect-respond-recover.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="it-security-policy-overview.dita" type="topic" audience="audience-basic audience-suppliers audience-tech">
