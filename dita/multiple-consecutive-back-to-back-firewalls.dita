@@ -17,5 +17,5 @@
       <p>When interconnecting two networks that have different purposes or trust requirements (and when they are potentially managed by different parties) back-to-back firewalls can be used to enforce segregation and ensure managed integration and change control.</p>
     </body>
   </topic>
-  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>  
 </topic>

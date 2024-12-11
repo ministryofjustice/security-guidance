@@ -111,7 +111,3 @@ In general, unless there is a good case for saying that a domain name does not n
 -   A domain associated with a decommissioned service **must** be maintained for *at least* five years after the corresponding service is decommissioned.
 -   The domain registration **must** be reviewed again *not less than* 12 months before it is due to expire, to determine if the registration should still be maintained.
 
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
-

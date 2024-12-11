@@ -38,7 +38,7 @@ Actions:
 5.  If requested by a Head of Profession, transfer user's data to a user decided on by their line manager. This also requires a request from the business area Service Manager.
 6.  On a minimum quarterly basis conduct a random percentage audit to check the encryption status of Mac Books and/or Airs.
 
-## Feedback
+## Contact and Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

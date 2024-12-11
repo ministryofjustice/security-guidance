@@ -143,5 +143,5 @@ If you have any questions or comments, get in touch: <ph conref="conrefs.dita#co
       </body>
     </topic>
   </topic>
-  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+  	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
 </topic>

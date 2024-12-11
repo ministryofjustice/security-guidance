@@ -105,11 +105,9 @@ Guidance on the transportation of secure data is located in the CPNI guidance: �
 
 The previous guidance is also referenced in the CAS Sanitisation Service Requirement, under section “[MIT001 – Keep items secure during transportation](https://www.ncsc.gov.uk/files/CAS-Sanitisation_Service_Requirement_2-1.pdf)” on page 9.
 
-## Contact details
+## Contact and Feedback
 
 For any further questions or advice, contact IT Service Desk \(0800 917 5148\).
 
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 

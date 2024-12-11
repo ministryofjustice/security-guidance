@@ -159,7 +159,3 @@ Where a mobile device management solution is used and end-user devices register/
 2.  End-user device identifier\(s\), such as client IP address and/or MAC address and/or assigned DHCP name
 3.  End-user account name \(if applicable\)
 
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
-

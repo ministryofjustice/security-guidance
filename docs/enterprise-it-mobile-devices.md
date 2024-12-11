@@ -193,7 +193,3 @@ Devices must create and forward sufficient data to record the changing state of 
 -   b: conflict detection
 
 
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
-

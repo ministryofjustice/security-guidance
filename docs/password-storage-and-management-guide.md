@@ -56,11 +56,7 @@ Some teams, particularly service development and administration, have specialise
 
 For further guidance on password strength, refer to the [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md). Contact the [Security team](mailto:security@justice.gov.uk) if you have a specialised need to use a different password manager or vault.
 
-## Contact details
+## Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

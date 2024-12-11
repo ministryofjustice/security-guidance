@@ -31,7 +31,7 @@ The MoJ is responsible for appropriate use within its partnership or 'tenancy' o
 
 For example, in AWS, MoJ must correctly leverage native AWS functionality \(such as Security Groups\) to protect systems/data, and only the MoJ can implement these.
 
-## Feedback
+## Contact and Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

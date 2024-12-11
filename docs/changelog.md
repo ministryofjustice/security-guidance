@@ -513,9 +513,9 @@ This document summarises what changes were made, and when, to MoJ Security polic
     Data Movement Form updated.
 
 
-## Contact details
+## Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Feedback
 

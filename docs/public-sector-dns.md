@@ -22,7 +22,7 @@ The Ministry of Justice \(MoJ\) is permitted to use the service for free as a ce
 
 Contact the MoJ Cyber Security team \([security@justice.gov.uk](mailto:security@justice.gov.uk)\) to be added into MoJ's subscription of the service.
 
-## Feedback
+## Contact and Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

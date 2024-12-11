@@ -84,7 +84,3 @@ Data that should be kept confidential or is worthwhile to otherwise obfuscate sh
 
 The published [MoJ Password Standard](https://security-guidance.service.justice.gov.uk/passwords/#password-storage) has a section on hashing as part of password storage.
 
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
-

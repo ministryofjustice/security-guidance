@@ -60,11 +60,7 @@ Anyone requesting a policy exemption should contact the relevant Senior Informat
 -   [HMG Cyber Security Standard](https://www.security.gov.uk/policy-and-guidance/the-cyber-security-standard/)
 -   [Government Cyber Security Policy Handbook](https://www.security.gov.uk/policy-and-guidance/government-cyber-security-policy-handbook/)
 
-## Contact details
+## Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

@@ -16,7 +16,3 @@ Log data created and processed for information security purposes should be retai
 
 These times are general as a guide, and require contextual analysis particularly where Personal Data is involved.
 
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
-
