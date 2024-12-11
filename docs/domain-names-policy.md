@@ -71,7 +71,7 @@ This policy's statement elements are outlined as follows:
 
 -   **POL.DOM.007:** This policy's related security guidance **shall** clearly describe why defensive domain registration is essential and why not doing it creates cyber risk.
 
--   **POL.DOM.008:** This policy's related guidance on [How to get, register or manage a domain name](https://technical-guidance.service.justice.gov.uk/documentation/standards/how-to-get-a-domain-name.html) clearly describes defensive domain names solutions.
+-   **POL.DOM.008:** This policy's related guidance on [How to get, register or manage a domain name](https://user-guide.operations-engineering.service.justice.gov.uk/documentation/services/how-to-get-a-domain-name.html) clearly describes defensive domain names solutions.
 
 
 ### Domain Operations: Operations Engineering team
