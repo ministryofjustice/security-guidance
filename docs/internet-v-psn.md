@@ -8,7 +8,7 @@ The Ministry of Justice \(MoJ\) prefers the use of public commodity networks \(s
 
 The MoJ consider networks, whether private or public, to be bearers for information transfer, in and of themselves they should not be considered as the mechanism to identify and confer trust or privilege.
 
-## Feedback
+## Contact and Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

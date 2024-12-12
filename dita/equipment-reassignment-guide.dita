@@ -165,6 +165,6 @@
         <ph conref="conrefs.dita#conrefs/securityemailtext"/>.</ph></p>
     </body>
   </topic>
-  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
-  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  
 </topic>

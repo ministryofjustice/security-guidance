@@ -49,6 +49,6 @@ These event types are typically agreed in context between the <ph conref="conref
 The objective is produce logging that reliably identifies and captures key nuance and contextual security monitoring data, based on applicable threats and risks.</p>
     </body>
   </topic>
-	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
-  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+	<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  
 </topic>

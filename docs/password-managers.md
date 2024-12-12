@@ -62,11 +62,7 @@ For individual use, have a look at 1Password. Try it out. When you decide on a p
 
 Refer also to the [Using 1Passwords](using-1password.md) guidance.
 
-## Contact details
+## Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

@@ -45,7 +45,7 @@ There is generally no need to attempt to manually delete such data prior to the 
 
 It is important that the final expected data where all data lifecycles will have completed to be readily identifiable with high confidence.
 
-## Feedback
+## Contact and Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

@@ -101,7 +101,7 @@ If you need help *installing* 1Password contact the relevant MoJ IT Service Desk
 
 If you need help using 1Password such as getting access to vaults or resetting your primary password as you have forgotten it, contact Operations Engineering Team through their Slack Channel, `#Ask-Operations-Engineering`, or email [Operations Engineering](mailto:operations-engineering@digital.justice.gov.uk)s.
 
-## Feedback
+## Contact and Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

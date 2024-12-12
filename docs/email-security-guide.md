@@ -83,11 +83,7 @@ MoJ staff, contractors, suppliers or other partner organisations **shall not** d
 
 If there is a valid business need to send a fake message, for example to test the resilience of an end-to-end MoJ business process against an attack, then prior approval for the fake message **shall** be obtained from the MoJ Chief Information Security Officer \(CISO\). Do this by contacting [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
-## Contact details
+## Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

@@ -235,5 +235,5 @@
     </body>
   </topic>
   <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details-helpdesk"><title/></topic>
-  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+  
 </topic>

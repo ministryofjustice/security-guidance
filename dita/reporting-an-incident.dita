@@ -6,5 +6,5 @@
     <p audience="audience-basic audience-tech"><ph conref="conrefs.dita#conrefs/mojlong"/> colleagues should visit <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/</xref> on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.</p>
     <p audience="audience-suppliers audience-tech">Suppliers to the <ph conref="conrefs.dita#conrefs/moj"/> should refer to provided methods/documentation and contact your usual <ph conref="conrefs.dita#conrefs/moj"/> points of contact.</p>
   </body>
-  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
 </topic>

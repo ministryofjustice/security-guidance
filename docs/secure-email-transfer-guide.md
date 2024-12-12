@@ -114,11 +114,7 @@ Ensure that auto-forwarding is used responsibly, and in line with the MoJ's [Inf
 -   Advise users to only forward emails from an MoJ email address to an email address that provides the same or higher security standards.
 -   Do not provide auto-forward capability when any MoJ standard, policy, or guidance states that additional controls or protection **shall** be implemented before sending an email.
 
-## Contact details
+## Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

@@ -10,7 +10,7 @@ There is a myth that the use of multiple back-to-back firewalls from different v
 
 When interconnecting two networks that have different purposes or trust requirements \(and when they are potentially managed by different parties\) back-to-back firewalls can be used to enforce segregation and ensure managed integration and change control.
 
-## Feedback
+## Contact and Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

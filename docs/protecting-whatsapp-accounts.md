@@ -48,11 +48,7 @@ Always follow MoJ policy about applications for official business or storing bus
 
 **Do not** use personal accounts for work purposes.
 
-## Contact details
+## Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

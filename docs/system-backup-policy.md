@@ -43,11 +43,7 @@ To address these requirements, these statements from the MoJ [Technical Controls
 
 **POL.TCP.113**: The retention period for historic back-ups **shall** align to the retention period of the Information Assets held.
 
-## Contact details
+## Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

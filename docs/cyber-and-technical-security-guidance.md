@@ -20,7 +20,7 @@ Technical users include:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 10 December 2024.
+**Note:** This guidance is dated: 12 December 2024.
 
 ## Change log
 
@@ -51,7 +51,7 @@ Technical users. Contains detailed technical information, together with all user
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 10 January 2025.
+The offline versions of this guidance are time-limited, and are not valid after 12 January 2025.
 
 ## Security culture
 
@@ -473,8 +473,4 @@ A more extensive list of acronyms is available [here](https://ministryofjustice.
 ### Technical Guidance
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) should be read together with this security-focused guidance.
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

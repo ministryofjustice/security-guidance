@@ -25,7 +25,7 @@ Examples include:
 -   upgrading from SSL v3 to TLS, and from TLS1.\[0/1\] to TLS1.2, ultimately into TLS1.3 \(and beyond\)
 
 
-## Feedback
+## Contact and Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

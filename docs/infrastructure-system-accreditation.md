@@ -29,7 +29,7 @@ The Ministry of Justice \(MoJ\) [Accreditation Framework](https://intranet.justi
 
 Accreditation must be considered for any system that handles information relating to MoJ business or MoJ customers.
 
-## Feedback
+## Contact and Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

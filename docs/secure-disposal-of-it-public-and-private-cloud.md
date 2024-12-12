@@ -116,11 +116,7 @@ The process used for SAN or VM items destruction and decommissioning is describe
 
 **Note:** There are free versions of screen recorder tools that might be used. The tool **shall** be assessed, before use, by requesting an MoJ security team review using this [form](https://docs.google.com/forms/d/e/1FAIpQLSeEEBDS1HBF7meUk3SjgkqxbXBQlKAiBAezJIbKHnEjfNjBTg/viewform?gxids=7628). Refer to the MoJ guidance on [requesting that an app be approved for use](general-user-video-and-messaging-apps-guidance.md#requesting-that-an-app-be-approved-for-use). An alternative option would be to use Teams to record the decommissioning via screen share.
 
-## Contact details
+## Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

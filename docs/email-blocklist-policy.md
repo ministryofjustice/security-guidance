@@ -110,11 +110,7 @@ The Cyber Security Team encourages the integration with 3rd party threat intelli
 
 **POL.EBL.027:** A complete list of email attachments blocked **should** be kept and managed by the individual email administrators, and **should** be consistent across different email services in use across the MoJ estate.
 
-## Contact details
+## Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
