@@ -25,7 +25,7 @@ In summary, as a minimum everyone **shall**:
 
 Normally, this training **shall** be completed successfully before accessing MoJ information, resources, or assets.
 
-## Contact details
+## Contact and Feedback
 
 For any further questions or advice relating to security or security training, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

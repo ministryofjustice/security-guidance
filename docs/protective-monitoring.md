@@ -7,7 +7,7 @@
 
 ## About this document
 
-**Note:** This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk)
+**Note:** This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 
 This policy applies to all staff and contractors who work for the Ministry of Justice \(MoJ\).
 

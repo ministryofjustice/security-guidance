@@ -20,5 +20,5 @@
       <p><ph conref="conrefs.dita#conrefs/moj"/> assesses commodity digital technology supply chain such as Software-as-a-Service (SaaS) tools such as <ph conref="conrefs.dita#conrefs/gsuite"/>, Microsoft Office 365, Trello and Atlassian Cloud based on the <xref href="https://www.ncsc.gov.uk/guidance/implementing-cloud-security-principles" format="html" scope="external">Cloud Security Principles</xref>, information risk assessment techniques and shared data within HMG.</p>
     </body>
   </topic>
-  
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
 </topic>

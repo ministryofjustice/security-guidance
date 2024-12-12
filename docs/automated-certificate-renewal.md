@@ -16,3 +16,7 @@ To request a manually issued certificate, complete the [certificate request form
 
 **Note:** If you want client certificates, contact [SoftwareAssetManagement@justice.gov.uk](mailto:SoftwareAssetManagement@justice.gov.uk).
 
+## Contact and Feedback
+
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+

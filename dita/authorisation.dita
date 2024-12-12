@@ -74,6 +74,6 @@
       <p>This <xref href="https://medium.com/@joelgsamuel/ip-address-access-control-lists-are-not-as-great-as-you-think-they-are-4176b7d68f20" format="html" scope="external">Medium article</xref> provides more details regarding IP address access control lists. </p>
     </body>
   </topic>
-  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   
 </topic>

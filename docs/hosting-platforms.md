@@ -213,3 +213,7 @@ Continuous integration and continuous deployment pipelines obey instructions to 
     1.  Resource creation
     2.  Resource destruction
 
+## Contact and Feedback
+
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+

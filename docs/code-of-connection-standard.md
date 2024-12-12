@@ -302,3 +302,7 @@ Guidance on completion:
 |**A.15.2.2**|**Technical Compliance Checking**|||*Is the connecting system subject to a technical assessment \(penetration test / ITHC? When was the last one done? Were any vulnerabilities identified and if so have these been addressed/fixed?*|
 |**A.15.3**|**System Audit Consideration**||||
 
+## Contact and Feedback
+
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+

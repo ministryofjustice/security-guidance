@@ -93,3 +93,7 @@ Temporary data stores \(such as intermediate queues\) and permanent data store \
 4.  Query response size
 5.  Query response time
 
+## Contact and Feedback
+
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+

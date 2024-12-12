@@ -25,5 +25,5 @@
       <p>The need to keep some aspect of a system secret might be evidence that the technical security measures around the system are not complete, adequate, or appropriate to the risks. A well-designed system won't depend on secrecy alone for security.</p>
     </body>
   </topic>
-  	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+  	<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
 </topic>

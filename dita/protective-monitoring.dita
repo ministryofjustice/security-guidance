@@ -8,7 +8,7 @@
     <body>
       <note>This is Legacy IA Policy.
         It is under review and likely to be withdrawn or substantially revised soon.
-        Please contact us before using this on a new project: <ph conref="conrefs.dita#conrefs/itpolicycontentemail"/>
+        Please contact us before using this on a new project: <ph conref="conrefs.dita#conrefs/securityemail"/>
       </note>
       <p>This policy applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/mojlong"/>.</p>
       <p>This document is the <ph conref="conrefs.dita#conrefs/moj"/> IT Security – Protective Monitoring Guide. It is designed to help protect <ph conref="conrefs.dita#conrefs/moj"/> ICT systems by providing implementation guidance for a protective monitoring solution.</p>
@@ -1293,6 +1293,6 @@
       </body>
     </topic>
   </topic>
-	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
+	<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
 	
 </topic>
