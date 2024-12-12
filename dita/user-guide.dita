@@ -72,5 +72,5 @@
       <p>If you'd prefer a different escalation route, contact <xref href="mailto:ciso@digital.justice.gov.uk" format="html" scope="external">ciso@digital.justice.gov.uk</xref>.</p>
     </body>
   </topic>
-  
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
 </topic>

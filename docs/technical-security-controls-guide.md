@@ -34,3 +34,7 @@ Within this guide, a system includes:
 
 [Defensive Layer 2: Implementing monitoring capabilities](technical-security-controls-guide-defensive-layer-2.md) Layer 2 builds a monitoring capability for the network and extends existing security controls to mobile devices.
 
+## Contact and Feedback
+
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+

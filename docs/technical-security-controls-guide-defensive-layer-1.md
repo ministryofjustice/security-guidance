@@ -135,3 +135,7 @@ The following list outlines the actions that should not be undertaken in relatio
 
 ✖ Install or execute off-the-shelf software without ensuring appropriate support and security arrangements and agreements are in place.
 
+## Contact and Feedback
+
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+

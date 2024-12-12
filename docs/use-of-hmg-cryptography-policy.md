@@ -167,3 +167,7 @@ Every 12 months the COMSO will inspect the arrangements for sites locally storin
 |3|HMG IS4 - Supplement No.7 - Accounting of Cryptographic Items|Issue 1.0, Apr 2011|
 |4|IT Security Policy - HMG Cryptography Business Continuity Management Standard|V0-01|
 
+## Contact and Feedback
+
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+

@@ -4,3 +4,7 @@ Ministry of Justice \(MoJ\) colleagues should visit [https://intranet.justice.go
 
 Suppliers to the MoJ should refer to provided methods/documentation and contact your usual MoJ points of contact.
 
+## Contact and Feedback
+
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+

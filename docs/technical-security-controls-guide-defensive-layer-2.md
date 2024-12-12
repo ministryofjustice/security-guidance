@@ -77,3 +77,7 @@ The following list describes what actions should **not** be undertaken when impl
 -   Sanitising the equipment.
 -   Retaining the equipment within the facility.
 
+## Contact and Feedback
+
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
+
