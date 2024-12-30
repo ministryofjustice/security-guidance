@@ -20,7 +20,7 @@ Technical users include:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 15 July 2024.
+**Note:** This guidance is dated: 30 December 2024.
 
 ## Change log
 
@@ -51,7 +51,7 @@ Technical users. Contains detailed technical information, together with all user
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 15 August 2024.
+The offline versions of this guidance are time-limited, and are not valid after 30 January 2025.
 
 ## Security culture
 
@@ -151,9 +151,9 @@ These policies are for all users:
 
 These policies are for all users:
 
--   [Government Classification Scheme](government-classification-scheme.md)
--   [Information Classification and Handling Guide](information-classification-handling-and-security-guide.md)
--   [Information Classification and Handling Policy](information-classification-and-handling-policy.md)
+-   [Information Classification and Security Guide](information-classification-and-security-guide.md)
+-   [Handling Instructions Guidance](handling-instructions-guidance.md)
+-   [Descriptor Guidance](descriptor-guidance.md)
 
 These policies are for technical users:
 

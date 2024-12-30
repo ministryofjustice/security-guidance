@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="Handling-instructions-guidance">
+<title>Handling instructions guidance</title>
+ <body>
+  <p>The <ph conref="conrefs.dita#conrefs/hmggovernmentsecurityclassifications"/> outlines His Majesty’s Government’s (HMG) administrative framework designed to facilitate the secure, timely, and efficient exchange of information. It mandates that all HMG information be distinctly marked according to a specific classification tier, as well as handling instructions.</p>
+  <p>This guidance on handling instructions has been developed to aid users in adhering to this requirement, providing examples of how the labelling system and handling descriptors can be applied effectively.</p>
+ </body>
+</topic>
+  <topic id="Handling-and-securing-information">
+   <title>Handling and securing information</title>
+   <body>
+    <p>Within a classification tier, handling instructions can also be used to give a more detailed picture of the information’s sensitivity and how it should be appropriately handled.</p>
+    <p>Handling instructions do not change the information’s classification as the threat profile is the same, nor do they offer additional technical protections; they just provide more detail around how information should be handled, how widely it should be disseminated and how it should be protected.</p>
+    <p>A centrally defined list of handling instructions is shown in the Additional Markings section of the Government Security Classifications Policy.</p>
+    <p>Different information security measures might be applicable throughout the information lifecycle. It is important continually to evaluate security classifications and their corresponding measures. Refer to the <ph conref="conrefs.dita#conrefs/hmggovernmentsecurityclassifications"/> for further guidance.</p>
+   </body>
+ </topic>
+ <topic id="Additional-markings">
+  <title>Additional markings</title>
+  <body>
+   <p>Additional markings can be added in conjunction with a classification to indicate the nature or source of the information, or to limit access to specific user groups.</p>
+   <p>Additional markings indicate where additional protective controls or security behaviours are required to protect the information. There are several different types of additional markings, including:
+   <ul>
+    <li>the -SENSITIVE marking</li>
+    <li>handling instructions</li>
+    <li>descriptors</li>
+   </ul>
+   <p>Information creators should apply additional markings to help users understand information sensitivities and specific restrictions on information sharing.</p>
+   <p>Security teams must offer guidance to users on how to mark and protect information with additional markings.</p>
+   <p>The <ph conref="conrefs.dita#conrefs/hmggovernmentsecurityclassifications"/> gives more information about additional markings</p>
+  </body>
+  </topic>
+ <topic id="Guidance-on-handling-instructions">
+  <title>Guidance on handling instructions</title>
+  <body>
+   <p><b>OFFICIAL</b></p>
+   <p><b>Label</b>: OFFICIAL</p>
+   <p>Description: This category applies to most information that is created, processed, sent, or received within the public sector and by partner organisations. It encompasses data that, if compromised, could result in no more than moderate damage.</p>
+   <p>General example: Email reminders about general staff meetings or all-hands calls that discuss routine departmental updates.</p>
+   <p>Operational example: Manuals or guidelines for using office equipment or software tools provided for general use within the MoJ.</p>
+   <p><b>Label</b>:OFFICIAL-FOR PUBLIC RELEASE</p>
+   <p>Description: This designation is for OFFICIAL information that can be freely distributed. It includes cleared for publication, already public domain, or set to be released under the Freedom of Information Act 2000 (FOIA) or the Public Records Act 1958. It is characterised by low sensitivity and a recognised need-to-share with the wider public.</p>
+   <p>General example: Press releases detailing the launch of a new service or initiative by the MoJ.</p>
+   <p>Operational example: A Freedom of information request response from a member public regarding our Acceptable Use Policies for IT Systems and Services.</p>
+   <p><b>Label</b>:OFFICIAL-HMG USE ONLY</p>
+   <p>Description: This information is restricted to internal sharing across His Majesty’s Government (HMG) departments only, excluding external partners.</p>
+   <p>General example: Policy discussion papers circulated for feedback among various HMG departments prior to finalisation.</p>
+   <p>Operational example: Inter-departmental weekly briefs on ongoing projects requiring collaboration but not ready for wider external sharing.</p>
+   <p><b>Label</b>OFFICIAL- MoJ USE ONLY</p>
+   <p>Description: Information that is to be circulated exclusively within the Ministry of Justice.</p>
+   <p>General example: Updates or changes to internal MoJ staff policies, such as leave policies or workplace safety protocols.</p>
+   <p>Operational example: MoJ internal audit schedules and areas of focus for the coming quarter, intended for department heads and audit teams.</p>
+   <p><b>Label</b>OFFICIAL- EMBARGOED</p>
+   <p>Description: Denotes information that is sensitive only for a specified duration with its sensitivity expected to diminish after this period concludes.</p>
+   <p>General example: A draft response to an upcoming parliamentary question that will be public after the session.</p>
+   <p>Operational example: Early notifications of policy changes affecting the justice system, embargoed until formal announcement dates.</p>
+   <p><b>OFFICIAL-SENSITIVE</b></p>
+   <p><b>Label</b>: OFFICIAL-SENSITIVE</p>
+   <p>Description: This category is for particularly sensitive information that poses high compromise risks. The “SENSITIVE” marking is used for OFFICIAL information nor meant for public release, attracting interest from potential threat actors, activists, or media.</p>
+   <p>General example: Data on staff turnover and recruitment challenges, which might indicate vulnerabilities if disclosed.</p>
+   <p>Operational example: Incident reports detailing specific breaches of data or security within the MoJ, including impact analyses.</p>
+   <p><b>Label</b>:OFFICIAL-SENSITIVE – HMG USE ONLY</p>
+   <p>Description: Information that should only be shared with other HMG departments; not with external partners.</p>
+   <p>General example: Policy discussion papers circulated for feedback among various HMG departments prior to finalisation.</p>
+   <p>Operational example: A briefing note on proposed legislative changes affecting multiple departments, for internal discussion before public consultation.</p>
+   <p><b>Label</b>:OFFICIAL-SENSITIVE- MOJ USE ONLY</p>
+   <p>Description: The information is intended solely for internal distribution within the MoJ. External sharing requires authorisation from the information’s originator MoJ.</p>
+   <p>General example: Internal strategy documents on improving diversity and inclusion within the MoJ, pending wider consultation.</p>
+   <p>Operational example: MoJ specific training materials, clients with new legal standards or protocols.</p>
+   <p><b>Label</br>:OFFICIAL-SENSITIVE – EMBARGOED</p>
+   <p>Description: Information that is only sensitive for a specific duration and whose sensitivity will be reduced at the end of that period.<p>
+   <p>General example: Forward looking statements on anticipated judicial reforms, to be shared with external stakeholders on a future date.</p>
+   <p>Operational example: Details of planned IT systems upgrades affecting court services, embargoed until stakeholder can be properly informed.</p>
+   <p><b>Label</b>:OFFICIAL-SENSITIVE- RECIPIENTS ONLY</p>
+   <p>Description: This label is applied to highly sensitive information that is restricted to a very limited group of named individuals on a strict need-to-know basis. The unauthorised disclosure of such information could result in significant risks or consequences.</p>
+   <p>General example: Meeting minutes related to a confidential grievance procedure accessible only to the HR representative and relevant line manager involved.</p>
+   <p>Operational example: Draft contracts outlining negotiation strategies for upcoming vendor agreements, shared exclusively with the procurement team and legal advisors.</p>
+  </body>
+  </topic>
+  <topic id="NO-CLASSIFICATION">
+   <title>NO CLASSIFICATION</title>
+    <body>
+     <p><b>Label</b>NO CLASSIFICATION</p>
+     <p>Description: This category is designated for information that is not owned or controlled by the government and does not require a security classification. It relates to publicly available data or non-sensitive information that carries no risk if disclosed.</p>
+     <p>General example: A publicly available research paper on criminal justice reform authored by an independent think tank. This document is accessible online without any restrictions and can be freely shared or referenced by anyone interested in the topic.</p>
+     <p>Operational example: A schedule of public court hearings and trials posted on official court websites. This information is intended for the public to know about and attend court sessions, ensuring transparency and openness in the judicial process.</p>
+     
+
+     
+  
