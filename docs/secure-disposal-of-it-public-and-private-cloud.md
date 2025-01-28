@@ -24,8 +24,6 @@ This information is part of the MoJ asset management policies and guidance on [m
 
 [Secure disposal of IT - public and private cloud](secure-disposal-of-it-public-and-private-cloud.md)
 
-[Technical Controls Policy](technical-controls-policy.md)
-
 ## MoJ cloud environments overview
 
 The MoJ consumes several public \(shared cloud\) and private cloud platforms, operating over 900 different technology systems ranging from internal IT tools or solutions to case management solutions.

@@ -7,13 +7,6 @@ The [Minimum Cyber Security Standard \(MCSS\)](https://www.gov.uk/government/pub
 -   Locked-down: All unnecessary or non-essential services or capabilities are switched off, or restricted to the bare minimum of functionality.
 -   Hardened: All system options and capabilities are configured for maximum possible resistance to attack or unauthorised use.
 
-Specifics of the lockdown policy are covered in the [Technical Controls Policy](technical-controls-policy.md#lockdown-policy). This document provides more information about the implementation of the lockdown policy.
-
-**Related information**  
-
-
-[Technical Controls Policy](technical-controls-policy.md)
-
 ## Scope
 
 This standard provides some high level guidance on IT system hardening. It applies to all MoJ IT systems.
@@ -28,7 +21,7 @@ The [NCSC GPG40 Information Assurance Maturity Model \(IAMM\)](https://www.ncsc.
 
 ## Generic hardening standard
 
-This standard provides a generic set of hardening details, designed to guide IT system development and to supplement the [Technical Controls Policy](technical-controls-policy.md).
+This standard provides a generic set of hardening details, designed to guide IT system development.
 
 Those configuring MoJ IT systems **shall** consider additional sources of reference such as vendor-supplied platform-specific materials to ensure that specific systems, such as SQL server or UNIX-based servers, are built and configured to a secure standard. A selection of external reference sources can be found in this guidance.
 

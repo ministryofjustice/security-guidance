@@ -119,7 +119,6 @@
           <ul audience="audience-tech">
             <li><xref href="it-security-technical-users-policy.dita" format="dita">IT Security Technical Users Policy</xref></li>
             <li><xref href="shared-responsibility-models.dita" format="dita">Shared Responsibility Models</xref></li>
-            <li><xref href="technical-controls-policy.dita" format="dita">Technical Controls Policy</xref></li>
           </ul>
 		</body>
       </topic>

@@ -16,7 +16,7 @@
       <p>The <xref href="system-backup-standard.dita" format="dita">IT Security - System Backup Standard</xref> provides details of the tasks, configurations, and processes required for an IT system backup to comply with this policy.</p>
     </body>
   </topic>
-  <topic id="technical-controls">
+<!--  <topic id="technical-controls">
     <title>Technical controls</title>
     <body>
       <p>To address these requirements, these statements from the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="technical-controls-policy.dita" format="dita">Technical Controls Policy</xref> apply:</p>
@@ -27,7 +27,7 @@
       <p conref="technical-controls-policy.dita#data-backup/poltcp112"/>
       <p conref="technical-controls-policy.dita#data-backup/poltcp113"/>
     </body>
-  </topic>
+  </topic> -->
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   
 </topic>

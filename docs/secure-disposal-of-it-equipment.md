@@ -24,9 +24,7 @@ However, there are also other physical and virtual resources across the MoJ esta
 
 [Secure disposal of IT - public and private cloud](secure-disposal-of-it-public-and-private-cloud.md)
 
-[Technical Controls Policy](technical-controls-policy.md)
-
-## Contact and Feedback
+## Contact details
 
 For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
