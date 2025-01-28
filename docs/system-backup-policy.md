@@ -23,7 +23,7 @@ To help identify formal policy statements, each is prefixed with an identifier o
 
 The [IT Security - System Backup Standard](system-backup-standard.md) provides details of the tasks, configurations, and processes required for an IT system backup to comply with this policy.
 
-## Contact details
+## Contact and Feedback
 
 For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
