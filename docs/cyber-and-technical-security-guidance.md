@@ -20,7 +20,7 @@ Technical users include:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 28 January 2025.
+**Note:** This guidance is dated: 31 January 2025.
 
 ## Change log
 

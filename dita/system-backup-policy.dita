@@ -16,18 +16,20 @@
       <p>The <xref href="system-backup-standard.dita" format="dita">IT Security - System Backup Standard</xref> provides details of the tasks, configurations, and processes required for an IT system backup to comply with this policy.</p>
     </body>
   </topic>
-<!--  <topic id="technical-controls">
+  <topic id="technical-controls">
     <title>Technical controls</title>
     <body>
-      <p>To address these requirements, these statements from the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="technical-controls-policy.dita" format="dita">Technical Controls Policy</xref> apply:</p>
-      <p conref="technical-controls-policy.dita#data-backup/poltcp108"/>
+      <!-- <p>To address these requirements, these statements from the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="technical-controls-policy.dita" format="dita">Technical Controls Policy</xref> apply:</p>-->
+      <p><b>POL.TCP.110</b>: Back-up data <b>shall</b> be stored and handled in a manner appropriate to the protective marking of the Information Assets stored.</p>
+      <p><b>POL.TCP.113</b>: The retention period for historic back-ups <b>shall</b> align to the retention period of the Information Assets held.</p>
+      <!--<p conref="technical-controls-policy.dita#data-backup/poltcp108"/>
       <p conref="technical-controls-policy.dita#data-backup/poltcp109"/>
       <p conref="technical-controls-policy.dita#data-backup/poltcp110"/>
       <p conref="technical-controls-policy.dita#data-backup/poltcp111"/>
       <p conref="technical-controls-policy.dita#data-backup/poltcp112"/>
-      <p conref="technical-controls-policy.dita#data-backup/poltcp113"/>
+      <p conref="technical-controls-policy.dita#data-backup/poltcp113"/>-->
     </body>
-  </topic> -->
+  </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
   
 </topic>

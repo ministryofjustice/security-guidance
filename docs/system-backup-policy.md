@@ -23,6 +23,12 @@ To help identify formal policy statements, each is prefixed with an identifier o
 
 The [IT Security - System Backup Standard](system-backup-standard.md) provides details of the tasks, configurations, and processes required for an IT system backup to comply with this policy.
 
+## Technical controls
+
+**POL.TCP.110**: Back-up data **shall** be stored and handled in a manner appropriate to the protective marking of the Information Assets stored.
+
+**POL.TCP.113**: The retention period for historic back-ups **shall** align to the retention period of the Information Assets held.
+
 ## Contact and Feedback
 
 For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
