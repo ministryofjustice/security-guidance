@@ -8,11 +8,6 @@ This policy outlines the Information Classification and Handling Policy for all 
 
 **Parent topic:** [Information classification, handling and security guide](information-classification-handling-and-security-guide.md)
 
-**Related information**  
-
-
-[Technical Controls Policy](technical-controls-policy.md)
-
 ## Scope
 
 This policy covers all staff \(including contractors and agency staff\) who use MoJ IT systems.

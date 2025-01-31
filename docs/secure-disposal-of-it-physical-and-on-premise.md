@@ -13,8 +13,6 @@ This document is the Ministry of Justice \(MoJ\) guidance covering disposal of p
 
 [Secure disposal of IT - public and private cloud](secure-disposal-of-it-public-and-private-cloud.md)
 
-[Technical Controls Policy](technical-controls-policy.md)
-
 ## Physical Media and Associated Data
 
 The MoJ and its Executive Agencies and Arms Length Bodies use a wide variety of equipment, including photocopiers and printers, data centre hard and tape drives, desktop computers, laptops, USB memory sticks, and generic mobile devices. Some equipment might be the responsibility of a supplier to decommission and dispose of it safely and securely. Check asset tags or similar identifiers to determine and validate responsibility.

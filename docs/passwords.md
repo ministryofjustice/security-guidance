@@ -13,8 +13,6 @@ This guidance is for all users. It also includes more detail for system administ
 **Related information**  
 
 
-[Technical Controls Policy](technical-controls-policy.md)
-
 [Access Control guide](access-control-guide.md)
 
 ## General best practices

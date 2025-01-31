@@ -13,10 +13,6 @@ To help identify formal policy statements, each is prefixed with an identifier o
 
 [System Backup Standard](system-backup-standard.md)
 
-[Technical Controls Policy](technical-controls-policy.md)
-
-[Technical Controls Policy](technical-controls-policy.md)
-
 ## System recovery
 
 **POL.SBP.001**: All systems **shall** comply with the [MoJ Security Policy](it-security-policy-overview.md).
@@ -28,12 +24,6 @@ To help identify formal policy statements, each is prefixed with an identifier o
 The [IT Security - System Backup Standard](system-backup-standard.md) provides details of the tasks, configurations, and processes required for an IT system backup to comply with this policy.
 
 ## Technical controls
-
-To address these requirements, these statements from the MoJ [Technical Controls Policy](technical-controls-policy.md) apply:
-
-**POL.TCP.108**: All IT systems **shall** have back-up procedures to maintain the integrity and availability of all Information Assets held. This must align to the Recovery Point Objective which may be expressed in the Business Impact Assessment \(BIA\).
-
-**POL.TCP.109**: All IT systems **shall** maintain a log of all back-ups taken.
 
 **POL.TCP.110**: Back-up data **shall** be stored and handled in a manner appropriate to the protective marking of the Information Assets stored.
 

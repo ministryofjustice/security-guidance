@@ -4,11 +4,6 @@ This policy gives an overview of access control security principles and responsi
 
 To help identify formal policy statements, each is prefixed with an identifier of the form: **POL.ACP.xxx**, where **xxx** is a unique ID number.
 
-**Related information**  
-
-
-[Technical Controls Policy](technical-controls-policy.md)
-
 ## Audience
 
 This policy is aimed at:

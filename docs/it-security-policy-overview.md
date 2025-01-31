@@ -11,11 +11,6 @@ This policy gives an overview of information security principles and responsibil
 -   **[IT Security Technical Users Policy](it-security-technical-users-policy.md)**  
 
 
-**Related information**  
-
-
-[Technical Controls Policy](technical-controls-policy.md)
-
 ## Audience
 
 This policy is aimed at three audiences:

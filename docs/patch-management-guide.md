@@ -8,11 +8,6 @@ The intent is to avoid compromise of MoJ systems because of vulnerabilities.
 
 **Parent topic:** [Vulnerability Scanning and Patch Management Guide](vulnerability-scanning-and-patch-management-guide.md)
 
-**Related information**  
-
-
-[Technical Controls Policy](technical-controls-policy.md)
-
 ## Patching of MoJ systems and equipment
 
 This guidance must be followed for all systems and services developed or procured by the MoJ. It applies to all asset types including, but not limited to:
