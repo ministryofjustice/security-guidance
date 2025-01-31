@@ -27,6 +27,10 @@ The [IT Security - System Backup Standard](system-backup-standard.md) provides d
 
 **POL.TCP.110**: Back-up data **shall** be stored and handled in a manner appropriate to the protective marking of the Information Assets stored.
 
+**POL.TCP.111**: All IT systems **shall** check all historic back-ups regularly to ensure that they can be relied upon. This includes the testing of back-up media such as tape or hard disks.
+
+**POL.TCP.112**: All IT systems **shall** have a back-up restoration procedure which is tested regularly. Ideally, the testing takes place automatically.
+
 **POL.TCP.113**: The retention period for historic back-ups **shall** align to the retention period of the Information Assets held.
 
 ## Contact and Feedback

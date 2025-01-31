@@ -21,6 +21,8 @@
     <body>
       <!-- <p>To address these requirements, these statements from the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="technical-controls-policy.dita" format="dita">Technical Controls Policy</xref> apply:</p>-->
       <p><b>POL.TCP.110</b>: Back-up data <b>shall</b> be stored and handled in a manner appropriate to the protective marking of the Information Assets stored.</p>
+      <p><b>POL.TCP.111</b>: All IT systems <b>shall</b> check all historic back-ups regularly to ensure that they can be relied upon. This includes the testing of back-up media such as tape or hard disks.</p>
+      <p><b>POL.TCP.112</b>: All IT systems <b>shall</b> have a back-up restoration procedure which is tested regularly. Ideally, the testing takes place automatically.</p>
       <p><b>POL.TCP.113</b>: The retention period for historic back-ups <b>shall</b> align to the retention period of the Information Assets held.</p>
       <!--<p conref="technical-controls-policy.dita#data-backup/poltcp108"/>
       <p conref="technical-controls-policy.dita#data-backup/poltcp109"/>
