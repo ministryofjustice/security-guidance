@@ -218,35 +218,6 @@
 			</p>
 		</body>
 	</topic>
-	<topic id="nhs-track-and-trace">
-		<title>NHS Track and Trace</title>
-		<body>
-			<p>The official <xref href="https://www.nhs.uk/apps-library/nhs-covid-19/" format="html" scope="external">NHS Covid-19</xref> app was designed by the NHS.
-			Both NCSC and Cabinet Office have been involved in the security of the system.
-			The app provides contact tracing, local area alerts and venue check-in.
-			It enables you to protect yourself and your loved ones.
-			Installation is optional, but recommended.</p>
-			<p>After installing the app, you'll receive an alert if you have been in close contact with other people who have tested positive for coronavirus.
-			You can then take action to avoid passing the virus on, for example by self-isolating.</p>
-			<p>From a security perspective,
-				it is safe for you to use the app on your personal or <ph conref="conrefs.dita#conrefs/moj"/> issued devices.
-				There are no extra risks for colleagues with security clearance, such as SC and DV.</p>
-			<p>If you wish to install the app, start at the <xref href="https://covid19.nhs.uk/" format="html" scope="external">NHS site</xref>.
-				<note>The NHS app may not work on some older <ph conref="conrefs.dita#conrefs/moj"/> devices.
-					Installation might not be possible, for example on MoJo smartphones.</note></p>
-			<p>You might have both a personal and an <ph conref="conrefs.dita#conrefs/moj"/> issued device.
-				Think about which device makes most sense to use with the app.
-				It's best to install on the device that you carry with you and use most of the time.
-			You could install on all your devices if you prefer.</p>
-			<p>To reduce the likelihood of false alerts on the app, turn off the app's Bluetooth mode.
-				Do this when:
-				<ul>
-					<li>You are working in environments with protective Covid measures in-place,
-						for example plexiglass separators.</li>
-						<li>You need to leave your personal or work device in a locker, for example during a sports activity or to work in a secure <ph conref="conrefs.dita#conrefs/moj"/> facility.</li>
-				</ul></p>
-		</body>
-	</topic>
 	<topic id="other-tools">
 		<title>Other tools</title>
 		<body>

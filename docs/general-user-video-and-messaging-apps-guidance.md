@@ -158,25 +158,6 @@ If you need to use proctoring software, your options are:
 -   Install the proctoring software on a personal device.
 -   Contact the assessment organisation asking for alternative options.
 
-## NHS Track and Trace
-
-The official [NHS Covid-19](https://www.nhs.uk/apps-library/nhs-covid-19/) app was designed by the NHS. Both NCSC and Cabinet Office have been involved in the security of the system. The app provides contact tracing, local area alerts and venue check-in. It enables you to protect yourself and your loved ones. Installation is optional, but recommended.
-
-After installing the app, you'll receive an alert if you have been in close contact with other people who have tested positive for coronavirus. You can then take action to avoid passing the virus on, for example by self-isolating.
-
-From a security perspective, it is safe for you to use the app on your personal or MoJ issued devices. There are no extra risks for colleagues with security clearance, such as SC and DV.
-
-If you wish to install the app, start at the [NHS site](https://covid19.nhs.uk/).
-
-**Note:** The NHS app may not work on some older MoJ devices. Installation might not be possible, for example on MoJo smartphones.
-
-You might have both a personal and an MoJ issued device. Think about which device makes most sense to use with the app. It's best to install on the device that you carry with you and use most of the time. You could install on all your devices if you prefer.
-
-To reduce the likelihood of false alerts on the app, turn off the app's Bluetooth mode. Do this when:
-
--   You are working in environments with protective Covid measures in-place, for example plexiglass separators.
--   You need to leave your personal or work device in a locker, for example during a sports activity or to work in a secure MoJ facility.
-
 ## Other tools
 
 Some tools, such as Facebook, Instagram and LinkedIn, are approved for specific corporate accounts to use, for corporate communications messages. General use of these tools for work purposes is not permitted.
