@@ -4,9 +4,9 @@ redirect_from:
 ---
 # General app guidance
 
-When working, you need to communicate with Ministry of Justice \(MoJ\) colleagues and use business tools \('apps'\). You'll also need to work with people outside the MoJ. There are various tools you might use, besides the standard email and telephone tools. This document tells you about the tools you can, and cannot, use for business purposes. This guidance applies to all staff and contractors who work for the MoJ.
+When working, you need to communicate with Ministry of Justice \(MoJ\) colleagues and use business tools \('apps'\). You'll also need to work with people outside the MoJ. There are various tools you might use, besides the standard email and telephone tools. This document gives guidance on the types of tools you can and cannot use for business purposes. This guidance applies to all staff and contractors who work for the MoJ.
 
-Some ALBs, Agencies, or other large groups within the MoJ might have their own, specific guidance regarding how to use certain apps for different purposes.
+Some ALBs, agencies, or other large groups within the MoJ might have their own, specific guidance regarding how to use certain apps for different purposes.
 
 ## Access to tools
 
@@ -15,17 +15,15 @@ You can access tools that are provided through your MoJ provided devices by down
 -   The Software Centre application on your device \(for Dom1 equipment\).
 -   The Self Service application on your Mac \(for IT Service Desk managed MacBook laptops\).
 
-Currently, access to the tools mentioned in this document is not available from MoJo devices.
-
 For other MoJ provided devices, seek help from your Line Manager in the first instance.
 
 ## Corporate, work and personal accounts
 
 -   A corporate account is for making official MoJ statements and providing official views. Only a small number of authorised people can use it.
 -   A work account is your normal MoJ account, that you use every day for business as usual. Only you have access to your work account.
--   A personal account is your own personal account on gmail, hotmail, yahoo, and so on. You should never use a personal account for business purposes. To be clear: never send your work material to your personal device or your personal email account.
+-   A personal account is your own personal account, outside of the MoJ. You should never use a personal account for business purposes. To be clear: never send your work material to your personal device or your personal email account.
 
-Some of the applications listed make a distinction between general use with a work account, and use with a corporate account. Using a tool with a corporate account means you are providing views or statements on behalf of the MoJ. Never use a personal account for business purposes with any tool.
+Some applications make a distinction between general use with a work account, and use with a corporate account. Using a tool with a corporate account means you are providing views or statements on behalf of the MoJ. Never use a personal account for business purposes with any tool.
 
 Remember that if you are authorised to use a corporate account, you are speaking and acting for the whole of the MoJ. When working with a personal account, you are speaking and acting as an MoJ employee and a civil servant.
 
@@ -127,25 +125,6 @@ The bottom line is:
 
 > If there is doubt, there is no doubt - ask for help!
 
-## Approved tools
-
-|Tool name|Tool type|Conditions/ constraints on use|Accessing /installing tool|Audience|
-|---------|---------|------------------------------|--------------------------|--------|
-|Apple Facetime|Communication tool: Video|Avoid personal or sensitive data|Smartphone App|Internal/External|
-|Apple iMessage|Text messaging|Avoid personal or sensitive data|Smartphone App|Internal/External|
-|Google Meet \(was Google Hangouts\)|Communication tool: Video and/or voice|MoJ use approved for **Official** and **Official-Sensitive**|IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
-|Microsoft Teams|Communication and collaboration tool: Video and/or voice|MoJ use approved for **Official** and **Official-Sensitive**|Dom1 Software centre, IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
-|Miro|Collaboration tool: Whiteboarding|Avoid personal or sensitive data|Web browser.|Internal/External|
-|Skype for Business|Communication tool: Video and/or voice|MoJ use approved for **Official** and **Official-Sensitive**|Dom1 Software centre, IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
-|Slack|Text messaging, Voice/Video calls, etc.|Avoid personal or sensitive data|IT Service Desk controlled Mac - Self service, Web browser.|Internal/External|
-|Slido|Q&amp;A tool during presentations|Avoid personal or sensitive data|Web browser.|Internal|
-|Trello|Project management tool, 'Kanban' cards|Avoid personal or sensitive data. An enterprise-wide MoJ licence is available. Ensure you create Trello boards in the MoJ workspace. Do not use a personal Trello account.|Web browser based use. Log in using your MoJ single sign-on account, for example a Digital &amp; Technology Google account, or a Microsoft Office 365 account.|Internal|
-|Twitter|Text Messaging, Video transmission|Approved for MoJ Corporate account. Using a personal account to comment on work related issues is encouraged, as long as you follow the [Civil Service Code of Conduct](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code).|Web browser, Windows 10 App, Smartphone App.|Internal/External|
-|WhatsApp|Text messaging, Voice/Video calls|Avoid personal or sensitive data|Dedicated app on device, also web browser.|Internal/External|
-|Yammer|Text messaging|Avoid personal or sensitive data|Dedicated app on device|Internal|
-|YouTube|Video sharing tool: Video, streaming and chat|Avoid personal or sensitive data|Web browser based use.|Internal/External|
-|Zoom|Communication tool: Video, voice and chat|Avoid personal or sensitive data|Web browser based use, or dedicated and installed app by approval|External meetings. For Internal meetings, use Microsoft Teams.|
-
 ## Password managers
 
 MoJ [guidance](password-managers.md) encourages the use of password managers where possible. To establish what options are available for an MoJ-issued device, check the official MoJ software and application installation tool provided with the device, to see whether it includes a facility to install optional software and whether a password manager is among the options.
@@ -156,14 +135,11 @@ For secure sharing and transfer of materials within MoJ bodies or external organ
 
 For secure sharing and transfer of materials with external organisations that cannot use Teams, the Criminal Justice Secure Exchange \(CJSE\) and Criminal Justice Secure Messaging \(CJSM\) tools are the preferred solution for data up to and including **Official-Sensitive**.
 
-For secure sharing and transfer of materials with external organisations where the use of Teams, CJSE, or CJSM is not practicable, the following tools are approved for data up to and including **Official-Sensitive**:
-
--   [Egress](https://www.egress.com/) \([NCSC certified](https://www.ncsc.gov.uk/products/egress-email-and-file-protection)\)
--   [Galaxkey](https://www.galaxkey.com/) \([NCSC certified](https://www.ncsc.gov.uk/products/galaxkey)\)
+For secure sharing and transfer of materials with external organisations where the use of Teams, CJSE, or CJSM is not practicable.
 
 For use within MoJ bodies, these products may only be installed on MoJ-issued devices. For advice on installation and configuration of these products, consult the team responsible for the supply and configuration of your devices.
 
-For secure sharing and transfer of materials with other government bodies, where the use of Teams, CJSE, CJSM, Egress, or Galaxkey is not possible, the use of official MoJ email systems is approved for data up to and including **Official-Sensitive**.
+For secure sharing and transfer of materials with other government bodies, where the use of Teams, CJSE, CJSM, is not possible, the use of official MoJ email systems is approved for data up to and including **Official-Sensitive**.
 
 Always follow the guidance in the [Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md) when making such transfers. This applies particularly with regard to the sharing of data classified higher than **Official**.
 

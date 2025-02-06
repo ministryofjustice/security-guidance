@@ -7,10 +7,10 @@
 			and use business tools ('apps').
 			You'll also need to work with people outside the <ph conref="conrefs.dita#conrefs/moj"/>.
 			There are various tools you might use, besides the standard email and telephone tools.
-			This document tells you about the tools you can, and cannot, use for business purposes.
+			This document gives guidance on the types of tools you can and cannot use for business purposes.
 			This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
-		<p>Some ALBs, Agencies, or other large groups within the <ph conref="conrefs.dita#conrefs/moj"/> might have their own,
-			specific guidance regarding how to use certain  apps for different purposes.</p>
+		<p>Some ALBs, agencies, or other large groups within the <ph conref="conrefs.dita#conrefs/moj"/> might have their own,
+			specific guidance regarding how to use certain apps for different purposes.</p>
 	</body>
 	<topic id="access-to-tools">
 		<title>Access to tools</title>
@@ -20,7 +20,6 @@
 				<li>The Software Centre application on your device (for Dom1 equipment).</li>
 				<li>The Self Service application on your Mac (for <ph conref="conrefs.dita#conrefs/servicedesk"/> managed MacBook laptops).</li>
 			</ul>
-			<p>Currently, access to the tools mentioned in this document is not available from MoJo devices.</p>
 			<p>For other <ph conref="conrefs.dita#conrefs/moj"/> provided devices, seek help from your Line Manager in the first instance.</p>
 		</body>
 	</topic>
@@ -32,12 +31,12 @@
 				Only a small number of authorised people can use it.</li>
 				<li>A work account is your normal <ph conref="conrefs.dita#conrefs/moj"/> account, that you use every day for business as usual.
 				Only you have access to your work account.</li>
-				<li>A personal account is your own personal account on gmail, hotmail, yahoo, and so on.
+				<li>A personal account is your own personal account, outside of the <ph conref="conrefs.dita#conrefs/moj"/>.
 					You should never use a personal account for business purposes.
 					To be clear:
 					never send your work material to your personal device or your personal email account.</li>
 			</ul>
-			<p>Some of the applications listed make a distinction between general use with a work account, and use with a corporate account.
+			<p>Some applications make a distinction between general use with a work account, and use with a corporate account.
 				Using a tool with a corporate account means you are providing views or statements on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>.
 				Never use a personal account for business purposes with any tool.</p>
 			<p>Remember that if you are authorised to use a corporate account,
@@ -187,135 +186,6 @@
 			</p>
 		</body>
 	</topic>
-	<topic id="approved-tools">
-		<title>Approved tools</title>
-		<body>
-			<table>
-				<tgroup cols="5">
-					<colspec colname="col1" colnum="1" colwidth="1*"/>
-					<colspec colname="col2" colnum="2" colwidth="2*"/>
-					<colspec colname="col3" colnum="3" colwidth="2*"/>
-					<colspec colname="col4" colnum="4" colwidth="2*"/>
-					<colspec colname="col5" colnum="5" colwidth="1*"/>
-					<thead>
-						<row>
-							<entry colname="col1">Tool name</entry>
-							<entry colname="col2">Tool type</entry>
-							<entry colname="col3">Conditions/ constraints on use</entry>
-							<entry colname="col4">Accessing /installing tool</entry>
-							<entry colname="col5">Audience</entry>
-						</row>
-					</thead>
-					<tbody>
-						<row>
-							<entry colname="col1">Apple Facetime</entry>
-							<entry colname="col2">Communication tool: Video</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Smartphone App</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Apple iMessage</entry>
-							<entry colname="col2">Text messaging</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Smartphone App</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Google Meet (was Google Hangouts)</entry>
-							<entry colname="col2">Communication tool: Video and/or voice</entry>
-							<entry colname="col3"><ph id="approved"><ph conref="conrefs.dita#conrefs/moj"/> use approved for <ph conref="conrefs.dita#conrefs/official"/> and <ph conref="conrefs.dita#conrefs/official-sensitive"/></ph></entry>
-							<entry colname="col4"><ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Microsoft Teams</entry>
-							<entry colname="col2">Communication and collaboration tool: Video and/or voice</entry>
-							<entry colname="col3"><ph conref="#approved-tools/approved"/></entry>
-							<entry colname="col4">Dom1 Software centre, <ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Miro</entry>
-							<entry colname="col2">Collaboration tool: Whiteboarding</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Web browser.</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Skype for Business</entry>
-							<entry colname="col2">Communication tool: Video and/or voice</entry>
-							<entry colname="col3"><ph conref="#approved-tools/approved"/></entry>
-							<entry colname="col4">Dom1 Software centre, <ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Slack</entry>
-							<entry colname="col2">Text messaging, Voice/Video calls, etc.</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4"><ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Slido</entry>
-							<entry colname="col2">Q&amp;A tool during presentations</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Web browser.</entry>
-							<entry colname="col5">Internal</entry>
-						</row>
-						<row>
-							<entry colname="col1">Trello</entry>
-							<entry colname="col2">Project management tool, 'Kanban' cards</entry>
-							<entry colname="col3">Avoid personal or sensitive data.
-								An enterprise-wide <ph conref="conrefs.dita#conrefs/moj"/> licence is available.
-								Ensure you create Trello boards in the <ph conref="conrefs.dita#conrefs/moj"/> workspace.
-								Do not use a personal Trello account.</entry>
-							<entry colname="col4">Web browser based use.
-							Log in using your <ph conref="conrefs.dita#conrefs/moj"/> single sign-on account,
-								for example a Digital &amp; Technology Google account,
-								or a Microsoft Office 365 account.</entry>
-							<entry colname="col5">Internal</entry>
-						</row>
-						<row>
-							<entry colname="col1">Twitter</entry>
-							<entry colname="col2">Text Messaging, Video transmission</entry>
-							<entry colname="col3">Approved for <ph conref="conrefs.dita#conrefs/moj"/> Corporate account. Using a personal account to comment on work related issues is encouraged, as long as you follow the <xref href="https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code" format="html" scope="external">Civil Service Code of Conduct</xref>.</entry>
-							<entry colname="col4">Web browser, Windows 10 App, Smartphone App.</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">WhatsApp</entry>
-							<entry colname="col2">Text messaging, Voice/Video calls</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Dedicated app on device, also web browser.</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Yammer</entry>
-							<entry colname="col2">Text messaging</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Dedicated app on device</entry>
-							<entry colname="col5">Internal</entry>
-						</row>
-						<row>
-							<entry colname="col1">YouTube</entry>
-							<entry colname="col2">Video sharing tool: Video, streaming and chat</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Web browser based use.</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Zoom</entry>
-							<entry colname="col2">Communication tool: Video, voice and chat</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Web browser based use, or dedicated and installed app by approval</entry>
-							<entry colname="col5">External meetings. For Internal meetings, use Microsoft Teams.</entry>
-						</row>
-					</tbody>
-				</tgroup>
-			</table>
-		</body>
-	</topic>
 	<topic id="password-managers">
 		<title>Password managers</title>
 		<body>
@@ -327,13 +197,9 @@
 		<body>
 			<p>For secure sharing and transfer of materials within <ph conref="conrefs.dita#conrefs/moj"/> bodies or external organisations including other government departments, the <ph conref="conrefs.dita#conrefs/moj"/> installation of Microsoft Teams is approved for use with data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
 			<p>For secure sharing and transfer of materials with external organisations that cannot use Teams, the Criminal Justice Secure Exchange (CJSE) and Criminal Justice Secure Messaging (CJSM) tools are the preferred solution for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
-			<p>For secure sharing and transfer of materials with external organisations where the use of Teams, CJSE, or CJSM is not practicable, the following tools are approved for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>:
-				<ul>
-					<li><xref href="https://www.egress.com/" format="html" scope="external">Egress</xref> (<xref href="https://www.ncsc.gov.uk/products/egress-email-and-file-protection" format="html" scope="external">NCSC certified</xref>)</li>
-					<li><xref href="https://www.galaxkey.com/" format="html" scope="external">Galaxkey</xref> (<xref href="https://www.ncsc.gov.uk/products/galaxkey" format="html" scope="external">NCSC certified</xref>)</li>
-				</ul>
-				For use within <ph conref="conrefs.dita#conrefs/moj"/> bodies, these products may only be installed on <ph conref="conrefs.dita#conrefs/moj"/>-issued devices. For advice on installation and configuration of these products, consult the team responsible for the supply and configuration of your devices.</p>
-			<p>For secure sharing and transfer of materials with other government bodies, where the use of Teams, CJSE, CJSM, Egress, or Galaxkey is not possible, the use of official <ph conref="conrefs.dita#conrefs/moj"/> email systems is approved for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
+			<p>For secure sharing and transfer of materials with external organisations where the use of Teams, CJSE, or CJSM is not practicable.</p>
+			<p>For use within <ph conref="conrefs.dita#conrefs/moj"/> bodies, these products may only be installed on <ph conref="conrefs.dita#conrefs/moj"/>-issued devices. For advice on installation and configuration of these products, consult the team responsible for the supply and configuration of your devices.</p>
+			<p>For secure sharing and transfer of materials with other government bodies, where the use of Teams, CJSE, CJSM, is not possible, the use of official <ph conref="conrefs.dita#conrefs/moj"/> email systems is approved for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
 			<p>Always follow the guidance in the <xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Handling and Information Sharing Guide</xref> when making such transfers. This applies particularly with regard to the sharing of data classified higher than <ph conref="conrefs.dita#conrefs/official"/>.</p>
 			<p>If you need clarification or further assistance in selecting the appropriate tool, <xref href="#contact-details" format="">ask for help</xref>.</p>
 		</body>
