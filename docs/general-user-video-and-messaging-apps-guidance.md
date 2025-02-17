@@ -10,24 +10,24 @@ Some ALBs, agencies, or other large groups within the MoJ might have their own, 
 
 ## Access to tools
 
-You can access tools that are provided through your MoJ provided devices by downloading from:
+You can access tools through your MoJ-provided devices by downloading from:
 
--   The Software Centre application on your device \(for Dom1 equipment\).
+-   The Software Centre application on your device \(for Dom1 or MoJO equipment\).
 -   The Self Service application on your Mac \(for IT Service Desk managed MacBook laptops\).
 
-For other MoJ provided devices, seek help from your Line Manager in the first instance.
+For MoJ-provided devices that are not Dom1, MoJO, or IT Service Desk Managed MacBooks, seek guidance from your Line Manager to appropriately source software.
 
-## Corporate, work and personal accounts
+## Corporate, work, and personal accounts
 
 -   A corporate account is for making official MoJ statements and providing official views. Only a small number of authorised people can use it.
--   A work account is your normal MoJ account, that you use every day for business as usual. Only you have access to your work account.
--   A personal account is your own personal account, outside of the MoJ. You should never use a personal account for business purposes. To be clear: never send your work material to your personal device or your personal email account.
+-   A work account is your normal MoJ account that you use every day for business as usual. Only you have access to your work account.
+-   A personal account is your own personal account, outside of the MoJ. You should never use a personal account for business purposes. To be clear: Never send your work material to your personal device or your personal email account.
 
 Some applications make a distinction between general use with a work account, and use with a corporate account. Using a tool with a corporate account means you are providing views or statements on behalf of the MoJ. Never use a personal account for business purposes with any tool.
 
-Remember that if you are authorised to use a corporate account, you are speaking and acting for the whole of the MoJ. When working with a personal account, you are speaking and acting as an MoJ employee and a civil servant.
+Remember, if you are authorised to use a corporate account, you are speaking and acting for the whole of the MoJ. When working with a personal account, you are speaking and acting as an MoJ employee and/or a civil servant.
 
-Always follow all [MoJ policies and guidelines](https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf) regarding public information, including social media. To access this information you'll need to be connected to the MoJ Intranet.
+Always follow all MoJ policies and guidelines regarding public information, including social media.
 
 In particular, follow the [Civil Service Code of Conduct](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code).
 
@@ -41,7 +41,7 @@ Video conferencing hardware for use within the MoJ **shall** meet the required s
 
 ## Using video conference tools safely
 
-The NCSC has excellent guidance on [using video conferencing services safely](https://www.ncsc.gov.uk/guidance/video-conferencing-services-using-them-securely).
+The NCSC has excellent guidance on [using video conferencing services safely](https://www.ncsc.gov.uk/guidance/video-conferencing-services-security-guidance-organisations).
 
 Key things to remember *before* a call include:
 
@@ -55,7 +55,7 @@ Key things to remember for *every* call include:
 -   Know who is joining the call, in particular check that everyone is known and expected to be present, and that people who have dialled in have identified themselves clearly and sufficiently.
 -   Consider your surroundings, for example checking what can be seen behind you \(forgetting to check information on a whiteboard or noticeboard is an easy mistake\).
 
-## MoJ Policy and guidance
+## MoJ guidance
 
 ### **Official** and **Official-Sensitive** Information
 
@@ -65,27 +65,26 @@ Key things to remember for *every* call include:
 
 ### Privacy and personal information \(Data Protection\)
 
-Some communications tools expect to have a copy of your contacts list. The list is uploaded to the tool server in order to let the tool to function correctly. Think carefully about whether this is reasonable to do. Make sure that sharing your contacts list does not impact any one else's privacy in a negative way.
+Some communications tools expect to have a copy of your contacts list, which they may upload to a server. When selecting tools to use, think carefully about whether this is an acceptable risk, and whether it will negatively impact anyone else's privacy.
 
-Data protection legislation makes you responsible for personal information you work with. You must keep it safe and secure. In particular, you must follow data protection obligations. These include the Data Protection Act 2018 and the General Data Protection Regulation \(GDPR\).
+Data protection legislation makes you responsible for keeping personal information you work with safe and secure. Specifically including the Data Protection Act 2018 and the UK General Data Protection Regulation \(UK GDPR\).
 
 Complying with personal information requirements can be complex. Don't hesitate to ask for advice:
 
 -   Email: [DataProtection@justice.gov.uk](mailto:DataProtection@justice.gov.uk)
--   Slack: `#security_privacy_and_live_service_team`
 -   Intranet: [https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/)
 
 ### Information Management
 
-Many of the tools are only used for your day-to-day communication with colleagues. The information you work with is typically [classified](https://www.gov.uk/government/publications/government-security-classifications) at **Official**.
+Many tools are only used for day-to-day communication. The information you work with is typically [classified](https://www.gov.uk/government/publications/government-security-classifications) at **Official**.
 
-Think about the MoJ information you work with when using these tools. What would happen if you lost your mobile device, or it's stolen? Suppose the voice or video call was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is 'No', then it's probably OK to use the tool to communicate that information with colleagues.
+It's important to consider the MoJ information you work with when using these tools. What would happen if you lost your mobile device, or it was stolen? Voice or video calls may be overheard in a cafe, or read from your screen on a crowded train. What could the consequences be? If the consequences for the loss or exposure of the information is minimal, then the information can probably be safely communicated.
 
 You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is [Principle 2](https://www.gov.uk/government/publications/government-security-classifications) of the Government Security Classifications. The MoJ trusts you to work with **Official** information. You're trusted to make a reasoned judgement about whether it's safe to use an approved tool, or whether you should use a different MoJ-provided work tool.
 
 Never send work material to your personal devices or email accounts.
 
-Remember that it is impossible to delete information after it's released in public.
+Remember that it is impossible to delete information after it is publicly released.
 
 For more information about MoJ IT Security, look on the MoJ Intranet [here](https://intranet.justice.gov.uk/guidance/security/).
 
@@ -93,15 +92,15 @@ For more information about MoJ IT Security, look on the MoJ Intranet [here](http
 
 Laws and regulations make the MoJ and its employees responsible for managing information. Some examples include:
 
--   Freedom of Information Act.
--   Data Protection Act and General Data Protection Regulation.
--   Public Records Acts.
+-   Freedom of Information Act 2000.
+-   Data Protection Act 2018 and UK General Data Protection Regulation.
+-   Public Records Acts 1967.
 
 When we receive a request for information, we need to know where we hold all the relevant information. Storing business information on appropriate MoJ systems helps us, because:
 
 -   We can provide evidence about decisions.
 -   We understand the information held, and where to find it.
--   We can transfer records to The National Archives.
+-   We can transfer records to the National Archives.
 
 Always store MoJ information in MoJ systems. If you use a tool for work tasks, make sure the key information is stored in an appropriate MoJ system. Guidance on what you must keep is available on the Intranet [here](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/keeping-deleting-disclosing-info/). At regular and convenient intervals, transfer the information to an appropriate MoJ system. Do the same when you finish the work. Don't forget to remove any redundant information from a tool by clearing or deleting data if it has been preserved in an MoJ system.
 
@@ -115,9 +114,9 @@ You must use communications tools for business purposes in an [acceptable way](a
 
 Be sensible when using communications tools for MoJ business purposes:
 
--   Be extra careful with sensitive and personal information in tools.
--   Try to avoid using the same tool for business and personal use - you can get confused who you're talking with.
--   If the message you're about to send might cause problems, upset, offence, or embarrassment, it's not acceptable.
+-   Be extra careful with sensitive and personal information.
+-   Try to avoid using the same tool for business and personal use to avoid confusion.
+-   If the message you're about to send might cause upset, offence, or embarrassment, it's not acceptable.
 -   Context is important - a message you might think is funny could be upsetting to someone else.
 -   If something goes wrong, report it.
 
@@ -143,7 +142,7 @@ For secure sharing and transfer of materials with other government bodies, where
 
 Always follow the guidance in the [Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md) when making such transfers. This applies particularly with regard to the sharing of data classified higher than **Official**.
 
-If you need clarification or further assistance in selecting the appropriate tool, [ask for help](#contact-details).
+If you need clarification or further assistance in selecting the appropriate tool, [ask for help](#contact-and-feedback).
 
 ## Proctoring software
 
@@ -162,7 +161,7 @@ If you need to use proctoring software, your options are:
 
 Some tools, such as Facebook, Instagram and LinkedIn, are approved for specific corporate accounts to use, for corporate communications messages. General use of these tools for work purposes is not permitted.
 
-If you wish to use a tool that is not listed in this guidance, please consult our [Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md) and [ask for help](#contact-details).
+If you wish to use a tool that is not listed in any specific guidance, please consult our [Guidance for using Open Internet Tools](guidance-for-using-open-internet-tools.md) and [ask for help](#contact-details).
 
 ## Requesting that an app be approved for use
 
@@ -184,7 +183,7 @@ If you have any questions about the process, ask for help.
 
 ### NCSC
 
-[Video conferencing services: using them securely](https://www.ncsc.gov.uk/guidance/video-conferencing-services-using-them-securely)
+[Video conferencing services: using them securely](https://www.ncsc.gov.uk/guidance/video-conferencing-services-security-guidance-organisations)
 
 [Secure communications principles](https://www.ncsc.gov.uk/guidance/secure-communication-principles-alpha-release)
 
