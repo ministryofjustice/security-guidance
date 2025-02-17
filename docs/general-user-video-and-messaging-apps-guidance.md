@@ -100,7 +100,7 @@ When we receive a request for information, we need to know where we hold all the
 
 -   We can provide evidence about decisions.
 -   We understand the information held, and where to find it.
--   We can transfer records to the National Archives.
+-   We can transfer records to The National Archives.
 
 Always store MoJ information in MoJ systems. If you use a tool for work tasks, make sure the key information is stored in an appropriate MoJ system. Guidance on what you must keep is available on the Intranet [here](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/keeping-deleting-disclosing-info/). At regular and convenient intervals, transfer the information to an appropriate MoJ system. Do the same when you finish the work. Don't forget to remove any redundant information from a tool by clearing or deleting data if it has been preserved in an MoJ system.
 
@@ -134,11 +134,7 @@ For secure sharing and transfer of materials within MoJ bodies or external organ
 
 For secure sharing and transfer of materials with external organisations that cannot use Teams, the Criminal Justice Secure Exchange \(CJSE\) and Criminal Justice Secure Messaging \(CJSM\) tools are the preferred solution for data up to and including **Official-Sensitive**.
 
-For secure sharing and transfer of materials with external organisations where the use of Teams, CJSE, or CJSM is not practicable.
-
-For use within MoJ bodies, these products may only be installed on MoJ-issued devices. For advice on installation and configuration of these products, consult the team responsible for the supply and configuration of your devices.
-
-For secure sharing and transfer of materials with other government bodies, where the use of Teams, CJSE, CJSM, is not possible, the use of official MoJ email systems is approved for data up to and including **Official-Sensitive**.
+For secure sharing and transfer of materials with other government bodies, where the use of Teams, CJSE, or CJSM is not practicable, the use of official MoJ email systems is approved for data up to and including **Official-Sensitive**.
 
 Always follow the guidance in the [Data Handling and Information Sharing Guide](data-handling-and-information-sharing-guide.md) when making such transfers. This applies particularly with regard to the sharing of data classified higher than **Official**.
 
