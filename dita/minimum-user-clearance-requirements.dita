@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="minimum-user-clearance-requirements">
+  <title>Minimum User Clearance Requirements</title>
+  <body>
+    <p>BPSS (Baseline Personnel Security Standard) is a HR pre-employment check and a requirement for all directly employed staff and contractors working within the MoJ.</p>
+  	<p>Most of the IT systems within the MoJ can process OFFICIAL information and therefore, BPSS will suffice. However, some roles may require staff to have a higher level of security clearance.</p>
+    <p>Roles that include any of the below will require National Security Vetting:
+  	<ul>
+  		<li>Access to information classified at SECRET or TOP SECRET</li>
+  		<li>Long term, regular, unsupervised access to data centres or communications rooms</li>
+  		<li>Regular privileged unsupervised and unconstrained access to systems which contain data for multiple MoJ systems, for example backups, or console access to multiple cloud services</li>
+  		<li>Cryptography responsibilities and handling, under advice from the Crypto Custodian</li>
+      <li>Access to multiple system security testing outcomes which reveal vulnerabilities in live services</li>
+      <li>A role such as system support or IT investigation role, such that without further authority or authorisation, an individual might:
+        <li>act as another user</li>
+        <li>obtain credentials for another user</li>
+        <li>directly access other users’ data</li>
+  	</ul></p>
+  	</body>
+  </topic>
+  <topic id="National-Security-Vetting-levels">
+    <title>National Security Vetting levels</title>
+    <body>
+      <p><ul>
+         <li>Counter Terrorist Check (CTC)</li>
+         <li>Security Check (SC)</li>
+         <li>Developed Vetting (DV)</li>
+         </ul></p>
+      <p>MoJ HQ and Executive Agencies might have additional, specific requirements for DV/DV STRAP clearance for individual systems. These requirements should be followed where applicable.</p>
+    </body>
+    <topic id="Clearance-levels">
+      <title>Clearance levels</title>
+      <body>
+        <p>There are other roles across the MoJ and its agencies where alternative clearance may also be required.
+          <ul>Disclosure and Barring Service (DBS) for information relating to children and vulnerable adults.</ul>
+          <ul>Enhanced Level’s 1 or 2 for HMPPS roles and establishments</ul>
+        </p>
+    </body>
+  </topic>
+  <topic id="Contact">
+    <title>Contact</title>
+      <body>
+        <p>Please contact the <xref href="mailto:NSV-Team@justice.gov.uk" format="html" scope="external">NSV-Team@justice.gov.uk</xref>for any National Security Vetting questions or further information.</p>
+      </body>
+</topic>
