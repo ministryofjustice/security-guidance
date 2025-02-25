@@ -40,7 +40,7 @@ Operations Engineering cannot routinely access the contents of vaults but can re
 
 1Password **should not** be used for storing personal passwords, or for storing MoJ documents. Use existing approved MoJ services such as Office 365 or Google Workspace for storing MoJ documents.
 
-You **should not** use 1Password for 'secrets' that belong to systems, only credentials to be used by humans. There is separate guidance on how to handle system [secrets](secrets-management.md).
+You **should not** use 1Password for 'secrets' that belong to systems, only credentials to be used by humans.
 
 ## How to use it
 
