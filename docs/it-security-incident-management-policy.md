@@ -4,11 +4,6 @@ redirect_from:
 ---
 # IT Security Incident Management Policy
 
-**Related information**  
-
-
-[Technical Controls Policy](technical-controls-policy.md)
-
 ## How to use this policy
 
 This policy is for all users and is part of a set of Ministry of Justice \(MoJ\) policies and supporting guides that cover various aspects of incident and disaster management and response.
@@ -253,11 +248,7 @@ This report **should** be sent to the SIRO who is responsible for forwarding it 
 -   mitigations and actions taken to resolve the incident
 -   any lessons learned and recommendations made
 
-## Contact details
+## Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

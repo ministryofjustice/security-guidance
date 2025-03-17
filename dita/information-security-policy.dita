@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="information-security-policy">
+  <title>Information Security Policy</title>
+  <body>
+    <p>Security is central to everything we do at the <ph conref="conrefs.dita#conrefs/mojlong"/> - without it we cannot effectively deliver our priorities and ensure protection for staff and the public. </p>
+    <p>This policy sets out the formal senior management commitment to information security across the <ph conref="conrefs.dita#conrefs/moj"/>. This ensures that information is processed in a manner that preserves the confidentiality and integrity of information and meets the security requirements and obligations set out under legislation, regulations, and agreements we have entered.</p>
+    <p>This policy and the associated Information Security Framework support the protection of the <ph conref="conrefs.dita#conrefs/moj"/>'s IT systems against accidental or malicious breaches, identifying a risk-based approach to information security, and ensuring we have the right people, processes, and technology controls to counter threats faced by the department.</p>
+  </body>
+<topic id="scope">
+    <title>Scope</title>
+    <body>
+        <p>This policy provides the context for the information security policies and standards that are used across the <ph conref="conrefs.dita#conrefs/moj"/> and the government standards under which it operates. It applies to all staff, contractors, executive agencies, and third parties who provide services to, for, or on behalf of the department.</p>
+    </body>
+</topic>
+<topic id="responsibilities">
+    <title>Responsibilities</title>
+    <body>
+        <p>As a government department, the Cabinet Office hold the <ph conref="conrefs.dita#conrefs/moj"/> accountable for meeting the requirements of the <xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" scope="external">Government Functional Standard for Security: GovS007</xref> and the underpinning technical <xref href="https://www.security.gov.uk/policy-and-guidance/the-cyber-security-standard/" scope="external">standard for cyber security</xref>. In line with the Government Functional Security Standard (GovS007), the <ph conref="conrefs.dita#conrefs/moj"/> has a board member with the security remit (Director General Chief Operating Officer Group) and an <ph conref="conrefs.dita#conrefs/moj"/> senior officer accountable for security (Chief Security Officer).</p>
+        <p>All <ph conref="conrefs.dita#conrefs/moj"/> Public bodies with their own accounting officers (accountable to the <ph conref="conrefs.dita#conrefs/moj"/>'s principal accounting officer) must also appoint their own board members with responsibility for information security.</p>
+    </body>
+</topic>
+<topic id="information-security-framework">
+    <title>Information Security Framework</title>
+    <body>
+        <p>The department's information security is managed via:</p>
+        <p>    
+            <ol>
+            <li>This strategic policy</li>
+            <li>Information security policies</li>
+            <li>Standards, procedures, and governing arrangements</li>
+            <li>Guidance to help apply the policies, standards, procedures, and governing arrangements</li>
+            <li>System and process-specific security policies and guidance</li>
+            </ol>
+        </p>
+        <p><ph conref="conrefs.dita#conrefs/moj"/>-wide security policies are all outcome-focussed and avoid being specific, to allow a range of methods to be used to achieve them, tailored to local circumstances. This permits agencies and teams within the department flexibility and autonomy in interpreting them given their particular operations.</p>
+        <p>The policies and standards set out the minimum baseline that areas need to achieve. In many circumstances, additional controls may be required to meet specific regulations or contractual obligations, or to counter specific threats. </p>
+    </body>
+</topic>
+<topic id="policy-statements">
+    <title>Policy Statements</title>
+    <body>
+        <p>The identified responsible officials <b>SHALL</b> comply with the following high level policy statements, as well as the lower-level policies in the Information Security Framework:</p>
+        <p>
+            <ol>
+            <li>Staff <b>SHALL</b> properly identify, classify, and protect data in accordance with the <ph conref="conrefs.dita#conrefs/moj"/>'s security policies and standards and with security controls proportionate to the risk to that data. </li>
+            <li>Staff, third parties and contractors <b>SHALL</b> identify, manage, and learn from information security incidents in accordance with the relevant policies.</li>
+            <li>Staff, third parties and contractors <b>SHALL</b> take all reasonable steps to safeguard the <ph conref="conrefs.dita#conrefs/moj"/>'s information against unauthorised or accidental disclosure. </li>
+            <li>Senior Responsible Officers <b>SHALL</b> ensure that Information security be embedded into all projects and formal approval from an appropriate security representative <b>SHALL</b> be mandatory.</li>
+            <li>Senior Responsible Officers <b>SHALL</b> ensure that all information is assigned an Information Asset Owner, whose responsibilities are defined in <xref href="https://www.gov.uk/government/publications/information-asset-owner-role-guidance/guidance-on-the-information-asset-owner-role-html" scope="external">Guidance on the Information Asset Owner role</xref>.</li>
+            <li>Senior Responsible Officers <b>SHALL</b> ensure effective and proportionate security controls are in place to manage any identified risks. </li>
+            <li>Senior Business Owners <b>SHALL</b> ensure the compliance of suppliers and partners with relevant <ph conref="conrefs.dita#conrefs/moj"/> security policies and understand the risk of any deviations. </li>
+            <li>Technology Service Owners <b>SHALL</b> protect technology services through security controls as detailed in <ph conref="conrefs.dita#conrefs/moj"/> policies and standards. </li>
+            <li>Technology Service Owners <b>SHALL</b> ensure that disaster recovery, and business continuity plans are implemented and tested in accordance with relevant <ph conref="conrefs.dita#conrefs/moj"/> standards. </li>
+            </ol>
+        </p>
+    </body>
+</topic>
+<topic id="compliance">
+    <title>Compliance</title>
+    <body>
+        <p>The Security and Information Directorate (SID) will regularly review this policy and associated framework documents to ensure they remain suitable. SID will undertake routine compliance activities - such as reviews of security controls - against this policy and the Information Security Framework.</p>
+        <p>Where requirements in this policy and the Information Security Framework have not been met and no formal risk has been escalated in-line with the relevant policies, individuals may be subject to disciplinary processes as per <ph conref="conrefs.dita#conrefs/moj"/> HR Policies. For external parties and contractors this may constitute a breach of contract. If any person is identified to have committed a criminal offence it may lead to prosecution.</p>
+    </body>
+</topic>
+<topic id="exceptions">
+    <title>Exceptions</title>
+    <body>
+        <p>Anyone requesting a policy exemption should contact the relevant Senior Information Risk Owner (SIRO), with support and guidance from the <ph conref="conrefs.dita#conrefs/moj"/> Information Security Team. In the first instance, please contact the <ph conref="conrefs.dita#conrefs/moj"/> Security Team <ph conref=""/> security@justice.gov.uk to discuss mitigation options.</p>
+    </body>
+</topic>
+<topic id="related-information">
+    <title>Related Information</title>
+    <body>
+        <p>
+        <ul>
+        <li><xref href="https://www.gov.uk/government/publications/government-functional-standard-govs-007-security" scope="external">GoVS007</xref></li>
+        <li><xref href="https://www.security.gov.uk/policy-and-guidance/the-cyber-security-standard/" scope="external">HMG Cyber Security Standard</xref></li>
+        <li><xref href="https://www.security.gov.uk/policy-and-guidance/government-cyber-security-policy-handbook/" scope="external">Government Cyber Security Policy Handbook</xref></li>
+        </ul>
+        </p>
+    </body>
+</topic>
+<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+
+</topic>

@@ -13,8 +13,6 @@ This document is the Ministry of Justice \(MoJ\) guidance covering disposal of p
 
 [Secure disposal of IT - public and private cloud](secure-disposal-of-it-public-and-private-cloud.md)
 
-[Technical Controls Policy](technical-controls-policy.md)
-
 ## Physical Media and Associated Data
 
 The MoJ and its Executive Agencies and Arms Length Bodies use a wide variety of equipment, including photocopiers and printers, data centre hard and tape drives, desktop computers, laptops, USB memory sticks, and generic mobile devices. Some equipment might be the responsibility of a supplier to decommission and dispose of it safely and securely. Check asset tags or similar identifiers to determine and validate responsibility.
@@ -105,11 +103,9 @@ Guidance on the transportation of secure data is located in the CPNI guidance: �
 
 The previous guidance is also referenced in the CAS Sanitisation Service Requirement, under section “[MIT001 – Keep items secure during transportation](https://www.ncsc.gov.uk/files/CAS-Sanitisation_Service_Requirement_2-1.pdf)” on page 9.
 
-## Contact details
+## Contact and Feedback
 
 For any further questions or advice, contact IT Service Desk \(0800 917 5148\).
 
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 

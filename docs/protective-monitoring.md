@@ -1,13 +1,8 @@
 # Protective Monitoring Guide
 
-**Related information**  
-
-
-[Technical Controls Policy](technical-controls-policy.md)
-
 ## About this document
 
-**Note:** This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk)
+**Note:** This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 
 This policy applies to all staff and contractors who work for the Ministry of Justice \(MoJ\).
 
@@ -454,11 +449,7 @@ The following table provides a template to capture [all the accounting items to 
 | | | | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | | | | |
 
-## Contact details
+## Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

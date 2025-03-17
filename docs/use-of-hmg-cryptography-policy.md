@@ -1,10 +1,5 @@
 # Use of HMG Cryptography Policy
 
-**Related information**  
-
-
-[Technical Controls Policy](technical-controls-policy.md)
-
 ## Legacy information
 
 **Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
@@ -167,7 +162,7 @@ Every 12 months the COMSO will inspect the arrangements for sites locally storin
 |3|HMG IS4 - Supplement No.7 - Accounting of Cryptographic Items|Issue 1.0, Apr 2011|
 |4|IT Security Policy - HMG Cryptography Business Continuity Management Standard|V0-01|
 
-## Feedback
+## Contact and Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

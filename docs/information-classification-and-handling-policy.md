@@ -8,11 +8,6 @@ This policy outlines the Information Classification and Handling Policy for all 
 
 **Parent topic:** [Information classification, handling and security guide](information-classification-handling-and-security-guide.md)
 
-**Related information**  
-
-
-[Technical Controls Policy](technical-controls-policy.md)
-
 ## Scope
 
 This policy covers all staff \(including contractors and agency staff\) who use MoJ IT systems.
@@ -81,11 +76,7 @@ Further information on the criteria and derivation for classification can be fou
 
 The MoJ policy for handling classified material applies to all MoJ IT assets and all outputs from an IT system.
 
-## Contact details
+## Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

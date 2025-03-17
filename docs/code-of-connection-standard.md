@@ -2,11 +2,6 @@
 
 This standard is designed to help protect Ministry of Justice \(MoJ\) IT systems by providing a standard for the connection of a 3rd party IT system to a MoJ IT system.
 
-**Related information**  
-
-
-[Technical Controls Policy](technical-controls-policy.md)
-
 ## Legacy information
 
 **Note:** This document is Legacy IA Policy material. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact [security@justice.gov.uk](mailto:security@justice.gov.uk).
@@ -302,7 +297,7 @@ Guidance on completion:
 |**A.15.2.2**|**Technical Compliance Checking**|||*Is the connecting system subject to a technical assessment \(penetration test / ITHC? When was the last one done? Were any vulnerabilities identified and if so have these been addressed/fixed?*|
 |**A.15.3**|**System Audit Consideration**||||
 
-## Feedback
+## Contact and Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

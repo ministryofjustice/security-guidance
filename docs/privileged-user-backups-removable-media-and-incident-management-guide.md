@@ -80,7 +80,3 @@ If you are not sure who to contact, ask the Security Team:
 
 For any further questions relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
-

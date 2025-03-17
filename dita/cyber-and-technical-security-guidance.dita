@@ -108,6 +108,7 @@
         <body>
           <p>These are the policies for all users:</p>
           <ul>
+            <li><xref href="information-security-policy.dita" format="dita">Information Security Policy</xref></li>
             <li><xref href="setecastronomy.dita" format="dita">Avoiding too much security</xref></li>
             <li><xref href="identify-protect-detect-respond-recover.dita" format="dita">IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER</xref></li>
             <li><xref href="it-security-all-users-policy.dita" format="dita">IT Security All Users Policy</xref></li>
@@ -118,7 +119,6 @@
           <ul audience="audience-tech">
             <li><xref href="it-security-technical-users-policy.dita" format="dita">IT Security Technical Users Policy</xref></li>
             <li><xref href="shared-responsibility-models.dita" format="dita">Shared Responsibility Models</xref></li>
-            <li><xref href="technical-controls-policy.dita" format="dita">Technical Controls Policy</xref></li>
           </ul>
 		</body>
       </topic>
@@ -641,5 +641,5 @@
       </body>
     </topic>
   </topic>
-  <topic id="feedback" conref="conrefs.dita#feedback"><title/></topic>
+  
 </topic>

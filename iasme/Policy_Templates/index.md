@@ -34,5 +34,5 @@ For any further questions or advice relating to security, contact: [security@jus
 
 ## Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

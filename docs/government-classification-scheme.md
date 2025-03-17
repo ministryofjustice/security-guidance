@@ -115,11 +115,7 @@ The old protective markings do not automatically read across, particularly at `C
 
 **Note:** Electronic records marked `CONFIDENTIAL` should not be processed or saved on the MoJ existing standard networks such as DOM1 or MoJo, or on electronic document management systems unless or until the originator or Information Asset Owner has issued revised guidance allowing the information to be handled at **Official**, including **Official-Sensitive**, and the system has been rated to hold material at **Official**, with any additional access controls, or the system reclassified as **Secret**.
 
-## Contact details
+## Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

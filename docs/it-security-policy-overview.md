@@ -11,11 +11,6 @@ This policy gives an overview of information security principles and responsibil
 -   **[IT Security Technical Users Policy](it-security-technical-users-policy.md)**  
 
 
-**Related information**  
-
-
-[Technical Controls Policy](technical-controls-policy.md)
-
 ## Audience
 
 This policy is aimed at three audiences:
@@ -82,11 +77,7 @@ Service Providers **shall** follow the guidance set out for all MoJ users in [IT
 -   Email: [security@justice.gov.uk](mailto:security@justice.gov.uk)
 -   Slack: `#security`
 
-## Contact details
+## Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

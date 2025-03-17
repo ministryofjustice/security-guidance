@@ -95,7 +95,7 @@ If there has been any damage to any of the encryption stored at the MoJ:
 -   A muster of all key variables and a check against the record of holding list undertaken and an order to CESG raised of any replacement key variables.
 -   Upon receipt of a replacement key variable emergency plans to change the key variable of the associated product must begin.
 
-## Feedback
+## Contact and Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

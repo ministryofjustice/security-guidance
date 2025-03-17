@@ -9,7 +9,7 @@
       <li>Locked-down: All unnecessary or non-essential services or capabilities are switched off, or restricted to the bare minimum of functionality.</li>
       <li>Hardened: All system options and capabilities are configured for maximum possible resistance to attack or unauthorised use.</li>
     </ul>
-    <p>Specifics of the lockdown policy are covered in the <xref href="technical-controls-policy.dita#lockdown-policy/lockdown-policy" format="dita" platform="html">Technical Controls Policy</xref><xref href="technical-controls-policy.dita#lockdown-policy" format="dita" platform="epub pdf">Technical Controls Policy</xref>. This document provides more information about the implementation of the lockdown policy.</p>
+    <!--<p>Specifics of the lockdown policy are covered in the <xref href="technical-controls-policy.dita#lockdown-policy/lockdown-policy" format="dita" platform="html">Technical Controls Policy</xref><xref href="technical-controls-policy.dita#lockdown-policy" format="dita" platform="epub pdf">Technical Controls Policy</xref>. This document provides more information about the implementation of the lockdown policy.</p>-->
   </body>
   <topic id="scope">
     <title>Scope</title>
@@ -28,7 +28,7 @@
   <topic id="generic-hardening-standard">
     <title>Generic hardening standard</title>
     <body>
-      <p>This standard provides a generic set of hardening details, designed to guide IT system development and to supplement the <xref href="technical-controls-policy.dita" format="dita">Technical Controls Policy</xref>.</p>
+      <p>This standard provides a generic set of hardening details, designed to guide IT system development<!-- and to supplement the <xref href="technical-controls-policy.dita" format="dita">Technical Controls Policy</xref>-->.</p>
       <p>Those configuring <ph conref="conrefs.dita#conrefs/moj"/> IT systems <ph conref="conrefs.dita#conrefs/policyshall"/> consider additional sources of reference such as vendor-supplied platform-specific materials to ensure that specific systems, such as SQL server or UNIX-based servers, are built and configured to a secure standard. A selection of external reference sources can be found in this guidance.</p>
       <p>Where this standard provides a generic set of hardening procedures, other material in the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="cyber-and-technical-security-guidance.dita" format="dita">security guidance</xref> provides vendor- and system-specific hardening guides which have been approved for use in <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</p>
       <p>The secure configuration of an IT system <ph conref="conrefs.dita#conrefs/policyshall"/> be examined during the assurance process. This might include an IT Health Check (ITHC), and a review of the system's build configuration.</p>
@@ -286,11 +286,11 @@
     <body>
       <p>The following external reference sources provide a good source of information on IT system hardening and secure system configuration.</p>
     </body>
-    <topic id="cpni">
-      <title>CPNI</title>
+    <topic id="npsa">
+      <title>National Protective Security Authority (NPSA)</title>
       <body>
-        <p>CPNI provides general information on security IT systems including advice on how to build secure
-          systems: <xref href="https://www.cpni.gov.uk/cyber-security" format="html" scope="external">https://www.cpni.gov.uk/cyber-security</xref>.</p>
+        <p>NPSA provides general information on security IT systems including advice on how to build secure
+          systems: <xref href="https://www.npsa.gov.uk/cyber-security" format="html" scope="external">https://www.npsa.gov.uk/cyber-security</xref>.</p>
       </body>
     </topic>
     <topic id="nist">
@@ -328,6 +328,6 @@
       </lq></p>
     </body>
   </topic>
-  <topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
-  <topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+  
 </topic>

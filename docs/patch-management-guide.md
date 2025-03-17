@@ -8,11 +8,6 @@ The intent is to avoid compromise of MoJ systems because of vulnerabilities.
 
 **Parent topic:** [Vulnerability Scanning and Patch Management Guide](vulnerability-scanning-and-patch-management-guide.md)
 
-**Related information**  
-
-
-[Technical Controls Policy](technical-controls-policy.md)
-
 ## Patching of MoJ systems and equipment
 
 This guidance must be followed for all systems and services developed or procured by the MoJ. It applies to all asset types including, but not limited to:
@@ -128,11 +123,7 @@ Before the removal of any system or service, a fresh Business Impact Assessment 
 
 In exceptional cases where patching of systems is not possible, other mitigations \(such as logical separation\) must be identified and evaluated for efficacy prior to enablement. The circumstances must be discussed with the affected Information Asset Owners \(IAO\) and System Owners. If the IAOs agree with the deviation, System Owners must request formal approval by the Senior Information Risk Owner \(SIRO\) for the exemption. Approval must be sought and obtained within a comparable timescale to applying a patch. If a critical patch cannot be applied, the approval to be exempt must be obtained within the same number of days allowed for applying a critical patch.
 
-## Contact details
+## Contact and Feedback
 
 Contact the Security Team for advice on risk, scanning and patching, to report a vulnerability alert, or to add a URL to the MoJ Web Check system: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

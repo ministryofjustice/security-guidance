@@ -20,7 +20,7 @@ Technical users include:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 15 July 2024.
+**Note:** This guidance is dated: 17 February 2025.
 
 ## Change log
 
@@ -51,7 +51,7 @@ Technical users. Contains detailed technical information, together with all user
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 15 August 2024.
+The offline versions of this guidance are time-limited, and are not valid after 17 March 2025.
 
 ## Security culture
 
@@ -88,6 +88,7 @@ The documents have been developed and defined within this taxonomy, and are list
 
 These are the policies for all users:
 
+-   [Information Security Policy](information-security-policy.md)
 -   [Avoiding too much security](setecastronomy.md)
 -   [IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](identify-protect-detect-respond-recover.md)
 -   [IT Security All Users Policy](it-security-all-users-policy.md)
@@ -98,7 +99,6 @@ These are the policies for technical users:
 
 -   [IT Security Technical Users Policy](it-security-technical-users-policy.md)
 -   [Shared Responsibility Models](shared-responsibility-models.md)
--   [Technical Controls Policy](technical-controls-policy.md)
 
 ### Mobile devices and teleworking
 
@@ -472,8 +472,4 @@ A more extensive list of acronyms is available [here](https://ministryofjustice.
 ### Technical Guidance
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) should be read together with this security-focused guidance.
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
 

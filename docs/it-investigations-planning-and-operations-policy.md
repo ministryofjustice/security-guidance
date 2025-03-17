@@ -126,11 +126,7 @@ For major incidents it might be necessary to consider escalating the forensic in
 
 **POL.POP.015**: Each Forensic Readiness Plan **shall** include the reporting structure and escalation path for internal and external teams and the individual responsible for managing the incident. This **shall** be consistent with the corresponding [IT Security Incident Response Plan and Process Guidea](it-security-incident-response-plan-and-process-guide.md). The forensic investigation process **shall** enable the chain of evidence to be passed to outside agencies, if required.
 
-### Contact details
+### Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-### Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

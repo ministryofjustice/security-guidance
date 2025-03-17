@@ -50,11 +50,7 @@ Plans **shall** be tested and practiced regularly to help familiarise each of th
 
 This is not an exhaustive list. If you would like support in creating a plan, please contact the Service Operations Centre \(SOC\) and the Major Incident Team.
 
-## Contact details
+## Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

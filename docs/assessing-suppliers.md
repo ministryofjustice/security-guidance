@@ -16,7 +16,7 @@ The MoJ maintains accreditations where committed to by existing contract.
 
 MoJ assesses commodity digital technology supply chain such as Software-as-a-Service \(SaaS\) tools such as Google Workspace, Microsoft Office 365, Trello and Atlassian Cloud based on the [Cloud Security Principles](https://www.ncsc.gov.uk/guidance/implementing-cloud-security-principles), information risk assessment techniques and shared data within HMG.
 
-## Feedback
+## Contact and Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

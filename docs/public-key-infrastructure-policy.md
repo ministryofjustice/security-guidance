@@ -476,7 +476,7 @@ The following are FITS PKI Policy specific references used within this document.
 |23|ITU-T Recommendation X.509 – Public-key and Attribute certificate frameworks \[10/2012\) [http://www.itu.int/ITU-T/recommendations/rec.aspx?rec=11735](http://www.itu.int/ITU-T/recommendations/rec.aspx?rec=11735)|
 |24|[RFC 2986 - Certification Request Syntax Specification – November 2000](http://datatracker.ietf.org/doc/rfc2986/)|
 
-## Feedback
+## Contact and Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

@@ -22,7 +22,7 @@ Internal-facing domains resolvable from the public Internet \(for example, `intr
 
 Non-production domains resolvable from the public Internet \(for example, a demonstration deployment of a MoJ digital service or prototype\) **should** also implement `security.txt` as described previously.
 
-## Feedback
+## Contact and Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

@@ -3,52 +3,32 @@
 <topic id="general-user-video-and-messaging-apps-guidance">
 	<title>General app guidance</title>
 	<body>
-		<p>When working, you need to communicate with <ph conref="conrefs.dita#conrefs/mojlong"/> colleagues
-			and use business tools ('apps').
-			You'll also need to work with people outside the <ph conref="conrefs.dita#conrefs/moj"/>.
-			There are various tools you might use, besides the standard email and telephone tools.
-			This document tells you about the tools you can, and cannot, use for business purposes.
-			This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
-		<p>Some ALBs, Agencies, or other large groups within the <ph conref="conrefs.dita#conrefs/moj"/> might have their own,
-			specific guidance regarding how to use certain  apps for different purposes.</p>
+		<p>When working, you need to communicate with <ph conref="conrefs.dita#conrefs/mojlong"/> colleagues and use business tools ('apps'). You'll also need to work with people outside the <ph conref="conrefs.dita#conrefs/moj"/>. There are various tools you might use, besides the standard email and telephone tools. This document gives guidance on the types of tools you can and cannot use for business purposes. This guidance applies to all staff and contractors who work for the <ph conref="conrefs.dita#conrefs/moj"/>.</p>
+		<p>Some ALBs, agencies, or other large groups within the <ph conref="conrefs.dita#conrefs/moj"/> might have their own, specific guidance regarding how to use certain apps for different purposes.</p>
 	</body>
 	<topic id="access-to-tools">
 		<title>Access to tools</title>
 		<body>
-			<p>You can access tools that are provided through your <ph conref="conrefs.dita#conrefs/moj"/> provided devices by downloading from:</p>
+			<p>You can access tools through your <ph conref="conrefs.dita#conrefs/moj"/>-provided devices by downloading from:</p>
 			<ul>
-				<li>The Software Centre application on your device (for Dom1 equipment).</li>
+				<li>The Software Centre application on your device (for Dom1 or MoJO equipment).</li>
 				<li>The Self Service application on your Mac (for <ph conref="conrefs.dita#conrefs/servicedesk"/> managed MacBook laptops).</li>
 			</ul>
-			<p>Currently, access to the tools mentioned in this document is not available from MoJo devices.</p>
-			<p>For other <ph conref="conrefs.dita#conrefs/moj"/> provided devices, seek help from your Line Manager in the first instance.</p>
+			<p>For <ph conref="conrefs.dita#conrefs/moj"/>-provided devices that are not Dom1, MoJO, or IT Service Desk Managed MacBooks, seek guidance from your Line Manager to appropriately source software.</p>
 		</body>
 	</topic>
 	<topic id="corporate-work-and-personal-accounts">
-		<title>Corporate, work and personal accounts</title>
+		<title>Corporate, work, and personal accounts</title>
 		<body>
 			<ul>
-				<li>A corporate account is for making official <ph conref="conrefs.dita#conrefs/moj"/> statements and providing official views.
-				Only a small number of authorised people can use it.</li>
-				<li>A work account is your normal <ph conref="conrefs.dita#conrefs/moj"/> account, that you use every day for business as usual.
-				Only you have access to your work account.</li>
-				<li>A personal account is your own personal account on gmail, hotmail, yahoo, and so on.
-					You should never use a personal account for business purposes.
-					To be clear:
-					never send your work material to your personal device or your personal email account.</li>
+				<li>A corporate account is for making official <ph conref="conrefs.dita#conrefs/moj"/> statements and providing official views. Only a small number of authorised people can use it.</li>
+				<li>A work account is your normal <ph conref="conrefs.dita#conrefs/moj"/> account that you use every day for business as usual. Only you have access to your work account.</li>
+				<li>A personal account is your own personal account, outside of the <ph conref="conrefs.dita#conrefs/moj"/>. You should never use a personal account for business purposes. To be clear: Never send your work material to your personal device or your personal email account.</li>
 			</ul>
-			<p>Some of the applications listed make a distinction between general use with a work account, and use with a corporate account.
-				Using a tool with a corporate account means you are providing views or statements on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>.
-				Never use a personal account for business purposes with any tool.</p>
-			<p>Remember that if you are authorised to use a corporate account,
-				you are speaking and acting for the whole of the <ph conref="conrefs.dita#conrefs/moj"/>.
-				When working with a personal account,
-				you are speaking and acting as an <ph conref="conrefs.dita#conrefs/moj"/> employee and a civil servant.</p>
-			<p>Always follow all <xref href="https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf" format="pdf" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> policies and guidelines</xref> regarding public information,
-			including social media.
-			To access this information you'll need to be connected to the <ph conref="conrefs.dita#conrefs/moj"/> Intranet.</p>
-			<p>In particular,
-			follow the <xref href="https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code" format="html" scope="external">Civil Service Code of Conduct</xref>.</p>
+			<p>Some applications make a distinction between general use with a work account, and use with a corporate account. Using a tool with a corporate account means you are providing views or statements on behalf of the <ph conref="conrefs.dita#conrefs/moj"/>. Never use a personal account for business purposes with any tool.</p>
+			<p>Remember, if you are authorised to use a corporate account, you are speaking and acting for the whole of the <ph conref="conrefs.dita#conrefs/moj"/>. When working with a personal account, you are speaking and acting as an <ph conref="conrefs.dita#conrefs/moj"/> employee and/or a civil servant.</p>
+			<p>Always follow all <ph conref="conrefs.dita#conrefs/moj"/> policies and guidelines regarding public information, including social media.</p>
+			<p>In particular, follow the <xref href="https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code" format="html" scope="external">Civil Service Code of Conduct</xref>.</p>
 		</body>
 	</topic>
 	<topic id="video-conference-hardware">
@@ -62,7 +42,7 @@
 	<topic id="using-video-conference-tools-safely">
 		<title>Using video conference tools safely</title>
 		<body>
-			<p>The NCSC has excellent guidance on <xref href="https://www.ncsc.gov.uk/guidance/video-conferencing-services-using-them-securely" format="html" scope="external">using video conferencing services safely</xref>.</p>
+			<p>The NCSC has excellent guidance on <xref href="https://www.ncsc.gov.uk/guidance/video-conferencing-services-security-guidance-organisations" format="html" scope="external">using video conferencing services safely</xref>.</p>
 			<p>Key things to remember <i>before</i> a call include:</p>
 			<ul>
 				<li>Make sure your video conferencing account (or the device or app you are using for video conferencing) is protected with a strong password.</li>
@@ -80,7 +60,7 @@
 		</body>
 	</topic>
 	<topic id="moj-policy-and-guidance">
-		<title><ph conref="conrefs.dita#conrefs/moj"/> Policy and guidance</title>
+		<title><ph conref="conrefs.dita#conrefs/moj"/> guidance</title>
 		<topic id="official-and-official-sensitive-information">
 			<title><ph conref="conrefs.dita#conrefs/official"/> and <ph conref="conrefs.dita#conrefs/official-sensitive"/> Information</title>
 			<body>
@@ -96,18 +76,11 @@
 		<topic id="privacy-and-personal-information-data-protection">
 			<title>Privacy and personal information (Data Protection)</title>
 			<body>
-				<p>Some communications tools expect to have a copy of your contacts list.
-					The list is uploaded to the tool server in order to let the tool to function correctly.
-					Think carefully about whether this is reasonable to do.
-					Make sure that sharing your contacts list does not impact any one else's privacy in a negative way.</p>
-				<p>Data protection legislation makes you responsible for personal information you work with.
-					You must keep it safe and secure.
-					In particular, you must follow data protection obligations.
-					These include the Data Protection Act 2018 and the General Data Protection Regulation (GDPR).</p>
+				<p>Some communications tools expect to have a copy of your contacts list, which they may upload to a server. When selecting tools to use, think carefully about whether this is an acceptable risk, and whether it will negatively impact anyone else's privacy.</p>
+				<p>Data protection legislation makes you responsible for keeping personal information you work with safe and secure. Specifically including the Data Protection Act 2018 and the UK General Data Protection Regulation (UK GDPR).</p>
 				<p>Complying with personal information requirements can be complex. Don't hesitate to ask for advice:</p>
 				<ul>
 					<li>Email: <ph conref="conrefs.dita#conrefs/privacyemail"/></li>
-					<li>Slack: <codeph>#security_privacy_and_live_service_team</codeph></li>
 					<li>Intranet: <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/" format="html" scope="external">https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/</xref></li>
 				</ul>
 			</body>
@@ -115,22 +88,16 @@
 		<topic id="information-management">
 			<title>Information Management</title>
 			<body>
-				<p>Many of the tools are only used for your day-to-day communication with colleagues.
-					The information you work with is typically <xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">classified</xref> at <ph conref="conrefs.dita#conrefs/official"/>.</p>
-				<p>Think about the <ph conref="conrefs.dita#conrefs/moj"/> information you work with when using these tools.
-				What would happen if you lost your mobile device, or it's stolen?
-				Suppose the voice or video call was overheard in a cafe, or read from your screen on a crowded train.
-				Could there be damaging consequences?
-				If the answer is 'No', then it's probably OK to use the tool to communicate that information with colleagues.</p>
+				<p>Many tools are only used for day-to-day communication. The information you work with is typically <xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">classified</xref> at <ph conref="conrefs.dita#conrefs/official"/>.</p>
+				<p>It's important to consider the <ph conref="conrefs.dita#conrefs/moj"/> information you work with when using these tools. What would happen if you lost your mobile device, or it was stolen? Voice or video calls may be overheard in a cafe, or read from your screen on a crowded train. What could the consequences be? If the consequences for the loss or exposure of the information is minimal, then the information can probably be safely communicated.</p> 
 				<p>You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access.
 					This is <xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">Principle 2</xref> of the Government Security Classifications.
 					The <ph conref="conrefs.dita#conrefs/moj"/> trusts you to work with <ph conref="conrefs.dita#conrefs/official"/> information.
 					You're trusted to make a reasoned judgement about whether it's safe to use an approved tool,
 					or whether you should use a different <ph conref="conrefs.dita#conrefs/moj"/>-provided work tool.</p>
 				<p>Never send work material to your personal devices or email accounts.</p>
-				<p>Remember that it is impossible to delete information after it's released in public.</p>
-				<p>For more information about <ph conref="conrefs.dita#conrefs/moj"/> IT Security,
-				look on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external">here</xref>.</p>
+				<p>Remember that it is impossible to delete information after it is publicly released.</p>
+				<p>For more information about <ph conref="conrefs.dita#conrefs/moj"/> IT Security, look on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet <xref href="https://intranet.justice.gov.uk/guidance/security/" format="html" scope="external">here</xref>.</p>
 			</body>
 		</topic>
 		<topic id="storage-and-data-retention">
@@ -138,46 +105,31 @@
 			<body>
 				<p>Laws and regulations make the <ph conref="conrefs.dita#conrefs/moj"/> and its employees responsible for managing information. Some examples include:</p>
 				<ul>
-					<li>Freedom of Information Act.</li>
-					<li>Data Protection Act and General Data Protection Regulation.</li>
-					<li>Public Records Acts.</li>
+					<li>Freedom of Information Act 2000.</li>
+					<li>Data Protection Act 2018 and UK General Data Protection Regulation.</li>
+					<li>Public Records Acts 1967.</li>
 				</ul>
-				<p>When we receive a request for information,
-					we need to know where we hold all the relevant information.
-					Storing business information on appropriate <ph conref="conrefs.dita#conrefs/moj"/> systems helps us, because:</p>
+				<p>When we receive a request for information, we need to know where we hold all the relevant information. Storing business information on appropriate <ph conref="conrefs.dita#conrefs/moj"/> systems helps us, because:</p>
 				<ul>
 					<li>We can provide evidence about decisions.</li>
 					<li>We understand the information held, and where to find it.</li>
 					<li>We can transfer records to The National Archives.</li>
 				</ul>
-				<p>Always store <ph conref="conrefs.dita#conrefs/moj"/> information in <ph conref="conrefs.dita#conrefs/moj"/> systems.
-				If you use a tool for work tasks,
-				make sure the key information is stored in an appropriate <ph conref="conrefs.dita#conrefs/moj"/> system.
-				Guidance on what you must keep is available on the Intranet <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/keeping-deleting-disclosing-info/" format="html" scope="external">here</xref>.
-				At regular and convenient intervals,
-				transfer the information to an appropriate <ph conref="conrefs.dita#conrefs/moj"/> system.
-				Do the same when you finish the work.
-				Don't forget to remove any redundant information from a tool by clearing or deleting data if it has been preserved in an <ph conref="conrefs.dita#conrefs/moj"/> system.</p>
-				<p>Many tools lets you export your data.
-					You can then store it on an appropriate <ph conref="conrefs.dita#conrefs/moj"/> system.
-					Sometimes it's easier to copy and paste text into a new document.
-					Make sure that only the correct people have access to the information.
-					This is important after staff or organisational changes, for example.</p>
-				<p>For more guidance, read the <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/" format="html" scope="external">Information Management</xref> section on the Intranet.
-				There is also help on <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/providing-information-to-the-public/freedom-of-information/" format="html" scope="external">responding to requests for information</xref>.</p>
+				<p>Always store <ph conref="conrefs.dita#conrefs/moj"/> information in <ph conref="conrefs.dita#conrefs/moj"/> systems.	If you use a tool for work tasks, make sure the key information is stored in an appropriate <ph conref="conrefs.dita#conrefs/moj"/> system. Guidance on what you must keep is available on the Intranet <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/keeping-deleting-disclosing-info/" format="html" scope="external">here</xref>. At regular and convenient intervals, transfer the information to an appropriate <ph conref="conrefs.dita#conrefs/moj"/> system. Do the same when you finish the work. Don't forget to remove any redundant information from a tool by clearing or deleting data if it has been preserved in an <ph conref="conrefs.dita#conrefs/moj"/> system.</p>
+				<p>Many tools lets you export your data. You can then store it on an appropriate <ph conref="conrefs.dita#conrefs/moj"/> system. Sometimes it's easier to copy and paste text into a new document. Make sure that only the correct people have access to the information. This is important after staff or organisational changes, for example.</p>
+				<p>For more guidance, read the <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/" format="html" scope="external">Information Management</xref> section on the Intranet. There is also help on <xref href="https://intranet.justice.gov.uk/guidance/knowledge-information/providing-information-to-the-public/freedom-of-information/" format="html" scope="external">responding to requests for information</xref>.</p>
 			</body>
 		</topic>
 	</topic>
 	<topic id="acceptable-use">
 		<title>Acceptable Use</title>
 		<body>
-			<p>You must use communications tools for business purposes in an
-				<xref href="acceptable-use.dita" format="dita">acceptable way</xref>.</p>
+			<p>You must use communications tools for business purposes in an <xref href="acceptable-use.dita" format="dita">acceptable way</xref>.</p>
 			<p>Be sensible when using communications tools for <ph conref="conrefs.dita#conrefs/moj"/> business purposes:</p>
 			<ul>
-				<li>Be extra careful with sensitive and personal information in tools.</li>
-				<li>Try to avoid using the same tool for business and personal use - you can get confused who you're talking with.</li>
-				<li>If the message you're about to send might cause problems, upset, offence, or embarrassment, it's not acceptable.</li>
+				<li>Be extra careful with sensitive and personal information.</li>
+				<li>Try to avoid using the same tool for business and personal use to avoid confusion.</li>
+				<li>If the message you're about to send might cause upset, offence, or embarrassment, it's not acceptable.</li>
 				<li>Context is important - a message you might think is funny could be upsetting to someone else.</li>
 				<li>If something goes wrong, report it.</li>
 			</ul>
@@ -185,135 +137,6 @@
 				<lq platform="github">If there is doubt, there is no doubt - ask for help!</lq>
 				<ph platform="intranet">If there is doubt, there is no doubt - ask for help!</ph>
 			</p>
-		</body>
-	</topic>
-	<topic id="approved-tools">
-		<title>Approved tools</title>
-		<body>
-			<table>
-				<tgroup cols="5">
-					<colspec colname="col1" colnum="1" colwidth="1*"/>
-					<colspec colname="col2" colnum="2" colwidth="2*"/>
-					<colspec colname="col3" colnum="3" colwidth="2*"/>
-					<colspec colname="col4" colnum="4" colwidth="2*"/>
-					<colspec colname="col5" colnum="5" colwidth="1*"/>
-					<thead>
-						<row>
-							<entry colname="col1">Tool name</entry>
-							<entry colname="col2">Tool type</entry>
-							<entry colname="col3">Conditions/ constraints on use</entry>
-							<entry colname="col4">Accessing /installing tool</entry>
-							<entry colname="col5">Audience</entry>
-						</row>
-					</thead>
-					<tbody>
-						<row>
-							<entry colname="col1">Apple Facetime</entry>
-							<entry colname="col2">Communication tool: Video</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Smartphone App</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Apple iMessage</entry>
-							<entry colname="col2">Text messaging</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Smartphone App</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Google Meet (was Google Hangouts)</entry>
-							<entry colname="col2">Communication tool: Video and/or voice</entry>
-							<entry colname="col3"><ph id="approved"><ph conref="conrefs.dita#conrefs/moj"/> use approved for <ph conref="conrefs.dita#conrefs/official"/> and <ph conref="conrefs.dita#conrefs/official-sensitive"/></ph></entry>
-							<entry colname="col4"><ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Microsoft Teams</entry>
-							<entry colname="col2">Communication and collaboration tool: Video and/or voice</entry>
-							<entry colname="col3"><ph conref="#approved-tools/approved"/></entry>
-							<entry colname="col4">Dom1 Software centre, <ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Miro</entry>
-							<entry colname="col2">Collaboration tool: Whiteboarding</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Web browser.</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Skype for Business</entry>
-							<entry colname="col2">Communication tool: Video and/or voice</entry>
-							<entry colname="col3"><ph conref="#approved-tools/approved"/></entry>
-							<entry colname="col4">Dom1 Software centre, <ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Slack</entry>
-							<entry colname="col2">Text messaging, Voice/Video calls, etc.</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4"><ph conref="conrefs.dita#conrefs/servicedesk"/> controlled Mac - Self service, Web browser.</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Slido</entry>
-							<entry colname="col2">Q&amp;A tool during presentations</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Web browser.</entry>
-							<entry colname="col5">Internal</entry>
-						</row>
-						<row>
-							<entry colname="col1">Trello</entry>
-							<entry colname="col2">Project management tool, 'Kanban' cards</entry>
-							<entry colname="col3">Avoid personal or sensitive data.
-								An enterprise-wide <ph conref="conrefs.dita#conrefs/moj"/> licence is available.
-								Ensure you create Trello boards in the <ph conref="conrefs.dita#conrefs/moj"/> workspace.
-								Do not use a personal Trello account.</entry>
-							<entry colname="col4">Web browser based use.
-							Log in using your <ph conref="conrefs.dita#conrefs/moj"/> single sign-on account,
-								for example a Digital &amp; Technology Google account,
-								or a Microsoft Office 365 account.</entry>
-							<entry colname="col5">Internal</entry>
-						</row>
-						<row>
-							<entry colname="col1">Twitter</entry>
-							<entry colname="col2">Text Messaging, Video transmission</entry>
-							<entry colname="col3">Approved for <ph conref="conrefs.dita#conrefs/moj"/> Corporate account. Using a personal account to comment on work related issues is encouraged, as long as you follow the <xref href="https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code" format="html" scope="external">Civil Service Code of Conduct</xref>.</entry>
-							<entry colname="col4">Web browser, Windows 10 App, Smartphone App.</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">WhatsApp</entry>
-							<entry colname="col2">Text messaging, Voice/Video calls</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Dedicated app on device, also web browser.</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Yammer</entry>
-							<entry colname="col2">Text messaging</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Dedicated app on device</entry>
-							<entry colname="col5">Internal</entry>
-						</row>
-						<row>
-							<entry colname="col1">YouTube</entry>
-							<entry colname="col2">Video sharing tool: Video, streaming and chat</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Web browser based use.</entry>
-							<entry colname="col5">Internal/External</entry>
-						</row>
-						<row>
-							<entry colname="col1">Zoom</entry>
-							<entry colname="col2">Communication tool: Video, voice and chat</entry>
-							<entry colname="col3">Avoid personal or sensitive data</entry>
-							<entry colname="col4">Web browser based use, or dedicated and installed app by approval</entry>
-							<entry colname="col5">External meetings. For Internal meetings, use Microsoft Teams.</entry>
-						</row>
-					</tbody>
-				</tgroup>
-			</table>
 		</body>
 	</topic>
 	<topic id="password-managers">
@@ -327,15 +150,9 @@
 		<body>
 			<p>For secure sharing and transfer of materials within <ph conref="conrefs.dita#conrefs/moj"/> bodies or external organisations including other government departments, the <ph conref="conrefs.dita#conrefs/moj"/> installation of Microsoft Teams is approved for use with data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
 			<p>For secure sharing and transfer of materials with external organisations that cannot use Teams, the Criminal Justice Secure Exchange (CJSE) and Criminal Justice Secure Messaging (CJSM) tools are the preferred solution for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
-			<p>For secure sharing and transfer of materials with external organisations where the use of Teams, CJSE, or CJSM is not practicable, the following tools are approved for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>:
-				<ul>
-					<li><xref href="https://www.egress.com/" format="html" scope="external">Egress</xref> (<xref href="https://www.ncsc.gov.uk/products/egress-email-and-file-protection" format="html" scope="external">NCSC certified</xref>)</li>
-					<li><xref href="https://www.galaxkey.com/" format="html" scope="external">Galaxkey</xref> (<xref href="https://www.ncsc.gov.uk/products/galaxkey" format="html" scope="external">NCSC certified</xref>)</li>
-				</ul>
-				For use within <ph conref="conrefs.dita#conrefs/moj"/> bodies, these products may only be installed on <ph conref="conrefs.dita#conrefs/moj"/>-issued devices. For advice on installation and configuration of these products, consult the team responsible for the supply and configuration of your devices.</p>
-			<p>For secure sharing and transfer of materials with other government bodies, where the use of Teams, CJSE, CJSM, Egress, or Galaxkey is not possible, the use of official <ph conref="conrefs.dita#conrefs/moj"/> email systems is approved for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
+			<p>For secure sharing and transfer of materials with other government bodies, where the use of Teams, CJSE, or CJSM is not practicable, the use of official <ph conref="conrefs.dita#conrefs/moj"/> email systems is approved for data up to and including <ph conref="conrefs.dita#conrefs/official-sensitive"/>.</p>
 			<p>Always follow the guidance in the <xref href="data-handling-and-information-sharing-guide.dita" format="dita">Data Handling and Information Sharing Guide</xref> when making such transfers. This applies particularly with regard to the sharing of data classified higher than <ph conref="conrefs.dita#conrefs/official"/>.</p>
-			<p>If you need clarification or further assistance in selecting the appropriate tool, <xref href="#contact-details" format="">ask for help</xref>.</p>
+			<p>If you need clarification or further assistance in selecting the appropriate tool, <xref href="#contact-and-feedback" format="">ask for help</xref>.</p>
 		</body>
 	</topic>
 	<topic id="proctoring-software">
@@ -352,41 +169,11 @@
 			</p>
 		</body>
 	</topic>
-	<topic id="nhs-track-and-trace">
-		<title>NHS Track and Trace</title>
-		<body>
-			<p>The official <xref href="https://www.nhs.uk/apps-library/nhs-covid-19/" format="html" scope="external">NHS Covid-19</xref> app was designed by the NHS.
-			Both NCSC and Cabinet Office have been involved in the security of the system.
-			The app provides contact tracing, local area alerts and venue check-in.
-			It enables you to protect yourself and your loved ones.
-			Installation is optional, but recommended.</p>
-			<p>After installing the app, you'll receive an alert if you have been in close contact with other people who have tested positive for coronavirus.
-			You can then take action to avoid passing the virus on, for example by self-isolating.</p>
-			<p>From a security perspective,
-				it is safe for you to use the app on your personal or <ph conref="conrefs.dita#conrefs/moj"/> issued devices.
-				There are no extra risks for colleagues with security clearance, such as SC and DV.</p>
-			<p>If you wish to install the app, start at the <xref href="https://covid19.nhs.uk/" format="html" scope="external">NHS site</xref>.
-				<note>The NHS app may not work on some older <ph conref="conrefs.dita#conrefs/moj"/> devices.
-					Installation might not be possible, for example on MoJo smartphones.</note></p>
-			<p>You might have both a personal and an <ph conref="conrefs.dita#conrefs/moj"/> issued device.
-				Think about which device makes most sense to use with the app.
-				It's best to install on the device that you carry with you and use most of the time.
-			You could install on all your devices if you prefer.</p>
-			<p>To reduce the likelihood of false alerts on the app, turn off the app's Bluetooth mode.
-				Do this when:
-				<ul>
-					<li>You are working in environments with protective Covid measures in-place,
-						for example plexiglass separators.</li>
-						<li>You need to leave your personal or work device in a locker, for example during a sports activity or to work in a secure <ph conref="conrefs.dita#conrefs/moj"/> facility.</li>
-				</ul></p>
-		</body>
-	</topic>
 	<topic id="other-tools">
 		<title>Other tools</title>
 		<body>
-			<p>Some tools, such as Facebook, Instagram and LinkedIn, are approved for specific corporate accounts to use, for corporate communications messages.
-				General use of these tools for work purposes is not permitted.</p>
-			<p>If you wish to use a tool that is not listed in this guidance, please consult our <xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref> and <xref href="#contact-details" format="">ask for help</xref>.</p>
+			<p>Some tools, such as Facebook, Instagram and LinkedIn, are approved for specific corporate accounts to use, for corporate communications messages. General use of these tools for work purposes is not permitted.</p>
+			<p>If you wish to use a tool that is not listed in any specific guidance, please consult our <xref href="guidance-for-using-open-internet-tools.dita" format="dita" type="topic">Guidance for using Open Internet Tools</xref> and <xref href="#contact-details" format="">ask for help</xref>.</p>
 		</body>
 	</topic>
 	<topic id="thirdpartyapp" conref="conrefs.dita#thirdpartyapp"><title/></topic>
@@ -401,12 +188,12 @@
 		<topic id="ncsc">
 			<title>NCSC</title>
 			<body>
-				<p><xref href="https://www.ncsc.gov.uk/guidance/video-conferencing-services-using-them-securely" format="html" scope="external">Video conferencing services: using them securely</xref></p>
+				<p><xref href="https://www.ncsc.gov.uk/guidance/video-conferencing-services-security-guidance-organisations" format="html" scope="external">Video conferencing services: using them securely</xref></p>
 				<p><xref href="https://www.ncsc.gov.uk/guidance/secure-communication-principles-alpha-release" format="html" scope="external">Secure communications principles</xref></p>
 				<p><xref href="https://www.ncsc.gov.uk/collection/mobile-device-guidance/using-third-party-applications" format="html" scope="external">Using third-party applications</xref></p>
 			</body>
 		</topic>
 	</topic>
-	<topic id="contact-details" conref="conrefs.dita#conrefs/contact-details"><title/></topic>
-	<topic id="feedback" platform="html" conref="conrefs.dita#feedback"><title/></topic>
+	<topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+	
 </topic>

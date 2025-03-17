@@ -1,6 +1,6 @@
 # Policies for Google Apps administrators
 
-**Note:** This document is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Before using this content for a project, contact the [Security team](mailto:security@justice.gov.uk).
+**Note:** The Ministry of Justice \(MoJ\) is in the process of transitioning away from using Google Workspace. The remaining usage of these apps is within the Justice Digital Organisation and the procedures laid down by that body should be followed in the intervening period. For further information, contact the [Digital Support team](mailto:digitalsupport@digital.justice.gov.uk).
 
 These policies must be adhered to by all Google Administrators, including Super Administrators. All Administrator activity is recorded, auditable and notified to all other Administrators.
 
@@ -16,7 +16,7 @@ These policies ensure two things:
 The following actions require formal authorisation \(e.g. an email confirming that the action can proceed\) from at least 2 of the following 3:
 
 -   The Chief Digital Officer.
--   The Chief Information Security Officer \(CISO\) for the Ministry of Justice \(MoJ\).
+-   The Chief Information Security Officer \(CISO\) for the MoJ.
 -   The MoJ Digital Information Assurance Lead.
 
 ### Actions:
@@ -37,7 +37,7 @@ The following actions require formal authorisation \(e.g. an email confirming th
     -   Any forwarding of email accounts.
     -   Any taking ownership of User accounts.
 
-## Feedback
+## Contact and Feedback
 
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 

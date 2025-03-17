@@ -7,13 +7,6 @@ The [Minimum Cyber Security Standard \(MCSS\)](https://www.gov.uk/government/pub
 -   Locked-down: All unnecessary or non-essential services or capabilities are switched off, or restricted to the bare minimum of functionality.
 -   Hardened: All system options and capabilities are configured for maximum possible resistance to attack or unauthorised use.
 
-Specifics of the lockdown policy are covered in the [Technical Controls Policy](technical-controls-policy.md#lockdown-policy). This document provides more information about the implementation of the lockdown policy.
-
-**Related information**  
-
-
-[Technical Controls Policy](technical-controls-policy.md)
-
 ## Scope
 
 This standard provides some high level guidance on IT system hardening. It applies to all MoJ IT systems.
@@ -28,7 +21,7 @@ The [NCSC GPG40 Information Assurance Maturity Model \(IAMM\)](https://www.ncsc.
 
 ## Generic hardening standard
 
-This standard provides a generic set of hardening details, designed to guide IT system development and to supplement the [Technical Controls Policy](technical-controls-policy.md).
+This standard provides a generic set of hardening details, designed to guide IT system development.
 
 Those configuring MoJ IT systems **shall** consider additional sources of reference such as vendor-supplied platform-specific materials to ensure that specific systems, such as SQL server or UNIX-based servers, are built and configured to a secure standard. A selection of external reference sources can be found in this guidance.
 
@@ -110,9 +103,9 @@ Details provided in this standard address:
 
 The following external reference sources provide a good source of information on IT system hardening and secure system configuration.
 
-### CPNI
+### National Protective Security Authority \(NPSA\)
 
-CPNI provides general information on security IT systems including advice on how to build secure systems: [https://www.cpni.gov.uk/cyber-security](https://www.cpni.gov.uk/cyber-security).
+NPSA provides general information on security IT systems including advice on how to build secure systems: [https://www.npsa.gov.uk/cyber-security](https://www.npsa.gov.uk/cyber-security).
 
 ### NIST
 
@@ -134,11 +127,7 @@ The standard MoJ login banner **shall** be displayed at login:
 
 > This is a private system; only use this system if you have specific authority to do so. Otherwise you are liable to prosecution under the Computer Misuse Act 1990. If you do not have the express permission of the operator or owner of this system, switch off or disconnect now to avoid prosecution.
 
-## Contact details
+## Contact and Feedback
 
-For any further questions or advice relating to security, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
-
-## Feedback
-
-> If you have any questions or comments about this guidance, such as suggestions for improvements, please contact: [itpolicycontent@digital.justice.gov.uk](mailto:itpolicycontent@digital.justice.gov.uk).
+For any further questions or advice relating to security, or for any feedback or suggestions for improvement, contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
