@@ -95,7 +95,7 @@ if an audience attribute is present, then only matching content is included.
 			<!--
 			<topicref href="official-official-sensitive.dita" type="topic" audience="audience-basic audience-tech"/>
 			-->
-			<topicref href="secrets-management.dita" type="topic" audience="audience-tech"/>
+			<!-- <topicref href="secrets-management.dita" type="topic" audience="audience-tech"/> -->
 		</topichead>
 		<topichead audience="audience-basic audience-suppliers audience-tech">
 			<topicmeta><navtitle>Media handling</navtitle></topicmeta>

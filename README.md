@@ -128,7 +128,6 @@ and should not be shared in public.
 This material can be stored in the `encrypted` folder,
 where it is protected (encrypted) using the
 [`git-crypt`](https://github.com/AGWA/git-crypt) tools.
-The tools are [approved for use by the MoJ](https://ministryofjustice.github.io/security-guidance/secrets-management/#application--infrastructure-secrets).
 
 Use of [`git-crypt`](https://github.com/AGWA/git-crypt) is normally for
 repositories with only a small number of encrypted files;

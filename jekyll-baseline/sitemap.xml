@@ -484,11 +484,11 @@
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
+<!-- <url>
   <loc>https://security-guidance.service.justice.gov.uk/secrets-management/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
-</url>
+</url> -->
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/working-securely-with-paper-documents-and-files/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
