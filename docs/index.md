@@ -20,7 +20,7 @@ Technical users include:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 25 February 2025.
+**Note:** This guidance is dated: 3 April 2025.
 
 ## Change log
 
@@ -51,7 +51,7 @@ Technical users. Contains detailed technical information, together with all user
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 25 March 2025.
+The offline versions of this guidance are time-limited, and are not valid after 3 May 2025.
 
 ## Security culture
 
@@ -89,6 +89,7 @@ The documents have been developed and defined within this taxonomy, and are list
 These are the policies for all users:
 
 -   [Information Security Policy](information-security-policy.md)
+-   [Secure by Design](secure-by-design.md)
 -   [Avoiding too much security](setecastronomy.md)
 -   [IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER](identify-protect-detect-respond-recover.md)
 -   [IT Security All Users Policy](it-security-all-users-policy.md)
