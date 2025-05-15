@@ -321,6 +321,7 @@ if an audience attribute is present, then only matching content is included.
 			<topicmeta><navtitle>Management of information security incidents and improvements</navtitle></topicmeta>
 			<topicref href="it-security-incident-management-policy.dita" type="topic"/>
 			<topicref href="lost-devices-incidents.dita" type="topic"/>
+			<topicref href="technical-user-guidance-following-cyber-incident.dita" type="topic"/>
 		</topichead>
 	</topichead>
 
