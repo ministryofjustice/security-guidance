@@ -30,7 +30,7 @@ The following standards and guidelines are the *minimum* basis for data decommis
 -   NCSC guidance on secure sanitisation of storage media: [https://www.ncsc.gov.uk/guidance/secure-sanitisation-storage-media](https://www.ncsc.gov.uk/guidance/secure-sanitisation-storage-media).
 -   NCSC Cloud Security Principle 2: Asset Protection and Resilience \(Data Destruction\): [https://www.ncsc.gov.uk/guidance/cloud-security-principle-2-asset-protection-and-resilience\#sanitisation](https://www.ncsc.gov.uk/guidance/cloud-security-principle-2-asset-protection-and-resilience#sanitisation).
 -   Payment Card Industry Data Security Standard \(PCI-DSS\) \(Data Destruction\): [https://www.pcisecuritystandards.org](https://www.pcisecuritystandards.org).
--   DIN: [http://www.din-66399.com/index.php/en/securitylevels](http://www.din-66399.com/index.php/en/securitylevels).
+-   DIN: [https://din66399.eu/](https://din66399.eu/).
 
 Data Destruction for electronic/magnetic storage **must** include, unless otherwise superseded by NCSC, PCI-DSS or specific MoJ guidance:
 
