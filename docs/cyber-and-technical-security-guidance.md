@@ -416,6 +416,7 @@ These policies are for technical users:
 -   [IT Investigations - Planning and Operations Policy](it-investigations-planning-and-operations-policy.md)
 -   [IT Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md)
 -   [IT Disaster Recovery Policy](it-disaster-recovery-policy.md)
+-   [Technical user guidance following a cyber incident](technical-user-guidance-following-cyber-incident.md)
 
 ### Compliance
 
