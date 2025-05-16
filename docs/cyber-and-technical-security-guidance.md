@@ -20,7 +20,7 @@ Technical users include:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 15 May 2025.
+**Note:** This guidance is dated: 16 May 2025.
 
 ## Change log
 
@@ -51,7 +51,7 @@ Technical users. Contains detailed technical information, together with all user
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 15 June 2025.
+The offline versions of this guidance are time-limited, and are not valid after 16 June 2025.
 
 ## Security culture
 
@@ -416,6 +416,7 @@ These policies are for technical users:
 -   [IT Investigations - Planning and Operations Policy](it-investigations-planning-and-operations-policy.md)
 -   [IT Disaster Recovery Plan and Process Guide](it-disaster-recovery-plan-and-process-guide.md)
 -   [IT Disaster Recovery Policy](it-disaster-recovery-policy.md)
+-   [Technical user guidance following a cyber incident](technical-user-guidance-following-cyber-incident.md)
 
 ### Compliance
 
