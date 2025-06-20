@@ -88,7 +88,7 @@ if an audience attribute is present, then only matching content is included.
 		<topichead audience="audience-basic audience-suppliers audience-tech">
 			<topicmeta audience="audience-basic audience-suppliers audience-tech"><navtitle>Information classification</navtitle></topicmeta>
 			<topicref href="data-handling-and-information-sharing-guide.dita" type="topic" audience="audience-basic audience-tech"/>
-			<topicref href="government-classification-scheme.dita" type="topic" audience="audience-basic audience-tech"/>
+			<topicref href="information-classification-and-security-guide.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="information-classification-handling-and-security-guide.dita" type="topic" audience="audience-basic audience-suppliers audience-tech">
 				<topicref href="information-classification-and-handling-policy.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			</topicref>

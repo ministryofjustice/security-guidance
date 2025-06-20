@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="information-classification-and-security-guide">
+  <title>Information Classification and Security Guide</title>
+  <body>
+    <table><tgroup cols="2">
+      <tbody>
+        <row><entry><b>Classification</b></entry><entry>Official</entry></row>
+        <row><entry><b>Scope</b></entry><entry>All Ministry of Justice (MoJ) staff and contractors</entry></row>
+        <row><entry><b>Expires</b></entry><entry>When rescinded or replaced</entry></row>
+        <row><entry><b>Authors</b></entry><entry>Security Policy, Awareness, Culture, and Education (SPACE) team</entry></row>
+        <row><entry><b>Authorised by</b></entry><entry><ph conref="conrefs.dita#conrefs/moj"/> Chief Information Security Officer</entry></row>
+        <row><entry><b>Date of publication</b></entry><entry>1st January 2025</entry></row>
+        <row><entry><b>Document version</b></entry><entry>1.0</entry></row>
+      </tbody>
+    </tgroup></table>
+    <p>Information classification is the process by which the <ph conref="conrefs.dita#conrefs/mojlong"/> assesses the level of protection it gives to the information that it holds.</p>
+    <p>All information that the <ph conref="conrefs.dita#conrefs/moj"/> needs to collect, store, process, generate, dispose, or share to deliver services and conduct government business has intrinsic value and requires an appropriate degree of protection. The <ph conref="conrefs.dita#conrefs/hmggovernmentsecurityclassifications"/> should serve as the primary source for all details of how to work with classified information.</p>
+    <p>All staff (including contractors and service providers) are responsible for determining the right classification, marking and controls that should be applied to information that they create. Staff should consider the potential impact of a compromise and the likely level of interest towards the information from threat actors.</p>
+  </body>
+  <topic id='principles'>
+    <title>Principles</title>
+    <body>
+      <p>There are six key principles for the secure, timely and efficient sharing of information:
+        <ol>
+          <li>All information that the <ph conref="conrefs.dita#conrefs/moj"/> needs to collect, store, process, generate, dispose, or share to deliver services and conduct government business has intrinsic value and requires an appropriate degree of protection.</li>
+          <li>Individual <ph conref="conrefs.dita#conrefs/moj"/> departments may apply additional security controls and behaviours above (but not below) the baselines outlined in the <ph conref="conrefs.dita#conrefs/hmggovernmentsecurityclassifications"/>, in line with the <ph conref="conrefs.dita#conrefs/moj"/> risk appetite.</li>
+          <li>Everyone (including staff, contractors, and service providers) has a duty of confidentiality and a responsibility to safeguard any <ph conref="conrefs.dita#conrefs/moj"/> information or data that they access and/or share, irrespective of whether it is marked or not, and must be provided with appropriate training. Individuals are accountable for their own security decisions.</li>
+          <li>Information should be protected proportionately to the impact of compromise and the capability and intent of threat actors likely to seek that information. Access to information must only be granted where there is assurance that appropriate security controls (personnel, physical, procedural, and technical) are in place.</li>
+          <li>Information should be handled and distributed on a genuine need-to-know basis, balanced with the need-to-share (as defined in the glossary), dependent on the sensitivity of the information.</li>
+          <li>Information received from or exchanged with external partners must be protected in accordance with any relevant legislative or regulatory requirements, including any international agreements and obligations.</li>
+      </ol>
+    </p>
+  </body>
+  </topic>
+  <topic id="security-classifications">
+    <title>Security Classifications</title>
+    <body>
+      <p>The level of security classification for a given document is determined by the impact of its loss or unauthorised access to it, and not by the type of information it contains. Each document must be classified by the Data Owner. However, anyone that handles that document is responsible for protecting the information it contains.</p>
+      <p>There are three tiers of security classification:
+      <ul>
+        <li>OFFICIAL</li>
+        <li>SECRET</li>
+        <li>TOP SECRET</li>
+      </ul></p>
+      <p>Each classification provides a set of protective security controls and baseline behaviours, which are proportionate to the potential impact of a compromise, accidental loss, incorrect disclosure, or the level of interest expected from threat actors.</p>
+      <p>The protective controls must be balanced with the need for utilising those assets to support the effective conduct of <ph conref="conrefs.dita#conrefs/moj"/> business. Contracting Authorities should continue to ensure all contractors that have access to <ph conref="conrefs.dita#conrefs/moj"/> information continue to follow the vetting requirements outlined in <xref href="https://www.gov.uk/government/publications/contractual-process-personal-or-classified-data" scope="external" format="html">Contractual Process: placing contracts or releasing assets.</xref></p>
+      <p>Whilst OFFICIAL and OFFICIAL-SENSITIVE are the classifications most used in the <ph conref="conrefs.dita#conrefs/moj"/>, certain areas may use SECRET or TOP SECRET.</p>
+      <section id="official-and-official-sensitive">
+        <title>Official and Official-Sensitive</title>
+        <p>The OFFICIAL classification covers a wide variety of information assets. All information related to <ph conref="conrefs.dita#conrefs/moj"/> routine business, operations, and services could be classified at OFFICIAL.</p>
+        <p>If OFFICIAL information is compromised, lost, stolen, or published, it would cause no more than moderate damage. Some examples of OFFICIAL information are public notices and leaflets, published information, information that doesn't contain sensitive content, and training materials. Aggregated data sets of OFFICIAL information may warrant additional controls.</p>
+        <p>The threat profile for the OFFICIAL classification anticipates a need to defend against a broad range of threat actors, which may include:
+          <ul>
+            <li>Staff who pose insider risk</li>
+            <li>Unauthorised leaks to the media</li>
+            <li>Criminal individuals and groups</li>
+          </ul>
+        </p>
+        <p> National security vetting is not required to access OFFICIAL information, but all <ph conref="conrefs.dita#hmglong"/> staff and contractors must undergo a BPSS (Baseline Personnel Security Standard) pre-employment check (or equivalent).</p>
+        <p>Official information that is not intended for public release, and that is of at least some interest to threat actors (internal or external), activists or the media, should be marked OFFICIAL-SENSITIVE. Some examples of OFFICIAL-SENSITIVE information are sensitive ministerial submissions and advice, policy formulation and personal sensitive information.</p>
+        <p>If OFFICIAL-SENSITIVE information is compromised it may cause moderate, short-term damage to HMG, the UK's international reputation, the UK economy, HMG's relations with its partners (including international partners), or moderate harm or distress to an individual or group of people.</p>
+        <p><xref href="https://www.gov.uk/government/publications/government-security-classifications/guidance-11-working-at-official-html" scope="external" format="html">Guidance 1.1 - working at OFFICIAL</xref> gives more information.</p>
+      </section>
+      <section id="secret">
+        <title>Secret</title>
+        <p>SECRET is applied to very sensitive information that requires enhanced protective controls, suitable to defend against highly capable and determined threat actors, whereby a compromise could threaten life (an individual or group), seriously damage the UK's security and/or international relations, its financial security/stability or impede its ability to investigate serious and organised crime.</p>
+        <p>For regular, unsupervised access to Secret information, someone would be expected to have passed National Security Vetting Security Check (SC) clearance.</p>
+        <p>In exceptional circumstances, someone with BPSS might be granted occasional supervised access to UK Secret assets or be required to work in areas where Secret or Top-Secret information might be overheard.</p>
+        <p>Whilst the SECRET classification is not widely used in the <ph conref="conrefs.dita#conrefs/moj"/>, the <ph conref="conrefs.dita#conrefs/hmggovernmentsecurityclassifications"/>gives guidance on the risks of compromise of SECRET information, and how it affects:
+          <ul>
+            <li>life and safety</li>
+            <li>international relations</li>
+            <li>military operations</li>
+            <li>prosperity</li>
+            <li>security and intelligence</li>
+          </ul></p>
+      <p><xref href="https://www.gov.uk/government/publications/government-security-classifications/guidance-12-working-at-secret-html" scope="external" format="html">Guidance 1.2 - working at SECRET</xref> gives more information.</p>
+      </section>
+      <section id="top-secret">
+        <title>Top Secret</title>
+        <p>Information assets classified TOP SECRET are exceptionally sensitive and directly support or inform the national security of the UK or its allies AND require an extremely high assurance of protection from all threats with the use of secure networks on highly secured dedicated physical infrastructure, and robustly defined and implemented boundary security controls.</p>
+        <p>For regular unsupervised access to TOP SECRET information, employees and contractors should have undergone Developed Vetting (DV) security clearance checks.</p>
+        <p>Whilst the TOP SECRET classification is not widely used in the <ph conref="conrefs.dita#conrefs/moj"/>, the <ph conref="conrefs.dita#conrefs/hmggovernmentsecurityclassifications"/> gives guidance on the risks of compromise of TOP SECRET information, and how it affects:
+        <ul>
+          <li>Life and safety</li>
+          <li>International relations</li>
+          <li>Military operations</li>
+          <li>Prosperity</li>
+          <li>Security and intelligence.</li>
+        </ul></p>
+        <p><xref href="https://www.gov.uk/government/publications/government-security-classifications/guidance-13-working-at-top-secret-html" scope="external" format="html">Guidance 1.3 - Working at TOP SECRET</xref>gives more information.</p>
+      </section>
+    </body>
+  </topic>
+  <topic id='definitions-of-need-to-know-and-need-to-share'>
+    <title>Definitions of need to know and need to share</title>
+    <body>
+      <p><b>Need-to-know</b></p>
+      <p>Access to sensitive information must be no wider than necessary for the efficient conduct of official work and limited to those with a business need and the appropriate personnel security clearance.</p>
+      <p><b>Need-to-share</b></p>
+      <p>Information must be shared with those with a legitimate need.</p>
+    </body>
+  </topic>
+  <topic id='securing-moj-information'>
+    <title>Securing <ph conref="conrefs.dita#conrefs/moj"/> information</title>
+    <body>
+      <p>Securing the <ph conref="conrefs.dita#conrefs/moj"/>'s information must be done with a combination of information security measures:
+        <ul>
+          <li>Personnel - everyone working for the <ph conref="conrefs.dita#conrefs/moj"/> should be aware of their security responsibilities and in turn acquire security clearances and undertake training to support the <ph conref="conrefs.dita#conrefs/moj"/>'s information security objectives</li>
+          <li>Physical - tangible measures should be implemented to prevent unauthorised access to physical areas, systems, or assets</li>
+          <li>Technical - hardware or software mechanisms should be implemented to protect information and IT (Information Technology) assets</li>
+        </ul>
+      </p>
+
+
+  <section id="in-the-event-of-a-compromise">
+    <title>What to do in the event of a compromise</title>
+      <p><xref href="https://www.gov.uk/government/publications/government-security-classifications/government-security-classifications-policy-html#annex-b---what-to-do-in-the-event-of-a-compromise-of-official-secret-top-secret-information" scope="external" format="hmtl">Annex B</xref> to the Government Security Classifications Policy offers guidance on what to do if OFFICIAL, SECRET or TOP SECRET information is compromised.</p>
+  </section>
+    </body>
+  </topic>
+  <topic id="reclassifying-information">
+    <title>Reclassifying information</title>
+    <body>
+      <p>The classification of an asset can only be changed and/or reclassified by the information owner.</p>
+      <p>Information users may challenge the classification of an asset with a reasoned argument.</p>
+      <p>A consideration to reclassify an information asset should consider the right balance between controls to protect information with the need to utilise assets to support the effective conduct of government business (i.e. a need-to-know and need-to-share consideration).</p>
+      <p>In rare instances you may encounter information still in use classified under the previous Government Protective Marking Scheme. If this information is still being processed, the information owner should reclassify it according to the current Government Security Classification Policy applying the appropriate classification.</p>
+      <p>However, historical information governed by the Public Records Act 1958 should remain as originally classified and must not be reclassified or amended.</p>
+    </body>
+  </topic>
+  <topic id="publication-and-disclosure">
+    <title>Publication and disclosure</title>
+    <body>
+      <p>If sensitive information is being considered for publication or disclosure, every effort should be made to consult the information creator and/or originating department.</p>
+      <p>When information has been approved for publication or disclosure, the information creator and/or originating department should apply the FOR PUBLIC RELEASE handling instruction to the copy being shared. This indicates that the information can be disseminated without restriction, including to the general public and ensures that unnecessary security controls are not applied where no risk exists.</p>
+      <p>Original historical records released to The National Archives under the Public Records Act must be scrutinised to redact any sensitive information that is protected under FOI exemptions. However, they should not be marked with any new classifications or annotations.</p>
+      <p>Different information security measures might be applicable throughout the information lifecycle. It is important continually to evaluate security classifications and their corresponding measures.</p>
+    </body>
+  </topic>
+  <topic id="legal-framework">
+    <title>Legal framework</title>
+    <body>
+      <p><xref href="https://www.gov.uk/government/publications/government-security-classifications/government-security-classifications-policy-html#annex-a---legal-framework" scope="external" format="html">Annex A</xref> to the <ph conref="conrefs.dita#conrefs/hmggovernmentsecurityclassifications"/> describes how the policy acts within the framework of domestic law.</p>
+    </body>
+  </topic>
+  <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
+</topic>
+     

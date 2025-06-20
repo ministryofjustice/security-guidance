@@ -4,5 +4,5 @@
 	<title><ph conref="conrefs.dita#conrefs/mojlong"/> Cyber Security Policy</title>
 	<topicref href="conrefs.dita" type="topic" processing-role="resource-only"/>
 	<topicref href="information-classification-and-handling-policy.dita" type="topic"/>
-	<topicref href="government-classification-scheme.dita" type="topic"/>
+	<topicref href="information-classification-and-security-guide.dita" type="topic"/>
 </map>

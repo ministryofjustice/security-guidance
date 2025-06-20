@@ -11,7 +11,7 @@ However, not all information warrants the strictest levels of protection. This i
 
 ## Classifying information
 
-The three information security classifications the MoJ uses are **Official**, **Secret**, and **Top Secret**. This follows the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications).
+The three information security classifications the MoJ uses are **Official**, **Secret**, and **Top Secret**. This follows the [HMG Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications).
 
 Each information security classification has a minimum set of security measures associated with it that need to be applied. These security measures might change, depending on the information lifecycle stage.
 
@@ -131,7 +131,7 @@ A user reviews the report. They realise that the information could potentially c
 
 ## Handling and securing information
 
-The [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) is the most comprehensive guide on the security measures necessary for each of the three security classifications, including measures related to the following:
+The [HMG Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) is the most comprehensive guide on the security measures necessary for each of the three security classifications, including measures related to the following:
 
 -   Personnel \(administrative\) security.
 -   Physical security.
@@ -146,14 +146,14 @@ The following sections set out the minimum measures you need to consider when ha
 |**`PERSONNEL`**|Make sure all MoJ staff including contractors undergo baseline security clearance checks.|A contractor working with the MoJ Security Team must undergo a baseline background check \(i.e. BPSS check\) at minimum. Refer to [Security Vetting Guidance](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/).|
 |**`PHYSICAL`**|Make sure that you lock your screen before you leave your desk.||
 ||When working in an unsecured area, for example when working remotely, think about whether unauthorised people might be able to eavesdrop on your conversations, or look over your shoulder at your screen.||
-||The MoJ has additional requirements when moving assets which can be found in the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications).|A software developer working from a flatshare should take calls in private, and use headphones and a privacy screen.|
-||Transferring information from one location to another requires planning and preparation, including a risk assessment. More information on this is available in the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications), and from your manager.|A technical architect working on the requirements for a new MoJ platform should lock their laptop before leaving their desk.|
+||The MoJ has additional requirements when moving assets which can be found in the [HMG Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications).|A software developer working from a flatshare should take calls in private, and use headphones and a privacy screen.|
+||Transferring information from one location to another requires planning and preparation, including a risk assessment. More information on this is available in the [HMG Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications), and from your manager.|A technical architect working on the requirements for a new MoJ platform should lock their laptop before leaving their desk.|
 |**`TECHNICAL`**|Protect information "at rest" by using appropriate encryption.|In the development of a new cloud-hosted solution, the following criteria should be considered: remote access connections and sessions are encrypted using an appropriate VPN; information stored "at rest" on end user devices and the cloud is encrypted; information in transit between the end user and the cloud service, such as payment services, is encrypted; and the cloud service used is a [Digital Marketplace \(GCloud\)](https://www.digitalmarketplace.service.gov.uk/g-cloud) service.|
 ||Appropriate encryption is also necessary when protecting information in transit.|When using any services over the PSN, make sure you fully read the agreements that you make with the service provider for details and definitions about the data you use or transfer using the service, to ensure you understand the risks to compliance, confidentiality, integrity, and availability.|
 ||[Digital Marketplace \(GCloud\)](https://www.digitalmarketplace.service.gov.uk/g-cloud) services can be used for **Official** information.||
 ||You must not use removable media such as an USB memory stick unless it is unavoidable. When you have to use one, it must be MoJ issued, encrypted so that the effects of losing it are minimised, and the data erased securely after use.||
 
-**Note:** Different information security measures might be applicable throughout the information lifecycle. It is important continually to evaluate security classifications and their corresponding measures. Refer to the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) for further guidance.
+**Note:** Different information security measures might be applicable throughout the information lifecycle. It is important continually to evaluate security classifications and their corresponding measures. Refer to the [HMG Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) for further guidance.
 
 ### Handling and securing **Secret** information
 
@@ -161,12 +161,12 @@ The following sections set out the minimum measures you need to consider when ha
 |----|-------|-------|
 |**`PERSONNEL`**|Make sure employees and contractors undergo Security Check \(SC\).|A contractor working with the MoJ Security Team must have at least SC before being allowed to access **Secret** information.|
 |**`PHYSICAL`**|Consider using multiple layers of security to protect **Secret** information. **Secret** information should be held on a secure computer network which is physically isolated from unsecured networks and the internet.|Imagine you are moving locations for a server used to host **Secret** information. The encrypted server is secured in a locked and monitored room in 102 Petty France. You have now decided to move it to 10 South Colonnade. This should only be done after relevant parties, including the data owner, line manager, and the system owner, have reviewed and accepted the risks associated with this transfer. The transfer should then be handled by two SC-cleared individuals, for example, employees of a specialised commercial courier company.|
-||Transferring **Secret** information from one location to another requires planning and preparation, including the completion of a Risk Assessment and the use of SC-cleared personnel. More information on this is available in the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) and from your manager.||
+||Transferring **Secret** information from one location to another requires planning and preparation, including the completion of a Risk Assessment and the use of SC-cleared personnel. More information on this is available in the [HMG Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) and from your manager.||
 |**`TECHNICAL`**|**Secret** information at rest should be protected with very strong encryption. Contact the MoJ [Security team](mailto:security@justice.gov.uk) for more information.||
 ||Care should be taken to ensure that **Secret** information in transit is only shared with defined recipient users through assured shared infrastructure or using very strong encryption.||
 ||**Secret** information should be processed on IT systems which have been approved for the **Secret** threat model. Advice on what commercial IT systems meet this requirement is available from the MoJ [Security team](mailto:security@justice.gov.uk).||
 
-**Note:** Different information security measures might be applicable throughout the information lifecycle. It is important continually to evaluate security classifications and their corresponding measures. Refer to the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) for further guidance.
+**Note:** Different information security measures might be applicable throughout the information lifecycle. It is important continually to evaluate security classifications and their corresponding measures. Refer to the [HMG Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) for further guidance.
 
 ### Handling and securing **Top Secret** information
 
@@ -175,14 +175,14 @@ The following sections set out the minimum measures you need to consider when ha
 |**`PERSONNEL`**|Ensure employees and contractors undergo Developed Vetting \(DV\) security clearance checks.|A contractor working with the MoJ Security Team should have at least DV clearance before being allowed to access **Top Secret** information.|
 |**`PHYSICAL`**|Handling and storing **Top Secret** information requires exceptional planning, monitoring, and record-keeping.|Imagine you are moving locations for a server used to host **Top Secret** information. The encrypted server is secured in a locked and continuously monitored room in 102 Petty France. You have now decided to move it to 10 South Colonnade. This should only be done after you, your manager, and senior managers have reviewed and accepted the risks associated with this transfer. The transfer should then be handled by two DV-cleared individuals, for example, employees of a specialised commercial courier company. When it happens, local police may need to be informed and involved in providing an additional layer of security.|
 ||Working remotely with **Top Secret** is not permitted due to the extreme sensitivity of the information.||
-||Transferring **Top Secret** information from one location to another requires even greater planning and preparation than for **Secret** information, including the completion of a Risk Assessment by senior management and the use of DV-cleared personnel. More information on this is available in the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) and from your manager.||
+||Transferring **Top Secret** information from one location to another requires even greater planning and preparation than for **Secret** information, including the completion of a Risk Assessment by senior management and the use of DV-cleared personnel. More information on this is available in the [HMG Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) and from your manager.||
 |**`TECHNICAL`**|When physical security measures cannot be used, **Top Secret** information at rest should be protected with extremely strong encryption. Contact the MoJ [Security team](mailto:security@justice.gov.uk) in these circumstances.||
 ||Care should be taken to ensure that **Top Secret** information in transit is only shared with defined recipient users through accredited shared infrastructure or using extremely strong encryption.||
 ||**Top Secret** information should be processed on IT systems which have been approved the **Top Secret** threat model. Advice on what commercial IT systems meet this requirement is available from the MoJ [Security team](mailto:security@justice.gov.uk).||
 
-**Note:** Different information security measures might be applicable throughout the information lifecycle. It is important continually to evaluate security classifications and their corresponding measures. Refer to the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) for further guidance.
+**Note:** Different information security measures might be applicable throughout the information lifecycle. It is important continually to evaluate security classifications and their corresponding measures. Refer to the [HMG Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications) for further guidance.
 
-**Note:** For further information on statutory disclosures and transfer to national archives, please refer to the [HMG Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications).
+**Note:** For further information on statutory disclosures and transfer to national archives, please refer to the [HMG Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications).
 
 ## Contact and Feedback
 

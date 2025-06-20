@@ -48,7 +48,8 @@
 			<ph id="helpdesk"><ph conref="#conrefs/servicedesk"/></ph>
 			<ph id="helpdesknumber"><ph conref="#conrefs/servicedesk"/> (<ph conref="#conrefs/servicedesknumber"/>)</ph>
 			<ph id="higherclassification">If you are working with information or documentation higher than the <ph conref="#conrefs/official"/> classification level, contact <ph conref="#conrefs/securityemailtext"/> for specific guidance.</ph>
-			<ph id="hmggovernmentsecurityclassifications"><xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">HMG Government Security Classifications Policy</xref></ph>
+			<ph id="hmglong">HMG (His Majesty's Government)</ph>
+			<ph id="hmggovernmentsecurityclassifications"><xref href="https://www.gov.uk/government/publications/government-security-classifications" format="html" scope="external">HMG Security Classifications Policy</xref></ph>
 			<ph id="icolong">Information Commissioner's Office (<ph conref="#conrefs/ico"/>)</ph>
 			<ph id="ico">ICO</ph>
 			<ph id="itpolicycontentemail"><xref href="mailto:itpolicycontent@digital.justice.gov.uk" format="html" scope="external">itpolicycontent@digital.justice.gov.uk</xref></ph>
