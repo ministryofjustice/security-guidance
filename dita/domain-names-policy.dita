@@ -87,13 +87,13 @@
       <body>
         <ul>
           <li>
-            <p><b>POL.DOM.006:</b> To improve clarity and security hardening, all <ph conref="conrefs.dita#conrefs/moj"/> domain name registrations and usage <ph conref="conrefs.dita#conrefs/policyshall"/> adhere to the <ph conref="conrefs.dita#conrefs/moj"/>'s <xref href="https://ministryofjustice.github.io/technical-guidance/documentation/standards/naming-domains.html#naming-domains.Guidance" format="html" scope="external">domain naming standards</xref> and <xref href="system-lockdown-and-hardening-standard.dita#scope/scope" format="dita" platform="html">system hardening standards</xref><xref href="system-lockdown-and-hardening-standard.dita#scope" format="dita" platform="epub pdf">system hardening standards</xref>.</p>
+            <p><b>POL.DOM.006:</b> To improve clarity and security hardening, all <ph conref="conrefs.dita#conrefs/moj"/> domain name registrations and usage <ph conref="conrefs.dita#conrefs/policyshall"/> adhere to the <ph conref="conrefs.dita#conrefs/moj"/>'s <xref href="https://cloud-optimisation-and-accountability.justice.gov.uk/documentation/operations-engineering-legacy/operations-engineering-user-guide/dns/domain-naming-standard.html" format="html" scope="external">domain naming standards</xref> and <xref href="system-lockdown-and-hardening-standard.dita#scope/scope" format="dita" platform="html">system hardening standards</xref><xref href="system-lockdown-and-hardening-standard.dita#scope" format="dita" platform="epub pdf">system hardening standards</xref>.</p>
           </li>
           <li>
             <p><b>POL.DOM.007:</b> This policy's related security guidance <ph conref="conrefs.dita#conrefs/policyshall"/> clearly describe why defensive domain registration is essential and why not doing it creates cyber risk.</p>
           </li>
           <li>
-            <p><b>POL.DOM.008:</b> This policy's related guidance on <xref href="https://technical-guidance.service.justice.gov.uk/documentation/standards/how-to-get-a-domain-name.html" format="html" scope="external">How to get, register or manage a domain name</xref> clearly describes defensive domain names solutions.</p>
+            <p><b>POL.DOM.008:</b> This policy's related guidance on <xref href="https://cloud-optimisation-and-accountability.justice.gov.uk/documentation/operations-engineering-legacy/operations-engineering-user-guide/dns/how-to-get-a-domain-name.html" format="html" scope="external">How to get, register or manage a domain name</xref> clearly describes defensive domain names solutions.</p>
           </li>
         </ul>
       </body>
