@@ -205,8 +205,8 @@
 					are no longer being monitored.</note></p>
 			<p id="hmppsinfosec"><b>HMPPS Information &amp; security:</b>
 				<ul>
-					<li>Email: <xref href="mailto:informationmgmtsecurity@justice.gov.uk" format="html" scope="external">informationmgmtsecurity@justice.gov.uk</xref></li>
-					<li>Tel: 0203 334 0324</li>
+					<li>Email: <xref href="mailto:informationmgmtsecurity@justice.gov.uk" format="html" scope="external">informationmgmtsecurity@justice.gov.uk</xref></li><!--this is the mailbox that may not exist-->
+					<li>Tel: 0203 334 0324</li><!--also this number-->
 				</ul>
 			</p>
 		</body>
