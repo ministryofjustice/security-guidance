@@ -176,11 +176,8 @@ In practice, all sorts of things can go wrong from time-to-time. Don't be afraid
 
 ## Related information
 
-[NCSC Home working: preparing your organisation and staff](https://www.ncsc.gov.uk/guidance/home-working) [CPNI Home Working Advice](https://www.cpni.gov.uk/advice-home-working-0)
-
-To access the following link, you'll need to be connected to the HMPPS Intranet.
-
-[HMPPS Advice](https://intranet.noms.gsi.gov.uk/support/information-policy-and-assurance/information-assurance)
+-   [NCSC Home working: preparing your organisation and staff](https://www.ncsc.gov.uk/guidance/home-working)
+-   [NPSA Home and Mobile Working Advice](https://www.npsa.gov.uk/security-best-practices/passport-good-security/home-and-mobile-working)
 
 ## Contact and Feedback
 
