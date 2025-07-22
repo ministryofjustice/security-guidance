@@ -157,7 +157,7 @@
 		<body>
 			<p>In practice, all sorts of things can go wrong from time-to-time. Don't be afraid to report incidents and issues; you will be creating a better and safer work environment.</p>
 		</body>
-		<topic id="general-enquiries-including-theft-and-loss" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title/></topic><!--the HMPPS mailbox here may not exist, contact Yinka to confirm/deny -->
+		<topic id="general-enquiries-including-theft-and-loss" conref="conrefs.dita#general-enquiries-including-theft-and-loss"><title/></topic>
 		<topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>
 		<topic id="privacy-advice" conref="conrefs.dita#privacy-advice"><title/></topic>
 		<topic id="cyber-security-advice" conref="conrefs.dita#cyber-security-advice"><title/></topic>
