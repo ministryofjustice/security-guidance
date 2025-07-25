@@ -35,7 +35,7 @@ This policy outlines acceptable use and expectations for staff using MoJ IT syst
 This policy applies to all MoJ employees, contractors, and agency staff using MoJ IT systems.
 
 -   All users must be made aware of this policy and receive appropriate security awareness training.
--   Annural refresher training is mandatory.
+-   Annual refresher training is mandatory.
 
 ## 3. Breaches of Policy or Security
 
