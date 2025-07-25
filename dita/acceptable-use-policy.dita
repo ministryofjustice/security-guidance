@@ -27,7 +27,7 @@
       <body><p>This policy applies to all <ph conref="conrefs.dita#conrefs/moj"/> employees, contractors, and agency staff using <ph conref="conrefs.dita#conrefs/moj"/> IT systems.
         <ul>
           <li>All users must be made aware of this policy and receive appropriate security awareness training.</li>
-          <li>Annural refresher training is mandatory.</li>
+          <li>Annual refresher training is mandatory.</li>
         </ul></p>
       </body>
     </topic>
