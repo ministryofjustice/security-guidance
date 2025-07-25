@@ -167,13 +167,10 @@
   <topic id="related-information">
     <title>Related information</title>
     <body>
-      <p>
-        <xref href="https://www.ncsc.gov.uk/guidance/home-working" format="html" scope="external">NCSC Home working: preparing your organisation and staff</xref>
-        <xref href="https://www.cpni.gov.uk/advice-home-working-0" format="html" scope="external">CPNI Home Working Advice</xref>
-      </p>
-      <p>To access the following link, you'll need to be connected to the HMPPS Intranet.</p>
-      <p>
-        <xref href="https://intranet.noms.gsi.gov.uk/support/information-policy-and-assurance/information-assurance" format="html" scope="external">HMPPS Advice</xref>
+      <p><ul>
+        <li><xref href="https://www.ncsc.gov.uk/guidance/home-working" format="html" scope="external">NCSC Home working: preparing your organisation and staff</xref></li>
+        <li><xref href="https://www.npsa.gov.uk/security-best-practices/passport-good-security/home-and-mobile-working" format="html" scope="external">NPSA Home and Mobile Working Advice</xref></li>
+      </ul>
       </p>
     </body>
   </topic>
