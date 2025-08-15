@@ -47,9 +47,9 @@ All staff **shall** comply with the following policy statements:
 3.  Staff responsible for contractors and third-party agreements **shall** ensure that all third parties and contractors identify and report security incidents, whether relating directly to them or their supply chain, to the designated MoJ contacts.
 4.  All third parties and contractors **shall** support the management and resolution of reported incidents.
 
-    Heads of business areas and directorates **shall** ensure:
+    Heads of business areas and directorates:
 
-5.  That processes are in place to triage, manage, escalate, and resolve security incidents, involving central MoJ security teams as appropriate.
+5.  **Shall** ensure that processes are in place to triage, manage, escalate, and resolve security incidents, involving central MoJ security teams as appropriate.
 6.  Staff **shall** be adequately trained and equipped with the necessary skills and knowledge for effective security incident management.
 7.  Identified incident management staff **shall** take ownership and responsibility for the triage, management, escalation, and resolution of assigned security incidents.
 8.  Staff involved in incident management **shall** participate in lessons learnt exercises to ensure continuous improvement.
