@@ -144,8 +144,6 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="password-managers.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="passwords.dita" type="topic" audience="audience-basic audience-suppliers audience-tech"/>
 			<topicref href="password-storage-and-management-guide.dita" type="topic" audience="audience-tech"/>
-			<topicref href="policies-for-google-apps-administrators.dita" type="topic" audience="audience-tech"/>
-			<topicref href="policies-for-macbook-administrators.dita" type="topic" audience="audience-tech"/>
 			<topicref href="system-users-and-application-administrators.dita" type="topic" audience="audience-tech"/>
 			<topicref href="using-1password.dita" type="topic" audience="audience-basic audience-tech"/>
 		</topichead>
@@ -172,7 +170,6 @@ if an audience attribute is present, then only matching content is included.
 			<topicref href="equipment-reassignment-guide.dita" type="topic"/>
 			<topicref href="laptops.dita" type="topic"/>
 			<topicref href="locking-and-shutdown.dita" type="topic"/>
-			<topicref href="policies-for-macbook-users.dita" type="topic" audience="audience-basic audience-tech"/>
 			<topicref href="system-lockdown-and-hardening-standard.dita" type="topic" audience="audience-tech"/>
 		</topichead>
 	</topichead>

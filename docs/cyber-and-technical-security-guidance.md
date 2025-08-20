@@ -20,7 +20,7 @@ Technical users include:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 15 August 2025.
+**Note:** This guidance is dated: 19 August 2025.
 
 ## Change log
 
@@ -51,7 +51,7 @@ Technical users. Contains detailed technical information, together with all user
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 15 September 2025.
+The offline versions of this guidance are time-limited, and are not valid after 19 September 2025.
 
 ## Security culture
 
@@ -219,8 +219,6 @@ These policies are for technical users:
 -   [Password Creation and Authentication Guide](password-creation-and-authentication-guide.md)
 -   [Password Management Guide](password-management-guide.md)
 -   [Password Storage and Management Guide](password-storage-and-management-guide.md)
--   [Policies for Google Apps administrators](policies-for-google-apps-administrators.md)
--   [Policies for MacBook Administrators](policies-for-macbook-administrators.md)
 -   [System User and Application Administrators](system-users-and-application-administrators.md)
 
 ### Cryptography
@@ -245,7 +243,6 @@ These policies are for all users:
 -   [Equipment Reassignment Guide](equipment-reassignment-guide.md)
 -   [Laptops](laptops.md)
 -   [Locking and shutdown](locking-and-shutdown.md)
--   [Policies for MacBook Users](policies-for-macbook-users.md)
 
 This policy is for technical users:
 
