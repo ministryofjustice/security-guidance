@@ -290,16 +290,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://security-guidance.service.justice.gov.uk/policies-for-google-apps-administrators/</loc>
-  <lastmod>2022-04-19T16:45:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/policies-for-macbook-administrators/</loc>
-  <lastmod>2022-04-19T16:45:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://security-guidance.service.justice.gov.uk/privileged-user-logging-and-protective-monitoring-guide/</loc>
   <lastmod>2022-04-19T16:45:00+00:00</lastmod>
   <priority>0.80</priority>
@@ -586,11 +576,6 @@
 </url>
 <url>
   <loc>https://security-guidance.service.justice.gov.uk/locking-and-shutdown/</loc>
-  <lastmod>2021-12-08T09:25:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://security-guidance.service.justice.gov.uk/policies-for-macbook-users/</loc>
   <lastmod>2021-12-08T09:25:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
