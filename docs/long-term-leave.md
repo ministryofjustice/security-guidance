@@ -27,7 +27,7 @@ This guidance applies to assets, defined as being laptops, desktops, or mobile p
 -   Remind your staff member that the Acceptable Usage Policy applies at all times during their leave. The policy can be found [here](acceptable-use.md).
 -   Preparation or return from any type of leave may be accompanied by changes in working patterns. The Remote Working guidance provides useful advice for anyone who may be working remotely for the first time. The policy can be found [here](remote-working.md).
 
-**Note:** Devices that are not used for 3 months or more go in to a technical "quarantine", intentionally to render them unusable. Staff members should log in to their devices once per month during leave, to ensure that technical quarantine is not activated. Logging in also helps ensure that system updates are downloaded and applied.
+**Note:** Devices that are not used for 45 days or more go in to a technical "quarantine", intentionally to render them unusable. Staff members should log in to their devices once per month during leave, to ensure that technical quarantine is not activated. Logging in also helps ensure that system updates are downloaded and applied.
 
 ### Reviewing access to data and information systems
 
