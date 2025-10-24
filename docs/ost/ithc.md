@@ -1,6 +1,16 @@
 # Guidance on IT Health Checks
 
-**Classification:** OFFICIAL **Scope:** All Ministry of Justice \(MoJ\) staff, contractors, and suppliers **Expires:** When rescinded or replaced, with annual review **Authors:** [Security Policy, Awareness, Culture, and Education team \(SPACE\)](mailto:SPACE@justice.gov.uk) **Authorised by:** MoJ Chief Information Security Officer **Date of publication:** 3 September 2025
+**Classification:** OFFICIAL
+
+**Scope:** All Ministry of Justice \(MoJ\) staff, contractors, and suppliers
+
+**Expires:** When rescinded or replaced, with annual review
+
+**Authors:** \[Security Policy, Awareness, Culture, and Education team \(SPACE\)\]\(mailto:SPACE@justice.gov.uk\)
+
+**Authorised by:** MoJ Chief Information Security Officer
+
+**Date of publication:** 3 September 2025
 
 ## 1. Introduction
 
