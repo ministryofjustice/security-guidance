@@ -373,19 +373,7 @@
 			<p>If there is an application or service that is not currently approved,
 				but which you would like to use,
 				you can request a security review.</p>
-			<p>Begin the request by filling in the <xref href="https://docs.google.com/forms/d/e/1FAIpQLSeEEBDS1HBF7meUk3SjgkqxbXBQlKAiBAezJIbKHnEjfNjBTg/viewform?gxids=7628" format="html" scope="external">Request a Security Review of a third-party service</xref> form, as best you can.
-			The more information you provide, the better.
-			But don't worry if you have to leave some bits of the form blank.</p>
-			<p>When you submit the form,
-				it is passed to the security team.
-				The app is reviewed,
-				to check things like how safe it is to use,
-				and whether there are any Data Privacy implications.
-				The security team will respond to you with an answer as quickly as possible.</p>
-			<note>You should submit the request,
-				and wait for a formal "approval" response,
-				<i>before</i> you install or use the app on  <ph conref="#conrefs/moj"/> equipment or information.</note>
-			<p>If you have any questions about the process, ask for help.</p>
+			<p>This process is currently under review. For any queries relating to this subject, please contact: <ph conref="conrefs.dita#conrefs/securityemail"/>.</p>
 		</body>
 	</topic>
 
