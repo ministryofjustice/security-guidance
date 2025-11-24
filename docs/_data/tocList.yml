@@ -1,0 +1,54 @@
+docs_list_title: Security Guidance Homepage
+docs:
+
+- title: Information Security
+  url: /information-security-policy
+  toc-position: 1
+  subfolderitems:
+    - title: Secure By Design
+      url: /secure-by-design
+    - title: Avoiding too much security
+      url: /setecastronomy
+    - title: IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER
+      url: /identify-protect-detect-respond-recover
+    - title: IT Security All-Users Policy
+      url: /it-security-all-users-policy
+    - title: IT Security Policy (all users)
+      url: /it-security-policy-overview
+    - title: Line Manager Approval
+      url: /line-manager-approval
+    - title: IT Security Technical Users Policy
+      url: /it-security-technical-users-policy
+    - title: Shared Responsibility Models
+      url: /shared-responsibility-models
+
+- title: Mobile device and remote working policy
+  url: /mobile-device-and-remote-working-policy
+  toc-position: 2
+  subfolderitems:
+    - title: Remote Working
+      url: /remote-working
+    - title: Personal Devices
+      url: /personal-devices
+
+- title: Human Resource Security
+  url: /minimum-user-clearance-requirements-guide
+  toc-position: 3
+  subfolderitems:
+    - title: Training and Education
+      url: /training-and-education
+    - title: End or change of employment
+      url: /end-or-change-of-employment
+
+- title: Acceptable Use Policy
+  url: /it-acceptable-use-policy
+  toc-position: 4
+  subfolderitems:
+    - title: Acceptable Use Guidance
+      url: /acceptable-use
+    - title: Guidance on IT Accounts and Assets for Long Term Leave
+      url: /long-term-leave
+    - title: Protect Yourself Online
+      url: /protect-yourself-online
+    - title: Web Browsing Security
+      url: /web-browsing
