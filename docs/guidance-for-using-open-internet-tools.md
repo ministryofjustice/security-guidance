@@ -152,7 +152,7 @@ There are already many OITs used across the MoJ. Permission to use an OIT might 
 
 If there is an application or service that is not currently approved, but which you would like to use, you can request a security review.
 
-This process is currently under review. For any queries relating to this subject, please contact: \([security@justice.gov.uk](mailto:security@justice.gov.uk)\).
+This process is currently under review. For any queries relating to this subject, please contact: [security@justice.gov.uk](mailto:security@justice.gov.uk).
 
 ## Getting help
 
