@@ -13,7 +13,7 @@ This policy is part of a set of Ministry of Justice \(MoJ\) policies and support
 
 The policies are:
 
--   [IT Security Incident Management Policy](it-security-incident-management-policy.md)
+-   [Security Incident Management Policy](it-security-incident-management-policy.md)
 -   [IT Disaster Recovery Policy](it-disaster-recovery-policy.md)
 -   IT Investigations - Planning and Operations Policy
 
@@ -112,7 +112,7 @@ BS 10008:2022 provides information on the collection of electronically stored in
 
 ### Reporting and Communication
 
-Each IT Security Incident Management Plan contains a communication plan and an escalation plan that **shall** be followed when responding to an IT Security incident.
+Each Security Incident Management Plan contains a communication plan and an escalation plan that **shall** be followed when responding to an IT Security incident.
 
 The [IT Security Incident Response Plan and Process Guide](it-security-incident-response-plan-and-process-guide.md) gives more information.
 

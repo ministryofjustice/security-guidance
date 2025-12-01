@@ -251,7 +251,7 @@
     <body>
       <p>If you think your email service provision has been susceptible to spam or a virus,
         report it immediately to the <ph conref="conrefs.dita#conrefs/servicedesk"/> on <ph conref="conrefs.dita#conrefs/servicedesknumber"/> as an IT security incident.
-        Please refer to the <xref href="it-security-incident-management-policy.dita" format="dita">IT Security Incident Management Policy</xref> for further guidance.</p>
+        Please refer to the <xref href="it-security-incident-management-policy.dita" format="dita">Security Incident Management</xref> for further guidance.</p>
     </body>
   </topic>
   <topic id="incidents" conref="conrefs.dita#incidents"><title/></topic>

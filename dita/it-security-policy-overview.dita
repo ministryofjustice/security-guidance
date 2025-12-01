@@ -66,7 +66,7 @@
       <p>All <ph conref="conrefs.dita#conrefs/moj"/> users <ph conref="conrefs.dita#conrefs/policymust"/>:
       <ul>
         <li>Comply with the <ph conref="conrefs.dita#conrefs/moj"/>'s <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="acceptable-use-policy.dita" format="dita">Acceptable Use Policy</xref></ph><ph audience="audience-suppliers">Acceptable Use Policy</ph></ph><ph product="policy">Acceptable Use Policy</ph> wherever they work.</li>
-        <li>Report all security incidents promptly and in line with <ph conref="conrefs.dita#conrefs/moj"/>'s <ph product="notpolicy"><ph audience="audience-tech"><xref href="it-security-incident-management-policy.dita" format="dita">IT Security Incident Management Policy</xref></ph><ph audience="audience-basic audience-suppliers">IT Security Incident Management Policy</ph></ph><ph product="policy">IT Security Incident Management Policy</ph>.</li>
+        <li>Report all security incidents promptly and in line with <ph conref="conrefs.dita#conrefs/moj"/>'s <ph product="notpolicy"><ph audience="audience-tech"><xref href="it-security-incident-management-policy.dita" format="dita">Security Incident Management</xref></ph><ph audience="audience-basic audience-suppliers">Security Incident Management</ph></ph><ph product="policy">Security Incident Management</ph>.</li>
         <li>Make themselves aware of their roles,
           responsibilities and accountability and fully comply with the relevant legislation as described in this and other <ph conref="conrefs.dita#conrefs/moj"/> guidance.</li>
         <li>Be aware of the need for Information Security as an integral part of the day to day business.</li>

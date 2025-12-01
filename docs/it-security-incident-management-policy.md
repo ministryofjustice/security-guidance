@@ -2,7 +2,7 @@
 redirect_from:
   - /it-incident-management-policy/
 ---
-# IT Security Incident Management Policy
+# Security Incident Management Policy
 
 **Classification:** OFFICIAL
 

@@ -13,7 +13,7 @@ This policy is part of a set of Ministry of Justice \(MoJ\) policies and support
 
 The policies are:
 
--   [IT Security Incident Management Policy](it-security-incident-management-policy.md)
+-   [Security Incident Management Policy](it-security-incident-management-policy.md)
 -   IT Disaster Recovery Policy
 -   [IT Investigations - Planning and Operations Policy](it-investigations-planning-and-operations-policy.md)
 
@@ -128,7 +128,7 @@ The reporting and alerting structure of an IT Disaster Recovery Plan **should** 
 
 Every stakeholder that needs to be informed, **should** be listed as a key contact within the plan.
 
-**POL.ITDR.011**: The reporting and alerting structure within an IT Disaster Recovery Plan **shall** align with the relevant IT Security Incident Management Plan and Business Continuity Plan. Responsibility for business continuity resides with the SO.
+**POL.ITDR.011**: The reporting and alerting structure within an IT Disaster Recovery Plan **shall** align with the relevant Security Incident Management Plan and Business Continuity Plan. Responsibility for business continuity resides with the SO.
 
 ## Recovery and Review
 

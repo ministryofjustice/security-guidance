@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="it-incident-management-policy">
-  <title>IT Security Incident Management Policy</title>
+  <title>Security Incident Management Policy</title>
     <body>
       <p><b>Classification:</b> OFFICIAL</p>
       <p><b>Scope:</b> All <ph conref="conrefs.dita#conrefs/mojlong"/> staff, contractors, and suppliers.</p>

@@ -403,8 +403,8 @@ These policies are for technical users:
 
 These policies are for all users:
 
--   [IT Security Incident Management Policy](it-security-incident-management-policy.md)
--   [IT Security Incident Response Plan and Process Guide](it-security-incident-response-plan-and-process-guide.md)
+-   [Security Incident Management Policy](it-security-incident-management-policy.md)
+-   [Security Incident Response Plan and Process Guide](it-security-incident-response-plan-and-process-guide.md)
 -   [Lost devices or other IT security incidents](lost-devices-incidents.md)
 -   [Reporting an incident](reporting-an-incident.md)
 

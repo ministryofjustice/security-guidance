@@ -118,7 +118,7 @@
   <topic id="security-incident-management">
     <title>Security incident management</title>
     <body>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="it-security-incident-management-policy.dita" format="dita">IT Security Incident Management Policy</xref></ph><ph audience="audience-suppliers">IT Security Incident Management Policy</ph></ph><ph product="policy">IT Security Incident Management Policy</ph>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/>'s <ph product="notpolicy"><ph audience="audience-basic audience-tech"><xref href="it-security-incident-management-policy.dita" format="dita">Security Incident Management</xref></ph><ph audience="audience-suppliers">Security Incident Management</ph></ph><ph product="policy">Security Incident Management</ph>
         covers the end-to-end incident lifecycle,
         and provides the guidance for the <ph conref="conrefs.dita#conrefs/moj"/> to respond effectively in the event of an IT Security Incident,
         which includes security incidents.
