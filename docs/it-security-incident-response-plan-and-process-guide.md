@@ -6,7 +6,7 @@ This guide is for all users and is part of a set of Ministry of Justice \(MoJ\) 
 
 The policies are:
 
--   [IT Security Incident Management Policy](it-security-incident-management-policy.md)
+-   [Security Incident Management](it-security-incident-management-policy.md)
 -   IT Disaster Recovery Policy
 -   [IT Investigations - Planning and Operations Policy](it-investigations-planning-and-operations-policy.md)
 

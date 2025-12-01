@@ -40,7 +40,7 @@
           and processes to the Security team (<xref href="#incidents-and-contact-details" format="dita">contact details</xref>).</li>
         <li>Managing long-term storage of system log data, monitoring log rotation, and the archival and deletion of log data.</li>
         <li>Any suspicious activity must be <xref href="#incidents-and-contact-details" format="dita">reported</xref>.
-          Refer to the details in the <xref href="it-security-incident-management-policy.dita" format="dita">IT Security Incident Management Policy</xref>.</li>
+          Refer to the details in the <xref href="it-security-incident-management-policy.dita" format="dita">Security Incident Management Policy</xref>.</li>
       </ul></p>
     </body>
   </topic>

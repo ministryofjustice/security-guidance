@@ -89,7 +89,7 @@
           and when they are to be contacted.</li>
         <li>Ensure that any system-specific incident management controls align with the
           <xref href="it-disaster-recovery-policy.dita" format="dita"><ph conref="conrefs.dita#conrefs/moj"/>'s IT Disaster Recovery Policy</xref>
-          and the <xref href="it-security-incident-management-policy.dita" format="dita">IT Security Incident Management Policy</xref>.</li>
+          and the <xref href="it-security-incident-management-policy.dita" format="dita">Security Incident Management Policy</xref>.</li>
       </ul></p>
     </body>
   </topic>

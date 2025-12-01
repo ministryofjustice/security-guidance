@@ -534,8 +534,8 @@
         <body>
           <p>These policies are for all users:</p>
           <ul>
-            <li><xref href="it-security-incident-management-policy.dita" format="dita">IT Security Incident Management Policy</xref></li>
-            <li><xref href="it-security-incident-response-plan-and-process-guide.dita" format="dita">IT Security Incident Response Plan and Process Guide</xref></li>
+            <li><xref href="it-security-incident-management-policy.dita" format="dita">Security Incident Management Policy</xref></li>
+            <li><xref href="it-security-incident-response-plan-and-process-guide.dita" format="dita">Security Incident Response Plan and Process Guide</xref></li>
             <li><xref href="lost-devices-incidents.dita" format="dita">Lost devices or other IT security incidents</xref></li>
             <li><xref href="reporting-an-incident.dita" format="dita">Reporting an incident</xref></li>
           </ul>

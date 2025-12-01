@@ -9,7 +9,7 @@
       <p> This guide is for all users and is part of a set of <ph conref="conrefs.dita#conrefs/mojlong"/> policies and supporting guides that cover various aspects of incident and disaster management and response.</p>
       <p>The policies are:</p>
       <ul>
-      <li><xref href="it-security-incident-management-policy.dita" format="dita">IT Security Incident Management Policy</xref></li>
+      <li><xref href="it-security-incident-management-policy.dita" format="dita">Security Incident Management Policy</xref></li>
       <li>IT Disaster Recovery Policy</li>
       <li><xref href="it-investigations-planning-and-operations-policy.dita" format="dita">IT Investigations - Planning and Operations Policy</xref></li>
       </ul>

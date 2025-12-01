@@ -13,7 +13,7 @@ This plan and process guide is part of a set of Ministry of Justice \(MoJ\) poli
 
 The policies are:
 
--   [IT Security Incident Management Policy](it-security-incident-management-policy.md)
+-   [Security Incident Management Policy](it-security-incident-management-policy.md)
 -   [IT Disaster Recovery Policy](it-disaster-recovery-policy.md)
 -   [IT Investigations - Planning and Operations Policy](it-investigations-planning-and-operations-policy.md)
 
