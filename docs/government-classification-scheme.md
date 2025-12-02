@@ -22,14 +22,14 @@ A limited amount of information is particularly sensitive, but still comes withi
 
 ## **Secret**
 
-Very sensitive information that justifies heightened protective measures to defend against determined or highly capability threats.
+Very sensitive information that justifies heightened protective measures to defend against determined or highly capable threats.
 
 > Where compromise might seriously damage military capabilities, international relations or the investigation of serious organised crime.
 
 Use of **Secret** **shall** only be used where there is a high impact and a sophisticated or determined threat \(elements of serious and organised crime, and some state actors\):
 
 -   Classified material received from Other Government Departments \(OGDs\) or agencies relating to national security and counter-terrorism.
--   Intelligence and investigations relating to individuals of interests to security agencies.
+-   Intelligence and investigations relating to individuals of interest to security agencies.
 -   Information that might seriously damage security and intelligence operations.
 -   Information affecting the ability to investigate or prosecute serious or organised crime.
 -   Personal/case details where there is a specific threat to the life or liberty of an individual such as protected witness scheme records.
