@@ -107,7 +107,7 @@ The [Email Authentication Guide](email-authentication-guide.md) provides further
 
 ## Reporting spam or malicious emails
 
-If you think your email service provision has been susceptible to spam or a virus, report it immediately to the IT Service Desk on 0800 917 5148 as an IT security incident. Please refer to the [Security Incident Management](it-security-incident-management-policy.md) for further guidance.
+If you think your email service provision has been susceptible to spam or a virus, report it immediately to the IT Service Desk on 0800 917 5148 as an IT security incident. Please refer to the [Security Incident Management Policy](it-security-incident-management-policy.md) for further guidance.
 
 ## Incidents
 

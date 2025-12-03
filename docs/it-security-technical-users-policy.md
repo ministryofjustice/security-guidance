@@ -63,7 +63,7 @@ All MoJ developers **shall** ensure they are aware of the importance of security
 
 ## Security incident management
 
-The MoJ's [Security Incident Management](it-security-incident-management-policy.md) covers the end-to-end incident lifecycle, and provides the guidance for the MoJ to respond effectively in the event of an IT Security Incident, which includes security incidents. Examples of topics covered are preparation for incidents, escalation and incident response, and recovery activities, including containment, resolution, and recovery.
+The MoJ's [Security Incident Management Policy](it-security-incident-management-policy.md) covers the end-to-end incident lifecycle, and provides the guidance for the MoJ to respond effectively in the event of an IT Security Incident, which includes security incidents. Examples of topics covered are preparation for incidents, escalation and incident response, and recovery activities, including containment, resolution, and recovery.
 
 The MoJ [IT Security Incident Response Plan and Process Guide](it-security-incident-response-plan-and-process-guide.md) provides additional detail to the policy, but also further guidance around Incident Response Team assembly and communication channels.
 
