@@ -44,7 +44,7 @@ Agencies and arms’ length bodies \(ALBs\) must follow this corporate framework
 
 You can download the full version of the guidance here:
 
--   [Working securely with paper documents and files guidance](./wswpdaf/working-securely-guidance.docx).
+-   [Working securely with paper documents and files guidance](./gs/working-securely-guidance.docx)
 
 ## Contact and Feedback
 
