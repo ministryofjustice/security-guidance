@@ -333,6 +333,7 @@
         <body>
           <p>These policies are for technical users:</p>
           <ul>
+            <li audience="audience-tech"><xref href="syops-policy.dita" format="dita">Security Operating Procedure (SyOPs) Policy</xref></li>
             <li audience="audience-tech"><xref href="mail-check.dita" format="dita">Active Cyber Defence: Mail Check</xref></li>
             <li audience="audience-tech"><xref href="public-sector-dns.dita" format="dita">Active Cyber Defence: Public Sector DNS</xref></li>
             <li audience="audience-tech"><xref href="web-check.dita" format="dita">Active Cyber Defence: Web Check</xref></li>

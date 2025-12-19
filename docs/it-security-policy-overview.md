@@ -48,7 +48,7 @@ For further guidance on IT Security, refer to the following policies.
 All MoJ users **shall**:
 
 -   Comply with the MoJ's [Acceptable Use Policy](acceptable-use-policy.md) wherever they work.
--   Report all security incidents promptly and in line with MoJ's [Security Incident Management](it-security-incident-management-policy.md).
+-   Report all security incidents promptly and in line with MoJ's [Security Incident Management Policy](it-security-incident-management-policy.md).
 -   Make themselves aware of their roles, responsibilities and accountability and fully comply with the relevant legislation as described in this and other MoJ guidance.
 -   Be aware of the need for Information Security as an integral part of the day to day business.
 -   Protect information assets under the control of the organisation.

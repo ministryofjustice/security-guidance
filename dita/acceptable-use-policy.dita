@@ -10,8 +10,8 @@
     <p><b>Authors:</b> Security Policy, Awareness, Culture, and Education team (SPACE)</p>
     <p><b>Policy owner:</b> <ph conref="conrefs.dita#conrefs/moj"/> Information Security Team (MIST)</p>
     <p><b>Authorised by:</b> <ph conref="conrefs.dita#conrefs/moj"/> Chief Information Security Officer (CISO)</p>
-    <p><b>Date of publication:</b> 22/07/2025</p>
-    <p><b>Document version:</b> 1.1</p>
+    <p><b>Date of publication:</b> 19/12/2025</p>
+    <p><b>Document version:</b> 2.0</p>
 
     <p>This document is the <ph conref="conrefs.dita#conrefs/mojlong"/> Acceptable Use Policy. It provides the core set of security principles and expectations on the acceptable use of <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</p>
   </body>
@@ -92,220 +92,130 @@
         </p>
       </body>
     </topic>
-    <topic id="protection-of-assets">
-    <title>6. Protection of assets</title>
+  <topic id="syops">
+    <title>6. Security Operating Procedures (SyOPs)</title>
     <body>
-      <p>It is paramount that all Users protect the confidentiality of information held on, processed, and transmitted by <ph conref="conrefs.dita#conrefs/moj"/> IT systems. All Users have a role in protecting the information assets which are under their control, or that they have access to.</p>
-      <p><ph conref="conrefs.dita#conrefs/moj"/> IT systems have been designed to protect the confidentiality of the data held on them. However, maintaining this requires the application of, and adherence to, a clear set of operating procedures by all Users. These are collectively known as Security Operating Procedures (SyOPs).</p>
-      <p>It is important that all Users of an IT system, including support and system administrative Users, are familiar with these SyOPs, and are provided with the appropriate training.</p>
-      <p><ul>
-      <li><p>All IT systems <ph conref="conrefs.dita#conrefs/policymust"/> have, and maintain, a set of Security Operating Procedures (SyOPs). For systems undergoing an assurance process, these SyOPs <ph conref="conrefs.dita#conrefs/policymust"/> be included as part of the assurance.</p></li>
-      <li><p>All Users of an IT system, including support and system administrative staff, <ph conref="conrefs.dita#conrefs/policymust"/> read the applicable SyOPs, and <ph conref="conrefs.dita#conrefs/policymust"/> acknowledge that they have both read and understood the SyOPs before being granted access. A record <ph conref="conrefs.dita#conrefs/policymust"/> be kept of a User being granted access, and made available for review during assurance, or upon authorised request.</p></li>
-      <li><p>All Users <ph conref="conrefs.dita#conrefs/policymust"/> be made aware that non-conformance to the system SyOPs constitutes a breach of the <ph conref="conrefs.dita#conrefs/moj"/> <xref href="it-security-policy-overview.dita" format="dita">IT Security Policy</xref>, and <ph conref="conrefs.dita#conrefs/policymight"/> result in disciplinary action.</p></li>
-      <li><p>Any change to an IT system's SyOPs <ph conref="conrefs.dita#conrefs/policymust"/> be approved through an assured change control process, before the change is made.</p></li>
-      <li><p>Any request to perform an action on an IT system which contravenes its SyOPs <ph conref="conrefs.dita#conrefs/policymust"/> be approved by the <ph conref="conrefs.dita#conrefs/securityemailtext"/> before the action is taken.</p></li>
-    </ul></p>
-      <p>For most Users, access to <ph conref="conrefs.dita#conrefs/moj"/> IT systems and information held on them is through a desktop device, a laptop, or a mobile or remote device. These devices have the capacity to store large amounts of potentially sensitive information assets. It is important that Users follow Information Management processes and handling guidelines to ensure information is stored and accessed appropriately. Further information on information handling is provided in the <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>.</p>
-    </body>
-  </topic>
-  <topic id="general-security-operating-procedures-syops">
-    <title>7. General Security Operating Procedures (SyOPs)</title>
-    <body>
-      <p>Standard SyOps include:
-        <ul>
-          <li audience="audience-tech"><xref href="privileged-user-guide.dita" format="dita">Privileged User Guide</xref>.</li>
-          <li audience="audience-tech"><xref href="system-users-and-application-administrators.dita" format="dita">System Users and Application Administrators</xref>.</li>
-          <li audience="audience-basic audience-tech"><xref href="remote-working.dita" format="dita">Remote Working</xref>.</li>
-        </ul>
-      </p>
-      <p>To minimise the number of SyOPs in circulation and standardise procedures, the SyOPs listed previously act as the primary set, which individual IT systems are expected to conform to, in terms of their own SyOPs. Any deviations or additions are dependent upon approval through the assurance process and must be recorded as an addendum to one of the primary SyOps listed in this policy.</p>
-    </body>
-  </topic>
-  <topic id="removable-media">
-    <title>8. Removable Media</title>
-    <body>
-      <p>Use of removable storage media such as USB drives, writeable CDs or DVDs, and external drives is strictly controlled by <ph conref="conrefs.dita#conrefs/moj"/> due to the potential sensitivity of the data involved. These devices can store large volumes of protectively marked data and therefore pose a significant confidentiality risk.</p>
-      <p>
-      <ul>
-        <li>Use of removable media must be approved by <ph conref="conrefs.dita#conrefs/moj"/> Security.</li>
-        <li>The type of device and its use must align with the applicable Security Operating Procedures (SyOPs).</li>
-        <li>Users must ensure data stored or transferred using these devices complies with SyOPs.</li>
-        <li>Any bulk transfer of protectively marked data must be authorised using a <xref href="https://security-guidance.service.justice.gov.uk/data-handling-and-information-sharing-guide/#data-handling-and-information-sharing-guide">Data Movement Form</xref> and adhere to encryption and handling procedures as advised by <ph conref="conrefs.dita#conrefs/moj"/> Security. Use must be approved by <xref href="mailto:security@justice.gov.uk"><ph conref="conrefs.dita#conrefs/moj"/> Security</xref>.</li>
-        <li>Data transfers must comply with SyOPs.</li>
-        <li>Bulk transfers require prior authorisation.</li>
-      </ul>
-      </p>
-    </body>
-  </topic>
-  <topic id="passwords">
-    <title>9. Passwords</title>
-    <body>
-      <p>A username and password combination is the primary access credential used for authenticating a User to MoJ systems, and authorising User access to information assets and services provided by that system. It is therefore important that Users keep their access credentials safe and secure.
-        <ul>
-          <li>Passwords must not be shared or reused across systems.</li>
-          <li>Do not attempt unauthorised access or misuse credentials.</li>
-        </ul>
-      </p>
-    </body>
-  </topic>
-  <topic id="legal-and-regulatory-requirements">
-    <title>10. Legal and regulatory requirements</title>
-    <body>
-      <p>There are a number of legal and regulatory requirements that the MoJ must comply with. These obligations are in addition to HMG security policy, as expressed in the <xref href="https://www.gov.uk/government/publications/security-policy-framework">HMG Security Policy Framework</xref>.
-      <ul>
-        <li>All Users shall be made aware of legal and regulatory requirements that they shall adhere to when accessing MoJ systems. These requirements shall be included as part of the SyOPs.</li>
+      <p>To protect the confidentiality of <ph conref="conrefs.dita#conrefs/moj"/>, SyOPs are created to contain secure working procedures and regulatory requirements for <ph conref="conrefs.dita#conrefs/moj"/> IT systems and services. <ul>
+        <li>All users of an <ph conref="conrefs.dita#conrefs/moj"/> IT system <ph conref="conrefs.dita#conrefs/policymust"/> read and acknowledge their understanding of relevant SyOPs before using a system or being granted access to a system, and must be provided with appropriate training.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> be aware that non-compliance with an <ph conref="conrefs.dita#conrefs/moj"/> IT system's SyOP is a breach of the <ph conref="conrefs.dita#conrefs/moj"/> IT Security Policy and may result in disciplinary action.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> seek the approval of the Security Team before taking any action that contravenes the SyOP of an <ph conref="conrefs.dita#conrefs/moj"/> IT system.</li>
       </ul></p>
     </body>
   </topic>
-  <topic id="moj-corporate-image">
-    <title>11. <ph conref="conrefs.dita#conrefs/moj"/> Corporate Image</title>
+  <topic id="systems-devices-and-networks">
+    <title>7. Devices, Systems, and Networks</title>
     <body>
-      <p>Communications sent from MoJ systems, or products developed using them, such as MoJ branded documents or presentations, might damage the public image of the MoJ if they are for purposes not in the interest of the MoJ, or they are abusive, offensive, defamatory, obscene, or indecent, or of such a nature as to bring the MoJ or any its employees into disrepute.
+      <p><ul>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> comply with all operating procedures when using <ph conref="conrefs.dita#conrefs/moj"/>-owned devices, systems, and networks. </li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> use only software, devices and systems that have been approved by the <ph conref="conrefs.dita#conrefs/moj"/>.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymustnot"/> attempt to circumvent the security controls of any <ph conref="conrefs.dita#conrefs/moj"/> device, system, or network.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> comply with all relevant legal and regulatory frameworks when accessing <ph conref="conrefs.dita#conrefs/moj"/> devices, systems, and networks.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> be aware that the <ph conref="conrefs.dita#conrefs/moj"/> routinely monitors device activity, including telephone usage, network, email, and Internet traffic data, including sender, receiver, subject, attachments to an email, numbers called, duration of calls, the domain names of websites visited, the duration of visits, and files uploaded or downloaded from the Internet, at a network level.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> receive approval of an authorised user or system administrator before changing the configuration of any <ph conref="conrefs.dita#conrefs/moj"/> device, system, or network that may affect the integrity of the device, system, network, or of shared data.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> submit all <ph conref="conrefs.dita#conrefs/moj"/> IT system or equipment change requests to the IT Service Desk.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> receive approval from <ph conref="conrefs.dita#conrefs/moj"/> Security before using any removable media device (USBs, external hard drives, etc.)</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> ensure that the type of removable media device, and its use, complies with all relevant SyOPs.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> ensure that data stored or transferred using removable media complies with all relevant SyOPs.</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="usernames-and-passwords">
+    <title>8. Usernames and Passwords</title>
+    <body>
+      <p>Usernames and passwords are the primary access credentials for authenticating a user to <ph conref="conrefs.dita#conrefs/moj"/> IT systems and authorising access to information.
         <ul>
-          <li>All Users shall ensure that MoJ systems are not used in an abusive, offensive, defamatory, obscene, or indecent way, or are of such a nature as to bring the MoJ or any its employees into disrepute.</li>
+          <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> keep their access credentials safe and secure. </li>
+          <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> create strong passwords using the <xref href="https://intranet.justice.gov.uk/guidance/security/equipment/equipment-management/user-access/passwords/" format="html"><ph conref="conrefs.dita#conrefs/moj"/> password guidance</xref>.</li>
+          <li>Users <ph conref="conrefs.dita#conrefs/policymustnot"/> share or reuse access credentials across <ph conref="conrefs.dita#conrefs/moj"/> IT systems.</li>
+          <li>Users <ph conref="conrefs.dita#conrefs/policymustnot"/> attempt unauthorised access or misuse credentials.</li>
+          <li>Users <ph conref="conrefs.dita#conrefs/policymustnot"/> use the credentials of any other user, or share their own access credentials with another user.</li>
         </ul>
       </p>
     </body>
   </topic>
-  <topic id="potential-to-cause-offence-and-harm">
-    <title>12. Conduct and Respect</title>
+  <topic id="conduct-and-respect">
+    <title>9. Conduct and Respect</title>
     <body>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> has a duty of care to all staff, and to provide a positive working environment. Part of this duty involves ensuring all staff maintain a high standard of behaviour and conduct.</p>
-      <p><ph conref="conrefs.dita#conrefs/moj"/> systems <ph conref="conrefs.dita#conrefs/policymustnot"/> be used for any activity that causes offence to <ph conref="conrefs.dita#conrefs/moj"/> employees, customers, suppliers, partners, or visitors, or used in a way that violates the <xref href="https://intranet.justice.gov.uk/guidance/hr/conduct-behaviour/" format="html" scope="external"><ph conref="conrefs.dita#conrefs/moj"/> Code of Conduct</xref>.</p>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> has a duty of care to all staff, and to provide a positive working environment. Part of this duty involves ensuring all staff maintain a high standard of behaviour and conduct. 
+        <ul>
+          <li>Users <ph conref="conrefs.dita#conrefs/policymustnot"/> use <ph conref="conrefs.dita#conrefs/moj"/> devices, systems, or networks for any activity that causes offence to <ph conref="conrefs.dita#conrefs/moj"/> employees, customers, suppliers, partners, or visitors, or in any way that violates the <ph conref="conrefs.dita#conrefs/moj"/> Code of Conduct. </li>
+          <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> ensure that <ph conref="conrefs.dita#conrefs/moj"/> devices, systems, and networks, are not used in an abusive, offensive, defamatory, obscene, or indecent way, or are of such a nature as to bring the <ph conref="conrefs.dita#conrefs/moj"/> or any of its employees into disrepute. </li>
+        </ul>
+      </p>
     </body>
   </topic>
   <topic id="personal-use">
-    <title>13. Personal use</title>
+    <title>10. Personal Use of <ph conref="conrefs.dita#conrefs/moj"/> Devices</title>
     <body>
-      <p>The MoJ permits limited personal use of its IT systems, provided this use does not conflict or interfere with normal business activities. The MoJ monitors the use of its IT systems. Any personal use is subject to monitoring and auditing, and might also be retained in backup format, even after deletion from live systems.</p>
-      <p>The MoJ reserves the right to restrict personal use of its IT systems. The main methods employed are:
-        <ul>
-          <li>Filtering of Internet and email traffic. All Internet and email traffic is filtered and analysed.</li>
-          <li>Policy and procedures. This policy and associated SyOPs set out the restrictions placed on the use of MoJ systems.</li>
-        </ul>
-      </p>
-      <p>
-        <ul>
-          <li>Users shall ensure that any personal use of MoJ systems does not conflict or interfere with normal business activities. Any conflict shall be reported to the User's line manager.</li>
-          <li>Users shall ensure that any personal use of MoJ systems is consistent with any applicable SyOPs, and with this acceptable use policy.</li>
-          <li>Users shall be aware that any personal use of MoJ systems which contravenes any applicable SyOPs, or this acceptable use policy, constitutes a breach of the <xref href="https://security-guidance.service.justice.gov.uk/it-security-policy-overview/#it-security-policy-overview">IT Security Policy</xref> and might result in disciplinary action.</li>
-        </ul>
-      </p>
-    </body>
-  </topic>
-  <topic id="maintaining-system-and-data-integrity">
-    <title>14. Maintaining system and data integrity</title>
-    <body>
-      <p>Users shall comply with all applicable operating procedures and ensure that they do not circumvent any security controls in place. Changes to the configuration of an IT system which affect either the integrity of that system or the integrity of shared data shall be undertaken or supervised by an authorised User or system Administrator.
-        <ul>
-          <li>All system or equipment changes must be requested via the IT Service Desk</li>
-          <li>Further details are provided in the <xref href="https://security-guidance.service.justice.gov.uk/system-users-and-application-administrators/#system-users-and-application-administrators">System Users and Application Administrators guidance</xref>.</li>
-        </ul>
-      </p>
-    </body>
-  </topic>
-  <topic id="internet-email-usage">
-    <title>15. Internet and Email Usage</title>
-    <body>
-      <p>Due to the risks associated with electronic communications such as email and the Internet, the MoJ controls and monitors usage of MoJ systems in accordance with applicable legal and regulatory requirements.
-        <ul>
-          <li>Usage is filtered and monitored</li>
-          <li>Inappropriate use may lead to disciplinary action</li>
-          <li>Access to high-bandwidth sites may be restricted due to capacity issues, causing poor performance affecting MoJ services. Therefore, the MoJ restricts access to the Internet, based on job role. Amendments can be made on the submissions of a business case for approval by the MoJ Security team.</li>
-          <li>All Users shall use the Internet, email, and other electronic communication systems only in accordance with this acceptable use policy document.</li>
-        </ul>
-      </p>
-      <p>External email and the Internet are, in general, insecure services where it is possible for external entities to intercept, monitor, change, 'spoof', or otherwise interfere with legitimate content. The MoJ deploys a number of security controls to protect its Users from Internet- and email-borne attacks. However, these controls are reliant on Users remaining vigilant, following any applicable SyOPs, and <xref href="https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/">reporting</xref> any suspicious behaviour.</p>
-    </body>
-  </topic>
-  <topic id="managing-email-use">
-    <title>16. Email Management</title>
-    <body>
-      <p>Users are responsible for ensuring that all information is handled in line with the protective marking of that information, in accordance with the <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>.</p>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/> is connected to the Government network, which provides a secure environment for sending or receiving emails between Government departments. This allows Users with an <ph conref="conrefs.dita#conrefs/moj"/> email account (normally with the suffix '<codeph>@justice.gov.uk</codeph>') to send <ph conref="conrefs.dita#conrefs/official"/> emails with <xref href="government-classification-scheme.dita" format="dita">handling caveats</xref> such as <ph conref="conrefs.dita#conrefs/sensitive"/> to another <ph conref="conrefs.dita#conrefs/moj"/> or government User, where their email suffix ends in '<codeph>gov.uk</codeph>'.</p>
-      <p>All Users <ph conref="conrefs.dita#conrefs/policymust"/> ensure that information contained within or attached to an email is handled in accordance with the <xref href="information-classification-and-handling-policy.dita" format="dita">Information Classification and Handling Policy</xref>.</p>
-      <p>Email is a major source of malware, and a route into the <ph conref="conrefs.dita#conrefs/moj"/> for criminal organisations. It <ph conref="conrefs.dita#conrefs/policymight"/> be used to defraud staff, or to exfiltrate information. All Users <ph conref="conrefs.dita#conrefs/policyshall"/> exercise care when handling emails, and <xref href="reporting-an-incident.dita" format="dita">report any suspicious activity as an IT security incident</xref>.</p>
-      <p>All Users <ph conref="conrefs.dita#conrefs/policyshall"/> ensure that they do not:
-        <ul>
-          <li>Open any attachments to an email where the source is untrusted, unknown, or unsolicited.</li>
-          <li>Click on any links within an email, where the source is untrusted, unknown, or unsolicited.</li>
-        </ul></p>
-      <p>Where a User suspects that an email received is from an untrusted, unknown, or unsolicited source, they <ph conref="conrefs.dita#conrefs/policyshall"/> <xref href="reporting-an-incident.dita" format="dita">report it as an IT security incident</xref>.</p>
-    </body>
-  </topic>
-  <topic id="connectivity-and-remote-access">
-    <title>17. Remote Access</title>
-    <body>
-      <p>Remote access is provided to MoJ systems and services, allowing Users access from offsite and home locations to connect in. The main methods of access are either via a laptop or other mobile device. Normally, remote access is to a protected MoJ IT system. Users should be aware of the security controls and procedures of the devices and systems being used, as well as any applicable general physical security considerations. This includes any restriction on the carriage of such devices, as they might contain HMG protectively marked data, or HMG cryptographic material.</p>
-      <p>MoJ security maintains a list of countries where carriage and use of remote access devices is permitted.</p>
-      <p>Further details can be found in the <xref href="https://security-guidance.service.justice.gov.uk/remote-working/#remote-working">Remote Working guidance</xref>.
-        <ul>
-          <li>All Users shall be aware of the <xref href="https://security-guidance.service.justice.gov.uk/remote-working/#remote-working">Remote Working guidance</xref>, and shall confirm that they have read and understood it before being provided with any remote access devices or equipment, such as an encryption or access control token. Approval is required for overseas device use</li>
-          <li>Any User wishing to take a remote access device out of the UK shall consult the <xref href="https://security-guidance.service.justice.gov.uk/remote-working/#remote-working">Remote Working guidance</xref> before doing so, and the applicable device IT Security Operating Procedures document.</li>
-        </ul>
-      </p>
-    </body>
-  </topic>
-  <topic id="monitoring-of-communications">
-    <title>18. Communication Monitoring</title>
-    <body>
-      <p>Communications <ph conref="conrefs.dita#conrefs/policycan"/> be monitored without notice, and on a continual basis, for a number of reasons. These include compliance with legal obligations, effective maintenance of IT systems, preventing or detecting unauthorised use or criminal activities such as cyber-intrusion, monitoring of service or performance standards, providing evidence of business transactions, and checking adherence to policies, procedures, and contracts.</p> <p>The <ph conref="conrefs.dita#conrefs/moj"/> monitors telephone usage, network, email, and Internet traffic data, including sender, receiver, subject, attachments to an email, numbers called, duration of calls, the domain names of websites visited, the duration of visits, and files uploaded or downloaded from the Internet, at a network level.</p>
-      <p>The <ph conref="conrefs.dita#conrefs/moj"/>, so far as possible and appropriate, respects User privacy and autonomy whilst they are working, but in accordance with the <xref href="#personal-use" format="dita">personal use information</xref>, any personal use of <ph conref="conrefs.dita#conrefs/moj"/> systems is also subject to monitoring. By carrying out personal activities using <ph conref="conrefs.dita#conrefs/moj"/> systems, Users are consenting to the <ph conref="conrefs.dita#conrefs/moj"/> processing any sensitive personal data which <ph conref="conrefs.dita#conrefs/policymight"/> be revealed by such monitoring, such as regular visits to a set of websites.</p>
-      <p>For the purposes of business continuity, it <ph conref="conrefs.dita#conrefs/policymight"/> be necessary for the <ph conref="conrefs.dita#conrefs/moj"/> to access business communications, including within email mailboxes, while a User is absent from work, including for a holiday and because of illness. Access is only granted through submission of a formal request to the <ph conref="conrefs.dita#conrefs/servicedesk"/>, where approval is required from the relevant line manager. The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/cisolong"/> and <ph conref="conrefs.dita#conrefs/moj"/> HR are normally consulted as well, before access is granted.
-        <ul>
-          <li>All Users <ph conref="conrefs.dita#conrefs/policyshall"/> be aware that their electronic communications are being monitored in accordance with this acceptable use policy.</li>
-          <li>All Users <ph conref="conrefs.dita#conrefs/policyshall"/> be aware that business communication such as email mailboxes <ph conref="conrefs.dita#conrefs/policymight"/> be accessed if they are absent from work. This access is normally requested through, and authorised by, the User's line manager. The <ph conref="conrefs.dita#conrefs/moj"/> <ph conref="conrefs.dita#conrefs/ciso"/> and <ph conref="conrefs.dita#conrefs/moj"/> HR are normally consulted as well, before access is granted.</li>
-        </ul>
-      </p>
-    </body>
-  </topic>
-  <topic id="data-protection-storage">
-    <title>19. Data Protection and Storage</title>
-    <body>
-      <p>Acceptable use considerations apply to the storage of personal data. This storage includes data hosting in 'cloud' environments, or within services or databases hosted or administered outside:
-      <ul>
-        <li>The UK.</li>
-        <li>The European Economic Area (EEA).</li>
-        <li>Countries with an <xref href="https://ico.org.uk/for-organisations/dp-at-the-end-of-the-transition-period/data-protection-and-the-eu-in-detail/adequacy/" format="html" scope="external">Adequacy Decision</xref> (an 'Adequacy Decision Country' or ADC).</li>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> permits users limited personal use of its devices, IT systems, and networks:<ul>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymustnot"/> use <ph conref="conrefs.dita#conrefs/moj"/> devices, IT systems, and networks for personal use in any way that conflicts or interferes with normal business activities.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> ensure that personal use of <ph conref="conrefs.dita#conrefs/moj"/> devices, IT systems, and networks, are not used in an abusive, offensive, defamatory, obscene, or indecent way, or are of such a nature as to bring the <ph conref="conrefs.dita#conrefs/moj"/> or any of its employees into disrepute.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> be aware that any personal use of <ph conref="conrefs.dita#conrefs/moj"/> devices, IT systems, and networks is controlled, monitored, and audited. This includes filtering internet and email traffic, and implementing SyOPs and policy and procedure controls.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> ensure that any personal use of <ph conref="conrefs.dita#conrefs/moj"/> IT systems does not conflict or interfere with normal business activities. Any conflict <ph conref="conrefs.dita#conrefs/policymust"/> be reported to the user's line manager.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> ensure that any personal use of <ph conref="conrefs.dita#conrefs/moj"/> IT systems is consistent with any applicable SyOPs, and with this acceptable use policy.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> be aware that any personal use of <ph conref="conrefs.dita#conrefs/moj"/> IT systems which contravenes any applicable SyOPs, or this acceptable use policy, constitutes a breach of the <xref href="https://security-guidance.service.justice.gov.uk/it-security-policy-overview/#it-security-policy-overview" format="html">IT Security Policy</xref> and might result in disciplinary action.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> be aware that the <ph conref="conrefs.dita#conrefs/moj"/> may process sensitive personal data, which may be revealed during routine monitoring, such as regular visits to a set of websites, as per the employee privacy notice.</li>
       </ul></p>
-      <p>This position also applies where a supplier uses cloud storage facilities in the UK, EEA, or an ADC, but their employees outside the UK, EEA, or the ADC are able to view the information for activities such as maintenance or trouble-shooting. The effect of this access is equivalent to the personal data being held outside the UK, EEA, or an ADC.</p>
-      <p>The reason for this position is that even with additional contractual clauses, the <ph conref="conrefs.dita#conrefs/moj"/> cannot ensure protection of its personal data stored outside the UK, EEA, or an ADC, due to some government surveillance laws.</p>
-      <ul>
-      <li>A supplier based in the UK, EEA, or an ADC, and which stores client data in the UK, EEA, or an ADC, <ph conref="conrefs.dita#conrefs/policyshould"/> be considered first and preferred where possible.</li>
-      <li>If an alternative supplier cannot be sourced, then a Standard Contractual Clause (SCC) and a Transfer Impact Assessment (TIA) <ph conref="conrefs.dita#conrefs/policyshall"/> be completed. These documents are reviewed by the <ph conref="conrefs.dita#conrefs/privacyemailtext"/>, after which the transfer <ph conref="conrefs.dita#conrefs/policymight"/> be approved. A template for these documents can be requested from <ph conref="conrefs.dita#conrefs/privacyemail"/></li>
-      <li>If the outcome of the assessment does not support the transfer and storage of information outside the UK, EEA, or an ADC, the Information Security and Risk (ISR) Board <ph conref="conrefs.dita#conrefs/policyshall"/> review the case, and if appropriate, accept the risks in order for the supplier to be used.</li>
-      <li>This acceptable use policy for <ph conref="conrefs.dita#conrefs/moj"/> personal data <ph conref="conrefs.dita#conrefs/policyshall"/> apply to:
-      <ul>
-        <li>An existing supplier changing the location of its servers, storage, or services outside the UK, EEA, or an ADC.</li>
-        <li>New suppliers.</li>
-      </ul></li>
-      </ul>
     </body>
-    </topic>
-    <topic id="data-protection-acceptable-use-protocols-and-standard-operating-procedures">
-      <title>20. Data protection acceptable use protocols and standard operating procedures</title>
-      <body>
-        <p>The <ph conref="conrefs.dita#conrefs/privacyemailtext"/> has produced a number of Acceptable Use protocol documents, providing specific data protection guidance.</p>
-        <p>The documents are available on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet, or by contacting the <ph conref="conrefs.dita#conrefs/privacyemailtext"/>.</p>
-        <p>The documents are as follows:
+  </topic>
+  <topic id="email-and-communications">
+    <title>11. Email and Communications</title>
+    <body>
+      <p><ul>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> use the Internet, email, and other electronic communication systems only in accordance with this acceptable use policy document.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> ensure that all information is handled in line with the protective marking of that information, in accordance with the <xref href="https://security-guidance.service.justice.gov.uk/information-classification-and-handling-policy/" format="html">Information Classification and Handling Policy</xref>.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> be aware that their electronic communications are being monitored on a continual basis in accordance with this acceptable use policy.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> be aware that business communication such as email mailboxes may be accessed if they are absent from work. This access is normally requested through, and authorised by, the user's line manager. The <ph conref="conrefs.dita#conrefs/moj"/> CISO and <ph conref="conrefs.dita#conrefs/moj"/> HR are normally consulted as well, before access is granted.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> be aware that inappropriate use of email, the internet, or other electronic communications may result in disciplinary action.</li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> exercise care when handling emails, and <xref href="https://security-guidance.service.justice.gov.uk/reporting-an-incident/" format="html">report any suspicious activity as an IT security incident.</xref></li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymustnot"/> open any attachments or click on any links in an email where the source is unknown, untrusted, or unsolicited.</li>
+      </ul></p>
+    </body>
+  </topic>
+  <topic id="remote-working">
+    <title>12. Remote Working</title>
+    <body>
+      <p>The <ph conref="conrefs.dita#conrefs/moj"/> provides remote access to <ph conref="conrefs.dita#conrefs/moj"/> IT systems, services, and networks, allowing users to connect from offsite and home locations. 
         <ul>
-          <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2020/12/acceptable-use-protocol-commercial-and-contract-management.pdf" format="pdf" scope="external">Commercial and Contract Management</xref></ph><ph platform="pdf epub">Commercial and Contract Management</ph></li>
-          <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2020/12/acceptable-use-protocol-subject-access-requests.pdf" format="pdf" scope="external">Subject Access Requests</xref></ph><ph platform="pdf epub">Subject Access Requests</ph></li>
-          <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2021/02/acceptable-use-protocol-storage-of-personal-data.pdf" format="pdf" scope="external">Acceptable Use Protocol Storage of Personal Data</xref></ph><ph platform="pdf epub">Acceptable Use Protocol Storage of Personal Data</ph></li>
-          <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2021/04/acceptable-use-protocol-data-subjects-rights.pdf" format="pdf" scope="external">Acceptable Use Protocol Data Subjects' Rights</xref></ph><ph platform="pdf epub">Acceptable Use Protocol Data Subjects' Rights</ph></li>
-          <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2021/04/acceptable-use-protocol-processing-of-people-data.pdf" format="pdf" scope="external">Acceptable Use Protocol Processing of People Data</xref></ph><ph platform="pdf epub">Acceptable Use Protocol Processing of People Data</ph></li>
-          <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2021/04/acceptable-use-protocol-analytical-platform.pdf" format="pdf" scope="external">Acceptable Use Protocol Analytical Platform</xref></ph><ph platform="pdf epub">Acceptable Use Protocol Analytical Platform</ph></li>
-          <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2021/04/acceptable-use-protocol-recording.pdf" format="pdf" scope="external">Acceptable Use Protocol Recording</xref></ph><ph platform="pdf epub">Acceptable Use Protocol Recording</ph></li>
-        </ul></p>
-        <p>There are also a number of Standard Operating Procedures (SOP)s,
-          including:
-          <ul>
-            <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2021/03/standard-operation-procedure-personal-data-risk-management.pdf" format="pdf" scope="external">Personal Data Risk Management</xref></ph><ph platform="pdf epub">Personal Data Risk Management</ph></li>
-            <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2018/05/data-protection-impact-assessment-guidance.pdf" format="pdf" scope="external">Data protection impact assessment guidance</xref></ph><ph platform="pdf epub">Data protection impact assessment guidance</ph></li>
-            <li><ph platform="html"><xref href="https://intranet.justice.gov.uk/documents/2021/04/data-sharing-agreement-assessment.pdf" format="pdf" scope="external">Data sharing agreement assessment</xref></ph><ph platform="pdf epub">Data sharing agreement assessment</ph></li>
-          </ul></p>
-        <p>For more information on these protocols and procedures, contact the <ph conref="conrefs.dita#conrefs/privacyemailtext"/>.</p>
-      </body>
-    </topic>
+          <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> be aware of the security controls and procedures of the <ph conref="conrefs.dita#conrefs/moj"/> devices and IT systems being used. This includes any restriction on the carriage of such devices, as they might contain HMG protectively marked data, or HMG cryptographic material. </li>
+          <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> be aware of the <xref href="https://security-guidance.service.justice.gov.uk/remote-working/#remote-working" format="html">Remote Working guidance</xref>, and <ph conref="conrefs.dita#conrefs/policymust"/> confirm that they have read and understood it before being provided with any remote access. </li>
+          <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> seek approval and consult any applicable SyOPs and the <xref href="https://security-guidance.service.justice.gov.uk/remote-working/#remote-working" format="html">Remote Working guidance</xref> before taking an <ph conref="conrefs.dita#conrefs/moj"/> device out of the UK. </li>
+        </ul>
+      </p>
+    </body>
+  </topic>
+  <topic id="data-protection-storage-and-transfer">
+    <title>13. Data Protection, Storage, and Transfer</title>
+    <body>
+      <p><ul>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> comply with all applicable SyOPs when transferring data. </li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> seek approval before any bulk transfer of data. </li>
+        <li>Users <ph conref="conrefs.dita#conrefs/policymust"/> complete a Data Movement Form before any bulk transfer of protectively marked data and <ph conref="conrefs.dita#conrefs/policymust"/> adhere to encryption and handling procedures. </li>
+        <li>When storing personal or sensitive data, users <ph conref="conrefs.dita#conrefs/policymust"/> first consider suppliers based in the UK, European Economic Area (EEA), or an Adequacy Decision Country (ADC). </li>
+        <li>If users cannot source a supplier based in the UK, EEA, or an ADC, a Standard Contractual Clause (SCC) and a Transfer Impact Assessment (TIA) <ph conref="conrefs.dita#conrefs/policymust"/> be completed for review by the Data Protection Team. </li>
+      </ul></p>
+      <p>The <xref href="mailto:DataProtection@justice.gov.uk">Data Protection Team</xref> has produced a number of Acceptable Use protocol documents, providing specific data protection guidance. </p>
+      <p>The documents are available on the <ph conref="conrefs.dita#conrefs/moj"/> Intranet, or by contacting the <xref href="mailto:DataProtection@justice.gov.uk">Data Protection Team</xref>. </p>
+      <p>The documents are as follows:
+        <ul>
+          <li><xref href="https://intranet.justice.gov.uk/documents/2020/12/acceptable-use-protocol-commercial-and-contract-management.pdf" format="html">Commercial and Contract Management</xref></li>
+          <li><xref href="https://intranet.justice.gov.uk/documents/2020/12/acceptable-use-protocol-subject-access-requests.pdf" format="html">Subject Access Requests</xref></li>
+          <li><xref href="https://intranet.justice.gov.uk/documents/2021/02/acceptable-use-protocol-storage-of-personal-data.pdf" format="html">Acceptable Use Protocol - Storage of Personal Data</xref></li>
+          <li><xref href="https://intranet.justice.gov.uk/documents/2021/04/acceptable-use-protocol-data-subjects-rights.pdf" format="html">Acceptable use Protocol - Data Subjects' Rights</xref></li>
+          <li><xref href="https://intranet.justice.gov.uk/documents/2021/04/acceptable-use-protocol-processing-of-people-data.pdf" format="html">Acceptable Use Protocol - Processing of People Data</xref></li>
+          <li><xref href="https://intranet.justice.gov.uk/documents/2021/04/acceptable-use-protocol-analytical-platform.pdf" format="html">Acceptable Use Protocol - Analytical Platform</xref></li>
+          <li><xref href="https://intranet.justice.gov.uk/documents/2021/04/acceptable-use-protocol-recording.pdf" format="html">Acceptable Use Protocol - Recording</xref></li>
+        </ul>
+      </p>
+      <p>There are also a number of Standard Operating Procedures (SOPs), including:
+        <ul>
+          <li><xref href="https://intranet.justice.gov.uk/documents/2021/03/standard-operation-procedure-personal-data-risk-management.pdf" format="html">Personal Data Risk Management</xref></li>
+          <li><xref href="https://intranet.justice.gov.uk/documents/2018/05/data-protection-impact-assessment-guidance.pdf" format="html">Data Protection Impact Assessment Guidance</xref></li>
+          <li><xref href="https://intranet.justice.gov.uk/documents/2021/04/data-sharing-agreement-assessment.pdf" format="html">Data Sharing Agreement Assessment</xref></li>
+        </ul>
+      </p>
+      <p>For more information on these protocols and procedures, contact the <xref href="mailto:DataProtection@justice.gov.uk">Data Protection Team</xref>.</p>
+    </body>
+  </topic>
   <topic id="contact-details" conref="conrefs.dita#contact-details"><title/></topic>
 </topic>
