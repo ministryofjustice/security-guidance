@@ -32,11 +32,11 @@ This policy applies to all administrators of MoJ IT systems, including MoJ emplo
 
 To help protect MoJ data and IT systems, SyOPs are provided to guide users on secure working practices for MoJ IT systems and services.
 
--   Systems administrators **shall** maintain a set of SyOPs that are included as part of each IT system's security assurance.
+-   System administrators **shall** maintain a set of SyOPs that are included as part of each IT system's security assurance.
 -   System administrators **shall** ensure that users have read and acknowledged all relevant SyOPs before granting access to an MoJ IT system.
 -   System administrators **shall** keep records of users that are granted access to MoJ IT systems and **shall** make records available during assurance or upon authorised request.
 -   System administrators **shall** seek approval through an assured change control process before updating a SyOP for any MoJ IT system.
--   Systems administrators **shall** review user requests to contravene, disregard, or take any action that differs from the system SyOP.
+-   System administrators **shall** review user requests to contravene, disregard, or take any action that differs from the system SyOP.
 -   System administrators **shall** track any exemptions from a SyOP using a risk management process.
 -   System administrators **shall** ensure that all relevant legal and regulatory requirements are contained in any SyOP they are responsible for.
 
