@@ -20,7 +20,7 @@ Technical users include:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 2 December 2025.
+**Note:** This guidance is dated: 2 January 2026.
 
 ## Change log
 
@@ -51,7 +51,7 @@ Technical users. Contains detailed technical information, together with all user
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 2 January 2026.
+The offline versions of this guidance are time-limited, and are not valid after 2 February 2026.
 
 ## Security culture
 
@@ -254,6 +254,7 @@ This policy is for technical users:
 
 These policies are for technical users:
 
+-   [Security Operating Procedure \(SyOPs\) Policy](syops-policy.md)
 -   [Active Cyber Defence: Mail Check](mail-check.md)
 -   [Active Cyber Defence: Public Sector DNS](public-sector-dns.md)
 -   [Active Cyber Defence: Web Check](web-check.md)
