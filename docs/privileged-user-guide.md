@@ -47,7 +47,7 @@ Privileged user accounts have a high degree of risk associated with them due to 
 -   Privileged user passwords must be created in line with the MoJ's [Password Guide](password-creation-and-authentication-guide.md).
 -   The password for a privileged user account must not be re-used for another privileged user account or a normal user account.
 -   Privileged user passwords must be deleted along with the account when a privileged user leaves the MoJ or changes role.
--   Multi Factor Authentication \(MFA\) must be used for privileged user accounts where possible. Refer to the [Password Guide](password-creation-and-authentication-guide.md) for further details.
+-   Multi Factor Authentication \(MFA\) must be used for privileged user accounts. Refer to the [Password Guide](password-creation-and-authentication-guide.md) for further details.
 -   Privileged user accounts must only be used when carrying out administrative tasks such as creating new user accounts or implementing software updates. At all other times a normal user account must be used, e.g. for tasks such as searching the internet and reading emails.
 -   Privileged user accounts on depreciated systems must be reviewed quarterly by system owners for breach as aging systems frequently cannot be, or are not, patched leaving them vulnerable to take over.
 -   Privileged users must not abuse the privileges they are given, such as circumventing controls put in place to protect the MoJ.
