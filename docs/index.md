@@ -1,9 +1,7 @@
 ---
-redirect_from:
-  - /accessing-moj-it-systems-from-overseas/
-  - /general-advice-on-taking-equipment-overseas/
----
-# Cyber and Technical Security Guidance
+redirect_to:
+  - https://justiceuk.sharepoint.com/sites/SecurityPolicyandGuidance/SitePages/Security-Policy-and-Guidance(1).aspx
+---# Cyber and Technical Security Guidance
 
 ## Summary
 
@@ -20,7 +18,7 @@ Technical users include:
 
 The MoJ [Technical Guidance](https://ministryofjustice.github.io/technical-guidance/) covers technical decisions in the MoJ more widely.
 
-**Note:** This guidance is dated: 30 March 2026.
+**Note:** This guidance is dated: 2 July 2026.
 
 ## Change log
 
@@ -51,7 +49,7 @@ Technical users. Contains detailed technical information, together with all user
 -   [PDF](moj-guidance-tech.pdf)
 -   [EPUB](moj-guidance-tech.epub)
 
-The offline versions of this guidance are time-limited, and are not valid after 30 April 2026.
+The offline versions of this guidance are time-limited, and are not valid after 2 August 2026.
 
 ## Security culture
 
