@@ -1,7 +1,8 @@
 ---
-redirect_to:
-  - https://justiceuk.sharepoint.com/sites/SecurityPolicyandGuidance/SitePages/Security-Policy-and-Guidance(1).aspx
----# Cyber and Technical Security Guidance
+redirect_to: https://justiceuk.sharepoint.com/sites/SecurityPolicyandGuidance/SitePages/Security-Policy-and-Guidance(1).aspx
+---
+
+# Cyber and Technical Security Guidance
 
 ## Summary
 
