@@ -16,33 +16,33 @@ for line in inFile:
         # We've found a definition list entry.
         # Work out what the target ID should be.
         # Begin by removing the start of the entry.
-        working = re.sub('^-\s\s\s\*\*', '', working)
+        working = re.sub(r'^-\s\s\s\*\*', '', working)
         # Remove the end of the entry.
-        working = re.sub('\*\*$', '', working)
+        working = re.sub(r'\*\*$', '', working)
         # Remove question marks
-        working = re.sub('\?', '', working)
+        working = re.sub(r'\?', '', working)
         # Remove ampersands
-        working = re.sub('\&', '', working)
+        working = re.sub(r'\&', '', working)
         # Remove commas
-        working = re.sub(',', '', working)
+        working = re.sub(r',', '', working)
         # Remove back-ticks
-        working = re.sub('\`', '', working)
+        working = re.sub(r'\`', '', working)
         # Remove single-quotes
-        working = re.sub('\'', '', working)
+        working = re.sub(r'\'', '', working)
         # Convert spaces to dashes
-        working = re.sub('\s', '-', working)
+        working = re.sub(r'\s', '-', working)
         # Convert strokes to dashes
-        working = re.sub('\/', '-', working)
+        working = re.sub(r'\/', '-', working)
         # Convert multiple dashes to single dash
-        working = re.sub('[-]+', '-', working)
+        working = re.sub(r'[-]+', '-', working)
         # Convert to lowercase
         working = working.lower()
         # Now remove escaped brackets.
-        working = working.replace("\(", "")
-        working = working.replace("\)", "")
+        working = working.replace(r"\(", "")
+        working = working.replace(r"\)", "")
         # Remove escaped angle-brackets.
-        working = working.replace("\<", "")
-        working = working.replace("\>", "")
+        working = working.replace(r"\<", "")
+        working = working.replace(r"\>", "")
         # Ready to output.
         # Output the newly created HTML target tag
         outFile.write("<a name=\""+working+"\"></a>\n\n")

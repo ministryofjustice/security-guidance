@@ -49,6 +49,9 @@ Ruby version 2.7.3 is known to work well for local builds.
 [rbenv]: https://github.com/rbenv/rbenv#readme
 [bundler]: http://bundler.io/
 
+To specify where Ruby gems are installed for use by bundler, use a command similar to:
+`bundle config set --local path '<location>'`
+
 Once you have Ruby and Bundler set up, you can install this project's
 dependencies by running the following in the `docs` directory:
 
